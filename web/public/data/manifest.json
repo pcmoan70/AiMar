@@ -1,0 +1,14 @@
+{
+  "retrieved": "2026-09-13T20:21:12.923Z",
+  "sources": [
+    {
+      "file": "localities.geojson",
+      "organisation": "Fiskeridirektoratet",
+      "dataset": "akvakultur_lokaliteter (Akvakulturregisteret, active localities)",
+      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS/MapServer/3/query?where=1%3D1&outFields=loknr,navn,status_lokalitet,kapasitet_lok,kapasitet_unittype,plassering,vannmiljo,fylke,kommune,til_arter,til_innehavere,til_formaal,til_produksjonsform,prodareacode,klareringsdato,lokalitet_url&f=geojson&outSR=4326",
+      "license": "NLOD 2.0",
+      "crs": "EPSG:4326",
+      "featureCount": 1781
+    }
+  ]
+}

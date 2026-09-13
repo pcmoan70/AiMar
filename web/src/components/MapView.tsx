@@ -1,0 +1,132 @@
+import { useEffect, useRef } from 'react'
+import {
+  Map as MlMap,
+  NavigationControl,
+  GeolocateControl,
+  ScaleControl,
+  type ExpressionSpecification,
+  type MapMouseEvent,
+  type LayerSpecification,
+  type SourceSpecification,
+  type StyleSpecification,
+} from 'maplibre-gl'
+import { BASE_LAYERS, LOCALITIES_LAYER, OTHER_COLOUR, OVERLAY_LAYERS, SALMON_COLOUR, layerById, wmsTileUrl } from '../lib/layers'
+import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
+import { dataUrl, type LocalityProps } from '../lib/localities'
+
+export type Selection =
+  | { type: 'farm'; props: LocalityProps }
+  | { type: 'point'; lngLat: [number, number] }
+
+
+function buildStyle(s: Settings, selectedLoknr: number | null): StyleSpecification {
+  const sources: Record<string, SourceSpecification> = {}
+  const layers: LayerSpecification[] = []
+  const base = layerById(s.baseLayer) ?? BASE_LAYERS[0]
+  sources[base.id] = {
+    type: 'raster',
+    tiles: [base.url],
+    tileSize: 256,
+    maxzoom: base.maxzoom,
+    attribution: base.attribution,
+  }
+  layers.push({ id: base.id, type: 'raster', source: base.id })
+
+  for (const l of OVERLAY_LAYERS) {
+    if (!s.overlays.includes(l.id)) continue
+    if (l.kind === 'wms') {
+      sources[l.id] = { type: 'raster', tiles: [wmsTileUrl(l)], tileSize: 256, attribution: l.attribution }
+      layers.push({ id: l.id, type: 'raster', source: l.id, paint: { 'raster-opacity': l.opacity ?? 1 } })
+    } else if (l.kind === 'geojson') {
+      sources[l.id] = { type: 'geojson', data: dataUrl(l.url.replace(/^data\//, '')), attribution: l.attribution }
+      const isSalmon: ExpressionSpecification = ['>=', ['index-of', 'Laks', ['coalesce', ['get', 'til_arter'], '']], 0]
+      layers.push({
+        id: l.id,
+        type: 'circle',
+        source: l.id,
+        paint: {
+          'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3, 9, 6, 14, 10],
+          'circle-color': ['case', isSalmon, SALMON_COLOUR, OTHER_COLOUR],
+          'circle-stroke-color': '#ffffff',
+          'circle-stroke-width': 1,
+        },
+      })
+      layers.push({
+        id: `${l.id}-selected`,
+        type: 'circle',
+        source: l.id,
+        filter: ['==', ['get', 'loknr'], selectedLoknr ?? -1],
+        paint: {
+          'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 8, 14, 16],
+          'circle-color': 'rgba(0,0,0,0)',
+          'circle-stroke-color': '#ffd60a',
+          'circle-stroke-width': 3,
+        },
+      })
+    }
+  }
+  return { version: 8, sources, layers }
+}
+
+interface Props {
+  selectedLoknr: number | null
+  onSelect: (sel: Selection) => void
+  onMap: (map: MlMap | null) => void
+}
+
+export default function MapView({ selectedLoknr, onSelect, onMap }: Props) {
+  const container = useRef<HTMLDivElement>(null)
+  const mapRef = useRef<MlMap | null>(null)
+  const onSelectRef = useRef(onSelect)
+  onSelectRef.current = onSelect
+  const appliedStyle = useRef('')
+  const settings = useSettings()
+  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr])
+
+  useEffect(() => {
+    const s = getSettings()
+    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null])
+    const map = new MlMap({
+      container: container.current!,
+      style: buildStyle(s, null),
+      center: s.view.center,
+      zoom: s.view.zoom,
+      attributionControl: { compact: true },
+    })
+    map.addControl(new NavigationControl(), 'top-right')
+    map.addControl(new GeolocateControl({ trackUserLocation: false }), 'top-right')
+    map.addControl(new ScaleControl({ unit: 'metric' }), 'bottom-left')
+
+    map.on('moveend', () => {
+      const c = map.getCenter()
+      updateSettings({ view: { center: [c.lng, c.lat], zoom: map.getZoom() } })
+    })
+    map.on('click', (e: MapMouseEvent) => {
+      const hit = map.getLayer(LOCALITIES_LAYER)
+        ? map.queryRenderedFeatures(e.point, { layers: [LOCALITIES_LAYER] })[0]
+        : undefined
+      if (hit) onSelectRef.current({ type: 'farm', props: hit.properties as LocalityProps })
+      else onSelectRef.current({ type: 'point', lngLat: [e.lngLat.lng, e.lngLat.lat] })
+    })
+    map.on('mouseenter', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = 'pointer'))
+    map.on('mouseleave', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = ''))
+
+    mapRef.current = map
+    ;(window as unknown as { __aimar: { map: MlMap } }).__aimar = { map } // test hook (scripts/smoke.mjs)
+    onMap(map)
+    return () => {
+      onMap(null)
+      map.remove()
+      mapRef.current = null
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  useEffect(() => {
+    if (!mapRef.current || styleKey === appliedStyle.current) return
+    appliedStyle.current = styleKey
+    mapRef.current.setStyle(buildStyle(settings, selectedLoknr), { diff: true })
+  }, [styleKey]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  return <div ref={container} className="map" />
+}

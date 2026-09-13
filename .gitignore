@@ -1,0 +1,5 @@
+# Private planning and Claude working files (kept local only)
+aquaculture_*.md
+tasks/
+CLAUDE.md
+.claude/
