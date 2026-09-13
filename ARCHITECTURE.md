@@ -1,6 +1,6 @@
 # AiMar architecture
 
-_Updated 2026-09-13 (evening) — Phase 1 (offline-first PWA, no backend)_
+_Updated 2026-09-14 — Phase 1 (offline-first PWA, no backend)_
 
 ## Overview
 
@@ -25,7 +25,9 @@ flowchart LR
   SW -- online --> FD[Fiskeridirektoratet WMS]
   SW -- online --> NGU[NGU marine geology WMS]
   SW -- online --> MET[MET NorKyst ncWMS]
-  Build[scripts/fetch-data.mjs<br/>build time] --> FDREST[Fiskeridirektoratet ArcGIS REST]
+  SW -- online --> KYV[Kystverket WMS + AIS density WMS]
+  Build[scripts/fetch-data.mjs<br/>build time + weekly workflow] --> FDREST[Fiskeridirektoratet ArcGIS REST]
+  Build --> PUBAQUA[Fiskeridirektoratet pub-aqua API<br/>site borders]
   Build --> Data[public/data/*.geojson + manifest.json]
   Data --> Precache
 ```
@@ -40,11 +42,12 @@ flowchart LR
 | `components/LayerPanel.tsx` | Base-map radio, overlay checkboxes, legend, provenance per layer |
 | `components/InspectPanel.tsx` | Locality register entry, or hypothetical-site neighbourhood summary |
 | `components/OfflinePanel.tsx` | Online state, install button, storage usage, area download, cache clearing, data snapshot provenance |
+| `components/SearchBox.tsx` | Header search: name/number lookup, fly-to and select |
 | `components/HelpPanel.tsx` | In-app help |
 | `components/UpdatePrompt.tsx` | "New version" / "ready offline" toast via `virtual:pwa-register/react` |
 | `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy |
 | `lib/settings.ts` | `localStorage`-backed settings store exposed through `useSyncExternalStore` |
-| `lib/localities.ts` | Locality types, data loader, haversine neighbourhood features |
+| `lib/localities.ts` | Locality types, data loader, haversine neighbourhood features, search |
 | `lib/offline.ts` | Online hook, tile enumeration for a bounding box, prefetch with concurrency, storage estimate, cache clearing |
 | `lib/install.ts` | Captures `beforeinstallprompt` |
 | `lib/__tests__/` | Vitest unit tests for tile maths, neighbourhood features and the settings store |
@@ -55,7 +58,7 @@ flowchart LR
 |---|---|---|---|
 | App shell (JS/CSS/HTML/icons) and `public/data/*` | Workbox precache | Service worker install | Versioned per build; new version prompts reload |
 | Kartverket tiles | Cache Storage `map-tiles` | Service worker runtime caching | Cache-first, 20 000 entries / 180 days |
-| WMS images (Kartverket, Miljødirektoratet, Fiskeridirektoratet, NGU) | Cache Storage `wms-images` | Service worker runtime caching | Cache-first, 10 000 entries / 60 days |
+| WMS images (Kartverket, Miljødirektoratet, Fiskeridirektoratet, NGU, Kystverket) | Cache Storage `wms-images` | Service worker runtime caching | Cache-first, 10 000 entries / 60 days |
 | NorKyst forecast images (MET thredds) | Cache Storage `forecast-images` | Service worker runtime caching | Cache-first, 3 000 entries / 1 day |
 | Settings | `localStorage` key `aimar.settings.v1` | `lib/settings.ts` | Never evicted with caches |
 | Per-site time series (future) | IndexedDB | Phase 2 | Per locality, explicit refresh |
@@ -92,8 +95,10 @@ sequenceDiagram
 
 `MapView.buildStyle` turns the registry + settings into a MapLibre style:
 raster sources for XYZ and WMS (WMS uses a `{bbox-epsg-3857}` tile template),
-a GeoJSON source for localities with a circle layer coloured by species and a
-highlight layer filtered on the selected locality number. Settings changes call
+GeoJSON sources drawn as circles (localities, coloured by species, plus a
+highlight layer filtered on the selected locality number) or as fill + outline
+(site borders). Clicking a border resolves its locality number to the bundled
+locality record. Settings changes call
 `setStyle(..., { diff: true })` so only changed layers are touched.
 
 Two MapLibre 6 details matter under Vite: the worker must be registered with
@@ -103,11 +108,14 @@ absolute because they are fetched from that worker.
 ## Build-time data snapshot
 
 `scripts/fetch-data.mjs` queries the Fiskeridirektoratet ArcGIS REST layer
-`akvakultur_lokaliteter` (1781 active localities) as GeoJSON, rounds
-coordinates to 6 decimals and writes `public/data/localities.geojson` plus a
-`manifest.json` with retrieval timestamp, source URL, licence and feature
-count. The service worker precaches both, so localities are available on first
-offline start.
+`akvakultur_lokaliteter` (1781 active localities) as GeoJSON, then fetches each
+site's border polygon from the pub-aqua API (`/sites/{siteNr}/borders`, two
+workers, backing off on HTTP 429). It rounds coordinates to 6 decimals and
+writes `localities.geojson`, `site_polygons.geojson` and a `manifest.json` with
+retrieval timestamp, source URL, licence and feature counts. The service worker
+precaches all three, so they are available on first offline start. The
+`refresh-data` workflow runs the script weekly and commits + redeploys when the
+GeoJSON changed.
 
 ## Testing
 

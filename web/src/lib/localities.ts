@@ -77,3 +77,25 @@ export function neighbourhood(localities: Localities, at: [number, number]): Nei
   }
   return { nearest, within }
 }
+
+export type LocalityFeature = Localities['features'][number]
+
+/** Case-insensitive name or locality-number search, best matches first. */
+export function searchLocalities(localities: Localities, query: string, limit = 8): LocalityFeature[] {
+  const q = query.trim().toLowerCase()
+  if (!q) return []
+  const score = (f: LocalityFeature) => {
+    const name = f.properties.navn.toLowerCase()
+    const nr = String(f.properties.loknr)
+    if (nr === q || name === q) return 0
+    if (nr.startsWith(q) || name.startsWith(q)) return 1
+    if (name.includes(q)) return 2
+    return -1
+  }
+  return localities.features
+    .map((f) => ({ f, s: score(f) }))
+    .filter((x) => x.s >= 0)
+    .sort((a, b) => a.s - b.s || a.f.properties.navn.localeCompare(b.f.properties.navn))
+    .slice(0, limit)
+    .map((x) => x.f)
+}

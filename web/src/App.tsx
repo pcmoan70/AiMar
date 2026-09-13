@@ -1,12 +1,13 @@
 import { useEffect, useState } from 'react'
 import type { Map as MlMap } from 'maplibre-gl'
-import MapView, { type Selection } from './components/MapView'
+import MapView, { type MapHit, type Selection } from './components/MapView'
 import LayerPanel from './components/LayerPanel'
 import InspectPanel from './components/InspectPanel'
 import OfflinePanel from './components/OfflinePanel'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
-import { loadLocalities, type Localities } from './lib/localities'
+import SearchBox from './components/SearchBox'
+import { loadLocalities, type Localities, type LocalityFeature } from './lib/localities'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
 
@@ -28,9 +29,19 @@ export default function App() {
     loadLocalities().then(setLocalities).catch(console.error)
   }, [])
 
-  const select = (sel: Selection) => {
+  const select = (hit: MapHit) => {
+    let sel: Selection
+    if (hit.type === 'loknr') {
+      const f = localities?.features.find((x) => x.properties.loknr === hit.loknr)
+      if (!f) return
+      sel = { type: 'farm', props: f.properties }
+    } else sel = hit
     setSelection(sel)
     updateSettings({ panel: 'inspect' })
+  }
+  const pickLocality = (f: LocalityFeature) => {
+    map?.flyTo({ center: f.geometry.coordinates as [number, number], zoom: Math.max(map.getZoom(), 11) })
+    select({ type: 'farm', props: f.properties })
   }
   const setPanel = (id: PanelId) => updateSettings({ panel: s.panel === id ? null : id })
   const selectedLoknr = selection?.type === 'farm' ? selection.props.loknr : null
@@ -41,6 +52,7 @@ export default function App() {
         <h1>
           AiMar <span className={`dot ${online ? 'on' : 'off'}`} title={online ? 'Online' : 'Offline'} />
         </h1>
+        <SearchBox localities={localities} onPick={pickLocality} />
         <nav>
           {TABS.map((t) => (
             <button key={t.id} className={s.panel === t.id ? 'active' : ''} onClick={() => setPanel(t.id)}>

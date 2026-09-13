@@ -1,5 +1,15 @@
 # Changes
 
+## 2026-09-14
+
+- Kystverket overlays: main/secondary fairways, fairway areas, shipping
+  anchorage areas, AIS vessel track density 2022.
+- Site borders are now bundled vector polygons from the pub-aqua API (clickable,
+  offline) instead of a WMS image layer.
+- Locality search box (name or number) with fly-to.
+- Weekly scheduled workflow refreshes the data snapshot and redeploys on change.
+- Deployed to GitHub Pages; repo made public; planning documents kept local.
+
 ## 2026-09-13
 
 - Re-scoped Phase 1 of the project plan as an offline-first Progressive Web App

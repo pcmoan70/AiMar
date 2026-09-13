@@ -1,0 +1,36 @@
+name: Refresh data snapshot
+
+on:
+  schedule:
+    - cron: '17 4 * * 1' # Mondays 04:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/fetch-data.mjs
+      - name: Commit and redeploy if the data changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add public/data
+          if git diff --cached --quiet -- public/data/localities.geojson public/data/site_polygons.geojson; then
+            echo "No data changes"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh data snapshot $(date -u +%F)"
+          git push
+          gh workflow run deploy.yml

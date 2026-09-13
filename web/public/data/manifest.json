@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-09-13T20:21:12.923Z",
+  "retrieved": "2026-09-13T22:00:39.039Z",
   "sources": [
     {
       "file": "localities.geojson",
@@ -9,6 +9,15 @@
       "license": "NLOD 2.0",
       "crs": "EPSG:4326",
       "featureCount": 1781
+    },
+    {
+      "file": "site_polygons.geojson",
+      "organisation": "Fiskeridirektoratet",
+      "dataset": "Akvakulturregisteret site borders (pub-aqua API /sites/{siteNr}/borders)",
+      "url": "https://api.fiskeridir.no/pub-aqua/api/v1/sites/{siteNr}/borders",
+      "license": "NLOD 2.0",
+      "crs": "EPSG:4326",
+      "featureCount": 1366
     }
   ]
 }

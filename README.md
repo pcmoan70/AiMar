@@ -50,8 +50,11 @@ with `BASE_PATH=/`.
   protected seabed habitats, spawning areas and licensed site polygons
   (Fiskeridirektoratet), seabed sediment, anchoring conditions, deposition
   areas and slope (NGU), NorKyst v3 surface temperature, salinity and currents
-  (MET Norway), and all active aquaculture localities. Layers with a colour
-  scale show a legend when enabled.
+  (MET Norway), fairways, fairway areas, shipping anchorages and AIS vessel
+  track density (Kystverket), licensed site borders and all active aquaculture
+  localities (bundled vector data). Layers with a colour scale show a legend
+  when enabled.
+- Search box in the header finds a locality by name or number and flies to it.
 - Click a locality for its register entry (capacity, species, operators,
   production form, municipality, clearance date, link to Akvakulturregisteret).
 - Click anywhere else in the sea for a hypothetical-site summary: nearest farm
@@ -68,17 +71,20 @@ with `BASE_PATH=/`.
 | Source | Data | Licence |
 |---|---|---|
 | Kartverket | Topographic maps, nautical chart, bathymetry (Dybdedata) | CC BY 4.0 |
-| Fiskeridirektoratet | Aquaculture localities and site polygons (Akvakulturregisteret), spawning areas, protected seabed habitats | NLOD 2.0 |
+| Fiskeridirektoratet | Aquaculture localities and site borders (Akvakulturregisteret), spawning areas, protected seabed habitats | NLOD 2.0 |
+| Kystverket | Main/secondary fairways, fairway areas, shipping anchorages, AIS track density 2022 | NLOD 2.0 |
 | Miljødirektoratet | Protected areas (Naturvern) | NLOD 2.0 |
 | NGU | Marine base maps: sediment grain size, anchoring conditions, deposition areas, slope | NLOD 2.0 |
 | MET Norway | NorKyst v3 800 m forecast: surface temperature, salinity, current speed and direction (latest model hour, via thredds ncWMS) | CC BY 4.0 |
 
-Locality points are snapshotted at build time because the ArcGIS REST query
-endpoint does not allow cross-origin browser requests. Run `npm run fetch-data`
-to refresh; the snapshot date is written to `public/data/manifest.json`.
+Locality points and site borders are snapshotted at build time (the ArcGIS
+REST query endpoint does not allow cross-origin browser requests, and borders
+require one API call per site). Run `npm run fetch-data` to refresh; the
+snapshot date is written to `public/data/manifest.json`. A scheduled workflow
+(`.github/workflows/refresh-data.yml`) refreshes the snapshot every Monday and
+redeploys when the data changed.
 
 ## Roadmap
 
-Next up: BarentsWatch fish-health history (needs an API token), Kystverket
-fairways and AIS traffic density, NorKyst climatological statistics, and the
-Python feature engine.
+Next up: BarentsWatch fish-health history (needs an API token), NorKyst
+climatological statistics, per-site time series, and the Python feature engine.

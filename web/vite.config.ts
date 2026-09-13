@@ -45,7 +45,7 @@ export default defineConfig({
           },
           {
             // WMS overlay images (bathymetry, protected areas, Fiskeridir layers)
-            urlPattern: /^https:\/\/(wms\.geonorge\.no|kart\.miljodirektoratet\.no|gis\.fiskeridir\.no|geo\.ngu\.no)\//,
+            urlPattern: /^https:\/\/(wms\.geonorge\.no|kart\.miljodirektoratet\.no|gis\.fiskeridir\.no|geo\.ngu\.no|services\.kystverket\.no|wms-geo\.kystverket\.no)\//,
             handler: 'CacheFirst',
             options: {
               cacheName: 'wms-images',

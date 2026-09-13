@@ -20,6 +20,8 @@ export interface LayerDef {
   params?: Record<string, string>
   /** Legend image URL shown in the layer panel when enabled. */
   legend?: string
+  /** How a GeoJSON layer is drawn (default circle). */
+  render?: 'circle' | 'fill'
   organisation: string
   license: string
   attribution: string
@@ -32,6 +34,8 @@ export interface LayerDef {
 const KV = 'https://cache.kartverket.no/v1/wmts/1.0.0'
 const NGU = 'https://geo.ngu.no/mapserver/MarineGrunnkartWMS'
 const NORKYST = 'https://thredds.met.no/thredds/wms/fou-hi/norkystv3_800m_m00_be'
+const KYSTVERKET = 'https://services.kystverket.no/wms.ashx'
+const AIS = 'https://wms-geo.kystverket.no/density'
 const KV_ATTR = '© Kartverket'
 const CC4 = 'CC BY 4.0'
 const NLOD = 'NLOD 2.0'
@@ -252,18 +256,72 @@ export const LAYERS: LayerDef[] = [
     description: 'Arrows for the latest model hour.',
   },
   {
-    id: 'site-polygons',
-    title: 'Aquaculture site polygons (Fiskeridirektoratet)',
+    id: 'fairways',
+    title: 'Main and secondary fairways (Kystverket)',
     group: 'overlay',
     kind: 'wms',
-    url: 'https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer',
-    wmsLayers: 'flate_ihht_akvakulturregisteret',
+    url: KYSTVERKET,
+    wmsLayers: 'layer_552',
+    organisation: 'Kystverket',
+    license: NLOD,
+    attribution: '© Kystverket',
+    cache: 'cache-first',
+    opacity: 0.9,
+    description: 'Hovedled og biled, current fairway regulation.',
+  },
+  {
+    id: 'fairway-area',
+    title: 'Fairway areas (Kystverket)',
+    group: 'overlay',
+    kind: 'wms',
+    url: KYSTVERKET,
+    wmsLayers: 'layer_554',
+    organisation: 'Kystverket',
+    license: NLOD,
+    attribution: '© Kystverket',
+    cache: 'cache-first',
+    opacity: 0.5,
+    description: 'Farledsareal: the regulated navigation corridor around fairways.',
+  },
+  {
+    id: 'ship-anchorages',
+    title: 'Shipping anchorage areas (Kystverket)',
+    group: 'overlay',
+    kind: 'wms',
+    url: KYSTVERKET,
+    wmsLayers: 'layer_888',
+    organisation: 'Kystverket',
+    license: NLOD,
+    attribution: '© Kystverket',
+    cache: 'cache-first',
+    opacity: 0.7,
+  },
+  {
+    id: 'ais-density',
+    title: 'AIS vessel track density 2022 (Kystverket)',
+    group: 'overlay',
+    kind: 'wms',
+    url: AIS,
+    wmsLayers: 'ais_trackdensity_norway_2022_1000mx1000m',
+    organisation: 'Kystverket',
+    license: NLOD,
+    attribution: '© Kystverket',
+    cache: 'cache-first',
+    opacity: 0.7,
+    description: 'Vessel track density from AIS, 1 km grid, full year 2022.',
+  },
+  {
+    id: 'site-polygons',
+    title: 'Aquaculture site borders (Fiskeridirektoratet)',
+    group: 'overlay',
+    kind: 'geojson',
+    render: 'fill',
+    url: 'data/site_polygons.geojson',
     organisation: 'Fiskeridirektoratet',
     license: NLOD,
     attribution: '© Fiskeridirektoratet',
-    cache: 'cache-first',
-    opacity: 0.8,
-    description: 'Licensed site outlines from Akvakulturregisteret.',
+    cache: 'precache',
+    description: 'Licensed site outlines from Akvakulturregisteret, snapshot bundled with the app.',
   },
   {
     id: 'localities',

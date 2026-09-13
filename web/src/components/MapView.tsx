@@ -18,6 +18,11 @@ export type Selection =
   | { type: 'farm'; props: LocalityProps }
   | { type: 'point'; lngLat: [number, number] }
 
+/** What a map click hit; a border polygon only carries its locality number. */
+export type MapHit = Selection | { type: 'loknr'; loknr: number }
+
+const POLYGON_LAYER = 'site-polygons'
+
 
 function buildStyle(s: Settings, selectedLoknr: number | null): StyleSpecification {
   const sources: Record<string, SourceSpecification> = {}
@@ -39,6 +44,11 @@ function buildStyle(s: Settings, selectedLoknr: number | null): StyleSpecificati
       layers.push({ id: l.id, type: 'raster', source: l.id, paint: { 'raster-opacity': l.opacity ?? 1 } })
     } else if (l.kind === 'geojson') {
       sources[l.id] = { type: 'geojson', data: dataUrl(l.url.replace(/^data\//, '')), attribution: l.attribution }
+      if (l.render === 'fill') {
+        layers.push({ id: l.id, type: 'fill', source: l.id, paint: { 'fill-color': SALMON_COLOUR, 'fill-opacity': 0.2 } })
+        layers.push({ id: `${l.id}-outline`, type: 'line', source: l.id, paint: { 'line-color': '#c8641a', 'line-width': 1.5 } })
+        continue
+      }
       const isSalmon: ExpressionSpecification = ['>=', ['index-of', 'Laks', ['coalesce', ['get', 'til_arter'], '']], 0]
       layers.push({
         id: l.id,
@@ -70,7 +80,7 @@ function buildStyle(s: Settings, selectedLoknr: number | null): StyleSpecificati
 
 interface Props {
   selectedLoknr: number | null
-  onSelect: (sel: Selection) => void
+  onSelect: (hit: MapHit) => void
   onMap: (map: MlMap | null) => void
 }
 
@@ -105,8 +115,12 @@ export default function MapView({ selectedLoknr, onSelect, onMap }: Props) {
       const hit = map.getLayer(LOCALITIES_LAYER)
         ? map.queryRenderedFeatures(e.point, { layers: [LOCALITIES_LAYER] })[0]
         : undefined
-      if (hit) onSelectRef.current({ type: 'farm', props: hit.properties as LocalityProps })
-      else onSelectRef.current({ type: 'point', lngLat: [e.lngLat.lng, e.lngLat.lat] })
+      if (hit) return onSelectRef.current({ type: 'farm', props: hit.properties as LocalityProps })
+      const poly = map.getLayer(POLYGON_LAYER)
+        ? map.queryRenderedFeatures(e.point, { layers: [POLYGON_LAYER] })[0]
+        : undefined
+      if (poly) return onSelectRef.current({ type: 'loknr', loknr: Number(poly.properties.loknr) })
+      onSelectRef.current({ type: 'point', lngLat: [e.lngLat.lng, e.lngLat.lat] })
     })
     map.on('mouseenter', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = 'pointer'))
     map.on('mouseleave', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = ''))
