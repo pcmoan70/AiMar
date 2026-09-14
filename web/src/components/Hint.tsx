@@ -1,8 +1,12 @@
 import { useEffect, useLayoutEffect, useRef, useState, type ReactNode } from 'react'
 import { createPortal } from 'react-dom'
 import { useT } from '../lib/i18n'
+import { getSettings, updateSettings, useSettings } from '../lib/settings'
+import type { HintKey } from '../lib/hints'
 
 interface Props {
+  /** Stable id (the 'hint.<id>' dictionary key) so a blocked popup stays blocked across languages. */
+  id: HintKey
   text: string
   children: ReactNode
   /** Render as a block element (e.g. around a chart) instead of inline. */
@@ -12,9 +16,11 @@ interface Props {
 /**
  * Wraps a label or value; hovering, focusing or tapping shows an explanation of source and method.
  * The popup stays while the pointer is on the label or the popup itself and closes with its ✕, Escape, or leaving both.
+ * Ø blocks this popup until "unblock" in Settings.
  */
-export default function Hint({ text, children, block }: Props) {
+export default function Hint({ id, text, children, block }: Props) {
   const t = useT()
+  const blocked = useSettings().blockedHints.includes(id)
   const [anchor, setAnchor] = useState<DOMRect | null>(null)
   const pop = useRef<HTMLDivElement>(null)
   const timer = useRef<number | undefined>(undefined)
@@ -50,6 +56,7 @@ export default function Hint({ text, children, block }: Props) {
     return () => document.removeEventListener('keydown', onKey)
   }, [anchor])
   const Tag = block ? 'div' : 'span'
+  if (blocked) return <Tag className="hint blocked">{children}</Tag>
   return (
     <>
       <Tag
@@ -68,6 +75,18 @@ export default function Hint({ text, children, block }: Props) {
         createPortal(
           <div ref={pop} className="hint-pop" style={style} role="tooltip" onMouseEnter={stay} onMouseLeave={leave}>
             {text}
+            <button
+              type="button"
+              className="hint-block"
+              onClick={() => {
+                hide()
+                updateSettings({ blockedHints: [...new Set([...getSettings().blockedHints, id])] })
+              }}
+              aria-label={t('hint.block')}
+              title={t('hint.block')}
+            >
+              Ø
+            </button>
             <button type="button" className="hint-close" onClick={hide} aria-label={t('hint.close')} title={t('hint.close')}>
               ✕
             </button>

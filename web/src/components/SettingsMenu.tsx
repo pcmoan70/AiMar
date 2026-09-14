@@ -67,6 +67,10 @@ export default function SettingsMenu() {
             {t('settings.offline')}
             <small>{t('settings.offlineNote')}</small>
           </button>
+          <button type="button" className="secondary settings-offline" disabled={!s.blockedHints.length} onClick={() => updateSettings({ blockedHints: [] })}>
+            {t('settings.unblock', { n: s.blockedHints.length })}
+            <small>{t('settings.unblockNote')}</small>
+          </button>
         </div>
       )}
     </div>

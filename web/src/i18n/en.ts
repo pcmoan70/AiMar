@@ -32,6 +32,8 @@ export const en: Record<string, string> = {
   'settings.cacheNote': 'Least recently used overlay images and other data are removed first, base-map tiles last.',
   'settings.offline': 'Offline & storage…',
   'settings.offlineNote': 'Download areas, see what is cached, bundled data.',
+  'settings.unblock': 'Unblock explanations ({n})',
+  'settings.unblockNote': 'Show again the explanation popups blocked with Ø.',
 
   // update prompt
   'update.available': 'A new version of AiMar is available.',
@@ -94,6 +96,7 @@ export const en: Record<string, string> = {
   'inspect.liceAbove': 'Weeks above limit',
   'inspect.liceTreat': 'Treatment weeks',
   'hint.close': 'Close',
+  'hint.block': 'Do not show this explanation again',
   'hint.liceMean': `Average of the weekly reported adult female lice per fish over the last 52 weeks of the snapshot; weeks without a report (not operating) are left out. Click to choose ranges to filter the map by. ${BW}`,
   'hint.liceMax': `Highest weekly reported adult female lice per fish in the last 52 weeks — the worst spike. Click to choose ranges to filter the map by. ${BW}`,
   'hint.liceAbove': `Number of weeks in the last 52 where the reported average exceeded 0.5 adult female lice per fish. Click to choose ranges to filter the map by. ${BW}`,
@@ -346,11 +349,11 @@ export const en: Record<string, string> = {
   'hint.snapshot': 'Date the bundled datasets were downloaded from their sources; a weekly job refreshes them and redeploys the app.',
 
   // help (sections; items use **bold** markup)
-  'help.intro': 'An open-data map of Norwegian aquaculture sites and the conditions around them, built to keep working offline. Every figure in the app has a dotted underline: hover, tap or focus it to see its source and how it was calculated; the popup stays while the pointer is on it and closes with its ✕ or Escape.',
+  'help.intro': 'An open-data map of Norwegian aquaculture sites and the conditions around them, built to keep working offline. Every figure in the app has a dotted underline: hover, tap or focus it to see its source and how it was calculated; the popup stays while the pointer is on it and closes with its ✕ or Escape; Ø blocks that explanation until you unblock it in ⚙ Settings.',
   'help.header.title': 'Header',
   'help.header.1': '**Search** finds a locality by name or number and flies to it.',
   'help.header.2': '**Layers**, **Inspect**, **Cases** and **Help** open the side panel.',
-  'help.header.3': '**⚙ Settings** holds the language, the base map (topographic, greytone, nautical chart), the offline cache limit and the Offline & storage panel.',
+  'help.header.3': '**⚙ Settings** holds the language, the base map (topographic, greytone, nautical chart), the offline cache limit, the Offline & storage panel and "Unblock explanations" for popups blocked with Ø.',
   'help.header.4': '**Log out** returns to the sign-in screen. Sign-in is remembered on this device.',
   'help.map.title': 'Map',
   'help.map.1': 'Dots are aquaculture localities; site borders are the licensed outlines.',

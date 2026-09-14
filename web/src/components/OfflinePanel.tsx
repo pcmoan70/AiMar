@@ -115,7 +115,7 @@ export default function OfflinePanel({ map }: Props) {
       )}
       {storage && (
         <p className="muted">
-          <Hint text={t('hint.storage')}>
+          <Hint id="storage" text={t('hint.storage')}>
             {t('offline.storage', { u: formatBytes(storage.usage), q: formatBytes(storage.quota) })}
             {storage.persisted ? t('offline.persistent') : ''}
           </Hint>
@@ -123,7 +123,7 @@ export default function OfflinePanel({ map }: Props) {
       )}
       {counts && (
         <p className="muted">
-          <Hint text={t('hint.cacheCounts')}>
+          <Hint id="cacheCounts" text={t('hint.cacheCounts')}>
             {t('offline.cached', { b: counts.baseTiles.toLocaleString(numberLocale()), o: counts.overlayImages.toLocaleString(numberLocale()), f: counts.forecastImages.toLocaleString(numberLocale()) })}
           </Hint>
         </p>
@@ -145,7 +145,7 @@ export default function OfflinePanel({ map }: Props) {
         </select>
       </label>
       <p className="muted">
-        <Hint text={t('hint.tileCount')}>{t('offline.tiles', { a: zmin, b: zmax, n: activeLayers.length, t: urls.length })}</Hint>
+        <Hint id="tileCount" text={t('hint.tileCount')}>{t('offline.tiles', { a: zmin, b: zmax, n: activeLayers.length, t: urls.length })}</Hint>
         {tooMany && <strong>{t('offline.tooMany', { m: MAX_DOWNLOAD_TILES })}</strong>}
       </p>
       <p>
@@ -164,7 +164,7 @@ export default function OfflinePanel({ map }: Props) {
         </button>
       </p>
       <p className="muted">
-        <Hint text={t('hint.cacheLimit')}>
+        <Hint id="cacheLimit" text={t('hint.cacheLimit')}>
           {t('offline.limit', { gb: s.cacheLimitGb })}
           {(() => {
             const r = lastJanitorResult()
@@ -188,7 +188,7 @@ export default function OfflinePanel({ map }: Props) {
       {manifest ? (
         <ul className="plain">
           <li className="muted">
-            <Hint text={t('hint.snapshot')}>{t('offline.snapshot', { date: manifest.retrieved.slice(0, 10) })}</Hint>
+            <Hint id="snapshot" text={t('hint.snapshot')}>{t('offline.snapshot', { date: manifest.retrieved.slice(0, 10) })}</Hint>
           </li>
           {manifest.sources.map((src) => (
             <li key={src.file}>

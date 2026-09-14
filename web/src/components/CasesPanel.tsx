@@ -76,7 +76,7 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
   return (
     <div className="panel-body cases-panel">
       <h2>
-        <Hint text={t('hint.casesPanel')}>{t('cases.title')}</Hint>
+        <Hint id="casesPanel" text={t('hint.casesPanel')}>{t('cases.title')}</Hint>
       </h2>
       <p className="muted">{t(loknrs ? 'cases.countFiltered' : 'cases.countAll', { n: all.length, m: siteCount })}</p>
       <input

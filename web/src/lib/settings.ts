@@ -25,6 +25,8 @@ export interface Settings {
   fieldFilters: FieldFilters
   /** Kernel radius (km) of the treatment heatmap. */
   heatRadiusKm: number
+  /** Explanation popups the user blocked with Ø (hint ids). */
+  blockedHints: string[]
 }
 
 const KEY = 'aimar.settings.v1'
@@ -41,6 +43,7 @@ export const DEFAULT_SETTINGS: Settings = {
   cacheLimitGb: 20,
   fieldFilters: {},
   heatRadiusKm: 20,
+  blockedHints: [],
 }
 
 function load(): Settings {

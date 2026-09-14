@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Explanation popups have a Ø button that blocks that explanation; ⚙ Settings
+  gets "Unblock explanations (n)" to show them again. Blocks persist on the
+  device (settings store).
 - Operator dropdown lists operators by permitted capacity (tonnes) instead of
   site count; "Zoom to sites" and "Show all" are always visible (disabled
   when nothing is selected) so the list does not jump.

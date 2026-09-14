@@ -98,13 +98,13 @@ export default function OperatorDropdown({ localities, map }: Props) {
             {shown.map((o) => (
               <label key={o.name} className="row" role="option" aria-selected={selected.has(o.name)}>
                 <input type="checkbox" checked={selected.has(o.name)} onChange={() => toggle(o.name)} />
-                <Hint text={t('hint.operatorColours')}>
+                <Hint id="operatorColours" text={t('hint.operatorColours')}>
                   <span className="swatch" style={{ background: siteColour(o.name, s.operatorFilter) }} />
                 </Hint>
                 <span>
                   {o.name}
                   <small>
-                    <Hint text={t('hint.operatorSites')}>
+                    <Hint id="operatorSites" text={t('hint.operatorSites')}>
                       {t(o.sites === 1 ? 'ops.siteCount' : 'ops.siteCountPlural', { n: o.sites, t: fmt(o.capacityTn) })}
                     </Hint>
                   </small>

@@ -65,7 +65,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
       return (
         <tr key={h} className={isActive ? 'filtered' : ''}>
           <th>
-            <Hint text={t(`hint.${h}`)}>{k}</Hint>
+            <Hint id={h} text={t(`hint.${h}`)}>{k}</Hint>
           </th>
           <td>
             {filterable ? (
@@ -139,7 +139,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
               <tbody>
                 <tr>
                   <th>
-                    <Hint text={t('hint.latestLice')}>{t('inspect.latestLice')}</Hint>
+                    <Hint id="latestLice" text={t('hint.latestLice')}>{t('inspect.latestLice')}</Hint>
                   </th>
                   <td>
                     {sum.latest ? `${sum.latest.lice} (${t('chart.week', { w: sum.latest.week })})` : t('inspect.notReported')}
@@ -148,14 +148,14 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
                 </tr>
                 <tr>
                   <th>
-                    <Hint text={t('hint.last52')}>{t('inspect.last52')}</Hint>
+                    <Hint id="last52" text={t('hint.last52')}>{t('inspect.last52')}</Hint>
                   </th>
                   <td>{t('inspect.summary', { r: sum.weeksReported, a: sum.weeksAboveLimit, t: sum.treatments })}</td>
                 </tr>
                 {liceRows.map(fieldRow)}
               </tbody>
             </table>
-            <Hint text={t(operatorFilter.length ? 'hint.liceChartOperators' : 'hint.liceChartAll')} block>
+            <Hint id={operatorFilter.length ? 'liceChartOperators' : 'liceChartAll'} text={t(operatorFilter.length ? 'hint.liceChartOperators' : 'hint.liceChartAll')} block>
               <LiceChart series={series} extras={extras} />
             </Hint>
             {!operatorFilter.length && <p className="muted">{t('inspect.selectOps')}</p>}
@@ -165,7 +165,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
           <p className="muted">{fishhealth ? t('inspect.noReports') : t('inspect.notLoaded')}</p>
         )}
         <h3>
-          <Hint text={t('hint.cases')}>{t('inspect.cases')}</Hint>
+          <Hint id="cases" text={t('hint.cases')}>{t('inspect.cases')}</Hint>
         </h3>
         {cases ? (
           (() => {
@@ -206,7 +206,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
         <tbody>
           <tr>
             <th>
-              <Hint text={t('hint.position')}>{t('inspect.position')}</Hint>
+              <Hint id="position" text={t('hint.position')}>{t('inspect.position')}</Hint>
             </th>
             <td>
               {lat.toFixed(5)}°N, {lon.toFixed(5)}°E
@@ -215,7 +215,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
           {nb?.nearest && (
             <tr>
               <th>
-                <Hint text={t('hint.nearestFarm')}>{t('inspect.nearest')}</Hint>
+                <Hint id="nearestFarm" text={t('hint.nearestFarm')}>{t('inspect.nearest')}</Hint>
               </th>
               <td>{t('inspect.nearestValue', { name: nb.nearest.name, nr: nb.nearest.loknr, km: nb.nearest.km.toFixed(1) })}</td>
             </tr>
@@ -225,7 +225,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
       {fishhealth && localities && (
         <>
           <h3>
-            <Hint text={t('hint.licePressure')}>{t('inspect.licePressure')}</Hint>
+            <Hint id="licePressure" text={t('hint.licePressure')}>{t('inspect.licePressure')}</Hint>
           </h3>
           <table className="kv">
             <thead>
@@ -252,7 +252,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
       {nb && (
         <>
           <h3>
-            <Hint text={t('hint.neighbours')}>{t('inspect.neighbours')}</Hint>
+            <Hint id="neighbours" text={t('hint.neighbours')}>{t('inspect.neighbours')}</Hint>
           </h3>
           <table className="kv">
             <thead>

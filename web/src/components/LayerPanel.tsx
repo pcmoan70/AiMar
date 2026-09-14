@@ -53,7 +53,7 @@ export default function LayerPanel() {
           <label key={l.id} className="row">
             <input type="checkbox" checked={on} onChange={() => toggle(l.id)} />
             <span>
-              {l.id === 'treatment-heat' ? <Hint text={t('hint.treatmentHeat')}>{t(`layer.${l.id}.title`)}</Hint> : t(`layer.${l.id}.title`)}
+              {l.id === 'treatment-heat' ? <Hint id="treatmentHeat" text={t('hint.treatmentHeat')}>{t(`layer.${l.id}.title`)}</Hint> : t(`layer.${l.id}.title`)}
               <small>
                 {l.description ? `${t(`layer.${l.id}.desc`)} ` : ''}
                 {l.organisation} · {l.license} · {t(`layers.cache.${l.cache}`)}
@@ -62,7 +62,7 @@ export default function LayerPanel() {
               {on && l.id === 'treatment-heat' && (
                 <span className="heat-controls" onClick={(e) => e.preventDefault()}>
                   <label className="heat-radius">
-                    <Hint text={t('hint.heatRadius')}>{t('heat.radius')}</Hint>
+                    <Hint id="heatRadius" text={t('hint.heatRadius')}>{t('heat.radius')}</Hint>
                     <select value={s.heatRadiusKm} onChange={(e) => updateSettings({ heatRadiusKm: Number(e.target.value) })}>
                       {HEAT_RADII_KM.map((r) => (
                         <option key={r} value={r}>

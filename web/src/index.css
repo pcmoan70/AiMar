@@ -187,13 +187,15 @@ div.hint { text-decoration: none; }
 .hint-pop {
   position: fixed; max-width: 300px; z-index: 50;
   background: #fff; color: var(--fg); border: 1px solid var(--line); font-size: 12px; line-height: 1.4;
-  padding: 8px 28px 8px 10px; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,.3);
+  padding: 8px 50px 8px 10px; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,.3);
 }
-.hint-pop .hint-close {
+.hint.blocked { cursor: default; text-decoration: none; }
+.hint-pop .hint-close, .hint-pop .hint-block {
   position: absolute; top: 3px; right: 3px; width: 20px; height: 20px; padding: 0; margin: 0;
   border: 0; border-radius: 4px; background: none; color: #000; font-size: 14px; line-height: 20px; cursor: pointer;
 }
-.hint-pop .hint-close:hover { background: #eee; }
+.hint-pop .hint-block { right: 25px; font-weight: 700; }
+.hint-pop .hint-close:hover, .hint-pop .hint-block:hover { background: #eee; }
 
 /* Hover card on the map */
 .hover-card {
