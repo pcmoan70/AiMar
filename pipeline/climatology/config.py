@@ -12,6 +12,7 @@ from pathlib import Path
 
 DATA_ROOT = Path(os.environ.get("AIMAR_DATA", "/media/pc/ext4TB/AiMar"))
 STATS_DIR = DATA_ROOT / "climatology" / "stats"
+RAW_DIR = DATA_ROOT / "raw"
 WEB_DIR = DATA_ROOT / "climatology" / "web"
 LOG_DIR = DATA_ROOT / "logs"
 
@@ -34,11 +35,15 @@ class Field:
     direction: str | None
     #: (eastward, northward) component variables
     uv: tuple[str, str] | None
-    #: histogram bin width and upper bound for the percentile estimate
+    #: histogram bin width and bounds for the percentile estimates
     bin_width: float
     bin_max: float
-    #: threshold below which a sample counts as calm / stagnant
+    #: threshold below which a sample counts as calm / stagnant / low (share reported as calm_share)
     calm: float
+    #: lower histogram bound (0 for speeds; negative for temperature)
+    bin_min: float = 0.0
+    #: optional upper threshold: share of samples above it (e.g. warm water)
+    high: float | None = None
 
 
 @dataclass(frozen=True)
@@ -55,6 +60,10 @@ class Source:
     lat_var: str
     fields: tuple[Field, ...]
     attribution: str
+    #: keep each day's subset as int16 arrays under DATA_ROOT/raw/<name>/ (advection + biology modelling)
+    archive: bool = False
+    #: int16 scale factor per archived variable
+    archive_scale: dict[str, float] | None = None
 
 
 WAVE = Source(
@@ -82,8 +91,13 @@ NORKYST = Source(
     lat_var="lat",
     fields=(
         Field("currents", "m/s", speed=None, direction=None, uv=("u_eastward", "v_northward"), bin_width=0.02, bin_max=2.0, calm=0.05),
+        # Sea-lice biology: development and survival follow temperature and salinity at cage depths.
+        Field("temperature", "°C", speed="temperature", direction=None, uv=None, bin_width=0.5, bin_min=-2.0, bin_max=32.0, calm=4.0, high=18.0),
+        Field("salinity", "PSU", speed="salinity", direction=None, uv=None, bin_width=0.5, bin_min=0.0, bin_max=36.0, calm=20.0, high=None),
     ),
     attribution="MET Norway NorKyst-800 hourly hindcast, CC BY 4.0",
+    archive=True,
+    archive_scale={"u_eastward": 1000.0, "v_northward": 1000.0, "temperature": 100.0, "salinity": 500.0},
 )
 
 SOURCES = {s.name: s for s in (WAVE, NORKYST)}

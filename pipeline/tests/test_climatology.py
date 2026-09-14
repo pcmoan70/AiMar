@@ -30,6 +30,20 @@ def test_accumulator_mean_p90_calm_and_direction():
     assert s["calm_share"][0, 0] == np.float32(5 / 100)
     assert s["calm_share"][0, 1] == 1.0
     assert s["steadiness"][0, 1] < 1e-6
+    assert abs(s["p10"][0, 0] - 1.0) < 0.15
+
+
+def test_scalar_field_with_negative_bins_and_high_share():
+    f = Field("temperature", "°C", speed="t", direction=None, uv=None, bin_width=0.5, bin_min=-2.0, bin_max=32.0, calm=4.0, high=18.0)
+    acc = Accumulator((1,), f)
+    vals = np.array([[-1.0], [3.0], [10.0], [20.0]], np.float32)
+    acc.add(vals, None)
+    s = acc.finalize()
+    assert "direction" not in s
+    assert s["mean"][0] == np.float32(8.0)
+    assert s["calm_share"][0] == np.float32(0.5)  # -1 and 3 are below 4
+    assert s["high_share"][0] == np.float32(0.25)  # 20 above 18
+    assert abs(s["p10"][0] - (-1.0)) < 0.6
 
 
 def test_accumulator_ignores_nan():
@@ -72,3 +86,14 @@ def test_checkpoint_round_trip(tmp_path, monkeypatch):
         for k in acc_mod.Accumulator.ARRAYS:
             assert np.array_equal(getattr(restored[name], k), getattr(a, k)), k
     assert restored["waves"].finalize()["mean"][0, 0] == np.float32(1.5)
+
+
+def test_encode_scalar_uses_min_max_and_p10():
+    mean = np.array([[-2.0, 13.0, np.nan]])
+    p90 = np.array([[0.0, 20.0, 1.0]])
+    p10 = np.array([[-2.0, 8.0, 1.0]])
+    rgba = encode(mean, p90, None, None, vmax=28.0, vmin=-2.0, p10=p10)
+    assert rgba[0, 2].tolist() == [0, 0, 0, 0]
+    assert rgba[0, 0, 0] == 1 and rgba[0, 0, 3] == 255
+    assert abs((rgba[0, 1, 0] - 1) / 254 * 30 - 2 - 13.0) < 0.1
+    assert abs((rgba[0, 1, 2] - 1) / 254 * 30 - 2 - 8.0) < 0.1

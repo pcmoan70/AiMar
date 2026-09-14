@@ -32,7 +32,7 @@ from pathlib import Path
 import numpy as np
 import xarray as xr
 
-from .config import CURRENT_DEPTHS_M, LOG_DIR, MONTHS, SOURCES, STATS_DIR, YEARS, Field, Source
+from .config import CURRENT_DEPTHS_M, LOG_DIR, MONTHS, RAW_DIR, SOURCES, STATS_DIR, YEARS, Field, Source
 
 log = logging.getLogger("climatology")
 
@@ -45,35 +45,41 @@ SHM = Path("/dev/shm") if Path("/dev/shm").is_dir() else Path("/tmp")
 class Accumulator:
     """Running monthly statistics for one field over a fixed grid shape."""
 
-    ARRAYS = ("sum", "count", "calm", "sx", "sy", "hist")
+    ARRAYS = ("sum", "count", "calm", "high", "sx", "sy", "hist")
 
     def __init__(self, shape: tuple[int, ...], field: Field):
         self.field = field
         self.shape = shape
-        self.n_bins = int(round(field.bin_max / field.bin_width))
+        self.vector = field.uv is not None or field.direction is not None
+        self.n_bins = int(round((field.bin_max - field.bin_min) / field.bin_width))
         self.sum = np.zeros(shape, np.float64)
         self.count = np.zeros(shape, np.int32)
         self.calm = np.zeros(shape, np.int32)
+        self.high = np.zeros(shape, np.int32)
         self.sx = np.zeros(shape, np.float64)
         self.sy = np.zeros(shape, np.float64)
         self.hist = np.zeros((self.n_bins, *shape), np.uint16)
         self._cell = np.arange(int(np.prod(shape)))
 
-    def add(self, speed: np.ndarray, direction_to: np.ndarray) -> None:
-        """Fold samples of shape (t, *shape); NaN marks missing data."""
+    def add(self, value: np.ndarray, direction_to: np.ndarray | None) -> None:
+        """Fold samples of shape (t, *shape); NaN marks missing data. direction_to is None for scalars."""
         flat_hist = self.hist.reshape(self.n_bins, -1)
-        for t in range(speed.shape[0]):
-            s = speed[t]
-            d = direction_to[t]
-            valid = np.isfinite(s) & np.isfinite(d)
+        for t in range(value.shape[0]):
+            s = value[t]
+            valid = np.isfinite(s)
+            if direction_to is not None:
+                d = direction_to[t]
+                valid &= np.isfinite(d)
+                rad = np.deg2rad(np.where(valid, d, 0.0))
+                self.sx += np.where(valid, np.cos(rad), 0.0)
+                self.sy += np.where(valid, np.sin(rad), 0.0)
             s0 = np.where(valid, s, 0.0)
             self.sum += s0
             self.count += valid
             self.calm += valid & (s0 < self.field.calm)
-            rad = np.deg2rad(np.where(valid, d, 0.0))
-            self.sx += np.where(valid, np.cos(rad), 0.0)
-            self.sy += np.where(valid, np.sin(rad), 0.0)
-            idx = np.minimum((s0 / self.field.bin_width).astype(np.int32), self.n_bins - 1)
+            if self.field.high is not None:
+                self.high += valid & (s0 > self.field.high)
+            idx = np.clip(((s0 - self.field.bin_min) / self.field.bin_width).astype(np.int32), 0, self.n_bins - 1)
             v = valid.ravel()
             flat_hist[idx.ravel()[v], self._cell[v]] += 1
 
@@ -90,19 +96,22 @@ class Accumulator:
         with np.errstate(divide="ignore", invalid="ignore"):
             mean = np.where(ok, self.sum / cnt, np.nan)
             cum = np.cumsum(self.hist, axis=0, dtype=np.int32)
-            bin_idx = np.minimum((cum < 0.9 * cnt).sum(axis=0), self.n_bins - 1)
-            p90 = np.where(ok, (bin_idx + 0.5) * self.field.bin_width, np.nan)
-            direction = np.where(ok, (np.degrees(np.arctan2(self.sy, self.sx)) + 360.0) % 360.0, np.nan)
-            steadiness = np.where(ok, np.hypot(self.sx, self.sy) / cnt, np.nan)
+            pct = lambda q: np.where(ok, self.field.bin_min + (np.minimum((cum < q * cnt).sum(axis=0), self.n_bins - 1) + 0.5) * self.field.bin_width, np.nan)
+            p10, p90 = pct(0.1), pct(0.9)
             calm_share = np.where(ok, self.calm / cnt, np.nan)
-        return {
-            "mean": mean.astype(np.float32),
-            "p90": p90.astype(np.float32),
-            "direction": direction.astype(np.float32),
-            "steadiness": steadiness.astype(np.float32),
-            "calm_share": calm_share.astype(np.float32),
-            "count": self.count,
-        }
+            out = {
+                "mean": mean.astype(np.float32),
+                "p10": p10.astype(np.float32),
+                "p90": p90.astype(np.float32),
+                "calm_share": calm_share.astype(np.float32),
+                "count": self.count,
+            }
+            if self.vector:
+                out["direction"] = np.where(ok, (np.degrees(np.arctan2(self.sy, self.sx)) + 360.0) % 360.0, np.nan).astype(np.float32)
+                out["steadiness"] = np.where(ok, np.hypot(self.sx, self.sy) / cnt, np.nan).astype(np.float32)
+            if self.field.high is not None:
+                out["high_share"] = np.where(ok, self.high / cnt, np.nan).astype(np.float32)
+        return out
 
 
 # ---------------------------------------------------------------- reading one day (child process)
@@ -123,18 +132,48 @@ def _read_day_worker(source_name: str, y: int, m: int, d: int, out: str) -> None
             return
         raise
     arrays: dict[str, np.ndarray] = {"lon": ds[source.lon_var].values, "lat": ds[source.lat_var].values}
+    raw: dict[str, np.ndarray] = {}
     for f in source.fields:
         if f.uv:
             u = ds[f.uv[0]].values.astype(np.float32)
             v = ds[f.uv[1]].values.astype(np.float32)
+            raw[f.uv[0]], raw[f.uv[1]] = u, v
             arrays[f"{f.name}_speed"] = np.hypot(u, v)
             arrays[f"{f.name}_dir"] = (np.degrees(np.arctan2(u, v)) + 360.0) % 360.0  # bearing the flow goes to
-        else:
+        elif f.direction:
             arrays[f"{f.name}_speed"] = ds[f.speed].values.astype(np.float32)
             arrays[f"{f.name}_dir"] = (ds[f.direction].values.astype(np.float32) + 180.0) % 360.0  # "from" -> "to"
+        else:
+            val = ds[f.speed].values.astype(np.float32)
+            raw[f.speed] = val
+            arrays[f"{f.name}_speed"] = val
+    if source.archive:
+        archive_day(source, y, m, d, ds, raw)
     ds.close()
     tmp = out[:-4] + ".tmp.npz"
     np.savez(tmp, **arrays)
+    os.replace(tmp, out)
+
+
+def archive_day(source: Source, y: int, m: int, d: int, ds: xr.Dataset, raw: dict[str, np.ndarray]) -> None:
+    """Keep the day's subset as scaled int16 (NaN -> -32768) for advection and biology modelling."""
+    out = RAW_DIR / source.name / f"{y}" / f"{y}{m:02d}{d:02d}.npz"
+    if out.exists():
+        return
+    out.parent.mkdir(parents=True, exist_ok=True)
+    packed: dict[str, np.ndarray] = {}
+    scales = source.archive_scale or {}
+    for name, arr in raw.items():
+        scale = scales.get(name, 1.0)
+        q = np.round(np.nan_to_num(arr, nan=-1e9) * scale)
+        packed[name] = np.where(np.isfinite(arr), np.clip(q, -32767, 32767), -32768).astype(np.int16)
+        packed[f"{name}_scale"] = np.array(scale, np.float32)
+    packed["time"] = ds["time"].values.astype("datetime64[s]").astype(np.int64)
+    if "depth" in ds.coords:
+        packed["depth"] = ds["depth"].values.astype(np.float32)
+    packed["fill_value"] = np.array(-32768, np.int16)
+    tmp = out.with_suffix(".tmp.npz")
+    np.savez(tmp, **packed)
     os.replace(tmp, out)
 
 
@@ -214,10 +253,14 @@ def write_stats(source: Source, field: Field, month: int, stats: dict[str, np.nd
         coords["depth"] = ("depth", np.array(CURRENT_DEPTHS_M[: stats["mean"].shape[0]], np.float32))
     ds = xr.Dataset({k: (dims, v) for k, v in stats.items()}, coords=coords)
     ds["mean"].attrs.update(long_name=f"mean {field.name}", units=field.units)
+    ds["p10"].attrs.update(long_name=f"10th percentile {field.name}", units=field.units)
     ds["p90"].attrs.update(long_name=f"90th percentile {field.name}", units=field.units)
-    ds["direction"].attrs.update(long_name="vector-mean direction the flow/waves/wind go to", units="degrees clockwise from north")
-    ds["steadiness"].attrs.update(long_name="resultant length of direction unit vectors", units="1")
+    if "direction" in ds:
+        ds["direction"].attrs.update(long_name="vector-mean direction the flow/waves/wind go to", units="degrees clockwise from north")
+        ds["steadiness"].attrs.update(long_name="resultant length of direction unit vectors", units="1")
     ds["calm_share"].attrs.update(long_name=f"share of samples below {field.calm} {field.units}", units="1")
+    if "high_share" in ds:
+        ds["high_share"].attrs.update(long_name=f"share of samples above {field.high} {field.units}", units="1")
     ds.attrs.update(
         title=f"Monthly climatology of {field.name}, month {month:02d}",
         source=source.attribution,
@@ -265,7 +308,7 @@ def run(source: Source, years: list[int], months: list[int], max_days: int | Non
                 lon, lat = data["lon"], data["lat"]
                 accs = {f.name: Accumulator(data[f"{f.name}_speed"].shape[1:], f) for f in source.fields}
             for f in source.fields:
-                accs[f.name].add(data[f"{f.name}_speed"], data[f"{f.name}_dir"])
+                accs[f.name].add(data[f"{f.name}_speed"], data.get(f"{f.name}_dir"))
             days_done.append(ymd)
             since_ckpt += 1
             nbytes = sum(v.nbytes for v in data.values())

@@ -2,6 +2,11 @@
 
 ## 2026-09-14
 
+- Pipeline: the NorKyst pass now also computes monthly temperature and
+  salinity statistics at six depths (mean, p10, p90, shares below 4 °C / 20 PSU
+  and above 18 °C) and archives every day's subset as int16 on the data disk
+  for advection and sea-lice modelling; renderer handles scalar fields.
+
 - Right-click on a locality opens a menu to select its operator(s) or clear
   the selection.
 
