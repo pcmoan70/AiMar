@@ -18,6 +18,7 @@ export default function HelpPanel() {
         <li>Use <b>Offline</b> → <b>Download this area</b> to prefetch tiles for the current view before going out of coverage.</li>
         <li>Locality data is bundled with the app; the snapshot date is shown under <b>Offline</b>.</li>
         <li>Install the app from the <b>Offline</b> panel or your browser menu for a full-screen experience.</li>
+        <li>The app checks for new versions every 10 minutes and when you return to the tab; a bar at the bottom offers to reload.</li>
       </ul>
       <h3>Data sources</h3>
       <ul>

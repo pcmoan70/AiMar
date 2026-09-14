@@ -71,7 +71,9 @@ with `BASE_PATH=/`.
   usage, and lists the bundled data snapshot with its retrieval date.
 - Settings (base map, overlays, last view, download depth, open panel) persist
   in `localStorage`.
-- Installable as a PWA; a toast offers reload when a new version is deployed.
+- Installable as a PWA. The app checks for a new version every 10 minutes,
+  when the tab becomes visible and when the connection returns, and offers a
+  reload.
 
 ## Data sources and licences
 

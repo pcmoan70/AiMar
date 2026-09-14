@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Update checks: the app polls for a new service worker every 10 minutes and
+  on tab focus / reconnect, then prompts to reload.
+
 - AIS density overlays get per-pixel transparency: tiles are decoded in the
   browser and low-traffic cells are faded while busy lanes stay opaque
   (`lib/tileFilters.ts`, custom MapLibre protocol).
