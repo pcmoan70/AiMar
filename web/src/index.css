@@ -106,3 +106,12 @@ a { color: var(--brand); }
 .chart-readout { font-size: 12px; min-height: 18px; margin: 2px 0 6px; }
 .chart details { font-size: 12px; }
 .chart summary { cursor: pointer; }
+
+/* Login gate */
+.login { min-height: 100%; display: flex; align-items: center; justify-content: center; background: var(--brand); padding: 16px; }
+.login-card { background: var(--bg); border-radius: 10px; padding: 24px; width: 100%; max-width: 360px; display: flex; flex-direction: column; gap: 10px; box-shadow: 0 10px 30px rgba(0,0,0,.3); }
+.login-card h1 { margin: 0; font-size: 22px; }
+.login-card label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; color: var(--muted); }
+.login-card input { font: inherit; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; color: var(--fg); }
+.login-card button { margin-top: 6px; }
+.error { color: #b42318; margin: 0; }

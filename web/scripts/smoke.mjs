@@ -1,6 +1,15 @@
 // End-to-end smoke test against a running preview server (npm run preview).
 // Usage: node scripts/smoke.mjs [url] [chrome-path]
 import puppeteer from 'puppeteer-core'
+import { existsSync, readFileSync } from 'node:fs'
+
+// Login credentials come from web/.env.local (AIMAR_LOGIN_USER / AIMAR_LOGIN_PASSWORD) or the environment.
+const envFile = new URL('../.env.local', import.meta.url)
+if (existsSync(envFile))
+  for (const line of readFileSync(envFile, 'utf8').split('\n')) {
+    const i = line.indexOf('=')
+    if (i > 0 && !process.env[line.slice(0, i)]) process.env[line.slice(0, i)] = line.slice(i + 1).trim()
+  }
 
 const url = process.argv[2] ?? 'http://localhost:4173/'
 const chrome = process.argv[3] ?? '/usr/bin/google-chrome'
@@ -28,6 +37,13 @@ page.on('request', (r) => r.url().includes('cache.kartverket.no') && tileRequest
 page.on('pageerror', (e) => failures.push(`pageerror: ${e.message}`))
 
 await page.goto(url, { waitUntil: 'networkidle0' })
+if (await page.$('#login-user')) {
+  await page.type('#login-user', process.env.AIMAR_LOGIN_USER ?? '')
+  await page.type('#login-pass', process.env.AIMAR_LOGIN_PASSWORD ?? '')
+  await page.keyboard.press('Enter')
+  await page.waitForSelector('.map', { timeout: 20000 })
+  check('login accepted', true)
+}
 await mapLoaded()
 check('map loads', true)
 check('base tiles requested', tileRequests > 0, `${tileRequests} tiles`)

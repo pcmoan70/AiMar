@@ -7,6 +7,8 @@ import OfflinePanel from './components/OfflinePanel'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
 import SearchBox from './components/SearchBox'
+import LoginScreen from './components/LoginScreen'
+import { logout, useAuth } from './lib/auth'
 import { loadLocalities, type Localities, type LocalityFeature } from './lib/localities'
 import { loadFishHealth, type FishHealth } from './lib/fishhealth'
 import { useOnline } from './lib/offline'
@@ -20,6 +22,11 @@ const TABS: { id: Exclude<PanelId, null>; label: string }[] = [
 ]
 
 export default function App() {
+  const authed = useAuth()
+  return authed ? <MapApp /> : <LoginScreen />
+}
+
+function MapApp() {
   const s = useSettings()
   const online = useOnline()
   const [map, setMap] = useState<MlMap | null>(null)
@@ -62,6 +69,9 @@ export default function App() {
               {t.label}
             </button>
           ))}
+          <button onClick={logout} title="Sign out">
+            Log out
+          </button>
         </nav>
       </header>
       <main>
