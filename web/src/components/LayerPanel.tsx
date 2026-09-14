@@ -1,4 +1,4 @@
-import { BASE_LAYERS, LEGEND, OVERLAY_LAYERS } from '../lib/layers'
+import { BASE_LAYERS, CATEGORIES, LEGEND, overlaysIn } from '../lib/layers'
 import { updateSettings, useSettings } from '../lib/settings'
 
 const CACHE_LABEL = { precache: 'bundled', 'cache-first': 'cached on view', forecast: 'forecast, cached 1 day' }
@@ -30,7 +30,24 @@ export default function LayerPanel() {
         </label>
       ))}
       <h2>Overlays</h2>
-      {OVERLAY_LAYERS.map((l) => {
+      <div className="tabs" role="tablist">
+        {CATEGORIES.map((c) => {
+          const n = overlaysIn(c.id).filter((l) => s.overlays.includes(l.id)).length
+          return (
+            <button
+              key={c.id}
+              role="tab"
+              aria-selected={s.layerTab === c.id}
+              className={s.layerTab === c.id ? 'active' : ''}
+              onClick={() => updateSettings({ layerTab: c.id })}
+            >
+              {c.title}
+              {n > 0 && <span className="badge">{n}</span>}
+            </button>
+          )
+        })}
+      </div>
+      {overlaysIn(s.layerTab).map((l) => {
         const on = s.overlays.includes(l.id)
         return (
           <label key={l.id} className="row">
@@ -46,13 +63,17 @@ export default function LayerPanel() {
           </label>
         )
       })}
-      <h2>Legend</h2>
-      {LEGEND.map((e) => (
-        <div key={e.label} className="row legend">
-          <span className="swatch" style={{ background: e.colour }} />
-          <span>{e.label}</span>
-        </div>
-      ))}
+      {s.layerTab === 'aquaculture' && (
+        <>
+          <h3>Legend</h3>
+          {LEGEND.map((e) => (
+            <div key={e.label} className="row legend">
+              <span className="swatch" style={{ background: e.colour }} />
+              <span>{e.label}</span>
+            </div>
+          ))}
+        </>
+      )}
     </div>
   )
 }

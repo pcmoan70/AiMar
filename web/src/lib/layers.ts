@@ -8,12 +8,24 @@
 import type { TileFilter } from './tileFilters'
 
 export type LayerKind = 'xyz' | 'wms' | 'geojson'
+export type Category = 'aquaculture' | 'seabed' | 'ocean' | 'environment' | 'shipping'
+
+/** Overlay tabs in display order, with the importance rank of layers inside each. */
+export const CATEGORIES: { id: Category; title: string; order: string[] }[] = [
+  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'site-polygons'] },
+  { id: 'seabed', title: 'Seabed', order: ['dybdedata', 'ngu-anchoring', 'ngu-sediment', 'ngu-deposition', 'ngu-slope'] },
+  { id: 'ocean', title: 'Ocean', order: ['norkyst-current', 'norkyst-arrows', 'norkyst-temp', 'norkyst-salinity'] },
+  { id: 'environment', title: 'Environment', order: ['naturvern', 'bunnhabitat', 'gyteomraader'] },
+  { id: 'shipping', title: 'Shipping', order: ['fairways', 'ais-density-2024', 'ais-density-month', 'ais-density', 'fairway-area', 'ship-anchorages'] },
+]
 export type CachePolicy = 'precache' | 'cache-first' | 'forecast'
 
 export interface LayerDef {
   id: string
   title: string
   group: 'base' | 'overlay'
+  /** Overlay tab; required for overlays. */
+  category?: Category
   kind: LayerKind
   /** XYZ tile template, WMS endpoint, or bundled data path (relative to BASE_URL). */
   url: string
@@ -84,6 +96,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'dybdedata',
+    category: 'seabed',
     title: 'Bathymetry (Kartverket Dybdedata)',
     group: 'overlay',
     kind: 'wms',
@@ -98,6 +111,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'naturvern',
+    category: 'environment',
     title: 'Protected areas (Miljødirektoratet)',
     group: 'overlay',
     kind: 'wms',
@@ -112,6 +126,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'bunnhabitat',
+    category: 'environment',
     title: 'Protected seabed habitats (Fiskeridirektoratet)',
     group: 'overlay',
     kind: 'wms',
@@ -126,6 +141,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'gyteomraader',
+    category: 'environment',
     title: 'Spawning areas (Fiskeridirektoratet)',
     group: 'overlay',
     kind: 'wms',
@@ -140,6 +156,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ngu-sediment',
+    category: 'seabed',
     title: 'Seabed sediment grain size (NGU)',
     group: 'overlay',
     kind: 'wms',
@@ -155,6 +172,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ngu-anchoring',
+    category: 'seabed',
     title: 'Anchoring conditions (NGU)',
     group: 'overlay',
     kind: 'wms',
@@ -170,6 +188,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ngu-deposition',
+    category: 'seabed',
     title: 'Deposition areas (NGU)',
     group: 'overlay',
     kind: 'wms',
@@ -185,6 +204,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ngu-slope',
+    category: 'seabed',
     title: 'Seabed slope (NGU)',
     group: 'overlay',
     kind: 'wms',
@@ -199,6 +219,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'norkyst-temp',
+    category: 'ocean',
     title: 'Sea surface temperature (NorKyst v3)',
     group: 'overlay',
     kind: 'wms',
@@ -215,6 +236,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'norkyst-salinity',
+    category: 'ocean',
     title: 'Sea surface salinity (NorKyst v3)',
     group: 'overlay',
     kind: 'wms',
@@ -231,6 +253,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'norkyst-current',
+    category: 'ocean',
     title: 'Surface current speed (NorKyst v3)',
     group: 'overlay',
     kind: 'wms',
@@ -247,6 +270,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'norkyst-arrows',
+    category: 'ocean',
     title: 'Surface current direction (NorKyst v3)',
     group: 'overlay',
     kind: 'wms',
@@ -262,6 +286,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'fairways',
+    category: 'shipping',
     title: 'Main and secondary fairways (Kystverket)',
     group: 'overlay',
     kind: 'wms',
@@ -276,6 +301,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'fairway-area',
+    category: 'shipping',
     title: 'Fairway areas (Kystverket)',
     group: 'overlay',
     kind: 'wms',
@@ -290,6 +316,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ship-anchorages',
+    category: 'shipping',
     title: 'Shipping anchorage areas (Kystverket)',
     group: 'overlay',
     kind: 'wms',
@@ -303,6 +330,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ais-density-2024',
+    category: 'shipping',
     tileFilter: 'ais-hue',
     title: 'AIS traffic density 2024 (Kystverket MarTraf)',
     group: 'overlay',
@@ -319,6 +347,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ais-density-month',
+    category: 'shipping',
     tileFilter: 'ais-hue',
     title: 'AIS traffic density, April 2025 (Kystverket MarTraf)',
     group: 'overlay',
@@ -335,6 +364,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ais-density',
+    category: 'shipping',
     tileFilter: 'ais-white',
     title: 'AIS vessel track density 2022, 1 km (Kystverket)',
     group: 'overlay',
@@ -350,6 +380,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'site-polygons',
+    category: 'aquaculture',
     title: 'Aquaculture site borders (Fiskeridirektoratet)',
     group: 'overlay',
     kind: 'geojson',
@@ -363,6 +394,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'localities',
+    category: 'aquaculture',
     title: 'Aquaculture localities (Fiskeridirektoratet)',
     group: 'overlay',
     kind: 'geojson',
@@ -385,6 +417,13 @@ export const LEGEND = [
 
 export const BASE_LAYERS = LAYERS.filter((l) => l.group === 'base')
 export const OVERLAY_LAYERS = LAYERS.filter((l) => l.group === 'overlay')
+
+/** Overlays of one tab, most important first (registry order for anything unranked). */
+export function overlaysIn(category: Category): LayerDef[] {
+  const order = CATEGORIES.find((c) => c.id === category)?.order ?? []
+  const rank = (l: LayerDef) => (order.includes(l.id) ? order.indexOf(l.id) : order.length)
+  return OVERLAY_LAYERS.filter((l) => l.category === category).sort((a, b) => rank(a) - rank(b))
+}
 export const layerById = (id: string) => LAYERS.find((l) => l.id === id)
 
 export function wmsTileUrl(layer: LayerDef): string {

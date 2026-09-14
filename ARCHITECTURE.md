@@ -48,7 +48,7 @@ flowchart LR
 | `components/Hint.tsx` | Tooltip wrapper (hover / focus / tap) rendering an explanation from `lib/hints.ts` |
 | `components/HelpPanel.tsx` | In-app help |
 | `components/UpdatePrompt.tsx` | "New version" / "ready offline" toast via `virtual:pwa-register/react`; polls `sw.js` every 10 min and on focus/online |
-| `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy |
+| `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy, category tab and per-tab importance order |
 | `lib/settings.ts` | `localStorage`-backed settings store exposed through `useSyncExternalStore` |
 | `lib/localities.ts` | Locality types, data loader, haversine neighbourhood features, search |
 | `lib/fishhealth.ts` | Fish-health snapshot types, per-locality lice series, 52-week summary, regional lice pressure |

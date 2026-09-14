@@ -1,6 +1,7 @@
 // User settings live in localStorage: small, synchronous, never evicted with
 // the tile caches. Anything re-downloadable belongs in Cache Storage instead.
 import { useSyncExternalStore } from 'react'
+import type { Category } from './layers'
 
 export type PanelId = 'layers' | 'inspect' | 'offline' | 'help' | null
 
@@ -13,6 +14,8 @@ export interface Settings {
   panel: PanelId
   /** Show only sites of these operators (empty = all). */
   operatorFilter: string[]
+  /** Open overlay tab in the layer panel. */
+  layerTab: Category
 }
 
 const KEY = 'aimar.settings.v1'
@@ -24,6 +27,7 @@ export const DEFAULT_SETTINGS: Settings = {
   downloadDepth: 2,
   panel: 'layers',
   operatorFilter: [],
+  layerTab: 'aquaculture',
 }
 
 function load(): Settings {

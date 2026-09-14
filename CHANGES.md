@@ -2,6 +2,10 @@
 
 ## 2026-09-14
 
+- Layer panel: overlays grouped in tabs (Aquaculture, Seabed, Ocean,
+  Environment, Shipping), ordered by importance within each tab, with a badge
+  for enabled layers. Registry gained `category` and a per-tab order.
+
 - Hover explanations: every displayed figure (register fields, lice values,
   neighbourhood and lice-pressure tables, operator counts, storage and tile
   counts) shows its source and calculation method on hover, focus or tap.
