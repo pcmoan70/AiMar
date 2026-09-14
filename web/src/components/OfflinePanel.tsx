@@ -20,13 +20,14 @@ import { updateSettings, useSettings } from '../lib/settings'
 import { useInstallPrompt } from '../lib/install'
 import Hint from './Hint'
 import { lastJanitorResult, runJanitor } from '../lib/cacheJanitor'
-import { HINTS } from '../lib/hints'
+import { numberLocale, useT } from '../lib/i18n'
 
 interface Props {
   map: MlMap | null
 }
 
 export default function OfflinePanel({ map }: Props) {
+  const t = useT()
   const s = useSettings()
   const online = useOnline()
   const install = useInstallPrompt()
@@ -97,44 +98,41 @@ export default function OfflinePanel({ map }: Props) {
   const purge = async () => {
     const r = await runJanitor(s.cacheLimitGb * 1024 ** 3)
     const n = Object.values(r.evicted).reduce((a, b) => a + b, 0)
-    setJanitorMsg(n ? `Removed ${n.toLocaleString('en-GB')} entries, ${formatBytes(r.before - r.after)} freed.` : 'Under the limit, nothing removed.')
+    setJanitorMsg(n ? t('offline.purged', { n: n.toLocaleString(numberLocale()), b: formatBytes(r.before - r.after) }) : t('offline.underLimit'))
     refreshStorage()
   }
 
   return (
     <div className="panel-body">
-      <h2>Status</h2>
+      <h2>{t('offline.status')}</h2>
       <p>
-        <span className={`dot ${online ? 'on' : 'off'}`} /> {online ? 'Online' : 'Offline – using cached data'}
+        <span className={`dot ${online ? 'on' : 'off'}`} /> {t(online ? 'offline.online' : 'offline.offline')}
       </p>
       {install.available && (
         <p>
-          <button onClick={install.prompt}>Install app</button>
+          <button onClick={install.prompt}>{t('offline.install')}</button>
         </p>
       )}
       {storage && (
         <p className="muted">
-          <Hint text={HINTS.storage}>
-            Storage used {formatBytes(storage.usage)} of {formatBytes(storage.quota)}
-            {storage.persisted ? ' · persistent' : ''}
+          <Hint text={t('hint.storage')}>
+            {t('offline.storage', { u: formatBytes(storage.usage), q: formatBytes(storage.quota) })}
+            {storage.persisted ? t('offline.persistent') : ''}
           </Hint>
         </p>
       )}
       {counts && (
         <p className="muted">
-          <Hint text={HINTS.cacheCounts}>
-            Cached on this device: {counts.baseTiles.toLocaleString('en-GB')} base-map tiles, {counts.overlayImages.toLocaleString('en-GB')} overlay
-            images, {counts.forecastImages.toLocaleString('en-GB')} forecast images
+          <Hint text={t('hint.cacheCounts')}>
+            {t('offline.cached', { b: counts.baseTiles.toLocaleString(numberLocale()), o: counts.overlayImages.toLocaleString(numberLocale()), f: counts.forecastImages.toLocaleString(numberLocale()) })}
           </Hint>
         </p>
       )}
 
-      <h2>Download this area</h2>
-      <p className="muted">
-        Caches base-map tiles and enabled overlays for the current view so they work without a network.
-      </p>
+      <h2>{t('offline.download')}</h2>
+      <p className="muted">{t('offline.downloadNote')}</p>
       <label className="row">
-        <span>Extra zoom levels</span>
+        <span>{t('offline.depth')}</span>
         <select
           value={s.downloadDepth}
           onChange={(e) => updateSettings({ downloadDepth: Number(e.target.value) })}
@@ -147,33 +145,31 @@ export default function OfflinePanel({ map }: Props) {
         </select>
       </label>
       <p className="muted">
-        <Hint text={HINTS.tileCount}>
-          Zoom {zmin}–{zmax}, {activeLayers.length} layer{activeLayers.length === 1 ? '' : 's'}: {urls.length} tiles
-        </Hint>
-        {tooMany && <strong> – zoom in or reduce depth (max {MAX_DOWNLOAD_TILES})</strong>}
+        <Hint text={t('hint.tileCount')}>{t('offline.tiles', { a: zmin, b: zmax, n: activeLayers.length, t: urls.length })}</Hint>
+        {tooMany && <strong>{t('offline.tooMany', { m: MAX_DOWNLOAD_TILES })}</strong>}
       </p>
       <p>
         {running ? (
-          <button onClick={cancel}>Cancel</button>
+          <button onClick={cancel}>{t('offline.cancel')}</button>
         ) : (
           <button onClick={start} disabled={!map || !online || tooMany || urls.length === 0}>
-            Download
+            {t('offline.downloadBtn')}
           </button>
         )}{' '}
         <button onClick={clear} className="secondary">
-          Clear cached tiles
+          {t('offline.clear')}
         </button>{' '}
         <button onClick={purge} className="secondary">
-          Purge to limit
+          {t('offline.purge')}
         </button>
       </p>
       <p className="muted">
-        <Hint text={HINTS.cacheLimit}>
-          Cache limit {s.cacheLimitGb} GB (change under ⚙ Settings)
+        <Hint text={t('hint.cacheLimit')}>
+          {t('offline.limit', { gb: s.cacheLimitGb })}
           {(() => {
             const r = lastJanitorResult()
             const n = r ? Object.values(r.evicted).reduce((a, b) => a + b, 0) : 0
-            return n ? ` · last purge removed ${n.toLocaleString('en-GB')} entries` : ''
+            return n ? t('offline.lastPurge', { n: n.toLocaleString(numberLocale()) }) : ''
           })()}
         </Hint>
         {janitorMsg && <> · {janitorMsg}</>}
@@ -182,28 +178,27 @@ export default function OfflinePanel({ map }: Props) {
         <>
           <progress value={progress.done} max={progress.total} />
           <p className="muted">
-            {progress.done}/{progress.total} tiles{progress.failed ? `, ${progress.failed} failed` : ''}
+            {t('offline.progress', { d: progress.done, t: progress.total })}
+            {progress.failed ? t('offline.failed', { f: progress.failed }) : ''}
           </p>
         </>
       )}
 
-      <h2>Bundled data</h2>
+      <h2>{t('offline.bundled')}</h2>
       {manifest ? (
         <ul className="plain">
           <li className="muted">
-            <Hint text={HINTS.snapshot}>Snapshot {manifest.retrieved.slice(0, 10)}</Hint>
+            <Hint text={t('hint.snapshot')}>{t('offline.snapshot', { date: manifest.retrieved.slice(0, 10) })}</Hint>
           </li>
           {manifest.sources.map((src) => (
             <li key={src.file}>
               {src.dataset}
-              <small>
-                {src.organisation} · {src.license} · {src.featureCount} features
-              </small>
+              <small>{t('offline.sourceLine', { org: src.organisation, lic: src.license, n: src.featureCount })}</small>
             </li>
           ))}
         </ul>
       ) : (
-        <p className="muted">Manifest unavailable.</p>
+        <p className="muted">{t('offline.noManifest')}</p>
       )}
     </div>
   )

@@ -145,3 +145,33 @@ export function operatorPressureSeries(
   })
   return { operator: operator ?? 'all', farms: farms.length, values }
 }
+
+export interface LiceStats {
+  mean: number
+  max: number
+  weeksAbove: number
+  treatments: number
+}
+
+const statsCache = new WeakMap<FishHealth, Map<number, LiceStats>>()
+
+/** Per-locality statistics over the last `n` weeks of the snapshot, for filtering: mean and peak of reported lice, weeks above the limit, weeks with treatment. Sites without any report in the window are absent. */
+export function liceStatsIndex(data: FishHealth, n = 52): Map<number, LiceStats> {
+  const cached = statsCache.get(data)
+  if (cached) return cached
+  const out = new Map<number, LiceStats>()
+  for (const [nr, d] of Object.entries(data.localities)) {
+    const l = d.l.slice(-n)
+    const f = d.f.slice(-n)
+    const vals = l.filter((v): v is number => v != null)
+    if (!vals.length) continue
+    out.set(Number(nr), {
+      mean: vals.reduce((a, b) => a + b, 0) / vals.length,
+      max: Math.max(...vals),
+      weeksAbove: vals.filter((v) => v > LICE_LIMIT).length,
+      treatments: f.filter((x) => x & (FLAG.mechanical | FLAG.substance)).length,
+    })
+  }
+  statsCache.set(data, out)
+  return out
+}

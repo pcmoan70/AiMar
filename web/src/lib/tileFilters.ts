@@ -62,10 +62,8 @@ function remember(url: string, filter: TileFilter, width: number, height: number
   tileCache.set(url, { layers, bbox: bbox as [number, number, number, number], width, height, data, filter })
 }
 
-export const RANK_LABELS = ['very low', 'low', 'moderate', 'high', 'very high'] as const
-
-/** Traffic label under a Web-Mercator point for the given WMS layer name, from decoded tiles (undefined when none loaded). */
-export function sampleDensity(wmsLayers: string, mercX: number, mercY: number): string | undefined {
+/** Traffic rank (0–4) under a Web-Mercator point for the given WMS layer name, 'none' for no traffic, undefined when no tile is loaded. */
+export function sampleDensity(wmsLayers: string, mercX: number, mercY: number): number | 'none' | undefined {
   let best: CachedTile | undefined
   for (const t of tileCache.values()) {
     if (t.layers !== wmsLayers) continue
@@ -79,9 +77,8 @@ export function sampleDensity(wmsLayers: string, mercX: number, mercY: number): 
   const py = Math.floor(((y1 - mercY) / (y1 - y0)) * best.height)
   const i = (py * best.width + px) * 4
   const [r, g, b, a] = [best.data[i], best.data[i + 1], best.data[i + 2], best.data[i + 3]]
-  if (a === 0) return 'no traffic'
-  const rank = rankOf(best.filter, r, g, b)
-  return `${RANK_LABELS[Math.min(4, Math.floor(rank * 5))]} traffic`
+  if (a === 0) return 'none'
+  return Math.min(4, Math.floor(rankOf(best.filter, r, g, b) * 5))
 }
 
 export function registerTileFilters(): void {

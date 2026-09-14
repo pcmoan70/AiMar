@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { FLAG, LICE_LIMIT, type WeekPoint } from '../lib/fishhealth'
 import { SITE_COLOUR } from '../lib/operatorColours'
+import { useT } from '../lib/i18n'
 
 export interface ExtraSeries {
   name: string
@@ -20,25 +21,26 @@ const W = 320
 const H = 150
 const PAD = { l: 30, r: 8, t: 8, b: 30 }
 
-const eventLabel = (flags: number) =>
+const eventLabel = (t: (k: string) => string, flags: number) =>
   [
-    flags & FLAG.mechanical ? 'mechanical removal' : '',
-    flags & FLAG.substance ? 'medicinal treatment' : '',
-    flags & FLAG.fallow ? 'fallow' : '',
-    flags & FLAG.pd ? 'PD' : '',
-    flags & FLAG.ila ? 'ILA' : '',
+    flags & FLAG.mechanical ? t('event.mechanical') : '',
+    flags & FLAG.substance ? t('event.medicinal') : '',
+    flags & FLAG.fallow ? t('event.fallow') : '',
+    flags & FLAG.pd ? t('event.pd') : '',
+    flags & FLAG.ila ? t('event.ila') : '',
   ]
     .filter(Boolean)
     .join(', ')
 
-const RANGES: { label: string; weeks: number | null }[] = [
-  { label: 'Last year', weeks: 52 },
-  { label: 'Last 4 years', weeks: 4 * 52 },
-  { label: 'Last 8 years', weeks: 8 * 52 },
-  { label: 'All since 2012', weeks: null },
+const RANGES: { key: string; weeks: number | null }[] = [
+  { key: 'chart.range.1y', weeks: 52 },
+  { key: 'chart.range.4y', weeks: 4 * 52 },
+  { key: 'chart.range.8y', weeks: 8 * 52 },
+  { key: 'chart.range.all', weeks: null },
 ]
 
 export default function LiceChart({ series: full, extras = [] }: Props) {
+  const t = useT()
   const [hover, setHover] = useState<number | null>(null)
   const [range, setRange] = useState(1)
   const [view, setView] = useState<'history' | 'scatter'>('history')
@@ -101,24 +103,24 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
           className="secondary chart-toggle"
           onClick={() => { setView(view === 'history' ? 'scatter' : 'history'); setHover(null) }}
           disabled={!extras.length}
-          title={view === 'history' ? 'Show each week as this site vs the average' : 'Show the time series'}
+          title={t(view === 'history' ? 'chart.showScatterTitle' : 'chart.showHistoryTitle')}
         >
-          {view === 'history' ? 'Show site vs average' : 'Show history'}
+          {t(view === 'history' ? 'chart.showScatter' : 'chart.showHistory')}
         </button>
         <label>
-          <select value={range} onChange={(e) => { setRange(Number(e.target.value)); setHover(null) }} aria-label="History period">
+          <select value={range} onChange={(e) => { setRange(Number(e.target.value)); setHover(null) }} aria-label={t('chart.periodAria')}>
             {RANGES.map((r, i) => (
-              <option key={r.label} value={i} disabled={r.weeks !== null && r.weeks > full.length && i > 0}>
-                {r.label}
+              <option key={r.key} value={i} disabled={r.weeks !== null && r.weeks > full.length && i > 0}>
+                {t(r.key)}
               </option>
             ))}
           </select>
         </label>
       </div>
       {view === 'scatter' ? (
-        <ScatterView series={series} extras={extras} extraVals={extraVals} hover={hover} setHover={setHover} />
+        <ScatterView series={series} extras={extras} extraVals={extraVals} hover={hover} setHover={setHover} t={t} />
       ) : (
-      <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label="Adult female lice per fish by week"
+      <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label={t('chart.aria')}
         onMouseMove={onMove} onMouseLeave={() => setHover(null)}>
         {fallow.map(([a, b]) => (
           <rect key={a} x={x(a)} y={PAD.t} width={Math.max(x(b) - x(a), 1)} height={innerH} className="chart-fallow" />
@@ -160,7 +162,7 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
       )}
       {extras.length > 0 && (
         <div className="chart-legend">
-          <span><i style={{ background: SITE_COLOUR }} /> This site</span>
+          <span><i style={{ background: SITE_COLOUR }} /> {t('chart.thisSite')}</span>
           {extras.map((x) => (
             <span key={x.name}><i style={{ background: x.colour }} /> {x.name}</span>
           ))}
@@ -169,7 +171,7 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
       <div className="chart-readout">
         {h && view === 'scatter' ? (
           <>
-            week {h.week}: <strong>{h.lice != null ? h.lice.toFixed(2) : '–'}</strong> here vs{' '}
+            {t('chart.week', { w: h.week })}: <strong>{h.lice != null ? h.lice.toFixed(2) : '–'}</strong> {t('chart.hereVs')}{' '}
             {extras.map((x, k) => (
               <span key={x.name} className="chart-readout-extra">
                 <i style={{ background: x.colour }} /> {extraVals[k][hover!] != null ? extraVals[k][hover!]!.toFixed(2) : '–'}
@@ -178,8 +180,8 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
           </>
         ) : h ? (
           <>
-            <strong>{h.lice != null ? h.lice.toFixed(2) : 'not reported'}</strong> week {h.week}
-            {eventLabel(h.flags) ? ` · ${eventLabel(h.flags)}` : ''}
+            <strong>{h.lice != null ? h.lice.toFixed(2) : t('chart.notReported')}</strong> {t('chart.week', { w: h.week })}
+            {eventLabel(t, h.flags) ? ` · ${eventLabel(t, h.flags)}` : ''}
             {extras.map((x, k) => (
               <span key={x.name} className="chart-readout-extra">
                 <i style={{ background: x.colour }} /> {extraVals[k][hover!] != null ? extraVals[k][hover!]!.toFixed(2) : '–'}
@@ -188,28 +190,28 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
           </>
         ) : view === 'scatter' ? (
           <span className="muted">
-            Each dot is a week: average at other farms (x) vs this site (y); above the diagonal = this site had more lice.
+            {t('chart.scatterHint')}
             {extraVals[0] && (() => {
               const pairs = series.map((p, i) => [p.lice, extraVals[0][i]] as const).filter(([a, b]) => a != null && b != null) as [number, number][]
               const above = pairs.filter(([a, b]) => a > b).length
-              return pairs.length ? ` This site above ${extras[0].name.split(' (')[0]} in ${Math.round((100 * above) / pairs.length)}% of ${pairs.length} weeks.` : ''
+              return pairs.length ? t('chart.aboveShare', { name: extras[0].name.split(' (')[0], p: Math.round((100 * above) / pairs.length), n: pairs.length }) : ''
             })()}
           </span>
         ) : (
-          <span className="muted">Adult female lice per fish · red line = {LICE_LIMIT} limit · ▲ mechanical ◆ medicinal · grey = fallow</span>
+          <span className="muted">{t('chart.legend', { limit: LICE_LIMIT })}</span>
         )}
       </div>
       <details>
-        <summary className="muted">Last 12 weeks as table</summary>
+        <summary className="muted">{t('chart.table')}</summary>
         <table className="kv">
           <thead>
             <tr>
-              <th>Week</th>
-              <th>Lice</th>
+              <th>{t('chart.colWeek')}</th>
+              <th>{t('chart.colLice')}</th>
               {extras.map((x) => (
                 <th key={x.name}>{x.name.split(' ')[0]}</th>
               ))}
-              <th>Events</th>
+              <th>{t('chart.colEvents')}</th>
             </tr>
           </thead>
           <tbody>
@@ -222,7 +224,7 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
                   {extraVals.map((vals, k) => (
                     <td key={k}>{vals[i] != null ? vals[i]!.toFixed(2) : '–'}</td>
                   ))}
-                  <td>{eventLabel(p.flags) || '–'}</td>
+                  <td>{eventLabel(t, p.flags) || '–'}</td>
                 </tr>
               )
             })}
@@ -240,11 +242,12 @@ interface ScatterProps {
   extraVals: (number | null)[][]
   hover: number | null
   setHover: (i: number | null) => void
+  t: (k: string) => string
 }
 
 const SP = { l: 30, r: 8, t: 8, b: 26 }
 
-function ScatterView({ series, extras, extraVals, hover, setHover }: ScatterProps) {
+function ScatterView({ series, extras, extraVals, hover, setHover, t }: ScatterProps) {
   const innerW = W - SP.l - SP.r
   const innerH = H - SP.t - SP.b
   const maxVal = Math.max(LICE_LIMIT * 1.4, ...series.map((p) => p.lice ?? 0), ...extraVals.flat().map((v) => v ?? 0)) * 1.05
@@ -268,7 +271,7 @@ function ScatterView({ series, extras, extraVals, hover, setHover }: ScatterProp
     setHover(best ? best.i : null)
   }
   return (
-    <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label="This site's weekly lice versus the average at other farms" onMouseMove={onMove} onMouseLeave={() => setHover(null)}>
+    <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label={t('chart.scatterAria')} onMouseMove={onMove} onMouseLeave={() => setHover(null)}>
       {ticks.map((v) => (
         <g key={v}>
           <line x1={SP.l} x2={W - SP.r} y1={sy(v)} y2={sy(v)} className="chart-grid" />
@@ -279,8 +282,8 @@ function ScatterView({ series, extras, extraVals, hover, setHover }: ScatterProp
       ))}
       <line x1={sx(0)} y1={sy(0)} x2={sx(maxVal)} y2={sy(maxVal)} className="chart-diagonal" />
       <line x1={SP.l} x2={W - SP.r} y1={sy(LICE_LIMIT)} y2={sy(LICE_LIMIT)} className="chart-limit" />
-      <text x={W - SP.r} y={H - 3} className="chart-tick" textAnchor="end">other farms →</text>
-      <text x={SP.l + 4} y={SP.t + 9} className="chart-tick">↑ this site</text>
+      <text x={W - SP.r} y={H - 3} className="chart-tick" textAnchor="end">{t('chart.axisOther')}</text>
+      <text x={SP.l + 4} y={SP.t + 9} className="chart-tick">{t('chart.axisSite')}</text>
       {points.map((pt) => (
         <circle key={`${pt.k}-${pt.i}`} cx={pt.x} cy={pt.y} r={hover === pt.i ? 5 : 3} className="chart-dot" style={{ fill: extras[pt.k].colour, opacity: hover === null || hover === pt.i ? 0.85 : 0.3 }} />
       ))}

@@ -245,9 +245,17 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
 .picker-any { padding: 2px 8px; font-size: 12px; }
 .picker input[type=search] { width: 100%; font: inherit; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; }
 .picker-list { max-height: 50vh; overflow-y: auto; display: flex; flex-direction: column; }
-.picker-item { display: flex; justify-content: space-between; gap: 8px; background: transparent; color: var(--fg); text-align: left; border-radius: 6px; padding: 5px 8px; }
+.picker-item { display: flex; align-items: center; gap: 8px; background: transparent; color: var(--fg); text-align: left; border-radius: 6px; padding: 5px 8px; cursor: pointer; }
+.picker-item span { flex: 1; }
+.picker-any.on { background: var(--brand); color: #fff; }
 .picker-item:hover { background: #eef2f5; }
 .picker-item.active { background: var(--brand); color: #fff; }
 .picker-item.active small { color: #fff; }
 .picker-item.mine span::after { content: ' ●'; color: var(--accent); }
 .filter-note { color: var(--muted); font-weight: 400; }
+
+/* Language switch and settings extras */
+.lang-switch { display: flex; gap: 4px; }
+.lang-switch button { padding: 4px 10px; font-size: 12px; font-weight: 400; }
+.login-top { display: flex; justify-content: space-between; align-items: center; }
+.settings-offline { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; text-align: left; }

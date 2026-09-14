@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { searchLocalities, type Localities, type LocalityFeature } from '../lib/localities'
+import { useT } from '../lib/i18n'
 
 interface Props {
   localities: Localities | null
@@ -7,6 +8,7 @@ interface Props {
 }
 
 export default function SearchBox({ localities, onPick }: Props) {
+  const t = useT()
   const [q, setQ] = useState('')
   const matches = localities ? searchLocalities(localities, q) : []
   const pick = (f: LocalityFeature) => {
@@ -17,14 +19,14 @@ export default function SearchBox({ localities, onPick }: Props) {
     <div className="search">
       <input
         type="search"
-        placeholder="Find locality by name or number"
+        placeholder={t('search.placeholder')}
         value={q}
         onChange={(e) => setQ(e.target.value)}
         onKeyDown={(e) => {
           if (e.key === 'Enter' && matches[0]) pick(matches[0])
           if (e.key === 'Escape') setQ('')
         }}
-        aria-label="Search localities"
+        aria-label={t('search.aria')}
       />
       {matches.length > 0 && (
         <ul className="search-results">

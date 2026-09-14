@@ -1,12 +1,11 @@
 import { CATEGORIES, overlaysIn } from '../lib/layers'
 import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
 import Hint from './Hint'
-import { HINTS } from '../lib/hints'
+import { useT } from '../lib/i18n'
 import { updateSettings, useSettings } from '../lib/settings'
 
-const CACHE_LABEL = { precache: 'bundled', 'cache-first': 'cached on view', forecast: 'forecast, cached 1 day' }
-
 export default function LayerPanel() {
+  const t = useT()
   const s = useSettings()
   const toggle = (id: string) =>
     updateSettings({
@@ -15,7 +14,7 @@ export default function LayerPanel() {
 
   return (
     <div className="panel-body">
-      <h2>Overlays</h2>
+      <h2>{t('layers.overlays')}</h2>
       <div className="tabs" role="tablist">
         {CATEGORIES.map((c) => {
           const ids = overlaysIn(c.id).map((l) => l.id)
@@ -34,13 +33,13 @@ export default function LayerPanel() {
           return (
             <div key={c.id} className={`tab${s.layerTab === c.id ? ' active' : ''}`}>
               <button role="tab" aria-selected={s.layerTab === c.id} onClick={() => updateSettings({ layerTab: c.id })}>
-                {c.title}
+                {t(`cat.${c.id}`)}
               </button>
               <button
                 className={`badge${on.length ? ' on' : ''}`}
                 onClick={toggleGroup}
-                title={on.length ? `Switch off all ${c.title} layers` : `Switch on ${c.title} layers`}
-                aria-label={`${on.length ? 'Switch off' : 'Switch on'} ${c.title} overlays`}
+                title={t(on.length ? 'layers.groupOff' : 'layers.groupOn', { g: t(`cat.${c.id}`) })}
+                aria-label={t(on.length ? 'layers.groupOffAria' : 'layers.groupOnAria', { g: t(`cat.${c.id}`) })}
               >
                 {on.length || ids.length}
               </button>
@@ -54,12 +53,12 @@ export default function LayerPanel() {
           <label key={l.id} className="row">
             <input type="checkbox" checked={on} onChange={() => toggle(l.id)} />
             <span>
-              {l.title}
+              {t(`layer.${l.id}.title`)}
               <small>
-                {l.description ? `${l.description} ` : ''}
-                {l.organisation} · {l.license} · {CACHE_LABEL[l.cache]}
+                {l.description ? `${t(`layer.${l.id}.desc`)} ` : ''}
+                {l.organisation} · {l.license} · {t(`layers.cache.${l.cache}`)}
               </small>
-              {on && l.legend && <img className="legend-img" src={l.legend} alt={`${l.title} legend`} />}
+              {on && l.legend && <img className="legend-img" src={l.legend} alt={t('layers.legendAlt', { l: t(`layer.${l.id}.title`) })} />}
             </span>
           </label>
         )
@@ -67,12 +66,12 @@ export default function LayerPanel() {
       {s.layerTab === 'aquaculture' && (
         <>
           <h3>
-            <Hint text={HINTS.operatorColours}>Locality colours</Hint>
+            <Hint text={t('hint.operatorColours')}>{t('layers.colours')}</Hint>
           </h3>
           {(() => {
             const selectedExtra = s.operatorFilter
               .filter((op) => !OPERATOR_COLOURS.some((o) => o.name === op))
-              .map((op) => ({ name: `${op} (selected)`, colour: paletteFor(s.operatorFilter).get(op)! }))
+              .map((op) => ({ name: t('layers.selected', { op }), colour: paletteFor(s.operatorFilter).get(op)! }))
             const row = (e: { name: string; colour: string }) => (
               <div key={e.name} className="row legend">
                 <span className="swatch" style={{ background: e.colour }} />
@@ -84,12 +83,12 @@ export default function LayerPanel() {
                 {OPERATOR_COLOURS.slice(0, 10).map(row)}
                 {OPERATOR_COLOURS.length > 10 && (
                   <details className="legend-more">
-                    <summary className="muted">{OPERATOR_COLOURS.length - 10} more operators with fixed colours</summary>
+                    <summary className="muted">{t('layers.moreOps', { n: OPERATOR_COLOURS.length - 10 })}</summary>
                     {OPERATOR_COLOURS.slice(10).map(row)}
                   </details>
                 )}
                 {selectedExtra.map(row)}
-                {row({ name: 'Other operators', colour: OTHER_COLOUR })}
+                {row({ name: t('layers.otherOps'), colour: OTHER_COLOUR })}
               </>
             )
           })()}

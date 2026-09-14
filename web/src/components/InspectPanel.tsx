@@ -1,13 +1,14 @@
+import { useState } from 'react'
 import { neighbourhood, type Localities } from '../lib/localities'
-import { licePressure, liceSeries, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
+import { licePressure, liceSeries, liceStatsIndex, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
 import { ALL_FARMS_COLOUR, paletteFor } from '../lib/operatorColours'
 import { updateSettings, useSettings } from '../lib/settings'
-import { filterValueOf, sameValue, type CapacityRange, type FilterKey } from '../lib/filters'
-import FieldPicker from './FieldPicker'
-import { useState } from 'react'
+import { activeFilterKeys, fieldValuesOf, valueLabel, type FieldFilters, type FilterKey, type FilterValue } from '../lib/filters'
+import { numberLocale, useT } from '../lib/i18n'
+import type { HintKey } from '../lib/hints'
 import LiceChart from './LiceChart'
 import Hint from './Hint'
-import { HINTS, type HintKey } from '../lib/hints'
+import FieldPicker from './FieldPicker'
 import type { Selection } from './MapView'
 
 interface Props {
@@ -17,35 +18,76 @@ interface Props {
 }
 
 const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0, 10) : '–')
-const fmtNum = (n: number) => n.toLocaleString('en-GB', { maximumFractionDigits: 0 })
 
 export default function InspectPanel({ selection, localities, fishhealth }: Props) {
+  const t = useT()
   const { operatorFilter, fieldFilters } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
-  if (!selection) return <div className="panel-body muted">Click a locality or any point in the sea.</div>
+  const fmtNum = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
+  if (!selection) return <div className="panel-body muted">{t('inspect.empty')}</div>
 
   if (selection.type === 'farm') {
     const p = selection.props
     const rows: [string, string, HintKey, FilterKey | null][] = [
-      ['Locality no.', String(p.loknr), 'loknr', null],
-      ['Status', p.status_lokalitet, 'status', 'status'],
-      ['Capacity', p.kapasitet_lok != null ? `${fmtNum(p.kapasitet_lok)} ${p.kapasitet_unittype ?? ''}` : '–', 'capacity', 'capacity'],
-      ['Species', p.til_arter ?? '–', 'species', 'species'],
-      ['Operators', p.til_innehavere ?? '–', 'operators', null],
-      ['Purpose', p.til_formaal ?? '–', 'purpose', 'purpose'],
-      ['Production form', p.til_produksjonsform ?? '–', 'productionForm', 'productionForm'],
-      ['Placement', `${p.plassering} · ${p.vannmiljo}`, 'placement', 'placement'],
-      ['Municipality', `${p.kommune}, ${p.fylke}`, 'municipality', 'municipality'],
-      ['Production area', p.prodareacode ?? '–', 'prodArea', 'prodArea'],
-      ['First clearance', fmtDate(p.klareringsdato), 'clearance', null],
+      [t('inspect.loknr'), String(p.loknr), 'loknr', null],
+      [t('inspect.status'), p.status_lokalitet, 'status', 'status'],
+      [t('inspect.capacity'), p.kapasitet_lok != null ? `${fmtNum(p.kapasitet_lok)} ${p.kapasitet_unittype ?? ''}` : '–', 'capacity', 'capacity'],
+      [t('inspect.species'), p.til_arter ?? '–', 'species', 'species'],
+      [t('inspect.operators'), p.til_innehavere ?? '–', 'operators', null],
+      [t('inspect.purpose'), p.til_formaal ?? '–', 'purpose', 'purpose'],
+      [t('inspect.productionForm'), p.til_produksjonsform ?? '–', 'productionForm', 'productionForm'],
+      [t('inspect.placement'), `${p.plassering} · ${p.vannmiljo}`, 'placement', 'placement'],
+      [t('inspect.municipality'), `${p.kommune}, ${p.fylke}`, 'municipality', 'municipality'],
+      [t('inspect.prodArea'), p.prodareacode ?? '–', 'prodArea', 'prodArea'],
+      [t('inspect.clearance'), fmtDate(p.klareringsdato), 'clearance', null],
     ]
     const clearFilter = (key: FilterKey) => updateSettings({ fieldFilters: { ...fieldFilters, [key]: undefined } })
-    const pick = (key: FilterKey, value: string | CapacityRange | undefined) => {
-      updateSettings({ fieldFilters: { ...fieldFilters, [key]: value } })
-      setPicker(null)
-    }
+    const setFilters = (next: FieldFilters) => updateSettings({ fieldFilters: next })
+    const active = new Set(activeFilterKeys(fieldFilters))
+    const stats = fishhealth ? liceStatsIndex(fishhealth) : undefined
     const series = fishhealth ? liceSeries(fishhealth, p.loknr) : null
     const sum = series ? summarise(series) : null
+    const my = stats?.get(p.loknr)
+    const liceRows: [string, string, HintKey, FilterKey][] = my
+      ? [
+          [t('inspect.liceMean'), my.mean.toFixed(2), 'liceMean', 'liceMean'],
+          [t('inspect.liceMax'), my.max.toFixed(2), 'liceMax', 'liceMax'],
+          [t('inspect.liceAbove'), String(my.weeksAbove), 'liceAbove', 'liceAbove'],
+          [t('inspect.liceTreat'), String(my.treatments), 'liceTreat', 'liceTreat'],
+        ]
+      : []
+    const fieldRow = ([k, v, h, fk]: [string, string, HintKey, FilterKey | null]) => {
+      const isActive = fk !== null && active.has(fk)
+      const filterable = fk !== null && localities !== null
+      const sel = fk ? ((fieldFilters[fk] as FilterValue[] | undefined) ?? []) : []
+      return (
+        <tr key={h} className={isActive ? 'filtered' : ''}>
+          <th>
+            <Hint text={t(`hint.${h}`)}>{k}</Hint>
+          </th>
+          <td>
+            {filterable ? (
+              <button
+                type="button"
+                className="field-filter"
+                title={t('filter.choose', { f: k.toLowerCase() })}
+                onClick={(e) => setPicker({ key: fk!, anchor: e.currentTarget.getBoundingClientRect() })}
+              >
+                {v}
+                {isActive && <small className="filter-note">{t('filter.note', { v: sel.map((x) => valueLabel(fk!, x)).join(', ') })}</small>}
+              </button>
+            ) : (
+              v
+            )}
+            {isActive && (
+              <button type="button" className="field-clear" title={t('filter.clearField')} aria-label={t('filter.clearFieldAria', { f: k })} onClick={() => clearFilter(fk!)}>
+                ✕
+              </button>
+            )}
+          </td>
+        </tr>
+      )
+    }
     const site = localities?.features.find((f) => f.properties.loknr === p.loknr)
     const at = site?.geometry.coordinates as [number, number] | undefined
     const extras =
@@ -53,11 +95,11 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
         ? operatorFilter.length
           ? operatorFilter.slice(0, 8).map((op) => {
               const s = operatorPressureSeries(fishhealth, localities, op, at, p.loknr)
-              return { name: `${op} (${s.farms} farms)`, values: s.values, colour: paletteFor(operatorFilter).get(op)! }
+              return { name: t('inspect.opFarms', { op, n: s.farms }), values: s.values, colour: paletteFor(operatorFilter).get(op)! }
             })
           : [(() => {
               const s = operatorPressureSeries(fishhealth, localities, undefined, at, p.loknr)
-              return { name: `All farms within 150 km (${s.farms})`, values: s.values, colour: ALL_FARMS_COLOUR }
+              return { name: t('inspect.allFarms', { n: s.farms }), values: s.values, colour: ALL_FARMS_COLOUR }
             })()]
         : []
     return (
@@ -65,89 +107,61 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
         <h2>{p.navn}</h2>
         <table className="kv">
           <tbody>
-            {rows.map(([k, v, h, fk]) => {
-              const active = fk !== null && fieldFilters[fk] !== undefined
-              const filterable = fk !== null && localities !== null
-              const differs = active && !sameValue(fieldFilters[fk!], filterValueOf(fk!, p))
-              return (
-                <tr key={k} className={active ? 'filtered' : ''}>
-                  <th>
-                    <Hint text={HINTS[h]}>{k}</Hint>
-                  </th>
-                  <td>
-                    {filterable ? (
-                      <button
-                        type="button"
-                        className="field-filter"
-                        title={`Choose a ${k.toLowerCase()} value to filter the map`}
-                        onClick={(e) => setPicker({ key: fk!, anchor: e.currentTarget.getBoundingClientRect() })}
-                      >
-                        {v}
-                        {differs && <small className="filter-note"> (filter: {fk === 'capacity' ? `${fieldFilters.capacity!.min.toLocaleString('en-GB')}–${fieldFilters.capacity!.max?.toLocaleString('en-GB') ?? '∞'} t` : String(fieldFilters[fk!])})</small>}
-                      </button>
-                    ) : (
-                      v
-                    )}
-                    {active && (
-                      <button type="button" className="field-clear" title="Clear this filter" aria-label={`Clear ${k} filter`} onClick={() => clearFilter(fk)}>
-                        ✕
-                      </button>
-                    )}
-                  </td>
-                </tr>
-              )
-            })}
+            {rows.map(fieldRow)}
           </tbody>
         </table>
-        <h3>Fish health</h3>
-        {series && sum ? (
-          <>
-            <table className="kv">
-              <tbody>
-                <tr>
-                  <th>
-                    <Hint text={HINTS.latestLice}>Latest lice</Hint>
-                  </th>
-                  <td>{sum.latest ? `${sum.latest.lice} (week ${sum.latest.week})` : 'not reported'}{sum.fallowNow ? ' · fallow now' : ''}</td>
-                </tr>
-                <tr>
-                  <th>
-                    <Hint text={HINTS.last52}>Last 52 weeks</Hint>
-                  </th>
-                  <td>
-                    {sum.weeksReported} weeks reported, {sum.weeksAboveLimit} above limit, {sum.treatments} with treatment
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <Hint text={operatorFilter.length ? HINTS.liceChartOperators : HINTS.liceChartAll} block>
-              <LiceChart series={series} extras={extras} />
-            </Hint>
-            {!operatorFilter.length && <p className="muted">Select operators in the map dropdown to compare with their farms instead of all farms.</p>}
-            <p className="muted">Source: BarentsWatch fish health (NLOD 2.0), snapshot {fishhealth!.retrieved.slice(0, 10)}.</p>
-          </>
-        ) : (
-          <p className="muted">{fishhealth ? 'No fish-health reports for this locality.' : 'Fish-health data not loaded.'}</p>
-        )}
         {picker && localities && (
           <FieldPicker
             fieldKey={picker.key}
             localities={localities}
             anchor={picker.anchor}
-            current={fieldFilters[picker.key]}
-            siteValue={filterValueOf(picker.key, p)}
-            onPick={(value) => pick(picker.key, value)}
+            filters={fieldFilters}
+            siteValues={fieldValuesOf(picker.key, p, stats)}
+            stats={stats}
+            onChange={setFilters}
             onClose={() => setPicker(null)}
           />
         )}
         {p.lokalitet_url && (
           <p>
             <a href={p.lokalitet_url} target="_blank" rel="noreferrer">
-              Open in Akvakulturregisteret ↗
+              {t('inspect.openRegister')}
             </a>
           </p>
         )}
-        <p className="muted">Source: Fiskeridirektoratet, Akvakulturregisteret (NLOD 2.0), bundled snapshot.</p>
+        <p className="muted">{t('inspect.sourceRegister')}</p>
+        <h3>{t('inspect.fishHealth')}</h3>
+        {series && sum ? (
+          <>
+            <table className="kv">
+              <tbody>
+                <tr>
+                  <th>
+                    <Hint text={t('hint.latestLice')}>{t('inspect.latestLice')}</Hint>
+                  </th>
+                  <td>
+                    {sum.latest ? `${sum.latest.lice} (${t('chart.week', { w: sum.latest.week })})` : t('inspect.notReported')}
+                    {sum.fallowNow ? t('inspect.fallowNow') : ''}
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <Hint text={t('hint.last52')}>{t('inspect.last52')}</Hint>
+                  </th>
+                  <td>{t('inspect.summary', { r: sum.weeksReported, a: sum.weeksAboveLimit, t: sum.treatments })}</td>
+                </tr>
+                {liceRows.map(fieldRow)}
+              </tbody>
+            </table>
+            <Hint text={t(operatorFilter.length ? 'hint.liceChartOperators' : 'hint.liceChartAll')} block>
+              <LiceChart series={series} extras={extras} />
+            </Hint>
+            {!operatorFilter.length && <p className="muted">{t('inspect.selectOps')}</p>}
+            <p className="muted">{t('inspect.sourceBW', { date: fishhealth!.retrieved.slice(0, 10) })}</p>
+          </>
+        ) : (
+          <p className="muted">{fishhealth ? t('inspect.noReports') : t('inspect.notLoaded')}</p>
+        )}
       </div>
     )
   }
@@ -156,12 +170,12 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
   const nb = localities ? neighbourhood(localities, selection.lngLat) : null
   return (
     <div className="panel-body">
-      <h2>Hypothetical site</h2>
+      <h2>{t('inspect.hypothetical')}</h2>
       <table className="kv">
         <tbody>
           <tr>
             <th>
-              <Hint text={HINTS.position}>Position</Hint>
+              <Hint text={t('hint.position')}>{t('inspect.position')}</Hint>
             </th>
             <td>
               {lat.toFixed(5)}°N, {lon.toFixed(5)}°E
@@ -170,11 +184,9 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
           {nb?.nearest && (
             <tr>
               <th>
-                <Hint text={HINTS.nearestFarm}>Nearest farm</Hint>
+                <Hint text={t('hint.nearestFarm')}>{t('inspect.nearest')}</Hint>
               </th>
-              <td>
-                {nb.nearest.name} ({nb.nearest.loknr}), {nb.nearest.km.toFixed(1)} km
-              </td>
+              <td>{t('inspect.nearestValue', { name: nb.nearest.name, nr: nb.nearest.loknr, km: nb.nearest.km.toFixed(1) })}</td>
             </tr>
           )}
         </tbody>
@@ -182,15 +194,15 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
       {fishhealth && localities && (
         <>
           <h3>
-            <Hint text={HINTS.licePressure}>Lice pressure, last 52 weeks</Hint>
+            <Hint text={t('hint.licePressure')}>{t('inspect.licePressure')}</Hint>
           </h3>
           <table className="kv">
             <thead>
               <tr>
-                <th>Radius</th>
-                <th>Farms</th>
-                <th>Mean lice</th>
-                <th>Weeks &gt; limit</th>
+                <th>{t('inspect.radius')}</th>
+                <th>{t('inspect.farms')}</th>
+                <th>{t('inspect.meanLice')}</th>
+                <th>{t('inspect.weeksAbove')}</th>
               </tr>
             </thead>
             <tbody>
@@ -209,14 +221,14 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
       {nb && (
         <>
           <h3>
-            <Hint text={HINTS.neighbours}>Neighbouring farms</Hint>
+            <Hint text={t('hint.neighbours')}>{t('inspect.neighbours')}</Hint>
           </h3>
           <table className="kv">
             <thead>
               <tr>
-                <th>Radius</th>
-                <th>Farms</th>
-                <th>Capacity (t)</th>
+                <th>{t('inspect.radius')}</th>
+                <th>{t('inspect.farms')}</th>
+                <th>{t('inspect.capacityT')}</th>
               </tr>
             </thead>
             <tbody>
@@ -231,9 +243,7 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
           </table>
         </>
       )}
-      <p className="muted">
-        Physical, regulatory and connectivity features for hypothetical sites arrive in later phases.
-      </p>
+      <p className="muted">{t('inspect.laterPhases')}</p>
     </div>
   )
 }

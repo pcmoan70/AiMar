@@ -2,6 +2,16 @@
 
 ## 2026-09-14
 
+- Two languages: English and Norwegian (bokmål) for every visible string,
+  hover explanation and help text; selector on the login screen and under
+  ⚙ Settings, default from the browser language (`web/src/i18n/`).
+- Field filters are multi-select checkboxes with an All toggle, values listed
+  alphabetically with an A–Z / count sort switch, composite fields (species,
+  purpose, production form) split into their components.
+- Lice-history filters: mean lice, peak lice, weeks above the limit and
+  treatment weeks over the last 52 weeks, as ranges in the site panel.
+- The Offline panel moved from the header into ⚙ Settings.
+
 - Help rewritten in sections (header, map, site panel, lice chart, layers,
   offline, sources) covering all current features.
 

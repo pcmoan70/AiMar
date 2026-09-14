@@ -2,18 +2,19 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import type { Map as MlMap } from 'maplibre-gl'
 import { operatorIndex, sitesOfOperators, type Localities } from '../lib/localities'
 import { updateSettings, useSettings } from '../lib/settings'
+import { numberLocale, useT } from '../lib/i18n'
 import Hint from './Hint'
-import { HINTS } from '../lib/hints'
 
 interface Props {
   localities: Localities | null
   map: MlMap | null
 }
 
-const fmt = (n: number) => n.toLocaleString('en-GB', { maximumFractionDigits: 0 })
+const fmt = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
 
 /** Floating operator filter on the map: only sites of the chosen operators are shown. */
 export default function OperatorDropdown({ localities, map }: Props) {
+  const t = useT()
   const s = useSettings()
   const [open, setOpen] = useState(false)
   const [q, setQ] = useState('')
@@ -60,59 +61,55 @@ export default function OperatorDropdown({ localities, map }: Props) {
 
   const label =
     s.operatorFilter.length === 0
-      ? 'All operators'
+      ? t('ops.all')
       : s.operatorFilter.length === 1
         ? s.operatorFilter[0]
-        : `${s.operatorFilter.length} operators`
+        : t('ops.n', { n: s.operatorFilter.length })
 
   return (
     <div className={`op-dropdown${open ? ' open' : ''}`} ref={root}>
       <button type="button" className="op-toggle" onClick={() => setOpen(!open)} aria-haspopup="listbox" aria-expanded={open}>
         <span className="op-label">{label}</span>
-        {s.operatorFilter.length > 0 && <span className="op-count">{matching.length} sites</span>}
+        {s.operatorFilter.length > 0 && <span className="op-count">{t('ops.sites', { n: matching.length })}</span>}
         <span className="op-caret">▾</span>
       </button>
       {open && (
         <div className="op-menu">
           <input
             type="search"
-            placeholder="Search operator"
+            placeholder={t('ops.search')}
             value={q}
             onChange={(e) => setQ(e.target.value)}
             autoFocus
-            aria-label="Search operators"
+            aria-label={t('ops.searchAria')}
           />
           {s.operatorFilter.length > 0 && (
             <div className="op-actions">
               <button type="button" className="secondary" onClick={zoomTo} disabled={!matching.length}>
-                Zoom to sites
+                {t('ops.zoom')}
               </button>
               <button type="button" className="secondary" onClick={() => updateSettings({ operatorFilter: [] })}>
-                Show all
+                {t('ops.showAll')}
               </button>
             </div>
           )}
           <div className="op-list" role="listbox" aria-multiselectable="true">
-            {!localities && <p className="muted">Loading…</p>}
+            {!localities && <p className="muted">{t('ops.loading')}</p>}
             {shown.map((o) => (
               <label key={o.name} className="row" role="option" aria-selected={selected.has(o.name)}>
                 <input type="checkbox" checked={selected.has(o.name)} onChange={() => toggle(o.name)} />
                 <span>
                   {o.name}
                   <small>
-                    <Hint text={HINTS.operatorSites}>
-                      {o.sites} site{o.sites === 1 ? '' : 's'} · {fmt(o.capacityTn)} t
+                    <Hint text={t('hint.operatorSites')}>
+                      {t(o.sites === 1 ? 'ops.siteCount' : 'ops.siteCountPlural', { n: o.sites, t: fmt(o.capacityTn) })}
                     </Hint>
                   </small>
                 </span>
               </label>
             ))}
-            {query && !shown.length && <p className="muted">No operator matches.</p>}
-            {!query && index.length > 30 && (
-              <p className="muted">
-                30 largest of {index.length} operators; type to search.
-              </p>
-            )}
+            {query && !shown.length && <p className="muted">{t('ops.noMatch')}</p>}
+            {!query && index.length > 30 && <p className="muted">{t('ops.largest', { n: index.length })}</p>}
           </div>
         </div>
       )}

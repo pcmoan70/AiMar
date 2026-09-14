@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { operatorsOf, type LocalityProps } from '../lib/localities'
 import { updateSettings, useSettings } from '../lib/settings'
+import { useT } from '../lib/i18n'
 
 export interface MenuState {
   x: number
@@ -15,6 +16,7 @@ interface Props {
 
 /** Right-click menu on the map: select a locality's operator(s) or clear the selection. */
 export default function ContextMenu({ menu, onClose }: Props) {
+  const t = useT()
   const s = useSettings()
   useEffect(() => {
     if (!menu) return
@@ -34,8 +36,8 @@ export default function ContextMenu({ menu, onClose }: Props) {
     onClose()
   }
   const items = [
-    ...ops.map((op) => ({ label: s.operatorFilter.includes(op) ? `${op} (selected)` : `Select ${op}`, run: () => select(op), disabled: s.operatorFilter.includes(op) })),
-    { label: 'Clear selections', run: () => { updateSettings({ operatorFilter: [] }); onClose() }, disabled: s.operatorFilter.length === 0 },
+    ...ops.map((op) => ({ label: s.operatorFilter.includes(op) ? t('ctx.selected', { op }) : t('ctx.select', { op }), run: () => select(op), disabled: s.operatorFilter.includes(op) })),
+    { label: t('ctx.clear'), run: () => { updateSettings({ operatorFilter: [] }); onClose() }, disabled: s.operatorFilter.length === 0 },
   ]
   return (
     <div className="ctx-menu" style={{ left: menu.x, top: menu.y }} role="menu" onMouseDown={(e) => e.stopPropagation()}>

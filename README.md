@@ -59,6 +59,12 @@ with `BASE_PATH=/`.
 - Operator dropdown on the map filters dots and site borders to selected
   operators, with site counts, capacity and zoom-to-sites.
 - Every figure has a hover explanation (source and calculation method).
+- English and Norwegian UI (login screen and ⚙ Settings), including hover
+  explanations and help.
+- Site-panel filters: multi-select value pickers with counts for every register
+  field (capacity as licence-multiple ranges; composite fields split into
+  components) and for lice history (mean, peak, weeks above limit, treatment
+  weeks over 52 weeks).
 - Moving the pointer over the map shows a card with what each enabled overlay
   contains at that point (locality, traffic level, protected area, seabed
   class, sea temperature and more).

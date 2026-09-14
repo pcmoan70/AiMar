@@ -1,4 +1,5 @@
 import { useRegisterSW } from 'virtual:pwa-register/react'
+import { useT } from '../lib/i18n'
 
 const CHECK_INTERVAL_MS = 10 * 60 * 1000
 
@@ -14,6 +15,7 @@ async function checkForUpdate(swUrl: string, reg: ServiceWorkerRegistration) {
 }
 
 export default function UpdatePrompt() {
+  const t = useT()
   const {
     needRefresh: [needRefresh, setNeedRefresh],
     offlineReady: [offlineReady, setOfflineReady],
@@ -33,11 +35,11 @@ export default function UpdatePrompt() {
     <div className="toast" role="status">
       {needRefresh ? (
         <>
-          <span>A new version of AiMar is available.</span>
-          <button onClick={() => updateServiceWorker(true)}>Reload</button>
+          <span>{t('update.available')}</span>
+          <button onClick={() => updateServiceWorker(true)}>{t('update.reload')}</button>
         </>
       ) : (
-        <span>Ready to work offline.</span>
+        <span>{t('update.ready')}</span>
       )}
       <button
         className="secondary"
@@ -46,7 +48,7 @@ export default function UpdatePrompt() {
           setOfflineReady(false)
         }}
       >
-        {needRefresh ? 'Later' : 'Dismiss'}
+        {needRefresh ? t('update.later') : t('update.dismiss')}
       </button>
     </div>
   )

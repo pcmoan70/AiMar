@@ -1,6 +1,7 @@
 // Hover lookups for WMS overlays: build a GetFeatureInfo request for the pixel
 // under the cursor and reduce the server's answer to one short string.
 import type { LayerDef } from './layers'
+import { t } from './i18n'
 
 export type InfoKind = 'ncwms' | 'arcgis' | 'mapserver'
 
@@ -70,8 +71,13 @@ function summarise(props: Record<string, unknown>, keys?: string[], unit?: strin
   return use.map(([, v]) => String(v)).join(' · ') + (unit && use.length === 1 && Number.isFinite(Number(use[0][1])) ? ` ${unit}` : '')
 }
 
-/** Reduce a GetFeatureInfo response to a short label, or null when nothing is there. */
-export function parseInfo(spec: InfoSpec, text: string): string | null {
+/** Reduce a GetFeatureInfo response to a short label, or null when nothing is there. `layerId` selects the presence label. */
+export function parseInfo(spec: InfoSpec, text: string, layerId?: string): string | null {
+  const presence = () => {
+    const key = layerId ? `presence.${layerId}` : ''
+    const label = key ? t(key) : key
+    return label && label !== key ? label : (spec.presence ?? t('hover.present'))
+  }
   if (!text || /ServiceException/i.test(text)) return null
   if (spec.kind === 'ncwms') {
     const m = text.match(/<value>([^<]+)<\/value>/)
@@ -80,7 +86,7 @@ export function parseInfo(spec: InfoSpec, text: string): string | null {
     if (!Number.isFinite(v)) return m[1]
     if (spec.direction) {
       const deg = ((v % 360) + 360) % 360
-      return `towards ${compass(deg)} (${deg.toFixed(0)}°)`
+      return t('hover.towards', { dir: compass(deg), deg: deg.toFixed(0) })
     }
     return `${v.toFixed(2)}${spec.unit ? ` ${spec.unit}` : ''}`
   }
@@ -88,7 +94,7 @@ export function parseInfo(spec: InfoSpec, text: string): string | null {
     try {
       const fc = JSON.parse(text)
       const f = fc.features?.[0]
-      return f ? (summarise(f.properties ?? {}, spec.keys, spec.unit) ?? spec.presence ?? 'present') : null
+      return f ? (summarise(f.properties ?? {}, spec.keys, spec.unit) ?? presence()) : null
     } catch {
       return null
     }
@@ -100,5 +106,5 @@ export function parseInfo(spec: InfoSpec, text: string): string | null {
     const m = line.match(/^\s*([\w.]+)\s*=\s*'?(.*?)'?\s*$/)
     if (m && !props[m[1]]) props[m[1]] = m[2]
   }
-  return summarise(props, spec.keys, spec.unit) ?? (/Feature \d+/.test(text) ? (spec.presence ?? 'present') : null)
+  return summarise(props, spec.keys, spec.unit) ?? (/Feature \d+/.test(text) ? presence() : null)
 }

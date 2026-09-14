@@ -1,6 +1,9 @@
 // Field filters set from the site panel: each register field can restrict the
-// map to sites sharing the clicked value (capacity: at least the value).
+// map to sites whose value (or, for composite fields, one of the comma-separated
+// component values) is among the selected ones. Capacity uses fixed ranges.
 import { operatorsOf, type Localities, type LocalityProps } from './localities'
+import type { LiceStats } from './fishhealth'
+import { numberLocale, t } from './i18n'
 
 export interface CapacityRange {
   min: number
@@ -9,28 +12,34 @@ export interface CapacityRange {
 }
 
 export interface FieldFilters {
-  status?: string
-  capacity?: CapacityRange
-  species?: string
-  purpose?: string
-  productionForm?: string
-  placement?: string
-  municipality?: string
-  prodArea?: string
+  status?: string[]
+  capacity?: CapacityRange[]
+  species?: string[]
+  purpose?: string[]
+  productionForm?: string[]
+  placement?: string[]
+  municipality?: string[]
+  prodArea?: string[]
+  /** Fish-health statistics over the last 52 weeks (numeric ranges). */
+  liceMean?: CapacityRange[]
+  liceMax?: CapacityRange[]
+  liceAbove?: CapacityRange[]
+  liceTreat?: CapacityRange[]
 }
+
+/** Lice statistics per locality number, needed for the lice filters. */
+export type LiceStatsMap = Map<number, LiceStats>
 
 export type FilterKey = keyof FieldFilters
+export type FilterValue = string | CapacityRange
 
-export const FILTER_LABELS: Record<FilterKey, string> = {
-  status: 'Status',
-  capacity: 'Capacity',
-  species: 'Species',
-  purpose: 'Purpose',
-  productionForm: 'Production form',
-  placement: 'Placement',
-  municipality: 'Municipality',
-  prodArea: 'Production area',
-}
+export const FILTER_KEYS: FilterKey[] = ['status', 'capacity', 'species', 'purpose', 'productionForm', 'placement', 'municipality', 'prodArea', 'liceMean', 'liceMax', 'liceAbove', 'liceTreat']
+export const LICE_KEYS: FilterKey[] = ['liceMean', 'liceMax', 'liceAbove', 'liceTreat']
+
+/** Fields whose register value lists several components separated by commas. */
+const COMPOSITE: FilterKey[] = ['species', 'purpose', 'productionForm']
+
+export const filterLabel = (key: FilterKey) => t(`filter.${key}`)
 
 /** Capacity ranges in multiples of the 780 t standard licence. */
 export const CAPACITY_BUCKETS: CapacityRange[] = [
@@ -42,84 +51,133 @@ export const CAPACITY_BUCKETS: CapacityRange[] = [
   { min: 7800, max: null },
 ]
 
-export const capacityLabel = (r: CapacityRange) =>
-  r.max === null ? `≥ ${r.min.toLocaleString('en-GB')} t` : `${r.min.toLocaleString('en-GB')}–${r.max.toLocaleString('en-GB')} t`
+/** Ranges for the lice filters: values are lice per fish (mean, peak) or weeks (above limit, treatments). */
+export const LICE_BUCKETS: Record<'liceMean' | 'liceMax' | 'liceAbove' | 'liceTreat', CapacityRange[]> = {
+  liceMean: [{ min: 0, max: 0.1 }, { min: 0.1, max: 0.2 }, { min: 0.2, max: 0.5 }, { min: 0.5, max: null }],
+  liceMax: [{ min: 0, max: 0.5 }, { min: 0.5, max: 1 }, { min: 1, max: 2 }, { min: 2, max: null }],
+  liceAbove: [{ min: 0, max: 1 }, { min: 1, max: 3 }, { min: 3, max: 6 }, { min: 6, max: null }],
+  liceTreat: [{ min: 0, max: 1 }, { min: 1, max: 3 }, { min: 3, max: 6 }, { min: 6, max: null }],
+}
 
-const bucketOf = (tonnes: number) => CAPACITY_BUCKETS.find((b) => tonnes >= b.min && (b.max === null || tonnes < b.max))!
+const fmt = (n: number, digits: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: digits })
 
-/** Filter value a site's field would set, or undefined when the field is empty. */
-export function filterValueOf(key: FilterKey, p: LocalityProps): string | CapacityRange | undefined {
+export const capacityLabel = (r: CapacityRange) => (r.max === null ? `≥ ${fmt(r.min, 0)} t` : `${fmt(r.min, 0)}–${fmt(r.max, 0)} t`)
+
+/** Label of a numeric range for a given key (capacity in tonnes, lice per fish, or whole weeks). */
+export function rangeLabel(key: FilterKey, r: CapacityRange): string {
+  if (key === 'capacity') return capacityLabel(r)
+  if (key === 'liceAbove' || key === 'liceTreat') {
+    const w = (n: number) => t(n === 1 ? 'filter.week' : 'filter.weeks', { n })
+    if (r.max === null) return `≥ ${w(r.min)}`
+    if (r.max - r.min === 1) return w(r.min)
+    return `${r.min}–${w(r.max - 1)}`
+  }
+  return r.max === null ? `≥ ${fmt(r.min, 2)}` : `${fmt(r.min, 2)}–${fmt(r.max, 2)}`
+}
+
+const bucketIn = (buckets: CapacityRange[], v: number) => buckets.find((b) => v >= b.min && (b.max === null || v < b.max))!
+const bucketOf = (tonnes: number) => bucketIn(CAPACITY_BUCKETS, tonnes)
+
+const split = (s: string | null | undefined) => (s ?? '').split(',').map((x) => x.trim()).filter(Boolean)
+
+/** The component values a site has for a field (several for composite fields), empty when the field is blank or, for lice keys, when the site has no reports. */
+export function fieldValuesOf(key: FilterKey, p: LocalityProps, stats?: LiceStatsMap): FilterValue[] {
+  if (LICE_KEYS.includes(key)) {
+    const st = stats?.get(p.loknr)
+    if (!st) return []
+    const v = key === 'liceMean' ? st.mean : key === 'liceMax' ? st.max : key === 'liceAbove' ? st.weeksAbove : st.treatments
+    return [bucketIn(LICE_BUCKETS[key as keyof typeof LICE_BUCKETS], v)]
+  }
   switch (key) {
     case 'status':
-      return p.status_lokalitet || undefined
+      return p.status_lokalitet ? [p.status_lokalitet] : []
     case 'capacity':
-      return p.kapasitet_unittype === 'TN' && p.kapasitet_lok != null ? bucketOf(p.kapasitet_lok) : undefined
+      return p.kapasitet_unittype === 'TN' && p.kapasitet_lok != null ? [bucketOf(p.kapasitet_lok)] : []
     case 'species':
-      return p.til_arter?.split(',')[0]?.trim() || undefined
+      return split(p.til_arter)
     case 'purpose':
-      return p.til_formaal || undefined
+      return split(p.til_formaal)
     case 'productionForm':
-      return p.til_produksjonsform || undefined
+      return split(p.til_produksjonsform)
     case 'placement':
-      return p.plassering || undefined
+      return p.plassering ? [p.plassering] : []
     case 'municipality':
-      return p.kommune || undefined
+      return p.kommune ? [p.kommune] : []
     case 'prodArea':
-      return p.prodareacode || undefined
+      return p.prodareacode ? [p.prodareacode] : []
+    default:
+      return []
   }
 }
 
-export function matchesFilters(p: LocalityProps, f: FieldFilters): boolean {
-  if (f.status && p.status_lokalitet !== f.status) return false
-  if (f.capacity && !(p.kapasitet_unittype === 'TN' && p.kapasitet_lok != null && p.kapasitet_lok >= f.capacity.min && (f.capacity.max === null || p.kapasitet_lok < f.capacity.max))) return false
-  if (f.species && !(p.til_arter ?? '').split(',').map((s) => s.trim()).includes(f.species)) return false
-  if (f.purpose && p.til_formaal !== f.purpose) return false
-  if (f.productionForm && p.til_produksjonsform !== f.productionForm) return false
-  if (f.placement && p.plassering !== f.placement) return false
-  if (f.municipality && p.kommune !== f.municipality) return false
-  if (f.prodArea && p.prodareacode !== f.prodArea) return false
+export const sameValue = (a: FilterValue | undefined, b: FilterValue | undefined) =>
+  a !== undefined && b !== undefined && (typeof a === 'string' || typeof b === 'string' ? a === b : a.min === b.min && a.max === b.max)
+
+const selectedFor = (f: FieldFilters, key: FilterKey): FilterValue[] => (f[key] as FilterValue[] | undefined) ?? []
+
+export function matchesFilters(p: LocalityProps, f: FieldFilters, stats?: LiceStatsMap): boolean {
+  for (const key of FILTER_KEYS) {
+    const sel = selectedFor(f, key)
+    if (!sel.length) continue
+    const mine = fieldValuesOf(key, p, stats)
+    if (!mine.some((v) => sel.some((s) => sameValue(s, v)))) return false
+  }
   return true
 }
 
-export const activeFilterKeys = (f: FieldFilters): FilterKey[] =>
-  (Object.keys(f) as FilterKey[]).filter((k) => f[k] !== undefined && f[k] !== '')
+export const activeFilterKeys = (f: FieldFilters): FilterKey[] => FILTER_KEYS.filter((k) => selectedFor(f, k).length > 0)
+
+export const valueLabel = (key: FilterKey, v: FilterValue) => (typeof v === 'string' ? v : rangeLabel(key, v))
 
 export function describeFilter(key: FilterKey, f: FieldFilters): string {
-  if (key === 'capacity') return `${FILTER_LABELS.capacity} ${capacityLabel(f.capacity!)}`
-  return `${FILTER_LABELS[key]}: ${f[key]}`
+  return `${filterLabel(key)}: ${selectedFor(f, key).map((v) => valueLabel(key, v)).join(', ')}`
 }
 
 export interface ValueOption {
-  value: string | CapacityRange
+  value: FilterValue
   label: string
   count: number
 }
 
-/** Every value a field takes across the localities, with site counts (capacity: the fixed ranges). */
-export function valueOptions(localities: Localities, key: FilterKey): ValueOption[] {
-  if (key === 'capacity') {
-    return CAPACITY_BUCKETS.map((b) => ({
+/** Every value a field takes across the localities with site counts: numeric keys in range order, text alphabetically. */
+export function valueOptions(localities: Localities, key: FilterKey, stats?: LiceStatsMap): ValueOption[] {
+  const buckets = key === 'capacity' ? CAPACITY_BUCKETS : LICE_KEYS.includes(key) ? LICE_BUCKETS[key as keyof typeof LICE_BUCKETS] : null
+  if (buckets) {
+    return buckets.map((b) => ({
       value: b,
-      label: capacityLabel(b),
-      count: localities.features.filter((x) => matchesFilters(x.properties, { capacity: b })).length,
+      label: rangeLabel(key, b),
+      count: localities.features.filter((x) => fieldValuesOf(key, x.properties, stats).some((v) => sameValue(v, b))).length,
     }))
   }
   const counts = new Map<string, number>()
-  for (const x of localities.features) {
-    const vals = key === 'species' ? (x.properties.til_arter ?? '').split(',').map((s) => s.trim()).filter(Boolean) : [filterValueOf(key, x.properties) as string | undefined]
-    for (const v of vals) if (v) counts.set(v, (counts.get(v) ?? 0) + 1)
-  }
-  return [...counts].map(([value, count]) => ({ value, label: value, count })).sort((a, b) => b.count - a.count || a.label.localeCompare(b.label))
+  for (const x of localities.features) for (const v of fieldValuesOf(key, x.properties) as string[]) counts.set(v, (counts.get(v) ?? 0) + 1)
+  const sortLocale = numberLocale()
+  return [...counts]
+    .map(([value, count]) => ({ value, label: value, count }))
+    .sort((a, b) => a.label.localeCompare(b.label, sortLocale, { numeric: true, sensitivity: 'base' }))
 }
 
-export const sameValue = (a: string | CapacityRange | undefined, b: string | CapacityRange | undefined) =>
-  a !== undefined && b !== undefined && (typeof a === 'string' || typeof b === 'string' ? a === b : a.min === b.min && a.max === b.max)
+/** Toggle one value inside a field's selection. */
+export function toggleValue(f: FieldFilters, key: FilterKey, value: FilterValue): FieldFilters {
+  const sel = selectedFor(f, key)
+  const next = sel.some((s) => sameValue(s, value)) ? sel.filter((s) => !sameValue(s, value)) : [...sel, value]
+  return { ...f, [key]: next.length ? next : undefined }
+}
+
+/** Select every option when some are unselected, otherwise clear the field. */
+export function toggleAll(f: FieldFilters, key: FilterKey, options: ValueOption[]): FieldFilters {
+  const sel = selectedFor(f, key)
+  const allSelected = options.every((o) => sel.some((s) => sameValue(s, o.value)))
+  return { ...f, [key]: allSelected ? undefined : options.map((o) => o.value) }
+}
+
+export const isComposite = (key: FilterKey) => COMPOSITE.includes(key)
 
 /** Locality numbers passing the operator selection and the field filters; null when nothing is filtered. */
-export function filteredLoknrs(localities: Localities, operators: string[], f: FieldFilters): number[] | null {
+export function filteredLoknrs(localities: Localities, operators: string[], f: FieldFilters, stats?: LiceStatsMap): number[] | null {
   if (!operators.length && !activeFilterKeys(f).length) return null
   const wanted = new Set(operators)
   return localities.features
-    .filter((x) => (!wanted.size || operatorsOf(x.properties).some((o) => wanted.has(o))) && matchesFilters(x.properties, f))
+    .filter((x) => (!wanted.size || operatorsOf(x.properties).some((o) => wanted.has(o))) && matchesFilters(x.properties, f, stats))
     .map((x) => x.properties.loknr)
 }

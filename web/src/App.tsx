@@ -14,20 +14,16 @@ import SearchBox from './components/SearchBox'
 import LoginScreen from './components/LoginScreen'
 import { logout, useAuth } from './lib/auth'
 import { scheduleJanitor } from './lib/cacheJanitor'
+import { useT } from './lib/i18n'
 import { getSettings } from './lib/settings'
 import { loadLocalities, type Localities, type LocalityFeature } from './lib/localities'
 import { filteredLoknrs as computeFiltered } from './lib/filters'
 import FilterChips from './components/FilterChips'
-import { loadFishHealth, type FishHealth } from './lib/fishhealth'
+import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealth'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
 
-const TABS: { id: Exclude<PanelId, null>; label: string }[] = [
-  { id: 'layers', label: 'Layers' },
-  { id: 'inspect', label: 'Inspect' },
-  { id: 'offline', label: 'Offline' },
-  { id: 'help', label: 'Help' },
-]
+const TABS: Exclude<PanelId, null>[] = ['layers', 'inspect', 'help']
 
 export default function App() {
   const authed = useAuth()
@@ -35,6 +31,7 @@ export default function App() {
 }
 
 function MapApp() {
+  const t = useT()
   const s = useSettings()
   const online = useOnline()
   const [map, setMap] = useState<MlMap | null>(null)
@@ -65,7 +62,7 @@ function MapApp() {
   }
   const setPanel = (id: PanelId) => updateSettings({ panel: s.panel === id ? null : id })
   const selectedLoknr = selection?.type === 'farm' ? selection.props.loknr : null
-  const filteredLoknrs = localities ? computeFiltered(localities, s.operatorFilter, s.fieldFilters) : null
+  const filteredLoknrs = localities ? computeFiltered(localities, s.operatorFilter, s.fieldFilters, fishhealth ? liceStatsIndex(fishhealth) : undefined) : null
 
   return (
     <div className="app">
@@ -75,14 +72,14 @@ function MapApp() {
         </h1>
         <SearchBox localities={localities} onPick={pickLocality} />
         <nav>
-          {TABS.map((t) => (
-            <button key={t.id} className={s.panel === t.id ? 'active' : ''} onClick={() => setPanel(t.id)}>
-              {t.label}
+          {TABS.map((id) => (
+            <button key={id} className={s.panel === id ? 'active' : ''} onClick={() => setPanel(id)}>
+              {t(`tab.${id}`)}
             </button>
           ))}
           <SettingsMenu />
-          <button onClick={logout} title="Sign out">
-            Log out
+          <button onClick={logout} title={t('header.logout.title')}>
+            {t('header.logout')}
           </button>
         </nav>
       </header>
