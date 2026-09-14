@@ -11,7 +11,9 @@
 - New resumable fetchers: `fetch-seatemp.mjs` (weekly farm-reported sea
   temperature per site from BarentsWatch, 2012→) and `fetch-tides.mjs`
   (Kartverket tide API: mean/max tidal range, mean high/low water per site).
-  Both skip what a previous run completed.
+  Both skip what a previous run completed. The site panel shows the tidal range
+  (mean and max, mean high and low water) and a sea-temperature panel under the
+  lice chart sharing its period and hover, once the two files exist.
 
 ## 2026-09-14
 

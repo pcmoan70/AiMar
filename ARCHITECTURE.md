@@ -162,6 +162,15 @@ writes `cases.json`: entries (date, authority, direction, title, archive
 identifiers for the einnsyn.no link), a case map (number, title) and the
 locality → entry index. Precached like the other data files.
 
+`scripts/fetch-seatemp.mjs` pulls the farm-reported weekly sea temperature
+(`fishhealth/locality/{loknr}/seatemperature/{year}`) for every site since
+2012 into `seatemp.json` on the fishhealth week index, checkpointing every 200
+requests; completed past years are recorded in `done` and skipped on rerun, the
+current year is refreshed. `scripts/fetch-tides.mjs` asks Kartverket's tide API
+for one year of predicted high/low waters at each site (nearest gauge plus local
+factor) and stores mean/max range and mean high/low water in `tides.json`;
+sites already present are skipped. `lib/siteData.ts` loads both optionally.
+
 `scripts/fetch-docs.mjs` looks up the entries of `cases.json` in batches of
 100 (`/search?ids=…&expand=dokumentbeskrivelse.dokumentobjekt`), downloads
 every published file from `/dokumentobjekt/{id}/download` into `DOCS_DIR`

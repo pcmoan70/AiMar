@@ -13,6 +13,8 @@ interface Props {
   series: WeekPoint[]
   /** Additional lines aligned with `series` (same weeks), e.g. operator pressure. */
   extras?: ExtraSeries[]
+  /** Farm-reported sea temperature (°C) aligned with `series`; adds a panel below the lice chart. */
+  temp?: (number | null)[]
 }
 
 
@@ -20,6 +22,9 @@ interface Props {
 const W = 320
 const H = 150
 const PAD = { l: 30, r: 8, t: 8, b: 30 }
+/** Height and padding of the temperature panel. */
+const HT = 70
+const PT = { t: 6, b: 4 }
 
 const eventLabel = (t: (k: string) => string, flags: number) =>
   [
@@ -39,7 +44,7 @@ const RANGES: { key: string; weeks: number | null }[] = [
   { key: 'chart.range.all', weeks: null },
 ]
 
-export default function LiceChart({ series: full, extras = [] }: Props) {
+export default function LiceChart({ series: full, extras = [], temp }: Props) {
   const t = useT()
   const [hover, setHover] = useState<number | null>(null)
   const [range, setRange] = useState(1)
@@ -48,6 +53,8 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
   const offset = weeks === null ? 0 : Math.max(0, full.length - weeks)
   const series = full.slice(offset)
   const extraVals = extras.map((x) => x.values.slice(offset))
+  const tempVals = temp?.slice(offset)
+  const hasTemp = !!tempVals?.some((v) => v != null)
   const n = series.length
   const innerW = W - PAD.l - PAD.r
   const innerH = H - PAD.t - PAD.b
@@ -160,6 +167,46 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
         )}
       </svg>
       )}
+      {view === 'history' && hasTemp && tempVals && (() => {
+        const tmax = Math.max(10, ...tempVals.map((v) => v ?? 0)) + 1
+        const tmin = Math.min(0, ...tempVals.map((v) => v ?? 0))
+        const innerT = HT - PT.t - PT.b
+        const ty = (v: number) => PT.t + innerT - ((v - tmin) / (tmax - tmin)) * innerT
+        let d = ''
+        let pen = false
+        tempVals.forEach((v, i) => {
+          if (v == null) {
+            pen = false
+            return
+          }
+          d += `${pen ? 'L' : 'M'}${x(i).toFixed(1)} ${ty(v).toFixed(1)} `
+          pen = true
+        })
+        const tticks = [0, 5, 10, 15, 20].filter((v) => v >= tmin && v <= tmax)
+        const onMoveT = (e: React.MouseEvent<SVGSVGElement>) => {
+          const rect = e.currentTarget.getBoundingClientRect()
+          const px = ((e.clientX - rect.left) / rect.width) * W
+          const i = Math.round(((px - PAD.l) / innerW) * (n - 1))
+          setHover(Math.min(Math.max(i, 0), n - 1))
+        }
+        return (
+          <svg viewBox={`0 0 ${W} ${HT}`} role="img" aria-label={t('chart.tempAria')} className="chart-temp" onMouseMove={onMoveT} onMouseLeave={() => setHover(null)}>
+            {tticks.map((v) => (
+              <g key={v}>
+                <line x1={PAD.l} x2={W - PAD.r} y1={ty(v)} y2={ty(v)} className="chart-grid" />
+                <text x={PAD.l - 4} y={ty(v) + 3} className="chart-tick" textAnchor="end">{v}°</text>
+              </g>
+            ))}
+            <path d={d} className="chart-line temp" />
+            {h && (
+              <g>
+                <line x1={x(hover!)} x2={x(hover!)} y1={PT.t} y2={HT - PT.b} className="chart-crosshair" />
+                {tempVals[hover!] != null && <circle cx={x(hover!)} cy={ty(tempVals[hover!]!)} r={4} className="chart-marker temp" />}
+              </g>
+            )}
+          </svg>
+        )
+      })()}
       {extras.length > 0 && (
         <div className="chart-legend">
           <span><i style={{ background: SITE_COLOUR }} /> {t('chart.thisSite')}</span>
@@ -182,6 +229,7 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
           <>
             <strong>{h.lice != null ? h.lice.toFixed(2) : t('chart.notReported')}</strong> {t('chart.week', { w: h.week })}
             {eventLabel(t, h.flags) ? ` · ${eventLabel(t, h.flags)}` : ''}
+            {tempVals?.[hover!] != null ? ` · ${tempVals[hover!]!.toFixed(1)} °C` : ''}
             {extras.map((x, k) => (
               <span key={x.name} className="chart-readout-extra">
                 <i style={{ background: x.colour }} /> {extraVals[k][hover!] != null ? extraVals[k][hover!]!.toFixed(2) : '–'}
@@ -198,7 +246,7 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
             })()}
           </span>
         ) : (
-          <span className="muted">{t('chart.legend', { limit: LICE_LIMIT })}</span>
+          <span className="muted">{t('chart.legend', { limit: LICE_LIMIT })}{hasTemp ? ` ${t('chart.tempLegend')}` : ''}</span>
         )}
       </div>
       <details>
@@ -211,6 +259,7 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
               {extras.map((x) => (
                 <th key={x.name}>{x.name.split(' ')[0]}</th>
               ))}
+              {hasTemp && <th>°C</th>}
               <th>{t('chart.colEvents')}</th>
             </tr>
           </thead>
@@ -224,6 +273,7 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
                   {extraVals.map((vals, k) => (
                     <td key={k}>{vals[i] != null ? vals[i]!.toFixed(2) : '–'}</td>
                   ))}
+                  {hasTemp && <td>{tempVals?.[i] != null ? tempVals[i]!.toFixed(1) : '–'}</td>}
                   <td>{eventLabel(t, p.flags) || '–'}</td>
                 </tr>
               )

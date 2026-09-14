@@ -10,6 +10,7 @@ import type { HintKey } from '../lib/hints'
 import LiceChart from './LiceChart'
 import Hint from './Hint'
 import CaseDocs from './CaseDocs'
+import { tempSeries, type SeaTemp, type Tides } from '../lib/siteData'
 import FieldPicker from './FieldPicker'
 import type { Selection } from './MapView'
 
@@ -18,11 +19,13 @@ interface Props {
   localities: Localities | null
   fishhealth: FishHealth | null
   cases: Cases | null
+  seatemp: SeaTemp | null
+  tides: Tides | null
 }
 
 const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0, 10) : '–')
 
-export default function InspectPanel({ selection, localities, fishhealth, cases }: Props) {
+export default function InspectPanel({ selection, localities, fishhealth, cases, seatemp, tides }: Props) {
   const t = useT()
   const { operatorFilter, fieldFilters } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
@@ -133,6 +136,14 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
           </p>
         )}
         <p className="muted">{t('inspect.sourceRegister')}</p>
+        {tides?.localities[String(p.loknr)] && (() => {
+          const td = tides.localities[String(p.loknr)]
+          return (
+            <p>
+              <Hint id="tides" text={t('hint.tides', { gauge: td.gauge ?? '–', factor: td.factor ?? 1, year: tides.year })}>{t('inspect.tides')}</Hint>: {t('inspect.tidesValue', { mean: td.meanRange, max: td.maxRange, high: td.meanHigh, low: td.meanLow })}
+            </p>
+          )
+        })()}
         <h3>{t('inspect.fishHealth')}</h3>
         {series && sum ? (
           <>
@@ -157,7 +168,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
               </tbody>
             </table>
             <Hint id={operatorFilter.length ? 'liceChartOperators' : 'liceChartAll'} text={t(operatorFilter.length ? 'hint.liceChartOperators' : 'hint.liceChartAll')} block>
-              <LiceChart series={series} extras={extras} />
+              <LiceChart series={series} extras={extras} temp={seatemp && fishhealth ? (tempSeries(seatemp, p.loknr, fishhealth.weeks) ?? undefined) : undefined} />
             </Hint>
             {!operatorFilter.length && <p className="muted">{t('inspect.selectOps')}</p>}
             <p className="muted">{t('inspect.sourceBW', { date: fishhealth!.retrieved.slice(0, 10) })}</p>

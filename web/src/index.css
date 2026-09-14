@@ -127,6 +127,9 @@ a { color: var(--brand); }
 .chart-tick { font-size: 9px; fill: var(--muted); }
 .chart-limit { stroke: #b42318; stroke-width: 1; }
 .chart-line { fill: none; stroke: #0b3d5c; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart-line.temp { stroke: #c9531f; }
+.chart-marker.temp { fill: #c9531f; }
+.chart-temp { margin-top: 2px; }
 .chart-line.extra { stroke-width: 1.5; opacity: .9; }
 .chart-legend { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12px; margin: 2px 0; }
 .chart-legend i, .chart-readout-extra i { display: inline-block; width: 14px; height: 3px; border-radius: 2px; vertical-align: middle; margin-right: 4px; }
