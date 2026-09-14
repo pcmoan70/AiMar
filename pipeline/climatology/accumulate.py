@@ -10,6 +10,12 @@ OPeNDAP (subset, strided) and folded into accumulators: sum, count, calm
 count, direction unit-vector sums and a magnitude histogram for the 90th
 percentile. The month is then written to STATS_DIR/<field>_m<MM>.nc and a
 done-marker is placed in LOG_DIR so reruns skip finished months.
+
+Robustness: every day is read in a child process with a hard timeout (a hung
+OPeNDAP request is killed and retried), failures back off and are retried,
+a day that keeps failing is skipped and logged, and the accumulators are
+checkpointed to disk every few days so an interrupted month resumes where it
+stopped.
 """
 
 from __future__ import annotations
@@ -17,6 +23,8 @@ from __future__ import annotations
 import argparse
 import calendar
 import logging
+import multiprocessing as mp
+import os
 import sys
 import time
 from pathlib import Path
@@ -28,9 +36,16 @@ from .config import CURRENT_DEPTHS_M, LOG_DIR, MONTHS, SOURCES, STATS_DIR, YEARS
 
 log = logging.getLogger("climatology")
 
+#: seconds allowed for one daily read before the child is killed and retried
+READ_TIMEOUT = {"wave": 15 * 60, "norkyst": 40 * 60}
+MAX_ATTEMPTS = 5
+SHM = Path("/dev/shm") if Path("/dev/shm").is_dir() else Path("/tmp")
+
 
 class Accumulator:
     """Running monthly statistics for one field over a fixed grid shape."""
+
+    ARRAYS = ("sum", "count", "calm", "sx", "sy", "hist")
 
     def __init__(self, shape: tuple[int, ...], field: Field):
         self.field = field
@@ -62,6 +77,13 @@ class Accumulator:
             v = valid.ravel()
             flat_hist[idx.ravel()[v], self._cell[v]] += 1
 
+    def state(self) -> dict[str, np.ndarray]:
+        return {k: getattr(self, k) for k in self.ARRAYS}
+
+    def restore(self, state: dict[str, np.ndarray]) -> None:
+        for k in self.ARRAYS:
+            setattr(self, k, state[k].copy())
+
     def finalize(self) -> dict[str, np.ndarray]:
         cnt = self.count.astype(np.float64)
         ok = cnt > 0
@@ -83,40 +105,106 @@ class Accumulator:
         }
 
 
-def open_day(source: Source, y: int, m: int, d: int) -> xr.Dataset | None:
-    """Open one daily file subset, retrying on transient OPeNDAP errors. None if the day is missing."""
+# ---------------------------------------------------------------- reading one day (child process)
+
+def _read_day_worker(source_name: str, y: int, m: int, d: int, out: str) -> None:
+    """Child process: read one day's subset and save it as .npz (or an empty 'missing' file)."""
+    source = SOURCES[source_name]
     url = source.url.format(y=y, m=m, d=d)
     sel: dict[str, slice] = {"time": slice(0, None, source.stride), **source.index_box}
     if source.depth_slice is not None:
         sel["depth"] = source.depth_slice
-    for attempt in range(5):
-        try:
-            return xr.open_dataset(url, engine="netcdf4", decode_timedelta=False).isel(sel)
-        except OSError as e:
-            msg = str(e)
-            if "404" in msg or "Not Found" in msg or "NetCDF: file not found" in msg:
-                return None
-            wait = 30 * 2**attempt
-            log.warning("%s attempt %d failed (%s); retrying in %ds", url.rsplit("/", 1)[-1], attempt + 1, msg[:120], wait)
-            time.sleep(wait)
-    raise RuntimeError(f"giving up on {url}")
-
-
-def read_fields(source: Source, ds: xr.Dataset) -> dict[str, tuple[np.ndarray, np.ndarray]]:
-    """Return {field: (speed, direction_to)} arrays of shape (t[, depth], y, x)."""
-    out = {}
+    try:
+        ds = xr.open_dataset(url, engine="netcdf4", decode_timedelta=False).isel(sel)
+    except OSError as e:
+        msg = str(e)
+        if "404" in msg or "Not Found" in msg or "file not found" in msg.lower():
+            Path(out + ".missing").touch()
+            return
+        raise
+    arrays: dict[str, np.ndarray] = {"lon": ds[source.lon_var].values, "lat": ds[source.lat_var].values}
     for f in source.fields:
         if f.uv:
             u = ds[f.uv[0]].values.astype(np.float32)
             v = ds[f.uv[1]].values.astype(np.float32)
-            speed = np.hypot(u, v)
-            direction_to = (np.degrees(np.arctan2(u, v)) + 360.0) % 360.0  # compass bearing the flow goes to
+            arrays[f"{f.name}_speed"] = np.hypot(u, v)
+            arrays[f"{f.name}_dir"] = (np.degrees(np.arctan2(u, v)) + 360.0) % 360.0  # bearing the flow goes to
         else:
-            speed = ds[f.speed].values.astype(np.float32)
-            direction_to = (ds[f.direction].values.astype(np.float32) + 180.0) % 360.0  # "from" -> "to"
-        out[f.name] = (speed, direction_to)
-    return out
+            arrays[f"{f.name}_speed"] = ds[f.speed].values.astype(np.float32)
+            arrays[f"{f.name}_dir"] = (ds[f.direction].values.astype(np.float32) + 180.0) % 360.0  # "from" -> "to"
+    ds.close()
+    tmp = out[:-4] + ".tmp.npz"
+    np.savez(tmp, **arrays)
+    os.replace(tmp, out)
 
+
+def read_day(source: Source, y: int, m: int, d: int) -> dict[str, np.ndarray] | None:
+    """Read one day with a hard timeout and retries. Returns None when the day is missing or keeps failing."""
+    out = str(SHM / f"aimar_{source.name}_{os.getpid()}_{y}{m:02d}{d:02d}.npz")
+    ctx = mp.get_context("spawn")
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        for p in (out, out + ".missing", out[:-4] + ".tmp.npz"):
+            Path(p).unlink(missing_ok=True)
+        proc = ctx.Process(target=_read_day_worker, args=(source.name, y, m, d, out), daemon=True)
+        t0 = time.time()
+        proc.start()
+        proc.join(READ_TIMEOUT[source.name])
+        if proc.is_alive():
+            proc.kill()
+            proc.join()
+            log.warning("%04d-%02d-%02d attempt %d timed out after %.0f min", y, m, d, attempt, (time.time() - t0) / 60)
+        elif Path(out + ".missing").exists():
+            Path(out + ".missing").unlink()
+            log.warning("%04d-%02d-%02d not on the server, skipped", y, m, d)
+            return None
+        elif proc.exitcode == 0 and Path(out).exists():
+            with np.load(out) as z:
+                data = {k: z[k] for k in z.files}
+            Path(out).unlink()
+            return data
+        else:
+            log.warning("%04d-%02d-%02d attempt %d failed (exit %s)", y, m, d, attempt, proc.exitcode)
+        if attempt < MAX_ATTEMPTS:
+            wait = 30 * 2 ** (attempt - 1)
+            log.info("retrying in %ds", wait)
+            time.sleep(wait)
+    log.error("%04d-%02d-%02d given up after %d attempts, skipped", y, m, d, MAX_ATTEMPTS)
+    return None
+
+
+# ---------------------------------------------------------------- checkpoints
+
+def ckpt_path(source: Source, month: int) -> Path:
+    return LOG_DIR / f"ckpt_{source.name}_m{month:02d}.npz"
+
+
+def save_checkpoint(source: Source, month: int, accs: dict[str, Accumulator], lon, lat, days_done: list[int]) -> None:
+    path = ckpt_path(source, month)
+    arrays = {"lon": lon, "lat": lat, "days_done": np.array(days_done, np.int64)}
+    for name, acc in accs.items():
+        for k, v in acc.state().items():
+            arrays[f"{name}__{k}"] = v
+    tmp = path.with_suffix(".tmp.npz")
+    np.savez(tmp, **arrays)
+    os.replace(tmp, path)
+
+
+def load_checkpoint(source: Source, month: int):
+    path = ckpt_path(source, month)
+    if not path.exists():
+        return None
+    with np.load(path) as z:
+        arrays = {k: z[k] for k in z.files}
+    accs = {}
+    for f in source.fields:
+        shape = arrays[f"{f.name}__sum"].shape
+        acc = Accumulator(shape, f)
+        acc.restore({k: arrays[f"{f.name}__{k}"] for k in Accumulator.ARRAYS})
+        accs[f.name] = acc
+    return accs, arrays["lon"], arrays["lat"], arrays["days_done"].tolist()
+
+
+# ---------------------------------------------------------------- output
 
 def write_stats(source: Source, field: Field, month: int, stats: dict[str, np.ndarray], lon: np.ndarray, lat: np.ndarray,
                 years: list[int], days_used: int, out_path: Path) -> None:
@@ -136,13 +224,16 @@ def write_stats(source: Source, field: Field, month: int, stats: dict[str, np.nd
         years=" ".join(map(str, years)),
         hour_stride=source.stride,
         days_used=days_used,
+        calm=field.calm,
         created=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
     )
     out_path.parent.mkdir(parents=True, exist_ok=True)
     ds.to_netcdf(out_path, encoding={k: {"zlib": True, "complevel": 4} for k in stats})
 
 
-def run(source: Source, years: list[int], months: list[int], max_days: int | None) -> None:
+# ---------------------------------------------------------------- main loop
+
+def run(source: Source, years: list[int], months: list[int], max_days: int | None, checkpoint_every: int) -> None:
     STATS_DIR.mkdir(parents=True, exist_ok=True)
     LOG_DIR.mkdir(parents=True, exist_ok=True)
     pilot = max_days is not None
@@ -156,36 +247,45 @@ def run(source: Source, years: list[int], months: list[int], max_days: int | Non
             days = days[:max_days]
         accs: dict[str, Accumulator] | None = None
         lon = lat = None
-        used = 0
+        days_done: list[int] = []
+        if not pilot and (ck := load_checkpoint(source, month)):
+            accs, lon, lat, days_done = ck
+            log.info("month %02d: resumed checkpoint with %d days done", month, len(days_done))
         t0 = time.time()
+        since_ckpt = 0
         for i, (y, m, d) in enumerate(days, 1):
-            ds = open_day(source, y, m, d)
-            if ds is None:
-                log.warning("%04d-%02d-%02d missing, skipped", y, m, d)
+            ymd = y * 10000 + m * 100 + d
+            if ymd in days_done:
                 continue
             t1 = time.time()
-            data = read_fields(source, ds)
+            data = read_day(source, y, m, d)
+            if data is None:
+                continue
             if accs is None:
-                lon = ds[source.lon_var].values
-                lat = ds[source.lat_var].values
-                accs = {f.name: Accumulator(data[f.name][0].shape[1:], f) for f in source.fields}
-            ds.close()
+                lon, lat = data["lon"], data["lat"]
+                accs = {f.name: Accumulator(data[f"{f.name}_speed"].shape[1:], f) for f in source.fields}
             for f in source.fields:
-                accs[f.name].add(*data[f.name])
-            used += 1
-            nbytes = sum(a.nbytes + b.nbytes for a, b in data.values())
+                accs[f.name].add(data[f"{f.name}_speed"], data[f"{f.name}_dir"])
+            days_done.append(ymd)
+            since_ckpt += 1
+            nbytes = sum(v.nbytes for v in data.values())
             log.info("month %02d day %d/%d %04d-%02d-%02d: %.0f MB in %.1fs, elapsed %.1f min",
                      month, i, len(days), y, m, d, nbytes / 1e6, time.time() - t1, (time.time() - t0) / 60)
+            if not pilot and since_ckpt >= checkpoint_every:
+                save_checkpoint(source, month, accs, lon, lat, days_done)
+                since_ckpt = 0
+                log.info("month %02d checkpoint saved (%d days)", month, len(days_done))
         if accs is None:
             log.error("month %02d: no data at all", month)
             continue
         for f in source.fields:
             suffix = "_pilot" if pilot else ""
             out = STATS_DIR / f"{f.name}_m{month:02d}{suffix}.nc"
-            write_stats(source, f, month, accs[f.name].finalize(), lon, lat, years, used, out)
-            log.info("wrote %s", out)
+            write_stats(source, f, month, accs[f.name].finalize(), lon, lat, years, len(days_done), out)
+            log.info("wrote %s (%d of %d days)", out, len(days_done), len(days))
         if not pilot:
             marker.touch()
+            ckpt_path(source, month).unlink(missing_ok=True)
 
 
 def main(argv: list[str] | None = None) -> None:
@@ -194,6 +294,7 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--years", type=int, nargs="+", default=YEARS)
     p.add_argument("--months", type=int, nargs="+", default=MONTHS)
     p.add_argument("--max-days", type=int, default=None, help="pilot: stop after this many days and write *_pilot.nc")
+    p.add_argument("--checkpoint-every", type=int, default=3, help="days between accumulator checkpoints")
     args = p.parse_args(argv)
 
     LOG_DIR.mkdir(parents=True, exist_ok=True)
@@ -202,7 +303,7 @@ def main(argv: list[str] | None = None) -> None:
         format="%(asctime)s %(levelname)s %(message)s",
         handlers=[logging.StreamHandler(sys.stdout), logging.FileHandler(LOG_DIR / f"accumulate_{args.source}.log")],
     )
-    run(SOURCES[args.source], args.years, args.months, args.max_days)
+    run(SOURCES[args.source], args.years, args.months, args.max_days, args.checkpoint_every)
 
 
 if __name__ == "__main__":

@@ -22,7 +22,7 @@ export default function HelpPanel() {
       <ul>
         <li>Kartverket: topographic maps, nautical charts, bathymetry (CC BY 4.0).</li>
         <li>Fiskeridirektoratet: localities, site borders, spawning areas, protected seabed habitats (NLOD 2.0).</li>
-        <li>Kystverket: fairways, fairway areas, shipping anchorages, AIS track density (NLOD 2.0).</li>
+        <li>Kystverket: fairways, fairway areas, shipping anchorages, AIS traffic density 2022–2025 (NLOD 2.0).</li>
         <li>BarentsWatch: weekly lice counts, treatments, fallow periods, PD/ILA (NLOD 2.0).</li>
         <li>Miljødirektoratet: protected areas (NLOD 2.0).</li>
         <li>NGU: seabed sediment, anchoring conditions, deposition areas, slope (NLOD 2.0).</li>

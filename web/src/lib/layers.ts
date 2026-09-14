@@ -36,6 +36,7 @@ const NGU = 'https://geo.ngu.no/mapserver/MarineGrunnkartWMS'
 const NORKYST = 'https://thredds.met.no/thredds/wms/fou-hi/norkystv3_800m_m00_be'
 const KYSTVERKET = 'https://services.kystverket.no/wms.ashx'
 const AIS = 'https://wms-geo.kystverket.no/density'
+const MARTRAF = 'https://kystdatahuset.no/ws/api/raster-frequency/mapserver?map=/etc/mapserver/barentswatch.map'
 const KV_ATTR = '© Kartverket'
 const CC4 = 'CC BY 4.0'
 const NLOD = 'NLOD 2.0'
@@ -297,8 +298,38 @@ export const LAYERS: LayerDef[] = [
     opacity: 0.7,
   },
   {
+    id: 'ais-density-2024',
+    title: 'AIS traffic density 2024 (Kystverket MarTraf)',
+    group: 'overlay',
+    kind: 'wms',
+    url: MARTRAF,
+    wmsLayers: 'martraf_yearly_density_wms_t',
+    params: { time: '2024-01-01' },
+    organisation: 'Kystverket',
+    license: NLOD,
+    attribution: '© Kystverket / Kystdatahuset',
+    cache: 'cache-first',
+    opacity: 0.7,
+    description: 'Vessel traffic density for the full year 2024, 0.01° grid.',
+  },
+  {
+    id: 'ais-density-month',
+    title: 'AIS traffic density, April 2025 (Kystverket MarTraf)',
+    group: 'overlay',
+    kind: 'wms',
+    url: MARTRAF,
+    wmsLayers: 'martraf_monthly_density_wms_t',
+    params: { time: '2025-04-01' },
+    organisation: 'Kystverket',
+    license: NLOD,
+    attribution: '© Kystverket / Kystdatahuset',
+    cache: 'cache-first',
+    opacity: 0.7,
+    description: 'Latest month published by the MarTraf service (monthly series 2020-01 to 2025-04).',
+  },
+  {
     id: 'ais-density',
-    title: 'AIS vessel track density 2022 (Kystverket)',
+    title: 'AIS vessel track density 2022, 1 km (Kystverket)',
     group: 'overlay',
     kind: 'wms',
     url: AIS,
@@ -363,5 +394,6 @@ export function wmsTileUrl(layer: LayerDef): string {
     transparent: 'true',
     ...layer.params,
   })
-  return `${layer.url}?${q.toString()}&bbox={bbox-epsg-3857}`
+  const sep = layer.url.includes('?') ? '&' : '?'
+  return `${layer.url}${sep}${q.toString()}&bbox={bbox-epsg-3857}`
 }

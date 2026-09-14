@@ -2,6 +2,11 @@
 
 ## 2026-09-14
 
+- AIS traffic density from Kystverket's MarTraf WMS-T (yearly 2024, monthly
+  April 2025) added next to the 2022 track-density layer.
+- Climatology pipeline hardened: per-day child process with timeout, retries
+  with backoff, skip persistently failing days, checkpoints every 3 days.
+
 - BarentsWatch fish-health snapshot (weekly lice, treatments, fallow, PD/ILA,
   last four years) via client credentials kept in `.env.local` / repo secrets.
 - Inspect panel shows a lice time-series chart with the 0.5 limit, fallow

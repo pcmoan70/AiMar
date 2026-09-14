@@ -1,5 +1,7 @@
 import numpy as np
 
+from pipeline.climatology import accumulate as acc_mod
+
 from pipeline.climatology.accumulate import Accumulator
 from pipeline.climatology.config import Field
 from pipeline.climatology.render import encode
@@ -51,3 +53,22 @@ def test_encode_round_trip():
     decoded_mean = (rgba[0, 1, 0] - 1) / 254 * 8.0
     assert abs(decoded_mean - 4.0) < 0.02
     assert abs(rgba[0, 1, 2] / 255 * 360 - 180.0) < 1.0
+
+
+def test_checkpoint_round_trip(tmp_path, monkeypatch):
+    monkeypatch.setattr(acc_mod, "LOG_DIR", tmp_path)
+    source = acc_mod.SOURCES["wave"]
+    accs = {f.name: acc_mod.Accumulator((2, 3), f) for f in source.fields}
+    speed = np.full((4, 2, 3), 1.5, np.float32)
+    direction = np.full((4, 2, 3), 45.0, np.float32)
+    for a in accs.values():
+        a.add(speed, direction)
+    lon = np.zeros((2, 3)); lat = np.ones((2, 3))
+    acc_mod.save_checkpoint(source, 1, accs, lon, lat, [20240101, 20240102])
+    restored, lon2, lat2, days = acc_mod.load_checkpoint(source, 1)
+    assert days == [20240101, 20240102]
+    assert np.array_equal(lat2, lat)
+    for name, a in accs.items():
+        for k in acc_mod.Accumulator.ARRAYS:
+            assert np.array_equal(getattr(restored[name], k), getattr(a, k)), k
+    assert restored["waves"].finalize()["mean"][0, 0] == np.float32(1.5)

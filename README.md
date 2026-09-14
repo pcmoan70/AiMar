@@ -77,7 +77,7 @@ with `BASE_PATH=/`.
 |---|---|---|
 | Kartverket | Topographic maps, nautical chart, bathymetry (Dybdedata) | CC BY 4.0 |
 | Fiskeridirektoratet | Aquaculture localities and site borders (Akvakulturregisteret), spawning areas, protected seabed habitats | NLOD 2.0 |
-| Kystverket | Main/secondary fairways, fairway areas, shipping anchorages, AIS track density 2022 | NLOD 2.0 |
+| Kystverket | Main/secondary fairways, fairway areas, shipping anchorages, AIS traffic density (MarTraf yearly 2024 and monthly to April 2025; 1 km track density 2022) | NLOD 2.0 |
 | BarentsWatch | Fish health: weekly lice counts, treatments, fallow state, PD/ILA per locality | NLOD 2.0 |
 | Miljødirektoratet | Protected areas (Naturvern) | NLOD 2.0 |
 | NGU | Marine base maps: sediment grain size, anchoring conditions, deposition areas, slope | NLOD 2.0 |
