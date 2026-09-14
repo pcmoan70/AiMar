@@ -24,6 +24,7 @@ export const HINTS = {
   operatorSites: `Sites where this operator is listed as licence holder, and the sum of those sites' permitted capacity in tonnes. A site with several holders counts for each of them. ${REG}`,
   storage: 'Reported by the browser (navigator.storage.estimate): space used by this app’s caches, data and settings, and the quota the browser allows it.',
   tileCount: 'Number of map images to fetch for the current view: for every enabled base and overlay layer, all tiles covering the view at the current zoom and the extra zoom levels below it.',
+  cacheCounts: 'Entries in the service-worker caches on this device: every base-map tile, overlay image (WMS and AIS density, including hover lookups) and NorKyst forecast image fetched so far is kept and served from disk on repeat visits; the most recently viewed tiles are also held in memory by the map. Forecast images expire after a day, overlays after 90 days, base tiles after 180 days.',
   snapshot: 'Date the bundled datasets were downloaded from their sources; a weekly job refreshes them and redeploys the app.',
 } as const
 

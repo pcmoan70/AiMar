@@ -2,6 +2,10 @@
 
 ## 2026-09-14
 
+- Caching: overlay and base-tile caches raised to 40 000 entries (90/180
+  days), a same-origin cache for climatology images, MapLibre keeps 300 decoded
+  tiles per source in memory, and the Offline panel shows live cache counts.
+
 - Map hover: a card follows the pointer listing what every enabled overlay
   shows at that point — locality and operators, site border, AIS traffic level
   (sampled from decoded tiles), and GetFeatureInfo answers from NorKyst

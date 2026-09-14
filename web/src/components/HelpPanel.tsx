@@ -16,7 +16,7 @@ export default function HelpPanel() {
       </ul>
       <h3>Working offline</h3>
       <ul>
-        <li>Everything you have viewed while online is cached and reappears offline.</li>
+        <li>Everything you have viewed while online (base tiles, all overlays, hover lookups) is cached on this device and reappears offline; the most recent tiles are also kept in memory for instant panning.</li>
         <li>Use <b>Offline</b> → <b>Download this area</b> to prefetch tiles for the current view before going out of coverage.</li>
         <li>Locality data is bundled with the app; the snapshot date is shown under <b>Offline</b>.</li>
         <li>Install the app from the <b>Offline</b> panel or your browser menu for a full-screen experience.</li>

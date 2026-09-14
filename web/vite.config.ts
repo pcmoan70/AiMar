@@ -39,7 +39,7 @@ export default defineConfig({
             handler: 'CacheFirst',
             options: {
               cacheName: 'map-tiles',
-              expiration: { maxEntries: 20000, maxAgeSeconds: 180 * DAY },
+              expiration: { maxEntries: 40000, maxAgeSeconds: 180 * DAY },
               cacheableResponse: { statuses: [0, 200] },
             },
           },
@@ -49,9 +49,15 @@ export default defineConfig({
             handler: 'CacheFirst',
             options: {
               cacheName: 'wms-images',
-              expiration: { maxEntries: 10000, maxAgeSeconds: 60 * DAY },
+              expiration: { maxEntries: 40000, maxAgeSeconds: 90 * DAY },
               cacheableResponse: { statuses: [0, 200] },
             },
+          },
+          {
+            // Rendered climatology images and any other same-origin data added later
+            urlPattern: ({ url, sameOrigin }) => sameOrigin && url.pathname.includes('/climatology/'),
+            handler: 'StaleWhileRevalidate',
+            options: { cacheName: 'climatology', expiration: { maxEntries: 500, maxAgeSeconds: 365 * DAY } },
           },
           {
             // NorKyst forecast images change every model run; keep them briefly

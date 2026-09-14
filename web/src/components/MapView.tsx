@@ -120,6 +120,8 @@ export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onMap
       center: s.view.center,
       zoom: s.view.zoom,
       attributionControl: { compact: true },
+      // Decoded tiles kept in memory per source, so panning back never re-reads the disk cache.
+      maxTileCacheSize: 300,
     })
     map.addControl(new NavigationControl(), 'top-right')
     map.addControl(new GeolocateControl({ trackUserLocation: false }), 'top-right')

@@ -4,6 +4,7 @@ import { BASE_LAYERS, OVERLAY_LAYERS, layerById } from '../lib/layers'
 import { loadManifest, type DataManifest } from '../lib/localities'
 import {
   areaUrls,
+  cacheCounts,
   clearRuntimeCaches,
   downloadUrls,
   formatBytes,
@@ -11,6 +12,7 @@ import {
   requestPersistentStorage,
   storageStatus,
   useOnline,
+  type CacheCounts,
   type DownloadProgress,
   type StorageStatus,
 } from '../lib/offline'
@@ -28,23 +30,36 @@ export default function OfflinePanel({ map }: Props) {
   const online = useOnline()
   const install = useInstallPrompt()
   const [storage, setStorage] = useState<StorageStatus | null>(null)
+  const [counts, setCounts] = useState<CacheCounts | null>(null)
   const [manifest, setManifest] = useState<DataManifest | null>(null)
   const [viewTick, setViewTick] = useState(0)
   const [progress, setProgress] = useState<DownloadProgress | null>(null)
   const [running, setRunning] = useState(false)
   const abort = useRef<AbortController | null>(null)
 
-  const refreshStorage = () => storageStatus().then(setStorage)
+  const refreshStorage = () => {
+    storageStatus().then(setStorage)
+    cacheCounts().then(setCounts).catch(() => setCounts(null))
+  }
   useEffect(() => {
     refreshStorage()
     loadManifest().then(setManifest).catch(() => setManifest(null))
   }, [])
   useEffect(() => {
     if (!map) return
-    const tick = () => setViewTick((t) => t + 1)
+    let last = 0
+    const tick = () => {
+      setViewTick((t) => t + 1)
+      if (Date.now() - last > 3000) {
+        last = Date.now()
+        cacheCounts().then(setCounts).catch(() => undefined)
+      }
+    }
     map.on('moveend', tick)
+    map.on('idle', tick)
     return () => {
       map.off('moveend', tick)
+      map.off('idle', tick)
     }
   }, [map])
 
@@ -94,6 +109,14 @@ export default function OfflinePanel({ map }: Props) {
           <Hint text={HINTS.storage}>
             Storage used {formatBytes(storage.usage)} of {formatBytes(storage.quota)}
             {storage.persisted ? ' · persistent' : ''}
+          </Hint>
+        </p>
+      )}
+      {counts && (
+        <p className="muted">
+          <Hint text={HINTS.cacheCounts}>
+            Cached on this device: {counts.baseTiles.toLocaleString('en-GB')} base-map tiles, {counts.overlayImages.toLocaleString('en-GB')} overlay
+            images, {counts.forecastImages.toLocaleString('en-GB')} forecast images
           </Hint>
         </p>
       )}

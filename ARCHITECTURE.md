@@ -65,8 +65,9 @@ flowchart LR
 | Data | Store | Written by | Policy |
 |---|---|---|---|
 | App shell (JS/CSS/HTML/icons) and `public/data/*` | Workbox precache | Service worker install | Versioned per build; new version prompts reload |
-| Kartverket tiles | Cache Storage `map-tiles` | Service worker runtime caching | Cache-first, 20 000 entries / 180 days |
-| WMS images (Kartverket, Miljødirektoratet, Fiskeridirektoratet, NGU, Kystverket) | Cache Storage `wms-images` | Service worker runtime caching | Cache-first, 10 000 entries / 60 days |
+| Kartverket tiles | Cache Storage `map-tiles` | Service worker runtime caching | Cache-first, 40 000 entries / 180 days; plus 300 decoded tiles per source in MapLibre's memory cache |
+| WMS images and GetFeatureInfo answers (Kartverket, Miljødirektoratet, Fiskeridirektoratet, NGU, Kystverket, Kystdatahuset) | Cache Storage `wms-images` | Service worker runtime caching | Cache-first, 40 000 entries / 90 days |
+| Climatology images (same origin, future) | Cache Storage `climatology` | Service worker runtime caching | Stale-while-revalidate, 500 entries / 1 year |
 | NorKyst forecast images (MET thredds) | Cache Storage `forecast-images` | Service worker runtime caching | Cache-first, 3 000 entries / 1 day |
 | Settings | `localStorage` key `aimar.settings.v1` | `lib/settings.ts` | Never evicted with caches |
 | Per-site time series (future) | IndexedDB | Phase 2 | Per locality, explicit refresh |

@@ -125,6 +125,27 @@ export async function requestPersistentStorage(): Promise<boolean> {
   return navigator.storage?.persist ? navigator.storage.persist() : false
 }
 
+export interface CacheCounts {
+  baseTiles: number
+  overlayImages: number
+  forecastImages: number
+  other: number
+}
+
+/** Number of entries in each runtime cache. */
+export async function cacheCounts(): Promise<CacheCounts> {
+  const counts: CacheCounts = { baseTiles: 0, overlayImages: 0, forecastImages: 0, other: 0 }
+  for (const name of await caches.keys()) {
+    if (name.includes('precache')) continue
+    const n = (await (await caches.open(name)).keys()).length
+    if (name === 'map-tiles') counts.baseTiles += n
+    else if (name === 'wms-images') counts.overlayImages += n
+    else if (name === 'forecast-images') counts.forecastImages += n
+    else counts.other += n
+  }
+  return counts
+}
+
 /** Delete runtime caches (tiles, WMS images); the app-shell precache is kept. */
 export async function clearRuntimeCaches(): Promise<number> {
   const names = (await caches.keys()).filter((n) => !n.includes('precache'))
