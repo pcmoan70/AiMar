@@ -6,6 +6,7 @@ import InspectPanel from './components/InspectPanel'
 import OfflinePanel from './components/OfflinePanel'
 import OperatorDropdown from './components/OperatorDropdown'
 import HoverInfo from './components/HoverInfo'
+import ContextMenu, { type MenuState } from './components/ContextMenu'
 import SettingsMenu from './components/SettingsMenu'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
@@ -38,6 +39,7 @@ function MapApp() {
   const [selection, setSelection] = useState<Selection | null>(null)
   const [localities, setLocalities] = useState<Localities | null>(null)
   const [fishhealth, setFishhealth] = useState<FishHealth | null>(null)
+  const [menu, setMenu] = useState<MenuState | null>(null)
 
   useEffect(() => {
     loadLocalities().then(setLocalities).catch(console.error)
@@ -83,7 +85,14 @@ function MapApp() {
         </nav>
       </header>
       <main>
-        <MapView selectedLoknr={selectedLoknr} filteredLoknrs={filteredLoknrs} onSelect={select} onMap={setMap} />
+        <MapView
+          selectedLoknr={selectedLoknr}
+          filteredLoknrs={filteredLoknrs}
+          onSelect={select}
+          onContextMenu={(locality, point) => setMenu({ locality, x: point.x, y: point.y })}
+          onMap={setMap}
+        />
+        <ContextMenu menu={menu} onClose={() => setMenu(null)} />
         <OperatorDropdown localities={localities} map={map} />
         <HoverInfo map={map} />
         {s.panel && (

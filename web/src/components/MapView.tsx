@@ -124,14 +124,18 @@ interface Props {
   /** Locality numbers matching the operator filter (for the border polygons), null when unfiltered. */
   filteredLoknrs: number[] | null
   onSelect: (hit: MapHit) => void
+  /** Right-click: the locality under the pointer (or null) and the pixel position. */
+  onContextMenu: (locality: LocalityProps | null, point: { x: number; y: number }) => void
   onMap: (map: MlMap | null) => void
 }
 
-export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onMap }: Props) {
+export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onContextMenu, onMap }: Props) {
   const container = useRef<HTMLDivElement>(null)
   const mapRef = useRef<MlMap | null>(null)
   const onSelectRef = useRef(onSelect)
   onSelectRef.current = onSelect
+  const onContextRef = useRef(onContextMenu)
+  onContextRef.current = onContextMenu
   const appliedStyle = useRef('')
   const settings = useSettings()
   const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1])
@@ -166,6 +170,13 @@ export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onMap
         : undefined
       if (poly) return onSelectRef.current({ type: 'loknr', loknr: Number(poly.properties.loknr) })
       onSelectRef.current({ type: 'point', lngLat: [e.lngLat.lng, e.lngLat.lat] })
+    })
+    map.on('contextmenu', (e: MapMouseEvent) => {
+      e.preventDefault()
+      const hit = map.getLayer(LOCALITIES_LAYER)
+        ? map.queryRenderedFeatures(e.point, { layers: [LOCALITIES_LAYER] })[0]
+        : undefined
+      onContextRef.current(hit ? (hit.properties as LocalityProps) : null, { x: e.point.x, y: e.point.y })
     })
     map.on('mouseenter', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = 'pointer'))
     map.on('mouseleave', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = ''))

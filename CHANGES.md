@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Right-click on a locality opens a menu to select its operator(s) or clear
+  the selection.
+
 - Map dots are drawn with grey (unlisted) operators at the bottom and coloured
   operators on top, largest company topmost (`circle-sort-key`).
 
