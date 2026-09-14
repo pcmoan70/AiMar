@@ -14,6 +14,7 @@ import { BASE_LAYERS, LOCALITIES_LAYER, OTHER_COLOUR, OVERLAY_LAYERS, SALMON_COL
 import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
 import { dataUrl, type LocalityProps } from '../lib/localities'
 import { filteredTileUrl } from '../lib/tileFilters'
+import { runJanitor } from '../lib/cacheJanitor'
 
 export type Selection =
   | { type: 'farm'; props: LocalityProps }
@@ -146,7 +147,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onMap
     map.on('mouseleave', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = ''))
 
     mapRef.current = map
-    ;(window as unknown as { __aimar: { map: MlMap } }).__aimar = { map } // test hook (scripts/smoke.mjs)
+    ;(window as unknown as { __aimar: { map: MlMap; runJanitor: typeof runJanitor } }).__aimar = { map, runJanitor } // test hook (scripts/smoke.mjs)
     onMap(map)
     return () => {
       onMap(null)

@@ -19,6 +19,7 @@ import {
 import { updateSettings, useSettings } from '../lib/settings'
 import { useInstallPrompt } from '../lib/install'
 import Hint from './Hint'
+import { lastJanitorResult, runJanitor } from '../lib/cacheJanitor'
 import { HINTS } from '../lib/hints'
 
 interface Props {
@@ -92,6 +93,13 @@ export default function OfflinePanel({ map }: Props) {
     setProgress(null)
     refreshStorage()
   }
+  const [janitorMsg, setJanitorMsg] = useState<string | null>(null)
+  const purge = async () => {
+    const r = await runJanitor(s.cacheLimitGb * 1024 ** 3)
+    const n = Object.values(r.evicted).reduce((a, b) => a + b, 0)
+    setJanitorMsg(n ? `Removed ${n.toLocaleString('en-GB')} entries, ${formatBytes(r.before - r.after)} freed.` : 'Under the limit, nothing removed.')
+    refreshStorage()
+  }
 
   return (
     <div className="panel-body">
@@ -154,7 +162,21 @@ export default function OfflinePanel({ map }: Props) {
         )}{' '}
         <button onClick={clear} className="secondary">
           Clear cached tiles
+        </button>{' '}
+        <button onClick={purge} className="secondary">
+          Purge to limit
         </button>
+      </p>
+      <p className="muted">
+        <Hint text={HINTS.cacheLimit}>
+          Cache limit {s.cacheLimitGb} GB (change under ⚙ Settings)
+          {(() => {
+            const r = lastJanitorResult()
+            const n = r ? Object.values(r.evicted).reduce((a, b) => a + b, 0) : 0
+            return n ? ` · last purge removed ${n.toLocaleString('en-GB')} entries` : ''
+          })()}
+        </Hint>
+        {janitorMsg && <> · {janitorMsg}</>}
       </p>
       {progress && (
         <>

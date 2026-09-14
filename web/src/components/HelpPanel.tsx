@@ -19,6 +19,7 @@ export default function HelpPanel() {
         <li>Everything you have viewed while online (base tiles, all overlays, hover lookups) is cached on this device and reappears offline; the most recent tiles are also kept in memory for instant panning.</li>
         <li>Use <b>Offline</b> → <b>Download this area</b> to prefetch tiles for the current view before going out of coverage.</li>
         <li>Locality data is bundled with the app; the snapshot date is shown under <b>Offline</b>.</li>
+        <li>Caches are capped (20 GB by default, adjustable under <b>⚙ Settings</b>); the least recently used overlay images go first, base-map tiles last.</li>
         <li>Install the app from the <b>Offline</b> panel or your browser menu for a full-screen experience.</li>
         <li>The app checks for new versions every 10 minutes and when you return to the tab; a bar at the bottom offers to reload.</li>
       </ul>

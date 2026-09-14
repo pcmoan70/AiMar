@@ -58,6 +58,7 @@ flowchart LR
 | `components/LiceChart.tsx` | SVG lice time series: 0.5 limit line, fallow wash, treatment markers, hover readout, table view |
 | `lib/offline.ts` | Online hook, tile enumeration for a bounding box, prefetch with concurrency, storage estimate, cache clearing |
 | `lib/install.ts` | Captures `beforeinstallprompt` |
+| `lib/cacheJanitor.ts` | Byte-limited LRU eviction across the runtime caches (overlays first, base tiles last) |
 | `lib/tileFilters.ts` | Custom `aisalpha://` tile protocol: decodes density tiles and sets alpha from traffic rank (hue palette for MarTraf, distance-from-white for the 2022 layer) |
 | `lib/__tests__/` | Vitest unit tests for tile maths, neighbourhood features and the settings store |
 
@@ -72,6 +73,12 @@ flowchart LR
 | NorKyst forecast images (MET thredds) | Cache Storage `forecast-images` | Service worker runtime caching | Cache-first, 3 000 entries / 1 day |
 | Settings | `localStorage` key `aimar.settings.v1` | `lib/settings.ts` | Never evicted with caches |
 | Per-site time series (future) | IndexedDB | Phase 2 | Per locality, explicit refresh |
+
+A byte limit (default 20 GB, `cacheLimitGb` in settings) is enforced by
+`lib/cacheJanitor.ts`: it reads Workbox's per-entry last-used timestamps from
+IndexedDB and deletes least-recently-used entries — every non-base cache
+first, `map-tiles` last — until `navigator.storage.estimate()` is under 90 %
+of the limit. It runs 30 s after start-up and every 10 minutes.
 
 The "Download this area" action simply fetches every tile URL for the active
 layers over the current bounds and zoom range; the service worker's runtime

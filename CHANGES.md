@@ -2,6 +2,12 @@
 
 ## 2026-09-14
 
+- Cache limit: caches are kept under a byte limit (20 GB default, set under
+  ⚙ Settings). A janitor reads Workbox's last-used timestamps and evicts
+  least-recently-used overlay images, forecast images and lookups first,
+  base-map tiles last; runs after start-up and every 10 minutes, plus a
+  "Purge to limit" button in the Offline panel.
+
 - Overlay tabs: the count circle on each tab is a group switch — orange when
   layers are on (click to switch them all off, the selection is remembered),
   outlined when off (click to restore the selection or enable the group).

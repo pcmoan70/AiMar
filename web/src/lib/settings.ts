@@ -18,6 +18,8 @@ export interface Settings {
   layerTab: Category
   /** Per tab: which overlays were on before the group was switched off, restored on switch-on. */
   groupMemory: Partial<Record<Category, string[]>>
+  /** Maximum size of the offline caches on this device, in GB. */
+  cacheLimitGb: number
 }
 
 const KEY = 'aimar.settings.v1'
@@ -31,6 +33,7 @@ export const DEFAULT_SETTINGS: Settings = {
   operatorFilter: [],
   layerTab: 'aquaculture',
   groupMemory: {},
+  cacheLimitGb: 20,
 }
 
 function load(): Settings {

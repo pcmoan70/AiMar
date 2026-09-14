@@ -38,6 +38,17 @@ export default function SettingsMenu() {
               {base.organisation} · {base.license}
             </small>
           </label>
+          <label>
+            Offline cache limit
+            <select value={s.cacheLimitGb} onChange={(e) => updateSettings({ cacheLimitGb: Number(e.target.value) })}>
+              {[2, 5, 10, 20, 50, 100].map((gb) => (
+                <option key={gb} value={gb}>
+                  {gb} GB
+                </option>
+              ))}
+            </select>
+            <small>Least recently used overlay images and other data are removed first, base-map tiles last.</small>
+          </label>
         </div>
       )}
     </div>

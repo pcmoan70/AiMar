@@ -12,6 +12,8 @@ import UpdatePrompt from './components/UpdatePrompt'
 import SearchBox from './components/SearchBox'
 import LoginScreen from './components/LoginScreen'
 import { logout, useAuth } from './lib/auth'
+import { scheduleJanitor } from './lib/cacheJanitor'
+import { getSettings } from './lib/settings'
 import { loadLocalities, sitesOfOperators, type Localities, type LocalityFeature } from './lib/localities'
 import { loadFishHealth, type FishHealth } from './lib/fishhealth'
 import { useOnline } from './lib/offline'
@@ -40,6 +42,7 @@ function MapApp() {
   useEffect(() => {
     loadLocalities().then(setLocalities).catch(console.error)
     loadFishHealth().then(setFishhealth).catch(console.error)
+    scheduleJanitor(() => getSettings().cacheLimitGb * 1024 ** 3)
   }, [])
 
   const select = (hit: MapHit) => {
