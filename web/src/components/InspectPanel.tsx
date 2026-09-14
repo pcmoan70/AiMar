@@ -37,12 +37,18 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
     const series = fishhealth ? liceSeries(fishhealth, p.loknr) : null
     const sum = series ? summarise(series) : null
     const site = localities?.features.find((f) => f.properties.loknr === p.loknr)
+    const at = site?.geometry.coordinates as [number, number] | undefined
     const extras =
-      fishhealth && localities && site
-        ? operatorFilter.slice(0, SERIES_COLOURS.length - 1).map((op, k) => {
-            const s = operatorPressureSeries(fishhealth, localities, op, site.geometry.coordinates as [number, number], p.loknr)
-            return { name: `${op} (${s.farms} farms)`, values: s.values, colour: SERIES_COLOURS[k + 1] }
-          })
+      fishhealth && localities && at
+        ? operatorFilter.length
+          ? operatorFilter.slice(0, SERIES_COLOURS.length - 1).map((op, k) => {
+              const s = operatorPressureSeries(fishhealth, localities, op, at, p.loknr)
+              return { name: `${op} (${s.farms} farms)`, values: s.values, colour: SERIES_COLOURS[k + 1] }
+            })
+          : [(() => {
+              const s = operatorPressureSeries(fishhealth, localities, undefined, at, p.loknr)
+              return { name: `All farms within 150 km (${s.farms})`, values: s.values, colour: SERIES_COLOURS[1] }
+            })()]
         : []
     return (
       <div className="panel-body">
@@ -80,10 +86,10 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
                 </tr>
               </tbody>
             </table>
-            <Hint text={extras.length ? HINTS.liceChartOperators : HINTS.liceChart} block>
+            <Hint text={operatorFilter.length ? HINTS.liceChartOperators : HINTS.liceChartAll} block>
               <LiceChart series={series} extras={extras} />
             </Hint>
-            {!extras.length && <p className="muted">Select operators in the map dropdown to compare with their farms nearby.</p>}
+            {!operatorFilter.length && <p className="muted">Select operators in the map dropdown to compare with their farms instead of all farms.</p>}
             <p className="muted">Source: BarentsWatch fish health (NLOD 2.0), snapshot {fishhealth!.retrieved.slice(0, 10)}.</p>
           </>
         ) : (

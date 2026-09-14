@@ -88,5 +88,9 @@ describe('operatorPressureSeries', () => {
     // excluding the site itself removes it from the pool
     expect(operatorPressureSeries(data, locs, 'ACME AS', [5.1, 60.0], 2).values[0]).toBeCloseTo(0.1, 5)
     expect(operatorPressureSeries(data, locs, 'NOBODY', [5.1, 60.0], null).farms).toBe(0)
+    // all farms: farm 3 has no fish-health data and is skipped; silent weeks are gaps, not zeros
+    const all = operatorPressureSeries(data, locs, undefined, [5.1, 60.0], null)
+    expect(all.farms).toBe(2)
+    expect(all.values[2]).toBeCloseTo(0.9, 5)
   })
 })

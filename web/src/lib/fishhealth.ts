@@ -111,22 +111,24 @@ export const MIN_DISTANCE_KM = 0.5
 export const MAX_DISTANCE_KM = 150
 
 /**
- * Lice at an operator's farms as seen from `at`, per week: the mean of the farms'
+ * Lice at other farms as seen from `at`, per week: the mean of the farms'
  * reported values weighted by 1/d² (passive radial spread), over farms that
- * reported that week only (fallow or silent farms carry no weight). The site
- * itself (`excludeLoknr`) is left out.
+ * reported that week only. A missing weekly report means the farm was not
+ * operating (fallow or empty), never zero lice, so such farms carry no weight
+ * that week. The site itself (`excludeLoknr`) is left out. With `operator`
+ * undefined every farm within range counts.
  */
 export function operatorPressureSeries(
   data: FishHealth,
   localities: Localities,
-  operator: string,
+  operator: string | undefined,
   at: [number, number],
   excludeLoknr: number | null,
 ): OperatorSeries {
   const farms: { w: number; l: (number | null)[] }[] = []
   for (const f of localities.features) {
     if (f.properties.loknr === excludeLoknr) continue
-    if (!operatorsOf(f.properties).includes(operator)) continue
+    if (operator !== undefined && !operatorsOf(f.properties).includes(operator)) continue
     const d = data.localities[String(f.properties.loknr)]
     if (!d) continue
     const km = haversineKm(at, f.geometry.coordinates as [number, number])
@@ -144,5 +146,5 @@ export function operatorPressureSeries(
     }
     return wsum > 0 ? sum / wsum : null
   })
-  return { operator, farms: farms.length, values }
+  return { operator: operator ?? 'all', farms: farms.length, values }
 }

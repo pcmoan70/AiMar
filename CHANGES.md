@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Lice chart: with no operator selected, an orange line shows the 1/d²-weighted
+  lice level at all reporting farms within 150 km; a missing weekly report is
+  treated as "not operating", never as zero.
 - Lice chart: operators selected in the map dropdown appear as extra lines —
   the distance-weighted (1/d²) lice level at that operator's other farms within
   150 km, counting only farms that reported each week; legend, hover readout
