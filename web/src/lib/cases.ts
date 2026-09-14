@@ -3,6 +3,9 @@ import { dataUrl } from './localities'
 
 export interface CaseEntry {
   id: string
+  /** archive identifiers used by einnsyn.no's page URLs (absent in harvests before 2026-09-14) */
+  ext?: string | null
+  sak?: string | null
   date: string | null
   entity: string
   /** in = received by the authority, out = sent, internal */
@@ -26,7 +29,11 @@ export async function loadCases(): Promise<Cases> {
 
 export const casesFor = (data: Cases, loknr: number): CaseEntry[] => (data.localities[String(loknr)] ?? []).map((i) => data.entries[i])
 
-export const caseUrl = (e: CaseEntry) => `https://einnsyn.no/journalpost/${e.id}`
+/** Entry page on einnsyn.no; without archive identifiers, fall back to a title search there. */
+export const caseUrl = (e: CaseEntry) =>
+  e.sak && e.ext
+    ? `https://einnsyn.no/saksmappe?id=${encodeURIComponent(e.sak)}&jid=${encodeURIComponent(e.ext)}`
+    : `https://einnsyn.no/sok?query=${encodeURIComponent(e.title)}`
 
 /** Coarse classification from the title, for the timeline badge. */
 export function caseKind(e: CaseEntry): 'decision' | 'refusal' | 'application' | 'statement' | 'complaint' | 'other' {

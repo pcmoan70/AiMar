@@ -17,7 +17,10 @@ describe('cases', () => {
     const list = casesFor(data, 12345)
     expect(list.map((e) => e.id)).toEqual(['jp_a', 'jp_c', 'jp_b'])
     expect(casesFor(data, 1)).toEqual([])
-    expect(caseUrl(list[0])).toBe('https://einnsyn.no/journalpost/jp_a')
+    expect(caseUrl(list[0])).toBe('https://einnsyn.no/sok?query=' + encodeURIComponent(list[0].title))
+    expect(caseUrl({ ...list[0], sak: 'http://saksmappe.1.no/a', ext: 'http://journalpost.1.no/b' })).toBe(
+      'https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.1.no%2Fa&jid=http%3A%2F%2Fjournalpost.1.no%2Fb',
+    )
   })
   it('classifies titles', () => {
     expect(caseKind(data.entries[0])).toBe('decision')

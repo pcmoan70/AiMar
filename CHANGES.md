@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Case history links fixed: einnsyn.no has no `/journalpost/<id>` page; entries
+  now open as `/saksmappe?id=<case>&jid=<entry>` using the archive identifiers
+  stored by the harvester (title search on einnsyn as fallback).
 - Explanation popups (dotted-underlined figures) are now light with a black ✕
   in the upper-right corner; they stay open while the pointer is on the popup
   and close with ✕, Escape or leaving it.

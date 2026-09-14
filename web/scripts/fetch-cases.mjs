@@ -99,7 +99,7 @@ for (let d = new Date(from); !rematch && d < now; d.setUTCMonth(d.getUTCMonth() 
   const start = d.toISOString().slice(0, 10);
   const end = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 0)).toISOString().slice(0, 10);
   for (const q of QUERIES) {
-    let next = `${API}/search?query=${encodeURIComponent(q)}&limit=100&journaldatoFrom=${start}&journaldatoTo=${end}`;
+    let next = `${API}/search?query=${encodeURIComponent(q)}&limit=100&expand=saksmappe&journaldatoFrom=${start}&journaldatoTo=${end}`;
     for (let page = 0; page < 50 && next; page++) {
       const data = await getJson(next);
       fetched += data.items.length;
@@ -109,6 +109,9 @@ for (let d = new Date(from); !rematch && d < now; d.setUTCMonth(d.getUTCMonth() 
         if (!loknrs.length) continue;
         entries.set(it.id, {
           id: it.id,
+          // einnsyn.no opens an entry as /saksmappe?id=<case externalId>&jid=<entry externalId>
+          ext: it.externalId ?? null,
+          sak: it.saksmappe?.externalId ?? null,
           date: it.journaldato ?? it.publisertDato?.slice(0, 10) ?? null,
           entity: typeof it.journalenhet === 'string' ? it.journalenhet : it.journalenhet?.id,
           type: normType(it.journalposttype),
