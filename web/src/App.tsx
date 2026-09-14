@@ -8,6 +8,7 @@ import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
 import SearchBox from './components/SearchBox'
 import { loadLocalities, type Localities, type LocalityFeature } from './lib/localities'
+import { loadFishHealth, type FishHealth } from './lib/fishhealth'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
 
@@ -24,9 +25,11 @@ export default function App() {
   const [map, setMap] = useState<MlMap | null>(null)
   const [selection, setSelection] = useState<Selection | null>(null)
   const [localities, setLocalities] = useState<Localities | null>(null)
+  const [fishhealth, setFishhealth] = useState<FishHealth | null>(null)
 
   useEffect(() => {
     loadLocalities().then(setLocalities).catch(console.error)
+    loadFishHealth().then(setFishhealth).catch(console.error)
   }, [])
 
   const select = (hit: MapHit) => {
@@ -66,7 +69,7 @@ export default function App() {
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}
-            {s.panel === 'inspect' && <InspectPanel selection={selection} localities={localities} />}
+            {s.panel === 'inspect' && <InspectPanel selection={selection} localities={localities} fishhealth={fishhealth} />}
             {s.panel === 'offline' && <OfflinePanel map={map} />}
             {s.panel === 'help' && <HelpPanel />}
           </aside>

@@ -2,6 +2,12 @@
 
 ## 2026-09-14
 
+- BarentsWatch fish-health snapshot (weekly lice, treatments, fallow, PD/ILA,
+  last four years) via client credentials kept in `.env.local` / repo secrets.
+- Inspect panel shows a lice time-series chart with the 0.5 limit, fallow
+  periods, treatment markers, hover readout and a table view, plus a 52-week
+  summary. Hypothetical sites get a regional lice-pressure table.
+
 - Kystverket overlays: main/secondary fairways, fairway areas, shipping
   anchorage areas, AIS vessel track density 2022.
 - Site borders are now bundled vector polygons from the pub-aqua API (clickable,

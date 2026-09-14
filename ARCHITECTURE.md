@@ -1,6 +1,6 @@
 # AiMar architecture
 
-_Updated 2026-09-14 — Phase 1 (offline-first PWA, no backend)_
+_Updated 2026-09-14 (fish health) — Phase 1 (offline-first PWA, no backend)_
 
 ## Overview
 
@@ -28,6 +28,7 @@ flowchart LR
   SW -- online --> KYV[Kystverket WMS + AIS density WMS]
   Build[scripts/fetch-data.mjs<br/>build time + weekly workflow] --> FDREST[Fiskeridirektoratet ArcGIS REST]
   Build --> PUBAQUA[Fiskeridirektoratet pub-aqua API<br/>site borders]
+  Build -- client credentials --> BW[BarentsWatch fish-health API]
   Build --> Data[public/data/*.geojson + manifest.json]
   Data --> Precache
 ```
@@ -48,6 +49,8 @@ flowchart LR
 | `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy |
 | `lib/settings.ts` | `localStorage`-backed settings store exposed through `useSyncExternalStore` |
 | `lib/localities.ts` | Locality types, data loader, haversine neighbourhood features, search |
+| `lib/fishhealth.ts` | Fish-health snapshot types, per-locality lice series, 52-week summary, regional lice pressure |
+| `components/LiceChart.tsx` | SVG lice time series: 0.5 limit line, fallow wash, treatment markers, hover readout, table view |
 | `lib/offline.ts` | Online hook, tile enumeration for a bounding box, prefetch with concurrency, storage estimate, cache clearing |
 | `lib/install.ts` | Captures `beforeinstallprompt` |
 | `lib/__tests__/` | Vitest unit tests for tile maths, neighbourhood features and the settings store |
@@ -115,7 +118,16 @@ writes `localities.geojson`, `site_polygons.geojson` and a `manifest.json` with
 retrieval timestamp, source URL, licence and feature counts. The service worker
 precaches all three, so they are available on first offline start. The
 `refresh-data` workflow runs the script weekly and commits + redeploys when the
-GeoJSON changed.
+data changed.
+
+`scripts/fetch-fishhealth.mjs` obtains a BarentsWatch token with client
+credentials (from `web/.env.local` locally, repository secrets in CI), then
+calls `fishhealth/locality/{year}/{week}` once per ISO week for the last three
+full years plus the current year. It writes `fishhealth.json`: the week labels
+plus, per locality, an array of adult-female-lice values and an array of flag
+bitmasks (reported, fallow, mechanical removal, substance treatment, cleaner
+fish, PD, ILA). Localities without any report are dropped. The file is
+precached with the rest of the data.
 
 ## Testing
 

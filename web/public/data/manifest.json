@@ -18,6 +18,15 @@
       "license": "NLOD 2.0",
       "crs": "EPSG:4326",
       "featureCount": 1366
+    },
+    {
+      "file": "fishhealth.json",
+      "organisation": "BarentsWatch",
+      "dataset": "Fish health: weekly lice, treatments, fallow, PD/ILA (2023-01 to 2026-37)",
+      "url": "https://www.barentswatch.no/bwapi/v1/geodata/fishhealth/locality/{year}/{week}",
+      "license": "NLOD 2.0",
+      "featureCount": 1779,
+      "retrieved": "2026-09-14T07:44:26.436Z"
     }
   ]
 }

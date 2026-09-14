@@ -92,3 +92,17 @@ a { color: var(--brand); }
   .search input::placeholder { color: transparent; }
   nav button { padding: 6px 7px; }
 }
+
+/* Lice chart */
+.chart svg { width: 100%; height: auto; display: block; }
+.chart-grid { stroke: var(--line); stroke-width: 1; }
+.chart-tick { font-size: 9px; fill: var(--muted); }
+.chart-limit { stroke: #b42318; stroke-width: 1; }
+.chart-line { fill: none; stroke: var(--brand); stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart-event { fill: var(--muted); }
+.chart-fallow { fill: #000; opacity: .06; }
+.chart-crosshair { stroke: var(--muted); stroke-width: 1; }
+.chart-marker { fill: var(--brand); stroke: var(--bg); stroke-width: 2; }
+.chart-readout { font-size: 12px; min-height: 18px; margin: 2px 0 6px; }
+.chart details { font-size: 12px; }
+.chart summary { cursor: pointer; }

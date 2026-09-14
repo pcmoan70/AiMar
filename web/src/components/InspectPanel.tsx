@@ -1,15 +1,18 @@
 import { neighbourhood, type Localities } from '../lib/localities'
+import { licePressure, liceSeries, summarise, type FishHealth } from '../lib/fishhealth'
+import LiceChart from './LiceChart'
 import type { Selection } from './MapView'
 
 interface Props {
   selection: Selection | null
   localities: Localities | null
+  fishhealth: FishHealth | null
 }
 
 const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0, 10) : '–')
 const fmtNum = (n: number) => n.toLocaleString('en-GB', { maximumFractionDigits: 0 })
 
-export default function InspectPanel({ selection, localities }: Props) {
+export default function InspectPanel({ selection, localities, fishhealth }: Props) {
   if (!selection) return <div className="panel-body muted">Click a locality or any point in the sea.</div>
 
   if (selection.type === 'farm') {
@@ -27,6 +30,8 @@ export default function InspectPanel({ selection, localities }: Props) {
       ['Production area', p.prodareacode ?? '–'],
       ['First clearance', fmtDate(p.klareringsdato)],
     ]
+    const series = fishhealth ? liceSeries(fishhealth, p.loknr) : null
+    const sum = series ? summarise(series) : null
     return (
       <div className="panel-body">
         <h2>{p.navn}</h2>
@@ -40,6 +45,29 @@ export default function InspectPanel({ selection, localities }: Props) {
             ))}
           </tbody>
         </table>
+        <h3>Fish health</h3>
+        {series && sum ? (
+          <>
+            <table className="kv">
+              <tbody>
+                <tr>
+                  <th>Latest lice</th>
+                  <td>{sum.latest ? `${sum.latest.lice} (week ${sum.latest.week})` : 'not reported'}{sum.fallowNow ? ' · fallow now' : ''}</td>
+                </tr>
+                <tr>
+                  <th>Last 52 weeks</th>
+                  <td>
+                    {sum.weeksReported} weeks reported, {sum.weeksAboveLimit} above limit, {sum.treatments} with treatment
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <LiceChart series={series} />
+            <p className="muted">Source: BarentsWatch fish health (NLOD 2.0), snapshot {fishhealth!.retrieved.slice(0, 10)}.</p>
+          </>
+        ) : (
+          <p className="muted">{fishhealth ? 'No fish-health reports for this locality.' : 'Fish-health data not loaded.'}</p>
+        )}
         {p.lokalitet_url && (
           <p>
             <a href={p.lokalitet_url} target="_blank" rel="noreferrer">
@@ -75,6 +103,31 @@ export default function InspectPanel({ selection, localities }: Props) {
           )}
         </tbody>
       </table>
+      {fishhealth && localities && (
+        <>
+          <h3>Lice pressure, last 52 weeks</h3>
+          <table className="kv">
+            <thead>
+              <tr>
+                <th>Radius</th>
+                <th>Farms</th>
+                <th>Mean lice</th>
+                <th>Weeks &gt; limit</th>
+              </tr>
+            </thead>
+            <tbody>
+              {licePressure(fishhealth, localities, selection.lngLat).map((r) => (
+                <tr key={r.km}>
+                  <th>{r.km} km</th>
+                  <td>{r.farmsReporting}</td>
+                  <td>{r.meanLice != null ? r.meanLice.toFixed(2) : '–'}</td>
+                  <td>{r.shareAboveLimit != null ? `${Math.round(r.shareAboveLimit * 100)}%` : '–'}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </>
+      )}
       {nb && (
         <>
           <h3>Neighbouring farms</h3>
