@@ -85,16 +85,14 @@ export default function OperatorDropdown({ localities, map }: Props) {
             autoFocus
             aria-label={t('ops.searchAria')}
           />
-          {s.operatorFilter.length > 0 && (
-            <div className="op-actions">
-              <button type="button" className="secondary" onClick={zoomTo} disabled={!matching.length}>
-                {t('ops.zoom')}
-              </button>
-              <button type="button" className="secondary" onClick={() => updateSettings({ operatorFilter: [] })}>
-                {t('ops.showAll')}
-              </button>
-            </div>
-          )}
+          <div className="op-actions">
+            <button type="button" className="secondary" onClick={zoomTo} disabled={!matching.length}>
+              {t('ops.zoom')}
+            </button>
+            <button type="button" className="secondary" onClick={() => updateSettings({ operatorFilter: [] })} disabled={!s.operatorFilter.length}>
+              {t('ops.showAll')}
+            </button>
+          </div>
           <div className="op-list" role="listbox" aria-multiselectable="true">
             {!localities && <p className="muted">{t('ops.loading')}</p>}
             {shown.map((o) => (
