@@ -6,6 +6,7 @@
 //   forecast    – like cache-first but expires within a day (model output changes hourly)
 
 import type { TileFilter } from './tileFilters'
+import type { InfoSpec } from './featureInfo'
 
 export type LayerKind = 'xyz' | 'wms' | 'geojson'
 export type Category = 'aquaculture' | 'seabed' | 'ocean' | 'environment' | 'shipping'
@@ -38,6 +39,8 @@ export interface LayerDef {
   render?: 'circle' | 'fill'
   /** Client-side per-pixel alpha for density images (see lib/tileFilters.ts). */
   tileFilter?: TileFilter
+  /** Hover lookup (GetFeatureInfo) configuration; density layers are sampled from decoded tiles instead. */
+  info?: InfoSpec
   organisation: string
   license: string
   attribution: string
@@ -111,6 +114,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'naturvern',
+    info: { kind: 'arcgis', keys: ['navn', 'verneform'] },
     category: 'environment',
     title: 'Protected areas (Miljødirektoratet)',
     group: 'overlay',
@@ -126,6 +130,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'bunnhabitat',
+    info: { kind: 'arcgis', keys: ['navn', 'omradenavn'] },
     category: 'environment',
     title: 'Protected seabed habitats (Fiskeridirektoratet)',
     group: 'overlay',
@@ -141,6 +146,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'gyteomraader',
+    info: { kind: 'arcgis', keys: ['art', 'navn'] },
     category: 'environment',
     title: 'Spawning areas (Fiskeridirektoratet)',
     group: 'overlay',
@@ -156,6 +162,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ngu-sediment',
+    info: { kind: 'mapserver', layers: 'Kornstorrelse_Det', keys: ['kornstorrelse', 'beskrivelse'] },
     category: 'seabed',
     title: 'Seabed sediment grain size (NGU)',
     group: 'overlay',
@@ -172,6 +179,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ngu-anchoring',
+    info: { kind: 'mapserver', layers: 'Ankringsforhold', keys: ['ankringsforhold', 'beskrivelse'] },
     category: 'seabed',
     title: 'Anchoring conditions (NGU)',
     group: 'overlay',
@@ -188,6 +196,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ngu-deposition',
+    info: { kind: 'mapserver', layers: 'Bunnfellingsomrader', keys: ['bunnfelling', 'beskrivelse'] },
     category: 'seabed',
     title: 'Deposition areas (NGU)',
     group: 'overlay',
@@ -204,6 +213,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ngu-slope',
+    info: { kind: 'mapserver', layers: 'Helning', keys: ['helning', 'beskrivelse'] },
     category: 'seabed',
     title: 'Seabed slope (NGU)',
     group: 'overlay',
@@ -219,6 +229,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'norkyst-temp',
+    info: { kind: 'ncwms', unit: '°C' },
     category: 'ocean',
     title: 'Sea surface temperature (NorKyst v3)',
     group: 'overlay',
@@ -236,6 +247,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'norkyst-salinity',
+    info: { kind: 'ncwms', unit: 'PSU' },
     category: 'ocean',
     title: 'Sea surface salinity (NorKyst v3)',
     group: 'overlay',
@@ -253,6 +265,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'norkyst-current',
+    info: { kind: 'ncwms', unit: 'm/s' },
     category: 'ocean',
     title: 'Surface current speed (NorKyst v3)',
     group: 'overlay',
@@ -286,6 +299,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'fairways',
+    info: { kind: 'mapserver', keys: ['navn', 'ledtype', 'farledsnavn'], presence: 'on a main/secondary fairway' },
     category: 'shipping',
     title: 'Main and secondary fairways (Kystverket)',
     group: 'overlay',
@@ -301,6 +315,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'fairway-area',
+    info: { kind: 'mapserver', keys: ['navn', 'ledtype'], presence: 'inside a fairway area' },
     category: 'shipping',
     title: 'Fairway areas (Kystverket)',
     group: 'overlay',
@@ -316,6 +331,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ship-anchorages',
+    info: { kind: 'mapserver', keys: ['navn', 'type'], presence: 'inside a shipping anchorage area' },
     category: 'shipping',
     title: 'Shipping anchorage areas (Kystverket)',
     group: 'overlay',

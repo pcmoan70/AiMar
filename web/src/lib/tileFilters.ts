@@ -41,6 +41,49 @@ export function applyFilter(filter: TileFilter, data: Uint8ClampedArray): void {
 /** Tile URL that routes through the filter protocol; placeholders stay intact for MapLibre. */
 export const filteredTileUrl = (filter: TileFilter, url: string) => `${PROTOCOL}://${filter}/${url}`
 
+// ---- decoded-tile cache for hover sampling (density layers are not queryable server-side)
+interface CachedTile {
+  layers: string
+  bbox: [number, number, number, number]
+  width: number
+  height: number
+  data: Uint8ClampedArray
+  filter: TileFilter
+}
+const tileCache = new Map<string, CachedTile>()
+const TILE_CACHE_MAX = 400
+
+function remember(url: string, filter: TileFilter, width: number, height: number, data: Uint8ClampedArray) {
+  const u = new URL(url)
+  const bbox = (u.searchParams.get('bbox') ?? '').split(',').map(Number)
+  const layers = u.searchParams.get('layers') ?? ''
+  if (bbox.length !== 4 || bbox.some((n) => !Number.isFinite(n))) return
+  if (tileCache.size >= TILE_CACHE_MAX) tileCache.delete(tileCache.keys().next().value!)
+  tileCache.set(url, { layers, bbox: bbox as [number, number, number, number], width, height, data, filter })
+}
+
+export const RANK_LABELS = ['very low', 'low', 'moderate', 'high', 'very high'] as const
+
+/** Traffic label under a Web-Mercator point for the given WMS layer name, from decoded tiles (undefined when none loaded). */
+export function sampleDensity(wmsLayers: string, mercX: number, mercY: number): string | undefined {
+  let best: CachedTile | undefined
+  for (const t of tileCache.values()) {
+    if (t.layers !== wmsLayers) continue
+    const [x0, y0, x1, y1] = t.bbox
+    if (mercX < x0 || mercX >= x1 || mercY < y0 || mercY >= y1) continue
+    if (!best || x1 - x0 < best.bbox[2] - best.bbox[0]) best = t
+  }
+  if (!best) return undefined
+  const [x0, y0, x1, y1] = best.bbox
+  const px = Math.floor(((mercX - x0) / (x1 - x0)) * best.width)
+  const py = Math.floor(((y1 - mercY) / (y1 - y0)) * best.height)
+  const i = (py * best.width + px) * 4
+  const [r, g, b, a] = [best.data[i], best.data[i + 1], best.data[i + 2], best.data[i + 3]]
+  if (a === 0) return 'no traffic'
+  const rank = rankOf(best.filter, r, g, b)
+  return `${RANK_LABELS[Math.min(4, Math.floor(rank * 5))]} traffic`
+}
+
 export function registerTileFilters(): void {
   addProtocol(PROTOCOL, async (params, abort) => {
     const rest = params.url.slice(PROTOCOL.length + 3)
@@ -53,6 +96,7 @@ export function registerTileFilters(): void {
     const ctx = canvas.getContext('2d')!
     ctx.drawImage(bitmap, 0, 0)
     const img = ctx.getImageData(0, 0, bitmap.width, bitmap.height)
+    remember(rest.slice(slash + 1), filter, bitmap.width, bitmap.height, new Uint8ClampedArray(img.data))
     applyFilter(filter, img.data)
     ctx.putImageData(img, 0, 0)
     const blob = await canvas.convertToBlob({ type: 'image/png' })

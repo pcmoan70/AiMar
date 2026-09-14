@@ -5,6 +5,7 @@ import LayerPanel from './components/LayerPanel'
 import InspectPanel from './components/InspectPanel'
 import OfflinePanel from './components/OfflinePanel'
 import OperatorDropdown from './components/OperatorDropdown'
+import HoverInfo from './components/HoverInfo'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
 import SearchBox from './components/SearchBox'
@@ -79,6 +80,7 @@ function MapApp() {
       <main>
         <MapView selectedLoknr={selectedLoknr} filteredLoknrs={filteredLoknrs} onSelect={select} onMap={setMap} />
         <OperatorDropdown localities={localities} map={map} />
+        <HoverInfo map={map} />
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}

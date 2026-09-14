@@ -59,6 +59,9 @@ with `BASE_PATH=/`.
 - Operator dropdown on the map filters dots and site borders to selected
   operators, with site counts, capacity and zoom-to-sites.
 - Every figure has a hover explanation (source and calculation method).
+- Moving the pointer over the map shows a card with what each enabled overlay
+  contains at that point (locality, traffic level, protected area, seabed
+  class, sea temperature and more).
 - Click a locality for its register entry (capacity, species, operators,
   production form, municipality, clearance date, link to Akvakulturregisteret)
   and its fish-health history: weekly adult female lice for the last four years

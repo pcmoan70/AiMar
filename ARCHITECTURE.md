@@ -46,6 +46,8 @@ flowchart LR
 | `components/SearchBox.tsx` | Header search: name/number lookup, fly-to and select |
 | `components/OperatorDropdown.tsx` | Floating operator filter on the map; drives MapLibre filters on localities and borders |
 | `components/Hint.tsx` | Tooltip wrapper (hover / focus / tap) rendering an explanation from `lib/hints.ts` |
+| `components/HoverInfo.tsx` | Pointer-following card: vector hits, decoded-tile density sampling, debounced WMS GetFeatureInfo per enabled overlay |
+| `lib/featureInfo.ts` | GetFeatureInfo URL builder and response parsers (ncWMS XML, ArcGIS GeoJSON, MapServer text) |
 | `components/HelpPanel.tsx` | In-app help |
 | `components/UpdatePrompt.tsx` | "New version" / "ready offline" toast via `virtual:pwa-register/react`; polls `sw.js` every 10 min and on focus/online |
 | `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy, category tab and per-tab importance order |

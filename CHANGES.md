@@ -2,6 +2,12 @@
 
 ## 2026-09-14
 
+- Map hover: a card follows the pointer listing what every enabled overlay
+  shows at that point — locality and operators, site border, AIS traffic level
+  (sampled from decoded tiles), and GetFeatureInfo answers from NorKyst
+  (values), Miljødirektoratet / Fiskeridirektoratet (features) and NGU /
+  Kystverket (MapServer text). Debounced, cached, aborted on move.
+
 - Layer panel: overlays grouped in tabs (Aquaculture, Seabed, Ocean,
   Environment, Shipping), ordered by importance within each tab, with a badge
   for enabled layers. Registry gained `category` and a per-tab order.
