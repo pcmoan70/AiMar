@@ -14,6 +14,8 @@ const API = 'https://api.einnsyn.no';
 const YEARS_BACK = 3;
 const QUERIES = ['akvakultur lokalitet', 'akvakultur søknad', 'akvakultur vedtak'];
 const MIN_NAME_LEN = 5;
+/** A site named by ≥2 entries and at least this share of a case's entries gets the whole case. */
+const CASE_SHARE = 0.25;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 async function getJson(url, attempt = 0) {
@@ -71,9 +73,11 @@ function matchLoknrs(title) {
   // Titles are written "… - lokalitet NAME - …"; when the word is present, only the part after it may name the site,
   // so a site named like a municipality (e.g. HERØY) does not match every case in that municipality.
   const idx = t.indexOf('LOKALITET');
-  const scope = idx >= 0 ? t.slice(idx) : t;
+  let scope = idx >= 0 ? t.slice(idx) : t;
+  // Longest names first; a matched name is blanked so "BREIVIK" cannot also match inside "BREIVIK S".
   for (const name of names) {
-    if (municipalities.has(name) ? !explicitSite(t, name) : !wordBounded(scope, name)) continue;
+    if (municipalities.has(name) ? !explicitSite(scope, name) : !wordBounded(scope, name)) continue;
+    scope = scope.replace(new RegExp(`(^|[^A-ZÆØÅ0-9])${esc(name)}(?=$|[^A-ZÆØÅ0-9])`), '$1' + ' '.repeat(name.length));
     const cands = byName.get(name);
     if (cands.length === 1) hits.add(cands[0].loknr);
     else for (const c of cands) if (c.kommune && t.includes(c.kommune)) hits.add(c.loknr);
@@ -103,7 +107,8 @@ const entryOf = (it) => ({
   entity: typeof it.journalenhet === 'string' ? it.journalenhet : it.journalenhet?.id,
   type: normType(it.journalposttype),
   title: it.offentligTittel ?? '',
-  loknrs: matchLoknrs(it.offentligTittel ?? ''),
+  own: matchLoknrs(it.offentligTittel ?? ''), // sites named in this entry's own title
+  loknrs: [],
 });
 const noteCase = (sm) => {
   if (sm?.externalId && !cases.has(sm.externalId)) cases.set(sm.externalId, { id: sm.id, nr: sm.saksnummer ?? '', title: sm.offentligTittel ?? '' });
@@ -113,7 +118,7 @@ const noteCase = (sm) => {
 if (prev && !full) {
   for (const e of prev.entries) {
     if ((e.date ?? '') < fromIso) continue; // rolled out of the window
-    entries.set(e.id, { ...e, type: normType(e.type), loknrs: matchLoknrs(e.title) });
+    entries.set(e.id, { ...e, type: normType(e.type), own: matchLoknrs(e.title), loknrs: [] });
   }
   for (const [k, v] of Object.entries(prev.cases ?? {})) cases.set(k, v);
   console.log(`${rematch ? 'rematch' : 'incremental'}: ${entries.size} entries and ${cases.size} cases from the ${prev.retrieved.slice(0, 10)} snapshot`);
@@ -132,7 +137,7 @@ async function searchWindow(params) {
         noteCase(it.saksmappe);
         if (it.saksmappe?.externalId) touched.add(it.saksmappe.externalId);
         const e = entryOf(it);
-        if (e.loknrs.length || entries.has(it.id)) entries.set(it.id, e);
+        if (e.own.length || entries.has(it.id)) entries.set(it.id, e);
       }
       next = data.next ? API + data.next : null;
       await sleep(150);
@@ -154,35 +159,37 @@ if (full) {
   console.log(`updated since ${since}: ${fetched} fetched, ${entries.size} matched, ${touched.size} cases touched`);
 }
 
-// ---- case folders: a case qualifies when its title names a site, or two of its entries name the same site;
-// every entry of a qualifying case then belongs to that site, including entries whose own title does not name it.
-const entriesByCase = new Map();
-for (const e of entries.values()) if (e.sak) (entriesByCase.get(e.sak) ?? entriesByCase.set(e.sak, []).get(e.sak)).push(e);
-function caseLoknrs(sak) {
-  const c = cases.get(sak);
-  const hits = new Set(c ? matchLoknrs(c.title) : []);
+// ---- case folders: fetch the rest of every case whose title names a site or where ≥2 entries name the same site.
+const byCase = () => {
+  const m = new Map();
+  for (const e of entries.values()) if (e.sak) (m.get(e.sak) ?? m.set(e.sak, []).get(e.sak)).push(e);
+  return m;
+};
+const caseVotes = (list) => {
   const votes = new Map();
-  for (const e of entriesByCase.get(sak) ?? []) for (const nr of e.loknrs) votes.set(nr, (votes.get(nr) ?? 0) + 1);
-  for (const [nr, n] of votes) if (n >= 2) hits.add(nr);
-  return [...hits];
-}
+  for (const e of list) for (const nr of e.own) votes.set(nr, (votes.get(nr) ?? 0) + 1);
+  return votes;
+};
 if (!rematch) {
-  const todo = [...(full ? entriesByCase.keys() : touched)].filter((sak) => cases.get(sak)?.id && caseLoknrs(sak).length);
+  const groups = byCase();
+  const qualifies = (sak) => {
+    const c = cases.get(sak);
+    if (c && matchLoknrs(c.title).length) return true;
+    return [...caseVotes(groups.get(sak) ?? []).values()].some((n) => n >= 2);
+  };
+  const todo = [...(full ? groups.keys() : touched)].filter((sak) => cases.get(sak)?.id && qualifies(sak));
   console.log(`completing ${todo.length} case folders`);
   let done = 0;
   let added = 0;
   for (const sak of todo) {
-    const nrs = caseLoknrs(sak);
     let next = `${API}/saksmappe/${cases.get(sak).id}/journalpost?limit=100`;
     try {
       for (let page = 0; page < 20 && next; page++) {
         const data = await getJson(next);
         for (const it of data.items) {
-          if (it.entity !== 'Journalpost') continue;
-          const e = entries.get(it.id) ?? entryOf({ ...it, saksmappe: { externalId: sak } });
-          if (!entries.has(it.id)) added++;
-          e.loknrs = [...new Set([...e.loknrs, ...nrs])];
-          entries.set(it.id, e);
+          if (it.entity !== 'Journalpost' || entries.has(it.id)) continue;
+          entries.set(it.id, entryOf({ ...it, saksmappe: { externalId: sak } }));
+          added++;
         }
         next = data.next ? API + data.next : null;
         await sleep(150);
@@ -194,7 +201,17 @@ if (!rematch) {
   }
   console.log(`folders done: ${added} entries added`);
 }
-for (const e of entries.values()) if (e.sak && !e.loknrs.length) entries.delete(e.id);
+
+// ---- assign sites: an entry belongs to the sites its own title names, plus the sites its case is about —
+// those named in the case title, or named by ≥2 entries making up at least CASE_SHARE of the case
+// (so omnibus files such as quarterly access-request logs do not attach wholesale to one site).
+for (const e of entries.values()) e.loknrs = [...e.own];
+for (const [sak, list] of byCase()) {
+  const c = cases.get(sak);
+  const wide = new Set(c ? matchLoknrs(c.title) : []);
+  for (const [nr, n] of caseVotes(list)) if (n >= 2 && n >= CASE_SHARE * list.length) wide.add(nr);
+  if (wide.size) for (const e of list) e.loknrs = [...new Set([...e.own, ...wide])];
+}
 
 // ---- resolve authority names (entries from earlier snapshots already carry names)
 for (const e of entries.values()) {
@@ -221,7 +238,7 @@ for (const e of list) if (e.sak && cases.has(e.sak)) usedCases[e.sak] = cases.ge
 const out = {
   retrieved: rematch ? prev.retrieved : new Date().toISOString(),
   from: fromIso,
-  entries: list.map(({ loknrs: _l, ...e }) => e),
+  entries: list.map(({ loknrs: _l, own: _o, ...e }) => e),
   cases: usedCases,
   localities: perLocality,
 };

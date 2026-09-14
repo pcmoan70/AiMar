@@ -34,8 +34,8 @@
       "dataset": "Public-record journal entries on aquaculture cases matched to localities (2023-09-01 onwards)",
       "url": "https://api.einnsyn.no/search?query=akvakultur",
       "license": "NLOD 2.0",
-      "featureCount": 28864,
-      "retrieved": "2026-09-14T18:36:52.026Z"
+      "featureCount": 48454,
+      "retrieved": "2026-09-14T21:49:50.488Z"
     }
   ]
 }
