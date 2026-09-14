@@ -1,6 +1,6 @@
 # AiMar architecture
 
-_Updated 2026-09-14 (fish health) — Phase 1 (offline-first PWA, no backend)_
+_Updated 2026-09-14 (cases) — Phase 1 (offline-first PWA, no backend)_
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # AiMar – Norwegian Aquaculture Site Intelligence
 
-_Updated 2026-09-13_
+_Updated 2026-09-14_
 
 AiMar is an open-data GIS for assessing salmon-farming sites along the Norwegian
 coast. The long-term goal is answering **"what would happen if a salmon farm were
