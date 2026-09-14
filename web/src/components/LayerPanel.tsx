@@ -1,5 +1,4 @@
 import { CATEGORIES, overlaysIn } from '../lib/layers'
-import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
 import { HEAT_MAX, HEAT_RADII_KM, HEAT_RAMP } from '../lib/heatmap'
 import Hint from './Hint'
 import { useT } from '../lib/i18n'
@@ -87,37 +86,6 @@ export default function LayerPanel() {
           </label>
         )
       })}
-      {s.layerTab === 'aquaculture' && (
-        <>
-          <h3>
-            <Hint text={t('hint.operatorColours')}>{t('layers.colours')}</Hint>
-          </h3>
-          {(() => {
-            const selectedExtra = s.operatorFilter
-              .filter((op) => !OPERATOR_COLOURS.some((o) => o.name === op))
-              .map((op) => ({ name: t('layers.selected', { op }), colour: paletteFor(s.operatorFilter).get(op)! }))
-            const row = (e: { name: string; colour: string }) => (
-              <div key={e.name} className="row legend">
-                <span className="swatch" style={{ background: e.colour }} />
-                <span>{e.name}</span>
-              </div>
-            )
-            return (
-              <>
-                {OPERATOR_COLOURS.slice(0, 10).map(row)}
-                {OPERATOR_COLOURS.length > 10 && (
-                  <details className="legend-more">
-                    <summary className="muted">{t('layers.moreOps', { n: OPERATOR_COLOURS.length - 10 })}</summary>
-                    {OPERATOR_COLOURS.slice(10).map(row)}
-                  </details>
-                )}
-                {selectedExtra.map(row)}
-                {row({ name: t('layers.otherOps'), colour: OTHER_COLOUR })}
-              </>
-            )
-          })()}
-        </>
-      )}
     </div>
   )
 }

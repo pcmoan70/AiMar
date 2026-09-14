@@ -28,7 +28,7 @@ npm run build        # production build in web/dist, includes sw.js + manifest
 npm run preview      # serve the build on http://localhost:4173
 npm run fetch-data   # refresh the bundled locality + site-border snapshot (needs network)
 npm run fetch-fishhealth  # refresh fish-health snapshot (needs BW_CLIENT_ID/SECRET in web/.env.local)
-npm run fetch-cases  # refresh eInnsyn case-history snapshot (no key needed)
+npm run fetch-cases  # eInnsyn case-history snapshot: incremental since last run (no key needed); --full re-harvests, --rematch re-runs matching only
 npm test             # unit tests (vitest)
 npm run smoke        # e2e test against the preview server (needs /usr/bin/google-chrome)
 ```
@@ -58,7 +58,8 @@ with `BASE_PATH=/`.
   when enabled.
 - Search box in the header finds a locality by name or number and flies to it.
 - Operator dropdown on the map filters dots and site borders to selected
-  operators, with site counts, capacity and zoom-to-sites.
+  operators, with a colour dot per operator, site counts, capacity and
+  zoom-to-sites.
 - Every figure has a hover explanation (source and calculation method).
 - English and Norwegian UI (login screen and ⚙ Settings), including hover
   explanations and help.
@@ -80,7 +81,8 @@ with `BASE_PATH=/`.
 - **Cases** tab: every eInnsyn journal entry for the localities shown on the
   map (all, or those passing the operator and field filters), with word search
   over title, authority and site, kind chips with counts, sorting by date, site,
-  authority or kind, and site names that open the Inspect panel.
+  authority or kind, grouping by case file with case number, and site names
+  that open the Inspect panel.
 - Click anywhere else in the sea for a hypothetical-site summary: nearest farm,
   farm count / permitted capacity within 5, 10, 20 and 50 km, and regional lice
   pressure (mean lice and share of farm-weeks above the limit within 10 and 20 km

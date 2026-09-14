@@ -1,8 +1,12 @@
 // Harvests public-record journal entries about aquaculture cases from eInnsyn
 // (api.einnsyn.no) for the last YEARS_BACK years, matches them to localities by
-// name / locality number in the entry title, and writes public/data/cases.json.
+// name / locality number in the entry title, completes each matched case with
+// the rest of its journal entries, and writes public/data/cases.json.
 // Documents themselves are not in eInnsyn for most authorities; each entry links
-// to einnsyn.no where an access request can be filed. Run: npm run fetch-cases
+// to einnsyn.no where an access request can be filed.
+//   npm run fetch-cases            incremental: entries updated since the last snapshot (full when none exists)
+//   node scripts/fetch-cases.mjs --full       re-harvest the whole period
+//   node scripts/fetch-cases.mjs --rematch    re-run the matcher on the stored entries, no API calls
 import { readFile, writeFile } from 'node:fs/promises';
 
 const OUT = new URL('../public/data/', import.meta.url);
@@ -77,58 +81,124 @@ function matchLoknrs(title) {
   return [...hits];
 }
 
-// ---- harvest by month windows (or --rematch: re-run the matcher on the entries already in cases.json)
-const rematch = process.argv.includes('--rematch');
+// ---- modes
+const args = new Set(process.argv.slice(2));
+const rematch = args.has('--rematch');
+const prev = await readFile(new URL('cases.json', OUT), 'utf8').then(JSON.parse, () => null);
+const full = args.has('--full') || (!rematch && !prev?.retrieved);
 const now = new Date();
-let from = new Date(Date.UTC(now.getUTCFullYear() - YEARS_BACK, now.getUTCMonth(), 1));
-const entries = new Map();
+const from = new Date(Date.UTC(now.getUTCFullYear() - YEARS_BACK, now.getUTCMonth(), 1));
+const fromIso = from.toISOString().slice(0, 10);
+const entries = new Map(); // id -> entry (+loknrs)
+const cases = new Map(); // case externalId -> { id, nr, title }
 const entityNames = new Map();
 let fetched = 0;
-let retrieved = new Date().toISOString();
-if (rematch) {
-  const prev = JSON.parse(await readFile(new URL('cases.json', OUT), 'utf8'));
-  from = new Date(prev.from);
-  retrieved = prev.retrieved;
+
+const entryOf = (it) => ({
+  id: it.id,
+  // einnsyn.no opens an entry as /saksmappe?id=<case externalId>&jid=<entry externalId>
+  ext: it.externalId ?? null,
+  sak: it.saksmappe?.externalId ?? null,
+  date: it.journaldato ?? it.publisertDato?.slice(0, 10) ?? null,
+  entity: typeof it.journalenhet === 'string' ? it.journalenhet : it.journalenhet?.id,
+  type: normType(it.journalposttype),
+  title: it.offentligTittel ?? '',
+  loknrs: matchLoknrs(it.offentligTittel ?? ''),
+});
+const noteCase = (sm) => {
+  if (sm?.externalId && !cases.has(sm.externalId)) cases.set(sm.externalId, { id: sm.id, nr: sm.saksnummer ?? '', title: sm.offentligTittel ?? '' });
+};
+
+// Base: the previous snapshot (dropped when doing a full harvest)
+if (prev && !full) {
   for (const e of prev.entries) {
-    const loknrs = matchLoknrs(e.title);
-    if (loknrs.length) entries.set(e.id, { ...e, type: normType(e.type), loknrs });
+    if ((e.date ?? '') < fromIso) continue; // rolled out of the window
+    entries.set(e.id, { ...e, type: normType(e.type), loknrs: matchLoknrs(e.title) });
   }
-  console.log(`rematch: ${prev.entries.length} previous entries, ${entries.size} still matched`);
+  for (const [k, v] of Object.entries(prev.cases ?? {})) cases.set(k, v);
+  console.log(`${rematch ? 'rematch' : 'incremental'}: ${entries.size} entries and ${cases.size} cases from the ${prev.retrieved.slice(0, 10)} snapshot`);
 }
-for (let d = new Date(from); !rematch && d < now; d.setUTCMonth(d.getUTCMonth() + 1)) {
-  const start = d.toISOString().slice(0, 10);
-  const end = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 0)).toISOString().slice(0, 10);
+
+// ---- search: month windows (full) or everything updated since the last snapshot (incremental)
+async function searchWindow(params) {
+  const touched = new Set(); // cases with activity in this window
   for (const q of QUERIES) {
-    let next = `${API}/search?query=${encodeURIComponent(q)}&limit=100&expand=saksmappe&journaldatoFrom=${start}&journaldatoTo=${end}`;
-    for (let page = 0; page < 50 && next; page++) {
+    let next = `${API}/search?query=${encodeURIComponent(q)}&limit=100&expand=saksmappe&${params}`;
+    for (let page = 0; page < 200 && next; page++) {
       const data = await getJson(next);
       fetched += data.items.length;
       for (const it of data.items) {
-        if (it.entity !== 'Journalpost' || entries.has(it.id)) continue;
-        const loknrs = matchLoknrs(it.offentligTittel ?? '');
-        if (!loknrs.length) continue;
-        entries.set(it.id, {
-          id: it.id,
-          // einnsyn.no opens an entry as /saksmappe?id=<case externalId>&jid=<entry externalId>
-          ext: it.externalId ?? null,
-          sak: it.saksmappe?.externalId ?? null,
-          date: it.journaldato ?? it.publisertDato?.slice(0, 10) ?? null,
-          entity: typeof it.journalenhet === 'string' ? it.journalenhet : it.journalenhet?.id,
-          type: normType(it.journalposttype),
-          title: it.offentligTittel ?? '',
-          loknrs,
-        });
+        if (it.entity !== 'Journalpost') continue;
+        noteCase(it.saksmappe);
+        if (it.saksmappe?.externalId) touched.add(it.saksmappe.externalId);
+        const e = entryOf(it);
+        if (e.loknrs.length || entries.has(it.id)) entries.set(it.id, e);
       }
       next = data.next ? API + data.next : null;
       await sleep(150);
     }
   }
-  console.log(`${start}: ${fetched} fetched, ${entries.size} matched so far`);
+  return touched;
+}
+let touched = new Set();
+if (full) {
+  for (let d = new Date(from); d < now; d.setUTCMonth(d.getUTCMonth() + 1)) {
+    const start = d.toISOString().slice(0, 10);
+    const end = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 0)).toISOString().slice(0, 10);
+    await searchWindow(`journaldatoFrom=${start}&journaldatoTo=${end}`);
+    console.log(`${start}: ${fetched} fetched, ${entries.size} matched so far`);
+  }
+} else if (!rematch) {
+  const since = new Date(new Date(prev.retrieved).getTime() - 86400e3).toISOString().slice(0, 10);
+  touched = await searchWindow(`oppdatertDatoFrom=${since}&journaldatoFrom=${fromIso}`);
+  console.log(`updated since ${since}: ${fetched} fetched, ${entries.size} matched, ${touched.size} cases touched`);
 }
 
-// ---- resolve authority names
+// ---- case folders: a case qualifies when its title names a site, or two of its entries name the same site;
+// every entry of a qualifying case then belongs to that site, including entries whose own title does not name it.
+const entriesByCase = new Map();
+for (const e of entries.values()) if (e.sak) (entriesByCase.get(e.sak) ?? entriesByCase.set(e.sak, []).get(e.sak)).push(e);
+function caseLoknrs(sak) {
+  const c = cases.get(sak);
+  const hits = new Set(c ? matchLoknrs(c.title) : []);
+  const votes = new Map();
+  for (const e of entriesByCase.get(sak) ?? []) for (const nr of e.loknrs) votes.set(nr, (votes.get(nr) ?? 0) + 1);
+  for (const [nr, n] of votes) if (n >= 2) hits.add(nr);
+  return [...hits];
+}
+if (!rematch) {
+  const todo = [...(full ? entriesByCase.keys() : touched)].filter((sak) => cases.get(sak)?.id && caseLoknrs(sak).length);
+  console.log(`completing ${todo.length} case folders`);
+  let done = 0;
+  let added = 0;
+  for (const sak of todo) {
+    const nrs = caseLoknrs(sak);
+    let next = `${API}/saksmappe/${cases.get(sak).id}/journalpost?limit=100`;
+    try {
+      for (let page = 0; page < 20 && next; page++) {
+        const data = await getJson(next);
+        for (const it of data.items) {
+          if (it.entity !== 'Journalpost') continue;
+          const e = entries.get(it.id) ?? entryOf({ ...it, saksmappe: { externalId: sak } });
+          if (!entries.has(it.id)) added++;
+          e.loknrs = [...new Set([...e.loknrs, ...nrs])];
+          entries.set(it.id, e);
+        }
+        next = data.next ? API + data.next : null;
+        await sleep(150);
+      }
+    } catch (err) {
+      console.warn(`case ${sak}: ${err.message}`);
+    }
+    if (++done % 500 === 0) console.log(`  ${done}/${todo.length} folders, ${added} entries added`);
+  }
+  console.log(`folders done: ${added} entries added`);
+}
+for (const e of entries.values()) if (e.sak && !e.loknrs.length) entries.delete(e.id);
+
+// ---- resolve authority names (entries from earlier snapshots already carry names)
 for (const e of entries.values()) {
-  if (!e.entity || entityNames.has(e.entity)) continue;
+  if (!e.entity || !/^enh_/.test(e.entity) || entityNames.has(e.entity)) continue;
   try {
     const je = await getJson(`${API}/enhet/${e.entity}`);
     entityNames.set(e.entity, je.navn ?? e.entity);
@@ -139,13 +209,22 @@ for (const e of entries.values()) {
 }
 
 const list = [...entries.values()]
+  .filter((e) => e.loknrs.length)
   .map((e) => ({ ...e, entity: entityNames.get(e.entity) ?? e.entity }))
   .sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''));
 const perLocality = {};
 list.forEach((e, i) => {
   for (const nr of e.loknrs) (perLocality[nr] ??= []).push(i);
 });
-const out = { retrieved, from: from.toISOString().slice(0, 10), entries: list.map(({ loknrs: _l, ...e }) => e), localities: perLocality };
+const usedCases = {};
+for (const e of list) if (e.sak && cases.has(e.sak)) usedCases[e.sak] = cases.get(e.sak);
+const out = {
+  retrieved: rematch ? prev.retrieved : new Date().toISOString(),
+  from: fromIso,
+  entries: list.map(({ loknrs: _l, ...e }) => e),
+  cases: usedCases,
+  localities: perLocality,
+};
 await writeFile(new URL('cases.json', OUT), JSON.stringify(out));
 
 const manifestUrl = new URL('manifest.json', OUT);
@@ -161,4 +240,4 @@ manifest.sources.push({
   retrieved: out.retrieved,
 });
 await writeFile(manifestUrl, JSON.stringify(manifest, null, 2));
-console.log(`cases.json: ${list.length} entries for ${Object.keys(perLocality).length} localities (${fetched} fetched)`);
+console.log(`cases.json: ${list.length} entries in ${Object.keys(usedCases).length} cases for ${Object.keys(perLocality).length} localities (${fetched} fetched)`);

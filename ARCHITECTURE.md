@@ -43,7 +43,7 @@ flowchart LR
 | `components/SettingsMenu.tsx` | Header dropdown with app settings (base map) |
 | `components/LayerPanel.tsx` | Overlay tabs with checkboxes, legends, provenance per layer |
 | `components/InspectPanel.tsx` | Locality register entry, or hypothetical-site neighbourhood summary |
-| `components/CasesPanel.tsx` | Case histories for the filtered localities: search, kind chips, sorting, paged list (`lib/cases.ts` rows/sort/search) |
+| `components/CasesPanel.tsx` | Case histories for the filtered localities: search, kind chips, sorting, group-by-case, paged list (`lib/cases.ts` rows/sort/search/group) |
 | `components/OfflinePanel.tsx` | Online state, install button, storage usage, area download, cache clearing, data snapshot provenance |
 | `components/SearchBox.tsx` | Header search: name/number lookup, fly-to and select |
 | `components/OperatorDropdown.tsx` | Floating operator filter on the map; drives MapLibre filters on localities and borders |
@@ -149,6 +149,18 @@ plus, per locality, an array of adult-female-lice values and an array of flag
 bitmasks (reported, fallow, mechanical removal, substance treatment, cleaner
 fish, PD, ILA). Localities without any report are dropped. The file is
 precached with the rest of the data.
+
+`scripts/fetch-cases.mjs` harvests eInnsyn (`api.einnsyn.no/search`, no key
+needed for reading) for journal entries about aquaculture cases over the last
+three years. Entries are matched to localities by title (locality number, or a
+site name of at least five characters; municipality-named sites only when
+written as "lokalitet NAME"). Every matched case file is then completed from
+`/saksmappe/{id}/journalpost`, so the whole paper trail of a case belongs to
+its site. Runs are incremental (`oppdatertDatoFrom` since the previous
+snapshot); `--full` re-harvests and `--rematch` re-runs matching offline. It
+writes `cases.json`: entries (date, authority, direction, title, archive
+identifiers for the einnsyn.no link), a case map (number, title) and the
+locality → entry index. Precached like the other data files.
 
 ## Testing
 

@@ -36,3 +36,19 @@ describe('case list', () => {
     expect(searchRows(all, '  ', name)).toBe(all)
   })
 })
+
+describe('case grouping', () => {
+  it('groups rows by case in first-appearance order, loose entries last', async () => {
+    const { groupRows } = await import('../cases')
+    const withCases: Cases = {
+      ...data,
+      entries: data.entries.map((e, i) => ({ ...e, sak: i < 2 ? 'http://sak/1' : null })),
+      cases: { 'http://sak/1': { nr: '2026/1', title: 'Akvakultur - Skipbåten' } },
+    }
+    const rows = caseRows(withCases, null)
+    const groups = groupRows([rows[2], rows[0], rows[1]], withCases.cases)
+    expect(groups.map((g) => [g.nr, g.rows.length])).toEqual([['2026/1', 2], ['', 1]])
+    expect(groups[0].title).toBe('Akvakultur - Skipbåten')
+    expect(searchRows(rows, 'akvakultur', name, (s) => withCases.cases![s]?.title ?? '').map((r) => r.entry.id)).toEqual(['a', 'b'])
+  })
+})

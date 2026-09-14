@@ -2,6 +2,14 @@
 
 ## 2026-09-14
 
+- Operator colours now show as a dot beside each operator in the map dropdown
+  (and on the dropdown button when one operator is selected); the colour legend
+  under Layers → Aquaculture is gone.
+- Case harvest is incremental (entries updated since the last snapshot via
+  `oppdatertDatoFrom`; `--full` re-harvests) and completes every matched case
+  file from `/saksmappe/{id}/journalpost`, so entries whose title does not name
+  the site are included. Cases panel gains "Group by case" with case number and
+  a link to the case on einnsyn.no; search also matches case titles.
 - Cases tab: all case-history entries for the localities passing the current
   filters, with word search, kind chips, sorting by date/site/authority/kind and
   200-row paging; site names open the Inspect panel.

@@ -17,6 +17,8 @@ export interface Cases {
   retrieved: string
   from: string
   entries: CaseEntry[]
+  /** case externalId -> case number and title (harvests from 2026-09-14 on) */
+  cases?: Record<string, { nr: string; title: string }>
   /** locality number -> indexes into entries, newest first */
   localities: Record<string, number[]>
 }
@@ -84,12 +86,39 @@ export function sortRows(rows: CaseRow[], sort: CaseSort, desc: boolean, siteNam
   })
 }
 
-/** Case-insensitive substring match on title, authority and site names; every word must match. */
-export function searchRows(rows: CaseRow[], query: string, siteName: (loknr: number) => string): CaseRow[] {
+/** Case-insensitive substring match on title, case title, authority and site names; every word must match. */
+export function searchRows(rows: CaseRow[], query: string, siteName: (loknr: number) => string, caseTitle: (sak: string) => string = () => ''): CaseRow[] {
   const words = query.toLowerCase().split(/\s+/).filter(Boolean)
   if (!words.length) return rows
   return rows.filter((r) => {
-    const hay = `${r.entry.title} ${r.entry.entity} ${r.loknrs.map(siteName).join(' ')}`.toLowerCase()
+    const hay = `${r.entry.title} ${r.entry.sak ? caseTitle(r.entry.sak) : ''} ${r.entry.entity} ${r.loknrs.map(siteName).join(' ')}`.toLowerCase()
     return words.every((w) => hay.includes(w))
   })
 }
+
+export interface CaseGroup {
+  sak: string | null
+  nr: string
+  title: string
+  rows: CaseRow[]
+}
+
+/** Group sorted rows by case, in order of each case's first row; entries without a case form one trailing group. */
+export function groupRows(rows: CaseRow[], info: Cases['cases'] = {}): CaseGroup[] {
+  const groups = new Map<string | null, CaseGroup>()
+  for (const r of rows) {
+    const sak = r.entry.sak ?? null
+    let g = groups.get(sak)
+    if (!g) {
+      const c = sak ? info?.[sak] : undefined
+      g = { sak, nr: c?.nr ?? '', title: c?.title ?? '', rows: [] }
+      groups.set(sak, g)
+    }
+    g.rows.push(r)
+  }
+  const out = [...groups.values()]
+  const loose = groups.get(null)
+  return loose ? [...out.filter((g) => g !== loose), loose] : out
+}
+
+export const caseFolderUrl = (sak: string) => `https://einnsyn.no/saksmappe?id=${encodeURIComponent(sak)}`

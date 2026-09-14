@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { CASE_KINDS, CASE_SORTS, caseRows, caseUrl, searchRows, sortRows, type CaseKind, type CaseSort, type Cases } from '../lib/cases'
+import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, searchRows, sortRows, type CaseKind, type CaseRow, type CaseSort, type Cases } from '../lib/cases'
 import type { Localities } from '../lib/localities'
 import { useT } from '../lib/i18n'
 import Hint from './Hint'
@@ -22,6 +22,7 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
   const [desc, setDesc] = useState(true)
   const [kinds, setKinds] = useState<Set<CaseKind>>(() => new Set(CASE_KINDS))
   const [shown, setShown] = useState(PAGE)
+  const [grouped, setGrouped] = useState(true)
 
   const names = useMemo(() => new Map(localities?.features.map((f) => [f.properties.loknr, f.properties.navn]) ?? []), [localities])
   const siteName = (nr: number) => names.get(nr) ?? String(nr)
@@ -31,8 +32,9 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
     for (const r of all) c.set(r.kind, (c.get(r.kind) ?? 0) + 1)
     return c
   }, [all])
+  const caseTitle = (sak: string) => cases?.cases?.[sak]?.title ?? ''
   const rows = useMemo(
-    () => sortRows(searchRows(all, query, siteName).filter((r) => kinds.has(r.kind)), sort, desc, siteName),
+    () => sortRows(searchRows(all, query, siteName, caseTitle).filter((r) => kinds.has(r.kind)), sort, desc, siteName),
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [all, query, kinds, sort, desc, names],
   )
@@ -45,6 +47,30 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
     setKinds(next)
     setShown(PAGE)
   }
+
+  const groups = useMemo(() => (grouped ? groupRows(rows.slice(0, shown), cases?.cases) : []), [grouped, rows, shown, cases])
+
+  const renderRow = (r: CaseRow) => (
+    <li key={r.entry.id} className={`case case-${r.kind}`}>
+      <span className="case-date">{r.entry.date ?? '–'}</span>
+      <span className="case-kind">{t(`case.${r.kind}`)}</span>
+      <a href={caseUrl(r.entry)} target="_blank" rel="noreferrer" className="case-title">
+        {r.entry.title}
+      </a>
+      <small className="muted">
+        {r.loknrs.map((nr, i) => (
+          <span key={nr}>
+            {i > 0 && ', '}
+            <button type="button" className="case-site" onClick={() => onPick(nr)}>
+              {siteName(nr)}
+            </button>
+          </span>
+        ))}
+        {' · '}
+        {r.entry.entity} · {t(`case.${r.entry.type ?? 'internal'}`)}
+      </small>
+    </li>
+  )
 
   if (!cases) return <div className="panel-body">{t('cases.notLoaded')}</div>
   return (
@@ -76,6 +102,11 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
         <button type="button" className="secondary" onClick={() => setDesc(!desc)} title={t(desc ? 'cases.desc' : 'cases.asc')}>
           {desc ? '↓' : '↑'} {t(desc ? 'cases.desc' : 'cases.asc')}
         </button>
+        {cases.cases && (
+          <label>
+            <input type="checkbox" checked={grouped} onChange={(e) => setGrouped(e.target.checked)} /> {t('cases.group')}
+          </label>
+        )}
       </div>
       <div className="case-kinds">
         {CASE_KINDS.map((k) => (
@@ -84,30 +115,26 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
           </button>
         ))}
       </div>
-      {rows.length ? (
-        <ul className="cases">
-          {rows.slice(0, shown).map((r) => (
-            <li key={r.entry.id} className={`case case-${r.kind}`}>
-              <span className="case-date">{r.entry.date ?? '–'}</span>
-              <span className="case-kind">{t(`case.${r.kind}`)}</span>
-              <a href={caseUrl(r.entry)} target="_blank" rel="noreferrer" className="case-title">
-                {r.entry.title}
-              </a>
-              <small className="muted">
-                {r.loknrs.map((nr, i) => (
-                  <span key={nr}>
-                    {i > 0 && ', '}
-                    <button type="button" className="case-site" onClick={() => onPick(nr)}>
-                      {siteName(nr)}
-                    </button>
-                  </span>
-                ))}
-                {' · '}
-                {r.entry.entity} · {t(`case.${r.entry.type ?? 'internal'}`)}
-              </small>
-            </li>
+      {rows.length && grouped && cases.cases ? (
+        <div className="case-groups">
+          {groups.map((g) => (
+            <section key={g.sak ?? 'none'} className="case-group">
+              <h4>
+                {g.sak ? (
+                  <a href={caseFolderUrl(g.sak)} target="_blank" rel="noreferrer">
+                    {g.nr && <span className="case-nr">{g.nr}</span>} {g.title || t('cases.untitledCase')}
+                  </a>
+                ) : (
+                  t('cases.noCase')
+                )}
+                <span className="muted"> · {g.rows.length}</span>
+              </h4>
+              <ul className="cases">{g.rows.map(renderRow)}</ul>
+            </section>
           ))}
-        </ul>
+        </div>
+      ) : rows.length ? (
+        <ul className="cases">{rows.slice(0, shown).map(renderRow)}</ul>
       ) : (
         <p className="muted">{t('cases.none')}</p>
       )}

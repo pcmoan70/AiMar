@@ -3,6 +3,7 @@ import type { Map as MlMap } from 'maplibre-gl'
 import { operatorIndex, sitesOfOperators, type Localities } from '../lib/localities'
 import { updateSettings, useSettings } from '../lib/settings'
 import { numberLocale, useT } from '../lib/i18n'
+import { siteColour } from '../lib/operatorColours'
 import Hint from './Hint'
 
 interface Props {
@@ -69,6 +70,7 @@ export default function OperatorDropdown({ localities, map }: Props) {
   return (
     <div className={`op-dropdown${open ? ' open' : ''}`} ref={root}>
       <button type="button" className="op-toggle" onClick={() => setOpen(!open)} aria-haspopup="listbox" aria-expanded={open}>
+        {s.operatorFilter.length === 1 && <span className="swatch" style={{ background: siteColour(s.operatorFilter[0], s.operatorFilter) }} />}
         <span className="op-label">{label}</span>
         {s.operatorFilter.length > 0 && <span className="op-count">{t('ops.sites', { n: matching.length })}</span>}
         <span className="op-caret">▾</span>
@@ -98,6 +100,9 @@ export default function OperatorDropdown({ localities, map }: Props) {
             {shown.map((o) => (
               <label key={o.name} className="row" role="option" aria-selected={selected.has(o.name)}>
                 <input type="checkbox" checked={selected.has(o.name)} onChange={() => toggle(o.name)} />
+                <Hint text={t('hint.operatorColours')}>
+                  <span className="swatch" style={{ background: siteColour(o.name, s.operatorFilter) }} />
+                </Hint>
                 <span>
                   {o.name}
                   <small>
