@@ -2,6 +2,12 @@
 
 ## 2026-09-14
 
+- Site panel field filters: clicking a register value (status, capacity ≥,
+  species, purpose, production form, placement, municipality, production area)
+  limits the map to matching sites; a red ✕ next to the field and chips under
+  the operator dropdown clear filters. Filters combine with the operator
+  selection and are remembered.
+
 - Pipeline: the NorKyst pass now also computes monthly temperature and
   salinity statistics at six depths (mean, p10, p90, shares below 4 °C / 20 PSU
   and above 18 °C) and archives every day's subset as int16 on the data disk

@@ -15,7 +15,9 @@ import LoginScreen from './components/LoginScreen'
 import { logout, useAuth } from './lib/auth'
 import { scheduleJanitor } from './lib/cacheJanitor'
 import { getSettings } from './lib/settings'
-import { loadLocalities, sitesOfOperators, type Localities, type LocalityFeature } from './lib/localities'
+import { loadLocalities, type Localities, type LocalityFeature } from './lib/localities'
+import { filteredLoknrs as computeFiltered } from './lib/filters'
+import FilterChips from './components/FilterChips'
 import { loadFishHealth, type FishHealth } from './lib/fishhealth'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
@@ -63,7 +65,7 @@ function MapApp() {
   }
   const setPanel = (id: PanelId) => updateSettings({ panel: s.panel === id ? null : id })
   const selectedLoknr = selection?.type === 'farm' ? selection.props.loknr : null
-  const filteredLoknrs = s.operatorFilter.length && localities ? sitesOfOperators(localities, s.operatorFilter) : null
+  const filteredLoknrs = localities ? computeFiltered(localities, s.operatorFilter, s.fieldFilters) : null
 
   return (
     <div className="app">
@@ -94,6 +96,7 @@ function MapApp() {
         />
         <ContextMenu menu={menu} onClose={() => setMenu(null)} />
         <OperatorDropdown localities={localities} map={map} />
+        <FilterChips />
         <HoverInfo map={map} />
         {s.panel && (
           <aside>

@@ -1,7 +1,8 @@
 import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
 import { ALL_FARMS_COLOUR, paletteFor } from '../lib/operatorColours'
-import { useSettings } from '../lib/settings'
+import { updateSettings, useSettings } from '../lib/settings'
+import { filterValueOf, type FilterKey } from '../lib/filters'
 import LiceChart from './LiceChart'
 import Hint from './Hint'
 import { HINTS, type HintKey } from '../lib/hints'
@@ -17,24 +18,29 @@ const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0,
 const fmtNum = (n: number) => n.toLocaleString('en-GB', { maximumFractionDigits: 0 })
 
 export default function InspectPanel({ selection, localities, fishhealth }: Props) {
-  const { operatorFilter } = useSettings()
+  const { operatorFilter, fieldFilters } = useSettings()
   if (!selection) return <div className="panel-body muted">Click a locality or any point in the sea.</div>
 
   if (selection.type === 'farm') {
     const p = selection.props
-    const rows: [string, string, HintKey][] = [
-      ['Locality no.', String(p.loknr), 'loknr'],
-      ['Status', p.status_lokalitet, 'status'],
-      ['Capacity', p.kapasitet_lok != null ? `${fmtNum(p.kapasitet_lok)} ${p.kapasitet_unittype ?? ''}` : '–', 'capacity'],
-      ['Species', p.til_arter ?? '–', 'species'],
-      ['Operators', p.til_innehavere ?? '–', 'operators'],
-      ['Purpose', p.til_formaal ?? '–', 'purpose'],
-      ['Production form', p.til_produksjonsform ?? '–', 'productionForm'],
-      ['Placement', `${p.plassering} · ${p.vannmiljo}`, 'placement'],
-      ['Municipality', `${p.kommune}, ${p.fylke}`, 'municipality'],
-      ['Production area', p.prodareacode ?? '–', 'prodArea'],
-      ['First clearance', fmtDate(p.klareringsdato), 'clearance'],
+    const rows: [string, string, HintKey, FilterKey | null][] = [
+      ['Locality no.', String(p.loknr), 'loknr', null],
+      ['Status', p.status_lokalitet, 'status', 'status'],
+      ['Capacity', p.kapasitet_lok != null ? `${fmtNum(p.kapasitet_lok)} ${p.kapasitet_unittype ?? ''}` : '–', 'capacity', 'capacityMin'],
+      ['Species', p.til_arter ?? '–', 'species', 'species'],
+      ['Operators', p.til_innehavere ?? '–', 'operators', null],
+      ['Purpose', p.til_formaal ?? '–', 'purpose', 'purpose'],
+      ['Production form', p.til_produksjonsform ?? '–', 'productionForm', 'productionForm'],
+      ['Placement', `${p.plassering} · ${p.vannmiljo}`, 'placement', 'placement'],
+      ['Municipality', `${p.kommune}, ${p.fylke}`, 'municipality', 'municipality'],
+      ['Production area', p.prodareacode ?? '–', 'prodArea', 'prodArea'],
+      ['First clearance', fmtDate(p.klareringsdato), 'clearance', null],
     ]
+    const setFilter = (key: FilterKey) => {
+      const value = filterValueOf(key, p)
+      if (value !== undefined) updateSettings({ fieldFilters: { ...fieldFilters, [key]: value } })
+    }
+    const clearFilter = (key: FilterKey) => updateSettings({ fieldFilters: { ...fieldFilters, [key]: undefined } })
     const series = fishhealth ? liceSeries(fishhealth, p.loknr) : null
     const sum = series ? summarise(series) : null
     const site = localities?.features.find((f) => f.properties.loknr === p.loknr)
@@ -56,14 +62,36 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
         <h2>{p.navn}</h2>
         <table className="kv">
           <tbody>
-            {rows.map(([k, v, h]) => (
-              <tr key={k}>
-                <th>
-                  <Hint text={HINTS[h]}>{k}</Hint>
-                </th>
-                <td>{v}</td>
-              </tr>
-            ))}
+            {rows.map(([k, v, h, fk]) => {
+              const active = fk !== null && fieldFilters[fk] !== undefined
+              const filterable = fk !== null && filterValueOf(fk, p) !== undefined
+              return (
+                <tr key={k} className={active ? 'filtered' : ''}>
+                  <th>
+                    <Hint text={HINTS[h]}>{k}</Hint>
+                  </th>
+                  <td>
+                    {filterable ? (
+                      <button
+                        type="button"
+                        className="field-filter"
+                        title={active ? 'Filter active' : `Show only sites with this ${k.toLowerCase()}${fk === 'capacityMin' ? ' or more' : ''}`}
+                        onClick={() => setFilter(fk)}
+                      >
+                        {v}
+                      </button>
+                    ) : (
+                      v
+                    )}
+                    {active && (
+                      <button type="button" className="field-clear" title="Clear this filter" aria-label={`Clear ${k} filter`} onClick={() => clearFilter(fk)}>
+                        ✕
+                      </button>
+                    )}
+                  </td>
+                </tr>
+              )
+            })}
           </tbody>
         </table>
         <h3>Fish health</h3>

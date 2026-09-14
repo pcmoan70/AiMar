@@ -27,15 +27,11 @@ export type MapHit = Selection | { type: 'loknr'; loknr: number }
 const POLYGON_LAYER = 'site-polygons'
 
 
-/** MapLibre filter for the operator selection: null means no filter. */
-function operatorFilter(operators: string[], polygonLoknrs: number[] | null): { points: ExpressionSpecification; polygons: ExpressionSpecification } | null {
-  if (!operators.length) return null
-  const points: ExpressionSpecification = [
-    'any',
-    ...operators.map((op): ExpressionSpecification => ['>=', ['index-of', op, ['coalesce', ['get', 'til_innehavere'], '']], 0]),
-  ]
-  const polygons: ExpressionSpecification = ['in', ['get', 'loknr'], ['literal', polygonLoknrs ?? []]]
-  return { points, polygons }
+/** MapLibre filter for the operator selection and field filters (a locality-number list): null means no filter. */
+function operatorFilter(_operators: string[], loknrs: number[] | null): { points: ExpressionSpecification; polygons: ExpressionSpecification } | null {
+  if (!loknrs) return null
+  const expr: ExpressionSpecification = ['in', ['get', 'loknr'], ['literal', loknrs]]
+  return { points: expr, polygons: expr }
 }
 
 function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: number[] | null): StyleSpecification {

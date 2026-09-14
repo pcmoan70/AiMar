@@ -212,3 +212,22 @@ div.hint { text-decoration: none; }
 .ctx-menu button { background: transparent; color: var(--fg); text-align: left; border-radius: 6px; padding: 7px 10px; }
 .ctx-menu button:hover:not(:disabled) { background: #eef2f5; }
 .ctx-menu button:disabled { color: var(--muted); }
+
+/* Field filters */
+.field-filter {
+  background: transparent; color: var(--fg); padding: 0; border: 0; border-radius: 3px; text-align: left; font: inherit;
+  text-decoration: underline dotted var(--line); text-underline-offset: 3px; cursor: pointer;
+}
+.field-filter:hover { color: var(--brand); text-decoration-color: var(--brand); }
+tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decoration: none; }
+.field-clear {
+  background: transparent; color: #b42318; border: 0; padding: 0 4px; margin-left: 6px; font-size: 13px; line-height: 1; cursor: pointer; font-weight: 700;
+}
+.field-clear:hover { color: #7a1a12; }
+.filter-chips { position: absolute; top: 46px; left: 10px; z-index: 5; display: flex; flex-wrap: wrap; gap: 4px; max-width: 420px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 4px; background: var(--bg); color: var(--fg); border: 1px solid var(--line);
+  border-radius: 12px; padding: 2px 6px 2px 10px; font-size: 12px; box-shadow: 0 2px 8px rgba(0,0,0,.12);
+}
+.chip-x { background: transparent; color: #b42318; border: 0; padding: 0 3px; font-weight: 700; line-height: 1; cursor: pointer; }
+.chip-clear { padding: 2px 10px; cursor: pointer; }
