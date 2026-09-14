@@ -54,6 +54,7 @@ flowchart LR
 | `components/LiceChart.tsx` | SVG lice time series: 0.5 limit line, fallow wash, treatment markers, hover readout, table view |
 | `lib/offline.ts` | Online hook, tile enumeration for a bounding box, prefetch with concurrency, storage estimate, cache clearing |
 | `lib/install.ts` | Captures `beforeinstallprompt` |
+| `lib/tileFilters.ts` | Custom `aisalpha://` tile protocol: decodes density tiles and sets alpha from traffic rank (hue palette for MarTraf, distance-from-white for the 2022 layer) |
 | `lib/__tests__/` | Vitest unit tests for tile maths, neighbourhood features and the settings store |
 
 ## Storage model

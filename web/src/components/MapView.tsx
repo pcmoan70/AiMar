@@ -13,6 +13,7 @@ import {
 import { BASE_LAYERS, LOCALITIES_LAYER, OTHER_COLOUR, OVERLAY_LAYERS, SALMON_COLOUR, layerById, wmsTileUrl } from '../lib/layers'
 import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
 import { dataUrl, type LocalityProps } from '../lib/localities'
+import { filteredTileUrl } from '../lib/tileFilters'
 
 export type Selection =
   | { type: 'farm'; props: LocalityProps }
@@ -52,7 +53,8 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
   for (const l of OVERLAY_LAYERS) {
     if (!s.overlays.includes(l.id)) continue
     if (l.kind === 'wms') {
-      sources[l.id] = { type: 'raster', tiles: [wmsTileUrl(l)], tileSize: 256, attribution: l.attribution }
+      const tile = l.tileFilter ? filteredTileUrl(l.tileFilter, wmsTileUrl(l)) : wmsTileUrl(l)
+      sources[l.id] = { type: 'raster', tiles: [tile], tileSize: 256, attribution: l.attribution }
       layers.push({ id: l.id, type: 'raster', source: l.id, paint: { 'raster-opacity': l.opacity ?? 1 } })
     } else if (l.kind === 'geojson') {
       sources[l.id] = { type: 'geojson', data: dataUrl(l.url.replace(/^data\//, '')), attribution: l.attribution }

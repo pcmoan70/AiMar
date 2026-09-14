@@ -5,6 +5,8 @@
 //   cache-first – fetched on demand, then served from Cache Storage
 //   forecast    – like cache-first but expires within a day (model output changes hourly)
 
+import type { TileFilter } from './tileFilters'
+
 export type LayerKind = 'xyz' | 'wms' | 'geojson'
 export type CachePolicy = 'precache' | 'cache-first' | 'forecast'
 
@@ -22,6 +24,8 @@ export interface LayerDef {
   legend?: string
   /** How a GeoJSON layer is drawn (default circle). */
   render?: 'circle' | 'fill'
+  /** Client-side per-pixel alpha for density images (see lib/tileFilters.ts). */
+  tileFilter?: TileFilter
   organisation: string
   license: string
   attribution: string
@@ -299,6 +303,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ais-density-2024',
+    tileFilter: 'ais-hue',
     title: 'AIS traffic density 2024 (Kystverket MarTraf)',
     group: 'overlay',
     kind: 'wms',
@@ -310,10 +315,11 @@ export const LAYERS: LayerDef[] = [
     attribution: '© Kystverket / Kystdatahuset',
     cache: 'cache-first',
     opacity: 0.7,
-    description: 'Vessel traffic density for the full year 2024, 0.01° grid.',
+    description: 'Vessel traffic density for the full year 2024, 0.01° grid; low-traffic cells are faded.',
   },
   {
     id: 'ais-density-month',
+    tileFilter: 'ais-hue',
     title: 'AIS traffic density, April 2025 (Kystverket MarTraf)',
     group: 'overlay',
     kind: 'wms',
@@ -329,6 +335,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ais-density',
+    tileFilter: 'ais-white',
     title: 'AIS vessel track density 2022, 1 km (Kystverket)',
     group: 'overlay',
     kind: 'wms',
@@ -339,7 +346,7 @@ export const LAYERS: LayerDef[] = [
     attribution: '© Kystverket',
     cache: 'cache-first',
     opacity: 0.7,
-    description: 'Vessel track density from AIS, 1 km grid, full year 2022.',
+    description: 'Vessel track density from AIS, 1 km grid, full year 2022; low-traffic cells are faded.',
   },
   {
     id: 'site-polygons',

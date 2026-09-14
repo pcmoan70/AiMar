@@ -2,6 +2,10 @@
 
 ## 2026-09-14
 
+- AIS density overlays get per-pixel transparency: tiles are decoded in the
+  browser and low-traffic cells are faded while busy lanes stay opaque
+  (`lib/tileFilters.ts`, custom MapLibre protocol).
+
 - Operator filter: dropdown on the map (multi-select with search, zoom to
   sites, remembered in settings) limits localities and site borders to the
   chosen operators.
