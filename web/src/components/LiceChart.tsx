@@ -40,6 +40,7 @@ const RANGES: { label: string; weeks: number | null }[] = [
 export default function LiceChart({ series: full, extras = [] }: Props) {
   const [hover, setHover] = useState<number | null>(null)
   const [range, setRange] = useState(1)
+  const [view, setView] = useState<'history' | 'scatter'>('history')
   const weeks = RANGES[range].weeks
   const offset = weeks === null ? 0 : Math.max(0, full.length - weeks)
   const series = full.slice(offset)
@@ -94,6 +95,10 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
   return (
     <div className="chart">
       <div className="chart-range">
+        <div className="chart-toggle" role="tablist" aria-label="Chart type">
+          <button type="button" role="tab" aria-selected={view === 'history'} className={view === 'history' ? '' : 'secondary'} onClick={() => { setView('history'); setHover(null) }}>History</button>
+          <button type="button" role="tab" aria-selected={view === 'scatter'} className={view === 'scatter' ? '' : 'secondary'} onClick={() => { setView('scatter'); setHover(null) }} disabled={!extras.length}>Site vs average</button>
+        </div>
         <label>
           Period
           <select value={range} onChange={(e) => { setRange(Number(e.target.value)); setHover(null) }} aria-label="History period">
@@ -105,6 +110,9 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
           </select>
         </label>
       </div>
+      {view === 'scatter' ? (
+        <ScatterView series={series} extras={extras} extraVals={extraVals} hover={hover} setHover={setHover} />
+      ) : (
       <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label="Adult female lice per fish by week"
         onMouseMove={onMove} onMouseLeave={() => setHover(null)}>
         {fallow.map(([a, b]) => (
@@ -144,6 +152,7 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
           </g>
         )}
       </svg>
+      )}
       {extras.length > 0 && (
         <div className="chart-legend">
           <span><i style={{ background: SERIES_COLOURS[0] }} /> This site</span>
@@ -153,7 +162,16 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
         </div>
       )}
       <div className="chart-readout">
-        {h ? (
+        {h && view === 'scatter' ? (
+          <>
+            week {h.week}: <strong>{h.lice != null ? h.lice.toFixed(2) : '–'}</strong> here vs{' '}
+            {extras.map((x, k) => (
+              <span key={x.name} className="chart-readout-extra">
+                <i style={{ background: x.colour }} /> {extraVals[k][hover!] != null ? extraVals[k][hover!]!.toFixed(2) : '–'}
+              </span>
+            ))}
+          </>
+        ) : h ? (
           <>
             <strong>{h.lice != null ? h.lice.toFixed(2) : 'not reported'}</strong> week {h.week}
             {eventLabel(h.flags) ? ` · ${eventLabel(h.flags)}` : ''}
@@ -163,6 +181,15 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
               </span>
             ))}
           </>
+        ) : view === 'scatter' ? (
+          <span className="muted">
+            Each dot is a week: average at other farms (x) vs this site (y); above the diagonal = this site had more lice.
+            {extraVals[0] && (() => {
+              const pairs = series.map((p, i) => [p.lice, extraVals[0][i]] as const).filter(([a, b]) => a != null && b != null) as [number, number][]
+              const above = pairs.filter(([a, b]) => a > b).length
+              return pairs.length ? ` This site above ${extras[0].name.split(' (')[0]} in ${Math.round((100 * above) / pairs.length)}% of ${pairs.length} weeks.` : ''
+            })()}
+          </span>
         ) : (
           <span className="muted">Adult female lice per fish · red line = {LICE_LIMIT} limit · ▲ mechanical ◆ medicinal · grey = fallow</span>
         )}
@@ -198,5 +225,60 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
         </table>
       </details>
     </div>
+  )
+}
+
+
+interface ScatterProps {
+  series: WeekPoint[]
+  extras: ExtraSeries[]
+  extraVals: (number | null)[][]
+  hover: number | null
+  setHover: (i: number | null) => void
+}
+
+const SP = { l: 30, r: 8, t: 8, b: 26 }
+
+function ScatterView({ series, extras, extraVals, hover, setHover }: ScatterProps) {
+  const innerW = W - SP.l - SP.r
+  const innerH = H - SP.t - SP.b
+  const maxVal = Math.max(LICE_LIMIT * 1.4, ...series.map((p) => p.lice ?? 0), ...extraVals.flat().map((v) => v ?? 0)) * 1.05
+  const sx = (v: number) => SP.l + (v / maxVal) * innerW
+  const sy = (v: number) => SP.t + innerH - (v / maxVal) * innerH
+  const step = maxVal > 2 ? 1 : 0.5
+  const ticks: number[] = []
+  for (let v = 0; v <= maxVal; v += step) ticks.push(v)
+  const points = extraVals.flatMap((vals, k) =>
+    series.map((p, i) => (p.lice != null && vals[i] != null ? { i, k, x: sx(vals[i]!), y: sy(p.lice) } : null)).filter(Boolean) as { i: number; k: number; x: number; y: number }[],
+  )
+  const onMove = (e: React.MouseEvent<SVGSVGElement>) => {
+    const rect = e.currentTarget.getBoundingClientRect()
+    const px = ((e.clientX - rect.left) / rect.width) * W
+    const py = ((e.clientY - rect.top) / rect.height) * H
+    let best: { i: number; d: number } | null = null
+    for (const pt of points) {
+      const d = Math.hypot(pt.x - px, pt.y - py)
+      if (d < 12 && (!best || d < best.d)) best = { i: pt.i, d }
+    }
+    setHover(best ? best.i : null)
+  }
+  return (
+    <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label="This site's weekly lice versus the average at other farms" onMouseMove={onMove} onMouseLeave={() => setHover(null)}>
+      {ticks.map((v) => (
+        <g key={v}>
+          <line x1={SP.l} x2={W - SP.r} y1={sy(v)} y2={sy(v)} className="chart-grid" />
+          <line y1={SP.t} y2={H - SP.b} x1={sx(v)} x2={sx(v)} className="chart-grid" />
+          <text x={SP.l - 4} y={sy(v) + 3} className="chart-tick" textAnchor="end">{v}</text>
+          <text x={sx(v)} y={H - SP.b + 11} className="chart-tick" textAnchor="middle">{v}</text>
+        </g>
+      ))}
+      <line x1={sx(0)} y1={sy(0)} x2={sx(maxVal)} y2={sy(maxVal)} className="chart-diagonal" />
+      <line x1={SP.l} x2={W - SP.r} y1={sy(LICE_LIMIT)} y2={sy(LICE_LIMIT)} className="chart-limit" />
+      <text x={W - SP.r} y={H - 3} className="chart-tick" textAnchor="end">other farms →</text>
+      <text x={SP.l + 4} y={SP.t + 9} className="chart-tick">↑ this site</text>
+      {points.map((pt) => (
+        <circle key={`${pt.k}-${pt.i}`} cx={pt.x} cy={pt.y} r={hover === pt.i ? 5 : 3} className="chart-dot" style={{ fill: extras[pt.k].colour, opacity: hover === null || hover === pt.i ? 0.85 : 0.3 }} />
+      ))}
+    </svg>
   )
 }

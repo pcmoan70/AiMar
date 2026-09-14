@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Lice chart: "History" / "Site vs average" toggle; the scatter view plots each
+  week as a dot of comparison average (x) against this site (y) with a 1:1
+  diagonal, nearest-dot hover and a share-of-weeks-above summary.
 - Lice chart: with no operator selected, an orange line shows the 1/d²-weighted
   lice level at all reporting farms within 150 km; a missing weekly report is
   treated as "not operating", never as zero.
