@@ -231,3 +231,7 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
 }
 .chip-x { background: transparent; color: #b42318; border: 0; padding: 0 3px; font-weight: 700; line-height: 1; cursor: pointer; }
 .chip-clear { padding: 2px 10px; cursor: pointer; }
+
+/* Help panel */
+.help h3 { margin-top: 14px; }
+.help li { margin: 5px 0; line-height: 1.4; }
