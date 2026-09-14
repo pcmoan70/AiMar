@@ -95,12 +95,16 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
   return (
     <div className="chart">
       <div className="chart-range">
-        <div className="chart-toggle" role="tablist" aria-label="Chart type">
-          <button type="button" role="tab" aria-selected={view === 'history'} className={view === 'history' ? '' : 'secondary'} onClick={() => { setView('history'); setHover(null) }}>History</button>
-          <button type="button" role="tab" aria-selected={view === 'scatter'} className={view === 'scatter' ? '' : 'secondary'} onClick={() => { setView('scatter'); setHover(null) }} disabled={!extras.length}>Site vs average</button>
-        </div>
+        <button
+          type="button"
+          className="secondary chart-toggle"
+          onClick={() => { setView(view === 'history' ? 'scatter' : 'history'); setHover(null) }}
+          disabled={!extras.length}
+          title={view === 'history' ? 'Show each week as this site vs the average' : 'Show the time series'}
+        >
+          {view === 'history' ? 'Show site vs average' : 'Show history'}
+        </button>
         <label>
-          Period
           <select value={range} onChange={(e) => { setRange(Number(e.target.value)); setHover(null) }} aria-label="History period">
             {RANGES.map((r, i) => (
               <option key={r.label} value={i} disabled={r.weeks !== null && r.weeks > full.length && i > 0}>
