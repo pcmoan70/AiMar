@@ -5,7 +5,9 @@
 - Help rewritten in sections (header, map, site panel, lice chart, layers,
   offline, sources) covering all current features.
 
-- Site panel field filters: clicking a register value (status, capacity ≥,
+- Site panel field filters: clicking a register value opens a picker listing
+  every value the field takes with site counts (capacity as ranges in
+  multiples of the 780 t standard licence); picking one (status, capacity ≥,
   species, purpose, production form, placement, municipality, production area)
   limits the map to matching sites; a red ✕ next to the field and chips under
   the operator dropdown clear filters. Filters combine with the operator

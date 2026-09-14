@@ -62,9 +62,10 @@ export default function HelpPanel() {
         </li>
         <li>
           <b>Click a field value</b> (status, capacity, species, purpose, production form, placement, municipality,
-          production area) to show only sites sharing it — capacity means "at least this many tonnes", species means
-          "cleared for the first-listed species". The active field turns blue with a red ✕ that clears that filter.
-          Filters combine with the operator selection and are remembered.
+          production area) to open a list of every value that field takes, with site counts; capacity offers ranges in
+          multiples of the 780 t standard licence. Pick one to show only matching sites ("Any" removes it). The
+          active field turns blue with a red ✕ that clears that filter. Filters combine with the operator selection
+          and are remembered.
         </li>
         <li>
           <b>Fish health:</b> latest reported adult female lice per fish, and a 52-week summary of weeks reported,

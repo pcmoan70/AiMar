@@ -235,3 +235,19 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
 /* Help panel */
 .help h3 { margin-top: 14px; }
 .help li { margin: 5px 0; line-height: 1.4; }
+
+/* Field value picker */
+.picker {
+  position: fixed; z-index: 60; width: 300px; max-width: calc(100vw - 16px); background: var(--bg); color: var(--fg);
+  border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 8px 24px rgba(0,0,0,.25); padding: 8px; display: flex; flex-direction: column; gap: 6px;
+}
+.picker-head { display: flex; justify-content: space-between; align-items: center; font-weight: 600; font-size: 13px; }
+.picker-any { padding: 2px 8px; font-size: 12px; }
+.picker input[type=search] { width: 100%; font: inherit; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; }
+.picker-list { max-height: 50vh; overflow-y: auto; display: flex; flex-direction: column; }
+.picker-item { display: flex; justify-content: space-between; gap: 8px; background: transparent; color: var(--fg); text-align: left; border-radius: 6px; padding: 5px 8px; }
+.picker-item:hover { background: #eef2f5; }
+.picker-item.active { background: var(--brand); color: #fff; }
+.picker-item.active small { color: #fff; }
+.picker-item.mine span::after { content: ' ●'; color: var(--accent); }
+.filter-note { color: var(--muted); font-weight: 400; }

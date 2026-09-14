@@ -2,7 +2,9 @@ import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
 import { ALL_FARMS_COLOUR, paletteFor } from '../lib/operatorColours'
 import { updateSettings, useSettings } from '../lib/settings'
-import { filterValueOf, type FilterKey } from '../lib/filters'
+import { filterValueOf, sameValue, type CapacityRange, type FilterKey } from '../lib/filters'
+import FieldPicker from './FieldPicker'
+import { useState } from 'react'
 import LiceChart from './LiceChart'
 import Hint from './Hint'
 import { HINTS, type HintKey } from '../lib/hints'
@@ -19,6 +21,7 @@ const fmtNum = (n: number) => n.toLocaleString('en-GB', { maximumFractionDigits:
 
 export default function InspectPanel({ selection, localities, fishhealth }: Props) {
   const { operatorFilter, fieldFilters } = useSettings()
+  const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
   if (!selection) return <div className="panel-body muted">Click a locality or any point in the sea.</div>
 
   if (selection.type === 'farm') {
@@ -26,7 +29,7 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
     const rows: [string, string, HintKey, FilterKey | null][] = [
       ['Locality no.', String(p.loknr), 'loknr', null],
       ['Status', p.status_lokalitet, 'status', 'status'],
-      ['Capacity', p.kapasitet_lok != null ? `${fmtNum(p.kapasitet_lok)} ${p.kapasitet_unittype ?? ''}` : '–', 'capacity', 'capacityMin'],
+      ['Capacity', p.kapasitet_lok != null ? `${fmtNum(p.kapasitet_lok)} ${p.kapasitet_unittype ?? ''}` : '–', 'capacity', 'capacity'],
       ['Species', p.til_arter ?? '–', 'species', 'species'],
       ['Operators', p.til_innehavere ?? '–', 'operators', null],
       ['Purpose', p.til_formaal ?? '–', 'purpose', 'purpose'],
@@ -36,11 +39,11 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
       ['Production area', p.prodareacode ?? '–', 'prodArea', 'prodArea'],
       ['First clearance', fmtDate(p.klareringsdato), 'clearance', null],
     ]
-    const setFilter = (key: FilterKey) => {
-      const value = filterValueOf(key, p)
-      if (value !== undefined) updateSettings({ fieldFilters: { ...fieldFilters, [key]: value } })
-    }
     const clearFilter = (key: FilterKey) => updateSettings({ fieldFilters: { ...fieldFilters, [key]: undefined } })
+    const pick = (key: FilterKey, value: string | CapacityRange | undefined) => {
+      updateSettings({ fieldFilters: { ...fieldFilters, [key]: value } })
+      setPicker(null)
+    }
     const series = fishhealth ? liceSeries(fishhealth, p.loknr) : null
     const sum = series ? summarise(series) : null
     const site = localities?.features.find((f) => f.properties.loknr === p.loknr)
@@ -64,7 +67,8 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
           <tbody>
             {rows.map(([k, v, h, fk]) => {
               const active = fk !== null && fieldFilters[fk] !== undefined
-              const filterable = fk !== null && filterValueOf(fk, p) !== undefined
+              const filterable = fk !== null && localities !== null
+              const differs = active && !sameValue(fieldFilters[fk!], filterValueOf(fk!, p))
               return (
                 <tr key={k} className={active ? 'filtered' : ''}>
                   <th>
@@ -75,10 +79,11 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
                       <button
                         type="button"
                         className="field-filter"
-                        title={active ? 'Filter active' : `Show only sites with this ${k.toLowerCase()}${fk === 'capacityMin' ? ' or more' : ''}`}
-                        onClick={() => setFilter(fk)}
+                        title={`Choose a ${k.toLowerCase()} value to filter the map`}
+                        onClick={(e) => setPicker({ key: fk!, anchor: e.currentTarget.getBoundingClientRect() })}
                       >
                         {v}
+                        {differs && <small className="filter-note"> (filter: {fk === 'capacity' ? `${fieldFilters.capacity!.min.toLocaleString('en-GB')}–${fieldFilters.capacity!.max?.toLocaleString('en-GB') ?? '∞'} t` : String(fieldFilters[fk!])})</small>}
                       </button>
                     ) : (
                       v
@@ -123,6 +128,17 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
           </>
         ) : (
           <p className="muted">{fishhealth ? 'No fish-health reports for this locality.' : 'Fish-health data not loaded.'}</p>
+        )}
+        {picker && localities && (
+          <FieldPicker
+            fieldKey={picker.key}
+            localities={localities}
+            anchor={picker.anchor}
+            current={fieldFilters[picker.key]}
+            siteValue={filterValueOf(picker.key, p)}
+            onPick={(value) => pick(picker.key, value)}
+            onClose={() => setPicker(null)}
+          />
         )}
         {p.lokalitet_url && (
           <p>
