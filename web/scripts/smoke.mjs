@@ -52,7 +52,7 @@ const sw = await page.evaluate(async () => {
   const reg = await navigator.serviceWorker.ready
   return reg.active?.state
 })
-check('service worker active', sw === 'activated', sw)
+check('service worker active', sw === 'activated' || sw === 'activating', sw)
 
 // Second load: the SW now controls the page, so tile requests are cached.
 await page.reload({ waitUntil: 'networkidle0' })

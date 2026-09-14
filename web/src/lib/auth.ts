@@ -2,6 +2,9 @@
 // this only stops casual visitors. The shipped config holds a salted PBKDF2
 // hash, never the password (see web/README.md to regenerate it).
 import { useSyncExternalStore } from 'react'
+import { pbkdf2 } from '@noble/hashes/pbkdf2'
+import { sha256 } from '@noble/hashes/sha2'
+import { bytesToHex, utf8ToBytes } from '@noble/hashes/utils'
 import { AUTH_HASH, AUTH_ITERATIONS, AUTH_SALT } from './auth-config'
 
 const KEY = 'aimar.auth.v1'
@@ -22,21 +25,15 @@ function set(v: boolean) {
   listeners.forEach((l) => l())
 }
 
-async function derive(user: string, pass: string): Promise<string> {
-  const enc = new TextEncoder()
-  const key = await crypto.subtle.importKey('raw', enc.encode(`${user.trim().toLowerCase()}:${pass}`), 'PBKDF2', false, ['deriveBits'])
-  const bits = await crypto.subtle.deriveBits(
-    { name: 'PBKDF2', hash: 'SHA-256', salt: enc.encode(AUTH_SALT), iterations: AUTH_ITERATIONS },
-    key,
-    256,
-  )
-  return [...new Uint8Array(bits)].map((b) => b.toString(16).padStart(2, '0')).join('')
+// Pure-JS PBKDF2 so sign-in also works on plain-http addresses (no WebCrypto there).
+function derive(user: string, pass: string): string {
+  const input = utf8ToBytes(`${user.trim().toLowerCase()}:${pass.trim()}`)
+  return bytesToHex(pbkdf2(sha256, input, utf8ToBytes(AUTH_SALT), { c: AUTH_ITERATIONS, dkLen: 32 }))
 }
 
-export const canLogin = () => typeof crypto !== 'undefined' && !!crypto.subtle
-
 export async function login(user: string, pass: string): Promise<boolean> {
-  const hash = await derive(user, pass)
+  await new Promise((r) => setTimeout(r, 0)) // let the button render its busy state
+  const hash = derive(user, pass)
   if (hash !== AUTH_HASH) return false
   try {
     localStorage.setItem(KEY, hash)

@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from 'react'
-import { canLogin, login } from '../lib/auth'
+import { login } from '../lib/auth'
 
 export default function LoginScreen() {
   const [user, setUser] = useState('')
@@ -21,7 +21,6 @@ export default function LoginScreen() {
       <form className="login-card" onSubmit={submit}>
         <h1>AiMar</h1>
         <p className="muted">Norwegian aquaculture site intelligence. Sign in to continue.</p>
-        {!canLogin() && <p className="error">Sign-in needs a secure connection (https or localhost).</p>}
         <label>
           Username
           <input id="login-user" autoComplete="username" value={user} onChange={(e) => setUser(e.target.value)} autoFocus />
@@ -31,7 +30,7 @@ export default function LoginScreen() {
           <input id="login-pass" type="password" autoComplete="current-password" value={pass} onChange={(e) => setPass(e.target.value)} />
         </label>
         {error && <p className="error">{error}</p>}
-        <button type="submit" disabled={busy || !user || !pass || !canLogin()}>
+        <button type="submit" disabled={busy || !user || !pass}>
           {busy ? 'Checking…' : 'Sign in'}
         </button>
       </form>
