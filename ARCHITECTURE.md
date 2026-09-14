@@ -43,6 +43,7 @@ flowchart LR
 | `components/SettingsMenu.tsx` | Header dropdown with app settings (base map) |
 | `components/LayerPanel.tsx` | Overlay tabs with checkboxes, legends, provenance per layer |
 | `components/InspectPanel.tsx` | Locality register entry, or hypothetical-site neighbourhood summary |
+| `components/CasesPanel.tsx` | Case histories for the filtered localities: search, kind chips, sorting, paged list (`lib/cases.ts` rows/sort/search) |
 | `components/OfflinePanel.tsx` | Online state, install button, storage usage, area download, cache clearing, data snapshot provenance |
 | `components/SearchBox.tsx` | Header search: name/number lookup, fly-to and select |
 | `components/OperatorDropdown.tsx` | Floating operator filter on the map; drives MapLibre filters on localities and borders |

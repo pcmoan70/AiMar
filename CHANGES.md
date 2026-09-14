@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Cases tab: all case-history entries for the localities passing the current
+  filters, with word search, kind chips, sorting by date/site/authority/kind and
+  200-row paging; site names open the Inspect panel.
 - Case history links fixed: einnsyn.no has no `/journalpost/<id>` page; entries
   now open as `/saksmappe?id=<case>&jid=<entry>` using the archive identifiers
   stored by the harvester (title search on einnsyn as fallback).

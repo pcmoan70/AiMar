@@ -4,7 +4,7 @@ import { useSyncExternalStore } from 'react'
 import type { Category } from './layers'
 import type { FieldFilters } from './filters'
 
-export type PanelId = 'layers' | 'inspect' | 'offline' | 'help' | null
+export type PanelId = 'layers' | 'inspect' | 'cases' | 'offline' | 'help' | null
 
 export interface Settings {
   baseLayer: string

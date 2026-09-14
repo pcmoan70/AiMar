@@ -45,3 +45,51 @@ export function caseKind(e: CaseEntry): 'decision' | 'refusal' | 'application' |
   if (/uttalelse|høring|horing|innspill/.test(t)) return 'statement'
   return 'other'
 }
+
+export type CaseKind = ReturnType<typeof caseKind>
+export const CASE_KINDS: CaseKind[] = ['application', 'statement', 'decision', 'refusal', 'complaint', 'other']
+
+export interface CaseRow {
+  entry: CaseEntry
+  kind: CaseKind
+  /** localities this entry was matched to */
+  loknrs: number[]
+}
+
+/** One row per entry matched to any of `loknrs` (null = every locality), newest first as stored. */
+export function caseRows(data: Cases, loknrs: Iterable<number> | null): CaseRow[] {
+  const rows = new Map<number, CaseRow>()
+  const keys = loknrs === null ? Object.keys(data.localities) : [...loknrs].map(String)
+  for (const k of keys) {
+    for (const i of data.localities[k] ?? []) {
+      const r = rows.get(i)
+      if (r) r.loknrs.push(Number(k))
+      else rows.set(i, { entry: data.entries[i], kind: caseKind(data.entries[i]), loknrs: [Number(k)] })
+    }
+  }
+  return [...rows.entries()].sort((a, b) => a[0] - b[0]).map(([, r]) => r)
+}
+
+export type CaseSort = 'date' | 'site' | 'authority' | 'kind'
+export const CASE_SORTS: CaseSort[] = ['date', 'site', 'authority', 'kind']
+
+/** Sort a copy of `rows`; ties fall back to date (newest first). `siteName` labels a row by its first locality. */
+export function sortRows(rows: CaseRow[], sort: CaseSort, desc: boolean, siteName: (loknr: number) => string): CaseRow[] {
+  const key = (r: CaseRow): string =>
+    sort === 'date' ? r.entry.date ?? '' : sort === 'site' ? siteName(r.loknrs[0]) : sort === 'authority' ? r.entry.entity : String(CASE_KINDS.indexOf(r.kind))
+  const byDate = (a: CaseRow, b: CaseRow) => (b.entry.date ?? '').localeCompare(a.entry.date ?? '')
+  return [...rows].sort((a, b) => {
+    const c = key(a).localeCompare(key(b), 'nb')
+    return (desc ? -c : c) || byDate(a, b)
+  })
+}
+
+/** Case-insensitive substring match on title, authority and site names; every word must match. */
+export function searchRows(rows: CaseRow[], query: string, siteName: (loknr: number) => string): CaseRow[] {
+  const words = query.toLowerCase().split(/\s+/).filter(Boolean)
+  if (!words.length) return rows
+  return rows.filter((r) => {
+    const hay = `${r.entry.title} ${r.entry.entity} ${r.loknrs.map(siteName).join(' ')}`.toLowerCase()
+    return words.every((w) => hay.includes(w))
+  })
+}

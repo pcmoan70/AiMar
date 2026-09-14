@@ -170,7 +170,7 @@ a { color: var(--brand); }
   background: var(--bg); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 8px 24px rgba(0,0,0,.25);
   padding: 8px; display: flex; flex-direction: column; gap: 6px;
 }
-.op-menu input[type=search] { width: 100%; font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; }
+.op-menu input[type=search], .cases-panel input[type=search] { width: 100%; font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; }
 .op-actions { display: flex; gap: 6px; }
 .op-actions button { padding: 4px 8px; font-size: 12px; }
 .op-list { max-height: 50vh; overflow-y: auto; }
@@ -285,3 +285,12 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
 .case-application { border-left-color: #2a78d6; }
 .case-complaint { border-left-color: #eda100; }
 .case-statement { border-left-color: #4a3aa7; }
+.cases-panel input[type=search] { margin: 6px 0; }
+.cases-controls { display: flex; gap: 8px; align-items: center; font-size: 13px; margin: 4px 0; }
+.cases-controls label { display: flex; gap: 6px; align-items: center; }
+.cases-controls select { font: inherit; padding: 3px 6px; }
+.case-kinds { display: flex; flex-wrap: wrap; gap: 4px; margin: 6px 0 10px; }
+.case-kinds .chip { cursor: pointer; box-shadow: none; opacity: .55; border-left-width: 4px; }
+.case-kinds .chip.active { opacity: 1; }
+.case-site { background: none; border: 0; padding: 0; margin: 0; font: inherit; color: var(--brand); cursor: pointer; text-decoration: underline dotted; }
+.cases-panel > button.secondary { margin: 8px 0; }

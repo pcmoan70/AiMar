@@ -77,6 +77,10 @@ with `BASE_PATH=/`.
   0.5 limit, treatments, fallow periods, PD/ILA flags, with a period dropdown
   (last year, 4 years, 8 years, all). Operators selected in the map dropdown add lines with
   the inverse-distance-squared weighted lice level at their other farms.
+- **Cases** tab: every eInnsyn journal entry for the localities shown on the
+  map (all, or those passing the operator and field filters), with word search
+  over title, authority and site, kind chips with counts, sorting by date, site,
+  authority or kind, and site names that open the Inspect panel.
 - Click anywhere else in the sea for a hypothetical-site summary: nearest farm,
   farm count / permitted capacity within 5, 10, 20 and 50 km, and regional lice
   pressure (mean lice and share of farm-weeks above the limit within 10 and 20 km

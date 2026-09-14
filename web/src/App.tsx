@@ -3,6 +3,7 @@ import type { Map as MlMap } from 'maplibre-gl'
 import MapView, { type MapHit, type Selection } from './components/MapView'
 import LayerPanel from './components/LayerPanel'
 import InspectPanel from './components/InspectPanel'
+import CasesPanel from './components/CasesPanel'
 import OfflinePanel from './components/OfflinePanel'
 import OperatorDropdown from './components/OperatorDropdown'
 import HoverInfo from './components/HoverInfo'
@@ -25,7 +26,7 @@ import { loadCases, type Cases } from './lib/cases'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
 
-const TABS: Exclude<PanelId, null>[] = ['layers', 'inspect', 'help']
+const TABS: Exclude<PanelId, null>[] = ['layers', 'inspect', 'cases', 'help']
 
 export default function App() {
   const authed = useAuth()
@@ -104,6 +105,17 @@ function MapApp() {
           <aside>
             {s.panel === 'layers' && <LayerPanel />}
             {s.panel === 'inspect' && <InspectPanel selection={selection} localities={localities} fishhealth={fishhealth} cases={cases} />}
+            {s.panel === 'cases' && (
+              <CasesPanel
+                cases={cases}
+                localities={localities}
+                loknrs={filteredLoknrs}
+                onPick={(nr) => {
+                  const f = localities?.features.find((x) => x.properties.loknr === nr)
+                  if (f) pickLocality(f)
+                }}
+              />
+            )}
             {s.panel === 'offline' && <OfflinePanel map={map} />}
             {s.panel === 'help' && <HelpPanel />}
           </aside>
