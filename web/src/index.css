@@ -89,6 +89,8 @@ aside {
 small { color: var(--muted); font-size: 12px; }
 .muted { color: var(--muted); }
 .legend { align-items: center; cursor: default; }
+.legend-more { margin: 2px 0; font-size: 13px; }
+.legend-more summary { cursor: pointer; }
 .legend-img { max-height: 360px; max-width: 100%; width: auto; align-self: flex-start; margin-top: 4px; background: #fff; }
 .swatch { width: 14px; height: 14px; border-radius: 50%; border: 1px solid #fff; box-shadow: 0 0 0 1px var(--line); flex: none; }
 .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; }

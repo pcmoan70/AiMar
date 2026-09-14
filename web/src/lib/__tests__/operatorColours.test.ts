@@ -17,8 +17,10 @@ describe('operator colour rules', () => {
     expect(siteColour('ACME AS, SALMAR OPPDRETT AS')).toBe(OPERATOR_COLOURS[1].colour)
     expect(siteColour('ACME AS', ['ACME AS'])).toBe(PALETTE[0])
   })
-  it('uses exactly the eight validated hues, each once', () => {
-    expect(new Set(OPERATOR_COLOURS.map((o) => o.colour)).size).toBe(8)
+  it('gives every table operator a unique colour from the sequence; the first eight are the validated hues', () => {
+    expect(new Set(OPERATOR_COLOURS.map((o) => o.colour)).size).toBe(OPERATOR_COLOURS.length)
     for (const o of OPERATOR_COLOURS) expect(PALETTE).toContain(o.colour)
+    expect(OPERATOR_COLOURS.slice(0, 8).map((o) => o.colour)).toEqual(PALETTE.slice(0, 8))
+    expect(new Set(PALETTE).size).toBe(PALETTE.length)
   })
 })

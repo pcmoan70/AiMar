@@ -54,7 +54,7 @@ flowchart LR
 | `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy, category tab and per-tab importance order |
 | `lib/settings.ts` | `localStorage`-backed settings store exposed through `useSyncExternalStore` |
 | `lib/localities.ts` | Locality types, data loader, haversine neighbourhood features, search |
-| `lib/operatorColours.ts` | Fixed operator → colour table with rules for unlisted and selected operators; used by map dots, legend and charts |
+| `lib/operatorColours.ts` | Fixed operator → colour table (all operators with ≥16 sites, appended only by `scripts/gen-operator-colours.mjs`) with rules for unlisted and selected operators; used by map dots, legend and charts |
 | `lib/fishhealth.ts` | Fish-health snapshot types, per-locality lice series, 52-week summary, regional lice pressure, operator pressure series (1/d² weighted over reporting farms) |
 | `components/LiceChart.tsx` | SVG lice time series: 0.5 limit line, fallow wash, treatment markers, hover readout, table view |
 | `lib/offline.ts` | Online hook, tile enumeration for a bounding box, prefetch with concurrency, storage estimate, cache clearing |

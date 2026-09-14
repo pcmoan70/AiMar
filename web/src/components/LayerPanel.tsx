@@ -69,18 +69,30 @@ export default function LayerPanel() {
           <h3>
             <Hint text={HINTS.operatorColours}>Locality colours</Hint>
           </h3>
-          {[
-            ...OPERATOR_COLOURS,
-            ...s.operatorFilter
+          {(() => {
+            const selectedExtra = s.operatorFilter
               .filter((op) => !OPERATOR_COLOURS.some((o) => o.name === op))
-              .map((op) => ({ name: `${op} (selected)`, colour: paletteFor(s.operatorFilter).get(op)! })),
-            { name: 'Other operators', colour: OTHER_COLOUR },
-          ].map((e) => (
-            <div key={e.name} className="row legend">
-              <span className="swatch" style={{ background: e.colour }} />
-              <span>{e.name}</span>
-            </div>
-          ))}
+              .map((op) => ({ name: `${op} (selected)`, colour: paletteFor(s.operatorFilter).get(op)! }))
+            const row = (e: { name: string; colour: string }) => (
+              <div key={e.name} className="row legend">
+                <span className="swatch" style={{ background: e.colour }} />
+                <span>{e.name}</span>
+              </div>
+            )
+            return (
+              <>
+                {OPERATOR_COLOURS.slice(0, 10).map(row)}
+                {OPERATOR_COLOURS.length > 10 && (
+                  <details className="legend-more">
+                    <summary className="muted">{OPERATOR_COLOURS.length - 10} more operators with fixed colours</summary>
+                    {OPERATOR_COLOURS.slice(10).map(row)}
+                  </details>
+                )}
+                {selectedExtra.map(row)}
+                {row({ name: 'Other operators', colour: OTHER_COLOUR })}
+              </>
+            )
+          })()}
         </>
       )}
     </div>

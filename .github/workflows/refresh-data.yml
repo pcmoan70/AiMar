@@ -21,6 +21,7 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/fetch-data.mjs
+      - run: node scripts/gen-operator-colours.mjs
       - run: node scripts/fetch-fishhealth.mjs
         env:
           BW_CLIENT_ID: ${{ secrets.BW_CLIENT_ID }}
@@ -29,8 +30,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          git add public/data
-          if git diff --cached --quiet -- public/data/localities.geojson public/data/site_polygons.geojson public/data/fishhealth.json; then
+          git add public/data src/lib/operatorColours.ts
+          if git diff --cached --quiet -- public/data/localities.geojson public/data/site_polygons.geojson public/data/fishhealth.json src/lib/operatorColours.ts; then
             echo "No data changes"; exit 0
           fi
           git config user.name "github-actions[bot]"

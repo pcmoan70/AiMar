@@ -11,7 +11,8 @@
     "fetch-data": "node scripts/fetch-data.mjs",
     "smoke": "node scripts/smoke.mjs",
     "test": "vitest run",
-    "fetch-fishhealth": "node scripts/fetch-fishhealth.mjs"
+    "fetch-fishhealth": "node scripts/fetch-fishhealth.mjs",
+    "gen-operator-colours": "node scripts/gen-operator-colours.mjs"
   },
   "dependencies": {
     "@noble/hashes": "^2.4.0",
