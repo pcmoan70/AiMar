@@ -4,4 +4,4 @@ export type HintKey =
   | 'municipality' | 'prodArea' | 'clearance' | 'latestLice' | 'last52' | 'liceChart' | 'liceChartAll'
   | 'liceChartOperators' | 'position' | 'nearestFarm' | 'licePressure' | 'neighbours' | 'operatorSites'
   | 'operatorColours' | 'storage' | 'cacheCounts' | 'cacheLimit' | 'tileCount' | 'snapshot'
-  | 'liceMean' | 'liceMax' | 'liceAbove' | 'liceTreat'
+  | 'liceMean' | 'liceMax' | 'liceAbove' | 'liceTreat' | 'cases'

@@ -266,3 +266,17 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
 .heat-legend { display: flex; flex-direction: column; gap: 2px; font-size: 11px; }
 .heat-bar { height: 10px; border-radius: 3px; border: 1px solid var(--line); }
 .heat-ticks { display: flex; justify-content: space-between; color: var(--muted); }
+
+/* Case history */
+.cases { list-style: none; padding: 0; margin: 4px 0; display: flex; flex-direction: column; gap: 8px; }
+.case { display: grid; grid-template-columns: auto auto 1fr; gap: 2px 8px; align-items: baseline; font-size: 13px; border-left: 3px solid var(--line); padding-left: 8px; }
+.case-date { color: var(--muted); font-size: 12px; white-space: nowrap; }
+.case-kind { font-size: 11px; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); }
+.case-title { grid-column: 1 / -1; color: var(--fg); text-decoration: none; }
+.case-title:hover { text-decoration: underline; }
+.case small { grid-column: 1 / -1; }
+.case-decision { border-left-color: #008300; }
+.case-refusal { border-left-color: #b42318; }
+.case-application { border-left-color: #2a78d6; }
+.case-complaint { border-left-color: #eda100; }
+.case-statement { border-left-color: #4a3aa7; }

@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, liceStatsIndex, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
+import { caseKind, caseUrl, casesFor, type Cases } from '../lib/cases'
 import { ALL_FARMS_COLOUR, paletteFor } from '../lib/operatorColours'
 import { updateSettings, useSettings } from '../lib/settings'
 import { activeFilterKeys, fieldValuesOf, valueLabel, type FieldFilters, type FilterKey, type FilterValue } from '../lib/filters'
@@ -15,11 +16,12 @@ interface Props {
   selection: Selection | null
   localities: Localities | null
   fishhealth: FishHealth | null
+  cases: Cases | null
 }
 
 const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0, 10) : '–')
 
-export default function InspectPanel({ selection, localities, fishhealth }: Props) {
+export default function InspectPanel({ selection, localities, fishhealth, cases }: Props) {
   const t = useT()
   const { operatorFilter, fieldFilters } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
@@ -162,6 +164,35 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
         ) : (
           <p className="muted">{fishhealth ? t('inspect.noReports') : t('inspect.notLoaded')}</p>
         )}
+        <h3>
+          <Hint text={t('hint.cases')}>{t('inspect.cases')}</Hint>
+        </h3>
+        {cases ? (
+          (() => {
+            const list = casesFor(cases, p.loknr)
+            return list.length ? (
+              <ul className="cases">
+                {list.map((e) => (
+                  <li key={e.id} className={`case case-${caseKind(e)}`}>
+                    <span className="case-date">{e.date ?? '–'}</span>
+                    <span className="case-kind">{t(`case.${caseKind(e)}`)}</span>
+                    <a href={caseUrl(e)} target="_blank" rel="noreferrer" className="case-title">
+                      {e.title}
+                    </a>
+                    <small className="muted">
+                      {e.entity} · {t(`case.${e.type ?? 'internal'}`)}
+                    </small>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p className="muted">{t('inspect.noCases', { from: cases.from })}</p>
+            )
+          })()
+        ) : (
+          <p className="muted">{t('inspect.casesNotLoaded')}</p>
+        )}
+        <p className="muted">{cases ? t('inspect.sourceCases', { date: cases.retrieved.slice(0, 10) }) : ''}</p>
       </div>
     )
   }

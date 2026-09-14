@@ -226,6 +226,21 @@ export const nb: Record<string, string> = {
   'inspect.capacityT': 'Kapasitet (t)',
   'inspect.laterPhases': 'Fysiske, regulatoriske og strømforbindelses-egenskaper for hypotetiske lokaliteter kommer i senere faser.',
 
+  'inspect.cases': 'Saksgang',
+  'inspect.noCases': 'Ingen journalposter i offentlige postjournaler passet denne lokaliteten siden {from}.',
+  'inspect.casesNotLoaded': 'Saksdata er ikke lastet.',
+  'inspect.sourceCases': 'Kilde: eInnsyn offentlig journal (NLOD 2.0), øyeblikksbilde {date}. Oppføringene lenker til eInnsyn, der selve dokumentet kan bestilles.',
+  'case.decision': 'vedtak',
+  'case.refusal': 'avslag',
+  'case.application': 'søknad',
+  'case.statement': 'uttalelse',
+  'case.complaint': 'klage',
+  'case.other': 'journalpost',
+  'case.in': 'inngående',
+  'case.out': 'utgående',
+  'case.internal': 'internt',
+  'hint.cases': 'Journalposter fra fylkeskommuners og statlige etaters offentlige journaler (eInnsyn) de siste tre årene, der tittelen nevner denne lokaliteten (ved navn og kommune, eller lokalitetsnummer). Søknader, uttalelser, vedtak, avslag og klager vises slik de er journalført; merkelappen er utledet fra tittelen. eInnsyn har metadataene, ikke dokumentet: følg lenken og bruk «Bestill innsyn» for å be om filen fra myndigheten. Oppdateres ukentlig.',
+
   // lice chart
   'chart.range.1y': 'Siste år',
   'chart.range.4y': 'Siste 4 år',
@@ -332,6 +347,7 @@ export const nb: Record<string, string> = {
   'help.site.title': 'Detaljpanel',
   'help.site.1': 'Registerfelt fra Akvakulturregisteret: nummer, status, kapasitet, arter, innehavere, formål, produksjonsform, plassering, kommune, produksjonsområde, første klarering, med lenke til registeret.',
   'help.site.2': '**Klikk på en feltverdi** (status, kapasitet, art, formål, produksjonsform, plassering, kommune, produksjonsområde) for å åpne en liste over alle verdier feltet har, med antall lokaliteter; kapasitet tilbyr intervaller i multipler av standardtillatelsen på 780 t. Velg én for å vise bare lokaliteter som passer («Alle» fjerner filteret). Det aktive feltet blir blått med en rød ✕ som fjerner filteret. Filtrene kombineres med oppdrettervalget og huskes.',
+  'help.site.4': '**Saksgang:** journalposter fra offentlige postjournaler (eInnsyn) som nevner lokaliteten — søknader, uttalelser, vedtak, avslag, klager — de siste tre årene, hver med lenke til eInnsyn der dokumentet kan bestilles.',
   'help.site.3': '**Fiskehelse:** sist rapporterte voksne hunnlus per fisk, og et 52-ukers sammendrag av rapporterte uker, uker over grensen 0,5 og uker med behandling, samt snitt lus, topp lus, uker over grensen og behandlingsuker som filtrerbare rader (klikk for intervaller). Manglende ukerapport betyr at anlegget ikke var i drift, aldri null lus.',
   'help.chart.title': 'Lusegraf',
   'help.chart.1': '**Historikk** viser lokalitetens ukentlige voksne hunnlus siden 2012 (marineblå), den røde grensen 0,5, grå felt for brakklagte uker, ▲ mekanisk avlusing og ◆ medikamentell behandling. Hold pekeren over for ukeverdier.',
@@ -358,5 +374,6 @@ export const nb: Record<string, string> = {
   'help.sources.4': 'Kystverket: farleder, farledsareal, ankringsområder, AIS-trafikktetthet 2022–2025 (NLOD 2.0).',
   'help.sources.5': 'Miljødirektoratet: verneområder (NLOD 2.0).',
   'help.sources.6': 'NGU: bunnsediment, ankringsforhold, bunnfellingsområder, helning (NLOD 2.0).',
+  'help.sources.8': 'eInnsyn (Digitaliseringsdirektoratet): journalposter fra fylkeskommuners og etaters offentlige journaler (NLOD 2.0).',
   'help.sources.7': 'Meteorologisk institutt: NorKyst v3-varsel for temperatur, saltholdighet og strøm, siste modelltime (CC BY 4.0).',
 }

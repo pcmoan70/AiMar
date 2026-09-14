@@ -3,11 +3,11 @@ import { useT } from '../lib/i18n'
 const SECTIONS: { id: string; items: number }[] = [
   { id: 'header', items: 4 },
   { id: 'map', items: 7 },
-  { id: 'site', items: 3 },
+  { id: 'site', items: 4 },
   { id: 'chart', items: 4 },
   { id: 'layers', items: 5 },
   { id: 'offline', items: 6 },
-  { id: 'sources', items: 7 },
+  { id: 'sources', items: 8 },
 ]
 
 /** Renders **bold** markup from the dictionary strings. */

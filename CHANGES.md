@@ -2,6 +2,11 @@
 
 ## 2026-09-14
 
+- Case history: a weekly harvest of eInnsyn public-record journal entries
+  about aquaculture cases (last 3 years), matched to localities by name and
+  municipality or locality number, shown as a timeline in the site panel with
+  links to eInnsyn for document requests (`web/scripts/fetch-cases.mjs`).
+
 - Treatment-intensity heatmap layer (Aquaculture tab): share of production
   weeks with a lice treatment over the last 4 years, kernel-smoothed over farms
   within a user-chosen radius R (5–50 km), computed on the device, with legend,

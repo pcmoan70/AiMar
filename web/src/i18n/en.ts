@@ -226,6 +226,21 @@ export const en: Record<string, string> = {
   'inspect.capacityT': 'Capacity (t)',
   'inspect.laterPhases': 'Physical, regulatory and connectivity features for hypothetical sites arrive in later phases.',
 
+  'inspect.cases': 'Case history',
+  'inspect.noCases': 'No public-record entries matched this locality since {from}.',
+  'inspect.casesNotLoaded': 'Case records not loaded.',
+  'inspect.sourceCases': 'Source: eInnsyn public records (NLOD 2.0), snapshot {date}. Entries link to eInnsyn, where the document itself can be requested.',
+  'case.decision': 'decision',
+  'case.refusal': 'refusal',
+  'case.application': 'application',
+  'case.statement': 'statement',
+  'case.complaint': 'complaint',
+  'case.other': 'entry',
+  'case.in': 'received',
+  'case.out': 'sent',
+  'case.internal': 'internal',
+  'hint.cases': 'Journal entries from the public records of county municipalities and state agencies (eInnsyn), for the last three years, whose title names this locality (by site name and municipality, or by locality number). Applications, statements, decisions, refusals and complaints appear as they are journalled; the badge is inferred from the title. eInnsyn holds the metadata, not the document: follow the link and use "Bestill innsyn" to request the file from the authority. Refreshed weekly.',
+
   // lice chart
   'chart.range.1y': 'Last year',
   'chart.range.4y': 'Last 4 years',
@@ -332,6 +347,7 @@ export const en: Record<string, string> = {
   'help.site.title': 'Site panel (Inspect)',
   'help.site.1': 'Register fields from Akvakulturregisteret: number, status, capacity, species, operators, purpose, production form, placement, municipality, production area, first clearance, with a link to the register.',
   'help.site.2': '**Click a field value** (status, capacity, species, purpose, production form, placement, municipality, production area) to open a list of every value that field takes, with site counts; capacity offers ranges in multiples of the 780 t standard licence. Pick one to show only matching sites ("Any" removes it). The active field turns blue with a red ✕ that clears that filter. Filters combine with the operator selection and are remembered.',
+  'help.site.4': '**Case history:** public-record journal entries (eInnsyn) that name the locality — applications, statements, decisions, refusals, complaints — for the last three years, each linking to eInnsyn where the document can be requested.',
   'help.site.3': '**Fish health:** latest reported adult female lice per fish, and a 52-week summary of weeks reported, weeks above the 0.5 limit and weeks with treatment, plus mean lice, peak lice, weeks above the limit and treatment weeks as filterable rows (click for ranges). A missing weekly report means the farm was not operating, never zero lice.',
   'help.chart.title': 'Lice chart',
   'help.chart.1': "**History** shows this site's weekly adult female lice since 2012 (navy), the red 0.5 limit, grey bands for fallow weeks, ▲ mechanical removal and ◆ medicinal treatment. Hover for the weekly values.",
@@ -358,5 +374,6 @@ export const en: Record<string, string> = {
   'help.sources.4': 'Kystverket: fairways, fairway areas, shipping anchorages, AIS traffic density 2022–2025 (NLOD 2.0).',
   'help.sources.5': 'Miljødirektoratet: protected areas (NLOD 2.0).',
   'help.sources.6': 'NGU: seabed sediment, anchoring conditions, deposition areas, slope (NLOD 2.0).',
+  'help.sources.8': 'eInnsyn (Digitaliseringsdirektoratet): public-record journal entries of county municipalities and agencies (NLOD 2.0).',
   'help.sources.7': 'MET Norway: NorKyst v3 forecast temperature, salinity and currents, latest model hour (CC BY 4.0).',
 }

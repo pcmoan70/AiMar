@@ -21,6 +21,7 @@ import { loadLocalities, type Localities, type LocalityFeature } from './lib/loc
 import { filteredLoknrs as computeFiltered } from './lib/filters'
 import FilterChips from './components/FilterChips'
 import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealth'
+import { loadCases, type Cases } from './lib/cases'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
 
@@ -39,11 +40,13 @@ function MapApp() {
   const [selection, setSelection] = useState<Selection | null>(null)
   const [localities, setLocalities] = useState<Localities | null>(null)
   const [fishhealth, setFishhealth] = useState<FishHealth | null>(null)
+  const [cases, setCases] = useState<Cases | null>(null)
   const [menu, setMenu] = useState<MenuState | null>(null)
 
   useEffect(() => {
     loadLocalities().then(setLocalities).catch(console.error)
     loadFishHealth().then(setFishhealth).catch(console.error)
+    loadCases().then(setCases).catch(console.error)
     scheduleJanitor(() => getSettings().cacheLimitGb * 1024 ** 3)
   }, [])
 
@@ -100,7 +103,7 @@ function MapApp() {
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}
-            {s.panel === 'inspect' && <InspectPanel selection={selection} localities={localities} fishhealth={fishhealth} />}
+            {s.panel === 'inspect' && <InspectPanel selection={selection} localities={localities} fishhealth={fishhealth} cases={cases} />}
             {s.panel === 'offline' && <OfflinePanel map={map} />}
             {s.panel === 'help' && <HelpPanel />}
           </aside>

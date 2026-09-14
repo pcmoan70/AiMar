@@ -27,6 +27,15 @@
       "license": "NLOD 2.0",
       "featureCount": 1779,
       "retrieved": "2026-09-14T12:06:48.976Z"
+    },
+    {
+      "file": "cases.json",
+      "organisation": "eInnsyn (Digitaliseringsdirektoratet)",
+      "dataset": "Public-record journal entries on aquaculture cases matched to localities (2023-09-01 onwards)",
+      "url": "https://api.einnsyn.no/search?query=akvakultur",
+      "license": "NLOD 2.0",
+      "featureCount": 28864,
+      "retrieved": "2026-09-14T17:19:57.044Z"
     }
   ]
 }

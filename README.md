@@ -28,6 +28,7 @@ npm run build        # production build in web/dist, includes sw.js + manifest
 npm run preview      # serve the build on http://localhost:4173
 npm run fetch-data   # refresh the bundled locality + site-border snapshot (needs network)
 npm run fetch-fishhealth  # refresh fish-health snapshot (needs BW_CLIENT_ID/SECRET in web/.env.local)
+npm run fetch-cases  # refresh eInnsyn case-history snapshot (no key needed)
 npm test             # unit tests (vitest)
 npm run smoke        # e2e test against the preview server (needs /usr/bin/google-chrome)
 ```
@@ -97,6 +98,7 @@ with `BASE_PATH=/`.
 | Fiskeridirektoratet | Aquaculture localities and site borders (Akvakulturregisteret), spawning areas, protected seabed habitats | NLOD 2.0 |
 | Kystverket | Main/secondary fairways, fairway areas, shipping anchorages, AIS traffic density (MarTraf yearly 2024 and monthly to April 2025; 1 km track density 2022) | NLOD 2.0 |
 | BarentsWatch | Fish health: weekly lice counts, treatments, fallow state, PD/ILA per locality | NLOD 2.0 |
+| eInnsyn (Digitaliseringsdirektoratet) | Public-record journal entries on aquaculture cases (applications, statements, decisions, refusals, complaints) matched to localities | NLOD 2.0 |
 | Miljødirektoratet | Protected areas (Naturvern) | NLOD 2.0 |
 | NGU | Marine base maps: sediment grain size, anchoring conditions, deposition areas, slope | NLOD 2.0 |
 | MET Norway | NorKyst v3 800 m forecast: surface temperature, salinity, current speed and direction (latest model hour, via thredds ncWMS) | CC BY 4.0 |
