@@ -92,6 +92,7 @@ export const nb: Record<string, string> = {
   'inspect.liceMax': 'Topp lus (52 u)',
   'inspect.liceAbove': 'Uker over grensen',
   'inspect.liceTreat': 'Behandlingsuker',
+  'hint.close': 'Lukk',
   'hint.liceMean': `Gjennomsnitt av ukentlig rapporterte voksne hunnlus per fisk over øyeblikksbildets siste 52 uker; uker uten rapport (ikke i drift) utelates. Klikk for å velge intervaller å filtrere kartet etter. ${BW}`,
   'hint.liceMax': `Høyeste ukentlig rapporterte voksne hunnlus per fisk de siste 52 ukene — den verste toppen. Klikk for å velge intervaller å filtrere kartet etter. ${BW}`,
   'hint.liceAbove': `Antall uker av de siste 52 der rapportert snitt oversteg 0,5 voksne hunnlus per fisk. Klikk for å velge intervaller å filtrere kartet etter. ${BW}`,
@@ -330,7 +331,7 @@ export const nb: Record<string, string> = {
   'hint.snapshot': 'Dato de innpakkede datasettene ble lastet ned fra kildene; en ukentlig jobb oppdaterer dem og publiserer appen på nytt.',
 
   // help
-  'help.intro': 'Et kart med åpne data over norske akvakulturlokaliteter og forholdene rundt dem, laget for å virke uten nett. Alle tall i appen har prikket understrek: hold pekeren over, trykk eller fokuser for å se kilde og beregningsmåte.',
+  'help.intro': 'Et kart med åpne data over norske akvakulturlokaliteter og forholdene rundt dem, laget for å virke uten nett. Alle tall i appen har prikket understrek: hold pekeren over, trykk eller fokuser for å se kilde og beregningsmåte; boblen blir stående så lenge pekeren er på den, og lukkes med ✕ eller Escape.',
   'help.header.title': 'Topplinje',
   'help.header.1': '**Søk** finner en lokalitet etter navn eller nummer og flyr dit.',
   'help.header.2': '**Kartlag**, **Detaljer** og **Hjelp** åpner sidepanelet.',

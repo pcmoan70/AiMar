@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Explanation popups (dotted-underlined figures) are now light with a black ✕
+  in the upper-right corner; they stay open while the pointer is on the popup
+  and close with ✕, Escape or leaving it.
 - Case history: a weekly harvest of eInnsyn public-record journal entries
   about aquaculture cases (last 3 years), matched to localities by name and
   municipality or locality number, shown as a timeline in the site panel with

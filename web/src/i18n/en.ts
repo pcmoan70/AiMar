@@ -92,6 +92,7 @@ export const en: Record<string, string> = {
   'inspect.liceMax': 'Peak lice (52 w)',
   'inspect.liceAbove': 'Weeks above limit',
   'inspect.liceTreat': 'Treatment weeks',
+  'hint.close': 'Close',
   'hint.liceMean': `Average of the weekly reported adult female lice per fish over the last 52 weeks of the snapshot; weeks without a report (not operating) are left out. Click to choose ranges to filter the map by. ${BW}`,
   'hint.liceMax': `Highest weekly reported adult female lice per fish in the last 52 weeks — the worst spike. Click to choose ranges to filter the map by. ${BW}`,
   'hint.liceAbove': `Number of weeks in the last 52 where the reported average exceeded 0.5 adult female lice per fish. Click to choose ranges to filter the map by. ${BW}`,
@@ -330,7 +331,7 @@ export const en: Record<string, string> = {
   'hint.snapshot': 'Date the bundled datasets were downloaded from their sources; a weekly job refreshes them and redeploys the app.',
 
   // help (sections; items use **bold** markup)
-  'help.intro': 'An open-data map of Norwegian aquaculture sites and the conditions around them, built to keep working offline. Every figure in the app has a dotted underline: hover, tap or focus it to see its source and how it was calculated.',
+  'help.intro': 'An open-data map of Norwegian aquaculture sites and the conditions around them, built to keep working offline. Every figure in the app has a dotted underline: hover, tap or focus it to see its source and how it was calculated; the popup stays while the pointer is on it and closes with its ✕ or Escape.',
   'help.header.title': 'Header',
   'help.header.1': '**Search** finds a locality by name or number and flies to it.',
   'help.header.2': '**Layers**, **Inspect** and **Help** open the side panel.',

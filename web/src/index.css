@@ -185,10 +185,15 @@ a { color: var(--brand); }
 div.hint { text-decoration: none; }
 .hint:focus-visible { box-shadow: 0 0 0 2px var(--brand); border-radius: 3px; }
 .hint-pop {
-  position: fixed; max-width: 300px; z-index: 50; pointer-events: none;
-  background: var(--fg); color: #fff; font-size: 12px; line-height: 1.4; padding: 8px 10px; border-radius: 6px;
-  box-shadow: 0 4px 16px rgba(0,0,0,.3);
+  position: fixed; max-width: 300px; z-index: 50;
+  background: #fff; color: var(--fg); border: 1px solid var(--line); font-size: 12px; line-height: 1.4;
+  padding: 8px 28px 8px 10px; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,.3);
 }
+.hint-pop .hint-close {
+  position: absolute; top: 3px; right: 3px; width: 20px; height: 20px; padding: 0; margin: 0;
+  border: 0; border-radius: 4px; background: none; color: #000; font-size: 14px; line-height: 20px; cursor: pointer;
+}
+.hint-pop .hint-close:hover { background: #eee; }
 
 /* Hover card on the map */
 .hover-card {
