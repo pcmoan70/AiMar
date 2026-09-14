@@ -2,6 +2,11 @@
 
 ## 2026-09-14
 
+- Overlay tabs: the count circle on each tab is a group switch — orange when
+  layers are on (click to switch them all off, the selection is remembered),
+  outlined when off (click to restore the selection or enable the group).
+- Hover: depth areas show as a range with unit (e.g. 40–50 m).
+
 - Base map moved to a ⚙ Settings dropdown in the header; the layer panel holds overlays only.
 
 - Caching: overlay and base-tile caches raised to 40 000 entries (90/180

@@ -16,6 +16,8 @@ export interface Settings {
   operatorFilter: string[]
   /** Open overlay tab in the layer panel. */
   layerTab: Category
+  /** Per tab: which overlays were on before the group was switched off, restored on switch-on. */
+  groupMemory: Partial<Record<Category, string[]>>
 }
 
 const KEY = 'aimar.settings.v1'
@@ -28,6 +30,7 @@ export const DEFAULT_SETTINGS: Settings = {
   panel: 'layers',
   operatorFilter: [],
   layerTab: 'aquaculture',
+  groupMemory: {},
 }
 
 function load(): Settings {

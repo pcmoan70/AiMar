@@ -19,6 +19,8 @@ describe('parseInfo', () => {
     expect(parseInfo({ kind: 'mapserver', keys: ['ankringsforhold'] }, txt)).toBe('Gode ankringsforhold (sand, grus)')
     expect(parseInfo({ kind: 'mapserver' }, 'GetFeatureInfo results:\n\n  Search returned no results.\n')).toBeNull()
     expect(parseInfo({ kind: 'mapserver' }, '<ServiceExceptionReport/>')).toBeNull()
+    const depth = "GetFeatureInfo results:\n\nLayer 'Dybdelag'\n  Feature 5:\n    minimumsdybde = '40'\n    maksimumsdybde = '50'\n"
+    expect(parseInfo({ kind: 'mapserver', keys: ['minimumsdybde', 'maksimumsdybde'], unit: 'm' }, depth)).toBe('40–50 m')
     const bare = "GetFeatureInfo results:\n\nLayer 'layer_554'\n  Feature 2: \n"
     expect(parseInfo({ kind: 'mapserver', presence: 'inside a fairway area' }, bare)).toBe('inside a fairway area')
   })

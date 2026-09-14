@@ -59,13 +59,15 @@ export function infoUrl(layer: LayerDef, lngLat: [number, number], metresPerPixe
 
 const KEY_HINT = /navn|name|type|kategori|verneform|art|klasse|class|omrade|beskr|kornst|helning|ankr|bunnfell|leid|status/i
 
-function summarise(props: Record<string, unknown>, keys?: string[]): string | null {
+function summarise(props: Record<string, unknown>, keys?: string[], unit?: string): string | null {
   const entries = Object.entries(props).filter(([, v]) => v != null && v !== '' && typeof v !== 'object')
   if (!entries.length) return null
   const preferred = keys?.map((k) => entries.find(([ek]) => ek.toLowerCase() === k.toLowerCase())).filter(Boolean) as [string, unknown][]
   const picked = preferred?.length ? preferred : entries.filter(([k]) => KEY_HINT.test(k)).slice(0, 2)
   const use = picked.length ? picked : entries.slice(0, 1)
-  return use.map(([, v]) => String(v)).join(' · ')
+  if (unit && use.length === 2 && use.every(([, v]) => Number.isFinite(Number(v))))
+    return `${use[0][1]}–${use[1][1]} ${unit}`
+  return use.map(([, v]) => String(v)).join(' · ') + (unit && use.length === 1 && Number.isFinite(Number(use[0][1])) ? ` ${unit}` : '')
 }
 
 /** Reduce a GetFeatureInfo response to a short label, or null when nothing is there. */
@@ -86,7 +88,7 @@ export function parseInfo(spec: InfoSpec, text: string): string | null {
     try {
       const fc = JSON.parse(text)
       const f = fc.features?.[0]
-      return f ? (summarise(f.properties ?? {}, spec.keys) ?? spec.presence ?? 'present') : null
+      return f ? (summarise(f.properties ?? {}, spec.keys, spec.unit) ?? spec.presence ?? 'present') : null
     } catch {
       return null
     }
@@ -98,5 +100,5 @@ export function parseInfo(spec: InfoSpec, text: string): string | null {
     const m = line.match(/^\s*([\w.]+)\s*=\s*'?(.*?)'?\s*$/)
     if (m && !props[m[1]]) props[m[1]] = m[2]
   }
-  return summarise(props, spec.keys) ?? (/Feature \d+/.test(text) ? (spec.presence ?? 'present') : null)
+  return summarise(props, spec.keys, spec.unit) ?? (/Feature \d+/.test(text) ? (spec.presence ?? 'present') : null)
 }

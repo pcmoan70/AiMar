@@ -19,14 +19,24 @@ header {
 header h1 { font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px; }
 nav { display: flex; gap: 4px; }
 .tabs { display: flex; flex-wrap: wrap; gap: 4px; margin: 4px 0 8px; border-bottom: 1px solid var(--line); padding-bottom: 6px; }
-.tabs button {
-  background: transparent; color: var(--muted); border: 1px solid transparent; border-radius: 6px;
-  padding: 4px 8px; font-size: 13px; display: inline-flex; align-items: center; gap: 5px;
+.tab { display: inline-flex; align-items: center; border-radius: 6px; }
+.tab.active { background: var(--brand); }
+.tab > button[role=tab] {
+  background: transparent; color: var(--muted); border: 0; border-radius: 6px 0 0 6px;
+  padding: 4px 4px 4px 8px; font-size: 13px;
 }
-.tabs button.active { background: var(--brand); color: #fff; }
-.tabs button:not(.active):hover { background: #eef2f5; color: var(--fg); }
-.badge { background: rgba(255,255,255,.25); color: inherit; border-radius: 9px; font-size: 11px; padding: 0 6px; line-height: 16px; }
-.tabs button:not(.active) .badge { background: var(--accent); color: #fff; }
+.tab.active > button[role=tab] { color: #fff; }
+.tab:not(.active):hover { background: #eef2f5; }
+.tab:not(.active):hover > button[role=tab] { color: var(--fg); }
+.badge {
+  width: 18px; height: 18px; padding: 0; margin: 0 6px 0 2px; border-radius: 50%; font-size: 11px; line-height: 16px;
+  display: inline-flex; align-items: center; justify-content: center;
+  background: transparent; color: var(--muted); border: 1px solid var(--muted);
+}
+.badge.on { background: var(--accent); color: #fff; border-color: var(--accent); }
+.tab.active .badge { color: #fff; border-color: rgba(255,255,255,.7); }
+.tab.active .badge.on { color: #fff; border-color: var(--accent); }
+.badge:hover { filter: brightness(1.1); }
 .search { position: relative; flex: 1; max-width: 360px; margin: 0 12px; }
 .search input {
   width: 100%; padding: 6px 10px; border: 0; border-radius: 6px; font: inherit;
