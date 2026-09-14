@@ -5,6 +5,7 @@ const CACHE_LABEL = { precache: 'bundled', 'cache-first': 'cached on view', fore
 
 export default function LayerPanel() {
   const s = useSettings()
+  const base = BASE_LAYERS.find((l) => l.id === s.baseLayer) ?? BASE_LAYERS[0]
   const toggle = (id: string) =>
     updateSettings({
       overlays: s.overlays.includes(id) ? s.overlays.filter((o) => o !== id) : [...s.overlays, id],
@@ -13,22 +14,18 @@ export default function LayerPanel() {
   return (
     <div className="panel-body">
       <h2>Base map</h2>
-      {BASE_LAYERS.map((l) => (
-        <label key={l.id} className="row">
-          <input
-            type="radio"
-            name="base"
-            checked={s.baseLayer === l.id}
-            onChange={() => updateSettings({ baseLayer: l.id })}
-          />
-          <span>
-            {l.title}
-            <small>
-              {l.organisation} · {l.license}
-            </small>
-          </span>
-        </label>
-      ))}
+      <label className="row base-select">
+        <select value={s.baseLayer} onChange={(e) => updateSettings({ baseLayer: e.target.value })} aria-label="Base map">
+          {BASE_LAYERS.map((l) => (
+            <option key={l.id} value={l.id}>
+              {l.title}
+            </option>
+          ))}
+        </select>
+        <small>
+          {base.organisation} · {base.license}
+        </small>
+      </label>
       <h2>Overlays</h2>
       <div className="tabs" role="tablist">
         {CATEGORIES.map((c) => {

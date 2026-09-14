@@ -66,6 +66,8 @@ aside {
 .row { display: flex; gap: 8px; align-items: flex-start; padding: 5px 0; cursor: pointer; }
 .row input { margin-top: 3px; }
 .row select { margin-left: auto; }
+.base-select { flex-direction: column; align-items: stretch; gap: 4px; cursor: default; }
+.base-select select { margin: 0; width: 100%; font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); }
 .row span { display: flex; flex-direction: column; }
 small { color: var(--muted); font-size: 12px; }
 .muted { color: var(--muted); }

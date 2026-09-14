@@ -2,6 +2,8 @@
 
 ## 2026-09-14
 
+- Layer panel: base map is a dropdown instead of a radio list.
+
 - Caching: overlay and base-tile caches raised to 40 000 entries (90/180
   days), a same-origin cache for climatology images, MapLibre keeps 300 decoded
   tiles per source in memory, and the Offline panel shows live cache counts.
