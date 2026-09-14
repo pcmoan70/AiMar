@@ -1,7 +1,24 @@
 # Changes
 
+## 2026-09-15
+
+- Fourteen Fiskeridirektoratet overlays: production areas with traffic-light
+  status, NYTEK moorings and current-measurement points, escapes, PD/ILA zones,
+  deleted localities (Aquaculture tab); national salmon fjords, coral-reef bans,
+  shellfish beds (Environment); new Fisheries tab with fishing grounds for
+  passive and active gear, fishing activity since 2011, cod spawning fields and
+  seine lock-up sites. All hover-readable.
+- New resumable fetchers: `fetch-seatemp.mjs` (weekly farm-reported sea
+  temperature per site from BarentsWatch, 2012→) and `fetch-tides.mjs`
+  (Kartverket tide API: mean/max tidal range, mean high/low water per site).
+  Both skip what a previous run completed.
+
 ## 2026-09-14
 
+- Documents published on eInnsyn (about 5 % of entries, mostly county
+  governors) are fetched by `scripts/fetch-docs.mjs`: originals kept under
+  `DOCS_DIR` (the external drive locally), first 500 characters extracted with
+  pdftotext into `docs.json`, shown under the entry with a link to the file.
 - Explanation popups have a prohibition-sign button (ISO 7010 P001) that
   blocks that explanation; ⚙ Settings
   gets "Unblock explanations (n)" to show them again. Blocks persist on the

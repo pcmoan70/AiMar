@@ -9,6 +9,7 @@ import { numberLocale, useT } from '../lib/i18n'
 import type { HintKey } from '../lib/hints'
 import LiceChart from './LiceChart'
 import Hint from './Hint'
+import CaseDocs from './CaseDocs'
 import FieldPicker from './FieldPicker'
 import type { Selection } from './MapView'
 
@@ -182,6 +183,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases 
                     <small className="muted">
                       {e.entity} · {t(`case.${e.type ?? 'internal'}`)}
                     </small>
+                    <CaseDocs docs={cases.docs?.[e.id]} />
                   </li>
                 ))}
               </ul>

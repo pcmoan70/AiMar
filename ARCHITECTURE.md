@@ -162,6 +162,14 @@ writes `cases.json`: entries (date, authority, direction, title, archive
 identifiers for the einnsyn.no link), a case map (number, title) and the
 locality → entry index. Precached like the other data files.
 
+`scripts/fetch-docs.mjs` looks up the entries of `cases.json` in batches of
+100 (`/search?ids=…&expand=dokumentbeskrivelse.dokumentobjekt`), downloads
+every published file from `/dokumentobjekt/{id}/download` into `DOCS_DIR`
+(scratch by default; `/media/pc/ext4TB/AiMar/docs/einnsyn` locally), extracts
+the first 500 characters with `pdftotext` and writes `docs.json` (entry id →
+documents with title, format, size, excerpt). Incremental: entries already
+looked up are skipped. The app links the file on the eInnsyn API.
+
 ## Testing
 
 `npm test` runs Vitest unit tests for the pure modules (tile enumeration and

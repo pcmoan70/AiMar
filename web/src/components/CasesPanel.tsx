@@ -3,6 +3,7 @@ import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, se
 import type { Localities } from '../lib/localities'
 import { useT } from '../lib/i18n'
 import Hint from './Hint'
+import CaseDocs from './CaseDocs'
 
 interface Props {
   cases: Cases | null
@@ -69,6 +70,7 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
         {' · '}
         {r.entry.entity} · {t(`case.${r.entry.type ?? 'internal'}`)}
       </small>
+      <CaseDocs docs={cases?.docs?.[r.entry.id]} />
     </li>
   )
 

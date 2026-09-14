@@ -282,6 +282,9 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
 .case-title { grid-column: 1 / -1; color: var(--fg); text-decoration: none; }
 .case-title:hover { text-decoration: underline; }
 .case small { grid-column: 1 / -1; }
+.case-doc { grid-column: 1 / -1; font-size: 12px; margin-top: 2px; }
+.case-doc a { color: var(--brand); }
+.case-excerpt { margin: 2px 0 0; padding-left: 8px; border-left: 2px solid var(--line); color: var(--muted); font-style: italic; }
 .case-decision { border-left-color: #008300; }
 .case-refusal { border-left-color: #b42318; }
 .case-application { border-left-color: #2a78d6; }

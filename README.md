@@ -1,6 +1,6 @@
 # AiMar – Norwegian Aquaculture Site Intelligence
 
-_Updated 2026-09-14_
+_Updated 2026-09-15_
 
 AiMar is an open-data GIS for assessing salmon-farming sites along the Norwegian
 coast. The long-term goal is answering **"what would happen if a salmon farm were
@@ -28,6 +28,9 @@ npm run build        # production build in web/dist, includes sw.js + manifest
 npm run preview      # serve the build on http://localhost:4173
 npm run fetch-data   # refresh the bundled locality + site-border snapshot (needs network)
 npm run fetch-fishhealth  # refresh fish-health snapshot (needs BW_CLIENT_ID/SECRET in web/.env.local)
+node scripts/fetch-seatemp.mjs  # weekly sea temperature per site (BarentsWatch), resumable
+node scripts/fetch-tides.mjs    # tidal statistics per site (Kartverket), resumable
+node scripts/fetch-docs.mjs  # documents published on eInnsyn: originals to DOCS_DIR, 500-char excerpts to docs.json (needs pdftotext)
 npm run fetch-cases  # eInnsyn case-history snapshot: incremental since last run (no key needed); --full re-harvests, --rematch re-runs matching only
 npm test             # unit tests (vitest)
 npm run smoke        # e2e test against the preview server (needs /usr/bin/google-chrome)
@@ -54,7 +57,10 @@ with `BASE_PATH=/`.
   areas and slope (NGU), NorKyst v3 surface temperature, salinity and currents
   (MET Norway), fairways, fairway areas, shipping anchorages and AIS vessel
   track density (Kystverket), licensed site borders and all active aquaculture
-  localities (bundled vector data). Layers with a colour scale show a legend
+  localities (bundled vector data); Fiskeridirektoratet production areas with
+  traffic-light status, NYTEK moorings, escapes, PD/ILA zones, deleted sites,
+  national salmon fjords, coral bans, shellfish beds, and a Fisheries tab with
+  fishing grounds, fishing activity, cod spawning fields and lock-up sites. Layers with a colour scale show a legend
   when enabled.
 - Search box in the header finds a locality by name or number and flies to it.
 - Operator dropdown on the map filters dots and site borders to selected

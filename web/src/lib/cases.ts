@@ -13,10 +13,22 @@ export interface CaseEntry {
   title: string
 }
 
+export interface CaseDoc {
+  id: string
+  title: string
+  format: string
+  bytes: number
+  /** first characters of the document text (pdftotext), empty when not extractable */
+  excerpt: string
+}
+
 export interface Cases {
   retrieved: string
   from: string
   entries: CaseEntry[]
+  /** entry id -> documents published on eInnsyn (from docs.json, when present) */
+  docs?: Record<string, CaseDoc[]>
+  docsRetrieved?: string
   /** case externalId -> case number and title (harvests from 2026-09-14 on) */
   cases?: Record<string, { nr: string; title: string }>
   /** locality number -> indexes into entries, newest first */
@@ -26,8 +38,22 @@ export interface Cases {
 export async function loadCases(): Promise<Cases> {
   const res = await fetch(dataUrl('cases.json'))
   if (!res.ok) throw new Error(`cases: HTTP ${res.status}`)
-  return res.json()
+  const data: Cases = await res.json()
+  try {
+    const d = await fetch(dataUrl('docs.json'))
+    if (d.ok) {
+      const j = await d.json()
+      data.docs = j.docs
+      data.docsRetrieved = j.retrieved
+    }
+  } catch {
+    /* documents are optional */
+  }
+  return data
 }
+
+/** The file itself, served by the eInnsyn API. */
+export const docUrl = (d: CaseDoc) => `https://api.einnsyn.no/dokumentobjekt/${d.id}/download`
 
 export const casesFor = (data: Cases, loknr: number): CaseEntry[] => (data.localities[String(loknr)] ?? []).map((i) => data.entries[i])
 

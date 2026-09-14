@@ -28,7 +28,7 @@ export default defineConfig({
       workbox: {
         // App shell plus bundled data snapshots are precached at install.
         globPatterns: ['**/*.{js,css,html,svg,png,geojson,json}'],
-        maximumFileSizeToCacheInBytes: 16 * 1024 * 1024,
+        maximumFileSizeToCacheInBytes: 40 * 1024 * 1024, // cases.json is ~20 MB
         navigateFallback: 'index.html',
         // Control the page from the first load so tiles are cached immediately.
         clientsClaim: true,
