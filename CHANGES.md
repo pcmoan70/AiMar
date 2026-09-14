@@ -2,13 +2,15 @@
 
 ## 2026-09-14
 
-- Layer panel: base map is a dropdown instead of a radio list.
+- Base map moved to a ⚙ Settings dropdown in the header; the layer panel holds overlays only.
 
 - Caching: overlay and base-tile caches raised to 40 000 entries (90/180
   days), a same-origin cache for climatology images, MapLibre keeps 300 decoded
   tiles per source in memory, and the Offline panel shows live cache counts.
 
-- Map hover: a card follows the pointer listing what every enabled overlay
+- Map hover: a card follows the pointer listing every enabled overlay (a dash
+  when nothing is there), including bathymetry depth areas and current
+  direction as compass bearings; the card lists what every enabled overlay
   shows at that point — locality and operators, site border, AIS traffic level
   (sampled from decoded tiles), and GetFeatureInfo answers from NorKyst
   (values), Miljødirektoratet / Fiskeridirektoratet (features) and NGU /

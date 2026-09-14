@@ -6,6 +6,7 @@ import InspectPanel from './components/InspectPanel'
 import OfflinePanel from './components/OfflinePanel'
 import OperatorDropdown from './components/OperatorDropdown'
 import HoverInfo from './components/HoverInfo'
+import SettingsMenu from './components/SettingsMenu'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
 import SearchBox from './components/SearchBox'
@@ -72,6 +73,7 @@ function MapApp() {
               {t.label}
             </button>
           ))}
+          <SettingsMenu />
           <button onClick={logout} title="Sign out">
             Log out
           </button>

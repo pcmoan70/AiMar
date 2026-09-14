@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import type { Map as MlMap, MapMouseEvent } from 'maplibre-gl'
-import { OVERLAY_LAYERS, layerById, type LayerDef } from '../lib/layers'
+import { CATEGORIES, overlaysIn, type LayerDef } from '../lib/layers'
 import { infoUrl, parseInfo, toMerc } from '../lib/featureInfo'
 import { sampleDensity } from '../lib/tileFilters'
 import { getSettings } from '../lib/settings'
@@ -13,8 +13,11 @@ interface Props {
 interface Row {
   id: string
   title: string
-  value: string
+  /** null = nothing at this point, undefined = still loading */
+  value: string | null | undefined
 }
+
+const NO_LOOKUP = 'no point lookup available'
 
 const DEBOUNCE_MS = 250
 const cache = new Map<string, string | null>()
@@ -33,29 +36,23 @@ export default function HoverInfo({ map }: Props) {
     if (!map) return
     const onMove = (e: MapMouseEvent) => {
       const s = getSettings()
-      const enabled = OVERLAY_LAYERS.filter((l) => s.overlays.includes(l.id))
-      const instant: Row[] = []
-
-      // Vector layers: immediate
-      if (s.overlays.includes('localities') && map.getLayer('localities')) {
-        const f = map.queryRenderedFeatures(e.point, { layers: ['localities'] })[0]
-        if (f) {
-          const p = f.properties as LocalityProps
-          instant.push({ id: 'localities', title: 'Locality', value: `${p.navn} (${p.loknr})${p.til_innehavere ? ` · ${p.til_innehavere}` : ''}` })
-        }
-      }
-      if (!instant.length && s.overlays.includes('site-polygons') && map.getLayer('site-polygons')) {
-        const f = map.queryRenderedFeatures(e.point, { layers: ['site-polygons'] })[0]
-        if (f) instant.push({ id: 'site-polygons', title: 'Site border', value: `${f.properties.name ?? ''} (${f.properties.loknr})` })
-      }
-
-      // Density layers: sampled from decoded tiles
+      // Every enabled overlay, in tab order, gets a row
+      const enabled = CATEGORIES.flatMap((c) => overlaysIn(c.id)).filter((l) => s.overlays.includes(l.id))
       const [mx, my] = toMerc(e.lngLat.lng, e.lngLat.lat)
-      for (const l of enabled) {
-        if (!l.tileFilter || !l.wmsLayers) continue
-        const v = sampleDensity(l.wmsLayers, mx, my)
-        if (v) instant.push({ id: l.id, title: shortTitle(l), value: v })
-      }
+      const instant: Row[] = enabled.map((l) => {
+        if (l.id === 'localities') {
+          const f = map.getLayer('localities') ? map.queryRenderedFeatures(e.point, { layers: ['localities'] })[0] : undefined
+          const p = f?.properties as LocalityProps | undefined
+          return { id: l.id, title: 'Locality', value: p ? `${p.navn} (${p.loknr})${p.til_innehavere ? ` · ${p.til_innehavere}` : ''}` : null }
+        }
+        if (l.id === 'site-polygons') {
+          const f = map.getLayer('site-polygons') ? map.queryRenderedFeatures(e.point, { layers: ['site-polygons'] })[0] : undefined
+          return { id: l.id, title: 'Site border', value: f ? `${f.properties.name ?? ''} (${f.properties.loknr})` : null }
+        }
+        if (l.tileFilter && l.wmsLayers) return { id: l.id, title: shortTitle(l), value: sampleDensity(l.wmsLayers, mx, my) ?? null }
+        if (l.info) return { id: l.id, title: shortTitle(l), value: undefined }
+        return { id: l.id, title: shortTitle(l), value: NO_LOOKUP }
+      })
 
       setPos({ x: e.point.x, y: e.point.y })
       setRows(instant)
@@ -73,25 +70,25 @@ export default function HoverInfo({ map }: Props) {
         const mpp = (40075016.686 * Math.cos((lat * Math.PI) / 180)) / 256 / 2 ** map.getZoom()
         const key = (l: LayerDef) => `${l.id}|${e.lngLat.lng.toFixed(4)}|${e.lngLat.lat.toFixed(4)}|${Math.round(map.getZoom())}`
         const results = await Promise.all(
-          queryable.map(async (l): Promise<Row | null> => {
+          queryable.map(async (l): Promise<[string, string | null]> => {
             const k = key(l)
             if (!cache.has(k)) {
               const url = infoUrl(l, [e.lngLat.lng, e.lngLat.lat], mpp)
-              if (!url) return null
+              if (!url) return [l.id, null]
               try {
                 const res = await fetch(url, { signal: ctrl.signal })
                 cache.set(k, res.ok ? parseInfo(l.info!, await res.text()) : null)
               } catch {
-                return null
+                return [l.id, null]
               }
               if (cache.size > 2000) cache.delete(cache.keys().next().value!)
             }
-            const v = cache.get(k)
-            return v ? { id: l.id, title: shortTitle(l), value: v } : null
+            return [l.id, cache.get(k) ?? null]
           }),
         )
         if (mine !== seq.current) return
-        setRows((prev) => [...prev.filter((r) => !queryable.some((l) => l.id === r.id)), ...(results.filter(Boolean) as Row[])])
+        const got = new Map(results)
+        setRows((prev) => prev.map((r) => (got.has(r.id) ? { ...r, value: got.get(r.id) ?? null } : r)))
       }, DEBOUNCE_MS)
     }
     const onLeave = () => {
@@ -115,8 +112,10 @@ export default function HoverInfo({ map }: Props) {
     <div className="hover-card" style={{ left: pos.x + (flipX ? -16 : 16), top: pos.y + 16, transform: flipX ? 'translateX(-100%)' : undefined }}>
       {rows.map((r) => (
         <div key={r.id} className="hover-row">
-          <span className="hover-title">{layerById(r.id)?.category === 'aquaculture' ? r.title : r.title}</span>
-          <span className="hover-value">{r.value}</span>
+          <span className="hover-title">{r.title}</span>
+          <span className={`hover-value${r.value ? '' : ' muted'}`}>
+            {r.value === undefined ? '…' : r.value === null ? '– nothing here' : r.value}
+          </span>
         </div>
       ))}
     </div>

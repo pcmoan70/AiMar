@@ -66,8 +66,15 @@ aside {
 .row { display: flex; gap: 8px; align-items: flex-start; padding: 5px 0; cursor: pointer; }
 .row input { margin-top: 3px; }
 .row select { margin-left: auto; }
-.base-select { flex-direction: column; align-items: stretch; gap: 4px; cursor: default; }
-.base-select select { margin: 0; width: 100%; font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); }
+.settings-menu { position: relative; }
+.settings-pop {
+  position: absolute; top: 100%; right: 0; margin-top: 6px; min-width: 260px; z-index: 30;
+  background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.25); padding: 12px; display: flex; flex-direction: column; gap: 10px;
+}
+.settings-pop label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; font-weight: 600; }
+.settings-pop select { font: inherit; font-weight: 400; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); }
+.settings-pop small { font-weight: 400; }
 .row span { display: flex; flex-direction: column; }
 small { color: var(--muted); font-size: 12px; }
 .muted { color: var(--muted); }
@@ -170,4 +177,5 @@ div.hint { text-decoration: none; }
 .hover-row { display: flex; flex-direction: column; }
 .hover-title { color: var(--muted); font-size: 11px; }
 .hover-value { font-weight: 600; }
+.hover-value.muted { font-weight: 400; }
 @media (hover: none) { .hover-card { display: none; } }

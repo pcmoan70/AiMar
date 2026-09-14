@@ -14,7 +14,12 @@ export interface InfoSpec {
   unit?: string
   /** Label when a feature is present but carries no usable attributes. */
   presence?: string
+  /** ncWMS direction layer: value is a bearing, shown with a compass label. */
+  direction?: boolean
 }
+
+const COMPASS = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW']
+export const compass = (deg: number) => COMPASS[Math.round((((deg % 360) + 360) % 360) / 45) % 8]
 
 const R = 6378137
 export const toMerc = (lng: number, lat: number): [number, number] => [
@@ -70,7 +75,12 @@ export function parseInfo(spec: InfoSpec, text: string): string | null {
     const m = text.match(/<value>([^<]+)<\/value>/)
     if (!m) return null
     const v = Number(m[1])
-    return Number.isFinite(v) ? `${v.toFixed(2)}${spec.unit ? ` ${spec.unit}` : ''}` : m[1]
+    if (!Number.isFinite(v)) return m[1]
+    if (spec.direction) {
+      const deg = ((v % 360) + 360) % 360
+      return `towards ${compass(deg)} (${deg.toFixed(0)}°)`
+    }
+    return `${v.toFixed(2)}${spec.unit ? ` ${spec.unit}` : ''}`
   }
   if (spec.kind === 'arcgis') {
     try {

@@ -99,6 +99,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'dybdedata',
+    info: { kind: 'mapserver', layers: 'Dybdelag,Dybdekontur,grunne', keys: ['dybde', 'minimumsdybde', 'maksimumsdybde', 'dybdeverdi'], unit: 'm', presence: 'charted depth area' },
     category: 'seabed',
     title: 'Bathymetry (Kartverket Dybdedata)',
     group: 'overlay',
@@ -283,6 +284,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'norkyst-arrows',
+    info: { kind: 'ncwms', direction: true },
     category: 'ocean',
     title: 'Surface current direction (NorKyst v3)',
     group: 'overlay',

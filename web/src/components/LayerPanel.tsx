@@ -1,11 +1,10 @@
-import { BASE_LAYERS, CATEGORIES, LEGEND, overlaysIn } from '../lib/layers'
+import { CATEGORIES, LEGEND, overlaysIn } from '../lib/layers'
 import { updateSettings, useSettings } from '../lib/settings'
 
 const CACHE_LABEL = { precache: 'bundled', 'cache-first': 'cached on view', forecast: 'forecast, cached 1 day' }
 
 export default function LayerPanel() {
   const s = useSettings()
-  const base = BASE_LAYERS.find((l) => l.id === s.baseLayer) ?? BASE_LAYERS[0]
   const toggle = (id: string) =>
     updateSettings({
       overlays: s.overlays.includes(id) ? s.overlays.filter((o) => o !== id) : [...s.overlays, id],
@@ -13,19 +12,6 @@ export default function LayerPanel() {
 
   return (
     <div className="panel-body">
-      <h2>Base map</h2>
-      <label className="row base-select">
-        <select value={s.baseLayer} onChange={(e) => updateSettings({ baseLayer: e.target.value })} aria-label="Base map">
-          {BASE_LAYERS.map((l) => (
-            <option key={l.id} value={l.id}>
-              {l.title}
-            </option>
-          ))}
-        </select>
-        <small>
-          {base.organisation} · {base.license}
-        </small>
-      </label>
       <h2>Overlays</h2>
       <div className="tabs" role="tablist">
         {CATEGORIES.map((c) => {

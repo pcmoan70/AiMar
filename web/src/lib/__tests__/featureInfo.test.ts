@@ -7,6 +7,7 @@ describe('parseInfo', () => {
     const xml = '<FeatureInfoResponse><Feature><FeatureInfo><value>15.012</value></FeatureInfo></Feature></FeatureInfoResponse>'
     expect(parseInfo({ kind: 'ncwms', unit: '°C' }, xml)).toBe('15.01 °C')
     expect(parseInfo({ kind: 'ncwms' }, '<FeatureInfoResponse><longitude>5</longitude></FeatureInfoResponse>')).toBeNull()
+    expect(parseInfo({ kind: 'ncwms', direction: true }, '<FeatureInfoResponse><Feature><FeatureInfo><value>147.6</value></FeatureInfo></Feature></FeatureInfoResponse>')).toBe('towards SE (148°)')
   })
   it('summarises ArcGIS GeoJSON features by preferred keys', () => {
     const json = JSON.stringify({ type: 'FeatureCollection', features: [{ properties: { objectid: 1, navn: 'Jærstrendene', verneform: 'Landskapsvernområde' } }] })

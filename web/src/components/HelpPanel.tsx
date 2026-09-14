@@ -11,7 +11,7 @@ export default function HelpPanel() {
         <li>Type a name or locality number in the search box to fly to a site.</li>
         <li>The operator dropdown in the map's top-left corner limits the dots and site borders to chosen operators; use "Zoom to sites" to see them all.</li>
         <li>Click anywhere else in the sea to profile a hypothetical site: nearest farm, farms within 5–50 km and regional lice pressure.</li>
-        <li>Use <b>Layers</b> to change base map and overlays. Overlays are grouped in tabs (Aquaculture, Seabed, Ocean, Environment, Shipping), most useful first; a badge shows how many are on. Choices are remembered on this device.</li>
+        <li>Choose the base map under <b>⚙ Settings</b> in the header and overlays under <b>Layers</b>. Overlays are grouped in tabs (Aquaculture, Seabed, Ocean, Environment, Shipping), most useful first; a badge shows how many are on. Choices are remembered on this device.</li>
         <li>Layers with a colour scale show their legend under the checkbox when enabled.</li>
       </ul>
       <h3>Working offline</h3>
