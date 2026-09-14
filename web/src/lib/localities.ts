@@ -125,7 +125,7 @@ export function operatorIndex(localities: Localities): OperatorEntry[] {
       map.set(name, e)
     }
   }
-  return [...map.values()].sort((a, b) => b.sites - a.sites || a.name.localeCompare(b.name))
+  return [...map.values()].sort((a, b) => b.capacityTn - a.capacityTn || b.sites - a.sites || a.name.localeCompare(b.name))
 }
 
 /** Locality numbers of sites where any of `operators` is named. */

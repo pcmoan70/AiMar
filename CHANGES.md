@@ -2,6 +2,8 @@
 
 ## 2026-09-14
 
+- Operator dropdown lists operators by permitted capacity (tonnes) instead of
+  site count.
 - Operator colours now show as a dot beside each operator in the map dropdown
   (and on the dropdown button when one operator is selected); the colour legend
   under Layers → Aquaculture is gone.

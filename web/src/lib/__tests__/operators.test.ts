@@ -26,6 +26,11 @@ describe('operators', () => {
       { name: 'LERØY SEAFOOD AS', sites: 1, capacityTn: 1000 },
     ])
   })
+  it('orders operators by permitted capacity before site count', () => {
+    const small = (loknr: number, ops: string, cap: number) => ({ type: 'Feature' as const, geometry: { type: 'Point' as const, coordinates: [5, 60] }, properties: p(loknr, ops, cap) })
+    const many: Localities = { type: 'FeatureCollection', features: [small(1, 'A AS', 100), small(2, 'A AS', 100), small(3, 'B AS', 1000)] }
+    expect(operatorIndex(many).map((o) => o.name)).toEqual(['B AS', 'A AS'])
+  })
   it('finds sites of the selected operators', () => {
     expect(sitesOfOperators(fc, ['LERØY SEAFOOD AS'])).toEqual([1])
     expect(sitesOfOperators(fc, ['MOWI ASA']).sort()).toEqual([1, 2])

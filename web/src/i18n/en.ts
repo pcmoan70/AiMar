@@ -52,7 +52,7 @@ export const en: Record<string, string> = {
   'ops.siteCount': '{n} site · {t} t',
   'ops.siteCountPlural': '{n} sites · {t} t',
   'ops.noMatch': 'No operator matches.',
-  'ops.largest': '30 largest of {n} operators; type to search.',
+  'ops.largest': '30 largest of {n} operators by permitted capacity; type to search.',
 
   // context menu
   'ctx.select': 'Select {op}',
@@ -357,7 +357,7 @@ export const en: Record<string, string> = {
   'help.map.2': '**Left-click** a dot or border to open the site in the Inspect panel. Left-click open water to profile a hypothetical site: nearest farm, farms and capacity within 5–50 km, and regional lice pressure.',
   'help.map.3': '**Right-click** a dot for a menu: select its operator, or clear all selections.',
   'help.map.4': '**Hover** anywhere and a card lists what every enabled overlay shows at that point: locality, traffic level, protected area, seabed class, depth, temperature, current and so on. A dash means the layer has nothing there.',
-  'help.map.5': 'The **operator dropdown** (top-left) limits dots and borders to chosen operators, with a search box, site counts and capacity, "Zoom to sites" and "Show all". The selection also drives the lines in the lice chart.',
+  'help.map.5': 'The **operator dropdown** (top-left) limits dots and borders to chosen operators, ordered by permitted capacity in tonnes, with a search box, site counts and capacity, "Zoom to sites" and "Show all". The selection also drives the lines in the lice chart.',
   'help.map.6': '**Filter chips** under the dropdown show active field filters (see Site panel); ✕ clears one, "Clear all" clears them.',
   'help.map.7': '**Colours:** every operator with 16 or more sites has a fixed colour, grouped by brand so related companies share a hue in lighter and darker variants (the dot beside each name in the operator dropdown); other operators are grey; a selected smaller operator borrows a free colour while selected. Coloured dots are drawn above grey ones, largest operators on top. Charts use the same colours.',
   'help.site.title': 'Site panel (Inspect)',

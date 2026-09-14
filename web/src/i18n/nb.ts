@@ -52,7 +52,7 @@ export const nb: Record<string, string> = {
   'ops.siteCount': '{n} lokalitet · {t} t',
   'ops.siteCountPlural': '{n} lokaliteter · {t} t',
   'ops.noMatch': 'Ingen oppdrettere passer.',
-  'ops.largest': 'De 30 største av {n} oppdrettere; skriv for å søke.',
+  'ops.largest': 'De 30 største av {n} oppdrettere etter tillatt kapasitet; skriv for å søke.',
 
   // context menu
   'ctx.select': 'Velg {op}',
@@ -357,7 +357,7 @@ export const nb: Record<string, string> = {
   'help.map.2': '**Venstreklikk** på en prikk eller grense åpner lokaliteten i Detaljer. Venstreklikk i åpen sjø profilerer en hypotetisk lokalitet: nærmeste anlegg, anlegg og kapasitet innen 5–50 km og regionalt lusepress.',
   'help.map.3': '**Høyreklikk** på en prikk gir en meny: velg oppdretteren, eller fjern alle valg.',
   'help.map.4': '**Hold pekeren** hvor som helst, så viser et kort hva hvert påslått kartlag har i det punktet: lokalitet, trafikknivå, verneområde, bunntype, dybde, temperatur, strøm og så videre. En strek betyr at laget ikke har noe der.',
-  'help.map.5': '**Nedtrekksmenyen for oppdrettere** (øverst til venstre) begrenser prikker og grenser til valgte oppdrettere, med søk, antall lokaliteter og kapasitet, «Zoom til lokalitetene» og «Vis alle». Valget styrer også linjene i lusegrafen.',
+  'help.map.5': '**Nedtrekksmenyen for oppdrettere** (øverst til venstre) begrenser prikker og grenser til valgte oppdrettere, sortert etter tillatt kapasitet i tonn, med søk, antall lokaliteter og kapasitet, «Zoom til lokalitetene» og «Vis alle». Valget styrer også linjene i lusegrafen.',
   'help.map.6': '**Filterbrikker** under menyen viser aktive feltfiltre (se Detaljer); ✕ fjerner ett, «Fjern alle» fjerner alle.',
   'help.map.7': '**Farger:** hver oppdretter med 16 eller flere lokaliteter har en fast farge, gruppert etter merkenavn slik at beslektede selskaper deler fargetone i lysere og mørkere varianter (prikken ved hvert navn i selskapsvelgeren); andre er grå; en valgt mindre oppdretter låner en ledig farge så lenge den er valgt. Fargede prikker tegnes over grå, største oppdrettere øverst. Grafene bruker samme farger.',
   'help.site.title': 'Detaljpanel',
