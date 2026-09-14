@@ -16,6 +16,8 @@ import {
 } from '../lib/offline'
 import { updateSettings, useSettings } from '../lib/settings'
 import { useInstallPrompt } from '../lib/install'
+import Hint from './Hint'
+import { HINTS } from '../lib/hints'
 
 interface Props {
   map: MlMap | null
@@ -89,8 +91,10 @@ export default function OfflinePanel({ map }: Props) {
       )}
       {storage && (
         <p className="muted">
-          Storage used {formatBytes(storage.usage)} of {formatBytes(storage.quota)}
-          {storage.persisted ? ' · persistent' : ''}
+          <Hint text={HINTS.storage}>
+            Storage used {formatBytes(storage.usage)} of {formatBytes(storage.quota)}
+            {storage.persisted ? ' · persistent' : ''}
+          </Hint>
         </p>
       )}
 
@@ -112,7 +116,9 @@ export default function OfflinePanel({ map }: Props) {
         </select>
       </label>
       <p className="muted">
-        Zoom {zmin}–{zmax}, {activeLayers.length} layer{activeLayers.length === 1 ? '' : 's'}: {urls.length} tiles
+        <Hint text={HINTS.tileCount}>
+          Zoom {zmin}–{zmax}, {activeLayers.length} layer{activeLayers.length === 1 ? '' : 's'}: {urls.length} tiles
+        </Hint>
         {tooMany && <strong> – zoom in or reduce depth (max {MAX_DOWNLOAD_TILES})</strong>}
       </p>
       <p>
@@ -139,7 +145,9 @@ export default function OfflinePanel({ map }: Props) {
       <h2>Bundled data</h2>
       {manifest ? (
         <ul className="plain">
-          <li className="muted">Snapshot {manifest.retrieved.slice(0, 10)}</li>
+          <li className="muted">
+            <Hint text={HINTS.snapshot}>Snapshot {manifest.retrieved.slice(0, 10)}</Hint>
+          </li>
           {manifest.sources.map((src) => (
             <li key={src.file}>
               {src.dataset}

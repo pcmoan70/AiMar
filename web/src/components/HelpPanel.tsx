@@ -6,6 +6,7 @@ export default function HelpPanel() {
       <h3>Using the map</h3>
       <ul>
         <li>Click a coloured dot or a site border to see a locality's register entry and its lice history. Hover the chart for weekly values.</li>
+        <li>Every figure has a dotted underline: hover, tap or focus it to see its source and how it was calculated.</li>
         <li>Type a name or locality number in the search box to fly to a site.</li>
         <li>The operator dropdown in the map's top-left corner limits the dots and site borders to chosen operators; use "Zoom to sites" to see them all.</li>
         <li>Click anywhere else in the sea to profile a hypothetical site: nearest farm, farms within 5–50 km and regional lice pressure.</li>

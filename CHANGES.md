@@ -2,6 +2,11 @@
 
 ## 2026-09-14
 
+- Hover explanations: every displayed figure (register fields, lice values,
+  neighbourhood and lice-pressure tables, operator counts, storage and tile
+  counts) shows its source and calculation method on hover, focus or tap.
+  Texts live in `web/src/lib/hints.ts`.
+
 - Update checks: the app polls for a new service worker every 10 minutes and
   on tab focus / reconnect, then prompts to reload.
 

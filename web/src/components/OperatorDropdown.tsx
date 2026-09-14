@@ -2,6 +2,8 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import type { Map as MlMap } from 'maplibre-gl'
 import { operatorIndex, sitesOfOperators, type Localities } from '../lib/localities'
 import { updateSettings, useSettings } from '../lib/settings'
+import Hint from './Hint'
+import { HINTS } from '../lib/hints'
 
 interface Props {
   localities: Localities | null
@@ -98,7 +100,9 @@ export default function OperatorDropdown({ localities, map }: Props) {
                 <span>
                   {o.name}
                   <small>
-                    {o.sites} site{o.sites === 1 ? '' : 's'} · {fmt(o.capacityTn)} t
+                    <Hint text={HINTS.operatorSites}>
+                      {o.sites} site{o.sites === 1 ? '' : 's'} · {fmt(o.capacityTn)} t
+                    </Hint>
                   </small>
                 </span>
               </label>

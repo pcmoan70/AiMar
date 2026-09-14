@@ -45,6 +45,7 @@ flowchart LR
 | `components/OfflinePanel.tsx` | Online state, install button, storage usage, area download, cache clearing, data snapshot provenance |
 | `components/SearchBox.tsx` | Header search: name/number lookup, fly-to and select |
 | `components/OperatorDropdown.tsx` | Floating operator filter on the map; drives MapLibre filters on localities and borders |
+| `components/Hint.tsx` | Tooltip wrapper (hover / focus / tap) rendering an explanation from `lib/hints.ts` |
 | `components/HelpPanel.tsx` | In-app help |
 | `components/UpdatePrompt.tsx` | "New version" / "ready offline" toast via `virtual:pwa-register/react`; polls `sw.js` every 10 min and on focus/online |
 | `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy |

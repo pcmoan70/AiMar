@@ -1,6 +1,8 @@
 import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, summarise, type FishHealth } from '../lib/fishhealth'
 import LiceChart from './LiceChart'
+import Hint from './Hint'
+import { HINTS, type HintKey } from '../lib/hints'
 import type { Selection } from './MapView'
 
 interface Props {
@@ -17,18 +19,18 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
 
   if (selection.type === 'farm') {
     const p = selection.props
-    const rows: [string, string][] = [
-      ['Locality no.', String(p.loknr)],
-      ['Status', p.status_lokalitet],
-      ['Capacity', p.kapasitet_lok != null ? `${fmtNum(p.kapasitet_lok)} ${p.kapasitet_unittype ?? ''}` : '–'],
-      ['Species', p.til_arter ?? '–'],
-      ['Operators', p.til_innehavere ?? '–'],
-      ['Purpose', p.til_formaal ?? '–'],
-      ['Production form', p.til_produksjonsform ?? '–'],
-      ['Placement', `${p.plassering} · ${p.vannmiljo}`],
-      ['Municipality', `${p.kommune}, ${p.fylke}`],
-      ['Production area', p.prodareacode ?? '–'],
-      ['First clearance', fmtDate(p.klareringsdato)],
+    const rows: [string, string, HintKey][] = [
+      ['Locality no.', String(p.loknr), 'loknr'],
+      ['Status', p.status_lokalitet, 'status'],
+      ['Capacity', p.kapasitet_lok != null ? `${fmtNum(p.kapasitet_lok)} ${p.kapasitet_unittype ?? ''}` : '–', 'capacity'],
+      ['Species', p.til_arter ?? '–', 'species'],
+      ['Operators', p.til_innehavere ?? '–', 'operators'],
+      ['Purpose', p.til_formaal ?? '–', 'purpose'],
+      ['Production form', p.til_produksjonsform ?? '–', 'productionForm'],
+      ['Placement', `${p.plassering} · ${p.vannmiljo}`, 'placement'],
+      ['Municipality', `${p.kommune}, ${p.fylke}`, 'municipality'],
+      ['Production area', p.prodareacode ?? '–', 'prodArea'],
+      ['First clearance', fmtDate(p.klareringsdato), 'clearance'],
     ]
     const series = fishhealth ? liceSeries(fishhealth, p.loknr) : null
     const sum = series ? summarise(series) : null
@@ -37,9 +39,11 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
         <h2>{p.navn}</h2>
         <table className="kv">
           <tbody>
-            {rows.map(([k, v]) => (
+            {rows.map(([k, v, h]) => (
               <tr key={k}>
-                <th>{k}</th>
+                <th>
+                  <Hint text={HINTS[h]}>{k}</Hint>
+                </th>
                 <td>{v}</td>
               </tr>
             ))}
@@ -51,18 +55,24 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
             <table className="kv">
               <tbody>
                 <tr>
-                  <th>Latest lice</th>
+                  <th>
+                    <Hint text={HINTS.latestLice}>Latest lice</Hint>
+                  </th>
                   <td>{sum.latest ? `${sum.latest.lice} (week ${sum.latest.week})` : 'not reported'}{sum.fallowNow ? ' · fallow now' : ''}</td>
                 </tr>
                 <tr>
-                  <th>Last 52 weeks</th>
+                  <th>
+                    <Hint text={HINTS.last52}>Last 52 weeks</Hint>
+                  </th>
                   <td>
                     {sum.weeksReported} weeks reported, {sum.weeksAboveLimit} above limit, {sum.treatments} with treatment
                   </td>
                 </tr>
               </tbody>
             </table>
-            <LiceChart series={series} />
+            <Hint text={HINTS.liceChart} block>
+              <LiceChart series={series} />
+            </Hint>
             <p className="muted">Source: BarentsWatch fish health (NLOD 2.0), snapshot {fishhealth!.retrieved.slice(0, 10)}.</p>
           </>
         ) : (
@@ -88,14 +98,18 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
       <table className="kv">
         <tbody>
           <tr>
-            <th>Position</th>
+            <th>
+              <Hint text={HINTS.position}>Position</Hint>
+            </th>
             <td>
               {lat.toFixed(5)}°N, {lon.toFixed(5)}°E
             </td>
           </tr>
           {nb?.nearest && (
             <tr>
-              <th>Nearest farm</th>
+              <th>
+                <Hint text={HINTS.nearestFarm}>Nearest farm</Hint>
+              </th>
               <td>
                 {nb.nearest.name} ({nb.nearest.loknr}), {nb.nearest.km.toFixed(1)} km
               </td>
@@ -105,7 +119,9 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
       </table>
       {fishhealth && localities && (
         <>
-          <h3>Lice pressure, last 52 weeks</h3>
+          <h3>
+            <Hint text={HINTS.licePressure}>Lice pressure, last 52 weeks</Hint>
+          </h3>
           <table className="kv">
             <thead>
               <tr>
@@ -130,7 +146,9 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
       )}
       {nb && (
         <>
-          <h3>Neighbouring farms</h3>
+          <h3>
+            <Hint text={HINTS.neighbours}>Neighbouring farms</Hint>
+          </h3>
           <table className="kv">
             <thead>
               <tr>
