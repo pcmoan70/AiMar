@@ -2,9 +2,9 @@
 // this only stops casual visitors. The shipped config holds a salted PBKDF2
 // hash, never the password (see web/README.md to regenerate it).
 import { useSyncExternalStore } from 'react'
-import { pbkdf2 } from '@noble/hashes/pbkdf2'
-import { sha256 } from '@noble/hashes/sha2'
-import { bytesToHex, utf8ToBytes } from '@noble/hashes/utils'
+import { pbkdf2 } from '@noble/hashes/pbkdf2.js'
+import { sha256 } from '@noble/hashes/sha2.js'
+import { bytesToHex, utf8ToBytes } from '@noble/hashes/utils.js'
 import { AUTH_HASH, AUTH_ITERATIONS, AUTH_SALT } from './auth-config'
 
 const KEY = 'aimar.auth.v1'
