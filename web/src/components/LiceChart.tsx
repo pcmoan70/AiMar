@@ -30,13 +30,18 @@ const eventLabel = (flags: number) =>
     .filter(Boolean)
     .join(', ')
 
-const RECENT_WEEKS = 4 * 52
+const RANGES: { label: string; weeks: number | null }[] = [
+  { label: 'Last year', weeks: 52 },
+  { label: 'Last 4 years', weeks: 4 * 52 },
+  { label: 'Last 8 years', weeks: 8 * 52 },
+  { label: 'All since 2012', weeks: null },
+]
 
 export default function LiceChart({ series: full, extras = [] }: Props) {
   const [hover, setHover] = useState<number | null>(null)
-  const [all, setAll] = useState(false)
-  const hasMore = full.length > RECENT_WEEKS
-  const offset = all || !hasMore ? 0 : Math.max(0, full.length - RECENT_WEEKS)
+  const [range, setRange] = useState(1)
+  const weeks = RANGES[range].weeks
+  const offset = weeks === null ? 0 : Math.max(0, full.length - weeks)
   const series = full.slice(offset)
   const extraVals = extras.map((x) => x.values.slice(offset))
   const n = series.length
@@ -88,14 +93,18 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
 
   return (
     <div className="chart">
-      {hasMore && (
-        <div className="chart-range">
-          <button type="button" className={all ? 'secondary' : ''} onClick={() => setAll(false)}>Last 4 years</button>
-          <button type="button" className={all ? '' : 'secondary'} onClick={() => setAll(true)}>
-            Since {full[0].week.slice(0, 4)}
-          </button>
-        </div>
-      )}
+      <div className="chart-range">
+        <label>
+          Period
+          <select value={range} onChange={(e) => { setRange(Number(e.target.value)); setHover(null) }} aria-label="History period">
+            {RANGES.map((r, i) => (
+              <option key={r.label} value={i} disabled={r.weeks !== null && r.weeks > full.length && i > 0}>
+                {r.label}
+              </option>
+            ))}
+          </select>
+        </label>
+      </div>
       <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label="Adult female lice per fish by week"
         onMouseMove={onMove} onMouseLeave={() => setHover(null)}>
         {fallow.map(([a, b]) => (

@@ -11,7 +11,7 @@
   and table include them.
 
 - Fish-health snapshot extended from four years to the full history since
-  2012; the lice chart offers "Last 4 years" and full-history views.
+  2012; the lice chart has a period dropdown (last year, 4 years, 8 years, all).
 
 - Cache limit: caches are kept under a byte limit (20 GB default, set under
   ⚙ Settings). A janitor reads Workbox's last-used timestamps and evicts

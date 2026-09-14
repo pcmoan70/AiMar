@@ -136,8 +136,9 @@ a { color: var(--brand); }
 .chart-crosshair { stroke: var(--muted); stroke-width: 1; }
 .chart-marker { fill: #2a78d6; stroke: var(--bg); stroke-width: 2; }
 .chart-readout { font-size: 12px; min-height: 18px; margin: 2px 0 6px; }
-.chart-range { display: flex; gap: 4px; margin-bottom: 4px; }
-.chart-range button { padding: 3px 8px; font-size: 12px; }
+.chart-range { display: flex; margin-bottom: 4px; font-size: 12px; }
+.chart-range label { display: flex; align-items: center; gap: 6px; color: var(--muted); }
+.chart-range select { font: inherit; padding: 2px 6px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); }
 .chart details { font-size: 12px; }
 .chart summary { cursor: pointer; }
 
