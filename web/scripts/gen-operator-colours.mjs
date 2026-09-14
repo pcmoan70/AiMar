@@ -1,34 +1,75 @@
 // Keeps src/lib/operatorColours.ts in step with the locality snapshot: every
-// operator with more than MIN_SITES active sites gets a fixed colour. Existing
-// entries are never changed or removed; new entrants are appended with the
-// next unused colour of the sequence, so a company keeps its colour for good.
+// operator with at least MIN_SITES active sites gets a fixed colour, grouped by
+// brand (the first word of the name): each brand owns a hue, members get
+// lightness variants. Existing rows are never changed or removed; new brands
+// take the next unused hue, new members the next unused variant of their brand.
 // Run after fetch-data (the refresh workflow does): node scripts/gen-operator-colours.mjs
 import { readFileSync, writeFileSync } from 'node:fs'
 
 const MIN_SITES = 16
 const src = new URL('../src/lib/operatorColours.ts', import.meta.url)
 const text = readFileSync(src, 'utf8')
-const seq = [...text.matchAll(/^\s+'(#[0-9a-f]{6})',?\s*(?:\/\/.*)?$/gm)].map((m) => m[1])
+const hues = [...text.matchAll(/^\s+'(#[0-9a-f]{6})',?\s*(?:\/\/.*)?$/gm)].map((m) => m[1])
 const begin = text.indexOf('// BEGIN TABLE')
 const end = text.indexOf('// END TABLE')
-if (begin < 0 || end < 0 || !seq.length) throw new Error('operatorColours.ts markers or sequence not found')
-const table = [...text.slice(begin, end).matchAll(/\{ name: '([^']+)', colour: '(#[0-9a-f]{6})' \}/g)].map((m) => ({ name: m[1], colour: m[2] }))
+if (begin < 0 || end < 0 || !hues.length) throw new Error('operatorColours.ts markers or sequence not found')
+const table = [...text.slice(begin, end).matchAll(/\{ brand: '([^']+)', name: '([^']+)', colour: '(#[0-9a-f]{6})' \}/g)].map((m) => ({ brand: m[1], name: m[2], colour: m[3] }))
 
+// ---- colour helpers (mirrored in src/lib/operatorColours.ts)
+const hexToHsl = (hex) => {
+  const r = parseInt(hex.slice(1, 3), 16) / 255, g = parseInt(hex.slice(3, 5), 16) / 255, b = parseInt(hex.slice(5, 7), 16) / 255
+  const max = Math.max(r, g, b), min = Math.min(r, g, b), l = (max + min) / 2
+  if (max === min) return [0, 0, l]
+  const d = max - min, s = l > 0.5 ? d / (2 - max - min) : d / (max + min)
+  const h = max === r ? ((g - b) / d + (g < b ? 6 : 0)) / 6 : max === g ? ((b - r) / d + 2) / 6 : ((r - g) / d + 4) / 6
+  return [h, s, l]
+}
+const hslToHex = (h, s, l) => {
+  const f = (n) => { const k = (n + h * 12) % 12; const a = s * Math.min(l, 1 - l); return l - a * Math.max(-1, Math.min(k - 3, 9 - k, 1)) }
+  return '#' + [f(0), f(8), f(4)].map((v) => Math.round(v * 255).toString(16).padStart(2, '0')).join('')
+}
+const VARIANTS = [[0, 0], [0.14, 0], [-0.14, 0], [0.24, -0.15], [-0.22, 0.1], [0.08, -0.3]]
+const variant = (base, k) => {
+  const [h, s, l] = hexToHsl(base)
+  const [dl, ds] = VARIANTS[k % VARIANTS.length]
+  return hslToHex(h, Math.max(0.15, Math.min(1, s + ds)), Math.max(0.25, Math.min(0.8, l + dl)))
+}
+export const brandOf = (name) => name.trim().split(/\s+/)[0].toUpperCase()
+
+// ---- site counts
 const fc = JSON.parse(readFileSync(new URL('../public/data/localities.geojson', import.meta.url), 'utf8'))
 const count = new Map()
 for (const f of fc.features)
   for (const op of (f.properties.til_innehavere ?? '').split(',').map((s) => s.trim()).filter(Boolean)) count.set(op, (count.get(op) ?? 0) + 1)
-const entrants = [...count].filter(([op, n]) => n >= MIN_SITES && !table.some((t) => t.name === op)).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
-const used = new Set(table.map((t) => t.colour))
-for (const [op] of entrants) {
-  const colour = seq.find((c) => !used.has(c))
-  if (!colour) {
-    console.warn(`no free colour left for ${op}; extend the sequence`)
-    break
+const qualifying = [...count].filter(([, n]) => n >= MIN_SITES).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+const brandSites = new Map()
+for (const [op, n] of qualifying) brandSites.set(brandOf(op), (brandSites.get(brandOf(op)) ?? 0) + n)
+
+// ---- assign: existing rows keep colours; brands ranked by total sites take hues in order
+const brandHue = new Map(table.map((t) => [t.brand, hexToHsl(t.colour)[0]]))
+const usedHues = new Set(table.filter((t) => t.colour === variant(t.colour, 0)).map((t) => t.colour))
+const brandBase = new Map()
+for (const t of table) if (!brandBase.has(t.brand)) brandBase.set(t.brand, t.colour)
+let added = 0
+for (const [brand] of [...brandSites].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))) {
+  if (!brandBase.has(brand)) {
+    const hue = hues.find((c) => !usedHues.has(c))
+    if (!hue) { console.warn(`no free hue for brand ${brand}; extend the sequence`); continue }
+    usedHues.add(hue)
+    brandBase.set(brand, hue)
   }
-  used.add(colour)
-  table.push({ name: op, colour })
+  const members = qualifying.filter(([op]) => brandOf(op) === brand).map(([op]) => op)
+  const existing = table.filter((t) => t.brand === brand)
+  for (const op of members) {
+    if (existing.some((t) => t.name === op)) continue
+    const usedVariants = new Set(table.filter((t) => t.brand === brand).map((t) => t.colour))
+    let k = 0
+    while (usedVariants.has(variant(brandBase.get(brand), k)) && k < VARIANTS.length * 2) k++
+    table.push({ brand, name: op, colour: variant(brandBase.get(brand), k) })
+    added++
+  }
 }
-const block = `// BEGIN TABLE (generated by scripts/gen-operator-colours.mjs; entries are only ever appended)\nexport const OPERATOR_COLOURS: { name: string; colour: string }[] = [\n${table.map((t) => `  { name: '${t.name}', colour: '${t.colour}' },`).join('\n')}\n]\n`
+void brandHue
+const block = `// BEGIN TABLE (generated by scripts/gen-operator-colours.mjs; rows are only ever appended)\nexport const OPERATOR_COLOURS: { brand: string; name: string; colour: string }[] = [\n${table.map((t) => `  { brand: '${t.brand}', name: '${t.name}', colour: '${t.colour}' },`).join('\n')}\n]\n`
 writeFileSync(src, text.slice(0, begin) + block + text.slice(end))
-console.log(`${entrants.length} new entrant(s); table has ${table.length} operators (≥ ${MIN_SITES} sites)`)
+console.log(`${added} new row(s); table has ${table.length} operators in ${new Set(table.map((t) => t.brand)).size} brands (≥ ${MIN_SITES} sites)`)

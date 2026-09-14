@@ -2,6 +2,15 @@
 
 ## 2026-09-14
 
+- Treatment-intensity heatmap layer (Aquaculture tab): share of production
+  weeks with a lice treatment over the last 4 years, kernel-smoothed over farms
+  within a user-chosen radius R (5–50 km), computed on the device, with legend,
+  hover value and explanation.
+- Language control is a single button showing the current language.
+- Operator colours grouped by brand word: companies sharing the first word of
+  their name (MOWI, SALMAR, LERØY …) share a hue in lighter/darker variants;
+  the generator is append-only per brand and member.
+
 - Two languages: English and Norwegian (bokmål) for every visible string,
   hover explanation and help text; selector on the login screen and under
   ⚙ Settings, default from the browser language (`web/src/i18n/`).

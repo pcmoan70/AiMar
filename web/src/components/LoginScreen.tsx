@@ -1,10 +1,10 @@
 import { useState, type FormEvent } from 'react'
 import { login } from '../lib/auth'
-import { LANGS, setLang, useLang, useT } from '../lib/i18n'
+import { useT } from '../lib/i18n'
+import LangToggle from './LangToggle'
 
 export default function LoginScreen() {
   const t = useT()
-  const lang = useLang()
   const [user, setUser] = useState('')
   const [pass, setPass] = useState('')
   const [error, setError] = useState<string | null>(null)
@@ -24,13 +24,7 @@ export default function LoginScreen() {
       <form className="login-card" onSubmit={submit}>
         <div className="login-top">
           <h1>AiMar</h1>
-          <div className="lang-switch" role="group" aria-label={t('login.language')}>
-            {LANGS.map((l) => (
-              <button key={l.id} type="button" className={lang === l.id ? '' : 'secondary'} onClick={() => setLang(l.id)}>
-                {l.label}
-              </button>
-            ))}
-          </div>
+          <LangToggle />
         </div>
         <p className="muted">{t('app.tagline')}</p>
         <label>

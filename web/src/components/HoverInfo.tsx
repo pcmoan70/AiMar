@@ -3,6 +3,7 @@ import type { Map as MlMap, MapMouseEvent } from 'maplibre-gl'
 import { CATEGORIES, overlaysIn, type LayerDef } from '../lib/layers'
 import { infoUrl, parseInfo, toMerc } from '../lib/featureInfo'
 import { sampleDensity } from '../lib/tileFilters'
+import { heatValueAt } from '../lib/heatmap'
 import { getSettings } from '../lib/settings'
 import type { LocalityProps } from '../lib/localities'
 import { t, useLang } from '../lib/i18n'
@@ -47,6 +48,10 @@ export default function HoverInfo({ map }: Props) {
         if (l.id === 'site-polygons') {
           const f = map.getLayer('site-polygons') ? map.queryRenderedFeatures(e.point, { layers: ['site-polygons'] })[0] : undefined
           return { id: l.id, title: t('hover.border'), value: f ? `${f.properties.name ?? ''} (${f.properties.loknr})` : null }
+        }
+        if (l.id === 'treatment-heat') {
+          const h = heatValueAt(mx, my)
+          return { id: l.id, title: shortTitle(l), value: h ? t('heat.hover', { p: (h.value * 100).toFixed(1), r: h.radiusKm }) : null }
         }
         if (l.tileFilter && l.wmsLayers) {
           const d = sampleDensity(l.wmsLayers, mx, my)

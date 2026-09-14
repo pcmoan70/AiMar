@@ -23,6 +23,8 @@ export interface Settings {
   cacheLimitGb: number
   /** Register-field filters set from the site panel. */
   fieldFilters: FieldFilters
+  /** Kernel radius (km) of the treatment heatmap. */
+  heatRadiusKm: number
 }
 
 const KEY = 'aimar.settings.v1'
@@ -38,6 +40,7 @@ export const DEFAULT_SETTINGS: Settings = {
   groupMemory: {},
   cacheLimitGb: 20,
   fieldFilters: {},
+  heatRadiusKm: 20,
 }
 
 function load(): Settings {

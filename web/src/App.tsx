@@ -7,6 +7,7 @@ import OfflinePanel from './components/OfflinePanel'
 import OperatorDropdown from './components/OperatorDropdown'
 import HoverInfo from './components/HoverInfo'
 import ContextMenu, { type MenuState } from './components/ContextMenu'
+import HeatmapLayer from './components/HeatmapLayer'
 import SettingsMenu from './components/SettingsMenu'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
@@ -95,6 +96,7 @@ function MapApp() {
         <OperatorDropdown localities={localities} map={map} />
         <FilterChips />
         <HoverInfo map={map} />
+        <HeatmapLayer map={map} localities={localities} fishhealth={fishhealth} />
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}

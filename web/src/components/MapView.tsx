@@ -16,6 +16,7 @@ import { getSettings, updateSettings, useSettings, type Settings } from '../lib/
 import { dataUrl, type LocalityProps } from '../lib/localities'
 import { filteredTileUrl } from '../lib/tileFilters'
 import { runJanitor } from '../lib/cacheJanitor'
+import { heatValueAt } from '../lib/heatmap'
 
 export type Selection =
   | { type: 'farm'; props: LocalityProps }
@@ -50,6 +51,16 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
 
   for (const l of OVERLAY_LAYERS) {
     if (!s.overlays.includes(l.id)) continue
+    if (l.kind === 'computed') {
+      // Image painted by HeatmapLayer; a transparent pixel until the first draw.
+      sources[l.id] = {
+        type: 'image',
+        url: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==',
+        coordinates: [[-180, 85], [180, 85], [180, -85], [-180, -85]],
+      }
+      layers.push({ id: l.id, type: 'raster', source: l.id, paint: { 'raster-opacity': 1, 'raster-resampling': 'linear' } })
+      continue
+    }
     if (l.kind === 'wms') {
       const tile = l.tileFilter ? filteredTileUrl(l.tileFilter, wmsTileUrl(l)) : wmsTileUrl(l)
       sources[l.id] = { type: 'raster', tiles: [tile], tileSize: 256, attribution: l.attribution }
@@ -178,7 +189,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onCon
     map.on('mouseleave', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = ''))
 
     mapRef.current = map
-    ;(window as unknown as { __aimar: { map: MlMap; runJanitor: typeof runJanitor } }).__aimar = { map, runJanitor } // test hook (scripts/smoke.mjs)
+    ;(window as unknown as { __aimar: { map: MlMap; runJanitor: typeof runJanitor; heatValueAt: typeof heatValueAt } }).__aimar = { map, runJanitor, heatValueAt } // test hook (scripts/smoke.mjs)
     onMap(map)
     return () => {
       onMap(null)

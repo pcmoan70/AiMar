@@ -20,6 +20,7 @@ export const en: Record<string, string> = {
   'login.wrong': 'Wrong username or password.',
   'login.checking': 'Checking…',
   'login.submit': 'Sign in',
+  'lang.switchTo': 'Switch to {l}',
   'login.language': 'Language',
 
   // settings
@@ -158,6 +159,14 @@ export const en: Record<string, string> = {
   'layer.site-polygons.desc': 'Licensed site outlines from Akvakulturregisteret, snapshot bundled with the app.',
   'layer.localities.title': 'Aquaculture localities (Fiskeridirektoratet)',
   'layer.localities.desc': 'Active localities from Akvakulturregisteret, snapshot bundled with the app.',
+
+  'layer.treatment-heat.title': 'Treatment intensity, last 4 years',
+  'layer.treatment-heat.desc': 'Share of production weeks with a lice treatment, smoothed over farms within R km; computed on the device.',
+  'heat.radius': 'Radius R',
+  'heat.legend': 'Treatment weeks per production week, kernel-weighted within R',
+  'heat.hover': '{p} % of production weeks with treatment (R = {r} km)',
+  'hint.heatRadius': 'Kernel radius: farms up to R km from a point contribute, with weight falling from 1 at the point to 0 at R (weight = 1 − (d/R)²). Larger R smooths over more farms; smaller R shows local hotspots but goes transparent where fewer than 26 weighted production weeks are within reach.',
+  'hint.treatmentHeat': `For every map pixel: the sum over farms within R km of weight × treatment weeks, divided by the sum of weight × production weeks, over the last 4 years (208 weeks) of the snapshot. Production weeks are weeks with a lice report (the farm was operating); treatment weeks are those flagged with mechanical removal or medicinal (bath/feed) treatment. Weight = 1 − (d/R)². Transparent where fewer than 26 weighted production weeks are within R. Colour scale 0 to 30 % and above (the median farm is near 11 %). ${BW}`,
 
   // hover card
   'hover.locality': 'Locality',
@@ -298,7 +307,7 @@ export const en: Record<string, string> = {
   'hint.licePressure': `Regional lice pressure: for all active localities within the radius, every weekly lice report in the last 52 weeks is pooled; weeks without a report mean the farm was not operating and are left out, never counted as zero. Mean lice = average of the reported adult-female-lice values; Weeks > limit = share of those farm-weeks above 0.5; Farms = localities that reported at least once. Distances are great-circle from the clicked point. ${BW}`,
   'hint.neighbours': `Number of active localities within each radius (great-circle distance) and the sum of their permitted capacity in tonnes (sites with capacity in tonnes only). ${REG}`,
   'hint.operatorSites': `Sites where this operator is listed as licence holder, and the sum of those sites' permitted capacity in tonnes. A site with several holders counts for each of them. ${REG}`,
-  'hint.operatorColours': 'Fixed colour table: every operator with 16 or more active sites has its own colour; the eight largest use a colour-blind-checked palette, the rest an extended sequence. Colours never change between releases; new entrants are appended after each data refresh. All other operators are grey. An unlisted operator you select in the dropdown borrows the first colour not used by a selected table operator for as long as it is selected. A site with several licence holders takes the colour of the first table entry it matches. The same colours are used for lines and dots in the lice charts; this site is navy and "all farms" is dark grey.',
+  'hint.operatorColours': 'Fixed colour table: every operator with 16 or more active sites has its own colour. Companies are grouped by brand (the first word of the name, e.g. MOWI, SALMAR, LERØY): each brand owns a hue and its companies get lighter or darker variants of it. The eight largest brands use a colour-blind-checked palette, the rest an extended sequence. Colours never change between releases; new entrants are appended after each data refresh. All other operators are grey. An unlisted operator you select in the dropdown borrows a free variant of its brand hue, or the first unused colour, for as long as it is selected. A site with several licence holders takes the colour of the first table entry it matches. The same colours are used for lines and dots in the lice charts; this site is navy and "all farms" is dark grey.',
   'hint.storage': 'Reported by the browser (navigator.storage.estimate): space used by this app’s caches, data and settings, and the quota the browser allows it.',
   'hint.cacheCounts': 'Entries in the service-worker caches on this device: every base-map tile, overlay image (WMS and AIS density, including hover lookups) and NorKyst forecast image fetched so far is kept and served from disk on repeat visits; the most recently viewed tiles are also held in memory by the map. Forecast images expire after a day, overlays after 90 days, base tiles after 180 days.',
   'hint.cacheLimit': 'When the browser reports more storage in use than this limit, the app removes cached entries least-recently-used first: overlay images, forecast images and lookups before base-map tiles, until usage is below 90 % of the limit. Runs 30 s after start-up and every 10 minutes; the app shell and bundled data are never removed.',
@@ -319,7 +328,7 @@ export const en: Record<string, string> = {
   'help.map.4': '**Hover** anywhere and a card lists what every enabled overlay shows at that point: locality, traffic level, protected area, seabed class, depth, temperature, current and so on. A dash means the layer has nothing there.',
   'help.map.5': 'The **operator dropdown** (top-left) limits dots and borders to chosen operators, with a search box, site counts and capacity, "Zoom to sites" and "Show all". The selection also drives the lines in the lice chart.',
   'help.map.6': '**Filter chips** under the dropdown show active field filters (see Site panel); ✕ clears one, "Clear all" clears them.',
-  'help.map.7': '**Colours:** every operator with 16 or more sites has a fixed colour (legend under Layers → Aquaculture); other operators are grey; a selected smaller operator borrows a free colour while selected. Coloured dots are drawn above grey ones, largest operators on top. Charts use the same colours.',
+  'help.map.7': '**Colours:** every operator with 16 or more sites has a fixed colour, grouped by brand so related companies share a hue in lighter and darker variants (legend under Layers → Aquaculture); other operators are grey; a selected smaller operator borrows a free colour while selected. Coloured dots are drawn above grey ones, largest operators on top. Charts use the same colours.',
   'help.site.title': 'Site panel (Inspect)',
   'help.site.1': 'Register fields from Akvakulturregisteret: number, status, capacity, species, operators, purpose, production form, placement, municipality, production area, first clearance, with a link to the register.',
   'help.site.2': '**Click a field value** (status, capacity, species, purpose, production form, placement, municipality, production area) to open a list of every value that field takes, with site counts; capacity offers ranges in multiples of the 780 t standard licence. Pick one to show only matching sites ("Any" removes it). The active field turns blue with a red ✕ that clears that filter. Filters combine with the operator selection and are remembered.',
@@ -334,6 +343,7 @@ export const en: Record<string, string> = {
   'help.layers.2': 'Each layer states its source, licence and caching; layers with a colour scale show a legend when on.',
   'help.layers.3': 'AIS density layers fade low-traffic cells so busy lanes stand out.',
   'help.layers.4': 'All layer choices are remembered on this device.',
+  'help.layers.5': '**Treatment intensity** (Aquaculture tab) paints the share of production weeks with a lice treatment over the last four years, smoothed over farms within a radius R you choose; hover for the value at a point.',
   'help.offline.title': 'Offline (under ⚙ Settings)',
   'help.offline.1': 'Everything viewed while online — base tiles, all overlays, hover lookups — is cached on this device and reappears offline; the latest tiles are also kept in memory for instant panning.',
   'help.offline.2': '**Download this area** prefetches tiles for the current view and chosen extra zoom levels before going out of coverage. The panel shows storage use and what is cached.',

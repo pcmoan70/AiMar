@@ -1,5 +1,6 @@
 import { CATEGORIES, overlaysIn } from '../lib/layers'
 import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
+import { HEAT_MAX, HEAT_RADII_KM, HEAT_RAMP } from '../lib/heatmap'
 import Hint from './Hint'
 import { useT } from '../lib/i18n'
 import { updateSettings, useSettings } from '../lib/settings'
@@ -53,12 +54,35 @@ export default function LayerPanel() {
           <label key={l.id} className="row">
             <input type="checkbox" checked={on} onChange={() => toggle(l.id)} />
             <span>
-              {t(`layer.${l.id}.title`)}
+              {l.id === 'treatment-heat' ? <Hint text={t('hint.treatmentHeat')}>{t(`layer.${l.id}.title`)}</Hint> : t(`layer.${l.id}.title`)}
               <small>
                 {l.description ? `${t(`layer.${l.id}.desc`)} ` : ''}
                 {l.organisation} · {l.license} · {t(`layers.cache.${l.cache}`)}
               </small>
               {on && l.legend && <img className="legend-img" src={l.legend} alt={t('layers.legendAlt', { l: t(`layer.${l.id}.title`) })} />}
+              {on && l.id === 'treatment-heat' && (
+                <span className="heat-controls" onClick={(e) => e.preventDefault()}>
+                  <label className="heat-radius">
+                    <Hint text={t('hint.heatRadius')}>{t('heat.radius')}</Hint>
+                    <select value={s.heatRadiusKm} onChange={(e) => updateSettings({ heatRadiusKm: Number(e.target.value) })}>
+                      {HEAT_RADII_KM.map((r) => (
+                        <option key={r} value={r}>
+                          {r} km
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                  <span className="heat-legend" aria-label={t('heat.legend')}>
+                    <span className="heat-bar" style={{ background: `linear-gradient(to right, ${HEAT_RAMP.join(', ')})` }} />
+                    <span className="heat-ticks">
+                      <span>0 %</span>
+                      <span>{Math.round((HEAT_MAX * 100) / 2)} %</span>
+                      <span>≥ {Math.round(HEAT_MAX * 100)} %</span>
+                    </span>
+                    <small>{t('heat.legend')}</small>
+                  </span>
+                </span>
+              )}
             </span>
           </label>
         )

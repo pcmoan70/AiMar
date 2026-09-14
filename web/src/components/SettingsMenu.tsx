@@ -1,12 +1,12 @@
 import { useEffect, useRef, useState } from 'react'
 import { BASE_LAYERS } from '../lib/layers'
 import { updateSettings, useSettings } from '../lib/settings'
-import { LANGS, setLang, useLang, useT } from '../lib/i18n'
+import { useT } from '../lib/i18n'
+import LangToggle from './LangToggle'
 
 /** Header dropdown for app-wide settings: language, base map, cache limit, offline panel. */
 export default function SettingsMenu() {
   const t = useT()
-  const lang = useLang()
   const s = useSettings()
   const [open, setOpen] = useState(false)
   const root = useRef<HTMLDivElement>(null)
@@ -30,13 +30,7 @@ export default function SettingsMenu() {
         <div className="settings-pop" role="dialog" aria-label={t('settings.title')}>
           <label>
             {t('settings.language')}
-            <div className="lang-switch">
-              {LANGS.map((l) => (
-                <button key={l.id} type="button" className={lang === l.id ? '' : 'secondary'} onClick={() => setLang(l.id)}>
-                  {l.label}
-                </button>
-              ))}
-            </div>
+            <LangToggle />
           </label>
           <label>
             {t('settings.basemap')}

@@ -56,6 +56,7 @@ flowchart LR
 | `lib/localities.ts` | Locality types, data loader, haversine neighbourhood features, search |
 | `lib/filters.ts` | Multi-select field filters (register values incl. composite splitting, capacity and lice-statistic ranges) combined with the operator selection into a locality-number list for the map |
 | `lib/i18n.ts`, `i18n/en.ts`, `i18n/nb.ts` | Two-language dictionaries with identical keys (tested), `useT()` hook and `t()` for non-React code, language persisted in localStorage |
+| `lib/heatmap.ts`, `components/HeatmapLayer.tsx` | Client-computed treatment-intensity grid (kernel-weighted treatment/production weeks within R km) painted into a MapLibre image source on every move |
 | `components/FieldPicker.tsx` | Checkbox popover of a field's values with counts, All toggle, A–Z/count sort and search |
 | `lib/operatorColours.ts` | Fixed operator → colour table (all operators with ≥16 sites, appended only by `scripts/gen-operator-colours.mjs`) with rules for unlisted and selected operators; used by map dots, legend and charts |
 | `lib/fishhealth.ts` | Fish-health snapshot types, per-locality lice series, 52-week summary, regional lice pressure, operator pressure series (1/d² weighted over reporting farms) |

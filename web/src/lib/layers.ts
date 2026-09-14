@@ -8,12 +8,12 @@
 import type { TileFilter } from './tileFilters'
 import type { InfoSpec } from './featureInfo'
 
-export type LayerKind = 'xyz' | 'wms' | 'geojson'
+export type LayerKind = 'xyz' | 'wms' | 'geojson' | 'computed'
 export type Category = 'aquaculture' | 'seabed' | 'ocean' | 'environment' | 'shipping'
 
 /** Overlay tabs in display order, with the importance rank of layers inside each. */
 export const CATEGORIES: { id: Category; title: string; order: string[] }[] = [
-  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'site-polygons'] },
+  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'site-polygons', 'treatment-heat'] },
   { id: 'seabed', title: 'Seabed', order: ['dybdedata', 'ngu-anchoring', 'ngu-sediment', 'ngu-deposition', 'ngu-slope'] },
   { id: 'ocean', title: 'Ocean', order: ['norkyst-current', 'norkyst-arrows', 'norkyst-temp', 'norkyst-salinity'] },
   { id: 'environment', title: 'Environment', order: ['naturvern', 'bunnhabitat', 'gyteomraader'] },
@@ -395,6 +395,19 @@ export const LAYERS: LayerDef[] = [
     cache: 'cache-first',
     opacity: 0.7,
     description: 'Vessel track density from AIS, 1 km grid, full year 2022; low-traffic cells are faded.',
+  },
+  {
+    id: 'treatment-heat',
+    category: 'aquaculture',
+    title: 'Treatment intensity, last 4 years',
+    group: 'overlay',
+    kind: 'computed',
+    url: '',
+    organisation: 'BarentsWatch',
+    license: NLOD,
+    attribution: '© BarentsWatch',
+    cache: 'precache',
+    description: 'Share of production weeks with a lice treatment, smoothed over farms within R km; computed on the device.',
   },
   {
     id: 'site-polygons',

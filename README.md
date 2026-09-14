@@ -61,6 +61,8 @@ with `BASE_PATH=/`.
 - Every figure has a hover explanation (source and calculation method).
 - English and Norwegian UI (login screen and ⚙ Settings), including hover
   explanations and help.
+- Treatment-intensity heatmap: share of production weeks with a lice treatment
+  over the last four years, smoothed over farms within a chosen radius.
 - Site-panel filters: multi-select value pickers with counts for every register
   field (capacity as licence-multiple ranges; composite fields split into
   components) and for lice history (mean, peak, weeks above limit, treatment

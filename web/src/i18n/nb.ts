@@ -20,6 +20,7 @@ export const nb: Record<string, string> = {
   'login.wrong': 'Feil brukernavn eller passord.',
   'login.checking': 'Sjekker…',
   'login.submit': 'Logg inn',
+  'lang.switchTo': 'Bytt til {l}',
   'login.language': 'Språk',
 
   // settings
@@ -158,6 +159,14 @@ export const nb: Record<string, string> = {
   'layer.site-polygons.desc': 'Klarerte anleggsflater fra Akvakulturregisteret, øyeblikksbilde pakket inn i appen.',
   'layer.localities.title': 'Akvakulturlokaliteter (Fiskeridirektoratet)',
   'layer.localities.desc': 'Aktive lokaliteter fra Akvakulturregisteret, øyeblikksbilde pakket inn i appen.',
+
+  'layer.treatment-heat.title': 'Behandlingsintensitet, siste 4 år',
+  'layer.treatment-heat.desc': 'Andel produksjonsuker med lusebehandling, utjevnet over anlegg innen R km; beregnes på enheten.',
+  'heat.radius': 'Radius R',
+  'heat.legend': 'Behandlingsuker per produksjonsuke, kjernevektet innen R',
+  'heat.hover': '{p} % av produksjonsukene med behandling (R = {r} km)',
+  'hint.heatRadius': 'Kjerneradius: anlegg inntil R km fra et punkt bidrar, med vekt som faller fra 1 i punktet til 0 ved R (vekt = 1 − (d/R)²). Større R jevner ut over flere anlegg; mindre R viser lokale «hotspots», men blir gjennomsiktig der færre enn 26 vektede produksjonsuker er innen rekkevidde.',
+  'hint.treatmentHeat': `For hver kartpiksel: summen over anlegg innen R km av vekt × behandlingsuker, delt på summen av vekt × produksjonsuker, over øyeblikksbildets siste 4 år (208 uker). Produksjonsuker er uker med luserapport (anlegget var i drift); behandlingsuker er uker merket med mekanisk avlusing eller medikamentell behandling (bad/fôr). Vekt = 1 − (d/R)². Gjennomsiktig der færre enn 26 vektede produksjonsuker er innen R. Fargeskala 0 til 30 % og over (medianen for anlegg er rundt 11 %). ${BW}`,
 
   // hover card
   'hover.locality': 'Lokalitet',
@@ -298,7 +307,7 @@ export const nb: Record<string, string> = {
   'hint.licePressure': `Regionalt lusepress: for alle aktive lokaliteter innenfor radiusen slås alle ukentlige luserapporter fra de siste 52 ukene sammen; uker uten rapport betyr at anlegget ikke var i drift og utelates, aldri regnet som null. Snitt lus = gjennomsnitt av rapporterte verdier for voksne hunnlus; Uker > grense = andel av disse anleggsukene over 0,5; Anlegg = lokaliteter som rapporterte minst én gang. Avstander er storsirkel fra klikket punkt. ${BW}`,
   'hint.neighbours': `Antall aktive lokaliteter innenfor hver radius (storsirkelavstand) og summen av deres tillatte kapasitet i tonn (bare lokaliteter med kapasitet i tonn). ${REG}`,
   'hint.operatorSites': `Lokaliteter der denne oppdretteren står som tillatelsesinnehaver, og summen av disse lokalitetenes tillatte kapasitet i tonn. En lokalitet med flere innehavere telles for hver av dem. ${REG}`,
-  'hint.operatorColours': 'Fast fargetabell: hver oppdretter med 16 eller flere aktive lokaliteter har sin egen farge; de åtte største bruker en palett kontrollert for fargeblindhet, resten en utvidet rekke. Fargene endres aldri mellom versjoner; nye kommer til etter hver dataoppdatering. Alle andre oppdrettere er grå. En oppdretter utenfor tabellen som velges i nedtrekksmenyen låner den første fargen som ikke brukes av en valgt tabelloppdretter, så lenge den er valgt. En lokalitet med flere innehavere får fargen til den første tabelloppføringen den passer. Samme farger brukes for linjer og prikker i lusegrafene; denne lokaliteten er marineblå og «alle anlegg» er mørk grå.',
+  'hint.operatorColours': 'Fast fargetabell: hver oppdretter med 16 eller flere aktive lokaliteter har sin egen farge. Selskapene grupperes etter merkenavn (første ord i navnet, f.eks. MOWI, SALMAR, LERØY): hvert merke eier en fargetone, og selskapene får lysere eller mørkere varianter av den. De åtte største merkene bruker en palett kontrollert for fargeblindhet, resten en utvidet rekke. Fargene endres aldri mellom versjoner; nye kommer til etter hver dataoppdatering. Alle andre oppdrettere er grå. En oppdretter utenfor tabellen som velges i nedtrekksmenyen låner en ledig variant av merkets fargetone, eller den første ubrukte fargen, så lenge den er valgt. En lokalitet med flere innehavere får fargen til den første tabelloppføringen den passer. Samme farger brukes for linjer og prikker i lusegrafene; denne lokaliteten er marineblå og «alle anlegg» er mørk grå.',
   'hint.storage': 'Rapportert av nettleseren (navigator.storage.estimate): plass brukt av appens mellomlager, data og innstillinger, og kvoten nettleseren tillater.',
   'hint.cacheCounts': 'Oppføringer i tjenestearbeiderens mellomlager på denne enheten: hver bakgrunnskartflis, hvert kartlagsbilde (WMS og AIS-tetthet, inkludert oppslag ved pekerhold) og hvert NorKyst-varselbilde som er hentet, beholdes og leveres fra disk ved gjentatte besøk; de sist viste flisene holdes også i minnet av kartet. Varselbilder utløper etter én dag, kartlag etter 90 dager, bakgrunnsfliser etter 180 dager.',
   'hint.cacheLimit': 'Når nettleseren rapporterer mer lagringsplass i bruk enn denne grensen, fjerner appen lagrede oppføringer minst nylig brukt først: kartlagsbilder, varselbilder og oppslag før bakgrunnskartfliser, til bruken er under 90 % av grensen. Kjører 30 s etter oppstart og hvert 10. minutt; selve appen og innpakkede data fjernes aldri.',
@@ -319,7 +328,7 @@ export const nb: Record<string, string> = {
   'help.map.4': '**Hold pekeren** hvor som helst, så viser et kort hva hvert påslått kartlag har i det punktet: lokalitet, trafikknivå, verneområde, bunntype, dybde, temperatur, strøm og så videre. En strek betyr at laget ikke har noe der.',
   'help.map.5': '**Nedtrekksmenyen for oppdrettere** (øverst til venstre) begrenser prikker og grenser til valgte oppdrettere, med søk, antall lokaliteter og kapasitet, «Zoom til lokalitetene» og «Vis alle». Valget styrer også linjene i lusegrafen.',
   'help.map.6': '**Filterbrikker** under menyen viser aktive feltfiltre (se Detaljer); ✕ fjerner ett, «Fjern alle» fjerner alle.',
-  'help.map.7': '**Farger:** hver oppdretter med 16 eller flere lokaliteter har en fast farge (tegnforklaring under Kartlag → Akvakultur); andre er grå; en valgt mindre oppdretter låner en ledig farge så lenge den er valgt. Fargede prikker tegnes over grå, største oppdrettere øverst. Grafene bruker samme farger.',
+  'help.map.7': '**Farger:** hver oppdretter med 16 eller flere lokaliteter har en fast farge, gruppert etter merkenavn slik at beslektede selskaper deler fargetone i lysere og mørkere varianter (tegnforklaring under Kartlag → Akvakultur); andre er grå; en valgt mindre oppdretter låner en ledig farge så lenge den er valgt. Fargede prikker tegnes over grå, største oppdrettere øverst. Grafene bruker samme farger.',
   'help.site.title': 'Detaljpanel',
   'help.site.1': 'Registerfelt fra Akvakulturregisteret: nummer, status, kapasitet, arter, innehavere, formål, produksjonsform, plassering, kommune, produksjonsområde, første klarering, med lenke til registeret.',
   'help.site.2': '**Klikk på en feltverdi** (status, kapasitet, art, formål, produksjonsform, plassering, kommune, produksjonsområde) for å åpne en liste over alle verdier feltet har, med antall lokaliteter; kapasitet tilbyr intervaller i multipler av standardtillatelsen på 780 t. Velg én for å vise bare lokaliteter som passer («Alle» fjerner filteret). Det aktive feltet blir blått med en rød ✕ som fjerner filteret. Filtrene kombineres med oppdrettervalget og huskes.',
@@ -334,6 +343,7 @@ export const nb: Record<string, string> = {
   'help.layers.2': 'Hvert lag oppgir kilde, lisens og lagring; lag med fargeskala viser tegnforklaring når de er på.',
   'help.layers.3': 'AIS-tetthetslagene toner ned celler med lite trafikk slik at travle leder trer fram.',
   'help.layers.4': 'Alle lagvalg huskes på denne enheten.',
+  'help.layers.5': '**Behandlingsintensitet** (fanen Akvakultur) tegner andelen produksjonsuker med lusebehandling de siste fire årene, utjevnet over anlegg innen en radius R du velger; hold pekeren over for verdien i et punkt.',
   'help.offline.title': 'Frakoblet (under ⚙ Innstillinger)',
   'help.offline.1': 'Alt som vises mens du er tilkoblet — bakgrunnsfliser, alle kartlag, pekeroppslag — lagres på enheten og vises igjen uten nett; de nyeste flisene holdes også i minnet for umiddelbar panorering.',
   'help.offline.2': '**Last ned dette området** henter fliser for gjeldende utsnitt og valgte ekstra zoomnivåer før du mister dekning. Panelet viser lagringsbruk og hva som er lagret.',
