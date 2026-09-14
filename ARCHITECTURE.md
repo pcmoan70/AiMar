@@ -54,7 +54,7 @@ flowchart LR
 | `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy, category tab and per-tab importance order |
 | `lib/settings.ts` | `localStorage`-backed settings store exposed through `useSyncExternalStore` |
 | `lib/localities.ts` | Locality types, data loader, haversine neighbourhood features, search |
-| `lib/fishhealth.ts` | Fish-health snapshot types, per-locality lice series, 52-week summary, regional lice pressure |
+| `lib/fishhealth.ts` | Fish-health snapshot types, per-locality lice series, 52-week summary, regional lice pressure, operator pressure series (1/d² weighted over reporting farms) |
 | `components/LiceChart.tsx` | SVG lice time series: 0.5 limit line, fallow wash, treatment markers, hover readout, table view |
 | `lib/offline.ts` | Online hook, tile enumeration for a bounding box, prefetch with concurrency, storage estimate, cache clearing |
 | `lib/install.ts` | Captures `beforeinstallprompt` |
@@ -136,8 +136,8 @@ data changed.
 
 `scripts/fetch-fishhealth.mjs` obtains a BarentsWatch token with client
 credentials (from `web/.env.local` locally, repository secrets in CI), then
-calls `fishhealth/locality/{year}/{week}` once per ISO week for the last three
-full years plus the current year. It writes `fishhealth.json`: the week labels
+calls `fishhealth/locality/{year}/{week}` once per ISO week from 2012 (start of
+weekly reporting) to the last complete week. It writes `fishhealth.json`: the week labels
 plus, per locality, an array of adult-female-lice values and an array of flag
 bitmasks (reported, fallow, mechanical removal, substance treatment, cleaner
 fish, PD, ILA). Localities without any report are dropped. The file is

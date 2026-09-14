@@ -22,11 +22,11 @@
     {
       "file": "fishhealth.json",
       "organisation": "BarentsWatch",
-      "dataset": "Fish health: weekly lice, treatments, fallow, PD/ILA (2023-01 to 2026-37)",
+      "dataset": "Fish health: weekly lice, treatments, fallow, PD/ILA (2012-01 to 2026-37)",
       "url": "https://www.barentswatch.no/bwapi/v1/geodata/fishhealth/locality/{year}/{week}",
       "license": "NLOD 2.0",
       "featureCount": 1779,
-      "retrieved": "2026-09-14T09:57:48.133Z"
+      "retrieved": "2026-09-14T12:06:48.976Z"
     }
   ]
 }

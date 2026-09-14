@@ -2,6 +2,14 @@
 
 ## 2026-09-14
 
+- Lice chart: operators selected in the map dropdown appear as extra lines —
+  the distance-weighted (1/d²) lice level at that operator's other farms within
+  150 km, counting only farms that reported each week; legend, hover readout
+  and table include them.
+
+- Fish-health snapshot extended from four years to the full history since
+  2012; the lice chart offers "Last 4 years" and full-history views.
+
 - Cache limit: caches are kept under a byte limit (20 GB default, set under
   ⚙ Settings). A janitor reads Workbox's last-used timestamps and evicts
   least-recently-used overlay images, forecast images and lookups first,

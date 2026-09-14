@@ -64,8 +64,10 @@ with `BASE_PATH=/`.
   class, sea temperature and more).
 - Click a locality for its register entry (capacity, species, operators,
   production form, municipality, clearance date, link to Akvakulturregisteret)
-  and its fish-health history: weekly adult female lice for the last four years
-  against the 0.5 limit, treatments, fallow periods, PD/ILA flags.
+  and its fish-health history: weekly adult female lice since 2012 against the
+  0.5 limit, treatments, fallow periods, PD/ILA flags, with a last-four-years /
+  full-history switch. Operators selected in the map dropdown add lines with
+  the inverse-distance-squared weighted lice level at their other farms.
 - Click anywhere else in the sea for a hypothetical-site summary: nearest farm,
   farm count / permitted capacity within 5, 10, 20 and 50 km, and regional lice
   pressure (mean lice and share of farm-weeks above the limit within 10 and 20 km

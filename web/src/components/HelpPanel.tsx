@@ -5,7 +5,7 @@ export default function HelpPanel() {
       <p>An open-data map of Norwegian aquaculture sites that keeps working offline.</p>
       <h3>Using the map</h3>
       <ul>
-        <li>Click a coloured dot or a site border to see a locality's register entry and its lice history. Hover the chart for weekly values.</li>
+        <li>Click a coloured dot or a site border to see a locality's register entry and its lice history since 2012. Hover the chart for weekly values.</li>
         <li>Every figure has a dotted underline: hover, tap or focus it to see its source and how it was calculated.</li>
         <li>Moving the pointer over the map shows a card with what each enabled overlay contains at that point: locality, traffic level, protected area, seabed class, temperature and so on.</li>
         <li>Type a name or locality number in the search box to fly to a site.</li>

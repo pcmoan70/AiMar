@@ -1,7 +1,10 @@
 // BarentsWatch fish-health snapshot (see scripts/fetch-fishhealth.mjs).
-import { dataUrl, haversineKm, type Localities } from './localities'
+import { dataUrl, haversineKm, operatorsOf, type Localities } from './localities'
 
 export const FLAG = { reported: 1, fallow: 2, mechanical: 4, substance: 8, cleanerfish: 16, pd: 32, ila: 64 } as const
+
+/** Validated categorical palette (dataviz reference): site line first, then operator lines. */
+export const SERIES_COLOURS = ['#2a78d6', '#eb6834', '#1baf7a', '#eda100', '#e87ba4']
 
 /** Regulatory action limit for adult female lice per fish. */
 export const LICE_LIMIT = 0.5
@@ -93,4 +96,53 @@ export function licePressure(
       shareAboveLimit: count ? above / count : null,
     }
   })
+}
+
+export interface OperatorSeries {
+  operator: string
+  /** Farms that contributed (within range, excluding the site itself). */
+  farms: number
+  /** Distance-weighted lice per week, null where none of the farms reported. */
+  values: (number | null)[]
+}
+
+/** Nearest distance used for weighting, so a neighbour a few hundred metres away cannot dominate everything. */
+export const MIN_DISTANCE_KM = 0.5
+export const MAX_DISTANCE_KM = 150
+
+/**
+ * Lice at an operator's farms as seen from `at`, per week: the mean of the farms'
+ * reported values weighted by 1/d² (passive radial spread), over farms that
+ * reported that week only (fallow or silent farms carry no weight). The site
+ * itself (`excludeLoknr`) is left out.
+ */
+export function operatorPressureSeries(
+  data: FishHealth,
+  localities: Localities,
+  operator: string,
+  at: [number, number],
+  excludeLoknr: number | null,
+): OperatorSeries {
+  const farms: { w: number; l: (number | null)[] }[] = []
+  for (const f of localities.features) {
+    if (f.properties.loknr === excludeLoknr) continue
+    if (!operatorsOf(f.properties).includes(operator)) continue
+    const d = data.localities[String(f.properties.loknr)]
+    if (!d) continue
+    const km = haversineKm(at, f.geometry.coordinates as [number, number])
+    if (km > MAX_DISTANCE_KM) continue
+    farms.push({ w: 1 / Math.max(km, MIN_DISTANCE_KM) ** 2, l: d.l })
+  }
+  const values = data.weeks.map((_, i) => {
+    let sum = 0
+    let wsum = 0
+    for (const farm of farms) {
+      const v = farm.l[i]
+      if (v == null) continue
+      sum += farm.w * v
+      wsum += farm.w
+    }
+    return wsum > 0 ? sum / wsum : null
+  })
+  return { operator, farms: farms.length, values }
 }

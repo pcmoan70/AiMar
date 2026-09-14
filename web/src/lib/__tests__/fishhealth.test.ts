@@ -62,3 +62,31 @@ describe('licePressure', () => {
     expect(r).toEqual({ km: 5, farmsReporting: 0, meanLice: null, shareAboveLimit: null })
   })
 })
+
+describe('operatorPressureSeries', () => {
+  it('weights reporting farms by inverse squared distance and skips silent weeks', async () => {
+    const { operatorPressureSeries } = await import('../fishhealth')
+    const near = { ...p(1), til_innehavere: 'ACME AS' } // 1: at 5.0,60.0
+    const mid = { ...p(2), til_innehavere: 'ACME AS' } // 2: ~14 km east
+    const other = { ...p(3), til_innehavere: 'OTHER AS' }
+    const locs: Localities = {
+      type: 'FeatureCollection',
+      features: [
+        { type: 'Feature', geometry: { type: 'Point', coordinates: [5.0, 60.0] }, properties: near },
+        { type: 'Feature', geometry: { type: 'Point', coordinates: [5.25, 60.0] }, properties: mid },
+        { type: 'Feature', geometry: { type: 'Point', coordinates: [5.0, 60.05] }, properties: other },
+      ],
+    }
+    // viewed from 5.1,60.0: farm 1 is ~5.6 km, farm 2 ~8.3 km
+    const s = operatorPressureSeries(data, locs, 'ACME AS', [5.1, 60.0], null)
+    expect(s.farms).toBe(2)
+    // week 0: farm1 0.1, farm2 1.0 -> weighted towards the nearer farm 1 (< simple mean 0.55)
+    expect(s.values[0]!).toBeLessThan(0.55)
+    expect(s.values[0]!).toBeGreaterThan(0.1)
+    // week 2: farm1 fallow (null) -> only farm2 counts
+    expect(s.values[2]).toBeCloseTo(0.9, 5)
+    // excluding the site itself removes it from the pool
+    expect(operatorPressureSeries(data, locs, 'ACME AS', [5.1, 60.0], 2).values[0]).toBeCloseTo(0.1, 5)
+    expect(operatorPressureSeries(data, locs, 'NOBODY', [5.1, 60.0], null).farms).toBe(0)
+  })
+})

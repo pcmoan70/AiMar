@@ -1,5 +1,6 @@
 import { neighbourhood, type Localities } from '../lib/localities'
-import { licePressure, liceSeries, summarise, type FishHealth } from '../lib/fishhealth'
+import { licePressure, liceSeries, operatorPressureSeries, SERIES_COLOURS, summarise, type FishHealth } from '../lib/fishhealth'
+import { useSettings } from '../lib/settings'
 import LiceChart from './LiceChart'
 import Hint from './Hint'
 import { HINTS, type HintKey } from '../lib/hints'
@@ -15,6 +16,7 @@ const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0,
 const fmtNum = (n: number) => n.toLocaleString('en-GB', { maximumFractionDigits: 0 })
 
 export default function InspectPanel({ selection, localities, fishhealth }: Props) {
+  const { operatorFilter } = useSettings()
   if (!selection) return <div className="panel-body muted">Click a locality or any point in the sea.</div>
 
   if (selection.type === 'farm') {
@@ -34,6 +36,14 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
     ]
     const series = fishhealth ? liceSeries(fishhealth, p.loknr) : null
     const sum = series ? summarise(series) : null
+    const site = localities?.features.find((f) => f.properties.loknr === p.loknr)
+    const extras =
+      fishhealth && localities && site
+        ? operatorFilter.slice(0, SERIES_COLOURS.length - 1).map((op, k) => {
+            const s = operatorPressureSeries(fishhealth, localities, op, site.geometry.coordinates as [number, number], p.loknr)
+            return { name: `${op} (${s.farms} farms)`, values: s.values, colour: SERIES_COLOURS[k + 1] }
+          })
+        : []
     return (
       <div className="panel-body">
         <h2>{p.navn}</h2>
@@ -70,9 +80,10 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
                 </tr>
               </tbody>
             </table>
-            <Hint text={HINTS.liceChart} block>
-              <LiceChart series={series} />
+            <Hint text={extras.length ? HINTS.liceChartOperators : HINTS.liceChart} block>
+              <LiceChart series={series} extras={extras} />
             </Hint>
+            {!extras.length && <p className="muted">Select operators in the map dropdown to compare with their farms nearby.</p>}
             <p className="muted">Source: BarentsWatch fish health (NLOD 2.0), snapshot {fishhealth!.retrieved.slice(0, 10)}.</p>
           </>
         ) : (

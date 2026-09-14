@@ -5,7 +5,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
 const OUT = new URL('../public/data/', import.meta.url);
-const YEARS_BACK = 3;
+const START_YEAR = 2012; // first year with weekly lice reporting in the API
 const BASE = 'https://www.barentswatch.no/bwapi/v1/geodata/fishhealth';
 
 // Flag bits stored per locality-week (mirrored in src/lib/fishhealth.ts).
@@ -63,7 +63,7 @@ const wanted = new Set(localities.features.map((f) => f.properties.loknr));
 
 const now = isoWeekNow();
 const weeks = [];
-for (let y = now.year - YEARS_BACK; y <= now.year; y++) {
+for (let y = START_YEAR; y <= now.year; y++) {
   const last = y === now.year ? now.week - 1 : isoWeeksInYear(y);
   for (let w = 1; w <= last; w++) weeks.push([y, w]);
 }
