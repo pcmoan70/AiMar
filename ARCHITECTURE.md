@@ -44,6 +44,7 @@ flowchart LR
 | `components/InspectPanel.tsx` | Locality register entry, or hypothetical-site neighbourhood summary |
 | `components/OfflinePanel.tsx` | Online state, install button, storage usage, area download, cache clearing, data snapshot provenance |
 | `components/SearchBox.tsx` | Header search: name/number lookup, fly-to and select |
+| `components/OperatorDropdown.tsx` | Floating operator filter on the map; drives MapLibre filters on localities and borders |
 | `components/HelpPanel.tsx` | In-app help |
 | `components/UpdatePrompt.tsx` | "New version" / "ready offline" toast via `virtual:pwa-register/react` |
 | `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy |

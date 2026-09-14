@@ -24,7 +24,19 @@ export type MapHit = Selection | { type: 'loknr'; loknr: number }
 const POLYGON_LAYER = 'site-polygons'
 
 
-function buildStyle(s: Settings, selectedLoknr: number | null): StyleSpecification {
+/** MapLibre filter for the operator selection: null means no filter. */
+function operatorFilter(operators: string[], polygonLoknrs: number[] | null): { points: ExpressionSpecification; polygons: ExpressionSpecification } | null {
+  if (!operators.length) return null
+  const points: ExpressionSpecification = [
+    'any',
+    ...operators.map((op): ExpressionSpecification => ['>=', ['index-of', op, ['coalesce', ['get', 'til_innehavere'], '']], 0]),
+  ]
+  const polygons: ExpressionSpecification = ['in', ['get', 'loknr'], ['literal', polygonLoknrs ?? []]]
+  return { points, polygons }
+}
+
+function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: number[] | null): StyleSpecification {
+  const opf = operatorFilter(s.operatorFilter, polygonLoknrs)
   const sources: Record<string, SourceSpecification> = {}
   const layers: LayerSpecification[] = []
   const base = layerById(s.baseLayer) ?? BASE_LAYERS[0]
@@ -45,8 +57,9 @@ function buildStyle(s: Settings, selectedLoknr: number | null): StyleSpecificati
     } else if (l.kind === 'geojson') {
       sources[l.id] = { type: 'geojson', data: dataUrl(l.url.replace(/^data\//, '')), attribution: l.attribution }
       if (l.render === 'fill') {
-        layers.push({ id: l.id, type: 'fill', source: l.id, paint: { 'fill-color': SALMON_COLOUR, 'fill-opacity': 0.2 } })
-        layers.push({ id: `${l.id}-outline`, type: 'line', source: l.id, paint: { 'line-color': '#c8641a', 'line-width': 1.5 } })
+        const filter = opf ? { filter: opf.polygons } : {}
+        layers.push({ id: l.id, type: 'fill', source: l.id, ...filter, paint: { 'fill-color': SALMON_COLOUR, 'fill-opacity': 0.2 } })
+        layers.push({ id: `${l.id}-outline`, type: 'line', source: l.id, ...filter, paint: { 'line-color': '#c8641a', 'line-width': 1.5 } })
         continue
       }
       const isSalmon: ExpressionSpecification = ['>=', ['index-of', 'Laks', ['coalesce', ['get', 'til_arter'], '']], 0]
@@ -54,6 +67,7 @@ function buildStyle(s: Settings, selectedLoknr: number | null): StyleSpecificati
         id: l.id,
         type: 'circle',
         source: l.id,
+        ...(opf ? { filter: opf.points } : {}),
         paint: {
           'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3, 9, 6, 14, 10],
           'circle-color': ['case', isSalmon, SALMON_COLOUR, OTHER_COLOUR],
@@ -80,25 +94,27 @@ function buildStyle(s: Settings, selectedLoknr: number | null): StyleSpecificati
 
 interface Props {
   selectedLoknr: number | null
+  /** Locality numbers matching the operator filter (for the border polygons), null when unfiltered. */
+  filteredLoknrs: number[] | null
   onSelect: (hit: MapHit) => void
   onMap: (map: MlMap | null) => void
 }
 
-export default function MapView({ selectedLoknr, onSelect, onMap }: Props) {
+export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onMap }: Props) {
   const container = useRef<HTMLDivElement>(null)
   const mapRef = useRef<MlMap | null>(null)
   const onSelectRef = useRef(onSelect)
   onSelectRef.current = onSelect
   const appliedStyle = useRef('')
   const settings = useSettings()
-  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr])
+  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1])
 
   useEffect(() => {
     const s = getSettings()
-    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null])
+    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1])
     const map = new MlMap({
       container: container.current!,
-      style: buildStyle(s, null),
+      style: buildStyle(s, null, filteredLoknrs),
       center: s.view.center,
       zoom: s.view.zoom,
       attributionControl: { compact: true },
@@ -139,7 +155,7 @@ export default function MapView({ selectedLoknr, onSelect, onMap }: Props) {
   useEffect(() => {
     if (!mapRef.current || styleKey === appliedStyle.current) return
     appliedStyle.current = styleKey
-    mapRef.current.setStyle(buildStyle(settings, selectedLoknr), { diff: true })
+    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs), { diff: true })
   }, [styleKey]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return <div ref={container} className="map" />

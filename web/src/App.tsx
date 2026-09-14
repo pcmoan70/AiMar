@@ -4,12 +4,13 @@ import MapView, { type MapHit, type Selection } from './components/MapView'
 import LayerPanel from './components/LayerPanel'
 import InspectPanel from './components/InspectPanel'
 import OfflinePanel from './components/OfflinePanel'
+import OperatorDropdown from './components/OperatorDropdown'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
 import SearchBox from './components/SearchBox'
 import LoginScreen from './components/LoginScreen'
 import { logout, useAuth } from './lib/auth'
-import { loadLocalities, type Localities, type LocalityFeature } from './lib/localities'
+import { loadLocalities, sitesOfOperators, type Localities, type LocalityFeature } from './lib/localities'
 import { loadFishHealth, type FishHealth } from './lib/fishhealth'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
@@ -55,6 +56,7 @@ function MapApp() {
   }
   const setPanel = (id: PanelId) => updateSettings({ panel: s.panel === id ? null : id })
   const selectedLoknr = selection?.type === 'farm' ? selection.props.loknr : null
+  const filteredLoknrs = s.operatorFilter.length && localities ? sitesOfOperators(localities, s.operatorFilter) : null
 
   return (
     <div className="app">
@@ -75,7 +77,8 @@ function MapApp() {
         </nav>
       </header>
       <main>
-        <MapView selectedLoknr={selectedLoknr} onSelect={select} onMap={setMap} />
+        <MapView selectedLoknr={selectedLoknr} filteredLoknrs={filteredLoknrs} onSelect={select} onMap={setMap} />
+        <OperatorDropdown localities={localities} map={map} />
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}

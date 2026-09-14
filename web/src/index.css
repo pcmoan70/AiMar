@@ -115,3 +115,27 @@ a { color: var(--brand); }
 .login-card input { font: inherit; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; color: var(--fg); }
 .login-card button { margin-top: 6px; }
 .error { color: #b42318; margin: 0; }
+
+/* Operator dropdown on the map */
+.op-dropdown { position: absolute; top: 10px; left: 10px; z-index: 5; font-size: 13px; }
+.op-toggle {
+  display: flex; align-items: center; gap: 8px; background: var(--bg); color: var(--fg);
+  border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; box-shadow: 0 2px 8px rgba(0,0,0,.15); max-width: 320px;
+}
+.op-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.op-count { color: var(--muted); font-size: 12px; white-space: nowrap; }
+.op-caret { color: var(--muted); }
+.op-menu {
+  position: absolute; top: 100%; left: 0; margin-top: 4px; width: 320px; max-width: calc(100vw - 20px);
+  background: var(--bg); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 8px 24px rgba(0,0,0,.25);
+  padding: 8px; display: flex; flex-direction: column; gap: 6px;
+}
+.op-menu input[type=search] { width: 100%; font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; }
+.op-actions { display: flex; gap: 6px; }
+.op-actions button { padding: 4px 8px; font-size: 12px; }
+.op-list { max-height: 50vh; overflow-y: auto; }
+.op-list .row { padding: 3px 0; }
+@media (max-width: 720px) {
+  .op-dropdown { top: 8px; left: 8px; }
+  .op-toggle { max-width: calc(100vw - 80px); }
+}

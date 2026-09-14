@@ -11,6 +11,8 @@ export interface Settings {
   /** Extra zoom levels below the current one to prefetch when downloading an area. */
   downloadDepth: number
   panel: PanelId
+  /** Show only sites of these operators (empty = all). */
+  operatorFilter: string[]
 }
 
 const KEY = 'aimar.settings.v1'
@@ -21,6 +23,7 @@ export const DEFAULT_SETTINGS: Settings = {
   view: { center: [8.5, 63.5], zoom: 5 },
   downloadDepth: 2,
   panel: 'layers',
+  operatorFilter: [],
 }
 
 function load(): Settings {

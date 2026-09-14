@@ -56,6 +56,8 @@ with `BASE_PATH=/`.
   localities (bundled vector data). Layers with a colour scale show a legend
   when enabled.
 - Search box in the header finds a locality by name or number and flies to it.
+- Operator dropdown on the map filters dots and site borders to selected
+  operators, with site counts, capacity and zoom-to-sites.
 - Click a locality for its register entry (capacity, species, operators,
   production form, municipality, clearance date, link to Akvakulturregisteret)
   and its fish-health history: weekly adult female lice for the last four years

@@ -2,6 +2,10 @@
 
 ## 2026-09-14
 
+- Operator filter: dropdown on the map (multi-select with search, zoom to
+  sites, remembered in settings) limits localities and site borders to the
+  chosen operators.
+
 - AIS traffic density from Kystverket's MarTraf WMS-T (yearly 2024, monthly
   April 2025) added next to the 2022 track-density layer.
 - Climatology pipeline hardened: per-day child process with timeout, retries

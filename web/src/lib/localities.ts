@@ -99,3 +99,40 @@ export function searchLocalities(localities: Localities, query: string, limit = 
     .slice(0, limit)
     .map((x) => x.f)
 }
+
+/** Operators named on a locality (the register lists them comma-separated). */
+export const operatorsOf = (p: LocalityProps): string[] =>
+  (p.til_innehavere ?? '')
+    .split(',')
+    .map((x) => x.trim())
+    .filter(Boolean)
+
+export interface OperatorEntry {
+  name: string
+  sites: number
+  capacityTn: number
+}
+
+/** All operators with their site counts and permitted tonne capacity, largest first. */
+export function operatorIndex(localities: Localities): OperatorEntry[] {
+  const map = new Map<string, OperatorEntry>()
+  for (const f of localities.features) {
+    const cap = f.properties.kapasitet_unittype === 'TN' ? (f.properties.kapasitet_lok ?? 0) : 0
+    for (const name of operatorsOf(f.properties)) {
+      const e = map.get(name) ?? { name, sites: 0, capacityTn: 0 }
+      e.sites++
+      e.capacityTn += cap
+      map.set(name, e)
+    }
+  }
+  return [...map.values()].sort((a, b) => b.sites - a.sites || a.name.localeCompare(b.name))
+}
+
+/** Locality numbers of sites where any of `operators` is named. */
+export function sitesOfOperators(localities: Localities, operators: string[]): number[] {
+  if (!operators.length) return []
+  const wanted = new Set(operators)
+  return localities.features
+    .filter((f) => operatorsOf(f.properties).some((o) => wanted.has(o)))
+    .map((f) => f.properties.loknr)
+}
