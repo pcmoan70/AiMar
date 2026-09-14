@@ -156,24 +156,43 @@ def _read_day_worker(source_name: str, y: int, m: int, d: int, out: str) -> None
 
 
 def archive_day(source: Source, y: int, m: int, d: int, ds: xr.Dataset, raw: dict[str, np.ndarray]) -> None:
-    """Keep the day's subset as scaled int16 (NaN -> -32768) for advection and biology modelling."""
-    out = RAW_DIR / source.name / f"{y}" / f"{y}{m:02d}{d:02d}.npz"
+    """Keep the day's subset as compressed int16 NetCDF for advection and biology modelling.
+
+    Variables are packed with scale_factor = 1/archive_scale and _FillValue -32768,
+    zlib level 4 with byte shuffle (~7-8x smaller than raw int16). The grid
+    (lon, lat, depth) is written once to raw/<source>/grid.nc; day files carry
+    only time and depth coordinates.
+    """
+    out = RAW_DIR / source.name / f"{y}" / f"{y}{m:02d}{d:02d}.nc"
     if out.exists():
         return
     out.parent.mkdir(parents=True, exist_ok=True)
-    packed: dict[str, np.ndarray] = {}
+    grid = RAW_DIR / source.name / "grid.nc"
+    if not grid.exists():
+        g = xr.Dataset({
+            "lon": (("y", "x"), ds[source.lon_var].values.astype(np.float32)),
+            "lat": (("y", "x"), ds[source.lat_var].values.astype(np.float32)),
+        })
+        if "h" in ds:
+            g["h"] = (("y", "x"), ds["h"].values.astype(np.float32))
+        g.attrs.update(source=source.attribution, index_box=str(source.index_box))
+        g.to_netcdf(grid.with_suffix(".tmp.nc"), encoding={k: {"zlib": True, "complevel": 4} for k in g.data_vars})
+        os.replace(grid.with_suffix(".tmp.nc"), grid)
     scales = source.archive_scale or {}
-    for name, arr in raw.items():
-        scale = scales.get(name, 1.0)
-        q = np.round(np.nan_to_num(arr, nan=-1e9) * scale)
-        packed[name] = np.where(np.isfinite(arr), np.clip(q, -32767, 32767), -32768).astype(np.int16)
-        packed[f"{name}_scale"] = np.array(scale, np.float32)
-    packed["time"] = ds["time"].values.astype("datetime64[s]").astype(np.int64)
+    dims = ("time", "depth", "y", "x") if "depth" in ds.coords else ("time", "y", "x")
+    coords: dict = {"time": ds["time"].values}
     if "depth" in ds.coords:
-        packed["depth"] = ds["depth"].values.astype(np.float32)
-    packed["fill_value"] = np.array(-32768, np.int16)
-    tmp = out.with_suffix(".tmp.npz")
-    np.savez(tmp, **packed)
+        coords["depth"] = ds["depth"].values.astype(np.float32)
+    day = xr.Dataset({name: (dims, arr) for name, arr in raw.items()}, coords=coords)
+    encoding = {}
+    for name in raw:
+        scale = scales.get(name, 1.0)
+        encoding[name] = {"dtype": "int16", "scale_factor": 1.0 / scale, "add_offset": 0.0, "_FillValue": -32768,
+                          "zlib": True, "complevel": 4, "shuffle": True, "chunksizes": (1, 1, 902, 2520)[: len(dims)] if len(dims) == 4 else None}
+    encoding["time"] = {"units": "seconds since 1970-01-01", "dtype": "int64"}
+    day.attrs.update(source=source.attribution, hour_stride=source.stride, created=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()))
+    tmp = out.with_suffix(".tmp.nc")
+    day.to_netcdf(tmp, encoding=encoding)
     os.replace(tmp, out)
 
 

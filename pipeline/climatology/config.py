@@ -60,7 +60,7 @@ class Source:
     lat_var: str
     fields: tuple[Field, ...]
     attribution: str
-    #: keep each day's subset as int16 arrays under DATA_ROOT/raw/<name>/ (advection + biology modelling)
+    #: keep each day's subset as compressed int16 NetCDF under DATA_ROOT/raw/<name>/YYYY/ (advection + biology modelling)
     archive: bool = False
     #: int16 scale factor per archived variable
     archive_scale: dict[str, float] | None = None
@@ -84,7 +84,7 @@ WAVE = Source(
 NORKYST = Source(
     name="norkyst",
     url="https://thredds.met.no/thredds/dodsC/fou-hi/norkyst800m-1h/NorKyst-800m_ZDEPTHS_his.an.{y}{m:02d}{d:02d}00.nc",
-    stride=6,
+    stride=3,  # 8 snapshots/day: four per tidal cycle, enough for particle tracking
     index_box={"Y": slice(0, 902), "X": slice(0, 2520)},
     depth_slice=slice(0, len(CURRENT_DEPTHS_M)),
     lon_var="lon",
@@ -97,7 +97,8 @@ NORKYST = Source(
     ),
     attribution="MET Norway NorKyst-800 hourly hindcast, CC BY 4.0",
     archive=True,
-    archive_scale={"u_eastward": 1000.0, "v_northward": 1000.0, "temperature": 100.0, "salinity": 500.0},
+    # int16 precision: 1 cm/s, 0.01 °C, 0.01 PSU — compresses ~7-8x with zlib+shuffle
+    archive_scale={"u_eastward": 100.0, "v_northward": 100.0, "temperature": 100.0, "salinity": 100.0},
 )
 
 SOURCES = {s.name: s for s in (WAVE, NORKYST)}

@@ -23,6 +23,9 @@
   the operator dropdown clear filters. Filters combine with the operator
   selection and are remembered.
 
+- Pipeline: NorKyst sampled every 3 hours (four snapshots per tidal cycle);
+  the raw archive is compressed NetCDF4 (int16, 1 cm/s / 0.01 °C / 0.01 PSU,
+  zlib+shuffle, ~120 MB/day) with a separate grid file.
 - Pipeline: the NorKyst pass now also computes monthly temperature and
   salinity statistics at six depths (mean, p10, p90, shares below 4 °C / 20 PSU
   and above 18 °C) and archives every day's subset as int16 on the data disk

@@ -24,11 +24,13 @@ in the local Anaconda install).
 
 ### Raw NorKyst archive
 
-The NorKyst pass keeps every day's subset for later modelling:
-`$AIMAR_DATA/raw/norkyst/YYYY/YYYYMMDD.npz` with int16 arrays
-`u_eastward`, `v_northward` (×1000, mm/s), `temperature` (×100), `salinity`
-(×500), shape (time=4, depth=6, y=902, x=2520), `-32768` = missing, plus
-`time` (unix seconds), `depth` (m) and `<var>_scale`. Load with `np.load`;
-divide by the scale after masking the fill value. Statistics for temperature
-and salinity (`temperature_mMM.nc`, `salinity_mMM.nc`) carry mean, p10, p90,
-`calm_share` (below 4 °C / 20 PSU) and `high_share` (above 18 °C).
+The NorKyst pass keeps every day's subset for later modelling, at 3-hourly
+resolution (8 snapshots per day, four per tidal cycle):
+`$AIMAR_DATA/raw/norkyst/YYYY/YYYYMMDD.nc` — NetCDF4 with `u_eastward`,
+`v_northward`, `temperature`, `salinity` of shape (time=8, depth=6, y=902,
+x=2520), packed as int16 with scale factors (1 cm/s, 0.01 °C, 0.01 PSU),
+`-32768` = missing, zlib level 4 + shuffle (~120 MB/day). xarray unpacks them
+automatically: `xr.open_dataset(path)`. The grid (lon, lat, bathymetry h) is
+in `raw/norkyst/grid.nc`. Statistics for temperature and salinity
+(`temperature_mMM.nc`, `salinity_mMM.nc`) carry mean, p10, p90, `calm_share`
+(below 4 °C / 20 PSU) and `high_share` (above 18 °C).
