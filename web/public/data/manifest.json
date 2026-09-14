@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-09-13T22:00:39.039Z",
+  "retrieved": "2026-09-14T09:51:52.396Z",
   "sources": [
     {
       "file": "localities.geojson",
@@ -8,7 +8,7 @@
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS/MapServer/3/query?where=1%3D1&outFields=loknr,navn,status_lokalitet,kapasitet_lok,kapasitet_unittype,plassering,vannmiljo,fylke,kommune,til_arter,til_innehavere,til_formaal,til_produksjonsform,prodareacode,klareringsdato,lokalitet_url&f=geojson&outSR=4326",
       "license": "NLOD 2.0",
       "crs": "EPSG:4326",
-      "featureCount": 1781
+      "featureCount": 1782
     },
     {
       "file": "site_polygons.geojson",
@@ -17,7 +17,7 @@
       "url": "https://api.fiskeridir.no/pub-aqua/api/v1/sites/{siteNr}/borders",
       "license": "NLOD 2.0",
       "crs": "EPSG:4326",
-      "featureCount": 1366
+      "featureCount": 1367
     },
     {
       "file": "fishhealth.json",
@@ -26,7 +26,7 @@
       "url": "https://www.barentswatch.no/bwapi/v1/geodata/fishhealth/locality/{year}/{week}",
       "license": "NLOD 2.0",
       "featureCount": 1779,
-      "retrieved": "2026-09-14T07:44:26.436Z"
+      "retrieved": "2026-09-14T09:57:48.133Z"
     }
   ]
 }
