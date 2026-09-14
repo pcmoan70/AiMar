@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Map dots are drawn with grey (unlisted) operators at the bottom and coloured
+  operators on top, largest company topmost (`circle-sort-key`).
+
 - Operator colours: fixed table (`web/src/lib/operatorColours.ts`) gives every
   operator with 16+ sites its own colour (40 today; first eight on the
   validated palette, then an extended sequence). `scripts/gen-operator-colours.mjs`

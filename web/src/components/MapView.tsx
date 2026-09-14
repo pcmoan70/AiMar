@@ -80,11 +80,21 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
         ]),
         OTHER_COLOUR,
       ] as unknown as ExpressionSpecification
+      // Draw order: grey sites at the bottom, then coloured operators with the largest (first in the table) on top.
+      const sortExpr: ExpressionSpecification = [
+        'case',
+        ...assignments.flatMap((a, i): [ExpressionSpecification, number] => [
+          ['>=', ['index-of', a.name, ['coalesce', ['get', 'til_innehavere'], '']], 0],
+          assignments.length - i,
+        ]),
+        0,
+      ] as unknown as ExpressionSpecification
       layers.push({
         id: l.id,
         type: 'circle',
         source: l.id,
         ...(opf ? { filter: opf.points } : {}),
+        layout: { 'circle-sort-key': sortExpr },
         paint: {
           'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3, 9, 6, 14, 10],
           'circle-color': colourExpr,
