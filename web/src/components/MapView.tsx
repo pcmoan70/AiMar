@@ -10,7 +10,8 @@ import {
   type SourceSpecification,
   type StyleSpecification,
 } from 'maplibre-gl'
-import { BASE_LAYERS, LOCALITIES_LAYER, OTHER_COLOUR, OVERLAY_LAYERS, SALMON_COLOUR, layerById, wmsTileUrl } from '../lib/layers'
+import { BASE_LAYERS, LOCALITIES_LAYER, OVERLAY_LAYERS, SALMON_COLOUR, layerById, wmsTileUrl } from '../lib/layers'
+import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
 import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
 import { dataUrl, type LocalityProps } from '../lib/localities'
 import { filteredTileUrl } from '../lib/tileFilters'
@@ -65,7 +66,20 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
         layers.push({ id: `${l.id}-outline`, type: 'line', source: l.id, ...filter, paint: { 'line-color': '#c8641a', 'line-width': 1.5 } })
         continue
       }
-      const isSalmon: ExpressionSpecification = ['>=', ['index-of', 'Laks', ['coalesce', ['get', 'til_arter'], '']], 0]
+      // Colour by operator: table entries first (fixed order), then selected unlisted operators, else grey.
+      const pal = paletteFor(s.operatorFilter)
+      const assignments = [
+        ...OPERATOR_COLOURS,
+        ...s.operatorFilter.filter((op) => !OPERATOR_COLOURS.some((o) => o.name === op)).map((op) => ({ name: op, colour: pal.get(op)! })),
+      ]
+      const colourExpr: ExpressionSpecification = [
+        'case',
+        ...assignments.flatMap((a): [ExpressionSpecification, string] => [
+          ['>=', ['index-of', a.name, ['coalesce', ['get', 'til_innehavere'], '']], 0],
+          a.colour,
+        ]),
+        OTHER_COLOUR,
+      ] as unknown as ExpressionSpecification
       layers.push({
         id: l.id,
         type: 'circle',
@@ -73,7 +87,7 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
         ...(opf ? { filter: opf.points } : {}),
         paint: {
           'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3, 9, 6, 14, 10],
-          'circle-color': ['case', isSalmon, SALMON_COLOUR, OTHER_COLOUR],
+          'circle-color': colourExpr,
           'circle-stroke-color': '#ffffff',
           'circle-stroke-width': 1,
         },
@@ -86,7 +100,7 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
         paint: {
           'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 8, 14, 16],
           'circle-color': 'rgba(0,0,0,0)',
-          'circle-stroke-color': '#ffd60a',
+          'circle-stroke-color': '#111111',
           'circle-stroke-width': 3,
         },
       })

@@ -1,5 +1,6 @@
 import { neighbourhood, type Localities } from '../lib/localities'
-import { licePressure, liceSeries, operatorPressureSeries, SERIES_COLOURS, summarise, type FishHealth } from '../lib/fishhealth'
+import { licePressure, liceSeries, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
+import { ALL_FARMS_COLOUR, paletteFor } from '../lib/operatorColours'
 import { useSettings } from '../lib/settings'
 import LiceChart from './LiceChart'
 import Hint from './Hint'
@@ -41,13 +42,13 @@ export default function InspectPanel({ selection, localities, fishhealth }: Prop
     const extras =
       fishhealth && localities && at
         ? operatorFilter.length
-          ? operatorFilter.slice(0, SERIES_COLOURS.length - 1).map((op, k) => {
+          ? operatorFilter.slice(0, 8).map((op) => {
               const s = operatorPressureSeries(fishhealth, localities, op, at, p.loknr)
-              return { name: `${op} (${s.farms} farms)`, values: s.values, colour: SERIES_COLOURS[k + 1] }
+              return { name: `${op} (${s.farms} farms)`, values: s.values, colour: paletteFor(operatorFilter).get(op)! }
             })
           : [(() => {
               const s = operatorPressureSeries(fishhealth, localities, undefined, at, p.loknr)
-              return { name: `All farms within 150 km (${s.farms})`, values: s.values, colour: SERIES_COLOURS[1] }
+              return { name: `All farms within 150 km (${s.farms})`, values: s.values, colour: ALL_FARMS_COLOUR }
             })()]
         : []
     return (

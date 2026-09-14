@@ -1,4 +1,7 @@
-import { CATEGORIES, LEGEND, overlaysIn } from '../lib/layers'
+import { CATEGORIES, overlaysIn } from '../lib/layers'
+import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
+import Hint from './Hint'
+import { HINTS } from '../lib/hints'
 import { updateSettings, useSettings } from '../lib/settings'
 
 const CACHE_LABEL = { precache: 'bundled', 'cache-first': 'cached on view', forecast: 'forecast, cached 1 day' }
@@ -63,11 +66,19 @@ export default function LayerPanel() {
       })}
       {s.layerTab === 'aquaculture' && (
         <>
-          <h3>Legend</h3>
-          {LEGEND.map((e) => (
-            <div key={e.label} className="row legend">
+          <h3>
+            <Hint text={HINTS.operatorColours}>Locality colours</Hint>
+          </h3>
+          {[
+            ...OPERATOR_COLOURS,
+            ...s.operatorFilter
+              .filter((op) => !OPERATOR_COLOURS.some((o) => o.name === op))
+              .map((op) => ({ name: `${op} (selected)`, colour: paletteFor(s.operatorFilter).get(op)! })),
+            { name: 'Other operators', colour: OTHER_COLOUR },
+          ].map((e) => (
+            <div key={e.name} className="row legend">
               <span className="swatch" style={{ background: e.colour }} />
-              <span>{e.label}</span>
+              <span>{e.name}</span>
             </div>
           ))}
         </>

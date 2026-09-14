@@ -3,9 +3,6 @@ import { dataUrl, haversineKm, operatorsOf, type Localities } from './localities
 
 export const FLAG = { reported: 1, fallow: 2, mechanical: 4, substance: 8, cleanerfish: 16, pd: 32, ila: 64 } as const
 
-/** Validated categorical palette (dataviz reference): site line first, then operator lines. */
-export const SERIES_COLOURS = ['#2a78d6', '#eb6834', '#1baf7a', '#eda100', '#e87ba4']
-
 /** Regulatory action limit for adult female lice per fish. */
 export const LICE_LIMIT = 0.5
 

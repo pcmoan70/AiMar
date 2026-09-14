@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import { FLAG, LICE_LIMIT, SERIES_COLOURS, type WeekPoint } from '../lib/fishhealth'
+import { FLAG, LICE_LIMIT, type WeekPoint } from '../lib/fishhealth'
+import { SITE_COLOUR } from '../lib/operatorColours'
 
 export interface ExtraSeries {
   name: string
@@ -159,7 +160,7 @@ export default function LiceChart({ series: full, extras = [] }: Props) {
       )}
       {extras.length > 0 && (
         <div className="chart-legend">
-          <span><i style={{ background: SERIES_COLOURS[0] }} /> This site</span>
+          <span><i style={{ background: SITE_COLOUR }} /> This site</span>
           {extras.map((x) => (
             <span key={x.name}><i style={{ background: x.colour }} /> {x.name}</span>
           ))}

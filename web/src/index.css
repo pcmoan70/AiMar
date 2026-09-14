@@ -126,7 +126,7 @@ a { color: var(--brand); }
 .chart-grid { stroke: var(--line); stroke-width: 1; }
 .chart-tick { font-size: 9px; fill: var(--muted); }
 .chart-limit { stroke: #b42318; stroke-width: 1; }
-.chart-line { fill: none; stroke: #2a78d6; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart-line { fill: none; stroke: #0b3d5c; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
 .chart-line.extra { stroke-width: 1.5; opacity: .9; }
 .chart-legend { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12px; margin: 2px 0; }
 .chart-legend i, .chart-readout-extra i { display: inline-block; width: 14px; height: 3px; border-radius: 2px; vertical-align: middle; margin-right: 4px; }
@@ -134,7 +134,7 @@ a { color: var(--brand); }
 .chart-event { fill: var(--muted); }
 .chart-fallow { fill: #000; opacity: .06; }
 .chart-crosshair { stroke: var(--muted); stroke-width: 1; }
-.chart-marker { fill: #2a78d6; stroke: var(--bg); stroke-width: 2; }
+.chart-marker { fill: #0b3d5c; stroke: var(--bg); stroke-width: 2; }
 .chart-readout { font-size: 12px; min-height: 18px; margin: 2px 0 6px; }
 .chart-range { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 4px; font-size: 12px; }
 .chart-toggle { padding: 3px 8px; font-size: 12px; white-space: nowrap; }

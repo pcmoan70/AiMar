@@ -2,6 +2,11 @@
 
 ## 2026-09-14
 
+- Operator colours: fixed table (`web/src/lib/operatorColours.ts`) gives the
+  eight largest operators one hue each of the validated palette; others are
+  grey; a selected unlisted operator borrows a free hue. Map dots, chart lines
+  and scatter dots share these colours; the Aquaculture tab shows the legend.
+
 - Lice chart: one toggle button switches between history and "site vs average"; the scatter view plots each
   week as a dot of comparison average (x) against this site (y) with a 1:1
   diagonal, nearest-dot hover and a share-of-weeks-above summary.
