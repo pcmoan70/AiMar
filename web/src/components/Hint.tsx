@@ -16,7 +16,7 @@ interface Props {
 /**
  * Wraps a label or value; hovering, focusing or tapping shows an explanation of source and method.
  * The popup stays while the pointer is on the label or the popup itself and closes with its ✕, Escape, or leaving both.
- * Ø blocks this popup until "unblock" in Settings.
+ * The prohibition sign (ISO 7010 P001) blocks this popup until "unblock" in Settings.
  */
 export default function Hint({ id, text, children, block }: Props) {
   const t = useT()
@@ -85,7 +85,10 @@ export default function Hint({ id, text, children, block }: Props) {
               aria-label={t('hint.block')}
               title={t('hint.block')}
             >
-              Ø
+              <svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true">
+                <circle cx="10" cy="10" r="8" fill="#fff" stroke="#d0021b" strokeWidth="3" />
+                <line x1="4.3" y1="4.3" x2="15.7" y2="15.7" stroke="#d0021b" strokeWidth="3" />
+              </svg>
             </button>
             <button type="button" className="hint-close" onClick={hide} aria-label={t('hint.close')} title={t('hint.close')}>
               ✕

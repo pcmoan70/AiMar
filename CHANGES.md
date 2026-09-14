@@ -2,7 +2,8 @@
 
 ## 2026-09-14
 
-- Explanation popups have a Ø button that blocks that explanation; ⚙ Settings
+- Explanation popups have a prohibition-sign button (ISO 7010 P001) that
+  blocks that explanation; ⚙ Settings
   gets "Unblock explanations (n)" to show them again. Blocks persist on the
   device (settings store).
 - Operator dropdown lists operators by permitted capacity (tonnes) instead of

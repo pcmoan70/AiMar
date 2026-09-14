@@ -32,7 +32,7 @@ export const nb: Record<string, string> = {
   'settings.cacheNote': 'Minst nylig brukte kartlagsbilder og andre data fjernes først, bakgrunnskartfliser sist.',
   'settings.offline': 'Frakoblet og lagring…',
   'settings.unblock': 'Opphev blokkerte forklaringer ({n})',
-  'settings.unblockNote': 'Vis forklaringsboblene som er blokkert med Ø igjen.',
+  'settings.unblockNote': 'Vis forklaringsboblene som er blokkert med forbudsskiltet igjen.',
   'settings.offlineNote': 'Last ned områder, se hva som er lagret, innpakkede data.',
 
   // update prompt
@@ -349,11 +349,11 @@ export const nb: Record<string, string> = {
   'hint.snapshot': 'Dato de innpakkede datasettene ble lastet ned fra kildene; en ukentlig jobb oppdaterer dem og publiserer appen på nytt.',
 
   // help
-  'help.intro': 'Et kart med åpne data over norske akvakulturlokaliteter og forholdene rundt dem, laget for å virke uten nett. Alle tall i appen har prikket understrek: hold pekeren over, trykk eller fokuser for å se kilde og beregningsmåte; boblen blir stående så lenge pekeren er på den, og lukkes med ✕ eller Escape; Ø blokkerer den forklaringen til du opphever blokkeringen i ⚙ Innstillinger.',
+  'help.intro': 'Et kart med åpne data over norske akvakulturlokaliteter og forholdene rundt dem, laget for å virke uten nett. Alle tall i appen har prikket understrek: hold pekeren over, trykk eller fokuser for å se kilde og beregningsmåte; boblen blir stående så lenge pekeren er på den, og lukkes med ✕ eller Escape; det røde forbudsskiltet blokkerer den forklaringen til du opphever blokkeringen i ⚙ Innstillinger.',
   'help.header.title': 'Topplinje',
   'help.header.1': '**Søk** finner en lokalitet etter navn eller nummer og flyr dit.',
   'help.header.2': '**Kartlag**, **Detaljer**, **Saker** og **Hjelp** åpner sidepanelet.',
-  'help.header.3': '**⚙ Innstillinger** inneholder språk, bakgrunnskart (topografisk, gråtone, sjøkart), grense for frakoblet lager, panelet Frakoblet og lagring og «Opphev blokkerte forklaringer» for bobler blokkert med Ø.',
+  'help.header.3': '**⚙ Innstillinger** inneholder språk, bakgrunnskart (topografisk, gråtone, sjøkart), grense for frakoblet lager, panelet Frakoblet og lagring og «Opphev blokkerte forklaringer» for bobler blokkert med forbudsskiltet.',
   'help.header.4': '**Logg ut** går tilbake til innloggingen. Innloggingen huskes på denne enheten.',
   'help.map.title': 'Kart',
   'help.map.1': 'Prikker er akvakulturlokaliteter; anleggsgrenser er de klarerte flatene.',
