@@ -27,6 +27,8 @@ export interface Settings {
   heatRadiusKm: number
   /** Explanation popups the user blocked with Ø (hint ids). */
   blockedHints: string[]
+  /** Week index into fishhealth.weeks for the lice-per-week layers; -1 = latest week. */
+  liceWeek: number
 }
 
 const KEY = 'aimar.settings.v1'
@@ -44,6 +46,7 @@ export const DEFAULT_SETTINGS: Settings = {
   fieldFilters: {},
   heatRadiusKm: 20,
   blockedHints: [],
+  liceWeek: -1,
 }
 
 function load(): Settings {

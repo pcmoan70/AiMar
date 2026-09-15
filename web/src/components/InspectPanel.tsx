@@ -50,8 +50,8 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
     const clearFilter = (key: FilterKey) => updateSettings({ fieldFilters: { ...fieldFilters, [key]: undefined } })
     const setFilters = (next: FieldFilters) => updateSettings({ fieldFilters: next })
     const active = new Set(activeFilterKeys(fieldFilters))
-    const stats = fishhealth ? liceStatsIndex(fishhealth) : undefined
-    const series = fishhealth ? liceSeries(fishhealth, p.loknr) : null
+    const stats = fishhealth ? liceStatsIndex(fishhealth, localities) : undefined
+    const series = fishhealth ? liceSeries(fishhealth, p.loknr, p.fylke) : null
     const sum = series ? summarise(series) : null
     const my = stats?.get(p.loknr)
     const liceRows: [string, string, HintKey, FilterKey][] = my

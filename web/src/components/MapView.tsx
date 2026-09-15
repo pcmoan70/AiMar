@@ -35,7 +35,7 @@ function operatorFilter(_operators: string[], loknrs: number[] | null): { points
   return { points: expr, polygons: expr }
 }
 
-function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: number[] | null): StyleSpecification {
+function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: number[] | null, liceColours: Map<number, string> | null): StyleSpecification {
   const opf = operatorFilter(s.operatorFilter, polygonLoknrs)
   const sources: Record<string, SourceSpecification> = {}
   const layers: LayerSpecification[] = []
@@ -52,6 +52,7 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
   for (const l of OVERLAY_LAYERS) {
     if (!s.overlays.includes(l.id)) continue
     if (l.kind === 'computed') {
+      if (l.render === 'dots') continue // recolours the locality dots below, no source of its own
       // Image painted by HeatmapLayer; a transparent pixel until the first draw.
       sources[l.id] = {
         type: 'image',
@@ -79,7 +80,11 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
         ...OPERATOR_COLOURS,
         ...s.operatorFilter.filter((op) => !OPERATOR_COLOURS.some((o) => o.name === op)).map((op) => ({ name: op, colour: pal.get(op)! })),
       ]
-      const colourExpr: ExpressionSpecification = [
+      // Lice-per-week layer: colour by the chosen week's reported lice instead of by operator.
+      const liceExpr: ExpressionSpecification | null = liceColours
+        ? (['match', ['get', 'loknr'], ...[...liceColours.entries()].flatMap(([nr, c]) => [nr, c]), OTHER_COLOUR] as unknown as ExpressionSpecification)
+        : null
+      const colourExpr: ExpressionSpecification = liceExpr ?? [
         'case',
         ...assignments.flatMap((a): [ExpressionSpecification, string] => [
           ['>=', ['index-of', a.name, ['coalesce', ['get', 'til_innehavere'], '']], 0],
@@ -130,13 +135,15 @@ interface Props {
   selectedLoknr: number | null
   /** Locality numbers matching the operator filter (for the border polygons), null when unfiltered. */
   filteredLoknrs: number[] | null
+  /** loknr -> colour for the lice-per-week layer, null when that layer is off. */
+  liceColours: Map<number, string> | null
   onSelect: (hit: MapHit) => void
   /** Right-click: the locality under the pointer (or null) and the pixel position. */
   onContextMenu: (locality: LocalityProps | null, point: { x: number; y: number }) => void
   onMap: (map: MlMap | null) => void
 }
 
-export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onContextMenu, onMap }: Props) {
+export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, onSelect, onContextMenu, onMap }: Props) {
   const container = useRef<HTMLDivElement>(null)
   const mapRef = useRef<MlMap | null>(null)
   const onSelectRef = useRef(onSelect)
@@ -145,14 +152,14 @@ export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onCon
   onContextRef.current = onContextMenu
   const appliedStyle = useRef('')
   const settings = useSettings()
-  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1])
+  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? settings.liceWeek : null, liceColours?.size ?? 0])
 
   useEffect(() => {
     const s = getSettings()
-    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1])
+    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? s.liceWeek : null, liceColours?.size ?? 0])
     const map = new MlMap({
       container: container.current!,
-      style: buildStyle(s, null, filteredLoknrs),
+      style: buildStyle(s, null, filteredLoknrs, liceColours),
       center: s.view.center,
       zoom: s.view.zoom,
       attributionControl: { compact: true },
@@ -202,7 +209,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, onSelect, onCon
   useEffect(() => {
     if (!mapRef.current || styleKey === appliedStyle.current) return
     appliedStyle.current = styleKey
-    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs), { diff: true })
+    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours), { diff: true })
   }, [styleKey]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return <div ref={container} className="map" />

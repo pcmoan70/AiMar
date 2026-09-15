@@ -50,6 +50,8 @@ flowchart LR
 | `components/Hint.tsx` | Tooltip wrapper (hover / focus / tap) rendering an explanation from `lib/hints.ts` |
 | `components/HoverInfo.tsx` | Pointer-following card: vector hits, decoded-tile density sampling, debounced WMS GetFeatureInfo per enabled overlay |
 | `lib/featureInfo.ts` | GetFeatureInfo URL builder and response parsers (ncWMS XML, ArcGIS GeoJSON, MapServer text) |
+| `components/LiceWeekSlider.tsx` | Year/week slider for the lice-per-week layers with summary and colour key (`lib/liceWeek.ts`: bins, week values, heat inputs, ISO week dates) |
+| `components/HeatmapLayer.tsx` | Headless kernel-ratio heatmap into an image source (treatment intensity, weekly lice pressure); `lib/heatmap.ts` keeps per-layer grids for hover |
 | `components/HelpPanel.tsx` | In-app help |
 | `components/UpdatePrompt.tsx` | "New version" / "ready offline" toast via `virtual:pwa-register/react`; polls `sw.js` every 10 min and on focus/online |
 | `lib/layers.ts` | **Layer registry**: id, kind (xyz / wms / geojson), URL, organisation, licence, attribution, cache policy, category tab and per-tab importance order |

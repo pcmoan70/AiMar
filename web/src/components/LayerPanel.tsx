@@ -1,5 +1,6 @@
 import { CATEGORIES, overlaysIn } from '../lib/layers'
 import { HEAT_MAX, HEAT_RADII_KM, HEAT_RAMP } from '../lib/heatmap'
+import { LICE_HEAT_MAX } from '../lib/liceWeek'
 import Hint from './Hint'
 import { useT } from '../lib/i18n'
 import { updateSettings, useSettings } from '../lib/settings'
@@ -53,13 +54,21 @@ export default function LayerPanel() {
           <label key={l.id} className="row">
             <input type="checkbox" checked={on} onChange={() => toggle(l.id)} />
             <span>
-              {l.id === 'treatment-heat' ? <Hint id="treatmentHeat" text={t('hint.treatmentHeat')}>{t(`layer.${l.id}.title`)}</Hint> : t(`layer.${l.id}.title`)}
+              {l.id === 'treatment-heat' ? (
+                <Hint id="treatmentHeat" text={t('hint.treatmentHeat')}>{t(`layer.${l.id}.title`)}</Hint>
+              ) : l.id === 'lice-week' ? (
+                <Hint id="liceWeek" text={t('hint.liceWeek')}>{t(`layer.${l.id}.title`)}</Hint>
+              ) : l.id === 'lice-heat' ? (
+                <Hint id="liceHeat" text={t('hint.liceHeat')}>{t(`layer.${l.id}.title`)}</Hint>
+              ) : (
+                t(`layer.${l.id}.title`)
+              )}
               <small>
                 {l.description ? `${t(`layer.${l.id}.desc`)} ` : ''}
                 {l.organisation} · {l.license} · {t(`layers.cache.${l.cache}`)}
               </small>
               {on && l.legend && <img className="legend-img" src={l.legend} alt={t('layers.legendAlt', { l: t(`layer.${l.id}.title`) })} />}
-              {on && l.id === 'treatment-heat' && (
+              {on && (l.id === 'treatment-heat' || l.id === 'lice-heat') && (
                 <span className="heat-controls" onClick={(e) => e.preventDefault()}>
                   <label className="heat-radius">
                     <Hint id="heatRadius" text={t('hint.heatRadius')}>{t('heat.radius')}</Hint>
@@ -71,14 +80,22 @@ export default function LayerPanel() {
                       ))}
                     </select>
                   </label>
-                  <span className="heat-legend" aria-label={t('heat.legend')}>
+                  <span className="heat-legend" aria-label={t(l.id === 'lice-heat' ? 'liceHeat.legend' : 'heat.legend')}>
                     <span className="heat-bar" style={{ background: `linear-gradient(to right, ${HEAT_RAMP.join(', ')})` }} />
-                    <span className="heat-ticks">
-                      <span>0 %</span>
-                      <span>{Math.round((HEAT_MAX * 100) / 2)} %</span>
-                      <span>≥ {Math.round(HEAT_MAX * 100)} %</span>
-                    </span>
-                    <small>{t('heat.legend')}</small>
+                    {l.id === 'lice-heat' ? (
+                      <span className="heat-ticks">
+                        <span>0</span>
+                        <span>{LICE_HEAT_MAX / 2}</span>
+                        <span>≥ {LICE_HEAT_MAX}</span>
+                      </span>
+                    ) : (
+                      <span className="heat-ticks">
+                        <span>0 %</span>
+                        <span>{Math.round((HEAT_MAX * 100) / 2)} %</span>
+                        <span>≥ {Math.round(HEAT_MAX * 100)} %</span>
+                      </span>
+                    )}
+                    <small>{t(l.id === 'lice-heat' ? 'liceHeat.legend' : 'heat.legend')}</small>
                   </span>
                 </span>
               )}

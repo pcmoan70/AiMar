@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { FLAG, licePressure, liceSeries, summarise, type FishHealth } from '../fishhealth'
+import { FLAG, liceLimit, licePressure, liceSeries, limitsForWeek, summarise, type FishHealth } from '../fishhealth'
 import type { Localities, LocalityProps } from '../localities'
 
 const weeks = ['2025-50', '2025-51', '2025-52', '2026-01']
@@ -29,7 +29,7 @@ describe('liceSeries', () => {
   it('aligns values and flags with week labels', () => {
     const s = liceSeries(data, 1)!
     expect(s).toHaveLength(4)
-    expect(s[1]).toEqual({ week: '2025-51', lice: 0.8, flags: FLAG.reported | FLAG.mechanical })
+    expect(s[1]).toEqual({ week: '2025-51', lice: 0.8, flags: FLAG.reported | FLAG.mechanical, limit: 0.5 })
   })
   it('returns null for unknown localities', () => expect(liceSeries(data, 99)).toBeNull())
 })
@@ -37,7 +37,7 @@ describe('liceSeries', () => {
 describe('summarise', () => {
   it('counts reported weeks, exceedances and treatments', () => {
     const s = summarise(liceSeries(data, 1)!)
-    expect(s.latest).toEqual({ week: '2026-01', lice: 0.3, flags: FLAG.reported })
+    expect(s.latest).toEqual({ week: '2026-01', lice: 0.3, flags: FLAG.reported, limit: 0.5 })
     expect(s.weeksReported).toBe(3)
     expect(s.weeksAboveLimit).toBe(1)
     expect(s.treatments).toBe(1)
@@ -92,5 +92,20 @@ describe('operatorPressureSeries', () => {
     const all = operatorPressureSeries(data, locs, undefined, [5.1, 60.0], null)
     expect(all.farms).toBe(2)
     expect(all.values[2]).toBeCloseTo(0.9, 5)
+  })
+})
+
+describe('lice limit by week and region', () => {
+  it('applies the spring limit in the right weeks per region', () => {
+    expect(liceLimit('2025-10', 'VESTLAND')).toBe(0.5)
+    expect(liceLimit('2025-16', 'VESTLAND')).toBe(0.2)
+    expect(liceLimit('2025-21', 'VESTLAND')).toBe(0.2)
+    expect(liceLimit('2025-22', 'VESTLAND')).toBe(0.5)
+    expect(liceLimit('2025-16', 'NORDLAND')).toBe(0.5)
+    expect(liceLimit('2025-21', 'TROMS')).toBe(0.2)
+    expect(liceLimit('2025-26', 'FINNMARK')).toBe(0.2)
+    expect(liceLimit('2025-27', 'FINNMARK')).toBe(0.5)
+    expect(liceLimit('2025-18', null)).toBe(0.2)
+    expect(limitsForWeek('2025-24')).toEqual({ south: 0.5, north: 0.2 })
   })
 })

@@ -58,8 +58,9 @@ export interface HeatGrid {
   radiusKm: number
 }
 
-/** Compute the ratio grid. `radiusM` is the kernel radius in Mercator metres (R km scaled by 1/cos(lat)). */
-export function computeHeat(farms: FarmStat[], bounds: [number, number, number, number], width: number, height: number, radiusM: number, radiusKm: number): HeatGrid {
+/** Compute the ratio grid. `radiusM` is the kernel radius in Mercator metres (R km scaled by 1/cos(lat));
+ *  pixels whose weighted denominator is below `minDen` stay transparent. */
+export function computeHeat(farms: FarmStat[], bounds: [number, number, number, number], width: number, height: number, radiusM: number, radiusKm: number, minDen = MIN_PROD_WEEKS): HeatGrid {
   const [w, s, e, n] = bounds
   const values = new Float32Array(width * height).fill(NaN)
   // Spatial hash with cell = radius so each pixel checks 3×3 buckets
@@ -99,20 +100,20 @@ export function computeHeat(farms: FarmStat[], bounds: [number, number, number, 
             den += k * f.prod
           }
         }
-      if (den >= MIN_PROD_WEEKS) values[row * width + col] = num / den
+      if (den >= minDen) values[row * width + col] = num / den
     }
   }
   return { bounds, width, height, values, radiusKm }
 }
 
-export function heatColour(v: number): [number, number, number] {
-  const i = Math.min(HEAT_RAMP.length - 1, Math.floor((v / HEAT_MAX) * HEAT_RAMP.length))
+export function heatColour(v: number, max = HEAT_MAX): [number, number, number] {
+  const i = Math.min(HEAT_RAMP.length - 1, Math.floor((v / max) * HEAT_RAMP.length))
   const hex = HEAT_RAMP[i]
   return [parseInt(hex.slice(1, 3), 16), parseInt(hex.slice(3, 5), 16), parseInt(hex.slice(5, 7), 16)]
 }
 
 /** Paint the grid onto a canvas (transparent where NaN). */
-export function paintHeat(grid: HeatGrid, canvas: HTMLCanvasElement, alpha = 0.75): void {
+export function paintHeat(grid: HeatGrid, canvas: HTMLCanvasElement, alpha = 0.75, max = HEAT_MAX): void {
   canvas.width = grid.width
   canvas.height = grid.height
   const ctx = canvas.getContext('2d')!
@@ -120,7 +121,7 @@ export function paintHeat(grid: HeatGrid, canvas: HTMLCanvasElement, alpha = 0.7
   for (let i = 0; i < grid.values.length; i++) {
     const v = grid.values[i]
     if (Number.isNaN(v)) continue
-    const [r, g, b] = heatColour(v)
+    const [r, g, b] = heatColour(v, max)
     img.data[i * 4] = r
     img.data[i * 4 + 1] = g
     img.data[i * 4 + 2] = b
@@ -129,16 +130,17 @@ export function paintHeat(grid: HeatGrid, canvas: HTMLCanvasElement, alpha = 0.7
   ctx.putImageData(img, 0, 0)
 }
 
-let lastGrid: HeatGrid | null = null
-export const setLastHeat = (g: HeatGrid | null) => (lastGrid = g)
+const lastGrids = new Map<string, HeatGrid>()
+export const setLastHeat = (id: string, g: HeatGrid | null) => (g ? lastGrids.set(id, g) : lastGrids.delete(id))
 
-/** Ratio at a Web-Mercator point from the last computed grid, undefined when outside or not computed. */
-export function heatValueAt(mx: number, my: number): { value: number; radiusKm: number } | undefined {
-  if (!lastGrid) return undefined
-  const [w, s, e, n] = lastGrid.bounds
+/** Value at a Web-Mercator point from layer `id`'s last computed grid, undefined when outside or not computed. */
+export function heatValueAt(id: string, mx: number, my: number): { value: number; radiusKm: number } | undefined {
+  const g = lastGrids.get(id)
+  if (!g) return undefined
+  const [w, s, e, n] = g.bounds
   if (mx < w || mx >= e || my < s || my >= n) return undefined
-  const col = Math.floor(((mx - w) / (e - w)) * lastGrid.width)
-  const row = Math.floor(((n - my) / (n - s)) * lastGrid.height)
-  const v = lastGrid.values[row * lastGrid.width + col]
-  return Number.isNaN(v) ? undefined : { value: v, radiusKm: lastGrid.radiusKm }
+  const col = Math.floor(((mx - w) / (e - w)) * g.width)
+  const row = Math.floor(((n - my) / (n - s)) * g.height)
+  const v = g.values[row * g.width + col]
+  return Number.isNaN(v) ? undefined : { value: v, radiusKm: g.radiusKm }
 }

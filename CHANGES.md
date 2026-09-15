@@ -2,6 +2,16 @@
 
 ## 2026-09-15
 
+- Lice per week: two Aquaculture layers driven by a year/week slider at the
+  bottom of the map (◀ ▶ step a week). "Lice per week" colours every locality
+  by its reported adult female lice that week (5 bins, grey = no report);
+  "Lice pressure per week" is a kernel-weighted mean of the reported lice
+  within R km. Hover shows the value; the slider shows farms reporting, farms
+  above the limit and the colour key.
+- Lice limit is now week- and region-aware (luseforskriften § 8): 0.2 in weeks
+  16–21 from Trøndelag southwards and weeks 21–26 from Nordland northwards,
+  0.5 otherwise. Used by the chart's red line (stepped), weeks-above-limit
+  summaries, filters, regional pressure and the weekly slider summary.
 - Fourteen Fiskeridirektoratet overlays: production areas with traffic-light
   status, NYTEK moorings and current-measurement points, escapes, PD/ILA zones,
   deleted localities (Aquaculture tab); national salmon fjords, coral-reef bans,

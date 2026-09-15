@@ -138,7 +138,7 @@ export default function LiceChart({ series: full, extras = [], temp }: Props) {
             <text x={PAD.l - 4} y={y(v) + 3} className="chart-tick" textAnchor="end">{v}</text>
           </g>
         ))}
-        <line x1={PAD.l} x2={W - PAD.r} y1={y(LICE_LIMIT)} y2={y(LICE_LIMIT)} className="chart-limit" />
+        <path d={series.map((p, i) => `${i ? 'L' : 'M'}${x(i).toFixed(1)} ${y(p.limit).toFixed(1)}`).join(' ')} className="chart-limit" />
         {yearStarts.map((i, k) =>
           k % labelEvery === 0 ? (
             <text key={i} x={x(i)} y={H - PAD.b + 12} className="chart-tick" textAnchor="start">{series[i].week.slice(0, 4)}</text>
@@ -246,7 +246,7 @@ export default function LiceChart({ series: full, extras = [], temp }: Props) {
             })()}
           </span>
         ) : (
-          <span className="muted">{t('chart.legend', { limit: LICE_LIMIT })}{hasTemp ? ` ${t('chart.tempLegend')}` : ''}</span>
+          <span className="muted">{t('chart.legend')}{hasTemp ? ` ${t('chart.tempLegend')}` : ''}</span>
         )}
       </div>
       <details>

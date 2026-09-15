@@ -13,7 +13,7 @@ export type Category = 'aquaculture' | 'seabed' | 'ocean' | 'environment' | 'fis
 
 /** Overlay tabs in display order, with the importance rank of layers inside each. */
 export const CATEGORIES: { id: Category; title: string; order: string[] }[] = [
-  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'site-polygons', 'treatment-heat', 'prod-areas', 'nytek', 'disease-zones', 'escapes', 'current-points', 'deleted-sites'] },
+  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'lice-week', 'lice-heat', 'site-polygons', 'treatment-heat', 'prod-areas', 'nytek', 'disease-zones', 'escapes', 'current-points', 'deleted-sites'] },
   { id: 'seabed', title: 'Seabed', order: ['dybdedata', 'ngu-anchoring', 'ngu-sediment', 'ngu-deposition', 'ngu-slope'] },
   { id: 'ocean', title: 'Ocean', order: ['norkyst-current', 'norkyst-arrows', 'norkyst-temp', 'norkyst-salinity'] },
   { id: 'environment', title: 'Environment', order: ['naturvern', 'bunnhabitat', 'gyteomraader', 'salmon-fjords', 'coral-bans', 'shellfish'] },
@@ -37,7 +37,7 @@ export interface LayerDef {
   /** Legend image URL shown in the layer panel when enabled. */
   legend?: string
   /** How a GeoJSON layer is drawn (default circle). */
-  render?: 'circle' | 'fill'
+  render?: 'circle' | 'fill' | 'dots'
   /** Client-side per-pixel alpha for density images (see lib/tileFilters.ts). */
   tileFilter?: TileFilter
   /** Hover lookup (GetFeatureInfo) configuration; density layers are sampled from decoded tiles instead. */
@@ -620,6 +620,33 @@ export const LAYERS: LayerDef[] = [
     cache: 'cache-first',
     opacity: 0.7,
     description: 'Vessel track density from AIS, 1 km grid, full year 2022; low-traffic cells are faded.',
+  },
+  {
+    id: 'lice-week',
+    category: 'aquaculture',
+    title: 'Lice per week',
+    group: 'overlay',
+    kind: 'computed',
+    render: 'dots',
+    url: '',
+    organisation: 'BarentsWatch',
+    license: NLOD,
+    attribution: '© BarentsWatch',
+    cache: 'precache',
+    description: 'Colours every locality by its reported adult female lice in the week chosen on the slider.',
+  },
+  {
+    id: 'lice-heat',
+    category: 'aquaculture',
+    title: 'Lice pressure per week',
+    group: 'overlay',
+    kind: 'computed',
+    url: '',
+    organisation: 'BarentsWatch',
+    license: NLOD,
+    attribution: '© BarentsWatch',
+    cache: 'precache',
+    description: 'Kernel-weighted mean of the reported lice within R km for the chosen week; computed on the device.',
   },
   {
     id: 'treatment-heat',

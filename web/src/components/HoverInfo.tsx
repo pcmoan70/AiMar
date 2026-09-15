@@ -4,6 +4,7 @@ import { CATEGORIES, overlaysIn, type LayerDef } from '../lib/layers'
 import { infoUrl, parseInfo, toMerc } from '../lib/featureInfo'
 import { sampleDensity } from '../lib/tileFilters'
 import { heatValueAt } from '../lib/heatmap'
+import { liceWeekValue } from '../lib/liceWeek'
 import { getSettings } from '../lib/settings'
 import type { LocalityProps } from '../lib/localities'
 import { t, useLang } from '../lib/i18n'
@@ -50,8 +51,18 @@ export default function HoverInfo({ map }: Props) {
           return { id: l.id, title: t('hover.border'), value: f ? `${f.properties.name ?? ''} (${f.properties.loknr})` : null }
         }
         if (l.id === 'treatment-heat') {
-          const h = heatValueAt(mx, my)
+          const h = heatValueAt(l.id, mx, my)
           return { id: l.id, title: shortTitle(l), value: h ? t('heat.hover', { p: (h.value * 100).toFixed(1), r: h.radiusKm }) : null }
+        }
+        if (l.id === 'lice-heat') {
+          const h = heatValueAt(l.id, mx, my)
+          return { id: l.id, title: shortTitle(l), value: h ? t('liceHeat.hover', { v: h.value.toFixed(2), r: h.radiusKm }) : null }
+        }
+        if (l.id === 'lice-week') {
+          const f = map.getLayer('localities') ? map.queryRenderedFeatures(e.point, { layers: ['localities'] })[0] : undefined
+          const nr = (f?.properties as LocalityProps | undefined)?.loknr
+          const v = nr === undefined ? undefined : liceWeekValue(nr)
+          return { id: l.id, title: shortTitle(l), value: nr === undefined ? null : v == null ? t('liceWeek.notReported') : t('liceWeek.hover', { v: v.toFixed(2) }) }
         }
         if (l.tileFilter && l.wmsLayers) {
           const d = sampleDensity(l.wmsLayers, mx, my)

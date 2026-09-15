@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import type { Map as MlMap } from 'maplibre-gl'
 import MapView, { type MapHit, type Selection } from './components/MapView'
 import LayerPanel from './components/LayerPanel'
@@ -8,7 +8,10 @@ import OfflinePanel from './components/OfflinePanel'
 import OperatorDropdown from './components/OperatorDropdown'
 import HoverInfo from './components/HoverInfo'
 import ContextMenu, { type MenuState } from './components/ContextMenu'
-import HeatmapLayer from './components/HeatmapLayer'
+import HeatmapLayer, { HEAT_LAYER_ID, LICE_HEAT_LAYER_ID } from './components/HeatmapLayer'
+import LiceWeekSlider from './components/LiceWeekSlider'
+import { farmTreatmentStats } from './lib/heatmap'
+import { farmLiceStats, liceAtWeek, liceColour, LICE_HEAT_MAX, setLiceWeekValues } from './lib/liceWeek'
 import SettingsMenu from './components/SettingsMenu'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
@@ -72,7 +75,18 @@ function MapApp() {
   }
   const setPanel = (id: PanelId) => updateSettings({ panel: s.panel === id ? null : id })
   const selectedLoknr = selection?.type === 'farm' ? selection.props.loknr : null
-  const filteredLoknrs = localities ? computeFiltered(localities, s.operatorFilter, s.fieldFilters, fishhealth ? liceStatsIndex(fishhealth) : undefined) : null
+  const filteredLoknrs = localities ? computeFiltered(localities, s.operatorFilter, s.fieldFilters, fishhealth ? liceStatsIndex(fishhealth, localities) : undefined) : null
+
+  // Lice per week: the chosen week's values feed the dot colours, the hover card and the weekly heatmap.
+  const liceLayersOn = s.overlays.includes('lice-week') || s.overlays.includes(LICE_HEAT_LAYER_ID)
+  const liceWeek = fishhealth ? (s.liceWeek < 0 || s.liceWeek >= fishhealth.weeks.length ? fishhealth.weeks.length - 1 : s.liceWeek) : 0
+  const liceValues = useMemo(() => (fishhealth && liceLayersOn ? liceAtWeek(fishhealth, liceWeek) : null), [fishhealth, liceLayersOn, liceWeek])
+  useEffect(() => {
+    setLiceWeekValues(liceValues)
+  }, [liceValues])
+  const liceColours = useMemo(() => (liceValues && s.overlays.includes('lice-week') ? new Map([...liceValues].map(([nr, v]) => [nr, liceColour(v)])) : null), [liceValues, s.overlays])
+  const treatmentFarms = useMemo(() => (localities && fishhealth ? farmTreatmentStats(fishhealth, localities) : null), [localities, fishhealth])
+  const liceFarms = useMemo(() => (localities && fishhealth && s.overlays.includes(LICE_HEAT_LAYER_ID) ? farmLiceStats(fishhealth, localities, liceWeek) : null), [localities, fishhealth, s.overlays, liceWeek])
 
   return (
     <div className="app">
@@ -97,6 +111,7 @@ function MapApp() {
         <MapView
           selectedLoknr={selectedLoknr}
           filteredLoknrs={filteredLoknrs}
+          liceColours={liceColours}
           onSelect={select}
           onContextMenu={(locality, point) => setMenu({ locality, x: point.x, y: point.y })}
           onMap={setMap}
@@ -105,7 +120,9 @@ function MapApp() {
         <OperatorDropdown localities={localities} map={map} />
         <FilterChips />
         <HoverInfo map={map} />
-        <HeatmapLayer map={map} localities={localities} fishhealth={fishhealth} />
+        <HeatmapLayer map={map} id={HEAT_LAYER_ID} farms={treatmentFarms} />
+        <HeatmapLayer map={map} id={LICE_HEAT_LAYER_ID} farms={liceFarms} max={LICE_HEAT_MAX} minDen={0.5} />
+        {fishhealth && liceValues && <LiceWeekSlider fishhealth={fishhealth} localities={localities} week={liceWeek} values={liceValues} />}
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}

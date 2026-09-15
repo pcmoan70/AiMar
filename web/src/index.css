@@ -234,6 +234,17 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
   background: transparent; color: #b42318; border: 0; padding: 0 4px; margin-left: 6px; font-size: 13px; line-height: 1; cursor: pointer; font-weight: 700;
 }
 .field-clear:hover { color: #7a1a12; }
+.lice-slider {
+  position: absolute; left: 50%; bottom: 34px; transform: translateX(-50%); z-index: 5; width: min(680px, calc(100% - 140px));
+  background: rgba(255,255,255,.95); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,.2);
+  padding: 6px 10px; font-size: 12px; display: flex; flex-direction: column; gap: 4px;
+}
+.lice-slider-row { display: flex; align-items: center; gap: 8px; }
+.lice-slider-row input[type=range] { flex: 1; min-width: 120px; }
+.lice-slider-row button { padding: 2px 8px; }
+.lice-week-label { display: flex; flex-direction: column; min-width: 190px; line-height: 1.3; }
+.lice-key { display: flex; flex-wrap: wrap; gap: 4px 12px; color: var(--muted); }
+.lice-key i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; border: 1px solid #fff; box-shadow: 0 0 0 1px var(--line); vertical-align: -1px; margin-right: 3px; }
 .filter-chips { position: absolute; top: 46px; left: 10px; z-index: 5; display: flex; flex-wrap: wrap; gap: 4px; max-width: 420px; }
 .chip {
   display: inline-flex; align-items: center; gap: 4px; background: var(--bg); color: var(--fg); border: 1px solid var(--line);
