@@ -164,7 +164,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'deleted-sites',
-    info: { kind: 'arcgis', keys: ['navn', 'loknr', 'lokalitetsnavn', 'lok_navn'], presence: 'deleted locality' },
+    info: { kind: 'arcgis', keys: ['navn', 'loknr', 'status_lokalitet', 'klareringsdato'], presence: 'deleted locality' },
     category: 'aquaculture',
     title: 'Deleted localities (Fiskeridirektoratet)',
     group: 'overlay',
@@ -196,7 +196,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'current-points',
-    info: { kind: 'arcgis', keys: ['loknavn', 'loknr'], presence: 'current measurement point' },
+    info: { kind: 'arcgis', keys: ['navn', 'loknr', 'dato_sertifikat', 'organisasjon'], presence: 'current measurement point' },
     category: 'aquaculture',
     title: 'Current measurement points (Fiskeridirektoratet)',
     group: 'overlay',
@@ -212,7 +212,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'escapes',
-    info: { kind: 'arcgis', keys: ['art', 'antall', 'dato', 'lokalitet', 'navn'], presence: 'escape event' },
+    info: { kind: 'arcgis', keys: ['navn', 'art', 'antall_romt_estimert', 'rommingsdato', 'selskapsnavn'], presence: 'escape event' },
     category: 'aquaculture',
     title: 'Escapes (Fiskeridirektoratet)',
     group: 'overlay',
@@ -228,7 +228,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'disease-zones',
-    info: { kind: 'arcgis', keys: ['navn', 'sone', 'sonetype', 'type', 'sykdom'], presence: 'PD/ILA zone' },
+    info: { kind: 'arcgis', keys: ['sykdommer', 'status_sykdom', 'lokalitetsnummer', 'dato_paavist'], presence: 'PD/ILA zone' },
     category: 'aquaculture',
     title: 'PD and ILA zones (Fiskeridirektoratet)',
     group: 'overlay',
@@ -244,7 +244,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'salmon-fjords',
-    info: { kind: 'arcgis', keys: ['navn'], presence: 'national salmon fjord' },
+    info: { kind: 'arcgis', keys: ['fjord', 'region', 'kommune'], presence: 'national salmon fjord' },
     category: 'environment',
     title: 'National salmon fjords (Fiskeridirektoratet)',
     group: 'overlay',
@@ -260,7 +260,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'coral-bans',
-    info: { kind: 'arcgis', keys: ['navn'], presence: 'coral reef protection' },
+    info: { kind: 'arcgis', keys: ['omraade', 'paragraf', 'info'], presence: 'coral reef protection' },
     category: 'environment',
     title: 'Coral reef bans (Fiskeridirektoratet)',
     group: 'overlay',
@@ -276,7 +276,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'shellfish',
-    info: { kind: 'arcgis', keys: ['art', 'navn', 'stedsnavn'], presence: 'shellfish bed' },
+    info: { kind: 'arcgis', keys: ['art_norsk', 'stedsnavn', 'status'], presence: 'shellfish bed' },
     category: 'environment',
     title: 'Shellfish beds (Fiskeridirektoratet)',
     group: 'overlay',
@@ -292,7 +292,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'fishing-passive',
-    info: { kind: 'arcgis', keys: ['stedsnavn', 'redskap', 'arter', 'brukere', 'kommunenavn'] },
+    info: { kind: 'arcgis', keys: ['stedsnavn', 'redskap', 'arter', 'brukere'] },
     category: 'fisheries',
     title: 'Fishing grounds, passive gear (Fiskeridirektoratet)',
     group: 'overlay',
@@ -308,7 +308,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'fishing-active',
-    info: { kind: 'arcgis', keys: ['stedsnavn', 'redskap', 'arter', 'brukere', 'kommunenavn'] },
+    info: { kind: 'arcgis', keys: ['stedsnavn', 'redskap', 'arter', 'brukere'] },
     category: 'fisheries',
     title: 'Fishing grounds, active gear (Fiskeridirektoratet)',
     group: 'overlay',
@@ -340,7 +340,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'lock-sites',
-    info: { kind: 'arcgis', keys: ['navn', 'stedsnavn'], presence: 'lock-up site' },
+    info: { kind: 'arcgis', keys: ['stedsnavn', 'alle_arter', 'beskriv_brukere'], presence: 'lock-up site' },
     category: 'fisheries',
     title: 'Seine lock-up sites (Fiskeridirektoratet)',
     group: 'overlay',
@@ -356,7 +356,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'cod-spawning',
-    info: { kind: 'arcgis', keys: ['navn', 'stedsnavn', 'verdi'], presence: 'cod spawning field' },
+    info: { kind: 'arcgis', keys: ['navn', 'gytefverdi', 'omradebesk'], presence: 'cod spawning field' },
     category: 'fisheries',
     title: 'Cod spawning fields (Fiskeridirektoratet)',
     group: 'overlay',
@@ -725,4 +725,15 @@ export function wmsTileUrl(layer: LayerDef): string {
   })
   const sep = layer.url.includes('?') ? '&' : '?'
   return `${layer.url}${sep}${q.toString()}&bbox={bbox-epsg-3857}`
+}
+
+/** Legend images for a layer: an explicit `legend` when set, else one WMS GetLegendGraphic per sub-layer. */
+export function legendUrls(l: LayerDef): string[] {
+  if (l.legend) return [l.legend]
+  if (l.kind !== 'wms' || !l.wmsLayers) return []
+  const sep = l.url.includes('?') ? '&' : '?'
+  return l.wmsLayers.split(',').map((name) => {
+    const q = new URLSearchParams({ service: 'WMS', version: '1.3.0', request: 'GetLegendGraphic', format: 'image/png', layer: name.trim(), ...(l.params ?? {}) })
+    return `${l.url}${sep}${q.toString()}`
+  })
 }

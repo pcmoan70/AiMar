@@ -453,7 +453,7 @@ export const en: Record<string, string> = {
   'help.chart.4': 'The period dropdown chooses last year, 4 years, 8 years or all since 2012. "Last 12 weeks as table" lists the numbers.',
   'help.layers.title': 'Layers',
   'help.layers.1': 'Overlays sit in tabs: Aquaculture, Seabed, Ocean, Environment, Fisheries, Shipping — most useful first. The circle on a tab shows how many layers are on (orange) or available (outlined); click it to switch the whole group off or back on (your selection is restored).',
-  'help.layers.2': 'Each layer states its source, licence and caching; layers with a colour scale show a legend when on.',
+  'help.layers.2': 'Each layer states its source, licence and caching, and shows the service\'s own legend while it is on, so symbols and colour scales can be read off directly.',
   'help.layers.3': 'AIS density layers fade low-traffic cells so busy lanes stand out.',
   'help.layers.4': 'All layer choices are remembered on this device.',
   'help.layers.5': '**Treatment intensity** (Aquaculture tab) paints the share of production weeks with a lice treatment over the last four years, smoothed over farms within a radius R you choose; hover for the value at a point.',

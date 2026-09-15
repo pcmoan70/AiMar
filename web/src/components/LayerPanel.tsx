@@ -1,4 +1,4 @@
-import { CATEGORIES, overlaysIn } from '../lib/layers'
+import { CATEGORIES, legendUrls, overlaysIn } from '../lib/layers'
 import { HEAT_MAX, HEAT_RADII_KM, HEAT_RAMP } from '../lib/heatmap'
 import { WEEK_HEAT_MAX } from '../lib/liceWeek'
 import Hint from './Hint'
@@ -67,7 +67,11 @@ export default function LayerPanel() {
                 {l.description ? `${t(`layer.${l.id}.desc`)} ` : ''}
                 {l.organisation} · {l.license} · {t(`layers.cache.${l.cache}`)}
               </small>
-              {on && l.legend && <img className="legend-img" src={l.legend} alt={t('layers.legendAlt', { l: t(`layer.${l.id}.title`) })} />}
+              {on &&
+                legendUrls(l).map((u) => (
+                  // A service without GetLegendGraphic simply yields no image.
+                  <img key={u} className="legend-img" src={u} alt={t('layers.legendAlt', { l: t(`layer.${l.id}.title`) })} loading="lazy" onError={(e) => (e.currentTarget.hidden = true)} />
+                ))}
               {on && (l.id === 'treatment-heat' || l.id === 'lice-heat') && (
                 <span className="heat-controls" onClick={(e) => e.preventDefault()}>
                   <label className="heat-radius">
