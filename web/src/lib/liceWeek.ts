@@ -109,3 +109,90 @@ export function weekShares(data: FishHealth, fylkeOf: (loknr: number) => string 
 let current: Map<number, number | null> | null = null
 export const setLiceWeekValues = (m: Map<number, number | null> | null) => (current = m)
 export const liceWeekValue = (loknr: number) => current?.get(loknr)
+
+// ---- Seasonal view: the same measures averaged per ISO week number over all years.
+export const SEASON_WEEKS = 53
+
+export interface SeasonShares {
+  /** mean over years of the weekly share above the limit, per week number 1…53 */
+  above: number[]
+  treated: number[]
+  /** the most recent year's value for that week number, null where the year has no such week */
+  lastAbove: (number | null)[]
+  lastTreated: (number | null)[]
+  /** how many years contributed to each week number */
+  counts: number[]
+  years: [number, number]
+}
+
+/** Averages the whole-period series by week number, and keeps the last 52 weeks as a separate series. */
+export function seasonShares(weeks: string[], shares: WeekShares): SeasonShares {
+  const above = new Array(SEASON_WEEKS).fill(0)
+  const treated = new Array(SEASON_WEEKS).fill(0)
+  const counts = new Array(SEASON_WEEKS).fill(0)
+  const lastAbove: (number | null)[] = new Array(SEASON_WEEKS).fill(null)
+  const lastTreated: (number | null)[] = new Array(SEASON_WEEKS).fill(null)
+  for (let i = 0; i < weeks.length; i++) {
+    const w = Number(weeks[i].slice(5)) - 1
+    if (w < 0 || w >= SEASON_WEEKS || !shares.reporting[i]) continue
+    above[w] += shares.above[i]
+    treated[w] += shares.treated[i]
+    counts[w]++
+  }
+  for (let i = Math.max(0, weeks.length - 52); i < weeks.length; i++) {
+    const w = Number(weeks[i].slice(5)) - 1
+    if (w < 0 || w >= SEASON_WEEKS || !shares.reporting[i]) continue
+    lastAbove[w] = shares.above[i]
+    lastTreated[w] = shares.treated[i]
+  }
+  return {
+    above: above.map((v, i) => (counts[i] ? v / counts[i] : 0)),
+    treated: treated.map((v, i) => (counts[i] ? v / counts[i] : 0)),
+    lastAbove,
+    lastTreated,
+    counts,
+    years: [Number(weeks[0].slice(0, 4)), Number(weeks[weeks.length - 1].slice(0, 4))],
+  }
+}
+
+const weekIndexes = (weeks: string[], weekOfYear: number) => weeks.map((w, i) => (Number(w.slice(5)) === weekOfYear ? i : -1)).filter((i) => i >= 0)
+
+/** Per locality: the mean of its reported lice in that week number across all years (null = never reported then). */
+export function liceAtSeasonWeek(data: FishHealth, weekOfYear: number): Map<number, number | null> {
+  const idx = weekIndexes(data.weeks, weekOfYear)
+  const out = new Map<number, number | null>()
+  for (const [nr, d] of Object.entries(data.localities)) {
+    let sum = 0
+    let n = 0
+    for (const i of idx) {
+      const v = d.l[i]
+      if (v == null || d.f[i] & FLAG.fallow) continue
+      sum += v
+      n++
+    }
+    out.set(Number(nr), n ? Math.round((sum / n) * 100) / 100 : null)
+  }
+  return out
+}
+
+/** Heat inputs for the seasonal view: mean lice, or the share of that site's years treated in that week number. */
+export function farmSeasonStats(data: FishHealth, localities: Localities, weekOfYear: number, mode: WeekHeatMode = 'lice'): FarmStat[] {
+  const idx = weekIndexes(data.weeks, weekOfYear)
+  const out: FarmStat[] = []
+  for (const f of localities.features) {
+    const d = data.localities[String(f.properties.loknr)]
+    if (!d) continue
+    let sum = 0
+    let n = 0
+    for (const i of idx) {
+      const v = d.l[i]
+      if (v == null || d.f[i] & FLAG.fallow) continue
+      n++
+      sum += mode === 'treatment' ? (d.f[i] & (FLAG.mechanical | FLAG.substance) ? 1 : 0) : v
+    }
+    if (!n) continue
+    const [x, y] = toMerc(f.geometry.coordinates[0], f.geometry.coordinates[1])
+    out.push({ x, y, prod: 1, treat: sum / n })
+  }
+  return out
+}

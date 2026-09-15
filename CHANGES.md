@@ -2,6 +2,11 @@
 
 ## 2026-09-15
 
+- Scrubber has a second axis: **Season** averages every measure by ISO week
+  number over all years since 2012, and the map then shows each site's mean
+  lice (or how often it was treated) for that week number. The graph draws the
+  multi-year averages as curves with the last year's own values as spikes on
+  top, and shades the spring-limit weeks 16–26.
 - The weekly heatmap switches between lice pressure and treatment density for
   the chosen week, from a toggle on the scrubber and from ⚙ Settings. Treatment
   mode smooths the share of reporting farms treated that week (scale top 50 %);

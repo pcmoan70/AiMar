@@ -250,6 +250,7 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .lice-scrub { flex: 1; height: 44px; width: 100%; background: #fff; border: 1px solid var(--line); border-radius: 4px; cursor: ew-resize; touch-action: none; }
 .lice-scrub:focus-visible { outline: 2px solid var(--brand); outline-offset: 1px; }
 .lice-scrub-year { stroke: #e3e8ec; stroke-width: 1; vector-effect: non-scaling-stroke; }
+.lice-scrub-spring { fill: rgba(201,83,31,.07); }
 .lice-scrub-cursor { stroke: #111; stroke-width: 2; }
 .lice-readout { display: grid; grid-template-columns: 15ch 17ch 14ch 21ch 18ch minmax(22ch, 1fr); gap: 0 8px; align-items: baseline; white-space: nowrap; }
 .lice-readout > span { overflow: hidden; text-overflow: ellipsis; }

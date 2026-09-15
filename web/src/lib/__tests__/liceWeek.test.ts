@@ -58,3 +58,33 @@ describe('weekly heat inputs by mode', () => {
     expect(farmWeekStats(fh2, loc, 0, 'treatment').every((f) => f.prod === 1)).toBe(true)
   })
 })
+
+describe('season view', () => {
+  it('averages by week number and keeps the last year separately', async () => {
+    const { seasonShares, weekShares, liceAtSeasonWeek, farmSeasonStats } = await import('../liceWeek')
+    const weeks = ['2023-20', '2023-21', '2024-20', '2024-21']
+    const fh3: FishHealth = {
+      retrieved: '',
+      weeks,
+      localities: {
+        '1': { l: [0.2, 0.4, 0.6, null], f: [1, 1, 1 | 4, 0] },
+        '2': { l: [0.8, null, 0.4, 0.2], f: [1, 0, 1, 1] },
+      },
+    }
+    const sh = weekShares(fh3, () => 'VESTLAND')
+    const sea = seasonShares(weeks, sh)
+    // week 20 is a spring week in the south, limit 0.2: 2023 gives 1 of 2 above, 2024 gives 2 of 2 → mean 0.75
+    expect(sea.above[19]).toBe(0.75)
+    expect(sea.counts[19]).toBe(2)
+    expect(sea.years).toEqual([2023, 2024])
+    // the last 52 weeks cover both 2024 weeks only
+    expect(sea.lastAbove[19]).toBe(sh.above[2])
+    expect(sea.lastAbove[0]).toBeNull()
+    // site 1 averages 0.2 and 0.6 across the two week-20s
+    expect(liceAtSeasonWeek(fh3, 20).get(1)).toBeCloseTo(0.4)
+    expect(liceAtSeasonWeek(fh3, 21).get(2)).toBeCloseTo(0.2)
+    // treatment mode: site 1 was treated in one of its two week-20s
+    const treat = farmSeasonStats(fh3, loc, 20, 'treatment')
+    expect(treat.map((f) => f.treat)).toEqual([0.5, 0])
+  })
+})

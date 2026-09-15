@@ -11,7 +11,7 @@ import ContextMenu, { type MenuState } from './components/ContextMenu'
 import HeatmapLayer, { HEAT_LAYER_ID, LICE_HEAT_LAYER_ID } from './components/HeatmapLayer'
 import LiceWeekSlider from './components/LiceWeekSlider'
 import { farmTreatmentStats } from './lib/heatmap'
-import { farmWeekStats, liceAtWeek, liceColour, setLiceWeekValues, WEEK_HEAT_MAX } from './lib/liceWeek'
+import { farmSeasonStats, farmWeekStats, liceAtSeasonWeek, liceAtWeek, liceColour, SEASON_WEEKS, setLiceWeekValues, WEEK_HEAT_MAX } from './lib/liceWeek'
 import SettingsMenu from './components/SettingsMenu'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
@@ -80,15 +80,25 @@ function MapApp() {
   // Lice per week: the chosen week's values feed the dot colours, the hover card and the weekly heatmap.
   const liceLayersOn = s.overlays.includes('lice-week') || s.overlays.includes(LICE_HEAT_LAYER_ID)
   const liceWeek = fishhealth ? (s.liceWeek < 0 || s.liceWeek >= fishhealth.weeks.length ? fishhealth.weeks.length - 1 : s.liceWeek) : 0
-  const liceValues = useMemo(() => (fishhealth && liceLayersOn ? liceAtWeek(fishhealth, liceWeek) : null), [fishhealth, liceLayersOn, liceWeek])
+  const season = s.weekAxis === 'season'
+  const seasonWeek = Math.min(SEASON_WEEKS, Math.max(1, s.seasonWeek))
+  const liceValues = useMemo(
+    () => (fishhealth && liceLayersOn ? (season ? liceAtSeasonWeek(fishhealth, seasonWeek) : liceAtWeek(fishhealth, liceWeek)) : null),
+    [fishhealth, liceLayersOn, season, seasonWeek, liceWeek],
+  )
   useEffect(() => {
     setLiceWeekValues(liceValues)
   }, [liceValues])
   const liceColours = useMemo(() => (liceValues && s.overlays.includes('lice-week') ? new Map([...liceValues].map(([nr, v]) => [nr, liceColour(v)])) : null), [liceValues, s.overlays])
   const treatmentFarms = useMemo(() => (localities && fishhealth ? farmTreatmentStats(fishhealth, localities) : null), [localities, fishhealth])
   const liceFarms = useMemo(
-    () => (localities && fishhealth && s.overlays.includes(LICE_HEAT_LAYER_ID) ? farmWeekStats(fishhealth, localities, liceWeek, s.weekHeatMode) : null),
-    [localities, fishhealth, s.overlays, liceWeek, s.weekHeatMode],
+    () =>
+      localities && fishhealth && s.overlays.includes(LICE_HEAT_LAYER_ID)
+        ? season
+          ? farmSeasonStats(fishhealth, localities, seasonWeek, s.weekHeatMode)
+          : farmWeekStats(fishhealth, localities, liceWeek, s.weekHeatMode)
+        : null,
+    [localities, fishhealth, s.overlays, season, seasonWeek, liceWeek, s.weekHeatMode],
   )
 
   return (

@@ -32,6 +32,10 @@ export interface Settings {
   liceWeek: number
   /** What the weekly heatmap smooths: reported lice, or farms with a treatment that week. */
   weekHeatMode: WeekHeatMode
+  /** Scrubber axis: every week since 2012, or the average per week number over all years. */
+  weekAxis: 'timeline' | 'season'
+  /** Selected ISO week number (1…53) in season mode. */
+  seasonWeek: number
 }
 
 const KEY = 'aimar.settings.v1'
@@ -51,6 +55,8 @@ export const DEFAULT_SETTINGS: Settings = {
   blockedHints: [],
   liceWeek: -1,
   weekHeatMode: 'lice',
+  weekAxis: 'timeline',
+  seasonWeek: 20,
 }
 
 function load(): Settings {
