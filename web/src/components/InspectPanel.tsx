@@ -29,6 +29,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
   const t = useT()
   const { operatorFilter, fieldFilters } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
+  const [onlyText, setOnlyText] = useState(false)
   const fmtNum = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
   if (!selection) return <div className="panel-body muted">{t('inspect.empty')}</div>
 
@@ -184,24 +185,32 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
         </h3>
         {cases ? (
           (() => {
-            const list = casesFor(cases, p.loknr)
-            return list.length ? (
-              <ul className="cases">
-                {list.map((e) => (
-                  <li key={e.id} className={`case case-${caseKind(e)}`}>
-                    <span className="case-date">{e.date ?? '–'}</span>
-                    <span className="case-kind">{t(`case.${caseKind(e)}`)}</span>
-                    <CaseDocsDot docs={cases.docs?.[e.id]} />
-                    <a href={caseUrl(e)} target="_blank" rel="noreferrer" className="case-title">
-                      {e.title}
-                    </a>
-                    <small className="muted">
-                      {e.entity} · {t(`case.${e.type ?? 'internal'}`)}
-                    </small>
-                    <CaseDocs entry={e} docs={cases.docs?.[e.id]} />
-                  </li>
-                ))}
-              </ul>
+            const all = casesFor(cases, p.loknr)
+            const withText = all.filter((e) => cases.docs?.[e.id]?.some((d) => d.text))
+            const list = onlyText ? withText : all
+            return all.length ? (
+              <>
+                <label className="cases-onlytext" title={t('cases.onlyTextTitle')}>
+                  <input type="checkbox" checked={onlyText} onChange={(e) => setOnlyText(e.target.checked)} disabled={!withText.length} />{' '}
+                  {t('cases.onlyText', { n: withText.length })}
+                </label>
+                <ul className="cases">
+                  {list.map((e) => (
+                    <li key={e.id} className={`case case-${caseKind(e)}`}>
+                      <span className="case-date">{e.date ?? '–'}</span>
+                      <span className="case-kind">{t(`case.${caseKind(e)}`)}</span>
+                      <CaseDocsDot docs={cases.docs?.[e.id]} />
+                      <a href={caseUrl(e)} target="_blank" rel="noreferrer" className="case-title">
+                        {e.title}
+                      </a>
+                      <small className="muted">
+                        {e.entity} · {t(`case.${e.type ?? 'internal'}`)}
+                      </small>
+                      <CaseDocs entry={e} docs={cases.docs?.[e.id]} />
+                    </li>
+                  ))}
+                </ul>
+              </>
             ) : (
               <p className="muted">{t('inspect.noCases', { from: cases.from })}</p>
             )

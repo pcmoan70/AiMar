@@ -2,6 +2,9 @@
 
 ## 2026-09-15
 
+- "Case history" in the site panel gets its own **With text** box, with the
+  count, so a site's readable entries can be listed on their own. Also supplies
+  the styling the ring key and the box were missing.
 - The Cases panel rings the localities its list covers on the map, following
   the search and filters as you type; the panel says how many. The rings use
   their own source, so they show even when the locality overlay is off, and the
