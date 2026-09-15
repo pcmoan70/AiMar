@@ -46,6 +46,11 @@ export default function HoverInfo({ map }: Props) {
           const p = f?.properties as LocalityProps | undefined
           return { id: l.id, title: t('hover.locality'), value: p ? `${p.navn} (${p.loknr})${p.til_innehavere ? ` · ${p.til_innehavere}` : ''}` : null }
         }
+        if (l.id === 'deleted-sites') {
+          const f = map.getLayer('deleted-sites') ? map.queryRenderedFeatures(e.point, { layers: ['deleted-sites'] })[0] : undefined
+          const p = f?.properties as LocalityProps | undefined
+          return { id: l.id, title: shortTitle(l), value: p ? `${p.navn} (${p.loknr})${p.klareringsdato ? ` · ${t('inspect.clearedShort')} ${String(p.klareringsdato).slice(0, 4)}` : ''}` : null }
+        }
         if (l.id === 'site-polygons') {
           const f = map.getLayer('site-polygons') ? map.queryRenderedFeatures(e.point, { layers: ['site-polygons'] })[0] : undefined
           return { id: l.id, title: t('hover.border'), value: f ? `${f.properties.name ?? ''} (${f.properties.loknr})` : null }

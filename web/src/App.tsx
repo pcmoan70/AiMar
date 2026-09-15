@@ -90,6 +90,7 @@ function MapApp() {
     setLiceWeekValues(liceValues)
   }, [liceValues])
   const liceColours = useMemo(() => (liceValues && s.overlays.includes('lice-week') ? new Map([...liceValues].map(([nr, v]) => [nr, liceColour(v)])) : null), [liceValues, s.overlays])
+  const liceDim = useMemo(() => (liceColours && liceValues ? [...liceValues].filter(([, v]) => v == null).map(([nr]) => nr) : null), [liceColours, liceValues])
   const treatmentFarms = useMemo(() => (localities && fishhealth ? farmTreatmentStats(fishhealth, localities) : null), [localities, fishhealth])
   const liceFarms = useMemo(
     () =>
@@ -125,6 +126,7 @@ function MapApp() {
           selectedLoknr={selectedLoknr}
           filteredLoknrs={filteredLoknrs}
           liceColours={liceColours}
+          liceDim={liceDim}
           onSelect={select}
           onContextMenu={(locality, point) => setMenu({ locality, x: point.x, y: point.y })}
           onMap={setMap}

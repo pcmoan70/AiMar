@@ -2,6 +2,14 @@
 
 ## 2026-09-15
 
+- While scrubbing, localities with no lice report for the chosen week (not
+  operating) are drawn at 20 % opacity instead of solid grey, so the operating
+  sites carry the picture.
+- Deleted localities are now bundled data rather than a map image: about 2 900
+  withdrawn sites with their full register entry (name, number, capacity,
+  species, holders, purpose, production form, clearance date and type, county,
+  municipality, register link), drawn as hollow grey rings under the active
+  sites. Click one to open the ordinary site panel, marked "withdrawn".
 - Scrubber has a second axis: **Season** averages every measure by ISO week
   number over all years since 2012, and the map then shows each site's mean
   lice (or how often it was treated) for that week number. The graph draws the

@@ -23,6 +23,13 @@ export type Selection =
   | { type: 'point'; lngLat: [number, number] }
 
 /** What a map click hit; a border polygon only carries its locality number. */
+/** Opacity of localities with no lice report for the chosen week (not operating). */
+const NOT_REPORTED_ALPHA = 0.2
+
+export const DELETED_LAYER = 'deleted-sites'
+/** Muted slate for withdrawn sites, distinct from the operator palette. */
+const DELETED_COLOUR = '#6b7a88'
+
 export type MapHit = Selection | { type: 'loknr'; loknr: number }
 
 const POLYGON_LAYER = 'site-polygons'
@@ -35,7 +42,7 @@ function operatorFilter(_operators: string[], loknrs: number[] | null): { points
   return { points: expr, polygons: expr }
 }
 
-function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: number[] | null, liceColours: Map<number, string> | null): StyleSpecification {
+function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: number[] | null, liceColours: Map<number, string> | null, liceDim: number[] | null): StyleSpecification {
   const opf = operatorFilter(s.operatorFilter, polygonLoknrs)
   const sources: Record<string, SourceSpecification> = {}
   const layers: LayerSpecification[] = []
@@ -68,6 +75,21 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
       layers.push({ id: l.id, type: 'raster', source: l.id, paint: { 'raster-opacity': l.opacity ?? 1 } })
     } else if (l.kind === 'geojson') {
       sources[l.id] = { type: 'geojson', data: dataUrl(l.url.replace(/^data\//, '')), attribution: l.attribution }
+      if (l.id === DELETED_LAYER) {
+        // Former farms: hollow grey rings, under the active localities.
+        layers.push({
+          id: l.id,
+          type: 'circle',
+          source: l.id,
+          paint: {
+            'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 2.5, 9, 5, 14, 8],
+            'circle-color': 'rgba(255,255,255,.55)',
+            'circle-stroke-color': DELETED_COLOUR,
+            'circle-stroke-width': 1.5,
+          },
+        })
+        continue
+      }
       if (l.render === 'fill') {
         const filter = opf ? { filter: opf.polygons } : {}
         layers.push({ id: l.id, type: 'fill', source: l.id, ...filter, paint: { 'fill-color': SALMON_COLOUR, 'fill-opacity': 0.2 } })
@@ -84,6 +106,8 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
       const liceExpr: ExpressionSpecification | null = liceColours
         ? (['match', ['get', 'loknr'], ...[...liceColours.entries()].flatMap(([nr, c]) => [nr, c]), OTHER_COLOUR] as unknown as ExpressionSpecification)
         : null
+      // Sites with no report for the chosen week were not operating: draw them faded.
+      const opacityExpr: ExpressionSpecification | number = liceExpr && liceDim?.length ? (['match', ['get', 'loknr'], liceDim, NOT_REPORTED_ALPHA, 1] as unknown as ExpressionSpecification) : 1
       const colourExpr: ExpressionSpecification = liceExpr ?? [
         'case',
         ...assignments.flatMap((a): [ExpressionSpecification, string] => [
@@ -110,8 +134,10 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
         paint: {
           'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3, 9, 6, 14, 10],
           'circle-color': colourExpr,
+          'circle-opacity': opacityExpr,
           'circle-stroke-color': '#ffffff',
           'circle-stroke-width': 1,
+          'circle-stroke-opacity': opacityExpr,
         },
       })
       layers.push({
@@ -137,13 +163,15 @@ interface Props {
   filteredLoknrs: number[] | null
   /** loknr -> colour for the lice-per-week layer, null when that layer is off. */
   liceColours: Map<number, string> | null
+  /** Locality numbers without a report for the chosen week, drawn faded. */
+  liceDim: number[] | null
   onSelect: (hit: MapHit) => void
   /** Right-click: the locality under the pointer (or null) and the pixel position. */
   onContextMenu: (locality: LocalityProps | null, point: { x: number; y: number }) => void
   onMap: (map: MlMap | null) => void
 }
 
-export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, onSelect, onContextMenu, onMap }: Props) {
+export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, liceDim, onSelect, onContextMenu, onMap }: Props) {
   const container = useRef<HTMLDivElement>(null)
   const mapRef = useRef<MlMap | null>(null)
   const onSelectRef = useRef(onSelect)
@@ -152,14 +180,14 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, on
   onContextRef.current = onContextMenu
   const appliedStyle = useRef('')
   const settings = useSettings()
-  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? settings.liceWeek : null, liceColours?.size ?? 0])
+  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? settings.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, settings.weekAxis, settings.seasonWeek])
 
   useEffect(() => {
     const s = getSettings()
-    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? s.liceWeek : null, liceColours?.size ?? 0])
+    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? s.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, s.weekAxis, s.seasonWeek])
     const map = new MlMap({
       container: container.current!,
-      style: buildStyle(s, null, filteredLoknrs, liceColours),
+      style: buildStyle(s, null, filteredLoknrs, liceColours, liceDim),
       center: s.view.center,
       zoom: s.view.zoom,
       attributionControl: { compact: true },
@@ -183,6 +211,8 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, on
         ? map.queryRenderedFeatures(e.point, { layers: [POLYGON_LAYER] })[0]
         : undefined
       if (poly) return onSelectRef.current({ type: 'loknr', loknr: Number(poly.properties.loknr) })
+      const gone = map.getLayer(DELETED_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [DELETED_LAYER] })[0] : undefined
+      if (gone) return onSelectRef.current({ type: 'farm', props: gone.properties as LocalityProps })
       onSelectRef.current({ type: 'point', lngLat: [e.lngLat.lng, e.lngLat.lat] })
     })
     map.on('contextmenu', (e: MapMouseEvent) => {
@@ -192,8 +222,10 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, on
         : undefined
       onContextRef.current(hit ? (hit.properties as LocalityProps) : null, { x: e.point.x, y: e.point.y })
     })
-    map.on('mouseenter', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = 'pointer'))
-    map.on('mouseleave', LOCALITIES_LAYER, () => (map.getCanvas().style.cursor = ''))
+    for (const id of [LOCALITIES_LAYER, DELETED_LAYER]) {
+      map.on('mouseenter', id, () => (map.getCanvas().style.cursor = 'pointer'))
+      map.on('mouseleave', id, () => (map.getCanvas().style.cursor = ''))
+    }
 
     mapRef.current = map
     ;(window as unknown as { __aimar: { map: MlMap; runJanitor: typeof runJanitor; heatValueAt: typeof heatValueAt } }).__aimar = { map, runJanitor, heatValueAt } // test hook (scripts/smoke.mjs)
@@ -209,7 +241,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, on
   useEffect(() => {
     if (!mapRef.current || styleKey === appliedStyle.current) return
     appliedStyle.current = styleKey
-    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours), { diff: true })
+    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours, liceDim), { diff: true })
   }, [styleKey]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return <div ref={container} className="map" />

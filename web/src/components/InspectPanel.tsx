@@ -110,7 +110,10 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
         : []
     return (
       <div className="panel-body">
-        <h2>{p.navn}</h2>
+        <h2>
+          {p.navn}
+          {p.status_lokalitet === 'TRUKKET' && <span className="badge-deleted">{t('inspect.withdrawn')}</span>}
+        </h2>
         <table className="kv">
           <tbody>
             {rows.map(fieldRow)}

@@ -313,6 +313,7 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .case-title:hover { text-decoration: underline; }
 .case small { grid-column: 1 / -1; }
 .case-docs { grid-column: 1 / -1; }
+.badge-deleted { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; color: #fff; background: #6b7a88; border-radius: 3px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; }
 .case-dot {
   width: 7px; height: 7px; border-radius: 50%; background: var(--brand); flex: none;
   align-self: center; justify-self: start; box-shadow: 0 0 0 2px rgba(11,61,92,.14);
