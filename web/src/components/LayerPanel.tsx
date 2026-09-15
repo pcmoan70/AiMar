@@ -1,6 +1,6 @@
 import { CATEGORIES, overlaysIn } from '../lib/layers'
 import { HEAT_MAX, HEAT_RADII_KM, HEAT_RAMP } from '../lib/heatmap'
-import { LICE_HEAT_MAX } from '../lib/liceWeek'
+import { WEEK_HEAT_MAX } from '../lib/liceWeek'
 import Hint from './Hint'
 import { useT } from '../lib/i18n'
 import { updateSettings, useSettings } from '../lib/settings'
@@ -59,7 +59,7 @@ export default function LayerPanel() {
               ) : l.id === 'lice-week' ? (
                 <Hint id="liceWeek" text={t('hint.liceWeek')}>{t(`layer.${l.id}.title`)}</Hint>
               ) : l.id === 'lice-heat' ? (
-                <Hint id="liceHeat" text={t('hint.liceHeat')}>{t(`layer.${l.id}.title`)}</Hint>
+                <Hint id="liceHeat" text={t(`hint.weekHeat.${s.weekHeatMode}`)}>{t(`weekHeat.title.${s.weekHeatMode}`)}</Hint>
               ) : (
                 t(`layer.${l.id}.title`)
               )}
@@ -80,13 +80,13 @@ export default function LayerPanel() {
                       ))}
                     </select>
                   </label>
-                  <span className="heat-legend" aria-label={t(l.id === 'lice-heat' ? 'liceHeat.legend' : 'heat.legend')}>
+                  <span className="heat-legend" aria-label={t(l.id === 'lice-heat' ? `weekHeat.legend.${s.weekHeatMode}` : 'heat.legend')}>
                     <span className="heat-bar" style={{ background: `linear-gradient(to right, ${HEAT_RAMP.join(', ')})` }} />
                     {l.id === 'lice-heat' ? (
                       <span className="heat-ticks">
-                        <span>0</span>
-                        <span>{LICE_HEAT_MAX / 2}</span>
-                        <span>≥ {LICE_HEAT_MAX}</span>
+                        {(s.weekHeatMode === 'treatment' ? ['0 %', `${(WEEK_HEAT_MAX.treatment * 100) / 2} %`, `≥ ${WEEK_HEAT_MAX.treatment * 100} %`] : ['0', String(WEEK_HEAT_MAX.lice / 2), `≥ ${WEEK_HEAT_MAX.lice}`]).map((x, i) => (
+                          <span key={i}>{x}</span>
+                        ))}
                       </span>
                     ) : (
                       <span className="heat-ticks">
@@ -95,7 +95,7 @@ export default function LayerPanel() {
                         <span>≥ {Math.round(HEAT_MAX * 100)} %</span>
                       </span>
                     )}
-                    <small>{t(l.id === 'lice-heat' ? 'liceHeat.legend' : 'heat.legend')}</small>
+                    <small>{t(l.id === 'lice-heat' ? `weekHeat.legend.${s.weekHeatMode}` : 'heat.legend')}</small>
                   </span>
                 </span>
               )}

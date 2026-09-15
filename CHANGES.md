@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- The weekly heatmap switches between lice pressure and treatment density for
+  the chosen week, from a toggle on the scrubber and from ⚙ Settings. Treatment
+  mode smooths the share of reporting farms treated that week (scale top 50 %);
+  title, legend, scale and hover follow the mode.
 - Case views mark entries whose documents are published here with a dot; the
   dot pulses only while that entry's documents are on screen, so the marker
   follows what you are reading. Others keep a quiet ring, and the pulse is

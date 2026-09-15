@@ -43,3 +43,18 @@ describe('lice per week', () => {
     expect(isoWeekStart(2021, 1).toISOString().slice(0, 10)).toBe('2021-01-04')
   })
 })
+
+describe('weekly heat inputs by mode', () => {
+  it('smooths lice values or a treated flag', async () => {
+    const { farmWeekStats } = await import('../liceWeek')
+    const fh2: FishHealth = {
+      retrieved: '',
+      weeks: ['2024-46'],
+      // site 1 reports 0.7 with a mechanical treatment, site 2 reports 0.3 untreated, site 3 is fallow
+      localities: { '1': { l: [0.7], f: [1 | 4] }, '2': { l: [0.3], f: [1] }, '3': { l: [0.1], f: [1 | 2] } },
+    }
+    expect(farmWeekStats(fh2, loc, 0, 'lice').map((f) => f.treat)).toEqual([0.7, 0.3])
+    expect(farmWeekStats(fh2, loc, 0, 'treatment').map((f) => f.treat)).toEqual([1, 0])
+    expect(farmWeekStats(fh2, loc, 0, 'treatment').every((f) => f.prod === 1)).toBe(true)
+  })
+})

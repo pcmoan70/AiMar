@@ -56,7 +56,12 @@ export default function HoverInfo({ map }: Props) {
         }
         if (l.id === 'lice-heat') {
           const h = heatValueAt(l.id, mx, my)
-          return { id: l.id, title: shortTitle(l), value: h ? t('liceHeat.hover', { v: h.value.toFixed(2), r: h.radiusKm }) : null }
+          const mode = s.weekHeatMode
+          return {
+            id: l.id,
+            title: t(`weekHeat.title.${mode}`),
+            value: h ? t(`weekHeat.hover.${mode}`, { v: mode === 'treatment' ? Math.round(h.value * 100) : h.value.toFixed(2), r: h.radiusKm }) : null,
+          }
         }
         if (l.id === 'lice-week') {
           const f = map.getLayer('localities') ? map.queryRenderedFeatures(e.point, { layers: ['localities'] })[0] : undefined

@@ -69,6 +69,7 @@ with `BASE_PATH=/`.
 - Every figure has a hover explanation (source and calculation method).
 - English and Norwegian UI (login screen and ⚙ Settings), including hover
   explanations and help.
+- Weekly heatmap switchable between lice pressure and treatment density.
 - Lice per week: a year/week scrubber (sparklines of farms above the limit
   and farms treated, arrow keys) colours every locality by its reported
   lice that week and can smooth them into a lice-pressure heatmap within R km.

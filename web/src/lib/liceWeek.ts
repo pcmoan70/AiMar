@@ -15,8 +15,13 @@ export const LICE_BINS: { max: number; colour: string }[] = [
   { max: Infinity, colour: '#5e1f06' },
 ]
 export const NOT_REPORTED_COLOUR = OTHER_COLOUR
-/** Colour scale top of the weekly lice heatmap (adult female lice per fish). */
-export const LICE_HEAT_MAX = 1
+/** What the weekly heatmap shows. */
+export type WeekHeatMode = 'lice' | 'treatment'
+export const WEEK_HEAT_MODES: WeekHeatMode[] = ['lice', 'treatment']
+/** Colour scale tops: adult female lice per fish, and share of nearby farms treated that week
+ *  (the national p90 of the kernel-weighted share is about 0.35). */
+export const WEEK_HEAT_MAX: Record<WeekHeatMode, number> = { lice: 1, treatment: 0.5 }
+export const LICE_HEAT_MAX = WEEK_HEAT_MAX.lice
 
 export const liceBin = (v: number) => LICE_BINS.findIndex((b) => v < b.max)
 export const liceColour = (v: number | null | undefined) => (v == null ? NOT_REPORTED_COLOUR : LICE_BINS[liceBin(v)].colour)
@@ -28,18 +33,20 @@ export function liceAtWeek(data: FishHealth, i: number): Map<number, number | nu
   return out
 }
 
-/** Farms reporting in week `i`, as heat inputs: treat = lice level, prod = 1 (so the kernel gives a weighted mean). */
-export function farmLiceStats(data: FishHealth, localities: Localities, i: number): FarmStat[] {
+/** Farms reporting in week `i`, as heat inputs: prod = 1 and treat = the value being smoothed, so the
+ *  kernel ratio is a weighted mean — the lice level, or 1/0 for a treatment registered that week. */
+export function farmWeekStats(data: FishHealth, localities: Localities, i: number, mode: WeekHeatMode = 'lice'): FarmStat[] {
   const out: FarmStat[] = []
   for (const f of localities.features) {
     const d = data.localities[String(f.properties.loknr)]
     const v = d?.l[i]
     if (v == null || d.f[i] & FLAG.fallow) continue
     const [x, y] = toMerc(f.geometry.coordinates[0], f.geometry.coordinates[1])
-    out.push({ x, y, prod: 1, treat: v })
+    out.push({ x, y, prod: 1, treat: mode === 'treatment' ? (d.f[i] & (FLAG.mechanical | FLAG.substance) ? 1 : 0) : v })
   }
   return out
 }
+export const farmLiceStats = (data: FishHealth, localities: Localities, i: number) => farmWeekStats(data, localities, i, 'lice')
 
 /** Monday of ISO week `week` in `year`, as a UTC date. */
 export function isoWeekStart(year: number, week: number): Date {

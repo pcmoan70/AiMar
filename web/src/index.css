@@ -240,8 +240,13 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
   padding: 6px 10px; font-size: 12px; display: flex; flex-direction: column; gap: 4px;
   font-variant-numeric: tabular-nums;
 }
+/* Centre over the map area, not under the side panel (aside is 340 px wide). */
+main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform: translateX(calc(-50% - 170px)); }
 .lice-scrub-row { display: flex; align-items: stretch; gap: 6px; }
 .lice-scrub-row button { padding: 2px 8px; }
+.lice-mode { display: flex; flex-direction: column; gap: 2px; justify-content: center; }
+.lice-mode button { padding: 1px 8px; font-size: 11px; }
+.lice-mode button.active { background: var(--brand); color: #fff; }
 .lice-scrub { flex: 1; height: 44px; width: 100%; background: #fff; border: 1px solid var(--line); border-radius: 4px; cursor: ew-resize; touch-action: none; }
 .lice-scrub:focus-visible { outline: 2px solid var(--brand); outline-offset: 1px; }
 .lice-scrub-year { stroke: #e3e8ec; stroke-width: 1; vector-effect: non-scaling-stroke; }

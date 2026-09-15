@@ -1,8 +1,8 @@
 import { useMemo, useRef } from 'react'
 import { limitsForWeek, type FishHealth } from '../lib/fishhealth'
 import type { Localities } from '../lib/localities'
-import { isoWeekStart, LICE_BINS, NOT_REPORTED_COLOUR, parseWeek, summariseWeek, weekShares } from '../lib/liceWeek'
-import { updateSettings } from '../lib/settings'
+import { isoWeekStart, LICE_BINS, NOT_REPORTED_COLOUR, parseWeek, summariseWeek, weekShares, WEEK_HEAT_MODES } from '../lib/liceWeek'
+import { updateSettings, useSettings } from '../lib/settings'
 import { useT, useLang } from '../lib/i18n'
 import Hint from './Hint'
 
@@ -23,6 +23,7 @@ const SW = 1000 // scrubber width in SVG units
 export default function LiceWeekSlider({ fishhealth, localities, week, values }: Props) {
   const t = useT()
   const lang = useLang()
+  const s = useSettings()
   const n = fishhealth.weeks.length
   const set = (i: number) => updateSettings({ liceWeek: Math.min(n - 1, Math.max(0, i)) })
   const fylkeOf = useMemo(() => new Map(localities?.features.map((f) => [f.properties.loknr, f.properties.fylke]) ?? []), [localities])
@@ -96,6 +97,22 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values }:
         <button type="button" className="secondary" onClick={() => set(week + 1)} disabled={week >= n - 1} aria-label={t('liceWeek.next')}>
           ▶
         </button>
+        {s.overlays.includes('lice-heat') && (
+          <span className="lice-mode" role="group" aria-label={t('weekHeat.mode')}>
+            {WEEK_HEAT_MODES.map((m) => (
+              <button
+                key={m}
+                type="button"
+                className={`secondary${s.weekHeatMode === m ? ' active' : ''}`}
+                aria-pressed={s.weekHeatMode === m}
+                title={t(`weekHeat.title.${m}`)}
+                onClick={() => updateSettings({ weekHeatMode: m })}
+              >
+                {t(`weekHeat.short.${m}`)}
+              </button>
+            ))}
+          </span>
+        )}
       </div>
       <div className="lice-readout">
         <span className="lice-readout-week">

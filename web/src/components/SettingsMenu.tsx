@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { BASE_LAYERS } from '../lib/layers'
+import { WEEK_HEAT_MODES, type WeekHeatMode } from '../lib/liceWeek'
 import { updateSettings, useSettings } from '../lib/settings'
 import { useT } from '../lib/i18n'
 import LangToggle from './LangToggle'
@@ -44,6 +45,17 @@ export default function SettingsMenu() {
             <small>
               {base.organisation} · {base.license}
             </small>
+          </label>
+          <label>
+            {t('settings.weekHeat')}
+            <select value={s.weekHeatMode} onChange={(e) => updateSettings({ weekHeatMode: e.target.value as WeekHeatMode })}>
+              {WEEK_HEAT_MODES.map((m) => (
+                <option key={m} value={m}>
+                  {t(`weekHeat.title.${m}`)}
+                </option>
+              ))}
+            </select>
+            <small>{t('settings.weekHeatNote')}</small>
           </label>
           <label>
             {t('settings.cacheLimit')}

@@ -11,7 +11,7 @@ import ContextMenu, { type MenuState } from './components/ContextMenu'
 import HeatmapLayer, { HEAT_LAYER_ID, LICE_HEAT_LAYER_ID } from './components/HeatmapLayer'
 import LiceWeekSlider from './components/LiceWeekSlider'
 import { farmTreatmentStats } from './lib/heatmap'
-import { farmLiceStats, liceAtWeek, liceColour, LICE_HEAT_MAX, setLiceWeekValues } from './lib/liceWeek'
+import { farmWeekStats, liceAtWeek, liceColour, setLiceWeekValues, WEEK_HEAT_MAX } from './lib/liceWeek'
 import SettingsMenu from './components/SettingsMenu'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
@@ -86,7 +86,10 @@ function MapApp() {
   }, [liceValues])
   const liceColours = useMemo(() => (liceValues && s.overlays.includes('lice-week') ? new Map([...liceValues].map(([nr, v]) => [nr, liceColour(v)])) : null), [liceValues, s.overlays])
   const treatmentFarms = useMemo(() => (localities && fishhealth ? farmTreatmentStats(fishhealth, localities) : null), [localities, fishhealth])
-  const liceFarms = useMemo(() => (localities && fishhealth && s.overlays.includes(LICE_HEAT_LAYER_ID) ? farmLiceStats(fishhealth, localities, liceWeek) : null), [localities, fishhealth, s.overlays, liceWeek])
+  const liceFarms = useMemo(
+    () => (localities && fishhealth && s.overlays.includes(LICE_HEAT_LAYER_ID) ? farmWeekStats(fishhealth, localities, liceWeek, s.weekHeatMode) : null),
+    [localities, fishhealth, s.overlays, liceWeek, s.weekHeatMode],
+  )
 
   return (
     <div className="app">
@@ -121,7 +124,7 @@ function MapApp() {
         <FilterChips />
         <HoverInfo map={map} />
         <HeatmapLayer map={map} id={HEAT_LAYER_ID} farms={treatmentFarms} />
-        <HeatmapLayer map={map} id={LICE_HEAT_LAYER_ID} farms={liceFarms} max={LICE_HEAT_MAX} minDen={0.5} />
+        <HeatmapLayer map={map} id={LICE_HEAT_LAYER_ID} farms={liceFarms} max={WEEK_HEAT_MAX[s.weekHeatMode]} minDen={0.5} />
         {fishhealth && liceValues && <LiceWeekSlider fishhealth={fishhealth} localities={localities} week={liceWeek} values={liceValues} />}
         {s.panel && (
           <aside>

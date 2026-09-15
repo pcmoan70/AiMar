@@ -2,6 +2,7 @@
 // the tile caches. Anything re-downloadable belongs in Cache Storage instead.
 import { useSyncExternalStore } from 'react'
 import type { Category } from './layers'
+import type { WeekHeatMode } from './liceWeek'
 import type { FieldFilters } from './filters'
 
 export type PanelId = 'layers' | 'inspect' | 'cases' | 'offline' | 'help' | null
@@ -29,6 +30,8 @@ export interface Settings {
   blockedHints: string[]
   /** Week index into fishhealth.weeks for the lice-per-week layers; -1 = latest week. */
   liceWeek: number
+  /** What the weekly heatmap smooths: reported lice, or farms with a treatment that week. */
+  weekHeatMode: WeekHeatMode
 }
 
 const KEY = 'aimar.settings.v1'
@@ -47,6 +50,7 @@ export const DEFAULT_SETTINGS: Settings = {
   heatRadiusKm: 20,
   blockedHints: [],
   liceWeek: -1,
+  weekHeatMode: 'lice',
 }
 
 function load(): Settings {
