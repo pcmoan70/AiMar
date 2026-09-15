@@ -2,6 +2,9 @@
 
 ## 2026-09-15
 
+- While the weekly lice layer is on, dots are drawn in order of lice level:
+  the worst on top, sites without a report at the bottom, so clusters are not
+  hidden behind quiet neighbours.
 - Spring limits are visible on the scrubber and the map: the timeline and the
   season axis shade weeks 16–26, and localities over the limit in force that
   week (0.2 in the spring weeks by region, else 0.5) get a dark red ring. In

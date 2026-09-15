@@ -44,7 +44,15 @@ function operatorFilter(_operators: string[], loknrs: number[] | null): { points
   return { points: expr, polygons: expr }
 }
 
-function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: number[] | null, liceColours: Map<number, string> | null, liceDim: number[] | null, liceOver: number[] | null): StyleSpecification {
+function buildStyle(
+  s: Settings,
+  selectedLoknr: number | null,
+  polygonLoknrs: number[] | null,
+  liceColours: Map<number, string> | null,
+  liceDim: number[] | null,
+  liceOver: number[] | null,
+  liceRanks: number[][] | null,
+): StyleSpecification {
   const opf = operatorFilter(s.operatorFilter, polygonLoknrs)
   const sources: Record<string, SourceSpecification> = {}
   const layers: LayerSpecification[] = []
@@ -120,8 +128,13 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
         ]),
         OTHER_COLOUR,
       ] as unknown as ExpressionSpecification
-      // Draw order: grey sites at the bottom, then coloured operators with the largest (first in the table) on top.
-      const sortExpr: ExpressionSpecification = [
+      // While the weekly lice layer is on, draw order follows the lice level: the worst on top,
+      // sites without a report at the bottom. Otherwise it follows operator size.
+      const liceSort: ExpressionSpecification | null =
+        liceExpr && liceRanks?.some((b) => b.length)
+          ? (['match', ['get', 'loknr'], ...liceRanks.flatMap((b, i) => (b.length ? [b, i + 1] : [])), 0] as unknown as ExpressionSpecification)
+          : null
+      const sortExpr: ExpressionSpecification = liceSort ?? [
         'case',
         ...assignments.flatMap((a, i): [ExpressionSpecification, number] => [
           ['>=', ['index-of', a.name, ['coalesce', ['get', 'til_innehavere'], '']], 0],
@@ -171,13 +184,15 @@ interface Props {
   liceDim: number[] | null
   /** Locality numbers over the limit in force that week, ringed. */
   liceOver: number[] | null
+  /** Locality numbers grouped by lice bin, lowest first; drives the draw order while scrubbing. */
+  liceRanks: number[][] | null
   onSelect: (hit: MapHit) => void
   /** Right-click: the locality under the pointer (or null) and the pixel position. */
   onContextMenu: (locality: LocalityProps | null, point: { x: number; y: number }) => void
   onMap: (map: MlMap | null) => void
 }
 
-export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, onSelect, onContextMenu, onMap }: Props) {
+export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks, onSelect, onContextMenu, onMap }: Props) {
   const container = useRef<HTMLDivElement>(null)
   const mapRef = useRef<MlMap | null>(null)
   const onSelectRef = useRef(onSelect)
@@ -186,14 +201,14 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
   onContextRef.current = onContextMenu
   const appliedStyle = useRef('')
   const settings = useSettings()
-  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? settings.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, liceOver?.length ?? -1, settings.weekAxis, settings.seasonWeek])
+  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? settings.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, liceOver?.length ?? -1, liceRanks?.map((b) => b.length).join('/') ?? '', settings.weekAxis, settings.seasonWeek])
 
   useEffect(() => {
     const s = getSettings()
-    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? s.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, liceOver?.length ?? -1, s.weekAxis, s.seasonWeek])
+    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? s.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, liceOver?.length ?? -1, liceRanks?.map((b) => b.length).join('/') ?? '', s.weekAxis, s.seasonWeek])
     const map = new MlMap({
       container: container.current!,
-      style: buildStyle(s, null, filteredLoknrs, liceColours, liceDim, liceOver),
+      style: buildStyle(s, null, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks),
       center: s.view.center,
       zoom: s.view.zoom,
       attributionControl: { compact: true },
@@ -247,7 +262,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
   useEffect(() => {
     if (!mapRef.current || styleKey === appliedStyle.current) return
     appliedStyle.current = styleKey
-    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver), { diff: true })
+    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks), { diff: true })
   }, [styleKey]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return <div ref={container} className="map" />

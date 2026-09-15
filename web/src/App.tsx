@@ -11,7 +11,7 @@ import ContextMenu, { type MenuState } from './components/ContextMenu'
 import HeatmapLayer, { HEAT_LAYER_ID, LICE_HEAT_LAYER_ID } from './components/HeatmapLayer'
 import LiceWeekSlider from './components/LiceWeekSlider'
 import { farmTreatmentStats } from './lib/heatmap'
-import { farmSeasonStats, farmWeekStats, liceAtSeasonWeek, liceAtWeek, liceColour, SEASON_WEEKS, setLiceWeekValues, WEEK_HEAT_MAX } from './lib/liceWeek'
+import { farmSeasonStats, farmWeekStats, liceAtSeasonWeek, liceAtWeek, liceBin, liceColour, LICE_BINS, SEASON_WEEKS, setLiceWeekValues, WEEK_HEAT_MAX } from './lib/liceWeek'
 import { liceLimit } from './lib/fishhealth'
 import SettingsMenu from './components/SettingsMenu'
 import HelpPanel from './components/HelpPanel'
@@ -92,6 +92,13 @@ function MapApp() {
   }, [liceValues])
   const liceColours = useMemo(() => (liceValues && s.overlays.includes('lice-week') ? new Map([...liceValues].map(([nr, v]) => [nr, liceColour(v)])) : null), [liceValues, s.overlays])
   const liceDim = useMemo(() => (liceColours && liceValues ? [...liceValues].filter(([, v]) => v == null).map(([nr]) => nr) : null), [liceColours, liceValues])
+  // Draw order while scrubbing: the worst lice levels on top, sites with no report at the bottom.
+  const liceRanks = useMemo(() => {
+    if (!liceColours || !liceValues) return null
+    const bins: number[][] = LICE_BINS.map(() => [])
+    for (const [nr, v] of liceValues) if (v != null) bins[liceBin(v)].push(nr)
+    return bins
+  }, [liceColours, liceValues])
   // Sites over the limit in force that week — 0.2 in the spring weeks, by region — get a dark ring.
   const liceOver = useMemo(() => {
     if (!liceColours || !liceValues || !fishhealth || !localities) return null
@@ -137,6 +144,7 @@ function MapApp() {
           liceColours={liceColours}
           liceDim={liceDim}
           liceOver={liceOver}
+          liceRanks={liceRanks}
           onSelect={select}
           onContextMenu={(locality, point) => setMenu({ locality, x: point.x, y: point.y })}
           onMap={setMap}
