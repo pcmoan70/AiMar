@@ -57,3 +57,8 @@ conda create -n aimar-ocr -c conda-forge python=3.12 tesseract pymupdf
 conda run -n aimar-ocr python pipeline/docs/extract_text.py --workers 4
 node web/scripts/apply-doc-text.mjs   # refresh excerpts + method in docs.json
 ```
+
+`render.py --fields waves wind` renders only the named fields, so finished
+products can be published while other fields are still accumulating. The PNGs
+and `manifest.json` are copied into `web/public/climatology/`; the app decodes
+the pixels itself (mean, p90, direction, steadiness) and never needs a server.

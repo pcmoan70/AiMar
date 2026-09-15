@@ -72,6 +72,9 @@ with `BASE_PATH=/`.
 - English and Norwegian UI (login screen and ⚙ Settings), including hover
   explanations and help.
 - Week readout counts sites above a settable warm-water threshold (12.5 °C).
+- Wave height and wind speed as monthly normals (2023–2025 NORA3 hindcast),
+  with a month selector and hover values for mean, 90th percentile, direction
+  and steadiness.
 - Weekly heatmap switchable between lice pressure and treatment density, on a
   timeline of individual weeks or averaged per week number over all years with
   the last year overlaid as spikes.

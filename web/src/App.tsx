@@ -27,6 +27,8 @@ import { filteredLoknrs as computeFiltered } from './lib/filters'
 import FilterChips from './components/FilterChips'
 import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealth'
 import { loadCases, type Cases } from './lib/cases'
+import { CLIM_FIELDS, loadClimManifest, type ClimManifest } from './lib/climatology'
+import ClimatologyLayer from './components/ClimatologyLayer'
 import { loadSeaTemp, loadTides, warmAtSeasonWeek, warmAtWeek, warmCounts, type SeaTemp, type Tides } from './lib/siteData'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
@@ -50,6 +52,7 @@ function MapApp() {
   const [casesFailed, setCasesFailed] = useState(false)
   const [seatemp, setSeatemp] = useState<SeaTemp | null>(null)
   const [tides, setTides] = useState<Tides | null>(null)
+  const [clim, setClim] = useState<ClimManifest | null>(null)
   const [menu, setMenu] = useState<MenuState | null>(null)
   const [caseSites, setCaseSites] = useState<number[] | null>(null)
 
@@ -64,6 +67,7 @@ function MapApp() {
       })
     loadSeaTemp().then(setSeatemp)
     loadTides().then(setTides)
+    loadClimManifest().then(setClim)
     scheduleJanitor(() => getSettings().cacheLimitGb * 1024 ** 3)
   }, [])
 
@@ -170,6 +174,9 @@ function MapApp() {
         <OperatorDropdown localities={localities} map={map} />
         <FilterChips />
         <HoverInfo map={map} />
+        {Object.entries(CLIM_FIELDS).map(([id, field]) => (
+          <ClimatologyLayer key={id} map={map} id={id} field={field} manifest={clim} />
+        ))}
         <HeatmapLayer map={map} id={HEAT_LAYER_ID} farms={treatmentFarms} />
         <HeatmapLayer map={map} id={LICE_HEAT_LAYER_ID} farms={liceFarms} max={WEEK_HEAT_MAX[s.weekHeatMode]} minDen={0.5} />
         {fishhealth && liceValues && <LiceWeekSlider fishhealth={fishhealth} localities={localities} week={liceWeek} values={liceValues} warm={warm} warmSeries={warmSeries} />}

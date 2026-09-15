@@ -1,0 +1,115 @@
+{
+ "attribution": "\u00a9 MET Norway (NORA3 wave hindcast, NorKyst-800), CC BY 4.0",
+ "years": [
+  2023,
+  2024,
+  2025
+ ],
+ "created": "2026-09-15",
+ "encoding": {
+  "vector": {
+   "R": "mean index 1..255 -> min..max (0 = no data)",
+   "G": "p90 index",
+   "B": "direction to, 0..255 -> 0..360\u00b0",
+   "A": "steadiness 1..255 -> 0..1"
+  },
+  "scalar": {
+   "R": "mean index 1..255 -> min..max (0 = no data)",
+   "G": "p90 index",
+   "B": "p10 index",
+   "A": "255 where data"
+  }
+ },
+ "layers": {
+  "waves": {
+   "title": "Significant wave height",
+   "units": "m",
+   "min": 0.0,
+   "max": 8.0,
+   "scalar": false,
+   "calm": 0.5,
+   "width": 808,
+   "height": 981,
+   "bounds": [
+    3.0,
+    57.00000000000001,
+    32.03354998274293,
+    71.79999999999998
+   ],
+   "depths": null,
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "files": {
+    "m01": "waves_m01.png",
+    "m02": "waves_m02.png",
+    "m03": "waves_m03.png",
+    "m04": "waves_m04.png",
+    "m05": "waves_m05.png",
+    "m06": "waves_m06.png",
+    "m07": "waves_m07.png",
+    "m08": "waves_m08.png",
+    "m09": "waves_m09.png",
+    "m10": "waves_m10.png",
+    "m11": "waves_m11.png",
+    "m12": "waves_m12.png"
+   }
+  },
+  "wind": {
+   "title": "Wind speed (10 m)",
+   "units": "m/s",
+   "min": 0.0,
+   "max": 30.0,
+   "scalar": false,
+   "calm": 3.0,
+   "width": 808,
+   "height": 981,
+   "bounds": [
+    3.0,
+    57.00000000000001,
+    32.03354998274293,
+    71.79999999999998
+   ],
+   "depths": null,
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "files": {
+    "m01": "wind_m01.png",
+    "m02": "wind_m02.png",
+    "m03": "wind_m03.png",
+    "m04": "wind_m04.png",
+    "m05": "wind_m05.png",
+    "m06": "wind_m06.png",
+    "m07": "wind_m07.png",
+    "m08": "wind_m08.png",
+    "m09": "wind_m09.png",
+    "m10": "wind_m10.png",
+    "m11": "wind_m11.png",
+    "m12": "wind_m12.png"
+   }
+  }
+ }
+}

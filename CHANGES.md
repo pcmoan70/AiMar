@@ -2,6 +2,11 @@
 
 ## 2026-09-15
 
+- Wave and wind climatology in the app: twelve monthly normals each, from the
+  MET Norway NORA3 hindcast over 2023–2025, as Ocean-tab overlays with a month
+  selector. The PNGs encode mean, 90th percentile, direction and steadiness,
+  which the app decodes on the device, so hovering gives all four without a
+  server. The images are fetched on demand and runtime-cached, not precached.
 - Site panel: a *Group by case* box collects a locality's correspondence per
   case file, cases with the most recent activity first and the entries inside
   each case in the order the matter progressed, oldest first.

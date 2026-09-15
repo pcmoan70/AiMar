@@ -135,6 +135,7 @@ def _merc_bounds_to_lonlat(b):
 def main(argv: list[str] | None = None) -> None:
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--pilot", action="store_true")
+    p.add_argument("--fields", nargs="*", help="only these fields, e.g. waves wind (default: every field with statistics)")
     args = p.parse_args(argv)
     out_dir = WEB_DIR / "pilot" if args.pilot else WEB_DIR
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -150,6 +151,8 @@ def main(argv: list[str] | None = None) -> None:
         "layers": {},
     }
     for path in sorted(STATS_DIR.glob(pattern)):
+        if args.fields and path.name.split("_m")[0] not in args.fields:
+            continue
         render_file(path, out_dir, manifest)
     for lm in manifest["layers"].values():
         lm["months"].sort()

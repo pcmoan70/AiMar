@@ -38,6 +38,8 @@ export interface Settings {
   seasonWeek: number
   /** Sea temperature (°C) counted as warm in the scrubber readout. */
   warmC: number
+  /** Month shown by the climatology overlays (1…12). */
+  climMonth: number
 }
 
 const KEY = 'aimar.settings.v1'
@@ -60,6 +62,7 @@ export const DEFAULT_SETTINGS: Settings = {
   weekAxis: 'timeline',
   seasonWeek: 20,
   warmC: 12.5,
+  climMonth: 1,
 }
 
 function load(): Settings {

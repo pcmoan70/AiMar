@@ -1,6 +1,8 @@
 import { CATEGORIES, legendUrls, overlaysIn } from '../lib/layers'
 import { HEAT_MAX, HEAT_RADII_KM, HEAT_RAMP } from '../lib/heatmap'
 import { WEEK_HEAT_MAX } from '../lib/liceWeek'
+import { CLIM_FIELDS, CLIM_RAMP, MONTHS } from '../lib/climatology'
+import { numberLocale } from '../lib/i18n'
 import Hint from './Hint'
 import { useT } from '../lib/i18n'
 import { updateSettings, useSettings } from '../lib/settings'
@@ -72,6 +74,29 @@ export default function LayerPanel() {
                   // A service without GetLegendGraphic simply yields no image.
                   <img key={u} className="legend-img" src={u} alt={t('layers.legendAlt', { l: t(`layer.${l.id}.title`) })} loading="lazy" onError={(e) => (e.currentTarget.hidden = true)} />
                 ))}
+              {on && CLIM_FIELDS[l.id] && (
+                <span className="heat-controls" onClick={(e) => e.preventDefault()}>
+                  <label className="heat-radius">
+                    <Hint id="climMonth" text={t('hint.climMonth')}>{t('clim.month')}</Hint>
+                    <select value={s.climMonth} onChange={(e) => updateSettings({ climMonth: Number(e.target.value) })}>
+                      {MONTHS.map((m) => (
+                        <option key={m} value={m}>
+                          {new Date(Date.UTC(2024, m - 1, 1)).toLocaleDateString(numberLocale(), { month: 'long', timeZone: 'UTC' })}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                  <span className="heat-legend">
+                    <span className="heat-bar" style={{ background: `linear-gradient(to right, ${CLIM_RAMP.join(', ')})` }} />
+                    <span className="heat-ticks">
+                      <span>0</span>
+                      <span>{l.id === 'clim-waves' ? '4 m' : '15 m/s'}</span>
+                      <span>{l.id === 'clim-waves' ? '≥ 8 m' : '≥ 30 m/s'}</span>
+                    </span>
+                    <small>{t(`clim.legend.${l.id === 'clim-waves' ? 'waves' : 'wind'}`)}</small>
+                  </span>
+                </span>
+              )}
               {on && (l.id === 'treatment-heat' || l.id === 'lice-heat') && (
                 <span className="heat-controls" onClick={(e) => e.preventDefault()}>
                   <label className="heat-radius">

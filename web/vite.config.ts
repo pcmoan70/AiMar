@@ -28,6 +28,8 @@ export default defineConfig({
       workbox: {
         // App shell plus bundled data snapshots are precached at install.
         globPatterns: ['**/*.{js,css,html,svg,png,geojson,json}'],
+        // Climatology images are large and only needed when their layer is on; the runtime cache takes them.
+        globIgnores: ['**/climatology/*.png'],
         maximumFileSizeToCacheInBytes: 40 * 1024 * 1024, // cases.json is ~20 MB
         navigateFallback: 'index.html',
         // Opening a bundled file (a document text in a new tab) is a navigation: serve the file, not the app.
