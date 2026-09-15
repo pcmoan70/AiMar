@@ -1,6 +1,14 @@
 import { docUrl, type CaseDoc } from '../lib/cases'
 import { numberLocale, useT } from '../lib/i18n'
 
+/** Pulsing marker on the entries whose documents are published, so readable ones stand out in a long list. */
+export function CaseDocsDot({ docs }: { docs?: CaseDoc[] }) {
+  const t = useT()
+  if (!docs?.length) return null
+  const label = t(docs.length === 1 ? 'case.hasDoc' : 'case.hasDocs', { n: docs.length })
+  return <span className="case-dot" role="img" title={label} aria-label={label} />
+}
+
 /** Documents published on eInnsyn for one journal entry: link to the file and the first lines of its text. */
 export default function CaseDocs({ docs }: { docs?: CaseDoc[] }) {
   const t = useT()

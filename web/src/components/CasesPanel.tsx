@@ -3,7 +3,7 @@ import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, se
 import type { Localities } from '../lib/localities'
 import { useT } from '../lib/i18n'
 import Hint from './Hint'
-import CaseDocs from './CaseDocs'
+import CaseDocs, { CaseDocsDot } from './CaseDocs'
 
 interface Props {
   cases: Cases | null
@@ -55,6 +55,7 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
     <li key={r.entry.id} className={`case case-${r.kind}`}>
       <span className="case-date">{r.entry.date ?? '–'}</span>
       <span className="case-kind">{t(`case.${r.kind}`)}</span>
+      <CaseDocsDot docs={cases?.docs?.[r.entry.id]} />
       <a href={caseUrl(r.entry)} target="_blank" rel="noreferrer" className="case-title">
         {r.entry.title}
       </a>

@@ -2,6 +2,9 @@
 
 ## 2026-09-15
 
+- Case views mark entries whose documents are published here with a pulsing
+  dot (static ring under prefers-reduced-motion), so readable entries stand out
+  in a long list.
 - Full-text archive for the documents: `pipeline/docs/extract_text.py` keeps
   the originals untouched on the external drive and writes one text file per
   document plus `index.json` with provenance (source path, SHA-256, size, MIME,

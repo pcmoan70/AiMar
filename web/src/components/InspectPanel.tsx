@@ -9,7 +9,7 @@ import { numberLocale, useT } from '../lib/i18n'
 import type { HintKey } from '../lib/hints'
 import LiceChart from './LiceChart'
 import Hint from './Hint'
-import CaseDocs from './CaseDocs'
+import CaseDocs, { CaseDocsDot } from './CaseDocs'
 import { tempSeries, type SeaTemp, type Tides } from '../lib/siteData'
 import FieldPicker from './FieldPicker'
 import type { Selection } from './MapView'
@@ -188,6 +188,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
                   <li key={e.id} className={`case case-${caseKind(e)}`}>
                     <span className="case-date">{e.date ?? '–'}</span>
                     <span className="case-kind">{t(`case.${caseKind(e)}`)}</span>
+                    <CaseDocsDot docs={cases.docs?.[e.id]} />
                     <a href={caseUrl(e)} target="_blank" rel="noreferrer" className="case-title">
                       {e.title}
                     </a>
