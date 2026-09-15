@@ -1,0 +1,1976 @@
+﻿Teknisk notat 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+NORGES GEOTEKNISKE INSTITUTT 
+Hovedkontor Oslo 
+Avd. Trondheim 
+Avd. Tromsø 
+BANK 
+ISO 9001/14001 
+NGI.NO 
+PB. 3930 Ullevål Stadion 
+Professor Brochs gate 12 
+PB. 2115 Stakkevollan 
+KONTO 1506 91 98764 
+CERTIFIED BY BSI 
+ngi@ngi.no         T. 22023000 
+0806 Oslo 
+7030 Trondheim 
+9266 Tromsø 
+ORG.NR 932 089 114 MVA 
+FS 32989/EMS 612006 
+Til: 
+LERØY AURORA AS 
+v/ 
+Jan Arild 
+Kopi til: 
+ 
+Dato: 
+2025-08-12 
+Rev.nr. / Rev.dato: 
+ 0 /  
+Dokumentnr.: 
+20250213-01-TN 
+Prosjekt: 
+Snøskred mot oppdrettsanlegg - Lerøy Aurora AS 
+Prosjektleder: 
+Peter Gauer 
+Utarbeidet av: 
+Peter Gauer 
+Kontrollert av: 
+Kjersti Gisnås 
+ 
+Uavhengig kontroll av Multiconsults skredvurdering og supplerende 
+vurdering  
+Innhold 
+ 
+Bakgrunn 
+2 
+ 
+UKS 
+3 
+ 
+Grunnlag 
+3 
+ 
+Metode 
+3 
+ 
+Utført kontroll 
+4 
+ 
+Overordnede krav 
+4 
+ 
+Grunnlagsdata 
+5 
+ 
+Skredfarevurdering 
+6 
+ 
+Farevurdering 
+7 
+ 
+Forbehold 
+7 
+ 
+Metodikk og grunnlagsdata 
+7 
+ 
+Digitale terrengmodeller (DTM) 
+8 
+ 
+Andre datakilder benyttet i vurderingen 
+9 
+ 
+Befaring og feltobservasjoner 
+9 
+ 
+Områdebeskrivelse 
+9 
+ 
+Lokalt klima 
+10 
+ 
+Topografi 
+14 
+ 
+Skog- og vegetasjonsforhold 
+15 
+ 
+Feltobservasjoner 
+17 
+ 
+Skredfarevurdering 
+20 
+ 
+Samlede faresoner 
+26 
+ 
+Referanser 
+28 
+Vedlegg 00  
+Beskrivelse av modellverktøy og betydning av skog  
+Kontroll- og referanseside 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 2  
+ 
+Bakgrunn 
+Oppdragsgiver har ønsket en uavhengig kontroll av Multiconsults skredvurdering for 
+det flytende oppdrettsanlegget ved Sessøya i Tromsø kommune, dokumentnummer 
+10256462-RIGberg-NOT-001_rev_01. 
+ 
+Kontrollen omfatter en gjennomgang av rapporten med hensyn til om den tilfredsstiller 
+kravene i NVEs veileder for utredning av skredfare i bratt terreng.  
+ 
+I tillegg gjennomføres en selvstendig vurdering av hvorvidt rapportens konklusjoner 
+anses som faglig rimelige. 
+ 
+Den selvstendige vurderingen av rekkevidde og sannsynlighet for skred vil inkludere en 
+befaring til området, samt utløpsmodellering av dimensjonerende skred for faresone 
+1/1000. 
+ 
+Denne rapporten består av 2 deler. Første del (Kapittel 2) inkluderer en gjennomgang og 
+kvalitetskontroll av Multiconsults rapport (rap. 10256462-RIGberg-NOT-001_rev_01), 
+inkludert NGIs vurdering av utarbeidede faresoner. Andre del (Kapitel 3) inneholder en 
+uavhengig vurdering av snøskred i henhold til sikkerhetsklasse S1 og S2. Dette 
+inkluderer egne observasjoner fra befaring, modellering av utløp, og vurdering av fare-
+sone med nominell årlig sannsynlighet for skred 1/1000 (sikkerhetsklasse S2). 
+ 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 3  
+ 
+UKS 
+ 
+Grunnlag 
+Materialet, som NGI har fått tilgang til fra oppdragsgiver, består av følgende: 
+ Notat fra Multiconsult (datert 2024-04-19) Snøskredvurdering Fiskeoppdrett 
+Sessøya, Snøskredutredning 10256462-RIGberg-NOT-001_rev_01 
+Dette notatet er utarbeidet i henhold til NVEs veileder for kartlegging og vurdering av 
+snøskredfare, og følger de formelle kravene til struktur og innhold som angitt i 
+veilederen1. 
+ 
+ 
+Metode 
+NVEs veileder1 stiller krav til at den uavhengige kvalitetssikringen dokumenterer at 
+utredningen er gjennomført i samsvar med veilederen, og har tilstrekkelig kvalitet. 
+Arbeidet skal blant annet avklare: 
+- 
+Om det er benyttet relevant og dekkende grunnlagsdata, inkludert eventuelle 
+tidligere utførte skredfareutredninger for samme område.  
+- 
+Om feltarbeid/befaringer kan ansees som dekkende og tilstrekkelig. 
+- 
+Om klimadata er brukt der det er relevant. 
+- 
+Om beregningsverktøy er brukt fornuftig, og resultater av modelleringen er 
+diskutert. 
+- 
+Om det er sammenheng mellom registreringskart, eventuelle modellresultater 
+og skredfareutredninger/faresoner. 
+Det skal også gjøres en samlet vurdering av konklusjoner og begrunnelser ut fra 
+tilgjengelig grunnlagsdata og beregningsresultater.»  
+ 
+I den uavhengige kvalitetssikringen ligger ikke en direkte kontroll av de utarbeidede 
+vurderingene, og utførende foretak har fullstendig ansvar for disse. Ved å gjennomføre 
+UKS står ikke NGI medansvarlig for de utførte vurderingene. Vi har benyttet betegnelser 
+for kontrollstatus og kommentar gitt i Tabell 2-1 for å gjennomføre UKS.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 NVE, 2025. Digital veileder. Utredning av sikkerhet mot skred i bratt terreng. https://veiledere.nve.no/utredning-av-sikkerhet-mot-skred-
+i-bratt-terreng/ [17.06.2025] 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 4  
+Tabell 2-1: Kontrollstatus og betegnelser for gjennomføring av UKS. 
+Kontrollstatus 
+Benevnelse 
+Forklaring 
+OK 
+OK 
+Kontrollert og vurderes å være iht. veileder og bestepraksis. I noen 
+tilfeller med et råd om forbedringspotensial eller et spørsmål for 
+avklaring. 
+Anmerkning 
+ANM 
+Kontrollert, men vurderes å avvike i noen grad fra veileder/krav-
+spesifikasjon og bestepraksis. Må ikke rettes opp, men bør svares ut 
+eller begrunnes mer grundig. 
+Avvik 
+AV 
+Mangel eller klart avvik fra veileder/kravspesifikasjon. Det er forhold 
+som må utbedres og som vurderes å avvike i slik grad at det må 
+rettes opp. 
+ 
+ 
+Utført kontroll 
+Den utførte kontrollen er gjort i forhold til temaene vist under: 
+1. Overordnede krav 
+2. Grunnlagsdata 
+3. Skredfarevurdering  
+ 
+For hvert av disse temaene er det gjort en vurdering og gitt kommentarer iht. metodikken 
+beskrevet i Tabell 2-1.  
+ 
+ 
+Overordnede krav 
+Tabell 2-2 NGIs kommentarer til overordnede krav 
+Tema 
+Status 
+Kommentar 
+Notat mal og oppsett  
+OK 
+Dette notatet er utarbeidet i henhold til NVEs veileder for 
+kartlegging og vurdering av skredfare, og følger de formelle 
+kravene til struktur og innhold som angitt i veilederen. 
+Omfanget av dokumentasjon og detaljeringsgrad er tilpasset 
+oppdragets omfang. 
+Om oppdraget 
+OK 
+Mål og begrunnelse for oppdraget kommer frem i sammen-
+draget og innledningen. 
+Valg av sikkerhets-
+klasser 
+OK 
+OK 
+Veilederversjon 
+OK 
+OK; Norges vassdrags- og energidirektorat, “Veileder for 
+utredning av sikkerhet mot skred i bratt terreng - Utredning 
+av skredfare i reguleringsplan og byggesak.” Accessed: Nov. 
+09, 2022. [Online]. Available: 
+https://www.nve.no/skredfarekartlegging/  
+Referanser 
+OK 
+ 
+Skog 
+AMK 
+Det er ikke forklart hvorfor dagens skog i området ikke er tatt 
+hensyn til i vurderingen. Ingen skogspolygoner er gitt.  
+Faresonekart 
+OK 
+Faresonekartet er utarbeidet iht. veileder. Det er utarbeidet 
+faresoner for snøskred.  
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 5  
+ 
+Grunnlagsdata  
+Tabell 2-3. NGIs kommentarer til grunnlagsdata 
+Tema 
+Status 
+Kommentar 
+Grunnlagsdata 
+OK 
+Grunnlagsdataene er stort sett tilstrekkelig gitt, men noe 
+informasjon om skogen mangler.  
+Klima data 
+OK 
+Kort beskrevet.  
+Skog 
+AMK 
+Skog og effekten av skog er ikke godt nok dokumentert i 
+notat. 
+Klimaanalyse 
+AMK 
+Klimaanalysen er gjennomført med NVEs nettbaserte verktøy, 
+basert på SeNorge-data med en modellhøyde på 351 moh. 
+Verktøyet følger ikke det hydrologisk året som er metodisk 
+svakhet. 
+ 
+Ekstremverdiberegningen for nedbør benytter block-
+maksima-metoden, som har visse metodiske begrensninger i 
+denne konteksten. I tillegg er bruk av nysnøhøyde som 
+inngangsparameter i skredmodellkjøringer kun begrenset 
+egnet.  
+ 
+Det er uklart hvor opplysningen om en maksimal snødybde på 
+338 cm den 6. april 1920 stammer fra, ettersom SeNorge-
+dataene kun dekker perioden fra 1958 og fremover. Datoen 
+er nevnt to ganger i teksten, men sett i sammenheng med 
+figur 3 er det sannsynlig at det er en feil, og at den korrekte 
+datoen burde være 6. april 2020. 
+ 
+Ønskelig er et plot som viser statistikk for ekstreme verdier av 
+årlig maksimum snøhøyde eller vannekvivalent.  
+ 
+En gjennomsnittlig nysnødybde på 42 cm over tre døgn anses 
+som relativt høy. Det er imidlertid uklart hvilke beregnings-
+metoder som er benyttet i dette tilfellet. (Eller er menes 
+gjennomsnitt av block-maksima av 3 døgns-nysnødybde?) 
+Tidligere utredninger 
+OK 
+Ingen kjente 
+Historiske hendelser  
+OK 
+Ingen kjente  
+Eksisterende 
+sikringstiltak  
+OK 
+Ingen 
+Feltarbeid 
+OK 
+Dekker mesteparten av påvirkningsområdet. 
+Registreringskart 
+OK 
+ 
+Modellering 
+AMK 
+Snøskred og skredvind: Det finnes kun et begrenset antall 
+dynamiske modeller som håndterer begge deler av et snø-
+skred – både den tetten delen og snøskyen. Multiconsult 
+benytter en pre-release-versjon av modellen 
+RAMMS::Extended.  
+Denne modellen er fortsatt i en valideringsfase. Våre egne 
+erfaringer tilsier at modellen kan være sensitiv for visse valg 
+av inngangsparametere. En slik parameter er for eksempel 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 6  
+Tema 
+Status 
+Kommentar 
+snøtemperaturen i modellen. Det finnes ingen forklaring på 
+valget av referansetemperatur og temperaturgradient.  
+ 
+Den valgte referansetemperaturen i RAMMS::Extended er 
+satt til 0 grader ved havnivå, noe som indikerer tilnærmet 
+isotermiske forhold. Med en temperaturgradient på -0,3 
+grader per 100 meter tilsvarer dette en estimert sjø-
+temperatur på omtrent -1,5 grader i bruddområdet. Dette gir 
+ikke de mest gunstige forholdene for dannelse av store 
+snøskyer. 
+ 
+Modellen er også kjent å vise en tendens, lik 
+RAMMS::avalanche, til å underestimere hastigheten i 
+skredbanen. På den annen side kan tettheten i snøskyen i 
+enkelte tilfeller være overvurdert. 
+ 
+Det er uklart hvilke løsneområder som er benyttet for modell-
+kjøringene. Er løsneområdene i registreringskartet benyttet, 
+eller andre? 
+ 
+En bruddhøyde på 2 meter, normal mot terrenget, over et 
+stort område med en tetthet på 300 kg/m³ i en skråning med 
+helling over 40 grader, er høyere enn det man normalt ville 
+forvente for et tørt snøskred i dette området. 
+ 
+På den annen side kan erosjon bidra betydelig til snøskred-
+dynamikken. 
+ 
+En særskilt utfordring i simuleringen for området er å 
+håndtere overgangen fra land til sjø, ettersom friksjons-
+forholdene for faste masser endres vesentlig i kontakt med 
+vann. Tilsynelatende blir dette verken tatt hensyn til i model-
+leringen eller diskutert. Dette påvirker utløpslengden til faste 
+masser i vann, og har dermed også indirekte betydning for 
+skredvinden. 
+ 
+ 
+Skredfarevurdering 
+Tabell 2-4. NGIs kommentarer til skredfarevurdering 
+Tema 
+Status 
+Kommentar 
+Snøskred 
+AMK 
+Med tanke på at det eksisterer en generell usikkerhet 
+ved bestemmelsen av faresonegrenser, antas faresonen 
+for S2 å være rimelig. Likevel antar vi at intensiteten på 
+snøskredene i kartlagte området er noe lavere enn det 
+som er angitt i de presenterte snøskredsimuleringene. 
+ 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 7  
+ 
+Farevurdering  
+Oppdragsgiver har bedt om en uavhengig vurdering av både rekkevidde og sann-
+synlighet for skred, som omfatter befaring av området og modellering av utløp for et 
+dimensjonerende skred for faresone S2 med en nominell årlig sannsynlighet 1/1000. 
+ 
+ 
+Forbehold 
+Skredfareutredningen for dagens situasjon tar utgangspunkt i de terreng-, klima- og 
+vegetasjonsforholdene som er aktuelle på utredningstidspunktet, og benytter den 
+metodikken, kunnskapen og de verktøyene som er tilgjengelige. Dette er forutsetningene 
+for vurderingene som blir gjort. 
+ 
+Dersom disse forutsetningene endres, kan selve vurderingene av skredfaren også endres, 
+og det kan være behov for å utføre en ny skredfareutredning. 
+ 
+Eksempler på endrede forutsetninger er: 
+ Nye skredhendelser eller nye opplysninger om tidligere skredhendelser. 
+ Endrede terrengforhold, for eksempel sikringstiltak, terrenginngrep i bratt 
+terreng osv. 
+ Endrede vegetasjonsforhold (inkludert som et resultat av hogst og fjerning av 
+produktiv og produksjonsskog, samt skogdekke generelt) eller endrede 
+hydrologiske forhold, for eksempel avskjærende grøfter, veier osv. 
+ Ny metodikk har blitt tilgjengelig, inkludert ny metodikk for å vurdere effekten 
+av klimaendringer på skredfare. 
+Vurderingene gjelder kun naturlig utløste skred, men det understrekes at menneskelige 
+inngrep i terreng eller drenering kan endre stabilitetsforholdene og dermed øke risikoen 
+for skred. Eventuelle terrengendringer, byggeaktiviteter eller justeringer i drenering må 
+derfor nøye vurderes med hensyn til potensielle innvirkning på skredfaren. 
+ 
+ 
+Metodikk og grunnlagsdata 
+Kartleggingen er basert på feltbefaringer, modellering og skredfaglige vurderinger som 
+tar hensyn til lokale forhold. 
+ 
+Skredfare oppstår generelt som et resultat av en kombinasjon av ulike faktorer, som for 
+eksempel: 
+ Terreng (helning, eksponering) 
+ Grunnforhold 
+ Vegetasjon (bunndekke, tetthet av skog) 
+ Nedbør (frekvens, mengde, snø eller regn) 
+ Vindens påvirkning (drivsnøavsetninger, intensitet av pålasting eller skavl-
+dannelse) 
+ Snødekkeegenskaper (maritimt eller kontinentalt klima) 
+ Utløpslengde for skred eller steinsprang 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 8  
+Alle disse parameterne varierer og kan beskrives ved sannsynlighetsfordelinger. En 
+vanlig forenkling for å kvantifisere skredfare H på et bestemt sted er tilnærmingen: 
+ 
+ 
+PR
+s
+H
+P
+=
+⋅
+  
+(1) 
+ 
+der PR betegner skredsannsynligheten per år, og PS betegner sannsynligheten for at 
+skredet også når et bestemt punkt. Dette betyr at den nominelle årlige skredsannsynlig-
+heten skyldes en kombinasjon av hendelser (dvs. skredscenarier). Et høyere ønsket 
+sikkerhetsnivå (minkende nominell årlig sannsynlighet) betinger at mer uvanlige 
+scenarier må vurderes. Resulterende dimensjonerende skred vil da også bli større 
+og/eller få lengre utløp. 
+ 
+I områder som kan utsettes for flere skredtyper, er det den samlede nominelle årlige 
+sannsynligheten for skred som skal legges til grunn. Faresoner for den samlede skred-
+faren fastsettes ut fra skredtyper med lengst skredrekkevidde for henholdsvis nominelle 
+årlig sannsynlighet 1/1000, og er utarbeidet i henhold til sikkerhetskravene i TEK17.  
+ Snøskred (våte og tørre) og skredvind er de relevante faretypene som inngår i 
+dette notatet og i faresonene for kartlagte området. 
+Generelt, alle faresoner har en iboende usikkerhet. En kort diskusjon av usikkerhet som 
+kan relateres til faresoner finnes i Gauer & Kristensen (2022, 2023). 
+ 
+ 
+Digitale terrengmodeller (DTM) 
+Med dagens høyoppløselige LIDAR-data spiller digitale terrengmodeller og avledede 
+produkter en stadig viktigere rolle i terrenganalyse. Slike data supplerer feltobserva-
+sjoner og gjør det mulig å ekstrapolere lokale funn til større områder. Eksempler på 
+avledede produkter inkluderer skyggekart, digitale terrengmodeller (DTM), digitale 
+overflatemodeller (DOM), helningskart, ruhetskart og krumningskart.  
+ 
+Som grunnlag for terrenganalysene i denne rapporten er det benyttet nasjonal høyde-
+modell med 1 m oppløsning. Terrengmodellen er basert på LiDAR-data fra den siste 
+oppdateringen av Nasjonal detaljert høydemodell (NDH). Detaljerte helnings- og 
+skyggekart er generert med utgangspunkt i terrengmodellen og brukt i de videre 
+analysene. Skyggekart gir et relieffkart av terrenget, og brukes i geomorfologisk kart-
+legging for å identifisere urer, løsmassevifter, andre skredavsetninger og for å avgrense 
+skredbaner, løsneområder m.m. 
+ 
+Helningskart brukes til å identifisere mulige løsneområder for ulike skredtyper. 
+Helningskart for området er vist i Figur 3-8 og disse er basert på DTM 1 m oppløsning, 
+resamplet til 5 m. Løsneområder er ikke kun avhengig av helning, men også generelt av 
+terrengform, ruhet, vegetasjon og terrengkontinuitet.  
+ 
+Terrengmodellen er også benyttet som grunnlag for kjøring av beregningsmodeller, i 
+dette tilfellet snøskredmodellen. 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 9  
+ 
+Andre datakilder benyttet i vurderingen 
+I tillegg til analyser av den detaljerte terrengmodellen, observasjoner fra befaring og 
+historiske skredhendelser, er følgende andre datakilder benyttet og gjennomgått for 
+området i skredfarevurderingen: 
+ Historiske flyfoto 
+ Aktsomhetskart for snøskred, steinsprang, jord- og flomskred fra NVE Atlas 
+ Skogsdata fra NIBIO: SR16 samt oversikt over produktiv skog fra AR5 
+ 
+ 
+Befaring og feltobservasjoner 
+Feltbefaring ble gjennomført den 8. juli 2025. Ole Herman Strømmesen deltok på 
+befaringen som representant for kunden. Befaringen utgjør et viktig grunnlag for 
+vurderingene som gjøres, både når det gjelder observasjoner av potensielle løsneområder 
+og utløpsområder, spesielt med tanke på synlige skader. Området ble undersøkt både 
+med båt og til fots.  
+ 
+Sporloggen (GPS-track) fra befaringen er vist i Figur 3-10.   
+ 
+ 
+Områdebeskrivelse 
+Fiskeoppdrettsanlegg ved Sessøya i Tromsø kommune ligger på østsiden av Sessøya, 
+ved Finnvika. Flåten med kontrollenhet er plassert omtrent 150 m fra land, mens selve 
+oppdrettsanlegget ligger mellom 160 og 300 m fra kystlinjen (Figur 3-1 og Figur 3-2). 
+ 
+‘
+ 
+Figur 3-1 Oversiktskart av området oppdrettsanlegg Lerøy på Sessøya. MeteoPoint er 
+referansepunkt for klimaanalyse.  
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 10  
+Den østvendte fjellsiden bak anlegget strekker seg fra Geithaugneset (0 moh.) og opp til 
+toppen av Blåfjellet, som ligger på 500–600 moh. Fjellsiden har en gjennomsnittlig 
+helning på ca. 28 grader. Den nedre delen av fjellsiden er skogkledd opp til omtrent 200 
+moh. 
+ 
+Kartleggingsområdet dekker rundt 50 ha, mens det antatte påvirkningsområdet er på ca. 
+210 ha.  
+ 
+Deler av kartleggingsområdet ligger innenfor aktsomhetsområder for snøskred 
+(NAKSIN). I påvirkningsområdet finnes det også noen aktsomhetsområder for stein-
+sprang og for jord- og flomskred (https://kartkatalog.nve.no/). 
+ 
+Figur 3-2 Oversiktsbildet av området oppdrettsanlegg Lerøy på Sessøya tatt fra øst side av 
+oppdrettsanlegg mot vest. 
+ 
+ 
+Lokalt klima 
+Det er kun begrenset tilgang til målestasjoner med komplette observasjoner i området. 
+Derfor ble blant annet SeNorge-datasettet benyttet som proxy i vurderingene (Lussana 
+et al., 2016; Saloranta, 2014). Figur 3-3 viser interpolerte klimadata for et referansepunkt 
+ved 500 moh. på ryggen av Blåfjellet, for perioden 1957–2024. Referansepunktet er vist 
+i  Figur 3-1.  
+ 
+Disse dataene utgjør en del av grunnlaget for vurdering av lokalklimaet opp mot sann-
+synligheten for utløsning av ulike skreddtyper og i noen grad deres forventede størrelse. 
+Viktige klimatiske faktorer inkluderer langtidsgjennomsnittet, samt deres variasjon, 
+distribusjon og forventede ekstremverdier. 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 11  
+ 
+Figur 3-3 a) Månedsnedbør og –lufttemperatur, b) returverdier (gumbelfordeling) for årlig maks 
+snøhøyde. Daglig minimum, maksimum og gjennomsnittlig lufttemperatur (c) og snøhøyde (d). 
+Tidsserier av årsnedbør (e) og årlig maks snøhøyde (f). Returverdier (peak over threshold og 
+block maxima) for 1- og 3-døgns nedbør (g) og nysnøtilvekst (h). Dataperiode: 1958 – 2024. 
+Gjennomsnitt er beregnet over hele perioden.  
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 12  
+Årsmiddeltemperatur i området er 0.3 °C og døgnmiddeltemperaturen varierer normalt 
+fra -21°C til 23.0 °C. Gjennomsnittlig årsmaksimal snøhøyde er ca 1.6 m og maksimal 
+snøhøyde siste 60 år er estimert på 2.99 m. 
+ 
+Ved å bruke de maksimale nedbør- og snøhøydeverdiene i de interpolerte dataene kan 
+man estimere forventet 1000-års nedbør og 300-års snøhøyde for området. I dette 
+området er 300-års snøhøyde beregnet å være 4.25 m, og 1000-års nedbør 130 mm/døgn. 
+Dette er estimater basert på korte observasjonsperioder og statistiske usikkerheter. 
+ 
+Forventet daglig nysnø (vannverdi) for dager med målbar nedbør ligger rundt 4,5 mm 
+om vinteren (Figur 3-4, øvre panel). Den forventede tredagers akkumulerte nysnøen 
+(vannverdi) er på 10 mm, og maksimale tredagers nysnøfall kan forventes å overstige 
+50 mm i hver vinter måned (Figur 3-4, nedre panel). 
+ 
+Figur 3-4  Boksplott for daglig nysnø vannekvivalent (HNW) og tredagers akkumulerte nysnø 
+vannekvivalent (HWS3d) for perioden 1958–2025. Medianen er markert med en rød strek i 
+midten, den blå boksen viser 25.–75. persentil, og «whiskers» strekker seg til de mest ekstreme 
+datapunktene som ikke regnes som uteliggere. Uteliggere er markert med et rødt kryss. Høyden 
+på innsnevringen i boksen angir et 95 % konfidensintervall for medianen. 
+ 
+Figur 3-5 viser vindrose og fordeling av nedbør som snø som funksjon av vindretninger 
+for meteo-punktet. Datene er basert på modellsimuleringer med 3 times intervaller.  
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 13  
+a) 
+b)
+ 
+Figur 3-5 a) Vindrose for simulerte vindhastigheter (> 0.5 m s-1) som funksjon av vindretninger 
+b) fordeling av 3-timers nedbør i form av snø som funksjon av vindretning.  
+ 
+Vinden har en tendens til å komme sørlige retninger (Figur 3-5a). Dette i er i samesvar 
+med målinger fra nærliggende stasjoner fra MET.no. Figur 3-6 viser vindroser for 
+MET.no sine målestasjoner Tromsø LH – Storkjølen og Hekkingen Fyr. På grunn av 
+høyden over havet til Tromsø LH – Storkjølen-stasjonen, har disse målingene større 
+relevans for farevurderingen som følger. Det er også en viss overensstemmelse med data 
+fra Hekkingen Fyr, selv om samsvaret her er noe mindre. Disse stasjonene viser en 
+dominerende sørøstlig vindretning, som muligens er påvirket av Malangsfjorden. 
+ 
+Nedbørførende vindretning er hovedsakelig fra vest (Figur 3-5b). Dette innebærer at 
+oppdrettsanlegget ligger i le for disse vindretningene, noe som vil påvirke snøakkumula-
+sjonen og dermed snøskredfaren.  
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 14  
+a)
+  b)
+ 
+Figur 3-6 Vindroser for a) Tromsø Lh – Storkjølen (StId 90941, 790 moh) b) Hekking Fyr (StId 
+88690, 33 moh) (kilde: Norsk klimaservice senter / seklima.met.no). 
+ 
+ 
+Topografi 
+Kartleggingsområdet er omtrent 960 m langt og ligger ved foten av en østvendt fjellside 
+med en høydeforskjell på cirka 540 m. Fjellsiden har i store deler en helning mellom 20 
+og 45 grader, og terrengformen er overordnet sett konkav–konveks–konkav. Figur 3-7 
+illustrerer et typisk terrengprofil fra området. 
+ 
+Store deler av påvirkningsområdet består av lett jorddekket grunnfjell.  
+ 
+Figur 3-8 viser helningskart av området.  
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 15  
+ 
+Figur 3-7 Eksempel av terrengform langs et profil (se Figur 3-8). 
+ 
+Figur 3-8 Helingskart or området. 
+ 
+ 
+Skog- og vegetasjonsforhold 
+Generelt antas det at skog har en positiv effekt for å redusere frekvens og utbredelse/-
+utløpslengde av skred i bratt terreng. Kravspesifikasjon til skogbestanden er forskjellig 
+for de ulike skredfaretypene, men generelt kan en si at det er ønskelig med en 
+kontinuerlig høy grad av skogdekke. Effekten av skog og dens påvirkning på faresoner 
+for skred med returperiode rundt 100 år og sjeldnere er usikker. 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 16  
+SR16 datasett fra NIBIO er brukt som grunnlag for vurdering av dagens skogforhold. 
+Flybilder, sammen med observasjoner under befaring, er grunnlaget for den manuelle 
+gjennomgangen. Skogspolygoner som er inkludert i vurderingene for dagens situasjon, 
+er vist i Figur 3-9. Området er i hovedsak dominert av lauvskog. 
+ 
+Effekten av skog er bestemt av skogtettheten. Reinekens (1933) skogtetthetsindeks 
+(stand density index, SDI, med dimensjon antall trær per hektar) er basert på forholdet 
+mellom antall trær per hektar og gjennomsnittlig diameter, og er en indeks som beskriver 
+den karakteristiske fordelingen av trestørrelser i jevngammel skog. Indeksen gir en 
+indikasjon på tettheten av trær.  
+ 
+For tilstrekkelig og sammenhengende skogdekke for effekt mot skred er det for skog-
+datasettet i denne kartleggingen satt terskelverdi for SDI > 100. Dette betyr ikke at skog 
+med SDI over 100 vil stoppe alle skred fra å løsne eller bre seg ut, men en slik skog vil 
+kunne bidra til å redusere utløsningssannsynligheten for snøskred og ha bremsende 
+egenskaper.  
+ 
+ 
+Figur 3-9 SDI (dimensjon antall trær per hektar) oversikt for kartleggingsområdet. Data 
+beregnet fra SR16. 
+ 
+NIBIOs AR5-datasett viser at det ikke finnes produktiv skog i området, det vil si skog 
+som regnes som bruksskog og kan utvikle seg til høy bonitet. Derfor er alle skredfare-
+vurderinger basert på dagens vegetasjonsforhold. 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 17  
+ Feltobservasjoner  
+Figur 3-10 viser et registreringskart med GPS-sporlogg fra befaringen. I tillegg viser 
+kartet det potensielle løsneområdet (PRA_V) i henhold til Voellmy-methoden med 
+områder over rundt 30 grader (Bühler et al., 2018), samt et representativt utvalg (PRA) 
+som ble brukt i simuleringene. Det utvalget anses som mest relevant for anlegget med 
+hensyn til utløsingssannsynlighet og sammenhengende størrelse. I tillegg er noen mindre 
+utvalg simulert som referanse. (se Tabell 3-2).  
+ 
+ 
+Figur 3-10 Registeringskart fra befaring. 
+ 
+Under befaringen ble det oppdaget noen områder med potensielt snøskredskadet skog.  
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 18  
+ 
+Figur 3-11 Skredskadet skog på nordside av påvirkningsområdet.  
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 19  
+a) 
+ 
+b) 
+ 
+Figur 3-12 Potensielt skredskadet skog innenfor påvirkningsområdet. a) sett mot løsneområdet 
+og b) mot kartleggingsområdet. 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 20  
+ Skredfarevurdering 
+3.11.1 Historiske skredhendelser 
+Det er ikke registrert noen skredhendelser i NVE Atlas. Oppdragsgiver opplyser at det 
+heller ikke er kjent noen tidligere skredhendelser i fjellsiden. 
+ 
+3.11.2 Tidligere utredninger / kartlegginger i området  
+Multiconsult har tidligere gjort farevurderinger for snøskred for kartlingsområdet: 
+ Multiconsult 
+(2024-04-19) 
+Snøskredvurdering 
+Fiskeoppdrett 
+Sessøya, 
+Snøskredutredning 10256462-RIGberg-NOT-001_rev_01  
+ 
+3.11.3 Eksisterende sikringstiltak 
+Det er ikke registrert (atlas.nve.no) eller observert sikringstiltak mot skred i påvirknings-
+området området. 
+ 
+3.11.4 Skredfareutredning per skredtype 
+3.11.4.1 
+Steinsprang 
+Steinsprang kan forekomme i påvirkningsområdet, men anses ikke som relevant for kart-
+leggingsområdet. 
+ 
+3.11.4.2 
+Flomskred 
+Flomskred kan forekomme i påvirkningsområdet, men anses ikke som relevant for kart-
+leggingsområdet. 
+ 
+3.11.4.3 
+Jordskred 
+Jordskred kan forekomme i påvirkningsområdet, men anses ikke som relevant for kart-
+leggingsområdet. 
+ 
+3.11.4.4 
+Sørpeskred 
+Sørpeskred kan forekomme i påvirkningsområdet, men anses ikke som relevant for kart-
+leggingsområdet. 
+ 
+3.11.4.5 
+Snøskred 
+Det kartlagte området ligger i le for nedbør, spesielt fra vestlige retninger. Vind og 
+snøfall fra sørøst kan føre til kryss-lasting i enkelte potensielle utløsningsområder. 
+ 
+Det finnes skogskader etter snøskred i påvirkningsområdet. Sjeldne og store snøskred, 
+som kan genere betydelig skredvind, anses å kunne ha betydning for kartleggings-
+området. 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 21  
+Figur 3-13 viser området som er mest relevant for snøskred som kan nå inn i kart-
+leggingsområdet.  
+ 
+ 
+Figur 3-13 Mest relevante løsneområder for snøskred under ryggen fra Blåfjellet. 
+ 
+Snøskred er modellert ved bruk av SAMOS-solver for både den tette delen av snøskredet 
+og skredvinden. Skredvind (snøsky) må forventes fra store, tørre og blandede snøskred 
+(Lied & Kristensen, 2003), og er tatt hensyn til i utarbeidelsen av faresonene. Modell-
+verktøyet er nærmere beskrevet i Vedlegg 00. Det er benyttet en terrengmodell med 5×5 
+meters oppløsning, resamplet fra en original terrengmodell med 1×1 meters oppløsning. 
+ 
+En særskilt utfordring i denne simuleringen er å håndtere overgangen fra land til sjø, da 
+friksjonsforholdene for faste masser endres vesentlig i kontakt med vann. Denne 
+endringen er for eksempel ikke hensyntatt i dagen aktsomhetskart for snøskred, 
+modellert med NAKSIN-modellen.  
+ 
+Her har vi benyttet Coulomb-friksjonslov kombinert med medrivning av snø. Friksjons-
+loven for den tette delen av det tørre snøskredet er inspirert av Gauer (2020) og Gauer 
+et al. (2023) og er gitt ved: 
+൫𝜎𝜎𝑥𝑥𝑥𝑥, 𝜎𝜎𝑦𝑦𝑦𝑦൯~ 𝑢𝑢
+‖𝑢𝑢‖ 𝜇𝜇 𝜎𝜎𝑧𝑧𝑧𝑧+ 𝜏𝜏+ 𝜌𝜌𝑎𝑎𝑎𝑎 𝐶𝐶𝐷𝐷𝐷𝐷 𝑈𝑈2  
+(2) 
+ 
+Selv om Coulomb-andelen reduseres i vann, øker den hastighetsavhengige friksjons-
+andelen som følge av den vesentlig høyere tettheten i omgivelsesvæsken – nå vann, og 
+ikke lenger bare luft. Derfor ble friksjonskoeffisienten (μ) redusert i vann, mens 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 22  
+omgivelsenes tetthet (ρaf) ble økt fra luftens til vannets tetthet. τ representerer delvis 
+kohesive effekter. 
+ 
+De benyttede parameterne og bruddhøydene for snøskredmodelleringen er delvis basert 
+på returverdiene fra SeNorge klimadata. Det er imidlertid også tatt hensyn til lokal snø-
+akkumulasjon, som påvirkes av løsneområdets form og helning, samt mulighet for 
+pålagring som følge av vindtransport. 
+ 
+Når nedbøren kommer som snø, vil vinden bidra til opphopning av store snømengder i 
+lesider. Det er derfor viktig å ta høyde for den lokale topografien: snø har en tendens til 
+å akkumuleres i skålformede terrengformer, større snømengder vil samles dersom til-
+fangstarealet er stort, og vindretningen kan endres lokalt som følge av terreng-
+formasjoner. 
+ 
+Modelleringen er utført med en løsnesannsynlighet for relativt store snøskred (≥ R3; 
+SWAG, 2016) i de utvalgte, mest aktuelle løsneområdene. De simulerte skredene er 
+ment å representere store og sjeldne skredhendelser i sine respektive skredbaner, med 
+en nominell årlig sannsynlighet i størrelsesorden 1/1000 (typisk mellom 1/300 og 
+1/3000). 
+ 
+For hvert enkelt tilfelle er modelleringsresultatene kritisk vurdert med hensyn til 
+hvorvidt utløpet fremstår som vanlig eller ekstremt for den aktuelle skredbanen, samt 
+hvilket scenario det antas å representere. Resultatene av disse vurderingene fremgår av 
+de utarbeidede faresonekartene. 
+ 
+Løsneområdene er simulert enkeltvis. Generelle inngangsparametere som er brukt i alle 
+simuleringene, er oppsummert i Tabell 3-1 og er basert på Gauer (2020). 
+ 
+Tabell 3-1 Grunnparametere for modellkjøring av snøskred med SAMOS-solver.  
+Coulomb friksjons-
+parametere, µ  
+(-) 
+Omgivelses 
+tetthet, ρaf 
+(kg m-3) 
+Skjærstyrke,τ 
+(Pa) 
+Maks eroderbar 
+masse, me 
+(kg m-2) 
+Flyte 
+tetthet, ρ 
+(kg m-3) 
+luft 
+vann 
+luft 
+Vann 
+0,3 
+0,05 
+1,2 
+1000 
+100 
+50 
+150 
+ 
+Bruddhøyden varierer i samsvar med resultatene fra den regionale og den lokale klima-
+analysen. Det er antatt en vertikal gradient i snøfordelingen for maksimal snødybde, det 
+vil si at snømengden øker med høyden. Den vurderte bruddhøyden øker derfor typisk 
+med høyde over havet for det aktuelle løsneområdet. 
+ 
+Utgangspunktet for å fastsette utløst masse (NVE, 2024) er klimadata for et 
+representativt punkt i påvirkningsområdet, samt beregning av det geometriske gjennom-
+snittet av tre døgns nysnø, HNW3d⊥, og den empirisk bestemte initialmassen i henhold 
+til Gauer (2018). Figur 3-14 viser basisverdier fra beregningene. Referanseverdien for 
+beregningen er en årlig sannsynlighet på ca. 1/300. Til simuleringene ble disse verdiene 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 23  
+videre justert for mulig avsetning av drivsnø og lokale terrengforhold, basert på 
+observasjoner. 
+ 
+Figur 3-14 Utgangspunktet for antatt utløst masse per kvadratmeter, SWEsbe, avhenger av 
+klimadata og helning i utløsningsområder. Plassering av Meteo-punkt er vist i Figur 3-1. 
+ 
+Areal, beregnet masse, bruddhøyde og gjennomsnittlig terrenghelning for de modellerte 
+løsneområdene er listet for hvert enkelt løsneområde. Tabell 3-2 gir en oversikt over 
+parametere som er brukt i modellkjøringene.  
+ 
+For dagens situasjon er skog inkludert i modelleringen der den har bremsende effekt. 
+Området er i hovedsak dominert av lauvskog. Her er dN lik 0,002−0.008 m-1 og SDI 
+varierer mellom 50 og 300 i skogspolygonene (se Figur 3-9). Modelleringen er utført 
+med bremseeffekt av skog i utløpsområdet, basert på dN-verdier, der dette er relevant. 
+For en mer detaljert beskrivelse, se Vedlegg 00. 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 24  
+Tabell 3-2 Inngangsverdier for modellkjøring snøskred for område Blåfjellet/Sessøya. 
+Løsneområde 
+Helning 
+(middel) 
+ 
+(°) 
+Brudd- 
+høyde 
+ 
+(m) 
+Projisert 
+grunnareal 
+ 
+(ha⊥) 
+Masse per 
+kvadratmeter (projisert) 
+(kg m-2) 
+RA-01a 
+43,7 
+1.2/1.5 
+1,313 
+330/413 
+RA-01b 
+41,6 
+1,0/1,5 
+1,304 
+275/415 
+RA-02 
+39,5 
+1,2 
+2,203 
+310 
+RA-03 
+37,5 
+1,2 
+1,160 
+300 
+RA-04 
+32,1 
+1,2 
+1,886 
+285 
+RA-05 
+36,0 
+1,2 
+0,985 
+300 
+RA-06 
+44,6 
+0,8 
+0,098 
+225 
+RA-07 
+47,4 
+0,7 
+0,068 
+200 
+RA-08 
+41,4 
+0,7 
+0,079 
+185 
+RA-09 
+39,4 
+0,8 
+0,110 
+210 
+RA-10 
+45,9 
+1,0 
+0,143 
+285 
+RA-11 
+42,3 
+1,0 
+0,511 
+270 
+ 
+Et utdrag av simuleringsresultater er vist i Figur 3-15 og Figur 3-16. Simuleringene 
+representerer større hendelser relevant for faresoner i sikkerhetsklasse S2. Modelleringer 
+er utført med hensyn til dagens vegetasjonsforhold. 
+ 
+Simuleringene av de ulike løsneområdene ble for det meste utført hver for seg, men 
+figuren viser samlede maksimumsverdier. Løsneområdene RA-01a og RA-01b ble også 
+simulert som ett felles, større skredscenario. 
+ 
+Figur 3-15 viser simuleringer av bare den tette delen av skredet. Resultatene viser at 
+faste masser fra store skred kan nå helt ned til sjøen, men massene bremses i vannet og 
+flyter sakte inn mot den vestlige kanten av det kartlagte området. Figuren viser samlet 
+maks hastighet. Resultater fra den empiriske α-β-utløpsmodellen (Lied & Bakkehøi, 
+1980) er også inkludert. Det bemerkes at α-β modellen ikke tar hensyn til sjø. 
+ 
+Figur 3-16 viser samlede simuleringer av både den tette delen og skredvinden. På samme 
+måte som vist i Figur 3-15 blir den tette delen betydelig bremset ved kontakt med vannet, 
+mens den tilhørende snøskyen (skredvinden) kan nå vesentlig lengre. Figuren viser det 
+samlede maksimale dynamiske trykket fra snøskyen, gitt ved:  
+ 
+2
+2
+dyn
+psa
+U
+P
+ρ
+=
+ ,  
+(3) 
+der U er hastighet i snøskyen og ρpsa er tetthet i snøskyen. Blå linje viser rekkevidden til 
+den tette delen av snøskredet. 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 25  
+ 
+Figur 3-15 Snøskredsimuleringer for kun den tetten delen av skred fra mulige løsneområder 
+nedenfor ryggen av Blåfjellet (500 – 600 moh.). Resultatene viser samlede maksimal hastighet 
+med dagens vegetasjonsforhold.  
+ 
+Figur 3-16 Simulering av blandet skred nedenfor ryggen av Blåfjellet med dagens vegetasjons-
+forhold. Blå linje viser rekkevidden til den tette delen av snøskredet. Resultatene viser samlede 
+maksimal trykk (Ppsa = ρ U2/2) fra snøskyen. 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 26  
+ Samlede faresoner 
+TEK17 Sikkerhetsklasser for skred (A. Generelt)  
+For byggverk i skredfareområde er det definert tre sikkerhetsklasser for skred, inndelt 
+etter sannsynlighet for og konsekvens ved skred. Sikkerhetskravene i de tre klassene er 
+satt ut ifra at sikkerheten skal ivaretas både for menneskeliv og for materielle verdier. I 
+vurderingen av hvilken sikkerhetsklasse byggverket kommer i, må det tas hensyn til 
+konsekvenser for liv, helse, økonomiske verdier og andre samfunnsmessige konse-
+kvenser. 
+Miljøkonsekvenser 
+er 
+omfattet 
+av 
+samfunnsmessige 
+konsekvenser. 
+(https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/7/7-3). 
+ 
+I henhold til TEK17 er det ikke spesifisert eksplisitte intensitetskriterier, kun generelle 
+krav om 'skade av betydning' og 'fare for liv og helse'. Disse kravene gjelder også for 
+uteområdene til bygninger. I noen tilfeller er et trykk på 1 kPa benyttet som en 
+referanseverdi. 
+ 
+3.12.1 Utkast til Faresoner S1 og S2 
+Figur 3-17 viser utkast til samlede faresoner i henhold til Sikkerhetsklasse S1 og S2. 
+Faresonekart for området under dagens skogforhold er vist i figuren. Skredfaren er 
+hovedsakelig relatert til skredvind, med en forventet intensitet på mellom 1 og 3 kPa i 
+den vestlige delen av kartleggingsområdet, avtakende mot øst. På grunn av rusk og 
+kvister kan det lokalt oppstå kortvarige trykkspisser med betydelig høyere verdier.  
+ 
+ 
+Figur 3-17 Utkast til faresoner S1 og S2 for dagens situasjon i det kartlagte området. 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 27  
+I henhold til sikkerhetsklasse S2 tas det også hensyn til at noe fast masse kan bevege seg 
+sakte inn mot den vestlige kanten av det kartlagte området.  
+ 
+Tette masser fra skred kan føre til flodbølger, men anses som mindre enn forventede 
+bølger under sterk storm i det kartlagte området. Et grovt estimat på initial bølgehøyde 
+kan beregnes i henhold til Naaim (2013), og tilsier en bølgehøyde på 3–4 m ved treff 
+langs kystlinjen, som deretter gradvis dempes før den når det kartlagte området. 
+ 
+3.12.2 Avvik fra tidligere skredfareutredninger 
+Faresonene i notatet 10256462-RIGberg-NOT-001_rev_01 fra Multiconsult er sammen-
+lignbare med våre utkast. Imidlertid vurderer vi at faste skredmasser med hastighet over 
+10 m/s ikke når så langt inn i det kartlagte området som angitt i Multiconsults notat. Vi 
+estimerer også lavere intensitet fra snøskyen i det kartlagte området. Faresonene for S1 
+ble ikke angitt i notat fra Multiconsult. 
+ 
+3.12.3 Mulige tiltak  
+Uteområdet i det kartlagte området er hovedsakelig utsatt for trykk fra snøskyen, med 
+en nominell årlig sannsynlighet mellom 1/100 og 1/1000. Samtidig er oppholdstiden for 
+personer i området begrenset. Et mulig tiltak er å flytte flåten med kontrollenheten, noe 
+som vil redusere eksponeringen av personer for snøskyen. Oppdrettsbassengene anses 
+som mindre utsatt for direkte påvirkning fra skredet. For å redusere restrisikoen knyttet 
+til flytende faste masser fra skredet, kan det vurderes å flytte anlegget en merderekke ut, 
+dvs slik at ytterste merderekke i dag blir innerste merderekke. 
+ 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 28  
+ 
+Referanser  
+Bühler, Y., von Rickenbach, D., Stoffel, A., Margreth, S., Stoffel, L. & Christen, M. (2018) Automated 
+snow avalanche release area delineation --- validation of existing algorithms and proposition of a new 
+object-based approach for large scale hazard indication mapping 2018. Natural Hazards and Earth System 
+Sciences, Vol. 18, No. 12 p. 3235-3251 
+Lied, K. / Bakkehøi, S. (1980) Empirical calculations of snow-avalanche run-out distance based on 
+topographic parameters,  Journal of Glaciology , Vol. 26, No. 94, p. 165-177 
+Gauer, P. (2018) Avalanche Probability: Slab Release and the Effect of Forest Cover Proceedings of the 
+International Snow Science Workshop 2018, Innsbruck, Austria, 2018, 76-83. 
+Gauer, P. (2020) Considerations on scaling behavior in avalanche flow: Implementation in a simple mass 
+block model Cold Regions Science and Technology, 2020, 180, 103165 
+Gauer, P., Body, N.S. and Aalerud, A.H. What Avalanche observations tell us about the performance of 
+numerical models, in: Proceedings of the International Snow Science Workshop, Bend, Oregon, 8-13 
+October 2023, 120-127, 2023. 
+Gauer, P. & Kristensen, K. (2022). Remarks on the uncertainty in the delimitation of hazard zones based 
+on historical observations Norwegian Geotechnical Institute Technical Note 20200017-09-TN.  
+Naaim, M. (2013) Impulse water waves generated by snow avalanches International Snow Science 
+Workshop Grenoble - Chamonix Mont-Blanc - 2013, 2013  
+Norges vassdrags- og energidirektorat, “Veileder for utredning av sikkerhet mot skred i bratt terreng - 
+Utredning av skredfare i reguleringsplan og byggesak.” Accessed: Nov. 09, 2022. [Online]. Available: 
+https://www.nve.no/skredfarekartlegging/  
+ 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\20250213-01-tn_sessøa_lerøy_final.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Side: 29  
+Disclaimer 
+Skredfarevurderingene gjelder så lenge vesentlige endringer i forutsetningene for 
+vurderingene ikke forekommer. (Eksempler på vesentlige endringer er endringer i Plan 
+og Bygningslovens krav, nye opplysninger om historiske eller nyere skred, endringer i 
+klima, terreng eller vegetasjon, anlegg av ny infrastruktur, etc.). Oppdragsgiver må til 
+enhver tid vurdere om forutsetningene er endret, for i så fall å få utført en revidert kart-
+legging.  
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 1  
+Vedlegg   00 
+BESKRIVELSE AV MODELLVERKTØY OG 
+BETYDNING AV SKOG 
+ 
+ 
+ 
+Innhold 
+001 Modellbeskrivelser 
+2 
+001.1 Modeller for beregning av skredutbredelse og rekkevidde av snøskred 
+2 
+002 Betydning av skog for skredfarevurdering 
+8 
+ 
+ 
+ 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 2  
+ 001 
+Modellbeskrivelser 
+Beregningsmodeller er et viktig supplement ved plassering av faregrenser. Den viktigste 
+kilde til fastsettelse av faregrenser er likevel faglig skjønn basert på erfaring og 
+observasjoner gjort under befaring og opplysninger om tidligere skredhendelser.  
+ 
+ 001.1 Modeller for beregning av skredutbredelse og rekkevidde 
+av snøskred 
+Modellene som oftest blir brukt for utløpsberegninger av snøskred i Norge er den topo-
+grafisk statistiske α/β-modellen1, blokkmodellen PCM2 og strømningsmodellen som 
+RAMMS3 som beskriver utbredelsen av skredet i to horisontale dimensjoner. Alle disse 
+modellene har sine svakheter, særlig ved beregning av snøsky og kombinerte 
+beregninger av faste masser og skredvind. I det følgende beskriver vi modellen SAMOS-
+AT som gir bedre muligheter for beskrivelse av snøskyen, også i interaksjon med vann. 
+Vurderingene er støttet av statistiske α/β-beregninger. 
+ 
+ 001.1.1 SAMOS-AT 
+SAMOS-AT, utviklet i 2007 ved AVL List GmbH i Østerrike, er etterfølgeren av 
+SAMOS, som var i bruk fra 199945. En kort beskrivelse av modellen finnes i6. Sampl 
+og Granig, mens Sailer m.fl.7 og Granig m.fl.8 (2009) gir informasjon om validering og 
+eksempler. Modellen kobler sammen en kvasi-3D (dybdemidlet) modell for den tette 
+delen av snøskred og en 3D modell for snøskya, dvs. det turbulente laget av relativt lav 
+tetthet som utvikler seg på overflaten av tørre snøskred.  
+ 
+Som i RAMMS::AVALANCHE eller MoT-Voellmy beskrives bevegelsen av skredets 
+tette del gjennom ligninger for masse- (1 ligning) og impulsbevaring (2 ligninger 
+tilsvarende retningene langs terrengoverflaten): 
+ 
+1 Lied, K. og Bakkehøi, S. (1980). Empirical Calculations of Snow-Avalanche Run-Out Distance Based on Topographic Parametres. 
+Journal of Glaciology, 26 (94), 165-177. 
+2 Perla, R.I., Cheng, T.T. og McClung, D.M. 1980. A Two-Parameter Model of Snow-Avalanche Motion. Journal of Glaciology Vol. 26, 
+No. 94, 197-207. 
+3 Christen, M.; Kowalski, J. og Bartelt, P. (2010). RAMMS: Numerical simulation of dense snow avalanches in three-dimensional 
+terrain. Cold Regions Science and Technology 63(1–2), 1–14.  
+ 
+4 Zwinger, T.; Kluwick, A. & Sampl, P. (2003) Numerical Simulation of Dry-Snow Avalanche Flow over Natural Terrain, Dynamic 
+Response of Granular and Porous Materials under Large and Catastrophic Deformations, Springer Basel AG, 2003, 11, 161-194 
+5 Sampl, P. & Zwinger, T. (2004) Avalanche simulation with SAMOS, Annals of Glaciology, Int Glaciological Soc, 2004, 38, 393-398 
+6 Sampl, P., og Granig, M. (2009). Avalanche simulation with SAMOS-AT. In: Proceedings of the International Snow Science 
+Workshop Davos 2009. Sider 519–523 
+7 Sailer, R., Fellin, W., Fromm, R., Jörg, Ph., Rammer, L., Sampl, P. og Schaffhauser, A. (2008). Snow avalanche mass-balance 
+calculation and simulation-model verification. Annals of Glaciology 48, 183–192 
+8  Granig, M. & Sauermoser, S. (2008) Ein Erfahrungsbericht über die Lawinenmodellierung aus der aktuellen 
+praktischen Arbeit der WLV  
+Wildbach- und Lawinenverbau (Zeitschrift des Vereins der Diplomingenieure der Wildbach- und Lawinenverbauung 
+Österreichs), 2009, 73, 142-151 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 3  
+𝜕𝜕ℎ
+𝜕𝜕𝜕𝜕+ 𝜕𝜕(ℎ𝑢𝑢)
+𝜕𝜕𝜕𝜕
++ 𝜕𝜕(ℎ𝑣𝑣)
+𝜕𝜕𝜕𝜕
+= 𝑗𝑗𝑒𝑒
+𝜌𝜌−𝑗𝑗𝑠𝑠
+𝜌𝜌, 
+𝜕𝜕(ℎ𝑢𝑢)
+𝜕𝜕𝜕𝜕
++ 𝜕𝜕(ℎ𝑢𝑢2)
+𝜕𝜕𝜕𝜕
++ 𝜕𝜕(ℎ𝑢𝑢𝑢𝑢)
+𝜕𝜕𝜕𝜕
+= ℎ𝑔𝑔𝑥𝑥+ 1
+𝜌𝜌
+𝜕𝜕(ℎ𝜎𝜎ത𝑥𝑥𝑥𝑥)
+𝜕𝜕𝜕𝜕
+−𝜎𝜎𝑥𝑥𝑥𝑥
+𝑏𝑏
+𝜌𝜌+ 𝜎𝜎𝑥𝑥𝑥𝑥
+𝑠𝑠
+𝜌𝜌−𝐹𝐹𝑥𝑥
+obs
+𝜌𝜌, 
+𝜕𝜕(ℎ𝑣𝑣)
+𝜕𝜕𝜕𝜕
++ 𝜕𝜕(ℎ𝑢𝑢𝑢𝑢)
+𝜕𝜕𝜕𝜕
++ 𝜕𝜕(ℎ𝑣𝑣2)
+𝜕𝜕𝜕𝜕
+= ℎ𝑔𝑔𝑦𝑦+ 1
+𝜌𝜌
+𝜕𝜕(ℎ𝜎𝜎ത𝑦𝑦𝑦𝑦)
+𝜕𝜕𝜕𝜕
+−𝜎𝜎𝑦𝑦𝑦𝑦
+𝑏𝑏
+𝜌𝜌+ 𝜎𝜎𝑦𝑦𝑦𝑦
+𝑠𝑠
+𝜌𝜌−𝐹𝐹𝑦𝑦
+obs
+𝜌𝜌. 
+I disse ligningene er h flytehøyden, u = (u,v) den dybdemidlede hastigheten, g = (gx,gy,gz) 
+tyngdeakselerasjonen, 𝜎𝜎ത𝑥𝑥𝑥𝑥 og 𝜎𝜎ത𝑦𝑦𝑦𝑦 de dybdemidlede normalspenningene langs bakken, 
+𝜎𝜎𝑥𝑥𝑥𝑥
+𝑏𝑏 og 𝜎𝜎𝑦𝑦𝑦𝑦
+𝑏𝑏 skjærspenningene langs bakken, 𝜎𝜎𝑥𝑥𝑥𝑥
+𝑠𝑠 og 𝜎𝜎𝑦𝑦𝑦𝑦
+𝑠𝑠 skjærspenningene langs over-
+flaten til det tette laget. je og js er henholdsvis erosjons- eller medrivningsraten og 
+suspenderings- eller oppvirvlingsraten (denne snøen danner snøskya) målt i kg m−2 s−1, 
+og Fobs omfatter motstand fra skog eller steinblokker i banen. 
+ 
+Som i MoT-Voellmy, antas det at normalspenningene parallelt med bakken er lik det 
+hydrostatiske trykket, 
+𝜎𝜎ത𝑥𝑥𝑥𝑥= 𝜎𝜎ത𝑦𝑦𝑦𝑦= 𝜎𝜎ത𝑧𝑧𝑧𝑧= 1
+2 𝜌𝜌ℎ(|𝑔𝑔𝑧𝑧| + 𝜅𝜅𝐮𝐮2). 
+Skjærspenningen langs bakken ligner på uttrykket brukt i modeller av Voellmy-type 
+med en hastighetsuavhengig Coulomb-friksjon og en del som er proporsjonal med u2, 
+men det finnes flere modifikasjoner: 
+൫𝜎𝜎𝑥𝑥𝑥𝑥
+𝑏𝑏, 𝜎𝜎𝑦𝑦𝑦𝑦
+𝑏𝑏൯=
+𝐮𝐮
+∥𝐮𝐮∥
+⎣
+⎢
+⎢
+⎡
+𝜏𝜏0 + 𝜇𝜇൬1 +
+𝑅𝑅𝑠𝑠0
+𝑅𝑅𝑠𝑠0 + 𝑅𝑅𝑠𝑠
+൰𝜎𝜎ത𝑧𝑧𝑧𝑧+
+𝜌𝜌𝐮𝐮2
+ቀ1
+𝑘𝑘ln ℎ
+𝑅𝑅𝐷𝐷+ 𝐵𝐵𝐷𝐷ቁ
+2
+⎦
+⎥
+⎥
+⎤
+ 
+τ0 er en skjærstyrke i snøen som brukes for små skred for at de skal stoppe tidligere. 
+Faktoren som multipliserer μ, lar Coulomb-friksjonen variere fra 2𝜇𝜇𝜎𝜎ത𝑧𝑧𝑧𝑧 ved Rs = 0 til 
+𝜇𝜇𝜎𝜎ത𝑧𝑧𝑧𝑧 ved Rs →∞. RS beskriver graden av fluidisering som forholdet mellom ρu2 og 𝜎𝜎𝑧𝑧𝑧𝑧
+𝑏𝑏, 
+med antagelsen at ρu2 er proporsjonal med det dispersive trykket som skyldes sammen-
+støt mellom snøpartikler pga. tøyning i skredet. I den siste termen erstattes g/ξ i RAMMS 
+(eller k i MoT-Voellmy) med et fluiddynamisk uttrykk for motstandskoeffisienten til en 
+turbulent grenselagsstrømning over en ru overflate. k = 0,43 er von Kármáns konstant, 
+RD overflateruheten (en lengde), og BD en empirisk konstant. Parameternes standard-
+verdier er τ0 = 0, μ = 0,155, Rs0 = 0,222, RD = 0,1 m og BD = 4,13. Med disse verdiene 
+er koeffisienten til den turbulente motstanden (siste term i ligningen) lik 0,011 ved h = 
+1 m og 0,0068 ved h = 2 m. 
+ 
+Sett fra snøskya, virker den tette delen som en ru overflate i bevegelse. Med dette og en 
+antatt logaritmisk hastighetsprofil i den laveste delen av snøskya er skjærspenningen 
+(𝜎𝜎𝑥𝑥𝑥𝑥
+𝑠𝑠, 𝜎𝜎𝑦𝑦𝑦𝑦
+𝑠𝑠) gitt av et uttrykk som ligner på (𝜎𝜎𝑥𝑥𝑥𝑥
+𝑏𝑏, 𝜎𝜎𝑦𝑦𝑦𝑦
+𝑏𝑏). Lufttettheten brukes imidlertid 
+istedenfor den tette delens tetthet, og hastighetsdifferansen Δ𝐮𝐮 mellom snøskya på en 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 4  
+referansehøyde y ovenfor grenseflaten og hastigheten i den tette delen brukes istedenfor 
+den dybdemidlede hastigheten i den tette delen: 
+൫𝜎𝜎𝑥𝑥𝑥𝑥
+𝑠𝑠, 𝜎𝜎𝑦𝑦𝑦𝑦
+𝑠𝑠൯=
+𝐮𝐮
+∥𝐮𝐮∥
+𝜌𝜌𝑎𝑎(Δ𝐮𝐮)2
+ቀ1
+𝑘𝑘ln 𝑦𝑦
+𝑅𝑅𝑃𝑃+ 𝐵𝐵𝑃𝑃ቁ
+2 . 
+For RP brukes en formel med tre empiriske konstanter for å ta med effekten av overflate-
+ruheten og av hoppende snøpartikler. Konstanten BP er satt til 8,5. 
+ 
+I SAMOS-AT er medrivning av snødekket lokalisert ved fronten av skredet, og erosjons-
+dybden spesifisert av brukeren. Den eroderte massen fordeles mellom den tette delen og 
+snøskya i forhold til Froude-tallet og flytehøyden (for detaljer se (Sailer m.fl., 2002)). 
+Den tette delen mister også masse pga. suspendering til snøskya, som antas å være 
+proporsjonal med skjærspenningen σs, konsentrasjonsdifferansen mellom det tette laget 
+og snøskya, Δc, og motstandskoeffisienten av snøpartiklene, Cd ~ 3, men invers 
+proporsjonal med hastighetsdifferansen mellom lagene, ∥Δu∥, og partikkelstørrelsen, dp 
+~ 0,8 mm: 
+𝑗𝑗𝑠𝑠= −𝛼𝛼∥𝝈𝝈𝑠𝑠∥
+∥Δ𝐮𝐮∥
+𝐶𝐶𝑑𝑑
+𝑑𝑑𝑝𝑝
+ . 
+Proporsjonalitetskoeffisienten er satt til 0,01 m. Modellen tillater imidlertid 
+suspendering av snøpartikler kun hvis overflaten av det tette laget er ristet sterkt nok; 
+betingelsen er at partiklenes Froude-tall, Frp = u2/|gz|, er større enn ca. 400. 
+ 
+ 
+Motstanden fra trær eller steinblokker i banen beregnes som 
+𝐅𝐅obs =
+𝐮𝐮
+∥𝐮𝐮∥𝑐𝑐𝑤𝑤𝑛𝑛𝑛𝑛ℎ𝜌𝜌𝐮𝐮2
+2 , 
+med konstant motstandskoeffisient cw, som gjelder tilnærmet ved høye Reynolds-tall, 
+men trolig ikke i granulære masser. 
+ 
+Snøskya behandles som en to-fasers blanding av luft og ispartikler. SAMOS-AT 
+beregner bevegelsen av luften og av partiklene separat. For luften løses massebevaring 
+og Navier–Stokes-ligningen for middelverdiene av tetthet og hastighet, med et stort 
+bidrag fra turbulensen til den effektive viskositeten, 𝜂𝜂eff: 
+𝜕𝜕𝑡𝑡𝜌𝜌+ 𝜕𝜕𝑗𝑗൫𝜌𝜌𝑢𝑢𝑗𝑗൯= 0 , 
+𝜕𝜕𝑡𝑡(𝜌𝜌𝑎𝑎𝑢𝑢𝑖𝑖) + ∂𝑗𝑗൫𝜌𝜌𝑎𝑎𝑢𝑢𝑖𝑖𝑢𝑢𝑗𝑗൯= 𝜌𝜌𝑔𝑔𝑖𝑖−∂i𝑝𝑝+ 𝜕𝜕𝑗𝑗ൣ𝜂𝜂eff൫𝜕𝜕𝑗𝑗𝑢𝑢𝑖𝑖+ 𝜕𝜕𝑖𝑖𝑢𝑢𝑗𝑗൯൧−𝑓𝑓𝑖𝑖
+obs −𝑓𝑓𝑖𝑖
+𝑝𝑝 
+(For enkelhets skyld brukes det tensornotasjon med implisitt summering over like 
+indekser). Turbulens er simulert gjennom k-ε-modellen med to ligninger for den 
+turbulente kinetiske energien, K, og dissipasjonen, ε; for detaljer om denne turbulens-
+modellen se f.eks. Rodi (1984). Sammen med den molekylære viskositeten av luft, ηa ~ 
+2×10−5 kg/(m s), og konstanten Cμ = 0,09 resulterer 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 5  
+𝜂𝜂eff = 𝜂𝜂𝑎𝑎+ 𝐶𝐶𝜇𝜇𝜌𝜌𝐾𝐾2
+𝜖𝜖 . 
+For motstanden av objekter som trær brukes en analog formel som for den tette delen, 
+men med luftens tetthet istedenfor skredets: 
+𝑓𝑓𝑖𝑖
+obs =
+𝐮𝐮
+∥𝐮𝐮∥𝑐𝑐𝑤𝑤𝑛𝑛𝑛𝑛𝜌𝜌𝑎𝑎
+𝐮𝐮2
+2 . 
+Relativbevegelsen mellom luft og partikler fører til en volumkraft 𝑓𝑓𝑖𝑖
+𝑝𝑝 som henger 
+sammen med den gjennomsnittlige motstanden av en partikkel, Fp (omtalt lenger nede), 
+gjennom den volumetriske partikkelkonsentrasjonen c og partikkelvolumet Vp som 
+𝐟𝐟𝑝𝑝= 𝑐𝑐
+𝑉𝑉𝑝𝑝
+𝐅𝐅𝑝𝑝 . 
+Skjærspenningen σs og suspenderingsraten js/ρp brukes som randbetingelser. 
+For snøpartiklene i snøskya løses bevegelsesligningene for punktmasser, men hvert 
+simulert massepunkt tilsvarer et ensemble av partikler med en samlet masse på typisk 
+100 kg eller omtrent 109 snøpartikler: 
+𝑚𝑚𝑝𝑝
+d𝐯𝐯
+d𝑡𝑡= 𝐅𝐅𝑝𝑝+ 𝑚𝑚𝑝𝑝𝐠𝐠 . 
+Motstandskraften på en partikkel beregnes fra 
+𝐹𝐹𝑝𝑝= 1
+2 𝐶𝐶𝑑𝑑𝜌𝜌𝑎𝑎(Δ𝐯𝐯)2 𝜋𝜋
+4 𝑑𝑑𝑝𝑝
+2
+Δ𝐯𝐯
+∥Δ𝐯𝐯∥ . 
+Relativhastigheten mellom luft og partikkel fluktuerer pga. turbulens. Ved å dele opp u 
+i middelverdi og fluktuasjon, u = ū + u', finner man (Δv)2 = (ū + u' – v)2 = (ū – v)2 + u'2 
+= (ū – v)2 + 2K/3. SAMOS-AT implementerer i tillegg en innviklet metode med tilfeldig 
+valg av en fluktuasjons- eller virvelhastighet og –retning som partiklene følger over en 
+(relativt kort) tid9. 
+ 
+Den numeriske implementeringen av SAMOS-AT omfatter følgende elementer: 
+ Et regulært grid med celler på typisk 5×5 m2 brukes for å representere terrenget 
+og resultatene for det tette laget. 
+ Et grovere grid (typisk 10×10 m2) fra terrengmodellen, som utvides til den 
+tredje dimensjonen med typisk 20 lag av celler benyttes for å simulere snøskya. 
+Høyden av disse cellene øker oppover fra rundt 2 m nederst. 
+ Bevegelsen av den tette delen simuleres med hjelp av metoden Smoothed 
+Particle Hydrodynamics (SPH), som brukes også i flere andre skredmodeller; 
+se (Monaghan, 1992) for en beskrivelse. Strømningen simuleres ved å følge 
+bevegelsen av representative massepakker og å interpolere feltverdiene med 
+hjelp av såkalte kjernefunksjoner med spesifikke egenskaper. Hver representa-
+tive massepakke tilsvarer typisk rundt 0.25 m av skredsnø. 
+ 
+9 Sampl, P., og Granig, M. (2009). Avalanche simulation with SAMOS-AT. In: Proceedings of the International Snow Science 
+Workshop Davos 2009. Sider 519–523 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 6  
+ I snøskya løses ligningene for luften gjennom en implisitt finite-volum-metode 
+og ligningene for partiklene gjennom eksplisitt tidsintegrering. 
+ 
+I tillegg til den beskrevne skjærspenningsmodellen, tillater SAMOS-solver også 
+implementering av andre skjærspanningsmodeller. Som et resultat er Samos relativt 
+fleksibel og kan også håndtere andre gravitasjonsstrømmer, for eksempel flomskred eller 
+Sørpeskred. 
+ 
+ 001.1.2 Beregning av skredutbredelse og rekkevidde av tørre snøskred  
+For snøskred har vi brukt blant annet en Coulomb-friksjons lov kombinert med snø 
+medrivning, ifølge10. 
+൫𝜎𝜎𝑥𝑥𝑥𝑥
+𝑏𝑏, 𝜎𝜎𝑦𝑦𝑦𝑦
+𝑏𝑏൯=
+𝐮𝐮
+∥𝐮𝐮∥𝜇𝜇𝜎𝜎ത𝑧𝑧𝑧𝑧+ 𝜏𝜏 + ρ𝑎𝑎𝐶𝐶𝐷𝐷𝐷𝐷𝑈𝑈2 
+Hvor µ er den Coulombfriksjon paratmater og τ (≈ 100 Pa) reflekterer noe kohesjon. 
+Den siste termen gjenspeiler lav luftmotstand, ρa er tetthet av luft og CD er en parameter.  
+I tillegg inkluderes en maksimal medrivningshøyde de. 
+ 
+Tabell 1-1 parameter som ble brukt i simulasjoner 
+µ (-) 
+τ (Pa) 
+CDa (-) 
+de (m) 
+0.3 
+100 
+0.01 
+0.25 
+ 
+ 001.1.3 Statistisk-empirisk modell (α/β-modellen) 
+Den statistiske/topografiske α/β-modellen er utviklet ved NGI og gir maksimal utløps-
+distanse utelukkende som en funksjon av topografi. Likningene for utløpsdistanse er 
+funnet ved regresjonsanalyse, og korrelerer den lengste registrerte utløpsdistansen i mer 
+enn 200 skredbaner med et utvalg av topografiske parametere. Parameterne som har vist 
+seg å være mest betydningsfulle er gitt Tabell 1-2. 
+ 
+Tabell 1-2 Topografiske parametre for beregning av maksimal utløpsdistanse 
+Symbol: 
+Parameterbeskrivelse: 
+β (grader) 
+Gjennomsnittlig helning av skredbanen mellom øvre del av utløsningsområdet og 
+“fjellfoten” (punktet med 10° helning i skredbanen) 
+θ (grader) 
+Helning av de øvre 100 høydemeterne av utløsningsområdet 
+H (m) 
+Total høydeforskjell mellom øvre del av utløsningsområdet og det laveste punktet 
+langs best tilpassede parabel y=c2x2+c1x+c0, der c0, c1 og c2 er konstanter 
+y″ (m-1) 
+y″ =2c2, beskriver krumningen av skredbanen 
+ 
+10 Gauer, P. (2020) Considerations on scaling behavior in avalanche flow: Implementation in a simple mass block model Cold 
+Regions Science and Technology, 2020, 180, 103165 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 7  
+β-vinkelen har vist seg å gi den beste beskrivelsen av helningen i skredbanen, og regre-
+sjonsanalyse har vist at β-vinkelen også er den eneste statistisk viktige terrengparamete-
+ren. β-vinkelen kan anses av gjennomsnittlig helning av skredbanen mellom øvre del av 
+kildeområdet og "fjellfoten" (punktet med 10° helning i skredbanen). Modellen aksepte-
+rer kun β-punkt som er innenfor den delen av skredbanen der tangenten til den best 
+tilpassede parabelen har en helning mellom 5o og 15o.  
+ 
+NGIs skreddatabase inneholder i dag ca. 230 tilfeller. Den mest brukte formen av α/β-
+modellen er i dag α=0.96β-1.4°. Standardavviket er 2.3o og korrelasjonskoeffisienten er 0.92. 
+ 
+ 
+ 
+Figur 1-1: Topografiske parametere som beskriver terrengprofilet. 
+ 
+For store skredbaner finner vi erfaringsmessig at rekkevidden for de fleste skredbanene 
+med årlig sannsynlighet 1/1000 samsvarer godt med middelverdien av α der skredbanen 
+er jevn parabel, mens de største skredene kan gå lengre. 
+ 
+ 
+ 
+β 
+y=c2x2+c1x+c0 
+Skredbane 
+10°-punkt 
+Maksimal 
+rekkevidde 
+100m 
+Best tilpassede 
+parabel 
+θ 
+H 
+α 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 8  
+ 002 
+Betydning av skog for skredfarevurdering 
+Definisjon:  
+"Skog er et landområde dominert av trær som er minst 3 m høye og står mindre 
+enn 30 m fra hverandre (Norsk definisjon av skog)."11 
+ 
+"Areal med minst 6 trær per dekar som er eller kan bli 5 meter høye, og disse 
+bør være jevnt fordelt på arealet."12 
+ 
+"Produktiv skog: Skog som i årlig gjennomsnitt kan produsere minst 1 m3 
+trevirke med bark pr. hektar og år under gunstige bestandsforhold."13 
+ 
+Generelt kan man anta at skog har en positiv effekt for å redusere frekvens og utbredelse/-
+utløpslengde av skred i bratt terreng, men eksakt virkning er vanskelig å kvantifisere. 
+Kravspesifikasjon til skogbestanden er forskjellig for de ulike faretypene, men generelt 
+kan en si at det er ønskelig med en kontinuerlig høy grad av skogdekke.14 Treslaget har 
+imidlertid også stor betydning. Intersepsjon av gran er høy på grunn av deres høye blad-
+arealindeks (Leaf area index, LAI), noe som er gunstig for beskyttelse mot snøskred. 
+Samtidig er deres beskyttende effekt som grunnrotede planter lavere mot jordskred. 
+Kravet om tilstrekkelig og sammenhengende skogdekke gjør at store jevnaldrende 
+beplantede arealer kun i begrenset grad bidrar til å sikre mot naturfarer. For eksempel er 
+avstanden mellom eldre gran med lik alder så stor at snøskred kan strømme gjennom 
+relativt uhindret. Selv om dette sjelden skjer, er ikke faren ubetydelig på lang sikt. 
+ 
+Skog vil ha større effekt i utløsningsområder enn i utløpsområder. Men en kan ikke 
+utelukke at snøskred kan løsne i skog dersom terrenget er brattere enn 30° - 35°. Dersom 
+skred løsner ovenfor skoggrensen, men kommer ned i skog på sin vei er effekten av 
+skogen mindre. Riktignok vil utløpslengde bli redusert, men skred kan også ødelegge 
+store deler av skogen, avhengig av skredstørrelse.  
+ 
+Figur 2-1 viser bilder fra et snøskred i januar 2015 som ødela mer enn 10 hektar bjørkeskog 
+av alder mellom 40 og 80 år med anslagsvis et volum på mellom 30 og 70 m3 pr. hektar.  
+ 
+Figur 2-2 til Figur 2-6 viser eksempler der skog ikke var tilstrekkelig for å hindre 
+utløsning/utbredelse av skred.  
+ 
+ 
+11 Store Norske Leksion 
+12 Bjørdal, I. & Bjørkelo, K. (2006) AR5 Klassifikasjonssystem, Skog og Landskap, Skog og Landskap, 2006 
+13 https://www.nibio.no/tema/skog/skog-og-miljoinformasjon-fra-landsskogtakseringen/N%C3%B8kkeltall 
+14 Schwitter, R.; Frehner, M. & Wasser, B. (2014) Nachhaltigkeit und Erfolgskontrolle im Schutzwald (NaiS). Bundesamt für 
+Umwelt, Wald und Landschaft, Bundesamt für Umwelt, Wald und Landschaft, 2014 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 9  
+ 
+ 
+Figur 2-1 Snøskred i januar 2015 som ødela mer enn 10 hektar bjørkeskog i nærhet av Fåberg, 
+Jostedalen. 
+ 
+ 
+Figur 2-2 Et tørt snøskred har strømmet gjennom skogen. Snøavsetningene på trærne er 
+tydelige. Det gir en indikasjon på flyttehøyden til skredet (bilde: Gallatin National Forest 
+Avalanche Center, 2009). 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 10  
+ 
+Figur 2-3 Våtsnøskred i skogområde (bilde: Gallatin National Forest Avalanche Center/J. Watson, 2018). 
+ 
+Figur 2-4 Snøskred i skog. Vegetasjonsforhold på øvre del av skredbanen (bilde fra 15). 
+ 
+15 Abe, O.; Nakamura, K.; Sato, K. & Kosugi, K. (2016) Observation of Frequent Avalanches in Sekiyama Pass along Route and 
+Assessment of Snowpack Stability on the Valley Slopes. National Research Institute for Earth Science and Disaster Resilience, 
+2016, 39-46 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 11  
+ 
+Figur 2-5 Utløpsområde til flomskred i skog.  
+ 
+ 
+Figur 2-6 Jordskredbane gjennom skogsområde.  
+ 
+Først og fremst er effekten av skog bestemt av skogtettheten. En indikator er Reineke’s 
+(1933) skogtetthetsindeks (stand density index, SDI, med dimensjon antall trær per 
+hektar). Reineke's (1933) indeks for bestandstetthet (SDI) beskriver det allometriske 
+forholdet mellom antall stammer per hektar, Nph, og gjennomsnittlig diameter (BHDm,, 
+in cm). 
+ 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 12  
+𝑆𝑆𝑆𝑆𝑆𝑆= 𝑁𝑁𝑝𝑝ℎ × (25/𝐵𝐵𝐵𝐵𝐵𝐵𝑚𝑚)−1.605. 
+ 
+ SDI gir indeksen til den karakteristiske fordelingen av antall trær og størrelser i jevn-
+aldrende skog. Skogtetthetsindeksen er vanligvis godt korrelert med skogens volum og 
+vekst. Indeksen gir en indikasjon på tettheten av trær og dermed en indikasjon på krone-
+dekning. Karakteristiske verdier er avhengig av treslag. For en tett granskog er SDI rundt 
+1000/ha og for en skog med rundt 50% kronedekning er SDI mellom 300/ha og 500/ha. 
+For lauvskog om vinteren er kronedekning og sammenlignbar SDI generelt betydelig 
+mindre og verneeffekten mot snøskred er begrenset også i utløsningsområdet. Figur 2-7 
+viser en noe typisk sammenheng mellom antall trær per hektar, dN, BHD, BSA, SDI, og 
+kronedekning for gran. BSA er grunnflate av trestammer med enhet m2 ha-1. Lignende 
+figurer finnes for furutrær og, tatt i betraktning mindre bladdekke om vinteren, for løvtrær.  
+ 
+Generelt kan en si at selv høyt skogdekke ikke kan forhindre alle snø-, jord- eller flom-
+skred, men uten skog ville de ofte vært større. Skoghogstflater i bratt terreng kan bli 
+mulige utløsingsområder for skred. Målrettet bevaring av skog er derfor forutsetningen 
+for en langsiktig beskyttende effekt av skogen. 
+ 
+ 
+Figur 2-7 Typisk sammenheng mellom antall trær per hektar, dN, BHD, BSA, SDI, og krone-
+dekning (CC) for gran. Det grå skraverte området viser minimumskravene ifølge Meyer-Grass 
+og Schneebeli16 for verneeffekter mot snøskred. 
+ 
+I skredbanen og utløpsområdet bidrar bremseffekten av skog til å forkorte utløpslengden 
+av skred. Ifølge Newtons tredje lov "actio = respons", er motstanden per m2 skogareal, 
+så lenge den står, gitt som: 
+ 
+𝐹𝐹𝑎𝑎𝑎𝑎≈
+𝑑𝑑
+𝐷𝐷𝐷𝐷𝐷𝐷𝑡𝑡2 max (𝐻𝐻, ℎ𝑓𝑓)
+𝐶𝐶𝐷𝐷(Fr)
+2
+𝜌𝜌𝑓𝑓𝑢𝑢𝑓𝑓
+2 , 
+ (A4.1) 
+ 
+ 
+ 
+16 Meyer-Grass, M. & Schneebeli, M. (1992) Die Abhängigkeit der Waldlawinen von Standorts-, Bestandes- und 
+Schneeverhältnissen.  Internationales Symposion Interpraevent 1992-Bern, 1992 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 13  
+hvor:  
+Fas 
+motstandskraft per m2 [N m-2]  
+d 
+trærs diameter [m] 
+Dist 
+distanse mellom trær [m] (
+4
+2
+ist
+D
+10 m N
+=
+; N er antall trær per hektar) 
+H  
+høyde av trær [m] 
+hf  
+flyttehøyde av skred [m] 
+CD  
+motstandskoeffisient 
+Fr  
+Froude tall 
+ρf 
+skredtetthet [kg m-3] 
+uf 
+skredhastighet [m s-1] 
+ 
+Fra ligning (A4.1) ses betydningen av karakteristikkverdien dN i Figur 2-7 17.  
+ 
+Også for steinsprang er det slik at jo tettere skogen er, jo større blir energitapet, noe som 
+bidrar til en reduksjon i sannsynlig rekkevidde. Liggende trær kan også ha stor betydning 
+for rekkevidde til steinsprang. Imidlertid gjelder dette først og fremst for mindre 
+blokkvolum, typisk lavere enn 2 m3 (Figur 2-8). Figur 2-9 gi et estimater av minimum 
+krav for SDI verdier for å ha noen effekt avhengig av blockstørrelse.  
+  
+ 
+Figur 2-8 Steinspranget stoppet midlertidig skog, men er fortsatt en latent fare i fremtiden når 
+f.e. trær velter.  
+ 
+17 Ytterligere merknader kan også finnes i Issler, D.; Gauer, P.; Glimsdal, S.; Jaedicke, C.; Sandersen, F. & Gisnås, K. G. 
+SP4 FoU Snøskred-ANNUAL REPORT 2019 Norwegian Geotechnical Institute, Norwegian Geotechnical Institute, 2020 
+ 
+p:\2025\02\20250213\delivery-result\tech-notes\20250213-01-tn-sessøy\202502213_01_tn_vedlegg_00_beskrivelse-av-modeller-og-skog.docx 
+Dokumentnr.: 20250213-01-TN 
+Dato: 2025-08-12 
+Rev.nr.:  0 
+Vedlegg  00, side: 14  
+ 
+Figur 2-9 Minimumstall for dimensjoner på vernskog rel. til blokkstørrelse (adapterte fra NGI 
+20200078-01-R tabell 11 18). Vernskog bør være minst 100 m i fallretning. 
+ 
+ 
+18 NGI 20120078-01-R  Skog og skred: Forslag til kriterier for Vernskog mot skred - Del 1 2015-03-19  
+Norwegian Geotechnical Institute 
+Kontroll- og referanseside/ 
+Review and reference page 
+P:\2025\02\20250213\Delivery-Result\Tech-Notes\20250213-01-TN-Sessøy\20250213-01-TN_Sessøa_Lerøy_final.docx 
+2015-10-16, 043 n/e, rev.03 
+Dokumentinformasjon/Document information 
+Dokumenttittel/Document title 
+En uavhengig kontroll av Multiconsults skredvurdering og supplemerende 
+vurdering  
+Dokumentnr./Document no. 
+20250213-01-TN 
+Dokumenttype/Type of document 
+Teknisk notat / Technical note 
+Oppdragsgiver/Client 
+LERØY AURORA AS 
+Dato/Date 
+2025-08-12 
+Rettigheter til dokumentet iht kontrakt/Proprietary rights to the document 
+according to contract 
+NGI 
+Rev.nr. & dato/Rev.no. & date 
+ 0 /   
+Distribusjon/Distribution 
+BEGRENSET: Distribueres til oppdragsgiver og er tilgjengelig for NGIs ansatte / LIMITED: Distributed to client and 
+available for NGI employees 
+Emneord/Keywords 
+skredfarevurdering, snøsky,  
+ 
+Stedfesting/Geographical information 
+Land, fylke/Country 
+Troms 
+Havområde/Offshore area 
+ 
+Kommune/Municipality 
+Tromsø 
+Feltnavn/Field name 
+ 
+Sted/Location 
+Sessøya 
+Sted/Location 
+ 
+Kartblad/Map 
+1434 II Tussøy 
+Felt, blokknr./Field, Block No. 
+ 
+UTM-koordinater/UTM-coordinates 
+Sone: UTM 33  Øst: 624254  Nord: 77408378 
+Koordinater/Coordinates 
+Projeksjon, datum:  Øst:  Nord:  
+ 
+Dokumentkontroll/Document control 
+Kvalitetssikring i henhold til/Quality assurance according to NS-EN ISO9001 
+Rev/ 
+Rev. 
+Revisjonsgrunnlag/Reason for revision 
+Egenkontroll 
+av/ 
+Self review by: 
+Sidemanns- 
+kontroll av/ 
+Colleague 
+review by: 
+Uavhengig 
+kontroll av/ 
+Independent 
+review by: 
+Tverrfaglig 
+kontroll av/ 
+Inter-
+disciplinary 
+review by: 
+0 
+Originaldokument 
+2025-08-11 
+Peter Gauer 
+2025-08-11 
+Kjersti G. Gisnås 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+Dokument godkjent for utsendelse/ 
+Document approved for release 
+Dato/Date 
+12. august 2025 
+Prosjektleder/Project Manager 
+Peter Gauer 
+ 
+ 
+ 
+ 
+NGI – Norges Geotekniske Institutt - er et uavhengig forskningsinstitutt 
+innen geoteknikk og andre ingeniørrettede geofag. 
+ 
+Vi kombinerer geokunnskap og teknologi for å utvikle smarte og 
+bærekraftige løsninger innen infrastruktur på land og til havs, innen 
+miljøteknologi, forurenset grunn og naturfarer som jord- og snøskred. 
+Forskningen vår leverer kunnskap som bidrar til å løse noen av de 
+viktigste utfordringene verden står overfor innenfor klima, miljø, energi 
+og samfunnssikkerhet. 
+ 
+Samfunnsoppgaven vår er å utvikle geofagene og fremskaffe 
+kunnskapsgrunnlaget for å bygge, bo og ferdes på sikker grunn. Dette 
+løser vi ved å la forskning og rådgivning gå “hånd i hånd” og være 
+brobygger mellom akademia, næringsliv og det offentlige. 
+ 
+Vi har kontorer i Norge, USA og Australia og vi har internasjonalt 
+anerkjente laboratorier. 
+ 
+www.ngi.no 
+ 
+NGI – The Norwegian Geotechnical Institute – is an independent research 
+centre in the field of geotechnical engineering and the engineering 
+geosciences. 
+ 
+We combine geotechnical knowledge and technology to develop smart 
+and sustainable solutions in infrastructure on land and at sea, in 
+environmental technology, contaminated soil and natural hazards such 
+as landslides and avalanches. Our research provides knowledge that 
+contributes to solve some of the most important challenges the world 
+faces with regards to climate, the environment, energy and societal 
+security. 
+ 
+Our societal mission is to develop the geosciences and produce the 
+knowledge basis to build, live and travel on safe ground. We solve this by 
+combining research and consulting hand-in-hand and being a bridge-
+builder between academia, industry and the public sector. 
+ 
+We have offices in Norway, the US and Australia, including internationally 
+recognised laboratories. 
+ 
+www.ngi.no 
+Dokumentet skal ikke benyttes i utdrag eller til andre formål enn det 
+dokumentet omhandler. Dokumentet må ikke reproduseres eller 
+leveres til tredjemann uten eiers samtykke. Dokumentet må ikke endres 
+uten samtykke fra NGI. 
+ 
+This document shall not be used in parts, or for other purposes than the 
+document was prepared for. The document shall not be copied, in parts 
+or in whole, or be given to a third party without the owner’s consent. 
+No changes to the document shall be made without consent from NGI. 
+a)
+
+NORGES GEOTEKNISKE INSTITUTT Hovedkontor Oslo Avd. Trondheim Avd. Tromsø BANK ISO 9001/14001
+NGI.NO PB. 3930 Ullevål Stadion Professor Brochs gate 12 PB. 2115 Stakkevollan KONTO 1506 91 98764 CERTIFIED BY BSI
+ngiØngi.no T.22023000 0806 Oslo 7030 Trondheim 9266 Tromsø ORG.NR 932 089 114 MVA FS 32989/EMS 612006

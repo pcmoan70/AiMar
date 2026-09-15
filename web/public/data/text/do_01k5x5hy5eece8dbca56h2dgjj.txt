@@ -1,0 +1,554 @@
+﻿STIM Miljø Rapport 59-2021                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger ved Mastermovika 
+Sørfold kommune, april/mai 2021 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 1/20 
+ 
+ 
+ 
+ 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 2/20 
+ 
+ 
+INNHOLD 
+Innhold ................................................................................................................................................................ 2 
+1. 
+Innledning .................................................................................................................................................. 3 
+2. 
+Material og metode ................................................................................................................................... 4 
+2.1. 
+Aktuelle standarder ........................................................................................................................... 4 
+2.2. 
+Oppsett og instrumenter ................................................................................................................... 4 
+2.3. 
+Beskrivelse av strømdata .................................................................................................................. 5 
+3. 
+Resultater ................................................................................................................................................... 6 
+3.1. 
+Sammendrag av resultater fra stasjon Mas-S1 ................................................................................. 6 
+3.2. 
+Data fra målepunkt i figurform, 6 meters dyp .................................................................................. 8 
+3.3. 
+Data fra målepunkt i figurform, 15 meters dyp .............................................................................. 10 
+3.4. 
+Data fra målepunkt i figurform, 20 meters dyp .............................................................................. 12 
+3.5. 
+Data fra målepunkt i figurform, 39 meters dyp .............................................................................. 14 
+3.6. 
+Tidevann .......................................................................................................................................... 17 
+4. 
+Hydrografi ................................................................................................................................................ 17 
+5. 
+Litteratur .................................................................................................................................................. 18 
+6. 
+Vedleggstabeller ...................................................................................................................................... 19 
+ 
+ 
+ 
+ 
+ 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 3/20 
+ 
+1. INNLEDNING 
+STIM Miljø har på oppdrag fra Nordlaks Smolt AS utført strømmålinger i forbindelse med en forundersøkelse 
+ved lokalitet Mastermovika i Sørfold kommune (Figur 1-2). Anlegget har forbindelse til Mørviksbotn innerst i 
+Mørviksfjorden. Rapporten presenterer resultatene fra strømmålingene utført ved angitt punkt (stasjon Mas-
+S1). Målinger ble foretatt på 6, 15, 20 og 39 m dybde ved hjelp av en profilerende måler og en punktmåler. 
+Strømmålingene er foretatt i perioden 19. april til 26. mai 2021. 
+ 
+Figur 
+1. 
+Oversiktskart 
+over 
+fjordsystemet 
+rundt 
+lokaliteten 
+Mastermovika. 
+Firkant 
+viser 
+kartutsnitt 
+for 
+undersøkelsesområdet. Kartkilde: Fiskeridirektoratet.  
+ 
+Figur 2 Undersøkelsesområdet med anlegget inntegnet. Plassering av strømmåler er markert med rødt flagg. Lilla pil viser 
+retning nord. Kartkilde: Olex.  
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 4/20 
+ 
+ 
+Figur 3. 3D bunnkart av området rundt strømmåler. Plassering av strømmåler markert med rødt flagg. Lilla pil 
+indikerer retning nord.  
+ 
+2. MATERIAL OG METODE 
+2.1. Aktuelle standarder 
+Strømmålingene ble gjennomført i henhold til NS 9425-1:1999, Oseanografi – Del 1: 
+Strømmåling i faste punkter og NS 9425-2:2003, Oseanografi – Del 2: Strømmåling i 
+ved hjelp av ADCP. 
+2.2. Oppsett og instrumenter 
+Dybden på målepunktet var 45,6 m. Strømmålinger ble utført i fire dyp i 
+vannsøylen, henholdsvis 6, 15, 20 og 39 m. Det ble benyttet en rigg med én 
+profilerende måler på 38 m dyp (6, 15 og 20) og en punktmåler som målte 
+bunnstrøm (40 m). Prinsippskisse av strømmålerrigg er vist i Figur 4.  Riggen ble satt 
+ut 19. april 2021 og hentet 26. mai 2021. Installeringene ble foretatt medfartøy og 
+mannskap fra Folden Akva AS.  
+ 
+Den profilerende måleren var en ADCP (Acoustic Doppler Current Profiler) 
+strømmåler av typen Signature 500 (Nortek AS) (STIM Miljø Bergen ID AQP 
+AQD102453). Punktmålerene var akustiske punktmålere (ACDM) av typen 
+Aquadopp Current Meter 2 MHz (STIM Miljø ID AQD 15880/ AQD 10464). 
+Instrumentene lagrer strømhastighet, strømretning, temperatur, trykk, dato og 
+klokkeslett automatisk, med målefrekvens satt til hvert 10. minutt. Programvarene 
+Figur 
+4 
+Prinsippskisse 
+av
+strømmålerigg. AquaDopp Profiler
+måler oppover i vannsøylen, med
+ekstra 
+punktmåler 
+som 
+peker
+nedover. Modifisert skisse fra NS
+9424-1:1999. Merk at på rigg brukt
+i felt var begge målere vendt opp. 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 5/20 
+ 
+AquaPro (Nortek, v1.36.06), Surge (Nortek, v.1.14.01) og SeaReport (Nortek, v.1.1.93) ble benyttet i analyse og 
+fremstilling av strømdata.  
+ 
+ 
+Tabell 1 Stasjonsopplysninger for strømmålinger ved stasjon Mas-S1. 
+Parameter 
+  
+Parameter 
+  
+Koordinater (lengde/bredde): 
+67°41.962'N 
+Koordinater (EUREF89/UTM33): 
+535570 
+15°50.438'E 
+7509589 
+Bunndyp (m): 
+45 
+  
+  
+Måleinstrument: 
+Profilerende måler Signature 500 (ACP) (AQD 102453) 
+Antall målinger (orig./filtrert): 
+8923/5247 
+Måleretning: 
+Opp 
+Instrumentdyp (m): 
+36 
+Måledyp (m): 
+6 , 15 og 20 
+Måleperiode start: 
+19.04.2021 
+Måleperiode slutt: 
+26.05.2021 
+Cellestørrelse (m): 
+2 
+Celler benyttet i analyse 
+09, 12 og 17 
+Måleintervall (min): 
+10 
+Midlingsperiode (min): 
+1 
+Måleinstrument: 
+Punktmåler Aquadopp (ACDM) (AQD 15880/10464) 
+Antall målinger (orig./filtrert): 
+8941/5241 
+Måleretning: 
+Opp 
+Instrumentdyp (m): 
+40 
+Måledyp (m): 
+39 
+Måleperiode start: 
+19.04.2021 
+Måleperiode slutt: 
+26.05.2021 
+Måleintervall (min): 
+10 
+Midlingsperiode (min): 
+1 
+ 
+ 
+2.3. Beskrivelse av strømdata 
+Strømstyrke for måleperioden er presentert som gjennomsnittlig hastighet (cm/s og m/s) med varians og 
+standardavvik. Stabiliteten til strømhastigheten i måleperioden (spredning i datasettet) beskrives med bruk av 
+standardavvik (= xy, for x = varians og y = 0,5). Strømhastigheter vil i de aller fleste tilfeller være gjennomsnittlig 
+strømhastighet ± standardavviket igjennom hele måleperioden, kun med unntak av enkelte registreringer av 
+maksimal (maks) og minimal (min) strøm.  
+Maksimal (maks) og minimal (min) strøm er henholdsvis høyeste og laveste registrerte hastighet. Signifikant 
+maks-strøm og min-strøm er definert som gjennomsnittet av 1/3 av de høyest eller lavest målte hastighetene.  
+Strømretninger blir oppgitt i grader og er nødvendig informasjon i beskrivelse av vanntransporten omkring 
+målepunktet. Effektiv vanntransport og vannutskifting er bestemt av både strømretning og strømhastighet. 
+Vanntransport (relativ vannfluks) omkring målepunktet kan illustreres i sektordiagram som viser hvilke 
+retninger vanntransporten er størst.  
+Forholdet mellom strømretning og strømhastighet blir også beskrevet med bruk av progressiv vektoranalyse. 
+Progressiv vektor illustrerer hvordan en tenkt «partikkel» vil drive med strømmen over tid. En slik «partikkel» 
+vil kunne drive i ulike retninger gjennom måleperioden avhengig av stabiliteten til strømretningen. Neumann-
+parameter (verdi mellom 0 og 1) er brukt som mål for stabilitet til strømretningen. Neumann-parameter er 
+forholdet mellom avstanden i rett linje fra partikkelens posisjon ved start og slutt og den faktiske 
+vandringsruten til partikkelen. Høy Neumann-parameter vil indikere en klar hovedstrømretning, mens 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 6/20 
+ 
+tilsvarende lav verdi indikerer strømforhold med hyppige skift i strømretninger. Reststrøm (cm/s) beskriver den 
+effektive strømhastigheten, beregnet som partikkelens vandringsavstand i rett linje fra startpunktet (posisjon 
+til strømmåleren) til endepunktet dividert med tiden partikkelen brukte. 
+3. RESULTATER  
+Instrumentene ble kontrollert både før utsett og etter opptak. Ingen skader eller funksjonsfeil kunne påvises. 
+Målerne har fungert fint i hele måleperioden.  Hydrografiske målinger ble gjort ved opphenting av 
+strømmålerne, 26. mai 2021.  
+3.1. Sammendrag av resultater fra stasjon Mas-S1 
+Totalt 8923 verdier ble registrert fra hver celle med måleren Signature 500 (AQP 102453). Dette inkluderer 
+verdier registrert før og etter valgt måleperiode. Til beskrivelse av de ulike dypene (6 m, 15 m og 20 m) ble det 
+hentet ut datasett fra perioden 19. april kl 17: 43 til 26. mai kl 04:11, med registreringer hvert tiende minutt. 
+Dette tilsvarer 5247 registrerte målinger fra hvert dyp. Kvalitetskontroll av datasettet med programvaren 
+Ocean Contour viste sterke signaler og gode målinger, og stabil posisjon for målerne i hele perioden.  
+Stasjonsopplysninger og måleperiode er beskrevet i Tabell 1.  
+Punktmåler ved bunn (40 m), ble utvalgt måleperiode fra 19. april kl 19: 23 til 26. mai kl 04:54, som gir et 
+datagrunnlag på 5241 datapunkter. Ingen målinger ble fjernet i denne perioden. 
+Strømmålingene påviste noe ulik hovedstrøm i de ulike utvalgte dypene her, som tydelig følger topografien til 
+fjorden. Ved øverste (6 m) og nederste (39 m) strømmåling vises en nordlig retning, mens ved 15m og 20 m dyp 
+dominerer en sørøstlig retning. (Figur 5, 7, 9 og 11). Også stabiliteten tegner et liknende mønster hvor øverste 
+og nederste dyp er mest stabile (Neumann-parameter 0,40 og 0,54), mens ved 15m og 20 m er strømmen noe 
+mer varierende (Neumans-parameter 0,26 og 0,37). Se også progressiv vektor. 
+Strømhastighet var relativt lav ved samtlige dyp, men høyest ved 6 m, med en gjennomsnittsstrøm på 4 cm/s, 
+og signifikant maksimumsstrøm på 7 cm/s. 
+Ved de andre dypene blir strømmen noe svakere. Med en gjennomsnittsstrøm på 3 cm/s, men med signifikante 
+makshastigheter på 5 cm/s.   
+Høyest andel lave målinger finnes ved 20 m hvor hele 71,05 % av målingene er mindre enn 3 cm/s. 
+Resultater er oppsummert i Tabell 2. Data om fluks, retning, progressiv vektor, gjennomsnittlig og maksimal 
+hastighet, tidsserie og histogram over hastighet, er gjengitt i figurform i Figur 5-12, og tidevann og temperatur 
+er gjengitt i Figur 13-15. Tabeller over strømretning og -hastighet er gitt i vedlegg, Tabell 3-6. 
+ 
+ 
+ 
+ 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 7/20 
+ 
+ 
+Tabell 2 Oppsummering av målinger på stasjon Mas-S1, i perioden 19. april til 26. mai 2021. 
+ 
+ 
+Parameter 
+6 m 
+15 m 
+20 m 
+39 m 
+Måleintervall (min) 
+10 
+10 
+10 
+10 
+Midlingsperiode (min) 
+1 
+1 
+1 
+1 
+Strømregistreringer (% ) > 30  
+(høye strømhastigheter) 
+0 
+0 
+0 
+0 
+Strømregistreringer (%)  < 1 cm/s 
+(nullmålinger) 
+5,45 
+11,84 
+9,05 
+7,75 
+Lengste varighet på nullmålinger 
+40 minutter 
+40 minutter 
+50 minutter 
+30 minutter 
+Antall nullmålingsperioder > 12 timer 
+0 
+0 
+0 
+0 
+Gjennomsnittsstrøm (cm/s) 
+4 
+3 
+3 
+3 
+Minimum strømhastighet (cm/s)  
+0 
+0 
+0 
+0 
+Signifikant minimums strøm* (cm/s) 
+2 
+1 
+1 
+1 
+Maksimum strømhastighet (cm/s) 
+27 
+22 
+27 
+10 
+Signifikant maksimum strøm* (cm/s) 
+7 
+5 
+5 
+5 
+Standardavvik (cm/s) 
+3 
+2 
+2 
+1 
+Strømregistreringer, 0-3 cm/s (%)  
+40,0 
+70,42 
+71,05 
+57,6 
+Strømregistreringer > 15 cm/s (%) 
+0,44 
+0,27 
+0,25 
+0 
+Relativ vannfluks (retning) 
+Nord/nordvest 
+ Sørøst 
+Sørøst 
+Nord 
+Neumann-parameter 
+0,40 
+0,26 
+0,37 
+0,54 
+Temperaturvariasjon (°C) 
+                4,5-6,0 
+ 
+*Gjennomsnittet av 1/3 målingene som viser lavest /høyest verdi. 
+ 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 8/20 
+ 
+3.2. Data fra målepunkt i figurform, 6 meters dyp 
+ 
+ 
+Figur 5 Fluks, progressiv vektor og målinger per retning, 6 m. 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 9/20 
+ 
+ 
+ 
+ 
+Figur 6 Maks og gjennomsnitt, tidsserie og histogram for strømhastighet, 6 m. 
+ 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 10/20 
+ 
+3.3. Data fra målepunkt i figurform, 15 meters dyp 
+ 
+ 
+ 
+Figur 7 Fluks, progressiv vektor og målinger per retning, 15 m. 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 11/20 
+ 
+ 
+ 
+Figur 8 Maks og gjennomsnitt, tidsserie og histogram for strømhastighet, 15 m. 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 12/20 
+ 
+ 
+3.4. Data fra målepunkt i figurform, 20 meters dyp 
+ 
+ 
+ 
+ 
+Figur 9 Fluks, progressiv vektor og målinger per retning, 20 m. 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 13/20 
+ 
+ 
+ 
+Figur 10 Maks og gjennomsnitt, tidsserie og histogram for strømhastighet, 20 m. 
+ 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 14/20 
+ 
+3.5. Data fra målepunkt i figurform, 39 meters dyp 
+ 
+Figur 11 Fluks, progressiv vektor og målinger per retning, 39 m. 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 15/20 
+ 
+ 
+ 
+Figur 12 Maks og gjennomsnitt, tidsserie og histogram for strømhastighet, 39 m. 
+ 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 16/20 
+ 
+Temperatur 
+Temperaturmålingene registrert av strømmålerne gjennom måleperioden (figur 13) viser 
+temperaturen på 38 og 40 meters dyp.   
+ 
+ 
+ 
+Figur 13 Temperatur registrert av to målere fra 19. april til 26. mai 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 meter 
+38 meter 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 17/20 
+ 
+3.6. Tidevann 
+Figur 14 viser tidevann i perioden strømmålerne stod ute. 
+ 
+Figur 14 Tidevann i perioden 19. april til 26. mai 2021. Observert vannstand for Nordfola er vist. Kilde: www.sehavniva.no 
+ 
+4. HYDROGRAFI 
+Hydrografiske målinger gjort med CTD 26.mai 2021 ved strømmålepunkt (figur 15), viser et sprangsjikt på om 
+lag 5 m -6 m dyp.  
+ 
+ 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 18/20 
+ 
+ 
+ 
+Figur 15. CTD målinger fra 26. mai 2021 ved stasjon Mas-S1. 
+5. LITTERATUR 
+NS 9425-1, 1999. Oseanografi Del 1: Strømmålinger i faste punkter 
+NS 9425-2, 2003. Oseanografi Del 2: Strømmålinger ved hjelp av ADCP 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 19/20 
+ 
+6. VEDLEGGSTABELLER 
+Tabell 3 Strømretning og -hastighet. Stasjon Mas-S1, 6 m. 
+ 
+Tabell 4 Strømretning og -hastighet. Stasjon Mas-S1, 15 m. 
+ 
+ 
+STIM Miljø rapport XX-2021    
+ 
+Mastermovika 
+s. 20/20 
+ 
+Tabell 5 Strømretning og -hastighet. Stasjon Mas-S1, 20 m. 
+ 
+ 
+Tabell 6 Strømretning og -hastighet. Stasjon Mas-S1, 39 m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+STIM Miljø utfører marine miljøundersøkelser og miljøovervåkning på oppdrag fra fylker, 
+kommuner, oljeselskap, industri og havbruksnæring. STIM Miljø er akkreditert for 
+prøvetaking av sediment til analyse av biologi, kjemi og sedimentkarakteristikk, samt 
+fjæreundesøkelser, taksonomisk analyse og faglig vurdering og fortolking under 
+akkrediteringsnummer Test 157.  
+ 
+Vi utfører også naturtypekartlegging, vannsøyleundersøkelser, risikovurdering av forurenset 
+sediment, strømmålinger og modellering av strømforhold, samt andre miljøundersøkelser 
+og rådgivingstjenester. 
+ 
+www.STIM.no

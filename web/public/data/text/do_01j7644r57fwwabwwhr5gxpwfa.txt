@@ -1,0 +1,93 @@
+﻿<root>
+  <avsender>
+    <adresselinje1>Postboks 1405</adresselinje1>
+    <adresselinje2>
+    </adresselinje2>
+    <adresselinje3>
+    </adresselinje3>
+    <navn>Statsforvalteren i Nordland</navn>
+    <poststed>Bodø</poststed>
+    <postnr>8002</postnr>
+  </avsender>
+  <mottaker>
+    <adresse1>Postboks 1485 Fylkeshuset</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8048</postnr>
+    <poststed>BODØ</poststed>
+    <navn>NORDLAND FYLKESKOMMUNE</navn>
+    <land>Norge</land>
+    <orgnr>964982953</orgnr>
+  </mottaker>
+  <id>7a5ee6aa-349e-4306-98c3-214843389ebc</id>
+  <tittel>Vedtak - Akvakultur - Alstahaug - LetSea AS - lokalitet Nordneset ( tidligere Horvnes )</tittel>
+  <date>1699952776022</date>
+  <dateFormatert>2023-11-14T09:06:16</dateFormatert>
+  <metadataFraAvleverendeSystem>
+    <sakssekvensnummer>32095</sakssekvensnummer>
+    <saksaar>2023</saksaar>
+    <journalaar>2023</journalaar>
+    <journalsekvensnummer>160933</journalsekvensnummer>
+    <journalpostnummer>16</journalpostnummer>
+    <journalposttype>U</journalposttype>
+    <journalstatus>R</journalstatus>
+    <journaldato>1696197600000</journaldato>
+    <journaldatoFormatert>2023-10-01T22:00:00</journaldatoFormatert>
+    <dokumentetsDato>1699916400000</dokumentetsDato>
+    <dokumentetsDatoFormatert>2023-11-13T23:00:00</dokumentetsDatoFormatert>
+    <tittel>Vedtak - Akvakultur - Alstahaug - LetSea AS - lokalitet Nordneset ( tidligere Horvnes )</tittel>
+    <saksBehandler>
+    </saksBehandler>
+  </metadataFraAvleverendeSystem>
+  <metadataForImport>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalposttype />
+    <journalstatus />
+    <dokumentetsDato />
+    <tittel />
+  </metadataForImport>
+  <status>Klar for mottak</status>
+  <niva>3</niva>
+  <filmetadata>
+    <filnavn>Vedtak%20-%20Akvakultur%20-%20Alstahaug%20-%20LetSea%20AS%20-%20lokalitet%20Nordneset%20%28%20tidligere%20Horvnes%20%29.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>8d3c3cd49da67a2ca32ee275168b3722ceef1e2c76c16c2b0d2fb7fafc0196be</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>900536</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Tillatelse%20-%20%20Akvakultur%20-%20Alstahaug%20_%20LetSea%20AS%20-%20Lokalitet%20Nordneset%20%28%20tidligere%20Horvnes%20%29.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>083058ed0a18b459bc0125b7f4e0a971b2d1df6ac432709142ceeed181512edb</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>445057</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>AcosSvarInn.xml</filnavn>
+    <mimetype>text/xml</mimetype>
+  </filmetadata>
+  <svarSendesTil>
+    <adresse1>Postboks 1405</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8002</postnr>
+    <poststed>BODØ</poststed>
+    <navn>STATSFORVALTEREN I NORDLAND</navn>
+    <land>Norge</land>
+    <orgnr>974764687</orgnr>
+    <fnr />
+  </svarSendesTil>
+  <svarPaForsendelse />
+  <forsendelseType />
+  <eksternRef>e5df19ea-5be4-403d-ab73-5156f4963875</eksternRef>
+  <downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/7a5ee6aa-349e-4306-98c3-214843389ebc</downloadUrl>
+  <avgivendeSystem />
+  <taushetsbelagtPost>false</taushetsbelagtPost>
+</root>

@@ -1,0 +1,619 @@
+﻿S C A L E 6
+Havlandet Gaddholmen
+Settefiskanlegg
+ScaleAQ Beddingen 16, 7042 Trondheim, Norway I post@scaleaq.com I www.scaleaq.com
+SCALET6
+Beskrivelse av prosessen og teknologien
+Produksjon av fisk i anlegg med resirkulering av vann (RAS) gjør at behovet for spedevann blir lavt
+sammenlignet med et gjennomstrømningsanlegg. For å oppnå god vekst av fisken må avfallsstoffer i
+det resirkulerte vannet omdannes eller fjernes. ScaleAQ Landbasert sin RAS er basert på flere
+vannbehandlingssteg som kontrollerer vannkvaliteten i karene, og som optimaliserer bruk av viktige
+parametere som vann, oksygen, energi og for.
+ScaleAQ Landbasert har stor fokus på partikkelfjerning. Sedimenterbare partikler, som forrester og
+avføring fjernes fra vannet ved hjelp av partikkelfellen OptiTrap, som er montert i fiskekarenes
+senterutløp. Slammet som samles opp der føres til en slamkollektor montert på utsiden av karveggen.
+Videre i vannbehandlingen vil suspendert stoff tas ut av vannet ved hjelp av mekaniske filtre koblet til
+resirkuleringssløyfen, mens finpoleringen av vannet, altså fjerning av finpartikler og løst organisk
+materiale, gjøres i en proteinskimmer med ozoninjeksjon (lav dose). Denne installasjonen behandler
+25% av vannstrømmen til enhver tid. Disse tre stegene skal sikre optimal partikkelfjerning i systemet,
+og dermed optimal og stabil vannkvalitet for fiskeproduksjon.
+Vanligvis inkluderer ScaleAQ Landbasert ikke UV-bestråling internt i resirkuleringssløyfen da dette vil
+selektere for uønsket bakteriemiljø. Det er ønskelig å beholde den gode K-selekterte bakteriekulturen i
+vannet da dette virker probiotisk og bidrar til å hindrer-selekterte bakterier, som for eksempel Vibrio, i
+å etablerer seg. Vi ønsker heller å benytte ozon sammen med proteinskimmer for å kontrollere
+bakterievekst.
+Andre faktorer som må kontrolleres i anlegget er N-forbindelser og gasser. Total ammonium nitrogen
+(TAN) og COzdimensjoneres normalt for å holdes under 2 mg/Log 15 mg/L, respektivt. En multi-
+kammer biareaktor (moving bed bioreactor, MBBR) konverterer ammoniakk til nitrat via nitritt, og CO2
+og eventuelt N2fjernes i en degasser montert i etterkant av bioreaktoren. Det kan i tillegg luftes ut CO2
+i en karintern CO2-lufter ved behov. Det tilsettes en buffer for å kompensere for tapet av alkalinitet og
+for å øke pH.
+ScaleAQ er også opptatt av god hydrodynamikk i alle deler av et anlegg, fra fiskekar til rør. God
+karhydraulikk er generelt viktig for å oppnå god fiskevelferd, jevn vannkvalitet og effektiv trening, men
+det er også viktig for å unngå dødsoner og slamoppsamling i anlegget. Spesielt i sjøvann er risikoen
+for produksjon av giftig hydrogensulfid tilstede i slike soner. Gode hydrauliske forhold og effektiv
+partikkelfjerning er viktige aspekter for å unngå dannelse av uønsket hydrogensulfid.
+Spedevannet (ferskvann og sjøvann) må være patogenfritt. Behandling med filtrering og UV er
+nødvendig. Mengden spedevann vil avhenge av den til enhver tid biomasse i anlegget og beregnes for
+å holde NO-nivået under 100 mg/L.
+En forenklet beskrivelse av ScaleAQ Landbasert sine anlegg er vist i figur 1.
+Havlandet Gaddholmen ISettefiskanlegg torsk
+2
+lt
+Figur 1: Forenklet beskrivelse av anlegget med 4 kar og vannbehandling som eksempel
+Sammendrag av vannbehandlingsteknologien:
+•
+Partikkelfellen OptiTrap som fjerner sedimenterte partikler (uspist for og avføring)
+•
+Et mekanisk filter som fjerner suspendert stoff
+•
+Proteinskimmere med ozon for å øke klarheten og stabilisere vannkvaliteten
+•
+Bioreaktorer med lufting som omdanner ammoniakk og nitritt til nitrat
+•
+Degasser som fjerner COzog eventuell Nzfra vannet
+•
+Tilsetting av buffer for å øke pH og alkalinitet
+•
+Oksygenering
+Havlandet Gaddholmen Settefiskanlegg torsk
+3
+Design Data, Havlandet
+Atlantisk torsk, 3 x 8 millioner fisk (1 g) og 3 x 4 millioner fisk (100 g)
+Ver.06
+Nøkkeltall pintalt PAS-enheter og oppdrettsvolum
+Antall kar per
+Oppdrettsvolum
+Karstørrelser
+RAS
+Antall RAS vb-
+System
+Fiskestørrelse:
+per RAS vb-enhet
+Totalvolum (m3)
+(m3)
+vannbehandlings
+enheter
+(m3)
+(vb)-enheter
+Stamfisk (FT]
+10 kg
+75
+6
+1
+451
+451
+Start-foring (FT})/Hall 1
+0 - 0 1 •
+27
+20
+540
+540
+Yngel 1(FT)/Hall 2
+0.1 - 1 g
+7
+1
+424
+424
+Yngel
+2
+(RAS)/Hall 3
+1 • 9g
+135
+6
+2
+808
+1,616
+Settefisk (RAS)/Hall 4 og 5
+9 - 100 g
+750
+6
+2
+4.SOO
+9,000
+Total
+110
+7
+6,723
+12,031
+Spedevann oroppholdstid
+Vannutskifting I
+kar (utskifting av
+5pedevanns-
+Oppholdstid
+oppdrettsvolum,
+strøm (m3/h)
+i kar(min)
+%/day)
+639%
+120
+225
+545%
+123
+264
+4727%
+835
+30
+44%
+30
+24
+25%
+95
+42
+1202
+Vannstrøm 1anlegget
+Vannstrøm
+Vannstrøm
+Vannstrøm per
+Flow per kar
+per vb-enhet
+avrundet
+kar(m3/h)
+(L/min)
+(m3/h)
+(m3/h)
+120
+333
+123
+130
+7
+108
+835
+840
+14
+233
+2,020
+2 030
+338
+5,639
+6,429
+6,430
+1,072
+17,861
+FT
+flow through system og betyr gjennomstrømningsanlegg
+Fisk og for
+Dimensionerende nøkkeltall
+Bioreaktor (MBBR)
+C02deaasser
+Dimensjonerende
+Ant. fisk per
+Max tetthet
+Foringsrate (% av
+Max. foring per vb-
+Vannforbruk per
+Innhold av
+Max. CO2
+MaxTAN
+Max. nitrat
+Biomedia per
+Bioreaktor
+OVerfalteareal
+Volum
+System
+ant. fisk per vb-
+enhet (kg/dag/vb-
+kg for (L/kg
+Temperatur ('C)
+Sallnltet (ppt.)
+vb-enhet
+volume per vb-
+per vb-enhet
+luftemedie per
+kar
+(kg/m3)
+kroppsvekt)
+protein I for(%)
+(mg/L)
+(mg/L)
+(mg/L)
+enhet
+enhet)
+for/dag)
+(m3)
+enhet(m3)
+(mZ)
+vb-enhet (m3}
+Stamfisk (FT)
+1,000
+167
+1.10%
+110
+26143
+50%
+7.S
+32
+15
+1.5
+100
+Start-foring (FT)/Hall 1
+400,000
+1.5
+14.
+112
+26316
+53%
+32
+15
+1.5
+100
+Yngel 1 (FT)/Hall 2
+8,000,000
+133,333
+20
+8.96
+761
+26316
+53%
+32
+15
+1.5
+100
+Yngel 2 (RAS)/Hall 3
+2,050,562
+341,760
+23
+5.54%
+1,007
+354
+50%
+11
+32
+15
+100
+173
+347
+18
+73
+Settefisk (RAS)/Hall 4 og 5
+2,000,000
+333,333
+1.61%
+3,223
+354
+50%
+11
+32
+15
+1.5
+1D0
+555
+1.110
+56
+73
+Total
+9,444
+Max 0 2 / 0 3 per vb-enhet
+Max 0 2 / 0 3 for hele anlegget
+System
+0, (kg/h)
+0, (g/h)
+0, for ozon
+(kg/h)
+OZ(kg/h)
+0, (g/h)
+o, for ozon (kg/h)
+Stamfisk (FT)
+5
+5
+Start-foring (FT)/Hall 1
+s
+5
+Yngel 1 IFT)/Hall 2
+32
+32
+Yngel 2 (RAS)/Hall 3
+42
+839
+13
+84
+1,678
+25
+Settefisk(RAS)/Hall 4 og 5
+Total
+134
+2,686
+40
+269
+5,372
+81
+217
+3,525
+53
+393
+7,050
+106
+Kar-design
+Volum(m3)
+Diameter (m)
+Dybde (m)
+Ratio
+Flow split (% i
+Form
+center)
+75
+8.0
+1.S
+0.19
+30
+Sirkulær
+27
+5.0
+1.4
+0.28
+100
+Sirkulær
+7
+3.0
+1.0
+0.33
+100
+Sirkulær
+8.0
+2.3
+0.29
+30
+Oktagonal
+7S0
+15.0
+3.6
+0.24
+30
+Oktagonal
+03 og 02 for 03 må reduseres ift %-vise flow gjennom skimmer
+Havlandet Torsk
+Split to
+each inlet
+Booster
+pump
+NOTE1
+02
+LOX
+Split to
+cabinet
+tanks
+t
+SOLVOXC
+Heating/
+Filter
+Drum filter
+ushing pump
+Fresh
+Water
+OpliTrap med
+Fish tanks
+dødfisk oppsamling
+r
+Drum
+C
+Side outlet
+hom tanks
+filters
+G)
+Make up
+Optiltow
+Ar out of
+the budding
+Fatle
+ode
+Center outlet
+Op6Trap
+from tanks
+Drainage
+Pump
+Belt
+filter
+Belt
+filter
+Pump
+the drum fhlar
+t
+t
+Foam from
+CO2 extracted
+MBBR Reactor
+by the fan
+Fon
+CO2
+degasser
+Bleedng
+water
+Blower
+r
+t
+t
+F
+r
+Pump for
+NaOH
+Storage
+pH
+Dosing
+pump
+p
+To energy
+Oxy-Sump
+ozonation
+Oxy-Pumps
+I>recovery
+To
+L
+L
+J
+l>
+Discharge
+NOTE 1: COMMON FOR ALL DEPARTEMENTS.
+LEGEND
+LJNES/SYMBOLS
+SENSORS
+Recycling water flow
+Tanks and main devices
+Sea water flow
+Sludge flow
+Limit of supply
+O, and O, flow
+Air and CO flow
+Control system line
+(1/0input)
+Control system line
+(material input)
+®
+Flowmeter
+©
+Level sensor
+Ci)
+Temperature sensor
+®
+pH sensor
+Salinity sensor
+Redox potential sensor
+Pressure sensor
+Oxygen and temperature
+sensor
+SCALE
+111.<l'.lOl'C
+l17.04.202¢
+APPROVED}
+I
+A r E
+NOTE
+I
+132080
+30900
+30600
+1660
+2070
+1608
+IETTEFISK(HAU. 5)
+smEFISK(HAU. 4)
+YNGEL2 (HAU. 3)
+YNGEL1 (HAU. 2)
+STARTFORING(HAU. 1)
+15 50
+10100
+46'.00
+77 00
+Mekanisk fi:trering,
+B oiilter
+Oksigeneringssystem
+00
+EL·ROM
+Avgasser
+Systempumper
+t
+t
+1800
+7
+8300
+so
+3800
+(HALL 5)
+(HAU. 4)
+VANNBEHANDLING SffiEFISK
+•1700---
+VANNBEHANDLING SITTEFISK
+(HALL 3)
+VANNBEHANDLING YNGEL 2
+KJØLESYSTEM
+VANNBEHANDLING
+JNNTAKSVANN
+GENERATORROM
+STAMFISK
+,
+0
+0
+0
+L
+_
+,
+a
+,
+o
+o
+-
+-
+L
+,
+2
+,
+o
+_
+L
+,
+2
+0
+0
+,
+_
+_
+_
+l
+_
+2
+5
+0
+1
+_
+L
+o
+a
+s
+_
+L
+,
+,
+2
+0
+1J20BD
+FOTAVlR'l'KK
+10.014 m2
+FOTAVTRYKK HAVLANDET TORSK
+02 produksjon
+03, lut tanker osv
+Inntak
+(pumpestasjon)
+58
+Mekanisk filtrering
+Biofilter
+Oksigeneringssystem
+Avgasser
+GADDHOLMEN
+Vannbehandling.(
+settefisk
+Settefisk
+(2 enheter)
+Vannbehandling<:
+Yngel 2
+kjølesystem
+Vannbehandling/
+inntaksvann
+Generatorrom
+El-rom
+Stamfisk/
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+rss
+0 0 0
+0 0 0 0
+Yngel2
+(2 enheter)
+Yngel 1
+T I 0 c 0 0 d a o o o a Startforing
+Spisestue
+Garderobe
+Bygningen området
+10.014 m2
+Øva-området
+83.997 m2
+Verksted
+Levende-for
+La or11oræ 
+Kontrollrom
+,·Kroalger
+1D-
+-
+2
+5
+450,5
+AVLANDET TORSK PLASSERING PÅ GADDHOLMEN
+r HA-1001-R3

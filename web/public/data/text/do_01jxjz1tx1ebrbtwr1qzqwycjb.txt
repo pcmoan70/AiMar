@@ -1,0 +1,810 @@
+﻿01 
+19.04.2024 
+Snøskredutredning 
+Harald Øverli Eriksen 
+Astrid Lemme 
+Magnus Sørensen 
+ 
+00 
+11.04.2024 
+Snøskredutredning 
+Harald Øverli Eriksen 
+Astrid Lemme 
+Magnus Sørensen 
+ 
+REV. 
+DATO 
+BESKRIVELSE 
+UTARBEIDET AV 
+KONTROLLERT AV
+GODKJENT AV 
+ 
+MULTICONSULT | Kvaløyveien 156 | Postboks 2274, 9269 TROMSØ | Tlf 77 62 26 00 | multiconsult.no 
+NO 918 836 519 MVA 
+ 
+NOTAT 
+ 
+OPPDRAG 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+DOKUMENTKODE 
+10256462-RIGberg-NOT-
+001_rev_01 
+EMNE 
+Snøskredutredning 
+TILGJENGELIGHET 
+Åpen 
+OPPDRAGSGIVER 
+Lerøy Aurora AS 
+OPPDRAGSLEDER 
+Harald Øverli Eriksen 
+KONTAKTPERSON 
+Jan Arild Kiil 
+SAKSBEHANDLER 
+Harald Øverli Eriksen  
+KOPI 
+  
+ANSVARLIG ENHET 
+10235013 Seksjon 
+Ingeniørgeologi og fjernmåling 
+ 
+SAMMENDRAG 
+Multiconsult har utført en utredning av fare for snøskred i forbindelse oppdrettslokalitet vest for Sessøya i Tromsø 
+kommune. Ifølge aktsomhetskartene i NVE Atlas ligger deler av kartleggingsområdet innenfor potensielle 
+utløpsområder for snøskred. 
+Feltarbeid, analyser og tilhørende vurderinger viser at nominell sannsynlighet for skader fra snøskred og skredvind av 
+betydning, det vil si hendelser med en intensitet som kan medføre fare for liv og helse eller større materielle skader mot 
+kartleggingsområdet, er høyere enn 1/1000 for indre del av kartleggingsområdet nærmest land, og mindre enn 1/1000 
+for ytre delen av kartleggingsområdet. 
+1
+Innledning 
+Oppdragsgiver ønsket kun vurdering av snøskred for oppdrettslokaliteten. Det er derfor utført en 
+vurdering av sannsynlighet for snøskred med utgangspunkt i NVEs veileder [1] mht. snøskred, men 
+vurderingen er ikke utført i henhold til krav i NVEs veileder (og derunder TEK17 § 7-3. Sikkerhet mot 
+skred) som krever at alle skredtyper vurderes. Det presiseres at vurderingen er basert på dagens 
+terreng-, skogs- og klimaforhold.  
+Undersøkt område 
+Foreliggende notat gjelder vurdering av sannsynlighet for snøskred for kartleggingsområdet vist i 
+Figur 1. 
+Befaring 
+Befaring ble utført 5. mars 2024 av geolog Harald Øverli Eriksen fra Multiconsult og Ole Hermann 
+Strømmesen fra OHS Havbruk AS. Strømmesen var med på befaringen som kjentmann og båtfører. 
+Befaringen ble utført fra båt, til fots og med drone. Terrenget var snødekt. Det var lettskyet, pent 
+vær og bra sikt på befaringsdagen. 
+ 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 2 av 30 
+ 
+Figur 1. Oversikt over kartleggingsområde (heltrukket lilla linje) og påvirkningsområde (stiplet lilla linje). 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 3 av 30 
+2
+Områdebeskrivelse 
+Kartleggingsområdet ligger i sjøen på østsiden av Sessøya utenfor Kvaløya i Tromsø kommune. 
+Kartleggingsområdet går ca. 600 meter ut på sjøen og strekker seg fra Kvalvikneset i nord til midt 
+mellom Teghaugneset og Elvefarneset i sør.  
+Påvirkningsområdet går fra havnivå og opp til toppen av Blåfjellet (540 moh.). I påvirkningsområdet 
+er det bratte skrenter fra havnivå opp til ca. 170 moh., mellom 170 - 200 moh. er det slakere 
+partier, fra 200 - 540 moh. blir terrenget tiltagende bratt med opp mot vertikale skrenter i de 
+bratteste partiene, se Figur 2. 
+ 
+Figur 2. Helningskart. 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 4 av 30 
+Vegetasjon 
+Vegetasjonen i skråningene i påvirkningsområdet består av gress, mose, lyng og lav, samt spredt 
+løvskog fra ca. 110 moh. og ned til havnivå.  
+3
+Grunnlagsmateriale 
+Tidligere skredfarevurderinger 
+Det er ikke registrert at det er utført tidligere skredfareutredninger i påvirknings- eller 
+kartleggingsområdet [2].  
+Eksisterende sikringstiltak 
+Det er ikke registrert at det finnes eksisterende sikringstiltak i påvirknings- eller 
+kartleggingsområdet. 
+Digital terrengmodell 
+Som grunnlag ble det lastet ned en terrengmodell med oppløsning 1x1 m (NDH Kvaløya 2 pkt 2017), 
+tilgjengelig fra http://www.hoydedata.no. Terrengmodellen er brukt for GIS-analyser. For RAMMS-
+utløpsanalyse ble 1x1 m terrengmodell konvertert til 10x10 m. 
+Flybilder og skråfoto 
+Flybildegrunnlag (norgeibilder.no) tilbake til 1967 er studert i forbindelse med vurderingen. 
+Flybildene viste ikke noen endring relatert til snøskredfare. 
+Aktsomhetskart  
+Ifølge NVE Atlas ligger kartleggingsområdet innenfor aktsomhetsområde for snøskred. Kartet viser 
+mulige løsne- og utløpsområder, men sier ikke noe om sannsynligheten for skred. 
+Aktsomhetskartene er basert på terrenganalyser og ikke feltbefaringer. Våre vurderinger vil 
+overprøve aktsomhetskartene for det aktuelle området. 
+Historiske skredhendelser 
+Det er ikke registrert noen skredhendelser i NVE Atlas.  
+Oppdragsgiver oppgir at ingen det er ingen kjente skredhendelser i fjellsiden.
+Klimatologiske data 
+Ifølge NVEs karttjeneste SeNorge [3] ligger gjennomsnittlig årlig snø maksimum i perioden 1991-
+2020 i kartleggingsområdet mellom 150-200 cm mens gjennomsnittlig årlig nedbørsmengde ligger 
+mellom 1000 -1500 mm. 
+NVEs nettbaserte verktøy for klimaanalyser [4] baserer seg på de samme modellerte griddata som 
+SeNorge (oppløsning på 1x1km), dvs. benytter målinger fra nærliggende meteorologiske stasjoner 
+og terreng, men gir mer detaljer. Tidsserier for vinddata (windDirection10m24h06, 
+windSpeed10m24h06, rr, tm, fsw, rrl, rr3, retning) er fra 2018–2022 og for klimadata (rr, tm, sd, 
+fsw, sdfsw, sdfsw3d, rr3) fra 1958–2022.  
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 5 av 30 
+Da denne rapporten ble skrevet viste NVEs nettbaserte verktøy følgende modellerte verdier for 
+grid-celle i skråning ovenfor kartleggingsområdet (input-koordinat UTM 33 7740491.51 624412.64, 
+351 moh), gjennomsnitt er gitt basert på årene 1991–2020, se Figur 3: 
+•
+Gjennomsnittstemperatur under 0˚C: November til april  
+•
+Gjennomsnittlig årsnedbør: 1363 mm  
+•
+Maksimal årsnedbør: 2308 mm (1975)  
+•
+Gjennomsnittlig månedsnedbøren: 66 mm (juni) - 158 mm (oktober)  
+•
+Måneder med gjennomsnittlig lav nedbør: Mai-juli (66-77 mm)  
+•
+Gjennomsnittlig maksimale snødybde (1991-2020): 191 cm  
+•
+Maksimal snødybde: 338 cm (6. april 1920)  
+•
+Gjennomsnittlig nysnødybde for 3 døgn: 42 cm  
+•
+Maksimal nysnødybde for 3 døgn: 82 cm  
+•
+Ekstremverdier av maks nysnødybde for 3 døgn:  
+o
+Returperioder på 100 år: 83 cm  
+o
+Returperioder på 1000 år: 107 cm  
+o
+Returperioder på 5000 år: 123 cm  
+ 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 6 av 30 
+ 
+Figur 3. Klimadata fra NVEs nettbaserte verktøy for klimaanalyser [4], fra 1x1km grid-celle nærmest løsneområder ovenfor 
+kartleggingsområdet (UTM 33 7740491.51 624412.64, 351 moh.). 
+Vinddata fra samme område fra 2018-03-01 til 2022-03-01 viser at nedbørsførende vindretning når 
+temperaturen er under null (som snø) er i sektoren fra nordvest til sør, se Figur 4. 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 7 av 30 
+ 
+Figur 4. Sammenstilling av dager fra 2018-03-01 til 2022-03-01 som viser vindretning vs. nedbør som snø for alle dager 
+med vind og nedbør. Vindroser generert av NVEs nettbaserte verktøy for klimaanalyser [4], fra 1 x 1km grid-celle nærmest 
+løsneområder ovenfor kartleggingsområdet (UTM 33 7740491.51 624412.64, 351 moh.). 
+Modellerte data basert på døgnverdier med 1 x 1km romlig oppløsning fra NVE (xgeo.no) viser at 
+påvirkningsområdet har nedbørsførende vind vinterstid (nov, des, jan-april) hovedsakelig fra nord-
+nordvest til sør-sørøst, se Figur 5A. Det samme datasettet viser at man må kunne forvente 
+vindretning vinterstid uavhengig av nedbør (aktuelt ifm. snøtransport) fra de samme sektorene, 
+nord-nordvest til sør-sørøst, med hovedvindretning fra sør-sørvest til øst-sørøst, se Figur 5B. 
+   
+    
+Figur 5. Plott som viser prosentvis fordeling av vindretning og vindstyrke. 
+A. Dominerende nedbørsførende vindretninger vinterstid fra modellerte data. 
+B. Dominerende vindretninger vinterstid fra modellerte data.  
+Som sammenligning av modellerte og målte verdier viser nærmeste målestasjon 88690 Hekkingen fyr 
+at vindretninger sørøst og vest er dominerende nedbørsførende vindretninger vinterstid, se Figur 6A. 
+Vindretning vinterstid uavhengig av nedbør (aktuelt ifm. snøtransport) viser at sørøstlig vind er 
+fremtredende, se Figur 6B.  
+A.
+B.
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 8 av 30 
+   
+Figur 6. A. Dominerende nedbørsførende vindretninger vinterstid fra stasjonsdata. B. Dominerende vindretninger 
+vinterstid. Plottene viser prosentvis fordeling av vindretning og vindstyrke. 
+For å bedre kunne møte de utfordringer som fremtidige klimaendringer vil kunne gi, har Norsk 
+Klimaservicesenter utarbeidet klimaprofiler for ulike fylker i Norge [5]. For Troms forventes 
+årstemperaturen å øke med ca. 5°C, og nedbøren å øke med ca. 15% i løpet av dette århundret 
+sammenlignet med perioden 1971–2000. Den største temperaturøkningen forventes om vinteren. 
+Økt nedbør forventes i hovedsak om sommeren. Det forventes en betydelig reduksjon i 
+snømengder, samt antall dager med snø i lavtliggende områder, men det vil fortsatt kunne være 
+enkelte år med betydelig snøfall. Det vil kunne bli flere smelteepisoder om vinteren på grunn av 
+temperaturendringer. En av effektene av fremtidige klimaendringer er hyppigere, kraftigere og mer 
+intense nedbørshendelser. For Troms forventer Norsk Klimaservicesenter økt hyppighet av 
+steinsprang. På kort sikt, økt fare for snøskred, og på lengre sikt vil snømengdene bli så redusert at 
+sannsynligheten for tørre snøskred blir mindre. Det er grunn til økt aktsomhet mot jord- og 
+flomskred, fordi disse skredtypene kan bli både vanligere og mer skadelige. Norsk 
+Klimaservicesenter hevder det likevel ikke trengs ekstra sikkerhetsmargin (klimapåslag) på de 
+nasjonale aktsomhetskartene for jord- og flomskred. Og videre at sørpeskred som har høyt 
+vanninnhold, og derfor kan gå i svært slakt terreng, i enkelte tilfeller vil kunne rekke utenfor disse 
+aktsomhetsområdene. 
+ 
+4
+Registreringskart 
+På bakgrunn av GIS-analyser og observasjoner i felt ifm. befaring er det utarbeidet et 
+registreringskart, se Tabell 1 og Figur 7. 
+ 
+ 
+A.
+B.
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 9 av 30 
+Tabell 1. Bilder fra felt. 
+Bilde
+nr 
+Beskrivelse og bilder med løsneområder, helning, og flyfoto fra sommer drapert over 
+terrengmodell 
+1
+Oversikt over løsneområder 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 10 av 30 
+2
+Oversikt over løsneområder og utløpsområder 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 11 av 30 
+3
+Oversikt over løsneområder nord
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 12 av 30 
+4
+Løsneområder nord
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 13 av 30 
+5
+Løsneområder og utløpsområder nord
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 14 av 30 
+6
+Utløpsområder nord
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 15 av 30 
+7
+Løsneområder sør
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 16 av 30 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 17 av 30 
+8
+Utløpsområder sør
+ 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 18 av 30 
+  
+Figur 7. Registreringskart. 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 19 av 30 
+5
+Modellering 
+Det er utført simulering av snøskred faste masser med programvaren RAMMS avalanche og av 
+skredvind med RAMMS Extended. I dette kapitlet vises inngangsparametere for simulering og 
+resultater. Diskusjon finnes i kap 6. 
+Modellering av snøskred  
+Fordi påvirkningsområdet har partier der helningen er stor nok til at snøskred kan løsne har vi valgt 
+å utføre simulering av utløp av snøskred og skredvind for å gi en indikasjon på mulig 
+snøskredscenarier. 
+ 
+Fra modellerte data har vi at gjennomsnittlig maksimale snødybde for fjellsiden i tidsrommet 1991-
+2020 var på 191 cm og i tidsrommet 1961-1990 var på ca. 220 cm. Videre viser modellerte data at 
+ekstremverdier av maksimal nysnødybde for 3 døgn med returperioder på 1000 år er beregnet til 
+107 cm, og maksimal snødybde var på 338 cm (6. april 1920). 
+Modellerte vinddata viser at vind med snø fra retninger (NV-SV) som kan gi pålagring av snø i 
+løsneområder må kunne forventes . Det forventes også at det ved sterk vind vil være snøtransport 
+fra dalformasjonen vest for Blåfjellet som vil gi ytterligere pålagring av snø i løsneområder. Samme 
+vindmønster er synlig i data fra målestasjon 88690 Hekkingen fyr. Basert på dette forventes det at 
+det for returperioder på 1000 år kan være snødybde i løsneområder på 350 cm, og at dette i 
+gjennomsnitt for løsneområder vil kunne gi bruddkanter på 200 cm. 
+ 
+Det ble utført tre snøskredsimuleringer. Simulering 1 og 3 omfatter skred av henholdsvis faste 
+masser og skredvind fra løsneområder i nordlige områder, og simulering 2 og 4 omfatter skred av 
+henholdsvis faste masser og skredvind fra løsneområder i sørlig områder. I alle simuleringene er det 
+benyttet snødybder på 200 cm, og utgangstett på snø på 300 kg/m3. Skog er ikke tatt hensyn til. 
+Friksjons-parametere er automatisk generert i RAMMS basert på terrengmodell. Opprinnelig 1x1 m 
+terrengmodell ble konvertert til 10x10 m ifm. simulering. Simuleringsparametere vises i Tabell 2 for 
+simulering 1, Tabell 3 for simulering 2, Tabell 4 for simulering 3, Tabell 5 for simulering 4. For 
+simulering av skredvind (simulering 3 og 4) er ytterligere parametere brukt vist i Figur 8. 
+Resultatene av simuleringen diskuteres i kap 6. 
+Tabell 2. Parametere brukt for simulering 1 - Faste masser fra nordlige løsneområder 
+ 
+ 
+Løsneområde 
+Beskrivelse av 
+terreng 
+Bruddkant-
+høyde (m) 
+Løsnevolum 
+(m3) 
+Friksjons-
+parametere 
+Medriving
+/erosjon 
+inkludert 
+Sim. 1 - Nord 
+Øvre nordlige 
+løsneområder 
+trigger nedre 
+nordlige 
+løsneområder. 
+Flakskred. 
+ 
+Totalt 254 000 m3 
+fordelt på 8 
+løsneområder 
+Utløsning i et av 
+løsneområdene 
+forventes å kunne gi 
+bruddforplantning 
+over større deler av 
+fjellsiden, bildene 1-
+6 i Tabell 1. 
+ 
+2 m  
+ 
+254 000 
+Stort 
+snøskred med 
+gjentaksinter
+vall på 300 år 
+Automatisk 
+generert 
+friksjonspara
+metere (μ/ξ) 
+basert på 
+høydemodell. 
+Nei 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 20 av 30 
+ 
+Tabell 3. Parametere brukt for simulering 2- Faste masser fra sørlige løsneområder 
+ 
+Tabell 4. Parametere brukt for simulering 3 - Skredvind fra nordlige løsneområder 
+ 
+Tabell 5. Parametere bruk under simulering 4 - Skredvind fra sørlige løsneområder 
+Løsneområde 
+Beskrivelse av 
+terreng 
+Bruddkant-
+høyde (m) 
+Løsnevolum 
+(m3) 
+Friksjons-
+parametere 
+Medriving 
+inkludert 
+Sim. 2 - Sør 
+Øvre sørlige 
+løsneområder 
+trigger nedre 
+sørlige 
+løsneområder. 
+Flakskred. 
+ 
+Totalt 285 031 m3 
+fordelt på 14 
+løsneområder 
+Utløsning i et av 
+løsneområdene 
+forventes å kunne gi 
+bruddforplantning over 
+større deler av 
+fjellsiden, bildene 1-2 
+og 7-8 i Tabell 1. 
+ 
+2 m  
+ 
+285 031 
+Stort 
+snøskred med 
+gjentaksinter
+vall på 300 år 
+Automatisk 
+generert 
+friksjonspara
+metere (μ/ξ) 
+basert på 
+høydemodell. 
+Nei 
+Løsneområde 
+Beskrivelse av 
+terreng 
+Bruddkant-
+høyde (m) 
+Løsnevolum 
+(m3) 
+Friksjons-
+parametere 
+Medriving
+/erosjon 
+inkludert 
+Sim. 1 - Nord 
+Øvre nordlige 
+løsneområder 
+trigger nedre 
+nordlige 
+løsneområder. 
+Flakskred. 
+ 
+Totalt 254 000 m3 
+fordelt på 8 
+løsneområder 
+Utløsning i et av 
+løsneområdene 
+forventes å kunne gi 
+bruddforplantning 
+over større deler av 
+fjellsiden, bildene 1-
+6 i Tabell 1. 
+ 
+2 m  
+ 
+254 000 
+Stort 
+snøskred med 
+gjentaksinter
+vall på 300 år 
+Automatisk 
+generert 
+friksjonspara
+metere (μ/ξ) 
+basert på 
+høydemodell. 
+Ja 
+Løsneområde 
+Beskrivelse av 
+terreng 
+Bruddkant-
+høyde (m) 
+Løsnevolum 
+(m3) 
+Friksjons-
+parametere 
+Medriving 
+inkludert 
+Sim. 2 - Sør 
+Øvre sørlige 
+løsneområder 
+trigger nedre 
+sørlige 
+løsneområder. 
+Flakskred. 
+Totalt 285 031 m3 
+fordelt på 14 
+løsneområder 
+Utløsning i et av 
+løsneområdene 
+forventes å kunne gi 
+bruddforplantning over 
+større deler av 
+2 m  
+ 
+285 031 
+Stort 
+snøskred med 
+gjentaksinter
+vall på 300 år 
+Automatisk 
+generert 
+friksjonspara
+metere (μ/ξ) 
+Ja 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 21 av 30 
+ 
+ 
+fjellsiden, bildene 1-2 
+og 7-8 i Tabell 1. 
+ 
+basert på 
+høydemodell. 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 22 av 30 
+  
+  
+  
+ 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 23 av 30 
+  
+ 
+Figur 8. Parametere benyttet i RAMMS Extended 
+ 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 24 av 30 
+ 
+Figur 9. Simulering av utløp av snøskred (faste masser) fra RAMMS::Avalanche og Alfabeta, samt skredvind fra Alfabeta 
+lagt på RAMMS-resultater. 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 25 av 30 
+ 
+Figur 10. Simulering av maks trykk (kPa) fra skredvind RAMMS Extended. Konturlinjer viser trykk i kPa. 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 26 av 30 
+6
+Vurdering av snøskred  
+NVEs veileder for skredfareutrening [1] gir at hvis det i kartleggings- eller påvirkningsområdet finnes 
+skråninger brattere enn 25 grader, og at årlig maks snøhøyde er større enn 0,2m, så skal faren for 
+snøskred utredes. 
+Som vist i Tabell 1 og Figur 7 er det i hovedsak identifisert løsneområder for snøskred langs to 
+terrengbelter; i et i nedre del av fjellsiden (50-150 moh.) og et i øvre del av fjellsiden (250-500 
+moh.)  
+Terrengforholdene i de øvre løsneområdene varierer mellom åpne flanker opp mot toppryggen av 
+Blåfjellet i sørlige områder, og flanker med ovenforliggende renner i nordlige områder. 
+Løsneområdene her er store med maks ruhet anslått til mellom ca. 1-1,5 m. I nedre del av de øvre 
+løsneområdene finnes også løsneområder representert som mindre avløste 
+enkeltheng/forsenkninger som forventes å bli trigget av ovenforliggende løsneområder. Ruheten 
+her er anslått til ca. 1 m. 
+Terrengforholdene i nedre del av fjellsiden bærer preg av dalformasjoner med varierende bratthet. 
+Endring mellom konvekse og konkave terrengformer danner skrenter og rygger og gir oppdeling av 
+løsneområdene. Løsneområdene her er mindre enn i øvre del av fjellsiden. Maks ruhet anslått til 
+mellom ca. 1-1,5 m. 
+Basert på klimaanalyse, løsneområdenes plassering, fordeling, ruhet og form, samt forventet 
+mektighet på snø i løsneområder, anses årlig nominell sannsynlighet for at utløsning av snøskred i 
+et av de øvre løsneområdene vil kunne gi bruddforplantning over større deler av fjellsiden med 
+påfølgende utløsning av nedre løsneområder som større enn 1/1000 (>1/1000). 
+Utløpsanalyse beregnet med RAMMS gir at faste skredmasser vil kunne nå kartleggingsområdet, se 
+Figur 9. 
+Store flakskred fra høyereliggende terreng kan bygge opp stor nok energi til å føre til skredvind ut 
+over fjorden. Beregninger med den topografisk/statistiske (empiriske) modellen alfa-beta, gir at 
+skredvind vil kunne gå ca. 95 m (1std) lengre ut enn faste skredmasser. 
+Legges dette til på utløpslengder beregnet med RAMMS får vi et utløp på skredvind som vist med 
+grønn linje i Figur 9. 
+I tillegg til kombinasjonen av dynamisk og empirisk for modellering av skredvind som forklart over 
+er det gjort ren dynamisk modellering av skredvind med RAMMS Extended programvaren. RAMMS 
+Extended har funksjonalitet for å beregne trykk fra både fastmasser og skredvind. Resultatene fra 
+beregningen vises i Figur 10. Beregningen med RAMMS Extended viser at skredvind vil nå 
+kartleggingsområdet.  
+Oppsummert gir dynamiske modeller (RAMMS og RAMMS Extended) og empiriske modeller 
+(Alfabeta), samt kombinasjon av disse, at snøskred (faste masser) og skredvind vil kunne nå 
+kartleggingsområdet.  
+Det kan ikke utelukkes at snøskred kan føre til bølgedannelse i fjorden. Det finnes generelt lite 
+erfaring med utløp av snøskred på vann. Det er derfor store usikkerheter både når det gjelder 
+modelleringsresultater og hvordan eventuelle skredbølger kan bygges opp og transporteres. Ofte er 
+fokus på såkalte oppskyllingshøyder når eventuelle bølger når land (på motsatt side av fjorden), 
+samt skader fra disse. Erfaring fra tidligere skredhendelser mot oppdrettsanlegg, er at store 
+snøskred fra høye fjellsider har forårsaket skader på oppdrettsanlegg, gjennom opphopning av snø- 
+og ismasser på oppdrettsanleggene (ref. skredhendelse i Ellingsen Seafood i Tysfjord 2014, og Grieg 
+Seafoods på Stjernøya i Altafjorden 2018 og 2021). 
+Energioverføringen fra skred til bevegelse i vann skjer i det et skred treffer vannflaten. Det vil 
+genereres en form for tyngdebølge som normalt opptrer som dønning ute på havet. Skredmasser er 
+simulert (simulering 2) til å gå ned i strandsonen og ca. 340 m ut over sjøen (ca. 265 m inn i 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 27 av 30 
+kartleggingsområdet). Største tykkelse på ansamling av rasmasser på sjø like ved land er på ca. 8,5 
+m mektighet. Simuleringen viser også at rasmassene vil treffe sjøen med en hastighet på ca. 32 m/s. 
+Batymetriske kart viser at vanndybden der den største rasfronten er ventet å treffe 
+kartleggingsområdet er ca. 15 m. Kartleggingsområdet er her ca. 70 m fra land. Høyden på bølgene 
+som skapes vil være avhengig av hastighet, tetthet og volum på rasmassene, og er derfor vanskelig 
+å anslå uten ytterligere beregninger. Dette fordi energien av rasmassene i et skred også vil være 
+fordelt i vannmassene mot dypet [6].  
+Nominelle årlige sannsynlighet for at snøskred (inkl. skredvind) skal gi skader av betydning, det vil si 
+med en intensitet som kan medføre fare for liv og helse eller større materielle skader mot 
+kartleggingsområdet, vurderes til å være mindre enn 1/1000 for ytre del av kartleggingsområdet. 
+Men pga. faktorer nevnt over, er nominelle årlige sannsynlighet for at snøskred (inkl. bølger og 
+skredvind) skal gi skader av betydning for en sone nærmest land satt til større enn 1/1000. 
+Et tiltak som kan vurderes for å redusere sannsynligheten for at snøskred, skredvind eller genererte 
+bølger skal ramme anlegget kan være å flytte lokaliteten for å oppnå større avstand.  
+ 
+7
+Faresonekart 
+Utbredelsen av faresonen er vurdert på følgende grunnlag: 
+-
+Observasjoner fra feltarbeidet og faglig skjønn. 
+-
+Identifisering av potensielle løsneområder for de aktuelle skredtypene basert på topografi, 
+vegetasjon og klima. 
+-
+Modellering og beregninger av teoretiske skredutløp.  
+Faresonen i Figur 11 representerer sannsynlighet for utløp av snøskred med årlig nominell 
+sannsynlighet for hendelser oftere enn hvert 1000 år (>1/1000). Sekundæreffekt av eventuelle 
+skred (bl.a. bølger, oppstuving av is og snø, skredvind fra snøskred) er inkludert i 1/1000 faresonen. 
+Dagens vegetasjon- og klimaforhold er lagt til grunn for utarbeidelse av faresoner. 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 28 av 30 
+ 
+ 
+Figur 11. Faresonekart for skredtypen snøskred mot kartleggingsområdet. 
+ 
+ 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 29 av 30 
+8
+Konklusjon 
+Feltarbeid, analyser og tilhørende vurderinger viser at nominell sannsynligheten for snøskredskader 
+av betydning, det vil si snøskred med en intensitet som kan medføre fare for liv og helse eller større 
+materielle skader mot kartleggingsområdet, er mindre enn 1/1000 for ytre del av 
+kartleggingsområdet og høyere enn 1/1000 for indre del av kartleggingsområdet, merket med 
+oransje farge i Figur 11. 
+Et tiltak som kan vurderes for å redusere sannsynligheten for at snøskred skal ramme anlegget kan 
+være å flytte lokaliteten lengre ut fra land for å oppnå større avstand til fremtidige snøskred, 
+skredvind og genererte bølger.  
+Det bemerkes at det ifm. denne snøskredutredningen ble tatt utgangspunkt i terreng-, klima- og 
+vegetasjonsforholdene som var aktuelle på utredningstidspunktet. 
+ 
+ 
+Snøskredvurdering Fiskeoppdrett Sessøya 
+ 
+multiconsult.no 
+Snøskredutredning 
+ 
+10256462-RIGberg-NOT-001_rev_01 
+19. april 2024 / Revisjon 01 
+Side 30 av 30 
+Referanser 
+[1] 
+Norges vassdrags- og energidirektorat, “Veileder for utredning av sikkerhet mot 
+skred i bratt terreng - Utredning av skredfare i reguleringsplan og byggesak.” 
+Accessed: Nov. 09, 2022. [Online]. Available: 
+https://www.nve.no/skredfarekartlegging/ 
+[2] 
+“NVEs oversikt over utførte utredninger av skredfare i bratt terreng i Norge,” 
+https://nve.maps.arcgis.com/apps/webappviewer/index.html?id=324fef546d5c45fe8
+6482f69496b5f7e. 
+[3] 
+NVE, “Varsom SeNorge.” Accessed: Nov. 16, 2023. [Online]. Available: 
+https://www.senorge.no/ 
+[4] 
+NVE, “Nettbasert verktøy for klimaanalyser.” Accessed: Nov. 13, 2023. [Online]. 
+Available: https://nve-av-klima.azurewebsites.net/ 
+[5] 
+A. V. Dyrrdal, I. Brox Nilsen, S. Mayer, and H. O. Hygen, “Norsk Klimaservicesenter.” 
+[Online]. Available: www.klimaservicesenter.no 
+[6] 
+G. Zitti, C. Ancey, M. Postacchini, and M. Brocchini, “Impulse waves generated by 
+snow avalanches: Momentum and energy transfer to a water body,” J Geophys Res 
+Earth Surf, vol. 121, no. 12, pp. 2399–2423, Dec. 2016, doi: 10.1002/2016JF003891.

@@ -1,0 +1,269 @@
+﻿Risikoanalyse- Inntak av smittestoff via sjøvannsinntak, settefiskanlegg 
+Oppdrag 
+I forbindelse med biosikkerhetsplan er det ønskelig med en analyse av risikoen for at det skal 
+kunne tas inn smittestoff via sjøvannsinntaket som kan overføres til fisken i anlegget og utløse 
+sykdom på fisken i ulike avdelinger. Vi gjør oppmerksom på at risikovurderingene vil variere noe ut 
+ifra hvilken parasitt-, bakterie- eller virustype som legges til grunn for vurderingen. Dette er blant 
+annet avhengig av organismens egenskaper knyttet til dets motstandsdyktighet mot ulike 
+desinfeksjonsmidler, forekomst og overlevelse i sjøvann. I denne risikoanalysen er det 
+smittebarrierenes generelle effekt på patogener som kan føres inn i anlegget via sjøvannsinntaket 
+som vurderes. For risikoen knyttet til hvert enkelt patogen, vises det til de patogenspesifikke 
+risikovurderingene. I forbindelse med utvidelse av Hall H er inntakspunkt for sjøvann endret og det 
+er installert ny rensestasjon for sjøvanns- og ferskvannsinntak. 
+ 
+Risikomatrise DNV AS 
+ 
+5 
+ 
+10 
+ 
+15 
+ 
+20 
+ 
+25 
+     
+ 4 
+ 
+8 
+ 
+12 
+ 
+16 
+ 
+20 
+ 
+3 
+ 
+6 
+ 
+9 
+ 
+12 
+ 
+15 
+ 
+2 
+ 
+4 
+ 
+6 
+ 
+8 
+ 
+10 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+>12 
+ 
+Kritisk 
+ 
+6-12 
+ 
+Betydelig 
+ 
+<6 
+ 
+Ubetydelig
+Sannsynlighetsmodell  
+Nivå 
+Sannsynlighet 
+1 
+>10 år 
+2 
+5-10 år 
+3 
+2-5 år 
+4 
+0,5-2 år 
+5 
+< 0,5 år 
+ 
+Konsekvensmodell 
+ 
+Nivå 
+Beskrivelse 
+1 
+Ubetydelig 
+Ubetydelige skader eller 
+belastninger på mennesker, fisk 
+og/eller materielle verdier 
+2 
+Mindre alvorlig 
+Små skader eller belastninger på 
+mennesker, fisk og/eller 
+materielle verdier
+3 
+Alvorlig 
+Alvorlige skader og belastninger 
+på mennesker, fisk og/eller 
+materielle verdier
+4 
+Kritisk 
+Kritiske skader på mennesker, 
+fisk og/eller materielle verdier
+5 
+Katastrofal 
+Katastrofal skade eller 
+belastning på mennesker, fisk 
+og/eller materielle verdier
+ 
+Aktuell vurdering: 
+Risikofaktorer 
+Ønsket 
+beskyttel
+sesnivå 
+Sannsynlig
+het 
+Konsekvens 
+Risiko 
+Risikohåndtering 
+Overføring av smitte 
+gjennom sjøvannsinntak 
+ 
+> 5-10 år 
+ (2) 
+Alvorlig  
+(3) 
+6 
+1) Behandling av 
+sjøvann med filtrering 
+2) Behandling av 
+sjøvann med UV 
+3) Overvåkning av 
+agensforekomst i 
+akvakulturanlegget 
+5) Regelmessig 
+grundig nedvask av 
+avdelinger i anlegget  
+ 
+ 
+ 
+Bakgrunnsdata aktuelle agens 
+Følgende agens antas å være aktuelle i forhold til opptak via sjøvannsinntak; HPR0, HPR-deletert 
+(ILA), PRV (HSMB), PMCV (CMS), Moritella viscosa, Tenacibaculum finnmarkense og Aliivibrio 
+wodanis. 
+Når det gjelder bakteriene som forårsaker sårproblematikk ved bruk av sjøvann har en opplevd økt 
+forekomst av sårutfordringer over 20 promille og ved lave temperaturer under 7 grader. Sisomar 
+produserer smolt og postsmolt på 12 grader ved bruken av 15 promille, hvor det er mulighet til å 
+redusere promille ytterligere ved behov. Basert på tidligere erfaringer vil ikke bakteriene trives og 
+kunne forårsake utbrudd av sykdom ved disse forholdene. Det er derfor ikke etablert egne 
+risikovurderinger på disse.  
+UV som skal installeres på inntaksvann har en stråledose på 27-30 mJ/cm2. Dette er en dose som 
+tar knekkene på mange agens som ILAV, yersinia og en rekke bakterier (se tabell under). Dosen vil 
+derimot ikke være sterk nok til å ta knekken på agens som PRV, AGD og SAV. Siden SAV ikke 
+forekommer i Nordland vurderes smitterisiko for dette agensen som usannsynlig. AGD krever en 
+høyrere promille for å forårsake problemer og det er ikke funnet hensiktsmessig på etablere egne 
+risikovurderinger for disse to agensene.  
+Vi viser til egen risikovurdering for ILAV, siden dette er en alvorlig listeført sykdom, samt PRV, 
+siden sannsynlighet for påvisning av HSMB ikke er ubetydelig.  
+Fiskepatogen
+UV-dose
+Virkning
+Referanse
+ILAV
+7,7 mJ/cm2
+99,9 %
+IPN
+246 mJ/cm2
+99,9 %
+BKD
+60 mJ/cm2
+PMCV
+Yersinia Ruckeri
+5,0 mJ/cm2
+99,999 %
+Litvedt and Landfald 1996
+Branchiomonas Cysticola
+SGPV (Pox)
+PRV (HSMB)
+50,0 mJ/cm2
+99,9 %
+Wesselet al. 2020
+SAV (PD)
+25,0 mJ/cm2
+99,9 %
+Aeromonas Salmonicida 
+subsp. (Furunkulose) 
+3,1 mJ/cm2
+99,999 %
+Litvedt and Landfald 1996
+VHSV
+1,8 mJ/cm2
+99,9 %
+IHNV
+4,0 mJ/cm2
+99,9 %
+AGD (Gjelleamøbesykdom)
+48,0 mJ/cm2
+Vibrio anguillarum 
+(Vibriose) 
+2,7 mJ/cm2
+99,999 %
+Vibrio salmonicida 
+(Kaldtvannsvibriose) 
+2,7 mJ/cm2
+99,999 %
+Chlorella vulgaris
+22 mJ/cm2
+Listeria monocytogenes
+16 mJ/cm2
+99,999 %
+Pseudomonas fluorescens
+11 mJ/cm2
+99,9 %
+Flavobacterium 
+psychrophilum 
+126 mJ/cm2
+Saprolegnia
+40-170 mJ/cm2
+Costia
+318 mJ/cm2
+99,9 %
+Trichodina
+35 mJ/cm2
+99,9 %
+Log -1= 90 %     Log -2= 99% Log -3 = 99,9 %  Log -4 = 99,99%  Log -5 = 99,999 % 
+ 
+Konklusjon 
+ 
+har lagt opp til en inntaksbehandling av sjøvannet som vurderes til begrenset beskyttelse da UV-
+dose er satt til 27-30 mJ/cm2. Dette er en dose som inaktiverer flere alvorlige smittsomme 
+sykdommer, men vil ikke ta knekken på alle. Sjøvannet blir grov- og finfiltrert før det blir behandlet 
+videre. Selve forbehandling med 30 mikron vil gjøre vannet betydelig klarere og fri for partikler 
+som kan påvirke UV-behandlingen negativt. UV-behandlingen opprettholder krav i forhold til 
+forskrift.  
+ 
+Totalt sett vurderer DNV risikoen for at det skal kunne tas inn smittestoff fra sjøvannskilden som 
+liten for majoriteten av smittsomme sykdommer som skaper utfordringer hos oppdrettsfisk da det 
+er langt til nærmeste akvakulturvirksomheter og UV vil inaktiver majoriteten av kjente virus- og 
+bakteriesykdommer.  
+ 
+Hvis noen patogener allikevel skulle trenge gjennom barrierene er det avgjørende at slike blir 
+oppdaget så tidlig som mulig gjennom overvåkningsprogrammet og at man kan igangsette tiltak 
+som vask og desinfeksjon for å fjerne patogenet. Sammenlignet med resirkuleringsanlegg er det 
+mindre sannsynlig at det utvikles husstammer hvis smittsom sykdom kommer inn i anlegget, da 
+det er lettere å få gjennomført fullstendig rengjøring av avdelinger. Sisomar har utviklet gode 
+rutiner for overvåkning av fiskegrupper og nedvask av alle avdelinger mellom fiskegrupper 
+ 
+ 
+Iris Jenssen 
+Fiskehelsebiolog 
+DNV Aquaculture and Ocean Health AS

@@ -1,0 +1,2484 @@
+﻿Strømrapport  
+ 
+Måling av bunnstrøm ved 
+ 
+Vevelstad Settefisk i 
+ 
+januar - mars 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 2 av 43 
+Rapport 
+Rapportbeskrivelse 
+og -navn 
+Vurdering av strømforhold ved Vevelstad Settefisk. 
+SR-AI-Vevelstad Settefisk-103951-01-001.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+26.04.22 
+Første utgivelse 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten 
+kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde 
+oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Vevelstad Settefisk 
+Lokalitetsnummer 
+ny 
+Kommune  
+Vevelstad 
+Fylke 
+Nordland 
+Oppdragsgiver 
+Selskap 
+Aquaculture Innovation AS; Næringshagen Toft, Toftveien 80, 8900 
+BRØNNØYSUND, NORGE 
+Kontaktperson 
+Ole Aas Skålnes 
+ole.skalnes@torgnes.no 
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+Organisasjonsnummer: 916 763 816 
+Feltarbeidsansvarlig 
+Nils Mo 
+nils.mo@akerbla.no 
+Rapportansvarlig         Astri Horge Glindø 
+astri.glindo@akerbla.no 
+Kontrollert av   
+Øystein Breiteig 
+oystein.breiteig@akerbla.no 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+Resultat nøkkeltall 
+Måledyp 
+Bunn (31m) 
+Maksimal strøm (cm/s) (retning) 
+32.8 (NØ) 
+Gjennomsnittlig strøm (cm/s) 
+7.1 
+Strømstyrke < 1cm/s (%) 
+1.9 
+Strømstyrke < 3cm/s (%) 
+14.6 
+Strømstyrke < 10cm/s (%) 
+73.4 
+Strømstyrke ≥ 30cm/s (%) 
+0.03 
+Strømstyrke ≥ 50cm/s (%) 
+0.0 
+Neumann-parameter 
+0.2 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 3 av 43 
+Innholdsfortegnelse 
+ 
+1. 
+Forord .......................................................................................................................................... 5 
+2. 
+Områdebeskrivelse ..................................................................................................................... 6 
+3. 
+Metodikk ...................................................................................................................................... 7 
+4. 
+Resultater ................................................................................................................................... 10 
+4.1 
+Sammendrag av strømdata .............................................................................................. 10 
+4.2 
+Strømroser ....................................................................................................................... 11 
+4.3 
+Matrise med strømhastighet og -retning ......................................................................... 12 
+4.4 
+Strømmens hastighetsfordeling ....................................................................................... 13 
+4.5 
+Strømmens retningsfordeling .......................................................................................... 13 
+4.6 
+Tidsdiagram – Strømhastighet ........................................................................................ 14 
+4.7 
+Tidsdiagram – Strømretning ........................................................................................... 14 
+4.8 
+Tidsdiagram – Temperatur .............................................................................................. 15 
+4.9 
+Progressivt vektordiagram .............................................................................................. 16 
+4.10 
+Fordelingsdiagram – Maksimal strømhastighet .............................................................. 17 
+4.11 
+Fordelingsdiagram – Gjennomsnittshastighet ................................................................. 17 
+4.12 
+Fordelingsdiagram – Relativ vannfluks .......................................................................... 18 
+4.13 
+Fordelingsdiagram – Antall observasjoner ..................................................................... 19 
+4.14 
+Strømhastighetsprofil ...................................................................................................... 20 
+4.15 
+Maksimal strømhastighet i 8 retningssektorer ................................................................ 21 
+4.16 
+Gjennomsnittlig strømhastighet i 8 retningssektorer ...................................................... 21 
+4.17 
+Antall målinger i 8 retningssektorer ................................................................................ 21 
+4.18 
+Relativ vannutskiftning i 8 retningssektorer ................................................................... 21 
+4.19 
+Persentilfordeling av strømhastighet ............................................................................... 22 
+4.20 
+Prosentfordeling av strømhastighet ................................................................................. 22 
+4.21 
+Strømfordeling ................................................................................................................ 23 
+4.22 
+Strømvarighet .................................................................................................................. 24 
+4.23 
+Tidevannsanalyse ............................................................................................................ 25 
+4.24 
+CTD-profil....................................................................................................................... 27 
+5. 
+Diskusjon ................................................................................................................................... 28 
+5.1 
+Høye strømmålinger ........................................................................................................ 28 
+5.2 
+Tidevannspåvirkning ....................................................................................................... 28 
+5.3 
+Vannutskiftning ............................................................................................................... 28 
+5.4 
+Mulig spredning av utslipp.............................................................................................. 29 
+5.5 
+Vannsøylens vertikale struktur ........................................................................................ 29 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 4 av 43 
+6. 
+Vedlegg – Bakgrunnsinformasjon ........................................................................................... 30 
+6.1 
+Valg av sted, dyp og periode for strømmålinger ............................................................. 30 
+6.2 
+Spesifikasjoner for strøminstrumenter ............................................................................ 31 
+6.3 
+Måleprinsipp for strømmålinger ..................................................................................... 32 
+6.4 
+CTD-målinger ................................................................................................................. 32 
+7. 
+Vedlegg – Riggoppsett .............................................................................................................. 33 
+7.1 
+Riggoppsett ..................................................................................................................... 33 
+8. 
+Vedlegg – Databearbeiding og kvalitetssikring ...................................................................... 34 
+8.1 
+Databearbeiding .............................................................................................................. 34 
+8.2 
+Kvalitetssikring av data ................................................................................................... 36 
+8.3 
+Fjernede dataverdier ........................................................................................................ 38 
+8.3.1 
+Måleperiode ............................................................................................................... 38 
+8.3.2 
+Enkelte datapunkter.................................................................................................... 38 
+9. 
+Vedlegg – Strømmens tilstandsklasser .................................................................................... 39 
+10. Vedlegg – Månedlige tidevannsvariasjoner ............................................................................ 40 
+11. Vedlegg – Måleenheter ............................................................................................................. 41 
+12. Vedlegg – Parametere og beskrivelse ...................................................................................... 42 
+13. Vedlegg – Referanser ................................................................................................................ 43 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 5 av 43 
+1. Forord 
+ 
+Åkerblå AS har på oppdrag fra Aquaculture Innovation AS utført strømmålinger ved planlagt 
+utslippspunkt fra Vevelstad Settefisk som er vurdert etter beliggenhet, strømforhold, temperatur, 
+vannutskiftning og tidevann. 
+ 
+Resultatene fra undersøkelsen gjelder for gitt målepunkt og på gitt tidspunkt og vurderingen av 
+strømforhold over området er gjort på bakgrunn av resultatene. 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 6 av 43 
+2. Områdebeskrivelse 
+ 
+Målepunktet for Vevelstad Settefisk ligger i Vevelstad kommune, Nordland (Figur 2.1). Vevelstad 
+Settefisk ligger i åpningen til Velfjorden, sør for Vevelstadsundet. Plasseringen åpen mot 
+Vegafjorden i sørvest og mot Mindværfjorden i nordvest. Vest for lokaliteten ligger Buøya.  
+ 
+Det er ca. 37m dypt ved målepunktet. Nordøst for måleposisjonen er det en grunne som er orientert 
+N – S. Dypet øker mot sørvest til over 100m ved terskelen til Velfjorden.  
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonen, anvist med rød pinne. Kartet er hentet 
+fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 7 av 43 
+3. Metodikk 
+ 
+Strømmålinger er kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter 
+som ble benyttet er oppgitt i Tabell 3.1.  
+ 
+Måleposisjonen er plassert ved planlagt utslippspunkt for Vevelstad Settefisk (Figur 3.1 – Figur 3.2).  
+ 
+Tabell 3.1. Bakgrunnsinformasjon om strømmåling.  
+Måledyp 
+Bunn (31m) 
+Posisjonsanvisning 
+ 
+Posisjon 
+65° 36.799' N; 012° 20.438' Ø 
+Dyp på målested 
+37m 
+Instrumenttype 
+Nortek profiler 
+Måleperiode 
+27.01.22 - 21.03.22 
+Måleintervall 
+10 minutter 
+Antall døgn 
+49.1 / 53.2 
+Fjernede datapunkt 
+579 
+Manglende datapunkt 
+0 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 8 av 43 
+ 
+Figur 3.1. Plassering av strømmåler i området anvist med gult kryss. Kompasspila øverst i venstre 
+hjørne indikerer kartenes orientering. Kartene er hentet fra Olex. Kartdatum: WGS84.  
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 9 av 43 
+ 
+Figur 3.2. 3D-bilde av bunntopografi i området. Den tynne kompasspila øverst i venstre hjørne 
+indikerer kartets orientering (øverste bilde) og den tykke kompasspila indikerer kameraets 
+orientering (midterste og nederste bilde). De små bildene viser kameraets utsiktspunkt for den 
+tilhørende bunntopografien. Kartene er hentet fra Olex. Kartdatum: WGS84.   
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 10 av 43 
+4. Resultater  
+ 
+4.1 
+Sammendrag av strømdata 
+ 
+Resultater per måledyp for hele måleperioden er sammenfattet i Tabell 4.1.1. Verdiene er klassifisert 
+(fargelagt) etter: «Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er 
+forklart i «Vedlegg – Parametere og beskrivelse». 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra bunndyp (31m). 
+Måledyp 
+Instrument (34m) 
+Sjøtemperatur (°C) 
+3.8 - 5.9 
+Strømhastighet 
+Bunn (31m) 
+Maksimum (cm/s) 
+32.8 
+Gjennomsnitt (cm/s) 
+7.1 
+Minimum (cm/s) 
+0.0 
+Signifikant maks (cm/s) 
+12.0 
+Signifikant min (cm/s) 
+3.0 
+Varians (cm/s)² 
+19.1 
+Standardavvik (cm/s) 
+4.4 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+1.9 
+Lengste periode < 1cm/s (min) 
+20 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+14.6 
+Lengste periode < 3cm/s (min) 
+100 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+73.4 
+Lengste periode < 10cm/s (min) 
+1190 
+% ≥ 30cm/s 
+0.03 
+Lengste periode ≥ 30cm/s (min) 
+10 
+% ≥ 50cm/s 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+1.6 
+Retning (grader) 
+67 
+Neumann-parameter 
+0.2 
+Gjennomsnittlig vannforflytning (m³/m²/d) 
+6104 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 11 av 43 
+4.2 
+Strømroser 
+ 
+Strømrosene viser strømhastighet og -retning under hele måleperioden. Strømrosene viser hvor stor 
+andel av målingene som er registrert for hver 10º-sektor, vist som prosentandel i figurene, og hvilken 
+strømhastighetsklasse som er registrert i de ulike sektorene. Strømroser gir en indikasjon på om 
+strømmen har en dominerende retning eller ikke. 
+ 
+Bunn (31m) 
+ 
+Figur 4.2.1. Strømrose på bunndyp (31m). 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 12 av 43 
+4.3 
+Matrise med strømhastighet og -retning 
+ 
+Strømretninger er fordelt i 15º-sektorer (sektorene er vist i venstre kolonne). Den nederste linjen 
+viser den prosentvise fordelingen av de registrerte strømhastighetene. Kolonnen til høyre viser den 
+prosentvise fordelingen i de ulike 15º-sektorene og antall kubikkmeter vann som i måleperioden vil 
+passere et tenkt vindu på 1x1 meter i den aktuelle strømretningen. Kolonnen til høyre viser også 
+maksimal strømhastighet i hver 15º-sektor.    
+ 
+Hastighetsfordeling er ≥ (lavest verdi) og < (høyest verdi) i oppgitt hastighetsrekkevidde. 
+ 
+Tabell 4.3.1. Hastighets- og retningsmatrise av strømdata fra bunndyp (31m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-15 15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+7 
+30 
+67 
+116 
+55 
+33 
+11 
+2 
+0 
+0 
+0 
+0 
+0 
+321 
+4.5 
+16028 
+5.3 
+27.1 
+N 
+15 
+3 
+43 
+57 
+143 
+73 
+46 
+15 
+2 
+0 
+0 
+0 
+0 
+0 
+382 
+5.4 
+20793 
+6.9 
+29.3 
+NØ 
+30 
+7 
+34 
+54 
+123 
+69 
+33 
+18 
+4 
+0 
+0 
+0 
+0 
+0 
+342 
+4.8 
+18621 
+6.2 
+29.3 
+NØ 
+45 
+7 
+43 
+84 
+140 
+83 
+43 
+15 
+0 
+1 
+0 
+0 
+0 
+0 
+416 
+5.9 
+21421 
+7.1 
+30.3 
+NØ 
+60 
+7 
+46 
+61 
+151 
+68 
+33 
+10 
+3 
+1 
+0 
+0 
+0 
+0 
+380 
+5.4 
+19059 
+6.4 
+32.8 
+Ø 
+75 
+6 
+36 
+54 
+157 
+75 
+30 
+14 
+1 
+0 
+0 
+0 
+0 
+0 
+373 
+5.3 
+18996 
+6.3 
+26.1 
+Ø 
+90 
+7 
+39 
+58 
+148 
+66 
+17 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+340 
+4.8 
+15631 
+5.2 
+25.1 
+Ø 
+105 
+8 
+43 
+59 
+146 
+51 
+8 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+316 
+4.5 
+12945 
+4.3 
+25.5 
+SØ 
+120 
+6 
+37 
+71 
+153 
+49 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+320 
+4.5 
+12817 
+4.3 
+23.7 
+SØ 
+135 
+6 
+47 
+71 
+142 
+39 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+311 
+4.4 
+11869 
+4.0 
+20.4 
+SØ 
+150 
+9 
+58 
+78 
+149 
+43 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+349 
+4.9 
+13420 
+4.5 
+19.8 
+S 
+165 
+4 
+40 
+74 
+157 
+37 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+321 
+4.5 
+12817 
+4.3 
+19.8 
+S 
+180 
+10 
+39 
+83 
+149 
+44 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+330 
+4.7 
+12630 
+4.2 
+20.5 
+S 
+195 
+3 
+44 
+66 
+145 
+38 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+299 
+4.2 
+11324 
+3.8 
+15.4 
+SV 
+210 
+6 
+39 
+62 
+123 
+26 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+259 
+3.7 
+9437 
+3.1 
+18.5 
+SV 
+225 
+6 
+38 
+71 
+93 
+24 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+233 
+3.3 
+7765 
+2.6 
+15.2 
+SV 
+240 
+6 
+38 
+55 
+100 
+10 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+212 
+3.0 
+7231 
+2.4 
+17.0 
+V 
+255 
+10 
+39 
+54 
+98 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+216 
+3.1 
+7072 
+2.4 
+14.6 
+V 
+270 
+7 
+46 
+69 
+82 
+18 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+224 
+3.2 
+7094 
+2.4 
+16.4 
+V 
+285 
+4 
+38 
+52 
+98 
+25 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+221 
+3.1 
+7969 
+2.7 
+18.9 
+NV 
+300 
+4 
+34 
+48 
+79 
+23 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+189 
+2.7 
+6677 
+2.2 
+16.2 
+NV 
+315 
+3 
+44 
+57 
+95 
+36 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+236 
+3.3 
+8658 
+2.9 
+17.8 
+NV 
+330 
+5 
+43 
+49 
+94 
+23 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+218 
+3.1 
+7846 
+2.6 
+18.3 
+N 
+345 
+4 
+38 
+46 
+113 
+50 
+13 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+267 
+3.8 
+11830 
+3.9 
+23.7 
+Antall obs. 
+145 
+976 
+1500 
+2994 
+1040 
+311 
+93 
+14 
+2 
+0 
+0 
+0 
+0 
+7076 
+100 
+0 
+0 
+0 
+% 
+2.0 
+13.8 
+21.2 
+42.3 
+14.7 
+4.4 
+1.3 
+0.2 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 13 av 43 
+4.4 
+Strømmens hastighetsfordeling 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning er oppgitt under. 
+ 
+ 
+ 
+Figur 4.4.1. Strømmens hastighetsfordeling på bunndyp (31m). Antall observasjoner er indikert på 
+stående akse og hastighetsgruppe på liggende akse. 
+ 
+4.5 
+Strømmens retningsfordeling 
+ 
+Strømmens retning fordelt i 15º-sektorer er oppgitt under. 
+ 
+ 
+ 
+Figur 4.5.1. Strømmens retningsfordeling på bunndyp (31m). Antall observasjoner er indikert på 
+stående akse og 15º-sektorer på liggende akse. 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 14 av 43 
+4.6 
+Tidsdiagram – Strømhastighet 
+ 
+Strømmens hastighet under måleperioden er oppgitt under. 
+ 
+ 
+ 
+Figur 4.6.1. Tidsdiagram av strømhastighet på bunndyp (31m). Strømhastighet er indikert på stående 
+akse og tid på liggende akse. 
+ 
+4.7 
+Tidsdiagram – Strømretning  
+ 
+Strømmens retning under måleperiode er oppgitt under. 
+ 
+ 
+ 
+Figur 4.7.1. Tidsdiagram av strømretning på bunndyp (31m). Strømretning på stående akse og tid på 
+liggende akse. 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 15 av 43 
+4.8 
+Tidsdiagram – Temperatur 
+ 
+Temperatur under måleperioden er oppgitt under. 
+ 
+ 
+ 
+Figur 4.8.1. Tidsdiagram av temperatur på instrumentdyp (34m). Temperatur er indikert på stående 
+akse og tid på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 16 av 43 
+4.9 
+Progressivt vektordiagram 
+ 
+Et progressivt vektordiagram viser hvor langt og hvordan en tenkt merket vannpartikkel som 
+befinner seg i strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperioden (Figur 
+4.9.1). Dette gir en indikasjon på vannutskiftning under måleperioden. 
+ 
+ 
+Figur 4.9.1. Progressivt vektordiagram for strøm på bunndyp (31m). 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 17 av 43 
+4.10 Fordelingsdiagram – Maksimal strømhastighet 
+ 
+Bunn (31m) 
+ 
+Figur 4.10.1. Fordelingsdiagram av maksimal strømhastighet (cm/s) for hver 15º-sektor på bunndyp 
+(31m) i løpet av måleperioden. 
+ 
+4.11 Fordelingsdiagram – Gjennomsnittshastighet 
+ 
+Bunn (31m) 
+ 
+Figur 4.11.1. Fordelingsdiagram av gjennomsnittlig strømhastighet (cm/s) for hver 15º-sektor på 
+bunndyp (31m) i løpet av måleperioden. 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 18 av 43 
+4.12 Fordelingsdiagram – Relativ vannfluks 
+ 
+Figuren viser relativ vannfluks (%) i hver 15˚-sektor. Relativ vannfluks angir mengden vann som 
+strømmer gjennom en retningssektor. Total vannfluks er totalt volum vann som strømmer gjennom 
+alle sektorer i løpet av måleperioden. 
+ 
+Bunn (31m) 
+ 
+Figur 4.12.1. Fordelingsdiagram av relativ vannfluks (%) for hver 15º-sektor på bunndyp (31m) i 
+løpet av måleperioden. 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 19 av 43 
+4.13 Fordelingsdiagram – Antall observasjoner 
+ 
+Figuren viser hvor mange ganger strømretningen er observert i de ulike 15˚-sektorene i løpet av 
+måleperioden. 
+ 
+Bunn (31m) 
+ 
+Figur 4.13.1. Fordelingsdiagram av antall observasjoner for hver 15º-sektor på bunndyp (31m) i løpet 
+av måleperioden. 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 20 av 43 
+4.14 Strømhastighetsprofil  
+ 
+Figuren viser strømhastighet med dybde i løpet av måleperioden. Det er rådata som er vist i figuren under og kan dermed avvike fra kvalitetssikrede 
+resultater som er oppgitt i rapporten. 
+ 
+ 
+Figur 4.14.1. Strømhastighetsprofil målt av instrument på 34m dyp, pekende oppover. Dato er indikert på x-aksen, dyp på y-aksen og strømhastighet på 
+z-aksen. 
+ 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 21 av 43 
+4.15 Maksimal strømhastighet i 8 retningssektorer 
+Tabell 4.15.1. Maksimal strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Bunn (31m) 
+29.3 
+32.8 
+26.1 
+23.7 
+20.5 
+18.5 
+18.9 
+18.3 
+ 
+ 
+4.16 Gjennomsnittlig strømhastighet i 8 retningssektorer 
+Tabell 4.16.1. Gjennomsnittlig strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Bunn (31m) 
+8.3 
+8.7 
+7.7 
+6.5 
+6.5 
+5.8 
+5.6 
+6.0 
+ 
+ 
+4.17 Antall målinger i 8 retningssektorer 
+Tabell 4.17.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Bunn (31m) 
+970 
+1138 
+1029 
+980 
+950 
+704 
+661 
+643 
+ 
+ 
+4.18 Relativ vannutskiftning i 8 retningssektorer 
+Tabell 4.18.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Bunn (31m) 
+16.1 
+19.7 
+15.9 
+12.7 
+12.3 
+8.2 
+7.4 
+7.7 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 22 av 43 
+4.19 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt 
+strømhastighet (cm/s). 
+ 
+Tabell 4.19.1. Persentilfordeling av strømhastighet (cm/s) for hvert dyp.  
+Persentil 
+Bunn (31m) 
+1 
+0.7 
+10 
+2.4 
+20 
+3.4 
+30 
+4.4 
+40 
+5.2 
+50 
+6.2 
+60 
+7.3 
+70 
+8.5 
+80 
+10.2 
+90 
+12.9 
+95 
+15.5 
+99 
+21.1 
+ 
+4.20 Prosentfordeling av strømhastighet 
+ 
+Oppgitte verdier i tabellen under er rundet av til nærmeste desimaltall for verdier over 0.1%, mens 
+verdier mellom 0.1% og 0.01% er rundet av til to desimaltall. Lave verdier (< 0.01%) er oppgitt som 
+0.0%. 
+ 
+Tabell 4.20.1. Prosent (%) av data per dyp som er lik eller høyere enn oppgitt strømhastighet (cm/s).  
+Strømhastighet (cm/s) 
+Bunn (31m) 
+1 
+97.9 
+3 
+84.1 
+5 
+62.9 
+10 
+20.6 
+20 
+1.5 
+30 
+0.03 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 23 av 43 
+4.21 Strømfordeling 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike grupper av strømhastighet (cm/s), fordelt 
+i 8 retningssektorer. Strømhastighetsgruppene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. Oppgitte verdier er rundet av til 
+nærmeste desimaltall for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to 
+desimaltall. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.21.1. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(31m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.2 
+0.3 
+0.3 
+0.3 
+0.2 
+0.3 
+0.3 
+0.2 
+2.1 
+1-5 
+4.0 
+4.6 
+4.1 
+5.1 
+4.9 
+4.3 
+4.2 
+3.9 
+35.1 
+5-10 
+5.3 
+5.9 
+6.4 
+6.3 
+6.4 
+4.5 
+3.9 
+3.8 
+42.5 
+10-20 
+3.8 
+4.6 
+3.5 
+2.1 
+1.9 
+0.9 
+0.9 
+1.2 
+18.9 
+20-30 
+0.5 
+0.7 
+0.3 
+0.03 
+0.01 
+ 
+ 
+ 
+1.5 
+30-40 
+ 
+0.03 
+ 
+ 
+ 
+ 
+ 
+ 
+0.03 
+Sum 
+13.8 
+16.1 
+14.6 
+13.8 
+13.4 
+10.0 
+9.3 
+9.1 
+100.0 
+ 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 24 av 43 
+4.22 Strømvarighet 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike intervaller av strømhastighet (cm/s) med 
+forskjellig varighet. Strømhastighetsintervallene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. De ulike gruppene av varighet er 
+oppdelt på samme måte som strømhastighetsintervallene. Oppgitte verdier er rundet av til nærmeste 
+desimaltall for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to desimaltall. 
+Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.22.1. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på bunndyp (31m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+0.08 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1-5 
+13.7 
+8.0 
+2.7 
+0.5 
+ 
+ 
+ 
+ 
+5-10 
+18.3 
+8.9 
+2.6 
+0.2 
+ 
+ 
+ 
+ 
+10-20 
+6.3 
+3.9 
+2.0 
+ 
+ 
+ 
+ 
+ 
+20-30 
+0.7 
+0.06 
+ 
+ 
+ 
+ 
+ 
+ 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 25 av 43 
+4.23 Tidevannsanalyse 
+ 
+En tidevannsanalyse av strømdata er gjennomført for å vurdere hvor stor andel av det målte signalet 
+som er forårsaket av tidevannet. Tidevannsanalysen er utført ved bruk av analyseverktøyet U_Tide 
+(Codiga, 2011). 
+ 
+Tidevannsanalysen inkluderer alle separerbare tidevannskomponenter. Det er også foretatt en analyse 
+med fem separerbare tidevannskomponenter, M2 (12.42 timers periode), S2 (12.00 timers periode), 
+N2 (12.66 timers periode), O1 (25.82 timers periode) og K1 (23.93 timers periode), som benyttes i 
+forbindelse med tidevannstabeller. 
+ 
+Strøm er splittet i komponentene øst-vest (UEW) og nord-sør (VNS) for å vurdere spredning av 
+(variasjon i) strømdata på de forskjellige dypene (Emery & Thomson, 2001). Krysset markerer 
+gjennomsnittsverdien for hastighetskomponentene og reflekterer den effektive transporthastigheten 
+med tilhørende retning (Figur 4.23.1). Strømellipsens store halvakse (hovedakse) markerer retningen 
+der variasjonen er størst.  
+ 
+Tabell 4.23.1. Tidevannsbidrag til strøm og trykkendringer basert på tidevannsanalyse av strømdata 
+i timesverdier. 
+Måledyp 
+Bunn (31m) 
+Strøm (%) 
+26.7 
+Måledyp 
+Instrument (34m) 
+Trykk (%) 
+96.5 
+ 
+Tabell 4.23.2. Tidevannsbidrag til strøm og trykkendringer fra tidevannskomponentene M2, S2, N2, 
+O1 og K1. 
+Måledyp 
+Bunn (31m) 
+Strøm (%) 
+18.4 
+Måledyp 
+Instrument (34m) 
+Trykk (%) 
+96.0 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 26 av 43 
+ 
+Figur 4.23.1. UEW – VNS punktdiagram av strømdata i timesverdier, med tilhørende strømellipse. 
+Midtpunktet for strømellipsen er markert med kryss som også markerer strømmens effektive 
+transporthastighet. Vinklene indikerer den store halvaksens orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+ 
+Figur 4.23.2. UEW - VNS tidevannsellipse (fargede linjer) vist sammen med strømellipse (svarte linjer) 
+for Bunn (31m). Midtpunktet for strømellipsen er markert med kryss som også markerer den effektive 
+transporthastigheten. Vinklene indikerer de store halvaksenes orientering i forhold til nord/sør. 
+Aksekors for øst - vest og nord - sør er vist med stiplede linjer. 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 27 av 43 
+4.24 CTD-profil  
+ 
+CTD-profil ble målt i sammenheng med utsett (27.01.22) av strømmålere i samme posisjon som 
+strømriggen.  
+ 
+ 
+ 
+Figur 4.24.1. Vertikalprofiler av saltinnhold, temperatur, tetthet og oksygen. Dypet er oppgitt langs 
+y-aksen. 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 28 av 43 
+5. Diskusjon 
+ 
+Strømmen på Vevelstad Settefisk er mot flere retninger. Strømretning er ikke dominert av motsatt 
+rettede hovedstrømretninger siden strømmen skifter retning i løpet av perioden. Mest vannutskiftning 
+på 31m er mot NØ (19.7%) (Tabell 4.18.1). 
+ 
+5.1 
+Høye strømmålinger 
+ 
+Maksimal strømhastighet var 32.8cm/s mot NØ på bunndyp (31m). Maksstrømmen er langs retningen 
+med mest vannutskiftning og er vurdert som sterk på bunndyp (31m). Maksimalmålingen er bare én 
+måling og gir ikke en indikasjon av om strømmen er sterk eller svak i området. 
+ 
+Signifikant maksimal strømhastighet er gjennomsnittet av den høyeste tredjedelen av målingene og 
+gir en indikasjon av styrken på strømmen i området. Denne var 12.0cm/s på bunndyp (31m). 
+Signifikant maksimal strømhastighet er vurdert som sterk på bunndyp (31m). 
+ 
+Det var tilfeller der strøm var > 30cm/s på bunndyp (31m). Høy strømhastighet oppstår uregelmessig 
+på måleposisjonen, og varighet av disse i området er kort.   
+ 
+5.2 
+Tidevannspåvirkning 
+ 
+Tidevannssignalet dominerte ikke strømbildet under måleperioden (Tabell 4.23.1). Dette indikerer at 
+strømmen er påvirket av andre faktorer. 
+ 
+5.3 
+Vannutskiftning  
+ 
+Det er naturlig med strømstille når tidevannet skifter fra flo til fjære eller motsatt. Varigheten av 
+strømstille perioder kan ha betydning for vannutskiftning i et område. En høy Neumann parameter 
+(f.eks. 0.7) indikerer en retningsstabil strøm. Dette tyder på at vannet strømmer i en retning og beveger 
+seg konstant bort fra startpunktet. En lav Neumann-parameter kan bety at vannstrømmen har 
+skiftende retning og kanskje bare flyter fram og tilbake ved startpunktet. Neumann-parameteren kan 
+brukes opp mot progressivt vektordiagram og gjennomsnittsstrømmen for å kunne si noe om 
+vannutskiftningen ved det punktet hvor strømmen er målt.  
+ 
+Gjennomsnittlig strømhastighet var ≥ 2cm/s. Gjennomsnittlig strømhastighet er vurdert som sterk på 
+bunndyp (31m).  
+ 
+Neumann-parameteren er vurdert som middels stabil på bunndyp (31m). Vannutskiftningen er vurdert 
+som god (selv om Neumann-parameteren er middels stabil), fordi vannet stort sett beveger seg bort 
+fra startpunktet og ikke bare flyter fram og tilbake (Figur 4.9.1).  
+  
+Prosent nullmålinger (< 1cm/s) var mindre enn 10%. Lengst varighet for strøm < 1cm/s var 20 
+minutter på bunndyp (31m). Det var kort periode med strømstille. Dette tyder på god vannutskiftning.  
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 29 av 43 
+5.4 
+Mulig spredning av utslipp  
+ 
+Bunntopografi og strømningsforhold har også betydning for utskifting og nedbryting av 
+bunnsedimenter. En ujevn bunn eller en flat bunn med groper gir større risiko for opphopning av 
+sedimenter enn en jevnt skrånende bunn. 
+ 
+Dyp ved målepunkt var ca. 37m. Strømmålingsposisjonen ligger over en bunn som skråner nedover 
+mot S/SØ til ca. 435m midt i Velfjorden. Nordvest for målepunktet er det en forhøyning i 
+bunntopografien. Det er ingen store groper i området.  
+ 
+Det var kun få tilfeller der strøm var > 10cm/s på bunndyp (31m). 
+ 
+5.5 
+Vannsøylens vertikale struktur 
+ 
+Vannsøylens stabilitet har vesentlig betydning for sirkulasjon i området og mulighet for blanding 
+vertikalt. En stabil vannsøyle har økende tetthet med økende dyp. Lagdeling i vannsøylen (forårsaket 
+forskjellige grunner, for eksempel; ferskvannsavrenning, avkjøling/oppvarming av overflatevann, 
+utveksling av vann ved bunn med kystvann) påvirker spredning av utslipp både horisontalt og 
+vertikalt. 
+ 
+Temperatur under måleperioden var 3.8 - 5.9°C på instrumentdyp (34m). Temperaturen på 34m dyp 
+avtok i første halvdel av måleperioden og steg deretter tilsvarende igjen i andre halvdel. 
+ 
+CTD-målinger ved utsett viser at det var økende temperatur fra overflaten og ned til ca. 6m dyp. 
+Under 6m avtok temperaturen noe ned mot bunnen.  Saltinnholdet var ganske konstant fra overflaten 
+og ned til ca. 4m dyp, før den økte raskt ned til 6m dyp. Fra 6m dyp og ned til bunnen var det lite 
+endring i saltinnhold. Tetthetsdata gjenspeiler saltinnholdet og viser at vannsøylen var lagdelt i 
+dybdeintervallet 4m – 6m dyp. Oksygenmetningen ved utsett var høy (> 90%) gjennom hele profilen. 
+Oksygeninnholdet viste høye verdier nær overflaten før den avtok ned mot omkring 10m. Under 10m 
+økte oksygeninnholdet litt igjen ned mot bunnen. Oksygeninnholdet viser samme mønster som 
+oksygenmetningen, med noe større endringer. Forskjellen i profilene kommer av at 
+oksygenmetningen avhenger av temperaturen til sjøvannet. Kaldere vann kan holde på mer oksygen, 
+mens varmere vann kan holde på mindre. 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 30 av 43 
+6. Vedlegg – Bakgrunnsinformasjon 
+ 
+6.1 
+Valg av sted, dyp og periode for strømmålinger 
+ 
+Valg av målested 
+ 
+Målingene er tatt for å måle strøm ved utslippspunkt.   
+ 
+Valg av måledyp 
+ 
+Bunnstrøm måles ca. 2m over bunn. 
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hvert 14.77 døgn, som er 
+tidevannssyklus for spring / nipp, er anbefalt minimum for måleperioden 30 dager.  
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 31 av 43 
+6.2 
+Spesifikasjoner for strøminstrumenter 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.2.1. Målerne registrerer strømhastighet, 
+strømretning og temperatur.   
+ 
+Tabell 6.2.1. Spesifikasjoner per strøminstrument. 
+Måledyp 
+Bunn (31m) 
+Leverandør 
+Nortek AS 
+Instrumenttype, modell 
+Aquadopp Current Profiler (AquaPro) (400kHz) 
+ID-nr. 
+5656 
+Cellestørrelse 
+2m 
+Kalibrering 
+Utført hos Nortek AS ved levering av instrumentet. 
+Strømhastighetens nøyaktighet 
+1% av målt verdi ±0.5cm/s 
+Strømhastighetens rekkevidde / terskelverdi 
+0 til ±10m/s (vektor gjennomsnitt) 
+Strømretningens nøyaktighet 
+±2º for helning < 20º 
+Kompassorientering 
+Magnetisk nord 
+Kompass justert for misvisning 
+Nei 
+Temperaturens nøyaktighet og rekkevidde 
+0.1ºC, -4ºC til 40ºC 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 32 av 43 
+6.3 
+Måleprinsipp for strømmålinger 
+ 
+Nortek Aquadopp profiler 
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Instrumentet sender ut en kort lydpuls 
+(akustisk puls) med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de 
+innkommende refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende 
+refleksjon er proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet 
+(vanligvis zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at 
+de derfor beveger seg med samme hastighet som vannet. 
+ 
+Tabell 6.3.1. Måleprinsipp for Nortek Aquadopp profiler. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Profiler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer aktive perioder innenfor en samplingsperiode på 10 minutter; måleren 
+pulserer i 1 minutt, etterfulgt av 9 minutters hvile i løpet av en 10-minutters samplingsperiode. Den 
+registrerte målingen hvert 10. minutt er gjennomsnittet av strømmålinger i løpet av det første minuttet 
+i samplingsperioden. 
+ 
+6.4 
+CTD-målinger 
+ 
+Hydrografimålinger ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden med 
+et påmontert lodd ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden gjør 
+én registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen ved senkning og en 
+ved heving. Profil ved senkning av sonden ble benyttet.  
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 33 av 43 
+7. Vedlegg – Riggoppsett 
+ 
+7.1 
+Riggoppsett 
+ 
+Riggoppsett for målt strøm er beskrevet i Tabell 7.1.1 og skissert i Figur 7.1.1.  
+ 
+Tabell 7.1.1. Beskrivelse av riggoppsett for strømmålinger på bunndyp (31m). 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A3-blåse 
+Blåse 
+1stk 
+0.0m 
+62kg oppdrift 
+Trålkule 11" 
+Kule 
+1stk 
+0.0m 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+35.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+2stk 
+35.0m 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+3.0m 
+ 
+ 
+Profiler 
+Måler 
+1stk 
+37.0m 
+ 
+Danline 14mm 
+Tau 
+2.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+2stk 
+40.0m 
+40kg 
+ 
+ 
+ 
+Figur 7.1.1. Riggoppsett for strømmålinger på bunndyp (31m). 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 34 av 43 
+8. Vedlegg – Databearbeiding og kvalitetssikring  
+ 
+Før utsett ble fysisk status til hvert instrument kontrollert. Kontrollsjekk inkluderer: batteristatus, 
+instrumentinnstilling, minnestatus og anoder. 
+ 
+Det benyttes et internt kvalitetssystem som følger hver måler for teknisk dokumentasjon. 
+Instrumenttilstand og eventuelt andre kommentarer angående instrumentet oppføres i 
+kvalitetssystemet etter hvert prosjekt.  
+   
+Ved utsett av instrumenter benyttes et internt kvalitetssystem som inkluderer (etter NS 9425:1999): 
+lokalitetsnavn, riggoppsett, posisjon, måledyp, kontaktperson og oppdragsgiver, tidspunkt for utsett 
+og opptak, og et kommentarfelt for eventuelle observasjoner ved utsett og opptak.  
+ 
+Ved opptak blir måleinstrumentene undersøkt for begroing, annet som kan ha påvirket målingene, og 
+fysisk skade. Dette kommenteres i kvalitetssystemet og i rapporten, og mulig påvirkning for resultatet 
+blir vurdert. Verdier som er benyttet i rapporten er troverdige og uten behov for støyfiltrering eller 
+annen korreksjon. 
+ 
+Data er kvalitetssikret gjennom interne prosedyrer utviklet i samarbeid med instrumentenes produsent 
+etter bestemte kriterier. Dersom disse kriteriene ikke blir møtt er data kritisk vurdert. Enkeltstående 
+datapunkter blir også vurdert og data fjernes om nødvendig. Både rådata og kvalitetssikret data er 
+lagret på server. 
+ 
+8.1 
+Databearbeiding 
+ 
+Riggtilstand etter måling 
+ 
+Det var ingen begroing eller skade på instrumentene, og ingen data er vurdert som feil eller usikre på 
+grunn av dette. Datakvaliteten anses å være god. 
+ 
+Feil på instrument 
+ 
+Det var ingen feil på instrumentenes sensorer under måleperioden. Datakvaliteten anses å være god. 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 35 av 43 
+Tabell 8.1.1. Opplysninger om strømmålinger og databearbeiding. 
+Måledyp 
+Bunn (31m) 
+Filnavn for rådata 
+Vevelstad Settefisk bunn-31m AI0322 NPR5656.prf 
+Rådata først vurdert i 
+STORM - SeaReport 
+Filnavn for eksportert data 
+Vevelstad Settefisk bunn-31m AI0322 NPR5656_eks_LH.xlsx 
+Filnavn for kvalitetssikret data 
+Vevelstad Settefisk-Bunn (31m)_QC.xlsx 
+Data retur (%) 
+92.44 
+Antall målinger 
+7076 / 7655 
+Antall fjernede/manglende målinger 
+579 
+Ekstern påvirkning på målinger 
+Nei 
+Dato og tid for første og siste benyttede strømmåling 
+27.01.22 09:20 - 21.03.22 13:00 
+Dato og tid for start og slutt av instrument 
+27.01.22 09:00 - 21.03.22 13:10 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 36 av 43 
+8.2 
+Kvalitetssikring av data 
+ 
+Data er kvalitetssikret etter bestemte kriterier (Tabell 8.2.1). Dersom disse kriteriene ikke blir møtt er 
+data kritisk vurdert. Utstikkere blir også vurdert og data fjernet om nødvendig.  
+ 
+Tabell 8.2.1. Kriterier brukt for å kvalitetssikre data. 
+Parameter 
+QC  
+Temperatur 
+Manuell sjekk av data for stabil temp (∆ < 1℃)  
+Helning 
+< 20-30º (Figur 8.2.1) 
+Trykk 
+Stabilt (Figur 8.2.1)  
+Strømhastighet 
+Stabil (ingen store endringer fra en måling til neste måling, Tabell 8.2.2).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+Retning 
+Stabil (ingen store endringer fra en måling til neste måling).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+ 
+Tabell 8.2.2. Teoretiske forskjeller i strømhastighet fra en måling til det neste (IOC, 1993). 
+∆t (min) 
+Teoretisk 
+Faktor 
+Godkjent 
+ 
+u1 – u2 (m/s) 
+ 
+u1 – u2 (m/s) 
+5 
+0.0422 u 
+2.0 
+0.08 
+10 
+0.0843 u 
+1.8 
+0.15 
+15 
+0.1264 u 
+1.6 
+0.20 
+20 
+0.1685 u 
+1.5 
+0.25 
+30 
+0.2523 u 
+1.4 
+0.35 
+60 
+0.5001 u 
+1.2 
+0.60 
+ 
+Tabell 8.2.2 gir teoretiske forskjeller mellom to suksessive målinger av strømhastighet, u1 og u2, for 
+forskjellige måleintervall, Δt (IOC,1993). For å tillate noe naturlig variabilitet i strømhastighet 
+og -retning (inkludert usymmetriske hastighetskurver for tidevannsstrøm) har de teoretiske 
+forskjellene blitt hevet med de oppgitte faktorene, mens strøm (u) er satt til 1m/s ettersom variabilitet 
+øker med avtagende strøm. 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 37 av 43 
+ 
+ 
+Figur 8.2.1. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunndyp (31m).  
+ 
+Instrumentdypet varierte mellom 32.4m og 35.5m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 34.0m.  
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 38 av 43 
+8.3 
+Fjernede dataverdier  
+ 
+8.3.1 Måleperiode 
+ 
+Data er fjernet utenfor måleperioden. 
+ 
+8.3.2 Enkelte datapunkter 
+ 
+Det mangler 579 datapunkter på 31m dyp under måleperioden da måledypet tidvis var utenfor 
+rekkevidde til instrumentet.  
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 39 av 43 
+9. Vedlegg – Strømmens tilstandsklasser 
+ 
+Tilstandsklasser for strømparametere er oppgitt i Tabell 9.1. Verdiene er hentet fra strømdata målt av 
+Åkerblå ved bruk av Aanderaa punkmålere (Åkerblå, 2015). 
+ 
+Tabell 9.1. Tilstandsklasser for vurdering av strømdata. 
+ 
+Dyp 
+(m) 
+1 
+2 
+3 
+4 
+5 
+Maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 55 
+≥ 40 - < 55 
+≥ 26 - < 40 
+≥ 15 - < 26 
+< 15 
+Utskifting 15 
+≥ 45 
+≥ 30 - < 45 
+≥ 20 - < 30 
+≥ 10 - < 20 
+< 10 
+Spredning  
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Bunn 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Gjennomsnittlig strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 10 
+≥ 7 - < 10 
+≥ 6 - < 7 
+≥ 3 - < 6 
+< 3 
+Utskifting 15 
+≥ 9 
+≥ 6 - < 9 
+≥ 5 - < 6 
+≥ 2 - < 5 
+< 2 
+Spredning  
+≥ 8.5 
+≥ 5 - < 8.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Bunn 
+ 
+≥ 7.5 
+≥ 5 - < 7.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Signifikant maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 25 
+≥ 17 - < 25 
+≥ 11 - < 17 
+≥ 5 - < 11 
+< 5 
+Utskifting 15 
+≥ 23 
+≥ 15 - < 23 
+≥ 8 - < 15 
+≥ 4 - < 8 
+< 4 
+Spredning  
+≥ 20 
+≥ 14 - < 20 
+≥ 7 - < 14 
+≥ 4 - < 7 
+< 4 
+Bunn 
+ 
+≥ 16 
+≥ 11 - < 16 
+≥ 6.5 - < 11 
+≥ 3 - < 6.5 
+< 3 
+Signifikant minimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 6 
+≥ 4 - < 6 
+≥ 2.5 - < 4 
+≥ 1.5 - < 2.5 
+< 1.5 
+Utskifting 15 
+≥ 5 
+≥ 3.5 - < 5 
+≥ 2.3 - < 3.5 
+≥ 1.5 - < 2.3 
+< 1.5 
+Spredning  
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Bunn 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Andel strømstille (%) < 1cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 1 
+< 3 - ≥ 1 
+< 5 - ≥ 3 
+< 7 - ≥ 5 
+≥ 7 
+Utskifting 15 
+< 1 
+< 5 - ≥ 1 
+< 7 - ≥ 5 
+< 10 - ≥ 7 
+≥ 10 
+Spredning  
+< 3 
+< 8.5 - ≥ 3 
+< 15 - ≥ 8.5 
+< 20 - ≥ 15 
+≥ 20 
+Bunn 
+ 
+< 3 
+< 10 - ≥ 3 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Andel strømstille (%) < 3cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 5 
+< 10 - ≥ 5 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Utskifting 15 
+< 5 
+< 15 - ≥ 5 
+< 25 - ≥ 15 
+< 40 - ≥ 25 
+≥ 40 
+Spredning  
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 50 - ≥ 35 
+≥ 50 
+Bunn 
+ 
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 60 - ≥ 35 
+≥ 60 
+Effektiv transport (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 5 
+≥ 2.5 - < 5 
+≥ 1.5 - < 2.5 
+≥ 0.3 - < 1.5 
+< 0.3 
+Utskifting 15 
+≥ 3.5 
+≥ 2 - < 3.5 
+≥ 1 - < 2 
+≥ 0.2 - < 1 
+< 0.2 
+Spredning  
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Bunn 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Neumann-parameter 
+ 
+svært stabil 
+stabil 
+middels stabil 
+lite stabil 
+svært lite stabil 
+Alle dyp (m) 
+> 0.6 
+0.4 - 0.6 
+0.2 - 0.4 
+0.1 - 0.2 
+< 0.1 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 40 av 43 
+10. Vedlegg – Månedlige tidevannsvariasjoner 
+ 
+Strømmålinger er påvirket av blant annet tidevannsstrøm og kan bli påvirket av vind og vær. Månedlige tidevannsvariasjoner er vist i figuren under.    
+ 
+ 
+Figur 10.1. Månedlige tidevannsvariasjoner hvor stolpehøyde angir relativ tidevannsstrøm og stolpefarge indikerer månefaser (oransje – siste kvarter; 
+rød – nymåne; brun – første kvarter; grønn – fullmåne).
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 41 av 43 
+11. Vedlegg – Måleenheter 
+ 
+Alle måleenheter brukt i rapporten er beskrevet i tabellen under. 
+ 
+Tabell 11.1. Måleenheter brukt i rapporten. 
+Beskrivelse 
+Måleenhet 
+Dag og Tid 
+Tidsstempel i tidsserier er gitt ved midnatt, slik 
+at tidsserier starter midnatt før første målepunkt 
+og slutter midnatt etter siste målepunkt. 
+dd.mm.yy hh:mm (UTC) 
+dd.mm (UTC) 
+dd.mm.yyyy hh (UTC) 
+Høyde / Dybde 
+Meter (m) 
+Avstand  
+Kilometer (km) 
+Meter (m) 
+Posisjon / Koordinater 
+Posisjon er oppgitt i koordinatsystemet WGS64 
+(World Geodetic System 1984). 
+GGG (º) MM.MM (') 
+Strømretning (mot) 
+Grader (º) 
+Strømhastighet  
+Centimeter per sekund (cm/s) 
+Vindhastighet 
+Meter per sekund (m/s) 
+Vindretning (fra) 
+Grader (º) 
+Tidevannsnivå 
+Centimeter (cm) 
+Temperatur 
+Grader celsius (℃) 
+Helning 
+Grader (º) 
+Ping Count 
+Antall 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 42 av 43 
+12. Vedlegg – Parametere og beskrivelse 
+ 
+Tabell 12.1. Parametere brukt i rapporten og beskrivelse av disse. 
+Parameter 
+Beskrivelse 
+Sjøtemperatur (℃) 
+Temperatur i vannet målt ved måledyp 
+Strømhastighet 
+Maksimum (cm/s) 
+Høyeste verdi av alle data 
+Gjennomsnitt (cm/s) 
+Matematisk gjennomsnittlig verdi av alle data 
+Minimum (cm/s) 
+Laveste verdi av alle data 
+Signifikant maks (cm/s)  Matematisk gjennomsnitt av høyeste 1/3 av data 
+Signifikant min (cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av data 
+Varians (cm/s)2 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+om data varierte mye mellom suksessivt høye og lave verdier. En høy 
+varians indikerer at datapunkter er meget spredt ut rundt 
+gjennomsnittsverdien, mens en lav varians indikerer at datapunkter er 
+veldig nær gjennomsnittsverdien og derfor også hverandre. 
+Varians 
+= 
+Gjennomsnittet 
+av 
+de 
+kvadrerte 
+forskjeller 
+fra 
+gjennomsnittsverdien. 
+Standardavvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+gjennomsnittlig avstand fra gjennomsnittsverdi. Et høyt standardavvik 
+indikerer stor spredning av data.   
+Standardavvik = kvadratrot (varians). 
+% < x cm/s  
+Mengden strøm med strømhastighet < x cm/s  
+Lengst periode < x cm/s Varighet av lengste periode med strømhastighet < x cm/s 
+Effektiv transport 
+Hastighet (cm/s) 
+Hastighet er en funksjon av posisjon og tid. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, da er effektiv hastighet gitt som den rettlinjede avstanden 
+mellom partikkelens start- og sluttposisjon delt på total tid i 
+måleperioden.   
+Retning (grader) 
+Retning er vinkelen til en linje ut fra origo. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, er resultatretning eller retning av effektiv transport gitt 
+som vinkelen fra partikkelens startposisjon til partikkelens posisjon ved 
+måleperiodens slutt. 
+Neumann-parameter 
+Verdi som indikerer stabiliteten til strømmen. Neumann-parameteren 
+beregnes ut fra forholdet mellom den rettlinjede avstanden mellom en 
+tenkt drivende partikkels start- og sluttposisjon, og partikkelens totale 
+bane i løpet av måleperioden. Stabil strøm (høy Neumann-parameter) 
+betyr at vannet strømmer i «en» retning og beveger seg bort fra 
+startpunktet hele tiden. Ustabil strøm (lav Neumann-parameter) betyr at 
+vannet strømmer i ulike retninger og kanskje bare flyter fram og tilbake 
+ved startpunktet.  For eksempel, en Neumann-parameter på 0.7 betyr at 
+strømmen i løpet av måleperioden strømmer med 70% stabilitet i en 
+bestemt retning. Dette er klassifisert som svært stabil strøm.   
+Vannforflytning 
+(m3/m2/d) 
+Mengden vann som strømmer gjennom en tenkt flate på 1 m2 i løpet av 
+et døgn.  
+Strømrapport: Vevelstad Settefisk, Vevelstad kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 43 av 43 
+13. Vedlegg – Referanser 
+ 
+1. 
+Brukerveiledning. Nortek Aquadopp profiler. 
+ 
+2. 
+Codiga, D. L. (2021). Unified Tidal Analysis and Prediction Using the UTide Matlab 
+Functions. Technical Report 2011-01. Graduate School of Oceanography, University of 
+Rhode Island, Narragansett, RI. 59pp. 
+ 
+3. 
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography. 
+Elsevier Science. 
+ 
+4. 
+IOC (1993). Manual of Quality Control Procedures for validation of Oceanographic Data. 
+Tilgjengelig: 
+http://www.iode.org/components/com_oe/oe.php?task=download&id=20423 
+&version=1st%20edition&lang=1&format=1 
+ 
+5. 
+NS 9425-1:1999. Oseanografi – Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 
+6s.  
+ 
+6. 
+Åkerblå 
+(2015). 
+Strømklassifisering. 
+Åkerblå 
+AS-rapport: 
+Strøm- 
+Klassifisering-
+AanderaaPunktMåler-Okt2015, 2 sider.

@@ -1,0 +1,932 @@
+﻿Framsenteret | Postboks 6066 Stakkevollan | 9296 Tromsø | +47 777 50 300 | www.akvaplan.niva.no 
+ 
+ 
+ 
+Forundersøkelse med B-metodikk ved 
+Hornet (39637), januar 2023 
+Vesterålen Havbruk AS 
+ 
+Akvaplan-niva AS Report: 2023 64569.01   
+ 
+ 
+ 
+Forundersøkelse med B-metodikk ved Hornet (39637), januar 2023    
+ 
+Forfatter(e) 
+ 
+Ludvik Lippestad 
+ 
+Dato    
+ 
+17.04.2023 
+Rapport nr. 
+ 
+ 2023 64569.01   
+Antall sider  
+ 
+16 
+Distribusjon   
+Gjennom kunde 
+Kunde  
+ 
+Vesterålen Havbruk AS 
+Kontaktperson 
+Rune Eriksen  
+ 
+ 
+Sammendrag 
+Det er gjennomført en forundersøkelse med B-metodikk ved lokaliteten 39637 Hornet i januar 2023. 
+Undersøkelsen ble gjennomført i forbindelse med oppdretters søknad om økning i MTB fra 500 
+tonn til 3599 tonn. 
+I henhold til Veiledning til krav om forundersøkelser i henhold til NS9410:2016 i forbindelse med søknad 
+om akvakulturlokaliteter i Nordland, Troms og Finnmark fylker inngikk det 10 stasjoner i 
+undersøkelsen, fordelt over hele det planlagte anleggsområdet. Det ble registrert 50% bløtbunn og 
+50% hardbunn på lokaliteten. Alle de undersøkte stasjonene fikk tilstand 1 – "Meget god", som 
+resulterte i samlet lokalitetstilstand 1 – "Meget god". 
+ 
+Godkjenning 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Felipe Matos  
+ 
+ 
+ 
+ 
+ 
+Rikke Stabell 
+Prosjektleder   
+ 
+ 
+ 
+ 
+ 
+Kvalitetskontroll 
+ 
+©2023 Akvaplan-niva AS. The report may only be reproduced in its entirety. Copying of partial content (texts, 
+figures, table, conclusions, etc.) or other methods of publication is only permitted after obtaining written consent 
+from Akvaplan-niva AS. 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 3 av 16 
+Nøkkelinformasjon 
+Informasjon om anlegg og oppdragsgiver 
+Lokalitetsnummer 
+39637 
+Kartkoordinater 
+68°50.665’ N 
+15°02.266’ Ø 
+Fylke 
+Nordland 
+Kommune 
+Øksnes  
+MTB-tillatelse 
+500 tonn 
+Driftsleder/kontakt 
+Rune Eriksen 
+Oppdragsgiver 
+Vesterålen Havbruk AS 
+ 
+Biomasse/produksjonsstatus ved undersøkelsesdato 
+Biomasse anlegg ved undersøkelse 
+- 
+Utfôret 
+mengde 
+- 
+Fiskegruppe 
+Torsk 
+Produsert 
+mengde 
+- 
+Bakgrunnen for undersøkelsen 
+Angitt ved kryss 
+Merknad 
+Undersøkelsen er gjennomført ifm. 
+søknad om endring av MTB fra 500 tonn til 
+3599 tonn. 
+ 
+ 
+Maksimal organisk belastning jfr. kap 7.9 
+☐ 
+Oppfølgende undersøkelse 
+☐ 
+Halv maksimal belastning 
+☐ 
+Før nytt utsett 
+☐ 
+Krav statsforvalteren forundersøkelse 
+☒ 
+Annet 
+☐ 
+Siste brakkleggingsperiode: 
+Lokalitet brakklagt fra 04.01.2023. 
+ 
+Resultat fra B-undersøkelse iht. NS 9410:2016 (hovedresultat) 
+Parametergruppe og indeks 
+Parametergruppe og tilstand 
+Gr. II. pH/Eh 
+0,00 
+Gr. II. pH/Eh 
+1 
+Gr. III. Sensorikk 
+0,48 
+Gr. III. Sensorikk 
+1 
+GR. II + III 
+0.24 
+GR. II+ III 
+1 
+Dato feltarbeid 
+12.01.2023 
+Dato rapport 
+17.04.2023 
+Lokalitetstilstand (NS 9410:2016): 
+1 
+ 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 4 av 16 
+Innholdsfortegnelse 
+1 
+INNLEDNING .................................................................................................................. 5 
+2 
+FAGLIG PROGRAM OG METODIKK ................................................................................... 6 
+3 
+LOKALITETSBESKRIVELSE, DRIFT OG STASJONSPLASSERING .......................................... 7 
+3.1 
+Lokalitetsbeskrivelse og drift ..................................................................................... 7 
+3.2 
+Nåværende og tidligere undersøkelser ....................................................................... 7 
+3.3 
+Spredningsstrøm ...................................................................................................... 7 
+3.4 
+Stasjonsopplysninger ................................................................................................ 7 
+4 
+RESULTATER .................................................................................................................. 9 
+5 
+SAMMENFATTENDE VURDERING ................................................................................... 10 
+6 
+LITTERATUR ................................................................................................................. 11 
+7 
+VEDLEGG ...................................................................................................................... 12 
+7.1 
+Skjema (B.1 og B.2) NS 9410:2016 ............................................................................... 12 
+7.2 
+Bilder av prøver ved Hornet ..................................................................................... 14 
+7.3 
+Bunntopografi og 3D-visning .................................................................................... 16 
+ 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 5 av 16 
+1 Innledning 
+Foreliggende undersøkelse er gjennomført av Akvaplan-niva AS på oppdrag fra Vesterålen Havbruk 
+AS i forbindelse med bedriftens oppdrettsvirksomhet på lokaliteten 39637 Hornet i Romsetfjorden, 
+Øksnes kommune i Nordland fylke. 
+Oppdretter ønsker å søke om en økning i MTB fra 500 tonn til 3599 tonn, og det er derfor gjennomført 
+en forundersøkelse type B i forbindelse med fremtidige søknadsprosesser. Formålet til 
+undersøkelsen er å oppfylle krav i Veiledning til krav om forundersøkelsen i henhold til NS9410:2016 i 
+forbindelse med søknad om akvakulturlokaliteter i Nordland, Troms og Finnmark fylker. Minst 10 
+stasjoner skal fordeles over hele det planlagte anleggsområdet. Forundersøkelsen er gjennomført 
+etter kap. 5.0 i NS 9410:2016, men avviker fra kap. 7.6 i NS 9410:2016. Krav om at prøver skal tas helt 
+inntil merd, samt krav om det kun skal tas prøver under bur som har vært i bruk, er ikke oppfylt. 
+Undersøkelsene vurderer lokalitetenes tilstand mht. organisk belastning, samt egnethet for 
+oppdrettsvirksomhet.  
+Figur 1 viser et kartutsnitt av Romsetfjorden der Hornet ligger. 
+ 
+Figur 1. Oversiktskart for området ved lokaliteten Hornet (blå pil). Oppdrettsanlegg i området er markert med 
+lokalitetsnummer og navn. Kart fra www.fiskeridir.no Fiskeridirektoratet, målestokk 1:100 000 i liggende A4-format. 
+Kartet er nordlig orientert. 
+ 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 6 av 16 
+2 Faglig program og metodikk 
+Miljøovervåkning av bunnpåvirkning fra marine akvakulturanlegg er et system for standardisering 
+av miljøovervåking for oppdrettsanlegg i sjø. Alle lokaliteter som er i bruk, skal regelmessig 
+overvåkes. Overvåkningsprogrammet er hjemlet i akvakulturdriftsforskriften § 35 og metodikk for 
+undersøkelsene er beskrevet i NS 9410:2016.  
+B-undersøkelsen er en trendovervåkning av bunnforholdene under og i den umiddelbare nærheten 
+av et akvakulturanlegg. Sedimentprøver tas ved hjelp av en grabb (min. 250 cm2). Hvert grabbhogg 
+blir undersøkt med hensyn på tre grupper av sedimentparametre; faunaundersøkelse, kjemisk 
+undersøkelse (pH og redoks-potensial) og en sensorisk undersøkelse (forekomst av gassbobler, lukt, 
+sedimentets konsistens og farge, samt tykkelse av deponert slam). Sedimentparametrene gis poeng 
+(skala fra 1-4) etter hvor mye sedimentet er påvirket av tilførsler av organisk stoff, jfr. Tabell 1. Antall 
+prøvestasjoner bestemmes av lokalitetens MTB, og det er et samlet gjennomsnitt for alle prøvene 
+som fastsetter lokalitetstilstanden. På bakgrunn av klassifiseringen avgjøres det videre 
+overvåkningsnivået. 
+Ettersom dette er en forundersøkelse med B-metodikk, er det valgt å plassere 10 stasjoner jevnt 
+fordelt innenfor anleggets ramme. Dette iht. Statsforvalteren i Nordland sine retningslinjer ifm. 
+forundersøkelser og søknad om endringer ved eksisterende lokaliteter i sjø. 
+Tabell 1. Frekvens for B-undersøkelse i lokalitetens anleggssone i forhold til lokalitetstilstand på lokaliteten. 
+Lokalitetstilstand ved maksimal 
+organisk belastning 
+Overvåkingsfrekvens for B-undersøkelse 
+1-meget god 
+Ved neste maksimale belastning 
+2-god 
+Før utsett og igjen ved maksimal belastning 
+3-dårlig 
+Før utsett 
+Dersom undersøkelse før utsett gir: 
+Tilstand 1 – undersøkelse gjennomføres ved neste maksimale 
+belastning 
+Tilstand 2 – undersøkelse gjennomføres ved halv maksimal belastning 
+og ved neste maksimale belastning 
+Tilstand 3 – undersøkelse gjennomføres ved halv maksimal belastning 
+og ved maksimal belastning. I forhold til neste produksjonssyklus 
+planlegges tiltak. 
+Dersom noen av undersøkelsene viser tilstand 4 vil det være 
+overbelastning. 
+4-meget dårlig 
+Overbelastning 
+ 
+Følgende utstyr ble anvendt i denne undersøkelsen: 
+Grabb: Van Veen grabb (0,04 m2) 
+Sikt 1 mm: Akvaplan-niva 
+pH måler: Elektrode, YSI Professional Plus 
+Redox-måler: Elektrode, YSI Professional Plus 
+Posisjonsbestemmelse – GPS map 62s 
+Digitalkamera 
+ 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 7 av 16 
+3 Lokalitetsbeskrivelse, drift og stasjonsplassering 
+3.1 Lokalitetsbeskrivelse og drift 
+Lokaliteten Hornet ligger skrått ut fra land, på østsiden av Romsetfjorden i Øksnes kommune i 
+Nordland. Fra land skråner bunnen bratt ut mot anleggets østlige side, og slakere gjennom 
+anleggslokaliseringen (40-65 m dyp). Nordvest for anlegget er det grunnområder som danner en 
+terskel mellom lokaliteten og fjordens utløp mot Steinlandsfjorden. Fra nordre del av anlegget, og 
+videre nord i resipienten, er det ei renne som strekker seg mot dypområdet ved utløpet av 
+Romsetfjorden. I resipienten sør for anlegget er det et dypere område, med dyp på om lag 70 m, og 
+det er ingen terskel mellom anlegget og denne delen av resipienten. 
+Lokaliteten Hornet har vært i drift siden 2019 (jfr. Akvakulturregisteret), og har godkjent MTB på 
+500 tonn. Anlegget består av seks bur med plass til seks merder á 100 metringer. Ved 
+undersøkelsestidspunktet var det fem merder på anlegget. Ved tidspunktet for undersøkelsen var 
+lokaliteten brakklagt, med brakkleggingsdato 04.01.2023 (pers med. Haaheim).  
+Tabell 2 Viser produksjon og fôrforbruk for forutgående generasjon. 
+Tabell 2. Produksjon og fôrforbruk for lokaliteten Hornet, data er innhentet fra oppdragsgiver. 
+Generasjon av fisk (G) 
+Produksjon (tonn) 
+Fôrforbruk (tonn) 
+Forutgående generasjon 1 
+320 
+550 
+ 
+3.2 
+Nåværende og tidligere undersøkelser 
+Tabell 3 viser resultat og dato for prøvetaking ved de siste B-undersøkelsene på lokalitet Hornet, 
+gjennomført etter NS 9410:2016. 
+Tabell 3. Foreliggende og tidligere gjennomførte B-undersøkelser ved lokaliteten Hornet. 
+Dato 
+prøvetaking 
+Rapportnummer 
+Type undersøkelse 
+Lokalitetstilstand 
+12.01.2023 
+APN-64569.01 
+(Lippestad, 2023) 
+Økt MTB (forundersøkelse) 
+1 
+26.09.2022 
+APN-64311.01 (Remen, 2022) 
+Høyeste belastning 
+2 
+12.03.2019 
+APN-61039.01  
+(Guneriussen, 2019) 
+Ny lokalitet (forundersøkelse) 
+1 
+ 
+3.3 
+Spredningsstrøm 
+Dominerende strømretning på spredningsdyp (37 m) er mot nord (345 grader). Gjennomsnittlig 
+strømhastighet er målt til 4,3 cm/s. Høyeste strømhastighet er målt til 17,5 cm/s og 9,2% av 
+målingene er < 1 cm/s (Hermansen, 2018). 
+3.4 
+Stasjonsopplysninger 
+Stasjonene som ble undersøkt er beskrevet i Figur 2 og Tabell 4. Stasjoner ble satt for å kartlegge 
+anleggssonen best mulig. De 10 stasjonene ble dermed fordelt rundt anleggets seks bur. Én stasjon 
+ble plassert på den vestre enden av hvert bur, og i tillegg ble det plassert én stasjon på den østre 
+enden av de fire midtre burene. Prøvene ble hentet fra dyp som varierte fra 52 meter som grunnest 
+og 64 meter som dypest.  
+ 
+Akvaplan-niva 2023 64569.01   
+Side 8 av 16 
+ 
+Figur 2. Stasjonsoversikt. Forundersøkelse med B-metodikk, Hornet, 2023. Prøvetakingsstasjonene er tegnet inn med 
+fargekode som beskriver tilstand iht NS 9410:2016 (1 = blå, 2 = grønn, 3 = gul, 4 = rød). Strømrose (til høyre) viser retning 
+av vanntransport ved spredningsdyp på lokaliteten (Hermansen, 2018), og rødt flagg viser plassering av strømmåler. 
+ 
+Tabell 4. Posisjon og dybde for prøvetakningsstasjonene som inngår i undersøkelsen. 
+Stasjonsnummer 
+Nordlig bredde 
+Østlig lengde 
+Dyp (m) 
+1 
+68°50.763' 
+15°02.314' 
+58 
+2 
+68°50.723' 
+15°02.264' 
+58 
+3 
+68°50.687' 
+15°02.235' 
+55 
+4 
+68°50.652' 
+15°02.202' 
+52 
+5 
+68°50.615' 
+15°02.171' 
+52 
+6 
+68°50.579' 
+15°02.119' 
+54 
+7 
+68°50.607' 
+15°02.218' 
+55 
+8 
+68°50.640' 
+15°02.249' 
+55 
+9 
+68°50.679' 
+15°02.282' 
+58 
+10 
+68°50.715' 
+15°02.314' 
+64 
+ 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 9 av 16 
+4 Resultater   
+Resultatene fra klassifiseringen er vist i Tabell 5. Fullstendig utfylt prøveskjema med utregning av 
+karakter på prøvene er vist i Vedlegg 7.1, og bilder av prøvematerialet er vist i Vedlegg 7.2.  
+Tabell 5. Resultat fra klassifisering av anleggssonen ved Hornet. 
+Parameter 
+Tilstand 
+Gruppe II - parametere (pH/Eh) 
+Gruppe III – parametere, (sensorisk)  
+Gruppe II + III – parametere (middelverdi) 
+1 
+1 
+1 
+LOKALITETSTILSTAND 
+1 
+ 
+Totalt ble det tatt 18 grabbskudd fordelt på 10 stasjoner, og det ble registrert 50% bløtbunn og 50% 
+hardbunn. Foruten stein- og fjellbunn, ble primærsedimentet i hovedsak definert til å være silt med 
+innslag av sand, grus og skjellsand. To stasjoner hadde også sand som primærsediment. 
+Det ble registrert dyr på åtte av stasjonene. Børstemark og skjell var dominerende dyregrupper. Det 
+ble også registrert pigghuder på to stasjoner. 
+På de fem stasjonene hvor målinger av pH/Eh var mulig, viste målingene til gode verdier. pH-
+verdiene varierte fra 7,69 som lavest til 7,86 som høyest. Eh ble målt til 235 som lavest og 428 som 
+høyest. Grabbhuggene fra stasjon 1, 3-5 og 9 inneholdt så lite sediment at det ikke var mulig å 
+gjennomføre kjemiske målinger. Disse ble satt som "ut" for gruppe II parametre, men ble vurdert 
+for gruppe III parametre.  
+Det ble ikke registrert gassbobling på noen av stasjonene. Prøvematerialet fra stasjon 7 og 10 hadde 
+noe avvikende lukt, og de resterende stasjonene hadde ingen avvikende lukt. Prøvematerialet fra 
+stasjon 7 viste også tegn til misfarging av sedimentet. Bakteriebelegg, fôrrester eller fekalier ble ikke 
+registrert på noen av stasjonene.  
+Alle de undersøkte stasjonene fikk tilstand 1 – "Meget god", og samlet tilstand for lokaliteten ble  
+1 – "Meget god". 
+ 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 10 av 16 
+5 
+Sammenfattende vurdering  
+Ut fra vurderingskriteriene i NS 9410:2016 er det dokumentert at det undersøkte området under 
+anlegget på prøvetidspunktet fikk tilstand 1 – "Meget god".  
+Foreliggende undersøkelse er gjennomført som en del av en forundersøkelse på lokaliteten. Det 
+ble gjennomført totalt 18 grabbskudd fordelt på 10 stasjoner, og alle de undersøkte stasjonene fikk 
+tilstand 1 – "Meget god".  
+I henhold til NS 9410:2016 kapt. 7.10 defineres lokaliteten som en bløtbunnslokalitet, med 50% 
+bløtbunn og 50% hardbunn.  
+Det undersøkte området under anlegget gis tilstand 1 – "Meget god" i henhold til beregninger og 
+metodikk beskrevet i NS 9410:2016.  
+NS 9410:2016 angir ikke undersøkelsesfrekvens knyttet til bruk av B-undersøkelser ved 
+forundersøkelser. Iht. forskrift om drift av akvakultur (akvakulturforskriften) § 35 skal første 
+miljøundersøkelse gjennomføres i det tidspunktet i produksjonssyklusen det er størst 
+belastning eller biomasse på lokaliteten, deretter skal det gjennomføres miljøundersøkelser 
+etter frekvenser som følger av NS 9410:2016. 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 11 av 16 
+6 Litteratur 
+Forskrift om drift av akvakulturanlegg (akvakulturdriftsforskriften) §§ 35 og 36. 
+Guneriussen, A., 2019. Myre Havbbruk AS. Hornet. B-undersøkelse, mars 2019. Ny lokalitet.  
+APN-61039.01. 
+Hermansen, S., 2018. Myre Havbruk AS. Strømmålinger Hornet 5 m, 15 m, spredning- og 
+bunnstrøm. APN-60612.01. 
+ISO 5667-19:2004. Guidance on sampling of marine sediments. 
+Norsk Standard NS 9410:2016. Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg. 
+Pers med. Hilde Haaheim, Driftstekniker, Vesterålen Havbruk AS 
+Remen, V., 2022. B-undersøkelse ved Hornet (39637), september 2022. Maksimal belastning. 
+Vesterålen Havbruk AS. APN-64311.01. 
+Veiledning til krav om forundersøkelser i henhold til NS9410:2016 i forbindelse med søknad om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark fylker. Versjon 1, 04.04.2018. 
+www.fiskeridir.no 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 12 av 16 
+7 Vedlegg 
+7.1 Skjema (B.1 og B.2) NS 9410:2016  
+ 
+Prøveskjema B.1
+Gr
+Parameter
+Poeng
+Prøvepunkt
+Indeks
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+B%
+H%
+H
+B
+H
+H
+H
+B
+B
+B
+H
+B
+50
+50
+I
+Dyr > 1mm
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+II
+pH
+UT
+7,74
+UT
+UT
+UT
+7,86
+7,71
+7,71
+UT
+7,69
+UT
+179
+UT
+UT
+UT
+228
+35
+103
+UT
+130
+379
+428
+235
+303
+330
+pH/Eh
+ut
+0
+ut
+ut
+ut
+0
+0
+0
+ut
+0
+Tilstand prøve
+ut
+1
+ut
+ut
+ut
+1
+1
+1
+ut
+1
+Tilstand, gruppe II
+1
+B uf f er-
+t emp
+C
+Sjø- t emp
+6,5 C
+Sediment -
+t emp
+C
+pH sjø
+OR P sjø
+247 mV
+Eh sjø
+447 mV
+200 mV
+III
+Gassbobler
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+2
+2
+2
+2
+2
+0
+0
+0
+0
+0
+0
+1
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0,0
+3,0
+0,0
+0,0
+0,0
+4,0
+8,0
+2,0
+0,0
+5,0
+0,0
+0,7
+0,0
+0,0
+0,0
+0,9
+1,8
+0,4
+0,0
+1,1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+0,0
+0,3
+0,0
+0,0
+0,0
+0,4
+0,9
+0,2
+0,0
+0,6
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+4
+LOKALITETSTILSTAND: 
+pH / Eh ID
+side 1 av 2 sider
+23
+1,1 - <2,1
+2,1 - <3,1
+≥3,1
+1
+Grabb ID
+K-4
+< 1,1
+Middelverdi gruppe II og III
+0,24
+1
+Tilstand gruppe II og III
+Tilstand prøve
+pH/Eh
+Tilstand
+Korr.sum
+Indeks
+Middelverdi
+Sum
+Korrigert ('*0,22)
+0,48
+Tilstand prøve
+Tilstand gruppe III
+1
+Grabb- 
+volum (v)
+v < 1/4 (0)
+1/4 < v < 3/4 (1)
+v > 3/4 (2)
+Tykkelse på 
+slamlag
+t < 2 cm (0)
+2 < t < 8 cm (1)
+t > 8 cm (2)
+Lukt
+Ingen (0)
+Noe (2)
+Sterk (4)
+Konsistens
+Fast (0)
+Myk (2)
+Løs (4)
+verdi
+Ja (4)  Nei (0)
+Farge
+Lys/grå (0)
+Brun/sort (2)
+12.01.2023
+Lokalitet: 
+Hornet
+Lokalitetsnr: 
+39637
+Firma:
+Vesterålen Havbruk AS
+Dato:
+Felipe Matos, Ludvik Lippestad
+Bunntype: B (bløt) eller H (hard)
+Ja (0)   Nei (1)
+Eh (mV)
+ORP
+med ref. verdi
+Prøvetakingsansvarlig:
+fra figur
+0,00
+7,98
+R ef eranse-
+elekt rode
+ 
+Akvaplan-niva 2023 64569.01   
+Side 13 av 16 
+ 
+ 
+ 
+ 
+ 
+Prøveskjema B.2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+58
+58
+55
+52
+52
+54
+55
+55
+58
+3
+2
+2
+2
+2
+1
+1
+2
+2
+Leire
+Silt
+X
+X
+X
+X
+(X)
+Sand
+X
+(X)
+(X)
+(X)
+(X)
+X
+Grus
+(X)
+(X)
+(X)
+(X)
+Skjellsand
+(X)
+(X)
+(X)
+(X)
+(X)
+X
+X
+X
+X
+X
+2
+5
+3
+1
+3
+3
+5
+1
+6
+2
+15
+1
+1
+1
+1
+Signatur prøvetakingsansvarlig:
+side 2 av 2 sider
+Kommentar
+St 1: to forsøk med stein i grabbkjeften, ett forsøk åpen grabb.
+St 2: ett forsøk stein i grabbkjeften. Andre forsøk OK. Noe terrestrisk materiale i 
+prøven.
+St 3: to forsøk med skrap fra fjell.
+St 4: ett forsøk med skrap fra fjell. Andre forsøk stein i grabbkjeften. Vurderte gr. 
+III parametere.
+St 5: to forsøk med stein i grabbkjeften.
+St 7: mye skjell fra blåskjell og noe terrestrisk materiale i prøven.
+St 8: to forsøk med stein i grabbkjeften. Nok prøvemateriale til å måle gr. II 
+parametere fra forsøk 2.
+St 9: ett forsøk med stein i grabbkjeften. Andre forsøk skrap fra fjell.
+Grabb
+Areal  [m 2]
+0,04
+Grabb ID
+K-4
+Beggiatoa
+Fôr 
+Fekalier
+Andre dyr, total antall
+1
+Krepsdyr, antall
+Skjell, antall
+3
+Børstemark, antall
+5
+Fjellbunn
+Steinbunn
+Pigghuder, antall
+1
+Antall forsøk 
+1
+Bobling (i prøve)
+Sedimenttype
+X
+(X)
+(X)
+(X)
+Dyp (m)
+64
+Firma:
+Vesterålen Havbruk AS
+Dato
+12.01.2023
+Lokalitet:
+Hornet
+Lokalitetsnr: 
+39637
+Prøvetakingsansvarlig:
+elipe Matos, Ludvik Lippestad (opp
+Prøvepunkt
+10
+ 
+Akvaplan-niva 2023 64569.01   
+Side 14 av 16 
+ 
+7.2 Bilder av prøver ved Hornet 
+ 
+St 
+Bilde før sikting 
+Bilde etter sikting 
+1 
+ 
+Intet bilde grunnet lite sediment 
+2 
+ 
+ 
+3 
+ 
+Intet bilde grunnet lite sediment 
+4 
+ 
+ 
+5 
+ 
+Intet bilde grunnet lite sediment 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 15 av 16 
+6 
+ 
+ 
+7 
+ 
+ 
+8 
+ 
+ 
+9 
+ 
+Intet bilde grunnet lite sediment 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64569.01   
+Side 16 av 16 
+ 
+7.3 Bunntopografi og 3D-visning 
+ 
+Figur 3. 3D-visning av bunntopografi. Forundersøkelse med B-metodikk, Hornet, 2023. Nummererte stasjoner gjengitt i 
+Figur 2 og Tabell 4. Anleggsrammen er skravert i grønt. Kart orientert mot sørvest.

@@ -1,0 +1,547 @@
+﻿Behovsvurdering for konsekvensutredning – Terråk industripark 
+Behovsvurdering for 
+konsekvensutredning 
+i forbindelse med søknad om 
+etablering av landbasert 
+postsmoltanlegg på Brukstomta i 
+Terråk 
+Oppdragsgiver: Terråk industripark AS 
+Rapportdato: 23.05.2022 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+ii 
+ 
+Innhold 
+Sammendrag ........................................................................................................................................... iii 
+1. 
+Innledning ........................................................................................................................................ 1 
+2. 
+Egenskaper ved tiltaket (jfr §10) ..................................................................................................... 2 
+a) 
+Størrelse, planområde og utforming ........................................................................................... 2 
+b) 
+Bruk av naturressurser ................................................................................................................ 4 
+c) 
+Avfallsproduksjon og utslipp ....................................................................................................... 5 
+d) 
+Risiko, ulykker og/eller katastrofer ............................................................................................. 7 
+3. 
+Mulig påvirkning eller konflikter med omgivelser (jfr §10) ............................................................. 8 
+a) 
+Verneområder ............................................................................................................................. 8 
+b) 
+Arter, naturtyper og landskap ................................................................................................... 10 
+c) 
+Planbestemmelser ..................................................................................................................... 13 
+d) 
+Omdisponering av arealer avsatt til landbruks-, natur- og friluftsformål ................................. 14 
+e) 
+Økt belastning i områder der fastsatte miljøkvalitetsstandarder er overskredet .................... 14 
+f) 
+Helsekonsekvenser for befolkningen i området ....................................................................... 15 
+g) 
+Vesentlig forurensing eller klimagassutslipp ............................................................................. 15 
+h) 
+Risiko for alvorlige ulykker som en følge av naturfarer som ras, skred eller flom .................... 15 
+4. 
+Konklusjon ..................................................................................................................................... 15 
+5. 
+Referanser ..................................................................................................................................... 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+iii 
+ 
+Sammendrag 
+NærøysundGruppen via datterselskapet Terråk Industripark AS, planlegger å etablere et landbasert 
+oppdrettsanlegg med resirkuleringsteknologi (RAS) for produksjon av postsmolt. Planlagt 
+årsproduksjon er 4000 tonn. På oppdrag fra NærøysundGruppen har Morefish AS utført en 
+behovsvurdering for konsekvensutredning for å vurdere om det planlagte tiltaket kan gi vesentlige 
+virkninger for miljø og/eller samfunn. Denne behovsvurderingen fokuserer i størst grad på delen av 
+tiltaket som omhandler sjøarealene.  
+Området er allerede regulert for næringsbebyggelse, og det er allerede inngått en avtale med Clemens 
+Kraft, som er utbygger av Hellifossen Kraft AS, om uttak av vann. Utslippspunkt er plassert basert på 
+en nylig utført modellering av spredning av utslipp fra det planlagte oppdrettsanlegget. Med bakgrunn 
+i denne modelleringen antas det at tiltaket vil påvirke vannforekomstene i liten grad, og at det ikke vil 
+ha signifikant innvirkning på miljømålene, og heller ikke nærliggende oppdrettslokaliteter.  
+I deler av fjordene (Sørfjorden-ytre/Terråkfjorden/Øyfjorden og Breivika) utenfor tiltaksområdet er det 
+et lokalt viktig gytefelt for torsk. Hvor mye disse områdene vil påvirkes av tiltaket er uvisst, men 
+utslippsnivå fra det planlagte anlegget vil være svært lave.   
+Tiltaket ligger tilstøtende, og delvis over, et område med tareskogforekomst. Mindre områder av disse 
+forekomstene vil kunne gå tapt i utfyllingen, men vil i liten grad påvirkes av rørledninger til 
+sjøvannsinntak eller avløp.  
+Morefish AS har kommet fram til at området er godt egnet for det planlagte tiltaket, og at det ikke er 
+i store konflikter med eller til stor skade for miljøet. Vi anser derfor at det ikke er nødvendig med 
+konsekvensutredning for sjøarealene som er forbundet med tiltaket. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+1 
+ 
+1. Innledning 
+Terråk industripark planlegger å etablere et landbasert oppdrettsanlegg med resirkuleringsteknologi 
+(RAS) for produksjon av postsmolt på Brukstomta i Terråk. Planlagt årsproduksjon er 4000 tonn. I den 
+forbindelse skal det vurderes om tiltaket omfatter § 6, § 7 eller § 8 i KU forskriften, jf § 4, annet ledd.  
+Forskrift om konsekvensutredninger (Lovdata, 2021) 
+§ 4 i Forskrift for konsekvensutredninger omhandler «Forslagsstiller» 
+Den som fremmer forslag om en plan eller et tiltak er forslagsstiller etter forskriften. Forslagsstilleren 
+skal vurdere om planen eller tiltaket omfattes av § 6, § 7 eller § 8. 
+§ 6 i Forskrift for konsekvensutredninger omhandler «Planer og tiltak som alltid skal 
+konsekvensutredes og ha planprogram eller melding». Punkt a og b omhandler henholdsvis 
+kommuneplanens arealdel, regionale planer etter plan- og bygningsloven, kommunedelplaner og 
+områdereguleringer, og reguleringsplaner etter plan- og bygningsloven. Punkt c omhandler «tiltak i 
+vedlegg I som behandles etter andre lover enn plan- og bygningsloven». Tiltaket som denne 
+behovsvurderingen omhandler, er ikke av typen som listes i vedlegg I, og tiltaket omfattes derfor ikke 
+av §6. 
+§ 7 i Forskrift for konsekvensutredning omhandler «Planer og tiltak etter andre lover som alltid skal 
+konsekvensutredes, men ikke ha melding». Dette gjelder i henhold til henholdsvis punkt a og b, tiltak i 
+vedlegg II som behandles etter energi-vannressurs- eller vassdragsreguleringsloven, og planer og 
+programmer etter andre lover som fastsetter rammer for tiltak i vedlegg I og II og som vedtas av et 
+departement. Akvakultur er listet i vedlegg II, men ansvarlig myndighet er Fylkeskommunen, og 
+behandles etter akvakulturloven. Tiltaket må derfor ikke automatisk konsekvensutredes. 
+§ 8 i Forskrift for konsekvensutredning omhandler «Planer og tiltak som skal konsekvensutredes hvis 
+de kan få vesentlige virkninger for miljø eller samfunn». Punk a omhandler reguleringsplaner for tiltak 
+i vedlegg II, og punkt b omhandler tiltak i vedlegg II som behandles etter annen lov enn plan- og 
+bygningsloven. Akvakultur behandles etter akvakulturloven, og det må derfor vurderes om tiltaket kan 
+få vesentlige virkninger etter § 10, og dermed må konsekvensutredes.  
+§ 10 i Forskrift om konsekvensutredninger omhandler «Kriterier for vurderingen av om en plan eller et 
+tiltak kan få vesentlige virkninger for miljø eller samfunn» 
+I vurderingen av om en plan eller et tiltak kan få vesentlige virkninger for miljø eller samfunn, skal det 
+ses hen til egenskaper ved planen eller tiltaket, jf. annet ledd og planen eller tiltakets lokalisering og 
+påvirkning på omgivelsene, jf. tredje ledd. Det skal også i nødvendig grad ses hen til egenskaper ved 
+virkninger nevnt i fjerde ledd. 
+Egenskaper ved planen eller tiltaket omfatter: 
+a. 
+størrelse, planområde og utforming 
+b. 
+bruken av naturressurser, særlig arealer, jord, mineralressurser, vann og biologiske ressurser 
+c. 
+avfallsproduksjon og utslipp 
+d. 
+risiko for alvorlige ulykker og/eller katastrofer. 
+Lokalisering og påvirkning på omgivelsene omfatter en vurdering av om planen eller tiltaket kan 
+medføre eller komme i konflikt med: 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+2 
+ 
+a. 
+verneområder etter naturmangfoldloven kapittel V eller markaloven § 11, utvalgte naturtyper 
+(naturmangfoldloven kapittel VI), prioriterte arter, vernede vassdrag, nasjonale laksefjorder og 
+laksevassdrag, objekter, områder og kulturmiljø fredet etter kulturminneloven 
+b. 
+truede arter eller naturtyper, verdifulle landskap, verdifulle kulturminner og kulturmiljøer, 
+nasjonalt eller regionalt viktige mineralressurser, områder med stor betydning for samisk 
+utmarksnæring eller reindrift og områder som er særlig viktige for friluftsliv 
+c. 
+statlige planretningslinjer, statlige planbestemmelser eller regionale planbestemmelser gitt i 
+medhold av plan- og bygningsloven av 27. juni 2008 nr. 71 eller rikspolitiske bestemmelser eller 
+rikspolitiske retningslinjer gitt i medhold av plan- og bygningsloven av 14. juni 1985 nr. 77. 
+d. 
+større omdisponering av områder avsatt til landbruks-, natur- og friluftsformål, samt reindrift 
+eller områder som er regulert til landbruk og som er av stor betydning for landbruksvirksomhet 
+e. 
+økt belastning i områder der fastsatte miljøkvalitetsstandarder er overskredet 
+f. 
+konsekvenser for befolkningens helse, for eksempel som følge av vann- eller luftforurensning 
+g. 
+vesentlig forurensning eller klimagassutslipp 
+h. 
+risiko for alvorlige ulykker som en følge av naturfarer som ras, skred eller flom. 
+I vurderingen av om planen eller tiltaket kan få vesentlige virkninger og følgelig skal 
+konsekvensutredes, skal det ses hen til virkningenes intensitet og kompleksitet, sannsynlighet for at 
+virkningene inntreffer og når de inntreffer, varighet, hyppighet og mulighet for å reversere eller 
+begrense dem, om virkningene strekker seg over landegrensene, samt samlede virkninger av forslaget 
+til plan eller tiltak og andre eksisterende, godkjente eller planlagte planer eller tiltak. 
+2. Egenskaper ved tiltaket (jfr §10) 
+a) Størrelse, planområde og utforming 
+Området ligger i Nordre Terråk/Sørfjorden i Bindal kommune i Nordland fylke. Brukstomta 
+Næringspark AS er et eiendomsselskap heleid av Bindal kommune. Selskapet disponerer en 
+industritomt på ca 50 000 m2 (Gnr 44, Bnr 5) (Figur 1), samt en industrikai som ble etablert i 2020. 
+Terråk industripark disponerer i dag 28 000 m2 av arealet ved Brukstomta, og har formål om å etablere 
+et landbasert postsmoltanlegg. Selskapet har inngått en avtale med Brukstomta om kjøp av tomta og 
+overdragelse er nært forestående.  
+Brukstomta Næringspark fikk godkjent reguleringsplan i 2019, med økt utnyttelsesgrad (60%) og tillegg 
+utfylling av sjøområde for tilrettelegging for dypvannskai. Området som er avsatt til reguleringsformål 
+næringsbebyggelse, tillater etablering av bebyggelse for industri-, håndverks- og lagervirksomhet, 
+samt kontor. Det legges vekt på at virksomheten har behov for sjø- eller havnetilknytning. Bebyggelsen 
+på næringsarealet skal ikke overstige 3 etasjer eller 12 meter mønehøyde over gjennomsnittlig planert 
+terreng. Det er søkt om å få fylle ut et område i Sørfjorden. Utfyllingen vil berøre omtrent 2300 m2 
+sjøoverflateareal (Figur 2). Bunnen på det tilstøtende området skrår bratt ned mot dypområder på 
+100-400 meters dyp. Området som skal utfylles består av fjell og noe løsmasser med en varierende 
+dybde fra 0 – 4 meter. 
+ 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+3 
+Figur 1: Industriområdet Brukstomta i Bindal kommune, ny reguleringsplan 2019. 
+Figur 2: Illustrasjon av området som har blitt søkt utfylt. 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+4 
+Figur 3: 3D-bilde av bunntopografi i området (Åkerblå, 2022). 
+b) Bruk av naturressurser 
+Det landbaserte postsmoltanlegget vil bruke ferskvann som er hentet fra vannsystemet Terråkelva, 
+som inkluderer Kvernhusfossen, Stillelva, Hellifossen, Lonan og øvrig nedslagsfelt i Terråkfjellet. 
+NærøysundGruppen har etablert en avtale med Clemens Kraft, som er eier og utbygger av Hellifossen 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+5 
+ 
+Kraft AS, Vassdragskonsesjon datert 18.12.2017, ref. NVE 201702741-15. Et uttak på 5,4 m3/min fra 
+konsesjonen til Hellifossen Kraft er godkjent av NVE. Andre naturressurser, sett bort fra areal i sjø som 
+er planlagt utfylt, vil ikke benyttes.  
+c) Avfallsproduksjon og utslipp 
+Anlegget som skal bygges er planlagt som et RAS-anlegg. Det vil si at i tillegg til mekanisk filtrering, 
+membranfiltrering og desinfeksjon av inntaksvannet, vil det være vannbehandlingstrinn internt i 
+anlegget. Dette inkluderer partikkeloppsamling i hvert enkelt produksjonskar, mekanisk filtrering med 
+trommelfilter (>60 µm), biologisk filtrering (biofilter) for fjerning av ammonium, proteinskimmer for 
+fjerning av mikropartikler, tilsetting av ozon, og desinfeksjon med UV. Avløpsvann fra anlegget vil 
+filtreres mekanisk og partiklene tas ut som slam som behandles i et slambehandlingssystem 
+(eksempelvis med avvanningstrinn, polymertilsetning og tørke, basert på hvilken prosessleverandør 
+som velges). Rejektvannet fra slamavskillingen vil behandles med partikkelfjerning og UV, før det 
+innlagres i resipienten på omtrent 90 meters dybde.  
+Beregning av utslipp fra lokaliteten er basert på en årsproduksjon på 10 millioner smolt, med en 
+gjennomsnittlig salgsstørrelse på 400 gram. Maksimal biomasse i anlegget vil være ca. 1200 tonn, og 
+årlig utfôring vil være 5000 tonn. Dette tilsvarer maksimalt 22 000 kg fôr/døgn. 
+For beregninger av utslipp til oppdrettsvannet, er det tatt utgangspunkt i veilederen for oppdrettssaker 
+når det gjelder innhold av og retensjon i fisken av organisk stoff (KOF), Tot-N og Tot-P. For suspendert 
+stoff er det forutsatt at 70 % av spist fôr blir lagret i fisken og det er videre regnet med at 
+tørrstoffinnholdet i spillfôr (beregnet 10 % spillfôr), er 94 %. Beregnede utslipp av nitrogen, fosfor, 
+total organisk karbon, BOD5 og KOF i avløpsvannet er presentert i tabell 1.  
+Tabell 1: Utslipp av næringssalter og organisk materiale i avløpsvannet ved maksimal produksjon 
+Utslipp 
+Utslipp (tonn pr år) 
+Nitrogen 
+145 
+Fosfor  
+23 
+Total organisk karbon 
+397 
+BOD5 
+86 
+KOF 
+102 
+ 
+To ulike modelleringer med totalt tre mulige utslippspunkt ble utført av Åkerblå (Åkerblå, 2021/2022). 
+Etter at den første modelleringen var gjennomført, ble planene for anlegget endret. Det er nå bestemt 
+at anlegget kun skal basere seg på inntak av ferskvann og at utslippspunktet skulle flyttes lengre 
+sørvest. Rapporten fra Åkerblå inneholder derfor noe informasjon som ikke lenger er relevant, men 
+som likevel gjengitt på ulike figurer i rapporten. Det er resultatene fra modellering nummer to som 
+gjelder, og derfor disse som presenteres.  
+Utslippssted (figur 4) vil være på omtrent 90 meters dyp, og det ligger mer enn 5 km unna de 
+eksisterende oppdrettsanleggene som er i området: 10858 Mulingen, 10862 Båsen og 14019 
+Øksningen. Utslippsmengden som modelleringen baserte seg på var 90 L/s, med utslippsmengde av 
+nitrogen og fosfor på henholdsvis 44,39 mg N/L og 7,75 mg P/L. Utslippet ble simulert med en 
+utslippsrate på 0,09 m3/s og 15 ppt salinitet. I tillegg til modelleringene er det også gjennomført måling 
+av bunnstrøm ved Terråk i mars-april 2022 (Åkerblå, 2022), som viser at bunnstrømmen ved valgt 
+utslippspunkt er svært sterk (gjennomsnittsstrøm 7,9 cm/sek). 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+6 
+ 
+ 
+Figur 4: Oversiktskart over området med gjeldende utslippspunkt, samt eksisterende 
+oppdrettsanlegg markert.  
+Modelleringen viser at utslippet ved bunnen i hovedsak spres mot sørvest inn i Sørfjorden (Figur 5), og 
+det er spor av utslippsvann øst for utslippspunktet, på sørsiden av Sørfjorden. Men konsentrasjonene 
+av utslipp er lave med verdier under 0.1%. Ved overflaten er også konsentrasjonene svært lave med 
+verdier godt under 0.1%. Modelleringen viser at konsentrasjonene av utslippsvann ved nærliggende 
+lokaliteter er svært lave (under 0,01%) for alle modellerte tidspunkt.  
+ 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+7 
+Figur 5: Modellering av utslipp: maksimal (venstre) og gjennomsnittlig (høyre) konsentrasjon i 
+overflaten. Utslippspunktet er markert med rød prikk. Konsentrasjoner av utslippsvann er vist med 
+fargeskala fra 0 til 0.5%, konsentrasjon av nitrogen (µgN/L) vist på skala i midten, og konsentrasjon 
+av fosfor (µgP/L) vist på skala til høyre. Dette viser maksimalt spredningspotensial, og er ikke en 
+realistisk situasjon (Åkerblå 2021/2022). 
+Modelleringen viser også at spredningen av fosfor og nitrogen følger samme mønster som utslippet. 
+Det er beregnet at maksimalkonsentrasjonen er ca 0,1% rundt utslippsposisjonen på overflaten. Dette 
+gir en maksimal konsentrasjon av nitrogen og fosfor på henholdsvis 44,39 µg/L og 7,75 µg/L, noe som 
+er langt under grenseverdiene (< 250 µgN/L for sommer og <291 µgN/L for vinter; 11,5 µgP/L for 
+sommer og <20 µgP/L for vinter) for tilstandsklasse «Svært god». 
+Bedriften vil, så lang det er mulig, uten urimelige kostnader eller ulemper, sørge for at mengden 
+skadelige stoffer i avfallet er så liten som mulig. Avfall, inkludert farlig avfall, skal håndteres etter 
+gjeldende regler. Avfall med biologisk materiale som død fisk, avskjær og blodvann vil samles opp og 
+konserveres omgående i ensilasjetanker. Disse skal ha tilstrekkelig kapasitet i forhold til anleggets 
+produksjon, og være sikret mot utslipp til miljøet. Virksomheten vil i tillegg ha beredskap til å kunne 
+håndtere massiv fiskedød. 
+d) Risiko, ulykker og/eller katastrofer 
+Anleggets biosikkerhetsplan og internkontrollsystem, samt risikovurderinger, vil bli dokumentert etter 
+gjeldende lover og regler. Disse skal omfatte alle forhold som kan føre til akutt forurensing med fare 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+8 
+ 
+for helse og/eller miljøskader inne på eller utenfor området. Utfylling i sjø vil ikke ha innvirkning på 
+farled. Utløpspunkt vil ligge i Sørfjorden, altså utenfor farled (Figur 6). 
+ 
+Figur 6: Farled og lyssignaler (Naturbase, 2021) 
+3. Mulig påvirkning eller konflikter med omgivelser (jfr §10) 
+a) Verneområder 
+Det er ingen marine verneområder eller andre vernede vassdragsområder i nærheten av området som 
+skal utvikles, men Reppen Naturreservat med verneplan for edelløvskog/rike løvskoger ligger ca 6,8 
+km i luftlinje, nordøst for Brukstomta (Naturbase, 2021; Figur 7). Utviklingsområdet ligger heller ikke i 
+en nasjonal laksefjord. Nærmeste elveutløp og utløpspunkt for anadrom fisk ligger omtrent 0,8 km i 
+luftlinje fra Brukstomta (Naturbase, 2021; Figur 8). Det er verd å merke seg at Terråkelva ikke er en 
+nasjonal lakseelv.  
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+9 
+Figur 7: Verneområder (rød markering) (Naturbase, 2021) 
+Figur 8: Elveutløp blå prikk. Blå linje er markering av avstand i luftlinje (0,8 km) (Naturbase, 2021) 
+Behovsvurdering for konsekvensutredning– Terråk industripark 
+10 
+b) Arter, naturtyper og landskap 
+Det er registrert et lite antall arter av stor og særlig stor nasjonal forvaltnings interesse innenfor en 
+radius på 2 km fra Brukstomta (Naturbase, 2021; Figur 9 og Tabell 2) samt noen truede arter innenfor 
+samme område (Artsdatabanken, 2021; Tabell 3). Verd å merke seg er at området er preget av 
+industrivirksomhet, og at det har vært drevet treforedlingsindustri der i over 100 år. 
+Figur 9: Arter av stor og særlig stor forvaltningsinteresse. Grå prikk: Arter av særlig stor 
+forvaltningsinteresse (makrelltærne og sildemåke). Gult kryss: Arter av stor forvaltningsinteresse 
+(fiskemåke, skorpefiltlav, ærfugl). Gul prikk: Ansvarsarter (bjørkefink, svartbak) (Naturbase, 2021). 
+Tabell 2: Arter av stor og særlig stor nasjonal forvaltningsinteresse (Naturbase, 2021) 
+Forvaltningskategori 
+Vitenskapelig navn 
+Norsk navn 
+Artsgruppe 
+Særlig 
+stor 
+forvaltningsinteresse 
+Sterna hirundo 
+Makrellterne 
+Fugler 
+Særlig 
+stor 
+forvaltningsinteresse 
+Larus fuscus fuscus 
+Nordlig 
+sildemåke 
+Fugler 
+Stor forvaltningsinteresse 
+Larus canus 
+Fiskemåke 
+Fugler 
+Stor forvaltningsinteresse 
+Somateria mollissima 
+Ærfugl 
+Fugler 
+Stor forvaltningsinteresse 
+Fuscopannaria ignobilis 
+Skorpefiltlav 
+Fugler 
+Ansvarsarter 
+Fringilla montifringilla 
+Bjørkefink 
+Fugler 
+Ansvarsarter 
+Larus marinus 
+Svartbak 
+Fugler 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+11 
+Tabell 3: Rødlistearter (Artsdatabanken, 2021) 
+Kategori 
+Vitenskapelig navn 
+Norsk navn 
+Artsgruppe 
+Nær truet (NT) 
+Menegazzia terebrata 
+Skoddelav 
+Lav 
+Nær truet (NT) 
+Fuscopannaria ignobilis 
+Skorpefiltlav 
+Lav 
+Nær truet (NT) 
+Sprattus sprattus 
+Brisling 
+Fisker 
+Nær truet (NT) 
+Emberiza citrinella 
+Gulspurv 
+Fugler 
+Nær truet (NT) 
+Somateria mollissima 
+Ærfugl 
+Fugler 
+Nær truet (NT) 
+Larus canus 
+Fiskemåke 
+Fugler 
+Nær truet (NT) 
+Riparia riparia 
+Sandsvale 
+Fugler 
+Nær truet (NT) 
+Fuscopannaria ignobilis 
+Skorpefiltlav 
+Lav 
+Nær truet (NT) 
+Menegazzia terebrata 
+Skoddelav 
+Lav 
+Sterkt truet (EN) 
+Lynx lynx 
+Gaupe 
+Pattedyr 
+Sterkt truet (EN) 
+Sterna hirundo 
+Makrellterne 
+Fugler 
+Sterkt truet (EN) 
+Gulo gulo 
+Jerv 
+Pattedyr 
+Sårbar (VU) 
+Pseudocyphellaria crocata 
+Lav 
+Sårbar (VU) 
+Arthothelium norvegicum 
+Trønderflekklav 
+Lav 
+Sårbar (VU) 
+Antrodia mellita 
+Honninghvitkjuke 
+Sopper 
+Det er ikke registrert oppvekst- og beiteområder i nærheten av Brukstomta (Naturdata, 2021). I deler 
+av fjordene (Sørfjorden-ytre/Terråkfjorden/Øyfjorden og Breivika) utenfor tiltaksområdet (turkis 
+skravering) er det registrert lokalt viktig gytefelt for torsk (stasjonær bestand av kysttorsk) (Naturbase, 
+2021; Figur 10). 
+Figur 10: Arter og artsforvaltning: Gytefelt for torsk (turkis og brun skravering) (Naturbase, 2021). 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+12 
+Kysttorsk vil normalt sett gyte i beskyttede områder på 20-60 meters dyp, og torskeeggene vil flyte i 
+de øverste 40 meter av vannsøylen før de klekker i løpet av 2-3 uker. Nyklekkede torskelarver vil typisk 
+befinne seg mellom 0-10 meters dyp (Karlsen og van der Meeren, 2013). Ålegress og tareskoger er 
+spesielt viktige områder for torskeyngel. Det er ikke registrert ålegress eller tareskoger i nærheten av 
+Brukstomta (Naturbase, 2021). I rapporten til Karlsen og van der Meeren (2013) konkluderes det med 
+følgende: «I sum finnes det ikke dokumentasjon på at lakseoppdrett påvirker gyteatferden hos torsk 
+eller andre marine arter, men det mangler konkrete studier som undersøker mulige negative effekter 
+på gyting.» Når det gjelder utslipp av avløpsvann fra smoltanlegg, sier samme rapport at omfanget av 
+negativ påvirkning (eks. tilførsel av næringssalter og organisk materiale, oksygenforbruk, 
+oppblomstring av alger, fetthinne på vannoverflaten) vil være avhengig av vannutskifting og 
+værforhold. Modellering utført av Åkerblå (Åkerblå, 2021/2022) viser at utslipp fra det planlagte 
+anlegget vil ligge langt under gjeldende grenseverdier (beskrevet i kapittel 2 a og c). 
+Det er ikke registrert områder eller kulturmiljø i sjø som vil berøres av tiltaket. Det er registrert noen 
+kulturminner og bygninger på land (Naturbase, 2021; Figur 11), men disse vil heller ikke berøres av 
+tiltaket. Kartlagte friluftsområder ligger hovedsakelig sør/sør-øst for området (Naturbase, 2021; Figur 
+12), og vil ikke berøres av tiltaket. Det er ikke arealer innenfor området som er spesielt tilrettelagt for 
+barn og unge (jfr. Planbeskrivelse fra 2019, PlanID 201802). 
+Figur 11: Kulturminner og bygninger (Naturbase, 2021) 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+13 
+Figur 12: Kartlagte friluftslivsområder (Naturbase, 2021) 
+c) Planbestemmelser 
+Brukstomta Næringspark fikk godkjent reguleringsplan i 2019, med økt utnyttelsesgrad (60 %) og tillegg 
+utfylling av sjøområde for tilrettelegging for dypvannskai. Området som er avsatt til reguleringsformål 
+næringsbebyggelse, tillater etablering av bebyggelse for industri-, håndverks- og lagervirksomhet, 
+samt kontor. Det legges vekt på at virksomheten har behov for sjø- eller havnetilknytning. Bebyggelsen 
+på næringsarealet skal ikke overstige 3 etasjer eller 12 meter mønehøyde over gjennomsnittlig planert 
+terreng. Planlagt anlegg er illustrert i figur 13. 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+14 
+ 
+ 
+Figur 13: Skisse over planlagt anlegg på Brukstomta. På bildet vises avdelingsvis inndeling, med 
+klekkeri, startfôring, parr, smolt og to postsmolt avdelinger. I tillegg oksygenanlegg, 
+slambehandling, fôrlager og verksted. 
+ 
+d) Omdisponering av arealer avsatt til landbruks-, natur- og friluftsformål 
+Som beskrevet i kapittel 2 b, figur 11, ligger kartlagte friluftsområder hovedsakelig på land sør/sør-øst 
+for tiltaksområdet (Naturbase, 2021; Figur 11), og vil ikke berøres av tiltaket. Søknad om konsensjon 
+kan derfor behandles i henhold til gjeldende plan. 
+e) Økt belastning i områder der fastsatte miljøkvalitetsstandarder er overskredet 
+Området er tilknyttet vannforekomstene Øyfjorden (0360010600-4-C) og Sørfjorden-ytre 
+(0360010700-3-C) og til en viss grad Terråkfjorden (0360010600-3-C). Disse ligger i økoregion 
+Norskehavet Sør og går under definisjonen beskyttet kyst/fjord. Miljømål og miljøtilstand for de ulike 
+vannforekomstene er listet under. 
+• 
+Øyfjorden: Miljømål: økologisk = god; kjemisk = god; risiko = ingen risiko. Miljøtilstand: 
+Økologisk = god; kjemisk = udefinert. (VannNett, 2021a) 
+• 
+Sørfjorden-ytre: Miljømål: økologisk = god; kjemisk = god; risiko = ingen risiko. Miljøtilstand: 
+Økologisk = god; kjemisk = udefinert. (VannNett, 2021b)  
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+15 
+ 
+• 
+Terråkfjorden: Miljømål: økologisk = god; kjemisk = god; risiko = ingen risiko. Miljøtilstand: 
+økologisk = god; kjemisk = udefinert. (VannNett, 2021c)  
+For Øyfjorden er bunnfauna og fosforforhold også kartlagt i 2018, og disse er målt til god/svært god 
+for bunnfauna, og svært god for fosforforhold. Det antas at avrenning og utslipp fra fiskeoppdrett vil 
+påvirke vannforekomsten i liten grad. For de andre vannforekomstene er dette ikke registrert.  
+Basert på informasjonen over samt utslippsmodellering utført av Åkerblå (Åkerblå, 2021/2022) antas 
+det ikke at etablering av anlegget vil ha signifikant innvirkning på miljømålene. Utslippene fra anlegget 
+vil følge gjeldende lover og regler, og tiltak vil iverksettes om miljømålene overskrides. 
+f) Helsekonsekvenser for befolkningen i området 
+Vi vurderer det slik at tiltaket ikke vil gi vesentlig belastning for befolkningen i området, verken med 
+tanke på luft-, lys-, støy- eller luktforurensing. Trafikk vil føres inn og ut av anleggsområdet på østsiden 
+(Figur 12), og vil slik ikke legges i direkte forbindelse med nærliggende bolighus.  
+g) Vesentlig forurensing eller klimagassutslipp 
+Anlegget vil ikke gi en vesentlig økning i utslipp av klimagasser. Se også kapittel 2c om 
+avfallshåndtering. 
+h) Risiko for alvorlige ulykker som en følge av naturfarer som ras, skred eller flom 
+Det er ikke registrert noen faresoner for flom, skred eller fjellskred i området rundt Brukstomta. Det 
+er registrert aktsomhetsområder for flom i forbindelse med Terråkelva og Tverråa omtrent 0,5-0,6 km 
+sør/sørvest for Brukstomta, og i forbindelse med Fallbekkvatnet og Fallbekken, i overkant av 1,5 km 
+sør/sørøst for Brukstomta (Naturbase, 2021).  
+4. Konklusjon 
+Terråk industripark planlegger å etablere et landbasert oppdrettsanlegg med resirkuleringsteknologi 
+(RAS) for produksjon av postsmolt på Brukstomta i Terråk, med en planlagt årsproduksjon på 4000 
+tonn.  
+Basert på modellering av spredning av utslipp, strømmålinger og vannforekomstenes nåværende 
+miljøtilstand, antas det at etableringen vil ha lite utslag på de biologiske kvalitetsstandardene. Valg av 
+utslippspunkt er tatt med et godt faglig grunnlag basert på blant annet modellering av utslippsvannets 
+spredning.  
+Det er ikke gjort funn av korallforekomster eller rødlistede arter i vannforekomstene. Tiltaket ligger 
+tilstøtende, og delvis over, et lokalt viktig gytefelt for torsk. Mindre områder av disse forekomstene vil 
+kunne gå tapt i den planlagte utfyllingen, men vil i liten grad påvirkes av rørledninger til sjøvannsinntak 
+eller avløp. Det er uvisst om lakseoppdrett påvirker torsks gyteadferd, men modellering av utslippet 
+viser at utslippsvannet fortynnes raskt i umiddelbar nærhet til utslippspunktet.  
+Morefish AS har kommet fram til at området er godt egnet for det planlagte tiltaket, og at det ikke er 
+i store konflikter med eller til stor skade for miljøet. Vi anser derfor at det ikke er nødvendig med 
+konsekvensutredning for sjøarealene som er forbundet med tiltaket. 
+ 
+ 
+ 
+Behovsvurdering for konsekvensutredning – Terråk industripark 
+ 
+16 
+ 
+5. Referanser 
+Artsdatabanken, 2021. Artskart, lastet ned 09.12.2021 fra 
+https://artskart.artsdatabanken.no/app/#map/427864,7623020/3/background/greyMap/filter/%7B
+%22IncludeSubTaxonIds%22%3Atrue%2C%22Found%22%3A%5B2%5D%2C%22NotRecovered%22%3
+A%5B2%5D%2C%22CenterPoints%22%3Atrue%2C%22Style%22%3A1%7D  
+Karlsen og van der Meeren, 2013. Rapport: Fisken og havet, nummer 6. Kunnskapsstatus – plassering 
+av oppdrettsanlegg og mulige interaksjoner med gytefelt og oppvekstområder for marin fisk og 
+vandringsruter for laks. Utgitt av Havforskningsinstituttet.  
+Lovdata, 2021. Forskrift om konsekvensutredninger, lastet ned 14.12.2021 fra  
+https://lovdata.no/dokument/SF/forskrift/2017-06-21-854  
+Naturbase, 2021. Verneområder, Naturtyper, Kulturlandskap, Kulturminner, Friluftslivområder, lastet 
+ned 13.11.2021 fra https://geocortex01.miljodirektoratet.no/Html5Viewer/?viewer=naturbase  
+VannNett, 2021a. Vannforekomst, lastet ned 14.12.2021 fra https://www.vann-
+nett.no/portal/#/waterbody/0360010600-4-C   
+VannNett, 2021b. Vannforekomst, lastet ned 14.12.2021 fra https://www.vann-
+nett.no/portal/#/waterbody/0360010700-3-C  
+VannNett, 2021c. Vannforekomst, lastet ned 14.12.2021 fra https://www.vann-
+nett.no/portal/#/waterbody/0360010600-3-C 
+Åkerblå, 2021/2022. Rapport: Modellert spredning av utslipp fra Terråk SM-04321-Terråk. 1221-
+ver02.pdf.  
+Åkerblå, 2022. Strømrapport: Måling av bunnstrøm ved Terråk i mars – april 2022. SR-TI-Terråk-
+104332-01-001.pdf.

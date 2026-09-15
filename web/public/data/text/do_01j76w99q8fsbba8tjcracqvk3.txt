@@ -1,0 +1,491 @@
+﻿Side 1 av 9 
+1 
+DESIGNGRUNNLAG 
+1.1 
+GENERELT 
+Dette tilbudet er basert på div. kommunikasjon og møter med Andfjord Salmon. Det er forespurt på leveranse 
+av et slambehandlingsanlegg med avsalting og avvanning til 25-30% TS (MA – Mekanisk Avvanning anlegg) for 
+trinn 1. 
+1.2 
+DESIGNBASIS 
+Anlegget er designet for en maksimal kapasitet på 179 kg TS/time basert på et design faktor 100 kg TS/tonn fòr. 
+Tabell 2-1 gir en oversikt over designbasis sammen med noe annen informasjon. 
+ 
+Tabell 2-1: Design basis 
+ 
+Ut ifra designtallene over er det beregnet en massebalanse for trinn 1, se Figur 2-1. 
+ 
+ 
+Figur 2-1: Massebalanse 
+Viktige punkter: 
+ 
+• 
+Strøm 1 gjelder det som genereres i fiskekaret og går til MA anlegget.  
+ 
+• 
+Slammet fortykkes til 4% TS. 
+ 
+• 
+Saliniteten reduseres ved å tilsette ferskvann fra 3,5 % til 1,5 % på fortykket slam. 
+• 
+Det er antatt at vi avvanner det fortykkede slammet til 25% TS. 
+Design Basis 
+Enhet
+BT 1
+BT 2
+Anm.
+Maks. Utfòring pr. basseng
+kg/mnd
+420 518
+Maks. utfòring pr. firer gruppe+K0
+kg/mnd
+1 285 358
+Maks slammengde
+kg TS/mnd
+128 536
+ 
+100 kg TS/tonn fòr
+Maks. Slammengde
+kg TS/time
+179
+Væske mengde pr. basseng
+m3/hr
+30
+Væske mengde 4 basseng + K0
+m3/hr
+150
+Salinitet
+%
+3,5 %
+3,50 %
+  
+Side 2 av 9 
+2 
+PROSESSBESKRIVELSE 
+2.1 
+HOVEDPROSESS 
+Det vises til vedlagt prosessflytskjemaer og arrangements tegning. 
+2.1.1 
+Fortykking 
+Avløp fra fiskeanlegg samt avløp fra avvanner skrue går først til en pumpe sump på 5 m3 med en oppholdstid på 
+2 minutter for å få så jevn flow som mulig inn på den gravimetriske fortykkeren. Vår erfaring er at en gravimetrisk 
+fortykker sikrer en renseeffekt på over 90%, og dermed lavt slamtap. Enheten er også enkel i bruk, har få 
+bevegelige deler og krever derfor lite vedlikehold. Slammet fortykkes til 4% TS og pumpes herfra opp i en 
+blandetank med en kapasitet på 15 m3. 
+2.1.2 
+Avsalting   
+I blandetanken hvor ferskvann tilsettes reduseres salinitet i det fortykkede slammet fra 3,5 wt. % til 1,5 wt. %. og 
+slammets TS vil være på 1,2% etter vanntilsats. Vi har god erfaring med den måten vi gjør dette på ved anlegget 
+hos Fredrikstad Seafood, nylig kjørt i gang. 
+2.1.3 
+Flokkulering og avvanning 
+Herfra doseres det fortykkede slammet inn på en flokkuleringstank hvor polymer tilsettes ved innløpet og videre 
+herfra inn på en avvanner skrue. En slik separator har vi veldig god erfaring med.  Bruker lite elektrisitet, det er 
+lite støy og muliggjør av vanning av slammet til rundt 25-30 % TS. 
+Avvannet slam med 25-30% TS er veldig biologisk ustabilt, og det som etter avvanning til 30% ligner et «fast 
+stoff», blir etter bare noen dager endret til en «pasta» med mange fysiske likhetstrekk til Havregrøt.  
+2.1.4 
+Kvalitetskrav  
+Slam i settefiskindustrien bestående av fekalier og fòrspill er vanskelig å avvanne og tørke, noe som skyldes at 
+slammet ikke inneholder noe fiber som vanligvis er en stor fordel ved avvanning av slam. Slammet har mange 
+fysiske likhetstrekk med majones, og man kan forstå hvor vanskelig det er å avvanne et slikt fysisk materiale eller 
+«pasta». En annen ting vi har erfart ved avvanning av slam er at «tid» er en viktig parameter da det avvannede 
+slammet veldig fort endrer fysisk karakter ved henstand kombinert med f.eks. omrøring. 
+ 
+Ved bruk av riktig polymer og egnet av-vanningsutrustning har vi greid å oppnå 25-30 % tørrstoff på det 
+avvannede slammet. 
+ 
+ 
+ 
+  
+Side 3 av 9 
+3 
+BESKRIVELSE AV UTSTYR 
+Det viktigste hovedutstyret er her spesifisert. Slike enheter som tanker, pumper, instrumentering, 
+prosesskontrollanlegg osv. er ikke spesifisert, men er en del av Sterners komplette prosessleveranse. 
+3.1 
+TYNNSLAMPUMPE  
+En sentrifugalpumpe bruker til å mate tynnslam fra innløppumpesump/slamlager til fortykker. Den er utstyrt 
+med frekvensomformer og trykksensor. Pumpehastigheten kan styres basert på ønsket flå til fortykker og 
+slamnivået i pumpesumpen/lagertanken. 
+ 
+Type 
+Grundfos NB 150-250/235 BAF1BESBAQELW5 
+Antall  
+1 stk 
+Max. Flow 
+239,1 m³/time 
+Løftehøyde 
+6,163 m 
+Maks. driftstrykk 
+10 bar 
+Innløpstilkobling 
+DN 200 
+Utløpstilkobling 
+DN 150 
+Materiale Aksel 
+SS304 
+Motortype 
+ 
+ 
+SIEMENS 
+Merkeeffekt  
+ 
+5,5 kW 
+Virkningsgrad 
+ 
+ 
+IE3 88% 
+Bruttovekt 
+ 
+ 
+254 kg 
+3.2 
+FORTYKKER 
+Til fortykking av slammet benytter vi en såkalt «Løkfortykker». Dette er en konisk lamellfortykker, som igjen er 
+vår egen konstruksjon. Hensikten med fortykkeren er at den skal fortykke slammet opp til ca. 4 % tørrstoff. En 
+egen tørrstoffmåler styrer uttaket av fortykket slam. Fortykkeren er utstyrt med innløpskjerm, sagtannsrenne, 
+lamell ringer.  
+  
+Side 4 av 9 
+ 
+Type 
+LF-5 
+Antall  
+1 stk 
+Max. Flow 
+150 m3/time 
+Høyde 
+ca.5000 mm 
+Diameter 
+Ø5000 mm 
+Materiale  
+SS304 
+Utløp slam 
+DN 100 
+Vinkel kon 
+60 grader 
+3.3 
+SLAMPUMPE – FORTYKKET SLAM 
+Slampumper mater fortykket slammet fra fortykker til blandetank og videre avsaltede tynnslam gjennom 
+flokkuleringstank og inn i skruepressen fra blandetanken. Pumper har frekvensomformer. Væskemengden er 
+avhengig av innstillingstrykket på flokkuleringstanken. Flowmålere måler slamstrømmen.  
+ 
+ 
+ 
+fra fortykker til blandetank 
+fra blandetank til skruepress 
+Type  
+Seepex BN 10-6LS 
+Seepex BN 17-6LS 
+Antall  
+1 stk 
+1 stk 
+Kapasitet  
+4,3 – 7,4 m3/time 
+9,6 – 12,7 m3/time 
+  
+Side 5 av 9 
+Effekt  
+1,5 kW 
+3 kW 
+Dimensjon 
+1261*248*270 mm 
+1522*295*310 mm 
+Tomvekt  
+92 kg 
+148 kg 
+Materiale rotor  
+1.0503 (C45) / AISI 1045 
+1.0503 (C45) / AISI 1045 
+Materiale stator  
+NBR - Perbunan 
+NBR - Perbunan 
+3.4 
+BLANDETANK MED RØREVERK 
+1 stk 15 m3 tank skal brukes til å avsalting med en omrører styrt av frekvensomformer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volum 
+15 m3 
+Antall 
+1 
+Høyde 
+ca. 4900mm 
+Diameter    
+Ø2300 mm 
+Utløp slam 
+DN 100 
+Materiale 
+SS304 
+Vekt 
+ca. 2000 kg 
+Motor effekt (Røreverk) 
+0,75 kW 
+3.5 
+POLYMERDOSERINGSENHET FOR TØRR POLYMER 
+Polymerenheten er basert på tørr polymer og med fortynning med rent vann til en polymeroppløsning ca. 0,1 - 
+0,2 wt.%. Inkludert skrue pumpe med frekvensomformer for å dosere polymer løsningen til slammet, 
+proporsjonalt med slamstrømmen. Spesifikk polymerdosering antas å være 5 g polymer/kg TS, som gir ca. 20 
+kg/dag (0,8 kg/time). 
+  
+Side 6 av 9 
+ 
+ 
+Type 
+Tomal PolyRex 1.0 
+Kapasitet 
+0,9 – 1,1 kg/time 
+Vannforbruk ~3,5 bar 
+1000L/kg Pol 
+Effekt 
+1,2 kW 
+Tank volum  
+2*0,5 m3 
+3.6 
+POLYMERPUMPE  
+Polymerpumpen mater polymerløsningen til slammet som går til flokkuleringstanken. Pumpen har 
+frekvensomformer. Væskemengden er avhengig av innstillingstrykket på flokkuleringstanken. Flowmåleren 
+måler slamstrømmen. 
+ 
+Type  
+Seepex BN 2-6L 
+Kapasitet  
+0,8-2,2 m3/time 
+Effekt  
+0,75 kW 
+Dimensjon 
+~645*130*185 mm  
+Tomvekt  
+21 kg 
+Materiale rotor  
+SS316  
+Materiale stator  
+NBR (Nitril) 
+  
+Side 7 av 9 
+3.7 
+FLOKKULERINGSTANK 
+Rund sylindrisk tank med en løpende mikser for tilstrekkelig oppholdstid. Den «polymeragglomerater» de fine 
+suspenderte delene til filtrerbare fnokker. Den aktuelle flokkuleringskvaliteten kan kontrolleres ved å ta ut en 
+prøve gjennom en ventil. Det flokkulerte slammet forlater tanken under trykk inn i skruepressen.  
+ 
+ 
+ 
+Type  
+IEA MB0850  
+Volum 
+850 L 
+Effekt (Røreverk) 
+1,5 kW 
+Dimensjon  
+1023x948x2164 mm 
+Tomvekt  
+300 kg  
+Materiale  
+SS304 
+3.8 
+AVVANNER 
+Avvanneren er en type skruepresse med et horisontalt kontinuerlig avvanningssystem med en transportskrue 
+som roterer i en perforert sil. Den graderte banen på skruen komprimerer gradvis fnokkene. Filtratet presses 
+gjennom perforeringene i silen. Silen automatisk blir rengjort med vaskevannet. Når fnokkene når 
+utslippspunktet, vil en kon aktiveres av luftsylindere som gir den et trykk og som tiltar for å oppnå maksimal 
+avvanning. Fnokkene bygger kaker og forlater kontinuerlig pressen og faller vha. gravitasjon til en transportskrue 
+eller slambeholder. 
+ 
+  
+Side 8 av 9 
+Type 
+IEA SP-HF 08 XL 
+Maks. kapasitet 
+280 kg TS/time  
+Effekt  
+3 kW 
+Automatisk spyling 
+416 L / syklus (132 L / min. v. 5 bar) 
+Tyktluft >6 bar 
+14 m3/time (3,15 min/time) 
+Dimensjon  
+6460 x 1440 x 1840 mm 
+Vekt tom 
+5500 kg 
+Ramme materiale  
+SS304 
+Materiale sil  
+SS304 
+Materiale skrue                                   
+SS304 
+3.9 
+CONTAINER MED FORDELINGSSKRUE 
+ 
+Type 
+MFS Slamcontainer Micodan  
+Netto slam volum 
+20 m3 
+Antall  
+2 stk 
+Dimensjon 
+6420x2550x2060 mm 
+Materiale  
+Epoxy behandlet svart stål 
+ 
+ 
+ 
+ 
+  
+Side 9 av 9 
+Type 
+WSC8 - fordelingsskrue 
+Utløper  
+2 stk 
+Lengde  
+8 m 
+Effekt  
+2,2 kW 
+Kapasitet  
+10 m3/h 
+Vekt  
+480 kg 
+Materiale  
+Epoxy behandlet svart stål 
+ 
+ 
+A
+Ferskvann
+Fra Settefiskanlegg
+TTAKSTANK
+1x25m3
+2
+3
+LAMELLFORTYKKER
+LF5,0
+4
+5
+LAMLAGER
+1x10m3
+6
+7
+8
+NOTES:
+1.
+2.
+3.
+A
+B
+C
+Mixer
+Avvanner
+WSP25
+B
+C
+D
+E
+POLYMER
+AVVANNER
+A
+XX.XX.X
+xx
+xx
+xx
+D
+E
+REV
+DATE
+REVISION DESCRIPTION
+DRAWN ICHECK
+APPR
+F
+THIS DRAWING IS THE PROPERTY OFSTERNER AS, THE DRAWINGCAN NOT BE
+COPIED. DISTRIBUTEDOROTHERWISE USED WITHOUT OUR WRITTEN CONSENT
+PROJECT
+Andf jord Salmon MA
+DRAWING NO
+F
+DRAWINGTITLE
+ANDFJORD SALMON MA PFD
+CLIENT
+Andf jord Salmon
+2
+3
+4
+5
+6
+7
+FORMAT
+SHEET 1/1
+SCALE: 1:x
+8
+MA ( 1 : 100 )
+C-C ( 1 : 100 )
+C
+C
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+A
+A
+B
+B
+C
+C
+D
+D
+E
+E
+F
+F
+G
+G
+H
+H
+DENNE TEGNINGEN TILHØRER STERNER AS. OG KAN IKKE KOPIERES, DISTRUBIERES 
+ELLER BRUKES PÅ ANNEN MÅTE UTEN SKRIFTLIG TILLATELSE.
+PROSJEKT:
+STATUS:
+REVISJON:
+TEGNINGSNR:
+TEGNINGSNAVN:
+KUNDE:
+ARK:
+SKALA:
+3 / 3 
+Andfjord Salmon MA
+Andfjord Salmon MA
+Andfjord Salmon
+1 : 100
+ARK STØRRELSE:
+A1
+13100
+19600
+4250
+10000

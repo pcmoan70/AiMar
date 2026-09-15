@@ -1,0 +1,2506 @@
+﻿Å atlantis
+
+SUBSEA FARMING
+
+SLUTTRAPPORT 2021
+
+VE inkabergHansen AKVAcGrour
+
+Sluttrapport Atlantis Subsea Farming  
+ 
+1 
+ 
+Innhold 
+ 
+1 
+Sammendrag ..................................................................................................................................................................... 2 
+2 
+Innledning ......................................................................................................................................................................... 8 
+2.1 
+Målkriterier og rapportering ................................................................................................................................... 9 
+2.2 
+Målsettinger for prosjektet ..................................................................................................................................... 9 
+2.3 
+Beskrivelse av det teknologiske konseptet ........................................................................................................... 11 
+2.4 
+Utsett og lokaliteter .............................................................................................................................................. 13 
+2.5 
+Biologisk kunnskap om å oppdrette laks i dypet ................................................................................................... 14 
+3 
+Design- og byggefase ...................................................................................................................................................... 16 
+3.1 
+Designkriterier ...................................................................................................................................................... 17 
+3.2 
+Sertifiseringer ........................................................................................................................................................ 18 
+3.3 
+Byggefase .............................................................................................................................................................. 19 
+3.4 
+Funksjonstesting ................................................................................................................................................... 19 
+4 
+Operasjonelle biologiske og teknologiske resultater ...................................................................................................... 21 
+4.1 
+Operasjonelle biologiske resultater ...................................................................................................................... 22 
+4.1.1 
+Miljø ............................................................................................................................................................ 22 
+4.1.2 
+Fiskevelferd ................................................................................................................................................. 22 
+4.1.3 
+Fiskeadferd .................................................................................................................................................. 24 
+4.1.4 
+Lakselus ....................................................................................................................................................... 25 
+4.1.5 
+Produksjonseffektivitet ............................................................................................................................... 25 
+4.2 
+Operasjonelle teknologiske resultater .................................................................................................................. 26 
+4.2.1 
+Luftkuppel ................................................................................................................................................... 26 
+4.2.2 
+Flytekrage med tilhørende kablings- og styringssystem.............................................................................. 27 
+4.2.3 
+Fortøyningssystem inkludert regulerbare bøyer ......................................................................................... 31 
+4.2.4 
+Krefter i konstruksjonen .............................................................................................................................. 32 
+4.2.5 
+Vannfôringssystem ...................................................................................................................................... 32 
+4.2.6 
+Dødfisksystem ............................................................................................................................................. 33 
+4.3 
+Hovedkonklusjoner og anbefalinger fra produksjonsperiodene ........................................................................... 34 
+5 
+Erfaringer og læring ........................................................................................................................................................ 35 
+5.1 
+Plattform for nye ideer ......................................................................................................................................... 35 
+5.2 
+Praktisk drift .......................................................................................................................................................... 35 
+5.3 
+Kunnskap om lokaliteten ...................................................................................................................................... 37 
+5.4 
+Vesentlige modifikasjoner eller endrede rutiner etter prosjektperioden ............................................................. 40 
+6 
+Evaluering av prosjektet som helhet .............................................................................................................................. 41 
+7 
+Suksesskriterier med tanke på kommersialisering og videre planer .............................................................................. 42 
+ 
+Vedlegg 
+Vedlegg 1 Målkriterier og oppfyllelse av disse 
+Vedlegg 2 Oversikt foredrag, artikler og annen kunnskapsspredning 
+Sluttrapport Atlantis Subsea Farming  
+ 
+2 
+ 
+1 Sammendrag 
+Atlantis Subsea Farming AS ble i februar 2018 tildelt en utviklingstillatelse for å utvikle og teste 
+nedsenkbare oppdrettsanlegg for laks. Utviklingstillatelsene er en ordning der særtillatelser kan 
+tildeles teknologiprosjekter med betydelig innovasjonshøyde og høye investeringer. Formålet er å 
+utvikle teknologi som kan løse næringens miljø- og arealutfordringer.  
+Prosjektet Atlantis er nå gjennomført og i følge prosjektets målkriterier er det krav om å utarbeide en 
+sluttrapport før det søkes om å konvertere utviklingstillatelsen til en ordinær tillatelse. Denne 
+sluttrapporten inneholder en evaluering av prosjektet med basis i resultater fra måleprogrammene, 
+deling av erfaringer, samt en vurdering av eventuelle designendringer/modifikasjoner og interne 
+suksesskriterier med tanke på kommersialisering.   
+AKVA group ASA, SinkabergHansen AS og Egersund Net AS startet i 2014 arbeidet med å utvikle 
+nedsenkbare oppdrettsanlegg for lakseoppdrett. De tre selskapene etablerte Atlantis Subsea Farming 
+AS (Atlantis) med mål om å flytte produksjonen dypere ned i vannsøylen. Hensikten var å unngå 
+utfordringer med lakselus, ivareta rømmingssikkerhet og ta i bruk mer eksponerte lokaliteter enn det 
+som er vanlig i næringen i dag. Prosjektet var godt i gang da politiske myndigheter mot slutten av 
+2015 lanserte et nytt konsept med utviklingstillatelser. Ordningen samsvarte godt med målsettingen i 
+Atlantis og prosjektet søkte om seks tillatelser i slutten av januar 2016, og fikk til slutt tildelt en 
+tillatelse.  
+Atlantis Subsea Farming har gjennom hele prosjektperioden vært opptatt av å formidle resultater fra 
+prosjektet i form av offentlig tilgjengelige rapporter som er publisert på prosjektet hjemmeside 
+atlantisfarming.no og gjennom en rekke presentasjoner og artikler nasjonalt og internasjonalt.  
+Sluttrapport Atlantis Subsea Farming  
+ 
+3 
+ 
+Vi mener at vi har dokumentert prosjektet på en metodisk forsvarlig måte som gjør at kunnskapen 
+opparbeidet i dette prosjektet kommer hele næringen til gode. I tillegg har Havforskningsinstituttet 
+publisert vitenskapelige artikler i tilgrensende prosjekt om det vi betegner som «dyp drift».  
+Ved tildeling av utviklingstillatelsen ble det utviklet målkriterier for prosjektet og målkriteriene setter 
+tydelige krav til dokumentering av prosjektet som sådan gjennom egen hjemmeside og fakta-ark om 
+prosjektet, designverifikasjon, konstruksjon, funksjonstesting, anlegg sertifikat, måleparameterer i 
+form av måleprogram, resultater fra produksjonssyklus og sluttrapport. Det aller meste av disse 
+rapportene er publisert i sin helhet på prosjektets hjemmeside atlantisfarming.no.  
+Atlantis Subsea Farming har samarbeidet med en rekke leverandører i gjennomføringen av prosjektet 
+og det har vært særlig viktig å samarbeide med leverandører lokalt i Nærøysund-området der 
+SinkabergHansen har sin aktivitet. AKVA group, med tilhørende datterselskaper, har vært sentrale 
+leverandører i prosjektet og SinkabergHansen har hatt ansvaret for drift av fisk og anlegg under de 
+tre utsettene. Det er gjennomført tre utsett i Atlantis på tre ulike lokaliteter nord i Trøndelag og sør i 
+Nordland – Gjerdinga (2019), Skrubbholmen (2020) og Otervika (2021). For hvert utsett er det 
+utviklet et eget Måleprogram der de biologiske og teknologiske resultatene fra måleprogrammet blir 
+presentert her.  
+Atlantis tar utgangspunkt i kjente komponenter i et oppdrettsanlegg og det var viktig at Atlantis i 
+grove trekk kan plasseres inn i en vanlig rammefortøyning – med noen modifikasjoner. Det har også 
+vært viktig å bruke allerede eksisterende løsninger der hvor disse egner seg. Hensikten med en slik 
+tilnærming var å holde kostnadene nede, gjøre konseptet salgbart etter at prosjektperioden er over 
+og ikke minst gjøre brukerterskelen for de som jobber på anlegget så lav som mulig.  
+ 
+Teknologiske resultater 
+Hovedelementene som rent 
+teknologisk har blitt utviklet er:  
+• 
+Flytekrage med 
+reguleringssystem for heving 
+/ senking, tilhørende 
+bunnring  
+• 
+Luftkuppel med 
+utfôringsenhet og oppheng 
+for kamera, lys og annen 
+sensorikk 
+• 
+Fortøyningssystem med 
+regulerbare bøyer  
+• 
+Nottak og notpose med 
+dødfisksystem 
+• 
+Vannfôringssystem 
+Det er fortsatt rom for forbedringer og tilpasninger, men det siste utsettet med fire nedsenkbare 
+merder viser at de tekniske løsningene fungerer godt på en lokalitet med en bølgehøyde på rett i 
+underkant av designkriteriet på Hs 5,0 og med en strøm (Vs) opp mot 1,0 m/s. Anlegget er sertifisert 
+av Aquastructures og DNV i henhold til NS 9415 (2009) med tilhørende produktsertifikater og det er 
+utviklet kriterier for dimensjonerende miljølaster i nedsenket posisjon, overflateposisjoner, 
+Sluttrapport Atlantis Subsea Farming  
+ 
+4 
+ 
+heving/senking og båtanløp. Målinger, beregninger og modellsimuleringer bekrefter at anlegget 
+fungerer etter hensikten.  
+Laksen har et naturlig behov for å fylle 
+svømmeblæren ca en gang i døgnet og i 
+en åpen merd går den opp til overflaten 
+og «snapper» litt luft. Dette er ikke mulig 
+i en nedsenket merd og laksen må derfor 
+tilbys tilgang på en luftlomme i dypet. 
+Luftkuppelen som skaper luftlommen i 
+dypet har også rent teknisk vært en stor 
+utfordring da den skal fungere i et slags 
+likevektsystem uten å tilføre for mye 
+eller for lite oppdrift i systemet. 
+Prosjektet har derfor brukt mye tid og 
+ressurser på å utvikle luftkuppelen, og 
+den siste versjonen av luftkuppelen 
+fungerer godt.  
+Det er utviklet regulerbare bøyer som 
+kan erstatte koblingspunktet i en 
+rammefortøyning, men rett før utsett 
+fikk vi et brudd i et innfestingsøre på den 
+ene bøyen. Årsaken til bruddet er 
+sannsynligvis sammensatt av følgende 
+uheldige kombinasjoner; høye rykk-krefter, skjev belastning og størst belastning om svak akse av 
+innfestningsøret. De regulerbare bøyene ble erstattet av vanlig koblingsplate.  
+De to første utsettene ble av kortere karakter og med færre fisk enn planlagt, noe som i stor grad 
+skyldes nødvendige, tekniske endringer før utsett, eksempelvis på luftkuppel, og krevende 
+værmessige forhold på lokaliteten under rigging og funksjonstesting.  
+Biologiske resultater 
+Hovedkonklusjonen er at fiskens adferd og velferd var god, og at fisken lærte seg å bruke 
+luftkuppelen for å fylle svømmeblæren. Produksjonsdata som tilvekst, dødelighet og slakteresultat 
+viser normale verdier sammenlignet med en ordinær produksjon, gitt at det justeres for lavere 
+temperatur i dypet.  
+Atlantis merdene har mye mindre utfordringer med lakselus enn merder i overflaten. I siste utsett ble 
+Atlantis merdene avluset en gang mot at overflatemerdene i anlegget ble avluset tre ganger. Den ene 
+avlusingen er antatt å ha sin årsak i at avlusing av overflatemerdene gir påslag av lus i de nedsenkede 
+merdene.  Erfaringene tilsier at det er fullt mulig å unngå lusepåslag. For å lykkes med å holde fisken 
+fri for lus er det ekstremt viktig å etterstrebe å sette ut mest mulig lusefri fisk på hele anlegget, heve 
+merden minst mulig til overflaten, noe som fordrer bruk av automatisk lusetelling og overvåking av 
+fisk og tekniske løsninger i dypet, samt ha dyp drift på alle merdene på lokaliteten.  
+Erfaringer og læring 
+Noen av erfaringene underveis i prosjektperioden materialiserte seg i form av 12 oppgraderings- og 
+forbedringsprosjekter av mer teknisk karakter, mens andre erfaringer er mer prosessorientert og 
+Sluttrapport Atlantis Subsea Farming  
+ 
+5 
+ 
+handler om erfaringer og forbedringer knyttet til praktisk drift som risikovurderinger ved 
+gjennomføring av operasjoner, samhandling mellom aktører involvert, opplæring med mer.  
+Noe av det aller viktigste som er erfart er at Atlantis som prosjekt blir en kunnskapsarena for nye 
+idèer og innovasjoner. En del av idéene og innovasjonene handler om forbedringer i Atlantis som 
+prosjekt, men det kommer også opp innovasjoner som kan brukes i andre sammenhenger og i andre 
+prosjekter. For eierselskapene i Atlantis er en slik arena for innovasjon av uvurderlig betydning – og 
+det gir også grunnlag for et tett samarbeid mellom partene etter at prosjektet er over.  
+ 
+Kunnskap om miljøparametere på lokaliteten er avgjørende og det bør etableres et godt 
+måleprogram for registrering av temperatur, saltholdighet, strøm, vind, oksygen, med mer. 
+Målingene må gjøres i hele vannsøylen og både før og under utsett.  
+Vesentlige modifikasjoner eller endrede rutiner etter prosjektperioden  
+Før siste utsett på Otervika ble det gjennomført en rekke forbedringer i Atlantis. Likevel vil det alltid 
+være behov for forbedringer og endringer av et teknologisk konsept som tross alt er i tidlig fase. 
+Følgende vil det bli jobbet videre med; Kabler og slanger, kabelføring internt på merd, dødfisk flåten 
+som plattform/infrastruktur for annen type utstyr, klammer som erstatter stroppeløsning på merd,  
+nedsenkbarbøyene opp mot krav i NS 9415, værvindu opp mot operasjoner og drift og videre 
+optimalisering av luftkuppel. 
+Evaluering av prosjektet som helhet 
+Oppdrett av laks på under 25-30 meter dyp har aldri vært gjort før i den skala vi her snakker om. Vi er 
+av den oppfatning at det å flytte selve oppdrettsvolumet ned i vannsøylen har høy innovasjonshøyde, 
+samtidig som det løser en av de største utfordringene som næringen har i dag knyttet til lakselus. 
+Anlegget kan plasseres på en lokalitet som er mer eksponert enn dagens lokaliteter.  
+Prosjektet har vist at det er biologisk mulig og forsvarlig å holde laksen i dypet, men vi vil understreke 
+at det fortsatt er et behov for å utforske hvordan laksen påvirkes av å være i dypet over tid. Det kan 
+Sluttrapport Atlantis Subsea Farming  
+ 
+6 
+ 
+oppstå biologiske utfordringer som vi ikke har oversikt over i dag. På den annen side vil det også 
+kunne være biologiske fordeler med å holde laksen i dypet som vi enda ikke har avdekket.  
+Hovedkonklusjonen fra dette prosjektet er likevel klar; Vi har nå utviklet teknologi for å kunne 
+oppdrette laks i nedsenkbare merder i kommersiell skala, og vi har vist at det er mulig å produsere en 
+fisk med god velferd og adferd, lite luseutfordringer og god produksjonseffektivitet.   
+Teknologien er sertifisert i henhold til NS9415 og det er utviklet brukermanualer, risikovurderinger og 
+driftsrutiner som tilfredsstiller dagens akvakulturregelverk. Alle industrielle leveranser er fra norske 
+leverandører.  
+Vi mener at prosjektet har oppfylt kravene som er uttrykt gjennom prosjektets målkriterier på en god 
+måte og oppfylt målsettingene med prosjektet uttrykt i den opprinnelige prosjektsøknaden, samt 
+kommunikasjon med Fiskeridirektoratet i løpet av prosjektperioden. 
+Suksesskriterier med tanke på kommersialisering 
+Generelt har det tette samarbeidet mellom SinkabergHansen som oppdretter og AKVA group som 
+hovedleverandør gjort at alle de tekniske løsningene som er utviklet hele tiden ble diskutert gjennom 
+når det gjelder praktisk funksjonalitet, god fiskevelferd, teknologisk og biologisk ytelse, 
+vedlikeholdskostnader og anskaffelsespris. Dette er helt vesentlige suksesskriterier hvis man skal 
+lykkes med å tilby et såpass nytt og revolusjonerende konsept for oppdrett av laks. Vårt mål har hele 
+tiden vært å utvikle en kommersiell teknologi som er interessant for oppdrettsselskaper nasjonalt og 
+internasjonalt etter at prosjektet Atlantis er avsluttet.  
+Rent konkret vil SinkabergHansen fortsette med Atlantis anlegget i et neste utsett fra 2022. Det vil bli 
+gjort enkelte justeringer av teknologien, men hovedprinsippet er det samme.  
+Et av de viktige suksesskriteriene for Atlantis videre vil være at AKVA group med rettighetene til 
+teknologiene allerede er posisjonert med et markedsføringsapparat og servicesystem i alle 
+lakseproduserende land. Nedsenkbare anlegg er også aktuelle for andre arter enn laks.    
+Sluttrapport Atlantis Subsea Farming
+
+Sluttrapport Atlantis Subsea Farming  
+ 
+8 
+ 
+2  Innledning 
+Atlantis Subsea Farming AS ble i tilsagnsbrev fra Fiskeridirektoratet datert 23.02.2018 tildelt en 
+utviklingstillatelse i størrelsesorden 780 tonn Maksimal Tillatt Biomasse (MTB) etter en to år lang 
+søknadsprosess.  De første lokalitetene ble klarert i brev fra Trøndelag Fylkeskommune 31.05.2018 
+og tillatelsen ble gitt med en varighet på 4 år, det vil si til 31.05.2022.  
+I forbindelse med tildelingen er det nedfelt en rekke Målkriterier for prosjektet (Vedlegg 1) og i 
+henhold til Målkriterie 7.1 skal prosjektet utarbeide en sluttrapport før eventuell søknad om 
+konvertering. Rapporten skal inneholde en evaluering av prosjektet med basis i resultatene fra 
+måleprogrammet samt interne suksesskriterier med tanke på kommersialisering av 
+Atlantis. Erfaringer fra drift som vil føre til endrede prosedyrer eller vesentlige 
+designendringer/modifikasjoner etter den definerte prosjektperioden skal inkluderes i 
+sluttrapporten. Sammendraget av sluttrapporten skal publiseres. 
+Atlantis Subsea Farming har gjennom hele prosjektperioden vært opptatt av å formidle resultater fra 
+prosjektet i form av offentlig tilgjengelige rapporter som er publisert på prosjektet hjemmeside 
+atlantisfarming.no og ikke minst en rekke presentasjoner av prosjektet i ulike sammenhenger 
+(Vedlegg 2). Vi håper at sluttrapporten gir en god oppsummering og evaluering av prosjektet.  
+Gjennom tidligere rapporter og denne sluttrapporten mener vi at vi har dokumentert prosjektet på 
+en metodisk forsvarlig måte som gjør at kunnskapen opparbeidet i dette prosjektet kommer hele 
+næringen til gode1. I tillegg har Havforskningsinstituttet publisert vitenskapelige artikler basert på to 
+tilgrensende prosjekt, FôrDom2 og DypDom3, finansiert av Norges forskningsråd. I begge prosjektene 
+er det publisert vitenskapelig kunnskap, samt en rekke populærvitenskapelige publikasjoner og 
+foredrag rundt det vi betegner som dyp drift.  
+Selve søknaden om utviklingstillatelser ble sendt inn i slutten av januar 2016 og da ble også selskapet 
+Atlantis Subsea Farming AS stiftet. Stifterne og nåværende eiere av selskapet er AKVA group ASA, 
+SinkabergHansen AS og Egersund Net AS. Atlantis Subsea Farming har samarbeidet med en rekke 
+leverandører i gjennomføringen av prosjektet og det har vært særlig viktig å samarbeide med 
+leverandører lokalt i Vikna-området der SinkabergHansen har sin aktivitet.   
+ 
+1 Jmfr Laksetildelingsforskriften §23B fjerde ledd. 
+2 FÔRDOM: Luftkuppel, not-tak og undervannsfôring for oppdrett av laks unna overflatevannet - Prosjektbanken (forskningsradet.no) 
+3 DypDom: Nedsenket merd med luftkuppel for lakseoppdrett - Prosjektbanken (forskningsradet.no) 
+Sluttrapport Atlantis Subsea Farming  
+ 
+9 
+ 
+2.1 Målkriterier og rapportering 
+Figur 1 gir en oversikt over prosjektets målkriterier og åpne rapporter publisert på 
+atlantisfarming.no. Vedlegg 1 gir en fullstendig oversikt over prosjektets målkriterier med linker til 
+aktuelle rapporter.  
+ 
+Figur 1 
+Målkriterier og rapportering (Kilde:  www.atlantisfarming.no) 
+Prosjektet har etter beste evne søkt å oppfylle prosjektets målkriterier, og det er levert og publisert 
+et omfattende materiale som gir god innsikt i prosjektets gjennomføring og resultater.  
+2.2 Målsettinger for prosjektet 
+Hovedmålet for prosjektet ble i forbindelse med selve søknaden om utviklingstillatelser av 
+29.01.2016 formulert slik:  
+Norske farvann har klare fysiske konkurransefortrinn når det gjelder matproduksjon i sjø. Prosjektet 
+vil styrke verdien av, og øke tilgjengelige arealer for oppdrett langs kysten, sikre en bærekraftig 
+produksjon på naturens premisser og vil være den økonomisk foretrukne produksjonsmetoden. 
+Utviklingstillatelsene vil være viktig for å realisere potensialet i ATLANTIS. 
+Prosjektet vil møte dagens miljøutfordringer som lakselus, rømming og uønskede utslipp på en god 
+måte.   
+Delmålene i prosjektet er gjengitt i  Tabell 1 med en vurdering av hvor vi står ved prosjektets 
+avslutning med hensyn til å nå delmålene eller ikke.  
+Det er viktig å påpeke at målsettingene og den totale prosjektsøknaden ble skrevet med det for øye å 
+få tildelt seks tillatelser, mens Atlantis Subsea Farming som selskap til slutt ble tildelt en tillatelse. 
+Tabell 1 Beskrivelse av delmål og resultater 
+Nr 
+Beskrivelse delmål 
+ 
+Resultater 
+Delmål 1:  
+Utvikle og dokumentere en robust storskala nedsenkbar 
+konstruksjon (merd, forankring, not) som kan anvendes til 
+industriell oppdrettsvirksomhet. 
+• 
+Automatisert heving og senking og utvikling av 
+tilhørende styringssystemer 
+• 
+Infrastruktur for komprimert luft 
+• 
+Utvikling av operasjonsgrensesnitt og 
+modellverktøy 
+• 
+Videreutvikle forankring, merd og not i forhold til 
+manuelle nedsenkbare merder. 
+Vi har utviklet løsninger for det som er beskrevet 
+i delmål 1 – og det er testet ut i form av fire 
+merder i siste utsett. Merden kan heves og 
+senkes fjernstyrt, nødvendig infrastruktur er på 
+plass. Regulerbare bøyer er utviklet, og dette vil 
+bli fulgt opp videre i neste generasjoners 
+nedsenkbare anlegg.  
+ 
+Delmål 2: 
+Utvikle effektiv og fjernstyrt undervannsfôring i nedsenkbare 
+merder. 
+• 
+Fôringsenhet i sjø og rigg på flåte 
+• 
+Effektiv distribusjon og spredning 
+• 
+Høy grad av stabilitet og robusthet 
+ 
+Vi har utviklet et system for effektiv og fjernstyrt 
+vannfôring i dypet som er stabilt og fungerer 
+godt. Vannfôringsløsningen om bord i flåten er 
+spesialdesignet for nettopp dette. Det er lagd et 
+system for utfôring knyttet til luftkuppel.  
+Målkriterie 1
+Prosjektinformasjon
+• Hjemmeside
+• Faktaark 1
+• Faktaark 2
+• Faktaark 3
+Målkriterie 2
+Designverifikasjon
+• Grunnlag for 
+designendringer 
+etter utsett 1
+• Grunnlag for 
+designendringer 
+etter utsett 2
+Målkriterie 4
+Funksjonstesting
+• Funksjonstesting av 
+merd før utsett 1
+• Funksjonstesting av 
+merd før utsett 2
+• Funksjonstesting av 
+merd før utsett 3
+Målkriterie 5
+Måleprogram
+• Måleprogram før 
+utsett 1
+• Måleprogram før 
+utsett 2
+• Måleprogram før 
+utsett 3
+Målkriterie 6
+Produksjonssyklus
+• Rapport fra utsett 1
+• Rapport fra utsett 2
+• Rapport fra utsett 3
+Målkriterie 7
+• Sluttrapport
+Sluttrapport Atlantis Subsea Farming  
+ 
+10 
+ 
+Nr 
+Beskrivelse delmål 
+ 
+Resultater 
+Delmål 3: 
+Utvikle en luftkuppel som gir laksen tilgang på luft i 
+nedsenket tilstand og innfrir kravene til laksens fiskehelse og 
+dyrevelferd. 
+• 
+Luftkuppelens areal og utforming må bestemmes 
+slik at laksens adferdsmessige behov møtes. 
+• 
+Materiale og innfestingssystem må utvikles. 
+• 
+Tilførselssystem for luft må utvikles  
+• 
+Luftkuppelens påvirkning på konstruksjonen må 
+verifiseres og dokumenteres  
+• 
+Utvikling av løsninger for vedlikehold og drift.   
+ 
+Alle punktene er oppfylt med den siste 
+versjonen av luftkuppel vi nå har i anlegget.    
+Dette har vært den teknisk største utfordringen i 
+prosjektet, og der hvor innovasjonen virkelig har 
+vært betydelig 
+Delmål 4:  
+Utvikle system for fjernstyring og kontroll av operasjoner. 
+• 
+Utvikling av fjernstyring for heving og senking av 
+merdene, daglige operasjoner som fôring, 
+overvåking av fiskevelferd, dødfiskhåndtering og 
+andre operasjoner. 
+• 
+Utvikling av fjernstyrte inspeksjons- og 
+reparasjonssystemer, eksempelvis av overvåking, 
+vasking og reparasjon av not.  
+• 
+Avdekke behovet for type sensorikk som må til for 
+å kunne overvåke anleggets totaltilstand og 
+videreutvikle dagens sensorikk systemer. 
+• 
+Utvikle robuste kamerasystemer som er tilpasset 
+nedsenkede anlegg.  
+• 
+Fastsettelse av objektive kriterier for når 
+operasjoner kan gjennomføres – operasjonelle 
+grensetilstander 
+ 
+ 
+Fjernstyring fra hvor som helst er utviklet mht 
+heving, senking, fôring og adferd.  
+Fjernstyrte inspeksjons- og reparasjonssystemer: 
+I dypet trengs det mye mindre vasking enn når 
+merden ligger i overflaten. Bruk av ROV og 
+dykkere gir god oversikt over systemet.  
+Objektive kriterier for når operasjoner kan 
+gjennomføres er utviklet.  
+Det er valgt en enkel og robust løsning for 
+kamera, som nok må utforskes mer for å gi den 
+nødvendige fleksibilitet for de som fôrer.  
+Det er utviklet sensorikk for å overvåke 
+posisjonene til anlegget i dypet.  
+Delmål 5:  
+Utvikle teknologi og metoder for gjennomføring av 
+nødvendige operasjoner der det i dag ikke finnes 
+tilfredsstillende løsninger.  
+I overflate: Mottak av fisk, sortering/flytting, avlusing og 
+annen behandling, levering av fisk, prøvetaking, 
+setting/opptak av not 
+I nedsenket posisjon: Fôring, dødfiskhåndtering, daglig tilsyn 
+kamera, sensorikk, vasking av not, inspeksjoner 
+ 
+Uttak av fisk, mottak av fisk, levering av fisk, 
+setting/opptak av not, fôring, dødfiskhåndtering, 
+daglig tilsyn, vasking og inspeksjoner er løst. 
+Dødfiskhåndteringsløsningen er ikke optimal og 
+den må det jobbes videre med. 
+Delmål 6:  
+Dokumentere ivaretagelse av fiskevelferd og HMS gjennom 
+testing i stor skala  
+• 
+Utvikling av gode indikatorer for hva som er god 
+fiskevelferd i et nedsenket anlegg. 
+• 
+Utvikling av løsninger for kontinuerlig overvåking 
+av fiskens velferd.  
+• 
+Analyse og vurderinger av de viktigste og mest 
+kritiske HMS operasjoner knyttet til et nedsenket 
+anlegg. 
+• 
+Utvikling av nye teknologiske løsninger for 
+ivaretagelse av HMS. 
+ 
+Det er utviklet gode indikatorer (eksempelvis 
+svømmehastighet) for hva som er god 
+fiskevelferd i et nedsenket anlegg. 
+Det er tatt i bruk løsninger for kontinuerlig 
+overvåking av fiskens velferd.  
+Det er gjennomført gode risikovurderinger med 
+hensyn til HMS og gjennomføring av kritiske 
+operasjoner.  
+Delmål 7:  
+Dokumentere driftskonseptets økonomi og konkurransekraft  
+• 
+Dokumentasjonen må være troverdig og det må 
+foreligge tall og beregninger fra minimum 3 utsett 
+der fisken produseres fram til slakteferdig 
+størrelse og selges i verdensmarkedet. 
+ 
+Rapporten fra første, andre og tredje utsett 
+inngår her og dokumenterer driftskonseptets 
+konkurransekraft.  
+Delmål 8:  
+Publisere resultater fra prosjektet i bransjemagasiner og på 
+næringslivsarenaer – både sjømatindustriens egne arenaer og 
+næringsarenaer for øvrig. 
+Prosjektet har brukt mye tid og ressurser på å 
+utarbeide rapporter der de aller fleste er 
+offentliggjort. Man har også formidlet resultater 
+fra prosjektet i form av foredrag, artikler og 
+publikasjoner 
+ 
+ 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+11 
+ 
+2.3 Beskrivelse av det teknologiske konseptet 
+Atlantis tar utgangspunkt i kjente komponenter i et oppdrettsanlegg og det var viktig at Atlantis i 
+grove trekk kan plasseres inn i en vanlig rammefortøyning – med noen modifikasjoner. Det har også 
+vært viktig å bruke allerede eksisterende løsninger der hvor disse egner seg. Hensikten med en slik 
+tilnærming er:  
+1. Atlantis skal kunne benyttes inn i et vanlig anlegg. 
+2. Gjøre terskelen for å ta systemet i bruk så lav som mulig.  
+3. En investering i et "Atlantis" konsept må ikke være høyere enn at produksjonskostnaden for 
+oppdretter holdes på et akseptabelt nivå. 
+Hovedelementene som rent teknologisk har blitt utviklet er:  
+• 
+Flytekrage med reguleringssystem for heving / senking, tilhørende bunnring  
+• 
+Luftkuppel med utfôringsenhet og oppheng for kamera, lys og annen sensorikk 
+• 
+Fortøyningssystem med regulerbare bøyer  
+• 
+Nottak og notpose med dødfisksystem 
+• 
+Vannfôringssystem 
+Prinsippet for heving og senking er 
+enkelt; Flytekragen fylles med vann når 
+den senkes og den fylles med luft for å 
+heves. Nødvendig infrastruktur er 
+luftslanger og ulike type kabling for 
+overføring av signaler fra dybdesensorer, 
+annen type sensorikk, kamera, lys etc. 
+Luftkuppelen er den sentrale enheten 
+som tilbyr en luftlomme i dypet – det er 
+laksen helt avhengig av (se neste 
+kapittel). Den fungerer også som en 
+infrastruktur for utfôringsenhet, 
+oppheng av lys, kamera og 
+lusetellingsenhet, samt annen sensorikk. 
+Selve luftkuppelen er bygd av plast og 
+den er relativt lett å sette ut og fjerne 
+ved gjennomføring av operasjoner. 
+Nottaket er også konstruert slik at det 
+skal være enkelt å operere med en 
+glidelås rundt hele inn mot flytekragen 
+slik at det er lett å montere og fjerne.   
+Selve fortøyningssystemet er en vanlig fortøyningsramme der det tilføres økt oppdrift i bøyene. I de 
+to første utsettene ble det benyttet overflatebøyer med økt oppdrift sammenlignet med et vanlig 
+anlegg. Før tredje utsett ble det utviklet regulerbare bøyer som også fungerte som koblingspunkt i 
+rammefortøyningen med det for øye å redusere behovet for store bøyer i overflaten.  
+I prosjektet er det utviklet en enkel variant av et vannfôringssystem som ble benyttet under det 
+første utsettet og deretter ble prinsippet implementert i en hel flåte som deretter ble benyttet på de 
+to siste utsettene. Gjennom hele prosjektperioden har det vært stort fokus på forbedringer av det 
+rent operasjonelle.  
+Sluttrapport Atlantis Subsea Farming  
+ 
+12 
+ 
+Figur 2 under viser konseptet med flere merder slik det ble beskrevet like før tillatelsen ble tildelt i 
+20184. I praksis ser det som nå er utviklet meget likt ut som denne skissen da vi i siste utsett hadde 
+fire nedsenkbare merder.   
+ 
+Figur 2 
+Atlantis konseptet med flåte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Beskrivelse av konseptet, designkriterier og sertifiseringsprosess 01.02.2018. Rapport levert Fiskeridirektoratet – unntatt offentlighet 
+Sluttrapport Atlantis Subsea Farming  
+ 
+13 
+ 
+2.4 Utsett og lokaliteter 
+Prosjektet har gjennomført tre utsett på tre ulike lokaliteter (Figur 3) hvorav alle er en del av 
+SinkabergHansen sine ordinære lokaliteter der Atlantis Subsea Farming har fått tillatelse til å sette ut 
+fisk av de regionale myndighetene i henholdsvis Trøndelag og Nordland.  Figur 4 viser 
+fortøyningsoppsettet på siste utsett på lokaliteten Otervika.  
+ 
+ 
+Figur 3 
+Lokaliteter og utsett i Atlantis 
+ 
+Figur 4 
+Fortøyningssystemet på Otervika 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+14 
+ 
+2.5 Biologisk kunnskap om å oppdrette laks i dypet 
+Nedsenkbare oppdrettsanlegg er ikke en ny oppfinnelse – det finnes en rekke anlegg for ulike arter. 
+Men det har aldri vært utviklet for laks i den skala vi her har jobbet med. Årsakene er at laks har en 
+åpen svømmeblære med en kanal mellom svømmeblæren og munnhulen. Laksen har et naturlig 
+behov for å fylle svømmeblæren ca. en gang i døgnet og i en åpen merd går den opp til overflaten og 
+«snapper» litt luft. Dette er ikke mulig i en nedsenket merd og laksen må derfor tilbys tilgang på en 
+luftlomme i dypet (Figur 5). Kunnskapen om dette ble først utviklet i CREATE – et Senter for 
+Forskningsdrevet Innovasjon der AKVA group og Egersund Net deltok aktivt i tett samarbeid med 
+blant annet Havforskningsinstituttet og SINTEF Fiskeri og havbruk.  
+Det var derfor naturlig for Atlantis Subsea Farming AS og tilhørende eierselskaper å tidlig etablere et 
+samarbeid med Frode Oppedal og hans gruppe på Havforskningsinstituttet som er et ledende miljø 
+innen forskning på velferd og adferd på laks i nedsenkede merder.  I NFR prosjektene FôrDom og 
+DypDom har Havforskningsinstituttet bidratt med verdifull kunnskap inn mot hvordan teknologien i 
+Atlantis må være for å møte laksens behov. Eksempelvis har de kommet fram til anbefalinger om 
+hvor stor luftlomme laksen må få tilbud om for at den skal bruke luftlommen. Dette er selvsagt 
+avgjørende da vi ikke ønsker en stor luftlomme som gir masse unødig oppdrift i systemet. 
+Havforskningsinstituttet har også etablert metodikk for hvordan du skal følge med på om fisken fyller 
+svømmeblæren eller ikke – det måles blant annet gjennom måling av fiskens svømmehastighet – noe 
+røkteren gjør enkelt ved bruk av kamera og stoppeklokke.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 5 
+Prinsippet for fylling av svømmeblære i luftkuppel 
+Det er helt avgjørende for det teknologiske konseptet Atlantis at man er i stand til å bevise at fisken 
+har en god fiskehelse og velferd, at adferden er normal og at fisken har en god 
+produksjonseffektivitet. Hvis de tre første er ivaretatt kommer som regel det siste punktet av seg 
+selv. De tre utsettene har gitt oss mulighetene til å dokumentere at også laks kan produseres i 
+nedsenkbare merder og teknologiens videre suksess vil være uløselig knyttet til disse resultatene.     
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+15 
+ 
+ 
+Luftlomme filmet ROV 
+ 
+ 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+16 
+ 
+3 Design- og byggefase 
+Prosjektets designfase var godt i gang da søknaden om utviklingstillatelser ble sendt i 2016 og 
+designet ble utviklet videre i de to årene før tillatelsen ble tildelt i februar 2018 (Figur 6). Konseptet, 
+designkriter og sertifiseringsordninger var på plass før tildeling5. I løpet av utsettene ble det gjort 
+designendringer basert på erfaringer fra hvert enkelt utsett og det ble gjennomført 
+oppgraderingsprosjekter (Figur 7).  
+  
+Figur 6 
+Tidslinje for design og produksjon 2015-2018 
+ 
+5 Beskrivelse av konseptet, designkriterier og sertifiseringsprosess 01.02.2018. Rapport levert Fiskeridirektoratet – unntatt offentlighet 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+17 
+ 
+ 
+Figur 7 
+Tidslinje for produksjon og endringsprosjekter underveis 2019-2021 
+3.1 Designkriterier 
+Nedsenket posisjon anses som normal driftsmodus. Anlegget skulle i utgangspunktet være nedsenket 
+i ca 90% av tiden med unntak av følgende situasjoner:  
+• 
+Utsett av fisk  
+• 
+Behandling av fisk  
+• 
+Levering av fisk  
+• 
+Service på utstyr  
+ 
+Anlegget skulle designes for følgende miljølaster: 
+• 
+Bølgehøyde: Hs = 5,0 m  
+• 
+Strøm: Vs = 1,0 m/s  
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+18 
+ 
+Det ble også utviklet kriterier for dimensjonerende miljølaster ved overflateposisjon med og uten tak 
+og kuppel, heving og senking og båtanløp (Tabell 2). 
+ 
+Tabell 2 Dimensjonerende miljølaster 
+ 
+Bølgehøyde Hs 
+Strøm Vs 
+Nedsenket  
+5,0 m 
+1,0 m/s 
+Overflateposisjon med tak og 
+kuppel 
+2,0 m 
+1,0 m/s 
+Overflateposisjon uten tak og 
+kuppel 
+4,5 m 
+1,0 m/s 
+Heving / senking 
+2,0 m 
+1,0 m/s 
+Båtanløp av båter med 
+LOA>24m  
+2,0 m  
+(Vind 15m/s) 
+1,0 m/s 
+ 
+Det ble også etablert kriterier for tidsvindu som måtte være tilgjengelig for gjennomføring av 
+operasjoner (Tabell 3). 
+Tabell 3 Forventet operasjonstid pr operasjon 
+ 
+Forventet 
+operasjonstid pr 
+operasjon 
+Lastkondisjon 
+Nedsenket  
+Defineres som 
+normal 
+driftsposisjon 
+Normal drift 
+Overflateposisjon med tak og 
+kuppel 
+Inntil 2 dager 
+Operasjoner 
+Overflateposisjon uten tak og 
+kuppel 
+Inntil 8 dager 
+Normal drift 
+Heving / senking 
+Inntil 1 time 
+Operasjoner 
+Båtanløp av båter med 
+LOA>24m  
+Inntil 3 timer 
+Operasjoner 
+Montering av tak og kuppel 
+Maks 6 timer 
+Operasjoner 
+ 
+ 
+3.2 Sertifiseringer 
+Det ble tatt utgangspunkt i NS9415 og NYTEK, men på områder hvor NS9415:2009 var mangelfull 
+skulle andre relevante regelverk benyttes. Sett i ettertid var det i hovedsak NS9415:2009 som ble 
+benyttet og som anlegget er sertifisert i henhold til.  
+Sluttrapport Atlantis Subsea Farming  
+ 
+19 
+ 
+Aquastructures og DNV har vært ansvarlig tredjepart for å utstede produktsertifikater, 
+fortøyningsanalyser og anleggssertifikat i henhold til målkriteriene 3.2 Sertifikater og dokumentasjon 
+og 5.1. Anleggssertifikat.  
+Aquastructures har også vært ansvarlig tredjepart for å verifisere design- og byggefasene i 
+prosjektet6 i henhold til målkriteriene 2.1 og 3.1. Verifikasjonen er basert på en gjennomgang av 
+sertifiseringer og sertifikater, designrapporter, regninger, beregninger og resultater fra testing 
+inkludert tanktesting. De konkluderer med at gjeldende konfigurasjon av Atlantis er designet og 
+bygget i henhold til målkriterier og relevant standard NS 9415 (2009). 
+3.3 Byggefase  
+Den første versjonen av Atlantis ble i hovedsak bygd fra 
+tildelingstidspunkt i 2018 og til utsett av fisk på Gjerdinga i 
+2019. Vi valgte å starte med en merd for å få erfaring både 
+med teknologien og biologien før vi skalerte opp i prosjektet.  
+Det har vært en rekke leverandører involvert i 
+byggeprosessen og totalt sett gjennom prosjektperioden. 
+Komponenter som flyter, not/nottak/kuppel, kabling etc ble 
+deretter koblet sammen på lokalitet, og deretter ble det 
+foretatt funksjonstesting før utsett av fisk. Erfaringene er at 
+monteringsfasen på lokalitet er krevende da man i stor grad 
+styres av værforholdene på lokaliteten. Vi ble forsinket med 
+de to første utsettene da denne perioden i utgangspunktet 
+ble undervurdert rent tidsmessig – altså hvor mange dager 
+det rent operasjonelt var mulig å jobbe på anlegget.  
+ 
+3.4  Funksjonstesting 
+Funksjonstestingsfasen rett før utsett var en nødvendig og 
+lærerik del av prosjektet. Det ble etablert en testplan, testing ble gjennomført og det ble foreslått 
+eventuelle endringer før utsett. Sentralt i testingen for alle tre utsettene var:  
+• 
+Heving og senking av merd 
+• 
+Måling av krefter på utvalgte deler av konstruksjonen 
+• 
+Stabilitet av flytekrage og luftkuppel 
+• 
+Størrelse på luftlomme 
+• 
+Test av utfôringsenhet 
+• 
+Test av Lift Up 
+• 
+Test av operasjoner (uttak av fisk mm) 
+Resultatene fra funksjonstestingen er oppsummert i tre rapporter som alle er publisert på 
+atlantisfarming.no7. Neste viser bilder fra testing av uttakslomme og ventilbøye.  
+ 
+6 Atlantis – Designverifikasjon TR-30997-5539-02. Unntatt offentlighet 
+Atlantis – Design og byggeverifikasjon TR-30887-6334-01. Unntatt offentlighet 
+7 03_ atlantis subsea farming rapport funksjonstesting gjerdinga 2019.pdf (atlantisfarming.no) 
+06_atlantis subsea farming rapport funksjonstesting skrubbholmen 2020.pdf (atlantisfarming.no) 
+11_atlantis subsea farming_rapport funksjonstesting før utsett på otervika.pdf (atlantisfarming.no) 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+20 
+ 
+ 
+Testing av uttakslomme 
+ 
+Testing av ventilbøye 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+21 
+ 
+4 Operasjonelle biologiske og teknologiske resultater  
+For hvert utsett skulle det i henhold til Målekriterie 5 lages et Måleprogram som Fiskeridirektoratet 
+skulle godkjenne. I Måleprogrammene for utsett på henholdsvis Gjerdinga, Skrubbholmen og 
+Otervika8 har vi beskrevet hvordan man skal dokumentere effekter i driftsfasen av biologisk og 
+teknologisk karakter. Etter hvert utsett er det lagd en rapport der resultatene oppsummeres9. Både 
+Måleprogrammene og detaljerte rapporter fra produksjonen fra de tre utsettene er publisert på 
+atlantisfarming.no. I dette kapitlet gir vi derfor bare en kort oppsummering av de viktigste 
+resultatene der resultatene fra tredje og siste utsett er det viktigste. Tabell 4 og Tabell 5 viser hvilke 
+registreringer som har vært gjort.  
+Tabell 4 Biologisk måleprogram  
+Fortløpende registreringer  
+Ved prøveuttak 
+Ved utsett og opptak av fisk 
+Miljø;  
+• 
+Temperatur og saltholdighet dybdeprofil måles 
+med CTD på flåte 
+• 
+Oksygen måles på to dyp i en merd 
+• 
+Vannstrøm ved anlegget 
+• 
+Vind på flåte 
+Vitenskapelige 
+lusetellinger 
+ 
+Vitenskapelige lusetellinger  
+Appetitt vurdering 
+SWIM vurdering 
+SWIM vurdering 
+Utfôret mengde 
+Vekt 
+Vekt 
+Dødelighet 
+ 
+Overflateaktivitet 
+Svømmehastighet (fiskelengde/ s) 
+ 
+ 
+Overflateaktivitet i kuppel 
+ 
+ 
+Svømmemønster (gruppestruktur) 
+ 
+ 
+Tiltvinkel 
+ 
+ 
+Svømmedyp 
+ 
+ 
+Registrering av lus ved hjelp av Aquabyte  
+ 
+ 
+  
+Tabell 5 Teknologisk måleprogram 
+Registreringer 
+Beskrivelse 
+Måleperiode 
+Luftfylling av kuppel 
+Ved bruk av kamera 
+Daglig 
+Stabilitet av kuppel 
+Ved bruk av dybdesensorer 
+Kontinuerlig/Utvalgte tidsserier 
+Dybde flytekrage 
+Dybdesensorer 
+Kontinuerlig/Utvalgte tidsserier 
+Dybde nedsenket bøye 
+Måling av lufttrykk 
+Kontinuerlig/Utvalgte tidsserier 
+Kraft på hanefot 
+Lastceller på de mest belastede 
+haneføttene 
+Kontinuerlig/Utvalgte tidsserier 
+Kraft i krysstau i tak 
+Lastceller på de mest belastede 
+krysstauene 
+Kontinuerlig/Utvalgte tidsserier 
+ 
+Kraft på bøyekjetting 
+Lastceller 
+Kontinuerlig/Utvalgte tidsserier 
+Dybde variable bøyer 
+Måling av lufttrykk 
+Kontinuerlig/Utvalgte tidsserier 
+ 
+Energiforbruk vannfôringssystem 
+Avlesning av effektforbruk på utstyr 
+(omformere) 
+Punktmålinger 
+ 
+Utfôret mengde per dag 
+Som registrert i Fishtalk 
+Kontinuerlig/Utvalgte tidsserier 
+ 
+ 
+ 
+8 02_atlantis subsea farming måleprogram gjerdinga 2019.pdf (atlantisfarming.no) 
+12_atlantis subsea farming måleprogram skrubbholmen 2020.pdf (atlantisfarming.no) 
+13_atlantis subsea farming måleprogram otervika 2021.pdf (atlantisfarming.no) 
+9 04_ atlantis subsea farming rapport produksjon gjerdinga 2019.pdf (atlantisfarming.no) 
+07_atlantis subsea farming rapport produksjon skrubbholmen 2020.pdf (atlantisfarming.no) 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+22 
+ 
+4.1 Operasjonelle biologiske resultater 
+I det siste utsettet på Otervika ble det hentet ut et større datagrunnlag enn ved tidligere utsett på 
+Gjerdinga og Skrubbholmen, da vi har hatt fisk i to Atlantismerder i tillegg til sammenligning med fisk 
+i to kontrollmerder i overflaten. I og med at vi telte lus med Aquabyte kamera unngikk vi å ta 
+merdene til overflaten fra slutten av mai til slutten av august.   
+4.1.1 Miljø 
+Overvåking av miljøet i og rundt de nedsenkbare merdene er essensielt for å forstå både de 
+biologiske og teknologiske resultatene, og det er derfor viktig å måle miljøparametere over tid og i 
+dypet. Temperaturen i sjøen er en essensiell parameter da laksen foretrekker bestemte 
+temperaturer og denne temperaturtilpasningen overstyrer nesten alle andre typer adferd. I dypet er 
+temperaturen annerledes enn i overflatemerdene og i hovedsak kan det oppsummeres med at om 
+vinteren er det 2-3 grader varmere i dypet der biomassen stort sett befinner seg, og om sommeren 
+er det 2-3 grader kaldere. Dette får naturlig nok betydning for tilvekst og utfôring, og antagelig også 
+en del andre faktorer. Ved drift av nedsenkbare merder er det derfor svært viktig å ha kontroll på 
+temperaturregimet på de ulike dyp. På alle tre lokalitetene har strømmen vært sterkt avtagende 
+nedover i vannsøylen og det er relativt lite strøm der biomassen befinner seg. Likevel har 
+oksygenverdiene vært bra og det har vært lite problemer med oksygendropp. Saltholdigheten er jevn 
+i vannmassene da alle tre lokalitetene er klassiske ytre kyststrøk lokaliteter. Vi trenger derfor ikke ta 
+hensyn til eventuelle ferskvannslokk i overflaten som kunne presset luselarver ned.   
+4.1.2 Fiskevelferd 
+I siste utsett ble fiskevelferden overvåket ved bruk av Aquabytekamera. I tillegg ble det foretatt 
+SWIM scoringer på minimum 20 fisk, inkludert vitenskapelig lusetelling av alle stadier, når merden 
+ble hevet til overflaten. Fisken i merdene ble overvåket daglig gjennom kameraene som var plassert i 
+merden. Det er ikke registrert noen systematiske tegn på nedsatt velferd i Atlantismerdene i forhold 
+til kontrollmerdene, så lenge fiskens generelle helse er god. Snutesår, som den eneste 
+velferdsindikatoren, blir sett oftere Atlantismerdene enn i kontrollmerdene. Dette kan mulig 
+forklares ved at fisken rett etter heving søker opp mot overflaten og kan stange mot nottaket, før det 
+blir fjernet. Ved færre avlusninger på fisken, vil også fiskevelferden bli bedre. Kontrollmerdene som 
+har gjennomgått flere avlusninger har høyere velferdsscore (høy score betyr dårligere fiskevelferd 
+enn lav score) på skinnhelse (risttap, rødbuk, finneskader) enn Atlantismerdene, som ikke hadde blitt 
+avluset enda. Det er viktig å vurdere fiskens generelle helse når den skal senkes, da det å bli senket 
+ned vil være en stressende situasjon for fisken. Men dersom fiskens generelle helse er god, ser fisken 
+ut til å håndtere denne prosessen godt. De resultater som foreligger tyder på at fiskens velferd er like 
+godt ivaretatt i nedsenket merd, som i en kommersiell merd.  
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+23 
+ 
+Vurdering av fiskevelferd med Aquabytekamera 
+Vurdering av fiskevelferd i henhold til FISHWELL standard ved utsett av fisk på Skrubbholmen 
+Sluttrapport Atlantis Subsea Farming  
+ 
+24 
+ 
+4.1.3 Fiskeadferd 
+Fiskens adferd er nøye overvåket under flere runder med heving og senking av merdene. Det 
+registreres noen tegn på økt stressnivå under selve operasjonen, men fisken tar seg fort inn igjen og 
+begynner raskt å fylle svømmeblæren ved å snappe luft i luftkuppelen, samt å ta fôret som tilbys.   
+Kamerabilder fra rett etter senking av merd på Skrubbholmen 
+Svømmehastighetene som er målt ligger godt innenfor det som ansees som normalt, og beviser at 
+fisken klarer å bruke luftkuppelen til å fylle svømmeblæren. Fisken begynner å bruke luftkuppelen 
+rett etter utsett, enten fisken er liten eller stor.  
+Fisken i Atlantis oppførte seg 
+ikke annerledes under fôring 
+enn fisken i overflatemerdene 
+og det er ingen negative 
+erfaringer med fôring av 
+Atlantismerder generelt. 
+Ved heving av merdene 
+observeres det økt 
+overflateaktivitet og dette har 
+blitt nøyere undersøkt. 
+Konklusjonen er at det er 
+overveiende sannsynlig at 
+fisken tømmer svømmeblæren 
+på vei opp og at den derfor må 
+etterfylle/justere 
+svømmeblæren når taket 
+fjernes. Det kan også skyldes at 
+fisken opplever en endring i miljøet – uansett er det viktig å gi mulighet for å fylle svømmeblæren 
+ved å fjerne deler eller hele taket ved heving – alternativt å gi tilgang i kuppelen i overflateposisjon.  
+Sluttrapport Atlantis Subsea Farming  
+ 
+25 
+ 
+4.1.4 Lakselus 
+I det siste utsettet ble lusesituasjonen overvåket ved hjelp av Aquabytekamera og unngikk å ta 
+merdene til overflaten for å telle lus. Ved dette utsettet har Atlantismerdene unngått de største 
+lusepåslagene, da kontrollmerdene hadde to store lusepåslag før Atlantismerdene fikk ett (Figur 8). 
+Dette lusepåslaget er også antatt å skyldes at det ble gjennomført avlusning i overflatemerdene på 
+lokaliteten, og at lusen har blitt overført fra overflatemerdene til Atlantismerdene som følge av 
+omrøring i vannmassene internt på lokaliteten.  
+Resultatene fra det siste utsettet viser at det er mulig å unngå lusepåslag i nedsenkede merder gitt at 
+fisken er mest mulig fri for lus ved utsett, merden tas minst mulig til overflaten (fordrer bruk av 
+Aquabyte-kamera) og at hele lokaliteten har dyp drift løsninger, det vil si at biomassen befinner seg 
+under 15-20 meter eller dypere (avhengig av lokalitet).  
+ 
+ 
+Figur 8 
+Lusetall talt med Aquabyte kamera i Atlantis 1, Atlantis 2, kontroll 1 og kontroll 2 fra uke 22 til 36. Lusetallene er 
+gitt som gjennomsnittlig antall lus pr. fisk pr. uke, alle lusestadier sammenlagt. Blå stjerne markerer der kontrollmerdene 
+har gjennomgått Slice-kur, røde stjerner markerer der kontrollmerdene har gjennomgått ikke-medikamentell behandling og 
+grønn stjerne markerer der alle merdene har gjennomgått ikke-medikamentell behandling. 
+ 
+4.1.5 Produksjonseffektivitet 
+Hvis man hensyntar at fisken i Atlantismerdene har opplevd en lavere temperatur enn fisken i 
+overflatemerdene, viser produksjonsdata at fisken i Atlantis har en tilvekst målt i EGI10 som ikke 
+skiller seg vesentlig fra kontrollmerdene (Figur 9).  En viktig lærdom fra Atlantis er at man må justere 
+temperatur profilen i tilvekstmodellene som benyttes til å beregne tilvekst slik at tilvekst og fôring 
+vurderes opp mot en riktig prognose. Om vinteren vil det være varmere i dypet enn i overflaten og 
+tilvekstmodellene må justeres for denne perioden også.  
+ 
+10 EGI (EWOS GROWTH INDEX) er EWOS sitt tilvekstbegrep.  
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+26 
+ 
+ 
+Figur 9 
+EGI i Atlantis merder, kontrollmerder og gjennomsnitt for region Midt justert for riktig temperatur der fisken 
+oppholder seg (kilde: EWOS) 
+Fra utsett på Otervika og fram til slakt har Atlantis 1 en økt dødelighet blant annet på grunn av 
+utbruddet av ILA (16,5 %). Før avlusningen i uke 34 var Atlantis 2 den merden med lavest akkumulert 
+dødelighet på lokaliteten (2,28 %) og totalt ble dødeligheten 3,8 %. Etter avlusningen i uke 34 ble det 
+registrert forøket dødelighet i både Atlantis 1 og Atlantis 2. Kontrollmerdene viste en dødelighet på 
+2,09 og 2,26 %. Slaktedata viser at Atlantis 1 i siste utsett hadde en redusert superiorandel (89,80 %) 
+på grunn av ILA utbruddet mot slutten av perioden, mens Atlantis 2 og kontrollmerdene varierte 
+mellom 93,30-97,30 % der Atlantis 2 var best.  
+ 
+4.2 Operasjonelle teknologiske resultater 
+4.2.1 Luftkuppel 
+Luftkuppelen har vært den største teknologiske utfordringen i prosjektet, og det ble gjort en del 
+designendringer før det siste utsettet på Otervika11. Luftkuppelen er utformet for å møte laksens 
+behov for et vannspeil der den kan fylle luft, men luftkuppelen må samtidig møte en del praktiske 
+behov knyttet til håndtering, behov for infrastruktur, med mer. Den første luftkuppelen var lagt av 
+aluminium og plast og hadde et stabiliserende lodd i midten.  
+Den nye luftkuppelen fungerer godt rent teknisk – den ble enklere å håndtere (lettere) og den 
+fungerer godt som infrastruktur for utfôringsenhet, kamera, lys og annen sensorikk. Nå kan en litt 
+stor servicebåt enkelt håndtere utsett og fjerning av luftkuppel i merd. Selve luftlommen ble større 
+enn ved tidligere utsett (3-4 meter i diameter). Loddet er fjernet. Ellers oppførte konstruksjonen seg 
+omtrent som tidligere luftkupler – den finner en posisjon i vannsøylen og blir der. Luften etterfylles 
+hver dag ved hjelp av styringssystemet AKVA connect.  
+ 
+11 10_atlantis subsea farming grunnlag for designendringer skrubbholmen 2020.pdf (atlantisfarming.no) 
+100
+102
+104
+106
+108
+110
+112
+114
+116
+EGI
+EGI Otervika Atlantis merder og kontrollmerder
+Atlantis 1
+Atlantis 2
+Kontroll 1
+Kontroll 2
+Region Midt
+Sluttrapport Atlantis Subsea Farming  
+ 
+27 
+ 
+ 
+Luftkuppel i hevet posisjon 
+ 
+Luftkuppel sett ovenfra 
+ 
+4.2.2 Flytekrage med tilhørende kablings- og styringssystem 
+Heving og senking av merd under selve produksjonen har gått uten problemer (Figur 10). Merden 
+fylles med vann ved senking og luft for å heves. Merden går skrått ned i vannsøylen og selve heve og 
+senkeprosessen tar ca 20-30 minutter. Det er mulig å styre tiden slik at det kan brukes mer tid hvis 
+ønskelig. Hva som er helt optimalt for fisken bør utforskes nærmere. Heving og senking av merd 
+styres av AKVA group sitt styringssystem AKVA connect, og det kan skje fra flåten eller fjernstyres fra 
+Sluttrapport Atlantis Subsea Farming  
+ 
+28 
+ 
+hvor som helst. Det gjelder for øvrig alle andre funksjoner som fylling av luft i kuppel, overvåking av 
+sensorer på merd og luftkuppel, kameraovervåking, styring av lys, etc.  
+Senking av merd ved første utsett på Gjerdinga 
+ 
+ 
+Figur 10 Heving av Atlantis (logging av dybdemålere) 
+Sluttrapport Atlantis Subsea Farming  
+ 
+29 
+ 
+ 
+Kontrollrommet til Atlantis om bord i flåten 
+ 
+Kablingssystemet ble endret etter utsettet på Skrubbholmen for å redusere antall kabler mellom flåte 
+og merder. I dårlig vær blir kablene utsatt for slitasje og det er også fare for påkjørsel av båt. 
+Generelt er dette med føringsveier for tether, luftslanger og annen kabling en utfordring. Økningen 
+fra en til fire merder økte kompleksiteten og samtidig var Otervika betraktelig mer eksponert enn 
+Skrubbholmen og vi forventet mer slitasje på kabler og luftslanger.  Designendringene som ble gjort 
+er beskrevet i en egen rapport12, men i korte trekk gikk det ut på å innføre en ventilbøye som hadde 
+til oppgave å fordele trykkluft fra kompressor om bord i fôrflåten til opptil fire nedsenkbare merder. I 
+tillegg fordeler bøyen strøm og signal fra flåte til merdene. Denne løsningen betyr at det kun går en 
+strøm- og fibernettkabel fra ventilbøyen til selve hovedflåten.  Vi utviklet også en vanntett 
+metallsylinder på hver merd som inneholder interface-elektronikk for all sensorikk på merden og 
+kommuniserer med PC og AKVAconnect via fiber i tether. Kamera, dybdemålere, for merd og kuppel, 
+lastsjakler, lys og annen sensorikk kobles til kontrollsylinderen. 
+ 
+ 
+12 10_atlantis subsea farming grunnlag for designendringer skrubbholmen 2020.pdf (atlantisfarming.no) 
+Sluttrapport Atlantis Subsea Farming  
+ 
+30 
+ 
+ 
+Ventilbøye 
+ 
+Kontrollflasker montert på merd 
+Erfaringene tilsier at utfordringene med mye kabling i sjø ble redusert, men ventilbøyen var til dels 
+vanskelig å gå om bord i i dårlig vær. Ventilbøyen har vist seg å oppføre seg greit selv i dårlig vær og 
+har fungert godt som base for ventiler, aktuatorer og elkraft distribusjon og elektronikk forøvrig. 
+Luftslangene ble utsatt for slitasje i overgangen fra sjø til ventilbøye. Kontrollflaskene fungerte etter 
+hensikten med unntak av en flaske som sluttet å fungere under funksjonstestingsfasen på grunn av 
+operatørfeil13.  
+ 
+13 11_atlantis subsea farming_rapport funksjonstesting før utsett på otervika.pdf (atlantisfarming.no) 
+Sluttrapport Atlantis Subsea Farming  
+ 
+31 
+ 
+4.2.3 Fortøyningssystem inkludert regulerbare bøyer 
+Atlantis er innplassert i en vanlig rammefortøyning i de to første utsettene, men i det tredje utsettet 
+ble det lagd en egen rammefortøyning for de fire nedsenkbare merdene inn til rammefortøyningen 
+med overflatemerdene på samme lokalitet.  
+Bøyene i Atlantis må ha større oppdrift enn i et vanlig anlegg, og i første og andre utsett løste vi det 
+med å ha tre vanlige bøyer sveiset sammen i hvert bøyepunkt i overflaten. Total oppdrift i hvert 
+bøyepunkt var 12 tonn. Vi ønsket å skaffe oss erfaringer med disse bøyene før vi gikk videre å utvikle 
+en mer avansert versjon tilpasset mer eksponert lokaliteter. I meget dårlig vær ble det registrert en 
+max last på i overkant av 5 tonn og en gjennomsnittslast på litt under 3,0 tonn. For å kunne ha så små 
+bøyer som mulig i overflaten ble det utviklet regulerbare bøyer som også fungerte som koblingspunkt 
+i rammefortøyningen. Bøyene kunne fylles med luft for å tilføre mer oppdrift ved hjelp av 
+styringssystemet AKVA connect og tømmes for å redusere oppdriften. Dette ga også en mulighet for 
+å justere den enkelte flytekrage slik at den ble liggende mest mulig horisontalt.  
+ 
+ 
+Regulerbar fortøyningsbøye monteres i sjø 
+Det å fylle og tømme bøyene for luft var en enkel prosedyre som fungerte greit via AKVA connect. 
+Det viste seg å være mer uforutsigbart hvordan fylling og tømming av den enkelte bøyen påvirket 
+både fortøyning, flyter og luftkuppel. Ved regulering av en bøye påvirket vi ikke bare den nærmeste 
+merden, men også de andre merdene og regulerbare bøyer. Systemet var følsomt og sammensatt for 
+slike endringer, og bøyene egnet seg ikke til kun å justere en merd slik vi hadde en hypotese om. 
+Sluttrapport Atlantis Subsea Farming  
+ 
+32 
+ 
+Rett før utsett fikk vi brudd i ett av ørene på 
+regulerbar bøye nr K19. Fisken var i ferd med å 
+transporteres til anlegget og vi hadde ikke annet 
+valg enn å ta bøyene ut av anlegget og erstatte de 
+med en vanlig koblingsplate. Hendelsen ble 
+grundig analysert og beskrevet i detalj i rapporten 
+fra funksjonstestingen av anlegget14, og årsaken 
+til bruddet er sannsynligvis sammensatt av 
+følgende uheldige kombinasjoner; høye rykk-
+krefter, skjev belastning og størst belastning om 
+svak akse av innfestningsøret.  
+ Lastsjakkel montert mellom koblingsplate og bøye 
+4.2.4 Krefter i konstruksjonen 
+Lastsjakler ble montert på punkter i 
+konstruksjonen der modelleringer viste at det 
+virket mest krefter i konstruksjonen; i kjetting fra 
+bøye til koblingsplate, i tre haneføtter og i 
+krysstau i tak. Resultatene fra målingene viser det 
+samme som på Skrubbholmen; det måles mest 
+krefter mellom koblingspunkt og overflatebøye, 
+deretter i ytre haneføtter og minst krefter virker i 
+krysstau i taket. Alle målinger ligger godt innenfor 
+de maksverdier funnet ved analyser i AquaSim. 
+4.2.5 Vannfôringssystem 
+I første utsett utviklet vi en enkel fôringsrigg der fôr og vann ble blandet på flåten før utfôring i merd. 
+Erfaringene var såpass positive at AKVA group utviklet en flåte med et totalintegrert system for 
+vannfôring.  
+Det ble brukt samme fôrflåte på Skrubbholmen og Otervika, og følgelig samme system for utfôring 
+basert på conveyoranlegg for å frakte fôr fra silo til vannsluse og integrert vannfôringsanlegg. Midt 
+under utsettet ble plassering av fôringsfunksjonen flyttet inn på land til en fôringssentral i Rørvik og 
+dette gikk fint uten videre problemer. Fôringssystemet fungerte greit under hele utsettet.  
+ 
+ 
+14 11_atlantis subsea farming_rapport funksjonstesting før utsett på otervika.pdf (atlantisfarming.no) 
+Sluttrapport Atlantis Subsea Farming  
+ 
+33 
+ 
+ 
+Vannfôringsflåte med Atlantis container på Skrubbholmen 
+ 
+4.2.6 Dødfisksystem 
+Vi hadde utfordringer med å få Lift Up til å fungere optimalt. Dødfiskslangen går fra Liftup og opp i en 
+gjennomføring i ytterkanten av taket. Hvis denne slangen blir for lang får vi to 90 graders knekker på 
+slangen inne i nota, en når slangen treffer taket og en ute ved flyteringen. Disse knekkene gjør det 
+vanskelig å få en jevn strøm av vann 
+og fisk gjennom slangen, og på 
+bakgrunn av dette er det kritisk å 
+finne rett lengde på dødfiskslange 
+inne i merda. I siste utsett på Otervika 
+valgte vi å bygge en liten dødfiskflåte i 
+PE der servicebåten kunne legge inn til 
+og pumpe opp dødfisken i stedet for å 
+pumpe den inn til flåten. Årsaken var 
+at flåten lå langt fra merdene og vi 
+ønsket å redusere risiko for at noe 
+skulle gå galt. De ansatte på anlegget 
+var også mer fortrolig med å gjøre det 
+på denne måten. Dødfiskflåten 
+fungerte meget bra. 
+ 
+ 
+   Dødfiskflåte montert på Otervika 
+ 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+34 
+ 
+4.3 Hovedkonklusjoner og anbefalinger fra produksjonsperiodene 
+Hovedkonklusjonen er at fiskens adferd og velferd var god, og at fisken lærte seg å bruke 
+luftkuppelen for å fylle svømmeblæren. Produksjonsdata som fôrfaktor, tilvekst, dødelighet og 
+slakteresultat viser normale verdier sammenlignet med en ordinær produksjon, gitt at det justeres 
+for lavere temperatur i dypet.  
+Atlantis merdene ble avluset en gang mot at overflatemerdene i anlegget ble avluset tre ganger. Den 
+ene avlusingen er antatt å ha sin årsak i at avlusing av overflatemerdene gir påslag av lus i de 
+nedsenkede merdene gjennom overføring av lus via vannmassene internt på lokaliteten. Erfaringene 
+tilsier at det er fullt mulig å unngå lusepåslag. For å lykkes med å holde fisken fri for lus er det 
+ekstremt viktig å:  
+• 
+Etterstrebe å sette ut mest mulig lusefri fisk på hele anlegget 
+• 
+Heve merden minst mulig til overflaten, noe som fordrer bruk av automatisk lusetelling og 
+overvåking av fisk og tekniske løsninger i dypet 
+• 
+Ha dyp drift på alle merdene på lokaliteten, enten det er snakk om Atlantis, tubenot eller en 
+annen teknologisk løsning 
+Teknisk er det fortsatt rom for forbedringer når det gjelder dødfisksystem, kablingssystem og bøyer 
+(se kap 5.5). 
+ 
+Uttak av fisk til slakting 
+Sluttrapport Atlantis Subsea Farming  
+ 
+35 
+ 
+5 Erfaringer og læring 
+I løpet av et såpass omfattende og langvarig prosjekt blir det gjort et utall av erfaringer underveis 
+som fører til forbedringer. Noen av erfaringene materialiserte seg i form av egne oppgraderings- og 
+forbedringsprosjekter av mer teknisk karakter (Tabell 6), mens andre erfaringer er mer 
+prosessorientert og handler om erfaringer og forbedringer knyttet til praktisk drift som 
+risikovurderinger ved gjennomføring av operasjoner, samhandling mellom aktører involvert, 
+opplæring med mer. Vi har høstet verdifull erfaring i hvordan et slikt prosjekt bør gjennomføres som 
+aktørene som har vært involvert tar med seg inn i nye samarbeidsprosjekter etter at Atlantis er 
+avsluttet. I dette kapitlet vil vi fokusere på de viktigste erfarings- og læringspunktene.  
+5.1 Plattform for nye ideer 
+Noe av det aller viktigste som er erfart er at Atlantis som prosjekt blir en kunnskapsarena for nye 
+idèer og innovasjoner. En del av idéene og innovasjonene handler om forbedringer i Atlantis som 
+prosjekt, men det kommer også opp innovasjoner som kan brukes i andre sammenhenger og i andre 
+prosjekter. For eierselskapene i Atlantis er en slik arena for innovasjon av uvurderlig betydning – og 
+det gir også grunnlag for et tett samarbeid mellom partene etter at prosjektet er over.  
+Eksempler på dette er utvikling av vannfôringsteknologi, miljøbøye for måling av miljøparametere og 
+andre teknologiske løsninger for dyp drift. I og med at AKVA group og Egersund Net er sentrale eiere 
+i Atlantis som selskap er veien kort fra idé til kommersialisering. For SinkabergHansen som 
+oppdretter får de mulighet til å teste ut løsninger tidlig og eventuelt implementere løsninger raskt 
+hvis de ønsker det.   
+5.2 Praktisk drift 
+Montering av de tekniske løsningene på lokalitet før utsett har i prosjektet tatt mye lengre tid enn 
+først antatt. En vesentlig årsak er at en del dager går bort i for dårlig vær til å få gjort det man 
+planlegger å gjøre.  Enkelte monteringsoperasjoner har krevd at været er godt og det skal da lite til 
+før det oppstår forsinkelser. Uforutsette og uønskede hendelser oppstod også, noe som også bidro til 
+forsinkelser.  
+I starten av prosjektet ble også behovet for større servicebåter ved gjennomføring av en del 
+operasjoner undervurdert, men planleggingen med de riktige båtressursene kom etter hvert på plass. 
+Generelt ble logistikk til og fra lokalitet med mannskap, båter og andre innsatsfaktorer undervurdert i 
+starten av prosjektet men her ble det etablert bedre systemer etter hvert. 
+I forbindelse med gjennomføring av større operasjoner ble det alltid gjennomført gode 
+risikovurderinger i henhold til SinkabergHansens internkontrollsystem som også var gjeldende for 
+Atlantis. Sammen med brukerhåndbøker fra Atlantis og god kunnskap om hvordan slike operasjoner 
+gjennomføres på et vanlig anlegg, ble operasjonene gjennomgått i detalj med alle involverte parter. 
+Disse risikovurderingene var særlig viktige når operasjonene skulle gjennomføres første gang – det 
+være seg utsett, avlusingsoperasjoner, uttak av fisk for prøveuttak, slakting, med mer. Ved for 
+eksempel utsett av fisk i Atlantis var det personell fra lokalitet, brønnbåt, servicebåter, veterinærer 
+og prosjektmedarbeidere i Atlantis til stede.  
+Sluttrapport Atlantis Subsea Farming  
+ 
+36 
+ 
+ 
+Fjerning av tak med luftkuppel 
+Risikovurderingene sammen med svært dyktige folk i alle funksjoner under gjennomføringen av slike 
+operasjoner gjorde at vi ikke hadde noen uønskede hendelser i forbindelse med disse operasjonene i 
+Atlantis.  
+Sluttrapport Atlantis Subsea Farming  
+ 
+37 
+ 
+Alle tekniske komponenter i Atlantis med registrert i Fishtalk Equipment som er SinkabergHansen sitt 
+vedlikehold- og avvikssystem for drift i sjø. Ved gjennomføring av operasjoner eller under daglig drift 
+ble avvik registrert i dette systemet via en APP som både driftspersonell på lokaliteten og 
+prosjektarbeidere i Atlantis hadde tilgang på. Eventuelle avvik knyttet til selve prosjektet ble også 
+registrert der. Prosedyrer for lukking av avvik ble fulgt.  
+Dykkere brukes til utsett og kontroll av utstyr, 
+samt en rekke andre operasjoner i Atlantis. Det 
+ble utviklet egne prosedyrer for dykking i 
+Atlantis – både i overflateposisjon og nedsenket 
+posisjon. I merden ble det eksempelvis montert 
+kamera, lys, strømmåler og oksygensensorer 
+ved hjelp av dykkere. Hvis noe av sensorikken 
+sluttet å virke gikk dykkere inn i Atlantis og 
+byttet komponent. De bruker glidelåsene i taket 
+når de skulle gå inn i merden. Når merden er i 
+neddykket tilstand har de kort tid i dypet før de 
+må begynne å gå til overflaten og operasjonene 
+må planlegges godt.  
+Det ble jobbet mye med hvordan 
+enkeltkomponenter skulle kunne byttes under 
+drift uten at det skulle bli en for omfattende og 
+dyr operasjon. Eksempelvis var utviklingen av 
+kontrollflaskene basert på at hvis en flaske 
+slutter å virke skal den enkelt la seg skifte slik at 
+merden ikke behøver å ligge i overflaten veldig 
+lenge. Andre, enklere operasjoner som skifte av 
+et defekt kamera eller lys skulle la seg gjøre i 
+neddykket tilstand.  
+Opplæring av de ansatte på lokaliteten som skal drifte med nedsenkbare anlegg er avgjørende for å 
+lykkes. Gjennomgang av rutiner, risikovurderinger og opplæring i bruk av det tekniske utstyret er 
+sentralt.  
+5.3 Kunnskap om lokaliteten 
+Når det skal driftes i dypet er det essensielt å ha grundig kunnskap om miljøparametere på 
+lokaliteten, og det bør etableres et godt måleprogram for registrering av temperatur, saltholdighet, 
+strøm, vind, oksygen, med mer. Målingene må gjøres i hele vannsøylen og både før og under utsett.  
+Erfaringene fra de tre lokalitetene i prosjektet er at strømmen er avtagende nedover i vannsøylen og 
+bunnsedimenter bør overvåkes ekstra nøye.  Fôr og faeces spres mindre enn i en overflatemerd og 
+det kan potensielt bli utfordrende med opphoping av sedimenter under merdene. En B-undersøkelse 
+utført av Åkerblå på Otervika i henhold til NS 9410:2016 ved maksimal biomasse i anlegget viser 
+imidlertid tilstandsklasse 1 der 1 er best og 4 dårligst15.   
+ 
+15 B-undersøkelse for lokalitet 40117 Otervika 05.10.2021. Utført av Åkerblå  
+Sluttrapport Atlantis Subsea Farming  
+ 
+38 
+ 
+Oppgraderingsprosjekter underveis i prosjektperioden 
+Tabell 6 viser oppgraderingsprosjekter som er gjennomført i Atlantis.  
+Tabell 6 Oppgraderingsprosjekter 
+Nr 
+System 
+Formål/årsak 
+Tilførte forbedringer 
+1 
+Luftkuppel I 
+Før første utsett var vi ikke fornøyd med 
+stabiliteten på luftkuppelen og dermed heller 
+ikke størrelsen på luftlommen 
+Vi valgte å tilføre et loddrør for å øke 
+stabiliteten og størrelsen på luftlommen. 
+Dette fungerte brukbart og gav en grei 
+luftlomme, men det var en omfattende 
+operasjon med til dels tunge elementer å 
+montere i sjø.  
+2 
+Luftkuppel II 
+Etter utsett nr 2 ble det avdekket et behov for å 
+lage en lettere kuppel av håndteringsmessige 
+årsaker, samt få til en litt større luftlomme for 
+fisken. Vi ønsket også å lage en stabil luftlomme 
+uten et stabiliserende lodd i midten som den 
+første versjonen hadde.  
+Luftkuppelen ble produsert i plast, og 
+designet endret slik at luftlommen ble 
+større. Den nye løsningen lar seg enkelt 
+håndtere med en vanlig servicebåt, og 
+loddet er fjernet.  
+3 
+Oppdriftsbøye over 
+luftkuppel 
+Som en ekstra sikkerhet i tilfelle luftkuppelen 
+mister all luft ble det montert en oppdrettsbøye 
+over luftkuppelen i utsett nr 2 
+I og med at vi i til utsett nr 3 hadde 
+utviklet en ny kuppel forsvant behovet 
+for oppdriftsbøyen 
+4 
+Kablingssystem: 
+Ventilbøye og 
+kontrollflasker 
+I forbindelse med oppskalering fra en merd til 
+fire, ble det åpenbart at kablingssystemet måtte 
+endres så ikke all kabling nødvendigvis måtte inn 
+til flåte. Det var et behov for å redusere 
+kabellengder, samt gjøre det enkelt å bytte ut 
+enkeltkomponenter som sluttet å virke under 
+drift, eksempelvis kamera, lys etc.  
+Løsningene gav kortere kabelføringer og 
+muligheter for enkelt å bytte sensorikk 
+og annen teknologi som av ulike grunner 
+havarerer. Det oppstod nye utfordringer 
+knytet til valgte løsninger, eksempelvis er 
+det ikke mulig å gå om bord i ventilbøyen 
+i dårlig vær og det ble slitasje på 
+luftslangene inn til ventilbøyen. Her er 
+det fortsatt rom for forbedringer.  
+5 
+Uttakslomme for fisk 
+Uttak av fisk for telling av lus og bedømming av 
+fiskevelferd var en utfordring under første utsett 
+på Gjerdinga.  
+Det er derfor lagd en spesialtilpasset 
+åpning i taket, og det er også lagd en 
+spesielt stor håv for å ta ut fisk. Før utsett 
+av fisk ble det trent på hvordan dette 
+skulle gjennomføres. Etter utsett av fisk 
+viste det seg at uttakslommen og håven 
+fungerte greit, og det var mulig å få tak i 
+det antall fisk som skulle vurderes.  
+ 
+6 
+Lift Up 
+Dødfiskslangen går fra Liftup og opp i en 
+gjennomføring i ytterkanten av taket. Hvis denne 
+slangen blir for lang får vi to 90 graders knekker 
+på slangen inne i nota, en når slangen treffer 
+taket og en ute ved flyteringen. Disse knekkene 
+gjør det vanskelig å få en jevn strøm av vann og 
+fisk gjennom slangen 
+Nøye tilpasning av slangelengder, samt 
+det å flytte styring av Lift Up fra fôrflåte 
+til Lift Up flåte.  
+7 
+Glidelås rundt hele 
+taket inn mot 
+flytekragen 
+I de to første utsettene var det bare to korte 
+glidelåser montert i taket inn mot flyter. 
+Mesteparten av taket måtte derfor syes på ved 
+montering, noe som var en arbeidskrevende 
+prosess.  
+Det ble montert på en glidelås rundt hele 
+taket inn mot flytekragen som gjorde det 
+enkelt å montere tak/kuppel og fjerne 
+det igjen.  
+8 
+Container med utstyr 
+på flåte 
+I første utsett utstyrte vi en egen lekter med 
+styringssystem for Atlantis ved siden av merden. 
+Denne ville ikke fungere på utsett nr 2 på 
+Skrubbholmen da lekteren ville fått for mye 
+bevegelse.  
+Alt av styringssystem i Atlantis ble derfor 
+montert i en container som deretter ble 
+plassert på hovedflåten. Containeren kan 
+da i prinsippet enkelt flyttes til neste 
+lokalitet.  
+9 
+Endring av innfesting 
+av hanefot 
+Det ble oppdaget en skade på indre flyterør 
+under funksjonstesting i andre utsett på 
+Skrubbholmen. Årsak var en uheldig 
+innfestingsmetode som gav en dobbel lasteffekt 
+på indre flyterør. 
+Innfesting av hanefot ble endret til å 
+feste hanefot rett på indre flyterør og det 
+ble lagt på en klemme rundt røret der 
+hvor hanefot snares fast. Dette fungerte 
+greit på neste utsett.  
+Sluttrapport Atlantis Subsea Farming  
+ 
+39 
+ 
+10 
+Endring av 
+ventilløsning 
+flytekrage 
+De første ventilene fungerte greit, men vi tapte 
+for mye lufttrykk fram til aktuator på ventil slik at 
+det til tider var utfordringer med åpning/lukking 
+Vi erstattet styrte ventiler med manuelle. 
+Ulempen er at vi må ut på merd og åpne 
+ventilene før senking og stenge etter 
+heving. 
+12 
+Telling av lus og 
+overvåking av 
+fiskevelferd 
+I de to første utsettene ble det benyttet en 
+modell for å beregne luseutviklingen og deretter 
+ta merden til overflaten for kontrolltelling for å 
+være sikker på at lusegrenser ikke ble 
+overskridet. 
+Innføring av luseovervåkingskameraet 
+Aquabyte gjorde at vi hadde bedre 
+kontroll på utviklingen av lus og slapp å 
+ta merden til overflaten.  
+13 
+Kompressor 
+I de to første utsettene ble det benyttet 
+dieselkompressor, og vi hadde av og til 
+utfordringer med kompressoren.  
+I siste utsett gikk vi over til elektrisk 
+kompressor som ble montert om bord i 
+fôrflåten og dette ble en mer driftssikker 
+løsning.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Luftkuppel under montering 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dykker åpner glidelås i taket for å montere kamera  
+Sluttrapport Atlantis Subsea Farming  
+ 
+40 
+ 
+5.4 Vesentlige modifikasjoner eller endrede rutiner etter prosjektperioden 
+Før siste utsett på Otervika ble det gjennomført en rekke forbedringer i Atlantis. Likevel vil det alltid 
+være behov for forbedringer og endringer av et teknologisk konsept som tross alt er i tidlig fase. Vi vil 
+trekke fram følgende momenter som det vil bli jobbet videre med:  
+• 
+Kabler og slanger (luftslanger, fiber, kamera/lyskabler, fôringsrør og dødfiskslanger) og 
+føringsveier for disse er fortsatt utfordrende. Denne typen utstyr får i overflaten store 
+påkjenninger på en lokalitet som Otervika – eller mer eksponerte lokaliteter for den del, og 
+ideelt sett skulle enda mer av dette vært senket ned i vannsøylen og ikke ligget i overflaten.  
+• 
+Kabelføring internt på merd. Merden som i hovedsak består av to flyterør og en håndrekke er 
+en fleksibel konstruksjon som særlig blir utsatt for deformasjon under heving-senking. Dette 
+har gitt utfordring for kabelføring mellom kontrollsylinder og de enkelte dybdesensorer. 
+• 
+Dødfisk flåten har fungert meget godt som arbeidsstasjon og kan muligens egne seg som en 
+plattform/infrastruktur for annen type utstyr også, eksempelvis utstyr som i dag er knyttet til 
+ventilbøya og/eller kontrollflaskene. Selve dødfisk systemet må det jobbes mer med da 
+systemet ikke fungerer optimalt.  
+• 
+I tillegg til videre arbeid på konseptet ser vi også at hendelsen rundt nedsenkbarbøyene at 
+det er behov for en diskusjon rundt hvordan krav i NS 9415 skal sikre at det oppnås 
+tilstrekkelig styrke komponenter med store volum i nedsenket tilstand. Spesielt i de tilfeller 
+hvor det er stor tilleggsmasse samt en kobling til overflaten. Dette gir en lastsituasjon det kan 
+se ut som er utfordrende for NS9415 å dekke. Vi ønsker å utforske videre bruk av regulerbare 
+bøyer på mer eksponerte lokaliteter enn Otervika.  
+• 
+Generelt krever drift på en lokalitet som Otervika svært god planlegging og oppmerksomhet 
+knyttet til værvindu for faktisk å få gjennomført operasjoner, enten disse er knyttet til 
+montering og funksjonstesting eller drift.  
+• 
+Justering av enkeltkomponenter på luftkuppelen vil være nødvendig. 
+• 
+På sikt vil det være ønskelig å utvikle et eget fortøyningsklammer for nedsenkbare merder og 
+erstatte løsningen med stropper.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+41 
+ 
+6 Evaluering av prosjektet som helhet 
+Oppdrett av laks på under 25-30 meter dyp har aldri vært gjort før i den skala vi her snakker om. Vi er 
+av den oppfatning at det å flytte selve oppdrettsvolumet ned i vannsøylen på denne måten har høy 
+innovasjonshøyde, samtidig som det løser en av de største utfordringene som næringen har i dag 
+knyttet til lakselus.  
+Prosjektet har vist at det er biologisk mulig og forsvarlig å holde laksen i dypet, men vi vil understreke 
+at det fortsatt er et behov for å utforske hvordan laksen påvirkes av å være i dypet over tid. Det kan 
+oppstå biologiske utfordringer som vi ikke har oversikt over i dag. På den annen side vil det også 
+kunne være biologiske fordeler med å holde laksen i dypet som vi enda ikke har avdekket. Det er 
+også slik at de som skal drifte et nedsenkbart anlegg må tilegne seg ny kunnskap og nye driftsrutiner 
+for å sikre suksess.  
+Vi har hatt utfordringer i prosjektet av både teknologisk, værmessig og biologisk art og de to første 
+utsettene ble derfor noe forsinket og av mindre omfang enn opprinnelig planlagt. Det må påpekes at 
+den opprinnelige planen var basert på et større omfang enn tildeling av en tillatelse skulle tilsi. Det 
+siste utsettet ble likevel gjennomført etter planen, og i sum mener vi at prosjektet har oppfylt 
+målsettingene. 
+Hovedkonklusjonen fra prosjektet er klar; Vi har nå utviklet teknologi for å kunne oppdrette laks i 
+nedsenkbare merder i kommersiell skala, og vi har vist at det er mulig å produsere en fisk med god 
+velferd og adferd, lite luseutfordringer og god produksjonseffektivitet.   
+Teknologien er sertifisert i henhold til NS9415 og det er utviklet brukermanualer, risikovurderinger og 
+driftsrutiner som tilfredsstiller dagens akvakulturregelverk.  
+Anlegget er sertifisert i henhold til en relativt eksponert lokalitet opp mot en Hs på 5,0 og en strøm 
+på 1,0 m/s. Sannsynligvis kan et nedsenkbart anlegg fungere også på en mer eksponert lokalitet når 
+det gjelder bølgehøyde og strøm, men det må naturligvis analyseres og undersøkes for den enkelte 
+lokalitet. De digitale verktøyene for å gjøre analysene er utviklet. Atlantis vil egne seg best på 
+lokaliteter i ytre kyststrøk og prosjektet har åpnet for å ta i bruk et større areal i ytre kyststrøk for 
+oppdrett av laks.  
+Atlantis og tilhørende eierselskap har bygget opp erfaringer og kunnskap som gjør det mulig å bygge 
+og drifte flere nedsenkbare anlegg av litt ulik karakter. Erfaringene tilsier at hvert anlegg må tilpasses 
+den aktuelle lokaliteten, og Atlantis som kunnskapsbase vil gjøre dette mulig. De mange 
+leverandørene som har levert løsninger og kunnskap inn mot prosjektet sitter også med verdifull 
+kunnskap om dyp drift, og de vil kunne være viktige aktører i levering av fremtidige anlegg. Alle 
+industrielle leveranser er fra norske leverandører.  
+Prosjektet har publisert en rekke rapporter og artikler og det er holdt mange foredrag på ulike 
+industrielle arenaer. Det er også etablert grunnleggende kunnskap om dyp drift i samarbeidet med 
+Havforskningsinstituttet som har blitt publisert i vitenskapelige tidsskrift.  
+Vi mener at prosjektet har oppfylt kravene som er uttrykt gjennom prosjektets målkriterier på en god 
+måte og oppfylt målsettingene med prosjektet uttrykt i den opprinnelige prosjektsøknaden, samt 
+kommunikasjon med Fiskeridirektoratet i løpet av prosjektperioden. 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+42 
+ 
+7 Suksesskriterier med tanke på kommersialisering og videre planer 
+Generelt har det tette samarbeidet mellom SinkabergHansen som oppdretter og AKVA group som 
+hovedleverandør gjort at alle de tekniske løsningene som er utviklet hele tiden blir diskutert gjennom 
+når det gjelder praktisk funksjonalitet, god fiskevelferd, teknologisk og biologisk ytelse, 
+vedlikeholdskostnader og anskaffelsespris. Dette er helt vesentlige suksesskriterier hvis man skal 
+lykkes med å tilby et såpass nytt og revolusjonerende konsept for oppdrett av laks. Vårt mål har hele 
+tiden vært å utvikle en kommersiell teknologi som er interessant for oppdrettsselskaper nasjonalt og 
+internasjonalt etter at prosjektet Atlantis er avsluttet.  
+Rent konkret vil SinkabergHansen fortsette med Atlantis anlegget i et neste utsett fra 2022. Det vil bli 
+gjort enkelte justeringer av teknologien, men hovedprinsippet er det samme.  
+AKVA group har rettighetene til de nye teknologiske løsningene som er utarbeidet i Atlantis og er den 
+aktøren som vil kommersialisere løsningene sammen med sine dyktige underleverandører. AKVA 
+group har et velutviklet nettverk i alle viktige lakseproduserende land og Atlantis som konsept, 
+sammen med andre teknologiske løsninger for dyp drift, er aktuelle i alle disse landene. I alle landene 
+er det utfordringer knyttet til lakselus og tilgang til areal i form av mer eksponerte lokaliteter. I 
+enkelte av disse markedene, eksempelvis Canada, kan også argumentet med at anlegget er lite synlig 
+ha en betydning. Men markedet må bygges opp og kunnskapen fra Atlantis som prosjekt sammen 
+med andre tilsvarende prosjekter rettet mot dyp drift, er avgjørende for å lykkes i markedet.  
+Et av de viktige suksesskriteriene for Atlantis videre vil være at man som leverandør allerede er 
+posisjonert med et markedsføringsapparat og servicesystem i disse landene. Det vil gi en mulighet for 
+å bistå kundene på en god måte når Atlantis som konsept skal tas i bruk.  
+I tillegg har det i hele prosjektets levetid vært signalisert sterk internasjonal interesse for Atlantis 
+rettet mot oppdrett av andre arter enn laks. Det som da er aktuelt er å konstruere en noe enklere 
+variant av Atlantis som primært er rettet mot å unngå kraftige stormer.  
+Et annet sukssekriterium for Atlantis vil være å fortsette å utvikle kunnskap om dyp drift, noe 
+eierselskapene i Atlantis vil gjøre sammen med aktuelle forskningsmiljø og andre leverandører. 
+Det at SinkabergHansen i det siste utsettet valgte å sette sin egen fisk i anlegget for å utnytte 
+infrastrukturen og for å få enda bedre grunnlag for kunnskapsgenerering, gjør at grunnlaget for å 
+kunne kommersialisere de teknologiske løsningene er gode.  
+ 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+43 
+ 
+Vedlegg 1 Målkriterier og oppfyllelse av disse  
+Linkene i tabellen er til publiserte rapporter fra prosjektet som er lagt ut på prosjektets hjemmeside 
+og rapportert til Fiskeridirektoratet i løpet av prosjektperioden. Andre rapporter det ikke er linket til 
+er unntatt offentlighet og rapportert inn til Fiskeridirektoratet underveis.   
+ 
+Målkriterie 1 Prosjektinformasjon  
+Utsett 1 
+Utsett 2 
+Utsett 3 
+1.1 Informasjonsdeling  
+Leveranse  
+Kunnskapsdeling  
+ 
+ 
+ 
+Prosjektet skal utarbeide en 
+hensiktsmessig plattform 
+for deling av kunnskap og 
+erfaringer som spesifisert 
+under aktuelle målkriterier.  
+Prosjektet skal 
+informere 
+Fiskeridirektora
+tet når 
+plattformen er 
+i drift.  
+Prosjektet skal vedlikeholde 
+plattformen i henhold til 
+vilkår om kunnskapsdeling i 
+de spesifiserte 
+målkriteriene.  
+Etablert. 
+https://ww
+w.atlantisfar
+ming.no/for
+side 
+ 
+Oppdatert 
+Oppdatert 
+1.2 Fakta om prosjektet  
+Leveranse  
+Kunnskapsdeling  
+ 
+ 
+ 
+Atlantis skal så snart 
+prosjekteringen er 
+ferdigstilt utarbeide et 
+fakta-ark med 
+nøkkelinformasjon om 
+prosjektet.  Fakta-arket skal 
+minimum inneholde 
+hoveddimensjoner, 
+funksjonalitet, milepæler 
+og leverandører.  
+Fakta-arket skal 
+leveres til 
+Fiskeridirektora
+tet.  
+Fakta-arket vil publiseres av 
+Fiskeridirektoratet og 
+prosjektet på en 
+hensiktsmessig måte.  
+Utarbeidet 
+01_ atlantis 
+subsea 
+farming 
+faktaark 
+1.pdf 
+(atlantisfar
+ming.no) 
+Utarbeidet 
+09_atlantis 
+subsea 
+farming 
+faktaark 
+2.pdf 
+(atlantisfar
+ming.no) 
+Utarbeidet, 
+se 
+Rapporter - 
+Atlantisfarm
+ing 
+Målkriterie 2 Designverifikasjon  
+ 
+ 
+ 
+2.1 Designverifikasjon  
+Leveranse 
+Kunnskapsdeling 
+ 
+ 
+ 
+Det skal gjennomføres en 
+tredjeparts 
+designverifikasjon av 
+anlegget for å sikre at 
+anlegget er designet i 
+henhold til regler og 
+standarder beskrevet i 
+søknad og tilhørende 
+dokumentasjon. 
+Verifikasjonen skal baseres 
+på gjennomgang av 
+designrapporter, tegninger, 
+uavhengige beregninger, 
+resultater fra tanktesting, 
+alt etter hva som er 
+hensiktsmessig vurdering ut 
+ifra kvalitative 
+risikovurderinger og dialog 
+med tredjepart. Tredjepart 
+skal ha nødvendig 
+kompetanse og erfaring til 
+å utføre verifikasjon av 
+konseptet.   
+Designverifikasj
+onsrapport fra 
+tredjepart 
+leveres til 
+Fiskeridirektora
+tet. 
+Ikke relevant. 
+Utført 
+TR-30887-
+5539-02 
+Design- og 
+byggeverifik
+asjon 
+ 
+Kun små 
+justeringer i 
+design som 
+ikke krever 
+ny design-
+verifikasjon. 
+Dette ble 
+avtalt med 
+Fiskeri-
+direktoratet 
+Utført 
+TR-30887-
+6334-1 
+Design- og 
+bygge-
+verifikasjon 
+2.2 Register over endringer  
+Leveranse  
+Kunnskapsdeling  
+ 
+ 
+ 
+Erfaringer fra drift på en 
+lokalitet/ eller en versjon av 
+Atlantis skal tilbakeføres til 
+design av neste versjon av 
+anlegget. Prosjektet skal 
+registrere designendringer i 
+et register og begrunne 
+disse. Betydningsfulle 
+Registeret 
+sammenfattes i 
+en rapport og 
+leveres til 
+Fiskeridirektora
+tet for hver 
+versjon av 
+anlegget.  
+Rapportene skal publiseres 
+fortløpende av 
+Fiskeridirektoratet og 
+prosjektet på en 
+hensiktsmessig måte.  
+Rapport 
+levert 
+05_ atlantis 
+subsea 
+farming 
+grunnlag for 
+designendri
+nger 
+Rapport 
+levert 
+10_atlantis 
+subsea 
+farming 
+grunnlag for 
+designendri
+nger 
+IA 
+Sluttrapport Atlantis Subsea Farming  
+ 
+44 
+ 
+erfaringer fra prosjektering 
+og utførelse som også fører 
+til endringer skal også 
+registreres. 
+gjerdinga 
+2019.pdf 
+(atlantisfar
+ming.no) 
+skrubbholm
+en 2020.pdf 
+(atlantisfar
+ming.no) 
+Målkriterie 3 Konstruksjon  
+ 
+ 
+ 
+3.1 Bygging/utførelse av 
+anlegget 
+Leveranse 
+Kunnskapsdeling 
+ 
+ 
+ 
+Konstruksjon av 
+konstruksjonsdeler, 
+hovedkomponenter og 
+annet nødvendig utstyr, 
+samt sammensetningen av 
+disse til det ferdige 
+anlegget skal følges opp av 
+tredjepart for å sikre at 
+anlegget er bygget i 
+henhold til gjeldende 
+regelverk og standarder 
+beskrevet i søknad og 
+tilhørende dokumentasjon. 
+Tredjepart skal ha relevant 
+kompetanse.  
+ 
+Bekreftelse fra 
+tredjepart på at 
+anlegget er 
+bygget i 
+henhold til 
+gitte 
+spesifikasjoner 
+leveres til 
+Fiskeridirektora
+tet.  
+Ikke relevant. 
+Utført 
+TR-30887-
+5539-02 
+Design- og 
+byggeverifik
+asjon 
+ 
+Det samme 
+utstyret ble 
+benyttet i 
+utsett 2 som 
+i utsett 1 
+med unntak 
+av at utstyr 
+på lekter ble 
+flyttet inn i 
+container. 
+Bekreftelse 
+fra 3. part 
+ut over 
+anleggsserti
+fikat var 
+derfor ikke 
+nødvendig. 
+Avtalt med 
+Fiskeridirekt
+oratet. 
+Utført 
+TR-30887-
+6334-1 
+Design- og 
+bygge-
+verifikasjon 
+3.2 Sertifikater og 
+dokumentasjon 
+Leveranse 
+Kunnskapsdeling 
+ 
+ 
+ 
+Leverandørene av 
+hovedkomponenter til 
+Atlantis skal ved 
+ferdigstillelse utstede 
+produktsertifikater og 
+vedlegge 
+produktsertifiseringsbevis 
+på alle komponenter hvor 
+det kreves i henhold til 
+NYTEK-forskiften kapittel 4. 
+ 
+Produktsertifis
+erings-bevis og 
+produktsertifik
+ater leveres i 
+forbindelse 
+med 
+anleggssertifika
+t (Målkriterie 
+5). 
+Ikke relevant. 
+Utført 
+ 
+ 
+Utført 
+ 
+  
+Utført 
+ 
+ 
+Målkriterie 4 Funksjonstesting 
+ 
+ 
+ 
+4.1 Funksjonstesting av 
+merd  
+Leveranse  
+Kunnskapsdeling  
+ 
+ 
+ 
+Før anlegg/en merd tas i 
+bruk med fisk skal 
+funksjonstesting av 
+anlegg/merd uten fisk 
+gjennomføres i henhold til 
+forehåndsdefinert testplan.  
+En testperiode 
+avsluttes med 
+en rapport som 
+inkluderer 
+resultater, 
+forslag til 
+endringer og 
+forbedringer. 
+Rapporten 
+leveres til 
+Fiskeridirektora
+tet. 
+Rapporten skal publiseres 
+av Fiskeridirektoratet og 
+prosjektet på en 
+hensiktsmessig måte. 
+Utført 
+03_ atlantis 
+subsea 
+farming 
+rapport 
+funksjonste
+sting 
+gjerdinga 
+2019.pdf 
+(atlantisfar
+ming.no) 
+Utført 
+06_atlantis 
+subsea 
+farming 
+rapport 
+funksjonste
+sting 
+skrubbholm
+en 2020.pdf 
+(atlantisfar
+ming.no) 
+Utført 
+11_atlantis 
+subsea 
+farming_rap
+port 
+funksjonste
+sting før 
+utsett på 
+otervika.pdf 
+(atlantisfar
+ming.no) 
+Målkriterie 5 Anleggssertifikat 
+ 
+ 
+ 
+5.1 Anleggssertifikat  
+Leveranse 
+Kunnskapsdeling 
+ 
+ 
+ 
+Før anlegget kan benyttes 
+til akvakultur skal det 
+foreligge et 
+anleggssertifikat i henhold 
+til NYTEK-forskriften 
+kapittel 7.  
+Anleggssertifik
+atet skal 
+rapporteres til 
+Fiskeridirektora
+tet via AltInn 
+på kjent måte. 
+Ikke relevant. 
+Rapportert 
+Altinn 
+Rapportert 
+Altinn 
+Rapportert 
+Altinn 
+Sluttrapport Atlantis Subsea Farming  
+ 
+45 
+ 
+ 
+ 
+ 
+ 
+Målkriterie 5 Måleparametere  
+ 
+ 
+ 
+5.1 Måleparametere  
+Leveranse  
+Kunnskapsdeling  
+ 
+ 
+ 
+Prosjektet skal senest 2 
+måneder før all  utsett av 
+fisk i anlegget fremlegge et 
+program for å kunne 
+dokumentere resultater i 
+driftsfasen. Programmet 
+skal beskrive hvilke 
+målinger og parametere 
+som vil inngå og hvordan 
+disse data vil lagres og 
+kunne bearbeides videre.  
+Programmet 
+leveres til 
+Fiskeridirektora
+tet, som skal 
+kunne påvirke 
+og godkjenne 
+programmet.  
+Programmets 
+innholdsfortegnelse skal 
+publiseres av 
+Fiskeridirektoratet og 
+prosjektet på en 
+hensiktsmessig måte.  
+Utarbeidet 
+02_atlantis 
+subsea 
+farming 
+måleprogra
+m gjerdinga 
+2019.pdf 
+(atlantisfar
+ming.no) 
+Utarbeidet 
+12_atlantis 
+subsea 
+farming 
+måleprogra
+m 
+skrubbholm
+en 2020.pdf 
+(atlantisfar
+ming.no) 
+Utarbeidet 
+13_atlantis 
+subsea 
+farming 
+måleprogra
+m otervika 
+2021.pdf 
+(atlantisfar
+ming.no) 
+Målkriterie 6 Produksjonssyklus  
+ 
+ 
+ 
+6.1 Produksjonssyklus  
+Leveranse  
+Kunnskapsdeling  
+ 
+ 
+ 
+Prosjektet skal 
+dokumentere alle 
+produksjonssykluser i 
+anlegget fra utsett til slakt i 
+prosjektperioden. 
+Produksjonen skal 
+dokumenteres i henhold til 
+avtalt måleprogram 
+(Målkriterie 5).  
+Det skal til 
+Fiskeridirektora
+tet leveres 
+halvårlige 
+sammendragsr
+apporter fra 
+produksjonen i 
+henhold til 
+avtalte 
+måleprogram.  
+ 
+ 
+ 
+Sammendragsrapportene 
+skal publiseres av 
+Fiskeridirektoratet og 
+prosjektet på en 
+hensiktsmessig måte.  
+Utarbeidet 
+04_ atlantis 
+subsea 
+farming 
+rapport 
+produksjon 
+gjerdinga 
+2019.pdf 
+(atlantisfar
+ming.no) 
+Utarbeidet 
+07_atlantis 
+subsea 
+farming 
+rapport 
+produksjon 
+skrubbholm
+en 2020.pdf 
+(atlantisfar
+ming.no) og 
+08_atlantis 
+subsea 
+farming 
+rapport 
+produksjon 
+skrubbholm
+en 2020 
+kortversjon.
+pdf 
+(atlantisfar
+ming.no) 
+Utarbeidet, 
+se 
+Rapporter - 
+Atlantisfarm
+ing 
+Målkriterie 7 Sluttrapport  
+ 
+ 
+ 
+7.1 Sluttrapport 
+Leveranse  
+Kunnskapsdeling  
+ 
+ 
+ 
+Prosjektet skal utarbeide en 
+sluttrapport før eventuell 
+søknad om konvertering. 
+Rapporten skal inneholde 
+en evaluering av prosjektet 
+med basis i resultatene fra 
+måleprogrammet samt 
+interne suksesskriterier 
+med tanke på 
+kommersialisering av 
+Atlantis. Erfaringer fra drift 
+som vil føre til endrede 
+prosedyrer eller vesentlige 
+designendringer/modifikasj
+oner etter den definerte 
+prosjektperioden skal 
+inkluderes i sluttrapporten. 
+Rapport og 
+tilhørende 
+sammendrag 
+leveres til 
+Fiskeridirektora
+tet. 
+Sammendraget av 
+rapporten skal publiseres av 
+Fiskeridirektoratet og 
+prosjektet på en 
+hensiktsmessig måte.  
+ 
+ 
+Utarbeidet, 
+se 
+Rapporter - 
+Atlantisfarm
+ing 
+ 
+ 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+46 
+ 
+Vedlegg 2 Oversikt foredrag, artikler og annen kunnskapsspredning 
+Kyst.no er den digitale løsningen som har publisert mest av litt mer omfattende artikler om 
+resultatene fra prosjektet. Ilaks.no og Intrafish.no har også oppslag om Atlantis, men disse er ofte 
+kortere og ikke like informative. I tabellen under oppgir vi derfor artiklene som bidrar mest til 
+kunnskapsspredning på kyst.no.  
+Diverse pressemeldinger og nyheter er underveis i prosjektet publisert på www.atlantisfarming.no 
+Filmer:  
+https://www.youtube.com/watch?v=RMhiWcY6NZA 
+ATLANTIS senket med fisk 24. mai 2019 - YouTube 
+Atlantis ned i dypet, mai 2020 - YouTube 
+https://youtu.be/aM3H9ECTvoU 
+offshore-energy.biz  Subsea World News - 27.05.2019 -  Atlantis Subsea Farming Project Kicks Off 
+Fishfarmingexpert.com - 29.09.2019 - Promising results from Atlantis Subsea cage trials 
+Hi.no - 28.10.2021 - Nedsenket laks får færre lus enn laks i vanlig merd 
+ 
+ 
+Tidskrift/Arena 
+Tid 
+Tema 
+Fish Farmer Magazine 
+26.02.2018 
+Subsea Salmon Farm gets go ahead 
+AKVA News (avis produsert til 
+Aqua Nor) 
+Aug 2019 
+Fish in Atlantis: 
+"A potential game changer for aquaculture" 
+ 
+Kyst.no 
+07.05.2021 
+Tredje Utsett av fisk i Atlantis 
+Kyst.no 
+24.03.2021 
+Resultatene tyder på at fisken har en normal 
+tilvekst og god velferd 
+ 
+Kyst.no 
+16.09.2020 
+Enda større tro på nedsenkbare merder 
+Kyst.no 
+20.02.2020 
+100 000 fisk satt ut i Atlantis-merden 
+Kyst.no 
+26.09.2019 
+Lovende resultater for Atlantis-merden 
+Kyst.no 
+27.05.2019 
+Det er kommet fisk i den nedsenkbare merden 
+Kyst.no 
+05.02.2019 
+Siste fase med testing i Atlantis-prosjektet før 
+utsett av fisk 
+Kyst.no 
+30.07.2018 
+Utviklingskonseptet skal produsere laks 
+gjennom tre generasjoner 
+Fish Farming Technology 
+Jan 2019 
+Good cage systems are essential in order to 
+achieve good production 
+Samling NCE Aquatech Cluster 
+04.09.2019 
+Atlantis Subsea Farming – erfaringer så langt 
+Samling NCE Aquatech/Sjømat 
+Norge Midt 
+05.10.2021 
+Oppdrett i dypet – kunnskap og erfaringer 
+HavExpo Digital 
+26.03.2021 
+Atlantis Subsea Farming - status  
+Webinar Aquabyte 
+27.01.2021 
+Atlantis – overvåking og lusetelling i dypet 
+NTNU _ Eksperter i Team 
+I jan 2020 og 
+2021 
+Atlantis og andre konsepter for «dyp drift» 
+Sluttrapport Atlantis Subsea Farming  
+ 
+47 
+ 
+Aqua Vision 2016 
+15.06.2016 
+Atlantis Subsea Farming - solutions for the 
+future 
+Intrafish.no 
+16.08.2021 
+Har samlet all forskning om nedsenkbare 
+merder – lysere utsikt for torsken enn for 
+laksen 
+Teknisk Ukeblad 
+18.08.2021 
+Nedsenkbare merder kan åpne for mer 
+havbruk 
+AKVA group sin blog Nytt fra 
+AKVA group | atlantis subsea 
+farming  
+07.05.2021 
+19.02.2020 
+m. flere 
+Diverse blogger 
+Norway Exports 
+21.12.2017 
+Atlantis Subsea Farming: Great faith in the 
+project despite rejection 
+Offshore Energy 
+27.05.2019 
+Atlantis Subsea Farming Project Kicks Off 
+GCE Node havbruksseminar  
+02.11.2021 
+Atlantis – erfaringer fra oppdrett I dypet 
+ 
+ 
+Publisert av Havforskningsinstituttet 
+Warren-Myers F., Vågseth, T., Folkedal, O., Stien L.H., Fosse, J.O., Dempster, T., Oppedal, F., 2022. 
+Full production cycle, commercial scale culture of salmon in submerged sea-cages with air domes 
+reduces lice infestation, but creates production and welfare challenges. Aquaculture 548, 737570. 
+https://doi.org/10.1016/j.aquaculture.2021.737570 
+ 
+Oppedal, F., Folkedal, O., Stien, L.H., Vågseth, T., Fosse, J.O., Dempster, T., Warren-Myers, F., 2020. 
+Atlantic salmon cope in submerged cages when given access to an air dome that enables fish to 
+maintain neutral buoyancy. Aquaculture 525. 735286 
+https://doi.org/10.1016/j.aquaculture.2020.735286  
+ 
+Sievers, M., Korsøen, Ø., Warren-Myers, F., Oppedal, F., Macaulay, G., Folkedal, O., Dempster, T., 
+2021. Submerged cage aquaculture of marine fish: a review of the biological challenges and 
+opportunities. Reviews in Aquaculture https://onlinelibrary.wiley.com/doi/10.1111/raq.12587 
+ 
+Annet 
+Hoddevik, B. 2021. Nedsenket laks får færre lus enn laks i vanlig merd. HI nyhet 28.10/ kyst.no 
+Rokkan, A., 2021. Fikk fred for lus på 15 m dyp. Bergens Tidende/ E24, 27. oktober 
+Hommedal, S., 2021. Får penger til å forske på laksevelferd i havbruk til havs. Storsatsning for 
+bærekraftig havbruk til havs. HI-nyhet 02.09 
+Pettersen, V., 2021. Nedsenkede merder kan være fremtiden for oppdrettsfisk. HI-nyhet 11.08/ 
+kyst.no 
+ 
+ 
+ 
+ 
+ 
+ 
+Sluttrapport Atlantis Subsea Farming  
+ 
+48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AKVA group ASA 
+AKVA group tilbyr alt fra enkle komponenter til komplette installasjoner og service for både landbasert og 
+merdbasert oppdrett. God fiskevelferd ligger til grunn for alt vi gjør og vi jobber hardt for å utvikle teknologi 
+som bidrar til god biologisk produksjon. Gjennomprøvde konsepter og sterke merkevarer som Polarcirkel, 
+Wavemaster, Plastsveis, Akvasmart og Fishtalk har gjort AKVA group til en ettertraktet leverandør verden over. 
+Selskapet har i dag cirka 1,700 ansatte og er etablert i 12 land. Egersund Net er et heleid datterselskap av AKVA 
+group. Selskapet startet med produksjon av notposer tidlig på 1970-tallet og ble skilt ut som eget selskap i 
+1996. Siden har Egersund Net utviklet seg til å bli blant Europas ledende leverandører av notposer og 
+servicetjenester til havbruksnæringen. 
+ 
+SinkabergHansen AS 
+SinkabergHansen AS er et oppdrettsselskap lokalisert på Helgeland-og Namdalskysten med hovedkontor og 
+produksjonsanlegg på Marøya i Nærøysund kommune. Selskapets strategi er å gjennomføre en kontrollert 
+vekst i hele verdikjeden – fra smolt til ferdig bearbeidet produkt – og selge til kvalitetsbevisste forbrukere. Det 
+gir muligheten til å beholde og etablere nye solide arbeidsplasser med god økonomisk inntjening for selskapet. 
+ 
+ 
+Sluttrapport Atlantis Subsea Farming 
+19.11.2021 
+Utarbeidet av Trude Olafsen med flere.

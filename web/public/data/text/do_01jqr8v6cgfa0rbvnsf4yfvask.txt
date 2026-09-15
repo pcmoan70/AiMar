@@ -1,0 +1,981 @@
+﻿SINTEF Ocean AS 
+ 
+2021-04-28 
+OC2021 F-042 - Fortrolig 
+ 
+ 
+Rapport 
+Strømningsanalyse Gigante Salmon 
+ 
+  
+ 
+Forfatter(e) 
+Anders Östman   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 1 av 32 
+ 
+SINTEF Ocean AS 
+Postadresse: 
+Postboks 4762 Torgarden 
+7465 Trondheim 
+Sentralbord: 46415000 
+ 
+ 
+Foretaksregister: 
+NO 937 357 370 MVA 
+ 
+Rapport 
+ 
+Strømningsanalyse Gigante Salmon 
+  
+ 
+ 
+ 
+ 
+RAPPORTNR 
+OC2021 F-042 
+PROSJEKTNR 
+302005288 
+VERSJON 
+2.0 
+DATO 
+2021-05-03 
+EMNEORD:  
+Oppdrett 
+Raceway 
+CFD 
+FORFATTER(E) 
+Anders Östman  
+  
+ 
+OPPDRAGSGIVER(E) 
+Gigante Havbruk AS 
+OPPDRAGSGIVERS REF. 
+Kjell Lorentsen 
+ANTALL SIDER OG VEDLEGG: 
+32 + vedlegg 
+GRADERING 
+Fortrolig 
+GRADERING DENNE SIDE 
+Fortrolig 
+ISBN 
+  
+SAMMENDRAG 
+  
+Denne rapport presenterer resultater fra strømmingsanalyse av strømningsforhold i 
+Gigante Salmon raceway for produksjon av laks. Strømningen sirkulerer i raceway, 
+drevet av 2 strømsetterte av propellertype. Rapporten presenter resultater for 
+vannhastighet i vertikale og horisontale tverrsnitt, stilinjer for fôrpellets og feces, 
+stilinjer fra innløp og fordeling av oppholdstid for innløpsvann.    
+ 
+Resultater er presentert for analyse med tre ulike volumstrøm gjennom strømsetterne, 
+100, 300 og 500 m3/min. 
+ 
+Vann som passerer propellene gis en tangentiell hastighetskomponent som resulterer i 
+rotasjon på vann bak strømsetterne. Men etter ca halve lengden på raceway har disse 
+tangentielle hastigheter til stor del død ut. Strømningen er da forholdsvis uniform. 
+ 
+For simulering med 100 m3/min gjennom strømsetterne er hastighet i områdene med 
+uniform hastighet ca 0.2 m/s. For simulering med 300 m3/min gjennom strømsetterne 
+er hastighet ca 0.6 m/s, og for simulering med 500 m3/min gjennom strømsetterne er 
+hastighet ca 0.7 m/s.  
+UTARBEIDET AV 
+Anders Östman 
+KONTROLLERT AV 
+Pascal Klebert 
+GODKJENT AV 
+Merete Bjørgan Schrøder 
+Dokumentet har gjennomgått SINTEFs godkjenningsprosedyre og er sikret digitalt
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 2 av 32 
+ 
+Historikk 
+VERSJON 
+DATO 
+VERSJONSBESKRIVELSE 
+1.0 
+2021-04-28 
+Første versjon 
+2.0 
+2021-05-03 
+Illustrasjon av tidligere design med kanaler langs langsidene for  
+transport av vann fjernet fra rapporten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 3 av 32 
+ 
+Innholdsfortegnelse 
+ 
+1 
+Innledning .............................................................................................................................. 4 
+2 
+Geometri ................................................................................................................................ 4 
+3 
+Modellering ............................................................................................................................ 6 
+3.1 
+Strømningsmodell .................................................................................................................. 6 
+3.2 
+Grensebetingelser .................................................................................................................. 6 
+3.3 
+Strømsettere .......................................................................................................................... 6 
+3.4 
+Beregningsgrid ....................................................................................................................... 7 
+3.5 
+Snitt for presentasjon av resultater ....................................................................................... 9 
+4 
+Resultat................................................................................................................................ 11 
+4.1.1 
+Volumstrøm gjennom strømsettere: 100 m3/min, innløp volumstrøm: 110 
+m3/min .................................................................................................................... 11 
+4.1.2 
+Volumstrøm gjennom strømsettere: 300 m3/min, innløp volumstrøm: 220 
+m3/min .................................................................................................................... 18 
+4.1.3 
+Volumstrøm gjennom strømsettere: 500 m3/min, innløp volumstrøm: 110 
+m3/min .................................................................................................................... 25 
+5 
+Konklusjoner ........................................................................................................................ 32 
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 4 av 32 
+ 
+1 Innledning 
+Denne rapport presenterer resultater fra strømmingsanalyse av strømningsforhold i Gigante Salmon 
+raceway for produksjon av laks. Analysen er gjort på oppdrag av Gigante Havbruk AS med Kjell 
+Lorentsen som kontaktperson. Strømningsanalysen er utført med bruk av CFD (Computational Fluid 
+Dynamics) programvare. 
+2 Geometri 
+ 
+Analyser er utført for flere versjoner av kargeometri og plassering av strømsettere. Denne hovedrapport 
+presentere resultat for siste design. Geometri er vist i Figur 1. Vanndybde for denne versjonen av design er 
+5 m. Strømningen sirkulerer rundt midtdeler og drives av 2 propellere. Innløp og utløp er plassert på 
+motsatt side av samme kortside. 
+ 
+ 
+ 
+ 
+Figur 1 Illustrasjon av geometri 
+ 
+Resultat for et flertall ulike kondisjoner er present til kunde fortløpende. I Tabell 1 er en sammenstilling 
+alle case som er simulert for design av type vist i Figur 1. I denne rapport er kun resultater for case 3a-c 
+presentert. Øvrige case er tidligere presentert i foreløpige rapporter og PowerPoint presentasjoner og sendt 
+til kunde. 
+ 
+ I tillegg er i løpet prosjektet en vesentlig modifisert design analysert. I denne design blir vann transportert 
+gjennom kanaler langs langsidene til innløpskortside hvor vannet i kanalene blir mikset med ferskt 
+innløpsvann. Resultater fra denne design er ikke presenter i denne rapport. Resultater fra denne design er 
+tidligere (april 2020) sammenstilt i en draft rapport og sendt til kunde.   
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 5 av 32 
+ 
+Tabell 1 Sammenstilling av beregnede kondisjoner 
+Case 
+1a 
+1b 
+2a 
+2b 
+3a 
+3b 
+3c 
+Vanndyp [m] 
+7.5 
+7.5 
+5 
+5 
+5 
+5 
+5 
+Antall 
+strømsettere 
+ 
+4 
+ 
+4 
+ 
+4 
+ 
+4 
+ 
+2 
+ 
+2 
+ 
+2 
+Volumstrøm 
+gjennom 
+strømsettere 
+[m3/min] 
+ 
+100 
+ 
+500 
+ 
+100 
+ 
+500 
+ 
+100 
+ 
+300 
+ 
+500 
+Volumstrøm 
+innløp 
+[m3/min] 
+ 
+110 
+ 
+110 
+ 
+110 
+ 
+110 
+ 
+110 
+ 
+220 
+ 
+110 
+Turtall 
+propeller 
+[rpm] 
+ 
+11.5 
+ 
+70 
+ 
+10 
+ 
+70 
+ 
+10 
+ 
+41 
+ 
+70 
+Resultat i 
+denne 
+rapport 
+ 
+Nei 
+ 
+Nei 
+ 
+Nei 
+ 
+Nei 
+ 
+Ja 
+ 
+Ja 
+ 
+Ja 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 6 av 32 
+ 
+3 Modellering 
+3.1 Strømningsmodell 
+Strømning i systemet er simulert numerisk. Strømningsliggingene løses med bruk av STAR-CCM+ CFD 
+programvare (https://mdx.plm.automation.siemens.com/star-ccm-plus). Tetthet på vann er satt til 
+1032kg/m3. Turbulens er modellert med bruk av Reynolds Stress turbulensmodell.   
+3.2 Grensebetingelser 
+Simuleringer er utfør for to ulike grensebetingelser på volumstrøm fra innløpsrør. For simuleringer med 
+100m3/min og 500m3/min volumstrøm gjennom strømsettere er innløpsvolumstrøm satt til 110m3/min, 
+hvilket resulterer i 3.65 m/s innløpshastighet.  For simuleringer med 300m3/min volumstrøm gjennom 
+strømsettere er innløpsvolumstrøm satt til 220m3/min, hvilket resulterer i 7.29m/s innløpshastighet.   
+ 
+Utløp er modellert med konstant trykk grensebetingelse.   
+ 
+Vannoverflate er modellert som en friksjonsfri, fiks, overflate. Det betyr at bølger på overflaten neglisjeres. 
+På sidevegger benyttes veggbetingelse med hastighet null på veggoverflaten.    
+ 
+3.3 Strømsettere 
+ITT Flygt bananbladsomrörare er brukt som strømsettere for systemet, se Figur 2 . Propelldiameter er 
+2500mm. Propellene er i CFD simuleringen modellert som er virtuell disk som akselerer strømning 
+gjennom propellplanet. Inputdata til den virtuelle disken er friprøvediagram som beskriver aksiell kraft og 
+moment som funksjon av rotasjonshastighet for propeller og uforstyrret vannhastighet oppstrøms propeller.  
+Friprøvedata for propellen er estimert med bruk av Excelark utviklet hos MARINTEK som estimerer 
+koeffisienter for propulsjonskraft og moment basert på B-series type propellere. Input til Excelarket er 
+antall blader (Z), pitchforhold(P/D) og bladarea (BAR). Observasjon av tilgjengelige bilder indikerer stor 
+pitch på propellblad, P/D er derfor valgt til P/D=1.4, som er det største mulige valget for B-series type 
+propeller. I tillegg er bladarea valgt lavest mulig (BAR=0.3). Antall blad er Z=2. Friprøvediagram for disse 
+valg er vist i Figur 3.  
+ 
+Simuleringer er gjennomført med variasjon av turtall for propeller. Turtallet er justert inntil en gitt verdi for 
+volumstrøm gjennom propellplan er oppnådd.   
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 7 av 32 
+ 
+ 
+ 
+ 
+ 
+Figur 2 ITT Flygt bananbladsomrörare  
+ 
+ 
+Figur 3 Estimert friprøvediagram  
+ 
+ 
+   
+ 
+3.4 Beregningsgrid 
+Strømningsdomenet er diskretisert i et beregningsgrid bygget opp av trimmede rektangulære gridceller. 
+Områder hvor store gradienter i strømningen forventes er bygget opp av forfinede gridceller. Dette gjeller 
+f.eks. området hvor jetstrålene fra inntaksdysene går inn i og mikses med vann i oppdrettssystemet, og ved 
+posisjon for strømsettere. I tillegg er området langs veggene forfinet for å modellere gradienter i 
+grensesjiktet. Totalt antall beregningsceller er ca 3.7 millioner.     
+ 
+ 
+ 
+ 
+Figur 4 Beregningsgrid på vegger og for z-snitt 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 8 av 32 
+ 
+ 
+ 
+Figur 5 Beregningsgrid ved innløp/utløpkortside. Gridet er forfinet i lokasjon for strømsettere. 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 9 av 32 
+ 
+3.5 Snitt for presentasjon av resultater 
+ 
+Hastighetsfordeling i karet er tatt ut i vertikale og horisontale snitt. Posisjon for disse snitt er visualisert i 
+Figur 6 - Figur 8. 
+ 
+ 
+ 
+Figur 6 Posisjon for x-snitt 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 10 av 32 
+ 
+Figur 7 Posisjon for y-snitt 
+ 
+ 
+ 
+Figur 8 Posisjon for z-snitt 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 11 av 32 
+ 
+4 Resultat 
+Resultat fra simuleringene er presentert for hastighetsfordeling i snitt presenter i seksjon 3.5, 
+partikkelbevegelse (fôrpellets og feces) og strømlinjer og oppholdstid for vann fra innløp.. 
+ 
+4.1.1 Volumstrøm gjennom strømsettere: 100 m3/min, innløp volumstrøm: 110 m3/min  
+Denne seksjon presenterer resultater fra simulering med er 100m3/min volumstrøm gjennom propellplan. 
+Turtall på propell for denne volumstrøm er 10 rpm. Volumstrøm fra innløp er 110 m3/min  
+ 
+Hastighetsfordeling 
+Beregnet hastighetsfordeling er presentert i Figur 9 - Figur 11.  Vi kan se akselerasjon av vannhastighet når 
+vannet går gjennom strømsetterne. Vi kan og se separert strømning på kortenderne av midtdeleren. I Figur 
+10 ser vi effekt av rotasjon på propeller, som resulterer i roterende strømning nedstrøms propellene. 
+Strømningsforhold i nedre halvdel av karet i strømningsretting er forholdsvis uniform med kun små 
+vertikale hastighetsvariasjoner (mindre enn 0.025 m/s).  Horisontalhastighet er i dette område ca 0.2 m/s.  
+ 
+ 
+ 
+ 
+Figur 9 Horisontal vannhastighet i z-snitt 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 12 av 32 
+ 
+ 
+ 
+ 
+Figur 10 Vertikal vannhastighet i x-snitt 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 13 av 32 
+ 
+ 
+ 
+Figur 11 Vertikal vannhastighet i y-snitt 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 14 av 32 
+ 
+Partikkelbevegelse fôrpellets 
+ 
+Figur 12 viser partikkelbevegelse for fôrpellets. Partiklene slippes tvers karets ene halvbredde i posisjon 
+x=38.4m (for -14.5m < y < -8m) og x=81.4m (for -7m < y < -0.5m). Se Figur 1 for definisjon av 
+koordinatsystem.    
+ 
+Figur 12 Fôrpellets partikkelbevegelse 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 15 av 32 
+ 
+Partikkelbevegelse feces 
+ 
+Figur 13 viser partikkelbevegelse for feces. Partiklene slippes i 4 x-posisjoner (x=24, 48, 72 og 96). For 
+disse x-posisjoner slippes de på begge sider av midtdeler i senter av hver kanal (y=-11.25m og y=-3.75m). 
+I tillegg slippes partiklene på 3 dybder (z=1.125m, 2.5m og 3.75m). Se Figur 1 for definisjon av 
+koordinatsystem.    
+ 
+For de letteste partiklene tar det lang tid før de siste partikler når bunn. Alle partikler har nådd bunn etter ca 
+20 min (1200 sek). De har da sirkulert flere runder rundt raceway. Oppadgående vannhastighet 
+propellstrålen gir "løft" til partiklene. De tyngre feces partiklene synker betydelig raskere.  
+ 
+ 
+Figur 13 Feces partikkelbevegelse 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 16 av 32 
+ 
+Strømlinjer fra innløp 
+ 
+Figur 14 viser strømlinjer og oppholdstid for vannpartikler som slippes fra innløp.    
+ 
+ 
+Figur 14 Strømlinjer og oppholdstid for vannpartikler fra innløp. Illustrasjoner er tatt ut for tre 
+ulike makstider for å gi bedre forståelse av strømningen i karet. 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 17 av 32 
+ 
+Fordeling av oppholdstid  
+ 
+Figur 15 viser histogram med fordeling av oppholdstid for vannpartikler fra innløp. 
+ 
+ 
+ 
+Figur 15 Fordeling av oppholdstid for vannpartikler fra innløp. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 18 av 32 
+ 
+4.1.2 Volumstrøm gjennom strømsettere: 300 m3/min, innløp volumstrøm: 220 m3/min  
+ 
+Ønsket volumstrøm gjennom strømsetterne er 300 m3/min. Turtall på propell er da 41 rpm. Volumstrøm fra 
+innløp er 220 m3/min.  
+ 
+ 
+Hastighetsfordeling 
+Beregnet hastighetsfordeling fra simulering for er presentert i Figur 16 - Figur 18. Resultatene er lignende 
+som for simuleringen med 300 m3/min gjennom strømsetterne (Seksjon 4.1.1), men med høyere 
+vannhastighet:   
+ 
+Vannet akselererer når det går gjennom strømsetterne 
+ 
+Separert strømning ved kortenderne av midtdeleren 
+ 
+Roterende strømning nedstrøms propellene 
+ 
+Forholdsvis uniform strømning med kun små vertikale hastighetsvariasjoner nedre halvdel av karet 
+ 
+Horisontalhastighet i halvdel av karet med uniform strømning er ca 0.6 m/s 
+ 
+ 
+ 
+ 
+ 
+Figur 16 Horisontal vannhastighet i z-snitt 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 19 av 32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 17 Vertikal vannhastighet i x-snitt 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 20 av 32 
+ 
+ 
+ 
+ 
+Figur 18 Vertikal vannhastighet i y-snitt 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 21 av 32 
+ 
+Partikkelbevegelse fôrpellets 
+ 
+Figur 19 viser partikkelbevegelse for fôrpellets. Partiklene slippes tvers karets ene halvbredde i posisjon 
+x=38.4m (for -14.5m < y < -8m) og x=81.4m (for -7m < y < -0.5m). Se Figur 1 for definisjon av 
+koordinatsystem.    
+ 
+Figur 19 Fôrpellets partikkelbevegelse 
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 22 av 32 
+ 
+Partikkelbevegelse feces 
+ 
+Figur 20 viser partikkelbevegelse for feces. Partiklene slippes i 4 x-posisjoner (x=24, 48, 72 og 96). For 
+disse x-posisjoner slippes de på begge sider av midtdeler i senter av hver kanal (y=-11.25m og y=-3.75m). 
+I tillegg slippes partiklene på 3 dybder (z=1.125m, 2.5m og 3.75m). Se Figur 1 for definisjon av 
+koordinatsystem.    
+ 
+For de letteste partiklene tar det lang tid før de siste partikler når bunn. Alle partikler har nådd bunn etter ca 
+30 min (1800 sek). 
+ 
+ 
+ 
+ 
+Figur 20 Feces partikkelbevegelse 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 23 av 32 
+ 
+ 
+Strømlinjer fra innløp 
+ 
+Figur 21 viser strømlinjer og oppholdstid for vannpartikler som slippes fra innløp. For å bedre illustrere 
+oppholdstid vann som sirkulerer i raceway er figurer tatt ut for tre ulike makstider (600s, 1800s og 2400s). 
+Fra strømlinjene kan to store stor områder med resirkulasjon observeres etter at vannet passert kortende på 
+midtdeleren.  
+ 
+ 
+ 
+Figur 21 Strømlinjer og oppholdstid for vannpartikler fra innløp. Illustrasjoner er tatt ut for tre 
+ulike makstider for å gi bedre forståelse av strømningen i karet. 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 24 av 32 
+ 
+Fordeling av oppholdstid  
+ 
+Figur 22 viser histogram med fordeling av oppholdstid for vannpartikler fra innløp til utløp. 
+ 
+ 
+ 
+Figur 22 Fordeling av oppholdstid for vannpartikler fra innløp. 
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 25 av 32 
+ 
+ 
+4.1.3 Volumstrøm gjennom strømsettere: 500 m3/min, innløp volumstrøm: 110 m3/min  
+Denne seksjon presenterer resultater fra simulering med er 500m3/min volumstrøm gjennom propellplan. 
+Turtall på propell for denne volumstrøm er 70 rpm. Volumstrøm fra innløp er 110 m3/min  
+ 
+ 
+Hastighetsfordeling 
+Beregnet hastighetsfordeling er presentert i Figur 23 - Figur 25. Resultatene er lignende som for 
+simuleringene med 100 og 300 m3/min gjennom strømsetterne (Seksjon 4.1.1 og 4.1.2): 
+ 
+Vannet akselererer når det går gjennom strømsetterne 
+ 
+Separert strømning ved kortenderne av midtdeleren 
+ 
+Roterende strømning nedstrøms propellene 
+ 
+Forholdsvis uniform strømning med kun små vertikale hastighetsvariasjoner nedre halvdel av karet 
+ 
+Horisontalhastighet i halvdel av karet med uniform strømning er ca 0.7 m/s 
+ 
+ 
+ 
+ 
+Figur 23 Horisontal vannhastighet i z-snitt 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 26 av 32 
+ 
+ 
+ 
+Figur 24 Vertikal vannhastighet i x-snitt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 27 av 32 
+ 
+Figur 25 Vertikal vannhastighet i y-snitt 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 28 av 32 
+ 
+Partikkelbevegelse fôrpellets 
+ 
+Figur 26 viser partikkelbevegelse for fôrpellets. Partiklene slippes tvers karets ene halvbredde i posisjon 
+x=38.4m (for -14.5m < y < -8m) og x=81.4m (for -7m < y < -0.5m). Se Figur 1 for definisjon av 
+koordinatsystem.    
+ 
+Figur 26 Fôrpellets partikkelbevegelse 
+ 
+ 
+ 
+Partikkelbevegelse feces 
+ 
+Figur 27 viser partikkelbevegelse for feces. Partiklene slippes i 4 x-posisjoner (x=24, 48, 72 og 96). For 
+disse x-posisjoner slippes de på begge sider av midtdeler i senter av hver kanal (y=-11.25m og y=-3.75m). 
+I tillegg slippes partiklene på 3 dybder (z=1.125m, 2.5m og 3.75m). Se Figur 1 for definisjon av 
+koordinatsystem.    
+ 
+For de letteste partiklene tar det lang tid før de siste partikler når bunn, men etter 45 min (2700 sek) er det 
+kun noen få partikler som ikke nådd bunn.  
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 29 av 32 
+ 
+Figur 27 Feces partikkelbevegelse 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 30 av 32 
+ 
+Strømlinjer fra innløp 
+ 
+Figur 28 viser strømlinjer og oppholdstid for vannpartikler som slippes fra innløp. Oppeholdtid er illustrert 
+for tre valg av skala på tid (0-600 sek, 0-1800 sek og 0-2400 sek). 
+ 
+ 
+Figur 28 Strømlinjer og oppholdstid for vannpartikler fra innløp. Illustrasjoner er tatt ut for tre 
+ulike makstider for å gi bedre forståelse av strømningen i karet. 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 31 av 32 
+ 
+Fordeling av oppholdstid  
+ 
+Figur 29 viser histogram med fordeling av oppholdstid for vannpartikler fra innløp.  
+ 
+ 
+ 
+Figur 29 Fordeling av oppholdstid for vannpartikler fra innløp. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROSJEKTNR 
+302005288 
+RAPPORTNR 
+OC2021 F-042 
+VERSJON 
+2.0 
+Side 32 av 32 
+ 
+5 Konklusjoner 
+ 
+Som beskrevet i Tabell 1er et stort antall kondisjoner analysert. Denne rapport fokuser på de mest lovende 
+kondisjonene, case 3a-c.  Disse er sammenstilt i Tabell 2 som vist under.  
+ 
+Tabell 2 Sammenstilling av presenterte kondisjoner 
+ 
+Case 
+Volumstrøm 
+gjennom 
+strømsettere 
+Volumstrøm 
+innløp [m3/min] 
+Turtall propeller 
+Presentasjon 
+av resultater 
+3a 
+100 m3/min 
+110 m3/min 
+10 rpm 
+Seksjon 4.1.1 
+3b 
+300 m3/min 
+220 m3/min 
+41 rpm 
+Seksjon 4.1.2 
+3c 
+500 m3/min 
+110 m3/min 
+70 rpm 
+Seksjon 4.1.3 
+ 
+Vann som passerer propellene gis en tangentiell hastighetskomponent som resulterer i rotasjon på vann bak 
+strømsetterne. Men etter ca halve lengden på karet har disse tangentielle hastigheter til stor del død ut. 
+Strømningen er da forholdsvis uniform. Uniform hastighet gjør at feces partikler raskere synker til bunn av 
+kar.  
+ 
+Vannhastighet i halvdel av karet med uniform strømning øker med økende volumstrøm gjennom 
+strømsetterne. For simulering med 100 m3/min gjennom strømsetterne er hastighet i områdene med 
+uniform hastighet ca 0.2 m/s. For simulering med 300 m3/min gjennom strømsetterne er hastighet ca 0.6 
+m/s, og for simulering med 500 m3/min gjennom strømsetterne er hastighet ca 0.7 m/s. Noe overaskede er 
+det kun ca 0.1 m/s forskjell mellom simulering med 300 og 500 m3/min volumstrøm. En årsak kan være at 
+innløpsvolumstrøm er doblet for kondisjon med 300 m3/min gjennom strømmsetterne, fra 110 m3/min til 
+220 m3/min, dette øker samtidig vannhastighet i karet.   
+ 
+Sammenlikning av partikkelbane av feces og fôrpellets viser små forskjeller mellom kondisjon med 300 og 
+500 m3/min volumstrøm gjennom strømsetterne.  For kondisjon med 500 m3/min volumstrøm synker feces 
+til bunn vesentlig raskere. Fôrpellets får og en mer vertikal bane. 
+ 
+En usikkerhet er hvor stor rotasjon propellene faktisk genererer. Vi har ikke spesifikk data på 
+propellkarakteristikk for strømsetterne, vi har isteden brukt estimat basert på B-series propeller. Det er 
+mulig å redusere denne usikkerhet ved å simulere den faktiske roterende geometrien på propellen i en CFD 
+analyse. Data fra disse simuleringer kan brukes for å tune den forenklede modellen av propellene som er 
+brukt i den analyse som er presentert i denne rapport. Data fra eksperiment med den faktiske propellerer 
+kan også brukes for å tune modellen.

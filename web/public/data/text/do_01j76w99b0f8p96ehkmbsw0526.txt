@@ -1,0 +1,2621 @@
+﻿Report 11/2024  • Published April 2024 
+Welfare and health documentation for 
+the Andfjord Salmon farming concept 
+production cycle 2022/2023 – final report 
+ 
+Chris Noble, René Alvestad, Jelena Kolarevic, David Izquierdo-Gomez, Khurram Shahzad, Britt Kristin 
+Megård, Gunhild Seljehaug Johansson and Elisabeth Ytteborg 
+Illustration: Nofima 
+ 
+ 
+ 
+Contact information 
+Telephone: +47 77 62 90 00 
+post@nofima.no 
+www.nofima.no 
+NO 989 278 835 VAT 
+ 
+ 
+ 
+Main office in Tromsø 
+Muninbakken 9–13 
+Box 6122 
+NO-9291 Tromsø 
+ 
+ 
+Stavanger 
+Måltidets hus 
+Richard Johnsensgate 4 
+Box 8034 
+NO-4068 Stavanger 
+ 
+Sunndalsøra 
+Sjølsengvegen 22 
+NO-6600 Sunndalsøra 
+ 
+Ås 
+Osloveien 1 
+Box 210 
+NO-1433 ÅS 
+ 
+Bergen 
+Kjerreidviken 16 
+Box 1425 Oasen 
+NO-5844 Bergen 
+ 
+ 
+Nofima is a leading institute for applied research within the 
+fields of fisheries, aquaculture, and food research. We supply 
+internationally renowned research solutions that provide 
+competitive advantages along the complete chain of value. 
+ 
+«Sustainable food for all» is our vision. 
+ 
+ 
+Report  
+Report number: 
+11/2024 
+ISBN: 
+978-82-8296-781-5 
+ISSN: 
+1890-579X 
+Date: 
+08 April 2024 
+Number of pages: 
+71 
+Project number: 
+12987 
+Title: 
+Welfare and health documentation for the Andfjord Salmon farming concept production cycle 
+2022/2023– final report  
+Tittel: 
+Velferds- og helsedokumentasjon for oppdrettskonseptet Andfjord - sluttrapport 
+Author(s): 
+Chris Noble*, René Alvestad*, Jelena Kolarevic*^ David Izquierdo-Gomez, Khurram Shahzad, Britt Kristin 
+Megård, Gunhild Seljehaug Johansson and Elisabeth Ytteborg 
+ 
+* Joint first authors 
+^ Nofima/UiT 
+Department: 
+Nofima: Production Biology; AquaLab; Fish health; Research station Sunndalsøra 
+Client: 
+Andfjord Salmon AS 
+Keywords: 
+Welfare; Health; Documentation 
+Summary/Recommendation: 
+See chapter 1. 
+Sammendrag på norsk: 
+Se kapittel 1. 
+ 
+ 
+Table of contents 
+1 
+Summary 
+1 
+2 
+Brief background 
+4 
+3 
+Aims and objectives 
+5 
+4 
+Materials and methods 
+6 
+4.1 
+Location 
+6 
+4.2 
+Project plan 
+6 
+4.3 
+Fish stocking and history 
+7 
+4.4 
+Characteristics of the rearing system 
+7 
+4.5 
+Feeding system and regime 
+9 
+4.6 
+Lighting system and regime 
+11 
+4.7 
+Pool cleaning and other husbandry routines 
+11 
+4.8 
+Fish welfare documentation 
+11 
+4.9 
+Fish welfare documentation: input-based water velocity and water quality OWIs 
+12 
+4.9.1 
+Vertical and horizontal profiling of water velocity and water quality in the system 
+12 
+4.9.2 
+Real-time monitoring of water quality in the system 
+14 
+4.9.3 
+Control measurements of water quality 
+15 
+4.10 
+Fish welfare documentation – group and individual outcome based OWIs 
+15 
+4.10.1 
+Group level Outcome based OWIs 
+15 
+4.10.2 
+Individual level Outcome based OWIs 
+17 
+4.11 
+Fish health documentation – health-based LABWIs 
+17 
+4.12 
+Production performance monitoring 
+17 
+4.13 
+Auditing slaughter quality 
+18 
+4.14 
+Data management, auditing and analysis 
+18 
+5 
+Results 
+19 
+5.1 
+Fish welfare documentation: input-based water velocity and water quality OWIs 
+19 
+5.1.1 
+Water velocity profiling 
+19 
+5.1.2 
+Dissolved oxygen profiling 
+22 
+5.1.3 
+Water temperature profiling 
+23 
+5.1.4 
+pH profiling 
+24 
+5.1.5 
+Salinity and conductivity profiling 
+24 
+5.1.6 
+Turbidity profiling 
+25 
+5.1.7 
+Real-time monitoring of water quality in the system and control measurements 
+26 
+5.2 
+Fish welfare documentation – group and individual outcome based OWIs 
+34 
+5.2.1 
+Group level Outcome based OWIs 
+34 
+5.2.2 
+Individual level Outcome based OWIs 
+43 
+5.3 
+Fish health monitoring 
+47 
+5.3.1 
+Skin histology 
+47 
+5.3.2 
+Gill health 
+51 
+5.3.3 
+Nephrocalcinosis 
+51 
+5.3.4 
+Pathogen screening 
+53 
+ 
+ 
+5.4 
+Production performance monitoring and lice pressure 
+54 
+5.4.1 
+Slaughter quality 
+55 
+6 
+Discussion 
+57 
+6.1 
+Fish welfare documentation 
+57 
+6.1.1 
+Input-based water velocity and water quality OWIs 
+57 
+6.1.2 
+Group level Outcome based OWIs 
+60 
+6.1.3 
+Individual level Outcome based OWIs 
+62 
+6.2 
+Fish health monitoring 
+63 
+6.3 
+Production performance monitoring 
+64 
+7 
+Concluding remarks 
+66 
+8 
+References 
+68 
+ 
+ 
+ 
+1 
+ 
+1 Summary 
+English summary 
+The aquaculture production of Atlantic salmon in Norway is diversifying and many different production 
+systems, both at sea and on-land are currently being tested and evaluated. One of these systems is the 
+new flow through laminar flow production pool developed by Andfjord Salmon AS. The system supplies 
+a continuous flow of 100% seawater to the salmon, pumped from a depth of 45 m.  20 000 m3 of seawater 
+are pumped into the pool per hour, ca. 333 m3/minute and estimated water exchange in the pool is 15-
+17 times per 24-hour period. The rearing pool is 42 m long x 40 m wide with a mean water depth of ca. 
+17.5 m. Water volume is ca. 29 400 ± 1500 m3. The production pool utilises laminar water flow via a 
+pressure drop wall at the entrance to the pool. This leads to a turbulence free water flow through the 
+pool and sediment falls to the pool substrate. Production in the pool started when the fish were stocked 
+in the system on the 25th June 2022 and ended at slaughter between 29th June and 17th July 2023. 
+Andfjord Salmon applied a very comprehensive welfare and health documentation plan for the first 
+production cycle. This final report documents aspects of the welfare and health of the fish for the entire 
+production cycle until slaughter, using a suite of input and outcome-based welfare indicators, in addition 
+to a number of additional health indicators. 
+ 
+A wide range of environmental OWIs and LABWIs documented mostly uniform high levels of key water 
+quality parameters such as oxygen throughout the pool. Water current speeds, whilst low, did not 
+manifest in poor water quality and may have been increased by the presence of fish in the system. Minor 
+differences in measured water quality parameters were found at different locations in the system but 
+should not have consequence for fish welfare and should allow for uniform distribution of fish in the 
+system. As water is drawn from depth before being pumped into the system, the water temperature was 
+somewhat more stable than what would be expected at corresponding depths in open cages and 
+followed seasonal patterns in ambient water temperature. Although oxygen was added to the inlet water, 
+an effect of water temperature and increased biomass on dissolved oxygen saturation was observed 
+during most intensive parts of the production. The low natural water temperatures the fish were 
+subjected to over the autumn through spring did not manifest in any welfare or performance risks, or 
+risks for e.g., winter ulcers.  
+Mortalities, excluding the sampling of fish without signs of disease were very low in the rearing system 
+(ca. 2.5% for the entire documentation period) and any minor mortality events were closely monitored 
+and remedial actions, where possible to identify and apply, were taken. Appetite was generally good 
+throughout the production cycle and growth performance and condition factor were also good. Fish 
+adapted to the rearing system and generally utilised the pool in a uniform manner. No fleeing/panic 
+behaviours were observed at observation times around high and low water, and where potential fish 
+sensitivity to ROV lighting in late October 2022 led to short-term panic in some fish and a short-term 
+increase in associated mortalities, remedial action was taken to ensure this was short-lived and 
+corrected for.  
+The injury status of fish in the system was closely monitored during monthly manual audits of either i) 
+100 fish (until 12th December 2022) or ii) 30 fish (numbers of sampled fish were reduced due to low 
+winter temperatures from 26th January 2023 until 21st June 2023). The injury status of fish in relation to 
+the Laksvel Operational Welfare Indicator (OWI) scoring system (Nilsson et al., 2022) has generally 
+been good and the majority of injury based OWIs were scored as absent or mild for most of the 
+production cycle. When OWI levels increased, this was noted and causes investigated. After smolt 
+transfer several fish were sampled with poorer condition (emaciation state) and scale loss (<20% of fish 
+sampled), but this injury status improved 90 days after stocking. Fish Health Services took circa monthly 
+samples (minimum 10 fish per sample) from the heart, kidney, gill, skin, liver, spleen, pseudo branch, 
+ 
+2 
+ 
+pancreas, pyloric caeca and skeletal muscle (full organ pack, routine assessment) for histological 
+examination to evaluate the integrity and quality of these organs. Skin samples were also taken for 
+histological evaluation by Nofima. Histological evaluation of gill health and kidney status from the full 
+organ pack assessment was considered to have high clinical importance and is summarized here with 
+kind permission from Fish Health Services and Andfjord Salmon AS. Heart status is summarized based 
+upon PCR data. Gill health was generally good at all timepoints, except for an increase in infectious 
+pathogens that were the main cause of pathological findings from T6 to slaughter. Whereas skin got a 
+higher score (more damaged) from the hatchery phase up until 60 days post-transfer to the pool. This 
+skin health histology score was often higher than what was expected based upon the OWI scoring. 
+However, it is not clear if this was due to reduced skin quality per se, poor sample quality, or to 
+challenges and limitations with the sampling procedures. Histological findings in the skin were 
+comparable to the welfare score at the start of the documentation period and included superficial 
+damages such as lost epidermis and scale loss over the same time points, in the majority of analysed 
+individuals. Based on these findings, skin morphology and skin health were followed more closely for 
+the remainder of the production cycle. Fish developed Nephrocalcinosis in the hatchery phase before 
+transfer to the Andfjord pool and we see the artefacts of this after their transfer to seawater. With regard 
+to PCR based pathogen screening, between 80-100% of sampled fish from T0-T11 were categorized 
+with suspected heart- and skeletal muscle inflammation (HSMI), with positive results for Piscine 
+orthoreovirus 1 (PRV-1). At T4 and T5, 3% of sampled fish were positive for the parasite 
+Paranucleospora theridion and at T6 43% of sampled fish were positive for the parasite Parvicapsula 
+pseudobranchicola and 73% of the sampled fish positive for the bacteria Candidatus Branchiomonas 
+cysticola. At timepoint T8, 17% of the samples were positive for the parasite Ichthyobodo salmonis. 
+These pathogens persisted to the end of the production cycle but had no clinical impact on the overall 
+health situation in the pool, which was classified by fish health services as either good or not requiring 
+attention at all sampling points. The results for all other pathogen screenings were negative. Whilst only 
+a negligible amount of Lepeophtheirus salmonis was observed in the system, there was a noticeable 
+but relatively low abundance of Caligus elongatus during the late summer/autumn of 2022. This did not 
+pose a major risk to fish health or welfare and was easily remedied by feed administered treatments. 
+No Caligus elongatus were found in 2023. Infestation levels should nevertheless be monitored for future 
+production cycles. 
+Norsk sammendrag 
+Det foregår en diversifisering av produksjonsteknologien som benyttes til oppdrett av laks i Norge og 
+flere nye produksjonssystemer er under utprøving og evaluering, både på land og i sjø. Ett av disse nye 
+systemene er utviklet av Andfjord Salmon AS og er et landbasert gjennomstrømmingssystem utformet 
+for mest mulig laminære vannstrømmer i produksjonsenheten. Systemet tilfører laksen en kontinuerlig 
+strøm av sjøvann som er pumpet opp fra 45 meters dybde. 20 000 m3 vann pumpes gjennom systemet 
+per time, om lag 333 m3 per minutt, og den beregnede vannutskiftningen i bassenget er 15-17 
+utskiftninger per døgn. Produksjonsenheten er et basseng som er 42 meter langt, 40 meter bredt, og 
+ca. 17,5 meter dypt. Vannvolumet er omtrent 29 400 ± 1500 m3. Bassenget skal gi laminær vannstrøm 
+ved at vannet føres gjennom en trykkfallsvegg ved bassenginnløpet. Dette skal gi en turbulensfri 
+vannstrøm i bassenget som skal behjelpe sedimentering av partikulært stoff fra vannsøylen. Den første 
+produksjonssyklusen i enheten begynte med et innsett av fisk den 25 juni, 2022, og sluttet med 
+utslakting fra 29 juni til 17 juli, 2023. Andfjord Salmon iverksatte under produksjonssyklusen et 
+omfattende dokumentasjonsprogram for fiskevelferd og -helse. Denne sluttrapporten dokumenterer 
+aspekter ved fiskens helse og velferd under hele produksjonssyklusen, fra utsett til slakt, ved bruk av et 
+bredt spekter av velferds- og helseindikatorer. 
+Under produksjonssyklusen var vannkvaliteten jevnt over stabil og god. Målte vannhastigheter, om enn 
+lave, medførte ikke dårlig vannkvalitet. Den romlige variasjonen i målte vannkvalitetsverdier var stort 
+ 
+3 
+ 
+sett forholdsvis lav og påvirker antagelig ikke fordelingen av fisk i bassenget. Vanntemperaturene følger 
+sesongmessige variasjoner i sjøtemperaturene, men viser mindre grad av korttidsvariasjon grunnet det 
+dype vanninntaket. Oksygen tilsettes i systemet, men økt biomasse påvirket metningsgradienten 
+gjennom systemet utover produksjonssyklusen. De lave vanntemperaturene som ble observert gjennom 
+vinteren og våren så ikke ut til å gi vesentlige velferdsutfordringer, ei heller vintersår. 
+Dødeligheten var lav i systemet under den første produksjonssyklusen og om lag 2,5% av fisken som 
+ble satt inn i systemet døde. Alle tilfeller av forøket dødelighet ble overvåket og fulgt opp med tiltak der 
+dette var mulig og nødvendig. Appetitten til fisken og tilveksten var generelt god. Fisken så ut til å 
+tilpasse seg produksjonsenheten og fordelte seg fint i bassenget. Ingen flukt- eller panikkatferd ble 
+registrert i observasjonsperiodene, som foregikk rundt høy- og lavvann. 
+Sår og skader på fisken ble fulgt opp gjennom omtrent månedlige besøk fra fiskehelsetjenesten hvor 
+enten 100 fisk (frem til og med 12 desember, 2022) eller 30 fisk (fra og med 26 januar, 2023) ble 
+inspisert. Sår- og skadetilstanden til fisken var generelt god og de fleste indikatorene knyttet til dette ble 
+vurdert til ikke-nærværende eller milde, i henhold til LAKSVEL-protokollen for velferdsvurdering av laks 
+(Nilsson et al., 2022). I tiden etter at smolten først ble satt ut i bassenget ble det under prøveuttak 
+observert flere fisk med tegn til avmagring og skjelltap (<20% av prøvetatt fisk), men dette bedret seg 
+etter omtrent 3 måneder. Fiskehelsetjenesten tok prøver av 10 fisk ved hvert besøk for histologisk 
+vurdering av hjerte, nyre, gjeller (inkludert pseudobranch), skinn, lever, milt, bukspyttkjertel, 
+pylorusblindsekker, og muskler. Histologisk evaluering av gjellehelse og nyrestatus ble vurdert til å være 
+spesielt viktig. Videre ble hjertehelse evaluert gjennom PCR-analyser. Gjellehelsen ble vurdert til å være 
+god ved alle prøvetakingstidspunkt, men en økning av smittsomme patogener var hovedårsak til 
+patologiske funn fra T6 frem til slakt. Skinnstatus, vurdert histologisk, var derimot dårligere i tiden etter 
+at fisken ble satt ut i bassenget. Den histologiske vurderingen av skinnet indikerte en verre tilstand enn 
+det man fikk inntrykk av fra velferdsskåringen, noe som kan skyldes håndteringen knyttet til 
+prøvetakingen. Tilfeller av tapt epiderm og skjelltap ble særlig observert i tiden etter utsett og dette ble 
+nøye overvåket i etterkant. Fisken hadde utviklet nefrokalsinose i ferskvannsfasen og virkninger av dette 
+ble også observert etter overføring til Andfjord Salmon. PCR-basert patogenovervåkning viste at over 
+80 % av prøvetatt fisk fra T0 til T11 kunne mistenkes å ha hjerte- og skjelettmuskelbetennelse (HSMB), 
+med positive resultater for PRV-1. Ved T4 og T5 var 3 % av prøvetatt fisk positiv for parasitten 
+Paranucleospora theridion, og ved T6 var 43 % av prøvetatt fisk positiv for parasitten Parvicapsula 
+pseudobranchicola og 73 % av prøvetatt fisk positiv for bakterien Candidatus Branchiomonas cisticola. 
+Ved T8 var 17 % av prøvetatt fisk positiv for parasitten Ichtyobodo salmonis. Disse patogenene vedvarte 
+til produksjonssyklusens slutt, men lot ikke til å ha noen klinisk effekt på helsesituasjonen i bassenget. 
+Fiskehelsetjenesten beskrev helsesituasjonen som jevnt over god under hele produksjonssyklusen. Kun 
+begrensede mengder lakselus (Lepeophtheirus salmonis) ble observert på fisk i bassenget, mens det 
+var merkbare mengder skottelus (Caligus elongatus) sommeren og høsten, 2022. Dette så ikke ut til å 
+medføre negative effekter for fiskens helse og velferd og medikamentell behandling gjennom fôr så ut 
+til å ha god effekt. Ingen skottelus ble observert i 2023. 
+ 
+ 
+ 
+4 
+ 
+2 Brief background 
+Andfjord Salmon AS was founded in 2014 and in 2018 was granted a governmental concession for the 
+land-based production of 10,000 metric tonnes of Atlantic salmon (Salmo salar L.) from post-smolt to 
+slaughter. During the first production cycle, Andfjord Salmon operated a single flow-through land-based 
+pilot pool (Pool K0) facility at Kvalnes, Andøya that supplied a continuous flow of 100% seawater to the 
+salmon, pumped from a depth of 40 m. 20 000 m3 of seawater is pumped into the pool per hour, 
+ca.  333 m3/minute and estimated water exchange in the pool is 15-17 times per 24-hour period. The 
+rearing pool is 42 m long and 40 m wide with a mean water depth of ca. 17.5 m. Water volume is ca. 
+29 400 ± 1500 m3.  The K0 production pool utilises laminar water flow via a pressure drop wall at the 
+entrance to the pool leading to a turbulence free water flow through the pool. 
+In 2019 Nofima AS and Andfjord Salmon AS established a collaboration to document aspects of the 
+welfare and health of the fish produced in Andfjord Salmon’s new land-based farming pool concept from 
+the time the fish were transferred to the system until slaughter.   
+Andfjord Salmon applied a very comprehensive welfare and health documentation plan for the first 
+production cycle. This final report outlines fish welfare, health and production data from the time of first 
+stocking on the 25th of June 2022 until slaughter between 29th June and 17th July 2023 (ca. 12 months). 
+The report utilises Welfare Indicators (WIs), the tools that are used to document the welfare status of 
+fish. WIs can be either Input-based (primarily environmental WIs such as water quality indicators) or 
+Outcome-based (indicators that are directly applicable to the animal at either the group or individual 
+level). Farm-friendly indicators are termed Operational Welfare Indicators (OWIs) and WIs that are more 
+complex and require further analysis e.g., at a laboratory are termed Laboratory-based Welfare 
+Indicators (LABWIs), after Noble et al., (2018). In the Andfjord Salmon health and welfare documentation 
+programme, partners used a combination of OWIs and LABWIs. 
+ 
+ 
+5 
+ 
+3 Aims and objectives 
+Primary Objective: To document aspects of the welfare and health of Atlantic salmon raised in Andfjord 
+Salmon’s new land-based farming pilot production system.  
+Biological and environmental factors were documented throughout the production cycle from the time 
+the fish were transferred to the production system until slaughter (although one water quality horizontal 
+and vertical profiling was carried out before the fish enter the system). This report addresses the entire 
+first production cycle from stocking in June 2022 until the final fish were slaughtered in the period late-
+June – mid-July 2023. 
+Sub-objectives include: 
+i) 
+Documenting environmental, input based LABWIs and OWIs (in partnership with 
+Andfjord Salmon AS): oxygen, temperature, CO2, pH, TGP, turbidity, ammonia, 
+nitrite, salinity and conductivity using data provided by Andfjord Salmon AS.  
+ii) 
+Horizontal and vertical profiling of the water quality (oxygen, temperature, pH, 
+salinity, conductivity, turbidity) and water velocity in the system at three points 
+before and during the production cycle. 
+iii) 
+Providing Andfjord Salmon AS with a simple OWI behavioural toolbox for 
+documenting the behaviour of fish in their rearing system 
+iv) 
+Documenting group based OWIs: appetite, mortality (frequency and causes) and 
+behaviour daily throughout the production cycle. 
+v) 
+Documenting individual morphological based OWIs on a ca. monthly basis using 
+the range of OWIs outlined in the LAKSVEL OWI morphological scoring scheme 
+(see Nilsson et al., 2022). Individual morphological based OWIs were also 
+documented during the final stages of the hatchery phase. 
+vi) 
+Documenting monthly skin health status just prior to seawater transfer and 
+thereafter monthly during the seawater production cycle using samples collected 
+and provided to Nofima by Fish Health Services. 
+vii) 
+Integrate findings from fish health reports and sampling provided by fish health 
+services and Andfjord Salmon AS (including gill histology, pathology and histology 
+of abdominal organs, vaccine related pathology, nephrocalcinosis, clinical disease 
+diagnosis, disease control screenings). This includes: a) an extended screening 
+program (PCR analysis) for actual pathogens every month during the seawater 
+production, and 1 screening at hatchery before seawater transfer (sampled by 
+external Fish Health Services and analysed by an accredited laboratory), b) the 
+counting of sea lice circa every month (carried out by Andfjord Salmon AS and 
+external Fish Health Services), c) gill histology, pathology and histology of 
+abdominal organs (sampled by external Fish Health Services and analysed by an 
+accredited laboratory). 
+ 
+ 
+ 
+6 
+ 
+4 Materials and methods 
+4.1 
+Location 
+This documentation study was undertaken at the Andfjord Salmon AS pilot production facility at Kvalnes, 
+Andøya (locality 38897) at 69 °N (see Figure 1). The nearest other seawater salmon farm is Høgholmen 
+(locality 10536), ca. 20 km southeast of Kvalnes. The nearest wellboat route is ca. 7 km from Kvalnes. 
+ 
+ 
+Figure 1 Illustration outlining the location of the Andfjord Salmon AS facility at Kvalnes, Andøya. Illustration by 
+Andfjord Salmon AS. The Kvalnes production facility is highlighted with a red circle. 
+4.2 
+Project plan  
+The health and welfare documentation plan outlined in this report covers the reporting period from the 
+time the fish were stocked in the Andfjord Salmon AS pilot production pool (hereafter termed “Pool K0”) 
+from June 2022 until slaughter in late June to mid-July 2023, ca. twelve months following fish stocking.  
+Within this plan, data was collected on: 
+i. 
+Water quality and water velocity profiling during 3 visits: i) one before smolt transfer on the 8th 
+and 9th of June 2022 (Figure 2) and ii) two profiles with fish in the system (on the 14th and 15th 
+of September 2022, without underwater lights and on the 13th and 14th of December 2022, with 
+underwater lights, see section 4.9 below).    
+ii. 
+Daily data on real time water quality within the pool from time of stocking (see section 4.9) 
+iii. 
+Daily data on fish appetite, mortality and behaviour (see section 4.10) 
+iv. 
+Monthly data on morphological OWIs both before and after transfer to the pool and until 
+slaughter (see section 4.10) 
+v. 
+Monthly data on fish health, including skin health parameters (see section 4.11). 
+ 
+ 
+ 
+7 
+ 
+ 
+Figure 2 Project plan and the timing of various health and welfare documentation samples for different stages of 
+the production cycle at the Andfjord Salmon AS pilot facility at Kvalnes. 
+4.3 
+Fish stocking and history  
+Fish were stocked in the Andfjord production pool K0 on the 25th of June 2022. Fish were produced by 
+Nordland Akva AS, Åmøya locality (locality number: 26375) and were from a pooled hatchery Saga 
+stock. Fish were collected from the hatchery on 24th of June 2022 by the Bjørg Pauline wellboat. Water 
+temperature, salinity and dissolved oxygen (DO) levels in the hatchery at time of transfer were 8.0 °C, 
+12 ppm and 95.8%, respectively. Fish were transferred in water with a temperature range of 8.5 to 
+10.5 °C. Water temperature and DO levels in the Andfjord K0 pool at time of transfer were ca. 7.5 °C 
+and 108% at 7 m (ca. half the depth of the pool), respectively. Average weight of fish at time of stocking 
+was ca. 120 g and an estimated 198 883 fish were transferred into the pool. 
+4.4 
+Characteristics of the rearing system  
+A detailed outline of the rearing pool design and system characteristics can be found in the Andfjord 
+Salmon AS Biosikkerhetsplan drawn up by Åkerblå AS (and revised on 15.12.2022). 
+In brief, the Andfjord Salmon land-based production pool K0 is flow-through and it supplies a continuous 
+flow of 100% seawater to the salmon, pumped from 40 m depth. 20 000 m3 of seawater are pumped 
+into the pool per hour, ca. 333 m3/minute and estimated water exchange in the pool is 15-17 times per 
+24-hour period. The K0 pool is sunk into a concrete covered outer pool and consists of an internal 
+composite tank/pool that is fixed to the substrate of the outer pool and has four walls. The rearing pool 
+is 42 m long x 40 m wide with a mean water depth of ca. 17.5 m. Water volume is ca. 29 400 ± 1 500 m3.  
+The K0 production pool utilises laminar water flow design via a pressure drop wall at the entrance to the 
+pool. This is intended to produce a turbulence free water flow through the pool and sediment falls to the 
+pool substrate (see section 4.7). For further details of the pool and system design see Figures 3 – 5 
+below. To reduce the risk of fish colliding with the pool walls when jumping, eight grey floating air 
+cushions (20 m long x 60 cm diameter, NorLense, Strønstad, Norway) were also mounted around the 
+pool walls at the water surface during the first week of December 2022. 
+ 
+8 
+ 
+ 
+Figure 3 Aerial overview of the K0 production pool at Andfjord Salmon AS. Picture courtesy of Andfjord Salmon 
+AS/Åkerblå AS.  
+ 
+Figure 4 Technical drawing of the K0 production pool at Andfjord Salmon AS. Figure courtesy of Andfjord Salmon 
+AS/Norconsult AS.  
+ 
+9 
+ 
+ 
+Figure 5 Process diagram of the K0 production pool at Andfjord Salmon AS. Diagram courtesy of Andfjord Salmon 
+AS/Norconsult AS.  
+ 
+4.5 
+Feeding system and regime  
+An appetite-based feeding regime was applied in the Andfjord Salmon documentation project. Fish were 
+surface fed using two different feeding approaches, i) from a single centralised Hexmodel rotor spreader 
+(Akva Group, Bryne, Norway) which has an estimated feed spread of up to 20 m diameter, and ii) 
+supplementary hand feeding all around the pool. Feeding was monitored using a mobile Gemini 
+underwater camera (Imenco, Tysvær, Norway) during feeding. Feeding times varied with season and 
+differed between the feeding methods (Table 1). From 25th June to 22nd August 2022, fish were given a 
+supplementary hand feed to satiation during the whole day. After fish were introduced to the pool, they 
+were fed a feed that was primarily based upon a RAS feed, as it is more stable in water and can be 
+easier to collect and remove from the pool in order to maintain water quality. However, in mid-July 2022 
+it was noted that the pellets sank relatively fast to the pool substrate and in collaboration with the feed 
+producer, the sinking rate of the pellet was therefore reduced to give the fish a longer window to capture 
+and consume pellets in the water column. In January 2023 it was noticed that some fish could collide 
+with the feed delivery tube when they jumped, and the feed delivery tube was therefore padded to reduce 
+risks from any collisions. 
+ 
+ 
+ 
+10 
+ 
+Table 1 Outlining feeding times for rotor spreader feeding. 
+Date 
+Time 
+25th June – 15th August 2022 
+fish fed to satiation between 07.00 – 00.00 h 
+15th August – 12th September 2022 
+fish fed to satiation between 07.00 – 21.00 h 
+12th September – 1st November 2022 
+fish fed to satiation between 07.00 – 18.00 h 
+1st November – 22nd November 2022 
+fish fed to satiation between 08.00 – 15.00 h 
+22nd November – 11th December 2022 
+fish fed to satiation between 09.00 – 14.00 h 
+12th December 2022 – 8th January 2023 
+fish fed to satiation between 10.00 – 14.00 h 
+9th January – 20th February 2023 
+fish fed to satiation between 08.00 – 15.00h 
+21st February – 3rd April 2023 
+fish fed to satiation between 07.00 – 18.00h 
+4th April – 20th June 2023 
+fish fed to satiation between 06.00 – 21.00h 
+ 
+Feed types and pellet sizes were chosen in accordance with feed supplier (Skretting) recommendations. 
+Some of the feed types given were customised, non-standard diets. The feed types and pellet sizes 
+given throughout the production cycle are shown in Table 2. 
+Table 2 Outlining timing of different diet and pellet sizes (produced by Skretting) from time of stocking: 
+Date 
+Feed size and type 
+25th June – 15th August 2022 
+Andfjord supreme 3 mm transition feed 
+16th August – 24th August 2022 
+Skretting 3 mm Slice 
+25th August – 22nd September 2022 
+Andfjord Cal N3 3 mm 
+23rd September – 8th October 2022 
+Andfjord Cal N3 4 mm 
+9th October – 10th November 2022 
+Armour Skin Cal N3 5 mm 
+11th November – 6th December 2022 
+Armour Skin Cal N3 7 mm 
+7th December 2022 – 20th June 2023 
+Armour Skin Cal N3 9 mm 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+4.6 
+Lighting system and regime  
+The Andfjord Salmon production pool has no walls or roof over the pool. Fish were therefore subjected 
+to natural seasonal changes in diurnal and nocturnal period and light intensity until 15th of November 
+2022 when 24-hour artificial underwater lighting was applied. Fish were then held under 24-hour light 
+until April 15th 2023. Underwater lighting was provided via four Aurora sub-led lights (Akva Group, Bryne, 
+Norway) placed at 6 m depth, in a quad formation. Lights were ca. 10-15 m from each of the pool walls 
+and positioned 20 m apart from each other (see Figure 9 below). 
+4.7 
+Pool cleaning and other husbandry routines 
+The laminar water flow in the pool meant sediment fell to the pool substrate. The tank substrate was 
+inspected and cleaned daily, and particulate sediment was collected using a custom Remotely Operated 
+Vehicle, ROV (MEOX, Namsos, Norway) with the process taking 3 – 5 hours per day. The walls of the 
+pool were cleaned every week in the summer and when needed in the autumn and winter using a custom 
+ROV (MEOX, Namsos, Norway). It took approximately 1 hour to clean one of the tank walls. Additional 
+cleaning was undertaken whenever the need arose. Mortalities were collected daily after feeding by an 
+ROV with a mesh cage attached. When mortality collection was completed, the ROV was hoisted out of 
+the pool. 
+Due to an incident with mortality and stress caused by the ROV lights in October 2022 (see section 
+5.2.1), Andfjord Salmon modified the unit so they could dim the strength of the lights and also be able 
+to turn them off when the daily operations were concluded. They also updated the daily routines with an 
+extra check to make sure this was done. 
+4.8 
+Fish welfare documentation 
+Andfjord Salmon’s land-based seawater flow though rearing system is a novel production system for 
+rearing Atlantic salmon on land until slaughter using flow through seawater. The FHF funded project 
+“FISHWELL: Kunnskapssammenstilling om fiskevelferd for laks og regnbueørret i oppdrett” (Noble et 
+al., 2018) has published an OWI handbook that includes a summary of various OWI toolboxes for 7 
+different rearing systems for Atlantic salmon e.g., hatchery-based flow through systems, recirculating 
+aquaculture systems (RASs), net cages, submersible cages, semi-closed containment systems in the 
+sea (S-CCS) (see Kolarevic, Stien et al., 2018, in Noble et al., 2018). However, the FISHWELL 
+handbook does not have a specific OWI toolbox for the land-based production of Atlantic salmon for 
+either the Andfjord Salmon AS laminar flow pool concept or similar. Following discussions between 
+Nofima and Andfjord Salmon in Autumn 2019 it was agreed that the most suitable OWI toolbox for 
+monitoring the welfare of Atlantic salmon in the Andfjord Salmon pilot concept is to adapt the existing 
+S-CCS OWI toolbox (see Figure 6 below). 
+ 
+12 
+ 
+ 
+ 
+Figure 6 An overview of the range of OWIs that have been deemed the most suitable toolbox for documenting fish 
+welfare in the Andfjord Salmon pilot production system. Input (environment) based OWIs address the rearing 
+environment, group and individual Outcome based OWIs refer to the population and individual fish, respectively. 
+Adapted with permission from Kolarevic, Stien et al., 2018. Pictures courtesy of Andfjord Salmon AS and René 
+Alvestad, Nofima. 
+Following discussions between Nofima and Andfjord Salmon, partners have also incorporated 
+numerous Laboratory-based Welfare Indicators (LABWIs) into the welfare documentation plan, including 
+various skin health indicators (analysed by Nofima) and also health parameters based upon gill 
+histology, pathology and histology of abdominal organs (analysed by external fish health services and 
+their data summarised in this report with permission).  
+4.9 
+Fish welfare documentation: input-based water velocity and water quality 
+OWIs  
+One of the main aims of this report was to document input based OWIs, specifically water quality 
+including water velocity in the pool. This documentation has taken two forms: i) Nofima carried out 
+vertical and horizontal profiling of various water quality parameters on three occasions in 2022, while 
+Andfjord Salmon also monitored several water quality parameters in real time and made this data 
+available for documentation and analysis by Nofima. 
+4.9.1 
+Vertical and horizontal profiling of water velocity and water quality in the system 
+Nofima conducted three profiles of the system: one without fish, (before smolt transfer on the 8th and 9th 
+June 2022, (Figure 2), and two with fish in the system, on the 14th and 15th of September 2022, without 
+underwater lights, and on the 13th and 14th of December 2022, with underwater lights. A fourth profiling 
+was initially planned for documenting water quality as the fish approached slaughter size, but partners 
+decided to omit this profiling event to avoid subjecting the fish to disturbances and potential additional 
+stressors as slaughter approached.  
+ 
+13 
+ 
+ 
+Figure 7 System water quality and water velocity profiling carried out by Nofima in June 2022. Picture courtesy of 
+J. Kolarevic, Nofima/UiT. 
+To document water quality and velocity in the system, a total of 20 sampling points were audited 3 m 
+from the pool inlet and 3 m from the pool outlet within the pilot pool system (see Figure 8). These 
+transects specifically audited water parameters at five horizonal points: 1, 10, 20, 30 and 39 m from one 
+of the system walls and four vertical points at 1, 5, 10 and 15 m depth. At those points the following 
+parameters were measured: velocity, oxygen, temperature, pH, salinity, conductivity and turbidity. Water 
+velocity measurements were done with a Nortek Vector 300m velocimeter (Nortek, Rud, Norway). A 
+WTW multi 3630 IDS (Xylem Analytics, Weilheim, Germany) instrument with probes (WTW SenTix 940, 
+WTW FDO 925, WTW TetraCon 925) was used for all other water quality measurements during profiling, 
+except turbidity which was measured with a turbidimeter. As water velocity measurements were deemed 
+to be particularly important due to the system design and anticipated low water flows in the pool (due to 
+concerns from the Norwegian Food Safety Authority regarding potential effects of low water current 
+speed upon fish welfare, see the Norwegian Food Safety Authority’s criteria for establishing the 
+production system letter ref: 2017/077177), an additional 12 points, three horizonal and four vertical 
+(Figure 8), were chosen in the middle of the system for more in depth documentation of water velocity.  
+During the first water quality profiling event, in June 2022, measurements near the system inlet and in 
+the middle of the pool were carried out on day one and near the system outlet on day two of sampling. 
+During the remaining water quality profiling events, in September and December 2022, measurements 
+near the system inlet were done one the first day, whilst measurements in the middle of the pool and 
+near the outlet were done on the second day. In either case we attempted to ensure that all 
+measurements were done at similar times in relation to the daily tide cycle. On the second and third 
+water quality and velocity profiling events, where fish were present in the pool, feeding was stopped 
+hours in advance of sampling to avoid the direct effects it could have on water quality and velocity 
+measurements. All equipment used for profiling of the system was disinfected prior to arrival on site and 
+before sampling on site. 
+ 
+14 
+ 
+ 
+Figure 8 An overview of the sampling points for horizonal and vertical water and velocity profiling of the system prior 
+and during salmon production at Andfjord Salmon: five horizontal points (1, 10, 20, 30 and 39 m from one of the 
+system walls) 3m from the system inlet and outlet and in the middle of the pool (only for water velocity 
+measurements); four vertical points were at 1, 5, 10 and 15 m depth (points not shown on the image). 
+4.9.2 
+Real-time monitoring of water quality in the system 
+An elaborate network of sensors for measuring water quality was installed in the system prior to the start 
+of the production cycle by Andfjord Salmon (Figure 9). Sensors were positioned with the desire to record 
+primary water quality parameters of inlet water and to have a good overview of the water leaving the 
+system. Additional sensors were also placed in the inlet and outlet chambers as indicated in Figure 9. 
+Horizontal differences in the system were accounted for by multiple sensors placed at different locations. 
+All sensors were integrated into the Clarify platform (Clarify, Trondheim, Norway) and values were 
+continuously monitored and logged. Nofima was given access to all measurements for documentation 
+purposes.  
+ 
+ 
+ 
+15 
+ 
+4.9.3 
+Control measurements of water quality  
+Control measurements using handheld instruments were carried out to audit and to supplement real-
+time data. Total dissolved gas pressure (TGP) was measured both in the inlet chamber and in the middle 
+of the pool (20 m from shorter walls of the pool) at depth of 7 m using a OxyGuard Handy Polaris TGP 
+(OxyGuard International, Farum, Denmark) instrument and probe. pH was measured in same places as 
+TGP using a OxyGuard Handy pH (OxyGuard International, Farum, Denmark) instrument and probe. 
+Carbon dioxide measurements were done using a OxyGuard CO2 Analyser (OxyGuard International, 
+Farum, Denmark) instrument and probe in the middle of the pool at 7 m depth. Water samples were 
+taken at the same position for subsequent measurements of turbidity, total ammonia nitrogen (TAN) and 
+nitrite (NO2). Turbidity was measured using HACH 2100Q (Hach Company, Loveland, CO, USA) 
+portable turbidimeter and TAN and NO2 were measured with a Spectroquant Prove 100 (Supelco/Merck 
+KGaA, Darmstadt, Germany) UV/VIS spectrophotometer using Ammonium Cell Test No. 114558 and 
+Nitrite test No. 114776 (Supelco/Merck KGaA, Darmstadt, Germany). The lab measurements were done 
+on fresh samples the same day. 
+ 
+Figure 9 Location of real time water quality sensors, feeder and underwater lights in the Andfjord Salmon pilot 
+production system with indicated depths at which the sensors were mounted. Figure courtesy of Andfjord Salmon 
+AS and updated by Gunhild Seljehaug Johansson, Nofima.  
+4.10 Fish welfare documentation – group and individual outcome based OWIs 
+Fish welfare in the Andfjord K0 pool was documented with a range of outcome based OWIs at both the 
+group and individual level.  
+4.10.1 
+Group level Outcome based OWIs  
+Mortalities were collected and recorded daily by Andfjord Salmon AS staff. These were further grouped 
+according to suspected cause of death in accordance with the scheme from Aunsmo et al., (2023). We 
+retrieved the daily and weekly total mortality numbers from June 25th, 2022, until slaughter began on the 
+29th of June 2023, and calculated the mortality rates for a given day, week or month as the number of 
+mortalities on that day, week, or month divided by the incoming stock on that day, week, or month. The 
+daily and weekly rates were presented as per-mille (‰) and the monthly rates as percentages (%). The 
+mortality rates were compared against the mortality rate scoring scheme from Laksvel (Table 3) (Nilsson 
+et al., 2022). Cumulative mortalities were calculated as the sum of daily mortalities through the period 
+and the period mortality rate as the sum of daily mortalities through the period divided by the estimated 
+incoming stock on June 25th, 2022. 
+ 
+16 
+ 
+Table 3 The Laksvel (Nilsson et al., 2022) scoring system for daily, weekly, and monthly mortality rates, where 
+scores are assigned ordinal values according to whether the mortality rate is as can be expected for healthy fish 
+(score level 0) or the welfare of the fish is severely compromised (score level 3), or some level in between. 
+Score 
+Monthly 
+Weekly 
+Daily 
+0 
+0.0-0.3% 
+0.0-0.7‰ 
+0.0-0.1‰ 
+1 
+0.3-0.7% 
+0.7-1.7‰ 
+0.1-0.25‰ 
+2 
+0.7-2% 
+1.7-4.9‰ 
+0.25-0.7‰ 
+3 
+>2% 
+>4.9‰ 
+>0.7‰ 
+Daily feed delivery (%) was calculated as the amount of feed fed (kg) on given day divided by the 
+estimated incoming biomass (kg) on that day and presented as a percentage. Biomass was calculated 
+as the incoming stock number times the estimated average fish weight. The latter was estimated from 
+the expected daily growth rate, according to growth tables provided by the feed producer, but corrected 
+following approximately monthly weight samplings. Daily feed delivery was visualised alongside daily 
+temperature. 
+Behavioural OWIs have also been documented by Andfjord Salmon staff during the pilot project. A pilot 
+behavioural toolbox was developed that quantifies differing behavioural indicators within the rearing 
+system via a mix of 0-1, 1-4 or 1-5 scoring scales, building upon that used by the Laksvel scoring protocol 
+(Nilsson et al., 2022) and other authors (e.g., Glaropoulos et al., 2019). 
+ 
+Where possible, behaviour was scored daily at both high and low water. Indicators addressed: 
+▪ 
+Group structure/schooling behaviour. Scored on a 1-4 scale where the majority of the fish 
+exhibit: 1 = Erratic swimming; 2 = Mixed behaviours (schooling & erratic); 3 = Loose schooling; 
+4 = Uniform circular schooling (adapted from Glaropoulos et al., 2019) 
+▪ 
+Depth distribution. Scored on a 1-4 scale where: 1 = Most fish in top 5 m of the water column; 
+2 = Fish distributed down to 10 m; 3 = Fish distributed down to 15 m; 4 = Fish distributed down 
+to 20 m 
+▪ 
+Horizontal distribution. Scored on a 1-5 scale where fish are: 1 = Evenly distributed throughout; 
+2 = Close to inlet; 3 = Close to outlet; 4 = Fish close to edges of the pool; 5 = Fish distributed 
+near the centre of the pool 
+▪ 
+Fleeing/panic behaviour. Scored on a 0-1 scale where: 0 = absent; 1 = present 
+▪ 
+Dense clumping behaviour. Scored on a 0-1 scale where: 0 = absent; 1 = present 
+In addition: 
+▪ 
+Appetite was also scored daily according to Laksvel (Nilsson et al., 2022) on a 0-3 scale where: 
+0 = High appetite, as expected per given size and temperature; 1 = Somewhat reduced appetite 
+compared to expectations; 2 = Clear reduction in appetite compared to expectations; 3 = Low 
+appetite compared to expectation. 
+▪ 
+Surface activity was also scored daily by farm operators via a 0-3 scale where: 0 = No jumping; 
+1 = Some jumping; 2 = A moderate amount of jumping; 3 = A high amount of jumping. 
+ 
+ 
+ 
+17 
+ 
+4.10.2 
+Individual level Outcome based OWIs 
+To audit the injury status of fish within the Andfjord pool, morphological OWIs were recorded on 100 fish 
+at the end of the hatchery phase (7th June 2022, ca. 2.5 weeks before smolt transfer) and ca. monthly 
+following smolt transfer until 12th December 2022 according to the Laksvel OWI scoring protocol for 
+Atlantic salmon (see Nilsson et al., 2022). A decision was taken after 12th December 2022 (primarily due 
+to low winter temperatures) to sample 30 fish per month from 26th January 2023 until 21st June 2023. 
+Laksvel standardises a range of morphological OWIs into a 0-3 scoring scheme where: 0 = undamaged, 
+1 = minor injury, 2 = clear moderate injury, 3 = severe injury (see Nilsson et al., 2022 for a full overview 
+and a pictorial scoring guide). Laksvel scores 14 morphological OWIs based upon: i) first impression, ii) 
+vertebral deformities, iii) emaciation state, iv) maturation state, v) scale loss, vi) skin haemorrhaging, vii) 
+lesions/wounds, viii) snout damage, ix) jaw deformities, x) eye opacity xi) eye damage, xii) opercular 
+damage, xiii) gill status, xiv) fin damage and all 14 indicators have been included in the Andfjord Salmon 
+documentation programme.  
+4.11 Fish health documentation – health-based LABWIs  
+Aspects of fish health status in the Andfjord K0 pool were also documented with a range of health based 
+LABWIs applied at the individual level. These LABWIs included skin health, gill health, nephrocalcinosis 
+status and pathogen screening. Skin, gill and kidney samples were collected from fish monthly, see 
+Figure 2, from the time of stocking to document any potential changes in health status. Gill and kidney 
+samples were sent to Patogen AS for pathogen screening (RNAlater fixed, n=30) and histopathology 
+(formalin fixed, n=10) and skin samples (formalin fixed, n=10) were sent to Nofima for histological 
+scoring. Nephrocalcinosis was also visually examined during routine monthly sampling using 
+STONEHUNT, a 0-5 auditing scheme kindly provided by Åkerblå AS to Andfjord Salmon AS. Results 
+were provided monthly by Patogen AS. All skin samples were sent to the Norwegian Veterinary Institute 
+in Harstad for processing of histological sections; 2.5 μm with stained with AB-PAS and scanned (20x) 
+for scoring (ImageScope). Histological scoring was manually conducted on all slides (slide software: 
+Aperio Image Scope, Leica), using a 5-point scoring system (Karlsen et al., 2021) of epidermis quality, 
+scale loss, mucus cells and melanin.  
+4.12 Production performance monitoring  
+Production performance was continuously monitored by Andfjord Salmon AS staff, based upon a circa 
+monthly recording of weight and length of up to 100 fish. From this, initial stocking numbers, and tallies 
+of mortalities, the following performance indicators were determined: economic feed conversion rate 
+(EFCR), biological feed conversion rate (BFCR), specific growth rate (SGR), thermal growth coefficient 
+(TGC), and condition factor (K-factor). Calculations are given in Table 4. Circa monthly biomass density 
+was calculated based on the biomass estimated from the weight measurements multiplied by the 
+estimated number of remaining fish at the date of weight measurement, divided by the estimated 
+available water volume in the tank, i.e., 29 400 m3. 
+ 
+ 
+ 
+18 
+ 
+Table 4 Calculations of performance indicators. Fa: the amount of feed fed (kg), FB: final biomass (kg), SB: starting 
+biomass (kg), LB: lost biomass (kg) (e.g., due to mortalities or sampling), FW: final average individual weight (g), 
+SW: starting average individual weight (g), d: number of days in the period for which the indicator is calculated, dD: 
+the sum of day degrees, i.e., the sum of daily average temperatures for the period in which the indicator is 
+calculated, W: individual weight of fish upon sampling (g), L: individual length of fish upon sampling (g). 
+Performance indicator 
+Calculation 
+EFCR 
+Fa / (FB – SB) 
+BFCR 
+Fa / (FB + LB – SB) 
+SGR 
+100 x [(FW/SW)^(1/d)-1] 
+TGC 
+1000 x [(FW)^(1/3) – (SW)^(1/3)] / dD 
+K-factor 
+(W x 100) / L^3 
+Sea lice were counted by fish health personnel during the ca. monthly OWI scoring samplings. Both 
+Lepeophtheirus salmonis and Caligus elongatus were counted, if present. Lepeophtheirus salmonis was 
+further categorised as being present either in the attached or motile stage, or as adult females. The 
+counts are presented here as the number of lice counted per fish divided by the number of fish evaluated 
+during each sampling. 
+4.13 Auditing slaughter quality   
+The primary quality characteristics of the fish were assessed upon slaughter in accordance with the 
+NBS 10-01 standard by Nordlaks AS processing plant staff. This standard sets criteria for classifying 
+the fish as either Superior, Ordinary, or Production grade, where a fish classified as Superior is nearly 
+without fault. Per fish, a principal cause, if present, for downgrading it to either Ordinary or Production 
+grade was recorded. Fish were slaughtered on June 30th and July 5th, 7th, and 17th, 2023, and a total of 
+14 quality assessments were done on whole fish, each done on 100 randomly sampled fish, were made 
+on those days by 4 different assessors, one for each assessment. For this report, the proportion of fish 
+downgraded according to a specific principal cause was calculated and visualised. Furthermore, the 
+quality grade of each slaughtered fish was evaluated by Nordlaks AS processing plant staff prior to 
+packing. We here report the proportion of Superior grade fish delivered. 
+4.14 Data management, auditing and analysis  
+Production data was entered, organised, and stored in the Mercatus Farmer (Scale AQ, Trondheim, 
+Norway) aquaculture data management software by Andfjord Salmon staff. Real time sensor data was 
+fed automatically into the Clarify (Clarify, Trondheim, Norway) industrial data management platform. 
+Water quality control measurements, OWI, and behavioural scores were entered and stored in Microsoft 
+Excel (Microsoft Corporation, Redmond, WA) spreadsheets. Water velocity recordings were post-
+processed in version 1.5 of the software ExploreV Pro (Nortek, Rud, Norway), then further processed 
+and visualised using the NumPy (Harris et al., 2020) and Matplotlib (Hunter, 2007) libraries for the 
+Python programming language. The velocity profiles were interpolated and visualised as colour contours 
+on a rectilinear, triangulated grid. One missing value, recorded near the inlet on September 14th, 2022, 
+at 15 m depth and 20 m from the Eastern wall, was imputed using the K-nearest neighbours algorithm 
+in the Scikit-learn library (Pedregosa et al., 2011). Data on fish production performance, as described in 
+section 4.12, as well as fish mortality, feed delivery, and water quality were processed and visualised 
+using the NumPy (Harris et al., 2020), Pandas (McKinney, 2010), Matplotlib (Hunter, 2007) and Seaborn 
+(Waskom, 2021) libraries. 
+ 
+19 
+ 
+5 Results 
+5.1 
+Fish welfare documentation: input-based water velocity and water quality 
+OWIs  
+5.1.1 
+Water velocity profiling 
+The water velocity profile of the system without fish is presented in Figure 10. The highest average 
+velocity (average of all measured points) of 1.19 cm/s was recorded close to the outlet of the system, 
+then 3 m from the inlet chamber (1.16 cm/s) and the lowest average velocity was in the middle of the 
+pool (0.94 cm/s). The velocity profile 3 m after the inlet chamber varied from 0.33 to 2.44 cm/s with the 
+highest values recorded at 10 m depth in one of the corners of the system. In the middle of the system, 
+minimum and maximum velocities were 0.33 and 1.98 cm/s. Here the highest average velocities were 
+recorded at 5 m depth and 20 m from the eastern wall. The maximum velocity 3 m from the outlet 
+chamber was 2.79 cm/s and the minimum was 0.40 cm/s. The highest velocities were recorded at 5 m 
+depth and 10 and 30 m from the eastern pool wall. 
+ 
+Figure 10 Water velocity (cm/s) profiles of the system carried out in June 2022 before fish were introduced to the 
+system. Velocity profiles were carried out 3 m from the inlet chamber, in the middle of the system and 3 m before 
+the outlet chamber. The depths are provided on the y axis and distance from the system’s Eastern wall on the x-
+axis (see Figure 8 for detailed information on the measurements points). The water velocity scale is provided as 
+additional y-axis legends for data interpretation.  
+ 
+ 
+20 
+ 
+The water velocity profile with fish in the system but without underwater lights was measured in 
+September 2022 and this data is presented in Figure 11. The highest average velocity (averaged cross-
+sectionally) of 3.98 cm/s were recorded close to the outlet of the system, then 3 m from the inlet chamber 
+(2.72 cm/s) and the lowest average velocity was in the middle of the pool (2.40 cm/s). The water velocity 
+profile 3 m after the inlet chamber varied from 1.66 to 8.28 cm/s with the highest values recorded at 
+15 m depth and 10 m from the eastern wall (Figure 11, top panel). In the middle of the system, minimum 
+and maximum velocities were 0.87 and 4.82 cm/s, respectively. Here the highest average velocities 
+were recorded at 15 m depth and 39 m from the eastern wall (Figure 11, middle panel). The maximum 
+velocity 3 m from the outlet chamber was 7.97 cm/s and the minimum was 3.98 cm/s. The highest 
+velocities were recorded at 5 m depth and 10 and 30 m from the eastern wall (Figure 11, lowest panel). 
+ 
+Figure 11  Water velocity (cm/s) profiles of the system carried out in September 2022 with fish in the system. Velocity 
+profiles were carried out 3 m from the inlet chamber, in the middle of the system, and 3 m before the outlet chamber. 
+The depths are provided on the y axis and distance from the system’s Eastern wall on the x-axis (see Figure 8 for 
+detailed information on the measurements points). The water velocity scale is provided as additional y-axis legends 
+for data interpretation. 
+ 
+ 
+ 
+21 
+ 
+The water velocity profile of the system with fish in the system and subject to underwater lighting was 
+measured in December 2022 and data is presented in Figure 12. The highest average velocity (average 
+of all measured points) of 5.70 cm/s was recorded close to the outlet of the system, then 3 m from the 
+inlet chamber (5.25 cm/s) and the lowest average velocity was in the middle of the tank (3.74 cm/s). The 
+water velocity profile 3 m after the inlet chamber varied from 2.18 to 9.70 cm/s with the highest values 
+recorded at 15 m depth and 20 m from the eastern wall (Figure 12, top panel). In the middle of the 
+system, minimum and maximum velocities were 1.67 and 7.96 cm/s, respectively. Here the highest 
+average velocities were recorded at 15 m depth and 20 m from the eastern wall (Figure 12, middle 
+panel). The maximum velocity 3 m from the outlet chamber was 11.05 cm/s and the minimum was 
+2.13 cm/s. The highest velocity was recorded at 15 m depth and 10 m from the eastern wall (Figure 12, 
+lowest panel). 
+ 
+Figure 12 Water velocity (cm/s) profiles of the system carried out in December 2022 with fish in the system that 
+were subjected to underwater lighting. Velocity profiles were carried out 3 m from the inlet chamber, in the middle 
+of the system and 3 m before the outlet chamber. The depths are provided on the y-axis and distance from the 
+system’s Eastern wall on the x-axis (see Figure 8 for detailed information on the measurements points). The water 
+velocity scale is provided as additional y-axis legends for data interpretation. 
+ 
+ 
+ 
+22 
+ 
+5.1.2 
+Dissolved oxygen profiling 
+Dissolved oxygen saturation levels at all point measurements in the system in the June 2022 sampling 
+without fish were above or equal to 100%. The average DO saturation level close to the inlet was 102.7% 
+and close to the outlet it was 105.3%. The minimum and maximum measured saturation for inlet and 
+outlet profiles was 100% and 103.6% and 104.4% and 106.3%, respectively (Figure 13, top panel). 
+Average DO saturation close to the inlet varied with depth by up to 0.5% and close to the outlet by up 
+to 1.5%. 
+In the September 2022 DO profiling with fish in the system, DO saturation values at all point 
+measurements were above 85%. The average DO saturation close to the inlet was 97% and close to 
+the outlet it was 92.1%. The minimum and maximum measured DO saturations for inlet and outlet 
+profiles was 89% and 113% and 87.4% and 97.6%, respectively (Figure 13, middle panel). The highest 
+DO saturation close to the inlet was measured at 15m depth while it was very stable at 95% at other 
+depths. Close to the outlet, average DO saturation levels decreased slightly with depth from 95% at 1 m 
+depth to 89.5% at 15 m depth. 
+In the December 2022 DO profiling with fish in the system, the average DO saturation level was 86% 
+close to the inlet and 92% close to the outlet of the pool. Minimum and maximum DO saturations of 82% 
+and 94% were slightly lower on the day when profiling was carried out close to the inlet, in comparison 
+to the day after, when profiling of DO saturations in the vicinity of the outlet recorded minimum and 
+maximum recorded values of 87 and 96% (Figure 13, lowest panel). Variation in DO saturation levels 
+with depth was between 1% near the outlet and 2% O2 close to the inlet. 
+ 
+Figure 13 Dissolved oxygen (% saturation) profiles of the system carried out between June and December 2022. 
+Profiles were carried out 3 m from the inlet chamber and 3 m before the outlet chamber. The depths are provided 
+on the y-axis and distance from the system’s Eastern wall on the x-axis (see Figure 8 for detailed information on 
+the measurements points). Dissolved oxygen saturation scale is provided as additional y-axis legends for data 
+interpretation. 
+ 
+23 
+ 
+5.1.3 
+Water temperature profiling 
+The temperature in the system during the profiling event in June 2022 was stable throughout the system, 
+with maximum and minimum temperatures being 7.6 °C and 7.0 °C, respectively. There were only minor 
+differences in vertical and horizontal temperatures within the system. The highest temperatures for both 
+the inlet and outlet profiles were recorded close to the water surface and lowest at the 15 m depth 
+(Figure 14, top panel). For the inlet profile: the average, maximum and minimum temperatures were 
+7.3 °C, 7.5 °C and 7.3 °C, respectively. For the outlet profile: the average temperature was 7.2 °C, 
+maximum was 7.6 °C and minimum 7.0 °C.  
+In the September 2022 profiling, temperature measured 3 m from the inlet chamber was very stable 
+across all 20 profiling points with an average of 11.4 °C, and maximum and minimum temperatures 
+being 11.5 °C and 11.2 °C, respectively (Figure 14, middle panel). The water quality profile 3 m before 
+the outlet chamber was measured the day after the inlet water quality profile. A marked change between 
+the two profiling days was a drop in temperature from an average of 11.4 °C to an average of 8.4 °C. 
+Regardless of the drop, temperature measured at the 20 chosen points within the system was stable on 
+the day of profiling between 8.3 and 8.6 °C (Figure 14, middle panel). In the December 2022 profiling 
+event, temperature all profiling points was very stable at an average of 6.6 °C (Figure 14, lowest panel). 
+ 
+Figure 14 Water temperature (°C) profiles of the system carried out between June and December 2022. Profiles 
+were carried out 3 m from the inlet chamber and 3 m before the outlet chamber. The depths are provided on the y-
+axis and distance from the system’s Eastern wall on the x-axis (see Figure 8 for detailed information on the 
+measurements points). A temperature scale is provided as additional y-axis legend for data interpretation. 
+ 
+ 
+ 
+24 
+ 
+5.1.4 
+pH profiling 
+In June 2022, profiled pH values were stable at 8.2 throughout the system (Figure 15, top panel). In 
+September 2022 documented pH values close to the inlet were between 7.9 and 8.0 and the lowest pH 
+was measured 39 m from the eastern wall for all depths (Figure 15, middle panel). Measured pH close 
+to the outlet was also slightly lower compared to inlets measurements at average of 7.9 and with 
+minimum and maximum of 7.8 and 7.9 (Figure 15, middle panel). Similar pH values were recorded in 
+the pool in December 2022 as in September 2022, with average pH values close to inlet and outlet at 
+being 7.8 (Figure 15, lower panel). 
+ 
+Figure 15 Water pH profiles of the system carried out between June and December 2022. Profiles were carried out 
+3 m from the inlet chamber and 3 m before the outlet chamber. The depths are provided on the y-axis and distance 
+from the system’s Eastern wall on the x-axis (see Figure 8 for detailed information on the measurements points). 
+Dissolved oxygen saturation scale is provided as a y-axis legend for data interpretation. 
+5.1.5 
+Salinity and conductivity profiling 
+Salinity profiling in June 2022 reported a salinity of 34 ppt at all points and conductivity was 53 mS/cm 
+(Figures 16 and 17, top panels). In the September 2022 profiling, salinity at all points close to inlet was 
+33 ppt (Figure 16, middle panel) and conductivity was 51 mS/cm (Figure 17, middle panel). Conductivity 
+(average of 53 mS/cm) and salinity (average of 33.9 ppt) measurements close to the outlet on day two 
+of sampling were higher compared to measurements from the day before (Figures 16 and 17, middle 
+panels). Both conductivity and salinity were the lowest 39 m from the reference wall at most measured 
+depths (Figures 16 and 17, middle panels). In the December 2022 profiling, both salinity and conductivity 
+were stable throughout the pool at 33 ppt and 55 mS/cm (Figures 16 and 17, lowest panels). 
+ 
+ 
+ 
+ 
+25 
+ 
+ 
+Figure 16 Water salinity (as PSU) profiles of the system carried out between June and December 2022. Profiles 
+were carried out 3 m from the inlet chamber and 3 m before the outlet chamber. The depths are provided on the y-
+axis and distance from the system’s Eastern wall on the x-axis (see Figure 8 for detailed information on the 
+measurements points). A salinity scale is provided as an additional y-axis legend for data interpretation. 
+ 
+Figure 17. Water conductivity (mS/cm) profiles of the system carried out between June and December 2022. Profiles 
+were carried out 3 m from the inlet chamber and 3 m before the outlet chamber. The depths are provided on the y-
+axis and distance from the system’s Eastern wall on the x-axis (see Figure 8 for detailed information on the 
+measurements points). A conductivity scale is provided as additional y-axis legends for data interpretation. 
+5.1.6 
+Turbidity profiling 
+In the June 2022 profiling, when fish were not present in the pool, turbidity was undetectable in the 
+collected samples. In the September 2022 profiling, turbidity values were low with an average of 0.5 FTU 
+ 
+26 
+ 
+and minimum and maximum values of 0.3 and 1 FTU, respectively. In the December 2022 profiling, the 
+average turbidity measured at all points in the pool were again low with an average of 0.2 FTU with 
+minimum and maximum values of 0.1 and 0.4 FTU, respectively. The highest recorded turbidity was 
+measured at a depth of 1 m close to the outlet at 10 m from the eastern tank wall.  
+5.1.7 
+Real-time monitoring of water quality in the system and control measurements 
+For this report, all available recorded real-time input-based OWI and LABWI water quality data between 
+June 27th, 2022, and June 27th, 2023, were averaged to daily measurements. 
+Water temperature was recorded in the inlet and outlet chamber and at five different points in the system 
+(Figure 18). In addition, the daily average air temperature measured for Andøya (at Andenes, station 
+number SN 87110) by The Norwegian Meteorological Institute was referenced. The maximum average 
+daily water temperature recorded in the system was 12.1 °C on August 5th, 2022. The minimum average 
+daily water temperature recorded in the system was 3.9 °C on 29th March 2023. Temperature increased 
+from June 2022, and stabilized at ~12 °C from mid-July until mid-September 2022 when it started to 
+decrease to ~6 °C by the end of December 2022. This then decreased further to ~4 °C by the end of 
+March 2023. After this point, temperature increased steadily until end of the production cycle when water 
+temperature reached ~10 °C. Apart from one sensor (data not shown here) all sensors showed similar 
+trends and uniform temperature at all measured points. The largest drop in temperature was observed 
+between the 14th and 15th September 2022 at the time when water temperature in the system started to 
+decrease. 
+ 
+ 
+27 
+ 
+ 
+Figure 18 Realtime measurements of the water quality parameters in the Andfjord pool system: daily averages of 
+water temperature. Top panel shows water temperature measured in the inlet and outlet chamber in addition to air 
+temperatures for Andenes (air data temperature acquired from the Norwegian Meteorological Institute). Probes 
+marked with “Pool 1 – 13 m” are located close to the inlet chamber, “Pool 28-40 m” are in front of outlet chamber, 
+“Seaguard 1 pool 14 – 27 m” is Seaguard located close to the outlet chamber. Colour codes correspond to Laksvel 
+temperature score levels. 
+ 
+ 
+ 
+28 
+ 
+Trends in air and water temperature were similar. Short term drops or increases in water temperature 
+were observed in either the inlet or outlet chamber in December 2022, and January, March, April, and 
+May 2023 (Figure 18). These were attributed to air exposure of the probe and there were similarities 
+between probe measurements (and the air temperatures reported by the Norwegian Meteorological 
+Institute at Andenes appear to confirm this). 
+Average daily DO saturation for the documentation period was > 80% at all measuring points in the pool 
+(Figure 19, top panel). As expected, the lowest daily averages were close to and in the outlet chamber 
+compared to the inlet and area close to it. Minimum averages for the sensors in the pool ranged from 
+80% to 83% and maximums were between 101% and 105% oxygen saturation. Oxygen saturation in 
+the pool declined during the summer of 2022 (as temperatures increased to reach a maximum in August 
+2022), after which oxygen saturation increased in line with a seasonal decrease in temperature to 
+September 2022. From October 2022 until January 2023 trends in decreasing dissolved oxygen 
+saturations were similar at all measurement points (Figure 19, top panel). After this point, the differences 
+became more prominent between inlet probes S2 and S3 and probes closer to both the outlet and also 
+probe S1 that was places close to the inlet (see Figure 9 for sensor placement). Oxygen saturation in 
+the outlet was in general higher compared to the pool values, apart from between October to November 
+2022. Large drops in measured oxygen in the outlet are related to the presence of particles on the 
+sensor membrane in period between the 21st and 23rd January 2023. A similar drop was observed on 
+January 28th, 2023, and it is assumed that the same issues occurred, although no notes were made in 
+the Clarify system.  
+The highest average, minimum and maximum of daily measurements of DO saturations were recorded 
+in the inlet chamber at 96%, 85% and 106%, respectively. Dissolved oxygen in the inlet chamber showed 
+a similar drop to other locations during the summer of 2022 when water temperatures were the highest 
+(Figure 19, lower panel) but stabilised from October 2022 until March 2023. After this point, 
+concentrations increased and stabilised until the end of the production.  
+ 
+ 
+29 
+ 
+ 
+Figure 19 Realtime measurements of the water quality parameters in the Andfjord pool system: daily averages of 
+dissolved oxygen saturation (%). In the top panel probes marked with “Pool 1 – 13 m” are located close to the inlet 
+chamber, “Pool 28-40 m” are in front of the outlet chamber, “Seaguard 1 pool 14 – 27 m” is located close to the 
+outlet chamber. Lower panel shows dissolved oxygen measured in inlet and outlet chamber. 
+ 
+ 
+30 
+ 
+Carbon dioxide concentrations were logged from August 2022 in two locations, one in the inlet chamber 
+and the other close to the outlet (Figure 20). Measurements in the inlet chamber were available until 
+27th June 2023 while the final measurements in the pool were taken on the 20th of June 2023. The 
+average CO2 concentration in the inlet was 0.55 mg/L with minimum and maximum recorded 
+concentrations being 0.02 and 1.07 mg/L, respectively. Higher CO2 concentrations were recorded closer 
+to the outlet of the pool throughout the production cycle (Seaguard 1, Figure 9). Average CO2 
+concentrations at this point were 2.02 mg/L with minimum and maximum recorded concentrations being 
+0.65 and 8.43 mg/L, respectively. We observed a trend in increased CO2 levels in the pool over time 
+with an increase in biomass, but daily average values were still very low. Any peaks in CO2 
+concentrations in the pool were mostly related to biofouling of the probe which was confirmed by control 
+measurements with handheld instruments. For example, the maximum average daily value of 8.4 mg/L 
+CO2 that was recorded on 28th February 2023 can be contrasted with manual measurements conducted 
+three times in the period between 13th February and 7th March 2023 that showed stable CO2 
+concentrations of 2 mg/L. After probe cleaning, CO2 values always decreased to basal levels. 
+ 
+Figure 20 Realtime measurements of the water quality parameters in the system: daily averages of carbon dioxide 
+(mg/l). Probe “Seaguard 1” is located close to the outlet chamber and the “Inlet chamber” probe is located in the 
+inlet chamber. Orange x points indicate control measurements in the pool conducted with hand-held instruments. 
+pH values were measured at two locations, in the inlet chamber and close to the outlet (Seaguard 1, 
+Figure 21). Measurements in the inlet chamber were available until 27th June 2023 while the final 
+measurements in the pool were taken on the 20th of June 2023. pH in the outlet was not included in the 
+analysis as it was not operational. In addition, control measurements were conducted in the middle of 
+the pool using a handheld instrument and pH probe (see section 4.9.3). pH values in the inlet increased 
+steadily during the production cycle from 8.3 in June 2022 to 8.8 in June 2023. The average measured 
+pH in the inlet chamber was 8.6 with minimum and maximum values of 8.3 and 9.5, respectively. 
+Observed peaks in inlet pH were related to the probe drying out (18th – 19th April 2023) and most likely 
+biofouling as values returned to basal levels after the sensors were cleaned (17th – 23rd May 2023). pH 
+values measured in the pool were always lower compared to the inlet values. pH measurements in the 
+pool close to the outlet were less stable than elsewhere, with average daily pH values of 7.6 and 
+ 
+31 
+ 
+minimum and maximum values of 6.3 and 8.2, respectively. Sporadic control measurements at both 
+positions were higher compared to real time measurements in 86% of measurements with differences 
+between 0.2 and 0.6 (Figure 21). Seaguard pH measurements showed much larger oscillations 
+compared to inlet measurements. Data auditing showed that in many cases this variation can be 
+contributed to the biofouling as the values returned to the previous levels after cleaning.  
+ 
+Figure 21 Realtime measurements of the water quality parameters in the system: daily averages of pH. Probes 
+“Seaguard 1” is located close to the outlet chamber and “Inlet chamber” is in the inlet chamber. Orange and purple 
+X points indicate control measurements at inlet chamber and pool respectively, carried out with hand-held 
+instruments. 
+Although several turbidity probes for real-time monitoring were placed in the system, only data from the 
+Seaguard 1 probe are included in this report. Turbidity measurements from this probe were available 
+between 16th August 2022 and 20th June 2023. Other probes were not operational. Control turbidity 
+measurements were carried out throughout the production cycle (Figure 22). During the first six months 
+of the production cycle, real-time turbidity measurements showed very high variation and several peaks 
+were observed. Peaks were more frequent and with higher maximum values at the start of the production 
+cycle and decreased in frequency and value towards the end of the year. In particular, the values were 
+extremely high in the first week of sensor deployment in August 2022 (above 126 FTU). In contrast to 
+this, control measurements reported low and stable turbidity values in the system. In 2023, real-time 
+turbidity values were stable and mainly in synchrony with control measurements (Figure 22). Average 
+real time turbidity in 2023 was 0.98 FTU with minimum and maximum values of 0.03 and 5.74 FTU, 
+respectively. Weekly to bi-weekly control measurements of turbidity averaged 0.75 FTU with minimum 
+and maximum values of 0.35 FTU and 1.4 FTU, respectively.  
+ 
+ 
+32 
+ 
+ 
+Figure 22 Realtime measurements of the water quality parameters in the system: daily averages of turbidity. The 
+“Seaguard 1” probe was located in the pool, close to the outlet. and the “Inlet chamber” probe was in the inlet 
+section through which the water flowed before entering the pool. Red X points indicate control measurements done 
+with hand-held instruments. 
+Total gas pressure was measured in the inlet chamber of the pool between 27th June 2022 and 5th of 
+February 2023. In addition, control measurements were conducted in the inlet using handheld 
+instruments between June and December 2022 and from March until June 2023 (Figure 23). Real-time 
+measurements decreased over time and showed a large variation over time. Average, minimum, and 
+maximum values recorded were 93%, 88% and 96%, respectively. Control measurements were higher 
+compared to real-time values for most of the measurement period. The same trend of reduced TGP was 
+observed from June 2022 to December 2022, while control measurements showed higher TGP values 
+from March 2023 onwards (Figure 23). 
+ 
+33 
+ 
+ 
+Figure 23 Realtime measurements of the water quality parameters in the system: daily averages of total gas 
+pressure (%). Probe “Inlet chamber” is in the inlet chamber. Red X points indicate control measurements done with 
+hand-held instruments. 
+Water samples were taken from the pool for measurements of TAN and NO2- weekly or bi-weekly during 
+the production cycle. TAN concentrations were on average 0.2 mg/L with maximum concentrations of 
+0.5 mg/L. Measured NO2- concentrations were on average low at 0.01 mg/L with maximum 
+concentrations of 0.06 mg/L (Figure 24.). There was a trend for increasing TAN and NO2- levels from 
+March 2023 to June 2023. 
+ 
+Figure 24 Control measurements of total ammonia nitrogen (TAN, mg/L) and nitrite (NO2-, mg/L) in the Andfjord 
+pool system done at the on-site laboratory by Andfjord Salmon personnel. Dashed lines indicate the lower 
+measuring range limits of the test kits used. 
+ 
+34 
+ 
+5.2 
+Fish welfare documentation – group and individual outcome based OWIs 
+5.2.1 
+Group level Outcome based OWIs  
+The daily mortality rate, compared with the colour coded daily mortality rate scoring levels from Laksvel 
+(Nilsson et al., 2022), is shown in Figure 25. For the most part the daily mortality rate is at score level 0 
+or 1, with some episodic occurrences of score level 2. There were two instances of score level 3: one 
+following stocking and one high mortality event near the end of October 2022. 
+ 
+Figure 25 Daily mortality rates in the Andfjord Salmon system from the day after stocking (June 26th, 2022) until the 
+day before the first harvest (June 28th, 2023). Colour codes correspond to Laksvel daily mortality score levels 
+(Nilsson et al., 2022). 
+The weekly mortality rate, compared with the weekly mortality rate scoring levels from Laksvel (Nilsson 
+et al., 2022), is shown in Figure 26. The weekly mortality rate scoring levels are generally at 0 or 1, but 
+the episode in October 2022 resulted in a weekly mortality rate score of 2. 
+ 
+35 
+ 
+ 
+Figure 26 Weekly mortality rates in the Andfjord Salmon system from the day after stocking until stocking (June 
+26th, 2022) until the day before the first harvest (June 28th, 2023). Colour codes correspond to Laksvel weekly 
+mortality score levels (Nilsson et al., 2022). 
+ 
+ 
+ 
+36 
+ 
+The monthly mortality rates compared with the monthly mortality rate scoring levels from Laksvel 
+(Nilsson et al., 2022), are presented in Table 5. Only mortality rates from complete months are included 
+(i.e., June 2022 and July 2023 are excluded). For all months the mortality rate score was 0, with the 
+exception of October 2022, for which it was 1. 
+Table 5 Monthly mortality rates in the Andfjord Salmon system from the month following stocking (July 2022) until 
+June 2023. Colour codes correspond to Laksvel daily mortality score levels. 
+Month and year 
+Mortality rate (%) 
+July 2022 
+0.10% 
+August 2022 
+0.25% 
+September 2022 
+0.26% 
+October 2022 
+0.42% 
+November 2022 
+0.27% 
+December 2022 
+0.22% 
+January 2023 
+0.14% 
+February 2023 
+0.11% 
+March 2023 
+0.12% 
+April 2023 
+0.15% 
+May 2023 
+0.14% 
+June 2023 
+0.19% 
+ 
+The daily cumulative mortality (including sampled fish without signs of disease) as a percentage of the 
+initial number of stocked fish is shown in Figure 27. On the 20th of December 2022, the cumulative 
+mortality rate passed 1.6% and nearing the end of June 2023 approached 2.5%. Similarly to the daily 
+and weekly mortality rates shown in Figures 25 and 26, there are steep increases following stocking and 
+after the higher mortality event near the end of October 2022. Otherwise, there is a near constant 
+increase in cumulative mortalities.  
+ 
+ 
+37 
+ 
+ 
+Figure 27 Cumulative mortalities (included sampled fish without signs of disease) as a percentage of the initial 
+number of stocked fish from the day following stocking (June 26th) until the day before the first harvest (June 28th, 
+2023). 
+The numbers of mortalities assigned to the 5 most common causes are listed in Table 6. Mortalities 
+caused by injury/trauma collectively accounted for 55% of total mortalities (2 857 individuals) from July 
+2022 through July 2023, while emaciation accounted for 11% (579 individuals). The total number of 
+mortalities excluding the sampling of fish without signs of disease was 4 933, or approximately 2.5% of 
+the initially stocked number. The number of fish sampled for various purposes, that did not exhibit signs 
+of disease, was 583. 
+Table 6 Total mortalities from July 2022 through July 2023 grouped by cause, highlighting the top 5 assigned 
+courses for mortalities. 
+Mortality cause 
+Number 
+% of total 
+Injury unspecified/unknown cause 
+2255 
+43 
+Other cause unspecified 
+768 
+15 
+Handling damage unspecified 
+602 
+12 
+Sampling of fish without signs of disease 
+583 
+12 
+Emaciation unknown cause 
+579 
+11 
+Remainder (non-top 5 causes) 
+729 
+7 
+Total 
+5516 
+100 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+ 
+The monthly number of mortalities assigned to each of the five most frequent causes are outlined in 
+Figure 28 below. 
+ 
+Figure 28 Monthly mortality numbers per each of the five most frequently assigned causes of death and the number 
+of mortalities assigned to other causes, from June-July 2022, through July 2023. The numbers for June and July 
+2022, were added together. 
+ 
+Temporal developments and changes in daily feed delivery (% of biomass) are shown in Figure 29 (in 
+addition to average daily water temperature in the pool inlet). There was a steady increase in feed 
+delivery from the time of stocking until the beginning of September 2022, where a maximum feed 
+delivery of just under 2.5% was achieved. The steep increase in feed delivery in mid-July 2022 was 
+likely a consequence of reducing the pellet sinking rate (18th-21st July 2022 onwards). From the 
+beginning of September until the end of 2022, there was a decline in feed delivery, ending at around 
+0.5%. The feed delivery remained mostly at that level until harvest in June 2023.  
+ 
+ 
+39 
+ 
+ 
+Figure 29 Daily feed delivery (% of biomass) and average water temperature in the pool inlet from the day following 
+stocking (June 26th, 2022) until the day before the first harvest (June 28th, 2023). 
+ 
+Where possible, behaviour was monitored twice daily at both high and low water using a simple 
+behavioural OWI toolbox that documented fish group structure, any dense clumping behaviours, the 
+vertical and horizontal utilisation of the pool by the fish, and any incidences of fleeing/panic behaviour. 
+Daily appetite was also scored according to Laksvel (Nilsson et al., 2022) as were overall impressions 
+of daily surfacing and jumping activity of fish in the pool. Behavioural monitoring commenced three 
+weeks after fish were transferred to the pool, so the initial pool acclimation behaviours have not been 
+recorded. However, some general observations were made by farm staff and fish health services during 
+this early stocking period, and these are outlined below. 
+ 
+The grouping structure of the fish in the Andfjord K0 pool was relatively consistent at both low and high 
+water throughout the production cycle (see Figure 30). No erratic swimming was noted during any of the 
+low and highwater observation periods. The dominant observed behaviour was loose schooling for the 
+majority of the production period, followed by some periods mixed behaviours (including both schooling 
+and erratic behaviour). No dense clumping behaviour or fleeing/panic behaviour was noted during any 
+of the daily observation periods from mid-July 2022 until slaughter in late June/July 2023. Where 
+potential fish sensitivity to the ROV lighting in late October 2022 led to short-term panic in some fish and 
+a short-term increase in associated mortalities, remedial action was taken to ensure this unfortunate 
+occurrence was short-lived and corrected for.   
+ 
+ 
+40 
+ 
+ 
+Figure 30 Outlining the different group structuring behaviour shown by the fish in the Andfjord pilot pool at both low 
+and high water. Group structure was scored as either: 1 = erratic swimming, 2 = mixed behaviours, 3 = loose 
+schooling or 4 = uniform circular schooling 
+ 
+Andfjord Salmon staff and Fish Health Services reported that the transfer of the fish to the pool went 
+smoothly and whilst it took some time for the fish to get used to the pool, their horizontal distribution 
+became more uniform after the first week and fish gradually started to spread towards the centre of the 
+pool. Farm staff noted that the fish did gather in shaded areas around the pool during periods of stable 
+good weather and high sunlight immediately following smolt transfer, but this behaviour subsided in the 
+weeks following transfer. From early July 2022, the horizontal distribution of fish in the pool at both low 
+and high water was stable for the rest of the entire documentation period and the majority of fish were 
+evenly distributed throughout the pool. The vertical distribution of the majority of the fish became stable 
+two months after smolt transfer at both low and high water, and fish generally distributed themselves 
+down to 20 m until mid-November 2022. Between mid-November and start of January 2023 fish 
+generally distributed themselves down to 15 m, and from January 2023 to slaughter fish mostly 
+distributed themselves down to 20 m once again, see Figure 31. 
+ 
+ 
+41 
+ 
+ 
+ 
+ Figure 31 Outlining variability in the depth distribution of fish in the Andfjord pilot pool at both low and high water 
+each day. Depth distribution was scored as either: 1 = Most fish in top 5 m of the water column, 2 = Fish distributed 
+down to 10 m, 3 = Fish distributed down to 15 m, 4 = Fish distributed down to 20 m. 
+ 
+Appetite as an OWI was scored according to Laksvel (Nilsson et al., 2022) and has been generally good 
+from mid-July 2022 and throughout the rest of the documentation period until slaughter. Before mid-July 
+2022 Fish Health Services reported appetite to be somewhat lower than what they would expect in a 
+traditional cage, and this was remedied by an adjustment to the feed to reduce the sinking rate of pellets 
+to give the fish longer access to the feed before it sank to the pool substrate (see section 4.5 for details).  
+The challenges related to the sinking rate of the pellets contributed to around 50% of the daily appetite 
+observations in July 2022 being recorded as somewhat reduced compared to expectations (see Figure 
+32). After this change in pellet sinking rate, nearly all daily reported data stated the fish had a high 
+appetite (Laksvel score 0), as expected per given size and temperature until mid-October 2022 where 
+there was some minor variability and appetite on some days were scored 1. No observations of Laksvel 
+appetite score 3 (low appetite compared to expectations) were made throughout the study. Only 5 
+observation days reported that the fish had a clear reduction in appetite compared to expectation, three 
+of these days occurred during the first six weeks after smolt transfer and two following the turning on of 
+underwater lights in November 2022.    
+   
+ 
+42 
+ 
+ 
+ Figure 32 Outlining daily appetite as scored by Laksvel (Nilsson et al., 2022). Appetite was scored as either: 0 = 
+High appetite, as expected per given size and temperature, 1 = Somewhat reduced appetite compared to 
+expectations, 2 = Clear reduction in appetite compared to expectation, 3 = Low appetite compared to expectation. 
+ 
+Observations of daily fish surface activity were also included in the behavioural OWI toolbox and there 
+was a period in August 2022 where surface activity increased, corresponding to a period when Caligus 
+elongatus infection pressure increased in the pool (to ca. 1.4 lice/fish in week 32). During this period, 
+surface activity was scored as high for a little over a week (see Figure 33). Although this infection level 
+is often not treated in open cage production systems (C. Thomassen, pers. comm.) a decision was taken 
+to treat the fish with an in-feed slice treatment from 16th – 24th August 2022 and levels then decreased 
+to 0.5 lice/fish in week 34. The daily surface activity index also decreased after the in-feed slice treatment 
+to a consistent level 1 (some jumping) from September 2022 until the end of the reporting period, with 
+the exception of a short, three-day period at the start of April 2023 where no surface activity was noted 
+during observation periods. 
+ 
+ 
+Figure 33 Outlining daily surface activity as estimated by farm staff. Surface activity was scored as either:  0 = No 
+jumping;1 = Some jumping; 2 = A moderate amount of jumping; 3 = A high amount of jumping. 
+ 
+ 
+43 
+ 
+5.2.2 
+Individual level Outcome based OWIs 
+It should be noted that the fish were crowded, hand netted, lifted out of the water, 
+anaesthetised/euthanised before being inspected for injuries in lice counting tanks and this procedure 
+can also be responsible for some of the injuries that are detected on the fish, as both the netting 
+procedure (Barthel et al., 2003) and mesh size (Moltumyr et al., 2022) can contribute to e.g., fin injuries. 
+Morphological outcome-based OWI data is summarised in Figures 34A, 34B and 34C below.   
+ 
+Figure 34A Presenting the number of fish affected by each Laksvel OWI level ca. 2.5 weeks prior to seawater 
+transfer (T-1, last sample from the hatchery phase) and ca. 1 week after smolt transfer (T0, first sample from the 
+Andfjord pool stocking phase). Different colour bars correspond to different Laksvel score levels (see legend).  Y-
+axis = OWI category, x axis = number of fish in each sample. 
+ 
+ 
+44 
+ 
+ 
+Figure 34B Presenting the number of fish affected by each Laksvel OWI level from seawater transfer until mid-
+December 2022. Different colour bars correspond to different Laksvel score levels (see legend).  Y-axis = OWI 
+category, x axis = number of fish in each sample. 
+ 
+ 
+ 
+45 
+ 
+ 
+Figure 34C Presenting the number of fish affected by each Laksvel OWI level from January 2022 until slaughter 
+during June/July 2023. Different colour bars correspond to different Laksvel score levels (see legend).  Y-axis = 
+OWI category, x axis = number of fish in each sample. 
+ 
+ 
+ 
+46 
+ 
+The injury status of the fish throughout the entire production cycle in the Andfjord Salmon pilot production 
+pool has generally been good and only 49 fish out of the 767 fish sampled exhibited any Laksvel OWI 
+indicator at level 3 (severe) and the majority of these fish were sampled in the 2 months following smolt 
+transfer.  
+For reference, during the T-1 sampling prior to seawater transfer at the hatchery (see Figure 34A) nearly 
+all fish sampled exhibited a Laksvel indicator score 0 for the majority of Laksvel morphological indicators, 
+although all fish had a fin status of 1 (minor damage). Within one week of smolt transfer (T0) the majority 
+of Laksvel OWI injuries were scored 0 or 1, meaning injuries were either mild or absent. However, there 
+was an increase in the numbers of fish with mild/moderate emaciation (ca. 10% of fish had a moderate 
+emaciation state), scale loss and eye opacity (ca. 40% of fish had moderate eye opacity and one had 
+severe opacity) and ca. 15% of fish had moderate fin damage. This can be an artefact of both the 
+physical transfer process and also adaptation of the fish after seawater transfer. Fish Health Services 
+classified the welfare status of the fish as generally good and the moderate emaciation state of 10% of 
+the sampled fish as normal following smolt transfer. 
+The T1, T2 and T3 samples were carried out ca. one, two and three months after smolt transfer (late 
+July 2022, late August 2022 and late September 2022, respectively) and a high portion of Laksvel OWI 
+injuries were scored 0 or 1, meaning injuries were either mild or absent. There was generally an increase 
+in the frequency of fish scored 0 at T1 compared to T0 (see Figure 34B). The portion of fish at T1 with 
+mild and moderate eye opacity improved following smolt transfer although one fish again had severe 
+opacity. At T2, the portion of fish with no or mild eye opacity was similar to T1 although ca. 10% had 
+severe opacity. At T3, the portion of fish with mild and moderate eye opacity improved compared to T2 
+and no fish exhibited severe eye opacity. Approximately 15% of fish had a moderate emaciation state 
+and a further ca. 15% of fish exhibited a severe emaciation state at T1. Fish Health services suggested 
+this was due to a high number of moribund fish being netted during sampling and that this figure was 
+over-representative for the population as a whole. At T2, the number of fish with a severe emaciation 
+state was lower than at T1, and at T3 only 1 fish in the sample exhibited a severe emaciation state.  At 
+T1, approximately 40% of fish exhibited moderate scale loss and >10% severe scale loss. This trend 
+can be somewhat normal following smolt transfer, and it can also be skewed by the over-representation 
+of moribund fish in the sample. At T2, the number of fish with scale loss was lower than at T1 and 
+approximately 40% of fish exhibited mild skin haemorrhaging and eye damage and ca. 50% had mild 
+gill damage. At T3, approximately 40% of fish again exhibited mild skin haemorrhaging and eye damage 
+was much reduced compared to T2, whilst ca. 50% again had mild gill damage. At T3 there was 
+generally a marked increase in the frequency of fish scored 0 compared to T2, and the number of fish 
+exhibiting OWIs classified as severe was much lower than at T2. Fish Health Services classified the 
+welfare status of the fish at T1, T2 and T3 as generally good. 
+The T4 and T5 samples were carried out ca. four and 5.5 months after smolt transfer in late October 
+and mid-December 2022, respectively. The majority of Laksvel OWI injuries were again scored 0 or 1, 
+meaning they were either mild or absent for both sampling points. No fish were scored with a severe, 
+level 3 OWI in October 2022 and only one fish was scored with a severe, level 3 OWI (fin status) in mid-
+December 2022, (see Figure 34B). With regard to T4: the portion of fish with mild and moderate eye 
+opacity slightly improved compared to T3; the number of fish exhibiting mild skin haemorrhaging 
+increase to 70% and 10% of fish also exhibited moderate skin haemorrhaging. Mild eye damage also 
+increased at T4 in relation to T3 to ca. 35%, whilst mild gill damage was apparent in ca. 75% of fish. 
+Approximately 55% of fish at T4 exhibited moderate fin damage, an increase in relation to T3. None of 
+these injury levels were classified as outside normal ranges for this time of year by Fish Health Services. 
+For T5, injury levels of the fish were very similar to T4 and there was an increase in the number of fish 
+with no skin haemorrhaging. Gill status also improved since T4. Approximately 60% of fish exhibited 
+ 
+47 
+ 
+moderate fin damage. Fish Health Services classified the welfare status of the fish at T4 and T5 as 
+generally good for that time of year. 
+The T6, T7 and T8 samples were carried out ca. 7, 8 and 9 months after smolt transfer, at the end of 
+January, February and March 2023, respectively (see Figure 34C). The majority of Laksvel OWI injuries 
+were again scored 0 or 1, meaning they were either mild or absent in T6, T7 and T8, with the exception 
+of moderate eye opacity at T7 where the frequency increased to more than 60% of fish in the sample. 
+One fish was scored with severe eye opacity at T6 and T7, in addition to two fish with severe gill damage 
+at T7. By T8 both the number of fish with moderate and severe eye opacity decreased, and no fish 
+exhibited a Laksvel OWI level 3. Fish Health Services again classified the welfare status of the fish at 
+T6, T7 and T8 as good for that time of year. 
+The T9, T10 and T11 samples were carried out ca. 10, 11 and 12 months into the production cycle, at 
+the end of April, May and June 2023, respectively (see Figure 34C). The June 2023 OWI audit occurred 
+ca. one week prior to the start of slaughtering. As with the greater part of the production cycle, the 
+majority of Laksvel OWI injuries were again scored 0 or 1, meaning they were either mild or absent 
+between T9-T11. At T9, very few fish exhibited any moderate injuries for any of the Laksvel OWIs 
+audited. At T10 in May 2023, one level 3 emaciated fish was sampled in addition to two fish with severe 
+eye opacity. At T11, just prior to slaughter, no fish exhibited level 3 (severe) injuries and the number of 
+moderate injuries was generally low with the exception of eye opacity which once again increased the 
+frequency in the sample. Fish Health Services again classified the welfare status of the fish as good for 
+T9, T10 and T11. 
+5.3 
+Fish health monitoring  
+5.3.1 
+Skin histology  
+Scoring of skin histology was carried out from T-1 to T11, and included an evaluation of skin features, 
+such as parameters for skin integrity and quality, including scoring of the epidermis surface, scale loss, 
+mucus cells and melanin. Many of the samples were of poor quality with score 2 or higher, indicating 
+moderate or major damage. Score 3 or 4 indicates damage to the epidermis that will impact other score-
+criteria, and these samples could not be used in further epidermis analyses (Figure 35 showing % of 
+fish scored for epidermis quality). It is not possible to conclude if the quality of the samples is due to 
+poor skin quality per se, or challenges and limitations with the sampling procedures. No samples from 
+T3, T7, and T10 could be scored for mucus cells due to a damaged epidermis. As stated at the start of 
+the morphological OWI section, fish were crowded, hand netted out of the water, and euthanized. This 
+procedure occurred on a platform at the side of the pool and fish were then transported to a laboratory 
+and sometimes left exposed to air before skin histology samples were taken. Potential challenges 
+associated with sampling can include fish coming into contact with each other and the netting materials 
+in the crowding/hand net, the fish transfer procedure to the lice counting tanks and transport buckets, or 
+extended air exposure after euthanasia etc. In addition, air temperature was often low and variable 
+between sampling points.  
+ 
+ 
+ 
+ 
+ 
+ 
+48 
+ 
+Epidermal quality and scale loss 
+A normal, undamaged epidermis should have a score of 0 or 1. Few samples had this score. Thirty 
+percent of the T-1 samples (from the hatchery prior to smolt transfer) had a damaged epidermis. At T0 
+and T1, most samples had severe damage to the epidermis or missing epidermis. T2 had markedly 
+fewer samples with a missing epidermis than T1 and slightly improved skin quality compared to T1, but 
+overall, the structure of the epidermis showed clear signs of damaged structures, with some samples 
+still missing the outermost layers of this tissue. All samples at T3 had missing epidermis. T4 and T5 had 
+a very similar appearance; ca. 25% of samples had a missing epidermis and 30-35% had damage to 
+the outer layer of epidermis. At T6, 70% of the samples had missing epidermis, with the remaining 30% 
+having rough or missing the outer part of epidermis. Samples from T7 were not applicable. This 
+improved slightly by T8, with 30% missing epidermis, 10% with rough or missing. This improvement was 
+not seen at T9 and T10, where 70% and ca. 75% of the samples had rough or missing outer part of 
+epidermis. At slaughter, T11, ca. 35% of the samples had missing epidermis and ca. 35% had rough or 
+missing outer part of epidermis.  
+ 
+ 
+Figure 35 Manual scoring of epidermis quality (left) and scale loss (right) and OWI scale loss at timepoint T-1 to 
+T11. Abbreviations: NA, not applicable.  
+Looking at the scale loss, T-1 to T1 had an increasing frequency of samples with no scales, especially 
+T1. T2 had a markedly better score compared to both T0 and T1. It wasn’t possible to score T3 (and 
+T7) since the epidermis was absent. At T4 and T5 sampled fish had low scale loss with 50% and 20% 
+of the samples having lost one scale. Samples at T6 and T8, 20% and 10% of samples were missing 
+less than half of the scales. At T9 this scale loss increased to 30% of the samples. From T10-T11, there 
+was a marked increase in scale loss in the samples. At T10, 90% were missing less than half of the 
+scales and 10% missing more than half. By T11, ca 50% were missing less than half of their scales and 
+ca. 35% were missing more than half of their scales. Scale loss levels, when audited as an OWI on 
+whole fish, is also presented for comparison in Figure 35. Here we see some synchronies between 
+histological observations for certain time points (e.g., T1 where the highest number of fish scored with 
+having no scales on histological samples also coincides with more severe scale loss when auditing it as 
+an OWI on whole fish), but this wasn’t always the case for other timepoints. An example image of 
+epidermis and scale loss is given in Figure 36.  
+ 
+49 
+ 
+ 
+  
+Figure 36 Examples of samples with damaged skin. A) Missing epidermis. B) Lost scale and epidermis. C) no scales 
+and no epidermis.  Missing epidermis (black arrow) and scale loss (yellow arrow). 
+ 
+Mucus amount, position and melanin content 
+Mucus amount and position was difficult to measure since the outer epidermis in many samples were 
+missing or damaged (Figure 37). Mucous cell amount and position results from T3, T7 and T10 were 
+not applicable. However, in general these samples had markedly few mucus cells in the remaining 
+epidermis at timepoint T-1 to T2, and they were located increasingly outwards to the epidermal surface, 
+and many of them were stained pink. At T4 and T5, mucus cell numbers seemed more normal, with 
+better distribution in the epidermis and more mucus cells in general. T6, T8, T9 and T11 also had a 
+more normal mucus cell amount with an even distribution of these cells in the epidermis, exept for T6, 
+where the majority of the mucus cells were localized in the outer border of the epidermis. Example 
+images are given in Figure 38. 
+ 
+ 
+ 
+Figure 37 Manual scoring of mucus amount (left) and position (right) at timepoint T-1 to T11. Abbreviations: NA, not 
+applicable due to damaged epidermis. 
+ 
+50 
+ 
+ 
+Figure 38 Example of skin with intact epidermis where mucus cells (dark blue) may be scored (left), and damaged 
+skin with low quality epidermis where scoring of mucus cells may be biased (right) and are therefore excluded from 
+the analyses.  
+Melanin levels differed between sampling points, with more melanin in T1 compared to T-1, T0 and T2. 
+Almost 70% of the samples were given the highest score for melanin at this sampling point (Figure 39). 
+Due to the absent epidermis and sample quality, T3 and T7 were not scored. Less melanin was found 
+at sampling points T4-T6 but at T8 melanin levels increased again. At T9-T10, the samples were more 
+normal and large clusters of melanin could not be seen in any of the samples analyzed. At T11, just 
+prior to slaughter, the melanin amount was again low, with 50% of the samples having only little melanin 
+along the basement membrane.  
+ 
+ 
+ 
+Figure 39 Manual scoring of melanin at timepoint T-1 to T11. Abbreviations: NA, not applicable. 
+ 
+51 
+ 
+5.3.2 
+Gill health  
+Gill health was assessed by Patogen AS as generally good at all timepoints (T0-T11) (note: there were 
+no comments on gill histology from T0, accept from “other findings were assessed as not significant”) 
+with mainly slender and independent lamellae observed. According to Patogen AS, only a few or sparse 
+changes in gill histology were observed during the reporting period. At T1 a few gill lamellas exhibited 
+sparse inflammations, which increased at T2 (very sparse in 7 of 10 samples, and sparse inflammation 
+in 3 of 10 samples). In addition, at T2, findings relating to microsporidian infection with Paranucleospora 
+theridion (2 of 10 samples) and closed lamellar hemorrhages/aneurisms (in 3 of 10 samples) were 
+observed. At T3 sparse inflammatory changes and aneurisms were observed, followed by T4 where all 
+gills showed inflammatory changes, with hyperplasia and clubbing, and in a few samples there were 
+very sparse aneurisms. These findings were suggested to be due to weak vessel structure or blood 
+pressure changes. Gills from T5 had sparce epitheliocysts and inflammation and Patogen stated 
+“corresponding changes have often been seen by simultaneous detection of Branchiomonas cysticola 
+on PCR”. The changes related to Branchiomonas persist throughout the remainder of the production 
+cycle with a few samples at each timepoint (T6-T11). At T6 (2 of 10 samples) and T7 (4 of 10 samples) 
+possible gas embolisms were detected, but this was not diagnosed further. In addition, at T7 and T8 gill 
+irritation resembling irritation that can be caused by jellyfish were seen in 2 of 10 samples. In addition, 
+at T8 3 of 10 samples had mild hyperplasia related to Parvicapsula. At T9, 1 of 10 samples were infected 
+with Costia (Ichthyobodo spp.), but without any pathological changes related to this. By T10, 2 of 10 
+samples had pathological changes related to Costia detection.  
+ 
+Figure 40 Example image of good gill health from T4. (Image reproduced with permission from Patogen AS.) 
+5.3.3 
+Nephrocalcinosis 
+Nephrocalcinosis scoring was carried out by Fish Health Services in tandem with OWI scoring (see 
+Figure 41 below). Kidney samples were also analyzed by Patogen AS from timepoints T-1 – T11. The 
+STONEHUNT scoring results can be summarized as follows. For T-1: Most of the fish had no sign of 
+nephrocalcinosis at this timepoint, only a few fish exhibiting calcification in the kidney. For T0: most of 
+the fish had very mild macroscopic nephrocalcinosis changes, and histological findings indicate good 
+prognoses for regeneration. For T1 and T2: Most had mild nephrocalcinosis. For T3: Individuals were 
+still observed with changes in the kidney that indicate prior nephrocalcinosis. At T4: Changes were 
+observed that are often seen after undergoing nephrocalcinosis. For T5 to T7: there was a mild degree 
+of nephrocalcinosis/kidney inflammation. Further, from T8 to T10 there seemed to be a slight 
+improvement, where all sampled fish only had minor changes in the kidney. At T11 only 50% of the 
+sampled fish had mild symptoms and the rest had none.  
+ 
+52 
+ 
+Nephrocalcinosis was detected histologically in 4 of 10 and 2 of 10 samples from T0 and T1, 
+respectively. At T0 the basophilic deposits were only limited to tubules and the collecting duct of the 
+kidney, making the prognosis for regeneration post seawater transfer considered as good. From T1 to 
+T5, there were observed chronic inflammatory changes, fibrotic inflammation, degeneration, and 
+necrosis (T1, 5 of 10 samples. T2, 3 of 10 samples. T3, 6 of 10 samples. T4, 7 of 10 samples. T5, 5 of 
+10 samples) in the kidney that was considered a result of the previous Nephrocalcinosis diagnosis. 
+These observations were persistent throughout the rest of the production period, with only a few fish 
+suspected to have Nephrocalcinosis (2 of 10 samples at T9). By timepoint T10 and T11 no samples 
+showed signs of ongoing or previous Nephrocalcinosis. The histopathology score suggests that the OWI 
+score does not distinguish between either an ongoing or historical diagnosis, making a histopathological 
+examination necessary for diagnosing the condition. 
+ 
+Figure 41 Results from Nephrocalcinosis scoring from T-1 (6th June 2022, prior to smolt transfer), T0 (1st July 2022, 
+ca. 1 week following smolt transfer) to T11 (ca. monthly thereafter until end of June 2023). Nephrocalcinosis scored 
+according to the STONEHUNT protocol (figure produced using data courtesy of Åkerblå AS).  
+ 
+53 
+ 
+ 
+ 
+Figure 42 Basophilic deposits in kidney from T1 (image produced with permission from Patogen AS). 
+ 
+5.3.4 
+Pathogen screening 
+Fish from T0-T11 were categorized with suspected heart- and skeletal muscle inflammation (HSMI), 
+with positive results for Piscine orthoreovirus 1 (PRV-1) in 80%-100% of samples throughout the 
+production cycle. Any detected Infectious Pancreas Necrosis virus (IPNV) was due to the inactivated 
+vaccine component of IPNV. The PCR analysis detected three different parasites: Paranucleospora 
+theridion at timepoints T4 and T5, Parvicapsula pseudobranchicola from timepoint T6 to T11 and 
+Ichthyobodo salmonis from timepoint T8 to T11. Bacterial infection from Candidatus Branchiomonas 
+cysticola was also detected from timepoint T6 to T11.  The detection of these pathogens did not have a 
+clinical impact on the overall health situation in the pool, which was classified by fish health services as 
+either good or not requiring attention at all sampling points. An overview of the screening results is 
+shown in Table 7. 
+Table 7 Results from pathogen screening with PCR from T0 (1st July 2022, ca 1 week following smolt transfer) and 
+T1 – T11 (ca. monthly thereafter until late June 2023) shown as percent of samples. (Table produced using data 
+courtesy of Patogen). 
+ 
+ 
+ 
+ 
+54 
+ 
+5.4 
+Production performance monitoring and lice pressure 
+The values for key performance metrics are given in Table 8. SGR (%) and TGC values are given for 
+the period between sampling dates, except for the last row which gives aggregate values for the 
+evaluated period from July 1st, 2022, until June 21st, 2023. Both growth metrics and the K-factor 
+increased from stocking and peaked during autumn, before declining towards December 2022. The 
+maximum average K-factor recorded was 1.44, the maximum SGR was 2.33%, and the maximum TGC 
+was 6.31. The maximum estimated biomass density prior to harvest was 22.2 kg/m3. 
+Table 8 Weight (g) (average ± standard deviation), K-factor (average ± standard deviation), SGR (%), TGC, and 
+biomass density (kg/m3) values estimated from weight and length sampling done during welfare scoring. The dates 
+for these samplings are given in the first column. The overall values are calculated for the period from July 1st 2022 
+until June 21st 2023. 
+Date 
+Weight (g) 
+K-factor 
+SGR (%) 
+TGC 
+Density (kg/m3) 
+01.07.2022 
+102.33 ± 22.73 
+1.03 ± 0.09 
+ 
+ 
+0.7 
+29.07.2022 
+139.51 ± 38.92 
+1.09 ± 0.20 
+1.11 
+2.13 
+0.9 
+25.08.2022 
+260.10 ± 73.50 
+1.17 ± 0.12 
+2.33 
+3.81 
+1.5 
+29.09.2022 
+572.10 ± 155.60 
+1.44 ± 0.32 
+2.28 
+5.01 
+3.8 
+27.10.2022 
+984.66 ± 159.28 
+1.37 ± 0.10 
+1.96 
+5.53 
+6.6 
+12.12.2022 
+1271.57 ± 199.85 
+1.13 ± 1.13 
+0.56 
+2.27 
+8.5 
+26.01.2023 
+1667.43 ± 344.74 
+1.07 ± 0.07 
+0.60 
+3.90 
+11.1 
+28.02.2023 
+1884.57 ± 344.76 
+1.09 ± 0.08 
+0.37 
+2.76 
+12.5 
+25.04.2023 
+2753.43 ± 336.85 
+1.18 ± 0.07 
+0.67 
+6.31 
+18.2 
+23.05.2023 
+2860.17 ± 493.36 
+1.18 ± 0.07 
+0.14 
+1.05 
+18.3 
+21.06.2023 
+3369.50 ± 648.93 
+1.23 ± 0.14 
+0.55 
+4.02 
+22.2 
+Overall 
+ 
+ 
+0.98 
+3.64 
+ 
+ 
+Estimates generated by and retrieved from the Mercatus Farmer software indicated an EFCR of 1.05 
+and a BFCR of 1.04. 
+There were on average 0.02 adult female Lepeophtheirus salmonis counted per fish during the October 
+sampling, 0.01 adult females counted per fish during the December sampling, and 0.03 adult females 
+counted during the February sampling. There were on average 0.01 attached stage Lepeophtheirus 
+salmonis counted per fish during the October sampling. The total number of Lepeophtheirus salmonis 
+counted throughout the production cycle was 4. The number of Caligus elongatus counted per fish on 
+average throughout the samplings is shown in Figure 43.  
+ 
+55 
+ 
+ 
+Figure 43 The number of Caligus elongatus counted divided by the number of fish in each sample. The number of 
+fish in each sample is given on top of the bars. 
+ 
+5.4.1 
+Slaughter quality 
+A total of 1400 fish (taken from 14 different NBS 10-01 ‘100-fisk kontroll’ inspections) were randomly 
+sampled and checked on the slaughter line. 7.2% of these were classified as Production grade due to 
+the presence of ulcers and 2.6% due to errors during slaughtering. Only 1 fish (0.07%) was classified 
+as production grade due to melanin spots. The listed causes for downgrading to Production grade and 
+their proportions of the total amount of fish checked during random sampling (‘100-fisk kontroll’ 
+inspections) are shown in Figure 44. The final proportion of Superior grade following an in-depth 
+assessment of all fish delivered was 90.4%. 
+ 
+ 
+56 
+ 
+ 
+Figure 44 Results from the manual assessment of 1400 randomly sampled fish during ‘100-fisk kontroll’ inspections, 
+outlining the main drivers for downgrading fish to production grade at slaughter. 
+ 
+ 
+57 
+ 
+6 Discussion 
+As stated earlier in this report, in many cases knowledge on how to select and apply appropriate, fit for 
+purpose OWI and LABWI toolboxes for documenting aspects of fish health and welfare in new and 
+emerging aquaculture systems is currently lacking. An aim of the Andfjord Salmon documentation 
+project was therefore to use a wide-ranging and comprehensive suite of OWIs/LABWIs to document the 
+possible effects of the rearing system and its operations upon aspects of the welfare and health of the 
+fish it produces. 
+6.1 
+Fish welfare documentation  
+6.1.1 
+Input-based water velocity and water quality OWIs  
+The Andfjord Salmon system design anticipated low water velocities in the range of ~1 cm/s that could 
+potentially affect swimming behaviour, distribution of the fish and water quality in the system. In order 
+to address those concerns, an extensive profiling of water velocity both vertically and horizontally was 
+carried out in the system without and with fish. In the system without fish, average velocity for three 
+profiles were in the range of expected, ca. 1 cm/s. The lowest average velocities were recorded in the 
+middle of the system, furthest from the potential positive effect of inlet and outlet formations. The highest 
+velocity measurements were reported close to the location of the two outlets (10 and 30 m from the 
+eastern reference wall of the pool) that likely created vortexes extending at least 3 m into the system 
+where measurements were done. At those points, velocity was almost 3 times higher compared to other 
+measurements in the system. Similar observations are made for large commercial circular and octagonal 
+tanks where peak velocities were related to central bottom drains in the tanks (Gorle et al, 2018). 
+Interestingly, the water velocity in the system was not reduced by introduction of fish to the system. On 
+the contrary, the average velocities (averaged cross-sectionally) had increased by two to six times in 
+both profiling events completed after the introduction of fish. Again, the peak velocities were related to 
+the vicinity of the system outlet and at greater depths. There were also one or two ROV observations 
+during regular cleaning and inspection of the system of fish seeking out potentially higher water 
+velocities near the tank outlets during autumn 2022 and these were not observed afterwards. Since 
+then, fish started to form loose schools (see behavioural section below) and two distinct schools were 
+often observed swimming in opposite direction from each other in the system (C. Thomassen personal 
+communication). One of the potential reasons for different velocities between two samplings was that 
+during measurements in the system without fish, the pumps were running at 90% capacity. This could 
+have led to slightly lower measured water velocities. The measurements were done at slightly different 
+time points relative to the lunar cycle and differing ocean water levels may have affected velocities within 
+the tank, and this could possibly have been exacerbated by varying water current characteristics near 
+the Andfjord water intake. Furthermore, experimental evidence suggests a potential for fish schools to 
+increase water velocities around them (Park et al., 2022) and it was also noted that fish began to 
+consistently form loose schools from late October 2022 (see Figure 30). 
+Dissolved oxygen saturation, when measured at all 20 points within system, with and without fish, was 
+above 85%. Minor stratifications in oxygen levels were observed close to the outlet in the system without 
+fish, where the lowest values were recorded closest to the surface and the highest at 15 m depth. This 
+could have been correlated with the minor temperature stratification at the same locations where the 
+highest temperatures were measured at 1 m depth. In the second water profiling event in September 
+2022, we recorded lower average dissolved oxygen saturation 3 m from the tank outlet (92.1%) 
+compared to measurements done the day earlier at the same time 3 m from the inlet chamber (97.0%). 
+This was most likely a consequence of the sharp temperature drop (3 °C difference in average 
+temperature) from one day to the other. Considering the temperature ranges recorded during profiling 
+and daily averages of real-time measurements, oxygen values were always within limits corresponding 
+to a low risk of decreased fish welfare, as indicated by Remen et al., (2016) and Nilsson et al., (2022). 
+ 
+58 
+ 
+The availability of real-time oxygen measurements allowed for an improved and timelier overview of the 
+environmental conditions the fish were exposed to during production. A closer look at the daily average 
+oxygen saturations showed correspondence between inlet values and values recorded in the system 
+and outlet chamber during first two months of the production. This trend was well aligned with the 
+increase in temperature that occurred over the same time period. It was also clear that the difference 
+between inlet oxygen and oxygen recorded in the system increased somewhat as biomass increased. 
+From September until the end of October 2022, recorded values at all locations were more uniform. 
+During this period, oxygen saturation stabilised in the inlet and as the temperature continued to decrease 
+together with feeding delivery, this has affected oxygen use and with it the measured values in the 
+system. For the remainder of the production period, dissolved oxygen saturation levels somewhat 
+decreased whilst mostly remaining above 80%. There was also a tendency toward greater spatial 
+variation in saturation levels and a greater divergence between inlet and outlet saturation levels. This 
+follows from the increased oxygen demand within the system due to an increasing biomass metabolising 
+a higher amount of feed over time. 
+The total gas pressure levels measured in the inlet chamber were generally below 100%. However, the 
+control measurements indicated incidences of total gas supersaturation, with levels up to 107.5%, both 
+in July and August 2022, and in April 2023. To what extent this has affected the fish is unclear. Fish 
+exposed to gas supersaturated water may develop emphysemas in tissues and emboli in the blood, a 
+condition known as gas bubble disease which easily becomes fatal. Clear threshold levels for Atlantic 
+salmon in seawater are seemingly not available, but symptoms and mortalities have been seen in wild 
+smolts from total dissolved gas levels of about 108% (Stenberg et al., 2022). The depth of the Andfjord 
+production tank gives the fish a possibility to compensate for surface gas supersaturation by staying low 
+in the water column (Weitkamp and Katz, 1980), but the extent to which they would do this is unclear. 
+As total gas supersaturation meters may need a long time to equilibrate and perform good readings, 
+erroneous measurements or calibration cannot be ruled out. 
+During the first production cycle, the average daily temperature in the system was between 4 and 12 °C. 
+From late October 2022, and through to just prior to harvest, the temperatures were below 7 °C and 
+corresponded to levels nearly outside (yellow code in Laksvel) or just outside (orange code in Laksvel) 
+of the optimal range for post-smolt salmon (Nilsson et al., 2022). The experienced temperature range in 
+itself doesn’t indicate that salmon’s welfare is reduced, but that the risk for welfare issues such as winter 
+ulcer, is increased (Nilsson et al., 2022). Temperature profiling of the system with and without fish 
+showed low variation between all 20 points measurements. The temperature preference of Atlantic 
+salmon has been documented as a driver for its behaviour and distribution (Oppedal et al., 2011). The 
+uniform temperature in the system allows for uniform distribution of salmon in the system which is what 
+has been reported during a large part of the production cycle. Associations between daily average 
+temperatures, oxygen saturation and feed delivery are discussed above. A sharp, intermittent drop in 
+temperature of about 2.7 °C occurred during mid-September 2022 as seasonal temperatures started to 
+decrease. The driver for this is unknown, but as it was picked up by multiple sensors and also during 
+water quality profiling carried out by Nofima, it could not have been due to sensor malfunction. In the 
+future, it would be interesting to consider historical ambient environmental data (if available) to see if 
+similar drops are observed seasonally over the years to reduce potential risks for welfare at those 
+timepoints.  
+The salinity measured during system profiling prior to fish arrival was between 33 ppt and 34 ppt. This 
+salinity can potentially be an osmotic challenge for newly smoltified salmon that prefer brackish water 
+(Nilsson et al., 2022). This could be one of the reasons for a mortality score of almost 2 (Figure 18) for 
+the weeks directly after transfer of smolts to the system, and is not specifically system related but can 
+be a potential indicator of asynchronous seawater adaptation in smolts (that can be a problem for all 
+seawater production systems). However, as stated in the group-based OWI section below, this temporal 
+ 
+59 
+ 
+pattern for generally higher post-seawater transfer mortalities is common in aquaculture and can be 
+driven by numerous factors. In September 2022, a salinity of 32 ppt was recorded in for the inlet area, 
+while the day after salinity in the outlet area was 34 ppt. The change in salinity, temperature and oxygen 
+that happened from September 14th to September 15th 2022 can indicate mixing of water in the deep 
+seawater layers from which the water is pumped into the system. Realtime salinity data were not 
+available for this period. Beyond this, both salinity and conductivity remained relatively stable through 
+the different time points. 
+A survey of large tanks operated at Norwegian commercial smolt and post-smolt sites (Summerfelt et 
+al., 2016) showed that the hydraulic retention time (HRT) in tanks in Norway has been reduced from 67-
+171 minutes since 2013 to 35-50 minutes in the tanks on land regardless of the choice of production 
+system. Low water flow and longer hydraulic retention times in general can increase the risk for 
+accumulation of carbon dioxide and ammonia in the system as the biomass grows and feed consumption 
+increases; this was one of the focal points of the documentation programme at Andfjord Salmon. 
+Realtime data for CO2 were available from a Seaguard mounted sensor from mid-August 2022. These 
+data are highly variable in time but indicate the effect of increasing biomass on the increase in CO2 
+closer to outlet while inlet concentrations remained stable throughout the production period. Control 
+measurements performed by Andfjord personnel plateau at about 2 mg/L towards the end of the 
+production cycle, which is within acceptable limits for Atlantic salmon. The results of CO2 monitoring 
+during production show that the HRT of 90 minutes in the pool was sufficient to keep low concentrations 
+of this metabolite even at highest standing biomass. Recent studies carried out in RAS have shown that 
+CO2 concentrations over 10 mg/L can affect the growth of Atlantic salmon parr (Khan et al., 2018; Mota 
+et al., 2019). There is nevertheless a paucity of information on the effects of elevated CO2 concentrations 
+on post-smolts during the seawater stage. The pH in the inlet water was relatively stable throughout 
+production. Daily average pH values do show steady increase from 8.3 to levels approaching 8.8 which 
+can also be a consequence of sensor ageing or drift over time in cases when manual calibration is not 
+possible. The inlet pH control measurements, albeit few in number, indicated a relatively stable pH at 
+levels just above 8. Contrary to the inlet measurements, the pH levels recorded by the Seaguard system 
+within the pool showed considerable oscillation in the recorded pH values over time. The control 
+measurements in the pool, taken during the spring of 2023, showed less variation, with levels ranging 
+between 7.5 and 7.8. These, accompanied by, the pH measurements done during the water quality 
+profiling events in 2022 indicate a tendency toward acidification in the pool. This is expected due to the 
+increasing CO2 levels in the tank. Nevertheless, the pH levels seemingly remained within the 7-8.5 
+tolerance range suggested for Atlantic salmon post-smolts (EFSA, 2008).  
+Turbidity values during the three profiling events that are outlined in this report were almost 
+undetectable. One of the reasons could be the fact that we tried to avoid any potential effects of feeding, 
+salmon behaviour and sludge collection on the water quality measurements (e.g., these processes were 
+paused during sampling). However, the control measurements done by Andfjord personnel were also 
+very low and stable throughout the production cycle. There is not enough available information to 
+suggest safe operating thresholds with regards to turbidity in Atlantic salmon aquaculture. To the best 
+of our knowledge, the negligible turbidity levels recorded in the Andfjord system are unlikely to indicate 
+a risk of adverse fish welfare states. The real time measurements of turbidity from the Seaguard 1 
+system were initially unrealistically high, but then fell to values seemingly corresponding to the control 
+measurements toward the end of 2022, remaining so for the rest of the production cycle. Measurements 
+of turbidity in real-time can be very demanding as the presence of light and larger particles can lead to 
+inaccurate measurements. Fouling on the sensor surface is an additional challenge and regular 
+maintenance of probes are necessary for trustworthy recordings. 
+The total ammonia nitrogen levels measured in the pool by Andfjord staff seemingly increased 
+throughout the production cycle, which is expected due to an increased biomass and feed load resulting 
+ 
+60 
+ 
+in an increase in ammonia excreted within the system, The concentrations, roughly corresponding to a 
+maximal NH3-N concentration slightly above 0.01 mg/L, are ten times lower than the levels that are 
+known to affect the fish physiologically (Knoph, 1996, Alabaster et al., 1979). The nitrite concentration 
+levels, while mostly remaining below the appropriate measuring range of the applied instrument, 
+increased slightly during the spring of 2023. This may indicate some capacity for, e.g., microbial 
+ammonia oxidation within the system. The nitrite levels seen in the Andfjord system are not known to 
+cause adverse effects on Atlantic salmon welfare. The high chlorinity of seawater also protects against 
+the uptake of nitrite in the blood (Gutierrez et al., 2019). 
+6.1.2 
+Group level Outcome based OWIs  
+The monthly mortality rates of the Andfjord Salmon system were low compared with the median mortality 
+rates for the geographical production zone in which the Andfjord Salmon system is located, denoted PO 
+10, and the adjacent zone, denoted PO 9 for the years 2021 to 2023 (Sommerset et al., 2024). The 
+temporal pattern in which a relatively higher proportion of mortalities is seen following transfer from a 
+freshwater hatchery to seawater is common. The ultimate causes for this can be related to e.g., poor 
+seawater tolerance due to improper smoltification, vaccination side effects, mechanical damage from 
+pumping and handling during grading, vaccination, or delivery during the later stage of the hatchery 
+phase, and adverse or stressful conditions during wellboat transport (e.g., Sommerset et al., 2022, 
+Iversen et al., 2005, Mutoloki et al., 2004). 
+Most mortalities in the Andfjord Salmon system seemed to have been due to trauma (injuries) with an 
+unspecified/unknown cause from October 2022 onwards. Handling damage after smolt transfer was the 
+primary cause of mortalities in June/July 2022 and other unspecified causes were the main cause in 
+August and September 2022. Another driver for mortalities at the beginning of the production cycle was 
+emaciated fish, commonly called “pinheads”. Severely emaciated fish are deemed to have poor welfare, 
+with no or little potential for growth, and are therefore commonly removed from culture units and 
+euthanised. While emaciation has been linked to diseases (e.g., McVicar, 1987; Roberts and Pearson, 
+2005), it also occurs in fish absent of known bacterial or viral infections. There are also indications that 
+it can be linked to stress during the hatchery phase or physiological problems during smoltification 
+(Sommerset et al., 2022). As such, in this case, it may be a problem inherited from the freshwater 
+hatchery and not related to any aspects of the Andfjord Salmon system or its operation. 
+Establishing the cause behind the death of an individual fish can be operationally difficult. Dead fish may 
+be in advanced states of decay, which makes discerning any signs of damage or disease impossible. 
+Often, even in recently deceased or moribund fish, there are no clear external or internal signs that may 
+reveal the cause and sophisticated diagnostic techniques can be costly and time consuming. That the 
+proportion of mortalities with unknown or unspecified causes exceeds 10% is therefore not unexpected 
+in a commercial setting. In a survey conducted among veterinary and fish health personnel in Northern 
+Norway, mechanical damage associated with salmon lice is cited as the most important source of 
+reduced welfare and mortalities, followed by Moritella viscosa and Tenacibaculum spp. bacterial 
+infections (Sommerset et al., 2022). Audits of commercial production data from the region have also 
+indicated that winter ulcer disease associated with Moritella viscosa is a considerable cause for 
+mortalities and quality downgrading (Alvestad, 2021). During this first production cycle, none of these 
+problems seem to have affected the Andfjord Salmon system to a considerable degree with mortalities 
+remaining low through the winter and until harvest. Particularly, avoiding mechanical delousing 
+treatments seems to contribute positively to fish welfare in the Andfjord Salmon system and considerably 
+reduce overall mortality risk (Sviland Walde et al., 2021, Oliveira et al., 2021, Overton et al., 2018). 
+However, more than 7% of the fish that were checked upon slaughter were downgraded due to the 
+presence of small and mostly healed ulcers on the side of the fish (C. Thomassen, personal 
+observations). As these were healed, they were unlikely to have occurred during or immediately before 
+harvest or slaughter, yet there is no clear indication of a high prevalence of ulcers found in the welfare 
+ 
+61 
+ 
+scoring data. The aetiology of these small ulcers remains unknown but could have been related to scale 
+loss and collisions between fish and the pool walls when fish jumped during surfacing activities, before 
+floating air cushions were installed around the pool (C. Thomassen, pers. comm.). 
+The daily feed delivery increased from stocking through the beginning of September and then decreased 
+toward the end of 2022, along with declining temperature and daylengths. Following the decrease, the 
+delivery remained stable around 0.5% for the remainder of the production cycle. Both the values and 
+seasonal pattern correspond with those observed by Noble et al. (2007), who found that both 
+temperature and the change in daylength significantly influenced the daily feed ration delivered by an 
+on-demand feeding system. The stable and low delivery rate through the spring of 2023 may be due to 
+the temperatures remaining low almost until harvest, not passing 7 °C before June. The dissolved 
+oxygen saturation levels recorded during production in the Andfjord system far exceed the threshold for 
+maximal feed intake for the relevant temperature range (Remen et al., 2016), so periods of reduced 
+appetite do not appear to be related to oxygen levels. Whilst artificial lighting is used within the Andfjord 
+salmon system, feed was generally administered during natural daylight or twilight hours. A short-term 
+drop in appetite was observed following the onset of artificial lighting in November 2022 and turning it 
+off in April 2023, and likely also following an incident where an ROV with mounted lamps scared the fish 
+near the end of October 2022, possibly reflecting a short-term stress induced drop in appetite. Overall, 
+however, in combination with the good growth and feed conversion rate observed, the recorded feed 
+delivery should indicate a good appetite throughout – especially when considering the novelty of the 
+system and its operation.  
+Behaviour is a valuable, if complex OWI in salmonid aquaculture (Wiese et al., 2023) and how salmon 
+behaviourally respond to their rearing environment and external stimuli can be an indicator of how they 
+have adapted to the system they are reared in. A simple behavioural OWI toolbox was developed to 
+document an array of behavioural OWIs, including: group structure; occurrences of clumping 
+behaviours; the vertical and horizontal distribution and utilisation of the pool, and any occurrences of 
+fleeing/panic behaviour. Appetite is also a valuable OWI (Stien et al., 2013) and staff impressions of 
+daily appetite were also scored according to Laksvel (Nilsson et al., 2022) in addition to their impressions 
+of daily surfacing activity.  
+Numerous studies have demonstrated that salmon in aquacultural settings distribute themselves in 
+relation to numerous environmental gradients (see e.g., Oppedal et al., 2011 and references therein). A 
+major focus of the Andfjord Salmon welfare and health documentation plan has been to document a 
+wide array of input-based environmental indicators within the pool in order to aid our understanding of 
+the spatio-temporal effects of these OWIs upon the fish and the behaviours they express. During initial 
+pool acclimation, farm staff observations noted that fish distributed themselves around the periphery of 
+the pool (thigmotaxis) and distributed themselves in the upper layers of the water column during working 
+hours, often seeking shade during the periods of direct sunlight in the first week following smolt transfer. 
+Fish rapidly adapted to the pool and within weeks their horizontal and vertical distribution at high and 
+low water observation periods was classified as stable and uniform. After pool acclimation, the fish 
+generally avoided the periphery of the rearing system unless they were moribund. From early July 2022, 
+fish exhibited a uniform and stable horizontal pool distribution, and this persisted until slaughter. Other 
+studies have reported that in open cage systems fish generally avoid the cage periphery and base 
+(Oppedal et al., 2011) and adopt a somewhat loose schooling group swimming structure. Loose 
+schooling was the dominant group structure observed during behavioural inspections at low and high 
+water and accounted for the majority of all observations. This is similar to the behaviour in cages 
+reported by Oppedal et al., (2011). The remainder of observations mostly noted mixed behaviours. 
+Incidences of large-scale uniform schooling behaviour were rare and loose schooling often involved 
+smaller scale sub-groups of fish. This may be related to the generally low water velocities within the 
+pool, as faster current speeds reportedly increase group structure and reduce structural variability (see 
+ 
+62 
+ 
+Solstorm et al., 2016 and also references therein; the experimental scale study by Solstorm et al., 2016, 
+raised Atlantic salmon post-smolts ca.  100 g, in small raceways). Nilsen et al., (2019) noted that fish 
+demonstrated mixed behaviours and a breakdown of schooling behaviours at low water velocities (ca. 2 
+cm/s) in circular sea based semi-closed containment systems (S-CCS). However, this accounted for 
+only up to ca. 15% of the observed behaviours in the Andfjord pool. Aside from isolated periods during 
+the first two months of stocking, fish generally distributed themselves down to 15 – 20 m during 
+observation periods at high and low water until the end of the production cycle. Johansson et al., (2014) 
+also reported that post-smolts often distribute themselves throughout the water column in cage 
+aquaculture at low water velocities. After underwater lighting was turned on, fish consistently distributed 
+themselves down to 15 m in the water column for ca. 2 months, at both low and high water before again 
+utilising the full depth of the pool until the end of the production cycle. The drivers of this are unclear, 
+but it has been noted in other studies that fish are attracted to underwater light sources (Juell & 
+Fosseidengen, 2004; Wright et al., 2019) and the application of underwater lighting may have led to the 
+fish adapting their depth distribution in the pool. There were some anecdotal observations of fish seeking 
+out potentially higher water velocities near the tank outlet in the month after pool stocking and this 
+behaviour receded when the lights were turned on in the pool (C. Thomassen personal observations).  
+Daily observations of the fish at both high and low water did not document dense clumping behaviour 
+or fleeing/panic behaviour. However, there was an incident where there was a case of potential fish 
+sensitivity to the ROV lighting in late October 2022. This led to short-term panic in some fish and a short-
+term increase in associated mortalities. Andfjord Salmon staff removed the ROV from use until remedial 
+action was taken (adjustments were made to the units so light intensity could be dimmed and that they 
+could also turn them off when the daily operations were concluded) and this meant this unfortunate 
+occurrence was short-lived and mitigated against. Surface jumping activity was generally low and stable 
+in the pool until an increase in Caligus elongatus levels in August 2022 where it increased for one month 
+before decreasing back to baseline levels (following in-feed slice treatment) for the remainder of the 
+production period. Other studies have also reported increased surface jumping activity in relation to 
+increase ectoparasitic pressure (e.g., Furevik et al, 1993; Samsing et al., 2015). 
+ 
+6.1.3 
+Individual level Outcome based OWIs  
+The injury status of fish in the system was closely monitored during monthly manual audits of high 
+numbers of fish in relation to the new Laksvel OWI scoring system (Nilsson et al., 2022). Individual injury 
+based OWIs were documented ca. monthly for around 100 fish once before and for 5 months post-smolt 
+transfer (T-1 to T5), before reducing the number of fish to 30 per sample until slaughter (primarily due 
+to low water temperatures during winter and spring).  
+Overall, the injury status of the fish has generally been good with the majority of injury based OWIs 
+being scored as absent or mild according to the Laksvel scoring system (Nilsson et al., 2022). When 
+OWI levels increase this was noted and followed. When considering first impression as an OWI in the 
+injury toolbox, these impressions were scored worst ca. 30 and 60 days after pool transfer. These 
+impressions were primarily driven by the emaciation state of some of the sampled fish, together with 
+scale loss. A further OWI of interest was eye opacity which was worst ca. 90 days post seawater transfer 
+followed by minor isolated periods where it increased in severity during winter and spring 2023. Other 
+forms of eye damage were mostly scored as absent for >60% of fish with the rest mostly showing mild 
+eye damage at most sampling points until mid-winter, and then the frequency of mild damage increased 
+until slaughter. Eye opacity can be driven by a number of factors including diet, handling and the 
+environment (e.g. Bjerkås et al., 2006) and is a common challenge in farming. The prevalence of 
+moderate fin damage (to one or more fins) also increased as winter approached and was variable for 
+the rest of the production cycle. The increased frequency of detected mild injuries as winter progressed 
+might have also been driven by e.g., lower water temperatures impacting the healing response 
+(Schneider and Nicholson, 1980; Jensen et al., 2015). As with the mortality OWI outlined above, the 
+ 
+63 
+ 
+temporal pattern of higher scale loss and potential emaciation problems associated with seawater 
+transfer can be common, although histological skin health (see below) was worse than expected at this 
+timepoint, although we must point out that this may be an artefact of sampling challenges. It should be 
+noted that the Fish Health Service staff that carried out the OWI scoring also recorded that a portion of 
+moribund “pinhead” fish were caught during the sampling procedure after 30 days, and the numbers of 
+these fish were potentially higher in the sample than what was representative of the group as a whole. 
+This is an inherent problem with the sampling procedure in all large-scale aquaculture production 
+systems. 
+With regard to other morphological indicators in the Laksvel toolbox: opercular damage was either 
+absent or mild for the majority of the sampling points during the production cycle. The majority of fish 
+had no or mild gill health problems for the majority of the production cycle aside from a limited numbers 
+of sampled individuals in winter and spring 2023 that had moderate of severe gill status at limited 
+sampling points. The frequency of moderate skin haemorrhaging was also generally low and varied 
+during the production cycle. Vertebral and snout deformities, maturation, wounds and ulcers were mild 
+or absent throughout the production cycle although the frequency of mild snout damage did often 
+increase during the winter through to slaughter and as stated above, low water temperatures may have 
+also impacted the healing response of fish at this time (Schneider and Nicholson, 1980; Jensen et al., 
+2015).  
+6.2 
+Fish health monitoring  
+Histological examination of skin and gills were carried out on monthly samples. External fish health 
+services have reported good gill health during the production cycle in the Andfjord pilot pool. This 
+correlates with the low number of gill health risks the fish have been exposed to. Various gill health risks 
+can include mechanical delousing, high turbidity and poor water quality (see Noble et al., 2018, 
+Sommerset et al., 2022 and references therein). Fish have not been exposed to these risks in the 
+Andfjord system. During certain periods of the first production cycle in the Andfjord K0 pool, gill health 
+was affected by pathogens and gas embolies. For example, from ca. six months after stocking (T6) until 
+the end of the production cycle, any minor deviations in observed gill pathologies were related to 
+pathogens and followed the PCR screening results. At timepoint T6 and T7 a low number of sampled 
+fish (2 of 10 and 4 of 10 samples) demonstrated pathologies related to gas embolism in the gills. Gas 
+embolisms can be driven by gas supersaturation, including DO values 110%-220% (Mesa et al., 2000; 
+Espmark et al., 2010). The oxygen data suggests that the few individuals observed with gas embolies 
+may have been located over time in the areas of the tank with higher oxygen saturation. The control 
+measurements of total gas pressure also indicated some supersaturation toward the end of the 
+production cycle. 
+It has been reported that skin quality can be reduced after transfer to sea, and that damages induced 
+during transfer can improve after 1-2 weeks (Karlsen et al., 2020). Due to this, Karlsen and colleagues 
+suggested that the period after transfer to sea should be considered a barrier recovery phase, where 
+the fish build resilience and robustness for further growth. Reduced skin quality is generally associated 
+with a damaged epidermis, missing epidermis, scale loss or altered mucus production. This damage is 
+often microscopic and impossible to detect during external examination of the whole fish during OWI 
+scoring.   
+Histological skin samples showed more epidermal damage than what is normally observed in other 
+cases. Skin damage continued to be high through all sampling points. At T-1 to T3, these damages can 
+reflect i.e., challenging sampling procedures, but after T4, the combination of challenging sampling, 
+reduced temperatures and increased pathological findings can be the cause. Patogen AS (ref: screening 
+results), also reported lost epidermis, inflammation and superficial damages in the majority of analyzed 
+ 
+64 
+ 
+individuals, with an increase from T6 and onwards. In response to these findings, project partners 
+increased the frequency of histological skin samplings (in the original documentation plan skin samples 
+were planned to be audited ca. every 3 – 6 months after T2 until slaughter). Interestingly, the amounts 
+of macro-level scale loss (audited as a Laksvel OWI after Nilsson et al., 2022) were worst at sampling 
+points T1 and T2 (ca. 30- and 60-days post-seawater transfer, respectively), before generally stabilising/ 
+improving until T6. After T6, scale loss status as an OWI again improved until slaughter (see Figure 35). 
+At T9-11, in the months prior to slaughter, the overall trend was for improved epidermis quality, with 
+mucus cells more evenly distributed in the epidermis. A few samples also had big clusters of melanin.  
+Nephrocalcinosis is seen as one of the biggest health challenges for salmon in hatcheries, with higher 
+risk in RAS facilities due to aspects related to water quality (Sommerset et al., 2022). In the fish from 
+the Andfjord system, the salmon developed Nephrocalcinosis in the hatchery phase before transfer to 
+the Andfjord pool and we see the artefacts of this after their transfer to seawater and for the remainder 
+of the production cycle. Nephrocalcinosis, when detected, was generally mild for the entire production 
+cycle, but a small number of individuals were detected with a nephrocalcinosis score of level 4 at T4 
+and there was also an increase in the numbers of fish with a level 2 score to >20% of the fish sampled. 
+The reasons for this are unclear and these levels were not detected for the remainder of the study. 
+6.3 
+Production performance monitoring  
+Fish growth, represented by the specific growth rate (SGR) and thermal growth coefficient (TGC), has 
+been higher throughout the period than that indicated for fish in this weight and temperature range (4 to 
+14 °C) by reference growth tables (Austreng et al., 1987). It is also in the upper range of values reported 
+in several previous studies, overall. For the period in question, especially from late August until October 
+2022, the reported values are above the range shown by previous studies (Dessen et al., 2017; 
+Thorarensen and Farrell, 2011; Mørkøre and Rørvik, 2001). Einen et al. (1995) considered a well 
+performing farmed Atlantic salmon to have a TGC around 3.3, overall. It is worth noting that previous 
+studies have mostly been conducted at more southerly locations, experiencing longer days during the 
+winter months, and in sea cages, experiencing different water velocities. The growth in the Andfjord 
+salmon system is high also when compared with studies utilising semi-closed containment systems, 
+although these studies are not easily comparable due to having been conducted during different 
+seasons or using different sampling regimes (Nilsen et al., 2019, Balseiro et al., 2018). However, caution 
+should be taken in comparing TGC levels between studies and production cycles, as the metric may not 
+be temperature independent at very low or very high temperatures (Jobling, 2003). 
+The standard deviation of the average weights is increasing slightly throughout the studied period but is 
+lower than values observed for sea cage rearing in previous studies (e.g., Mørkøre and Rørvik, 2001; 
+Roth et al., 2005). The values are likely representative of, or lower than, those normally experienced in 
+fish populations not subjected to periodic weight grading, as in sea cage aquaculture. The condition 
+factor rose from the start, reaching a peak in late September 2022 at 1.44, and then declined sharply 
+towards the end of the year. A similar pattern has previously been observed in cage reared salmon 
+released as one-year old smolts. Typically, Atlantic salmon in sea cage aquaculture tend to accumulate 
+fat throughout the autumn (Dessen et al., 2017). This fat accumulation stagnates during the winter 
+months, whereas body length growth will tend to continue, thereby reducing the condition factor 
+(Mørkøre and Rørvik, 2001). Good growth conditions may facilitate the onset of maturation in Atlantic 
+salmon under culture conditions (e.g., Good and Davison, 2016). However, neither the welfare scoring 
+data, nor the slaughter data indicated a concerning level of sexual maturation in the fish during this 
+production cycle. Whether prolonging the production cycle through the summer would have increased 
+the incidence or risk of sexual maturation is not possible to determine at this stage. 
+ 
+65 
+ 
+The overall FCR is comparable to or lower than that seen in studies utilising traditional sea cage rearing, 
+where an increase in FCR is commonly seen towards the end of the year. For the period between early 
+September until early January, Mørkøre and Rørvik (2001) observed an FCR above 2.0. The stock was 
+harvested before the stocking biomass density reached 25 kg/m3. Whilst stocking density is subject to 
+many confounding factors and not necessarily in itself a sufficient determinant of poor welfare, at least 
+within reasonable limits, there are indications that densities from 50 kg/m3 and up affect skin health in 
+Atlantic salmon post-smolt (Sveen et al., 2016). There is presently little to indicate that increasing the 
+biomass density in the Andfjord system beyond 25 kg/m3 will increase the risk of adverse fish welfare 
+states, if good water quality and rearing practices are otherwise maintained. 
+The levels of salmon louse (Lepeophtheirus salmonis) observed were negligible. There was, however, 
+a noticeable level of Caligus elongatus observed, reaching over 0.5 lice per fish on average in 
+September 2022, albeit low compared with observed levels in a previous study from UK cage farming 
+of Atlantic salmon (Revie et al, 2002). Caligus elongatus is known to cause less severe damage to the 
+skin of Atlantic salmon, compared with Lepeophtheirus salmonis, however with some risk of secondary 
+infections and reduced welfare. Whilst the Andfjord salmon systems seawater intake is at 40 meters 
+depth, the vertical distribution of Caligus elongatus may exceed this. The swimming capacity of Caligus 
+elongatus is generally better than that of Lepeophtheirus salmonis, and the parasite can easily move 
+between hosts. Little is known about the spatial distribution and temporal dynamics of this species (á 
+Norði et al., 2015). Chemical treatments, e.g., as administered through feed, are effective against 
+Caligus elongatus (Sommerset et al., 2022, Hemmingsen et al., 2020). 
+ 
+66 
+ 
+7 Concluding remarks 
+As stated earlier, in many cases broad knowledge on selecting and applying appropriate, fit for purpose 
+OWI and LABWI toolboxes for documenting fish welfare and health in many new and emerging 
+aquaculture systems is currently lacking. An aim of the Andfjord Salmon documentation project was 
+therefore to use a wide-ranging and comprehensive suite of OWIs/LABWIs to document the possible 
+effects of the rearing system and its operations upon aspects of the welfare and health of the fish, and 
+Andfjord Salmon applied a very comprehensive welfare and health documentation plan for the first 
+production cycle. This final report documents aspects of the welfare and health of the fish for the entire 
+production cycle until slaughter, using a suite of input and outcome-based welfare indicators, in addition 
+to a number of additional health indicators. 
+Overall, the welfare and health of fish in the system was good in relation to e.g., the Laksvel scoring 
+scheme for input- and outcome-based indicators for salmon. A wide range of environmental OWIs and 
+LABWIs documented mostly uniform high levels of key water quality parameters such as oxygen 
+throughout the pool. Water current speeds, whilst low, did not manifest in poor water quality and may 
+have been increased by the presence of fish in the system. Minor differences in measured water quality 
+parameters were found at different locations in the system but should not have consequence for fish 
+welfare and should allow for uniform distribution of fish in the system. As water is drawn from depth 
+before being pumped into the system, the water temperature was somewhat more stable than what 
+would be expected at corresponding depths in open cages and followed seasonal patterns in ambient 
+water temperature. Although oxygen was added to the inlet water, an effect of water temperature and 
+increased biomass on dissolved oxygen saturation was observed during most intensive parts of the 
+production. The low natural water temperatures the fish have been subjected to over the autumn through 
+spring did not manifest in any welfare or performance risks, or risks for e.g., winter ulcers. 
+Mortalities, excluding the sampling of fish without signs of disease, were very low in the rearing system 
+(ca. 2.5% for the entire documentation period) and any minor mortality events were closely monitored 
+and remedial actions, where possible to identify and apply, were taken. Appetite was generally good 
+throughout the production cycle and growth performance and condition factor were also good. Fish 
+adapted to the rearing system and generally utilised the pool in a uniform manner. No fleeing/panic 
+behaviours were observed at observation times around high and low water, and where potential fish 
+sensitivity to ROV lighting in late October 2022 led to short-term panic in some fish and a short-term 
+increase in associated mortalities, remedial action was taken to ensure this was short-lived and 
+corrected for. 
+The injury status of fish in the system was closely monitored during circa monthly manual audits of either 
+i) 100 fish (until 12th December 2022) or ii) 30 fish (numbers of sampled fish were reduced due to low 
+winter temperatures from 26th January 2023 until 21st June 2023). The injury status of fish in the system 
+was closely monitored during monthly manual audits of either i) 100 fish (until 12th December 2022) or 
+ii) 30 fish (numbers of sampled fish were reduced due to low winter temperatures from 26th January 
+2023 until 21st June 2023). The injury status of fish in relation to the Laksvel Operational Welfare 
+Indicator (OWI) scoring system (Nilsson et al., 2022) has generally been good and the majority of injury 
+based OWIs were scored as absent or mild for most of the production cycle. When OWI levels increased, 
+this was noted, and causes investigated. After smolt transfer several fish were sampled with poorer 
+condition (emaciation state) and scale loss (<20% of fish sampled) but this injury status improved 90 
+days after stocking. 
+Fish Health Services took circa monthly samples (minimum 10 fish per sample) from the heart, kidney, 
+gill, skin, liver, spleen, pseudo branch, pancreas, pyloric caeca and skeletal muscle (full organ pack, 
+routine assessment) for histological examination to evaluate the integrity and quality of these organs. 
+ 
+67 
+ 
+Skin samples were also taken for histological evaluation by Nofima. Histological evaluation of gill health 
+and kidney status from the full organ pack assessment was considered to have high clinical importance 
+and is summarized here with kind permission from Fish Health Services and Andfjord Salmon AS. Heart 
+status is summarized based upon PCR data. Gill health was generally good at all timepoints, except for 
+an increase in infectious pathogens that were the main cause of pathological findings from T6 to 
+slaughter. Whereas skin got a higher score (more damaged) from the hatchery phase up until 60 days 
+post-transfer to the pool. This skin health histology score was often higher than what was expected 
+based upon the OWI scoring. However, it is not clear if this was due to reduced skin quality per se, poor 
+sample quality, or to challenges and limitations with the sampling procedures. Histological findings in 
+skin were comparable to the welfare score at the start of the documentation period and included 
+superficial damages such as lost epidermis and scale loss over the same time points, in the majority of 
+analysed individuals. Based on these findings, skin morphology and skin health were followed more 
+closely for the remainder of the production cycle. Fish developed Nephrocalcinosis in the hatchery phase 
+before transfer to the Andfjord pool and we see the artefacts of this after their transfer to seawater. With 
+regard to PCR based pathogen screening, 80-100% of sampled fish from T0-T11 were categorized with 
+suspected heart- and skeletal muscle inflammation (HSMI), with positive results for Piscine 
+orthoreovirus 1 (PRV-1). At T4 and T5, 3% of sampled fish were positive for the parasite 
+Paranucleospora theridion and at T6 43% of sampled fish were positive for the parasite Parvicapsula 
+pseudobranchicola and 73% of the sampled fish positive for the bacteria Candidatus Branchiomonas 
+cysticola. At timepoint T8, 17% of the samples were positive for the parasite Ichthyobodo salmonis. 
+These pathogens persisted to the end of the production cycle but had no clinical impact on the overall 
+health situation in the pool, which was classified by fish health services as either good or not requiring 
+attention at all sampling points. The results for all other pathogen screenings were negative. 
+Whilst only a negligible amount of Lepeophtheirus salmonis was observed in the system, there was a 
+noticeable but relatively low abundance of Caligus elongatus during the late summer/autumn of 2022. 
+This did not pose a major risk to fish health or welfare and was easily remedied by feed administered 
+treatments. No Caligus elongatus were found in 2023. Infestation levels should nevertheless be 
+monitored closely for future production cycles. 
+ 
+68 
+ 
+8 References 
+á Norði, G., Simonsen, K., Danielsen, E., Eliasen, K., Mols-Mortensen, A., Christiansen, D. H., 
+Steingrund, P., Galbraith, M. & Patursson, Ø., (2015). Abundance and distribution of planktonic 
+Lepeophtheirus salmonis and Caligus elongatus in a fish farming region in the Faroe Islands. 
+Aquaculture Environment Interactions, 7(1), pp.15-27. 
+Alabaster, J. S., Shurben, D. G., & Knowles, G. (1979). The effect of dissolved oxygen and salinity on 
+the toxicity of ammonia to smolts of salmon, Salmo salar L. Journal of Fish Biology, 15(6), 705-
+712. 
+Alvestad, R. (2021). Drivers behind variation in welfare, quality, and production performance in Atlantic 
+salmon farming production data. Norges Miljø- og biovitenskapelige Universitet, Ås. 128 pp. 
+ISBN: 978-82-575-1816-5 
+Aunsmo, A., Persson, D., Stormoen, M., Romstad, S., Jamtøy, O., & Midtlyng, P. J. (2023). Real-time 
+monitoring of cause-specific mortality-and losses in industrial salmon farming. Aquaculture, 563, 
+738969. 
+Austreng, E., Storebakken, T., & Åsgård, T. (1987). Growth rate estimates for cultured Atlantic salmon 
+and rainbow trout. Aquaculture, 60(2), 157-160. 
+Balseiro, P., Moe, Ø., Gamlem, I., Shimizu, M., Sveier, H., Nilsen, T. O., Kaneko, N., Ebbesson, L., 
+Pedrosa, C., Tronci, V. & Nylund, A. (2018). Comparison between Atlantic salmon Salmo salar 
+post‐smolts reared in open sea cages and in the Preline raceway semi‐closed containment 
+aquaculture system. Journal of Fish Biology, 93(3), pp.567-579. 
+Barthel, B. L., Cooke, S. J., Suski, C. D., & Philipp, D. P. (2003). Effects of landing net mesh type on 
+injury and mortality in a freshwater recreational fishery. Fisheries Research, 63(2), 275-282. 
+Biosikkerhetsplan: Andfjord Salmon AS, lokalitet Kvalnes (2022). Åkerblå rapport. 15.12.2022. pp. 24. 
+Bjerkås, E., Breck, O., & Waagbo, R. (2006). The role of nutrition in cataract formation in farmed fish. 
+CABI Reviews, (2006), 16-pp. 
+Dessen, J. E., Weihe, R., Hatlen, B., Thomassen, M. S., & Rørvik, K. A. (2017). Different growth 
+performance, lipid deposition, and nutrient utilization in in-season (S1) Atlantic salmon post-
+smolt fed isoenergetic diets differing in protein-to-lipid ratio. Aquaculture, 473, 345-354. 
+Einen, O., Holmefjord, I., Åsgård, T., & Talbot, C. (1995). Auditing nutrient discharges from fish farms: 
+theoretical and practical considerations. Aquaculture Research, 26(9), 701-713. 
+European Food Safety Authority (EFSA) (2008). Animal welfare aspects of husbandry systems for 
+farmed Atlantic salmon‐Scientific Opinion of the Panel on Animal Health and Welfare. EFSA 
+Journal. 6(7):736. https://doi.org/10.2903/j.efsa.2008.736 
+Espmark, Å. M., Hjelde, K., & Baeverfjord, G. (2010). Development of gas bubble disease in juvenile 
+Atlantic salmon exposed to water supersaturated with oxygen. Aquaculture, 306(1-4), 198-204. 
+Furevik, D. M., Bjordal, Å., Huse, I., & Fernö, A. (1993). Surface activity of Atlantic salmon (Salmo salar 
+L.) in net pens. Aquaculture, 110(2), 119-128. 
+Glaropoulos, A., Stien, L. H., Folkedal, O., Dempster, T., & Oppedal, F. (2019). Welfare, behaviour and 
+feasibility of farming Atlantic salmon in submerged cages with weekly surface access to refill 
+their swim bladders. Aquaculture, 502, 332-337. 
+Good, C., & Davidson, J. (2016). A review of factors influencing maturation of Atlantic salmon, Salmo 
+salar, with focus on water recirculation aquaculture system environments. Journal of the World 
+Aquaculture Society, 47(5), 605-632. 
+Gorle, J.M.R, Terjesen, B.F., Summerfelt, S. (2018). Water velocity in commercial RAS culture tanks for 
+Atlantic salmon smolt production. Aquaculture Engineering, 81, 81-100. 
+Gutiérrez, X. A., Kolarevic, J., Takle, H., Baeverfjord, G., Ytteborg, E., & Fyhn Terjesen, B. (2019). 
+Effects of chronic sub‐lethal nitrite exposure at high water chloride concentration on Atlantic 
+salmon (Salmo salar, Linnaeus 1758) parr. Aquaculture Research, 50(9), 2687-2697. 
+Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., Wieser, 
+E., Taylor, J. & Berg, S. (2020). Array programming with NumPy. Nature, 585(7825), 357-362. 
+ 
+69 
+ 
+Hemmingsen, W., MacKenzie, K., Sagerup, K., Remen, M., Bloch-Hansen, K., & Imsland, A. K. D. 
+(2020). Caligus elongatus and other sea lice of the genus Caligus as parasites of farmed 
+salmonids: A review. Aquaculture, 522, 735160. 
+Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in science & engineering, 9(03), 
+90-95.  
+Iversen, M., Finstad, B., McKinley, R. S., Eliassen, R. A., Carlsen, K. T., & Evjen, T. (2005). Stress 
+responses in Atlantic salmon (Salmo salar L.) smolts during commercial well boat transports, 
+and effects on survival after transfer to sea. Aquaculture, 243(1-4), 373-382. 
+Jensen, L. B., Wahli, T., McGurk, C., Eriksen, T. B., Obach, A., Waagbø, R., Handler, A., &Tafalla, C. 
+(2015). Effect of temperature and diet on wound healing in Atlantic salmon (Salmo salar L.). 
+Fish physiology and biochemistry, 41(6), 1527-1543. 
+Jobling, M. (2003), The thermal growth coefficient (TGC) model of fish growth: a cautionary note. 
+Aquaculture Research, 34: 581-584. https://doi.org/10.1046/j.1365-2109.2003.00859.x 
+Johansson, D., Laursen, F., Fernö, A., Fosseidengen, J. E., Klebert, P., Stien, L. H., Vågseth, T. & 
+Oppedal, F. (2014). The interaction between water currents and salmon swimming behaviour in 
+sea cages. PloS one, 9(5), p.e97635. 
+Juell, J. E., & Fosseidengen, J. E. (2004). Use of artificial light to control swimming depth and fish density 
+of Atlantic salmon (Salmo salar) in production cages. Aquaculture, 233(1-4), 269-282. 
+Karlsen, C., Bogevik, A. S., Krasnov, A., & Ytteborg, E. (2021). In vivo and in vitro assessment of Atlantic 
+salmon skin exposed to hydrogen peroxide. Aquaculture, 540, 736660. 
+Khan J.R., Johansen, D., Skov, P.V. (2018). The effects of acute and long-term exposure to CO2 on the 
+respiratory physiology and production performance of Atlantic salmon (Salmo salar) in 
+freshwater, Aquaculture,491,20-27. 
+Knoph, M. B., & Thorud, K. (1996). Toxicity of ammonia to Atlantic salmon (Salmo salar L.) in seawater—
+Effects on plasma osmolality, ion, ammonia, urea and glucose levels and hematologic 
+parameters. Comparative Biochemistry and Physiology Part A: Physiology, 113(4), 375-381. 
+Kolarevic, J., Stien, L. H., Espmark, Å. M., Izquierdo-Gomez, D., Sæther, B. S., Nilsson, J., Oppedal, 
+F., Wright, D. W., Nielsen, K. V., Gismervik, K., Iversen, M. H., Turnbull, J. F., & Noble, C. 
+(2018). Welfare Indicators for farmed Atlantic salmon: Part B–Fit for Purpose OWIs for different 
+production systems. In: Noble, C., Gismervik, K., Iversen, M. H., Kolarevic, J., Nilsson, J., Stien, 
+L. H. & Turnbull, J. F. (Eds.) (2018). Welfare Indicators for farmed Atlantic salmon: tools for 
+assessing fish welfare. 351pp. ISBN 978-82-8296-556-9. pp. 146-237. 
+McKinney, W. (2010, June). Data structures for statistical computing in python. In Proceedings of the 
+9th Python in Science Conference (Vol. 445, No. 1, pp. 51-56).  
+McVicar, A. H. (1987). Pancreas disease of farmed Atlantic salmon, Salmo salar, in Scotland: 
+epidemiology and early pathology. Aquaculture, 67(1-2), 71-78.  
+Mesa, M. G., Weiland, L. K., & Maule, A. G. (2000). Progression and severity of gas bubble trauma in 
+juvenile salmonids. Transactions of the American Fisheries Society, 129(1), 174-185. 
+Moltumyr, L., Stien, L. H., Madaro, A., & Nilsson, J. (2022). Increasing dip net mesh size results in more 
+fin splits in post-smolt Atlantic salmon (Salmo salar). Journal of Applied Animal Welfare Science, 
+1-13. 
+Mota, V.C., Nilsen, T.O., Gerwins, J., Gallo, M., Ytteborg, E., Baeverfjord, G., Kolarevic, J., Summerfelt, 
+S., Terjesen, B.F. (2019). The effects of carbon dioxide on growth performance, welfare, and 
+health of Atlantic salmon post-smolt (Salmo salar) in recirculating aquaculture systems. 
+Aquaculture. 498, 578-586.   
+Mutoloki, S., Alexandersen, S., & Evensen, Ø. (2004). Sequential study of antigen persistence and 
+concomitant inflammatory reactions relative to side-effects and growth of Atlantic salmon 
+(Salmo salar L.) following intraperitoneal injection with oil-adjuvanted vaccines. Fish & Shellfish 
+Immunology, 16(5), 633-644. 
+ 
+70 
+ 
+Mørkøre, T., & Rørvik, K. A. (2001). Seasonal variations in growth, feed utilisation and product quality 
+of farmed Atlantic salmon (Salmo salar) transferred to seawater as 0+ smolts or 1+ smolts. 
+Aquaculture, 199(1-2), 145-157. 
+Nilsen, A., Hagen, Ø., Johnsen, C. A., Prytz, H., Zhou, B., Nielsen, K. V., & Bjørnevik, M. (2019). The 
+importance of exercise: Increased water velocity improves growth of Atlantic salmon in closed 
+cages. Aquaculture, 501, 537-546.  
+Nilsson, J., Gismervik, K., Nielsen, K. V., Iversen, M. H., Noble, C., Kolarevic, J., Frotjold, H., Nilsen, K., 
+Wilkinson, E., Klakegg, B. and Hauge, H. S. (2022). Laksvel - Standardisert operasjonell 
+velferdsovervåking for laks i matfiskanlegg. Rapport fra havforskningen 2022 – 14.  
+https://imr.brage.unit.no/imr-xmlui/handle/11250/2997021 40 pp. ISSN:1893-4536. 
+Noble, C., Kadri, S., Mitchell, D. F., & Huntingford, F. A. (2007). The impact of environmental variables 
+on the feeding rhythms and daily feed intake of cage-held 1+ Atlantic salmon parr (Salmo salar 
+L.). Aquaculture, 269(1-4), 290-298. 
+Noble, C., Gismervik, K., Iversen, M. H., Kolarevic, J., Nilsson, J., Stien, L. H., & Turnbull, J. F. (Eds.) 
+(2018). Welfare Indicators for farmed Atlantic salmon: tools for assessing fish welfare. 351pp. 
+ISBN 978-82-8296-556-9 
+Oliveira, V. H., Dean, K. R., Qviller, L., Kirkeby, C., & Bang Jensen, B. (2021). Factors associated with 
+baseline mortality in Norwegian Atlantic salmon farming. Scientific Reports, 11(1), 1-14.  
+Oppedal, F., Dempster, T., & Stien, L. H. (2011). Environmental drivers of Atlantic salmon behaviour in 
+sea-cages: a review. Aquaculture, 311(1-4), 1-18. 
+Overton, K., Dempster, T., Oppedal, F., Kristiansen, T. S., Gismervik, K., & Stien, L. H. (2019). Salmon 
+lice treatments and salmon mortality in Norwegian aquaculture: a review. Reviews in 
+Aquaculture, 11(4), 1398-1417.  
+Park, S. G., Zhou, J., Dong, S., Li, Q., Yoshida, T., & Kitazawa, D. (2022). Characteristics of the flow 
+field inside and around a square fish cage considering the circular swimming pattern of a farmed 
+fish school: Laboratory experiments and field observations. Ocean Engineering, 261, 112097. 
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. 
+(2011). Scikit-learn: Machine learning in Python. the Journal of machine Learning research, 12, 
+2825-2830. 
+Remen, M., Sievers, M., Torgersen, T., & Oppedal, F. (2016). The oxygen threshold for maximal feed 
+intake of Atlantic salmon post-smolts is highly temperature-dependent. Aquaculture, 464, 582-
+592.  
+Revie, C. W., Gettinby, G., Treasurer, J. W., & Rae, G. H. (2002). The epidemiology of the sea lice, 
+Caligus elongatus Nordmann, in marine aquaculture of Atlantic salmon, Salmo salar L., in 
+Scotland. Journal of Fish Diseases, 25(7), 391-399. 
+Roberts, R. J., & Pearson, M. D. (2005). Infectious pancreatic necrosis in Atlantic salmon, Salmo salar 
+L. Journal of fish diseases, 28(7), 383-390.  
+Roth, B., Johansen, S. J. S., Suontama, J., Kiessling, A., Leknes, O., Guldberg, B., & Handeland, S. 
+(2005). Seasonal variation in flesh quality, comparison between large and small Atlantic salmon 
+(Salmo salar) transferred into seawater as 0+ or 1+ smolts. Aquaculture, 250(3-4), 830-840. 
+Samsing, F., Solstorm, D., Oppedal, F., Solstorm, F., & Dempster, T. (2015). Gone with the flow: current 
+velocities mediate parasitic infestation of an aquatic host. International Journal for Parasitology, 
+45(8), 559-565. 
+Schneider, R., & Nicholson, B. L. (1980). Bacteria associated with fin rot disease in hatchery-reared 
+Atlantic salmon (Salmo salar). Canadian Journal of Fisheries and Aquatic Sciences, 37(10), 
+1505-1513. 
+Solstorm, F., Solstorm, D., Oppedal, F., Olsen, R. E., Stien, L. H., & Fernö, A. (2016). Not too slow, not 
+too fast: water currents affect group structure, aggression and welfare in post-smolt Atlantic 
+salmon Salmo salar. Aquaculture Environment Interactions, 8, 339-347. 
+Sommerset, I., Walde, C. S., Bang Jensen, B., Wiik-Nielsen, J., Bornø, G., Oliveira, V. H. S, Haukaas, 
+A. & Brun, E. (2022). Norwegian Fish Health Report 2021, Norwegian Veterinary Institute 
+ 
+71 
+ 
+Report, series #2a/2022, published by the Norwegian Veterinary Institute in 2022. ISSN 1893-
+1480. 
+Sommerset, I., Wiik-Nielsen, J., Moldal, T., Oliveira, V. H. S., Svendsen, J. C., Haukaas, A. & Brun, E. 
+(2024). 
+Fiskehelserapporten 
+2023, 
+Veterinærinstituttets 
+rapportserie 
+nr. 
+8a/202. 
+Veterinærinstituttet. ISSN 1890-3290. 
+Stenberg, S. K., Velle, G., Pulg, U., & Skoglund, H. (2022). Acute effects of gas supersaturation on 
+Atlantic salmon smolt in two Norwegian rivers. Hydrobiologia, 849(2), 527-538. 
+Stien, L. H., Bracke, M. B., Folkedal, O., Nilsson, J., Oppedal, F., Torgersen, T., Kittilsen, S., Midtlyng, 
+P. J., Vindas, M. A., Øverli, Ø., & Kristiansen, T. S. (2013). Salmon Welfare Index Model (SWIM 
+1.0): a semantic model for overall welfare assessment of caged Atlantic salmon: review of the 
+selected welfare indicators and model presentation. Reviews in Aquaculture, 5(1), 33-57. 
+Summerfelt, S. T., Mathisen, F., Holan, A. B., Terjesen, B. F. (2016). Survey of large circular and 
+octagonal tanks operated at Norwegian commercial smolt and post-smolt sites. Aquacultural 
+Engineering 74, 105-110. 
+Sveen, L. R., Timmerhaus, G., Torgersen, J. S., Ytteborg, E., Jørgensen, S. M., Handeland, S., ... & 
+Takle, H. (2016). Impact of fish density and specific water flow on skin properties in Atlantic 
+salmon (Salmo salar L.) post-smolts. Aquaculture, 464, 629-637. 
+Sviland Walde, C., Bang Jensen, B., Pettersen, J. M., & Stormoen, M. (2021). Estimating cage‐level 
+mortality distributions following different delousing treatments of Atlantic salmon (Salmo salar) 
+in Norway. Journal of Fish Diseases, 44(7), 899-912.  
+Thorarensen, H., & Farrell, A. P. (2011). The biological requirements for post-smolt Atlantic salmon in 
+closed-containment systems. Aquaculture, 312(1-4), 1-14. 
+Waskom, Michael L. "Seaborn: statistical data visualization." Journal of Open Source Software 6, no. 
+60 (2021): 3021. 
+Weitkamp, D. E., & Katz, M. (1980). A review of dissolved gas supersaturation literature. Transactions 
+of the American Fisheries Society, 109(6), 659-702. 
+Wiese, T. R., Haskell, M., Jarvis, S., Rey-Planellas, S., & Turnbull, J. (2023). Concerns and research 
+priorities for Scottish farmed salmon welfare–An industry perspective. Aquaculture, 739235. 
+Wright, D. W., Glaropoulos, A., Solstorm, D., Stien, L. H., & Oppedal, F. (2015). Atlantic salmon Salmo 
+salar instantaneously follow vertical light movements in sea cages. Aquaculture Environment 
+Interactions, 7(1), 61-65.

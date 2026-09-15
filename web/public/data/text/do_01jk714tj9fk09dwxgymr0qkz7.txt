@@ -1,0 +1,1607 @@
+﻿STRAUMMÅLING VED 
+FURENESET 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STRAUMMÅLING UTFØRT I SAMSVAR MED  
+NS 9425:1999 OG NS 9415:2009  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-2- 
+ 
+ 
+ 
+Tlf.: 57 73 02 30 
+Mobil: 975 37 139 
+Dørhella, 6980 Askvoll 
+E-post: eivind@subaquatech.no 
+Internett: www.subaquatech.no 
+Foretaksregisteret: NO 991 373 969 MVA 
+Tittel: 
+Straummåling ved Fureneset 
+Rapportnummer: 
+Straum-4/2013 
+Distribusjon: 
+Fortruleg 
+Prosjektnummer:  
+KORRIG0035 
+Sider: 
+22 
+Forfattar: 
+Eivind Aarseth 
+Prosjektleiar: 
+Eivind Aarseth 
+Verifisert av: 
+Eivind Aarseth 
+Rapport ferdigstilt: 
+07.08.2013 
+Elektronisk arkivkode: 
+KORRIG0035 Fureneset straum 2013 
+Lokalitet: 
+Fureneset 
+Lokalitetsnr.: 
+22015 
+Kommune: 
+Solund 
+Tidspunkt for måling: 
+26.04.-22.05.13 
+Oppdragsgjevar:  
+Erko Seafood AS 
+Oppdragsreferanse: 
+Leif Rune Pedersen 
+Samandrag: 
+Straummålinga i denne rapporten er gjort i samsvar med NS 9425-1:1999 og NS 
+9415:2009 ved 5 og 15 meter djup for å kunne nyttast i samband med 
+Lokalitetsundersøkingar (analyse) og deretter utarbeiding av ein Lokalitetsrapport. 
+ 
+Det var gode straumtilhøve ved denne posisjonen og berre få/korte periodar med 
+bortimot straumstille. Maksimal straumfart var 36,4 mot søraust ved 5 meter djup og 35,6 
+mot søraust ved 15 meter djup. Dominerande straumretningar var mot nordvest og 
+søraust ved både 5 og 15 meter djup.    
+ 
+Stikkord norsk: 
+Straummåling 
+Straumtilhøve 
+NYTEK 
+NS 9415:2009 
+Erko Seafood 
+Fureneset 
+Stikkord engelsk: 
+Current 
+measurement 
+NYTEK 
+Korrigering av rapport: 
+Vi vart av Norsk Akkreditering gjort 
+merksam på at vi ikkje har lov å bruke 
+akkrediteringslogoen på straumrapportar. 
+Vi har difor fjerna merket i rapporten og 
+sender den ut på nytt. Vi har også fornya 
+framsida til nyare versjon. 
+ 
+Denne rapporten vil erstatte rapporten med 
+prosjektnummer STRAUM0075, og vil vere 
+den gjeldande versjonen. Vi ber difor om at 
+den gamle versjonen vert sletta. 
+ 
+ 
+ 
+ 
+ 
+ 
+Askvoll, 18.11.15                                     Eivind Aarseth 
+ 
+ 
+ 
+ 
+ 
+ 
+- 3 - 
+ 
+INNHALDSOVERSIKT 
+ 
+1. Bakgrunn ....................................................................  
+4 
+2. Framgangsmåte og utstyr ........................................  
+5 
+ 
+2.1 Instrument ...........................................  
+5 
+ 
+2.2 Rigg .......................................................  
+5 
+ 
+2.3 Datainnsamling og handsaming .......  
+6 
+ 
+2.4 Dataredigering og kvalitetskontroll .  
+6 
+3. Merknader til målingane/datakvalitet ...................  
+7 
+4. Resultat frå målingane .............................................  
+7 
+ 
+4.1 Forklaringar og merknader til resultata 
+7 
+ 
+4.2 Konklusjon ..........................................  
+8 
+Referansar  .....................................................................  
+18 
+Vedlegg 
+ .....................................................................  
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-4- 
+ 1. BAKGRUNN  
+Måling av straum er ein viktig del av grunnlaget for å kunne vurdere bereevna til ein 
+lokalitet.  
+Tilstrekkeleg straum er avgjerande både for utskifting av vatn i merdane (ventilasjon) og for 
+evne til å transportere vekk fôrrestar og fekalier frå anlegget. I samband med skjeldyrking er 
+straumtilhøva svært viktig for vurdering av tilvekst, avgifting, risiko for skader på grunn av is, 
+belastning på anlegget m.m.  
+Det er mange faktorar som påverkar straumretning/styrke og desse er vanlegvis like 
+uforutsigbare som vindretning/styrke på land. 
+I tilknyting til MOM-systemet (”Veileder – søknad om konsesjon”, s. 23) vert det skildra 
+bakgrunn og metode for gjennomføring av straummålingar. Det er her skildra tre typar straum 
+som det er ønskelig å kartlegge på lokaliteten: 
+• 
+Vassutskiftingsstraum: Skal målast i halvparten av planlagt merddjup. 
+• 
+Spreiingsstraum: Skal målast midt mellom merdbotnen og sjøbotnen, men ikkje djupare 
+enn 50 meter 
+• 
+Botnstraum: Skal målast 1 meter over sjøbotnen, men ikkje ved større djup enn 100 
+meter. 
+I Norsk Standard 4915 som gjeld tekniske krav til flytende oppdrettsanlegg, er det mellom 
+anna stilt krav om gjennomføring av straummåling for å skaffe grunnlagsdata ved vidare 
+klassifisering av lokaliteten (berekning av naturlaster). Det blir her kravd at straummåling skal 
+gjennomførast på andre djup, høvesvis 1 og 15 meter (seinare endra til 5 og 15 meter). 
+Sub Aqua Tech AS prøver å gjennomføre straummålingane på ein måte som best mogleg 
+skal tilfredsstille dei ulike krava både for vurdering av naturlaster og miljølaster. 
+Straummålingane vert vidare gjennomført i samsvar med NS 9425-1. 
+Feltarbeid vart gjort av Sub Aqua Tech AS ved Eivind Aarseth og utarbeiding av rapport 
+vart gjort av Eivind Aarseth.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 5 - 
+ 
+2. FRAMGANGSMÅTE OG UTSTYR 
+2.1 INSTRUMENT 
+Utstyret som vart nytta var ein rigg med to stk. straummålarar av typen SD-6000 frå 
+Sensordata AS basert fysisk registrering av straum basert på ein rotor og kompass. Instrumenta 
+var innstilt på måling kvart 10. minutt, noko som gjev om lag 3800 målingar ved ein måleperiode 
+på 4 veker (lagringskapasiteten er inntil 6000 målingar). Desse instrumenta måler også 
+temperatur. Serienummer på instrumenta var 1674 og 1108. Det var ikkje gjort modifikasjonar 
+på instrumenta.  
+Nøyaktigheit er frå Sensordata AS oppgitt til følgjande: Temperatur +/- 0,1 0C, 
+kompassretning +/- 2 grader (målt kompassretning/straumretning er ikkje korrigert for 
+misvisning). Terskelverdi 1,0 cm/s (m.a.o. svakare straum enn 1,0 cm/s er lik straumstille. 
+Instrumenta er oppgitt til å ha ei oppløysing på 0,5 cm/s ved ei straumfart innanfor 
+måleområdet 0-8 cm/s. Anna nøyaktigheit er ikkje oppgitt. 
+Kalibrering vart gjort av Sensordata AS ved levering av instrumenta og er ikkje gjort på nytt 
+etter dette. 
+Instrumentlogg for kvart av instrumenta vart ført og oppbevart hos Sub Aqua Tech AS.  
+Måleinstrumenta vart sett i sjøen 26.04.13 og teken opp for avlesing 22.05.13. Dette gav då 
+totalt som rådata 3719 målingar over ein periode på ca 26 dagar (sjå elles merknader i kapittel 3). 
+2.2 RIGG 
+Posisjon for plassering av riggen vart gjort etter totalvurdering av topografi, plassering av 
+anlegg etc. for å få målingar mest mogleg representative for lokaliteten (viser til avmerking på 
+kart vedlagt denne rapporten). Posisjon for straumrigg var N610 10,061’ /E50 03,005’ 
+(WGS 84).  
+Plassering av straumrigg vart gjort etter ei vurdering av ulike faktorar for å få ei måling som 
+var mest mogleg representativ for lokaliteten. Følgjande parameter og omsyn vart vurdert:  
+• 
+Det var fisk i storparten av anlegget i tidsrommet for målinga noko som medførte 
+at straumriggen ikkje kunne plasserast for nært anlegget. 
+• 
+Riggen blei plassert nordvest for anlegget, då dette blei vurdert som den staden med 
+mest påverknad frå straum. 
+Forankring/montering av rigg vart gjort med ein 12 kg faldedregg, ca. 10-15 kg kjetting og 8 
+mm Dan-line/Scan-ile. For oppdrift vart det nytta 11” trålkule i plast festa i riggen og 
+tradisjonell blåse på overflata (sjå også Figur 1).  
+Berekning av posisjon, djupne etc. for plassering av straumrigg vart gjort med 
+kombinasjonsinstrument av type Garmin GPSMAP 526s.  
+-6- 
+ 
+Figur 1 
+Skisse som syner montering av rigg, måledjup, instrumentnr. etc. 
+ 
+2.3 DATAINNSAMLING OG HANDSAMING 
+Type 
+måling, 
+mellom 
+anna 
+momentanverdi, 
+snittverdi 
+og 
+registreringsavbrot: 
+Vektormidling av straumdata.  
+Måleintervall: 
+10 minutt. 
+Varigheit 
+for 
+kvar 
+enkelt 
+midlingsperiode: 
+Instrumentet deler kvart måleintervall inn i 
+5 subintervall. Med andre ord ei måling 
+kvart 2. minutt som vert midla på 10 minutt.  
+Tal rådatamålingar for kvar presenterte 
+dataverdi: 
+3719 målingar ved både 5 og 15 meter djup. 
+Reell måleperiode for handsama data: 
+26.04.13 – 22.05.13 
+Framgangsmåtar for reduksjon av støy, 
+filtrering og datakompresjon: 
+Det er ikkje gjort ved straummålingane i 
+denne serien.  
+  
+2.4 DATAREDIGERING OG KVALITETSKONTROLL 
+Etter visuell kontroll og demontering av riggen vart målingane avlese og lagt inn på 
+datamaskin for vidare handsaming/presentasjon. For handsaming/presentasjon av måledata er 
+det nytta standard programvare for dette frå Sensordata AS (versjon 4.7.11.71). 
+ 
+ 
+ 
+ 
+ca. 5 meter djup 
+ca. 15 meter djup 
+Totalt djup 348 m 
+ 
+Instrumentnr. 1674 
+Instrumentnr. 1108 
+ 
+- 7 - 
+ 
+3. MERKNADER TIL MÅLINGANE/DATAKVALITET 
+Alle instrumenta vart kontrollert før utplassering i samsvar med tilrådde prosedyrar frå 
+Sensordata AS og ved innhenting (visuell vurdering og teknisk kontroll). Det var djupt (348 m) 
+og svært bratt terreng på plassen der straumriggen vart sett ut noko som medførte ein del svai 
+eller bevegelse i riggen avhengig av straumstyrke og retning (opp til ca 30-50 meter). 
+Sub Aqua Tech AS vurderer det slik at dette ikkje har hatt nemneverdig stor betyding for 
+resultata i samband med denne målinga. Alle undersøking av rigg ved innehenting av 
+instrumenta og resultat frå målingane syner at instrumenta har fått målt både straumstyrke og 
+retning utan hindring.  
+ 
+4. RESULTAT FRÅ MÅLINGANE 
+ 
+Måling av temperatur på dei ulike djupnene 
+Viser til vedlagde utskrift av temperaturmålingar som syner variasjonar i temperatur på kvar 
+enkelt instrument (ulik djupne) fordelt på tidsrom for måling (26 dagar). 
+ 
+Tabell 4.1 
+Statistiske resultat for straummålingane (sjå elles Figur 4.8 med 
+forklaring). 
+ 
+Straumfart, cm/s 
+Straumretning 
+Djupne 
+minimum 
+middels 
+maksimum 
+total 
+varians, 
+(cm/s)2 
+vanlegast 
+nettostraum
+( rest) 
+5 m 
+0,4 
+17,6 
+50,0 
+117,042 
+V/SØ 
+V 
+15 m 
+0,2 
+10,2 
+36,6 
+65,553 
+SV/SØ 
+SV 
+ 
+4.1 FORKLARINGAR OG MERKNADER TIL RESULTATA 
+Figurane det blir synt til nedanfor står på side 8 og utover.  
+Figur 4.1 syner relativ fluks (eller straumaktivitet) og tal målingar i 15 graders intervalla. 
+Dersom ein kopierer utskrift av denne figuren på eit lysark/foil, og legg det opp på kartet som 
+syner plassering av straumrigg, får ein eit godt bilete av straumtilhøva på lokaliteten. Fig. 4.1 
+syner ein dominerande fluks stort sett mot vest ved 5 meter djup og vekslande mellom sørvest 
+og søraust ved 15 meter djup. 
+Figur 4.2 syner maksimum og middelstraum fordelt på 15 graders intervalla. Desse 
+opplysningane er nyttig i samband med berekning av dimensjonar på fortøyingar, plassering av 
+anlegg i høve straumretning etc. Vi kan i desse diagramma sjå at den sterkaste straumen ved 5 
+meter djup var 50,0 cm/s mot vestnordvest og ved 15 meter djup 36,6 cm/s mot sørvest.  
+Den mest tydelege måten å få eit inntrykk av hovudstraumretninga er truleg ved hjelp av 
+progressivt vektor diagram, Figur 4.3. Denne måten å framstille målingane på nyttar 
+straumstyrke, retning, tid og utrekna distanse for å synleggjere flytting av vasspartiklane i 
+måleperioden.  For kvart kryss på kurva i desse diagramma har vasspartiklane flytta seg eit døgn. 
+Denne framstillinga er basert på ein idealisert situasjon der instrumenta er forankra i opent hav 
+-8- 
+utan fysiske hindringar for straumen. Sett på spissen kan ein seie at dersom vatnet heile tida vert 
+ført vekk frå startpunktet er vassutskiftinga bra og dersom dei same vassmengdene driv fram og 
+tilbake vert utskiftinga dårleg. Diagramma syner ein nettostraum mot vest 5 meter djup og 
+sørsørvest ved 15 meter djup. Neumann-parameter er eit mål for stabiliteten i straumretninga. 
+Dess lågare Neumann-parameter dess meir ”uryddig” eller ”vinglete” har vassmengdene flytta på 
+seg. Med andre ord - låg Neumann-parameter indikerer at vassmengdene blandar seg. Maksimal 
+verdi er 1. Neuman-parameter ved denne stasjonen var 0,869 ved 5 meter djup og 0,396 ved 15 
+meter djup.  
+Figur 4.4 syner straumfart/straumstyrke i perioden vist som kurvar (straumfart i cm/s) 
+fordelt på tid. På denne måten er det t.d. lett å sjå maksimumsfart/minimumsfart og kor lenge 
+desse periodane varer utan omsyn til retning.  Ein kan ofte sjå variasjonar i straumfart (t.d. auka 
+straumaktivitet) som fell saman med månefasane (kring datoane for fullmåne og nymåne). 
+Fullmåne og nymåne i måleperioden (26.04.13 – 22.05.13) var høvesvis 1 dag før perioden byrja, 
+25.04 (fullmåne) og 10.05. (nymåne). Ein kan ikkje sjå ei auke i straumaktivitet kring desse 
+datoane ved denne posisjonen. 
+Figur 4.5 syner straumretning vist som kurvar (grader) fordelt på tid. Dette diagrammet er 
+nyttig for å vurdere korleis straumen endrar retning i ein tidsperiode. Når måledata vert 
+presentert på denne måten kan ein ofte tydeleg sjå regelmessige endringar (eller eit mønster) i 
+straumretning når straumen skiftar retning i takt med tidvatnet. Ein kan ikkje særleg tydeleg sjå 
+slike endringar/variasjonar i perioden ved denne posisjonen ved nokon av måledjupa. 
+Figur 4.6 syner prosentvis fordeling av straumfart framstilt på stolpediagram for kvart av 
+instrumenta. På denne måten er det lett å sjå kva straumstyrke som er mest vanleg (dominerande 
+straumfart) på dei ulike djupnene i den aktuelle måleperioden. På denne lokaliteten kan ein sjå at 
+dominerande straumfart var 25-50 cm/s (30 %) ved 5 meter djup og 15-25 cm/s (23 %) ved 15 
+meter djup. Ein kan vidare sjå at ved 5 meter djup var mindre enn 1 % av målingane straum med 
+0-1 cm/s straumfart (m.a.o. bortimot straumstille). Ved 15 meter djup syner målingane om lag 5 
+% med bortimot straumstille (0-1 cm/s) i perioden.  
+Figur 4.7 syner variasjonar i temperatur gjennom heile måleperioden (24.04.13 – 22.05.13) 
+på 5 og 15 meter djup. 
+Figur 4.8 syner statistisk oppsummering av målingar i perioden. Middelverdien er 
+gjennomsnitt for alle målingane. Denne verdien er viktig, men fortel ingenting om kor mykje 
+målingane varierer. Varians er eit uttrykk for variabiliteten i straumen, eller kor mykje straumen 
+varierer i høve middelverdien (høgare varians tydar på hyppige variasjonar i fart og 
+straumstyrke). Meir korrekt formulert er variansen det gjennomsnittlege kvadrerte avviket frå 
+middelverdien. Ein enklare definisjon for avvik frå middelstraumen er standard avvik, som kan 
+oppfattast som gjennomsnittleg avvik frå middelverdien (kvadratrota av variansen). I praksis vil 
+straumfart stort sett ligge innanfor (+/-) eit standardavvik frå berekna middelverdi. Ein ser her 
+at middelstraumen ved 5 m djup var 17,6 cm/s og hadde eit gjennomsnittleg avvik på (+/-) 
+10,819 cm/s. Significant max/min velocity i tabellen er høvesvis den høgaste og lågaste 1/3 av 
+alle målte hastigheitar i måleperioden.   
+Figur 4.9 syner straumfart/retning matrise på lokaliteten i perioden ved 5 og 15 meter djup.  
+4.2 KONKLUSJON 
+Instrument nr. 1 (ca. 5 m djup) synte ein relativ fluks (straumaktivitet) som hovudsakleg 
+veksla mellom vest og austsøraust  utan målbar fluks i andre retningar og svært god straumstyrke 
+i snitt (17,6 cm/s og varians 117,042 (cm/s)2). Dominerande straumretning var mot vest og 
+netto transport av vassmengdene var mot vestnordvest. Høgste målte straumfart i perioden var 
+50,0 cm/s mot vestnordvest.  
+Instrument nr. 2 (ca. 15 m djup) synte ein dominerande fluks (straumaktivitet) mot sørvest 
+og søraust med ein svært god straumstyrke i snitt (10,2 cm/s og varians 65,553 (cm/s)2). Netto 
+transport av vassmengdene var mot sørvest og søraust. Høgste målte straumfart i perioden var 
+36,6 cm/s mot sørvest.  
+- 9 - 
+ 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1674
+File name: Furenesvika 5 meter mai 2013.SD6
+Number of measurements in data set: 3719
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+35
+30
+25
+20
+15
+10
+5
+N
+Relative water flux (%)
+per 15 deg sector
+  
+ 
+ 
+1000
+500
+N
+Number of measurements
+per 15 deg sector
+ 
+Data displayed from: 12:00 - 15.May-13   To: 12:50 - 17.Jun-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1725
+File name: Bjørnholmen juni 2013 15 meter.SD6
+Number of measurements in data set: 4758
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+N
+Relative water flux (%)
+per 15 deg sector
+  
+ 
+ 
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+N
+Number of measurements
+per 15 deg sector
+ 
+ 
+Figur 4.1   
+Diagramma ovanfor syner relativ fluksfordeling ved 5 og 15 
+meters djup.  
+ 
+ 
+ 
+ 
+ 
+ 
+-10- 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1674
+File name: Furenesvika 5 meter mai 2013.SD6
+Number of measurements in data set: 3719
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+45
+40
+35
+30
+25
+20
+15
+10
+5
+N
+Maximum velocity (cm/s)
+per 15 deg sector
+  
+ 
+ 
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+N
+Mean velocity (cm/s)
+per 15 deg sector
+ 
+Data displayed from: 12:00 - 15.May-13   To: 12:50 - 17.Jun-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1725
+File name: Bjørnholmen juni 2013 15 meter.SD6
+Number of measurements in data set: 4758
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+34
+32
+30
+28
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+N
+Maximum velocity (cm/s)
+per 15 deg sector
+  
+ 
+ 
+7
+6
+5
+4
+3
+2
+1
+N
+Mean velocity (cm/s)
+per 15 deg sector
+ 
+ 
+Figur 4.2   
+Diagramma ovanfor syner maksimum og middelstraum ved 5 og 
+15 meter djup. 
+ 
+ 
+ 
+ 
+ 
+ 
+- 11 - 
+ 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1674
+File name: Furenesvika 5 meter mai 2013.SD6
+Number of measurements in data set: 3719
+PROGRESSIVE VECTOR
+Neumann parameter: 0.869
+Rest speed: 15.3 cm/s
+Average speed: 17.6 cm/s
+Rest direction: 270 deg.
+  
+ 
+0
+-20
+-40
+-60
+-80
+-100
+-120
+-140
+-160
+-180
+-200
+-220
+-240
+-260
+-280
+-300
+-320
+-340
+-360
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+-10
+km N (Skipped invalid data.)
+km E
+ 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1108
+File name: Furenesvika 15 meter mai 2013.SD6
+Number of measurements in data set: 3719
+PROGRESSIVE VECTOR
+Neumann parameter: 0.396
+Rest speed: 4.0 cm/s
+Average speed: 10.2 cm/s
+Rest direction: 189 deg.
+  
+ 
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+-10
+-20
+-30
+-40
+-50
+-60
+-70
+0
+-5
+-10
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+-55
+-60
+-65
+-70
+-75
+-80
+-85
+-90
+km N (Skipped invalid data.)
+km E
+ 
+ 
+Figur 4.3  
+Progressiv vektor diagram for straummålingane ved 5 og 15 meter 
+djup i måleperioden. 
+ 
+ 
+ 
+-12- 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1674
+File name: Furenesvika 5 meter mai 2013.SD6
+Number of measurements in data set: 3719
+CURRENT SPEED
+  
+ 
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+35,0
+40,0
+45,0
+50,0
+22.May
+20.May
+18.May
+16.May
+14.May
+12.May
+10.May
+08.May
+06.May
+04.May
+02.May
+30.Apr
+28.Apr
+Current speed (cm/s)
+Days
+ 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1108
+File name: Furenesvika 15 meter mai 2013.SD6
+Number of measurements in data set: 3719
+CURRENT SPEED
+  
+ 
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+16,0
+18,0
+20,0
+22,0
+24,0
+26,0
+28,0
+30,0
+32,0
+34,0
+36,0
+38,0
+22.May
+20.May
+18.May
+16.May
+14.May
+12.May
+10.May
+08.May
+06.May
+04.May
+02.May
+30.Apr
+28.Apr
+Current speed (cm/s)
+Days
+ 
+ 
+Figur 4.4  
+Målt straumfart (cm/s) ved 5 og 15 meter djup i måleperioden. 
+ 
+ 
+ 
+ 
+- 13 - 
+ 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1674
+File name: Furenesvika 5 meter mai 2013.SD6
+Number of measurements in data set: 3719
+CURRENT DIRECTION
+  
+ 
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+320
+340
+360
+22.May
+20.May
+18.May
+16.May
+14.May
+12.May
+10.May
+08.May
+06.May
+04.May
+02.May
+30.Apr
+28.Apr
+Current dir (°)
+Days
+ 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1108
+File name: Furenesvika 15 meter mai 2013.SD6
+Number of measurements in data set: 3719
+CURRENT DIRECTION
+  
+ 
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+320
+340
+360
+22.May
+20.May
+18.May
+16.May
+14.May
+12.May
+10.May
+08.May
+06.May
+04.May
+02.May
+30.Apr
+28.Apr
+Current dir (°)
+Days
+ 
+ 
+Figur 4.5 
+Målt straumretning ved 5 og 15 meter djup i måleperioden. 
+ 
+ 
+ 
+-14- 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1674
+File name: Furenesvika 5 meter mai 2013.SD6
+Number of measurements in data set: 3719
+CURRENT SPEED BAR CHART
+  
+ 
+0-1
+1-3
+3-4
+4-5
+5-6
+6-8
+8-10
+10-15
+15-25
+25-50
+50-75
+75-100
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30 Percent of measurements
+cm/s
+ 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1108
+File name: Furenesvika 15 meter mai 2013.SD6
+Number of measurements in data set: 3719
+CURRENT SPEED BAR CHART
+  
+ 
+0-1
+1-3
+3-4
+4-5
+5-6
+6-8
+8-10
+10-15
+15-25
+25-50
+50-75
+75-100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23 Percent of measurements
+cm/s
+ 
+ 
+Figur 4.6 
+Stolpediagram som syner prosentvis fordeling av straumfart i 
+måleperioden ved 5 og 15 meter djup. 
+ 
+ 
+ 
+- 15 - 
+ 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1674
+File name: Furenesvika 5 meter mai 2013.SD6
+Number of measurements in data set: 3719
+TEMPERATURE
+  
+ 
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+5,2
+5,4
+5,6
+5,8
+6,0
+6,2
+6,4
+6,6
+6,8
+7,0
+7,2
+7,4
+7,6
+7,8
+8,0
+8,2
+8,4
+8,6
+8,8
+9,0
+9,2
+9,4
+22.May
+20.May
+18.May
+16.May
+14.May
+12.May
+10.May
+08.May
+06.May
+04.May
+02.May
+30.Apr
+28.Apr
+Temperature (°C)
+Days
+ 
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1108
+File name: Furenesvika 15 meter mai 2013.SD6
+Number of measurements in data set: 3719
+TEMPERATURE
+  
+ 
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+5,2
+5,4
+5,6
+5,8
+6,0
+6,2
+6,4
+6,6
+6,8
+7,0
+7,2
+7,4
+7,6
+7,8
+8,0
+22.May
+20.May
+18.May
+16.May
+14.May
+12.May
+10.May
+08.May
+06.May
+04.May
+02.May
+30.Apr
+28.Apr
+Temperature (°C)
+Days
+ 
+ 
+Figur 4.7 
+Temperaturmålingar på lokaliteten i perioden ved høvesvis 5 og 
+15 meter djup. 
+ 
+-16- 
+Mean standard deviation
+Standard deviation (cm/s)
+Variance (cm/s)²
+Mean current speed (cm/s)
+Total
+East / west
+North / south
+Maximum current velocity
+Minimum  current velocity
+Significant max velocity
+Significant min velocity
+    17,6
+  117,042
+    10,819
+      0,614
+    17,1
+  114,654
+    10,708
+      0,627
+     3,3
+   11,151
+     3,339
+     1,020
+    50,0
+      0,4
+    30,4
+      5,6
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1674
+File name: Furenesvika 5 meter mai 2013.SD6
+Number of measurements in data set: 3719
+STATISTICAL SUMMARY
+ 
+Mean standard deviation
+Standard deviation (cm/s)
+Variance (cm/s)²
+Mean current speed (cm/s)
+Total
+East / west
+North / south
+Maximum current velocity
+Minimum  current velocity
+Significant max velocity
+Significant min velocity
+    10,2
+    65,553
+      8,096
+      0,796
+     7,5
+   43,573
+     6,601
+     0,884
+      6,1
+    32,996
+      5,744
+      0,947
+    36,6
+      0,2
+    20,1
+      2,4
+Data displayed from: 13:42 - 26.Apr-13   To: 09:22 - 22.May-13
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1108
+File name: Furenesvika 15 meter mai 2013.SD6
+Number of measurements in data set: 3719
+STATISTICAL SUMMARY
+ 
+ 
+Figur 4.8 
+Statistisk oppsummering av målingar på lokaliteten i perioden 
+ved 5 og 15 meter djup.  
+ 
+- 17 - 
+ 
+ 
+ 
+Figur 4.9 
+Straumfart/retning matrise på lokaliteten i perioden ved 5 og 15 
+meter djup. 
+-18- 
+REFERANSAR 
+Prosedyre – Straummåling, versjon 00. Sub Aqua Tech AS. 2 s. 
+ 
+Manual for montering og bruk av straummålar, Sensordata AS, Ulset 38 s. 
+ 
+Manual for bruk av programvare, Sensordata AS, Ulset 31 s. 
+ 
+E. Nygaard, L. G. Golmen. Strømforhold på oppdrettslokalitetar i relasjon til topografi og miljø. 
+NIVA rapport LNR 3709-97, 58 s. 
+ 
+Bjørn Gjevik. Flo og fjære langs kysten av Noreg og Svalbard. ISBN 978-82-998031-0-6. Farleia 
+Forlag. 351 s. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VEDLEGG 
+Vedlegg 1 – Kopi av sjøkart nr. 25 (1:50 000)  
+Vedlegg 2a og 2b – Utskrift av elektronisk sjøkart i ulike målestokkar med plassering av 
+rigg for måling av straum og anlegg avmerka. Plassering av straumrigg ved tidlegare 
+målingar i området er også avmerka. 
+Vedlegg 3 – Utsnitt av elektronisk sjøkart med presentasjon av straumaktivitet (relativ 
+fluks) ved 5 og 15 m djup over posisjon for plassering av straumrigg. 
+ 
+ 
+20
+25
+18_--
+Oyatåa
+5/
+_Dj·,-top]>en
+Stai•en,e,,_et'-•
+2
+10
+*4
+70
+100
+- Bordvik-
+5/
+88
+OR
+L a d e erge ·-
+179
+Skifjord lso 25
+L a n g e v
+17
+Sl
+14_
+11
+•-···
+44
+orssundose·n
+219
+15
+12
+- SK/FJORDEN
+-
+Våge
+1 11
+Vågane
+29åyaskallen
+JOO
+2 0 0
+132
+//
+Neset
+Bl
+87
+Gaddenestaren*
+27
+10
+- B å n e s
+D j u p e v g
+Kjopstad>
+16
+13
+Eidev9
+Keia
++4
+-
+1 0 ,
+Has/øy
+- (Sakrisiiy)
+-idtskj
+.. Loten
+L
+_s.,,s '
+\ o s e n
+Ski11eneset
+Skivenes
+-
+54 /
+/2 :
+-10:rr-
+57
+57
+124
+173
+13
+K l e n e v g
+45
+2 0 0
+Skivenesstrand,a
+2 0 0 , ,
+lso6s'
+161
+37
+Fj_,,kleski;
+5
+- 1 0 0 - -
+i , 4
+2Borshl.oo
+E i d e y n
+ofå Eide
+-
+orsholm
+28
+38
+19
+153
+· - 2 0 0 -
+__
+F
+394
+3 5 8
+Smilde
+375
+4 0 0
+387
+364
+310
+Å F J O R D E N
+149
+305
+2
+0
+235
+4 0 0
+394
+270
+4 0 5
+352
+146
+100---------·
+Krakkstlu
+77
+57
+129
+JOO
+.-akkshl_: _
+I Fl W 55'.
+324
+JO
+331
+71
+47
+337
+S k o r p e k n a p p e n
+05
+293
+\ K r å k e - 5
+Tverrfi
+Khp-
+/
+Lxhteneset
+Kfaksnag
+272
+•OO
+471
+Jakooriellen
+Kviene
+7/
+14
+Rotevikne•""--
+52
+30
+Skorpehl
+7° 25
+Storehl
+65
+'
+Langekl
+\.
+51
+2
+Kjetta
+43
+384
+. S K O R P , \ ;
+Skorpa
+: •
+Porte,• -
+53
+(
+{ 9 6
+,/
+.
+66
+5
+P o d e v k 3
+1 ,
+I Sageneset
+70
+orakerem
+Husefj
+Sa osen
+Fjellsenden
+23
+18
+i 9 :
+89
++ 4 3
+86
+Langenes ; Austre·
+40 192
+Solvang
+20
+/;orden 60
+71
+377
+\ \o
+,
+Skorpeviknesetci.
+kårpekemn
+.101
+/00
+Nonheja
+\Hamnahl"
+VEDLEGG 1 
+Kopi av sjøkart nr. 25 i 
+målestokk 1:50 000
+Plassering av straumrigg
+ Data and information contained in this Product are © 2002-2007 Her Majesty the Queen in Right of Canada, Canadian Hydrographic Service / Sa Majesté du chef en Canada, Service hydrographique du Canada and/or Nautical Data International, Inc., license no. 
+ 240502001-001/2 and 021704-087.  Portions may be © United Kingdom Hydrographic Office.  Portions © BSH 2005-2007. Bundesamt für Seeschifffahrt und Hydrographie (BSH), Germany, license no. 8095-01/2004-02 ÖA03.  Portions © Bolina - Editrice Incontri Nautici 
+ 2004-2007.  Portions © EMA 2007. Estonian Maritime Administration.  Portions © FMA 2004-2007.  Finland Hydrographic Office, license no. FMA 877/721/2004.  Portions © HHI 2002-2007. Reproduced with the permission of the Hydrographic Institute of the Republic of 
+ Croatia and Adriatic Sea Pilot.  Portions © HNHS 2004-2007. Reproduced with the permission of the Hellenic Navy Hydrographic Service,  license no. 171.7/22/03 .  Portions © Hydrographica 2005-2007.  Portions © IHM 2003-2007.  Reproduced with the permission of the
+ Instituto Hidrográfico de la Marina, Spain and the UK Hydrographic Office, license no. ES AC-001-Garmin.  Portions © IHP 2003-2007.  Reproduced with the permission of Instituto Hidrográfico, Portugal and the UK Hydrographic Office, license no. PT AC-002-Garmin.  
+ Portions © IHS 2004-2007. Reproduced with the permission of the Icelandic Coast Guard and the UK Hydrographic Office, license no. IS AC-001-Garmin.  Portions © IIM 2002-2007. Reproduced with the permission of the Istituto Idrografico della Marina, Italy .  Portions © 
+ KMS 2002-2007.  Reproduced with the permission of Kort and Matrikelstyrelsen, Denmark, license no. G.9-2002.  Portions © LHS 2007. Maritime Administration of Latvia.  Portions © NHS 2001-2007.  Reproduced with the permission of Norwegian Hydrographic Service, 
+ license no. NO 24/021001/1.  Portions © NLHO 2005-2007.  Reproduced with the permission of the Hydrographic Office of the Netherlands and UK Hydrographic Office, license no. NL AC-002-Garmin.  Portions © RNO 2005-2007. Reproduced with the permission of the 
+ National Hydrographic Office, Sultanate of Oman, OM A-C-001-Garmin. All rights reserved.  Portions © SAN 2002-2007.  Reproduced with the permission of the Department of Defence - South Africa.  Portions © SHOM 2005-2007.  Reproduced with the authorization of 
+ the Service Hydrographique et Oceanographique de la Marine (SHOM, www.shom.fr), France, Contract no. E 67/2005.  Portions © SMA 2003-2007.  Reproduced with the permission of the Swedish Maritime Administration, license no. 03-01453.  This product has been 
+ derived in part from material obtained from the UK Hydrographic Office with the permission of the UK Hydrographic Office and Her Majesty’s Stationery Office.  © British Crown Copyright (2001-2006). License no. GB AC-002-Garmin. All rights reserved.  © Garmin Ltd. or 
+ its subsidiaries 1995-2007
+VEDLEGG 2a 
+Utskrift av elektronisk sjøkart 
+som syner plassering av 
+straumrigg, anlegg og 
+posisjon for straumrigg ved 
+tidlegare straummålingar 
+ved lokaliteten
+ Data and information contained in this Product are © 2002-2007 Her Majesty the Queen in Right of Canada, Canadian Hydrographic Service / Sa Majesté du chef en Canada, Service hydrographique du Canada and/or Nautical Data International, Inc., license no. 
+ 240502001-001/2 and 021704-087.  Portions may be © United Kingdom Hydrographic Office.  Portions © BSH 2005-2007. Bundesamt für Seeschifffahrt und Hydrographie (BSH), Germany, license no. 8095-01/2004-02 ÖA03.  Portions © Bolina - Editrice Incontri Nautici 
+ 2004-2007.  Portions © EMA 2007. Estonian Maritime Administration.  Portions © FMA 2004-2007.  Finland Hydrographic Office, license no. FMA 877/721/2004.  Portions © HHI 2002-2007. Reproduced with the permission of the Hydrographic Institute of the Republic of 
+ Croatia and Adriatic Sea Pilot.  Portions © HNHS 2004-2007. Reproduced with the permission of the Hellenic Navy Hydrographic Service,  license no. 171.7/22/03 .  Portions © Hydrographica 2005-2007.  Portions © IHM 2003-2007.  Reproduced with the permission of the
+ Instituto Hidrográfico de la Marina, Spain and the UK Hydrographic Office, license no. ES AC-001-Garmin.  Portions © IHP 2003-2007.  Reproduced with the permission of Instituto Hidrográfico, Portugal and the UK Hydrographic Office, license no. PT AC-002-Garmin.  
+ Portions © IHS 2004-2007. Reproduced with the permission of the Icelandic Coast Guard and the UK Hydrographic Office, license no. IS AC-001-Garmin.  Portions © IIM 2002-2007. Reproduced with the permission of the Istituto Idrografico della Marina, Italy .  Portions © 
+ KMS 2002-2007.  Reproduced with the permission of Kort and Matrikelstyrelsen, Denmark, license no. G.9-2002.  Portions © LHS 2007. Maritime Administration of Latvia.  Portions © NHS 2001-2007.  Reproduced with the permission of Norwegian Hydrographic Service, 
+ license no. NO 24/021001/1.  Portions © NLHO 2005-2007.  Reproduced with the permission of the Hydrographic Office of the Netherlands and UK Hydrographic Office, license no. NL AC-002-Garmin.  Portions © RNO 2005-2007. Reproduced with the permission of the 
+ National Hydrographic Office, Sultanate of Oman, OM A-C-001-Garmin. All rights reserved.  Portions © SAN 2002-2007.  Reproduced with the permission of the Department of Defence - South Africa.  Portions © SHOM 2005-2007.  Reproduced with the authorization of 
+ the Service Hydrographique et Oceanographique de la Marine (SHOM, www.shom.fr), France, Contract no. E 67/2005.  Portions © SMA 2003-2007.  Reproduced with the permission of the Swedish Maritime Administration, license no. 03-01453.  This product has been 
+ derived in part from material obtained from the UK Hydrographic Office with the permission of the UK Hydrographic Office and Her Majesty’s Stationery Office.  © British Crown Copyright (2001-2006). License no. GB AC-002-Garmin. All rights reserved.  © Garmin Ltd. or 
+ its subsidiaries 1995-2007
+VEDLEGG 2b 
+Utskrift av elektronisk sjøkart 
+som syner plassering av 
+straumrigg i mindre målestokk
+.............••••••
+..................•.................
+Tollesundet
+................
+•
+•
+•..........
+.
+Relatlvewater fux (%)
+per10d?gsector
+Furen
+VEDLEGG 3 
+Presentasjon av relativ 
+fluks på posisjon for 
+straumrigg. Raud strek 
+er 5 meter djup og blå 
+strek er 15 meter djup

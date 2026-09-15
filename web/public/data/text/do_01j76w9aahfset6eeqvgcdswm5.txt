@@ -1,0 +1,383 @@
+﻿Rådgivende Biologer AS 
+ 
+Notat 
+ 
+Edvard Griegs vei 3D 
+Tel: 97 10 59 10 
+www.radgivende-biologer.no 
+5059 Bergen 
+ 
+post@radgivende-biologer.no 
+Om rensekrav og parametervalg for landbasert oppdrett 
+ 
+Av: Dr.philos. Geir Helge Johnsen  
+Til: Andfjord Salmon AS ved Christian Halmøy Torgersen 
+Dato: 7. mars 2024. 
+ 
+Andfjord Salmon AS skal søke om endret inntaks- og utslippspunkt for sitt anlegg på lokalitet Kvalnes 
+med konsesjonsnummer NA0015 på Andøya i Nordland. I tillegg ønskes vilkårene i utslippstillatelsen 
+endret fra nåværende krav om prosentvis reduksjon av SS og organisk stoff, til konkret ramme for utslipp 
+og spesifikt utslipp av fosfor, nitrogen og organisk stoff.  
+ 
+I den forbindelse er Rådgivende Biologer AS spurt om å utarbeide et notat som forklarer bakgrunnen 
+for denne omleggingen, og for beregning av utslipp og rensegrad for en sånn endring. Vi har bistått med 
+opplegg for overvåking av utslipp og rensegrad ved anleggets første utsett av fisk fra juni 2022 til og 
+med juli 2023 (Johnsen 2023), og har de siste årene utarbeidet omtrent 150 tilsvarende 
+avløpsovervåkingsrapporter for oppdrettsanlegg i hele landet. 
+ 
+Bakgrunn 
+ 
+Miljødirektoratet har i en årrekke arbeidet med en revisjon av opplegget for overvåking av utslipp fra 
+landbaserte oppdrettsanlegg, som utgangspunkt for enhetlige rammer for utslippstillatelser for anlegg 
+med rensing. I den anledning fikk Miljødirektoratet høsten 2019 utarbeidet et «kunnskapsgrunnlag» 
+(Lomnes mfl. 2019), der det ble hentet informasjon om utslipp og renseeffekter fra 4 
+gjennomstrømmingsanlegg, 3 resirkuleringsanlegg og 4 kombinerte anlegg i 6 fylker. I tillegg er det 
+hentet inn data fra Fylkesmannen i Vestland fra 9 anlegg fordelt på årene 2016 (1 stk.), 2017 (5 stk.) og 
+2018 (3 stk.). Konklusjonen fra rapporten er at «situasjonen vedrørende utslipp fra landbaserte 
+settefiskanlegg er meget uoversiktlig». Det er stor forskjell mellom utslippstillatelsenes krav og også til 
+vilkårene for overvåking og rapportering mellom anlegg i ulike fylker, men også mellom anlegg i samme 
+fylke. Dette er også konklusjonen i foredrag fra Fylkesmannen i Vestland på Tekset-konferansene 
+gjennom de siste årene, den første i Trondheim februar 2017 (Pedersen 2017a). 
+Standardiserte beregninger for rensing og utslipp 
+For å standardisere saksbehandling ved de ulike Fylkesmennenes behandling av utslippstillatelser, 
+presenterte Statens forurensningstilsyn (SFT, nå Miljødirektoratet) veiledende formler for beregning av 
+utslipp basert på produksjon og fôrbruk allerede i 1999 (SFT 1999). Asbjørn Bergheim ved 
+Rogalandsforskningen (siden Iris og nå Norce) har arbeidet målrettet med disse problemstillingene i 
+over 20 år, og bidro blant annet med en oppsummering allerede i 2000 (Cripps & Bergheim 2000). Han 
+overvåket også Grieg Seafood AS sine settefiskanlegg i Rogaland i en årrekke fram til og med 2017. 
+ 
+Fylkesmannen i Hordaland (nå Statsforvalteren i Vestland) så behovet for en oppdatering av SFT sine 
+data og reviderte disse i 2015 (Pedersen 2015). Dette tallgrunnlag er siden benyttet i beregning av 
+«utslipp» fra ulike typer settefiskanlegg i de aller fleste nye utslippstillatelsene gitt siden høsten 2015, 
+og er også blitt brukt i flere andre fylker siden.  
+ 
+For anlegg med en årsproduksjon på over 250 tonn, har det de siste årene vært stilt krav til mekanisk 
+rensing av avløpet. Det ble innhentet erfaringsgrunnlag fra ulike typer renseanlegg fra leverandørenes 
+egne tester av renseanleggene, der en baserte seg på prøver før og etter renseanlegg. Generelt ble det 
+antatt at ulike oppdrettsanlegg med renseanlegg anlegg kunne oppnå rensegrad omtrent slik:  
+• 
+Gjennomstrømming med partikkelfilter ≈ 60-90 µm: N = 25 %, P og C = 55 %  
+• 
+RAS I resirkulering uten denitrifikasjon, filter 40-60 µm: N = 40 %, P = 60 % og C = 80 % 
+• 
+RAS II resirkulering med denitrifikasjon, filter 40-60 µm: N = 75 %, P = 60 % og C = 90 % 
+• 
+RAS II resirkulering med fosforfelling i tillegg: N = 75 %, P = 90 % og C = 90 % 
+Rådgivende Biologer AS 
+2 
+Notat 
+ 
+Utgangspunktet er at alt som brukes av fôr, enten blir til fisk eller til brutto utslipp fra karene før rensing, 
+kan utgangspunktet før rensing beregnes. For organisk stoff baserer en seg på at anslagsvis halvparten 
+av tilført karbon pustes ut som CO2 og derfor ikke inngår i brutto utslipp fra karene.  
+• 
+Nitrogen = fôrbruk * % nitrogen i fôr – total produksjon * % nitrogen i fisk 
+• 
+Fosfor = fôrbruk * % fosfor i fôr – total produksjon * % fosfor i fisk 
+• 
+Organisk stoff = 1/2 (fôrbruk * % TOC i fôr – total produksjon * % TOC i fisk) 
+ 
+«Ingen» oppnår teoretisk rensegrad  
+Med beregnet teoretisk brutto utslipp før rensing og erfaringsvis oppnåelig rensegrad, ble 
+utslippstillatelsene beregnet og utformet med angitte og strengere krav til både rensing og 
+dokumentasjon. Fylkesmannen i Hordaland etablerte en skjematisk årsrapportering for anleggene basert 
+på ovenstående beregninger for brutto utslipp samt at rensegrad blir beregnet ut fra hvor mye slam en 
+leverer med målt kvalitet.  
+ 
+Så er det selvsagt en del usikkerheter knyttet til disse betraktningene, både i de angitte innholdet av de 
+ulike stoff i fôr og fisk, men ikke minst også variasjon hva en kan oppnå av rensing i de ulike typene 
+anlegg. Etter hvert viste det seg også at så godt som ingen anlegg greide å oppnå de oppgitte 
+rensegradene i utslippstillatelsene. Rådgivende Biologer AS har overvåket avløp og beregnet rensegrad 
+fra en rekke anlegg de siste årene, og våre resultater samsvarer med de generelle erfaringene.  
+ 
+Årsakene til at anleggene ikke oppnår den teoretiske rensegraden er flere. Den første og iøynefallende 
+er at renseanlegget i RAS-anlegg ikke er «avløpsrenseanlegg», men er renseanlegg for vannmengdene i 
+anlegget som skal resirkuleres til fisken med utskifting av karvolumet to ganger i timen. Den høyere 
+antatte rensegraden beror på at dette vannet både renses i et mekanisk filter og i et biofilter. Den andre 
+hovedårsaken er at utslipp fra de mekaniske filtrene ved et gjennomstrømmingsanlegg ikke er de eneste 
+utslippene fra slike anlegg.  
+ 
+For både RAS-anlegg og fra gjennomstrømmingsanlegg har spylevannet som fjerner frafiltrert slam fra 
+filtrene, ofte et tørrstoffinnhold < 1 %, og dette slammet blir så avvannet i et slam-behandlingsanlegg 
+slik at en slipper å kjøre vekk mer enn 99 % vann når slammet skal leveres. Ulike slambehandlingsanlegg 
+foretar en avvanning av slammet, og kan generelt deles opp i tre suksessive nivåer basert på en kjede av 
+elementene: 
+1. Sedimenteringsanlegg med slamkvalitet på 5-10 % TS. 
+2. Båndfiltre, sentrifuger eller skruer som oppnår en slamkvalitet på 15-30 % 
+3. Tørker som oppnår rundt 90 % TS 
+ 
+I tillegg kan en bruke polymer i de første trinnene, slik at flere av de minste «fnokkene» flokkulerer ut 
+raskt og blir filtrerbare. Alle de første trinnene i slambehandlingen vil kunne ha utslipp enten via overløp 
+eller også fra rejektvann fra prosessene. Dersom en ikke inkluderer disse utslippene i den samlete 
+betraktningen, blir antagelsene om teoretisk oppnåelig rensegrad aldeles feil. Bare siste trinn med 
+tørking fører avvannings-vannet til luft og ikke til avløp. 
+ 
+I et RAS-anlegg er det ikke utslipp fra renseanlegget i det hele tatt, tvert imot vil det være overskuddet 
+av allerede renset vann som går i overløp og utslipp. Disse spedevanns-mengdene utgjør i 
+størrelsesorden 300-500 liter per kg fôr benyttet ved anlegget, og i tillegg kommer også utslippene fra 
+slambehandlingsanleggene som er omtalt ovenfor. Målinger har vist at selv om disse utslippene i volum 
+kan være små, kan konsentrasjonene være høye. Råvann inn til et anlegg har næringssaltkonsentrasjoner 
+på µg/l. Renset vann som går i avløp fra RAS-anlegg har konsentrasjon på mg/l og rejektvann fra 
+slambehandlingsanlegg er nærmere g/l i næringskonsentrasjon.  
+ 
+I gjennomstrømmingsanlegg vil også avløpsvannet etter avløpsrenseanlegget ha lave konsentrasjoner av 
+stoff, mens rejektvann fra slambehandlingsanlegget kan ha høye konsentrassjoner. 
+ 
+Rådgivende Biologer AS 
+3 
+Notat 
+ 
+Oppsummert  
+Så godt som alle utslippstillatelser for landbaserte oppdrettsanlegg er basert på feil forståelse av 
+oppnåelig rensegrad. De nyeste utslippstillatelsene vi har bistått med de siste 2-3 årene er imidlertid 
+basert på hva som er mulig å oppnå av rensing, med følgefokus på hva resipienten kan tåle av tilførsler 
+som begrensende forhold.  
+ 
+Ved å fokusere på hva som leveres av slam fra renseanleggene sett i forhold til hvor mye fôr som 
+benyttes, har det vist seg at det også er stor spredning i hva anleggene greier å oppnå av rensing. Vårt 
+erfaringsmateriale på over 100 årsrapporter per 2022, viser at det i gjennomsnitt ble levert 8 % mengde 
+tørrstoff av slam i forhold til fôr brukt. Det er ingen vesentlig forskjell mellom gjennomstrømmings- 
+eller resirkuleringsanlegg, men de med aller best resultat er gjennomstrømmingsanlegg. 
+ 
+Om BOF5, SS og TOC 
+ 
+Fylkesmennenes utslippstillatelser bygget opprinnelig på erfaring med krav til kloakkrenseanlegg der 
+krav gjerne var satt til mengde biologisk oksygenforbruk (BOF) eller innhold av suspendert stoff (SS) 
+Biologisk oksygenforbruk (BOF) er den mengden oksygen som forbrukes under gitte betingelser i en 
+biokjemisk oksidasjon av tilgjengelig organisk stoff. Biologisk oksygenforbruk måles enten som BOF5 
+eller BOF7, også dette med benevning mg O/l, der forskjellen på det to er hvor mange dager prøven har 
+fått stå mens «biologien» har oksidert det organiske materialet, før forbruket måles. Dette er biologisk 
+nedbryting, helt tilsvarende den kjemiske oksidasjonen: C + O2 = CO2, og det er oksygenmengden som 
+måles i dette tilfellet også. 
+ 
+BOF er imidlertid en svakere form for oksydering enn den mer «brutale» kjemiske (KOF), og 
+tommelfinger er at i avløp fra kloakkanlegg er BOF omtrent 60% av KOF. For anlegg med mye «guff» 
+i avløpet, kan denne verdien være opp mot 70%, mens for avløp med «vanskeligere tilgjengelig» 
+organisk stoff kan BOF være helt ned til 20-30% av KOF (pers. med. Tommie Christensen, Eurofins 
+Norsk Miljøanalyse AS, Bergen).  
+ 
+Suspendert stoff (SS) er de små partiklene som er suspendert i avløpsvann, og måles ved filtrering på 
+filtre med 0,45 µm åpning. Ved overvåking av avløp fra anleggsområder er dette ofte uorganisk 
+steinstøv, der det ofte kan være god sammenheng med måling av turbiditet, som måles ved refleksjon 
+av hvitt lys. I avløp fra kloakkrenseanlegg vil dette være organiske partikler som i større grad viser 
+korrelasjon til biologisk oksygenforbruk.  
+ 
+I avløp fra oppdrettsanlegg vil SS også 
+i større grad være partikler med 
+organisk opphav. 
+ 
+I avløp fra gjennomstrømmings-anlegg 
+er det i mindre grad små partikler i de 
+store vannmengdene, slik at analyser at 
+SS i de aller fleste tilfeller gir resultat 
+under analysens deteksjonsgrense (< 2 
+mg/l), og eksempelet til høyre viser litt 
+av problemet med å benytte denne 
+parameteren for beregning av rensegrad 
+ved slike anlegg. Resultatene blir 
+uansett lite nøyaktige når nesten 
+halvparten av målingene ikke er 
+«konkrete» nok.  
+ 
+ 
+ 
+Rådgivende Biologer AS 
+4 
+Notat 
+ 
+I resirkuleringsanlegg går vannet så hyppig gjennom renseanlegget at karvolumet skiftes ut kanskje 2 
+ganger i timen. Da vil både de mekaniske filtrene og de påfølgende biofiltrene bidra til at de opprinnelige 
+større partiklene blir filtrert vekk, mens de små akkumulerer til en betydelig større mengde med fine og 
+suspenderte partikler. Tall vi har fra slike anlegg viser betydelig høyere mengder i vannmassene – 
+nedenfor fra et nystartet anlegg som siden har bedret vannkvaliteten betraktelig. «Før» og «etter» er 
+prøver tatt før og etter anleggets interne renseanlegg, og viser at mekanisk filter og biofilter greier å 
+rense 2/3 av de suspenderte partiklene, uansett om man filtrerer på et 1,2 µm filte eller et 0,45 µm filter.  
+ 
+ 
+ 
+Fra den samme dataserien 
+vist over, men utvidet 
+med 
+så 
+godt 
+som 
+månedlige målinger inn 
+og ut av renseanlegget 
+over fire år, ser vi en 
+meget god sammenheng 
+mellom organisk stoff 
+(TOC) 
+og 
+mengde 
+suspendert stoff med en 
+R² på 0,93 for 84 punkt. 
+Mengden 
+SS 
+er 
+4,1 
+ganger mengden TOC. 
+Rensanlegg i slike RAS-
+anlegg har altså nokså 
+samme 
+rensegrad 
+for 
+TOC og SS (se tabell 
+over). Fra den samme 
+dataserien vist over er 
+månedlig rensegrad for 
+TOC sammenholdt med 
+tilsvarende rensegrad for 
+SS. Også her ser vi en 
+meget god sammenheng 
+mellom de to med en 
+R²=0,97 for 42 punkt, og 
+rensegrad for TOC og SS 
+forholder 
+seg 
+til 
+hverandre 
+med 
+faktur 
+0,95. 
+ 
+ 
+Rådgivende Biologer AS 
+5 
+Notat 
+ 
+Av alle mulige hensyn, synes TOC å være fullt ut i stand til å erstatte parameteren SS ved vurdering av 
+utslipp fra og rensegrad ved renseanlegg ved oppdrettsanlegg med resirkulering. Variasjonen i skyene 
+på de to figurene foran viser imidlertid at SS nok kan inneholde partikler som består av mer enn bare 
+organisk materiale.  
+ 
+Fra en dataserie fra 
+avløp fra et tunnel-
+anleggsområde, 
+ble 
+avrenningsvannet under-
+søkt 
+ukentlig 
+med 
+hensyn på innhold av SS 
+og turbiditet. Årsaken 
+var at utslippskravet var 
+satt i SS, som ikke var 
+mulig 
+å 
+logge 
+kontinuerlig. Det var 
+imidlertid 
+turbiditet, 
+som da ble omregnet til 
+SS med faktor 1,1 i dette 
+tilfellet.  
+ 
+I figuren utgjør SS uorganisk steinstøv, og i avløp fra oppdrettsanlegg kan også SS bestå av andre 
+elementer enn organisk karbon.TOC (total organisk karbon) er imidlertid et direkte mål på hvor mye 
+totalt organisk karbon som er i en prøve, og har benevning mg C/l. Dette er nesten uavhengig om prøvens 
+organiske materiale er partikulært (POC), oppløst (DOC) eller suspendert (SS), og derfor uavhengig om 
+dette er lett eller vanskelig tilgjengelig for biologisk nedbryting. KOF med dikromat tilsvarer omtrent 
+2,5 x TOC verdier, mens den ene har benevning mg O/l og den andre har mg C/l.  
+ 
+Dette er litt avhengig av hvilken BOF man benytter, og formlene over gjelder for måling av BOF5. 
+Forholdet mellom BOF7 og BOF5 = 1,167, siden oksygenforbruket naturligvis blir større over en 7-
+dagers periode enn i bare 5 dager. Dette tilsier at formel 3 da blir slik: 
+1) BOF5 = 1,5 x TOC   
+2) BOF7 = 1,75 x TOC 
+ 
+Ved overvåking av avløp fra settefiskanlegg anbefaler vi at derfor at en benytter kun TOC, siden dette 
+er et direkte mål på det en ønsker å overvåke, mens både SS og BOF5 er indirekte og mindre gode mål 
+på bare delvis samme. SS og BOF5 er en parameter som i hovedsak har vært benyttet ved overvåking av 
+avløp fra kloakkrenseanlegg, og dette er lite sammenlignbart med avløp fra oppdrettsanlegg.  
+ 
+Andfjord Salmon 
+ 
+Andfjord Salmon AS er et landbasert matfiskanlegg med produksjon i et utskutt basseng på land, der 
+sjøvann pumpes inn og ut. Det er således et gjennomstrømmingsanlegg uten noe avløpsrenseanlegg, 
+fordi det er så store vannmengder (283 m³/min) som går gjennom. Dette er for så vidt helt tilsvarende 
+som øvrige «lukkete» matfiskanlegg i sjø, der vann pumpes fra større dyp til en lukket merd med fisk. 
+Både EcoMerden, FishGlobe, Cato Lyngøy sitt «egget» og Eide Fjordbruk AS sin «WaterMoon» fra 
+Framo / LiftUp er alle således tilsvarende gjennomstrømmingsanlegg, der bare ytterst få prosent av 
+vannstrømmen gjennom anlegget blir renset. 
+ 
+Andfjord Salmon AS sørger i sitt basseng for at vannstrømmen går mest mulig laminært gjennom 
+oppdrettsbassenget, og så til avløp i sjø uten videre behandling. Den langsomme og laminære 
+utskiftingen i karet gjør at det meste av spillfôr og fiskefeces synker til bunns. I pilotanlegget har man 
+kjørt en slamsuger over hele bunnen, men dette vil bli videreutviklet i de neste rundene.  
+Rådgivende Biologer AS 
+6 
+Notat 
+ 
+ 
+Det oppsamlete slammet fra bunnen føres videre til et slambehandlingsanlegg der slammet avvannes. I 
+pilotanlegget har man endt opp med slam på opp 11 % TS, mens ved videre utvidelser ønsker man å ha 
+slam med i hvert fall inntil 30 % tørrstoffinnhold. 
+ 
+ 
+Andfjord Salmon planlegger  
+ 
+Andfjord Salmon ønsker å få endret vilkårene i utslippstillatelsen fra nåværende krav om prosentvis 
+reduksjon av SS og organisk stoff, til konkret ramme for utslipp og spesifikt utslipp av fosfor, nitrogen 
+og organisk stoff. Vi legger følgende utgangspunkt til grunn i regnearket som Statsforvalterne benytter 
+for årsrapportering av utslipp og rensegrad fra oppdrettsanlegg: 
+• 
+Av-vanning av slam til 30 % TS,  
+• 
+Opprettholde kravet om minst 20 % rensegrad for organisk stoff,  
+ 
+Da får man dette oppsettet på produksjon, brutto-, netto- og spesifikt utslipp med tilhørende rensegrad 
+for fullt utbygd anlegg med produksjon på 10.000 tonn. Ut fra erfaringene med pilotproduksjon 1 ved 
+anlegget, burde dette være innen rekkevidde også basert på erfaringene fra en rekke andre 
+slambehandlingsanlegg over hele landet. 
+ 
+ 
+ 
+Siden dette er et gjennomstrømmingsanlegg vil det være spesielt viktig å fokusere tillatelsen på 
+overvåkingsparametere som gir målbare resultat, altså verken SS eller BOF. Måling av SS kan ha noe 
+for seg ved avløpsmålinger fra RAS-anlegg, men ikke fra dette gjennomstrømmingsanlegget på 
+Kvalnes. Betraktningene foran viser at TOC fullt ut kan erstatte SS som parameter selv i overvåkingen 
+av utslipp fra RAS-anlegg.  
+ 
+I beregningene og vurderingene av rensegrad fokuserer statsforvalterne dessuten på massebetraktninger 
+av de tre elementene fosfor, nitrogen og organisk karbon. Dette fordi en for disse tre har mulighet å 
+følge strømmen gjennom anlegget fra fôr til fisk, til utslipp før rensing og videre i avløp slik: 
+• 
+Alt fôr blir enten til fisk eller til «brutto» utslipp fra produksjonsenhetene 
+• 
+Alt «brutto» utslipp blir enten renset og levert som slam eller går i avløp 
+ 
+Dette er standard opplegg for nyere søknader og tilhørende vilkår i øvrige fylker, og handler da også om 
+resipientens tåleevne for disse tilførslene. 
+ 
+ 
+ 
+Dr.philos. Geir Helge Johnsen 
+Rådgivende Biologer AS 
+7 
+Notat 
+ 
+Referanser 
+ 
+Cripps, S.J. & A. Bergheim 2000. Review. Solids management and removal for intensive land-based 
+aquaculture production systems. Aquacultural Engineering 22 (2000) pp 33-56. 
+Johnsen, G.H. 2023. Andfjord Salmon AS. Utslipp og rensing for utsett 1 fra juni 2022 til juli 2023.  
+Rådgivende Biologer AS, rapport 4011, 13 sider. 
+Lomnes, B.S., A. Senneset & G. Tevasvold 2019. Kunnskapsgrunnlag for rensing av utslipp fra 
+landbasert akvakultur. Rambøll unummerert rapport til Miljødirektoratet datert 22. oktober 
+2019, 23 sider. 
+Pedersen, T.N. 2015. Utslipp av organisk materiale fra settefiskanlegg. Fylkesmannen i Hordaland, 
+Internt notat juli 2015, 3 sider. 
+Pedersen, T.N. 2017a. Utslippstillatelser til settefiskanlegg – meget er forskjellig, men inni er vi like. 
+Foredrag Tekset-konferansen i Trondheim 14. februar 2017. Fylkesmannen i Hordaland, 
+powerpoint 17 slides. 
+Pedersen, T.N. 2017b. Biomasseregnskap for utslipp fra settefiskanlegg. Fylkesmannen i Hordaland, 
+Internt notat datert 15. november 2017, 2 sider. 
+Pedersen, T.N. 2020. «Hvis du ikkje e’ forvirret e’ du feilinformert». Om rensekrav og 
+utslippsreduksjon. Foredrag Tekset-konferansen i Trondheim 12. februar 2020. Fylkesmannen i 
+Vestland, powerpoint 17 slides. 
+SFT 1999. Fylkesmannens behandling av oppdrettsaker. SFT-veiledning 99:04 (TA-1653/1999)  
+Wang, X., K. Andresen, A. Handå, B. Jensen, K.I. Reitan & Y. Olsen 2013. Chemical composition 
+and release rate of waste discharge from an Atlantic salmon farm with evaluation of IMTA 
+feasibility. Aquaculture environment interactions, vol 4 (2013), pp 147-162. 
+Aas, T.S. & T. Åsgård 2019. Stoff-flyt av næringsstoff og energi frå fôr i et landbasert settefiskanlegg. 
+Nofima rapport 5/2019, 20 sider, ISBN 978-82-8296-582-8.

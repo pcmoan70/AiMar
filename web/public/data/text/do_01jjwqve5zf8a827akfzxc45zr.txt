@@ -1,0 +1,4187 @@
+﻿STRAUMMÅLING VED BÅRØY 
+I GULEN KOMMUNE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STRAUMMÅLING UTFØRT I SAMSVAR MED NS 9425:1999 OG NS 
+9415:2009 FOR FIRDA SJØFARMER AS 
+ 
+ 
+ 
+ 
+ 
+Dørhella, 6980 Askvoll 
+ 
+Tlf.: 57 73 02 30 
+Faks: 57 21 88 40 
+Mobil: 975 37 139 
+ 
+E-post: eivind@subaquatech.no 
+Internett: www.subaquatech.no 
+ 
+Foretaksregisteret: NO 991 373 969 MVA 
+Sub Aqua Tech rapport 
+ 
+Tittel: 
+Straummåling ved Bårøy i Gulen 
+kommune 
+Rapportnummer: 
+Straum 2-11-14 
+Distribusjon: 
+Fortruleg 
+Prosjektnummer:  
+STRAUM0086 
+Sider: 
+25 + vedlegg 
+Forfattar: 
+Birgitte K. Sunde 
+Prosjektleiar: 
+Eivind Aarseth 
+Verifisert av: 
+Eivind Aarseth 
+Rapport ferdigstilt: 
+28.11.14 
+Elektronisk arkivkode: 
+Straum2-11-14 Bårøy hausten 2014 
+Lokalitet: 
+Bårøy 
+Lokalitetsnr.: 
+11749 
+Kommune: 
+Gulen 
+Tidspunkt for måling: 
+17.10.14-20.11.14 
+Oppdragsgjevar:  
+Firda Sjøfarmer AS 
+Oppdragsreferanse: 
+Anette Lekva 
+Adresse oppdragsgjevar: 
+5970 Byknesøy 
+Samandrag: 
+Straumbilde ved denne lokaliteten syner ein under middels svak straum ved 40 m (2,7 
+cm/s), middels sterk straum ved 15 m djup (4,9 cm/s), god straum ved 70 m djup (7,1 
+cm/s) og svært god straum ved 5 m djup (9,1 cm/s). Vi ser at straumbildet er noko likt ved 
+5 og 70 m djup. Straumbildet er påverka av topografi og tidevatn.  
+ 
+Stikkord norsk: 
+Straummåling 
+Straumtilhøve 
+NYTEK 
+NS 9415:2009 
+Bårøy 
+Gulen 
+Stikkord engelsk: 
+Current measurement 
+NYTEK 
+ 
+Askvoll, 28.11.14 
+ 
+ 
+Eivind Aarseth 
+ 
+ 
+ 
+ 
+- 2 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+INNHOLD 
+1. 
+BAKGRUNN .............................................................................................................................. 4 
+2. 
+FRAMGANGSMÅTE OG UTSTYR ............................................................................................... 5 
+2.1 
+INSTRUMENT ..............................................................................................................................5 
+2.2 
+RIGG ........................................................................................................................................6 
+2.3 
+DATAINNSAMLING OG HANDSAMING ..............................................................................................6 
+2.4 
+DATAREDIGERING OG KVALITETSKONTROLL .......................................................................................7 
+2.5 
+MERKNADER TIL MÅLINGANE/DATAKVALITET .....................................................................................7 
+3. 
+RESULTAT FRÅ MÅLINGANE ..................................................................................................... 8 
+3.1 
+TEMPERATUR .............................................................................................................................8 
+3.1 
+STRAUMFART OG STRAUMRETNING .................................................................................................9 
+3.1.1 
+Relativ fluks ........................................................................................................................9 
+3.1.2 
+Maksimum og middelstraum ...........................................................................................11 
+3.1.3 
+Progressiv vektor .............................................................................................................13 
+3.1.4 
+Straumfart/straumstyrke og straumretning ....................................................................16 
+3.1.5 
+Statistisk oversikt .............................................................................................................21 
+3.2 
+KONKLUSJON............................................................................................................................24 
+REFERANSAR ................................................................................................................................... 25 
+VEDLEGG ......................................................................................................................................... 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 3 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+1. BAKGRUNN  
+Måling av straum er ein viktig del av grunnlaget for å kunne vurdere bereevna til ein 
+lokalitet. Tilstrekkeleg straum er avgjerande både for utskifting av vatn i merdane 
+(ventilasjon) og for evne til å transportere vekk fôrrestar og fekalier frå anlegget. I samband 
+med skjeldyrking er straumtilhøva svært viktig for vurdering av tilvekst, avgifting, risiko for 
+skader på grunn av is, belastning på anlegget m.m.  
+Det er mange faktorar som påverkar straumretning/styrke og desse er vanlegvis like 
+uforutsigbare som vindretning/styrke på land. 
+I tilknyting til MOM-systemet (Fiskeridirektoratet 2012) vert det skildra bakgrunn og 
+metode for gjennomføring av straummålingar. Det er her skildra tre typar straum som det 
+er ønskelig å kartlegge på lokaliteten: 
+•
+Vassutskiftingsstraum: Skal målast i halvparten av planlagt merddjup. 
+•
+Spreiingsstraum: Skal målast midt mellom merdbotnen og sjøbotnen, men ikkje 
+djupare enn 50 meter 
+•
+Botnstraum: Skal målast 1 meter over sjøbotnen, men ikkje ved større djup enn 
+100 meter. 
+I Norsk Standard 4915:2009 som gjeld tekniske krav til flytende oppdrettsanlegg, er det 
+mellom anna stilt krav om gjennomføring av straummåling for å skaffe grunnlagsdata ved 
+vidare klassifisering av lokaliteten (berekning av naturlaster). Det blir her kravd at 
+straummåling skal gjennomførast på andre djup, høvesvis 1 og 15 meter. Dette vart seinare 
+endra til 5 og 15 meter.  
+Sub Aqua Tech AS prøver å gjennomføre straummålingane på ein måte som best 
+mogleg skal tilfredsstille dei ulike krava både for vurdering av naturlaster og miljølaster. 
+Straummålingane vert vidare gjennomført i samsvar med NS 9425-1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 4 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+2. FRAMGANGSMÅTE OG UTSTYR 
+2.1 INSTRUMENT 
+Utstyret som vart nytta var ein rigg med to stk. straummålarar (Figur 1) av typen SD-
+6000 frå Sensordata AS med fysisk registrering av straum basert på ein rotor og kompass. 
+Instrumenta var innstilt på måling kvart 10. minutt, noko som gjev om lag 3800 målingar 
+ved ein måleperiode på 4 veker (lagringskapasiteten er inntil 6000 målingar). Desse 
+instrumenta måler også temperatur. Serienummer på instrumenta var 811, 1703, 1280 og 
+1278 og var satt ut ved 5, 15, 40 og 70 m djup . Det var ikkje gjort modifikasjonar på 
+instrumenta. Instrumenta som vart nytta i denne undersøkinga var leigd av AkvaVet Gulen 
+AS og det var dei som hadde ansvar for batteriskift, vedlikehald etc. 
+Nøyaktigheit er frå Sensordata AS oppgitt til følgjande: Temperatur +/- 0,1 0C, 
+kompassretning +/- 2 grader (målt kompassretning/straumretning er ikkje korrigert for 
+misvisning). Terskelverdi 1,0 cm/s (m.a.o. svakare straum enn 1,0 cm/s er lik straumstille. 
+Instrumenta er oppgitt til å ha ei oppløysing på 0,5 cm/s ved ei straumfart innanfor 
+måleområdet 0-8 cm/s. Anna nøyaktigheit er ikkje oppgitt. 
+Kalibrering vart gjort av Sensordata AS ved levering av instrumenta og er ikkje gjort på 
+nytt etter dette. 
+Instrumentlogg for kvart av instrumenta vart ført og oppbevart hos Sub Aqua Tech AS.  
+Måleinstrumenta vart sett i sjøen 17. oktober 2014 og teken opp for avlesing 20. 
+november 2014. Dette gav då totalt som rådata 4892 målingar (sjå elles merknader i 
+kapittel 3). 
+ 
+FIGUR 1: SKISSE SOM SYNER MONTERING AV RIGG, MÅLEDJUP, INSTRUMENTNR. OG TOTAL DJUPNE. 
+ 
+ 
+ca. 5 m djup 
+ca. 15 m djup 
+Totalt djup 73 m 
+Instrumentnr. 811 
+Instrumentnr. 1703 
+Instrumentnr. 1280 
+Instrumentnr. 1278 
+ca. 40 m djup 
+ca. 70 m djup 
+ 
+- 5 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+2.2 RIGG 
+Posisjon for plassering av riggen vart gjort etter totalvurdering av topografi, plassering 
+av anlegg etc. for å få målingar mest mogleg representative for lokaliteten (viser til 
+avmerking på kart, Figur 2). Posisjon for straumrigg var N60ᵒ 56,624’ /E4ᵒ 50,970’ (WGS 84). 
+Riggen vart plassert ut søraust for anlegget i samband med søknad om utviding av anlegget i 
+begge endar.  
+ 
+FIGUR 2: PLASSERING AV STRAUMRIGG I FORHOLD TIL ANLEGGET 
+Forankring/montering av rigg vart gjort med ein 12 kg faldedregg, ca. 10-15 kg kjetting 
+og 8 mm Dan-line/Scan-ile. For oppdrift vart det nytta 11” trålkule i plast festa i riggen og 
+tradisjonell blåse på overflata. Berekning av posisjon, djupne etc. for plassering av 
+straumrigg vart gjort med kombinasjonsinstrument av type Garmin GPSMAP 526s.  
+2.3 DATAINNSAMLING OG HANDSAMING 
+Instrumenta var leigd av AkvaVet Gulen medan feltarbeid og utarbeiding av rapport vart 
+gjort av Sub Aqua Tech AS. Ansvarleg for feltarbeid var Eivind Aarseth.  
+Type måling, mellom anna momentanverdi, 
+snittverdi og registreringsavbrot: 
+Vektormidling av straumdata.  
+Måleintervall: 
+10 minutt. 
+Varigheit for kvar enkelt midlingsperiode: 
+Instrumentet deler kvart måleintervall inn i 5 
+subintervall. Med andre ord ei måling kvart 2. 
+minutt som vert midla på 10 minutt.  
+Tal rådatamålingar for kvar presenterte 
+dataverdi: 
+4892 målingar ved alle måledjupa (5, 15, 40 og 
+70 meter djup). 
+Reell måleperiode for handsama data: 
+17.10.14 – 20.11.14 
+Framgangsmåtar for reduksjon av støy, 
+filtrering og datakompresjon: 
+Det er ikkje gjort ved straummålingane i 
+denne serien.  
+  
+ 
+- 6 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+2.4 DATAREDIGERING OG KVALITETSKONTROLL 
+Etter visuell kontroll og demontering av riggen vart målingane avlest og lagt inn på 
+datamaskin for vidare handsaming/presentasjon. For handsaming/presentasjon av 
+måledata er det nytta standard programvare for dette frå Sensordata AS (versjon 
+4.7.11.71). 
+2.5 MERKNADER TIL MÅLINGANE/DATAKVALITET 
+Alle instrumenta vart kontrollert før utplassering i samsvar med tilrådde prosedyrar frå 
+Sensordata AS og ved innhenting (visuell vurdering og teknisk kontroll).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 7 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+3. RESULTAT FRÅ MÅLINGANE 
+3.1 TEMPERATUR  
+Figur 3, Figur 4, Figur 5 og Figur 6 viser temperaturmålingar som syner variasjonar i 
+temperatur på kvar enkelt instrument ved ulik djupne fordelt på tidsrom for måling . Ved 5 
+og 15 meter djup kan ein sjå at temperaturen går nedover utover i måleperioden. Ver obs 
+på at y-aksen som viser temperatur er ulik skalert for dei fire figurane. Ved 40 m djup var 
+temperaturen ganske stabil i måleperioden medan den ved 70 m djup varierte litt meir i 
+måleperioden.  
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+10,0
+10,5
+11,0
+11,5
+12,0
+12,5
+13,0
+13,5
+14,0
+14,5
+15,0
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Temperature (°C)
+Days
+ 
+FIGUR 3 TEMPERATURMÅLING VED 5 M DJUP 
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+10,8
+11,0
+11,2
+11,4
+11,6
+11,8
+12,0
+12,2
+12,4
+12,6
+12,8
+13,0
+13,2
+13,4
+13,6
+13,8
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Temperature (°C)
+Days
+ 
+FIGUR 4 TEMPERATURMÅLING VED 15 M DJUP 
+ 
+- 8 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+2,5
+3,0
+3,5
+4,0
+4,5
+5,0
+5,5
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+9,5
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Temperature (°C)
+Days
+ 
+FIGUR 5 TEMPERATUR VED 40 M DJUP 
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+7,5
+8,0
+8,5
+9,0
+9,5
+10,0
+10,5
+11,0
+11,5
+12,0
+12,5
+13,0
+13,5
+14,0
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Temperature (°C)
+Days
+ 
+FIGUR 6 TEMPERATUR VED 70 M DJUP 
+3.1 STRAUMFART OG STRAUMRETNING 
+3.1.1 RELATIV FLUKS 
+Figur 7, Figur 8, Figur 9 og Figur 10 syner relativ fluks (eller straumaktivitet) og tal 
+målingar i 15 graders intervalla. Dersom ein kopierer utskrift av denne figuren på eit 
+lysark/foil, og legg det opp på kartet som syner plassering av straumrigg, får ein eit godt 
+bilete av straumtilhøva på lokaliteten (Vedlegg 3). Figur 7 syner ein relativ fluks som vekslar 
+mellom nordvest og  svakt mot sør. Ved 15 m djup syner Figur 8 at den relative fluksen 
+vekslar mellom sørsøraust og litt i retning nordvest.  
+ 
+- 9 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+40
+35
+30
+25
+20
+15
+10
+5
+N
+Relative water flux (%)
+per 15 deg sector
+1500
+1000
+500
+N
+Number of measurements
+per 15 deg sector
+ 
+FIGUR 7: RELATIV FLUKS VED 5 M DJUP 
+p y
+30
+25
+20
+15
+10
+5
+N
+Relative water flux (%)
+per 15 deg sector
+1000
+800
+600
+400
+200
+N
+Number of measurements
+per 15 deg sector
+ 
+FIGUR 8 RELATIV FLUKS VED 15 M DJUP 
+Ved 40 meter djup var det meir ”spreiing” av straumaktiviteten mot sørsøraust (Figur 9) 
+og litt mot nordvest. Ved 70 m djup var straumaktiviteten mest mot nordvest, men også litt 
+mot nord og sør (Figur 10), ganske lik som ved 5 m djup. Av Vedlegg 3 kan ein sjå at 
+terrenget rundt lokaliteten tydeleg påverka straumbildet.  
+ 
+ 
+- 10 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+14
+12
+10
+8
+6
+4
+2
+N
+Relative water flux (%)
+per 15 deg sector
+500
+400
+300
+200
+100
+N
+Number of measurements
+per 15 deg sector
+ 
+FIGUR 9 RELATIV FLUKS VED 40 M DJUP 
+p y
+35
+30
+25
+20
+15
+10
+5
+N
+Relative water flux (%)
+per 15 deg sector
+800
+600
+400
+200
+N
+Number of measurements
+per 15 deg sector
+ 
+FIGUR 10 RELATIV FLUKS VED 70 M DJUP 
+3.1.2 MAKSIMUM OG MIDDELSTRAUM 
+Figur 11, Figur 12, Figur 13 og Figur 14 syner maksimum og middelstraum fordelt på 15 
+graders intervalla. Desse opplysningane er nyttig i samband med berekning av dimensjonar 
+på fortøyingar, plassering av anlegg i høve straumretning etc. Vi kan i desse diagramma sjå 
+at den sterkaste straumen var ved 5 meter djup og var 35,2 cm/s mot sør. Ved 15 meter 
+djup 23,4 cm/s mot sørsøraust. Den sterkaste straumen ved 40 m var 16,4 cm/s mot 
+nordvest medan den var 32,4 cm/s mot nordvest ved 70 m djup. Maksstraumen ved 70 m 
+djup var nesten like høg som ved 5 m djup. Ein kan sjå at det er sterkast straum mot 
+nordvest ved 70 m djup.  
+ 
+- 11 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+p y
+35
+30
+25
+20
+15
+10
+5
+N
+Maximum velocity (cm/s)
+per 15 deg sector
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+N
+Mean velocity (cm/s)
+per 15 deg sector
+ 
+FIGUR 11: MAKSIMUM OG MIDDELSTRAUM VED 5 M DJUP 
+ 
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+N
+Maximum velocity (cm/s)
+per 15 deg sector
+7
+6
+5
+4
+3
+2
+1
+N
+Mean velocity (cm/s)
+per 15 deg sector
+ 
+FIGUR 12: MAKSIMUM OG MIDDELSTRAUM VED 15 M DJUP 
+ 
+- 12 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+p y
+16
+14
+12
+10
+8
+6
+4
+2
+N
+Maximum velocity (cm/s)
+per 15 deg sector
+5
+4
+3
+2
+1
+N
+Mean velocity (cm/s)
+per 15 deg sector
+ 
+FIGUR 13 MAKSIMUM OG MIDDELSTRAUM VED 40 M DJUP 
+p y
+30
+25
+20
+15
+10
+5
+N
+Maximum velocity (cm/s)
+per 15 deg sector
+12
+10
+8
+6
+4
+2
+N
+Mean velocity (cm/s)
+per 15 deg sector
+ 
+FIGUR 14 MAKSIMUM OG MIDDELSTRAUM VED 70 M DJUP 
+3.1.3 PROGRESSIV VEKTOR 
+Den mest tydelege måten å få eit inntrykk av hovudstraumretninga er truleg ved hjelp 
+av progressivt vektor diagram, Figur 15, Figur 16, Figur 17 og Figur 18. Denne måten å 
+framstille målingane på nyttar straumstyrke, retning, tid og utrekna distanse for å 
+synleggjere flytting av vasspartiklane i måleperioden. For kvart kryss på kurva i desse 
+diagramma har vasspartiklane flytta seg eit døgn. Denne framstillinga er basert på ein 
+idealisert situasjon der instrumenta er forankra i opent hav utan fysiske hindringar for 
+straumen. Sett på spissen kan ein seie at dersom vatnet heile tida vert ført vekk frå 
+startpunktet er vassutskiftinga bra og dersom dei same vassmengdene driv fram og tilbake 
+vert utskiftinga dårleg. Diagramma syner ein nettostraum i perioden mot nordvest ved 5 
+meter djup, mot søraust ved 15 meter djup, mot sør-søraust ved 40 m djup og mot 
+nordvest ved 70 meter djup.  
+ 
+- 13 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+Neumann-parameter er eit mål for stabiliteten i straumretninga. Dess lågare Neumann-
+parameter dess meir ”uryddig” eller ”vinglete” har vassmengdene flytta på seg. Med andre 
+ord - låg Neumann-parameter indikerer at vassmengdene blandar seg. Maksimal verdi er 1. 
+Neuman-parameter ved denne målinga var 0,486 ved 5 m djup, 0,437 ved 15 m djup, 0,452 
+ved 40 m djup og 0,473 ved 70 m djup.  
+Neumann parameter: 0.486
+Rest speed: 4.4 cm/s
+Average speed: 9.1 cm/s
+Rest direction: 311 deg.
+60
+50
+40
+30
+20
+10
+0
+-10
+-20
+-30
+-40
+-50
+-60
+-70
+-80
+-90
+-100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+km N (Skipped invalid data.)
+km E
+ 
+FIGUR 15 PROGRESSIV VEKTOR DIAGRAM FOR STRAUMMÅLINGANE VED 5 M DJUP I MÅLEPERIODEN 
+Neumann parameter: 0.437
+Rest speed: 2.1 cm/s
+Average speed: 4.9 cm/s
+Rest direction: 161 deg.
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+0
+-5
+-10
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+-55
+-60
+km N (Skipped invalid data.)
+km E
+ 
+FIGUR 16 PROGRESSIV VEKTOR DIAGRAM FOR STRAUMMÅLINGANE VED 15 M DJUP I MÅLEPERIODEN 
+ 
+- 14 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+Neumann parameter: 0.452
+Rest speed: 1.2 cm/s
+Average speed: 2.7 cm/s
+Rest direction: 173 deg.
+64
+62
+60
+58
+56
+54
+52
+50
+48
+46
+44
+42
+40
+38
+36
+34
+32
+30
+28
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+0
+-2
+-4
+-6
+-8
+-10
+-12
+-14
+-16
+-18
+-20
+-22
+-24
+-26
+-28
+-30
+-32
+-34
+-36
+km N (Skipped invalid data.)
+km E
+ 
+FIGUR 17 PROGRESSIV VEKTOR DIAGRAM FOR STRAUMMÅLINGANE VED 40 M DJUP I MÅLEPERIODEN 
+ 
+Neumann parameter: 0.473
+Rest speed: 3.4 cm/s
+Average speed: 7.1 cm/s
+Rest direction: 305 deg.
+20
+15
+10
+5
+0
+-5
+-10
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+-55
+-60
+-65
+-70
+-75
+-80
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+km N (Skipped invalid data.)
+km E
+ 
+FIGUR 18 PROGRESSIV VEKTOR DIAGRAM FOR STRAUMMÅLINGANE VED 70 M DJUP I MÅLEPERIODEN 
+ 
+ 
+ 
+- 15 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+3.1.4 STRAUMFART/STRAUMSTYRKE OG STRAUMRETNING 
+Figur 19, Figur 20, Figur 21 og Figur 22 syner straumfart/straumstyrke i perioden vist 
+som kurvar (straumfart i cm/s) fordelt på tid. På denne måten er det t.d. lett å sjå 
+maksimumsfart/minimumsfart og kor lenge desse periodane varer utan omsyn til retning.  
+Ein kan ofte sjå variasjonar i straumfart (t.d. auka straumaktivitet) som fell saman med 
+månefasane (kring datoane for fullmåne og nymåne). Fullmåne og nymåne i måleperioden 
+(17.10.14 – 20.11.14) var høvesvis 06.11. (fullmåne) og  23.10. (nymåne). Vedlegg 4 syner ei 
+oversikt over tidevassyklusen i perioden for måling av straum ((17.10.14 – 14.11.14).  
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+16,0
+18,0
+20,0
+22,0
+24,0
+26,0
+28,0
+30,0
+32,0
+34,0
+36,0
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Current speed (cm/s)
+Days
+ 
+FIGUR 19: MÅLT STRAUMFART (CM/S) VED 5 M DJUP I MÅLEPERIODEN 
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+16,0
+18,0
+20,0
+22,0
+24,0
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Current speed (cm/s)
+Days
+ 
+FIGUR 20: MÅLT STRAUMFART (CM/S) VED 15 M DJUP I MÅLEPERIODEN 
+ 
+- 16 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+11,0
+12,0
+13,0
+14,0
+15,0
+16,0
+17,0
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Current speed (cm/s)
+Days
+ 
+FIGUR 21 MÅLT STRAUMFART (CM/S) VED 40 M DJUP I MÅLEPERIODEN 
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+16,0
+18,0
+20,0
+22,0
+24,0
+26,0
+28,0
+30,0
+32,0
+34,0 Current speed (cm/s)
+Days
+ 
+FIGUR 22 MÅLT STRAUMFART (CM/S) VED 70 M DJUP I MÅLEPERIODEN 
+Figur 23, Figur 24, Figur 25 og Figur 26 syner prosentvis fordeling av straumfart framstilt 
+på stolpediagram for kvart av instrumenta. På denne måten er det lett å sjå kva 
+straumstyrke som er mest vanleg (dominerande straumfart) på dei ulike djupnene i den 
+aktuelle måleperioden.  
+På denne lokaliteten kan ein sjå at dominerande straumfart var 10-15 cm/s (28 %) ved 5 
+m djup. Det var også registert bra med straum i gruppene 6-8 cm/s, 8-10 cm/s og 15-25 
+cm/s. Ved 15 m djup var den dominerande straumfarten 1-3 cm/s (38 %), resten av 
+gruppene var ganske like. Ved 40 m djup var det flest målingar i gruppa 1-3 cm/s (42 %), 
+men det var også mange målingar i 0-1 cm/s (28 %). Ved 70 m djup var målingane meir 
+fordelt.  
+ 
+- 17 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+0-1
+1-3
+3-4
+4-5
+5-6
+6-8
+8-10
+10-15
+15-25
+25-50
+50-75
+75-100
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28 Percent of measurements
+cm/s
+ 
+FIGUR 23 STOLPEDIAGRAM SOM SYNER PROSENTVIS FORDELING AV STRAUMFART VED 5 M DJUP 
+0-1
+1-3
+3-4
+4-5
+5-6
+6-8
+8-10
+10-15
+15-25
+25-50
+50-75
+75-100
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40 Percent of measurements
+cm/s
+ 
+FIGUR 24 STOLPEDIAGRAM SOM DYNER PROSENTVIS FORDELING AV STRAUMFART VED 15 M DJUP 
+p y
+0-1
+1-3
+3-4
+4-5
+5-6
+6-8
+8-10
+10-15
+15-25
+25-50
+50-75
+75-100
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44 Percent of measurements
+cm/s
+ 
+FIGUR 25 STOLPEDIAGRAM SOM SYNER PROSENTVIS FORDELING AV STRAUMFART VED 40 M DJUP 
+ 
+- 18 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+0-1
+1-3
+3-4
+4-5
+5-6
+6-8
+8-10
+10-15
+15-25
+25-50
+50-75
+75-100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18 Percent of measurements
+cm/s
+ 
+FIGUR 26 STOLPEDIAGRAM SOM SYNER PROSENTVIS FORDELING AV STRAUMFART VED 70 M DJUP 
+Figur 27, Figur 28, Figur 29 og Figur 30 syner straumretning vist som kurvar (grader) 
+fordelt på tid. Dette diagrammet er nyttig for å vurdere korleis straumen endrar retning i 
+ein tidsperiode. Når måledata vert presentert på denne måten kan ein ofte tydeleg sjå 
+regelmessige endringar (eller eit mønster) i straumretning når straumen skiftar retning i 
+takt med tidvatnet. Ein kan tydleg sjå slike endringar/variasjonar i perioden ved denne 
+posisjonen ved alle måledjupa. 
+ 
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+320
+340
+360
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Current dir (°)
+Days
+ 
+FIGUR 27 MÅLT STRAUMRETNING VED 5 M DJUP I MÅLEPERIODEN 
+ 
+- 19 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+320
+340
+360
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Current dir (°)
+Days
+ 
+FIGUR 28 MÅLT STRAUMRETNING VED 15 M DJUP I MÅLEPERIODEN 
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+320
+340
+360
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Current dir (°)
+Days
+ 
+FIGUR 29 MÅLT STRAUMRETNING VED 40 M DJUP I MÅLEPERIODEN 
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+320
+340
+360
+19.Nov
+17.Nov
+15.Nov
+13.Nov
+11.Nov
+09.Nov
+07.Nov
+05.Nov
+03.Nov
+01.Nov
+30.Oct
+28.Oct
+26.Oct
+24.Oct
+22.Oct
+20.Oct
+18.Oct
+Current dir (°)
+Days
+ 
+FIGUR 30 MÅLT STRAUMRETNING VED 70 M DJUP I MÅLEPERIODEN 
+ 
+- 20 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+3.1.5 STATISTISK OVERSIKT 
+Figur 31, Figur 40, Figur 33 og Figur 34 syner statistisk oppsummering av målingar i 
+perioden. Middelverdien er gjennomsnitt for alle målingane. Denne verdien er viktig, men 
+fortel ingenting om kor mykje målingane varierer. Varians er eit uttrykk for variabiliteten i 
+straumen, eller kor mykje straumen varierer i høve middelverdien (høgare varians tydar på 
+hyppige variasjonar i fart og straumstyrke). Meir korrekt formulert er variansen det 
+gjennomsnittlege kvadrerte avviket frå middelverdien. Ein enklare definisjon for avvik frå 
+middelstraumen er standard avvik, som kan oppfattast som gjennomsnittleg avvik frå 
+middelverdien (kvadratrota av variansen). I praksis vil straumfart stort sett ligge innanfor 
+(+/-) eit standardavvik frå berekna middelverdi. Ein ser her at middelstraumen ved 5 m djup 
+var 9,1 cm/s og hadde eit gjennomsnittleg avvik på (+/-) 0,599 cm/s. Significant max/min 
+velocity i tabellen er høvesvis den høgaste og lågaste 1/3 av alle målte hastigheitar i 
+måleperioden. 
+Mean standard deviation
+Standard deviation (cm/s)
+Variance (cm/s)²
+Mean current speed (cm/s)
+Total
+East / west
+North / south
+Maximum current velocity
+Minimum  current velocity
+Significant max velocity
+Significant min velocity
+     9,1
+   29,654
+     5,446
+     0,599
+     4,5
+   13,627
+     3,691
+     0,824
+      7,4
+    23,623
+      4,860
+      0,656
+   35,2
+     0,4
+   15,2
+     3,6
+Data displayed from: 13:48 - 17.Oct-14   To: 13:58 - 20.Nov-14
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 811
+File name: Bårøy nov 2014-5m.SD6
+Number of measurements in data set: 4898
+STATISTICAL SUMMARY
+ 
+FIGUR 31 STATISTISK OPPSUMMERING AV MÅLINGAR PÅ LOKALITETEN VED 5 M DJUP 
+Mean standard deviation
+Standard deviation (cm/s)
+Variance (cm/s)²
+Mean current speed (cm/s)
+Total
+East / west
+North / south
+Maximum current velocity
+Minimum  current velocity
+Significant max velocity
+Significant min velocity
+     4,9
+   15,162
+     3,894
+     0,800
+     2,2
+     3,158
+     1,777
+     0,826
+      4,1
+    13,964
+      3,737
+      0,904
+   23,4
+     0,2
+     9,4
+     1,6
+Data displayed from: 13:48 - 17.Oct-14   To: 12:48 - 20.Nov-14
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1683
+File name: Bårøy nov 2014-15m.SD6
+Number of measurements in data set: 4891
+STATISTICAL SUMMARY
+ 
+FIGUR 32 STATISTISK OPPSUMMERING AV MÅLINGAR PÅ LOKALITETEN VED 15 M DJUP 
+ 
+- 21 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+Mean standard deviation
+Standard deviation (cm/s)
+Variance (cm/s)²
+Mean current speed (cm/s)
+Total
+East / west
+North / south
+Maximum current velocity
+Minimum  current velocity
+Significant max velocity
+Significant min velocity
+      2,7
+      5,767
+      2,401
+      0,877
+      1,3
+      1,583
+      1,258
+      0,935
+     2,1
+     5,317
+     2,306
+     1,081
+    16,4
+      0,2
+      5,3
+      1,0
+Data displayed from: 13:48 - 17.Oct-14   To: 12:58 - 20.Nov-14
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1280
+File name: Bårøy nov 2014-40m.SD6
+Number of measurements in data set: 4892
+STATISTICAL SUMMARY
+ 
+FIGUR 33 STATISTISK OPPSUMMERING AV MÅLINGAR PÅ LOKALITETEN VED 40 M DJUP 
+Mean standard deviation
+Standard deviation (cm/s)
+Variance (cm/s)²
+Mean current speed (cm/s)
+Total
+East / west
+North / south
+Maximum current velocity
+Minimum  current velocity
+Significant max velocity
+Significant min velocity
+      7,1
+    34,818
+      5,901
+      0,830
+     3,2
+   12,775
+     3,574
+     1,135
+      6,1
+    25,669
+      5,066
+      0,833
+    32,4
+      0,2
+    14,0
+      1,4
+Data displayed from: 13:48 - 17.Oct-14   To: 12:58 - 20.Nov-14
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1278
+File name: Bårøy nov 2014-70m.SD6
+Number of measurements in data set: 4892
+STATISTICAL SUMMARY
+ 
+FIGUR 34 STATISTISK OPPSUMMERING AV MÅLINGAR PÅ LOKALITETEN VED 70 M DJUP 
+Figur 35, Figur 36, Figur 37 og Figur 38 syner straumfart/retning matrise på lokaliteten i 
+perioden ved 5 og 15 meter djup.  
+ 
+- 22 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Total flow
+Total flow
+Max
+1
+3
+4
+5
+6
+8
+10
+15
+25
+50
+75
+100 Sum%
+m³/m²
+% curr
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+315
+330
+345
+Sum%
+6
+33
+27
+17
+13
+10
+13
+15
+0
+0
+0
+0
+  2.7
+  4116
+1.5 13.2
+10
+14
+5
+6
+3
+4
+6
+4
+0
+0
+0
+0
+  1.1
+  1414
+0.5 13.6
+10
+4
+7
+6
+5
+9
+4
+4
+0
+0
+0
+0
+  1.0
+  1466
+0.5 12.8
+13
+4
+3
+1
+6
+3
+8
+3
+0
+0
+0
+0
+  0.8
+  1176
+0.4 13.4
+11
+7
+3
+0
+5
+6
+5
+5
+0
+0
+0
+0
+  0.9
+  1230
+0.5 11.8
+7
+4
+2
+1
+7
+5
+3
+0
+0
+0
+0
+0
+  0.6
+   763
+0.3
+  9.8
+6
+7
+1
+7
+6
+8
+5
+2
+0
+0
+0
+0
+  0.9
+  1266
+0.5 11.6
+3
+9
+1
+2
+7
+6
+4
+9
+0
+0
+0
+0
+  0.8
+  1494
+0.6 12.8
+4
+5
+4
+3
+7
+13
+8
+11
+0
+0
+0
+0
+  1.1
+  2218
+0.8 12.4
+6
+7
+14
+14
+12
+18
+13
+21
+1
+0
+0
+0
+  2.2
+  4316
+1.6 15.2
+5
+16
+19
+14
+16
+37
+21
+37
+7
+0
+0
+0
+  3.5
+  7799
+2.9 20.2
+3
+15
+9
+22
+14
+63
+78
+109
+50
+3
+0
+0
+  7.5
+ 22422
+8.4 28.8
+3
+22
+8
+9
+21
+56
+66
+126
+31
+23
+0
+0
+  7.5
+ 24054
+9.0 35.2
+13
+12
+9
+5
+4
+16
+17
+29
+0
+0
+0
+0
+  2.1
+  4283
+1.6 13.4
+12
+4
+3
+3
+3
+6
+11
+11
+0
+0
+0
+0
+  1.1
+  1938
+0.7 12.8
+4
+4
+4
+4
+5
+13
+6
+1
+0
+0
+0
+0
+  0.8
+  1367
+0.5 10.2
+11
+5
+2
+2
+2
+9
+3
+8
+0
+0
+0
+0
+  0.9
+  1361
+0.5 12.6
+8
+2
+2
+4
+2
+7
+6
+10
+0
+0
+0
+0
+  0.8
+  1562
+0.6 12.2
+3
+7
+3
+5
+9
+15
+13
+11
+0
+0
+0
+0
+  1.3
+  2713
+1.0 12.0
+11
+6
+1
+6
+7
+19
+22
+24
+0
+0
+0
+0
+  2.0
+  4216
+1.6 13.4
+12
+18
+10
+20
+14
+62
+58
+133
+24
+0
+0
+0
+  7.2
+ 19789
+7.4 20.2
+22
+47
+61
+58
+69
+166
+175
+571
+357
+42
+0
+0
+ 32.0 112453
+42.1 28.4
+9
+77
+118
+78
+61
+109
+97
+190
+33
+2
+0
+0
+ 15.8
+ 35382
+13.3 26.6
+4
+80
+62
+29
+11
+23
+33
+25
+0
+0
+0
+0
+  5.5
+  8150
+3.1 14.2
+4.0
+8.4
+7.7
+6.5
+6.3
+13.9
+13.8
+27.7
+10.3
+1.4
+0.0
+0.0
+266949
+ 35.2
+p y
+ 
+FIGUR 35: STRAUMFART/RETNING MATRISE PÅ LOKALITETEN I MÅLEPERIODEN VED 5 M DJUP 
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Total flow
+Total flow
+Max
+1
+3
+4
+5
+6
+8
+10
+15
+25
+50
+75
+100 Sum%
+m³/m²
+% curr
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+315
+330
+345
+Sum%
+14
+32
+4
+8
+6
+1
+2
+1
+0
+0
+0
+0
+  1.4
+  1169
+0.8 12.6
+6
+35
+4
+0
+2
+1
+0
+0
+0
+0
+0
+0
+  1.0
+   637
+0.4
+  6.8
+2
+25
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+  0.6
+   388
+0.3
+  5.2
+4
+26
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  0.7
+   374
+0.3
+  4.4
+4
+29
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+  0.7
+   403
+0.3
+  6.0
+5
+45
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  1.0
+   547
+0.4
+  3.2
+18
+65
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  1.7
+   833
+0.6
+  2.8
+30
+110
+11
+4
+4
+4
+1
+0
+0
+0
+0
+0
+  3.4
+  2176
+1.5
+  8.6
+29
+217
+41
+22
+8
+14
+10
+25
+7
+0
+0
+0
+  7.6
+  8291
+5.8 18.2
+44
+189
+90
+54
+46
+47
+40
+30
+20
+0
+0
+0
+ 11.4
+ 16087
+11.3 18.6
+16
+191
+64
+75
+84
+199
+142
+205
+42
+0
+0
+0
+ 20.8
+ 44456
+31.1 22.2
+11
+219
+33
+50
+49
+84
+60
+71
+63
+0
+0
+0
+ 13.1
+ 25313
+17.7 23.4
+14
+101
+13
+10
+14
+15
+2
+2
+1
+0
+0
+0
+  3.5
+  3314
+2.3 15.4
+10
+50
+3
+2
+0
+2
+0
+0
+0
+0
+0
+0
+  1.4
+   852
+0.6
+  7.6
+26
+46
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  1.5
+   725
+0.5
+  3.6
+12
+30
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  0.9
+   480
+0.3
+  4.6
+10
+22
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+  0.8
+   410
+0.3
+  5.2
+9
+31
+1
+0
+0
+2
+1
+0
+0
+0
+0
+0
+  0.9
+   575
+0.4
+  8.2
+7
+37
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  1.1
+   660
+0.5
+  4.4
+9
+54
+10
+9
+5
+2
+0
+0
+0
+0
+0
+0
+  1.8
+  1415
+1.0
+  8.0
+16
+88
+37
+44
+23
+21
+6
+1
+0
+0
+0
+0
+  4.8
+  5267
+3.7 12.8
+13
+106
+68
+77
+51
+61
+34
+21
+0
+0
+0
+0
+  8.8
+ 12707
+8.9 14.4
+22
+96
+50
+56
+52
+44
+11
+26
+3
+0
+0
+0
+  7.4
+ 10475
+7.3 15.8
+17
+53
+26
+18
+17
+20
+9
+18
+2
+0
+0
+0
+  3.7
+  5232
+3.7 16.2
+7.1
+38.8
+9.7
+8.9
+7.4
+10.6
+6.5
+8.2
+2.8
+0.0
+0.0
+0.0
+142786
+ 23.4
+p y
+ 
+FIGUR 36: STRAUMFART/RETNING MATRISE PÅ LOKALITETEN I MÅLEPERIODEN VED 15 M DJUP 
+ 
+- 23 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Total flow
+Total flow
+Max
+1
+3
+4
+5
+6
+8
+10
+15
+25
+50
+75
+100 Sum%
+m³/m²
+% curr
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+315
+330
+345
+Sum%
+8
+32
+3
+1
+0
+0
+2
+0
+0
+0
+0
+0
+  0.9
+   635
+0.8
+  9.4
+25
+45
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+  1.6
+   844
+1.1
+  4.6
+61
+43
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  2.2
+   878
+1.1
+  4.0
+61
+33
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  1.9
+   668
+0.8
+  2.4
+51
+47
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  2.0
+   767
+1.0
+  2.6
+61
+60
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  2.5
+  1078
+1.3
+  3.8
+123
+47
+3
+4
+1
+4
+1
+0
+0
+0
+0
+0
+  3.7
+  1634
+2.0
+  8.6
+111
+72
+15
+7
+0
+4
+0
+0
+0
+0
+0
+0
+  4.3
+  2170
+2.7
+  6.8
+109
+180
+23
+26
+8
+4
+1
+0
+0
+0
+0
+0
+  7.2
+  4463
+5.6
+  8.6
+122
+176
+61
+42
+36
+41
+20
+11
+0
+0
+0
+0
+ 10.4
+ 10109
+12.6 13.2
+88
+244
+98
+59
+30
+36
+12
+13
+0
+0
+0
+0
+ 11.9
+ 11321
+14.1 13.2
+75
+170
+60
+43
+34
+32
+29
+28
+0
+0
+0
+0
+  9.6
+ 11095
+13.8 14.6
+60
+154
+48
+34
+23
+27
+23
+21
+0
+0
+0
+0
+  8.0
+  8869
+11.0 14.2
+67
+115
+36
+21
+25
+11
+9
+4
+0
+0
+0
+0
+  5.9
+  5089
+6.3 12.2
+56
+113
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+  3.7
+  1766
+2.2
+  5.0
+55
+62
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  2.4
+   976
+1.2
+  3.2
+26
+46
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  1.5
+   676
+0.8
+  3.6
+44
+57
+6
+2
+1
+0
+0
+0
+0
+0
+0
+0
+  2.2
+  1104
+1.4
+  5.2
+42
+80
+16
+5
+2
+0
+0
+0
+0
+0
+0
+0
+  3.0
+  1728
+2.2
+  5.4
+56
+70
+16
+8
+7
+7
+0
+0
+0
+0
+0
+0
+  3.4
+  2222
+2.8
+  8.0
+73
+92
+32
+19
+16
+19
+7
+4
+0
+0
+0
+0
+  5.4
+  4801
+6.0 10.8
+27
+52
+11
+8
+8
+14
+10
+16
+12
+0
+0
+0
+  3.2
+  4957
+6.2 16.4
+14
+47
+6
+4
+10
+7
+1
+0
+0
+0
+0
+0
+  1.8
+  1597
+2.0
+  9.2
+11
+38
+9
+4
+3
+0
+0
+0
+0
+0
+0
+0
+  1.3
+   895
+1.1
+  6.0
+29.1
+42.4
+9.5
+5.9
+4.2
+4.2
+2.4
+2.0
+0.2
+0.0
+0.0
+0.0
+ 80342
+ 16.4
+p y
+ 
+FIGUR 37 STRAUMFART/RETNING MATRISE PÅ LOKALITETEN I MÅLEPERIODEN VED 40 M DJUP 
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Total flow
+Total flow
+Max
+1
+3
+4
+5
+6
+8
+10
+15
+25
+50
+75
+100 Sum%
+m³/m²
+% curr
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+315
+330
+345
+Sum%
+9
+12
+5
+9
+8
+11
+4
+1
+0
+0
+0
+0
+  1.2
+  1564
+0.7 10.4
+7
+15
+6
+3
+1
+4
+1
+0
+0
+0
+0
+0
+  0.8
+   678
+0.3
+  8.2
+13
+15
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+  0.7
+   403
+0.2
+  5.6
+9
+13
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+  0.6
+   338
+0.2
+  6.6
+11
+5
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  0.3
+   137
+0.1
+  5.0
+24
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  0.5
+   140
+0.1
+  1.2
+14
+8
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  0.5
+   200
+0.1
+  4.2
+18
+8
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  0.6
+   242
+0.1
+  4.2
+20
+11
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+  0.7
+   240
+0.1
+  5.4
+35
+28
+5
+4
+1
+1
+0
+0
+0
+0
+0
+0
+  1.5
+   796
+0.4
+  6.4
+33
+71
+19
+15
+14
+27
+6
+5
+0
+0
+0
+0
+  3.9
+  4109
+2.0 12.4
+80
+100
+40
+32
+46
+99
+93
+69
+0
+0
+0
+0
+ 11.4
+ 18872
+9.0 14.2
+93
+85
+40
+65
+60
+135
+128
+91
+0
+0
+0
+0
+ 14.2
+ 25310
+12.1 14.0
+86
+63
+33
+42
+35
+67
+39
+19
+0
+0
+0
+0
+  7.8
+ 10578
+5.1 13.6
+64
+38
+14
+14
+6
+6
+1
+0
+0
+0
+0
+0
+  2.9
+  1996
+1.0
+  9.0
+60
+31
+6
+2
+0
+2
+0
+0
+0
+0
+0
+0
+  2.1
+   902
+0.4
+  6.4
+54
+21
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+  1.6
+   619
+0.3
+  5.0
+59
+26
+1
+2
+1
+1
+0
+0
+0
+0
+0
+0
+  1.8
+   757
+0.4
+  6.2
+26
+33
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+  1.4
+   708
+0.3
+  4.6
+28
+47
+17
+8
+7
+7
+7
+2
+1
+0
+0
+0
+  2.5
+  2402
+1.2 17.8
+23
+66
+23
+19
+21
+47
+32
+40
+13
+1
+0
+0
+  5.8
+ 10807
+5.2 26.4
+18
+46
+25
+33
+28
+65
+105
+302
+351
+23
+0
+0
+ 20.4
+ 77893
+37.3 32.4
+18
+53
+18
+18
+32
+78
+93
+178
+147
+14
+0
+0
+ 13.3
+ 42684
+20.5 30.4
+14
+41
+7
+16
+18
+29
+19
+21
+6
+0
+0
+0
+  3.5
+  6214
+3.0 22.0
+16.7
+17.1
+5.6
+6.0
+5.7
+11.9
+10.8
+14.9
+10.6
+0.8
+0.0
+0.0
+208591
+ 32.4
+Data displayed from: 13:48  17.Oct 14   To: 12:58  20.Nov 14
+ 
+FIGUR 38 STRAUMFART/RETNING MATRISE PÅ LOKALITETEN I MÅLEPERIODEN VED 70 M DJUP 
+ 
+3.2 KONKLUSJON 
+Straumbilde ved denne lokaliteten syner ein under middels svak straum ved 40 m (2,7 
+cm/s), middels sterk straum ved 15 m djup (4,9 cm/s), god straum ved 70 m djup (7,1 cm/s) 
+og svært god straum ved 5 m djup (9,1 cm/s). Vi ser at straumbildet er noko likt ved 5 og 70 
+m djup. Straumbildet er påverka av topografi og tidevatn.  
+ 
+ 
+ 
+- 24 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+REFERANSAR 
+Aarseth, E. (2014). Instrumentlogg og prosedyre straummåling . Sub Aqua Tech AS.  
+ 
+Fiskeridirektoratet (2012). Veileder for utfylling av søknadskjema for tillatelse til 
+akvakultur i flytande eller landbasert anlegg per 20.01.2012, lasta ned frå 
+http://www.fiskeridir.no/akvakultur/skjema/veiledning-med-mer  
+ 
+Gjevik, B. (2009). Flo og fjære langs kysten av Noreg og Svalbard. ISBN 978-82-998031-0-
+6. Farleia Forlag. 351 s. 
+ 
+Kystverket (2014). Elektronisk sjøkart. Lasta ved 28.11.14 frå kart.kystverket.no 
+ 
+Manual for montering og bruk av straummålar, Sensordata AS, Ulset 38 s. 
+ 
+Manual for bruk av programvare, Sensordata AS, Ulset 31 s. 
+ 
+Nygaard, E.,  Golmen, L. G. (1997). Strømforhold på oppdrettslokalitetar i relasjon til 
+topografi og miljø. NIVA rapport LNR 3709-97, 58 s. 
+ 
+ 
+VEDLEGG 
+Vedlegg 1  Utsnitt av elektronisk sjøkart i målestokk 1:50 000, lasta ned frå 
+kart.kystverket.no  
+Vedlegg 2 Utskrift av elektronisk sjøkart i ulike målestokkar med plassering av rigg for 
+måling av straum og anlegg avmerkt. 
+Vedlegg 3 Utsnitt av elektronisk sjøkart med presentasjon av straumaktivitet (relativ fluks) 
+ved 5 og 15 m djup over posisjon for plassering av straumrigg. 
+Vedlegg 4 Oversikt over tidevatn i perioden for straummålinga lasta ned frå 
+www.sehavniva.no 
+ 
+ 
+ 
+- 25 - 
+Sub Aqua Tech AS 
+Epost 
+: post@subaquatech.no 
+Dok ID 
+: MAL- straummåling 
+Dørhella, 6980 Askvoll 
+Gyldig frå 
+: 14.11.14 
+Revisjon nr 
+: 1.2 
+Tlf: 57 73 02 30 
+Erstattar 
+: 1.1 
+Godkjent av 
+: BKS 
+ 
+VEDLEGG 1
+Elektronisk sjøkart for området rundt lokaliteten 
+Bårøy lasta ned frå kart.kystverket.no
+ Data and information contained in this Product are © 2002-2007 Her Majesty the Queen in Right of Canada, Canadian Hydrographic Service / Sa Majesté du chef en Canada, Service hydrographique du Canada and/or Nautical Data International, Inc., license no. 
+ 240502001-001/2 and 021704-087.  Portions may be © United Kingdom Hydrographic Office.  Portions © BSH 2005-2007. Bundesamt für Seeschifffahrt und Hydrographie (BSH), Germany, license no. 8095-01/2004-02 ÖA03.  Portions © Bolina - Editrice Incontri Nautici 
+ 2004-2007.  Portions © EMA 2007. Estonian Maritime Administration.  Portions © FMA 2004-2007.  Finland Hydrographic Office, license no. FMA 877/721/2004.  Portions © HHI 2002-2007. Reproduced with the permission of the Hydrographic Institute of the Republic of 
+ Croatia and Adriatic Sea Pilot.  Portions © HNHS 2004-2007. Reproduced with the permission of the Hellenic Navy Hydrographic Service,  license no. 171.7/22/03 .  Portions © Hydrographica 2005-2007.  Portions © IHM 2003-2007.  Reproduced with the permission of the
+ Instituto Hidrográfico de la Marina, Spain and the UK Hydrographic Office, license no. ES AC-001-Garmin.  Portions © IHP 2003-2007.  Reproduced with the permission of Instituto Hidrográfico, Portugal and the UK Hydrographic Office, license no. PT AC-002-Garmin.  
+ Portions © IHS 2004-2007. Reproduced with the permission of the Icelandic Coast Guard and the UK Hydrographic Office, license no. IS AC-001-Garmin.  Portions © IIM 2002-2007. Reproduced with the permission of the Istituto Idrografico della Marina, Italy .  Portions © 
+ KMS 2002-2007.  Reproduced with the permission of Kort and Matrikelstyrelsen, Denmark, license no. G.9-2002.  Portions © LHS 2007. Maritime Administration of Latvia.  Portions © NHS 2001-2007.  Reproduced with the permission of Norwegian Hydrographic Service, 
+ license no. NO 24/021001/1.  Portions © NLHO 2005-2007.  Reproduced with the permission of the Hydrographic Office of the Netherlands and UK Hydrographic Office, license no. NL AC-002-Garmin.  Portions © RNO 2005-2007. Reproduced with the permission of the 
+ National Hydrographic Office, Sultanate of Oman, OM A-C-001-Garmin. All rights reserved.  Portions © SAN 2002-2007.  Reproduced with the permission of the Department of Defence - South Africa.  Portions © SHOM 2005-2007.  Reproduced with the authorization of 
+ the Service Hydrographique et Oceanographique de la Marine (SHOM, www.shom.fr), France, Contract no. E 67/2005.  Portions © SMA 2003-2007.  Reproduced with the permission of the Swedish Maritime Administration, license no. 03-01453.  This product has been 
+ derived in part from material obtained from the UK Hydrographic Office with the permission of the UK Hydrographic Office and Her Majesty’s Stationery Office.  © British Crown Copyright (2001-2006). License no. GB AC-002-Garmin. All rights reserved.  © Garmin Ltd. or 
+ its subsidiaries 1995-2007
+VEDLEGG 2a
+Elektronisk sjøkart 
+(Garmin) med oversikt 
+over plassering av 
+straumrigg og posisjon 
+til det eksisterande 
+anlegget i målestokk 
+1:300 m.
+ Data and information contained in this Product are © 2002-2007 Her Majesty the Queen in Right of Canada, Canadian Hydrographic Service / Sa Majesté du chef en Canada, Service hydrographique du Canada and/or Nautical Data International, Inc., license no. 
+ 240502001-001/2 and 021704-087.  Portions may be © United Kingdom Hydrographic Office.  Portions © BSH 2005-2007. Bundesamt für Seeschifffahrt und Hydrographie (BSH), Germany, license no. 8095-01/2004-02 ÖA03.  Portions © Bolina - Editrice Incontri Nautici 
+ 2004-2007.  Portions © EMA 2007. Estonian Maritime Administration.  Portions © FMA 2004-2007.  Finland Hydrographic Office, license no. FMA 877/721/2004.  Portions © HHI 2002-2007. Reproduced with the permission of the Hydrographic Institute of the Republic of 
+ Croatia and Adriatic Sea Pilot.  Portions © HNHS 2004-2007. Reproduced with the permission of the Hellenic Navy Hydrographic Service,  license no. 171.7/22/03 .  Portions © Hydrographica 2005-2007.  Portions © IHM 2003-2007.  Reproduced with the permission of the
+ Instituto Hidrográfico de la Marina, Spain and the UK Hydrographic Office, license no. ES AC-001-Garmin.  Portions © IHP 2003-2007.  Reproduced with the permission of Instituto Hidrográfico, Portugal and the UK Hydrographic Office, license no. PT AC-002-Garmin.  
+ Portions © IHS 2004-2007. Reproduced with the permission of the Icelandic Coast Guard and the UK Hydrographic Office, license no. IS AC-001-Garmin.  Portions © IIM 2002-2007. Reproduced with the permission of the Istituto Idrografico della Marina, Italy .  Portions © 
+ KMS 2002-2007.  Reproduced with the permission of Kort and Matrikelstyrelsen, Denmark, license no. G.9-2002.  Portions © LHS 2007. Maritime Administration of Latvia.  Portions © NHS 2001-2007.  Reproduced with the permission of Norwegian Hydrographic Service, 
+ license no. NO 24/021001/1.  Portions © NLHO 2005-2007.  Reproduced with the permission of the Hydrographic Office of the Netherlands and UK Hydrographic Office, license no. NL AC-002-Garmin.  Portions © RNO 2005-2007. Reproduced with the permission of the 
+ National Hydrographic Office, Sultanate of Oman, OM A-C-001-Garmin. All rights reserved.  Portions © SAN 2002-2007.  Reproduced with the permission of the Department of Defence - South Africa.  Portions © SHOM 2005-2007.  Reproduced with the authorization of 
+ the Service Hydrographique et Oceanographique de la Marine (SHOM, www.shom.fr), France, Contract no. E 67/2005.  Portions © SMA 2003-2007.  Reproduced with the permission of the Swedish Maritime Administration, license no. 03-01453.  This product has been 
+ derived in part from material obtained from the UK Hydrographic Office with the permission of the UK Hydrographic Office and Her Majesty’s Stationery Office.  © British Crown Copyright (2001-2006). License no. GB AC-002-Garmin. All rights reserved.  © Garmin Ltd. or 
+ its subsidiaries 1995-2007
+VEDLEGG 2b
+Elektronisk sjøkart 
+(Garmin) med lokaliteten 
+Bårøy innringa i målestokk 
+1:3 km. 
+VEDLEGG 3a
+Presentasjon av relativ 
+fluks ved 5 m (raud 
+strek) og 15 m (blå 
+strek) over posisjon for 
+straumrigg.
+VEDLEGG 3b
+Presentasjon av 
+relativ fluks ved 40 m 
+(raud strek) og 70 m 
+(blå strek) over 
+posisjon for 
+straumrigg.
+Bårøyna, Gulen (Sogn og Fjordane)
+REFERANSENIVÅ
+ Sjøkartnull
+ Middelvann
+ Normalnull 1954
+INNHOLD I TABELL
+ Høy- og lavvann
+ Hver time
+ Hvert 10. minutt
+TIDSROM
+Fra:
+17 Okt, 2014
+Til:
+14 Nov, 2014
+LAST NED
+PDF
+Andre formater
+17. Oktober - 14. November 2014
+Hvis du får opp en strek (-) i tabellene, betyr det at vi ikke har data for det valgte intervallet.
+20. Okt
+03. Nov
+27. Okt
+10. Nov
+0 cm
+50 cm
+100 cm
+150 cm
+200 cm
+250 cm
+Observert tidevann
+Beregnet tidevann
+Værets virkning
+VEDLEGG 4
+Oversikt over tidevatn i 
+måleperioden lasta ned 
+frå www.sehavniva.no

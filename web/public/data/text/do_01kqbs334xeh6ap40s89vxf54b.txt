@@ -1,0 +1,1244 @@
+﻿Havbølgemodelleringer for lokalitet 
+36817 Kariskjæret,  
+Bodø kommune, Nordland 
+ 
+ 
+Akvaplan-niva AS Rapport: 8373.01 
+ 
+Forsidebilde: Resultat fra simulering med bølgemodellen CMS-Wave. Fargeskalaen på oppe til venstre 
+side viser signifikant bølgehøyde og pilene viser bølgetogenes retning. Lokaliteten Kariskjæret er 
+markert med hvite punkter til høyre i bildet (kartkilde for bakgrunnskart: www.fiskeridir.no).  
+ 
+ 
+ 
+Akvaplan-niva AS  
+Rådgivning og forskning innen miljø og akvakultur 
+Org.nr: NO 937 375 158 MVA 
+Framsenteret 
+9296 Tromsø 
+Tlf: 77 75 03 00, Fax: 77 75 03 01 
+www.akvaplan.niva.no 
+ 
+Rapporttittel / Report title 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, 
+Nordland 
+Forfatter(e) / Author(s) 
+Øyvind Leikvin 
+Akvaplan-niva rapport nr / report no 
+8373.01 
+Dato / Date 
+12.12.2019 
+Antall sider / No. of pages 
+19 
+Distribusjon / Distribution 
+Gjennom oppdragsgiver 
+Oppdragsgiver / Client 
+Lofoten Sjøprodukter AS, 
+Mortsundveien 379,  
+8370 Leknes 
+Oppdragsg. referanse / Client’s reference 
+Roger Mosseng 
+Sammendrag / Summary 
+Bølgemodelleringene for lokalitet 36817 Kariskjæret har vist at det er størst eksponering ved lokaliteten både med kun 
+lokalt genererte vindbølger og kombinasjonen av havdønninger og lokalt vindgenererte bølger fra sørvest (210 grader). 
+Største signifikante bølgehøyde (Hs) med 50 års returperiode er da 2.5 m i anlegget med en periode på 6.7 s for kun 
+vindbølger og 7.7 s for kombinert sjøtilstand. 
+Resultatene for simuleringene med kun lokalt genererte vindbølger følger samme mønster som for kombinert sjøtilstand 
+i retningene det blir kjørt med havdønninger (180 – 285 grader), med unntak av sørlige retninger som gir vesentlig høyere 
+bølger med kun vind. 
+Simuleringene med kun havdønninger gir svært beskjedne bølger, med maksimalt 0.5 m fra vestlige retninger (255 
+grader). Perioden til havdønningene er på mellom 14 s og 17 s.  
+Simuleringene viser at de lokalt vindgenererte bølgene generelt har noe kortere bølgelengde (typisk mellom 4 og 9 s), 
+sammenliknet med bølgene fra kombinert sjøtilstand (typisk mellom 6 og 11 s). 
+Analyse av energispekteret i modellsimuleringene av bølgene viser at det er de lokalt genererte vindbølgene som gir 
+mest bidrag til bølgeenergien ved lokalitet Kariskjæret.  
+Modelleringene har vist at øyer og grunne områder omkring lokaliteten er effektive når det gjelder å redusere 
+bølgehøyden inn mot interesseområdet. 
+Prosjektleder / Project manager 
+Kvalitetskontroll / Quality control 
+ 
+ 
+Øyvind Leikvin 
+Thomas Heggem 
+© 2019 Akvaplan-niva AS. Rapporten kan kun kopieres i sin helhet. Kopiering av deler av 
+rapporten (tekstutsnitt, figurer, tabeller, konklusjoner, osv.) eller gjengivelse på annen måte, er 
+kun tillatt etter skriftlig samtykke fra Akvaplan-niva AS. 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+1 
+INNHOLDSFORTEGNELSE 
+FORORD .................................................................................................................................... 2 
+1 INNLEDNING ........................................................................................................................ 3 
+2 METODIKK ............................................................................................................................ 5 
+2.1 Modellbeskrivelse, CMS-Wave........................................................................................ 5 
+2.2 Modelloppsett for Kariskjæret i Bodø kommune ............................................................. 6 
+2.2.1 Lokalitet 36817 Kariskjæret ...................................................................................... 6 
+2.2.2 Modelloppsett ............................................................................................................ 6 
+2.3 Inngangsdata til modellen CMS-Wave........................................................................... 10 
+2.3.1 Vindhastighet ........................................................................................................... 10 
+2.3.2 Bølgehøyde .............................................................................................................. 10 
+2.3.3 Energispekter ........................................................................................................... 11 
+3 RESULTATER ...................................................................................................................... 12 
+4 OPPSUMMERING ............................................................................................................... 18 
+REFERANSER ......................................................................................................................... 19 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Nordlandø 
+2 
+www.akvaplan.niva.no 
+Forord 
+Foreliggende rapport med bølgemodelleringer for havsjø er utarbeidet for Lofoten Sjøprodukter 
+AS v/ Roger Mosseng. 
+Akvaplan-niva takker for oppdraget. 
+ 
+ 
+Øyvind Leikvin 
+Tromsø, 12.12.2019 
+ 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+3 
+1 Innledning 
+Akvaplan-niva AS har på oppdrag fra Lofoten Sjøprodukter AS modellert lokalt vindgenererte 
+bølger, innkommende havdønninger og kombinasjonen av disse på lokaliteten Kariskjæret i 
+Bodø kommune, Nordland. Lokaliteten ligger omtrentlig på posisjonen 67°23.0'N og 
+14°22.9'Ø, like sørøst for Landegode og omtrent 11 km nord for Bodø (Figur 1, Figur 2).  
+I en lokalitetsundersøkelse, jfr. NS9415 (2009), skal det simuleres for vindinduserte bølger 
+produsert med vindstyrke med 50-års returperiode i minst alle 8 hoved-himmelretninger. Disse 
+beregningene foretas i forbindelse med standard lokalitetsrapport (Dalheim Eriksen, 2016). I 
+tillegg skal det modelleres for kombinasjonen av hav- og vindsjø, dersom lokaliteten vurderes 
+å være eksponert for havdønninger. Denne rapporten omhandler en slik havsjømodellering, og 
+er en tilleggs-studie til lokalitetsrapporten. 
+Lokaliteten har delvis lysåpning mot det åpne hav mot vest-sørvestlige retninger (227 - 257 
+grader), men en del mindre øyer og grunne farvann demper havdønninger effektivt fra denne 
+sektoren.  
+Det er en relativt lang strøklengde fra nordøst på typisk 16 km, og på omkring 10 km fra sør, 
+med mulighet for moderat eksponering overfor lokalt vindgenererte bølger. 
+Fra vestlig til nordlig sektor beskytter øya Landegode for bølgeeksponering. 
+Lokaliteten vil derfor være eksponert for havdønninger og vindinduserte bølger hovedsakelig 
+fra sørvest. Lokaliteten vil utover dette være eksponert for vindinduserte bølger fra nordlige, 
+østlige og nordøst og sør. Det blir simulert for alle retningssektorer i denne studien, men 
+havdønninger blir kun simulert fra sørvestlige og utvalgte nordlige retninger.  
+ 
+ 
+Figur 1: Kart over regionen ved lokaliteten Kariskjæret i Bodø kommune, Nordland. Posisjonen til 
+lokaliteten er illustrert med rød pil. Posisjonen hvor inngangsdata fra Met.no's regionale bølgemodell 
+(NORA10) er hentet fra, er illustrert med en rød sirkel nederst til venstre i bildet (kartkilde: 
+www.norgeskart.no). 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Nordlandø 
+4 
+www.akvaplan.niva.no 
+ 
+Figur 2: Fokusert kart med bunntopografi over nærområdet til lokalitet Kariskjæret. Anlegget er 
+avmerket med 4 røde kryss omtrent midt i bildet, like sørøst for Landegode (kartkilde: www.olex.no). 
+Merk at det er en del gruntområder i omtrent alle himmelretninger, ut fra lokaliteten. 
+Rødøy 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+5 
+2 Metodikk 
+2.1 Modellbeskrivelse, CMS-Wave 
+Modellen CMS-Wave (Coastal Modeling System Wave model) er benyttet til å kartlegge 
+bølgeeksponeringen for havdønninger, vindgenererte bølger og kombinasjonen av disse på 
+lokaliteten Kariskjæret. 
+CMS-Wave er en todimensjonal bølgemodell som kan simulere forplantning og demping av 
+havdønninger inn mot kystnære strøk. Vind og strøm kan inkluderes i simuleringene. 
+Kildekoden til CMS-Wave er skrevet og vedlikeholdt av U.S. Army Corps of Engineers 
+(Sanchez m.fl., 2012). Modellen bruker SMS (www.aquaveo.com) som grafisk 
+brukergrensesnitt. Inngangsdata er bunntopografi, innkommende bølger (høyde, retning og 
+energispekter), vindstyrke og vindretning. Modellen antar konstante grensebetingelser (vind, 
+bølger, strøm) og beregner en statisk, konstant løsning (steady state). Inngående bølgespektrum 
+på den ytre rand mot havet er gitt av en regional bølgemodell, NORA10 (Reistad m.fl., 2011). 
+Dersom strøm inkluderes antas denne å være konstant med dypet. 
+Modellen bruker en endelig element-metode med et kartesisk grid. En godt kartlagt batymetri 
+(bunntopografi) er en forutsetning for å få gode simuleringer. Modellen beregner kvantitativt 
+endringene i bølgeparametre (bølgehøyde, retning og spektralfordeling) når bølgen beveger seg 
+fra havet og inn mot grunt vann ved kysten (typisk < 40 m dyp). 
+Bølgeeffekter som inkluderes i modellsimuleringene er: 
+1. Refraksjon (dreining av bølger som følge av endret vanndybde og strøm)  
+2. Diffraksjon (dreining av bølger som følge av obstruksjoner)  
+3. Grunningseffekter (økt bølgehøyde på grunn av redusert gruppehastighet/ bølgelengde; 
+bølgedemping som følge av friksjon mot bunn) 
+4. Bølge mot bølge, interaksjon 
+I tillegg kan følgende effekter implementeres: 
+5. Bølgegenerering på grunn av vind  
+6. Refleksjon 
+7. Bølgebrytning* 
+8. Bølge mot strøm, interaksjon* 
+*Ikke benyttet i dette prosjektet, se kapittel 2.2.2. 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Nordlandø 
+6 
+www.akvaplan.niva.no 
+2.2 Modelloppsett for Kariskjæret i Bodø kommune 
+2.2.1 Lokalitet 36817 Kariskjæret 
+Lokalitet 36817 Kariskjæret ligger i Bodø kommune i Nordland, like sørøst for øya Landegode 
+og ca. 11 km nord for Bodø.  
+Mellom vestlig og nordlig sektor befinner Landegode seg (ca. 260 – 25 grader) og vil hindre 
+bølgeaktivitet herfra. Fra mer østlige retninger (ca. 25 – 45 grader) er det flere mindre øyer  og 
+grunne farvann som vil kunne dempe bølgeaktiviteten ved Kariskjæret (se blant annet Figur 2). 
+Fra 45 – 60 grader er det en sektor med strøklengde på mellom 14.5 og 16 km. Fra mer sørlige 
+retninger er strøklengden på mellom 5 og 12 km, med små avbrudd av mindre øyer som gir 
+redusert strøklengde og redusert bølgeenergi inn mot lokaliteten.  
+Fra sørvestlige retninger er det mindre sektorer med svært lange strøklengder, med muligheter 
+for havdønninger. Det er imidlertid mange mindre øyer og grunne farvann fra disse retninger 
+som vil begrense eksponeringen betydelig. 
+Lokaliteten har mer eller mindre lysåpning i retningssektoren mellom 227 og 257 grader, mot 
+vest-sørvestlige retninger. Det er fra denne retningssektoren og tilgrensende retninger at det 
+først og fremst forventes innkommende havdønninger.  
+Anleggets hjørnekoordinater er gitt i Tabell 1, og anleggets plassering er illustrert i Figur 2. 
+ 
+Tabell 1: Koordinater til hjørnepunktene til lokaliteten Kariskjæret i Bodø kommune i Nordland. 
+Koordinatene er gitt både i geografiske koordinater og UTM-koordinater (datum: WGS84). 
+Hjørnepunkt til 
+lokaliteten 
+Geografiske koordinater 
+UTM, sone 33 
+N 
+Ø 
+X 
+Y 
+Nordvest 
+67°23.134' 
+14°23.132' 
+473633 
+7474494 
+Sørvest 
+67°22.904' 
+14°22.628' 
+473268 
+7474070 
+Sørøst 
+67°22.879' 
+14°22.703' 
+473322 
+7474023 
+Nordøst 
+67°23.109' 
+14°23.210' 
+473688 
+7474447 
+ 
+2.2.2 Modelloppsett 
+Det forventes havdønninger inn mot lokaliteten hele sektoren fra sørlige til vestlige retninger, 
+selv om det er en del øyer og gruntområder som beskytter lokaliteten. Det velges derfor å kjøre 
+for havdønninger og kombinert sjøtilstand fra 180 grader (sør) til og med 285 grader (vest). 
+Resten av retningene blir simulert for kun vindgenererte bølger innenfor regionen.  
+For å dekke alle himmelretninger med 15 graders oppløsning er det satt opp 6 ulike grid, som 
+overlapper hverandre mer eller mindre. Dersom overlapping skjer, rapporteres alltid største 
+signifikante bølgehøyde i denne studien.  
+For alle griddene er det laget to grid for hver simulering;  
+1. ett større regionalt grid med noe grovere oppløsning med cellestørrelse på 75 m, med 
+utstrekning i størrelsesorden 50 – 170 km i lengde og bredde, 
+2. ett mindre, finmasket lokalt grid med cellestørrelse 15 m, som nøster inn verdiene fra 
+det grovere griddet på randen. Disse har utstrekning i størrelsesorden 6 – 17 km i lengde 
+og bredde. 
+En oversikt over dimensjonene til de 6 griddene er gitt i Tabell 2, mens en illustrasjon av 
+griddene er gitt i Figur 3. 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+7 
+Et utsnitt av beregnings-cellene for et av de finere lokale griddene (15 m oppløsning) ved 
+lokaliteten Kariskjæret er vist i Figur 4, sammen med bunntopografien i modellen. 
+Havstrømmer ved lokaliteten er målt fra 9. juni – 9. juli 2016 på 5 m dyp og fra 6. februar – 8. 
+mars 2014 på 15 m dyp. Resulterende maksimalverdier var på 31 cm/s og 20 cm/s på 
+henholdsvis 5 og 15 m dyp. Dette tilsvarer 57 og 37 cm/s for 50 års returperiode (Dalheim 
+Eriksen, 2016). Da havstrømmer i nærområdet forventes å være betydelig mindre enn 1 m/s, vil 
+de ifølge Smith m.fl. (1998) ikke bidra til betydelige endringer i transformasjonen av havbølger. 
+Derfor inkluderes ikke havstrømmer i simuleringene (se punkt 8 i kapittel 2.1).  
+Refleksjon er inkludert i modellsimuleringene.  
+Bølgebrytning er ikke inkludert i modellsimuleringene. Det vurderes som en konservativ 
+tilnærming for bølgehøyden å ikke inkludere bølgebrytning, da denne effekten forårsaker 
+ytterligere reduksjon av bølgeenergi.  
+Det er benyttet en vannstand på 3 m over sjøkartnull i simuleringene, noe som også vurderes 
+som en konservativ tilnærming. Med dypere vann vil mindre av energien i bølgene gå tapt, og 
+bølgehøyden vil bli større. Modellering med høyvann kan imidlertid i noen få tilfeller ved 
+langgrunne farvann gi lavere bølgehøyde, fordi bølgeenergien da kan fordeles over et større 
+område. 
+ 
+Tabell 2: Oversikt over dimensjoner til de ulike griddene som er kjørt for de ulike retningssektorer (rett 
+nord er 0 grader og rett øst er 90 grader). De ulike griddene er markert med farger, samsvarende med 
+illustrasjonen av griddene i Figur 3. 
+ 
+ 
+Stort grid 
+Nøstet, lokalt grid 
+Grid-
+vinkel 
+Grid 
+Sektor (15 
+graders 
+oppløsning) 
+Celle-
+størrelse 
+[m] 
+Celler 
+Sum 
+antall 
+celler 
+Omtrentlig 
+areal  
+[km2] 
+Celle-
+størrelse 
+[m]  
+Celler 
+Sum 
+antall 
+celler 
+Omtrentlig 
+areal          
+[km2] 
+1 
+VSV  
+195-285 
+75 
+1702 
+x 
+1987 
+3.4 
+millioner 
+128 x 149 
+15 
+662   
+x   
+800 
+0.5 
+millioner 
+10 x 12 
+76 
+2   
+SV 
+180-240 
+75 
+1555 
+x 
+1682 
+2.6 
+millioner 
+117 x 126 
+15 
+751   
+x   
+656 
+0.5 
+millioner 
+11 x 10 
+39 
+3  
+NV 
+270 - 15 
+75 
+2200 
+x 
+1588 
+3.5 
+millioner 
+165 x 119 
+15 
+1143 
+x   
+793 
+0.9 
+millioner 
+17 x 12 
+164 
+4    
+NE 
+345 - 75 
+75 
+1441 
+x 
+1770 
+2.6 
+millioner  
+108 x 133 
+15 
+851   
+x   
+637 
+0.5 
+millioner 
+13 x 10 
+228 
+5      
+E 
+90 - 120 
+75 
+719   
+x 
+1330 
+1.0 
+millioner 
+54 x 100 
+15 
+749   
+x   
+614 
+0.5 
+millioner 
+11 x 9 
+250 
+6  
+SE 
+75 – 195  
+75 
+1950 
+x   
+760 
+1.5 
+millioner 
+146 x 57 
+15 
+896   
+x   
+368 
+0.3 
+millioner 
+13 x 6 
+335 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Nordlandø 
+8 
+www.akvaplan.niva.no 
+ 
+Figur 3: Modellområde for CMS-Wave-simuleringene med de 6 ulike grid som beskrevet i Tabell 2. 
+Hvert av de 6 griddene har farge som beskrevet i denne tabellen, og med pil som viser hvilken side av 
+griddet hvor dønninger og/ eller vind kommer inn. Dønninger og/ eller vind er simulert med opptil 45 
+grader til hver side for pilene, slik at det er en del overlapp. Ved overlapp rapporteres høyeste 
+bølgehøyder. Lokaliteten Kariskjæret er indikert med et grønt punkt/ sort sirkel omtrent i midten av 
+bildet. De små rektanglene i midten av bildet nær lokaliteten markerer de nøstede modellområdene, ett 
+for hvert av de store griddene. Posisjonen hvor inngangsdata fra Met.no's regionale bølgemodell 
+(NORA10) er hentet fra, er illustrert med et sort punkt til venstre i bildet ved siden av hvit pil (kartkilde: 
+www.kystinfo.no). 
+ 
+ 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+9 
+ 
+Figur 4: Illustrasjon av det kartesiske 15 m x 15 m gitteret (i hvite ruter) brukt i CMS-Wave-
+modelleringene ved Kariskjæret. Bunntopografien er avtegnet i farger, med skala fra 0 til 50 m. 
+Fargeskala er vist oppe til venstre. Lokalitetens hjørner er markert med sorte punkter (kartkilde for 
+bakgrunnskart: www.fiskeridir.no).  
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Nordlandø 
+10 
+www.akvaplan.niva.no 
+2.3 Inngangsdata til modellen CMS-Wave 
+2.3.1 Vindhastighet 
+Vindhastigheten i modellområdet er beregnet ut fra en 50-års returperiode i henhold til norsk 
+standard for vindlaster NS-EN 1991 (2009) (Tabell 3). I simuleringene er denne beregnede 
+vindhastigheten brukt som inngangsdata. Vindfeltet antas konstant i tid og rom over hele 
+modellområdet. Vindfeltet ved lokaliteten er satt i henhold til data fra Bodø kommune. 
+Vindhastighetene er omregnet til terrengruhetskategori I, som tilsier kystnære strøk. Det er også 
+inkludert retningsfaktorer i henhold til NS-EN 1991 (2009).  
+ 
+Tabell 3: Statistiske ekstremverdier av referansevindhastighet (m/s) fra alle retninger 10 m over bakken 
+i Bodø kommune i Nordland (omregninger fra NS-EN 1991, 2009). Det er benyttet terrengkategori I 
+(oppskalert med faktor 1.17) og det er skalert med retningsfaktorer.  
+Returperiode 
+50 år 
+Vindretning 
+0° 
+15° 
+30° 
+45° 
+60° 
+75° 
+90° 
+105° 
+120° 
+135° 
+150° 
+165° 
+Vindhastighet 
+(m/s) 
+31.6 
+31.6 
+31.6 
+31.6 
+31.6 
+31.6 
+31.6 
+32.8 
+33.9 
+35.1 
+33.9 
+32.8 
+Returperiode 
+50 år 
+Vindretning 
+180° 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+315° 
+330° 
+345° 
+Vindhastighet 
+(m/s) 
+31.6 
+32.8 
+33.9 
+35.1 
+35.1 
+35.1 
+35.1 
+33.9 
+32.8 
+31.6 
+31.6 
+31.6 
+ 
+ 
+2.3.2 Bølgehøyde 
+Innkommende bølger til modellområdet som beregnes i denne studien med CMS-Wave er 
+hentet fra Meteorologisk institutts (Met.no) regionale modell NORA10 som dekker Nordsjøen, 
+Norskehavet og Barentshavet (Reistad m.fl., 2011). Met.no har beregnet verdier med 50-års 
+returperiode fra dette regionale nøstede modelloppsett av bølgemodellen WAM (The global 
+ocean Wave prediction Model). Met.no's modell har horisontal romlig oppløsning på ca. 10 km 
+og retningsoppløsning på 30°. Resultater er innhentet fra et modellpunkt til Nora10-modellen 
+som ligger ved den ytre vest-sørvestlige randen til grid nummer 1 som simuleres med CMS-
+Wave i denne studien (se Figur 3 og Tabell 2). Gridpunktet i Met.no's modell har koordinater 
+66°59.4'N og 11°09.6'Ø. Bølgeverdiene her antas som representative for bølger som kommer 
+inn fra dypområdet i Norskehavet i vest, og resultatene har blitt brukt som grensebetingelse til 
+CMS-Wave-simuleringene i dette prosjektet (Tabell 4 og Tabell 5).  
+I CMS-Wave-modelleringene antas det at et bølgetog starter ute på havet og kommer inn mot 
+modellområdet fra vestlige og sørvestlige retninger og med bølgehøyde og periode som 
+spesifisert i Tabell 4 og Tabell 5. Det antas at havbølger med høy energi, som når inn til 
+lokaliteten Kariskjæret, først og fremst kommer fra retninger mellom ca. 210 og 255 grader, fra 
+sørvestlige retninger. Det har blitt satt opp dønninger opp til 30 grader til hver side for denne 
+hovedsektoren, slik at havdønninger blir simulert fra mellom 180 og 285 grader. Fra andre 
+retninger har det ikke blitt satt opp dønninger på modellranden. 
+ 
+ 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+11 
+Griddene hvor det antas at det kan komme havdønninger har blitt modellert eksplisitt for 
+vindbølger, samt eksplisitt for havdønninger. Deretter har også den kombinerte sjøtilstanden av 
+vindbølger og havdønninger blitt simulert.  
+For griddene hvor det antas at det ikke kommer nevneverdige havdønninger, har det kun blitt 
+modellert eksplisitt for vindbølger. Vindbølgene starter da med verdien 0 ved ytre rand, og 
+bølgene skapes med vindpåvirkningen og transformeres inn mot lokaliteten av vind, 
+bunntopografi, kystlinje og andre effekter. 
+ 
+Tabell 4: Statistiske ekstremverdier for signifikant bølgehøyde (m) fra Met.no's WAM hindcast 
+bølgemodell. Posisjonene hvor verdiene er hentet fra er ett punkt i det åpne hav (se Figur 1 og Figur 
+3).  
+Returperiode 50 
+år 
+Bølgeretning 
+165°-195° 
+195°-225° 
+225°-255° 
+255°-285° 
+Signifikant 
+bølgehøyde [m]  
+9.1 
+12.3 
+15.8 
+14.8 
+ 
+Tabell 5: Som i Tabell 4, men med interpolerte verdier for signifikant bølgehøyde (m). Disse retningene 
+samsvarer med retningene for returperioder for vind i kapittel 2.3.1. Tabellen inkluderer også peak-
+periode, funnet ved typisk relasjon mellom bølgehøyde og –periode i området (se kapittel 2.3.3). 
+Hjørnepunkt 
+Bølgeretning 
+180° 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+Signifikant bølgehøyde [m] 
+9.1 
+10.7 
+12.3 
+13.6 
+15.8 
+15.3 
+14.8 
+Peak-periode [s]  
+13.7 
+14.6 
+15.5 
+16.2 
+17.3 
+17.1 
+16.8 
+ 
+2.3.3 Energispekter 
+Resultatene fra den regionale NORA10-modellen (se kapittel 2.1) gir et estimat for den øvre 
+grensen for bølgehøyde ved modellranden. Denne bølgehøyden brukes til å definere 
+energispekteret på randen, dvs. en typisk fordeling av bølgeenergi som funksjon av periode. 
+Bølgeenergien som kommer inn i modellområdet vil som regel endre seg etter hvilken retning 
+den kommer fra. 
+Formen til dette energispekteret på randen er beskrevet ved et JONSWAP energispekter1. 
+Spekteret forklarer bølgehøyder som funksjon av perioder.  
+Det innkommende bølgetoget beskrives med to parametere: spredningsfaktoren til frekvensen 
+(gamma), som er satt til 2.1, samt spredningsfaktoren for retningen (nn), som er satt til 10. Disse 
+tallene gir konservative verdier (mye energi, dvs. stor bølgehøyde og lang periode) med hensyn 
+til typiske bølger langs norskekysten (Nygaard & Eik, 2004). 
+ 
+1 JONSWAP (Joint North Sea Wave Project) spektre er en empirisk sammenheng som definerer distribusjonen av 
+energi over frekvens i havet. Se for øvrig Hasselmann m.fl. (1973). 
+ 
+ 
+Akvaplan-niva AS, 9296 Nordlandø 
+12 
+www.akvaplan.niva.no 
+3 Resultater 
+For presentasjon av resultater for bølgemodellering ble det plukket ut fire kontrollpunkter som 
+omtrentlig tilsvarer de fire hjørnepunkter til anleggets område ved lokaliteten Kariskjæret. 
+Bølgehøyde og periode i disse punktene fra simuleringene med kun havdønninger er gitt i 
+Tabell 6, kun vind i Tabell 7, samt kombinasjon av havdønninger og vind i Tabell 8. Tabell 9 
+er et sammendrag av Tabell 6 - Tabell 8, og viser høyeste bølgehøyde med tilhørende periode 
+for hvert kontrollpunkt i hver sektor, uansett drivkraft til bølgene.  
+Største bølgehøyder på 2.5 m oppstår ifølge simuleringene på lokaliteten Kariskjæret når enten 
+kun lokalt vindgenererte bølger eller en kombinasjon av havdønninger og lokalt vindgenererte 
+bølger er til stede fra sørvestlig retning (210 grader) (Figur 5, Figur 6). Tilhørende perioder til 
+høyeste bølgehøyder som inntreffer er typisk 6.7 s for kun vind og 7.7 s for kombinert 
+sjøtilstand. Nabosektorene har bølgehøyder på 2.3 m (195 grader) og 2.1 m (225 grader). Når 
+drivkrefter i form av vind og innkommende dønninger dreier mot mer nordlige retninger, 
+demper bølgehøyden seg gradvis til ca. 0.4 m ved dønninger og vind fra nordvestlig retning. 
+Fra mer sørøstlige retninger og østlige retninger er dempingen mindre, og bølgehøyden holder 
+seg på mellom 1.6 og 2.0 m for alle retninger mellom sørlig og østlig retning. Med videre 
+dreining mot nordøstlig retning demper bølgene seg gradvis til 0.5 m fra nordlig retning. I 
+sektoren mellom nordlig og vestlig retning er bølgehøyden på mellom 0.4 og 0.6 m, før den 
+øker betydelig igjen til 1.1 m fra vest-sørvest (255 grader). Typiske bølgeperioder for den 
+kombinerte sjøtilstand med returperiode på 50 år er på mellom 6 og 11 s. 
+Kun lokalt vindgenererte bølger gir omtrent samme resultater som kombinasjonen av dønninger 
+og lokalt vindgenererte bølger for retningene mellom 210 og 285 grader, med forskjeller på 
+maksimalt 0.1 m. For de sørlige retningene (180 og 195 grader) gir kombinert sjøtilstand 
+henholdsvis 0.6 og 0.4 m lavere bølger enn med kun lokalt vindgenererte bølger. Bølgeperioden 
+er noe kortere for de lokalt vindgenererte bølgene sammenliknet med den kombinerte 
+bølgetilstand (4 – 9 s vs. 7 – 11 s). 
+Med kun havdønninger som kilde til bølgeenergien er det bølgene fra vest og vest-sørvest (240 
+- 270 grader) som er høyest, med 0.4 – 0.5 m (Figur 7). Naboretningene gir 0.3 m bølgehøyde 
+(225 grader og 285 grader. Fra andre retninger blir den signifikante bølgehøyden marginal med 
+kun havdønninger som drivkraft til forplantningen av bølger (< 0.2 m). Årsaken til de beskjedne 
+maksimale bølgehøydene for havdønninger er de mange små øyer og gruntområder vest og 
+sørvest for lokaliteten som begrenser den innkommende bølgeaktiviteten og bølgeenergien. 
+Ifølge simuleringene er typiske perioder for innkommende havdønninger på mellom 14 og 17 
+s.  
+Simuleringene gir generelt høyest bølgehøyde for de to nordligste hjørnepunktene, hvor det 
+nordøstlige hjørnepunktet gir aller største bølger, uansett retning og drivkraft. Forskjellen 
+mellom de ulike hjørnepunktene er maksimalt 1.0 m over anlegget, hvor det sørvestlige 
+hjørnepunktet som regel er mest beskyttet. 
+Illustrasjoner av bølgeenergi vs. frekvens for retningen med høyeste signifikante bølgehøyde 
+på lokaliteten) er gitt i Figur 8, med resultater av simuleringer med kun havdønninger (255 
+grader), kun vind (210 grader) og kombinasjon av havdønninger og vind (210 grader).  
+Simuleringer med kun vind fra 210 grader viser størst bølgeenergi (maksimalt 3.2 m2/Hz) ved 
+0.15 Hz. Dette samsvarer med en bølgeperiode på 6.7 s, i tråd med resultatene i Tabell 7.  
+ 
+ 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+13 
+Simuleringer med kun havdønninger gir størst energi fra 255 grader (maksimalt 0.1 m2/Hz) ved 
+0.06 Hz, som indikerer svært liten energi fra dønninger på lokaliteten Kariskjæret. Dette 
+samsvarer med en bølgeperiode på 16.7 s, i tråd med resultatene i Tabell 6.  
+Den kombinerte tilstanden av havdønninger og vind fra 210 grader gir størst energi (maksimalt 
+3.0 m2/Hz) ved 0.16 Hz, som betyr marginalt lavere maksimalverdi enn med kun vind. Dette 
+gir en bølgeperiode på 6.3 s, som er noe lavere enn resultatene i Tabell 8. Da er det et annet 
+hjørnepunkt til lokaliteten med lavere bølgehøyde som får beregnet noe lenger bølgeperiode 
+(7.7 s). Bølgeenergien er fordelt nesten identisk som for kun lokalt genererte vindbølger, for 
+alle frekvenser. Dette tilsier at de lokalt genererte vindbølgene er viktigste drivkraft til 
+bølgeenergien og styrer den kombinerte sjøtilstand ved lokaliteten Kariskjæret.  
+ 
+Tabell 6: CMS-Wave modellresultater for signifikant bølgehøyde (Hs) fra hjørnepunktene til anlegget 
+og bølgeperioden (Tp) ved lokaliteten Kariskjæret. Det er her kun kjørt med innkommende havbølger 
+og ingen vind. De mørklagte feltene er for å vise retninger hvor simuleringer utelates fordi det ikke 
+forventes dønninger fra disse retninger. 
+Hjørnepunkt 
+Signifikant bølgehøyde med 50 års returperiode 
+Bølge- og vindretning 
+0° 
+15° 
+30° 
+45° 
+60° 
+75° 
+90° 
+105° 
+120° 
+135° 
+150° 
+165° 
+Bølgehøyde, NV (Hs) [m] 
+ 
+Bølgehøyde, SV (Hs) [m] 
+Bølgehøyde, SØ (Hs) [m] 
+Bølgehøyde, NØ (Hs) [m] 
+Lengste 
+bølgeperiode 
+ved 
+anlegg (Tp) [s] 
+Bølge- og vindretning 
+180° 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+315° 
+330° 
+345° 
+Bølgehøyde, NV (Hs) [m] 
+0.05 
+0.09 
+0.16 
+0.26 
+0.39 
+0.44 
+0.41 
+0.31 
+ 
+Bølgehøyde, SV (Hs) [m] 
+0.04 
+0.07 
+0.14 
+0.23 
+0.35 
+0.39 
+0.37 
+0.28 
+Bølgehøyde, SØ (Hs) [m] 
+0.04 
+0.08 
+0.15 
+0.24 
+0.37 
+0.42 
+0.39 
+0.30 
+Bølgehøyde, NØ (Hs) [m] 
+0.05 
+0.09 
+0.16 
+0.26 
+0.41 
+0.46 
+0.43 
+0.33 
+Lengste 
+bølgeperiode 
+ved 
+anlegg (Tp) [s] 
+14.3 
+14.3 
+14.3 
+16.7 
+16.7 
+16.7 
+16.7 
+16.7 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Nordlandø 
+14 
+www.akvaplan.niva.no 
+Tabell 7: CMS-Wave modellresultater for signifikant bølgehøyde (Hs) fra hjørnepunktene til anlegget 
+og bølgeperioden (Tp) ved lokaliteten Kariskjæret. Det er her kun kjørt med vind. 
+Hjørnepunkt 
+Signifikant bølgehøyde med 50 års returperiode 
+Bølge- og vindretning 
+0° 
+15° 
+30° 
+45° 
+60° 
+75° 
+90° 
+105° 
+120° 
+135° 
+150° 
+165° 
+Bølgehøyde, NV (Hs) [m] 
+0.41 
+0.71 
+1.22 
+1.62 
+1.74 
+1.27 
+1.47 
+1.72 
+1.54 
+1.75 
+1.76 
+1.84 
+Bølgehøyde, SV (Hs) [m] 
+0.50 
+0.68 
+1.21 
+1.67 
+1.80 
+1.28 
+1.60 
+1.90 
+1.65 
+1.72 
+1.72 
+1.76 
+Bølgehøyde, SØ (Hs) [m] 
+0.51 
+0.72 
+1.29 
+1.75 
+1.85 
+1.28 
+1.61 
+1.90 
+1.64 
+1.72 
+1.71 
+1.78 
+Bølgehøyde, NØ (Hs) [m] 
+0.44 
+0.75 
+1.32 
+1.72 
+1.79 
+1.28 
+1.47 
+1.73 
+1.55 
+1.75 
+1.76 
+1.83 
+Lengste 
+bølgeperiode 
+ved 
+anlegg (Tp) [s] 
+7.7 
+7.7 
+6.2 
+6.2 
+5.3 
+4.5 
+4.0 
+4.2 
+4.2 
+4.3 
+4.2 
+4.2 
+Bølge- og vindretning 
+180° 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+315° 
+330° 
+345° 
+Bølgehøyde, NV (Hs) [m] 
+1.98 
+2.20 
+2.31 
+1.88 
+1.30 
+1.12 
+0.59 
+0.40 
+0.38 
+0.36 
+0.34 
+0.37 
+Bølgehøyde, SV (Hs) [m] 
+1.74 
+1.64 
+1.48 
+1.30 
+1.01 
+0.67 
+0.45 
+0.33 
+0.44 
+0.37 
+0.37 
+0.42 
+Bølgehøyde, SØ (Hs) [m] 
+1.87 
+1.97 
+1.98 
+1.60 
+1.03 
+0.68 
+0.48 
+0.34 
+0.47 
+0.39 
+0.40 
+0.45 
+Bølgehøyde, NØ (Hs) [m] 
+1.98 
+2.30 
+2.52 
+2.06 
+1.34 
+1.11 
+0.61 
+0.41 
+0.39 
+0.37 
+0.36 
+0.39 
+Lengste 
+bølgeperiode 
+ved 
+anlegg (Tp) [s] 
+4.5 
+5.6 
+6.7 
+7.1 
+9.1 
+7.1 
+9.1 
+8.3 
+8.3 
+7.7 
+7.7 
+7.7 
+ 
+Tabell 8: CMS-Wave modellresultater for signifikant bølgehøyde (Hs) fra hjørnepunktene til anlegget 
+og bølgeperioden (Tp) ved lokaliteten Kariskjæret. Det er her kjørt med kombinasjon av havdønninger 
+og vind. De mørklagte feltene er for å vise retninger hvor simuleringer utelates fordi det ikke forventes 
+kombinert sjøtilstand/ dønninger fra disse retninger. 
+Hjørnepunkt 
+Signifikant bølgehøyde med 50 års returperiode 
+Bølge- og vindretning 
+0° 
+15° 
+30° 
+45° 
+60° 
+75° 
+90° 
+105° 
+120° 
+135° 
+150° 
+165° 
+Bølgehøyde, NV (Hs) [m] 
+ 
+Bølgehøyde, SV (Hs) [m] 
+Bølgehøyde, SØ (Hs) [m] 
+Bølgehøyde, NØ (Hs) [m] 
+Lengste 
+bølgeperiode 
+ved 
+anlegg (Tp) [s] 
+Bølge- og vindretning 
+180° 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+315° 
+330° 
+345° 
+Bølgehøyde, NV (Hs) [m] 
+1.42 
+1.83 
+2.29 
+1.96 
+1.30 
+1.11 
+0.62 
+0.42 
+ 
+Bølgehøyde, SV (Hs) [m] 
+1.14 
+1.25 
+1.47 
+1.35 
+1.00 
+0.63 
+0.44 
+0.48 
+Bølgehøyde, SØ (Hs) [m] 
+1.29 
+1.59 
+1.96 
+1.66 
+1.04 
+0.63 
+0.48 
+0.49 
+Bølgehøyde, NØ (Hs) [m] 
+1.43 
+1.91 
+2.49 
+2.14 
+1.34 
+0.65 
+0.64 
+0.46 
+Lengste 
+bølgeperiode 
+ved 
+anlegg (Tp) [s] 
+3.6 
+6.2 
+7.7 
+8.3 
+11.1 
+3.7 
+11.1 
+2.8 
+ 
+ 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+15 
+Tabell 9: CMS-Wave modellresultater for signifikant bølgehøyde (Hs) fra anlegget og bølgeperioden 
+(Tp) ved lokaliteten Kariskjæret. Det er her gjengitt høyeste bølgehøyde, uansett hjørnepunkt, fra alle 
+retninger og med kun vind, kun havdønninger samt kombinasjonen av disse. Makshøyde uansett 
+drivkrefter og uansett retning er også gjengitt. De mørklagte feltene er for å vise retninger hvor 
+simuleringer utelates da det ikke forventes dønninger eller kombinert sjøtilstand fra disse retninger. 
+Bølge og vindretning 
+ (kompassgrader) 
+Signifikant bølgehøyde med 50 års returperiode [m] 
+Kun vind 
+Kun havdønninger 
+Kombinasjon 
+Makshøyde uansett drivkrefter 
+0° 
+0.51 
+ 
+0.51 
+15° 
+0.75 
+0.75 
+30° 
+1.32 
+1.32 
+45° 
+1.75 
+1.75 
+60° 
+1.85 
+1.85 
+75° 
+1.28 
+1.28 
+90° 
+1.61 
+1.61 
+105° 
+1.90 
+1.90 
+120° 
+1.65 
+1.65 
+135° 
+1.75 
+1.75 
+150° 
+1.76 
+1.76 
+165° 
+1.84 
+1.84 
+180° 
+1.98 
+0.05 
+1.43 
+1.98 
+195° 
+2.30 
+0.09 
+1.91 
+2.30 
+210° 
+2.52 
+0.16 
+2.49 
+2.52 
+225° 
+2.06 
+0.26 
+2.14 
+2.14 
+240° 
+1.34 
+0.41 
+1.34 
+1.34 
+255° 
+1.12 
+0.46 
+1.11 
+1.12 
+270° 
+0.61 
+0.43 
+0.64 
+0.64 
+285° 
+0.41 
+0.33 
+0.49 
+0.49 
+300° 
+0.47 
+ 
+0.47 
+315° 
+0.39 
+0.40 
+330° 
+0.40 
+0.40 
+345° 
+0.45 
+0.45 
+Maksimal bølgehøyde uansett retning 
+2.52 
+0.46 
+2.49 
+2.52 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Nordlandø 
+16 
+www.akvaplan.niva.no 
+ 
+Figur 5: CMS-Wave-modellering ved lokaliteten Kariskjæret (posisjon indikert med lilla pil) i Bodø 
+kommune i Nordland, med kombinasjon av havdønninger og lokalt vindgenererte bølger fra sørvest 
+(210 grader). Det er fra denne retningen at størst bølgehøyde inntreffer ved anlegget (2.5 m), også ved 
+kun lokalt vindgenererte bølger (2.5 m). Bølgeretning er indikert med de sorte, mindre pilenes retning. 
+Signifikant bølgehøyde (Hs) er gitt med fargekonturer, og fargeskala er oppe til venstre. Det grove 
+griddet (fargenes omriss) og det fine griddet (sort liten firkant) er illustrert (kartkilde for bakgrunnskart: 
+www.kystinfo.no). Posisjon for inngangsdata fra Met.no’s modell er illustrert med sort punkt til venstre 
+for modellområdet (se kapittel 2.3.2). 
+ 
+ 
+Figur 6: Samme som i Figur 5, men her er det fokus på nærområdet til anlegget på lokalitet Kariskjæret, 
+med den nøstede modellkjøringen (se Figur 3 og sort firkant i Figur 5). Anlegget er markert med hvite 
+kontrollpunkter omtrent midt i bildet. Fargeskala er oppe til venstre i figuren (kartkilde for 
+bakgrunnskart: www.fiskeridir.no). Simuleringene med kun vind gir omtrent tilsvarende bølgeregime 
+som i denne figuren, når vind kommer fra 210 grader. 
+ 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+17 
+ 
+Figur 7: Samme som i Figur 6, men her er det simulert med kun havdønninger fra vestlig retning (255 
+grader). Det er fra denne retningen lokaliteten Kariskjæret får høyest havdønninger (0.5 m) (kartkilde 
+for bakgrunnskart: www.fiskeridir.no). 
+ 
+ 
+Figur 8: Bølgeenergi vs. frekvens for sørvestlig retning (210 deg) for kombinert sjøtilstand og for kun 
+lokalt vindgenererte bølger, samt for vestlig retning (255 grader) for kun havdønninger. Det er disse 
+retninger som gir høyest signifikant bølgehøyde ved lokaliteten Kariskjæret for disse tre ulike 
+simuleringene i form av kun vind, kun havdønninger samt kombinert sjøtilstand.  
+ 
+ 
+Akvaplan-niva AS, 9296 Nordlandø 
+18 
+www.akvaplan.niva.no 
+4 Oppsummering 
+Bølgemodellering har blitt utført for området mellom Ranfjorden i sør, Hamarøy i nordøst og 
+Røst i nordvest, med fokus på lokaliteten Kariskjæret i Bodø kommune. Modellkjøringene er 
+oppdelt i retningssektorer med 15 grader per sektor. Videre er det simulert med kun 
+innkommende havdønninger, med kun vind og med kombinasjonen av disse to for retningene 
+mellom 180 og 285 grader. Dette utgjør til sammen 8 forskjellige retningssektorer. De 
+resterende 16 retningssektorer er simulert kun for vind (300 – 165 grader). 
+Bølgemodelleringene for lokalitet 36817 Kariskjæret har vist at det er størst eksponering ved 
+lokaliteten med kun vindbølger og med kombinasjonen av havdønninger og lokalt 
+vindgenererte bølger fra sørvestlig retning (210 grader). Største signifikante bølgehøyde (Hs) 
+med 50 års returperiode er da 2.5 m i anlegget med en periode på henholdsvis 6.7 s og 7.7 s for 
+disse to tilfellene.  
+Simuleringene med kun lokalt vindgenererte bølger gir noenlunde samme verdier som 
+kombinert sjøtilstand for alle retninger hvor det er kjørt med havdønninger. Unntak er for de 
+sørlige retninger med høyere bølger for kun vind. De lokalt vindgenererte bølgene har generelt 
+noe kortere bølgelengde, typisk mellom 4 og 9 s, sammenliknet med bølgene med kombinasjon 
+av havdønninger og vind med typisk bølgelengde på mellom 6 og 11 s. 
+Naboretningene til 210 grader gir også bølger på over 2 m. Ellers gir alle andre retningene en 
+maksimal signifikant bølgehøyde med 50 års returperiode på mellom 1 og 2 m. Unntaket er for 
+retningene mellom 270 og 15 grader, altså fra vestlige, nordvestlige og nordlige retninger, hvor 
+bølgehøyden er under 1 m. 
+Simuleringene med kun havdønninger gir svært beskjedne signifikante bølgehøyder, med 
+maksimalt 0.5 m fra vestlige retninger (255 grader). Perioden til havdønningene er på mellom 
+14 s og 17 s.  
+Analyse av energispekteret i modellsimuleringene av bølgene viser at det er de lokalt 
+vindgenererte bølgene som gir størst bidrag til bølgeenergien ved lokaliteten Kariskjæret.  
+Modelleringene har vist at øyer og/ eller grunne områder omkring lokaliteten er effektive når 
+det gjelder å redusere bølgehøyden inn mot interesseområdet. 
+ 
+Havbølgemodelleringer for lokalitet 36817 Kariskjæret, Bodø kommune, Nordland 
+Akvaplan-niva AS Rapport 8373.01 
+19 
+Referanser 
+Dalheim-Eriksen, S., 2016. Lofoten Sjøprodukter AS, Lokalitetsrapport Kariskjæret. Akvaplan-
+niva AS rapport no. 8359.01. 15 sider. 
+Hasselmann K., T.P. Barnett, E. Bouws, H. Carlson, D.E. Cartwright, K. Enke, J.A. Ewing, H. 
+Gienapp, D.E. Hasselmann, P. Kruseman, A. Meerburg, P. Müller, D.J. Olbers, K. 
+Richter, W. Sell, and H. Walden, 1973. Measurements of wind-wave growth and swell 
+decay during the Joint North Sea Wave Project (JONSWAP). Ergänzungsheft zur 
+Deutschen Hydrographischen Zeitschrift Reihe, A(8) (Nr. 12), p. 95. 
+Nasjonalt tillegg, NA - Eurokode 1: Laster på konstruksjoner - Del 1-4: Allmenne laster – 
+Vindlaster, 2009. NS-EN 1991-1-4:2005/NA:2009. ICS: 91.010.30, 91.080.01. 48 sider. 
+NS (Norsk Standard) 9415, 2009. Flytende oppdrettsanlegg - Krav til lokalitetsundersøkelse, 
+risikoanalyse, utforming, dimensjonering, utførelse, montering og drift. ICS: 65.150, 
+67.260. 108 sider. 
+Nygaard, E. & Eik, K. J., 2004. Application of STWAVE in Norwegian coastal water. In: 
+Proceedings, 8th International Workshop on Wave Hindcasting and Forecasting. 9 sider. 
+Reistad, M., Breivik, Ø., Haakenstad, H., Aarnes, O.J., Furevik, B. and Bidlot, J.-R., 2011. A 
+high-resolution hindcast of wind and waves for the North Sea, the Norwegian Sea and 
+the Barents Sea. Journal of Geophysical Research, Vol. 116, C05019, doi: 
+10.1029/2010JC006402. 
+Sanchez, A., Lin, L., Demirbilek, Z., Beck, T., Brown, M., Li, H., Rosati, J.D., Wu, W. and 
+Reed, C., 2012. Draft CMS User Manual, June 20, 2012. (No. ERDC/CHL-TR-11-X). 
+Engineer Research and Development Center Vicksburg MS Coastal and Hydraulics 
+Lab. pp 332. 
+Smith, J. M., Militello, A., and Smith, S. J., 1998. "Modeling waves at Ponce de Leon Inlet, 
+Florida." Proc. 5th International Workshop on Wave Hindcasting and Forecasting, 
+Environment Canada, Downsview, Ontario, 201-214.

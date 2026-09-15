@@ -190,7 +190,10 @@ turns every original into `docs/text/<id>.txt` with an `index.json` provenance
 record (SHA-256, MIME, method, pages, OCR pages, tools, entry, title); PDF text
 layers via PyMuPDF, pages below 40 characters and images via tesseract
 (nor+eng), DOCX via pandoc, XLSX via openpyxl. `apply-doc-text.mjs` copies the
-first 500 characters and the method back into `docs.json`. That bookkeeping (`seen`, `pending`) is kept in
+first 500 characters and the method back into `docs.json`, and
+`copy-doc-text.mjs` bundles the full texts (capped at 200 000 characters) into
+`public/data/text/<id>.txt`, flagging each document with `text: true`. They are
+served on demand and runtime-cached, never precached. That bookkeeping (`seen`, `pending`) is kept in
 `web/data-state/docs-state.json`, committed but not served. The app links the
 file on the eInnsyn API.
 

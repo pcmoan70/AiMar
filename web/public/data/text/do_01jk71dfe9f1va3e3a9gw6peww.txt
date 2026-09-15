@@ -1,0 +1,2422 @@
+﻿NOOMAN
+,'„
+-•.,.
+'-':".
+:,
+. ,._
+. ..
+..-,'..
+?--"-•
+:
+.
+.,..,••••„...<=.i......;,...;:-.-
+.;,-
+- '',.',.;
+.•.'
+;.,;
+. . .::-
+-
+......2
+..
+i,
+,-
+......,..„,.
+,.,
+.-)--
+i..,.'. ,.fr.- , ¶- ;4-''--,..-:----
+....„..
+'
+t'.
+-:
+'
+•
+----;;•-•
+.'...:-
+-...,-:-,,,,,-
+........
+-,-.::-:-.--..-.-
+.-.
+STRØMRAPPORT TORANGSKJERET REGNR. 30637
+or,
+rH
+Jflt
+JELj
+60.07.782N
+Pc»0
+an0 LjKsecr-;;), 1,5H
+05: 0.5140
+Utarbeidet av:
+Olve Van dal
+Kontroll: Frank Å e Vikedal
+For konstruks'on
+02-1212
+061212
+OV
+FÅV
+111212
+For kommentar
+Revis'on
+Nr.
+Dato
+Utarbeid.
+Kontroll
+Godk..
+Tabell 1.1 Oppsummering av maksimalstrom på 5 og 15 meter med 10 og 50 års returperiode på 5 og 15
+meter(strom går mot retning)
+Mot retning:
+N
+No
+0
+SØ
+S
+SV
+V
+NV
+Strøm 10 år 5m [m/s]:
+0.08
+0.17
+0.20
+0.20
+0.26
+0.23
+0.20
+0.13
+Strøm 50 år 5m [m/s]:
+0.16
+0.31
+0.38
+0.38
+0.50
+0.44
+0.38
+0.25
+Strøm 10 år 15m [m/s]:
+0.12
+0.12
+0.15
+0.25
+0.20
+0.21
+0.23
+0.13
+Strøm 50 år 15m [m/s]:
+0.22
+0.22
+0.28
+0.47
+0.38
+0.41
+0.44
+0.25
+Innhold
+1.0 Formål
+2
+2.0 Introduksjon
+2
+3.0 Metode
+3
+3.1 Strøm.
+3
+3.1.1 Strømmåler
+3
+3.1.2 Strømdata
+3
+4.0 Strøm
+4
+4.1.1 Målt strøm, resultat
+6
+4.1.2 Kommentar strømmåling
+7
+4.1.3 Vindstrøm
+7
+4.1.4 Tidevannsstrøm
+8
+4.1.5 Trykkdrevet strøm, blant annet utbrudd av kyststrøm.
+8
+4.L6 Vårflom- snø og is smelting
+8
+5.0 Dataredigering og kvalitetskontroll
+9
+6.1 Strøm
+9
+6.0 Litteraturliste
+10
+7.0 Vedlegg
+11
+1.0 Formål
+Formålet med rapporten er å dokumentere
+og beskrive strømbilde som opptrer på lokalitet i form av
+parametre hentet fra strømmålinger.
+Strømrapport kan brukes som grunnlagsdokumentasjon
+iht NYTEK
+§10.
+2.0 Introduksjon
+Det ble i oktober 2012 foretatt strømmålinger 5 og 15 meter på lokalitet Torangskjeret for Troland
+Lakseoppdrett AS. Strømmålere ble plassert på koordinatene 60°07.782N, 05°10.5140. Torangskjeret er
+lokalisert i Austevoll kommune i Hundvåkosen mellom Hundvåkøy og Huftarøy. Dybder i området er
+mellom 30-200 meter, og under strømmålere er det ca 100 meter.
+Side 2 av 16
+I Hordaland er tidevann en vesentlig faktor for strømhastighet. Kyststrøm gir mindre utstlag på
+strømhastigheter enn feks på Sørlandet, men kan fortsatt være av betydning for lokaliteter i Hordaland, også
+inne i f:jordsystem, og tas hensyn til sammen med tidevannstrøm og vindegenerert strøm.
+Resultatene oppgis med 10- og 50 års returperiode for strøm på 5 og 15 meter. Alle fremgangsmåter som er
+benyttet for å fremskaffe parametrene er omtalt i rapporten.
+Teoretiske utregninger og andre registreringer blir kontrollert og vurdert opp mot de erfaringer som finnes
+for området. Strømrapporten er en sammenstilling av de strømundersøkelsene som er foretatt i oktober —
+desember 2012. Strømundersøkelser er foretatt av Noomas Sertifisering AS.
+3.0 Metode
+3.1 Strom.
+3.1.1 Strømmåler
+Strømmåler modell: Mini Current meter modell SD-6000. Måleren består av en mekanisk og en separat
+elektronisk enhet. Strømmåleren
+inneholder sensorer for strøm (rotor), temperatur og retning (kompass).
+Den elektroniske delen inneholder en datalogger som kan registrere inntil 6000 måleintervaller fra alle
+sensorer. Intervallen må forhåndsprogrammeres
+fra 1 min til 3 timer. Målerene må plasseres på dyp som det
+skal registreres strøm på og data hentes ut av strømmåler med eget program til pc.
+For øvrige opplysninger om SD-6000 systemet kan brukermanual skaffes etter behov.
+Målerene var plassert på 5 og 15 meter. Data er registrert med 10 min intervaller. Strømmålerene er plassert
+i posisjon 60°07.782N, 05010.5140. Strømmålerne er plassert i posisjon som sannsynligvis er representativ
+for høyeste strømhastighet ved Torangskjeret.
+Ved bruk av SD-6000 og andre typer strømmålere skal målte verdier kvalitetssikres
+slik at eventuelle
+feilmålinger blir eliminert.
+Dette gjør at strømverdier blir mest mulig lik de faktiske forholdene
+fra
+lokaliteten. Typiske elementer som kan forårsake feilregistreringer er: treghet i propell, begroing og feil ved
+montering/utplassering.
+Kompasset i måleinstrumentet fungerer som urviseren, dersom 270 grader oppgis,
+tilsvarer dette strøm mot vest (270 grader). Målerne på 5 og 15 ble utplassert av Noomas Sertifisering AS i
+henhold
+til
+forskriftene
+for
+lokalitetsundersøkelser
+over
+en måleperiode
+på
+1 månefase.
+4
+ukers
+sammenhengende varighet. Rådatafiler er tilgjengelige i Noomas Sertifisering sitt arkiv.
+3.1.2 Strømdata
+I henhold til NS9415:2009 skal strøm oppgis for 5 og 15 meter. Tidligere strømmålinger kan benyttes hvis
+de møter kravene i 5.2.2 eller 5.2.3 i NS94I5. Målinger på andre dyp enn 5 og 15m kan benyttes forutsatt at
+det er mulig å bruke disse til å estimere
+strømhastigheten
+ved interpolering
+(NS94I 5 Kap 5.2.4).
+Strømmålinger ved Torangskjeret er gjort på 5 meter og 15 meter. Strømmålinger er foretatt i perioden 26.
+oktober —03. desember 2012.
+Rapporten inneholder strømverdier med 10 (faktor 1.65) og 50 (faktor 1.85) års returperioder og justering av
+strømhastigheten
+etter
+kravene
+i standarden
+(hvis det
+er
+behov).
+"Hvis
+høyeste
+dimensjonerende
+stromhastighet med en returperiode på 50 år, basert på en måling i en måned blir lavere enn 0.5 m/s, skal
+den dimensjonerende stromhastigheten
+settes til 0.5 m/s. De andre verdiene i stromrosen skal justeres
+tilsvarende". Det blir ikke foretatt noen justering av strømdata hvis strøm på ett av måledypene har høyere
+Side 3 av 16
+strømmåling enn 0.5 m/s inkl. 50 års returperiode. Hvis begge målingene er under 0,5 m/s inkl 50 års
+returperiode blir det benyttet samme faktor for justering på begge dypene. Øvrige verdier i strømrosen(e)
+blir oppjustert med samme faktor på begge måledyp. Det kan bli tilfeller hvor strøm på det ene dypet er
+lavere enn 0,5 m/s. Når strøm justeres
+med samme faktor på begge dyp opprettholdes
+strømbildet på
+lokaliteten.
+Fig 3.1: Oversiktsbilde av plassering av strommålere.
+Dytdrksyr-
+!
++0
+Karl‘ulg
+h taLn.
+(nIg
+t'ff n.Inn
+ 
+Pleturlya
+t,r1
+•
+n
+Ilarm
+yeasøknairp eairer
+31"
+11W
+4.0 Strøm
+I Norge er det i hovedsak fire faktorer som kan påvirke strømforholdene på en lokalitet, disse er tidevann,
+vind og havstrømmer.
+Tidevann: Tidevannsstrømmer skyldes høydeforskjellen mellom flo og f"jære.
+Tiltrekningen fra solen og særlig månen setter opp periodiske vannstandsendringer
+som i våre farvann
+vanligvis fører til to høyvann og to lavvann i døgnet. Det er de horisontale forflytninger av vannmassene
+som følger av vannstandsendringene,
+som kalles tidevannsstrømmer.
+Tidevannet kan betraktes som en
+svært langstrakt bølge som vandrer over havene. Bølgens forplantningshastighet avhenger av dypet og kan
+bli flere hundre knop, med en bølgelengde som enkelte steder kan bli 5000 nautiske mil. Bølgen går
+langsommere i grunne områder enn i dype. Forståelsen av tidevannet som en bølgebevegelse er svært
+viktig for å kunne sammenholde
+vannstandsvariasjoner,
+tidspunkt for høy- og lavvann og strømmens
+variasjon. I en bølge vil vannet i bølgetoppen bevege seg i forplantningsretningen til bølgen, mens vannet i
+bølgedalen vil bevege seg mot forplantningsretningen. Siden tidevannet forplanter seg som en bølge, får vi
+størst strømhastighet ved høy- og lavvann. Langs norskekysten fra Vestlandet til Finnmark forplanter
+Side 4 av 16
+tidevannsbølgen
+seg
+nordover,
+og vi
+får
+størst
+stromhastighet
+nordover
+ved
+høyvann
+og størst
+strømhastighet
+sørover
+ved
+lavvann.
+Dette
+gjelder
+utenfor
+kysten
+og
+på
+åpne
+kyststrekninger.
+I fjordmunninger er det annerledes, her er det strømstille ved høy- og lavvann, og maksimal strøm midt
+mellom
+høy-
+og
+lavvann
+(inn
+florden
+på
+stigende
+sjø
+og
+ut
+fjorden
+på
+fallende
+sjø).
+Styrken av strømmen følger tilnærmet forskjellen mellom høy- og lavvann. Dette medfører en økende
+forskjell på ca 0.5 knop fra vestlandskysten til finnmarkskysten.
+Vinddrevne strømmer: Når vinden blåser over vannoverflaten vil den på det åpne hav sette opp en strøm
+som i overflaten har en hastighet på omtrent 2-4% av vindens, og som på den nordlige halvkule vil ligge
+noen få grader til høyre for den framherskende vindretning. Denne strømmen dreier mot høyre med økende
+dyp samtidig med at den avtar sterkt. Treffer strømmen på en kyst vil bildet endre seg ved at vannet stuves
+opp. Strømmen vil gå langs kysten slik at høyt vann er til høyre for strømretningen.
+Store variasjoner i
+bunnen vil også virke
+inn her, for eksempel
+ved overgangen
+fra Norskerenna
+og til det grunnere
+Nordsjøplatået.
+Havstrømmer:
+Det dominerende
+trekket
+er "varmt" og salt atlanterhavsvann
+som kommer
+inn i
+Norskehavet
+mellom
+Færøyene
+og Shetland.
+Hoveddelen av strømmen,
+som blir kalt Den norske
+atlanterhavsstrøm, følger kanten langs Nordsjøen, norskekysten, Barentshavet, vestkysten av Svalbard og
+inn i Nordishavet.
+Ut fra østersjøen føres et overskudd av ferskvann som blander seg med sjøvann. Dette føres ut som Den
+baltiske strøm. Deretter fortsetter den langs norskekysten og får da navnet Den norske kyststrøm eller bare
+Kyststrommen. På sin vei får Kyststrømmen tilført store mengder ferskvann fra Norge, samtidig som den
+blander
+seg
+med
+det
+saltere
+atlanterhavsvannet
+som
+ligger
+utenfor
+og
+under
+Kyststrømmen.
+Saltholdigheten i Kyststrømmen vil derfor stige jo lengre nord vi kommer. Dette reduserer muligheten for
+isdannelse
+i
+nordlige
+områder.
+Om
+sommeren
+er
+temperaturen
+i
+kystvannet
+høyere
+enn
+i
+atlanterhavsvannet, om vinteren lavere. Kyststrommen er sterkest langs vestlandskysten og kan komme
+opp i 0.4 —0.5 m/s, sterkest nær overflaten og et stykke fra land.
+Utenfor Vestlandet
+ligger
+grensen
+mellom
+kystvann
+og atlantisk
+vann
+omkring
+vestskråningen
+i
+Norskerenna. Denne grensen varierer gjennom året på en slik måte at om sommeren flyttes den vestover
+mens den om vinteren flyttes østover. I tillegg dannes det ofte store virvIer i grensen mellom kystvann og
+atlantisk
+vann.
+Disse
+er
+lette
+å oppdage
+fra satellittbilder.
+Vinterstid
+vil en ofte
+kunne
+"føle"
+temperaturforskjellen
+når en passerer denne grensen. I og med at strømmen går i motsatt retning i de to
+vannmassene,
+vil det ofte,
+avhengig
+av vindforholdene,
+bli forskjell
+i bølgestrukturen
+også.
+De
+gjennomsnittlige strømhastighetene utenfor kysten varierer mellom 15 cm/s og 40 cm/s.
+Side 5 av 16
+Figur 4.1 Antlanterhavsstrøm (røde piler) og Kyststrømmen (grønne piler) langs norskekysten.
+4.1.1 Målt strøm, resultat
+34so15
+225 N
+135
+19
+165
+180
+Figur 4.2 Strømrose for 5 og 15 meter ink1.50år returperiode.
+60
+300
+285
+270 I
+255
+240
+5
+/105
+120
+330
+315
+5 meter
+15 meter
+Side 6 av 16
+Tabell 4.1 Stromverdier lokalitet Torangskjeret (mot retning). Alle verdier i m/s. (Stromrose, se vedlegg)
+Retning
+Max'l
+Verdie'r
+5 meter
+Maks 10 år
+Maks 50 år
+[m/s]
+' ' '[m/a]
+Justert 50 år
+[m/s]
+Max
+verdier
+, 16.meter::;
+MakS: 10 år E-Maks,:50 fi`r-;JuStert•SO år.
+,. .
+.
+[m/s]
+‘-•' [M/S] '
+' [mrs]
+0
+0.05
+0.08
+0.09
+0.16
+0.07
+0.12
+0.13
+0.22
+15
+0.05
+0.08
+0.09
+0.16
+0.06
+0.10
+0.11
+0.19
+30
+0.06
+0.10
+0.11
+0.19
+0.05
+0.08
+0.09
+0.16
+45
+0.10
+0.17
+0.19
+0.31
+0.06
+0.10
+0.11
+0.19
+60
+0.10
+0.17
+0.19
+0.31
+0.07
+0.12
+0.13
+0.22
+75
+0.11
+0.18
+0.20
+0.34
+0.06
+0.10
+0.11
+0.19
+90
+0.11
+0.18
+0.20
+0.34
+0.09
+0.15
+0.17
+0.28
+105
+0.12
+0.20
+0.22
+0.38
+0.08
+0.13
+0.15
+0.25
+120
+0.09
+0.15
+0.17
+0.28
+0.09
+0.15
+0.17
+0.28
+135
+0.11
+0.18
+0.20
+0.34
+0.14
+0.23
+0.26
+0.44
+150
+0.12
+0.20
+0.22
+0.38
+0.15
+0.25
+0.28
+0.47
+165
+0.14
+0.23
+0.26
+0.44
+0.12
+0.20
+0.22
+0.38
+180
+0.10
+0.17
+0.19
+0.31
+0.08
+0.13
+0.15
+0.25
+195
+0.16
+0.26
+0.30
+0.50
+0.05
+0.08
+0.09
+0.16
+210
+0.14
+0.23
+0.26
+0.44
+0.11
+0.18
+0.20
+0.34
+225
+0.09
+0.15
+0.17
+0.28
+0.12
+0.20
+0.22
+0.38
+240
+0.08
+0.13
+0.15
+0.25
+0.13
+0.21
+0.24
+0.41
+255
+0.12
+0.20
+0.22
+0.38
+0.14
+0.23
+0.26
+0.44
+270
+0.10
+0.17
+0.19
+0.31
+0.11
+0.18
+0.20
+0.34
+285
+0.07
+0.12
+0.13
+0.22
+0.07
+0.12
+0.13
+0.22
+300
+0.08
+0.13
+0.15
+0.25
+0.07
+0.12
+0.13
+0.22
+315
+0.05
+0.08
+0.09
+0.16
+0.05
+0.08
+0.09
+0.16
+330
+0.06
+0.10
+0.11
+0.19
+0.08
+0.13
+0.15
+0.25
+345
+0.05
+0.08
+0.09
+0.16
+0.06
+0.10
+0.11
+0.19
+4.1.2 Kommentar strømmåling
+Torangskjeret ligger i Hundvåkosen
+i Austevoll kommune. Valide målinger er fra 0-5454 på begge
+måleseriene, dette tilsvarer 37 dager. Ut fra tabeller i vedlegg er det gjort flest registreringer mot 135
+160
+grader på de to dybdene med returstrøm uten noen utpreget returstrøm. Strømmålinger viser at
+strømhastighetene er forholdsvis lave og hovedstrømsretningen er mot SØ.
+Maksimalt målte verdi på 5m var 16.0 cm/s 231112 kl 14.35 mot 206°. Samtidig ble det på 15m registrert
+2.6 cm/s mot 172°. Naboverdiene i datamaterialet tyder på at dette er en signifikant topp for 5m.
+Maksimalt målte verdi på 55m var 15.2 cm/s 111112 kl 09.05 mot 163°. Samtidig ble det på 5m registrert
+1.2 cm/s mot 96°. Naboverdiene i datamaterialet tyder på at dette er en signiflkant topp for 15m.
+Ut fra vurderte strømmålinger inntreffer ikke maksimal strømhastighet samtidig de to måledypene..
+4.1.3 Vindstrøm
+Generelt kan vind påvirke overflatestrømmen ved lokaliteter. Vindgenerert strøm kan komme opp i 2-4 %
+av vindhastigheten (kanskje mer i fjordsystemer). Vindgenerert overflatestrøm kan dokumenteres ved å
+foreta strømmålinger i perioder med uvær fra S (evt. langtidsmåling som strekker seg over 1 år). Utifra
+vindstatistikk i perioden strømmålerene var satt ut kan det være ensammenheng mellom vind og
+overflatestrøm.
+Side 7 av 16
+4.1.4 Tidevannsstrøm
+Strømmen er normalt forutsigbar ved lokaliteten. Torangskjeret er lokalisert i en åpen os mellom flere øyer
+vest i Hordaland, der hovedstrømsretninginen
+er mot SØ.
+Strømmen er i tillegg vurdert i forhold til månefaser som normalt gir høyere strømtopper (nymåne 13.11.12
+og fullmåne 28.11.12). Det er ikke registrert noen sammenheng mellom strømtopper og månefaser.
+Beskriving av tidevannsvariasjon skal inkludere ekstremverdier. Følgende verdier er hentet fra
+"tidevannstabeller for den norske kyst". 1tabell under er tidevannsnivåene for Bergen vurdert til å være
+gieldende for lokaliteten med justeringer for lokal beliggenhet (høydekorreksjonsfaktor).
+Tabell 4.2 Tidevanntabell for Bergen og Telavåg i Sund. Hoydekorreksjonsfaktor for Telavåg 0.87.
+Bergen
+Telavåg
+Høyeste observerte vannstand (1990)
+241 cm
+209 cm
+Høyeste astronomiske tidevann (HAT)
+180 cm
+157 cm
+Middelvann(MSL)
+90 cm
+78 cm
+Middel spring lavvann(MLWS)
+29 cm
+25 cm
+Laveste astronomiske tidevann(LAT)
+0 cm
+0 cm
+Laveste observerte vannstand(1980)
+-42 cm
+-37 cm
+4.1.5 Trykkdrevet
+strøm, blant annet utbrudd
+av kyststrøm.
+Kystrømmen kan ha innvirkning i Austevoll selv om det kan se ut som det er tidevannet som har mest
+innvirkning på målingene.
+1 datamateriale
+kan slike utbrudd som har påvirket strømmålingene
+på en
+oppdrettslokalitet ofte sees som uregelmessige strømtopper.
+4.1.6 Vårflom- snø og is smelting
+Det vil være lite ferskvannstilsig i dette området i perioder med vårflom- snø og is smelting, og dette vil
+kunne påvirke lokaliteten liten grad. For eksakte målinger av effekten av dette må det tas strømmålinger i
+overflaten og perioder når dette inntreffer.
+Side 8 av 16
+Tabell4.3 Sjekkliste strommålinger og vurdering.
+5 meter/
+Kontrollert
+15 meter
+Kommentarer:
+Logging av strøm, 10 min
+ok
+ok
+SD6000 målere plassert på 5 og 15 meter
+Måle Periode, 4 uker
+Ok
+Fra 261012
+Til 031212
+Ant. målinger
+5454
+5454
+Begrunnet plassering
+ok
+ok
+Målinger er gjort med nøter i sjø.
+Plassering er vurdert å være på et sted
+som er representativt for strømbilde på
+lokaliteten. Nøter kan ha hatt påvirkning
+på målingene, men er vurdert å være det i
+liten grad.
+Tidevannsstrøm
+ok
+ok
+Registrert i strømmålinger.
+Vindgenerert
+overflatestrøm
+ok
+ok
+Kan påvirke lokaliteten.
+Utbrudd fra kyststrøm
+ok
+ok
+Kan påvirkelokaliteten.
+Vårflom pga snø —og is
+smelting
+ok
+ok
+Påvirker lokaliteten i liten grad.
+Faktorer som kan ha
+Teknisk:
+Teknisk:
+Alle registreringer i måleseriene 5m og
+påvirket målingene
+Ingen
+Ingen
+15m er vurdert som tilfredsstillende.
+5.0 Dataredigering og kvalitetskontroll
+6.1 Strøm
+Strømmåling og lagring av strømdata er foretatt av Noomas Sertifisering as. Rådatafiler ble mottatt
+importert til strømredigeringsprogrammet
+SD6000 som leveres av Sensordata AS. Strømdata blir videre
+kontrollert og avlest i det samme programmet. Hvis det er målinger som ikke er valide etter en slik
+vurdering tas disse bort fra datautvalget. Noomas har beregnet og justert strøm med 10- og 50 års
+returperioder utifra tilgjengelig dokumentasjon. Strømmålinger som er foretatt er verifisert til å være
+gjeldende for Torangskjeret. Strømdata ble eksportert til dataprogrammet "Excel" hvor strøm med 10—og
+50 års returperioder ble beregnet.
+Side 9 av 16
+6.0 Litteraturliste
+Sensordata: Mini Current meter model SD6000, users manual.
+Norsk Standard 9415: 2009. Flytende oppdrettsanlegg: Krav til lokalitetsundersøkelse, risikoanalyse,
+utforming, dimensjonering, utførelse, montering og drift.
+NS 9425-1 Oceanografi —Del 1: Strømmålinger i faste punkter
+Norsk Standart NS-EN 1991-1-4:2005.
+Allmenne laster —Vindlaster
+NYTEK: For-2011-08-16-849
+Vannstand. Tidevannstabeller for den norske kyst, vannstand.no
+Statens kartverk sjø. Tidevannstabeller for den norske kyst. 74 Årgang 2011.
+Olex (2007): Olex, Kartleggingsprogram av havet.
+Månefase 2012: www.klokka.no
+Side 10 av 16
+7.0 Vedlegg
+Strømmålinger Torangskjeret 5 meter:
+STATISTICAL
+SUMMARY
+File
+name:
+No01-5m-TorangskjereLSD6
+Ref.
+number:
+1628
+Series
+number:
+1
+Intenral
+time
+10 Minutes
+Number
+of measurernents
+in data
+set:
+5454
+Data
+displayed
+from:
+1115
+- 26.0ct-12
+To:
+10:05
+- 03.Dec-12
+Tota I
+East 1west
+North / south
+Mean
+current
+speed
+(cm/s)
+Variance
+(cmlsr
+Standard deviation (ern1s)
+Mean standard
+deviation
+Maximum
+eurrent
+velocity
+Minimum
+eurrent
+velocity
+Significant
+max velocity
+Significant
+min velocity
+Figur 7.1 Statistisk sammendrag fra målinger 5 meter.
+CURRENTSPEEDBARCHART
+Folename-No01-5m-Torangskjeret.SD6
+Ref number: 1626
+Senes
+number
+1
+Intenal time. 10Minules
+Nurnberof measurementsin dataset. 5454
+Datadisplayedfrons 13.15- 26.0-nt-12 To. 1005 • 03 Den•12
+„
+Number of measurements
+2500
+2400
+2200
+2080
+1800
+1600
+1400
+1200
+1000
+880
+600
+420
+208
+1.3
+1:4
+4:1
+5.8
+8-10
+12.15
+11.25
+28:50
+50.75
+75.100
+CURRENT SPEEDI DIRECTION MATRIX
+Fae narne. No01-5en-Torangskjeret.SDO
+Ref. number: 1628
+Series number. 1
+IntervaltimA 10 Minutes
+Number of measurements in data set: 5464
+Data dispIayed from: 13:15 - 26 Oct-12
+TA 10.05 - 03.Dec-12
+0
+15
+30
+45
+60
+75
+90.
+105
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285 ,
+300
+315
+-330
+345
+.5. n<r.
+..
+1 .
+3 .
+4
+,
+10
+54
+26
+4
+56
+25
+14
+70
+18
+16
+81
+25
+30
+99
+30
+37
+160
+75
+55
+176
+70
+43
+168
+94
+31
+154
+91
+25
+147
+98
+18
+164
+106
+20
+159
+89
+29
+158
+62
+21
+126
+53
+27
+119
+30
+15
+95
+19
+16
+67
+18
+8
+65
+13
+5
+44
+9
+8
+27
+18
+7
+56
+14
+16
+49
+17
+20
+46
+18
+8
+70
+21
+8....,...4.4.7...09...:1
+5 .
+2
+2
+6
+5
+18
+41
+71
+69
+60
+77
+75
+75
+60
+34
+17
+18
+5
+12
+3
+3
+3
+6
+8
+5
+12.4
+Current speed groups
+6 -
+8'
+10
+1
+0
+0'
+0
+0
+0
+0
+1
+0
+0
+0
+2
+1
+4
+9
+8
+23
+16
+5
+28
+37
+15
+34
+28
+6
+24
+14
+1
+39
+44
+18
+70
+80
+24
+2
+57
+54
+26
+1
+31
+20
+4
+13
+8
+1
+4
+2
+1 '
+5
+3
+3
+2
+3
+0
+2'
+5
+0
+2
+1
+2
+0
+2
+0
+0
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+6.2
+6.1
+2.1
+1.
+•
+2
+0.
+50:
+0
+7
+0.
+, 100
+0.
+Total flow
+' Max
+, Sum% , m /m
+% . curr
+-
+--I
+1.7
+13871 1.3
+5.0
+1.6
+12861 1.2 I
+4.6
+2.0
+15591 1.41
+5.8
+2.4
+1878 l
+1.7 ,
+9.6
+3.6
+34491 3.1 110.2
+6.6
+68891 6.31 11.4
+8.3
+9437 i
+6.6 111.2
+8.2
+92031 8.41 12.0
+6.9
+7180 ,
+6.5 1 8.6
+l
+,
+8.3
+10777
+9.8 1,10.8
+10.2
+14912, 13.6 111.6
+9.1
+128831 11.71114.4
+,6,7
+72001 6.61 10.0
+4.8:
+4926 1 4.5 116.0
+3.7
+3166 1 2.9 114.4
+2.9
+26411 2.41
+9.4
+2.0
+16201 1.51
+7.0
+1.9
+18221 1.71 12.4
+1.2
+10631 1.0 1 9.6
+1.1
+904 1 0.81
+7.2
+1.5
+11811 1.1 1 6.8
+1.6
+12861 1.21
+5.2
+1.7
+1400 '
+1.3 -
+6.2
+1.9
+1519 ,..1.4
+4.6
+109658'
+...9_
+Figur 7.2 Oversikt overfordeling i de ulike
+hastighetene ogfordeling i de ulike retningene i
+måleperioden samt maksimal strøm i de ulike
+retningene.
+CURRENTDIRECTIONBARCNART
+Filename.No01-5m-Torangskjeret.SD6
+Ref number.1628
+Senes number. 1
+time: 10Urtutes
+Numberofrneasurementsindataset 5454
+Datadmsplayed
+fronn.13:15- 26Oct-12 To 1005- C3nec-12
+802 Numberof measurennents
+550
+500
+450
+428
+258
+300
+281
+200
+150
+100
+50
+0
+18
+10
+45
+58
+71
+90
+101 120 185
+188 181 780 195 210 225 240 211 270 251 300 311 338 348
+r
+2.0
+4.061
+1-
+2.660
+2.015
+r--1.63,
+r-0.601-
+fl
+2.2
+3.7-2-5
+1
+1930.
+8-66
+cm/s
+Deg
+Figur 7.3Antall målinger i de ulike hastighetene.
+Figur 7. 4 Antall målinger i de ulike retningene.
+Side11 av 16
+Strømmålin
+er Toran
+sleeret
+15 meter:
+STATISTICAL
+SUMMARY
+FOe name
+No02-15m-Tarangskjeret.SD6
+Ref.
+number
+1638
+Series
+number:
+1
+Interval
+time:
+10 Minutes
+Number
+of measurements
+in data
+set.
+5454
+CURRENTSPEED DIRECTIONMATRIX
+File name 0o02-16m-TorangskjeretSD6
+Ref number. 1636
+Series number. 1
+Intervaltirre: 10 Minutes
+Numberof measurementstn data set. 5454
+Data displayedfrom 1115 - 26 Oct-12 Tor 10A5 - 03 Dec-12
+Data
+dispIayed
+frorm
+1315
+- 26.0ct-12
+Mean
+current
+speed
+(cm/s)
+To
+10
+Total
+05
+- 03.Dec-12
+East
+/ west
+1 7
+Variance
+(cmIsr
+3 509
+2 221
+Standard
+deviation
+(cm/s)
+1 900
+1 490
+Mean
+standard
+deviation
+0 898
+Maximum
+current
+velocity
+[
+15 2
+Minimum
+current
+velocity
+0°
+Significant
+max
+velocity
+4 8
+Significant
+min
+velocity
+1 2
+North
+south
+[
+1 8
+2 978
+0 965
+Figur 7.5 Statistisk sammendrag fra målinger 15
+meter.
+Current speed groups
+Total flow
+Max
+1
+3
+4
+5
+6 '
+8
+1
+1
+2
+50
+7
+,
+100 Sum%
+m'hn.
+% curr
+0
+18
+24
+4
+5
+2
+2
+15
+18
+23
+4
+1
+3
+0
+0.9
+5681 0.6
+6.0 '
+30
+21
+28
+5
+2
+1
+0
+1.0
+564!
+0.6
+5.4
+45
+27
+42
+7
+6
+1
+0
+1.5
+928
+1.0
+5.8
+60
+39
+67
+10
+11
+4
+1
+2.4
+1651
+1 8
+6.8
+75
+42
+91
+28
+17
+5
+1
+3.4 ,
+2551
+2.8
+6.2;
+90
+59
+134
+34
+38
+19
+17
+5.5
+5011
+5.6
+8.8!
+105
+87
+162
+39
+34
+16
+19
+6.6
+5560.
+6.2
+8.2
+120
+65
+163
+30
+17
+10
+8
+5.4
+4118;
+4.6;
+9.2'
+135
+54
+233
+65
+39
+23
+17
+1
+1
+8.3
+8752'; 9.71 13.8.
+150
+51
+229
+90
+75
+37
+56
+2
+1
+10.6
+12949 14.41 15.2,
+165
+37
+239
+120
+80
+26
+29
+2
+1
+10.3
+11983! 13.3; 12.0
+180
+35
+217
+54
+31
+7
+10
+6.5
+5417
+6.01 7.8
+195
+39
+196
+21
+6
+0
+0
+4.8
+3137
+3.51 4.6 ,
+210
+22
+197
+24
+4
+0
+5
+4.7
+3488
+3.9
+11.4:
+225
+25
+166
+26
+7
+3
+4
+4.3
+3253
+3.6
+11.8!
+240
+18
+175
+37
+16
+10
+8
+5.0
+4573
+5.1 j 12.6'
+255
+18
+156
+48
+27
+8
+9
+5.1
+5210;
+5.8
+14.2
+270
+27
+151
+32
+13
+8
+9
+4.5
+3882
+4.3
+10 6
+285
+22
+85
+14
+7
+2
+4
+2.5
+1805
+2.0
+6.8
+300
+24
+59
+13
+4
+2
+1
+1.9
+1286
+1.4
+6.6
+315
+24
+46
+9
+2
+1
+0
+1.5
+918
+1.0
+5.2
+330
+17
+36
+11
+4
+0
+1
+1.3
+892
+1.0 ;
+8.4
+345
+20
+27
+8
+1
+0
+1
+1.0
+629
+0.7,' 6.2;
+Sum% 14.8 54.0 13.4
+8.2
+3,4
+3.7
+1.
+1.
+0.
+0.
+0.
+0.
+89855
+' 15.2
+Figur 7.6 Oversikt overfordeling i de ulike
+hastighetene ogfordeling i de ulike retningene i
+måleperioden samt maksimal strom i de ulike
+retningene.
+CURRENTSPEEDBARCHART
+File name 14o02-15m-Torangsk1eret
+SD6
+Ref.number 1638
+Senesnurnber 1
+Intenraltime 10Minutes
+Nurnberof measurementsin data set 5454
+Datadtsplayedfrorn 13 15• 26 Oct-12 To 10 05 - 03 Dec-12
+Numberof measurements
+3030
+2100
+29400
+2400
+2200
+2000
+1100
+10-0
+1400
+1200
+1000
+000
+400
+400
+200
+CURRENTDIRECTIONBARCHART
+Fde narne to02-15m-Torangsk1eret.SD6
+Rer number 1638
+Senesnumber1
+Intervaltirre. 10Minutes
+Numberofrneasurementsin dataser 6464
+Datadisplayedtrorn 13-15- 26Oct-12 To
+05- 03Dec-12
+Numberof measurements
+55,01
+339
+490
+400•
+350•
+300
+250
+200
+150•
+100
+50
+0-1
+4-5
+to
+4-13
+8-.10
+10:15
+15-75
+2E-5
+50.-05
+70-100
+orfs
+11
+313 45
+50
+73
+90
+105
+123 721-
+50
+145 130 101 210 25
+243 233 270 235 300 315 300 391
+Deg
+Figur 7.7Antall målinger i de ulike hastighetene.
+Figur 7. 8 Antall målinger i de ulike retningene.
+Side 12 av 16
+Strømmålinger
+Torangskjeret
+5 og 15 meter:
+CURRENT
+VELOCITY
+DISTRIBUTION
+DIAGRAM
+File neme
+5002-15m-Torangskjeret
+S06
+5001-5m-Torengskjeret.SD6)
+Senes number
+1
+Ref
+number
+1638
+Number
+of measurements
+in data set
+5454
+Interval time
+10 Minutes
+Data d.oteyed
+from
+1315
+- 26 Oct-12
+To- 11:5-05- 03 Dec-12
+54
+Maximundvelocrty
+(crnis
+per 15 deg sector
+Figur 7.9 Venstre diagram: Maksimale
+stromhastigheten målt i hver 15 graders sektor i løpet av
+måleperioden. Høyre diagram: Gjennomsnittlige
+stromhastighet målt i hver 15 graders sektor i lopet av
+måleperioden. Blå vektor gjelderfor 5 meter og rødfor
+15meter.
+CURRENT
+SPEED
+Fite narne: No02-15m-Torangskjeret.SD6
+No01.5en-Torangskjeret.SD6)
+Series
+nomber,
+1
+Ref
+number
+1638
+Number
+of measurements
+in data set
+5454
+Interval time.
+10 Minutes
+Data displayed
+from:
+1315
+26.0ct-12
+To
+1005
+- 03.Dec-12
+Current
+speed (ernls
+CURRENT VELOCITY
+DISTRIBUTION
+DIAGRAM
+FiN name: 6002-15m-TorangskieretS06
+0o01-5m-Torangskjeret.SD6}
+Series number
+1
+Ref. number.
+1538
+Number of measurements
+in data set: 5454
+Interval tbn,
+10 Minutes
+Data displayed
+from. 13-15
+26.0c1-12
+To
+10.05
+03 Dec-12
+Figur 7.10 Venstre diagram: Stramaktiviteten målt i
+hver 15graders sektor i løpet av måleperioden
+Høyre diagram: Antall målinger i hver 15 graders
+sektor i lopet av måleperioden. Blå vektor gjelderfor
+5 meter og rødfor 15 meter.
+54
+54
+Ca 200
+249
+7600
+\
+Number of measurements
+per 15 deg sector
+Relatore water fax (%)
+per 15 deg sector
+Mean veloc,ty
+(cmis)
+per 15deg seetor
+160
+ter)
+130
+12 0
+110
+100,
+90
+0
+70
+6 0
+6 0
+rt
+2 0
+2 0
+1
+C
+I
+2
+'I
+I
+6
+8
+E
+e
+to tr
+18 19 20 2
+27 28 29 2,0 01 32 23 36 31 30 37
+Days
+Figur 7.11Figuren viser tidsdiagramfor strømstyrken
+uavhengig av retning. Blå kurve gjelder for 5 meter og
+rødfor 15 meter.
+Side 13 av 16
+STICK DIAGRAM
+File name: No02-15m-Torangskjeret..S06
+No01-5m-Torangskjeret.SD6)
+Series nurnber: 1
+Ref. number: 1638
+Number of rneasurements in data set 5454
+Intervaltime: 10 Minutes
+Data displayed fram: 1315 - 26.0ct-12
+TO:1005 - 03„Dec-12
+Current speed (cm/s)
+20.0 -
+15.4
+10.0
+5.0
+0 G
+-10.0
+-15.0
+-20.0 -
+0
+1 2
+3
+4
+5
+6
+7
+3
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+25 27 25 29 30 31 32 33 34 35 36 37
+Days
+Figur 7.12 Figuren viser et utsnitt av hvordan strømstyrke og strømretning har variert på 5 og 15 meter
+gjennomfra dag i måleperioden. Blå kurve gjelderfor 5 meter og rodfor 15 meter.
+MOORING LOAD CURRENT fmeasured
+velocity)
+File name: No02-15rn-Torangskjeret.SD6
+(+ No01-5m-Torangskjeret.SD6)
+Senes nurnber: 1
+Ref, number: 1638
+Number of measurements
+in data set: 5454
+Interval time: 10 Minutes
+Data displayed from: 13:15 - 26:Oct-12
+To: 10:05 - 03.Dec-12
+Upper (red) max velocity (cm/s)
+Lower (red) max velocity (cm/s)
+and concurrent
+lower (blue) velocity
+and concurrent upper (blue) velocity
+Figur 7.13Figuren viser samtidig stromretning på begge dypene. Forfigur til venstre viser blå vektor 5 meter og
+rod strek 15 meter. Figur til høyre viser blå vektor 15 meter og rod strek 5 meter.
+Side14 av 16
+MAXIMUM LOAD / DIRECTION 1DEPTH MATRIX (measured
+velocity)
+File name: 0a02-15ra-Taran8sk1eret.906 ff: No01-5m-Terangsk1eret.SD0)
+Series number. 1
+Number of measurements In data
+Data displayed fram: 1315 - 26.0ct-12
+Sector
+Time
+cUp
+Ref. number: 1638
+set: 5454
+Interval time: 10 Minutes
+To. 1005 • 03.Dec-12
+Max at upper
+dUp
+clow
+dlow
+eMean'
+dMean
+Time
+Max at lower
+cUp
+dlJp
+cLow
+dLow
+cMean
+dMean
+Time
+cUp
+Max Mean
+dllp
+cLow
+dLow
+cMean
+dMean
+0
+12-11-10 10:451
+6.8
+1
+10.01
+168
+1.9
+143
+12-11-03 03:551
+1.21 309 '
+5.01
+11,
+2.9
+351
+12-11-03
+,
+03:251
+5.0
+9
+2.4
+8
+3.71
+9
+15
+12-11-10 11:05 I
+6.0
+23
+8.61
+167
+2.6j
+124
+1211-06 0715
+1.0 :
+82 ,
+4.6
+201
+2.6
+30 , 12-11-03 02:55
+4.0
+1
+4.0
+30
+3.91
+15
+30 , 12-11-07 23:551
+5.4
+401
+2.81
+205
+1.41
+55
+12.10-26 1535 ;
+1.21
+52
+5.81
+37
+3.5
+40: 12-10-26 15:351
+1.2
+52 '
+5.8
+37
+3.5
+40
+45
+12-10-26 13:151
+5.8
+501
+0.01
+319
+2.91
+50
+12.10-26 15551
+5.8:
+1061
+9.6 '
+561
+7.0
+74
+12-11-15 23:55
+6.8
+72
+3.0
+317
+3.1
+45
+60
+12-11-15 23:55 t
+6.8
+721
+3.01
+317
+3.11
+45112-11-29 06151
+6.21 120
+10.2 t
+091
+7.5
+88
+1210-26 15:551
+5.8
+106
+9.6 ,
+56
+7.0
+74
+75
+12.11-29 04:45;
+6.2
+891
+4.0 :
+85
+5.11
+87112-11-22 05:151
+2.8
+200
+11.4 '
+83 I
+5.2
+97
+12-11-29 06:151
+7.41
+1101
+9.8 ,
+72
+8.1
+89 ,
+90
+12-11-25 12:45
+8.8
+931
+2.21
+1831
+4.51
+107
+1211:22 06051
+5.4
+177
+11.21
+92 ,
+6.4
+117 ' 12-11-25 09:55 '
+6.2
+107
+10.0
+102
+8.1 ,
+1041
+105 12-11.25 09:15
+8.2
+1111
+10.21
+1151
+9.21
+113
+12-11.25 0935
+66
+103
+12.01
+1151
+9.3
+111112-11-25 09:35
+6.6
+103
+12.01
+115
+9.31
+111
+120
+12-11.29 21:15
+9.2
+134 I
+1.81
+1131
+5.41
+131
+12-10-27 0105 :
+8.2
+149
+8.61
+131
+8.3
+148
+12-10-27 07:25
+13.8
+136
+4.4
+98
+8.71
+127
+135
+150"
+12-10-27
+12-11.11
+07:25
+09:05 ;
+13.8
+15.2
+1361
+4.41
+1631
+1.21
+981
+96:
+8.71
+7.91
+127
+12-11-21
+159. 12-11-07
+1435
+0245,
+1.8
+283
+1.2
+58
+10 8 :h
+11.6 :
+145 ,
+161 ,
+4.8
+153112-11-29
+5.7
+155
+12-11-29
+17:45 ;
+17:151
+12.4
+9.2
+141
+6.01
+143
+8.2
+160
+163
+9.1
+8.6
+147
+153
+165
+12-11-11 08:55 ; 12.0
+167 '
+1.01
+1261
+6.41
+164 : 12-11-07 0415 .
+1.4
+122
+14.41
+173
+7.7
+169 ' 12-11-07 04:25
+2.0
+135
+13.8
+173
+7.7
+169
+180 12-10-28 05:25,
+7.8
+182
+2.41
+,
+681
+3.611
+164
+1211-08 1945
+1.0
+112
+10.0:
+181 '
+5.2
+176
+12-11-07 04:551
+1.8
+246
+11.0
+173
+5.8
+182
+195 12-11-22 04:15 ,
+4.6
+198
+3.6 '
+1271
+3.4 j
+167
+1211-23 1435
+2.6
+172
+16.01
+206
+9.1
+202
+12.11-23 14.35
+2.6
+172
+16.0
+206
+9.1
+202
+210
+12.10-29 06:551 11.4
+220
+1.01
+,
+2791
+6.01
+224
+1211-23 1455
+2.4
+205
+14.41
+2131
+8.4
+212
+12.11-23 14:55
+2.4
+205
+14.4
+213
+8.4
+212
+225
+1240-29 07:15 t 11.8
+229
+1.2
+2041
+6.3'
+233 . 12-11-06 21:15
+2.0
+133
+9.4 h
+233
+4.6
+221
+12-10-29 07.15 : 11.8
+229
+1.21
+274
+6.3
+233
+240
+12-11.11 01:051 12.6
+254
+2.01
+1681
+6.51
+245 , 1211-06 21:45
+2.0
+155
+7.6
+2421
+4.0
+228
+12-10-29 07:25
+12.0
+252
+1.2
+267
+6.6
+253
+255
+12-10-29 08:05
+14.2
+265
+1.0 ,
+254
+7.6
+264112.12.01 17:25 :
+1.0
+299
+12.41
+2671
+6.6
+270
+12-10-29 08:35
+11.2
+268
+6.2 '
+259
+8.7
+265
+270
+12-10-29 08:45
+10.6
+281
+4.0 I
+263
+7.21
+276 , 1212.01 17:35
+1.2
+30
+9.61
+281
+4.6
+288
+12-10-29 08:45
+10.6
+281
+4.0 '
+2:63
+7.2
+276 ,
+285
+12-10-29 10:45
+6.8
+288
+5.6
+2651
+6.1 i
+278112-11-30 09:35 '
+5.2
+151
+7.21
+288
+2.5
+242
+12-12-01 17:35
+1.2
+30
+9.6 '
+281
+4.6
+288
+300
+12-10-26 21:55 ,
+6.6
+307
+5.2
+871
+2.11
+359 ' 1211:23 00:15
+2.8
+207
+6.8 '
+313
+3.3
+289
+12-11-01 09:35
+2.41 316
+4.2 '
+308
+3 .31
+311
+315" 12-10-31 21:45
+5.2
+323
+4.41
+1611
+0.81
+2711 12-11-23 16:55
+0.6
+166
+5 2'1
+'
+318
+2.3
+315
+12-11-23 01:25
+3.2 ; 306
+6.2
+332
+4.6
+323 '
+330
+12.10-31 21:551, 8.4
+343
+4.41
+1951
+2.61
+316
+12-11-23 0125 ,
+3.2
+306
+6.21
+332
+4.6
+323
+12-11-01 10:35
+3.21
+'
+342
+3.6
+340
+3.4
+341 ,
+345
+12-10-31 22:05
+6.2
+352
+3.6 ;
+1631
+1.41
+5
+1211-02 1735
+2.6
+308
+4.61
+354
+3.3
+337
+12-11-03 03:55
+1.21 309
+5.0
+1
+2.9
+351
+Figur7.14Figurenmaksimalestrømverdier(faktiske)på 5m+samtidigstrømpå 15mogmaksimale
+strømverdierpå 15m+samtidigstrømpå 5m.
+Side 15 av 16
+Figur 7.15 Vindhastigheter ved målestasjon på Slåtterøy i perioden strømmålingene bleforetatt.
+Døgnverdier
+::,
+sjorier
+rt,
+Eiim ttlitetr
+Kod,t
+ntall
+1 dritt
+tra
+dr!t!
+tIl
+Side 16 av 16

@@ -1,0 +1,1635 @@
+﻿Oppdragsgiver
+AquaGen AS
+Feltdato
+30.04.2024
+Rapportnummer
+110212188-3012-01-001
+Sedimentanalyse
+Prioriterte og vannregionspesifikke stoffer
+29697 Hafsmo
+Sedimentanalyse  Hafsmo   
+ 
+ 
+ 
+ 
+ 
+   
+         Side 1 av30 
+Rapportnummer 110212188-3012-01-001 
+ 
+ 
+ 
+Rapport for sedimentanalyse av prioriterte og vannregionspesifikke stoffer 
+ved lokalitet 29697 Hafsmo
+Rapportnummer 
+110212188-3012-01-001 
+Rapportdato 
+16.08.06 
+Feltdato 
+30.04.2024 
+Oppdragsgiver 
+Selskap 
+AquaGen AS 
+Kontaktperson 
+Morten Storvik 
+Versjonshistorikk 
+Versjonsnummer 
+01-001 
+ 
+Versjonsbeskrivelse 
+Utstedelse av rapport 
+Intern dokument ID 
+ÅBM-SED-PV-1,00 
+Lokalitet 
+Lokalitetsnavn  
+Hafsmo 
+Lokalitetsnummer 
+29697 
+Anleggssenter 
+63°22.072'N / 09°16.465'Ø 
+MTB 
+2840 tonn 
+Fisketype (art) 
+Laks, Regnbueørret, Ørret 
+Kommune, fylke  
+Orkland kommune, Trøndelag 
+Produksjonsområde 
+6  Nordmøre og Sør-Trøndelag 
+Oppdragsansvarlig 
+Selskap 
+Åkerblå AS  
+Nordfrøyveien 413 
+7260 Sistranda  
+Organisasjonsnummer 916 763 816 
+Prosjektleder 
+Henry Køhler Haug 
+Feltarbeid 
+John Vegard Øien 
+- 
+Forfatter (-e) 
+Henry Køhler Haug 
+Godkjent av 
+Kristine Marit Schrøder Elvik 
+Distribusjon 
+Denne rapporten kan kun gjengis i sin helhet.  Gjengivelse av deler av 
+rapporten kan kun skje etter skriftlig tillatelse fra Åkerblå AS.  I slike tilfeller 
+skal kilde oppgis. 
+Side 2 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Forord 
+Prøvetakingsstasjoner er tatt i etterkant av C-undersøkelse for å legge ved i søknad om 
+utvidelse. Stasjonsplasseringene samsvarer med stasjoner brukt i C-undersøkelsen utført 
+januar 2023 (Åkerblå, 2023a). Dette medfølger at grunnlag for stasjonsplassering og 
+beskrivelse 
+av 
+akkumulerings- 
+og 
+spredningspotensiale 
+for 
+all 
+utslipp 
+fra 
+akvakulturanlegget er den samme. Det forekommer av den grunn tekstlikhet og kopi av 
+tekst fra rapport fra nevnte C-undersøkelse. Det henvises til nevnte C-rapport for utfyllende 
+informasjon relevant for innværende undersøkelse. 
+ 
+ 
+1 Innhold 
+Forord .............................................................................................................................................................. 2 
+1 
+Innhold .................................................................................................................................................... 2 
+Sammendrag ................................................................................................................................................... 3 
+2 
+Innledning ............................................................................................................................................... 3 
+3 
+Bakgrunn for undersøkelsen .................................................................................................................. 4 
+4 
+Lokalitetsbeskrivelse .............................................................................................................................. 4 
+5 
+Valg av prøvestasjoner ........................................................................................................................... 5 
+6 
+Metode ................................................................................................................................................... 7 
+7 
+Resultat og klassifisering ........................................................................................................................ 7 
+8 
+Diskusjon/Konklusjon ............................................................................................................................ 9 
+9 
+Litteratur ...............................................................................................................................................10 
+Vedlegg 1 - Resultater....................................................................................................................................11 
+Vedlegg 3  Analysebevis ..............................................................................................................................15 
+ 
+ 
+ 
+ 
+ 
+Side 3 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Sammendrag 
+Prøver av sediment for analyse av prioriterte og vannregionspesifikke stoffer, og 
+legemiddel ved lokalitet Hafsmo ble utført 30.04.2024 i forbindelse med søknad om 
+arealendring ved lokaliteten. 3 stasjoner ble undersøkt i et transekt sørvest for planlagt ny 
+anleggsplassering, og det ble tatt prøver fra en referansestasjon omtrent 6 km vest i 
+forbindelse med legemiddelanalysene.  
+ 
+Flertallet av analysene viste konsentrasjoner av stoffer tilsvarende tilstandsklasse «svært 
+god». Analysene etter legemiddelet emamektin viste under deteksjonsgrensen. 
+ 
+ 
+2 Innledning 
+Norge har, gjennom EØS-avtalen, forpliktet seg til følge 
+rammedirektiv for vann med 
+mål om en helhetlig og samordnet forvaltning for å sikre beskyttelse og bærekraftig bruk 
+av vannmiljøet. Denne forpliktelsen er forankret i norsk rett gjennom Forskrift om rammer 
+for vannforvaltningen (kortittel: Vannforskriften). Dette innebærer at overflatevann skal 
+beskyttes mot forringelse, forbedres og gjenopprettes med sikte på at alle 
+vannforekomster skal ha minst god økologisk og kjemisk tilstand.  
+Nytt forurensningsregelverk for Havbruk trådte i kraft 02.02.2024 (Pressemelding fra 
+Regjeringen, 06.02.2024). Nytt regelverk åpner opp for at det er tillatt å drive akvakultur 
+uten særskilt tillatelse etter forurensningsloven, men strenge og spesifikke krav til 
+overvåking av miljø. Blant annet er det krav om prøvetaking og analyse av sediment i 
+anleggs- og overgangssone for innhold av stoffer som er sluppet ut eller forventes slippes 
+ut fra lokaliteten som kan utgjøre miljørisiko ved og omkring oppdrettsanleggene. 
+I vannforskriften er det listet opp en rekke miljøgifter som utgjør en vesentlig risiko for eller 
+via akvatisk vannmiljø i Europa (vedlegg VIII i Vannforskriften), kalt prioriterte og prioriterte 
+farlige stoffer. I tillegg har Miljødirektoratet vurdert en rekke stoffer som er ansett å ha 
+negativ påvirkning på vannmiljø, og som slippes ut i så betydelige mengder at de utgjør en 
+risiko for norske farvann, kalt vannregionspesifikke stoffer. 
+I 2015 utarbeidet Miljødirektoratet nye grenseverdier for tilstandsklasser i vann, sediment 
+og biota for en rekke stoffer. I klassifiseringssystemet representerer klassegrensene en 
+forventet økende grad av negativ påvirkning på organismesamfunnet i vannsøylen og 
+sedimentene. Grensene er basert på tilgjengelig informasjon fra laboratorietester, 
+risikovurderinger og dossierer om akutt og kronisk toksisitet på organismer hvor klasse 1 
+representerer bakgrunnsverdier og naturtilstanden der slike data foreligger, mens klasse 
+5 representerer omfattende toksiske effekter (tabell 1.1).  
+Tabell 1.1 Klassifiseringssystem for vann og sediment etter veileder M-608.  
+Tilstandsklasse 
+1 
+2 
+3 
+4 
+5 
+Beskrivelse 
+Bakgrunn 
+God 
+Moderat 
+Dårlig 
+Svært dårlig 
+Grenser styrt av 
+Bakgrunnsnivå
+Ingen toksiske 
+effekter 
+Kroniske 
+effekter 
+ved 
+langtids-
+eksponering 
+Akutt toksiske 
+effekter 
+ved 
+korttids-
+eksponering 
+Omfattende 
+toksiske 
+effekter 
+ 
+Siden det er stor variasjon i hvilke kjemiske stoffer som slippes ut ved lokalitetene grunnet 
+ulike fôr- og kjemikalieprodusenter, er det variasjon i hvilke stoffer en må analysere for. 
+Varierende grad av faktiske utslipp, høye analysekostnader og usikkert kunnskapsgrunnlag 
+Side 4 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+for alternative forurensningskilder gjør at det er behov for flere standardiserte føringer og 
+bedre veiledning i hva som vil være vurderingsgrunnlaget for hva myndighetene regner som 
+tilstrekkelig og relevant prøvetaking. Denne veiledning er i utarbeidelse (pers. med. 
+Haaland, Inger Marie (Miljødirektoratet, 2024)).  
+For å sikre en godt faglig forankret undersøkelse som også er kostnadseffektiv har Åkerblå 
+valgt å standardisere undersøkelsene så langt som mulig for å best mulig svare på krav i 
+søknadsprosesser som pågår før veileder er på plass. Fremgangsmåten inkluderer 
+stasjonsutvelgelse og utvalg av relevante stoffer for analyse basert på lovverk, 
+tilbakemeldinger fra oppdrettsaktører, fô
+fiskefôr (Havforskningsinstituttet, 2022), Statsforvaltere, Fylkeskommune og opparbeidet 
+kunnskap internt. Åkerblå utfører sedimentprøvetaking akkreditert (test 252), mens 
+legemiddel analyser utføres hos NIVA AS og analyser av miljøgifter utføres ved akkreditert 
+laboratorie (Eurofins Environment Testing).  
+ 
+Stoffer som er valgt ut for analyser inkluderer følgende:  
+Metaller: Arsen og arsenforbindelser, Bly og blyforbindelser, Kadmium og 
+kadmiumforbindelser, Kvikksølv og kvikksølvforbindelser, Nikkel og Nikkelforbindelser, 
+Sink, Kobber, Krom og kromforbindelser 
+Bromerte flammehemmere: Polybromerte difenyletere (PBDE) 
+Klorerte organiske forbindelser: PCB (7), Heksaklorbenzen (HCB) 
+Pesticider: DDT (sum) 
+Kjemiske parametre for C-undersøkelser: Fosfor, Nitrogen, TOC og kornfordeling.  
+Legemidler: Emamectin. 
+I henhold til tidligere tilbakemeldinger (som nå er tatt ut av Åkerblås prøvetakingsprogram) 
+ble det også analysert for PAH, Dioksiner, Dioksinlignende PCB og Pesticider.  
+ 
+ 
+3 Bakgrunn for undersøkelsen 
+Åkerblå har på oppdrag fra AquaGen AS utført en sedimentundersøkelse med analyse av 
+prioriterte og vannregionspesifikke stoffer i henhold til krav i laksetildelingsforskriftens §8-
+9g.  
+ 
+Bakgrunnen for undersøkelsen er søknad endring av areal. Det søkes om å flytte anlegget 
+ca. 1600 meter lengre øst inn i Snillfjorden. 
+ 
+4 Lokalitetsbeskrivelse 
+Oppdrettslokaliteten Hafsmo ligger i Snillfjorden i Orkland kommune, Trøndelag (Figur 3.1). 
+Anlegget ligger plassert i økoregion Norskehavet sør med vanntype beskyttet kyst/fjord. 
+Anlegget er plassert rett sør for Nonslihatten, og bunnen under ønsket anleggsplassering 
+er tilnærmet flat på 128 meter (Figur 3.2).  
+ 
+Siste generasjon (V-20) på eksisterende anlegg ble satt ut i juni 2020, og anlegget var 
+utslaktet i november 2021. Deretter har lokaliteten stått brakk.  
+ 
+ 
+Side 5 av30
+Sedimentanalyse Hafsmo
+Rapportnummer 110212188-3012-01-001
+Figur 3.1 Sjøkart (nordlig orientering) med avmerking av lokalitet (blå sirkel) og omkringliggende 
+lokaliteter. Kartdatum WGS84.
+Figur 3.2 Sjøkart (nordlig orientering) med avmerking av lokaliteten sentralt i kartet. Eksisterende anlegget i 
+rødt, og omsøkt anlegg i sort. Kartdatum WGS84. 
+5 Valg av prøvestasjoner
+I henhold til laksetildelingsforskriften skal det ifølge §8-9g tas sedimentprøver for analyse
+fra minst to C-stasjoner. Dette er minstekrav, og tilbakemeldinger fra myndigheter (bla. 
+Miljødirektoratet, 
+Fiskeridierktoratet 
+og 
+Troms/Finnmark 
+Fylkeskommune) 
+har 
+understreket viktighet av at undersøkelsen er å betrakte som en nullprøve, og dermed er 
+det nødvendig med et godt sammenligningsgrunnlag for videre produksjon og minst tre 
+stasjoner er dermed foreslått. 
+Side 6 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Stasjonsoppsettet ble opprettholdt fra C-undersøkelsen fra januar 2023, C-undersøkelsen 
+sier følgende om stasjonsplasseringen; Ved undersøkelsestidspunktet forelå det ikke 
+fullstendige strømdata for lokaliteten. Stasjonsoppsettet ble derfor planlagt basert på 
+midlertidige strømmålinger som viste en hovedretning mot vest-sørvest ved spredningsdypet. 
+De endelige strømmålingene viste imidlertid en hovedretning mot øst-nordøst. Det bør dog 
+bemerkes at det også ble registrert en betydelig vannføring i vestlig retning ved samtlige 
+måledyp. Basert på dette anses stasjonsoppsettet likevel å dekke de områdene der det kan 
+forventes størst spredning og akkumulering av organiske partikler (Åkerblå 2023a). 
+ 
+Ønsket anleggskonfigurasjon ble endret noe etter C-undersøkelsen ble utført. Avstand til HAF-
+2 (C2) ble dermed noe mindre enn veiledende, men den ansees likevel representativ da 
+stasjonen ble tatt som ledd i en 0-prøve (forundersøkelse) og sedimentmiljøet i 
+overgangssonen virker å være veldig homogent.  Det ble dermed valgt å bruke like 
+stasjonsplasseringer for å kunne bruke data sammen med informasjon fra C-undersøkelsen. 
+HAF-1 ble plassert 25 meter sør for anlegget, HAF-2 ble plassert 300 meter vest-sørvest og 
+HAF-3 ble plassert 75 meter sørvest for anlegget. Sammen danner de en forventet 
+belastningsgradient i den vestlige strømretningen. I tillegg ble det tatt en referansestasjon i 
+forbindelse med analyse av legemiddel plassert omtrent 6 km vest for anlegget ved 
+tilsvarende forhold. Dette for å tilfredsstille intern prosedyre for legemiddeluttak ved første 
+uttak eller overvåkning av referansetilstand (Figur 4.1, tabell 4.1).  
+ 
+ 
+ 
+Figur 4.1 Batymetrisk kart (nordlig orientering) med avmerking av anleggsrammen og fortøyninger. Plassering 
+av prøvestasjoner (brun runding). Innfelt strømrose viser retning av spredingsstrøm (Åkerblå 2023b). 
+Kartdatum WGS84. 
+ 
+ 
+Tabell 4.1 Koordinater, dyp og avstand fra anlegget for prøvetakingspunkter. Kartdatum WGS84. 
+Stasjon 
+HAF-1 
+HAF-2 
+HAF-3 
+HAF-REF 
+Koordinater 
+63°22.004'N/ 
+09°16.386'Ø 
+63°21.963'N/ 
+09°15.880'Ø 
+63°21.982'N/ 
+09°16.140'Ø 
+63°21.202'N/ 
+09°09.050'Ø 
+Avstand (m) 
+25 
+300 
+75 
+6000 
+Dyp (m) 
+128 
+130 
+129 
+73 
+ 
+Side 7 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+6 Metode 
+Prøver av sedimentet ble tatt med sedimentprøvetaker av typen Van Veen grabb (0,1 m2) i 
+henhold til metodikk beskrevet i NS-EN ISO 5667-19. Grabben ble senket åpen til den 
+nådde bunnen og ble deretter hevet lukket til overflaten.  
+ 
+Etter heving ble sedimentprøvetakeren åpnet på toppen og vannet i overflaten drenert bort. 
+Sediment fra de øverste 2 cm av overflaten ble samlet inn til analyse av prioriterte og 
+vannregionspesifikke stoffer, mens sediment fra de øverste 5 cm ble samlet inn for analyse 
+av kornfordeling. Sedimentprøvene ble sendt til Eurofins Environmental Testing AS som 
+tilbyr akkrediterte analyser. Sediment fra de øverste 2 cm av overflaten samlet inn til 
+analyse av legemiddel ved 
+.  
+7 Resultat og klassifisering 
+Resultatene viser nivå innenfor tilstandsklasse «svært god» for de fleste stoffer som har 
+grenseverdi i veileder M-608 (Tabell 6.1). 
+ 
+Samtlige metaller og PAH parameter viste til tilstandsklasse «svært god» med unntak av 
+Indeno[1,2,3-cd]pyren 
+som 
+hadde 
+tilstandsklasse 
+«god». 
+De 
+Polybromerte 
+flammehemmerne og de klorerte organiske forbindelsene viste tilstandsklasse «svært god» 
+i form av at de var under deteksjonsgrensen eller ND (not deteced). Mens Dioksiner og 
+furaner, og PCB viste «svært god», «god» og «moderat» tilstandsklasse. Resterende stoffer 
+er det ikke utarbeidet tilstandsklasser for. 
+ 
+Analysene fra legemiddelet Emamektin var under deteksjonsgrensen ved samtlige 
+prøvestasjoner (Tabell 6.2).   
+ 
+ 
+Tabell 6.1 Resultater med konsentrasjoner av hver analysert parameter for de tre prøvetatte stasjonene, 
+samt farge som indikerer tilstandsklasse iht. M-608. Blå: klasse I (Bakgrunn); grønn: klasse II (God); gul: 
+klasse III (Moderat); oransje: klasse IV (Dårlig); rød: klasse V (Svært dårlig). Stoffer som ikke har 
+bakgrunnsverdier i sediment og som ikke er detektert over LOQ er klassifisert til tilstand «svært god» selv om 
+deteksjonsgrensen har verdi innenfor tilstandsklasse «god». * ND  not detected. 
+Stoffgruppe 
+Parameter 
+Enhet 
+HAF- 1 
+PRI 
+HAF- 2 
+PRI 
+HAF- 3 
+PRI 
+Metaller og metallforbindelser 
+Arsen (As) 
+mg/kg TS
+3,8 
+5,3 
+3,7 
+Bly (Pb) 
+mg/kg TS
+11 
+15 
+6,2 
+Kadmium (Cd) 
+mg/kg TS
+0,05 
+0,046 
+0,026 
+Kobber (Cu) 
+mg/kg TS
+10 
+11 
+7 
+Krom (Cr) 
+mg/kg TS
+27 
+31 
+22 
+Kvikksølv (Hg) 
+mg/kg TS
+0,015 
+0,02 
+< 0,013
+Nikkel (Ni) 
+mg/kg TS
+15 
+17 
+12 
+Sink (Zn) 
+mg/kg TS
+35 
+43 
+25 
+PAH 
+Naftalen 
+µg/kg tv 
+<10 
+<10 
+<10 
+Acenaftylen 
+µg/kg tv 
+<10 
+<10 
+<10 
+Acenaften 
+µg/kg tv 
+<10 
+<10 
+<10 
+Fluoren 
+µg/kg tv 
+<10 
+<10 
+<10 
+Side 8 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Fenantren 
+µg/kg tv 
+<10 
+<10 
+<10 
+Antracen 
+µg/kg tv 
+<4,6 
+<4,6 
+<4,6 
+Fluoranten 
+µg/kg tv 
+<10 
+<10 
+<10 
+Pyren 
+µg/kg tv 
+<10 
+<10 
+<10 
+Benzo[a]antracen 
+µg/kg tv 
+<10 
+<10 
+<10 
+Krysen/Trifenylen 
+µg/kg tv 
+<10 
+<10 
+<10 
+Benzo[b]fluoranten 
+µg/kg tv 
+17 
+22 
+<10 
+Benzo[k]fluoranten 
+µg/kg tv 
+<10 
+<10 
+<10 
+Benzo[a]pyren 
+µg/kg tv 
+<10 
+<10 
+<10 
+Indeno[1,2,3-cd]pyren 
+µg/kg tv 
+18 
+22 
+<10 
+Dibenzo[a,h]antracen 
+µg/kg tv 
+<10 
+<10 
+<10 
+Benzo[ghi]perylen 
+µg/kg tv 
+13 
+15 
+<10 
+Sum PAH(16) EPA 
+µg/kg tv 
+48 
+59 
+ND 
+Polybromerte flammehemmere 
+(PBDE) 
+Sum PBDE (24) (eksl. LOQ) 
+µg/kg tv 
+ND 
+ND 
+ND 
+Klorerte organiske forbindelser
+Heksaklorbenzen (HCB) 
+µg/kg tv 
+<1,0 
+<1,0 
+<1,0 
+Heksaklorbenzen (HCB) 
+µg/kg tv 
+<1,0 
+<1,0 
+<1,0 
+Dioksinlignende PCB 
+WHO(2005)-PCB TEQ (upper-
+bound) 
+ng/kg tv 
+0,172 
+0,163 
+0,17 
+Dioksiner og furaner 
+ WHO(2005)-PCDD/F TEQ 
+eksl. 
+µg/kg tv 
+0,001
+14 
+0,000
+54 
+0,0003
+68 
+PCB 
+Sum PCB(7) eksl LOQ 
+µg/kg Tv 
+0,041
+5 
+0,033
+3 
+ND 
+Pesticider 
+Endosulfan (sum) 
+µg/kg tv 
+<2,5 
+<2,5 
+<2,5 
+Andre stoffer 
+Phosphorus (P) 
+mg/kg TS
+832 
+890 
+805 
+Nitrogen Kjeldahl (BOOM) 
+g/kg TS 
+0,6 
+1 
+0,6 
+Totalt organisk karbon 
+% C 
+0,76 
+0,76 
+0,56 
+Totalt organisk karbon 
+(TOC) 
+mg C/kg 
+TS 
+7560 
+7620 
+5630 
+Tørrstoff 
+% 
+64,8 
+62,3 
+72,8 
+*Verdier markert med «<» er under deteksjonsgrense (LOQ). 
+ 
+ 
+Tabell 6.2 Oversikt over resultat i sammenheng med grenseverdier fra SEPA (1999). tv = tørrvekt. 
+Prøvestasjon 
+Avstand fra anleggs-
+ramme 
+Konsentrasjon 
+(ng/g tv) 
+SEPA (1999)* 
+ng/g tv 
+HAF-1 (nær) 
+25 
+<0,05 
+15,26 
+Under 
+HAF-3 (midt) 
+75 
+<0,05 
+15,26 
+Under 
+HAF-2 (fjern) 
+300 
+<0,05 
+1,526 
+Under 
+HAF-REF (referanse)
+6000 
+<0,05 
+1,526 
+Under 
+Side 9 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+8 Diskusjon/Konklusjon 
+Resultater fra inneværende undersøkelse viser i all hovedsak til en svært god kjemisk 
+tilstand med bakgrunnsnivåer eller nivåer under deteksjonsgrensen for de fleste 
+undersøkte stoffer.  
+ 
+Det er ikke etablert grenseverdier for akseptable- eller ikke akseptable nivåer av 
+emamektin i sediment i Norge. Resultatene i innværende undersøkelse presenteres likevel 
+i sammenheng med grenseverdier etablert i Skottland da disse ofte refereres til i rapporter 
+omhandlende miljøpåvirkning for norske forhold (SEPA, 1999; tabell 6.2). Analysene fra 
+legemiddelet Emamektin var under deteksjonsgrensen ved samtlige prøvestasjoner. 
+ 
+Innværende undersøkelse vil danne grunnlag for videre sammenligning i undersøkelser 
+gjennom produksjonsfasen. Det bør dog gjøres en vurdering om enkelte stasjoner skal 
+flyttes noe etter en eventuell oppstart på lokaliteten. Resultater rapporteres til vannmiljø-
+databasen.  
+ 
+ 
+Side 10 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+9 Litteratur 
+Havforskningsinstituttet (2022) Program for fremmedstoffer i fôrmidler av fisk. 
+Rapportnummer: 2023-39. ISSN: 1893-4536. 
+ 
+M-608 (2016) Grenseverdier for klassifisering av vann, sediment og biota 
+ revidert 
+30.10.2020. Miljødirektoratet basert på bakgrunnsdata fra Aquateam, NIVA og NGI. 
+ 
+Pressemelding fra regjeringen (06.02.2024) Nytt forurensningsregelverk for havbruk - 
+regjeringen.no. 
+Temaside fra Fiskeridirektoratet (05.05.2024) Forurensningsregelverk for havbruk - 
+https://www.fiskeridir.no/Akvakultur/Tema/forurensningsregelverk-for-havbruk 
+ 
+Veileder 02:2018 (2018) Klassifisering av miljøtilstand i vann. Økologisk og kjemisk 
+klassifiseringssystem for kystvann, grunnvann, innsjøer og elver. Direktoratgruppen 
+for gjennomføring av vanndirektivet/Miljøstandardprosjekt. 
+ 
+Åkerblå (2023a) C-undersøkelse for Hafsmo (29697, ny plassering). Rapportnummer: 
+110206147-3001-01-001. Prosjektansvarlig: Henry Køhler Haug 
+ 
+Åkerblå (2023b). Strømrapport  Måling av overflate- (5m), dimensjonering- (15m),  
+sprednings- og bunndyp ved Hafsmo i november-desember 2022/2023. Rapportnr:
+ 
+110200443-3011-01-002. 107 pp.  
+ 
+Side 11 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Vedlegg 1 - Resultater  
+Stoffgruppe 
+Stoff 
+HAF-1 
+HAF-2 
+HAF-3 
+HAF-REF 
+Enhet 
+Metaller og 
+metallforbindelser 
+Arsen (As) 
+3,8 
+5,3 
+3,7 
+- 
+mg/kg TS
+Bly (Pb) 
+11 
+15 
+6,2 
+- 
+mg/kg TS
+Kadmium (Cd) 
+0,050 
+0,046 
+0,026 
+- 
+mg/kg TS
+Kobber (Cu) 
+10 
+11 
+7,0 
+- 
+mg/kg TS
+Krom (Cr) 
+27 
+31 
+22 
+- 
+mg/kg TS
+Kvikksølv (Hg) 
+0,015 
+0,020 
+< 0,013 
+- 
+mg/kg TS
+Nikkel (Ni) 
+15 
+17 
+12 
+- 
+mg/kg TS
+Sink (Zn) 
+35 
+43 
+25 
+- 
+mg/kg TS
+PAH 
+Acenaften 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Acenaftylen 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Antracen 
+< 0,0046
+< 0,0046
+< 0,0046
+- 
+mg/kg TS
+Benzo[a]antracen 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Benzo[a]pyren 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Benzo[b]fluoranten 
+0,017 
+0,022 
+< 0,010 
+- 
+mg/kg TS
+Benzo[ghi]perylen 
+0,013 
+0,015 
+< 0,010 
+- 
+mg/kg TS
+Benzo[k]fluoranten 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Dibenzo[a,h]antracen 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Fenantren 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Fluoranten 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Fluoren 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Indeno[1,2,3-cd]pyren 
+0,018 
+0,022 
+< 0,010 
+- 
+mg/kg TS
+Krysen/Trifenylen 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Naftalen 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Pyren 
+< 0,010 
+< 0,010 
+< 0,010 
+- 
+mg/kg TS
+Sum PAH(16) EPA 
+0,048 
+0,059 
+nd 
+- 
+mg/kg TS
+Polybromerte 
+flammehemmere 
+(PBDE) 
+2,2',3,3',4,4',5,5',6-
+NonaBDE (BDE-206) 
+< 0,585 
+< 0,555 
+< 1,16 
+- 
+µg/kg tv 
+2,2',3,3',4,4',5,6,6'-
+NonaBDE (BDE-207) 
+< 0,585 
+< 0,555 
+< 1,16 
+- 
+µg/kg tv 
+2,2',3,3',4,4',6,6'-
+OktaBDE (BDE-197) 
+< 0,292 
+< 0,278 
+< 0,581 
+- 
+µg/kg tv 
+2,2',3,4,4',5,5',6-
+OktaBDE (BDE-196) 
+< 0,292 
+< 0,278 
+< 0,581 
+- 
+µg/kg tv 
+2,2',3',4,4',5,6'-
+HeptaBDE (BDE-183) 
+< 0,146 
+< 0,139 
+< 0,290 
+- 
+µg/kg tv 
+2,2',3,4,4',5'-HeksaBDE 
+(BDE-138) 
+< 0,0877
+< 0,0833
+< 0,174 
+- 
+µg/kg tv 
+2,2',3,4,4',6,6'-
+HeptaBDE (BDE-184) 
+< 0,146 
+< 0,139 
+< 0,290 
+- 
+µg/kg tv 
+2,2',3,4,4'-PentaBDE 
+(BDE-85) 
+< 0,0585
+< 0,0555
+< 0,116 
+- 
+µg/kg tv 
+2,2',4,4',5,5'-HeksaBDE 
+(BDE-153) 
+< 0,0877
+< 0,0833
+< 0,174 
+- 
+µg/kg tv 
+2,2',4,4',5,6'-HeksaBDE 
+(BDE-154) 
+< 0,0877
+< 0,0833
+< 0,174 
+- 
+µg/kg tv 
+2,2',4,4',5-PentaBDE 
+(BDE-99) 
+< 0,0585
+< 0,0555
+< 0,116 
+- 
+µg/kg tv 
+Side 12 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+2,2',4,4',6-PentaBDE 
+(BDE-100) 
+< 0,0585
+< 0,0555
+< 0,116 
+- 
+µg/kg tv 
+2,2',4,4'-TetraBDE (BDE-
+47) 
+< 0,0292
+< 0,0278
+< 0,0581
+- 
+µg/kg tv 
+2,2',4,5'-TetraBDE (BDE-
+49) 
+< 0,0292
+< 0,0278
+< 0,0581
+- 
+µg/kg tv 
+2,2',4-TriBDE (BDE-17) 
+< 0,0146
+< 0,0139
+< 0,0290
+- 
+µg/kg tv 
+2,3,3',4,4',5',6-
+HeptaBDE (BDE-191) 
+< 0,146 
+< 0,139 
+< 0,290 
+- 
+µg/kg tv 
+2,3,3',4,4',5-HeksaBDE 
+(BDE-156) 
+< 0,0877
+< 0,0833
+< 0,174 
+- 
+µg/kg tv 
+2,3',4,4',6-PentaBDE 
+(BDE-119) 
+< 0,0585
+< 0,0555
+< 0,116 
+- 
+µg/kg tv 
+2,3',4,4'-TetraBDE (BDE-
+66) 
+< 0,0292
+< 0,0278
+< 0,0581
+- 
+µg/kg tv 
+2,3',4',6-TetraBDE (BDE-
+71) 
+< 0,0292
+< 0,0278
+< 0,0581
+- 
+µg/kg tv 
+2,4,4'-TriBDE (BDE-28) 
+< 0,0146
+< 0,0139
+< 0,0290
+- 
+µg/kg tv 
+3,3',4,4',5-PentaBDE 
+(BDE-126) 
+< 0,0585
+< 0,0555
+< 0,116 
+- 
+µg/kg tv 
+3,3',4,4'-TetraBDE (BDE-
+77) 
+< 0,0292
+< 0,0278
+< 0,0581
+- 
+µg/kg tv 
+DekaBDE (BDE-209) 
+< 1,46 
+< 1,39 
+< 2,90 
+- 
+µg/kg tv 
+sum  HeptaBDEs (inkl. 
+LOQ) 
+0,439 
+0,417 
+0,871 
+- 
+µg/kg tv 
+Sum av  analysert 
+NonaBDEs (eks. LOQ) 
+ND 
+ND 
+ND 
+- 
+µg/kg tv 
+Sum av analysert 
+NonaBDEs (inkl. LOQ 
+1,17 
+1,11 
+2,32 
+- 
+µg/kg tv 
+Sum av analysert 
+OctaBDEs (eks. LOQ) 
+ND 
+ND 
+ND 
+- 
+µg/kg tv 
+Sum av analysert 
+OctaBDEs (inkl. LOQ) 
+0,585 
+0,555 
+1,16 
+- 
+µg/kg tv 
+Sum av analysert 
+TriBDEs (eks. LOQ) 
+ND 
+ND 
+ND 
+- 
+µg/kg tv 
+Sum av analysert 
+TriBDEs (inkl. LOQ) 
+0,0292 
+0,0278 
+0,0581 
+- 
+µg/kg tv 
+Sum BDE (eksl. LOQ) 
+ND 
+ND 
+ND 
+- 
+µg/kg tv 
+Sum BDE (inkl. LOQ) 
+4,47 
+4,25 
+8,89 
+- 
+µg/kg tv 
+sum HeptaBDEs (eksl. 
+LOQ) 
+ND 
+ND 
+ND 
+- 
+µg/kg tv 
+sum HexaBDEs (eksl. 
+LOQ) 
+ND 
+ND 
+ND 
+- 
+µg/kg tv 
+sum HexaBDEs (inkl. 
+LOQ) 
+0,351 
+0,333 
+0,697 
+- 
+µg/kg tv 
+sum PentaBDEs (eksl. 
+LOQ) 
+ND 
+ND 
+ND 
+- 
+µg/kg tv 
+sum PentaBDEs (inkl. 
+LOQ) 
+0,292 
+0,278 
+0,581 
+- 
+µg/kg tv 
+sum TetraBDEs (eksl. 
+LOQ) 
+ND 
+ND 
+ND 
+- 
+µg/kg tv 
+sum TetraBDEs (inkl. 
+LOQ) 
+0,146 
+0,139 
+0,290 
+- 
+µg/kg tv 
+Klorerte organiske 
+forbindelser 
+Heksaklorbenzen (HCB) 
+<1,0 
+<1,0 
+<1,0 
+- 
+µg/kg tv 
+Dioksinlignende 
+PCB 
+PCB 105 
+15,3 
+12,0 
+8,42 
+- 
+ng/kg tv 
+PCB 114 
+< 0,916 
+< 0,870 
+< 0,910 
+- 
+ng/kg tv 
+Side 13 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+PCB 118 
+41,5 
+33,3 
+< 27,1 
+- 
+ng/kg tv 
+PCB 123 
+< 0,780 
+< 0,741 
+< 0,774 
+- 
+ng/kg tv 
+PCB 126 
+< 0,994 
+< 0,944 
+< 0,987 
+- 
+ng/kg tv 
+PCB 156 
+4,49 
+< 4,07 
+< 4,26 
+- 
+ng/kg tv 
+PCB 157 
+1,48 
+1,41 
+1,09 
+- 
+ng/kg tv 
+PCB 167 
+2,54 
+2,08 
+< 2,13 
+- 
+ng/kg tv 
+PCB 169 
+< 2,34 
+< 2,23 
+< 2,32 
+- 
+ng/kg tv 
+PCB 189 
+< 0,780 
+< 0,741 
+< 0,774 
+- 
+ng/kg tv 
+PCB 77 
+5,27 
+4,09 
+< 3,48 
+- 
+ng/kg tv 
+PCB 81 
+< 0,760 
+< 0,722 
+< 0,755 
+- 
+ng/kg tv 
+WHO(2005)-PCB TEQ 
+(lower-bound) 
+0,00249 
+0,00187 
+0,00028
+5 
+- 
+ng/kg tv 
+WHO(2005)-PCB TEQ 
+(upper-bound) 
+0,172 
+0,163 
+0,170 
+- 
+ng/kg tv 
+WHO(2005)-
+PCDD/F+PCB TEQ 
+(lower-bound) 
+1,15 
+0,542 
+0,368 
+- 
+ng/kg tv 
+WHO(2005)-
+PCDD/F+PCB TEQ 
+(upper-bound) 
+1,54 
+1,27 
+1,21 
+- 
+ng/kg tv 
+Dioksiner og 
+furaner 
+ WHO(2005)-PCDD/F 
+TEQ (upper-bound) 
+1,37 
+1,11 
+1,04 
+- 
+ng/kg tv 
+1,2,3,4,6,7,8-HeptaCDD 
+13,4 
+7,25 
+5,48 
+- 
+ng/kg tv 
+1,2,3,4,6,7,8-HeptaCDF 
+4,05 
+3,42 
+2,61 
+- 
+ng/kg tv 
+1,2,3,4,7,8,9-HeptaCDF 
+0,413 
+< 0,352 
+< 0,368 
+- 
+ng/kg tv 
+1,2,3,4,7,8-HeksaCDD 
+0,539 
+< 0,444 
+< 0,465 
+- 
+ng/kg tv 
+1,2,3,4,7,8-HeksaCDF 
+0,741 
+0,716 
+0,444 
+- 
+ng/kg tv 
+1,2,3,6,7,8-HeksaCDD 
+0,797 
+< 0,444 
+0,558 
+- 
+ng/kg tv 
+1,2,3,6,7,8-HeksaCDF 
+0,479 
+< 0,370 
+< 0,387 
+- 
+ng/kg tv 
+1,2,3,7,8,9-HeksaCDD 
+0,915 
+0,598 
+0,782 
+- 
+ng/kg tv 
+1,2,3,7,8,9-HeksaCDF 
+< 0,390 
+< 0,370 
+< 0,387 
+- 
+ng/kg tv 
+1,2,3,7,8-PentaCDD 
+0,262 
+< 0,222 
+< 0,232 
+- 
+ng/kg tv 
+1,2,3,7,8-PentaCDF 
+< 0,429 
+< 0,407 
+< 0,426 
+- 
+ng/kg tv 
+2,3,4,6,7,8-HeksaCDF 
+0,749 
+0,590 
+0,454 
+- 
+ng/kg tv 
+2,3,4,7,8-PentaCDF 
+0,618 
+0,537 
+< 0,426 
+- 
+ng/kg tv 
+2,3,7,8-TetraCDD 
+< 0,175 
+< 0,167 
+< 0,174 
+- 
+ng/kg tv 
+2,3,7,8-TetraCDF 
+0,523 
+0,471 
+0,324 
+- 
+ng/kg tv 
+I-TEQ (NATO(CCMS) inkl. 
+LOQ 
+1,48 
+1,19 
+1,09 
+- 
+ng/kg tv 
+I-TEQ (NATO/CCMS) eksl. 
+LOQ 
+1,24 
+0,727 
+0,440 
+- 
+ng/kg tv 
+OktaCDD 
+141 
+110 
+99,2 
+- 
+ng/kg tv 
+OktaCDF 
+5,18 
+4,26 
+3,22 
+- 
+ng/kg tv 
+WHO(2005)-PCDD/F TEQ 
+(lower-bound) 
+1,14 
+0,540 
+0,368 
+- 
+ng/kg tv 
+WHO(2005)-
+PCDD/F+PCB TEQ 
+1,35 
+0,906 
+0,790 
+- 
+ng/kg tv 
+PCB 
+PCB 101 
+< 0,0955
+< 0,0907
+< 0,0949
+- 
+µg/kg tv 
+PCB 118 
+41,5 
+33,3 
+< 27,1 
+- 
+ng/kg tv 
+Side 14 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+PCB 138 
+< 0,0702
+< 0,0667
+< 0,0697
+- 
+µg/kg tv 
+PCB 153 
+< 0,113 
+< 0,107 
+< 0,112 
+- 
+µg/kg tv 
+PCB 180 
+< 0,0292
+< 0,0278
+< 0,0290
+- 
+µg/kg tv 
+PCB 28 
+< 0,0799
+< 0,0759
+< 0,0794
+- 
+µg/kg tv 
+PCB 52 
+< 0,0595
+< 0,0565
+< 0,0590
+- 
+µg/kg tv 
+Sum 6 ikke 
+dioksinlignende PCB 
+(lower-bound) 
+ND 
+ND 
+ND 
+- 
+µg/kg tv 
+Sum 6 ikke 
+dioksinlignende PCB 
+(upper-bound) 
+0,447 
+0,425 
+0,444 
+- 
+µg/kg tv 
+Sum PCB(7) eksl LOQ 
+0,0415 
+0,0333 
+ND 
+- 
+µg/kg tv 
+Sum PCB(7) inkl. LOQ 
+0,489 
+0,458 
+0,471 
+- 
+µg/kg tv 
+Pesticider 
+DDT (sum) 
+#I/T 
+#I/T 
+#I/T 
+- 
+#I/T 
+Endosulfan (sum) 
+<2,5 
+<2,5 
+<2,5 
+- 
+µg/kg tv 
+Endosulfan beta 
+<2,0 
+<2,0 
+<2,0 
+- 
+µg/kg tv 
+Endosulfan, alfa- 
+<2,0 
+<2,0 
+<2,0 
+- 
+µg/kg tv 
+Endosulfan-sulfat 
+<1,0 
+<1,0 
+<1,0 
+- 
+µg/kg tv 
+o,p'-DDD 
+#I/T 
+#I/T 
+#I/T 
+- 
+#I/T 
+o,p'-DDE 
+#I/T 
+#I/T 
+#I/T 
+- 
+#I/T 
+o,p'-DDT 
+<1,0 
+<1,0 
+<1,0 
+- 
+µg/kg tv 
+p,p'-DDD 
+<1,0 
+<1,0 
+<1,0 
+- 
+µg/kg tv 
+p,p'-DDE 
+<1,0 
+<1,0 
+<1,0 
+- 
+µg/kg tv 
+p,p'-DDT 
+<1,0 
+<1,0 
+<1,0 
+- 
+µg/kg tv 
+Per- og polyfluorerte 
+alkylforbindelser 
+(PFAS) 
+PFOA (Perfluoroktansyre)
+#I/T 
+#I/T 
+#I/T 
+- 
+#I/T 
+PFOS 
+(Perfluoroktylsulfonat) 
+#I/T 
+#I/T 
+#I/T 
+- 
+#I/T 
+Andre stoffer 
+Nitrogen Kjeldahl 
+(BOOM) 
+0,6 
+1,0 
+0,6 
+- 
+g/kg TS 
+Nitrogen Kjeldahl 
+(BOOM) 
+0,6 
+1,0 
+0,6 
+- 
+g/kg TS 
+Phosphorus (P) 
+832 
+890 
+805 
+- 
+mg/kg TS
+Phosphorus (P) 
+832 
+890 
+805 
+- 
+mg/kg TS
+Phosphorus (P) 
+832 
+890 
+805 
+- 
+mg/kg TS
+Totalt organisk karbon 
+0,76 
+0,76 
+0,56 
+- 
+% C 
+Totalt organisk karbon 
+(TOC) 
+7560 
+7620 
+5630 
+- 
+mg C/kg 
+TS 
+Tørrstoff 
+64,8 
+62,3 
+72,8 
+- 
+% 
+Legemidler 
+Emamektin 
+<0,05 
+<0,05 
+<0,05 
+<0,05 
+ng/g tv 
+ 
+ 
+ 
+Side 15 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Vedlegg 2  Analysebevis 
+ 
+Side 16 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+ 
+Side 17 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Side 18 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Side 19 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Side 20 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+ 
+Side 21 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+ 
+Side 22 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+ 
+Side 23 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+Side 24 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+ 
+Side 25 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+ 
+Side 26 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+ 
+Side 27 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+ 
+Side 28 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001 
+ 
+Side 29 av30 
+Sedimentanalyse Hafsmo 
+Rapportnummer 110212188-3012-01-001

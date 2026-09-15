@@ -1,0 +1,1132 @@
+﻿Dokument type 
+Skredfarevurdering 
+Dato 
+Januar 2022 
+Skredfarevurdering iht. krav i Plan og bygningsloven og 
+TEK17   
+SKREDFAREVURDERING 
+SETTEFISKANLEGG 
+VEVELSTAD 
+Rambøll Norge AS 
+NO 915 251 293 MVA 
+ 
+ 
+ 
+ 
+ 
+ 
+SKREDFAREVURDERING 
+SETTEFISKANLEGG VEVELSTAD 
+ 
+Oppdragsnavn Reguleringsplan for settefiskanlegg Vevelstad 
+Prosjekt nr. 
+1350047062 
+Mottaker 
+Aquaculture Innovation AS 
+Dokument type Rapport 
+Versjon 
+1 
+Dato 
+21.12.21 
+Utført av 
+Torgeir Fiskum Hansvik 
+Kontrollert av 
+Gudrun Dreiås Majala 
+Godkjent av 
+Gudrun Dreiås Majala 
+ 
+ 
+ 
+ 
+ 
+3/37
+ SAMMENDRAG 
+Rambøll har vurdert skredfaren fra naturlig bratt terreng for et avgrenset område i Lauknes i 
+Vevelstad kommune.  
+Plan- og bygningsloven (pbl) og Byggteknisk forskrift (TEK 17, kap 7.3) stiller krav til sikkerhet 
+mot skred. For reguleringsplan og byggesak/-tiltak, søknadspliktig eller ikke, må det derfor 
+dokumenteres at tilstrekkelig sikkerhet mot skredfare vil bli oppnådd i henhold til disse 
+sikkerhetskravene.  
+Skredfarevurderingen er utført av fagkyndig personell i Rambøll, og følger NVEs veileder 
+Sikkerhet mot skred i bratt terreng - Kartlegging av skredfare i reguleringsplan og byggesak1, og 
+vil dermed kunne dokumentere om sikkerhetskravene er oppfylt. 
+ 
+Skredtypene snø-, jord-, flom-, sørpe-, steinskred og steinsprang utredes. 
+ 
+ 
+ 
+1 https://www.nve.no/veileder-skredfareutredning-bratt-terreng 
+ 
+ 
+ 
+ 
+ 
+4/37
+ INNHOLDSFORTEGNELSE 
+ 
+ 
+Sammendrag 
+3 
+ 
+Innholdsfortegnelse 
+4 
+ 
+Om oppdraget 
+5 
+ 
+Forord 
+6 
+ 
+innledning 
+6 
+ 
+Detaljnivå og bruk av skredfarevurdering 
+6 
+ 
+Gjeldende regelverk 
+6 
+ 
+Grunnlagsmateriale 
+7 
+ 
+Områdebeskrivelse 
+8 
+ 
+Geografi 
+8 
+ 
+Topografi 
+8 
+ 
+Løsmasser og berggrunn 
+12 
+ 
+Vann og nedbørsfelt 
+14 
+ 
+Vegetasjon 
+14 
+ 
+Klimatologiske data 
+14 
+ 
+Aktsomhetskart 
+17 
+ 
+Tidligere utredninger/kartlegginger i området 
+17 
+ 
+Skredhistorikk og lokalkunnskap 
+17 
+ 
+Eksisterende sikringstiltak 
+17 
+ 
+skredfarekartlegging og Skredfareutredning per skredtype 
+18 
+ 
+Feltkartlegging og registreringskart 
+18 
+ 
+Steinsprang 
+18 
+7.2.1 
+Er steinsprang aktuell prosess i påvirkningsområdet? 
+18 
+7.2.2 
+Utredning av løsneområde og løsnesannsynlighet 
+19 
+7.2.3 
+Utredning av utløp 
+19 
+7.2.4 
+Når steinsprang inn i kartleggingsområdet? 
+19 
+ 
+Steinskred 
+20 
+7.3.1 
+Er steinskred aktuell prosess i påvirkningsområdet? 
+20 
+ 
+Snøskred 
+20 
+7.4.1 
+Er snøskred aktuell prosess i påvirkningsområdet? 
+20 
+7.4.2 
+Utredning av løsneområde og løsnesannsynlighet 
+20 
+7.4.3 
+Utredning av utløp 
+21 
+7.4.4 
+Når snøskred inn i kartleggingsområdet? 
+21 
+ 
+Sørpeskred 
+21 
+7.5.1 
+Er sørpeskred aktuell prosess i påvirkningsområdet? 
+21 
+7.5.2 
+Utredning av løsneområde og løsnesannsynlighet 
+21 
+7.5.3 
+Utredning av utløp 
+22 
+7.5.4 
+Når sørpeskred inn i kartleggingsområdet? 
+22 
+ 
+Jord- og flomskred 
+23 
+7.6.1 
+Er jord- og flomskred aktuell prosess i påvirkningsområdet? 
+23 
+7.6.2 
+Utredning av løsneområde og løsnesannsynlighet 
+23 
+7.6.3 
+Utredning av utløp 
+25 
+7.6.4 
+Når jord- og flomskred inn i kartleggingsområdet? 
+26 
+ 
+Hva er den samlede skredfaren? 
+26 
+ 
+Avbøtende tiltak 
+26 
+ 
+Referanser 
+27 
+ 
+Vedlegg 
+28 
+ 
+Vedlegg - Bilder 
+28 
+ 
+ 
+ 
+ 
+ 
+5/37
+ 
+Vedlegg – Helningskart 
+30 
+ 
+Vedlegg – Skyggekart 
+31 
+ 
+Vedlegg – Registreringskart 
+32 
+ 
+Vedlegg – Modelleringsresultat snøskred 
+34 
+ 
+Tabell – Modelleringsparametere RAMMS Avalanche 
+35 
+ 
+Vedlegg – Modelleringsresultat jord- og flomskred. 
+36 
+ 
+Vedlegg – Modelleringsresultat steinsprang 
+37 
+ 
+Vedlegg - Faresoner 
+38 
+ 
+Vedlegg – Avbøtende tiltak 
+39 
+ 
+ OM OPPDRAGET 
+Oppdragsgiver:  
+Aquaculture Innovation AS 
+ 
+Utførende foretak:  
+Rambøll Norge AS 
+ 
+Skredfareutredning for reguleringsplan 
+Reguleringsplan for etablering av settefiskanlegg på Lauknes i Vevelstad kommune 
+ 
+Følgende tiltak og sikkerhetsklasse(r) er planlagt på eiendommen/planområdet:   
+Settefiskanlegg, sikkerhetsklasse S2 
+ 
+Befaring gjennomført, eventuelt hvorfor ikke:  
+Befaring gjennomført 
+av Gudrun Dreiås Majala og Torgeir Fiskum Hansvik 06.10.2021.¨ 
+ 
+ 
+ 
+Kort beskrivelse av oppdraget: 
+Oppdraget omfatter skredfareutredning etter TEK17 §7-3 og NVEs veileder for utredning av 
+sikkerhet mot skred i bratt terreng for etablering av settefiskanlegg på et avgrenset Vevelstad 
+kommune. Tiltaket faller inn under sikkerhetsklasse S2 i TEK17 §7-3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6/37
+ FORORD 
+ 
+Rambøll har på oppdrag fra Aquaculture Innovation AS vurdert sikkerhet mot skred i bratt terreng 
+for et avgrenset område i Vevelstad kommune. Aktuelt område er innenfor NVEs aktsomhetskart 
+for snøskred og jord- og flomskred. Dette utløser behov for utredning av sikkerhet mot skred i 
+bratt terreng etter TEK17 § 7-3 og NVEs veileder [1]. Vurderingen inkluderer skredtypene snø-, 
+jord-, flom-, sørpe- og steinskred og steinsprang. Fare for kvikkleireskred, fjellskred og flom er 
+ikke vurdert.  
+ 
+Det er et settefiskanlegg som skal etableres nede ved fjorden. Skredfarevurderingen tar 
+utgangspunkt i sikkerhetsklasse S2.  
+ 
+Det er avdekket fare for steinsprang og jord- og flomskred i påvirkningsområdet, men det er jord- 
+og flomskred som vil ha utløp inn i planområdet. Kravet til sikkerhet mot skred i bratt terreng i 
+TEK17 §7-3 er ikke oppfylt. For at kravet til sikkerhet skal være oppfylt anbefales det etablert en 
+ledevoll/sikringsvoll. 
+ 
+ 
+ 
+ 
+ INNLEDNING 
+ 
+Detaljnivå og bruk av skredfarevurdering  
+Aktsomhetskart fra NVE (Norges vassdrag og energidirektorat) viser kun potensielle fareområder. 
+Kartene er generert fra en grov terrenganalyse, der lokale forhold ikke er tatt hensyn til. 
+Sannsynligheten eller gjentaksintervallet for skred er ikke vurdert. I de fleste tilfeller vil en 
+nærmere kartlegging føre til at utstrekningen av aktsomhetsområdene kan reduseres.  
+ 
+Rambøll har vurdert sannsynligheten for skred basert på kartanalyser, feltkartlegging, 
+skredhistorikk og klimadata. Skredfarevurderingen er utført med en detaljeringsgrad og 
+nøyaktighet som tilfredsstiller NVEs retningslinjer og veileder for utredning for regulering og 
+byggesak.  
+ 
+Skredfarevurderingen gjøres uavhengig av avgrensningen på aktsomhetsområdene. Dette for å 
+tilfredsstille retningslinjene. Kartleggingen omfatter snøskred, sørpeskred, steinsprang, 
+steinskred, jordskred og flomskred. For beskrivelse av skredtypene som er vurdert, vises det til 
+NVEs veileder [1]. Vurdering av kvikkleireskred, fjellskred og flom er ikke inkludert i denne 
+vurderingen.  
+ 
+Vurderingen legger til grunn dagens terreng, vegetasjonsforhold og klimadata, og gjelder 
+skredfare fra naturlig bratt terreng.  
+ 
+Ved fastsettelse av faresoner for skred, vil disse gjelde over aktsomhetsområdene. 
+ 
+ 
+Gjeldende regelverk  
+Byggteknisk forskrift TEK 17 og plan- og bygningsloven  
+ 
+ 
+ 
+ 
+ 
+7/37
+Krav til sikkerhet mot skred og flom er gitt i Veiledning om tekniske krav til byggverk (TEK17), 
+som inngår i plan- og bygningsloven. Ved plassering av byggverk i skredfarlige områder er det 
+definert tre sikkerhetsklasser for skred, inndelt etter konsekvens og største nominelle årlige 
+sannsynlighet for skred, se Tabell 1.  
+ 
+I vurderingen av hvilken sikkerhetsklasse byggverket havner i, må det tas hensyn til både 
+konsekvenser for liv og helse, samt økonomiske verdier. I områder som kan utsettes for flere 
+typer skred er det den samlede nominelle årlige sannsynligheten for skred som skal legges til 
+grunn. Nominell sannsynlighet for skred er definert som sannsynlighet for skred per enhetsbredde 
+på 30 meter på tvers av skredretningen, når tomtebredden ikke er fastlagt.  
+ 
+For bestemmelse av sikkerhetsklasse som skal legges til grunn i vurderingen vises det til 
+beskrivende eksempler i TEK 17. Kort oppsummert:  
+ 
+Sikkerhetsklasse S1 – Byggverk der det normalt ikke oppholder seg personer og der det er små 
+økonomiske eller andre samfunnsmessige konsekvenser. Eksempelvis garasje, uthus og båtnaust, 
+mindre brygger og lagerbygning med lite personopphold.  
+ 
+Sikkerhetsklasse S2 - Byggverk der det normalt oppholder seg maksimum 25 personer, eller der 
+det er middels økonomiske eller andre samfunnsmessige konsekvenser. Eksempelvis enebolig, 
+tomannsbolig, eneboliger i kjede/rekkehus/boligblokk/fritidsbolig, arbeids- og publikumsbygg, 
+driftsbygning i landbruk, parkeringshus og havneanlegg.  
+ 
+Sikkerhetsklasse S3 - Byggverk der det normalt oppholder seg mer enn 25 personer, eller der det 
+er store økonomiske eller andre samfunnsmessige konsekvenser. Eksempelvis skole, barnehage, 
+sykehjem og lokal beredskapsinstitusjon.  
+ 
+Kravet til sikkerhet for tilhørende uteareal kan ofte reduseres til et lavere sikkerhetsnivå, 
+avhengig av eksponeringstid.  
+ 
+Tabell 1: Sikkerhetsklasser ved plassering av byggverk i skredfareområde. 
+Sikkerhetsklasse for 
+skred 
+Konsekvens 
+Største nominelle årlige 
+sannsynlighet  
+S1 
+Liten 
+1/100 
+S2 
+Middels 
+1/1000 
+S3 
+Stor 
+1/5000 
+ 
+Aktuell sikkerhetsklasse  
+Fare for skred vurderes basert på krav for sikkerhetsklasse S1 og S2. For sikkerhetsklasse S1 
+tillates det at største nominelle årlige sannsynlighet for skred er 1/100. For sikkerhetsklasse S2 
+tillates det at største nominelle årlige sannsynlighet for skred er 1/1000. 
+ 
+Grunnlagsmateriale 
+ 
+• 
+Berggrunnskart og løsmassekart hentet fra www.ngu.no (NGU, 2021) 
+• 
+Terrengmodell hentet fra www.hoydedata.no (Kartverket, 2021) 
+• 
+Ortofoto hentet fra www.norgeibilder.no  
+• 
+Grunnlagskart hentet fra www.norgeskart.no  
+• 
+Informasjon om skredhendelser hentet fra NVE Atlas (NVE, 2021) 
+• 
+Veileder for sikkerhet mot skred i bratt terreng (NVE, 2020) 
+ 
+ 
+ 
+ 
+ 
+8/37
+ OMRÅDEBESKRIVELSE 
+ 
+Geografi 
+ 
+Kartleggingsområdet og påvirkningsområdet er vist i Figur 1. Kartleggingsområdet er det samme 
+som planområdet i reguleringsplanen og det blir referert til kartleggingsområdet i resten av 
+skredvurderingen. Vevelstad er en kommune på Helgeland i Nordland. Den grenser i nord mot 
+Alstahaug, i øst mot Vefsn, i sør mot Brønnøy, og i vest over havet mot Vega.  
+ 
+Kartleggingsområdet ligger ved vestsiden av Rv17, fra Steinmo bobilparkering og ca. 2km 
+nordover (Figur 2). 
+ 
+ 
+Figur 1: Oversikt over kartleggingsområdet og påvirkningsområdet og utsnitt av oversiktskart. 
+ 
+ 
+Topografi 
+ 
+Figur 2 viser flyfoto av området som er vurdert. Helningskart for terrenget er vist i Figur 3, og 
+skyggerelieffkart er vist i Figur 4. Generelt ligger planområdet innenfor ca. 0-12 m.o.h, og 
+tilnærmet flatt. På oversiden av vegen i kartlagt området er det fjell og brattere helning.  
+ 
+ 
+ 
+ 
+ 
+9/37
+ 
+Figur 2: Oversiktsbilde, sort linje viser kartleggingsområdet. 
+Helningskartet, Figur 3, (Vedlegg – Helningskart) viser helningen i påvirkningsområdet. Øst for 
+Rv17 går terrenget oppover, først slakt (<27°) ca. 300-700 meter før de så blir konstant bratt 
+(>27°) opp til Liåvatnet (655 moh.) og omkringliggende topper. Det er flere elve- og bekkeløp 
+som går fra Liåvatnet, samt depresjoner i terrenget i kartlagt område.  
+ 
+ff lø 1000 pri
+
+Tegnforklaring ol
+Skraningskart
+
+‘ae , NON hi
+45-60
+
+Ha 27-30
+
+NNN «0-90 si
+Plangrense/Kartleggingsområde
+
+— Plangrense/Kartleggingsområde a
+
+30-45
+FTTTTTTT|
+
+0 250500 1 000 Meter Å | Pm yp if
+
+Figur 3: Helningskart.
+
+10/37
+Tegnforklaring
+Plangrense/Kartleggingsområde
+
+Plangrense/Kartleggingsområde
+
+N
+
+FT TT IT TT] Å
+0 250 500 1 000 Meter
+
+' i | |
+- Kartverket, Geove!
+—
+
+i
+kst, komm
+
+| |
+uner og OSM - Geodata AS
+ee
+
+1
+
+un }
+
+~~
+
+Figur 4: Skyggerelieffkart.
+
+11/37
+ 
+ 
+ 
+ 
+ 
+12/37
+ 
+Løsmasser og berggrunn 
+ 
+Løsmassekart vises under i Figur 5. Løsmassene består av Hav- og fjordavsetning og 
+strandavsetning, usammenhengende eller tynt dekke over berggrunnen (lyseblått) i 
+kartleggingsområdet. Videre oppover skråningen ligger det humusdekke/tynt torvdekke over 
+berggrunn (beige), bart fjell (rosa), forvitringsmateriale (lilla), steinsprangavsetning (rød), tynn 
+morene (lys grønn) og randmorene (mørk grønn). Stiplet linje viser strandlinje i fjell.  
+ 
+ 
+Figur 5: Løsmassekart fra NGU. 
+Berggrunnen i kartleggingsområdet består av kalksilikatbergarter (gul i Figur 6) og dioritter 
+(Granodioritt vist som rød og dioritt vist som rosa i Figur 6). Kommersielt kalles Granodioritten 
+Vevelstadgranitt og brukes som naturstein. Granodioritten tilhører Andalshattgranitten som 
+strekker seg fra Vistnes til Andalsvågen i Vevelstad kommune. Berggrunnen er preget av 
+strøkretning sørvest-nordøst (NGU, 2021).  
+ 
+ 
+ 
+ 
+ 
+13/37
+ 
+Figur 6: Berggrunnskart fra NGU. 
+ 
+Det går definerte vannveger ned til kartleggingsområdet, de er vist over i Figur 7. Den største er 
+Liåa, som renner fra Liåvatnet (657 moh.) Det går også mindre bekker ned til 
+kartleggingsområdet og det er flere stikkrenner under vegen. Nedbørsfeltet går opp til 
+knekkpunktene rundt Liåvatnet, og er estimert til ca. 2,2 km2. 
+ 
+ 
+ 
+ 
+ 
+ 
+14/37
+ 
+Vann og nedbørsfelt 
+ 
+Figur 7: Vannveger i kartleggingsområdet og påvirkningsområdet. 
+ 
+Vegetasjon 
+Skogen består hovedsakelig av løvskog opptil tregrensen på ca. 450 moh. Det finnes noen små 
+felt med gran og furu. Siden dominerende tresort er løvskog har ikke det noen særlig effekt på 
+skred i dette påvirkningsområdet.  
+ 
+Klimatologiske data 
+Det er utført en klimaanalyse for grid UTM33N 379859 7279682, 309 moh, i programvaren R 
+(Ragulina & Reitan, 2017). Resultatene er vist under i Figur 8. Årsnedbøren er estimert til 
+1652mm. Det kommer mest nedbør fra september-januar og temperaturen gjør at nedbøren 
+kommer som snø i vintermånedene. Maks snødybde er 216,5 cm, gjennomsnittlig snødybde er 
+82cm. Analyse for returverdier på 1 og 3 døgns nedbør viser at det kan komme ca. 100mm 
+nedbør på ett døgn og ca. 200mm på tre døgn. Dette utgjør henholdsvis 1m og 2m i snø, det gjør 
+at snøskred, jord- og flomskred og snøskred kan utløses ved ekstreme nedbørshendelser.  
+ 
+Det er også hentet data fra nærmeste vindmåler, dette er Brønnøysund lufthavn. Vindrose er vist 
+på Figur 9. Dominerende vindretning er fra Nord, men lokal topografi påvirker vindretning. Det er 
+rimelig å anta at dominerende vindretning er fra Nord i kartleggings og påvirkningsområdet også, 
+men at i vintermånedene vil også katabatisk vind fra skråningen føre til vind fra Øst. På 
+Helgelandskysten er det generelt mye vind fra Nord og Nord-Vest.  
+ 
+ 
+ 
+ 
+ 
+15/37
+ 
+Figur 8 Klimaanalyse for kartleggingsområdet, utført i R, basert på (Ragulina & Reitan, 2017). 
+ 
+ 
+ 
+ 
+ 
+16/37
+ 
+Figur 9 Vindrose fra Brønnøysund Lufthavn. Vinddata er samlet for årene 2006-2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17/37
+ 
+Aktsomhetskart  
+ 
+Aktsomhetskart er hentet ut fra NVE Atlas (NVE, 2021), dette viser at det planlagte området for 
+etablering av settefiskanlegg ligger innenfor aktsomhetsområde for snøskred og jord- og 
+flomskred, Figur 10. Basert på dette er det derfor behov for detaljert skredfarekartlegging og 
+vurdering av det aktuelle området. 
+ 
+ 
+Figur 10: Aktsomhetsområder i kartleggingsområdet og påvirkningsområdet. 
+ 
+ 
+Tidligere utredninger/kartlegginger i området 
+Rambøll AS er ikke kjent med at det er gjort tidligere utredninger eller skredfarekartlegginger i 
+området tidligere. 
+ 
+ 
+Skredhistorikk og lokalkunnskap 
+Det ligger ikke inne noen registrerte skredhendelser i NVE Atlas. På befaringsdagen 06.10.21 
+møtte vi en kjentmann som kunne fortelle om tidligere skredhendelse. Relevante historiske 
+skredhendelser er derfor beskrevet i vurderingskapitlet for snøskred og jord- og flomskred.  
+ 
+ Eksisterende sikringstiltak 
+Det er ingen kjente sikringstiltak mot skred i området. Det er grøfter og stikkrenner under Rv17 
+som samler opp vann og overskuddsmasser, disse kan ikke kategoriseres som sikringstiltak. 
+ 
+ 
+ 
+ 
+ 
+ 
+18/37
+ SKREDFAREKARTLEGGING OG SKREDFAREUTREDNING 
+PER SKREDTYPE 
+ 
+Feltkartlegging og registreringskart 
+Rambøll har vært på befaring i aktuelt område den 06.10.2021 og blitt befart av Torgeir Fiskum 
+Hansvik og Gudrun Dreiås Majala. Området ble kartlagt til fots i, og omkring det vurderte 
+området. Det ble også benyttet drone til dokumentasjon og for å gi oversikt av fjellsiden. Det var 
++12 grader og overskyet, men oppholdsvær, på befaringsdagen. 
+ 
+Befaringen hadde som hensikt å kartlegge sannsynlige løsneområder for skred, bergblotninger, 
+løsmasser, sannsynlig størrelse på eventuelle fremtidige skredhendelser, sannsynlige 
+utløpsområder og tegn til pågående erosjon. 
+ 
+Registreringer fra utført skredfarekartlegging er lagt ved i Vedlegg – Registreringskart. 
+ 
+ 
+Steinsprang 
+Ifølge NVEs veileder for skredfare i bratt terreng (2020), brukes begrepet steinsprang om 
+hendelser der én eller et fåtall steinblokker løsner og faller, spretter, ruller eller sklir nedover en 
+skråning. Steinsprang har normalt et relativt lite volum, inntil noen hundre kubikkmeter. 
+Steinblokkene beveger seg nedover stort sett uavhengig av hverandre, og vil tape energi når de 
+slår ned i bakken og spretter, eventuelt knuses. I bratte fjellsider følger de terrenghelningen, men 
+når terrenget blir slakere, kan blokkene bøye av og gå ut til sidene for fallretningen. Løse 
+enkeltblokker som ligger i bratt terreng kan utgjøre en fare ved at de løsner igjen senere, såkalt 
+remobilisering. I prinsippet kan alle blokker remobiliseres. Det gjelder særlig blokker som ligger 
+fritt i hellende terreng, eller som ikke er låst i en ur. Skog kan virke både drivende og bremsende 
+på steinsprang. I løsneområder for steinsprang er trær i stor grad drivende på grunn av 
+rotsprengning og rotvelt. I en steinsprangbane vil trær virke som en barriere, siden blokker 
+mister energi når de treffer trestammer. Steinsprang kan forekomme gjennom hele året, men 
+ofte ser vi en økt hyppighet om våren og høsten. Dette har bakgrunn i fryse/tine-prosesser, 
+rotsprengning eller store nedbørsmengder som fører til høyt vanntrykk i sprekkene i fjellet. 
+ 
+Flogstein, eller steinsprut, oppstår typisk når en steinblokk faller ned fra en stor høyde og knuses 
+mot en hard bergflate (sva) i foten av fjellsiden. Helningen ved foten av fjellsiden er normalt 
+vesentlig slakere enn fjellsiden ellers (rundt 30°). Mindre steinfragmenter slynges da ut i stor 
+hastighet og i stor høyde. Dette gir en ideell utslagsvinkel, og flogstein følger gjerne en uvanlig 
+høy bane med resulterende langt utløp – nærmest som et prosjektil som skytes ut. Det er 
+observert tilfeller hvor større blokker (inntil ca. 0,1 m3) har gått betydelig lenger ut enn øvrige 
+skredmasser. Flogstein er likevel som oftest små, typisk mellom 0,001 og 0,01 m3, men 
+erfaringer viser at flogstein kan ha landingshastighet på mellom 70 og 80 m/s og kan følgelig slå 
+ned med betydelig kraft. Det betyr at flogstein kan gjøre mye skade, selv om fragmentet er små. 
+(NVE, 2020). 
+7.2.1 
+Er steinsprang aktuell prosess i påvirkningsområdet? 
+I påvirkningsområdet er skråningsgradienten > 45°. Steinsprang er derfor en aktuell prosess i 
+påvirkningsområdet. Se Vedlegg – Helningskart. Figur 11 viser løsneområde for steinsprang og 
+avsetninger etter steinsprang. Disse er i kombinasjon med steile fjellsider og små klipper. Større 
+avsetninger etter fjellskred er veldig gamle og er tolket som resultat av istidssmelting.  
+ 
+ 
+ 
+ 
+ 
+ 
+19/37
+7.2.2 
+Utredning av løsneområde og løsnesannsynlighet 
+Det er observert «ferske» steinsprang fra Hanslikammen (605moh.), se fotovedlegg objectid 65 
+og Figur 11. Dette utgjør det sørlige påvirkningsområdet. Under Hanslikammen ligger det 
+steinsprangavsetninger. Steinsprangavsetningene er fri for vegetasjon og framstår som aktive. 
+Sannsynligvis går det steinsprang fra denne skråningen hvert 1-5. år. Videre nordover er det 
+mindre klipper og fjellskredavsetninger i form av 25-100m3 blokker. Disse fremstår som stabile, 
+og ikke tilførsel av nye blokker i denne størrelsesordenen.  
+ 
+Figur 11: Oversikt over løsneområder steinsprang, steinsprangavsetninger og fjellskredavsetninger. Dronefoto 
+tatt mot øst.  
+7.2.3 
+Utredning av utløp 
+Aktuelle løsneområder for steinsprang ligger fra 1-2km fra kartleggingsområdet de nærmeste 500 
+meter til kartleggingsområdet er 0-27°. Det er utført modellering med RAMMS for å belyse 
+aktuelle skredbaner for steinsprang, resultater er vist i Vedlegg – Modelleringsresultat 
+steinsprang. Det er benyttet blokker med tetthet 2700kg/m3 på 2m3, det er modellert uten 
+skogens effekt og overflatefriksjonen er satt til medium. Dette tilsvarer bergarten i området og 
+typiske observerte blokkstørrelser. Modellering viser at de skredbaner som går lengst stopper ca. 
+250 meter fra kartleggingsområdet.  
+7.2.4 
+Når steinsprang inn i kartleggingsområdet? 
+Det vurderes at steinsprang ikke når inn i kartleggingsområdet, se modellering gitt i vedlegg-
+Steinsprangmodellering.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20/37
+ 
+Steinskred 
+Et steinskred er en massebevegelse der et større bergparti beveger seg ned en skråning. 
+Partiklene i skredet interagerer og splittes ofte i mindre deler nedover i skredbanen. Energien i et 
+steinskred vil tapes på grunn av indre friksjon, altså støt mellom blokkene i skredet, og ved 
+kontakten med underlaget. 
+ 
+Det antas at utløpet er økende med økende volum, men dette er også avhengig av de lokale 
+topografiske forholdene, bruddmekanismen og om skredet er samlet (kanalisert) eller blir spredd. 
+I en del tilfeller kan steinskred dra med seg løsmassene i en fjellside og til forveksling få 
+utløpslengder som et fjellskred. En steinskredavsetning er vanligvis tungeformet bestående av 
+steinmateriale delvis sortert med de største blokkene i foten av skråningen. (NVE, 2020). 
+ 
+7.3.1 
+Er steinskred aktuell prosess i påvirkningsområdet? 
+Det er ikke oppdaget større avløste partier som vurderes som ustabile. Dette kan likevel ikke 
+utelukkes. Aktuelle løsneområder for steinskred ligger fra 1-2km fra kartleggingsområdet de 
+nærmeste 500 meter til kartleggingsområdet er 0-27° og det vurderes at steinskred stopper før 
+de når kartleggingsområdet. Størrelsen på utfall av stein i området er på størrelse med at de går 
+innunder kategorien steinsprang. Urene i området er veldig gamle og er definert som følge av 
+issmelting etter istid. Steinskred utredes ikke videre.  
+ 
+Snøskred 
+Ifølge NVEs veileder (2020) defineres et snøskred som snø i rask bevegelse nedover en fjellside 
+eller en skråning. Snøskred deles gjerne inn i to hovedtyper, basert på hvordan de utløses; 
+løssnøskred og flakskred. I tillegg har vi snøskredproblematikk relatert til skavlbrudd og 
+skredvind.  
+ 
+Skog kan ha en forbyggende effekt på utløsning av snøskred. Effekten avhenger av treslag, og 
+øker med økt stammetykkelse og kronedekning. Tilstedeværelse av trær hjelper også for å 
+forhindre lagdeling av snø, som kan gi flakdannelse. Dette gjøres ved «mellomlagring» av snø i 
+trærne og redusert vind mot snødekket. 
+ 
+Meteorologiske data gir grunnlag for snømengden i utløsningsområdet og videre høyden på 
+bruddkanten. Dette gir også indikasjoner på snømengden i skredbanen som kan rives med og tas 
+opp av skredet. Formen på terrenget spiller en viktig rolle for hvor mye snø som kan samles, en 
+skålformasjon vil samle mer snø enn en ryggformasjon. Store flate arealer i tilgrensning til 
+utløsningsområdet gjør at vinden får tilgang på snø som kan avsettes i utløsningsområdet. 
+ 
+7.4.1 
+Er snøskred aktuell prosess i påvirkningsområdet? 
+Alle fjellsider og skrenter brattere enn 25 grader er regnet for å gi fare for snøskred – så fremt 
+snømengden i året kan overstige 0,2 meter, og det ikke er tilstrekkelig skogdekning i området 
+(NVE, 2020). 
+ 
+Det er skråninger >30° i påvirkningsområdet og gjennomsnittlig årlig maks snødybde er 
+82.55cm). Snøskred er derfor en aktuell prosess i påvirkningsområdet.  
+7.4.2 
+Utredning av løsneområde og løsnesannsynlighet 
+I påvirkningsområdet er flere sammenhengende partier mellom 30-55°. Det er tatt utgangspunkt 
+i disse områdene i modellering av snøskred. Det er ikke registrert snøskred i påvirkningsområdet 
+eller på Rv17 ved kartleggingsområdet. I intervju med lokalkjente er det heller ikke rapportert om 
+ 
+ 
+ 
+ 
+ 
+21/37
+at påvirkningsområdet er kjent for snøskredproblematikk. Nærmeste kjente snøskredhendelse er i 
+fjellene i Kvannlia nær Vevelstad gård, 13km nord for kartleggingsområdet. Der ble en mann tatt 
+av snøskred og omkom i 1952. Mannen ble funnet under 3 meter snø og skredet skal ha vært 
+150m bredt. Skråningen skredet gikk i er nordvendt og terrenget utgjør en botn som kan 
+karakteriseres som en terrengfelle.  
+ 
+Klimaanalysen viser at man kan få over en meter 3-døgns nysnøtilvekst med returperiode på 
+1000 år. Ser man på returverdier for nedbør kan man få 2m snø på tre dager med en 
+returperiode på 1000 år. Det er benyttet en bruddkant på 2m i modelleringen. 
+ 
+7.4.3 
+Utredning av utløp 
+Faktorene som har størst betydning for snømengde i utløsningsområdet og høyden på bruddkant 
+er nedbør, vindforhold og terrengformasjon. I denne skredfarevurderingen er det kjørt 
+snøskredmodellering med RAMMS Avalanche. Resultatene er vist i vedlegg 9.5. 
+ 
+Det ble kjørt modellering med 2m bruddkant.  
+ 
+De modellerte snømassene stopper på det nærmeste ca. 150 meter øst for kartleggingsområdet. 
+Ut fra typiske snøforhold i området er dette å anse som konservative skredscenarier.  
+ 
+7.4.4 
+Når snøskred inn i kartleggingsområdet? 
+Det vurderes at snøskred ikke når inn i kartleggingsområdet.  
+ 
+ 
+Sørpeskred 
+Sørpeskred er hurtige, flomlignende skred av vannmettet snø med varierende innhold av 
+sediment. De blir utløst når vann tilføres snødekket raskere enn det kan dreneres, slik at vann 
+samles i snødekket. Dette fører til at bindingene mellom snøkrystallene svekkes og brytes ned, 
+slik at det faste snødekket endrer form og oppfører seg som en væske. (NVE, 2020). 
+7.5.1 
+Er sørpeskred aktuell prosess i påvirkningsområdet? 
+Det er ikke observert sørpeskred i området, det finnes bekker som kan mette snø med vann å 
+forårsake sørpeskred. Sørpeskred kan derfor være en aktuell prosess i påvirkningsområdet.  
+7.5.2 
+Utredning av løsneområde og løsnesannsynlighet 
+Fra Liåvatnet renner det en bekk til kartleggingsområdet (Figur 12). Noe av vannet drenerer 
+under urmaterialer. Karakteristisk for løsneområder for sørpeskred er at snøen vannmettes på 
+oppsiden av en terskel/knekkpunkt. Dette er teoretisk mulig ved 400 moh. der skråningen er noe 
+slakere før den blir brattere ned et gjel. Videre nedover bekkeløpet svinger bekken rundt større 
+blokker og den karakteristiske strukturgeologien. Hvis et sørpeskred løsner i dette bekkeløpet vil 
+sannsynligvis topografien i utløpsområdet kilometeren før kartleggingsområdet være med å 
+ 
+ 
+ 
+ 
+ 
+22/37
+bremse sørpeskredet slik at det ikke gjør skade over veien. Siden det ikke er observert 
+sørpeskred her før er en sørpeskredhendelse mindre sannsynlig.  
+ 
+ 
+Figur 12: Bekken fra Liåvatnet ser man midt i bildet. 
+7.5.3 
+Utredning av utløp 
+Videre nedover bekkeløpet svinger bekken rundt større blokker og i berg i dagen. Den 
+karakteristiske strukturgeologien fører til mange knekkpunkter i bekken. Hvis et sørpeskred 
+løsner i dette bekkeløpet vil sannsynligvis topografien i utløpsområdet kilometeren før 
+kartleggingsområdet være med å bremse sørpeskredet slik at det ikke gjør skade over veien. 
+7.5.4 
+Når sørpeskred inn i kartleggingsområdet? 
+Det vurderes at sørpeskred ikke når inn i kartleggingsområdet. 
+ 
+ 
+ 
+ 
+ 
+23/37
+ 
+Jord- og flomskred 
+Jordskred er utglidinger i vannmettede løsmasser i bratte skråninger, vanligvis brattere en 25-30° 
+(NVE, 2020). Skredene kan utløses og kanaliseres i bekkeløp og forsenkninger, eller opptre som 
+såkalte grunne skred. Grunne skred utløses i finkornet jord og leire, og skjer ofte på dyrket mark 
+eller i naturlig terrasseformede skråninger, gjerne om våren når løsmasser kan gli på tele-
+overflaten.  
+ 
+Forskning viser at skråninger i nedbørsrike områder er mer stabile under kraftigere 
+nedbørintensiteter enn skråninger i områder der det normalt er tørt klima (Sandersen, Bakkehøi, 
+Hestnes, & Lied, 1996) På generelt grunnlag sies det at det er rimelig å forvente at faren for 
+utløsing av jordskred er stor dersom 1-døgns nedbørsmengde utgjør ca. 8% av normal årsnedbør. 
+ 
+Flomskred er hurtige, vannrike og flomlignende skred som opptrer langs klart definerte elve- og 
+bekkeløp. Flomskred kan også inntreffe der det vanligvis ikke er permanent vannføring, men i en 
+depresjon hvor vann samler seg ved f.eks store nedbørsmengder eller i snøsmelting. 
+Vannmassene kan rive løs og transportere store mengder løsmasser, større steinblokker, trær og 
+annen vegetasjon i og langs løpet. (NVE, 2020). 
+ 
+For at et flomskred skal kunne forekomme trenger man en forsenkning eller bekkeløp som er 
+brattere enn 15°. For at fare for flomskred skal utredes må det også være mulighet for løsmasser 
+i disse forsenkningene eller bekkeløpene, eller løsmasser kan bli tilgjengelig som følge av for 
+eksempel erosjon eller andre skredprosesser. 
+ 
+Skog og vegetasjon vil ha en stabiliserende effekt på løsmassedekket ved å binde materialer og 
+fjerne vann fra systemet. 
+ 
+Overgangen mellom jord-, flom- og sørpeskred er flytende, og ved utløsning av jord- og 
+sørpeskred i et bekkeløp kan disse gå over til flomskredliknende masser dersom det er stor 
+tilførsel av vann. Dette kan også dermed være en sekundæreffekt av at et skred inntreffer og 
+remobiliserer eller tar med seg masser. Skredet som inntraff i 1977 anses som å være en 
+kombinasjon av flere typer skred.  
+ 
+7.6.1 
+Er jord- og flomskred aktuell prosess i påvirkningsområdet? 
+Jord- og flomskred er en aktuell prosess i området, i påvirkningsområdet finnes det skråninger > 
+20° med løsmasser.  
+7.6.2 
+Utredning av løsneområde og løsnesannsynlighet 
+Løsmassedekket er relativt tynt opp til ca. 200 moh. Videre oppover til ca. 700 moh. varierer 
+løsmassedekket mellom morenemateriale, forvitringsmateriale og bart fjell. Stedvis er det 
+mektige masser, særlig fra registreringspunkt 100 (9.4) og opp mot Liåvatnet. Massene består av 
+forvitringsmateriale og randmorene. Over disse massene ligger det blokker som tolkes å komme 
+fra skredprosesser eller morenemateriale. De kan ha blitt vasket ut fra morenemassene. Noen av 
+blokkene ligger bratt med fine masser rundt seg som støtter opp.  
+ 
+ 
+ 
+ 
+ 
+24/37
+ 
+Figur 13: Eksempel på blokk som kan remobiliseres (befaringspunkt 112). 
+Det er tydelige spor i løsmassene etter en skredhendelse, denne er datert til juni 1977 av 
+kjentmann påtruffet under befaring, se registreringspunkt 101-113 i fotovedlegg og Figur 14. 
+ 
+ 
+ 
+ 
+ 
+25/37
+ 
+Figur 14: Utløsningsmekanisme skredhendelse 1977. 
+Tolket utløsningsmekanisme av hendelsen vist på Figur 14 er et steinsprangindusert jordskred; at 
+en blokk først løsnet for så å dra med seg vannmettede løsmasser. Rambøll har fått opplyst fra 
+kjentmann at massene fra denne skredhendelsen krysset vegen. Man ser sporene fra 
+skredhendelsen tydelig på Figur 14, lengre ned i skråningen er det ikke tydelige spor etter 
+skredhendelsen, her er det mer vegetasjon. Det er observert enkelte blokker på vestsiden av 
+vegen, opprinnelsen til blokkene er usikker; de kan komme fra skredhendelsen i 1977. Det er 
+også mulig at de er gamle moreneavsetninger eller skredavsetninger fra fjellskred etter istiden, 
+da det er spor av det lengre opp i skråningen. Sannsynligheten for en slik hendelse er vanskelig å 
+beregne, det er fortsatt tilgjengelige løsmasser i løsneområdet og det er fortsatt blokker som kan 
+trigge jordskred over løsmasseavsetningene.  
+ 
+7.6.3 
+Utredning av utløp 
+Modellering av et kombinert skred er komplisert. Det er brukt programvaren RAMMS Debris flow 
+for å forsøke å gjenskape et representativt skred. Skredhendelsen fra 1977 ble brukt som 
+ 
+ 
+ 
+ 
+ 
+26/37
+utgangspunkt, det ble testet med tilsvarende volum og friksjonsparametere. Massene stoppet ca. 
+500 fra kartleggingsområdet. Det ble videre testet med større volum for å tvinge massene til å nå 
+kartleggingsområdet, for å identifisere problemområder, og forsenkninger i terrenget. Resultatet 
+er vist under i Figur 15. Her ser vi at massene følger eksisterende vannveger (se de grønne 
+forgreiningene).  
+ 
+ 
+Figur 15: Modelleringsresultater RAMMS Debris Flow. 
+7.6.4 
+Når jord- og flomskred inn i kartleggingsområdet? 
+Det vurderes at faren for at jord- og flomskred kan nå innenfor vurderingsområdet med en 
+nominell årlig sannsynlighet 1/1000. Skredmasser vurderes å følge eksisterende vannveger. 
+Området har dermed ikke tilfredsstillende sikkerhet mot jord- og flomskred i henhold til krav for 
+sikkerhetsklasse S2 gitt i TEK 17.  
+ 
+ 
+Hva er den samlede skredfaren? 
+Den dimensjonerende skredfaren for kartleggingsområdet er jord- og flomskred, lik hendelsen i 
+1977 (beskrevet i 7.6.2). Samlet skredfare er vist i faresonekart i Vedlegg - Faresoner.  
+ 
+ 
+Avbøtende tiltak 
+Avbøtende tiltak mot jord- og flomskred kan være å etablere en ledevoll. Omtrentlig plassering er 
+vist under på Figur 16. Andre tiltak er grøfting av østsiden til vei, sammen med voll. Det 
+anbefales at man går videre med et forprosjekt på prosjektering av skredsikring for 
+kartleggingsområdet.  
+ 
+ 
+ 
+ 
+ 
+27/37
+ 
+Figur 16: Skisse for avbøtende tiltak. 
+ 
+ 
+ REFERANSER 
+Kartverket. (2021, 12). www.hoydedata.no. 
+NGU. (2021). NGU Kartdata. Hentet fra NGU Kartdata: https://www.ngu.no/emne/kart-pa-nett 
+NVE. (2020). Veileder - Sikkerhet mot skred i bratt terreng. NVE. 
+NVE. (2020, 12). VEILEDER FOR UTREDNING AV SIKKERHET MOT SKRED I BRATT TERRENG. 
+Hentet fra https://www.nve.no/veileder-skredfareutredning-bratt-terreng 
+NVE. (2021). NVE Atlas. Hentet fra NVE Atlas: https://atlas.nve.no/ 
+NVE, S. M. (2021). Varsom Regobs. 
+Ragulina, G., & Reitan, T. (2017). Generalized extreme value shape parameter and its nature for 
+extreme precipitation using long time series and the Bayesian approach. Hydrological 
+Sciences Journal. 
+Sandersen, F., Bakkehøi, S., Hestnes, E., & Lied, K. (1996). The influence of meteorological 
+factors on the initiation of debris flows, rockfalls, rockslides and rockmass stability. NGI. 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28/37
+ VEDLEGG 
+ 
+Vedlegg - Bilder 
+Her presenteres et utvalg av dronebilder som er relevant for oppdraget. Se også vedlegg for 
+feltregistreringer for bilder fra registreringspunkt.  
+ 
+Figur 17: Dronebilde tatt mot vest, mot kartleggingsområdet, som ligger mellom veg og sjø.  
+ 
+Figur 18: Dronebilde tatt mot øst. 
+Figur 19: Dronebilde tatt mot nord.
+
+29/37
+ 
+ 
+ 
+ 
+ 
+30/37
+ 
+Vedlegg – Helningskart 
+ 
+Figur 20: Helningskart. 
+ 
+ 
+ 
+ 
+ 
+31/37
+ 
+Vedlegg – Skyggekart 
+ 
+Figur 21: Skyggekart. 
+ 
+ 
+ 
+ 
+ 
+32/37
+ 
+Vedlegg – Registreringskart 
+ 
+Figur 22: Registreringskart 1/2. 
+120 119
+*
+99 100
+Se 101 \
+102
+<
+
+ut 104 05
+106 ]
+
+Hansli-
+
+——en
+
+Tegnforklaring
+
+Registreringer @ vam
+
+(1) Geologisk interessepunkt Spor Vevelstad
+
+Y Ustabilt berg eller blokk Vevelstad Dronebilder
+
+* Fotografier Plangrense/Kartleggingsområde
+
+FTTTTTTT |
+0 125 250 500 Meter Å
+
+BOWL 17
+
+114
+
+16.406
+
+Kartverket, Geovekst, kommuner og OSM - Geodata AS
+
+Figur 23: Registreringskart 2/2.
+
+33/37
+ 
+ 
+ 
+ 
+ 
+34/37
+ 
+Vedlegg – Modelleringsresultat snøskred 
+ 
+Figur 24: Modelleringsresultat RAMMS avalanche. 
+ 
+ 
+ 
+ 
+ 
+35/37
+ 
+Tabell – Modelleringsparametere RAMMS Avalanche 
+Altitude_limit_1: 1000 m a.s.l 
+Altitude_limit_2: 500 m a.s.l 
+Format of following parameters: [  < 500 ] - [ 500 - 1000 ] - [ > 1000 ] 
+  
+Open slope parameters: 
+Mu: 0.190 - 0.170 - 0.155 
+Xi: 2000 - 2500 - 3000 
+Channelled parameters: 
+Mu: 0.240 - 0.220 - 0.210 
+Xi: 1500 - 1750 - 2000 
+Gully parameters: 
+Mu: 0.300 - 0.285 - 0.270 
+Xi: 1200 - 1350 - 1500 
+Flat parameters: 
+Mu: 0.170 - 0.150 - 0.140 
+Xi: 3000 - 3500 - 4000 
+Forest parameters: 
+Mu (delta): 0.020 - 0.020 - 0.020 
+Xi: 400 - 400 - 400 
+  
+RETURN PERIOD (y): 300 
+VOLUME category: Large 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36/37
+ 
+Vedlegg – Modelleringsresultat jord- og flomskred.  
+ 
+Figur 25: Modelleringsresultat RAMMS jord- og flomskred. 
+ 
+ 
+ 
+ 
+ 
+37/37
+ 
+Vedlegg – Modelleringsresultat steinsprang 
+ 
+Figur 26: Modelleringsresultat RAMMS steinsprang. 
+ 
+ 
+ 
+ 
+ 
+38/37
+ 
+Vedlegg - Faresoner 
+ 
+Figur 27: Faresonekart. 
+ 
+ 
+ 
+ 
+ 
+39/37
+ Vedlegg – Avbøtende tiltak 
+ 
+Figur 28: Omtrentlig plassering på avbøtende tiltak.

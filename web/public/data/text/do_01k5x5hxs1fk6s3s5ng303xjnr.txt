@@ -1,0 +1,479 @@
+﻿STIM Miljø Rapport 07-2022                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modelleringer ved Mørviksbotn 2021 
+Sørfold kommune, 2021 
+P.nr: 1762 Nordlaks Smolt as
+Sammendragsside v7. Endret 11.05.20
+STIM Miljø Bergen
+Tittel: Modellering ved Mørviksbotn 2021
+Forfatter(e): Per-Otto Johansen Rapport nr.: 07/2022
+Prosjektleder: Morten Stokkan Dato rapport: 21.01.2022
+
+Oppdragsgiver: Nordlaks Smolt AS
+
+Antall sider inkl. vedlegg: 11
+
+21.01.2022
+
+Konfidensiell: NEI Prosjektnummer: 1762
+
+Aktiviteter utført av STIM Miljø Bergen
+Aktivitet Akkrediterings-nummer Personell
+Modellering Ikke akkreditert Per-Otto Johansen
+Prosjektansvarlig Dato Signatur
+
+1»
+if GW
+
+STIM Miljø Bergen
+Thormøhlens gt. 55
+5006 Bergen, Norway
+
+E-post: miljo.bergen@stim.no
+
+Internett: www.stim.no/tjenester/miljotjenester
+
+Organisasjonsnr. NO 964 873 755 MVA
+
+Rapporten kan kun gjengis i sin helhet.
+
+Gjengivelse av deler av rapporten kan kun skje etter skriftlig tillatelse fra STIM AS
+
+s. 1/11
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 2/11 
+ 
+Innhold 
+Innhold ...................................................................................................................................1 
+1. Innledning ........................................................................................................................3 
+1.1. 
+Lokalitetsbeskrivelse ........................................................................................................................ 3 
+2. Material og metode .........................................................................................................4 
+2.1. 
+Feltundersøkelse .............................................................................................................................. 4 
+2.1.1. 
+Strømmåling ................................................................................................................................ 4 
+2.1.2. 
+CTD-målinger ............................................................................................................................... 5 
+2.2. 
+Spredningsmodell ............................................................................................................................ 5 
+3. Resultater og diskusjon ....................................................................................................6 
+3.1. 
+Saltholdighet og temperatur i sjøen.................................................................................................. 6 
+3.2. 
+Spredning av utslipp ......................................................................................................................... 6 
+3.3. 
+Fortynning av utslipp ........................................................................................................................ 9 
+3.4. 
+Effekten av flere åpninger i utslippsledningen ................................................................................ 10 
+3.5. 
+Konklusjoner .................................................................................................................................. 11 
+4. Litteratur ........................................................................................................................11 
+ 
+ 
+ 
+ 
+ 
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 3/11 
+ 
+1. 
+INNLEDNING 
+STIM Miljø har på oppdrag fra Nordlaks Smolt utført en marine undersøkelse av utslippspunkt i Mørsvikbotn. 
+Denne rapporten presenterer resultatene fra simuleringer av innblandingssonen ved utslippene i vannsøylen 
+basert på informasjon om utslipp og hydrografiske forhold i nærheten av utslippspunktene. Datagrunnlaget for 
+simuleringene er basert på 5235 intervall-målinger av strømretninger og strømhastigheter utført i tidsrommet 
+19. april – 26. mai 2021. Temperatur og saltholdighet i hele vannsøylen ble målt med CTD ved opptak og utsett 
+av strømmåleren. Formålet med simuleringene var å kunne se om hvordan utslippet vil spres og fortynnes i 
+området. 
+ 
+ 
+Figur 1. Oversiktskart over fjordsystemet inn mot Mørsvikbotn. Firkanten viser området ved utslippet. Kartkilde: Yggdrasil, 
+Fiskeridirektoratet. 
+1.1. Lokalitetsbeskrivelse 
+Fra settefiskanlegget går det tre parallelle utslippsrør i sør-nord retning fra settefiskanlegget (Figur 2). Hver av 
+ledningene har i tillegg til endeåpningen to åpninger i avstand 25 og 50 meter fra endene. Mellom endene på 
+hvert av de tre rørene er avstandene 100 meter. Det nordligste utslippspunktet (St.1) har koordinater: 
+67°42,001 N, 15°50,454 Ø. Strømmåleren var plassert i punktet St.2. Det nordøstlige og ytterste 
+utslippspunktet (St.1) ligger på omlag 40 meters dyp.  Den indre delen, Mørsvikbotn har et lite fjordbasseng 
+med dybde på ca. 150 meter (Figur 2). Den ytre delen av Mørsvikfjorden er relativt dyp (over 500 m dyp) og har 
+relativt dype terskler (over 200 m) og fjordmunningen ender i vest mot Folda. 
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 4/11 
+ 
+ 
+Figur 2. Oversiktsbilde over Mørsvikbotn inntegnet med inntak- og utslippspunktene. Strømmåleren var 
+plassert i punktet St.2. Lilla pil viser nordlig retning. Kartkilde: Olex 
+ 
+2. 
+MATERIAL OG METODE 
+2.1. Feltundersøkelse 
+I tillegg til informasjon om utslippet fra Nordlaks Smolt innbefatter datagrunnlaget for 
+modellen strømmålinger i umiddelbar nærhet av punktutslippet samt supplerende CTD-data 
+for temperaturer og saltholdigheter fra hele vannsøylen. Kildene til de ulike parameterne er 
+oppsummert i Tabell 1. 
+ 
+Tabell 1. Undersøkelser og parametere utført som ledd i modelleringen av punktutslippet ved 
+settefiskanlegget til Nordlaks Smolt i Mørsvikbotn. 
+Strømmåling 
+CTD-profil 
+Data fra Nordlaks Smolt 
+Data fra Nordlaks Smolt 
+Strømhastighet 
+Salinitet 
+Utslippsposisjon 
+Vannmengde fra utslipp 
+Strømretning 
+Temperatur 
+Utslippsdyp 
+Salinitet fra utslipp 
+ 
+ 
+Diameter røråpning 
+Temperatur fra utslipp 
+ 
+ 
+Utslippshøyde over bunn 
+ 
+ 
+ 
+Utslippets vertikal vinkel 
+ 
+ 
+ 
+Utslippets himmelretning 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1.1. 
+Strømmåling 
+Dybden på målepunktet var 45,6 m. Strømmålinger ble utført i fire dyp i 
+vannsøylen, henholdsvis 6, 15, 20 og 40 m. Det ble benyttet en rigg med én 
+profilerende måler på 38 m dyp (6, 15 og 20) og en punktmåler på 40 m som målte 
+bunnstrøm. Prinsippskisse av strømmålerrigg er vist i Figur 4. Riggen ble satt 
+ut 15. april 2021 og hentet 16. juni 2021. Installeringene ble foretatt medfartøy og mannskap fra Folden Akva 
+AS. Prinsippskisse av strømmålerrigg er vist i Figur 3. Den profilerende måleren var en ADCP (Acoustic Doppler 
+Current Profiler) strømmåler av typen Signature 500 (Nortek AS) (STIM Miljø Bergen ID AQP AQD102453). 
+Figur 3. Prinsippskisse av
+strømmålerigg. Aquadopp
+Profiler måler oppover i
+vannsøylen.  
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 5/11 
+ 
+Punktmålerene var akustiske punktmålere (ACDM) av typen Aquadopp Current Meter 2 MHz (STIM Miljø ID 
+AQD 15880/ AQD 10464). Instrumentene lagrer strømhastighet, strømretning, temperatur, trykk, dato og 
+klokkeslett automatisk, med målefrekvens satt til hvert 10. minutt. 
+ 
+Tabell 2. Stasjonsopplysninger for strømmåling i Mørsvikbotn.  
+Utslippspunkt 
+ 
+ 
+ 
+Koordinater (lengde/bredde): 
+67°42,001 N 15°50,454 Ø (St.1) 
+Bunndyp: 
+Ca. 40 m 
+ 
+ 
+Måleinstrument: 
+Profilerende måler Aquadopp Profiler (ADCP) og punktmåler (ACDM) 
+Antall målinger/timer: 
+5235/872 
+Måleretning: Opp 
+ 
+Måledyp: 
+0m - 40m 
+ 
+ 
+Måleperiode: 
+Start: 19.4-2021 
+Slutt: 26.05.2021 
+ 
+ 
+2.1.2. 
+CTD-målinger  
+CTD-målinger ble utført med en CTD av type SD200W for å måle temperatur og salinitet i vannsøylen. 
+Programvaren MiniSoft SD200W v3.21 (Morten Hammersland Programvare) ble brukt for å hente ut og 
+presentere CTD-data.  
+ 
+2.2. Spredningsmodell 
+Simuleringene av utslippsspredningen ble utført med EPA-programvaren (Environmental Protection Agency) 
+Visual Plumes v.1.0 (Frick et al., 2003). Modellkonfigurasjonen er utført med UM3 modell som kan benyttes for 
+simuleringer av neddykkete utslipp. UM3 er en Lagrange fortynningsstrømsky-modell hvor suksessive 
+elementer følger den samme banen. For simulering av spredning over større avstander er ”Brooke’s farfield”- 
+modell inkludert. Brooke’s modell benytter en algoritme der spredning er en funksjon av tid og 
+utgangsspredningsfeltet. Farfield diffusjons-koeffisienten ble i mangel på andre data satt til et konservativt 
+estimat på 0,0003 i henhold til anbefalinger i dokumentasjonen til programvaren (Frick et al., 2003). For 
+Farfield strømhastigheter og strømretninger ble gjennomsnittsverdiene for de ulike dypene benyttet. Det ble 
+simulert case-scenarier med oppgitte verdier av utslippsmengde. Tidsserier for 872 timesintervaller for 
+strømhastigheter og strømretninger ble benyttet i simuleringene. Simuleringene ble gjennomført for de 
+saltholdighet og temperaturforholdene som ble målt i vannsøylen i våren 2021. På bakgrunn av dette beregner 
+simuleringene innblandingssonens fortynningsgrad og utslippets horisontale og vertikale utstrekning.  
+Relevante parametere som brukt i modellen om egenskapene til utslippet og vannmassene er oppgitt i Tabell 3. 
+Det er imidlertid viktig å være klar over forutsetningene og begrensningene med slike estimater da topografisk 
+informasjon og grad av utskiftning av vannmassene i resipienten ikke er inkludert i modellen og dette må tas 
+hensyn til i vurderingen av resultatene. Det er derfor kun mulig å gi grove estimater av fortynningsgrad, med 
+økende usikkerhet med økende avstand fra utslippspunktet.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 6/11 
+ 
+Tabell 3. Parametere brukt i modellering for hvert utslippspunkt ved settefiskanlegget til Nordlaks Smolt. 
+Parameter 
+Verdi 
+Egenskaper for utslipp 
+ 
+Posisjon 
+67°42,001 N 15°50,454 Ø (St.1) 
+Indre diameter åpning 
+71 cm  
+Høyde fra bunn 
+0 m 
+Vertikal vinkel 
+0 grader 
+Utslippets himmelretning 
+Mot nord 
+Antall åpninger (diffusorer) 
+3 på hvert rør 
+Utslippets dybde 
+40 m 
+Utslipps mengder  
+Ferskvann 60m3/min og sjøvann maks 40 m3/min, 
+dvs. 1.667 m3/sekund som var fordelt på tre rør.  
+Utslippskonsentrasjon 
+100 % 
+Salinitet utslipp 
+14 - 25 psu 
+Temperatur utslipp 
+3,5 - 10 °C 
+Egenskaper i vannsøylen 
+ 
+Strømretning (strømmålinger) 
+Tidsserier: Fra 6, 8, 10, 15, 20, 30 og 40 m hver time 
+Strømhastighet (strømmålinger) 
+Tidsserier: Fra 6, 8, 10, 15, 20, 30 og 40 m hver time 
+Vanntemperatur (CTD) 
+Dybdeprofil fra 19.4 og 26.05 2021 
+Salinitet vannmasser (CTD) 
+Dybdeprofil fra 19.4 og 26.05 2021 
+ 
+3. 
+RESULTATER OG DISKUSJON 
+3.1. Saltholdighet og temperatur i sjøen 
+ 
+CTD-profilene for temperatur og saltholdighet var relativt homogene for april og mai og viste ingen klar 
+sjiktning i vannsøylen. I overflaten var det 32.4 psu og 7.8o C i april og i mai 32.5 psu og 6.6o C. På 40 m dyp var 
+saltholdigheten 34.3 psu i både april og mai. Temperaturen på 40 m dyp var 6.5 o C og 6.8 o C i henholdsvis april 
+og mai. Innlagringen av utslippet ser derfor ut til ikke å kunne påvirkes i nevneverdig grad av sjikting i 
+vannmassene.  
+ 
+3.2. Spredning av utslipp 
+Utslippssimuleringer ble utført med varierende hydrografiske data (temperatur og saltholdighet) i vannsøylen 
+omkring utslippet. Strømhastigheter og strømretninger i form av 872 timers tidsserie for målingene i 
+undersøkelsesperioden 19.4-2021 og 26.05-2021 ble benyttet i simuleringene, samt temperatur og salinitet fra 
+CTD ved utsett og opptak. Siden CTD-dataene viste høy likhet mellom april og mai, ble april-dataene som hadde 
+størst variasjon, benyttet i simuleringene. Dataene fra utslipp og omgivelsene ble tatt fra 6, 8, 10, 15, 20, 30 og 
+40 meters dybde og mellomliggende dyp ble ekstrapolert for hele vannsøylen. I simuleringene ble bakgrunns-
+konsentrasjonen i sjøen antatt å være null og utgangskonsentrasjonen til utslippet 100 %. Simuleringene ble 
+utført for en av utslippsledningene under forutsetning av at alle tre utslippsrørene hadde samme 
+utslippsbetingelser. Utslippet ble simulert med en contraction coefficient på 0,61 for skarpkantete hull, dvs. 
+sylindriske hull i utslipps-rørveggen. Det ble antatt at hvert av rørene slapp ut 0,556 m3/sekund. Spredningen 
+av utslippet i simuleringene ville da vise hvorvidt de tre utslippene ville påvirke hverandre i utslippsområdet. 
+Simuleringene er vist med ulike farger for ulike utslippsmengder og temperatur og saltholdighet til utslippet. 
+Plottene viser de 100 mest relevante case-scenariene. Grafikken er tatt fra Visual Plumes 1.0. Fargekoder: Blå: 
+25 psu og 3.5 grader Celsius; Rød: 25 psu og 10 grader Celsius; Grønn: 14 psu og 10 grader Celsius. 
+ 
+Figur 4 viser innlagringsdypene for ulike scenarier. Simuleringene av utslippet med de gitte parameterne viser 
+at utslippet vil kunne fordele seg ut fra utslippspunktet på 40 meters dyp både oppover mot overflaten og i 
+liten grad nedover mot dypere vann. Den delen av det utblandede utslippet som stiger oppover vil kunne i 
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 7/11 
+ 
+noen tilfeller bryte overflaten. Simuleringen av utslippene viser en strømsky og utslippene for 3,5o C og 10o C 
+(blå- og rødfarget) overlappet hverandre i stor grad. Utslipp som hadde med lav saltholdighet på 14 psu 
+(grønnfarget) gikk i større grad mot overflaten enn utslipp på 25 psu. Dette har sammenheng med at ferskere 
+vann har lavere tetthet enn saltere vann. Utslippene vil i hovedsak fordele seg i nærområdet (innen 25 m fra 
+utslippspunktet) til utslippsrøret, noe som indikerer at utslippene fra hvert av rørene trolig ikke vil påvirke 
+hverandre i nærområdet siden avstanden mellom nærmeste utslippspunkt for hver av de tre rørledningene er 
+50 meter. 
+ 
+Figur 4. Simuleringer av spredning av utslippet til Nordlaks Smolts settefiskanlegg. Punktene viser grensene til 
+innlagringssonen, og linjene viser senterlinjene.  
+Fargekoder:     
+Grønn: Utslipp 0.556 m3/sekund; 14 psu og 10 grader C. 
+Blå:  Utslipp 0.556 m3/sekund; 25 psu og 3.5 grader C. 
+Rød: Utslipp 0.556 m3/sekund; 25 psu og 10 grader C. 
+ 
+ 
+ 
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 8/11 
+ 
+ 
+Figur 5. Simuleringer av tetthet og dyp fra utslippet til Nordlaks Smolts settefiskanlegg. Punktene viser grensene til 
+innlagringssonen, og linjene senteret. 
+Fargekoder:     
+Grønn: Utslipp 0.556 m3/sekund; 14 psu og 10 grader C. 
+Blå:      Utslipp 0.556 m3/sekund; 25 psu og 3.5 grader C. 
+Rød: Utslipp 0.556 m3/sekund; 25 psu og 10 grader C. 
+ 
+Figur 5 viser at utblandingen av utslippet mot omkringliggende vannmasser (sigma-T: 0 - 25) skjer omkring 
+utslippsdypet. Det er liten forskjell mellom utslipp med temperaturer på 3,5o C og 10o C (blå og rød). Det meste 
+av utslippet vil være utblandet i dypene 20 - 40 meters dyp. Ferskere utslippsvann (grønn) vil bli utblandet 
+nærmere overflaten i dypene 12 - 40 meters dyp. 
+ 
+ 
+ 
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 9/11 
+ 
+ 
+Figur 6. Simuleringer av horisontal fordeling av utslippet til Nordlaks Smolts settefiskanlegg. Punktene viser grensene til 
+innlagringssonen, og linjene senteret til spredningen i fjernsonen (farfield). 
+Fargekoder:     
+Grønn: Utslipp 0.556 m3/sekund; 14 psu og 10 grader C. 
+Blå:      Utslipp 0.556 m3/sekund; 25 psu og 3.5 grader C. 
+Rød: Utslipp 0.556 m3/sekund; 25 psu og 10 grader C. 
+ 
+Den horisontale spredningen av utslippet er vist i Figur 6. Spredningen av utslippet i nærområdet vil fordele seg 
+i alle retninger omkring endepunktene på rørledningen. Det er liten forskjell på den horisontale spredningen av 
+utslippene for de ulike temperaturene og saltholdighetene. Spredningen til fjernområdet går i hovedsak i 
+sørvestlig retning. Når vannmassene fra utslippet nærmer seg land på vestsiden, vil det dreie av.  
+ 
+3.3. Fortynning av utslipp 
+Simuleringene viser at utslippet fortynnes fra 1/30-del til 1/90-del av det opprinnelige i en avstand av ca. 20 m 
+fra utslippspunktet (Figur 7). Det var kun små forskjeller i fortynningsgrad mellom temperaturer på 3,5o C og 
+10o C (blå og rød) scenariene. Utslipp med lavere saltholdighet (14 psu) vil fortynnes mer effektivt, fra 1/55-del 
+til 1/115-del av det opprinnelige i en avstand av ca. 20 m fra utslippspunktet. 
+De gjennomsnittlige strømhastighetene under målingsperioden var lave og varierte fra 1,9 til 3,5 cm i 
+vannsøylen. Tyngre partikulært materiale vil derfor trolig i hovedsak sedimenteres omkring nærområdet til 
+utslippspunktene, mens lettere løste stoffer vil kunne spres lenger utover i fjordsystemet.  
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 10/11 
+ 
+ 
+Figur 7. Simuleringer av gjennomsnittlig fortynning av utslippet til Nordlaks Smolts settefiskanlegg. Punktene viser grensene 
+til innlagringssonen, og linjene senteret. 
+Fargekoder:     
+Grønn: Utslipp 0.556 m3/sekund; 14 psu og 10 grader C. 
+Blå:      Utslipp 0.556 m3/sekund; 25 psu og 3.5 grader C. 
+Rød: Utslipp 0.556 m3/sekund; 25 psu og 10 grader C. 
+ 
+3.4. Effekten av flere åpninger i utslippsledningen 
+ 
+Figur 8. Simuleringer av gjennomsnittlig innlagring (figuren til venstre) og fortynning (figuren til høyre) av utslippet. De 
+rødfargede punktene/linjene viser strømskyen for tre hull og de blå viser strømskyen for ett hull i utslippsrøret. 
+ 
+Figur 8 viser effekten av å ha flere hull i utslippsledningen. Når det er tre hull i utslippsledningen, vil 
+innlagringen og fortynningen ved hvert av hullene skje over omtrent halve avstanden fra utslippspunktet som 
+når det er kun ett hull. Dette har sammenheng med at samme mengde utslipp blir fordelt på tre hull i stedet for 
+ett hull i utslippsrøret. 
+P.nr: 1762 
+ 
+Nordlaks Smolt as 
+s. 11/11 
+ 
+3.5. Konklusjoner 
+Simuleringene viser at innlagringsdypet til utslippene fra settefiskanlegget vil som regel være i 10 - 40 meters 
+dyp og kun i noen tilfeller nå overflaten. Utslippene fra hvert av rørene vil trolig ikke påvirke hverandre i 
+området omkring utslippspunktene. Den horisontale spredningen av utslippet vil først spre seg i alle retninger 
+omkring utslippspunktet og deretter vil fjern-spredningen gå utover i fjordsystemet. Fortynningen av 
+utslippene er størst for utslippsvann med lavere saltholdighet og utslippet vil være fortynnet fra 1/30 til 1/115 
+(avhengig av saltholdigheten til utslippet) i en avstand av 20 meter fra utslippspunktet. Temperaturen på 
+utslippsvannet spiller mindre rolle for spredning og fortynning enn saltholdigheten. 
+ 
+4. 
+LITTERATUR 
+Frick WE, Roberts PJW, Davis LR, Keyes J, Baumgartner DJ, George KP (2003). Dilution Models for Effluent 
+Discharges, 4th Edition (Visual Plumes). Environmental Research Division, U.S. Environmental Protection 
+Agency, Athens Georgia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+STIM Miljø utfører marine miljøundersøkelser og miljøovervåkning på oppdrag fra fylker, 
+kommuner, oljeselskap, industri og havbruksnæring. STIM Miljø er akkreditert for 
+prøvetaking av sediment til analyse av biologi, kjemi og sedimentkarakteristikk, samt 
+fjæreundesøkelser, taksonomisk analyse og faglig vurdering og fortolking under 
+akkrediteringsnummer Test 157.  
+ 
+Vi utfører også naturtypekartlegging, vannsøyleundersøkelser, risikovurdering av forurenset 
+sediment, strømmålinger og modellering av strømforhold, samt andre miljøundersøkelser 
+og rådgivingstjenester. 
+ 
+www.STIM.no

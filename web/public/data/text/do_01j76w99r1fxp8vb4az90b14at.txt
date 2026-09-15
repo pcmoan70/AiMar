@@ -1,0 +1,1992 @@
+﻿Modellert spredning av utslipp 
+ved Kvalnes  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lokalitet:  
+         Kvalnes 
+Kunde: 
+ 
+ 
+   Andfjord Salmon AS 
+Årlig produksjon:  19 000 tonn  
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 2 of 49 
+Rapport 
+Rapportbeskrivelse og 
+navn 
+Modellert spredning av utslipp Kvalnes. 
+SM-AS-Kvalnes-01422-001.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+27.09.22 
+Første utgivelse. 
+002 
+21.10.22 
+Versjon 002 inneholder simuleringer for 2 nye utslippspunkt. 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten kan 
+kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Kvalnes 
+Lokalitetsnummer 
+38897 
+Kommune  
+Andøy 
+Fylke 
+Nordland 
+ 
+Sammendrag 
+  
+  
+ 
+o Utstrekningen 
+av 
+utslippsvann 
+med 
+gjennomsnittskonsentrasjon over 1 % ved 
+bunnen er omkring 1900 m mot sørvest og 
+omkring 1300 m mot nord (Utslipp nord).  
+o Det er størst reduksjon i vannslektskap fra 
+utslipp til inntak ved å gå fra Utslipp nord til 
+Utslipp midt, mens en videre endring mot 
+Utslipp sør bare gir en marginal bedring.  
+o Den delen av utslippet som når overflaten er 
+godt fortynnet og konsentrasjonen er i 
+gjennomsnitt < 1 %. 
+o Det er ingen tegn til opphopning av 
+utslippsvann i Andfjorden.  
+o Det er beregnet at utslippet av næringssalt ikke 
+vil 
+endre 
+den 
+økologiske 
+tilstanden 
+i 
+vannforekomsten. Den vil fortsatt være «god».  
+ 
+Oppdragsgiver 
+Selskap 
+Andfjord Salmon AS; Havnegata 19, 8400 SORTLAND 
+Kontaktperson 
+Christine Thomassen 
+christine@andfjord.no 
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413; 7260 SISTRANDA 
+Organisasjon nr.  963 554 052 
+Rapportansvarlig 
+ver001 og ver002 
+Lisbeth Håvik        
+Lisbeth.havik@akerbla.no 
+Kontrollert av  
+ver001 
+ver002 
+Inga Utkilen 
+Mari Fjalstad Jensen 
+Inga.utkilen@akerbla.no 
+Mari.jensen@akerbla.no 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 3 of 49 
+Innholdsfortegnelse 
+ 
+1. 
+Innledning .................................................................................................................................... 5 
+2. 
+Områdebeskrivelse ..................................................................................................................... 6 
+3. 
+Metode .......................................................................................................................................... 8 
+3.1 
+Spredning og fortynning ................................................................................................... 8 
+3.2 
+Modellering av sekundærfortynning ................................................................................. 8 
+3.3 
+Modelloppsett og inngangsdata ......................................................................................... 8 
+3.3.1 
+Bunndata og modellstørrelse ........................................................................................ 8 
+3.3.2 
+Inngangsdata ................................................................................................................ 9 
+3.3.3 
+Utslippet ..................................................................................................................... 10 
+4. 
+Resultater Utslipp nord ............................................................................................................ 11 
+4.1 
+Gjennomsnittlig påvirkning ............................................................................................ 11 
+4.2 
+Daglig spredning av utslipp ............................................................................................ 12 
+4.3 
+Konsentrasjon av utslippsvann ved inntakspunkt ........................................................... 14 
+4.4 
+Utslippsvannets alder ved inntaksposisjon ...................................................................... 16 
+4.5 
+Tidsandel med konsentrasjon over 40 % ........................................................................ 17 
+4.6 
+Vurdering av konsentrasjoner av nitrogen og fosfor i overflatelaget ............................. 17 
+5. 
+Resultater Utslipp midt ............................................................................................................ 20 
+5.1 
+Gjennomsnittlig påvirkning ............................................................................................ 20 
+5.2 
+Daglig spredning av utslipp ............................................................................................ 20 
+5.3 
+Konsentrasjon av utslippsvann ved inntakspunkt ........................................................... 22 
+5.4 
+Utslippsvannets alder ved inntaksposisjon ...................................................................... 24 
+5.5 
+Tidsandel med konsentrasjon over 40 % ........................................................................ 24 
+5.6 
+Vurdering av konsentrasjoner av nitrogen og fosfor i overflatelaget ............................. 25 
+6. 
+Resultater Utslipp sør ............................................................................................................... 27 
+6.1 
+Gjennomsnittlig påvirkning ............................................................................................ 27 
+6.2 
+Daglig spredning av utslipp ............................................................................................ 27 
+6.3 
+Konsentrasjon av utslippsvann ved inntakspunkt ........................................................... 29 
+6.4 
+Utslippsvannets alder ved inntaksposisjon ...................................................................... 31 
+6.5 
+Tidsandel med konsentrasjon over 40 % ........................................................................ 31 
+6.6 
+Vurdering av konsentrasjoner av nitrogen og fosfor i overflatelaget ............................. 32 
+7. 
+Konklusjon................................................................................................................................. 34 
+8. 
+Vedlegg - Havnivå ..................................................................................................................... 35 
+9. 
+Vedlegg – Resultater fra strømsimulering .............................................................................. 37 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 4 of 49 
+9.1 
+Strømresultater for inntaksposisjon ................................................................................. 37 
+9.2 
+Strømresultater for utslippsposisjon ................................................................................ 40 
+9.3 
+Simulert strøm i området rundt lokaliteten ..................................................................... 43 
+9.3.1 
+Effektiv transporthastighet ved overflaten ................................................................. 43 
+9.3.2 
+Effektiv transporthastighet ved bunnen ..................................................................... 44 
+9.4 
+Strømresultater sammenlignet med målinger.................................................................. 45 
+10. Vedlegg - Usikkerhetsvurdering .............................................................................................. 48 
+10.1 
+Inngangsdata for strømmodell ......................................................................................... 48 
+10.2 
+Strømmodell .................................................................................................................... 48 
+11. Referanser .................................................................................................................................. 49 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 5 of 49 
+1. Innledning 
+ 
+Åkerblå AS har på oppdrag fra Andfjord Salmon utført modellering av fortynning og spredning av 
+utslippsvann fra en årlig produksjon på 19 000 tonn i det landbaserte matfiskanlegget ved Kvalnes i 
+Andøy kommune.  
+ 
+Formålet med rapporten er å avgjøre hvor raskt utslippsvannet fortynnes og samtidig hvor det spres 
+basert på tre ulike utslippspunkt. I fullskala produksjon simuleres vannmengder opp til 180 000 
+m3/time.  
+ 
+I modelleringen vil det bli gjort en grundig vurdering av vannslektskap fra utslipp til inntaksposisjon. 
+I tillegg simuleres påvirkningen på omgivelsene ved å estimere konsentrasjoner av oppløst fosfor og 
+nitrogen.   
+ 
+Modelleringen presenterer en tilnærming av forholdene basert på inngangsdata. Resultater bør 
+vurderes ut fra lokal kunnskap og erfaring. 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 6 of 49 
+2. Områdebeskrivelse 
+ 
+Kvalnes ligger på østsiden av Andøya i Andøy kommune i Nordland. Et oversiktskart over området 
+er vist i Figur 2.1. Anlegget Kvalnes er markert med 
+ og ligger på vestsiden av Andfjorden. 
+Andfjorden er 50 km lang i N-S retning og 30 km bred og er avgrenset av Andøya i vest, Senja i øst 
+og Grytøya og Hinnøya i sør. Fjorden åpner opp mot Norskehavet nordover forbi Andenes. 
+ 
+Ytterst lengst nord i Andfjorden er det en terskel på ca. 300 m. Fjorden er i overkant av 500 m dyp 
+på det dypeste, øst for Kvalnes. Figur 2.2 viser bunntopografien i området rundt lokaliteten. Utenfor 
+lokaliteten skråner bunnen nedover mot øst.  
+ 
+Modelleringen er gjennomført for en gitt inntaksposisjon, og tre mulige utslippsposisjoner oppgitt av 
+kunde. Valget av disse posisjonene er basert på tidligere modelleringer, strømmålinger og 
+geotekniske undersøkelser. I grunn ligger et ønske om minimering av krysskontaminering.  
+ 
+Det er foretatt strømmålinger ved to ulike posisjoner vist med røde flagg i Figur 2.2 (Åkerblå AS 
+2021). 
+                
+ 
+Figur 2.1: Oversiktskart over området rundt lokaliteten, vist med 
+. Kartet er hentet fra 
+Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.  
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 7 of 49 
+ 
+Figur 2.2: Oversiktskart over området ved lokaliteten. Dybde er vist med blå konturer. Posisjonen for 
+inntakspunktet er markert med gult kryss, og de tre ulike utslippsposisjonene er markert med gule 
+firkanter. Strømmåleposisjonene er markert med røde flagg  (Åkerblå AS 2021). Kartet er hentet fra 
+Olex. Kartdatum: WGS84.
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 8 of 49 
+3. Metode 
+ 
+3.1 
+Spredning og fortynning 
+ 
+Ved utslipp til en resipient er det vanlig å skille mellom to prosesser; primærfortynning og 
+sekundærfortynning (Miljødirektoratet 2013). I den umiddelbare nærheten av utslippet foregår 
+primærfortynningen. Her skjer fortynningen som regel raskt ved turbulent horisontal og vertikal 
+bevegelse drevet av utslippsvannets hastighet ut av utslippsrøret og tetthetsforskjeller mellom 
+utslippsvann og resipient. Når utslippsvannet fortynnes og tetthetsforskjellen er utjevnet, vil den 
+vertikale bevegelsen opphøre og utslippet har da nådd innlagringsdypet. Etter innlagring starter 
+sekundærfortynningen som hovedsakelig er et resultat av horisontal spredning i resipienten. 
+Sekundærfortynningen er avgjørende for hvor stort område som påvirkes av utslippet og om f.eks. 
+strandsoner kan bli påvirket. 
+ 
+Utslippsvannet ved Kvalnes vil bestå av sjøvann som er hentet omkring 40 m, som vil bli sluppet ut 
+ved omkring 70 m. Sjøvannets egenvekt øker med dypet. Det betyr at utslippet vil være lettere enn 
+vannet i resipienten ved utslippspunktet, og at det har en tendens til å stige mot overflaten. 
+Forskjellene i tetthet i dette området er likevel små (Akvaplan-niva 2001), og det er ikke ventet stor 
+vertikalbevegelse ved utslippspunktene. Utslippsvannet vil i sekundærspredningen følge strømmen i 
+fjorden og gradvis fortynnes videre.  
+ 
+3.2 
+Modellering av sekundærfortynning 
+ 
+For å bestemme transport og sekundærspredning av utslippet er det laget en strøm- og 
+spredningsmodell for lokaliteten ved hjelp av programvaren Delft3D-FLOW (Deltares, 2018). 
+Delft3D-FLOW er en tredimensjonal, hydrodynamisk modell som gir strømfelt over et stort område 
+og flere dybdenivå. I modellen løses Navier-Stokes-ligningene for strømmen basert på Boussinesq-
+tilnærmelsen (Lesser, et al. 2004), sammen med ligninger som beskriver temperatur, saltholdighet og 
+spredning av utslipp. Det at modellen omfavner et stort område og kan kjøres for lange tidsperioder, 
+gjør at man får med variasjoner og unike forhold ved hver enkelt lokalitet. Tidssteget i modellen er 
+satt til 30 sekund, og turbulensparametrene er tilpasset området for å få en realistisk beskrivelse av 
+strømmen.  
+ 
+Delft3D-FLOW benytter inngangsdata fra atmosfæren, havet og ferskvannstilsig til å beregne 
+strømmen i tre dimensjoner (Delft3D-FLOW 2018). Den vertikale bevegelsen antas å være liten i 
+forhold til den horisontale slik at vertikal akselerasjon kan neglisjeres. Bevegelsen styres av 
+trykkgradienter beregnet fra variasjon i havnivå, temperatur og saltholdighet. Effektene fra 
+jordrotasjon er inkludert ved hjelp av Corioliskraften. Turbulensen i strømmen er i modellen tatt 
+hensyn til ved bruk av en såkalt k-epsilonmodell.  
+ 
+3.3 
+Modelloppsett og inngangsdata 
+ 
+3.3.1 Bunndata og modellstørrelse 
+ 
+En tredimensjonal strømmodell er laget for området i form av horisontalt rutenett rundt 
+utslippspunktet. Modellen har et horisontalt rutenett som er vist i Figur 3.1, og har en gradvis 
+avtagende oppløsning fra 16 m × 16 m nær utslippsposisjon til 576 m × 576 m ved randsonene. 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 9 of 49 
+Figur 3.1: Rutenett benyttet for å modellere strøm og spredning av utslipp fra lokaliteten. lokaliteten 
+er vist med 
+. Kartet er hentet fra Fiskeridirektoratets kartverktøy, med kartdatum: WGS84.  
+ 
+For å beskrive variasjon i dybden er det valgt en sigmamodell med 15 dybdelag. Dybdelagene følger 
+terrenget og varierer i tykkelse proporsjonalt med dypet (se Tabell 3.1). Bunndata brukt i modellen 
+er hentet fra kartverket, og tilpasset oppløsningen i modellen ved hjelp av interpolasjon. Nær 
+lokaliteten er det benyttet oppmålte bunndata fra oppdragsgiver. I grenseområdet er bunntopografien 
+tilpasset dybdenivået i modellen NorKyst800, for å få en konsistent beskrivelse i randsonene.      
+ 
+Tabell 3.1: Fordeling og prosentvis tykkelse av vannlag i modellen for et valgt dyp på 100 m. Nederst 
+er det i alt 10 vannlag som hver utgjør 8% av den totale dybden. 
+ 
+3.3.2 Inngangsdata  
+ 
+Den hydrodynamiske modellen er drevet av randbetingelser, det vil si tidevann, vind og 
+varmeutveksling med atmosfæren, samt ferskvannstilførsel. Inngangsdata for havet hentes fra 
+havmodellen NorKyst800 (Meteorologisk Institutt 2020, Albretsen, et al. 2011). Dette er timesdata 
+med oppløsning på 800 m × 800 m, som omfatter havnivå, strømhastighet, temperatur og 
+saltholdighet. Dataene interpoleres for å tilpasses gitternettet med høyere oppløsning i Delft3D-
+FLOW.  
+ 
+Vannlag 
+Tykkelse (%) 
+Tykkelse ved 50m dyp (m) 
+Dybde (m) 
+1 
+2 
+2.0 
+0 - 2.0 
+ 
+2 
+3 
+3.0 
+2.0 - 5.0 
+ 
+3 
+4 
+4.0 
+5.0 - 9.0 
+ 
+4 
+5 
+5.0 
+9.0 - 14.0 
+ 
+5 
+6 
+6.0 
+14.0 - 20.0 
+ 
+6-15 
+80 
+80.0 
+20.0 - 100.0  
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 10 of 49 
+Atmosfæriske data er hentet fra Meteorologisk institutt, MEPS (Met.no 2020). Dette er data for vind, 
+temperatur, lufttrykk, luftfuktighet og skydekke, og er gitt med intervall på 3 timer og med oppløsning 
+på 2.5 km × 2.5 km. Også disse dataene interpoleres for å tilpasses gitternettet i strømmodellen.  
+ 
+Fordi modellområdet ligger relativt langt fra fastland og områder med stort ferskvannstilsig, er 
+ferskvannstilsig neglisjert i denne modellen. Dermed er det bare saltholdigheten og temperaturen i 
+inngangsdataene som styrer lagdelingen i overflatelaget.  
+ 
+For å unngå ustabilitet i starten av modellkjøringen er modellen først kjørt med en oppstartsperiode 
+på en måned (desember 2019). Resultatene fra denne kjøringen er deretter brukt som inngangsverdi 
+for den endelige modellkjøringen. Etter oppstartsperioden er strømmodellen kjørt for januar 2020 til 
+og med desember 2020.  
+ 
+3.3.3 Utslippet 
+Posisjoner for inntak og utslipp av vann er vist i Tabell 3.2 og Figur 2.2.  For en årlig produksjon av 
+19 000 tonn er vannstrømmen variabel gjennom året, se Tabell 3.3. Dette gjelder også for innholdet 
+av fosfor og nitrogen. Salinitet og temperatur på utslippsvannet er antatt å være lik inntaksverdiene. 
+ 
+Tabell 3.2: Inntak- og utslippsposisjoner med dybde.  
+ 
+ 
+Tabell 3.3: Utslippsmengder per måned gjennom simulasjonsperioden.  
+Periode 
+Utslippsmengde 
+(m3/s) 
+Fosfor (kg) 
+Nitrogen (kg) 
+Januar 
+44.3 
+6 672 
+52 040 
+Februar 
+46.6 
+6 748 
+52 634 
+Mars 
+48.3 
+6 893 
+53 769 
+April 
+49.5 
+7 125 
+55 572 
+Mai 
+49.8 
+6 620 
+51 635 
+Juni 
+39.6 
+6 817 
+53 175 
+Juli 
+49.2 
+6 473 
+50 491 
+August 
+37.8 
+8 202 
+63 979 
+September 
+49.5 
+8 676 
+67 673 
+Oktober 
+45.1 
+10 615 
+82 796 
+November 
+50.3 
+10 778 
+84 069 
+Desember 
+49.1 
+10 445 
+81 473 
+ 
+ 
+ 
+ 
+ 
+Posisjon (N) 
+Posisjon (Ø) 
+Dyp (m) 
+Inntak 
+69° 9.559’ 
+16° 6.200’ 
+40 
+Utslipp nord 
+69° 9.300’ 
+16° 6.820’ 
+70 
+Utslipp midt 
+69° 9.025’ 
+16° 5.498’ 
+72 
+Utslipp sør 
+69° 8.857’ 
+16° 5.115’ 
+71 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 11 of 49 
+4. Resultater Utslipp nord 
+Det er foretatt simulering av utslipp fra anlegget for hele 2020. Utslippsraten er variabel gjennom året 
+med opptil 50.3 m3/s i november. Utslippet er planlagt sluppet ut på bunnen ved omkring 70 m dybde. 
+Tre ulike utslippsposisjoner er vurdert; se avsnitt 3.3.3 for eksakte posisjoner. Utslippsposisjonene 
+blir omtalt som Utslipp nord, Utslipp midt og Utslipp sør.  
+ 
+Resultatene for hvert av de ulike utslippsposisjonene er vist med konsentrasjon av utslippsvann på 
+utvalgte dager i løpet av året, og med gjennomsnittsverdi for konsentrasjon for hele året. Spredningen 
+er vist ved overflaten og ved bunnen med konsentrasjonsnivå opp til 40 %. Dette nivået er valgt som 
+en representativ maksimumsverdi for fortynningen, men merk at nær utslippspunktene kan det være 
+korte perioder med høyere nivå.  
+ 
+Ut fra innholdet av oppløst nitrogen og fosfor i utslippet, og fortynningsgraden av utslippsvannet, er 
+tilført mengde av disse stoffene i resipienten beregnet. Konsentrasjonene vil bli vurdert opp mot 
+Tabell 9.26 i «Klassifisering av miljøtilstand i vann» (Direktoratsgruppen vanndirektivet 2018).  
+ 
+For å vurdere vannslektskapet mellom utslippspunktet og inntakspunktet på Kvalnes vises det 
+tidsserier av konsentrasjoner av utslippsvann, fordelingen av konsentrasjoner og fordeling av 
+utslippsvannets alder. I tillegg er det utført en varighetsanalyse for å evaluere hvor lenge det er ventet 
+å være ulike konsentrasjonsklasser ved inntakspunktet.  
+ 
+For Utslipp nord er det lagt til full forklaring til figurene og resultatene. Resultatene for Utslipp midt 
+og Utslipp sør har forenklet forklaring, og det henvises til Utslipp nord for detaljer. 
+ 
+4.1 
+Gjennomsnittlig påvirkning 
+ 
+Spredningen av utslipp varierer i løpet av døgnet og påvirkes av tidevannet og vindpådraget. For å 
+finne ut påvirkningsområdet av utslippet, er gjennomsnittlig konsentrasjon i løpet av året, over hele 
+modellområdet beregnet.  
+ 
+I overflaten er gjennomsnittskonsentrasjonen av utslippsvann under 1 % i hele modellområdet (Figur 
+4.1). Utstrekningen av påvirkningsområdet med gjennomsnittskonsentrasjon over 1 % ved bunnen er 
+omkring 1900 m mot sørvest og omkring 1300 m nord for utslippspunktet. De høyeste 
+konsentrasjonene er nær rundt utslippspunktet (Figur 4.1).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 12 of 49 
+Gjennomsnittlig konsentrasjon overflate 
+Gjennomsnittlig konsentrasjon bunnen 
+ 
+ 
+Figur 4.1: Gjennomsnittlig konsentrasjon på overflaten og ved bunnen gjennom hele 2020. 
+Konsentrasjoner av utslippsvann er vist med fargeskala fra 0 til 40 %. Konsentrasjon av utslippsvann 
+under 1 % er ikke synlig i plottene. Utslipp nord er vist med rød prikk og inntaksposisjonen med 
+grønn prikk.  
+ 
+4.2 
+Daglig spredning av utslipp 
+ 
+Spredningen av utslipp varierer i løpet av de simulerte periodene og påvirkes av tidevannet og direkte 
+påvirkning fra vind. Figur 4.2 viser konsentrasjonen av utslippsvann i overflaten og ved bunnen for 
+tre utvalgte dager gjennom året. Disse dagene er valgt grunnet ulike strømforhold og spredning. 
+Konsentrasjonen er volumandelen (%) av utslippsvann i resipienten.  
+ 
+Spredningen av utslippsvannet ved overflaten viser at utslippsskyen som regel har et relativt begrenset 
+omfang, men at den varierer betydelig med tidevannet og at den kan forflytte seg langt i løpet av kort 
+tid. På grunn av tiden det tar fra utslippsdypet til overflaten er de høyeste konsentrasjonene av 
+utslippsvann ved overflaten ikke nødvendigvis i nærheten av utslippspunktet, men kan ha en betydelig 
+geografisk forflytning.  
+ 
+Resultatene viser at de høyeste konsentrasjonene av utslippsvann ved bunnen spres langs batymetrien 
+relativt nært land. Samtidig viser spredningen 25.01 at utslippet også kan spres mot de dypere 
+områdene i fjorden (Figur 4.2).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 13 of 49 
+Daglig spredning overflate 
+Daglig spredning bunnen 
+  
+  
+     
+  
+ 
+ 
+Figur 4.2: Konsentrasjon av utslippsvann i overflaten og ved bunnen, på dagene 25.01, 03.05 og 
+08.11.2020. Konsentrasjoner av utslippsvann er vist med fargeskala opp til 40 %. Konsentrasjon 
+under 1 % er ikke vist. Utslipp nord er vist med rød prikk og inntaksposisjonen med grønn prikk.  
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 14 of 49 
+4.3 
+Konsentrasjon av utslippsvann ved inntakspunkt 
+ 
+Tidsserier av konsentrasjon av utslippsvann ved inntakspunktet er vist gjennom året i Figur 4.3. Det 
+er kortere perioder med relativt høye konsentrasjoner av avløpsvann ved inntakspunktet (> 10 %). 
+Utslippsskyen er flyktig og skifter mellom å gå mot nord mot inntakspunktet, og bort fra 
+inntakspunktet. Det er ingen tegn til opphopning av utslippsvann i området eller ved inntakspunktet.  
+ 
+ 
+Figur 4.3: Tidsserie av konsentrasjon av utslippsvann fra Utslipp nord ved inntakspunktet.  
+I Figur 4.4 er konsentrasjonsfordelingen av utslippsvann for hele året vist. Denne sier noe om 
+frekvensen av konsentrasjonen av utslippsvann ved inntakspunktene. Gjennomsnittskonsentrasjonen 
+(median) ved inntakspunktet er 0.5 %. Videre viser fordelingen at konsentrasjonen av utslippsvann 
+er under 1 %, 60 % av tiden. Frekvensen av de høyere konsentrasjonene er betydelig lavere, og 
+konsentrasjoner mellom 5-10 % inntreffer omkring 9 % av tiden.  
+ 
+ 
+Figur 4.4: Konsentrasjonsfordelingen av utslippsvann fra Utslipp nord ved inntakspunktet. 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 15 of 49 
+For å se nærmere på grenseverdier for konsentrasjoner er det beregnet en persentilfordeling. 
+Persentilfordelingen av konsentrasjonene ved bunnen for inntaksposisjonen viser at 95 % av tiden er 
+konsentrasjonene under 11.9 % (Tabell 4.1). 
+ 
+Tabell 4.1: Persentilfordeling av konsentrasjoner av utslippsvann fra Utslipp nord på bunnen ved 
+inntaksposisjonen.  
+Persentil 
+Inntakspunkt (bunn) 
+1 
+0 
+10 
+0 
+20 
+0 
+30 
+0.1 
+40 
+0.2 
+50 
+0.5 
+60 
+1.0 
+70 
+1.9 
+80 
+3.9 
+90 
+7.9 
+95 
+11.9 
+99 
+20.0 
+ 
+Verdiene i Tabell 4.2 indikerer prosent av data i ulike intervaller av konsentrasjon med ulik varighet.  
+Konsentrasjonen ved inntakspunktet er dominert av konsentrasjoner mellom 0 – 1 % i lange perioder, 
+mens det kun er korte episoder med de høye konsentrasjonene. For eksempel er det 34.4 % av tiden 
+episoder med konsentrasjoner under 1 %, som varer mellom 24 timer og 7 dager. For de høyeste 
+konsentrasjonene (20 – 50 %) er episodene sjeldne og flest episoder varer mellom 1 og 2 timer 
+(0.5 %).   
+ 
+Tabell 4.2: Prosent (%) av data i konsentrasjonsintervall med gitt varighet ved inntakspunktet. 
+Konsentrasjon 
+(%) 
+10 min – 
+30 min 
+30 min – 
+1 t 
+1 t – 2 t 
+2 t – 3 t 
+3 t – 24 t 
+24 t –  
+7 d 
+≥ 7 d 
+0 – 1 
+0.2 
+0.4 
+1.4 
+1.3 
+22.7 
+34.4 
+ 
+1 – 3 
+1.3 
+1.8 
+3.4 
+2.2 
+6.8 
+ 
+ 
+3 – 5 
+1.4 
+1.6 
+1.9 
+0.8 
+1.3 
+ 
+ 
+5 – 10 
+1.1 
+1.9 
+2.6 
+1.7 
+2 
+ 
+ 
+10 – 15 
+0.7 
+1 
+1.5 
+0.5 
+0.4 
+ 
+ 
+15 – 20 
+0.4 
+0.5 
+0.5 
+0.1 
+ 
+ 
+ 
+20 – 50 
+0.1 
+0.2 
+0.5 
+0.2 
+0.1 
+ 
+ 
+50 – 100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 16 of 49 
+4.4 
+Utslippsvannets alder ved inntaksposisjon 
+ 
+Ved å beregne utslippsvannets alder kan man si noe om hvor lang tid vannet i gjennomsnitt bruker 
+fra utslippspunkt til inntakspunkt. Basert på dette kan sannsynligheten for at vannet kan ha ulike 
+aktive virussykdommer og eventuelt lus vurderes. Dette kan gjøres i en biosikkerhetsvurdering (ikke 
+utført her).  
+ 
+ 
+Figur 4.5: Fordeling av utslippsvannets alder ved inntakspunktet. Utslippspunktet er her Utslipp 
+nord. 
+Fordelingen av utslippsvannets alder viser at det oftest tar 2 dager fra utslippspunktet til 
+inntakspunktet (25 % av tiden). Det er omkring like ofte at vannet bruker 1 eller 3 dager til 
+inntakspunktet (18 % av tiden). Det er sjelden (< 10 % av tiden) at vannet bruker > 6 dager fra 
+utslippsposisjon til inntaksposisjon.  
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 17 of 49 
+4.5 
+Tidsandel med konsentrasjon over 40 % 
+ 
+Figur 4.6 viser prosentandelen av tiden (hele simuleringsperioden) hvor konsentrasjonen av 
+avløpsvann i området er over 40 %. Det vil si at 100 % på fargeskalaen betyr at konsentrasjonen var 
+over 40 % gjennom hele simuleringen, mens 0 % betyr at konsentrasjonen aldri var over 40 % i det 
+aktuelle området.  
+ 
+Figuren viser at det langs bunnen er et lite område rundt utslippspunktet hvor konsentrasjonen var 
+over 40 % mer enn 30 % av tiden. I overflaten ble det ikke simulert konsentrasjon over 40 % og dette 
+er derfor ikke vist.  
+ 
+ 
+Figur 4.6: Tidsandel av den totale tidsperioden hvor konsentrasjonen ved bunnen var over 40 %. 
+Utslippspunktet er vist med rød prikk og inntakspunktet med grønn prikk.  
+ 
+4.6 
+Vurdering av konsentrasjoner av nitrogen og fosfor i overflatelaget 
+ 
+For å kunne vurdere miljøpåvirkningen av utslippet i resipienten er konsentrasjonsnivået av nitrogen 
+og fosfor beregnet. Dette er basert på innholdsmengden av næringssaltene i utslippsvannet og 
+fortynningen i resipienten. I «Veileder for Klassifisering av miljøtilstand i vann» (Direktoratsgruppen 
+vanndirektivet 2018) er grenseverdier for ulike tilstandsklasser gitt i Tabell 9.26. Disse 
+grenseverdiene er gitt for overflatelaget, for vinter og sommer. Myndighetene har satt som mål at alle 
+vannforekomster skal ha miljøtilstand «God» eller «Svært god» (Vannforskriften, (2021)). 
+ 
+I portalen vann-nett (Vann-nett.no 2022) er Andfjord Vest listet som et åpent eksponert kystområde 
+med liten påvirkning av ferskvann (saltholdighet > 30). Vannforekomsten har samlet «God» 
+økologisk tilstand og er klassifisert med middels presisjon. Det er ikke registrert målinger av verken 
+fosfor eller nitrogen i vann-nett.no for vannforekomsten Andfjord Vest. Denne rapporten vil derfor 
+sammenligne utslippsmengdene fra Kvalnes med gjennomsnittlig konsentrasjon av nitrogen og fosfor 
+for tilstandsklasse «God».   
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 18 of 49 
+Konsentrasjonen av nitrogen og fosfor i utslippsvannet avhenger av størrelsen på produksjonen og 
+vannmengdene som slippes ut. I denne modelleringen er det både variabel vannmengde fra måned til 
+måned, og variabelt innhold av fosfor og nitrogen (Tabell 3.3).  
+ 
+Spredningen av næringssalt følger samme mønster som utslippet. Konsentrasjonen av utslippsvann i 
+overflatelaget (0-10 m) nær utslippspunktet er i gjennomsnitt <1 % (Figur 4.1). I kortere perioder vil 
+det likevel være høyere konsentrasjoner i overflatelaget (Figur 4.7). Når utslippet når overflaten er 
+det godt fortynnet som vist i kapittel 4.1 og 4.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.7: Spredning og fortynning ved fire utvalgte dager i løpet av simuleringsperioden; 05.03, 
+03.06, 09.09 og 24.12.2020. Konsentrasjoner av utslippsvann er vist med fargeskala fra 0 til 40 %. 
+Konsentrasjon av utslippsvann under 1 % er ikke synlig i plottene. Konsentrasjon av tilført nitrogen 
+(μgN/L) er vist på skala i midten, og konsentrasjon av tilført fosfor (μgP/L) er vist på skala til høyre. 
+Utslipp nord er vist med rød prikk og inntaksposisjonen med grønn prikk. 
+ 
+I vurderingen av påvirkningen fra tilført næringssalt for en årlig produksjon på 19 000 tonn ved 
+Kvalnes er konsentrasjoner av tilført næringssalt lagt til et bakgrunnsnivå tilsvarende tilstandsklasse 
+«God» (Tabell 4.3). For både fosfor og nitrogen, sommer og vinter, er det simulert at utslippene av 
+næringssalt fra en produksjon på 19 000 tonn årlig ved Kvalnes ikke vil endre tilstandsklassen for 
+vannforekomsten Andfjord Vest (Figur 4.8).  
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 19 of 49 
+Tabell 4.3: Gjennomsnittlig konsentrasjon av næringssalt i vannforekomsten Andfjord Vest for 
+tilstandsklasse «God». Verdiene er hentet fra tabell 9.26 i «Veileder for Klassifisering av miljøtilstand 
+i vann» (Direktoratsgruppen vanndirektivet 2018). 
+ 
+Tilstand sommer 
+Gjennomsnitt 
+sommer 
+Tilstand vinter 
+Gjennomsnitt 
+vinter 
+Nitrogen 
+«God» 
+290 µg/L 
+«God» 
+335.5 µg/L 
+Fosfor 
+«God» 
+13.75 µg/L 
+«God» 
+22.5 µg/L 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.8: Kart over tilstandsklasse for summen av gjennomsnittlig bakgrunnsnivå og tilført mengde 
+næringssalt fra utslippet på Kvalens for årlig produksjon på 19 000 tonn.  
+I denne modelleringsrapporten vurderes bare tilført mengde fra utslippet i forhold til klassegrensene 
+og ikke direkte målinger av nitrogen og fosfor i resipienten. For å endelig bestemme forventede 
+konsentrasjoner av næringssalt i resipienten må observerte bakgrunnsnivå sammenlignes med tilførte 
+næringssalt fra produksjonen.  
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 20 of 49 
+5. Resultater Utslipp midt 
+5.1 
+Gjennomsnittlig påvirkning 
+ 
+I overflaten er gjennomsnittskonsentrasjonen av utslippsvann under 1 % i hele modellområdet (Figur 
+5.1). Utstrekningen av påvirkningsområdet med gjennomsnittskonsentrasjon over 1 % ved bunnen er 
+omkring 1970 m mot sørvest og omkring 1450 m nordøst for utslippspunktet. De høyeste 
+konsentrasjonene er konsentrert rundt utslippspunktet (Figur 5.1).  
+ 
+Gjennomsnittlig konsentrasjon overflate 
+Gjennomsnittlig konsentrasjon bunnen 
+ 
+ 
+Figur 5.1: Gjennomsnittlig konsentrasjon på overflaten og ved bunnen gjennom hele 2020. 
+Konsentrasjoner av utslippsvann er vist med fargeskala fra 0 til 40 %. Konsentrasjon av utslippsvann 
+under 1 % er ikke synlig i plottene. Utslipp midt er vist med rød prikk og inntaksposisjonen med 
+grønn prikk. Merk at kartutsnittet er større enn for Utslipp nord. 
+ 
+5.2 
+Daglig spredning av utslipp 
+ 
+Figur 5.2 viser konsentrasjonen av utslippsvann i overflaten og ved bunnen for tre utvalgte dager 
+gjennom året. Disse dagene er valgt grunnet ulike strømforhold og spredning. Konsentrasjonen er 
+volumandelen (%) av utslippsvann i resipienten.  
+ 
+Resultatene viser at de høyeste konsentrasjonene av utslippsvann ved bunnen spres langs batymetrien 
+relativt nært land. Samtidig viser spredningen 25.01 og 08.11 at utslippet også kan spres mot de 
+dypere områdene i fjorden (Figur 5.2).  
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 21 of 49 
+Daglig spredning overflate 
+Daglig spredning bunnen 
+  
+  
+     
+  
+ 
+ 
+Figur 5.2: Konsentrasjon av utslippsvann i overflaten og ved bunnen, på dagene 25.01, 03.05 og 
+08.11.2020. Konsentrasjoner av utslippsvann er vist med fargeskala opp til 40 %. Konsentrasjon 
+under 1 % er ikke vist. Utslipp midt er vist med rød prikk og inntaksposisjonen med grønn prikk. 
+Merk at kartutsnittet er større enn for Utslipp nord. 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 22 of 49 
+5.3 
+Konsentrasjon av utslippsvann ved inntakspunkt 
+ 
+Tidsserier av konsentrasjon av utslippsvann ved inntakspunktet er vist gjennom året i Figur 5.3. Det 
+er kortere perioder med relativt høye konsentrasjoner av avløpsvann ved inntakspunktet (> 10 %). 
+Utslippsskyen er flyktig og skifter mellom å gå mot nord mot inntakspunktet, og bort fra 
+inntakspunktet. Det er ingen tegn til opphopning av utslippsvann i området eller ved inntakspunktet.  
+ 
+ 
+Figur 5.3: Tidsserie av konsentrasjon av utslippsvann fra Utslipp midt ved inntakspunktet.  
+I Figur 5.4 er konsentrasjonsfordelingen av utslippsvann for hele året vist. Denne sier noe om 
+frekvensen av konsentrasjonen av utslippsvann ved inntakspunktene. Gjennomsnittskonsentrasjonen 
+(median) ved inntakspunktet er 0.4 %. Videre viser fordelingen at konsentrasjonen av utslippsvann 
+er under 1 %, 63 % av tiden. Frekvensen av de høyere konsentrasjonene er betydelig lavere, og 
+konsentrasjoner mellom 5-10 % inntreffer omkring 8 % av tiden.  
+ 
+ 
+Figur 5.4: Konsentrasjonsfordelingen av utslippsvann fra Utslipp midt ved inntakspunktet. 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 23 of 49 
+For å se nærmere på grenseverdier for konsentrasjoner er det beregnet en persentilfordeling. 
+Persentilfordelingen av konsentrasjonene ved bunnen for inntaksposisjonen viser at 95 % av tiden er 
+konsentrasjonene under 8.9 % (Tabell 5.1). 
+ 
+Tabell 5.1: Persentilfordeling av konsentrasjoner av utslippsvann fra Utslipp midt på bunnen ved 
+inntaksposisjonen.  
+Persentil 
+Inntakspunkt (bunn) 
+1 
+0 
+10 
+0 
+20 
+0 
+30 
+0.1 
+40 
+0.2 
+50 
+0.4 
+60 
+0.8 
+70 
+1.6 
+80 
+3.1 
+90 
+6 
+95 
+8.9 
+99 
+16 
+ 
+Verdiene i Tabell 5.2 indikerer prosent av data i ulike intervaller av konsentrasjon med ulik varighet.  
+Konsentrasjonen ved inntakspunktet er dominert av konsentrasjoner mellom 0 – 1 % i lange perioder, 
+mens det kun er korte episoder med de høye konsentrasjonene. For eksempel er det 39.7 % av tiden 
+episoder med konsentrasjoner under 1 %, som varer mellom 24 timer og 7 dager. For de høyeste 
+konsentrasjonene (20 – 50 %) er episodene sjeldne (0.1 %).   
+ 
+Tabell 5.2: Prosent (%) av data i konsentrasjonsintervall med gitt varighet ved inntakspunktet. 
+Konsentrasjon 
+(%) 
+10 min – 
+30 min 
+30 min – 
+1 t 
+1 t – 2 t 
+2 t – 3 t 
+3 t – 24 t 
+24 t – 
+ 7 d 
+≥ 7 d 
+0 – 1 
+0.1 
+0.4 
+1.1 
+0.9 
+20.6 
+39.7 
+ 
+1 – 3 
+0.9 
+1.6 
+2.8 
+2.5 
+9 
+ 
+ 
+3 – 5 
+1.2 
+1.3 
+2.1 
+1.1 
+2.1 
+ 
+ 
+5 – 10 
+0.5 
+1.2 
+2.2 
+1.4 
+2.9 
+ 
+ 
+10 – 15 
+0.4 
+0.6 
+0.8 
+0.4 
+0.6 
+ 
+ 
+15 – 20 
+0.2 
+0.2 
+0.3 
+ 
+ 
+ 
+ 
+20 – 50 
+ 
+0.1 
+0.1 
+ 
+0.1 
+ 
+ 
+50 – 100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 24 of 49 
+5.4 
+Utslippsvannets alder ved inntaksposisjon 
+ 
+Ved å beregne utslippsvannets alder kan man si noe om hvor lang tid vannet i gjennomsnitt bruker 
+fra utslippspunkt til inntakspunkt. Basert på dette kan sannsynligheten for at vannet kan ha ulike 
+aktive virussykdommer og eventuelt lus vurderes. Dette kan gjøres i en biosikkerhetsvurdering (ikke 
+utført her).  
+ 
+Figur 5.5: Fordeling av utslippsvannets alder ved inntakspunktet. Utslippspunktet er her Utslipp midt. 
+Fordelingen av utslippsvannets alder viser at det oftest tar 2 dager å transportere vannet fra 
+utslippspunktet til inntakspunktet (25 % av tiden). Omkring 22 % av tiden er utslippsvannet fremme 
+ved inntakspunktet etter 1 dag, og omkring 18 % av tiden er vannet fremme etter 3 dager. Det er 
+sjelden at vannet bruker > 6 dager fra utslippsposisjon til inntaksposisjon.  
+ 
+5.5 
+Tidsandel med konsentrasjon over 40 % 
+ 
+Figur 5.6 viser at det langs bunnen er et lite område rundt utslippspunktet hvor konsentrasjonen var 
+over 40 % mer enn 10 % av tiden. I overflaten ble det ikke simulert konsentrasjon over 40 % og dette 
+er derfor ikke vist.  
+ 
+ 
+Figur 5.6: Tidsandel av den totale tidsperioden hvor konsentrasjonen ved bunnen var over 40 %. 
+Utslippspunktet er vist med rød prikk og inntakspunktet med grønn prikk. Utslipp midt er vist med 
+rød prikk og inntaksposisjonen med grønn prikk. Merk at kartutsnittet er større enn for Utslipp nord. 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 25 of 49 
+5.6 
+Vurdering av konsentrasjoner av nitrogen og fosfor i overflatelaget 
+ 
+Spredningen av næringssalt følger samme mønster som utslippet. Konsentrasjonen av utslippsvann i 
+overflatelaget (0-10 m) nær utslippspunktet er i gjennomsnitt <1 % (Figur 5.1). I kortere perioder vil 
+det likevel være høyere konsentrasjoner i overflatelaget (Figur 5.7). Når utslippet når overflaten er 
+det godt fortynnet som vist i avsnitt 5.1 og 5.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 5.7: Spredning og fortynning ved fire utvalgte dager i løpet av simuleringsperioden; 05.03, 
+03.06, 09.09 og 24.12.2020. Konsentrasjoner av utslippsvann er vist med fargeskala fra 0 til 40 %. 
+Konsentrasjon av utslippsvann under 1 % er ikke synlig i plottene. Konsentrasjon av tilført nitrogen 
+(μgN/L) er vist på skala i midten, og konsentrasjon av tilført fosfor (μgP/L) er vist på skala til høyre. 
+Utslipp midt er vist med rød prikk og inntaksposisjonen med grønn prikk. Merk at kartutsnittet er 
+større enn for Utslipp nord. 
+ 
+I vurderingen av påvirkningen fra tilført næringssalt for en årlig produksjon på 19 000 tonn ved 
+Kvalnes er konsentrasjoner av tilført næringssalt lagt til et bakgrunnsnivå tilsvarende tilstandsklasse 
+«God» (Tabell 4.3). For både fosfor og nitrogen, sommer og vinter, er det simulert at utslippene av 
+næringssalt fra Utslipp midt med en produksjon på 19 000 tonn årlig ved Kvalnes ikke vil endre 
+tilstandsklassen for vannforekomsten Andfjord Vest (Figur 5.8).  
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 26 of 49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 5.8: Kart over tilstandsklasse for summen av gjennomsnittlig bakgrunnsnivå og tilført mengde 
+næringssalt fra utslippet på Kvalens for årlig produksjon på 19 000 tonn. Utslipp midt er vist med rød 
+prikk og inntaksposisjonen med grønn prikk. Merk at kartutsnittet er større enn for Utslipp nord. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 27 of 49 
+6. Resultater Utslipp sør 
+6.1 
+Gjennomsnittlig påvirkning 
+ 
+I overflaten er gjennomsnittskonsentrasjonen av utslippsvann under 1 % i store deler av 
+modellområdet (Figur 6.1), med unntak av et lite område nært land, nord for utslippsposisjonen. 
+Utstrekningen av påvirkningsområdet med gjennomsnittskonsentrasjon over 1 % ved bunnen er 
+omkring 2100 m mot sørvest og omkring 1450 m nordøst for utslippspunktet. De høyeste 
+konsentrasjonene er konsentrert rundt utslippspunktet (Figur 6.1).  
+ 
+Gjennomsnittlig konsentrasjon overflate 
+Gjennomsnittlig konsentrasjon bunn 
+ 
+ 
+Figur 6.1: Gjennomsnittlig konsentrasjon på overflaten og ved bunnen gjennom hele 2020 for 
+utslippsposisjon sør. Konsentrasjoner av utslippsvann er vist med fargeskala fra 0 til 40 %. 
+Konsentrasjon av utslippsvann under 1 % er ikke synlig i plottene. Utslipp sør er vist med rød prikk 
+og inntaksposisjonen med grønn prikk. Merk at kartutsnittet er større enn for Utslipp nord. 
+ 
+6.2 
+Daglig spredning av utslipp 
+ 
+Figur 6.2 viser konsentrasjonen av utslippsvann i overflaten og ved bunnen for tre utvalgte dager 
+gjennom året. Disse dagene er valgt grunnet ulike strømforhold og spredning. Konsentrasjonen er 
+volumandelen (%) av utslippsvann i resipienten.  
+ 
+Resultatene viser at de høyeste konsentrasjonene av utslippsvann ved bunnen spres langs batymetrien 
+relativt nært land. Samtidig viser spredningen 25.01 at utslippet også kan spres mot de dypere 
+områdene i fjorden (Figur 6.2).  
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 28 of 49 
+Daglig spredning overflate 
+Daglig spredning bunnen 
+  
+  
+     
+  
+ 
+ 
+Figur 6.2: Konsentrasjon av utslippsvann i overflaten og ved bunnen, på dagene 25.01, 03.05 og 
+08.11.2020. Konsentrasjoner av utslippsvann er vist med fargeskala opp til 40 %. Konsentrasjon 
+under 1 % er ikke vist. Utslipp sør er vist med rød prikk og inntaksposisjonen med grønn prikk. Merk 
+at kartutsnittet er større enn for Utslipp nord. 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 29 of 49 
+6.3 
+Konsentrasjon av utslippsvann ved inntakspunkt 
+ 
+Tidsserier av konsentrasjon av utslippsvann ved inntakspunktet er vist gjennom året i Figur 6.3. Det 
+er kortere perioder med relativt høye konsentrasjoner av avløpsvann ved inntakspunktet (> 10 %). 
+Utslippsskyen er flyktig og skifter mellom å gå mot nord mot inntakspunktet, og bort fra 
+inntakspunktet. Det er ingen tegn til opphopning av utslippsvann i området eller ved inntakspunktet.  
+ 
+ 
+Figur 6.3: Tidsserie av konsentrasjon av utslippsvann fra Utslipp sør ved inntakspunktet.  
+I Figur 6.4 er konsentrasjonsfordelingen av utslippsvann for hele året vist. Denne sier noe om 
+frekvensen av konsentrasjonen av utslippsvann ved inntakspunktene. Gjennomsnittskonsentrasjonen 
+(median) ved inntakspunktet er 0.4 %. Videre viser fordelingen at konsentrasjonen av utslippsvann 
+er under 1 %, 64 % av tiden. Frekvensen av de høyere konsentrasjonene er betydelig lavere, og 
+konsentrasjoner mellom 5-10 % inntreffer omkring 8 % av tiden.  
+ 
+ 
+Figur 6.4: Konsentrasjonsfordelingen av utslippsvann fra Utslipp sør ved inntakspunktet. 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 30 of 49 
+For å se nærmere på grenseverdier for konsentrasjoner er det beregnet en persentilfordeling. 
+Persentilfordelingen av konsentrasjonene ved bunnen for inntaksposisjonen viser at 95 % av tiden er 
+konsentrasjonene under 9.7 % (Tabell 6.1). 
+ 
+Tabell 6.1: Persentilfordeling av konsentrasjoner av utslippsvann fra Utslipp sør på bunnen ved 
+inntaksposisjonen.  
+Persentil 
+Inntakspunkt (bunn) 
+1 
+0 
+10 
+0 
+20 
+0 
+30 
+0.1 
+40 
+0.2 
+50 
+0.4 
+60 
+0.8 
+70 
+1.5 
+80 
+2.9 
+90 
+6.1 
+95 
+9.7 
+99 
+16 
+ 
+Verdiene i Tabell 6.2 indikerer prosent av data i ulike intervaller av konsentrasjon med ulik varighet.  
+Konsentrasjonen ved inntakspunktet er dominert av konsentrasjoner mellom 0 – 1 % i lange perioder, 
+mens det kun er korte episoder med de høye konsentrasjonene. For eksempel er det 38.5 % av tiden 
+episoder med konsentrasjoner under 1 %, som varer mellom 24 timer og 7 dager. For de høyeste 
+konsentrasjonene (20 – 50 %) er episodene sjeldne (0.1 %).   
+ 
+Tabell 6.2: Prosent (%) av data i konsentrasjonsintervall med gitt varighet ved inntakspunktet. 
+Konsentrasjon 
+(%) 
+10 min – 
+30 min 
+30 min – 
+1 t 
+1 t – 2 t 
+2 t – 3 t 
+3 t – 24 t 
+24 t – 
+ 7 d 
+≥ 7 d 
+0 – 1 
+0.2 
+0.4 
+0.8 
+0.8 
+20.4 
+38.5 
+2.2 
+1 – 3 
+0.7 
+1.5 
+2.9 
+2.8 
+8.8 
+0.3 
+ 
+3 – 5 
+0.9 
+1.6 
+1.6 
+1.2 
+1.6 
+ 
+ 
+5 – 10 
+0.4 
+1.1 
+2 
+1.4 
+2.8 
+ 
+ 
+10 – 15 
+0.3 
+0.5 
+1.2 
+0.6 
+0.7 
+ 
+ 
+15 – 20 
+0.2 
+0.2 
+0.3 
+0.1 
+0.1 
+ 
+ 
+20 – 50 
+ 
+0.1 
+0.1 
+ 
+0.1 
+ 
+ 
+50 – 100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 31 of 49 
+6.4 
+Utslippsvannets alder ved inntaksposisjon 
+ 
+Ved å beregne utslippsvannets alder kan man si noe om hvor lang tid vannet i gjennomsnitt bruker 
+fra utslippspunkt til inntakspunkt. Basert på dette kan sannsynligheten for at vannet kan ha ulike 
+aktive virussykdommer og eventuelt lus vurderes. Dette kan gjøres i en biosikkerhetsvurdering (ikke 
+utført her).  
+ 
+ 
+Figur 6.5: Fordeling av utslippsvannets alder ved inntakspunktet. Utslippspunktet er her Utslipp sør. 
+Fordelingen av utslippsvannets alder viser at det oftest tar 2 dager fra utslippspunktet til 
+inntakspunktet (27 % av tiden). Omkring 22 % av tiden er utslippsvannet fremme ved inntakspunktet 
+etter 1 dag, og omkring 16 % av tiden er vannet fremme etter 3 dager. Det er sjelden at vannet bruker 
+> 6 dager fra utslippsposisjon til inntaksposisjon.  
+ 
+6.5 
+Tidsandel med konsentrasjon over 40 % 
+ 
+Figur 6.6 viser at det langs bunnen er et lite område rundt utslippspunktet hvor konsentrasjonen var 
+over 40 % mer enn 30 % av tiden. I overflaten ble det ikke simulert konsentrasjon over 40 % og dette 
+er derfor ikke vist.  
+ 
+ 
+Figur 6.6: Tidsandel av den totale tidsperioden hvor konsentrasjonen ved bunnen var over 40 %. 
+Utslipp sør er vist med rød prikk og inntaksposisjonen med grønn prikk. Merk at kartutsnittet er større 
+enn for Utslipp nord. 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 32 of 49 
+6.6 
+Vurdering av konsentrasjoner av nitrogen og fosfor i overflatelaget 
+ 
+Spredningen av næringssalt følger samme mønster som utslippet. Konsentrasjonen av utslippsvann i 
+overflatelaget (0-10 m) nær utslippspunktet er i gjennomsnitt <1 % (Figur 6.1). I kortere perioder vil 
+det likevel være høyere konsentrasjoner i overflatelaget (Figur 6.7). Når utslippet når overflaten er 
+det godt fortynnet som vist i avsnitt 6.1 og 6.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 6.7: Spredning og fortynning ved fire utvalgte dager i løpet av simuleringsperioden; 05.03, 
+03.06, 09.09 og 24.12.2020. Konsentrasjoner av utslippsvann er vist med fargeskala fra 0 til 40 %. 
+Konsentrasjon av utslippsvann under 1 % er ikke synlig i plottene. Konsentrasjon av tilført nitrogen 
+(μgN/L) er vist på skala i midten, og konsentrasjon av tilført fosfor (μgP/L) er vist på skala til høyre. 
+Utslipp sør er vist med rød prikk og inntaksposisjonen med grønn prikk. Merk at kartutsnittet er større 
+enn for Utslipp nord. 
+I vurderingen av påvirkningen fra tilført næringssalt for en årlig produksjon på 19 000 tonn ved 
+Kvalnes er konsentrasjoner av tilført næringssalt lagt til et bakgrunnsnivå tilsvarende tilstandsklasse 
+«God» (Tabell 4.3). For både fosfor og nitrogen, sommer og vinter, er det simulert at utslippene av 
+næringssalt fra Utslipp sør med en produksjon på 19 000 tonn årlig ved Kvalnes ikke vil endre 
+tilstandsklassen for vannforekomsten Andfjord Vest (Figur 6.8).  
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 33 of 49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 6.8: Kart over tilstandsklasse for summen av gjennomsnittlig bakgrunnsnivå og tilført mengde 
+næringssalt fra utslippet på Kvalens for årlig produksjon på 19 000 tonn. Utslipp sør er vist med rød 
+prikk og inntaksposisjonen med grønn prikk. Merk at kartutsnittet er større enn for Utslipp nord. 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 34 of 49 
+7. Konklusjon 
+ 
+Ved en årlig produksjon på 19 000 tonn i anlegget på Kvalnes vil konsentrasjonene av utslippsvann 
+på overflaten i gjennomsnitt være under 1 %, med unntak av et lite område nært land ved utslipp fra 
+Utslipp sør. Ved bunnen strekker påvirkningsområdet med gjennomsnittskonsentrasjon over 1 % 
+omkring 2000 m mot sørvest (alle utslippspunkt) og omkring 1400 m nord for alle utslippspunkt. De 
+høyeste konsentrasjonene er konsentrert rundt utslippspunktet.  
+ 
+For både fosfor og nitrogen, sommer og vinter, alle utslippspunkt, er det simulert at utslippene av 
+næringssalt fra en produksjon på 19 000 tonn årlig ved Kvalnes ikke vil endre tilstandsklassen for 
+vannforekomsten Andfjord Vest.  
+ 
+Det er kortere perioder med relativt høye konsentrasjoner av avløpsvann ved inntakspunktet ved 
+utslipp fra alle posisjoner (> 10 %). Utslippsskyen er flyktig og varierer mellom å gå mot nord mot 
+inntakspunktet, og bort fra inntakspunktet i alle tre tilfeller. Det er ingen tegn til opphopning av 
+utslippsvann i området eller ved inntakspunktet. Gjennomsnittskonsentrasjonen (median) ved 
+inntakspunktet er 0.5 % for Utslipp nord, og 0.4 % for Utslipp midt og Utslipp sør.  
+ 
+Fordelingen av konsentrasjoner av utslippsvann viser hyppigst konsentrasjoner under 1 % for alle 
+utslippspunkt. Det er likevel tilfeller opp mot 40 % for alle utslippspunkt. Det er størst reduksjon i 
+vannslektskap ved å gå fra Utslipp nord til Utslipp midt, mens en videre forflytning mot Utslipp sør 
+ikke gir en stor forbedring i vannslektskap fra utslippspunkt til inntak.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 35 of 49 
+8. Vedlegg - Havnivå 
+Strømmen i simuleringene blir blant annet drevet av havnivå og en sammenligning med observasjoner er 
+med på å evaluere modellytelsen (Figur 8.1). Kartverkets nærmeste observasjonspunkt til Kvalnes er 
+Harstad (Figur 8.2), 45 km sør for lokaliteten. På grunn av avstanden er det gjort en korreksjon for 
+eventuelle forskjeller i havnivå, og for Kvalnes er tidevannet justert med en høydekorreksjonsfaktor på 
+0.98 og det er ingen tidsforsinkelse. 
+Det er noe avvik mellom modellresultatene og målingene, men ikke mer enn hva som er forventet med 
+modellering av strømforhold og tidevann. Figur 8.1 viser at vannstanden i modellen veksler mellom være 
+litt høyere og lavere enn observert vannstand. Forskjellen mellom målt og simulert vannstand er beregnet 
+til å være omkring 8 %, der modellen i gjennomsnitt overestimerer tidevannsutslaget. Det er ikke ventet 
+at denne forskjellen har signifikant betydning for strøm- og utslippsmodelleringen for lokaliteten. 
+ 
+ 
+Figur 8.1: Havnivå ved utslippspunkt i perioden 01.01.2020-14.01.2020. Svart linje er resultatene fra 
+modellering og rød prikket linje er tidevannstabell 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 36 of 49 
+Figur 8.2: Oversiktskart fra Kvalnes og sørover. Posisjon for vannstandsmåling i Harstad vist med 
+rød prikk og punkt med korreksjon vist med gul prikk. Kartet er hentet fra Fiskeridirektoratets 
+kartverktøy med kartdatum WGS84.  
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 37 of 49 
+9. Vedlegg – Resultater fra strømsimulering 
+9.1 
+Strømresultater for inntaksposisjon 
+ 
+Tabell 9.1 viser sammendrag av strømmen i inntaksposisjonen for utvalgte dyp i perioden 01.01.2020 
+til og med 31.12.2020. Den sterkeste strømmen opptrer ved 2 m der gjennomsnittverdien er på 
+18.9 cm/s. Strømmen avtar nedover i vannsøylen.   
+ 
+Figur 9.1 viser strømroser av den modellerte strømmen ved inntakspunkt vist for seks ulike dyp. 
+Strømmen veksler langs en akse NNØ-SSV for alle dyp.  
+ 
+Styrken på strømmen varierer gjennom året. Hastigheten i overflaten har størst variabilitet av alle dyp 
+som følge av pådrag fra varierende vindmønster. En sammenligning mellom modellert strøm for 
+januar og juli 2020 ved to ulike dyp viser at både styrke og retning kan variere mellom de ulike 
+tidsperiodene (Figur 9.2). Slike endringer gjennom året illustrerer dynamikken i fjorden, og 
+modellering gjennom hele året fanger opp påvirkningen på spredningen av utslippene.  
+ 
+Tabell 9.1 Strømresultater fra simuleringer ved inntaksposisjon (Figur 2.2), for perioden 
+01.01.2020 - 31.12.2020 
+ 
+Dyp (m) 
+2 
+5 
+11 
+22 
+33 
+Bunn 
+Gjennomsnitt (cm/s) 
+18.9 
+18.3 
+17.5 
+16.4 
+15.3 
+11.7 
+Sign. maks (cm/s) 
+34.4 
+33.8 
+32.8 
+30.8 
+28.5 
+21 
+Sign. min (cm/s) 
+6.4 
+5.8 
+5.2 
+4.7 
+4.5 
+4 
+Std.avvik (cm/s) 
+13.5 
+13.5 
+13.4 
+12.7 
+11.6 
+8.2 
+% < 1 cm/s 
+0.6 
+0.6 
+1.1 
+1.9 
+2 
+1.6 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 38 of 49 
+ 
+2 m  
+ 
+5 m  
+ 
+11 m  
+ 
+22 m  
+ 
+33 m  
+ 
+Bunn
+ 
+Figur 9.1: Strømroser av simulert strøm i inntaksposisjon (Figur 2.2) for perioden  
+01.01.20 – 01.01.21. Dyp er angitt til venstre over hver figur. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 39 of 49 
+Januar 2020 
+Juli 2020 
+ 
+ 
+ 
+ 
+Figur 9.2: Sammenligning av strømhastighet for januar og juli 2020 nær overflaten (oppe) og nær bunnen 
+(nede). Posisjonen er markert med inntaksposisjon i Figur 2.2. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 40 of 49 
+9.2 
+Strømresultater for utslippsposisjon 
+ 
+Tabell 9.2 viser sammendrag av strømmen i utslippsposisjonen for utvalgte dyp i perioden 01.01.2020 
+til og med 31.12.2020. Den sterkeste strømmen opptrer ved 1 m der gjennomsnittverdien er på 
+17.3 cm/s. Strømmen avtar nedover i vannsøylen.   
+ 
+Figur 9.3 viser strømroser av den modellerte strømmen ved utslippspunkt for seks ulike dyp. 
+Strømmen veksler langs en akse NNØ-SSV for alle dyp. Nær bunnen er det sterkest og hyppigst strøm 
+mot SV.  
+ 
+Styrken på strømmen varierer gjennom året. Hastigheten i overflaten har størst variabilitet av alle dyp 
+som følge av pådrag fra varierende vindmønster. En sammenligning mellom modellert strøm for 
+januar og juli 2020 ved to ulike dyp viser at både styrke og retning kan variere mellom de ulike 
+tidsperiodene (Figur 9.4). Slike endringer gjennom året illustrerer dynamikken i fjorden, og 
+modellering gjennom hele året fanger opp påvirkningen på spredningen av utslippene.  
+ 
+Tabell 9.2: Strømresultater fra simuleringer ved utslippsposisjon (Figur 2.2), for perioden 
+01.01.2020 - 31.12.2020 
+ 
+Dyp (m) 
+1 
+5 
+19 
+37 
+56 
+Bunn 
+Gjennomsnitt (cm/s) 
+17.3 
+16.6 
+15.3 
+13.4 
+10.8 
+8.6 
+Sign. maks (cm/s) 
+31.2 
+30.4 
+28.6 
+25.1 
+20.7 
+14.2 
+Sign. min (cm/s) 
+6.1 
+5.5 
+4.6 
+3.9 
+2.8 
+3.9 
+Std.avvik (cm/s) 
+12.2 
+12.2 
+11.8 
+10.3 
+8.8 
+5.2 
+% < 1 cm/s 
+0.6 
+0.8 
+1.4 
+2 
+3.8 
+1.1 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 41 of 49 
+1 m  
+ 
+5 m  
+ 
+19 m  
+ 
+37 m  
+ 
+56 m  
+ 
+Bunn
+ 
+Figur 9.3: Strømroser av simulert strøm i utslippsposisjon (Figur 2.2) for perioden  
+01.01.20 – 01.01.21. Dyp er angitt til venstre over hver figur. 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 42 of 49 
+Januar 2020 
+Juli 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 9.4: Sammenligning av strømhastighet for januar og juli 2020 nær overflaten (oppe) og nær bunnen 
+(nede). Posisjonen er markert med utslippsposisjon i Figur 2.2. 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 43 of 49 
+9.3 
+Simulert strøm i området rundt lokaliteten 
+ 
+Det er registrert strøm i hele det modellerte område for hver time i simuleringsperioden. Ut fra dette 
+er den effektive transporthastigheten beregnet. 
+9.3.1 Effektiv transporthastighet ved overflaten 
+I Figur 9.5 er effektiv transporthastighet vist ved overflaten utenfor anlegget. Ved overflaten er den 
+effektive transporthastigheten langs kysten mot nord/nordøst. Over de dypere delene av Andfjorden 
+er strømmen også rettet mot øst.  
+ 
+ 
+ 
+Figur 9.5: Effektiv transporthastighet ved overflaten.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 44 of 49 
+9.3.2 Effektiv transporthastighet ved bunnen 
+Figur 9.6 viser den effektive transporthastigheten langs bunnen. Strømmen ved bunnen skifter 
+mellom å gå mot sør i områder med sterkere strøm, og å ha mer variabel retning i områdene med svak 
+strøm.  
+ 
+ 
+Figur 9.6: Effektiv transporthastighet langs bunnen.  
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 45 of 49 
+9.4 
+Strømresultater sammenlignet med målinger 
+ 
+Det er utført strømmålinger i to posisjoner vist med flagg i Figur 2.2 (Åkerblå AS 2021). Målingene 
+er utført i 2021 og faller dermed utenfor den simulerte perioden som er i 2020. Resultatene er derfor 
+ikke direkte sammenlignbare. Likevel er det gjort sammenligning med tilsvarende periode på året i 
+2020 for modellert strøm (Tabell 9.3). Dette for å få et inntrykk av hvor godt modellen reproduserer 
+strømmen i området. De simulerte verdiene er registrert i nærmeste celle og vannlag i målingene.  
+ 
+Det er ikke signifikant avvik mellom modellert strøm og målinger ved den sørøstligste 
+måleposisjonen. Modellert strøm ved bunnen (8 m) i den nordvestligste måleposisjonen er noe 
+svakere enn bunnstrømmen som er målt. Modellert gjennomsnittverdi er 3.6 cm/s mens målt verdi er 
+6.8 cm/s.   
+ 
+Figur 9.7 viser strømroser fra modellen sammenlignet med måling. Ved sørøstlig posisjon varierer 
+både modellert og målt strøm langs en akse NNØ – SSØ. Ved nordvestlig posisjon er det dominerende 
+strøm mot NNØ, og varierende strøm mot Ø og SØ. I målingen er det dominerende strøm mot N og 
+en litt svakere strøm mot S. 
+ 
+Sammenligning mellom modellert strøm og målinger er foretatt med verdier fra bunndyp. 
+Forskjellene som opptrer, er ikke mer enn det som kan forventes pga. variasjon i bunnforhold over 
+korte avstander noe som ikke fanges opp i modellen. En annen årsak til forskjell er at modelleringen 
+er foretatt for en annen periode enn målinger.  
+ 
+Grunner til avvik mellom målinger og modellresultater: 
+ 
+• 
+Simuleringene har en maksimal oppløsning på 16 m × 16 m som avtar gradvis fra 
+utslippsposisjonen og det kan være variasjoner i strømmen innenfor denne skalaen som 
+strømmodellen ikke fanger opp. Også i tid er det variasjon i både strømhastighet og retning, 
+så det er ikke forventet at en modell stemmer eksakt både i tid og rom.  
+ 
+• 
+Kompliserte bunnforhold: Størst avvik kan forventes å opptre i måleposisjoner som er nært 
+land, hvor det er relativt komplisert batymetri.  
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 46 of 49 
+Tabell 9.3: Strømverdier fra måleposisjoner (markert med røde flagg i Figur.2.2). Målinger er 
+hentet fra Åkerblå (2021) og modellresultater er verdier i tilsvarende posisjon. 
+ 
+Nordvest 
+Sørøst 
+ 
+N 69° 9.440’ 
+Ø 16° 5.633’ 
+N 69° 9.415’ 
+Ø 16° 5.580’ 
+N 69° 9.305’ 
+Ø 16° 5.841’ 
+N 69° 9.305’ 
+Ø 16° 5.841’ 
+ 
+Måling  
+Modell 
+Måling  
+Modell 
+Dyp  
+8 m (bunn) 
+8 m (bunn) 
+23 m (bunn) 
+23 m (bunn) 
+Periode 
+10.05.21-
+20.06.21        
+10.05.20-
+20.06.20        
+10.05.21-
+30.06.21        
+10.05.20-
+30.06.20        
+Gjennomsnitt (cm/s) 
+6.8 
+3.6 
+12.0 
+11.5 
+Standardavvik (cm/s) 
+  3.9 
+2.9 
+  9.3 
+  9.2 
+Signifikant maks (cm/s) 
+11.4 
+6.6 
+22.8 
+22.1 
+Signifikant min (cm/s) 
+ 
+  2.9 
+1.5 
+  3.7 
+  3.3 
+% over 30 cm/s 
+  0.0 
+0.0 
+  5.7 
+  4.9 
+% under 1 cm/s 
+  1.8 
+7.2 
+  1.9 
+  2.2 
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 47 of 49 
+Figur 9.7: Strømroser fra målinger fra Åkerblå (2021) sammenlignet med strømroser fra modellering. 
+Posisjonene er vist i Figur 2.2. 
+ 
+ 
+Måling nordvest (8 m) 
+10.05.2021 – 20.06.2021  
+Modellering nordvest (8 m) 
+10.05.2020 – 20.06.2020 
+ 
+Måling sørøst (23 m) 
+10.05.2021 – 30.06.2021 
+Simulering sørøst (23 m) 
+10.05.2020 – 30.06.2020 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 48 of 49 
+10. Vedlegg - Usikkerhetsvurdering 
+ 
+Usikkerheter i resultater fra modellering kommer fra usikkerhet i inngangsdata til modellene og fra 
+modellene selv. Modellresultatene blir sjekket opp mot målinger for verifisering og kalibrering, og 
+vurdert hvorvidt de er egnet til videre bruk eller ikke. 
+ 
+10.1 Inngangsdata for strømmodell 
+ 
+Usikkerhetsmomenter i inngangsdata kommer fra: 
+• Værdata 
+• Randbetingelser i havnivå, strøm, saltholdighet og temperatur   
+• Bunndata 
+•  
+Usikkerhetene er fanget opp ved å modellere strømforholdene i et stort område rundt utslippspunket 
+med en høyere oppløsning i nærheten av utslippspunkt.  Initialverdier for både hav og atmosfære er 
+interpolert fra et gitter med lavere oppløsning, noe som vil føre med seg usikkerhet.  
+ 
+10.2 Strømmodell 
+ 
+Det kan være variasjon innenfor rutenett som ikke er fanget opp av modellen. 3D-modellen har en 
+oppløsning på omtrent 16 m x 16 m (og grovere) horisontalt i 15 dybdevarierende lag med størst 
+variasjon ved overflaten. Havstrømmen kan være mer kompleks enn det som fanges opp i modellen. 
+Modellen har størst oppløsning nær overflaten der den fanger opp en detaljert sjiktingen i vannlagene. 
+Nær bunnen er det grovere oppløsning dette kan påvirke resultatene i områder med komplisert og 
+varierende bunntopografi. 
+ 
+Med en lokalitet over en bratt skråning er det vanskelig å fange strømmønsteret nærme bunn 
+tilstrekkelig ved å bare se på strøm i et punkt. Spesielt vanskelig er bunnstrømmen, som endres mye 
+over korte avstander på grunn av skråningen. Dette gjør det ekstra viktig å modellere strømmen med 
+høy oppløsning over et større område, og ikke bare bruke punktmålinger.   
+ 
+ 
+ 
+Modellert spredning av utslipp: Kvalnes 
+Åkerblå AS 
+ 
+Side 49 of 49 
+11. Referanser  
+ 
+Åkerblå AS. 2021. «Strømrapport. Måling av bunnstrøm ved Kvalnes i mai-juni 2021.» 
+ 
+Akvaplan-niva. 2001. «Miljøundersøkelser på 2 planlagte oppdrettslokaliteter i Andøy kommune, 
+2001 - lokalitetene Ramså og Fiskenes .» 
+ 
+Albretsen, Jon, Ann Kristin Sperrevik, Andrè Staalstrøm, Anne D. Sandvik, Frode Vikebø, og Lars 
+Asplin. 2011. NorKyst-800 Repost No.1 User Manual and technical descriptions. Bergen: 
+Fisken og Havet, Havforskningsinstituttet. 
+ 
+Delft3D-FLOW. 2018. Delft3D Open Source Community. 24 01. 
+https://content.oss.deltares.nl/delft3d/manuals/Delft3D-FLOW_User_Manual.pdf. 
+ 
+Direktoratsgruppen vanndirektivet . 2018. Klassifisering av miljøtilstand i vann.  
+ 
+Klima- og miljødepartementet, Olje- og energidepartementet. 2021. Lovdata.no. Funnet 2022. 
+ 
+Lesser, G P, J A Roelvink, J.A.T.M. van Kester, og G. S. Stelling. 2004. «Development and 
+validation of a three-dimensional morphodynamic model.» Coastal Engineering.  
+ 
+Met.no. 2020. MetCoOp Ensemble Prediction System. http://thredds.met.no/thredds/metno.html. 
+ 
+Meteorologisk Institutt, Havforskningsinstituttet. 2020. ROMS NorKyst800m coastal ocean fields. 
+http://thredds.met.no/thredds/fou-hi/norkyst800m.html. 
+ 
+Miljødirektoratet. 2013. «Veileder for fastsetting av innblandingssoner.» 
+ 
+Vann-nett.no. 2022. Vannforekomst. Funnet 2022.

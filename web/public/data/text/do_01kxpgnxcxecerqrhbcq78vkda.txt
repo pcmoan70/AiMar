@@ -1,0 +1,1390 @@
+﻿Modellert spredning av utslipp 
+fra Trollbukta  
+ 
+ 
+ 
+ 
+ 
+ 
+Kunde: 
+ 
+Sisomar AS 
+Lokalitet:  
+Trollbukta 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 2 of 30 
+Rapport 
+Rapportbeskrivelse og 
+navn 
+Modellert spredning av utslipp fra Trollbukta. 
+SM-SI-Trollbukta-110215117-6001-01-002.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+06.06.25 
+Første utgivelse.  
+Rapportnavn: SM-SI-Trollbukta-110215117-6001-01-001.pdf 
+002 
+30.01.26 
+Oppdatering av rapport med nye tall for N, P og TOC i utslipp. 
+Rapportnavn: SM-SI-Trollbukta-110215117-6001-01-002.pdf 
+Rapportdistribusjon 
+Innhold fra denne rapporten kan brukes så lenge rapporten oppgis som kilde, og at 
+alt benyttet materiale blir kreditert DNV Aquaculture and Ocean Health AS. 
+Lokalitet 
+Lokalitetsnavn 
+Trollbukta 
+Lokalitetsnummer 
+11264 
+Kommune  
+Sørfold 
+Fylke 
+Nordland 
+Oppdragsgiver 
+Kunde 
+Sisomar AS, Valljordveien 27, 8226 STRAUMEN, NORGE  
+Kontaktperson 
+Nils Jøstensen 
+nils@sisomar.no 
+Oppdragsansvarlig 
+Selskap  
+DNV Aquaculture and Ocean Health AS, 
+Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+NO 921 680 961 MVA 
+Rapportansvarlig 
+001 
+002 
+ 
+Aleksander Libæk 
+Marte Vrålstad 
+ 
+aleksander.libak@dnv.com 
+marte.vralstad@dnv.com 
+Kontrollert av 
+001 
+002 
+ 
+Clarissa Endo 
+Aleksander Libæk 
+ 
+clarissa.endo@dnv.com 
+aleksander.libak@dnv.com 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 3 of 30 
+Sammendrag 
+Simulering er gjort av utslipp på 3 m dyp i Trollbukta innerst i Sørfolda, over en periode på ett år. Inntak av 
+saltvann foregår ved 28 m dyp. 
+ 
+Utslippet spres og fortynnes ut over hele den indre delen av fjorden, rundt utslippspunktet og langs med land i 
+øst. Spredningen varierer sterkt med det halvdaglige tidevannet. De høyeste konsentrasjonene i overflaten 
+opptrer i perioder med lite ferskvannstilsig. Det er lave konsentrasjoner av utslippsvann utover i fjorden i de 
+dypeste områdene. Utslippet kan bevege seg opptil 2.0 km nordover fra inntaksposisjonene før konsentrasjonen 
+kommer under 1.0 %. Langs vestsiden av fjorden kan utslippet bevege seg opptil 500 m fra inntaksposisjonene 
+før konsentrasjonen er under 1.0 %. Maksimal konsentrasjon av utslipp registrert nær overflaten over 
+inntaksposisjonene er på 4.3 %. Ved inntaksposisjonene (på bunndyp) er maksimalkonsentrasjonen på 0.7 %, 
+og 95 % av tiden er konsentrasjonene under 0.39 %. 
+ 
+Tilført næringssalt av nitrogen fra utslippet endret ikke miljøtilstanden i fjorden, og beholder tilstandsgrad 
+«Svært God». Tilført næringssalt av fosfor fra utslippet endret miljøtilstanden seg fra «Svært God» til 
+«Moderat» i området av utslippet og de indre delene av Trollbukta. 
+ 
+I simuleringen av partikulært spredning uten biologisk nedbrytning er påvirkningsområdet (> 2 g/m2) utbredt i 
+Trollbukta og nordover til utenforbi Hellandsholmen og opp til Ørvika, og derfra langs med land på den østlige 
+delen av fjorden. Når biologisk nedbrytning inkluderes reduseres utstrekningen til påvirkningsområdet (> 2 
+g/m2), hvor påvirkningen ligger i store deler av Trollbukta. Ved inntaksposisjonene er påvirkningen på 
+maksimalt 1.66 g/m2 for tilfellet uten biologisk nedbrytning, og på 0.33 g/m2 for tilfellet med biologisk 
+nedbrytning. 
+ 
+ 
+Gjennomsnittskonsentrasjon ved overflate 
+Gjennomsnittskonsentrasjon ved bunn 
+ 
+ 
+ 
+ 
+ 
+ 
+Akkumulasjon uten biologisk nedbrytning 
+Akkumulasjon med biologisk nedbrytning 
+ 
+  
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 4 of 30 
+Innholdsfortegnelse 
+ 
+1. 
+Innledning .................................................................................................................................... 5 
+2. 
+Områdebeskrivelse ..................................................................................................................... 6 
+3. 
+Metode .......................................................................................................................................... 8 
+3.1 
+Spredning og fortynning ................................................................................................... 8 
+3.2 
+Modellering av sekundærfortynning ................................................................................. 8 
+3.3 
+Spredning av partikulært utslipp ....................................................................................... 8 
+3.4 
+Modelloppsett og inngangsdata ......................................................................................... 9 
+4. 
+Resultat – flytende utslipp fra Trollbukta .............................................................................. 11 
+4.1 
+Gjennomsnittlig påvirkning i overflatelaget ................................................................... 11 
+4.2 
+Daglig spredning ............................................................................................................. 12 
+4.3 
+Konsentrasjon ved inntak ................................................................................................ 14 
+4.4 
+Konsentrasjoner av næringssalt....................................................................................... 17 
+5. 
+Resultat – partikulært utslipp fra Trollbukta ........................................................................ 19 
+5.1 
+Bunnpåvirkning etter ett år med produksjon ................................................................... 19 
+5.2 
+Akkumulasjon ved inntaksposisjon ................................................................................. 20 
+6. 
+Oppsummering .......................................................................................................................... 21 
+6.1 
+Flytende utslipp ............................................................................................................... 21 
+6.2 
+Partikulært utslipp ........................................................................................................... 21 
+7. 
+Vedlegg – Strøm resultater ...................................................................................................... 22 
+7.1 
+Strømodellering ved utslippspunkt ................................................................................. 22 
+7.2 
+Modellert strøm i området rundt lokaliteten ................................................................... 24 
+7.3 
+Modellert strøm sammenlignet med målinger ................................................................ 25 
+8. 
+Vedlegg - Havnivå ..................................................................................................................... 27 
+9. 
+Vedlegg - Ferskvannstilsig ....................................................................................................... 28 
+10. Vedlegg - Usikkerhetsvurdering .............................................................................................. 29 
+10.1 
+Inngangsdata for strømmodell ......................................................................................... 29 
+10.2 
+Strømmodell .................................................................................................................... 29 
+10.3 
+Modellert spredning ........................................................................................................ 29 
+11. Referanser .................................................................................................................................. 30 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 5 of 30 
+1. Innledning 
+DNV Aquaculture and Ocean Health AS har på oppdrag fra Sisomar AS utført modellering av 
+fortynning og spredning av utslippsvann for en årlig produksjon på 3056 tonn ved settefiskanlegget 
+Trollbukta i Sørfold kommune. I tillegg er det modellert bunnpåvirkning fra partikulært utslipp.  
+ 
+Formålet med rapporten er å avgjøre hvor raskt utslippsvannet vil fortynnes og samtidig hvor det 
+spres. 
+ 
+I versjon 001 av rapporten var resultatene basert på et forbruk av fór på 2 500 tonn (tilsvarer 
+produksjon av fisk på 2 750 tonn). I denne versjonen stemte ikke beregningene for mengde nitrogen, 
+fosfor og TOC i utslippsvannet, hvor beregningene overestimerte konsentrasjonene. Her var den 
+årlige mengden nitrogen, fosfor og TOC fordelt utover 9 måneder, som vil medføre høyere 
+konsentrasjoner i utslippsvannet. 
+ 
+I versjon 002 av rapporten er resultatene basert på et forbruk av fór på 2 750 tonn (tilsvarer produksjon 
+av fisk på 3 056 tonn). Nye tall for nitrogen, fosfor og TOC er beregnet, og det årlige utslippet av 
+næringssaltene er fordelt utover 1 år. 
+ 
+Det er simulert med et utslipp på 260 m3/min. Utslippsvannet består av ferskvann med 1 ‰ og 
+brakkvann med 15 ‰. Konsentrasjonen av suspenderte næringssalt blir beregnet basert på 
+konsentrasjonen i utslippsvannet. Dette vurderes opp mot klassegrensene i Miljødirektoratets veileder 
+for klassifisering av miljøtilstand i vann (Direktoratsgruppen vanndirektivet 2018). Til slutt vises 
+bunnpåvirkningen i form av spredning av partikulært utslipp fra anlegget; modellert både med og 
+uten nedbrytning. 
+  
+Modelleringen presenterer en tilnærming av forholdene basert på inngangsdata. Resultater bør også 
+vurderes ut fra lokalkunnskap og erfaring.
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 6 of 30 
+2. Områdebeskrivelse 
+Settefiskanlegget Trollbukta ligger på Valjord ved kommunesentret Straumen i Sørfold kommune i 
+Nordland. Et oversiktskart over området er vist i Figur 2.1. Utslippsposisjonen til Trollbukta er 
+markert med lilla kryss (
+) i nederste kart i figuren og ligger innerst i fjorden. Sørfolda strekker seg 
+35 km sørøstover fra utløpet utenfor Tårnvika inn til Straumen. Den ytre delen har flere store 
+sidearmer i Nevelsfjorden, Sjunkfjorden som går mot sørvest og Leirfjorden som går mot nordøst ved 
+Røsvika. Fra Røsvika bøyer hovedløpet av Sørfolda mot sør. Denne delen er ca. 15 km lang og har 
+to mindre sidearmer mot øst i Aspfjorden og Tørrfjorden.      
+ 
+ 
+Figur 2.1: Oversiktskart over området rundt Trollbukta (rød sirkel på øverste kart). Nederste kart: 
+Lilla kryss viser utslippsposisjonen, og tilhørende inntaksposisjoner er vist med rødt kryss. Kartet er 
+hentet fra Fiskeridirektoratet. Kartdatum: WGS84. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 7 of 30 
+Hovedløpet av fjorden varierer i bredde fra 2.5 km sør for Tårnvika til 3.5 km like utenfor Røsvika. 
+Figur 2.2 viser bunntopografien fra Røsvika og innover i de indre delene av fjorden. Sør for Røsvika 
+smalner fjorden inn til ca. 1 km bredde på det smaleste og ca. 2 km sør for innløpet til Aspfjorden, 
+før den blir gradvis bredere igjen. Sør for innløpet til Tørrfjorden er fjorden opptil 2.5 km bred. 
+Sørfolda har en terskel på ca. 200 m dyp ytterst og blir gradvis dypere innover, til innløpet av 
+Sjunkfjorden der den når et maksimalt dyp på 565 m. Videre østover blir fjorden gradvis grunnere og 
+er om lag 400 m dyp utenfor Røsvika. Sør for innløpet til Aspfjorden er det en terskel på 81 m. 2.5 km 
+sørover i fjorden er det maksimale dypet på 126 m, før det igjen blir grunnere. 
+ 
+ 
+Figur 2.2: Bunntopografi i området rundt utslippet og inntakene. Utslippsposisjon er vist med lilla 
+kryss, og posisjoner for inntak av saltvann er vist med røde kryss. Kartdatum: WGS84. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 8 of 30 
+3. Metode 
+3.1 
+Spredning og fortynning 
+ 
+Ved utslipp til en resipient er det vanlig å skille mellom to prosesser; primærfortynning og 
+sekundærfortynning (Miljødirektoratet 2013). I den umiddelbare nærheten av utslippet foregår 
+primærfortynningen. Her skjer fortynningen som regel raskt ved turbulent horisontal og vertikal 
+bevegelse drevet av utslippsvannets hastighet ut av utslippsrøret og tetthetsforskjeller mellom 
+utslippsvann og resipient. Når utslippsvannet fortynnes og tetthetsforskjellen er utjevnet, vil den 
+vertikale bevegelsen opphøre og utslippet har da nådd innlagringsdypet. Etter innlagring starter 
+sekundærfortynningen som hovedsakelig er et resultat av horisontal spredning i resipienten. 
+Sekundærfortynningen er avgjørende for hvor stort område som påvirkes av utslippet og om f.eks. 
+strandsoner kan bli påvirket. 
+ 
+Det er simulert med et utslipp på 260 m3/min. Utslippsmengde er oppgitt av kunde. Utslippsvannet 
+består av ferskvann med 1 ‰ (134 m3/min) og brakkvann med 15 ‰ (126 m3/min). Avløpsvannet 
+slippes ut på grunt vann (2 m under lavvann) ved Trollbukta. Utslipp av brakkvann og ferskvann på 
+grunt vann når raskt overflaten og vil deretter følge strømmen i fjorden og fortynnes videre. 
+ 
+I denne rapporten vil resultat fra sekundærfortynning av utslippet bli presentert. Etter 
+primærfortynningen i nærheten av utslippspunktet vil utslippsvannet følge strømmen i området og 
+gradvis fortynnes videre. 
+ 
+3.2 
+Modellering av sekundærfortynning 
+ 
+For å bestemme transport og sekundærspredning av utslippet er det laget en strøm- og 
+spredningsmodell for lokaliteten ved hjelp av programvaren Delft3D-FLOW (Deltares, 2018). 
+Delft3D-FLOW er en tredimensjonal, hydrodynamisk modell som gir strømfelt over et stort område 
+og flere dybdenivå. I modellen løses Navier-Stokes-ligningene for strømmen basert på Boussinesq-
+tilnærmelsen (Lesser, et al. 2004), sammen med ligninger som beskriver temperatur, saltholdighet og 
+spredning av utslipp. Det at modellen omfavner et stort område og kan kjøres for lange tidsperioder, 
+gjør at man får med variasjoner og unike forhold ved hver enkelt lokalitet. Tidssteget i modellen er 
+satt til 1 minutt, og turbulensparametrene er tilpasset området for å få en realistisk beskrivelse av 
+strømmen. 
+ 
+Delft3D-FLOW benytter inngangsdata fra atmosfæren, havet og ferskvannstilsig til å beregne 
+strømmen i tre dimensjoner (Delft3D-FLOW 2018). Den vertikale bevegelsen antas å være liten i 
+forhold til den horisontale slik at vertikal akselerasjon kan neglisjeres. Bevegelsen styres av 
+trykkgradienter beregnet fra variasjon i havnivå, temperatur og saltholdighet. Effektene fra 
+jordrotasjon er inkludert ved hjelp av Corioliskraften. Turbulensen i strømmen er i modellen tatt 
+hensyn til ved bruk av en såkalt k-epsilonmodell.  
+ 
+3.3 
+Spredning av partikulært utslipp 
+ 
+Sedimentering av partikulært utslipp (TOC) modelleres med D-Water Quality (D-WAQ) modulen 
+(tilhørende Delft3D-FLOW). I denne modulen løses ligninger for reaksjon, diffusjon og adveksjon 
+av sedimentene for alle tidssteg i hele domenet. Denne ligningen beregner sedimentering basert på 
+horisontale og vertikale hastigheter i tillegg til å inkludere en gradvis nedbrytning av det biologiske 
+materialet både på bunnen og mens det fremdeles er suspendert i vannmassene. 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 9 of 30 
+3.4 
+Modelloppsett og inngangsdata 
+ 
+En tredimensjonal strømmodell er laget for området i form av horisontalt rutenett rundt 
+utslippspunktet. Modellen har et horisontalt rutenett med oppløsning på 34 m × 34 m rundt 
+utslippsposisjon og gradvis avtagende oppløsning utover til 160 m × 160 m ved randsonen utenfor 
+Røsvika, og 300 m × 300 m lengst øst innerst i Tørrfjorden. Gitternettet er vist i Figur 3.4.1. 
+ 
+ 
+For å beskrive variasjon i dybden er det valgt en såkalt sigmamodell med 15 dybdelag. Dybdelagene 
+følger terrenget og varierer i tykkelse proporsjonalt med dypet (se Tabell 3.4.1). Bunndata brukt i 
+modellen er hentet fra Kartverket, og tilpasset oppløsningen i modellen ved hjelp av interpolasjon. I 
+grenseområdene er bunntopografien tilpasset dybdenivået i modellen NorKyst800, for å få en 
+konsistent beskrivelse i randsonene. 
+                 
+ 
+Figur 3.4.1: Rutenett benyttet for å modellere spredning fra Trollbukta (lilla kryss viser 
+utslippsposisjon). Kartet er hentet fra Fiskeridirektoratets kartverktøy, med kartdatum: WGS84.  
+  
+Tabell 3.4.1: Fordeling og prosentvis tykkelse av vannlag i modellen for et valgt dyp på 25 m. Nederst 
+er det i alt 10 vannlag som hver utgjør 8% av den totale dybden. 
+Vannlag 
+Tykkelse (%) 
+Tykkelse ved 25 m dyp (m) 
+Dybde (m) 
+1 
+2 
+0.5 
+0 - 0.5 
+2 
+3 
+0.8 
+0.5 - 1.3 
+3 
+4 
+1.0 
+1.3 - 2.3 
+4 
+5 
+1.3 
+2.3 - 3.5 
+5 
+6 
+1.5 
+3.5 - 5.0 
+6 - 15 
+80 
+20.0 
+5.0 - 25.0 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 10 of 30 
+Informasjon om utslippet er oppgitt av kunde og er listet i Tabell 3.4.2 – Tabell 3.4.3. Det er antatt 
+en rensegrad på 11.1 % av nitrogen, 29.6 % av fosfor og 39.3 % av TOC, som er oppgitt av kunde. 
+Andelen TOC som går til utslipp ved Trollbukta er modellert å ha gått gjennom et filter med størrelse 
+40 - 100 µm. I simuleringen av spredning av TOC må det legges til grunn en synkehastighet for 
+partiklene som baserer seg på partikkelstørrelse. Partikler med lav synkehastighet vil generelt spres 
+lenger enn partikler med høy synkehastighet og valget av synkehastighet vil dermed påvirke den 
+simulerte utstrekningen av påvirkningsområdet og mengden sedimentert TOC i en gitt posisjon. I 
+simuleringen av spredning av TOC legges det til grunn en synkehastighet på 5 m/dag (Bach, et al. 
+2012). 
+ 
+Tabell 3.4.2: Posisjoner for simulert inntak og utslipp.  
+ 
+Posisjon (N) 
+Posisjon (Ø) 
+Dyp (m) 
+Inntak 1 
+67° 22.497’ 
+15° 35.285’ 
+28 
+Inntak 2 
+67° 22.496’ 
+15° 35.351’ 
+28 
+Utslipp 
+67° 21.341’ 
+15° 35.572’ 
+3 
+ 
+Tabell 3.4.3: Data om utslippet fra Trollbukta som er benyttet i modelleringen.  
+Inngangsdata for utslipp 
+Rørdiameter for utslipp 
+3 rør x 1.2 m 
+2 rør x 1.0 m 
+Vannføring 
+4.333 m3/s = 260 m3/min 
+Saltholdighet 
+9 
+Temperatur 
+2.5 – 10.0 oC 
+Fosfor 
+128 µg/L 
+Nitrogen 
+672 µg/L 
+TOC 
+1391 µg/L 
+ 
+Den hydrodynamiske modellen er drevet av randbetingelser, det vil si tidevann, vind og 
+varmeutveksling med atmosfæren, samt ferskvannstilførsel. Inngangsdata for havet hentes fra 
+havmodellen NorKyst800 (Meteorologisk Institutt 2020, Albretsen, et al. 2011). Dette er timesdata 
+med oppløsning på 800 m × 800 m, som omfatter havnivå, strømhastighet, temperatur og 
+saltholdighet. Dataene interpoleres for å tilpasses gitternettet med høyere oppløsning i Delft3D-
+FLOW. 
+ 
+Atmosfæriske data er hentet fra Meteorologisk institutt, MEPS (Met.no 2020). Dette er data for vind, 
+temperatur, lufttrykk, luftfuktighet og skydekke, og er gitt med intervall på 3 timer og med oppløsning 
+på 2.5 km × 2.5 km. Også disse dataene interpoleres for å tilpasses gitternettet i strømmodellen.  
+ 
+Informasjon om ferskvannstilsig fra elvene i området er hentet fra Norges Vassdrags- og 
+Energidirektorat (NVE Atlas 2020) med daglig vannføring i hver elv (metode utarbeidet av Jon 
+Albretsen ved HI). Vannet blir sluppet ut i en gittercelle i modellen, og er med på å styre lagdelingen 
+i vannsøylen. Oversikt over bidrag fra elver som er inkludert i modellen er vist i Kapittel 9. For å 
+unngå ustabilitet i starten av modellkjøringen er modellen først kjørt med en oppstartsperiode på en 
+måned (desember 2019). Resultatene fra denne kjøringen er deretter brukt som inngangsverdi for den 
+endelige modellkjøringen. Etter oppstartsperioden er strømmodellen kjørt for januar 2020 til og med 
+desember 2020.  
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 11 of 30 
+4. Resultat – flytende utslipp fra Trollbukta 
+Resultat for simulering av en utslipp på 260 m3/min i Trollbukta for hele 2020 er presentert under. 
+Benyttet utslippsposisjon er vist i Figur 2.2. 
+ 
+Resultatene er vist med konsentrasjon av utslippsvann på utvalgte dager i løpet av året, og med 
+gjennomsnittsverdi for konsentrasjon for hele året. Spredningen er vist med konsentrasjonsnivå opp 
+til 10 %. Merk at nær utslippspunktene vil det kunne være korte perioder med høyere nivå. 
+Konsentrasjonen er volumandelen (%) av utslippsvann i resipienten. 
+ 
+Ut fra innholdet av oppløst nitrogen og fosfor i utslippet og fortynningsgraden av utslippsvannet, er 
+tilført mengde av disse stoffene i resipienten beregnet. Konsentrasjonene vil bli vurdert opp mot 
+Tabell 9.26 i «Klassifisering av miljøtilstand i vann» (Direktoratsgruppen vanndirektivet 2018).  
+ 
+4.1 
+Gjennomsnittlig påvirkning i overflatelaget 
+ 
+Spredningen av utslipp varierer i løpet av døgnet og påvirkes av tidevannet, vindpådraget og 
+ferskvannstilsig fra nærliggende elver. For å finne ut i hvor stor grad fjorden blir berørt av utslipp, er 
+gjennomsnittlig konsentrasjon i løpet av året, over hele modellområdet, beregnet. Merk at den 
+gjennomsnittlige påvirkningen kan avvike betydelig fra typiske øyeblikksbilder av spredningen 
+(Kapittel 4.2). 
+ 
+De gjennomsnittlige konsentrasjonene i overflaten er større utbredt enn konsentrasjonene ved bunnen. 
+I overflaten strekker utslippet seg ut av Trollbukta, forbi Ørvika og et lite stykke forbi Måsøya med 
+konsentrasjoner på ≥ 1 %. I retning innover Trollbukta mot elva Elvfrastraumvatnet synker 
+konsentrasjonene i overflaten. Ved utslippsposisjonen i Trollbukta er konsentrasjonene litt lavere i 
+overflaten (gjennomsnittlig på ca. 9 %) enn ved bunnen (> 10 %). Ved bunnen er 
+gjennomsnittskonsentrasjonene mindre utbredt enn ved overflaten, og har de høyeste 
+konsentrasjonene rundt utslippsposisjonen og i retning mot Elvfrastraumvatnet. Gjennomsnittlig er 
+konsentrasjonene på ≥ 1 % i Trollbukta, ut mot spissen av Valljorda og langs med land inn mot 
+Hellandsbukta. 
+ 
+ 
+ 
+Figur 4.1.1: Gjennomsnittlig konsentrasjon i overflaten (til venstre) og ved bunnen (til høyre) mellom 
+01.01 – 31.12 2020. Konsentrasjoner av utslippsvann har fargeskala fra 0 til 10 %, konsentrasjon av 
+nitrogen (µgN/L) er vist i midten, og konsentrasjon av fosfor (µgP/L) er vist til høyre. Utslippspunktet 
+er vist med svart prikk. Blå prikk viser inntaksposisjonene. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 12 of 30 
+4.2 
+Daglig spredning 
+ 
+Spredningen av utslipp varierer i løpet av den simulerte perioden. Spredning påvirkes av tidevann, 
+vind og ferskvannstilsig fra nærliggende elver. Figur 4.2.1 og Figur 4.2.2 viser konsentrasjonen av 
+utslippsvann ved henholdsvis overflaten og bunnen for fire utvalgte dager gjennom året. Disse dagene 
+er valgt grunnet ulike strømforhold og spredning. Konsentrasjonen er volumandelen (%) av 
+utslippsvann i resipienten.  
+ 
+Det er stor daglig variasjon i utbredelsen av konsentrasjoner ved overflaten. Den 28.01.2020 i 
+overflaten holder utslippet seg i større grad inne ved Trollbukta, mens den 23.09.2020 har utslippet 
+enten holdt seg ved bunnen i Trollbukta eller strømmet ut av Trollbukta og spredt seg forbi 
+Tørrfjorden ut av Sørfolda. Utslippet ved overflaten varierer med å ha høye konsentrasjoner (> 9 %) 
+på den sørøstlig sida av Trollbukta eller den nordvestlig sida av Trollbukta. Ved bunnen er det stort 
+sett > 10 % utslippsvann ved utslippspunktet og i de indre delene av Trollbukta. Ved flere tilfeller når 
+utslippet de grunnere områdene langs kysten mot Hellandsbukta. 
+ 
+ 
+ 
+ 
+ 
+Figur 4.2.1: Konsentrasjon av utslippsvann for overflaten og tilsvarende verdier for nitrogen og 
+fosfor, på dagene 28.01.20, 15.02.20, 23.09.20 og 15.10.20. Konsentrasjoner av utslippsvann er vist 
+med fargeskala opp til 10 %, konsentrasjon av nitrogen (µgN/L) er vist på skala i midten, og 
+konsentrasjon av fosfor (µgP/L) er vist på skala til høyre. Utslippspunktet er vist med svart prikk. 
+Inntaksposisjonene er vist med blå prikk. 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 13 of 30 
+ 
+ 
+ 
+ 
+Figur 4.2.2: Konsentrasjon av utslippsvann for bunnen og tilsvarende verdier for nitrogen og fosfor, 
+på dagene 28.01.20, 15.02.20, 23.09.20 og 15.10.20. Konsentrasjoner av utslippsvann er vist med 
+fargeskala opp til 10 %, konsentrasjon av nitrogen (µgN/L) er vist på skala i midten, og konsentrasjon 
+av fosfor (µgP/L) er vist på skala til høyre. Utslippspunktet er vist med svart prikk. 
+Inntaksposisjonene er vist med blå prikk. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 14 of 30 
+4.3 
+Konsentrasjon ved inntak  
+ 
+Tidsserier av konsentrasjon av utslippsvann ved inntakene på bunnen er vist gjennom året 2020 i øvre 
+panel i Figur 4.3.1. I tillegg er det vist konsentrasjon ved overflaten over inntakspunktene som ligger 
+på bunnen. Maksimalt kan konsentrasjonen ved bunnen nå opptil 0.7 % med en gjennomsnittsverdi 
+på 0.2 %. Ved overflaten over inntaksposisjonene er det høyere konsentrasjoner hvor det kan nå 
+maksimalt 4.3 % med en gjennomsnittlig konsentrasjon på 1.6 % (Figur 4.3.1 og Tabell 4.3.1). Det 
+er ingen tegn til opphopning av utslippsvann ved inntaksposisjonene.  
+ 
+I nedre panel i Figur 4.3.1 er konsentrasjonsfordelingen for hele året vist. Denne sier noe om 
+frekvensen av de ulike konsentrasjonene ved inntakspunktene. På bunnen ved inntakspunktene er 
+tidsandelen størst i konsentrasjonsintervallet 0.2 – 0.5 % (mørk lilla). Ved overflaten over 
+inntakspunktene er tidsandelen størst i konsentrasjonsintervallet 1.0 – 2.0 % (lys lilla). 
+ 
+ 
+Figur 4.3.1: Tidsserie av konsentrasjon av utslippsvann ved inntakene gjennom 2020 (øverste panel). 
+Fordeling av konsentrasjoner av utslippsvann ved inntakene er vist i det nederste panelet. 
+Tabell 4.3.1: Maksimal, gjennomsnittlig og median av konsentrasjon (%) ved overflaten og bunnen i 
+posisjon av inntakene til Trollbukta. 
+ 
+Konsentrasjon (%) 
+ 
+Maksimal 
+Gjennomsnitt 
+Median 
+Overflate 
+4.3 
+1.6 
+1.6 
+Bunn 
+0.7 
+0.2 
+0.2 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 15 of 30 
+Det er ingen tydelige sesongvariasjoner i konsentrasjon av utslippsvann ved inntakspunktene (Tabell 
+4.3.2).  
+ 
+Tabell 4.3.2: Gjennomsnittlig månedlig konsentrasjon (%) av utslippsvann ved overflaten og bunnen 
+i posisjon av inntakene til Trollbukta. 
+ 
+Jan 
+Feb 
+Mar 
+Apr 
+Mai 
+Jun 
+Jul 
+Aug 
+Sep 
+Okt 
+Nov 
+Des 
+Overflate 
+1.03 
+1.76 
+1.78 
+1.83 
+1.62 
+1.44 
+1.79 
+1.56 
+1.38 
+1.86 
+1.54 
+1.84 
+Bunn 
+0.11 
+0.27 
+0.32 
+0.24 
+0.23 
+0.17 
+0.28 
+0.25 
+0.23 
+0.27 
+0.23 
+0.25 
+ 
+For å se nærmere på grenseverdier for andel utslippsvann er det beregnet en persentilfordeling (Tabell 
+4.3.3). Persentilfordelingen av andel utslippsvann ved inntaksposisjonene (på 28 m dyp) viser at 95 % 
+av tiden er andelene under 0.39 %.  
+ 
+Tabell 4.3.3: Persentilfordeling av andel utslippsvann (%) ved inntakspunktene på overflaten og ved 
+bunnen 
+ 
+Konsentrasjon (%) 
+Persentil 
+Overflate 
+Bunn 
+1 
+0.4 
+0.06 
+10 
+0.9 
+0.15 
+20 
+1.1 
+0.17 
+30 
+1.3 
+0.19 
+40 
+1.4 
+0.21 
+50 
+1.6 
+0.23 
+60 
+1.7 
+0.25 
+70 
+1.9 
+0.27 
+80 
+2.1 
+0.30 
+90 
+2.4 
+0.34 
+95 
+2.7 
+0.39 
+99 
+3.3 
+0.45 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 16 of 30 
+Verdiene i Tabell 4.3.4 – Tabell 4.3.5 indikerer prosent av data i ulike konsentrasjonsintervaller med 
+ulike varigheter ved henholdsvis overflaten og bunnen for inntakspunktene. Inntakspunktene ligger 
+på bunnen og her har utslippet oftest konsentrasjon mellom 0.2 – 0.5 % (nesten 67 % av tida), og 
+disse andelene har oftest en varighet på > 7 døgn. 
+ 
+Tabell 4.3.4: Prosent (%) av data i konsentrasjonsintervall med gitt varighet ved overflaten over 
+inntakspunktene.  
+Konsentrasjon 
+(%) 
+10min – 
+30min 
+30 min – 
+1 t 
+1 t – 
+2 t 
+2 t – 
+3 t 
+3 t – 
+24 t 
+24 t – 
+7 d 
+≥ 7 d 
+Sum 
+0 - 0.1 
+0 
+0 
+0 
+0 
+0.1 
+0 
+0 
+0.1 
+0.1 - 0.2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.2 - 0.5 
+0.1 
+0.1 
+0.2 
+0.2 
+1.0 
+0 
+0 
+1.6 
+0.5 - 1 
+0.5 
+1.0 
+2 
+2.2 
+7.5 
+0 
+0 
+13.2 
+1 - 2 
+0.4 
+1.1 
+1.9 
+3.7 
+46.2 
+6.2 
+0 
+59.5 
+2 - 4 
+0.3 
+0.3 
+1.0 
+1.6 
+21.6 
+0.4 
+0 
+25.2 
+4 - 8 
+0 
+0 
+0.1 
+0 
+0 
+0 
+0 
+0.1 
+> 8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.3.5: Prosent (%) av data i andelsintervall med gitt varighet ved inntakspunktene på bunn.  
+Konsentrasjon 
+(%) 
+10min – 
+30min 
+30 min – 
+1 t 
+1 t – 
+2 t 
+2 t – 
+3 t 
+3 t – 
+24 t 
+24 t – 
+7 d 
+≥ 7 d 
+Sum 
+0 - 0.1 
+0 
+0 
+0 
+0 
+0.3 
+0.9 
+2.4 
+3.6 
+0.1 - 0.2 
+0 
+0 
+0 
+0.1 
+2.3 
+12.6 
+14.4 
+29.4 
+0.2 - 0.5 
+0 
+0 
+0.1 
+0.1 
+1.6 
+13.4 
+51.5 
+66.7 
+0.5 - 1 
+0 
+0 
+0 
+0 
+0.3 
+0 
+0 
+0.3 
+1 - 2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2 - 4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+4 - 8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+> 8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 17 of 30 
+4.4 
+Konsentrasjoner av næringssalt 
+ 
+For å kunne vurdere miljøpåvirkningen av utslippet i resipienten er konsentrasjonsnivået av nitrogen 
+og fosfor beregnet. Dette er basert på innholdsmengden av næringssaltene i utslippsvannet og 
+fortynningen i resipienten. I «Veileder for Klassifisering av miljøtilstand i vann» (Direktoratsgruppen 
+vanndirektivet 2018) er grenseverdier for ulike tilstandsklasser gitt i Tabell 9.26. Disse 
+grenseverdiene er gitt for overflatelaget, for vinter og sommer. Myndighetene har satt som mål at alle 
+vannforekomster skal ha miljøtilstand «God» eller «Svært god» (Vannforskriften, 2021). 
+ 
+Miljøtilstanden i Vann-nett for vannforekomsten Sørfolda-indre er udefinert basert på verdier av 
+nitrogen og fosfor for sommer og vinter. Denne vannforekomsten og omkringliggende 
+vannforekomster er oppgitt å ha «God» miljøtilstand ut fra andre økologiske forhold (Vann-nett.no 
+2026). Det er gjennomført 2 prøvetakninger og analyse av næringssalt i januar og februar 2025 ved 
+Trollbukta (Eurofins Norway AS, 2025a, 2025b). Maksimalverdi fra disse prøvetakningene er lagt til 
+grunn for bakgrunnsnivået for miljøtilstanden i evalueringen av påvirkningen fra utslippet fra 
+Trollbukta, se vintersverdiene i Tabell 4.4.1. I løpet av sommersesongen vil primærproduksjon 
+forbruke næringssalter og senke konsentrasjonene av fosfor og nitrogen. Av den grunn er 
+bakgrunnsverdiene for sommer satt til tilstand «Svært god» da vintersverdiene også er satt til «Svært 
+god» ut ifra prøvetakningene. 
+ 
+Modelleringen tar ikke hensyn til primærproduksjon og resultatene fra modelleringen er slik et 
+konservativt estimat. Konsentrasjonen av nitrogen og fosfor i utslippsvannet avhenger av rensegraden 
+som blir valgt for renseanlegget. Resultatene i denne rapporten baserer seg på en rensing av nitrogen 
+på 11.1 % og en rensing av fosfor på 29.6 %. Spredningen av næringssalt følger samme mønster som 
+utslippet. Ved denne rensegraden vil en konsentrasjon av avløpsvann på 10 % i overflaten tilsvare en 
+økning i konsentrasjonen av næringssaltene på 67.2 µgN/L og 12.8 µgP/L. 
+ 
+I vurderingen av påvirkningen fra utslippet ved Trollbukta på konsentrasjonen av næringssalt i fjorden 
+legges tilførte næringssalt fra utslippet til gjennomsnittsverdiene for bakgrunnsnivået (Tabell 4.4.1). 
+Denne summen gir informasjon om det er forventet at den tilførte mengden næringssalt endrer 
+tilstandsgraden for næringssalt i fjordene. 
+ 
+Tabell 4.4.1: Oversikt over gjennomsnittlig tilstandsgrad av miljøtilstanden for vannforekomsten ved 
+utslippene for Trollbukta. 
+ 
+Tilstand sommer 
+Gjennomsnitt 
+sommer 
+Tilstand vinter 
+Gjennomsnitt 
+vinter 
+Nitrogen 
+«Svært God» 
+290 µg/L 
+«Svært God» 
+170 µg/L 
+Fosfor 
+«Svært God» 
+13.75 µg/L 
+«Svært God» 
+14.00 µg/L 
+ 
+For nitrogen ble det ingen endringer i miljøtilstanden, både om sommeren og vinteren. Disse 
+miljøtilstandene hadde utgangspunkt «Svært God» og beholder miljøtilstanden med utslippet (Figur 
+4.4.1). 
+ 
+Med utgangspunkt i tilstandsgrad «Svært God» for fosfor er det et område ved utslippsposisjonen 
+som endrer miljøtilstanden til «God» eller «Moderat» (Figur 4.4.1). Størst påvirkning forekommer i 
+området av utslippet og innover i Trollbukta.  
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 18 of 30 
+ 
+ 
+ 
+ 
+Figur 4.4.1: Kart over tilstandsklasse for summen av gjennomsnittlig bakgrunnsnivå og 
+gjennomsnittlig tilført mengde næringssalter. Utslippspunktet er vist med svart prikk. Blå prikk viser 
+inntaksposisjonene. 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 19 of 30 
+5. Resultat – partikulært utslipp fra Trollbukta 
+ 
+5.1 
+Bunnpåvirkning etter ett år med produksjon 
+ 
+I produksjonen ved settefiskanlegget vil det bli sluppet ut finpartikler bestående av organisk materiale 
+(TOC). Figur 5.1.1 viser utbredelsen av påvirkningsområdet for modellering uten (oppe) og med 
+(nede) biologisk nedbrytning av utslippsmaterialet. Påvirkningsområdet er her definert som en 
+påvirkning ned til 2 g/m2 i løpet av ett år. En påvirkning på 2 g/m2 er lite, men likevel inkludert for å 
+vise full utstrekning av påvirkningsområdet. I simuleringen uten biologisk nedbrytning er 
+påvirkningsområdet (> 2 g/m2) utbredt i Trollbukta og nordover til forbi Hellandsholmen og opp til 
+Ørvika, og derfra langs med land på den østlige delen av fjorden. I området rundt utslippsposisjonen 
+kan akkumuleringen bli rundt 1000 g/m2. Når biologisk nedbrytning inkluderes reduseres 
+utstrekningen til påvirkningsområdet (> 2 g/m2). Store deler av Trollbukta og fram til 5 meters 
+bunnkonturen blir berørt. I området rundt utslippsposisjonen kan akkumuleringen bli rundt 300 g/m2 
+i simulasjon med biologisk nedbrytning. 
+ 
+ 
+ 
+Figur 5.1.1: Bunnpåvirkning uten biologisk nedbrytning (oppe) og bunnpåvirkning med biologisk 
+nedbrytning (nede). Svarte prikk viser utslippsposisjonen. Blå prikk viser inntaksposisjonene.
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 20 of 30 
+5.2 
+Akkumulasjon ved inntaksposisjon 
+ 
+Tidsserier av akkumulasjonen av organisk materiale ved inntaksposisjonene er vist i Figur 5.1.1 for 
+med (lyseblå linje) og uten (mørkeblå linje) biologisk nedbrytning. Uten biologisk nedbrytning øker 
+påvirkningen jevnt med produksjonen gjennom året til maksimalt 1.66 g/m2. Når biologisk 
+nedbrytning av det biologiske materialet inkluderes reduseres påvirkningen til maksimalt 0.33 g/m2. 
+I begge tilfeller er det lav belastning fra partikler.  
+ 
+Figur 5.2.1: Tidsserie av organisk belastning uten (mørkeblå linje) og med (lyseblå linje) biologisk 
+nedbrytning ved inntakene. 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 21 of 30 
+6. Oppsummering 
+ 
+6.1 
+Flytende utslipp 
+ 
+Utslippet spres og fortynnes ut over hele den indre delen av fjorden ved lokaliteten. Det meste av 
+utslippet fra anlegget i Trollbukta spres utover i fjorden i de øverste vannlagene på østsiden av 
+fjorden. Utslippet transporteres opptil 2.0 km nordover fra inntaksposisjonene før konsentrasjonen 
+kommer under 1.0 %. På vestsiden av fjorden er konsentrasjonen av utslipp mindre enn 1.0 % når det 
+er transportert mer enn 500 m fra utslippspunktet. 
+ 
+Langs bunn opptrer de høyeste konsentrasjonene hovedsakelig langs land innerst i fjorden, og utover 
+langs østsiden av fjorden. Maksimal konsentrasjon langs bunn oppnås i umiddelbar nærhet av 
+utslippspunktet. Ved inntaksposisjonene er konsentrasjonen langs bunnen på maksimalt 0.7 %. Det 
+er lave konsentrasjoner av utslippsvann utover i fjorden i de dypeste områdene. De høyeste 
+konsentrasjonene opptrer i perioder med lite ferskvann i fjorden. I de dypere områdene på vestsiden 
+av fjorden er konsentrasjonen < 1.0 %. På østsiden av fjorden ligger gjennomsnittskonsentrasjonen 
+på rundt 1.0 % opptil 2.5 km nord for inntakspunktene. 
+ 
+Tilførselen av nitrogen er ikke beregnet å påvirke miljøtilstanden i fjorden, og vil beholde 
+miljøtilstanden «Svært God» uavhengig av om det er sommer eller vinter. For fosfor vil 
+tilstandsklassen endres fra «Svært God» til «God» eller «Moderat» i de indre delene av Trollbukta i 
+retning mot Elvfrastraumvatnet, både om sommeren og vinteren. Utover Trollbukta vil 
+tilstandsklassen ikke endres for både nitrogen og fosfor. 
+ 
+6.2 
+Partikulært utslipp 
+ 
+I simuleringen uten biologisk nedbrytning er påvirkningsområdet (> 2 g/m2) utbredt i Trollbukta og 
+nordover til forbi Hellandsholmen og opp til Ørvika, og derfra langs med land på den østlige delen 
+av fjorden. I området rundt utslippsposisjonen kan akkumuleringen bli rundt 1000 g/m2. 
+ 
+Når biologisk nedbrytning inkluderes reduseres utstrekningen til påvirkningsområdet (> 2 g/m2). 
+Store deler av Trollbukta og fram til 5 meters bunnkonturen blir berørt. I området rundt 
+utslippsposisjonen kan akkumuleringen bli rundt 300 g/m2. 
+ 
+Ved inntaksposisjonene øker påvirkningen jevnt med produksjonen gjennom året til maksimalt 
+1.66 g/m2 for tilfellet uten biologisk nedbrytning. Når biologisk nedbrytning av det biologiske 
+materialet inkluderes reduseres påvirkningen til maksimalt 0.33 g/m2. I begge tilfeller er det lav 
+belastning fra partikler.  
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 22 of 30 
+7. Vedlegg – Strøm resultater 
+7.1 
+Strømodellering ved utslippspunkt 
+ 
+Tabell 7.1.1 viser modellerte strømdata fra en posisjon nær strømmålerposisjonen og utslippspunktet, 
+markert med lilla kryss ved Trollbukta i Figur 2.1. Gjennomsnittshastigheten er 18.4 cm/s ved 
+overflaten, og avtar raskt nedover i overflatelaget til 10.1 cm/s ved 0.7 m dyp og 6.0 cm/s ved 1.0 m 
+dyp. Strømmen øker igjen ned til 1.9 m dyp for så å avta ned mot bunnen til gjennomsnittlig 2.3 cm/s. 
+Den signifikante makshastigheten er 28.6 cm/s i overflaten og på 4.4 cm/s ved bunnen. 
+  
+Strømrosene viser at den dominerende retningen er mot NØ ut av Trollbukta ved overflate og ned til 
+1.0 m dyp. Mellom 1.0 m og 1.9 m skifter strømmen retning fra utover til innover Trollbukta mot SV, 
+og holder seg innover ned til bunnen. Dette tyder på at sirkulasjonen i fjorden er drevet som et 
+ferskvannspåvirket tolagssystem, med innstrømmende vann i dypet og utstrømmende vann nær 
+overflaten. 
+ 
+Tabell 7.1.1: Strømverdier fra simuleringen ved Trollbukta (lilla kryss i Figur 2.1) for perioden 
+01.01.20 – 31.12.20.  
+Dyp (m) 
+Overflate 
+0.7 
+1.0 
+1.9 
+2.4 
+Nær bunn 
+Gjennomsnitt (cm/s) 
+18.4 
+10.1 
+6.0 
+8.0 
+5.3 
+2.3 
+Sign. maks (cm/s) 
+28.6 
+16.5 
+11.1 
+14.5 
+10.1 
+4.4 
+Sign. min (cm/s) 
+9.8 
+4.9 
+2.0 
+2.6 
+1.3 
+0.6 
+Std. avvik (cm/s) 
+9.0 
+5.7 
+4.7 
+5.4 
+4.0 
+1.8 
+% < 1 cm/s 
+0.2 
+0.5 
+5.9 
+1.7 
+12.1 
+30.0 
+% > 30 cm/s 
+11.4 
+0.9 
+0.2 
+0.0 
+0.0 
+0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 23 of 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 7.1.1: Strømroser av simulert strøm nær strømmåleposisjonen (lilla kryss i Figur 2.1) for 
+perioden 01.01.20 – 31.12.20. Dypet er gitt over fargeskalaen.  
+ 
+ 
+ 
+ved overflaten 
+bunn 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 24 of 30 
+7.2 
+Modellert strøm i området rundt lokaliteten 
+ 
+Det er registrert strøm i hele det modellerte området for hver sjette time i simuleringsperioden. Ut fra 
+dette er den effektive transporthastigheten beregnet. Effektiv transporthastighet er et mål på den 
+gjennomsnittlige styrken og retningen til strømmen i hele vannsøylen gjennom måleperioden. I Figur 
+7.2.1 er effektiv transporthastighet vist ved overflaten (oppe) og ved bunnen (nede).  
+ 
+I overflaten er den dominerende strømmen i retning ut av Sørfolda. I nærheten av Trollbukta og 
+Sørfoldbukta er det høyere strømhastigheter i overflaten grunnet ferskvannsavrenning fra 
+Elvfrastraumvatnet. Ved bunnen er det generelt lavere hastigheter og har generelt en svakere strøm i 
+retning innover fjorden.  
+ 
+ 
+ 
+Figur 7.2.1: Effektiv transporthastighet ved overflaten (oppe) og ved bunnen (nede). 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 25 of 30 
+7.3 
+Modellert strøm sammenlignet med målinger 
+ 
+Det er utført strømmålinger ved Trollbukta i én periode; 27.03.25 - 07.05.25 i strømmålerposisjon er 
+vist med lilla kryss i Figur 2.1 (Åkerblå AS 2025). Det var ikke målt trykk for måleren ved overflaten, 
+og ut ifra riggoppsett har den stått på ca. 1.0 m dyp. Måleren ved bunndyp har stått på gjennomsnittlig 
+2.6 m (refereres til 3 m i strømrapporten). Simulasjonen dekker ikke måleperioden for målingene tatt 
+ved strømmålerposisjonene og målingene sammenlignes derfor med modellert strøm i samme 
+tidsperiode i 2020 (Tabell 7.3.1). 
+ 
+Generelt stemmer modellert strøm bra med målt strøm under måleperioden. Strømmen i modellen er 
+litt høyere ved 0.7 m dyp (i gjennomsnitt 1.3 cm/s) enn observasjonene på antatt 1.0 m dyp for 
+sammenligningsperioden (Tabell 7.3.1). Gjennomsnittlig strømhastighet i modellen på 2.4 m dyp 
+(5.0 cm/s) er 0.1 cm/s lavere enn strømmålingene på 2.6 m dyp (5.1 cm/s). Strømmålingene har 
+høyere andel målinger < 1 cm/s på 1.0 m dyp i forhold til modelleringen på 0.7 m dyp. Derimot på 
+bunndyp har modelleringen høyere andel målinger < 1 cm/s på 2.4 m dyp i forhold til strømmålingene 
+på 2.6 m dyp. 
+ 
+De dominerende strømretningene ved overflaten er mot N/NØ og S i målingene, mens modelleringen 
+er ensrettet mot NØ (Figur 7.3.1). Ved bunnen har strømmen retning mot SV i modellering og mot 
+SØ/S i målingene. I alt er det en god likhet ved at strømmen går i all hovedsak ut av fjorden i 
+overflatelaget og strømmer inn i fjorden ved bunndybdene, i både målingene og modelleringen. 
+ 
+Strømretningen og ulikhetene i strømhastighetene kan være et resultat av ulik måleperiode og 
+komplisert bunn- og landtopografi i området. 
+ 
+Tabell 7.3.1: Målte og simulerte strøm i posisjon av strømmåleren markert med lilla kryss i Figur 2.1 
+(Åkerblå AS 2025).  
+ 
+Målinger 27.03.25 - 07.05.25 
+Simulering 27.03.20 - 07.05.20 
+Dyp 
+1.0 m 
+2.6 m 
+0.7 m 
+2.4 m 
+Gjennomsnitt (cm/s) 
+7.2 
+5.1 
+8.5 
+5.0 
+Signifikant maks (cm/s) 
+12.7 
+7.9 
+12.8 
+9.6 
+Signifikant min (cm/s) 
+2.9 
+2.5 
+4.7 
+1.3 
+Standardavvik (cm/s) 
+5.1 
+2.5 
+4.1 
+3.8 
+< 1 cm/s (%) 
+1.9 
+2.6 
+0.5 
+13.1 
+> 30 cm/s (%) 
+0.3 
+0 
+0.1 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 26 of 30 
+Målinger 27.03.25 - 07.05.25 
+Simulering 27.03.20 - 07.05.20 
+ 
+ 
+ 
+ 
+Figur 7.3.1: Sammenligning av strømrose fra strømmålinger i 2025 (venstre kolonne) (Åkerblå AS 
+2025) med strømroser fra simulering ved tilsvarende dyp for tilsvarende periode i 2020 (høyre 
+kolonne). Sammenligningen gjelder for observasjonene ved lilla kryss i strømmåleposisjon i Figur 
+2.1. 
+ 
+Grunner til avvik mellom målinger og modellresultater: 
+ 
+• Forskjellen mellom målt og simulert strømretning kan forklares delvis ved ulik periode for 
+målinger og simulering for strømmåleposisjon. Det er forskjellig værforhold fra år til år, som 
+blant annet kan gir forskjellig tilførsel av ferskvann i fjorden. Det er ikke ventet at strømmen 
+i ulike tidsperioder vil ha lik karakter.  
+• Simuleringene har en oppløsning på 34 m x 34 m (og grovere) og det kan være variasjoner i 
+strømmen innenfor denne skalaen som strømmodellen ikke fanger opp. Også i tid er det 
+variasjon i både strømhastighet og retning, så det er ikke forventet at en modell stemmer 
+eksakt både i tid og rom.  
+• Kompliserte bunnforhold: Størst avvik kan forventes å opptre i måleposisjoner som er nært 
+land og hvor det er relativt komplisert batymetri. Målepunktet ligger i posisjon over et grunt 
+område med bunndybder på omkring 2 til 6 m som ikke er oppmålt. En slik bunntopografi vil 
+føre med seg variasjoner i strøm over ganske korte avstander. 
+ 
+ 
+ved 2.6 m: 
+ved 1.0 m: 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 27 of 30 
+8. Vedlegg - Havnivå 
+Strømmen i simuleringene blir blant annet drevet av havnivå og en sammenligning med observasjoner 
+er med på å evaluere modellytelsen. Kartverkets nærmeste observasjonspunkt ligger i Bodø, 52.2 km 
+V for Trollbukta (Figur 8.1). Tidevann justert med 5 minutter og høydefaktor på 1.04 ift. observert 
+værbidrag fra Bodø. 
+Det er noe avvik mellom modellresultatene og målingene, men ikke mer enn hva som er forventet 
+med modellering av strømforhold og tidevann. Et utsnitt av tidsserien viser at vannstanden i modellen 
+veksler mellom å være litt høyere og lavere enn observert vannstand (Figur 8.2). Forskjellen mellom 
+målt og simulert vannstand for hele simuleringsperioden er beregnet til å være 10 % i gjennomsnitt, 
+der modellen overestimerer tidevannet. Det er ikke ventet at denne forskjellen har signifikant 
+betydning for strømmodelleringen ved lokaliteten. 
+ 
+ 
+Figur 8.1: Oversiktskart over distansen mellom Bodø og Trollbukta. Punkt for vannstandsmåling i 
+Bodø er vist med rød prikk og punkt med korreksjon vist med gul prikk. Kartet er hentet fra 
+Fiskeridirektoratets kartverktøy med datum WGS84. 
+ 
+Figur 8.2: Havnivå ved strømmåleposisjon ved Trollbukta i perioden 31.05.2020 - 09.07.2020. Svart 
+linje er resultatene fra modellering. Rød prikket linje er tidevannstabell. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 28 of 30 
+9. Vedlegg - Ferskvannstilsig 
+Tilførsel av ferskvann i overflaten er med på å drive sirkulasjonen i en fjord, og vassdrag som tilfører 
+ferskvann til det modellerte området er markert i Figur 9.1.  
+ 
+ 
+Figur 9.1: Oversikt over vassdrag som bidrar med ferskvann i modellen. Utslippsposisjonen er 
+markert med lilla kyss.  
+Tidsserie av vannføring i elvene som er inkludert i modellen er vist i Figur 9.2.  
+ 
+ 
+Figur 9.2: Vannføring i løpet av desember 2019 og gjennom hele 2020 fra de største elvene i området.  
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 29 of 30 
+10. Vedlegg - Usikkerhetsvurdering 
+Usikkerheter i resultater fra modellering kommer fra usikkerhet i inngangsdata til modellene og fra 
+modellene selv. Modellresultatene blir sjekket opp mot målinger for verifisering og kalibrering, og 
+vurdert hvorvidt de er egnet til videre bruk eller ikke. 
+ 
+10.1 Inngangsdata for strømmodell 
+ 
+Usikkerhetsmomenter i inngangsdata kommer fra: 
+ 
+• Værdata 
+• Randbetingelser i havnivå, strøm, saltholdighet og temperatur   
+• Bunndata 
+• Synkehastighet for det partikulære utslippet 
+• Ferskvannstilsig og regulerte vassdrag 
+ 
+Usikkerhetene er fanget opp ved å modellere strømforholdene i et stort område rundt utslippspunket 
+med en høyere oppløsning i nærheten av utslippspunkt.  Initialverdier for både hav og atmosfære er 
+interpolert fra et gitter med lavere oppløsning, noe som vil føre med seg usikkerhet. Flere av elvene 
+i området er regulerte vassdrag, og dette er ikke tatt hensyn til i modellen. 
+ 
+10.2 Strømmodell 
+ 
+Det kan være variasjon innenfor rutenett som ikke er fanget opp av modellen. 3D-modellen har en 
+oppløsning på omtrent 34 m x 34 m (og grovere) horisontalt i 15 dybdevarierende lag med størst 
+variasjon ved overflaten og nær bunnen. Havstrømmen kan være mer kompleks enn det som fanges 
+opp i modellen. Høyere oppløsning ved overflaten er benyttet for å få modellert sjiktningen i 
+vannlagene detaljert. Nær bunnen er det finere oppløsning enn midt i vannsøylen, men særlig i 
+områder med komplisert og varierende bunntopografi er det ventet at dette vil medføre en usikkerhet.  
+ 
+Med en lokalitet over ett kupert terreng er det vanskelig å fange strømmønsteret nær bunn tilstrekkelig 
+ved å bare se på strøm i et punkt. Spesielt vanskelig er bunnstrømmen, som endres mye over korte 
+avstander på grunn komplisert bunntopografi. Dette gjør det ekstra viktig å modellere strømmen med 
+høy oppløsning over et større område, og ikke bare bruke punktmålinger.  
+ 
+10.3 Modellert spredning  
+ 
+I spredningsmodellen er det partikulære utslippet karakterisert etter synkehastigheter som er uendret 
+med tid. Flokkulering (sammenklumping) av materiale er heller ikke tatt hensyn til i modellen. I 
+tilfellet uten biologisk nedbrytning kan det forventes at modellen overestimerer massen av 
+bunnsedimenter. I simuleringen med biologisk nedbrytning benyttes det en konstant 
+nedbrytningsfaktor for det biologiske materialet. Dette er en eksponentiell faktor slik at gammelt 
+materiale vil brytes saktere ned enn nylig sedimentert materiale. Nedbrytningen blir ikke begrenset 
+av en eventuell oksygenmangel.  
+ 
+Modellert spredning av utslipp: Trollbukta 
+ DNV Aquaculture and Ocean Health AS 
+ 
+Side 30 of 30 
+11. Referanser  
+Åkerblå AS. 2025. «Strømrapport. Måling av overflate- (1m) og bunnstrøm (3m) ved Trollbukta i 
+mars - mai 2025.» 
+Albretsen, Jon, Ann Kristin Sperrevik, Andrè Staalstrøm, Anne D. Sandvik, Frode Vikebø, og Lars 
+Asplin. 2011. NorKyst-800 Repost No.1 User Manual and technical descriptions. Bergen: 
+Fisken og Havet, Havforskningsinstituttet. 
+Bach, Lennart Thomas, Ulf Riebesell, Scarlett Sett, Sarah Febiri, Paul Rzepka, og Kai Georg Schulz. 
+2012. An approach for particle sinking velocity measurements in the 3-400 um size range and 
+considerations on the effect of temperature on sinking rates. Springer, Marine Biology. 
+Delft3D-FLOW. 
+2018. 
+Delft3D 
+Open 
+Source 
+Community. 
+24 
+01. 
+https://content.oss.deltares.nl/delft3d/manuals/Delft3D-FLOW_User_Manual.pdf. 
+Direktoratsgruppen vanndirektivet . 2018. Klassifisering av miljøtilstand i vann.  
+Eurofins Norway AS. 2025a. Analyserapport. AR-25-MM-015405-01. Eurofins Environment Testing 
+Norway AS. 
+Eurofins Norway AS. 2025b. Analyserapport. AR-25-MM-021134-01. Eurofins Environment Testing 
+Norway AS. 
+Klima- og miljødepartementet, Olje- og energidepartementet. 2021. Lovdata.no. Funnet 2022. 
+Lesser, G P, J A Roelvink, J.A.T.M. van Kester, og G. S. Stelling. 2004. «Development and validation 
+of a three-dimensional morphodynamic model.» Coastal Engineering.  
+Met.no. 2020. MetCoOp Ensemble Prediction System. http://thredds.met.no/thredds/metno.html. 
+Meteorologisk Institutt, Havforskningsinstituttet. 2020. ROMS NorKyst800m coastal ocean fields. 
+http://thredds.met.no/thredds/fou-hi/norkyst800m.html. 
+Miljødirektoratet. 2013. «Veileder for fastsetting av innblandingssoner.» 
+NVE Atlas . 2020. https://atlas.nve.no/. 
+Vann-nett.no. 2026. Vannforekomst. Funnet 2026.

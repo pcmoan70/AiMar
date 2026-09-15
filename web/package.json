@@ -14,7 +14,8 @@
     "fetch-fishhealth": "node scripts/fetch-fishhealth.mjs",
     "gen-operator-colours": "node scripts/gen-operator-colours.mjs",
     "fetch-cases": "node scripts/fetch-cases.mjs",
-    "fetch-deleted": "node scripts/fetch-deleted.mjs"
+    "fetch-deleted": "node scripts/fetch-deleted.mjs",
+    "copy-doc-text": "node scripts/copy-doc-text.mjs"
   },
   "dependencies": {
     "@noble/hashes": "^2.4.0",

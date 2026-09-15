@@ -1,0 +1,1199 @@
+﻿Framsenteret | Postboks 6606 Stakkevollan | 9296 Tromsø | +47 777 50 300 | www.akvaplan.niva.no 
+ 
+ 
+ 
+Forundersøkelse ved Bjørnøya (34997), 2023 
+Lofoten Sjøprodukter AS 
+ 
+Akvaplan-niva AS Report: 2023 64851.03         
+ 
+ 
+Forundersøkelse ved Bjørnøya (34997), 2023         
+ 
+ 
+Forfatter(e) 
+ 
+Kari Elisabeth Justad 
+ 
+Dato    
+ 
+23.11.2023 
+Rapport nr. 
+ 
+ 2023 64851.03     
+Antall sider  
+ 
+25 
+Distribusjon   
+Gjennom kunde 
+Kunde  
+ 
+Lofoten Sjøprodukter AS 
+Kontaktperson 
+Roger Mosseng 
+ 
+ 
+ 
+Sammendrag 
+Det er gjennomført en forundersøkelse i henhold til NS9410:2016, i forbindelse med søknad om 
+utvidelse av anleggskonfigurasjon og økning i MTB på lokaliteten Bjørnøya (34997) i Bodø 
+kommune. Forundersøkelsen er basert på bunnkartlegging, strømmålinger, miljøundersøkelser 
+med B- og C-metodikk.  
+Antall stasjoner til undersøkelsen med C-metodikk og plassering av disse tilfredsstiller krav til 
+forundersøkelser med MTB på ≤5999 tonn iht. NS9410:2016, tabell 4. Overgangssonen er estimert, 
+og stasjonsnett for fremtidig B- og C-undersøkelser er omtalt. 
+ 
+Godkjenning 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gyda Wuttudal Lorås  
+ 
+ 
+ 
+ 
+Rikke Stabell 
+Prosjektleder   
+ 
+ 
+ 
+ 
+ 
+Kvalitetskontroll 
+ 
+©2023 Akvaplan-niva AS. The report may only be reproduced in its entirety. Copying of partial content (texts, 
+figures, table, conclusions, etc.) or other methods of publication is only permitted after obtaining written 
+consent from Akvaplan-niva AS. 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 3 av 25 
+Innholdsfortegnelse 
+FORORD ....................................................................................................................... 4 
+1 OPPSUMMERINGSTABELL FORUNDERSØKELSE .......................................................... 5 
+1.1 Oppsummering av forundersøkelse ........................................................................ 5 
+1 
+INNLEDNING......................................................................................................... 6 
+1.1 
+Bakgrunn og formål ........................................................................................ 6 
+1.2 
+Lokalitet ......................................................................................................... 6 
+1.3 
+Drift og endringer ........................................................................................... 7 
+1.4 
+Nåværende og tidligere undersøkelser .............................................................. 8 
+2 
+BUNNKARTLEGGING ........................................................................................... 10 
+2.1 
+Dybdekoter ................................................................................................... 10 
+2.2 
+Substrattype.................................................................................................. 10 
+2.3 
+Dybdekart i 3D .............................................................................................. 11 
+3 
+STRØMMÅLING ................................................................................................... 12 
+4 
+UNDERSØKELSE TYPE B ....................................................................................... 13 
+4.1 
+Stasjonsplassering ......................................................................................... 13 
+4.2 
+Resultater ..................................................................................................... 14 
+5 
+UNDERSØKELSE TYPE C ....................................................................................... 15 
+5.1 
+Faglig program ............................................................................................. 15 
+5.2 
+Resultater C-undersøkelse .............................................................................. 16 
+5.2.1 
+Faunaindekser og økologisk tilstandsklassifisering ..................................... 16 
+5.3 
+Resultater referansestasjon ............................................................................ 19 
+5.4 
+Hydrografi og oksygen ................................................................................... 19 
+5.5 
+Kornfordeling ............................................................................................... 20 
+5.6 
+Kjemiske parametere ..................................................................................... 20 
+6 
+SAMMENFATTENDE VURDERINGER .................................................................... 21 
+7 
+REFERANSER ....................................................................................................... 24 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 4 av 25 
+Forord  
+Akvaplan-niva har gjennomført en forundersøkelse ved oppdrettslokaliteten Bjørnøya ifm. 
+oppdretters søknad om utvidelse av anleggskonfigurasjon og økning MTB. Oppdragsgiver har 
+vært Lofoten Sjøprodukter AS. Undersøkelsen inngår i selskapets miljøovervåking av bunn-
+påvirkningen fra anlegget. 
+Presenterte 
+resultater 
+fra 
+B- og C-undersøkelse, 
+samt 
+vurdering 
+av framtidig 
+stasjonsplassering, er gjort etter akkrediterte metoder (test 079). Øvrig innhold i rapporten 
+dekkes ikke av akkrediteringen.  
+ 
+ 
+Tromsø, 23/11/2023 
+ 
+Gyda Wuttudal Lorås 
+Prosjektleder  
+ 
+Akvaplan-niva 2023 64851.03     
+Side 5 av 25 
+1 Oppsummeringstabell forundersøkelse 
+1.1 Oppsummering av forundersøkelse 
+Informasjon om oppdraget 
+Tittel: 
+Forundersøkelse ved Bjørnøya (34997), 2023    
+Rapport nr.: 
+2023 64851.03     
+Dato rapport: 
+23.11.2023 
+Lokalitets nr.: 
+34997  
+Lokalitetsnavn: 
+Bjørnøya 
+MTB-tillatelse: 
+2340 tonn / søknad om 4548 tonn  
+Kartkoordinater 
+(anlegg): 
+67ᵒ24.984' N / 
+14ᵒ25.720' Ø (gammel) 
+67ᵒ24.986' N /  
+14ᵒ25.858' Ø (ny) 
+Fylke: 
+Nordland  
+Kommune: 
+Bodø 
+Oppdragsgiver: 
+Lofoten Sjøprodukter AS 
+Kontaktperson: 
+Roger Mosseng 
+ 
+Bakgrunnen for undersøkelsen 
+Produksjonsstatus ved undersøkelsesdato  
+Ny lokalitet:  
+☐ 
+Merknad: Forundersøkelse i 
+forbindelse med søknad om 
+endring i anleggskonfigurasjon 
+og økt MTB.   
+Stående biomasse: 
+0 tonn  
+Endring MTB 
+☒ 
+Produsert mengde: 
+0 tonn  
+Arealendring 
+☒ 
+Utfôret mengde: 
+0 tonn  
+ 
+Leverandører  
+Dato 
+Bunnkartlegging 
+Akvaplan-niva AS (Pedersen, 2023) 
+26.10.2023 
+Strømmålinger 
+Akvaplan-niva AS (Eriksen, 2014; 2015) 
+06.02.2014 – 06.03.2014, 
+17.04.2015 – 16.05.2015 
+ 
+B - metodikk – Hovedresultater, undersøkelsesdato: 22.10.2022, 17.04.2023 
+Parametergruppe  
+Indeks 
+Tilstand 
+Bløtbunn: 
+58 % 
+Hardbunn: 
+42 % 
+Gr. II. pH/Eh 
+0,87 
+1 
+Videre overvåking i driftsfasen med B-
+metodikk er hensiktsmessig. 
+☒ 
+Gr. III. Sensorisk 
+0,21 
+1 
+GR. II + III 
+0,45 
+1 
+Videre overvåking i driftsfasen med 
+alternativ metodikk er hensiktsmessig. 
+☐ 
+Lokalitetstilstand (NS 9410:2016): 
+1 
+ 
+ 
+ 
+ 
+C - metodikk - Hovedresultat bløtbunnsfauna, undersøkelsesdato: 24.04.2023 
+Faunaindeks nEQR (Veileder 02:2018 - rev 2020) 
+Økologisk tilstandsklassifisering (Veileder 02:2018 - rev 
+2020) 
+Fauna C1 (innerst) 
+0,775 
+Fauna C1 (innerst) 
+Klasse II 
+Fauna C2 (ytterst) 
+0,847 
+Fauna C2 (ytterst) 
+Klasse I 
+Fauna C3 
+0,814 
+Fauna C3 
+Klasse I 
+Fauna C4 (dypområde) 
+0,842 
+Fauna C4 (dypområde) 
+Klasse I 
+Fauna C5  
+0,860 
+Fauna C5  
+Klasse I 
+Fauna Cref 
+0,819 
+Fauna Cref 
+Klasse I 
+Dato feltarbeid: 
+24.04.2023 
+Dato rapport: 
+23.11.2023 
+Merknader til andre resultater (sediment, pH/Eh, oksygen)  
+TOC i klasse I på to stasjoner 
+og klasse II fire stasjoner.  
+Kobber i klasse I (C1) 
+pH/Eh ga poeng 0. 
+O2-forholdene var gode 
+gjennom hele vannsøylen. 
+ 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 6 av 25 
+1 Innledning 
+1.1 Bakgrunn og formål  
+Formålet med undersøkelsen er å dokumentere bunnforholdene i anleggs- og 
+overgangssonen for det planlagte anlegget, og den er en referanse for sammenligning med 
+senere undersøkelser. Forundersøkelsen gir grunnlag for plassering av stasjoner for 
+overvåkning med B- og C-undersøkelser. Prøvestasjonene til C-undersøkelse skal ligge i 
+området fra anleggssonen til ytterkant av overgangssonen og plasseres slik at de dekker 
+områder med størst mulig risiko for påvirkning. Antall stasjoner og veiledende avstand fra 
+akvakulturanlegg til stasjonen i ytterkant av overgangssonen (C2) er gitt i NS 9410:2016 (Tabell 
+1). Forundersøkelsen inkluderer en referansestasjon som ikke skal inngå i regulær 
+overvåkning. Referansestasjonen skal plasseres minst 1 km fra anlegget i et område med 
+tilsvarende bunntype og forhold som det området som dekkes av forundersøkelsen.  
+Tabell 1. Veiledende antall prøvestasjoner og veiledende avstand fra akvakulturanlegget til ytterste prøvestasjon 
+for C-undersøkelsen på grunnlag av MTB i tonn på lokaliteten (NS 9410: 2016). 
+MTB på lokaliteten (tonn) 
+Veiledende avstand fra akvakulturanlegget 
+til ytterste prøvestasjon (C2) 
+Veiledende antall stasjoner for C-
+undersøkelsen 
+≤1999 
+300 
+3 
+2000 til 3599 
+400 
+4 
+3600 til 5999 
+500 
+5 
+≥6000 
+500 
+6 
+ 
+Undersøkelsen er gjennomført iht. NS 9410:2016 kapt. 5, og "Veiledning til krav om 
+forundersøkelser 
+i 
+henhold 
+til 
+NS9410:2016 
+i 
+forbindelse 
+med 
+søknad 
+om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark" versjon 1, datert 04.04.2018. 
+Undersøkelsen inngår i oppdretters miljøovervåking av bunnpåvirkning fra anlegget.  
+ 
+1.2 Lokalitet 
+Lokaliteten er plassert nord for Bodø, på østsiden av øyen Landegode. Lokaliteten ligger i 
+Landegodegjorden, nære øyen Landegode. Bunnen skråner jevnt og noe bratt nedover på 
+anleggets sørøstlige side, ut mot dyp på over 200 meter sentralt i fjorden. Dypet i det planlagte 
+anleggsområdet varierer fra ca. 50 til 144 meter. Det er ingen terskeldannelser mellom 
+lokaliteten og største dyp i resipienten. 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 7 av 25 
+ 
+Figur 1. Oversiktskart ved Bjørnøya (blå pil). Oppdrettsanleggene er markert med lokalitetsnummer og navn. Kart 
+fra www.fiskeridir.no Fiskeridirektoratet, målestokk 1:100 000 ved utskrift av kart på A4-format liggende. Kartet 
+er nordlig orientert.  
+ 
+1.3 Drift og endringer 
+Lokaliteten har vært i drift siden 2015, og har en godkjent MTB på 2340 tonn. Eksisterende 
+anlegg består av en stigefortøyning med åtte bur. Rammen er på ca. 400 x 40 meter som gir 
+plass til åtte merder med 120 meters omkrets. Ved tidspunktet for undersøkelsen var 
+lokaliteten brakklagt, med brakkleggingsdato 05.04.2023. Neste utsett var planlagt til juli 2023 
+(pers. med. Rist & Mosseng). Produksjon og fôrforbruk ved lokaliteten er vist i Tabell 2. 
+Oppdretter søker om å utvide MTB fra 2340 tonn til 4548 tonn, samt utvidelse av 
+anleggskonfigurasjon. Planlagt ny plassering av anlegget har senterpunkt ca. 97 meter øst for 
+nåværende anlegg og består av en rammefortøyning med 2 x 6 bur. Det planlagte anlegget 
+overlapper med eksisterende anlegg, men er utvidet i 140 meter i nordlig og 140 meter i østlig 
+retning. Dagens anlegg og det planlagte nye anlegget vises i Figur 2.   
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 8 av 25 
+ 
+Figur 2. Planlagt (rød farge) og eksisterende anlegg (grønn farge) på Bjørnøya.  
+ 
+Tabell 2: Produksjon og fôrforbruk ved Bjørnøya. Data er innhentet fra oppdragsgiver.   
+Generasjon av fisk  
+Produsert i tonn 
+Fôrforbruk i tonn 
+Forutgående 1  
+3400 
+3920 
+Forutgående 2 
+3400 
+4200 
+Forutgående 3 
+3300 
+4200 
+ 
+ 
+1.4 Nåværende og tidligere undersøkelser  
+Akvaplan-niva AS har gjennomført miljøundersøkelser type B og C (NS9410) på lokaliteten 
+tidligere. En oversikt over gjennomførte miljøundersøkelser på Bjørnøya er vist i Tabell 3. 
+Kun undersøkelser gjennomført etter NS9410:2016 inngår i tabellen.  
+ 
+Akvaplan-niva 2023 64851.03     
+Side 9 av 25 
+Tabell 3. Tidligere gjennomførte undersøkelser ved Bjørnøya. 
+Dato prøvetaking 
+Rapportnummer 
+(Forfatter, rapportårstall) 
+Type undersøkelse 
+24.04.2023 
+APN-64851.02 
+(Mannvik & Lippestad, 2023) 
+Forundersøkelse med C-metodikk 
+17.04.2023, 
+22.10.2022 
+APN-64851.01 
+(Glad, 2023) 
+Forundersøkelse med B-metodikk 
+01.11.2022 
+APN-64404.01 
+(Mannvik et al., 2022) 
+C-undersøkelse 
+22.10.2022 
+APN-64369.01 
+(Holen, 2022) 
+B-undersøkelse, høyeste belastning  
+29.10.2020 
+APN-62514.01 
+(Lorås, 2020) 
+B-undersøkelse, høyeste belastning  
+31.01.2019 
+APN-60906.01 
+(Lorås, 2019) 
+B-undersøkelse, høyeste belastning  
+19.10.2016 
+APN-8483.01  
+(Nikolaisen, 2016) 
+B-undersøkelse, høyeste belastning 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 10 av 25 
+2 Bunnkartlegging 
+Multistrålelodd benyttes hovedsakelig til oppmåling og kartlegging av havbunnen. På 
+grunnlag av innkommende posisjons- og dybdedata kan Olex kalkulere bunnkart. 
+Bunnhardhet angis som relativ hardhet der 0% er helt bløtt og 100 % er maksimalt hardt. 
+Bunnhardhet reflekterer kun overflaten som er kartlagt, det vil si at den ikke sier noe om 
+sedimenttype under havbunnen. Bunnhardhet er et mål på havbunnens evne til å reflektere 
+lyd. Refleksjon tilbake til ekkoloddet blir lav ved bløt bunn – men den blir også lav når signalet 
+skal reflekteres fra bratte overflater. Dette kan resultere i at bratte deler av havbunnen vises 
+som "bløt" i Olex. I visning av relativ hardhet på Olex benyttes derfor betegnelsen "Bløtt eller 
+bratt" for blå farge, og "Hardt og flatt" for rød farge. 
+Registrering av bunndata er gjort iht. krav i NS 9415:2009 og oppløsning på data er på under 
+10 x 10 meter (Figur 3, Figur 4, Figur 5). 
+ 
+2.1 Dybdekoter 
+ 
+Figur 3. Bunnkartlegging multistråle. Dybdekoter. Planlagt anlegg ved Bjørnøya.  
+ 
+2.2 Substrattype 
+Resultatene fra forundersøkelsen med B- og C-metodikk viser bløtbunn med innhold av sand 
+skjellsand og grus. Resipienten har også partier med hardbunn. Dette gjenspeiles i 
+fargeskalaen for relativ hardhet ved bunnkartleggingen i resipienten (Figur 4). 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 11 av 25 
+ 
+Figur 4. Bunnkartlegging multistråle. Relativ hardhet. Planlagt anlegg ved Bjørnøya. 
+ 
+2.3 Dybdekart i 3D 
+ 
+Figur 5. Bunnkartlegging multistråle. 3D visning. Planlagt anlegg ved Bjørnøya. Kartet er orientert mot nord-
+nordvest. 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 12 av 25 
+3 Strømmåling 
+Strømmåling ble foretatt med målere fra Akvaplan-niva AS i to perioder. Målinger på 5 m, 
+spredning- og bunnstrøm ble gjort fra 06.02.2014 til 06.03.2014. Målinger på 15 m ble gjort fra 
+17.04.2015 til 16.05.2015. Overflate-, vannutskiftning-, spredning- og bunnstrøm ble målt på 
+henholdsvis 5, 15, 45 og 70 meters dyp. Målingene ble gjort på posisjon 67°25,008 N og 
+14°25,833 Ø.  
+Spredningsstrømmen er målt på 45 m dyp, og viser at hovedstrømretning for 
+partikkeltransport er mot nordøst (30 grader), med en mindre returstrøm mot sør (180 – 195 
+grader). Gjennomsnittlig strømhastighet ble målt til 3,3 cm/s. Høyeste strømhastighet er målt 
+til 16,8 cm/s og 3 % av målingene er < 1 cm/s (Eriksen, 2014). Oppsummering av resultatene 
+fra strømmålingene er vist i Tabell 4 og Figur 6. 
+Tabell 4. Strømmålinger. Måling av overflate-, vannutskiftings-, spredning- og bunnstrøm på henholdsvis 5, 15, 
+45 og 70 meters dyp (Eriksen, 2014; 2015). 
+Dato 
+Dyp 
+Koordinater 
+(WGS84) 
+Gj. snitt 
+hastighet 
+(cm/sek) 
+Maks hastighet 
+(cm/sek) 
+Andel 
+nullstrøm (% 
+mellom 0 og 1 
+cm/sek) 
+Referanse 
+(rapportnr) 
+06.02.2014 - 
+06.03.2014 
+5 
+N 67°25,008 Ø 
+14°25,833 
+4,4 
+15,4 
+2 
+Eriksen, 2014 
+(6869.02) 
+17.04.2015 - 
+16.05.2015 
+15 
+N 67°25,008 Ø 
+14°25,833 
+7,8 
+26,3 
+2 
+Eriksen, 2015 
+(7589.02) 
+06.02.2014 - 
+06.03.2014 
+45 
+N 67°25,008 Ø 
+14°25,833 
+3,3 
+16,8 
+3 
+Eriksen, 2014 
+(6869.02) 
+06.02.2014 - 
+06.03.2014 
+70 
+N 67°25,008 Ø 
+14°25,833 
+3,9 
+12,6 
+4 
+Eriksen, 2014 
+(6869.02) 
+ 
+  
+ 
+ 
+Figur 6. Strømdata. Vanntransport ved Bjørnøya (Eriksen, 2014; 2015) 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 13 av 25 
+4 Undersøkelse type B 
+4.1 Stasjonsplassering 
+Ved gjennomføring av undersøkelse type B i forbindelse med forundersøkelser skal det iht. 
+"Veileder til krav om forundersøkelser i henhold til NS9410:2016 i forbindelse med søknad om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark", versjon 1, datert 04.04.2018, være 
+minimum 10 prøvepunkter (stasjoner) fordelt over hele det planlagte anleggsområdet. 
+Plassering av stasjonene skal gi nok informasjon til at det kan tas stilling til om videre 
+overvåking i driftsfasen av anleggsområdet med B-undersøkelse er hensiktsmessig, eller om 
+det er behov for alternativ overvåking.  
+B-undersøkelse er gjennomført av Akvaplan-niva AS (Glad, 2023). Planlagt ramme består av 
+12 bur, og det var valgt å gjennomføre prøvetaking på 19 stasjoner (Figur 7). Stasjon 1-13 ble 
+prøvetatt i forbindelse med maksimal organisk belastning på lokaliteten (Holen, 2022). 
+Stasjon 14-19 ble supplert i april 2023 for å favne alle anleggets planlagte bur i undersøkelsen. 
+Stasjon 1-13 er prøvetatt med liten (0,025 m2) grabb, mens stasjon 14-19 er prøvetatt med stor 
+(0,1 m2) grabb. Stasjonsplasseringen vurderes som representativ for forundersøkelsen iht. 
+beskrivelse i NS 9410:2016. 
+ 
+Figur 7. Stasjonsoversikt med resultat fra B-undersøkelse. Prøvetakingsstasjonene er tegnet inn med 
+fargekoder som beskriver samlet indeks Gruppe II og III parametere iht. NS 9410:2016 kap. 7.11. Rødt flagg 
+markerer posisjonen til strømmåleren. Strømrose i høyre hjørne viser retning av vanntransport ved 
+spredningsdyp på lokaliteten (Eriksen, 2014). 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 14 av 25 
+4.2 Resultater 
+Det ble tatt opp sediment på 15 av 19 stasjoner. Sedimentet bestod primært av sand og 
+skjellsand med innslag av grus. Det ble registrert sterkt lukt av H2S på en stasjon og det luktet 
+noe på en stasjon. Dyr i form av børstemark ble registrert på 12 stasjoner. Det ble gjort funn 
+av pigghuder på stasjon 19. Det ble hverken registrert gassbobling eller fôrrester på samtlige 
+stasjoner. 
+Kjemisk og sensorisk analyse gav karakteren 4 – «Meget dårlig» på én stasjon, karakteren 3 – 
+«Dårlig» på én stasjon og karakteren 1 - «Meget god» på ni stasjoner. Begrenset mengde 
+sediment tillot kun sensorisk undersøkelse på fire stasjoner – disse stasjonene fikk også 
+karakteren 1 – «Meget god». Fire stasjoner bestod av hard bunn. Her var det trolig fjell eller 
+stein og det var ikke tilstrekkelig materiale til hverken kjemisk eller sensorisk undersøkelse. 
+Det er benyttet ulik størrelse på grabb mellom de to undersøkelsene. Ved undersøkelsen 
+utført 22.10.2022 ble det brukt grabb med størrelse 0.025 m2 og en grabb med størrelse 0.1 m2 
+ble brukt 17.04.2023.  
+ 
+Oppsummert gav undersøkelsen lokalitetstilstand 1 – «Meget god».    
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 15 av 25 
+5 Undersøkelse type C 
+5.1 Faglig program 
+C-undersøkelse for lokaliteten er gjennomført av Akvaplan-niva AS (Mannvik & Lippestad, 
+2023). C-undersøkelsen er gjennomført med bakgrunn i MTB på ≤5999 tonn, noe som utløser 
+krav om fem prøvetakingsstasjoner. Inkludert referansestasjonen blir det totalt seks 
+stasjoner.  
+Ved stasjonsplassering er det tatt hensyn til resipientens batymetri og strømmålinger 
+gjennomført på spredningsdyp ved 45 meter (Eriksen, 2014). Stasjon C1 er innerste stasjon, 
+plassert medstrøms 25 meter nordøst for anlegget. Dette er i overgangen mellom 
+anleggssonen og overgangssonen. Ettersom dette er en forundersøkelse med C-metodikk, er 
+det ikke hensyntatt resultater fra B-undersøkelse ved plassering av stasjon C1.  
+Stasjon C2 er ytterste stasjon, plassert i ytterkanten av overgangssonen 500 meter nordøst for 
+anlegget, medstrøms. Stasjonene C3, C4 og C5 er plassert i anleggets overgangssone. C3 og C4 
+er plassert medstrøms nordøst for anlegget. C4 er plassert noe mer øst enn hva 
+strømretningen vil tilsi for å favne et dypområde øst-nordøst for lokaliteten. Ettersom C4 er 
+undersøkelsens dypeste stasjon, omfatter den hydrografimålinger. Stasjon C5 er plassert 
+motstrøms sør for anlegget. Ved plassering av C5 er det tatt spesielt hensyn til batymetri i 
+sammenheng med målt strøm på lokaliteten. NS9410:2016 sier at C-stasjoner skal plasseres i 
+"overgangssonen der det forventes størst påvirkning". Det er sannsynlig at man kan finne 
+påvirkning i sørlig ende av renna som går langs anlegget, med bakgrunn i målte strømforhold 
+på lokaliteten.  
+Stasjon Cref er undersøkelsens referansestasjon og er plassert 1 km nordøst for anlegget, og 
+i et område med tilsvarende bunntype og forhold som forventet i området dekket av 
+forundersøkelsen. 
+ 
+Figur 8. Anlegg med stasjonsplassering C-undersøkelse. Rødt flagg viser plassering av strømmåler. Strømrose i 
+høyre hjørne viser retning av vanntransport ved spredningsdyp på lokaliteten (Eriksen, 2014).  
+ 
+Akvaplan-niva 2023 64851.03     
+Side 16 av 25 
+ 
+Figur 9. Anlegg med plassering C-undersøkelse inkludert plassering referansestasjon. Rødt flagg viser plassering 
+av strømmåler. Strømrose i høyre hjørne viser retning av vanntransport ved spredningsdyp på lokaliteten 
+(Eriksen, 2014). 
+ 
+5.2 Resultater C-undersøkelse  
+5.2.1 Faunaindekser og økologisk tilstandsklassifisering 
+Resultatene fra de kvantitative bunndyrsanalysene er presentert i Tabell 5. Faunaindeksen 
+nEQR i tabellen er presentert uten tetthetsindeksen DI etter anbefaling fra Miljødirektoratet. 
+Antall individ varierte fra 314 (C3) til 1723 (C1) og antall arter fra 58 (C3) til 116 (C5). På C1 
+viste de fleste faunaindeksene, inklusiv nEQR, tilstandsklasse II "God". På de andre stasjonene 
+viste de fleste indeksene, inklusiv nEQR, klasse I "Svært god".  
+Tabell 5. Antall arter og individer pr. 0,2 m2, H´ = Shannon-Wieners diversitetsindeks. ES100 = Hurlberts 
+diversitetsindeks. NQI1 = sammensatt indeks (diversitet og ømfintlighet). ISI2012 = ømfintlighetsindeks. NSI = 
+sensitivitetsindeks. nEQR = normalisert EQR (ekskl. DI). Bjørnøya, 2023. Økologisk tilstandsklassifisering basert 
+på observert verdi av indeks (snitt av to replikater) iht. Veileder 02:2018 (rev 2020) vanntype G2. 
+St. 
+C1 
+C2 
+C3 
+C4 
+C5 
+Cref 
+Ant. ind. 
+1723 
+845 
+314 
+613 
+985 
+1501 
+Ant. arter 
+100 
+114 
+58 
+91 
+116 
+104 
+H' 
+3,43 
+4,49 
+4,47 
+4,35 
+5,06 
+4,08 
+ES100 
+27,1 
+36,8 
+32,1 
+33,0 
+40,3 
+28,2 
+NQI1 
+0,723 
+0,756 
+0,714 
+0,758 
+0,746 
+0,724 
+ISI2012 
+9,45 
+10,15 
+8,65 
+10,57 
+9,82 
+11,29 
+NSI 
+21,78 
+23,21 
+23,26 
+23,18 
+23,00 
+22,37 
+nEQR 
+0,775 
+0,847 
+0,814 
+0,842 
+0,860 
+0,819 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 17 av 25 
+5.2.1.1 NS 9410 vurdering av bunndyrsamfunnet i anleggssonen 
+I hht. NS 9410 kan klassifisering av miljøtilstanden i anleggssonen baseres på antall arter 
+vurdert mot dominansforhold i bunndyrsamfunnet (se kapt. 8.6.2. i NS 9410:2016). Tabell 6 
+viser antall arter, kumulativ prosent for dominerende taksa og klassifisering av 
+miljøtilstanden for bløtbunnsamfunnet på anleggssonestasjonen C1.  
+Bløtbunnsamfunnet ble klassifisert til miljøtilstand 1 "Meget god". Kriteriet for tilstand 1 er 
+tilstedeværelse av minst 20 arter/0,2 m2 og at ingen av disse utgjør mer enn 65 % av individene. 
+Tabell 6. NS 9410:2016. Klassifisering av miljøtilstand i bløtbunnsamfunnene på innerste stasjon C1, Bjørnøya, 
+2023. 
+Stasjon  
+Lokalitet 
+Ant. arter 
+Dominerende taksa -% 
+Miljøtilstand-NS 9410 
+C1 
+Bjørnøya 
+100 
+Spiophanes kroyeri – 53 % 
+1 – Meget god 
+ 
+5.2.1.2 Ytterkant overgangssone (C2) 
+Grabbverdiene for stasjon C2 er vist i Tabell 7. De enkelte indeksene var i klasse I og II og 
+nEQR for stasjonen var i tilstandsklasse I "Svært god". 
+Tabell 7. Resultater fra bunnfauna på C2 (grabb 1 og 2); arts- og individantall for hver grabb og gjennomsnitt 
+nEQR for hver indeks. Bjørnøya, 2023. 
+St. 
+C2_01 
+C2_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+528 
+317 
+423 
+  
+Ant. arter 
+75 
+81 
+78 
+  
+H' 
+3,73 
+5,24 
+4,49 
+0,888 
+ES100 
+29,7 
+43,9 
+36,8 
+0,920 
+NQI1 
+0,695 
+0,817 
+0,756 
+0,840 
+ISI2012 
+10,78 
+9,52 
+10,15 
+0,862 
+NSI 
+21,36 
+25,06 
+23,21 
+0,728 
+nEQR 
+  
+  
+  
+0,847 
+ 
+5.2.1.3 Overgangssonen (C3, C4, C5) 
+Grabbverdiene for stasjon C3, C4 og C5 er vist i Tabell 8 til Tabell 10. 
+De enkelte faunaindeksene på alle stasjonene var i klasse I og II og nEQR for stasjonene var i 
+tilstandsklasse I "Svært god". 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 18 av 25 
+Tabell 8. Resultater fra bunnfauna på C3 (grabb 1 og 2); arts- og individantall for hver grabb og gjennomsnitt 
+nEQR for hver indeks. Bjørnøya, 2023. 
+St. 
+C3_01 
+C3_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+136 
+178 
+157 
+  
+Ant. arter 
+37 
+43 
+40 
+  
+H' 
+4,56 
+4,38 
+4,47 
+0,885 
+ES100 
+32,6 
+31,7 
+32,1 
+0,879 
+NQI1 
+0,742 
+0,687 
+0,714 
+0,788 
+ISI2012 
+8,69 
+8,62 
+8,65 
+0,789 
+NSI 
+24,43 
+22,09 
+23,26 
+0,730 
+nEQR 
+  
+  
+  
+0,814 
+ 
+Tabell 9. Resultater fra bunnfauna på C4 (grabb 1 og 2); arts- og individ for hver grabb og gjennomsnitt nEQR 
+for hver indeks. Bjørnøya, 2023. 
+St. 
+C4_01 
+C4_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+370 
+243 
+307 
+  
+Ant. arter 
+80 
+45 
+63 
+  
+H' 
+4,74 
+3,97 
+4,35 
+0,873 
+ES100 
+36,6 
+29,4 
+33 
+0,887 
+NQI1 
+0,779 
+0,737 
+0,758 
+0,842 
+ISI2012 
+10,23 
+10,91 
+10,57 
+0,880 
+NSI 
+23,09 
+23,27 
+23,18 
+0,727 
+nEQR 
+  
+  
+  
+0,842 
+ 
+Tabell 10. Resultater fra bunnfauna på C5 (grabb 1 og 2); arts- og individ for hver grabb og gjennomsnitt nEQR 
+for hver indeks. Bjørnøya, 2023. 
+St. 
+C5_01 
+C5_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+266 
+719 
+493 
+  
+Ant. arter 
+71 
+96 
+84 
+  
+H' 
+5,17 
+4,96 
+5,06 
+0,951 
+ES100 
+42,5 
+38,1 
+40,3 
+0,951 
+NQI1 
+0,747 
+0,745 
+0,746 
+0,829 
+ISI2012 
+9,79 
+9,85 
+9,82 
+0,848 
+NSI 
+23,13 
+22,86 
+23,00 
+0,720 
+nEQR 
+  
+  
+  
+0,860 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 19 av 25 
+5.3 Resultater referansestasjon  
+Opplysninger om referansestasjon som er brukt ved lokaliteten er vist i Tabell 11. 
+Tabell 11. Opplysninger om referansestasjon brukt ved lokaliteten. 
+Referansestasjon 
+Cref 
+Prøvetatt (dato) 
+24.04.2023 
+Koordinater 
+67⁰25,489 N 
+14⁰27,091 Ø 
+Resultat nEQR 
+0,819 
+ 
+5.4 Hydrografi og oksygen 
+Vertikalprofilene for temperatur, salinitet, tetthet og oksygenmetning ved Bjørnøya, 2023 er 
+vist i Figur 10. 
+Temperaturen steg fra 6 ⁰C i overflaten til 8 ⁰C ved bunnen. Oksygenmetningen sank fra 106 % 
+i overflaten til 90 % i bunnvannet, noe som tilsvarer tilstandsklasse I "Svært god". 
+ 
+Figur 10. Vertikalprofiler. Temperatur, saltholdighet, tetthet og oksygen på stasjonene ved Bjørnøya, 2023. 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 20 av 25 
+5.5 Kornfordeling 
+Kornfordelingen på stasjonene er vist i Tabell 12. Sedimentene var grov- til moderat 
+grovkornet med pelittandel mellom 15,6 og 34,1 %. 
+Tabell 12. Kornfordeling på stasjonene ved Bjørnøya, 2023. Andel pelitt (silt og leire), sand og grus (alle i %). 
+ 
+C1 
+C2 
+C3 
+C4 
+C5 
+Cref 
+Pelitt  
+18,1 
+21,6 
+15,6 
+28,6 
+18,7 
+34,1 
+Sand 
+81,6 
+76,4 
+84,4 
+69,9 
+81,2 
+65,7 
+Grus 
+0,3 
+2,0 
+0,0 
+1,5 
+0,1 
+0,2 
+ 
+5.6 Kjemiske parametere 
+Nivåer av de kjemiske parameterne i sedimentene er presentert i Tabell 13. 
+TOM-nivåene var lave med verdier mellom 1,7 og 2,5 %. TN-nivåene var lave (1,1 – 1,4 mg/g) 
+og det samme var C/N-forholdene. TOC var lavt og i tilstandsklasse I "Svært god" på C4 og Cref 
+og lett forhøyet på de andre stasjonene og i tilstandsklasse II "God". Kobbernivået på C1 var 
+lavt og i klasse I "Svært god".  
+Tabell 13. Innhold av undersøkte kjemiske parametere i sediment. Totalt organisk materiale (TOM), Totalt 
+organisk karbon (TOC), finstoff (pelitt) og nTOC (organisk karbon korrigert for innhold av finstoff). Nitrogen har 
+ikke tilstandsklasser. Karbon-nitrogenforholdet (C/N) er oppgitt som ratio mellom TOC og TN. Kobber (Cu). 
+Tilstandsklasser og farger er angitt etter klassifiseringsveileder 02:2018 (rev. 2020) og M-608:2016 (rev. 2020). 
+Bjørnøya, 2023. 
+ 
+C1 
+C2 
+C3 
+C4 
+C5 
+Cref 
+TOM (%) 
+2,0 
+2,1 
+1,7 
+2,5 
+2,5 
+2,4 
+TOC (mg/g) 
+5,6 
+6,2 
+5,7 
+7,0 
+6,6 
+5,5 
+Pelitt (%) 
+18,1 
+21,6 
+15,6 
+28,6 
+18,7 
+34,1 
+nTOC 
+20,3 
+20,3 
+20,9 
+19,9 
+21,3 
+17,3 
+TN (mg/g) 
+1,2 
+1,2 
+1,1 
+1,4 
+1,3 
+1,1 
+C/N 
+4,5 
+5,2 
+5,5 
+4,9 
+4,9 
+5,0 
+Cu (mg/kg) 
+6,3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 21 av 25 
+6 Sammenfattende vurderinger 
+Veiledende antall prøvestasjoner til C-undersøkelse for lokaliteten er fem stk., med 
+veiledende avstand til ytterste prøvestasjon på 500 meter (Tabell 1). På bakgrunn av dette, 
+samt resultater fra bunnkartlegging, strømmåling og B- og C-undersøkelser, estimeres 
+overgangssonen til lokaliteten. Stasjonsplassering gjøres på bakgrunn av bunntopografi og 
+strømmålinger.  
+Resipienten til anlegget viser dybder fra ca. 50 til 144 meter, mens bunnen videre skrår mot 
+over 200 meters dyp sør for anlegget. Med hovedstrømretning for spredningsdyp mot nord-
+nordøst er det formålstjenlig å plassere stasjon C2 i denne retningen. Resterende stasjoner er 
+også hovedsakelig plassert i denne retningen. Det er tatt hensyn til batymetri og målt 
+strømretning, og en stasjon er plassert sørøst for anlegget for å fange opp eventuell 
+akkumulering i dette området. Referansestasjon er plassert 1000 m nordøst for anlegget, med 
+tilsvarende dyp og sedimentforhold som unders anlegget (Figur 11 og Figur 12).   
+Resultatene fra B-undersøkelsene bygger på sammenslåing av to undersøkelser. Den ene av 
+undersøkelsene ble utført 22.10.2022 (Holen 2022), da lokaliteten var på maksimal belastning. 
+Undersøkelsen ble utført i nåværende anleggsplassering. Det ble tatt prøver fra totalt 13 
+stasjoner. Det var få tegn til organisk belastning i anleggsområdet i 2022, men det var noen få 
+enkelte belastede stasjoner. Den mest belastende stasjonen ligger i sørøstlig del av anlegget 
+(st. 8 og 10). Hovedstrømretning av spredningsstrøm er mot nordøst, men med en mindre 
+returstrøm mot sør, og denne stasjonen ligger i et dypere område hvor det er trolig at organisk 
+materiale kan akkumuleres. Den andre undersøkelsen ble utført 17.04.2023 hvor det da ble 
+tatt supplerende prøver for å dekke den planlagte anleggssonen. Det ble tatt prøver fra 6 
+stasjoner. Det var ingen tegn til organisk belastning. På tre av stasjonene ble registrert som 
+hardbunn. Av de undersøkte stasjonene, ble det registrert 58 % bløtbunn og 42 % hardbunn.  
+Det kan derfor vurderes å gjennomføre B-undersøkelser med stor grabb (0,1 m2) ved fremtidig 
+prøvetaking. 
+Resultatene fra C-undersøkelsen viste at faunaen var lite eller ikke påvirket og i 
+tilstandsklasse II "God" på C1 og klasse I "Svært god" på de andre stasjonene. NS 9410:2016-
+vurdering av samfunnet i anleggssonen viste miljøtilstand 1 (Meget god). Det ble ikke 
+registrert forurensningsindikatorer blant topp-10 på noen av stasjonene. Blant 
+støtteparameterne var sedimentene lite eller ikke belastet med organisk karbon i klasse I 
+"Svært god" på stasjon C4 og Cref og klasse II "God" på de andre stasjonene. Kobbernivået var 
+lavt på C1 og i klasse I "Svært god". Sedimentene var grov- til moderat grovkornet med 
+pelittandel mellom 15,6 og 34,1 %. Redoks-målingen i sedimentet på C1 ga poeng 0. 
+Oksygenmetningen i april var god i hele vannsøylen med 90 % i bunnvannet, noe som 
+tilsvarer tilstandsklasse I "Svært god". 
+Anbefalt plassering av stasjonene til neste undersøkelse er i henhold til forundersøkelsen ved 
+Bjørnøya og er vist i Tabell 14. Fremtidig plassering av stasjon C1 vil bestemmes av resultater 
+fra B-undersøkelsen for de gjeldende produksjonssyklusene, og følgelig legges mot den delen 
+av resipienten hvor B-undersøkelsen viser størst påvirkning. Dersom framtidige C-
+undersøkelser viser lite påvirkning på stasjon C5 kan denne vurderes flyttes lengre nord i 
+resipienten. Referansestasjon inkluderes ikke i neste C-undersøkelse.  
+Overgangssone er estimert på grunnlag av bunntopografi, strømmåling og C-undersøkelse, 
+samt veiledende avstand til C2 stasjon i NS 9410:2016 (Figur 11 og Figur 12).   
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 22 av 25 
+Tabell 14. Stasjonsplassering C-undersøkelse. Endring i forhold til utført C-undersøkelse og anbefalt plassering 
+neste undersøkelse. 
+Stasjon 
+Endring i forhold til utført C-undersøkelse 
+GPS-koordinater anbefalt plassering 
+C1 
+Flyttes til det mest belastede området ved neste B-undersøkelse. 
+- 
+C2 
+Ingen endring. 
+67⁰25,272'N 
+14⁰26,651' Ø 
+C3 
+Ingen endring. 
+67⁰25,154' N 
+14⁰26,209' Ø 
+C4 
+Ingen endring. 
+67⁰25,165' N 
+14⁰26,732' Ø 
+C5 
+Ingen endring. 
+67⁰24,756' N 
+14⁰25,850' Ø 
+Cref 
+Skal ikke inkluderes i neste C-undersøkelse.  
+- 
+ 
+ 
+Figur 11. Anlegg med estimert overgangssone og stasjoner C-undersøkelse. Rødt flagg viser plassering av 
+strømmåler (Eriksen, 2014). 
+ 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 23 av 25 
+ 
+Figur 12. Anlegg med estimert overganssone (grønn strek) og stasjonsplassering C-undersøkelse. 
+Referansestasjon (Cref) avmerket i øvre del av bildet. Rødt flagg viser plassering av strømmåler (Eriksen, 2014). 
+ 
+Akvaplan-niva 2023 64851.03     
+Side 24 av 25 
+7 Referanser 
+Aure, J., Dahl, E., Green, N., Magnusson. J., Moy, F., Pedersen, A., Rygg, B & Walday, M., 
+1993. Langtidsovervåking av trofiutviklingen i kystvannet langs Sør-Norge. Årsrapport 1990 
+og samlerapport 1990-91. Statlig program for forurensningsovervåking. Rapport 510/93.  
+Direktoratgruppen, 2018 (revidert 2020). Klassifisering av miljøtilstand i vann. Veileder 
+02:2018 - rev 2020.  
+Eriksen, S., 2014. Lofoten Sjøprodukter AS. Strømmåling ny lokalitet, Bjørnøy. 
+Vannutskifting-, spredning- og bunnstrøm. APN-6869.02. 
+Eriksen, S., 2015. Lokalitetsrapport, Lokalitet 34997 Bjørnøy. Lofoten Sjøprodukter AS. 
+Revidert 9.7.2015. APN-7589.02. 
+Fylkeskommunene i Nordland, Troms og Finnmark, Fiskeridirektoratet region Nord, 
+Fiskeridirektoratet region Nordland og Fylkesmann i Nordland, Troms og Finnmark, 2018. 
+"Veiledning til krav om forundersøkelser i henhold til NS9410:2016 i forbindelse med søknad om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark" versjon 1, datert 04.04.2018. 
+Glad, P., 2023. Forundersøkelse type B ved Bjørnøya, (34997), 2023. Lofoten Sjøprodukter AS. 
+APN-64851.01. 
+Holen, V., 2022. B-undersøkelse ved Bjørnøya (34997), 2022 Lofoten Sjøprodukter AS. APN-
+64369.01. 
+ISO 16665:2014. Water quality – Guidelines for quantitative sampling and sample processing 
+of marine soft-bottom macro fauna. 
+ISO 5667-19:2004. Guidance on sampling of marine sediments. 
+Lorås, G., 2019. Lofoten Sjøprodukter AS, B – undersøkelse med alternativ stasjonsplassering, 
+34997 Bjørnøya, januar 2019. APN-60906.01.  
+Lorås, G., 2020. Lofoten Sjøprodukter AS, B – undersøkelse med alternativ stasjonsplassering, 
+34997 Bjørnøya, oktober 2020. APN-62514.01.  
+Mannvik, H.P. & Lippestad, L., 2023. C-undersøkelse ved Bjørnøya (32997), 2023. Lofoten 
+Sjøprodukter AS. APN-64851.02. 
+Mannvik, H.P., Lorås, G.W. & Jensens, J.S., 2023. C-undersøkelse ved Bjørnøya (34997), 2022. 
+Lofoten Sjøprodukter AS. APN-64404.01. 
+Nikolaisen, J., 2016. Lofoten Sjøprodukter AS, B – undersøkelse, 34997 Bjørnøya, oktober 
+2016. APN-8483.01.  
+NS 9410:2016. Norsk standard for miljøovervåking av bunnpåvirkning fra marine 
+akvakulturanlegg. 
+Pedersen, S., 2023. Lofoten Sjøprodukter AS, Bunnkartlegging én lokalitet, Bjørnøya. APN-
+notat.  
+ 
+Akvaplan-niva 2023 64851.03     
+Side 25 av 25 
+Pers. med. Roger Mosseng, Lofoten Sjøprodukter AS. 
+Pers. med. Torgunn Rist, IK ansvarlig, Lofoten Sjøprodukter AS.  
+Rygg, B. & K. Norling, 2013. Norwegian Sensitive Index (NSI) for marine 
+macroinvertebrates, and an update of Indicator Species Index (ISI). NIVA report SNO 6475-
+2013. 48 p. 
+www.fiskeridir.no

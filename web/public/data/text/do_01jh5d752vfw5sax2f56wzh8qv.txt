@@ -1,0 +1,1214 @@
+﻿Modellert spredning av utslipp 
+fra Terråk 
+Lokalitet: 
+Terråk 
+Kunde: 
+Nærøysundgruppen AS 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 2 of 38 
+Rapport 
+Rapportbeskrivelse og 
+navn 
+Modellert spredning av utslipp for lokalitet Terråk. 
+SM-04321-Terråk1221-ver02.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+01 
+21.12.21 
+Første utgivelse 
+02 
+02.03.22 
+Nytt utslippspunkt 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten kan 
+kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Terråk 
+Lokalitetsnummer 
+45043 
+Kommune  
+Bindal 
+Fylke 
+Nordland 
+ 
+Sammendrag – fase 2 (oppdaterte planer) 
+• Spredningen av utslipp fra det landbaserte anlegget i fase 2 spres i hovedsak mot nord og sørvest. 
+Konsentrasjonene av utslippsvann ved både overflaten og bunnen er svært lave (< 0.1%). 
+ 
+• Konsentrasjonen av utslippsvannet fra Terråk er under 0.01% ved de omliggende lokalitetene 
+Båsen og Mulingen, og ved lakseelva Terråkelva. 
+ 
+ 
+ 
+ 
+Oppdragsgiver 
+Selskap 
+Nærøysundgruppen AS; Bjørkåsvegen 141; 7970 KOLVEREID 
+Kontaktperson 
+Svein Martinsen 
+svein@morefish.no 
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413; 7260 SISTRANDA, 
+Organisasjon nr.  963 554 052 
+Rapportansvarlig 
+Inga Utkilen 
+Inga.utkilen@akerbla.no 
+Kontrollert av 
+Lisbeth Håvik        
+Lisbeth.havik@akerbla.no 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 3 of 38 
+Innholdsfortegnelse 
+ 
+1. 
+Innledning .................................................................................................................................... 5 
+2. 
+Områdebeskrivelse ..................................................................................................................... 6 
+3. 
+Metodikk ...................................................................................................................................... 8 
+3.1 
+Spredning og fortynning ................................................................................................... 8 
+3.2 
+Modellering av primærspredning ...................................................................................... 8 
+3.3 
+Modellering av sekundærspredning .................................................................................. 9 
+3.3.1 
+Bunndata og modellstørrelse ........................................................................................ 9 
+3.3.2 
+Inngangsdata for strømmodellering ........................................................................... 11 
+3.3.3 
+Utslippsmodellering ................................................................................................... 11 
+4. 
+Resultater - fase 1 ...................................................................................................................... 14 
+4.1 
+Daglig spredning – fase 1 ................................................................................................ 14 
+4.2 
+Månedlige verdier – fase 1 .............................................................................................. 16 
+4.3 
+Konsentrasjoner av fosfor og nitrogen – fase 1 .............................................................. 17 
+4.4 
+Konsentrasjon av utslippsvann ved inntakspunkt og nærliggende lokaliteter – fase 1 ... 18 
+5. 
+Resultater – fase 2 ..................................................................................................................... 20 
+5.1 
+Innlagringsdyp................................................................................................................. 21 
+5.2 
+Daglig spredning – fase 2 ................................................................................................ 22 
+5.3 
+Månedlige verdier – fase 2 .............................................................................................. 23 
+5.4 
+Konsentrasjoner av fosfor og nitrogen – fase 2 .............................................................. 24 
+6. 
+Konklusjon................................................................................................................................. 25 
+6.1 
+Fase 1 .............................................................................................................................. 25 
+6.2 
+Fase 2 .............................................................................................................................. 25 
+7. 
+Vedlegg – alternative posisjoner – fase 1 ................................................................................ 26 
+7.1 
+Alternativ utslippsposisjoner ........................................................................................... 26 
+7.2 
+Alternativ inntaksposisjon ............................................................................................... 27 
+8. 
+Vedlegg – Resultater fra strømmodellering ........................................................................... 28 
+8.1 
+Strømresultater ................................................................................................................ 28 
+8.2 
+Simulert strøm i området rundt lokaliteten ..................................................................... 30 
+8.3 
+Sammenligning med målt strøm i området ..................................................................... 32 
+9. 
+Vedlegg - Havnivå ..................................................................................................................... 34 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 4 of 38 
+10. Vedlegg - Ferskvannstilsig ....................................................................................................... 36 
+11. Vedlegg - Usikkerhetsvurdering .............................................................................................. 37 
+11.1 
+Inngangsdata for strømmodell ......................................................................................... 37 
+11.2 
+Strømmodell .................................................................................................................... 37 
+12. Referanser .................................................................................................................................. 38 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 5 of 38 
+1. 
+Innledning 
+Åkerblå AS har på oppdrag fra Nærøysundgruppen AS utført modellering av fortynning og spredning 
+av utslippsvann fra det landbaserte akvakulturanlegget ved Terråk i Bindal kommune. Formålet med 
+rapporten er å avgjøre hvor utslippsvannet vil bevege seg og om utslippet vil nå nærliggende 
+lokaliteter. I tillegg vil modelleringen gi en vurdering av miljøpåvirkningen i resipienten fra utslipp 
+av fosfor og nitrogen. 
+Modelleringen er utført i to faser da planene for anlegget har endret seg. I fase 1 var det planlagt et 
+utslipp på 250 L/s ved bunnen fra det nye anlegget utenfor Terråk. Her ble det modellert med et 
+utslipp av nitrogen og fosfor på 30.19 mgN/L og 2.79 mgP/L. 
+I de nyere planene, heretter kalt fase 2, er utslippspunktet flyttet lengre sørvest, og utslippsmengden 
+er redusert til 90 L/s. Utslippsmengden av nitrogen og fosfor er på 44.39 mgN/L og 7.75 mgP/L.  
+Resultatene fra simuleringen er vist for bestemte posisjoner og dyp, for hele simuleringsperioden og 
+for utvalgte perioder.  
+Modelleringen presenterer en tilnærming av forholdene basert på inngangsdata. Resultater bør også 
+vurderes ut fra lokalkunnskap og erfaring. 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+Side 6 of 38 
+2. 
+Områdebeskrivelse 
+Brukstomta på Terråk ligger i Bindal kommune i Nordland (Figur 2.1). Lokaliteten er plassert på sør- 
+østsiden av inngangen til Sørfjorden, hvor Øyfjorden og Terråkfjorden møtes. Terråkfjorden er en 
+fortsettelse av Bindalsfjorden, mens Øyfjorden er ytre del av Tosen. Øst for lokaliteten, forbi 
+Terråkodden, kommer elvemunningen til lakseelva Terråkelva. Her er også innløpet til fjorden Osen. 
+Brukstomta ligger i nærheten av to eksisterende sjøbaserte anlegg; Mulingen som ligger nordøst for 
+Terråk, og Båsen som ligger nordvest (Figur 2.1). Det er mer enn 5 km til de to eksisterende anleggene 
+fra utslippspunktet brukt i fase 2. Fra utslippspunktene i fase 1 er det under 4 km til de to eksisterende 
+sjøbaserte anleggene. 
+Figur 2.2 viser batymetrien rundt lokaliteten. Utfor Terråk skråner bunnen bratt fra grunna utfor 
+Terråk til dyp på 150 m i munningen av Sørfjorden. Dyp ved utslippsposisjon er 100 m i fase 1 
+(Utslipp1 og Utslipp 2), og 66 m i fase 2 (Utslipp Ny). 
+Figur 2.1: Oversiktskart over området rundt lokaliteten, vist med gult kryss. Kartet er hentet fra 
+Fiskeridirektoratets kartverktøy. Lokalitetene Båsen og Mulingen er vist med henholdsvis rødt og 
+grønt kryss. Kartdatum: WGS84. 
+Mulingen 
+Båsen 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 7 of 38 
+ 
+Figur 2.2: Oversiktskart over området ved lokaliteten. Dybde er vist med blå konturer. De modellerte 
+utslippspunktene for fase 1 er vist med røde kryss, og inntakspunktene for fase 1 er vist med grønne 
+kryss. Utslippspunktet for fase 2 er vist med blått kryss. Strømmåling er vist med gult kryss. Kartet 
+er hentet fra Olex. Kartdatum: WGS84.   
+ 
+ 
+Inntak 1 
+Utslipp 1 
+Utslipp 2 
+Strøm 
+Inntak 2 
+Utslipp Ny 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+Side 8 of 38 
+3. 
+Metodikk 
+For å bestemme spredning av utslippet fra Terråk er det laget en strøm- og spredningsmodell for 
+lokaliteten ved hjelp av programvaren Delft3D-FLOW (Deltares, 2018). For fase 2 er det i tillegg 
+laget en modell for primærspredning. 
+3.1 
+Spredning og fortynning 
+Ved utslipp til en resipient er det vanlig å skille mellom to prosesser, primærfortynning og 
+sekundærfortynning (Miljødirektoratet 2013). I den umiddelbare nærheten av utslippet foregår 
+primærfortynningen. Den bestemmes hovedsakelig av hastigheten til utslippsvannet og 
+tetthetsforskjellen mellom utslippsvannet og resipienten. Her foregår fortynningen som regel raskt 
+ved horisontal bevegelse drevet av utslippsvannets hastighet ut av utslippsrøret og ved en vertikal 
+bevegelse drevet av tetthetsforskjeller mellom utslippsvann og resipient. Når utslippsvannet fortynnes 
+og tetthetsforskjellen er utjevnet, vil den vertikale bevegelsen stort sett opphøre og utslippet har da 
+nådd innlagringsdypet. Etter innlagring starter sekundærfortynningen som hovedsakelig foregår ved 
+horisontal spredning i resipienten. Sekundærspredningen er avgjørende for hvor stort område som 
+påvirkes av utslippet og om f.eks. strandsoner kan bli påvirket. 
+I de originale planene for fase 1 bestod utslippsvannet fra Terråk av sjøvann med samme tetthet som 
+resipienten. Modellering av primærfortynning ble derfor ikke utført. I de nye planene i fase 2 vil 
+utslippsvannet bestå av brakkvann med saltholdighet på 15 sluppet ut på bunnen. I dette tilfellet har 
+ikke utslippsvannet samme tetthet som resipienten, og både primærspredning og sekundærspredning 
+av utslippet er modellert for fase 2. 
+3.2 
+Modellering av primærspredning 
+Utslippsvann med lav saltholdighet er lettere enn sjøvann og vil stige opp mot overflaten. Det er en 
+relativt rask prosess og foregår i et begrenset område, som regel innenfor noen få titalls meter. Det 
+skjer en innblanding av saltvann underveis slik at tetthetsforskjellen utjevnes. Figur 3.1 illustrerer 
+hvordan innlagring av utslippsvann fra et utslipp ved bunnen foregår. 
+Figur 3.1: Illustrasjon av ferskvannsutslipp til sjøvann. Venstre: ingen vertikal lagdeling i sjøen 
+(konstant egenvekt) og utslippet når til overflaten. Høyre: vertikal lagdeling (egenvekten øker med 
+dypet) og innlagringen av utslippsvannet skjer dypere i vannsøylen. 
+Den vertikale lagdelingen i sjøen er bestemt av saltholdighet og temperatur og dette er med på å 
+avgjøre hvilket dyp det fortynnede utslippsvannet innlagres. Hvis resipienten ikke har betydelig 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 9 of 38 
+lagdeling er det mer sannsynlig at utslippsvannet trenger gjennom til overflaten (Figur 3.1, venstre). 
+Hvis utslippspunktet er tilstrekkelig dypt og resipienten har vertikal lagdeling (Figur 3.1, høyre), vil 
+utslippsvannet stige til tettheten i det fortynnede utslippsvannet er lik tettheten til resipienten. Fordi 
+utslippsvannet har en vertikal hastighet, vil det kunne fortsette litt høyere opp i vannsøylen før det 
+synker ned igjen og spres videre horisontalt på innlagringsdypet.  
+Beregning av primærspredning er gjort med den numeriske modellen Visual Plumes, utviklet av U.S. 
+Environmental Protection Agency (Frick, et al. 2003). Informasjon om utslippet som brukes i 
+beregningene er: 
+• Rørdiameter 
+• Utslippsvannets saltholdighet og temperatur  
+• Utslippsmengde 
+Det trengs følgende informasjon om resipienten: 
+• Utslippsdyp 
+• Vertikalprofil av salinitet og temperatur i resipient 
+• Strømhastighet i resipient 
+Det største usikkerhetsmomentet i forbindelse med beregning av innlagringsdybde og 
+primærfortynning er saltholdighet i vannsøylen over utslippspunktet. Saltholdigheten kan variere med 
+tidevann, i tillegg til sesongvariasjoner som følge av smeltevann og nedbør. Dette indikerer at ulike 
+innlagringsdyp er sannsynlige basert på årstid og fordeling av ferskvann i vannsøylen.  
+3.3 
+Modellering av sekundærspredning 
+For å bestemme transport og sekundærspredning av utslippet er det laget en strøm- og 
+spredningsmodell for lokaliteten ved hjelp av programvaren Delft3D-FLOW (Delft3D-FLOW 2018). 
+Delft3D-FLOW er en tredimensjonal, hydrodynamisk modell som gir strømfelt over et stort område 
+og flere dybdenivå. I modellen løses Navier-Stokes-ligningene for strømmen basert på Boussinesq-
+tilnærmelsen (Lesser, et al. 2004), sammen med ligninger som beskriver temperatur, saltholdighet og 
+spredning av utslipp. Det at modellen omfavner et stort område og kan kjøres for lange tidsperioder, 
+gjør at man får med variasjoner og unike forhold ved hver enkelt lokalitet. 
+Delft3D-FLOW benytter inngangsdata fra atmosfæren, havet og ferskvannstilsig til å beregne 
+strømmen i tre dimensjoner (Delft3D-FLOW 2018). Den vertikale bevegelsen antas å være liten i 
+forhold til den horisontale slik at vertikal akselerasjon kan neglisjeres. Bevegelsen styres av 
+trykkgradienter beregnet fra variasjon i havnivå, temperatur og saltholdighet. Effektene fra 
+jordrotasjon er inkludert ved hjelp av Corioliskraften. Turbulensen i strømmen er i modellen tatt 
+hensyn til ved bruk av en såkalt k-epsilonmodell.  
+3.3.1 Bunndata og modellstørrelse 
+En tredimensjonal strømmodell er laget for området i form av et horisontalt rutenett rundt 
+utslippspunktet, vist i Figur 3.2. Rutenettet strekker seg ca. 14 km sørvest inn i Sørfjorden, nordøst 
+inn i Øyfjorden og Tosen, og nordover ut Bindalsfjorden fra lokaliteten. For å oppnå stabilitet og 
+numerisk effektivitet har modellen høyest oppløsning med 30 m × 30 m ved lokaliteten. Herfra avtar 
+modellens oppløsning gradvis til rundt 300 m × 350 m på den nordlige grensa, og rundt 250 m × 
+300 m på den nordvestlige grensa. Ved utslippsposisjonen i fase 2 er oppløsningen i modellområdet 
+ca. 55 m × 65 m. 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+Side 10 of 38 
+Figur 3.2: Rutenett benyttet for å modellere spredning fra lokaliteten. Lokaliteten er vist med 
+. 
+Kartet er hentet fra Fiskeridirektoratets kartverktøy, med kartdatum: WGS84. 
+For å beskrive variasjon i dybden er det valgt en såkalt sigmamodell med 15 dybdelag. Dybdelagene 
+følger terrenget og varierer i tykkelse proporsjonalt med dypet (se Tabell 3.1). Bunndata brukt i 
+modellen er hentet fra Kartverket, og tilpasset oppløsningen i modellen ved hjelp av interpolasjon. 
+Nærmest lokaliteten er bunntopografien gjort grunnere for å samsvare med Olex-data (Figur 2.2.). 
+Det samme er tilfellet for Osen, hvor bunntopografi er fraværende i Kartverket sine data. I 
+grenseområdet er bunntopografien tilpasset dybdenivået i modellen NorKyst800, for å få en 
+konsistent beskrivelse i randsonene. 
+Tabell 3.1: Fordeling og prosentvis tykkelse av vannlag i modell 
+Vannlag 
+Tykkelse (%) 
+Tykkelse ved 100 m dyp (m) 
+Dybde (m) 
+1 
+2 
+2.0 
+0.0 - 
+2.0 
+2 
+3 
+3.0 
+2.0 - 
+5.0 
+3 
+4 
+4.0 
+5.0 - 
+9.0 
+4 
+5 
+5.0 
+9.0 - 
+14.0 
+5 
+6 
+6.0 
+14.0 - 
+20.0 
+6-15 
+80 
+80 
+20.0 - 100.0 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 11 of 38 
+3.3.2 Inngangsdata for strømmodellering 
+Den hydrodynamiske modellen er drevet av randbetingelser, det vil si strøm over ytre grenser, 
+tidevann, vind og varmeutveksling med atmosfæren, samt ferskvannstilførsel. Inngangsdata for havet 
+hentes fra havmodellen NorKyst800 (Meteorologisk Institutt 2020, Albretsen, et al. 2011). Dette er 
+timesdata med oppløsning på 800 m × 800 m, som omfatter havnivå, strømhastighet, temperatur og 
+saltholdighet. Dataene interpoleres for å tilpasses gitternettet med høyere oppløsning i Delft3D-
+FLOW. Modelloppsettet består av en nordlig og en nordvestlig randsone hvor randbetingelsene er 
+inkludert (Figur 3.1). 
+Atmosfæriske data er hentet fra Meteorologisk institutt, MEPS (Met.no 2018). Dette er data for vind, 
+temperatur, lufttrykk, luftfuktighet og skydekke, og er gitt med intervall på 3 timer og med oppløsning 
+på 2.5 km × 2.5 km. Også disse dataene interpoleres for å tilpasses gitternettet i strømmodellen.  
+Informasjon om ferskvannstilsig fra elvene i området er hentet fra Norges Vassdrags- og 
+Energidirektorat (NVE Atlas 2020) med daglig vannføring i hver elv. Vannet blir sluppet ut i en 
+gittercelle i modellen, og er med på å styre lagdelingen i vannsøylen. Oversikt over bidrag fra elver 
+som er inkludert i modellen er vist i Kapittel 10. 
+For å unngå ustabilitet i starten av modellkjøringen er modellen først kjørt med en oppstartsperiode 
+på en måned (desember 2019). Resultatene fra denne kjøringen er deretter brukt som inngangsverdi 
+for den endelige modellkjøringen. Etter oppstartsperioden er strømmodellen kjørt for januar 2020 til 
+og med desember 2020.  
+Parametere som er benyttet i modellen, blant annet for å beskrive turbulens, er gitt i Tabell 3.2. 
+Tabell 3.2: Modellparametre i Delft3D-FLOW.  
+ 
+ 
+ 
+3.3.3 Utslippsmodellering 
+I fase 1 er utslippet fra det planlagte anlegget modellert med to forskjellige utslippspunkt og to 
+forskjellige inntakspunkt. Dette er gjort for å finne den beste posisjonen for inntak og utslipp. 
+Alternative posisjoner for utslipp av vann er vist i Figur 2.2 og Tabell 3.3. Utslippet er simulert med 
+en utslippsrate på 0.25 m3/s og 20% ferskvannsinnhold. Utslippsraten er maksimumsverdi oppgitt fra 
+kunde. 
+I fase 2 er det modellert med et nytt utslippspunkt lengre sørvest, vist i Figur 2.2 og Tabell 3.3 og 
+ingen inntakspunkt. Utslippet er simulert med en utslippsrate på 0.09 m3/s og en saltholdighet på 15. 
+Utslippsraten er maksimumsverdi oppgitt fra kunde. Ekstra informasjon som trengs til modellering 
+av primærspredningen for fase 2 er oppgitt i Tabell 3.4.  
+ 
+I tillegg krever beregninger av primærspredning og innlagringsdyp informasjon om strøm, samt 
+hydrografiske profiler, dvs. informasjon om temperatur og saltholdighet med dyp, som inngangsdata. 
+Ved Terråk er modelldata fra fase 1 er brukt som inngangsdata til primærmodelleringen for strøm. 
+Parameter 
+Verdi 
+Horisontal virvelviskositet 
+0.01 m2/s 
+Vertikal virvelviskositet 
+0.0001 m2/s 
+Horisontal virveldiffusivitet 
+0.01 m2/s 
+Vertikal virveldiffusivitet 
+0.0001 m2/s 
+Tidssteg 
+40 s 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 12 of 38 
+Hydrografiske profiler er hentet fra NorKyst800 (Meteorologisk Institutt 2020, Albretsen, et al. 
+2011).  Figur 3.3 viser gjennomsnittlig temperatur og saltholdighet for juni og desember. Profilen fra 
+juni 2020 har betydelig sjikting i overflatelaget ned til 10 m. Dette er sannsynligvis et resultat av 
+oppvarming i overflaten og ferskvannstilsig fra elver. Profilen fra desember er godt blandet.   
+  
+Tabell 3.3: Posisjoner for simulert inntak og utslipp. For utslippspunktene er det også lagt inn planlagt 
+vannføring. Utslipp 1, Utslipp Ny, og Inntak 1 er uthevet da dette er posisjonene det fokuseres på.  
+ 
+Posisjon (N) 
+Posisjon (Ø) 
+Dyp (m) 
+Vannføring (m3/s) 
+Inntak 1 
+65° 05.53’  
+12° 22.50’ 
+150 
+ 
+Inntak 2 
+65° 05.50’ 
+12° 22.10’ 
+150 
+ 
+Utslipp 1 
+65° 05.33’ 
+12° 21.03’ 
+100 
+0.25 
+Utslipp 2 
+65° 05.22’ 
+12° 20.53’ 
+100 
+0.25 
+Utslipp Ny 
+65° 04.81’ 
+12° 19.03’ 
+66 
+0.09 
+ 
+ 
+Tabell 3.4: Utslippsdata benyttet i modelleringen av primærspredning for fase 2. 
+ 
+ 
+I fase 2 er modellen kjørt for juni og desember måned. Juni er måneden med sterkest sjiktning i 
+vannsøyla i NorKyst800-dataene, mens desember er måneden med svakest sjiktning i vannsøyla. I 
+tillegg viser strømresultatene fra modellkjøringen til fase 1 at juni og desember har motsatt rettede 
+hovedstrømretninger. Disse to månedene er dermed valgt for å vise to forskjellige scenarioer av 
+hvordan utslippsvannet sprer seg i vannsøyla og horisontalt. 
+ 
+ 
+Inngangsverdier for primærspredning 
+Rørdiameter 
+355 mm 
+Saltholdighet 
+15 
+Temperatur 
+13 oC 
+Vannføring 
+0.09 m3/s 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 13 of 38 
+ 
+Figur 3.3: Vertikalprofiler av temperatur og saltholdighet brukt i simuleringen av primærspredningen 
+for å finne innlagringsdyp. 
+Beregning av innlagringsdyp er foretatt med to ulike vertikalprofiler (Figur 3.3) og tre ulike 
+strømhastigheter; lav strøm (3 cm/s), gjennomsnittsstrøm (10 cm/s) og sterk strøm (17 cm/s). 
+Verdiene for strøm er hentet fra modelleringen fra punktet Utslipp 2 (Tabell 3.5). Sekundærspredning 
+beskriver spredningen videre fra innlagringsdypet beregnet med gjennomsnittstrøm.  
+Tabell 3.5: Strømdata benyttet i modelleringen av primærspredning for fase 2. 
+Dyp  
+Overflaten 
+Gjennomsnitt (cm/s) 
+9.6 
+Sign. maks (cm/s) 
+16.9 
+Sign. min (cm/s) 
+3.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 14 of 38 
+4. 
+Resultater - fase 1 
+For fase 1 er det foretatt simulering av utslipp fra det planlagte anlegget gjennom 2020. Simuleringen 
+er gjort med utslipp i to ulike posisjoner (Figur 2.2) og av disse er resultatene fra Utslipp 1 vist i dette 
+kapittelet (heretter kalt utslippspunktet). Utslipp fra den andre posisjonen er presentert i Kapittel 6. 
+Utslippsraten er satt til 250 L/s. Resultatene er vist med konsentrasjon av utslippsvann på utvalgte 
+dager i løpet av året, og med maksimal og gjennomsnittsverdier for konsentrasjon i november måned. 
+November er valgt da denne måneden inneholder en av de største spredningene til de nærliggende 
+lokaliteter. Spredningen er vist ved overflaten og bunnen med konsentrasjonsnivå opp til 0.5%.  Dette 
+nivået er valgt som en representativ maksimumsverdi for lokaliteten, men merk at det nær 
+utslippspunktene vil være høyere nivå. Generelt er dette konsentrasjonsnivået for utslippsvann lavt. 
+I fase 1 skal vannet til anlegget på Terråk bestå av 80% sjøvann, og det er viktig at konsentrasjonen 
+av utslippsvann ved inntaket er lav. En tidsserie av konsentrasjonsnivået av utslippsvann ved 
+inntakspunktet er vist for å kunne vurdere krysskontaminering fra utslipp til inntak. I tillegg er 
+spredningen mot nærliggende lokaliteter og lakseelva Terråkelva vurdert. For tidsseriene er 
+konsentrasjonsnivå opp til 0.1% vist, da høyere konsentrasjoner ikke er påvist ved inntaket eller 
+nærliggende lokaliteter. Generelt er dette konsentrasjonsnivået for utslippsvann vurdert som svært 
+lavt.  
+Ut fra innholdet av fosfor og nitrogen i utslippsvannet fra anlegget, og fortynningsgraden av 
+utslippsvannet, er konsentrasjonen av disse stoffene i resipienten beregnet. For klassifisering av 
+miljøtilstand se «Klassifisering av miljøtilstand i vann», Tabell 9.26 (Direktoratsgruppen 
+vanndirektivet 2018). 
+ Nærøysundgruppen AS har ikke valgt å gå videre med fase 1.  
+ 
+4.1 Daglig spredning – fase 1 
+Spredningen av utslipp varierer i løpet av den simulerte perioden og påvirkes av tidevannet og direkte 
+påvirkning fra vind. Figur 4.1 viser konsentrasjonen av utslippsvann fra anlegget for tre utvalgte dager 
+gjennom året. Disse dagene er valgt grunnet ulike strømforhold og spredning. Konsentrasjonen er 
+volumandelen (%) av utslippsvann i resipienten.  
+Resultatene viser at de høyeste konsentrasjonene av utslippet ved bunnen spres mot sørvest inn i 
+Sørfjorden. De største konsentrasjonene er funnet i umiddelbar nærhet til utslippspunktet. Det er også 
+en liten spredning mot nord og mot øst; inn i Osen på utvalgte dager, med konsentrasjoner på under 
+0.05%. 
+Ved overflaten er det lavere konsentrasjoner, men med en større horisontal spredning. De største 
+konsentrasjonene er også her funnet sørvest for utslippet, i Sørfjorden, men på enkelte dager spres 
+også tilsvarende mengder utslipp nordover. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 15 of 38 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.1: Konsentrasjon på bunn (venstre) og i overflaten (høyre), på dagene 26.03, 28.06 og 
+30.12.2020. Konsentrasjoner av utslippsvann er vist med fargeskala opp til 0.5%. Punkt for 
+vanninntak, Inntak 1, er vist med grønn prikk og utslippspunktet, Utslipp 1, med rød prikk.  
+Konsentrasjon av nitrogen (µgN/L) er vist på skala i midten, og konsentrasjon av fosfor (µgP/L) er 
+vist på fargeskala til høyre. 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 16 of 38 
+4.2 Månedlige verdier – fase 1 
+Spredningen av utslipp varierer i løpet av døgnet og påvirkes av tidevannet og vindpådraget. De 
+utvalgte dagene (Figur 4.1) viser bare en del av variasjonen som kan forekomme. For å finne ut hvilke 
+områder som kan bli berørt av utslipp, er maksimal konsentrasjon i løpet av hver måned, over hele 
+modellområdet, registrert ved bunnen og i overflaten. I tillegg er gjennomsnittskonsentrasjonen i 
+løpet av hver måned, i hver gittercelle, beregnet. Dette er vist for november i Figur 4.2. November er 
+valgt da denne måneden har en av de største spredningene mot de nærliggende lokalitetene.  
+På bunnen er det et område sørvest for utslippspunktet hvor maksimalkonsentrasjonen er over 0.5% 
+i november. Dette arealet er relativt begrenset, og verdier under 0.1% er ellers funnet i Sørfjorden. I 
+overflaten er det maksimalkonsentrasjoner opp mot 0.07% nær utslippspunktet (Figur 4.2).  
+Gjennomsnittsverdiene viser lignende mønster som maksimalverdiene, men med lavere 
+konsentrasjoner og mindre areal av høyere konsentrasjoner. Ved bunnen er det et område som 
+strekker seg sørvest fra utslippspunktet med konsentrasjoner opp mot 0.1%. I overflaten er de høyeste 
+gjennomsnittskonsentrasjonene funnet inne i Sørfjorden. 
+Merk at begge disse scenarioene ikke viser et realistisk spredningsmønster, men heller viser det 
+maksimale spredningspotensialet og hvilke konsentrasjoner som i snitt er representativt for området.  
+Det er mindre enn 5 km fra det simulerte utslippspunktet til de nærmeste lokalitetene Båsen og 
+Mulingen, og til lakseelva Terråkelva. Utslippet sprer seg til Båsen i nord, men konsentrasjonen av 
+utslipp er ikke høyere enn rundt 0.02%. 
+Totalt sett er konsentrasjonene av utslippsvann lave.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 17 of 38 
+ 
+ 
+ 
+ 
+Figur 4.2: Maksimal (venstre) og gjennomsnittlig (høyre) konsentrasjon i overflaten (øverst) og på 
+bunn (nederst) i løpet av november 2020. Utslippspunktet, Utslipp 1, er vist med rød prikk og 
+inntakspunktet, Inntak 1, er vist med grønn prikk. Konsentrasjoner av utslippsvann er vist med 
+fargeskala fra 0 til 0.5%, konsentrasjon av nitrogen (µgN/L) vist på skala i midten, og konsentrasjon 
+av fosfor (µgP/L) vist på fargeskala til høyre. Merk at dette bare viser maksimalt spredningspotensial, 
+og er ikke en realistisk situasjon. 
+ 
+4.3 Konsentrasjoner av fosfor og nitrogen – fase 1 
+For å kunne vurdere miljøpåvirkningen av utslippet i resipienten er konsentrasjonsnivået av fosfor og 
+nitrogen beregnet. Dette er basert på innholdsmengden i utslippsvannet og fortynningen utover i 
+resipienten. I «Veileder for Klassifisering av miljøtilstand i vann»  (Direktoratsgruppen 
+vanndirektivet 2018) er grenseverdier for ulike tilstandsklasser gitt i Tabell 9.26. Disse 
+grenseverdiene er gitt for overflatelaget, for vinter og sommer.  
+Det planlagte utslippet fra anlegget inneholder 30.19 mgN/L og 2.79 mgP/L. Spredningen av disse 
+næringssaltene følger samme mønster som utslippet (Figur 4.2).  
+Med en maksimalkonsentrasjon på rundt 0.07% ved utslippsposisjonen på overflaten, blir de 
+maksimale konsentrasjonene av nitrogen og fosfor henholdsvis 21.1 μg/l og 2.0 μg/l. Grenseverdien 
+om sommeren for nitrogen er < 250 μgN/L (<291 μgN/L for vinter) for tilstandsklasse «Svært god», 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 18 of 38 
+og for fosfor er grenseverdien < 11.5 μgP/L (<20 μgP/L for vinter). I denne rapporten vurderes bare 
+tilført mengde fra utslippet og det tas ikke hensyn til det naturlige bakgrunnsnivået i området. Av den 
+grunn kan ikke tilstandsklassen defineres bare basert på modellresultatene.  
+Sett i forhold til grenseverdien for nitrogen på 250 μg/L (tilstandsklasse «svært god»), vil en tilført 
+mengde på opp til 21.1 μg/L øke innholdet maksimalt med 8.5%. For fosfor vil en tilført mengde på 
+2.0 μg/l maksimalt øke innholdet av fosfor med 17% i forhold til grenseverdien på 11.5 μg/l 
+(tilstandsklasse «svært god»). For å endelig bestemme forventet tilstandsgrad i resipienten må 
+bakgrunnsnivåene sammenlignes med tilførte næringssalt fra modellen. 
+ 
+4.4 Konsentrasjon av utslippsvann ved inntakspunkt og nærliggende lokaliteter – fase 1 
+For å vurdere risikoen for krysskontaminering mellom inntak og utslipp, er konsentrasjonen ved 
+inntakspunktet Inntak 1 (nær overflaten og ved bunnen) vist gjennom simuleringsperioden i Figur 
+4.3. Inntakspunktet har lave konsentrasjoner av utslippsvann, med maksimalt 0.05% ved overflaten 
+og 0.04% ved bunnen.  
+Figur 4.4, Figur 4.5, og Figur 4.6 viser konsentrasjonene ved henholdsvis Båsen, Mulingen og 
+Terråkelva for november. Konsentrasjonene av utslippsvann er maksimalt 0.015% ved overflata på 
+Båsen, og 0.01% ved Mulingen og Terråkelva. Dette gir maksimal konsentrasjon av nitrogen og fosfor 
+på henholdsvis 3.0 μg/l og 0.3 μg/l. 
+ 
+ 
+Figur 4.3: Konsentrasjon av utslippsvann ved inntakspunkt 1 gjennom 2020 nær 5 m (blå) og på 
+bunnen (oransje).  
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 19 of 38 
+ 
+Figur 4.4: Konsentrasjon av utslippsvann ved lokaliteten Båsen gjennom november 2020 nær 5 m 
+(blå) og på bunnen (oransje).  
+ 
+Figur 4.5: Konsentrasjon av utslippsvann ved lokaliteten Mulingen gjennom november 2020 nær 5 m 
+(blå) og på bunnen (oransje).  
+ 
+Figur 4.6: Konsentrasjon av utslippsvann ved Terråkelva gjennom november 2020 nær 5 m (blå).  
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 20 of 38 
+5. 
+Resultater – fase 2 
+For fase 2 er det foretatt simulering av utslipp fra det planlagte anlegget for juni og desember 2020 
+fra utslippspunkt Utslipp Ny (Figur 2.2). Utslippsraten er satt til 90 L/s og utslippet har en 
+saltholdighet på 15. Resultatene er vist med konsentrasjon av utslippsvann på utvalgte dager i løpet 
+av året, og med maksimal og gjennomsnittsverdier for konsentrasjon i overflaten for juni og 
+desember. Spredningen er vist ved overflaten og bunnen med konsentrasjonsnivå opp til 0.5%.  
+Tidsserier av konsentrasjonene av utslippsvann ved nærliggende lokaliteter er ikke vist, da verdiene 
+her er under 0.01% for alle tidspunkt i både juni og desember måned.  
+Ut fra innholdet av fosfor og nitrogen i utslippsvannet fra anlegget, og fortynningsgraden av 
+utslippsvannet, er konsentrasjonen av disse stoffene i resipienten beregnet.. 
+Resultatene viser konsentrasjoner under 0.1% som tilsvarer en teskje (5ml) vann fordelt på 5 liter 
+vann, eller 1/5 teskje (1ml) vann fordelt på 1 liter vann. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 21 of 38 
+5.1 Innlagringsdyp 
+Innlagringsdypet er beregnet for de to ulike vertikalprofilene (Figur 3.3) for tre ulike 
+strømhastigheter. Innlagringsdypet varierer mellom 2 m (svak strøm og svakt sjikt) og 45 m (sterk 
+strøm og sterkt sjikt (Figur 5.1). I tilfellet ved en dypere innlagring er det høyere konsentrasjoner ved 
+bunnen enn i tilfellet der innlagringen skjer høyere i vannsøylen. Sekundærspredningen, beregnet 
+med Delft3D-FLOW, vises for utslipp ved 29 m for desember (svakt sjikt), og 41 m for juni (sterkt 
+sjikt). Det er ikke modellert sekundærspredning ut fra det beregna innlagringsdypet for svak eller 
+sterk strøm. Dette fordi det ikke er realistisk med så lave eller høye strømhastigheter over lengre 
+perioder. Gjennomsnittshastighet er vurdert som mer representativ for området, og resultater basert 
+på denne hastigheten brukes derfor videre i modelleringen.  
+ 
+Figur 5.1: Beregnet innlagringsdyp med vertikalprofilene vist i Figur 3.3. Prikkete linjer tilsvarer lav 
+strøm (3 cm/s), stiplede linjer gjennomsnittsstrøm (10 cm/s) og heltrukken linje sterk strøm (17 cm/s). 
+Grønne grafer viser simuleringen med svakt sjikt (desember 2020) og blå grafer viser resultat fra 
+simuleringen med sterkt sjikt (juni 2020). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 22 of 38 
+5.2 Daglig spredning – fase 2 
+Spredningen av utslipp varierer i løpet av den simulerte perioden og påvirkes av tidevannet og direkte 
+påvirkning fra vind. Figur 5.2 viser konsentrasjonen av utslippsvann i overflaten og ved bunn for to 
+utvalgte dager i juni og desember. Disse dagene er valgt grunnet ulike strømforhold og spredning. 
+Konsentrasjonen er volumandelen (%) av utslippsvann i resipienten.  
+Resultatene viser at utslippet ved bunnen i hovedsak spres mot sørvest inn i Sørfjorden. Det er også 
+spor av utslippsvann øst for utslippspunktet, på sørsiden av Sørfjorden. Merk at konsentrasjonene av 
+utslipp er svært lave med verdier godt under 0.1%.  
+Ved overflaten er også konsentrasjonene svært lave med verdier godt under 0.1%. Utslippet spres 
+lengre nord og nordøstover enn ved bunnen. 
+ 
+ 
+ 
+ 
+Figur 5.2: Konsentrasjon på bunn (venstre) og i overflaten (høyre), på dagene 28.06.20 og 25.12.20. 
+Konsentrasjoner av utslippsvann er vist med fargeskala opp til 0.5%. Utslippspunktet, Utslipp Ny, er 
+vist med rød prikk.   
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 23 of 38 
+5.3 Månedlige verdier – fase 2 
+Spredningen av utslipp varierer i løpet av døgnet og påvirkes av tidevannet og vindpådraget. De 
+utvalgte dagene (Figur 5.2) viser bare en del av variasjonen som kan forekomme. For å finne ut hvilke 
+områder som kan bli berørt av utslipp, er maksimal konsentrasjon i løpet av hver måned, over hele 
+modellområdet, registrert ved bunnen og i overflaten. I tillegg er gjennomsnittskonsentrasjonen i 
+løpet av hver måned, i hver gittercelle, beregnet. Dette er vist for overflaten for månedene juni og 
+desember i Figur 5.3.  
+I overflaten er det maksimalkonsentrasjoner opp mot 0.1% nær utslippspunktet (Figur 5.3). Dette 
+arealet er relativt begrenset, og ellers i Sørfjorden er det verdier godt under 0.1%.  
+Gjennomsnittsverdiene viser lignende mønster som maksimalverdiene, men med lavere 
+konsentrasjoner og mindre areal av spredningen av utslipp. 
+Merk at begge disse scenarioene ikke viser et realistisk spredningsmønster, men heller viser det 
+maksimale spredningspotensialet og hvilke konsentrasjoner som i snitt er representativt for området.  
+Totalt sett er konsentrasjonene av utslippsvann svært lave.   
+ 
+ 
+ 
+ 
+Figur 5.3: Maksimal (venstre) og gjennomsnittlig (høyre) konsentrasjon i overflaten for juni (øverst) 
+og desember (nederst). Utslippspunktet, Utslipp Ny, er vist med rød prikk.  Konsentrasjoner av 
+utslippsvann er vist med fargeskala fra 0 til 0.5%, konsentrasjon av nitrogen (µgN/L) vist på skala i 
+midten, og konsentrasjon av fosfor (µgP/L) vist på fargeskala til høyre. Merk at dette bare viser 
+maksimalt spredningspotensial, og er ikke en realistisk situasjon. 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 24 of 38 
+5.4 Konsentrasjoner av fosfor og nitrogen – fase 2 
+For å kunne vurdere miljøpåvirkningen av utslippet i resipienten er konsentrasjonsnivået av fosfor og 
+nitrogen beregnet. Dette er basert på innholdsmengden i utslippsvannet og fortynningen utover i 
+resipienten. I «Veileder for Klassifisering av miljøtilstand i vann»  (Direktoratsgruppen 
+vanndirektivet 2018) er grenseverdier for ulike tilstandsklasser gitt i Tabell 9.26. Disse 
+grenseverdiene er gitt for overflatelaget, for vinter og sommer.  
+Det planlagte utslippet fra anlegget i fase 2 inneholder nitrogen og fosfor, med nivåer på henholdsvis 
+44.39 mgN/L og 7.75 mgP/L. Spredningen av disse næringssaltene følger samme mønster som 
+utslippet (Figur 5.3).  
+Med en maksimalkonsentrasjon på rundt 0.1% rundt utslippsposisjonen i overflaten, blir de 
+maksimale konsentrasjonene av nitrogen og fosfor henholdsvis 44.39 μg/L og 7.75 μg/L. Merk at det 
+er et veldig begrenset område som når verdier på 0.1%.  
+Grenseverdien om sommeren for nitrogen er < 250 μgN/L (<291 μgN/L for vinter) for tilstandsklasse 
+«Svært god», og for fosfor er grenseverdien < 11.5 μgP/L (<20 μgP/L for vinter). I denne rapporten 
+vurderes bare tilført mengde fra utslippet og det tas ikke hensyn til det naturlige bakgrunnsnivået i 
+området. Av den grunn kan ikke tilstandsklassen defineres bare basert på modellresultatene.  
+Sett i forhold til grenseverdien for nitrogen på 250 μg/L (tilstandsklasse «svært god»), vil en tilført 
+mengde på opp til 44.39 μg/L øke innholdet maksimalt med 17.8%. For fosfor vil en tilført mengde 
+på 7.75 μg/l maksimalt øke innholdet av fosfor med 67.4% i forhold til grenseverdien på 11.5 μg/l 
+(tilstandsklasse «svært god»). For å endelig bestemme forventet tilstandsgrad i resipienten må 
+bakgrunnsnivåene sammenlignes med tilførte næringssalt fra modellen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 25 of 38 
+6. 
+Konklusjon 
+6.1 Fase 1 
+For fase 1 viser modelleringen av spredning av utslippsvann at utslipp fra det planlagte anlegget på 
+Terråk sprer seg hovedsakelig sørvest inn i Sørfjorden, og i perioder nordover inn i Terråkfjorden, og 
+østover inn i Osen. Konsentrasjonene borte fra utslippspunktet er svært lave. Dette er også tilfellet 
+ved de eksisterende lokalitetene Båsen og Mulingen, og ved lakseelva Terråkelva, hvor 
+konsentrasjonen av utslippsvann maksimalt er 0.02%. Utslippene av fosfor og nitrogen følger 
+spredningsmønsteret til utslippene ellers, og maksimalt tilførte konsentrasjoner i resipienten er på 
+henholdsvis 21.1 μg/l og 2.0 μg/l. 
+ 
+6.2 Fase 2 
+For oppdaterte planer for anlegget i fase 2, viser modelleringen svært lave konsentrasjoner av 
+utslippsvann. Utslippet sprer seg hovedsakelig sørvest inn i Sørfjorden. Borte fra utslippspunktet er 
+konsentrasjonen av utslipp godt under 0.1%. Verdien 0.1% tilsvarer en teskje (5ml) vann fordelt på 
+5 liter vann, eller 1/5 teskje (1ml) vann fordelt på 1 liter vann. 
+ 
+Ved de eksisterende lokalitetene Båsen og Mulingen, og ved lakseelva Terråkelva, er konsentrasjonen 
+av utslippsvann under 0.01%. Utslippene av fosfor og nitrogen følger spredningsmønsteret til 
+utslippene ellers, og maksimalt tilførte konsentrasjoner i resipienten er på henholdsvis 44.39 μg/L og 
+7.75 μg/L nær utslippspunktet. 
+ 
+Resultatene er basert på bestemte utslippsmengder og må vurderes ut fra dette sammen med lokal 
+kunnskap. Resultatene er basert på maksimal vannføring, og er dermed et konservativt resultat. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 26 of 38 
+7. Vedlegg – alternative posisjoner – fase 1 
+7.1 Alternativ utslippsposisjoner 
+I tillegg til utslipp fra utslippspunkt 1, ble det også simulert utslipp fra utslippspunkt 2 i fase 1. Utslipp 
+2 ligger ca. 400 m lengre inn i Sørfjorden i forhold til Utslipp 1 (Figur 2.2). Spredning og fortynning 
+fra denne posisjonen er vist i dette kapittelet med kart over maksimal og gjennomsnittlig 
+konsentrasjon i november 2020. Spredningen av utslipp fra Utslipp 2 følger de samme mønstrene 
+som utslipp fra Utslipp 1, men med noe forhøyet maksimalverdier i nærheten av utslippspunktet. 
+Konsentrasjonene er fortsatt lave, og maksimal konsentrasjon ved overflaten er 0.08%.   
+ 
+ 
+ 
+ 
+Figur 7.1: Maksimal (venstre) og gjennomsnittlig (høyre) konsentrasjon i overflaten (øverst) og på 
+bunn (nederst) i løpet av november 2020 for Utslipp 2. Utslippspunktet er vist med rød prikk og 
+inntakspunktet, Inntak 2, er vist med grønn prikk. Konsentrasjoner av utslippsvann er vist med 
+fargeskala fra 0 til 0.5%, konsentrasjon av nitrogen (µgN/L) vist på skala i midten, og konsentrasjon 
+av fosfor (µgP/L) vist på fargeskala til høyre. Merk at dette bare viser maksimalt spredningspotensial, 
+og er ikke en realistisk situasjon. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 27 of 38 
+7.2 Alternativ inntaksposisjon 
+I tillegg til inntak ved posisjon Inntak 1, ble det også simulert inntak fra Inntak 2. Inntak 2 ligger ca. 
+300 m vest fra Inntak 1 og da nærmere utslippsposisjonene (Figur 2.2). En tidsserie av 
+konsentrasjonsnivået av utslippsvann fra Utslipp 1 er vist ved Inntak 2 i Figur 6.2. Sammenlignet 
+med Inntak 1 (Figur 4.3) har begge inntakspunktene lave konsentrasjoner av utslippsvann, men det 
+er lavere konsentrasjoner ved Inntak 1 enn Inntak 2. Inntakspunkt 1 har maksimalt 0.05% ved 
+overflaten og 0.04% ved bunnen. For Inntak 2 er maksimalkonsentrasjonen 0.06% både ved overflate 
+og bunn. I tillegg er konsentrasjonene oftere større enn 0.02% ved Inntak 2 enn hva som er tilfellet 
+ved Inntak 1. 
+ 
+ 
+Figur 7.2: Konsentrasjon av utslippsvann fra Utslipp 1 ved Inntak 2 gjennom 2020 nær 5 m (blå) og 
+på bunnen (oransje). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 28 of 38 
+8. Vedlegg – Resultater fra strømmodellering 
+8.1 
+Strømresultater  
+Tabell 8.1 viser modellerte strømdata fra utslippspunktet (Figur 2.2). Gjennomsnittshastigheten er 7.4 
+cm/s på 4 m dyp, og den signifikante makshastigheten er 13 cm/s. Strømhastigheten avtar i dypet og 
+ved 74 m dyp har strømmen en gjennomsnittshastighet på 2.9 cm/s. Strømhastigheten øker deretter 
+mot bunnen hvor strømmen har en gjennomsnittshastighet på 5 cm/s. 
+Strømrosene viser at den dominerende retningen er mot sørvest-vest og nordøst-øst i overflaten (Figur 
+8.1). Videre nedover i dypet dreier strømmen mer mot sørvest, som blir den dominerende 
+strømretningen.  
+Styrken på strømmen varierer gjennom året. Hastigheten i overflaten har størst variabilitet av alle dyp 
+som følge av pådrag fra varierende vindmønster.  En sammenligning mellom modellert strøm for juni 
+og oktober 2020 ved to ulike dyp viser at både styrke og retning kan variere mellom de ulike 
+tidsperiodene (Figur 8.2). Slike endringer gjennom året illustrerer dynamikken i fjorden, og 
+modellering gjennom hele året fanger opp påvirkningen på spredningen av utslippene.  
+Tabell 8.1: Strømverdier fra simuleringer ved utslippspunkt (Figur 2.2) for perioden 01.01.20 – 
+01.01.21.  
+Dyp (m) 
+4 
+17 
+33 
+57 
+74 
+Nær 
+bunn 
+Gjennomsnitt (cm/s) 
+7.4 
+4.0 
+3.4 
+2.8 
+2.9 
+5.0 
+Sign. maks (cm/s) 
+13.0 
+7.0 
+5.7 
+5.1 
+5.7 
+8.7 
+Sign. min (cm/s) 
+2.7 
+1.6 
+1.4 
+1.0 
+0.8 
+1.5 
+Std. avvik (cm/s) 
+4.8 
+2.6 
+2.0 
+2.0 
+2.4 
+3.2 
+% < 1 cm/s 
+2.9 
+7.2 
+8.5 
+17.0 
+23.2 
+8.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 29 of 38 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+Figur 8.1: Strømroser av simulert strøm ved Utslipp 1 (Figur 2.2) for perioden 01.01.20 – 01.01.21.  
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 30 of 38 
+Juni 2020 
+Oktober 2020 
+ 
+ 
+ 
+ 
+Figur 8.2: Sammenligning av strømhastighet for juni og oktober 2020 ved 7 m (oppe) og nær bunnen 
+(nede). Posisjonen er markert med Utslipp 1 i Figur 2.2.  
+ 
+8.2 Simulert strøm i området rundt lokaliteten 
+Det er registrert strøm i hele det modellerte området for hver sjette time i simuleringsperioden. Ut fra 
+dette er den effektive transporthastigheten beregnet. Effektiv transporthastighet er et mål på den 
+gjennomsnittlige styrken og retningen til strømmen i hele vannsøylen gjennom måleperioden. I Figur 
+8.3 er effektiv transporthastighet vist ved overflaten (oppe) og ved bunnen (nede). Det gule krysset 
+viser omtrentlig plassering av utslippspunktet.  
+I overflaten er den dominerende strømmen nordover ut Terråk- og Bindalsfjorden, i tillegg til en 
+komponent nordøst inn Øyfjorden (Figur 8.3, oppe). På grunn av det store vanntilsiget fra elva Åbjøra 
+(Kapittel 10), og en grunn terskel ved innløpet til fjorden Osen, er det sterk nordvestlig strøm i 
+overflata i innløpet til Osen. Ved bunnen går derimot strømmen sørøst inn i Osen (Figur 8.3, nede). 
+Strømmen er svakere ved bunnen, og strømretningen her er sørover inn Terråkfjorden og sørvest ut 
+fra Øyfjorden. 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 31 of 38 
+ 
+ 
+Figur 8.3: Effektiv transporthastighet ved 5 m dyp (oppe) og ved bunnen (nede). Omtrentlig 
+plassering av utslippspunkt er vist med gult kryss. 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 32 of 38 
+8.3 Sammenligning med målt strøm i området  
+Aqua Kompetanse har målt strøm i området for mai 2017 med en rotormåler plassert på ca. 22 m dyp, 
+i et 24 m dypt område (Aqua Kompetanse AS 2017). Merk at dette er nærmere land enn det planlagte 
+utslippspunktet. Rotormåleren måler ikke strøm svakere enn 0.1 cm/s, og hastigheter under 6 cm/s 
+blir ofte underestimert. Da over 93% av strømmålingene er hastigheter lavere enn 1 cm/s (Aqua 
+Kompetanse AS 2017, Tabell 8.2) blir mindre enn 7% av strømmen målt, og målingene er dermed 
+ikke nødvendigvis representative for perioden. I tillegg kan det forventes at strømmen er 
+underestimert da målingene bare viser svak strøm med hastigheter under 6 cm/s.  
+Figur 8.4 viser sammenligningen mellom simulert og målt strøm for mai måned (2020 og 2017). 
+Målingene og simuleringen er fra ulike år og er dermed ikke direkte sammenlignbare. Det er likevel 
+gjort en sammenligning for å få et inntrykk av hvor godt modellen reproduseres strømmen. Den 
+simulerte strømmen er da hentet fra tilsvarende periode på året som målingene. Simulert strøm viser 
+en dominerende strømretning mot nordøst, mens målt strøm viser en dominerende strømretning mot 
+vest. Både simulert og målt strøm har lave hastigheter, men hastigheten til den målte strømmen er 
+generelt lavere (Tabell 8.2). 
+ 
+Tabell 8.2: Strømverdier fra simuleringer ved samme posisjon som strømmålingen (Figur 2.2) for 
+perioden 01.05.20 – 31.05.20 (venstre) og fra målinger utført av Aqua Kompetanse i perioden 03.05-
+30.05.2017. Begge er oppgitt for 22 m. 
+Dyp (m) 
+Simulering 
+Målt (Aqua Kompetanse) 
+Gjennomsnitt (cm/s) 
+2.9 
+1.0 
+Sign. maks (cm/s) 
+5.3 
+6.0* 
+% < 1 cm/s 
+16.5 
+93.4 
+*Ikke oppgitt om maksverdi er signifikant. 
+Simulering 
+01.05.2020-31.05.2020 
+Måling (AquaKompetanse 2017) 
+03.05.2017-30.05.2017 
+ 
+ 
+Figur 8.4: Sammenligning av simulert (venstre) og målt (høyre, Aqua Kompetanse 2020) strøm ved 
+22 m. Posisjonen er markert med gult kryss i Figur 2.2. Den høyre figuren viser vanntransport 
+(m3/m/s) for hver 15° sektor. 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 33 of 38 
+Grunner til avvik mellom målinger og modellresultater er nevnt ovenfor, og består i tillegg av: 
+• Simuleringene har en maksimal oppløsning på 30 m x 30 m og det kan være variasjoner i 
+strømmen innenfor denne skalaen som strømmodellen ikke fanger opp. Også i tid er det 
+variasjon i både strømhastighet og retning, og det er ikke forventet at en modell stemmer 
+eksakt både i tid og rom.  
+• I målingen er det brukt rotormåler som krever en viss styrke på strømmen før den begynner å 
+rotere. Dermed er det knyttet en viss usikkerhet til målingene av svak strømstyrke. 
+Rotormåleren måler ikke strøm svakere enn 0.1 cm/s, og hastigheter under 6 cm/s 
+underestimeres ofte.  
+• Sammenligningen av strømmålinger og simuleringer dekker ikke samme tidsperiode. Både 
+værmønster og strømmen i et område kan endre seg fra år til år, og dette kan forklare noe av 
+ulikhetene mellom strømmålingene og modellen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 34 of 38 
+9. 
+Vedlegg - Havnivå 
+Strømmen i simuleringene blir blant annet drevet av havnivå og en sammenligning med observasjoner 
+er med på å evaluere modellytelsen. Kartverkets nærmeste observasjonspunkt ligger i Rørvik, 60 km 
+sørvest for lokaliteten (Figur 9.1). På grunn av avstanden er det gjort en korreksjon for forskjeller i 
+havnivå, og for utslippspunktet ved Terråk er tidevannet justert med en høydekorreksjonsfaktor på 
+1.06 og forsinket med 10 minutt (Kartverket 2021). 
+Det er noe avvik mellom modellresultatene og målingene, men ikke mer enn hva som er forventet 
+med modellering av strømforhold og tidevann. Et utsnitt av tidsserien viser at vannstanden i modellen 
+veksler mellom være litt høyere og lavere enn observert vannstand (Figur 9.2). Forskjellen mellom 
+målt og simulert vannstand for hele simuleringsperioden er beregnet til å være 4%, der modellen i 
+gjennomsnitt overestimerer tidevannsutslaget. Det er ikke ventet at denne forskjellen har signifikant 
+betydning for spredningsmodelleringen for lokaliteten. 
+ 
+ 
+Figur 9.1: Oversiktskart fra Terråk og sørvestover. Punkt for vannstandsmåling i Rørvik er vist med 
+gul prikk og punkt med korreksjon (inntakspunkt) vist med rød prikk. Kartet er hentet fra 
+Fiskeridirektoratets kartverktøy med datum WGS84. 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 35 of 38 
+ 
+Figur 9.2: Havnivå ved posisjon for Utslipp 1 i perioden 29.07.2020 - 10.08.2020. Svart linje er 
+resultatene fra modellering. Rød prikket linje er tidevannstabell. 
+ 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 36 of 38 
+10. Vedlegg - Ferskvannstilsig 
+Tilførsel av ferskvann i overflaten er med på å drive sirkulasjonen i en fjord, og vassdrag som tilfører 
+ferskvann til det modellerte området er markert i Figur 10.1. Vannføringen til elvene er vist i  Figur 
+10.2. Dataene for ferskvannstilførsel er hentet fra NVE sin database (NVE Atlas 2020) . 
+ 
+Figur 10.1: Oversikt over vassdrag som bidrar med ferskvann i modellen. Fargene representerer de 
+ulike vannmengdene som vises i Figur 10.2. 
+ 
+ 
+ 
+Figur 10.2: Ferskvanntilsig for elvene rundt Terråk som er inkludert i modellen. 
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 37 of 38 
+11. Vedlegg - Usikkerhetsvurdering 
+Usikkerheter i resultater fra modellering kommer fra usikkerhet i inngangsdata til modellene og fra 
+modellene selv. Modellresultatene blir sjekket opp mot målinger for verifisering og kalibrering, og 
+vurdert hvorvidt de er egnet til videre bruk eller ikke. 
+11.1 Inngangsdata for strømmodell 
+Usikkerhetsmomenter i inngangsdata kommer fra: 
+• Værdata 
+• Randbetingelser i havnivå, strøm, saltholdighet og temperatur   
+• Bunndata 
+Usikkerhetene er fanget opp ved å modellere strømforholdene i et stort område rundt utslippspunket 
+med en høyere oppløsning i nærheten av utslippspunkt.  Initialverdier for både hav og atmosfære er 
+interpolert fra et gitter med lavere oppløsning, noe som vil føre med seg usikkerhet.  
+11.2 Strømmodell 
+Det kan være variasjon innenfor rutenett som ikke er fanget opp av modellen. 3D-modellen har en 
+oppløsning på omtrent 30 m x 30 m horisontalt i 15 dybdevarierende lag med størst variasjon ved 
+overflaten. Havstrømmen kan være mer kompleks enn det som fanges opp i modellen. Modellen har 
+størst oppløsning nær overflaten der den fanger opp en detaljert sjiktingen i vannlagene. Nær bunnen 
+er det grovere oppløsning dette kan påvirke resultatene i områder med komplisert og varierende 
+bunntopografi. 
+Med en lokalitet over en bratt skråning er det vanskelig å fange strømmønsteret nærme bunn 
+tilstrekkelig ved å bare se på strøm i et punkt. Spesielt vanskelig er bunnstrømmen, som endres mye 
+over korte avstander på grunn av skråningen. Dette gjør det ekstra viktig å modellere strømmen med 
+høy oppløsning over et større område, og ikke bare bruke punktmålinger.  
+ 
+ 
+ 
+Modellert spredning av utslipp: Terråk 
+Åkerblå AS 
+ 
+Side 38 of 38 
+12. Referanser  
+Albretsen, Jon, Ann Kristin Sperrevik, Andrè Staalstrøm, Anne D. Sandvik, Frode Vikebø, og Lars 
+Asplin. 2011. NorKyst-800 Repost No.1 User Manual and technical descriptions. Bergen: 
+Fisken og Havet, Havforskningsinstituttet. 
+Aqua Kompetanse AS. 2017. «Vannstrømmåling ved utslippspunkt, Terråk, Bindal, mai 2017.» 
+Delft3D-FLOW. 
+2018. 
+Delft3D 
+Open 
+Source 
+Community. 
+24 
+01. 
+https://content.oss.deltares.nl/delft3d/manuals/Delft3D-FLOW_User_Manual.pdf. 
+Direktoratsgruppen vanndirektivet . 2018. Klassifisering av miljøtilstand i vann.  
+Frick, W. E., P. J. W. Roberts, L. R. Davis, J. Keyes, D. J. Baumgartner, og K. P. George. 2003. 
+«Dilution Models for Effluent Discharges 4th Edition (Visual Plumes).» U.S. Environmental 
+Protection Agency. 
+Kartverket. 2021. Kartverket.no. https://kartverket.no/til-sjos/se-havniva. 
+Lesser, G P, J A Roelvink, J.A.T.M. van Kester, og G. S. Stelling. 2004. «Development and validation 
+of a three-dimensional morphodynamic model.» Coastal Engineering.  
+Met.no. 2018. MetCoOp Ensemble Prediction System. http://thredds.met.no/thredds/metno.html. 
+Meteorologisk Institutt, Havforskningsinstituttet. 2020. ROMS NorKyst800m coastal ocean fields. 
+http://thredds.met.no/thredds/fou-hi/norkyst800m.html. 
+Miljødirektoratet. 2013. «Veileder for fastsetting av innblandingssoner.» 
+NVE Atlas . 2020. https://atlas.nve.no/.

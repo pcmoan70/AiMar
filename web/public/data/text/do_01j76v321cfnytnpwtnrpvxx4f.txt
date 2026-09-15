@@ -1,0 +1,276 @@
+﻿<root>
+  <avsender>
+    <adresselinje1>Postboks 185 Sentrum</adresselinje1>
+    <adresselinje2>
+    </adresselinje2>
+    <adresselinje3>
+    </adresselinje3>
+    <navn>Fiskeridirektoratet</navn>
+    <poststed>BERGEN</poststed>
+    <postnr>5804</postnr>
+  </avsender>
+  <mottaker>
+    <adresse1>RÅDHUSET</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>0037</postnr>
+    <poststed>OSLO</poststed>
+    <navn>OSLO KOMMUNE</navn>
+    <land>Norge</land>
+    <orgnr>958935420</orgnr>
+  </mottaker>
+  <id>26356a81-a0bd-487d-8935-09d1dd061a47</id>
+  <tittel>Akvakultursøknad SP-2024-001127 - Norsk Institutt For Vannforskning 855869942 - Søknad om etablering av ny lokalitet Økernveien 94 i Oslo kommune</tittel>
+  <date>1714995621019</date>
+  <dateFormatert>2024-05-06T13:40:21</dateFormatert>
+  <metadataFraAvleverendeSystem>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalaar>0</journalaar>
+    <journalsekvensnummer>0</journalsekvensnummer>
+    <journalpostnummer>0</journalpostnummer>
+    <journalposttype>I</journalposttype>
+    <journalstatus>J</journalstatus>
+    <journaldato>1714946400000</journaldato>
+    <journaldatoFormatert>2024-05-06T00:00:00</journaldatoFormatert>
+    <dokumentetsDato />
+    <tittel>Akvakultursøknad SP-2024-001127 - Norsk Institutt For Vannforskning 855869942 - Søknad om etablering av ny lokalitet Økernveien 94 i Oslo kommune</tittel>
+    <saksBehandler />
+  </metadataFraAvleverendeSystem>
+  <metadataForImport>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalposttype />
+    <journalstatus />
+    <dokumentetsDato />
+    <tittel />
+  </metadataForImport>
+  <status>Klar for mottak</status>
+  <niva>3</niva>
+  <filmetadata>
+    <filnavn>SP-2024-001127_Økernveien 94.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>c2aca9646ef98e7a02f379567ce9ff85d90a8222bf6eab60aa7e11e5d6c7a712</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>161511</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Kvittering - Norsk Institutt for Vannforskning.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>dc63190237b5b6bbc773e28955c1f8a0695326ee77a172fe909e844f24598c4e</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>74171</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>SOP Chlorination waste water from test organisms.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>64cc2ac7a62e9d50e48e8e952a39568deead3b1ebeec9ca2590dd06d9ab99102</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>480605</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Procedure -Handling routines and documentation of aquaculture activities (Ø94).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>f376fb867890ed8c9fc3cb45af3e2c39ab23f74456e0b1f42303d86ccca567fa</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>541168</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Procedure - Preparedness and security (Ø94).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>4e8088e1b342f01f6721cf9587e96186a1a3ddaed968f65c471476dacc54e2d2</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>336061</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Procedure - Preparedness and security (Ø94)(1).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>4e8088e1b342f01f6721cf9587e96186a1a3ddaed968f65c471476dacc54e2d2</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>336061</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>SOP Chlorination waste water from test organisms(1).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>64cc2ac7a62e9d50e48e8e952a39568deead3b1ebeec9ca2590dd06d9ab99102</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>480605</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Procedure - Preparedness and security (Ø94)(2).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>4e8088e1b342f01f6721cf9587e96186a1a3ddaed968f65c471476dacc54e2d2</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>336061</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Procedure - Medical anasthesia or euthanasi of fish.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>c50281dd01eb9cd8177fb84a94a2ffb81e58907f8bac376cff17b78745492158</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>443981</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Procedure -Handling routines and documentation of aquaculture activities (Ø94)(1).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>f376fb867890ed8c9fc3cb45af3e2c39ab23f74456e0b1f42303d86ccca567fa</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>541168</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Procedure - Preparedness and security (Ø94)(3).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>4e8088e1b342f01f6721cf9587e96186a1a3ddaed968f65c471476dacc54e2d2</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>336061</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Procedure - Arrival fish (Ø94).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>68087a82e27be4882682d4f5c0e533262d0548ce10344aaa9a75203c218c71dc</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>732249</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Chart -Holding tank log (Ø94).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>c6768b9886a7873b039ff7ae95f176b641c529d7b1a63795fad5ffb5e3e08ecf</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>410165</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Godkjent påslipp til avløpsnett.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>aaa4365fcaec704aa4ea71a0752baf69215cf46dbc69ef4032a82a7e1d8ce4c1</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1661536</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Godkjent påslipp til avløpsnett(1).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>aaa4365fcaec704aa4ea71a0752baf69215cf46dbc69ef4032a82a7e1d8ce4c1</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1661536</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Konsesjonsfritak for NIVA Akvakultur.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>9cc0f1751967f3f769ec6bce6e31704160f695dabf16857679751f5cd8e25401</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>138797</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Hovedledningskart Økernveien 94.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>236b1d1873f40aad6ae3884075ab6f4d052dd085c83745ebf16cc15f77c757ee</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>800425</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Godkjent påslipp til avløpsnett(2).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>aaa4365fcaec704aa4ea71a0752baf69215cf46dbc69ef4032a82a7e1d8ce4c1</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1661536</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Godkjent av Vann og avløp.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>c10c660f0dcd4f4adb30c950cc5841a05e914e0b09a8fb9690428d639b971594</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1667221</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Kart med Økernveien 94.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>597d0e9234baf5fd1d6526cb25671bae59aa3c62a177ce969b0343f64b3bad56</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>293124</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>bilde ø94.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>e49eb22d2888d7e33260b9cda4af20fb6188475f99d88b4cff241caec26f6154</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>267004</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>NIVA søknad Akvakultur Ø94.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>f7edfd7b5f8d8f198cce6539de1c8aeafb04fcf50fee3ff97a3f36035c794ae0</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>731848</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Konsesjonsfritak for NIVA Akvakultur(1).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>9cc0f1751967f3f769ec6bce6e31704160f695dabf16857679751f5cd8e25401</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>138797</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Godkjent påslipp til avløpsnett(3).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>aaa4365fcaec704aa4ea71a0752baf69215cf46dbc69ef4032a82a7e1d8ce4c1</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1661536</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Godkjent av Vann og avløp(1).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>c10c660f0dcd4f4adb30c950cc5841a05e914e0b09a8fb9690428d639b971594</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1667221</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>AcosSvarInn.xml</filnavn>
+    <mimetype>text/xml</mimetype>
+  </filmetadata>
+  <svarSendesTil>
+    <adresse1>Postboks 185 Sentrum</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>5804</postnr>
+    <poststed>Bergen</poststed>
+    <navn>Fiskeridirektoratet</navn>
+    <land>
+    </land>
+    <orgnr>971203420</orgnr>
+    <fnr />
+  </svarSendesTil>
+  <svarPaForsendelse />
+  <forsendelseType />
+  <eksternRef>26356a81-a0bd-487d-8935-09d1dd061a47</eksternRef>
+  <downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/26356a81-a0bd-487d-8935-09d1dd061a47</downloadUrl>
+  <avgivendeSystem />
+  <taushetsbelagtPost>false</taushetsbelagtPost>
+</root>

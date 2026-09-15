@@ -1,0 +1,1540 @@
+﻿SEA ECO 
+ 
+ 
+ 
+ 
+ 
+Strømrapport  
+Lokalitet: Ytre Djupvik 
+FiDir. ID: Nye lokalitet 
+Måleperiode: 16.04.2021 – 19.05.2021 
+ 
+ 
+Dato: 31.05.21 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 2 av 59 
+Rapporttittel: 
+ 
+Strømrapport Ytre Djupvik (ny lokalitet) 
+ 
+      
+Hamneveien 5, 9455 Engenes 
+Forfatter(e): 
+ 
+Alena Timoshina 
+Rapport- ID:  
+ 
+SE21_AOS_YtreDjupvik_0001_01 
+ 
+Rapportdato/sted:  
+ 
+31.05.21 /Harstad 
+Antall sider:  
+ 
+59 
+Oppdragsgiver: 
+ 
+Gratanglaks AS 
+Kontaktperson:  
+ 
+Tore Lundberg 
+Lokalitet:  
+ 
+Ytre Djupvik 
+Lokalitets-ID:  
+ 
+Ny lokalitet – uten ID 
+Revisjonsnummer/grunnlag: 
+ 
+15.06.21: Gjort endringer i figurer og vurderinger av 
+resultater.  
+Avvik/Merknader:  
+- 
+Sammendrag: 
+ 
+Sea Eco AS har gjennomført en strømundersøkelse i henhold til Norsk Standard (NS 9425 - 1, 1999), (NS9425-2, 
+2003).  
+Strømmålinger ved lokalitet Skjellnes (ID Ny lokalitet) ble utført for Gratanglaks AS. Sea Eco AS har utført 
+strømmålingene og utarbeidet en strømrapport basert på kvalitetssikrede data.  
+Denne rapporten gi informasjon om lokalitetens strømbilde i måleperioden på grunnlag av data fra målinger utført med 
+fire Aquadopp (AQD 300) strømmålere (Nortek) på fire ulike dyp. 
+Data beskrevet i denne rapporten kan brukes for å vurdere bæreevne med hensyn til transport av organisk avfall fra 
+anleggsdriften og til lastberegning av oppdrettsanlegget iht. NYTEK (NS 9415, 2009). 
+Godkjent av: 
+Tone Rasmussen 
+Prosjektleder: 
+Tone Rasmussen 
+Kvalitetskontroll: 
+Tone Rasmussen 
+Rapport distribusjon:  
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten kan kun skje etter skriftlig tillatelse fra 
+SEA ECO AS. I slike tilfeller skal kilde oppgis. 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 3 av 59 
+Informasjon om strømundersøkelse 
+Måleperiode: 
+16.04.2021 – 19.05.2021 
+Lokalitet 
+Lokalitetsnavn 
+Ytre Djupvik 
+Posisjon 
+68° 27.372' N 17° 31.158' Ø 
+Kommune 
+Narvik 
+Fylke 
+Nordland 
+Dyp, m 
+ca.175 m 
+Plasseringsdybder, m 
+5.5 m, 15.6 m, 114 m, 170 m 
+Oppdragsgiver 
+Selskap 
+Gratanglaks AS 
+Kontakt person 
+Tore Lundberg  
+Tlf. 90726858  
+Resultat nøkkeltall 
+Måledyp (m) 
+5.5 
+15.6 
+114 
+170 
+Instrument 
+Aquadopp 
+Aquadopp 
+Aquadopp 
+Aquadopp 
+Instruments ID nr. 
+AQD 9642 
+AQD 9643 
+AQD 9645 
+AQD 9644 
+Middelstrøm (m/s), 
+(cm/s) 
+0.08 m/s,  
+8 cm/s 
+0.05 m/s, 
+5 cm/s 
+0.03 m/s, 
+3 cm/s 
+0.03 m/s, 
+3 cm/s 
+Klassifisering av 
+lokalitet på bakgrunn av 
+middelstrøm NS 9415 
+Liten eksponering 
+Liten eksponering 
+Liten eksponering 
+Liten eksponering 
+Maksimal strøm (m/s), 
+(cm/s) 
+0.31 m/s, 
+31 cm/s 
+0.20 m/s, 
+20 cm/s 
+0.11 m/s, 
+20 cm/s 
+0.15 m/s, 
+15 cm/s 
+Neumann parameter 
+0.05 
+0.26 
+0.19 
+0.04 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 4 av 59 
+INNHOLDSFORTEGNELSE 
+INNHOLDSFORTEGNELSE ...................................................................................................................................................................... 4 
+FORORD ................................................................................................................................................................................................ 5 
+OMRÅDEBESKRIVELSE .......................................................................................................................................................................... 6 
+Plassering ......................................................................................................................................................................................... 6 
+Topografisk beskrivelse av området med Olex .................................................................................................................................... 6 
+METODIKK ............................................................................................................................................................................................ 9 
+STRØM RESULTATER OG VURDERING ................................................................................................................................................. 10 
+I. 
+VEDLEGG – MATRISE FOR STRØMHASTIGHET ............................................................................................................................ 15 
+II. 
+VEDLEGG – STRØMHASTIGHET .................................................................................................................................................. 19 
+III. 
+VEDLEGG – STRØMRETNING ...................................................................................................................................................... 20 
+IV. 
+VEDLEGG – GJENNOMSNITTLIG STRØMHASTIGHET ROSE .......................................................................................................... 21 
+V. 
+VEDLEGG – MAKS STRØMHASTIGHET ROSE ............................................................................................................................... 26 
+VI. 
+VEDLEGG – STRØMHASTIGHET HISTOGRAMMER ....................................................................................................................... 31 
+VII. 
+VEDLEGG – STRØMRETNING HISTOGRAMMER ........................................................................................................................... 32 
+VIII. VEDLEGG – PROGRESSIV VEKTOR .............................................................................................................................................. 33 
+IX. 
+VEDLEGG – VANNFORFLYTNING ................................................................................................................................................. 37 
+X. 
+VEDLEGG – HAVMODELLERING AV STRØM ................................................................................................................................ 39 
+XI. 
+VEDLEGG – ASTRONOMISKE TIDEVANN OG VANNSTAND ........................................................................................................... 42 
+XII. 
+EDLEGG – Tilleggsmålinger: TRYKK ............................................................................................................................................. 44 
+XIII. VEDLEGG – Tidevannsanalyse med bruk av UTide ........................................................................................................................ 46 
+XIV. VEDLEGG – SJØTEMPERATUR .................................................................................................................................................... 48 
+XV. 
+VEDLEGG – METEOROLOGI ........................................................................................................................................................ 49 
+XVI. VEDLEGG – REGN OG SNØSMELTING ......................................................................................................................................... 51 
+XVII. VEDLEGG – Tilleggsmålinger: TILT .............................................................................................................................................. 52 
+XVIII. VEDLEGG –VURDERING AV STRØMDATA .................................................................................................................................... 53 
+XIX. VEDLEGG – MÅLEPRINSIPP ........................................................................................................................................................ 54 
+XX. 
+VEDLEGG – RIGGOPPSETT OG PLASSERINGEN ........................................................................................................................... 54 
+XXI. VEDLEGG – DATAINNSAMLING OG -BEHANDLING....................................................................................................................... 56 
+XXII. VEDLEGG – TERMINOLOGI ......................................................................................................................................................... 58 
+REFERANSER....................................................................................................................................................................................... 59 
+ 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 5 av 59 
+FORORD 
+Strømmålinger ved lokalitet Ytre Djupvik (ID Nye lokalitet) ble utført for Gratanglaks AS. Sea Eco AS har 
+utført strømmålingene og utarbeidet en strømrapport basert på kvalitetssikrede data.  
+Hovedmålet med denne rapporten er å gi informasjon om lokalitetens strømbilde i måleperioden på 
+grunnlag av data fra målinger utført med fire Aquadopp strømmålere (Nortek) på 4 ulike dybder. 
+Dataene som er beskrevet i denne rapporten kan brukes for å vurdere bæreevne med hensyn til transport 
+av organisk avfall fra anleggsdriften og til lastberegning av oppdrettsanlegget i hht. NYTEK (NS 9415, 
+2009). 
+Denne rapporten tilfredsstiller kravene i (NS 9425 - 1, 1999) og (NS9425-2, 2003). 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 6 av 59 
+OMRÅDEBESKRIVELSE 
+Plassering 
+Målepunktet for Ytre Djupvik ligger i Narvik kommune, Nordland. Koordinatene for plassering av 
+strømmålere var: 68° 27.372' N 17° 31.158' Ø. 
+ 
+ 
+ 
+ 
+Topografisk beskrivelse av området med Olex 
+Ytre Djupvik lokalisert i Rombaken, den indre forlengelsen av Ofotfjorden. Den strekker seg rundt 17 km 
+fra Øyjordsneset overfor bysenteret, forbi det trange sundet Straumen under Rombaksbrua (snl.no, 
+2021). Bunndybden på målestasjonen var ca. 175 m. Den dypere delen av Rombaken (med ca. 350 m 
+dybde) er ligger mot nord fra målestasjon. Bunntopografien (batymetrien) på lokaliteten vil påvirke 
+strømforholdene i de ulike vannlagene (se Fig.  2 og Fig.  3). I forhold til topografien det forventes at 
+strømmen beveger seg langs skråningen.
+Navn:   
+ 
+Rombaken 
+Vannforekomsttid:  
+0364030502-C 
+Vannkategori:  
+ 
+Kystvann 
+Vanntype navn:   
+Beskyttet kyst/fjord 
+Saltholdighet:  
+ 
+Euhalin (> 30) 
+Vanntypekode:   
+CG3513222 
+Bølgeeksponering:  
+Beskyttet 
+Tidevann:  
+ 
+Middels (1-5 m) 
+Økoregion:  
+ 
+Norskehavet Nord 
+Miksing i vannsøylen:  
+Delvis blandet 
+Oppholdstid for bunnvann: Moderat (uker) 
+Strømhastighet:  
+Moderat (1 - 3 knop) 
+Fig.  1 Oversiktskart for området rundt 
+lokaliteten 
+SEA ECO 
+ 
+ 
+Fig.  2 Plassering av strømmålere i området (Kilde: Olex) 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 8 av 59 
+Fig.  3 3D bilde av bunntopografien i området (Kilde: Olex) 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 9 av 59 
+METODIKK 
+Strømmålinger på dybdene 5.5, 15.6, 114 og 170 m ble foretatt av Sea Eco AS med 4 NORTEK 
+Aquadopp punktmålere i perioden 16.04.2021 – 19.05.2021. Strømmålingene ble kvalitetssikret 
+av Sea Eco AS. 
+Tab. 1 Bakgrunnsinformasjon om strømmåling 
+Måledyp → 
+5.5 
+15.6 
+114 
+170 
+Instrumenttype 
+Aquadopp 
+Aquadopp 
+Aquadopp 
+Aquadopp 
+Måler ID-nr. 
+AQD 9642 
+AQD 9643 
+AQD 9645 
+AQD 9644 
+Posisjon 
+68° 27.372' N 17° 31.158' Ø 
+Dyp på målested 
+175 
+Måleperiode 
+16.04.2021 – 
+19.05.2021 
+16.04.2021 – 
+19.05.2021 
+16.04.2021 – 
+19.05.2021 
+16.04.2021 – 
+19.05.2021 
+Måleinterval 
+10 minutter 
+10 minutter 
+10 minutter 
+10 minutter 
+På grunn av tidevannets påvirkning er det ikke fornuftig å foreta målinger mindre enn 27 dager 
+(en månefase). Logging av strøm skjer hvert 10. minutt (som angitt i NS 9415:2009).  
+ 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 10 av 59 
+STRØM RESULTATER OG VURDERING 
+Følgende bidrar til det totale strømbildet på lokaliteten: 
+• Tidevannsstrøm (Kartverket, 2021), (UTide GSO Report, 2011); 
+• Vindgenerert overflatestrøm (eKlima, 2021); 
+• Havstrøm (Havstraum, 2021), (Havforskningsinstituttet, 2011); 
+• Ferskvannstilførsel  i form avregn, snø- og issmelting (Xgeo, 2021). 
+Resultater av strømundersøkelse og vurdering av strømdata  
+Resultater er sammenfattet i Tab. 2. Verdiene av gjennomsnittlig strøm er vurdert/fargelagt etter: 
+Tab. 4. Fig.  12 vises strømhastighet på 5.5, 15.6, 114 og 170 m dyp.  
+Vannmengden, vannkvalitet, vanngjennomstrømning og strømhastighet nær oppdrettsanlegg 
+skal være slik at fisken har gode levekår basert på fiskens art, alder, utviklingstrinn, vekt og 
+fysiologiske og atferdsmessige behov (Forskrift nr. 673., 2018). Lokalitetens egnethet for 
+fiskeoppdrett vurderes derfor ut fra gjennomsnittlig hastighet, maksimal strømhastighet, 
+nullmålinger, varighet på nullmålinger, antall registrerte strømhastigheter over 30 cm/s, retning 
+på strømmen og den totale vannutskiftningen (Mattilsynet, 2019). 
+Overflatestrømmen på 5.5 m dyp hadde en gjennomsnittlig hastighet på 8 cm/s, maksimal 
+strømhastighet var 31 cm/s mot øst (se Fig.  4 og Fig.  5). Høye strømhastigheter ble registrert 
+bare noen ganger i løpet av 30.04.2021.  
+Middelstrømmen på 5.5 m er klassifisert til «Liten eksponering» (se Tab. 4) iht. (NS 9415, 2009).   
+På 5.5 m dybde var registrert standardavvik 5 cm/s.  
+Mest dominerende strømretninger på 5.5 m dyp var 255°, 240°, 75°, 270° dvs. sørvestlig, 
+nordøstlig og vestlig retninger (se Fig.  13 og Fig.  25).  
+10-års strømhastighet1 på 5.5 m dyp var 51 cm/s. 50-års strømhastigheten var 57 cm/s.  
+Neumanns2 parameter på 5.5 m dyp var 0.05, dvs. vannet strømmet 5% av tiden i en retning. 
+5.5 m dyp hadde største vannforflytning med 1056.20 m3/m2/dag mot 240-255° dvs. i sørvestlig 
+ 
+1 10-års og 50-års strømhastighet - For å estimere henholdsvis 10- og 50-årsstrømmen den største strømhastigheten 
+blir multiplisert med en faktor på 1,65 og 1,85 (se Tab. 6). 
+2 Neumann-parameter er et mål for stabiliteten av strømretningen. Lav Neumann-parameter indikerer at vannmengdene 
+blander seg. Maksimal verdi er 1. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 11 av 59 
+retning. I Fig.  26 er visst progressivt vektordiagram3 som viser orienteringen av 
+vannpartikkelbevegelse i vannoverflate. 
+Andel nullmålinger4 var 1.89% med varighet opp mot 20 min. I forhold til Mattilsynets 
+Retningslinjer (Mattilsynet, 2019) er dette akseptabel andel og varighet av nullmålinger.  
+Vannutskiftningsstrøm er spesielt viktig for fiskens levemiljø (Mattilsynet, 2019).  
+Vannutskiftingsstrøm på 15.6 m dyp hadde gjennomsnittlig strømhastighet på 5 cm/s, og 
+maksimal hastighet på 20 cm/s mot øst (se Fig.  7). Det ble ikke registrert noen høye 
+strømhastigheter (over 30 sm/s) i løpet av måleperioden. Middelstrømmen på 15.6 m er 
+klassifisert til «Liten eksponering» iht. (NS 9415, 2009) (se Tab. 4).  
+På 15.6 m dybde var det registrert standardavvik som 3 cm/s. 
+Dominerende strømretninger på 15.6 m dybde var 90°, 75°, 105°, 60° dvs. i østlig, nordøstlig, 
+sørøstlig, nordøstlig retning (se Fig.  13 og Fig.  25).  
+10-års strømhastighet på 15.6 m dyp var 32 cm/s. 50-års strømhastigheten var 36 cm/s.  
+Neumanns parameter var 0.26, dvs. vannet strømmet 26% av tiden i en retning. Største 
+vannforflytning var 658.33 m³ / m2/ dag mot 75-90° dvs. i nordøstlig – østlig retning. Progressivt 
+vektordiagram viser bevegelse av vannpartiklene på dette dypet (Fig.  27). 
+Andel nullmålinger var 3.60% med varighet opp mot 30 min. I henhold til Mattilsynets 
+Retningslinjer (Mattilsynet, 2019) er dette akseptabel andel og varighet av nullmålinger. 
+Spredningsstrøm er av betydning for lokalitetens totale bæreevne (Mattilsynet, 2019).  
+Spredningsstrøm er målt på 114 m dyp, beregnet mellom merdbunn og bunnen på lokaliteten.  
+Spredningsstrøm på 114 m dyp hadde gjennomsnittlig strømhastighet på 3 cm/s, og maksimal 
+hastighet på 11 cm/s mot 135˚ sørøst. Middelstrømmen på 114 m er klassifisert som: «Liten 
+eksponering» iht. (NS 9415, 2009 (se Tab. 4).  
+Standardavvik på spredningsdypet var 2 cm/s. 
+Mest dominerende strømretninger på spredningsdyp var 105°, 240°, 120°, 225° dvs. i sørøstlig, 
+sørvestlig retning (se Fig.  13 og Fig.  25). 10-års strømhastighet på 114 m dyp var 19 cm/s. 
+50-års strømhastigheten for 114 m dyp var 21 cm/s.  
+ 
+3 Progressivt vektordiagram – plot av den observerte havstrømvektoren i rekkefølge. Det viser orienteringen av 
+vannpartikkelbevegelse og gir viktig informasjon om forventet distribusjon av organisk avfall fra oppdrettsanlegg. 
+4 Nullmålinger – Målinger med strømhastighet lavere enn 1 cm/s. Andel nullmålinger bør være lavt (mindre enn 10 %). 
+Nullmålinger som har lang varighet (12 -24 timer) må ikke forekomme. En halv time stagnasjon hver gang tidevannet snur 
+vil trolig være akseptabelt (Mattilsynet, 2019). 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 12 av 59 
+Neumanns parameter på spredningsstrøm var 0.19, dvs. at vannet strømmer i en retning 19% 
+av tiden. Største vannforflytning var 223.77 m³/ m2/dag mot 90-105° dvs. i østlig – sørøstlig 
+retning. Progressivt vektordiagram viser bevegelsen av vannpartikler på spredningsstrømmen 
+(Fig.  28). 
+Bunnstrøm er påvirker også lokalitetens totale bæreevne (Mattilsynet, 2019).  
+Bunnstrømmen på 170 m dyp hadde gjennomsnittlig strømhastighet på 3 cm/s, og maksimal 
+hastighet på 15 cm/s mot 315˚ nordvest.  
+Middelstrømmen er klassifisert til «Liten eksponering» iht. (NS 9415, 2009) (se Tab. 4).  
+Standardavvik på bunnstrøm var 1 cm/s.  
+Dominerende strømretninger på bunndyp var 105°, 15°, 285°, 75° dvs. i sørøstlig, nordøstlig, 
+nordvestlig og nordøstlig retning (se Fig.  13 og Fig.  25).  
+10-års strømhastighet på 170 m dyp var 25 cm/s, og 50-års strømhastigheten var 28 cm/s.  
+Neumanns parameter på bunnen var lav - 0.04, dvs. at vannet strømmer i en retning 4% av 
+tiden. Største vannforflytning på bunn var registrert søm 130.74 m³/ m2/dag mot 60-75° dvs. i 
+nordøstlig retning. Progressivt vektordiagram viser orienteringen av vannpartikkelbevegelse på 
+bunnen (Fig.  29). 
+Tidevannsanalyse ved bruk av UTide 
+En analyse ble gjennomført for å vurdere hvor stor andel av den målte strømhastigheten som 
+er forårsaket av tidevannet ved bruk av Python versjon (UTide GSO Report, 2011). 
+Fig.  40 og Fig.  41 viser tidevannsstrøm og reststrømmer for nordlig (u)-og østlig (v) strøm 
+komponentene i målt strømhastighet. Reststrøm på 5.5 m dyp var mindre enn 1 cm/s mot 187° 
+dvs. i sørvestlig retning. Reststrømmen på 15.6 m dyp var 1 cm/s mot 82° dvs. i østlig retning. 
+Reststrømmen på 114 m dybde var også 1 cm/s mot 162° sørøst (se Tab. 2). For 170 m dyp 
+var reststrømmen mindre enn 1 cm/s mot 63° dvs. i nordøstlig retning. 
+Temperatur 
+Temperaturen påvirker mange fysiske prosesser i vannet, også strøm.  
+Vanntemperaturen var på alle dype gradvis økende i måleperioden april – mai 2021. 
+Temperaturen er som forventet med hensyn til sesongmessig oppvarming fra vinter til sommer.  
+Sammenligning av vann- og lufttemperatur i måleperioden finnes i Fig.  44. På 5.5 m dyp fra 3.5 
+til 6.2˚C. På 15.6 m dyp fra 3.4 til 5.1˚C. På 114 m dyp økte temperaturen fra 5.5 til 7.2 ˚C. Og 
+ven bunnen fra 7.0 til 7.3˚C (se Fig.  42).  
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 13 av 59 
+I følge Fisken og Havet nr. 10-2008 (Havforskningsinstituttet, 2008) er laksens 
+temperaturtoleranse sterkt påvirket av akklimering, og generelt sett ser det ut til at laksen kan 
+overleve temperaturer langt over 20°C forutsatt at oksygentilgangen er tilstrekkelig. Den lavere 
+letale grensen regnes for å være -1 C (Havforskningsinstituttet, 2008). Målte vanntemperaturer 
+er akseptabel i forhold til temperaturkrav for laks (Havforskningsinstituttet, 2008).  
+ 
+Trykk 
+I denne undersøkelse 4 Nortek Aquadopp (AQD 300) punktmålere ble plassert på 5.5, 15.6, 114 
+og 170 m, så trykk ble målt på hver dybde. Trykkvariasjon under måleperioden er presentert i 
+Fig.  38. Dybden påvirkes av tidevann og sammenligningsgraf for trykk og vannstand kan sees 
+i Fig.  39. Det er korrelasjon mellom trykk og vannstand. 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 14 av 59 
+Tab. 2 Oppsummering av statistikken (Verdiene er fargelagt etter: IX. Vedlegg Tilstandsklasser 
+for vurdering av strømdata) 
+Type av instrument og ID nr. 
+Aquadopp 
+Aquadopp 
+Aquadopp 
+Aquadopp 
+AQD 9642 
+AQD 9643 
+AQD 9645 
+AQD 9644 
+Måledybder (m) 
+5.5 
+15.6 
+114 
+170 
+Klassifisering av lokalitet på 
+bakgrunn av middelstrøm 
+NS 9415 
+Liten eksponering 
+Liten eksponering 
+Liten eksponering 
+Liten eksponering 
+Gjennomsnittlig strøm 
+(m/s), (cm/s) 
+0.08 m/s,  
+8 cm/s 
+0.05 m/s, 
+5 cm/s 
+0.03 m/s, 
+3 cm/s 
+0.03 m/s, 
+3 cm/s 
+Maks strøm (m/s), (cm/s) 
+0.31 m/s, 
+31 cm/s 
+0.20 m/s, 
+20 cm/s 
+0.11 m/s, 
+11 cm/s 
+0.15 m/s, 
+15 cm/s 
+Min strøm (m/s), (cm/s) 
+0.00 
+0.00 
+0.00 
+0.00 
+Brukte målinger / totalt (#) 
+4719 / 4719 
+4719 / 4719 
+4719 / 4719 
+4721 / 4721 
+Standardavvik (m/s), (cm/s) 
+0.05 m/s, 
+5 cm/s 
+0.03 m/s, 
+3 cm/s 
+0.02 m/s, 
+2 cm/s 
+0.01 m/s, 
+1 cm/s 
+Betydelig maks 
+strømhastighet (m/s), 
+(cm/s) 
+0.14 m/s, 
+14 cm/s 
+0.09 m/s, 
+9 cm/s 
+0.05 m/s, 
+5 cm/s 
+0.04 m/s, 
+4 cm/s 
+Betydelig min 
+strømhastighet (m/s), 
+(cm/s) 
+0.03 m/s, 
+3 cm/s 
+0.02 m/s, 
+2 cm/s 
+0.01 m/s, 
+1 cm/s 
+0.01 m/s, 
+1 cm/s 
+10-års strømhastighet 
+(m/s), (cm/s) 
+0.510 m/s, 
+51 cm/s 
+0.322 m/s, 
+32 cm/s 
+0.188 m/s, 
+19 cm/s 
+0.250 m/s, 
+25 cm/s 
+50-års strømhastighet 
+(m/s), (cm/s) 
+0.572 m/s, 
+57 cm/s 
+0.361 m/s, 
+36 cm/s 
+0.211 m/s, 
+21 cm/s 
+0.280 m/s, 
+28 cm/s 
+Dominerende retninger (°) 
+255°, 240°, 75°, 
+270° 
+90°, 75°, 105°, 60° 
+105°, 240°, 120°, 
+225° 
+105°, 15°, 285°, 
+75° 
+De viktigste 
+strømhastighetene (m/s), 
+(cm/s) 
+0.10, 0.05, 0.15, 
+0.20 m/s, 
+10, 5, 15, 20 cm/s, 
+0.04, 0.06, 0.08, 
+0.02 m/s, 
+4, 6, 8, 2 cm/s 
+0.04, 0.02, 0.06, 
+0.08 m/s, 
+4, 2, 6, 8 cm/s 
+0.04, 0.02, 0.06, 
+0.08 m/s, 
+4, 2, 6, 8 cm/s 
+Største flyt (m3/m2/dag) 
+1056.20 m³ / dag 
+mot 240-255° 
+658.33m³ / dag mot 
+75-90° 
+223.77m³ / dag mot 
+90-105° 
+130.74m³ / dag mot 
+60-75° 
+Minste flyt (m3/m2/dag) 
+37.92m³ / dag mot 
+165-180° 
+40.09m³ / dag mot 
+150-165° 
+46.88m³ / dag mot 
+315-330° 
+68.67m³ / dag mot 
+165-180° 
+Neumann parameter 
+0.05 
+0.26 
+0.19 
+0.04 
+Reststrøm (m/s), (cm/s) 
+0.0 m/s, 
+0 cm/s mot 187° 
+0.01 m/s, 
+1 cm/s mot 82° 
+0.01 m/s,  
+1 cm/s mot 162° 
+0.00 m/s,  
+0 cm/s mot 63° 
+Nullstrøm (%) – Varighet 
+(tt:mm) 
+1.89% - 00:20 
+3.60% - 00:30 
+8.20% - 00:30 
+10.80% - 00:40 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 15 av 59 
+I. 
+VEDLEGG – MATRISE FOR STRØMHASTIGHET 
+ 
+Fig.  4 Matrise for strømhastighet (5.5 m dybde). Viser en hastighets- og 
+retningsfordelingsmatrise.  
+ 
+ 
+Fig.  5 Strømhastigheter per 8 retningssektorer (5.5 m dybde) 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 16 av 59 
+ 
+Fig.  6 Matrise for strømhastighet (15.6 m dybde). Viser en hastighets- og 
+retningsfordelingsmatrise.  
+ 
+ 
+Fig.  7 Strømhastigheter per 8 retningssektorer (15.6 m dybde) 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 17 av 59 
+ 
+Fig.  8 Matrise for strømhastighet (114 m dybde). Viser en hastighets- og 
+retningsfordelingsmatrise.  
+ 
+ 
+Fig.  9 Strømhastigheter per 8 retningssektorer (114 m dybde) 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 18 av 59 
+ 
+Fig.  10 Matrise for strømhastighet (170 m dybde). Viser en hastighets- og 
+retningsfordelingsmatrise.  
+ 
+ 
+Fig.  11 Strømhastigheter per 8 retningssektorer (170 m dybde) 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 19 av 59 
+II. 
+VEDLEGG – STRØMHASTIGHET 
+ 
+Fig.  12 Logget strømhastighet på 5.5, 15.6, 114 og 170 m. Rød striplet linje indikerer 30 cm som er grenseverdien for høy strømhastighet..  Oransje 
+stiplet linje er vist for forenklet visuell analyse av strømhastigheter høyere enn 10 cm/s. 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 20 av 59 
+III. 
+VEDLEGG – STRØMRETNING 
+ 
+Fig.  13 Logget strømretning på 5.5, 15.6, 114 og 170 m. De fleste målinger registrerte strømretninger mellom 0 - 90˚ og mellom180 - 270˚ på 5.5 og 
+15.6 m dyp. Det er vanskelig å tyde dominerende strømretninger på sprednings- og bunndyp. 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 21 av 59 
+IV. 
+VEDLEGG – GJENNOMSNITTLIG STRØMHASTIGHET ROSE 
+ 
+Fig.  14 Strømrose av gjennomsnittlig strømhastighet på 5.5 m dybde i Google Earth (colorbar har skalaen fra 0 (mørk blå) til 15 cm/s (mørk rød)) 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 22 av 59 
+ 
+Fig.  15 Gjennomsnittlig strømhastighet fremstilt som rosediagram (5.5 m) med Olex. Fargeskala fra 0 (mørk blå) til 15 cm/s (mørk rød). 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 23 av 59 
+ 
+Fig.  16 Gjennomsnittlig strømhastighet fremstilt som rosediagram (15.6 m) med Olex. Fargeskala fra 0 (mørk blå) til 15 cm/s (mørk rød). 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 24 av 59 
+ 
+Fig.  17 Gjennomsnittlig strømhastighet fremstilt som rosediagram (114m) med Olex. Fargeskala fra 0 (mørk blå) til 15 cm/s (mørk rød). 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 25 av 59 
+ 
+Fig.  18 Gjennomsnittlig strømhastighet fremstilt som rosediagram (170 m) med Olex kart på bakgrunn (colorbar har skalaen fra 0 (mørk blå) til 15 cm/s 
+(mørk rød)) 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 26 av 59 
+V. 
+VEDLEGG – MAKS STRØMHASTIGHET ROSE 
+ 
+Fig.  19 Strømrose av maksimal strømhastighet på 5.5 m dybde [m/s] i Google Earth (colorbar har skalaen fra 0 (mørk blå) til 35 cm/s (mørk rød)) 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 27 av 59 
+ 
+Fig.  20 Maks strømhastighet fremstilt som rosediagram (5.5 m) med Olex. Fargeskala fra 0 (mørk blå) til 35 cm/s (mørk rød). 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 28 av 59 
+ 
+Fig.  21 Maks strømhastighet fremstilt som rosediagram (15.6 m) med Olex kart. Fargeskala fra 0 (mørk blå) til 35 cm/s (mørk rød). 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 29 av 59 
+ 
+Fig.  22 Maks strømhastighet fremstilt som rosediagram (114 m) med Olex kart. Fargeskala fra 0 (mørk blå) til 35 cm/s (mørk rød). 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 30 av 59 
+ 
+Fig.  23 Maks strømhastighet fremstilt som rosediagram (170 m) med Olex kart. Fargeskala fra 0 (mørk blå) til 35 cm/s (mørk rød). 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 31 av 59 
+VI. 
+VEDLEGG – STRØMHASTIGHET HISTOGRAMMER 
+ 
+Fig.  24 Strømhastighet histogrammer som viser fordelingen av antall målinger i de ulike strømhastighetene (hvert intervall er 1 cm/s). 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 32 av 59 
+VII. 
+VEDLEGG – STRØMRETNING HISTOGRAMMER 
+ 
+Fig.  25 Strømretning histogrammer som viser fordelingen av antall målinger fordelt på de ulike strømretningene oppgitt i retningsgrader. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 33 av 59 
+VIII. 
+VEDLEGG – PROGRESSIV VEKTOR 
+ 
+Fig.  26 Progressiv vektordiagram for måledyp 5.5 m (overflatestrøm). Diagrammet 
+sammenstiller strømstyrke, retning, tid og beregnet distanse for å vise flytting av vannpartiklene i 
+måleperioden og gir et klart bilde av hovedstrømretningen. For hvert punkt på kurven har 
+vannpartiklene flyttet seg et døgn. Denne er basert på en idealisert situasjon der målingene er gjort i 
+åpent hav uten fysiske hindringer for strømmen. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 34 av 59 
+ 
+Fig.  27 Progressiv vektordiagram for måledyp 15,6 m (vannutskiftningsstrøm). Diagrammet 
+sammenstiller strømstyrke, retning, tid og beregnet distanse for å vise flytting av vannpartiklene i 
+måleperioden og gir et klart bilde av hovedstrømretningen. For hvert punkt på kurven har 
+vannpartiklene flyttet seg et døgn. Denne er basert på en idealisert situasjon der målingene er gjort i 
+åpent hav uten fysiske hindringer for strømmen.  
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 35 av 59 
+ 
+Fig.  28 Progressiv vektordiagram for måledyp 114 m (spredningsstrøm). Diagrammet 
+sammenstiller strømstyrke, retning, tid og beregnet distanse for å vise flytting av vannpartiklene i 
+måleperioden og gir et klart bilde av hovedstrømretningen. For hvert punkt på kurven har 
+vannpartiklene flyttet seg et døgn. Denne er basert på en idealisert situasjon der målingene er gjort i 
+åpent hav uten fysiske hindringer for strømmen. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 36 av 59 
+ 
+Fig.  29 Progressiv vektordiagram for måledyp 170 m (bunnstrøm). Diagrammet sammenstiller 
+strømstyrke, retning, tid og beregnet distanse for å vise flytting av vannpartiklene i måleperioden og 
+gir et klart bilde av hovedstrømretningen. For hvert punkt på kurven har vannpartiklene flyttet seg et 
+døgn. Denne er basert på en idealisert situasjon der målingen er gjort i åpent hav uten fysiske 
+hindringer for strømmen. 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 37 av 59 
+IX. 
+VEDLEGG – VANNFORFLYTNING 
+ 
+Fig.  30  Vannforflytning (m3/m2/dag) på 5.5 m dyp. Grafen viser den gjennomsnittlig 
+vannforflytning per dag i forhold til retningsgrader.. 
+ 
+ 
+Fig.  31  Vannforflytning (m3/m2/dag) på 15.6 m dyp. Grafen viser den gjennomsnittlig 
+vannforflytning per dag i forhold til retningsgrader.. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 38 av 59 
+ 
+Fig.  32  Vannforflytning (m3/m2/dag) på 114 m dyp. Grafen viser den gjennomsnittlig 
+vannforflytning per dag i forhold til retningsgrader.. 
+ 
+ 
+Fig.  33  Vannforflytning (m3/m2/dag) på 170 m dyp. Grafen viser den gjennomsnittlig 
+vannforflytning per dag i forhold til retningsgrader. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 39 av 59 
+X. 
+VEDLEGG – HAVMODELLERING AV STRØM 
+Verdier for havmodellering av strømhastighet er hentet fra Havstraumprojektet (Havstraum, 
+2021) (Fig.  34, Fig.  35).  
+Målte strømhastigheter med 4 Aquadopp punktmålere på Ytre Djupvik samsvarer med 
+presentert nedenfor modellerte verdier av strømhastighet (Havstraum, 2021).  
+For eksempel, i løpet av april - mai 2021 på 5.5 m dyp det var registrert en maksimal 
+strømhastighet som 31 cm/s. Denne verdien tilsvarer modellerte hastighetsverdier på 5 m dyp 
+(øvre 95. persentil) i det samme område (se Fig.  34 og Tab. 3). Gjennomsnittlig strømhastighet 
+på 5.5 m dyp var målt søm 8cm/s. I Fig.  35 man kan se at modellerings verdier av median 50. 
+persentil strømhastighet (mellom 5-10 cm/s) tilsvarer målte verdier av gjennomsnittlig 
+strømhastigheter. 
+På 15.6 m dyp maksimal strømhastighet var 20 cm/s. Fig.  34 vises at modellerings verdier (av 
+øvre 95. persentil på 15 m dyb) er modellert som verdier mellom 10 og 20 cm/s. Målt 
+vannutskiftingsstrøm på 15 m dyp hadde gjennomsnittlig strømhastighet på 5 cm/s. I Fig.  35 
+visst at modellerings verdier av median 50. persentil strømhastighet (mellom 0-5 cm/s) tilsvarer 
+målte verdier av gjennomsnittlig strømhastigheter. 
+På bunndyp maksimal målt strømhastighet var 15 cm/s. Modellerings verdier av 
+strømhastigheter (øvre 95. persentil) er lit mindre enn målt verdier (se Fig.  34). Modellerings 
+verdier av strømhastigheter (median 50. persentil) tilsvarer målte verdier av gjennomsnittlig 
+strømhastigheter i bunnen. 
+Tab. 3 - Sammenligning av målte og modellerte verdier (Havstraum, 2021) av strømhastighet i 
+området  
+Dybder (m) 
+5 m  
+15 
+bunn 
+Målt/Modellert 
+Målt 
+Modellert 
+Målt 
+Modellert 
+Målt 
+Modellert 
+Gjennomsnitlig 
+strømhastighet (cm/s) 
+8 
+5-10 
+5 
+0-5 
+3 
+0-5 
+tilsvarer 
+tilsvarer 
+tilsvarer 
+Maksimal 
+strømhastighet (cm/s) 
+31 
+20-25 
+20 
+10-20 
+15 
+5-10 
+Modellerings verdier av 
+strømhastighet er litt mindre enn 
+målt verdier. 
+tilsvarer 
+Modellerings verdier av 
+strømhastighet er litt mindre enn 
+målt verdier. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 40 av 59 
+ 
+Fig.  34 - Havmodellerings verdier for 5 m, 15 m og bunn (årlig øvre 95. persentil) av 
+strømhastighet i Rombaken området (Havstraum, 2021) 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 41 av 59 
+ 
+Fig.  35 - Havmodellerings verdier for 5 m, 15 m og bunn (årlig median 50. persentil) av 
+strømhastighet i Rombaken området (Havstraum, 2021) 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 42 av 59 
+XI. 
+VEDLEGG – ASTRONOMISKE TIDEVANN OG VANNSTAND  
+ 
+Høyeste astronomiske tidevann (HAT) i Narvik som er nærmeste tettsted til lokaliteten er 
+estimert til 3.82 m og laveste astronomiske tidevann (LAT) som 0 m.  
+I henhold til NS 9415 kan ekstrem høy og lav vannstand med 50 års returperiode estimeres 
+som henholdsvis HAT +1 m og LAT - 1 m.  
+Ekstrem høy vannstand med 50 års returperiode er 4.82 m og ekstrem lavvannstand med 
+50 års returperiode skal være -1 m.  
+ 
+ 
+Fig.  36 Nivåskisse med de viktigste vannstandsnivåene 
+og ekstremverdier (bilde er hentet fra Tidevannstabeller for 
+2020) 
+Høyeste astronomiske tidevann (HAT): 
+ 
+ 
+3.82 m 
+Ekstrem høy vannstand med 50 års returperiode (HAT+1 m):  
+4.82 m 
+Laveste astronomiske tidevann (LAT): 
+ 
+ 
+0.0 m 
+Ekstrem lavvannstand med 50 års returperiode (LAT-1 m): 
+ 
+-1.0 m 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 43 av 59 
+Høy og lav vann beregnet for Narvik målestasjon i perioden 16.04.2021 – 19.05.2021 er visst i Fig.  37. Det er overflatestrøm på måledyp 5,5 m og 
+vannutskiftingsstrøm på 15,6 m som er mest påvirket av tidevannet.  
+ 
+ 
+Fig.  37 Tidevann/høy og lavvann i løpet av 16.04.2021 – 19.05.2021 (Kartverket, 2021) 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 44 av 59 
+XII. 
+EDLEGG – Tilleggsmålinger: TRYKK 
+I forhold med (NS 9415, 2009) strømforhold bør måles på 5 (±2 m) og på 15 m (± 3 m). Fig.  38 vises at strømmålere ble plassert på korrekt 
+dybdene som tilsvarer krav gitt i (NS 9415, 2009). 
+ 
+Fig.  38 Registrert trykk (1 dBar er 104 Pa) på hhv. 5.5, 15.6, 114 og 170 m viser hvordan målerne har endret dybde i måleperioden. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 45 av 59 
+ 
+Fig.  39 Registrert trykk (1 dBar er 104 Pa) på hhv. 5.5 m (grå linje) og vannstand fra Narvik målestasjon (Normalnull 2000) (fargerike prikker). Det er 
+korrelasjon mellom trykk og vannstand. 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 46 av 59 
+XIII. 
+VEDLEGG – Tidevannsanalyse med bruk av UTide 
+ 
+Fig.  40 Tidevannanalyse  for strømhastighetsdata [m/s] (u komponent på 5.5 m dybde) (UTide GSO Report, 2011) 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 47 av 59 
+ 
+ 
+Fig.  41 Tidevannanalyse for strømhastighetsdata [m/s] (v komponent på 5 m dybde) (UTide GSO Report, 2011)
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 48 av 59 
+XIV. 
+VEDLEGG – SJØTEMPERATUR 
+ 
+Fig.  42 Sjøtemperatur i løpet av måleperiode på 5.5, 15.6, 114 og 170 m  
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 49 av 59 
+XV. 
+VEDLEGG – METEOROLOGI  
+Vindforholdene for måleperioden fra (eKlima, 2021) for stasjon: LOSISTUA 84210.  
+ 
+Fig.  43 Strømhastighet (cm/s) på 5.5 m (øvre bilde) og på 15.6 m (nederste bilde) plottet i forhold til registrert vindhastighet (m/s) med fargeforklaring 
+av vindretning (˚) gjennom måleperioden (eKlima, 2021)  
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 50 av 59 
+ 
+Fig.  44 Sjøtemperaturer plottet i forhold til  registrert lufttemperatur gjennom måleperioden (lufttemperatur data er hentet fra (eKlima, 2021))  
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 51 av 59 
+XVI. 
+VEDLEGG – REGN OG SNØSMELTING 
+Regn og snøsmelting for måleperioden fra Xgeo portal (Xgeo, 2021) for område nær Ytre Djupvik, Nordland.  
+ 
+Fig.  45 Regn og snøsmelting (Xgeo, 2021). 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 52 av 59 
+XVII. 
+VEDLEGG – Tilleggsmålinger: TILT 
+ 
+Fig.  46 Tilt (˚) på 5.5, 15.6, 114 og 170 m 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 53 av 59 
+XVIII. 
+VEDLEGG –VURDERING AV STRØMDATA 
+ 
+Tab. 4 Tilstandsklasser for vurdering av strømdata. Tabellen er hentet fra NS 9415 [6] 
+Strømklasser 
+Strømhastighet [cm/s] 
+Betegnelse 
+a 
+0-30 
+Liten eksponering 
+b 
+30-50 
+Moderat eksponering 
+c 
+50-100 
+Stor eksponering 
+d 
+100-150 
+Høy eksponering 
+e 
+> 150 
+Svær eksponering 
+ 
+Tab. 5 – Generelle tilstandsklasser for vurdering av strømdata. Tabellen er hentet fra Vann-Nett 
+portal (Vann-Nett portalen, 2021) 
+I - Svak 
+II - Moderat 
+III - Sterk 
+Merknad 
+< 1 knop 
+1-3 knop 
+> 3 knop 
+Verdier er hentet fra Vann-Nett Portal 
+<51 cm/s 
+51 - 154 cm/s 
+> 154 cm/s 
+Konvertert fra knop (nm/t) til cm/s 
+ 
+Tab. 6 Multiplikasjonsfaktor som resultat av returperiode 
+Måleperiode (måneder) 
+Returperiode 
+10 år 
+ 50 år 
+3 
+1,64 
+1,86 
+4 
+1,54 
+1,72 
+5 
+1,48 
+1,63 
+6 
+1,4 
+1,58 
+7 
+1,36 
+1,51 
+8 
+1,31 
+1,48 
+9 
+1,29 
+1,44 
+10 
+1,26 
+1,44 
+11 
+1,26 
+1,41 
+ 
+ 
+Fig.  47  Figur med forklaring fra Havforskningsrapporten 2011, s. 29. om bæreevne vs. 
+strømhastighet. 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 54 av 59 
+XIX. 
+VEDLEGG – MÅLEPRINSIPP 
+Aquadoppene sender ut høyfrekvente akustiske signaler, som blir reflektert fra suspendert 
+materiale, plankton og bobler (som alle antas å bevege seg med samme hastighet som 
+vannmassene). Strømhastigheten, både retning og fart, beregnes  på bakgrunn av Doppler-
+skiftet i det reflekterte signalet (NS9425-2, 2003).  
+Aquadopp målerne registrerer strømhastighet, strømretning og sjøtemperatur samt en rekke 
+interne kvalitetsparametere som trykk og tilt (helning). 
+XX. 
+VEDLEGG – RIGGOPPSETT OG PLASSERINGEN 
+Plassering av rigg har stor innflytelse på måleresultatene. Dette betyr at stedet for utplassering 
+av strømmålere bør vurderes ut fra hva formålet med målingene er. For måledata som skal 
+brukes til vurdering av oppdrettslokaliteter definerer NS 9415:2009: "Målingene skal foretas på 
+det stedet på lokaliteten man antar har de høyeste strømhastighetene, og skal være 
+representative for arealet der oppdrettsanlegget skal ligge." Dette er derfor hovedkriteriene for 
+å velge sted for strømundersøkelsen. I tillegg skal geografisk beliggenhet, topografi av området 
+samt avrenning fra land vurderes. 
+Riggoppsett for målt strøm er skissert i Fig.  48.  
+Målingene er tatt for å måle strøm: 
+• Overflatestrøm (5.5 m); 
+• Vannutskiftingsstrøm/Strøm for lastbregning (15.6 m); 
+• På spredningsdyp (halvveis mellom merdbunn og bunn) (114 m); 
+• Like over havbunnen (170 m). 
+Målingene skal ideelt utføres i midtpunktet av anlegget. Likevel er det behov for lokale 
+tilpassinger pga. driftsmessige forhold med hensyn til skipstrafikk til og fra anlegget, 
+fortøyninger både for ramme og flåte. Vi ønsker i størst mulig grad å unngå målinger i perioder 
+hvor det står fisk i anlegget, fordi dette vil kunne endre strømbildet på 5 og 15 m dybde. På 
+noen hardbunns- eller sterk skrånende lokaliteter er det også nødvendig å avvike fra planlagt 
+plassering for å kunne sikre god forankring av strømriggen. 
+Informasjon om strømhastighet og -retning nær havbunnen er nødvendig for beregning av areal 
+som kan påvirke vannutskifting og oksygentilførsel over sedimentert organisk materiale som 
+lander på bunnen. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 55 av 59 
+ 
+Fig.  48 Prinsippskisse for riggoppsett strømmålere. Målere stått på ca. 5.5, 15.6, 114 og 170 m 
+dyp. Målingene som er rapportert er på 5.5, 15.6, 114 og 170 m dyp. Merdbunn er beregnet ut fra 
+posetype, spisspose 55 m. Bunndyp ca. 175 m. 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 56 av 59 
+XXI. 
+VEDLEGG – DATAINNSAMLING OG -BEHANDLING 
+Kontroll av utstyr ble utført før utsett.  
+Kontroll inkluderer: Batteristatus, instrumentinnstilling, minnestatus og generell sjekk av 
+kontakter, ledninger, pakninger og casing. 
+Ved utsett av strømmålere benyttes eget feltskjema som inkluderer: Lokalitetsnavn, dato og 
+tidspunkt for utsett og opptak, riggoppsett, posisjon, måledybde, feltansvarlig og et 
+kommentarfelt for eventuelle observasjoner ved utsett og opptak. 
+Etter målingen blir strømmålerne kontrollert for begroing og annet som kan ha påvirket 
+strømdata eller utstyr. Det noteres på skjema og i rapporten.  
+For informasjon om datainnsamling og parametre for kvalitetskontroll for denne målingen, se 
+Tab. 7.  
+Data ble behandlet i Sea Report-programvaren (Nortek, 2019).  
+Kvalitetskontroll-algoritmer: amplitude pike, lav SNR, orientering, lavt trykk, overflatetrykk, vinkel 
+og hastighetstopper.  
+Beskrivelse av metoder for reduksjon av støy finnes i håndboka for programvaren (Nortek, 
+2019). Data kvalitetssikres etter kriterier gitt i Tab. 7. Dersom disse kriteriene ikke blir møtt blir 
+data ikke vurdert. Opplagt ikke-valide målinger er også vurdert og fjernet om nødvendig (typisk 
+ved utsett/innhenting). Der blir også gjort en vurdering av eksterne forhold som kan ha påvirket 
+målingene som f.eks. uvær, uønskede hendelser o.l. 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 57 av 59 
+Tab. 7 Informasjon om datainnsamling og parametre for kvalitetskontroll. 
+Datainnsamling 
+Måledybde → 
+5.5 
+15.6 
+114 
+170 
+Måler ID-nr. 
+AQD 9642 
+AQD 9643 
+AQD 9645 
+AQD 9644 
+Posisjon 
+68° 27.372' N 17° 31.158' Ø 
+Dybde på målested 
+175 
+Vertikal orientering av 
+strømmålere 
+Opp 
+Opp 
+Opp 
+Opp 
+ Endelig måleperiode 
+16.04.2021 – 
+19.05.2021 
+16.04.2021 – 
+19.05.2021 
+16.04.2021 – 
+19.05.2021 
+16.04.2021 – 
+19.05.2021 
+Måleinterval 
+10 minutter 
+10 minutter 
+10 minutter 
+10 minutter 
+Brukt malinger/antall 
+målinger 
+4719 / 4719 
+4719 / 4719 
+4719 / 4719 
+4721 / 4721 
+Dataredigering 
+Ingen 
+Ingen 
+Ingen 
+Ingen 
+Eksterne forhold som 
+kunne ha påvirket 
+målingene? 
+Nei 
+Kvalitetskontroll 
+Terskel for maksimal 
+vinkel 
+30 
+30 
+30 
+30 
+Terskel for amplitude  
+70 
+70 
+70 
+70 
+Terskel for hastighet til 
+spikes 
+5 
+5 
+5 
+5 
+Datakvalitet 
+Datakvalitet 
+Datakvalitet 
+Datakvalitet 
+Datakvalitet 
+Kalibreringsstand 
+Kalibrering av målere er gjennomført iht. leverandørs anbefaling. Historikk over 
+kalibrering lagres internt hos Sea Eco. 
+Strømhastighet utvalg 
+±5 m/s 
+Strømhastighet 
+nøyaktighet 
+1% av målt verdi (±0.5 cm/s) 
+Maksvinkel på posisjon 
+30° 
+Utvalgt temperatur  
+-4°C til 40°C 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 58 av 59 
+XXII. 
+VEDLEGG – TERMINOLOGI 
+ 
+Tab. 8 Parametre brukt i rapporten og kort beskrivelse 
+Parameter 
+Beskrivelse 
+Strømhastighet (cm/s) 
+Fart med angitt retning 
+Gjennomsnittlig strøm (cm/s) 
+Matematisk gjennomsnittlig verdi av alle strømhastighets data 
+Gjennomsnittlig verdi 
+Middelverdien er summen av alle målte hastigheter delt på antall målinger 
+Maks strøm (cm/s) 
+Maksimal verdi av alle strømhastighets data 
+Min strøm (cm/s) 
+Laveste verdi av alle strømhastighets data 
+Strømretning (˚) 
+Retning strømmen er rettet mot 
+Standardavvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi 
+Betydelig maks strømhastighet 
+(cm/s) 
+Matematisk gjennomsnitt av høyeste 1/3 av strømhastighets data 
+Betydelig min strømhastighet 
+(cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av strømhastighets data 
+Neumann parameter 
+Neumann-parameter er et mål for stabiliteten av strømretningen. Lav Neumann-
+parameter indikerer at vannmengdene blander seg. Maksimal verdi er 1 [4]. 
+Null-strøm (%) – Varighet 
+(tt:mm) 
+Målinger med strømhastighet lavere enn 1 cm/s. Andel nullmålinger bør være lavt 
+(mindre enn 10 %). Nullmålinger som har lang varighet (12 -24 timer) må ikke 
+forekomme. En halv time stagnasjon hver gang tidevannet snur vil trolig være 
+akseptabelt (Mattilsynet, 2019) 
+Reststrøm (cm/s) 
+Reststrømmen er den vektorielle differansen mellom den målte strømmen og 
+tidevannsanalysen. Vektoriell i denne sammenhengen betyr at hvis det er målt 20 cm/s 
+strøm mot nord og tidevannet på samme tid ville gitt en 5 cm/s strøm mot sør, så vil 
+reststrømmen være 25 cm/s mot nord. 
+Progressiv vektordiagram 
+Et progressiv vektordiagram viser hvordan en tenkt vannpartikkel på en gitt dybde ville 
+forflytte seg i måleperioden der startpunktet er i midten av diagrammet.  
+Vannstand (m) 
+Høyden av vannflaten på et bestemt sted på et gitt tidspunkt. For havet påvirkes 
+vannstanden av tidevann og værets virkning. 
+ 
+ 
+ 
+SEA ECO 
+ 
+ 
+ 
+Hamneveien 5, 9455 Engenes 
+     www.sea-eco.no 
+Side 59 av 59 
+REFERANSER 
+eKlima, 2021. http://eklima.met.no/. 
+Forskrift nr. 673., 2018. Forskrift om drift av akvakulturanlegg (akvakulturdriftsforskriften) § 
+22.Vannkvalitet og overvåking. 
+Havforskningsinstituttet, 2011. Havforskningsrapporten 2011 (No. 1). 
+Havforskningsinstituttet, 2008. AkvaVis – dynamisk GIS-verktøy for lokalisering av oppdrettsanlegg for 
+nye oppdrettsarter. Miljøkrav for nye oppdrettsarter og laks. 
+Havstraum, 2021. http://havstraum.no/. 
+Kartverket, 2021. https://www.kartverket.no/. 
+Mattilsynet, 2019. Retningslinje: Etableringsøknader – saksbehandling i tilsynet. 
+Nortek, 2019. Sea Report Manual. 
+NS 9415, 2009. Norsk Standard NS 9515: Flytende oppdrettsanlegg; Krav til utforming, 
+dimensjonering, utførelse, installasjon og drift. 
+NS 9425 - 1, 1999. Oseanografi – Del 1: Strømmålinger i faste punkter. 
+NS9425-2, 2003. Oseanografi – Del 2: Strømmålinger ved hjelp av ADCP. 
+snl.no, 2021. Store norske leksikon. 
+UTide GSO Report, 2011. UTide GSO Report. 
+Vann-Nett portalen, 2021. www.vann-nett.no. 
+Xgeo, 2021. http://www.xgeo.no/. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COPYRIGHT OG ANSVARSRETT 
+Sea Eco har utarbeidet denne rapport for utelukkende bruk av Oppdragsgiver i samsvar med vilkårene og 
+avtalebetingelsene. Ingen annen garanti, uttrykt eller underforstått, er gjort med hensyn til det faglige råd som 
+inngår i denne rapporten eller andre tjenester levert av Sea Eco. Denne rapporten kan ikke påropes av noen 
+annen part uten skriftlig avtale med Sea Eco. Uautorisert reproduksjon eller bruk av noen person annet enn 
+Oppdragsgiver er ikke tillatt.

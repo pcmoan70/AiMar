@@ -1,0 +1,5248 @@
+﻿Terråk         
+           
+ 
+ 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 0 av 62 
+ 
+ 
+Punktutslippsundersøkelse 
+NS-EN ISO 16665:2014 
+ 
+for  
+Terråk 
+ 
+ 
+ 
+ 
+ 
+Feltarbeid 
+05.04.2022 
+Oppdragsgiver 
+Terråk Industripark AS 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 2 av 62 
+Punktutslippsundersøkelse for Terråk 
+Rapportnummer / Rapportdato 104331-01-001 /30.06.2022 
+Revisjonsnummer 
+Revisjonsbeskrivelse 
+Signatur 
+- 
+- 
+- 
+Lokalitet 
+Lokalitet 
+Terråk  
+Landbasert oppdrettsanlegg 
+Bindal, Nordland 
+Økoregion Norskehavet sør og vanntype beskyttet kyst/fjord 
+Lokalitetsnummer  
+Ny lokalitet 
+Oppdragsgiver 
+Selskap 
+Terråk Industripark AS 
+Kontaktperson 
+Svein Martinsen 
+Oppdragsansvarlig 
+Selskap 
+Åkerblå AS, Nordfrøyveien 413, 7260 Sistranda, Org.nr.: 916 763 816 
+Prosjektansvarlig 
+Torbjørn Gylt 
+Forfatter (-e) 
+Ovin Melby Holm, Christine Østensvig  
+Godkjent av 
+Evelina Merkyte 
+Akkreditering 
+Feltarbeid, fauna og faglige fortolkninger: Ja, Åkerblå AS, Test 252 (NS-EN 
+ISO/IEC 17025). Kjemi: Ja, Eurofins Environment Testing Norway AS 
+Vilkår og betingelser 
+Denne rapporten kan kun gjengis i sin helhet.  Gjengivelse av deler av 
+rapporten kan kun skje etter skriftlig tillatelse fra Åkerblå AS.  I slike tilfeller 
+skal kilde oppgis. Resultatene i denne undersøkelsen gjelder kun for beskrevne 
+prøvestasjoner som representerer et definert og begrenset område ved et 
+spesifikt prøvetidspunkt. 
+Sammendrag 
+Denne rapporten omhandler en punktutslippsundersøkelse ved lokaliteten Terråk i Bindal kommune, Nordland 
+fylke. Undersøkelsen gjennomføres etter ønske fra kunde i forbindelse med søknad om å etablere et nytt 
+utslippspunkt i Sørfjorden, fra et planlagt landbasert oppdrettsanlegg. Resultatene fra denne undersøkelsen er 
+rapportert inn til vannmiljødatabasen av Åkerblå AS. 
+ 
+Samlet viser faunaresultatene svært gode forhold i influensområdet rundt Terråk (figur 1; tabell 1). 
+Artssammensetningen var hovedsakelig dominert av forurensningssensitive, -nøytrale og -tolerante arter, men 
+det var flere opportunistiske arter til stede, som blant annet Heteromastus filiformis som var hyppigst 
+forekommende ved flere av stasjonene. Ingen enkeltarter dominerte stort, og biodiversiteten i området var 
+samtidig svært høy. De geokjemiske resultatene støtter oppunder de gode faunaforholdene da det ble 
+registrert lave konsentrasjoner i hele området. Referansen viste lignende forhold som i influensområdet, men 
+dog med en noe lavere tilstand. Referansen anses likevel som en representativ beskrivelse for områdets 
+naturlige tilstand. 
+ 
+Samtlige grabbhugg ble godkjent for en tilstrekkelig mengde sediment og en uforstyrret overflate, med unntak 
+av ett hugg ved TER-2 og ett hugg ved TER-3. Videre ble det observert noen ulikheter mellom grabbene ved 
+referansen (se diskusjon). Åkerblå mener likevel at prøvene er gode nok til å overvåke den økologiske tilstanden 
+ved Terråk.  
+Forsidefoto: Charlotte Hallerud 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+Side 3 av 62 
+Figur 1. Plassering av utslippspunkt (gult kryss), målepunkt for strømundersøkelse (flagg), hovedstrømsretning 
+(rød pil) og antatt influensområde (lilla linje) over oppmålt bunntopografi. Prøvestasjoner er presentert med 
+faunatilstand: blå = Svært/meget god tilstand, grønn = god tilstand, gul = moderat tilstand, oransje = dårlig 
+tilstand og rød = svært/meget dårlig tilstand. Tall representerer stasjonsnummer (1 = TER-1 osv) og R = 
+referansestasjonen. Kartet har nordlig orientering og mørkere blå farge representerer dypere områder. 
+Kartdatum WGS84. 
+Tabell 1. Hovedresultater. Antallet arter og individer er oppgitt per prøvestasjon og Shannon-wiener indeks (H'), 
+Tilstandsverdi (økologisk kvalitetsratio: nEQR) og klassifisering av kobber (Cu) er vurdert etter Veileder 02:2018 
+(2018). 
+Stasjon/ 
+TER-1 
+TER-2 
+TER-3 
+TER-REF 
+Parameter 
+Antall arter 
+107 
+88 
+86 
+84 
+Antall individ 
+637 
+646 
+562 
+1241 
+H' 
+4,683 
+4,561 
+4,544 
+3,949 
+nEQR 
+0,873 
+0,844 
+0,863 
+0,785 
+Cu 
+7,7 
+7,5 
+7,2 
+5,0 
+2 
+R 
+1 
+3 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 4 av 62 
+Forord 
+Denne rapporten omhandler en undersøkelse av punktutslipp ved Terråk. Det er ikke 
+utarbeidet egen standard for undersøkelse av punktutslipp (settefiskanlegg, kloakk, slakteri 
+osv). Derfor ble denne undersøkelsen utført etter NS ISO 16665 (2014). Vi bruker en del av 
+metodikken fra C-undersøkelser (NS9410 2016) da det er en del fellesnevnere med hensikten 
+til denne undersøkelsen. Formålet var å beskrive miljøtilstanden i området basert på vann-, 
+sediment-, kjemi- og bunndyrsundersøkelser.  
+ 
+Åkerblå AS er akkreditert for vurdering og fortolkning av resultater etter TEST 252; SFT-
+Veileder 97:03 og Norsk Standard NS9410 (2016), samt NIVA- rapport 4548 (Berge 2002) og 
+Veileder 02:2018. Åkerblå AS sitt laboratorium tilfredsstiller kravene i NS-EN ISO/IEC 17025.  
+ 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 5 av 62 
+Innhold 
+FORORD ........................................................................................................................................................... 4 
+INNHOLD .......................................................................................................................................................... 5 
+1 INNLEDNING .................................................................................................................................................. 6 
+2 MATERIALE OG METODE ............................................................................................................................... 8 
+2.1 OMRÅDE OG PRØVESTASJONER ............................................................................................................................. 8 
+2.2 PRØVETAKING OG ANALYSER .............................................................................................................................. 12 
+3 RESULTATER ................................................................................................................................................ 15 
+3.1 BUNNDYRSANALYSER ........................................................................................................................................ 15 
+3.1.1 TER-1.................................................................................................................................................... 15 
+3.1.2 TER-2.................................................................................................................................................... 17 
+3.1.3 TER-3.................................................................................................................................................... 19 
+3.1.4 TER-REF ................................................................................................................................................ 21 
+3.2 HYDROGRAFI ................................................................................................................................................... 23 
+3.3 SEDIMENTANALYSER ......................................................................................................................................... 24 
+3.3.1 Sensoriske vurderinger ........................................................................................................................ 24 
+3.3.2 Kornfordeling ....................................................................................................................................... 24 
+3.3.3 Kjemiske parametere ........................................................................................................................... 24 
+4 DISKUSJON .................................................................................................................................................. 26 
+5 LITTERATURLISTE ......................................................................................................................................... 27 
+6 VEDLEGG ..................................................................................................................................................... 29 
+VEDLEGG 1 - FELTLOGG (B-PARAMETERE) .................................................................................................................. 29 
+VEDLEGG 2 - ANALYSEBEVIS ..................................................................................................................................... 31 
+VEDLEGG 3 - KLASSIFISERING AV FORURENSNINGSGRAD ................................................................................................ 47 
+VEDLEGG 4 - INDEKSBESKRIVELSER ............................................................................................................................ 49 
+VEDLEGG 5- REFERANSETILSTANDER .......................................................................................................................... 52 
+VEDLEGG 6 - ARTSLISTE .......................................................................................................................................... 56 
+VEDLEGG 7 – CTD RÅDATA ..................................................................................................................................... 60 
+VEDLEGG 8 – BILDER AV SEDIMENT ........................................................................................................................... 62 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 6 av 62 
+1 Innledning 
+ 
+Bløtbunnsfauna domineres i hovedsak av flerbørstemark, krepsdyr og muslinger. 
+Artssammensetningen i sedimentet kan gi viktige opplysninger om miljøforholdene ved en 
+lokalitet da de fleste marine bløtbunnsarter er flerårige og relativt lite mobile (ISO 16665 
+2014). Miljøforholdene er avgjørende for antallet arter og antallet individer innenfor hver art 
+i et bunndyrsamfunn. Ved naturlige forhold vil et bunndyrsamfunn inneholde mange ulike 
+arter med en relativt jevn fordeling av et moderat antall individer blant disse artene (ISO 
+16665 
+2014; 
+Veileder 
+02:2018). 
+Moderat 
+organisk 
+belastning 
+kan 
+stimulere 
+bunndyrsamfunnet slik at artsantallet øker, mens ved en større organisk belastning i et 
+område 
+vil 
+antallet 
+arter 
+reduseres. 
+Opportunistiske 
+arter, 
+slik 
+som 
+de 
+forurensningsindikerende flerbørstemarkene Capitella capitata og Malacoceros fuliginosus, 
+vil da øke i antall individer mens mer sensitive arter vil forsvinne (Veileder 02:2018).  
+ 
+De fleste former for dyreliv i sjøen er avhengig av tilstrekkelig oksygeninnhold i vannmassene. 
+I åpne områder med god vannutskiftning og sirkulasjon er oksygenforholdene som regel 
+tilfredsstillende. Stor tilførsel av organisk materiale kan imidlertid føre til at oksygeninnholdet 
+i vannet blir lavt fordi oksygenet forbrukes ved nedbrytning. Terskler og trange sund kan føre 
+til dårlig vannutskiftning, og dermed redusert tilførsel av nytt oksygenrikt vann. Ved 
+utilstrekkelig tilførsel av oksygen kan det ved nedbrytning av organisk materiale dannes 
+hydrogensulfid (H2S) som er giftig for mange arter. I tillegg til bunndyrsanalyser kan 
+surhetsgraden (pH) og redokspotensial (Eh) måles for å avgjøre om sedimentet er belastet av 
+organisk materiale. Sure tilstander (lav pH) og høyt reduksjonspotensiale (lav Eh) reflekterer 
+lite oksygen i sedimentet og kan indikere en signifikant grad av organisk belastning. Mengden 
+organisk materiale i sedimentet måles som totalt organisk karbon (TOC) og som totalt organisk 
+materiale (TOM; glødetap). I tillegg måles tungmetaller (sink og kobber), fosfor og nitrogen i 
+sedimentene for å vurdere i hvilken grad området er belastet (Veileder 02:2018). C:N 
+forholdet viser i hvilken grad det organiske materialet gir grunnlag for biologisk aktivitet 
+(NS9410 2016), hvor en lav ratio antyder en større mengde tilgjengelig nitrogen og dermed 
+muligheten for høyere biologisk aktivitet.  
+ 
+Når bløtbunnsfauna brukes i klassifisering, benyttes diversitets og sensitivitetsindeksene; 
+Shannon-Wieners diversitetsindeks (H’), den sammensatte indeksen NQI1 (diversitet og 
+sensitivitet), ES100 (diversitet), International sensitivity index (ISI) og Norwegian sensitivity 
+indeks (NSI). Hver indeks er tildelt referanseverdier som deler funnene inn i ulike 
+tilstandsklasser. Bunnfauna vurderes etter gjennomsnittsverdier av indeksene fra de to 
+prøvene. Tilstandsklasser vil ofte kunne gi et godt inntrykk av de reelle miljøforhold, særlig når 
+de vurderes i sammenheng med artssammensetningen i prøvene for øvrig. Slike 
+tilstandsklasser må like fullt brukes med forsiktighet og inngå i en helhetlig vurdering sammen 
+med de andre resultatene. Klima og forurensningsdirektoratet legger imidlertid vekt på 
+indekser når miljøkvaliteten i et område skal anslås på bakgrunn av bløtbunnfauna. Veilederen 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 7 av 62 
+har delt norskekysten i seks økoregioner og definert åtte forskjellige vanntyper, hvorav fem 
+av vanntypene er aktuelle for marine undersøkelser. En del kombinasjoner er slått sammen 
+og det er definert totalt 11 sett med klassifiseringer. Hvert sett har egne grenseverdier for de 
+ulike indeksene. Forskjellen på disse er stor fra Skagerak til Barentshavet, men gradvis varierer 
+langs kysten ellers. Dette medfører at en gitt prøve for eksempel kan klassifiseres som god i 
+Skagerak, men svært god etter indeksene definert for Barentshavet i nord. Grensene er 
+dermed i større grad tilpasset naturlige variasjoner langs kysten (Veileder 02:2018). 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 8 av 62 
+2 Materiale og metode 
+ 
+2.1 Område og prøvestasjoner 
+Lokaliteten Terråk ligger i Sørfjorden i Bindal kommune, Nodland fylke. Utslippspunktet ligger 
+plassert i økoregion Norskehavet sør med vanntype beskyttet kyst/fjord. Det planlagte 
+utslippspunktet er tenkt plassert på 66 meters dyp, 310 meter fra Rotholmen i sør og 360 
+meter fra fastland i øst (figur 2.1.1). Strømmålinger gjort våren 2022 viser at bunnstrømmen i 
+området har to motsatt rettede hovedretninger, hhv. mot SV og NØ (Åkerblå, 2022a; figur 
+2.1.2). Total vanntransport er noe større i nord-østlig retning, men strømhastigheten er 
+sterkere mot sør-vest. Det er også blitt gjort en modellering av spredning av utslippsvann fra 
+det planlagte utslippspunktet (Åkerblå, 2022b). Modelleringen vister størst spredning av 
+utslippsvann i sørvestlig retning innover i fjorden, og periodevis i nordøstlig retning. 
+Strømforhold kan variere både lokalt og over tid, og der er verdt å nevne at strømmålingene 
+på lokaliteten er gjort over en måleperiode på 1 måned mens modelleringen baserer seg på 
+data fra et helt år. Den modellerte spredningen er derfor tatt med og lagt vekt på i vurderingen 
+av stasjonsplassering og influensområdet.    
+ 
+ 
+Figur 2.1.1 Geografisk plassering av lokaliteten (rød stjerne). Nærliggende anlegg er markert med røde og blå 
+sirkler. Kartet har nordlig orientering. Kartdatum WGS84.  
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 9 av 62 
+ 
+ 
+Figur 2.1.2 Strømforhold på 89 meters dyp. Fordelingsdiagrammet til venstre angir antallet målepunkter 
+(frekvens) i ulike himmelretninger. Figur til høyre viser relativ vannfluks som angir hvor stor prosent av 
+vannmassene (mengde) som fordeler seg i de ulike himmelretningene. Kartdatum WGS84 (Åkerblå, 2022b).  
+ 
+Valg av stasjoner ble gjort på bakgrunn av ISO 16665 (2014). Bunntopografi, hardhet og 
+strømforhold ble vurdert i stasjonsplasseringen. Basert på strømbildet på lokaliteten, samt 
+modellert spredning antas influensområdet å strekke seg lengst i sørvestlig retning og noe 
+kortere i nordøstlig retning. Grunnet relativt sterk strøm mot sørvest antas den å strekke seg 
+ca. 360 meter i denne retningen. I nordvestlig og sørøstlig retning antas overgangssonen å ha 
+en betydelig kortere utstrekning.   
+ 
+Da spredningspotensialet er antatt å være størst mot sørvest er prøvestasjonene ble plassert 
+i et transekt i denne retningen (figur 2.1.3; tabell 2.1.1). Ved å ta prøver i et transekt er det 
+mulig å avdekke en gradient i belastningsgrad fra tiltenkt utslippspunkt. Nærstasjonen TER-1 
+ble plassert 26 meter fra utslippspunktet. Fjernstasjonen TER-2 og midtstasjonen TER-3 ble 
+lagt hhv. 359 og 175 meter fra tiltenkt utslippspunkt. TER-3 er plassert ved bunnen av en 
+skråning som trolig kan være utsatt for organisk akkumulasjon. Det har også blitt etablert en 
+referansestasjon, TER-REF, som ble plassert 1070 meter nordøst for utslippspunktet (figur 
+2.1.3). Plasseringen av referansestasjonen er i et område som har antatt sammenlignbare 
+bunnforhold med overgangssonen. CTD-data er hentet fra strømriggen som målte strøm ved 
+lokaliteten (Åkerblå AS 2022b). 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 10 av 62 
+ 
+Figur 2.1.3 Plassering av utslippspunkt (gult kryss), prøvestasjoner inkl. referansestasjon (brune sirkler), 
+målepunkt for strømundersøkelse (flagg), hovedstrømretninger (røde piler) og antatt influensområde (lilla linje) 
+over oppmålt bunntopografi. Kartet har nordlig orientering og mørkere blå farge representerer dypere områder. 
+Kartdatum WGS84.  
+ 
+ 
+Figur 2.1.4 Plassering av utslippspunkt (gult kryss), prøvestasjoner (brune sirkler), målepunkt for 
+strømundersøkelse (flagg), hovedstrømretninger (røde piler) og antatt influensområde (lilla linje) over oppmålt 
+bunntopografi. Kartet har nordlig orientering og mørkere blå farge representerer dypere områder. Kartdatum 
+WGS84. 
+ 
+ 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 11 av 62 
+Tabell 2.1.1 Stasjonsbeskrivelser. Undersøkelsen omfatter kvalitative faunaprøver (FAU), pH- og Eh målinger 
+(PE), kjemiske parametere (KJE) og geologiske parametere (GEO). Koordinater er oppgitt med datum WGS84 og 
+avstand fra utslippspunkt og dyp (meter) på prøvestasjonen er oppgitt. 
+Stasjon 
+Koordinater 
+Avstand 
+Dyp 
+Parametere 
+TER-1 
+65°04.810'N / 12°18.997'Ø 
+26 
+82 
+FAU, KJE, GEO, PE 
+TER-2 
+65°04.738'N / 12°18.604'Ø 
+357 
+98 
+FAU, KJE, GEO, PE 
+TER-3 
+65°04.776'N / 12°18.821'Ø 
+175 
+92 
+FAU, KJE, GEO, PE 
+TER-REF 
+65°05.157'N / 12°20.125'Ø 
+1070 
+88 
+FAU, KJE, GEO, PE 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 12 av 62 
+2.2 Prøvetaking og analyser 
+Uttak av prøver og vurdering av akkrediteringsstatus per grabbhugg ble gjennomført av 
+feltpersonell i henhold til NS9410 (2016) og NS-EN ISO 16665 (2014). Det ble tatt fire 
+grabbhugg på hver prøvestasjon. Et hugg på hver stasjon ble tatt ut til geologiske- og kjemiske 
+undersøkelser, og de resterende ble tatt ut til faunaundersøkelse. I felt vurderes prøvene for 
+sensoriske parametere, pH og Eh og om huggene er akkrediterte eller ikke. Vurderingen av 
+akkreditering baseres på om overflaten var tilnærmet uforstyrret og om det ble hentet opp 
+minimum mengde av sediment som er avhengig av type (stein, sand, mudder osv.). For 
+kjemianalyser ble det tatt prøver fra øverste 1 cm av overflaten, mens for de geologiske 
+prøvene (kornfordeling) fra de øverste 5 cm. Kornfordelingen illustrerer mikroklimaet i en 
+mindre prøve, mens de sensoriske dataene for sedimentsammensetningen gjelder hele 
+grabbinnholdet. For faunaundersøkelsen ble de to grabbprøvene i sin helhet vasket i en sikt, 
+fiksert med formalin tilsatt farge (bengalrosa) og nøytralisert med boraks (tabell 2.2.1; vedlegg 
+1). For kjemiske parameterne ble det tatt ut prøve til analyse av totalt organisk karbon (TOC), 
+totalt organisk materiale (TOM; glødetap), nitrogen (N), fosfor (P), kobber (Cu) og sink (Zn) fra 
+samme hugget som det ble tatt ut prøve for kornfordeling (tabell 2.2.2; vedlegg 2) som alle 
+ble analysert av underleverandøren (figur  2.2.1).   
+ 
+ 
+Tabell 2.2.1 Prøvetakingsutstyr. 
+Utstyr 
+Beskrivelse 
+Sedimentprøvetaker  
+«Van Veen» grabb (KC-denmark) på 0,1 m² 
+pH-måler 
+YSI Professional Plus 
+Eh-måler 
+YSI Professional Plus 
+Sikt 
+Runde hull, 1 mm diameter (KC-Denmark) 
+GPS og kart 
+Olex, GPS og kart fra Kartverket, Datum WGS84 
+Konservering 
+Boraks og formalin (4% bufret i sjøvann) 
+CTD 
+SAIV AS 
+Annet 
+Linjal, prøveglass, skje, hevert og hvit plastbalje, kamera 
+ 
+ 
+ 
+ 
+ 
+Oppdrag 
+(kunde)
+Planlegging
+(strøm, batymetri, 
+forundersøkelse 
+og andre hensyn)
+Feltarbeid
+(Prøvetaking)
+Sensorikk, 
+Hydrografi, 
+pH/Eh, 
+Akkreditering 
+(grabb)
+Faunaprøver
+Grovsortering
+Artsidentifisering
+Rapport
+(Kunde)
+Geologiprøver
+Analyse av 
+kornfordeling
+Kjemiprøver
+Analyse av TOC, 
+TOM, Cu, Zn, P og N
+Figur 2.2. 1 Arbeidsflyt. 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 13 av 62 
+Tabell 2.2.2 Oversikt over arbeid utført av Åkerblå AS (ÅB AS) og underleverandører (LEV) som er benyttet. AK = 
+Akkreditering, EETN-AS = Eurofins Environment Testing Norway AS, Cu = kobber, Zn = sink og P = fosfor. 
+  
+LEV 
+Personell 
+AK 
+Standard 
+Sidemannskontroll 
+ÅB-AS 
+- 
+- 
+Intern metode 
+Feltarbeid 
+ÅB AS 
+Christian Bruseth 
+TEST 252 
+NS-EN ISO 16665:2014 
+Grovsortering 
+ÅB AS 
+Jolanta Ziliukiene 
+TEST 252: P21 
+NS-EN ISO 16665:2014 
+Artsidentifisering 
+ÅB AS 
+Nathalie Skahjem, 
+Dora Alvsvåg,  
+Christine Østensvig 
+TEST 252: P21 
+NS-EN ISO 16665:2014 
+Statistiske utregninger 
+ÅB AS 
+Christine Østensvig TEST 252: P21 
+NS-EN ISO 16665:2014 
+Vurdering og tolkning 
+av bunnfauna 
+ÅB AS 
+Christine Østensvig TEST 252: P32 
+V02:2018 (2018), SFT 
+97:03, NS 9410:2016 
+Cu, Zn og P* 
+EETN-AS 
+EETN-AS 
+TEST 003 og  
+N° 1-1488 rév. 21 
+EN ISO 11885, NF EN 13346 
+Method B -December 2000 
+(repealed sta 
+Glødetap* 
+EETN-AS 
+EETN-AS 
+TEST 003 og  
+N° 1-1488 rév. 21 
+EN 12879 (S3a): 2001-02 
+Tørrvekt steg 1* 
+EETN-AS 
+EETN-AS 
+TEST 003 og  
+N° 1-1488 rév. 21 
+EN 12880 (S2a): 2001-02 
+Total organisk karbon 
+(TOC)* 
+EETN-AS 
+EETN-AS 
+TEST 003 og  
+N° 1-1488 rév. 21 
+NF EN 15936 – Method B 
+Kornfordeling* 
+EETN-AS 
+EETN-AS 
+TEST 003 og  
+N° 1-1488 rév. 21 
+DIN 18123; Internal 
+Method 6 
+Nitrogen* 
+EETN-AS 
+EETN-AS 
+TEST 003 og  
+N° 1-1488 rév. 21 
+EN 13342, Internal Method 
+(Soil) 
+* underleverandør av EETN-AS; Eurofins Analyses pour l'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne; 
+Eurofins Analyses pour l'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 
+COFRAC 1-1488. 
+ 
+Målinger for hydrografi ble gjennomført ved at CTD-sonden med et påmontert lodd ble firt til 
+loddet traff bunnen og deretter hevet til overflaten. Sonden gjorde én registrering hvert 2. 
+sekund og målte salinitet, temperatur og oksygeninnhold. Data fra senkning av sonden ble 
+benyttet (intern prosedyre). Uthenting av data og behandling av disse ble gjort med 
+programvaren Minisoft SD200w versjon 3.18.7.172 og Microsoft Excel (2007/2010/2013).  
+ 
+Faunaprøver er sortert og identifisert (Horton et al. 2016) av personell i avdelingen for Marine 
+Bunndyr i Åkerblå AS.  
+ 
+Utregningen av artsmangfold (ES100) ble utført med programpakken PRIMER (versjon 6.1.6/7, 
+Plymouth Laboratories). Sensitivitetsindeksen AMBI (komponent i NQI1) ble utregnet ved 
+hjelp av programpakken AMBI (versjon 5.0, AZTI-Tecnalia). Alle øvrige utregninger ble utført i 
+Microsoft Excel. Shannon-Wiener diversitetsindeks og Jevnhetsindeksen (J) ble regnet ut i 
+henhold til Shannon & Weaver (1949) og Veileder 02:2018. ISI- og NSI-indeksene ble beregnet 
+i henhold til Rygg & Norling (2013). AMBI-indeks og NQI1-indeks ble beregnet etter Veileder 
+02:2018 (Anon 2013). Vurderinger og fortolkninger ble foretatt ut fra Veileder 02:2018 
+(vedlegg 6).  
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 14 av 62 
+Artenes toleranse til forurensning er angitt av de fem økologiske gruppene som NSI-indeksen 
+faller under (vedlegg 3 og 6). På grunn av lokal påvirkning helt opp til utslippskilden kan man 
+ofte finne få arter med jevn individfordeling som gjør det uegnet å bruke diversitetsindekser 
+for å angi miljøtilstand. Alle stasjoner bedømmes på bakgrunn av gjennomsnittlig nEQR-verdi 
+av indeksene: NQI1, Shannon Wiener diversitetsindeks (H`), ES100, ISI og NSI (tabell 2.2.3; 
+vedlegg 4). Det er i tillegg beregnet indekser for nærstasjonen (vedlegg 5).  
+ 
+Tabell 2.2.3 Indekser og forkortelser. 
+Indeks 
+Beskrivelse 
+S 
+Antall arter i prøven  
+N 
+Antall individer i prøven 
+NQI1 
+Sammensatt indeks av artsmangfold og ømfintlighet  
+H′ 
+Shannon-Wiener artsmangfoldindeks 
+H′max 
+Maksimal diversitet som kan oppnås ved et gitt antall arter (= log2S) 
+ES100 
+Hurlberts diversitetsindeks (Kun oppgitt dersom N ≥ 100)  
+J 
+Jevnhetsindeks 
+ISI 
+Sensitivitetsindeks (Indicator Species Index) 
+NSI 
+Norsk sensitivitetsindeks som angir artenes forurensningsgrad 
+Ḡ 
+Grabbverdi: Gjennomsnitt for grabb 1 og 2 
+Ṧ 
+Stasjonsverdi: kombinert verdi for grabb 1 og 2 
+nEQR  
+Normalisert ratio (“Normalised Ecological Quality Ratio”)  
+Tilstand 
+Tilstandsverdi 
+Generalisert uttrykk som omfatter tilstandsklasse og miljøtilstand 
+Verdigrunnlaget for tilstandsvurdering  
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 15 av 62 
+3 Resultater  
+ 
+3.1 Bunndyrsanalyser  
+Bunndyrsdata er klassifisert etter økoregion Norskehavet sør og vanntype beskyttet 
+kyst/fjord.  
+ 
+3.1.1 TER-1 
+Ved TER-1 ble det registrert 673 individer fordelt på 107 arter (tabell 3.1.1.1, tabell 3.1.1.2 og 
+figur 3.1.1.1). Stasjonen ble klassifisert i midtre del av intervallet for svært god tilstand ut fra 
+veileder 02:2018. 
+ 
+Tabell 3.1.1.1 De ti hyppigst forekommende artene ved TER-1 oppgitt i antall og prosent, samt fargekoding for 
+NSI-gruppe for de respektive artene. Celler uten bakgrunnsfarge betyr at arten ikke er tildelt NSI-gruppe. 
+Art 
+NSI-gruppe 
+Antall individer 
+Prosent (%) 
+Mendicula ferruginosa 
+1 
+ 77 
+12,1 
+Heteromastus filiformis 
+4 
+ 77 
+12,1 
+Paramphinome jeffreysii 
+3 
+ 55 
+8,6 
+Amythasides macroglossus 
+1 
+ 48 
+7,5 
+Chirimia biceps  
+2 
+ 38 
+6,0 
+Eclysippe vanelli 
+1 
+ 35 
+5,5 
+Ennucula tenuis 
+2 
+ 23 
+3,6 
+Pholoe baltica 
+3 
+ 17 
+2,7 
+Thyasira obsoleta 
+1 
+ 16 
+2,5 
+Drilonereis filum 
+2 
+ 10 
+1,6 
+Øvrige arter 
+ -  
+ 241 
+37,8 
+ 
+Forurensningssensitiv 
+(NSI-1) 
+Forurensningsnøytral 
+(NSI-2) 
+Forurensningstolerant 
+(NSI-3) 
+Forurensningstolerant og 
+opportunistisk (NSI-4) 
+Forurensnings-
+indikerende (NSI-5) 
+ 
+ 
+Figur 3.1.1.1 Fordeling av antall individer for de tre hyppigste artene ved TER-1.  
+ 
+ 
+Mendicula 
+ferruginosa
+12 %
+Heteromastus 
+filiformis
+12 %
+Paramphinome 
+jeffreysii
+9 %
+Øvrige arter
+67 %
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 16 av 62 
+Tabell 3.1.1.2 Faunaresultater fra grabb 1, grabb 2 og grabb 3 med arts- og individantall i tillegg til indekser for 
+hver grabb. Det er regnet ut verdier for gjennomsnitt av de tre grabbene (Ḡ), og bestemmende indekser (NQI1, 
+H’, ES100, ISI og NSI) er normalisert til en økologisk verdi (nEQR Ḡ). Gjennomsnittet av nEQR Ḡ-verdiene er 
+grabbverdien for stasjonen. Fargene viser hvilken tilstand de ulike indeksverdiene hører til (iht tabell V5.2). 
+Indeks 
+TER-1-1 
+TER-1-2 
+TER-1-3 
+Ḡ 
+nEQR Ḡ 
+S 
+              64  
+              62  
+              36  
+              54  
+   
+N 
+           257  
+           247  
+           133  
+           212  
+   
+NQI1 
+        0,814  
+        0,822  
+        0,795  
+        0,810  
+        0,901  
+H' 
+        4,868  
+        4,870  
+        4,311  
+        4,683  
+        0,909  
+J 
+        0,811  
+        0,818  
+        0,834  
+        0,821  
+   
+H'max 
+        6,000  
+        5,954  
+        5,170  
+        5,708  
+   
+ES100 
+      39,160  
+      38,000  
+      31,130  
+      36,097  
+        0,914  
+ISI 
+        9,466  
+      10,100  
+        8,249  
+        9,272  
+        0,824  
+NSI 
+      25,276  
+      25,674  
+      25,361  
+      25,437  
+        0,817  
+Grabbverdi 
+  
+  
+  
+  
+        0,873  
+ 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 17 av 62 
+3.1.2 TER-2 
+Ved TER-2 ble det registrert 646 individer fordelt på 88 arter (tabell 3.1.2.1, tabell 3.1.2.2 og 
+figur 3.1.2.1). Stasjonen ble klassifisert i nedre del av intervallet for svært god tilstand ut fra 
+veileder 02:2018. 
+ 
+Tabell 3.1.2.1 De ti hyppigst forekommende artene ved TER-2 oppgitt i antall og prosent, samt fargekoding for 
+NSI-gruppe for de respektive artene. Celler uten bakgrunnsfarge betyr at arten ikke er tildelt NSI-gruppe. 
+Art 
+NSI-gruppe 
+Antall individer 
+Prosent (%) 
+Heteromastus filiformis 
+4 
+ 112 
+17,3 
+Paramphinome jeffreysii 
+3 
+ 79 
+12,2 
+Mendicula ferruginosa 
+1 
+ 59 
+9,1 
+Prionospio cirrifera 
+3 
+ 33 
+5,1 
+Chirimia biceps  
+2 
+ 31 
+4,8 
+Amythasides macroglossus 
+1 
+ 28 
+4,3 
+Parathyasira equalis 
+3 
+ 26 
+4,0 
+Eclysippe vanelli 
+1 
+ 26 
+4,0 
+Drilonereis filum 
+2 
+ 21 
+3,3 
+Abra nitida 
+3 
+ 19 
+2,9 
+Øvrige arter 
+ -  
+ 212 
+32,8 
+ 
+Forurensningssensitiv 
+(NSI-1) 
+Forurensningsnøytral 
+(NSI-2) 
+Forurensningstolerant 
+(NSI-3) 
+Forurensningstolerant og 
+opportunistisk (NSI-4) 
+Forurensnings-
+indikerende (NSI-5) 
+ 
+ 
+Figur 3.1.2.1 Fordeling av antall individer for de tre hyppigste artene ved TER-2. 
+ 
+ 
+Heteromastus 
+filiformis
+18 %
+Paramphinome 
+jeffreysii
+12 %
+Mendicula 
+ferruginosa
+9 %
+Øvrige arter
+61 %
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 18 av 62 
+Tabell 3.1.2.2 Faunaresultater fra grabb 1, grabb 2 og grabb 3 med arts- og individantall i tillegg til indekser for 
+hver grabb. Det er regnet ut verdier for gjennomsnitt av de tre grabbene (Ḡ), og bestemmende indekser (NQI1, 
+H’, ES100, ISI og NSI) er normalisert til en økologisk verdi (nEQR Ḡ). Gjennomsnittet av nEQR Ḡ-verdiene er 
+grabbverdien for stasjonen. Fargene viser hvilken tilstand de ulike indeksverdiene hører til (iht tabell V5.2). 
+Indeks 
+TER-2-1 
+TER-2-2 
+TER-2-3 
+Ḡ 
+nEQR Ḡ 
+S 
+              53  
+              47  
+              53  
+              51  
+   
+N 
+           233  
+           213  
+           200  
+           215  
+   
+NQI1 
+        0,765  
+        0,742  
+        0,756  
+        0,754  
+        0,838  
+H' 
+        4,646  
+        4,452  
+        4,586  
+        4,561  
+        0,896  
+J 
+        0,811  
+        0,801  
+        0,801  
+        0,804  
+   
+H'max 
+        5,728  
+        5,555  
+        5,728  
+        5,670  
+   
+ES100 
+      34,260  
+      31,830  
+      35,770  
+      33,953  
+        0,895  
+ISI 
+        9,359  
+        9,260  
+        9,745  
+        9,455  
+        0,832  
+NSI 
+      24,658  
+      23,564  
+      23,794  
+      24,006  
+        0,760  
+Grabbverdi 
+  
+  
+  
+  
+        0,844  
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 19 av 62 
+3.1.3 TER-3 
+Ved TER-3 ble det registrert 562 individer fordelt på 86 arter (tabell 3.1.3.1, tabell 3.1.3.2 og 
+figur 3.1.3.1). Stasjonen ble klassifisert i nedre del av intervallet for svært god tilstand ut fra 
+veileder 02:2018. 
+ 
+Tabell 3.1.3.1 De ti hyppigst forekommende artene ved TER-3 oppgitt i antall og prosent, samt fargekoding for 
+NSI-gruppe for de respektive artene. Celler uten bakgrunnsfarge betyr at arten ikke er tildelt NSI-gruppe. 
+Art 
+NSI-gruppe 
+Antall individer 
+Prosent (%) 
+Heteromastus filiformis 
+4 
+ 103 
+18,3 
+Mendicula ferruginosa 
+1 
+ 75 
+13,3 
+Chirimia biceps  
+2 
+ 50 
+8,9 
+Amythasides macroglossus 
+1 
+ 43 
+7,7 
+Paramphinome jeffreysii 
+3 
+ 25 
+4,4 
+Eclysippe vanelli 
+1 
+ 24 
+4,3 
+Notomastus latericeus 
+1 
+ 16 
+2,8 
+Abra nitida 
+3 
+ 12 
+2,1 
+Prionospio cirrifera 
+3 
+ 10 
+1,8 
+Thyasira sarsii 
+4 
+ 10 
+1,8 
+Øvrige arter 
+ -  
+ 194 
+34,5 
+ 
+Forurensningssensitiv 
+(NSI-1) 
+Forurensningsnøytral 
+(NSI-2) 
+Forurensningstolerant 
+(NSI-3) 
+Forurensningstolerant og 
+opportunistisk (NSI-4) 
+Forurensnings-
+indikerende (NSI-5) 
+ 
+ 
+Figur 3.1.3.1 Fordeling av antall individer for de tre hyppigste artene ved TER-3.  
+ 
+ 
+Heteromastus 
+filiformis
+18 %
+Mendicula 
+ferruginosa
+13 %
+Chirimia biceps 
+9 %
+Øvrige arter
+60 %
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 20 av 62 
+Tabell 3.1.3.2 Faunaresultater fra grabb 1, grabb 2 og grabb 3 med arts- og individantall i tillegg til indekser for 
+hver grabb. Det er regnet ut verdier for gjennomsnitt av de tre grabbene (Ḡ), og bestemmende indekser (NQI1, 
+H’, ES100, ISI og NSI) er normalisert til en økologisk verdi (nEQR Ḡ). Gjennomsnittet av nEQR Ḡ-verdiene er 
+grabbverdien for stasjonen. Fargene viser hvilken tilstand de ulike indeksverdiene hører til (iht tabell V5.2). 
+Indeks 
+TER-3-1 
+TER-3-2 
+TER-3-3 
+Ḡ 
+nEQR Ḡ 
+S 
+              47  
+              55  
+              47  
+              50  
+   
+N 
+           203  
+           154  
+           205  
+           187  
+   
+NQI1 
+        0,772  
+        0,798  
+        0,765  
+        0,778  
+        0,865  
+H' 
+        4,498  
+        4,718  
+        4,415  
+        4,544  
+        0,894  
+J 
+        0,810  
+        0,816  
+        0,795  
+        0,807  
+   
+H'max 
+        5,555  
+        5,781  
+        5,555  
+        5,630  
+   
+ES100 
+      33,220  
+      41,480  
+      31,950  
+      35,550  
+        0,909  
+ISI 
+        8,973  
+      10,119  
+      10,002  
+        9,698  
+        0,842  
+NSI 
+      25,248  
+      25,393  
+      24,575  
+      25,072  
+        0,803  
+Grabbverdi 
+  
+  
+  
+  
+        0,863  
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 21 av 62 
+3.1.4 TER-REF 
+Ved TER-REF ble det registrert 1241 individer fordelt på 84 arter (tabell 3.1.4.1, tabell 3.1.4.2 
+og figur 3.1.4.1). Stasjonen ble klassifisert i øvre del av intervallet god tilstand ut fra veileder 
+02:2018. 
+ 
+Tabell 3.1.4.1 De ti hyppigst forekommende artene ved TER-REF oppgitt i antall og prosent, samt fargekoding for 
+NSI-gruppe for de respektive artene. Celler uten bakgrunnsfarge betyr at arten ikke er tildelt NSI-gruppe. 
+Art 
+NSI-gruppe 
+Antall individer 
+Prosent (%) 
+Heteromastus filiformis 
+4 
+ 477 
+38,4 
+Paramphinome jeffreysii 
+3 
+ 78 
+6,3 
+Prionospio cirrifera 
+3 
+ 68 
+5,5 
+Parathyasira equalis 
+3 
+ 53 
+4,3 
+Chirimia biceps  
+2 
+ 51 
+4,1 
+Mendicula ferruginosa 
+1 
+ 46 
+3,7 
+Scalibregma hanseni 
+ 
+ 40 
+3,2 
+Notomastus latericeus 
+1 
+ 36 
+2,9 
+Scutopus ventrolineatus 
+2 
+ 27 
+2,2 
+Axinulus croulinensis 
+1 
+ 26 
+2,1 
+Øvrige arter 
+ -  
+ 339 
+27,3 
+ 
+Forurensningssensitiv 
+(NSI-1) 
+Forurensningsnøytral 
+(NSI-2) 
+Forurensningstolerant 
+(NSI-3) 
+Forurensningstolerant og 
+opportunistisk (NSI-4) 
+Forurensnings-
+indikerende (NSI-5) 
+ 
+ 
+Figur 3.1.4.1 Fordeling av antall individer for de tre hyppigste artene ved TER-REF.  
+ 
+ 
+Heteromastus 
+filiformis
+38 %
+Paramphinome 
+jeffreysii
+6 %
+Prionospio cirrifera
+6 %
+Øvrige arter
+50 %
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 22 av 62 
+Tabell 3.1.4.2 Faunaresultater fra grabb 1, grabb 2 og grabb 3 med arts- og individantall i tillegg til indekser for 
+hver grabb. Det er regnet ut verdier for gjennomsnitt av de tre grabbene (Ḡ), og bestemmende indekser (NQI1, 
+H’, ES100, ISI og NSI) er normalisert til en økologisk verdi (nEQR Ḡ). Gjennomsnittet av nEQR Ḡ-verdiene er 
+grabbverdien for stasjonen. Fargene viser hvilken tilstand de ulike indeksverdiene hører til (iht tabell V5.2). 
+Indeks 
+TER-REF-1 
+TER-REF-2 
+TER-REF-3 
+Ḡ 
+nEQR Ḡ 
+S 
+              63  
+              52  
+              49  
+              55  
+   
+N 
+           456  
+           383  
+           402  
+           414  
+   
+NQI1 
+        0,725  
+        0,684  
+        0,668  
+        0,692  
+        0,739  
+H' 
+        4,292  
+        3,890  
+        3,665  
+        3,949  
+        0,828  
+J 
+        0,718  
+        0,682  
+        0,653  
+        0,684  
+   
+H'max 
+        5,977  
+        5,700  
+        5,615  
+        5,764  
+   
+ES100 
+      31,730  
+      28,580  
+      26,100  
+      28,803  
+        0,850  
+ISI 
+        9,277  
+        9,214  
+        9,128  
+        9,207  
+        0,822  
+NSI 
+      22,741  
+      21,654  
+      22,002  
+      22,132  
+        0,685  
+Grabbverdi 
+  
+  
+  
+  
+        0,785  
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+Side 23 av 62 
+3.2 Hydrografi 
+Salinitet, temperatur og oksygeninnhold ble målt fra overflaten og til like over bunnen ved 
+posisjon for strømriggen (figur 3.2.1). Saliniteten økte raskt fra ca. 26‰ i overflatevannet ned 
+til 7 meters dyp, og gradvis videre ned til 34‰ i bunnvannet. Temperaturen sank fra 7,6 o C i 
+overflaten ned til 5,8 på 10 meters dyp før den gradvis økte ned mot ca. 7,2 o C i bunnvannet. 
+Oksygenmetning og -innhold økte fra hhv. 121% og 12,4 mg/l ned til ca. 6 meter med en topp 
+på 133% og 13,6 mg/l. Videre sank oksygennivået ned til ca. 89% og 8,7 mg/l i bunnvannet. I 
+henhold til tabell V.5.3 ble oksygennivået i bunnvannet klassifisert med tilstand 1 – svært god. 
+Figur 3.2.1 Temperatur (°C), salinitet (‰), oksygeninnhold (mg/l) og oksygenmetning (%) fra overflaten og ned 
+til bunnen for prøvepunktet. 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 24 av 62 
+3.3 Sedimentanalyser 
+3.3.1 Sensoriske vurderinger 
+Sedimentet ved samtlige prøvestasjoner hadde lys farge, fast konsistens og ingen lukt. 
+Prøvene bestod hovedsakelig av fint sediment i form av leire og silt, samt noe innblanding av 
+grus. Det ble ikke registrert forekomster av naturlig organisk materiale (planter, blader, 
+kvister, tang, annet), fôr eller fekalier, gassdannelse eller beggiatoa. Samtlige prøvehugg var 
+godkjent bortsett fra to som hadde lavt volum (Vedlegg 1).  
+ 
+3.3.2 Kornfordeling 
+Samtlige kornstørrelser var godt representert på alle stasjoner, men det var en del mindre 
+grus og mer leire og sil ved referansestasjonen enn øvrige stasjoner (Tabell 3.3.2.1).  
+ 
+Tabell 3.3.2.1 Kornfordeling. Leire og silt er definert med kornstørrelser < 0,063 mm, sand er definert med 
+kornstørrelser fra 0,063 – 2 mm, og grus er definert med kornstørrelser > 2 mm. Manglende data er merket med 
+i.a. 
+Stasjon 
+Leire og Silt (%) 
+Sand (%) 
+Grus (%) 
+TER-1 
+35,8 
+45,0 
+19,2 
+TER-2 
+30,8 
+39,2 
+30,0 
+TER-3 
+43,0 
+32,6 
+24,4 
+TER-REF 
+53,6 
+44,1 
+2,3 
+ 
+ 
+3.3.3 Kjemiske parametere 
+Verdiene for pH og Eh ble klassifisert med tilstand 1 (meget god) ved to stasjoner (Tabell 
+3.3.3.1). De to resterende stasjonene fikk tilstand 2 (god).  
+ 
+Tabell 3.3.3.1 pH- og Eh-verdier fra sedimentoverflaten. Beregnet poengverdi går fra 0 til 5 hvor 0 er best. 
+Tilstanden går fra 1 til 4 hvor 1 er meget god, og 4 er meget dårlig (NS 9410 2016). Manglende data er merket 
+med i.a. 
+Stasjon 
+pH 
+Eh 
+pH/Eh poeng 
+Tilstand 
+TER-1 
+7,25 
+-214 
+2 
+2 
+TER-2 
+7,20 
+250 
+1 
+1 
+TER-3 
+7,27 
+360 
+1 
+1 
+TER-REF 
+7,37 
+-115 
+2 
+2 
+ 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 25 av 62 
+De kjemiske parameterne viste lave verdier i hele området (Tabell 3.3.3.2).  
+ 
+Tabell 3.3.3.2 Innhold av undersøkte kjemiske parametere i sedimentet og etter innholdet av tørrstoff (TS). 
+Tilstand (TS) er oppgitt etter FT Veileder 97:03 for normalisert TOC (nTOC; mg/g) og totalt organisk materiale 
+(TOM; glødetap i % av TS). Sink (Zn; mg/kg TS) og kobber (Cu; mg/kg TS) klassifiseres etter Veileder 02:2018. 
+Fosfor (P; mg/kg TS) og nitrogen (N; mg/kg TS) har ikke tildelt tilstand og karbon-nitrogenforholdet (C:N) er 
+oppgitt som ratio mellom de to enhetene. Måleusikkerhet er oppgitt i prosent for kobber, sink, fosfor og nitrogen. 
+Manglende data er merket med i.a. 
+Stasjon 
+TOM 
+nTOC 
+TS 
+N 
+± 
+C:N 
+P 
+± 
+Zn 
+± 
+TS 
+Cu 
+± 
+TS 
+TER-1 
+1,5 
+22,8 
+II 
+900 
+220 
+12,5 
+896 
+116 
+39,3 
+8,2 
+I 
+7,7 
+2,6 
+I 
+TER-2 
+2,2 
+23,7 
+II 
+1000 
+230 
+11,3 
+945 
+123 
+35,3 
+7,4 
+I 
+7,5 
+2,6 
+I 
+TER-3 
+2,5 
+19,2 
+I 
+800 
+210 
+11,2 
+882 
+115 
+34,4 
+7,2 
+I 
+7,2 
+2,6 
+I 
+TER-REF 
+2,3 
+13,7 
+I 
+800 
+210 
+6,7 
+778 
+101 
+25,0 
+5,3 
+I 
+5,0 
+2,5 
+I 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 26 av 62 
+4 Diskusjon 
+ 
+Samlet viser faunaresultatene svært gode forhold i influensområdet rundt Terråk, der samtlige 
+stasjoner ble klassifisert med beste tilstand. De geokjemiske resultatene viste samtidig lave 
+konsentrasjoner i hele områder og bidrar til å underbygge de gode faunaforholdene.  
+ 
+Artssammensetningen i området ble hovedsakelig dominert av forurensningssensitive, -
+nøytrale og -tolerante arter, men det var også flere opportunistiske arter til stede, som blant 
+annet Heteromastus filiformis som dominerte ved flere av stasjonene. Uansett var ikke 
+dominansen av denne spesielt stor. Arts- og individantallet var generelt høyt, og med en jevn 
+fordeling av individene mellom artene så ble følgelig biodiversiteten også svært god.  
+ 
+Referansestasjonen (TER-REF) hadde flere av de samme artene blant «topp ti», men grunnet 
+en økt dominans av H. filiformis her så ble tilstanden noe lavere. Forholdene var uansett gode, 
+og stasjonen ble klassifisert i øvre sjiktet av god tilstand. De kjemiske parameterne viste også 
+liknende forhold her som i influensområdet. Stasjonen anses derfor som representativ for 
+områdets naturlige tilstand, og vil kunne benyttes som referanse ved senere undersøkelser.  
+ 
+Samtlige grabber ble godkjent for en tilstrekkelig mengde volum og en uforstyrret overflate, 
+med unntak av ett grabbhugg ved TER-2 og ett ved TER-3. En større mengde volum vil kunne 
+føre en større mengde dyr. Ettersom disse huggene viste lignende arts- og individantall samt 
+like indekser som de øvrige grabbhuggene er det ikke grunn til å tro at dette har hatt en 
+innvirkning på resultatene. Ved referansen ble det derimot observert noen ulikheter mellom 
+grabbhuggene der indeksene også varierte noe mellom god og svært god tilstand. Dette kan 
+være et resultat av lokal variasjon i faunaen på havbunnen, som ofte skyldes ulikheter i 
+bunntopografi eller sedimentforhold. Det er samtidig vanskelig å treffe nøyaktig samme punkt 
+med samtlige grabbhugg. Det er likevel lite trolig at dette ville ha påvirket tilstanden til 
+stasjonen.  
+ 
+Stasjonene i denne undersøkelsen er plassert der det forventes størst påvirkning basert på 
+bunntopografi og modellert strømdata (Åkerblå AS 2022b). Selv om faktiske strømmålinger 
+(Åkerblå AS 2022a) viser størst strømføring mot nordøst var det også en betydelig 
+vannforflytning mot sørvest. Ettersom modellerte data fra et helt år viser lik retning (sørvest), 
+er det sammen med bunntopografi, forventet at partikler sannsynligvis vil spres i denne 
+retningen, og gjeldene stasjonsplasseringen vil derfor kunne fange opp dette. På bakgrunn av 
+dette mener Åkerblå at prøvene i denne undersøkelsen er gode nok, både i kvalitet og 
+plassering, til å overvåke den økologiske tilstanden ved Terråk.  
+ 
+ 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 27 av 62 
+5 Litteraturliste 
+ 
+ 
+Bakke et al. (2007). Veileder for klassifisering av miljøkvalitet i fjorder og kystfarvann, 
+revidering av klassifisering av metaller og organisk miljøgifter i vann og sedimenter. Klif 
+publikasjon ta 2229:2007. 
+Berge G. (2002). Indicator species for assessing benthic ecological quality in marine waters of 
+Norway. NIVA-rapport 4548-2002.  
+Borja, A., Franco, J., Perez, V., (2000). A marine biotic index to establish the ecological quality 
+of soft-bottom benthos within European estuarine and coastal environments. Marine 
+Pollution Bulletin 40 (12), 1100–1114 
+Bray JR, Curtis JT. (1957). An ordination of the upland forest communities of Southern 
+Wisconsin. - Ecological Monographs 27:325-349. 
+Carpenter EJ and Capone DJ. 1983. Nitrogen in the marine environment. Stony Brook, Marine 
+Science Research Center. 900p 
+Faganelli J, Malej A, Pezdic J and Malacic V. 1988. C:N:P ratios and stable C isotopic ratios as 
+indicator of sources of organic matter in the Gulf of Trieste (northern Adriatic). 
+Oceanologia Acta 11: 377-382. 
+Gray JS, Mirza FB. (1979). A possible method for the detection of pollution-induced 
+disturbance on marine benthic communities. - Marine Pollution Bulletin 10:142-146. 
+Horton et al. (2016) World Register of Marine Species. Available from http: World Register of 
+Marine Species. Available from http://www.marinespecies.org at VLIZ. Accessed 2016-
+10-20. doi:10.14284/170 //www.marinespecies.org at VLIZ. Accessed 2016-10-20. 
+doi:10.14284/170.  
+Molvær J, Knutzen J, Magnusson J, Rygg B, Skei J, Sørensen J. (1997). Klassifisering av 
+miljøkvalitet i fjorder og kystfarvann. Kortversjon. SFT-veiledning nr. 97:03. 36 s. 
+NS 4764 (1980). Vannundersøkelse. Tørrstoff og gløderest i vannslam og sedimenter. Norges 
+standardiseringsforbund. 
+NS 9410 (2016). Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg. Standard 
+Norge.  
+NS-EN ISO 16665 (2014). Vannundersøkelse, Retningslinjer for kvantitiativ prøvetaking og 
+prøvebehandling av marin bløtbunnsfauna (ISO 16665:2014). Standard Norge 
+Pearson TH, Rosenberg R. (1978). Macrobenthic succession: in relation to organic enrichment 
+and pollution of the marine environment. - Oceanography and Marine Biology an Annual 
+Review 16:229-311. 
+Pearson TH, Gray JS, Johannessen PJ. (1983). Objective selection of sensitive species indicative 
+of pollution-induced change in bentic communities. 2. Data analyses. - Marine Ecology 
+Progress Series 12:237-255. 
+Pielou EC. (1966). The measurement of species diversity in different types of biological 
+collections. - Journal of Theoretical Biology 13:131-144. 
+Rygg B. & Nordling K. (2013). Norwegian Sensitivity Index (NSI) for marine macroinvertebrates, 
+and an update of Indicator Species Index (ISI). NIVA-rapport 6475-2013. 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 28 av 62 
+Rygg B, Thélin, I. (1993). Klassifisering av miljøkvalitet i fjorder og kystfarvann, kortversjon. - 
+SFT-veiledning nr. 93:02 20 pp. 
+Shannon CE, Weaver, W. (1949). The mathematical theory of communication. - University of 
+Illinois Press, Urbana. 117 s.  
+Torrissen O, Hansen P. K., Aure J., Husa V., Andersen S., Strohmeier T., Olsen R.E. (2016) 
+Næringsutslipp fra havbruk – nasjonale og regionale perspektiv. Rapport fra 
+Havforskningen, Nr.21-2016. Havforskningsinstituttet, Bergen. ISSN 1893-4536 
+Veileder 02:2018 (2018) Klassifisering av miljøtilstand i vann. Økologisk og kjemisk 
+klassifiseringssystem for kystvann, grunnvann, innsjøer og elver. Direktoratgruppen for 
+gjennomføring av vanndirektivet/Miljøstandardprosjekt. 
+Åkerblå AS (2022a). Strømrapport – Måling av bunnstrøm ved Terråk i mars-april 2022. 
+Åkerblå-rapport: SR-TI_Terråk-104332-01-001.  
+Åkerblå AS (2022b). Modellert spredning av utslipp fra Terråk. Åkerblå-rapport: SM-04321-
+Terråk1221-ver02.  
+ 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 29 av 62 
+6 Vedlegg  
+ 
+Vedlegg 1 - Feltlogg (B-parametere) 
+Det ble tatt to ekstra grabbhugg ved TER-2 og TER-3 (grabbhugg 5), men disse ble ikke analysert, og er derfor 
+ikke inkludert i rapporten 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 30 av 62 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 31 av 62 
+Vedlegg 2 - Analysebevis 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 32 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 33 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 34 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 35 av 62 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 36 av 62 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 37 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 38 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 39 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 40 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 41 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 42 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 43 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 44 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 45 av 62 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 46 av 62 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 47 av 62 
+Vedlegg 3 - Klassifisering av forurensningsgrad  
+ 
+Endringer i klassifisering av artenes forurensningsgrad; system (V3.1) og språkbruk (V3.2).  
+ 
+V3.1 System: Overgang fra AMBI til NSI  
+Med bakgrunn i rapporten «Norwegian Sensitivity Index (NSI) for marine macroinvertebrates, 
+and an update of Indicator Species Index (ISI)» (Rygg & Norling, 2013) har Åkerblå AS avd. 
+Marine Bunndyr konkludert med å bruke artenes NSI-verdi istedet for AMBI-verdi for å angi 
+forurensningsgrad (forurensingssensitiv, -tolerant osv). Ettersom Rygg & Norling konkluderte 
+med at NSI viste bedre korrelasjon med norske resipienter enn hva AMBI gjorde velger vi å ta 
+utgangspunkt i de økologiske gruppene som artenes NSI verdi faller under.  
+ 
+Ettersom NSI er laget med bakgrunn i å dekke samme bruksområde som AMBI i norske 
+resipienter, er den økologiske gruppeinndelingen basert på utgangspunktet for AMBI-
+indeksen (Borja et al., 2000). Artene som har blitt klassifisert i AMBI-systemet er delt inn i fem 
+økologiske grupper basert på toleransen ovenfor organisk tilførsel i sedimentene. 
+Utgangstilstanden er beskrevet som ikke tilført organisk materiale (lett ubalanse er noe 
+organisk tilførsel osv): 
+ 
+Gruppe 1 – Arter som er veldig sensitive til organisk tilførsel og arter som er tilstede ved ikke 
+forurensede forhold (utgangstilstand). Denne gruppen inkluderer karnivore spesialister og 
+noen rørbyggende flerbørstemarker (Benevnelse - forurensningssensitive).  
+Gruppe 2 – Arter som er helt, eller til en viss grad, likegyldig til organisk tilførsel. Alltid tilstede 
+i lave tettheter med ikke-betydelige variasjoner over tid (fra utgangstilstand til lett ubalanse). 
+I denne gruppe inkluderes «suspension feeders», mindre selektive karnivorer og åtseletere 
+(Benevnelse - forurensingsnøytrale).  
+Gruppe 3 – Arter som er tolerante ovenfor organisk tilførsel. Disse artene kan også forekomme 
+under normale tilstander, men blir stimulert av organisk tilførsel. Denne gruppen inkluderer 
+overflate «deposit feeders» som noen rørbyggende flerbørstemarker (Benevnelse - 
+forurensingstolerante).  
+Gruppe 4 – Andre orden opportunister (lett til markert ubalanserte situasjoner). I hovedsak 
+små flerbørstemarker; «subsurface deposit-feeders» som f.eks cirratulider (Benevnelse - 
+Opportunistisk, forurensingstolerant)  
+Gruppe 5 – Første orden opportunister (markert ubalanserte situasjoner) (Benevnelse - 
+Forurensingsindikerende art).  
+ 
+V3.2 Språkbruk: Endringer  
+Etter en re-tolkning av Borja et al. (2000) velger vi å endre noe på språkbruken ang. 
+benevnelsen til de forskjellige økologiske gruppene. Nedenfor har vi satt opp en 
+oversiktstabell fra tidligere benevnelse til den nye benevnelsen:  
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 48 av 62 
+Tabell V3.1 Oversikt over reviderte benevnelser for inndeling av AMBI/NSI i økologiske grupper.  
+Økologisk gruppe 
+Gammel benevnelse 
+Ny benevnelse 
+1 
+Svært forurensingssensitiv  
+Forurensingssensitiv 
+2 
+Forurensingssensitiv 
+Forurensingsnøytral  
+3 
+Forurensingstolerant 
+Forurensingstolerant 
+4 
+Svært forurensingstolerant (opportunistisk) 
+Forurensingstolerant (opportunistisk) 
+5 
+Kraftig forurensingstolerant (opportunist) 
+Forurensingsindikerende art  
+ 
+V3.3 Endringer i NSI-grupper 
+Etter som ny informasjon blir tilgjengelig og arter splittes og bytter slekter har vi i noen tilfeller 
+ansett det som nødvendig å endre arters tilhørende NSI-gruppe (tabell V3.2) 
+  
+Tabell V3.2 Oversikt over endringer i NSI- og ISI-verdier gjort, hvor verdiene er hentet fra og kilder som viser til 
+informasjonen avgjørelsen er basert på. 
+Art 
+Ny NSI/ISI hentet fra  
+Kilde 
+Tubificoides benedii 
+Oligochaeta (NSI 5) 
+Giere et. al. 1988; Giere et. al. 1999 
+Pista mediterranea 
+Pista cristata (NSI 2) 
+Jirkov & Leontovich 2017; Hutchings pers. med. 
+Pista cristata 
+Pista lornensis (NSI 2) 
+Jirkov & Leontovich 2017; Hutchings pers. med. 
+Owenia borealis 
+Oweina fusiformis 
+Koh et.al 2003 
+Terebellides sp. 
+Terebellides stroemii 
+Nygren et.al. 2018 
+Hermania sp. 
+Philine scabra (NSI 2) 
+Chaban et. al. 2015 
+Philinidae 
+Philine sp. (NSI 2) 
+Chaban & Lubin 2015 
+ 
+Bray JR, Curtis JT. (1957). An ordination of the upland forest communities of Southern Wisconsin. - 
+Ecological Monographs 27:325-349.  
+Chaban EM, Nekhaev IO, Lubin PA. (2015). Hermania indistincta comb. nov. (Gastropoda: 
+Opisthobranchia: Cephalaspidae) from the Barents Sea – new species and genus for the fauna of the 
+Russian Seas. Zoosytematica Rossica 24(2): 148-154.  
+Giere O, Rhode B, Dubilier N. (1987). Structural peculiarities of the body wall of Tubificoides benedii 
+(Oligochaeta) and possible relations to its life in sulphidic sediments. Zoomorphology 108:29-39.  
+Giere O, Preusse J-H, Dubilier N. (1999). Tubificoides benedii (Tubificidae, Oligochaeta) — a pioneer 
+in hypoxic and sulfidic environments. An overview of adaptive pathways. Hydrobiologia 406: 235-
+241.  
+Jirkov IA, Leontovich MK. (2017). Review of genera within the Axionice/Pista complex (Polychaeta, 
+Terebellidae), with discussion of the taxonomic definition of other Terebellidae with large lateral 
+lobes. Journal of the Marine Biological Association of the United Kingdom 97(5): 911-934 
+Koh BS, Bhaud MR, Jirkov IA. (2003). Two new species of Owenia (Annelida: Polychaeta) in the 
+northern part of the North Atlantic Ocean and remarks on previously erected species from the same 
+area. Sarsia 88:175-188. 
+Nygren A, Parapar J, Pons J, Meißner K, Bakken T, et al. (2018). A mega-cryptic species complex hidden among 
+one of the most common annelids in the North East Atlantic. PLOS ONE 13(6): e0198356. 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 49 av 62 
+Vedlegg 4 - Indeksbeskrivelser  
+ 
+V4.1 Diversitet og jevnhet 
+Shannon-Wieners diversitetsindeks (H') beskrives ved artsmangfoldet (S, totalt antall arter i 
+en prøve) og jevnhet (J, fordelingen av antall individer relatert til fordeling av individer mellom 
+artene) (Shannon og Weaver 1949). Diversitetsindeksen er beskrevet av formelen  
+ 
+H′ = −∑𝑝𝑖 
+𝑆
+𝑖=𝑙
+𝑙𝑜𝑔2 𝑝𝑖 
+hvor pi = Ni/N, Ni = antall individer av art i, N = totalt antall individer i prøven eller på stasjonen 
+og S = totalt antall arter i prøven eller på stasjonen. 
+ 
+Diversiteten er vanligvis over tre i prøver fra uforurensede stasjoner. Ved å beregne den 
+maksimale diversitet som kan oppnås ved et gitt antall arter, H'max (= log2S), er det mulig å 
+uttrykke jevnheten (J) i prøven på følgende måte (Pielou 1966) 
+ 
+J = 
+H′
+H′max
+ 
+ 
+hvor H' = Shannon Wiener indeks og H'max = diversitet dersom alle arter er representert med 
+ett individ. Dersom H' = H'max er J maksimal og får verdien 1. J har en verdi nær null dersom de 
+fleste individene tilhører en eller få arter. 
+ 
+Hurlbert diversitetsindeks ES100 er beskrevet som 
+ 
+𝐸𝑆100 = ∑ [1 −
+(𝑁−𝑁𝑖
+100 )
+( 𝑁
+100)
+]
+𝑆
+𝑖
+ 
+hvor ES100 = forventet antall arter blant 100 tilfeldig valgte individer i en prøve med N individer, 
+S arter, og Ni individer av i-ende art. 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 50 av 62 
+V4.2 Sensitivitet og tetthet 
+Sensitivitet beskrives av indeksene ISI (Indicator Species Index), NSI og AMBI (Azti Marin Biotic 
+Index).  
+Beregning av ISI er beskrevet av Rygg, 2002 og NIVA-rapport 4548-2002. Formelen for 
+utregning av en prøves ISI-verdi er gitt ved 
+ 
+ISI = ∑[𝐼𝑆𝐼𝑖
+𝑆𝐼𝑆𝐼
+]
+𝑆
+𝑖
+ 
+hvor ISIi er verdien for arten i og SISI er antall arter tilordnet sensitivitetsverdier. Hver art er 
+tilordnet en sensitivitetsverdi (ISI-verdi), og en prøves ISI-verdi beregnes ved gjennomsnittet 
+av artene i prøven.  
+ 
+NSI er utviklet med basis i norske faunadata. Her er også hver art tilordnet en sensitivitetsverdi 
+(NSI-verdi) og individantall for hver art inngår i beregningen. Formelen for utregning av en 
+prøves NSI-verdi er gitt ved 
+ 
+ 
+NSI = ∑[𝑁𝑖• 𝑁𝑆𝐼𝑖
+𝑁𝑁𝑆𝐼
+]
+𝑆
+𝑖
+ 
+ 
+hvor Ni er antall individer og NSIi er verdien for arten i, NNSI er antall individer tilordnet 
+sensitivitetsverdier.  
+ 
+Sensitivitetsindeksen AMBI tilordner hver art en ømfintlighetsklasse (økologisk gruppe, EG): 
+EG-1: sensitive arter, EG-2: indifferente arter, EG-3: tolerante, EG-4: opportunistiske, EG-5: 
+forurensingsindikerende arter, og hvor hver enkelt økologiske gruppe har en toleranseverdi 
+(AMBI-verdi) (Borja et al., 2000). Formelen for beregning av en prøves AMBI-verdi er gitt ved 
+ 
+AMBI = ∑[
+𝑁𝑖 • 𝐴𝑀𝐵𝐼𝑖
+𝑁𝐴𝑀𝐵𝐼
+]
+𝑆
+𝑖
+ 
+ 
+hvor Ni er antall individer med innenfor økologisk gruppe i, AMBIi er toleranseverdien for de 
+ulike økologiske gruppene (henholdsvis 0, 1.5, 3, 3.5 og 6, for gruppe 1- 5, respektivt) og NAMBI 
+er antall arter tilordnet en AMBI-verdi.  
+ 
+AMBI viser stigende verdi ved synkende (dårligere) tilstand, mens alle de andre indeksene 
+viser synkende verdi ved synkende (dårligere) tilstand.  
+ 
+V4.3 Sammensatt indeks (NQI1) 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 51 av 62 
+Den sammensatte indeksen NQI1 (Norwegian quality status, version 1) bestemmes ut fra både 
+artsmangfold og sensitivitet (AMBI). 
+ 
+ 
+NQI-indeksen er gitt ved formelen 
+ 
+NQI1 = [0,5 • (1 −𝐴𝑀𝐵𝐼
+7
+) + 0,5 • (
+[
+ln(𝑆)
+ln(ln(𝑁))]
+2,7
+) • (
+𝑁
+𝑁+ 5)]  
+ 
+hvor AMBI er en sensitivitetsindeks, S er antall arter og N er antall individer i prøven.  
+ 
+V4.4 Normalisering 
+Ved å regne om alle indekser til nEQR (normalised Ecological Quality Ratio) får man 
+normaliserte verdier som gjør det lettere å sammenligne dem. nEQR gir en tallverdi på en skala 
+mellom 0 og 1, og hver tilstandsklasse spenner over nøyaktig 0,2 (tilstandsklasse «svært 
+dårlig» tilsvarer verdier mellom 0 – 0,2, tilstandsklasse «dårlig» tilsvarer verdier mellom 0,2 – 
+0,4 osv.). I tillegg til å vise statusklassen viser nEQR-verdien også hvor høyt eller lavt verdien 
+ligger innenfor sin tilstandsklasse. For eksempel viser en nEQR-verdi på 0,75 at indeksen ligger 
+tre firedeler i tilstandsklassen «God» (Tabell V.2). 
+Alle indeksverdier omregnes til nEQR etter følgende formel 
+ 
+nEQR =
+𝑎𝑏𝑠|Indeksverdi −Klassens nedre verdi|
+Klassens øvre indeksverdi −Klassens nedre grenseverdi • 0,2
++ Klassens nEQR Basisverdi  
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 52 av 62 
+Vedlegg 5- Referansetilstander 
+ 
+De forskjellige økoregionene er illustrert i Figur V6.1 og det er også gitt en forklaring på de 
+forskjellige vanntypene i figuren. Fargene som er brukt i tabellene nedenfor (V5.1-V5.3) angir 
+hvilken tilstand de ulike parameterne tilhører; blå tilsvarer tilstand «svært god», grønn à 
+«god», gul à «moderat», oransje à «dårlig» og rød à «svært dårlig». Bunnfauna klassifiseres 
+ut ifra NS 9410 (2016; tabell V5.4) ved stasjoner i anleggssonen, og i henhold til Veileder 
+02:2018 ved stasjoner utenfor anleggssonen.  
+ 
+ 
+Figur V5.1 Inndeling av økoregioner og forskjellige kystvanntyper langs norskekysten. 
+ 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 53 av 62 
+Tabell V5.1 Oversikt over klassegrenser og tilstand for de ulike indeksene i henhold til Veileder 02:2018. 
+Økoregion og 
+vanntype 
+Indeks 
+Tilstand 
+Svært god 
+God 
+Moderat 
+Dårlig 
+Svært dårlig 
+Skagerak 
+NQI 
+0.9 - 0.82 
+0.82 - 0.63 
+0.63 - 0.51 
+0.51 - 0.32 0.32 - 0 
+1-3 
+H 
+6.3 - 4.2 
+4.2 - 3.3 
+3.3 - 2.1 
+2.1 - 1 
+1 - 0 
+(S1-3) 
+ES100 
+58 - 29 
+29 - 20 
+20 - 12 
+12 - 6 
+6 - 0 
+ 
+ISI2012 
+13.2 - 8.5 
+8.5 - 7.6 
+7.6 - 6.3 
+6.3 - 4.6 
+4.6 - 0 
+ 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+Skagerak 
+NQI 
+0.86 - 0.69 
+0.69 - 0.6 
+0.6 - 0.47 
+0.47 - 0.3 
+0.3 - 0 
+5 
+H 
+6 - 4 
+4 - 3.1 
+3.1 - 2 
+2 - 0.9 
+0.9 - 0 
+(S5) 
+ES100 
+56 - 28 
+28 - 19 
+19 - 11 
+11 - 6 
+6 - 0 
+ 
+ISI2012 
+11.8 - 7.6 
+7.6 - 6.8 
+6.8 - 5.6 
+5.6 - 4.1 
+4.1 - 0 
+ 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+Nordsjøen S 
+NQI 
+0.94 - 0.75 
+0.75 - 0.66 
+0.66 - 0.51 
+0.51 - 0.32 0.32 - 0 
+1-2 
+H 
+6.3 - 4.2 
+4.2 - 3.3 
+3.3 - 2.1 
+2.1 - 1 
+1 - 0 
+(N1-2) 
+ES100 
+58 - 29 
+29 - 20 
+20 - 12 
+12 - 6 
+6 - 0 
+ 
+ISI2012 
+13.2 - 8.5 
+8.5 - 7.6 
+7.6 - 6.3 
+6.3 - 4.6 
+4.6 - 0 
+ 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+Nordsjøen S 
+NQI 
+0.9 - 0.72 
+0.72 - 0.63 
+0.63 - 0.49 
+0.49 - 0.31 0.31 - 0 
+3-5 
+H 
+5.9 - 3.9 
+3.9 - 3.1 
+3.1 - 2 
+2 - 0.9 
+0.9 - 0 
+(N3-5) 
+ES100 
+52 - 26 
+26 - 18 
+18 - 10 
+10 - 5 
+5 - 0 
+ 
+ISI2012 
+13.1 - 8.5 
+8.5 - 7.6 
+7.6 - 6.3 
+6.3 - 4.5 
+4.5 - 0 
+ 
+NSI 
+29 - 24 
+24 - 19 
+19 - 14 
+14 - 10 
+10 - 0 
+Nordsjøen N 
+NQI 
+0.9 - 0.72 
+0.72 - 0.63 
+0.63 - 0.51 
+0.51 - 0.32 0.32 - 0 
+1-2 
+H 
+6.3 - 4.2 
+4.2 - 3.3 
+3.3 - 2.1 
+2.1 - 1 
+1 - 0 
+(M1-2) 
+ES100 
+58 - 29 
+29 - 20 
+20 - 12 
+12 - 6 
+6 - 0 
+ 
+ISI2012 
+13.2 - 8.5 
+8.5 - 7.6 
+7.6 - 6.3 
+6.3 - 4.6 
+4.6 - 0 
+ 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+Nordsjøen N 
+NQI 
+0.9 - 0.72 
+0.72 - 0.63 
+0.63 - 0.49 
+0.49 - 0.31 0.31 - 0 
+3-5 
+H 
+5.9 - 3.9 
+3.9 - 3.1 
+3.1 - 2 
+2 - 0.9 
+0.9 - 0 
+(M3-5) 
+ES100 
+52 - 26 
+26 - 18 
+18 - 10 
+10 - 5 
+5 - 0 
+ 
+ISI2012 
+13.1 - 8.5 
+8.5 - 7.6 
+7.6 - 6.3 
+6.3 - 4.5 
+4.5 - 0 
+ 
+NSI 
+29 - 24 
+24 - 19 
+19 - 14 
+14 - 10 
+10 - 0 
+Norskehavet S 
+NQI 
+0.9 - 0.72 
+0.72 - 0.63 
+0.63 - 0.49 
+0.49 - 0.31 0.31 - 0 
+1-3 
+H 
+5.5 - 3.7 
+3.7 - 2.9 
+2.9 - 1.8 
+1.8 - 0.9 
+0.9 - 0 
+(H1-3) 
+ES100 
+46 - 23 
+23 - 16 
+16 - 9 
+9 - 5 
+5 - 0 
+ 
+ISI2012 
+13.4 - 8.7 
+8.7 - 7.8 
+7.8 - 6.4 
+6.4 - 4.7 
+4.7 - 0 
+ 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+Norskehavet S 
+NQI 
+0.91 - 0.73 
+0.73 - 0.64 
+0.64 - 0.49 
+0.49 - 0.31 0.31 - 0 
+4-5 
+H 
+5.5 - 3.7 
+3.7 - 2.9 
+2.9 - 1.8 
+1.8 - 0.9 
+0.9 - 0 
+(H4-5) 
+ES100 
+46 - 23 
+23 - 16 
+16 - 9 
+9 - 5 
+5 - 0 
+ 
+ISI2012 
+13.4 - 8.7 
+8.7 - 7.8 
+7.8 - 6.4 
+6.4 - 4.7 
+4.7 - 0 
+ 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 54 av 62 
+Økoregion og 
+vanntype 
+Indeks 
+Tilstand 
+Svært god 
+God 
+Moderat 
+Dårlig 
+Svært dårlig 
+Norskehavet N 
+NQI 
+0.9 - 0.72 
+0.72 - 0.63 
+0.63 - 0.49 
+0.49 - 0.31 0.31 - 0 
+1-3 
+H 
+5.5 - 3.7 
+3.7 - 2.9 
+2.9 - 1.8 
+1.8 - 0.9 
+0.9 - 0 
+(G1-3) 
+ES100 
+46 - 23 
+23 - 16 
+16 - 9 
+9 - 5 
+5 - 0 
+ 
+ISI2012 
+13.4 - 8.7 
+8.7 - 7.8 
+7.8 - 6.4 
+6.4 - 4.7 
+4.7 - 0 
+ 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+Norskehavet N 
+NQI 
+0.91 - 0.73 
+0.73 - 0.64 
+0.64 - 0.49 
+0.49 - 0.31 0.31 - 0 
+4-5 
+H 
+5.5 - 3.7 
+3.7 - 2.9 
+2.9 - 1.8 
+1.8 - 0.9 
+0.9 - 0 
+(G4-5) 
+ES100 
+46 - 23 
+23 - 16 
+16 - 9 
+9 - 5 
+5 - 0 
+ 
+ISI2012 
+13.4 - 8.7 
+8.7 - 7.8 
+7.8 - 6.4 
+6.4 - 4.7 
+4.7 - 0 
+ 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+Barentshavet 
+NQI 
+0.9 - 0.72 
+0.72 - 0.63 
+0.63 - 0.49 
+0.49 - 0.31 0.31 - 0 
+1-5 
+H 
+4.8 - 3.2 
+3.2 - 2.5 
+2.5 - 1.6 
+1.6 - 0.8 
+0.8 - 0 
+(B1-5) 
+ES100 
+39 - 19 
+19 - 13 
+13 - 8 
+8 - 4 
+4 - 0 
+ 
+ISI2012 
+13.5 - 8.7 
+8.7 - 7.8 
+7.8 - 6.5 
+6.5 - 4.7 
+4.7 - 0 
+ 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+ 
+Tabell V5.2 nEQR-basisverdi for hver tilstand*. 
+ 
+nEQR basisverdi 
+Tilstand 
+Klasse I 
+0,8 
+Svært god 
+Klasse II 
+0,6 
+God 
+Klasse III 
+0,4 
+Moderat 
+Klasse IV 
+0,2 
+Dårlig 
+Klasse V 
+0 
+Svært dårlig 
+*Tilstandsklasse 
+ 
+Tabell V5.3 Klassifisering av de undersøkte parameterne som inngår i Molvær et. al, 1997, Bakke et. al, 2007, 
+Veileder 02:2018. Organisk karbon er total organisk karbon (TOC) korrigert for finfraksjonen i sedimentet. 
+  
+Parameter 
+Måleenhet 
+Tilstand* 
+  
+I 
+II 
+III 
+IV 
+V 
+  
+Svært god/ 
+Bakgrunn 
+God 
+Moderat 
+Dårlig 
+Svært 
+dårlig 
+Dypvann 
+O2 innhold** 
+mg O2/ l 
+>6,39  
+6,39-
+4,97 
+4,97-3,55 
+3,55-2,13 
+<2,13 
+O2 metning*** 
+% 
+>65 
+65-50 
+50-35 
+35-20 
+<20 
+Sediment 
+TOC 
+mg TOC/g 
+<20 
+20-27 
+27-34 
+34-41 
+>41 
+Kobber 
+mg Cu/kg 
+<20 
+20-84 
+ 
+84-147 
+>147 
+Sink 
+mg Zn/ kg 
+0-90 
+91-139 
+140-750 
+751-6690 
+>6690 
+* Tilstandsklasse 
+** Regnet fra ml O2/L til mg O2/L hvor omregningsfaktoren til mg O2 /L er 1,42 
+*** Oksygenmetningen er beregnet for salinitet 33 og temperatur 6°C 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 55 av 62 
+Tabell V5.4 Vurdering av faunaprøver for prøvestasjon C1 (NS 9410:2016). 
+Tilstand* 
+Krav 
+1 - Meget god 
+Minst 20 arter av makrofauna (> 1 mm) utenom nematoder i et prøveareal på 0,2 m2. 
+Ingen av artene må utgjøre mer enn 65 % av det totale individantallet. 
+2 - God 
+5-19 arter av makrofauna (> 1 mm) utenom nematoder i et prøveareal på 0,2 m2. 
+Mer enn 20 individer utenom nematoder i et prøveareal på 0,2 m2. 
+Ingen av artene utgjør mer enn 90 % av det totale individantallet. 
+3 - Dårlig 
+1 til 4 arter av makrofauna (> 1 mm) utenom nematoder i et prøveareal på 0,2 m2. 
+4 - Meget dårlig 
+Ingen makrofauna (> 1 mm) utenom nematoder i et prøveareal på 0,2 m2. 
+*Miljøtilstand 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 56 av 62 
+Vedlegg 6 - Artsliste 
+ 
+Artsliste med NSI-verdier, sortert alfabetisk innen hovedgrupper, for all fauna funnet ved 
+Terråk (Tabell V6.1). 
+ 
+Tabell V6.1 Artsliste for bunnfauna. Arter markert i rødt er arter som er identifisert (og i enkelte tilfeller 
+kvantifisert), men som ikke er statistisk gjeldende (i.e Foraminifera, phylum Bryozoa, kolonielle Porifera, 
+infraklasse Cirripedia, kolonielle Cnidaria, phylum Nematoda og pelagiske arter, jf. NS-EN ISO 16665:2013. 
+Symbolet «X» indikerer at arten eller taxaen er observert, men ikke kvantifisert.  
+TAXA 
+N
+SI 
+(E
+G) 
+TER-
+1-1 
+TER-
+1-2 
+TER-
+1-3 
+TER-
+2-1 
+TER-
+2-2 
+TER-
+2-3 
+TER-
+REF-1 
+TER-
+REF-2 
+TER-
+REF-3 
+TER-
+3-1 
+TER-
+3-2 
+TER-
+3-3 
+Abyssoninoe hibernica 
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+  
+2 
+  
+2 
+2 
+2 
+Amaeana trilobata 
+1 
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Ampharete octocirrata 
+1 
+3 
+4 
+1 
+5 
+2 
+2 
+3 
+  
+3 
+4 
+3 
+  
+Ampharete sp. 
+1 
+2 
+2 
+1 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+Ampharetidae 
+1 
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Amphicteis gunneri 
+3 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Amphictene auricoma 
+2 
+  
+  
+1 
+2 
+  
+  
+  
+  
+3 
+  
+  
+1 
+Amythasides 
+macroglossus 
+1 
+33 
+10 
+5 
+14 
+3 
+11 
+7 
+6 
+6 
+20 
+6 
+17 
+Anobothrus laubieri 
+1 
+2 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+Aphelochaeta sp. 
+2 
+  
+2 
+  
+2 
+1 
+4 
+1 
+2 
+  
+  
+3 
+2 
+Aphroditidae 
+2 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Apistobranchus tullbergi 
+2 
+  
+  
+  
+1 
+  
+  
+  
+  
+1 
+  
+  
+  
+Aricidea catherinae 
+1 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Aricidea sp. 
+1 
+  
+2 
+  
+1 
+1 
+1 
+1 
+2 
+1 
+  
+  
+  
+Augeneria tentaculata 
+kompleks 
+1 
+1 
+3 
+  
+1 
+  
+  
+1 
+  
+1 
+  
+2 
+1 
+Ceratocephale loveni 
+3 
+  
+  
+  
+  
+1 
+  
+1 
+1 
+2 
+  
+1 
+  
+Chaetozone setosa 
+kompleks 
+4 
+  
+  
+  
+  
+3 
+1 
+1 
+1 
+  
+1 
+1 
+  
+Chirimia biceps  
+2 
+15 
+15 
+8 
+8 
+16 
+7 
+28 
+6 
+17 
+22 
+11 
+17 
+Chone sp. 
+1 
+4 
+  
+  
+  
+2 
+1 
+  
+1 
+1 
+4 
+1 
+  
+Diplocirrus glaucus 
+2 
+1 
+3 
+2 
+1 
+2 
+3 
+6 
+2 
+1 
+3 
+  
+1 
+Dipolydora sp. 
+  
+  
+1 
+  
+1 
+  
+  
+  
+1 
+  
+1 
+  
+  
+Drilonereis filum 
+2 
+2 
+8 
+  
+4 
+12 
+5 
+4 
+1 
+2 
+3 
+6 
+  
+Eclysippe vanelli 
+1 
+12 
+13 
+10 
+11 
+6 
+9 
+8 
+3 
+12 
+8 
+3 
+13 
+Euclymeninae 
+1 
+3 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Eulalia mustela 
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+Eunice pennata 
+1 
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+Exogone verugera 
+1 
+2 
+  
+  
+  
+  
+  
+4 
+4 
+10 
+  
+  
+  
+Galathowenia oculata 
+3 
+5 
+1 
+  
+1 
+1 
+  
+3 
+  
+  
+1 
+  
+8 
+Glycera lapidum 
+kompleks 
+1 
+1 
+  
+  
+1 
+1 
+3 
+  
+  
+1 
+1 
+  
+  
+Glycera sp. 
+2 
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+Glyphanostomum 
+pallescens 
+  
+4 
+1 
+1 
+4 
+  
+1 
+2 
+  
+1 
+  
+1 
+2 
+Goniada maculata 
+2 
+  
+  
+  
+  
+1 
+  
+1 
+2 
+  
+  
+1 
+  
+Heteroclymene robusta 
+1 
+  
+  
+  
+1 
+  
+  
+  
+1 
+  
+  
+  
+  
+Heteromastus filiformis 
+4 
+49 
+20 
+8 
+32 
+35 
+45 
+154 
+149 
+174 
+37 
+24 
+42 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 57 av 62 
+Isocirrus planiceps 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+Jasmineira sp. 
+2 
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Lagis koreni 
+4 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Levinsenia gracilis 
+2 
+  
+  
+  
+  
+  
+  
+1 
+6 
+1 
+  
+  
+  
+Lumbrineris sp. 
+2 
+3 
+  
+  
+  
+  
+  
+  
+  
+1 
+1 
+  
+1 
+Maldane sarsi 
+4 
+  
+3 
+1 
+  
+  
+  
+1 
+1 
+3 
+  
+  
+  
+Maldanidae 
+2 
+  
+1 
+  
+  
+  
+  
+  
+1 
+1 
+  
+  
+  
+Malmgrenia mcintoshi 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Melinna elisabethae 
+2 
+  
+1 
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+Melinna sp. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Myriochele danielsseni 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Nephtyidae 
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+Nereimyra punctata 
+4 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Nereiphylla lutea 
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Nicomache lumbricalis 
+2 
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+Nothria conchylega 
+1 
+  
+2 
+  
+  
+1 
+  
+  
+  
+  
+  
+1 
+  
+Notomastus latericeus 
+1 
+  
+5 
+2 
+9 
+7 
+2 
+14 
+10 
+12 
+7 
+4 
+5 
+Odontosyllis fasciata 
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Ophelina cylindricaudata 
+1 
+2 
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+1 
+  
+Ophelina sp. 
+3 
+  
+  
+  
+3 
+  
+1 
+6 
+1 
+3 
+3 
+1 
+4 
+Owenia borealis 
+2 
+  
+1 
+1 
+1 
+  
+1 
+  
+  
+  
+  
+  
+  
+Panthalis oerstedi 
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Paradoneis lyra 
+2 
+1 
+  
+2 
+  
+  
+  
+1 
+3 
+1 
+  
+  
+  
+Paramphinome jeffreysii 
+3 
+15 
+23 
+17 
+26 
+30 
+23 
+22 
+43 
+13 
+11 
+5 
+9 
+Paramphitrite birulai 
+1 
+4 
+  
+  
+  
+2 
+  
+1 
+  
+  
+2 
+  
+1 
+Paranaitis kosteriensis 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Parexogone hebes 
+1 
+1 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Pectinaria belgica 
+2 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Pholoe baltica 
+3 
+7 
+  
+10 
+  
+  
+2 
+  
+  
+1 
+  
+  
+  
+Pholoe pallida 
+1 
+  
+  
+1 
+  
+  
+  
+1 
+  
+1 
+3 
+  
+  
+Pholoe sp. 
+2 
+1 
+  
+  
+2 
+1 
+  
+2 
+2 
+  
+3 
+1 
+2 
+Phyllodoce groenlandica 
+3 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+Phyllodoce rosea 
+1 
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+Polynoidae 
+2 
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+1 
+Praxillella affinis 
+1 
+  
+  
+  
+  
+1 
+1 
+  
+  
+  
+  
+  
+  
+Praxillella praetermissa 
+2 
+  
+  
+3 
+1 
+  
+  
+1 
+1 
+1 
+1 
+1 
+1 
+Prionospio cirrifera 
+3 
+2 
+1 
+1 
+19 
+5 
+9 
+23 
+15 
+30 
+5 
+4 
+1 
+Prionospio dubia 
+1 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+Prionospio fallax 
+2 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+Psamathe fusca 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Sabella pavonina 
+  
+  
+1 
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+Sabellidae 
+2 
+  
+  
+1 
+2 
+  
+1 
+1 
+  
+  
+  
+  
+  
+Saphobranchia 
+longisetosa 
+  
+1 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Scalibregma hanseni 
+  
+3 
+  
+2 
+2 
+  
+  
+7 
+10 
+23 
+1 
+  
+1 
+Scalibregma inflatum 
+kompleks 
+3 
+1 
+  
+1 
+1 
+  
+1 
+1 
+  
+  
+  
+  
+  
+Scolelepis sp. 
+1 
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+Siboglinidae 
+1 
+1 
+  
+  
+  
+  
+1 
+  
+1 
+  
+  
+  
+  
+Sige fusigera 
+3 
+3 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Sosane wireni 
+1 
+6 
+  
+  
+  
+  
+  
+1 
+  
+  
+1 
+1 
+  
+Sphaerodorum sp. 
+2 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 58 av 62 
+Spiophanes kroyeri 
+kompleks 
+3 
+3 
+  
+  
+  
+  
+2 
+1 
+4 
+3 
+  
+  
+  
+Streblosoma intestinale 
+1 
+  
+  
+  
+1 
+  
+  
+  
+  
+1 
+1 
+1 
+1 
+Syllis cornuta 
+3 
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Terebellidae 
+1 
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+1 
+  
+Terebellides sp. 
+2 
+1 
+  
+  
+  
+1 
+1 
+3 
+7 
+3 
+  
+  
+1 
+Terebelliformia 
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+Tharyx killariensis 
+2 
+2 
+  
+  
+  
+1 
+1 
+3 
+  
+2 
+  
+  
+1 
+Trichobranchus roseus 
+1 
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+Zatsepinia rittichae 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+Oligochaeta 
+5 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+Abra nitida 
+3 
+  
+  
+1 
+4 
+7 
+8 
+5 
+5 
+2 
+4 
+3 
+5 
+Adontorhina similis  
+2 
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+1 
+1 
+Astarte montagui 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3 
+Astarte sulcata 
+1 
+3 
+4 
+  
+2 
+  
+  
+  
+  
+  
+2 
+1 
+  
+Axinulus croulinensis 
+1 
+7 
+  
+  
+6 
+2 
+4 
+10 
+9 
+7 
+4 
+2 
+3 
+Bathyarca pectunculoides 1 
+  
+1 
+  
+  
+1 
+  
+1 
+  
+  
+  
+1 
+1 
+Cuspidaria lamellosa 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+Cuspidaria rostrata 
+1 
+1 
+1 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+Ennucula corticata 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+3 
+Ennucula tenuis 
+2 
+5 
+12 
+6 
+1 
+1 
+1 
+  
+  
+  
+2 
+1 
+  
+Hiatella arctica 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+Kelliella miliaris 
+3 
+1 
+2 
+  
+2 
+  
+2 
+5 
+4 
+1 
+  
+  
+  
+Mendicula ferruginosa 
+1 
+9 
+43 
+25 
+29 
+18 
+12 
+28 
+12 
+6 
+21 
+30 
+24 
+Mendicula sp. 
+  
+3 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Mya sp. 
+3 
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+Nuculana minuta 
+1 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Papillicardium minimum 
+1 
+1 
+2 
+  
+  
+6 
+4 
+4 
+1 
+  
+1 
+  
+1 
+Parathyasira equalis 
+3 
+4 
+1 
+  
+3 
+17 
+6 
+16 
+19 
+18 
+3 
+1 
+  
+Pseudamussium 
+peslutrae 
+1 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Thyasira obsoleta 
+1 
+2 
+9 
+5 
+  
+3 
+1 
+7 
+2 
+3 
+  
+1 
+  
+Thyasira sarsii 
+4 
+1 
+6 
+1 
+6 
+3 
+2 
+6 
+10 
+1 
+3 
+  
+7 
+Timoclea ovata 
+1 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+Tropidomya abbreviata 
+1 
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+Yoldiella lucida 
+2 
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Yoldiella nana 
+3 
+  
+  
+  
+  
+  
+1 
+1 
+  
+  
+  
+  
+  
+Yoldiella philippiana 
+1 
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Cephalaspidea 
+4 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+Eulimidae 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Euspira montagui 
+2 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Euspira pallida 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+1 
+  
+Philinoidea 
+2 
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+Propebela sp. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Puncturella noachina 
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Retusa umbilicata 
+4 
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+Leptochiton alveolus 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Antalis sp. 
+  
+1 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+Caudofoveata 
+2 
+1 
+  
+  
+2 
+  
+  
+2 
+  
+8 
+  
+  
+  
+Chaetoderma nitidulum 
+2 
+  
+  
+  
+  
+  
+1 
+5 
+6 
+2 
+  
+  
+  
+Chaetoderma sp. 
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Falcidens crossotus 
+  
+  
+1 
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+Scutopus ventrolineatus 
+2 
+  
+  
+  
+  
+  
+  
+15 
+7 
+5 
+  
+  
+  
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 59 av 62 
+Ampelisca sp. 
+1 
+1 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Corophiidae 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Eriopisa elongata 
+2 
+  
+  
+  
+  
+2 
+2 
+3 
+3 
+  
+  
+  
+  
+Haploops setosa 
+1 
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+Harpinia sp. 
+3 
+  
+  
+  
+1 
+1 
+  
+3 
+2 
+3 
+  
+1 
+2 
+Lysianassoidea 
+1 
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+Nototropis nordlandicus 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+Oedicerotidae 
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+Brachydiastylis resima 
+2 
+4 
+2 
+  
+  
+  
+  
+  
+  
+  
+2 
+3 
+4 
+Diastylis lucifera 
+3 
+  
+  
+  
+1 
+2 
+  
+1 
+  
+  
+1 
+1 
+1 
+Eudorella emarginata 
+3 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Eudorella truncatula 
+2 
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+Gnathia dentata 
+  
+1 
+  
+3 
+2 
+1 
+  
+  
+1 
+  
+  
+  
+  
+Gnathia sp. 
+1 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+1 
+  
+Gnathiidae (larver)  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Apseudes spinosus 
+1 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+Ostracoda 
+2 
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+Macrocypris minna 
+1 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+Vargula norvegica 
+1 
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+Calanoida  
+  
+  
+  
+1 
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+Euphausiacea  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+Ophiuroidea 
+2 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+1 
+  
+  
+Amphiura chiajei 
+2 
+  
+2 
+1 
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+Amphiura filiformis 
+3 
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+Ophiura (Dictenophiura) 
+carnea  
+  
+1 
+  
+  
+1 
+  
+1 
+2 
+  
+  
+  
+3 
+4 
+Ophiura ophiura 
+  
+  
+1 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Ophiura sp. 
+2 
+  
+5 
+3 
+2 
+  
+1 
+  
+  
+  
+3 
+  
+  
+Thyone fusus 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+Edwardsiidae 
+2 
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+Nematoda  
+  
+70 
+80 
+65 
+79 
+30 
+40 
+30 
+15 
+  
+70 
+50 
+50 
+Nemertea 
+3 
+1 
+  
+  
+1 
+2 
+  
+5 
+2 
+4 
+  
+2 
+1 
+Nemertea 2 
+3 
+  
+2 
+  
+1 
+2 
+1 
+  
+4 
+1 
+  
+  
+  
+Platyhelminthes 
+2 
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+Sipuncula 
+2 
+  
+1 
+  
+  
+  
+1 
+9 
+1 
+2 
+  
+  
+1 
+Onchnesoma steenstrupii 1 
+  
+  
+  
+2 
+  
+  
+1 
+  
+  
+1 
+2 
+1 
+Phascolion (Phascolion) 
+strombus strombus  
+2 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+1 
+Foraminifera  
+  
+20 
+50 
+  
+4 
+20 
+50 
+500 
+30 
+  
+10 
+20 
+30 
+Nemertea 3 
+  
+  
+  
+  
+1 
+1 
+  
+2 
+  
+2 
+1 
+  
+2 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 60 av 62 
+Vedlegg 7 – CTD rådata  
+Rådata fra CTD-undersøkelsen ved er presentert fra overflaten til like over bunnen (Tabell 
+V7.1). 
+ 
+Tabell V7.1: CTD-data fra Terråk.  
+Salinitet (ppt) 
+Temperatur (°C) 
+O2 (%) 
+O2 (mg/l) 
+Dybde (m) 
+Tid 
+26 
+7,6 
+121,2 
+12,38 
+1,0 
+11:30:51 
+26 
+7,5 
+124,1 
+12,73 
+1,3 
+11:30:53 
+29 
+6,8 
+128,9 
+13,13 
+2,8 
+11:30:55 
+31 
+6,3 
+132,3 
+13,51 
+4,3 
+11:30:57 
+31 
+6,1 
+133,3 
+13,60 
+5,7 
+11:30:59 
+32 
+5,9 
+130,9 
+13,38 
+7,2 
+11:31:01 
+32 
+5,8 
+124,1 
+12,69 
+8,6 
+11:31:03 
+32 
+5,8 
+117,9 
+12,06 
+10,1 
+11:31:05 
+32 
+5,8 
+111,9 
+11,44 
+11,4 
+11:31:07 
+32 
+5,8 
+108,9 
+11,12 
+12,5 
+11:31:09 
+33 
+5,8 
+107,1 
+10,93 
+13,7 
+11:31:11 
+33 
+5,8 
+109,3 
+11,14 
+14,8 
+11:31:13 
+33 
+5,9 
+107,0 
+10,88 
+15,9 
+11:31:15 
+33 
+6,0 
+105,6 
+10,72 
+17,0 
+11:31:17 
+33 
+6,0 
+104,0 
+10,53 
+18,3 
+11:31:19 
+33 
+6,2 
+103,1 
+10,40 
+19,7 
+11:31:21 
+33 
+6,3 
+101,9 
+10,23 
+21,2 
+11:31:23 
+33 
+6,4 
+103,0 
+10,33 
+22,6 
+11:31:25 
+33 
+6,5 
+102,8 
+10,28 
+24,0 
+11:31:27 
+33 
+6,5 
+100,8 
+10,07 
+25,5 
+11:31:29 
+33 
+6,6 
+100,0 
+9,98 
+27,1 
+11:31:31 
+33 
+6,7 
+97,7 
+9,73 
+28,8 
+11:31:33 
+33 
+6,7 
+95,7 
+9,51 
+30,4 
+11:31:35 
+33 
+6,8 
+94,8 
+9,41 
+32,2 
+11:31:37 
+33 
+6,8 
+94,8 
+9,39 
+33,8 
+11:31:39 
+33 
+6,8 
+94,1 
+9,33 
+35,5 
+11:31:41 
+34 
+6,8 
+94,9 
+9,40 
+37,0 
+11:31:43 
+34 
+6,8 
+95,9 
+9,50 
+38,5 
+11:31:45 
+34 
+6,9 
+94,3 
+9,31 
+40,0 
+11:31:47 
+34 
+6,9 
+93,6 
+9,23 
+41,7 
+11:31:49 
+34 
+7,0 
+92,8 
+9,15 
+43,3 
+11:31:51 
+34 
+7,0 
+91,8 
+9,03 
+46,5 
+11:31:55 
+34 
+7,1 
+91,8 
+9,02 
+48,0 
+11:31:57 
+34 
+7,1 
+91,4 
+8,99 
+49,5 
+11:31:59 
+34 
+7,1 
+91,4 
+8,98 
+51,1 
+11:32:01 
+34 
+7,1 
+90,8 
+8,92 
+52,6 
+11:32:03 
+34 
+7,1 
+90,7 
+8,90 
+54,1 
+11:32:05 
+34 
+7,1 
+90,4 
+8,88 
+55,5 
+11:32:07 
+34 
+7,1 
+89,6 
+8,79 
+56,9 
+11:32:09 
+34 
+7,2 
+89,2 
+8,74 
+58,3 
+11:32:11 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+ 
+Side 61 av 62 
+34 
+7,2 
+89,3 
+8,75 
+59,3 
+11:32:13 
+34 
+7,2 
+88,8 
+8,70 
+61,0 
+11:32:15 
+34 
+7,2 
+88,3 
+8,64 
+62,6 
+11:32:17 
+34 
+7,2 
+88,7 
+8,68 
+64,3 
+11:32:19 
+34 
+7,2 
+89,1 
+8,73 
+65,9 
+11:32:21 
+34 
+7,2 
+89,2 
+8,73 
+67,4 
+11:32:23 
+34 
+7,2 
+89,1 
+8,73 
+68,9 
+11:32:25 
+34 
+7,2 
+89,2 
+8,74 
+70,7 
+11:32:27 
+34 
+7,1 
+89,6 
+8,77 
+72,2 
+11:32:29 
+34 
+7,1 
+89,4 
+8,75 
+73,8 
+11:32:31 
+34 
+7,1 
+89,4 
+8,75 
+75,2 
+11:32:33 
+34 
+7,1 
+89,1 
+8,73 
+76,2 
+11:32:35 
+34 
+7,1 
+88,9 
+8,70 
+77,5 
+11:32:37 
+34 
+7,1 
+88,8 
+8,70 
+78,1 
+11:32:39 
+ 
+ 
+Terråk 
+Dokumentid. B.5.5.23-P v3.20 
+Side 62 av 62 
+Vedlegg 8 – Bilder av sediment 
+Det ble tatt bilder av sedimentet fra ett hugg per stasjon etter at grabben ble tømt i 
+plastbaljen, men før vask (Figur V8.1-V8.2). 
+Figur V8.1 Sediment før vask. Lapp indikerer stasjonsnummer. 
+Figur V8.2 Sediment før vask. Lapp indikerer stasjonsnummer. 
+2 
+1 
+REF 
+3

@@ -1,0 +1,3280 @@
+﻿1 
+Skisseprosjekt 
+for etablering av landbasert 
+postsmoltanlegg på Brukstomta i 
+Terråk 
+Oppdragsgiver: Terråk industripark 
+Rapportdato: 25.05.2022 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+2 
+ 
+Innhold 
+Sammendrag ........................................................................................................................................... 4 
+1. 
+Bakgrunn ......................................................................................................................................... 5 
+2. 
+Om søker ......................................................................................................................................... 5 
+3. 
+Om industriområdet Brukstomta .................................................................................................... 6 
+3.1 Reguleringsplan for området. ........................................................................................................ 7 
+4. 
+Opplysninger om anlegget og driftskonseptet. ............................................................................... 8 
+4.1 RAS-teknologi ................................................................................................................................ 9 
+4.2 Prosessfase fra konsesjon til ferdigstillelse av anlegg. ................................................................ 10 
+4.3 Utarbeidelse av teknisk og biologisk spesifikasjon...................................................................... 11 
+5. Byggteknisk ........................................................................................................................................ 12 
+5.1 Produksjonsbygg ......................................................................................................................... 12 
+5.2 El-forsyning og sikkerhet ............................................................................................................. 13 
+6. Produksjonsanlegg. ........................................................................................................................... 13 
+6.1 Produksjonsavdelinger ................................................................................................................ 14 
+6.2 Resirkuleringsgrad ....................................................................................................................... 15 
+6.3 Klekkeri ........................................................................................................................................ 16 
+6.4 Startfôringsavdeling. ................................................................................................................... 17 
+6.5 Parr- og smoltavdeling ................................................................................................................ 19 
+6.6. Postsmoltavdelinger ................................................................................................................... 21 
+7. Vannkilde og vannbehandling i RAS. ................................................................................................. 24 
+7.1 Vanninntak .................................................................................................................................. 24 
+7.2 Vannkvalitet. ................................................................................................................................ 25 
+7.3 Vannavløp .................................................................................................................................... 28 
+7.4 Generell vannbehandling. ........................................................................................................... 29 
+7.5. Justering av vannkvalitet. ........................................................................................................... 30 
+7.6. Vannbehov. ................................................................................................................................ 31 
+8. Produksjon. ........................................................................................................................................ 32 
+8.1 Tilvekstmodellering ..................................................................................................................... 32 
+8.2 Produksjonsplan. ......................................................................................................................... 33 
+8.3 Fôr/utfôring ................................................................................................................................. 35 
+8.4 Salg av biomasse .......................................................................................................................... 36 
+9.  Biosikkerhet ...................................................................................................................................... 37 
+9.1 Management ............................................................................................................................... 37 
+9.2 Hygiene, sykdom og smitte ......................................................................................................... 37 
+9.3 Overvåking ................................................................................................................................... 38 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+3 
+ 
+9.4 Desinfeksjon ................................................................................................................................ 38 
+9.4.1. Desinfeksjon av inntaksvann. .............................................................................................. 39 
+9.4.2 Membranfiltrering av inntaksvann. ...................................................................................... 40 
+10. Tekniske komponenter .................................................................................................................... 40 
+10.1 Biofilter ...................................................................................................................................... 40 
+10.1.1 Moving bed bioreaktor (MBBR).......................................................................................... 41 
+10.1.2 Fixed bed biofilter............................................................................................................... 42 
+10.2 UV-filter ..................................................................................................................................... 42 
+10.3 Oppdrettskar ............................................................................................................................. 43 
+10.4 Dødfiskhåndtering ..................................................................................................................... 44 
+10.5 Fiskelogistikk, transport, sortering og vaksinering .................................................................... 46 
+10.6 Vaksinering ................................................................................................................................ 48 
+10.7 Partikkelfjerning ........................................................................................................................ 48 
+10.8 Lysstyring ................................................................................................................................... 49 
+10.9 Oksygenering ............................................................................................................................. 50 
+10.9.1 Oksygenkilder ..................................................................................................................... 51 
+10.10 CO2-fjerning ............................................................................................................................. 52 
+10.11 Energianlegg ............................................................................................................................ 53 
+10.12 Fôringsanlegg .......................................................................................................................... 53 
+11. Oppstart, drift og vedlikehold av biofilter. ...................................................................................... 56 
+12.Rensing av avløpsvann ..................................................................................................................... 57 
+12.1 Beskrivelse av rensetrinn........................................................................................................... 57 
+12.2 Beregning av produsert mengde tørrstoff ................................................................................ 58 
+13. Modellering av avløp og vurdering av smitterisiko med nærliggende anlegg. ............................... 60 
+14. Forebygging mot rømming .............................................................................................................. 63 
+15. Internkontroll .................................................................................................................................. 63 
+16. Ekstern fiskehelsetjeneste ............................................................................................................... 64 
+17. Referanser: ...................................................................................................................................... 64 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+4 
+ 
+Sammendrag 
+ 
+Terråk industripark AS søker om konsesjon for produksjon av 10 millioner postsmolt av atlantisk laks 
+(Salmo salar) med snittvekt 400 gram. Total årlig produksjon vil være 4000 tonn. 
+Konsesjonen søkes tilknyttet Brukstomta i Bindal kommune, som er et regulert næringsområde 
+tilrettelagt for havnære industrier. Brukstomta har etablert kaianlegg og det er tilrettelagt for 
+tilstrekkelig krafttilgang, i tillegg til ferdig opplagt infrastruktur for ferskvann. 
+Produksjonsanlegget vil benytte ferskvann fra Hellifossen Kraftverk gjennom NVE konsesjon for 
+Clemens Kraft (vassdrag 144.4Z). Maksimalt uttak vil være 5,4 m3/min, tilsvarende 324 m3/time. 
+Produksjonsanlegget vil være basert på resirkuleringsteknologi, med et gjennomsnittlig vannforbruk 
+på 365 liter vann per kg fôr per dag. Resirkuleringsgraden er moderat, og anlegget skal prosjekteres 
+med fokus på god fiskevelferd og sikre produksjonsvilkår. Produksjonskonseptet skal utvikles i 
+samarbeid med en prosessleverandør, entreprenør og sammen med ulike fag miljø. Anlegget designes 
+etter beste industrielle standard og i samsvar med teknisk standard NS9416. 
+Anlegget vil kun benytte ferskvann som vannkilde og råvannet forbehandles enten med 
+membranfiltrering eller med ozon, som tilsettes i holdetank. Formålet er å stabilisere og desinfisere 
+råvannet, slik at råvannet i minst mulig vil grad påvirke stabiliteten i RAS systemet. 
+Anlegget bygges med separate adskilte produksjonsavdelinger, som hver for seg er en smittemessig 
+enhet. Hver avdeling vil ha smittesluser for å redusere risiko for smitte og egen vaskesentral. Alle 
+avdelinger har i tillegg eget renseanlegg for produksjonsvann, bestående av biofilter, partikkelfilter og 
+CO2-lufter. Hver avdeling vil ha systemer for pH regulering av vannet, for å oppnå stabil vannkjemi.  
+Fisketransport mellom avdelinger foregår med standard fiskepumper, og sortering/vaksinering foregår 
+ved gitte fiskestørrelser i produksjonen. Det er lagt vekt på å bruke løsninger som har god 
+dokumentasjon i forhold til ivaretagelse av fiskevelferd. 
+Fôrdistribusjon skjer fra et sentralt fôrlager via rørføringer til den enkelte avdeling. Kontroll av utfôring 
+er viktig i RAS anlegg og det vil benyttes systemer for intelligent overvåkning av utfôring (AI). Dødfisk 
+transporteres ut av avdelingene ved hjelp av vakuumsystem, og overføres direkte til ensileringssystem. 
+Anlegget vil ha et overordnet styringssystem for de viktigste prosessene. Det vil også etableres ett 
+kontroll og alarmsystem for overvåkning av vannkvalitet i alle produksjonsavdelinger. 
+For å sikre redusert risiko for smitte mellom ulike lokaliteter vil anleggets avløpsledning legges i 
+sørvestlig retning, innover Sørfjorden. Avløpsvannet skal desinfiseres med standard UV filter i samsvar 
+med standard rensekrav for denne typen industri. 
+Produksjonsanlegget vil være utstyrt med renseanlegg for avløpsvann, som skal fjerne minimum 50% 
+av partikkelmengde. Filtrert slam vil avvannes, stabiliseres og lagres, for bruk i biogassanlegg eller som 
+gjødsel. Innlagring av avløpsvann vil skje i sør-vestlig retning inn Sørfjorden. Søker har gjort flere 
+modelleringer i tillegg til strømmålinger for å finne det beste utslippspunktet. 
+Selskapet vil etablere egen driftsorganisasjon og det vil bli lagt vekt på kompetanseutvikling i systemet. 
+Totalt vil anlegget ha behov for rundt 20 ansatte, med en blanding av teknisk, biologisk og 
+administrativt personell. I tillegg forventes en ringvirkningseffekt på minimum 3 personer pr ansatt 
+ved bedriften, i form av servicebehov og andre tjenester tilknyttet bedriften.  
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+5 
+ 
+ 
+1. Bakgrunn 
+Terråk industripark søker om konsesjon for bygging, drift og produksjon av postsmolt av atlantisk laks 
+(Salmo salar), tilknyttet Brukstomta i Terråk, Bindal kommune (1811-44/500). Selskapet søker om et 
+produksjonsvolum på 4000 tonn og har en målsetning om å levere 10 millioner postsmolt med en 
+snittvekt på 400 gram. 
+Produksjonsanlegget vil kunne levere postsmolt gjennom store deler av året og vil ha et energianlegg 
+som tilrettelegger for riktig produksjonstemperatur uavhengig av sesong. 
+Terråk industripark har en avtale med Hellifossen Kraft AS om uttak av ferskvann, inntil 5,4 m3/min fra 
+kraftverket i Terråkelva. Selskapet planlegger produksjonen med RAS-teknologi. Det skal være et 
+konservativt resirkuleringssystem med moderat vannforbruk (450 liter per kg fisk produsert per dag). 
+Fisken skal smoltifiseres ved rundt 100 gram og produseres fram til 400 gram ved en salinitet på 15 
+ppt, gjennom tilsetting av salt.  
+Anlegget vil bygges med komplette klekkeri, startfôring, yngel og smoltavdelinger, i tillegg til 
+postsmoltavdeling. 
+Selskapet 
+vil 
+benytte 
+en 
+anerkjent 
+prosessleverandør 
+og 
+utvikle 
+produksjonskonseptet i samspill med ulike fagmiljøer. 
+For å sikre redusert risiko for smitte mellom ulike lokaliteter vil anleggets avløpsledning legges i 
+sørvestlig retning, innover Sørfjorden. Avløpsvannet skal filtreres og desinfiseres med standard 
+renseanlegg og i forhold til standard rensekrav for denne typen industri. 
+Anlegget skal bygges i henhold til norsk standard NS9416; Landbaserte akvakulturanlegg for fisk, krav 
+til risikoanalyse, prosjektering, utførelse, drift, brukerhåndbok og produktdatablad, samt forskrift av 
+2018; Krav til teknisk standard for landbaserte akvakulturanlegg skal bidra til å forebygge rømming av 
+fisk fra landbaserte akvakulturanlegg. 
+ 
+2. Om søker 
+Terråk Industripark AS (926 925 214) er søker av konsesjonen. Selskapet er etablert som et 
+holdingsselskap, og består av eierinteressenter i entreprenørselskapet NærøysundGruppen AS og 
+ressurspersoner fra SalmoNor (figur 1). Selskapet skal struktureres og finansieres opp gjennom 
+emisjoner i etterkant av konsesjonsprosessen. Arne Kiil er daglig leder for foretaket og videre 
+driftsorganisasjon er under etablering. 
+Selskapets adresse er; 
+Terråk Industripark AS, co NærøysundGruppen AS, Bjørkåsvegen 141, 7970 Kolvereid 
+ 
+Kontaktperson: Styreleder Stein Okstad 
+Telefon: 971 58 608 
+Epost: stein@ngruppen.no 
+Nettside: www.ngruppen.no 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+6 
+ 
+ 
+Figur 1. Organisasjonskart Terråk Industripark AS. 
+ 
+3. Om industriområdet Brukstomta 
+Brukstomta Næringspark AS er et eiendomsselskap heleid av Bindal kommune. Selskapet disponerer 
+en industritomt (G.nr. 44, B.nr. 5) inkludert et fabrikkanlegg på 14 000 m2, ca 50 000 m2 tomt, samt en 
+dypvannskai etablert i 2020 (figur 2). Selskapets formål er å etablere industriell aktivitet på tomten og 
+i 2020 fikk selskapet Helgeland Lumpsucker AS godkjent en konsesjon for landbasert oppdrett av 
+rognkjeks. Markedsutsiktene for rensefisk har ikke gitt grunnlag for videre satsning på denne formen 
+for oppdrett, og det ble i 2021 inngått en avtale mellom konsesjonseier og Brukstomta Næringspark 
+om avståelse av konsesjon. 
+Terråk Industripark AS har skrevet avtale med Brukstomta Næringspark AS om kjøp av 1811-44/500 på 
+28 000 m2, og har som formål å etablere et landbasert postsmoltanlegg. Det er også søkt om utfylling 
+av sjøareal på 2 300 m2 som evt. Kommer som tilleggsarealer. Naboeiendommen er ikke regulert til 
+industritomt, men det er skrevet intensjonsavtale om kjøp av omtrent 6 000 m2 hvis det er behov for 
+ytterligere arealer.  
+Styreleder
+Stein Okstad
+Styremedlem
+Roald Dolmen
+Styremedlem
+Arne Kiil
+Styremedlem
+Jørn Otto Røed
+Styremedlem
+Otto Røed
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+7 
+ 
+ 
+Figur 2. Brukstomta Næringspark i Bindal kommune. 
+3.1 Reguleringsplan for området. 
+Brukstomta Næringspark fikk godkjent reguleringsplan i 2019, med økt utnyttelsesgrad (60 %) og i 
+tillegg utfylling av 1 400 m2 stort sjøområde for tilrettelegging for dypvannskai (figur 3). Dette 
+tilleggsarealet ligger sør for allerede etablerte dypvannskai. Området som er avsatt til 
+reguleringsformål næringsbebyggelse, tillater etablering av bebyggelse for industri-, håndverks- og 
+lagervirksomhet, samt kontor. Det legges vekt på at virksomheten har behov for sjø- eller 
+havnetilknytning. Bebyggelsen på næringsarealet skal ikke overstige tre etasjer eller 12 meter 
+mønehøyde over gjennomsnittlig planert terreng. 
+ 
+Figur 3. Industriområdet Brukstomta i Bindal kommune, ny reguleringsplan fra 2019. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+8 
+ 
+4. Opplysninger om anlegget og driftskonseptet. 
+Terråk industripark skal etablere et landbasert oppdrettsanlegg tilpasset en årlig produksjon på 10 
+millioner postsmolt (gjennomsnittsvekt 400 gram), som er tenkt å supplere lokale oppdrettere. 
+Anlegget bygges med tradisjonell RAS-teknologi, som bidrar til høy produksjon pr volum, lavt 
+vannforbruk og kontroll på vannkvalitet, vanntemperatur og energiforbruk. Anlegget skal bygges i 
+henhold til gjeldende lover og forskrifter. Sentrale forskrifter er Akvakulturforskriften, og Forskrift om 
+krav til teknisk standard for landbaserte akvakulturanlegg for fisk (NS9416). Prinsippskisse av anlegget 
+på Brukstomta er vist i figur 4.  
+Anlegget bygges med flere separate produksjonsavdelinger for å sikre god biosikkerhet. Hver avdeling 
+bygges med eget vannrenseanlegg og nødoksygeneringsystem, som gjør at avdelingene kan drives 
+uavhengig av hverandre. 
+Anlegget designes også med fokus på smitteforebygging og hver avdeling vil defineres som en 
+smittemessig enhet, med egne sluser, adgangsbegrensning samt vaskestasjoner. 
+Anlegget vil også designes med komponenter for desinfeksjon av produksjonsvann, både på inntak av 
+nytt vann (spedevann) og i selve renseanlegget avdelingsvis.  
+Anlegget vil ha eget renseanlegg for avløpsvann, basert på fjerning av partikler og desinfeksjon med 
+UV filter. 
+ 
+Figur 4. Skisse over planlagt anlegg på Brukstomta. På bildet vises avdelingsvis inndeling, med 
+klekkeri, startfôring, parr, smolt og to postsmolt avdelinger. I tillegg oksygenanlegg, 
+slambehandling, fôrlager og verksted. 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+9 
+ 
+4.1 RAS-teknologi 
+RAS-anlegget vil være designet ut fra beste praksis prinsipper og med fokus på å redusere risiko både 
+i design, konstruksjon- og produksjonsfasen. Selskapet har ikke valgt prosessleverandør eller 
+hovedentreprenør pr i dag. Viktige forutsetninger for et sikkert produksjonsanlegg er definert som 
+blant annet; 
+• 
+God vannkvalitet 
+• 
+Tilstrekkelig tilgjengelig vannvolum 
+• 
+Sikre oppdrettsanlegg med redundans 
+• 
+Produksjonsplan som tar hensyn til fiskens biologiske behov og begrensninger 
+• 
+Fiskelogistikk som ivaretar skånsom og sikker transport og behandling av fisk under relevante 
+operasjoner 
+• 
+Riktig utforming av kar 
+• 
+Effektiv partikkeloppsamling fra produksjonsvannet 
+• 
+Tilstrekkelig sensorikk som gir operatørene godt innsyn i produksjonsprosessen 
+Selskapet legger vekt på å implementere moderne teknologi som supplement til den konvensjonelle 
+RAS teknologien. Viktige prosesser som er under videreutvikling er; 
+• 
+Økt effektivitet i partikkelfjerning 
+• 
+Bedre kontroll på karsirkulasjon og strømningsbilde 
+• 
+Bedre overvåkning av vannkvalitet gjennom trendmålinger på karnivå 
+• 
+Bruk av kunstig intelligens for å predikere produksjonsprosessen og gi mer stabil produksjon 
+• 
+Mikrobiell overvåkning  
+• 
+Fiskelogistikk (uttak av fisk fra kar og pumping/sortering/vaksinering) som er skånsom og som 
+ivaretar god fiskevelferd 
+De viktigste kriteriene ved teknologivalg og prosessleverandørvalg vil være sammensatt av faktorer 
+som; evne til å videreutvikle teknologi, implementering av nye tekniske løsninger, erfaringer fra 
+tidligere bygde anlegg, kapasitet, pris og brukermedvirkning (samspillsmodell).  
+Utgangspunktet for teknologivalg vil likevel være tuftet på den konservative teknologimiksen som 
+utgjør dagens norm. Den tradisjonelle rekkefølgen på komponentene i et RAS-anlegg er vist i figur 5, 
+med trommelfilter, biofilter, CO2-lufter som hovedrensetrinn for produksjonsvannet. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+10 
+ 
+ 
+Figur 5. Generell oppbygging av RAS-anlegg (bilde: Morefish). Selve rensetrinnet starter med 
+primærrensing i produksjonskarene, hvor en konsentrert delstrøm tas ut gjennom bunnrist, og føres 
+over i trommelfilter. Restererende vannutskiftning skjer gjennom karvegg (dual drain teknologi) og 
+overføres til biofilter. En delstrøm kjøres gjennom proteinskimmer for å ta ut større fraksjon av 
+mikropartikler. Trommelfilter filtrerer ut partikler over 60 µm, og konsentrerer disse opp til 1-5 % 
+tørrstoff/volum vann. Dette råslammet avvannes videre med beltefilter og polymer, før det 
+hygieniseres med kalk og opplagres. I biofilteret brytes giftige nitrogenforbindelser ned til lite giftig 
+nitrat. Etter biofilter føres vannet inn i CO2-lufter for fjerning av CO2, deretter reoksygeners vannet 
+før det tilbakeføres til karene.  
+ 
+4.2 Prosessfase fra konsesjon til ferdigstillelse av anlegg. 
+Ved godkjenning av konsesjon, etableres et samspillsprosjekt med relevante fag for byggeprosjektet. 
+Prosjektorganisering etableres som en samspillmodell, bestående av; 
+• 
+Byggherre 
+• 
+Ansvarlig prosjekterende 
+• 
+Prosessleverandør 
+• 
+Underleverandører 
+Samspillsmodeller er viktig for å utvikle sikre og funksjonelle prosessanlegg, som ivaretar fiskevelferd 
+og støtter produksjonsmålene. Basis i prosjektutviklingen er etablering av en produksjonsplan som er 
+gjennomførbar innenfor tilgjengelig areal/karvolum og vannvolum. Sentralt i dette er utarbeidelse av 
+biologiske og tekniske spesifikasjoner som ivaretar de spesifikke kravene for slike produksjonsanlegg. 
+Ansvarlig prosjekterende har det fulle ansvar for nødvendig dimensjonering og beregninger som er 
+grunnlaget for et komplett og funksjonelt anlegg. 
+I de ulike fasene av samspillmodellen skal konseptet utvikles med basis i tekniske og biologiske 
+spesifikasjoner (figur 6). Detaljprosjekteringen skal hensynta sikker produksjon og påse at anlegget 
+bygges innenfor gjeldende krav. Følgende prosess etableres; 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+11 
+ 
+• 
+Business modell 
+• 
+Konseptutvikling inklusiv produksjonsplan 
+• 
+Tekniske og biologiske spesifikasjoner 
+• 
+Designbasis 
+• 
+Detaljprosjektering 
+• 
+Byggefase 
+• 
+Funksjonstest 
+• 
+Overtagelse 
+ 
+ 
+Figur 6. Samspillsmodell for utvikling av sikre oppdrettsanlegg.  
+4.3 Utarbeidelse av teknisk og biologisk spesifikasjon 
+I forkant av designfase utvikles en teknisk og biologisk spesifikasjon, som definerer hvilke krav som 
+stilles til det tekniske anlegget, og hvilke biologiske behov hos oppdrettsfisken som må ivaretas av 
+dette designet.  
+Teknisk spesifikasjon skal utarbeides og baseres på beste praksis og i henhold til tekniske standarder, 
+blant annet NS9416. Viktige parametere er; 
+• 
+Behandling av inntaksvann 
+• 
+RAS og kar 
+• 
+Klekkeri med RAS  
+• 
+Alle prosesstekniske rør 
+• 
+Rør for fisketransport 
+• 
+Fôringsanlegg 
+• 
+Energianlegg 
+• 
+Ensilasjeanlegg 
+• 
+Lutanlegg 
+• 
+Oksygeneringsanlegg 
+• 
+Styringsystem 
+• 
+Rømmingssikring 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+12 
+ 
+Biologisk spesifikasjon utarbeides med bakgrunn i beste praksis, samt veiledende grenseverdier for 
+vannkvalitet (VKM, 2014 (3)), Driftsforskriften og Dyrevelferdsloven. 
+Viktige kvalitetsparametere er; 
+• 
+Tetthet i kar 
+• 
+Vannkvalitetsparametere/anbefalte grenseverdier 
+• 
+Fiskelogistikk 
+• 
+Dødfiskhåndtering 
+• 
+Fiskehelse 
+• 
+Overvåkingssystem 
+• 
+Finish på tekniske anlegg for å minimere sjansen for sårskader på fisk 
+• 
+Utfôringskapasitet og distribusjon 
+ 
+5. Byggteknisk 
+5.1 Produksjonsbygg 
+Produksjonsbygget 
+konstrueres 
+etter 
+gjeldende 
+nasjonale 
+standarder 
+for 
+industrien. 
+Produksjonsbygget vil bestå av standardisert CE godkjent isolert stålbygg med gjennomgående 
+bæresystem i stål. Veggkonstruksjonen vil bestå av lakkerte sandwich-elementer med isolasjon (figur 
+7). Typisk stålkonstruksjon vil være galvaniserte profiler som gir sterke konstruksjoner og god 
+beskyttelse mot korrosjon. Takhøyde vil være 12 meter og bygget vil være utstyrt med porter med 
+tilstrekkelig bredde for å kunne transportere utstyr inn og ut. 
+ 
+ 
+Figur 7. Sandwich-element i stålhall for settefiskproduksjon (kilde: Llentab). 
+ 
+Karkonstruksjoner er per i dag ikke valgt, men alternativene vil være betong, stål eller GRP (glassfiber 
+reinforced plastic). Ved bruk av betongkar kan kar-sidene brukes som del av byggkonstruksjonen. 
+ 
+Bygget fundamenteres med betongdragere på fast fjell eller fylt masse. Selve byggkonstruksjonen 
+hviler på ringmur. Annen prosessteknologi som biofilter, sumper og lignende bygges i betong. I 
+konstruksjoner som har direkte vannkontakt, skal betong kles med en coating bestående av enten 
+polyetylen eller polyuran. Karbunn støpes i betong og smøres med akryl som coating. 
+ 
+Produksjonsbyggene skal ventileres ved hjelp av undertrykksventilasjon. Areal over CO2-luftere vil ha 
+arrangement med større utluftningskapasitet. Anlegget vil ha klimastyring med temperaturkontroll for 
+holde lufttemperatur stabil og unngå fuktmetning i innelufta. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+13 
+ 
+ 
+Fôrlager, ensilasjeavdeling, pH-justering, tekniske rom og oksygentank/generator plasseres med 
+nødvendig definerte sikkerhetssoner og spesielle krav. Godkjent brannplan skal foreligge etter 
+gjeldende krav. 
+ 
+Bygget skal designes etter gode prinsipper som gir god biosikkerhet og lav risiko for smitte internt i 
+anlegget. Dette innebærer aktiv sonering, sluser for hver avdeling, lett tilgjengelig vaskesystemer for 
+rengjøring og desinfeksjon, god planlegging av persontrafikk og adgangskontroll. Kontorbygg og 
+laboratorium kan plasseres på himling/2 etasje.  
+  
+ 
+5.2 El-forsyning og sikkerhet 
+Brukstomta har i dag en installert trafostasjon trafokapasitet tilknyttet høyspent ledningsnett på 24 
+kV, med mulig effektuttak på 3,5 MW. Erfaringsvis vil et fullt utbygd settefiskanlegg tilsvarende det 
+som planlegges på Brukstomta, i perioder ha et maksforbruk på inntil 2,5 MW. Anlegget skal ha 
+tilstrekkelig reservekapasitet for å sikre kontinuerlig strømforsyning under strømavbrudd, med 
+installerte dieselgeneratorer. 
+ 
+6. Produksjonsanlegg. 
+Produksjonsanlegget skal inneha alle tekniske funksjoner for sikker drift for hele produksjonssyklusen 
+av postsmolt. Anlegget deles opp i produksjonsavdelinger og støttefunksjoner.  
+Produksjonsavdelingene består av; 
+• 
+Klekkeri 
+• 
+Startfôring 
+• 
+Parr 
+• 
+Smolt 
+• 
+Postsmolt 
+Tekniske støttefunksjoner vil være; 
+• 
+Renseanlegg inntaksvann 
+• 
+Oksygenering (tank og/eller oksygengenerator) 
+• 
+Dødfiskhåndtering/ensilasjeanlegg 
+• 
+Sortering og vaksinering 
+• 
+pH-reguleringssystem 
+• 
+Verksted og lager 
+• 
+Energisentral 
+• 
+Ventilasjonsanlegg 
+Andre støttefunksjoner vil være; 
+• 
+Kontor 
+• 
+WC, garderobeanlegg 
+• 
+Kantine 
+• 
+Laboratorium 
+• 
+Lager 
+• 
+Møterom 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+14 
+ 
+6.1 Produksjonsavdelinger 
+Anlegget planlegges etablert med fem ulike avdelinger; klekkeri, startfôring, parr, smolt og postsmolt 
+1+2 (figur 8). Produksjonskapasiteten i anlegget vil være 4000 tonn og anlegget kan produsere 
+postsmolt på opptil 400 gram (tabell 1), eventuelt færre fisk og høyere snittvekt. 
+Tabell 1. Oversikt over de ulike avdelingene, med definerte fysiske kapasiteter. 
+ 
+Alle avdelinger med unntak av klekkeri vil bli drevet med RAS-teknologi. Klekkeriavdelingen vil drives 
+med gjennomstrømsteknologi, eventuelt med en forbehandling av spedevannet (sandfilter eller 
+membranfiltrering og remineralisering).  
+ 
+Figur 8. Prinsippskisse av produksjonsanlegget, med klekkeri, startfôring, parravdeling, 
+smoltavdeling og to postsmoltavdelinger.  
+ 
+ 
+ 
+fiskestr
+antall kar diameter
+dybde
+H/D ratio
+volum kar
+max tetthet bm / kar
+biomasse totalt
+maks antall fisk
+(gram)
+(stk)
+(Øm)
+(m)
+(h/d)
+(m3)
+(kg/m3)
+(kg)
+(kg)
+(stk)
+Klekkeri
+0,2
+10
+Startfôring
+6
+8
+6
+1,8
+3,33
+51
+                  
+35
+1 780
+      
+14 243
+                                
+2 373 840
+           
+Parr
+38
+4
+12
+4
+3,00
+452
+               
+50
+22 608
+    
+90 432
+                                
+2 379 789
+           
+Presmolt
+112
+4
+16
+5,6
+2,86
+1 125
+            
+60
+67 523
+    
+270 090
+                             
+2 411 520
+           
+Postsmolt
+400
+8
+20
+7
+2,86
+2 198
+            
+60
+131 880
+ 
+1 055 040
+                          
+2 637 600
+           
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+15 
+6.2 Resirkuleringsgrad 
+Anlegget vil benytte ferskvann fra Terråkelva, gjennom konsesjonen for Hellifossen Kraftverk AS. 
+Gjennom avtale med Clemens Kraft, er Terråk Industripark sikret et minimumsuttak på 5,4 m 3 /min. I 
+resirkuleringsanlegget vil vannforsyningen bestå av > 99 % resirkulert vann og 1% nytt spedevann. 
+Dette vil tilsvare et vannforbruk på rundt 350-500 liter pr kg fôr pr dag, som gir en moderat 
+resirkuleringsgrad (figur 9). 
+Figur 9. Resirkuleringsgrad for anlegget, oppgitt i liter vann forbrukt pr kg fôr pr dag. Kilde: Morefish. 
+Produksjonen vil holdes på maksimalt 13°C, ideelt i området mellom 11 og 13°C (tabell 2). Klekkeriet 
+vil ha maksimal temperatur på 8°C. Saliniteten vil holdes på 0 til 3 ppt i de minste avdelingene, med 
+mulighet for å tilsette noe salt for å motvirke soppdannelse og/eller forhøyede nitrittverdier. For 
+postsmoltavdelingen tilsettes salt tilsvarende en salinitet på 15ppt. 
+Tabell 2. Temperatur, salinitet, maksimal biomasse, utfôring og vannforbruk i de ulike avdelingene. 
+Behov for nytt spedevann er beregnet til å være fra 0,8 - 5,4m 3 /min. Det skal ikke benyttes sjøvann på 
+dette produksjonstrinnet. Inntaksvannet fra Terråkelva skal forbehandles for å sikre mest mulig stabil 
+vannkvalitet og best mulig biosikkerhet. Alternativ forbehandling er membranfiltrering eller ozonering 
+i holdetank. Spedevann vil tilsettes kalkslurry eller lut for å regulere og stabilisere pH. I tillegg vil 
+produksjonsvannet tilsettes ozon på et trinn i selve vannrensingsloopen. 
+Temperatur Salinitet 
+Startvekt Sluttvekt 
+Tetthet 
+Biomasse 
+Max utfôring max biofilter kapasitet Max vannforbruk 
+(max C) 
+(ppt) 
+(gram) 
+(gram) 
+(kg/m3) 
+(kg) 
+% av bm/dag 
+(kg/dag) 
+350 l/kg/dag (m3) 
+Klekkeri 
+8 
+0 - 3 
+Startfôring 
+12 
+0 - 3 
+0,2 
+6 
+35 
+14 243 
+1,4 % 
+199 
+70 
+Parr 
+12 
+0 - 3 
+6 
+38 
+50 
+90 432 
+1,3 % 
+1 176 
+411 
+Smolt 
+13 
+0 - 3 
+38 
+112 
+60 
+270 090 
+1,3 % 
+3 511 
+1 229 
+Postsmolt 
+13 
+0 - 15 
+112 
+400 
+60 
+1 055 040 
+1,2 % 
+12 660 
+4 431 
+Sum 
+1 429 805 
+17 547 
+6 141 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+16 
+ 
+6.3 Klekkeri 
+Klekkeriet skal produsere rogngrupper på opptil 2 800 000 rognkorn pr innlegg. Klekkeriet designes 
+etter industrielle prinsipp, med fokus på biosikkerhet (hygiene, desinfisering mm.) og effektiv 
+overvåkning og røkting av rogn (figur 10). 
+Klekkeriet i seg selv er en ren sone og utemiljøet er uren sone. Klekkeriet anlegges slik at rognmottak 
+skjer i helt smittefrie soner, og selve rogna mottas gjennom sluser i veggen. All rogn desinfiseres før 
+den legges inn i klekkeriet og rogn, emballasje og annet utstyr behandles som smitterisiko inntil 
+desinfisering. 
+Klekkeriet vil bygges med standard klekkeskap fra Alvestad Marin, med en kapasitet på 360 000 
+rognkorn per skap. Totalt vil avdelingen inneholde 10 skap, fordelt over 30 m2. Avdelingen vil ha 
+hevebenker for å sikre godt arbeidsmiljø og liten belastning for røkterne som skal jobbe i klekkeriet. 
+ 
+ Figur 10. Alvestad CompHatch klekkeskap (bilde: Alvestad Marin). 
+ 
+ 
+ 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+17 
+ 
+6.4 Startfôringsavdeling. 
+Startfôringsavdelingen vil bestå av 8 kar à 6 m diameter (figur 11). Totalt volum i avdelingen vil være 
+407 m3. Startfôringskarene vil være 1,8 meter dype og er noe grunnere enn karene i de andre 
+avdelingene.  
+ 
+Figur 11. Startfôringsavdeling med 8 stk 6 m kar. 
+Denne karutformingen er viktig for å ha god kontroll på fiskegruppen, oppnå tilstrekkelig utfôring og 
+unngå for stor spredning i størrelse på fisken. 
+Utforming av fôringsanlegget er viktig for å oppnå god utfôring, og det skal benyttes fôrspredere som 
+rekker diagonalt over karene (figur 12).  
+Startfôringsavdelingen vil ikke ha gangveier over fiskekarene, slik at unødvendig bevegelse over karene 
+reduseres, og fisken får mer ro. Yngel fra klekkeriet flyttes over til startfôringskar ved hjelp av trau/kar 
+og fisken flyttes ut av startfôringsavdelingen til yngelavdeling ved hjelp av fiskepumpe. 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+18 
+ 
+ 
+Figur 12. Startfôringskar med fôrspreder. 
+I startfôringsavdelingen vil følgende tekniske komponenter være installert; 
+• 
+Oksygenkjegler 
+• 
+Trommelfilter (60 µm) 
+• 
+Proteinskimmer 
+• 
+UV 
+• 
+CO2-lufter 
+Spesifikke krav for startfôringsavdelingen som skal sikre god og effektiv produksjon; 
+• 
+Fôringssystemet skal være enkle matere manuelt fylt eller koblet til sentralfyllingssystemet. 
+• 
+Oksygeneringssystem for hvert kar 
+• 
+Nivåalarm på alle kar 
+• 
+Oppsettet vil ha gangvei mellom kar, og ikke gangbro over karene. Minimumsavstand på 1 
+meter mellom kar er nødvendig for å sikre plass til å utføre arbeid og flytte utstyr. 
+• 
+System for dødfiskhåndtering  
+• 
+Nødoksygensystem med diffusorslanger i hvert kar 
+• 
+Lys over tankene skal henge fra taket 
+• 
+Lyskontroll med dimmemulighet 
+• 
+Vaskestasjon med benk og vask 
+• 
+Sentral vaskestasjon for rengjøring av kar 
+• 
+Labstasjon for vannkvalitetsanalyse 
+• 
+Sluse å komme inn i avdelingen fra uren til ren sone  
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+19 
+ 
+6.5 Parr- og smoltavdeling 
+I parravdelingen vil fisken holdes fra 6 til ca 38 gram, før den sorteres og vaksineres over i 
+smoltavdelingen.  I smoltavdelingen vil fisken smoltifiseres ved 80-90 gram ved hjelp av tradisjonelt 
+lysstyringsregime eller ved bruk av smoltifiseringsfôr (saltfôr). Karstørrelser i parravdelingen vil være 
+Ø12m og i smoltavdelingen Ø16m (452 – 1125 m3) (figur 13). Disse avdelingene vil baseres på RAS-
+teknologi. I etterkant av smoltifiseringen økes saliniteten gradvis før den flyttes over i 
+postsmoltavdelingene.   
+ 
+Figur 13. Parr og smoltavdeling. 
+Totalt volum for parravdelingen vil være omtrent 1800 m3 og totalt volum for smoltavdelingen vil være 
+omtrent 4600 m3. I hver avdeling vil følgende komponenter være installert; 
+• 
+Oksygenkjegler 
+• 
+Trommelfilter (60 µm) 
+• 
+Proteinskimmer 
+• 
+UV 
+• 
+CO2-lufter 
+• 
+Sorteringsmaskin 
+• 
+Vaksineringsmaskin 
+Fisken vil bli sortert mellom hver avdeling, for å oppnå en lavere størrelsesvariasjon, samt destruere 
+fisk som har store avvik på størrelse og morfologi. Fisken trenges og pumpes over en sorteringsmasking 
+(figur 14) og fordeles over i nye kar i neste avdeling.  
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+20 
+ 
+ 
+Figur 14. Sorteringsmaskin for yngel. Kilde: Apollo AS 
+Sortering og vaksinering skjer i eget rom på messanin, hvor sorteringsutstyr skal være i rom med høyt 
+tak og en skråning ned til fiskekarene i avdelingene. Det samme gjelder vaksinasjonsutstyr.  
+Ved rundt 40 gram vaksineres fisken ved hjelp av en SkalaMaskon vaksineringsrobot (figur 15). Skala 
+Maskons fullautomatiske vaksineringsmaskin drives av en enkelt operatør, kan vaksinere og sortere 
+opp til 40 000 smolt i timen, og vil håndtere fisk i størrelsesområdet 30-170 gram. Maskinene kan 
+vaksinere singel-, dobbel-, trippel- og intramuskulære doser samtidig. 
+ 
+ 
+Figur 15. Vaksineringsrobot fra Skala Maskon. 
+ 
+Spesifikke krav for parr- og smoltavdelingen: 
+• 
+Fôringssystemet skal være matere som er koblet til sentralfyllingssystemet 
+• 
+Oksygeneringssystem ved hver tank 
+• 
+Nivåalarm på alle kar 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+21 
+ 
+• 
+Oppsettet vil ha gangvei mellom kar, samt gangbro over karene (smolt). Minimumsavstand 
+på 1 meter mellom kar er nødvendig for å sikre plass til å utføre arbeid og flytte utstyr. 
+• 
+System for dødfiskhåndtering  
+• 
+Nødoksygensystem med diffusorslanger i hvert kar 
+• 
+Lys over tankene, skal henge fra taket 
+• 
+Vaskestasjon med benk og vask 
+• 
+Sentral vaskestasjon for rengjøring av kar 
+• 
+Fisketransportsystem 
+• 
+Labstasjon for vannkvalitetsanalyse 
+• 
+Sluse å komme inn i avdelingen fra urent til ren sone  
+ 
+6.6. Postsmoltavdelinger 
+Anlegget vil ha to identiske postsmoltavdelinger, basert på RAS-teknologi. Hver avdeling vil bestå av 
+fire produksjonskar, med ett biofilter per avdeling. Avdelingene vil håndteres som separate 
+smittemessige enheter, med kontrollert tilgang, sluse og egne serviceavdelinger.  
+Følgende tekniske komponenter vil være installert i postsmoltavdelingene; 
+• 
+Oksygenkjegler 
+• 
+Trommelfilter (60 µm) 
+• 
+Proteinskimmer 
+• 
+UV 
+• 
+CO2-lufter 
+• 
+Sorteringsmaskin 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+22 
+ 
+ 
+Figur 16: Avdeling for smolt og postsmolt 1+2 
+Postsmoltavdelingen består av åtte fiskekar på 2200 m3, med et samlet volum på 17500 m3. 
+Kardiameteren vil være 20 m og dybde ca 7 m.  
+Avdelingene vil ha egen sorteringsmaskin som plasseres på en messanin. Sorteringssystemet skal 
+plasseres i moderat høyde for å sikre tyngdekraften når fisken overføres tilbake til tankene etter 
+sortering. Det kan forberedes for sortering før levering. 
+Avdelingen skal ha en sluse for å regulere trafikk fra uren til ren sone. Et felles laboratorium med 
+smoltavdelingen vil være tilknyttet produksjonsenhentene. Dette vil være et kombinert 
+veterinærlaboratorium og analyselaboratorium for vannkvalitet. 
+Fiskekarene og vannbehandlingen skal deles fysisk. Tilstrekkelig avstand mellom tanker (gangvei) skal 
+være 1 m. Det er nødvendig å designe for tilstrekkelig areal rundt tankene, for å sikre enkel tilgang og 
+plass til innløpsrør, regulering av ventiler og mer. 
+Dødfiskhåndteringssystem vil være manuelt med sidemonterte dødfiskfeller på karkant. Fisken flyttes 
+fra feller til vakuumsystem som frakter fisken ut av anlegget til ensileringsavdelingen. 
+Fôringssystemet skal bestå av automatisk fylte matere fra sentralfyllestasjon, med doble 
+fôrfordelingsrør for hvert kar. 
+Oksygenering skal gjøres tankvis, med ventiler og rør. Hver tank vil ha nødoksygenssystem som sjaltes 
+automatisk inn ved strømstans. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+23 
+ 
+Lys vil bli installert enten fra taket, eller som undervannslys for å oppnå god nok lysspredning inne i 
+karet. Lysene skal være digitalt styrt, enten lokale eller eksterne gjennom Dali-system 
+Avdelingene skal ha sin egen rengjøringsstasjon for produksjonsutstyr, med vask, oppvarmet vann, 
+høytrykksvasker, såpedispensere. Ventilasjonssystem skal instaleres for å lufte ut CO2 og stabilisere 
+luftfuktighet inne i produksjonshallene. 
+Fisketransportsystemet er basert på å senke vannstanden i tanken, åpne ventiler i tankbunnen 
+(fisketransportrør) og slippe fisken inn i fisketransportsumpen. Ventilene og pumpene skal senkes 
+under bakkenivå, og må være lett tilgjengelig. Hver fisketank vil ha en sikkerhetsstige installert på 
+tankvegg. 
+ 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+24 
+ 
+7. Vannkilde og vannbehandling i RAS. 
+ 
+7.1 Vanninntak 
+Ferskvann hentes fra vannsystemet Terråkelva, som inkluderer Kvernhusfossen, Stillelva, Hellifossen, 
+Lonan og øvrig nedslagsfelt i Terråkfjellet som blant annet består av Nervatnet, Mellavatnet, Sørvatnet 
+og Svartvatnet (figur 17,18). Terråk Industripark har mottatt en erklæring fra Hellifossen Kraft AS om 
+uttak av prosessvann fra Vassdragskonsesjonen for Hellifossen Kraftverk datert 18.12.2017, ref. NVE 
+201702741-15. Et uttak på 5,4m3/min fra konsesjonen til Hellifossen Kraftverk er godkjent muntlig av 
+NVE.  
+Nedslagsfeltet for vannsystemet er 54,2 km2 og godkjent minstevannføring er 480 (l/s) på sommer og 
+200 (l/s) for vinter. 
+ 
+Figur 17. Kart over vannsystem og nedslagsfelt. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+25 
+ 
+ 
+Figur 18. Vassdrag som tilfører ferskvann til Brukstomta. Totalt nedslagsfelt er 54,2 km2. 
+ 
+7.2 Vannkvalitet. 
+Fiskens generelle vannkvalitetsbehov skal ivaretas av anleggets renseteknologi, i form av biofilter, UV, 
+partikkelfilter og stabiliserende funksjoner.  
+Vannkvalitetsparametere er definert av Morefish i tabell 4 og summerer opp generelle anbefalinger 
+for vannkvalitetsparametere (VKM, 2014, Driftsforskriften). Med bakgrunn i operasjonelle erfaringer, 
+er grenseverdier for ulike vannparametere knyttet til ulike vekststadier, summert i tabell 5. 
+Disse grenseverdiene utgjør grunnlaget i teknisk og biologisk spesifikasjon, som definerer hvordan 
+anlegget skal utformes. 
+ 
+ 
+ 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+26 
+ 
+Tabell 4. Generelle vannkvalitetsparametere (max/min) anbefalt for produksjon av laks (Morefish, 
+2021). 
+ 
+Spesifikke vannkvalitetsparametere vil være avhengig av fiskens utviklingsstadie og vil variere noe 
+gjennom produksjonen. Spesifikke grenseverdier per produksjonsfase er vist i tabell 5. 
+Vannparameterene er noenlunde likelydene, men det vil være fokus på å holde lave verdier, spesielt 
+CO2 for de minste produksjonsavdelingene.  
+Tabell 5. Spesifikke grenseverdier for de ulike vannparametere i avdelingene (Morefish, 2022). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vannparameter
+Formel
+Enhet
+Anbefalt område
+Temperatur
+C
+8 - 13,5
+Oksygen
+O2
+%
+85 - 100
+Nitrogen
+N2
+% metning
+80 - 100
+Karbondioksid
+CO2
+mg/l
+5 - 15
+Ammonium
+NH4+
+mg/l
+0 - 2,5 
+Ammoniakk
+NH3+
+mg/l
+0,01
+Nitritt
+NO2-
+mg/l
+0 - 0,5
+Nitrat
+NO3-
+mg/l
+40 - 200
+pH
+6,5 - 7,5
+Alkalinitet
+mmol/l
+1 - 5
+Alkalinitet
+CaCO3
+mg/l
+80 - 150
+Fosfat
+PO4 3-
+mg/l
+1 - 20
+Partikler 
+SS
+mg/l
+10 - 25
+KOF
+KOF
+mg/l
+25 - 100
+BOF5
+BOF5
+mg/l
+5 - 20
+Kalsium
+Ca2+
+mg/l
+5 - 50
+Hydrogensulfid
+H2S
+ug/l
+0 - 2
+Aluminium
+Al
+ug/l
+<5
+Aluminium
+Al
+ug/g gjelle tv
+<15
+Jern
+Fe
+ug/l
+<50
+Total organisk karb
+TOC
+mg/l
+<1
+O2 i kar (max) O2 i kar (min)
+CO2
+Nitrogen
+TAN
+Ammoniakk
+Nitritt
+Nitrat
+pH
+pH
+TSS
+% metning
+% metning
+mg CO2/l
+% metning
+mg/l
+mg NH3-N/l mg NO2-N /l mg NO3-N
+min
+max
+mg/l
+Klekkeri
+100
+80
+5
+100
+Startfôring
+100
+80
+10
+102
+2
+0,012
+0,1
+80
+7
+7,4
+5
+Parr
+100
+80
+12
+102
+2
+0,012
+0,1
+80
+7
+7,4
+5
+Smolt
+100
+80
+12
+102
+2
+0,012
+0,1
+80
+7
+7,4
+5
+Postsmolt
+100
+80
+12
+102
+2
+0,012
+0,1
+80
+7
+7,4
+5
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+27 
+ 
+ 
+ 
+Vannkvalitet i Hellifossen og Nervannet er målt ved ulike tidspunkt gjennom 2017-2018 og gjengitt i 
+tabell 6. Råvannet karakteriseres med moderate pH-verdier (6,2 til 6,7), lav alkalitet og moderat 
+organisk innhold. Disse verdiene gir grunnlag for hvordan forbehandling av inntaksvannet skal 
+gjennomføres og gir også informasjon om eventuelle tiltak for vannbehandling senere i 
+produksjonssystemet. 
+ 
+Tabell 6. Vannkvalitet i Hellifossen, målt under ulike perioder gjennom kalenderåret 2021. 
+ 
+Vannparameterne i råvannet er vurdert i forhold til anbefalte grenseverdier for produksjon av fisk og 
+gir kravspesifikasjon for generell behandling av inntaksvann til RAS anlegget (figur 19). 
+ 
+Figur 19. Vurdering av råvannskvalitet fra Terråk elva. 
+Basert på vannkvalitetsmålinger og generelle risikovurderinger, foreslås fire tiltak for vannrensing av 
+inntaksvann: 
+• 
+Justering av pH og alkalinitet gjennom bufring av råvann (kalkanlegg eller lutdosering) 
+• 
+Ozonering av inntaksvann for reduksjon av organisk materiale/farge (opsjon) 
+09.02.2021*
+20.04.2021**
+25.05.2021
+24.06.2021***
+pH
+6,29
+6,77
+6,7
+6,52
+Alkalitet
+mmol/l
+0,1
+0,1
+0,1
+0,1
+Turbiditet
+FTU
+0,2
+0,2
+0,2
+0,2
+Ledningsevne
+mS/m
+1,9
+6,2
+1,9
+2,0
+TOC
+mg C/l
+3,5
+3,4
+1,3
+1,4
+Kalsium
+mg Ca/l
+0,5
+1,0
+0,4
+0,4
+Magnesium
+mg Mg/l
+0,3
+1,1
+0,3
+0,3
+Jern
+mg Fe/l
+0,0
+0,1
+0,0
+0,0
+kobber 
+ug Cu/l
+0,5
+0,5
+0,5
+0,5
+Aluminium
+ug Al/l
+75
+100
+48
+49
+Aluminium ikke labilt ug Al/l
+74
+89
+45
+40
+Aluminium kollodialt ug Al/l
+5,0
+11,0
+5,0
+5,0
+Aluminium labilt
+ug Al/l
+9,1
+5,0
+5,0
+5,0
+Aluminium reaktivt
+ug Al/l
+83
+89
+44
+45
+*flomelv
+**smeltevann
+***middels vannføring
+pH
+Tiltak:
+6
+6,3
+6,6
+7
+7,3
+7,6
+7,9
+8,2
+8,5
+Bufring av spedevann
+Alkalinitet (mmol/l)
+Tiltak:
+Tilsetting av kalk eller lut 
+0,1
+0,3
+0,5
+0,7
+0,9
+1,1
+1,3
+1,5
+1,7
+Turbiditet (FTU)
+Tiltak:
+5
+2,5
+1
+0,5
+0,1
+0,01
+1,3
+1,5
+1,7
+Total organisk karbon (mg/l)
+Tiltak:
+Mekanisk filter, ozonering
+0
+1
+2
+4
+8
+16
+32
+64
+av inntaksvann
+Aluminium labilt (ug/l)
+Tiltak:
+Tilsett silikat, pH regulering
+0
+2
+4
+6
+8
+10
+12
+14
+16
+av inntaksvann
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+28 
+ 
+• 
+Partikkelfiltrering (trommelfilter eller trykkfilter, 60 µm) 
+• 
+UV desinfeksjon (minimum 120 mj/cm2) 
+ 
+7.3 Vannavløp 
+Avløpsledning føres ned og lagres inn på omtrent 90 meters dyp, i vestlig retning. Avløpsvannet 
+behandles i forkant av utslipp med mekanisk fjerning av partikulært materiale ved hjelp av 
+trommelfilter med 60 µm lysåpning på filterduk.  
+Innlagring av avløpsvann på dette dypet og i denne strømretningen, medfører et moderat 
+spredningsområde og en lav risiko for vannkontakt med andre oppdrettsanlegg. Åkerblå har 
+gjennomført en modellering av utslippspunkt og spredningsområde (vedlegg 8). 
+I selve produksjonen vil det kun benyttes ferskvann og tettheten vil være relativ lav. Dette innebærer 
+at avløpspunktet må legges noe dypere for å sikre god innblanding i vannmassene (figur 20). 
+ 
+Figur 20. Illustrasjon av ferskvannsutslipp til sjøvann. Venstre: ingen vertikal lagdeling i sjøen 
+(konstant egenvekt) og utslippet når til overflaten. Høyre: vertikal lagdeling (egenvekten øker med 
+dypet) og innlagringen av utslippsvannet skjer dypere i vannsøylen. 
+ 
+Avløpspunktet er også trukket utover i vestlig retning for å unngå nærkontakt (+5 km) med andre 
+oppdrettsanlegg (figur 21). Plassering og grunnlag for avløpsledning er diskutert nærmere i kapittel 13. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+29 
+ 
+ 
+Figur 21. Plassering av avløpsrør med minimum avstand på 5 km fra nærmeste oppdrettslokaliteter 
+(her 10862 Båsen og 10858 Mulingen, tilhørende Sinkaberg Hansen). 
+ 
+ 
+7.4 Generell vannbehandling. 
+Terråk Industripark AS planlegger en postsmoltproduksjon på 10 millioner fisk, med 
+gjennomsnittsstørrelse ved levering på 400 gram, fordelt på fire innlegg årlig. Anlegget vil benytte 
+ferskvann i klekkeri og yngelfase, brakkvann (15 ppt) i smoltfase og brakkvann i stor postsmoltfase (120 
+- 400 gram). 
+Med unntak av klekkeriavdelingen, vil alle produksjonsavdelinger være basert på RAS-teknologi med 
+99% gjenbruksgrad. 
+Internt i anlegget vil vannbehandlingstrinnene være følgende; 
+• 
+Primærrensing i kar med partikkeloppsamling 
+• 
+Mekanisk filtrering med trommelfilter (<60 µm) 
+• 
+Biofiltrering (nedbryting av ammonium) med MBBR eller fixed bed biofilter 
+• 
+UV desinfeksjon 
+• 
+Proteinskimmer (for mikropartikler) 
+• 
+pH justering med buffer 
+• 
+Tilsetting av ozon 
+Avløpsvann fra anlegget vil filtreres mekanisk med 60 µm trommelfilter og rejektvannet fra 
+slamavskilling vil desinfiseres før det innlagres i resipienten på omtrent 90 meters dybde. Behandling 
+av avløpsvann er beskrevet i kapittel 12. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+30 
+ 
+7.5. Justering av vannkvalitet. 
+Noen vannkvalitetsparametere vil være viktigere å overvåke og styre enn andre. Langtidseksponering 
+for høye CO2-nivå kan gi redusert tilvekst og økt forekomst av nefrokalsinose/nyreforkalking hos fisken. 
+Akkumulering av H2S i systemet kan gi akutt forgiftning under gitte forhold, og er som oftest knyttet til 
+akkumulering av organisk materiale, oksygenfattige områder og slamdannelser.  
+Ammonium og nitritt er giftig i høye konsentrasjoner over lengre perioder og må kontrolleres daglig. 
+Nitrogenovermetning er et mer omfattende problem i landbaserte oppdrettsanlegg enn man 
+tradisjonelt er observant på, og det er i tillegg utfordrende å måle riktige verdier.  
+Oksygen er livsviktig gass for fisken og det kan være utfordringer å holde tilstrekkelige høye nivå i hele 
+karet uten å over-oksygenere for mye ved karinnløp. Det er også en teknisk og designmessig utfordring 
+å unngå dødsoner i anlegget, som gir slamansamling og oksygenfattige forhold. Bruk av ozon i hele 
+produksjonssyklusen kan gi sikkerhet mot uønskede hendelser. 
+Viktige vannkvalitetsparametere;  
+• 
+CO2 
+• 
+H2S 
+• 
+Ammonium, nitritt og nitrat 
+• 
+Partikkelmengde (total suspended solids) 
+• 
+Nitrogenovermetning 
+• 
+Oksygen 
+• 
+pH 
+En av de mer sentrale parameterne som er viktig for å sikre at vannrenseprosessen går optimalt, er pH 
+nivå i systemene. pH kontroll er viktig fordi en del vannkjemiske prosesser er mer stabile under pH 
+område mellom 7 og 7,5. Dette er i tillegg samme pH som fisken selv regulerer innvortes. Ved lavere 
+pH vil mer uorganisk karbon foreligge i gassform (CO2) i stedet for ufarlig karbonsyre (figur 22). 
+Tilsvarende vil sulfater foreligge mer i gassform (H2S) ved lav pH. 
+ 
+Figur 22. Fordeling av uorganisk karbon ved ulike pH nivå. Ved lav pH foreligger mer av det 
+uorganiske karbonet i gassform (CO2), som er giftig for fisken i store konsentrasjoner, og kan skape 
+problemer med nefrokalsinose i fisken ved langvarige eksponeringer for høye nivå. 
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+31 
+Justering av pH/alkalinitet i systemet gjøres ved tilsetting av lut (NaOH) eller kalk (CaCO3) til spedevann 
+eller avdelingsvis. Tilsettingen gjøres ved bruk av doseringspumper som er koblet opp mot doble pH 
+sensorer. 
+Tilsetting av alkalinitet er også viktig for å gi karbonkilde til bakteriene som bryter ned ammonium til 
+nitrat. Ved lavere alkalinitet vil nedbrytingseffektiviteten reduseres i biofiltrene. 
+7.6. Vannbehov. 
+Vannbehov fordelt utover kalenderåret er vist i figur 23. Maksimalt vannbehov vil være 5,4 m 3 /min 
+ved peak produksjon og forekommer siste uke før levering av postsmoltgruppene (figur 23). I 
+modelleringen er det ikke hensyntatt fleksibilitet i leveringstidspunktene. Dette innebærer at fisk kan 
+leveres tidligere eller senere enn angitt uke. Dette vil også påvirke maksimalbehovet for vann i noen 
+grad, i tillegg til at det er muligheter for å strupe vannbehovet i siste fase før levering. 
+Med tanke på vannutskiftning/mengde spedevann, benyttes vannkvalitetsparameterne i tabell 4 som 
+styringsparametere. Gjennomsnittlig vannforbruk pr kg fôr pr dag vil være 363 liter. 
+Figur 23. Maksimalt vannbehov fordelt på sesong. 
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+32 
+Gjennomsnittlig vannforbruk per mnd vil være 116 000 m 3 , med maksimalt vannforbruk i mars med 
+163 000 m 3 (figur 24). 
+Figur 24. Vannforbruk pr måned. 
+8. Produksjon. 
+Produksjonsmål for Terråk Industripark er 10 millioner postsmolt med snittvekt på 400 gram. 
+Produksjonsplanen er basert på fire innlegg av rogn årlig, og fire postsmoltgrupper som leveres ut til 
+sjøanlegg pr år. For hvert innlegg legges det inn overkapasitet på rogn, slik at det er anledning til å 
+sortere ut og destruere dårlig rogn og larver i tidlig fase. 
+8.1 Tilvekstmodellering 
+I modellering av produksjonsplan er Skrettings tilveksttabell benyttet, og justert for industrielle 
+tilvekstdata fra RAS anlegg (figur 25). Tilvekstmodellering viser at fisken når minst 400 gram i løpet av 
+42 uker fra rogninnlegg, ved en produksjonstemperatur på 13 °C. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+33 
+ 
+ 
+Figur 25. Tilveksthastighet ved 14 °C. 
+ 
+8.2 Produksjonsplan. 
+Selskapet legger opp til en produksjon på cirka 8 til 10 uker per avdeling, før fisken flyttes videre til 
+neste avdeling (figur 26 og vedlegg 11). Produksjonsplanen avdelingsvis åpner for minimum èn ukes 
+pause før ny fisk kommer inn i avdelingen (startfôring og yngel), samt fire ukers mellomrom i de to 
+største avdelingene (smolt, postsmolt). Det er med hensikt lagt inn en romslig pause mellom 
+fiskegruppene, slik at det er en buffer om det skulle oppstå forsinkelser eller problemer i produksjonen 
+(dårlig tilvekst, sykdom eller tekniske problemer).  
+Dimensjonerende tetthet er maks 60 kg/m3 for påvekstkapasiteten (postsmolt), mens yngel + smolt 
+har 50 kg/m3 og startfôring ca 36 kg/m3. Tetthet overvåkes jevnlig med snittvektmålinger. Maksimal 
+biomasse gir grunnlag for maks utfôring pr dag pr avdeling, som igjen gir dimensjoneringsgrunnlag for 
+biofilter og partikkelfjerningskapasitet. 
+For tetthet er det uansett de spesifikke vannkvalitetsparameterne som gjelder (retningslinjer). Dette 
+betyr at man kan ha lavere eller høyere tetthet enn angitt, basert på begrensende faktorer. 
+Innlegg av rogn planlegges i uke 10, 23, 36 og 49. Dette vil gi en ferdig produsert postsmolt i mars, juni, 
+september og desember. 
+ 
+ 
+ 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+34 
+ 
+ 
+Figur 26. Utsnitt av produksjonsplan. 
+uke Måned
+Antall
+Snittvekt
+Antall
+Biomasse
+Tetthet
+Hendelser Snittvekt
+Antall
+Biomasse
+Tetthet
+Hendelser
+Snittvekt
+Antall
+Biomasse Tetthet
+Hendelser
+Snittvekt
+Antall
+Biomasse
+SGR %
+Tetthet
+Hendelser
+4
+Jan
+2,4
+2497802
+5876
+14
+31,2
+2416585
+75492
+42
+170
+2380579
+404698
+23,0
+5
+Jan/Feb
+3,2
+2485313
+7957
+20
+34,0
+2411752
+82015
+45
+191
+2378198
+455023
+25,9
+6
+Feb
+4,4
+2472886
+10774
+26
+37,9
+2406928
+91192
+50
+vaksinering
+219
+2375820
+521082
+29,6
+7
+Feb
+5,9
+2460522
+14589
+36
+Sortering
+43
+2402114
+103291
+23
+251
+2373444
+596731
+33,9
+8
+Feb
+2600000
+7,0
+2460522
+17341
+10
+48
+2397310
+115071
+26
+287
+2371071
+680085
+38,7
+9
+Feb/Mars
+0,2
+2600000
+520
+1
+8,4
+2455601
+20572
+11
+55
+2397310
+131852
+29
+327
+2368700
+775082
+44,1
+10 Mars
+2800000
+0,3
+2587000
+704
+2
+10,0
+2450690
+24405
+13
+61
+2394913
+146090
+32
+373
+2366331
+883350
+50,2
+11 Mars
+0,4
+2574065
+953
+2
+12,5
+2445788
+30572
+17
+67
+2392518
+160299
+36
+401
+2363965
+947950
+53,9
+12 Mars
+0,5
+2561195
+1291
+3
+15,0
+2440897
+36613
+20
+73
+2390125
+175570
+39
+13 Mars
+0,7
+2548389
+1748
+4
+18,5
+2436015
+45083
+25
+82
+2387735
+195794
+43
+14 April
+0,9
+2535647
+2367
+6
+21,1
+2431143
+51309
+28
+93
+2385348
+221837
+49
+15 April
+1,3
+2522969
+3205
+8
+24,0
+2426281
+58317
+32
+112
+2382962
+266892
+59
+smoltifisering
+16 April
+1,7
+2510354
+4340
+11
+27,4
+2421428
+66356
+37
+138
+2380579
+328520
+18,7
+17 April
+2,4
+2497802
+5876
+14
+31,2
+2416585
+75492
+42
+170
+2380579
+404698
+23,0
+18 Mai
+3,2
+2485313
+7957
+20
+34,0
+2411752
+82015
+45
+191
+2378199
+455023
+25,9
+19 Mai
+4,4
+2472886
+10774
+26
+37,9
+2406929
+91192
+50
+vaksinering
+219
+2375821
+521082
+29,6
+20 Mai
+5,9
+2460522
+14589
+36
+Sortering
+43
+2402115
+103291
+23
+251
+2373445
+596731
+33,9
+21 Mai
+2600000
+7,0
+2460522
+17341
+10
+48
+2397311
+115071
+26
+287
+2371071
+680085
+38,7
+22 Mai
+0,2
+2600000
+520
+1
+8,4
+2455601
+20572
+11
+55
+2397311
+131852
+29
+327
+2368700
+775083
+44,1
+23 Juni
+2800000
+0,3
+2587000
+704
+2
+10,0
+2450690
+24405
+13
+61
+2394913
+146090
+32
+373
+2366332
+883350
+50,2
+levering
+24 Juni
+0,4
+2574065
+953
+2
+12,5
+2445788
+30572
+17
+67
+2392518
+160299
+36
+401
+2363965
+947950
+53,9
+levering
+25 Juni
+0,5
+2561195
+1291
+3
+15,0
+2440897
+36613
+20
+73
+2390126
+175570
+39
+26 JUni
+0,7
+2548389
+1748
+4
+18,5
+2436015
+45083
+25
+82
+2387736
+195794
+43
+27 Juli
+0,9
+2535647
+2367
+6
+21,1
+2431143
+51309
+28
+93
+2385348
+221837
+49
+28 Juli
+1,3
+2522969
+3205
+8
+24,0
+2426281
+58317
+32
+112
+2382963
+266892
+59
+smoltifisering
+29 Juli
+1,7
+2510354
+4340
+11
+27,4
+2421428
+66356
+37
+138
+2380580
+328520
+18,7
+30 Juli/Aug
+2,4
+2497802
+5876
+14
+31,2
+2416585
+75492
+42
+170
+2380580
+404699
+23,0
+31 Aug
+3,2
+2485313
+7957
+20
+34,0
+2411752
+82015
+45
+191
+2378199
+455023
+25,9
+32 Aug
+4,4
+2472886
+10774
+26
+37,9
+2406929
+91192
+50
+vaksinering
+219
+2375821
+521082
+29,6
+33 Aug
+5,9
+2460522
+14589
+36
+Sortering
+43
+2402115
+103291
+23
+251
+2373445
+596731
+33,9
+34 Aug
+2600000
+7
+2460522
+17341
+10
+48
+2397310
+115071
+26
+287
+2371072
+680085
+38,7
+35 Aug
+0,2
+2600000
+520
+1
+8
+2455601
+20572
+11
+55
+2397310
+131852
+29
+327
+2368700
+775083
+44,1
+36 Sept
+2800000
+0,3
+2587000
+704
+2
+10
+2450690
+24405
+13
+61
+2394913
+146090
+32
+373
+2366332
+883350
+50,2
+levering
+37 Sep
+0,4
+2574065
+953
+2
+13
+2445788
+30572
+17
+67
+2392518
+160299
+36
+401
+2363965
+947950
+53,9
+levering
+38 Sept
+0,5
+2561195
+1291
+3
+15
+2440897
+36613
+20
+73
+2390126
+175570
+39
+39 Sept
+0,7
+2548389
+1748
+4
+19
+2436015
+45083
+25
+82
+2387736
+195794
+43
+40 Okt
+0,9
+2535647
+2367
+6
+21
+2431143
+51309
+28
+93
+2385348
+221837
+49
+41 Okt
+1,3
+2522969
+3205
+8
+24
+2426281
+58317
+32
+112
+2382962
+266892
+59
+smoltifisering
+42 Okt
+1,7
+2510354
+4340
+11
+27
+2421428
+66356
+37
+138
+2380580
+328520
+18,7
+43 Okt
+2,4
+2497802
+5876
+14
+31
+2416585
+75492
+42
+170
+2380580
+404699
+23,0
+44 Okt
+3,2
+2485313
+7957
+20
+34
+2411752
+82015
+45
+191
+2378199
+455023
+25,9
+45 Nov
+4,4
+2472886
+10774
+26
+38
+2406929
+91192
+50
+vaksinering
+219
+2375821
+521082
+29,6
+46 Nov
+5,9
+2460522
+14589
+36
+Sortering
+43
+2402115
+103291
+23
+251
+2373445
+596731
+33,9
+47 Nov
+2600000
+7,0
+2460522
+17341
+10
+48
+2397310
+115071
+26
+287
+2371071
+680085
+38,7
+48 Nov
+0,2
+2600000
+520
+1
+8,4
+2455601
+20572
+11
+55
+2397310
+131852
+29
+327
+2368700
+775083
+44,1
+49 Des
+2800000
+0,3
+2587000
+704
+2
+10,0
+2450690
+24405
+13
+61
+2394913
+146090
+32
+373
+2366332
+883350
+50,2
+levering
+50 Des
+0,4
+2574065
+953
+2
+12,5
+2445788
+30572
+17
+67
+2392518
+160299
+36
+401
+2363965
+947950
+53,9
+levering
+Klekkeri
+Startfôring
+Parr
+Postsmolt
+Smolt
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+35 
+Stående biomasse vil være maksimalt 1 150 tonn i anlegget (figur 27). Ved levering av 
+postsmoltgrupper vil biomassen raskt falle ned til 200 tonn. 
+Figur 27. Stående biomasse i anlegget gjennom en produksjonsperiode. 
+8.3 Fôr/utfôring 
+Produksjon i RAS anlegg krever at det er god kontroll på utfôring. Dette skal oppnås ved å velge et 
+fôringssystem som har muligheter for god dose-innstilling og har tilstrekkelig kapasitet for tilførsel og 
+spredning av fôr i kar. Overfôring kan medføre overbelastning av partikulært materiale, som igjen 
+påvirker vannkvaliteten negativt og kan øke risikoen for slamansamlinger og H2S dannelse i systemet. 
+RAS produksjon krever et fôr som har høy fordøyelighet og god fysisk kvalitet. De fleste fôrleverandører 
+leverer nå spesialfôr for RAS anlegg. Høy fordøyelighet fører til lavere bidrag av ufordøyd fôr til RAS 
+systemet, og lavere grad av partikkelbelastning i vannet. God fysisk kvalitet og i tillegg kompakt faeces 
+fra fisken bidrar til at større partikler mer effektivt fanges i trommelfilteret. Estimert fôrfaktor for 
+postsmolt i RAS ligger fra 0,7 til 0,9 (tabell 7). 
+Tabell 7. Partikkelstørrelse og fôrfaktor for de ulike fiskestørrelsene. 
+Systemer for visuell kontroll av fôrspill fra karene skal være obligatorisk, slik at det er enkelt å få 
+oversikt over behov for justeringer i apetitt. I utgangspunktet bør ikke den prosentvise endringen i 
+utfôring fra dag til dag, være større enn 15 %. Større variasjoner vil kunne føre til at biofilteret blir 
+ustabilt, og klarer ikke å omdanne tilstrekkelig med ammonium til nitrat. Maksimal utfôring basert på 
+produksjonsplanen vil være 22 000 kg per dag under peak produksjon (figur 28). 
+Fiskevekt (g) 
+Pellet 
+FCR 
+0 
+2.0 mm 
+0,70 
+20 
+3.0 mm 
+0,70 
+50 
+4.5 mm 
+0,80 
+200 
+6.0 mm 
+0,80 
+600 
+9.0 mm 
+0,90 
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+36 
+Figur 28. Utfôring igjennom et produksjonsår. Maksimal utfôring pr dag vil være 22 000 kg. 
+8.4 Salg av biomasse 
+Målvekt for leveranser vil være mellom 250 og 400 gram. Målvekt vil være fleksibel så lenge 
+postsmolten er definert som sjøvannsklar. Dette gir også en sikkerhet med tanke på eventuelle 
+endringer (forsinkelser) i produksjonsplanen. Med en gjennomsnittsvekt på 400 gram, forventes en 
+total biomasseproduksjon på rundt 4000 tonn per år (figur 29). 
+Leveringstidspunkt av fiskegruppene tilpasses kundenes produksjonsplan. Med en produksjonstid på 
+31 uker fra startfôring, vil produksjonen kunne strømlinjeformes i henhold til utsettsplan. Normalt vil 
+kundene unngå å sette ut fisk i februar og mars grunnet lave temperaturer og risiko for sårutvikling. 
+Figur 29. Levert biomasse gjennom produksjonsåret 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+37 
+ 
+9.  Biosikkerhet 
+Biosikkerhet defineres som tiltak som tas i betraktning for å unngå eksponering av personer og dyr for 
+potensielt smittsomme stoffer eller biohazards. Biosikkerhet er kombinasjonen av kunnskap, teknologi 
+og utstyr som brukes for å danne en barriere mot potensielt uønskede eksponeringer eller ulykker. 
+Biosikkerhet skal definere forhold der smittsomme stoffer eller farlige eksponeringer kan kontrolleres 
+på en sikker måte, enten for å forhindre kontakt eller forhindre forekomst. 
+Biosikkerhet i akvakultur består av praksis og tiltak som minimerer risikoen for å innføre en smittsom 
+sykdom og spre den til fisken i anlegget, samt redusere risikoen for at syke dyr eller smittsomme stoffer 
+vil forlate et anlegg og spre seg til andre steder og til andre utsatte arter. Disse praksisene reduserer 
+også stress for dyrene, og gjør dem dermed mindre utsatt for sykdom. 
+Biosikkerhetskonseptet bør bestå av fire elementer; 
+• 
+Fiskeforvaltning – oppnå friske bestander og optimalisere helse og immunitet gjennom godt 
+husdyrhold 
+• 
+Patogenhåndtering – forebygge, redusere eller eliminere patogener 
+• 
+Personalledelse – utdanne og administrere ansatte og besøkende 
+• 
+Overvåking  
+9.1 Management 
+For å opprettholde god biosikkerhet, er en gjennomgående biosikkerhetsplan viktig. I denne 
+biosikkerhetsplanen bør følgende tema omhandles; 
+• 
+Systemer for sikring av fiskehelse (teknisk utstyr, sikre systemer, tilstrekkelig overvåking) 
+• 
+Driftsplan og prosedyrer 
+• 
+Prosedyrer for sluser og transport internt i anlegget 
+• 
+Fokus på flyt av genetisk materiale (rogn tatt inn på anlegget, forhindre rømming av genetisk 
+materiale) 
+• 
+Dokumentasjon av desinfeksjon av egg som forlater rognleverandør. Det må også være 
+dokumentasjon på negative pcr-tester for vanlige sykdommer fra moderfisken (med hensyn 
+til biosikkerhetsplan og kontrakt med avlsselskap).   
+• 
+Veterinær/fiskehelseplan 
+ 
+9.2 Hygiene, sykdom og smitte 
+§ 11 i Forskrift om drift av akvakulturanlegg sier bl.a. følgende om smittehygiene og smitteforebygging: 
+«Relevante smitteforebyggende og smittehygieniske tiltak skal gjennomføres for å hindre introduksjon, 
+utvikling og spredning av smittsomme sykdommer.»  
+Anlegget vil benytte ferskvann fra Terråkelva, som føres gjennom en rørledning tilknyttet Brukstomta. 
+For informasjon om desinfisering av inntaksvann for å hindre introduksjon av smittsomme sykdommer, 
+se kapittel 9.4.1.  
+For å hindre utvikling og spredning av smittsomme sykdommer skal selve anlegget bygges med flere 
+separate avdelinger for å sikre god biosikkerhet. Hver avdeling skal defineres som en smittemessig 
+enhet med egne sluser og adgangsbegrensning, for å minimere risikoen for smitte mellom avdelingene. 
+Dette for å hindre at personell, arbeidstøy, utstyr, gjenstander, brukt emballasje osv, ikke sprer smitte 
+(jfr. § 11).   
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+38 
+ 
+Administrasjon av personer for å hindre smitte og spredning av sykdommer inkluderer:  
+• 
+Definert plan for bevegelse av mennesker inne og utendørs på anlegget 
+• 
+Plan for mottak av besøkende og eksterne arbeidstakere  
+• 
+Godt system for sluser ved hver avdeling. Alt personell må bytte sko og benytte frakk hvis 
+man går inn i avdelinger.  
+• 
+Fullt bytte av arbeidsklær hvis man skal jobbe i det rene områder  
+• 
+Alt personell som entrèr rene områder må vaske og desinfisere hender før de kommer inn. 
+ 
+På grunn av at hver avdeling er utstyrt med eget vannrenseanlegg og nødoksygeneringsystem kan 
+avdelingene drives uavhengig av hverandre.  
+I tillegg til desinfisering av inntaksvannet, vil også anlegget designes med komponenter (UV og 
+ozonering) for desinfeksjon av produksjonsvann avdelingsvis. For å eliminere smitterisiko ved 
+transport av dødfisk internt i anlegget, vil dødfisk flyttes fra dødfiskfellen til et vannbasert 
+transportsystem for død fisk, via trakter plassert rett ved siden av dødfiskfellen på alle kar. I henhold 
+til § 11 nevnt over, skal også brakklegging og renhold av installasjoner og produksjonsenheter foretas 
+regelmessig.  
+I henhold til § 56 i Forskrift om drift av akvakulturanlegg, skal antall fisk per smittemessige adskilte 
+enhet ikke overstige 2 500 000 stk, og ulike generasjoner av fisk skal holdes i smittemessig adskilte 
+enheter.  
+ 
+9.3 Overvåking 
+Biosikkerhet bør overvåkes kontinuerlig for å samle inn informasjon som kan spores hvis uønskede 
+situasjoner oppstår. 
+Overvåking av hele anlegget vil bli gjort i Scada-systemer, med mulighet for å definere spesifikk 
+overvåking av relevante parametere; 
+• 
+UV-effektivitet (UVT) 
+• 
+Vannkvalitet inntaksvann 
+• 
+Fiskehelse 
+• 
+Tilgangskontroll 
+• 
+Predator og skadedyrkontroll 
+• 
+Teknisk overvåkning 
+• 
+Biofilter parametere 
+• 
+Innhold i avløpsvann 
+Alle biosikkerhetstiltak må gjøres for å kunne oppfylle sertifiseringskravene (ASC, GlobalGAP). 
+9.4 Desinfeksjon 
+Desinfeksjon i RAS anlegget omfatter flere separate operasjoner. Det skal utarbeides en spesifikk 
+plan for vask og desinfeksjon.  
+• 
+Desinfeksjon av inntaksvann 
+• 
+Desinfeksjon av produksjonsvann i RAS loop 
+• 
+Nedvask av kar etter endt produksjon 
+• 
+CIP vasking av avdelinger 
+• 
+Håndtering av biofilter 
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+39 
+9.4.1. Desinfeksjon av inntaksvann. 
+Formålet er å sikre at nytt inntaksvann ikke bringer med seg fiskespesifikke patogener inn i anlegget. 
+De mest kritiske patogenene er sjøvannstilpasset, og vil ikke kunne utgjøre noen trussel for 
+produksjonen. Kjente patogener i RAS-anlegg er Flavobacter og Yersinia ruckeri. Det er fra tidligere 
+kjent at nedre del av vassdraget har fisk som er infisert med parasitten Tetracapsuloides bryosalmonae, 
+som forårsaker sykdommen proliferativ nyresyke (PKD (1)). Terråk industripark vil hente vann fra øvre 
+del av vassdraget hvor det ikke er oppgang av anadrome arter. Parasitten benytter laks som 
+mellomvert og er avhengig av kontakt for å kunne spres i vassdraget. 
+For å sikre god desinfeksjon bør alt vann som tas inn i anlegget gjennomgå følgende rensetrinn: 
+• 
+Ozonering av inntaksvann eller membranfiltrering for reduksjon av organisk materiale/farge 
+(opsjon) og eventuelle patogener 
+• 
+Partikkelfiltrering (trommelfilter, 60 µm) 
+• 
+UV desinfeksjon (minimum 120 mj/cm 2 ) 
+Ozonering og trommelfilter fjerner partikler som ellers kunne redusert effekten av UV. UV-dosen er 
+satt til minimum 120 mj/cm 2 , altså godt over Mattilsynets dosekrav og industriell standard (figur 30). 
+Med god forfiltrering og riktig UV dose i forhold til mulige patogener vil smittestoffer hindres i å komme 
+inn i anlegget. 
+Figur 30: UV doser for inaktivering av kjente patogener for laksefisk (Morefish, 2022). 
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+40 
+9.4.2 Membranfiltrering av inntaksvann. 
+For å oppnå maksimal biosikkerhet i anlegget, kan et alternativ være membranfiltrering av 
+inntaksvannet fulgt av UV-behandling før vannet remineraliseres. Ved ultrafiltrering føres vannet 
+gjennom en membran med en porestørrelse på 0,01 – 1 µm. Dette er små nok porer til at kun ioner og 
+vann slipper gjennom membranen, og partikler, bakterier og virus fanges opp (se illustrasjon i figur 
+29). UV- behandling vil sørge for fullstendig desinfisering av vannet (se forklaring i kapittel 9.4.1 og 
+figur 31). 
+Terråk industripark avventer informasjon om erfaring rundt membranfiltrering fra nærliggende 
+settefiskanlegg før metode for filtrering av spedevann blir valgt. 
+Figur 31. Membranfiltreringsprinsipper. Med Ultrafiltrering oppnås tilstrekkelig barriere for å 
+redusere mulige patogener i inntaksvannet. Grafikk fra Fiizk.no. 
+10. Tekniske komponenter 
+I det følgende kapittelet beskrives de ulike komponentene i produksjonsanlegget, med fokus på 
+funksjonalitet, tilpassing og begrensninger. 
+10.1 Biofilter 
+Ammoniakk er det viktigste ekskresjonsproduktet fra nitrogenmetabolismen hos de fleste fisk og 
+dannes også ved bakteriell nedbryting av organisk materiale. I en oppdrettssituasjon vil det være en 
+kontinuerlig produksjon av ammoniakk. I vannet vil ammoniakk foreligge i to ulike former – enten som 
+NH3 (giftig for fisk) eller som NH4 + , og summen av disse kalles total ammonium nitrogen (TAN). I et RAS- 
+anlegg vil TAN akkumuleres på grunn av resirkuleringen av vannet. For å fjerne ammoniakk benyttes 
+biologisk filtrering (biofilter). I et biofilter brukes bakterier for å fjerne ammoniakk i en totrinnsprosess 
+som kalles nitrifikasjon: 
+1. NH4 + oksideres til NO2 - (nitritt) 
+2. NO2 - oksideres til NO3 - (nitrat) 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+41 
+ 
+Nitritt er skadelig for fisken, og det er derfor viktig at nitrifikasjonen er fullstendig (se informasjon om 
+drift av biofilter i kapittel 11). Nitrat er mindre giftig enn både ammoniakk og nitritt, og 
+vannutskiftningen er vanligvis tilstrekkelig for å holde nitratnivået tilstrekkelig lavt.  
+For at et biofilter skal være så effektivt som mulig, vil man skape gode vilkår for bakteriene som utfører 
+nitrifikasjonen. Bakteriene vokser i biofilm på såkalte biomedia. Dette er plastlegemer som er 
+konstruert på en måte som gir stor overflate i forhold til volum, og som gir rom for et stort område 
+med biofilm.  
+De to mest vanlige typene biofilter som brukes i RAS er såkalt moving bed bioreaktor/biofilter (MBBR) 
+eller fixed bed biofilter. Dette er begge «dykkede» biofiltre, hvor biomediene ligger under vann til 
+enhver tid. 
+10.1.1 Moving bed bioreaktor (MBBR) 
+I en MBBR pumpes utløpsvann fra fiskekarene inn i bunnen og strømmer oppover i biofilteret. Sammen 
+med vannet pumpes det også inn luft (figur 32). Store mengder biomedia med biofilm flyter fritt i 
+denne oppadgående strømmen av vann og luftbobler. På vei gjennom biofilteret blir ammoniakk 
+fjernet fra vannet ved hjelp av bakteriene på biomediene, og renset vann tas ut på toppen av 
+biofilteret.  
+ 
+Figur 32: Enkel skisse av generell oppbygging av moving bed bioreaktor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+42 
+ 
+10.1.2 Fixed bed biofilter 
+I et fixed bed biofilter kan man enten bruke biomedia som er presset tett sammen, eller ferdiglagede 
+bioblokker (figur 33). Utløpsvannet fra fiskekarene føres inn på toppen av biofilteret, og renner ned 
+over og gjennom biomediene/bioblokkene, og renset vann tas ut på bunnen av biofilteret.  
+ 
+Figur 33: Illustrasjonsbilde av fixed bed biofilter hentet fra Billund Aquaculture sine nettsider 
+(https://www.billundaquaculture.com/our-ras-system/#biological-filtration)  
+Anlegget vil designes fortrinnsvis med fixed bed filter for å redusere mengde partikulært materiale 
+i RAS-loopen. Med fixed bed vil man kunne oppnå lavere turbiditet og TOC grunnet høyere 
+sedimenteringsrate i filteret. 
+10.2 UV-filter 
+UV som desinfeksjonsmetode sikrer god beskyttelse mot potensielle patogener, samtidig som det gir 
+optimal CAPEX og OPEX sammenlignet med alternativene. UV-filter som skal benyttes skal være 3.part 
+godkjent av Mattilsynet/Veterinærinstituttet og skal gi 99,9% reduksjon av patogener. UV-filter 
+monteres i utgangspunktet kun på inntaksledning for råvann. En del anleggskonfigurasjoner benytter 
+også UV i selve RAS-loopen, og dette kan være en opsjon som anlegget forberedes for, eller følger 
+prosessleverandørens anbefalinger (figur 34). Selskapet vil følge de anbefalinger som gjøres i forhold 
+til valg av medium eller lavtrykkslamper. 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+43 
+ 
+ 
+Figur 34. UV-filter for montering på rørledning, fra UltraAqua. 
+For avløpsbehandling kan kanal-UV filter benyttes, for å håndtere større vannvolum og lavere UVT (UV-
+transmisjon) (figur 35) Dette filteret skal også være godkjent av Mattilsynet/Veterinærinstituttet og i 
+henhold til krav i utslippstillatelsen. 
+ 
+ 
+ 
+Figur 35. Kanal UV-filter for håndtering av større mengder avløpsvannstrømmer med litt høyere 
+turbiditet. 
+ 
+ 
+10.3 Oppdrettskar 
+Prinsippene for oppdrettskarene skal være design med hensyn til optimal fiskevelferd, 
+produksjonskostnader, plassutnyttelse, vannkvalitet, selvrensningsevne og vedlikehold. Et godt 
+fiskekar vil gi fisken nødvendig plass, belysning, fôrtilgang og vannhastighet som fisken har behov for 
+og som sikrer god fiskevelferd og tilvekst. 
+Produksjonskarene bygges med kombinert bunn og sideavløp, der 20-30 % av utskiftet vann tas 
+gjennom bunnavløpet. Dette vil være vann med høyest partikkelkonsentrasjon. Resten av 
+vannvolumet tas gjennom sideuttak, hvorav deler av dette behandles i proteinskimmere for fjerning 
+av mikropartikler (figur 36). 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+44 
+ 
+ 
+Figur 36. Prinsippskisse av fiskekar (Morefish 2022).  Fiskekar skal bygges med kombinert bunn og 
+sideavløp, med fordeling 30/70 i vannutskiftning. Videre er det viktig med god kapasitet i bunnsil for 
+effektiv partikkelfjerning. Alle kar skal ha nødoksygenering via oksygendiffusjonsslange fastmontert 
+i karbunn. 
+Fiskestørrelse og partikkelsedimentering bestemmer maksimal og minimal vannhastighet i karet, og 
+CO2-nivået er definerende for den hydrauliske retensjonstiden (antall minutter for å skifte ut hele 
+volumet i tanken med nytt vann).  
+Dimensjonerende retensjonstid for de ulike avdelingene er; 
+• 
+Startfôring:  
+60min 
+• 
+Parr og smolt: 45min 
+• 
+Postsmolt: 
+35min 
+Overflatebehandling og finish av kar er viktig for å unngå unødvendig begroing og oppsamling av 
+mulige patogener. Hvis anlegget bygges med betongkar, anbefales coating med polyetylen eller 
+polyuran, eventuelt med akrylbelegg i karbunn. 
+10.4 Dødfiskhåndtering 
+Dødfisk fjernes kontinuerlig i dødfisk/partikkelfeller som er en integrert del av fiskekaret. Det foretas 
+daglige registreringer av dødfisk, som flyttes fra dødfiskfellen i karene, til et vakuumbasert 
+transportsystem, via trakter plassert i hver avdeling (figur 37, 38). Dette systemet sikrer at død fisk ikke 
+transporteres internt i anlegget, og at smitterisiko fra denne typen transport er eliminert. Materialet 
+flyttes til en ensilasjestasjon i bygget, kvernes og tilsettes syre for lagring (figur 37). Ensilasjen avhendes 
+til godkjent mottak for videreforedling til dyrefôr, eller transporteres til biogassanlegg, fortrinnsvis 
+Biokraft på Skogn. Ved hendelser som innebærer massedød følges egen prosedyre med tilkalling av 
+logistikk for større volum av ensilasje. 
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+45 
+Figur 37. Død fisk fanges på dødfiskfelle med hov og flyttes over i vakuumsystemet. Dette systemet 
+forbedrer HMS på arbeidsplassen og reduserer risiko for eventuell smitte i andre deler av anlegget. 
+Figur 38. Vakuumsystem avdelingsvis. Fisken sendes med vakuum til en syklon som konsentrerer 
+biomassen og doserer over i ensilasjeanlegget. 
+Ensilingstanken og kvernen må være trygg, effektiv og enkel å bruke. Ensilingstanken må ha overvåking 
+over pH, nivå, syre, sirkulasjon og andre parametere. Syredosering gjøres automatisk for å korrigere 
+pH-nivå og lukt om nødvendig. Ensilasje avhendes til godkjent mottaksbedrift. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+46 
+ 
+ 
+Figur 39. Ensilasjetank, kvern og tilsetting av syre. 
+ 
+10.5 Fiskelogistikk, transport, sortering og vaksinering 
+I produksjonsplanen forutsettes produksjon av fire fiskegrupper pr år. Rogninnlegg skjer hver 13 uke. 
+Fiskegruppene holdes adskilt fra hverandre og gruppene flyttes ut av respektive avdelinger for neste 
+gruppe flyttes inn. Dette er grunnleggende for å oppnå relevant nivå av biosikkerhet, hovedsaklig for 
+å unngå forurensning av patogen agens mellom fiskegrupper, og også for å unngå en mulig blanding 
+av fiskegrupper med forskjellig genetisk opprinnelse.   
+Anlegget skal benytte anerkjente fiskepumper fra industrien. Fiskepumpene skal være verifisert for 
+denne typen bruk i forhold til god fiskevelferd og skal være tilpasset de ulike vekststadiene for fisken 
+(figur 40,41). 
+ 
+Figur 40. Aqualife fiskepumpe for transport av mindre fisk. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+47 
+ 
+ 
+ 
+Figur 41. RID pumpe fra MMC Technologies, for transport av store volum fisk på kort tid. 
+Sortering skjer ved flytting fra en avdeling til en annen. Sortering er viktig for å redusere 
+størrelsesvariasjon i gruppene, og slik redusere hierarkidannelse og suboptimal fôring som følge av at 
+fisken må tilbys flere størrelser av pellet samtidig. Jevne grupper som vokser relativt likt vil kunne 
+benytte èn pelletstørrelse. 
+Teknologi for sortering er velkjent og selskapet vil benytte god innarbeidede produkter, eksempelvis 
+Apollo gradere (figur 42). Sorteringsmaskinene vil også ha fisketellere for innsamling av eksakte 
+biomassetall. 
+ 
+Figur 42. Apollo sorteringsmaskin for effektiv sortering av postsmolt. 
+ 
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+48 
+10.6 Vaksinering 
+Lakseyngelen skal vaksineres ved 35-40 gram og det vil benyttes vaksineringsrobot til formålet. 
+Vaksinering er også beskrevet i kapittel 6.5. Maskon-vaksinasjonssystemet er utviklet i et nært 
+samarbeid med verdens største lakseprodusenter og er en standard teknologi for de fleste landbaserte 
+oppdrettsanlegg idag. 
+Maskon maskinen har følgende egenskaper; 
+• 
+Kan vaksinere og sortere opptil 40 000 smolt per time 
+• 
+Gir enkle, doble, tredoble og intramuskulære doser samtidig 
+• 
+Håndterer fisk i størrelsesområdet 30 - 170 gram. 
+Under vaksinering vil fisk under minstemål tas ut for destruksjon. Systemet vil også gi gode 
+biomassetall (antall og individvekt). 
+Plassering av vaksinering og sorteringsutstyr vil være i andre etasje, med rørføringer til hver avdeling. 
+All innmating av fisk til vaksinemaskinen er helautomatisk og det er vanligvis behov for èn operatør for 
+betjening av prosessen. 
+10.7 Partikkelfjerning 
+Under fôring av fisk vil RAS systemet tilføres partikulært materiale i form av ufordøyd fôr og fôrspill. 
+Partikulert materiale som tilføres, utgjør cirka 20 % av total mengde fôr. Partiklene finnes i ulike 
+størrelseskategorier, fra noen få mikrometer til noen millimeter (som f.eks fôrpellets). 
+Over 90 % av antall partikler i et RAS- system er under 10um, og 99% av volumet av partikler er under 
+10 µm. Effekten av trommelfilter alene er ikke tilstrekkelig for å fjerne nok partikler fra systemet. 
+Fjerning av partiklene skjer via flere trinn; 
+• 
+Sedimentasjon / selvrensing i kar 
+• 
+Trommelfilter 
+• 
+Proteinskimmer 
+Figur 43. Hex trommelfilter fra CMAqua. 
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+49 
+RAS-anlegget skal dimensjoneres med sideuttak og bunnavløp i karene, der bunnavløpet samler 
+mesteparten av partiklene, som igjen føres til trommelfilter. 
+Fordeling av avløpsvann vil være rundt 70 % gjennom sideavløp og 30 % gjennombunnavløp. En 
+delstrøm av sideavløp vil behandles gjennom en proteinskimmer, for å fjerne mikropartikler (figur 44). 
+Figur 44. Proteinskimmer fra Ratz. Skimmeren fjerner mikropartikler (< 20 µm) fra vannstrømmer. 
+10.8 Lysstyring 
+Alle avdelinger vil ha dynamisk lysstyringsfunksjoner, slik at lysintensiteten kan tilpasses ulike 
+vekststadier. I de minste avdelingene vil det benyttes takmonterte lys/hengelys, mens smolt og 
+postsmolt også vil ha dykklys. 
+Lyskvaliteten kan variere av ulike faktorer; 
+• 
+Selve kvalitet og lysspekter på lyspunktene 
+• 
+Plassering (overflate / undervannslys) 
+• 
+Turbiditet i produksjonsvannet 
+• 
+Størrelse på kar og lysspredning 
+Negative effekter av dårlig lyssetting vil være; 
+• 
+Redusert appetitt 
+• 
+Redusert tilvekst 
+• 
+Økt størrelsesvariasjon og økt behov for sortering 
+• 
+Smoltifisering og desmoltifisering 
+• 
+Tidlig kjønnsmodning 
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+50 
+Ideell plassering av lyskilder i større kar (+Ø10 m) er vist i figur 45. 
+Figur 45. Plassering av lyskilder i store kar (kilde: Biomarine). 
+10.9 Oksygenering 
+Tilførsel av oksygen er en av de viktigste prosessene i landbaserte anlegg og er i tillegg et nødsystem 
+som skal fungere til enhver tid. 
+For å sikre tilstrekkelig oksygen for fisken, må oksygensystemet levere oksygen kontinuerlig. Dette skal 
+være av riktig kvalitet/renhet og med tilstrekkelig kapasitet. Oksygensystemet skal ikke ha nedetid og 
+skal ha full redundans ved for eksempel strømutfall. 
+Oksygensystemet skal utformes med maksimal kapasitet for daglig driftsbehov, basert på; 
+• 
+Spesifikt oksygenbehov per kilo utfôring per dag 
+• 
+Nødoksygeneringssystem i tilfelle strømbrudd eller pumpefeil 
+• 
+Ekstra oksygenering under drift (fiskelogistikk, høsting) 
+Oksygennivået ved utløpet av fisketankene skal inneholde fra 6 til 8 mg/l (80-100 %). Tilsetningen av 
+oksygen skal være relatert til laksens spesifikke oksygenbehov i de ulike avdelingene, og maksimal 
+biomasse i tankene. Oksygenforbruket hos laks avhenger blant annet av fiskens størrelse, temperatur 
+vekstrate, fôringsrate, svømmehastighet og stressnivå. 
+I landbaserte oppdrettsanlegg anses det spesifikke oksygenbehovet til stor å være 0,6 – 0,8 kg O2 per 
+kg fôr. Beregning basert på samlet årsproduksjon viser et oksygenbehov på rundt 3000 tonn årlig. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+51 
+ 
+10.9.1 Oksygenkilder 
+Oksygenet kan leveres i enten flytende form (LOX), høye trykksylindere eller ved å strippe fra luft av 
+generatorer på stedet. Det anbefales generelt å ha to uavhengige oksygenkilder på stedet. 
+Høytrykkssylindere er lett tilgjengelige fra fabrikken, og kan brukes som ekstra ekstern kapasitet for 
+begrenset drift. 
+Flytende oksygen produseres av luftseparasjonsanlegg, avkjøles og transporteres i kryogene tanker til 
+vakuumisolerte lagringsbeholdere på stedet, som vanligvis, med tilhørende fordampningsutstyr, gir 
+flere dagers forsyning (figur 46). Typisk lagringsvolum er 50 tonn flytende oksygen per tank. 
+Før bruk fordampes LOX ved å lede den gjennom varmevekslerspoler, før oksygen injiseres i vannet. 
+LOX renhet (oksygen %) er nær 100 %. 
+Med on site oksygengeneratorer kan oksygenet strippes direkte fra luften ved hjelp av en molekylær 
+sil. Denne sikten er ved energiabsorberende nitrogen fra luften, og etterlater en oksygenberiket gass. 
+Disse generatorene kan produsere oksygen når det trengs og til lav pris. Renheten av produksjon på 
+stedet er sjelden høyere enn 93 %, noe som betyr at resten av gassvolumet består av en blanding av 
+nitrogen, argon og CO2. 
+ 
+Figur 46. Standardoppsett for oksygentank i inngjerdet område. 
+Oksygenproduksjonen på stedet vil avhenge av selskapets strategi, og kan omfatte mindre volum 
+som redundanskapasitet, eller normal produksjon som erstatning for flytende oksygen. 
+Produksjonen på stedet for større oksygenvolumer vil bli bygget som lokale generatorer på stedet 
+(figur 47), eller et luftseparasjonsanlegg med alle komponenter inkludert. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+52 
+ 
+ 
+Figur 47. Oksygengenerator på skid som kan installers inhouse i anlegget, eventuelt i container som 
+star utendørs. Oksygengeneratorene stripper oksygen fra lufta og produserer oksygen med 92 – 95% 
+renhet. 
+ 
+10.10 CO2-fjerning 
+Fisken skiller ut CO2 under respirasjonen og denne gassen akkumuleres i vannet hvis den ikke luftes ut. 
+Total produksjon av CO2 er ca 1,1 kg per kg oksygen konsumert. Det er ulike beregningsmetoder for 
+utskillelse av CO2, men det viktigste er å sikre at det er tilstrekkelig med restkapasitet i lufterne som 
+skal fjerne CO2 fra vannet. 
+Langvarig eksponering av høye CO2-nivå kan gi redusert tilvekst, nyreskader og gi utfordringer med 
+ioneregulering. Pr i dag anbefaler Mattilsynet CO2-verdier under 15 mg/l, men forskning viser at dette 
+kan være for høyt. NOFIMA viste i et forsøk at eksponering for CO2-verdier på 19 mg/l ga 15% redusert 
+tilvekst sammenlignet med fisk som gikk i 5 mg/l, samt at andel nyreforkalking økte ved CO2 nivå på 
+16 mg/l. I anleggsdesignet hos Terråk Industripark vil maksgrense for CO2 i smolt- og postsmoltfasen 
+settes til 12mg/l. 
+CO2-luftere designes etter motstrømsprinsippet, hvor vann fra biofilteret slippes over luft i et rislefilter. 
+CO2-lufteren designes med tilstrekkelig hydraulisk kapasitet, areal og med gass:væskeforhold 
+minimum 5:1. 
+ 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+53 
+ 
+10.11 Energianlegg 
+Setpunkt for produksjonstemperatur vil være 13 °C i de store avdelingene, og 8 - 12 °C i klekkeri og 
+startfôring. Naturlig temperatur på råvann fra Terråkvassdraget vil være fra 2 til 10 °C. Anlegget vil ha 
+installert energisentral som skal varme opp prosessvannet til ønsket temperatur, samt overføre energi 
+fra avløpsvannet. 
+Energianlegget vil ha installert en varmepumpe som skal løfte temperaturen til ønsket nivå og øke 
+ytelsen på systemet med moderat strømforbruk. 
+Spedevann som pumpes inn i anlegget veksles mot avløpsvannet fra karene. Avløpsvannet er filtrert 
+gjennomtrommelfilter før det går til avløpsveksler. 
+Det vil kunne oppstå behov for å kjøle inntaksvannet til ønsket prosessvannstemperatur, avhengig av 
+årstid. Egenprodusert termisk energi i anlegget gjennom bakteriell nedbrytning og varmeenergi fra 
+pumpetrinnene bidrar også til et kjølebehov, avhengig av årstid. 
+Anlegget skal bygges med fokus på energioptimalisering, for å redusere energiforbruket som i RAS 
+anlegg ligger mellom 3 og 12 kwh/kg fisk produsert. 
+Under designprosessen og prosjektering skal energieffektive løsninger velges, eksempelvis aktiv 
+styring av energikrevende komponenter som pumper, luftere, mekaniske filter og gjenvinning av 
+energi fra avløpsstrømmer. 
+ 
+10.12 Fôringsanlegg 
+Fôringssystemer i RAS-anlegget vil bestå av ulike løsninger tilpasset hver avdeling. For 
+starfôringsavdelingen (0,15 – 5 gram fiskestørrelse), kan mindre fôringsautomater med manuell 
+mating benyttes karvis. For større fisk (5 – 400 gram) skal systemer med automatisk utfôring og mating 
+beyttes (sentralfôringssystem). 
+Fôret vil bli mottatt i småsekker (25 kg), bigbags (750 kg) eller i bulk (<25 tonn) som blåses inn på silo. 
+Valg av fôringssystem og konsept for lagring og distribusjon gjøres underveis i designfasen. 
+Følgende krav til fôringsanlegget er gjeldende; 
+• 
+Fôring av fisken pr tank bør gjøres kontinuerlig, med høyest mulig presisjon (antall og 
+størrelse på dose, automatiske justeringer)  
+• 
+Fôret skal transporteres fra lager (eller silo) skånsomt og effektivt og med så begrenset fysisk 
+belastning av fôrpellets som mulig. Brekkasjer og støv fra fôret forurenser prosessvannet i 
+karene og må unngås  
+ 
+De ulike karstørrelsene skal være utstyrt med fôrautomater som sprer fôret tilstrekkelig over hele 
+overflaten. For de minste avdelingene må mulighetene til å mate små doser med korte intervaller være 
+til stede. For startfôring er det nødvendig med ekstra fokus på håndfôring. 
+For tanker mellom 5 – 8 m i diameter er det tilstrekkelig med en mater med enkelt materør på tvers 
+av karet. For større tanker over 10 m i diameter er det behov for to matere og tilhørende to mateskruer 
+for å dekke så mye av overflaten som mulig. 
+Fôr oppbevares på eget ventilert fôrlager, som skal være adskilt fra annen produksjon, ha 
+tilgangskontroll og være beskyttet mot eventuelle skadedyr. Eventuelt medisinfôr skal oppbevares på 
+eget lagerområde, separat fra standard fôrprodukter. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+54 
+ 
+Siloer for de største fôrtypene skal plasseres i nærheten av RAS-avdelingen for å redusere transport og 
+rørlengde (figur 48). Hver silo skal ha en vektcelle for å holde god oversikt over lagringsnivåer og 
+fôringshastighet. Fôret flyttes fra siloer til fôrautomater skånsomt med medbringersystem (figur 49). 
+ 
+Figur 48. Fôrsiloer og distribusjonssystem (foto: Laksesystemer). 
+ 
+ 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+55 
+ 
+ 
+Figur 49. Fyllesystem av fôrautomatene (foto: Laksesystemer). 
+Fôringssystemene skal være helautomatiske og kombineres med overvåkning av fôrspill ved hjelp av 
+kamera. Det er viktig å kombinere utfôring med kunstig intelligens for å distribuere og effektivisere 
+utfôringen, både av økonomiske hensyn, men også for å unngå unødvendig forurensing av 
+vannkvaliteten. 
+ 
+Overvåkning av utfôring må gjøres med; 
+• 
+Justering av fôringsdoser 
+• 
+Overvåkning av nivå i fôrsiloer 
+• 
+Overvåkning av fôrspill i utløp fra kar 
+• 
+Aktiv fôringskontroll i karene  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+56 
+ 
+11. Oppstart, drift og vedlikehold av biofilter. 
+Man må alltid beregne en relativt lang oppstartsperiode før et biofilter er klart til bruk. Dette på grunn 
+av at det tar tid før bakteriesamfunnet har etablert seg, og forholdet mellom de ulike bakteriene i 
+samfunnet er riktig. Det vil ta minimum 6 uker å etablere et modent og stabilt biofilter. Når man starter 
+opp bør man ha samme salinitet som man forventer å ha i anlegget, alkaliniteten bør være 150-250 
+mg/L (oppnås ved å tilsette f.eks. bikarbonat), og pH bør ligge på 6,8-8. 
+For å få riktig bakteriesammensetning i biofilteret, «fôrer» biofilteret med kjemikalier og organisk 
+materiale. I starten kjøres biofilteret uten vannutskifting, og med god oksygenering.  
+1) Ammoniumklorid tilsettes for å få bakteriene som omdanner ammonium til nitritt til å vokse. 
+TAN måles daglig, for å se om omdanning av ammonium til nitritt starter. For å få etablert 
+bakterier som omdanner nitritt til nitrat, kan natriumnitritt tilsettes. 
+2) Når omdanning av TAN til nitritt er i gang, kan man starte en kontinuerlig tilsetting av 
+ammoniumklorid til biofilteret – ca 30% av det som forventes i anlegget.  
+3) TAN og nitritt må måles hver dag for å se om biofilteret tåler belastningen. Når det er stabilt 
+kan belastningen og vannutskiftningen økes gradvis til det som forventes i anlegget.  
+4) Den siste uka før fisken skal inn i anlegget, bør du tilsette organisk materiale (f.eks. knust 
+fiskefôr) til biofilteret – dette for at bakteriesamfunnet skal tilpasse seg konkurransen mellom 
+heterotrofe og autotrofe bakterier som naturlig vil starte ved vanlig drift.  
+5) Før man har fisk i anlegget må man måle TAN, nitritt, pH, temperatur, CO2, alkalinitet og 
+salinitet for å være sikker på at alt er klart for fisken.  
+Dersom biofilteret fungerer som det skal og det ikke har vært sykdom i anlegget, er det ikke nødvendig 
+å ta ned biofilteret mellom ulike fiskegrupper. Derimot er det viktig at aktiviteten vedlikeholdes når 
+det ikke er fisk i anlegget. Dette gjøres ved tilsats av ammoniumklorid for å sikre aktiviteten til 
+bakteriene som omdanner ammonium til nitritt. Dersom anlegget står uten fisk i mer enn 14 dager bør 
+man også tilsette fôrekstrakt for å opprettholde en viss mengde organisk materiale i systemet. 
+Mekanisk vask kan være nødvendig for å unngå opphopning av organisk materiale, samt for å holde 
+tykkelsen på biofilm nede.  
+Ved oppstart vil ammonium og nitritt verdier stige utover anbefalte grenseverdier. Når filteret 
+begynner å komme i modent status, vil disse parameterne stablisere seg innenfor grenseverdiene (max 
+2mg/l TAN, 0,1- 0,5 mg/l nitritt og maks 100 mg/l nitrat (figur 50). 
+ 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+57 
+ 
+ 
+Figur 50. Utvikling av vannkvalitetsparameterne ammonium (TAN) (rødt), nitritt (blått) og nitrat 
+(grønt) under modning av biofilter.  
+ 
+12.Rensing av avløpsvann 
+12.1 Beskrivelse av rensetrinn. 
+Beregning av utslipp fra lokaliteten er basert på en årsproduksjon på 10 millioner smolt, med en 
+gjennomsnittlig salgsstørrelse på 400 gram. Maksimal biomasse i anlegget vil være ca. 1200 tonn, og 
+årlig utfôring vil være 4100 tonn. 
+Estimert produksjon av slam (totalt volum av ufordøyd materiale, fôrspill, organisk materiale) er ca 
+20% av utfôret mengde, tilsvarende 820 tonn. 
+Første rensetrinn vil være i sirkulærstrømmen i selve oppdrettskarene (og delvis sedimentasjon), som 
+samler de største partiklene i en konsentrert strøm som går direkte til trommelfiltrene. 
+Avløpsstrømmer fra sideuttak i kar kan delvis behandles i proteinskimmere for å fjerne 
+mikropartiklene. 
+Slam fra trommelfilter vil inneholde 1-5 % tørrstoff, og vil deretter avvannes opp til 25-30 % tørrstoff 
+(figur 51). I forkant av avvanning tilsettes polymer for å binde opp partiklene. Etter avvanning med 
+mekanisk skrue eller skivefilter, vil slammet tørkes ned til + 90 % tørrstoff. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+58 
+ 
+ 
+Figur 51. Slambehandlingssystem fra Blue Ocean Technology. 
+ 
+12.2 Beregning av produsert mengde tørrstoff 
+Hovedtall er maksimalt 22 000 kg fôr/døgn og totalt 4100 tonn fôr år (fôrfaktor 1,1). 
+For beregninger av utslipp til oppdrettsvannet, er det tatt utgangspunkt i veilederen for oppdrettssaker 
+når det gjelder innhold av og retensjon i fisken av organisk stoff (KOF), Tot-N og Tot-P. For suspendert 
+stoff er det forutsatt at 70 % av spist fôr blir lagret i fisken og det er videre regnet med at 
+tørrstoffinnholdet i spillfôr (beregnet 10 % spillfôr), er 94 %. 
+Forventet renseeffektivitet for trommelfilter (60um) er oppgitt av Veolia/Hydrotech til å være; 
+• 
+For suspendert stoff: 65 % 
+• 
+For organisk stoff: 40 % 
+• 
+For Tot-P: 40 % 
+• 
+For Tot-N: 15 % 
+I proteinskimmer forventes opp mot 50 – 75% fjerning av partikler under 20 µm  
+Selve produksjonen av slam defineres som «produksjonsbidraget». Ved en utfôring på 3835 tonn per 
+dag, beregnes slamproduksjonen som vist i tabell 7. 
+Det finnes ulike beregningsmodeller for produksjonsbidrag, rensegrad i anlegget og rensegrad på 
+slambehandling. Vi benytter et gjennomsnitt av fire modeller fra Rådgivende biologier, Dansk Teknisk 
+Universitet og Morefish/Steinar Skybakmoen. 
+Det hersker stor usikkerhet om disse tallene, sist presentert ved Tekset konferansen i Trondheim 2022. 
+Produksjonsbidraget fra fisken er derimot relativt sikre tall som er validert i forsøksoppsett. 
+ 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+59 
+ 
+I vår modell beregner vi følgende; 
+• 
+Produksjonsbidrag 
+• 
+Rensegrad i selve RAS (inkl trommelfilter og proteinskimmer) 
+• 
+Restkonsentrasjon i rejektvann / overløp 
+• 
+Rensegrad i avløpsrensing 
+• 
+Restkonsentrasjon i rejektvann fra slambehandling 
+Sum utslipp til resipient vil være de to restkonsentrasjonene, summert til slutt i tabell 7. 
+Tabell 7. Produksjonsbidrag, rensegrad og utslipp til resipient, beregnet fra tre modeller. 
+ 
+Renseeffektivitet i slambehandlingen er angitt i tabellen som måltall. Disse må verifiseres av 
+prosessleverandør for slambehandlingsanlegget før valg av løsning og av tiltakshaver under drift. 
+Basert på ulike utslippsmodeller kan følgende utslippsmengder estimeres (gjennomsnitt) (figur 52). 
+ 
+Produksjonsbidrag (tonn pr år)
+Modell 1
+Modell 2
+Morefish
+Gjennomsnitt
+Nitrogen
+140
+169
+169
+159
+Fosfor 
+26
+33
+33
+30
+Total organisk karbon
+460
+518
+518
+499
+Rensegrad 
+Nitrogen
+40 %
+66 %
+54 %
+53 %
+Fosfor 
+60 %
+85 %
+70 %
+72 %
+Total organisk karbon
+80 %
+94 %
+96 %
+90 %
+Utslipp
+Nitrogen
+84
+57
+78
+73
+Fosfor 
+10
+5
+10
+8
+Total organisk karbon
+92
+31
+20
+48
+Til slambehandling
+Nitrogen
+56
+111
+91
+86
+Fosfor 
+15
+28
+23
+22
+Total organisk karbon
+368
+487
+498
+451
+Effektivitet slambehandling
+Nitrogen
+60 %
+60 %
+60 %
+60 %
+Fosfor 
+70 %
+70 %
+70 %
+70 %
+Total organisk karbon
+90 %
+90 %
+90 %
+90 %
+Rejektvann til resipient
+Nitrogen
+22
+45
+36
+34
+Fosfor 
+5
+8
+7
+7
+Total organisk karbon
+37
+49
+50
+45
+Totalt avløp til resipient
+Nitrogen
+106
+102
+114
+107
+Fosfor 
+15
+13
+17
+15
+Total organisk karbon
+129
+80
+69
+93
+Skisseprosjekt – Terråk industripark 
+Terråk Industripark AS 
+60 
+Figur 52. Modellering av utslipp fra anlegget. Gjennomsnitt av fire modeller viser at det vil 
+forekomme utslipp av 120 tonn nitrogen, 29 tonn fosfor, 496 tonn TOC, 22 tonn BOD5 og 47 tonn 
+KOF. 
+13. Modellering av avløp og vurdering av smitterisiko med 
+nærliggende anlegg. 
+Lokaliteten ved Brukstomta ligger i samme fjordsystem som lokalitetene Båsen 10862) og Mulingen 
+(10858), med avstander på henholdsvis 3,6 og 3,8 km fra senter på Brukstomta industriområde (figur 
+53 – blå strek). For å avklare lokalitetens avstand i forhold til etablererforskriftens fem kilometers 
+grense, har Terråk industripark fått gjennomført strømmålinger og modelleringer for å kartlegge 
+mulighetene for vannkontakt mellom anleggene. I ytterste konsekvens kan avløp legges 5 km unna 
+begge lokalitetene, i sørvestlig retning. 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+61 
+ 
+ 
+Figur 53. Avstand fra eksisterende lokaliteter Båsen og Muligen, samt avløpsplassering for ytterste 
+konsekvens jamfør etablererforskriften. 
+I tillegg har selskapet fått gjort strømmålinger og MoM B undersøkelser på planlagt utslippspunkt. I 
+tilknytning til eksisterende konsesjon (tidligere Helgeland Lumpsucker) er det gjennomført 
+strømmålinger og MoM B undersøkelser i 2017, som gir informasjon om resipienten. 
+Oppsummert er følgende kartlegginger gjennomført (tabell 8). 
+Tabell 8. Oversikt over undersøkelser som er gjennomført i resipienten. 
+ 
+ 
+Opprinnelig strømmåling og bunnundersøkelser ble gjort i 2017 rundt 400 meter fra Brukstomta, på 
+sterkt skrånende bunn. Det ble konkludert med gode strømforhold og bunnforhold preget av 
+akkumulering av sagspon fra tidligere industri. Avstand fra avløpspunkt til nærliggende lokaliteter var 
+3,4 og 4,1 kilometer for henholdsvis Mulingen og Båsen. I forbindelse med konsesjonen for 
+rensefiskproduksjon som ble gitt i 2020, ble avstandskravet omdiskutert gjennom flere runder med 
+Mattilsynet. Som beskrevet tidligere er rensefiskkonsesjonen nå fristilt og prosjektet til Terråk 
+Industripark erstatter det opprinnelige tiltaket.  
+Ved oppstart av konsesjonssøknad besluttet tiltakshaver å gjennomføre modelleringer av 
+strømningsforhold og risiko for vannkontakt mellom vannkvaliteter i resipienten. Åkerblå 
+gjennomførte to ulike modelleringer; den første var basert på en produksjon av 8000 tonn med en 
+sjøvannsfase fra 100 – 800gram (figur x). Avstand fra nærmeste lokalitet Båsen var 4,05 km. Den 
+andre modelleringen ble gjort med basis i en produksjon av 4000 tonn på kun ferskvann, og et 
+utslippspunkt som er over 5,5 km fra nærmeste lokalitet (figur 54). 
+Posisjon
+Måleperiode
+Strømmåling
+65°05.381 N 12'21.742 Ø
+2017
+MoM B
+65°05.381N 12°22.159Ø
+2017
+Modellering utslipp
+fase 1 - utslipp 1
+2022
+Modellering 
+fase 1 - utslipp 2
+2022
+Modellering utslipp
+fase 2
+2022
+Strømmåling
+65° 04.829' N; 012° 19.049' Ø
+2022
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+62 
+ 
+ 
+Figur 54. Modelleringer av mulig vannkontakt ved to utslippspunkter fra fase 1 (8000 tonn) og nytt 
+utslippspunkt i fase 2 (4000 tonn).  
+ 
+ 
+Modelleringene viser at spredningen av utslipp fra det anlegget spres i hovedsak mot nord og 
+sørvest. Konsentrasjonene av utslippsvann ved både overflaten og bunnen er svært lave (< 0.1%) 
+(figur 55). Videre er konsentrasjonen av utslippsvannet fra Terråk er under 0.01% ved de omliggende 
+lokalitetene Båsen og Mulingen og ved lakseelva Terråkelva.  
+ 
+ 
+Figur 55. Spredningsanalyse av partikler fra en produksjon på 4000 tonn.  
+Samlede kartlegginger viser at det er flere alternativer for lokalisering av avløpspunkt og det er 
+grunnlag for å diskutere ulike løsninger som er gjennomførbare for selskapet. Produksjon basert 
+utelukkende på ferskvannskilder bidrar også til svært redusert risiko for overførbar smitte mellom 
+land- og sjølokaliteter. 
+Tiltakshaver ønsker en dialog med myndighetene for hvordan den tekniske utformingen og 
+plasseringen av avløpsløsningen skal gjennomføres.  
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+63 
+ 
+ 
+14. Forebygging mot rømming 
+Anlegget bygges i tråd med Forskrift om teknisk standard for landbaserte akvakulturanlegg for fisk (NS 
+9416), som sier at «et landbasert akvakulturanlegg for fisk skal prosjekteres og utføres i samsvar med 
+krav i NS 9416:2013, slik at akvakulturvirksomheten kan foregå uten at oppdrettsfisk rømmer som følge 
+av teknisk svikt». Det skal brukes teknologi og planløsninger som skal gjøre anlegget svært godt sikret 
+mot rømming. Det vil bli etablert sikring (rist) i hvert enkelt produksjonskar, og vannet fra karene går 
+først til mekanisk filtrering før videre behandling og så resirkulering tilbake til produksjonskaret. En 
+felles fiskesperre etableres i forkant av slambehandling vil også bygges inn, slik at det vil være dobbelt 
+rømmingssikring på hele anlegget. Alle kar vil være plassert inne i bygninger, som også vil ha ringmur. 
+Mot sjøsiden kan det etableres en vollgrav eller mursikring for å hindre rømming ved eventuelle 
+hendelser i de store avdelingene. 
+Det vil også etableres nødvendige tiltak for å hindre rømming i forbindelse med overføring av fisk fra 
+anlegget og over i brønnbåt, i form av rømmingskant og sikkerhetsnett. Alt av utstyr skal være 
+produktsertifisert og i samsvar med NS9416.Målet er å etablere et 100 % rømningssikkert anlegg.  
+ 
+15. Internkontroll 
+Hensikten med et internkontrollsystem (IK-system) er å sikre at problemer blir avdekket og tatt hånd 
+om i tide, og skal følge forskrift om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter 
+(Internkontrollforskriften). For akvakultur gjelder Forskrift om internkontroll for å oppfylle 
+akvakulturlovgivningen (IK-Akvakultur). IK-system, beredskapsplaner, og annen drift- og HMS-
+dokumentasjon vil bli utarbeidet og beskrevet i detalj så snart leverandør og utstyr i anlegget er valgt. 
+IK-systemet skal sørge for at anlegget driftes i tråd med gjeldende lover og forskrifter, som per i dag 
+er: 
+ 
+ 
+Aktuelle lover: 
+• 
+Lov om dyrevelferd 
+• 
+Lov om matproduksjon og mattrygghet mv. 
+• 
+Lov om akvakultur  
+• 
+Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. 
+• 
+Lov om ferie 
+Aktuelle forskrifter: 
+• 
+Forskrift om drift av akvakulturanlegg 
+• 
+Forskrift om tillatelse til akvakultur for laks, ørret og regnbueørret 
+• 
+Forskrift om gebyr og avgift i forbindelse med akvakulturvirksomhet 
+• 
+Forskrift om internkontroll for å oppfylle akvakulturlovgivningen 
+• 
+Forskrift om krav til teknisk standard for landbaserte akvakulturanlegg 
+• 
+Forskrift om reaksjoner, sanksjoner med mer ved overtredelse av akvakulturloven 
+• 
+Forskrift om transport av akvakulturdyr 
+Skisseprosjekt – Terråk industripark 
+ 
+Terråk Industripark AS  
+ 
+64 
+ 
+• 
+Forskrift om godkjenning og bruk av desinfeksjonsmidler i akvakulturanlegg og 
+transportenheter 
+ 
+16. Ekstern fiskehelsetjeneste 
+Det vil bli inngått avtale om eksterne fiskehelsetjenester og rutinemessige helsebesøk på anlegget 
+(eksempelvis med Åkerblå, STIM eller HaVet). Det skal ansettes egen fiskehelseansvarlig/veterinær ved 
+anlegget, som sammen med ekstern fiskehelsetjeneste vil ha ansvaret for fiskehelse og velferd. 
+Tjenesten vil omhandle bl.a.: 
+• 
+Gjennomgang av parametere med betydning for fiskehelse og fiskevelferd 
+• 
+Evaluering og valg av produkter fra leverandører 
+• 
+Observasjon og nedtegnelse av relevante fysio-kjemiske parametere gjeldende på anlegget. 
+• 
+Inspeksjon og kontroll av biosikkerhet og orden på anlegget med betydning for fiskehelse og 
+velferd. 
+• 
+Utredelse av fiskens helsestatus i et representativt utvalg av produksjonsenhetene med særlig 
+vekt på enheter med forhøyet dødelighet eller unormal adferd for å avdekke forekomst av 
+sykdom. 
+• 
+Risikobasert undersøkelse og eventuell prøvetaking av et representativt utvalg av frisk fisk, 
+svimere og/eller død fisk basert på de gjeldende forhold på det aktuelle anlegget. 
+• 
+Prøvetaking til screening når aktuelt. Råd- og veiledning relatert til den aktuelle helsestatusen 
+ 
+17. Referanser: 
+1) https://www.vetinst.no/sykdom-og-agens/proliferativ-nyresjuke-pkd 
+2) Effekter av ozonering og skumfraksjonering på kondisjon og fysiologi hos regnbueørret i RAS 
+(landbasedaq.no) 
+3. Vitenskapskomiteen, Risikovurdering knyttet til resirkuleringsanlegg for settefisk av laks og 
+regnbueørret. 
+https://vkm.no/risikovurderinger/allevurderinger/risikovurderingknyttettilresirkuleringsanleggforsett
+efiskavlaksogregnbueorret.4.175083d415c86c573b5d6f83.html

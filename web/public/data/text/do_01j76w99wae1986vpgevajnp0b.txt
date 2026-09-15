@@ -1,0 +1,641 @@
+﻿Andfjord Salmon AS 
+Teknisk beskrivelse 
+  
+  
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01   Dato: 2024-06-21 
+ 
+ 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 2 av 23 
+Oppdragsgiver: 
+Andfjord Salmon AS 
+Oppdragsgivers kontaktperson: Andreas Wæhre 
+Rådgiver: 
+Norconsult Norge AS, Rådhusvegen 5, N-6868 Gaupne 
+Oppdragsleder: 
+Terje Hanssen 
+Fagansvarlig: 
+Stian Tandberg 
+Andre nøkkelpersoner: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E01 
+2024-06-21 
+Teknisk beskrivelse lokalitet Kvalnes 
+StTan 
+TeH 
+TeH 
+Versjon 
+Dato 
+Beskrivelse 
+Utarbeidet 
+Fagkontrollert 
+Godkjent 
+ 
+Dette dokumentet er utarbeidet av Norconsult som del av det oppdraget som dokumentet omhandler. Opphavsretten tilhører 
+Norconsult. Dokumentet må bare benyttes til det formål som oppdragsavtalen beskriver, og må ikke kopieres eller gjøres tilgjengelig på 
+annen måte eller i større utstrekning enn formålet tilsier. 
+ 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 3 av 23 
+ Sammendrag 
+Dette dokumentet gir en kortfattet teknisk beskrivelse av Andfjord Salmon sitt landbaserte akvakulturanlegg 
+som er under oppføring på Kvalnes. Beskrivelsen viser Andfjord-konseptet og gir en helhetlig beskrivelse av 
+hovedkomponentene i anlegget. Overordnede tekniske kapasiteter er angitt i dokumentet. Beskrivelsen 
+omhandler i hovedsak pågående utbygging av K1-K12, men trekker også paralleller til pilotbassenget K0 og 
+hvordan dette skal integreres som helhet. 
+ 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 4 av 23 
+ Innhold 
+1 
+Innledning 
+5 
+2 
+Andfjord konseptet 
+6 
+3 
+Etablering av tunnelsystem for vannsirkulasjon 
+7 
+4 
+Overordnet layout og integrering mot terreng 
+9 
+4.1 
+Grunnvann og vannbalanse 
+10 
+5 
+Bassengkonsept 
+12 
+5.1 
+Funksjonsoppbygging og smittesoner i vannveien 
+12 
+6 
+Hovedkomponenter 
+14 
+6.1 
+Innløpskonstruksjon 
+14 
+6.2 
+Trykkfallsvegg 
+17 
+6.3 
+Basseng 
+17 
+6.4 
+Utløpskonstruksjon 
+17 
+6.5 
+Integrasjon mot K0 
+19 
+6.6 
+Materialkvalitet 
+20 
+7 
+Barrierefilosofi 
+21 
+7.1 
+Prosessdiagram og overordnet tilnærming 
+21 
+7.2 
+Første barriere 
+22 
+7.3 
+Andre barriere 
+22 
+7.4 
+Barrierer som dimensjoneres likeverdig eller bedre enn to barrierer 
+23 
+ 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 5 av 23 
+1 
+Innledning 
+Andfjord Salmon har i fase 1 fullført bygging og testing pilotbassenget K0 (heretter kalt «K0»). Første 
+produksjon vurderes som svært vellykket og teknisk tilnærming har fungert godt. Fase 2 innebærer en 
+videreføringer av konseptet for ytterligere 12 nye basseng (heretter kalt «K1-K12»). Teknisk utforming følger 
+samme prinsipielle utforming. I tillegg er det lagt vekt høy robusthet i alle ledd, både teknisk – men også opp 
+mot øvrige fag og interesser. I bunn for dette ligger en grundig gjennomgang av regelverk for harmonisering 
+av alle myndighetskrav opp mot Andfjord konsept. 
+Norconsult er byggherrerådgiver for tekniske fag og «prosjekterende foretak» etter FOR-2017-06-19-941 
+Forskrift om krav til teknisk standard for landbaserte akvakulturanlegg for fisk. Dette innebærer at Norconsult 
+er premissgiver for rømmingsteknisk utforming av anlegget og at anlegget er i tråd med forskriften og 
+tilhørende standard. Forskriften henviser her til NS 9416:2013 med videre henvisninger aktuelle 
+fagspesifikke standarder som til sammen ivaretar prosjektering, bygging og drift av akvakulturanlegg. 
+Teknisk utforming av anlegget er i samsvar med dette. Overordnet rømmingsteknisk filosofi inngår i denne 
+beskrivelsen. 
+Dette dokumentet beskriver teknisk utforming av anlegget som helhet, totalt 13 basseng. Beskrivelsen 
+fokuserer mest på K1-K12, men omhandler også K0 der hvor dette er aktuelt.  
+ 
+ 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 6 av 23 
+2 
+Andfjord konseptet 
+Andfjord Salmon har selv utviklet konseptet som er basert på ren gjennomstrømming (100%). Strømningen i 
+bassenget er laminær hvorav vannet oppnår en uniform stempelbevegelse fra innløp til utløp. Designet med 
+gjennomstrømmingsanlegg sikrer god vannkvalitet og minimal risiko for oppbygging av H2S. Samtidig gjør 
+konseptutformingen at partikler sedimenteres på bunnen. Hvert kar (heretter kalt «basseng») har egen robot 
+for daglig oppsug av organisk stoff (fekalier og spillfôr) og innhenting av dødfisk. Hver firergruppe har i tillegg 
+en felles rengjøringsrobot for periodisk rengjøring av vegger, gulv og silflater (begge sider) etter behov. 
+Rengjøringsroboten er en «kavitasjonsvasker» og bruker derfor ingen kjemikalier. 
+Bassengene er senket ned i fjellet slik at topp basseng er i nivå med området rundt. Konseptet med 
+vannbalanse mellom indre- og utside basseng er i tråd med utformingen av K0, bare at det nå er utført i 
+betong og vannbalansen er automatisert. Dette gjør anlegget mer robust og er mer fleksibelt for drift og 
+hendelser mellom de ulike bassengene. Utforming og drift av bassengene er nærmere beskrevet i dette 
+dokumentet.  
+Nivået i bassengene følger tidevannets syklus for flo og fjære. Vannet pumpes gjennom anlegget som er 
+designet for lavest mulig motstand og dermed et svært nøkternt strømtrekk. Samtidig er pumpene kraftige 
+nok til at anlegget oppnå en rekke fordeler mht fiskehelse og hendelser. 
+Konseptet er en videreføring av prinsippene som ligger til grunn for etablering av pilotbassenget K0.  
+Forventet levetid for K1-K12 er 100 år. Det aksepteres kortere levetid for teknisk utstyr som kan skiftes ut. 
+Nivåer i dette dokumentet referer til NN2000. 
+ 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 7 av 23 
+3 
+Etablering av tunnelsystem for vannsirkulasjon 
+Tradisjonelle vannrør er ikke lenger egnet for anlegg av denne størrelse. I stedet etableres et tunnelsystem 
+for vanninntak og -avløp tilbake til resipient. Tunnelinntak etableres med senteråpning på minimum 40 
+meters dybde, mens tunnelutløp tilbake til resipient etableres med senteråpning på ca 70 meters dybde. 
+Hovedløpene har et tverrsnitt på ca 73 m2. Tunnelsystemet er vist i Figur 1. 
+Inn- og avløpslokasjon er valgt for å sikre stabil vanntemperatur, unngå lusesmitte og for å minimere 
+mulighet for krysskontaminering i anlegget. Spesifikk utløpsposisjon er også valgt for å ivareta tilstrekkelig 
+kapasitet for å omsette det organiske utslippet, og for å unngå påvirkning på viktig biologisk mangfold ved 
+Kvalnes. Fjellets formasjon og kvalitet har også påvirket endelig valg av lokasjon da det er ønskelig med 
+størst mulig gjennomslagspunkt for lavest mulig trykkfall og derav strømtrekk for sirkulasjon. Målinger og 
+strømningsanalyser ligger til grunn for valg av inn- og utløpslokasjon. 
+ 
+ 
+ 
+ 
+ 
+Figur 1 Etablering av tunnelsystem for vannsirkulasjon på Kvalnes. Inntaket er vist til høyre (øst) i bildet (kt -40 til -50) og 
+henger sammen med distribusjonstunnel langs østre side av bassengene. Utslippstunnel ligger langs vestre side av 
+bassengene med utslipp til resipient nede til venstre i bildet (kt -70). Pilotbassenget K0 påkobles nytt i tunnelsystem for 
+helhetlig vannforsyning. Tunnelsysstemet er klargjort for eventuell fremtidig utvidelse av anlegget mot nord. Øvrige 
+tunneler er adkomsttunneler for etablering og eventuell fremtidig tilkomst. Stengeluker er vist i blått. 
+N
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 8 av 23 
+Fra hovedløp etableres tverrforbindelser. Hver tverrforbindelse forsyner hhv østre og vestre side av hver 
+bassenggruppe, total 4 basseng per forbindelse. Hvert tunneloppstikk (heretter kalt «rise») forsyner to  
+basseng (ett basseng for hver ende). Dette er grunnen til at bassengene er organisert i speilvendte grupper 
+på fire, med utløp mot senter av hver bassenggruppe. 
+Det er ingen inntakssil på innløpet. Bakgrunnen for dette er at en slik konstruksjon verken lar seg konstruere 
+eller vedlikeholde på noen fornuftig måte. I stedet etableres inntakssiler i hver rise før inntak til basseng. 
+Tunnelsystemet er mørklagt til enhver tid og har en fornuftig hastighet for å unngå eventuell sedimentering.  
+I berggrunnen rundt tunnelsystemet er det injisert betong for strukturell stabilisering og tetting mot eventuell 
+krysskontaminering.  
+Inntaks-og avløpssystem er simulert i hele rørlengden med hensyn til vannhastighet, turbulens, og friksjon. 
+Dette bidrar til en energieffektiv vannstrøm. 
+Konseptet er utformet av vannkraftmiljøet i Norconsult og detaljprosjektertes av ingeniørgeologi-, akvakultur- 
+og vannkraftmiljøet i Multiconsult. 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 9 av 23 
+4 
+Overordnet layout og integrering mot terreng 
+Bassengene K1-K12 er konstruert i form av plassbygde betongkar med indre mål på 40 x 42,5 x 14,7 meter. 
+Prinsippene er de samme som K0, men materialvalg og utforming er noe endret basert på erfaringer fra K0 
+og for at de nå skal kunne fungere godt sammen og bygges back-to-back. K0 er utformet i glassfiber med 
+indre mål 40 x 43 x 20 meter. K0 vil bli knyttet opp mot tunnelsystemet. 
+ 
+Figur 2 Overordnet layout for anlegget. 
+Overordnet layout for anlegget er vist i Figur 2 hvorav bassengene er lagt i nivå med omkringliggende 
+terreng kt 3,0. Topp bassengkant er lagt på kt 3,2 av hensyn til praktisk drift, håndtering av overflatevann og 
+ikke minst biosikkerhet.  
+K1-K12 er inndelt i bassenggrupper som vist i Figur 3. Hver bassenggruppe deler fellesfunksjoner og teknisk 
+infrastruktur. Videre er hvert basseng utformet som egen smittesone i form av fysisk skille. Drift av K1-K12 
+skal i hovedsak skje fra den siden som har gjennomgående senterakse (heretter kalt «midtrabb»), men har 
+tilgang fra alle sider ved behov. Midtrabb har kjørebane som er smittemessig adskilt fra basseng og definert 
+som nøytral sone. Alle smittesoner inkl. nøytrale soner har fast dekke mht rengjøring og biosikkerhet. 
+Avrenning fra de ulike områdene er hensiktsmessig utformet slik ulike smittesoner aldri krysser hverandre. 
+Teknisk infrastruktur er i hovedsak lagt i midtrabb. Det legges opp til ringledning for tilførsel av ferskvann og 
+sjøvann av hensyn til forsyningssikkerhet. Ringledning vil være gjennomgående i midtrabb og hubområdet. 
+ 
+ 
+N
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 10 av 23 
+ 
+Figur 3 Inndeling av bassenggrupper for trinnvis utbygging og hensiktsmessig drift. Hvert basseng har individuelle 
+smitteskiller i form av fysisk skille som vist i blått. Områder mellom basseng er definert som nøytral sone. Dette 
+inkluderer inn- og utløpsrise for inspeksjon og tilgang til teknisk utstyr. 
+4.1 
+Grunnvann og vannbalanse 
+Ettersom bassengene er senket ned i grunnen er det sikret mot grunnvannsinntrenging med tetteskott mot 
+omkringliggende terreng. I tillegg etableres individuelle tetteskott mellom alle basseng og tverrseksjoner (inn-
+/utløp) for individuell drift og tømming av basseng, total 22 grunnvannsoner for K1-K12. I Figur 4 er tetteskott 
+og injeksjonssbrønner vist i rødt.  
+Alle bassengene er utformet med individuelt vannbalansesystem. For K0 er dette selvregulerende hvorav 
+utenforliggende «grunnvannsnivå» følger tidevannsnivå i basseng med en maksimal overhøyde i basseng 
+på 10 cm. For K1-K12 er dette fristilt og instrumentert. Betongkarene er konstruert for en maksimal 
+nivådifferanse på 4 meter som tilfredsstiller alle driftsoperasjoner uansett tidevannsnivå. Grunnvannsnivået 
+skal derfor holdes stabilt på kt -1 mens overhøyde i kar er sikret med nedre terskel på kt -0,95. Dette er selve 
+bærebjelken for robust utforming av anlegget. 
+Vannbalanse er en videreføring av konseptet fra K0. 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 11 av 23 
+ 
+Figur 4 Layout for K1-K12. Tetteskott mot utvendig grunnvann og mellom individuelle grunnvannssoner er vist med røde 
+flater. Injeksjonsbrønner for stabilisering og tetting er vist med røde søyler. 
+ 
+ 
+ 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 12 av 23 
+5 
+Bassengkonsept 
+Bassengene K1-K12 er gruppert som beskrevet innledningsvis med speilvending utførelse for 
+hensiktsmessig påkobling mot tunnelsystem. Dette er illustrert i Figur 5. K2 og K4 deler her felles utløpsrise, 
+men har individuelle inn- og utløpsarrangement. K4 er tilsvarende koblet videre for felles innløpsrise med K6. 
+Hvert basseng har et effektivt produksjonsvolum på ca 22.000 m3 ved NN2000. Nøyaktig volum avhenger av 
+ønsket gjennomstrømming, samlet belasting på tunnelsystemet og ikke minst tidevannsnivå. Minimum 
+produksjonsvolum ved lavvann er 18.000 m3, mens maksimalt produksjonsvolum er 24.700 m3. Dersom 
+uønsket hendelse i anlegget eller når driftsoperasjoner krever det kan vannstand heves til maksimalt nivå. 
+Dette styres individuelt for hvert basseng. K0 har et noe større produksjonsvolum på ca 30.000 m3 ved 
+NN2000. Driftsvariasjonene i K0 ved integrasjon mot tunnel blir noe begrenset pga en svakere 
+glassfiberkonstruksjon med et foreløpig anslag på 27.000 – 31.000 m3. 
+Normal gjennomstrømming for alle basseng er 20.000 m3/t, hvorav K1-K12 er designet for å kunne øke opp 
+til 40.000 m3/t per basseng. Dette gir en laminær vannhastighet i bassengene på ca 1-2 cm/s. Vannutskiftet 
+på K0 tar ca 90 min, mens det på K1-K12 tar ca 30-60 min avhengig av produksjonsbelastning. 
+ 
+Figur 5 Områdeinndeling for røkting og drift av basseng. Bassengene er speilet annenhver for sammenkobling mot felles 
+inn- og utløpsrise. Smittesoner for hvert basseng i form av fysisk skille er vist i blått. Sentral del av midtrabben er nøytral 
+sone med tilgang til inn- og utløpsrise.  
+5.1 
+Funksjonsoppbygging og smittesoner i vannveien 
+Smittesoner er videreført ned i inn- og utløpskonstruksjonene slik at hele bassengkonstruksjonen kan 
+stenges av og rengjøres innenfor egen smittesone. Dette for ivaretakelse av teknisk drift og biosikkerhet. Alle 
+basseng er utformet med likeverdig biosikkerhetsnivå og slik at de kan «gå i frys» (dvs isoleres) over disse 
+smitteskillene. Grunnvannssystemet ivaretar samme inndeling. Dette er nærmere beskrevet under. 
+Figur 6 viser sammenkobling av basseng mot felles tunnelsystem, komponentinndeling og prinsipiell 
+gjennomstrømming for bassengkonseptet. De ulike komponentene er nærmere beskrevet i kapittel 6. 
+Laveste vannstand finner vi i innløpsrise. Dette skyldes trykkfall i innløpstunnel frem til pumper. Vannet 
+pumpes så opp i innløpskonstruksjonen som er høyeste nivå i anlegget. Herfra går vannet på selvfall via 
+paraboler og trykkfallsvegg for laminær strømning i basseng. Vannet forlater bassenget gjennom to 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 13 av 23 
+utløpssiler i bassengvegg. Herfra går vannet gjennom utløpskonstruksjonen til tre automatiserte terskler 
+(heretter kalt «munk») før det slippes ut i utløpsrise og videre til avløpstunnel. Munkene er automatisert og 
+kan brukes til å heve nivå i bassengene ved behov, f.eks. ved flytting av fisk uten fiskepumpe (heretter kalt 
+«flowing» av fisk). Munkene har også svært sentral biosikkerhetsfunksjon ved at den kan heves ved akutte 
+hendelser. Dette er nærmere beskrevet i kap. 6.4. Både inn- og utløp til rise er i tillegg utstyrt med 
+stengeluker i risevegg for isolering og nedtapping av basseng. Luker og munk er hydraulisk styrt med 
+trykkbank og fungerer uavhengig av strømutfall. Sammen ivaretar de biosikkerheten i vannveien ved å sette 
+berørte basseng kan «gå i frys». Dette sikrer at vannet aldri kan gå i retur og dermed forhindres eventuell 
+internsmitte mellom basseng.  
+Strømningen i bassenget er ensrettet og uniform fra innløp til utløp i bassengene. Prinsippet er de samme 
+som for K0. 
+ 
+Figur 6 Modellutsnittet viser sammenkobling av basseng mot felles tunnelsystem, komponentinndeling og prinsipiell flow i 
+basseng (blå piler). Vertikale smitteskiller er markert i rødt og markerer overgang til tunnel. Ved eventuelle hendelser er 
+vannstrømmen designet for å «gå i frys» i smitteskillet for ivaretakelse av biosikkerhet. Nivå er visualisert med 
+horisontale linjer (blå). Nivå og nivådifferanser vil avhenge av gjennomstrømmingsvolum. Prinsipiell utforming er 
+tilsvarende for K0 der det vil blir gjort teknisk tilpassing for integrasjon mot tunnel. 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 14 av 23 
+6 
+Hovedkomponenter 
+Under følger en kort beskrivelse av hovedkomponenter i vannveien. Alle komponenter med risiko for feil 
+følger prinsippet om n+1, dvs ett system kan til enhver tid tas ut av drift uten at det påvirker produksjonen i 
+bassenget. Dette inkluderer strømforsyning og styringssystem. 
+6.1 
+Innløpskonstruksjon 
+Inn- og utløpskonstruksjoner er gjerne omtalt som «tverrseksjoner». Disse har en pyramideformet 
+konstruksjon for å ivareta vanntrykk mellom basseng. Vertikalsnitt av innløpskonstruksjonen er vist i Figur 7, 
+horisontalsnitt i vist i Figur 8. Prinsippet er likt for inn- og utløpskonstruksjoner. Tverrseksjonene har lameller 
+for intern avstiving. Innvendig er strukturene normalt fylt med grunnvann (men er dimensjonert for å stå 
+uten). Grunnvannsnivå er koblet mot grunnvann for basseng og kontrolleres slik at det alltid ligger under fast 
+terskler (kt -0,95). Dette mht konstruksjons- og biosikkerhet. Ved normal drift har tverrseksjonene tilnærmet 
+likt vanntrykk fra hvert basseng, men tillater også ulikt vannivå mellom basseng. Endebasseng har ensidig 
+vanntrykk der horisontalkrefter føres til fjell. Ved rengjøring av ett basseng senkes grunnvannsnivå for 
+basseng med tilhørende tverrkonstruksjoner. Grunnvann pumpes til utløpsrise. Internfordeling mellom 
+aktuelle grunnvannssoner er ventilstyrt. 
+ 
+Figur 7 Vertikalsnitt av innløpskonstruksjon med strømningspiler og nivåangivelse ved normal drift. Vannivå i basseng vil 
+variere med tidevannet, mens grunnvannsnivå holdes konstant på kt. -1.0. Ved tømming av basseng, senkes 
+grunnvannsnivå i aktuelle basseng med tilhørende tverrseksjoner slik at grunnvannsnivå alltid holdes under nivå i 
+aktuelle basseng. 
+Figur 8 viser horisontalsnitt av innløpskonstruksjonen. Vann pumpes opp fra innløpsrise via pumpesystem (3 
+x 50% kapasitet). Grovrister sikrer at fremmedlegemer ikke suges inn i pumpene. Disse er trukket helt inn til 
+bassengvegg og montert flush med lukestengsel. Grovristene kan heises opp for rengjøring og reparasjon. 
+Tilhørende lukestengsel er da stengt. 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 15 av 23 
+ 
+Figur 8 Horisontalsnitt av innløpskonstruksjon med strømningspiler. Modellutsnittet viser endekonstruksjon i K2. 
+Grovrister er vist i gult med bakenforliggende lukestengsel (ikke synlig, løfteanordning vises). Hovedsirkulasjonspumper 
+(ikke synlig) er integrert nederst i vertikalt pumperør som vises på utsnittet. Servicetilgang fra topp. Fire paraboler og 
+trykkfallsvegg sørger for uniform og stempelrettet strømning i basseng. 
+Lukestengsel er hydraulisk styrt og kan heises opp på lik linje med grovsiler. Lukene kan operere under alle 
+driftsforhold. Hydraulisk akkumulatorbank sikrer stenging av innløp dersom havari, nettutfall eller annen 
+nødsituasjon. Dette sikrer at smittebærende bassengvann ikke kan strømme tilbake i tilførselstunnelen og 
+dermed overføres til annet basseng. 
+I motsetning til tradisjonelle utforming av landbaserte akvakulturanlegg, kan fisk her potensielt rømme ut 
+innløpet dersom svikt på første barriere. Innløpet er derfor utstyrt med hovedavløpssperre (heretter kalt 
+«HAS») i forlengelsen av pumperøret og ført opp til toppdekket. Total silareal er 49 m2 og dimensjonert for 
+full blokkering mot laveste tidevann. Se kap. 7 for nærmere beskrivelse av barrierefilosofi som ligger til grunn 
+for utforming og ivaretakelse av rømmingssikkerheten i anlegget. 
+Videre fordeles vannet ut til begge sider via terskler. Vannet går så via fire innløpsparaboler som bryter 
+retningspulsen kontrollert og gir en jevn spredning i trykkfallsrommet. Trykkfallsveggen sørger så for at 
+vannet får en uniform og ensrettet stempelbevegelse gjennom bassenget. 
+Inntakskonstruksjonen er mørklagt med toppdekker i betong av hensyn til begroing og biosikkerhet. Dekket 
+har tilkomst i form av luker. Innvendige overflater pusset og tilrettelagt for vask og desinfisering. Teknisk 
+utstyr kan inspiseres fra topp og heises ut ved behov. 
+Tekniske komponenter i innløpsarrangementet er vist i Figur 9. 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 16 av 23 
+ 
+Figur 9 Vertikalsnitt av innløpskonstruksjon for visualisering av tekniske komponenter. 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 17 av 23 
+ 
+6.2 
+Trykkfallsvegg  
+Trykkfallsveggen er vist i Figur 9. Denne er utformet av hullplater i polyetylen1. Bærende konstruksjon er 
+utformet i syrefast stål med offeranoder i sink. Bærende konstruksjon er plassert på innløpssiden og avstives 
+mot tverrseksjon. Fremsiden som vender mot fisk er tilnærmet slett. Trykkfallsveggen har et totalt areal på 
+588 m2. Trykkfall over denne er knapt målbart, men tilstrekkelig for å gi et uniformt strømningsbilde. 
+Trykkfallsveggen er tilrettelagt for rengjøring med ROV fra begge sider, hvorav trykkfallsrommet har tilkomst 
+via luker i topp. Det etableres dør i trykkfallsvegg for tilkomst ved nedvask av basseng. Dør er del av 
+trykkfallsvegg og monteres flush med trykkfallsveggen og med inngang fra bassenggulv. 
+6.3 
+Basseng 
+Bassengveggene er satt sammen av veggelementer i betong som bygges på stedet. Overflaten som vender 
+inn mot bassenget består av UHPFRC-betong2 som gjør den helt glatt og meget godt egnet mht renhold og 
+biosikkerhet. Det er ikke behov for ytterligere overflatebehandling i løpet av bassengets normerte levetid. 
+Tetting mellom element og plasstøpt betong følger spesifikke krav, samtidig som grunnvannsnivå alltid 
+holdes under nivå i basseng og tilstøtende tverrkonstruksjoner slik at eventuell lekkasje alltid vil gå ut av 
+basseng. Betongelementene har støttestag mot fjell og tillater en overhøyde i basseng på fire meter. 
+Bassenggulvet er utført i stålglatta betong. 
+6.4 
+Utløpskonstruksjon 
+Utløpskonstruksjon har samme pyramideformet konstruksjonsoppbygging som innløpskonstruksjon. 
+Vannbalansen styres etter samme prinsipp. Modellutsnitt av utløpskonstruksjonen er vist i Figur 10. 
+ 
+1 Materiale: PEHD1000, tykkelse 20 mm. PE er et plastmateriale som er mye brukt innen oppdrett (rør, kar, 
+merd, osv). HD står for High Density som er gir en stiv plate. 
+2 «Ultra High Performance Firber Reinforced Concrete» er en ekstremt trykkfast betong som gir en 
+glassaktig overflate inn mot bassenget 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 18 av 23 
+ 
+Figur 10 Modellutsnitt av utløpskonstruksjonen med strømningspiler. 
+Vannstrømmen fra bassenget ledes ut gjennom to store utløpssiler montert i bassengvegg. Totalt silareal per 
+basseng er 136 m2. Dette er en vesentlig oppgradering mot K0 som har et samlet silareal på 21 m2 som 
+derfor sikrer et mer robust design. Utløpssiler etableres i form av hullplater i overmalt syrefaste stål og sink-
+anoder for korrosjonsbeskyttelse. Bærende konstruksjon etableres på utløpssiden og avstives mot 
+tverrseksjon. Fremsiden som vender mot fisk er tilnærmet slett. 
+Vannet ledes fra begge sider over tilsvarende terskler som for innløpskonstruksjon (kt -0,95). I senter av 
+utløpskonstruksjon er det etablert en munk-løsning (3 stk) som kan heves og dermed strupe utløp som 
+beskrevet innledningsvis i kap. 5.1. Munkene er automatisert og er hydraulisk styrt med akkumulatorbank. 
+Ved flowing av fisk, før nedtapping av basseng, ved nettutfall eller andre akutte hendelser heves munkene 
+for struping eller stans av utløp mot avløpstunnel. Dette sikrer også at smittebærende avløpsvann ikke kan 
+strømme tilbake og inn i bassenget. Munkene er montert på horisontalt betongdekke som skiller 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 19 av 23 
+munkrommet fra avløpsrommet under. Horisontaldekket er dimensjonert for fullt basseng mot laveste 
+tidevann.  
+Dersom svikt i utløpssiler vil fisk havne i utløpskonstruksjon. HAS er montert som utenpåliggende kappe 
+rundt munker i from av hullplate i syrefast stål med offeranode. HAS er fastmontert og ført opp til 
+overliggende toppdekket. Total silareal er 57 m2 og dimensjonert for full blokkering mot laveste tidevann. Se 
+kap. 7 for nærmere beskrivelse av barrierefilosofi som ligger til grunn for utforming og ivaretakelse av 
+rømmingssikkerheten i anlegget. 
+Lukestengsel (1 stk) er hydraulisk styrt og kan heises opp for rengjøring ettersyn. Dette er på lik linje med 
+innløpsluker. Lukestengselet kan opereres ved differansenivå inntil 1 meter og stenger sekundært etter 
+munk ved behov. Utløpsluke brukes for «varig» avstenging mot utløpstunnel.  
+Utløpskonstruksjonen er mørklagt med toppdekker i betong av hensyn til begroing og biosikkerhet. Dekket 
+har tilkomst i form av luker. Innvendige overflater pusset og tilrettelagt for vask og desinfisering. Teknisk 
+utstyr kan inspiseres fra topp og heises ut ved behov. 
+Tekniske komponenter i utløpsarrangement er vist i Figur 11. 
+ 
+Figur 11 Vertikalsnitt av munk for overstyring av nivå i basseng. Munker er automatisert og har hydraulisk styring med 
+akkumulatorbank. Ved flowing av fisk vi nivået styres mot tidevannsnivå i mottakerbasseng for å sikre jevn hastighet ved 
+fiskeforlytning. Utenpåliggende HAS er fastmontert og ført opp til toppdekket. 
+6.5 
+Integrasjon mot K0 
+K0 skal tilknyttes nytt tunnelsystem for felles vannforsyning. Det etableres egen inn- og avløpsrise for K0 
+med ny inntak- og avløpskum. Vannbalansen i K0 videreføres. Det etableres ny HAS i inn- og 
+avløpsarrangement. Både inn- og avløpsarrangement har i dag mulighet for isolering av basseng. 
+K0 har en svakere konstruksjon enn K1-K12 og nødvendig prosesstilpassing ivaretas i inn- og 
+utløpsarrangement. K0 prosjekteres med tilsvarende prosess- og biosikkerhet som K1-K12. 
+Pumpekum for uttak av rent prosessvann til hele anlegget etableres i ny inntakskum for K0. 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 20 av 23 
+ 
+ 
+Figur 12 K0 integreres mot nytt tunnelsystem. Det etableres nytt inn- og utløpsarrangement med egen kum for uttak av 
+prosessvann til anlegget. 
+ 
+6.6 
+Materialkvalitet 
+Anlegget (K1-K12) dimensjoneres med en forventet levetid på 100 år. Det aksepteres kortere levetid for 
+teknisk utstyr som kan skiftes ut. 
+Alle betongoverflater som er i berøring med fisk har en glattpolert sluttfinish som beskrevet i kap 6.3. Disse 
+overflatene er godt egnet for rengjøring med robot i drift. Inn- og utløpskonstruksjonene har ikke samme 
+sluttfinish, men også disse gjøres slette for manuell rengjøring ved nedvask.  
+Innstøpingsgods for innfesting av teknisk utstyr utføres i normal støpejernskvalitet. Stålet males og påføres 
+sinkanoder for korrosjonsbeskyttelse. Oppfølgingsprogram for maling, samt ettersyn og utskifting av 
+sinkanoder blir del av driftsprogrammet. Det har vært gjort en grundig vurdering av matkvalitet for de ulike 
+komponentene og dette vurderes som den beste (og samtidig rimeligste) løsningen for de komponenter som 
+er dykket til enhver tid.  
+For komponenter som periodevis er over vann benyttes syrefast stål med sinkanoder. Sink krever kontakt 
+med vann for korrosjonsbeskyttelse. Silflater er eksempler på dette.  
+Konstruksjoner hvor det ikke er ønskelig med sinkanoder utføres i duplex kvalitet. 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 21 av 23 
+7 
+Barrierefilosofi 
+Plikt til å forebygge- og begrense rømming er forankret i FOR-2008-06-17-822 Akvakulturdriftsforskriften 
+§37. Forskriften stiller krav til risikobasert drift og teknisk tilstand. Krav til rømmingsteknisk tilstand skal 
+dokumenteres. Forskriften er funksjonsbasert og åpen for innovasjon. 
+Norconsult er «prosjekterende foretak» etter FOR-2017-06-19-941 Forskrift om krav til teknisk standard for 
+landbaserte akvakulturanlegg for fisk. Forskriften pålegger at anlegget prosjekteres, utformes og driftes i 
+henhold til NS 9416:2013 med videre henvisninger relevante fagspesifikke standarder. Teknisk utforming av 
+anlegget er i samsvar med dette. Under følger en redegjørelse for overordnet rømmingsteknisk utforming av 
+anlegget.  
+Det bemerkes at NS 9416:2013 for tiden er til revisjon. Tilnærmingen i gjeldende standard vurderes som 
+utdatert og mangelfull for et akvakulturanlegg av denne størrelsen og etter dagens teknologistandard. Krav i 
+standard er også delvis i konflikt med krav fra andre myndigheter, f.eks. Mattilsynet. Norconsult deltar i dette 
+revisjonsarbeidet. Der hvor forskrift og standard vurderes mangelfull gjør Norconsult en faglig vurdering av 
+om valgte løsning er likeverdig eller bedre enn den funksjonsbaserte intensjonen i forskrift. I tillegg vurderes 
+valgte løsning opp mot hva som må forventes av endringer i ny standard. Tilnærming dokumenteres som 
+«beste praksis» i prosjektet.  
+Som beskrevet innledningsvis er det gjort en grundig gjennomgang av regelverk for akvakulturanlegg. 
+Hensikten med dette arbeidet er å kunne harmonisering alle myndighetskrav opp mot Andfjord konseptet. 
+Barrierefilosofien ble etablert tidlig i konseptfasen hvorav det ble gjort en rekke bevisste valg for å sikre en 
+robust- og kostnadseffektiv prosessintegrasjon av barrierer i anlegget. 
+7.1 
+Prosessdiagram og overordnet tilnærming 
+Prosessdiagram inngår i rømmingsteknisk dokumentasjon av anlegget. Prosessdiagram for K1-K12 er vist i 
+Figur 13 for illustrasjon. Rømmingstekniske barrierer er markert i rosa og angitt med (1) og (2) for 
+henholdsvis første og andre barriere. Andre barriere dimensjoneres og dokumenteres som 
+hovedavløpssperre (HAS). Der hvor andre barriere utgjør eneste barriere mot sjø, skal denne dokumenteres 
+som likeverdig eller bedre enn to barrierer jf. krav i Akvakulturdriftsforskriften §37.3 
+Inndeling av «sikkert område» for Andfjord Salmon avd. Kvalnes defineres som følger: 
+• 
+Sikkert område defineres som innenfor områdesikring på produksjonsområdet. Dette er likt for K0 og 
+K1-K12. Innenfor områdesikring skal Drift kunne jobbe fritt uten prosedyrer for rømmingssikring. 
+• 
+Området utenfor områdesikring defineres som usikret område. Her skal det foreligge prosedyrer for 
+som ivaretar rømmingssikkerheten. Dette inkluderer uteområdet med fiskelogistikkum (1 stk), 
+hubområdet, havnekai og leveringssystem generelt. 
+ 
+3 Akvakulturdriftsforskriften §37: «(…) Landbasert akvakulturanlegg skal ha egnet innretning for å hindre at 
+fisk rømmer gjennom avløpet eller på annen måte. Innretningen skal minimum bestå av en dobbel sikring 
+eller annen likeverdig rømmingssikring. Det må kunne dokumenteres at annen likeverdig rømmingssikring er 
+minst like rømmingshindrende som dobbelt sikring. (…)» 
+ 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 22 av 23 
+ 
+Figur 13 Prosessdiagram for K1-K12 viser prosessflyten gjennom bassengene. Nivåer er her illustrert for tydelig å vise 
+vannflyten gjennom systemet. I praksis vil nivåforskjellene være langt mindre enn vist i figuren. Rømmingstekniske 
+barrierer er markert i rosa og angitt med (1) og (2) for henholdsvis første og andre barriere. Diffuse linjer viser 
+prosessflyt, men går ikke fysisk gjennom angitt konstruksjon. Grunnvanssystemet viser prinsipp, men utlikningsventiler 
+ligger i realiteten over pukklaget. 
+7.2 
+Første barriere 
+Første barriere er de som fisken kan komme i kontakt med i normal drift. I bassengene er trykkfallsvegg og 
+utløpssiler definert som første barriere. For fisketransportsystemet er hele systemet definert som første 
+barriere. 
+7.3 
+Andre barriere 
+Som beskrevet kapittel 6 er både inn- og utløpskonstruksjoner for dette anlegget sikret med egne 
+hovedavløpssperrer (HAS). Dette fordi fisk potensielt kan rømme ut i begge retninger dersom feil på første 
+barriere. Videre er alle prosessavløp med fare for rømming sikret med HAS. Sikring av prosessavløp følger 
+tradisjonell tilnærming. 
+Innenfor områdesikring skal det kunne jobbes fritt uten bruk av prosedyrer for rømmingssikring. Alle 
+slukavøp (drenssystem) går derfor via hovedavløpssperre (HAS) før de pumpes videre til utløpsrise. I tillegg 
+Teknisk beskrivelse 
+ 
+Oppdragsnr.: 52100604   Dokumentnr.: Andfjord Salmon   Versjon: E01 
+ 
+ 
+2024-06-21  |  Side 23 av 23 
+ivaretar alle slukrister innenfor sikret område rømmingskravet. Dette er ikke et spesifikt krav ettersom utstyret 
+ivaretar første barrierekrav og HAS ivaretar rømmingssikring. Derimot er den ekstra sikring med to formål: 
+1) Mattilsynet stiller velferdskrav til håndtering og avliving av fisk. Slukrist som tilfredsstiller 
+barrierekravet sørger for at fisken ikke kan komme ned i drenssystemet.  
+2) Dersom hovedavløpssperre må tas ut av drift pga reparasjon ivaretar slukrister krav til 
+sekundærbarriere. Uttak av HAS kan derfor gjøres uten omfattende prosedyrer utover å påse at 
+slukrister er på plass. 
+7.4 
+Barrierer som dimensjoneres likeverdig eller bedre enn to barrierer 
+Bassengkonstruksjon etableres i armert betong. Denne kan potensielt overbelastes og gå i brudd, men det 
+gir ingen fare for rømming. Dette er i tråd avklaring fra Fiskeridirektoratet gitt at det ikke foreligger 
+omkringliggende faktorer som øker risikoen for rømming. Foreløpig vurdering tilsier at kravet er møtt. 
+Dersom det i senere risikoanalyser fremkommer økt risiko for rømming vil det blir etablert prosedyrer for 
+ivaretakelse av rømmingssikkerhet ved slik aktivitet. 
+Adkomstluke til avløpstunnel dimensjoneres og monteres som eneste barriere til sjø. Dette er nødvendig for 
+tilkomst og rengjøring av utløpskammer mht drift og biosikkerhet. Luke blir derfor fastmontert med bolter 
+langs ytterkant og ramme er innstøpt i betong. Periodisk inspeksjon med ROV i drift og vedlikeholdsprogram 
+vil bli etablert. Eventuell justering vil bli fulgt opp i senere risikoanalyser. 
+Kumlokk i bassengbunn for trykksikring mot grunnvann. Ved normal drift vil det alltid være overtrykk i 
+basseng og funksjon er kun knyttet til feil ved nedtapping eller fylling av basseng. Under kummen er det 
+pukk. Utførelse vurderes som likeverdig eller bedre enn to barrierer. Eventuelle tiltak vil bli fulgt opp i senere 
+risikoanalyser.

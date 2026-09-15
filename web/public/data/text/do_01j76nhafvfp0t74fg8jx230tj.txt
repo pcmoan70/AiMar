@@ -1,0 +1,93 @@
+﻿<root> 
+<avsender> 
+<adresselinje1>Àvjovárgeaidnu 50</adresselinje1> 
+<adresselinje2> 
+</adresselinje2> 
+<adresselinje3> 
+</adresselinje3> 
+<navn>Samediggi/Sametinget</navn> 
+<poststed>KARASJOK</poststed> 
+<postnr>9730</postnr> 
+</avsender> 
+<mottaker> 
+<adresse1>Myndighet</adresse1> 
+<adresse2>Postboks 117</adresse2> 
+<adresse3> 
+</adresse3> 
+<postnr>8401</postnr> 
+<poststed>SORTLAND</poststed> 
+<navn>Sortland kommune</navn> 
+<land> 
+</land> 
+<orgnr>847737492</orgnr> 
+</mottaker> 
+<id>348327ac-b2fc-4700-bbcf-ea188340e24f</id> 
+<tittel>Vedrørende søknad om ny lokalitet Kinnholmen i Sortland 
+kommune</tittel> 
+<date>1709718879376</date> 
+<dateFormatert>2024-03-06T09:54:39</dateFormatert> 
+<metadataFraAvleverendeSystem> 
+<sakssekvensnummer>418</sakssekvensnummer> 
+<saksaar>2024</saksaar> 
+<journalaar>2024</journalaar> 
+<journalsekvensnummer>6893</journalsekvensnummer> 
+<journalpostnummer>2</journalpostnummer> 
+<journalposttype>U</journalposttype> 
+<journalstatus>J</journalstatus> 
+<journaldato>1707346800000</journaldato> 
+<journaldatoFormatert>2024-02-07T23:00:00</journaldatoFormatert> 
+<dokumentetsDato>1707346800000</dokumentetsDato> 
+<dokumentetsDatoFormatert>2024-02-
+07T23:00:00</dokumentetsDatoFormatert> 
+<tittel>Vedrørende søknad om ny lokalitet Kinnholmen i Sortland 
+kommune</tittel> 
+<saksBehandler>Elina Hakala</saksBehandler> 
+</metadataFraAvleverendeSystem> 
+<metadataForImport> 
+<sakssekvensnummer>0</sakssekvensnummer> 
+<saksaar>0</saksaar> 
+<journalposttype /> 
+<journalstatus /> 
+<dokumentetsDato /> 
+<tittel /> 
+<mappeId /> 
+<systemId /> 
+<registreringsId /> 
+</metadataForImport> 
+<status>Klar for mottak</status> 
+<niva>3</niva> 
+<filmetadata> 
+<filnavn>Vedrørende søknad om ny lokalitet Kinnholmen i Sortland 
+kommune.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>79ccbf6d3e22b7ce9803df4b2ea3535a28c276f1fcc7148a7e386e5a11
+919271</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>95985</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>AcosSvarInn.xml</filnavn> 
+<mimetype>text/xml</mimetype> 
+</filmetadata> 
+<svarSendesTil> 
+<adresse1>Àvjovárgeaidnu 50</adresse1> 
+<adresse2> 
+</adresse2> 
+<adresse3> 
+</adresse3> 
+<postnr>9730</postnr> 
+<poststed>KARASJOK</poststed> 
+<navn>Samediggi/Sametinget</navn> 
+<land /> 
+<orgnr>974760347</orgnr> 
+<fnr /> 
+</svarSendesTil> 
+<svarPaForsendelse /> 
+<forsendelseType /> 
+<eksternRef /> 
+<downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/348327ac
+-b2fc-4700-bbcf-ea188340e24f</downloadUrl> 
+<avgivendeSystem>ACOS WEBSAK+</avgivendeSystem> 
+<taushetsbelagtPost>false</taushetsbelagtPost> 
+</root>

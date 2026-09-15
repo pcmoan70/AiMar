@@ -1,0 +1,2263 @@
+﻿Framsenteret | Postboks 6066 Stakkevollan | 9296 Tromsø | +47 777 50 300 | www.akvaplan.niva.no
+Visuell kartlegging av forvaltningsrelevante arter og 
+naturtyper ved Kinnholmen, Sortland kommune.
+Akvaplan-niva AS Rapport: 2023 64846.01
+Visuell kartlegging av forvaltningsrelevante arter og naturtyper ved 
+Kinnholmen, Sortland kommune. 
+Forfatter(e)
+Carl Ballantine
+Dato
+26.06.2023
+Rapport nr.
+2023 64846.01
+Antall sider
+38
+Distribusjon
+Gjennom kunden
+Kunde
+Eidsfjord Sjøfarm AS
+Kontaktperson
+Ragnhild Schistad Berg
+Sammendrag
+Denne ROV-kartleggingen dekket grunt- og dypt-vannsområder (22 - 108 m) med en total 
+transektlengde på omtrent 15 km. Hard- og blandingsbunn dominerer i store deler av 
+kartleggingsområdet, mens mudderbunn med innslag av sand og grus finnes i den dypeste delen 
+og rett under den planlagte anleggsrammen. 
+Tare
+med dekningsgrad opp til 40–79
+% ble registrert i det grunneste området av 
+kartleggingsarealet på et undersjøisk skjær ca. 750 m nordøst for den planlagte anleggsrammen. 
+Størrelse av tareindivider, farge og mangel på epifytter indikerer at tareforekomstene er i tidlig 
+vekstfase. Det var heller ingen tegn til kråkebollebeite.
+Tre blomkålkoraller av arten Duva florida ble registrert ca. 1 km nordvest (et individ) og sørøst (to 
+individer) fra den planlagte anleggsrammen. 
+Svamper er til stede langs alle transektene, men fortrinnsvis i områder dominert av hardsubstrat.
+Under og i nærsonen av den planlagte anleggsrammen dominerer mudderbunn og derfor finnes 
+det kun få svamper. De fleste svampene tilhørte morftypene "Tynn vifteformet, traktformet" og 
+"Massiv, rundt, tjukk skålformet, porøs bulkformet".
+Sjøfjær opptrådte fortrinnsvis på mudderbunn, dvs. dominerte i dypområdet rett under det 
+planlagte anleggsrammen. Det ble totalt registrert tre arter: Pennatula aculeata, liten piperenser 
+(Virgularia mirabilis) og Stylatula elegans. 
+Godkjenninger
+Rosalyn Fredriksen
+Rune Palerud 
+Prosjektleder
+Kvalitetskontroll rapport
+ 
+Akvaplan-niva 2023 64846.01 
+Side 3 av 38 
+Innholdsfortegnelse 
+FORORD ....................................................................................................................... 4 
+1 
+INNLEDNING ......................................................................................................... 5 
+1.1 
+Formål med ROV-undersøkelse ........................................................................ 5 
+1.1.1 Krav om visuell undersøkelse grunnet ny lokalitet ............................................. 5 
+1.1.2 Plassering av ROV-transekter ........................................................................... 6 
+1.2 
+Forvaltningsrelevante arter og naturtyper ......................................................... 8 
+1.2.1 Tare ............................................................................................................... 9 
+1.2.2 Koraller ........................................................................................................ 10 
+1.2.3 Svamper ....................................................................................................... 11 
+1.2.4 Sjøfjær .......................................................................................................... 12 
+2 
+METODIKK .......................................................................................................... 14 
+2.1 
+Utstyr og loggingssystem ................................................................................ 14 
+2.2 
+Metodikk for registrering av biota og bunnsubstrat .......................................... 15 
+2.3 
+Utfordringer med ROV-kartlegging ................................................................. 16 
+3 
+RESULTATER ....................................................................................................... 17 
+3.1 
+Bunnsubstrater ved lokaliteten ....................................................................... 17 
+3.2 
+Observasjoner av forvaltningsrelevante arter og naturtyper .............................. 19 
+3.2.1 Tare ............................................................................................................. 19 
+3.2.2 Koraller ........................................................................................................ 21 
+3.2.3 Svamper ....................................................................................................... 22 
+3.2.4 Sjøfjær .......................................................................................................... 25 
+3.3 
+Relativ tetthet av bunnfauna ........................................................................... 27 
+4 
+OPPSUMMERING ................................................................................................. 28 
+5 
+LITTERATURLISTE ............................................................................................... 29 
+6 
+VEDLEGG ............................................................................................................ 32 
+6.1 
+Antall registreringer for hvert transekt (50m oppløsning) ................................. 32 
+6.2 
+Illustrasjoner av registrerte bunnsubstrat ........................................................ 36 
+6.3 
+Illustrasjoner av arter som ikke er forvaltningsrelevante .................................. 38 
+ 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 4 av 38 
+Forord 
+Akvaplan-niva ble engasjert av Eidsfjord Sjøfarm AS som ekstern aktør med marinbiologisk 
+kompetanse til å utføre visuell kartlegging av mulig forekomst av sårbart naturmangfold ved 
+en ny lokalitet Kinnholmen i Sortland kommune. Undersøkelsen ble gjennomført ved hjelp 
+av ROV (Remotely Operated Vehicle) og dekker både grunt og dypt vann. 
+Planlegging og gjennomføring av ROV-kartlegging følger hovedsakelig forslag til metode for 
+kartlegging av sårbare naturtyper på dypt og på grunt vann (Kutti og Husa, 2021; Husa og 
+Kutti, 2022), samt forslag til kartleggingsmetodikk fra Fiskeri- og Miljødirektoratet (2022). 
+Selve forslaget inneholder også en liste over arter og naturtyper som har forvaltningsmessige 
+relevans og bør kartlegges. De omfatter arter og naturtyper som er truede eller nær truede 
+(CR, EN, VU og NT i Norsk Rødliste (Artsdatabanken, 2018 & 2021)), dårlig kartlagt (DD i Norsk 
+Rødliste (Artsdatabanken, 2018 & 2021)) i tillegg til naturtyper med viktig økologisk funksjon 
+og internasjonale forpliktelser. I henhold til Fiskeri- og Miljødirektoratet (2022) presenterer 
+foreliggende rapport funn av enkelte arter som er av forvaltningsmessig interesse og arter 
+som kan danne relevante naturtyper på grunt og dypt vann. Resultatene skal gi myndighetene 
+grunnlag til å foreta vurderinger om lokalitetens egnethet for akvakulturvirksomhet. 
+ 
+Undersøkelsen inngår som et supplement i søknad til virksomhet etter forurensningsloven, 
+der Statsforvalter som sektormyndighet har bedt om denne type undersøkelse.  
+ 
+Følgende personer har deltatt i prosjektet:   
+Rosalyn Fredriksen
+Akvaplan-niva AS 
+Prosjektleder, planlegging og koordinering.
+Astrid Harendza
+Planlegging, koordinering og kvalitetssikring. 
+Carl Ballantine
+Feltarbeid og rapportering.
+Jesper Hansen
+Kartgrafikk og rapportering.
+Morten Thorstensen 
+Teknisk oppsett.
+Rune Palerud
+Kvalitetssikring av rapport.
+  
+Akvaplan-niva vil takke Eidsfjord Sjøfarm AS og Ragnhild Schistad Berg for oppdraget og godt 
+samarbeid. Vi ønsker også å takke mannskapet på AQS Namdal for hjelpen under toktet.  
+ 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 5 av 38 
+1 Innledning 
+1.1 Formål med ROV-undersøkelse 
+1.1.1 Krav om visuell undersøkelse grunnet ny lokalitet 
+Eidsfjord Sjøfarm AS ønsker å starte produksjon ved den nye lokaliteten Kinnholmen i 
+Sortland kommune, Nordland fylke (Figur 1). Det har ikke vært produksjon i området før, 
+men det skal søkes om MTB på 4000 tonn. 
+I desember 2022 publiserte Fiskeridirektoratet og Miljødirektoratet et nytt forslag til 
+kartleggingsmetodikk av sårbare habitater og arter i forbindelse med akvakultursøknader i 
+sjø 
+(Fiskeri- 
+og 
+Miljødirektoratet 
+2022). 
+Forslaget 
+er 
+bestilt 
+av 
+Nærings- 
+og 
+fiskeridepartementet og Klima- og miljødepartementet og baserer seg på faglige råd fra 
+Havforskningsinstituttet (Kutti & Husa 2021; Husa & Kutti 2022). Fra forvaltningens side er 
+det et ønske at man på et tidlig stadium får kunnskap om akvakulturvirksomhet kommer i 
+konflikt med sårbare arter og naturtyper, slik at dette kan unngås. Visuell kartlegging inngår 
+dermed som et supplement i søknaden til ny lokalitet.  
+ 
+ 
+Figur 1. Oversiktskart over plassering av den nye lokaliteten Kinnholmen (stjern) i Sortland kommune, Nordland 
+fylke. Oppdrettsanleggene er markert med lokalitetsnummer og navn. Kart fra Fiskeridirektoratet 
+(www.fiskeridir.no), (målestokk 1:160 000 er ved utskrift av kart på liggende A4-format). Kartet er nordlig 
+orientert. 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 6 av 38 
+1.1.2 Plassering av ROV-transekter 
+Akvaplan-niva har foreslått et program for visuell kartlegging ved bruk av ROV ved 
+Kinnholmen. Det har ikke vært utført bunnkartlegging på lokaliteten og derfor foreligger det 
+ingen høyoppløst bunndata. På grunn av dette har planlegging hovedsakelig blitt gjennomført 
+på basis av offentlig tilgjengelig dybdedata og strømdata (Holen, 2022). Naturbasen viser 
+ingen observasjoner av sårbare arter og/eller naturtyper ved det planlagte anleggsområdet. 
+Lokaliteten Kinnholmen er tenkt plassert over en renne på sørvestlig side innerst i 
+Andfjorden i Sortland kommune, midt mellom Sandnesbogen og Kinnholmen. Anlegget er 
+planlagt å ligge over ca. 100 m dyp langs land. Bunnen under anlegget er relativt flat. Offentlig 
+tilgjengelig dybdedata viser ingen bratte skråninger under eller rundt anlegget. Dybdene 
+innenfor 1000 m rundt anlegget varierer fra 20 til 100 meter.  
+Resultatene fra strømmåling på 75 meters dyp (spredningsstrøm) viser hovedstrømretning 
+mot nordvest (315 grader) og sørøst (135 - 150 grader) (Holen, 2022). I henhold til veilederen 
+fra Fiskeri- og Miljødirektoratet (2022) er det derfor valgt å systematisk kartlegge et område 
+som strekker seg 1000 m fra anleggsrammen i både nordvestlig og sørøstlig retning. I 
+anleggssonen ble det valgt å legge transekter på linje med anlegget innenfor 500 meters 
+buffersone. Transektplasseringene er basert på Havforskningsinstituttet sitt forslag til 
+metode for kartlegging av sårbare arter og naturtyper ved nye akvakultur anlegg (Kutti og 
+Husa, 2021).  
+Figur 2 viser plassering av de planlagte transektene, mens Tabell 1 viser lengden (m) på de 
+ulike transektene. 
+ 
+Transektene dekker en total strekning på 14 784 m (2D), fordelt på 14 transekter.  
+ 
+Statsforvalter hadde ingen anmerkninger til planen ved kontakt den 05.04.2023. 
+ 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 7 av 38 
+ 
+Figur 2. Kart over lokaliteten Kinnholmen sammen med planlagte transekter. Det er tegnet inn buffersoner på 
+250 m, 500 m og 1000 meter avstand fra anleggsramme. Tilgjengelig bunndata på lokaliteten er tegnet inn med 
+dybdekoter. Strømrosett i venstre side viser hovedstrømretning på 75 m (spredningsdyp) (Holen, 2022). 
+Tabell 1. Lengden (m) på hvert transekt ved Kinnholmen 
+Transekt 
+Lengde (m) 
+1 
+1351 
+2 
+1235 
+3 
+1078 
+4 
+1001 
+5 
+751 
+6 
+917 
+7 
+1011 
+8 
+1000 
+9
+943
+10
+869
+11
+889
+12 
+931 
+13 
+1314 
+14 
+1494 
+Totalt 
+14784 
+ 
+ 
+ 
+Akvaplan-niva 2023 64846.01
+Side 8 av 38
+1.2 Forvaltningsrelevante arter og naturtyper
+Forvaltningsprioriterte marine naturenheter omfatter arter og naturtyper som er truede, nær 
+truede (CR, EN, VU og NT i Norsk Rødliste (Artsdatabanken, 2018 & 2021)) eller dårlig kartlagt 
+(DD i Norsk Rødliste (Artsdatabanken, 2018 & 2021)), samt naturtyper med viktig økologisk 
+funksjon
+(f.eks. oppvekst-, leve-, og/eller reproduksjonsområde) og
+på grunn av 
+internasjonale forpliktelser (Bekkby m.fl. 2021). 
+Norske Rødlister gir en oversikt over arter (Artsdatabanken, 2018 & 2021) og naturtyper 
+(Artsdatabanken 2018) som har en risiko for å forsvinne fra Norge. Artene og naturtyper blir 
+vurdert og deretter gruppert og rangert i ulike kategorier (Figur 3). Hver kategori sier noe om 
+hvor høy risikoen er for at arten eller naturtypen går tapt hvis de rådende forhold vedvarer
+(se Tabell 2). Rødlista er inndelt i seks kategorier: regionalt utdødd (RE), kritisk truet (CR), 
+sterkt truet (EN), sårbar (VU), nær truet (NT) og datamangel (DD). De øvrige kategoriene 
+(livskraftig (LC), ikke egnet (NA) og ikke vurdert (NE)) inngår ikke i rødlista. Rødlistvurdering 
+er basert på et kriteriesett som muliggjør å kvantifisere utvikling av populasjonsstørrelse 
+(arter) og områdedekning (naturtyper) over tid. Vanligvis er det en kombinasjon av flere 
+faktorer som fører til at en art og/eller naturtype står på rødlista. Artens og naturtypens 
+sårbarhet, dvs. evne til å tåle menneskelige aktivitet eller endringer i miljøforholdene, samt 
+evne til å restituere etter påvirkning/endring, er en nøkkelfaktor som vurderes. 
+Figur 3. Kategorier i Norsk rødliste for arter og naturtyper (Artsdatabanken 2021; 2018).
+Tabell 2. Oversikt over definisjoner av rødlistekategorier, der kategoriene kritisk truet til sårbar er definert som 
+truede arter (og habitat) (Artsdatabanken 2018; 2021).
+RE
+Regionalt utdødd
+Skal brukes dersom det er svært liten tvil om at arten er utdødd fra Norge.
+CR
+Kritisk truet
+Skal brukes når det er ekstremt høy risiko for utdøing (50 % sannsynlighet for utdøing innen 3 
+generasjoner eller 10 år – maksimalt 100 år).
+EN
+Sterkt truet
+Skal brukes når det er svært høy risiko for utdøing (20 % sannsynlighet for utdøing innen 5 
+generasjoner eller 20 år – maksimalt 100 år).
+VU
+Sårbar
+Skal brukes når det er høy risiko for utdøing (10 % sannsynlighet for utdøing innen 100 år).
+NT
+Nær truet
+Brukes når en art er vurdert å ligge tett opp til å kvalifisere til CR, EN eller VU, eller trolig vil det i 
+nær framtid (5 % sannsynlighet for utdøing innen 100 år).
+DD
+Datamangel
+Brukes i begrenset omfang og signaliserer at det kreves mer kunnskap før kategori kan 
+fastsettes. Kategorien DD benyttes der usikkerhet om artens korrekte kategoriplassering er 
+svært stor og klart inkluderer hele spekteret av mulige kategorier fra og med CR til og med LC.
+Oslo-Paris-konvensjonen (OSPAR) om vern av det marine miljø i Nordøst-Atlanteren, er en 
+juridisk bindende internasjonal avtale som Norge har inngått (OSPAR 2010a, §24; OSPAR 
+2010b, Part II §1.2c). OSPAR deler Nordøst-Atlanteren inn i 5 regioner (I, II, III, IV og V). 
+Innenfor de ulike regionene utføres det individuelle vurderinger av vern til 
+forvaltningsrelevante naturtyper. Disse vurderingene blir gjort ut ifra de ulike regionenes 
+aktuelle trusler (både fra menneskelig og klimatiske forhold). Dette gjør at de forskjellige 
+naturtypene i OSPAR ofte har ulik verneverdi i de ulike regionene. Gjennom OSPAR 
+anerkjenner Norge et ansvar for å beskytte visse sårbare marine naturtyper i norske farvann 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 9 av 38 
+(region I og II) (OSPAR 2008a, b). Noen av disse naturtyper er inkludert i Norsk Rødliste 
+(Artsdatabanken, 2018), andre er bare beskyttet under OSPAR avtalen.  
+Miljømyndighetene legger Naturmangfoldloven (2009) § 9 om "føre-var-prinsippet" til grunn 
+der kunnskapsgrunnlaget (Naturmangfoldloven 2009, § 8) for naturenheter bør styrkes. Dette 
+for å minimere faren for irreversibel skade på forvaltningsrelevante arter og naturtyper. 
+Kunnskapsstatusen om utbredelse av forvaltningsrelevante marine naturenheter langs 
+norskekysten er per dags dato mangelfull, da det er store områder som ikke er tilstrekkelig 
+kartlagt. Kartlegging av de utvalgte arter og naturtyper (Fiskeri- og Miljødirektoratet, 2022) gir 
+derfor viktig informasjon til arealplanlegging og konsekvensutredning og bidrar dermed til 
+en mer bærekraftig forvaltning av våre marine ressurser.  
+En kort introduksjon til de ulike forvaltningsrelevante artene og naturtypene og deres 
+respektive vernestatus er gitt i det følgende.  
+1.2.1 Tare 
+Tare er brunalger med flerårig stilk og ettårig blad, som oftest finnes i den sublitorale sonen 
+ned til 30-40 m dyp (Husa & Kutti 2022; Rueness 2023). Ved høy tetthet kan tare danne 
+naturtypen tareskog. Tareskog har viktige økologiske funksjoner og anes å være svært 
+produktive og komplekse systemer (Brady-Campbell m.fl. 1984; Filbee-Dexter m.fl. 2019; 
+OSPAR 2021). De har viktige funksjoner i binding og lagring av CO2, samt at de fungerer som 
+oppvekstområde, leve, - og reproduksjonsområde for mange marine arter (Husa m.fl. 2016; 
+Filbee-Dexter m.fl. 2019; OSPAR 2021). Tareskogsbunn består av sammenhengende 
+havbunnsområder med tarearter som dekker et areal > 100 m2 og med en bredde > 5 m 
+(Andersen m.fl. 2019). Tareskogsbunn forekommer på fast bunn med middels til sterk 
+havstrøm og kan dannes av én eller flere arter. Mest vanlig er stortareskog (Laminaria 
+hyperborea) som ofte utkonkurrerer andre tarearter som sukkertare (Saccharina latissima), 
+fingertare (Laminaria digitata) og butare (Alaria esculenta) gjennom å vokse seg høyere og 
+skygge for andre arter (Direktoratet for Naturforvaltning 2007). Stortare er knyttet til miljøer 
+med moderat til kraftig vannbevegelse mens sukkertare trives best under mer beskyttete 
+forhold. Tareartene er flerårige og ofte kan utseende og vekst variere sesongmessig på grunn 
+av endring i lys og tilgjengelig næringssalter, men også grunnet biomekaniske endringer i 
+løpet av året (Henry, 2017).  
+Både nordlig stortareskog, nordlig fingertarebunn, og nordlig og sørlig sukkertareskog er 
+inkludert i Norsk Rødliste for Naturtyper med begrunnelsen at de, og særlig 
+sukkertareskogen, gjennom de siste 50 årene har vært beitet voldsomt ned av kråkeboller 
+langs Midt- og Nord-Norge (Artsdatabanken 2018). Naturtypen nordlig stortareskog er vurdert 
+til kategorien "NT – nær truet", nordlig og sørlig sukkertareskog er vurdert til "EN – sterkt truet" 
+og nordlig fingertarebunn er vurdert som "VU – sårbar", selv om det er tegn til at bestandene 
+er ved å ta seg opp igjen (Artsdatabanken 2018).  
+OSPAR har vurdert forekomster av tareskoger i de sørlige delene av Norskehavet (region II og 
+definerte deler i region III (området fra Ålesund til og med Trondheim)) som minkende og 
+truet, mens tareskoger nord for Trondheim ansees å være stabil og/eller at det er for lite 
+kunnskap om naturtypenes tilstand i disse delene til å ta en vurdering. 
+ 
+Tabell 3 viser rødlistkategorier og OSPAR status til undersøkelsesområdets aktuelle tarearter 
+og naturtyper. 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 10 av 38 
+Tabell 3. Norsk rødliste og OSPAR status for tarearten og naturtyper registrert ved Kinnholmen 
+(Artsdatabanken, 2018 & 2021; OSPAR, 2021). 
+Norske navn 
+Art 
+Norsk Rødlista 
+(Artsnivå) 
+Naturtype 
+Norsk Rødlista 
+(Naturtype) 
+OSPAR 
+Stortare 
+Laminaria 
+hyperborea 
+Livskraftig - LC  
+Nordlig stortareskog 
+(Nordlige Norskehavet 
+og Barentshavet) 
+Nær truet - NT 
+- 
+Sukkertare 
+Saccharina 
+latissima 
+Livskraftig - LC 
+Nordlig sukkertareskog 
+og Sørlig 
+sukkertareskog 
+Sterkt truet - EN 
+Kelp 
+forest* 
+Butare 
+Alaria 
+esculenta 
+Livskraftig - LC 
+Hele kysten 
+- 
+Kelp 
+forest* 
+Fingertare 
+Laminaria 
+digitata 
+Livskraftig - LC 
+Nordlig 
+fingertarebunn: 
+Norskehavet og 
+Barnetshavet 
+Sårbar - VU 
+Kelp 
+forest* 
+*OSPAR definerer naturtypen som truet og/eller minkende i region: II og definerte områder i sørlig del av region III. 
+1.2.2 Koraller 
+Koraller er fastsittende, vanligvis kolonidannede organismer som består av mange små 
+korallpolypper og er avhengig av næring som blir tilført med havstrømmer. Noen koraller 
+kan danne habitater og skjulesteder for andre arter og bidrar til økt biologisk mangfold 
+(Cimberg m.fl. 1981; Buhl-Mortensen og Mortensen 2004). Langs norskekysten er det 
+registrert mer enn 35 korallarter, der øyekorallen (Desmophyllum pertusum) er den typiske 
+revbyggende arten.  
+Hornkorall og andre bløtkoraller kan forme korallskog, som igjen kan inndeles i 
+bløtbunnskorallskog og hardbunnskorallskog. Hardbunnskorallskog fester seg til stein og fjell 
+(hardbunn) og finnes særlig på steder med moderat bunnstrøm og tydelig strømretning som 
+for eksempel på fjordterskler og i trange sund. De vanligste korallene som bidrar til å forme 
+hardbunnskorallskog er risengrynkorall (Primnoa resedaeformis), sjøtre (Paragorgia arborea) 
+og sjøbusk (Paramuricea placomus) (Buhl-Mortensen 2018; Kutti og Husa 2021). 
+Bløtbunnskorallskog finnes på bløtbunn ved mindre strømsterke forhold som i 
+fjordbassengenes dypområder og områder med slakt terreng. Arter som danner 
+bløtbunnskorallskog er bambuskorall (Isidella lofotensis) og grisehalekorall (Radicipes sp.). 
+I Norsk Rødliste for Naturtyper (Artsdatabanken 2018) inkluderes bambuskorallskogbunn, 
+grisehalekorallskogbunn og hardbunnskorallskog. For alle tre naturtyper er hornkorall det 
+dominante og karaktergivende faunaelement (Buhl-Mortensen 2018). Korallskog med 
+dominans av andre bløtkoraller enn gruppen hornkorall (eksempelvis blomkålkorall og 
+begerkorall) er ikke inkludert i de norske definisjonene for rødlistet korallskog.  
+Gjennom OSPAR har Norge i tillegg anerkjent ansvar for å beskytte områder der en eller flere 
+arter av korall, med unntak av sjøfjær og spesifikke korallarter (Tabell 4), danner ansamlinger 
+av en viss størrelse (se OSPAR 2008a & b). OSPAR deler inn naturtypene for korall i "Coral 
+gardens" og "Lophelia pertusa reefs". 
+Tabell 4 viser rødliste og OSPAR status til undersøkelsesområdets aktuelle korallarter og 
+naturtype.  
+ 
+ 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 11 av 38 
+Tabell 4. Rødliste og OSPAR status for korallarter og relaterte naturtyper registrert ved Kinnholmen 
+(Artsdatabanken, 2018 & 2021; OSPAR, 2008a, b). 
+Norske navn 
+Art 
+Norsk Rødlista 
+(Artsnivå) 
+Naturtype 
+Norsk Rødlista 
+(Naturtype) 
+OSPAR 
+Blomkålkorall 
+Duva florida 
+Livskraftig - LC 
+- 
+- 
+ 
+*Tette forekomster av denne arten på norsk kontinentalsokkel og kystområder former ikke naturtypen "Coral garden" 
+ifølge OSPAR sin definisjon. 
+ 
+1.2.3 Svamper 
+Svamp er de mest primitive flercellede skapningene. De er stort sett alle marine og har 
+hverken organer eller egentlig vevsdannelse, men er sammensatt av ulike enkeltceller med 
+hver sine spesialiseringer (Hickman m.fl. 2014). Svamp er, på lik linje med koraller, 
+fastsittende og filtrerer føde til seg fra vannmassene. De spiller en viktig rolle i økosystemet 
+idet de bidrar til remineralisering av næringssalter i de nederste vannmassene. Noen arter 
+(Geodia barretti) kan filtrere mellom 500 – 1000 liter vann per døgn og ta opp til 98 % av 
+bakteriene og småpartiklene fra vannet (Kutti m.fl. 2013; Husa m.fl. 2020).  
+Det er blitt registrert omtrent 300 forskjellige svamparter langs norskekysten, men grunnet 
+kunnskapsmangel er bare en tredjedel av artene rødlistevurdert (Oug og Rapp 2015). Av disse 
+er flertallet per i dag kategorisert som "LC – livskraftig" (Artsdatabanken 2021). Ved høy tetthet 
+kan svamp danne naturtypen svampskog som typisk er levested for mange andre organismer 
+(Husa m.fl. 2020). Svampeskog er per dags dato ikke definert eller inkludert som en naturtype 
+i Norsk Rødliste, men naturtypen svampspikelbunn i Barentshavet sør er inkludert i Norsk 
+Rødliste og vurdert som "NT – nær truet" (Artsdatabanken 2018).  
+OSPAR har inkludert dyphavsansamlinger av svamp på sin liste over sårbare naturtyper. 
+Kunnskap om forekomstene og utbredelsen av svamp er dårlig kjent i norske farvann, og 
+fortrinnsvis kartlagt offshore på dyp mellom 250-1300 meter, men kan også forekomme i 
+norske fjordsystemer (se OSPAR 2008a & b; OSPAR 2010c; OSPAR 2022). OSPAR deler inn 
+naturtypene for korall i "Coral gardens" og "Lophelia pertusa reefs". viser en oversikt over 
+rødliste og OSPAR status til undersøkelsesområdets aktuelle svampearter og relaterte 
+naturtyper. 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 12 av 38 
+Tabell 5. Rødliste og OSPAR status for identifiserte svamparter og relevante naturtyper fra Kinnholmen 
+(Artsdatabanken, 2018 & 2021; OSPAR, 2008a & b). 
+Norske 
+navn 
+Art 
+Norsk Rødlista 
+(Artsnivå) 
+Naturtype 
+Norsk Rødlista 
+(Naturtype) 
+OSPAR 
+- 
+Stylocordyla 
+borealis 
+Livskraftig - LC 
+- 
+- 
+Deep-sea 
+sponge 
+aggregations** 
+- 
+Craniella spp. 
+Ingen rødlistet* 
+- 
+- 
+- 
+Stryphnus fortis 
+Livskraftig - LC 
+- 
+- 
+- 
+Polymastia spp. 
+Ingen rødlistet 
+- 
+- 
+- 
+Hymedesmia spp. 
+Ikke vurdert - NE 
+- 
+- 
+- 
+Mycale lingua 
+Ikke vurdert - NE 
+- 
+- 
+- 
+Antho dichotoma 
+Ikke vurdert - NE 
+- 
+- 
+- 
+Geodia spp. 
+Ingen rødlistet 
+Svampspikelbunn i 
+Barentshavet sør 
+Nær truet - NT 
+- 
+Geodia atlantica 
+Livskraftig - LC 
+Kålrabi 
+svamp 
+Geodia barretti 
+Livskraftig - LC 
+Traktsvamp 
+Axinella 
+infundibuliformis 
+Livskraftig - LC 
+- 
+- 
+Viftesvamp 
+Phakellia 
+ventilabrum 
+Livskraftig - LC 
+- 
+- 
+* Med unntak av Craniella sigmoancoratum som er i rødliste kategorien: DD – Datamangel (Artsdatabanken, 2021). 
+**OSPAR definerer naturtypen som truet og/eller minkende i regionene: I, III, IV og V. 
+ 
+1.2.4 Sjøfjær 
+Sjøfjær er koloniale nesledyr, som i likhet med koraller og sjøanemoner tilhører klassen 
+Anthozoa. Hvert enkeltindivid består av en koloni av polypper som vokser på en felles stilk 
+som er festet nede i sedimentet. Flertallet av sjøfjær er knyttet til bløtbunnmiljøer, hvor de 
+livnærer seg på organiske partikler i vannmassen (Rice m.fl. 1992; Neves m.fl. 2015).  
+De fleste sjøfjær-artene som er registrert langs norskekysten er vurdert å ha 
+forvaltningsstatus "LC – livskraftig", og er derfor ikke inkludert i rødlista (Artsdatabanken, 
+2021). Ved tette forekomster danner sjøfjær en naturtype kalt sjøfjærbunn, denne er ikke 
+inkludert i Norsk Rødliste for naturtyper. Sjøfjærbunn forekommer i bløtbunnsområder på 
+dyp mellom 10 til flere tusen meter og består typisk av flere ulike arter av sjøfjær (Husa m.fl. 
+2020).  
+Det er per i dag kunnskapsmangel og mangelfull definisjon av sjøfjærsamfunn langs 
+norskekysten i OSPAR, og OSPAR inkluderer bare en spesiell type sjøfjærbunn kalt "Seapen 
+and burrowing megafauna" som forvaltningsrelevant naturtype. Denne naturtypen er 
+karakterisert ved tilstedeværelse av både sjøfjær og større gravende organismer (for 
+eksempel sjøkreps) som graver seg dypt ned og danner et tykt oksidert lag i de øvre delene av 
+sedimentet. Naturtypen former et mer komplekst miljø, som muliggjør økt artsrikdom 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 13 av 38 
+(OSPAR 2008a, b). Forekomsten av denne typen sjøfjærbunn i norske farvann er vernet opp 
+til den sørlige grensen av Møre og Romsdal fylke (ved 62°N).  
+Tabell 6 gir en oversikt over rødliste og OSPAR status til undersøkelsesområdets aktuelle 
+sjøfjærarter og naturtyper. 
+Tabell 6. Rødliste og OSPAR status for sjøfjærarter og naturtyper registrert ved Kinnholmen (Artsdatabanken, 
+2018 & 2021; OSPAR, 2008a & b). 
+Norske navn 
+Art 
+Norsk Rødlista 
+(Artsnivå) 
+Naturtype 
+Norsk 
+Rødlista 
+(Naturtype) 
+OSPAR 
+- 
+Pennatula 
+aculeata 
+Livskraftig – LC 
+Sjøfjærbunn 
+-  
+ 
+Liten 
+piperenser 
+Virgularia 
+mirabilis 
+Livskraftig – LC 
+Sjøfjærbunn 
+-  
+- 
+Stylatula elegans 
+Livskraftig – LC 
+Sjøfjærbunn 
+- 
+* OSPAR definerer naturtypen som truet og/eller minkende i regionene: II (sør for 62°N) & III.  
+ 
+Akvaplan-niva 2023 64846.01 
+Side 14 av 38 
+2 Metodikk 
+ROV-kartlegging er en skånsom og effektiv måte å innsamle informasjon om makro- og 
+megafauna på havbunnen. I motsetning til bunntråling og bunnprøvetaking påvirker ROV-
+undersøkelser miljøet minimalt, og miljømyndighetene etterspør stadig mer av denne type 
+kartlegging for å få en bedre oversikt over utbredelse, og omfang av forvaltningsrelevante 
+arter og naturtyper. Undersøkelsesmetodikken i prosjektet er tilpasset NS-EN 16260:2012 og 
+forslag til metodikk for kartlegging av sårbare arter og naturtyper publisert av 
+Fiskeridirektoratet og Miljødirektoratet (2022). Sistnevnte er basert på faglige råd fra 
+Havforskningsinstituttet (Kutti & Husa 2021; Husa & Kutti 2022). 
+2.1 Utstyr og loggingssystem 
+Feltarbeidet ble gjennomført 25 - 28.4.2023 fra AQS sitt servicefartøy AQS Namdal. AQS' sin 
+fjernstyrte undervannsfarkost (ROV – Remotely Operated Vehicle) er av typen Sperre 15K 
+med kommunikasjonskabel på 1000 meter ble tatt i bruk under kartleggingen (Figur 4). 
+Systemet er utstyrt med et Sperre HD IP - Kamera, ROS Q-LED III lys på 5600 Kelvin og 7500 
+lumen. Det ble også montert to Imenco punktlasere (avstand mellom lasere: 10 cm) for å få 
+en referanse til størrelser på organismer. Et Sonardyne HPT 3000 USBL system med et 
+Kongsberg Seapath 130-R GPS system ble benyttet for posisjonsnøyaktighet og sporbarhet av 
+funn langs undersøkelseslinjene. Video ble tatt opp via Options Videologger system. ROV 
+opererer med en gjennomsnittsfart på ca. 0,5 knop og med en avstand fra havbunn på ca. 1 
+m.  
+ 
+Figur 4. Illustrasjonsbilde av Sperre ROV (type sub-fighter15k) som ble benyttet ved ROV-kartlegging.  
+For logging av posisjon og registreringer av informasjon ble EIVA Navipac 4.2 benyttet.  
+ 
+ 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 15 av 38 
+2.2 Metodikk for registrering av biota og bunnsubstrat 
+Registrering av bunnsubstrat og biota er basert på kategorier beskrevet i NS-EN 16260:2012 og 
+Havforskningsinstituttet (HI) sitt forslag til metodikk ved kartlegging rundt akvakulturanlegg 
+(Kutti og Husa 2021; Husa og Kutti 2022). Det ble utført kontinuerlig registrering av dominant 
+bunnsubstrat langs undersøkelseslinjene med følgende inndeling: 
+ 
+Fast fjell og store blokker: >630 mm  
+ 
+Stein: 63-630 mm  
+ 
+Små stein: 16-63 mm  
+ 
+Sand og grus: 0,063- 16 mm  
+ 
+Silt og leire: <0,063 mm  
+ 
+Korallgrus  
+ 
+Dødt korallskjelett  
+ 
+For de fleste artene av forvaltningsmessig interesse ønskes alle enkeltindivider over fem cm 
+størrelse registrert, og helst identifisert til lavest mulig taksonomisk nivå (Husa og Kutti 2022). 
+Kartleggingen dokumenterer derfor først og fremst tilstedeværelse og utbredelse av arter 
+(semi-kvantitativ innsamling) og registreringene blir utført av feltpersonell med taksonomisk 
+ekspertise.  
+For framstilling av svamp er det valgt å inndele de i morftyper etter deres form og utseende. 
+Tabell 7 viser inndelingen morftyper og eksempelartene (basert på Husa & Kutti 2020). 
+Tabell 7. Inndeling av svampemorf og eksempelarter innenfor de forskjellige gruppene. 
+Morftype 
+Eksempelarter innenfor morftypene 
+Fingerformet 
+Antho dichotoma 
+Massiv, rund, tjukk skålformet, porøs bulkeformet 
+Geodia spp., Stryphnus spp., Craniella spp., Mycale lingua 
+Tynn vifteformet, traktformet 
+Phakellia ventilabrum, Axinella infundibuliformis 
+Stilkformet 
+Haliclona urceolus, Stylocordyla borealis 
+ 
+Gruntvannsartene rugl, butare, fingertare, stortare, sukkertare og blåskjellbunn vil etter 
+Husa og Kutti (2022) bli registrert som prosentvist bunndekke. I forslag til metodikk for 
+kartlegging av sårbare arter og naturtyper på grunt vann er det ikke spesifisert hvilken skala 
+som skal benyttes av de ovenfornevnte artene. Derfor har Akvaplan-niva valgt å benytte seg 
+av den internasjonale SACFOR tetthets-skalaen (Hiscock 1990; Strong og Johnson 2020) som 
+basis for intervallinndelingen av prosent dekke fremstilt i kartene i resultatdelen: 
+1 – 5% 
+5 – 9% 
+10 – 19%  
+20 – 39% 
+40 – 79% 
+80 – 100%  
+ 
+Noen arter kan danne naturtyper som har forvaltningsmessige relevans (seksjon 1.2) og 
+dermed skal kartlegges. "En beslutning om å klassifisere en naturtype som utvalgt naturtype har i 
+henhold til naturmangfoldloven forvaltningsmessige konsekvenser og det er derfor et krav om at 
+naturtypen kan defineres slik at det blir klart hvilke forekomster utvelgelsen gjelder for." (Klima- og 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 16 av 38 
+miljødepartement, 2022). Per dags dato eksistere det ikke klare definisjoner på når en 
+forekomst av relevante arter kan klassifiseres som værende en naturtype. Inntil at konkrete 
+definisjoner på de gitte naturtypene er på plass (for eksempel grenseverdier for tetthet av 
+individer per areal (m2) & minimum areal dekket) anser Akvaplan-niva at estimater av relativ 
+tetthet langs hvert transekt som et kosteffektiv alternativ til kvantitative analyse. Dataen gir 
+en trendindikasjon på utbredelse og tetthet av utvalgte arter som kan danner en naturtype 
+innenfor kartleggingsområdet. På grunn av mangelen på klare definisjoner og dermed 
+objektive vurderingskriteria, gir Akvaplan-niva ikke en vurdering om tilstedeværelse av 
+naturtyper.  
+For visuell fremstilling i kart, er QGIS blitt benyttet med basiskart hentet gjennom Geonorge 
+Kartkatalog i format WGS 84 / UTM sone 33N. Ettersom kartene er to-dimensjonale, vil 
+registreringer opp over en bratt fjellvegg gi punkter som ligger oppå hverandre, noe som 
+betyr overlapp i symboler og at enkelte registreringer ikke alltid vil være synlige. 
+ 
+2.3 Utfordringer med ROV-kartlegging 
+Grunne områder, bratte fjellskråninger og større havdyp kan gjøre det utfordrende for 
+posisjoneringssystemet å motta signaler fra ROV-en. Geografisk posisjonsangivelse er ofte 
+ustabil eller mistes helt, som resulterer i en lavere presisjon av dataposisjonen. I noen tilfeller 
+er det nødvendig å korrigere og redigere dataen i etterkant.  
+I bratt fjellskråninger er det krevende å holde en passende og konsekvent avstand fra bunnen, 
+noe som påvirker det totale arealet som dekkes under undersøkelsen.  
+I forbindelse med registrering av prosentvis dekket av tare kan det oppstå problemer med å 
+estimere dekningsgrad når tareblader vifter frem og tilbake. Dekningsgraden endres hele 
+tiden i synsfeltet grunnet bevegelsene, og en grov estimering er da nødvendig. 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 17 av 38 
+3 Resultater 
+3.1 Bunnsubstrater ved lokaliteten 
+Lokaliteten har en variert bunn med bunnsubstrater som spenner fra fjellbunn til mudder 
+(Figur 5). Blandingsbunn av mudder, grus og steinbunn dominerer i undersøkelsesområdet. 
+I de dypeste områdene og rett under den planlagte anleggsrammen finnes det primært 
+mudderbunn med innslag av sand og grus. Overflaten til bløtbunnsområdene var ofte 
+mørkere misfarget. Store arealer med fjellbunn finnes i hele området, men er mer vanlig i de 
+grunnere områdene. Illustrasjon av de observerte substrattypene er vist i Figur 6 og i vedlegg 
+6.2. 
+ 
+Figur 5. Kartoversikt over fordeling av dominerende bunnsubstrat langs transektene ved lokaliteten 
+Kinnholmen. Det er tegnet inn buffersoner på 250 m, 500 m og 1000 meter avstand fra anleggsramme.   
+ 
+ 
+Akvaplan-niva 2023 64846.01
+Side 18 av 38
+Figur 6. Illustrasjon av noen av de forskjellige substrattypene registrert på lokaliteten Kinnholmen og tilhørende 
+transekter. A. Små stein fra transekt 12, B. Grus og sand fra transekt 1, C. Stein fra transekt 13, D. Fjellbunn fra 
+transekt 14 og E. Mudderbunn fra transekt 8. Bilder med høyere oppløsning finnes i vedlegg 6.2
+D
+C
+B
+A
+E
+ 
+Akvaplan-niva 2023 64846.01 
+Side 19 av 38 
+3.2 Observasjoner av forvaltningsrelevante arter og naturtyper 
+3.2.1 Tare 
+Mesteparten av tare ble registrert i den grunneste delen av transekt 2 (Figur 7). Den dypeste 
+observasjonen av levende tare var på omtrent 29 m. Den største dekningsgrad (40-79%) var i 
+det grunneste område på ca. 22,4 m dyp (Figur 8). Det er viktig å merke seg at store 
+tareindivider gir en dekningsgrad på mellom 10 – 20% eller enda mer i synsfeltet når man er 
+1-2 meter over bunnen. Dekningen av slike tareforekomster gir dermed et begrenset inntrykk 
+av individuell tetthet. Taren ble ikke identifisert til artsnivå grunnet at videodokumentasjon 
+typisk ikke er godt nok til en sikker artsidentifisering. Det var ingen synlige tegn til 
+kråkebollebeite på taren. 
+ 
+ 
+Figur 7. Oversiktskart over registrering av tare ved Kinnholmen. 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 20 av 38 
+ 
+Figur 8. Eksempel på dekningsgrad av tare ved transekt 2.  
+ 
+Akvaplan-niva 2023 64846.01 
+Side 21 av 38 
+3.2.2 Koraller 
+Tre blomkålkoraller av arten Duva florida ble registrert ca. 1 km nordvest og sørøst for den 
+planlagte anleggsrammen (Figur 9). Et individ ble funnet langs transekt 1 på 55 m dyp (Figur 
+10), mens de to andre individene ble registert ved transekt 14 på henholdsvis 75 og 86 m dyp. 
+ 
+Figur 9. Oversiktskart over registrering av korall ved Kinnholmen. 
+ 
+Figur 10. Blomkålkorallen Duva florida ved transekt 1. Laserpunkter har avstanden 10 cm. 
+ 
+Akvaplan-niva 2023 64846.01
+Side 22 av 38
+3.2.3
+Svamper
+Det ble foretatt registreringer av forskjellige svampemorfer på lokaliteten, hvor de hyppigste 
+registreringene var på hardt substrat i.e. fjellbunn og stein. Svamper er en nokså kompleks 
+taksonomisk gruppe og de fleste registreringene ble gjort på bakgrunn av morfologiske trekk 
+(f.eks. vifteformet, traktformet, rund og massiv, skorpe). Dominerende morftyper var 
+"Massiv, rund, tjukk skålformet, porøs bulkformet" og "Tynn vifteformet, traktformet" (Tabell 
+9). 
+Tabell 8 viser de dominerende svampeartene som ble registrert under de nevnte morftyper. 
+Tabell 8. Oversikt over dominerende morftyper og svampearter under disse ved lokalitet Kinnholmen.
+Morftype
+Dominerende arter innenfor morftype
+Massiv, rund, tjukk skålformet, porøs bulkformet
+Geodia spp., Mycale lingua og Polymastia spp.
+Fingerformet
+Porifera indet., Antho dichotoma
+Tynn vifteformet, traktformet
+Porifera indet., Phakellia ventilabrum
+Svampemorfer "tynn vifteform, traktformet" og "Massiv rund, tjukk skålformet, porøs 
+bulkforment" var tallrike med i henholdsvis 1589 og 713 registreringer langs alle transektene
+(Figur 11). Svampemorfen "fingerformet" ble også observert langs de fleste transekter, men 
+var mindre vanlig. "Skorpeformet" ble hovedsakelig registrert på fjellbunn og større steiner, 
+mens "Stilkformet" fikk kun to registreringer. Eksempler av morftypene er vist i Figur 12,
+Figur 13 og Figur 14.
+Figur 11. Oversiktskart over registrering av morftypene av svamp ved Kinnholmen.
+Akvaplan-niva 2023 64846.01
+Side 23 av 38
+Figur 12. Fingerformet svamp ved transekt 11. Laserpunkter har avstanden 10 cm.
+Figur 13. Samling av morftypene "tynn vifteform, traktformet" og "skorpeformet" langs transekt 7.
+Akvaplan-niva 2023 64846.01
+Side 24 av 38
+Figur 14. Enkeltindivid av Geodia spp. (morftype "Massiv rund, tjukk skålformet, porøs bulkforment") på 
+mudderbunn ved transekt 9. Laserpunkter har avstanden 10 cm.
+Akvaplan-niva 2023 64846.01
+Side 25 av 38
+3.2.4 Sjøfjær
+Sjøfjær ble funnet på alle transekter, men var mest tallrik på bløtbunn i de dype områdene
+(Figur 15). Det ble registrert tre forskjellige arter. Pennatula aculeata ble sporadisk observert
+(Figur 16), mens liten piperenser (Virgularia mirabilis) og Stylatula elegans var vanlig i 
+undersøkelsesområdet (Figur 17). På grunn av dårlig sikt og en del individers dårlige tilstand 
+og dermed større likhet, ble lite piperenser og Stylatula elegans av praktiske grunner 
+registrert i en samlet gruppe "sjøfjær".
+Figur 15. Oversiktskart over registrering av sjøfjær ved Kinnholmen.
+Akvaplan-niva 2023 64846.01
+Side 26 av 38
+Figur 16. Liten piperenser (Virgularia mirabilis) og et enkeltindivid av Pennatula aculeata ved transekt 9.
+Laserpunkter har avstanden 10 cm.
+Figur 17. Hvit liten piperenser (Virgularia mirabilis) og rødbrune Stylatula elegans ved transekt 8. Laserpunkter 
+har avstanden 10 cm.
+3.3 Relativ tetthet av bunnfauna 
+For arter av forvaltningsmessig interesse presenteres det her antall registreringer langs hvert transekt i undersøkelsesområdet (Tabell 9). I 
+vedlegg 6.1 finnes det mer detaljerte oppløsningen av registreringer for hver transekt angitt med en romlig oppløsning på 50 m. Dataen er basert 
+på semi-kvantitative registrering (ikke areal relatert) og 50 m lengde ble beregnet ut fra x, y koordinater og dybde (z) for å ta hensyn til 
+dybdeforskjellen langs transektene. 
+Tabell 9. Presenterer totalt antall registreringer av arter av forvaltningsmessig interesse fra hvert tronsekt (Tr-01 -14) og i undersøkelsesområdet (SUM) ved lokaliteten 
+Kinnhol men. 
+Gruppe 
+Taxa/Morftype 
+Tr-01 Tr-02 Tr-03 Tr-04 Tr-05 Tr-06 Tr-07 Tr-08 Tr-09 Tr-10 Tr-11 Tr-12 Tr-13 Tr-14 
+Sum 
+Korall 
+Blomkålkorall 
+1 
+2 
+3 
+Svamp Fingerformet 
+11 
+10 
+7 
+3 
+3 
+1 
+6 
+1 
+5 
+8 
+5 
+8 
+6 
+18 
+92 
+Svamp Massiv rund, tjukk skalformet, po ros bulkeformet 
+33 
+26 
+69 
+59 
+24 
+54 
+41 
+50 
+49 
+7 
+47 
+42 103 180 
+784 
+Svamp Skorpedannende 
+44 
+7 
+24 
+10 
+4 
+3 
+2 
+1 
+11 
+11 
+11 
+5 
+4 
+22 
+159 
+Svamp Stilkformet 
+1 
+1 
+2 
+Svamp Tynn vifteformet, traktformet 
+115 
+38 
+64 
+155 
+57 
+113 
+105 
+118 
+151 
+5 
+66 
+79 
+199 
+324 
+1589 
+Sjøfjær Pennatula aculeata 
+1 
+2 
+1 
+4 
+2 
+1 
+2 
+13 
+Sjøfjær Sjøfjær 
+9 
+483 499 
+208 
+604 
+684 1418 1632 1069 
+116 
+537 
+274 
+400 
+139 
+8072 
+Tare 
+T 1-5% 
+3 
+24 
+27 
+Tare 
+T 5-9% 
+17 
+17 
+Tare 
+T 10-19% 
+17 
+17 
+Tare 
+T 20-39% 
+14 
+14 
+Tare 
+T 40-79% 
+3 
+3 
+Akvaplan-niva 2023 64846.01 
+Side 27 av 38 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 28 av 38 
+4 Oppsummering 
+Eidsfjord Sjøfarm AS ønsker å søke om tillatelse til oppdrettsvirksomhet ved lokalitet 
+Kinnholmen, som skal ligge på sørvestlig side innerst i Andfjorden (Sortland kommune, 
+Nordland fylke). Det har ikke vært oppdrettsaktivitet i dette området før. ROV kartlegging 
+inngår som et supplement i søknad til virksomhet etter forurensingsloven. 
+Denne ROV-kartleggingen dekket grunne og dype områder (22 - 108 m) med en total 
+transektlengde på omtrent 15 km. Hard- og blandingsbunn dominerer i store deler av 
+kartleggingsområdet, mens mudderbunn med innslag av sand og grus finnes i den dypeste 
+delen og rett under den planlagte anleggsrammen.  
+Tare med dekningsgrad opp til 40–79 % ble registrert i det grunneste området av 
+kartleggingsarealet på et undersjøisk skjær ca. 750 m nordøst fra den planlagte 
+anleggsrammen. Størrelse av tareindivider, farge og mangel på epifytter indikerer at 
+tareforekomster er i tidlig vekstfasen. Det var heller ingen tegn til kråkebollebeiting. 
+Tre blomkålkoraller av arten Duva florida ble registrert ca. 1 km nordvest (et individ) og sørøst 
+(to individer) fra den planlagte anleggsrammen.  
+Svamper er tilstede langs alle transektene, men fortrinnsvis i områder dominert av 
+hardsubstrat. Under og i nærsonen av den planlagte anleggsrammen dominerer 
+mudderbunn og derfor finnes det kun få svamper der. De fleste svampene tilhørte 
+morftypene "Tynn vifteformet, traktformet" og "Massiv, rundt, tjukk skålformet, porøs 
+bulkformet".  
+Sjøfjær opptrådte fortrinnsvis på mudderbunn, dvs. dominerte i dypområdet rett under den 
+planlagte anleggsrammen. Det ble totalt registrert tre arter: Pennatula aculeata, liten 
+piperenser (Virgularia mirabilis) og Stylatula elegans.  
+ 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 29 av 38 
+5 Litteraturliste 
+- 
+Andersen, G.S., Bekkby, T., Dolan, M., Bøe, R., Thormar, J., Buhl-Mortensen, P., 
+Elvenes, S., Naustvoll, L., Mjelde, M., Brandrud, T.E., Rinde, E., Bryn, A. 2019. 
+Feltveileder for kartlegging av marin naturvariasjon etter NiN (2.2.0). Utgave 1, 
+Kartleggingsveileder nr 3, Artsdatabanken, Trondheim. 1–65. 
+- 
+Artsdatabanken 2018. Norsk rødliste for naturtyper 2018. Hentet fra 
+https://www.artsdatabanken.no/rodlistefornaturtyper  
+- 
+Artsdatabanken 2021. Norsk rødliste for arter 2021. 
+https://www.artsdatabanken.no/lister/rodlisteforarter/2021/ 
+- 
+Bekkby, T., Rinde, E., Oug, E., Mortensen, P., Thomar, J., Dolan, M., Mjelde, M., 
+Gitmark, J.K., Mør, S.R., Schneider, S., Gonzales-Mirelis, G., Systad, G., Van Son, T.C., 
+2021. Forslag til fovaltningsprioriterte marine naturelementer. NIVA rapport 7672-2021.  
+- 
+Brady-Campbell, M.M., Campbell, D.B., Harlin, M.M. 1984. Productivity of kelp 
+(Laminaria sp.) near the southern limit in the Northwestern Atlantic Ocean. Marine 
+Ecology – Progress Series 18, 79–88. 
+- 
+Buhl-Mortensen, P. 2018. Strømpåvirket fastbunn atlantisk vann og øvre sublitoral med 
+dominans av hornkoraller, Marint dypvann. Norsk rødliste for naturtyper 2018. 
+Artsdatabanken, Trondheim. Hentet (09.03.2022) fra: 
+https://artsdatabanken.no/RLN2018/310 
+- 
+Buhl-Mortensen, L., Mortensen, P.B. 2004. Crustaceans associated with the deep-water 
+gorgonian corals Paragorgia arborea (L., 1758) and Primnoa resedaeformis (Gunn., 1763). 
+Journal of Natural History 38(10), 1233–1247. 
+- 
+Cimberg, R.L., Gerrodette, T., Muzik, K. 1981. Habitat requirements and expected 
+distribution of Alaskan coral, NOAA, OCSEAP Final report 54, 206–308.  
+- 
+Direktoratet for naturforvaltning 2007. Kartlegging av marint biologisk mangfold. DN-
+håndbok 19-2001 revidert 2007. 51 s. 
+- 
+Filbee- Dexter, K., Wernberg, T., Fredriksen, S., Norderhaug, K.M.  og Pedersen, M.F. 
+2019. Artic kelp forests: Diversity, resilience and future. Global and Planetary Change 
+172 (2019) 1-14. doi: https://doi.org/10.1016/j.gloplacha.2018.09.005. 
+- 
+Fiskeri- og Miljødirektoratet, 2022. Vil ha bedre kartlegging av sårbar natur. 
+https://www.fiskeridir.no/Akvakultur/Nyheter/2022/vil-ha-bedre-kartlegging-av-sarbar-
+natur.  
+- 
+Henry, P-Y. 2017. Variability and similarities in the structural properties of two related 
+Laminaria kelp species. Estuarine, Costal and Shelf Science (2017), doi: 
+https://doi.org/10.1016/j.ecss.2017.11.029. 
+- 
+Hickman, C.P.jr., Roberts, L.S., Keen, S.L., Larson, A., Eisenhour, D.J. 2014. Animal 
+diversity. McGraw-Hill Education. 512 s. 
+- 
+Hiscock, K. 1990. Marine Nature Conservation Review: methods. Joint Nature 
+Conservation Committee, Peterborough, Nature Conservancy Council, CSD Report, No. 
+1072. (Marine Nature Conservation Review Report, No. MNCR/OR/ 5). 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 30 av 38 
+- 
+Holen, V., 2022. Eidsfjord Sjøfarm AS. Strømmålinger ved Kinnholmen, Ny, 2022. 
+Akvaplan-niva AS rapport-64140.01. 
+- 
+Husa, V., Kutti, T. 2022. Forslag til metode for kartlegging av sårbare arter og naturtyper 
+på grunt vann (0-50 meters dyp) til søknader om akvakultur i sjø. Kunnskapsleveranse 
+til Fiskeridirektoratet. Rapport fra havforskningen nr. 2022-9. 
+- 
+Husa, V., Kutti, T., Grefsrud, E.S., Agnalt, A.-L., Karlsen, Ø., Bannister, R., Samuelsen, 
+O., Grøsvik, B.E. 2016. Effekter av utslipp fra akvakultur på spesielle marine naturtyper, 
+rødlista habitat og arter. Rapport fra havforskningen nr. 8, 51 s. 
+- 
+Husa, V., Gonzalez-Mirelis, G., Kutti, T., Mortensen, P., Søvik, G., Jensen, G., 
+Bakkeplass, K., Skjoldal, H.R. 2020. Marinbiologisk mangfold i Andfjorden marine 
+verneområde. Rapport fra Havforskningen nr. 2020-30. 
+- 
+Klima- og miljødepartement 2022. Utkast til endring av forskrift om utvalgte naturtyper 
+(korallrev og typisk høgmyr). Vedlegg 2: Forslag om korallrev som utvalg naturtype. 
+Hentet (23.05.2023) fra: https://www.regjeringen.no/no/dokumenter/horing-av-forslag-
+om-korallrev-og-typisk-hogmyr-som-utvalgt-naturtype/id2906450/.  
+- 
+Kutti, T., Husa, V. 2021. Forslag til metode for kartlegging av sårbare arter og naturtyper 
+på dypt vann til søknader om akvakultur i sjø. Kunnskapsleveranse til 
+Fiskeridirektoratet. Rapport fra havforskningen nr. 2021-39. 
+- 
+Kutti, T., Bannister, R.J., Fosså, J.H. 2013. Community structure and ecological function 
+of deep-water sponge grounds in the Traena dypet MPA-Northern Norwegian 
+continental shelf. Continental Shelf Research 69, 21–30. 
+- 
+Naturmangfoldloven 2009. Lov om forvaltning av naturens mangfold 
+(naturmangfoldloven). LOV-2009-06-19-100 
+- 
+Neves, B.d.M., Edinger, E., Layne, G.D., Wareham, V.E. 2015. Decadal longevity and 
+slow growth rates in the deep-water sea pen Halipteris finmarchica (Sars, 1851) 
+(Octocorallia: Pennatulacea): implications for vulnerability and recovery from 
+anthropogenic disturbance. Hydrobiologia 759, 147–170. 
+- 
+NS-EN 16260:2012. Vannundersøkelse – Visuelle bunnundersøkelser med fjernstyrte 
+og/eller tauete observasjonsfarkoster for innsamling av miljødata. Standard Norge. 1 – 
+22. 
+- 
+OSPAR 2008a. OSPAR list of threatened and/or declining species and habitats (reference 
+Number: 2008-6). OSPAR Agreement 2008-6. 1–5. 
+- 
+OSPAR 2008b. Descriptions of habitats on the OSPAR list of threatened and/or declining 
+species and habitats (reference Number: 2008-07). OSPAR convention for the protection 
+of the marine environment of the north-east Atlantic. OSPAR Agreement 2008-7. 1–8. 
+- 
+OSPAR 2010a. Bergen Statement. OSPAR Convention for the Protection of the Marine 
+Environment of the North-East Atlantic. Ministerial meeting of the OSPAR commission, 
+Bergen: 23-24 September 2010. 1–6. 
+- 
+OSPAR 2010b. North-East Atlantic Environment Strategy. Strategy of the OSPAR 
+commission for the protection of the marine environment of the North-East Atlantic 
+2010 – 2020. OSPAR Agreement 2010-3. 1–27. 
+ 
+Akvaplan-niva 2023 64846.01 
+Side 31 av 38 
+- 
+OSPAR 2010c. Background document for Deep-sea sponge aggregations. OSPAR 
+Commission 2010. 1–47. 
+- 
+OSPAR 2021. OSPAR Recommendation 2021/05 on furthering the protection and 
+conservation of kelp forest habitat in Region II, III and IV of the OSPAR maritime area. 
+OSPAR Commission 2021. 1–6. 
+- 
+OSPAR 2022. Status assessment 2022 – Deep-sea sponge aggregations. 
+https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-
+committee/status-assesments/deep-sea-sponge-aggregations/. 
+- 
+Oug, E., Rapp, H.T. 2015. Svamper (Porifera). Norsk rødliste for arter 2015. 
+Artsdatabanken. http://www.artsdatabanken.no/Rodliste/Artsgruppene/Svamper. 
+Nedlastet 09/04/2021. 
+- 
+Rice, A.L., Tyler, P.A., Paterson, G.J.L. 1992. The Pennatulid Kophobelemnon 
+stelliferum (Cnidaria: Octocorallia) in the Porcupine Seabight (north-east Atlantic 
+Ocean). Journal of the Marine Biological Association of the United Kingdom 72, 417–
+434. 
+- 
+Rueness, J., 2023. Tang og tare - brunalger i Store norske leksikon på snl.no. Hentet 30. 
+mai 2023 fra https://snl.no/tang_og_tare_-_brunalger. 
+- 
+Strong, J.A., Johnson, M. 2020. Converting SACFOR data for statistical analysis: 
+validation, demonstration and further possibilities. Marine Biodiversity Records 13. 
+https://doi.org/10.1186/s41200-020-0184-3 
+ 
+ 
+6 Vedlegg 
+6.1 Antall registreringer for hvert transekt (50m oppløsning) 
+Tabellene viser antall registrering for arter av forvaltningsmessig interesse for hver transekt angitt med en romlig oppløsning på 50 m 
+(kolonne A-XX). Kolonne (SUM) viser totalt antall registreringer langs transektet. 
+Transekt-1 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+A 
+B 
+C 
+D 
+E 
+F 
+G I H I 
+J 
+K 
+L M N 
+0 
+p 
+Q 
+R s 
+T 
+u 
+V w X 
+Tr-01 
+Korall 
+Blomkålkorall 
+1 
+1 
+- -- 
+- - 
+Tr-01 
+Svamp Fingerformet 
+11 
+3 
+1 
+3 
+1 
+1 
+1 
+I 
+1 
+Tr-01 
+Svamp Massiv rund, tjukk skalformet, pores bulkeformet 
+33 
+5 
+1 
+2 
+1 
+31 
+3 
+1 
+4 
+3 
+1 
+4 
+1 
+4 
+Tr-01 
+Svamp Skorpedannende 
+44 
+12 
+3 
+1 
+1 
+2 
+4 
+31 
+4 
+4 
+4 
+3 
+1 
+2 
+Tr-01 
+Svamp Tynn vifteformet, traktformet 
+115 
+27 
+20 
+3 
+26 
+15 
+14 
+1 
+3 
+4 
+1 
+1 
+t - I 
+-- 
+Tr-01 
+Sjøfjær Sjøfjær 
+9 
+7 
+2 
+I I T [ I I 
+r I I 
+- -- 
+I I 
+Tr-01 
+Tare 
+T 1-5% 
+3 
+2 
+1 
+- 
+- 
+Transekt-2 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+IA 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+I 
+J 
+K 
+L M 
+N 
+0 
+p 
+Q 
+R 
+s 
+T 
+Tr-02 
+Svamp Fingerformet 
+10 
+9 
+1 
+Tr-02 
+Svamp Massiv rund, tjukk skalformet, pores bulkeformet 
+26 
+1 
+6 
+5 
+1 
+4 
+2 
+2 
+3 
+1 
+1 
+-
+-
+-
+ 
+Tr-02 
+Svamp Skorpedannende 
+7 
+1 
+3 
+1 
+1 
+1 
+Tr-02 
+Svamp Tynn vifteformet, traktformet 
+381 
+2 
+22 
+12 
+1 
+1 
+4831134 
+-- 
+Tr-02 
+Sjøfjær Sjøfjær 
+69 
+92 
+33 
+120 
+35 
+Tr-02 
+Tare 
+T 10-19% 
+17 
+7 
+6 
+4 
+Tr-02 
+Tare 
+T 1-5% 
+24 I Ill I 
+14 
+4 
+6 
++ 
+Tr-02 
+Tare 
+T 20-39% 
+14 
+6 
+8 
+Tr-02 
+Tare 
+T 40-79% 
+3 
+3 
++ 
+Tr-02 
+Tare 
+T 5-9% 
+17 
+6 
+2 
+1 
+8 
+Akvaplan-niva 2023 64846.01 
+Side 32 av 38 
+Transekt-3 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+I 
+J 
+K 
+L 
+M N 
+0 
+p 
+Q 
+R 
+s 
+T 
+u 
+V 
+Tr-03 
+Svamp Fingerformet 
+7 
+1 
+4 
+1 
+1 
+Tr-03 
+Svamp Massiv rund, tjukk skalformet, poros bulkeformet 
+69 
+20 
+5 
+10 
+6 
+7 
+4 
+2 
+2 
+3 
+1 
+2 
+1 
+1 
+1 
+2 
+2 
+Tr-03 
+Svamp Skorpedannende 
+24 
+2 
+1 
+3 
+1 
+2 
+4 
+1 
+2 
+3 
+3 
+2 
+Tr-03 
+Svamp Tynn vifteformet, traktformet 
+64 
+4 
+2 
+5 
+6 
+14 
+9 
+3 
+11 
+7 
+2 
+1 
+-- 
+Tr-03 
+Sjøfjær Sjøfjær 
+499 
+28 
+4 
+29 15 132 133 
+72 
+57 12 
+13 
+2 
+2 
+- 
+Transekt-4 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum IA 
+B 
+C 
+D I E 
+F 
+G 
+H 
+I 
+J 
+K 
+L 
+M N 
+0 
+p 
+Q 
+R 
+s 
+T 
+u v wl x 
+Tr-04 
+Svamp Fingerformet 
+3 
+1 
+2 
+Tr-04 
+Svamp Massiv rund, tjukk skalformet, poros bulkeformet 
+591 
+1 
+1 
+1 
+2 
+2 
+6 
+2 
+2 
+2 
+2 
+1 
+6 
+17 
+4 
+6 
+4 
+l 
+Tr-04 
+Svamp Skorpedannende 
+101 1 
+11 
+1 
+1 
+1 
+4 
+1 
+Tr-04 
+Svamp Tynn vifteformet, traktformet 
+155 
+1 
+11 
+2 
+1 
+1 
+11 17 
+14 
+2 13 
+14 
+7 
+4 
+4 
+20 30 131 
+-- 
+ 
+Tr-04 
+Sjøfjær Sjøfjær 
+208 
+32 
+88 
+76 
+3 
+L 
+ 
+Transekt-5 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+IA 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+I 
+J 
+K 
+L 
+M N 
+0 
+p 
+Tr-OS 
+Svamp Fingerformet 
+3 
+2 
+1 
+Tr-OS 
+Svamp Massiv rund, tjukk skalformet, poros bulkeformet 
+24 
+18 
+1 
+2 
+1 
+1 
+1 
+Tr-OS 
+Svamp Skorpedannende 
+4 
+2 
+1 
+1 
+Tr-OS 
+Svamp Stilkformet 
+1 
+1 
+571 - 
+,- -- 
+,- _,_ 
+Tr-OS 
+Svamp Tynn vifteformet, traktformet 
+10 
+21 
+5 
+8 
+7 
+2 
+4 
+Tr-OS 
+Sjøfjær Sjøfjær 
+6041113 
+45 
+51 
+48 
+95 
+78 
+8 
+20 73 
+56 
+13 
+3 
+1 
+Transekt-6 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+I 
+J 
+K 
+L 
+M N 
+0 
+p 
+Q 
+R 
+s 
+T 
+Tr-06 
+Svamp Fingerformet 
+1 
+1 
+Tr-06 
+Svamp Massiv rund, tjukk skalformet, poros bulkeformet 
+54 
+2 
+4 
+6 
+3 
+1 
+5 
+1 
+1 
+12 
+13 
+4 
+2 
+Tr-06 
+Svamp Skorpedannende 
+3 
+1 
+1 
+1 
+-- -- 
+Tr-06 
+Svamp Tynn vifteformet, traktformet 
+113 
+11 
+8 
+12 
+4 
+67 
+2 
+1 
+2 
+5 
+1 
+Tr-06 
+Sjøfjær Sjøfjær 
+684 
+7 
+9 
+4 
+24 
+1 
+36 77 
+97 131 139 94 
+16 25 
+20 
+1 
+1 
+2 
+Akvaplan-niva 2023 64846.01 
+Side 33 av 38 
+Transekt-7 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+I 
+J 
+K 
+L 
+M N 
+0 
+p 
+Q 
+R 
+s 
+T 
+u 
+V w 
+Tr-07 
+Svamp Fingerformet 
+6 
+1 
+-1-.tl 
+1 
+2 
+Tr-07 
+Svamp Massiv rund, tjukk skalformet, poros bulkeformet 
+41 
+1 
+1 
+-Ul 
+14 
+16 
+8 
+- 
+Tr-07 
+Svamp Skorpedannende 
+2 
+1 
+1 
+- - 
+Tr-07 
+Svamp Stilkformet 
+1 
+1 
+Tr-07 
+Svamp Tynn vifteformet, traktformet 
+105 
+22 
+3 11 
+3 
+2 
+6 
+4 
+18 
+14 12 10 
+Tr-07 
+Sjøfjær Sjøfjær 
+1418 
+44 108 15 
+66 
+77 
+56 
+32 
+10 
+8 101 
+86 
+67 71 113 98 127 147 131 
+61 
+Transekt-8 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+H I I I J 
+K 
+L 
+M N 
+01 p 
+Q 
+R I s 
+T 
+u l v lwl x l v Z AA 
+Tr-08 
+Svamp Fingerformet 
+1 
+1 
+-Ul 
+-Ul 
+-  
+Tr-08 
+Svamp Massiv rund, tjukk skalformet, poros bulkeformet 
+50 
+33 
+9 
+2 
+2 
+1 
+1 i 
+>- 1 
+1 
+->-- 
+Tr-08 
+Svamp Skorpedannende 
+1 
+1 
+II 
+sl 
+I 
+- 
+- 
+>- 
+- 
+,.... r 
+>- 
+r 
+r - r 
+r -  
+Tr-08 
+Svamp Tynn vifteformet, traktformet 
+118 
+40 
+48 
+8 
+14 
+Tr-08 
+Sjøfjær Sjøfjær 
+1632 
+156 152 
+5 
+69l8ol129 97 
+70 82 
+81 971 50 
+93 
+891 88 
+43 
+38129 49 
+3140 87 
+5 
+Transekt-9 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+IA 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+I 
+J 
+K 
+L M N 
+0 
+p 
+Q 
+R 
+s 
+T I u 
+V 
+Tr-09 
+Svamp Fingerformet 
+5 
+3 
+1 
+1 
+Tr-09 
+Svamp Massiv rund, tjukk skalformet, poros bulkeformet 
+49 
+4 
+2 
+5 
+3 
+1 
+2 
+2 13 
+17 
++ 
+Tr-09 
+Svamp Skorpedannende 
+11 
+5 
+3 
+1 
+1 
+1 
+1s1r 
+>- 
+>- 
+- 
+- r 
+>- 
+Tr-09 
+Svamp Tynn vifteformet, traktformet 
+1 
+19 
+42 
+23 
+6 30 
+1 
+1 
+12 
+9 
+4 
+3 
+Tr-09 
+Sjøfjær Sjøfjær 
+10691 30 
+34 
+43 
+11 
+14 
+12 
+29 
+1 15 146 119 132 158 1501122 53 
+Transekt-10 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+Al 
+B 
+C 
+D 
+E 
+F I G 
+H I I I J 
+K 
+L 
+M N 0 
+p 
+QI 
+R 
+s I T 
+Tr-10 
+Svamp Fingerformet 
+8 
+4 
+4 
+zl..§l 
+i 
+- 
+i 
+Tr-10 
+Svamp Massiv rund, tjukk skalformet, poros bulkeformet 
+t 
+1 
+1 
+Tr-10 
+Svamp Skorpedannende 
+11 
+I 11 
+1 
+1 
+5 
+2 
+--1-! 
+sr 
+r 
+- 
+- 
+>- 
+>- 
+Tr-10 
+Svamp Tynn vifteformet, traktformet 
+1 
+1 
+1 
+1 
+11 
+Tr-10 
+Sjøfjær Sjøfjær 
+116 
+131 25 
+22 
+7 
+29 191 
+l 1 
+1 
+I 
+l l 
+Akvaplan-niva 2023 64846.01 
+Side 34 av 38 
+Transekt-11 
+I Tra nsekt I Gruppe I 
+Tr-11 
+Svamp Fingerformet 
+5 
+1 
+3 
+I 
+1 
+Tr-11 
+Svamp Massiv rund, tjukk skalformet, po ros bulkeformet 
+47 
+2 14 
+2 
+1 
+4 
+3 
+2 10 
+4 1 
+3 
+--L.! 
+Tr-11 
+Svamp Skorpedannende 
+11 
+7 
+2 1 
+1 
+Tr-11 
+Svamp Tynn vifteformet, traktformet 
+66 10 11 
+2 
+1 
+1 
+2 
+2 16 21 
+I l 
+Tr-11 
+Sjøfjær Sjøfjær 
+537 
+24 113 77 
+24 20 
+7 61 121 
+22 
+2 65 1 
+I 
+Taxa/Morftype 
+Sum 
+I A I B I C I D I E I F I G I H I I I 
+K I L I M I N l o l P I Q I R I 
+Transekt-12 
+I Transekt I Gruppe I 
+Tr-12 
+Svamp Fingerformet 
+8 
+1 
+3 
+1 
+1 
+1 
+1 
+Tr-12 
+Svamp Massiv rund, tjukk skalformet, po ros bulkeformet 
+42 
+3 
+2 
+1 
+4 
+2 
+2 1 
+2 
+5 3 
+4 10 
+2 
+1 
+Tr-12 
+Svamp Skorpedannende 
+5 
+1 
+1 
+2 
+1 
+Tr-12 
+Svamp Tynn vifteformet, traktformet 
+79 
+4 14 
+1 
+6 
+2 20 8 
+2 
+17 
+1 
+4 
+Tr-12 
+Sjøfjær Sjøfjær 
+274 
+1 
+7 100 127 35 
+3 1 
+Taxa/Morftype 
+Sum 
+I A I B I C I D I E I F I G I H I I I 
+K I L I M I N l o l P I Q I R I 
+Transekt-13 
+Transekt Gruppe 
+Taxa/Morftype 
+Sum 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+I 
+J 
+K 
+L 
+M 
+N 
+0 
+p 
+Q 
+R 
+s 
+T 
+u 
+v l w l x Iv I z IAAIABI 
+Tr-13 
+Svamp Fingerformet 
+6 
+1 
+1 
+1 
+1 
+1 
+1 
+ 
+Tr-13 
+Svamp Massiv rund, tjukk skalformet, poros bulkeformet 
+103 
+4 
+4 
+2 
+2 
+2 
+2 12 
+2 6 
+3 
+8 21 10 
+10 
+2 
+6 
+1 
+2 
+2 11 
+I I 
+Tr-13 
+Svamp Skorpedannende 
+4 
+1 
+1 
+1 
+Tr-13 
+Svamp Tynn vifteformet, traktformet 
+199 
+2 
+1 
+27 12 
+4 14 13 13 
+2 
+5 
+1 
+15 
+8 23 26 21 12 
+I 
+Tr-13 
+Sjøfjær Sjøfjær 
+400 
+2 70 103 
+5 38 12 
+37 58 38 14 19 
+41 
+Transekt-14 
+I Transekt I Gruppe I 
+Tr-14 
+Korall 
+Blomkålkorall 
+2 
+1 
+1 
+- 
+- - 
+- - - 
+- 
+Tr-14 
+Svamp Fingerformet 
+18 
+1 
+3 
+2 
+2 
+2 1 
+3 
+1 
+1 
+1 
+1 
+Tr-14 
+Svamp Massiv rund, tjukk skalformet, po ros bulkeformet 
+180 
+61 
+1 
+3 
+1 
+3 
+4 
+7 
+2 
+25 30 19 
+7 
+4 5 17 12 13 
+1 10 
+1 
+7 
+2 
+Tr-14 
+Svamp Skorpedannende 
+22 
+21 1 
+2 1 
+1 
+2 
+2 
+2 
+2 
+1 
+1 
+1 1 
+1 
+1 
+1 
+Tr-14 
+Svamp Tynn vifteformet, traktformet 
+324 
+1 
+10 19 18 14 
+22 6 
+5 10 
+1 15 
+2 19 14 
+6 
+7 
+9 
+60 1 
+7 
+8 15 
+9 44 
+2 
+Tr-14 
+Sjøfjær Sjøfjær 
+139 
+1 
+4 
+1 
+19 
+26 60 
+4 3 9 13 
+Taxa/Morftype 
+Sum 
+I A I B I C I D I E I F I G I H I I I 
+K I L I M I N l a l PI 
+QI 
+RI s IT 
+I u l v l w l x l v l z l A A I A B I A c l A D I A E I A F I A G I 
+Akvaplan-niva 2023 64846.01 
+Side 35 av 38 
+Akvaplan-niva 2023 64846.01
+Side 36 av 38
+6.2 Illustrasjoner av registrerte bunnsubstrat
+Figur 18. Sand og grus ved transekt 1.
+Figur 19. Steinbunn ved transekt 12.
+Akvaplan-niva 2023 64846.01
+Side 37 av 38
+Figur 20. Hardbunn i form av store stein ved transekt 13
+Figur 21. Fjellbunn ved transekt 14.
+Akvaplan-niva 2023 64846.01
+Side 38 av 38
+Figur 22. Mudderbunn ved transekt 8.
+6.3 Illustrasjoner av arter som ikke er forvaltningsrelevante
+Figur 23. Ansamling av sjøpølser ble sett sporadisk i undersøkelsesområdet. Her et eksempel fra transekt 11.
+Laserpunkter har avstanden 10 cm.

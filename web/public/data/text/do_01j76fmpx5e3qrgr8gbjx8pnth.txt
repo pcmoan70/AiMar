@@ -1,0 +1,322 @@
+﻿<root> 
+<avsender> 
+<adresselinje1>Fylkeshuset</adresselinje1> 
+<adresselinje2> 
+</adresselinje2> 
+<adresselinje3> 
+</adresselinje3> 
+<navn>Nordland fylkeskommune</navn> 
+<poststed>BODØ</poststed> 
+<postnr>8048</postnr> 
+</avsender> 
+<mottaker> 
+<adresse1>Flakstadveien 371</adresse1> 
+<adresse2> 
+</adresse2> 
+<adresse3> 
+</adresse3> 
+<postnr>8380</postnr> 
+<poststed>Ramberg</poststed> 
+<navn>Flakstad Kommune</navn> 
+<land> 
+</land> 
+<orgnr>863320852</orgnr> 
+<fnr /> 
+</mottaker> 
+<id>8fb5917a-f539-44b3-b92b-aa6af9a45c91</id> 
+<tittel>Nordlaks Smolt AS - søknad om endret utslippspunkt og økt 
+produksjon ved landlokalitet 11213 Nusfjord for settefiskproduksjon av 
+laks, ørret og regnbueørret i Flakstad kommune</tittel> 
+<date>1684152967795</date> 
+<dateFormatert>2023-05-15T14:16:07</dateFormatert> 
+<metadataFraAvleverendeSystem> 
+<sakssekvensnummer>9171</sakssekvensnummer> 
+<saksaar>2023</saksaar> 
+<journalaar>2023</journalaar> 
+<journalsekvensnummer>56384</journalsekvensnummer> 
+<journalpostnummer>7</journalpostnummer> 
+<journalposttype>U</journalposttype> 
+<journalstatus>E</journalstatus> 
+<journaldato>1683669600000</journaldato> 
+<journaldatoFormatert>2023-05-10T00:00:00</journaldatoFormatert> 
+<dokumentetsDato>1684101600000</dokumentetsDato> 
+<dokumentetsDatoFormatert>2023-05-
+15T00:00:00</dokumentetsDatoFormatert> 
+<tittel>Nordlaks Smolt AS - søknad om endret utslippspunkt og økt 
+produksjon ved landlokalitet 11213 Nusfjord for settefiskproduksjon av 
+laks, ørret og regnbueørret i Flakstad kommune</tittel> 
+<saksBehandler>Ketil Olsen</saksBehandler> 
+</metadataFraAvleverendeSystem> 
+<metadataForImport> 
+<sakssekvensnummer>0</sakssekvensnummer> 
+<saksaar>0</saksaar> 
+<journalposttype> 
+</journalposttype> 
+<journalstatus> 
+</journalstatus> 
+<dokumentetsDato /> 
+<tittel> 
+</tittel> 
+</metadataForImport> 
+<status>Klar for mottak</status> 
+<niva>3</niva> 
+<filmetadata> 
+<filnavn>Nordlaks Smolt AS - søknad om endret utslippspunkt og økt 
+produksjon ved landlokalitet 11213 Nusfjord for settefiskproduksjon av 
+laks, ørret og regnbueørret i Flakstad kommune.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>46cee84b47ccf2b840bf6c4f31b69130eade0ff5b8439fef23613a57ec
+f63dcb</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>231229</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>22 Nusfjord_NVEs vedtak - Vannuttak fra Storvatnet til 
+settefisk.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>431e35b5a00abe522ba3d337c6c8078fcde96da123d88f3d9cb3b75ad1
+4d4c15</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>2349925</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>21 Nusfjord_Plan Skredfarevurdering 
+detaljregulering.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>0873e08e0a487d1bcf9d4e04a96c8bc3abb532c84e4a839c023c03f244
+5f77bf</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>5608525</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>12  Nusfjord_Milj› Vurdering av p†virkning p† biologisk 
+mangfold.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>710b53135ac1b4051b48c7d0b30edd795ec6828651f90125bc0d04e768
+3385ce</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>2073481</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>13 Nusfjord_Milj› Naturfaglige registreringer 
+Nusfjord.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>b1928ecf0da91f79200e611f0cda5d47035219676d68c5958327cdd12f
+32cce8</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>2000085</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>14 Nusfjord_Plan Innl›p og utl›p RAS.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>e6611f75650294afcb0c71d5d27460dee419cabbcc707d29e9c1226510
+9ca6ef</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>2391468</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>15 Nusfjord_Plan Plankart_rev og godkjent.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>94e2051d2dca7b5350d27182e08aabf1d0bc7974e1f9190e17efac54bf
+83e3b3</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>501153</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>16 Nusfjord_Plan Bestemmelser til reguleringsplan 
+030922.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>11423e71bc58de1609b863c6e4291a529a4911e7977778c0cc7f394ba9
+15b7e1</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>85865</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>17 Nusfjord_Plan Kart 1_5000.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>55aba76e38d7f929f755e9ba013656c2d69dbb0ff30de5a0d2be7d495c
+d56b5f</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>3593697</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>18 Nusfjord_Plan Kart 1_50000.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>386df90499982497d3e8e69e8aca411945d6b4110cb1d14e008b5f63bc
+bd9a40</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>2294201</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>19 Nusfjord_Plan RAS-L100-Utomhusplan.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>67ec47d5b429d1672c9e860089c15f96e252140950c25e3ba056271ec8
+da008c</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>4140821</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>20 Nusfjord_Plan_Dam Storvatn_Detaljplan for milj› og 
+landskap.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>5de1cb4fc34ce7d44cd1c77e5fb14c5b965eefaafb8a0c961dc154a351
+06345d</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>6628621</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>Akvakultursøknad Nusfjord, del 1 av 3.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>c28cf9987a9f93d52e979c395e0edc98bafcb2ee05b81dc70dfd1df325
+b25af5</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>3091969</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>01 Nusfjord_F›lgebrev.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>38cf2e35d5c98a0a1bd99a15d608fb2f4c88bb3dd3c8ada78bc90eb720
+eacdda</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>220916</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>02 Nusfjord_Beskrivelse av anlegg og drift.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>ba63b9636a95f4ecfd937922d7c02c8a427d50cbf7747d5d77d203b1d9
+27352f</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>948921</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>03 Nusfjord_Vurdering av behov for KU.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>2b7c66b5fb0e62405890a6559dffcbb540adcd444e08a6fd0f2573a06b
+e57261</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>736601</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>04 Nusfjord_IK Forside internkontrollsystem 
+Nordlaks.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>97018c5c257f9e34ccc287b0d5a3bb5f79b6a1dd8c4ebf80af1f943519
+15099c</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>314569</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>05 Nusfjord_IK Biosikkerhetsplan Nordlaks 
+Konsern.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>b8b9a3205a53800945f2993a6d3a2bc6c0e89bf803a986fdca4e586ebd
+ce784d</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>1135601</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>06 Nusfjord_IK Fiskehelseplan (Beredskapsplan).pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>288007575371aa7e147c76b6868a2789e4cba2e41599894ed7ea4e7a19
+538d1b</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>950381</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>07 Nusfjord_IK For›ket d›delighet.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>20f8a82df9945134a66c19df9f037f236e728e707d3a2c8d1a759ed262
+bce55b</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>724569</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>08 Nusfjord_IK Beredskapsplan ved teknisk svikt.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>e6a7261ba24dd83e14750d45bca14aad10168e666c4a7799d311c5a27e
+9d10d8</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>159471</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>09 Nusfjord_Milj› Str›mm†linger.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>f86137805b30b72f431956a17b26bbf91fbc513e78a457b4f77ba26f64
+f162a8</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>3751669</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>10 Nusfjord_Milj› C-unders›kelse.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>14787db2752cad829863ead2ac769024361dcb81e7bb414ab5ec4c33f3
+f612d4</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>5281992</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>11 Nusfjord_Milj› B-unders›kelse.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>0af8ea3b91e0521af7a03c09cad370eae01cdb016dc367bccf18eece65
+65b3a3</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>3032309</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>SV Nusfjord.pdf</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>f95a4b83a4e24590e31c1afc4b8acae85da951009db5e4378e19ab82db
+d14bb6</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>129785</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>AcosSvarInn.xml</filnavn> 
+<mimetype>text/xml</mimetype> 
+</filmetadata> 
+<svarSendesTil> 
+<adresse1>Fylkeshuset</adresse1> 
+<adresse2> 
+</adresse2> 
+<adresse3> 
+</adresse3> 
+<postnr>8048</postnr> 
+<poststed>BODØ</poststed> 
+<navn>Nordland fylkeskommune</navn> 
+<land /> 
+<orgnr>964982953</orgnr> 
+<fnr /> 
+</svarSendesTil> 
+<svarPaForsendelse /> 
+<forsendelseType /> 
+<eksternRef /> 
+<downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/8fb5917a
+-f539-44b3-b92b-aa6af9a45c91</downloadUrl> 
+<avgivendeSystem>ACOS WEBSAK+</avgivendeSystem> 
+<taushetsbelagtPost>false</taushetsbelagtPost> 
+</root>

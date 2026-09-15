@@ -1,0 +1,1640 @@
+﻿1954-6-23SK, SNYEN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kartlegging av sårbare marine arter og 
+naturtyper ved Snyen i Meløy 
+kommune, juni 2023 
+ 
+ 
+NorCod AS 
+2023 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+2 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org. Nr.: 982 226 163 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rapportens tittel: 
+Kartlegging av sårbare marine arter og naturtyper ved Snyen i Meløy kommune, juni 2023. 
+Forfatter: Camela Haddad 
+Feltdato: 20.06.2023 
+Toktleder: Reidun Lund 
+Rapportdato: 05.09.2023 
+Rapportnummer: 1954-6-23SK 
+Antall sider uten vedlegg: 15 
+Antall sider totalt: 23 
+Oppdragsgiver: 
+NorCod AS 
+ 
+Kontaktperson: Julianne Jacobsen 
+Lokalitet: Snyen 
+Fylke: Nordland 
+Kommune: Meløy 
+Sammendrag 
+Aqua Kompetanse AS har gjennomført en kartlegging av sårbare arter og naturtyper på dypt (> 50 m) og grunt 
+(0-50 m) vann ved den planlagte lokaliteten Snyen, etter metodikk foreslått av havforskningsinstituttet (Kutti og 
+Husa, 2021 og 2022). 
+ 
+Substratet bestod i hovedsak av grovt sediment som sand, stein og fast fjell. Det ble observert noe forekomst av 
+svamp av ulike morfotyper, men det ble ikke registrert forekomst av sårbare naturtyper i undersøkelsesområdet. 
+ 
+Emneord: 
+Hydrokorall; Kartlegging; Naturtype; ROV; Svamp; Sjøfjær 
+Rapporten er tilgjengelig ved forespørsel 
+Rapportansvarlig: 
+ 
+ 
+     Camela Haddad 
+Kvalitetssikrer: 
+ 
+Cathrine B. Alegretti 
+ 
+© 2023 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+3 
+Innhold 
+ 
+Forord ...................................................................................................................................................... 4 
+1. 
+Innledning ........................................................................................................................................ 5 
+2. 
+Materiale og metode ....................................................................................................................... 7 
+2.3 Utstyr ............................................................................................................................................. 8 
+2.4 Undersøkelsesområde ................................................................................................................... 8 
+2.5 Plassering av ROV-kjørelinjer ...................................................................................................... 10 
+3. 
+Resultater ...................................................................................................................................... 11 
+3.1 Tetthet ......................................................................................................................................... 11 
+3.2 Diversitet og artsrikdom .............................................................................................................. 13 
+4. 
+Oppsummering .............................................................................................................................. 14 
+5. 
+Referanser ..................................................................................................................................... 15 
+Vedlegg A – Kartlegging, Snyen ............................................................................................................. 16 
+Vedlegg B – Artsliste .............................................................................................................................. 17 
+Vedlegg C - Bilder .................................................................................................................................. 18 
+Vedlegg D – Observert tetthet .............................................................................................................. 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+4 
+ 
+ 
+Forord 
+ 
+Det er store kunskapshull når det gjelder sårbare marine arter og naturtypers utbredelse langs 
+norskekysten og hvordan disse kan påvirkes av ulike typer utslipp. Mange arter av svamp, koraller og 
+sjøfjær er vanlige i Norge, men regnes som spesielt sårbare for menneskelig påvirkning fordi de har 
+lang levetid, er svært saktevoksende og ofte skjøre. Disse artene danner store tredimensjonale 
+habitater og tette samfunn som har en viktig økologisk funksjon for både bunnlevende og pelagiske 
+arter. Kartlegging ved hjelp av undervannsvideo vil avdekke om det er forekomst av velutviklede 
+naturtyper bestående av sårbare arter ved lokaliteter som er i bruk eller som er planlagt for 
+akvakulturaktivitet eller andre inngrep og utslipp langs kysten og i fjordene. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+5 
+1. Innledning 
+ 
+På oppdrag fra Nordcod AS har Aqua Kompetanse AS gjennomført en kartlegging av sårbare arter og 
+naturtyper på grunt (0 – 50 m) og dypt vann (>50 m) ved Snyen. Undersøkelsen har som formål å 
+kartlegge forekomst og tetthet av sårbare arter som kan danne naturtyper som står på norsk rødliste 
+for naturtyper (Artsdatabanken 2018) eller på OSPAR (Oslo-Paris-konvensjonen om beskyttelse av det 
+marine miljø i det nordøstlige Atlanterhavet) liste over truede og/eller minkende habitat (OSPAR  2008-
+06, revidert i 2021).  
+ 
+På dybder dypere enn 50 meter omfatter dette korall, svamp og sjøfjær og eventuelt andre rødlistede 
+arter på dypt vann; undersøkelsen tar utgangspunkt i Havforskningsinstituttets forslag til metode for 
+kartlegging av sårbare arter og naturtyper på dypt vann til søknader om akvakultur i sjø (Kutti og Husa, 
+2021). Tabell 1 gir en oversikt over definisjon og antatt rehabiliteringsevne for naturtyper på dypt vann. 
+På dybder grunnere enn 50 meter omfatter kartleggingen tareskog, bløtbunnsområder i strandsonen, 
+ruglbunn, marin undervannseng, eksponert blåskjellbunn, østers, kamskjellforekomster, koraller, 
+svamp, sjøfjær og eventuelt andre rødlistede arter på grunt vann. Undersøkelsen tar utgangspunkt i 
+Havforskningsinstituttets forslag til metode for kartlegging av sårbare arter og naturtyper på grunt 
+vann (0-50 meters dyp) til søknader om akvakultur i sjø (Kutti og Husa 2022). Tabell 2 gir en oversikt 
+over definisjon og antatt rehabiliteringsevne for naturtyper på grunt vann. 
+ 
+Tabell 1: Definisjon, beskrivelse og antatt rehabiliteringsevne (Kutti og Husa, 2022) for naturtyper som inngår i 
+kartleggingen på dypt vann ( >50 m). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Korallskog
+OSPAR (2010b) definerer korallskog som en relativt tett ansamling av korallkolonier av én
+eller flere arter på bløt- eller hardbunn. Naturtypen er ikke kvantitativt definert av OSPAR og
+det finnes heller ingen norsk definisjon av korallskog (Kutti & Husa, 2021). I Kutti & Husa
+(2021) beskrives det at for større korallearter kan en tetthet på 1 til 2 kolonier per 100 m2 
+være nok til å beskrive habitatet som korallskog, mens det er observert at mindre
+korallearter kan forekomme med tettheter opp til 500-200 kolonier per 100m2.
+Lav
+Sjøfjær og gravende 
+megafaunasamfunn
+OSPAR (2010a) definerer habitatet sjøfjær og gravende megafaunasamfunn som flater med
+mudder der det er iøynefallende forekomst av sjøfjær samt groper og forhøyninger i
+sedimentoverflaten fra gravende megafauna. Gravende megafauna som kan observeres på
+video er eksempelvis krepsdyr av ulike arter. Naturtypen er ikke kvantitativt definert (Kutti &
+Husa, 2021).
+Lav
+Svampskog
+OSPAR (2010c) definerer naturtypen svampskog, bestående av horn- og kiselsvamper, som
+massive svamper med en tetthet på 0,5 – 1,0 individ per m2, på bløt og/eller hardbunn. Det
+finnes ingen egen norsk definisjon på naturtypen svampskog. Det er observert svampskog
+som definert av OSPAR på Norsk kontinentalsokkel (Kutti et al., 2013), men det er usikkert
+hvordan svamptetthet i fjorder er, sammenlignet med tettheten på sokkelen (Kutti & Husa,
+2021) Dypvannssvamper har lignende habitat-preferanser som kaldtvanns-koraller, og disse
+forekommer derfor ofte sammen (OSPAR, 2010c).
+Lav
+Definisjon/Beskrivelse
+Naturtyper på dypt 
+vann (>50 meter)
+Antatt 
+rehabiliterings- 
+evne
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+6 
+Tabell 2: Definisjon, beskrivelse og antatt rehabiliteringsevne (Kutti og Husa, 2022) for naturtyper på grunt vann 
+(0-50m). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Naturtyper på grunt 
+vann (0-50 meter)
+Definisjon/Beskrivelse
+Antatt 
+rehabiliterings- 
+evne
+Tareskog
+Artsdatabanken definerer tareskog som "et sammenhengende område dominert av tare-
+arter, med et areal større enn 100 m2 og bredde større enn 5 m".
+Høy
+Stortareskog
+Større stortareskogforekomster er kartlagt og modellert langs norskekysten (Kutti & Husa,
+2022). Nordlig stortareskog er vurdert som nær truet av Norsk rødliste for naturtyper 2018
+(Gundersen et al., 2018a). 
+Høy
+Sukkertareskog
+Sukkertareskog har ikke blitt systematisk kartlagt eller modellert langs norskekysten (Kutti &
+Husa, 2022). Nordlig og sørlig sukkertareskog er vurdert som sterkt truet av Norsk rødliste
+for naturtyper 2018 (Gundersen et al., 2018b).
+Høy
+Fingertarebunn
+Fingertarebunn har ikke blitt systematisk kartlagt eller modellert langs norskekysten (Kutti &
+Husa, 2022). Naturtypen er vurdert som sårbar av Norsk rødliste for naturtyper 2018
+(Gundersen et al., 2018c).
+Høy
+Bløtbunnsområder i 
+strandsonen
+Kutti & Husa (2022) definerer naturtypen som "bølgepåvirkede strender av ren sand,
+strandflater med mudderblandet sand eller strandflater med bløtt mudder i beskyttede
+områder". Naturtypen står på OSPARS liste over sårbare og minkende habitat (OSPAR, 2008-
+06), men ikke på Norsk rødliste for naturtyper 2018.
+Moderat
+Ruglbunn
+Ruglbunn er definert som områder med forekomst av løstliggende kalkalger av ulike arter
+som danner er tredimensjonalt habitat (Kutti & Husa, 2022). Naturtypen er ikke kartlangt
+langs norskekysten med står på Norsk rødliste for naturtyper 2018 (Gundersen et al.,
+2018d).
+Lav
+Marin undervanns- 
+eng
+Flere ulike marine karplanter kan inngå i naturtypen, men den er i norge hovedsakelig
+bestående av Zostera spp. (Ålegras). Ålegrasenger står på OSPARS liste over sårbare og
+minkende habitat (OSPAR, 2008-06). 
+Lav
+Eksponert blåskjell- 
+bunn
+OSPAR (2008-07) definerer eksponert blåskjellbunn som banker med blåskjell på grunt vann.
+Blåskjellbunn er ikke en kartlagt naturtype i Norge (Kutti & Husa, 2022), men er vurdert som
+en sårbar naturtype på Norsk rødliste for naturtyper 2018 (Gundersen et al. 2018e).
+Høy
+Østers
+Forekomster av europeisk østers står på OSPARS liste over sårbare og minkende habitat
+(OSPAR, 2008-06). 
+Moderat
+Kamskjell- 
+forekomster
+Kutti & Husa (2022) definerer naturtypen som flekkvis forekomst av artene stort kamskjell
+(Pecten maximus ) og/eller haneskjell (Chlamys islandica)
+over store bunnområder.
+Kamskjellforekomster er vurdert som ressursart i Norge.
+Moderat
+Koraller, svamp og 
+sjøfjær
+I norske fjorder kan koraller, svamp og sjøfjær forekomme på dybder grunnere enn 50
+meter (Kutti & Husa, 2022).  Se tabell 1 for nærmere beskrivelse.
+Lav
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+7 
+2. Materiale og metode 
+Undersøkelsen ble utført 20.06.2023 og 21.06.2023. Det ble kartlagt 18 transekter under og omkring 
+det planlagte anlegget; transektene ble tegnet av rådgiver fra Aqua Kompetanse AS basert på 
+Havforskningsinstituttets forslag til metode for kartlegging av sårbare arter og naturtyper på dypt vann 
+til søknader om akvakultur i sjø (Kutti og Husa, 2022) samt faglig vurdering av batymetri og 
+strømforhold ved lokaliteten. Antall transekter, lengde og plassering ble diskutert med- og godkjent av 
+statsforvalteren i Nordland i forkant av undersøkelsen. ROV ble kjørt av egen ROV-fører, mens rådgiver 
+med mastergrad innen biologi tok fortløpende vurderinger av forholdene langs søkelinjene og 
+eventuelle tilpasninger. Det ble gjort kontinuerlig opptak av de undersøkte transektene, det ble også 
+tatt bilder fortløpende i felt og funn ble notert i toktjournal. Videomaterialet fra ROVens HD-kamera 
+ble analysert av rådgiver med mastergrad innen biologi; rådgiver har erfaring med videoanalyser fra 
+undervannsvideoer. 
+ 
+Data ble generert fra kontinuerlig videoanalyse. Det ble satt datapunkter med en romlig oppløsning på 
+50 m langs hvert transekt (ett datapunkt = 50 meter videolinje). Aqua kompetanse har et kamera med 
+vinkel på 58,2 grader; ved ROV kjøring ser kameraet både vertikalt og noe horisontalt. Aqua 
+Kompetanse AS estimerer bredde på kartlegging av en kjørelinje til omtrent 5 meter. Det er ikke mulig 
+å artsbestemme alle arter og individer innenfor dette området, men Aqua Kompetanse AS mener at 
+forekomst av sårbare naturtyper vil fanges opp og ved eventuelt funn vil ROV-fører nøyere undersøke 
+funnets utbredelse; dette kan innebære å avvike fra planlagte kjørelinjer. ROVen er utstyrt med et HD-
+kamera, men også et kamera med lavere kvalitet, men som dekker et større areal enn HD-kameraet; 
+rådgiver i felt kan dermed forsikre seg om at relevante funn langs søkelinjen fanges opp i størst mulig 
+grad.   
+ 
+For hvert datapunkt med funn ble det registrert dominerende substratype basert på Europeisk 
+standard for visuell kartlegging av sjøbunn på dype lokaliteter (EN 16260:2012); som deler substrat inn 
+i kategoriene fast fjell og store blokk (FF), veldig grovt sediment (St), grovt sediment, sand og grus (G), 
+silt og leire (S), korallgrus (KG) og dødt korallskjelett (DK). Det ble også registrert substrat for hver 
+observasjon. Funn som inngår i kartleggingen ble identifisert til laveste mulige taksonomiske nivå. 
+Svamp som ikke lar seg artsbestemmes ved visuell observasjon ble gruppert etter slekt der dette var 
+mulig og ellers gruppert etter morfotyper som beskrevet av Kazanidis et al. (2019) og senere på norsk 
+i Kutti og Husa (2021) (Tabell 3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+8 
+Tabell 3:. Inndeling av svamp i grupper og morfotyper.  
+ 
+ 
+Det ble beregnet tetthet for hver observerte taksonomiske gruppe og svamp-morfotype som inngår i 
+kartleggingen, for hvert datapunkt, samt gjennomsnittlig for hele undersøkelsesområdet. For 
+beregning av tetthet ble det tatt utgangspunkt i 5 meters bredde på kjørelinjene og 50 meters lengde 
+for hvert datapunkt. Det ble beregnet Shannons diversitetsindeks (H’) og effektiv H’ 
+(eksponentialfunksjon av H’), Pielous jevnhet (J’) samt Simpsons diversitetsindeks (D) for hvert transekt 
+og gjennomsnittlig for undersøkelsesområdet. 
+ 
+2.3 Utstyr 
+Det ble benyttet ROV av typen Aegir 50 fra Ocean Robotics med 3 x 3500 lm led lys, HD kamera med 
+zoom, og Advanced Navigation undervannsposisjonering med nøyaktighet på 1,5 meter pr. 100m. 
+Posisjoneringen er tilkoblet GNSS antenne fra Advanced Navigation. ROVen har påmontert laser med 
+to faste parallelle linjer med 75mm avstand.  
+ 
+2.4 Undersøkelsesområde 
+Snyen ligger i Meløy kommune kommune, Nordland (Figur 1). Området er en blanding av dypere vann 
+og grunt vann. Figur 2 viser arealet som er planlagt kartlagt. Arealet baserer seg på strømdata (Breiteig, 
+2022) og bunntopografien i området. Hovedstrømretningen for spredningsstrømmen er 45 og 210 
+grader (Åkerblå AS, 2022). Det planlagte arealet strekker seg 1000 meter i begge disse retningene, men 
+er i noen tilfeller begrenset til 500 meter på grunn av dybde under 50 meter. Deler av arealet som er 
+grunnere enn 50 meter og ligger lengre fra anlegget enn 500 meter ble ekskludert fra 
+kartleggingsarealet. Undersøkelses areal strekker seg 250 meter sideveis i retning 120 og 300 
+grader. Totalt areal for det planlagte undersøkelsesområdet er 1,21 km2.  
+ 
+ 
+Kazanidis et al. 2019 Kutti og Husa, 2021
+1
+Encrusting
+Skorpedannende
+2
+Arborecent
+Fingerformet
+Massive
+Massiv
+Spherical
+Rund
+-
+Tykk skålformet
+Papillate
+Porøs bulkeformet
+Flabellate
+Tynn vifteformet
+Caliculate
+Traktformet
+Stipitate
+Stilkformet
+Clavate
+-
+Morfotype
+Gruppe
+5
+4
+3
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+9 
+ 
+Figur 1: Oversiktskart som viser planlagt anleggsplassering (rød firkant) i forhold til andre anlegg. Geografisk 
+senterpunkt for det planlagte anlegget ved Snyen er 66°48.007’N, 13°06.750’Ø. Målestokk vises i høyre hjørne. 
+Kilde: Fiskeridirektoratets karttjeneste. 
+ 
+ 
+Figur 2: Oversiktskart som viser planlagt anleggsplassering og undersøkelsesområde. Det er tegnet inn røde linjer 
+i målte retninger og avstander er angitt med flagg og tekst. Det planlagte undersøkelsesområdet er markert grønt 
+og anleggsrammen er markert gul. Kartet er orientert mot nord. Kilde: Olex. 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+10 
+2.5 Plassering av ROV-kjørelinjer  
+ 
+Figur 3 viser transektene kartlagt med ROV. Det ble kjørt noen tette linjer (7-13) direkte under den 
+planlagte anleggsrammen. Avstand mellom disse linjene er 100 meter. Plassering av de øvrige 
+transektene er en kombinasjon av kunnskapsbasert plassering og systematisk plassering. Det er ikke 
+noen tydelig formasjon i områdene med dypere vann som peker seg ut. I områdene med grunnere 
+vann er det noen renner som kan ha høyere potensiale for forekomst av sårbare naturtyper. Noen 
+transekter ligger derfor i midten av en renne (T2, T3 og T4).  
+Total kjørelengde for de foreslåtte linjene er 8256 meter. Kutti og Husa 2021 og 2022 spesifiserer at 
+omtrent 3-4% av undersøkelsesområdet skal kartlegges. Det er stor usikkerhet knyttet til hvordan man 
+kan beregne areal som kartlegges av ROV. Aqua Kompetanse AS estimerer bredde på kartlegging av en 
+kjørelinje til omtrent 5 meter. Med denne kombinasjonen av kjøreavstand og undersøkelsesareal betyr 
+det at dette forslaget kommer til å kartlegge 3,41% av arealet. Dette er over det som anses som 
+nødvendig av Kutti og Husa, 2021 og 2022. I dette tilfellet anses det like vel som hensiktsmessig 
+ettersom arealet for kartleggingen er relativt lite og avgrenses av land både i nordlig og sørlig retning. 
+ 
+ 
+Figur 2: Kartet viser undersøkelsesområdet og transekter 1-18. Kilde: Olex 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+11 
+3. Resultater 
+Figur 4 viser oversikt over dominerende substrattyper observert i undersøkelsesområdet. Utvalgte 
+stillbilder fra ROV-videomaterialet ligger i Vedlegg C.  
+ 
+ 
+Figur 3: Kart over dominerende substrattyper for hvert datapunkt. Planlagt annelggsramme er markert gul. 
+ 
+3.1 Tetthet 
+Figur 5 viser observert samlet tetthet av svamper. Tetthet av de oftest forekommende morfotyper kan 
+leses av i Tabell 4; fullstendig oversikt over tetthet for funn for hvert datapunkt og transekt kan leses 
+av i Vedlegg D 
+ 
+  
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+12 
+ 
+Figur 5: Kart over observert samlet tetthet av svamp i undersøkelsesområdet. Planlagt annelggsramme er 
+markert gul. 
+ 
+ 
+ 
+Tabell 4: Gjennomsnittlig tetthet, maks tetthet, standardfeil og antall datapunkter for de oftest forekommende 
+morfotypene av svamp ved Snyen. 
+ 
+Tetthet  
+(individ eller kolonier m²) 
+Snyen 
+  
+Gjennomsnitt Standardfeil Maks 
+Datapunkter 
+med  
+observasjon 
+Svamp Skorpedannende 
+0,0010 
+0,0004 
+0,0120 
+6 
+Fingerformet 
+0,0057 
+0,0014 
+0,0320 
+18 
+  
+Porøs bulkeformet 
+0,0011 
+0,0004 
+0,0080 
+9 
+  
+Massiv 
+0,0005 
+0,0002 
+0,0040 
+5 
+  
+Tynn vifteformet 
+0,0050 
+0,0012 
+0,0360 
+23 
+  
+ 
+ 
+ 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+13 
+3.2 Diversitet og artsrikdom 
+ 
+Antall individer, artsrikhet og diversitet for arter og grupper som inngår i kartleggingen, for hvert 
+transekt og for hele undersøkelsesområdet kan leses av i Tabell 5. Samlet artsliste med rødlistestatus 
+kan leses av i Vedlegg B. 
+ 
+ 
+Tabell 5: Sammenstilling av alle transekters artsrikhet av arter som inngår i kartleggingen, antall individer, 
+Shannons diversitetsindeks (H') og Shannon (effektiv), Pielous jevnhet (J’) og Simpsons diversitetsindeks (D). 
+Gjennomsnittlig diversitet og artsrikdom for undersøkelsesområdet ± standardfeil. 
+Transekt 
+Artsrikhet 
+Antall 
+individer 
+H' 
+H' 
+(Effektiv) 
+J 
+D 
+T01 
+0 
+0 
+- 
+- 
+- 
+- 
+T02 
+1 
+1 
+0,000 
+1,000 
+- 
+0,000 
+T03 
+1 
+1 
+0,000 
+1,000 
+- 
+0,000 
+T04 
+0 
+0 
+- 
+- 
+- 
+- 
+T05 
+3 
+14 
+1,079 
+2,942 
+0,982 
+0,653 
+T06 
+6 
+16 
+1,363 
+3,909 
+0,761 
+0,641 
+T07 
+2 
+3 
+0,637 
+1,890 
+0,918 
+0,444 
+T08 
+2 
+3 
+0,637 
+1,890 
+0,918 
+0,444 
+T09 
+2 
+17 
+0,677 
+1,969 
+0,977 
+0,484 
+T10 
+4 
+7 
+1,277 
+3,586 
+0,921 
+0,694 
+T11 
+5 
+16 
+1,037 
+2,822 
+0,645 
+0,500 
+T12 
+6 
+28 
+1,377 
+3,964 
+0,769 
+0,658 
+T13 
+0 
+0 
+- 
+- 
+- 
+- 
+T14 
+2 
+12 
+0,562 
+1,755 
+0,811 
+0,375 
+T15 
+2 
+8 
+0,377 
+1,458 
+0,544 
+0,219 
+T16 
+0 
+0 
+- 
+- 
+- 
+- 
+T17 
+3 
+4 
+1,040 
+2,828 
+0,946 
+0,625 
+T18 
+4 
+10 
+1,194 
+3,299 
+0,861 
+0,660 
+Gjennomsnitt 
+2,389 
+7,778 
+0,804 
+2,451 
+0,838 
+0,457 
+Standardfeil 
+0,465 
+1,883 
+0,124 
+0,272 
+0,040 
+0,063 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+14 
+4. Oppsummering 
+ 
+Undersøkelsesområdet dekket et område med både grunt og dypt vann. Substratet bestod 
+hovedsakelig av grovt sediment med stein, fast fjell, sand og grus. Det var generelt mye organisk 
+materiale i området, både i vannmassene i form av marin snø, samt på sedimentet der det også var 
+utbredt algevekst. T12 hadde høyest diversitet av arter som inngår i kartleggingen, etterfulgt av 
+transektene T06 og T11. Ingen funn ble registrert i fire transekter (T01, T04, T13 og T16). 
+ 
+Det ble observert noe forekomst av svamp på stein og fast fjell i undersøkelsesområdet. Fingerformet 
+svamp og viftesvamp hadde høyest tetthet. Høyest samlet tetthet av svamp var 0,04 kolonier per m2 
+og ble registrert langs transekt T06 (datapunkt G), T09 (datapunkt B) og T12 (datapunkt C og D). Det 
+ble ikke registrert forekomst av sårbare naturtyper som står på norsk rødliste for naturtyper 
+(Artsdatabanken, 2018) eller OSPARS liste over truede og/eller minkende habitater (OSPAR, 2008-6) i 
+undersøkelsesområdet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+15 
+ 
+ 
+5. Referanser 
+ 
+ 
+Åkerblå AS (2022). Strømrapport for Snyen, NS 9415:2009. Rapportnummer SR-NC-Snyen-104488-01-
+001.  
+ 
+Gundersen H, Bekkby T, Norderhaug KM, Oug E, Rinde E, Fredriksen F. 2018. Stortareskog i 
+Norskehavet og Barentshavet - Marint gruntvann. Norsk rødliste for naturtyper 2018. Artsdatabanken, 
+Trondheim. Hentet (23.03.2023) fra: https://artsdatabanken.no/RLN2018/343  
+ 
+Kazanidis G, Vad J, Henry L-A, Neat F, Berx B, Georgoulas K, Roberts JM. (2019) Seabed images and 
+corresponding environmental data from deep-sea sponge aggregations in the Faroe-Shetland Channel 
+Nature Conservation Marine Protected Area. PANGEA. https://doi.org/10.1594/PANGAEA.897604 
+ 
+Kutti, T. og Husa, V. (2022) Forslag til metode for kartlegging av sårbare arter og naturtyper på grunt 
+vann (0-50 meters dyp) til søknader om akvakultur i sjø. Kunnskapsleveranse til Fiskeridirektoratet. 
+Rapport fra Havforskningsinstituttet 2022-9. 
+ 
+Kutti T, Husa V. (2021). Forslag til metode for kartlegging av sårbare arter og naturtyper på dypt vann 
+til søknader om akvakultur i sjø. Kunnskapsleveranse til Fiskeridirektoratet. Rapport fra 
+Havforskningen 2021-39. 
+ 
+OSPAR (2008-06) List of threatened and/or declining species and habitats (replaces agreement 2004-
+06). Revised in 2021.  
+ 
+OSPAR (2008-07) Descriptions of habitats on the OSPAR lists of threatened and/or declining species 
+and habitats (replaces agreement 2004-07). Update 2021.  
+ 
+OSPAR (2010a) Background Document for Sea-pen and Burrowing megafauna communities. Updated 
+in 2011. OSPAR Agreement 2008-07.  
+ 
+OSPAR (2010b) Background document for Coral gardens. OSPAR Agreement 2008-07.  
+ 
+OSPAR (2010c) Background document for Deep-sea sponge aggregations. OSPAR Agreement 2008-
+07.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+16 
+ 
+Vedlegg A – Kartlegging, Snyen 
+ 
+Kartleggingsfarkost: ROV av typen Aegir 50 fra Ocean Robotics, Eid av Aqua Kompetanse AS. 
+Kartleggingsfartøy: MS Gyda, Eid av Aqua Kompetanse AS 
+Toktleder med mastergrad innen biologi: Reidun Lund og Anders Kristoffer Halsvik Sandnes 
+Båtfører og ROV-pilot: Magnus Roksvaag og Karl Ivar Dale Høstland 
+Observasjonslinjene hadde varierende lengde: fra 250 m til 1049m. 
+ 
+Tabell A-1: Dato, start-tid, start-dybde og hovedfunn for kjørelinjer kartlagt med ROV ved Snyen. Observerte 
+sårbare naturtyper er notert med uthevet skrift. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transekt 
+Dato 
+Starttid 
+Startdybde 
+(m) 
+Hovedfunn 
+1 
+20.06.23 
+14:31 
+28,9 
+ 
+2 
+20.06.23 
+18:20 
+57 
+Massiv svamp 
+3 
+20.06.23 
+17:28 
+57,1 
+Fingerformet svamp 
+4 
+20.06.23 
+15:31 
+50,1 
+ 
+5 
+20.06.23 
+16:20 
+45,1 
+Vifteformet, porøs bulkeformet og fingerformet svamper 
+6 
+20.06.23 
+12:06 
+53,9 
+Skorpedannende, vifteformet og traktformet svamper 
+7 
+20.06.23 
+12:51 
+38 
+Vifteformet og skorpedannende svamper 
+8 
+20.06.23 
+13:16 
+74,5 
+Fingerformet og vifteformet svamper  
+9 
+20.06.23 
+16:38 
+42,5 
+Fingerformet og vifteformet svamper 
+10 
+20.06.23 
+17:07 
+64,7 
+Vifteformet, skorpedannende og porøs bulkeformet svamper 
+11 
+20.06.23 
+17:51 
+23,4 
+Vifteformet, massiv og stilkformet svamper 
+12 
+21.06.23 
+10:07 
+25 
+Fingerformet svamper 
+13 
+21.06.23 
+11:39 
+40 
+ 
+14 
+21.06.23 
+09:21 
+11 
+Vifteformet og skorpedannende svamper 
+15 
+21.06.23 
+08:32 
+46,7 
+Fingerformet svamper 
+16 
+20.06.23 
+13:59 
+40,3 
+ 
+17 
+21.06.23 
+10:30 
+25,7 
+Vifteformet svamper 
+18 
+20.06.23 
+13:35 
+62,5 
+Skorpedannende og fingerformet svamper 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+17 
+ 
+ 
+ 
+Vedlegg B – Artsliste 
+ 
+ 
+Tabell B-1: Liste over observerte svampmorfotyper i det kartlagte området ved Snyen, samt rødlistestatus 
+(Artsdatabanken, 2021). 
+ 
+                    Morfotype 
+Rødlistestatus 
+(artsdatabanken, 2021) 
+Svamp 
+Skorpedannende (Gruppe 1) 
+- 
+Fingerformet (Gruppe 2) 
+- 
+Tykk skålformet (Gruppe 3) 
+- 
+Massiv (Gruppe 3) 
+- 
+Porøs bulkeformet (Gruppe 3) 
+- 
+Tynn vifteformet (Gruppe 4) 
+- 
+Traktformet (Gruppe 4) 
+- 
+Stilkformet (Gruppe 5) 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur B-1: Rødlistekategorier. Kilde: Artsdatabanken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+18 
+ 
+Vedlegg C - Bilder 
+ 
+ 
+ 
+Figur C-1: Utvalgt bilde fra søkelinje 1. Fast fjell substrattype med skorpeformede kalkalger. Foto: Aqua Kompetanse AS 
+ 
+ 
+Figur C-2: Utvalgt bilde fra søkelinje 2. Massiv svamp. Foto: Aqua Kompetanse AS 
+ 
+ 
+Figur C-3: Utvalgt bilde fra søkelinje 3. Fingerformet svamp. Foto: Aqua Kompetanse AS 
+ 
+ 
+Figur C-4: Utvalgt bilde fra søkelinje 4. Grovt substrattype. Foto: Aqua Kompetanse AS 
+ 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+19 
+ 
+Figur C-5: Utvalgte bilder fra søkelinje 5. Venstre: fingerformet svamper. Høyre: porøs bulkeformet svamp. Foto: Aqua 
+Kompetanse AS 
+ 
+ 
+Figur C-6: Utvalgte bilder fra søkelinje 6. Venstre: skorpedannende svamp og tynn vifteformet svamp. Høyre: fingerformet 
+svamp. Foto: Aqua Kompetanse AS 
+ 
+ 
+Figur C-7: Utvalgte bilder fra søkelinje 7. Venstre: skorpedannende svamp. Høyre: to tynn vifteformet svamper. Foto: Aqua 
+Kompetanse AS 
+ 
+ 
+Figur C-8: Utvalgte bilder fra søkelinje 8. Venstre: fingerformet svamp. Høyre: tynn vifteformet svamp. Foto: Aqua Kompetanse 
+AS 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+20 
+ 
+Figur C-9: Utvalgte bilder fra søkelinje 9. Venstre: fingerformet svamp og tynn vifteformet svamp. Høyre: tynn vifteformet. 
+Foto: Aqua Kompetanse AS 
+ 
+ 
+Figur C-10: Utvalgte bilder fra søkelinje 10. Venstre: fingerformet svamper. Høyre: porøs bulkeformet svamper. Foto: Aqua 
+Kompetanse AS 
+ 
+ 
+Figur C-11: Utvalgte bilder fra søkelinje 11. Venstre: fingerformet svamper. Høyre: tynn vifteformet svamp. Foto: Aqua 
+Kompetanse AS 
+ 
+ 
+Figur C-12: Utvalgte bilder fra søkelinje 12. Venstre: porøs bulkeformet svamp. Høyre: fingerformet svampe. Foto: Aqua 
+Kompetanse AS 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+21 
+ 
+Figur C-13: Utvalgt bilde fra søkelinje 13.Grovt substrattype. Foto: Aqua Kompetanse AS 
+ 
+ 
+Figur C-14: Utvalgte bilde fra søkelinje 14.Tynn vifteformet svamp. Foto: Aqua Kompetanse AS 
+ 
+ 
+Figur C-15: Utvalgte bilder fra søkelinje 15. Venstre: fingerformet svamp. Høyre: fingerformet svamper. Foto: Aqua 
+Kompetanse AS 
+ 
+ 
+Figur C-16: Utvalgt bilde fra søkelinje 16. Fast fjell substrattype med skorpeformede kalkalger. Foto: Aqua Kompetanse AS 
+ 
+1954-6-23SK SNYEN  
+AQUA KOMPETANSE AS 
+22 
+ 
+Figur C-17: Utvalgte bilder fra søkelinje 17. Venstre: tynn vifteformet svamp. Høyre: skorpedannende svamper. Foto: Aqua 
+Kompetanse AS 
+ 
+ 
+Figur C-18: Utvalgte bilder fra søkelinje 18. Venstre: porøs bulkeformet svamp. Høyre: fingerformet svamp. Foto: Aqua 
+Kompetanse AS
+ 1954-6-23SK, SNYEN 
+ 
+ 
+Vedlegg D – Observert tetthet 
+ 
+Tabell D: Transekt, datapunkter, koordinat for datapunktene og tetthet for hver observerte svamp-morfotype (Individ/koloni per m2). Datapunkter uten funn er ikke inkludert. 
+ 
+Transekt 
+Datapunkt 
+Latitude 
+Longitude 
+Fingerformet 
+Massiv 
+Porøs bulkeformet 
+Skorpedannende 
+Stilkformet 
+Traktformet 
+Tykk skålformet 
+Tynn vifteformet 
+T02 
+L 
+66°47.843 
+13°06.693 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T03 
+M 
+66°47.878 
+13°06.543 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T05 
+B 
+66°47.887 
+13°06.203 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T05 
+D 
+66°47.927 
+13°06.292 
+0,000 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T05 
+C 
+66°47.910 
+13°06.239 
+0,000 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T05 
+F 
+66°47.952 
+13°06.413 
+0,004 
+0,000 
+0,008 
+0,000 
+0,000 
+0,000 
+0,000 
+0,008 
+T05 
+G 
+66°47.964 
+13°06.474 
+0,020 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T06 
+D 
+66°47.981 
+13°05.940 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T06 
+E 
+66°48.004 
+13°05.979 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+0,000 
+0,000 
+T06 
+H 
+66°48.071 
+13°06.094 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T06 
+K 
+66°48.137 
+13°06.212 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T06 
+F 
+66°48.026 
+13°06.017 
+0,000 
+0,000 
+0,008 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T06 
+G 
+66°48.048 
+13°06.056 
+0,004 
+0,000 
+0,000 
+0,004 
+0,000 
+0,004 
+0,000 
+0,028 
+T07 
+E 
+66°48.160 
+13°06.556 
+0,000 
+0,000 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,008 
+T08 
+E 
+66⁰48.109 
+13⁰06.661 
+0,008 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T09 
+A 
+66⁰47.997 
+13⁰06.528 
+0,024 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T09 
+B 
+66⁰48.014 
+13⁰06.581 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,036 
+T10 
+D 
+66⁰48.003 
+13⁰06.770 
+0,000 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T10 
+E 
+66⁰48.020 
+13⁰06.823 
+0,000 
+0,000 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,004 
+T10 
+A 
+66⁰47.952 
+13⁰06.609 
+0,012 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T11 
+A 
+66⁰47.913 
+13⁰06.699 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+0,000 
+T11 
+F 
+66⁰47.997 
+13⁰06.968 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T11 
+B 
+66⁰47.930 
+13⁰06.753 
+0,028 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T11 
+C 
+66⁰47.946 
+13⁰06.807 
+0,016 
+0,004 
+0,000 
+0,000 
+0,004 
+0,000 
+0,000 
+0,004 
+T12 
+A 
+66⁰47.870 
+13⁰06.785 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+T12 
+E 
+66⁰47.937 
+13⁰06.999 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+0,000 
+0,000 
+0,008 
+T12 
+F 
+66⁰47.945 
+13⁰07.053 
+0,008 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T12 
+C 
+66⁰47.903 
+13⁰06.892 
+0,020 
+0,004 
+0,000 
+0,012 
+0,000 
+0,000 
+0,000 
+0,004 
+T12 
+D 
+66⁰47.921 
+13⁰06.946 
+0,032 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T14 
+K 
+66⁰48.141 
+13⁰06.902 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,004 
+T14 
+H 
+66⁰48.083 
+13⁰07.047 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,012 
+T14 
+I 
+66⁰48.102 
+13⁰06.999 
+0,000 
+0,000 
+0,000 
+0,012 
+0,000 
+0,000 
+0,000 
+0,020 
+T15 
+N 
+66⁰48.266 
+13⁰06.857 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T15 
+O 
+66⁰48.293 
+13⁰06.843 
+0,004 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T15 
+K 
+66⁰48.205 
+13⁰06.987 
+0,012 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T15 
+Q 
+66⁰48.346 
+13⁰06.816 
+0,012 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T17 
+F 
+66⁰48.092 
+13⁰07.066 
+0,000 
+0,000 
+0,004 
+0,004 
+0,000 
+0,000 
+0,000 
+0,008 
+T18 
+B 
+66⁰48.257 
+13⁰07.078 
+0,008 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+T18 
+G 
+66⁰48.161 
+13⁰06.836 
+0,000 
+0,000 
+0,004 
+0,000 
+0,004 
+0,000 
+0,000 
+0,000 
+T18 
+E 
+66⁰48.200 
+13⁰06.933 
+0,008 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,000 
+0,016

@@ -1,0 +1,176 @@
+﻿Nearshore Survey AS
+ 
+ 
+ 
+Besøks-/Leveringsadresse:
+Nedre Åstveit 12 - 14 
+5106 Øvre Ervik  
+Post: C/o Accountor Bergen AS
+Krokatjønnveien 15 
+5147 Fyllingsdalen
+Telefon: +47 909 44 171
+E-post: office@nearshore.no 
+Internett: www.nearshore.no
+Organisasjonsnummer: NO 912 763 307 MVA
+Bankkonto: 3530.26.87275, Sparebanken Vest  
+SWIFT: SPAVNOBB, IBAN: NO8535302687275
+ 
+Til: 
+Firda Sjøfarmer AS 
+17. juli 2019 
+ 
+Rapport etter oppmåling av oppdrettslokaliteter ihht. NS-9415:2009 
+ 
+Sted: 
+ 
+ 
+Elveneset, Skivenesstranda, Bårøya og Ospeneset 
+Kommune: 
+ 
+Hyllestad, Gulen 
+Dato:  
+ 
+25-27. januar 2019 
+ 
+ 
+Kart som viser beliggenhet av kartlagte områder 
+ 
+Bakgrunn 
+Nearshore Survey AS har på oppdrag for Firda Sjøfarmer AS gjennomført kartlegging med multistråleekkolodd 
+av oppdrettslokalitetene Bårøya og Ospeneset i Gulen kommune, samt Skivenesstranda og Elveneset i 
+Hyllestad kommune. Oppdraget har blitt koordinert via Subaquatech AS.  
+ 
+Kravene for denne type undersøkelser er beskrevet i Norsk Standard 9415:2009 som definerer en maksimal 
+innbyrdes avstand mellom hvert målepunkt i et rutenett på 10x10m innenfor et areal som også innbefatter 
+fortøyningene. Bunntopografi, bunntype og store uregelmessigheter som steiner, bergrygger og sprekker eller 
+større gjenstander skal registreres spesielt.  
+ 
+I skriv fra Fiskeridirektoratet som ble sendt ut i januar 2013, er det presisert at kravet gjelder ned til 500m 
+vanndyp.  
+ 
+ 
+ 
+  
+Nearshore Survey AS
+ 
+NSAS20190717_rapport_firda_gulen-hyllestad. pdf
+  Dato: 17.07.2019
+Side 2 av 5
+Forfatter: Halvor Mohn
+ 
+Anvendt materiell og metode 
+Kartleggingen har blitt gjennomført med et Kongsbergs EM2040 multistråleekkolodd. Dette har rekkevidde på 
+inntil 500m og blir benyttet til hydrografisk oppmåling av Kartverket og for kartlegging innen olje- og 
+kraftindustrien hvor det stilles høye krav til nøyaktighet og oppløsning. Systemet tilfredsstiller strengeste IHO-
+standard (International Hydrographic Organization) og gir dybdedata med lite støy og høy punkttetthet, typisk 
+0.5-1% av aktuelt vanndyp.  På 350m dybde som er et vanlig for mange av oppdrettslokalitetene på 
+Vestlandet, vil man således registrere rundt 30 ganger mer informasjon enn med 10x10m punktavstand som er 
+minimumskravet ihht. NS9415. Dette utgjør langt mer enn hva man isolert sett har behov for ved beregning av 
+miljøpåvirkning og fortøyningsanalyse, men kan gi tilleggsinformasjon som kan ha stor verdi i andre 
+sammenhenger og gi en langt bedre totalforståelse av lokaliteten. Samtidig gjør det en i stand til å oppfylle 
+kravet i standarden om at “bunntype og store uregelmessigheter som steiner, bergrygger og sprekker eller 
+større gjenstander skal registreres spesielt.”  
+ 
+Ved å benytte et kalibrert system beregnet på hydrografisk kartlegging som måler flere tusen målepunkt per 
+sekund, gjennomføres oppmålingen både hurtig og med høy kvalitet og blir derfor prismessig svært 
+konkurransedyktig sammenlignet med alternative metoder.  
+  
+ 
+ 
+Typisk punktavstand vs. vanndyp for Kongsberg EM2040 (H. Mohn)         Oppmålingsfartøy utrustet med multistråleekkolodd 
+ 
+Ekkoloddsystem 
+Kongsberg EM2040 opererer innenfor frekvensområdet 200-400kHz og bygger på erfaringer fra 3002- og 710-
+systemene. Innmåling på oppmålingsfartøyet og kalibrering er gjort ihht. produsenten og Kartverkets 
+spesifikasjoner. Selv om rekkevidden under optimale forhold kan være inntil 600m, varierer dette avhengig av 
+aktuell vanntemperatur og salinitet, noe som påvirker vannets absorbsjon av den utsendte akustiske energi. I 
+motsetning til rimeligere systemer med CV-puls og lavere frekvens og derved også bredere stråler, benytter 
+EM2040-systemet FM-puls for å oppnå lang rekkevidde uten at for mye av detaljrikdommen forsvinner. Under 
+typiske forhold i fjordene på Vestlandet oppnås som regel god bunndeteksjon ned til ca. 450m vanndyp. 
+Dypere enn dette har lokale forhold som bunnens reflektivitetsindeks og lydpulsens innfallsvinkel mot bunnen 
+i hvert enkelt målepunkt avgjørende betydning for om ekkoet er sterkt nok til å bli registrert.  
+ 
+Posisjonering 
+For posisjon og heading samt registrering av roll/pitch/heave er båten utrustet med Kongsberg Seapath380 2-
+frekvent, 2-antenne multikonstellasjon GNSS-mottaker m/MRU-5 bevegelsessensor. For presisjon på 
+centimeternivå benyttes CPOS-korreksjoner mottatt via GSM og/eller Ice. 
+ 
+ 
+ 
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+Punktavstand
+ 
+  
+Nearshore Survey AS
+ 
+NSAS20190717_rapport_firda_gulen-hyllestad. pdf
+  Dato: 17.07.2019
+Side 3 av 5
+Forfatter: Halvor Mohn
+ 
+Lydavbøyning 
+For å ta hensyn til lydavbøyning benyttes en SAIV SD204 CTD-probe som senkes ned gjennom vannsøylen for å 
+måle temperatur og konduktivitet på ulike dybder. Disse dataene leses inn i systemet før oppmålingen starter. 
+For stråler som går loddrett ned og opp igjen er påvirkningen ikke så stor, men stråler som sendes ut til siden 
+vil avbøyes positivt eller negativt i henhold til lover fra klassisk fysikk. Uten denne type informasjon ville 
+oppmålingssystemet ikke vært i stand til å kunne gjøre en korrekt lydbaneberegning og man ville fått feil. 
+ 
+Gjennomføring 
+Oppmålingen ble gjennomført på dagtid i perioden 25-27. januar 2019. Etter måling av lydhastighetsprofil, 
+kalibrering og verifisering av alle systemer ble det kjørt survey langs linjer med 100-150m innbyrdes avstand i 
+de dype områdene. Nært land ble strålen vinklet opp til 75° mot siden for best mulig dekning inn mot 
+strandlinjen. Langs mesteparten ble det oppnådd deteksjon inn til mellom 5-10m vanndyp.  
+ 
+Bearbeiding av data 
+Etter tidevannskorrigering og fjerning av målestøy (spikes) har det blitt fremstilt kart som skyggerelieff og med 
+25m dybdekurver som pdf-fil i A3-format med forklaring i målestokk 1/8.000 – 1/12.500 I tillegg er det 
+generert sosi-fil med 1m eller 2m ekvidistanse og gz-fil for innlesing i Olex, samt KMZ-fil med skyggerelieff for 
+visning i Google Earth. DXF/DWG-format kan leveres på forespørsel.  
+ 
+Konklusjon 
+Gjennom vedlagt kartmateriale og denne rapport har vi forsøkt å presentere resultatene fra oppmålingen på 
+en best mulig måte. Vi håper informasjonen kan ha nytteverdi i forhold videre detaljprosjektering, samt trygg 
+og effektiv drift av anleggene. 
+ 
+ 
+Halvor Mohn 
+Daglig leder 
+ 
+Prosesserte data fra Bårøya fremstilt som skyggerelieff i Google Earth 
+ 
+ 
+ 
+  
+Nearshore Survey AS
+ 
+NSAS20190717_rapport_firda_gulen-hyllestad. pdf
+  Dato: 17.07.2019
+Side 4 av 5
+Forfatter: Halvor Mohn
+ 
+Prosesserte data fra Ospeneset fremstilt som skyggerelieff i Google Earth 
+ 
+Prosesserte data fra Skivenesstranda fremstilt som skyggerelieff i Google Earth 
+ 
+ 
+ 
+  
+Nearshore Survey AS
+ 
+NSAS20190717_rapport_firda_gulen-hyllestad. pdf
+  Dato: 17.07.2019
+Side 5 av 5
+Forfatter: Halvor Mohn
+ 
+Prosesserte data fra Elveneset fremstilt som skyggerelieff i Google Earth (Sett fra Syd-vest) 
+ 
+ 
+ 
+Prosesserte data fra Elveneset fremstilt som skyggerelieff i Google Earth (Sett fra Syd-øst)

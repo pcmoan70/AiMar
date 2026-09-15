@@ -24,6 +24,7 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
   const [kinds, setKinds] = useState<Set<CaseKind>>(() => new Set(CASE_KINDS))
   const [shown, setShown] = useState(PAGE)
   const [grouped, setGrouped] = useState(true)
+  const [onlyText, setOnlyText] = useState(false)
 
   const names = useMemo(() => new Map(localities?.features.map((f) => [f.properties.loknr, f.properties.navn]) ?? []), [localities])
   const siteName = (nr: number) => names.get(nr) ?? String(nr)
@@ -34,10 +35,13 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
     return c
   }, [all])
   const caseTitle = (sak: string) => cases?.cases?.[sak]?.title ?? ''
+  const hasText = (id: string) => !!cases?.docs?.[id]?.some((d) => d.text)
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const textCount = useMemo(() => all.filter((r) => hasText(r.entry.id)).length, [all, cases])
   const rows = useMemo(
-    () => sortRows(searchRows(all, query, siteName, caseTitle).filter((r) => kinds.has(r.kind)), sort, desc, siteName),
+    () => sortRows(searchRows(all, query, siteName, caseTitle).filter((r) => kinds.has(r.kind) && (!onlyText || hasText(r.entry.id))), sort, desc, siteName),
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    [all, query, kinds, sort, desc, names],
+    [all, query, kinds, sort, desc, names, onlyText, cases],
   )
   const siteCount = loknrs ? loknrs.length : (localities?.features.length ?? 0)
 
@@ -71,7 +75,7 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
         {' · '}
         {r.entry.entity} · {t(`case.${r.entry.type ?? 'internal'}`)}
       </small>
-      <CaseDocs docs={cases?.docs?.[r.entry.id]} />
+      <CaseDocs entry={r.entry} docs={cases?.docs?.[r.entry.id]} />
     </li>
   )
 
@@ -110,6 +114,17 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
             <input type="checkbox" checked={grouped} onChange={(e) => setGrouped(e.target.checked)} /> {t('cases.group')}
           </label>
         )}
+        <label title={t('cases.onlyTextTitle')}>
+          <input
+            type="checkbox"
+            checked={onlyText}
+            onChange={(e) => {
+              setOnlyText(e.target.checked)
+              setShown(PAGE)
+            }}
+          />{' '}
+          {t('cases.onlyText', { n: textCount })}
+        </label>
       </div>
       <div className="case-kinds">
         {CASE_KINDS.map((k) => (

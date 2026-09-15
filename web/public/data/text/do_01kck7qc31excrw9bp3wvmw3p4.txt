@@ -1,0 +1,773 @@
+﻿STIM Rapport 63-2023                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fylke: 
+Nordland 
+Kommune: 
+Bodø 
+Dato: 
+28.10.2023 
+ 
+ 
+AZE-rapport ved Storvika 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 1 av 16 
+ 
+ 
+  
+ 
+ 
+STIM Miljø  
+ 
+  
+Tittel:  
+AZE-rapport ved Storvika 
+Forfatter(e):  
+Per-Otto Johansen og Frida R. Klubb 
+Rapport nr.: 63-2022 
+Prosjektleder:  
+Morten Stokkan 
+Antall sider: 16 
+Oppdragsgiver:  
+Edelfarm AS 
+Dato rapport: 28.10.2023 
+ 
+ 
+Aktivitet 
+Akkrediterings-nummer 
+Personell 
+AZE-modellering 
+Nei 
+Per-Otto Johansen 
+Vurdering av behov for supplerende 
+kartleggingstransekt 
+Nei 
+Frida R. Klubb 
+ 
+ 
+Prosjektansvarlig 
+ 
+Dato 
+Signatur 
+ 
+ 
+STIM Kunnskapstjenester, Miljø  
+ 
+Thormøhlens gt. 55 
+5006 Bergen, Norway 
+Organisasjonsnr. NO 964 873 755 MVA 
+www.stim.no/tjenester/miljotjenester  
+miljo@stim.no 
+ 
+Rapporten kan kun gjengis i sin helhet.  
+Gjengivelse av deler av rapporten kan kun skje etter skriftlig tillatelse fra STIM AS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 09 2
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 2 av 16 
+ 
+Innhold 
+Innledning ............................................................................................................................................ - 3 - 
+Programvaren .................................................................................................................................. - 3 - 
+ASC og AZE ....................................................................................................................................... - 3 - 
+Data input ............................................................................................................................................ - 4 - 
+Oppdrettsanlegget .......................................................................................................................... - 4 - 
+Bunntopografi ................................................................................................................................. - 5 - 
+Strøm ............................................................................................................................................... - 7 - 
+Resultater ............................................................................................................................................ - 8 - 
+AZE og partikkelspredning ............................................................................................................... - 8 - 
+A. 
+Nåværende anlegg ...................................................................................................................... - 8 - 
+Spredning av karbon ........................................................................................................................ - 8 - 
+Spredning av partikulært organisk materiale .................................................................................. - 9 - 
+B. 
+Utvidet anlegg ........................................................................................................................... - 11 - 
+Spredning av karbon ...................................................................................................................... - 11 - 
+Spredning av partikulært organisk materiale ................................................................................ - 11 - 
+Oppsummering og konklusjoner ....................................................................................................... - 13 - 
+Vurdering om behov for supplerende kartleggingstransekt ............................................................. - 14 - 
+Referanser ......................................................................................................................................... - 15 - 
+Vedleggsfiler: ..................................................................................................................................... - 15 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 3 av 16 
+ 
+Innledning 
+Denne rapporten som er utført for Edelfarm AS/Wenberg Fiskeoppdrett, inneholder resultatene fra 
+en spredningsmodell-simulering ved 32397 Storvika oppdrettsanlegg som ligger i Bodø kommune. 
+Det er beregnet et Allowable Zone of Effect (AZE) område for oppdrettsanlegget ut fra kriteriene som 
+er gitt av Aquaculture Stewardship Council (ASC) og Scottish Environment Protection Agency (SEPA). 
+Programvaren 
+NewDEPOMOD programvaren som ble benyttet for å kjøre simuleringene, er utviklet av Scottish 
+Association for Marine Science (SAMS), i samarbeid med havbruksnæringen og Scottish Environment 
+Protection Byrå (SEPA). Programmet har en sporingsmodell 
+som 
+simulerer 
+spredningen 
+av 
+partikulært 
+organisk 
+materiale (POM) og karbon fra et oppdrettsanlegg (Figur 1). 
+Partikler fra fôrspill og fekalier kan bevege seg horisontalt og 
+vertikalt og underlagt vannstrømmer (adveksjon), diffusjons-
+prosesser, nedsynkning og resuspensjon fra sediment. 
+Vannsøylen er i modellen representert i tre dimensjoner som 
+et rutenett bestående av regulære firkantede celler 
+horisontalt, og en serie dypere lag definert av de målte 
+strømdataene og bunntopografi-informasjonen. Ved hjelp av 
+matematiske beregninger estimerer programmet mengden 
+og retningen av materiale som spres til omgivelsene fra 
+anlegget. Andre parametere som inngår i modellen er bl.a. 
+anleggets størrelse, form, dyp, plassering, fôrmengde og 
+fisketetthet. Optimalt bunntopografi-område for AZE-
+simuleringene er ca. 2 x 2 km. 
+ 
+Figur 1. Flytskjema som representerer NewDEPOMOD modell-input, moduler og prosesser. Kilde: 
+SAMS. 
+ASC og AZE 
+Aquaculture Stewardship Council (ASC) er en ideell organisasjon som driver et frivillig, uavhengig 
+tredjeparts sertifiserings- og merkingsprogram 
+basert på vitenskapelige robuste sett med 
+standarder. I forbindelse med ASC benyttes 
+Allowable Zone of Effect (AZE). AZE er definert som 
+arealet av havbunnen eller volumet av vannmasser 
+der en tillater en viss overskridelse av relevant 
+miljøkvalitets 
+standard 
+(Environment 
+Quality 
+Standard-EQS) eller miljøskader.  
+ 
+ 
+Figur 2. Gamle og nye grenser for AZE (kilde: SEPA). 
+ 
+ 
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 4 av 16 
+ 
+Grenseverdiene som er benyttet for å plassere AZE-grensene er forslått av Scottish Environment 
+Protection Agency (SEPA). På bakgrunn av NewDEPOMOD-simuleringen kan AZE-grenseverdier for et 
+oppdrettsanlegg beregnes. I de tidligere modellene ble faste grenser fra anlegget benyttet, mens det 
+ut fra simuleringer kan fastsettes mer realistiske grenser basert på den estimerte spredningen til 
+omgivelsene (Figur 2).  
+ 
+Grensene er bestemt ut fra mengden næringstilførsel og estimert påvirkningsgrad av bunnfaunaen i 
+området. Faunatilstanden som er bestemt som Infaunal Trophic Index (ITI), er inndelt i en skala som 
+går fra 1 til 100 (Cromey et al. 2002). På en modellert grense som inneholder 80 % av utslippet 
+estimeres det en ITI-verdi av modellen. En fauna-indeks som indikerer god til høy økologisk kvalitet i 
+sediment utenfor AZE, har ITI større enn 25 (Figur 3). Lave ITI-verdier betyr at området er påvirket, 
+mens høye verdier betyr liten påvirkning. Den estimerte størrelsen på AZE-området er påvirket av 
+produksjonen som en følge av sedimentering av utslipp fra anlegget. 
+ 
+ 
+Figur 3. Prinsippskisse med tre omriss. A: ytre omriss som viser er AZE området (30 ITI), B: midtre 
+omriss (10 ITI) og C: indre omriss. (Kilde SEPA). 
+ 
+Data input 
+Oppdrettsanlegget 
+Anlegget ligger i Skjerstadfjorden ved Storvika (Figur 4). Det opprinnelige oppdrettsanlegget består 
+av til sammen 16 (8 x 2) merder og anlegget ligger vendt fra sørlig til nordlig retning.  
+Det omsøkte og utvidete oppdrettsanlegget består av til sammen 20 (10 x 2) merder og anlegget 
+ligger fra sørøstlig til nordvestlig retning.  
+ 
+Diameteren på merdene er 38.22 meter med omkrets om lag 120 meter. Avstanden mellom 
+merdene i henholdsvis det gamle og det nye anlegget er 24.78 meter og 36.78 meter. 
+Merdene har en totaldybde på ca. 32 meter, 20 m til bunntelne + 12 meter spiss/bunn).  Volum ned 
+til bunntelne ca. 22 000 m3 og inkludert bunn ca. 26 000 m3. 
+ 
+Volumet i gammelt anlegg er (26 000 m3 x 16) = 416 000 m3 og nytt anlegg (26 000 m3 x 20) = 520 
+000 m3. MTB for det gamle anlegget er 3120 tonn og for det utvidete anlegget 4836 tonn. MTB er 
+definert som maksimal tillatt stående biomasse (antall kg levende fisk i sjøvann) til enhver tid i 
+anlegget. Under modell-simuleringen ble det benyttet en beregnet produsert fiskemengde på 
+henholdsvis 7.5 kg/m3 og 9.3 kg/m3 for det gamle og nye anlegget. 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 5 av 16 
+ 
+ 
+Figur 4. Kartet angir plasseringen av oppdrettsanlegget (rød stjerne) Storvika i Skjerstadfjorden.  
+Kartkilde Fiskeridirektoratet. 
+ 
+Bunntopografi 
+ 
+Figurene 5, 6 og 7 viser bunntopografien i områdene rundt oppdrettsanlegget ved Storvika. 
+ 
+  
+ 
+ 
+Figur 5. Kartet gir oversikt over dybdeforholdene ved anlegget Storvika. Anleggets omtrentlige 
+posisjon er markert med rød stjerne. Kartkilde: QGIS. 
+ 
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 6 av 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 6. Oversikt over plasseringen av hjørnene til anlegget og dybdeforhold angitt med dybdekoter 
+ved Storvika oppdrettsanlegg med de ytre hjørnene av anlegget markert. Kartet til venstre viser det 
+nåværende anlegget og kartet til høyre viser det utvidede anlegget. Kartkilde: QGIS 
+ 
+Konverterte bunnfiler som var importert fra Olex med dybdedata og koordinater, og som var målt i 
+det undersøkte området, ble benyttet i simuleringene. Skjerstadfjorden har smal forbindelse ved 
+Saltstraumen ut mot Saltfjorden i vest med terskeldyp på ca. 20-30 meter. I den andre enden, inn 
+mot Rognan er fjorden lukket. Ved Storvika skråner sjøbunnen bratt ned på begge sider av fjorden 
+mot et flatere parti i midten med dybde på omtrent 400 m - 500 m. Oppdrettsanlegget ligger over en 
+sterkt skrånende sjøbunn. Bunndataene ble overført til et regulært rutenett med oppløsning på 25 x 
+25 meter i et oppmålt område på ca. 2,5 x 2,5 km. Simuleringene ble utført med UTM-33N 
+koordinater over bunntopografien.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 
+7. 
+Kartet 
+viser 
+en 
+bunntopografien med dybdekoter i 
+det 
+undersøkte 
+området. 
+Kartutsnittet på ca. 2,5 x 2,5 km. 
+Kartet er basert på konverterte 
+Olex data. Kartdatum: UTM33N-
+WGS84. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 7 av 16 
+ 
+Strøm 
+NewDepomod programvaren benytter strømmålinger fra lokaliteten til å beregne forholdstall 
+mellom dybden i måleposisjonen og de ulike måledypene. Strømmålerne i de utvalgte dypene målte i 
+10 minutters intervaller ved Storvika. Simuleringene ble utført ut fra strømdata fra 5, 15, 70 og 120 
+meters dyp i perioden fra 24.5.2018 til 29.6.2018. Strømmåleren var plassert i posisjon 511926.09Ø, 
+7453992.14N, UTM33N (15.2758167Ø, 67.2026N, desimalgrader i WGS84) på ca. 267 meters 
+bunndybde. Tidevannsdata fra Kartverket i undersøkelsesperioden ble også benyttet i simuleringene. 
+Det er forventet at strømhastigheter og strømretninger vil variere med tidevannssyklusene og 
+tidspunktene for Nipp og Spring inngår derfor i simuleringene. I den undersøkte perioden var første 
+Spring 30.mai og første Nipp 6. juni. Gjennomsnittlige strømhastigheter og strømretninger for hver 
+time ble beregnet og brukt i simuleringene. Simuleringene ble kjørt over 860 timesintervaller. 
+Strømhastigheter og strømretninger ble konvertert til strømvektorer (u og v) som ble benyttet i 
+simuleringene. 
+ 
+Figur 8. Plott av strømvektorene fra de fire måledypene ved Storvika.  
+ 
+Figur 8 viser plott over fordelingen av strømvektorene (u og v) fra de fire målte dypene. Plottet viser 
+de gjennomsnittlige strømretningene og strømstyrkene som ble målt i timesintervallene i den 
+undersøkte perioden. De sterkeste strømmene ble observert i 5 og 15 meters dyp. Det var svakere 
+strømmer i 70 og 120 meters dyp. Hovedvekten av strømmene i 5 meter og 15 meters dyp gikk i 
+nordvestlig og sørøstlig retning. I de to dypeste lagene gikk strømmene mer i øst-vest retning. 
+Modellen kompenserer vha. interpolering og ekstrapolering, for strømmene i de mellomliggende og 
+dypere områdene for det aktuelle området.  
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 8 av 16 
+ 
+ 
+ 
+ 
+ 
+Figur 9. Plott som viser generell fordeling 
+av strømhastigheter ved Storvika. 
+ 
+ 
+ 
+ 
+ 
+Figur 9 viser den generelle fordelingen av strømhastighetene for simuleringsperioden fra 24.5.2018 
+til 29.6.2018. De målte gjennomsnittlige strømhastighetene i vannsøylen for hver time var 
+hovedsakelig lavere enn 20 cm/s, men det forekom også strømhastigheter over 50 cm/s. De 
+gjennomsnittlige strømhastighetene i den undersøkte perioden i 5 meters og i 15 meters dyp var 
+henholdsvis 13.8 cm/s og 6.5 cm/s. De gjennomsnittlige strømhastighetene i 70 meters og 120 
+meters dyp var henholdsvis 3.6 cm/s og 1.9 cm/s. De høyeste hastighetene som ble målt var 58.1 
+cm/s og 24.4 cm/s for henholdsvis 5 og 15 meters dyp. For 70 m og 120m var de maksimale målte 
+hastighetene henholdsvis 13.5 cm/s og 8.4 cm/s.  
+Simuleringene indikerte at det ville være lite resuspensjon av sedimentert materiale fra sjøbunnen 
+for både det opprinnelige anlegget og det utvidede anlegget. Dette kan ha sammenheng med svake 
+bunnstrømmer og stor sjøbunndybde i spredningsområdet. 
+Resultater 
+AZE og partikkelspredning 
+AZE-grensen er beregnet ut fra spredningen av partikulære organisk materiale (POM) med 
+utslippsmengder over 192 g/m2/år. Den simulerte spredningen av organisk karbon over 1 g/m2/år vil 
+normalt være noe større enn den simulerte spredningen av partikulært organisk materiale (POM) 
+som er over 192 g/m2/år. Siden spredningen av organisk karbon er større enn spredningen av 
+organiske partikler fra anlegget, viser det at det vil spres materiale fra anlegget også utenfor AZE-
+grensen, men i lavere konsentrasjoner. De simulerte spredningene av organisk karbon og POM fra 
+oppdrettsanlegget vil være bestemt ut fra den oppmålte bunntopografien og de målte 
+strømforholdene i undersøkelsesperioden for det undersøkte området. 
+A. Nåværende anlegg 
+Spredning av karbon 
+Figur 10 viser den simulerte spredningen av karbon med organisk opphav fra det nåværende 
+oppdrettsanlegget ved Storvika. Det ytterste rosa omrisset viser grensen for spredning av 1 
+gram/karbon/m2. De innerste rosa omrissene viser grensen for 50 gram/karbon/m2. De største 
+avsettingene med de høyeste konsentrasjonene av karbon skjer hovedsakelig i den sørlige enden av 
+anlegget. Spredningen av karbon er størst mot øst og vest-nordvest sett i forhold til anlegget.  
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 9 av 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 10. Spredningsområdet av organisk karbon 
+med opphav fra det nåværende anlegget ved 
+Storvika. Områdene som er markert med hvitt og 
+gult har de høyeste konsentrasjonene. De største 
+dypene har mørk blå farge og de grunnere dypene 
+lys blå farge. 
+ 
+ 
+Spredning av partikulært organisk materiale 
+Figur 11 viser den simulerte spredningen og avsettingen av partikulært organisk materiale (POM) fra 
+det nåværende oppdretts-anlegget ved Storvika.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 11. Spredningsområdet av partikulære 
+organiske partikler (POM) fra anlegget ved det 
+nåværende anlegget i Storvika. Områdene som er 
+markert med hvitt og gult har de høyeste 
+konsentrasjonene. De største dypene har mørk 
+blå farge og de grunnere dypene lys blå farge. 
+ 
+ 
+ 
+De ytterste rosa omrissene viser grensen for Allowable Zone of Effect (AZE) med avsetting over ca. 
+192 gram/POM/m2/år. De innerste og minste rosa omrissene viser grensene for avsetting over 1555 
+gram/POM/m2/år. Simuleringene indikerer at de høyeste konsentrasjonene vil ligge under selve 
+anlegget og spesielt i den sørlige delen. Simuleringene indikerer også at partikler over AZE-grensen vil 
+i hovedsak kunne spre seg i et ovalt mønster mot øst, og vest for anlegget.  
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 10 av 16 
+ 
+Det påvirkete arealet (Benthic impacted Area EQS) ved 80 % av utslippet ble beregnet til å være 
+omlag 508 906 m2. Det påvirkede arealet er klassifisert til å ligge nær grenseverdien som er angitt til 
+500 000 m2 av SEPA.  
+ 
+Bunnfaunaen (Benthic FarField EQS) viste en lav påvirkningsgrad med beregnet ITI verdi på 10.71. 
+Tabell 1 viser de målte avstandene til de ytterste AZE-grensene i de ulike himmelretningene som 
+hadde POM over 192 gram/m2/år. Koordinatene og konsentrasjonene av partikulært organisk 
+materiale (POM) til alle de 477 kartpunktene med gjennomsnittlige konsentrasjoner over 192 
+gram/POM/m2/år er vedlagt fil (Storvika-original-POM over 192 med koordinater.xlsx). 
+Kartkoordinatene til punktene er angitt med både i kartdatum UTM-33N og WGS84 desimalgrader. 
+Dessuten er det vedlagt en tekstfil med et plottelag for alle punktene med gjennomsnittlige 
+konsentrasjoner over 192 g/m2/år (over AZE-grensen) og som er beregnet for importering til Olex 
+kart (Storvika-orginal-AZE-punkter plottelag for Olex.txt). Figur 12 viser anlegget med hovedpunkter 
+som har høyere konsentrasjoner enn 192 gram/POM/m2/år. 
+ 
+Tabell 1. Avstandene for AZE-grensene. 
+ 
+Yttergrenser og områder over AZE 
+Ca. avstand 
+Fra midtpunkt i nordende mot vest: 
+400m 
+fra midt av anlegg mot øst: 
+340m 
+Fra midtpunkt i nordende mot nord: 
+90m 
+ 
+ 
+ 
+Figur 12. Simulert spredning av POM og plasseringen av det nåværende anlegget ved Storvika. POM-
+punktene er angitt som røde stjerner med grå skygge. Anleggets ytterhjørner er vist med sorte 
+punkter. Kartkilde: QGIS. 
+ 
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 11 av 16 
+ 
+B. Utvidet anlegg 
+Spredning av karbon 
+Figur 13 viser den simulerte spredningen av karbon med organisk opphav fra utvidet oppdrettsanlegg 
+ved Storvika. Det ytterste rosa omrisset viser grensen for spredning av 1 gram/karbon/m2. De 
+innerste rosa omrissene viser grensen for 50 gram/karbon/m2. De største avsettingene med de 
+høyeste konsentrasjonene av karbon skjer hovedsakelig under den sørlige delen av selve anlegget. 
+Spredningen av karbon er størst mot nordvest og øst sett i forhold til anlegget.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 13. Simulert spredningsområde av organisk 
+karbon med opphav fra et utvidet anlegg ved 
+Storvika. Områdene som er markert med hvitt og 
+gult har de høyeste konsentrasjonene. De største 
+dypene har mørk blå farge og de grunnere 
+dypene lys blå farge. 
+ 
+ 
+Spredning av partikulært organisk materiale 
+Figur 14 viser den simulerte spredningen og avsettingen av partikulært organisk materiale (POM) fra 
+et utvidet oppdretts-anlegget ved Storvika.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 
+14. 
+Simulert 
+spredningsområde 
+av 
+partikulære organiske partikler (POM) rundt et 
+utvidet anlegg ved Storvika. Områdene som er 
+markert med hvitt og gult har de høyeste 
+konsentrasjonene. De største dypene har mørk 
+blå farge og de grunnere dypene lys blå farge. 
+ 
+ 
+ 
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 12 av 16 
+ 
+De ytterste rosa omrissene viser grensen for Allowable Zone of Effect (AZE) med avsetting over ca. 
+192 gram/POM/m2/år. Det innerste og minste rosa omrisset viser grensene for avsetting over 1555 
+gram/POM/m2/år. Simuleringene indikerer at de høyeste konsentrasjonene vil ligge under selve 
+anlegget. Simuleringene indikerer også at partikler over AZE-grensen vil i hovedsak kunne spre seg i 
+et ovalt mønster rundt anlegget, i hovedsak mot vest og øst.  
+ 
+Det påvirkete arealet (Benthic impacted Area EQS) ved 80 % av utslippet ble beregnet til å være 
+omlag 792 692 m2. Det påvirkede arealet er klassifisert til å være høyt og ligger over grenseverdien 
+som er angitt til 500 000 m2 av SEPA.  
+ 
+Tabell 2. Avstandene for AZE-grensene. 
+ 
+Yttergrenser og områder over AZE 
+Ca. avstand 
+Fra nordvestre merd mot nordvest: 
+440m 
+Fra midten av anlegg mot øst: 
+310m 
+Fra nordøstre ende mot nord: 
+70m 
+  
+Bunnfaunaen (Benthic FarField EQS) viste en høy påvirkningsgrad med beregnet ITI verdi på 12.38. 
+Tabell 2 viser de målte avstandene til de ytterste AZE-grensene i de ulike himmelretningene som 
+hadde POM over 192 gram/m2/år. Koordinatene og konsentrasjonene av partikulært organisk 
+materiale (POM) til alle de 854 kart-punktene med gjennomsnittlige konsentrasjoner over 192 
+gram/POM/m2/år er vedlagt som en Excel- fil (Storvika-utvidet-POM over 192 d koordinater.xlsx). 
+Kartkoordinatene til punktene er angitt med både i kartdatum UTM-33N og WGS84 desimalgrader. 
+Dessuten er det vedlagt en tekstfil med et plottelag for alle punktene med gjennomsnittlige 
+konsentrasjoner over 192 g/m2/år (over AZE-grensen) og som er beregnet for importering til Olex 
+kart (Storvika-utvidet-AZE-punkter plottelag for Olex.txt). ). Figur 15 viser anlegget med 
+hovedpunkter som har høyere konsentrasjoner enn 192 gram/POM/m2/år. 
+ 
+ 
+ 
+ 
+ 
+Figur 15. Spredningen av 
+POM og plasseringen av 
+utvidet 
+anlegg 
+ved 
+Storvika. POM-punktene er 
+angitt som sorte punkter. 
+Anleggets ytterhjørner er 
+vist med røde markører. 
+Kartkilde: QGIS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 13 av 16 
+ 
+Oppsummering og konklusjoner 
+Det ble utført NewDepomod-modellsimuleringer av spredning av organiske partikler fra 
+oppdrettsanlegget ved Storvika. Oppdrettsanlegget ligger over en sterkt skrånende sjøbunn på 
+sørsiden av Skjerstadfjorden, som har et smalt utløp via Saltstraumen mot Saltfjorden i vest. Det 
+nåværende anlegget har 16 (2 x 8) merder, og det omsøkte anlegget vil ha 20 (2 x 10) merder. Det 
+utvidede anlegget er plassert i samme område som det nåværende. Imidlertid vil den nordlige enden 
+av utvidede anlegget være vendt i en mer nordvestlig retning (Tabell 3). Og avstanden mellom 
+merdene vil økes fra nåværende 25 meter til 37 meter i det omsøkte anlegget. 
+Simuleringene ble utført med MTB på 3120 tonn og 4836 tonn for henholdsvis det gamle og utvidede 
+anlegget. Gjennomsnittlig fiskemengde som ble benyttet i simuleringene var 7.5 kg/m3 og 9.3 kg/m3 
+for henholdsvis de gamle og det utvidede anlegget. Basert på strømmålingene fra 5, 15, 70 og 120 
+meters dyp i perioden fra 24.5 2018 til 29.6 2018, viser simuleringene at de høyeste 
+konsentrasjonene av partikulært materiale ligger under anlegget og i nærområdene rundt anlegget. 
+Det er normalt med lavere strømhastigheter i de dypere vannlagene enn i de øvre vannlagene, noe 
+som vises i strømmålingene for de fire undersøkte dypene. Dyp under 120 meter blir ekstrapolert av 
+programmet. Siden de gjennomsnittlige strømhastighetene var lave (1.9 cm/s) i 120 meters dyp, er 
+det rimelig å anta at strømhastighetene også vanligvis vil være lave i dypene ned til 400-500 meter. 
+De viktigste faktorene for spredning av partikler vil derfor trolig være strømmene i de øvre 
+vannlagene.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 
+16. Spredningen av partikulært organisk materiale (POM) ved nåværende (røde punktet og grått felt) 
+og et utvidet anlegg (sorte punkter) ved Storvika. Kartkilde: QGIS. 
+ 
+ 
+ 
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 14 av 16 
+ 
+Tabell 3. De viktigste data og resultater fra simuleringene 
+Anlegg 
+Merder Anleggsretning 
+Fisketetthet Spredningsareal ITI 
+Nåværende 2 x 8 
+sør-nord 
+7.5 kg/m3 
+508 906 m2 
+10.71 
+Utvidet 
+2 x 10 
+sørøst-nordvest 9.3 kg/m3 
+792 692 m2 
+12.38 
+Simuleringene viste at spredningsarealet for et utvidet anlegg ble noe større enn det nåværende 
+anlegget (Tabell 3 og Figur 16). Scottish Environment Protection Agency (SEPA) har foreslått 
+klassifisering av lav og høy påvirkning ut fra erfaringer fra skotske oppdrettsanlegg. Grensen mellom 
+lavt og høyt spredningsareal er satt til 500 000 m2 og for påvirkningsgraden av faunaen er grensen 10 
+ITI.  For det nåværende anlegget var spredningsarealet omkring denne grensen (508 906 m2), og 
+fauna-påvirkningen ble klassifisert til lavt (10.71 ITI). For et utvidet anlegg lå spredningsarealet noe 
+over grensen (792 692 m2), og faunamiljøpåvirkningen ble også klassifisert til lavt (12.38 ITI). 
+Sør, øst, vest og under anlegget er sjøbunnen noe grunnere enn nordover. Simuleringene viste at 
+bunntopografien virker inn på spredningen av organiske partikler på en sånn måte at partiklene 
+følger de dypere delene mot nord-nordvest. Ved en utvidelse av anlegget vil partikkelspredningen gå 
+litt lengre mot nord-nordvest, men er ellers mye lik den simulerte spredningen for det nåværende 
+anlegget. Dette framgår av figur 16 hvor det røde og grå punktene er den nåværende simulerte 
+spredningen og de sorte punktene viser den simulerte spredningen fra et utvidet anlegg. 
+Vurdering om behov for supplerende kartleggingstransekt 
+I 2022 ble området ved Storvika kartlagt for sårbare arter og naturtyper, med fokus på koraller som 
+befinner seg på hardbunn (Kristensen og Østensvig, 2022). Oppsettet til den visuelle undersøkelsen, 
+plassering og antall transekt, ble godkjent av statsforvalter. Plassering av transekt ble basert på 
+bakgrunn av strøm (øst-vest retning), topografi og tidligere funn av koraller ved undersøkelse av 
+forankringspunkter. Det er tilstrekkelig kartlegging i de valgte områdene og kartfestet forekomst av 
+korall og svamp. Undersøkelsen viste funn av naturtypen hardbunnskorallskog (med varierende 
+tetthet), bestående av artene sjøtre, risengrynkorall og blomkålkorall, samt få observasjoner av 
+Anthothelidae. Utfra beskrivelsen i rapporten, kan en anta at de største forekomstene av korallskog 
+ligger omtrent 600 meter øst for anlegget, langs ryggen på det undersjøiske neset/odden og 500 
+meter nordvest for anlegget ved en bratt skråning. 
+Spredningsmodell viser en hoveddeponering av organisk materiale under anlegget i sørlig del og en 
+spredning som går omtrent 250-500 m fra anlegg i nord-nordvestlig retning langs land. Modellen 
+avdekker ikke et nytt risikoområde enn det som allerede er vurdert for påvirkning og kartlagt. Det er 
+en lav risiko for påvirkning av naturtypene i området som er kartlagt, mtp. korallskogene øst og nord-
+nordvest for anlegget.  
+Det er vurdert at det ikke er ytterlige behov for supplerende transekt, forutsatt at kartleggingsplanen 
+ble godkjent av statsforvalter og at det ikke var behov for kartlegging under det planlagte anlegget 
+for å dekke området med bløtbunn (habitat for bl.a. sjøfjær), med bakgrunn av lokalitetens lange 
+drift og forventet lokal påvirkning. Kartfestingen av observasjonene gjort under undersøkelsen kan gi 
+en antydning på reduserende tetthet og forekomst jo nærmere en kommer anlegget, så ved å tilføye 
+et supplerende transekt for å dekke dette området vil sannsynligvis kun påvise en bunn som ikke har 
+like høy biodiversitet m/koraller og svamp som i områdene lenger unna.  
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 15 av 16 
+ 
+Referanser 
+Aquaculture Stewardship Council (2019). ASC Salmon Standard (versjon. 1.3 2019). (https://www.asc-aqua.org) 
+Cromey, C. J., Nickell, T. D., & Black, K. D. (2002) DEPOMOD—modelling the deposition and biological effects of 
+waste solids from marine cage farms. Aquaculture, 214(1-4), 211-239. 
+Kristensen, B. og Østensvig, C. (2022). Visuell kartlegging ved Storvika i Skjerstadfjorden. Rapportnummer 
+104242-02-001/06.05.2022, Åkerblå AS 
+NewDEPOMOD User Guide 1.5.0 (2023). NewDEPOMOD team, Scottish Association for Marine Science, SAMS 
+Research Services Limited. 
+Olex user manual version 7.31. Pirsenteret, Trondheim, Norway (www.olex.no). 
+Scottish Environment Protection Agency (SEPA). (https://www.sepa.org.uk). 
+Torkelsen K. (2018). Vurdering av strømforhold ved Storvika i Skjerstadfjorden. SR-M-04518-Storvika0718-
+ver01.pdf. 
+Åkerblå (2020). Kartpakke Søknad om etablering av akvakultur for Storvika. Rapport nr: 101387-01-001. 
+Åkerblå (2021). Kartpakke til søknad Søknad om endret areal og MTB For 32397 - Storvika i Skjerstadfjorden 
+Bodø kommune, Nordland fylke. Rapportnummer: 103035-01-001. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vedleggsfiler:        Storvika-orginal-POM over 192 med koordinater.xlsx 
+ 
+ 
+ 
+ Storvika-original-AZE-punkter plottelag for Olex.txt 
+ 
+ 
+ 
+ Storvika-utvidet-POM over 192 med koordinater.xlsx 
+ 
+ 
+ 
+ Storvika-utvidet-AZE-punkter plottelag for Olex.txt 
+ 
+ 
+ 
+STIM Rapport nr. 63-2023 
+ 
+AZE-Rapport ved Storvika  
+ 
+Side 16 av 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STIM utfører marine miljøundersøkelser og miljøovervåkning på oppdrag fra fylker, 
+kommuner, oljeselskap, industri og havbruksnæring. STIM Miljø er akkreditert for 
+prøvetaking av sediment til analyse av biologi, kjemi og sedimentkarakteristikk, samt 
+fjæreundesøkelser, bruk av blåskjell i bur, taksonomisk analyse og faglig vurdering og 
+fortolking under akkrediteringsnummer Test 157.  
+ 
+Vi utfører også naturtypekartlegging, vannsøyleundersøkelser, risikovurdering av 
+forurenset sediment, strømmålinger og modellering av strømforhold, samt andre 
+miljøundersøkelser og rådgivingstjenester. 
+ 
+www.STIM.no

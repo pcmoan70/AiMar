@@ -1,0 +1,1432 @@
+﻿Havbølgemodelleringer for lokalitet 
+Bjørnøy,  
+Bodø kommune, Nordland, 2016 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS Rapport: 7769.01 
+Landegode 
+ 
+ 
+Forsidebilde: Resultat fra simulering med bølgemodellen CMS-Wave. Fargeskalaen viser signifikant 
+bølgehøyde og pilene viser bølgetogenes retning. Bjørnøy-lokaliteten er vist med pilspissen til den 
+sorte pilen (kartkilde for bakgrunnskart: www.fdir.no). Resultatene viser simuleringer med 
+havdønninger fra rett vest, og det er tydelig at Landegode skjermer lokaliteten Bjørnøy effektivt. 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS  
+Rådgivning og forskning innen miljø og akvakultur 
+Org.nr: NO 937 375 158 MVA 
+Framsenteret 
+9296 Tromsø 
+Tlf: 77 75 03 00, Fax: 77 75 03 01 
+www.akvaplan.niva.no 
+ 
+Rapporttittel / Report title 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Forfatter(e) / Author(s) 
+Øyvind Leikvin 
+ 
+ 
+Akvaplan-niva rapport nr / report no 
+7769.01 
+Dato / Date 
+21.04.2016 
+Antall sider / No. of pages 
+21 
+Distribusjon / Distribution 
+Gjennom oppdragsgiver 
+Oppdragsgiver / Client 
+Lofoten Sjøprodukter AS 
+Mortsundveien 379 
+8370 Leknes 
+Oppdragsg. referanse / Client’s reference 
+Roger Mosseng 
+Sammendrag / Summary 
+Bølgemodelleringene for lokaliteten Bjørnøy har vist at det er størst eksponering ved lokaliteten med vindgenererte bølger fra nordøst 
+(45 grader). Største signifikante bølgehøyde (Hs) med 50 års returperiode er da 2.8 m i anlegget. Nabosektorene mot mer vestlige 
+retninger (0 – 30 grader) og mot 60 grader har bølgehøyder på mellom 2.0 og 2.5 m. Typiske bølgeperioder fra disse retningene er 5 
+– 8 s. 
+Fra mer vestlige retninger blir bølgeeksponeringen vesentlig svekket som følge av at Landegode og Bjørnøy skjermer lokaliteten mot 
+bølger fra nordvest, vest og sørvest. Mot sør-sørvestlige, sørlige og sørøstlige retninger er det igjen lenger strøklengde inn mot 
+lokaliteten, slik at vindgenererte bølger høyere enn 1.0 m kan oppstå. Høyeste signifikante bølgehøyde med 50 års returperiode fra 
+disse sørlige retninger (210 grader) er ifølge modellsimuleringene 1.6 m.  
+Simuleringene med kombinert sjøtilstand (havbølger + vindbølger) får noenlunde samme eller ørlite mindre bølgehøyder enn ved 
+kun lokalt vindgenererte bølger, for alle retninger.  
+Havdønninger alene gir maksimalt opp mot drøye 0.3 m høye bølger, uansett retning. Lokaliteten Bjørnøy er altså lite eksponert for 
+havdønninger, og det er de lokalt genererte vindbølgene som gir kraftigst bølgeeksponering ved lokaliteten Bjørnøy, uansett retning. 
+Modelleringene har vist at øyer og grunne områder vest og nord for lokaliteten er effektive når det gjelder å redusere bølgehøyden 
+inn mot interesseområdet. Øyene Landegode og Bjørnøya skjermer lokaliteten Bjørnøy for bølgeeksponering, spesielt fra sektoren 
+mellom sørvest og nordvest.  
+Analyse av vinddata fra nærmeste meteorologiske stasjoner gir vesentlig lavere vindverdier enn vanlig metodikk fra Norsk Standard, 
+og dermed også lavere bølgeeksponering ved lokalitet Bjørnøy enn gjengitt ovenfor.  
+Prosjektleder / Project manager 
+Kvalitetskontroll / Quality control 
+ 
+____________________________ 
+ 
+ 
+____________________ 
+Øyvind Leikvin 
+Frank Gaardsted 
+ 
+ 
+© 2016 Akvaplan-niva AS. Rapporten kan kun kopieres i sin helhet. Kopiering av deler av 
+rapporten (tekstutsnitt, figurer, tabeller, konklusjoner, osv.) eller gjengivelse på annen måte, er 
+kun tillatt etter skriftlig samtykke fra Akvaplan-niva AS. 
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+1 
+INNHOLDSFORTEGNELSE 
+FORORD .................................................................................................................................... 2 
+1 INNLEDNING ........................................................................................................................ 3 
+2 METODIKK ............................................................................................................................ 6 
+2.1 Modellbeskrivelse, CMS-Wave........................................................................................ 6 
+2.2 Modelloppsett for Bjørnøy i Bodø kommune .................................................................. 7 
+2.2.1 Lokaliteten Bjørnøy ................................................................................................... 7 
+2.2.2 Modelloppsett ............................................................................................................ 7 
+2.3 Inngangsdata til modellen CMS-Wave........................................................................... 10 
+2.3.1 Vindhastighet ........................................................................................................... 10 
+2.3.2 Bølgehøyde .............................................................................................................. 10 
+2.3.3 Energispekter ........................................................................................................... 11 
+3 RESULTATER ...................................................................................................................... 12 
+4 KONKLUSJON ..................................................................................................................... 20 
+REFERANSER ......................................................................................................................... 21 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+2 
+www.akvaplan.niva.no 
+Forord 
+Foreliggende rapport med bølgemodelleringer for havsjø er utarbeidet for Lofoten Sjøprodukter 
+AS v/ Roger Mosseng.  
+Akvaplan-niva takker for oppdraget. 
+ 
+ 
+ 
+Tromsø, 21. april 2016 
+ 
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+3 
+1 Innledning 
+Akvaplan-niva AS har på oppdrag fra Lofoten Sjøprodukter AS modellert vindgenererte bølger, 
+innkommende havdønninger og kombinasjonen av disse på lokaliteten Bjørnøy i Bodø 
+kommune, Nordland. Lokaliteten ligger omtrentlig på koordinaten 67°25.0' N og 14°25.7' Ø, 
+sørøst for den lille øya Bjørnøy som igjen ligger like øst for Landegode (Figur 1, Figur 2 og 
+Figur 3).  
+I en lokalitetsundersøkelse, jfr. NS9415 (2009), skal det simuleres for vindinduserte bølger 
+produsert med vindstyrke med 50-års returperiode i minst alle 8 hoved-himmelretninger. Disse 
+beregningene foretas i forbindelse med standard lokalitetsrapport. I tillegg skal det modelleres 
+for kombinasjonen av hav- og vindsjø, dersom lokaliteten vurderes å være eksponert for 
+havbølger. Denne rapporten omhandler en slik havsjømodellering, og er en tilleggsstudie til 
+lokalitetsrapporten. 
+Lokaliteten har nesten kontinuerlig lysåpning mot midtre deler av Vestfjorden i den nordlige 
+sektoren mellom 356 og 5 grader (Figur 1, Figur 2 og Figur 3). Øyene Landegode og Bjørnøy 
+skjermer for havdønninger fra nordvestlige, vestlige og sørvestlige retninger. Strøklengden er 
+lang mot nord, mot Lofotveggen (~25 km), slik at betydelige vindgenererte bølger forventes 
+herfra. Det er imidlertid store gruntområder ca. 20 – 40 km nord for Landegode og Bjørnøy, 
+som vil bryte ned en del av denne bølgeenergien. 
+Lokaliteten vil altså trolig være eksponert først og fremst for vindgenererte bølger fra 
+nærområdet og fra midtre deler av Vestfjorden, med mulig innslag av havdønninger fra 
+sørvestlige og nordvestlige retninger. Det er disse retningssektorene og tilgrensende retninger 
+som simuleres i denne studien.  
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+4 
+www.akvaplan.niva.no 
+ 
+Figur 1: Oversiktskart over Vestfjorden og plasseringen av Bjørnøy-lokaliteten. Kart over området 
+rundt lokaliteten Bjørnøy i Bodø kommune, Nordland. Lokaliteten er merket omtrentlig med sort pil. 
+Posisjonen hvor inngangsdata fra met.no's regionale bølgemodell (WAM) er hentet fra, er illustrert med 
+rød stjerne nede til venstre i bildet (kartkilde: www.olex.no). 
+ 
+Figur 2: Kart over regionen rundt lokaliteten Bjørnøy (kartkilde: www.olex.no). 
+Landegode 
+Bjørnøy 
+Bjørnøy 
+Lofoten 
+Vestfjorden 
+Vestfjorden 
+Bodø 
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+5 
+ 
+Figur 3: Fokusert kart med bunntopografi over nærområdet til lokalitet Bjørnøy. Anlegget er avmerket 
+med fire røde kryss (kartkilde: www.olex.no). 
+Landegode 
+Bjørnøy 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+6 
+www.akvaplan.niva.no 
+2 Metodikk 
+2.1 Modellbeskrivelse, CMS-Wave 
+Modellen CMS-Wave (Coastal Modeling System Wave model) er benyttet til å kartlegge 
+bølgeeksponeringen for havdønninger, vindgenererte bølger og kombinasjonen av disse på 
+lokaliteten Bjørnøy. 
+CMS-Wave er en todimensjonal bølgemodell som kan simulere forplantning og demping av 
+havdønninger inn mot kystnære strøk. Vind og strøm kan inkluderes i simuleringene. 
+Kildekoden til CMS-Wave er skrevet og vedlikeholdt av U.S. Army Corps of Engineers 
+(Sanchez m.fl., 2012). Modellen bruker SMS (www.aquaveo.com) som grafisk 
+brukergrensesnitt. Inngangsdata er bunntopografi, innkommende bølger (høyde, retning og 
+energispekter), vindstyrke og vindretning. Modellen antar konstante grensebetingelser (vind, 
+bølger, strøm) og beregner en statisk, konstant løsning (steady state). Inngående bølgespektrum 
+på den ytre rand er gitt av en regional bølgemodell, WAM (Reistad m.fl., 2011). Dersom strøm 
+inkluderes antas denne å være konstant med dypet. 
+Modellen bruker en endelig element-metode med et kartesisk grid. En godt kartlagt batymetri 
+(bunntopografi) er en forutsetning for å få gode simuleringer. Modellen beregner kvantitativt 
+endring i bølgeparametre (bølgehøyde, retning og spektralfordeling) når bølgen beveger seg fra 
+havet og inn mot grunt vann ved kysten (typisk < 40 m dyp). 
+Bølgeeffekter som inkluderes i modellsimuleringene er: 
+1. Refraksjon (dreining av bølger som følge av endret vanndyp og strøm)  
+2. Diffraksjon (bølgedreining som følge av obstruksjoner)  
+3. Grunningseffekter (økt bølgehøyde på grunn av redusert gruppehastighet/ bølgelengde; 
+bølgedemping som følge av friksjon mot bunn) 
+4. Bølge mot bølge, interaksjon 
+I tillegg kan følgende effekter implementeres: 
+5. Bølgegenerering på grunn av vind  
+6. Refleksjon 
+7. Bølgebrytning* 
+8. Bølge mot strøm, interaksjon* 
+*Ikke implementert i dette prosjektet, se kapittel 2.2.2. 
+ 
+ 
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+7 
+2.2 Modelloppsett for Bjørnøy i Bodø kommune 
+2.2.1 Lokaliteten Bjørnøy 
+Lokaliteten Bjørnøy ligger i Bodø kommune i Nordland, sørøst for Bjørnøy som ligger like øst 
+for Landegode.  
+Bjørnøy og spesielt Landegode skjermer lokaliteten for eksponering fra det åpne hav utenfor 
+Vestfjorden. Fra sørvestlige og nord-nordvestlige retninger kan det muligens forventes noe 
+havdønninger, men dette er i så fall avbøyde havdønninger fra henholdsvis skjærgården utenfor 
+Bodø og fra midtre deler av Vestfjorden. Gruntområder og skjær vil også redusere 
+bølgeenergien fra disse retningene. 
+Anleggets hjørnekoordinater er gitt i Tabell 1, og anleggets plassering er illustrert i Figur 3. 
+ 
+Tabell 1: Koordinater til de fire hjørnepunktene til anlegget (Nordvest, Nordøst, Sørvest og Sørøst), de 
+to nordlige punktene til matautomatanlegget (Midtvest og Midtøst), samt flåten ved lokaliteten. 
+Koordinatene er gitt både i geografiske koordinater og UTM-koordinater (datum: WGS84) 
+Hjørne 
+til 
+lokaliteten 
+Geografiske koordinater 
+UTM, sone 33 
+N 
+Ø 
+Y 
+X 
+Nordvest 
+67°25.067' 
+14°25.900' 
+7478066 
+475645 
+Nordøst 
+67°25.052' 
+14°25.939' 
+7478038 
+475673 
+Midtvest 
+67°24.974' 
+14°25.647' 
+7477895 
+475463 
+Midtøst 
+67°24.959' 
+14°25.685' 
+7477867 
+475490 
+Sørvest 
+67°24.920' 
+14°25.496' 
+7477796 
+475354 
+Sørøst 
+67°24.904' 
+14°25.535' 
+7477766 
+475382 
+Flåte 
+67°24.941' 
+14°25.727' 
+7477833 
+475520 
+ 
+2.2.2 Modelloppsett 
+Bølgemodellering har blitt utført for området mellom Lofoten i nord til Meløy sør for Bodø, og 
+med fire ulike grid fra fire ulike hovedretninger. Modellen er oppdelt i retningssektorer med 15 
+grader per sektor. Modellen har blitt kjørt med kun innkommende havdønninger, med kun vind 
+og med kombinasjonen av disse. Griddene, med nordøstlig, nordvestlig, vestlig og sørvestlig 
+orientering, dekker til sammen 19 forskjellige retningssektorer mellom 165 og 75 grader 
+(mellom sør-sørøstlig og øst-nordøstlig retning).  
+Det kan forventes betydelige vindgenererte bølger fra nord og nordøstlige retninger og mulig 
+innslag av havdønninger fra nordvestlige, vestlige og sørvestlige retninger. For å dekke hele 
+denne sektoren brukes det altså disse fire grid for bølgemodellering i dette oppsettet;  
+ ett som beregner vindgenererte bølger fra nord og nordøstlige retninger 
+ ett som beregner vindgenererte bølger/ havdønninger fra nordvestlige retninger 
+ ett som beregner vindgenererte bølger/ havdønninger fra vestlige retninger 
+ ett som beregner vindgenererte bølger/ havdønninger fra sørvestlige retninger 
+Vindgenererte bølger fra østlige retninger antas som beskjedne i omfang, og blir modellert med 
+den forenklede bølgemodellen AdUndas. Resultatene fra østlige retninger er presentert i selve 
+lokalitetsrapporten (Eriksen, 2015). 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+8 
+www.akvaplan.niva.no 
+Alle de fire griddene overlapper hverandre mer eller mindre. Ved eventuell overlapping 
+presenteres kun resultatene fra simuleringene med største bølgehøyder i denne rapporten. 
+I det første griddet og deler av det fjerde griddet i modellsimuleringene i denne studien med 
+CMS-Wave er kun vind inkludert som drivende kraft, mens det i resten av retningene er 
+modellert med kombinasjon av vind og havdønninger, kun havdønninger og kun vind. 
+Bunnmålinger som ligger til grunn for batymetrien i griddene er primærdata innkjøpt av Statens 
+Kartverk Sjøkartverket. Det er valgt å legge til grunn et dyp 3 m over sjøkartnull i hele 
+modellområdet, som omtrentlig tilsvarer situasjon med springflo. 
+Gitteroppløsningen i alle de fire griddene er 60-100 m. I tillegg er det nøstet inn et 
+høyoppløselig grid like i nærheten av lokalitet Bjørnøy med 20-25 m oppløsning, for alle de 
+fire griddene. De finere gridene dekker altså et mindre område i umiddelbar nærhet til 
+lokaliteten, fortrinnsvis på lo side vedrørende innkommende havbølger. 
+Viktigste dimensjoner til de fire griddene er gitt i Tabell 2. Tabellen viser at antall 
+beregningsceller varierer mellom ca. 1.5 millioner og 3.2 millioner for de største og mindre 
+oppløste griddene, samt mellom drøye 200 000 og 700 000 for de små og forfinede griddene i 
+nærheten av lokaliteten Bjørnøy.  
+ 
+Tabell 2: Oversikt over dimensjoner til de ulike griddene som er kjørt for de ulike retningssektorer (rett 
+nord er 0 grader og rett øst er 90 grader). 
+ 
+ 
+Stort grid 
+Nøstet, lokalt grid 
+Grid 
+Sektor 
+(15 
+graders 
+oppløsning) 
+Celle-
+størrelse 
+[m] 
+Celler 
+Sum antall 
+celler 
+Omtrentlig 
+areal  
+[km2] 
+Celle-
+størrelse 
+[m]  
+Celler 
+Sum antall 
+celler 
+Omtrentlig 
+areal          
+[km2] 
+1 
+(NØ) 
+0 - 75 
+60 
+2016 x 
+1599 
+3.2 
+millioner 
+121 x 96 
+km2 
+25 
+843 x 
+608 
+0.5 
+millioner 
+21 x 15 km2 
+2 
+(NV) 
+285 - 15 
+100 
+1711 x 
+957 
+1.6 
+millioner 
+171 x 96 
+km2 
+20 
+638 x 
+367 
+0.2 
+millioner 
+13 x 7 km2 
+3  
+(V) 
+210 - 315 
+100 
+1352 x 
+1424 
+1.9 
+millioner 
+135 x 142 
+km2 
+20 
+1008 x 
+668 
+0.7 
+millioner 
+20 x 13 km2 
+4  
+(SV) 
+165 - 255 
+70 
+1339 x 
+974 
+1.5 
+millioner 
+94 x 68 
+km2 
+20 
+613 x 
+661 
+0.4 
+millioner 
+13 x 12 km2 
+ 
+Dekningsområdet til de ulike griddene i modellen, med innkommende hovedretninger markert 
+med piler, er illustrert i Figur 4. Både de store griddene med grovere oppløsning og de mindre 
+griddene med finere oppløsning er vist.  
+Et utsnitt av beregningscellene ved lokaliteten Bjørnøy er vist i Figur 5. Det er et av de 
+høytoppløste griddene med 20 m oppløsning som er illustrert. 
+Havstrømmer ved lokaliteten er målt (i perioden 06.02.2014 - 06.03.2014) til å være maksimalt 
+15.4 cm/s i de øvre vannmassene og i gjennomsnitt 4.4 cm/s (Eriksen, 2014). Da havstrømmer 
+i nærområdet forventes å være betydelig mindre enn 1 m/s, vil de ifølge Smith m.fl. (1998) ikke 
+bidra til betydelige endringer i transformasjonen av havbølger. Derfor inkluderes ikke 
+havstrømmer i simuleringene (se punkt 8 i kapittel 2.1).  
+Refleksjon er inkludert i modellsimuleringene for de nøstede høytoppløste griddene i 
+nærområdet til lokaliteten. 
+Bølgebrytning er ikke inkludert i modellsimuleringene. Det vurderes som en konservativ 
+tilnærming for bølgehøyden å ikke inkludere bølgebrytning, da denne effekten forårsaker 
+ytterligere reduksjon av bølgeenergi.  
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+9 
+ 
+ 
+Figur 4: Modellområde for CMS-Wave-simuleringene rammet inn i blått (sørvestre grid), sort (vestre 
+grid), grønt (nordvestre grid) og rødt (nordøstre grid) med piler som viser hvilken side av griddet 
+inngangsdata (vind og bølger) kommer inn. Nøstede modellområder er de mindre firkantene illustrert i 
+tilsvarende farger. Plasseringen av Bjørnøy-lokaliteten er indikert med en gul stjerne, og omtrentlig 
+plassering av datapunkt for inngangsdata fra met.no's regionale modell er vist med rød stjerne 
+(kartkilde: www.fdir.no). 
+ 
+ 
+Figur 5: Illustrasjon av det kartesiske 20 m x 20 m gitteret (i sorte ruter) brukt i CMS-Wave-
+modelleringene ved Bjørnøy. Bunntopografien er avtegnet i farger, med skala fra -3 (3 m høyvann) til 
+50 m. Fargeskala er vist nede til venstre (kartkilde for bakgrunnskart: www.fdir.no). Lokalitetens 
+plassering er markert med 4 hvite prikker i hjørnepunktene, 2 prikker til nordøstlige avgrensinger av 
+matautomatanlegget, samt 1 prikk omtrent i midten av anlegget mot øst. Denne viser plassering av flåte.  
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+10 
+www.akvaplan.niva.no 
+2.3 Inngangsdata til modellen CMS-Wave 
+2.3.1 Vindhastighet 
+Vindhastigheten i modellområdet er beregnet ut fra en 50-års returperiode i henhold til norsk 
+standard for vindlaster NS-EN 1991 (2009) (Tabell 3). I simuleringene er denne beregnede 
+vindhastigheten brukt som inngangsdata. Vindfeltet antas konstant i tid og rom over hele 
+modellområdet. Vindfeltet er satt i henhold til data fra Bodø kommune, ved lokaliteten. 
+Vindhastighetene er omregnet til terrengruhetskategori I, som tilsier kystnære strøk. Det er også 
+inkludert retningsfaktorer i henhold til NS-EN 1991 (2009).  
+ 
+Tabell 3: Statistiske ekstremverdier av referansevindhastighet (m/s) 10 m over bakken i Bodø kommune 
+i Nordland (omregninger fra NS-EN 1991, 2009), fra alle retninger unntatt østlige og nord-nordøstlige 
+retninger. Det er benyttet terrengkategori I (oppskalert med faktor 1.17). Det er også skalert med 
+retningsfaktorer.  
+Returperiode 50 år 
+Vindretning 
+165 
+180° 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+Vindhastighet (m/s) 
+32.8 
+31.6 
+32.8 
+33.9 
+35.1 
+35.1 
+35.1 
+35.1 
+33.9 
+32.8 
+Returperiode 50 år 
+Vindretning 
+315° 
+330° 
+345° 
+0° 
+15° 
+30° 
+45° 
+60° 
+75° 
+ 
+Vindhastighet (m/s) 
+31.6 
+31.6 
+31.6 
+31.6 
+31.6 
+31.6 
+31.6 
+31.6 
+31.6 
+ 
+ 
+2.3.2 Bølgehøyde 
+Innkommende bølger til modellområdet er hentet fra Meteorologiske institutts (met.no) 
+regionale modell som dekker Nordsjøen, Norskehavet og Barentshavet (Reistad m.fl., 2011). 
+Met.no har beregnet verdier med 50-års returperiode fra dette regionale nøstede modelloppsett 
+av bølgemodellen WAM (The global ocean Wave prediction Model). Met.no's modell har 
+horisontal romlig oppløsning på ca. 10 km og retningsoppløsning på 30°. Resultater er innhentet 
+fra et modellpunkt i WAM-modellen som er plassert ved den ytre vestlige randen til det vestre 
+griddet (grid 3 i Tabell 2), og er vist i Figur 4 med rød stjerne. Dette gridpunktet i met.no's 
+modell har koordinater 66°59.4'N og 11°09.6'Ø. Bølgeverdiene her antas som representative 
+for bølger som kommer inn fra dypområdet fra Norskehavet i vest eller nordvest (Tabell 4 og 
+Tabell 5).  
+I CMS-Wave-modelleringene antas det at et bølgetog starter ute på havet og kommer inn mot 
+modellområdet utenfor Vesterålen fra retningen og med bølgehøyde og periode som spesifisert 
+i Tabell 4 og Tabell 5. Det antas at bølger med høy energi, som når inn mot Bjørnøy-lokaliteten 
+først og fremst kommer fra retninger mellom ca. 165 og 75 grader (fra mellom sørlig og 
+nordøstlig retning). Innslag av havdønninger forventes å kunne komme fra sektorer mellom 195 
+og 315 grader, på grunn av avbøyning, om enn i beskjedent omfang.  
+I vestlige og nordvestlige retninger sett fra lokaliteten Bjørnøy befinner Landegode og Bjørnøy 
+seg og skjermer for bølger fra sørvestlige, vestlige og nordvestlige retninger (se Figur 3). 
+For det nordøstlige og for deler av det sørvestlige griddet har det blitt modellert eksplisitt for 
+vindbølger. Deretter har også den kombinerte bølgetilstanden av vindbølger og havdønninger, 
+samt eksplisitt havdønninger blitt simulert for de andre retningene mellom 195 og 15 grader.  
+ 
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+11 
+Tabell 4: Statistiske ekstremverdier for signifikant bølgehøyde (m) fra met.no's WAM hindcast 
+bølgemodell. Posisjonene hvor verdiene er hentet fra er ett punkt i det åpne hav (se Figur 1 og Figur 
+4).  
+Returperiode 50 
+år 
+Bølgeretning 
+165°-195° 
+195°-225° 
+225°-255° 
+255°-285° 
+285°-315° 
+315°-345° 
+345°-15° 
+15°-45° 
+Signifikant 
+bølgehøyde [m]  
+9.1 
+12.3 
+15.8 
+14.8 
+12.1 
+10.6 
+10.1 
+7.5 
+ 
+Tabell 5: Som i Tabell 4, men med interpolerte verdier for signifikant bølgehøyde (m). Disse retningene 
+samsvarer med retningene for returperioder for vind i kapittel 2.3.1. Tabellen inkluderer også peak-
+periode, funnet ved typisk relasjon mellom bølgehøyde og –periode i området (se kapittel 2.3.3). 
+Hjørnepunkt 
+Bølgeretning for nordvestre grid 
+180° 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+315° 
+330° 
+345° 
+0° 
+15° 
+Signifikant 
+bølgehøyde  
+[m] 
+9.1 
+10.7 
+12.3 
+13.6 
+15.8 
+15.3 
+14.8 
+13.5 
+12.1 
+11.4 
+10.6 
+10.4 
+10.1 
+8.8 
+Peak-periode 
+[s]  
+13.7 
+14.6 
+15.5 
+16.2 
+17.3 
+17.1 
+16.8 
+16.1 
+15.4 
+15.0 
+14.5 
+14.4 
+14.3 
+13.5 
+ 
+2.3.3 Energispekter 
+Resultatene fra den regionale WAM-modellen (se kapittel 2.3.2) gir et estimat for den øvre 
+grensen for bølgehøyde ved modellranden. Denne bølgehøyden brukes til å definere 
+energispekteret på randen, dvs. en typisk fordeling av bølgeenergi som funksjon av periode. 
+Bølgeenergien som kommer inn i modellområdet vil som regel endre seg etter hvilken retning 
+den kommer fra. 
+Formen til dette energispekteret på randen er beskrevet ved et JONSWAP energispekter1. 
+Spekteret forklarer bølgehøyder som funksjon av perioder.  
+Det innkommende bølgetoget beskrives med to parametere: spredningsfaktoren til frekvensen 
+(gamma), som er satt til 2.1, samt spredningsfaktoren for retningen (nn), som er satt til 10. Disse 
+tallene gir konservative verdier (mye energi, dvs. stor bølgehøyde og lang periode) med hensyn 
+til typiske bølger langs norskekysten (Nygaard & Eik, 2004). 
+                                                 
+1 JONSWAP (Joint North Sea Wave Project) spektre er en empirisk sammenheng som definerer distribusjonen av 
+energi over frekvens i havet. Se for øvrig Hasselmann m.fl. (1973). 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+12 
+www.akvaplan.niva.no 
+3 Resultater 
+For presentasjon av resultater ble det plukket ut fire kontrollpunkter omtrentlig tilsvarende 
+hjørnepunktene til anlegget ved lokaliteten Bjørnøy, to punkter som tilsvarer nordøstlige 
+punkter til matautomatanlegg, samt ett punkt som tilsvarer plassering av fôrflåten. Bølgehøyde 
+og periode i disse punktene fra simuleringene med kun havdønninger er gitt i Tabell 6, kun vind 
+i Tabell 7, samt kombinasjon av havdønninger og vind i Tabell 8. 
+Tabell 9 er et sammendrag av Tabell 6 - Tabell 8, og viser høyeste bølgehøyde med tilhørende 
+periode for hvert kontrollpunkt i hver sektor, uansett drivkraft for bølgene. Figur 6, Figur 8 og 
+Figur 10 viser grafikk av hvordan bølgene propagerer når de går innover mot kysten, med 
+henholdsvis kombinasjon av vind og havdønninger fra vest-sørvest (210 grader), kun 
+havdønninger fra rett vest (270 grader) og med kun vind fra nordøst (45 grader).  
+Resultatene i Figur 6 og Figur 10 viser retningene med kraftigst eksponering henholdsvis fra 
+sørvest og fra nordøst. Figur 8 viser resultater fra eksponering fra vest, hvor så og si all 
+bølgeenergien blir dempet av øyene Landegode og Bjørnøy. Fokuserte bilder, med tanke på 
+nærområdet til lokalitet Bjørnøy, er gitt for de respektive simuleringer i Figur 7, Figur 9 og 
+Figur 11. 
+Figur 6 - Figur 11 illustrerer hvordan bølgehøyden blir effektivt redusert når havbølgene møter 
+øyer, grunne områder, og bøyer seg rundt nes.  
+Det var generelt noe forskjell på bølgehøyden for de fire hjørnene inne i anlegget, og forskjellen 
+kunne være opptil ca. 2 m. Som regel var det ytterpunktet i nordøst som var kraftigst eksponert 
+for bølgene og ytterpunktet i sørvest som var minst eksponert.  
+Største signifikante bølgehøyder på 2.8 m med returperiode på 50 år oppstod ifølge 
+simuleringene på lokaliteten Bjørnøy når kun vindgenererte bølger er tilstede, og det blåser 
+kraftig fra nordøst (45 grader) (Figur 11 ). Nabosektorene mot mer nordlige retninger (0, 15 og 
+30 grader hadde alle bølgehøyder på ca. 2.5 m med kun vind som drivkraft til bølgene. 
+Nabosektoren i mer østlig retning, 60 grader, hadde bølgehøyde på 2.2 m.  
+Fra mer nordvestlige og vestlige retninger avtok bølgeeksponeringen kraftig. Fra nordvest (315 
+grader) og videre mot mer vestlige retninger inntil sørvestlig retning (225 grader) var 
+bølgeeksponeringen på under 1 m ved lokaliteten Bjørnøy, med kun vind tilstede. 
+Fra sør-sørvestlige retninger (195 til 225 grader) var det kraftigere eksponering igjen for lokalt 
+vindgenererte bølger, med bølgehøyder på over 1 m og opp mot 1.6 m. Fra sør-sørøstlige 
+retninger dempet bølgehøyden seg gradvis til ca. 1.0 m og noe lavere.  
+Typiske bølgeperioder for vindgenererte bølger var på mellom 3.3 og 7.7 s. Visse unntak med 
+noe lenger bølgeperioder forekom, men da var som regel bølgehøyden relativt lav.  
+Med kun havdønninger som kilde til bølgeenergien var bølgeeksponeringen ved lokalitet 
+Bjørnøy svært beskjeden, med maksimal høyde på 0.3 m. Laveste havdønninger ved lokaliteten 
+med returperiode på 50 år  ble funnet ved sektoren  rett vest, 270 grader (Figur 8 og Figur 9). 
+Ifølge simuleringene var typiske perioder for havdønningene med returperiode på 50 år på 
+mellom 11.1 og 16.7 s. 
+Kombinert sjøtilstand av havdønninger og lokalt vindgenererte bølger ga tilnærmet samme 
+bølgehøyder som med kun vind som drivkraft. Forskjellen mellom disse var typisk på 
+maksimalt 0.1-0.2 m. Maksimal signifikant bølgehøyde ved kombinert sjøtilstand ble simulert 
+til å være 2.5 m fra retning 15 grader. Østligere retninger ble ikke simulert, fordi bidraget fra 
+havdønninger var minimalt.  
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+13 
+Oppsummering i Tabell 9 viser at det er de lokalt vindgenererte bølgene som er viktigste 
+drivkraft til bølgeenergien ved lokaliteten Bjørnøya fra de ulike retningene. 
+Illustrasjoner av bølgeenergi vs. frekvens for retningen og hjørnepunktet med høyest energi for 
+simuleringer med kun havdønninger, kun vind og kombinasjonen av havdønninger og vind er 
+gitt i Figur 12.  
+Resultater fra simuleringer med kun havdønninger, og som gir høyest havdønninger, gir svært 
+lite energi (maksimalt 0.2 m2/Hz ved 0.06 Hz) sammenliknet med simuleringer med vind 
+inkludert. Maksimalenergien for havdønninger gir en bølgeperiode på 16.7 s, i tråd med 
+resultatene i Tabell 6. Det er svært lite energi ved høyere frekvenser (kortere bølgeperioder) for 
+havdønningene. 
+Simuleringer med kun vind viser høyest energi (maksimalt 3.9 m2/Hz) ved 0.13 Hz. Tilhørende 
+bølgeperiode er 7.7 s, i tråd med resultatene i Tabell 7. Her er energien mer jevnt fordelt utover 
+høyere frekvenser (kortere bølgeperioder) enn for kun havdønninger. 
+Den kombinerte tilstanden av havdønninger og vind gir også høyest energi (maksimalt 2.7 
+m2/Hz) ved 0.13 Hz. Dette gir en periode på 7.7 s, i tråd med resultatene i Tabell 8. Her er 
+bølgeenergien fordelt noenlunde tilsvarende som for de vindgenererte bølgene, men 
+maksimalverdien er vesentlig lavere. Dessuten er det noe lavere energi på de høyere frekvenser 
+(kortere bølgeperioder). 
+Figur 12 illustrerer og bekrefter altså at det er de lokalt genererte vindbølgene som er regjerende 
+for sjøtilstanden ved lokalitet Bjørnøy.
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+14 
+www.akvaplan.niva.no 
+Tabell 6: CMS-Wave modellresultater for signifikant bølgehøyde (Hs) fra hjørnepunktene til anlegget og bølgeperioden (Tp) ved lokaliteten Bjørnøy. Det er her kun 
+kjørt med innkommende havbølger og ingen vind. 
+Hjørnepunkt 
+Bølge- og vindretning 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+315° 
+330° 
+345° 
+0° 
+15° 
+Bølgehøyde, NV (Hs) [m] 
+0.1 
+0.1 
+0.2 
+0.2 
+0.2 
+0.0 
+0.3 
+0.3 
+0.3 
+0.2 
+0.2 
+0.2 
+0.1 
+Bølgehøyde, NØ (Hs) [m] 
+0.1 
+0.1 
+0.2 
+0.2 
+0.2 
+0.1 
+0.3 
+0.3 
+0.3 
+0.2 
+0.2 
+0.2 
+0.1 
+Bølgehøyde, MNV (Hs) [m] 
+0.1 
+0.1 
+0.1 
+0.2 
+0.2 
+0.0 
+0.2 
+0.2 
+0.2 
+0.1 
+0.1 
+0.1 
+0.1 
+Bølgehøyde, MNØ (Hs) [m] 
+0.1 
+0.1 
+0.1 
+0.2 
+0.2 
+0.0 
+0.2 
+0.2 
+0.2 
+0.2 
+0.1 
+0.1 
+0.1 
+Bølgehøyde, SV (Hs) [m] 
+0.1 
+0.1 
+0.1 
+0.2 
+0.2 
+0.0 
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+0.0 
+Bølgehøyde, SØ (Hs) [m] 
+0.1 
+0.1 
+0.1 
+0.2 
+0.2 
+0.0 
+0.2 
+0.2 
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+Lengste bølgeperiode ved anlegg (Tp) [s] 
+14.3 
+14.3 
+11.1 
+16.7 
+16.7 
+8.3 
+16.7 
+14.3 
+14.3 
+14.3 
+14.3 
+14.3 
+14.3 
+ 
+Tabell 7: Som i Tabell 6, men her er kun kjørt med vind og ingen innkommende havdønninger. 
+Hjørnepunkt 
+Bølge- og vindretning 
+165° 
+180° 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+315° 
+330° 
+345° 
+0° 
+15° 
+30° 
+45° 
+60° 
+75° 
+Bølgehøyde, NV (Hs) [m] 
+0.9 
+0.8 
+1.5 
+1.6 
+1.2 
+0.6 
+0.4 
+0.2 
+0.3 
+0.4 
+0.7 
+1.1 
+1.5 
+2.1 
+2.3 
+2.4 
+2.7 
+2.2 
+1.8 
+Bølgehøyde, NØ (Hs) [m] 
+0.9 
+0.8 
+1.5 
+1.6 
+1.2 
+0.6 
+0.4 
+0.2 
+0.4 
+0.4 
+0.7 
+1.2 
+1.7 
+2.4 
+2.5 
+2.5 
+2.8 
+2.2 
+1.8 
+Bølgehøyde, MNV (Hs) [m] 
+1.0 
+0.8 
+1.4 
+1.5 
+1.1 
+0.6 
+0.4 
+0.2 
+0.2 
+0.2 
+0.2 
+0.3 
+0.3 
+1.4 
+1.7 
+2.1 
+2.5 
+2.1 
+1.8 
+Bølgehøyde, MNØ (Hs) [m] 
+1.0 
+0.8 
+1.4 
+1.5 
+1.1 
+0.6 
+0.4 
+0.2 
+0.2 
+0.2 
+0.3 
+0.4 
+0.5 
+1.6 
+1.9 
+2.3 
+2.6  
+2.2 
+1.8 
+Bølgehøyde, SV (Hs) [m] 
+1.0 
+0.8 
+1.3 
+1.4 
+1.0 
+0.5 
+0.4 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+1.0 
+1.4 
+1.9 
+2.4 
+2.1 
+1.8 
+Bølgehøyde, SØ (Hs) [m] 
+1.0 
+0.8 
+1.3 
+1.4 
+1.1 
+0.6 
+0.4 
+0.3 
+0.2 
+0.2 
+0.2 
+0.3 
+0.3 
+1.1 
+1.5 
+2.0 
+2.5 
+2.1 
+1.8 
+Bølgehøyde, Flåte (Hs) [m] 
+0.9 
+0.8 
+1.4 
+1.5 
+1.2 
+0.6 
+0.4 
+0.3 
+0.2 
+0.2 
+0.2 
+0.6 
+0.8 
+1.8 
+2.1 
+2.4 
+2.7 
+2.2 
+1.8 
+Lengste bølgeperiode ved anlegg (Tp) [s] 
+3.3 
+3.6 
+4.2 
+4.2 
+3.8 
+7.1 
+9.1 
+9.1 
+11.1 
+11.1 
+10 
+10 
+10 
+7.7 
+7.7 
+6.2 
+7.7 
+5.3 
+4.5 
+ 
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+15 
+Tabell 8: Som i Tabell 6, men her er kjørt med kombinasjon av vind og innkommende havdønninger. 
+Hjørnepunkt 
+Bølge- og vindretning 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+315° 
+330° 
+345° 
+0° 
+15° 
+Bølgehøyde, NV (Hs) [m] 
+1.4 
+1.5 
+1.2 
+0.7 
+0.4 
+0.2 
+0.4 
+0.6 
+0.7 
+1.1 
+1.5 
+1.9 
+2.2 
+Bølgehøyde, NØ (Hs) [m] 
+1.4 
+1.5 
+1.2 
+0.7 
+0.4 
+0.2 
+0.5 
+0.6 
+0.8 
+1.2 
+1.7 
+2.1 
+2.5 
+Bølgehøyde, MNV (Hs) [m] 
+1.3 
+1.4 
+1.1 
+0.6 
+0.4 
+0.2 
+0.2 
+0.2 
+0.2 
+0.3 
+0.3 
+0.4 
+0.6 
+Bølgehøyde, MNØ (Hs) [m] 
+1.3 
+1.4 
+1.1 
+0.6 
+0.4 
+0.2 
+0.2 
+0.3 
+0.3 
+0.4 
+0.5 
+0.6 
+0.9 
+Bølgehøyde, SV (Hs) [m] 
+1.3 
+1.3 
+1.0 
+0.6 
+0.4 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+0.3 
+Bølgehøyde, SØ (Hs) [m] 
+1.3 
+1.3 
+1.1 
+0.6 
+0.4 
+0.3 
+0.2 
+0.2 
+0.2 
+0.3 
+0.3 
+0.3 
+0.4 
+Lengste bølgeperiode ved anlegg (Tp) [s] 
+4.5 
+4 
+3.7 
+8.3 
+11.1 
+8.3 
+16.7 
+14.3 
+10 
+10 
+10 
+7.7 
+7.7 
+ 
+Tabell 9: Som i Tabell 6, men her er kun trukket ut de høyeste bølgehøydene fra Tabell 6 - Tabell 8, for hvert punkt i hver retningssektor. 
+Hjørnepunkt 
+Bølge- og vindretning 
+165° 
+180° 
+195° 
+210° 
+225° 
+240° 
+255° 
+270° 
+285° 
+300° 
+315° 
+330° 
+345° 
+0° 
+15° 
+30° 
+45° 
+60° 
+75° 
+Bølgehøyde, NV (Hs) [m] 
+0.9 
+0.8 
+1.5 
+1.6 
+1.2 
+0.6 
+0.4 
+0.2 
+0.3 
+0.4 
+0.7 
+1.1 
+1.5 
+2.1 
+2.3 
+2.4 
+2.7 
+2.2 
+1.8 
+Bølgehøyde, NØ (Hs) [m] 
+0.9 
+0.8 
+1.5 
+1.6 
+1.2 
+0.6 
+0.4 
+0.2 
+0.4 
+0.4 
+0.7 
+1.2 
+1.7 
+2.4 
+2.5 
+2.5 
+2.8 
+2.2 
+1.8 
+Bølgehøyde, MNV (Hs) [m] 
+1.0 
+0.8 
+1.4 
+1.5 
+1.1 
+0.6 
+0.4 
+0.2 
+0.2 
+0.2 
+0.2 
+0.3 
+0.3 
+1.4 
+1.7 
+2.1 
+2.5 
+2.1 
+1.8 
+Bølgehøyde, MNØ (Hs) [m] 
+1.0 
+0.8 
+1.4 
+1.5 
+1.1 
+0.6 
+0.4 
+0.2 
+0.2 
+0.2 
+0.3 
+0.4 
+0.5 
+1.6 
+1.9 
+2.3 
+2.6  
+2.2 
+1.8 
+Bølgehøyde, SV (Hs) [m] 
+1.0 
+0.8 
+1.3 
+1.4 
+1.0 
+0.5 
+0.4 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+1.0 
+1.4 
+1.9 
+2.4 
+2.1 
+1.8 
+Bølgehøyde, SØ (Hs) [m] 
+1.0 
+0.8 
+1.3 
+1.4 
+1.1 
+0.6 
+0.4 
+0.3 
+0.2 
+0.2 
+0.2 
+0.3 
+0.3 
+1.1 
+1.5 
+2.0 
+2.5 
+2.1 
+1.8 
+Bølgehøyde, Flåte (Hs) [m] 
+0.9 
+0.8 
+1.4 
+1.5 
+1.2 
+0.6 
+0.4 
+0.3 
+0.2 
+0.2 
+0.2 
+0.6 
+0.8 
+1.8 
+2.1 
+2.4 
+2.7 
+2.2 
+1.8 
+Lengste bølgeperiode ved anlegg (Tp) [s] 
+3.3 
+3.6 
+4.2 
+4.2 
+3.8 
+7.1 
+9.1 
+9.1 
+11.1 
+11.1 
+10 
+10 
+10 
+7.7 
+7.7 
+6.2 
+7.7 
+5.3 
+4.5 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+16 
+www.akvaplan.niva.no 
+ 
+Figur 6: CMS-Wave-modellering ved lokaliteten Bjørnøy (markert med stor sort pil) i Bodø kommune 
+i Nordland, med havbølger og vind som kommer fra vest-sørvest (210 grader). Det er fra denne 
+retningen at størst bølgehøyde inntreffer ved anlegget fra de sørvestlige retninger kun vind (1.6 m, 
+ikke vist) og ved kombinert sjøtilstand (1.5 m). Bølgeretning er indikert med pilenes retning. 
+Signifikant bølgehøyde (Hs) er gitt med fargekonturer, og fargeskala er nede til høyre. Det grove 
+gridet (fargenes omriss) og det fine griddet (sort liten firkant) er illustrert. Merk at bølgehøyder helt 
+sør i modellområdet nær land, mot modellområdets sørvestlige rand, ikke er reelle. Innkommende 
+bølger er konstante langs hele denne randen. Simuleringene er optimalisert for området omkring 
+lokaliteten Bjørnøy (kartkilde for bakgrunnsbilde: www.fdir.no). 
+  
+ 
+Figur 7: Samme som i Figur 6, men her fokusert på nærområdet til lokaliteten Bjørnøy. Lokalitetens 
+hjørner er merket med sorte punkter (kartkilde for bakgrunnsbilde: www.fdir.no). 
+ 
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+17 
+ 
+Figur 8: Modellsimuleringer med det vestre grid, med kun havdønninger fra rett vest (270 grader). 
+Lokaliteten Bjørnøy er indikert med stor sort pil. Fargeskala er til venstre (kartkilde for 
+bakgrunnsbilde: www.fdir.no). 
+ 
+ 
+Figur 9: Samme som i Figur 8, men her med fokus på det forfinede griddet bestående av nærområdet 
+til lokalitet Bjørnøy ved øya Landegode. Lokalitetens plassering er illustrert med spissen til den store 
+sorte pilen. Figuren illustrerer tydelig hvordan Landegode og øya Bjørnøy skjermer for eksponering 
+for havdønninger fra vest (kartkilde for bakgrunnsbilde: www.fdir.no). 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+18 
+www.akvaplan.niva.no 
+ 
+Figur 10: Modellsimuleringer med det nordøstre griddet, fra 45 grader, med kun vind tilstede. Det er 
+fra denne retningen det oppnås størst signifikant bølgehøyde ved lokalitet Bjørnøy (2.8 m), uansett 
+retning. Lokalitetens plassering er angitt med stor sort pil. Fargeskala er til høyre (kartkilde for 
+bakgrunnsbilde: www.fdir.no). 
+ 
+ 
+Figur 11: Samme som i Figur 10, men med fokus på det forfinede griddet i nærområdet til lokalitet 
+Bjørnøy. Lokalitetens hjørnepunkter er gitt med fire sorte prikker nederst i bildet. (kartkilde for 
+bakgrunnsbilde: www.fdir.no). 
+ 
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+19 
+ 
+Figur 12: Bølgeenergi vs. frekvens for retningen og hjørnepunktet (nordøst) som gir høyest 
+bølgehøyde for kun vind (45 grader, blå), innkommende havdønninger (300 grader, rød) og 
+kombinasjon av havdønninger og vind (15 grader, sort). 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+20 
+www.akvaplan.niva.no 
+4 Konklusjon 
+Bølgemodelleringene for Bjørnøy har vist at det er størst eksponering ved lokaliteten med 
+vindgenererte bølger fra nordøst (45 grader). Største signifikante bølgehøyde (Hs) med 50 års 
+returperiode er da 2.8 m i anlegget. Nabosektorene mot mer vestlige retninger (0 – 30 grader) 
+og mot 60 grader har bølgehøyder på mellom 2.0 og 2.5 m. Typiske bølgeperioder fra disse 
+retningene er 5 – 8 s. 
+Fra mer vestlige retninger blir bølgeeksponeringen vesentlig svekket, som følge av at 
+Landegode og Bjørnøy skjermer for bølger fra nordvest, vest og sørvest. Mot sør-sørvestlige, 
+sørlige og sørøstlige retninger er det igjen lenger strøklengde inn mot lokaliteten, slik at 
+vindgenererte bølger over 1 m kan oppstå. Høyeste bølgeeksponering fra disse sørlige retninger 
+er fra 210 grader (1.6 m).  
+Simuleringene med kombinert sjøtilstand får noenlunde samme eller marginalt mindre 
+bølgehøyder enn med kun lokalt vindgenererte bølger, for alle retninger. 
+Havdønninger alene gir maksimalt opp til drøye 0.3 m bølger, uansett retning.  
+Det er altså de lokalt genererte vindbølgene som gir kraftigst bølgeeksponering ved lokaliteten 
+Bjørnøy, uansett retning. Det er først og fremst fra retningene 165 – 240 grader (sørøstlig – 
+vest- sørvestlig) og fra 315 – 75 grader (nordvestlig – sør-sørøstlig) at de vindgenererte bølgene 
+er av betydelig størrelse.  
+Det er ikke foretatt bølgemodellering med CMS-Wave-modellen for sektorene mellom 90 og 
+150 grader. 
+Modelleringene har også vist at øyer og grunne områder nord, vest og sørøst for lokaliteten er 
+effektive når det gjelder å redusere bølgehøyden inn mot interesseområdet. Øyene Landegode 
+og Bjørnøya skjermer lokaliteten Bjørnøy mot bølgeeksponering, spesielt fra sektoren mellom 
+sørvest og nordvest.  
+Analyse av vinddata fra nærliggende meteorologiske stasjoner (Helligvær og Bodø) tilsier at 
+det er relativt sjelden kraftig eksponering overfor vind fra 45 grader (Leikvin, 2015). 
+Hyppigheten er liten, og vindstyrken vesentlig lavere enn verdien funnet med metodikken til 
+norsk standard for vindlaster NS-EN 1991 (2009) har gitt. Modellsimuleringer med mer 
+realistiske inngangsverdier for vind basert på disse faktiske måleserier som vist i Leikvin 
+(2015), gir for eksempel en reduksjon av vindgenerert bølge ved lokaliteten Bjørnøy fra 2.8 m 
+med standard-metoden til 2.3 m med bakgrunn i måleseriene for vind.  
+ 
+Havbølgemodelleringer for lokalitet Bjørnøy, Bodø kommune, Nordland, 2016 
+Akvaplan-niva AS Rapport 7769 – 01 
+21 
+Referanser 
+Eriksen, S.D., 2014. Strømmåling Lofoten Sjøprodukter AS. Lokalitet Bjørnøy; vannutskifting-
+, spredning- og bunnstrøm. Akvaplan-niva rapport no. 6869.02. 6 sider. 
+Eriksen, S.D., 2016. Lokalitetsrapport, lokalitet 34997 Bjørnøy. Lofoten Sjøprodukter AS, 
+Revidert 22.04.2016. Akvaplan-niva rapport no. 7589.03. 15 sider. 
+Hasselmann K., T.P. Barnett, E. Bouws, H. Carlson, D.E. Cartwright, K. Enke, J.A. Ewing, H. 
+Gienapp, D.E. Hasselmann, P. Kruseman, A. Meerburg, P. Müller, D.J. Olbers, K. 
+Richter, W. Sell, and H. Walden, 1973. Measurements of wind-wave growth and swell 
+decay during the Joint North Sea Wave Project (JONSWAP). Ergnzungsheft zur 
+Deutschen Hydrographischen Zeitschrift Reihe, A(8) (Nr. 12), p. 95. 
+Leikvin, Ø., 2015. Notat_APN_vind_Bjørnøy_Bodø_2015. Akvaplan-niva notat. Prosjekt 7770. 
+9 sider. 
+Nasjonalt tillegg, NA - Eurokode 1: Laster på konstruksjoner - Del 1-4: Allmenne laster – 
+Vindlaster, 2009. NS-EN 1991-1-4:2005/NA:2009. ICS: 91.010.30, 91.080.01. 48 sider. 
+NS (Norsk Standard) 9415, 2009. Flytende oppdrettsanlegg - Krav til lokalitetsundersøkelse, 
+risikoanalyse, utforming, dimensjonering, utførelse, montering og drift. ICS: 65.150, 
+67.260. 108 sider. 
+Nygaard, E., Eik, K. J., 2004. Application of STWAVE in Norwegian coastal water. In: 
+Proceedings, 8th International Workshop on Wave Hindcasting and Forecasting. 9 sider. 
+Reistad, M., Breivik, Ø., Haakenstad, H., Aarnes, O.J., Furevik, B. and Bidlot, J.-R., 2011. A 
+high‐resolution hindcast of wind and waves for the North Sea, the Norwegian Sea, and 
+the Barents Sea. Journal of Geophysical Research, Vol. 116, C05019, 
+doi:10.1029/2010JC006402, 2011. 
+Sanchez, A., Lin, L., Demirbilek, Z., Beck, T., Brown, M., Li, H., Rosati, J.D., Wu, W. and 
+Reed, C., 2012. Draft CMS User Manual, June 20, 2012. (No. ERDC/CHL-TR-11-X). 
+Engineer Research and Development Center Vicksburg MS Coastal and Hydraulics 
+Lab. pp 332. 
+Smith, J. M., Militello, A., and Smith, S. J., 1998. "Modeling waves at Ponce de Leon Inlet, 
+Florida." Proc. 5th International Workshop on Wave Hindcasting and Forecasting, 
+Environment Canada, Downsview, Ontario, 201-214.

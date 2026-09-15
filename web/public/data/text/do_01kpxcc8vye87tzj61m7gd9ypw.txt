@@ -1,0 +1,3954 @@
+﻿Oslo • Trondheim • Bergen; Tel: +47 24 12 64 40 • Stavanger; Tel: +47 51 50 12 50 • Kristiansand; Tel: +47 38 12 07 70 
+info@brekkestrand.no • www.brekkestrand.no • Org.nr. 916 863 071 
+Dersom figurer og/eller bilder fra rapporten brukes i andre sammenhenger, skal Brekke & Strand Akustikk krediteres. 
+ 
+ 
+Oppdragsnr: 
+84214-00 
+Rapportnr: 
+AKU - 01 
+Revisjon: 
+1 
+Revisjonsdato: 
+07. februar 2024 
+Oppdragsansvarlig: 
+Frode Eikeland 
+Utarbeidet av: 
+Frode Eikeland 
+Kontrollert av: 
+Anders Torsteinbø 
+ 
+ 
+RAPPORT  
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+Kunde: 
+MOWI ASA v/ Asle-Bjørn Lynge 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 2 av 34 
+ 
+Rev. Utarbeidet 
+Kontrollert 
+Kommentar 
+Nr: 
+Navn: 
+Dato (Egenkontroll) 
+Navn 
+Dato 
+ 
+0 
+FEI 
+24.01.24 
+AT 
+24.01.24 
+Dokument opprettet 
+1 
+FEI 
+07.02.24 
+- 
+- 
+Sammendrag er flyttet. Hovedresultat og tekst 
+er litt omstrukturert. Skrivefeil er korrigert. 
+Døgnperioder der målt støynivå trolig er 
+påvirket av vind er merket og tonet ned.  
+IT arkiv: AKU-01 Rev 01 R 240207 Lokalitet Storvika Støymålinger 2023_A  
+Innhold: 
+Sammendrag: ............................................................................................................................................. 3 
+1 
+Bakgrunn ............................................................................................................................................ 4 
+2 
+Situasjonsbeskrivelse.......................................................................................................................... 4 
+3 
+Grenseverdier ..................................................................................................................................... 6 
+4 
+Støymålinger....................................................................................................................................... 7 
+4.1 
+Tidsperiode og måleforhold ...................................................................................................... 7 
+4.2 
+Målinger på MS Ronja Skilsøy ................................................................................................... 7 
+4.3 
+Korttidsmålinger ved bolig i Vorpebakken 24 ........................................................................... 8 
+4.4 
+Måleperiode langtidsmålinger .................................................................................................. 9 
+4.5 
+Drift ved lokalitet i måleperioden ............................................................................................. 9 
+4.6 
+Måleposisjon langtidsmåling .................................................................................................... 9 
+4.7 
+Kort forklaring til tabell 1 .......................................................................................................... 9 
+4.8 
+Oppsummert måleresultater .................................................................................................. 10 
+4.9 
+Konklusjon støymålinger ......................................................................................................... 10 
+4.10 
+Usikkerhet målinger ................................................................................................................ 10 
+5 
+Beregnede støysoner rundt lokalitet ............................................................................................... 12 
+5.1 
+Hvorfor beregnes støysoner i tillegg til måleresultater? ........................................................ 12 
+5.2 
+Driftsforutsetninger støysoner ............................................................................................... 12 
+5.3 
+Oppsummert støysoner .......................................................................................................... 13 
+5.4 
+Kommentar vedlegg B: Dag .................................................................................................... 13 
+5.5 
+Kommentar vedlegg C: Kveld .................................................................................................. 13 
+5.6 
+Kommentar vedlegg D: Natt ................................................................................................... 13 
+5.7 
+Kommentar vedlegg E: Dag + kveld (Søn- og helligdager) ...................................................... 13 
+6 
+Konklusjon ........................................................................................................................................ 13 
+VEDLEGG A: Grafiske utskrifter støynivå pr. døgn ................................................................................... 14 
+VEDLEGG B: Støysone DAG, Ld .................................................................................................................. 31 
+VEDLEGG C: Støysone KVELD, Le............................................................................................................... 32 
+VEDLEGG D: Støysone NATT, Ln ................................................................................................................ 33 
+VEDLEGG E: Støysone SØNDAG+KVELD, Lde ............................................................................................. 34 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 3 av 34 
+ 
+ 
+Sammendrag: 
+Rapporten beskriver støy fra Mowi sin oppdrettslokalitet 22335 Storvika i Hustadvika kommune 
+(tidligere Fræna kommune). Anlegget ligger i Julsundet nordvest for Molde. Se markør på forsidefoto 
+(ref. https://www.fiskeridir.no/). 
+ 
+Rapporten konkluderer med at på bakgrunn av både langtidsmålinger og konservative beregninger er 
+det sannsynlig at drift ved oppdrettslokalitet Storvika overholder grenseverdier for støy i 
+utslippstillatelsen.  
+ 
+Oppsummert beregninger: 
+• 
+Dag 
+11 dB  
+lavere enn grenseverdi ved nærmeste bolig 
+• 
+Kveld 
+6 dB  
+lavere enn grenseverdi ved nærmeste bolig 
+• 
+Natt 
+4 dB  
+lavere enn grenseverdi ved nærmeste bolig 
+• 
+Søn-/helligdag 
+6 dB  
+lavere enn grenseverdi ved nærmeste bolig 
+ 
+Oppsummert gjennomsnittverdier støymålinger: 
+• 
+Dag 
+11 dB  
+lavere enn grenseverdi ved målepunkt Naust 
+• 
+Kveld 
+8 dB  
+lavere enn grenseverdi ved målepunkt Naust 
+• 
+Natt 
+6 dB  
+lavere enn grenseverdi ved målepunkt Naust 
+• 
+Søn-/ helligdag. 8 dB  
+lavere enn grenseverdi ved målepunkt Naust 
+ 
+Oppsummert høyeste døgnperiode støymålinger: 
+• 
+Dag 
+7 dB  
+lavere enn grenseverdi ved målepunkt Naust 
+• 
+Kveld 
+3 dB  
+lavere enn grenseverdi ved målepunkt Naust 
+• 
+Natt 
+1 dB  
+høyere enn grenseverdi (fredag 17.11.23) ved målepunkt Naust 
+• 
+Søn-/ helligdag. 6 dB  
+lavere enn grenseverdi ved målepunkt Naust 
+ 
+Oppsummering over er basert på støysonekart i vedlegg B-E og fra tabell 1. 
+ 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 4 av 34 
+ 
+1 
+Bakgrunn  
+Brekke & Strand Akustikk AS har etter oppdrag fra MOWI ASA vurdert støy fra oppdrettslokalitet 
+22335 Storvika i Hustadvika kommune.  
+Oppdraget er løst som en kombinasjon av støyberegninger supplert med kontinuerlige støymålinger i 
+omgivelsene over ca. 1 måned i oktober/november 2023.  
+Langtidsmålingene i omgivelsene er utført i tillegg til teoretiske beregninger for å kartlegge variasjoner 
+i støynivå, typiske støynivåer fra ulike hendelser og støynivå for ulike døgnperioder ift. grenseverdier i 
+utslippstillatelsen.  
+Lokaliteten har mottatt klager på støy fra naboer. 
+2 
+Situasjonsbeskrivelse 
+Under vises diverse kartutsnitt og foto for å beskrive plasseringen av oppdrettsanlegget og målepunkt.  
+ 
+Figur 1. Flyfoto som viser oppdrettsanlegget, langtidsmålepunkt Naust (rød pil) og nærmeste boligbebyggelse (blå pil).  
+Avstand fra boliger til nærmeste merd (M6) er ca. 550 meter. (ref. Google Maps) 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 5 av 34 
+ 
+    
+ 
+Figur 2. Oversiktskart nummerering av merder på lokalitet Storvika og foto av måleposisjon NAUST. 
+(Mikrofon viser som en svart prikk ved siden av dør på foto). 
+ 
+ 
+ 
+Figur 3. Brønnbåt «Rofjord» som ble benyttet ved anlegget i måleperioden.  
+ 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 6 av 34 
+ 
+3 
+Grenseverdier 
+Oppdrettslokaliteten har definerte støygrenser i kapitel 4 i utslippstillatelse. Se kopi under. 
+ 
+ 
+Figur 4. Kopi fra utslippstillatelsen med bla. grenseverdier for støy. 
+ 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 7 av 34 
+ 
+4 
+Støymålinger 
+4.1 Tidsperiode og måleforhold 
+Monteringsdagen, torsdag 19.10.2023 startet med støymålinger på brønnbåt MS Ronja Skilsøy ved 
+lokalitet 12298 Røysa, rett sørøst for Ålesund lufthavn Vigra. På kvelden fra ca. kl. 22:50 var det lasting 
+av fisk ved lokalitet Storvika. Værforholdene var dessverre ikke egnet for støymålinger på 
+monteringsdagen med kraftig vind med vindkast opp i 14-16 ms. Vi oppsummerer likevel litt grovt fra 
+målinger på Røysa og på natt ved lokalitet Storvika i delkapitler under. 
+4.2 Målinger på MS Ronja Skilsøy 
+Det ble målt lydnivåer ved lokalitet Røysa under lusebehandling med MS Ronja Skilsøy. Mikrofon var 
+på en 4 m høy målestang plassert på dekk servicebåt. Først ble motor på servicebåt stanset i avstand 
+30-40 m fra babord skuteside og båten drev med vær og vind. Men med en avdrift på ca. 1 meter i 
+sekundet var det vanskelig å få gode referanseforhold for lydmåling. Det ble gjort et par forsøk med 
+drivende båt som base for målingene før vi forsøkte å ankre opp i merdanlegget og på forflåte. På 
+forflåten var lydnivået preget av lyd fra foring/pellets, men posisjonene på skrå bak og foran på 
+styrbord side viste seg å være noenlunde egnet, se Figur 5. og Figur 6.  
+Beregnet lydeffektnivå for brønnbåten basert på disse målingene gir LWA ≈ 108 dB. På grunn av vær-
+/måleforhold velger vi å ikke analysere/benytte disse måledata videre. Det kan bemerkes at spesielt 
+målingene på styrbord akter var noe preget av lyd med tonekarakter ved 315 Hz. Dette ble subjektivt 
+vurdert å komme fra bruk av hydrauliske kraner ombord.  
+ 
+Figur 5. Styrbord foran. Målt avstand 68 m til baugen på Ronja Skilsøy. 
+ 
+Figur 6. Styrbord akter. Målt avstand 51 m til skroget på Ronja Skilsøy. 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 8 av 34 
+ 
+ 
+Figur 7. MS Ronja Skilsøy få minutter etter at vi la oss i ro bak på babord side (dvs. stor avdrift!). 
+4.3 Korttidsmålinger ved bolig i Vorpebakken 24 
+Vi var tilstede foran bolig i Vorpebakken nr. 24 i tidsrommet kl. 22:45-23:30 den 19.10.23 for å 
+observere og forsøke å måle lydnivå ved ankomst brønnbåt MS Rofjord. Det var mørkt og dessverre 
+fremdeles kraftige vindkast. Lyd fra båten var «hørbar» mellom vindkastene og målt ekvivalent lydnivå 
+i måleperioden var ca. 43-44 dBA (NB: Dette tallet er ukorrigert for innflytelse av vind og evt. refleksjon 
+fra hus og er kun til info!). Måleposisjon var på stativ på plen foran huset (nord) ca. 5-6 meter fra hus 
+og med ca. 750 m avstand til brønnbåten ved M2/M3.  
+ 
+Figur 8. Markør foran bolig i Vorpebakken nr. 24.  
+«Vorpeberget» øverst i figuren er naustet der langtidmåleutstyret var montert. 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 9 av 34 
+ 
+4.4 Måleperiode langtidsmålinger 
+Måleren ble utplassert torsdag 19. oktober 2023 og plukket ned torsdag 30.11.2023. Den siste delen av 
+perioden var måleren ute av drift (dvs. tom for strøm på batteriet den 26.11). Måledata fra den siste 
+uken (uke 47/2023) var preget av mye «OVERLOAD» meldinger som trolig skyldes kraftig vind med 
+vindkast opp til ca. 20 ms. Data fra denne perioden er derfor ekskludert og kun resultat frem til 19.11 
+2023 er analysert videre. Det vil si en måleperiode på totalt 4 uker.  
+4.5 Drift ved lokalitet i måleperioden 
+Når måleutstyret ble montert var det ca. 6 leveringer av fisk igjen i anlegget og foring på 3 av 8 slanger. 
+Lokaliteten ble tømt for fisk i løpet av måleperioden. Størst aktivitet var det i første halvdel av 
+måleperioden da leveranser av fisk foregikk. Da var brønnbåt innom anlegget jevnlig for å hente fisk 
+for slakting. Aktivitet og båter ved anlegget er notert på hver enkelt måledag i vedlegg B-E basert på 
+logg oversendt fra Mowi. Aktivitet har også vært sjekket sporadisk via appen «Marine Traffic» som 
+viser båtbevegelser basert på AIS (Automatisk Identifikasjons System). Merk at kommentarer om drift 
+ikke er helt komplett med hensyn til aktivitet, men oppsummere mye av hovedaktiviteten ved 
+anlegget.  
+4.6 Måleposisjon langtidsmåling 
+Mikrofon var festet tett på naustvegg som vender ut mot oppdrettslokalitet Storvika. Avstand fra 
+måleposisjon er ca. 320 m ut til den nærmeste oppdrettsmerd og ca. 720 m til den ytterste. 
+Måleposisjon NAUST er ca. på «halvdistanse» i forhold til nærmeste bolig som er ca. 230 m større 
+avstand fra lokalitet, dvs. ca. 550-950 m. Måleposisjonen ble valgt her for å få et sterkere støysignal fra 
+aktivitet på oppdrettslokaliteten og mindre fare for at den ble påvirket av daglige aktiviteter ved bolig.  
+Erfaringen viste imidlertid at plasseringen ikke var ideell. På enkelte dager ble måleresultater fra 
+måleposisjonen påvirket av støy fra bølger som slår mot land, regn, vind og det var også mye støy 
+(skrik) fra kråker, måker o.l. Måleren var «trigget» til å ta et kort lydopptak når støynivået oversteg en 
+grenseverdi og disse opptakene er hovedsakelig «trigget» av lyd fra kråker nær mikrofon.  
+Merk at mikrofonmontasje tett på en vegg måler et høyere lydnivå enn fritt innfallende lydnivå 
+(«frittfeltverdi» ved fasade). Oppsummerte måleresultat er derfor korrigert 6 dB for refleksjonsforhold 
+da resultat skal vurderes i forhold til grenseverdier som gjelder for fritt innfallende lydnivå.  
+4.7 Kort forklaring til tabell 1 
+Måleresultat fra måleperioden er oppsummert og vist i tabell 1under. Tabellen viser måleverdier i fire 
+kolonner med én rad for hvert døgn. Måleverdier er ekvivalent lydnivå (gjennomsnittsnivå) for ulike 
+døgnperioder med tilhørende grenseverdi fra utslippstillatelsen (øverst).  
+Vi har også målt maksimalnivå1 de er kun gjengitt under grafene for hvert døgn i vedlegg B-E. 
+Maksimalnivå er her preget av tilfeldige støytopper som hovedsakelig skyldes fugleskrik eller kraftig 
+vind/bølger nær mikrofonen. Disse skiller seg tydelig ut på grafisk visning på døgnnivå som tydelige 
+ 
+1 Grenseverdien for maksimalnivå er i denne saken definert som LA1 (dB): Det er det A-veide støynivået som overskrides i 1% 
+av tiden. For en 8 timers nattperiode blir det lydnivået som overskrides i en periode på 4 minutt og 48 sekund. Av 
+måletekniske hensyn ble det her vurdert maksimalnivå med enhet L5AF (dB). Verdien er mye benyttet for å beskrive 
+maksimalnivå og tilsvarer den verdi som overskrides av 5 % av hendelsene i måleperioden. Én hendelse er her betraktet som 
+det høyeste maksimalnivået registrert i én 2 minutts periode. Det vil si den 12. høyeste av totalt 240 hendelser i en 8 timers 
+natt periode. 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 10 av 34 
+ 
+topper/«spikere» på de røde kurvene. Vi har mange lydopptak av slike «hendelser» som har trigget 
+lydopptak, men ingen av opptakene som er kontrollert ved lytting er trigget av hørbar aktivitet ved 
+anlegget.  
+4.8 Oppsummert måleresultater  
+Det er generelt målt relativt lave støynivåer i hele perioden.  
+Merk at støynivå ved nærmeste bolig vil være lavere enn måleresultat i tabell 1 som er fra 
+måleposisjonen NAUST som er nærmere støykilden.  
+4.9 Konklusjon støymålinger 
+Sammenhengende støymåling over en måned viser ikke overskridelser av grenseverdier for støy som 
+kan forklares med aktivitet ved oppdrettslokalitet Storvika.  
+Det betyr ikke at lyd fra anlegget ikke er «hørbart», men at støynivået er innenfor grenseverdier.  
+4.10 Usikkerhet målinger 
+Meteorologi er alltid en usikkerhet, spesielt ved uovervåkede målinger. Vind kan i seg selv medføre 
+høyt lydnivå og også medføre bølger som slår mot land. Kraftig regnvær kan også virke inn med støy på 
+lydmålingene.  
+Her har vi ikke egen registrering av meteorologi ved selve målestasjonen, men har lagt ved utskrifter 
+av vind fra MOLDE lufthavn for måleperioden i figuren under. I tillegg har vi sjekket detaljerte 
+vindregistreringer for alle måledager på 2 andre målestasjoner (Tornes og Jendem) som er tilgjengelige 
+via https://weathermap.netatmo.com/.  
+På bakgrunn av dette er døgnperioder med vind ≥ ca. 5 m/s manuelt «gråmarkert» i tabell 1 og på 
+vurdert som IKKE GYLDIG måleresultat.  
+Andre forhold som vindretning, urolig sjø etter vind, lyd fra regnvær, fugler (kråker), geiter o.l. nær 
+målemikrofon kan også påvirke måleresultatet, men er her ikke vurdert nærmere.  
+Trolig påvirker også bølger ved Naust måleresultatet mer enn det vi har valgt å ekskludere basert på 
+vindregistreringer.     
+ 
+ 
+Figur 9. Registrering av høyeste vindkast ved MOLDE Lufthavn i måleperioden. (ref. YR.no) 
+ 
+ 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 11 av 34 
+ 
+Tabell 1. Oppsummert måleresultater i måleposisjon NAUST fra langtidsmåleperioden.  
+Resultat markert med GRÅ SKRIFT i tabellen er vurdert som «IKKE GYLDIGE» (grunnet vind) og er ikke med i 
+oppsummeringen nederst (min, maks og snitt). Se kommentarer om vind i neste avsnitt og under grafer for hvert døgn i 
+vedlegg B-E. Måleverdier er korrigert til fritt innfallende lydnivå, dBA.  
+ 
+ 
+ 
+ 
+DAG
+KVELD
+NATT
+DAG + KVELD
+kl. 7-19 (Hverdager)
+kl. 19-23 (alle dg.) kl. 23-7 (alle dg.)
+kl. 7-23 (Søn)
+Dato
+Ukedag
+Grense: 55 dBA
+Grense: 50 dBA
+Grense: 45 dBA
+Grense: 50 dBA
+19.10.
+TORS
+-
+34
+-
+20.10.
+FRE
+49
+30
+44
+21.10.
+LØR
+35
+44
+47
+22.10.
+SØN
+ 
+35
+39
+39
+23.10.
+MAN
+42
+42
+38
+24.10.
+TIR
+37
+40
+29
+25.10.
+ONS
+43
+46
+33
+26.10.
+TORS
+44
+44
+36
+27.10.
+FRE
+41
+42
+35
+28.10.
+LØR
+36
+38
+43
+29.10.
+SØN
+47
+38
+47
+30.10.
+MAN
+41
+31
+43
+31.10.
+TIR
+43
+46
+35
+1.11.
+ONS
+43
+27
+48
+2.11.
+TORS
+41
+32
+40
+3.11.
+FRE
+51
+36
+46
+4.11.
+LØR
+34
+46
+46
+5.11.
+SØN
+ 
+37
+45
+44
+6.11.
+MAN
+44
+40
+36
+7.11.
+TIR
+43
+42
+39
+8.11.
+ONS
+44
+47
+35
+9.11.
+TORS
+45
+43
+37
+10.11.
+FRE
+43
+47
+29
+11.11.
+LØR
+ 
+45
+33
+41
+12.11.
+SØN
+ 
+44
+35
+44
+13.11.
+MAN
+47
+47
+41
+14.11.
+TIR
+47
+39
+42
+15.11.
+ONS
+42
+35
+38
+16.11.
+TORS
+46
+35
+39
+17.11.
+FRE
+48
+35
+46
+18.11.
+LØR
+ 
+31
+45
+46
+19.11.
+SØN
+ 
+28
+45
+39
+min:
+37
+28
+29
+39
+maks:
+48
+47
+46
+44
+log. snitt:
+44
+42
+39
+42
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 12 av 34 
+ 
+5 
+Beregnede støysoner rundt lokalitet 
+5.1 Hvorfor beregnes støysoner i tillegg til måleresultater? 
+For å kunne beregne lydutbredelse utover det som er målt i selve måleposisjonen er det laget en 3D 
+beregningsmodell i et dataprogram (CadnaA) som kan presentere støysoner rundt lokaliteten. 
+Inngangsdata er foruten digital kartinformasjon, støykilde (lydeffekt) og driftstider, se tabell 2.  
+5.2 Driftsforutsetninger støysoner 
+Ulike døgnperioder er vist som støysoner i vedlegg B-E.  
+Merk at de ulike døgnperiodene har ulik verdi for ytterkant gul støysone (55, 50, 45 og 50 dB). Hver 
+figur er påført med rød skrift støynivå ca. ved nærmeste bolig og ved måleposisjonen NAUST.  
+Under viser tabell 2 lydeffektnivåer (INPUT) for ulike støykilder i beregningsmodellen.  
+Merk at lydeffekt er et mål for total lydenergi fra en lydkilde. Litt grovt kan en si at oppgitt lydeffekt er 
+en ca. 28 dB høyere tallverdi enn det en f.eks. kan måle med en lydmåler i 10 m avstand. 
+ 
+Tabell 2. Forutsetninger for støykilder i støysonekart.  
+NB: Lydeffekt pr. døgnperiode er her korrigert for driftstid og antall kilder jf. kommentar. 
+Støykilde: 
+DAG 
+LWA 
+dB 
+KVELD 
+LWA 
+dB  
+NATT 
+LWA 
+dB  
+DAG+KVELD 
+LWA 
+dB 
+Kommentar: 
+Fordelerventiler, 
+foring 
+99 
+96 
+- 
+99 
+2 stk., á LWA 96 dB, drift D:12t, E:2t, N:0t, punktkilder ved 
+forflåte. Spectrum. 
+Fór-rør 
+112 
+111 
+- 
+112 
+10 rør, á LWA á 82 dB/m2, drift D:4t, E:1t, N:0t, linjekilder 
+fra forflåte til hver enkelt merd. Spectrum. 
+Fór-spreder 
+108 
+107 
+- 
+108 
+10 spreder, á LWA á 103 dB, drift D:4t, E:1t, N:0t, 
+punktkilder. Spectrum. 
+Dødfisk kvern 
+94 
+- 
+- 
+94 
+1 stk., á LWA 100 dB, drift D:3t, E:0t, N:0t. Spectrum. 
+Lettbåt/arbeidsbåt 
+100 
+100 
+100 
+100 
+1 stk., á LWA 100 dB, drift D:12t, E:4t, N:8t (100%), 
+arealkilde som dekker anlegget. Spectrum. 
+Brønnbåt 
+108 
+108 
+108 
+108 
+1 stk., á LWA 108 dB, drift D:12t, E:4t, N:8t (100%), 
+arealkilde som dekker anlegget. Spectrum. 
+Fór-båt 
+- 
+102 
+99 
+100 
+1 stk., á LWA 105 dB, drift D:0t, E:2t, N:2t (kun beregnet 
+enten kveld eller natt). Spectrum. 
+SUM alle kilder: 
+115 
+114 
+109 
+115 
+ 
+ 
+ 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 13 av 34 
+ 
+5.3 Oppsummert støysoner 
+5.4 Kommentar vedlegg B: Dag 
+Vedlegg B viser en støysone for dagtid (kl. 7-19) med brønnbåt ved anlegget i hele perioden. Beregnet 
+ekvivalentnivå ved nærmeste bolig er Ld = 44 dB som er 11 dB lavere enn grenseverdi for dag,  
+(ytterkant gul sone: Ld ≤ 50 dB). 
+5.5 Kommentar vedlegg C: Kveld 
+Vedlegg C viser en støysone for kveldstid (kl. 19-23) med brønnbåt ved anlegget i hele perioden. Her er 
+det lagt inn en samtidig fórleveranse (fórbåt) med varighet 2 timer. Beregnet ekvivalentnivå ved 
+nærmeste bolig er Le= 44 dB som er 6 dB lavere enn grenseverdi for kveld,  
+(ytterkant gul sone: Le ≤ 50 dB). 
+5.6 Kommentar vedlegg D: Natt 
+Vedlegg D viser en støysone for natt (kl. 23-7) med brønnbåt ved anlegget i hele perioden. Her er det 
+også lagt inn en samtidig fórleveranse (fórbåt) med varighet 2 timer. Beregnet ekvivalentnivå ved 
+nærmeste bolig er Ln= 41 dB som er 4 dB lavere enn grenseverdi for kveld  
+(ytterkant gul sone: Ln ≤ 45 dB). 
+5.7 Kommentar vedlegg E: Dag + kveld (Søn- og helligdager) 
+Vedlegg E viser en støysone for dag + kveld (kl. 7-23) med brønnbåt ved anlegget i hele perioden. Her 
+er det også lagt inn èn samtidig fórleveranse (fórbåt) med varighet 2 timer. Beregnet ekvivalentnivå 
+ved nærmeste bolig er Lde = 44 dB som er 6 dB lavere enn grenseverdi for dag + kveld (søn- og 
+helligdager), (ytterkant gul sone: Lde ≤ 50 dB). 
+6 
+Konklusjon 
+Støysoneberegningene i vedlegg B-E forutsetter mer støy/aktivitet enn for perioden med 
+langtidsmålinger.  Støynivå i måleposisjonen er derfor beregnet høyere enn måleverdier (se 
+oppsummering i sammendrag tidlig i rapporten).  
+En «teori» på hvorfor det kommer naboklager på støy fra oppdrettslokaliteter er at det sporadisk 
+foregår støyende aktivitet i store deler av nattperioden, dvs. når folk skal sove. Dette er gjerne «godt 
+hørbart» over bakgrunnsstøyen i området som gjerne kan være ca. 30 dBA utendørs i et stille område 
+som her. 
+Vår anbefaling er i slike situasjoner å begrense all støyende aktivitet i nattperioden.  
+ 
+ 
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 14 av 34 
+ 
+VEDLEGG A: Grafiske utskrifter støynivå pr. døgn 
+ 
+I de påfølgende sidene (Figur 10 - Figur 41) er det lagt inn grafiske fremstillinger av målt lydnivå i 
+måleposisjon Naust for hver dag i måleperioden. I figurene viser blå stolper ekvivalentnivå over 2 
+minutt («gjennomsnittsnivå»). Den røde kurven øverst viser høyeste maksimalnivå i hver 2 minutts 
+periode (høyeste utslag dBA, FAST i hver periode).  
+Merk at alle grafene, av måletekniske grunner, er ukorrigert for innflytelse av mikrofonmontasje tett 
+på vegg. Det betyr at avlest utslag på grafene (Y-aksen) viser 6 dB for høyt lydnivå sammenlignet med 
+fritt innfallende lydnivå, som skal vurderes ift. grenseverdier.  
+I figurtekst under hver figur er det oppsummert beregnet ekvivalent lydnivå for hhv. dag, kveld og natt 
+perioder, samt maksimalnivå med enhet L5AF (som er lydnivået som overskrides av 5 % av 2 minutts 
+periodene på natt). 
+Merk at avstand fra måleposisjon til oppdrettsmerdene er 320-720 m. Avstand fra bolig til 
+oppdrettsmerdene er større, dvs. ca. 550-950 m. Lydnivå ved bolig er derfor lavere enn i 
+måleposisjonen grunnet økt avstandsdemping.  
+ 
+ 
+Figur 10. TOR 19.10.2023. MÅLERESULTAT  (KVELD) PÅVIRKET AV VIND! 
+Dag Ld= - dB, Kveld Le= 34 dB og Natt Ln = - dB  
+Maksimalnivå på natt, L5AF = - dB.  
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Monteringsdag. Start kl. 18:46. Brønnbåt RoFjord ankommer M1 ca. 22:50 for lasting.  
+ 
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 15 av 34 
+ 
+ 
+Figur 11. FRE 20.10.2023. MÅLERESULTAT PÅVIRKET AV VIND! 
+Dag Ld= 49 dB, Kveld Le= 30 dB og Natt Ln = 44 dB 
+Maksimalnivå på natt, L5AF = 57 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+Figur 12. LØR 21.10.2023. MÅLERESULTAT PÅVIRKET AV VIND! 
+Dag Ld= 47 dB, Kveld Le= 35 dB og Natt Ln = 44 dB 
+Maksimalnivå på natt, L5AF = 58 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 16 av 34 
+ 
+ 
+Figur 13. SØN 22.10.2023. MÅLERESULTAT NATT ER PÅVIRKET AV VIND! 
+Dag Ld= 39 dB, Kveld Le= 35 dB og Natt Ln = 39 dB 
+Maksimalnivå på natt, L5AF = 54 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+ 
+Figur 14. MAN 23.10.2023. Dag Ld= 42 dB, Kveld Le= 42 dB og Natt Ln = 38 dB 
+Maksimalnivå på natt, L5AF = 54 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 17 av 34 
+ 
+ 
+Figur 15. TIR 24.10.2023. Dag Ld= 37 dB, Kveld Le= 40 dB og Natt Ln = 29 dB 
+Maksimalnivå på natt, L5AF = 46 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+ 
+Figur 16. ONS 25.10.2023. Dag Ld= 43 dB, Kveld Le= 46 dB og Natt Ln = 33 dB 
+Maksimalnivå på natt, L5AF = 48 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Avlusing med båt Frøy Harvest kl. 11-17:15 (Gir ikke merkbart utslag på grafen) 
+ 
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 18 av 34 
+ 
+ 
+Figur 17. TOR 26.10.2023. Dag Ld= 44 dB, Kveld Le= 44 dB og Natt Ln = 36 dB 
+Maksimalnivå på natt, L5AF = 53 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Brønnbåt Rofjord laster fra M3 kl. 3-6 (Ln) + 17:40-19:30 (Ld/Le).  
+Er synlig på de blå stolpene som en markert hendelse. Tydeligst i nattperioden. Servicebåter Delfisk og Valøyfisk ved M3 kl. 
+01:15-07:15. Båt Fruen kl. 07:10-09. Delfisk arbeider ved M8-M9 kl 9:30-11 + M3 kl. 12-15 og kl. 1730-20:20. Båt Polacirkel 
+kl. 12:15-16:05. Foring kl. 8:15-17:30.  
+ 
+ 
+Figur 18. FRE 27.10.2023. Dag Ld= 41 dB, Kveld Le= 42 dB og Natt Ln = 35 dB 
+Maksimalnivå på natt, L5AF = 54 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Delfisk kl.8-15:50. Polarcirkel ankomst formiddag, avgang ettermiddag (veterinær) 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 19 av 34 
+ 
+ 
+Figur 19. LØR 28.10.2023. Dag Ld= 43 dB, Kveld Le= 36 dB og Natt Ln = 38 dB 
+Maksimalnivå på natt, L5AF = 57 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Brønnbåt Rofjord laster fra M9 kl. 13:35-16:10 (Ld). Ikke synlig på graf.  
+Sandagut kl. 07:25-16. Delfisk kl. 07:52-17:40 
+ 
+ 
+Figur 20. SØN 29.10.2023. MÅLERESULTAT DAG + KVELD PÅVIRKET AV VIND! 
+Dag Ld= 47 dB, Kveld Le= 47 dB og Natt Ln = 38 dB 
+Maksimalnivå på natt, L5AF = 54 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Brønnbåt Rofjord laster fra M9 kl. 3:30-5:30 VINTERTID (Ln). Synlig utslag på målekurve (blå).  
+NB: Overgang til Vintertid (natt kl. 2)! 
+Delfisk kl. 2-4:50 + 7:50-13:50. NB: Overgang til Vintertid (natt til SØN kl. 2) Foring kun i M8 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 20 av 34 
+ 
+ 
+Figur 21. MAN 30.10.2023. MÅLERESULTAT NATT PÅVIRKET AV VIND! 
+Dag Ld= 41 dB, Kveld Le= 31 dB og Natt Ln = 43 dB 
+Maksimalnivå på natt, L5AF = 60 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Fruen 8:17-8:20, Delfisk kl. 9:42-1340 + 15-16. Foring kun i M8 
+ 
+ 
+Figur 22. TIR 31.10.2023. MÅLERESULTAT KVELD PÅVIRKET AV VIND! 
+Dag Ld= 43 dB, Kveld Le= 46 dB og Natt Ln = 35 dB 
+Maksimalnivå på natt, L5AF = 55 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Delfisk kl. 7:42-10:20, Romsdalsfisk kl. 10:05-11:30, Valøyfisk kl. 11:50-15:55. Arbeider hovedsakelig på M1, 
+M2 og M3 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 21 av 34 
+ 
+ 
+Figur 23. ONS 01.11.2023. MÅLERESULTAT KVELD + NATT PÅVIRKET AV VIND! 
+Dag Ld= 43 dB, Kveld Le= 27 dB og Natt Ln = 48 dB 
+Maksimalnivå på natt, L5AF = 61 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Foring stoppet kl. 09.55, ingen mer foring dette utsett. 
+ 
+ 
+Figur 24. TOR 02.11.2023. MÅLERESULTAT KVELD PÅVIRKET AV VIND! 
+Dag Ld= 41 dB, Kveld Le= 32 dB og Natt Ln = 40 dB 
+Maksimalnivå på natt, L5AF = 55 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Sevicebåter v M4+M9: Valøyfisk kl. 8:35-00 , Delfisk kl. 9:30-00, Romsdalsfisk kl. 10:20-12:40 og Sandagut kl. 
+10:25-1035 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 22 av 34 
+ 
+ 
+Figur 25. FRE 03.11.2023. MÅLERESULTAT PÅVIRKET AV VIND! 
+Dag Ld= 51 dB, Kveld Le= 36 dB og Natt Ln = 46 dB 
+Maksimalnivå på natt, L5AF = 59 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Delfisk kl. 9:17-15:55, Valøyfisk kl. 9:30-15:55. Arbeider på M8, M4 
+ 
+ 
+Figur 26. LØR 04.11.2023. MÅLERESULTAT PÅVIRKET AV VIND! 
+Dag Ld= 46 dB, Kveld Le= 34 dB og Natt Ln = 46 dB 
+Maksimalnivå på natt, L5AF = 58 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Brønnbåt Rofjord laster fra M8 kl. 14:30-17 (Ld). Delfisk 12-18:30, Sandagut kl. 12:40-18. Arbeid på M8. 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 23 av 34 
+ 
+ 
+Figur 27. SØN 05.11.2023. MÅLERESULTAT NATT PÅVIRKET AV VIND! 
+Dag Ld= 44 dB, Kveld Le= 37 dB og Natt Ln = 45 dB 
+Maksimalnivå på natt, L5AF = 59 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Brønnbåt Rofjord laster fra M8 kl. 8:50-10:50 (Ld). Delfisk 07:14-14:30. 
+ 
+ 
+Figur 28. MAN 06.11.2023.  
+Dag Ld= 44 dB, Kveld Le= 40 dB og Natt Ln = 36 dB 
+Maksimalnivå på natt, L5AF = 56 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Fruen kl. 6:37-15:10, Delfisk kl. 07:25-15:55, Valøyfisk kl. 07:25-15:55, Romsdalsfisk kl. 10:15-11:55. Arbeid på 
+M4, M8 og M10 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 24 av 34 
+ 
+ 
+ 
+Figur 29. TIR 07.11.2023. Dag Ld= 43 dB, Kveld Le= 42 dB og Natt Ln = 39 dB 
+Maksimalnivå på natt, L5AF = 56 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Delfisk kl. 07:40-15:55. Arbeid på M10 ++ 
+ 
+ 
+Figur 30. ONS 08.11.2023. MÅLERESULTAT DAG + KVELD PÅVIRKET AV VIND! 
+Dag Ld= 44 dB, Kveld Le= 47 dB og Natt Ln = 35 dB 
+Maksimalnivå på natt, L5AF = 54 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Delfisk kl. 07:25-xx, Valøyfisk kl. 8:52- xx. Arbeid på M8. 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 25 av 34 
+ 
+ 
+Figur 31. TOR 09.11.2023. MÅLERESULTAT NATT PÅVIRKET AV VIND! 
+Dag Ld= 45 dB, Kveld Le= 43 dB og Natt Ln = 37 dB 
+Maksimalnivå på natt, L5AF = 54 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+ 
+Figur 32. FRE 10.11.2023. 
+Dag Ld= 43 dB, Kveld Le= 47 dB og Natt Ln = 29 dB 
+Maksimalnivå på natt, L5AF = 46 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 26 av 34 
+ 
+ 
+Figur 33. LØR 11.11.2023.  
+Dag Ld= 41 dB, Kveld Le= 45 dB og Natt Ln = 33 dB 
+Maksimalnivå på natt, L5AF = 50 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+ 
+Figur 34. SØN 12.11.2023.  
+Dag Ld= 44 dB, Kveld Le= 44 dB og Natt Ln = 35 dB 
+Maksimalnivå på natt, L5AF = 56 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 27 av 34 
+ 
+ 
+Figur 35. MAN 13.11.2023.  
+Dag Ld= 47 dB, Kveld Le= 47 dB og Natt Ln = 41 dB 
+Maksimalnivå på natt, L5AF = 58 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+ 
+Figur 36. TIR 14.11.2023.  
+Dag Ld= 47 dB, Kveld Le= 39 dB og Natt Ln = 42 dB 
+Maksimalnivå på natt, L5AF = 58 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 28 av 34 
+ 
+ 
+Figur 37. ONS 15.11.2023.  
+Dag Ld= 42 dB, Kveld Le= 35 dB og Natt Ln = 38 dB 
+Maksimalnivå på natt, L5AF = 55 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+ 
+Figur 38. TOR 16.11.2023.  
+Dag Ld= 46 dB, Kveld Le= 35 dB og Natt Ln = 39 dB 
+Maksimalnivå på natt, L5AF = 56 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 29 av 34 
+ 
+ 
+Figur 39. FRE 17.11.2023.  
+Dag Ld= 48 dB, Kveld Le= 35 dB og Natt Ln = 46 dB 
+Maksimalnivå på natt, L5AF = 60 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: Mye vind 
+ 
+ 
+Figur 40. LØR 18.11.2023. MÅLERESULTAT DAG + KVELD PÅVIRKET AV VIND! 
+Dag Ld= 46 dB, Kveld Le= 31 dB og Natt Ln = 45 dB 
+Maksimalnivå på natt, L5AF = 59 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+Kommentar: På dagtid kl. 930-10 er det hørbare lyder. Trolig fra en fugl eller et dyr nær mikrofon. 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+Leq
+Lmax
+MOWI oppdrettslokalitet 22335 Storvika 
+Støymålinger og -beregninger 
+ 
+Rapportnr: AKU - 01 
+Revisjon: 1 
+Oppdragsnr.: 84214-00 
+07. februar 2024 
+Side: 30 av 34 
+ 
+ 
+Figur 41. SØN 19.11.2023. MÅLERESULTAT NATT PÅVIRKET AV VIND! 
+Dag Ld= 39 dB, Kveld Le= 28 dB og Natt Ln = 45 dB 
+Maksimalnivå på natt, L5AF = 59 dB. 
+(Grafen viser + 6 dB relativt fritt innfallende lydnivå. Oppsummering i figurtekst er fritt innfallende lydnivå.) 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+N
+2
+3
+N
+0
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+D
+7
+D
+8
+D
+9
+D
+1
+0
+D
+1
+1
+D
+1
+2
+D
+1
+3
+D
+1
+4
+D
+1
+5
+D
+1
+6
+D
+1
+7
+D
+1
+8
+E
+1
+9
+E
+2
+0
+E
+2
+1
+E
+2
+2
+N
+2
+3
++6 dB posisjon
+44
+51
+VEDLEGG B: 
+Støysone DAG, Ld
+0
+Tegning opprettet
+24.01.2024
+FEI
+AT
+REV REV. GJELDER
+DATO
+SAKSB. KONTR.
+OBJEKTER
+Støyfølsom bygning
+Ikke støyfølsom bygning
+Fritidsbolig
+Vei
+Jernbane
+Eks. støyskjerm, mur o.l.
+Nytt støyskjermingstiltak
+Terrenglinje
+Høydepunkt
+Bakke (hard,medium,myk)
+Vannflate
+Eiendomsgrense
+Beregningsområde
+BEREGNINGSHØYDE
+4.0 m
+BEREGNINGSOPPLØSNING
+10 x 10 m  
+BEREGNINGSPARAMETER
+Ld
+ <= 55 dB
+ > 55 dB
+ > 60 dB
+ > 65 dB
+ > 70 dB
+ > 75 dB
+ORIENTERING
+Brekke & Strand Akustikk AS
+OSLO-STAVANGER-TRONDHEIM
+KRISTIANSAND-BERGEN
+info@brekkestrand.no
+Brekke & Strand Akustik AB
+GÖTEBORG-STOCKHOLM-MALMÖ
+info@brekkestrand.se
+Brekke & Strand Akustikk ehf.
+REYKJAVÍK
+info@brekkestrand.no
+PROSJEKT
+MOWI lokalitet 22335 Storvika, Hustadvika kommune.
+TITTEL
+Daglig drift +Brønnbåt 100% +Forbåt 2t e/n
+TEGNINGSNUMMER
+Storvika
+FORMAT
+A3
+STATUS
+år 2024
+PROSJEKTNR.
+84214-00
+MÅL
+ 1:5000
+DATO
+24.01.2024
+SAKSB.
+FEI
+KONTROLLERT
+AT
+GODKJENT
+FEI
+FILNAVN
+...\Storvika_x1.cna
+44
+51
+VEDLEGG C: 
+Støysone KVELD, Le
+0
+Tegning opprettet
+24.01.2024
+FEI
+AT
+REV REV. GJELDER
+DATO
+SAKSB. KONTR.
+OBJEKTER
+Støyfølsom bygning
+Ikke støyfølsom bygning
+Fritidsbolig
+Vei
+Jernbane
+Eks. støyskjerm, mur o.l.
+Nytt støyskjermingstiltak
+Terrenglinje
+Høydepunkt
+Bakke (hard,medium,myk)
+Vannflate
+Eiendomsgrense
+Beregningsområde
+BEREGNINGSHØYDE
+4.0 m
+BEREGNINGSOPPLØSNING
+10 x 10 m  
+BEREGNINGSPARAMETER
+Le
+ <= 50 dB
+ > 50 dB
+ > 55 dB
+ > 60 dB
+ > 65 dB
+ > 70 dB
+ORIENTERING
+Brekke & Strand Akustikk AS
+OSLO-STAVANGER-TRONDHEIM
+KRISTIANSAND-BERGEN
+info@brekkestrand.no
+Brekke & Strand Akustik AB
+GÖTEBORG-STOCKHOLM-MALMÖ
+info@brekkestrand.se
+Brekke & Strand Akustikk ehf.
+REYKJAVÍK
+info@brekkestrand.no
+PROSJEKT
+MOWI lokalitet 22335 Storvika, Hustadvika kommune.
+TITTEL
+Daglig drift +Brønnbåt 100% +Forbåt 2t e/n
+TEGNINGSNUMMER
+Storvika
+FORMAT
+A3
+STATUS
+år 2024
+PROSJEKTNR.
+84214-00
+MÅL
+ 1:5000
+DATO
+24.01.2024
+SAKSB.
+FEI
+KONTROLLERT
+AT
+GODKJENT
+FEI
+FILNAVN
+...\Storvika_x1.cna
+41
+48
+VEDLEGG D: 
+Støysone NATT, Ln
+0
+Tegning opprettet
+24.01.2024
+FEI
+AT
+REV REV. GJELDER
+DATO
+SAKSB. KONTR.
+OBJEKTER
+Støyfølsom bygning
+Ikke støyfølsom bygning
+Fritidsbolig
+Vei
+Jernbane
+Eks. støyskjerm, mur o.l.
+Nytt støyskjermingstiltak
+Terrenglinje
+Høydepunkt
+Bakke (hard,medium,myk)
+Vannflate
+Eiendomsgrense
+Beregningsområde
+BEREGNINGSHØYDE
+4.0 m
+BEREGNINGSOPPLØSNING
+10 x 10 m  
+BEREGNINGSPARAMETER
+Ln
+ <= 45 dB
+ > 45 dB
+ > 50 dB
+ > 55 dB
+ > 60 dB
+ > 65 dB
+ORIENTERING
+Brekke & Strand Akustikk AS
+OSLO-STAVANGER-TRONDHEIM
+KRISTIANSAND-BERGEN
+info@brekkestrand.no
+Brekke & Strand Akustik AB
+GÖTEBORG-STOCKHOLM-MALMÖ
+info@brekkestrand.se
+Brekke & Strand Akustikk ehf.
+REYKJAVÍK
+info@brekkestrand.no
+PROSJEKT
+MOWI lokalitet 22335 Storvika, Hustadvika kommune.
+TITTEL
+Daglig drift +Brønnbåt 100% +Forbåt 2t e/n
+TEGNINGSNUMMER
+Storvika
+FORMAT
+A3
+STATUS
+år 2024
+PROSJEKTNR.
+84214-00
+MÅL
+ 1:5000
+DATO
+24.01.2024
+SAKSB.
+FEI
+KONTROLLERT
+AT
+GODKJENT
+FEI
+FILNAVN
+...\Storvika_x1.cna
+44
+51
+VEDLEGG E: 
+Støysone Søn-/Helligdager, Lde
+0
+Tegning opprettet
+24.01.2024
+FEI
+AT
+REV REV. GJELDER
+DATO
+SAKSB. KONTR.
+OBJEKTER
+Støyfølsom bygning
+Ikke støyfølsom bygning
+Fritidsbolig
+Vei
+Jernbane
+Eks. støyskjerm, mur o.l.
+Nytt støyskjermingstiltak
+Terrenglinje
+Høydepunkt
+Bakke (hard,medium,myk)
+Vannflate
+Eiendomsgrense
+Beregningsområde
+BEREGNINGSHØYDE
+4.0 m
+BEREGNINGSOPPLØSNING
+10 x 10 m  
+BEREGNINGSPARAMETER
+Lde
+ <= 50 dB
+ > 50 dB
+ > 55 dB
+ > 60 dB
+ > 65 dB
+ > 70 dB
+ORIENTERING
+Brekke & Strand Akustikk AS
+OSLO-STAVANGER-TRONDHEIM
+KRISTIANSAND-BERGEN
+info@brekkestrand.no
+Brekke & Strand Akustik AB
+GÖTEBORG-STOCKHOLM-MALMÖ
+info@brekkestrand.se
+Brekke & Strand Akustikk ehf.
+REYKJAVÍK
+info@brekkestrand.no
+PROSJEKT
+MOWI lokalitet 22335 Storvika, Hustadvika kommune.
+TITTEL
+Daglig drift +Brønnbåt 100% +Forbåt 2t e/n
+TEGNINGSNUMMER
+Storvika
+FORMAT
+A3
+STATUS
+år 2024
+PROSJEKTNR.
+84214-00
+MÅL
+ 1:5000
+DATO
+24.01.2024
+SAKSB.
+FEI
+KONTROLLERT
+AT
+GODKJENT
+FEI
+FILNAVN
+...\Storvika_x1.cna

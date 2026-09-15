@@ -1,0 +1,3717 @@
+﻿4109-3-25K, Lille Bjørnøya 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kartlegging av sårbare marine arter og 
+naturtyper ved Lille Bjørnøya i Rødøy 
+kommune, mars, august, september og 
+oktober 2025 
+ 
+ 
+Kvarøy Fiskeoppdrett AS 
+ 
+2025 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+2 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Telefon: 74 28 84 30 
+E-post: post@aqua-kompetanse.no 
+Nettside: www.aqua-kompetanse.no 
+Org. Nr.: 982 226 163 
+ 
+ 
+ 
+Rapportens tittel: 
+Kartlegging av sårbare marine arter og naturtyper ved Lille Bjørnøya i Rødøy kommune, mars, 
+august, september og oktober 2025 
+Forfatter: Reidun Lund og Emma Matland 
+Feltdato: 12.03.2025, 25-28.08.2025, 
+01.09.2025 og 27.10.2025 
+Toktledere: Camela Haddad, Emma Christine 
+Matland, Tom Einar Andreassen, Nils Gunnar 
+Lindbo 
+Rapportdato: 23.12.2025 
+Rapportnummer: 4109-3-25K 
+Antall sider uten vedlegg: 29 
+Antall sider totalt: 42 
+Oppdragsgiver: Kvarøy Fiskeoppdrett AS 
+Kontaktperson: Marius Olsen Eriksen 
+Lokalitet: Lille Bjørnøya 
+Fylke: Nordland 
+Kommune: Rødøy 
+Sammendrag 
+Aqua Kompetanse AS har gjennomført en kartlegging av sårbare arter og naturtyper på dypt (> 50 m) og grunt 
+(0-50 m) vann ved den planlagte lokaliteten Lille Bjørnøya, etter metodikk foreslått av Fiskeridirektoratet og 
+Miljødirektoratet (2022).  
+ 
+Undersøkelsesområdet omfatter en variert topografi med overgang fra grovkornet sediment og fast fjell i grunne 
+områder til bløtbunn i dypere partier, og huser et artsrikt bunnlevende samfunn. Det ble registrert flere arter 
+sjøfjær, svamp og korallarter, inkludert rødlistede og nær truede arter. Forekomstene viser lokal variasjon i både 
+tetthet og størrelse. Koraller ble hovedsakelig observert knyttet til hardbunn i den østlige delen av 
+undersøkelsesområdet, samt sørøst i området rundt transekt 9.  Høyest samlet tetthet av koraller ble registrert 
+ved transekt 9 (datapunkt E), med inntil 0,992 individer/kolonier per m², mens høyest tetthet av svamp ble 
+registrert ved transekt 15 (datapunkt A) med 1,868 individer/kolonier per m². Sjøfjær forekom hovedsakelig i 
+dypere områder, med høyest registrert tetthet ved transekt 9 (datapunkt A), hvor tettheten var 0,804 individer 
+per m². 
+Emneord: 
+Kartlegging; Naturtype; ROV; Korall; Svamp; Sjøfjær 
+3447-1.5 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig: 
+ 
+ 
+Reidun Lund 
+ 
+Kvalitetssikrer: 
+ 
+ 
+ 
+ 
+Camela Haddad 
+© 2025 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+3 
+ 
+ 
+ 
+Innhold 
+Forord ...................................................................................................................................................... 4 
+1. 
+Innledning ....................................................................................................................................... 5 
+2. 
+Materiale og metode .................................................................................................................... 12 
+2.1 Utstyr ........................................................................................................................................... 13 
+2.2 Undersøkelsesområde ................................................................................................................ 13 
+2.3 Plassering av ROV-kjørelinjer ..................................................................................................... 15 
+3. 
+Resultater ...................................................................................................................................... 17 
+3.1 Tetthet ......................................................................................................................................... 18 
+3.2 Diversitet og artsrikdom ............................................................................................................. 21 
+3.3 Størrelsesfordeling ..................................................................................................................... 23 
+3.3.1 Øyekorall .............................................................................................................................. 23 
+3.3.2 Sikksakkorall ........................................................................................................................ 23 
+3.3.3 Sjøtre .................................................................................................................................... 24 
+Oppsummering ..................................................................................................................................... 26 
+4. 
+Referanser ..................................................................................................................................... 29 
+Vedlegg A – Kartlegging, Lille Bjørnøya ............................................................................................... 30 
+Vedlegg B – Artsliste ............................................................................................................................. 31 
+Vedlegg C – Bilder ................................................................................................................................. 33 
+Vedlegg D – Observert tetthet ............................................................................................................. 39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+4 
+Forord 
+ 
+Det er store kunnskapshull når det gjelder sårbare marine arter og naturtypers utbredelse langs 
+norskekysten og hvordan disse kan påvirkes av ulike typer utslipp. Mange arter av svamp, koraller og 
+sjøfjær er vanlige i Norge, men regnes som spesielt sårbare for menneskelig påvirkning fordi de har 
+lang levetid, er svært saktevoksende og ofte skjøre. Disse artene danner store tredimensjonale 
+habitater og tette samfunn som har en viktig økologisk funksjon for både bunnlevende og pelagiske 
+arter. Kartlegging ved hjelp av undervannsvideo vil avdekke om det er forekomst av velutviklede 
+naturtyper bestående av sårbare arter ved lokaliteter som er i bruk eller som er planlagt for 
+akvakulturaktivitet eller andre inngrep og utslipp langs kysten og i fjordene. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+5 
+1. Innledning 
+ 
+På oppdrag fra Kvarøy Fiskeoppdrett AS har Aqua Kompetanse AS gjennomført en kartlegging av 
+sårbare arter og naturtyper på grunt (0 – 50 m) og dypt vann (>50 m) ved Lille Bjørnøya. Undersøkelsen 
+har som formål å kartlegge forekomst og tetthet av sårbare arter som kan danne naturtyper som står 
+på norsk rødliste for naturtyper (Artsdatabanken 2025) eller på OSPARS (Oslo-Paris-konvensjonen om 
+beskyttelse av det marine miljø i det nordøstlige Atlanterhavet) liste over truede og/eller minkende 
+habitat (OSPAR  2008-06, revidert i 2021).  
+ 
+På dybder dypere enn 50 meter omfatter dette korall, svamp og sjøfjær og eventuelt andre rødlistede 
+arter på dypt vann; undersøkelsen tar utgangspunkt i Havforskningsinstituttets forslag til metode for 
+kartlegging av sårbare arter og naturtyper på dypt vann til søknader om akvakultur i sjø (Kutti og Husa, 
+2021). Tabell 1 gir en oversikt over definisjon og antatt rehabiliteringsevne for naturtyper på dypt vann. 
+På dybder grunnere enn 50 meter omfatter kartleggingen tareskog, bløtbunnsområder i strandsonen, 
+ruglbunn, marin undervannseng, eksponert blåskjellbunn, østers, kamskjellforekomster, koraller, 
+svamp, sjøfjær og eventuelt andre rødlistede arter på grunt vann. Tabell 2 gir en oversikt over 
+definisjon og antatt rehabiliteringsevne for naturtyper på grunt vann. 
+ 
+ 
+Tabell 1: Definisjon, beskrivelse og antatt rehabiliteringsevne (Kutti og Husa, 2021) for naturtyper som inngår i kartleggingen 
+på dypt vann (>50 m). 
+Naturtyper på dypt 
+vann (>50 meter) 
+Definisjon/Beskrivelse  
+Antatt 
+rehabiliteringsevne 
+Korallskog 
+OSPAR (2010b) definerer korallskog som en relativt tett ansamling av 
+korallkolonier av én eller flere arter på bløt- eller hardbunn. Naturtypen er ikke 
+kvantitativt definert av OSPAR og det finnes heller ingen norsk definisjon av 
+korallskog (Kutti & Husa, 2021). I Kutti & Husa (2021) beskrives det at for større 
+korallarter kan ha en tetthet på 1 til 2 kolonier per 100 m² være nok til å beskrive 
+habitatet som korallskog, mens det er observert at mindre korallarter kan 
+forekomme med tetthet opp til 200-500 kolonier per 100m².  
+Lav 
+Sjøfjær og gravende 
+megafaunasamfunn 
+OSPAR (2010a) definerer habitatet sjøfjær og gravende megafaunasamfunn som 
+flater med mudder der det er iøynefallende forekomst av sjøfjær samt groper og 
+forhøyninger i sedimentoverflaten fra gravende megafauna. Gravende 
+megafuana som kan observeres på video er eksempelvis krepsdyr av ulike arter. 
+Naturtypen er ikke kvantitativt definert (Kutti & Husa, 2021). 
+Moderat 
+Svampskog  
+OSPAR (2010c) definerer naturtypen svampskog, bestående av horn- og 
+kiselsvamper, som massive svamper med en tetthet på 0,5-1,0 individer på m², 
+på bløt og/eller hardbunn. Det finnes ingen egen norsk definisjon på naturtypen 
+svampskog. Det er observert svampskog som definert av OSPAR på Norsk 
+kontinentalsokkel (Kutti et al., 2013), men det er usikkert hvordan svamptetthet 
+i fjorder er, sammenlignet med tetthet på sokkelen (Kutti & Husa, 2021). 
+Dypvannssvamper har lignende habitat-preferanser som kaldtvanns-koraller, og 
+disse forekommer derfor ofte sammen (OSPAR, 2010c).  
+Lav 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+6 
+ 
+Tabell 2: Definisjon, beskrivelse og antatt rehabiliteringsevne (Kutti og Husa, 2022) for naturtyper på grunt vann (0-50m). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Naturtyper på grunt 
+vann (0-50 meter)
+Definisjon/Beskrivelse
+Antatt 
+rehabiliterings- 
+evne
+Tareskog
+Artsdatabanken definerer tareskog som "et sammenhengende område dominert av tare-
+arter, med et areal større enn 100 m2 og bredde større enn 5 m".
+Høy
+Stortareskog
+Større stortareskogforekomster er kartlagt og modellert langs norskekysten (Kutti & Husa,
+2022). Nordlig stortareskog er vurdert som nær truet av Norsk rødliste for naturtyper 2018
+(Gundersen et al., 2018a). 
+Høy
+Sukkertareskog
+Sukkertareskog har ikke blitt systematisk kartlagt eller modellert langs norskekysten (Kutti &
+Husa, 2022). Nordlig og sørlig sukkertareskog er vurdert som sterkt truet av Norsk rødliste
+for naturtyper 2018 (Gundersen et al., 2018b).
+Høy
+Fingertarebunn
+Fingertarebunn har ikke blitt systematisk kartlagt eller modellert langs norskekysten (Kutti &
+Husa, 2022). Naturtypen er vurdert som sårbar av Norsk rødliste for naturtyper 2018
+(Gundersen et al., 2018c).
+Høy
+Bløtbunnsområder i 
+strandsonen
+Kutti & Husa (2022) definerer naturtypen som "bølgepåvirkede strender av ren sand,
+strandflater med mudderblandet sand eller strandflater med bløtt mudder i beskyttede
+områder". Naturtypen står på OSPARS liste over sårbare og minkende habitat (OSPAR, 2008-
+06), men ikke på Norsk rødliste for naturtyper 2018.
+Moderat
+Ruglbunn
+Ruglbunn er definert som områder med forekomst av løstliggende kalkalger av ulike arter
+som danner er tredimensjonalt habitat (Kutti & Husa, 2022). Naturtypen er ikke kartlangt
+langs norskekysten med står på Norsk rødliste for naturtyper 2018 (Gundersen et al.,
+2018d).
+Lav
+Marin undervanns- 
+eng
+Flere ulike marine karplanter kan inngå i naturtypen, men den er i norge hovedsakelig
+bestående av Zostera spp. (Ålegras). Ålegrasenger står på OSPARS liste over sårbare og
+minkende habitat (OSPAR, 2008-06). 
+Lav
+Eksponert blåskjell- 
+bunn
+OSPAR (2008-07) definerer eksponert blåskjellbunn som banker med blåskjell på grunt vann.
+Blåskjellbunn er ikke en kartlagt naturtype i Norge (Kutti & Husa, 2022), men er vurdert som
+en sårbar naturtype på Norsk rødliste for naturtyper 2018 (Gundersen et al. 2018e).
+Høy
+Østers
+Forekomster av europeisk østers står på OSPARS liste over sårbare og minkende habitat
+(OSPAR, 2008-06). 
+Moderat
+Kamskjell- 
+forekomster
+Kutti & Husa (2022) definerer naturtypen som flekkvis forekomst av artene stort kamskjell
+(Pecten maximus ) og/eller haneskjell (Chlamys islandica)
+over store bunnområder.
+Kamskjellforekomster er vurdert som ressursart i Norge.
+Moderat
+Koraller, svamp og 
+sjøfjær
+I norske fjorder kan koraller, svamp og sjøfjær forekomme på dybder grunnere enn 50
+meter (Kutti & Husa, 2022).  Se tabell 1 for nærmere beskrivelse.
+Lav
+Lav/moderat 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+7 
+1.1 Kunnskapsgrunnlag 
+Det finnes lite kunnskap og litteratur om naturtyper som forekommer både på grunt og dypt vann (>50 
+meter) langs norskekysten, særlig på dypt vann. Kunnskapsmangelen er størst når det gjelder 
+definering av naturtypene, inkludert avgrensning basert på tetthet, størrelse av dekningsareal og 
+artssammensetning, kunnskap om hvor vanlige eller sjeldne disse naturtypene er, og 
+populasjonsstruktur og genetisk diversitet.  
+ 
+Det finnes flere ulike navn og begrep for relevante naturtyper på dypt vann. I Havforskningsinstituttets 
+forslag til metode for kartlegging av sårbare arter og naturtyper på dypt vann til søknader om 
+akvakultur i sjø (Kutti og Husa, 2021) beskrives naturtypene korallskog, sjøfjær og gravende 
+megafaunasamfunn, og svampskog. Disse naturtypene er også habitater på OSPARs liste over truede 
+og/eller minkende habitat, kalt henholdsvis: «Coral gardens» (innebærer både bløtbunn og hardbunn 
+korallskog) og «Lophelia pertusa reefs», «Sea-pen and burrowing megafauna» og «Deep-sea sponge 
+aggregations» (OSPAR, List of Threatened and/or Declining Species & Habitat, 2008-06, revidert i 
+2021). Natur i Norge (NiN) bruker tre hovedbegreper for dypvannshabitater som kan være relevante 
+for de nevnte naturtypene: Afotisk fast saltvannsbunn (NA-MA03), Afotisk saltvanns-sedimentbunn 
+(NA-MA06), Korallrev (NA-MB03) og marint bunnsystem preget av oksygenmangel (NA-MC08). Hver 
+hovedtype er delt i flere kartleggingsenheter (NiN 3.0, Marine bunnsystemer, 2023). Instruks for Nin 
+kartlegging i det marine miljø er under utvikling, og forventes i 2026. Norsk rødliste for naturtyper, 
+publisert i november 2025, gjenbruker flere av NiN-begrepene og prøver å tilknytte naturtypene til 
+kartleggingsenhetene (Artsdatabanken, 2025). 
+ 
+I 2024 publiserte havforskningsinstituttet rapporten «Forvaltningsrelevante naturenheter i sjø – 
+Forslag til forvaltningsrelevante naturenheter for fiskeri og havbruk» (Espeland, 2024) som beskriver 
+biotiske fysiske naturenheter med stor betydning for mange arter. Det beskrives at «rapporten er et 
+første utkast til havforskningsinstituttet sin anbefaling ved valg av kartleggingsenheter i sjø». Disse 
+naturenhetene har en funksjon som levende substrat, og består av arter som danner et 
+tredimensjonalt habitat med viktig økologisk funksjon. I rapporten fra 2024 brukes begrepet 
+naturenhet som et utvidet begrep som også kan beskrive naturtyper bestående av mobile arter som 
+ellers ikke fanges opp av Natur i Norge (NiN) kartleggingsenheter. Biotiske fysiske naturenheter på dypt 
+vann 
+inkluderer 
+hardbunnskorallskog, 
+bløtbunnskorallskog, 
+korallrev, 
+svampsamfunn 
+og 
+sjøfjærsamfunn.  
+ 
+Videre beskrives de ulike naturtypene ut ifra den kunnskapen som er tilgjengelig per dags dato. Tabell 
+3 oppsummerer denne informasjonen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+8 
+1.1.1 Hardbunnskorallskog, bløtbunnskorallskog og korallrev 
+En tett forekomst av koraller kan kalles for bløtbunnskorallskog, hardbunnskorallskog eller et korallrev. 
+Dette er avhengig av bunnsedimentet der korallene forekommer samt artssammensetning.  
+ 
+Norsk rødliste for naturtyper (2025) har vurdert to typer bløtbunnskorallskog; Dyp hornkorallskog på 
+mudderbunn i atlantisk vann (dominert av bambuskorall, Isidella lofotensis), og Dyp hornkorallskog på 
+mudderbunn i intermediært vann (dominert av grisehalekorall, Radicipes gracilis). Begge naturtypene 
+fikk status Sterkt truet (EN). På hardbunnskorallskog har rødlisten vurdert tre naturtyper: 1. Eksponert 
+dyp hornkorallskog på fastbunn i kystvann (dominert av sjøbusk, Paramuricea placomus, eller hvit 
+hornkorall Callistephanus pallida) som fikk status Nær truet (NT), 2. Noe beskyttet dyp hornkorallskog 
+på fastbunn i atlantisk vann (dominert av sjøtre, Paragorgia arborea, og risengrynkorall, Primnoa 
+resedaeformis) som fikk status Nær truet (NT) og 3. Noe beskyttet dyp hornkorallskog på fastbunn i 
+intermediært vann (dominert av hardbunns-bambuskoraller, sannsynligvis fra familien Keratoisididae) 
+som fikk status Datamangel (DD). På korallrev har rødlisten vurdert to naturtyper: Kysttilknyttet 
+korallrev-bunn (innenfor 4 nautiske mil fra grunnlinjen, dominert av øyekorall, Desmophyllum 
+pertusum) som fikk status Nær truet (NT) og Havtilknyttet korallrev-bunn (utenfor 4 nautiske mil fra 
+grunnlinjen, dominert av øyekorall, Desmophyllum pertusum, eller sikksakk-korall, Madrepora oculata) 
+som fikk status Uten risiko (LC). 
+ 
+OSPARs liste over truede og/eller minkende habitat inkluderer habitatene «Coral gardens» og 
+«Lophelia pertusa reefs», hvor de har dårlig status i alle OSPAR-regionene (BDC2022/Coral gardens og 
+BDC2022/Lophelia pertusa-reefs). I OSPARS habitatbeskrivelse (OSPAR, 2008-7) påpekes det at det er 
+stor variasjon av tetthet innenfor naturtypene avhengig av hvilke arter som forekommer samt en rekke 
+abiotiske faktorer. OSPAR rapporterer at de få vitenskapelige undersøkelsene som er tilgjengelige 
+indikerer at mindre arter (f.eks. gorgonianene Acanthogorgia og Primnoa, samt stylasterider) kan 
+forekomme i høyere tettheter, f.eks. 50–200 kolonier per 100 m² (0,5-2 kolonier per m²), 
+sammenlignet med større arter som Paragorgia, som kanskje ikke når tettheter på 1 eller 2 koloni per 
+100 m² (0,01-0,02 koloni per m²). Avhengig av biogeografisk område og dybde kan korallskoger som 
+inneholder flere korallarter enkelte steder nå tettheter mellom 100-700 kolonier per m² (1-7 kolonier 
+per m²). OSPAR fastsetter derimot ikke noen konkret grenseverdi for tetthet for verken «Coral 
+gardens» eller «Lophelia pertusa reef», og beskriver at visuell kartlegging vil forhåpentligvis bidra til 
+økt kunnskap i årene som kommer. 
+ 
+Den 15. august 2025 ble det fastsatt ved kongelig resolusjon en endring i forskrift 13. mai 2011 om 
+utvalgte naturtyper etter naturmangfoldloven som inkluderer korallrev som en av disse naturtypene. 
+Korallrev ble definert i forskriften som «et havbunnsområde med revbyggende koralldyr i kolonier 
+bestående av både levende og døde deler, som dekker minst 25 m2. Korallrevet kan bestå av flere 
+enkeltstående korallkolonier som sammen dekker minst 75 % av minsteområdet.». 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+9 
+1.1.2 Svampskog/svampsamfunn 
+En tett forekomst av svamper kan kalles for svampskog. Svamp kan forekomme på bløtbunn, fast fjell, 
+samt på mindre steiner og blokker, og forekommer ofte sammen med korallforekomster.  
+ 
+Norsk rødliste for naturtyper (2025) har vurdert totalt seks naturtyper med svampskog: 1. Dyp 
+svampskog på mudderbunn i atlantisk vann (dominert av kuleformede svamper eller med form 
+tilpasset til sedimentering, som Craniella, Asbestopluma og Thenea) som fikk status Nær truet (NT), 2. 
+Dyp svampskog på sedimentbunn i atlantisk vann (dominert for eksempel av Oceanapia, Craniella eller 
+Stylocordyla) som fikk status Nær truet (NT), 3. Eksponert dyp svampskog på fastbunn i kystvann som 
+fikk status Uten risiko (LC), 4. Noe beskyttet dyp svampskog på fastbunn i atlantisk vann (dominert av 
+vitesvamp, Phakellia ventillabrum, traktsvamp, Axinella infundibuliformis, fingersvamp Antho 
+dichotoma, og lignende) som fikk status Uten risiko (LC), 5. Noe beskyttet dyp svampskog på fastbunn 
+i dyphavsvann (dominert av stående, avrundete, rør-formede og kjøttetende svamparter) som fikk 
+status Sterkt truet (EN) og 6. Noe beskyttet dyp svampskog på fastbunn i intermediært vann (dominert 
+av stående avrundete og rør-formete svamparter, samt svampspikelmatter på sjøfjelltoppene) som 
+fikk status Datamangel (DD). 
+ 
+OSPARs liste over truede og/eller minkende habitat inkluderer habitatene «Deep-sea sponge 
+aggregations» for OSPAR regioner I, III, IV og V (BDC2022/Deep-sea_Sponge_Aggregations_OSPAR). I 
+OSPARs habitatdefinisjon beskrives det at tettheter er vanskelig å kvantifisere, men svamper i klassen 
+Hexactinellida er rapportert med tettheter på 4-5 ind/koloni per m², mens «massive growth forms of 
+sponges» i klassen Demospongiae er rapportert med tettheter på 0,5-1 ind/koloni per m². 
+ 
+Svampsamfunn er en foreslått forvaltningsrelevant naturenhet for fiskeri og havbruk (Rapport fra 
+havforskningen NR.2024-16); svampsamfunn står der oppført som en biotisk fysisk naturenhet som er 
+substratdefinert, altså fungerer som et levende substrat, og som er viktig for mange arter. Kunnskapen 
+om tettheter av svampskog i norske fjorder er mangelfull (Kutti og Husa, 2021). 
+ 
+1.1.3 Sjøfjærbunn 
+ 
+Langs norskekysten finner man utbredt forekomst av artene Virgularia cf. mirabilis (liten piperenser), 
+Funiculina quadrangularis (stor piperenser), Pennatula phosphorea (vanlig sjøfjær) og Kophobelemnon 
+stelliferum (hanefot), ofte i samspill med gravende megafauna som ulike arter krepsdyr, sjøpølser, fisk 
+og børstemark. Disse artenes gravende aktivitet danner et komplekst habitat og økt oksygenering ned 
+i bunnsubstratet (OSPAR, 2008-7). Flere arter sjøfjær kan trekke seg helt ned i sedimentet, noe som 
+kan påvirke vurderingen av tetthet (Hughes, 1998). 
+ 
+Norsk rødliste for naturtyper (2025) har vurdert totalt tre naturtyper med sjøfjærskog: 1. Dyp 
+sjøfjærskog på mudderbunn i atlantisk vann (karakterisert av stor piperenser, Funiculina 
+quadrangularis, arter fra familien Virgulariidae og hanefot, Kophobelemnon stelliferum) som fikk status 
+Uten risiko (LC), 2. Dyp sjøfjærskog på mudderbunn i intermediært vann (dominert av dyphavssjøfjær 
+Umbellula encrinus) som fikk status Sårbar (VU) og 3. Dyp sjøfjærskog på mudderbunn i kystvann 
+(karakterisert av vanlig sjøfjær, Pennatula phosphorea, og liten piperenser, Virgularia miriabilis) som 
+fikk status Uten risiko (LC). 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+10 
+«Sea pen and burrowing megafauna» står på OSPARS liste over truede og/eller minkende habitater for 
+OSPAR regioner II og III (BDC2022/Sea-pen and Burrowing Megafauna Communities). Det finnes ingen 
+fastsatt definisjon med grenseverdi for tetthet av sjøfjærbunn/skog, men OSPAR beskriver habitatet 
+som fine mudderområder som er sterkt bioturbert av gravende megafauna, der ganger og hauger 
+typisk utgjør et tydelig innslag i sedimentoverflaten. Habitatet kan inkludere iøynefallende 
+forekomster av sjøfjær, vanligvis Virgularia mirabilis, Pennatula phosphorea og Funiculina 
+quadrangularis i mer beskyttede omåder. 
+ 
+«Sjøfjærbunn» er en foreslått forvaltningsrelevant naturenhet for fiskeri og havbruk (Rapport fra 
+havforskningen NR.2024-16). Der står sjøfjærbunn oppført som en biotisk fysisk naturenhet som er 
+substratdefinert, altså fungerer som et levende substrat, og som er viktig for mange arter. Det er ikke 
+fastsatt en grenseverdi for tetthet som utgjør sjøfjærbunn.  
+ 
+Tabell 3 viser en oversikt over naturtyper/naturenheter på dypt vann (>50m), status på Norsk rødliste 
+for naturtyper for de vurderte naturtypene, og deres tilsvarende navn på OSPARs liste over truede 
+og/eller minkende habitater. Tabellen viser også status (2022) for OSPAR habitatene i de ulike 
+regionene samt beskrivende tetthet, men det understrekes at tetthetsbeskrivelsene ikke er fastsatte 
+grenseverdier, med unntak av naturtypen korallrev. Det finnes fem OSPAR-regioner, norskekysten 
+ligger innenfor region II (øst, sør og vest) og region I (nord for Stad). Den planlagte lokaliteten Lille 
+Bjørnøya ligger i OSPAR-region I. De nevnte habitattypene finnes også på ICES (International Council 
+for the Exploration of the Sea) liste over sårbare marine økosystemer, og der brukes begrepene: «Coral 
+garden», «Cold-water coral reef», «Deep-sea sponge aggregations» og «Sea-pen fields». 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+11 
+Tabell 3: Naturtyper/foreslåtte forvaltningsrelevante naturenheter på dypt vann (>50 m), tilstand på norsk rødliste for de 
+vurderte naturtyper (2025) samt habitat-navn, status iht. OSPAR (2008-7) og tetthetsbeskrivelse (det understrekes at 
+tetthetsbeskrivelsene ikke er fastsatte grenseverdier, med unntak av naturtypen korallrev). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Naturtype/naturenhet
+Foreslått 
+forvaltningsrelevant 
+naturenhet (2024)
+Vurderte naturtyper i Norsk rødliste 
+for naturtyper (2025)
+Status
+OSPAR-habitat Status assessment (OSPAR, 
+2022)
+Tetthetsbeskrivelse
+Dyp hornkorallskog på mudderbunn i 
+atlantisk vann
+EN
+Dyp hornkorallskog på mudderbunn i 
+intermediært vann*
+EN
+Eksponert dyp hornkorallskog på 
+fastbunn i kystvann
+NT
+Noe beskyttet dyp hornkorallskog på 
+fastbunn i atlantisk vann
+NT
+Noe beskyttet dyp hornkorallskog på 
+fastbunn i intermediært vann*
+DD
+Kysttilknyttet korallrev-bunn
+NT
+Havtilknyttet korallrev-bunn*
+LC
+Dyp svampskog på mudderbunn i 
+atlantisk vann
+NT
+Dyp svampskog på sedimentbunn i 
+atlantisk vann
+NT
+Eksponert dyp svampskog på fastbunn 
+i kystvann
+LC
+Noe beskyttet dyp svampskog på 
+fastbunn i atlantisk vann
+LC
+Noe beskyttet dyp svampskog i 
+dyphavsvann*
+EN
+Noe beskyttet dyp svampskog på 
+fastbunn i intermediært vann*
+DD
+Dyp sjøfjærskog på mudderbunn i 
+atlantisk vann
+LC
+Dyp sjøfjærskog på mudderbunn i 
+intermediært vann*
+VU
+Dyp sjøfjærskog på mudderbunn i 
+kystvann
+LC
+* ikke relevante for denne type kartlegging, pga. dybde og/eller sted
+** Lophelia pertusa er et tidligere navn (ikke lenger akseptert) av Desmophyllum pertusum
+*** relevante OSPAR regioner for kartleggingen er: I (Norskehavet, Barentshavet og Grønlandshavet) og II (Nordsjøen, Skagerrak, Norskehavet mellom 61° N og 62° N)
+Bløtbunnkorallskog
+Ja
+Hardbunnkorallskog
+Ja
+Korallrev
+Coral gardens
+Lophelia 
+pertusa** 
+Reefs
+Truet og/eller minkede i 
+OSPAR region I, II, III, IV og 
+V***
+OSPAR: 0,01-7 kolonier per m2 
+(ingen etablert grenseverdi)
+Truet og/eller minkede i 
+OSPAR region I, II, III, IV og 
+V***
+Forskift om utvalgte naturtyper 
+etter naturmangfoldloven: 
+havbunnsområde med 
+revbyggende koralldyr i kolonier 
+bestående av både levende og 
+døde deler, som dekker minst 25 
+m2. Korallrevet kan bestå av flere 
+enkeltstående korallkolonier som 
+sammen dekker minst 75 % av 
+minsteområdet.
+Sjøfjærskog
+Ja
+Sea-pen and 
+burrowing 
+megafauna 
+communities
+Truet og/eller minkede i 
+OSPAR region II og III***
+Ingen etablert grenseverdi
+Svampskog
+Ja
+Deep-sea 
+sponge 
+aggregations
+Truet og/eller minkede i 
+OSPAR region I, III, IV og 
+V***
+OSPAR: "massive growth forms of 
+sponges" med tetthet 0,5-1 
+koloni/individ per m2 (ingen 
+etablert grenseverdi)
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+12 
+2. Materiale og metode 
+ 
+Undersøkelsen tar utgangspunkt i metodikk foreslått av Fiskeridirektoratet og Miljødirektoratet 
+(2022). Relevant litteratur er i tillegg hentet fra Havforskningsinstituttets forslag til metode for 
+kartlegging av sårbare arter og naturtyper på dypt og grunt vann til søknader om akvakultur i sjø (Kutti 
+og Husa, 2021;2022). Undersøkelsen ble utført 12.03.2025, 25-28.08.2025, 01.09.2025 og 27.10.2025. 
+Det ble kartlagt 19 transekter under og omkring det planlagte anlegget; transektene ble tegnet av 
+rådgiver fra Aqua Kompetanse AS basert på forslaget, samt faglig vurdering av batymetri og 
+strømforhold ved lokaliteten. ROV ble kjørt av egen ROV-fører, mens rådgiver med mastergrad innen 
+biologi tok fortløpende vurderinger av forholdene langs søkelinjene og eventuelle tilpasninger. Det ble 
+gjort kontinuerlig opptak av de undersøkte transektene, det ble også tatt bilder fortløpende i felt og 
+funn ble notert i toktjournal. Videomaterialet fra ROVens HD-kamera ble analysert av rådgiver med 
+mastergrad innen biologi; rådgiver har erfaring med videoanalyser fra undervannsvideoer. 
+ 
+Data ble generert fra kontinuerlig videoanalyse. Det ble satt datapunkter med en romlig oppløsning på 
+50 m langs hvert transekt (ett datapunkt = 50 meter videolinje). Det er stor usikkerhet knyttet til 
+hvordan man kan beregne areal som kartlegges av ROV. Aqua kompetanse har et kamera med vinkel 
+på 58,2 grader. Ved ROV kjøring ser kameraet både vertikalt og noe horisontalt. Aqua Kompetanse AS 
+estimerer bredde på kartlegging av en kjørelinje til omtrent 5 meter. Det er ikke mulig å artsbestemme 
+alle arter og individer innenfor dette området, men Aqua Kompetanse AS mener at forekomst av 
+sårbare naturtyper vil fanges opp og ved eventuelt funn vil ROV-fører nøyere undersøke funnets 
+utbredelse; dette kan innebære å avvike fra planlagte kjørelinjer. ROVen er utstyrt med et HD-kamera, 
+men også et kamera med lavere kvalitet, men som dekker et større areal enn HD-kameraet; rådgiver i 
+felt kan dermed forsikre seg om at relevante funn langs søkelinjen fanges opp i størst mulig grad.   
+ 
+For hvert datapunkt med funn ble det registrert dominerende substrattype basert på Europeisk 
+standard for visuell kartlegging av sjøbunn på dype lokaliteter (EN 16260:2012); som deler substrat inn 
+i kategoriene fast fjell og store blokk (FF), veldig grovt sediment (St), grovt sediment, sand og grus (G), 
+silt og leire (S), korallgrus (KG) og dødt korallskjelett (DK). Det ble også registrert substrat for hver 
+observasjon. Funn som inngår i kartleggingen ble identifisert til laveste mulige taksonomiske nivå. 
+Svamp som ikke lar seg artsbestemmes ved visuell observasjon ble gruppert etter slekt der dette var 
+mulig og ellers gruppert etter morfotyper som beskrevet av Kazanidis et al. (2019) og senere på norsk 
+i Kutti og Husa (2021) (Tabell 4). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+13 
+Tabell 4: Inndeling av svamp i grupper og morfotyper.  
+  
+Morfotype 
+Gruppe 
+Kazanidis et al. 2019 
+Kutti og Husa, 2021 
+1 
+Encrusting 
+Skorpedannende 
+ 
+2 
+Arborecent 
+Fingerformet 
+ 
+3 
+Massive 
+Massiv 
+ 
+Spherical 
+Rund 
+ 
+- 
+Tykk Skålformet 
+ 
+Papillate 
+Porøs bulkeformet 
+ 
+4 
+Flabellate 
+Tynn vifteformet 
+ 
+Caliculate 
+Traktformet 
+ 
+5 
+Stipitate 
+Stilkformet 
+ 
+Clavate 
+- 
+ 
+ 
+Det ble beregnet tetthet for hver observerte taksonomiske gruppe og svamp-morfotype som inngår i 
+kartleggingen, for hvert datapunkt, samt gjennomsnittlig for hele undersøkelsesområdet. For 
+beregning av tetthet ble det tatt utgangspunkt i 5 meters bredde på kjørelinjene og 50 meters lengde 
+for hvert datapunkt. Det ble beregnet Shannons diversitetsindeks (H’) og effektiv H’ 
+(eksponentialfunksjon av H’), Pielous jevnhet (J’) samt Simpsons diversitetsindeks (D) for hvert transekt 
+og gjennomsnittlig for undersøkelsesområdet. 
+ 
+2.1 Utstyr 
+Det ble benyttet ROV av typen Aegir 50 fra Ocean Robotics med 3 x 3500 lm led lys, HD kamera med 
+zoom, og Advanced Navigation undervannsposisjonering med nøyaktighet på 1,5 meter pr. 100m. 
+Posisjoneringen er tilkoblet GNSS antenne fra Advanced Navigation.  
+ 
+2.2 Undersøkelsesområde 
+Lille Bjørnøya ligger i Rødøy kommune, Nordland (Figur 1). Anlegget er planlagt lokalisert sør- sørvest 
+for Rangsundøya og øst for Bjørnøya. Batymetrien i området, inkludert under det planlagte anlegget, 
+preges av grunt vann nært land med en skrånende bunn som strekker seg ned mot fjordbassenget. 
+Området består av flere partier med bratt fjell. Dybden innenfor undersøkelsesområdet varierer fra 
+om lag 10 til 300 meter 
+Figur 2 viser området som ble kartlagt. Vannstrømmen ble målt av Aqua Kompetanse AS i perioden 
+14.01.–16.07.2025 på 5, 15, 20, 66 og 110 meters dyp (Frøysa, 2025). På 5, 15 og 20 meters dyp er 
+størst vanntransport rettet mot øst og øst-sørøstlig retning. På 66 meters dyp er det omtrent like stor 
+vanntransport i vestlig og østlig retnings, mens det på 110 meters dyp er størst vanntransport mot 
+vest-sørvest. Vannstrømmen i øvre del av vannsøylen er vinddrevet, mens det i nedre del er mer 
+tidevannsstyrt. Undersøkelsesområdet settes derfor til 1000 meter i 250° og 89° retning fra anleggets 
+planlagte ytterpunkter. Ellers settes undersøkelsesområdet til 250 meter ut fra anleggsrammen i alle 
+retninger.  
+Totalt areal av undersøkelsesområdet basert på Fiskeridirektoratet og Miljødirektoratet forslag blir 
+944976 m² (0,95 km²) (Figur 2). 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+14 
+ 
+Figur 1: Oversiktskart som viser anleggsplassering (Rød firkant) i forhold til andre anlegg. Målestokk vises i høyre hjørne. 
+Kilde: Fiskeridirektoratets karttjeneste. 
+ 
+ 
+Figur 2:  Oversiktskart som viser anleggsplassering og undersøkelsesområdet (grønt) med plassering av strømmåler (gult 
+kryss). Kartet er orientert mot nord (lilla pil). Sirklene har en diameter på 250 meter. Strømrose viser vanntransport 
+(m³/m²/dag) for hver 15° sektor på 66 meters dyp ved Lille Bjørnøya i perioden 14.01.–16.07.2025 (Frøysa, 2025). Kilde: Olex 
+AS. 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+15 
+2.3 Plassering av ROV-kjørelinjer  
+Figur 3 viser transektene kartlagt med ROV, og Figur 4 viser datapunktene. Totalt ble det plassert 19 
+transekter i undersøkelsesområdet. Disse ble lagt målrettet i områder med antatt typiske habitater for 
+sårbare naturtyper, både i nærheten av det planlagte anlegget og ellers i undersøkelsesområdet. 
+Transektene 1-6, 14, 16 og 18 er plassert under, og i området 250 meter fra anleggsrammen. Disse 
+transektene dekker området som antas å bli mest påvirket av anleggsdriften.  Transekt 1, 3, 5 og 6 går 
+på tvers av en slakk skråning med dybder fra omtrent 200 meter og opp mot 20- 50 meters dyp. 
+Transekt 2, 4 og 14 er plassert langs den samme skråningen på forskjellige dybder. T14 er plassert på 
+den nordligst ytterkant av undersøkelsesområdet, på dybder fra 20 til 60 meter, for å dekke grunne 
+områder med potensiell forekomst av tare, samt dypere områder hvor det kan finnes skjell og 
+forskjellige svampearter. Transekt 2 er plassert på en dybde på omtrent 100 meter og Transekt 4 på 
+en dybde på 170 meter. Disse transektene dekker områder langs skråningen hvor det kan være 
+forekomst av sårbare arter som svamper og koraller. T16 og T18 går på tvers av skråningen og dekker 
+området under det planlagte anlegget. 
+Øst for det planlagte anlegget er det plassert fem transekter. Transekter 11 og 12 er plassert på tvers 
+av skråning og starter nærmere land utenfor undersøkelsesområdet. Transekter 13 og 15 er plassert 
+over en brattere fjellvegg for å dekke området som kan være habitat for flere korall- og svampearter. 
+Transekt 17 går langs fjellveggen på et dyp på omtrentlig 150-230 meter. Vest for anlegget er det 
+plassert to transekter; Transekt 7 går langs skråningen på en dybde på omtrentlig 100 meter, og dekker 
+den vestlige delen av undersøkelsesområdet. Transekt 19 er hovedsakelig plassert utenfor 
+undersøkelsesområdet, over en grunn område hvor det kan finnes skjellbunn eller tare, og fortsetter 
+på tvers av en slak skråning fra område som ligger utenfor undersøkelsesområdet. 
+Sør for det planlagte anlegget er det plassert tre transekter, utenfor undersøkelsesområdet, men 
+innenfor 1000 meter fra anlegget. Transekt 8 er plassert på bunnen av skråningen for å fange opp 
+potensiell nedfall av svamp- og korallarter fra skåningen. Transekter 9 og 10 går over forhøyninger som 
+ligger på omtrent 300-200 meters dyp. Dypere områder kan være et mulig habitat for forskjellige arter 
+sjøfjær og bambuskorall, mens forhøyningen kan være et mulig habitat for øyekorall. 
+Ifølge Fiskeridirektoratet og Miljødirektoratet skal minst 4 % av undersøkelsesområdet kartlegges med 
+ROV ved en fullstendig kartlegging av sårbare naturtyper. Med den kjøreavstanden på 8 653 meter, 
+bredden på linjene og størrelsen på undersøkelsesarealet kartlegger dette undersøkelsen 4,6 % av 
+undersøkelsesområdet; dette gir noe margin med hensyn til at den reelle observerte bredden på 
+kjørelinjen sannsynligvis er noe mindre i områder med bratt terreng og ved dårlig sikt. I tillegg ble det 
+kartlagt 2 655 meter utenfor undersøkelsesområdet, basert på topografisk interesse.  
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+16 
+ 
+Figur 3: Kartet viser undersøkelsesområdet (grønt), anleggsramme (gul firkant) og transekter 1-19. Kilde: Olex AS 
+ 
+ 
+Figur 4: Oversiktskart over undersøkelsesområdet (grønn) med anleggsramme (svart) og transekter med datapunkter.  
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+17 
+3. Resultater 
+ 
+Figur 5 viser oversikt over dominerende substrattyper observert i undersøkelsesområdet. Utvalgte 
+stillbilder fra ROV-videomaterialet ligger i Vedlegg C.  
+ 
+ 
+Figur 5: Kart over dominerende substrattyper for hvert datapunkt ved Lille Bjørnøya.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+18 
+3.1 Tetthet 
+Figur 6 viser observert samlet tetthet av sjøfjær; Figur 7 viser observert samlet tetthet av svamper; 
+Figur 8 viser observert samlet tetthet av svamper i gruppe 3; Figur 9 viser observert samlet tetthet av 
+koraller; Figur 10 viser observert tetthet av sjøtre (Paragorgia arborea) samt forekomst av øyekorall 
+(Desmophyllum pertusum). Tetthet av de oftest forekommende arter/slekter/morfotyper kan leses av 
+i Tabell 4; fullstendig oversikt over tetthet for funn for hvert datapunkt og transekt kan leses av i 
+Vedlegg D.  
+ 
+ 
+Figur 6: Kart over samlet tetthet av sjøfjær i undersøkelsesområdet. 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+19 
+ 
+Figur 7: Kart over observert samlet tetthet av svamp i undersøkelsesområdet.  
+ 
+ 
+Figur 8: Kart over observert samlet tetthet av store svamper (gruppe 3; massiv, porøs bulkeformet, rund og tykk skålformet) 
+i undersøkelsesområdet.  
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+20 
+ 
+Figur 9: Kart over observert samlet tetthet av koraller i undersøkelsesområdet.  
+ 
+ 
+ 
+Figur 10: Kart over observert samlet tetthet av sjøtre (Paragorgia arborea) i undersøkelsesområdet.  
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+21 
+Tabell 5: Gjennomsnittlig tetthet, standardfeil, maks tetthet, antall datapunkter for de forekommende arter/morfotypene fra 
+ulike grupper, totalt antall individer observert og prosent av observerte punkter ved Lille Bjørnøya.  
+ 
+ 
+3.2 Diversitet og artsrikdom 
+ 
+Antall individer, artsrikhet og diversitetsindekser for arter og grupper inkludert i kartleggingen er 
+presentert i Tabell 6, både for hvert enkelt transekt og samlet for hele undersøkelsesområdet. 
+Artsrikheten varierte fra 4 til 22 arter, slekter eller morfotyper, og totalt ble 25 ulike arter/ morfortyper 
+som inngår i kartleggingen observert. De fleste transektene hadde en artsrikhet på over 10 arter.  
+ 
+Samlet artsliste med rødlistestatus kan leses av i Vedlegg B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vitenskapelig navn/morfotype
+Norsk navn
+Gjennomsnitt Standardavvik Maks
+Anthothela grandiflora
+Lateothela grandiflora
+Drifa glomerata
+Duva florida
+Isidella cf. lofotensis
+Bambuskorall
+0,008
+0,008
+2
+1
+0.4%
+Paragorgia arborea
+Sjøtre
+0,062
+0,021
+0,336
+279
+18
+8%
+Primnoa resedaeformis
+Risengrynskorall
+0,108
+0,046
+0,440
+297
+11
+4.9%
+Swiftia spp.
+Hornkorall
+0,082
+0,030
+0,428
+327
+16
+7.1%
+Stylaster spp.
+Hydrokorall
+0,032
+0,020
+0,052
+16
+2
+0.9%
+Paramuricea spp.
+Sjøbusk
+0,023
+0,005
+0,096
+126
+22
+9.7%
+Malacalyonacea
+-
+0,088
+-
+0,088
+22
+1
+0.4%
+Madrepora oculata
+Siksakkorall
+0,028
+0,008
+0,036
+14
+2
+0.9%
+Desmophyllum pertusum
+Øyekorall
+0,216
+0,216
+54
+1
+0.4%
+Funiculina quadrangularis
+Stor piperenser
+0,041
+0,006
+0,276
+934
+91
+40.3%
+Balticina spp.
+-
+0,015
+0,003
+0,028
+23
+6
+2.7%
+Pennatula phosphorea
+Vanlig sjøfjær
+0,009
+0,001
+0,020
+66
+31
+13.7%
+Kophobelemnon stelliferum
+Hanefot
+0,119
+0,013
+0,500
+2321
+78
+34.5%
+Virgularia cf. mirabilis
+Liten piperenser
+0,032
+0,006
+0,288
+442
+55
+24.3%
+Gruppe 1 
+Skorpedannende
+0,033
+0,006
+0,468
+835
+102
+45.1%
+Gruppe 2 
+Fingerformet
+0,013
+0,001
+0,064
+256
+78
+34.5%
+Gruppe 3
+0,028
+0,012
+1,212
+723
+104
+46%
+Massiv
+0,027
+0,013
+1,068
+571
+86
+38.1%
+Prøs bulkformet
+0,012
+0,004
+0,108
+90
+30
+13.3%
+Rund
+0,005
+0,001
+0,008
+9
+8
+3.5%
+Tykk skålformet
+0,016
+0,010
+0,140
+53
+13
+5.8%
+Gruppe 4
+0,065
+0,010
+0,920
+2038
+126
+55.8%
+Traktformet
+0,016
+0,002
+0,076
+219
+56
+24.8%
+Tynn vifteformet
+0,062
+0,010
+0,860
+1819
+118
+52.2%
+Gruppe 5
+Stilkformet
+0,008
+0,002
+0,016
+10
+5
+2.2%
+Sjøfjær
+Svamp
+Korall
+Blomkålkorall
+Dvergsjøtre
+19
+8
+3.5%
+73
+11
+4.9%
+Tetthet (indvid eller kolonier m²) 
+Datapunkter med 
+observasjon
+Totalt antall 
+individer
+% datapunkter 
+med 
+observasjoner
+0,010
+0,002
+0,016
+0,027
+0,009
+0,096
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+22 
+Tabell 6: Sammenstilling av alle transektenes artsrikhet av arter som inngår i kartleggingen, antall individer, Shannons 
+diversitetsindeks (H') og Shannon (effektiv), Pielous jevnhet (J’) og Simpsons diversitetsindeks (D). Gjennomsnittlig diversitet 
+og artsrikdom for undersøkelsesområdet ± standardfeil. 
+* Transekter der enkelte indekser ikke kunne beregnes («–») er satt til 0 i gjennomsnittsberegningene. Dersom disse verdiene 
+hadde blitt utelatt, ville gjennomsnittet blitt kunstig høyt og ikke representert den faktiske fordelingen i området. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transekt 
+Lengde 
+Antall 
+Individer 
+Indvidier 
+per m² 
+Artsrikhet Shannon 
+Shannon 
+(Effktiv) 
+Simpson 
+Pielou 
+jevnhet  
+1 
+449 
+125 
+0,056 
+8 
+1,905 
+6,722 
+0,837 
+0,916 
+2 
+888 
+186 
+0,042 
+8 
+1,429 
+4,174 
+0,683 
+0,687 
+3 
+681 
+549 
+0,161 
+15 
+1,911 
+6,758 
+0,791 
+0,706 
+4 
+887 
+714 
+0,161 
+13 
+1,575 
+4,831 
+0,693 
+0,614 
+5 
+631 
+251 
+0,08 
+8 
+1,657 
+5,243 
+0,770 
+0,797 
+6 
+667 
+913 
+0,274 
+16 
+1,668 
+5,301 
+0,695 
+0,602 
+7 
+589 
+187 
+0,063 
+8 
+1,488 
+4,429 
+0,696 
+0,716 
+8 
+633 
+686 
+0,217 
+12 
+0,973 
+2,645 
+0,427 
+0,391 
+9 
+707 
+1637 
+0,463 
+22 
+2,156 
+8,636 
+0,809 
+0,697 
+10 
+312 
+549 
+0,352 
+10 
+1,042 
+2,836 
+0,495 
+0,453 
+11 
+527 
+245 
+0,093 
+13 
+1,846 
+6,336 
+0,759 
+0,720 
+12 
+428 
+290 
+0,136 
+12 
+1,803 
+6,068 
+0,770 
+0,726 
+13 
+234 
+145 
+0,124 
+10 
+1,662 
+5,268 
+0,754 
+0,722 
+14 
+887 
+53 
+0,012 
+5 
+1,122 
+3,072 
+0,574 
+0,697 
+15 
+369 
+1437 
+0,779 
+19 
+2,206 
+9,075 
+0,863 
+0,749 
+16 
+392 
+267 
+0,136 
+10 
+1,642 
+5,166 
+0,751 
+0,713 
+17 
+595 
+438 
+0,147 
+16 
+1,990 
+7,314 
+0,798 
+0,718 
+18 
+472 
+38 
+0,016 
+4 
+1,148 
+3,151 
+0,619 
+0,828 
+19 
+707 
+167 
+0,047 
+9 
+1,522 
+4,582 
+0,716 
+0,693 
+Alle transekter 
+11055 
+8877 
+0,161 
+25 
+2,324 
+10,22 
+0,858 
+0,722 
+Gjennomsnitt* 
+± Standardfeil 
+- 
+- 
+- 
+11,474 ± 
+4,623 
+1,618 ± 
+0,358 
+5,348 ± 
+1,836 
+0,711 ± 
+0,113 
+0,692 ± 
+0,118 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+23 
+3.3 Størrelsesfordeling 
+ 
+3.3.1 Øyekorall 
+Størrelsesfordelingen av øyekorall (Desmophyllum pertusum) viser at de fleste observerte koloniene 
+hovedsakelig konsentrert i intervallet omtrent 10-50 cm. Samtidig forekommer det enkelte større 
+kolonier, med diameter over 100 cm (Figur 12). Alle øyekorallene var observert ved transekt 9. 
+Figur 12: Størrelsesfordeling av øyekorall (Desmophyllum pertusum) ved Lille Bjørnøya, basert på lengste målte 
+diameter (cm). 
+  
+3.3.2 Sikksakkorall 
+Størrelsefordelingen av sikksakkorall (Madrepora oculata) viser at de fleste observerte koloniene 
+hadde diameter hovedsakelig innenfor intervallet ca. 10-25 cm. Det ble også registrert noen få kolonier 
+med diameter rundt 40-55 cm (Figur 13). Alle sikksakkorallene var observert ved transekt 9.  
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+24 
+Figur 13: Størrelsesfordeling av sikksakkorall (Madrepora oculata) ved Lille Bjørnøya, basert på lengste målte 
+diameter (cm). 
+ 
+ 
+3.3.3 Sjøtre 
+Størrelsesfordeling av sjøtre (Paragorgia arborea) kan leses av i Figur 14. Fordelingen er dominert av 
+små til middels kolonier, med hovedtyngden av observasjonene konsentrert i intervallet ca. 5–60 cm.. 
+Antallet kolonier avtar med økende diameter, men det forekommer enkelte observasjoner med 
+betydelig større diameter, inkludert kolonier over 100 cm og enkeltindivider opp mot rundt 200 cm. 
+Som følge av funksjonsfeil i ROV-ens laser på enkelte transekter ble kolonistørrelsen estimert og 
+klassifisert i tre kategorier: liten, medium og stor (se Figur A-1, Vedlegg A for eksempler på 
+størrelsesestimering). Estimert størrelsesfordeling av sjøtre (Paragorgia arborea) kan leses av i Figur 
+15 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+25 
+Figur 14: Størrelsesfordeling av sjøtre (Paragorgia arborea) ved Lille Bjørnøya, basert på lengste målte diameter 
+(cm). 
+ 
+Figur 15: Størrelsesfordeling (estimert) av sjøtre (Paragorgia arborea) ved Lille Bjørnøya, i kategoriene «liten», 
+«medium», «stor». Dataetikettene (over grafen) representerer antall estimerte sjøtrær på transektet.  
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+26 
+Oppsummering 
+ 
+4.1 Usikkerhet 
+Artsidentifikasjon med videoanalyse medfører usikkerhet. Faktorer som lysforhold, størrelse, 
+bildekvalitet og mengden organisk materiale i vannmassene kan vanskeliggjøre identifikasjon av arter 
+og grupper med lignende karakteristikker. ROV- kartlegging avdekker kun forhold i avgrensede 
+områder og det er mulig at ikke all forekomst av eventuelle rødlistede arter fanges opp. 
+ 
+Enkelte koraller lot seg ikke bestemme til artsnivå, enten fordi sikker identifikasjon krever genetiske 
+analyser, eller som følge av redusert sikt og krevende kjøreforhold med ROV, blant annet på grunn av 
+sterk strøm. Artsbestemmelse innenfor slekten Swiftia er også utfordrende uten genetiske analyser, 
+og farge alene anses ikke som et pålitelig kjennetegn. Tidligere undersøkelser har vist at kolonier med 
+hvit morfologi molekylært kan tilhøre rød hornkorall (Havforskningsinstituttet). På bakgrunn av denne 
+usikkerheten er funn derfor rapportert til slektsnivå (Swiftia spp.). Tilsvarende gjelder de to registrerte 
+forekomstene av bambuskorall, der artsidentifikasjonen var usikker. Koloniene viste trekk forenlige 
+med bambuskorall, men skader på stilken og oppvirvling av silt begrenset sikten, og det var ikke mulig 
+å verifisere kjennetegnene som kreves for sikker artsbestemmelse. 
+ 
+3.2 Beskrivelse av resultater og diskusjon 
+Undersøkelsesområdet er preget av grunne partier nært land, med en skrånende bunn som heller ned 
+mot fjordbassenget. Denne topografien påvirker også fordelingen av substrat i området. De grunneste 
+områdene består hovedsakelig av svært grovkornet sediment, med innslag av fast fjell. Rundt 100 
+meters dyp går sedimentet over i sand og grus. I de dypeste partiene, både innenfor og utenfor 
+undersøkelsesområdet, dominerer bløtbunn i form av silt og leire. Det forekommer imidlertid enkelte 
+innslag av fast fjell og større steiner også i de dypere områdene, og det var i tilknytning til disse partiene 
+at det ble gjort observasjoner av korallgrus og dødt korallskjeletter. Det ble observert et variert 
+bunnlevende miljø bestående av blant annet krepsdyr, fisk, havmus, anemoner og pigghuder. Ved 
+enkelte datapunkter ble det observert kjempefillskjell, ofte sammen med korall. I tillegg ble sukkertare 
+registrert ved to datapunkter, men kun med en estimert dekningsgrad på 1 %. 
+ 
+Sjøfjær ble hovedsakelig registrert ved de dypeste transektene, på bløtbunn sør og sørøst for anlegget. 
+Det ble identifisert fire sjøfjærarter: stor piperenser (Funicullina quadrangularis), liten piperenser 
+(Virgularia cf. mirabilis), vanlig sjøfjær (Pennatula phosphorea) og hanefot (Kophobelemnon 
+stelliferum). I tillegg ble det gjort observasjoner av slekten Balticina spp. Av de registrerte artene var 
+hanefot dominerende, med totalt 2 321 observerte kolonier, mens stor piperenser ble registrert ved 
+flest datapunkter. Høyest samlet tetthet av sjøfjær ble registrert ved transekt 9 (datapunkt A), med en 
+tetthet på 0,804 individer per m². Denne stasjonen ligger om lag 980 meter sør for det planlagte 
+anlegget, utenfor det definerte undersøkelsesområdet. Det finnes for lite litteratur, og en mangel i 
+habitatdefinisjon, for å klassifisere naturtypen «sjøfjærbunn» basert på dagens kunnskap (1.1.3 
+Sjøfjærbunn). Naturtypen «Dyp sjøfjærskog på mudderbunn i atlantisk vann» er vurdert som uten 
+risiko (LC) i Norsk rødliste for naturtyper (2025). 
+ 
+ 
+Det var utbredt forekomst av svamp i undersøkelsesområdet, både på fast fjell og grovere sediment 
+som sand og grus. Svampene varierte i både størrelse og morfotype, hvor tynn vifteformet svamp var 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+27 
+den mest tallrike morfotypen. Høyest samlet tetthet av svamp var 1,868 individer/kolonier per m², 
+registrert langs transekt 15 (datapunkt A). Transekt 15 ligger nærmere én kilometer øst for det 
+planlagte anlegget. Dette er også den høyeste registrerte samlede tettheten for svamper innen gruppe 
+3 samlet sett (1,212 individer/kolonier per m2) og massive svamper (1,068 individer/kolonier per m2). 
+OSPAR beskriver at «massive growth forms of sponges» har blitt rapportert med tettheter på 0,5–1 
+individ per m². Begrepet er imidlertid ikke tydelig definert, og kan tolkes enten som massive svamper 
+eller som hele gruppen av store svamper (gruppe 3).  Den observerte tettheten ved transekt 15 ligger 
+innenfor tetthetsnivåer beskrevet av OSPAR, uten at dette innebærer en definisjon eller avgrensning 
+av svampskog (1.1.2 Svampskog/svampsamfunn). Naturtypen «Noe beskyttet dyp svampskog på 
+fastbunn i atlantisk vann» har status Uten risiko (LC) (Artsdatabanken, 2025). 
+ 
+Koraller ble hovedsakelig registrert langs fjellveggen i den bratte skråningen øst i 
+undersøkelsesområdet, samt sørøst langs transekt 9 og sør for anlegget, der substratet hovedsakelig 
+består av hardbunn. Det ble registrert flere korallarter, inkludert blomkålkorall (Drifa glomerata / Duva 
+florida), sjøtre (Paragorgia arborea), risengrynskorall (Primnoa resedaeformis), dvergsjøtre 
+(Anthothela grandiflora / Lateothela grandiflora), øyekorall (Desmophyllum pertusum), sikksakkorall 
+(Madrepora oculata), sjøbusk (Paramuricea spp.), bambuskorall (Isidella cf. lofotensis), samt hornkorall 
+(trolig rød eller hvit hornkorall av slekten Swiftia). Hvit hornkorall (kun Swiftia pallida) er vurdert som 
+sårbar (VU) på Norsk rødliste for arter (2021). Sjøtre, bambuskorall, dvergssjøtre (kun Anthotela 
+grandiflora; Lateothela grandiflora er ikke vurdert), hydrokorall, øyekorall er klassifisert som nær truet 
+(NT), og sikksakk er klassifisert som datamangel (DD). De øvrige observerte artene har status livskraftig 
+(LC).  
+ 
+Høyest samlet tetthet av koraller ble registrert langs transekt 9 (datapunkt E), med 0,992 
+individer/kolonier per m². Denne stasjonen ligger om lag 800 meter nord for det planlagte anlegget, 
+på rundt 310 meters dyp. Hornkorall var den mest tallrike korallgruppen samlet sett, mens 
+risengrynskorall hadde den høyeste enkeltvise tettheten. Sjøbusk var den arten som ble registrert ved 
+flest datapunkter. Ved to datapunkt ble det registrert tetthet av mindre korallarter som tilsvarer eller 
+er større enn 0,5 kolonier per m², noe som ligger innenfor intervallet OSPAR beskriver for forekomst 
+av mindre korallarter i en korallskog. Samtidig påpeker OSPAR at korallskoger med flere korallarter, 
+avhengig av biogeografisk område og dybde, enkelte steder kan nå betydelig høyere tettheter, opp 
+mot 1–7 kolonier per m². OSPAR fastsetter imidlertid ingen konkrete grenseverdier for tetthet for 
+verken «Coral gardens» eller «Lophelia pertusa reefs», og understreker at visuell kartlegging er et viktig 
+bidrag til å øke kunnskapsgrunnlaget fremover. 
+ 
+Sjøtre ble observert i varierende størrelser og fargenyanser i undersøkelsesområdet. Høyest tetthet 
+ble registrert ved transekt 15 (datapunkt A), med 0,336 individer/kolonier per m². Datapunktet ligger 
+nesten 1 km øst for det planlagte anlegget, på ca. 160 meters dyp. Sammenlignet med tettheter slik 
+de er oppsummert av OSPAR, inneholder fjorten av datapunktene observerte tetthetene innenfor det 
+som kan forventet for større arter i en korallskog (0,01-0,02 koloni per m²). Samlet sett viser 
+størrelsesfordeling og størrelsessammensetning per transekt at bestanden av sjøtre i 
+undersøkelsesområdet er preget av variasjon. Den overordnede diameterfordelingen viser en tydelig 
+dominans av små til middels store kolonier, med forekomst av enkelte store individer.  
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+28 
+Flere kolonier av øyekorall og sikksakkorall ble registrert langs transekt 9, cirka 800 meter sørøst for 
+det planlagte anlegget. Levende øyekorall ble kun observert ved datapunkt 9E, mens døde 
+øyekorallstrukturer ble registrert ved 9D. Sikksakkorall forekom ved både 9D og 9E. Steinkorallene var 
+varierende i størrelse med flere øyekoraller med diameter lengre en 100 cm. Døde øyekorallstrukturer 
+fungerte som substrat for flere arter, blant annet ulike svampemorfotyper og kjempefilskjell.  
+ 
+Korallrev er i forskrift om utvalgte naturtyper (naturmangfoldsloven, nr. 512) definert som et 
+havbunnsområde med revbyggende koralldyr i kolonier, bestående av både levende og døde deler, 
+som samlet dekker minst 25 m2, der flere enkeltstående kolonier til sammen skal dekke minst 75 % av 
+dette minstearealet. Metodikken som ble benyttet i undersøkelsen gir imidlertid ikke tilstrekkelig 
+grunnlag for å beregne dekningsgrad, og det er derfor ikke mulig å avgjøre om forekomsten oppfyller 
+kriteriene for klassifisering som korallrev (1.1.1 Hardbunnskorallskog, bløtbunnskorallskog og 
+korallrev). Forekomsten besto av flere mindre grupperinger fremfor sammenhengende større 
+strukturer, og dermed trolig ikke når kravet om minst 75 % dekning innen et areal på 25 m². 
+Datapunkter som utelukkende besto av korallgrus eller fragmentert korallskjelett er ikke inkludert i 
+vurderingen. Aqua Kompetanse har estimert den effektive kartleggingsbredden per kjørelinje til om 
+lag 5 meter. Kartleggingen omfatter dermed kun områder som faller innenfor kameraets synsfelt, og 
+det kan ikke utelukkes at ytterligere forekomster av koraller finnes utenfor synsfeltet.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+29 
+4. Referanser 
+ 
+Artsdatabanken (2025, 26. november). Norsk rødliste for naturtyper 2025..  
+ 
+Espeland, S. H., Juliussen, E. H., & van der Meeren, G. I. (2024). Forvaltningsrelevante naturenheter i sjø—Forslag 
+til forvaltningsrelevante naturenheter for fiskeri og havbruk. 
+ 
+Forskrift om utvalgte naturtyper etter naturmangfoldloven, publisert i 2011, oppdatert i 2025. 
+https://lovdata.no/forskrift/2011-05-13-512  
+ 
+Frøysa, H. (2025) Vannstrømmålinger ved Lille Bjørnøya, Rødøy kommune, januar – juli 2025. Rapportnummer 
+3943-7-25S, levert av Aqua Kompetanse AS.  
+ 
+Hughes, D.J. (1998). Sea pens & burrowing megafauna (volume III). An overview of dynamics and sensitivity 
+characteristics for conservation management of marine SACs. Natura 2000 report prepared for Scottish 
+Association of Marine Science (SAMS) for the UK Marine SACs Project., Scottish Association for Marine Science. 
+(UK Marine SACs Project). Available from: http://www.ukmarinesac.org.uk/publications.htm  
+ 
+Kutti T, Husa V. (2021). Forslag til metode for kartlegging av sårbare arter og naturtyper på dypt vann til søknader 
+om akvakultur i sjø. Kunnskapsleveranse til Fiskeridirektoratet. Rapport fra Havforskningen 2021-39. 
+ 
+Natur i Norge 3.0 (2023) fra Artsdatabanken. Natur i Norge (NiN) | Artsdatabanken 
+OSPAR (2008-06) List of threatened and/or declining species and habitats (replaces agreement 2004-06). Revised 
+in 2021.  
+ 
+OSPAR (2008-07) Descriptions of habitats on the OSPAR lists of threatened and/or declining species and habitats 
+(replaces agreement 2004-07). Updated in 2021.  
+ 
+OSPAR (2009) Background Document for Lophelia pertusa reefs. 
+ 
+OSPAR (2010a) Background Document for Sea-pen and Burrowing megafauna communities. Updated 2011. 
+OSPAR Agreement 2008-07.  
+ 
+OSPAR (2010b) Background document for Coral gardens. OSPAR Agreement 2008-07.  
+ 
+OSPAR (2010c) Background document for Deep-sea sponge aggregations. OSPAR Agreement 2008-07.  
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+30 
+Vedlegg A – Kartlegging, Lille Bjørnøya 
+ 
+Kartleggingsfarkost: ROV av typen Aegir 50 fra Ocean Robotics, Eid av Aqua Kompetanse AS.  
+Kartleggingsfartøy: Gyda, Eid av Aqua Kompetanse AS.  
+Toktleder med mastergrad innen biologi: Camela Haddad, Emma Matland, Tom Einar Andreassen og 
+Nils Gunnar Lindbo 
+Båtfører og ROV-pilot: Morten Pettersen (ROV), Reid Jægtvik (Båt og ROV), Mads Fallet (Båt og ROV).  
+Observasjonslinjene hadde varierende lengde: fra 312 m til 888 m. 
+ 
+Tabell A-1: Dato, start-tid, start-dybde og hovedfunn for kjørelinjer kartlagt med ROV ved Lille Bjørnøya. 
+ 
+                        Liten                                                           Medium                                                      Stor 
+ 
+Figur A-1: Bilder som viser eksempler på størrelsesestimering av sjøtre (Paragorgia arborea) og fordeling i de tre forskjellige 
+kategoriene. 
+ 
+ 
+Transekt 
+Dato 
+Starttid 
+Startdybde 
+(m) 
+Hovedfunn 
+1 
+25.08.2025 
+15:49 
+183 
+Stor piperenser og diverse svamper 
+2 
+28.08.2025 
+14:29 
+116 
+Dø tare, svabergsjøpiggsvin, diverse svamp 
+3 
+12.03.2025 
+15:40 
+240 
+Stor piperenser, hanefot, risengrynskorall, sjøbusk, hornkorall, 
+sjøtre, og diverse svamp 
+4 
+01.09.2025 
+15:43 
+187 
+stor og liten piperenser, vanlig sjøfjær og hanefot, diverse svamp 
+5 
+01.09.2025 
+17:22 
+232 
+Diverse sjøfjær og svamp 
+6 
+12.03.2025 
+14:29 
+255 
+Stor piperenser, hanefot, liten piperenser, sjøbusk, diverse 
+svamper, blomkålkoraller, hornkoraller 
+6 
+27.10.2025 
+14:31 
+142 
+7 
+27.08.2025 
+13:57 
+110 
+Diverse svamp 
+8 
+28.08.2025 
+08:49 
+290 
+Vanlig sjøfjær, hanefot, stor piperenser, liten piperenser, 
+bloomkålkorall, hvit hornkorall, sjøbusk, risengrynkorall 
+9 
+28.08.2025 
+10:03 
+319 
+Vanlig sjøfjær, hanefot, stor piperenser, liten piperenser, 
+bloomkålkorall, hvit hornkorall, sjøbusk, risengrynkorall, 
+øyekorall, bambuskorall, sjøtre 
+10 
+28.08.2025 
+11:44 
+312 
+Diverse svamp, hanefot, liten piperenser, vanlig sjøfjær, 
+risengrynskorall, hornkorall, blomkålkorall 
+11 
+28.08.2025 
+15:35 
+262 
+Liten piperenser, stor piperenser, vanlig sjøfjær, hanefot, diverse 
+svamp 
+12 
+12.03.2025 
+13:09 
+289 
+Stor piperenser, hanefot, diverse svamp 
+13 
+27.08.2025 
+16:36 
+300 
+Liten piperenser, stor piperenser, vanlig sjøfjær, hanefot, diverse 
+svamp, risengrynkorall 
+14 
+25.08.2025 
+16:16 
+73 
+Fingerformet, tynn vifteformet og svabergsjøpiggsvin 
+15 
+12.03.2025 
+09:53 
+384 
+Risengrynskorall, sjøtre, sjøbusk, dvergsjøtre, hanefot, stor 
+piperenser, massiv svamp 
+16 
+28.08.2025 
+12:33 
+168 
+sjøtre, risengrynskorall, dvergsjøtre, diverse svamp 
+17 
+12.03.2025 
+11:41 
+264 
+Hanefot, stor piperenser, sjøbusk, liten piperenser, 
+blomkålkorall, hornkorall, dvergsjøtre 
+18 
+01.09.2025 
+18:21 
+158 
+Diverse svamp 
+19 
+12.03.2025 
+17:01 
+159 
+Diverse svamper og liten piperenser 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+31 
+Vedlegg B – Artsliste 
+ 
+Tabell B-1: Liste over observerte arter, slekter og svampmorfotyper i det kartlagte området ved Lille Bjørnøya, samt 
+rødlistestatus for arter (Artsdatabanken, 2021). 
+ 
+ 
+Tabell B-2: Arter med ulik taksonomisk klassifisering i Artsdatabanken sammenlignet med WoRMS-databasen. (WoRMS, 
+des. 2025). 
+ 
+ 
+-
+Balticina spp. 
+-
+Stor piperenser
+Funiculina quadrangularis
+LC
+Vanlig sjøfjær
+Pennatula phosphorea 
+LC
+Hanefot
+Kophobelemnon stelliferum
+LC
+Liten piperenser
+Virgularia cf. Mirabilis
+LC
+Hvit hornkorall
+Swiftia pallida
+VU
+Rød hornkorall
+Swiftia rosea
+LC
+Sjøbusk
+Paramuricea spp.
+LC
+Risengrynskorall
+Primnoa resedaeformis
+LC
+Bambuskorall
+Isidella cf. lofotensis
+NT
+Sjøtre
+Paragorgia arborea
+NT
+Drifa glomerata
+Duva florida
+Anthothela grandiflora
+NT
+Lateothela grandiflora
+-
+Hydrozoer (Hydrozoa)
+Hydrokorall
+Stylaster spp.
+NT
+Øyekorall
+Desmophyllum pertusum
+NT
+Sikksakkorall
+Madrepora oculata
+DD
+Skorpedannende (gruppe 1)
+-
+Fingerformet (gruppe 2)
+Antho spp. (bl.a)
+-
+Massiv (gruppe 3)
+Geodia spp. (bl.a)
+-
+Rund (gruppe 3)
+Tykk skålformet (gruppe 3)
+-
+Porøs bulkeformet (gruppe 3)
+Traktformet (gruppe 4)
+-
+Tynn vifteformet (gruppe 4)
+Phakellia spp. (bl.a)
+-
+Stilkformet (gruppe 5)
+-
+Okeralger 
+(Ochrophyta)
+Brunalger (Phaeophyceae)
+Sukkertare
+Saccharina latissima
+LC
+LC
+Svamp (Porifera)
+Horn- og Kiselsvamper 
+(Demospongiae)
+Nesledyr (Cnidaria)
+Sjøfjær (Pennatulacea)
+Hornkoraller (Gorgonacea)
+Dvergsjøtre
+Bløttkoraller (Alcyonacea)
+Steinkoraller (Hexacorallia)
+Blomkållkorall
+Rekke
+Klasse eller orden
+Norsk navn
+Vitenskapelig navn
+ Rødlistestatus, 2021
+Desmophyllum pertusum
+Øyekorall
+Madrepora oculata
+Sikksakkorall
+Hydrozoa
+Hydroidolina
+Stylaster spp.
+Hydrokorall
+Drifa glomerata
+Duva florida
+Anthothela grandiflora
+Lateothela grandiflora
+Paramuricea spp.
+Sjøbusk
+Swiftia pallida
+Hvit hornkorall
+Swiftia rosea
+Rød hornkorall
+Scleralcyonacea
+Isidella cf. lofotensis
+Bambuskorall
+Paragorgia arborea
+Sjøtre
+Primnoa resedaeformis
+Risengrynskorall
+Funiculina quadrangularis
+Stor piperenser
+Pennatula phosphorea 
+Vanlig sjøfjær
+Virgularia cf. mirabilis
+Liten piperenser
+Balticina spp. 
+-
+Blomkållkorall
+Dvergsjøtre
+Scleralcyonacea
+Nesledyr (Cnidaria)
+Hexacorallia
+Scleractinia 
+Octocorallia
+Malacalcyonacea
+Rekke
+Klasse
+Orden
+Art
+Norsk navn
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+32 
+ 
+Figur B-1: Rødlistekategorier. Kilde: Artsdatabanken 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+33 
+ 
+Vedlegg C – Bilder 
+ 
+ 
+Figur C-1: Utvalgte bilder fra T01. Venstre: Stor piperenser. Høyre: Stein med flere morfotyper svamp. Foto: Aqua Kompetanse 
+AS.  
+ 
+ 
+Figur C-2: Utvalgte bilder fra T02. Venstre: Massiv svamp. Høyre: Fingerformet svamp og liten piperenser. Foto: Aqua 
+Kompetanse AS.  
+ 
+Figur C-3: Utvalgte bilder fra T03. Venstre: Sjøtre, fingerformet, tynn vifteformet og skorpedannende svamp. Høyre: Stor 
+piperenser. Foto: Aqua Kompetanse AS.  
+ 
+ 
+Figur C-4: Utvalgt bilde fra T04. Venstre: Svamp og hornkorall. Høyre: Korallgrus. Foto: Aqua Kompetanse AS. 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+34 
+ 
+Figur C-5: Utvalgte bilder fra T05. Venstre: Stor piperenser. Høyre: Diverse svamp på stein. Foto: Aqua Kompetanse AS. 
+ 
+ 
+Figur C-6: Utvalgt bilde fra T06. Venstre: Sjøtre og Balticina spp. Høyre: Tynn vifteformet svamp. Foto: Aqua Kompetanse AS.  
+ 
+ 
+Figur C-7: Utvalgte bilder fra T07. Venstre: Fingerformet svamp. Høyre: Diverse svamp. Foto: Aqua Kompetanse AS. 
+ 
+ 
+Figur C-8: Utvalgt bilde fra T08. Venstre: Blomkålkorall, sjøbusk og hornkorall. Venstre: Avbrukket korall, trolig dvergsjøtre. 
+Foto: Aqua Kompetanse AS. 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+35 
+ 
+ 
+Figur C-9: Utvalgte bilder fra T9. Venstre øverst: Hornkorall og småsvamp. Venstre nede: Sikksakkkorall. Høyre øverst: 
+øyekorall og risengrynkorall. Høyre nede: sjøtre og sjøbusk. Foto: Aqua Kompetanse AS. 
+ 
+ 
+Figur C-10: Utvalgt bilde fra T10. Venstre: Stein med div svamp, blomkålkorall, sjøbusk og hornkorall. Høyre: Hanefot og liten 
+piperenser. Foto: Aqua Kompetanse AS.  
+ 
+ 
+Figur C-11: Utvalgte bilder fra T11. Venstre: Stor piperenser. Høyre: Stor piperenser og hanefot. Foto: Aqua Kompetanse AS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+36 
+ 
+ 
+ 
+Figur C-12: Utvalgt bilde fra T12. Venstre: Diverse svamp. Høyre: Hanefot. Foto: Aqua Kompetanse AS. 
+ 
+ 
+Figur C-13: Utvalgte bilder fra T13. Venstre: Sjøtre og svamp. Høyre: Hanefot.  Foto: Aqua Kompetanse AS. 
+ 
+ 
+Figur C-14: Utvalgt bilde fra T14. Venstre: Tynn vifteformet svamp. Høyre: Søppel, krabbe og avrevet sukkertare. Foto: Aqua 
+Kompetanse AS. 
+ 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+37 
+ 
+Figur C-15: Utvalgte bilder fra T15. Venstre øverst: Fjellvegg med sjøtre og sjøbusk. Venstre nede: Fjellvegg med 
+risengrynkorall, sjøtre og svamp.  Høyre øverst: Sjøtre. Høyre nede: Hydrokoraller og sjøanemoner. Foto: Aqua Kompetanse 
+AS. 
+ 
+ 
+Figur C-16: Utvalgt bilde fra T16. Venstre: Sjøtre (funksjonsfeil på laser). Høyre: Sjøtre og tynn vifteformet  svamp. Foto: Aqua 
+Kompetanse AS. 
+ 
+ 
+Figur C-17: Utvalgte bilder fra T17. Venstre øverst: svamp og stor piperenser. Venstre nede: Hornkoraller. Høyre øverst: 
+Sjøtre, sjøbusk og risengrynkorall. Høyre nede: delvis dødt sjøbusk. Foto: Aqua Kompetanse AS. 
+ 
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+38 
+ 
+Figur C-18: Utvalgt bilde fra T18. Venstre: Diverse svamp på stein. Høyre: Tynn vifteformet svamp. Foto: Aqua Kompetanse 
+AS. 
+ 
+ 
+Figur C-19: Utvalgte bilder fra T19. Venstre: Porøs bulkeformet svamp på stein. Høyre: Tynn vifteformet svamp på stein.  
+Foto: Aqua Kompetanse AS.
+4109-3-25K, Lille Bjørnøya 
+ 
+ 
+ 
+Vedlegg D – Observert tetthet  
+ 
+Tabell D-1: Transekt T1(A)-T4(R); datapunkter, koordinat for datapunktene og tetthet for hver observerte art/slekt/svamp-morfotype (Individ/koloni per m2). Datapunkter uten funn er ikke inkludert. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PunktID
+East
+North
+Hanefot
+Liten 
+piperenser
+Stor 
+piperenser
+Vanlig 
+sjøfjær
+Blomkålkorall
+Fingerformet Hornkorall
+Sjøbusk Skorpedannende Traktformet
+Massiv
+Tynn 
+vifteformet Stilkformet
+Balticina 
+spp.
+Porøs 
+bulkeformet
+Tykk 
+skålformet
+Rund
+Sjøtre
+Risengrynskorall Dvergsjøtre Malacalcyonacea
+Hydrokorall
+Siksak korall
+Bambuskorall
+Øyekorall
+1A
+410526,9
+7382972
+0,008
+0,008
+0,008
+1B
+410542,9
+7382925
+0,032
+0,016
+0,044
+1C
+410559
+7382878
+0,004
+0,024
+0,012
+0,02
+0,004
+1D
+410575
+7382830
+0,004
+0,004
+1E
+410590,5
+7382783
+0,016
+0,004
+0,004
+1F
+410606,8
+7382735
+0,004
+1G
+410622,5
+7382688
+0,008
+0,004
+0,008
+1H
+410639,2
+7382640
+0,008
+0,004
+0,012
+0,012
+0,036
+0,012
+1I
+410654,4
+7382592
+0,084
+0,096
+2A
+410584,5
+7382818
+0,06
+0,032
+0,06
+2B
+410632,4
+7382834
+0,024
+0,004
+0,028
+0,08
+0,004
+0,004
+2C
+410667,4
+7382868
+0,004
+0,02
+0,004
+0,028
+0,104
+2D
+410706,5
+7382895
+0,004
+0,008
+0,004
+0,024
+2E
+410755,6
+7382907
+0,004
+0,008
+2F
+410804,6
+7382919
+0,016
+0,004
+2G
+410853,1
+7382932
+0,004
+0,012
+2H
+410901,4
+7382945
+0,004
+0,004
+2I
+410946,7
+7382967
+0,004
+0,004
+0,004
+2J
+410992,1
+7382989
+0,008
+0,004
+2K
+411037,2
+7383011
+0,004
+0,016
+0,008
+2M
+411127,4
+7383052
+0,008
+2N
+411177,1
+7383053
+0,004
+0,016
+0,076
+2O
+411227
+7383054
+0,012
+0,004
+2P
+411272,5
+7383076
+0,004
+2Q
+411320,7
+7383090
+0,012
+2R
+411370,4
+7383096
+0,004
+3A
+410636,9
+7383137
+3B
+410650,5
+7383089
+0,032
+3C
+410663,8
+7383041
+0,004
+0,008
+0,076
+3D
+410677,6
+7382992
+0,012
+0,1
+0,004
+0,14
+3E
+410691
+7382943
+0,004
+0,028
+0,016
+0,008
+0,124
+3F
+410705,2
+7382895
+0,008
+0,04
+0,028
+0,004
+0,148
+0,004
+3G
+410718,9
+7382846
+0,004
+0,052
+0,096
+0,004
+3H
+410731,7
+7382797
+0,008
+0,008
+0,004
+0,044
+3I
+410745,8
+7382749
+0,004
+0,004
+3J
+410759,3
+7382701
+0,004
+0,012
+3K
+410773
+7382652
+0,012
+0,124
+0,004
+3L
+410786,7
+7382604
+0,08
+0,004
+0,028
+3M
+410799,8
+7382555
+0,016
+0,148
+0,036
+0,02
+0,004
+0,036
+0,004
+0,004
+3N
+410814,2
+7382507
+0,012
+0,016
+0,064
+0,052
+0,008
+0,02
+0,156
+0,028
+0,084
+0,048
+0,004
+0,056
+0,08
+0,016
+4A
+410735,7
+7382574
+0,032
+0,276
+4B
+410779,1
+7382600
+0,02
+0,004
+0,18
+0,028
+0,004
+0,008
+0,012
+4C
+410825,5
+7382618
+0,032
+0,096
+4D
+410873,3
+7382626
+0,012
+0,136
+4E
+410923,2
+7382622
+0,016
+0,2
+0,012
+0,004
+0,012
+0,004
+4F
+410972,7
+7382615
+0,048
+0,012
+0,168
+0,012
+4G
+411022,9
+7382616
+0,032
+0,02
+0,056
+0,012
+0,16
+0,004
+4H
+411073,2
+7382621
+0,016
+0,012
+0,028
+0,024
+0,012
+0,056
+4I
+411122,2
+7382614
+0,004
+0,008
+0,012
+0,012
+0,088
+4J
+411162,3
+7382633
+0,004
+0,02
+0,02
+0,02
+0,016
+0,232
+0,032
+4K
+411200
+7382666
+0,056
+0,048
+0,004
+0,036
+0,012
+4L
+411231,3
+7382706
+0,004
+0,008
+0,032
+0,004
+0,004
+0,032
+4M
+411259,6
+7382748
+0,016
+0,028
+0,008
+0,008
+0,02
+4N
+411285,5
+7382791
+0,02
+0,132
+0,004
+0,004
+0,004
+4O
+411321,9
+7382826
+0,092
+0,004
+4P
+411359,7
+7382859
+0,012
+4Q
+411404,8
+7382881
+0,008
+0,004
+0,02
+4R
+411453
+7382893
+0,004
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+40 
+Tabell D-2: Transekt T5(A)-T9(N); datapunkter, koordinat for datapunktene og tetthet for hver observerte art/slekt/svamp-morfotype (Individ/koloni per m2). Datapunkter uten funn er ikke inkludert. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PunktID
+East
+North
+Hanefot
+Liten 
+piperenser
+Stor 
+piperenser
+Vanlig 
+sjøfjær
+Blomkålkorall
+Fingerformet Hornkorall
+Sjøbusk Skorpedannende Traktformet
+Massiv
+Tynn 
+vifteformet Stilkformet
+Balticina 
+spp.
+Porøs 
+bulkeformet
+Tykk 
+skålformet
+Rund
+Sjøtre
+Risengrynskorall Dvergsjøtre Malacalcyonacea
+Hydrokorall
+Siksak korall
+Bambuskorall
+Øyekorall
+5A
+411210,6
+7383276
+0,008
+5B
+411227,1
+7383229
+0,032
+5C
+411243,1
+7383182
+0,004
+5D
+411259,4
+7383134
+0,004
+0,016
+0,008
+0,016
+5E
+411275,8
+7383087
+0,004
+0,02
+0,012
+0,036
+5F
+411291,3
+7383039
+0,012
+0,028
+0,004
+0,004
+0,096
+5G
+411307,6
+7382991
+0,008
+0,024
+0,012
+0,004
+0,02
+5H
+411323,7
+7382943
+0,008
+0,004
+5I
+411340,1
+7382896
+0,004
+0,028
+0,02
+0,06
+0,004
+5J
+411356,8
+7382849
+0,056
+5K
+411373
+7382801
+0,004
+0,084
+5L
+411388,7
+7382753
+0,02
+0,092
+0,02
+0,028
+0,032
+5M
+411405,3
+7382706
+0,076
+0,092
+6A
+410917,6
+7383209
+0,008
+0,008
+6B
+410934,9
+7383162
+0,016
+6C
+410953
+7383115
+0,004
+0,004
+6D
+410969,9
+7383068
+0,012
+6E
+410987,5
+7383020
+0,016
+0,004
+0,004
+0,036
+6F
+411005
+7382974
+0,012
+0,012
+0,004
+0,004
+0,044
+6G
+411022,7
+7382926
+0,028
+0,004
+0,004
+0,068
+0,004
+6H
+411039,8
+7382879
+0,032
+0,032
+0,004
+0,048
+6J
+411074,2
+7382785
+0,004
+0,02
+0,012
+0,236
+6K
+411091,5
+7382738
+0,016
+0,056
+0,004
+0,44
+6L
+411108,9
+7382691
+0,064
+0,052
+0,068
+0,008
+0,064
+0,004
+0,468
+0,06
+0,024
+0,86
+0,024
+6M
+411126,1
+7382644
+0,092
+0,02
+0,044
+0,004
+0,004
+0,012
+0,016
+0,008
+0,004
+0,008
+0,008
+6N
+411143,5
+7382597
+0,128
+0,008
+0,14
+0,004
+0,096
+0,04
+0,008
+0,016
+0,012
+0,076
+0,008
+7A
+410021,5
+7382536
+0,004
+0,008
+0,024
+7B
+410051,6
+7382576
+0,004
+0,016
+0,004
+0,016
+7D
+410133,4
+7382632
+0,024
+7E
+410176,9
+7382656
+0,016
+0,008
+0,016
+0,044
+0,076
+0,004
+0,004
+7F
+410218,9
+7382684
+0,016
+0,008
+7G
+410259,9
+7382713
+0,004
+0,04
+0,004
+0,1
+0,004
+7H
+410307,4
+7382731
+0,064
+0,008
+0,04
+0,052
+0,004
+0,004
+7I
+410354,9
+7382748
+0,004
+0,004
+0,016
+7J
+410404,2
+7382757
+0,012
+7K
+410454
+7382765
+0,008
+0,02
+0,056
+0,008
+7L
+410500,4
+7382785
+0,004
+8A
+410889,2
+7382307
+0,068
+0,012
+0,016
+8B
+410939,4
+7382309
+0,108
+0,004
+0,004
+8C
+410989,5
+7382310
+0,152
+0,016
+0,012
+8D
+411039,3
+7382313
+0,212
+0,016
+8E
+411086,3
+7382331
+0,06
+0,024
+0,012
+0,02
+0,004
+0,02
+0,032
+0,012
+0,008
+0,004
+8F
+411136,9
+7382340
+0,06
+0,012
+0,008
+8G
+411181,6
+7382360
+0,176
+0,04
+0,004
+8H
+411221,7
+7382390
+0,196
+0,044
+0,036
+0,004
+8I
+411269,9
+7382405
+0,316
+0,024
+0,02
+0,012
+8J
+411317,5
+7382418
+0,14
+0,092
+0,024
+8K
+411366,2
+7382431
+0,172
+0,016
+0,06
+0,008
+8L
+411410,6
+7382450
+0,368
+0,02
+0,036
+0,008
+0,016
+8M
+411451,2
+7382479
+0,016
+9A
+411591,7
+7382332
+0,5
+0,288
+0,004
+0,012
+9B
+411641,6
+7382328
+0,236
+0,08
+0,004
+0,012
+9C
+411691,5
+7382321
+0,392
+0,052
+0,016
+9D
+411741,7
+7382316
+0,112
+0,016
+0,004
+0,012
+0,044
+0,036
+0,004
+0,028
+0,004
+0,012
+0,036
+9E
+411791,8
+7382311
+0,188
+0,052
+0,112
+0,008
+0,052
+0,108
+0,144
+0,364
+0,02
+0,008
+0,216
+9F
+411842
+7382306
+0,012
+0,024
+0,008
+0,428
+0,032
+0,108
+0,024
+0,036
+0,148
+0,056
+0,004
+0,012
+0,064
+0,012
+9G
+411892,3
+7382300
+0,036
+0,004
+0,068
+0,168
+0,024
+0,032
+0,032
+0,028
+0,004
+0,02
+0,048
+0,008
+9H
+411942,2
+7382294
+0,04
+0,008
+0,068
+0,02
+0,028
+9I
+411992
+7382290
+0,104
+0,004
+0,008
+0,256
+0,036
+0,044
+0,18
+9J
+412042,1
+7382285
+0,136
+0,004
+9K
+412091,9
+7382279
+0,228
+0,02
+0,004
+9L
+412142
+7382275
+0,252
+0,032
+0,008
+9M
+412191,6
+7382269
+0,224
+0,012
+9N
+412241,9
+7382263
+0,204
+0,012
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+41 
+Tabell D-3: Transekt 10(A)-T16(H); datapunkter, koordinat for datapunktene og tetthet for hver observerte art/slekt/svamp-morfotype (Individ/koloni per m2). Datapunkter uten funn er ikke inkludert. 
+ 
+ 
+ 
+ 
+ 
+ 
+PunktID
+East
+North
+Hanefot
+Liten 
+piperenser
+Stor 
+piperenser
+Vanlig 
+sjøfjær
+Blomkålkorall
+Fingerformet Hornkorall
+Sjøbusk Skorpedannende Traktformet
+Massiv
+Tynn 
+vifteformet Stilkformet
+Balticina 
+spp.
+Porøs 
+bulkeformet
+Tykk 
+skålformet
+Rund
+Sjøtre
+Risengrynskorall Dvergsjøtre Malacalcyonacea Hydrokorall
+Siksak korall
+Bambuskorall
+Øyekorall
+10A
+411526,1
+7382135
+0,336
+0,092
+0,056
+0,02
+10B
+411539,1
+7382086
+0,212
+0,12
+0,008
+0,004
+10C
+411552,3
+7382037
+0,248
+0,124
+0,032
+0,012
+10D
+411565,3
+7381988
+0,332
+0,012
+0,004
+10E
+411578,6
+7381940
+0,216
+0,012
+0,008
+0,02
+10F
+411591,7
+7381891
+0,16
+0,028
+0,044
+0,012
+0,044
+0,016
+0,008
+0,004
+0,008
+0,004
+11A
+411532,9
+7383167
+0,004
+0,004
+0,004
+11B
+411535,5
+7383117
+0,008
+11C
+411539
+7383067
+0,004
+0,008
+11D
+411540,8
+7383017
+0,004
+0,008
+11E
+411543,7
+7382967
+0,008
+0,004
+0,008
+0,032
+0,008
+11F
+411546,9
+7382917
+0,008
+0,016
+0,008
+0,012
+0,004
+0,04
+0,008
+0,004
+0,008
+0,008
+11G
+411549,4
+7382866
+0,012
+0,02
+0,02
+0,012
+0,016
+0,004
+0,02
+11H
+411552,2
+7382816
+0,02
+0,032
+0,008
+0,004
+0,028
+11I
+411555
+7382766
+0,036
+0,04
+0,012
+0,016
+11J
+411557,5
+7382716
+0,308
+0,016
+0,04
+0,008
+0,008
+11K
+411560,3
+7382665
+0,052
+0,004
+0,024
+12A
+411771,1
+7383049
+0,004
+0,036
+0,084
+0,104
+0,012
+0,004
+12B
+411760,9
+7383000
+0,004
+12C
+411750,7
+7382951
+0,016
+0,028
+12D
+411740,5
+7382901
+0,004
+0,02
+0,004
+0,012
+0,004
+12E
+411730,6
+7382852
+0,028
+0,028
+0,076
+0,004
+0,004
+12F
+411719,9
+7382803
+0,052
+0,012
+0,02
+0,004
+0,016
+0,024
+0,004
+0,012
+12G
+411709,6
+7382753
+0,06
+0,028
+12H
+411699,7
+7382704
+0,156
+0,024
+0,048
+0,008
+12I
+411688,8
+7382655
+0,172
+0,016
+0,028
+13A
+412036,7
+7383022
+0,068
+0,22
+0,024
+0,008
+0,012
+13B
+412041
+7382972
+0,016
+0,004
+0,004
+13C
+412045,9
+7382922
+0,008
+0,004
+0,024
+0,004
+13D
+412050,4
+7382872
+0,104
+0,032
+0,004
+0,008
+13E
+412054,9
+7382822
+0,028
+0,008
+14A
+410515,7
+7382984
+0,004
+0,004
+0,004
+0,052
+14B
+410545,8
+7383025
+0,004
+0,008
+0,016
+14C
+410576,1
+7383065
+0,008
+14D
+410615,1
+7383097
+0,008
+0,004
+0,004
+14E
+410653,3
+7383129
+0,004
+14F
+410693,3
+7383158
+0,004
+14G
+410742,3
+7383171
+0,008
+14H
+410790,5
+7383185
+0,008
+14I
+410838,9
+7383198
+0,008
+14J
+410888,5
+7383204
+0,008
+14K
+410938,2
+7383211
+0,004
+0,004
+14L
+410987,2
+7383222
+0,008
+0,008
+0,028
+14M
+411035,1
+7383235
+0,004
+14N
+411082,6
+7383252
+14O
+411130
+7383268
+14P
+411176,8
+7383286
+14Q
+411225,5
+7383286
+14R
+411274,5
+7383275
+15A
+412183,5
+7383008
+0,004
+0,004
+0,196
+1,068
+0,456
+0,14
+0,004
+0,336
+0,44
+15B
+412193,8
+7382959
+0,008
+0,188
+0,08
+0,148
+0,144
+0,016
+15C
+412204,1
+7382910
+0,008
+0,024
+0,12
+0,024
+0,008
+0,004
+0,004
+0,184
+0,14
+0,016
+15D
+412213,8
+7382861
+0,116
+0,02
+0,008
+0,02
+0,004
+0,032
+0,004
+15E
+412224,6
+7382812
+0,112
+0,072
+0,008
+0,004
+0,024
+0,012
+0,016
+0,1
+15F
+412235,1
+7382763
+0,22
+0,02
+0,012
+0,028
+0,004
+0,012
+0,008
+0,008
+0,088
+0,004
+0,088
+15G
+412245,4
+7382714
+0,192
+0,012
+0,012
+15H
+412254,9
+7382669
+0,332
+0,044
+0,004
+0,004
+0,016
+0,02
+0,02
+0,06
+0,012
+0,12
+0,02
+0,008
+0,008
+0,004
+0,052
+16A
+410762,1
+7382911
+0,004
+0,028
+0,008
+0,008
+16B
+410800,8
+7382880
+0,004
+0,008
+0,004
+0,02
+0,004
+16C
+410839,2
+7382847
+0,016
+0,02
+0,004
+16D
+410877,6
+7382816
+0,012
+0,032
+0,012
+0,012
+0,052
+0,004
+16E
+410916,4
+7382783
+0,008
+0,02
+0,012
+0,092
+16F
+410955
+7382751
+0,024
+0,02
+0,076
+0,02
+0,156
+16G
+410993,6
+7382719
+0,028
+0,044
+0,024
+0,032
+16H
+411032,1
+7382687
+0,004
+0,008
+0,008
+0,024
+0,012
+0,092
+0,004
+0,108
+4109-3-25K, LILLE BJØRNØYA 
+            AQUA KOMPETANSE AS 
+42 
+Tabell D-4: Transekt T17(A)-T19(N); datapunkter, koordinat for datapunktene og tetthet for hver observerte art/slekt/svamp-morfotype (Individ/koloni per m2). Datapunkter uten funn er ikke inkludert. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PunktID
+East
+North
+Hanefot
+Liten 
+piperenser
+Stor 
+piperenser
+Vanlig 
+sjøfjær
+Blomkålkorall
+Fingerformet Hornkorall
+Sjøbusk Skorpedannende Traktformet
+Massiv
+Tynn 
+vifteformet Stilkformet
+Balticina 
+spp.
+Porøs 
+bulkeformet
+Tykk 
+skålformet
+Rund
+Sjøtre
+Risengrynskorall Dvergsjøtre Malacalcyonacea Hydrokorall
+Siksak korall
+Bambuskorall
+Øyekorall
+17A
+411703,1
+7382932
+0,016
+0,008
+0,008
+17B
+411747,9
+7382910
+0,008
+0,008
+0,156
+0,008
+0,008
+17C
+411792,8
+7382888
+0,112
+0,012
+0,056
+0,012
+0,004
+0,004
+0,008
+17D
+411838,2
+7382865
+0,048
+0,016
+0,008
+0,008
+0,012
+0,008
+0,012
+0,016
+0,004
+0,008
+0,004
+17E
+411885,9
+7382855
+0,024
+0,008
+17F
+411935,7
+7382859
+0,032
+0,008
+0,004
+0,004
+17G
+411985,4
+7382863
+0,048
+0,004
+0,004
+17H
+412035,7
+7382866
+0,064
+0,012
+0,004
+17I
+412086,6
+7382860
+0,144
+0,016
+0,004
+0,004
+0,008
+17J
+412136,3
+7382852
+0,088
+0,004
+0,008
+0,012
+0,024
+0,008
+0,008
+17K
+412185,6
+7382844
+0,06
+0,004
+0,016
+0,004
+17L
+412233,7
+7382833
+0,016
+0,004
+0,008
+0,044
+0,068
+0,096
+0,016
+0,004
+0,252
+0,012
+0,004
+0,02
+0,008
+18C
+411184,3
+7383120
+0,012
+0,02
+18G
+411185,3
+7382918
+0,008
+0,016
+0,044
+18I
+411185,5
+7382818
+0,008
+18J
+411186,2
+7382774
+0,016
+0,008
+0,02
+19B
+409785,6
+7382908
+0,004
+0,004
+0,004
+0,008
+0,024
+0,004
+19E
+409891,3
+7382801
+0,004
+19F
+409926,8
+7382765
+0,016
+0,02
+19G
+409962,1
+7382730
+0,008
+0,06
+0,008
+0,004
+0,02
+0,016
+19H
+409997,4
+7382693
+0,048
+0,008
+0,004
+19I
+410032,6
+7382658
+0,012
+0,056
+0,004
+0,036
+0,004
+19J
+410067,9
+7382622
+0,028
+0,052
+0,048
+0,004
+0,092
+19K
+410103,3
+7382587
+0,024
+0,004
+19L
+410138,2
+7382551
+0,004
+0,004
+0,012
+0,004
+19M
+410173,3
+7382515
+0,008
+0,004
+19N
+410209,1
+7382480
+0,004

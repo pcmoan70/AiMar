@@ -2,6 +2,13 @@
 
 ## 2026-09-15
 
+- Document texts are bundled: 3 613 extracted texts under `data/text/`, capped
+  at 200 000 characters (15 documents are longer). A document icon on entries
+  that have text opens the text itself instead of eInnsyn, each attachment has
+  its own text link, and the Cases panel gains a "With text" filter. Entries
+  without a published file say so and link to eInnsyn for an access request.
+  Texts are runtime-cached, not precached, and carry a BOM so browsers read
+  them as UTF-8; `/data/` is exempt from the app's navigation fallback.
 - Week readout gives shares only, all on the same base: of the sites operating
   that week, the percentage above the lice limit, the percentage treated and
   the percentage with sea temperature over the threshold. The temperature curve

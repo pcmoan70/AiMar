@@ -1,0 +1,825 @@
+﻿Visuell undersøkelse 
+ 
+ 
+Vestfjord Marine AS 
+Ny - Brønnøyskjæran 
+110206505-3017-02-001 
+ 
+Feltdato: 25.04.2023 
+Rapportdato: 12.09.2023 
+ 
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 1 av 28 
+ 
+Visuell kartlegging - Brønnøyskjæran 
+Rapportnummer / Rapportdato 110206505-3017-02-001 / 12.09.2023 
+Revisjonsnummer 
+Revisjonsbeskrivelse 
+Signatur 
+- 
+- 
+- 
+Lokalitet 
+Lokalitet 
+Brønnøyskjæran 
+Omsøkt opptil 1 999 tonn MTB 
+Lokalitetsnummer 
+Ny lokalitet 
+Oppdragsgiver 
+Selskap 
+Vestfjord Marine AS 
+Kontaktperson 
+Ørjan Pedersen 
+Oppdragsansvarlig 
+Selskap 
+Åkerblå AS  
+Nordfrøyveien 413                   Organisasjonsnummer 916 763 816 
+7260 Sistranda 
+Prosjektansvarlig 
+Oda Ravnås Waldeland 
+Forfatter (e) 
+Oda Ravnås Waldeland, June Jakobsen 
+Godkjent av 
+Christine Østensvig  
+Distribusjon 
+Denne rapporten kan kun gjengis i sin helhet.  Gjengivelse av deler av 
+rapporten kan kun skje etter skriftlig tillatelse fra Åkerblå AS.  I slike tilfeller 
+skal kilde oppgis. 
+Sammendrag 
+Undersøkelsen er utført i forbindelse med søknad om etablering av et nytt anlegg for torsk ved Helligvær. 
+Kunde fikk pålegg om å utføre visuell kartlegging i etterkant av innsendt søknad. Det ble dermed etablert 11 
+søkelinjer mellom holmer og skjær ved ønsket lokalitet. Bunnen var maksimalt 27 m dyp som tillater bruk av 
+BluEye drone iht. metodeforslaget fra Havforskningsinstituttet på grunt vann (Husa og Kutti, 2022).  
+ 
+Undersøkelsen avdekket områder med ruglbunn og sukkertareforekomster ved alle søkelinjer. Området var 
+preget av hardt substrat i skråningene fra land ned mot en renne hvor det i hovedsak var grovt sediment i form 
+av skjellsand, sand og korallin sand. Hovedvekten av søkelinjene ble lagt innenfor 250 meter radius av det 
+planlagte anlegget og resultatene viser at det trolig er et sammenhengende belte i nordøstlig og sørvestlig del 
+av undersøkelensen med sukkertare der hvor hardt substrat er tilgjengelig. Undersøkelsen viser også et 
+sammenhengende område med ruglbunn langs hele aksen fra nordøst til sørvest i området ut mot 500 meter 
+fra anleggsrammen.  
+ 
+ 
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 2 av 28 
+ 
+Figur 1. Visuell undersøkelse med ROV rundt lokalitet Brønnøyskjæran. Planlagt anleggsramme er markert med 
+lyseblått rektangel. Fargede felter indikerer estimat av utbredelse av de ulike naturtypene eller substratene som 
+ble registrert i undersøkelsen. Kartet har nordlig orientering og kartdatum WGS84.  
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 3 av 28 
+Forord 
+Denne rapporten omhandler en ROV-undersøkelse med video rundt Brønnøyskjæran etter 
+krav fra Statsforvalteren i Nordland. Formålet med undersøkelsen var undersøke/kartlegge 
+rugl, samt andre sårbare arter og naturtyper innenfor en radius på 500 m fra 
+anleggsplassering.  
+ 
+Åkerblå AS ble etablert i 1991 på Frøya (da under navnet Havbrukstjenesten AS) og har etter 
+det utvidet med flere avdelingskontor. Vi betjener kunder (i hovedsak fiskeoppdrettsselskap) 
+langs store deler av Norskekysten. I tillegg tilbyr vi tjenester til brønnbåt- og 
+servicebåtnæringen, legemiddelindustrien, forsknings- og undervisningsinstitusjoner samt 
+offentlig sektor.  
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 4 av 28 
+ 
+Innhold 
+FORORD ........................................................................................................................................................... 3 
+INNHOLD .......................................................................................................................................................... 4 
+1 INNLEDNING .................................................................................................................................................. 5 
+2 MATERIALE OG METODE ............................................................................................................................... 7 
+2.1 KARTLEGGINGSOMRÅDE OG DESIGN ....................................................................................................................... 7 
+2.2 METODE OG ANALYSE ....................................................................................................................................... 11 
+3 RESULTATER ................................................................................................................................................ 14 
+3.1 VIDEOOPPTAK OG ANALYSE ................................................................................................................................ 14 
+3.2 SUBSTRAT ....................................................................................................................................................... 15 
+3.3 RUGLBUNN ..................................................................................................................................................... 17 
+3.4 SUKKERTARE ................................................................................................................................................... 19 
+3.5 OPPSUMMERING AV FUNN ................................................................................................................................. 21 
+4 DISKUSJON .................................................................................................................................................. 23 
+5 LITTERATURLISTE ......................................................................................................................................... 25 
+6 VEDLEGG ..................................................................................................................................................... 27 
+VEDLEGG 1 – FELTSKJEMA ....................................................................................................................................... 27 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 5 av 28 
+1 Innledning 
+ 
+Vurdering av sårbare arter og naturtyper vil i denne undersøkelsen basere seg på 
+Artsdatabankens liste over rødlistede arter og naturtyper, samt OSPAR og MAREANOs liste 
+over sårbare habitater/biotoper (OSPAR 2022 & MAREANO 2022).   
+ 
+Norsk rødliste for arter er utarbeidet av Artsdatabanken og flere fageksperter, med hovedmål 
+om å bidra til en kunnskapsbasert forvaltning av artsmangfoldet i Norge. Rødlista viser arters 
+risiko for utryddelse. Denne fungerer også som et grunnlag for Naturmangfoldloven fra 2009, 
+i tillegg til at den bidrar til å spre artskunnskap til samfunnet. Forvaltningsprioritet og vern av 
+arter vurderes imidlertid ut ifra flere faktorer enn kun status som rødlistet (Artsdatabanken 
+2021). I tillegg til en rødliste for arter, har Artsdatabanken også utarbeidet en egen rødliste 
+for naturtyper som viser risikoen for at ulike naturtyper i Norge går tapt (Artsdatabanken 
+2018). 
+ 
+Både arter og naturtyper vurderes opp mot fastsatte kriterier, og tildeles en kategori (figur 1). 
+Den viktigste negative påvirkningsfaktoren for artene på rødlista er arealendringer. I gjeldende 
+rødliste er det i tillegg flere arter som er listet opp som truet grunnet klimaendringer. Også for 
+naturtyper er klimaforandringer en viktig årsak til status på rødlista, i tillegg til blant annet 
+landbruk og forurensning (Artsdatabanken 2018, 2021). 
+ 
+ 
+Figur 1 Kategoriene gått tapt CO, kritisk truet CR, sterkt truet EN, sårbar VU, nær truet NT og datamangel DD 
+utgjør rødlistekategoriene. Intakt LC er naturtyper der reduksjon i areal eller grad av forringelse er under 
+terskelverdiene for rødlisting. 
+ 
+I rødlista for naturtyper er de ulike naturtypene delt inn forskjellige tema, der Marint 
+gruntvann og Marint dypvann er aktuelle for det marine miljøet. Marine gruntvannsområder 
+inkluderer habitater som tilhører den eufotiske sonen, mens marine dyphavsområder er 
+definert som områder der det er for lite lys til at alger kan leve. Av de totalt 27 naturtypene 
+som er vurdert innenfor disse to temaene, er 12 vurdert som rødlistet (Artsdatabanken 2018). 
+ 
+OSPAR-konvensjonen (Oslo-Paris konvensjonen) omhandler beskyttelse av det marine miljø i 
+det nordøstlige Atlanterhavet, og regulerer internasjonalt samarbeid om beskyttelse av dette 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 6 av 28 
+området. I den forbindelse er det nedlagt et arbeid for å definere hvilke økosystemer som har 
+stor miljøverdi i disse områdene, da med særlig fokus på marine bunnsamfunn (OSPAR, 2022). 
+MAREANO har deretter tatt utgangspunkt i dette arbeidet for tilpasning av sårbare biotoper 
+til norske havområder. Resultatet av arbeidet førte til oppføring av åtte sårbare biotoper i 
+norske havområder (MAREANO, 2022).  
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 7 av 28 
+2 Materiale og metode 
+ 
+2.1 Kartleggingsområde og design 
+Den omsøkte oppdrettslokaliteten Brønnøyskjæran ligger i øygruppen Helligvær i Bodø 
+kommune, Nordland. Helligvær befinner seg nordvest for Bodø (figur 2.1.1), hvor da 
+lokaliteten skal ligge sentralt i dette området. Midtpunktet av anlegget er planlagt å flyttes 
+150 m nordøst fra eksisterende plassering. Under det tiltenkte anleggsområdet varierer 
+dybden mellom 18 og 21 meter. Det er også kort distanse mellom det planlagte 
+anleggsområdet og land, særlig nord og sør for anlegget (figur 2.1.2).  Mange holmer og skjær 
+preger også dette området. 
+ 
+ 
+Figur 2.1.1 Geografisk plassering av Brønnøyskjæran (markert med rød stjerne). Nærliggende matfiskanlegg er 
+markert med røde sirkler, mens øvrig akvakultur er vist med lilla, gul eller blå sirkel. Kartet har nordlig orientering 
+med datum WGS84 (Fiskeridirektoratet, 2022).  
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 8 av 28 
+ 
+ 
+Figur 2.1.2 3D visning av bunnforhold og anleggsramme. Forskjellen mellom dybdekoter er skalert X2 for bedre 
+visualisering og mørkere blå farge visere større dyp. Kartet har nordlig orientering med datum WGS84. 
+ 
+Strømmålinger på 7,6 m og 18,2 m ved lokaliteten ble utført i perioden 25.11.2021-
+19.01.2022. Vannforflytningen i perioden viste til en vekslende strømretning mot sørvest og 
+nordøst (figur 2.1.4). Gjennomsnittlig strømhastighet var betegnet som sterk til middels sterk 
+på begge dyp. 
+ 
+ 
+Figur 2.1.3 Strømroser for 7,6 m (venstre) og 18,2 (høyre) i måleperioden. Strømrosene viser strømhastighet og 
+retning under måleperioden med indikasjon på hovedstrømsretning (Åkerblå, 2022). 
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 9 av 28 
+Det ble tatt utgangspunkt i målrettet kartleggingsdesign i kombinasjon med tilpasset 
+kartleggingsdesign ved nye lokaliteter (Husa & Kutti, 2022). For gjennomføring av målrettet 
+kartleggingsdesign ble det tatt utgangspunkt i faktorer som er kjent som gunstige for sårbare 
+arter og naturtyper av interesse i undersøkelsen. Bunntopografi, bunnhardhet og dybde lå til 
+grunn for disse vurderingene (figur 2.1.2, 2.1.4, 2.1.5 og 2.1.6), sammen med målt og antatt 
+strømforhold (figur 2.1.3), for å identifisere interessante områder for ROV-kartlegging. 
+Hovedvekten av søkelinjer ble lagt innenfor en radius av 250 meter fra den planlagte 
+anleggsrammen.  Kartleggingsforslaget ble sendt inn for innspill og tilbakemelding fra 
+statsforvalteren i Nordland før felt ble utført (figur 2.1.4-2.1.5; Åkerblå AS, 2021).  
+ 
+ 
+Figur 2.1.4: Anleggsplassering og området som skal undersøkes. Rød linje indikerer 500 m radius fra anlegget.  
+Gule linjer viser planlagte søkelinjer, markert med bokstaver (A-K). Kartet har nordlig orientering og mørkere blå 
+farge representerer dypere områder. Kartdatum WGS84. 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 10 av 28 
+ 
+Figur 2.1.5: 3D visning av planlagte søkelinjer (A-K), inntegnet i gult. Kartet har nordlig orientering og mørkere 
+blå farge representerer dypere områder. Kartdatum WGS84. 
+ 
+ 
+Figur 2.1.5: Illustrasjon over relativ hardhetskart som viser bunnforhold i området. Kartet er orientert mot nord. 
+Blå fargetoner viser relativt bløtere sedimenttyper og røde fargetoner tyder på hardere sedimenttyper. 
+Kartdatum WGS84. 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 11 av 28 
+2.2 Metode og analyse   
+Kartleggingen ble utført ved hjelp av en Blueye Pro drone. Kvalifisert personell iht. 3.1 Husa & 
+Kutti (2022) var til stede i felt for overvåkning av alle videolinjene i sanntid og førte logg over 
+interessante observasjoner og tekniske utfordringer som ble møtt for hver søkelinje (tabell 
+2.2.1). Andre interessante observasjoner som ikke er sårbar natur ble også notert, men inngår 
+ikke i videre analysearbeid. Innspillingen startet når farkosten var ved bunn og ble stoppet når 
+farkosten forlot bunn (vedlegg 1).  
+ 
+Det var planlagt for 11 søkelinjer innenfor 500 m radius fra det anlegget (A-K). Linjene ble kjørt 
+fra land ved rennen i sundet hvor anlegget ønskes plassert. Det var mindre enn 200 m avstand 
+mellom holmer og skjær som gjorde det mulig å benytte Blueye drone som har en kabel med 
+en utstrekning på 200 m. Linjene A, og C-K ble kjørt fra sør mot nord, mens linje B ble kjørt fra 
+nord til sør. Det var relativt strømstille under feltarbeid som medførte at det ikke ble store 
+endringer i de planlagte søkelinjene.  
+ 
+Fjernstyrt undervannsfarkost benyttet i undersøkelsen var «Blueye Pro» tilhørende Åkerblå 
+AS.  Undervannsfarkosten var utstyrt med HD kamera for identifisering av biologisk mangfold. 
+Videooverlay med informasjon om dato, tidspunkt, heading og dybde var til stede under 
+filming og opptak.  
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 12 av 28 
+Video- og bildeanalyser 
+Det ble hentet ut bilder for hvert 30de sekund av videoopptak. Sårbare arter eller naturtyper 
+ble registrert der hvor dette ble observert i bildet. Siden BlueEye-dronen ikke hadde 
+posisjoneringsutstyr ble koordinater ved start/nedsenkning og slutt av søkelinjen tatt ved 
+overflaten. Søkelinjen ble kjørt etter heading (kompassretning i grader) for å sikre en så rett 
+kjørt søkelinje som mulig. For fremstilling av resultater ble det dannet en linje som interpolerte 
+start- og sluttpunkt i kart. Bildene benyttet til analyse ble så plassert med like intervaller langs 
+disse søkelinjene. Punktene langs søkelinjene fungerte dermed som holdepunkter for 
+observasjonene når de ble registrert og skulle fremstilles i romlig format i kart. Observerte 
+naturtyper og substrat ble tegnet inn etter utstrekning basert på plassering av bildenummer 
+og tilhørende punkt. Video ble benyttet som supplement til bildene der hvor dette var 
+hensiktsmessig. Fremstilling av funn i denne undersøkelsen viser estimert utbredelse av funn, 
+da det som nevnt ikke var posisjoneringsutstyr på undervannsdronen benyttet.  
+ 
+ 
+Tabell 2.2.1 Arbeidsoppgaver, leverandører, og personell  
+  
+Leverandør 
+Personell 
+Standard 
+ROV pilot 
+Blueye Pro 
+Oda Waldeland 
+NS-EN 
+16260:2012 
+Feltansvarlig 
+Åkerblå AS 
+Oda Waldeland 
+NS-EN 
+16260:2012 
+Artsidentifisering og dataanalyse 
+Åkerblå AS 
+Sander Vollmerhaus Digre, June 
+Jakobsen 
+NS-EN 
+16260:2012 
+Vurdering og tolkning av 
+bunnfauna 
+Åkerblå AS 
+June Jakobsen 
+ 
+- 
+ 
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 13 av 28 
+Artsrikdom, utbredelse og tettheter  
+ 
+Funn i undersøkelsen ble registrert manuelt i Excel, med bildenummer og søkelinje funnet 
+tilhørte. Registreringene fra video og bilder ble så overført til QGIS 3.26.1(GIS) for å presentere 
+kart over funn i området (avsnitt 3).  
+ 
+Det ble i hovedsak registrert utbredelse av enkelte naturtyper og forekomster av substrat i 
+inneværende undersøkelse. På grunn av manglende laser på ROV, ble ikke prosent dekke eller 
+tetthet registrert for bildene som ble hentet ut til stillbildeanalysen. Dette medfører også at 
+vist utstrekning av de ulike registreringene kun er et estimat basert på video og bilder fra 
+undersøkelsen. Registrering av substrat for undersøkelsen utføres med følgende kategorier; 
+Fast fjell og store blokk (>630 mm), Veldig grovt sediment (63-630 mm), Grovt sediment 
+(0,063-63 mm), Silt & leire (< 0,063), samt skjellsand og korallin sand (grovt sediment med 
+tydelige rester etter kalkdannende organismer slik som skjell, rugl og sneglehus). På grunn av 
+flytende overganger og tidvis vanskeligheter med å skille substratinnhold, ble skjellsand og 
+korallin sand registrert under samme kategori.  
+ 
+Registreringer av sukkertare ble gjort i området. Forekomster med jevn fordeling og større 
+enn 10 kvm utbredelse ble registrert. Da det er usikkert om områdene kvalifiserer til 
+Artsdatabankens definisjon av tareskog som et område med forholdsvis tett forekomst av tare 
+som dekker minst 100 kvm og med en beltebredde på mer enn 5 meter, ble observasjoner av 
+sukkertare kun registrert som forekomst ved bilde- og videoanalyse.  
+ 
+Observasjoner av ruglbunn ble registrert der hvor et område på minimum 1 kvm hadde tydelig 
+forekomst av levende rugl. En nedre grense ble ikke definert for antatt prosentvis dekke av 
+levende rugl.  
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 14 av 28 
+3 Resultater  
+ 
+3.1 Videoopptak og analyse  
+Det ble ikke opplevd store avvik under innsamling av videomateriale i felt.  
+Totalt ble det kjørt 11 søkelinjer med en samlet lengde på 1619 meter. Dette resulterte i 269 
+bilder hentet ut til analyse og omtrent 132 minutter med video.  Av disse søkelinjene, hadde 
+samtlige funn av interesse som ble registrert. På grunn av lite strøm under feltutførelse antas 
+det at det ble kjørt en rett linje fra start til stopp-koordinat. Dette støttes av heading som vises 
+i videoopptak, som holder seg stødig. Plassering og utstrekning av søkelinjene er vist i figur 
+3.1.1. Dybden varierte mellom mindre enn en meter ved start- og sluttpunkter ved land, til 
+mellom 22 og 26 meter på det dypeste partiet i rennen. Lokaliteten kan kategoriseres som 
+grunn.  
+ 
+ 
+Figur 3.1.1: Kjørte søkelinjer i undersøkelsesområdet. Rosa ring rundt anleggsramme indikerer 250 m radius. Rød 
+linje indikerer 500 m radius fra anlegget. Kartet er nordlig orientert med datum WGS84. 
+ 
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 15 av 28 
+3.2 Substrat  
+ 
+To typer substrat preget i hovedsak området. Ved skråningene fra land ned mot rennen var 
+det i hovedsak fast fjell og større blokker som utgjorde substratet (figur 3.2.1). På flaten i 
+rennen, mellom skjærene og holmene, var det i hovedsak grovt og veldig grovt sediment i 
+form av skjellsand og korallinsand med rester av kalkdannende organismer og rugl (bilde 
+3.2.1). Stedvis var det innslag av mange hele skjell i substratet og det fremstod som veldig 
+grovt. Enkelte steder kunne det se ut til at fast fjell og større steiner var dekket i et tynnere 
+lag på noen centimeter av korallin sand eller skjellsand, dette var oftest i overgangene til og 
+den nederste delen av skråningene som gikk ned fra land.  
+ 
+ 
+Figur 3.2.1: Oversikt over fordeling av substrat registrert i området. Kartet er nordlig orientert med datum 
+WGS84.  
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 16 av 28 
+ 
+Bilde 3.2.1:  A, viser fast fjell som stikker opp under et lag med grovt sediment, trolig skjellsand. B, viser grovt 
+sediment med innslag av rester av hele skjell strødd utover i forgrunnen av bildet. C, viser fast fjell. De fleste 
+områder med fast fjell var ofte dekket av kalkrørsmark og andre kalkalger slik som slettrugl. D. Korallin sand, 
+skjellsand og større rester av kalkdannende organismer på den flatere delen av rennen. 
+ 
+ 
+A 
+B
+C
+D
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 17 av 28 
+3.3 Ruglbunn 
+ 
+Det ble funnet naturtypen ruglbunn i hele området (figur 3.3.1). Strukturdannende, 
+løstliggende kalkalger ble observert i hele området, ofte der hvor det var grovt sediment og 
+sand tilgjengelig (bilde 3.3.1). Enkelte steder kunne det bli observert på berg og i skråning opp 
+mot land. Samlet utgjorde områdene med levende, strukturdannende kalkalger et estimert 
+areal på 21071 kvm. Trolig finnes det mer ruglbunn i området enn dette, da det så ut til å gå 
+et sammenhengende område langs den flatere delen av rennen som går fra nord til sør i 
+området. Naturtypen er listet på Norsk rødliste for naturtyper med kategori datamangel (DD, 
+Gunderesen et.al 2018).  
+ 
+ 
+Figur 3.3.1: Observasjoner av ruglbunn i området illustrert med gule felter. Samtlige søkelinjer viste seg å gå over 
+områder med denne naturtypen. Planlagt anleggsramme er markert i blå firkant. Kartet er nordlig orientert med 
+kartdatum WGS84.  
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 18 av 28 
+Bilde 3.3.1: Eksempler på observasjoner av løstliggende, strukturdannende kalkalger i området. Noen steder 
+kunne det bli funnet på stein slik som illustrasjonene til venstre i bildet. Hovedvekten av observasjoner ble dog 
+gjort der hvor grovt sediment, skjellsand og korallin sand var tilgjengelig slik som til høyre i illustrasjonen. 
+Ruglbunn ble kun registrert der det var tydelige rødfargete og strukturdannende kalkalager som så ut til å ligge 
+løst på substratet.  
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 19 av 28 
+3.4 Sukkertare  
+Det ble observert sukkertare (Saccharina latissima) på samtlige søkelinjer. Observasjoner av 
+sukkertare forekom oftest i skråninger fra land med varierende tetthet og utbredelse, for det 
+meste i områder med hardt substrat tilgjengelig. Selv om det var områder med fast fjell 
+tilgjengelig, var det tidvis områder med bløtbunn med større steiner som utgjorde substrat, 
+hvor enkelte tareforekomster ble registrert. På grunn av flytende overganger mellom ulike 
+forekomster av tare ble forekomsten av brunalgen registrert selv om det tidvis var usikkert 
+om observasjonene kunne defineres som naturtypen sukkertareskog. Artsdatabanken 
+definerer tareskogbunn som et område med tett forekomst av tare i et område på minimum 
+100 kvm og med en beltebredde på minimum 5 meter. Trolig kan man anta at det er et 
+sammenhengende belte som går langs skråningene ned mot rennen i en nordøstlig til 
+sørvestlig akse. 
+ 
+Figur 3.4.1 viser fordeling av sukkertareforekomst i området. Det ble observert på alle 
+søkelinjer langs skråningene øst og vest for anlegget der hvor hardt substrat i form av berg 
+eller større steiner var tilgjengelig. Bilde 3.4.1 viser eksempel på observasjoner av varierende 
+tettheter og substrat som tare ble observert på.  
+ 
+ 
+Figur 3.4.1: Kartet viser estimert utbredelse av observasjoner av sukketare i området merket med oransje felter. 
+Planlagt anleggsramme er markert i blå firkant. Kartet har nordlig orientering, med kartdatum WGS84.  
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 20 av 28 
+ 
+ 
+Bilde 3.4.1: Bildet viser ulike observasjoner av sukkertare i området. De fleste forekomstene så noe slitne ut, 
+men dette kan være på grunn av sesongen undersøkelsen er utført i, en nylig storm eller nedbeiting. Som vist i 
+bildet er det varierende tetthet og utbredelse på observasjonene. 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 21 av 28 
+3.5 Oppsummering av funn 
+ 
+Det ble funnet områder med skjellsand og korallin sand, ruglbunn og sukkertareforekomster i 
+hele området. Ut fra estimert utbredelse er det en rimelig antakelse å tro at naturtypene går 
+sammenhengende i belter i en nordøstlig til sørvestlig akse langs renneformasjonen under 
+anlegget mellom holmene (figur 3.5.1). Hardt substrat ble funnet i skråningene fra land ned 
+mot renneformasjonen, hvorpå grovt sediment i form av skjellsand og korallin sand ble 
+observert nede på flatere partier.  
+ 
+ 
+Bilde 3.5.1: Oversiktskart over alle registreringer utført i undersøkelsen. Planlagt anleggsramme er illustrert med 
+blå firkant. Kartet har nordlig orientering med kartdatum WGS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 22 av 28 
+Tabell 3.5.1 Observert arealutbredelse av naturtyper funnet i undersøkelsen per søkelinje oppgitt i 
+kvadratmeter. Ruglbunn er listet med datamangel (DD) i Norsk rødliste for naturtyper. Skjellsand er listet som 
+livskraftig (LC), og nordlig sukkertareskog er listet som sterkt truet (EN). Utbredelsen oppgitt er estimert basert 
+på videoanalyse kombinert med diskontinuerlig bildeanalyse. 
+Naturtype 
+ 
+ 
+ 
+Søkelinje 
+Ruglbunn 
+Skjellsand/korallin sand 
+Sukkertare 
+A 
+1304 
+3271 
+454 
+B 
+1687 
+2492 
+694 
+C 
+2069 
+1742 
+613 
+D 
+2156 
+3008 
+2235 
+E 
+1614 
+2979 
+1597 
+F 
+1571 
+2059 
+1035 
+G 
+1385 
+3524 
+673 
+H 
+906 
+2569 
+877 
+I 
+2390 
+3786 
+2137 
+J 
+3972 
+5153 
+1281 
+K 
+2018 
+3280 
+1980 
+Totalt 
+21071 
+33864 
+13578 
+ 
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 23 av 28 
+4 Diskusjon 
+ 
+Undersøkelsen ble utført i et område som var grunt, over en renneformasjon som gikk i en 
+nordøstlig-sørvestlig akse. Det ble ikke opplevd tekniske utfordringer ved innsamling av 
+videomateriale da det ved feltutførelse var lite strøm i området. Funnene i undersøkelsen viser at 
+det er naturtyper i området som er listet på Norsk rødliste for naturtyper og regnes som mulig 
+sårbare for påvirkning, blant annet ruglbunn og sukkertareforekomst - mulig sukkertareskog. Av 
+funn ble det estimert utbredelse som så ble illustrert i kart i foregående kapittel. Det er trolig 
+sammenhengende belter som går langs renneformasjonen, enten på sidene på hardt substrat i 
+skråningene eller i bunnen av renneformasjonen på grovt sediment. Det er derfor grunn til å tro 
+at naturtypene som er registrert i området dekker et areal som er større enn det som er oppgitt i 
+tabell 3.5.1.  
+ 
+Funn av ruglbunn ble gjort i hele undersøkelsesområdet på bløtbunn. Tilstedeværelsen av 
+ruglbunn ble notert der dette ble verifisert med sikkerhet. Naturtypen er oppført under 
+datamangel i Norsk rødliste for arter (DD). Naturtypen står på OSPAR sin liste over 
+truede/minkende habitater (Gundersen et al., 2018 A). Naturtypen er saktevoksende og viktig 
+habitat for flere virvelløse dyr. Hvis ruglbunn blir dekket av sediment er det sannsynlig at den 
+dør, og kommer i noen tilfeller ikke tilbake etter ødeleggelse (Havforskningsinstituttet, 2021). 
+I undersøkelsesområdet ligger verifiserte funn av ruglbunn i umiddelbar nærhet til det 
+planlagte anlegget og det vil være usikkert hvordan naturtypen vil påvirkes av potensiell 
+organisk nedfall fra området.  
+ 
+Av substrat i relasjon til ruglbunn ble det registrert skjellsand og korallin sand. Disse opptrådte 
+ofte sammen med levende rugl og utgjorde grovt til fint sediment i området. Skjellsand kan 
+ofte finnes ved områder med sterk strøm, eller i områder der hvor det har vært sterk strøm 
+tidligere. Nasjonal kartlegging – kyst 2019, nevner skjellsand som en viktig naturtype for flere 
+ulike grupper dyregrupper (Bekkby et.al. 2020). Det nevnes videre at den største trusselen til 
+naturtypen er uttak og kommersiell høsting av skjellsand (og potensielt korallin sand). 
+Områdene med ruglbunn og skjellsand kan antas å være sammenhengende ut fra 
+observasjoner gjort gjennom video.   
+ 
+Det ble funnet tidvis jevn forekomst av sukkertare i området. Arten trives i skjermede områder 
+i skjærgården som ikke er utsatt for sterk påkjenning fra bølge- og strømaktivitet. Det er 
+knyttet usikkerhet til om utbredelse og/eller tetthet av observasjonene kvalifiserer til å 
+utgjøre naturtypen nordlig sukkertareskog, som er en rødlistet naturtype. I flere områder ble 
+taren som ble registrert oppfattet som «sliten». Dette kunne ses ved at laminaen, den 
+bladlignende strukturen på taren, var oppstykket og begrodd, noen steder var det en overvekt 
+av stilker som hang igjen i substratet, mens laminaen lå løst på havbunnen (se bilde 3.4.2). En 
+årsak kan være at laminaen er ettårig, og blir skiftet i april året etter de nye skuddene kommer 
+(Bengtsson, 2011). Dermed kan det hende at tareforekomsten var naturlig sliten siden 
+fjorårsbladene fortsatt var til stede og derfor kan tilfellet være at forekomsten er tettere enn 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 24 av 28 
+det som ble observert under inneværende undersøkelse. Norsk rødliste for sårbare naturtyper 
+(Artsdatabanken, 2018) deler tareskog opp i flere naturtyper, inkludert er nordlig stortareskog 
+(NT) og nordlig sukkertareskog (EN). Videre defineres tareskogbunn som et område med tett 
+forekomst av tare på minst 100 kvm og med en beltebredde på 5 meter. Disse naturtypene er 
+på Norsk rødliste for naturtyper siden de har blitt sterkt nedbeitet av kråkeboller de siste 50 
+årene (Gundersen et al., 2018 B).  
+ 
+Området bærer generelt preg av få funn av sårbare arter og kun enkelte sårbare naturtyper 
+oppdaget i inneværende undersøkelse. Slik søkelinjene er lagt mener Åkerblå at resultatene 
+gir en god indikasjon av hva man kan forvente i området under og rund anleggsrammen. Det 
+bør dog nevnes at det alltid knyttes noe usikkerhet til en slik konklusjon og at det ikke kan 
+fullstendig utelukkes ytterligere tilstedeværelse av sårbar natur som ikke er avdekket i 
+undersøkelsen. 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 25 av 28 
+5 Litteraturliste 
+ 
+ 
+Artsdatabanken (2018). Norsk rødliste for naturtyper 2018. Hentet 10.09.2023 fra 
+https://www.artsdatabanken.no/rodlistefornaturtyper   
+ 
+Artsdatabanken (2021, 24. november). Norsk rødliste for arter 2021. Hentet 10.09.2023, fra 
+https://www.artsdatabanken.no/rodlisteforarter/2021  
+ 
+Bekkby T, Rinde, E., Espeland, S. H., Olsen, H., Thormar, J., Grefsrud, E. S., Brandt, C. F., Moy 
+F. E., 2020. Nasjonal kartlegging– kyst 2019. Ny revisjon av kriterier for verdisetting av 
+marine naturtyper og nøkkelområder for arter. NIVA-rapport 7454-2020, 33 s 
+ 
+Bengtson, M. M. (2011). Bacterial biofilms on the kelp Laminaria hyperborean, Dissertation 
+for the degree philosophiae doctor (PhD) at the University of Bergen.  
+ 
+DN-Håndbok 19 (2007). Kartlegging av marint biologisk mangfold, Direktoratet for 
+naturforvaltning, 54s. 
+ 
+Gundersen, H., Bekkby, T., Norderhaug, K. M., Oug, E., Rinde, E. og Fredriksen, F. (2018, A). 
+Ruglbunn, Marint gruntvann. Norsk rødliste for naturtyper 2018. Artsdatabanken, 
+Trondheim. Hentet (01.09.2023) fra: https://artsdatabanken.no/RLN2018/326 
+ 
+Gundersen, H., Bekkby, T., Norderhaug, K. M., Oug, E., Rinde, E. og Fredriksen, F. (2018, B). 
+Sukkertareskog i Norskehavet og Barentshavet, Marint gruntvann. Norsk rødliste for 
+naturtyper 
+2018. 
+Artsdatabanken, 
+Trondheim. 
+Hentet 
+(dato) 
+fra: https://artsdatabanken.no/RLN2018/344 
+ 
+Havforskningsinstituttet 
+(2021). 
+Ruglbunn. 
+Hentet 
+28.08.2023, 
+fra 
+www.hi.no/hi/radgivning/marine-naturverdier-og-tiltak-i-kystsonen/marint-biologisk-
+mangfold/ruglbunn 
+ 
+Husa, V. og Kutti, T. (2022). Forslag til metode for kartlegging av sårbare arter og naturtyper 
+på grunt vann (0-50 meters dyp) til søknader om akvakultur i sjø. Rapport fra 
+Havforskningen 2021-9 31.03.2022, ISSN: 1893-4536, prosjektnr 14900 s. 34.  
+Kutti T, Husa, V (2021) Forslag til metode for kartlegging av sårbare arter og naturtyper på 
+dypt vann til søknader om akvakultur i sjø. Rapport fra Havforskningen 2021-39 
+22.10.2021, ISSN:1893-4536, prosjektnr 14900 s. 55. 
+Mareano 
+(2022). 
+Sårbare 
+biotoper. 
+Lastet 
+ned 
+11.10.2022, 
+fra 
+https://www.mareano.no/tema/bunnhabitater/sarbare-biotoper  
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 26 av 28 
+Miljødirektoratet (2021) Retningslinjer for miljøovervåking av petroleumsvirksomheten til 
+havs. Veileder M-300 | 2015, REVIDERT SEPT 2021. s. 69 
+NS-EN 16260:2012  Vannundersøkelse - Visuelle bunnundersøkelser med fjernstyrte 
+og/eller tauete observasjonsfarkoster for innsamling av miljødata. Standard Norge, 
+Utgave 1 (2013-01-01) 
+OSPAR (2022) List of Threatened and/or Declining Species & Habitats. Lastet ned 11.10.2022 
+fra 
+https://www.ospar.org/work-areas/bdc/species-habitats/list-of-threatened-
+declining-species-habitats   
+Åkerblå AS (2023) Forslag. Visuell kartlegging. Rapportnr.: 110206505-3017-01-001. 
+ 
+Åkerblå AS (2022a). Strømrapport ved Brønnøyskjæran i november 2021-januar 2022.     
+Rapportnr. 103773-01-001. 54 s.  
+ 
+ 
+ 
+Brønnøyskjæran 
+        
+           
+ 
+Dokumentid. VU B.4./ v1.00 
+ 
+Side 27 av 28 
+6 Vedlegg  
+ 
+Vedlegg 1 – Feltskjema 
+ 
+Tabell V1.1 gir en beskrivelse av de ulike søkelinjene kjørt i undersøkelsen.  
+ 
+Tabell V1.1 Beskrivelse av vurderinger gjort i felt for hver linje.  
+Søkelinje 
+Rutevalg 
+A-K 
+Samtlige linjer ble plassert fra land i sør for å ha et referansepunkt fra start. Linjen ble 
+avsluttet enten så langt kabelen strakk ut i forventet influenssone eller til land i nord 
+begrenset videre filming. Ettersom Blueye Pro dronen ikke har navigasjonssystem ble det 
+kun kjørt rette linjer for å ha oversikt over hvor dronen kjørte. Linjene ble fordelt over hele 
+den forventede influenssonen med noe mer konsentrasjon av linjer rundt planlagt anlegg.

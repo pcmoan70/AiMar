@@ -1,0 +1,3518 @@
+﻿2055-4-23K SANDVIKA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kartlegging av sårbare marine arter og 
+naturtyper ved Sandvika i Nesna 
+kommune, april 2023 
+ 
+ 
+KIME Akva AS 
+ 
+2023 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+2 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org. Nr.: 982 226 163 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rapportens tittel: 
+Kartlegging av sårbare marine arter og naturtyper ved Sandvika i Nesna kommune, april 2023. 
+Forfatter: Gina Almås Gundersen 
+Feltdato: 18.-19.04.2023 
+Toktleder: Gina Almås Gundersen 
+Rapportdato: 20.06.2023 
+Rapportnummer: 2055-4-23K 
+Antall sider uten vedlegg: 13 
+Antall sider totalt: 22 
+Oppdragsgiver: 
+KIME Akva AS  
+ 
+Kontaktperson: Stefan Paulsen 
+Lokalitet: Sandvika 
+Fylke: Nordland 
+Kommune: Nesna  
+Sammendrag 
+Aqua Kompetanse AS har gjennomført en kartlegging av sårbare arter og naturtyper på dypt (> 50 m) og grunt (0-
+50 m) vann ved den planlagte lokaliteten Sandvika, etter metodikk foreslått av havforskningsinstituttet (Kutti og 
+Husa, 2021 og 2022). 
+ 
+Substratet besto hovedsakelig av bløtbunn, med enkelte områder dominert av grovere sediment som stein og fast 
+fjell. Det ble registrert ulike arter sjøfjær, stedvis med karakteristikk tilsvarende naturtypen sjøfjær og gravende 
+megafaunasamfunn. Høyest tetthet av sjøfjær ble registrert i bløtbunnsområdet lengst nordøst i det kartlagte 
+området. Det ble observert spredt forekomst av svamp av ulike størrelser og morfotyper på fast fjell i store deler 
+av undersøkelsesområdet; ved ett datapunkt sørøst i området ble det registrert svamp med en tetthet som kan 
+karakteriseres som svampskog. Det ble gjort enkeltfunn av hydrokoraller og sjøbusk. 
+ 
+Emneord: 
+Hydrokorall; Kartlegging; ROV; Svamp; Sjøfjær 
+ID 1584-1.5 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig: 
+ 
+ 
+ 
+Gina Almås Gundersen 
+Kvalitetssikrer: 
+ 
+Cathrine B. Alegretti 
+ 
+© 2023 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+3 
+Innhold 
+1. 
+Innledning ........................................................................................................................................ 4 
+2. 
+Materiale og metode ....................................................................................................................... 6 
+2.3 Utstyr ............................................................................................................................................. 7 
+2.4 Undersøkelsesområde ................................................................................................................... 7 
+2.5 Plassering av ROV-kjørelinjer ........................................................................................................ 9 
+3. 
+Resultater ...................................................................................................................................... 10 
+3.1 Tetthet ......................................................................................................................................... 10 
+3.2 Diversitet og artsrikdom .............................................................................................................. 12 
+4. 
+Oppsummering .............................................................................................................................. 13 
+5. 
+Referanser ..................................................................................................................................... 14 
+Vedlegg A – Kartlegging, Sandvika ........................................................................................................ 15 
+Vedlegg B – Artsliste .............................................................................................................................. 16 
+Vedlegg C - Bilder .................................................................................................................................. 17 
+Vedlegg D – Observert tetthet .............................................................................................................. 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+4 
+1. Innledning 
+ 
+På oppdrag fra KIME Akva AS har Aqua Kompetanse AS gjennomført en kartlegging av sårbare arter og 
+naturtyper på grunt (0 – 50 m) og dypt (>50 m) vann ved Sandvika. Undersøkelsen har som formål å 
+kartlegge forekomst og tetthet av sårbare arter som kan danne naturtyper som står på norsk rødliste 
+for naturtyper (Artsdatabanken 2018) eller på OSPARS (Oslo-Paris-konvensjonen om beskyttelse av det 
+marine miljø i det nordøstlige Atlanterhavet) liste over truede og/eller minkende habitat (OSPAR, 
+2008-6). På dybder dypere enn 50 meter omfatter dette korall, svamp og sjøfjær og eventuelt andre 
+rødlistede arter på dypt vann; undersøkelsen tar utgangspunkt i Havforskningsinstituttets forslag til 
+metode for kartlegging av sårbare arter og naturtyper på dypt vann til søknader om akvakultur i sjø 
+(Kutti og Husa, 2021). Tabell 1 gir en oversikt over definisjon og antatt rehabiliteringsevne for 
+naturtyper på dypt vann. 
+ 
+På dybder grunnere enn 50 meter omfatter kartleggingen tareskog, bløtbunnsområder i strandsonen, 
+ruglbunn, marin undervannseng, eksponert blåskjellbunn, østers, kamskjellforekomster, koraller, 
+svamp, sjøfjær og eventuelt andre rødlistede arter på grunt vann; undersøkelsen tar utgangspunkt i 
+Havforskningsinstituttets forslag til metode for kartlegging av sårbare arter og naturtyper på grunt 
+vann (0-50 meters dyp) til søknader om akvakultur i sjø (Kutti og Husa 2022). Tabell 2 gir en oversikt 
+over definisjon og antatt rehabiliteringsevne for naturtyper på grunt vann. 
+ 
+Tabell 1: Definisjon, beskrivelse og antatt rehabiliteringsevne for naturtyper som inngår i kartleggingen på dypt 
+vann (>50 meters dyp). 
+ 
+*Kutti & Husa (2022) 
+ 
+ 
+ 
+ 
+Korallskog
+OSPAR (2010b) definerer korallskog som en relativt tett ansamling av korallkolonier av
+én eller flere arter på bløt- eller hardbunn. Naturtypen er ikke kvantitativt definert av
+OSPAR og det finnes heller ingen norsk definisjon av korallskog (Kutti & Husa, 2021). I
+Kutti & Husa (2021) beskrives det at for større korallearter kan en tetthet på 1 til 2
+kolonier per 100 m2 være nok til å beskrive habitatet som korallskog, mens det er
+observert at mindre korallearter kan forekomme med tettheter opp til 500-200
+Lav
+Sjøfjær og 
+gravende 
+megafaunasamfun
+n
+OSPAR (2010a) definerer habitatet sjøfjær og gravende megafaunasamfunn som flater
+med mudder der det er iøynefallende forekomst av sjøfjær samt groper og
+forhøyninger i sedimentoverflaten fra gravende megafauna. Gravende megafauna som
+kan observeres på video er eksempelvis krepsdyr av ulike arter. Naturtypen er ikke
+kvantitativt definert (Kutti & Husa, 2021).
+Lav
+Svampskog
+OSPAR (2010c) definerer naturtypen svampskog, bestående av horn- og kiselsvamper,
+som massive svamper med en tetthet på 0,5 – 1,0 individ per m2, på bløt og/eller
+hardbunn. Det finnes ingen egen norsk definisjon på naturtypen svampskog. Det er
+observert svampskog som definert av OSPAR på Norsk kontinentalsokkel (Kutti et al.,
+2013), men det er usikkert hvordan svamptetthet i fjorder er, sammenlignet med
+tettheten på sokkelen (Kutti & Husa, 2021) Dypvannssvamper har lignende habitat-
+preferanser som kaldtvanns-koraller, og disse forekommer derfor ofte sammen
+(OSPAR, 2010c).
+Lav
+Definisjon/Beskrivelse
+Naturtyper på dypt 
+vann (>50 meter)
+Antatt 
+rehabiliterings-
+evne
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+5 
+Tabell 2: Definisjon, beskrivelse og antatt rehabiliteringsevne for naturtyper på grunt vann (0-50 meters dyp). 
+ 
+*Kutti & Husa (2022) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Naturtyper på 
+grunt vann (0-50 
+meter)
+Definisjon/Beskrivelse
+Antatt 
+rehabiliterings-
+evne
+Tareskog
+Artsdatabanken definerer tareskog som "et sammenhengende område dominert av
+tare-arter, med et areal større enn 100 m2 og bredde større enn 5 m".
+Høy
+Stortareskog
+Større stortareskogforekomster er kartlagt og modellert langs norskekysten (Kutti &
+Husa, 2022). Nordlig stortareskog er vurdert som nær truet av Norsk rødliste for
+naturtyper 2018 (Gundersen et al., 2018a). 
+Høy
+Sukkertareskog
+Sukkertareskog har ikke blitt systematisk kartlagt eller modellert langs norskekysten
+(Kutti & Husa, 2022). Nordlig og sørlig sukkertareskog er vurdert som sterkt truet av
+Norsk rødliste for naturtyper 2018 (Gundersen et al., 2018b).
+Høy
+Fingertarebunn
+Fingertarebunn har ikke blitt systematisk kartlagt eller modellert langs norskekysten
+(Kutti & Husa, 2022). Naturtypen er vurdert som sårbar av Norsk rødliste for naturtyper
+2018 (Gundersen et al., 2018c).
+Høy
+Bløtbunnsområder 
+i strandsonen
+Kutti & Husa (2022) definerer naturtypen som "bølgepåvirkede strender av ren sand,
+strandflater med mudderblandet sand eller strandflater med bløtt mudder i
+beskyttede områder". Naturtypen står på OSPARS liste over sårbare og minkende
+habitat (OSPAR, 2008-06), men ikke på Norsk rødliste for naturtyper 2018.
+Moderat
+Ruglbunn
+Ruglbunn er definert som områder med forekomst av løstliggende kalkalger av ulike
+arter som danner er tredimensjonalt habitat (Kutti & Husa, 2022). Naturtypen er ikke
+kartlangt langs norskekysten med står på
+Norsk rødliste for naturtyper 2018
+(Gundersen et al., 2018d).
+Lav
+Marin undervanns- 
+eng
+Flere ulike marine karplanter kan inngå i naturtypen, men den er i norge hovedsakelig
+bestående av Zostera spp. (Ålegras). Ålegrasenger står på OSPARS liste over sårbare og
+minkende habitat (OSPAR, 2008-06). 
+Lav
+Eksponert blåskjell- 
+bunn
+OSPAR (2008-07) definerer eksponert blåskjellbunn som banker med blåskjell på grunt
+vann. Blåskjellbunn er ikke en kartlagt naturtype i Norge (Kutti & Husa, 2022), men er
+vurdert som en sårbar naturtype på Norsk rødliste for naturtyper 2018 (Gundersen et
+al. 2018e).
+Høy
+Østers
+Forekomster av europeisk østers står på OSPARS liste over sårbare og minkende
+habitat (OSPAR, 2008-06). 
+Moderat
+Kamskjell- 
+forekomster
+Kutti & Husa (2022) definerer naturtypen som flekkvis forekomst av artene stort
+kamskjell (Pecten maximus ) og/eller haneskjell (Chlamys islandica)
+over store
+bunnområder. Kamskjellforekomster er vurdert som ressursart i Norge.
+Moderat
+Koraller, svamp og 
+sjøfjær
+I norske fjorder kan koraller, svamp og sjøfjær forekomme på dybder grunnere enn 50
+meter (Kutti & Husa, 2022).  Se tabell 1 for nærmere beskrivelse.
+Lav
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+6 
+ 
+2. Materiale og metode 
+Undersøkelsen ble utført 18.-19.04.2023. Det ble kartlagt 13 transekt under og omkring det planlagte 
+anlegget; 
+transektene ble 
+tegnet 
+av 
+rådgiver 
+fra 
+Aqua 
+Kompetanse 
+AS 
+basert 
+på 
+Havforskningsinstituttets forslag til metode for kartlegging av sårbare arter og naturtyper på dypt vann 
+til søknader om akvakultur i sjø (Kutti og Husa, 2022) samt faglig vurdering av batymetri og 
+strømforhold ved lokaliteten. Antall transekt, lengde og plassering ble diskutert med- og godkjent av 
+statsforvalteren i Nordland i forkant av undersøkelsen. ROV ble kjørt av egen ROV-fører, mens rådgiver 
+med mastergrad innen biologi tok fortløpende vurderinger av forholdene langs søkelinjene og 
+eventuelle tilpasninger. Det ble gjort kontinuerlig opptak av de undersøkte transektene, det ble også 
+tatt bilder fortløpende i felt og funn ble notert i toktjournal. Videomaterialet fra ROVens HD-kamera 
+ble analysert av rådgiver med mastergrad innen biologi; rådgiver har erfaring med videoanalyser fra 
+undervannsvideoer. 
+ 
+Data ble generert fra kontinuerlig videoanalyse. Det ble satt datapunkter med en romlig oppløsning på 
+50 m langs hvert transekt (ett datapunkt = 50 meter videolinje). Det er stor usikkerhet knyttet til 
+hvordan man kan beregne areal som kartlegges av ROV. Aqua kompetanse har et kamera med vinkel 
+på 58,2 grader. Ved ROV kjøring ser kameraet både vertikalt og noe horisontalt. Aqua Kompetanse AS 
+estimerer bredde på kartlegging av en kjørelinje til omtrent 5 meter. Det er ikke mulig å artsbestemme 
+alle arter og individer innenfor dette området, men Aqua Kompetanse AS mener at forekomst av 
+sårbare naturtyper vil fanges opp og ved eventuelt funn vil ROV-fører nøyere undersøke funnets 
+utbredelse; dette kan innebære å avvike fra planlagte kjørelinjer. ROVen er utstyrt med et HD-kamera, 
+men også et kamera med lavere kvalitet, men som dekker et større areal enn HD-kameraet; rådgiver i 
+felt kan dermed forsikre seg om at relevante funn langs søkelinjen fanges opp i størst mulig grad.   
+ 
+For hvert datapunkt med funn ble det registrert dominerende substratype basert på Europeisk 
+standard for visuell kartlegging av sjøbunn på dype lokaliteter (EN 16260:2012); som deler substrat inn 
+i kategoriene fast fjell og store blokk (FF), veldig grovt sediment (St), grovt sediment, sand og grus (G), 
+silt og leire (S), korallgrus (KG) og dødt korallskjelett (DK). Det ble også registrert substrat for hver 
+observasjon. Funn som inngår i kartleggingen ble identifisert til laveste mulige taksonomiske nivå. 
+Svamp kan som regel ikke artsbestemmes ved visuell observasjon, svamper ble derfor gruppert etter 
+slekt der dette var mulig og ellers gruppert etter morfotyper som beskrevet av Kazanidis et al. (2019) 
+og senere på norsk i Kutti og Husa (2021) (Tabell 3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+7 
+ 
+Tabell 3:. Inndeling av svamp i grupper og morfotyper.  
+ 
+ 
+Det ble beregnet tetthet for hver observerte taksonomiske gruppe og svamp-morfotype som inngår i 
+kartleggingen, for hvert datapunkt, samt gjennomsnittlig for hele undersøkelsesområdet. For 
+beregning av tetthet ble det tatt utgangspunkt i 5 meters bredde på kjørelinjene og 50 meters lengde 
+for hvert datapunkt. Det ble beregnet Shannons diversitetsindeks (H’) og effektiv H’ 
+(eksponentialfunksjon av H’), Pielous jevnhet (J’) samt Simpsons diversitetsindeks (D) for hvert transekt 
+og gjennomsnittlig for undersøkelsesområdet. 
+ 
+2.3 Utstyr 
+Det ble benyttet ROV av typen Aegir 35 fra Ocean Robotics med 3 x 3500 lm led lys, HD kamera med 
+zoom, og Advanced Navigation undervannsposisjonering med nøyaktighet på 1,5 meter pr. 100m. 
+Posisjoneringen er tilkoblet GNSS antenne fra Advanced Navigation. ROVen har påmontert laser med 
+to faste parallelle linjer med 75mm avstand.  
+ 
+2.4 Undersøkelsesområde 
+Sandvika ligger i Nesna kommune i Nordland, på nordøst-siden av øya Tomma ved innløpet til Sjona. 
+(Figur 1). Det tiltenkte anlegget ligger over en undersjøisk skråning som skråner ut fra land i vest, med 
+dybder fra omtrent 100-150 meter. Nordøst for anleggsrammen fortsetter skråningsfoten ut mot Sjona 
+som på det dypeste er ca. 390 meter. Figur 2 viser arealet som ble kartlagt. Arealet baserer seg på 
+strømdata (Mundal, 2023) og bunntopografien i området. Vannstrømmen på lokaliteten er 
+hovedsakelig tidevannsdrevet og batymetristyrt. Hovedstrømretning i spredningsdypet (74 meter) er 
+rettet mot sørøst, mens noe vanntransport også er rettet mot nord. Undersøkelsesareal er derfor satt 
+til 1000 meter i sørøstlig retning, med utgangspunkt fra anleggsrammens hjørnepunkter. Videre er 
+undersøkelsesarealet satt til 500 meter i returstrømretning, og 250 meter i de øvrige retningene.  Figur 
+2 viser sirklene som har en diameter på 500 meter, 1000-meteres linjer, 500 meters linjer og 
+undersøkelsesarealet.  
+ 
+ 
+Kazanidis et al. 2019 Kutti og Husa, 2021
+1
+Encrusting
+Skorpedannende
+2
+Arborecent
+Fingerformet
+Massive
+Massiv
+Spherical
+Rund
+-
+Tykk skålformet
+Papillate
+Porøs bulkeformet
+Flabellate
+Tynn vifteformet
+Caliculate
+Traktformet
+Stipitate
+Stilkformet
+Clavate
+-
+Morfotype
+Gruppe
+5
+4
+3
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+8 
+ 
+Figur 1:  Oversiktskart som viser planlagt anleggsplassering (rød firkant) i forhold til andre anlegg. Målestokk vises i høyre 
+hjørne. Kilde: Fiskeridirektoratets karttjeneste. 
+ 
+ 
+Figur 2. Oversiktskart som viser planlagt anleggsplassering og undersøkelsesområdet. Kartet er orientert mot 
+øst. Sirkler har en diameter på 500 meter. Strømrose viser vanntransport (m³/m²/dag) for hver 15° sektor på 74 
+meters dyp ved Sandvika i perioden 15.11.–16.12.2022 (Mundal, 2023).  Undersøkelsesområdet er markert i 
+grønt. Kilde: Olex. 
+ 
+ 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+9 
+2.5 Plassering av ROV-kjørelinjer  
+Figur 3 viser transektene kartlagt med ROV. Undersøkelsesområdet består av slake skråninger, med 
+noen mindre områder bestående av brattere skråninger. Disse skråningene ble vurdert å være de mest 
+sannsynlige stedene der det kunne forekomme sårbare naturtyper. Transektene 9-13 ble plassert 
+innenfor 250 meter fra det planlagte anlegget og ble plassert systematisk. Transektene 2-5 ble plassert 
+på tvers av de systematisk plasserte transektene. Transektne 1, 7 og 8 dekker hovedsakelig skråninger. 
+Deler av disse linjene ble likevel plassert over relativt flat bløtbunn for å kartlegge forskjellige typer 
+substrat som trolig er til stede. Transekt 6 ble plassert delvis rundt en skråning for å avdekke eventuelt 
+nedfall fra fjellvegg som kan vise tilstedeværelse av sårbare naturtyper lengre opp på veggen. Under 
+kartleggingen måtte imidlertid et mindre parti av transekt 6 avkortes på grunn av et fiskenett midt i 
+transektet. Den nye kjørelinjen, og opprinnelig kjørelinje, er vist sammen med de andre kjørelinjene i 
+Figur 3.     
+Kutti og Husa 2021 og 2022 spesifiserer at omtrent 3-4% av undersøkelsesområdet skal kartlegges. 
+Med den planlagte kjøreavstanden på 10 532 m og undersøkelsesarealet på 1,40 km2, betyr det at 
+denne kartleggingen dekket inntil 3,77% av arealet ved 5 meters bredde, som blir over det som anses 
+som nødvendig av Kutti og Husa, 2021; dette gir noe margin med hensyn til at den reelle observerte 
+bredden på kjørelinjen sannsynligvis er noe mindre i områder med bratt terreng og ved dårlig sikt. 
+ 
+ 
+Figur 2: Kartet viser undersøkelsesområdet og transekter 1-13. Planlagt anleggsramme er vist i gult, kjørelinjer i 
+blått. Ny kjørelinje i transekt 6 er vist i lilla, sammen med opprinnelig kjørelinje (blå). Kilde: Olex. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+10 
+3. Resultater 
+Figur 4 viser oversikt over dominerende substrattyper observert i undersøkelsesområdet. Utvalgte 
+stillbilder fra ROV-videomaterialet ligger i Vedlegg C.  
+ 
+ 
+Figur 3:  Kart over dominerende substrattyper for hvert datapunkt.  
+3.1 Tetthet 
+Figur 5 viser observert samlet tetthet av sjøfjær; Figur 6 viser observert samlet tetthet av svamper og 
+Figur 7 viser observert samlet tetthet av koraller. Tetthet av de oftest forekommende 
+arter/slekter/morfotyper kan leses av i Tabell 4; fullstendig oversikt over tetthet av funn for hvert 
+datapunkt og transekt kan leses av i Vedlegg D. 
+ 
+ 
+ 
+Figur 5: Kart over samlet tetthet av sjøfjær i undersøkelsesområdet. 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+11 
+ 
+Figur 4: Kart over observert samlet tetthet av svamp i undersøkelsesområdet.  
+ 
+ 
+Figur 5: Kart over observert samlet tetthet av koraller i undersøkelsesområdet.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+12 
+Tabell 4: Gjennomsnittlig tetthet, maks tetthet, standardfeil og antall datapunkter for de oftest forekommende 
+arter/morfotypene fra ulike grupper ved Sandvika. 
+ 
+ 
+ 
+3.2 Diversitet og artsrikdom 
+ 
+Antall individer, artsrikhet og diversitet for arter og grupper som inngår i kartleggingen, for hvert 
+transekt og for hele undersøkelsesområdet kan leses av i Tabell 5. Flere transekt overlapper med andre 
+transekter noe som kan føre til forhøyet totalt individantall. Samlet artsliste med rødlistestatus kan 
+leses av i Vedlegg B. 
+ 
+ 
+Tabell 5: Sammenstilling av alle transekters artsrikhet av arter som inngår i kartleggingen, antall individer, 
+Shannons diversitetsindeks (H') og Shannon (effektiv), Pielous jevnhet (J’) og Simpsons diversitetsindeks (D). 
+Gjennomsnittlig diversitet og artsrikdom for undersøkelsesområdet ± standardfeil.  
+Transekt 
+Artsrikhet 
+Antall individer 
+H' 
+H' 
+(Effektiv) 
+J 
+D 
+T01 
+12 
+180 
+1,904 
+6,712 
+0,766 
+0,796 
+T02 
+2 
+11 
+0,305 
+1,356 
+0,439 
+0,165 
+T03 
+7 
+92 
+1,489 
+4,432 
+0,765 
+0,730 
+T04 
+8 
+103 
+1,570 
+4,804 
+0,755 
+0,736 
+T05 
+7 
+139 
+1,466 
+4,330 
+0,753 
+0,712 
+T06 
+10 
+142 
+1,862 
+6,436 
+0,809 
+0,811 
+T07 
+10 
+178 
+2,107 
+8,223 
+0,915 
+0,867 
+T08 
+10 
+349 
+1,878 
+6,538 
+0,815 
+0,819 
+T09 
+11 
+75 
+2,004 
+7,416 
+0,836 
+0,805 
+T10 
+8 
+59 
+1,744 
+5,719 
+0,839 
+0,798 
+T11 
+7 
+18 
+1,750 
+5,756 
+0,899 
+0,802 
+T12 
+6 
+22 
+1,493 
+4,449 
+0,833 
+0,719 
+T13 
+7 
+34 
+1,462 
+4,312 
+0,751 
+0,692 
+Gjennomsnitt 
+8,077 
+107,846 
+1,618 
+5,422 
+0,783 
+0,727 
+Standardfeil 
+2,495 
+89,629 
+0,433 
+1,692 
+0,112 
+0,170 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gjennomsnitt
+Standardfeil
+Maks
+Datapunkter med observasjon
+Svamp
+Fingerformet
+0,005
+0,001
+0,056
+45
+Massiv
+0,005
+0,002
+0,1
+24
+Porøs bulkeformet
+0,008
+0,001
+0,076
+46
+Skorpedannende
+0,005
+0,001
+0,112
+26
+Tynn vifteformet
+0,014
+0,002
+0,112
+49
+Sjøfjær
+Funiculina quadrangularis
+0,002
+0,000
+0,016
+32
+Tetthet (individ eller kolonier m2)
+Sandvika
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+13 
+ 
+4. Oppsummering 
+ 
+Undersøkelsesområdet dekket et område med både grunt og dypt vann. Substratet bestod 
+hovedsakelig av bløtbunnsområder samt noen områder med stein og fast fjell. Det var generelt mye 
+organisk materiale i området, spesielt i vannmassene i form av marin snø. Transekt 7 hadde høyest 
+diversitetsindeks (H) av arter som inngår i kartleggingen, etterfulgt av transekt 9 og 1. 
+ 
+Det ble registrert forekomst av naturtypen sjøfjær og gravende megafaunasamfunn i flere deler av 
+undersøkelsesområdet. Høyest tetthet ble registrert i transekt 1 (datapunkt O) og 13 (datapunkt R) 
+med 0,032 kolonier per m2. Det ble hovedsakelig observert individer av stor piperenser (Funiculina 
+quadrangularis) av varierende størrelser, samt noe forekomst av liten piperenser (Virgularia mirabilis), 
+hanefot (Kophobelemnon stelliferum) og vanlig sjøfjær (Pennatula phosphorea).  
+ 
+Det ble observert spredt forekomst av svamp på stein og fast fjell i undersøkelsesområdet. 
+Skorpedannende svamp, fingerformet svamp og viftesvamp, porøs og bulkeformet svamp hadde 
+høyest tetthet. Høyest samlet tetthet av svamp var 0,54 kolonier per m2 og ble registrert i transekt 8 
+(datapunkt J). 
+ 
+Det ble også observert hydrokoraller og sjøbusk i transekt 8 (datapunkt E) og 9 (datapunkt R) med 
+tetthet på henholdsvis 0,016 og 0,008 kolonier per m2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+14 
+5. Referanser 
+ 
+Gundersen H, Bekkby T, Norderhaug KM, Oug E, Rinde E, Fredriksen F. 2018a. Stortareskog i 
+Norskehavet og Barentshavet - Marint gruntvann. Norsk rødliste for naturtyper 2018. Artsdatabanken, 
+Trondheim. Hentet (11.06.2023) fra: https://artsdatabanken.no/RLN2018/343 
+ 
+Gundersen, H., Bekkby, T., Norderhaug, K. M., Oug, E., Rinde, E. og Fredriksen, F. (2018b). 
+Sukkertareskog i Norskehavet og Barentshavet, Marint gruntvann. Norsk rødliste for naturtyper 2018. 
+Artsdatabanken, Trondheim. Hentet (11.06.2023) fra: https://artsdatabanken.no/RLN2018/344 
+Gundersen, H., Bekkby, T., Norderhaug, K. M., Oug, E., Rinde, E. og Fredriksen, F. (2018c). 
+Fingertarebunn i Norskehavet og Barentshavet, Marint gruntvann. Norsk rødliste for naturtyper 2018. 
+Artsdatabanken, Trondheim. Hentet (11.06.2023) fra: https://artsdatabanken.no/RLN2018/24 
+Gundersen, H., Bekkby, T., Norderhaug, K. M., Oug, E., Rinde, E. og Fredriksen, F. (2018d). Ruglbunn, 
+Marint gruntvann. Norsk rødliste for naturtyper 2018. Artsdatabanken, Trondheim. Hentet 
+(11.06.2023) fra: https://artsdatabanken.no/RLN2018/326  
+Gundersen, H., Bekkby, T., Norderhaug, K. M., Oug, E., Rinde, E. og Fredriksen, F. (2018e). Litt til svært 
+eksponert bergknaus i landstrand, Marint gruntvann. Norsk rødliste for naturtyper 2018. 
+Artsdatabanken, Trondheim. Hentet (11.06.2023) fra: https://artsdatabanken.no/RLN2018/14   
+Kazanidis G, Vad J, Henry L-A, Neat F, Berx B, Georgoulas K, Roberts JM. (2019) Seabed images and 
+corresponding environmental data from deep-sea sponge aggregations in the Faroe-Shetland Channel 
+Nature Conservation Marine Protected Area. PANGEA. https://doi.org/10.1594/PANGAEA.897604 
+ 
+Kutti, T. og Husa, V. (2022) Forslag til metode for kartlegging av sårbare arter og naturtyper på grunt 
+vann (0-50 meters dyp) til søknader om akvakultur i sjø. Kunnskapsleveranse til Fiskeridirektoratet. 
+Rapport fra Havforskningsinstituttet 2022-9. 
+ 
+Kutti T, Husa V. (2021). Forslag til metode for kartlegging av sårbare arter og naturtyper på dypt vann 
+til søknader om akvakultur i sjø. Kunnskapsleveranse til Fiskeridirektoratet. Rapport fra 
+Havforskningen 2021-39. 
+ 
+Mundal, E. A. (2023) Vannstrømmåling ved Sandvika, Nesna kommune, november 2022 – februar 
+2023. Rapportnummer 1880-2-23S levert av Aqua Kompetanse AS.  
+OSPAR (2008-06) List of threatened and/or declining species and habitats (replaces agreement 2004-
+06). Revised in 2021. 
+OSPAR (2008-07) Descriptions of habitats on the OSPAR lists of threatened and/or declining species 
+and habitats (replaces agreement 2004-07). Update 2021. 
+OSPAR (2010a) Background Document for Sea-pen and Burrowing megafauna communities. Updated 
+in 2011. OSPAR Agreement 2008-07. 
+OSPAR (2010b) Background document for Coral gardens. OSPAR Agreement 2008-07. 
+ 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+15 
+OSPAR (2010c) Background document for Deep-sea sponge aggregations. OSPAR Agreement 2008-
+07. 
+ 
+ 
+Vedlegg A – Kartlegging, Sandvika  
+ 
+Kartleggingsfarkost: ROV av typen Aegir 35 fra Ocean Robotics, Eid av Aqua Kompetanse AS. 
+Kartleggingsfartøy: MS Gyda, Eid av Aqua Kompetanse AS 
+Toktleder med mastergrad innen biologi: Gina Almås Gundersen 
+Båtfører og ROV-pilot: Odin Bakken og Magnus Roksvaag. 
+Observasjonslinjene hadde varierende lengde: fra 266 m til ca. 1 km. 
+ 
+Tabell A-1: Dato, start-tid, start-dybde og hovedfunn for kjørelinjer kartlagt med ROV ved Sandvika. Transekter 
+med relativt høy tetthet av sårbare arter som danner naturtyper er markert som Hotspot. 
+Transekt 
+Dato 
+Starttid 
+Startdybde 
+(m) 
+Hovedfunn 
+1 
+19.04.2023 
+12:24 
+205 
+Hotspot. Liten piperenser; stor piperenser; hydrokorall; svamp 
+(gruppe 3) 
+2 
+19.04.2023 
+13:07 
+63 
+Lite funn. Svamp (gruppe 2, 3, 4) 
+3 
+19.04.2023 
+11:33 
+100 
+Piperenser, hanefot; svamp (gruppe 2 og 4). 
+4 
+19.04.2023 
+10:52 
+175 
+Piperenser; hanefot. 
+5 
+19.04.2023 
+09:48 
+97 
+Piperenser og svamp 
+6 
+19.04.2023 
+08:47 
+157 
+Piperenser; svamp (gruppe 1,3 og 4) 
+7 
+19.04.2023 
+13:52 
+292 
+Svamp (gruppe 1 og 3) 
+8 
+19.04.2023 
+14:34 
+271 
+Hotspot. Svamp (gruppe 3); sjøbusk 
+9 
+18.04.2023 
+18:42 
+64 
+Sjøfjær; hydrokorall; svamp (gruppe 1, 3, 4) 
+10 
+18.04.2023 
+17:39 
+139 
+Piperenser; Svamp (gruppe 3) 
+11 
+18.04.2023 
+16:55 
+176 
+Piperenser; hanefot; svamp (gruppe 2, 3, 4) 
+12 
+18.04.2023 
+16:04 
+197 
+Piperenser. Svamp (gruppe 1, 2, 3, 4) 
+13 
+18.04.2023 
+14:57 
+201 
+Hotspot. Piperenser, hanefot og svamp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+16 
+Vedlegg B – Artsliste 
+ 
+ 
+Tabell B-1: Liste over observerte arter, slekter og svampmorfotyper i det kartlagte området ved Sandvika, samt 
+rødlistestatus (Artsdatabanken, 2021). 
+  
+  
+  
+  
+  
+Slekt/art/morfotype 
+  
+Rødlistestatus (artsdatabanken, 2021) 
+  
+  
+  
+  
+Svamp 
+Antho sp. (Gruppe 2) 
+ -  
+Fingerformet (Gruppe 2) 
+ - 
+Geodia sp. (Gruppe 3) 
+ - 
+Hymedesmia sp. (Gruppe 1) 
+ - 
+Massiv (Gruppe 3) 
+ - 
+Porøs bulkeformet (Gruppe 3) 
+ - 
+Rund (Gruppe 3) 
+ - 
+Skorpedannende (Gruppe 1) 
+ - 
+Stilkformet (Gruppe 5) 
+ - 
+Traktformet (Gruppe 4) 
+ - 
+Tykk skålformet (Gruppe 3) 
+ - 
+Tynn vifteformet (Gruppe 4) 
+ - 
+Sjøfjær 
+Funiculina quadrangularis 
+  
+LC 
+  
+Kophobelemnon stelliferum   
+LC 
+  
+Pennatula phosphorea 
+  
+LC 
+  
+Virgularia mirabilis 
+  
+LC 
+Korall 
+Hydrokorall 
+ - 
+  
+Paramuricea placomus 
+  
+LC 
+ 
+ 
+ 
+ 
+Figur B-1: Rødlistekategorier. Kilde: Artsdatabanken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+17 
+Vedlegg C - Bilder 
+ 
+ 
+Figur C-1: Utvalgte bilder fra søkelinje 1. Venstre: Hanefot på bløtbunn. Høyre: Svamp (gruppe 3) på fjellvegg. Foto: Aqua 
+Kompetanse AS. 
+ 
+ 
+ 
+Figur C-2: Utvalgt bilde fra søkelinje 2. Hydrokorall på stein. Foto: Aqua Kompetanse AS. 
+  
+ 
+Figur C-3: Utvalgte bilder fra søkelinje 3. Venstre: svamp (gruppe 4) på stein. Høyre: sjøfjær på bløtbunn. Foto: Aqua 
+Kompetanse AS. 
+ 
+ 
+ 
+Figur C-4: Utvalget bilder fra søkelinje 4. Venstre: Stor piperenser på bløtbunn. Høyre: hanefot på bløtbunn. Foto: Aqua 
+Kompetanse AS. 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+18 
+ 
+Figur C-5: Utvalgte bilder fra søkelinje 5. Venstre: svamp (gruppe 3) på fjellvegg. Høyre: stor piperenser på bløtbunn. Foto: 
+Aqua Kompetanse AS. 
+Figur C-6: Utvalgte bilder fra søkelinje 6. Venstre: svamp (gruppe 3) på stein. Høyre: svamp (gruppe 3) på stein. Foto: Aqua 
+Kompetanse AS. 
+ 
+ 
+Figur C-7: Utvalgt bilde fra søkelinje 7. Svamp (gruppe 1 og 3) på fjellvegg. Foto: Aqua Kompetanse AS. 
+Figur C-8: Utvalgte bilder fra søkelinje 8. Venstre: svamp (gruppe 3). Høyre: sjøbusk på fjellvegg. Foto: Aqua Kompetanse AS. 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+19 
+ 
+Figur C-9: Utvalgte bilder fra søkelinje 9. Venstre: svamp (gruppe 2). Høyre: svamp (gruppe 3). Foto: Aqua Kompetanse AS. 
+ 
+Figur C-10: Utvalgte bilder fra søkelinje 10. Venstre: svamp (gruppe 3) på bløtbunn. Høyre: svamp (gruppe 3) på fjellvegg. 
+Foto: Aqua Kompetanse AS. 
+Figur C-11: Utvalgte bilder fra søkelinje 11. Venstre og høyre: Stor piperenser på bløtbunn. Foto: Aqua Kompetanse AS. 
+Figur C-12: Utvalgte bilder fra søkelinje 12. Venstre: Liten piperenser på bløtbunn. Høyre: svamp (gruppe 3) på blandingsbunn. 
+Foto: Aqua Kompetanse AS. 
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+20 
+ 
+Figur C-13: Utvalgte bilder fra søkelinje 13. Venstre: hanefot på bløtbunn. Høyre: svamp (gruppe 2, 3 og 4). Foto: Aqua 
+Kompetanse AS. 
+ 
+2055-4-23K SANDVIKA 
+ 
+ 
+Vedlegg D – Observert tetthet 
+ 
+Tabell D-1. Transekt T01-T06; datapunkter, koordinat for datapunktene og tetthet for hver observerte art/slekt/svamp-morfotype (Individ/koloni per m2). Datapunkter uten funn er ikke inkludert. 
+ 
+ 
+ 
+ 
+Transekt og 
+datapunkt
+Latitude
+Longitude
+Antho
+ sp.
+Fingerformet
+Funiculina
+ quadrangularis
+Geodia
+ sp.
+Hydrokorall
+Hymedesmia
+ sp.
+Kophobelemnon
+ stelliferum
+Massiv
+Paramuricea 
+placomus
+Pennatula 
+phosphorea
+Porøs 
+bulkeformet
+Rund Skorpedannende Stilkformet Traktformet
+Tykk 
+skålformet
+Tynn 
+vifteformet
+Virgularia 
+mirabilis
+T01A
+66°17.669
+12°52.885
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000 0.000
+0.000
+0.000
+0.000
+0.020
+0.000
+T01B
+66°17.691
+12°52.921
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000 0.000
+0.000
+0.004
+0.000
+0.048
+0.000
+T01C
+66°17.718
+12°52.936
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.068
+0.000
+T01D
+66°17.745
+12°52.944
+0.000
+0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+0.100
+0.000
+0.000
+0.040
+0.028 0.016
+0.000
+0.000
+0.000
+0.044
+0.000
+T01E
+66°17.771
+12°52.952
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T01F
+66°17.798
+12°52.961
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.012
+0.000
+0.000
+0.008
+0.000 0.012
+0.000
+0.000
+0.000
+0.020
+0.000
+T01G
+66°17.821
+12°52.996
+0.000
+0.036
+0.000
+0.000
+0.000
+0.000
+0.000
+0.012
+0.000
+0.000
+0.032
+0.000 0.016
+0.004
+0.000
+0.000
+0.056
+0.000
+T01I
+66°17.860
+12°53.091
+0.000
+0.004
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.008
+0.000
+0.000
+0.000
+0.008
+0.000
+T01J
+66°17.879
+12°53.138
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T01K
+66°17.895
+12°53.192
+0.000
+0.000
+0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T01M
+66°17.927
+12°53.300
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T01N
+66°17.943
+12°53.353
+0.000
+0.000
+0.012
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+T01O
+66°17.960
+12°53.407
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.012
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.020
+T02A
+66°17.608
+12°52.989
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.020
+0.000
+T02B
+66°17.622
+12°53.047
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.020
+0.000
+T03A
+66°17.464
+12°53.272
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T03C
+66°17.507
+12°53.356
+0.012
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T03G
+66°17.598
+12°53.499
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T03H
+66°17.623
+12°53.522
+0.000
+0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.024
+0.000
+T03I
+66°17.650
+12°53.531
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000 0.000
+0.000
+0.000
+0.000
+0.004
+0.000
+T03J
+66°17.677
+12°53.529
+0.000
+0.036
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.036
+0.000 0.000
+0.000
+0.000
+0.000
+0.044
+0.000
+T03K
+66°17.703
+12°53.526
+0.000
+0.028
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.040
+0.000 0.000
+0.000
+0.000
+0.000
+0.060
+0.000
+T03L
+66°17.730
+12°53.510
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.016
+0.000 0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+T03M
+66°17.752
+12°53.497
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+T03N
+66°17.771
+12°53.544
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T03O
+66°17.790
+12°53.592
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T03P
+66°17.809
+12°53.640
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T04B
+66°17.379
+12°53.541
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+0.000
+0.012
+0.000 0.008
+0.000
+0.004
+0.000
+0.032
+0.000
+T04C
+66°17.399
+12°53.587
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+0.008
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T04D
+66°17.419
+12°53.632
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.012
+0.000 0.008
+0.000
+0.000
+0.000
+0.056
+0.000
+T04E
+66°17.439
+12°53.676
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.020
+0.000 0.012
+0.000
+0.000
+0.000
+0.048
+0.000
+T04F
+66°17.465
+12°53.661
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T04G
+66°17.490
+12°53.680
+0.000
+0.040
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.032
+0.000 0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+T04H
+66°17.511
+12°53.720
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.020
+0.000 0.008
+0.000
+0.000
+0.000
+0.024
+0.000
+T04L
+66°17.613
+12°53.808
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.012
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T04N
+66°17.664
+12°53.849
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T04O
+66°17.690
+12°53.870
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T05A
+66°17.212
+12°53.781
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+T05B
+66°17.228
+12°53.835
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+T05C
+66°17.248
+12°53.881
+0.000
+0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.016
+0.000
+T05D
+66°17.268
+12°53.926
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.020
+0.000 0.000
+0.000
+0.000
+0.000
+0.068
+0.000
+T05E
+66°17.289
+12°53.969
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.068
+0.000 0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+T05K
+66°17.442
+12°53.971
+0.000
+0.000
+0.012
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T05L
+66°17.468
+12°53.984
+0.000
+0.012
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.004
+0.000
+0.000
+0.000
+0.012
+0.000
+T05M
+66°17.495
+12°53.996
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T05N
+66°17.522
+12°54.007
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T05P
+66°17.575
+12°54.014
+0.028
+0.020
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.036
+0.000
+T05Q
+66°17.603
+12°54.019
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T05R
+66°17.628
+12°54.021
+0.024
+0.056
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.008
+0.000
+0.000
+0.000
+0.100
+0.000
+T06F
+66°17.234
+12°54.178
+0.000
+0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T06G
+66°17.252
+12°54.228
+0.000
+0.008
+0.000
+0.004
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+0.008
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T06I
+66°17.255
+12°54.361
+0.000
+0.016
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T06L
+66°17.246
+12°54.560
+0.000
+0.000
+0.000
+0.012
+0.000
+0.000
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T06M
+66°17.220
+12°54.580
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.028
+0.000
+0.000
+0.004
+0.000 0.000
+0.000
+0.000
+0.000
+0.028
+0.000
+T06N
+66°17.192
+12°54.604
+0.000
+0.004
+0.000
+0.028
+0.000
+0.000
+0.000
+0.048
+0.000
+0.000
+0.008
+0.000 0.000
+0.000
+0.000
+0.008
+0.056
+0.000
+T06O
+66°17.165
+12°54.625
+0.000
+0.000
+0.000
+0.056
+0.000
+0.020
+0.000
+0.044
+0.000
+0.000
+0.032
+0.000 0.012
+0.004
+0.000
+0.008
+0.076
+0.000
+T06Q
+66°17.130
+12°54.647
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T06T
+66°17.050
+12°54.625
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+2055-4-23K SANDVIKA 
+AQUA KOMPETANSE AS 
+22 
+Tabell D-2.  Transekt T07-T13; datapunkter, koordinat for datapunktene og tetthet for hver observerte art/slekt/svamp-morfotype (Individ/koloni per m2). Datapunkter uten funn er ikke inkludert. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T07A
+66°17.216
+12°54.448
+0.000
+0.020
+0.000
+0.048
+0.000
+0.016
+0.000
+0.096
+0.000
+0.000
+0.056
+0.024 0.040
+0.000
+0.004
+0.008
+0.084
+0.000
+T07B
+66°17.244
+12°54.445
+0.000
+0.044
+0.000
+0.048
+0.000
+0.044
+0.000
+0.048
+0.000
+0.000
+0.020
+0.016 0.048
+0.000
+0.000
+0.012
+0.036
+0.000
+T08A
+66°17.050
+12°54.122
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+T08B
+66°17.067
+12°54.175
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.076
+0.000 0.008
+0.000
+0.000
+0.000
+0.056
+0.000
+T08C
+66°17.083
+12°54.228
+0.000
+0.004
+0.000
+0.024
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.020
+0.004 0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+T08D
+66°17.099
+12°54.284
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.040
+0.000 0.004
+0.000
+0.000
+0.000
+0.016
+0.000
+T08E
+66°17.117
+12°54.334
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.012
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T08F
+66°17.134
+12°54.386
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.012
+0.000
+T08H
+66°17.167
+12°54.491
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+0.000
+0.016
+0.004 0.000
+0.000
+0.000
+0.000
+0.028
+0.000
+T08I
+66°17.183
+12°54.545
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.024
+0.000
+0.000
+0.060
+0.000 0.036
+0.000
+0.000
+0.000
+0.000
+0.000
+T08J
+66°17.200
+12°54.596
+0.000
+0.000
+0.000
+0.024
+0.000
+0.044
+0.000
+0.088
+0.000
+0.000
+0.072
+0.000 0.112
+0.000
+0.000
+0.024
+0.112
+0.000
+T08L
+66°17.217
+12°54.649
+0.000
+0.048
+0.000
+0.016
+0.000
+0.048
+0.000
+0.024
+0.000
+0.000
+0.024
+0.000 0.080
+0.000
+0.000
+0.000
+0.112
+0.000
+T08M
+66°17.234
+12°54.702
+0.000
+0.004
+0.000
+0.000
+0.000
+0.016
+0.000
+0.016
+0.000
+0.000
+0.012
+0.000 0.036
+0.000
+0.000
+0.000
+0.004
+0.000
+T09A
+66°17.328
+12°53.732
+0.000
+0.000
+0.000
+0.012
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+T09B
+66°17.348
+12°53.688
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T09C
+66°17.368
+12°53.644
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+T09D
+66°17.389
+12°53.599
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.012
+0.000
+0.000
+0.000
+0.020
+0.000
+T09E
+66°17.409
+12°53.555
+0.000
+0.008
+0.000
+0.000
+0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000 0.008
+0.000
+0.000
+0.000
+0.040
+0.000
+T09F
+66°17.429
+12°53.510
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.012
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T09J
+66°17.511
+12°53.334
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T09Q
+66°17.653
+12°53.024
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.024
+0.000
+0.000
+0.004
+0.004 0.000
+0.000
+0.000
+0.004
+0.032
+0.000
+T09R
+66°17.673
+12°52.980
+0.000
+0.008
+0.000
+0.000
+0.008
+0.000
+0.000
+0.004
+0.000
+0.000
+0.008
+0.000 0.004
+0.000
+0.000
+0.000
+0.024
+0.000
+T10A
+66°17.348
+12°53.863
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T10B
+66°17.368
+12°53.819
+0.000
+0.008
+0.004
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+T10D
+66°17.409
+12°53.730
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T10E
+66°17.429
+12°53.686
+0.000
+0.000
+0.000
+0.060
+0.000
+0.000
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000 0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+T10G
+66°17.470
+12°53.599
+0.000
+0.024
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.020
+0.000
+T10H
+66°17.490
+12°53.555
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T10N
+66°17.612
+12°53.289
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T10R
+66°17.693
+12°53.114
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.020
+0.000
+0.000
+0.000
+0.020
+0.000
+T10S
+66°17.714
+12°53.069
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+T11A
+66°17.386
+12°53.970
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.016
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T11B
+66°17.406
+12°53.926
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.004
+0.000
+0.016
+0.000
+T11D
+66°17.448
+12°53.838
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T11E
+66°17.468
+12°53.793
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T11F
+66°17.488
+12°53.750
+0.000
+0.004
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T11J
+66°17.570
+12°53.573
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T11O
+66°17.671
+12°53.352
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T11P
+66°17.692
+12°53.309
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T11Q
+66°17.712
+12°53.264
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T11R
+66°17.733
+12°53.221
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T12A
+66°17.427
+12°54.073
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T12B
+66°17.447
+12°54.030
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T12D
+66°17.488
+12°53.942
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.012
+0.000 0.012
+0.000
+0.000
+0.000
+0.004
+0.000
+T12K
+66°17.631
+12°53.634
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T12L
+66°17.652
+12°53.590
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T12M
+66°17.672
+12°53.545
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.012
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T12N
+66°17.693
+12°53.502
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T12R
+66°17.775
+12°53.327
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T12S
+66°17.794
+12°53.285
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T13A
+66°17.483
+12°54.147
+0.000
+0.000
+0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T13C
+66°17.524
+12°54.058
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+T13F
+66°17.586
+12°53.929
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000 0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+T13I
+66°17.647
+12°53.798
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T13J
+66°17.668
+12°53.755
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T13K
+66°17.688
+12°53.709
+0.000
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T13L
+66°17.709
+12°53.667
+0.000
+0.000
+0.008
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T13M
+66°17.729
+12°53.624
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T13N
+66°17.750
+12°53.581
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T13O
+66°17.770
+12°53.538
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T13P
+66°17.791
+12°53.493
+0.000
+0.000
+0.004
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+T13Q
+66°17.811
+12°53.449
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.016
+T13R
+66°17.828
+12°53.413
+0.000
+0.000
+0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000 0.000
+0.000
+0.000
+0.000
+0.000
+0.016

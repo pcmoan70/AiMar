@@ -1,0 +1,209 @@
+﻿Rev. C
+Design Data - Havlandet Settefisk FTS
+Sist oppd: 26.06.24
+System
+Karstørrelser (m3)
+Antall kar 
+per avd
+Oppdrettsvolum per 
+avd (m3)
+Max. flow per kar 
+(m3/h)
+Max. flow i avd. 
+(m3/h)
+Oppholdstid (min)
+Max. flow per kar 
+(l/min)
+Max. flow i avd. 
+(l/min)
+Max. flow per kar 
+(l/sek)
+Max. flow i avd. 
+(l/sek)
+Avdeling / Systemtype
+Inn
+Ut
+Avd. 1 / FTS
+2
+20
+180
+8
+1 440
+196
+1 571
+55
+3273
+26 182
+55
+436
+Avd. 2 / FTS
+20
+45
+750
+3
+2 250
+818
+2 455
+55
+13636
+40 909
+227
+682
+Avd. 3 / FTS
+45
+120
+1200
+3
+3 600
+1309
+3 927
+55
+21818
+65 455
+364
+1 091
+Avd. 4 / FTS
+120
+300
+3400
+2
+6 800
+3709
+7 418
+55
+61818
+123 636
+1 030
+2 061
+Total
+16
+14 090
+15 371
+256 182
+4 270
+System
+Dimensjonerende 
+ant. fisk per avd
+Ant. fisk per kar
+Max tetthet 
+(kg/m3)
+Foringsrate start (% 
+av kroppsvekst)
+Foringsrate slutt 
+(% av kroppsvekt)
+Fôring start 
+(kg/dag/avd)
+Max. foring per 
+avd (kg/dag/avd)
+Temperatur (°C)
+Salinitet (ppt.)
+Max. CO2 (mg/L)
+Max TAN (mg/L)
+Max. nitrat (mg/L)
+Avd. 1 / FTS
+2 000 000
+250 000
+28
+6 %
+3,50 %
+240
+1 400
+Hav temp.
+36
+15
+2,0
+150
+Avd. 2 / FTS
+1 900 000
+633 333
+38,0
+3,5 %
+3,20 %
+1330
+2 736
+Hav temp.
+36
+15
+2,0
+150
+Avd. 3 / FTS
+1 800 000
+600 000
+60
+3,2 %
+2,70 %
+2592
+5 832
+Hav temp.
+36
+15
+2,0
+150
+Avd. 4 / FTS
+1 700 000
+850 000
+75
+2,7 %
+2,00 %
+5508
+10 200
+Hav temp.
+36
+15
+2,0
+150
+Total
+20 168
+System
+Diameter kar (m) Diameter bunn (m)
+Fall bunn (deg)
+Ratio
+Dybde (H1) (m)
+Dybde (H2) (m)
+Dybde (H3) (m)
+Volum (m3)
+Avd. 1 / FTS
+9,0
+0,6
+5
+3,00
+3,1
+2,6
+3,00
+180
+Avd. 2 / FTS
+14,6
+1,0
+5
+3,00
+4,8
+4,3
+4,85
+750
+Avd. 3 / FTS
+17,0
+1,5
+5
+3,00
+5,5
+5,0
+5,67
+1200
+Avd. 4 / FTS
+28,0
+2,0
+5,0
+4,4
+5,7
+5,2
+6,36
+3400
+Total
+Kar-design
+Fiskestørrelser (g)
+Fisk og fôr
+Dimensjonerende nøkkeltall
+Nøkkeltall og oppdrettsvolum
+Vannutskiftning. pr. time
+Vannutskiftning. pr. min.
+Vannutskiftning. pr. sek.

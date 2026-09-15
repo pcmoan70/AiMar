@@ -1,0 +1,2660 @@
+﻿441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+                       
+Vannstrømmåling ved
+utslippspunkt, Naustholmen, 
+Lurøy kommune,
+september - desember 2021
+Nova Sea AS
+  Etter Norsk Standard NS 9425-2:2003
+   AQUA KOMPETANSE AS
+2021
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+1
+Rapportens tittel:
+Vannstrømmåling ved utslippspunkt, Naustholmen, Lurøy kommune, september - desember 2021
+Måleperiode:
+27.09.–30.12.2021
+Rapportdato: 13.01.2022
+Rapportnummer: 441-9-21S
+Antall sider uten vedlegg: 31
+Antall sider totalt: 32
+Oppdragsgiver:
+Nova Sea AS
+Kontaktperson:
+Maren Elise Nyberg
+Prosjektleder:
+Karen Fosse Sivertsen
+Lokalitet: Utslippspunkt, Naustholmen
+Kommune: Lurøy
+Fylke: Nordland
+Instrumenttype:
+1 Aquadopp Profiler
+Dybde målested:
+ca. 43 meter
+Koordinater for instrumentrigg:
+66°21.991 N, 12°24.081 Ø
+Resultatoversikt
+10 meter
+20 meter
+30 meter
+37 meter
+Gjennomsnitt (cm/s):
+8.9
+7.4
+6.2
+5.3
+Maksimalhastighet (cm/s):
+40.0
+33.9
+32.8
+23.6
+Minimumshastighet (cm/s):
+0.1
+0.1
+0.0
+0.1
+Varians (cm2/s2):
+24.6
+19.6
+14.7
+9.5
+Strømstyrke 0-1 cm/s (%):
+1.0
+1.7
+2.8
+3.5
+10-års strøm, beregnet:
+66.0
+56.0
+-
+-
+50-års strøm, beregnet:
+74.0
+62.8
+-
+-
+Hovedstrømretning:
+nordøst
+nordøst
+nordøst
+nordøst
+ID 415-18
+Emneord:
+havstrøm, vannstrøm, landanlegg, slakteri, inntakspunkt, utslippspunkt, 
+Aquadopp Profiler, doppler
+Rapporten er tilgjengelig ved 
+forespørsel
+Rapportansvarlig:
+Katrine Hiorth
+Kvalitetssikrer:
+Karen Fosse Sivertsen
+Aqua Kompetanse AS
+Storlavika 7
+7770 Flatanger
+Mobil: 905 16 947
+E-post: post@aqua-kompetanse.no
+Internett: www.aqua-kompetanse.no
+Bankgiro: 4400.07.25541
+Org.nr.: 982 226 163
+© 2022 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+2
+Innhold
+Innledning..........................................................................................................................................................3
+Materiale og metode.........................................................................................................................................5
+Kort vurdering....................................................................................................................................................6
+Resultater ..........................................................................................................................................................6
+Tidsserie - strømhastighet .............................................................................................................................7
+Tidsserie - strømretning ................................................................................................................................9
+Strømrose - gjennomsnittlig strømhastighet...............................................................................................11
+Strømrose - maksimal strømhastighet ........................................................................................................13
+Histogram - strømhastighet.........................................................................................................................15
+Histogram - strømretning............................................................................................................................17
+Spredningsdiagram - strømretning og -hastighet........................................................................................19
+Strømrose - vanntransport (fluks) ...............................................................................................................21
+Vektor - progressiv vektor ...........................................................................................................................23
+Sensorer - trykk registrert av instrument ....................................................................................................25
+Sensorer - instrumenthelning (tilt)..............................................................................................................25
+Sensorer - sjøtemperatur ............................................................................................................................26
+Tabell - retning med returperiode...............................................................................................................27
+Tabell - matrise med retnings- og hastighetsgrupper .................................................................................28
+Vedlegg A - riggtegning....................................................................................................................................32
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+3
+Innledning
+Aqua Kompetanse AS har på oppdrag fra Nova Sea AS utført strømundersøkelser ved foreslått utslippspunkt 
+til planlagt nytt slakteri Naustholmen på Lovund i Lurøy kommune (Figur 1 og 2). Det er også utført 
+strømundersøkelser ved foreslått inntakspunkt til slakteriet, se rapport «440-9-21S Inntakspunkt, 
+Naustholmen»1. Aqua Kompetanse har tidligere levert et notat med vurdering av alternative inntaks- og 
+utslippspunkt for slakteriet, og strømundersøkelsen er en oppfølging av anbefalingene i dette notatet, se 
+notat «238-6-21N Lovund»2.  Aqua Kompetanse har stått for instrumentutsett, kvalitetssikring av data samt 
+rapportering. Rapporten presenterer en oppsummering av resultatene fra strømmålingene, og er bygd på 
+forutsetningen om at leseren studerer følgende data og figurer nøye. Strømmålingene ble foretatt i perioden 
+27.09.–30.12.2021. Rådata finnes oppbevart hos Aqua Kompetanse AS, og er tilgjengelig ved forespørsel.
+Figur 1: Oversiktskart over deler av Lurøy kommune. Innrammet kartutsnitt i rødt viser undersøkelsesområdet ved 
+slakteriet Naustholmen. Målestokk vises øverst i figuren. Kartkilde: Olex.
+1 Hiorth, K. (2022) Vannstrømmåling ved inntakspunkt, Naustholmen, Lurøy kommune, september – oktober 2021. 
+Rapportnummer: 440-9-21S, levert av Aqua Kompetanse AS.
+2 Sivertsen, K. F. (2021) Bakgrunn for anbefalt inntak- og utslippspunkt for planlagt slakteri ved Lovund for Nova Sea. 
+Notatnummer: 238-6-21N, levert av Aqua Kompetanse AS.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+4
+Figur 2: Undersøkelsesområdet ved slakteriet Naustholmen på Lovund. Foreslått posisjon for inntaks- og utslippspunkt 
+til slakteriet, som også refererer til posisjon for strømriggene, er markert med grønne kryss. Målestokk vises øverst i 
+figuren. Kartkilde: Olex.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+5
+Materiale og metode
+Strømmålingene ved foreslått utslippspunkt til planlagt nytt slakteri Naustholmen er gjennomført i henhold 
+til NS 9425-2:2003. For å måle vannstrøm er det benyttet en 400 kHz akustisk strømmåler produsert av 
+Nortek AS. Den akustiske måleren bruker dopplerskift for å beregne strømhastighet og -retning, og refereres 
+ofte til som en dopplermåler. Instrumentet er montert på 42 meters dyp pekende oppover i en bunnforankret 
+rigg (se Vedlegg A for riggtegning). Det er omtrent 43 meter dypt på målestedet. Måleren registrerer i 1 
+minutt og 40 sekunder sammenhengende og hviler i 8 minutter og 20 sekunder. Måleren har et 
+instrumentoppsett på 25 celler × 2 meter som gir en rekkevidde på 50 meter. 
+Tabell 1: Informasjon om oppsett, instrument-ID og måletidspunkt.
+Parametere
+AQK37
+Målertype
+Aquadopp Profiler
+Målernummer
+AQK37
+Hode-ID / Kort-ID
+AQP 10829 / AQD16234
+Frekvens (kHz)
+400
+Måleretning
+Opp
+Måleintervall (s)
+600
+Midlingsperiode (s)
+100
+Målebelastning (%)
+100
+Antall celler (#)
+25
+Cellestørrelse (m)
+2
+Blindsone (m)
+1
+Instrumentdyp (m)
+41.9
+Tidsrom for gyldige registreringer
+27.09.2021 14.20 - 30.12.2021 10.50
+Strømmålingene er gjennomført i forbindelse med etablering av nytt inntaks- og utslippspunkt til slakteriet 
+Naustholmen. Strømmålinger, sammen med hydrografimålinger og batymetri, brukes for å vurdere 
+plassering av punktene. Ved utslippspunktet er det hentet ut vannstrøm på 10, 20, 30 og 37 meters dyp for 
+å kunne vurdere en større del av vannsøylen. Vannstrøm på 30 og 37 meters dyp representerer strøm i 
+planlagt utslippsdyp. Det er i tillegg hentet ut strøm fra grunnere dyp, 10 og 20 meters dyp, med tanke på 
+potensiell innlagring av utslippet.
+Det er foretatt en manuell og automatisk kvalitetskontroll av datasettet med programvarene SeaReport og 
+Storm. Datasettene er av god kvalitet, men 4 situasjoner med korrupt data er manuelt fjernet i datasettet fra 
+37 meters dyp (Tabell 2).
+Tabell 2: Data manuelt fjernet i vannstrømmålingen ved foreslått utslippspunkt til Naustholmen.
+Start
+Slutt
+Kommentarer
+02.10.2021 13:08:22
+02.10.2021 13:13:28
+Korrupt måling, 37 meters dyp
+11.10.2021 09:06:14
+11.10.2021 09:13:33
+Korrupt måling, 37 meters dyp
+22.10.2021 19:57:05
+22.10.2021 20:16:55
+Korrupt måling, 37 meters dyp
+03.11.2021 05:26:04
+03.11.2021 05:33:57
+Korrupt måling, 37 meters dyp
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+6
+Kort vurdering
+Vannstrømmen i foreslått utslippspunkt veksler med tidevannet og følger batymetriens orientering i 
+målepunktet. Størst vanntransport registreres mot nordøst i alle undersøkte dyp. 
+Resultater
+I denne måleserien fra foreslått utslippspunkt til Naustholmen er gjennomsnittlig vannstrøm 8.9, 7.4, 6.2 og 
+5.3 cm/s på 10, 20, 30 og 37 meters dyp, og maksimalhastigheten er henholdsvis 40.0, 33.9, 32.8 og 23.6 
+cm/s. Det er registrert lite strømstille i måleperioden på alle undersøkte dyp.
+Undersøkelsesområdet ved Naustholmen er lokalisert i Lovundvika, et sund som strekker seg i nordøst-
+sørvestlig retning mellom Lovundværet og Solværøyene. Øst for slakteriet på Naustholmen er det en 
+undersjøisk bukt, med grunnere partier i nord, vest og sør, mens mot øst skråner havbunnen nedover til 
+sundet Lovundvika. Selve måleposisjonen ligger nord i denne undersjøiske bukten, hvor batymetrien har en 
+nordøst-sørvestlig retning. 
+Vannstrømmen i alle undersøkte dyp ved utslippspunktet veksler med tidevannet og følger batymetriens 
+orientering i målepunktet. Størst vanntransport i alle undersøkte dyp er rettet mot nordøst. Vannstrømmen 
+i nederste del av vannsøylen, på 30 og 37 meters dyp, har i tillegg en sekundærkomponent mot sør-sørvest. 
+Vannstrømmen i øvre del av vannsøylen, på 10 og 20 meters dyp, er forholdsvis ensrettet mot nordøst. 
+Nedenfor presenteres tabeller og figurer med statistikk og resultater.
+Tabell 3: Statistikk
+Parametere
+10 meter
+20 meter
+30 meter
+37 meter
+Gyldige målinger/totalt (#)
+13513/13516
+13516/13516
+13516/13516
+13511/13516
+Gjennomsnittsstrøm (cm/s)
+8.9
+7.4
+6.2
+5.3
+Maksimalstrøm (cm/s)
+40.0
+33.9
+32.8
+23.6
+Minimumstrøm (cm/s)
+0.1
+0.1
+0.0
+0.1
+Strømstyrke 0-1 cm/s (%)
+1.0
+1.7
+2.8
+3.5
+Strømstyrke 1-3 cm/s (%)
+7.7
+12.0
+17.2
+22.3
+Neumann-parameter
+0.61
+0.41
+0.30
+0.18
+Standardavvik (cm/s)
+5.0
+4.4
+3.8
+3.1
+Varians (cm2/s2)
+24.6
+19.6
+14.7
+9.5
+Signifikant maksimum 
+strømhastighet (cm/s)
+14.5
+12.4
+10.5
+8.8
+Signifikant minimum 
+strømhastighet (cm/s)
+4.0
+3.2
+2.6
+2.2
+10 års returstrøm (cm/s)
+66.0
+56.0
+-
+-
+50 års returstrøm (cm/s)
+74.0
+62.8
+-
+-
+De 4 hyppigst forekommende 
+strømretningsgruppene (°)
+30 - 45
+15 - 30
+45 - 60
+0 - 15
+30 - 45
+45 - 60
+15 - 30
+0 - 15
+30 - 45
+15 - 30
+45 - 60
+0 - 15
+15 - 30
+30 - 45
+45 - 60
+0 - 15
+De 4 hyppigst forekommende 
+strømhastighetsgruppene (cm/s)
+5 - 7
+7 - 9
+9 - 11
+3 - 5
+5 - 7
+3 - 5
+7 - 9
+1 - 3
+3 - 5
+5 - 7
+1 - 3
+7 - 9
+3 - 5
+1 - 3
+5 - 7
+7 - 9
+Mest vannutskiftning / retning / 
+15° sektor
+1647 m3/m2 per 
+dag ved 30 - 45
+1085 m3/m2 per 
+dag ved 30 - 45
+620 m3/m2 per 
+dag ved 30 - 45
+360 m3/m2 per 
+dag ved 45 - 60
+Minst vannutskiftning / retning / 
+15° sektor
+28 m3/m2 per dag 
+ved 120 - 135
+46 m3/m2 per dag 
+ved 120 - 135
+40 m3/m2 per dag 
+ved 135 - 150
+54 m3/m2 per dag 
+ved 135 - 150
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+7
+Tidsserie - strømhastighet
+Figur 3: Vannstrømhastighet (cm/s) på 10 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–
+30.12.2021.
+Figur 4: Vannstrømhastighet (cm/s) på 20 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–
+30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+8
+Figur 5: Vannstrømhastighet (cm/s) på 30 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–
+30.12.2021.
+Figur 6: Vannstrømhastighet (cm/s) på 37 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–
+30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+9
+Tidsserie - strømretning
+Figur 7: Vannstrømretning (°) på 10 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021. 
+Oppgis som retningen vannstrømmen beveger seg mot.
+Figur 8: Vannstrømretning (°) på 20 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021. 
+Oppgis som retningen vannstrømmen beveger seg mot.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+10
+Figur 9: Vannstrømretning (°) på 30 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021. 
+Oppgis som retningen vannstrømmen beveger seg mot.
+Figur 10: Vannstrømretning (°) på 37 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–
+30.12.2021. Oppgis som retningen vannstrømmen beveger seg mot.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+11
+Strømrose - gjennomsnittlig strømhastighet
+Figur 11: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 10 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021.
+Figur 12: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 20 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+12
+Figur 13: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 30 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021.
+Figur 14: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 37 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+13
+Strømrose - maksimal strømhastighet
+Figur 15: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 10 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021.
+Figur 16: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 20 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+14
+Figur 17: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 30 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021.
+Figur 18: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 37 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+15
+Histogram - strømhastighet
+Figur 19: Frekvensfordeling av vannstrømhastighet på 10 meters dyp ved foreslått utslippspunkt til Naustholmen i 
+perioden 27.09.–30.12.2021.
+Figur 20: Frekvensfordeling av vannstrømhastighet på 20 meters dyp ved foreslått utslippspunkt til Naustholmen i 
+perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+16
+Figur 21: Frekvensfordeling av vannstrømhastighet på 30 meters dyp ved foreslått utslippspunkt til Naustholmen i 
+perioden 27.09.–30.12.2021.
+Figur 22: Frekvensfordeling av vannstrømhastighet på 37 meters dyp ved foreslått utslippspunkt til Naustholmen i 
+perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+17
+Histogram - strømretning
+Figur 23: Frekvensfordeling av vannstrømretning for hver 15° sektor på 10 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021. Oppgis som retningen vannstrømmen beveger seg mot.
+Figur 24: Frekvensfordeling av vannstrømretning for hver 15° sektor på 20 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021. Oppgis som retningen vannstrømmen beveger seg mot.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+18
+Figur 25: Frekvensfordeling av vannstrømretning for hver 15° sektor på 30 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021. Oppgis som retningen vannstrømmen beveger seg mot.
+Figur 26: Frekvensfordeling av vannstrømretning for hver 15° sektor på 37 meters dyp ved foreslått utslippspunkt til 
+Naustholmen i perioden 27.09.–30.12.2021. Oppgis som retningen vannstrømmen beveger seg mot.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+19
+Spredningsdiagram - strømretning og -hastighet
+Figur 27: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 10 meters dyp 
+ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+Figur 28: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 20 meters dyp 
+ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+20
+Figur 29: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 30 meters dyp 
+ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+Figur 30: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 37 meters dyp 
+ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+21
+Strømrose - vanntransport (fluks)
+Figur 31: Vanntransport (m³/m²/dag) for hver 15° sektor på 10 meters dyp ved foreslått utslippspunkt til Naustholmen i 
+perioden 27.09.–30.12.2021.
+Figur 32: Vanntransport (m³/m²/dag) for hver 15° sektor på 20 meters dyp ved foreslått utslippspunkt til Naustholmen i 
+perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+22
+Figur 33: Vanntransport (m³/m²/dag) for hver 15° sektor på 30 meters dyp ved foreslått utslippspunkt til Naustholmen i 
+perioden 27.09.–30.12.2021.
+Figur 34: Vanntransport (m³/m²/dag) for hver 15° sektor på 37 meters dyp ved foreslått utslippspunkt til Naustholmen i 
+perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+23
+Vektor - progressiv vektor
+Figur 35: Progressiv vektor på 10 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+Figur 36: Progressiv vektor på 20 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+24
+Figur 37: Progressiv vektor på 30 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+Figur 38: Progressiv vektor på 37 meters dyp ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+25
+Sensorer - trykk registrert av instrument
+Figur 39: Trykk (dBar) i instrumentdypet ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+Sensorer - instrumenthelning (tilt)
+Figur 40: Instrumenthelning (°) ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+26
+Sensorer - sjøtemperatur
+Figur 41: Temperatur i instrumentdypet ved foreslått utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021.
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+27
+Tabell - retning med returperiode
+Tabell 4: Retning med returperiode for vannstrøm på 10 meters dyp. Strømhastighetene er oppgitt i m/s.
+Retning
+Gjennomsnitt
+Maksimal
+Snitt 10 år
+Maks 10 år
+Snitt 50 år
+Maks 50 år
+0
+0.092
+0.335
+0.152
+0.552
+0.170
+0.619
+45
+0.110
+0.400
+0.182
+0.660
+0.204
+0.740
+90
+0.066
+0.222
+0.109
+0.367
+0.122
+0.411
+135
+0.049
+0.202
+0.081
+0.333
+0.091
+0.374
+180
+0.066
+0.195
+0.109
+0.321
+0.122
+0.360
+225
+0.076
+0.211
+0.125
+0.348
+0.140
+0.391
+270
+0.064
+0.183
+0.105
+0.302
+0.118
+0.339
+315
+0.057
+0.171
+0.094
+0.283
+0.106
+0.317
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+28
+Tabell - matrise med retnings- og hastighetsgrupper
+Tabell 5: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 10 meters dyp ved foreslått 
+utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021. Antall målinger og prosent av antall målinger, samt fluks 
+(m3/m2/døgn) og prosentvis fluks for hver 15° sektor er presentert.
+10 meter
+antall målinger
+fluks
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+%
+m3/m2/døgn
+%
+0
+7
+24
+36
+55
+88
+104
+240
+224
+356
+114
+24
+6
+0
+0
+1278
+9.46
+767.1
+9.94
+15
+4
+23
+41
+55
+68
+123
+263
+348
+630
+252
+105
+29
+0
+0
+1941
+14.36
+1365.3
+17.7
+30
+1
+16
+39
+47
+84
+107
+281
+358
+798
+341
+89
+60
+0
+0
+2221
+16.44
+1647.2
+21.35
+45
+7
+18
+38
+44
+71
+100
+223
+257
+597
+202
+41
+26
+0
+0
+1624
+12.02
+1111.3
+14.41
+60
+8
+10
+26
+47
+65
+49
+135
+126
+210
+46
+7
+1
+0
+0
+730
+5.4
+407.9
+5.29
+75
+6
+15
+20
+39
+33
+33
+56
+45
+49
+4
+1
+0
+0
+0
+301
+2.23
+128.2
+1.66
+90
+6
+20
+23
+25
+25
+18
+24
+18
+7
+0
+0
+0
+0
+0
+166
+1.23
+50.5
+0.65
+105
+1
+5
+28
+20
+13
+15
+32
+10
+12
+0
+0
+0
+0
+0
+136
+1.01
+47.5
+0.62
+120
+3
+9
+17
+16
+16
+13
+16
+4
+3
+0
+0
+0
+0
+0
+97
+0.72
+27.8
+0.36
+135
+4
+11
+12
+27
+14
+24
+14
+11
+7
+0
+1
+0
+0
+0
+125
+0.93
+41
+0.53
+150
+8
+13
+19
+18
+15
+16
+21
+15
+9
+1
+0
+0
+0
+0
+135
+1
+44.5
+0.58
+165
+9
+19
+20
+22
+22
+14
+15
+12
+13
+4
+0
+0
+0
+0
+150
+1.11
+48.7
+0.63
+180
+4
+11
+18
+21
+24
+25
+33
+41
+44
+5
+0
+0
+0
+0
+226
+1.67
+100.7
+1.31
+195
+1
+12
+22
+20
+30
+31
+59
+60
+84
+23
+0
+0
+0
+0
+342
+2.53
+178.7
+2.32
+210
+2
+10
+24
+31
+39
+40
+56
+71
+78
+19
+1
+0
+0
+0
+371
+2.75
+183.6
+2.38
+225
+6
+12
+29
+22
+36
+36
+73
+63
+81
+9
+0
+0
+0
+0
+367
+2.72
+174.5
+2.26
+240
+10
+16
+17
+38
+24
+37
+73
+52
+60
+2
+1
+0
+0
+0
+330
+2.44
+143.9
+1.87
+255
+5
+21
+33
+45
+36
+42
+76
+41
+70
+6
+0
+0
+0
+0
+375
+2.78
+158.5
+2.05
+270
+4
+21
+19
+33
+41
+39
+74
+43
+33
+2
+0
+0
+0
+0
+309
+2.29
+121.4
+1.57
+285
+6
+17
+28
+47
+42
+33
+63
+39
+25
+0
+0
+0
+0
+0
+300
+2.22
+110.1
+1.43
+300
+5
+23
+30
+36
+49
+44
+54
+35
+21
+1
+0
+0
+0
+0
+298
+2.21
+104.5
+1.35
+315
+8
+22
+28
+55
+56
+49
+87
+44
+29
+3
+0
+0
+0
+0
+381
+2.82
+140.1
+1.82
+330
+9
+20
+44
+44
+60
+70
+95
+79
+68
+7
+0
+0
+0
+0
+496
+3.67
+208.2
+2.7
+345
+7
+21
+44
+74
+62
+79
+166
+154
+177
+24
+6
+0
+0
+0
+814
+6.02
+403
+5.22
+SUM (#)
+131
+389
+655
+881
+1013
+1141
+2229
+2150
+3461
+1065
+276
+122
+0
+0
+13513
+100
+7714.2
+100
+SUM (%)
+0.97
+2.88
+4.85
+6.52
+7.5
+8.44
+16.5
+15.91
+25.61
+7.88
+2.04
+0.9
+0
+0
+100
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+29
+Tabell 6: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 20 meters dyp ved foreslått 
+utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021. Antall målinger og prosent av antall målinger, samt fluks 
+(m3/m2/døgn) og prosentvis fluks for hver 15° sektor er presentert.
+20 meter
+antall målinger
+fluks
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+%
+m3/m2/døgn
+%
+0
+12
+32
+72
+77
+81
+118
+201
+165
+150
+18
+2
+0
+0
+0
+928
+6.87
+413.9
+6.43
+15
+9
+37
+73
+79
+109
+117
+272
+209
+314
+83
+18
+9
+0
+0
+1329
+9.83
+718.1
+11.16
+30
+7
+25
+58
+78
+84
+104
+293
+254
+468
+177
+80
+25
+0
+0
+1653
+12.23
+1085.3
+16.87
+45
+18
+19
+63
+87
+87
+117
+220
+220
+376
+162
+47
+5
+0
+0
+1421
+10.51
+866.9
+13.47
+60
+7
+22
+52
+62
+74
+82
+160
+133
+222
+79
+14
+4
+0
+0
+911
+6.74
+507.7
+7.89
+75
+6
+27
+46
+57
+47
+44
+88
+82
+92
+25
+2
+0
+0
+0
+516
+3.82
+238
+3.7
+90
+12
+33
+33
+44
+42
+39
+51
+25
+25
+3
+0
+0
+0
+0
+307
+2.27
+103.7
+1.61
+105
+5
+25
+28
+32
+30
+27
+38
+17
+6
+1
+0
+0
+0
+0
+209
+1.55
+64.1
+1
+120
+8
+17
+26
+23
+31
+19
+20
+13
+5
+0
+0
+0
+0
+0
+162
+1.2
+46.4
+0.72
+135
+15
+28
+29
+37
+27
+9
+34
+11
+1
+1
+0
+0
+0
+0
+192
+1.42
+49.3
+0.77
+150
+3
+26
+29
+34
+26
+18
+31
+14
+7
+2
+0
+0
+0
+0
+190
+1.41
+57.5
+0.89
+165
+8
+14
+29
+17
+32
+27
+45
+20
+18
+1
+0
+0
+0
+0
+211
+1.56
+75.3
+1.17
+180
+6
+28
+27
+46
+33
+53
+63
+52
+58
+11
+2
+0
+0
+0
+379
+2.8
+162.3
+2.52
+195
+11
+13
+35
+40
+48
+61
+90
+87
+117
+20
+1
+0
+0
+0
+523
+3.87
+255.9
+3.98
+210
+11
+22
+29
+53
+46
+60
+117
+82
+137
+16
+2
+0
+0
+0
+575
+4.25
+278.2
+4.32
+225
+7
+24
+40
+54
+57
+60
+104
+86
+82
+5
+1
+0
+0
+0
+520
+3.85
+223.1
+3.47
+240
+11
+21
+31
+61
+45
+56
+88
+65
+45
+6
+1
+0
+0
+0
+430
+3.18
+171.1
+2.66
+255
+10
+25
+40
+56
+52
+50
+85
+47
+41
+2
+0
+0
+0
+0
+408
+3.02
+150.9
+2.35
+270
+11
+29
+35
+50
+42
+79
+79
+39
+26
+4
+0
+0
+0
+0
+394
+2.92
+141
+2.19
+285
+9
+30
+41
+54
+56
+35
+79
+32
+18
+0
+0
+0
+0
+0
+354
+2.62
+116.9
+1.82
+300
+12
+32
+50
+51
+55
+37
+86
+48
+21
+0
+0
+0
+0
+0
+392
+2.9
+133.2
+2.07
+315
+7
+22
+46
+48
+50
+57
+79
+50
+25
+3
+0
+0
+0
+0
+387
+2.86
+139.4
+2.17
+330
+11
+21
+61
+61
+62
+58
+99
+59
+35
+2
+0
+0
+0
+0
+469
+3.47
+170.8
+2.65
+345
+10
+26
+46
+62
+76
+107
+146
+113
+63
+7
+0
+0
+0
+0
+656
+4.85
+265.8
+4.13
+SUM (#)
+226
+598
+1019
+1263
+1292
+1434
+2568
+1923
+2352
+628
+170
+43
+0
+0
+13516
+100
+6434.8
+100
+SUM (%)
+1.67
+4.42
+7.54
+9.34
+9.56
+10.61
+19
+14.23
+17.4
+4.65
+1.26
+0.32
+0
+0
+100
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+30
+Tabell 7: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 30 meters dyp ved foreslått 
+utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021. Antall målinger og prosent av antall målinger, samt fluks 
+(m3/m2/døgn) og prosentvis fluks for hver 15° sektor er presentert.
+30 meter
+antall målinger
+fluks
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+%
+m3/m2/døgn
+%
+0
+16
+52
+80
+114
+106
+109
+208
+127
+108
+21
+1
+0
+0
+0
+942
+6.97
+384.2
+7.14
+15
+16
+43
+73
+114
+114
+114
+269
+189
+188
+47
+4
+0
+0
+0
+1171
+8.66
+540.9
+10.04
+30
+18
+46
+92
+97
+110
+141
+229
+179
+256
+61
+16
+6
+0
+0
+1251
+9.26
+620.3
+11.52
+45
+18
+38
+61
+99
+110
+99
+183
+140
+192
+66
+15
+11
+0
+0
+1032
+7.64
+526.2
+9.77
+60
+17
+45
+47
+72
+66
+68
+142
+116
+144
+40
+4
+0
+0
+0
+761
+5.63
+360.1
+6.69
+75
+14
+57
+42
+57
+51
+60
+94
+65
+94
+28
+5
+1
+0
+0
+568
+4.2
+253.5
+4.71
+90
+14
+41
+44
+43
+46
+23
+51
+42
+52
+14
+2
+0
+0
+0
+372
+2.75
+147.8
+2.75
+105
+12
+28
+38
+23
+24
+23
+33
+11
+10
+0
+0
+0
+0
+0
+202
+1.49
+57.7
+1.07
+120
+6
+28
+38
+22
+28
+19
+19
+9
+1
+1
+0
+0
+0
+0
+171
+1.27
+43.6
+0.81
+135
+17
+32
+32
+32
+25
+11
+16
+6
+3
+0
+0
+0
+0
+0
+174
+1.29
+39.7
+0.74
+150
+20
+35
+25
+20
+27
+25
+20
+12
+2
+0
+0
+0
+0
+0
+186
+1.38
+45.9
+0.85
+165
+15
+23
+39
+32
+21
+27
+43
+17
+13
+3
+0
+0
+0
+0
+233
+1.72
+72.8
+1.35
+180
+20
+35
+42
+50
+53
+29
+67
+56
+80
+17
+0
+0
+0
+0
+449
+3.32
+187.1
+3.47
+195
+12
+38
+48
+55
+57
+56
+114
+100
+119
+23
+3
+0
+0
+0
+625
+4.62
+287.5
+5.34
+210
+11
+49
+64
+63
+68
+71
+121
+113
+120
+7
+0
+0
+0
+0
+687
+5.08
+289.4
+5.37
+225
+11
+37
+62
+67
+70
+54
+107
+80
+59
+8
+0
+0
+0
+0
+555
+4.11
+212.4
+3.94
+240
+15
+28
+68
+70
+63
+58
+106
+54
+28
+0
+0
+0
+0
+0
+490
+3.63
+166.7
+3.1
+255
+20
+45
+51
+70
+70
+70
+92
+22
+15
+2
+0
+0
+0
+0
+457
+3.38
+139.5
+2.59
+270
+17
+52
+56
+61
+55
+57
+57
+19
+5
+0
+0
+0
+0
+0
+379
+2.8
+103.5
+1.92
+285
+16
+38
+58
+96
+90
+53
+55
+17
+9
+0
+0
+0
+0
+0
+432
+3.2
+119.8
+2.22
+300
+15
+40
+69
+83
+87
+58
+79
+22
+12
+0
+0
+0
+0
+0
+465
+3.44
+135.4
+2.51
+315
+14
+47
+70
+86
+79
+62
+95
+39
+21
+1
+0
+0
+0
+0
+514
+3.8
+161
+2.99
+330
+18
+47
+92
+101
+83
+77
+110
+62
+31
+4
+0
+0
+0
+0
+625
+4.62
+205.8
+3.82
+345
+20
+42
+71
+117
+95
+116
+151
+89
+71
+3
+0
+0
+0
+0
+775
+5.73
+284.1
+5.28
+SUM (#)
+372
+966
+1362
+1644
+1598
+1480
+2461
+1586
+1633
+346
+50
+18
+0
+0
+13516
+100
+5384.9
+100
+SUM (%)
+2.75
+7.15
+10.08
+12.16
+11.82
+10.95
+18.21
+11.73
+12.08
+2.56
+0.37
+0.13
+0
+0
+100
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+31
+Tabell 8: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 37 meters dyp ved foreslått 
+utslippspunkt til Naustholmen i perioden 27.09.–30.12.2021. Antall målinger og prosent av antall målinger, samt fluks 
+(m3/m2/døgn) og prosentvis fluks for hver 15° sektor er presentert.
+37 meter
+antall målinger
+fluks
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+%
+m3/m2/døgn
+%
+0
+19
+59
+95
+117
+134
+122
+145
+87
+69
+3
+0
+0
+0
+0
+850
+6.29
+297.1
+6.53
+15
+14
+57
+99
+99
+147
+137
+189
+122
+87
+5
+0
+0
+0
+0
+956
+7.08
+355.8
+7.82
+30
+24
+52
+87
+112
+116
+102
+200
+144
+79
+6
+0
+0
+0
+0
+922
+6.82
+351.8
+7.74
+45
+17
+56
+89
+104
+96
+98
+183
+141
+107
+12
+1
+0
+0
+0
+904
+6.69
+360.2
+7.92
+60
+21
+56
+71
+81
+84
+73
+145
+94
+106
+10
+1
+0
+0
+0
+742
+5.49
+296.7
+6.52
+75
+19
+31
+60
+83
+91
+81
+100
+79
+69
+8
+0
+0
+0
+0
+621
+4.6
+237.3
+5.22
+90
+18
+52
+62
+67
+54
+60
+78
+40
+27
+0
+0
+0
+0
+0
+458
+3.39
+145.1
+3.19
+105
+25
+52
+63
+45
+44
+31
+38
+31
+11
+0
+0
+0
+0
+0
+340
+2.52
+91.6
+2.01
+120
+14
+29
+45
+51
+39
+32
+15
+15
+7
+0
+0
+0
+0
+0
+247
+1.83
+64.3
+1.41
+135
+20
+39
+46
+33
+30
+20
+29
+10
+1
+0
+0
+0
+0
+0
+228
+1.69
+53.8
+1.18
+150
+13
+47
+42
+41
+38
+17
+32
+17
+6
+0
+0
+0
+0
+0
+253
+1.87
+65.6
+1.44
+165
+13
+32
+39
+55
+32
+47
+62
+39
+26
+3
+0
+0
+0
+0
+348
+2.58
+119.4
+2.63
+180
+18
+53
+56
+65
+67
+51
+91
+70
+90
+15
+4
+0
+0
+0
+580
+4.29
+236.7
+5.2
+195
+15
+51
+64
+84
+68
+69
+138
+87
+111
+17
+0
+0
+0
+0
+704
+5.21
+294.5
+6.48
+210
+15
+39
+65
+69
+69
+73
+126
+86
+62
+4
+0
+0
+0
+0
+608
+4.5
+231.7
+5.09
+225
+22
+52
+73
+75
+66
+67
+95
+62
+21
+0
+0
+0
+0
+0
+533
+3.94
+169
+3.72
+240
+21
+53
+68
+66
+81
+85
+88
+38
+14
+0
+0
+0
+0
+0
+514
+3.8
+154.8
+3.4
+255
+25
+53
+80
+63
+69
+61
+60
+23
+11
+0
+0
+0
+0
+0
+445
+3.29
+121.5
+2.67
+270
+27
+55
+78
+87
+62
+47
+55
+22
+5
+0
+0
+0
+0
+0
+438
+3.24
+112.7
+2.48
+285
+23
+79
+86
+90
+65
+59
+53
+14
+7
+0
+0
+0
+0
+0
+476
+3.52
+117.8
+2.59
+300
+23
+63
+87
+82
+76
+48
+59
+21
+9
+0
+0
+0
+0
+0
+468
+3.46
+122.3
+2.69
+315
+24
+70
+83
+87
+78
+55
+69
+27
+12
+0
+0
+0
+0
+0
+505
+3.74
+137
+3.01
+330
+18
+62
+118
+97
+90
+81
+104
+27
+13
+1
+0
+0
+0
+0
+611
+4.52
+174
+3.83
+345
+24
+75
+85
+121
+123
+100
+145
+66
+21
+0
+0
+0
+0
+0
+760
+5.63
+237.1
+5.21
+SUM (#)
+472
+1267
+1741
+1874
+1819
+1616
+2299
+1362
+971
+84
+6
+0
+0
+0
+13511
+100
+4547.8
+100
+SUM (%)
+3.49
+9.38
+12.89
+13.87
+13.46
+11.96
+17.02
+10.08
+7.19
+0.62
+0.04
+0
+0
+0
+100
+441-9-21S UTSLIPPSPUNKT, NAUSTHOLMEN
+AQUA KOMPETANSE AS
+32
+Vedlegg A - riggtegning
+Overflate (0 m): blåse 
+Ca. 5 m over instrument: 3 × oppdriftskule
+Ca. 42 m: Aquadopp Profiler AQK37
+Bunn (ca. 43 m): Lodd/kjetting 
+Figur A.1: Veiledende riggtegning for 
+instrumentriggen brukt ved foreslått 
+utslippspunkt til Naustholmen. Avvik 
+kan forekomme.

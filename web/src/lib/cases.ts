@@ -24,6 +24,11 @@ export interface CaseDoc {
   method?: string
   /** length of the full extracted text */
   chars?: number
+  /** document number within the journal entry, and whether it is the main document or an attachment */
+  no?: number | null
+  role?: 'main' | 'attachment' | null
+  /** true when the extracted text is bundled under data/text/ */
+  text?: boolean
 }
 
 export interface Cases {
@@ -58,6 +63,15 @@ export async function loadCases(): Promise<Cases> {
 
 /** The file itself, served by the eInnsyn API. */
 export const docUrl = (d: CaseDoc) => `https://api.einnsyn.no/dokumentobjekt/${d.id}/download`
+
+/** The extracted text, bundled with the app (empty when the document has none). */
+export const textUrl = (d: CaseDoc) => dataUrl(`text/${d.id}.txt`)
+
+/** The document of an entry whose text to open from the entry's own icon: the main document, else the longest. */
+export const mainText = (docs?: CaseDoc[]): CaseDoc | undefined => {
+  const withText = docs?.filter((d) => d.text) ?? []
+  return withText.find((d) => d.role === 'main') ?? withText.sort((a, b) => (b.chars ?? 0) - (a.chars ?? 0))[0]
+}
 
 export const casesFor = (data: Cases, loknr: number): CaseEntry[] => (data.localities[String(loknr)] ?? []).map((i) => data.entries[i])
 

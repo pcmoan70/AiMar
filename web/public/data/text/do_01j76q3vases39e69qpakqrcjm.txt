@@ -1,0 +1,3797 @@
+﻿203-7-19C Kokvika 
+ 
+   
+ 
+2019 
+Etter Norsk Standard NS 9410: 2016 
+AQUA KOMPETANSE AS 
+ 
+ 
+C-undersøkelse ved Kokvika i Lurøy 
+kommune, juli 2019 
+ 
+ 
+ 
+Nova Sea AS 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+2 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Rapportens tittel: 
+C-undersøkelse ved Kokvika i Lurøy kommune, juli 2019 
+Forfattere: Julie Mynors og Christine Klykken 
+Feltdato: 17-18.07.2019 
+Toktleder: Petter Carlsen 
+Rapportdato: 30.10.2019 
+Rapportnummer: 203-7-19C 
+Antall sider uten vedlegg: 22 
+Antall sider totalt: 50 
+Oppdragsgiver: Nova Sea AS 
+Kontaktperson: Samuel James Anderson 
+Lokalitet: Kokvika 
+Lokalitetsnummer: 13764 
+Driftsleder: Kurt Aspdal 
+Koordinater: 
+6624.769’N 
+1257.412’Ø 
+Fylke: Nordland 
+Kommune: Lurøy 
+MTB: 6240 tonn 
+Antall merder: 14 
+Merdomkrets: 120 m 
+Bakgrunn for undersøkelse: Maks belastning 
+Oppsummering: 
+Aqua Kompetanse AS har gjennomført en akkreditert C-undersøkelse etter metodikk beskrevet i Norsk Standard NS 
+9410:2016. Pelagia Nature & Environment AB har utført akkreditert opparbeiding og akkrediterte og analyser av 
+prøvematerialet. Eurofins Environment Testing Norway AS har utført akkrediterte kjemiske analyser av 
+prøvematerialet. Anleggssonen var lite påvirket og fikk miljøtilstand 1 ut fra fauna. Nivåene av nTOC var lave i 
+området, klassifisert til svært god eller god ved alle stasjoner. Kobbermengden i anleggssonen var lav, klassifisert til 
+bakgrunnsnivåer. Oksygenkonsentrasjonen i bunnvannet ble klassifisert til tilstand I – svært god. Ytterkant av 
+overgangssonen ble klassifisert til tilstandsklasse II – god. Stasjonene i overgangssonen fikk totalt tilstandsklasse II – 
+god. Undersøkelsesfrekvensen videre skal derfor være hver tredje produksjonssyklus. 
+Emneord: 
+C-undersøkelse; miljøtilstand; miljøanalyse; miljøovervåking; sediment; prøvetaking; tilstand; 
+elektrokjemi; sensoriske registreringer; makrofauna 
+ID 514-18 
+Rapporten er tilgjengelig 
+ved forespørsel 
+Rapportansvarlig: 
+ 
+Christine Klykken  
+Kvalitetssikrer: 
+ 
+ 
+ 
+Kari-Elise Fredriksen 
+ 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org. Nr.: 982 226 163 
+© 2019 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+3 
+Forord 
+Aqua Kompetanse AS har gjennomført akkreditert prøvetaking for å innhente prøvemateriale for 
+oppdragsgiver Nova Sea AS. I tillegg har Aqua Kompetanse AS utført uakkreditert hydrografisk profil av 
+vannsøylen ved lokaliteten, og uakkreditert tilstandsklassifisering av oksygen i dypvann. Akkrediterte 
+analyser av dette prøvematerialet er utført av Eurofins Environment Testing Norway AS for TOM, TOC, 
+kobber, N-Kjeldahl, og kornstørrelse (Vedlegg C), mens akkrediterte opparbeiding og analyser av makrofauna 
+er utført av Pelagia Nature & Environment AB (Vedlegg B). Det er Aqua Kompetanse AS som står for faglig 
+vurdering og fortolkning av analyseresultatene. Denne rapporten sammenfatter analyserapportene fra 
+underleverandør sammen med hydrografiske, elektrokjemiske og sensoriske vurderinger gjort av Aqua 
+Kompetanse AS. Innhenting av prøvemateriale er gjort i henhold til NS 9410:2016, og standarder og veiledere 
+som er benyttet i denne undersøkelsen er listet i Tabell 1. 
+ 
+Tabell 1: Standarder og veiledere benyttet for denne undersøkelsen. 
+Standard/Veileder 
+Tittel 
+Bruksområde 
+NS 9410: 2016 
+Miljøovervåking av bunnpåvirkning 
+fra marine akvakulturanlegg 
+Stasjonsplassering, prøvetakning, 
+rapport 
+Veileder 02:2018 
+Klassifisering av miljøtilstand i vann 
+Klassifiseringstabeller til analyser 
+NS-EN ISO  
+16665: 2013 
+Vannundersøkelse. Retningslinjer for kvantitativ 
+prøvetaking og prøvebehandling av marin 
+bløtbunnsfauna 
+Prøvetaking 
+NS-EN IS0 5667:2004 
+Vannundersøkelse – Prøvetaking- Del 19: 
+Veiledning i sedimentprøvetaking i marine 
+områder 
+Prøvetaking 
+Veileder 97:03 
+Klassifisering av miljøkvalitet i fjorder og 
+kystfarvann. 
+Klassifisering av N-TOC 
+Veileder M-608:2016 
+Grenseverdier for klassifisering av vann, 
+sediment og biota 
+Klassifisering av kobber 
+ 
+Formålet med denne undersøkelsen var å studere de marine miljøforholdene i nærområdet til 
+oppdrettslokaliteten. Undersøkelsen skal gi en tilstandsbeskrivelse av miljøforholdene, og vise trender i 
+utviklingen av miljøforholdene ved at det opprettes faste prøvetakingsstasjoner. Resultatene fra 
+undersøkelsen vil være med på å vise påvirkningstrenden ved lokaliteten over tid. 
+ 
+ 
+ 
+ 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+4 
+Innholdsfortegnelse 
+Forord ................................................................................................................................................................ 3 
+1. 
+Materiale og metode ................................................................................................................................ 6 
+1.1 Innsamlingsmetode ................................................................................................................................. 6 
+1.2 Geokjemiske analyser ............................................................................................................................. 6 
+1.2.1 Normalisert TOC .............................................................................................................................. 6 
+1.2.2 Kobber .............................................................................................................................................. 6 
+1.2.3 Elektrokjemiske målinger ................................................................................................................ 6 
+1.3 Kvantitative bunndyrsanalyser ................................................................................................................ 7 
+1.3.1 Miljøtilstand i anleggssonen ............................................................................................................ 7 
+1.3.2 Diversitetsindekser .......................................................................................................................... 7 
+1.3.3 Økologisk tilstandsklassifisering og nEQR ........................................................................................ 9 
+1.4 Hydrografi.............................................................................................................................................. 10 
+1.5 Undersøkelsesområde og stasjonsplassering ....................................................................................... 11 
+1.5.1 Produksjonsdata og tidligere undersøkelser ................................................................................. 12 
+1.5.2 Vannstrøm ..................................................................................................................................... 12 
+1.5.3 Stasjonsplassering .......................................................................................................................... 13 
+1.5.4 Kartbilder: Stasjonsplassering og anleggslokalisering ................................................................... 14 
+2. 
+Resultat ................................................................................................................................................... 16 
+2.1 Geokjemiske analyser og sensoriske registreringer .............................................................................. 16 
+2.2 Kvantitative bunndyrsanalyser .............................................................................................................. 16 
+2.2.1 Miljøtilstand i anleggssonen .......................................................................................................... 18 
+2.2.2 Økologisk tilstandsklassifisering og undersøkelsesfrekvens .......................................................... 18 
+2.3 Hydrografi.............................................................................................................................................. 19 
+3. 
+Oppsummering ....................................................................................................................................... 21 
+4. 
+Referanser ............................................................................................................................................... 22 
+Vedlegg A – Bilder av sediment ....................................................................................................................... 23 
+Vedlegg B – Pelagia Nature & Environment AB rapport ................................................................................. 26 
+Vedlegg C – Eurofins Environment Testing Norway AS rapport ...................................................................... 39 
+ 
+ 
+ 
+ 
+ 
+ 
+Aqua Kompetanse AS er akkreditert av Norsk Akkreditering for prøvetaking bunnsediment, 
+akkrediteringsnummer TEST 303, og tilfredsstiller kravene i NS-EN ISO/IEC 17025. 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+5 
+Tabell 2: Hovedresultater fra C-undersøkelsen. Aqua Kompetanse AS har stått for akkreditert prøvetaking og 
+uakkrediterte pH/Eh-målinger. Videre har Aqua Kompetanse AS utført uakkreditert hydrografisk profil av vannsøylen 
+ved lokaliteten, og uakkreditert tilstandsklassifisering av oksygen i dypvann. Akkreditert faglig vurdering og fortolkning 
+av analyseresultatene er også utført av Aqua Kompetanse AS. Pelagia Nature & Environment AB har utført akkreditert 
+analyse av makrofauna, Eurofins har utført akkrediterte analyser av TOC, TOM og kobber, N-Kjeldahl og kornstørrelse. 
+Redokspotensial (Eh) bestemmes ut fra observert hvilepotensial i prøven (målt verdi; Eobs) og referansepotensial (Eref): Eh 
+= Eobs + Eref. Aqua Kompetanse AS har utført tilstandsklassifisering av oksygentilstand etter Veileder 02:2018, 
+klassifisering av organisk innhold etter SFT 97:03 og klassifisering av kobber etter Veileder M-608:2016.  
+Stasjonsplassering etter NS 9410:2016 
+Anleggsso
+ne 
+Ytre sone 
+Overgangssone 
+Parameter: 
+Stasjoner: 
+C1 
+C2 
+C3 
+C4 
+C5 
+C6 
+Kjemi: 
+pH 
+7,93 
+7,88 
+7,82 
+7,91 
+7,87 
+7,94 
+Eh (mV) 
+327 
+350 
+323 
+299,2 
+241 
+312 
+Oksygen: 
+Målt verdi (mL/L): 
+O2, tilstandsklasse: 
+ 
+5,61 
+I 
+ 
+ 
+ 
+ 
+Fauna 
+Fauna tilstandsklasse   
+(Veileder: 02:2018) 
+Antall arter (S): 
+44 
+31 
+47 
+39 
+38 
+19 
+Antall ind. (N): 
+951 
+659 
+756 
+804 
+363 
+2013 
+NQI1: 
+0,64 
+0,67 
+0,69 
+0,70 
+0,71 
+0,59 
+Shann.Wien. (H`): 
+4,04 
+3,13 
+3,61 
+3,93 
+3,61 
+0,27 
+Hurl.ind. (ES n=100): 
+22,14 
+14,96 
+23,31 
+21,90 
+20,91 
+20,91 
+ISI: 
+7,82 
+8,87 
+9,04 
+9,27 
+9,51 
+5,76 
+NSI: 
+19,80 
+23,42 
+21,60 
+23,86 
+23,88 
+8,83 
+nEQR: 
+0,68 
+0,69 
+0,75 
+0,79 
+0,77 
+0,37 
+Økologisk tilstand: 
+ 
+II 
+II 
+II 
+II 
+IV 
+Samlet økologisk 
+tilstand: 
+ 
+ 
+II: God 
+NS 9410:2016 
+Miljøtilstand: 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+Undersøkelsesfrekve
+ns: 
+ 
+Hver tredje produksjonssyklus 
+SFT 97:03 
+N-TOC (mg/g): 
+N-TOC, 
+tilstandsklasse: 
+23,6 
+II 
+20,3 
+II 
+16,1 
+I 
+14,8 
+I 
+17,2 
+I 
+20,4 
+I 
+Tot. nitrogen 
+TN (g/kg): 
+0,9 
+2,8 
+0,9 
+0,9 
+2,1 
+0,7 
+Tot. Org. 
+materiale 
+TOM (%): 
+2,2 
+6,3 
+3,2 
+2,6 
+5,7 
+1,4 
+Forhold 
+C/N: 
+10,5 
+6,8 
+8,0 
+7,3 
+6,8 
+6,6 
+Pelitt 
+Pelittandel (%) 
+21,3 
+92,5 
+50,4 
+54,4 
+84,1 
+12,6 
+Veileder 
+M-608:2016 
+Cu (mg/kg): 
+Cu, tilstandsklasse: 
+13 
+I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabell 3: Tabell som viser fargekoder for de ulike tilstandsklassifiseringene vist i Tabell 2, hvor tilstand I er best. Etter 
+Veileder 02:2018. 
+I 
+II 
+III 
+IV 
+V 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+6 
+1. Materiale og metode 
+Akkreditert bunnprøvetaking og uakkreditert hydrografisk profil av vannsøylen ble utført i henhold til 
+metodikk beskrevet i Norsk Standard NS 9410:2016 av vannsøylen av Aqua Kompetanse den 17-18.07.2019 
+ved Kokvika. Pelagia Nature & Environment AB har stått for akkreditert opparbeiding av innsamlet 
+makrofaunamateriale. Eurofins Environment Testing Norway AS har stått for akkrediterte analyser av kobber, 
+total organisk karbon (TOC) og total organisk materiale (TOM), nitrogen og kornstørrelse. Aqua Kompetanse 
+AS ved rapportansvarlig har utført akkreditert tolkning av analyseresultatene. 
+ 
+1.1 Innsamlingsmetode 
+Makrofauna (bunndyr) og sedimentprøver ble samlet inn ved hjelp av en 0.1 m² Van Veen-grabb, og på hver 
+prøvestasjon ble det foretatt tre grabbhugg. Makrofaunaprøver ble tatt ut av to av huggene, og 100-300 ml 
+geologi- og kjemiprøver ble tatt ut av ett. For makrofauna ble sedimentet skylt over en 1 mm sikt, 
+gjenværende innhold i sikt lagt på glass og tilsatt 96% etanol. Geologi- og kjemiprøvene ble fryst ned frem til 
+analyse. 
+ 
+1.2 Geokjemiske analyser 
+Det er utført geokjemiske analyser av totalt organisk materiale (TOM), totalt organisk karbon (TOC), total 
+nitrogen (TN), forholdet mellom karbon og nitrogen (C/N) og kornfordeling (pelittandel, kornstørrelse <0,063 
+mm) av Eurofins, se Vedlegg C. 
+ 
+1.2.1 Normalisert TOC 
+Miljøtilstanden i sedimentet klassifiseres basert på normalisert TOC (nTOC; Tabell 4) i henhold til SFT (nå 
+Miljødirektoratet) veileder 97:03 (Molvær et. al. 1997), og forutsetter at konsentrasjonen av TOC i 
+sedimentet standardiseres for teoretisk 100% finstoff (pelittandel % <0,063 mm) i henhold til formelen 
+ 
+nTOC = målt TOC + 18 x (1-F) 
+ 
+hvor F er andel av finstoff (Aure et. al., 1993). 
+ 
+Tabell 4: Tilstandsklassifisering for organisk innhold (nTOC) i marine sedimenter. Gjengitt etter SFT 97:03. 
+Tilstandsklasse 
+I Meget god 
+II God 
+III Mindre god 
+IV Dårlig 
+V Meget dårlig 
+nTOC mg/g 
+< 20 
+20 - 27 
+27 - 34 
+34 - 41 
+> 41 
+ 
+1.2.2 Kobber 
+Klassifisering av miljøtilstanden med hensyn til kobber (Cu) ble gjennomført i henhold til Miljødirektoratets 
+veileder M-608:2016 (Tabell 5). 
+ 
+Tabell 5: Tilstandsklassifisering og grenseverdier for kobber i sediment. Gjengitt etter M-608/2016. 
+Tilstandsklasse 
+Klasse I 
+Klasse II 
+ Klasse III 
+Klasse IV 
+Klasse V 
+Cu mg/kg 
+< 20 
+20 - 84 
+20 - 84 
+84 - 147 
+> 147 
+ 
+ 
+1.2.3 Elektrokjemiske målinger 
+pH 
+(syre-baselikevekter) 
+og Eh 
+(redokspotensial; 
+reduksjons-oksidasjonslikevekter) 
+ble målt 
+i 
+overflatesedimentet (ca. 1 cm ned) ved bruk av HQ40d multimeter og tilhørende pH- og redokselektroder 
+(hhv. PHC201 og MTC101). Det ble også målt pH og Eobs i overflatevannet ved lokaliteten.  
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+7 
+ 
+pH varierer vanligvis mellom 8,0 og 8,1 i atmosfærisk ekvilibrert overflatevann, noe lavere i dypvann, og i 
+anoksiske vannmasser og sedimenter kan pH være ned mot 7 (NS9410:2016). I atmosfærisk ekvilibrert 
+overflatevann ligger Eh på rundt 400 mV, mens anoksiske vannmasser og sedimenter vil ha Eh ned mot -200 
+mV. Eh (redokspotensial) bestemmes ut fra det observerte hvilepotensialet i prøven (målt verdi; Eobs) og 
+standardpotensialet til referanseelektroden (Eref; Tabell 6): Eh = Eobs + Eref 
+ 
+ 
+Tabell 6: Standardpotensiale til referanseelektrode. Tilpasset fra MTC101 brukermanual (Hach Company, 2014). 
+Temperatur (C) 
+Standardpotensiale i mV (Eref) 
+0,0 – 4,9 
+224 
+5,0 – 9,9 
+221 
+10,0 – 14,9 
+217 
+15,0 – 19,9 
+214 
+ 
+ 
+1.3 Kvantitative bunndyrsanalyser 
+For beskrivelse av det faglige programmet for bløtbunn-undersøkelsen (bunndyr) utført av Fishguard se 
+Vedlegg B. 
+ 
+1.3.1 Miljøtilstand i anleggssonen 
+NS 9410:2016 gir følgende vurderingsgrunnlag for stasjoner i anleggssonen ut fra antall taksa og dominans i 
+bunndyrssamfunnet per 0,2 m2: 
+• 
+For Miljøtilstand 1 – Meget god kreves det minst 20 taksa, hvor ingen taksa skal utgjøre mer enn 
+65% av det totale individtallet; 
+• 
+For Miljøtilstand 2 – God kreves det 5 – 19 taksa, og mer enn 20 individer hvor ingen taksa skal 
+utgjøre mer enn 90% av det totale individtallet; 
+• 
+1 til 4 taksa gir Miljøtilstand 3 – Dårlig; 
+• 
+Makrofauna ikke registrert gir Miljøtilstand 4 – Meget dårlig. 
+1.3.2 Diversitetsindekser 
+Diversitet er et begrep som uttrykker mangfoldet i dyre- og plantesamfunnet på en lokalitet. Det finnes en 
+rekke ulike mål for diversitet. Noen tar mest hensyn til artsrikheten (mål for artsrikheten), andre legger mer 
+vekt på individfordelingen mellom artene (mål for jevnhet og dominans). Ulike mål uttrykker derved 
+forskjellige sider ved dyresamfunnet. Diversitetsmål er «klassiske» i forurensningsundersøkelser fordi 
+miljøforstyrrelser typisk påvirker samfunnets sammensetning. Svakheten ved diversitetsmålene er at de ikke 
+alltid fanger opp endringer i samfunnsstrukturen. Dersom en art blir erstattet med like mange individer av 
+en ny art, vil ikke det gjøre noe utslag på diversitetsindeksene. 
+ 
+Ved hver stasjon ble det samlet inn to replikater til kvantitative bunndyrsanalyser, og bunndyrene ble 
+kvantifisert og identifisert til artsnivå eller annet hensiktsmessig taksonomisk nivå av taksonomer ved Pelagia 
+Nature & Environment AB og samme firma har utført statistiske analyser og utregning av diversitetsindekser 
+beregnet som snitt av to replikater fra de kvantitative artslistene (se Vedlegg B). Økologisk 
+tilstandsklassifisering av diversitetsindekser (Tabell 7) baseres på indeksverdi fra Veileder 02:2018 
+(Direktoratgruppen, 2018). Det er utarbeidet differensierte grenseverdier for ulike regiongrupper – ulike 
+kombinasjoner av økoregioner og vanntyper – i Veileder 02:2018: 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+8 
+• 
+Regioner: 
+o B – Barentshavet 
+o G – Norskehavet Nord 
+o H – Norskehavet Sør 
+o M – Nordsjøen Nord 
+o S – Skagerrak 
+• 
+Vanntyper: 
+o 1 – Åpen eksponert kyst 
+o 2 – Moderat eksponert kyst 
+o 3 – Beskyttet kyst/fjord 
+o 4 – Ferskvannspåvirket fjord 
+o 5 – Sterkt ferskvannspåvirket fjord 
+Hver lokalitet blir gitt en regiongruppe som den vurderes ut fra i henhold til de differensierte grenseverdiene 
+gitt i Veileder 02:2018. Aqua Kompetanse AS opererer hovedsakelig i region G og H (Tabell 7). 
+ 
+Tabell 7: Økologisk tilstandsklassifisering for gjennomsnitt av grabb-indeksverdier. Gjengitt etter Veileder 02:2018 for 
+økoregion G (Norskehavet Nord) og H (Norskehavet Sør), og vanntype 1-5. 
+ 
+Tilstandsklasse 
+Indeks 
+I Svært god 
+II God 
+III Moderat 
+IV Dårlig 
+V Svært dårlig 
+H 1-3 
+NQI1 
+0,90 - 0,72   
+0,72 - 0,63   
+0,63 - 0,49   
+0,49 - 0,31   
+0,31 - 0  
+H’ 
+5,5 - 3,7   
+3,7 - 2,9   
+2,9 - 1,8   
+1,8 - 0,9   
+0,9 - 0  
+ES100 
+46 – 23  
+23 – 16  
+16 – 9  
+9 – 5  
+5 – 0  
+ISI2012 
+13,4 – 8,7 
+8,7 – 7,8 
+7,8 – 6,4 
+6,4 – 4,7  
+4,7 – 0 
+NSI 
+30 – 25  
+25 – 20  
+20 – 15  
+15 – 10  
+10 – 0  
+ 
+H 4-5 
+NQI1 
+0,91 – 0,73 
+0,73 – 0,64 
+0,64 – 0,49 
+0,49 – 0,31 
+0,31 – 0 
+H’ 
+5,5 – 3,7 
+3,7 – 2,9 
+2,9 – 1,8 
+1,8 – 0,9 
+0,9 – 0 
+ES100 
+46 – 23 
+23 – 16 
+16 – 9 
+9 – 5 
+5 – 0 
+ISI2012 
+13,4 – 8,7 
+8,7 – 7,8 
+7,8 – 6,4 
+6,4 – 4,7 
+4,7 – 0 
+NSI 
+30 – 25  
+25 – 20  
+20 – 15  
+15 – 10  
+10 – 0  
+ 
+G 1-3 
+NQI1 
+0,9 – 0,72 
+0,72 – 0,63 
+0,63 – 0,49 
+0,49 – 0,31 
+0,31 – 0 
+H’ 
+5,5 – 3,7 
+3,7 – 2,9 
+2,9 – 1,8 
+1,8 – 0,9 
+0,9 – 0 
+ES100 
+46 – 23 
+23 – 16 
+16 – 9 
+9 – 5 
+5 – 0 
+ISI2012 
+13,4 – 8,7 
+8,7 – 7,8 
+7,8 – 6,4 
+6,4 – 4,7 
+4,7 – 0 
+NSI 
+30 – 25  
+25 – 20  
+20 – 15  
+15 – 10  
+10 – 0 
+ 
+G 4-5 
+NQI1 
+0,91 – 0,73 
+0,73 – 0,64 
+0,64 – 0,49 
+0,49 – 0,31 
+0,31 – 0 
+H’ 
+5,5 – 3,7 
+3,7 – 2,9 
+29 – 1,8 
+1,8 – 0,9 
+0,9 – 0 
+ES100 
+46 – 23 
+23 – 16 
+16 – 9 
+9 – 5 
+5 – 0 
+ISI2012 
+13,4 – 8,7 
+8,7 – 7,8 
+7,8 – 6,4 
+6,4 – 4,7 
+4,7 – 0 
+NSI 
+30 – 25  
+25 – 20  
+20 – 15  
+15 – 10  
+10 – 0  
+ 
+ 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+9 
+Shannon-Wieners diversitetsindeks (H’; Shannon & Weaver, 1949) tar hensyn til antall arter og 
+mengdefordeling mellom artene, og en lav verdi indikerer et artsfattig samfunn og/eller et samfunn dominert 
+av en eller få arter. En høy verdi indikerer et artsrikt samfunn. Etter Veileder 02:[2018] går H’ fra 0 (svært 
+artsfattig samfunn) til 5,7 (svært artsrikt samfunn). 
+ 
+Bunndyrssamfunnets ømfintlighet beregnes ved hjelp av indeksene ISI (beskrevet i Rygg, 2002) og AMBI 
+(AZTIs Marine Biotic Index; sensitivitetsindeks). AMBI tilordner en art til en økologisk gruppe1 
+(ømfintlighetsklasse), og sammensetningen av bunndyrssamfunnet i form av andelen økologiske grupper 
+indikerer omfanget av en forurensningspåvirkning. NSI (Norwegian Sensitivity Index) er en sensitivitetsindeks 
+som ligner AMBI, men er utviklet med basis i norske faunadata og ved bruk av en objektiv statistisk metode. 
+En prøves NSI beregnes ved gjennomsnittet av sensitivitetsverdiene av alle individene i prøven. 
+Hurlberts diversitetsindeks (ES100), eller Hurlberts diversitetskurver, beregner hvor mange arter man ville 
+vente å finne i delprøver med færre individer med utgangspunkt i totalt antall arter og individer i en prøve, 
+og uttrykkes i form av antall arter som funksjon av antall individer. På denne måten blir diversitetsmålet 
+uavhengig av prøvestørrelsen, og man kan dermed sammenligne lokaliteter med ulik individtetthet direkte. 
+Hurlbert (1971) ga en metode for å beregne slike diversitetskurver basert på sannsynlighetsberegning. ESn er 
+forventet antall arter i en delprøve på n tilfeldig valgte individer fra en prøve som inneholder totalt N individer 
+og S arter, og har følgende formel: 
+ 
+ 
+ 
+der N = totalt antall individ i prøven, Ni = antall individ av art i, n = antall individ i en gitt delprøve (av de N) 
+og s = totalt antall arter i prøven. 
+ 
+NQI1 (Norwegian quality status, version 1) er en sammensatt indeks, som bestemmes både ut fra 
+artsmangfold og ømfintlighet, og er beskrevet ved hjelp av følgende formel: 
+ 
+ 
+ 
+SN er en diversitetsindeks: 
+ hvor S er antall arter og N er antall individer i prøven. 
+ 
+1.3.3 Økologisk tilstandsklassifisering og nEQR 
+Hver stasjon gis en endelig økologisk tilstandsklasse på grunnlag av dens gjennomsnittlige normaliserte EQR-
+verdi (nEQR; normalised ecological quality ratio). nEQR gir en tallverdi på en skala fra 0 til 1, og muliggjør en 
+harmonisert sammenligning av forskjellige indekser, både innenfor samme og forskjellige kvalitetselement. 
+Observert indeksverdi regnes om til nEQR ved  
+ 
+ 
+ 
+                                                          
+1 Økologiske grupper: EG I: sensitive arter; EG II = nøytrale arter; EG III = tolerante arter; EG IV = opportunistiske arter; EG IV = 
+opportunistiske arter; EG V = foruresningsindikatorer.  
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+10 
+hvor «klassens nedre indeksverdi» og «klassens øvre indeksverdi» er nedre og øvre grenseverdi for den 
+tilstandsklassen indeksverdien for en stasjon ligger i. Klassens nEQR basisverdi er den samme for alle 
+indekser, og er satt til: 
+Basisverdi (nedre grenseverdi) i Klasse (I) 
+= 0,8 
+Basisverdi (nedre grenseverdi) i Klasse (II) 
+= 0,6 
+Basisverdi (nedre grenseverdi) i Klasse (III) 
+= 0,4 
+Basisverdi (nedre grenseverdi) i Klasse (IV) 
+= 0,2 
+Basisverdi (nedre grenseverdi) i Klasse (V) 
+= 0,0 
+ 
+Tabell 8: Tilstandsklassifisering av nEQR. Gjengitt etter Vedlegg til Veileder 02:2018. 
+ 
+Tilstandsklasse 
+I Svært god 
+II God 
+III Moderat 
+IV Dårlig 
+V Svært dårlig 
+nEQR 
+1 – 0,8 
+0,8 – 0,6 
+0,6 – 0,4 
+0,4 – 0,2 
+0,2 - 0 
+ 
+ 
+1.3.3.1 Økologisk tilstand i overgangssonen og undersøkelsesfrekvens 
+For å kunne bestemme undersøkelsesfrekvensen for C-undersøkelse ved lokaliteten utføres det en samlet 
+tilstandsklassifisering for stasjonene i overgangssonen i henhold til kapittel 8.6.3 i NS 9410:2016, og 
+«Presisering av standard NS9410:2016» utgitt av Miljødirektoratet. Gjennomsnittet av nEQR-verdien for hver 
+av stasjonene i overgangssonen beregnes og tilstandsklassifiseres iht. Veileder 02:2018 (Tabell 8).  
+ 
+Det er satt forskjellige frekvenser for ytre sone (prøvestasjon C2) og overgangssone (Tabell 9). Hvis 
+frekvensen på C2 og overgangssone ikke er like skal lokaliteten bli undersøkt etter den tilstandsklassen som 
+gir hyppigst undersøkelsesfrekvens. Miljøtilstanden til anleggssonestasjon C1 inngår ikke i fastsettingen av 
+undersøkelsesfrekvensen (kap. 1.2.1). 
+ 
+nEQR for en samlet overgangssone skal minst ha tilstandsklasse moderat, og dersom tilstanden er dårligere 
+skal det ved neste undersøkelse utføres en tilleggsundersøkelse for å avdekke utbredelsen av den reduserte 
+tilstanden og om det skyldes naturtilstand eller påvirkning fra anlegget. Tilleggsundersøkelsen skal avklares 
+med myndighetene. 
+ 
+Tabell 9: Undersøkelsesfrekvens ved ulike tilstandsklasser for ytre sone (stasjon C2) og overgangssone (stasjon C3, C4 
+osv.). Gjengitt etter NS 9410:2016. 
+Stasjon 
+Tilstandsklasse 
+Hver annen 
+produksjonssyklus 
+Hver tredje 
+produksjonssyklus 
+C2 
+Svært god eller god 
+ 
+X 
+Samlet for C3, C4, osv. 
+Moderat 
+X 
+ 
+Svært god eller god 
+ 
+X 
+ 
+ 
+1.4 Hydrografi 
+Hydrografi angår de kjemiske og fysiske havforholdene, slik som salinitet (saltinnhold), temperatur, 
+sirkulasjon og løste gasser. Ekvilibrering med atmosfæren sørger for at overflatevannet i sjø holder en 
+oksygenmetning på nært 100%, og gjerne overmettet (> 100%) på grunn av bølgebrytning, luftbobler og 
+produksjon av oksygen gjennom fotosyntese. Under overflatevannet faller oksygeninnholdet som en følge 
+av biologisk aktivitet, i hovedsak respirasjon fra bakterier som spiser organisk materiale som synker ned 
+igjennom vannsøyla, så mengden løst gass varierer i tid og rom avhengig av biologisk aktivitet.  
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+11 
+ 
+Mengden oppløst oksygen i vann blir formidlet på to hovedmåter – konsentrasjon i enten milligram eller 
+milliliter, og metningsgrad i %. Oksygenkonsentrasjonen gir hvor mange mg/ml/mikromol oksygen som er 
+løst i en liter av den aktuelle vannmassen. Metningsgraden gir forholdet mellom den aktuelle 
+konsentrasjonen og den konsentrasjonen som ville blitt målt ved 100% metning, det vil si når 
+konsentrasjonen oppløst oksygen er lik oksygenets løsbarhet. Videre er oksygenets løselighet avhengig av 
+vannmassenes temperatur, salinitet og trykk. Med økende trykk øker løseligheten, og med økende 
+temperatur og salinitet synker løseligheten. En vannmasse med høyere temperatur og salinitet vil derfor nå 
+100% metning ved lavere oksygenkonsentrasjon enn en vannmasse på samme dyp med lavere temperatur 
+og salinitet. Oksygenkonsentrasjonen i dypvann er viktig for den helhetlige tilstanden i et område, og 
+klassifiseringen av oksygenet i slike vannmasser er gitt i Tabell 10.  
+ 
+Tabell 10: Klassifisering av tilstand for oksygen i dypvannet ved salinitet over 20 (gjengitt etter Veileder 02:2018). 
+ 
+ 
+ 
+ 
+ 
+ 
+Parameter 
+ 
+ 
+Måleenhet 
+Tilstandsklasser 
+I 
+Bakgrunn/ 
+Svært god 
+II 
+God 
+ 
+III 
+Moderat/ 
+Mindre god 
+IV 
+Dårlig 
+ 
+V 
+Svært dårlig 
+ 
+Dypvann 
+ 
+Oksygenkonsentrasjon 
+ml O2/ l 
+>4,5 
+4,5-3,5 
+3,5-2,5 
+2,5-1,5 
+<1,5 
+Oksygenmetning* 
+% 
+>65 
+65-50 
+50-35 
+35-20 
+<20 
+*Oksygenmetningen er beregnet for saltholdighet 33 og temperatur 6°C. 
+ 
+Vannets tetthet, masse per volumdel (kg/m3, eventuelt g/cm3), er i hovedsak avhengig av temperatur og 
+salinitet. Tettheten kontrollerer vannkolonnens vertikale struktur, med tettere vannmasser dypere i 
+vannkolonnen. Ved å øke saliniteten og senke temperaturen øker tettheten, og ved å senke saliniteten og 
+øke temperaturen minsker tettheten. Hvis en vannprofil viser at tettheten endres raskt med økende dybde 
+har man en pyknoklin – et delingslag mellom to vannlag som har ulik tetthet, enten på grunn av forskjell i 
+temperatur eller salinitet (hhv. termoklin og haloklin), eller en kombinasjon av de to. 
+ 
+Det ble utført målinger av salinitet, temperatur og oksygen ved dypeste prøvestasjon (C2, Figur 2) av Aqua 
+Kompetanse AS. Grunnet feil med instrument på feltdato ble målingene utført 23.10.2019. Målingene ble 
+utført med en CTD av typen SAIV SD204 påmontert en Rinko III optisk oksygensensor. Instrumentet målte 
+annethvert sekund ned og opp igjennom vannsøylen. Registrerte data ble bearbeidet ved bruk av SAIV AS 
+eget dataprogram for instrumentet, MiniSoft SD200W. All rådata er lagret hos Aqua Kompetanse AS. 
+ 
+ 
+1.5 Undersøkelsesområde og stasjonsplassering 
+Lokaliteten Kokvika ligger i Lurøy kommune, langs østsiden av øya Stigen (Figur 1). Anlegget ligger langs land 
+og er orientert i omtrent en nord-sør retning. Dybden under anlegget varierer fra 70 meter på det grunneste 
+til rundt 145 meter på det dypeste, og skrår mot øst ned i Stigfjorden, som har et dyp på omtrent 350 meter. 
+Figur 2 gir en oversikt over lokaliteten i forhold til andre anlegg.  
+ 
+Kokvika er vurdert etter en C-undersøkelse i henhold til NS 9410:2016. Økende maksimal tillatt biomasse 
+(MTB) gir økende antall prøvestasjoner, og med en MTB på 6240 tonn ved Kokvika er veiledende antall 
+prøvestasjoner 6, jamfør Tabell 11. 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+12 
+Tabell 11: Veiledende antall prøvestasjoner som skal tas per anlegg ut fra MTB og veiledende avstand fra anlegg til ytre 
+sone, stasjon C2. Gjengitt etter NS 9410:2016. 
+MTB på lokaliteten (tonn) 
+Veiledende avstand fra anlegg til C2 
+Veiledende antall prøvestasjoner 
+≤ 1999 
+300 
+3 
+2000 til 3599 
+400 
+4 
+3600 til 5999 
+500 
+5 
+≥ 6000 
+500 
+6 
+ 
+ 
+1.5.1 Produksjonsdata og tidligere undersøkelser 
+Kokvika har ligget i nåværende posisjon siden 2014, og Tabell 12 viser produksjon og fôrforbruk ved anlegget 
+for inneværende generasjon og de tre foregående generasjonene. Tidligere C-undersøkelser og deres resultat 
+er presentert i Tabell 11. 
+ 
+Tabell 12: Produksjonsdata og fôrforbruk for de tre forrige generasjonene og for inneværende generasjonen ved lokalitet 
+Kokvika (produksjonsopplysninger mottatt fra Nova Sea AS v/S.J. Anderson).  
+ 
+Tabell 13: Tidligere C-undersøkelser ved Kokvika (Brokke, 2018; Olsen, 2007). Nederste rad viser resultatene fra denne 
+undersøkelsen. 
+Dato 
+feltarbeid 
+Generasjon 
+Biomasse ved 
+undersøkelse (t) 
+Utfôret 
+mengde (t) 
+Produsert 
+mengde (t) 
+Økologisk 
+tilstand: 
+Miljøtilstand 
+for stasjon 
+C1 
+01.11.2006 
+2006H 
+150 
+56 
+- 
+St. 2 og 3: 
+Dårlig/meget 
+dårlig 
+2 
+30.11.2017 
+2016V 
+0 
+7287 
+6672 
+C2, C3, C5: II 
+C4: I 
+2 
+17-18.07.2019 
+2018V 
+3115 
+4602 
+4326 
+C2, C3, C4, C5: II 
+C6: IV 
+1 
+ 
+1.5.2 Vannstrøm 
+Øverst i vannkolonnen (5 og 15 meters dyp) går vannstrømmen hovedsakelig mot sør-sørvest (Fatnes, 
+2015a). Andelen nullstrøm er lav ved alle målte dyp, og varierer fra 3,16 til 6,3%. 
+Spredningsstrømmen (70m) beveger seg i sørlig retning, med en returstrøm i retning nordvest, og er antatt 
+tidevannsbasert 
+med 
+hyppigste 
+strømretninger 
+mot 195, 
+210, 
+180 
+og 
+225 grader (Fatnes, 
+2015b). Strømhastighetene er vist i Tabell 14, og retningen på spredningsstrømmen er markert i Figur 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+Utsett 
+Generasjon: 
+Produsert mengde (tonn) 
+Utfôret mengde (tonn) 
+Utslakt 
+10.05.2012 
+12V 
+4631 
+5153 
+05.12.2013 
+25.04.2014 
+14V 
+5350 
+5834 
+03.11.2015 
+11.01.2016 
+16V 
+6672 
+7287 
+06.11.2017 
+20.01.2018 
+18V 
+4326 
+4602 
+- 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+13 
+Tabell 14: Strømmålinger ved Kokvika. Målingene fra 5 og 15 meter er utført med Sensordata SD6000 rotormålere ved 
+66°24.850’ N, 12°57.397’ Ø i perioden 28.05 – 09.07.2015 (Fatnes, 2015a) og målingene fra 70, 85 og 100 meter er utført 
+med akustisk profilerende dopplermåler ved 66°24.89’ N, 12°57.52’ Ø i perioden 28.05 - 22.07.2015 (Fatnes, 2015b).  
+Dyp (m)  
+Gjennomsnittshastighet 
+(cm/s)  
+Maksimalhastighet 
+(cm/s)  
+Signifikant maksimal-
+hastighet (cm/s)  
+Nullstrøm  
+(% mellom 0-1 cm/s)  
+5  
+5,2 
+39,0  
+10,4  
+6,3  
+15  
+4,6 
+32,8 
+ 8,4 
+ 4,5 
+70  
+ 7 
+ 113 
+13  
+3,16  
+85 
+5 
+64 
+8 
+5,04 
+100 
+5 
+37  
+8  
+3,76  
+ 
+ 
+1.5.3 Stasjonsplassering 
+Fremherskende strømretning, bunntype, batymetri, og veiledende avstander gitt i NS 9410:2016 ligger til 
+grunn for plassering av prøvetakingsstasjonene (Figur 2). Anleggssonestasjon C1 ligger i overgangen mellom 
+anleggssonen og overgangssonen på østsiden av anlegget. Alle stasjonene unntatt C6 ble tatt samme sted 
+som ved undersøkelsen utført i 2017 (Brokke, 2018; Tabell 15). I ytterkant av overgangssonen ligger stasjon 
+C2, ca. 490 meter sørøst fra anleggsrammen, og C3, C4 og C5 er lagt hhv. 55, 150 og 300 meter øst for 
+anlegget. Stasjon C6 er lagt 75 meter sør for anleggsrammen. Alle stasjoner er avmerket på kartet i Figur 2, 
+og posisjonen for stasjonene leses av i Tabell 15.  
+ 
+Tabell 15: Oversikt over stasjoner, plassering av stasjoner etter NS9410:2016 med koordinater, dybde ved prøvestasjon, 
+avstand mellom prøvestasjon og anlegg, og målte parametere ved Kokvika. Bio = kvantitativ opparbeiding av 
+makrofaunaprøver; Geo = geologiske analyser av kornfordeling (pelitt); Kjemi = kjemiske analyser av TOC, TOM og TN; 
+EK = elektrokjemiske målinger av pH og Eh; Cu = kobberanalyse; CTD = hydrografisk måling av salinitet, temperatur og 
+oksygen. 
+Stasjoner 
+C1  
+C2 
+C3 
+C4 
+C5 
+C6 
+Plassering etter 
+NS9410 
+Anleggssone 
+Ytre sone 
+Overgangssone 
+Parametere 
+Bio – Geo – 
+Kjemi – EK – 
+Cu 
+Bio – Geo – 
+Kjemi – EK – 
+CTD 
+Bio – Geo – 
+Kjemi – EK 
+Bio – Geo – 
+Kjemi – EK 
+Bio – Geo – 
+Kjemi – EK  
+Bio – Geo – 
+Kjemi – EK  
+Koordinater 
+66°24.750’N 
+12°57.514’Ø 
+66°24.515’N 
+12°58.038’Ø 
+66°24.761’N 
+12°57.580’Ø 
+66°24.706’N 
+12°57.686’Ø 
+66°24.654’N 
+12°57.863Ø 
+66°24.595’N 
+12°57.283’Ø 
+Dybde (m) 
+146 
+227 
+164 
+185 
+224 
+88 
+Avstand til 
+anlegg (m) 
+ 
+25* 
+490 
+55 
+150 
+300 
+75 
+*Avstand fra prøvestasjon til nærmeste merd iht. NS 9410:2016: «Prøvestasjon C1: Stasjonen skal ligge fra 25 til 30 meter fra 
+merdkant. Den skal legges mot den delen av anlegget der B-undersøkelsen viser at påvirkningen er størst.» 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+14 
+1.5.4 Kartbilder: Stasjonsplassering og anleggslokalisering 
+Samtlige kart er med kartdatum WGS84. 
+ 
+ 
+Figur 1: Oversiktskart med plasseringen av anlegget (rød markering) i forhold til andre anlegg. Målestokk vises i venstre 
+hjørne, kartkilde i 1:80 000. Kilde: Fiskeridirektoratets kartløsning. 
+ 
+ 
+Figur 2: Kartet viser anleggsplassering sammen med C-stasjoner og fortøyningsliner. Lilla pil viser orientering av kart, 
+gul pil indikerer hovedkomponent for vanntransport på 70 meters dyp (spredningsdyp), og gult kryss markerer posisjon 
+for strømmålingene på 133 m ved 12°57.52’ N, 66°24.89’ Ø (Fatnes, 2015b). Målestokk vises øverst i bildet. Kilde: 
+Olex. Kartdatum WGS84.  
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+15 
+ 
+Figur 3: Sjøkart som viser bunndata fra Kokvika med anleggsplassering og fortøyningsliner sammen med prøvestasjoner 
+fra forrige B-forundersøkelse (Klykken, 2019) og C-undersøkelsens innerste stasjoner (grønne kryss). Kilde: Olex. 
+Kartdatum WGS84.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+16 
+2. Resultat 
+2.1 Geokjemiske analyser og sensoriske registreringer 
+Ved alle fire stasjonene ble det målt gode pH-verdier. Det ble målt positiv Eobs ved samtlige stasjoner, og 
+følgelig positiv Eh ved alle stasjonene. TOM nivåene varierte mellom 1,4% (C6) og 6,3% (C2), og TN-nivåene 
+varierte fra 0,7 – 2,8 g/kg. C/N-forholdet varierte mellom 6,6 og 10,5. Pelittandelen varierte, med 12,6% på 
+C6 og 92,5% på C2. Det ble målt kobber ved stasjon C1, og der var det kobbernivåer som er å betegnes som 
+«bakgrunnsnivå» (tilstandsklasse I). Karbonnivåene (nTOC) nivåene viste gode tilstander på tre av stasjonene, 
+og svært gode tilstander på de resterende tre stasjonene.  Det ble registrert normal lukt og farge i alle 
+undersøkte sediment. Sedimentet ved alle stasjoner bestod av sand, silt og skjellsand. Ved C1 og C6 var 
+fyllingsgraden ½, ved C3 og C4 var fyllingsgraden ¾ og ved C2 og C5 var fyllingsgraden full. 
+ 
+Tabell 16: Resultater fra elektrokjemiske målinger av pH og Eobs i overflatevannet, buffertemperatur, 
+sedimenttemperatur og standardpotensiale (Eref) basert på sedimenttemperatur. Eh i sjø er ikke kalkulert. 
+Buffertemperatur: 
+15,0 °C 
+pH sjø: 
+8,20 
+Sjøtemperatur: 
+13,2 °C 
+Eobs sjø: 
+457,7 
+Sedimenttemperatur: 
+9,3 °C 
+Eref sediment: 
+221 
+ 
+ 
+Tabell 17: Resultater fra elektrokjemiske og geokjemiske analyser av pH, Eh (redoks), TOC, TOM, TN, C/N, pelitt, TOC, 
+normalisert TOC (nTOC) og kobber. Tilstandsklassifisering for nTOC (organisk innhold) basert på SFT 97:03 (Tabell 4) og 
+tilstandsklassifisering for Cu (kobber) basert på M-608/2016 (Tabell 5). 
+ 
+Anleggssone 
+Ytre sone 
+Overgangssone 
+C1 
+C2 
+C3 
+C4 
+C5 
+C6 
+pH 
+7,93 
+7,88 
+7,82 
+7,91 
+7,87 
+7,94 
+Eobs (mV) 
+106 
+129 
+102 
+78,2 
+20 
+91 
+Eh (Eobs + Eref) (mV) 
+327 
+350 
+323 
+299,2 
+241 
+312 
+TN (g/kg) 
+0,9 
+2,8 
+0,9 
+0,9 
+2,1 
+0,7 
+TOM (%) 
+2,2 
+6,3 
+3,2 
+2,6 
+5,7 
+1,4 
+C/N 
+10,5 
+6,8 
+8,0 
+7,3 
+6,8 
+6,6 
+Pelitt (%) 
+21,3 
+92,5 
+50,4 
+54,4 
+84,1 
+12,6 
+TOC (mg/g) 
+9,42 
+18,9 
+7,20 
+6,58 
+14,3 
+4,65 
+nTOC 
+Tilstandsklasse 
+23,6 
+II 
+20,3 
+II 
+16,1 
+I 
+14,8 
+I 
+17,2 
+I 
+20,4 
+II 
+Cu (mg/kg) 
+Tilstandsklasse 
+13 
+I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 Kvantitative bunndyrsanalyser 
+Hovedtrekkene i artssammensetningen blir vist i form av en topp-ti artsliste fra hver stasjon, basert på snitt 
+av to replikater per stasjon. Artene inndeles i fem økologiske grupper (Ecological groups; EG) etter Rygg og 
+Norling (2013), som går fra sensitive arter (gruppe I) til forurensingsindikatorer (gruppe V).  
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+17 
+Tabell 18: De ti mest dominerende artene på hver stasjon med antall individer (#), kumulativ prosent (%) og økologisk 
+gruppe2 (EG). Arter med ukjent gruppe (EG) er markert med i.k. 
+C1 
+# 
+% 
+EG 
+C2 
+# 
+% 
+EG 
+Paramphinome jeffreysii 
+175 
+18 
+III 
+Paramphinome jeffreysii 
+222 
+34 
+III 
+Galathowenia sp. 
+108 
+30 
+III 
+Yoldiella lucida 
+88 
+47 
+II 
+Owenia sp. 
+91 
+39 
+III 
+Abra nitida 
+53 
+55 
+III 
+Capitella capitata 
+84 
+48 
+V 
+Amphiura chiajei 
+48 
+62 
+II 
+Thyasira sarsi 
+77 
+56 
+IV 
+Thyasira equalis 
+45 
+69 
+III 
+Scoloplos armiger 
+50 
+62 
+III 
+Nucula nitidosa 
+44 
+76 
+III 
+Thyasira flexuosa 
+32 
+65 
+III 
+Falcidens crossotus 
+38 
+82 
+II 
+Notomastus latericeus 
+31 
+68 
+I 
+Thyasiridae indet. 
+20 
+85 
+I 
+Prionospio sp. 
+30 
+71 
+III 
+Heteromastus filiformis 
+16 
+87 
+IV 
+Ennucula tenuis 
+27 
+74 
+II 
+Sabellidae indet. 
+8 
+88 
+II 
+C3 
+# 
+% 
+EG 
+C4 
+# 
+% 
+EG 
+Paramphinome jeffreysii 
+300 
+40 
+III 
+Paramphinome jeffreysii 
+170 
+21 
+III 
+Thyasira equalis 
+50 
+46 
+III 
+Thyasira equalis 
+70 
+30 
+III 
+Yoldiella nana 
+44 
+52 
+III 
+Yoldiella nana 
+70 
+39 
+III 
+Galathowenia sp. 
+43 
+58 
+III 
+Labidoplax buskii  
+63 
+46 
+II 
+Cirratulidae indet. 
+30 
+62 
+IV 
+Chatoderma nitidulum 
+58 
+54 
+II 
+Thyasira sarsi 
+29 
+66 
+IV 
+Notomastus latericeus 
+43 
+59 
+I 
+Notomastus latericeus 
+27 
+69 
+I 
+Pista sp. 
+34 
+63 
+I 
+Yoldiella philippiana 
+26 
+73 
+I 
+Diplocirrus glaucus 
+29 
+67 
+II 
+Chaetoderma nitidulum 
+20 
+75 
+II 
+Thyasiridae indet. 
+28 
+70 
+I 
+Abra nitida 
+20 
+78 
+III 
+Abra nitida 
+19 
+73 
+III 
+C5 
+# 
+% 
+EG 
+C6 
+# 
+% 
+EG 
+Paramphinome jeffreysii 
+81 
+22 
+III 
+Capitella capitata 
+1743 
+87 
+V 
+Thyasiridae indet. 
+53 
+15 
+I 
+Heteromastus filiformis 
+113 
+92 
+IV 
+Thyasira equalis 
+33 
+9 
+III 
+Capitellidae indet. 
+97 
+97 
+III 
+Heteromastus filiformis 
+28 
+8 
+IV 
+Ophryotrocha hartmanni 
+17 
+98 
+IV 
+Chaetoderma nitidulum 
+15 
+4 
+II 
+Hiatella arctica 
+16 
+99 
+I 
+Falcidens crossotus 
+15 
+4 
+II 
+Scoloplos armiger 
+5 
+99 
+III 
+Nucula sp. 
+13 
+4 
+II 
+Thyasira sarsi 
+3 
+99 
+IV 
+Abra nitida 
+13 
+4 
+III 
+Goniada maculata 
+2 
+99 
+II 
+Yoldiella nana 
+10 
+3 
+III 
+Chaetozone setosa 
+2 
+99 
+IV 
+Terebellides stroemii 
+7 
+2 
+II 
+Anonyx sp. 
+2 
+99 
+II 
+ 
+For fullstendig oversikt over faunaindekser og artslister, se rapport fra Pelagia Nature & Environment AB i 
+Vedlegg B. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          
+2 Økologiske grupper: EG I: sensitive arter; EG II = nøytrale arter; EG III = tolerante arter; EG IV = opportunistiske arter; EG IV = 
+opportunistiske arter; EG V = forurensingsindikatorer. Rygg & Norling, 2013 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+18 
+2.2.1 Miljøtilstand i anleggssonen 
+Ved C1 var det lignende antall arter som ved de andre stasjonene. Den tolerante arten Paramphinome 
+jeffreysii var den hyppigst forekommende med 18% av individantallet. Stasjonen klassifiseres til miljøtilstand 
+1 ut fra NS9410:2016, basert på at én art utgjør mindre enn 65% av det totale individtallet og at prøven 
+inneholdt minst 20 arter makrofauna fra et prøveareal på 0,2 m2.  
+ 
+Tabell 19: NS 9410:2016 Klassifisering av miljøtilstand i bløtbunnsamfunnet i anleggssonen C1 ved Kokvika. 
+Stasjon 
+Antall arter 
+Dominerende taksa (%) 
+Miljøtilstand (NS 9410:2016) 
+C1 
+44 
+Paramphinome jeffreysii (18 %) 
+1 
+ 
+ 
+2.2.2 Økologisk tilstandsklassifisering og undersøkelsesfrekvens 
+Ved C2, i ytterkanten av overgangssonen, lå de fleste indeksene i tilstandsklasse II (god), med unntak av ES100 
+som lå i tilstandsklasse III (moderat), og ISI2012 som hadde tilstand I (svært god). Den tolerante arten 
+Paramphinome jeffreysii var den hyppigst forekommende med 34% av individantallet. Stasjonen ble totalt 
+klassifisert til tilstandsklasse II, med en nEQR på 0,69.  
+ 
+Faunaindeksene ved C3, C4 og C5 lå i tilstandsklassene I og II. Hyppigste forekommende art ved disse 
+stasjonene var den tolerante arten Paramphinome jeffreysii. Ved C6 lå faunaindeksene i flere tilstandsklasser 
+(II-V), og hyppigst forekommende art var forurensingsindikatoren Capitella capitata. Ved denne stasjonen 
+var det også høyere individantall enn ved de andre stasjonene. Samlet tilstand for alle stasjonene i 
+overgangssonen (C3-C6) var II, med en nEQR på 0,68 (Tabell 20).  
+ 
+Kokvika ligger i økoregion H – Norskehavet Sør og vanntype 1-3 (Tabell 7) 
+ 
+Tabell 20: Resultater fra kvantitative bunndyrsanalyser basert på sum av to replikater for antall arter og individer, og 
+snitt av to replikater per stasjon for indeksberegninger. Antall arter og individer per 0,2 m2, Shannon-Wieners 
+diversitetsindeks (H’), Norwegian Sensitivity Index (NSI, sensitivitetsindeks), Hurlberts diversitetsindeks (ES100), ISI2012 
+ømfintlighetsindeks, NQI1 (sammensatt indeks, diversitet og ømfintlighet) og normalisert EQR. Økologisk 
+tilstandsklassifisering basert på diversitetsindekser baseres på indeksverdi fra Veileder 02:2018 (Tabell 7 og 8). Blå = I 
+Svært god; Grønn = II God; Gul = III Moderat; Oransje = IV Dårlig; Rød = V Svært dårlig. Nederst i tabellen er 
+gjennomsnittlig nEQR og samlet økologisk tilstand for overgangssonen, samt undersøkelsesfrekvens jamfør Tabell 9. 
+ 
+Anleggssone 
+Ytre sone 
+Overgangssone 
+C1 
+C2 
+C3 
+C4 
+C5 
+C6 
+Antall arter 
+44 
+31 
+47 
+39 
+38 
+19 
+Antall individer 
+951 
+659 
+756 
+804 
+363 
+2013 
+NQI1 
+0,64 
+0,67 
+0,69 
+0,70 
+0,71 
+0,59 
+H’ 
+4,04 
+3,13 
+3,61 
+3,93 
+3,61 
+0,27 
+ES100 
+22,14 
+14,96 
+23,31 
+21,90 
+20,91 
+20,91 
+ISI2012 
+7,82 
+8,87 
+9,04 
+9,27 
+9,51 
+5,76 
+NSI 
+19,80 
+23,42 
+21,60 
+23,86 
+23,88 
+8,83 
+nEQR 
+Økologisk tilstand 
+0,68 
+II 
+0,69 
+II 
+0,75 
+II 
+0,79 
+II 
+0,77 
+II 
+0,37 
+IV 
+Samlet nEQR 
+Samlet økologisk 
+tilstand 
+ 
+ 
+0,68 
+II 
+Undersøkelsesfrekvens 
+ 
+Hver tredje produksjonssyklus 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+19 
+2.3 Hydrografi 
+Saltholdighet, temperatur, tetthet og oksygeninnhold ble målt fra overflaten og ned til bunnen (down-cast) i 
+dypområdet ved lokaliteten (C2; Figur 2). Resultatene fra denne undersøkelsen presenteres i Figur 4 og 5.  
+ 
+ 
+ 
+Figur 4: Sjøtemperatur (°C ; grønn), salinitet (rød) og tetthet (-1000 kg/m3; sort) fra overflaten og ned til bunnen (down-
+cast) på 325 meters dyp ved stasjon C2 den 23.10.2019. 
+ 
+Ved den dypeste stasjonen, C2 ble det målt hydrografiske data gjennom hele vannsøylen (Figur 4). Fra 
+overflaten ned til omtrent 80 meters dyp var det relativt jevn temperatur og salinitet, før saliniteten økte 
+raskt og temperaturen sank. Under omtrent 100 meters dyp holdt temperaturen og saliniteten seg stabil ned 
+til bunnen.  
+Down-cast selected
+320
+310
+300
+290
+280
+270
+260
+250
+240
+230
+220
+210
+200
+190
+180
+170
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0 m
+34,5
+34,0
+33,5
+33,0
+9,5
+9,0
+8,5
+8,0
+7,5
+7,0
+28,5
+28,0
+27,5
+27,0
+26,5
+26,0
+25,5
+Sal.
+Temp
+Density
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+20 
+ 
+Figur 5: Oksygenmetning (%; rød) og oksygenkonsentrasjon (ml/l; grønn) fra overflaten og ned til bunnen (down-cast)  
+på 325 meters dyp ved stasjon C2 den 23.10.2019. 
+ 
+ 
+Profilen for oksygenmetning viser høy konsentrasjon i overflaten, før det synker noe ujevnt ned til omtrent 
+95 meters dyp. Under dette stiger oksygenmetningen noe før den holder seg stabil med noe variasjon ned 
+mot bunnen. Bunnvannet holder en oksygenkonsentrasjon på 5,61 ml O2/l, og får dermed tilstandsklasse I - 
+svært god iht. Veileder 02:2018 (Tabell 10). 
+ 
+ 
+ 
+ 
+ 
+Down-cast selected
+320
+310
+300
+290
+280
+270
+260
+250
+240
+230
+220
+210
+200
+190
+180
+170
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0 m
+5,7
+5,6
+5,5
+5,4
+90,0
+89,0
+88,0
+87,0
+86,0
+85,0
+84,0
+83,0
+OpOx %
+ml/l
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+21 
+3. Oppsummering 
+Alle stasjonene viste gode pH og Eh-målinger, og alle hadde normalt lukt og farge. Mengden nitrogen (nTOC) 
+ved C1, C2 og C6 hadde tilstand II (god), mens de resterende stasjonene fikk tilstand I (svært god). 
+Kobbermålingene på stasjon C1 viste lave forekomster og hadde tilstand I (bakgrunnsnivå). C/N nivået var 
+høyest på C1, og lavest ved C6. De høyeste pelittandelene ble funnet ved C2 og C5, med henholdsvis 92,5% 
+og 84,1%. Høy pelittandel kan indikere lite resuspensjon, og at dette kan være er sted materiale vil legge seg. 
+ 
+Ved C1 var den tolerante arten Paramphinome jeffreysii hyppigst forekommende med 18% av individantallet, 
+og stasjonen ble klassifisert til miljøtilstand 1. Denne arten var hyppigst forekommende ved alle stasjonene 
+med unntak av C6, som ble dominert av en forurensingsindikator. C2, i ytterkant av overgangssonen, fikk god 
+tilstand ut fra fauna. Stasjonene i overgangssonen ble klassifisert til god tilstand, med unntak av C6 som 
+hadde dårlig tilstand. Den samlede tilstanden i overgangssonen var god. 
+ 
+Oksygennivået var høyt i hele vannsøylen, og bunnvannet ble klassifisert til tilstand I – svært god. 
+ 
+Ved forrige undersøkelse i 2017 lå stasjonene på samme plassering, med unntak av C6, som er ny i denne 
+undersøkelsen. Stasjon C1-C5 kan derfor sammenlignes direkte.  
+ 
+Resultatene fra undersøkelsen i 2017 viste beste tilstand for nTOC nivåer på én stasjon (C3), mens i 
+inneværende undersøkelse fikk tre stasjoner (C3, C4 og C5) beste tilstand. Dette indikerer noe nedgang i 
+mengden karbon i overgangssonen.  Kobbermengden ved C1 har også bedret seg fra tilstandsklasse II/III til 
+beste tilstandsklasse i inneværende undersøkelse.  
+ 
+Stasjon C1 hadde miljøtilstand 2 i undersøkelsen i 2017, og hadde miljøtilstand 1 i inneværende undersøkelse. 
+C2 ble klassifisert til god tilstand i begge undersøkelser. I overgangssonen (C3-C5) var hyppigst 
+forekommende art den samme ved begge undersøkelser, og stasjon C3 og C5 ble klassifisert til god ved begge 
+undersøkelser. C4 gikk fra å bli klassifisert som svært god i 2017 til god i inneværende undersøkelse.  
+ 
+Resultatene fra denne undersøkelsen viste god tilstand ved alle stasjoner i overgangssonen med unntak av 
+C6 som hadde dårlig tilstand. Denne stasjonen lå rett sør for anlegget i en liten bukt, som kan føre til endrede 
+strømforhold lokalt.  
+ 
+Den ytre sonen ved Kokvika er klassifisert til å være god, og overgangssonen totalt er også klassifisert til god. 
+Undersøkelsesfrekvensen videre skal derfor være hver tredje produksjonssyklus (jamfør Tabell 9).   
+ 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+22 
+4. Referanser 
+Aure, J., Dahl, E., Green, N., Magnusson, J., Moy, F., Pedersen, A., Rygg, B. & Walday, M. (1993) 
+Langtidsovervåkning av trofiutviklingen I kystvannet langs Sør-Norge. Årsrapport 1990 og samlerapport 1990-
+91. Statlig program for forurensningsovervåking. Rapport 510/93. 
+ 
+Bray, R. T. & Curtis, J. T. (1957) An ordination of the upland forest communities of southern Wisconsin. Ecol. 
+Monogr., 27:325-349. 
+ 
+Brokke, K. (2018) C-undersøkelse ved Kokvika i Lurøy kommune november 2017. Rapportnummer 307-11-
+17C, levert av Aqua Kompetanse AS. 
+ 
+Fatnes, O. A. (2015a) Lokaliteten: Kokvika. Overflate- og utskiftingsstrøm. Levert av Nova Sea AS.  
+ 
+Fatnes, O. A. (2015b) Strømmålinger Kokvika 70, 85 og 100 m, Juni 2015. Levert av Nova Sea AS. 
+ 
+Hach Company (2014) User Manual gel filled ORP/Redox Probe: Model MTC10101, MTC10103, MTC10105, 
+MTC10110, MTC10115 or MTC10130. doc022.53.80033. Edition 4. 
+ 
+Hurlbert, S. N. (1971) The non-concept of the species diversity: A critique and alternative parameters. Ecology 
+52:577-586. 
+ 
+Klykken, C. (2019) B-undersøkelse ved Kokvika i Lurøy kommune, juli 2019. Rapportnummer 202-7-19B levert 
+av Aqua Kompetanse AS.  
+ 
+Miljødirektoratet (2019) Presisering av standard NS9410:2016. Utgitt 24.04.2019. 
+ 
+Molvær, J., Knutzen, J., Magnusson, J., Rygg, B., Skei, J. og Sørensen, J. (1997) Klassifisering av miljøkvalitet i 
+fjorder og kystfarvann. Statens forurensningstilsyn. Veileder 97:03. 
+ 
+Norsk Standard 5667-19 (2004). Vannundersøkelse. Prøvetaking. Del 19: Veiledning i sedimentprøvetaking i 
+marine områder (ISO 5667:2004). Standard Norge. NS-EN ISO 5667-19: 2004.  
+ 
+Norsk Standard 16665 (2013) Vannundersøkelse. Retningslinjer for kvantitativ prøvetaking og 
+prøvebehandling av marin bløtbunnsfauna (ISO 166665: 2014). Standard Norge. NS-EN ISO 16665:2013. 
+ 
+Norsk standard 9410 (2016) Miljøovervåkning av bunnpåvirkning fra marine akvakulturanlegg. Standard 
+Norge. NS 9410:2016.  
+ 
+Rygg, B. (2002) Indicator species index for assessing benthic ecological quality in marine water of Norway. 
+NIVA report SNO 4548-2002. 
+ 
+Rygg, B. & Norling, K. (2013) Norwegian Sensitivity Index (NSI) for marine macro invertebrates, and an update 
+of Indicator Species Index (ISI). NIVA report SNO 64-75-2013.  
+ 
+Shannon, C. E. & Weaver, W. (1949) The Mathematical Theory of Communication. Univ. Illinois Press, Urbana. 
+ 
+Veileder 02:2018 (2018) Klassifisering av miljøtilstand i vann. Økologisk og kjemisk klassifiseringssystem for 
+kystvann, grunnvann, innsjøer og elver. Direktoratsgruppen vanndirektivet 2018. 
+ 
+Veileder M-608 (2016) Grenseverdier for klassifisering av vann, sediment og biota. Miljødirektoratet. 
+ 
+ 
+ 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+23 
+Vedlegg A – Bilder av sediment 
+Bilde for C4 foreligger ikke. Sedimentet besto av sand, silt og skjellsand. Prøven hadde en pelittandel på 
+54,4% (se Eurofins Environment Testing Norway AS rapport i Vedlegg C). 
+ 
+ 
+Figur A-1: Bilde av sedimentet ved C1. Sedimentet besto av sand, silt og skjellsand. Prøven hadde en pelittandel på 
+21,3% (se Eurofins Environment Testing Norway AS rapport i Vedlegg C). Foto: Aqua Kompetanse AS. 
+ 
+ 
+Figur A-2: Bilde av sedimentet ved C2. Sedimentet besto av sand, silt og skjellsand. Prøven hadde en pelittandel på 
+92,5% (se Eurofins Environment Testing Norway AS rapport i Vedlegg C). Foto: Aqua Kompetanse AS. 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+24 
+ 
+Figur A-3: Bilde av sedimentet ved C3. Sedimentet besto av sand, silt og skjellsand. Prøven hadde en pelittandel på 
+50,4% (se Eurofins Environment Testing Norway AS rapport i Vedlegg C)]. Foto: Aqua Kompetanse AS. 
+ 
+ 
+Figur A-4: Bilde av sedimentet ved C5.  Sedimentet besto av silt, sand og skjellsand. Prøven hadde en pelittandel på 
+84,1% (se Eurofins Environment Testing Norway AS rapport i Vedlegg C). Foto: Aqua Kompetanse AS. 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+25 
+ 
+ 
+Figur A-5: Bilde av sedimentet ved C6.  Sedimentet besto av silt, sand og skjellsand. Prøven hadde en pelittandel på 
+12,6% (se Eurofins Environment Testing Norway AS rapport i Vedlegg C). Foto: Aqua Kompetanse AS. 
+ 
+ 
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+26 
+ Vedlegg B – Pelagia Nature & Environment AB rapport 
+ 
+PELAGIA NATURE & ENVIRONMENT AB
+
+Adress: Telefon: E-post: Hemsida:
+Industrivågen 14, 2 tr 090-702170 info pelagia.se www. pelagia.se
+901 30 Umeå (+46 90 702170)
+Sweden.
+
+Författare: Direkt: Kvalitetsgranskat av:
+
+Martin Johansson 090-702170 Ed Westwood
+
+oN EDA ra Ackrediterade metoder i denna rapport avser:
+. . I nf
+
+> res res g Analys av bottenfauna
+
+7, Wes
+fen qv
+
+Ackred. nr. 1846
+Provning
+
+Laboratorier ackrediteras av Styrelsen för ackreditering och teknisk kontroll (SWEDAC) enligt svensk lag. Den
+ackrediterade verksamheten vid laboratorierna uppfyller kraven i SS-EN ISO/IEC 17 025 (2005).
+
+ISOMIEC 17025 Denna rapport får endast återges i sin helhet, om inte utfårdande laboratorium i förvåg
+skriftligen godkånt annat.
+2/13
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+
+27
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+1 Inledning
+
+Pelagia Nature & Environment AB har på uppdrag av Aqua Kompetanse AS utfört
+analys av 12 bottenfaunaprover från sex lokaler i Kokvika.
+
+2 Material och metod
+
+Plockning av bottenfauna utfördes av Helena Lorentzdotter, analys utfördes av Ed
+Westwood och Mats Uppman, indexberåkning utfördes av Martin Johansson, samtliga
+inom Pelagia Nature & Environment AB.
+
+Pelagia Nature & Environment AB år ett av SWEDAC ackrediterat organ för analys av
+bottenfaunaprover (SS-EN ISO 16665:2013).
+
+Bottenfaunans sammansåttning anvåndes för att beråkna olika index enligt "Klassifisering
+av miljøtilstand i vann” (Veileder 02:2018) samt ”Miljøovervåking av bunnpåvirkning fra
+marine akvakulturanlegg” (NS 9410:2016). Vattentyp H 1-3 har anvånts för alla
+utråkningar i enlighet med Veileder 02:2018. Förutom dessa har åven Bray-Curtis
+olikhetsindex samt Pielous (J) jamnhetsindex beråknats för varje station.
+
+For indexberåkningar som tar hånsyn till antal taxa (ES100, NQI1, H’, och J) kombinerades
+varje taxon med det specifika taxonets högsta identfierade rang. Till exempel, om Tliyasira
+sarsi, T. equalis och Thynasim sp. har identifierats, klassas detta endast som två taxa, eftersom
+det inte går att utesluta att Tliynsira sp. inte år antingen T. sarsi eller T. equalis. Detta för att
+inte få ett falskt förhöjt taxa-antal.
+
+Taxa markerat med ett kryss (x) i artlistorna indikerar att taxonet har identifierats i provet,
+men taxonet har ej anvånts i indexberåkningar (Veileder 02:2018), antal-summeringar
+(Tabell 1), eller Topp-10 listor.
+
+3 Resultat
+
+Resultaten presenteras i nedanstående tabeller och figurer.
+
+Tabell 1. Sammanfattning av alla stationers antal individer, antal arter samt index. Statusen indikeras med följande
+fårger: Blå = Svært god, Grön = God, Gul = Moderat, Orange = Dårlig, Röd = Svært dårlig.
+
+* Medelvårde baserat på C3, C4, C5 samt C6.
+
+** Miljøtillstånd för station C1 enligt NS 9410:2016.
+
+kne Ant a H' ES100 | NQI1 | I1S12012 NSI nEQR | AMBI J 9 ba >
+C1 951 44 22.14 | 0.64 7.82 19.80 | 0.68 2.88 | 0.82 i
+c2 659 31 343 14.96 | 0.67 23.42 | 0.69 1.98 | 0.71 «
+c3 756 47 3.61 0.69 21.60 | 0.75 2.49 | 0.70 «
+C4 804 39 21.90 | 0.70 23.86 | 0.79 1.93 | 0.82 -
+cs 363 38 3.61 20.91 | 0.71 23.88 | 0.77 2.27 | 0.77 .
+C6 2013 19 20.91 | 0.59 5.76 0.37 5.81 | 0.08 =
+Overgangszon* - - - - - - - 0.68 - - -
+
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+Tabell 2. Antal individer, procent, kumulativ procent, samt ekologisk grupp (NSI) för de tio mest abundanta taxa för
+
+varje station, per 0,2 m?.
+
+c1 Ant. % Kum. EG | C2 Ant. % Kum. EG
+Paramphinome jeffreysii 175 18% 18% Ill | Paramphinome jeffreysii 222 34% 34% ll
+Galathowenia sp. 108 11% 30% Ill | Yoldiella lucida 88 13% 47% Il
+
+Owenia sp. 91 10% 39% Ill | Abra nitida 53 8% 55% ill
+Capitella capitata 84 9% 48% V | Amphiura chiajei 48 7% 62% Il
+
+Thyasira sarsi 77 8% 56% IV | Thyasira equalis 45 7% 69% il
+Scoloplos armiger 50 5% 62% lll | Nucula nitidosa 44 7% 76% ul
+Thyasira flexuosa 32 3% 65% lll | Falcidens crossotus 38 6% 82% ll
+
+Notomastus latericeus 31 3% 68% | Thyasiridae 20 3% 85% |
+
+Prionospio sp. 30 3% 71% Ill | Heteromastus filiformis 16 2% 87% IV
+Ennucula tenuis 27 3% 74% II | Sabellidae 8 1% 88% ll
+c3 Ant. % Kum. EG | C4 Ant. % Kum. EG
+Paramphinome jeffreysii 300 | 40% 40% Ill | Paramphinome jeffreysii 170 21% 21% ll
+Thyasira equalis 50 7% 46% lll | Thyasira equalis 70 9% 30% ll
+Yoldiella nana 44 6% 52% Ill | Yoldiella nana 70 9% 39% i
+Galathowenia sp. 43 6% 58% Il | Labidoplax buskii 63 8% 46% ll
+Cirratulidae 30 4% 62% IV | Chaetoderma nitidulum 58 7% 54% Il
+Thyasira sarsi 29 4% 66% IV | Notomastus latericeus 43 5% 59% I
+
+Notomastus latericeus 27 4% 69% | Pista sp. 34 4% 63% |
+
+Yoldiella philippiana 26 3% 73% | Diplocirrus glaucus 29 4% 67% I
+Chaetoderma nitidulum 20 3% 75% I Thyasiridae 28 3% 70% |
+
+Abra nitida 20 3% 78% Ill | Abra nitida 19 2% 73% il
+C5 Ant. % Kum. EG | C6 Ant. % Kum. EG
+Paramphinome jeffreysii 81 22% 22% Ill | Capitella capitata 1743 | 87% 87% Vv
+Thyasiridae 53 15% 37% | Heteromastus filiformis 113 6% 92% IV
+Thyasira equalis 33 9% 46% III | Capitellidae 97 5% 97% ul
+Heteromastus filiformis 28 8% 54% IV | Ophryotrocha hartmanni a Fy 4 1% 98% IV
+Chaetoderma nitidulum 15 4% 58% II | Hiatella arctica 16 1% 99% |
+
+Falcidens crossotus 15 4% 62% II | Scoloplos armiger 5 0% 99% il
+Nucula sp. 13 4% 66% II | Thyasira sarsi =] 0% 99% IV
+Abra nitida 13 4% 69% Il! | Goniada maculata 2 0% 99% I
+Yoldiella nana 10 3% 72% Ill | Chaetozone setosa 2 0% 99% IV
+Terebellides stroemii 7 2% 74% II | Anonyx sp. 2 0% 99% Il
+
+203-7-19C KOKVIKA
+
+AQUA KOMPETANSE AS
+
+29
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+c2
+
+Unn.
+
+C1
+
+falas.
+
+0
+8-
+6
+“eo
+2
+o=
+
+5
+10
+
+Bye
+
+o=
+
+“Br0z
+4702-7201
+ECObZLS
+bes-asz
+9S2-B2L
+Lekre
+
+c4
+
+£97E
+LED
+Shs
+
+Hin...
+
+Ly
+
+ee
+
+15:=
+10 -
+5
+0
+
+-grOZ
+2702-7201
+ETOLTLE
+LIS-96Z
+GSZ-8Z)
+LZL-P9
+
+C3
+
+hl _
+
+£9-Z£
+Le-9L
+sg
+Pad
+€T
+
+exe} JelUy
+
+-EPOZ
+LYDZ-FZOL
+ETOLTIG
+LLS"95Z
+§92-821
+0179
+
+C6
+
+69-28
+
+Le8L i
+gig
+
+ET
+
+ez mn
+
+-BPOZ |
+LY02-PZOL |
+EZOL-ZIG |
+LLS-95Z |
+S6T-81 |
+12179
+e9-ze |
+ET
+
+cs
+|
+
+pa)
+Le
+ET
+
+|
+
+| |
+
+I
+
+|
+
+Es
+
+-BPOZ
+LYDZ-FZOL
+ETDLTIG
+LLS95T
+SGT-BTL
+Lehre
+£97£
+be-81
+GiB
+
+ET
+
+ped
+
+I
+
+"BPDZ
+Lp0Z-FZOL
+E20. -2bS
+biS-952.
+g92-821
+el P9
+€9TE
+be-OL
+sie
+
+Eg
+
+ee
+
+k
+
+Antal individer
+
+Figur 1. Antal taxa (y-axel) mot antal individer(x-axel) presenterat i geometriska klasser för varje station.
+
+30
+
+AQUA KOMPETANSE AS
+
+203-7-19C KOKVIKA
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+Kokvika 2019
+
+C4
+C3
+C2
+C5
+C1
+C6
+I T T ]
+1.0 0.8 0.6 0.2 0.0
+Dissimilarity
+Figur 2. Dendrogram över stationernas olikhet baserat på Bray-Curtis olikhetsindex.
+Tabell 3. Exakt olikhet mellan alla stationer baserat på Bray-Curtis olikhetsindex.
+C1 c2 c3 C4 cs C6
+C1 - 74% 53% 65% 82% 93%
+c2 74% - 56% 57% 60% 99%
+C3 53% 56% = 51% 69% 99%
+C4 65% 57% 51% - 60% 99%
+C5 82% 60% 69% 60% - 97%
+C6 93% 99% 99% 99% 97% -
+
+Artlistor med stations- och huggindex presenteras på följande sidor.
+
+203-7-19C KOKVIKA
+
+AQUA KOMPETANSE AS
+
+31
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+C1
+
+Det.: Mats Uppman, Pelagia Nature & Environment AB
+
+Provtagningsdatum: 2019-07-17
+Analysdatum: 2019-09-16
+Taxa
+
+Paramphinome jeffreysii
+Augeneria tentaculata
+Dorvilleidae
+
+Syllis cornuta
+
+Eteone longa
+Phyllodoce sp.
+
+Nephtys pente
+Goniada maculata
+Glycera lapidum
+Glycera sp.
+Galathowenia sp.
+Owenia sp.
+
+Prionospio sp.
+
+Pista sp.
+
+Pectinaria (Amphictene) auricoma
+Diplocirrus glaucus
+Chaetozone setosa
+Cirratulidae
+
+Melinna sp.
+
+Scoloplos armiger
+Capitella capitata
+Notomastus latericeus
+Harpinia sp.
+Tryphosites longipes
+Amphipoda
+Campylaspis costata
+Eudorella truncatula
+Diastylis cornuta
+Diastyloides biplicatus
+Ostracoda
+
+Ceriantharia
+Labidoplax buskii
+Amphiura chiajei
+Chaetoderma nitidulum
+Thyasira equalis
+Thyasira flexuosa
+Thyasira sarsi
+
+Yoldiella nana
+
+Yoldiella propinqua
+Nuculana minuta
+Ennucula tenuis
+Nucula nitidosa
+
+Abra alba
+
+Abra nitida
+Parvicardium minimum
+Euspira pallida
+Nemertea
+
+Antal Indlvider
+
+Antal taxa
+
+Totalt antal taxa
+
+Na!
+
+H
+
+E5100
+
+1512012
+
+NSI
+
+Sammanwågd status (nEQR)
+
+203-7-19C KOKVIKA
+
+Hugg 2
+45
+1
+4
+
+28
+
+mn
+
+> YS >
+
+4
+377
+37
+44
+Index
+0.68
+4.39
+26.27
+8.35
+20.37
+
+Hugg 3
+130
+
+12
+65
+
+24
+
+24
+
+26
+
+19
+
+Ek UKER
+
+49
+
+574
+27
+
+Index Medel Status
+
+0.60 064 [God
+
+3.69 4.04 Bee
+18.00 22.14
+730 7.82 |) God)
+19.24 19.80 Moderat
+0.68
+7/13
+
+AQUA KOMPETANSE AS
+
+32
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+C2
+
+Det.: Mats Uppman, Pelagia Nature & Environment AB
+Provtagningsdatum: 2019-07-18
+Analysdatum: 2019-09-17
+
+Taxa Hugg1 Hugg3
+Paramphinome jeffreysii 76 146
+Paradiopatra quadric uspis ab
+Drilonereis filum 3
+Sthenelais sp. 2 1
+Sabellidae 8
+Spiophanes kroyeri al
+Pista sp. 3 3
+Cistenides hyperborea 2
+Diplocirrus glaucus 1 £
+Melinna sp. 3
+Ampharetidae 8
+Phylo norvegicus 2
+Opheliidae 8
+Maldane sarsi 1
+Heteromastus filiformis 4 12
+Eriopisa elongata 2
+Edwardsiidae 7
+Echinocardium cordatum zl
+Echinocardium flavescens i
+Brissopsis lyrifera 4
+Amphiura chiajei 16 32
+Chaetoderma nitidulum 1
+Falcidens crossotus 38
+Thyasira equalis 1 44
+Thyasira sp. 4
+Thyasiridae 4 16
+Yoldiella lucida 37 51
+Nucula nitidosa 12 32
+Abra nitida 27 26
+Parvicardium minimum 3 di
+Philine sp. 1
+Antalis occidentalis 2
+Nemertea 8
+Onchnesoma steenstrupii 5
+Antal Indlvlder 244 415
+Antal taxa 21 21
+Totalt antal taxa 31
+Index Index Medel Status
+Nal 0.68 0s6 6:00.67 (God)
+H! 3.14 311 3.13 | God)
+E5100 15.46 14.45 14.96 Moderat
+15122012 9.14 8.50 887 BE
+NSI 23.90 22.94 23.42 MG
+Sammanvågd status (nEQR} 069 God
+
+8/13
+
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+C3
+
+Det.: Mats Uppman, Pelagia Nature & Environment AB
+
+Provtagningsdatum: 2019-07-17
+Analysdatum: 2019-09-20
+Taxa
+
+Paramphinome jeffreysii
+Augeneria tentaculata
+Sthenelais jeffreysii
+Sigalionidae
+
+Eteone longa
+
+Nephtys ciliata
+Hesionidae
+
+Goniada maculata
+Glycera lapidum
+Glycera sp.
+Galathowenia sp.
+Owenia sp.
+
+Polycirrinae
+
+Pista sp.
+
+Pectinaria (Amphictene) auricoma
+Diplocirrus glaucus
+Aphelochaeta sp.
+Chaetozone setosa
+Cirratulidae
+
+Anobothrus gracilis
+Melinna cristata
+Scalibregmatidae
+Scoloplos armiger
+Maldanidae
+
+Capitella capitata
+Notomastus laterice us
+Harpinia sp.
+Lysianassidae
+
+Eudorella truncatula
+Hemilamprops roseus
+Diastylis lucifera
+Cumacea
+
+Tanaidacea
+Edwardsiidae
+
+Brisaster fragilis
+Echinocardium flavescens
+Labidoplax buskii
+Ophiura sp.
+
+Amphiura chiajei
+Chaetoderma nitidulum
+Bathyarca pectunculoides
+Thyasira equalis
+Thyasira sarsi
+
+Modiolula phaseolina
+Yoldiella nana
+
+Yoldiella philippiana
+Ennucula tenuis
+
+Nucula nitidosa
+
+Nucula sp.
+
+Abra alba
+
+Abra nitida
+
+Phascolion strombus
+
+Hugg 1
+156
+
+BRN
+
+rw
+
+17
+
+18
+
+27
+
+32
+18
+
+17
+
+Hugg 3
+144
+4
+
+War
+
+N
+
+23
+21
+
+12
+
+oo
+
+Pwr
+
+Artlistorna fortsåtter pa nåsta sida.
+
+203-7-19C KOKVIKA
+
+9/13
+
+AQUA KOMPETANSE AS
+
+34
+C-undersökning, bottenfauna:
+
+Antal individer
+Antal taxa
+Totalt antal taxa
+
+NQ!
+
+H
+
+ES100
+
+ISI2012
+
+NSI
+
+Sammanwågd status (NEQR)
+
+203-7-19C KOKVIKA
+
+Jakobsteinsvika 2019
+
+430
+28
+47
+
+Index
+0.67
+3.64
+
+20.98
+8.37
+
+21.78
+
+326
+39
+
+Index Medel Status
+0.70 0.69 God
+358 3.61 God
+25.64 23.31 BEN
+9.71 9.04 Bd
+21.41 21.60 God
+075 | God
+
+AQUA KOMPETANSE AS
+
+35
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+C4
+
+Det.: Mats Uppman, Pelagia Nature & Environment AB
+
+Provtagningsdatum: 2019-07-17
+Analysdatum: 2019-09-23
+Taxa
+
+Paramphinome jeffreysii
+Drilonereis filum
+
+Syllis cornuta
+Sthenelais jeffreysii
+Pholoe sp.
+Aglaophamus pulcher
+Nephtyidae
+
+Goniada maculata
+Glycera sp.
+
+Spiophanes kroyeri
+Spionidae
+
+Pista sp.
+
+Pectinaria (Amphictene) auricoma
+Diplocirrus glaucus
+Cirratulidae
+
+Melinna cristata
+Melinna elisabethae
+Melinna sp.
+Ampharetidae
+
+Chirimia biceps
+Heteromastus filiformis
+Notomastus latericeus
+Synchelidium sp.
+Eriopisa elongata
+Nototropis vedlomensis
+Amphipoda
+
+Diastylis lucifera
+Apseudes spinosus
+Ostracoda
+
+Labidoplax buskii
+Amphiura chiajei
+Ophiuroidea
+Chaetoderma nitidulum
+Cuspidaria rostrata
+Thyasira equalis
+Thyasiridae
+
+Yoldiella nana
+
+Yoldiella philippiana
+Nuculana minuta
+Ennucula tenuis
+
+Nucula sp.
+
+Abra nitida
+Parvicardium minimum
+Antalis occidentalis
+Nemertea
+Onchnesoma steenstrupii
+Antal individer
+
+Antal taxa
+
+Totalt antal taxa
+
+Nal
+
+H
+
+E5100
+
+1S12012
+
+NS!
+
+Sammanvågd status (NEAR)
+
+203-7-19C KOKVIKA
+
+Hugg 1
+105
+
+ES EE
+
+ray
+wwe
+
+16
+25
+
+23
+
+24
+
+25
+20
+12
+
+Index
+0.69
+3.80
+
+22.33
+9.67
+
+23.76
+
+Hugg 3
+65
+9
+1
+
+20
+
+24
+
+16
+
+wo
+
+34
+45
+
+58
+
+16
+
+449
+26
+
+Index Medel Status
+0.71 0.70 (Ged)
+4.06 3.93 |Svgrtgodl
+21.46 21.90 |) God)
+8.87 9.27 Bee
+23.96 23.86 |) God)
+0.79 | God)
+
+11/13
+
+AQUA KOMPETANSE AS
+
+36
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+C5
+
+Det.: Ed Westwood, Pelagia Nature & Environment AB
+Provtagningsdatum: 2019-07-17
+Analysdatum: 2019-09-25
+
+Taxa Hugg1 Hugg3
+Paramphinome jeffreysii 45 36
+Paradiopatra quadricuspis ar
+Drilonereis filum 3
+Ceratocephale loveni 1
+Nephtys sp. 2
+Hesionidae zi
+Prionopsio cirrifera 4
+Terebellides stroemii 3 4
+Pista sp. 2 4
+Terebellidae 1
+Pectinaria (Amphictene) auricoma 1
+Pectinariidae 1
+Brada villosa 1 8
+Diplocirrus glaucus 1
+Melinna cristata å
+Ampharetidae 4
+Polyphysia crassa iE
+Phylo norvegicus 1
+Rhodine loveni ag
+Maldanidae 1
+Heteromastus filiformis 16 12
+Eriopisa elongata 3
+Diastyloides serratus 4
+Mysida 1
+Apseudes spinosus 4
+Philomedes (philomedes) lilljeborgi Bs
+Vargula norvegica ab
+Chaetognatha 1
+Brisaster fragilis 1
+Labidoplax buskii I
+Amphiura filiformis 6
+Amphilepis norvegica 4
+Ophiuroidea 4
+Chaetoderma nitidulum 15
+Falcidens crossotus 11 4
+Cuspidaria sp. 4
+Thyasira equalis 6 27.
+Thyasiridae 29 24
+Yoldiella lucida 2 il
+Yoldiella nana 2 8
+Nucula sp. 5 8
+Abra nitida zi 12
+Abra sp. 5
+Eulima bilineata Bg
+Gastropoda 4
+Entalina tetragona 4
+Nemertea 1
+Onchnesoma steenstrupii PÅ 4
+Antal Indlvlder 185 178
+Antal taxa 30 23
+Totalt antal taxa 38
+Index Index Medel Status
+Nal 0.70 on 071 (God)
+H! 3.78 3.43 3.61 |) God)
+E5100 23.54 1828 2091 | God)
+1812012 9.60 9.42 9.51 EN
+NSI 2431 23.46 23.88 |) God)
+Sammanvagd status (nEQR) 077 God)
+12/13
+
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+C-undersökning, bottenfauna: Jakobsteinsvika 2019
+
+C6
+
+Det.: Ed Westwood, Pelagia Nature & Environment AB
+Provtagningsdatum: 2019-07-18
+Analysdatum: 2019-09-20
+
+Taxa Hugg1 Hugg3
+Paramphinome jeffreysii 1
+Ophryotrocha hartmanni 17
+Lepidonotus squamatus I
+Eteone longa 1
+Phyllodoce groenlandica 1
+Goniada maculata 1 af
+Glycera alba 1
+Glycera lapidum 1
+Pectinaria (Amphictene) auricoma 1
+Brada villosa 1
+Chaetozone setosa 4 1
+Cirratulidae a
+Scoloplos armiger 3 2
+Capitella capitata 1091 652
+Heteromastus filiformis 32 81
+Capitellidae 49 48
+Anonyx sp. 2
+Tryphosites longipes 1
+Thyasira sarsi 2 i
+Thyasira sp. 2
+Hiatella arctica 16
+Nemertea 1
+Antal individer 1201 812
+Antal taxa 12 13
+Totalt antal taxa 19
+Index Index Medel Status
+Na! 0.56 0.62 0.59 Moderat
+H' 022 033 0.27 Be
+£S100 23.54 1828 20.91 (Goa)
+ISI2012 5.11 6.40 5.76 Dårlig
+NS! 832 934 3.93 Bed
+Sammanwagd status (nEQR) 0.37 Dårlig
+
+13/13
+
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+ 
+203-7-19C KOKVIKA 
+AQUA KOMPETANSE AS 
+39 
+Vedlegg C – Eurofins Environment Testing Norway AS rapport 
+ 
+fins
+
+Eurofins Environment Testing Norway
+AS (Moss)
+
+F. reg. 965 141 618 MVA
+
+Møllebakken 50
+
+NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063794-01
+Storlavika 7
+7770 Flatanger
+9 EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310091 Prøvetakingsdato: 17.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvem erking: C1/ASC2 Analysestartdato: 31.07.2019
+Geologi
+Analyse Resultat Enhet LOQ MU Metode
+a) Kornstørrelse < 63 um 21.3 % 0.1 Internal Method 6
+a) Kornstørrelse <2 um 27 %TS 1 Internal Method 6
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+
+Kopi til:
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring.
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense
+
+MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grensevera -området.
+
+Jeusikkerhet fas ved h delse til
+
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opply
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten i g
+
+inger om
+
+R 1e gjelder kun for de(n) undersøkte BESTE)
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA
+
+Side 1 av 1
+
+AQUA KOMPETANSE AS
+
+AR-001 v163
+
+40
+Eurofins Environment Testing Norway
+
+AS (Moss)
+
+oc. "
+® I F. reg. 965 141 618 MVA
+
+8 eurofins ae
+bay Q NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063797-01
+Storlavika 7
+7770 Flatanger
+oe EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310094 Prøvetakingsdato: 17.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvemerking: c2 Analysestartdato: 31.07.2019
+Kjemi
+Analyse Resultat Enhet LOQ MU Metode
+b) Total tørrstoff glødetap 6.3 %TS 0.1 10% EN 12879 (S3a):
+2001-02
+b) Tørrstoff
+b) Total tørrstoff 424 % 0.1 10% EN 12880: 2001-02
+a) Total nitrogen - Kjeldahl
+a) Nitrogen Kjeldahl (BOOM) 2.8 g/kg TS 0.5 19% EN 13342, Internal
+Method (Soil)
+a) Totalt organisk karbon (TOC) 18900 mg/kg TS 1000 20% NF EN 13137 (October
+
+2001 repealed)
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE- 53119, Lidköping ISO/IEC 17025:2005 SWEDAC 1125,
+
+Kop
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Maleusikkerh et
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1 ,<50 e.l. betyr ‘ikke pavist’.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -omradet
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opplysninger om ikkerhet fås ved h d til et.
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten jets skriftlige godkj R 1e gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+
+Side 1 av 1
+
+AR-001 v163
+
+41
+fins
+
+Eurofins Environment Testing Norway
+AS (Moss)
+
+F. reg. 965 141 618 MVA
+
+Møllebakken 50
+
+NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063798-01
+Storlavika 7
+7770 Flatanger
+9 EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310095 Prøvetakingsdato: 17.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvem erking: c2 Analysestartdato: 31.07.2019
+Geologi
+Analyse Resultat Enhet LOQ MU Metode
+a) Kornstørrelse < 63 um 925 % 0.1 Internal Method 6
+a) Kornstørrelse <2 um 6.5 %TS 1 Internal Method 6
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+
+Kopi til:
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring.
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense
+
+MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grensevera -området.
+
+Jeusikkerhet fas ved h delse til
+
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opply
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten i g
+
+inger om
+
+R 1e gjelder kun for de(n) undersøkte BESTE)
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA
+
+Side 1 av 1
+
+AQUA KOMPETANSE AS
+
+AR-001 v163
+
+42
+Eurofins Environment Testing Norway
+
+AS (Moss)
+
+oc. "
+® I F. reg. 965 141 618 MVA
+
+8 eurofins ae
+bay Q NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063799-01
+Storlavika 7
+7770 Flatanger
+oe EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310096 Prøvetakingsdato: 17.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvemerking: C3/ASC4 Analysestartdato: 31.07.2019
+Kjemi
+Analyse Resultat Enhet LOQ MU Metode
+b) Total tørrstoff glødetap 3.2 “TS 0.1 10% EN 12879 (S3a):
+2001-02
+b) Tørrstoff
+b) Total tørrstoff 62.9 % 0.1 10% EN 12880: 2001-02
+a) Total nitrogen - Kjeldahl
+a) Nitrogen Kjeldahl (BOOM) 0.9 g/kg TS 05 24% EN 13342, Internal
+Method (Soil)
+a) Totalt organisk karbon (TOC) 7200 mg/kg TS 1000 20% NF EN 13137 (October
+
+2001 repealed)
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE- 53119, Lidköping ISO/IEC 17025:2005 SWEDAC 1125,
+
+Kop
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Maleusikkerh et
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1 ,<50 e.l. betyr ‘ikke pavist’.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -omradet
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opplysninger om ikkerhet fås ved h d til et.
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten jets skriftlige godkj R 1e gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+
+Side 1 av 1
+
+AR-001 v163
+
+43
+fins
+
+Eurofins Environment Testing Norway
+AS (Moss)
+
+F. reg. 965 141 618 MVA
+
+Møllebakken 50
+
+NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063800-01
+Storlavika 7
+7770 Flatanger
+9 EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310097 Prøvetakingsdato: 17.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvem erking: C3/ASC4 Analysestartdato: 31.07.2019
+Geologi
+Analyse Resultat Enhet LOQ MU Metode
+a) Kornstørrelse < 63 um 50.4 % 0.1 Internal Method 6
+a) Kornstørrelse <2 um 35 %TS 1 Internal Method 6
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+
+Kopi til:
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring.
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense
+
+MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grensevera -området.
+
+Jeusikkerhet fas ved h delse til
+
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opply
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten i g
+
+inger om
+
+R 1e gjelder kun for de(n) undersøkte BESTE)
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA
+
+Side 1 av 1
+
+AQUA KOMPETANSE AS
+
+AR-001 v163
+
+44
+Eurofins Environment Testing Norway
+
+AS (Moss)
+
+et a
+® op F. reg. 965 141 618 MVA
+@O Møllebakken 50
+Q NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063801-01
+Storlavika 7
+7770 Flatanger
+g EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310098 Prøvetakingsdato: 17.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvemerking: C4 Analysestartdato: 31.07.2019
+Kjemi
+Analyse Resultat Enhet LOQ MU Metode
+b) Total tørrstoff glødetap 26 %TS 0.1 10% EN 12879 (S3a):
+2001-02
+b) Tørrstoff
+b) Total tørrstoff 63.6 % 0.1 10% EN 12880: 2001-02
+a) Total nitrogen - Kjeldahl
+a) Nitrogen Kjeldahl (BOOM) 0.9 g/kg TS 05 24% EN 13342, Internal
+Method (Soil)
+a) Totalt organisk karbon (TOC) 6580 mg/kg TS 1000 20% NF EN 13137 (October
+
+2001 repealed)
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE- 53119, Lidköping ISO/IEC 17025:2005 SWEDAC 1125,
+
+Kop
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Maleusikkerh et
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1 ,<50 e.l. betyr ‘ikke pavist’.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -omradet
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opplysninger om måleusikkerhet fås ved hi d til et.
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten jets skriftlige godkj R 1e gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+
+Side 1 av 1
+
+AR-001 v163
+
+45
+fins
+
+Eurofins Environment Testing Norway
+AS (Moss)
+
+F. reg. 965 141 618 MVA
+
+Møllebakken 50
+
+NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063802-01
+Storlavika 7
+7770 Flatanger
+9 EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310099 Prøvetakingsdato: 17.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvem erking: C4 Analysestartdato: 31.07.2019
+Geologi
+Analyse Resultat Enhet LOQ MU Metode
+a) Kornstørrelse < 63 um 54.4 % 0.1 Internal Method 6
+a) Kornstørrelse <2 um 3.8 %TS 1 Internal Method 6
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+
+Kopi til:
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring.
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense
+
+MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grensevera -området.
+
+Jeusikkerhet fas ved h delse til
+
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opply
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten i g
+
+inger om
+
+R 1e gjelder kun for de(n) undersøkte BESTE)
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA
+
+Side 1 av 1
+
+AQUA KOMPETANSE AS
+
+AR-001 v163
+
+46
+Eurofins Environment Testing Norway
+
+AS (Moss)
+
+et a
+® op F. reg. 965 141 618 MVA
+@O Møllebakken 50
+Q NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063803-01
+Storlavika 7
+7770 Flatanger
+9 EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310100 Prøvetakingsdato: 17.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvemerking: cs Analysestartdato: 31.07.2019
+Kjemi
+Analyse Resultat Enhet LOQ MU Metode
+b) Total tørrstoff glødetap 5.7 “TS 0.1 10% EN 12879 (S3a):
+2001-02
+b) Tørrstoff
+b) Total tørrstoff 51.3 % 0.1 10% EN 12880: 2001-02
+a) Total nitrogen - Kjeldahl
+a) Nitrogen Kjeldahl (BOOM) 2.1 g/kg TS 0.5 19% EN 13342, Internal
+Method (Soil)
+a) Totalt organisk karbon (TOC) 14300 mg/kg TS 1000 20% NF EN 13137 (October
+
+2001 repealed)
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE- 53119, Lidköping ISO/IEC 17025:2005 SWEDAC 1125,
+
+Kop
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Maleusikkerh et
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1 ,<50 e.l. betyr ‘ikke pavist’.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -omradet
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opplysninger om måleusikkerhet fås ved hi d til et.
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten jets skriftlige godkj R 1e gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+
+Side 1 av 1
+
+AR-001 v163
+
+47
+fins
+
+Eurofins Environment Testing Norway
+AS (Moss)
+
+F. reg. 965 141 618 MVA
+
+Møllebakken 50
+
+NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063804-01
+Storlavika 7
+7770 Flatanger
+9 EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310101 Prøvetakingsdato: 17.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvem erking: cs Analysestartdato: 31.07.2019
+Geologi
+Analyse Resultat Enhet LOQ MU Metode
+a) Kornstørrelse < 63 um 84.1 % 0.1 Internal Method 6
+a) Kornstørrelse <2 um 48 %TS 1 Internal Method 6
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+
+Kopi til:
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring.
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense
+
+MU: Maleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1 ,<50 e.l. betyr ‘ikke pavist’.
+
+ikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grensevera -området.
+
+fås ved hi delse til
+
+Måleusikkerhet er angitt med k=2. Mal
+For mikrobiologiske analyser oppgis vallet. Ytterligere opply
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige g
+
+inger om
+
+R 1e gjelder kun for de(n) undersøkte BESTE)
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA
+
+Side 1 av 1
+
+AQUA KOMPETANSE AS
+
+AR-001 v163
+
+48
+Eurofins Environment Testing Norway
+
+AS (Moss)
+
+oc. "
+® I F. reg. 965 141 618 MVA
+
+8 eurofins ae
+bay Q NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063807-01
+Storlavika 7
+7770 Flatanger
+oe EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310104 Prøvetakingsdato: 18.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvemerking: C6/ASC3 Analysestartdato: 31.07.2019
+Kjemi
+Analyse Resultat Enhet LOQ MU Metode
+b) Total tørrstoff glødetap 1.4 %TS 0.1 10% EN 12879 (S3a):
+2001-02
+b) Tørrstoff
+b) Total tørrstoff 76.2 % 0.1 10% EN 12880: 2001-02
+a) Total nitrogen - Kjeldahl
+a) Nitrogen Kjeldahl (BOOM) 0.7 g/kg TS 05 28% EN 13342, Internal
+Method (Soil)
+a) Totalt organisk karbon (TOC) 4650 mg/kg TS 1000 21% NF EN 13137 (October
+
+2001 repealed)
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE- 53119, Lidköping ISO/IEC 17025:2005 SWEDAC 1125,
+
+Kop
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Maleusikkerh et
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1 ,<50 e.l. betyr ‘ikke pavist’.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -omradet
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opplysninger om ikkerhet fås ved h d til et.
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten jets skriftlige godkj R 1e gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA AQUA KOMPETANSE AS
+
+Side 1 av 1
+
+AR-001 v163
+
+49
+fins
+
+Eurofins Environment Testing Norway
+AS (Moss)
+
+F. reg. 965 141 618 MVA
+
+Møllebakken 50
+
+NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+miljo@eurofins.no
+
+Aqua Kompetanse AS AR-19-MM-063808-01
+Storlavika 7
+7770 Flatanger
+9 EUNOMO-00234035
+Attn: Petter Carlsen
+Prøvemottak: 31.07.2019
+Temperatur:
+Analyseperiode: 31.07.2019-30.08.2019
+Referanse: Prosjekt
+203-7-19C/204-7-19ASC
+Kokvika
+Prøvenr.: 439-2019-07310105 Prøvetakingsdato: 18.07.2019
+Prøvetype: Sedimenter Prøvetaker: Oppdragsgiver
+Prøvem erking: C6/ASC3 Analysestartdato: 31.07.2019
+Geologi
+Analyse Resultat Enhet LOQ MU Metode
+a) Kornstørrelse < 63 um 126 % 0.1 Internal Method 6
+a) Kornstørrelse <2 um <1.0 %TS 1 Internal Method 6
+
+Utførende laboratorium/ Underleverandør:
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne NF EN ISO/IEC 17025:2005 COFRAC 1-1488,
+
+Kopi til:
+Kai-Erling Staven (kai@aqua-kompetanse.no)
+
+Moss 30.08.2019
+
+Stig Tjomsland
+ASM/Bachelor Kjemi
+
+Tegnforklaring.
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense
+
+MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med i k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grensevera -området.
+
+Jeusikkerhet fas ved h delse til
+
+For mikrobiologiske analyser oppgis intervallet. Ytterligere opply
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten i g
+
+inger om
+
+R 1e gjelder kun for de(n) undersøkte BESTE)
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+203-7-19C KOKVIKA
+
+Side 1 av 1
+
+AQUA KOMPETANSE AS
+
+AR-001 v163
+
+50

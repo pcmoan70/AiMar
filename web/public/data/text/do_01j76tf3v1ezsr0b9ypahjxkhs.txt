@@ -1,0 +1,3019 @@
+﻿2155-7-23S MÅVÆR 
+ 
+ 
+ 
+ 
+ 
+                        
+ 
+Vannstrømmåling ved 
+Måvær, Lurøy kommune, 
+april - juli 2023 
+ 
+Lovundlaks AS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Etter Norsk Standard NS 9425-1:1999 og NS 9425-2:2003 
+   AQUA KOMPETANSE AS 
+ 
+ 
+2023 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+1 
+ 
+ 
+Rapportens tittel: 
+Vannstrømmåling ved Måvær, Lurøy kommune, april - juli 2023 
+Måleperiode: 
+04.04.–12.07.2023 
+Rapportdato: 13.09.2023 
+Rapportnummer: 2155-7-23S 
+Antall sider uten vedlegg: 36 
+Antall sider totalt: 38 
+Oppdragsgiver: 
+Lovundlaks AS 
+Kontaktperson: 
+Arnt-Petter Olsen 
+Prosjektleder: 
+Bjørnar H. Røsvik 
+Lokalitet: Måvær 
+Kommune: Lurøy 
+Fylke: Nordland 
+Instrumenttype: 
+1 Aquadopp Profiler 
+2 Aquadopp Current Meter 
+Dybde målested: 
+ca. 66 meter 
+Koordinater for instrumentrigg: 
+66°28.548 N, 12°44.197 Ø 
+Resultatoversikt 
+5 meter 
+15 meter 
+49 meter 
+65 meter 
+Gjennomsnitt (cm/s): 
+8.9 
+6.2 
+5.5 
+5.5 
+Maksimalhastighet (cm/s): 
+39.6 
+29.2 
+23.2 
+18.1 
+Minimumshastighet (cm/s): 
+0.1 
+0.0 
+0.0 
+0.0 
+Varians (cm²/s²): 
+31.6 
+12.7 
+12.4 
+8.8 
+Strømstyrke 0-1 cm/s (%): 
+1.3 
+2.3 
+4.7 
+3.3 
+10-års strøm, beregnet: 
+65.3 
+48.2 
+- 
+- 
+50-års strøm, beregnet: 
+73.2 
+54.0 
+- 
+- 
+Hovedstrømretning: 
+nord-nordøst 
+nord-nordøst 
+nord 
+nord og sør 
+ 
+Emneord: 
+havstrøm, vannstrøm, overflatestrøm, dimensjoneringsstrøm, 
+vannutskiftning, spredningsstrøm, bunnstrøm, Aquadopp Profiler, 
+Aquadopp Current Meter, doppler  
+ID 2268-1.1 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig: 
+ 
+Bjørnar H. Røsvik 
+Kvalitetssikrer: 
+ 
+Linda Hagen 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org.nr.: 982 226 163 
+© 2023 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+2 
+Innhold 
+Innledning ................................................................................................................................................... 3 
+Materiale og metode ................................................................................................................................... 4 
+Kort vurdering ............................................................................................................................................. 6 
+Resultater .................................................................................................................................................... 6 
+Tidsserie - strømhastighet ........................................................................................................................ 8 
+Tidsserie - strømretning ..........................................................................................................................10 
+Strømrose - gjennomsnittlig strømhastighet ...........................................................................................12 
+Strømrose - maksimal strømhastighet .....................................................................................................14 
+Histogram - strømhastighet ....................................................................................................................16 
+Histogram - strømretning ........................................................................................................................18 
+Spredningsdiagram - strømretning og -hastighet .....................................................................................20 
+Strømrose - vanntransport (fluks) ...........................................................................................................22 
+Vektor - progressiv vektor .......................................................................................................................24 
+Sensorer - trykk registrert av instrument .................................................................................................26 
+Sensorer - instrumenthelning (tilt) ..........................................................................................................28 
+Sensorer - sjøtemperatur ........................................................................................................................30 
+Tabell - retning med returperiode ...........................................................................................................32 
+Tabell - matrise med retnings- og hastighetsgrupper ...............................................................................33 
+Vedlegg A - riggtegning ...............................................................................................................................37 
+Vedlegg B – meteorologi .............................................................................................................................38 
+Tidsserie - vindhastighet .........................................................................................................................38 
+Tidsserie - vindretning .............................................................................................................................38 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+3 
+Innledning 
+Aqua Kompetanse AS har på oppdrag fra Lovundlaks AS utført strømundersøkelser ved Måvær i Lurøy 
+kommune (Figur 1 og 2). Aqua Kompetanse har stått for instrumentutsett, kvalitetssikring av data samt 
+rapportering. Rapporten presenterer en oppsummering av resultatene fra strømmålingene, og er bygd på 
+forutsetningen om at leseren studerer følgende data og figurer nøye. Strømmålingene ble foretatt i perioden 
+04.04.–12.07.2023. Rådata finnes oppbevart hos Aqua Kompetanse AS, og er tilgjengelig ved forespørsel. 
+ 
+Figur 1: Oversiktskart over deler av Lurøy kommune. Innrammet kartutsnitt i rødt viser undersøkelsesområdet ved 
+Måvær. Målestokk vises øverst i figuren. Kartkilde: Olex. 
+ 
+Figur 2: Undersøkelsesområdet ved Måvær. Posisjon for plassering av strømrigg er markert med grønt kryss, og 
+anleggsrammen for Måvær er vist i svart. Målestokk vises øverst i figuren. Kartkilde: Olex. 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+4 
+Materiale og metode 
+Strømmålingene ved Måvær er gjennomført i henhold til NS 9425-1:1999 og NS 9425-2:2003. For å måle 
+vannstrøm er det benyttet tre akustiske strømmålere produsert av Nortek AS; en 400 kHz profilerende måler 
+og to 2000 kHz punktmålere. Akustiske strømmålere bruker dopplerskift for å beregne strømhastighet og -
+retning, og refereres ofte til som dopplermålere. Instrumentene er montert pekende oppover i en 
+bunnforankret rigg (se Vedlegg A for riggtegning), der den profilerende måleren er montert på 27 meters 
+dyp, og punktmålerne er montert på 49 og 65 meters dyp. Den profilerende måleren har et 
+instrumentoppsett på 25 celler × 2 meter som gir en rekkevidde på 50 meter. Punktmålerne måler i 
+monteringsdypet. Det er omtrent 66 meter dypt på målestedet. Punktmålerne registrerer i 1 minutt og 30 
+sekunder sammenhengende og hviler i 8 minutter og 30 sekunder, mens den profilerende måleren 
+registrerer i 1 minutt og 35 sekunder sammenhengende og hviler i 8 minutter og 25 sekunder. 
+Tabell 1: Informasjon om oppsett, instrument-ID og måletidspunkt. 
+Parametere 
+AQK006PR 
+AQK248CM 
+AQK219CM 
+Målertype 
+Aquadopp Profiler 
+Aquadopp Current Meter 
+Aquadopp Current Meter 
+Målernummer 
+AQK006PR 
+AQK248CM 
+AQK219CM 
+Hode-ID / Kort-ID 
+AQP 10375 / AQD15687 
+AQD 11793 / AQD17468 
+AQD 11176 / AQD16479 
+Frekvens (kHz) 
+400 
+2000 
+2000 
+Måleretning 
+Opp 
+Opp 
+Opp 
+Kompassoppdateringsrate (s) 
+1 
+1 
+1 
+Måleintervall (s) 
+600 
+600 
+600 
+Midlingsperiode (s) 
+95 
+90 
+90 
+Målebelastning (%) 
+100 
+35 
+35 
+Antall celler (#) 
+25 
+- 
+- 
+Cellestørrelse (m) 
+2 
+- 
+- 
+Blindsone (m) 
+1.00 
+0.35 
+0.35 
+Instrumentdyp (m) 
+26.8 
+49.3 
+65.3 
+Tidsrom for gyldige 
+registreringer 
+04.04.2023 16.20 - 
+12.07.2023 08.00 
+04.04.2023 18.12 - 
+12.07.2023 08.12 
+04.04.2023 18.14 - 
+12.07.2023 08.14 
+Lengde måleperiode (dager) 
+98.6 
+98.6 
+98.6 
+ 
+Under strømundersøkelsen var lokaliteten i stor grad uten drift. I løpet av måleperiodens begynnelse var det 
+seg fisk i en merd i omtrent én uke. Imidlertid forventes ikke målingene å være vesentlig påvirket av dette, 
+da avstanden fra merden til måleposisjonen var betydelig og derfor ikke forventes å ha innvirkning på målt 
+vannstrøm. I denne måleserien er det tatt utgangspunkt i et merddyp på 33 meter, og dybden på målestedet 
+er omtrent 66 meter. Vannutskiftningsstrøm skal måles i halve dypet av planlagt merddyp, altså 16.5 meters 
+dyp i dette tilfellet. Overflatestrømmen skal måles på 5 meters dyp, med et akseptabelt avvik på ± 2 meter, 
+og er i dette tilfellet hentet fra 5 meters dyp. Dimensjoneringsstrømmen skal måles på 15 meters dyp, med 
+et akseptabelt avvik på ± 3 meter, og er i dette tilfellet hentet fra 15 meters dyp. I denne rapporten 
+presenteres overflatestrøm på 5 meters dyp og dimensjoneringsstrøm på 15 meters dyp, som anses å 
+representere vannutskiftningsstrømmen tilstrekkelig. 
+Spredningsstrømmen skal måles midt mellom merdbunnen og sjøbunnen (maksimalt 50 meter under 
+notbunn), og vil i dette tilfellet være på 49.5 meters dyp. Strømdata for spredningsstrømmen er dette tilfellet 
+hentet ut for dette dypet. 
+Bunnstrømmen skal måles 1 meter over bunnen (maksimalt 100 meter under notbunn), og skal i dette tilfellet 
+være hentet fra 65 meters dyp. Strømdata for bunnstrømmen er i dette tilfellet hentet ut for dette dypet. 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+5 
+Det er foretatt en manuell og automatisk kvalitetskontroll av datasettet med programvarene SeaReport og 
+Storm. Datasettet er av god kvalitet, men totalt 6 situasjoner med korrupt data er manuelt fjernet fra 5 og 
+15 meters dyp (Tabell 2).  
+Tabell 2: Data manuelt fjernet i vannstrømmålingen ved Måvær. 
+Start 
+Slutt 
+Kommentarer 
+19.04.2023 13:19:42 
+19.04.2023 13:33:14 
+Korrupt måling, 5 meters dyp; brå hastighetsendring 
+30.04.2023 14:59:35 
+30.04.2023 15:13:07 
+Korrupt måling, 5 meters dyp; brå hastighetsendring 
+18.05.2023 08:09:21 
+18.05.2023 08:21:09 
+Korrupt måling, 5 meters dyp; brå hastighetsendring 
+13.04.2023 13:28:29 
+13.04.2023 13:50:46 
+Korrupt måling, 15 meters dyp; brå hastighetsendring 
+24.04.2023 09:40:18 
+24.04.2023 09:52:58 
+Korrupt måling, 15 meters dyp; forstyrrelse 
+03.05.2023 21:20:25 
+03.05.2023 21:31:58 
+Korrupt måling, 15 meters dyp; brå hastighetsendring 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+6 
+Kort vurdering 
+Vannstrømmen ved Måvær dreier hovedsakelig med tidevannet. De dominerende retningene på 5 og 15 
+meters dyp er rettet mot nord-nordøst. Nedover i vannsøylen på 49 meters dyp er det størst vanntransport 
+mot nord med en sekundærkomponent mot sør, mens det på 65 meters dyp er det tilnærmet like stor 
+vanntransport rette mot nord og sør.  
+Resultater 
+I denne måleserien fra Måvær er gjennomsnittlig vannstrøm 8.9, 6.2, 5.5 og 5.5 cm/s på 5, 15, 49 og 65 
+meters dyp, og maksimalhastigheten er henholdsvis 39.6, 29.2, 23.2 og 18.1 cm/s. Det er registrert lite 
+strømstille i måleperioden på alle undersøkte dyp. 
+Lokalitet Måvær befinner seg på østsiden av øygruppen Måvær i Lurøy kommune. Vest og sørvest for 
+måleposisjonen ligger henholdsvis Ytre og Indre Torkeløya, mens på nordsiden ligger Sandskjæret. På 
+sørsiden av lokaliteten strekker Måværfjorden seg fra sørvest inn mellom måleposisjonen og Ytre Kvarøy mot 
+nord-nordøst.  
+Størst vanntransport på 5 og 15 meters dyp er rettet mot nord-nordøst, med små sekundærkomponenter 
+mot sør-sørvest. Vannstrømmen er hovedsakelig tidevannsdrevet, og de høyeste strømtoppene registreres 
+mot nord-nordøst ved flo. Maksimalhastigheten på 5 meters dyp registreres mot nord-nordøst den 
+27.05.2023 på fløende sjø i en periode med nippflo. Maksimalhastigheten på 15 meters dyp er rettet mot 
+nord-nordøst den 06.06.2023, i en periode med springflo. I perioden fra 24.05.2023 til rundt 06.06.2023 
+opptrer flere av de høyeste registrerte strømhastighetene mot nord-nordøst. Dette sammenfaller med en 
+vedvarende periode med periodevis økt vind fra sørvest registrert ved den meteorologiske stasjonen Fv17 
+Sjonfjellet (Vedlegg B, Figur B.1-B.2). Fv17 Sjonfjellet ligger omtrent 33 kilometer i luftlinje sørøst for 
+måleposisjonen ved Måvær. 
+På 49 meters dyp er det størst vanntransport mot nord, med en mindre sekundærkomponent mot sør. På 65 
+meters dyp er vanntransporten omtrent like stor mot nord og sør, og her skifter vannstrømmen systematisk 
+retning med tidevannet, med strøm mot nord på fløende sjø og mot sør på ebbende sjø. 
+Nedenfor presenteres tabeller og figurer med statistikk og resultater. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+7 
+Tabell 3: Statistikk og nøkkeltall fra utført strømmåling. 
+Parametere 
+5 meter 
+15 meter 
+49 meter 
+65 meter 
+Gyldige målinger/totalt (#) 
+14201/14207 
+14202/14207 
+14197/14197 
+14197/14197 
+Gjennomsnittsstrøm (cm/s) 
+8.9 
+6.2 
+5.5 
+5.5 
+Maksimalstrøm (cm/s) 
+39.6 
+29.2 
+23.2 
+18.1 
+Minimumstrøm (cm/s) 
+0.1 
+0.0 
+0.0 
+0.0 
+Strømstyrke 0-1 cm/s (%) 
+1.3 
+2.3 
+4.7 
+3.3 
+Strømstyrke 1-3 cm/s (%) 
+10.1 
+15.7 
+24.1 
+19.4 
+Neumann-parameter 
+0.57 
+0.47 
+0.34 
+0.08 
+Standardavvik (cm/s) 
+5.6 
+3.6 
+3.5 
+3.0 
+Varians (cm²/s²) 
+31.6 
+12.7 
+12.4 
+8.8 
+Signifikant maksimum 
+strømhastighet (cm/s) 
+15.3 
+10.2 
+9.7 
+8.9 
+Signifikant minimum 
+strømhastighet (cm/s) 
+3.6 
+2.7 
+2.0 
+2.4 
+10 års returstrøm (cm/s) 
+65.3 
+48.2 
+- 
+- 
+50 års returstrøm (cm/s) 
+73.2 
+54.0 
+- 
+- 
+De 4 hyppigst forekommende 
+strømretningsgruppene (°) 
+15 - 30 
+0 - 15 
+30 - 45 
+345 - 360 
+15 - 30 
+0 - 15 
+345 - 360 
+30 - 45 
+0 - 15 
+345 - 360 
+180 - 195 
+15 - 30 
+0 - 15 
+180 - 195 
+165 - 180 
+345 - 360 
+De 4 hyppigst forekommende 
+strømhastighetsgruppene 
+(cm/s) 
+5 - 7 
+3 - 5 
+7 - 9 
+9 - 11 
+3 - 5 
+5 - 7 
+7 - 9 
+1 - 3 
+1 - 3 
+3 - 5 
+5 - 7 
+7 - 9 
+3 - 5 
+5 - 7 
+1 - 3 
+7 - 9 
+Mest vannutskiftning / retning / 
+15° sektor 
+1238 m3/m2 per 
+dag ved 15 - 30 
+709 m3/m2 per 
+dag ved 15 - 30 
+1599 m3/m2 per 
+dag ved 0 - 15 
+795 m3/m2 per 
+dag ved 180 - 195 
+Minst vannutskiftning / retning 
+/ 15° sektor 
+38 m3/m2 per dag 
+ved 120 - 135 
+49 m3/m2 per dag 
+ved 135 - 150 
+18 m3/m2 per dag 
+ved 255 - 270 
+4 m3/m2 per dag 
+ved 285 - 300 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+8 
+Tidsserie - strømhastighet 
+ 
+Figur 3: Vannstrømhastighet (cm/s) på 5 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 4: Vannstrømhastighet (cm/s) på 15 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+9 
+ 
+Figur 5: Vannstrømhastighet (cm/s) på 49 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 6: Vannstrømhastighet (cm/s) på 65 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+10 
+Tidsserie - strømretning 
+ 
+Figur 7: Vannstrømretning (°) på 5 meters dyp ved Måvær i perioden 04.04.–12.07.2023. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+Figur 8: Vannstrømretning (°) på 15 meters dyp ved Måvær i perioden 04.04.–12.07.2023. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+11 
+ 
+Figur 9: Vannstrømretning (°) på 49 meters dyp ved Måvær i perioden 04.04.–12.07.2023. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+Figur 10: Vannstrømretning (°) på 65 meters dyp ved Måvær i perioden 04.04.–12.07.2023. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+12 
+Strømrose - gjennomsnittlig strømhastighet 
+ 
+Figur 11: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 5 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. 
+ 
+ 
+Figur 12: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 15 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+13 
+ 
+Figur 13: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 49 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. 
+ 
+ 
+Figur 14: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 65 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+14 
+Strømrose - maksimal strømhastighet 
+ 
+Figur 15: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 5 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. 
+ 
+ 
+Figur 16: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 15 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+15 
+ 
+Figur 17: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 49 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. 
+ 
+ 
+Figur 18: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 65 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+16 
+Histogram - strømhastighet 
+ 
+Figur 19: Frekvensfordeling av vannstrømhastighet på 5 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 20: Frekvensfordeling av vannstrømhastighet på 15 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+17 
+ 
+Figur 21: Frekvensfordeling av vannstrømhastighet på 49 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 22: Frekvensfordeling av vannstrømhastighet på 65 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+18 
+Histogram - strømretning 
+ 
+Figur 23: Frekvensfordeling av vannstrømretning for hver 15° sektor på 5 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+ 
+Figur 24: Frekvensfordeling av vannstrømretning for hver 15° sektor på 15 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+19 
+ 
+Figur 25: Frekvensfordeling av vannstrømretning for hver 15° sektor på 49 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+ 
+Figur 26: Frekvensfordeling av vannstrømretning for hver 15° sektor på 65 meters dyp ved Måvær i perioden 04.04.–
+12.07.2023. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+20 
+Spredningsdiagram - strømretning og -hastighet 
+ 
+Figur 27: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 5 meters dyp 
+ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 28: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 15 meters dyp 
+ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+21 
+ 
+Figur 29: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 49 meters dyp 
+ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 30: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 65 meters dyp 
+ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+22 
+Strømrose - vanntransport (fluks) 
+ 
+Figur 31: Vanntransport (m³/m²/dag) for hver 15° sektor på 5 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 32: Vanntransport (m³/m²/dag) for hver 15° sektor på 15 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+23 
+ 
+Figur 33: Vanntransport (m³/m²/dag) for hver 15° sektor på 49 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 34: Vanntransport (m³/m²/dag) for hver 15° sektor på 65 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+24 
+Vektor - progressiv vektor 
+ 
+Figur 35: Progressiv vektor på 5 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 36: Progressiv vektor på 15 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+25 
+ 
+Figur 37: Progressiv vektor på 49 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 38: Progressiv vektor på 65 meters dyp ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+26 
+Sensorer - trykk registrert av instrument 
+ 
+Figur 39: Trykk (dBar) i instrumentdypet ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 40: Trykk (dBar) i instrumentdypet ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+27 
+ 
+Figur 41: Trykk (dBar) i instrumentdypet ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+28 
+Sensorer - instrumenthelning (tilt) 
+ 
+Figur 42: Instrumenthelning (°) på Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 43: Instrumenthelning (°) på Måvær i perioden 04.04.–12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+29 
+ 
+Figur 44: Instrumenthelning (°) på Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+30 
+Sensorer - sjøtemperatur 
+ 
+Figur 45: Temperatur i instrumentdypet ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+Figur 46: Temperatur i instrumentdypet ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+31 
+ 
+Figur 47: Temperatur i instrumentdypet ved Måvær i perioden 04.04.–12.07.2023. 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+32 
+Tabell - retning med returperiode 
+Tabell 4: Retning med returperiode for vannstrøm på 5 meters dyp. Strømhastighetene er oppgitt i m/s. Retningsgrupper 
+som definert i NS 9415. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.112 
+0.389 
+0.185 
+0.642 
+0.207 
+0.720 
+nordøst 
+0.110 
+0.396 
+0.182 
+0.653 
+0.204 
+0.732 
+øst 
+0.068 
+0.248 
+0.113 
+0.409 
+0.127 
+0.459 
+sørøst 
+0.045 
+0.182 
+0.075 
+0.300 
+0.084 
+0.336 
+sør 
+0.055 
+0.228 
+0.091 
+0.377 
+0.102 
+0.423 
+sørvest 
+0.065 
+0.216 
+0.108 
+0.356 
+0.121 
+0.399 
+vest 
+0.064 
+0.215 
+0.105 
+0.356 
+0.118 
+0.399 
+nordvest 
+0.074 
+0.266 
+0.122 
+0.439 
+0.137 
+0.493 
+Tabell 5: Retning med returperiode for vannstrøm på 15 meters dyp. Strømhastighetene er oppgitt i m/s. 
+Retningsgrupper som definert i NS 9415. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.075 
+0.292 
+0.124 
+0.482 
+0.139 
+0.540 
+nordøst 
+0.073 
+0.238 
+0.121 
+0.393 
+0.135 
+0.441 
+øst 
+0.053 
+0.193 
+0.087 
+0.318 
+0.098 
+0.357 
+sørøst 
+0.040 
+0.128 
+0.066 
+0.212 
+0.074 
+0.238 
+sør 
+0.048 
+0.160 
+0.080 
+0.264 
+0.089 
+0.296 
+sørvest 
+0.055 
+0.181 
+0.091 
+0.299 
+0.102 
+0.336 
+vest 
+0.048 
+0.144 
+0.078 
+0.238 
+0.088 
+0.266 
+nordvest 
+0.055 
+0.184 
+0.091 
+0.304 
+0.102 
+0.341 
+ 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+33 
+Tabell - matrise med retnings- og hastighetsgrupper 
+Tabell 6: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 5 meters dyp ved 
+Måvær i perioden 04.04.–12.07.2023. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. 
+5 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+9 
+30 
+31 
+70 
+68 
+92 
+187 
+199 
+435 
+286 
+71 
+58 
+0 
+0 
+1536 
+10.82 
+1085 
+14.12 
+15-30 
+6 
+18 
+33 
+46 
+57 
+71 
+186 
+196 
+514 
+247 
+120 
+107 
+0 
+0 
+1601 
+11.27 
+1238 
+16.11 
+30 
+9 
+25 
+33 
+45 
+69 
+70 
+175 
+163 
+384 
+177 
+53 
+45 
+0 
+0 
+1248 
+8.79 
+847.8 
+11.03 
+45 
+9 
+19 
+36 
+47 
+54 
+62 
+118 
+119 
+291 
+128 
+24 
+3 
+0 
+0 
+910 
+6.41 
+553.6 
+7.2 
+60 
+5 
+29 
+27 
+40 
+44 
+51 
+111 
+109 
+153 
+54 
+4 
+1 
+0 
+0 
+628 
+4.42 
+327.7 
+4.26 
+75 
+11 
+29 
+31 
+39 
+33 
+27 
+87 
+61 
+82 
+7 
+0 
+0 
+0 
+0 
+407 
+2.87 
+170.1 
+2.21 
+90 
+4 
+14 
+32 
+29 
+39 
+23 
+45 
+31 
+16 
+3 
+0 
+0 
+0 
+0 
+236 
+1.66 
+81.8 
+1.06 
+105 
+9 
+25 
+29 
+18 
+19 
+31 
+32 
+22 
+6 
+1 
+0 
+0 
+0 
+0 
+192 
+1.35 
+56.4 
+0.73 
+120 
+7 
+16 
+26 
+28 
+19 
+14 
+22 
+5 
+6 
+0 
+0 
+0 
+0 
+0 
+143 
+1.01 
+38 
+0.49 
+135 
+11 
+14 
+21 
+32 
+23 
+13 
+18 
+8 
+10 
+1 
+0 
+0 
+0 
+0 
+151 
+1.06 
+42.4 
+0.55 
+150 
+8 
+14 
+35 
+27 
+30 
+28 
+28 
+7 
+6 
+4 
+0 
+0 
+0 
+0 
+187 
+1.32 
+54 
+0.7 
+165 
+12 
+19 
+31 
+33 
+28 
+23 
+36 
+18 
+18 
+1 
+0 
+0 
+0 
+0 
+219 
+1.54 
+68.3 
+0.89 
+180 
+7 
+25 
+40 
+38 
+39 
+39 
+42 
+25 
+14 
+4 
+1 
+0 
+0 
+0 
+274 
+1.93 
+88.3 
+1.15 
+195 
+3 
+11 
+30 
+31 
+46 
+50 
+66 
+43 
+46 
+11 
+2 
+0 
+0 
+0 
+339 
+2.39 
+140.5 
+1.83 
+210 
+8 
+38 
+35 
+35 
+55 
+51 
+69 
+50 
+56 
+21 
+0 
+0 
+0 
+0 
+418 
+2.94 
+168.3 
+2.19 
+225 
+7 
+22 
+40 
+56 
+37 
+68 
+91 
+48 
+60 
+10 
+1 
+0 
+0 
+0 
+440 
+3.1 
+173.8 
+2.26 
+240 
+9 
+20 
+39 
+49 
+52 
+50 
+99 
+46 
+49 
+12 
+1 
+0 
+0 
+0 
+426 
+3 
+165.3 
+2.15 
+255 
+6 
+21 
+53 
+56 
+56 
+59 
+97 
+64 
+46 
+11 
+1 
+0 
+0 
+0 
+470 
+3.31 
+178.8 
+2.33 
+270 
+9 
+33 
+35 
+58 
+61 
+57 
+93 
+58 
+62 
+8 
+1 
+0 
+0 
+0 
+475 
+3.34 
+182.6 
+2.38 
+285 
+5 
+33 
+43 
+53 
+61 
+61 
+112 
+65 
+59 
+6 
+0 
+0 
+0 
+0 
+498 
+3.51 
+188.7 
+2.46 
+300 
+4 
+27 
+50 
+54 
+63 
+64 
+132 
+94 
+88 
+22 
+4 
+0 
+0 
+0 
+602 
+4.24 
+259.9 
+3.38 
+315 
+10 
+36 
+49 
+50 
+54 
+74 
+138 
+112 
+135 
+30 
+11 
+1 
+0 
+0 
+700 
+4.93 
+324.7 
+4.23 
+330 
+8 
+23 
+41 
+68 
+68 
+78 
+176 
+137 
+210 
+76 
+34 
+5 
+0 
+0 
+924 
+6.51 
+503.2 
+6.55 
+345 
+5 
+29 
+47 
+54 
+75 
+73 
+170 
+165 
+309 
+175 
+63 
+12 
+0 
+0 
+1177 
+8.29 
+746.9 
+9.72 
+SUM (#) 
+181 
+570 
+867 
+1056 
+1150 
+1229 
+2330 
+1845 
+3055 
+1295 
+391 
+232 
+0 
+0 
+14201 
+100 
+7684.1 
+100 
+SUM (%) 
+1.27 
+4.01 
+6.11 
+7.44 
+8.1 
+8.65 
+16.41 
+12.99 
+21.51 
+9.12 
+2.75 
+1.63 
+0 
+0 
+100 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+34 
+Tabell 7: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 15 meters dyp ved 
+Måvær i perioden 04.04.–12.07.2023. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. 
+15 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0 
+12 
+47 
+75 
+113 
+127 
+138 
+280 
+224 
+291 
+68 
+20 
+1 
+0 
+0 
+1396 
+9.83 
+674.6 
+12.58 
+15 
+11 
+48 
+56 
+105 
+138 
+147 
+281 
+244 
+320 
+85 
+8 
+2 
+0 
+0 
+1445 
+10.17 
+708.8 
+13.21 
+30 
+18 
+38 
+64 
+83 
+101 
+105 
+231 
+171 
+215 
+42 
+4 
+0 
+0 
+0 
+1072 
+7.55 
+488.1 
+9.1 
+45 
+12 
+28 
+54 
+73 
+105 
+96 
+154 
+124 
+117 
+24 
+3 
+0 
+0 
+0 
+790 
+5.56 
+332 
+6.19 
+60 
+11 
+36 
+64 
+64 
+69 
+64 
+122 
+89 
+73 
+6 
+1 
+0 
+0 
+0 
+599 
+4.22 
+226.7 
+4.23 
+75 
+16 
+36 
+36 
+50 
+51 
+53 
+79 
+46 
+38 
+4 
+0 
+0 
+0 
+0 
+409 
+2.88 
+139.6 
+2.6 
+90 
+15 
+34 
+33 
+53 
+42 
+36 
+52 
+14 
+14 
+1 
+0 
+0 
+0 
+0 
+294 
+2.07 
+83.9 
+1.56 
+105 
+15 
+29 
+52 
+40 
+29 
+24 
+39 
+19 
+7 
+0 
+0 
+0 
+0 
+0 
+254 
+1.79 
+66.6 
+1.24 
+120 
+11 
+25 
+39 
+31 
+27 
+24 
+31 
+5 
+5 
+0 
+0 
+0 
+0 
+0 
+198 
+1.39 
+49.5 
+0.92 
+135 
+11 
+31 
+42 
+29 
+31 
+26 
+24 
+10 
+2 
+0 
+0 
+0 
+0 
+0 
+206 
+1.45 
+49.4 
+0.92 
+150 
+14 
+34 
+37 
+35 
+32 
+25 
+24 
+9 
+2 
+0 
+0 
+0 
+0 
+0 
+212 
+1.49 
+49.7 
+0.93 
+165 
+4 
+23 
+46 
+49 
+35 
+27 
+41 
+22 
+13 
+0 
+0 
+0 
+0 
+0 
+260 
+1.83 
+76.2 
+1.42 
+180 
+12 
+31 
+52 
+47 
+42 
+48 
+48 
+28 
+16 
+1 
+0 
+0 
+0 
+0 
+325 
+2.29 
+95.7 
+1.78 
+195 
+16 
+30 
+44 
+59 
+68 
+42 
+84 
+45 
+28 
+1 
+0 
+0 
+0 
+0 
+417 
+2.94 
+135.4 
+2.52 
+210 
+18 
+29 
+63 
+51 
+62 
+54 
+94 
+44 
+52 
+4 
+0 
+0 
+0 
+0 
+471 
+3.32 
+163.8 
+3.05 
+225 
+6 
+34 
+51 
+53 
+77 
+72 
+99 
+53 
+36 
+1 
+0 
+0 
+0 
+0 
+482 
+3.39 
+165.1 
+3.08 
+240 
+17 
+32 
+62 
+76 
+63 
+70 
+96 
+35 
+16 
+0 
+0 
+0 
+0 
+0 
+467 
+3.29 
+140.7 
+2.62 
+255 
+15 
+35 
+73 
+72 
+70 
+67 
+79 
+26 
+8 
+0 
+0 
+0 
+0 
+0 
+445 
+3.13 
+124.3 
+2.32 
+270 
+14 
+45 
+55 
+85 
+75 
+59 
+94 
+34 
+15 
+0 
+0 
+0 
+0 
+0 
+476 
+3.35 
+138.7 
+2.59 
+285 
+10 
+32 
+66 
+68 
+85 
+70 
+103 
+42 
+9 
+0 
+0 
+0 
+0 
+0 
+485 
+3.42 
+146.4 
+2.73 
+300 
+20 
+44 
+78 
+84 
+105 
+92 
+115 
+71 
+30 
+0 
+0 
+0 
+0 
+0 
+639 
+4.5 
+201.1 
+3.75 
+315 
+17 
+52 
+74 
+106 
+111 
+113 
+138 
+78 
+55 
+3 
+0 
+0 
+0 
+0 
+747 
+5.26 
+250.3 
+4.67 
+330 
+13 
+43 
+77 
+112 
+126 
+136 
+196 
+140 
+94 
+10 
+1 
+0 
+0 
+0 
+948 
+6.68 
+356 
+6.64 
+345 
+16 
+44 
+74 
+140 
+107 
+137 
+245 
+175 
+180 
+36 
+11 
+0 
+0 
+0 
+1165 
+8.2 
+501.1 
+9.34 
+SUM (#) 
+324 
+860 
+1367 
+1678 
+1778 
+1725 
+2749 
+1748 
+1636 
+286 
+48 
+3 
+0 
+0 
+14202 
+100 
+5363.7 
+100 
+SUM (%) 
+2.28 
+6.06 
+9.63 
+11.82 
+12.52 
+12.15 
+19.36 
+12.31 
+11.52 
+2.01 
+0.34 
+0.02 
+0 
+0 
+100 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+35 
+Tabell 8: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 49 meters dyp ved 
+Måvær i perioden 04.04.–12.07.2023. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. 
+49 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0 
+51 
+108 
+145 
+194 
+219 
+266 
+627 
+644 
+866 
+113 
+11 
+0 
+0 
+0 
+3244 
+22.85 
+1599.1 
+33.4 
+15 
+30 
+87 
+108 
+140 
+115 
+168 
+293 
+208 
+137 
+7 
+0 
+0 
+0 
+0 
+1293 
+9.11 
+481.8 
+10.06 
+30 
+15 
+68 
+92 
+88 
+55 
+75 
+57 
+19 
+4 
+0 
+0 
+0 
+0 
+0 
+473 
+3.33 
+115.8 
+2.42 
+45 
+33 
+58 
+75 
+69 
+32 
+16 
+13 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+298 
+2.1 
+52.8 
+1.1 
+60 
+26 
+49 
+59 
+40 
+8 
+7 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+193 
+1.36 
+28.9 
+0.6 
+75 
+17 
+52 
+44 
+21 
+7 
+3 
+2 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+148 
+1.04 
+21.6 
+0.45 
+90 
+47 
+67 
+45 
+31 
+10 
+3 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+205 
+1.44 
+25.1 
+0.53 
+105 
+23 
+51 
+66 
+29 
+9 
+0 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+181 
+1.27 
+25.4 
+0.53 
+120 
+25 
+49 
+45 
+33 
+12 
+6 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+176 
+1.24 
+27.2 
+0.57 
+135 
+22 
+69 
+71 
+60 
+24 
+25 
+17 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+290 
+2.04 
+53.8 
+1.12 
+150 
+29 
+69 
+72 
+93 
+83 
+48 
+63 
+28 
+7 
+0 
+0 
+0 
+0 
+0 
+492 
+3.47 
+122.1 
+2.55 
+165 
+20 
+50 
+74 
+98 
+114 
+126 
+229 
+185 
+108 
+1 
+0 
+0 
+0 
+0 
+1005 
+7.08 
+385.3 
+8.05 
+180 
+54 
+84 
+116 
+132 
+167 
+187 
+324 
+224 
+205 
+4 
+0 
+0 
+0 
+0 
+1497 
+10.54 
+571.2 
+11.93 
+195 
+25 
+80 
+104 
+105 
+101 
+78 
+120 
+67 
+39 
+0 
+0 
+0 
+0 
+0 
+719 
+5.06 
+215.3 
+4.5 
+210 
+14 
+80 
+56 
+58 
+46 
+32 
+19 
+6 
+1 
+0 
+0 
+0 
+0 
+0 
+312 
+2.2 
+63.6 
+1.33 
+225 
+26 
+75 
+66 
+47 
+22 
+8 
+4 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+249 
+1.75 
+38.5 
+0.8 
+240 
+30 
+68 
+43 
+25 
+11 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+179 
+1.26 
+23 
+0.48 
+255 
+11 
+39 
+47 
+20 
+5 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+124 
+0.87 
+17.7 
+0.37 
+270 
+49 
+67 
+56 
+30 
+12 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+215 
+1.51 
+25.5 
+0.53 
+285 
+21 
+60 
+40 
+23 
+19 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+167 
+1.18 
+23.6 
+0.49 
+300 
+17 
+60 
+57 
+35 
+23 
+8 
+6 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+208 
+1.47 
+34.6 
+0.72 
+315 
+31 
+80 
+92 
+75 
+45 
+19 
+26 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+374 
+2.63 
+71.1 
+1.48 
+330 
+28 
+67 
+111 
+109 
+94 
+71 
+111 
+26 
+9 
+0 
+0 
+0 
+0 
+0 
+626 
+4.41 
+163.7 
+3.42 
+345 
+14 
+80 
+120 
+139 
+157 
+185 
+335 
+290 
+191 
+8 
+1 
+0 
+0 
+0 
+1520 
+10.71 
+601.3 
+12.56 
+SUM (#) 
+658 
+1617 
+1804 
+1694 
+1390 
+1337 
+2258 
+1714 
+1571 
+133 
+12 
+0 
+0 
+0 
+14188 
+100 
+4788 
+100 
+SUM (%) 
+4.63 
+11.39 
+12.71 
+11.93 
+9.79 
+9.42 
+15.9 
+12.07 
+11.07 
+0.94 
+0.08 
+0 
+0 
+0 
+100 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+36 
+Tabell 9: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 65 meters dyp ved 
+Måvær i perioden 04.04.–12.07.2023. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. 
+65 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 50 75 
+100 
+# 
+% 
+m³/m²/døgn 
+% 
+0 
+37 
+80 
+136 
+208 
+283 
+288 
+509 
+300 
+153 
+1 
+0 
+0 
+0 
+0 
+1995 
+14.05 
+728 
+15.32 
+15 
+20 
+86 
+144 
+205 
+185 
+177 
+190 
+56 
+19 
+0 
+0 
+0 
+0 
+0 
+1082 
+7.62 
+306.6 
+6.45 
+30 
+16 
+67 
+122 
+135 
+128 
+97 
+57 
+8 
+2 
+0 
+0 
+0 
+0 
+0 
+632 
+4.45 
+149.7 
+3.15 
+45 
+34 
+97 
+112 
+104 
+70 
+30 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+460 
+3.24 
+83.4 
+1.76 
+60 
+25 
+72 
+77 
+52 
+17 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+249 
+1.75 
+36.4 
+0.77 
+75 
+14 
+61 
+59 
+34 
+18 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+188 
+1.32 
+27.4 
+0.58 
+90 
+42 
+112 
+93 
+61 
+15 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+325 
+2.29 
+43 
+0.91 
+105 
+30 
+72 
+90 
+43 
+21 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+259 
+1.82 
+37.1 
+0.78 
+120 
+14 
+73 
+88 
+78 
+34 
+10 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+299 
+2.11 
+50.6 
+1.06 
+135 
+26 
+67 
+113 
+131 
+98 
+56 
+26 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+519 
+3.66 
+109.3 
+2.3 
+150 
+18 
+83 
+101 
+161 
+151 
+174 
+222 
+83 
+29 
+7 
+0 
+0 
+0 
+0 
+1029 
+7.25 
+322 
+6.78 
+165 
+14 
+57 
+76 
+128 
+197 
+286 
+507 
+358 
+136 
+12 
+0 
+0 
+0 
+0 
+1771 
+12.47 
+708 
+14.9 
+180 
+35 
+67 
+84 
+147 
+159 
+227 
+469 
+413 
+284 
+3 
+0 
+0 
+0 
+0 
+1888 
+13.3 
+795.1 
+16.73 
+195 
+20 
+36 
+43 
+51 
+75 
+90 
+167 
+176 
+112 
+0 
+0 
+0 
+0 
+0 
+770 
+5.42 
+316.6 
+6.66 
+210 
+8 
+23 
+27 
+35 
+40 
+46 
+45 
+26 
+6 
+0 
+0 
+0 
+0 
+0 
+256 
+1.8 
+76.7 
+1.62 
+225 
+9 
+23 
+10 
+17 
+4 
+10 
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+81 
+0.57 
+15.3 
+0.32 
+240 
+15 
+19 
+4 
+8 
+1 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+50 
+0.35 
+6 
+0.13 
+255 
+7 
+11 
+7 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+32 
+0.23 
+3.7 
+0.08 
+270 
+17 
+21 
+6 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+47 
+0.33 
+3.7 
+0.08 
+285 
+9 
+16 
+4 
+3 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+34 
+0.24 
+3.5 
+0.07 
+300 
+7 
+8 
+12 
+3 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+32 
+0.23 
+3.9 
+0.08 
+315 
+18 
+16 
+18 
+13 
+14 
+7 
+8 
+4 
+2 
+0 
+0 
+0 
+0 
+0 
+100 
+0.7 
+20.5 
+0.43 
+330 
+15 
+23 
+30 
+48 
+51 
+52 
+107 
+92 
+71 
+0 
+0 
+0 
+0 
+0 
+489 
+3.44 
+194.6 
+4.1 
+345 
+12 
+46 
+68 
+91 
+153 
+193 
+392 
+366 
+279 
+7 
+0 
+0 
+0 
+0 
+1607 
+11.32 
+710.4 
+14.95 
+SUM (#) 
+462 
+1236 
+1524 
+1764 
+1718 
+1759 
+2723 
+1884 
+1094 
+30 
+0 
+0 
+0 
+0 
+14194 
+100 
+4751.5 
+100 
+SUM (%) 
+3.25 
+8.71 
+10.73 
+12.43 
+12.1 
+12.39 
+19.18 
+13.27 
+7.71 
+0.21 
+0 
+0 
+0 
+0 
+100 
+ 
+ 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+37 
+Vedlegg A - riggtegning 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overflate (0 meter): toppblåse 
+ 
+ 
+Ca. 5 meter over instrumentet: 3 x oppdriftskule 
+ 
+ 
+Ca. 27 meters dyp: Aquadopp Profiler AQK006PR 
+ 
+ 
+Ca. 5 meter over instrumentet: 1 x oppdriftskule 
+ 
+ 
+Ca. 49 meters dyp: Aquadopp Current Meter AQK248CM 
+ 
+Ca. 5 meter over instrumentet: 1 x oppdriftskule 
+ 
+Ca. 65 meters dyp: Aquadopp Current Meter AQK219CM 
+ 
+ 
+ 
+ 
+Bunn (ca. 66 meters dyp): lodd/anker 
+ 
+Figur A.1: Veiledende riggtegning for instrumentriggen 
+brukt ved Måvær. Avvik kan forekomme. 
+2155-7-23S MÅVÆR 
+AQUA KOMPETANSE AS 
+38 
+Vedlegg B – meteorologi  
+Tidsserie - vindhastighet 
+ 
+Figur B.1: Vindhastighet (m/s) ved den meteorologiske stasjonen Fv17 Sjonfjellet i perioden 04.04.–12.07.2023. 
+Vindhastigheten vises som middelvind, midlet over en periode på 10 minutter. 
+ 
+Tidsserie - vindretning 
+ 
+Figur B.2: Vindretning (°) ved den meteorologiske stasjonen Fv17 Sjonfjellet i perioden 04.04.–12.07.2023. Oppgis som 
+retningen vinden blåser fra. Vindretningen er midlet over 10 minutter.

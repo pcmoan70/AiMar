@@ -1,0 +1,914 @@
+﻿Side 1 av 21 
+ 
+ 
+ 
+ 
+ 
+Biosikkerhetsplan – Vevelstad Settefisk AS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sammendrag 
+Basert på design og løsninger som er utført i forprosjektet, er det i den forbindelse 
+utarbeidet søknad om tillatelse til å etablere Vevelstad Settefisk AS, ved Lauknes i Vevelstad 
+kommune. Denne planen, som er en del av det totale dokumentasjonspakken, identifiserer 
+hvordan sykdomsagens kan komme seg inn i akvakulturanlegget, og spre seg videre internt 
+i anlegget. Planen tar hensyn til særtrekkene ved anlegget og fastslår hvilke tiltak som vil 
+redusere de biosikkerhetsrisikoene som er identifisert. 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 2 av 21 
+Innholdsfortegnelse 
+ 
+Sammendrag .................................................................................................................................. 1 
+Innholdsfortegnelse ....................................................................................................................... 2 
+Revisjonslogg .......................................................................... Feil! Bokmerke er ikke definert. 
+Forord .............................................................................................................................................. 3 
+Revisjonslogg .................................................................................................................................. 4 
+Geografisk plassering av anlegg .................................................................................................. 5 
+Område for risikovurdering .......................................................................................................... 7 
+Fysiske forhold innenfor anlegget................................................................................................ 8 
+Helsestatus på rogn som tas inn i anlegget ................................................................................ 8 
+Helseovervåkning ........................................................................................................................... 8 
+Koordinering av drift i området .................................................................................................... 9 
+Oversikt over mulige smitteveier .................................................................................................. 9 
+Vektorer – Besøkende .............................................................................................................. 11 
+Fôrlogistikk ................................................................................................................................ 11 
+Oksygentransport ..................................................................................................................... 11 
+Kjøretøy ..................................................................................................................................... 12 
+Fisketransport ........................................................................................................................... 12 
+Inntaksvann ............................................................................................................................... 13 
+Overføring av smitte via mennesker/ansatte ........................................................................ 14 
+Dødfisk ....................................................................................................................................... 15 
+Overføring via utstyr internt .................................................................................................... 16 
+Avløpsvann og slam ................................................................................................................. 16 
+Smitte ved rømming ................................................................................................................. 17 
+Under utbyggingsfase ............................................................................................................. 17 
+Risikovurdering av smittemulighet og konsekvens .................................................................. 18 
+Force Majeure ............................................................................................................................... 21 
+Tiltaksplan/videre arbeid............................................................................................................. 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 3 av 21 
+Forord 
+Vevelstad Settefisk AS planlegger igjennom Aquaculture Innovation AS å bygge et anlegg 
+for produksjon av inntil 10 millioner smolt/postsmolt i et resirkuleringsanlegg på Lauknes 
+Industri- og næringsområde i Vevelstad kommune. Produksjonen utføres med 
+velfungerende og utprøvd teknologi. Det dimensjoneres for en årlig produksjon på 5 160 
+tonn og planlegges sju årlige innlegg av egg.  
+Anlegget mottar råvann (drikkevann) fra Vevelstad kommunes kommunale vannettet, som 
+henter vannet fra Liåvatnet. Det ligger øst for anleggets plassering, 657 meter over havet. 
+Det foreligger en avtale med kommunen om leveranse av vannmengde på 2 m3 min-1.  
+Driftsopplegget er basert på et «alt inn, alt ut» prinsipp. Dette bidrar til en smittesikker 
+produksjon, uten blanding av fiskegrupper, gjennom hele produksjonen fra rogn og frem 
+til post-smolt. I et forprosjekt er det skissert hvordan anlegget kan bygges, og det er laget 
+forslag til biologiske og tekniske løsninger innen produksjonsplan, inntaksvann, 
+vannbehandling, hydraulisk profil etc.  
+Denne biosikkerhetsplanen ivaretar de krav som gjeldende lovverk stiller og ivaretar 
+samtidig hensynet til omkringliggende akvakulturvirksomheter.  
+Planen henviser til følgende lover og standarder: 
+- 
+Akvakulturdriftsforskriften – Forskrift om drift av akvakulturanlegg: Forskriften skal 
+fremme akvakulturnæringens lønnsomhet og konkurransekraft innenfor rammene 
+av en bærekraftig utvikling, og bidra til verdiskaping på kysten. Formålet er også å 
+fremme god helse hos akvakulturdyr og ivareta god velferd hos fisk 
+- 
+Forskrift som utfyller dyrehelseforskriften med bestemmelser om krav til biosikkerhet 
+ved godkjenning av akvakulturanlegg og forflytninger av akvatiske dyr mv. 
+(akvabiosikkerhetsforskriften):  
+- 
+Forskrift om transport av akvakulturdyr: Formålet med denne forskriften er å 
+fremme god helse hos akvatiske dyr, ivareta god velferd hos fisk under transport 
+samt ivareta miljøhensyn 
+- 
+Forskrift om etablering og utvidelse av akvakulturanlegg, zoobutikker m.m: Formål 
+med denne forskriften er å fremme god helse hos akvatiske dyr og ivareta god 
+velferd hos fisk og tifotkreps 
+- 
+NS 9416: Landbaserte akvakulturanlegg for fisk — Krav til risikoanalyse, 
+prosjektering, utførelse, drift, brukerhåndbok og produktdatablad (2013) 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 4 av 21 
+Revisjonslogg 
+Revisjon
+Dato
+Revisjonen gjelder
+Utarb. Av
+Godkjent av
+1.0
+20.06.2023
+Opprettelse av dokument
+M.R.
+K.B.
+1.1
+04.07.2023
+Justering av tekst, Forord
+M.R.
+K.B.
+1.2 
+08.08.2023 
+Tiltaksplan/videre arbeid 
+M.R. 
+K.B. 
+1.3 
+15.08.2023 
+Språkvask 
+M.R / K.B. / R.N. 
+K.B. 
+1.4 
+13.03.2024 
+Endring i forhold til ny prod.plan 
+M.R. / K.B. 
+K.B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 5 av 21 
+Geografisk plassering av anlegg 
+Settefiskanlegget er planlagt i Lauknes nærings- og industriområde, i Vevelstad kommune 
+(figur 2). Området er tatt inn i kommuneplanens arealdel. 
+Koordinater: N65°36.950' Ø12°22.024' (geografisk datum WGS/Euref-89) 
+ 
+Figur 1. Kartutsnitt 
+ 
+ 
+ 
+ 
+Side 6 av 21 
+ 
+Figur 2. Plankart Lauknes industri- og næringsområde 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 7 av 21 
+Område for risikovurdering 
+Anlegget blir plassert på eget inngjerdet område. All transport til andre deler av 
+næringsområdet skal gå på opparbeidet vei. Slik transport anses ikke å være en risiko for 
+smittespredning og er ikke omtalt i denne biosikkerhetsplanen.  
+ 
+Figur 3. Foreløpig plantegning med avdelingsinndeling 
+Anlegget skal bestå av 8 produksjonsavdelinger, ett klekkeri, to yngelavdelinger, to smolt 
+avdelinger og to post-smolt avdelinger. 
+Tabell 1. Inndeling i avdelinger 
+Avdeling
+Teknologi
+Antall kar
+Klekkeri
+Delvis FTS
+Startfôring 
+RAS 
+10 
+Yngel 
+RAS 
+8 
+Yngel 
+RAS 
+8 
+Smolt 
+RAS 
+8 
+Smolt
+RAS
+8
+Post-smolt
+RAS
+4
+Post-smolt
+RAS
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 8 av 21 
+Fysiske forhold innenfor anlegget 
+Hver avdeling vil ha et eget vannbehandlingssystem som er adskilt fra de andre 
+avdelingene, og de vil være fysisk adskilte med bygningsvegger. Avdelingene vil derfor 
+utgjøre egne smittesoner, og vil ha separat produksjonsutstyr. Det blir utarbeidet egne 
+prosedyrer for hygienekontroll inkludert slusing inn og ut av sonen, som ivaretar risikoen 
+for smitte mellom sonene.  
+Hver sone vil få etablert en smittesluse, eksemplifisert i figur 4. 
+ 
+ 
+Figur 4. Eksempel på sluse  
+Helsestatus på rogn som tas inn i anlegget 
+Vevelstad Settefisk AS vil etablere rutiner for sykdomsscreening og behandling av rogn 
+ved innlegging for klekking. Før mottak av rogn vil anleggets fiskehelsebiolog/veterinær 
+foreta en gjennomgang av besøksjournaler og helsestatus hos leverandør, i samarbeid 
+med leverandørens helsepersonell. Det må kunne dokumenteres fravær av ILA 
+(HPR/HPR0) og PD (SAV 2 og 3) før levering til anlegget. For øvrige sykdomsagens vil det 
+bli foretatt en vurdering sett opp mot andre helseparametere i anlegget.  
+Helseovervåkning 
+Anlegget vil ha egen fiskehelsebiolog/veterinær tilgjengelig, enten som ansatt i bedriften, 
+eller som tilgjengelige ressurser i konsernet.  
+Det vil bli opprettet et eget fiskehelselaboratorium som gir helsepersonell nødvendig rom 
+og utstyr, for å utføre de plikter som er pålagt igjennom regelverk og internkontroll.  
+Det vil bli ivaretatt alle myndighetspålagte krav til helseovervåking og prøveuttak for 
+screening av meldepliktige sykdommer. Det vil også utpekes en ansvarlig for det 
+overordnede ansvaret for utarbeidelse av helseplaner og rutiner som sikrer god 
+dyrevelferd i anlegget.  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 9 av 21 
+Koordinering av drift i området 
+Den største risikoen for smitte inn i anlegget vil være gjennom sjøvannsinntaket. 
+Reduserende tiltak vil være å ta inn dypvann (35 m) og rensing med Bernoulli filter 
+(1000µm og 100µm) og UV anlegg (≥300 mJ cm-2). 
+ I tabell 2, er det listet opp nærliggende akvakulturrelaterte virksomheter. 
+Tabell 2. Avstand fra inntakspunktet til nærmeste akvakulturrelaterte virksomheter. Inntakspunkt (IP) og 
+utslippspunkt (UP). 
+Akvakulturrelatert virksomhet
+Avstand
+Andre kommentarer
+Matfiskanlegg i sjø 
+«Andalsvågen»
+4,9 km
+5,7 km
+Avstand målt i sjø fra IP
+Avstand målt i sjø fra UP
+Matfiskanlegg i sjø  
+«Hamnsundet» 
+9,8 km 
+8,9 km 
+Avstand målt i sjø fra IP 
+Avstand målt i sjø fra UP 
+Algeoppdrett 
+«Bøbukta Alge»
+13,5 km
+12,7 km
+Avstand målt i sjø fra IP
+Avstand målt i sjø fra UP
+ 
+Igjennom et samarbeid med Åkerblå AS, er det fastslått at hovedstrømsretningen vil være 
+nordgående. AkvaFuture AS har lokalitet i Andalsvågen, som ligger sør for inntakspunktet 
+og kan være det nærmeste risikoelementet. Dette anlegget driftes etter prinsipp om 
+lukkede merder, og det vil være en betydelig lavere risiko, enn risiko fra normale åpne 
+merder i sjø. 
+Oversikt over mulige smitteveier 
+Det vil foreligge et prosessdiagram som viser alle produksjonsenheter, seksjoner og 
+støttefunksjoner, og igjennom disse identifisere smitteveiskilder inn i anlegget. Dette vil 
+utføres så snart godkjenninger er på plass, og prosjekteringen kan videreføres i samarbeid 
+med leverandører.  
+I prosjektet foreligger det kun prosessdiagram over RAS vannbehandling slik som vist i 
+figur 5 og 6. 
+ 
+ 
+ 
+ 
+Side 10 av 21 
+ 
+Figur 5. Flowchart RAS 
+ 
+Figur 6. Flowchart RAS w. ZWC (zero-water change) 
+ 
+ 
+ 
+ 
+Side 11 av 21 
+Vektorer – Besøkende 
+Besøk kan fungere som vektor for smitte. Spesielt etter besøk på andre anlegg vil risikoen 
+være høyere. Besøkende skal sluses inn og ut av smittesoner, som innebærer skifte av klær 
+og sko, vask av hender samt desinfisering av hender. Skoovertrekk og overtrekksdress kan 
+være et alternativ. Utstyr skal ikke tas med inn i smittesone uten at det er vasket og 
+desinfisert.  
+Alle besøkende skriver seg inn i besøksregister, der det vil bli spurt om de har besøkt 
+andre akvakulturanlegg i den siste tiden. 
+Dette vil bli beskrevet i egne prosedyrer. 
+Fôrlogistikk 
+ 
+Figur 7. Sentralfôrsystem 
+Det er planlagt fôringssystem til anlegget basert på levering av tørrfôr i sekker fra båt ved 
+kai, losset med truck til lagersiloer i egne rom på anlegget. Distribusjon skjer fra 
+lagertankene og ut til karene via lukket rørsystem. 
+Biosikkerhet er ivaretatt på samme måte som når fôrbåter leverer til fôrflåter på ulike 
+lokaliteter langs losseruten. Det settes samme krav til desinfeksjonsrutiner for fôrbåter her, 
+som når de beveger seg mellom ulike sjølokaliteter. Smitterisiko fra fôrbåt ved leveranse 
+til anlegg elimineres gjennom prosedyrer som allerede foreligger på fôrbåter som leverer 
+langs kysten, samt anleggets egen mottaksprosedyre. 
+Hver hygienesone vil ha egen fôrsilo som det utfôres fra. Den største risikoen er kvaliteten 
+på fôret. Hvis fôret er kontaminert, vil dette spre seg i alle hygienesoner. Det stilles derfor 
+strenge krav til fôrleverandør.  
+Oksygentransport 
+Oksygen er en viktig innsatsfaktor i landbasert settefiskproduksjon. Høy produksjon 
+medfører hyppig forsyning av oksygen til anlegget. Samme oksygentankbil kan levere 
+gass til flere anlegg. Dette medfører at oksygenbil kan representere mulig smitterisiko. 
+Plasseringen til LOX tankanlegg plasseres godt utenfor smittesonene, og eventuell smitte 
+fra tankbil vil være tilnærmet null. 
+ 
+ 
+ 
+ 
+Side 12 av 21 
+Kjøretøy 
+Det kan være flere årsaker til at kjøretøy ankommer anleggsområdet. Ansatte kommer 
+kjørende til jobb, servicepersonell for vedlikehold av utstyr og andre varer og tjenester 
+som skal leveres.  
+Det skal i internkontrollsystemet utarbeides prosedyre for desinfeksjon av kjøretøy, utstyr 
+og mannskap hvis det innebærer at smittesone må brytes. Egen sone for parkering vil bli 
+etablert. 
+Fisketransport 
+I produksjonsplanen er det lagt opp til sju innlegg av rogn i klekkeriet. Hver av syklusene 
+følger mulig ﬂytskjema (ﬁgur 8). 
+ 
+Figur 8. Flytskjema for fisketransport 
+Mottak av rogn utføres etter beskrevet prosedyre i internkontrollen. Den omhandler 
+sikring mot rømming, biosikkerhet og velferd. Kassene med rogn leveres med 
+biltransport, og de bæres inn i mottaksrom. Kassene åpnes først når de er innomhus. 
+Etter klekking blir larvene ført over til startfôringskarene via selvfall eller transportkar. 
+Alle kar har fisketransportsluk i bunn av kar, og fisk blir pumpet fra kar til 
+sorteringsmaskin/vaksinestasjon/levering, og deretter sendes de i løyperør tilbake til 
+passende kar i neste avdeling. Rørtrasé endres i en fisketransportkumme, ved å flytte på 
+ 
+ 
+ 
+ 
+Side 13 av 21 
+slanger imellom utløp fra kar, og videre transportrør til sortering/vaksinering/levering. 
+Dette beskrives i egne prosedyrer, og rørsystem og utstyr renholdes og desinfiseres etter 
+bruk fra en smittesone. Alle rør har mulighet for flushing, har selvfall og uttappingsventiler 
+for tømming av system. I tillegg klargjøres alle system for CIP rengjøring. 
+Når fisk renner gjennom sorteringsmaskinen, blir transportvann silt av og sendes til 
+resirkulering. Nytt renset vann tilsettes som transportvann ut til karet. På denne måten kan 
+risiko for overføring av vannbåren smitte reduseres, men ikke elimineres. Sorteringsrom 
+rengjøres og desinfiseres etter hver bruk. Det er lagt til grunn at kun en gruppe eller batch 
+sorteres samtidig. Dette vil redusere smittefare mellom to generasjoner. 
+Alle fisketransportrør fra kar har stengeventiler, og det er egen stengeventil på 
+transportrør mot kai.  
+Alle rørstrekk har mulighet for å stenges slik at det sikrer helfylling av rør og riktig 
+oppholdstid til desinfeksjonsvann i systemene.  
+Det vil bli etablert eget kai på anleggstomt, og forsendelse av smolt/post-smolt er planlagt 
+via brønnbåt. 
+I henhold til forskrift FOR-2008-06-17-820 Forskrift om transport av akvakulturdyr, skal alle 
+transportenheter som benyttes til transport av levende akvakulturdyr, unntatt akvariedyr, 
+krepsdyr, bløtdyr og rogn og melke av akvakulturdyr, skal transportrute være godkjent av 
+Mattilsynet. Fiskehelseansvarlig har ansvar for godkjent transportrute. 
+Inntaksvann 
+Anlegget skal benytte resirkuleringsteknologi, med inntak av både ferskvann og sjøvann. 
+Maksimalt dimensjonerende mengder er på 121 m3 h-1 (~2 m3 min-1) ferskvann og 151 m3 
+h-1 (~2,5 m3 min-1) sjøvann.  
+Inntaket av ferskvann tas fra kommunalt nett, som henter sitt vann fra Liåvatnet (en del av 
+Lomsdalsvassdraget). Kapasiteten fra Liåvatnet er på 2,28 m3 min-1, som igjennom avtale 
+deles med kommunens forbruk på 0,282 m3 min-1, og Vevelstad Settefisk AS med forbruk 
+på 2 m3 min-1. Kommunen vil i tillegg opprette en beredskapsplan i samarbeid med 
+Vevelstad Settefisk, for å sikre avtalt mengde vann. 
+Kommunen leverer vann med trykk 5-7 bar, fram til avtalt punkt på anleggsplass.  
+ 
+ 
+ 
+ 
+Side 14 av 21 
+ 
+ 
+Alt inntaksvann vil renses og desinfiseres før det kommer inn i anlegget (figur 9). Dette 
+gjøres selv om kravet fra Forskrift om desinfeksjon av inntaksvann til og avløpsvann fra 
+akvakulturrelatert virksomhet §4 gjelder kun ved inntak av vann fra kilder med anadrom 
+fisk, noe det ikke er i dette tilfellet.  
+Ved at inntaksvannet er fra kommunal drikkevannskilde og i tillegg renses med dagens 
+teknologi, ansees muligheten for smitte via inntaksvann som minimal. 
+Sjøvann pumpes opp fra ca 35 m dybde opp til anlegget via et pumpehus som er avskilt 
+fra resten av bygningsmassen. Inntaket grovfiltreres med gitter på inntaksrør og filtreres 
+og desinfiseres etter gjeldende standard ved anleggets vannbehandling. Inntaket bygges 
+med redundans og beredskapsplaner utarbeides for å sikre sjøvannsinntak ved hendelser, 
+herunder mulige smittekilder ved utøvelse av selve beredskapsplanen. 
+Overføring av smitte via mennesker/ansatte 
+Mennesker/ansatte kan ta med seg smitte fra andre seksjoner i anlegget. Om en person 
+skal ta seg inn på en avdeling, er det nødvendig at de sluses inn. Slusene har en ren og 
+skitten sone med en terskel imellom. I den skitne sonen legges personlige sko og yttertøy, 
+og håndvask og desinfeksjon utføres. Deretter er en klarert over til den rene sonen. Her vil 
+arbeidsklær være tilgjengelig, som er tiltenkt brukt på avdelingen. Sko, klær og sluse 
+rengjøres hyppig etter beskrevet prosedyre. Besøkende vil få opplæring av slusebruk, og 
+følges av ansatte (se figur 4). 
+Figur 9. Eksempel på vannbehandling på inntak av ferskvann og sjøvann 
+ 
+ 
+ 
+ 
+Side 15 av 21 
+Dødfisk 
+Kravene til opptak og håndtering av dødfisk fra oppdrettsanlegg er beskrevet i matloven 
+og i akvakulturdriftforskriften og i animaliebiproduktforskriften. Forskning viser at dødfisk 
+utgjør en smittefare ved at den kan ligge og spre sykdom til omgivelsene.  
+Ifølge forskrift FOR-2022-04-05-624 «Forskrift som utfyller dyrehelseforskriften med 
+bestemmelser om krav til biosikkerhet ved godkjenning av akvakulturanlegg og 
+forflytninger av akvatiske dyr mv. (akvabiosikkerhetsforskriften)» og forskrift FOR-2008-06-
+17-822 «Forskrift om drift av akvakulturanlegg (akvakulturdriftsforskriften)»: § 16. Slakting 
+og håndtering av døde akvakulturdyr: Dødeligheten skal kontrolleres og døde 
+akvakulturdyr skal tas ut av produksjonsenheten minimum daglig. Fjerning av døde 
+akvakulturdyr kan unnlates når det er åpenbart unødvendig. 
+Det er dødfiskoppsamler/kasse med primærsikring ved hvert kar. Uttak skjer via åpning av 
+et skrårør ned til senter av kar, og dødfisk driver passivt inn i kassen. Røkter/operatør 
+registrerer ønsket data av dødfisk, for så å overføre den til vakuumsystemet i avdelingen 
+(trakten). Dette er en del av et lukket vakuum transportsystem, som transporterer 
+biomassen til ensilasjerom. Dette er en hygienisk metode, og reduserer smitte via 
+håndtering av dødfisk til et minimum. Prosedyrer vil beskrive renhold av utstyr for dette 
+arbeidet.  
+ 
+Figur 10. Eksempel på et ekstraksjonssystem (Kilde: Bush Vakuumteknikk AS) 
+Når ventil åpnes på innmatingsstasjonen transporteres fisken gjennom rør ved hjelp av 
+vakuum til syklonseparator i ekstraksjonssystemet. I syklonseparator ventileres trykket til 
+atmosfærenivå og en ventil åpnes og fisken slippes ned i kverntank som er på 3,5 m3. Her 
+blir den døde fisken oppmalt og det tilsettes syre til pH under 4.  
+Den ferdige ensilasjen blir så automatisk pumpet videre til lagringstank for ensilasje. 
+Det er utarbeidet en beredskapsplan for å håndtere massedød. 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 16 av 21 
+Overføring via utstyr internt 
+Utstyr kan være en kilde til smittespredning og det vil derfor bli kjøpt inn utstyr som skal 
+dekke hver avdeling, slik at man ikke trenger å flytte utstyret mellom avdelingene. Om 
+man mot formodning trenger å flytte utstyr, er det lagt opp til lokaler (med sluse), hvor 
+man kan desinfisere utstyret både ut av gammel avdeling og inn i ny avdeling. Dette kan 
+også bli nødvending om utstyret må innom verksted for vedlikehold. 
+Ifølge forskrift FOR-2008-06-17-822 «Forskrift om drift av akvakulturanlegg 
+(akvakulturdriftsforskriften»: Utstyr i akvakulturanlegget skal så langt det er mulig rengjøres 
+og desinfiseres etter hver produksjonssyklus.  
+Ifølge produksjonsplan, er det 3 innsett hvert år og mellom hver innsett er det lagt til 2 
+uker for nedvasking og nullstilling mellom innsett/generasjoner, både på karnivå og på 
+avdelingsnivå. Biofilter rengjøres etter behov i henhold prosedyre.  
+Renhold beskrives i egne renholdsprosedyrer. 
+Avløpsvann og slam 
+Alt avløpsvann føres via rør ned til felles hovedavløp, som ligger lavere enn fiskekum (for å 
+unngå tilbakerenning), der hovedavløpssperren befinner seg.  
+ 
+Figur 11. Oversikt over inntak og utslippspunkt 
+Inntakspunktet ligger en del dypere enn utslippspunktet, samt godt over 1 500 m sørøst. 
+Avløpsvannet vil ha høyere temperatur enn inntaksvannet og hovedstrømretningen går 
+mot nord. Dette innebærer at utslippsvann vil stige noe og transporteres vekk i fra 
+inntakspunktet. 
+ 
+ 
+ 
+ 
+Side 17 av 21 
+I rapporten «Områdevurdering for Vevelstad Settefisk, 104019-01-001» er det bl.a. 
+beskrevet faren for kontaminasjon mellom innløp og utløp som liten. 
+Slam filtreres ut fra RAS anleggene og føres ut til slambehandlingsseksjonen ved bruk av 
+sentrifugalpumper i lukket system. Smitte fra dette ansees som minimal. 
+Smitte ved rømming 
+Forskriften «Forskrift om krav til teknisk standard for landbaserte akvakulturanlegg for fisk» 
+stiller krav til risikovurdering, utforming, dimensjonering og utførelse etter NS9416 ved 
+etablering av landbaserte akvakulturanlegg. Rømmingssikkerheten skal ivaretas i hele 
+akvakulturanlegget i alle ledd og for alle komponenter fram til og med lasting av fisk. 
+Rømt fisk kan utgjøre en smitterisiko både for villaks og for nærliggende anlegg. NS9416 
+er en standard som gir retningslinjer for å redusere rømningsfaren til et minimum. 
+Rømming kan forekomme i fire ulike tilfeller; mottak av fisk, oversvømmelse i kar, transport 
+av fisk og levering av fisk.  
+Oversvømmelse av kar som er etablert innendørs, vil i utgangspunktet ikke medføre noen 
+stor risiko for rømming. Alle kar har rømningssikring med overflytsikring, og i tillegg er 
+avløpsrør i gulv dimensjonert for å ta unna vann, og vil ha sil for å holde fisken tilbake. Alt 
+avløp går til en hovedavløpssperre, som vil fungere som en dobbel sikring av avløp og 
+siste barriere for miljøet rundt.  
+Det er minimal sannsynlighet for at fisk kan rømme under transport, da fisketransportrør 
+blir lagt i henhold til NS9416. De fleste av rørene ligger i tillegg nedgravd, så det er bare i 
+pumpekummene og i sorteringsrommet (samt returrørene/løyperørene) ligger over 
+grunn, som er sikret i henhold til standarden.  
+Ved levering av fisk som foregår med kai, er det derimot en viss sannsynlighet for at fisk 
+kan rømme. Dette kan skje ved sprekk i fisketransportrør eller dårlig kobling mellom 
+brønnbåt og fisketransportrør som gjør at koblingen åpnes. Tiltak for å unngå 
+fiskerømming ved kai er å bruke utstyr, rør og koblinger, som er godkjent av NS 9416, 
+sikringsnøter rundt flexislanger og doble slangeklemmer. Andre tiltak vil være gode 
+rutiner både for mannskap ved brønnbåt og for arbeiderne ved anlegget. Leveranse 
+beskrives i egen prosedyre. 
+Om rømming skulle forekomme foreligger det beredskapsplan med definert ansvarlig 
+person, til hvem og hvordan de skal varsle og hvordan de skal handle.  
+Under utbyggingsfase 
+For å kunne sikre en forsvarlig oppstart og dokumentere fiskevelferd med den 
+produksjonsmetoden Vevelstad Settefisk planlegger å innføre, er det tenkt trinnvis 
+utbygging basert på signaler som er kommet fra Mattilsynet om trinnvis tildeling av 
+konsesjonsvolum.  
+Ved trinnvis utbygging må de fysiske barrierene på allerede driftsatte avdelinger ivaretas 
+for å opprettholde biosikkerhet for stående biomasse, samt rømningssikkerhet overfor 
+omkringliggende miljø og resipient. 
+ Leverandør av settefiskanlegget, er en erfaren aktør, som har satt opp mange slike 
+anlegg. Det har alltid blitt planlagt å klargjøre klekkeri og deretter avdelingene 
+fortløpende, slik at produksjonen kan starte før anlegget står er komplett.  
+ 
+ 
+ 
+ 
+Side 18 av 21 
+Risikovurdering av smittemulighet og konsekvens 
+Under er det gjort en risikovurdering av alle smitteveier som er beskrevet. Denne analysen 
+beskriver sannsynlighet og konsekvens av ulike risikoer knyttet til aktiviteter som kan føre 
+smitte inn i anlegget via de ulike kanalene, samt forebyggende og risikoreduserende 
+tiltak.  
+Risikovurderingen er et levende dokument som vil bli justert før oppstart, og under drift. 
+Dette gjelder også tallfesting av risikoene. Nåværende tall er kun et utgangspunkt for 
+anlegget. Det vil bli gjort en del komponentvalg senere i prosjekteringsfasen og dette vil 
+bli fortløpende risikovurdert for anlegget.  
+Tall og farge i tabellen under illustrerer sannsynlighet, konsekvens og risiko for smitte, 
+sykdom og dødelighet. Sannsynlighet scores fra 1 – 3 og konsekvens scores fra 1 – 5, der 
+lavest score er best og høyest score er dårligst/alvorligst. 
+ 
+Tabell 3. Risikomatrise 
+Sannsynlighet 
+Konsekvens 
+Svært liten 
+(1) 
+Liten  
+(2) 
+Middels 
+(3) 
+Stor  
+(4) 
+Svært stor 
+(5) 
+Lite sannsynlig (1)
+1 
+2 
+3 
+4 
+5 
+Mindre sannsynlig (2)
+2 
+4 
+6 
+8 
+10 
+Sannsynlig (3)
+3 
+6 
+9 
+12 
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 19 av 21 
+Risikokartlegging av Smitte, Sykdom og Dødelighet 
+S = Sannsynlighet, K = Konsekvens, R = Risiko 
+Smittevei  
+Sannsynlighet for smitte- 
+spredning   
+Konsekvens 
+S 
+K 
+R 
+Forebyggende / 
+risikoreduserende 
+tiltak 
+S 
+K 
+R 
+Besøkende  
+Besøkende kan ta med sykdom 
+fra andre anlegg; kan spre 
+smitte ved å besøke forskjellige 
+seksjoner; kan ta med seg 
+sykdom til andre anlegg   
+Smitte 
+2 
+3 
+6 
+Anlegget er lukket ved 
+avlåst inngangsdør, 
+gjerde og port. 
+Besøkende må melde 
+sin ankomst og 
+signere i besøksbok 
+for å komme inn på 
+anlegg. Besøkende 
+skal følges rundt på 
+anlegget og må følge 
+samme rutiner for 
+slusing og hygiene 
+som de ansatte 
+1 
+3 
+3 
+Fôrlogistikk  
+med båt 
+Fôrlevering med båt til 
+anlegget. Folk på båten kan ha 
+vært på andre anlegg og kan 
+være en smitterisiko 
+Smitte 
+2 
+3 
+6 
+Fôrmottaket gjøres 
+kun på den private 
+kaien. Personell fra 
+båt går ikke inn på 
+selve anlegget uten 
+vanlig personmottaks-
+prosedyre. 
+1 
+3 
+3 
+Fôrlogistikk 
+med bil 
+Fôrlevering med bil til anlegget. 
+Smitte 
+2 
+3 
+6 
+Intern prosedyre for 
+«Eksterne kjøretøy» 
+beskriver rutiner for 
+renhold / 
+smitteforebygging 
+1 
+3 
+3 
+Oksygen 
+logistikk  
+Oksygen leveres med tankbil. 
+Sjåfør/bil kan ha vært på anlegg 
+og kan være en smitterisiko 
+Smitte 
+2 
+3 
+6 
+Oksygentank er 
+plassert utenfor 
+hygienesone med 
+fysisk barriere - gjerde  
+1 
+3 
+3 
+Kjøretøy  
+Kjøretøy som skal inn på 
+området ifm drift/vedlikehold 
+kan ha besøkt andre anlegg  
+Smitte  
+2 
+3 
+6 
+Intern prosedyre for 
+«Eksterne kjøretøy» 
+beskriver rutiner for 
+renhold / 
+smitteforebygging 
+1 
+3 
+3 
+Felles utstyr 
+som benyttes i 
+flere seksjoner 
+Utstyr blir benyttet i ulike 
+seksjoner. Dårlig rengjort og 
+desinfisert, manglende rutiner 
+og prosedyrer. 
+Smitte 
+2 
+3 
+6 
+Utstyr tilhører en 
+seksjon, barriere 
+mellom seksjonene, 
+hygienesluser for 
+desinfisering ved 
+flytting av utstyr. 
+Prosedyre for «felles 
+utstyr» beskriver 
+rutiner for renhold / 
+smitteforebygging 
+1 
+3 
+3 
+ 
+ 
+ 
+ 
+Side 20 av 21 
+ 
+ Fisketransport  
+Egg som tas inn kan ta med 
+sykdom, flytting av fisk mellom 
+seksjonene kan spre sykdom 
+internt på anlegget 
+Smitte 
+2 
+3 
+6 
+Rengjøring og 
+desinfisering 
+fisketransportssystem
+et, helsestatus skal 
+sjekkes og verifiseres, 
+Egg skal ha 
+helseattest. 
+1 
+3 
+3 
+Inntaksvann 
+ferskvann 
+Det kan være smitte i 
+inntaksvannkilden som kan 
+komme inn i anlegget 
+Smitte 
+4 
+3 
+12 
+Kommunalt vann, med 
+den kvalitet som dette 
+innebærer i tillegg ha 
+filtreringsgrad på 20 
+µm og UV dose på 300 
+mJ cm-2. 
+1 
+3 
+3 
+Inntaksvann 
+sjøvann 
+Det kan være smitte i 
+inntaksvannkilden som kan 
+komme inn i anlegget 
+Smitte 
+4 
+3 
+12 
+Hente dypvann og ha 
+en akseptabel avstand 
+fra inntakspunkt til 
+andre relevante 
+anlegg.  
+Filtreringsgrad på 
+1000 µm og 100 µm  
+og UV dose på 300 mJ 
+cm-2. 
+1 
+3 
+3 
+Overføring av 
+smitte via 
+mennesker / 
+ansatte 
+Smitte kan overføres mellom 
+seksjoner eller til andre anlegg 
+via mennesker / ansatte 
+Smitte 
+2 
+3 
+6 
+Hygienesluser med 
+tydelige rutiner for 
+persontrafikk. 
+Prosedyre for 
+«besøkende» 
+beskriver rutiner for 
+renhold / 
+smitteforebygging 
+1 
+3 
+3 
+Dødfisk 
+Dødfisk kan ha økt smittepress 
+på frisk fisk 
+Smitte 
+3 
+3 
+9 
+Gode daglige rutiner 
+og internkontroll for 
+opptak av dødfisk og 
+plukking av «svimere» 
+1 
+3 
+3 
+Avløpsvann og 
+slam 
+Smitte i avløpsvannet kan 
+smitte både eget inntaksvann 
+og nærliggende anlegg 
+Smitte 
+3 
+3 
+9 
+Design av rørsystem 
+som hindrer 
+avløpsvann i å komme 
+til andre 
+kar/seksjoner. 
+Utslippspunkt i sjø 
+plasseres optimalt for 
+å holde stand til andre 
+lokaliteter i sjø  
+1 
+3 
+3 
+Smitte ved 
+rømming  
+(NS 9416) 
+Fiskerømming kan resultere i 
+spredning av smitte til lokale 
+anlegg og villaks  
+Smitte 
+2 
+3 
+6 
+Sikringsnøter rundt 
+fleksislange, doble 
+slangeklemmer og 
+tydelige rutiner 
+1 
+3 
+3 
+Under 
+utbyggingsfase 
+Anleggstrafikk og arbeider kan 
+være smittebærer mellom 
+seksjonene  
+Smitte 
+2 
+3 
+6 
+Fysiske avgrensninger 
+/ gjerde etableres før 
+en seksjon startes opp 
+1 
+3 
+3 
+ 
+ 
+ 
+ 
+Side 21 av 21 
+Force Majeure 
+Det er laget en egen beredskapsprosedyre som beskriver en kontrollert nedstengning av 
+anlegget gjennom utslakting. I ekstreme smittetilfeller med påvisning av nasjonal liste F-
+sykdommer vil all fisken i anlegget kunne avlives og destrueres uten opphold fra påvisning 
+til vedtak om sanering. Dette gjøres ved at selskapet vil holde et beredskapslager av 
+bedøvelsesmidler tilstrekkelig til å avlive all fisken i anlegget. 
+Tiltaksplan/videre arbeid 
+Videre arbeid framover ettersom prosjektering og bygging forekommer (listen er ikke 
+uttømmende):  
+- 
+Beskrivelse av utstyrskontroll, eget utstyr for hver smittesone/avdeling 
+- 
+Prosedyre for hygienekontroll inkludert slusing og opplæring 
+- 
+Rutiner for sykdomsscreening 
+- 
+Rutiner for inntak og behandling av rogn 
+- 
+Rutiner for gjennomgang av journaler og helsestatus fra leverandør av rogn 
+- 
+Ansvarlig rolle beskrives for helseplaner og rutiner for god velferd 
+- 
+Utarbeide prosessdiagram for hele anlegget, identifisere smitteveiskilder inn i 
+anlegget 
+- 
+Prosedyre for ivaretakelse av biosikkerhet ved mottak av besøkende 
+- 
+Mottaksprosedyre for fôrleveranser 
+- 
+Prosedyre for desinfeksjon av kjøretøy, utstyr og mannskap hvis smittesone må 
+brytes 
+- 
+Prosedyre for fisketransport for sortering/vaksinering/levering 
+- 
+Beredskapsplaner for tilgang på ferskvann og saltvann 
+- 
+Vedlikeholdsinstrukser/prosedyrer for vannrensesystem 
+- 
+Røkterprosedyrer (inkl. behandling av dødfisk og renhold) 
+- 
+Beredskapsplan for massedød 
+- 
+Andre renholdsprosedyrer 
+- 
+Beredskapsprosedyre for kontrollert nedstenging av anlegget.

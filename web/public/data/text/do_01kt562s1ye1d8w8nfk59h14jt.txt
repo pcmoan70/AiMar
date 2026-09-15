@@ -1,0 +1,3988 @@
+﻿Vannstrømm˚aling ved
+Lille Bjørnøya, Rødøy kommune
+januar – juli 2025
+Kvarøy Fiskeoppdrett AS
+Etter Norsk Standard NS 9425-1:1999 og NS 9425-2:2003
+AQUA KOMPETANSE AS
+3943-7-25S LILLE BJØRNØYA
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Rapportens tittel:
+Vannstrømm˚aling ved Lille Bjørnøya, Rødøy kommune, januar – juli 2025
+M˚aleperiode:
+Rapportdato: 27.08.2025
+Antall sider uten vedlegg: 26
+14.01.–16.07.2025
+Rapportnummer: 3943-7-25S
+Antall sider totalt: 46
+Oppdragsgiver:
+Kontaktperson:
+Prosjektleder:
+Kvarøy Fiskeoppdrett AS
+H˚avard Olsen
+Hege G. Frøysa
+Lokalitet: Lille Bjørnøya
+Kommune: Rødøy
+Fylke: Nordland
+Instrumenttyper:
+Dybde m˚alested:
+Koordinater for instrumentrigg:
+Aquadopp Current Meter
+ca. 119 meter
+66°33.138 N, 12°59.707 Ø
+Aquadopp Profiler
+Resultatoversikt
+5 meter
+15 meter
+20 meter
+66 meter
+110 meter
+Gjennomsnittsstrøm (cm/s)
+14.0
+11.1
+15.5
+6.8
+5.8
+Makshastighet (cm/s | °)
+54.7 | 75
+45.3 | 84
+60.0 | 99
+34.4 | 71
+21.2 | 247
+Minimumshastighet (cm/s)
+0.0
+0.0
+0.1
+0.1
+0.0
+Varians (cm2/s2)
+84.4
+63.0
+125.8
+19.6
+10.4
+Strømintervall 0-1 cm/s (%)
+1.0
+1.7
+0.5
+2.7
+2.7
+10 ˚ars strøm, beregnet (cm/s)
+90.3
+74.8
+98.9
+-
+-
+50 ˚ars strøm, beregnet (cm/s)
+101.2
+83.8
+110.9
+-
+-
+Hovedstrømretning
+øst-sørøst
+øst
+øst-sørøst
+vest og øst
+vest-sørvest
+Emneord:
+ID 8250-1.0
+havstrøm, vannstrøm, overflatestrøm, dimensjoneringsstrøm,
+vannutskiftning, spredningsstrøm, bunnstrøm, doppler, Aquadopp
+Profiler, Aquadopp Current Meter
+Rapporten er tilgjengelig ved
+forespørsel
+Rapportansvarlig:
+Kvalitetssikrer:
+Hege G. Frøysa
+Benedicte N. Moldrheim
+© 2025 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten (kon-
+klusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig samtykke
+fra Aqua Kompetanse AS.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 1 av 46
+Innhold
+1
+Innledning
+3
+1.1
+Beskrivelse av omr˚adet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+2
+Material og Metode
+4
+2.1
+Instrument og oppsett . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+2.2
+M˚aledyp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+2.3
+M˚alepunkt
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+2.4
+Kvalitetssikring av r˚adata . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+2.5
+Instrumenthelning (tilt) og trykk . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+2.6
+Meteorologi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10
+2.7
+Tidevann
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10
+3
+Kort vurdering
+12
+4
+Resultater
+12
+4.1
+Tidsserie - vind og vannstrøm (hastighet og retning) . . . . . . . . . . . . . . . .
+14
+4.2
+Strømrose - gjennomsnittlig strømhastighet, maksimal strømhastighet og vann-
+transport
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17
+4.3
+Spredningsdiagram - strømretning og -hastighet . . . . . . . . . . . . . . . . . . .
+18
+4.4
+Meteorologi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+4.5
+Tidevann og vannstrøm
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+20
+4.6
+Temperatur og trykk i instrumentdypet . . . . . . . . . . . . . . . . . . . . . . .
+24
+5
+Litteraturliste
+26
+6
+Vedlegg
+27
+Vedlegg A Riggtegninger . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+Vedlegg B Tidevannsanalyse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+30
+Vedlegg C Supplerende tabeller . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33
+Vedlegg D Supplerende figurer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+39
+2
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+1 Innledning
+Aqua Kompetanse AS har p˚a oppdrag fra Kvarøy Fiskeoppdrett AS utført strømundersøkelser ved
+Lille Bjørnøya i Rødøy kommune (Figur 1 og 2). Aqua Kompetanse har st˚att for instrumentutsett,
+kvalitetssikring av data samt rapportering. Rapporten presenterer en oppsummering av resultatene
+fra strømm˚alingene, og er bygd p˚a forutsetningen om at leseren studerer følgende data og figurer
+nøye. Strømm˚alingene ble foretatt i perioden 14.01.–16.07.2025. R˚adata finnes oppbevart hos Aqua
+Kompetanse AS, og er tilgjengelig ved forespørsel.
+1.1 Beskrivelse av omr˚adet
+Lille Bjørnøya ligger p˚a sørvestsiden av Rangsundøya i Rødøy kommune. Batymetrien i m˚alepunktet
+skr˚ar nedover i sørøstlig retning. Nord for m˚alepunktet bukter batymetrien seg inn mot land.
+Figur 1: Oversiktskart over deler av Rødøy kommune, samt deler av Lurøy kommune. Innrammet kartutsnitt i rødt
+viser undersøkelsesomr˚adet ved Lille Bjørnøya. M˚alestokk vises øverst i figuren. Kartkilde: Olex.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 3 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 2: Undersøkelsesomr˚adet ved Lille Bjørnøya. Posisjon for plassering av strømrigg er markert med grønt kryss.
+M˚alestokk vises øverst i figuren. Kartkilde: Olex.
+2 Material og Metode
+Strømm˚alingene ved Lille Bjørnøya er gjennomført i henhold til NS 9425-1:1999 (Standard Nor-
+ge, 1999) og NS 9425-2:2003 (Standard Norge, 2003), og kan inng˚a i lokalitetsrapporter utarbei-
+det etter NS 9415:2021 (Standard Norge, 2021). Undersøkelsen best˚ar av tre m˚aleperioder; første
+m˚aleperiode 14.01.–13.02.2025 (S01), andre m˚aleperiode 13.02.–31.03.2025 (S02) og tredje m˚aleperiode
+27.05.–16.07.2025 (S03). M˚aleperioden er delt i tre p˚a grunn av generelt vedlikehold og avlesning av
+instrumentene. I m˚aleserie S01 presenteres strøm p˚a 20, 66 og 110 meters dyp. Grunnet teknisk ut-
+fordring er det ikke rapportert strøm fra 5 og 15 meter i denne perioden. I m˚aleserie S02 og S03
+presenteres strøm p˚a 5 og 15 meters dyp. M˚aleseriene p˚a 5 og 15 meters dyp er satt sammen til ´en
+kontinuerlig m˚aleperiode og presenteres samlet i statistikk og figurer, med unntak av tidsserie-figurene.
+Strømm˚alingene er utført i samme posisjon i de tre m˚aleperiodene.
+2.1 Instrument og oppsett
+For ˚a m˚ale vannstrøm er det benyttet fire forskjellige akustiske strømm˚alere produsert av Nortek AS
+(Tabell 1); to 400 kHz profilerende m˚alere (AQK034PR, AQK085PR) og to 2000 kHz punktm˚alere
+(AQK252CM, AQK244CM). Riggtegninger er vist i Vedlegg A. Akustiske strømm˚alere bruker dopp-
+lerskift for ˚a beregne strømhastighet og -retning, og refereres ofte til som dopplerm˚alere. Se oversikt
+over m˚aleprinsipp og dopplereffekten i Nortekgroup (u.˚a). I oppsettet av instrumentene er det antatt
+at saltholdigheten i vannet er 35 ppt. Instrumentet benytter denne verdien, sammen med tempera-
+turm˚alinger i instrumentdypet, til ˚a beregne lydhastigheten og dopplerskiftet. I tillegg til vannstrøm
+og temperatur registrerer instrumentene trykk og instrumenthelning (Figur 3, 4, 15 og 16).
+Alle parameterne er m˚alt gjennom en midlingsperiode spesifisert i Tabell 1, og presenteres som gjen-
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 4 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+nomsnittet i midlingsperioden. Det starter en ny midlingsperiode hvert 10. minutt gjennom hele
+m˚aleperioden og tidsangivelse er tidspunktet for n˚ar midlingsperioden starter. M˚alefrekvensen for
+temperatur, trykk og tilt gjennom midlingsperioden er 1 Hz, mens m˚alefrekvensen for vannstrøm er
+angitt i Tabell 1. Den profilerende m˚aleren har et instrumentoppsett p˚a 25 celler `a 2 meter som gir
+en teoretisk rekkevidde p˚a 50 meter. Punktm˚alerne m˚aler i monteringsdypet. Alle tidspunkt i rappor-
+ten er angitt i UTC+0 (Coordinated Universal Time). M˚alingene er korrigert for en østlig magnetisk
+misvisning p˚a 7° (Kartverket, 2024). Videre er instrumentene satt opp med koordinatsystemet ENU
+(East North Up), hvor positiv x-retning er mot øst, positiv y-retning er mot nord, og positiv z-retning
+er opp.
+Tabell 1: Informasjon om instrumentoppsett og m˚aletidspunkt.
+Parametere
+AQK034PR
+AQK085PR
+AQK252CM
+AQK244CM
+Rapporteringsdyp (m)
+5, 15 og 110
+5 og 15
+20
+66
+M˚alertype
+Aquadopp
+Profiler
+Aquadopp
+Profiler
+Aquadopp
+Current Meter
+Aquadopp
+Current Meter
+Hode-ID
+AQP10841
+AQP11823
+AQD11216
+AQD9043
+Kort-ID
+AQD16034
+AQD16034
+AQD16566
+AQD15748
+Akustisk frekvens (kHz)
+400
+400
+2000
+2000
+M˚aleretning
+Opp
+Opp
+Opp
+Ned
+M˚aleintervall (s)
+600
+600
+600
+600
+Midlingsperiode (s)
+95
+95
+90
+90
+M˚alebelastning (%)
+100
+100
+35
+35
+M˚alefrekvens for
+vannstrøm (Hz)
+3
+3
+8
+8
+Antall celler (#)
+25
+25
+-
+-
+Cellestørrelse (m)
+2
+2
+-
+-
+Blindsone (m)
+0.97
+0.97
+0.34
+0.34
+Instrumentdyp (m)*
+S01
+117.7
+-
+19.6
+65.6
+S02
+27.4
+-
+-
+-
+S03
+-
+23.6
+-
+-
+Tidsrom for gyldige
+registreringer
+S01
+14.01.25 10:00–
+13.02.25 11:50
+-
+14.01.25 09:24–
+13.02.25 11:54
+14.01.25 09:12–
+13.02.25 11:52
+S02
+13.02.25 13:20–
+31.03.25 07:20
+-
+-
+-
+S03
+-
+27.05.25 12:00–
+16.07.25 08:20
+-
+-
+Gyldig m˚aleperiode
+(dager)**
+S01
+30.0
+-
+30.1
+29.5
+S02
+45.7
+-
+-
+-
+S03
+-
+49.9
+-
+-
+*Det gjennomsnittlige instrumentdypet i perioden.
+**Ugyldige m˚alinger eller pause grunnet avlesning e.l. er ikke inkludert. Kan variere mellom ulike dyp.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 5 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+2.2 M˚aledyp
+Ved bestemmelse av m˚aledyp er det tatt utgangspunkt i føringene gjeldende ved tidspunktet for
+utsett av riggen. I denne m˚aleserien er gjeldende føringer for Nordland at merddypet er definert som
+midt mellom bunntelna og notspissen, n˚ar avstanden er over 5 meter. Ved Lille Bjørnøya er dypet til
+bunntelna og notspissen henholdsvis 20 og 31 meter, og i denne undersøkelsen er det tatt utgangspunkt
+i et merddyp p˚a 25 meter. Dybden p˚a m˚alestedet er ca. 119 meter.
+I henhold til kapittel 8 i Veileder til forundersøkelse (Fiskeridirektoratet, 2024) skal vannutskift-
+ningsstrøm m˚ales i halve dypet av planlagt merddyp, alts˚a 12.5 meters dyp i dette tilfellet. I henhold
+til NS 9415:2021 skal overflatestrømmen m˚ales p˚a 5 meters dyp, med et akseptabelt avvik p˚a ± 2
+meter, og dimensjoneringsstrømmen skal m˚ales p˚a 15 meters dyp, med et akseptabelt avvik p˚a ± 3
+meter. I denne rapporten presenteres overflatestrøm p˚a 5 meters dyp og dimensjoneringsstrøm p˚a 15
+meters dyp, som anses ˚a representere vannutskiftningsstrømmen tilstrekkelig. Det presenteres i tillegg
+vannstrøm p˚a 20 meters dyp.
+I henhold til Veileder til forundersøkelse kapittel 8 (Fiskeridirektoratet, 2024) skal spredningsstrømmen
+m˚ales midt mellom merdbunnen og sjøbunnen (maksimalt 50 meter under merdbunnen), som i dette
+tilfellet vil være p˚a 71 meters dyp. Da det er vanskelig˚a plassere en strømm˚aler s˚a nøyaktig har instru-
+mentet vært montert p˚a 66 meters dyp. M˚aledypet antas˚a være representativ for spredningsstrømmen.
+Bunnstrømmen skal m˚ales 1 meter over sjøbunnen, og skal i dette tilfellet hentes fra 118 meters dyp.
+Instrumentriggens konfigurering gjør at m˚aleserien nærmest bunnen med tilfredsstillende kvalitet er
+hentet fra 110 meters dyp. M˚aledypene nærmere bunn viser sammenfallende resultater, til tross for
+at kvaliteten ikke er tilstrekkelig for rapportering. Dette, sammen med batymetriens utforming, gjør
+at strøm fra 110 meters dyp anses som representativ bunnstrøm.
+2.3 M˚alepunkt
+I henhold til NS 9415:2021skal m˚alingene for overflate- og dimensjoneringsstrømmen utføres i den
+posisjonen som vurderes til ˚a fange opp de høyeste strømhastighetene som opptrer i omr˚adet der an-
+legget skal ligge. Posisjonen skal i tillegg være representativ for hele omr˚adet der lastp˚akjente deler
+av anlegget kan ligge. Strømm˚alingene i sprednings- og bunndypet er utført for ˚a undersøke partikkel-
+spredningen fra driften p˚a anlegget, og dermed ˚a vurdere lokalitetens bæreevne. M˚aleposisjonen bør
+derfor være representativ for ˚a kunne estimere dette. I bestemmelsen av m˚aleposisjon topografien og
+batymetrien i m˚aleomr˚adet. I planlegging av m˚aleposisjon og navigering ved utsett av strømrigg er
+kartverktøyet Olex benyttet.
+Lille Bjørnøya er en ny lokalitet, og det er dermed ikke noen faste installasjoner som potensielt kan
+forstyrre m˚alingene. Instrumentriggen er derfor plassert midt i planlagt anleggsramme.
+Basert p˚a tilgjengelig data og informasjon fra lokaliteten vurderes valgt m˚aleposisjon til ˚a være
+representativ for strømforholdene ved Lille Bjørnøya. Plasseringen antas ˚a fange opp de høyeste
+vannstrømhastighetene som kan opptre p˚a i overflate- og dimensjoneringsdypene, samt ˚a være til-
+strekkelig representativ for partikkelspredningen fra driften p˚a anlegget.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 6 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+2.4 Kvalitetssikring av r˚adata
+Det er foretatt en manuell og automatisk kvalitetskontroll av datasettene med programvarene Sea-
+Report og Storm. Referanseniv˚aet som er benyttet i prosessering av strømdata fra den profilerende
+strømm˚aleren er havoverflaten. Det vil si at rapporteringsdypet fra 5, 15 og 110 meters dyp er relativt
+til havoverflaten, og programvaren henter dermed til enhver tid ut data fra valgt dyp.
+For profilerende instrumenter er data først korrigert for instrumenthelning og sidelober i programva-
+ren Storm før videre behandling i SeaReport. Instrumenthelning, signalstyrke, generell troverdighet
+til m˚alingene, samt raske vannstrømhastighet- og retningsforandringer fra datapunkt til datapunkt
+er vurdert i kvalitetssikringen. Totalt er 0.06 %, 0.02 %, 2.17 % og 0.16 % av m˚alingene fjernet fra
+m˚aleseriene p˚a henholdsvis 5, 15, 66 og 110 meters dyp. Oversikt over de manuelt fjernede datapunk-
+tene er gitt i Tabell 2. M˚aleserien p˚a 20 meters dyp vurderes til ˚a være av god kvalitet og ingen
+situasjoner med korrupt data er fjernet i dette datasettet. De kvalitetssikrede datasettene fra Lille
+Bjørnøya vurderes til ˚a være troverdige, og m˚aleperiodens maksimum i overflate- og dimensjonerings-
+dypene er tilstrekkelig kartlagt.
+Tabell 2: Data manuelt fjernet i vannstrømm˚alingen ved Lille Bjørnøya.
+Dyp (m)
+Start
+Slutt
+Kommentar
+5
+29.03.2025 10:50
+29.03.2025 10:59
+Br˚a hastighetsendring
+15
+22.02.2025 02:00
+22.02.2025 02:09
+Br˚a hastighetsendring
+15
+27.02.2025 13:30
+27.02.2025 13:39
+Vertikal hastighet
+15
+20.03.2025 04:50
+20.03.2025 04:59
+Br˚a hastighetsendring
+66
+17.01.2025 15:32
+17.01.2025 21:21
+Tilt over 30 grader
+66
+19.01.2025 03:02
+19.01.2025 04:11
+Tilt over 30 grader
+66
+26.01.2025 06:42
+26.01.2025 07:01
+Tilt over 30 grader
+66
+26.01.2025 09:32
+26.01.2025 11:51
+Tilt over 30 grader
+66
+06.02.2025 14:22
+06.02.2025 15:01
+Tilt over 30 grader
+66
+07.02.2025 06:02
+07.02.2025 11:21
+Tilt over 30 grader
+110
+27.01.2025 04:10
+27.01.2025 04:19
+Forstyrrelse nærme m˚aler
+110
+30.01.2025 18:00
+30.01.2025 18:09
+Forstyrrelse nærme m˚aler
+110
+09.02.2025 13:50
+09.02.2025 13:59
+Forstyrrelse nærme m˚aler
+110
+09.02.2025 15:30
+09.02.2025 15:39
+Forstyrrelse nærme m˚aler
+110
+12.02.2025 03:30
+12.02.2025 03:39
+Forstyrrelse nærme m˚aler
+110
+12.02.2025 10:10
+12.02.2025 10:19
+Forstyrrelse nærme m˚aler
+110
+13.02.2025 07:30
+13.02.2025 07:39
+Forstyrrelse nærme m˚aler
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 7 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+2.5 Instrumenthelning (tilt) og trykk
+Instrumentriggen i S01 (Figur 3) har tidvis hatt en del tilt og enkelte perioder med vertikal forflytning.
+Den øverste og nederste m˚aleren (AQK252CM og AQK034PR) har i hovedsak instrumenthelning under
+10°, men i perioder med sterk strøm øker denne opp mot 20°. Den midterste m˚aleren er satt ut med
+konstant tilt p˚a mellom 10 og 15°, og overskrider derfor instrumentets begrensning p˚a 30° tilt i perioder
+med sterk strøm. Situasjonene med for høy tilt er manuelt fjernet fra datasettet (Tabell 2).
+I m˚aleserie S02 har det blitt lagt til en ekstra oppdriftskule over den profilerende m˚aleren. Riggen
+har omtrent 2-3° med konstant tilt, og i perioder med sterk strøm øker den. I ett tilfelle forflyttes
+riggen vertikalt omtrent 10 meter, samtidig som tilten øker til rundt 23°. Dette er i samheng med
+m˚aleperiodens maksimalhastighet. Dataen vurderes til ˚a være av god nok kvalitet, da riggen st˚ar
+relativt stabilt n˚ar de høyeste hastighetene registreres. I m˚aleperiode S03 er det brukt en annen
+riggkonfigurasjon (Figur A.3), og den st˚ar n˚a mer stabilt gjennom m˚aleperioden. Det registeres likevel
+en økning i instrumenthelning (5-10°) ved økte hastigheter.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 8 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 3: Instrumentenes helning (svart, °) registrert i de ulike instrumentdypene ved Lille Bjørnøya i perioden
+14.01.–13.02.2025. Den faktiske dybden kan leses fra trykkdata (gr˚a, dBar) i bakgrunnen. Instrumentnummer henviser
+til Tabell 1.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 9 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 4: Instrumentes helning (svart, °) registrert ved Lille Bjørnøya i perioden 13.02.–16.07.2025. Den faktiske
+dybden kan leses fra trykkdata (gr˚a, dBar) i bakgrunnen. Instrumentnummer henviser til Tabell 1.
+2.6 Meteorologi
+For ˚a vurdere den meteorologiske p˚avirkningen p˚a registrert vannstrøm, er meteorologisk data fra
+nærliggende m˚alestasjoner benyttet. Meteorologiske data er hentet fra Norsk Klimaservicesenter, et
+samarbeid mellom Meteorologisk institutt, Norges vassdrags- og energidirektorat, NORCE og Bjerk-
+nessenteret (Norsk klimaservicesenter, 2025). Nettsiden samler meteorologisk data fra hele landet og
+flere stasjoner langs norskekysten. De ulike stasjonene er utstyrt med ulike sensorer, men i hovedsak
+registreres vindhastighet og -retning, temperatur og trykk ved de fleste stasjoner. For Lille Bjørnøya
+er meteorologisk data hentet fra den meteorologiske stasjonen Solvær III (10 moh.), lokalisert om-
+trent 25 km sørvest for Lille Bjørnøya (oransje sirkel, Figur 5). Stasjonen Solvær III vurderes som
+representativ for de meteorologiske forholdene ved Lille Bjørnøya. Den meteorologiske stasjonen ligger
+likevel mer eksponert til fra nordlig sektor, og det antas derfor noen lokale forskjeller i vinden ved Lille
+Bjørnøya. Data er hentet ut med en m˚alefrekvens p˚a 10 minutter og oppgis i UTC+0. I Figur 6, 7 og 8
+presenteres middelvind (middelverdi av vindhastigheten de siste 10 minuttene før observasjonstiden)
+og vindretning (middelverdi av vindretning siste 10 minutter) sammen med strømdata. I Figur 11
+presenteres vinddata gruppert etter styrke og retning.
+2.7 Tidevann
+I denne rapporten er tidevannsanalysen utført med programvaren UTide som er implementert i MAT-
+LAB (Codiga, 2011). Metoden bryter opp den m˚alte vannstrømmen i retning øst-vest (u) og nord-sør
+(v) og henter ut tidevannskomponentene (utide, vtide) ved hjelp av en harmonisk analyse. Metoden
+for ˚a hente ut tidevannskomponentene er beskrevet nærmere i Vedlegg B. Reststrømmen (urest, vrest)
+er definert som differansen mellom den m˚alte strømmen og tidevannsstrømmen (u – utide, v – vtide).
+Restrømmen er summen av alle andre krefter enn tidevann, for eksempel vannstrøm som oppst˚ar p˚a
+grunn av endringer i vind, trykk og tetthet.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 10 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 5: Topografisk oversiktskart over deler av Rødøy kommune, samt nærliggende kommuner. Posisjon for den
+meteorologiske stasjonen Solvær III er markert med rød sirkel og ligger 25 km unna lokaliteten Lille Bjørnøya som er
+markert med oransje sirkel. M˚alestokk vises nederst i figuren. Kartkilde: Kartverket, Norgeskart, 2025.
+Det er definert to ulike forhold som representerer bidraget av tidevann p˚a den m˚alte vannstrømmen
+for hvert dyp, variansforhold og hastighetsforhold (Tabell 4). Variansforholdet sammenligner varian-
+sen av tidevannsstrømmen med variansen av den m˚alte vannstrømmen (Lign. B.1). Tilsvarende angir
+hastighetsforholdet hva som er absolutt bidrag fra tidevannsstrøm og reststrøm i prosent (Lign. B.2).
+Begge forholdstallene er statistiske verdier beregnet for hele m˚aleserien, og vil variere etter for ek-
+sempel hvor mange stormer som inntreffer i m˚aleperioden. For ˚a studere hvordan forholdstallene
+varierer innad i m˚aleperioden er forholdstallene i tillegg oppgitt for tidevannsdominert periode og en
+reststrømdominert periode.
+Det er ogs˚a beregnet variansellipser for den m˚alte vannstrømmen og den beregnende tidevannsstrømmen
+(Figur 12). Variansellipsens store halvakse er vannstrømmen orientert langs den dominerende strømretningen
+som er oppgitt i grader (°). Variansellipsens lille halvakse er strømmen som er orientert vinkelrett p˚a
+den dominerende strømretningen. Verdien p˚a halvaksene bestemmer formen til variansellipsen. For
+eksempel vil ellipsen i et sund der strømmen følger bunntopografien være ganske flat fordi det er en
+tydelig dominerende strømretning, mens ute i˚apnere havomr˚ader vil denne ellipsen være rundere fordi
+det er mer varierende strømretning.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 11 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+3 Kort vurdering
+Vannstrømmen ved Lille Bjørnøya er batymetristyrt. P˚a 5, 15 og 20 meters dyp er størst vanntransport
+rettet mot øst og øst-sørøstlig retning. P˚a 66 meters dyp er det omtrent like stor vanntransport i vestlig
+og østlig retnings, mens det p˚a 110 meters dyp er størst vanntransport mot vest-sørvest. Vannstrømmen
+i øvre del av vannsøylen er vinddrevet, mens det i nedre del er mer tidevannsstyrt.
+4 Resultater
+I denne m˚aleserien fra Lille Bjørnøya er gjennomsnittlig vannstrøm p˚a 14.0, 11.1, 15.5, 6.8 og 5.8 cm/s
+p˚a 5, 15, 20, 66 og 110 meters dyp, og maksimalhastigheten er henholdsvis 54.7, 45.3, 60.0, 34.4 og
+21.2 cm/s (Tabell 3). Det er registrert lite strømstille i m˚aleperioden p˚a alle undersøkte dyp.
+Vannstrømmen ved Lille Bjørnøya følger batymetrien i alle dyp. I øverste del av vannsøylen (5, 15
+og 20 meters dyp) er størst vanntransport rettet mot øst og øst-sørøst. For spredningsstrømmen p˚a
+66 meters dyp er det omtrent like stor vanntransport rettet mot b˚ade vest og øst. P˚a 110 meters
+dyp er vanntransporten størst mot vest-sørvestlig retning (Figur 9). Vannutskiftningen i den mest
+fremtredende retningen er omtrent en størrelsesorden mindre p˚a 110 meter sammenlignet med 20
+meters dyp (Tabell 3). Vannutskiftningen er ogs˚a større p˚a 20 meters dyp enn p˚a 5 og 15 meters dyp,
+men med ulik m˚aleperiode er det vanskelig ˚a sammenligne direkte.
+Makshastigheten p˚a 5 og 15 meters dyp registreres i m˚aleperiode S02, den 08.03.2025 (Figur 7), og er
+p˚a henholdsvis 54.7 og 45.3 cm/s rettet mot øst. I samme periode registreres det middelvind opp mot 20
+m/s som dreier fra sør- til vestlig retning ved Solvær III underveis i perioden med høy strømhastighet.
+P˚a 20 meters dyp registreres makshastigheten til ˚a være 60.0 cm/s rettet mot øst-sørøst. Vinden ved
+Solvær III dreier i samme tidsperiode fra sørvest til vestlig, og middelvinden er opp mot 22 m/s.
+Vannstrømmen i øvre del av vannsøylen er relativt ensrettet. Neumann-parameteren har verdi mel-
+lom 0 og 1, og sier noe om stabiliteten til strømmen. Verdier nærmere 1 indikerer en retningsstabil
+strøm, mens verdier nærmere 0 indikerer mer skiftende strømretning. P˚a 5, 15 og 20 meters dyp er
+Neumann-parameteren henholdsvis 0.57, 0.63 og 0.68. Til sammenligning er vannstrømmen p˚a 66 og
+110 meters dyp mer skiftende, og Neumannparameteren er her 0.13 og 0.26. Dette henger sammen
+med at vannstrømmen p˚a disse to dypene er i større grad tidevannsdrevet. Tidevannsanalysen viser
+at tidevannet st˚ar for omtrent 1/3 av variansen og ca. 40 % av hastigheten p˚a 66 og 110 meters dyp
+(Tabell 4). Til sammenligning skyldes bare 6−9% av variansen og 23−27% av hastigheten tidevannet i
+øvre del av vannsøylen. Her er det andre faktorer som styrer vannstrømmen i større grad, eksempelvis
+vind.
+Nedenfor presenteres tabeller og figurer med statistikk og resultater.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 12 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Tabell 3: Statistikk og nøkkeltall fra utført strømm˚aling. Merk at i tabellen under er begrepet ≪strøm≫brukt om
+skalare størrelser uten retning (absoluttfart) mens begrepet ≪hastighet≫er brukt om størrelser som ogs˚a har en retning
+(vektorer).
+Parametere
+5 meter
+15 meter
+20 meter
+66 meter
+110 meter
+Gyldige m˚alinger/totalt (#)
+13760/13768
+13765/13768
+4336/4336
+4243/4337
+4325/4332
+Andel gyldige m˚alinger (%)
+99.9
+100
+100
+97.8
+99.8
+Gjennomsnittsstrøm (cm/s)
+14.0
+11.1
+15.5
+6.8
+5.8
+Makshastighet (cm/s) | °)
+54.7|75
+45.3|84
+60.0|99
+34.4|71
+21.2|247
+Minimumshastighet (cm/s)
+0.0
+0.0
+0.1
+0.1
+0.0
+Signifikant maksstrøm (cm/s)
+24.7
+20.6
+28.9
+11.5
+9.5
+Signifikant minimumstrøm (cm/s)
+4.8
+3.5
+4.9
+2.7
+2.5
+Strømintervall 0-1 cm/s (%)
+1.0
+1.7
+0.5
+2.7
+2.7
+Strømintervall 1-3 cm/s (%)
+6.5
+11.0
+5.7
+16.0
+18.3
+Neumann-parameter
+0.57
+0.63
+0.68
+0.13
+0.26
+Standardavvik (cm/s)
+9.2
+7.9
+11.2
+4.4
+3.2
+Varians (cm2/s2)
+84.4
+63.0
+125.8
+19.6
+10.4
+10 ˚ars strøm, beregnet (cm/s)
+90.3
+74.8
+98.9
+-
+-
+50 ˚ars strøm, beregnet (cm/s)
+101.2
+83.8
+110.9
+-
+-
+De 4 hyppigste forekommende
+105 - 120
+75 - 90
+90 - 105
+255 - 270
+240 - 255
+strømretningsgruppene (°)
+90 - 105
+90 - 105
+105 - 120
+270 - 285
+225 - 240
+75 - 90
+105 - 120
+75 - 90
+60 - 75
+255 - 270
+60 - 75
+60 - 75
+120 - 135
+75 - 90
+210 - 225
+De 4 hyppigste forekommende
+5 - 7
+3 - 5
+5 - 7
+3 - 5
+3 - 5
+strømgruppene (cm/s)
+3 - 5
+5 - 7
+3 - 5
+5 - 7
+5 - 7
+7 - 9
+1 - 3
+7 - 9
+7 - 9
+1 - 3
+9 - 11
+7 - 9
+9 - 11
+1 - 3
+7 - 9
+Mest vannutskiftning per
+retning per 15° sektor
+2269
+m3/m2 per
+dag ved 105
+- 120
+2541
+m3/m2 per
+dag ved 75
+- 90
+5424
+m3/m2 per
+dag ved 90
+- 105
+719 m3/m2
+per dag ved
+255 - 270
+559 m3/m2
+per dag ved
+240 - 255
+Minst vannutskiftning per
+retning per 15° sektor
+46 m3/m2
+per dag ved
+180 - 195
+50 m3/m2
+per dag ved
+195 - 210
+23 m3/m2
+per dag ved
+30 - 45
+46 m3/m2
+per dag ved
+165 - 180
+83 m3/m2
+per dag ved
+330 - 345
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 13 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+4.1 Tidsserie - vind og vannstrøm (hastighet og retning)
+Figur 6: Vindstyrke (m/s) og vindretning (°) ved den meteorologiske stasjonen Solvær III (a) i perioden
+07.01.–13.02.2025. Vinddata er timesmidlet og glattet over 6 timer (svart) med 10 min middelvind i bakgrunnen (gr˚a).
+Panelene under viser timesmidlet og glattet vannstrømhastighet (svart) og tilhørende retning (gul) samt m˚alt
+vannstrømhastighet (gr˚a) p˚a 20 (b), 66 (c) og 110 (d) meters dyp ved Lille Bjørnøya i perioden 14.01.–13.02.2025.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 14 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 7: Vindstyrke (m/s) og vindretning (°) ved den meteorologiske stasjonen Solvær III (a) i perioden
+06.02.–31.03.2025. Vinddata er timesmidlet og glattet over 6 timer (svart) med 10 min middelvind i bakgrunnen (gr˚a).
+Panelene under viser timesmidlet og glattet vannstrømhastighet (svart) og tilhørende retning (gul) samt m˚alt
+vannstrømhastighet (gr˚a) p˚a 5 (b) og 15 (c) meters dyp ved Lille Bjørnøya i perioden 13.02.–31.03.2025.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 15 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 8: Vindstyrke (m/s) og vindretning (°) ved den meteorologiske stasjonen Solvær III (a) i perioden
+20.05.–16.07.2025. Vinddata er timesmidlet og glattet over 6 timer (svart) med 10 min middelvind i bakgrunnen (gr˚a).
+Panelene under viser timesmidlet og glattet vannstrømhastighet (svart) og tilhørende retning (gul) samt m˚alt
+vannstrømhastighet (gr˚a) p˚a 5 (b) og 15 (c) meters dyp ved Lille Bjørnøya i perioden 27.05.–16.07.2025.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 16 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+4.2 Strømrose - gjennomsnittlig strømhastighet, maksimal strømhastighet og vanntrans-
+port
+Figur 9: Gjennomsnittlig og maksimal vannstrømhastighet (cm/s), samt vanntransport (m3/m2/dag) for hver 15°
+sektor p˚a 5 (a), 15 (b), 20 (c), 66 (d) og 110 (e) meters dyp ved Lille Bjørnøya i perioden 14.01.–16.07.2025. Data er
+korrigert for magnetisk misvisning p˚a 7°.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 17 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+4.3 Spredningsdiagram - strømretning og -hastighet
+Figur 10: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot strømretning (°) p˚a 5 (a), 15 (b), 20
+(c), 66 (d) og 110 (e) meters dyp ved Lille Bjørnøya i perioden 14.01.–16.07.2025. Data er korrigert for magnetisk
+misvisning p˚a 7°.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 18 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+4.4 Meteorologi
+Figur 11: Meteorologidata hentet fra Solvær III i perioden 07.01.–12.07.2025. Den registrerte vinden er gruppert etter
+retning (hvor det bl˚aser fra) og styrke i henhold til Beauforts vindskala. Radiusen forteller hvor stor andel av m˚alingene
+som tilhører den enkelte gruppen.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 19 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+4.5 Tidevann og vannstrøm
+Tabell 4: Variansforhold og hastighetsforhold p˚a 5, 15, 20, 66 og 110 meters dyp ved Lille Bjørnøya i perioden
+14.01.–16.07.2025.
+Forhold (%)
+5 meter
+15 meter
+20 meter
+66 meter
+110 meter
+Varians
+6
+7
+9
+32
+33
+Hastighet
+23
+26
+27
+42
+41
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 20 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 12: Variansellipse for m˚alt vannstrøm (cm/s, svart) og beregnet tidevannsstrøm (cm/s, rød) p˚a 5 (a), 15 (b), 20
+(c), 66 (d) og 110 (e) meters dyp ved Lille Bjørnøya i perioden 14.01.–16.07.2025.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 21 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 13: Beregnet tidevannsstrøm (cm/s, rød) og m˚alt vannstrøm glattet over 24 timer (cm/s, svart) p˚a 20 (a), 66
+(b) og 110 (c) meters dyp ved Lille Bjørnøya for perioden 14.01.–13.02.2025.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 22 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 14: Beregnet tidevannsstrøm (cm/s, rød) og m˚alt vannstrøm glattet over 24 timer (cm/s, svart) p˚a 5 (a) og 15
+(b)) meters dyp ved Lille Bjørnøya for perioden 13.02.–16.07.2025.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 23 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+4.6 Temperatur og trykk i instrumentdypet
+Figur 15: Temperatur (svart, °C) registrert i de ulike instrumentdypene ved Lille Bjørnøya i perioden
+14.01.–16.07.2025. Den faktiske dybden kan leses fra trykkdata (gr˚a, dBar) i bakgrunnen. Instrumentnummer henviser
+til Tabell 1.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 24 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur 16: Temperatur (svart, °C) registrert i de ulike instrumentdypene ved Lille Bjørnøya i perioden
+14.01.–16.07.2025. Den faktiske dybden kan leses fra trykkdata (gr˚a, dBar) i bakgrunnen. Instrumentnummer henviser
+til Tabell 1.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 25 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+5 Litteraturliste
+Codiga, D. (2011). Unified Tidal Analysis and Prediction Using the UTide Matlab Functions (Tech-
+nical Report 2011-01, 59pp.). Graduate School of Oceanography, University of Rhode Island,
+Narragansett, RI. https://www.po.gso.uri.edu/∼codiga/utide/utide.htm
+Fiskeridirektoratet. (2024). Veileder til forundersøkelse. https : / / www . fiskeridir . no / Akvakultur /
+Dokumenter/Veiledere/veileder-til-forundersokelse#8.strommalinger
+Gjevik, B. (2009). Flo og fjære langs kysten av Norge og Svalbard. Farleia.
+Kantha, L. H., Stewart, J. S., & Desai, S. D. (1998). Long-period lunar fortnightly and monthly ocean
+tides. Journal of Geophysical Research: Oceans. https://doi.org/10.2788/4295
+Kartverket. (2024). Magnetisk misvisning. Hentet 18.08.2025 fra https://www.kartverket.no/til-
+lands/kart/turkart/magnetisk-misvisning
+Kartverket, Norgeskart. (2025). Norgeskart. Hentet 18.08.2025 fra https://www.norgeskart.no
+Norsk klimaservicesenter. (2025). Seklima. Observasjoner og værstatistikk. Hentet 18.08.2025 fra https:
+//seklima.met.no/
+Nortekgroup. (u.˚a). Understanding ADCPs: a guide to measuring currents, waves & turbulence with
+acoustic sensors.
+fra https://www.nortekgroup.com/knowledge- center/wiki/guide- to-
+understanding-adcps
+Pawlowicz, R., Beardsley, B., & Lentz, S. (2002). Classical tidal harmonic analysis including error
+estimates in MATLAB using T TIDE. Computers & Geosciences, 28(8), 929–937.
+Probst, P., & Annunziato, A. (2016). Continious Harmonic Analysis of Sea Level Measurements:
+Description of a New Method to Determine Sea Level Measurement Tidal Component [29pp.
+(EUR28308 EN)]. Publications Office of the European Union. https://doi.org/10.2788/4295
+Standard Norge. (1999). Oseanografi - Del 1: Strømm˚alinger i faste punkter (NS 9425-1:1999). https:
+//online.standard.no/ns-9425-1-1999
+Standard Norge. (2003). Oseanografi - Del 2: Strømm˚alinger ved hjelp av ADCP (NS 9425-2:2003).
+https://online.standard.no/ns-9425-2-2003
+Standard Norge. (2021). Flytende akvakulturanlegg - Lokalitetsundersøkelse, prosjektering, utførelse og
+bruk (NS 9415:2021). https://online.standard.no/ns-9415-2021
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 26 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+6 Vedlegg
+Vedlegg A Riggtegninger
+Figur A.1: Veiledende riggtegning for instrumentriggen brukt ved Lille Bjørnøya i m˚aleperiode S01
+(14.01.-13.02.2025). Avvik kan forekomme.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 27 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur A.2: Veiledende riggtegning for instrumentriggen brukt ved Lille Bjørnøya i m˚aleperiode S02
+(13.02.-31.03.2025). Avvik kan forekomme.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 28 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur A.3: Veiledende riggtegning for instrumentriggen brukt ved Lille Bjørnøya i m˚aleperiode S03
+(27.05.-16.07.2025). Avvik kan forekomme.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 29 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Vedlegg B Tidevannsanalyse
+Det astronomiske tidevannet drives av gravitasjonskreftene mellom jorden, m˚anen og solen. Jordens
+rotasjon fører til at vi opplever flo og fjære. Langs norskekysten øker forskjellene mellom flo og fjære
+desto lengre nord og øst en kommer, i Stavanger er den omkring 0.5 m, Bergen 1 m, Rørvik 2 m,
+Tromsø 3 m og Vardø 4 m Gjevik, 2009. Flo og fjære setter opp tidevannsstrømmer som veksler
+regelmessig i styrke og retning.
+I denne rapporten er tidevannsanalysen utført med programvaren UTide som er implementert i MAT-
+LAB (Codiga, 2011). UTide baserer seg p˚a harmonisk analyse som tar utgangspunkt i det m˚alte
+strømsignalet. Metoden bryter opp den m˚alte vannstrømmen i retning øst-vest (u) og nord-sør (v) og
+henter ut bidraget fra de 35 mest relevante tidevannskomponentene i tilsvarende retninger (utide, vtide).
+Tidevannet best˚ar av flere hundre komponenter hvorav 45 er astronomiske. De øvrige komponentene
+oppst˚ar gjerne over grunn og kompleks bunntopografi, og i de fleste omr˚ader har de et betydelig mindre
+bidrag enn de astronomiske (Pawlowicz mfl., 2002). De 35 utvalgte tidevannskomponentene kan være
+b˚ade astronomiske komponenter og komponenter som oppst˚ar over grunn og kompleks bunntopografi
+(Probst & Annunziato, 2016). Tidevannskomponenter med periode over flere dager, som for eksem-
+pel sesongvariasjon, er utelatt fra beregningen, da vi ikke har lang nok m˚aleperiode til at de lar seg
+beregne med programvaren UTide (Kantha mfl., 1998).
+De dominerende tidevannskomponentene fra tidevannsanalysen er oppgitt i Tabell B.1 med energiandel
+(%) og bidrag til tidevannsellipsens store halvakse (cm/s). Energiandelen er beregnet for hver av de 35
+tidevannkomponentene, og summeres til 100 %. Tidevannsellipsens store halvakse er vannstrømmen
+til hver enkelt tidevannskomponent orientert langs den dominerende strømretningen.
+Det er definert to ulike forhold som representerer bidraget av tidevann p˚a den m˚alte vannstrømmen
+for hvert dyp, variansforhold og hastighetsforhold (Tabell 4). Variansforholdet sammenligner variansen
+av tidevannsstrømmen med variansen av den m˚alte vannstrømmen (Lign. B.1). Dette forholdet angir
+hvor mye av variabiliteten som skyldes tidevannsstrømmen i prosent. Dersom variansforholdet er 0 %
+utgjør tidevannsstrømmen ingen variabilitet, dersom det er 50 % utgjør tidevannsstrømmen halvparten
+av variabiliteten og dersom det er 100 % utgjør tidevannsstrømmen all variabilitet av den m˚alte
+vannstrømmen.
+variansforhold = varians(utide) + varians(vtide)
+varians(u) + varians(v)
+(B.1)
+Hastighetsforholdet (Lign. B.2) er et m˚al som sammenligner hastigheten p˚a tidevannet (over brøkstreken)
+med summen av hastigheten p˚a tidevannet og reststrømmen (under brøkstreken). Hastighetsforholdet
+er beregnet for hvert m˚alepunkt, og deretter er det tatt et gjennomsnitt over hele m˚aleperioden med
+n antall m˚alinger. Dette forholdet angir hva som er absolutt bidrag fra tidevannsstrøm og reststrøm
+i prosent. Hastighetsforholdet vil variere mellom 0 % og 100 %, der 50 % betyr at hastigheten p˚a
+tidevannet og reststrømmen er like store. Dersom forholdet er over 50 % er hastigheten p˚a tidevannet
+størst og dersom forholdet er under 50 % er hastigheten p˚a reststrømmen størst.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 30 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+hastighetsforhold = 1
+n
+
+
+u2
+tide + v2
+tide
+
+u2
+tide + v2
+tide +
+
+u2
+rest + v2
+rest
+= 1
+n
+
+|utide|
+|utide| + |urest|
+(B.2)
+Det presenteres to ulike forholdstall fordi variansforholdet kan gi inntrykk av at tidevannet utgjør en
+veldig stor eller veldig liten del av vannstrømmen, mens hastighetsforholdet ofte presenterer et mer
+balansert forhold mellom tidevannsstrøm og reststrøm. Begge forholdstallene er statistiske verdier
+beregnet for hele m˚aleserien, og vil variere etter for eksempel hvor mange stormer som inntreffer i
+m˚aleperioden. For ˚a studere hvordan forholdstallene varierer innad i m˚aleperioden er forholdstallene
+i tillegg oppgitt for tidevannsdominert periode og en reststrømdominert periode.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 31 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Tabell B.1: Dominerende tidevannskomponenter p˚a 5, 15, 20, 66 og 110 meters dyp ved Lille Bjørnøya i perioden
+14.01.–16.07.2025. Komponenter med energiandel under 10 % p˚a alle dyp er ikke inkludert i tabellen. Komponentene er
+sortert etter energiandel p˚a 5 meters dyp.
+5 meter
+15 meter
+20 meter
+66 meter
+110 meter
+Tidevanns-
+komponent
+Periodisitet
+(timer)
+Andel
+energi
+(%)
+Store
+halv-
+akse
+(cm/s)
+Andel
+energi
+(%)
+Store
+halv-
+akse
+(cm/s)
+Andel
+energi
+(%)
+Store
+halv-
+akse
+(cm/s)
+Andel
+energi
+(%)
+Store
+halv-
+akse
+(cm/s)
+Andel
+energi
+(%)
+Store
+halv-
+akse
+(cm/s)
+M2
+12.42
+40.94
+3.04
+39.33
+2.76
+13.11
+2.01
+49.41
+4.39
+76.03
+4.59
+K1
+23.93
+21.03
+2.28
+32.37
+2.51
+31.52
+3.29
+11.90
+2.15
+0.74
+0.45
+N2
+12.66
+10.10
+1.58
+0.82
+0.39
+-
+-
+10.77
+2.03
+3.23
+0.93
+S2
+12.00
+5.35
+1.09
+5.68
+1.05
+13.43
+2.03
+13.73
+2.29
+13.06
+1.90
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 32 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Vedlegg C Supplerende tabeller
+Tabell C.1: Retning med returperiode for vannstrøm p˚a 5 meters dyp. Strømhastighetene er oppgitt i m/s og
+retningsgrupper som definert i NS 9415:2021. Data er korrigert for magnetisk misvisning p˚a 7°.
+Retning
+Gjennomsnitt Maksimal
+Snitt 10 ˚ar
+Maks 10 ˚ar
+Snitt 50 ˚ar
+Maks 50 ˚ar
+nord
+0.059
+0.227
+0.098
+0.375
+0.109
+0.420
+nordøst
+0.154
+0.484
+0.254
+0.798
+0.285
+0.895
+øst
+0.179
+0.547
+0.296
+0.903
+0.331
+1.012
+sørøst
+0.169
+0.476
+0.278
+0.786
+0.312
+0.881
+sør
+0.052
+0.220
+0.085
+0.364
+0.096
+0.408
+sørvest
+0.062
+0.202
+0.103
+0.333
+0.115
+0.373
+vest
+0.100
+0.296
+0.166
+0.489
+0.186
+0.548
+nordvest
+0.081
+0.269
+0.134
+0.444
+0.151
+0.498
+Tabell C.2: Retning med returperiode for vannstrøm p˚a 15 meters dyp. Strømhastighetene er oppgitt i m/s og
+retningsgrupper som definert i NS 9415:2021. Data er korrigert for magnetisk misvisning p˚a 7°.
+Retning
+Gjennomsnitt Maksimal
+Snitt 10 ˚ar
+Maks 10 ˚ar
+Snitt 50 ˚ar
+Maks 50 ˚ar
+nord
+0.049
+0.205
+0.081
+0.338
+0.091
+0.379
+nordøst
+0.090
+0.395
+0.148
+0.651
+0.166
+0.730
+øst
+0.158
+0.453
+0.261
+0.748
+0.293
+0.838
+sørøst
+0.088
+0.448
+0.145
+0.739
+0.163
+0.828
+sør
+0.052
+0.312
+0.086
+0.515
+0.097
+0.578
+sørvest
+0.049
+0.203
+0.081
+0.335
+0.091
+0.376
+vest
+0.084
+0.346
+0.139
+0.572
+0.155
+0.641
+nordvest
+0.057
+0.220
+0.095
+0.363
+0.106
+0.407
+Tabell C.3: Retning med returperiode for vannstrøm p˚a 20 meters dyp. Strømhastighetene er oppgitt i m/s og
+retningsgrupper som definert i NS 9415:2021. Data er korrigert for magnetisk misvisning p˚a 7°.
+Retning
+Gjennomsnitt Maksimal
+Snitt 10 ˚ar
+Maks 10 ˚ar
+Snitt 50 ˚ar
+Maks 50 ˚ar
+nord
+0.048
+0.151
+0.079
+0.249
+0.089
+0.279
+nordøst
+0.065
+0.292
+0.107
+0.482
+0.119
+0.540
+øst
+0.235
+0.600
+0.388
+0.989
+0.435
+1.109
+sørøst
+0.127
+0.435
+0.209
+0.717
+0.234
+0.804
+sør
+0.071
+0.174
+0.117
+0.287
+0.131
+0.322
+sørvest
+0.078
+0.245
+0.128
+0.404
+0.144
+0.453
+vest
+0.098
+0.314
+0.162
+0.518
+0.181
+0.581
+nordvest
+0.075
+0.305
+0.123
+0.503
+0.138
+0.564
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 33 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Tabell C.4: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor p˚a 5 meters dyp ved
+Lille Bjørnøya i perioden 13.02.–16.07.2025. Antall m˚alinger og prosent av antall m˚alinger, samt fluks (m3/m2/døgn)
+og prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning p˚a 7°.
+5 meter
+antall m˚alinger
+fluks
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+%
+m3/m2/døgn
+%
+0 - 15
+4
+12
+21
+31
+22
+19
+23
+16
+23
+1
+0
+0
+0
+0
+172
+1.25
+62.00
+0.51
+15 - 30
+2
+16
+25
+17
+25
+15
+26
+18
+29
+8
+6
+0
+0
+0
+187
+1.36
+83.19
+0.69
+30 - 45
+6
+8
+17
+23
+16
+23
+26
+35
+43
+24
+11
+8
+0
+0
+240
+1.74
+141.17
+1.16
+45 - 60
+1
+10
+20
+28
+24
+19
+47
+50
+104
+63
+62
+120
+0
+0
+548
+3.98
+536.31
+4.42
+60 - 75
+6
+17
+21
+21
+33
+24
+70
+75
+239
+329
+276
+340
+0
+0
+1451
+10.55
+1711.33
+14.12
+75 - 90
+8
+14
+25
+25
+31
+23
+72
+96
+327
+536
+302
+226
+3
+0
+1688
+12.27
+1835.10
+15.14
+90 - 105
+3
+13
+18
+33
+34
+39
+77
+102
+427
+435
+218
+292
+0
+0
+1691
+12.29
+1840.68
+15.18
+105 - 120
+3
+17
+20
+29
+31
+30
+80
+90
+319
+306
+281
+594
+0
+0
+1800
+13.08
+2268.72
+18.71
+120 - 135
+2
+14
+21
+25
+30
+23
+57
+89
+167
+187
+137
+209
+0
+0
+961
+6.98
+1019.40
+8.41
+135 - 150
+10
+13
+15
+24
+28
+29
+53
+41
+72
+52
+14
+7
+0
+0
+358
+2.60
+220.69
+1.82
+150 - 165
+2
+17
+17
+11
+19
+30
+45
+26
+27
+7
+0
+0
+0
+0
+201
+1.46
+84.43
+0.70
+165 - 180
+4
+12
+23
+20
+30
+31
+28
+12
+10
+1
+0
+0
+0
+0
+171
+1.24
+55.35
+0.46
+180 - 195
+8
+15
+20
+27
+21
+21
+21
+10
+7
+1
+1
+0
+0
+0
+152
+1.10
+46.17
+0.38
+195 - 210
+10
+17
+28
+15
+33
+21
+17
+8
+13
+1
+0
+0
+0
+0
+163
+1.18
+48.92
+0.40
+210 - 225
+5
+20
+24
+28
+35
+15
+43
+14
+15
+2
+0
+0
+0
+0
+201
+1.46
+66.41
+0.55
+225 - 240
+8
+17
+32
+30
+32
+27
+44
+34
+35
+12
+0
+0
+0
+0
+271
+1.97
+108.21
+0.89
+240 - 255
+3
+12
+21
+38
+33
+40
+81
+69
+70
+29
+7
+0
+0
+0
+403
+2.93
+204.44
+1.69
+255 - 270
+7
+16
+34
+42
+38
+57
+92
+78
+149
+67
+43
+8
+0
+0
+631
+4.59
+390.14
+3.22
+270 - 285
+9
+26
+21
+37
+55
+47
+111
+97
+228
+111
+57
+14
+0
+0
+813
+5.91
+548.76
+4.53
+285 - 300
+4
+21
+21
+21
+49
+47
+112
+97
+193
+98
+17
+2
+0
+0
+682
+4.96
+425.47
+3.51
+300 - 315
+5
+16
+20
+26
+30
+29
+69
+47
+105
+19
+1
+3
+0
+0
+370
+2.69
+193.53
+1.60
+315 - 330
+11
+13
+22
+27
+24
+22
+51
+26
+30
+9
+0
+0
+0
+0
+235
+1.71
+93.30
+0.77
+330 - 345
+6
+12
+25
+20
+23
+18
+45
+23
+20
+2
+0
+0
+0
+0
+194
+1.41
+72.19
+0.60
+345 - 360
+7
+18
+12
+20
+22
+19
+29
+25
+23
+2
+0
+0
+0
+0
+177
+1.29
+67.47
+0.56
+SUM (#)
+134
+366
+523
+618
+718
+668
+1319 1178 2675 2302 1433 1823
+3
+0
+13760
+100
+12123.39
+100
+SUM (%)
+0.97
+2.66
+3.80
+4.49
+5.22
+4.85
+9.59
+8.56
+19.44 16.73 10.41 13.25 0.02
+0
+100
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 34 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Tabell C.5: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor p˚a 15 meters dyp
+ved Lille Bjørnøya i perioden 13.02.–16.07.2025. Antall m˚alinger og prosent av antall m˚alinger, samt fluks
+(m3/m2/døgn) og prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning p˚a 7°.
+15 meter
+antall m˚alinger
+fluks
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+%
+m3/m2/døgn
+%
+0 - 15
+12
+32
+32
+35
+38
+20
+42
+24
+14
+2
+0
+0
+0
+0
+251
+1.82
+77.59
+0.81
+15 - 30
+14
+30
+49
+34
+30
+38
+41
+26
+20
+4
+0
+0
+0
+0
+286
+2.08
+92.08
+0.96
+30 - 45
+8
+25
+38
+43
+45
+39
+49
+39
+64
+27
+4
+6
+0
+0
+387
+2.81
+181.50
+1.90
+45 - 60
+10
+29
+30
+63
+44
+49
+64
+68
+117
+64
+16
+12
+0
+0
+566
+4.11
+319.69
+3.34
+60 - 75
+16
+20
+40
+39
+42
+67
+114
+99
+243
+190
+128
+120
+0
+0
+1118
+8.12
+965.67
+10.09
+75 - 90
+11
+38
+35
+60
+54
+60
+146
+144
+394
+494
+475
+440
+0
+0
+2351
+17.08
+2540.92
+26.55
+90 - 105
+9
+17
+51
+60
+90
+67
+152
+178
+485
+538
+390
+229
+0
+0
+2266
+16.46
+2166.46
+22.64
+105 - 120
+4
+23
+40
+50
+63
+68
+128
+143
+330
+213
+133
+79
+0
+0
+1274
+9.26
+1018.98
+10.65
+120 - 135
+11
+30
+34
+42
+44
+47
+76
+64
+138
+41
+18
+9
+0
+0
+554
+4.02
+306.59
+3.20
+135 - 150
+15
+17
+39
+49
+46
+30
+47
+36
+34
+7
+6
+1
+0
+0
+327
+2.38
+126.72
+1.32
+150 - 165
+8
+19
+35
+31
+33
+27
+38
+18
+21
+5
+4
+4
+0
+0
+243
+1.77
+93.89
+0.98
+165 - 180
+8
+23
+36
+21
+26
+28
+24
+10
+10
+2
+2
+1
+0
+0
+191
+1.39
+60.42
+0.63
+180 - 195
+5
+22
+25
+36
+22
+36
+26
+9
+13
+2
+0
+0
+0
+0
+196
+1.42
+61.32
+0.64
+195 - 210
+8
+26
+32
+32
+26
+17
+19
+10
+8
+3
+0
+0
+0
+0
+181
+1.31
+50.44
+0.53
+210 - 225
+9
+33
+37
+46
+34
+26
+35
+11
+13
+2
+1
+0
+0
+0
+247
+1.79
+71.96
+0.75
+225 - 240
+8
+31
+26
+43
+36
+38
+29
+19
+14
+2
+0
+0
+0
+0
+246
+1.79
+75.03
+0.78
+240 - 255
+9
+27
+42
+31
+56
+37
+51
+45
+34
+6
+3
+0
+0
+0
+341
+2.48
+129.10
+1.35
+255 - 270
+15
+27
+33
+43
+51
+45
+68
+73
+130
+58
+6
+16
+0
+0
+565
+4.10
+317.69
+3.32
+270 - 285
+5
+27
+42
+39
+60
+39
+83
+66
+131
+74
+13
+3
+0
+0
+582
+4.23
+325.56
+3.40
+285 - 300
+9
+35
+44
+46
+45
+36
+76
+68
+87
+18
+5
+0
+0
+0
+469
+3.41
+208.99
+2.18
+300 - 315
+9
+32
+36
+40
+44
+29
+54
+38
+41
+7
+0
+0
+0
+0
+330
+2.40
+122.78
+1.28
+315 - 330
+10
+16
+31
+49
+33
+35
+52
+30
+26
+0
+0
+0
+0
+0
+282
+2.05
+97.17
+1.02
+330 - 345
+15
+27
+38
+39
+32
+37
+34
+23
+16
+2
+1
+0
+0
+0
+264
+1.92
+81.79
+0.85
+345 - 360
+4
+31
+33
+39
+31
+27
+42
+26
+15
+0
+0
+0
+0
+0
+248
+1.80
+78.62
+0.82
+SUM (#)
+232
+637
+878
+1010 1025 942
+1490 1267 2398 1761 1205 920
+0
+0
+13765
+100
+9570.96
+100
+SUM (%)
+1.69
+4.63
+6.38
+7.34
+7.45
+6.84
+10.82 9.20
+17.42 12.79 8.75
+6.68
+0
+0
+100
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 35 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Tabell C.6: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor p˚a 20 meters dyp
+ved Lille Bjørnøya i perioden 13.02.–16.07.2025. Antall m˚alinger og prosent av antall m˚alinger, samt fluks
+(m3/m2/døgn) og prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning p˚a 7°.
+20 meter
+antall m˚alinger
+fluks
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+%
+m3/m2/døgn
+%
+0 - 15
+1
+2
+7
+7
+5
+5
+4
+4
+2
+0
+0
+0
+0
+0
+37
+0.85
+35.73
+0.27
+15 - 30
+0
+4
+11
+5
+1
+7
+7
+1
+0
+0
+0
+0
+0
+0
+36
+0.83
+29.82
+0.22
+30 - 45
+0
+5
+5
+0
+3
+4
+5
+1
+0
+1
+0
+0
+0
+0
+24
+0.55
+22.85
+0.17
+45 - 60
+0
+3
+5
+7
+6
+1
+4
+4
+4
+4
+0
+0
+0
+0
+38
+0.88
+51.43
+0.38
+60 - 75
+1
+1
+12
+3
+6
+2
+3
+7
+16
+21
+4
+1
+0
+0
+77
+1.78
+170.12
+1.27
+75 - 90
+0
+2
+10
+8
+5
+6
+10
+18
+54
+68
+31
+63
+1
+0
+276
+6.37
+1032.52
+7.70
+90 - 105
+2
+1
+4
+14
+10
+9
+17
+25
+89
+196
+203
+482
+20
+0
+1072
+24.72
+5424.19
+40.46
+105 - 120
+2
+1
+7
+10
+10
+4
+35
+36
+84
+167
+128
+280
+1
+0
+765
+17.64
+3275.36
+24.43
+120 - 135
+0
+3
+11
+12
+10
+13
+31
+28
+69
+33
+15
+9
+0
+0
+234
+5.40
+532.42
+3.97
+135 - 150
+0
+3
+11
+13
+14
+16
+36
+22
+34
+5
+1
+0
+0
+0
+155
+3.57
+237.57
+1.77
+150 - 165
+1
+3
+13
+13
+16
+23
+26
+26
+21
+2
+0
+0
+0
+0
+144
+3.32
+193.18
+1.44
+165 - 180
+1
+3
+8
+10
+9
+14
+21
+21
+24
+1
+0
+0
+0
+0
+112
+2.58
+162.79
+1.21
+180 - 195
+1
+2
+9
+13
+15
+11
+33
+16
+18
+0
+0
+0
+0
+0
+118
+2.72
+157.29
+1.17
+195 - 210
+3
+4
+8
+6
+14
+22
+28
+11
+27
+4
+0
+0
+0
+0
+127
+2.93
+182.30
+1.36
+210 - 225
+0
+2
+4
+9
+12
+19
+22
+7
+22
+14
+0
+0
+0
+0
+111
+2.56
+183.66
+1.37
+225 - 240
+0
+4
+8
+18
+13
+12
+24
+13
+26
+7
+1
+0
+0
+0
+126
+2.91
+193.01
+1.44
+240 - 255
+0
+5
+8
+9
+13
+19
+34
+26
+29
+15
+1
+2
+0
+0
+161
+3.71
+274.21
+2.05
+255 - 270
+1
+4
+11
+10
+11
+7
+32
+42
+37
+6
+14
+12
+0
+0
+187
+4.31
+388.88
+2.90
+270 - 285
+0
+2
+9
+9
+10
+12
+30
+27
+50
+16
+4
+0
+0
+0
+169
+3.90
+315.18
+2.35
+285 - 300
+2
+2
+4
+6
+12
+8
+27
+20
+33
+7
+2
+2
+0
+0
+125
+2.88
+222.50
+1.66
+300 - 315
+1
+2
+1
+6
+8
+10
+19
+13
+15
+7
+2
+2
+0
+0
+86
+1.98
+153.38
+1.14
+315 - 330
+0
+0
+3
+11
+9
+8
+8
+9
+8
+0
+0
+0
+0
+0
+56
+1.29
+72.18
+0.54
+330 - 345
+3
+4
+5
+10
+11
+9
+5
+3
+1
+1
+0
+0
+0
+0
+52
+1.20
+47.87
+0.36
+345 - 360
+1
+3
+5
+8
+12
+6
+6
+6
+1
+0
+0
+0
+0
+0
+48
+1.11
+46.84
+0.35
+SUM (#)
+20
+65
+179
+217
+235
+247
+467
+386
+664
+575
+406
+853
+22
+0
+4336
+100
+13405.27
+100
+SUM (%)
+0.46
+1.50
+4.13
+5.00
+5.42
+5.70
+10.77 8.90
+15.31 13.26 9.36
+19.67 0.51
+0
+100
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 36 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Tabell C.7: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor p˚a 66 meters dyp
+ved Lille Bjørnøya i perioden 13.02.–16.07.2025. Antall m˚alinger og prosent av antall m˚alinger, samt fluks
+(m3/m2/døgn) og prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning p˚a 7°.
+66 meter
+antall m˚alinger
+fluks
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+%
+m3/m2/døgn
+%
+0 - 15
+6
+7
+21
+19
+15
+13
+18
+5
+6
+0
+0
+0
+0
+0
+110
+2.59
+101.82
+1.74
+15 - 30
+2
+14
+13
+20
+12
+18
+24
+9
+8
+0
+0
+0
+0
+0
+120
+2.83
+127.13
+2.17
+30 - 45
+3
+9
+10
+13
+21
+21
+33
+29
+16
+0
+0
+0
+0
+0
+155
+3.65
+198.62
+3.39
+45 - 60
+3
+10
+18
+18
+21
+18
+57
+28
+33
+19
+5
+2
+0
+0
+232
+5.47
+380.01
+6.50
+60 - 75
+5
+8
+16
+18
+24
+32
+66
+61
+69
+22
+13
+12
+0
+0
+346
+8.15
+668.34
+11.42
+75 - 90
+5
+8
+6
+22
+13
+16
+66
+66
+63
+27
+8
+13
+0
+0
+313
+7.38
+626.50
+10.71
+90 - 105
+8
+14
+14
+20
+16
+14
+42
+38
+36
+15
+4
+1
+0
+0
+222
+5.23
+350.11
+5.98
+105 - 120
+5
+9
+13
+14
+9
+10
+21
+13
+10
+2
+0
+0
+0
+0
+106
+2.50
+122.81
+2.10
+120 - 135
+3
+4
+13
+16
+15
+6
+19
+16
+4
+0
+0
+0
+0
+0
+96
+2.26
+104.60
+1.79
+135 - 150
+5
+13
+9
+7
+16
+11
+18
+18
+2
+0
+0
+0
+0
+0
+99
+2.33
+104.08
+1.78
+150 - 165
+2
+11
+17
+11
+11
+9
+10
+6
+3
+0
+0
+0
+0
+0
+80
+1.89
+72.88
+1.25
+165 - 180
+12
+13
+13
+17
+11
+5
+3
+0
+1
+0
+0
+0
+0
+0
+75
+1.77
+46.15
+0.79
+180 - 195
+6
+10
+20
+17
+11
+6
+7
+1
+1
+0
+0
+0
+0
+0
+79
+1.86
+55.52
+0.95
+195 - 210
+7
+11
+26
+18
+6
+3
+11
+1
+4
+0
+0
+0
+0
+0
+87
+2.05
+65.47
+1.12
+210 - 225
+7
+5
+15
+21
+11
+8
+7
+5
+2
+0
+0
+0
+0
+0
+81
+1.91
+67.00
+1.15
+225 - 240
+3
+11
+24
+14
+13
+8
+26
+13
+9
+0
+0
+0
+0
+0
+121
+2.85
+129.14
+2.21
+240 - 255
+4
+18
+31
+26
+22
+36
+65
+54
+34
+3
+0
+0
+0
+0
+293
+6.91
+380.15
+6.50
+255 - 270
+3
+24
+24
+42
+36
+40
+93
+85
+71
+34
+4
+0
+0
+0
+456
+10.75
+718.88
+12.29
+270 - 285
+5
+14
+24
+25
+30
+44
+91
+86
+88
+19
+2
+0
+0
+0
+428
+10.09
+680.43
+11.63
+285 - 300
+3
+11
+17
+25
+19
+27
+54
+42
+36
+7
+0
+0
+0
+0
+241
+5.68
+340.40
+5.82
+300 - 315
+3
+13
+24
+26
+25
+15
+23
+9
+17
+1
+0
+0
+0
+0
+156
+3.68
+167.14
+2.86
+315 - 330
+3
+7
+8
+18
+26
+13
+27
+9
+6
+1
+0
+0
+0
+0
+118
+2.78
+130.48
+2.23
+330 - 345
+7
+13
+20
+23
+17
+12
+21
+12
+0
+0
+0
+0
+0
+0
+125
+2.95
+111.69
+1.91
+345 - 360
+2
+9
+18
+18
+13
+14
+14
+15
+1
+0
+0
+0
+0
+0
+104
+2.45
+101.27
+1.73
+SUM (#)
+112
+266
+414
+468
+413
+399
+816
+621
+520
+150
+36
+28
+0
+0
+4243
+100
+5850.60
+100
+SUM (%)
+2.64
+6.27
+9.76
+11.03 9.73
+9.40
+19.23 14.64 12.26 3.54
+0.85
+0.66
+0
+0
+100
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 37 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Tabell C.8: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor p˚a 110 meters dyp
+ved Lille Bjørnøya i perioden 13.02.–16.07.2025. Antall m˚alinger og prosent av antall m˚alinger, samt fluks
+(m3/m2/døgn) og prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning p˚a 7°.
+110 meter
+antall m˚alinger
+fluks
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+%
+m3/m2/døgn
+%
+0 - 15
+7
+8
+22
+21
+14
+17
+21
+7
+8
+0
+0
+0
+0
+0
+125
+2.89
+120.17
+2.42
+15 - 30
+7
+13
+16
+23
+23
+16
+24
+14
+4
+0
+0
+0
+0
+0
+140
+3.24
+135.58
+2.73
+30 - 45
+5
+10
+17
+18
+24
+18
+43
+20
+13
+0
+0
+0
+0
+0
+168
+3.88
+188.62
+3.80
+45 - 60
+3
+15
+14
+18
+30
+34
+35
+27
+22
+3
+0
+0
+0
+0
+201
+4.65
+248.30
+5.00
+60 - 75
+4
+7
+22
+25
+21
+16
+47
+21
+28
+6
+0
+0
+0
+0
+197
+4.55
+259.66
+5.23
+75 - 90
+3
+14
+23
+17
+19
+30
+27
+17
+11
+0
+0
+0
+0
+0
+161
+3.72
+169.71
+3.42
+90 - 105
+4
+11
+16
+23
+26
+19
+31
+9
+9
+0
+0
+0
+0
+0
+148
+3.42
+151.44
+3.05
+105 - 120
+7
+13
+15
+17
+14
+11
+17
+6
+6
+0
+0
+0
+0
+0
+106
+2.45
+97.21
+1.96
+120 - 135
+6
+18
+24
+26
+17
+11
+8
+7
+5
+0
+0
+0
+0
+0
+122
+2.82
+98.12
+1.97
+135 - 150
+3
+12
+17
+19
+17
+11
+7
+9
+4
+0
+0
+0
+0
+0
+99
+2.29
+89.70
+1.81
+150 - 165
+6
+6
+20
+25
+17
+13
+7
+8
+7
+0
+0
+0
+0
+0
+109
+2.52
+97.92
+1.97
+165 - 180
+7
+15
+25
+15
+14
+24
+16
+6
+3
+0
+0
+0
+0
+0
+125
+2.89
+106.75
+2.15
+180 - 195
+2
+15
+26
+17
+30
+26
+37
+8
+3
+0
+0
+0
+0
+0
+164
+3.79
+157.01
+3.16
+195 - 210
+5
+12
+22
+42
+36
+37
+50
+22
+13
+0
+0
+0
+0
+0
+239
+5.53
+255.10
+5.13
+210 - 225
+6
+11
+28
+37
+41
+34
+73
+37
+39
+1
+0
+0
+0
+0
+307
+7.10
+381.27
+7.67
+225 - 240
+5
+15
+32
+28
+31
+43
+58
+80
+67
+1
+1
+0
+0
+0
+361
+8.35
+501.31
+10.09
+240 - 255
+4
+23
+27
+31
+37
+44
+89
+55
+76
+10
+1
+0
+0
+0
+397
+9.18
+559.29
+11.26
+255 - 270
+8
+12
+14
+37
+38
+32
+57
+46
+71
+7
+0
+0
+0
+0
+322
+7.45
+458.26
+9.22
+270 - 285
+6
+8
+23
+31
+30
+26
+55
+36
+25
+1
+0
+0
+0
+0
+241
+5.57
+292.90
+5.90
+285 - 300
+2
+9
+19
+30
+31
+12
+25
+20
+9
+3
+0
+0
+0
+0
+160
+3.70
+177.50
+3.57
+300 - 315
+8
+16
+18
+25
+11
+11
+19
+10
+10
+1
+0
+0
+0
+0
+129
+2.98
+125.20
+2.52
+315 - 330
+1
+12
+21
+17
+12
+15
+18
+8
+6
+1
+0
+0
+0
+0
+111
+2.57
+111.68
+2.25
+330 - 345
+6
+12
+19
+11
+14
+9
+9
+8
+4
+1
+0
+0
+0
+0
+93
+2.15
+82.91
+1.67
+345 - 360
+1
+13
+13
+13
+16
+11
+16
+11
+6
+0
+0
+0
+0
+0
+100
+2.31
+102.98
+2.07
+SUM (#)
+116
+300
+493
+566
+563
+520
+789
+492
+449
+35
+2
+0
+0
+0
+4325
+100
+4968.57
+100
+SUM (%)
+2.68
+6.94
+11.40 13.09 13.02 12.02 18.24 11.38 10.38 0.81
+0.05
+0
+0
+0
+100
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 38 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Vedlegg D Supplerende figurer
+Figur D.1: Progressiv vektor (svart) p˚a 5 meters dyp ved Lille Bjørnøya i perioden 13.02.–16.07.2025. Den stiplede
+linjen (gr˚a) viser vektorsummen av alle strømhastigheter. Vektorpilen (rød) viser den gjennomsnittlige hastigheten p˚a
+8.1 cm/s mot 92.8°. Data er korrigert for magnetisk misvisning p˚a 7°.
+Figur D.2: Progressiv vektor (svart) p˚a 15 meters dyp ved Lille Bjørnøya i perioden 13.02.–16.07.2025. Den stiplede
+linjen (gr˚a) viser vektorsummen av alle strømhastigheter. Vektorpilen (rød) viser den gjennomsnittlige hastigheten p˚a
+7.0 cm/s mot 88.0°. Data er korrigert for magnetisk misvisning p˚a 7°.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 39 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur D.3: Progressiv vektor (svart) p˚a 20 meters dyp ved Lille Bjørnøya i perioden 14.01.–13.02.2025. Den stiplede
+linjen (gr˚a) viser vektorsummen av alle strømhastigheter. Vektorpilen (rød) viser den gjennomsnittlige hastigheten p˚a
+10.5 cm/s mot 108.7°. Data er korrigert for magnetisk misvisning p˚a 7°.
+Figur D.4: Progressiv vektor (svart) p˚a 66 meters dyp ved Lille Bjørnøya i perioden 14.01.–13.02.2025. Den stiplede
+linjen (gr˚a) viser vektorsummen av alle strømhastigheter. Vektorpilen (rød) viser den gjennomsnittlige hastigheten p˚a
+0.9 cm/s mot 349.6°. Data er korrigert for magnetisk misvisning p˚a 7°.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 40 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur D.5: Progressiv vektor (svart) p˚a 110 meters dyp ved Lille Bjørnøya i perioden 14.01.–13.02.2025. Den stiplede
+linjen (gr˚a) viser vektorsummen av alle strømhastigheter. Vektorpilen (rød) viser den gjennomsnittlige hastigheten p˚a
+1.5 cm/s mot 245.4°. Data er korrigert for magnetisk misvisning p˚a 7°.
+Figur D.6: Frekvensfordeling av vannstrømhastighet p˚a 5 meters dyp ved Lille Bjørnøya i perioden 13.02.–16.07.2025.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 41 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur D.7: Frekvensfordeling av vannstrømhastighet p˚a 15 meters dyp ved Lille Bjørnøya i perioden 13.02.–16.07.2025.
+Figur D.8: Frekvensfordeling av vannstrømhastighet p˚a 20 meters dyp ved Lille Bjørnøya i perioden 14.01.–13.02.2025.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 42 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur D.9: Frekvensfordeling av vannstrømhastighet p˚a 66 meters dyp ved Lille Bjørnøya i perioden 14.01.–13.02.2025.
+Figur D.10: Frekvensfordeling av vannstrømhastighet p˚a 110 meters dyp ved Lille Bjørnøya i perioden
+14.01.–13.02.2025.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 43 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur D.11: Frekvensfordeling av vannstrømretning for hver 15° sektor p˚a 5 meters dyp ved Lille Bjørnøya i perioden
+13.02.–16.07.2025. Data er korrigert for magnetisk misvisning p˚a 7°.
+Figur D.12: Frekvensfordeling av vannstrømretning for hver 15° sektor p˚a 15 meters dyp ved Lille Bjørnøya i perioden
+13.02.–16.07.2025. Data er korrigert for magnetisk misvisning p˚a 7°.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 44 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur D.13: Frekvensfordeling av vannstrømretning for hver 15° sektor p˚a 20 meters dyp ved Lille Bjørnøya i perioden
+14.01.–13.02.2025. Data er korrigert for magnetisk misvisning p˚a 7°.
+Figur D.14: Frekvensfordeling av vannstrømretning for hver 15° sektor p˚a 66 meters dyp ved Lille Bjørnøya i perioden
+14.01.–13.02.2025. Data er korrigert for magnetisk misvisning p˚a 7°.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 45 av 46
+Vannstrømm˚aling ved Lille Bjørnøya
+27.08.2025
+Figur D.15: Frekvensfordeling av vannstrømretning for hver 15° sektor p˚a 110 meters dyp ved Lille Bjørnøya i
+perioden 14.01.–13.02.2025. Data er korrigert for magnetisk misvisning p˚a 7°.
+3943-7-25S LILLE BJØRNØYA
+AQUA KOMPETANSE AS
+Side 46 av 46

@@ -1,0 +1,634 @@
+﻿02 
+02/12/2021 Endret figurtekst 
+JMA 
+ 
+JMA 
+01 
+29/11/2021 Revidert versjon 
+JPB 
+JMA 
+JMA 
+00 
+03/11/2021 For bruk 
+JPB 
+JMA 
+JMA 
+REV. 
+DATO 
+BESKRIVELSE 
+UTARBEIDET AV 
+KONTROLLERT AV 
+GODKJENT AV 
+ 
+MULTICONSULT | Nedre Skøyen vei 2 | Postboks 265 Skøyen, 0213 Oslo | Tlf 21 58 50 00 | multiconsult.no 
+NO 918 836 519 MVA 
+ 
+NOTAT 
+ 
+OPPDRAG 
+Vurdering av vannkilde 
+DOKUMENTKODE 
+10227936-01-TVF-NOT-002 
+EMNE 
+Dam 
+TILGJENGELIGHET 
+Åpen 
+OPPDRAGSGIVER 
+Vevelstad kommune 
+OPPDRAGSLEDER 
+Jon Magnus Amundsen 
+KONTAKTPERSON 
+Bjørn Erik Jansen  
+SAKSBEHANDLER 
+Jean-Pierre Bramslev 
+KOPI 
+  
+ANSVARLIG ENHET 
+10105060 Dammer og 
+undergrunnsanlegg Oslo 
+ 
+SAMMENDRAG 
+Multiconsult er engasjert av Vevelstad kommune for å vurdere LIåvatnets vannforsyningskapasitet. Gjennom en 
+analyse av feltkarakteristika har man funnet en representativ avrenningsserie (159.37 Heimervatn). På basis av denne 
+20-års serien har man gjennomført magasin- og tappeberegninger for Liåvatn. Beregningene viser: 
+▪  Med nåværende uttak senkes aldri vannstanden mer enn 45 cm under HRV. 
+▪  Med et uttak økt til 70 l/s vil HRV måtte økes med 90 cm til en reguleringshøyde på 1,9 m. Dette forutsetter en 
+minstevannføring på 7 l/s, svarende til Alminnelig Lavvannføring.  
+▪  Det er mulig å øke tappingen til 38 l/s uten å ombygge anlegget.  
+▪  En evt. overføring fra nabovassdraget i nord  vil bidra med et feltareal på 0,4 km2 i tillegg til 1,2 km2 for Liåvatn. 
+Dette er ikke tilstrekkelig til å garantere at tapping av 70 l/s ikke tømmer magasinet. Dammen må altså bygges høyere, 
+selv med overføring. 
+ 
+ 
+INNHOLDSFORTEGNELSE 
+ 
+1 
+Innledning .............................................................................................................................................................. 2 
+2 
+Anlegget ................................................................................................................................................................ 2 
+3 
+Hydrologisk kapasitet............................................................................................................................................. 3 
+ 
+Representative måleserier .................................................................................................................................... 3 
+ 
+Magasinberegninger ............................................................................................................................................. 7 
+3.2.1 
+Nåværende uttak...................................................................................................................................... 7 
+3.2.2 
+Fremtidig uttak ......................................................................................................................................... 9 
+4 
+Konklusjon ........................................................................................................................................................... 13 
+VEDLEGG 1  
+Nedbørsfeltdata fra NEVINA .................................................................................................................. 14 
+VEDLEGG 2 
+NEDBØRSFELT ........................................................................................................................................ 16 
+ 
+ 
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 2 av 16 
+1 
+Innledning 
+Dette notatet undersøker tilsig til Liåvatn og mulighet for å øke uttak til vannforsyning. Man ønsker 
+å øke vannuttaket fra dagens forbruk på rundt 5 l/s til rundt 15-20 l/s for vannverket og 50 l/s i 
+forbindelse med fiskeoppdrett. Dette vil bringe forbruket opp til rundt 70 l/s. Det er utført 
+vannbalanseberegninger for magasinet for å bringe på det rene hvor mye vann som må 
+magasineres mellom sesonger for å dekke vannbehovet året rundt, i alle år. 
+Tiltak som er vurdert for å kunne øke vannuttak er: 1) Heving av dam for å kunne magasinere vann 
+over en lengre periode enn i dag; 2) Overføring fra nabovassdrag. 
+ 
+ 
+Figur 1-1  
+Oversikt over vassdraget med Dam Liåvatnet. 
+2 
+Anlegget 
+Liåvatn er oppdemt av en reguleringsdam ca. 1,3 m. Denne har et overløp som definerer HRV til 
+657,0 moh. Dessuten har den et rør til uttak på ca. 116 mm. Røret befinner seg på ca. 656 moh og 
+definerer LRV. Røret slipper gjennom uttak til vannforsyning inkl. minstevannføring. Denne 
+vannføringen er i størrelsesorden 15-20 l/s. 
+1200 m vest for dammen, på ca. 70 moh ligger inntaksdammen for vannforsyningen (Figur 1-1). 
+Restfeltet mellom reguleringsdammen og inntaksdammen er langt og smalt og tilsiget fra dette 
+restfeltet er antageligvis neglisjerbart. 
+Røret i dammen har i seg selv en kapasitet på skjønnsmessig mellom 50 og 100 l/s. Siden det er 
+oppgitt at det nåværende uttaket er rundt 20 l/s, er det antagelig en ventil som er delvis skrudd 
+igjen. Se Figur 2-1. 
+Vannføringen ut gjennom røret i reguleringsdammen vil i prinsippet variere i forhold til 
+trykkhøyden, slik at ved lav vannstand (under HRV) vil vannføringen være mindre. I beregningene 
+som er gjort i denne rapporten er det gjort en forenkling slik at vannføringen forutsettes konstant, 
+altså uavhengig av magasinvannstand. 
+En veldig viktig forutsetting i beregningene er at vannføring minimum tilsvarende uttaket når helt 
+fram til inntaksdammen og at det ikke tapes noe vann på veien. Basert på opplysninger fra kunde 
+virker dette være tilfelle, men vi vil anbefale at dette kartlegges nærmere i tørre perioder.  
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 3 av 16 
+ 
+Figur 2-1 Dam Liåvatnet | Foto: Vevelstad kommune 
+3 
+Hydrologisk kapasitet 
+I dette avsnittet estimeres avrenning til Liåvatn og nødvendig magasinvolum. Egenskapene til 
+Liåvatns nedbørsfelt, herunder middelavrenning, estimeres med NVEs karttjeneste NEVINA. 
+Deretter utvelges måleserier hos NVE fra representative nedbørsfelt med sammenlignbare 
+feltkarakteristika. På basis av utvalgte serier beregnes vannbalansen i magasinet for å bestemme 
+nødvendig volum og damhøyde for å opprettholde et gitt uttak. 
+ 
+Representative måleserier 
+For å finne representative måleserier analyseres først nedbørsfeltet til Liåvatn. Dette er gjort med 
+NVEs kart NEVINA. Resultatet er vist i Vedlegg 1.  
+Kartet Figur 3-1 viser et utvalg av potensielt sammenlignbare målestasjoner, som er tatt i 
+betraktning ut fra beliggenhet i relativ nærhet og relativ lik størrelse (opptil 15 km2 feltareal). 
+Utvalget er relativt beskjedent, man har derfor måttet akseptere å gå opp til vesentlig større 
+feltarealer og relativ stor avstand – opptil >200 km fra Liåvatn. 
+Tabell 3-1 viser feltparameterne og andre data (serielengde og avstand til Liåvatn) sammenlignet 
+med Liåvatn (nederste rad). Parameterne sammenlignes numerisk for å rangere seriene etter 
+egnethet og representativitet. Resulterende rangering er vist i Tabell 3-2. De to stasjonene som 
+kommer best ut er Navnløsvatn og Heimervatn. En nærmere analyse av Navnløsvatn viser 
+imidlertid at det må ha vært et problem med målestasjonen slik at de registrerte vannføringene er 
+urealistisk store. Størstedelen av de 60 år med data må derfor forkastes og kun de siste 10 årene 
+ser noenlunde pålitelige ut. Følgelig kommer Heimervatn ut som den best egnede stasjonen, selv 
+om det kun er 20 års data fra denne.  
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 4 av 16 
+Tabell 3-1  
+Feltegenskaper for målestasjoners nedbørsfelt. 
+  
+Navn 
+Feltareal  
+Spf. Av-
+renning 
+Snaufjell 
+Eff. Sjø 
+Høyde 
+Avstand 
+Dataserie 
+  
+  
+km² 
+l/s/km2 
+% 
+% 
+min 
+maks 
+km 
+år 
+165.11.0 
+Skivika 
+1
+22.5
+0
+0
+4 
+145 
+210
+25
+128.12.0 
+Holobekken 
+1.06
+32.3
+0
+0
+75 
+163 
+203
+23
+164.39.0 
+Naurstad 
+3.24
+26.0
+0
+0
+10 
+143 
+215
+27
+160.14.0 
+Navnløsvatn 
+4.11
+78.5
+79
+20
+534 
+742 
+150
+63
+150.2.0 
+Tormodsvoll 
+6.28
+79.5
+0.3
+1.4
+17 
+1011 
+37
+21
+150.1.0 
+Sørra 
+6.58
+43.3
+0
+0
+35 
+165 
+42
+69
+159.37.0 
+Heimervatn 
+9.75
+92.2
+72
+9.4
+343 
+954 
+107
+34
+155.11.0 
+Stemtjern 
+12.06
+35.5
+0
+4.7
+456 
+740 
+78
+30
+Liåvatn 
+ 
+1.2
+117
+68
+31
+655 
+881 
+0  
+ 
+Konklusjonen er at analysen gjennomføres med tilsigsserien for 159.37 Heimervatn. Figur 3-2 viser 
+flerårsstatistikk for måleserien (hvert punkt på kurven representerer samme datoen for alle årene i 
+måleserien). Særlig interessant er minimum og 5-persentilen. Man ser at 5-persentilen ligger godt 
+under 20 l/s i rundt 3 måneder av året, februar-april. Dette faktum illustrerer behov for 
+magasinering i tørre år, selv med det nåværende uttaket. 
+ 
+Tabell 3-2 
+Rangering av målestasjoner egnethet ift prosjektfeltet. 
+Felt-
+areal  
+Spf. 
+avrenning
+Snau-
+fjell 
+Eff. Sjø
+Høyde 
+Av-
+stand 
+Data-
+serie 
+Vur-
+dering 
+ 
+2 
+0
+0 
+0
+0
+0
+1
+3.0 Skivika 
+2 
+0
+0 
+0
+0
+0
+0
+2.0 Holobekken 
+0 
+0
+0 
+0
+0
+0
+1
+1.0 Naurstad 
+0 
+1
+1 
+0
+2
+1
+2
+7.0 Navnløsvatn 
+0 
+1
+0 
+0
+1
+2
+0
+4.0 Tormodsvoll 
+0 
+0
+0 
+0
+0
+2
+2
+4.0 Sørra 
+0 
+2
+2 
+0
+1
+1
+1
+7.0 Heimervatn 
+0 
+0
+0 
+0
+1.5
+1
+1
+3.5 Stemtjern 
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 5 av 16 
+ 
+Figur 3-1 Målestasjoner tatt i betraktning. 
+Liåvatn
+Stemtjern
+Sørra
+Heimervatn
+Tormodsvoll
+Naurstad
+Navnløsvatn
+Skivika
+Holobekken
+Kartverket,
+0
+25
+50
+75
+100
+km
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 6 av 16 
+ 
+Figur 3-2 Flerårsstatistikk for tilsig til Liåvatn, basert på NVE-måleserie Heimervatn. 
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 7 av 16 
+ 
+Magasinberegninger 
+Magasinberegninger er utført med en enkel 1D  hydraulisk modell i mike11. Beregningen tar 
+utgangspunkt i tilsigsserien fra Heimersvatn (skalert ned til Liåvatns feltareal) og beregner 
+vannstandsendringen i magasinet. Det forutsettes et tappearrangement som tillater en konstant 
+vannføring gjennom røret. Beregning tar hensyn til overløpets kapasitet når vannstanden står 
+høyere enn HRV. Vannstanden beregnes på grunnlag av en volumkurve (arealkurve), altså volum 
+som funksjon av magasinvannstand.  
+I utgangspunktet forelå det ingen magasinkurve for Liåvatn. Digital terrengmodell (DTM) ble derfor 
+lastet ned fra www.hoydedata.no. På basis av terrengmodellen ble det fremstilt en arealkurve – vist 
+med blå farge på Figur 4-3. Kurven går under HRV (357 moh), men arealene er urealistisk små på 
+HRV og under. Innsjøens areal er kjent og målbar fra kart: 367.000 m2. Dette punktet er lagt inn på 
+kurven som det store, grønne punktet. Dette punktet stemmer godt med den blå kurvens forløp fra 
+658 og høyere. Kurven er derfor justert til å gå gjennom det grønne punktet og slik fremkommer 
+den oransje kurven på Figur 3-3. Denne kurven er benyttet i magasinberegningene. 
+ 
+ 
+Figur 3-3 Magasinkurve Liåvatn. 
+3.2.1 
+Nåværende uttak 
+Scenario 0: 
+Beregningene utføres på grunnlag av Heimervatn-tilsigsserien, skalert mht feltareal. Serien er på 
+totalt 20 år, men med et avbrudd 1994-2006 (se Figur 3-2 øverst). Av praktiske grunner har 
+tilsigsmålingene fra den første delperioden blitt «flyttet» til årene 2001 - 2006 for å få en 
+sammenhengende serie 2001-2020.  
+Det er gjennomført en beregning på grunnlag av det nåværende uttaket, 20 l/s. Beregningen er 
+utført med tanke på validering av tilsigsseriens gyldighet. Basert på Oppdragsgivers utsagn er det er 
+grunn til å tro at det nåværende anlegget sikrer det nåværende vannbehovet.  
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 8 av 16 
+En viktig annen viktig parameter i vurderingen er minstevannføring, altså hvor «ekstra» vann som 
+slippes forbi dammen av miljøhensyn.  
+Rørets dimensjon gjennom dam Liåvatneter 160 mm og høyde (ca. 1 m under HRV) kan røret føre 
+en maksimal minstevannføring i størrelsesorden 50-60 l/s. Ut fra nylige bilder kan det se ut til at 
+vannføringen er noe mindre og det antas at ventilen i røret er skrudd til med henblikk på et mer 
+passende vannuttak.  
+I beregningen er det forutsatt en minstevannføring på 7 liter/sek. Dette tallet er identisk med 
+Alminnelig Lavvannføring som beregnet av NEVINA. Til sammenligning er 5-persentilen for sommer 
+og vinter henholdsvis lik 20 l/s og 8 l/s. Det er rimelig å anta at det vil bli stilt krav om minstevann-
+føring som må slippes forbi inntaksdammen, men det er noe større usikkerhet til antall liter. Vi 
+vurderer alminnelig lavvannføring som en mest sannsynlig verdi. Krav om minstevannføring vil følge 
+av konsesjon og bakenforliggende vurderinger av miljø og miljøkonsekvenser.  
+Den øverste delen av Figur 3-4 viser vannstand og samlet vannføring forbi dammen (tapperør + 
+overløp) for hele simuleringsperioden 2001-2020. Man ser at vannføringen faller aldri under 27 l/s, 
+det er altså tilstrekkelig kapasitet til å sikre det nåværende behovet, inkl (antatt) minstevannføring. 
+Dette er i overenstemmelse med indikasjonene fra Oppdragsgiver på at man pr. i dag ikke har 
+opplevd vannmangel. Resultatet ses derfor som en bekreftelse på at datagrunnlaget holder mål. 
+Figuren viser videre at vannstanden i magasinet kun sjeldent faller noe særlig under HRV. 
+Begynnelsen av året 2018 er dimensjonerende med en lang tørkeperiode (kuldeperiode) som 
+medfører at magasinet tappes ned til 656.55, altså 45 cm under HRV. Nedre del av figuren viser de 
+samme parametrene som øvre delen, men zoomet inn på nettopp første halvår 2018.  
+ 
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 9 av 16 
+ 
+Figur 3-4 Magasinberegning for det nåværende uttaket – 20 liter/sek + antatt minstevannføring 7 l/s = 27 /s. Scenario 0. 
+3.2.2 
+Fremtidig uttak 
+Scenario 1: 
+I et scenario med uttak til fiskeoppdrett, økes uttaket til rundt 70 l/s. I første omgang antas det 
+samme minstevannføring som i eksempelet med nåværende uttak, altså 7 l/s. Resultatet er vist i 
+Figur 3-5.  
+Det trengs en reguleringshøyde på rundt 1,9 m ved et samlet uttak på 77 l/s (inkl. en minstevann-
+føring på 7 l/s). Det vil si at dammen må heves med minst 90 cm til en ny HRV på 657,9 moh. 
+Scenario 2: 
+Dersom uttaket i første omgang økes til 38 l/s, da spørres det om man fortsatt kan sikre en 
+konstant vannforsyning – med det eksisterende anlegget. Figur 3-6 viser at avløpet fra dammen 
+aldri går under 38 l/s. Vannstanden i magasinet går ned til 656,2 moh, så magasinet tømmes ikke 
+helt. Dette viser at det er gjennomførbart å sikre en konstant tapping av 38 l/s før ombygging av 
+dammen. 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 10 av 16 
+Scenario 3: 
+Som alternativ til å bygge en høyere dam, er det kjørt en beregning med overføring fra 
+nabovassdraget mot nord. I denne beregningen er det forutsatt samme minstevannføring som i 
+grunnscenarioene, 7 l/s. Nabonedbørsfeltet (vist i Vedlegg 2) har et areal på 0,4 km2 og bidrar kun i 
+begrenset grad til økt tilsig til Liåvatn. Overføringen vil måtte ha en lengde på minst 650 m.  
+Resultatene av beregningen ses som Figur 3-7. Man ser at det ikke går å opprettholde en tapping av 
+77 l/s uten å bygge ny/høyere dam, tross overføring fra nabovassdraget. I tre år (2013, 2018 og 
+2019) tømmes magasinet helt ned dersom det kjøres en konstant tapping på 77 l/s. 
+Det ble også vurdert å flytte vannskillet i nordøst gjennom å etablere en grøft og en dam, men 
+dette vil kreve alt for store tiltak i forhold til kapasitetsøkningen. 
+Tabell 3-3 
+Oversikt over nøkkelresultater av magasinberegninger 
+Nr. 
+Scenario 
+Nødvendig 
+reguleringshøyde 
+0 
+Nåværende uttak 20 
+l/s 
+Minstevannføring 7 l/s 
+ 
+0,48 m 
+1 
+Fremtidig uttak 70 l/s 
+Minstevannføring 7 l/s 
+ 
+1,9 m 
+2 
+Fremtidig uttak 38 l/s 
+ 
+0,8 m 
+3 
+Fremtidig uttak 70 l/s 
+Med overføring fra nabovassdrag 
+(minstevannføring 7 l/s) 
+> 1 m   
+         
+ 
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 11 av 16 
+ 
+Figur 3-5  
+Magasinberegning for fremtidig uttak – 70 liter/sek (minstevannføring 7 l/s / Scenario 1) 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 12 av 16 
+ 
+Figur 3-6  
+Magasinberegning for fremtidig uttak – 38 liter/sek (Scenario 2). 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 13 av 16 
+ 
+Figur 3-7  
+Magasinberegning for fremtidig uttak – 70 liter/sek (med overføring fra nabovassdrag / Scenario 3). 
+4 
+Konklusjon 
+▪  Med nåværende uttak senkes aldri vannstanden mer enn 45 cm under HRV. 
+▪  Med et uttak økt til 70 l/s vil HRV måtte økes med 90 cm til en reguleringshøyde på 1,9 m. Dette 
+forutsetter en minstevannføring på 7 l/s, svarende til Alminnelig Lavvannføring.  
+▪  Det er mulig å øke tappingen til 38 l/s uten å ombygge anlegget.  
+▪  En evt. overføring fra nabovassdraget i nord  vil bidra med et feltareal på 0,4 km2 i tillegg til 1,2 
+km2 for Liåvatn. Dette er ikke tilstrekkelig til å garantere at tapping av 70 l/s ikke tømmer 
+magasinet. Dammen må altså bygges høyere, selv med overføring. 
+Beregningene forutsetter at avløpet fra magasinet ikke varierer (minker) med synkende 
+magasinvannstand. Dette krever en annen type ventil enn den som er i røret pr i dag, det vil kreves 
+en minstevannførings-regulator. 
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 14 av 16 
+VEDLEGG 1  Nedbørsfeltdata fra NEVINA 
+ 
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 15 av 16 
+ 
+ 
+ 
+Vurdering av vannkilde 
+ 
+multiconsult.no 
+Hydrologi 
+ 
+10227936-01-TVF-NOT-002 
+2. desember 2021 / Revisjon 02 
+Side 16 av 16 
+VEDLEGG 2 NEDBØRSFELT 
+ 
+ 
+Rød polygon viser nedbørsfeltet til Liåvatn. Grønn polygon viser nedbørsfeltet til nabovassdraget 
+som er vurdert som supplerende kilde. 
+Kartverket,
+0
+100
+200
+300
+400
+500
+мeter

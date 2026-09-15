@@ -1,0 +1,243 @@
+﻿DNV GL Headquarters, Veritasveien 1, P.O.Box 300, 1322 Høvik, Norway. Tel: +47 67 57 99 00. www.dnvgl.com 
+DNV GL Memo Fureneset og 
+Portevika_Hydra.docx
+ 
+Memo til:   
+Memo Nr.: 
+01-1219 
+Erko Seafood AS 
+v/ Leif Rune Pedersen 
+Fra: 
+Z-NF-NA 
+Dato: 
+2019-12-05 
+Kopiert til: 
+DNV GL - Technical Aqua Services 
+v/ Frank Aage Vikedal 
+Skrevet av: 
+Kontrollert av: 
+VANGD 
+FRAAA 
+Erko Seafood AS – vurdering lokaliteters egnethet for «Produksjonstank» konsept.  
+ 
+1 INTRODUKSJON 
+Dette dokumentet er utarbeidet i 2019 i forbindelse med vurdering av egnethet av to lokaliteter for bruk 
+av Hydra Salmon Company AS sin «Produksjonstank». Lokalitetene 11688 Portevika og 22015 Fureneset 
+tilhører Erko Seafood AS og er lokalisert i henholdsvis Hyllestad og Solund kommune.  
+Det er tatt utgangspunkt «Concept Study Offshore Fishfarm» (ref. /1/).  
+Dokumentet vurderer oppgitte tall i konseptstudien med lokaliteter som kan være egnede for videre 
+uttesting av konseptet. Det er ikke utført nye beregninger eller detaljerte studier i dette memoet.  
+Konstruksjonens styrke er ikke vurdert opp mot påvirkning av bølger og strøm på gitte lokaliteter. 
+Signifikante bølgehøgder er vesentlige lavere på Fureneset og Portevika enn oppgitt i konseptstudien. 
+Bølgehøydene er i samme område som bølgeverdier i beregninger for operasjonell tilstand.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 2 av 6 
+ 
+DNV GL Memo Fureneset og
+Portevika_Hydra.docx
+ 
+2 LOKALITETENE 
+Lokaliteten Fureneset ligger i Tollesundet mellom Åfjorden og Sognesjøen i Solund kommune, som vist i 
+Figur 1. Lokaliteten Portevika ligger i Storakersundet mellom Åfjorden og Sognesjøen i Hyllestad 
+kommune, som vist i Figur 12.   
+ 
+Figur 1 Lokalitet (kilde: https://kart.fiskeridir.no/akva) 
+ 
+Figur 2 Lokalitet (kilde: https://kart.fiskeridir.no/akva) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 3 av 6 
+ 
+DNV GL Memo Fureneset og
+Portevika_Hydra.docx
+ 
+3 GRUNNLAGSDOKUMENTASJON 
+Global Maritime AS har utført en konseptstudie av «Produksjonstanken» til Hydra Salmon Company AS. 
+Det er utført CFD analyser (Computational Fluid Dynamics analyses) av konseptet for å vurdere design 
+basis og tre variasjoner for strømegenskaper inni produksjonstanken. Inkludert også tidsestimat for 
+vannutskiftning.  
+CFD-analysene er utført med strømhastighet på 0.25 m/s og 0.50 m/s.  
+  
+Figur 3. Utsnitt fra Ref. /1/. Rate of water renewal 
+Figur 3 viser tiden det tar å skifte ut vann inni produksjonstank ved oppgitte strømhastigheter.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 4 av 6 
+ 
+DNV GL Memo Fureneset og
+Portevika_Hydra.docx
+ 
+4 STRØMFORHOLD 
+Det er utført strømmålinger på lokalitetene Fureneset og Portevika i 2013 og 2014. Disse er presentert i 
+strømrapporter for lokalitetene, ref /4/ og /5/.   
+Nøkkeltall hentet fra strømrapportene er gjengitt i tabell 1 og tabell 2 under.  
+Fureneset 
+[cm/s] 
+ 
+[%]* 
+Dybde 
+Minimum 
+Middel 
+Maksimum 
+Varians 
+Strømretning 
+Strømstille    
+< 1.0 cm/s  
+5m 
+0.4 
+17.6 
+50.0 
+117.042 
+V/SØ 
+1.0 
+15m 
+0.2 
+10.2 
+36.6 
+65.553 
+SV/SØ 
+5.0 
+Tabell 1. Strømmåling Fureneset 
+Portevika 
+[cm/s] 
+[cm/s2] 
+ 
+[%]* 
+Dybde 
+Minimum 
+Middel 
+Maksimum 
+Varians 
+Strømretning 
+Strømstille    
+< 1.0 cm/s  
+5m 
+0.2 
+7.0 
+42.0 
+37.7 
+S 
+2.0 
+15m 
+0.2 
+8.6 
+42.4 
+55.4 
+S 
+1.7 
+Tabell 2: Strømmåling Portevika. 
+* Prosent strømstille som er registrert gjennom strømmålingsperioden.    
+ 
+Viktige parametere for å vurdere konseptets egnethet er gjennomsnittsstrøm og strømstille perioder.  
+Lokalitetene Fureneset og Portevika er oppgitt i lokalitetsrapporter (ref. /2/ og /3/) til å være typiske 
+tidevannspåvirkede lokaliteter, med beliggenhet i smale sund med stor vannutskiftning i 
+tidevannssyklussene. I tillegg vil andre strømkomponenter som kyststrøm og vindstrøm kunne påvirke 
+strømmen på lokalitetene og kunne være årsak til strømtopper. Dette er forhold som videre må 
+dokumenteres for å optimalisere konseptet.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 5 av 6 
+ 
+DNV GL Memo Fureneset og
+Portevika_Hydra.docx
+ 
+5 VANNUTSKIFTING 
+Fureneset:  
+Gjennomsnittsstrøm på 15 meter er 10.2 cm/s. Dette gir en vannutskifting på 2.4 timer. Vannet inni 
+«produksjonstanken» blir skiftet ut 10 ganger pr. døgn.  
+Det er utført beregninger på total vannutskifting ved 25 cm/s for å vurdere ulike konfigurasjoner av 
+geometrien til innløpet. Geometrien er ikke optimalisert for gjennomsnittsstrøm på 10.2 cm/s. Dette er 
+studier som må videreføres for å kunne optimalisere antall vannutskiftinger per dag.   
+Det er registrert strømstille 5.0% av strømmålingsperioden (strøm <= 1.0 cm/s) på 15 meter.    
+ 
+ 
+Portevika: 
+Gjennomsnittsstrøm på 15 meter er 8.6 cm/s. Dette gir en vannutskifting på 2.7 timer. Vannet inni 
+«produksjonstanken» blir skiftet ut 8.5 ganger pr. døgn.  
+Det er utført beregninger på total vannutskifting ved 25 cm/s for å vurdere ulike konfigurasjoner av 
+geometrien til innløpet. Geometrien er ikke optimalisert for gjennomsnittsstrøm på 8.6 cm/s. Dette er 
+studier som må videreføres for å kunne optimalisere antall vannutskiftinger per dag.   
+Det er registrert strømstille 1.7% av strømmålingsperioden (strøm <= 1.0 cm/s) på 15 meter.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 6 av 6 
+ 
+DNV GL Memo Fureneset og
+Portevika_Hydra.docx
+ 
+6 KONKLUSJON 
+Lokalitetene fremstår som potensielt egnede for videre arbeid med konseptet «Produksjonstank».  
+Dette memoet inkluderer ikke biologi og fiskevelferd.  
+Videre arbeid må dokumentere vannutskifting opp mot krav til vannkvalitet, oksygen etc. for gitt 
+mengde fisk i produksjon. Kompletterende strømmålinger bør utføres for lokalitetene, med detaljerte 
+analyser av strømkomponenter som påvirker strømfarten. Perioder med strømstille er viktig å få kartlagt 
+for å vurdere evnt. kompenserende behov mot fiskevelferd og biologi.  
+ 
+ 
+ 
+ 
+ 
+ 
+7 REFERANSER 
+/1/ 
+Global Maritime AS rapport GM-0405-0004-R001. Concept Study Offshore Fishfarm Datert 
+2017-11-15 
+/2/ 
+SubAquaTech AS rapport LOK-1-5-15. Lokalitetsundersøking ved lokalitet Portevika. Datert 
+2015-05-22. 
+/3/ 
+SubAquaTech AS rapport LOKALI-12/2012. Lokalitetsundersøking ved lokalitet Fureneset. 
+Datert 2013-08-15. 
+/4/ 
+SubAquaTech AS rapport KORRIG 0085. Strømmåling ved Fureneset. Datert 2013-05-22. 
+/5/ 
+Noomas Sertifisering AS rapport Noomas strømrapport 11688 Portevika. Datert 2014-10-20

@@ -1,0 +1,1191 @@
+﻿3375-8-24S SALTBUTANGEN 
+ 
+ 
+ 
+ 
+ 
+                        
+ 
+Vannstrømmåling ved 
+Saltbutangen, Inderøy kommune, 
+juli – august 2024 
+ 
+Verrasundet Skjell AS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Etter Norsk Standard NS 9425-1:1999 
+   AQUA KOMPETANSE AS 
+ 
+ 
+2024 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+1 
+ 
+ 
+Rapportens tittel: 
+Vannstrømmåling ved Saltbutangen, Inderøy kommune, juli – august 2024 
+Måleperiode: 
+02.07.–06.08.2024 
+Rapportdato: 12.09.2024 
+Rapportnummer: 3375-8-24S 
+Antall sider uten vedlegg: 14 
+Antall sider totalt: 20 
+Oppdragsgiver: 
+Verrasundet Skjell AS 
+Kontaktperson: 
+Einar Markus Sjømark 
+Prosjektleder: 
+Johanne Kvarsvik 
+Lokalitet: Saltbutangen 
+Kommune: Inderøy 
+Fylke: Trøndelag 
+Instrumenttype: 
+Aquadopp Current Meter 
+Dybde målested: 
+ca. 25 meter 
+Koordinater for instrumentrigg: 
+63°50.638 N, 10°43.084 Ø 
+Resultatoversikt 
+6 meter 
+Gjennomsnittsstrøm (cm/s): 
+6.7 
+Gjennomsnittshastighet (cm/s|°): 
+1.9 | 78 
+Makshastighet (cm/s|°): 
+30.4 | 74 
+Minimumshastighet (cm/s): 
+0.0 
+Varians (cm²/s²): 
+20.0 
+Strømintervall 0-1 cm/s (%): 
+3.2 
+10-års strøm, beregnet: 
+50.1 
+50-års strøm, beregnet: 
+56.2 
+Hovedstrømretning: 
+øst-nordøst 
+ 
+Emneord: 
+vannstrøm, overflatestrøm, Aquadopp Current Meter, doppler 
+ID 2268-3.0 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig: 
+ 
+Johanne Kvarsvik 
+Kvalitetssikrer: 
+ 
+Judith Thu Ølberg 
+ 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org.nr.: 982 226 163 
+© 2024 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+2 
+Innhold 
+Innledning .......................................................................................................................................................... 3 
+Beskrivelse av området ................................................................................................................................. 3 
+Materiale og metode ......................................................................................................................................... 4 
+Instrument og oppsett ................................................................................................................................... 4 
+Måledyp ......................................................................................................................................................... 5 
+Målepunkt ..................................................................................................................................................... 5 
+Kvalitetssikring av rådata ............................................................................................................................... 5 
+Meteorologi ................................................................................................................................................... 5 
+Tidevann ........................................................................................................................................................ 6 
+Kort vurdering .................................................................................................................................................... 7 
+Resultater .......................................................................................................................................................... 7 
+Tidsserie - vind og vannstrøm (hastighet og retning) .................................................................................... 9 
+Strømrose - gjennomsnittlig strømhastighet, maksimal strømhastighet og vanntransport......................... 9 
+Spredningsdiagram - strømretning og -hastighet ....................................................................................... 10 
+Meteorologi fra Steinkjer - Søndre Egge værstasjon .................................................................................. 11 
+Tidevann og vannstrøm ............................................................................................................................... 12 
+Temperatur og trykk i instrumentdypet ...................................................................................................... 13 
+Referanser ....................................................................................................................................................... 14 
+Vedlegg A - Riggtegning ................................................................................................................................... 15 
+Vedlegg B - Tidevannsanalyse ......................................................................................................................... 16 
+Vedlegg C - Supplerende tabeller .................................................................................................................... 18 
+Vedlegg D - Supplerende figurer ..................................................................................................................... 19 
+Instrumenthelning (tilt) og trykk ................................................................................................................. 19 
+Vektor - progressiv vektor ........................................................................................................................... 19 
+Histogram - strømhastighet ......................................................................................................................... 20 
+Histogram - strømretning ............................................................................................................................ 20 
+ 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+3 
+Innledning 
+Aqua Kompetanse AS har på oppdrag fra Verrasundet Skjell AS utført strømundersøkelser ved Saltbutangen 
+i Inderøy kommune (Figur 1 og 2). Aqua Kompetanse AS satte ut måleren sammen med representant fra 
+Verrasundet Skjell AS. Representant fra Verrasundet Skjell AS tok opp måleren, mens Aqua Kompetanse AS 
+har stått for kvalitetssikring av data og rapportering. Rapporten presenterer en oppsummering av resultatene 
+fra strømmålingene, og er bygd på forutsetningen om at leseren studerer følgende data og figurer nøye. 
+Strømmålingene ble foretatt i perioden 02.07.–06.08.2024. Rådata finnes oppbevart hos Aqua Kompetanse 
+AS, og er tilgjengelig ved forespørsel. 
+Beskrivelse av området 
+Den nye lokaliteten Saltbutangen er planlagt å ligge i Verrasundet nordøst for Hovdvågen. Verrasundet er 
+orientert i retning nordøst-sørvest, og munner ut Beitstadfjorden i nordøst. I munningen er Verrasundet ca. 
+630 meter bred. Verrasundet har flere basseng og terskler. Det dypeste bassenget i Verrasundet er ca. 124 
+meter dypt. Den grunneste terskelen mellom målepunktet og munningen ut til Beitstadfjorden er ca. 60 
+meter dyp og ligger mellom Gustvika i sørøst og Sjømark i nordvest.  
+ 
+Figur 1: Oversiktskart over deler av Inderøy kommune, Steinkjer kommune, Åfjord kommune, Verdal kommune, Levanger 
+kommune og Fosen kommune. Innrammet kartutsnitt i rødt viser undersøkelsesområdet ved Saltbutangen. Målestokk 
+vises øverst i figuren. Kartkilde: Olex. 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+4 
+ 
+Figur 2: Undersøkelsesområdet ved Saltbutangen. Posisjon for plassering av strømrigg er markert med grønt kryss. 
+Målestokk vises øverst i figuren. Kartkilde: Olex. 
+Materiale og metode 
+Strømmålingene ved Saltbutangen er gjennomført i henhold til NS 9425-1:1999 (Standard Norge, 1999). 
+Undersøkelsen består av én måleperiode; 02.07.–06.08.2024. I denne rapporten presenteres strømmålinger 
+som er innhentet ved undersøkelsen.  
+Instrument og oppsett 
+For å måle vannstrøm er det benyttet én 2000kHz akustisk strømmåler (AQK202CM) produsert av Nortek AS 
+(Tabell 1). Riggtegning er vist i Vedlegg A. Akustiske strømmålere bruker dopplerskift for å beregne 
+strømhastighet og -retning, og refereres ofte til som dopplermålere. Se oversikt over måleprinsipp og 
+dopplereffekten i Nortekgroup (u.å.). I oppsettet av instrumentet er det antatt at saltholdigheten i vannet er 
+35 ppt. Instrumentet benytter denne verdien, sammen med temperaturmålinger i instrumentdypet, til å 
+beregne lydhastigheten og dopplerskiftet. I tillegg til vannstrøm og temperatur registrerer instrumentet trykk 
+og instrumenthelning (Figur 10 og D.1).  
+Alle parameterne er målt gjennom en midlingsperiode spesifisert i Tabell 1, og presenteres som 
+gjennomsnittet i midlingsperioden. Det starter en ny midlingsperiode hvert 10. minutt gjennom hele 
+måleperioden og tidsangivelse er tidspunktet for når midlingsperioden starter. Målefrekvensen for de 
+temperatur, trykk og tilt gjennom midlingsperioden er 1 Hz, mens målefrekvensen for vannstrøm er angitt i 
+Tabell 1. Punktmåleren måler i monteringsdypet. Alle tidspunkt i rapporten er angitt i UTC+0 (Coordinated 
+Universal Time). Målingene er korrigert for en østlig magnetisk misvisning på 5° (Kartverket, 2021). Videre er 
+instrumentet satt opp med koordinatsystemet ENU (East North Up), hvor positiv x-retning er mot øst, positiv 
+y-retning er mot nord, og positiv z-retning er opp. 
+ 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+5 
+Tabell 1: Informasjon om instrumentoppsett og måletidspunkt. 
+Parametere 
+AQK202CM 
+Målertype 
+Aquadopp Current Meter 
+Hode-ID / Kort-ID 
+AQD10347 / AQD15739 
+Akustisk frekvens (kHz) 
+2000 
+Måleretning 
+Opp 
+Måleintervall (s) 
+600 
+Midlingsperiode (s) 
+90 
+Målebelastning (%) 
+35 
+Målefrekvens for vannstrøm (Hz) 
+8 
+Blindsone (m) 
+0.34 
+Instrumentdyp (m) 
+6.3 
+Tidsrom for gyldige registreringer 
+02.07.24 12:30 – 06.08.24 11:30 
+Lengde måleperiode (dager) 
+34.9 
+Måledyp 
+I henhold til NS 9415:2021 skal overflatestrømmen måles på 5 meters dyp, med et akseptabelt avvik på ± 2 
+meter. I denne rapporten presenteres overflatestrøm på 6 meters dyp. Med tanke på anleggets utforming 
+og plassering vurderes det ikke som nødvendig å rapportere flere måledyp.  
+Målepunkt 
+I henhold til NS 9415:2021 skal strømmålingene på 5 meters dyp utføres i den posisjonen som vurderes til å 
+fange opp de høyeste strømhastighetene som opptrer i området der anlegget skal ligge. Posisjonen skal i 
+tillegg være representativ for hele området der lastpåkjente deler av anlegget kan ligge.  
+Saltbutangen er en ny lokalitet, og det er dermed ikke noen faste installasjoner som potensielt kan forstyrre 
+målingene. Instrumentriggen er derfor plassert midt i planlagt anleggsramme. 
+Basert på tilgjengelig data og informasjon fra lokaliteten vurderes valgt måleposisjon til å være representativ 
+for strømforholdene ved Saltbutangen. Plasseringen antas å fange opp de høyeste vannstrømhastighetene 
+som kan opptre på 5 meters dyp 
+Kvalitetssikring av rådata 
+Det er foretatt en manuell og automatisk kvalitetskontroll av datasettene med programvarene SeaReport og 
+Storm. Instrumenthelning, signalstyrke, generell troverdighet til målingene, samt raske vannstrømhastighet- 
+og retningsforandringer fra datapunkt til datapunkt er vurdert i kvalitetssikringen. Måleserien på 6 meters 
+dyp vurderes til å være av god kvalitet og ingen situasjoner med korrupt data er fjernet i dette datasettet.  
+Meteorologi 
+For å vurdere den meteorologiske påvirkningen på registrert vannstrøm, er meteorologisk data fra 
+nærliggende målestasjoner benyttet. Meteorologiske data er hentet fra Norsk Klimaservicesenter, et 
+samarbeid mellom Meteorologisk institutt, Norges vassdrags- og energidirektorat, NORCE og 
+Bjerknessenteret (Norsk Klimaservicesenter, 2024). Nettsiden samler meteorologisk data fra hele landet og 
+flere stasjoner langs norskekysten. De ulike stasjonene er utstyrt med ulike sensorer, men i hovedsak 
+registreres vindhastighet og -retning, temperatur og trykk ved de fleste stasjoner. For Saltbutangen er 
+meteorologisk data hentet fra den meteorologiske stasjonen Steinkjer – Søndre Egge (6 moh.), lokalisert 
+omtrent 40 km nordvest for Saltbutangen (grønn sirkel, Figur 3). Stasjonen Steinkjer – Søndre Egge vurderes 
+som representativ for de meteorologiske forholdene ved Saltbutangen, da topografien er relativt lik. Data er 
+hentet ut med en målefrekvens på 10 minutter og oppgis i UTC+0. I Figur 4 presenteres middelvind 
+(middelverdi av vindhastigheten de siste 10 minuttene før observasjonstiden) og vindretning (middelverdi av 
+vindretning siste 10 minutter) sammen med strømdata. I Figur 7 presenteres vinddata gruppert etter styrke 
+og retning sammen med lufttemperatur og lufttrykk redusert til havnivå. 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+6 
+ 
+Figur 3: Topografisk oversiktskart over deler av Inderøy kommune, Steinkjer kommune, Åfjord kommune, Verdal 
+kommune, Levanger kommune og Fosen kommune. Posisjon for den meteorologiske stasjonen Steinkjer - Søndre Egge 
+er markert med gul sirkel og ligger ca. 40 km unna lokaliteten ved Saltbutangen, som er markert med grønn sirkel. 
+Målestokk vises nederst i figuren. Kartkilde: Kartverket, Norgeskart (2024). 
+Tidevann 
+I denne rapporten er tidevannsanalysen utført med programvaren UTide som er implementert i MATLAB 
+(Codiga, 2011). Metoden bryter opp den målte vannstrømmen i retning øst-vest (u) og nord-sør (v) og henter 
+ut tidevannskomponentene (utide, vtide) ved hjelp av en harmonisk analyse. Metoden for å hente ut 
+tidevannskomponentene er beskrevet nærmere i Vedlegg B. Reststrømmen (urest, vrest) er definert som 
+differansen mellom den målte strømmen og tidevannsstrømmen (u – utide, v – vtide). Restrømmen er summen 
+av alle andre krefter enn tidevann, for eksempel vannstrøm som oppstår på grunn av endringer i vind, trykk 
+og tetthet. 
+Det er definert to ulike forhold som representerer bidraget av tidevann på den målte vannstrømmen for 
+hvert dyp, variansforhold og hastighetsforhold (Tabell 3). Variansforholdet sammenligner variansen av 
+tidevannsstrømmen med variansen av den målte vannstrømmen (Formel B.1). Tilsvarende angir 
+hastighetsforholdet hva som er absolutt bidrag fra tidevannsstrøm og reststrøm i prosent (Formel B.2). Begge 
+forholdstallene er statistiske verdier beregnet for hele måleserien, og vil variere etter for eksempel hvor 
+mange stormer som inntreffer i måleperioden. 
+Det er også beregnet variansellipser for den målte vannstrømmen og den beregnende tidevannsstrømmen 
+(Figur 8). Variansellipsens store halvakse er vannstrømmen orientert langs den dominerende strømretningen 
+som er oppgitt i grader (°). Variansellipsens lille halvakse er strømmen som er orientert vinkelrett på den 
+dominerende strømretningen. Verdien på halvaksene bestemmer formen til variansellipsen. For eksempel 
+vil ellipsen i et sund der strømmen følger bunntopografien være ganske flat fordi det er en tydelig 
+dominerende strømretning, mens ute i åpnere havområder vil denne ellipsen være rundere fordi det er mer 
+varierende strømretning. 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+7 
+Kort vurdering 
+Vannstrømmen ved lokaliteten ved Saltbutangen følger batymetrien i området, som er orientert 
+nordøst/sørvest. På 6 meters dyp er det størst vanntransport mot øst-nordøst i retning ut fjorden. 
+Vannstrømmen er i stor grad styrt av tidevannet, men også tidvis av vind. De høyeste vannstrømhastighetene 
+registreres samtidig med økte vindhastigheter i området.  
+Resultater 
+I denne måleserien fra Saltbutangen er gjennomsnittlig vannstrøm 6.7 cm/s på 6 meters dyp, og 
+maksimalhastigheten er 30.4 cm/s (Tabell 3). Det er registrert lite strømstille i måleperioden. 
+Vannstrømmen ved lokaliteten ved Saltbutangen er i stor grad styrt av tidevannet da tidevannsstrømmen 
+utgjør 52 % av variabiliteten til vannstrømmen og 49 % av hastigheten på vannstrømmen på 6 meters dyp 
+(Tabell 3). Det halvdaglige tidevannet strømmer mot sørvest når det flør og mot nordøst når det ebber. 
+Strømhastighetene øker systematisk ved springflo som opptrer ved nymåne og fullmåne omkring hver 14. 
+dag (Figur 9).  
+Vannstrømmen ved Saltbutangen er også vindstyrt. Maksimalhastigheten på 6 meters dyp registreres 
+22.07.24 med retning mot øst-nordøst og samsvarer med økt middelvind opp imot 6.5 m/s i samme tidsrom 
+ved målestasjonen Steinkjer – Søndre Egge, med retning fra sør-sørøst.  
+Nedenfor presenteres tabeller og figurer med statistikk og resultater. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+8 
+Tabell 2: Statistikk og nøkkeltall fra utført strømmåling. Merk at i tabellen under er begrepet «strøm» brukt om skalare 
+størrelser uten retning (absoluttfart) mens begrepet «hastighet» er brukt om størrelser som også har en retning 
+(vektorer). 
+Parametere 
+6 meter 
+Gyldige målinger/totalt (#) 
+5035/5035 
+Andel gyldige målinger (%) 
+100 
+Gjennomsnittsstrøm (cm/s) 
+6.7 
+Gjennomsnittshastighet (cm/s | °) 
+1.9 | 78 
+Makshastighet (cm/s | °) 
+30.4 | 74 
+Minimumstrøm (cm/s) 
+0.0 
+Signifikant maksstrøm (cm/s) 
+11.8 
+Signifikant minimumstrøm (cm/s) 
+2.5 
+Strømintervall 0-1 cm/s (%) 
+3.2 
+Strømintervall 1-3 cm/s (%) 
+18.3 
+Neumann-parameter 
+0.29 
+Standardavvik (cm/s) 
+4.5 
+Varians (cm²/s²) 
+20.0 
+10 års returstrøm (cm/s) 
+50.1 
+50 års returstrøm (cm/s) 
+56.2 
+De 4 hyppigst forekommende 
+strømretningsgruppene (°) 
+60 - 75 
+75 - 90 
+240 - 255 
+225 - 240 
+De 4 hyppigst forekommende 
+strømgruppene (cm/s) 
+3 - 5 
+1 - 3 
+5 - 7 
+7 - 9 
+Mest vannutskiftning / retning / 
+15° sektor 
+1791 m³/m² per dag ved 60 - 75 
+Minst vannutskiftning / retning / 
+15° sektor 
+22 m³/m² per dag ved 330 - 345 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+9 
+Tidsserie - vind og vannstrøm (hastighet og retning) 
+ 
+Figur 4: Vindstyrke (m/s) og vindretning (°) ved den meteorologiske stasjonen Steinkjer - Søndre Egge (a) i perioden 
+25.06.–06.08.2024. Vinddata er timesmidlet og glattet over 6 timer (svart) med 10 min middelvind i bakgrunnen (grå). 
+Panelet under viser timesmidlet og glattet vannstrømhastighet (svart) og tilhørende retning (gul) samt målt 
+vannstrømhastighet (grå) på 6 (b) meters dyp ved Saltbutangen i perioden 02.07.–06.08.2024. 
+Strømrose - gjennomsnittlig strømhastighet, maksimal strømhastighet og vanntransport 
+ 
+ 
+Figur 5: Gjennomsnittlig og maksimal vannstrømhastighet (cm/s), samt vanntransport (m³/m²/dag) for hver 15° sektor 
+på 6 meters dyp ved Saltbutangen i perioden 02.07.–06.08.2024. Data er korrigert for magnetisk misvisning på 5°. 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+10 
+Spredningsdiagram - strømretning og -hastighet 
+ 
+Figur 6: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot strømretning (°) på 6 meters dyp ved 
+Saltbutangen i perioden 02.07.–06.08.2024. Data er korrigert for magnetisk misvisning på 5°. 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+11 
+Meteorologi fra Steinkjer - Søndre Egge værstasjon 
+ 
+Figur 7: Meteorologidata hentet fra Steinkjer - Søndre Egge i perioden 25.06.–06.08.2024. Den registrerte vinden er 
+gruppert etter styrke og retning (hvor det blåser fra), som vist i vindrosen øverst i figuren. Radiusen forteller hvor stor 
+andel av målingene som tilhører den enkelte gruppen. Tidsserien viser lufttemperatur registrert ved den meteorologiske 
+stasjonen Steinkjer - Søndre Egge. 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+12 
+Tidevann og vannstrøm 
+Tabell 3: Variansforhold og hastighetsforhold på 6 meters dyp ved Saltbutangen i perioden 02.07.–06.08.2024 (UTC+0).  
+Forhold (%) 
+6 meter 
+Varians 
+52 
+Hastighet 
+49 
+ 
+ 
+Figur 8: Variansellipse for målt vannstrøm (cm/s, svart) og beregnet tidevannsstrøm (cm/s, rød) på 6 meters dyp ved 
+Saltbutangen i perioden 02.07.–06.08.2024 (UTC+0).  
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+13 
+ 
+Figur 9: Beregnet tidevannsstrøm (cm/s, rød) og målt vannstrøm glattet over 24 timer (cm/s, svart) på 6 meters dyp ved 
+Saltbutangen for perioden 02.07.–06.08.2024 (UTC+0). 
+ 
+Temperatur og trykk i instrumentdypet 
+ 
+Figur 10: Temperatur (svart, °C) registrert i instrumentdypet ved Saltbutangen i perioden 02.07.–06.08.2024 (UTC+0). 
+Den faktiske dybden kan leses fra trykkdata (grå, dBar) i bakgrunnen. Instrumentnummer henviser til Tabell 1. 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+14 
+Referanser 
+Annunziato, A. og Probst P. (2016). Continious Harmonic Analysis of Sea Level Measurements: Description of 
+a new method to determine sea level measurement tidal component. Luxembourg: Publications 
+Office of the European Union, 29pp. (EUR28308 EN). https://doi.org/10.2788/4295 
+Codiga, D.L. (2011). Unified Tidal Analysis and Prediction Using the UTide Matlab Functions. Technical 
+Report 2011-01. Graduate School of Oceanography, University of Rhode Island, Narragansett, RI. 
+59pp. https://www.po.gso.uri.edu/~codiga/utide/utide.htm 
+Fiskeridirektoratet. (u.å.). Veileder til forundersøkelse. Hentet 24. juni 2024 fra 
+https://www.fiskeridir.no/Akvakultur/Dokumenter/Veiledere/veileder-til-
+forundersokelse#8.strommalinger 
+Gjevik, B.. (2009). Flo og fjære langs kysten av Norge og Svalbard. Farleia.  
+Kantha, L. H., Stewart, J. S., Desai, S. D. (1998). Long-period lunar fortnightly and monthly ocean tides . 
+Journal of Geophysical Research: Oceans. https://doi.org/10.2788/4295 
+Kartverket. (2021, 19. juli). Magnetisk misvisning. Hentet 9. august 2024 fra https://www.kartverket.no/til-
+lands/kart/turkart/magnetisk-misvisning 
+Kartverket, Norgeskart. (2024). Norgeskart. Hentet 9. august 2024 fra https://www.norgeskart.no 
+Norsk klimaservicesenter. (2024). Seklima. Oberservasjoner og værstatistikk. Hentet 9. august 2024 fra 
+https://seklima.met.no/ 
+Nortekgroup. (u.å.). Understanding ADCPs: a guide to measuring currents, waves & turbulence with 
+acoustic sensors. Hentet 9. august 2024 fra https://www.nortekgroup.com/knowledge-
+center/wiki/guide-to-understanding-adcps 
+Pawlowicz, R., Beardsley, B. og Lentz, S. (2002). Classical tidal harmonic analysis including error estimates in 
+MATLAB using T_TIDE. Computers & Geosciences 28.8: 929-937.  
+Standard Norge. (1999). Oseanografi - Del 1: Strømmålinger i faste punkter. (NS 9425:1999). 
+https://online.standard.no/ns-9425-1-1999 
+Standard Norge. (2021). Flytende akvakulturanlegg - Lokalitetsundersøkelse, prosjektering, utførelse og 
+bruk. (NS 9415:2021). https://online.standard.no/ns-9415-2021 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+15 
+Vedlegg A - Riggtegning 
+ 
+ 
+ 
+ 
+ 
+ 
+Overflate (0 meter): toppblåse og oppdriftskule 
+ 
+ 
+ 
+Ca. 6 meters dyp: Aquadopp Current Meter AQK202CM 
+ 
+Rett under instrument: lodd (10-15 kg) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bunn (ca. 25 meters dyp): lodd/kjetting 
+Figur A.1: Veiledende riggtegning for instrumentrigg 
+brukt ved Saltbutangen. Avvik kan forekomme.  
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+16 
+Vedlegg B - Tidevannsanalyse 
+Det astronomiske tidevannet drives av gravitasjonskreftene mellom jorden, månen og solen. Jordens 
+rotasjon fører til at vi opplever flo og fjære. Langs norskekysten øker forskjellene mellom flo og fjære desto 
+lengre nord og øst en kommer, i Stavanger er den omkring 0.5 m, Bergen 1 m, Rørvik 2 m, Tromsø 3 m og 
+Vardø 4 m (Gjevik, B. 2009). Flo og fjære setter opp tidevannsstrømmer som veksler regelmessig i styrke og 
+retning. 
+I denne rapporten er tidevannsanalysen utført med programvaren UTide som er implementert i MATLAB 
+(Codiga, 2011). UTide baserer seg på harmonisk analyse som tar utgangspunkt i det målte strømsignalet. 
+Metoden bryter opp den målte vannstrømmen i retning øst-vest (u) og nord-sør (v) og henter ut bidraget fra 
+de 35 mest relevante tidevannskomponentene i tilsvarende retninger (utide, vtide). Tidevannet består av flere 
+hundre komponenter hvorav 45 er astronomiske. De øvrige komponentene oppstår gjerne over grunn og 
+kompleks bunntopografi, og i de fleste områder har de et betydelig mindre bidrag enn de astronomiske 
+(Pawlowicz m. fl., 2002). De 35 utvalgte tidevannskomponentene kan være både astronomiske komponenter 
+og komponenter som oppstår over grunn og kompleks bunntopografi (Annunziato og Probst, 2016). 
+Tidevannskomponenter med periode over flere dager, som for eksempel sesongvariasjon, er utelatt fra 
+beregningen, da vi ikke har lang nok måleperiode til at de lar seg beregne med programvaren UTide (Kantha 
+m. fl., 1998). 
+De dominerende tidevannskomponentene fra tidevannsanalysen er oppgitt i Tabell B.1 med energiandel (%) 
+og bidrag til tidevannsellipsens store halvakse (cm/s). Energiandelen er beregnet for hver av de 35 
+tidevannkomponentene, og summeres til 100 %. Tidevannsellipsens store halvakse er vannstrømmen til hver 
+enkelt tidevannskomponent orientert langs den dominerende strømretningen. 
+Det er definert to ulike forhold som representerer bidraget av tidevann på den målte vannstrømmen for 
+hvert dyp, variansforhold og hastighetsforhold (Tabell 4). Variansforholdet sammenligner variansen av 
+tidevannsstrømmen med variansen av den målte vannstrømmen (Formel B.1). Dette forholdet angir hvor 
+mye av variabiliteten som skyldes tidevannsstrømmen i prosent. Dersom variansforholdet er 0 % utgjør 
+tidevannsstrømmen ingen variabilitet, dersom det er 50 % utgjør tidevannsstrømmen halvparten av 
+variabiliteten og dersom det er 100 % utgjør tidevannsstrømmen all variabilitet av den målte vannstrømmen. 
+Formel B.1: 
+ 
+Hastighetsforholdet (Formel B.2) er et mål som sammenligner hastigheten på tidevannet (over brøkstreken) 
+med summen av hastigheten på tidevannet og reststrømmen (under brøkstreken). Hastighetsforholdet er 
+beregnet for hvert målepunkt, og deretter er det tatt et gjennomsnitt over hele måleperioden med n antall 
+målinger. Dette forholdet angir hva som er absolutt bidrag fra tidevannsstrøm og reststrøm i prosent. 
+Hastighetsforholdet vil variere mellom 0 % og 100 %, der 50 % betyr at hastigheten på tidevannet og 
+reststrømmen er like store. Dersom forholdet er over 50 % er hastigheten på tidevannet størst og dersom 
+forholdet er under 50 % er hastigheten på reststrømmen størst. 
+Formel B.2 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+17 
+Det presenteres to ulike forholdstall fordi variansforholdet kan gi inntrykk av at tidevannet utgjør en veldig 
+stor eller veldig liten del av vannstrømmen, mens hastighetsforholdet ofte presenterer et mer balansert 
+forhold mellom tidevannsstrøm og reststrøm. Begge forholdstallene er statistiske verdier beregnet for hele 
+måleserien, og vil variere etter for eksempel hvor mange stormer som inntreffer i måleperioden. 
+Tabell B.1: Dominerende tidevannskomponenter på 6 meters dyp ved Saltbutangen i perioden 02.07.–06.08.2024 
+(UTC+0). Komponenter med energiandel under 2 % på 6 meters dyp er ikke inkludert i tabellen. Komponentene er sortert 
+etter energiandel på 6 meters dyp. 
+Tidevanns-komponent 
+Periodisitet (timer) 
+6 meter 
+Andel energi (%) 
+Store halvakse (cm/s) 
+M2 
+12.42 
+72.65 
+7.18 
+M4 
+6.21 
+8.08 
+2.39 
+S2 
+12.00 
+3.20 
+1.51 
+L2 
+12.19 
+3.02 
+1.39 
+MN4 
+6.27 
+2.77 
+1.40 
+MS4 
+6.10 
+2.69 
+1.38 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+18 
+Vedlegg C - Supplerende tabeller 
+Tabell C.1: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 6 meters dyp ved 
+Saltbutangen i perioden 02.07.–06.08.2024. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. Det er registrert 3 målinger med hastighet på 0 m/s. Disse målingene 
+har ingen retning og inngår ikke i tabellen. Data er korrigert for magnetisk misvisning på 5°. 
+6 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+10 
+26 
+24 
+12 
+11 
+9 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+96 
+1.91 
+46.03 
+0.79 
+15-30 
+1 
+16 
+22 
+13 
+20 
+11 
+6 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+93 
+1.85 
+60.96 
+1.05 
+30-45 
+9 
+20 
+25 
+20 
+24 
+21 
+32 
+11 
+4 
+0 
+0 
+0 
+0 
+0 
+166 
+3.30 
+130.17 
+2.24 
+45-60 
+6 
+23 
+22 
+28 
+49 
+60 
+78 
+71 
+70 
+12 
+2 
+1 
+0 
+0 
+422 
+8.39 
+514.61 
+8.87 
+60-75 
+1 
+11 
+29 
+39 
+61 
+66 
+152 
+168 
+313 
+118 
+37 
+12 
+0 
+0 
+1007 
+20.01 
+1790.50 
+30.85 
+75-90 
+5 
+13 
+29 
+37 
+45 
+49 
+100 
+88 
+152 
+40 
+9 
+1 
+0 
+0 
+568 
+11.29 
+846.17 
+14.58 
+90-105 
+10 
+13 
+35 
+24 
+21 
+29 
+30 
+15 
+10 
+2 
+1 
+0 
+0 
+0 
+190 
+3.78 
+165.02 
+2.84 
+105-120 
+4 
+13 
+18 
+15 
+7 
+7 
+12 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+78 
+1.55 
+49.53 
+0.85 
+120-135 
+7 
+12 
+16 
+10 
+6 
+5 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+60 
+1.19 
+30.68 
+0.53 
+135-150 
+9 
+16 
+15 
+9 
+14 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+66 
+1.31 
+30.76 
+0.53 
+150-165 
+2 
+14 
+7 
+16 
+2 
+1 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+47 
+0.93 
+25.02 
+0.43 
+165-180 
+4 
+12 
+12 
+10 
+8 
+2 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+53 
+1.05 
+28.43 
+0.49 
+180-195 
+9 
+16 
+15 
+11 
+11 
+8 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+75 
+1.49 
+40.00 
+0.69 
+195-210 
+5 
+14 
+26 
+18 
+25 
+11 
+17 
+7 
+2 
+0 
+0 
+0 
+0 
+0 
+125 
+2.48 
+91.04 
+1.57 
+210-225 
+5 
+16 
+29 
+35 
+35 
+39 
+54 
+24 
+26 
+1 
+0 
+0 
+0 
+0 
+264 
+5.25 
+256.09 
+4.41 
+225-240 
+11 
+17 
+22 
+32 
+37 
+51 
+86 
+83 
+117 
+9 
+0 
+0 
+0 
+0 
+465 
+9.24 
+605.76 
+10.44 
+240-255 
+7 
+21 
+30 
+37 
+52 
+50 
+107 
+89 
+92 
+10 
+1 
+0 
+0 
+0 
+496 
+9.86 
+612.67 
+10.55 
+255-270 
+6 
+19 
+37 
+42 
+47 
+32 
+40 
+25 
+6 
+0 
+0 
+0 
+0 
+0 
+254 
+5.05 
+210.86 
+3.63 
+270-285 
+16 
+20 
+20 
+30 
+25 
+17 
+22 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+152 
+3.02 
+96.48 
+1.66 
+285-300 
+5 
+19 
+26 
+18 
+17 
+7 
+6 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+100 
+1.99 
+56.87 
+0.98 
+300-315 
+6 
+12 
+23 
+14 
+4 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+63 
+1.25 
+29.11 
+0.50 
+315-330 
+7 
+15 
+18 
+15 
+4 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+65 
+1.29 
+29.86 
+0.51 
+330-345 
+8 
+14 
+12 
+13 
+2 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+52 
+1.03 
+21.70 
+0.37 
+345-360 
+4 
+20 
+18 
+24 
+2 
+4 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+75 
+1.49 
+36.46 
+0.63 
+SUM (#) 
+157 
+392 
+530 
+522 
+529 
+490 
+769 
+595 
+792 
+192 
+50 
+14 
+0 
+0 
+5032 
+100 
+5804.77 
+100 
+SUM (%) 
+3.12 7.79 
+10.53 
+10.37 
+10.51 
+9.74 
+15.28 
+11.82 
+15.74 
+3.82 0.99 
+0.28 
+0 
+0 
+100 
+Tabell C.2: Retning med returperiode for vannstrøm på 6 meters dyp. Strømhastighetene er oppgitt i m/s og 
+retningsgrupper som definert i NS 9415:2021. Data er korrigert for magnetisk misvisning på 5°. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.029 
+0.093 
+0.048 
+0.154 
+0.054 
+0.173 
+nordøst 
+0.078 
+0.273 
+0.129 
+0.450 
+0.145 
+0.504 
+øst 
+0.088 
+0.304 
+0.144 
+0.501 
+0.162 
+0.562 
+sørøst 
+0.031 
+0.095 
+0.050 
+0.157 
+0.056 
+0.176 
+sør 
+0.033 
+0.099 
+0.055 
+0.163 
+0.062 
+0.183 
+sørvest 
+0.069 
+0.207 
+0.114 
+0.341 
+0.128 
+0.383 
+vest 
+0.051 
+0.192 
+0.084 
+0.317 
+0.094 
+0.356 
+nordvest 
+0.028 
+0.079 
+0.046 
+0.131 
+0.051 
+0.147 
+ 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+19 
+Vedlegg D - Supplerende figurer 
+Instrumenthelning (tilt) og trykk 
+ 
+Figur D.1: Instrumentets helning (svart, °) registrert i instrumentdypet ved Saltbutangen i perioden 02.07.–06.08.2024 
+(UTC+0). Den faktiske dybden kan leses fra trykkdata (grå, dBar) i bakgrunnen.  Instrumentnummer henviser til Tabell 1. 
+ 
+Vektor - progressiv vektor 
+ 
+Figur D.2: Progressiv vektor på 6 meters dyp ved Saltbutangen i perioden 02.07.–06.08.2024. Data er korrigert for 
+magnetisk misvisning på 5°. 
+ 
+3375-8-24S SALTBUTANGEN 
+AQUA KOMPETANSE AS 
+20 
+Histogram - strømhastighet 
+ 
+Figur D.3: Frekvensfordeling av vannstrømhastighet på 6 meters dyp ved Saltbutangen i perioden 02.07.–06.08.2024. 
+ 
+Histogram - strømretning 
+ 
+Figur D.4: Frekvensfordeling av vannstrømretning for hver 15° sektor på 6 meters dyp ved Saltbutangen i perioden 
+02.07.–06.08.2024. Det er registrert 3 målinger med hastighet på 0 m/s. Disse målingene har ingen retning og inngår 
+ikke i diagrammet. Data er korrigert for magnetisk misvisning på 5°.

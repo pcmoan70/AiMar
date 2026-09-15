@@ -1,0 +1,1364 @@
+﻿3807-11-24FU SELSØYVÆR V.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Etter Norsk Standard NS 9410: 2016 
+AQUA KOMPETANSE AS 
+ 
+ 
+Forundersøkelse ved Selsøyvær  
+i Rødøy kommune, 2026 
+ 
+ 
+ 
+Selsøyvik Havbruk AS 
+ 
+Revidert rapportdato: 05.03.2026 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+ 
+ 
+ENDRINGSRAPPORT 
+ 
+Rapportens tittel: Forundersøkelse ved Selsøyvær i Rødøy kommune, 2026 
+ID 1581-1.6 
+Prosjekt nr.: 3807-11-24FU V.3 
+Oppdragsgiver:  
+Selsøyvik Havbruk AS 
+Prøvetakingssted: Selsøyvær, Rødøy 
+ 
+Dato for prøvetaking: - 
+ 
+Ansvarlig for prøvetaking: Aqua Kompetanse AS  
+ 
+Ansvarlig for rapportering: Aqua Kompetanse AS v/Hervik, A. 
+ 
+Endringer til opprinnelig rapport: 
+V.2 
+- 
+Tabell 6:  
+o Endret verdi for PBDE, DDT total og PCB7 for C1, C2 og C-ref. 
+o Separerte DDT til to rekker; DDT total og p,p'-DDT. 
+o Fjernet tilstandsklassifisering for PBDE, DDT, PCB7, diflubenzuron og teflubenzuron 
+ved C1, C2 og C-ref. 
+o La til tabelltekst som forklarer utregning og manglende tilstandsklassifisering. 
+ 
+- 
+Referanseliste:  
+o La inn Miljødirektoratet (2025). 
+ 
+- 
+C-undersøkelse: 
+o Endret rapportnummer til nyeste versjon. 
+V.3  
+       -     Hovedtabell: tilførte informasjon fra HBK-rapport  
+       -     Forord: tilførte informasjon om bruk av kart  
+       -     Avsnitt 1.2 og 2.1: Tilførte informasjon fra HBK-rapport. 
+       -     Avsnitt 1.4, 2.3, kapittel 3: 
+o Endret informasjon i tekst i henhold til nyeste B-forundersøkelse utført 04.12.2025.  
+- 
+Tabell 5 og 8: 
+o Oppdaterte tabell i henhold til nyeste B-forundersøkelse. 
+- 
+Figur 3: 
+o Oppdaterte figur (kart) i henhold til nyeste B-forundersøkelse.  
+- 
+Referanseliste: 
+o Fjernet kildehenvisning til gammel B-rapport og tilførte henvisning til nyeste B-
+forundersøkelse.  
+o Tilførte kildehenvisning til HBK-rapport. 
+- 
+Vedlegg B: 
+o Endret vedlegg i henhold til nyeste B-forundersøkelse.  
+Mosjøen, 11.02.2026 
+ 
+Gina Almås Gundersen
+ 
+3807-11-24FU SELSØYVÆR V.3 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Rapportens tittel:  
+Forundersøkelse ved Selsøyvær i Rødøy kommune, 2026 
+Lokalitet: Selsøyvær 
+Lokalitetsnummer: 36517 
+Revidert rapportdato: 11.02.2026 
+Rapportnummer: 3807-11-24FU V.3 
+Antall sider uten vedlegg: 22 
+Antall sider totalt: 32 
+Oppdragsgiver: Selsøyvik Havbruk AS
+ 
+ 
+Kontaktperson: Martin Kulseng 
+Omsøkt MTB: 4850 tonn 
+Kommune: Rødøy 
+Fylke: Nordland 
+Koordinater: 
+66° 35.376′N, 12° 50.979’Ø 
+Rapporten omfatter et sammendrag av 
+Rapportnr. 1312-6-22S 
+Rapportnr. 5031-1-26M 
+Rapportnr. 5051-11-25B 
+Rapportnr. 3180-4-24C V.2 
+Vannstrømmålinger 
+Havbunnskartlegging 
+B-undersøkelse 
+C-undersøkelse 
+5, 15, 70 og 117 meter 
+0,46 meter opplodding 
+16 stasjoner 
+5 + 1 stasjoner 
+03.03.–07.06.2022 
+29.01.2026 
+04.12.2025 
+09.04.2024 
+Emneord: 
+batymetri; vannstrøm; doppler; overflatestrøm; vannutskiftningsstrøm; dimensjoneringsstrøm; 
+spredningsstrøm; bunnstrøm; vannutskiftning; miljøtilstand; miljøovervåking; sediment; 
+elektrokjemi; sensoriske registreringer 
+ID 1582-1.6 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig:  
+ 
+ 
+Anja Hervik  
+ 
+Kvalitetssikring: 
+ 
+Frida Nonstad Fossum 
+ 
+ 
+ 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Telefon: 74 28 84 30 
+E-post: post@aqua-kompetanse.no 
+Nettside: www.aqua-kompetanse.no 
+Org. Nr.: 982 226 163 
+© 2026 Aqua Kompetanse AS. Kopiering kan kun skje i sin helhet. Dersom deler av rapporten (konklusjoner, 
+figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig samtykke fra Aqua 
+Kompetanse AS. 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+4 
+Forord 
+På oppdrag av Selsøyvik Havbruk AS har Aqua Kompetanse AS utført en forundersøkelse ved Selsøyvær. En 
+forundersøkelse av lokalitetens anleggsområde og anleggets overgangssone blir gjennomført før anlegget 
+plasseres, og før vesentlige anleggsutvidelser. Forundersøkelsen skal gi en tilstandsbeskrivelse av 
+miljøforholdene, og fungere som en referanse for utviklingen av miljøforholdene etter at produksjonen har 
+startet ved lokaliteten. I tillegg blir havbunnen i nærområdet til lokaliteten kartlagt, og vannstrømmen blir 
+målt i flere dyp. Dette gir et grunnlag for anleggsplassering, samt vanngjennomstrømming og 
+spredningspotensiale for lokaliteten. 
+ 
+Aqua Kompetanse AS har utført vannstrømmålinger, akkreditert B-undersøkelse og akkreditert C-
+undersøkelse ved den planlagte lokaliteten. Standarder og veiledere som er benyttet til innsamling av data 
+og prøvemateriale til denne forundersøkelsen er listet i Tabell 1. 
+ 
+Norsk lov graderer all data med en oppløsning på 50x50 meter dypere enn 30 meter som konfidensielt 
+(Forskrift om opptak og annen bruk av informasjon om bestemt angitte bunnforhold, 2023). Tilgang til data 
+er regulert av Forsvaret og Aqua Kompetanse AS har derfor ingen mulighet til å offentliggjøre data med høy 
+oppløsning. Kart i figurer presentert i denne rapporten kan derfor være av begrenset kvalitet, og Aqua 
+Kompetanse AS kan i noen tilfeller ha brukt detaljerte kart i vurderinger, som ikke er presentert i figurer. 
+Lovgivningen innebærer også at figurer fra havbunnskartleggingen ikke er inkludert i rapporten.  
+ 
+Tabell 1: Standarder og veiledere benyttet til innsamling av data og prøvemateriale til denne forundersøkelsen. 
+Undersøkelse 
+Standard/veileder 
+Tittel 
+B-, C- og forundersøkelse 
+NS 9410: 2016 
+Miljøovervåking av bunnpåvirkning fra marine 
+akvakulturanlegg 
+C-undersøkelse 
+NS-EN ISO 16665: 2013 
+Vannundersøkelse – Retningslinjer for kvantitativ 
+prøvetaking og prøvebehandling av marin 
+bløtbunnsfauna. 
+NS-EN ISO 5667-19: 2004 
+Vannundersøkelse – Prøvetaking – Del 19: Veiledning i 
+sedimentprøvetaking i marine områder. 
+Hydrografi 
+Veileder 02: 2018 
+Klassifisering av miljøtilstand i vann 
+Vannstrømmåling 
+NS 9425-1: 1999 
+Oseanografi – Del 1: Strømmålinger i faste punkter. 
+NS 9425-2: 2003 
+Oseanografi – Del 2: Strømmålinger ved hjelp av ADCP. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+5 
+Innholdsfortegnelse 
+Forord ................................................................................................................................................................ 4 
+Innholdsfortegnelse .......................................................................................................................................... 5 
+1. 
+Materiale og metode ................................................................................................................................ 6 
+1.1 Undersøkelsesområde ............................................................................................................................ 6 
+1.2 Havbunnskartlegging ............................................................................................................................... 6 
+1.3 Vannstrømmålinger................................................................................................................................. 7 
+1.4 B-undersøkelse ........................................................................................................................................ 7 
+1.5 C-undersøkelse ........................................................................................................................................ 8 
+1.5.1 Hydrografi ............................................................................................................................................ 8 
+2. 
+Resultat ..................................................................................................................................................... 9 
+2.1 Havbunnskartlegging ............................................................................................................................... 9 
+2.2 Vannstrømmålinger................................................................................................................................. 9 
+2.3 B-undersøkelse ...................................................................................................................................... 10 
+2.4 C-undersøkelse ...................................................................................................................................... 12 
+2.4.1 Bløtbunnsfauna .............................................................................................................................. 12 
+2.4.2 Sensoriske registreringer og elektrokjemiske målinger ................................................................ 12 
+2.4.3 Geologiske analyser ....................................................................................................................... 12 
+2.4.4 Kjemiske analyser .......................................................................................................................... 12 
+2.4.5 Miljøgifter ...................................................................................................................................... 13 
+2.4.6 Hydrografi ...................................................................................................................................... 17 
+3. 
+Oppsummering ....................................................................................................................................... 21 
+3.1 Bæreevne .............................................................................................................................................. 21 
+4. 
+Referanser ............................................................................................................................................... 22 
+Vedlegg A – Vannstrømmålinger ..................................................................................................................... 23 
+Vedlegg B - B1 og B2 skjema ........................................................................................................................... 31 
+ 
+  
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+6 
+1. Materiale og metode 
+1.1 Undersøkelsesområde 
+Selsøyvær ligger i Rødøy, Nordland (Figur 1). Anlegget er plassert over en skråning og ligger mellom øya 
+Sundøya og flere mindre øygrupper (Figur 4). Dybden under anlegget varierer fra 37 meter på det grunneste 
+til 145 meter på det dypeste, og sedimentet under anlegget består hovedsakelig av sand og skjellsand. 
+Dominerende strømretning ved spredningsdyp ved lokaliteten er mot nordøst (Frøysa, 2022). 
+ 
+ 
+Figur 1: Oversiktskart som viser planlagt anleggsplassering (rød firkant) i forhold til andre anlegg. Geografisk 
+senterpunkt for det planlagte anlegget ved Selsøyvær er 66° 35.376 N, 12° 50.979 Ø. Målestokk 1:160 000. Kilde: 
+Fiskeridirektoratets karttjeneste.  
+ 
+1.2 Havbunnskartlegging 
+Det ble foretatt havbunnskartlegging ved lokaliteten Selsøyvær som ligger i Kvarøyfjorden i Rødøy kommune, 
+29.01.2026. Målingene ble utført med Olex ATEC multistrålesonar og spatial bevegelsessensor. Den 
+kompakte sonaren med integrert elektronikk og lydfartsensor, kobles direkte til Olex via Ethernet og styres 
+automatisk uten behov for manuell betjening. Sonaren benytter bredbåndsteknologi for økt rekkevidde og 
+nøyaktig bunnmåling. Det har en varierende rekkevidde, avhengig av bunntopografi og vannkvalitet, på ca. 
+500 meters dybde. Ved opplodding av havbunnen er det mange faktorer som påvirker kvaliteten til 
+resultatene. Dybdeverdier som lager avvikende formasjoner i bunnkartet betraktes vanligvis som målefeil, 
+og vises som topper, hull eller langsgående arr i kartet. Avvikende målinger identifiseres gjennom en 
+kombinasjon av manuelle og automatiske metoder og vurderinger. De avvikende målingene slettes og 
+bunnkartet kalkuleres på nytt. Båtens utforming og montering av transduser er mulige feilkilder, så 
+korrigering av «roll, pitch og heading» kan være nødvendig. Slike feil sees ofte som høydeforskjeller mellom 
+kjøringer og ruglete havbunn i overlappende kjøringer. Roll og pitch er satt til null for dette datasettet på 
+bakgrunn av manuell kvalitetskontroll.  
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+7 
+Den antatte lydhastigheten WASSP/Olex benytter for å beregne dybder er en annen mulig feilkilde, hvor feil 
+i lydhastighet ofte vises som konvekse eller konkave strukturer i batymetrien, avhengig av om antatt 
+lydhastighet er for lav eller for høy. Ved denne kartleggingen ble det benyttet en CTD (konduktivitet, 
+temperatur og dybde) til å ta en profil av lydhastighet i vannsøylen før opploddingsstart, profilen ble deretter 
+konvertert til et format Olex forstår og lastet inn. Ettersom profilen i vannsøylen varierer med tid og 
+geografisk plassering vil lydhastigheten kunne påvirke resultatene, men trolig ikke i stor grad for dette 
+datasettet. Opploddingsforholdene var tilfredsstillende. For utdypende rapport, se Fallet, 2026.  
+ 
+1.3 Vannstrømmålinger 
+Strømmålingene ble foretatt i perioden 03.03.–07.06.2022 i en rigg utplassert på 66°35.396 N, 12°51.117 Ø 
+(Figur 4), og ble gjennomført i henhold til NS 9425-1:1999 og NS 9425-2:2003. Det ble benyttet tre akustiske 
+strømmålere produsert av Nortek AS; én 400 kHz profilerende måler og to 2000 kHz punktmålere. Den 
+profilerende måleren er montert på 32 meters dyp, og punktmålerne er montert på 70 og 117 meters dyp. 
+Den profilerende måleren har et instrumentoppsett på 25 celler × 2 meter som gir en rekkevidde på 50 meter. 
+Punktmålerne måler i monteringsdypet. Instrumentene registrerer i 1 minutt og 30 sekunder 
+sammenhengende og hviler i 8 minutter og 30 sekunder. For original rapport med utfyllende informasjon om 
+oppsett og instrument se Frøysa, 2022. 
+ 
+1.4 B-undersøkelse 
+Aqua Kompetanse AS har gjennomført en akkreditert B-undersøkelse i henhold til NS 9410:2016 ved 
+Selsøyvær den 04.12.2025. B-undersøkelsen skal gi en beskrivelse av hvordan bunnen under og i den 
+umiddelbare nærheten av et anlegg er påvirket, og gjennomføres ved en serie grabbprøver tatt fra 
+anleggsområdet. Det blir gjort vurdering av bunnfauna og sensoriske registreringer av sedimentet 
+(elektrokjemiske målinger (pH og redoks; gruppe II) samt gassdannelse, lukt, farge, konsistens, grabbvolum 
+og slamlag; gruppe III). B-undersøkelsen gir en tilstandsklassifisering av hver enkelt prøvestasjon og en samlet 
+tilstand av hele anleggsområdet. Tilstanden på enkeltstasjonene kan variere mye, så hovedvekta må legges 
+på helhetstilstanden for lokaliteten. Tilstanden klassifiseres fra 1 til 4 etter NS9410:2016 (Tabell 2), og angis 
+med fargekoder. 
+ 
+Undersøkelsen ble gjennomført ved bruk av en 250 cm2 Van Veen grabb, og sedimentet skylt over en 1mm 
+sikt. På Selsøyvær er omsøkt MTB på 4850 tonn. I henhold til Fylkeskommunene i Nordland, Troms og 
+Finnmark & Fiskeridirektoratet region Nord og region Nordland (2018) skal det ved forundersøkelse tas minst 
+10 stasjoner, som skal plasseres for å dekke hele området for det planlagte anlegget. Ved Selsøyvær ble dette 
+økt til 16 for å legge en stasjon ved hver merd, og det er tatt totalt 24 grabbskudd fordelt på disse stasjonene. 
+Prøvestasjonene er plassert innenfor planlagt anleggsområde for å dekke dette så godt som mulig, og er 
+merket av Figur 3 med tilstand markert med farger etter Tabell 2. For original rapport med utfyllende 
+informasjon om undersøkelsen, se Sebjørnsen, 2025.   
+ 
+Tabell 2: Tilstandsklassifisering basert på indeksverdi gitt ut fra B1-skjema ved B-undersøkelse (etter NS9410:2016), og 
+tegnforklaring til fargekoder for tilstand på B-undersøkelsens prøvestasjoner. 
+ 
+Tilstand 
+ 
+1 
+Meget god 
+2 
+God 
+3 
+Dårlig 
+4 
+Meget dårlig 
+Indeksverdi 
+< 1,1 
+1,1 – < 2,1 
+2,1 - < 3,1 
+≥ 3,1 
+ 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+8 
+1.5 C-undersøkelse 
+Aqua Kompetanse har gjennomført akkreditert feltarbeid for å innhente prøvemateriale i henhold til NS 
+9410:2016 den 09.04.2024. Her er analyser av total organisk materiale (TOM), total organisk karbon (TOC), 
+total nitrogen (TN), kornstørrelse, kobber, hydrografi, miljøgifter og makrofauna presentert, og gir en 
+beskrivelse av miljøtilstanden i nærområdet til oppdrettslokaliteten før anlegget starter sin produksjon.  
+ 
+Prøvematerialet ble innhentet ved bruk av en 0.1 m2 Van Veen grabb, og på hver prøvestasjon ble det foretatt 
+tre hugg med prøvegrabben. Makrofaunaprøver ble tatt ut av to av huggene, og 100-300 ml geologi- og 
+kjemiprøver ble tatt ut av ett. Ved hver stasjon ble det også foretatt elektrokjemiske målinger av sedimentet. 
+ 
+Lokaliteten er vurdert etter en C-undersøkelse i henhold til NS 9410:2016 hvor økende MTB gir økende antall 
+prøvestasjoner, og med en omsøkt MTB på 4850 tonn ved Selsøyvær er veiledende antall prøvestasjoner 5. I 
+tillegg skal det tas en referansestasjon minst 1 km unna det planlagte anlegget, i et område med tilsvarende 
+dybde og bunntype som øvrige stasjoner. Fremherskende strømretning og bunntype ligger til grunn for 
+plassering av prøvetakingsstasjonene (Figur 4). Anleggssonestasjon C1 ble lagt 25-30 meter fra merd, 
+nedstrøms fremherskende strømretning. C2 ble lagt ca. 500 meter nordøst for anlegget i fremherskende 
+strømretning, som er veiledende avstand fra anlegget etter NS9410:2016. Den ble planlagt noe mer øst enn 
+hovedstrømretning grunnet batymetri. C3 ble plassert 258 meter øst for anlegget og C4 er lagt 246 meter sør 
+for lokaliteten, i returstrømretning. C5 ble plassert i hovedstrømretning, omtrent 221 meter nordøst for 
+lokaliteten. Referansestasjonen ble plassert omtrent 1000 meter sør for lokaliteten. For original rapport se 
+Hervik, 2024. 
+ 
+1.5.1 Hydrografi 
+Hydrografi angår de kjemiske og fysiske havforholdene, slik som salinitet (saltinnhold), temperatur, 
+sirkulasjon og løste gasser. Det ble utført målinger av salinitet, temperatur og oksygen ved den dypeste 
+prøvestasjonen i undersøkelsesområdet ved Selsøyvær, stasjon C2 og Cref (Figur 4). Målingene ble utført 
+med en CTD av typen SAIV SD204 påmontert en Rinko III optisk oksygensensor. Instrumentet målte 
+annethvert sekund ned og opp igjennom vannsøylen. Registrerte data ble bearbeidet ved bruk av SAIV AS sitt 
+eget dataprogram for instrumentet, MiniSoft SD200W. Oksygenkonsentrasjonen i dypvann er viktig for den 
+helhetlige tilstanden i et område, og klassifisering av dypvannet er gjort etter Veileder 02:2018 (Tabell 3). 
+ 
+Tabell 3: Klassifisering av tilstand for oksygen i dypvannet ved salinitet over 20‰ (gjengitt etter Veileder 02:2018) 
+ 
+Tilstandsklasser 
+I 
+Svært god 
+II 
+God 
+III 
+Moderat 
+IV 
+Dårlig 
+V 
+Svært dårlig 
+Dypvann 
+Oksygenkonsentrasjon (ml O2/l) 
+> 4,5 
+4,5 – 3,5 
+3,5 – 2,5 
+2,5 – 1,5 
+< 1,5 
+Oksygenmetning (%)* 
+> 65 
+65 – 50 
+50 – 35 
+35 – 20 
+< 20 
+*Oksygenmetningen er beregnet for saltholdighet 33 og temperatur 6°C. 
+ 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+9 
+2. Resultat 
+2.1 Havbunnskartlegging 
+Havbunnskartlegging ved Selsøyvær ble utført med 0,46 meter opplodding. Eksisterende anlegg ligger over 
+østlig orientert skråning, med en renne som går sørlig ut mot Kvarøyfjorden. Store deler av kartlagt område 
+er hard eller mellomhard bunn, med spredt innslag av bløtbunn. Det viser bløtere bunn i dypere del av senter 
+av karleggingsområde. Dybder under anlegg er fra 42 meter nord i anlegget til 144 meter i sør.  
+ 
+2.2 Vannstrømmålinger 
+Vannstrømmen ved Selsøyvær er tidevannsdrevet og styres av batymetrien i området. På 5 meters dyp er 
+størst vanntransport rettet nord-nordvest, med en mindre sekundærkomponent rettet mot øst-nordøst. 
+Størst vanntransport på 15 meters dyp er rettet mot nord, med en sekundærkomponent rettet mot øst. På 
+70 og 120 meters dyp er størst vanntransport rettet mot nord-nordøst, med sekundærkompenter rettet mot 
+henholdsvis sør-sørvest og sørøst. Tabell 4 viser hovedresultatene fra vannstrømmålingene ved Selsøyvær, 
+og Figur 2 viser vanntransporten (fluksen) for alle fire dyp. Figur 4 viser plassering av strømrigg i forhold til 
+planlagt anleggsplassering. For tidsserier over strømhastighet og -retning, frekvensfordeling av 
+strømhastighet og frekvensfordeling av strømretning, se Vedlegg B. 
+ 
+Tabell 4: Hovedresultater fra vannstrømmålingene ved Selsøyvær. 
+Parametere 
+5 meter 
+15 meter 
+70 meter 
+117 meter 
+Gyldige målinger/totalt (#) 
+13792/13796 
+13795/13796 
+13773/13773 
+13773/13773 
+Gjennomsnittsstrøm 
+11.8 
+7.1 
+4.6 
+3.3 
+Maksimalstrøm (cm/s) 
+51.1 
+36.5 
+22.7 
+19.1 
+Minimumstrøm (cm/s) 
+0.0 
+0.0 
+0.0 
+0.0 
+Strømstyrke 0-1 cm/s (%) 
+0.8 
+2.1 
+4.6 
+7.7 
+Strømstyrke 1-3 cm/s (%) 
+6.6 
+14.8 
+28.5 
+43.1 
+Neumann-parameter 
+0.69 
+0.53 
+0.24 
+0.25 
+Standardavvik (cm/s) 
+8.4 
+4.9 
+2.9 
+2.1 
+Varians (cm2/s2) 
+70.5 
+24.3 
+8.4 
+4.5 
+Signifikant 
+maksimum 
+strømhastighet (cm/s) 
+21.5 
+12.5 
+7.9 
+5.6 
+Signifikant 
+minimum 
+strømhastighet (cm/s) 
+4.4 
+2.8 
+1.9 
+1.4 
+10 års returstrøm (cm/s) 
+84.3 
+60.3 
+- 
+- 
+50 års returstrøm (cm/s) 
+94.5 
+67.6 
+- 
+- 
+De 
+4 
+hyppigst 
+forekommende 
+strømretningsgruppene (°) 
+330 - 345 
+345 - 360 
+0 - 15 
+315 - 330 
+345 - 360 
+0 - 15 
+330 - 345 
+60 - 75 
+0 - 15 
+15 - 30 
+345 - 360 
+195 - 210 
+0 - 15 
+15 - 30 
+30 - 45 
+90 - 105 
+De 
+4 
+hyppigst 
+forekommende 
+strømhastighetsgruppene 
+(cm/s) 
+7 - 9 
+5 - 7 
+3 - 5 
+9 - 11 
+3 - 5 
+5 - 7 
+1 - 3 
+7 - 9 
+3 - 5 
+1 - 3 
+5 - 7 
+7 - 9 
+1 - 3 
+3 - 5 
+5 - 7 
+0 - 1 
+Mest 
+vannutskiftning 
+/ 
+retning / 15° sektor 
+2444 m3/m2 per 
+dag ved 330 - 345 
+857 m3/m2 per dag 
+ved 345 - 360 
+513 m3/m2 per 
+dag ved 0 - 15 
+310 m3/m2 per dag 
+ved 15 - 30 
+Minst vannutskiftning / 
+retning / 15° sektor 
+41 m3/m2 per dag 
+ved 120 - 135 
+46 m3/m2 per dag 
+ved 165 - 180 
+28 m3/m2 per dag 
+ved 120 - 135 
+41 m3/m2 per dag 
+ved 255 - 270 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+10 
+ 
+ 
+Figur 2: Vanntransport (m3/m2/dag) for hver 15° sektor på 5, 15, 70 og 117 meters dyp ved Selsøyvær i perioden 
+03.03.–07.06.2022. 
+ 
+2.3 B-undersøkelse 
+Antall prøvestasjoner ved Selsøyvær var 16, og det ble tatt 24 grabbskudd fordelt på disse. Sedimentet under 
+anlegget besto hovedsakelig av sand, silt og skjellsand. Det ble også registrert noe hardbunn ved enkelte 
+stasjoner, hvor tre av stasjonene var hardbunnstasjoner. Det ble funnet dyreliv ved alle stasjonene, 
+hovedsakelig bestående av børstemark. Ved stasjon 12 ble det observert skjell av typen Thyasiridae.  
+Elektrokjemi kunne måles ved tretten av stasjonene. Ved stasjon 10 var pH over 8,00, noe som tilsier at det 
+er sjøvannet og ikke sedimentets elektrokjemi som måles. Målingen anses som urealistisk og det gis ikke 
+poeng for elektrokjemi ved stasjonen. For stasjonene med reelle elektrokjemimålinger var pH-verdiene 
+over 7,1 ved åtte stasjoner, 7,1 ved én stasjon og under 7,1 ved de resterende tre. Stasjon 3 og 5 hadde pH-
+målinger lavere enn 6,8. Seks stasjoner hadde positiv Eh, og de resterende seks hadde negativ Eh.  
+Det ble ikke registrert gassbobler ved noen av stasjonene, men slamdannelse på ≥ 2cm ble registrert ved 
+stasjon 3. Mørkt sediment ble registrert ved ni av seksten stasjoner. Stasjon 3, 5 og 15 hadde sterk lukt, fire 
+stasjoner hadde noe lukt og de øvrige hadde normal lukt. Konsistensen var fast ved fire stasjoner, myk ved ti 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+11 
+og løs ved stasjon 3 og 5. Grabbvolumet var under ¼ ved seks av stasjonene, mellom ¼ og ¾ ved ni, og over 
+¾ ved én stasjon. Tabell 5 oppsummerer hovedresultatene fra B-undersøkelsen, og for original rapport med 
+utfyllende informasjon om hver stasjon se Sebjørnsen, 2025  
+ 
+Totaltilstand for Selsøyvær blir 2, med en indeksverdi på 1,19. 
+ 
+Tabell 5: Hovedresultater fra B-undersøkelsen ved Selsøyvær utført 04.12.2025. 
+ 
+ 
+ 
+Sedimenttype 
+Dominerende 
+Mindre dominerende 
+Øvrige 
+Sand 
+Silt, skjellsand 
+Grus 
+Ant. stasjoner: 
+16 
+Ant. stasj. med / uten dyr: 
+16 / 0 
+Ant. hugg: 
+24 
+Ant. stasj. bløt / hard bunn: 
+13 / 3 
+Antall grabbstasjoner (gruppe II / III) med følgende tilstand: 
+Tilstand 1: 10 / 8 
+Tilstand 2: 1 / 6 
+Tilstand 3: 2 / 2 
+Tilstand 4: 2 / 0 
+Parametergruppe 
+Indeks 
+Tilstand 
+Gr. II pH/Eh 
+1,40 
+2 
+Gr. III Sensorisk: 
+1,07 
+1 
+Gr. II + III 
+1,19 
+2 
+Lokalitetstilstand, iht. NS 9410:2016 
+2 
+Totalindeks illustrert 
+1 
+2 
+3 
+4 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+12 
+2.4 C-undersøkelse 
+ 
+2.4.1 Bløtbunnsfauna 
+Stasjonene i overgangssonen hadde god og svært god økologisk tilstand ut fra nEQR, ytterkanten av 
+overgangssonen (C2) hadde god tilstand, mens referansestasjonen hadde god tilstand. Arts- og 
+individantallet var varierende mellom stasjonene. 
+ 
+Ved C1 ble det registrert 872 individer fordelt på 3 arter. Forurensningsindikatoren Capitella captata-gr var 
+den vanligste, og dominerte med 99% av individantallet. Stasjonen klassifiseres til miljøtilstand 3 ut fra 
+NS9410:2016, basert på at det er 1 til 4 taksa på et prøveareal på 0,2 m2. 
+ 
+Ved C2 ble det registrert 2024 individer fordelt på 72 arter. Den tolerante arten Paramphinome jeffreysii var 
+den vanligste ved stasjonen, med 17% av individtallet. Indeksene ved stasjonen var gode eller svært gode, og 
+stasjonen ble klassifisert til god tilstand ut fra veileder 02:2018. 
+ 
+Ved C3 ble det registrert 1763 individer fordelt på 79 arter. Den sensitive arten Paramphinome jeffreysii var 
+den vanligste ved stasjonen, med 22% av individtallet. Alle faunaindeksene ved stasjonen hadde svært god 
+eller god tilstand, og stasjonen ble klassifisert til svært god tilstand ut fra veileder 02:2018. 
+ 
+Ved C4 ble det registrert 463 individer fordelt på 59 arter. Den tolerante arten Paramphinome jeffreysii var 
+den vanligste ved stasjonen, med 15% av individtallet. Faunaindeksene ved stasjonen hadde god eller svært 
+god tilstand. Stasjonen ble klassifisert til svært god tilstand ut fra veileder 02:2018. 
+ 
+Ved C5 ble det registrert 416 individer fordelt på 39 arter. Den tolerante arten Chaetozone setosa-gr var 
+den vanligste ved stasjonen, med 24% av individtallet. Faunaindeksene ved stasjonen varierte mellom 
+svært god, god og moderat tilstand. Stasjonen ble klassifisert til god tilstand ut fra veileder 02:2018. 
+ 
+Ved C-ref ble det registrert 622 individer fordelt på 38 arter. Den sensitive arten Onchnesoma steenstrupii 
+var den vanligste ved stasjonen, med 23% av individtallet. Stasjonen ble klassifisert til god tilstand ut fra 
+veileder 02:2018. 
+ 
+2.4.2 Sensoriske registreringer og elektrokjemiske målinger 
+Alle stasjonene viste normale pH og Eh-målinger, med pH målinger fra 7,95 til 8,21 og Eh målinger fra 131-
+361 mV. Samtlige stasjoner, med unntak av referansestasjonen hadde fast sediment bestående av sand og 
+skjellsand. pH- verdiene og enkelte Eh-verdier var høye, trolig påvirket av sjøvannet i grovt sediment og er 
+dermed ikke reelle verdier. Ved referansestasjonen besto sedimentet av leire, sand og skjellsand, og 
+konsistensen var myk. 
+ 
+2.4.3 Geologiske analyser 
+Kornfordelingen viser at den største fraksjonen ved alle stasjonene unntatt C3 og C-ref er fin sand (0,125-
+0,25). Ved C3 er de største fraksjonene veldig fin sand (0,063-0,125 mm) og ved C-ref var det silt og leire 
+(pelitt). Pelittandelen ved stasjonene indikerer at alle stasjonene, med unntak av C-ref, har grovkornet 
+sediment. C-ref har moderat finkornet sediment.  
+ 
+2.4.4 Kjemiske analyser 
+Andelen organisk materiale (TOM) var lavest ved C4 med 1,7% og høyest ved C-ref med 6,2%. Tilstanden av 
+normalisert organisk karbon (nTOC) var god (tilstand II) ved alle stasjoner.  Mengden nitrogen var lavest ved 
+C3 og C4 med <0,5 g/kg, mens de resterende stasjonene lå i intervallet 0,8-1,5 g/kg. C:N forholdet var 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+13 
+høyest ved C3 med 16,2, mens de andre stasjonene lå mellom 4,0 og 10,8. Sink var ved bakgrunnsnivå ved 
+alle stasjonene. Kobbernivåene ved alle stasjonene lå i tilstandsklasse I (svært god). 
+ 
+2.4.5 Miljøgifter 
+ 
+Tabell 6: Innhold av undersøkte kjemiske parametre i sediment. Kadmium (Cd), kvikksølv (Hg), heksaklorbenzen (HCB), 
+polybromerte difenyletere (PBDE), diklordifenyltrikloretan (DDT total og p,p'-DDT), polyklorerte bifenyler-7 (PCB-7), 
+diflubenzuron, og teflubenzuron. Tilstandsklasser og farger er klassifisert ut fra M-608 (2016). Ved grupper av stoff 
+hvor sum skal klassifiseres (f.eks. DDT total, PBDE og PCB7) skal konsentrasjonsverdien for et enkeltstoff <LOQ settes til 
+0 ved summering. En sum med et slikt stoff skal ikke tilstandsklassifiseres (Miljødirektoratet, 2025). Stoff som ikke kan 
+tilstandsklassifiseres grunnet dette eller andre begrensninger i analysemetode, er merket med gråfarge. 
+ 
+C1 
+C2 
+ 
+Cref 
+Cd (mg/kg) 
+<0,10 
+<0,10 
+<0,10 
+Hg (mg/kg) 
+<0,20 
+<0,20 
+<0,20 
+HCB (µg/kg) 
+<5 
+<5 
+<5 
+PBDE (µg/kg) * 
+0 
+0 
+0 
+DDT total (µg/kg)** 
+0 
+0 
+0 
+p,p'-DDT (µg/kg) 
+<10 
+<10 
+<10 
+PCB7 (µg/kg)*** 
+0 
+0 
+0 
+Diflubenzuron (µg/kg) 
+<10 
+<10 
+< 10 
+Teflubenzuron (µg/kg) 
+<10 
+<10 
+< 10 
+*Beregnet som summen av kongenene PBDE-28, PBDE-47, PBDE-99, PBDE-100,  
+**DDT total er summen av p,p'-DDT, o,p'-DDT, p,p'-DDE og p,p'-DDD.  
+***PCB7 er summen av PCB-28, -52, -101, -118, -138, -153 og -180.  
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+14 
+Tabell 6: Hovedresultater fra C-undersøkelsen. Aqua Kompetanse AS har stått for akkreditert prøvetaking og akkreditert 
+faglig vurdering og fortolkning av analyseresultatene. Videre har Aqua Kompetanse AS utført uakkreditert hydrografisk 
+profil av vannsøylen ved lokaliteten. Pelagia Nature & Environment AB har utført akkreditert analyse av makrofauna, 
+ALS Laboratories Norway har utført analyse av miljøgifter og Eurofins Environment Testing Norway AS har utført 
+akkrediterte analyser av TOC og kobber. Aqua Kompetanse AS har utført uakkreditert tilstandsklassifisering av 
+oksygentilstand og akkreditert tilstandsklassifisering av organisk karbon etter Veileder 02:2018, mens det er foretatt 
+akkreditert klassifisering av kobber etter M-608 (2016). Aqua Kompetanse AS har stått for akkreditert 
+tilstandsklassifisering av faunaindekser. Farger indikerer tilstandsklasser ut fra nevnte veiledere. For veileder 02:2018 er 
+disse fargene som følger: Blå = svært god, grønn = god, gul = moderat, oransje = dårlig og rød=svært dårlig. Miljøtilstand 
+i anleggssonen er klassifisert og farget ut fra NS9410:2016. 
+ 
+Anleggssone 
+Ytterst 
+Overgangssone 
+Referanse 
+ 
+Stasjon 
+C1 
+Stasjon 
+C2 
+Stasjon 
+C3 
+Stasjon 
+C4 
+Stasjon 
+C5 
+Stasjon 
+C-ref 
+Avstand til anlegg (m) 
+0 
+500 
+258 
+246 
+221 
+1037 
+Dyp (m) 
+92 
+134 
+138 
+114 
+75 
+157 
+GPS koordinater 
+66°35.426’ N 
+12°51.032’ Ø 
+66°35.587’ N 
+12°51.599’ Ø 
+66°35.475’ N 
+12°51.365’ Ø 
+66°35.131’ N 
+12°51.228’ Ø 
+66°35.590’ N 
+12°51.189’ Ø 
+66°34.775’ N 
+12°51.834’ Ø 
+Bunnfauna 
+(Veileder 02:2018) 
+Ant. individer 
+872 
+2024 
+1763 
+463 
+416 
+622 
+Ant. arter 
+3 
+72 
+79 
+59 
+39 
+38 
+H' 
+0,059 
+4,245 
+4,559 
+4,635 
+3,849 
+3,633 
+nEQR verdi 
+tilstand 
+0,082 
+0,765 
+II 
+0,804 
+I 
+0,815 
+I 
+0,656 
+II 
+0,780 
+II 
+Gj.snitt nEQR 
+overgangssone 
+ 
+ 
+0,758 
+II 
+ 
+Oksygen i bunnvann 
+(ml O2/l) 
+ 
+6,31 
+ 
+ 
+ 
+ 
+Organisk stoff 
+nTOC (mg/g) 
+21,3 
+II 
+22,3 
+II 
+20,9 
+II 
+21,8 
+II 
+21,1 
+II 
+23,1 
+II 
+Fosfor 
+650 
+750 
+970 
+750 
+650 
+440 
+Zn (sink, mg/kg) 
+15 
+I 
+31 
+I 
+39 
+I 
+22 
+I 
+16 
+I 
+30 
+I 
+Cu (mg/kg TS) 
+2,3* 
+I 
+5,8 
+I 
+6,9 
+I 
+3,1 
+I 
+1,8 
+I 
+11* 
+I 
+Tilstand for C1 
+3 
+ 
+ 
+ 
+ 
+ 
+Tidspunkt for neste undersøkelse: 
+Etter første produksjonssyklus ved ny MTB 
+*Verdien er et snitt av analyser utført av to underleverandører. 
+ 
+ 
+Tabell 7: Tabell som viser fargekoder for de ulike tilstandsklassifiseringene vist i Tabell 6, hvor tilstand I er best. Etter 
+Veileder 02:2018. 
+I 
+II 
+III 
+IV 
+V 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+15 
+ 
+Figur 3: Sjøkart som viser anleggsplassering og fortøyningsliner sammen med prøvestasjoner fra B-undersøkelsen 
+(tilstand markert med farger etter Tabell 2) og C-undersøkelsens innerste stasjoner (grønne kryss). Lilla pil viser 
+orientering av kart. 
+ 
+ 
+Tabell 8: Posisjon for prøvestasjonene ved B-undersøkelsen. 
+St. nr. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Pos. Nord 
+66°35.260 
+35.298 
+35.333 
+35.409 
+35.443 
+35.481 
+35.484 
+35.466 
+35.433 
+35.348 
+Pos. Øst 
+12°50.989 
+50.957 
+50.930 
+50.861 
+50.830 
+50.792 
+50.943 
+50.990 
+51.021 
+51.088 
+St. nr. 
+11 
+12 
+13 
+14 
+15 
+16 
+Pos. Nord 
+66°35.305 
+35.278 
+35.385 
+35.367 
+35.249 
+35.505 
+Pos. Øst 
+12°51.123 
+51.154 
+51.054 
+50.899 
+51.046 
+50.915 
+ 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+16 
+ 
+Figur 4: Sjøkart som viser anleggsplassering sammen med C-stasjoner (grønne kryss), posisjon for vannstrømmålinger 
+(rødt flagg) og fortøyningsliner. Røde kryss indikerer mislykkede prøvestasjoner. Lilla pil viser orientering av kart, 
+strømrose viser vanntransport (m3/m2/døgn; fluks) for hver 15° sektor på 70 meters dyp (spredningsdyp). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+17 
+2.4.6 Hydrografi 
+Saltholdighet, temperatur, tetthet og oksygeninnhold ble målt fra overflaten og ned til bunnen (down-cast) i 
+dypområdet ved Selsøyvær (C2 og Cref; Figur 4). Resultatene fra denne undersøkelsen presenteres i Figur 5, 
+6, 7 og 8. 
+ 
+ 
+Figur 5: Sjøtemperatur (°C ; grønn), salinitet (rød) og tetthet (-1000 kg/m3; blågrønn) fra overflaten og ned til bunnen 
+(down-cast) på 134 meters dyp ved stasjon C2 den 09.04.2024. 
+ 
+Sjøtemperaturen forholdt seg relativt stabil fra overflaten og ned til 65 meters dyp. Fra 65 meter og ned til 
+bunnen økte den gradvis med noe variasjon, hvor temperaturen på bunnen var på omtrent 6,1°C. 
+Saliniteten økte rask fra overflaten og ned til 5 meter. Fra 5 meter og ned til bunnen var den relativt stabil 
+på omtrent 33,9. Tettheten fulgte trenden til saliniteten.  
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+18 
+ 
+Figur 6: Oksygenmetning (%; rød) og oksygenkonsentrasjon (ml/l; blå) fra overflaten og ned til bunnen (down-cast) på 
+134 meters dyp ved stasjon C2 den 09.04.2024. 
+ 
+Profilen for oksygenmetning viste lite endring fra overflaten til bunnen, med en forskjell på omtrent 15%. 
+Ved overflaten lå oksygenkonsentrasjonen på 7,84 (107,31%) og sank relativt sakte ned til 65 meter, før det 
+sank raskere med noe variasjon ned mot bunnen. Bunnvannet holdt en oksygenkonsentrasjon på 6,31 ml 
+O2/l (92,54%), og tilsvarte derfor tilstandsklasse I - svært god iht. Veileder 02:2018. 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+19 
+ 
+Figur 7: Sjøtemperatur (°C ; grønn), salinitet (rød) og tetthet (-1000 kg/m3; blågrønn) fra overflaten og ned til bunnen 
+(down-cast) på 170 meters dyp ved stasjon Cref den 24.09.2024. 
+ 
+Sjøtemperaturen sank gradvis fra overflaten og ned til 140 meter, og fra 140 meter og ned mot bunnen 
+forholdt seg relativt stabil. Temperaturen på bunnen var på omtrent 8,5°C. Saliniteten økte gradvis fra 
+overflaten og ned til bunnen, hvor verdien lå på omtrent 34,4. Tettheten fulgte trenden til saliniteten.  
+ 
+ 
+Down-cast selected
+170
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0 m
+34,0
+33,0
+32,0
+31,0
+12,0
+10,0
+8,0
+27,0
+26,0
+25,0
+24,0
+23,0
+Sal.
+Temp
+Density
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+20 
+ 
+Figur 8: Oksygenmetning (%; rød) og oksygenkonsentrasjon (ml/l; blå) fra overflaten og ned til bunnen (down-cast) på 
+170 meters dyp ved stasjon Cref den 24.09.2024. 
+ 
+ 
+Profilen for oksygenmetning viste lite endring fra overflaten til bunnen, med en forskjell på omtrent 7%. 
+Ved overflaten lå oksygenkonsentrasjonen på 5,61 (94,46%) og sank relativt raskt ned til 30 meter, før det 
+økte relativt raskt med noe variasjon ned mot bunnen. Bunnvannet holdt en oksygenkonsentrasjon på 5,82 
+ml O2/l (87,71%), og tilsvarte derfor tilstandsklasse I - svært god iht. Veileder 02:2018. 
+ 
+ 
+Down-cast selected
+170
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0 m
+5,8
+5,7
+5,6
+5,5
+94,0
+93,0
+92,0
+91,0
+90,0
+89,0
+88,0
+OpOx %
+ml/l
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+21 
+ 
+3. Oppsummering 
+Lokaliteten Selsøyvær ligger ifølge vann-nett.no i vannforekomsten Risværfjorden. Miljøtilstanden i området 
+er registrert som god. Dybden under anlegget varierer fra 37 til 130 meter. Øst for anlegget skråner bunnen 
+ut mot en renne på 270 meter på det dypeste. Sedimentet under anlegget består hovedsakelig av sand og 
+skjellsand. 
+ 
+Vannstrømmålingene ved lokaliteten viser lite strømstille ved alle målte dyp. Hovedstrømretning i 
+spredningsstrømdyp er nord-nordøst.  
+ 
+Resultatene fra B-undersøkelsen viste tegn til påvirkning ved enkeltstasjoner, spesielt ved stasjonene på 
+vestre langsiden av anlegget. Påvirkningen ga utslag i lave elektrokjemiske målinger, sensoriske 
+registreringer, samt funn av fôr og/eller fekalier ved to stasjoner. De øvrige stasjonene øst i anlegget viser 
+gode bunnforhold.   
+ 
+Totalt sett viste C-undersøkelsen gode miljøforhold ved lokaliteten, dette i form av høy faunadiversitet, gode 
+kjemiske støtteparametere og høy oksygenmetning ved bunnen. Basert på historiske undersøkelser i tillegg 
+til nåværende kan det se ut til at det akkumuleres noe nedfall i anleggssonen. 
+ 
+Hydrografiprofilen tatt ved C2 og Cref viste høy oksygenmetning i hele vannsøylen, med bunnvann som 
+tilsvarte beste tilstand ut fra Veileder 02:2018. 
+ 
+3.1 Bæreevne 
+Undersøkelsene viser gode forhold ved lokaliteten, og vurderes til å ha god kapasitet til produksjon av 
+biomasse. Anleggssonen kan, basert på C-undersøkelsene, være sårbar for akkumulering av nedfall, men ser 
+også ut til å ha restitusjonsevne. Med eventuell anleggsdrift vil lokaliteten bli rutinemessig fulgt opp med 
+miljøundersøkelser, og dette vil gi en bedre pekepinn på lokalitetens bæreevne. 
+ 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+22 
+4. Referanser 
+ 
+Fiskeridirektoratet 
+(2024) 
+Veileder 
+til 
+forundersøkelse 
+av 
+akvakulturlokaliteter.  
+https://www.fiskeridir.no/Akvakultur/Dokumenter/Veiledere/veileder-til-forundersokelse, 
+lastet 
+inn 
+24.10.2024.  
+ 
+Fallet, M. (2026) Havbunnskartlegging ved Selsøyvær, Rødøy kommune, 29.01.2026. Rapportnummer 5031-
+1-26M levert av Aqua Kompetanse AS.  
+ 
+Frøysa, H.G. (2022) Vannstrømmåling ved Selsøyvær, Rødøy kommune, mars-juni 2022. Rapportnummer 
+1312-6-22S, levert av Aqua Kompetanse AS. 
+ 
+Fylkeskommunene i Nordland, Troms og Finnmark & Fiskeridirektoratet region Nord og Region Nordland 
+(2018) Veiledning til krav om forundersøkelser i henhold til NS9410:2016 i forbindelse med søknad om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark fylker. Versjon 1, 04.04.2018. 
+ 
+Hervik, A. (2024) C-undersøkelse ved Selsøyvær i Rødøy kommune, april 2024. Rapportnummer 3180-4-24C 
+V.2, levert av Aqua Kompetanse AS.  
+ 
+M-608 (2016) Grenseverdier for klassifisering av vann, sediment og biota. Miljødirektoratet. Revidert 
+30.10.2020. 
+ 
+Miljødirektoratet (2025, 12.08) Veileder for klassifisering av miljøtilstand i kyst- og ferskvann. Veileder for 
+klassifisering av miljøtilstand i kyst- og ferskvann 
+ 
+Molvær, J., Knutzen, J., Magnusson, J., Rygg, B., Skei, J. & Sørensen, J. (1997) Klassifisering av miljøkvalitet i 
+fjorder og kystvann. Veiledning 97:03. 
+ 
+Norsk Standard 9410 (2016) Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg. Standard 
+Norge. NS 9410: 2016. 
+ 
+Norsk Standard 9425-1 (1999) Oseanografi – Del 1: Strømmålinger i faste punkter. Standard Norge. NS 9425-
+1:1999.  
+ 
+Norsk Standard 9425-2 (2003) Oseanografi – Del 2: Strømmålinger ved hjelp av ADCP. Standard Norge. NS 
+9425-2:2003. 
+ 
+Norsk Standard EN ISO 16665 (2013) Vannundersøkelse – Retningslinjer for kvantitativ prøvetaking og 
+prøvebehandling av marin bløtbunnsfauna. Standard Norge. NS-EN ISO 16665: 2013. 
+ 
+Norsk Standard EN ISO 5667 (2004) Vannundersøkelse – Prøvetaking – Del 19: Veiledning i 
+sedimentprøvetaking i marine områder. NS-EN ISO 5667-19: 2004. 
+ 
+Sebjørnsen, B. H. (2025) B-undersøkelse ved Selsøyvær i Rødøy kommune, desember 2025. Rapportnummer 
+5051-11-25B levert av Aqua Kompetanse AS. 
+ 
+Veileder 02:2018 (2018) Klassifisering av miljøtilstand i vann. Direktoratsgruppen vanndirektivet 2018. 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+23 
+Vedlegg A – Vannstrømmålinger 
+ 
+Figur B-1: Vannstrømhastighet (cm/s) på 5 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. 
+ 
+Figur B-2: Vannstrømhastighet (cm/s) på 15 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+24 
+ 
+Figur B-3: Vannstrømhastighet (cm/s) på 70 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. 
+ 
+ 
+Figur B-4: Vannstrømhastighet (cm/s) på 117 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. 
+ 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+25 
+ 
+Figur B-5: Vannstrømretning (°) på 5 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+Figur B-6: Vannstrømretning (°) på 15 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+26 
+ 
+Figur B-7: Vannstrømretning (°) på 70 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+Figur B-8: Vannstrømretning (°) på 117 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+27 
+ 
+Figur B-9: Frekvensfordeling av vannstrømhastighet på 5 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022 
+ 
+ 
+Figur B-10: Frekvensfordeling av vannstrømhastighet på 15 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+28 
+ 
+Figur B-11: Frekvensfordeling av vannstrømhastighet på 70 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. 
+ 
+ 
+Figur B-12: Frekvensfordeling av vannstrømhastighet på 117 meters dyp ved Selsøyvær i perioden 03.03.–07.06.2022. 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+29 
+ 
+Figur B-13: Frekvensfordeling av vannstrømretning for hver 15° sektor på 5 meters dyp ved Selsøyvær i perioden 03.03.–
+07.06.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+ 
+Figur B-14: Frekvensfordeling av vannstrømretning for hver 15° sektor på 15 meters dyp ved Selsøyvær i perioden 03.03.–
+07.06.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+30 
+ 
+Figur B-15: Frekvensfordeling av vannstrømretning for hver 15° sektor på 70 meters dyp ved Selsøyvær i perioden 03.03.–
+07.06.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+ 
+Figur B-16: Frekvensfordeling av vannstrømretning for hver 15° sektor på 117 meters dyp ved Selsøyvær i perioden 
+03.03.–07.06.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+ 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+31 
+Vedlegg B - B1 og B2 skjema 
+ 
+Tabell C- 1: Oversikt over resultatene basert på fauna, elektrokjemiske målinger og sensoriske registreringer ved 
+prøvestasjonene (B.1-skjema). I henhold til NS9410:2016 og samtidig i overensstemmelse med Fiskeridirektoratet blir 
+«bunntype» kategorisert som bløtbunn dersom grabben inneholder mineralsk sediment som poengvektes «2» eller mer, 
+eller som hardbunn dersom grabben inneholder kun vann eller organisk stoff, eller sediment som poengvektes «1». 
+Prøver som inneholder kun vann gis 0 poeng for gruppe II og gruppe III parametere. Prøver som inneholder organisk stoff 
+vurderes etter gruppe II og gruppe III parametere, men er det for lite organisk stoff til at gruppe II parameter kan måles 
+gis ingen poeng, og prøven vurderes etter gruppe III parameter. Dersom grabben har for lite sediment (men likevel 
+kategorisert som bløtbunn) til å måle gruppe II parameter gis heller ingen poeng til denne gruppen, og prøven vurderes 
+etter gruppe III parameter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3807-11-24FU SELSØYVÆR V.3 
+AQUA KOMPETANSE AS 
+32 
+ 
+Tabell C-2: Oversikt over resultatene fra bedømmingen av sedimentet og karakteristika på havbunnen ved 
+prøvestasjonene (B.2-skjema). På hver stasjon blir sedimentet bedømt ved å fordele totalt fem poeng per stasjon, fordelt 
+på hvilken type sediment som observeres i prøven. Tabellen inkluderer dybdetall og registreringer av ulike dyregrupper, 
+samt om det observeres Beggiatoa eller rester av fôr og/eller fekalier.

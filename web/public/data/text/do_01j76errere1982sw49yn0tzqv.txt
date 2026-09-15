@@ -1,0 +1,85 @@
+﻿<root>
+  <avsender>
+    <adresselinje1>Postboks 1405</adresselinje1>
+    <adresselinje2>
+    </adresselinje2>
+    <adresselinje3>
+    </adresselinje3>
+    <navn>Statsforvalteren i Nordland</navn>
+    <poststed>Bodø</poststed>
+    <postnr>8002</postnr>
+  </avsender>
+  <mottaker>
+    <adresse1>Postboks 1485 Fylkeshuset</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8048</postnr>
+    <poststed>BODØ</poststed>
+    <navn>NORDLAND FYLKESKOMMUNE</navn>
+    <land>Norge</land>
+    <orgnr>964982953</orgnr>
+  </mottaker>
+  <id>429204ce-e256-4186-982f-bdaf19dd2f83</id>
+  <tittel>Uttalelse til søknad om akvakulturtillatelse til krepsdyr ved lokalitet Høyneset i Hemnes kommune</tittel>
+  <date>1693907588572</date>
+  <dateFormatert>2023-09-05T09:53:08</dateFormatert>
+  <metadataFraAvleverendeSystem>
+    <sakssekvensnummer>1993</sakssekvensnummer>
+    <saksaar>2023</saksaar>
+    <journalaar>2023</journalaar>
+    <journalsekvensnummer>153782</journalsekvensnummer>
+    <journalpostnummer>8</journalpostnummer>
+    <journalposttype>U</journalposttype>
+    <journalstatus>R</journalstatus>
+    <journaldato>1693778400000</journaldato>
+    <journaldatoFormatert>2023-09-03T22:00:00</journaldatoFormatert>
+    <dokumentetsDato>1693864800000</dokumentetsDato>
+    <dokumentetsDatoFormatert>2023-09-04T22:00:00</dokumentetsDatoFormatert>
+    <tittel>Uttalelse til søknad om akvakulturtillatelse til krepsdyr ved lokalitet Høyneset i Hemnes kommune</tittel>
+    <saksBehandler>
+    </saksBehandler>
+  </metadataFraAvleverendeSystem>
+  <metadataForImport>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalposttype />
+    <journalstatus />
+    <dokumentetsDato />
+    <tittel />
+  </metadataForImport>
+  <status>Klar for mottak</status>
+  <niva>3</niva>
+  <filmetadata>
+    <filnavn>Uttalelse%20til%20s%C3%B8knad%20om%20akvakulturtillatelse%20til%20krepsdyr%20ved%20lokalitet%20H%C3%B8yneset%20i%20Hemnes%20kommun.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>d93e4c1e1b359c03d1e1557c58df32141436be47afed90947491a38d1f09433b</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1876649</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>AcosSvarInn.xml</filnavn>
+    <mimetype>text/xml</mimetype>
+  </filmetadata>
+  <svarSendesTil>
+    <adresse1>Postboks 1405</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8002</postnr>
+    <poststed>BODØ</poststed>
+    <navn>STATSFORVALTEREN I NORDLAND</navn>
+    <land>Norge</land>
+    <orgnr>974764687</orgnr>
+    <fnr />
+  </svarSendesTil>
+  <svarPaForsendelse />
+  <forsendelseType />
+  <eksternRef>f58301d2-6f24-4d1c-be56-b8719128a308</eksternRef>
+  <downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/429204ce-e256-4186-982f-bdaf19dd2f83</downloadUrl>
+  <avgivendeSystem />
+  <taushetsbelagtPost>false</taushetsbelagtPost>
+</root>

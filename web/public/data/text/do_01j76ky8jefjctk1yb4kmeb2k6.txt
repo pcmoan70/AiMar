@@ -1,0 +1,339 @@
+﻿Resipientanalyse AS
+Foretaksnr.:
+Adresse:
+Kontaktperson:
+Telefon:
+Epost:
+Internett:
+NO 998 058 376 mva
+Råtun 24E
+5239 Rådal
+Frode Berge-Haveland
+40 23 17 79
+post@raas.no
+http://www.raas.no
+Oppdrag
+Rapport nr.
+2130
+Straummodellering vest i Hundvåkosen,
+Dato, rapport
+23.11.2023
+utanfor Torangsneset i Austevoll kommune
+Dato,felt
+20.11.2023
+Metode
+Kystmodellen NorKyst-800. En straummodell for hele norskekysten.
+Strømkatalogen - Havforskingsinstituttet.
+Modellkøyring: Avløp 20 meters djup og Sjøvassinntak 50 meters djup
+I
+I
+I
+I
+I
+10
+I
+1.0
+0.30 l
+0.30
+0.10
+0.10
+0.03
+I
+0.03
+Modellarkiv:
+NorKyst-800
+Antall sjøceller:
+1236127
+Modellområde:
+Norskekysten
+Modelloppløsning:
+800m
+Simuleringsperiode:
+2015-01-01 - 2015-12-31
+Dagleg leiar i Resipientanalyse AS
+Forfattar og godkjenning av notat
+Frode Berge-Haveland
+Cand. Scient. Marin mikrobiolog
+Side 1 av 10
+INNHALD
+1.0
+Innleiing
+Figur 1. Skjematisk bilete av vassmasseutvekslinga mellom
+indre og ytre kystvatn.
+2.0
+Lokalitet og måleposisjon
+Tabell 2.1 GPS og Grade posisjoner
+3.1
+Resultat modellering
+3.1 Måleposisjon for både sjøvassinntak og avløp
+3.2 Modellering 3 døgn for sjøvassinntak, modell djup 50 meter
+3.3 Modellering 3 døgn for avløp, modell djup 20 meter
+3
+3
+4.0
+Referanse
+5
+5
+6
+6
+8
+9
+10
+Side 2 av 10
+1.0
+Innleiing
+Utveksling av vassmassar mellom fjordvatn og kystvatn er en sum av fleire dynamiske
+komponentar. I tillegg vil botnforhold være svært styrande på sirkulasjonsmønsteret. Det er
+fornuftig å karakterisere utveksling i djupnelag som et overflatelag (0-5m tykt), et mellom-lag
+(mellom overflatelaget og terskelen) og eit fjordbasseng (djupare enn terskelen). Overflatelaget
+transporterer i hovedsak ferskere vatn frå fjorden og utover til ytre kyst og kyststraumen. Inne
+i fjordsystemet kan ein også finne en kompenserande straum under overflatelaget. Straummane
+i mellomlaget er avhengig av ulik tettleik mellom ytre og indre kystvatn, og transportene er
+gjeme betraktelig større enn i overflatelaget. Vassmassene i fjordbassenga er ofte stilleståande
+og blir kun bytt ut med ytre kystvatn av og til.
+Ocean
+Coastal
+water
+ord vater
+JJ Tl
+Brackish water
+<_
+Intermediate
+I
+layer
+rn '«ilter /
+Figur 1. Skjematisk bilete av vassmasseutvekslinga mellom indre og ytre kystvatn.
+Vinddrevet strøm har størst betydning i de øverste 10 - 20 m og er sterkest nær overflaten.
+Vinddrevet strøm kan utgjere mellom 3 og 8 % av vindhastigheten og har størst effekt i
+situasjoner med sterk lagdeling i fjordene (brakkvann).
+I perioder med sterk vind kan strømmene i overflatelaget i fjordene kunne bli større enn 2 knop
+(100 cm/s) og 1 knop (50 cm/s) i 10 m dyp. Under normale forhold er strømmene normalt
+mindre enn ca. 30 cm/s. I bukter, bakevjer og sidefjorder kan strømforholdene være betydelig
+svakere enn i åpne fjord - og kystområder.
+Side 3 av 10
+Kystmodellen NorKyst-800 er en beregningsmodell som simulerer m.a. straum, saltholdigheit
+og temperatur med 800 meters romlig oppløysing, og med høg oppløsning i tid for heile
+norskekysten.
+NorKyst-800
+er
+utviklet
+på
+Havforskningsinstituttet
+i
+samarbeid
+med
+Meteorologisk institutt og Niva (Lars Asplin, Anne D. Sandvik og Jon Albretsen).
+Norge har mange utfordringar i kystsona som krev detaljert kunnskap om miljøforhold som
+straum, saltholdigheit og temperatur. Slik informasjon om miljøforholda trenger vi i sann tid
+og som prognoser frem nokre dagar. Vi trenger også resultat om fortida, gjeme fleire tiår tilbake
+i tid. NorKyst-800 vil med 800 meters romlig horisontal oppløsning kunne berekne nødvendige
+detaljer i straum og miljø variablar inn mot kysten og i større fjordområder for hver time for de
+siste tiåra, for i dag, og for ca. en veke frem i tid. NorKyst-800 kan også benyttast til å
+kvantifisere konsekvensa av forvaltningstiltak knytt til for eksempel vasskraftutbygging eller
+effekter av næringsutvikling knytt til gjødsling eller smittespredning frå oppdrettsnæringen.
+NorKyst-800 og beredskap Resultater fra NorKyst-800 vil gi nødvendig informasjon om
+miljøforholdene, særlig strøm,
+dersom det skulle skje ulykker i kystnære områder. Disse
+resultatene kan for eksempel brukes til å beskrive spredning av oljeforurensning eller flytende
+gjenstander på en realistisk måte nær kysten og innover i fjordene. Også spredningen av
+skadelige alger og lakselus i forhold til oppdrettsanlegg vil kunne beskrives på en realistisk
+måte. Prognoser for ca. en uke fram i tid vil være tilgjengelig gjennom Meteorologisk institutts
+operasjonelle rutiner. NorKyst-800 og større regionar NorKyst-800 gjer oss i stand til å berekne
+miljøforhold for større områder, potensielt heile norskekysten. Særleg når det gjelder å
+kvantifisere bære-evne for akvakultur er det behov for å sjå samanhengar over større områder
+med denne detaljegrad. Det same er tilfellet for fleire typar naturtypekartlegging og for
+vurdering knytt til vassdirektivet.
+Korleis fungerer NorKyst-800? NorKyst-800 består bl.a. av databasar med realistiske
+drivkrefter og nødvendig verktøy for automatisk å kunne sette opp og gjennomføre ein
+simulering av eit kvart område langs norskekysten. Databasen for botntopografi innehelde 2600
+x 900 gitterruter med 800 m x 800 m flateinnhold. I vertikalen er det 35 nivåer. I prinsippet kan
+hele norskekysten simulerast på ein gang, men i praksis vil vi simulere mindre områder av
+gangen. Berekningane må gjerast på super-datamaskiner og er krevjande både med omsyn til
+reknetid og diskplass.
+Side 4 av 10
+2.0
+Lokalitet og måleposisjon
+0,5nm
+0
+ti
+>>>
+rangholmslluo
+Fångelsfluu
+I
++
++
++
++
++
++
+6
+4 +
+4
+1;,,
+I'
+I
++CTD
+vløp Sjøfolk
+52
+Djupafluu
+J
++I,
++
++
+11augsneset
+IA
+Inntak Sjøfolk
+f Inntak Rcnscfisk
++
+I
+ua
+pRens
+µa
+Sjofolk
+I
+I
+I
+Tor"'""'"'"'
+'J
++
+{6
+To,...,,._..,,
+Rense isk
+I
+12,
+4+CTD
+I
+Torangsvagen
+Tabell 2.1 GPS og Grade posisjoner
+Nr. Målepunkt
+Djupne (m)
+GPS-posisjon
+Lon / Lat Grader
+1. Sjøvassinntak
+2. Avløp Sjøfolk
+70 meter
+N60 07 063 I EOS 10 595
+30 meter
+N60 07 251 / EOS 10 119
+EOS 173 /N60 117
+EOS 168 / N60 119
+Side 5 av 10
+3.0
+Resultat Modellering
+Strømkatalogen til HI har ein oppløysing på 800m. Avstand mellom planlagt sjøvassinntak og
+avløp til Sjøfolk AS er 565 meter. Dette betyr at modellen kun klarar å bereknar verdiar frå eit
+punkt innan eit området på 800 og 800 rutemeter.
+Posisjon for både inntak og avløp som modellen vel blir derfor den same. Dette punktet ligg ca.
+150 meter aust for det planlagde sjøvassinntaket. Vi har valgt å køyre modellen for
+sjøvassinntak med modell djup 50 meter og for avløp med modell djup 20 meter.
+Resultat av straummodellering, gjev eit for grovt og ikkje usannsynleg; eit mogleg uriktig bilete
+av straumtilhøva i Hundvåkosen. Før etablering av anlegget i Haugsneset, bør ein derfor måle
+straumforholda i minst ein månad utanfor det planlagde avløpet. Dette for å avklare om
+hovudstraumen går nordover forbi Torangsneset. Eller om den dominerande straumretning går
+sørover, slik straummodellen til HI her har berekna.
+3.1
+Måleposisjon for både sjøvassinntak og avløp
+N6007.073-E510.763 tilsvarande: Lengdegrad5.1743-Breddegrad60.1174
+Djupne
+Midlere
+Median av
+Maksimum
+Maksimalt
+strømfart
+strømfart
+strømfart
+standardavvik
+5m
+0.158mls
+0.147 mis
+0.587 mis
+0.168 mis
+10m
+0.135 mis
+0.126 mis
+0.535 mis
+0.136 mis
+20m
+0.109mls
+0.099 mis
+0.492 mIs
+0.104 mis
+50m
+0.072 mis
+0.060 mis
+0.372 mIs
+0.076 mis
+Side 6 av 10
+Straumroser: 5 meter
+10 meter
+w
+20 meter
+50 meter
+Side 7 av 10
+3.2
+Modellering 3 døgn for sjøvassinntak, modell djup 50 meter
+Modellering 3
+Midlere
+Median av
+Maksimum
+Maksimalt
+døgn
+strømfart
+strømfart
+strømfart
+standardavvik
+Djupne
+0.072 mIs
+0.060 mis
+0.372 m/s
+0.076 mis
+50 meter
+I
+I
+I
+I
+100
+10
+3.0
+0.30
+0.10
+I
+0.03
+I
+Side 8 av 10
+3.3
+Modellering 3 døgn for avløp, modell djup 20 meter
+Modellering 3
+Midlere
+Median av
+Maksimum
+Maksimalt
+døgn
+strømfart
+strømfart
+strømfart
+standardavvik
+Djupne
+0.109 mis
+0.099 mis
+0.492 m/s
+0.104 m/s
+20 meter
+I
+I
+I
+I
+100
+10
+3.0
+1.0
+0.30
+0.10
+0.03
+Side 9 av 10
+4.0
+Referanse
+Asplin, Sandvik og Albretsen, Kystmodellen NorKyst-800, Havforskningsnytt nr.8-2011.
+Albretsen m.fl., NorKyst-800 Report No. 1, User Manual and technical descriptions, Fisken
+og Havet nr.2/2011.
+Side 10 av 10

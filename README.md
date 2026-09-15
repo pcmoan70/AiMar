@@ -31,6 +31,7 @@ npm run fetch-fishhealth  # refresh fish-health snapshot (needs BW_CLIENT_ID/SEC
 node scripts/fetch-seatemp.mjs  # weekly sea temperature per site (BarentsWatch), resumable
 node scripts/fetch-tides.mjs    # tidal statistics per site (Kartverket), resumable
 node scripts/fetch-docs.mjs  # documents published on eInnsyn: originals to DOCS_DIR, 500-char excerpts to docs.json (needs pdftotext)
+npm run copy-doc-text  # bundle the extracted document texts into public/data/text/
 npm run fetch-deleted  # withdrawn localities from Akvakulturregisteret (ArcGIS REST)
 npm run fetch-cases  # eInnsyn case-history snapshot: incremental since last run (no key needed); --full re-harvests, --rematch re-runs matching only
 npm test             # unit tests (vitest)

@@ -5,6 +5,8 @@
 //   { retrieved, bytes, docs: { <entry id>: [{ id, title, format, bytes, excerpt }] } }
 // Runs are incremental: entries already in docs.json are not looked up again.
 //   DOCS_DIR=/media/pc/ext4TB/AiMar/docs/einnsyn node scripts/fetch-docs.mjs
+//   --refresh-meta re-reads the entries that already have documents to pick up title, document
+//   number and main-document/attachment role, without downloading anything again.
 import { execFile } from 'node:child_process';
 import { mkdir, readFile, rename, stat, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
@@ -51,7 +53,8 @@ const state = await readFile(STATE, 'utf8').then(JSON.parse, () => ({ seen: prev
 const docs = prev.docs ?? {};
 const seen = new Set(state.seen ?? []); // entry ids already looked up (with or without documents)
 let pending = state.pending ?? []; // documents found but not yet fetched (checkpoint)
-const todo = cases.entries.map((e) => e.id).filter((id) => !seen.has(id));
+const refreshMeta = process.argv.includes('--refresh-meta');
+const todo = refreshMeta ? Object.keys(docs) : cases.entries.map((e) => e.id).filter((id) => !seen.has(id));
 async function save() {
   for (const k of Object.keys(docs)) docs[k] = [...new Map(docs[k].map((x) => [x.id, x])).values()];
   let total = 0;
@@ -76,7 +79,9 @@ for (let i = 0; i < todo.length; i += 100) {
       if (typeof db === 'string') continue;
       for (const o of db.dokumentobjekt ?? []) {
         if (typeof o === 'string') continue;
-        found.push({ entry: it.id, id: o.id, title: db.tittel ?? '', format: (o.format ?? '').toUpperCase() });
+        // Structure inside a journal entry: document number, and main document versus attachment.
+        const role = /hoveddokument/i.test(db.tilknyttetRegistreringSom ?? '') ? 'main' : 'attachment';
+        found.push({ entry: it.id, id: o.id, title: db.tittel ?? '', format: (o.format ?? '').toUpperCase(), no: db.dokumentnummer ?? null, role });
       }
     }
   }
@@ -87,6 +92,26 @@ for (let i = 0; i < todo.length; i += 100) {
   }
   if ((i / 100) % 50 === 0) console.log(`  ${Math.min(i + 100, todo.length)}/${todo.length} entries scanned, ${found.length} documents found`);
   await sleep(150);
+}
+if (refreshMeta) {
+  // Update what is already stored (title, number, role), then keep only genuinely missing files pending.
+  const byId = new Map(found.map((d) => [d.id, d]));
+  let updated = 0;
+  for (const list of Object.values(docs)) {
+    for (const d of list) {
+      const f = byId.get(d.id);
+      if (!f) continue;
+      if (d.no !== f.no || d.role !== f.role || d.title !== f.title) updated++;
+      d.title = f.title;
+      d.no = f.no;
+      d.role = f.role;
+    }
+  }
+  for (const list of Object.values(docs)) list.sort((a, b) => (a.no ?? 99) - (b.no ?? 99) || a.title.localeCompare(b.title, 'nb'));
+  const have = new Set(Object.values(docs).flatMap((l) => l.map((d) => d.id)));
+  found.length = 0;
+  for (const [id, d] of byId) if (!have.has(id)) found.push(d);
+  console.log(`refresh-meta: ${updated} documents updated, ${found.length} still missing`);
 }
 pending = found;
 await save();
@@ -113,7 +138,7 @@ for (const d of found) {
       const { stdout } = await run('pdftotext', ['-l', '3', '-enc', 'UTF-8', file, '-'], { maxBuffer: 16 * 1024 * 1024 }).catch(() => ({ stdout: '' }));
       excerpt = norm(stdout).slice(0, EXCERPT_CHARS);
     }
-    (docs[d.entry] ??= []).push({ id: d.id, title: d.title, format: d.format, bytes: size, excerpt });
+    (docs[d.entry] ??= []).push({ id: d.id, title: d.title, format: d.format, bytes: size, excerpt, no: d.no ?? null, role: d.role ?? null });
     bytes += size;
     pending = pending.filter((x) => x.id !== d.id);
   } catch (err) {

@@ -1,0 +1,1906 @@
+﻿Overordnet biosikkerhetsplan
+for Sisomar
+
+DNV
+Rapport 
+Rapportbeskrivelse 
+og navn 
+Overordnet biosikkerhetsplan Sisomar  
+Rapportversjon 
+Dato 
+Beskrivelse 
+1. utgave 
+13.12.2022 
+Første utgivelse 
+2. utgave 
+07.07.2023 
+Andre utgivelse 
+3. utgave  
+28.11.2025 
+Tredje utgivelse 
+4. utgave 
+12.02.2026 
+Fjerde utgivelse 
+5. utgave 
+09.06.2026 
+Femte ugivelse 
+Rapport-
+distribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av 
+rapporten kan kun skje etter skriftlig tillatelse fra DNV Aquaculture and 
+Ocean Health AS (heretter DNV AS). I slike tilfeller skal kilde oppgis. 
+Lokalitet 
+Kommune 
+Sørfold
+Fylke
+Nordland 
+ 
+Sammendrag 
+Bakgrunn og utbygging:
+Formålet med denne biosikkerhetsplanen er å forhindre at smittsomme sykdommer kommer inn i anlegget 
+og dermed sikre trygg og velferdsmessig god produksjon av laks. Biosikkerhetsplanen skal avdekke mulige 
+årsaker til at smittsom sykdom kan komme inn og etableres i anlegget og mulige løsninger for å hindre at 
+dette skjer i form av gode smittebarrierer og driftsrutiner. Biosikkerhetsplanen skal også bidra til å redusere 
+risikoen for produksjonslidelser og prosesstekniske hendelser som kan utløse redusert velferd, akutt høy 
+dødelighet eller havari. Denne planen skal også avdekke forhold og belyse nødvendige tiltak som hensyntar 
+omkringliggende akvakulturvirksomheter og villfisk i området. 
+ 
+Biosikkerhetsplanen har et utvidet fokus på Hall H da Sisomar har søkt om å øke biomasseproduksjonen i 
+anlegget. Dette ved å bygge en ny gjennomstrømmingsavdeling for produksjon av storsmolt opp til 500 gram 
+kalt Hall H.  Det er søkt om å utvide kapasitet til et fôrforbruk på 2 750 tonn/ år og øke konsesjon til 14 
+millioner smolt. Bakgrunnen for dette er et ønske fra sjøsiden om økt snittvekt på smolt for å redusere 
+produksjonstiden i sjø. I forbindelse med utvidelse er sjøvannsinntaket flyttet lengre ut i fjorden og nytt UV-
+aggregat er installert. Ferskvannsinntaket har også fått økt kapasitet og et nytt UV-anlegg. 
+ 
+OPPSUMMERING: 
+- 
+Smittebarrierer på inntaksvann vurderes til begrenset beskyttelse da UV-dose er satt til 15-25 mJ/cm2 
+på ferskvann og setpunkt på 30 mJ/cm2 på sjøvann. Dette er doser som inaktiverer flere alvorlige 
+smittsomme sykdommer som ILAV og yersinia ruckeri, men vil ikke forhindre at andre kjente 
+patogene som IPN og PRV kan komme inn i anlegget. Dosene vil trolig ikke inaktivere pox og 
+branchiomonas cysticola.  Grunnet lang avstand til nærmeste akvakulturvirksomheter vurderes 
+smitterisiko til og fra andre anlegg som lav.  
+- 
+Smitte via en levende innsatsfaktor (rogn) vurderes som en av de største risikoene for introduksjon 
+av smitte i anlegget. Gode screeningsrutiner av stamfisk/rogn, desinfeksjon av rogn og screening 
+gjennom enkelte produksjonsfaser vil være en viktig faktor som sikrer trygg produksjon av sykdomsfri 
+fisk. 
+- 
+Sisomar har etablert gode ruinert for «All in-All out», med gode rutiner for nedvask av avdelinger 
+mellom fiskegrupper slik at eventuelle smittsomme sykdommer ikke lett vil etableres i anlegget.  
+- 
+Sisomar har lagt opp til en produksjonsplan som ivaretar fiskens biologi, ved bruk av moderate 
+temperaturer og bruk av lysstyring. Dette er det beste tiltaket for å redusere sannsynlighet for 
+utfordringer med HSS og nyreforkalkning som er velkjente lidelser ved produksjon av storsmolt. 
+Oppdragsgiver 
+Virksomhet 
+Sisomar AS 
+Kontaktperson 
+Jon Meisfjord 
+ jon.meisfjord@sisomar.no 
+Oppdragsansvarlig 
+Selskap  
+DNV Aquaculture and Ocean Health AS, 
+Nordfrøyveien 413, 7260 SISTRANDA, 
+NORGE NO 921 680 961 MVA 
+Rapportansvarlig         Iris Jenssen 
+Iris.jenssen@dnv.com 
+Kontrollert og 
+godkjent av   
+Per Anton Sæther
+ 
+Peranton.saether@dnv.com 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+4 av 44 
+Innholdsfortegnelse 
+I. 
+GENERELT ........................................................................................................................ 6 
+A. 
+Introduksjon om biosikkerhet ..................................................................................................................... 6 
+B. 
+Sisomar AS ................................................................................................................................................... 7 
+II. 
+GEOGRAFISKE FORHOLD .................................................................................................. 7 
+A. 
+Eksisterende vanninntak: ............................................................................................................................ 8 
+Vanninntak ferskvann: .................................................................................................................................... 8 
+B. 
+Nåværende rensing av avløpsvann og utslippspunkt .................................................................................. 9 
+C. 
+Fremtidig rensing av avløpsvann og nytt ustlippspunkt ............................................................................ 10 
+III. 
+FYSISKE FORHOLD INNENFOR ANLEGGETS EGET DRIFTSOMRÅDE .................................. 11 
+Eksisterende produksjon ................................................................................................................................... 11 
+Generelt om ny avdeling hall H: ........................................................................................................................ 13 
+IV. 
+DRIFTSMESSIGE FORHOLD ............................................................................................. 15 
+V. 
+SMITTEBEGRENSENDE RUTINER OG UTSTYRSLØSNINGER .............................................. 17 
+VI. 
+KARTLEGGING, RISIKOVURDERING OG RISIKOMINIMERING KNYTTET TIL DE VIKTIGSTE SMITTSOMME 
+UTFORDRINGENE ...................................................................................................................... 18 
+A. 
+Generelt om smitte ................................................................................................................................... 18 
+B. 
+Mulighet for smittespredning inn i anlegget ............................................................................................. 19 
+1. 
+Biologisk smitte fra rogn og levende fisk .............................................................................................. 19 
+2. 
+Vannbåren smitte .................................................................................................................................. 21 
+3. 
+Vektorbåren smitte: .............................................................................................................................. 24 
+4. 
+Luftbåren smitte: ................................................................................................................................... 24 
+C. 
+Utvalgte patogener ................................................................................................................................... 25 
+D. 
+Mulighet for smittespredning ut av anlegget ........................................................................................... 30 
+1. 
+Mulighet for smitte til annen akvakulturvirksomhet ............................................................................ 30 
+2. 
+Smitterisiko til villfisk ............................................................................................................................ 33 
+VII. 
+PLAN FOR OVERVÅKNING AV SMITTESITUASJON .......................................................... 42 
+VIII. 
+BEREDSKAPS- OG TILTAKSPLANER KNYTTET TIL DE VIKTIGSTE PROSESSTEKNISKE UTFORDRINGENE OG 
+PRODUKSJONSLIDELSENE SOM KAN FØRE TIL HØY DØDELIGHET. ............................................. 43 
+Vedlegg 1: B-undersøkelse Trollbukta (2025) 
+Vedlegg 2: Modellering av avløpsvannets spredning ved Trollbukta 2026. (SM-SI-Trollbukta-110215117-6001-
+01-002.pdf) 
+Vedlegg 3: Modellering av avløpsvannets spredning ved Trollbukta. (SM-T-00721-Trollbukta0321-ver01.pdf) 
+Vedlegg 4: Renholdsplan 
+Vedlegg 5: Risikoanalyse -Inntak av smittestoffer via ferskvannsinntak 
+Vedlegg 6: Risikoanalyse - Inntak av smittestoffer via sjøvannsinntak til settefiskanlegg  
+Vedlegg 7: Risikoanalyse - Vertikal smitte av ILA  
+Vedlegg 8: Risikoanalyse – Inntak av PRV-smitte (Vertikal smitte av PRV) 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+5 av 44 
+Vedlegg 9: Risikoanalyse – Inntak av SGPV (Poxvirus) via ferskvannsinntak 
+Vedlegg 10: Risikoanalyse- Vertikal og horisontal smitte av IPNV 
+Vedlegg 11: Risikoanalyse – Nyreforkalkning 
+Vedlegg 12: Risikoanalyse – Hemoragisk smoltsyndrom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+6 av 44 
+I. GENERELT 
+A. 
+Introduksjon om biosikkerhet 
+Biosikkerhet handler i første rekke om å redusere risiko for innførsel, spredning og etablering av 
+sykdom fra smittsomme agens. Biosikkerhet i et mer vidt spekter inkluderer også arbeid for å 
+redusere produksjonslidelser og akutte hendelser i produksjonen som kan føre til store tap og 
+redusert forutsigbarhet i produksjonen.  Det vil ofte være vanskelig, om ikke umulig, å eliminere all 
+risiko. «Beste praksis» går ut på å jobbe systematisk med risikoreduserende tiltak som å styrke 
+fiskens motstandsdyktighet, bryte mulige smittekjeder og isolere eller bekjempe kjent smitte. Hvilke 
+risikonivå det styres etter vil være avhengig av geografiske eller miljømessige forutsetninger samt 
+andre rammer for virksomheten. Vekst i produksjon med økt utslipp av vannressurser og økt tetthet 
+av mottagelige vertsorganismer vil alltid være en sentral risikofaktor for smittsom sykdom. Dette gir 
+behov for kontinuerlig fokus på biosikkerhet for å unngå spredning av smitte som kan utløse sykdom 
+hos allerede eksisterende akvakulturvirksomheter i nærområdet. Gode biosikkerhetstiltak er ofte 
+kjennetegnet gjennom at de ikke fokuserer på det enkelte patogen, men har effekt på ulike type 
+agens, og har evne til å forebygge introduksjon og spredning av både kjente og ukjente smittsomme 
+sykdommer.  
+ 
+På lik linje med annen husdyrproduksjon vil oppdrettsfisk være utsatt for smittestoffer som kan 
+resultere i sykdom. Vann er et medium der smittsomme agens lett spres, og kar i tett nærhet til 
+hverandre i samme bygning eller arealer gir ulike smittestoff anledning til å spre seg mellom 
+populasjoner. Smittestoff kan være bakterier, virus, sopp eller parasitter, og kan enten spres via 
+miljøet, i dette tilfellet driftsvannet, eller en vert. Verten er den organismen smittestoffet lever på 
+eller i. Ved siden av spredning og tilstedeværelse av smittestoff vil miljø, vertens motstandsdyktighet 
+og tetthet av mottagelige vertsorganismer være forhold som har betydning for hvorvidt en 
+populasjon utvikler sykdom. 
+ 
+Arbeid knyttet til fagområdene smittesikring og biosikkerhet i landbaserte oppdrettsanlegg har som 
+målsetting å etablere et kunnskapsbasert sett av tiltak og rutiner knyttet opp mot et gitt 
+produksjonsregime, for slik å styrke anleggets drift ved å redusere risikoen uønskede kvalitetsavvik 
+og eventuelle stopp i produksjonen. Med dette tilstreber man å inkorporere etablert og ny kunnskap 
+i skjæringspunktet mellom biologi, smitte, relevant teknologi og kunnskap. 
+ Dette for bedre å kunne nærme seg beste praksis og styrke forutsigbarheten knyttet opp mot 
+biosikkerhet hos den gjeldende virksomhet. Rutiner i hverdagen må etableres på bakgrunn av 
+erfarings- og forskningsbasert kunnskap for å sikre god biosikkerhet. Biosikkerhet er et prioritert 
+nøkkelområde og skal være hensyntatt gjennom etableringen av anlegget, dets geografiske 
+plassering, prioriteringer knyttet til de viktigste innsatsfaktorene og alle ledd i produksjonen fra rogn 
+legges inn til storsmolt settes ut. Den er med andre ord sterkt knyttet til den produksjonsplan som er 
+etablert, det utstyr som er valgt benyttet og har i enkelte tilfeller vært førende for viktige veivalg.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+7 av 44 
+B. 
+Sisomar AS  
+Anlegget ble startet opp i 1986 og har gradvis blitt utvidet og renovert fra 2008 til dags dato.  
+Sisomar er i dag eid av Eidsfjord sjøfarm (42%), Lofoten sjøprodukter (42%) og AS Aqua (16%).   
+Sisomar (Lokalitetsnavn: Trollbukta, lokalitetsnummer 11264) er bygd opp modulsvis gjennom flere 
+år og baserer seg i dag på gjennomstrømmingsteknologi i alle nåværende avdelinger. 
+Anlegget har i dag 22 ansatte som blant annet består av en veterinær, biolog, røktere, teknikere, 
+lærlinger og administrative stillinger.  
+ 
+II. GEOGRAFISKE FORHOLD  
+Redegjørelse og ivaretakelse av evt. utfordringer relatert til plassering av anlegget i forhold til landarealer, sjø, ferskvann og 
+annen akvakulturvirksomhet.  
+Sisomar er lokalisert ved Straumen i Sørfold kommune, anlegget er plassert innerst i den sørlige 
+fjordtarmen til Sørfolda. Figur 1 og 2 viser geografiske forhold rundt anlegget. Nærmeste 
+akvakulturvirksomheter er Kines (Lok nr: 13297) og Nedre Kvarv (Lok nr: 10513), som begge er 
+matfisklokaliteter eid av MOWI AS. Kines, som er nærmeste anlegg, er lokalisert 11 km nord for 
+Sisomar i luftlinje. Begge disse lokalitetene ligger over anbefalt minsteavstand som er satt til 
+minimum 5 km til fiskeslakterier/tilvirkingsanlegg, fiskeoppdrettsanlegg og notvaskerier.  
+Sisomar er lokalisert ved elvemunningen til Straumenvassdraget, hvor laks, sjørøye og sjøørret 
+vandrer opp. Elva er ikke betegnet som et viktig lakseførende vassdrag. Ved oppdrett av fisk i 
+landbaserte anlegg kan smitte mellom oppdrettsfisk og villfisk overføres via vannkilde. 
+Sannsynligheten og konsekvensen ved en slik spredning varierer med en rekke faktorer og er blant 
+annet knyttet til smittestoff, individ, populasjon og miljø. Sammenlignet med et åpent merdsystem 
+anses smitterisiko som vesentlig lavere hvis inntaksvannet til et landanlegg behandles. Dette er 
+videre diskutert i punkt VI i biosikkerhetsplanen.  
+ 
+Figur 1. Viser område rundt Sisomar. Figur er hentet fra Fiskeridirektoratets kartdata. 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+8 av 44 
+ 
+Figur 2 Viser nærområdet rundt Sisomar, med Straumenvassdraget sørøst for lokaliteten. Figur er hentet fra Norgeskart.  
+ 
+ 
+A. 
+Eksisterende vanninntak:  
+Vanninntak ferskvann:  
+Sisomar har muligheter til å ta inn ferskvann fra to pumpestasjoner ved Straumvatnet. Det er 
+generelt god og stabil vannkvalitet på råvannet som er klassifisert til klasse 1 vann av Niva, som også 
+er drikkevannskilde i kommunen.  Det har ikke vært noen kjente episoder med metall- eller 
+partikkelproblematikk under nåværende drift. Vannkilder er ikke registrerte kilder for anadrom fisk, 
+men anlegget vet at det kommer opp fisk fra Straumenvassdraget 
+Ferskvannsbehandlingen er fordelt på to pumpestasjoner med totalt ti UV-aggregater. Pumpestasjon 
+1 er utstyrt med to Wedeco Spektron 2000e UV-aggregater, mens pumpestasjon 2 er utstyrt med fire 
+Wedeco BX1800 og fire Wedeco Spektron 2000e UV-aggregater. UV-anleggene er typegodkjent av 
+Veterinærinstituttet etter biodosimetrisk metode. UV-intensiteten i pumpestasjon 1 overvåkes 
+kontinuerlig og måles i W/m². Alarmgrenser er satt til lav alarm ved 30 W/m² og høy alarm ved 20 
+000 W/m². For pumpestasjon 2 måles UV-intensiteten tilsvarende i W/m², med alarmgrenser satt til 
+lav alarm ved 60 W/m² og høy alarm ved 330 W/m². Typegodkjenningen for Spektron 2000e krever 
+en minimum UV-dose på 15 mJ/cm², mens BX1800 krever minimum 25 mJ/cm². UV-anleggene er 
+dimensjonert og driftet i henhold til disse kravene. I konsesjon er maks uttak av vann skal avgrenset 
+til 3000 l/s så lenge Siso kraftverk er i drift og 2500 l/s når Siso kraftverk ikke er i drift og overføring 
+av vann til Straumvatnet opphører. Altså 180 m3/min når Siso kraftverk slipper vann og 150 m3/min 
+når Siso kraftverk ikke slipper vann 
+Nytt sjøvannsinntak  
+Nytt sjøvannsinntak er flyttet 3 km unna settefiskanlegget, ligger på 28 meters dyp og det er bygget 
+ny rensestasjon (se figur 4). Ved maks produksjon vil bruken av sjøvann økes fra 30 m3/min til 80 
+m3/min. Sjøvannet føres til egen rensestasjon bestående av fire Wedeco Spektron 650e UV-
+aggregater. Før UV-behandling passerer vannet et skivefilter med 30 µm lysåpning som fjerner 
+partikler og biologisk materiale som kan redusere effekten av UV-desinfeksjonen. UV-dosen 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+9 av 44 
+overvåkes kontinuerlig og måles i mJ/cm². Lav alarm er satt til 20 mJ/cm², mens normal drift har et 
+settpunkt 30 mJ/cm². Målinger viser at dose ligger stabilt rundt 27- 30 mJ/cm². Typegodkjenningen 
+for Spektron 650e krever en minimum UV-dose på 15 mJ/cm², og anlegget opereres med god 
+sikkerhetsmargin over dette nivået. Nytt sjøvannsinntak består av to rørledninger med separate UV-
+filter og har alarmfunksjon som gir signal ved for lav UV-intensitet eller andre feil.  
+ 
+ 
+ 
+B. 
+Nåværende rensing av avløpsvann og utslippspunkt 
+Rensing av avløpsvann 
+I nåværende utslippstillatelse er rensekrav til avløpsvann satt til minimum 50% av suspendert stoff. 
+Avløpsvannet renses mekanisk gjennom avløpsfilter med tilpasset lysåpning etterfulgt av et mekanisk 
+sedimenteringsanlegg som oppfyller rensekrav med minst 50% reduksjon i suspendert stoff > 0,45 
+µm. Det ble satt opp et nytt renseanlegg Biotek MAT som er utviklet av Sterner i 2015 som 
+opprettholder kravene med god margin og det gjennomføres målinger og beregninger av utslipp av 
+faeces/ slam til vann. Gjeldende massebalanse tilsier at nåværende lokalitet ikke skal overstige 275 
+mg SS/ liter vann ved et fôrforbruk på 2200 tonn per år. I 2019 ble det installert et utvidet 
+renseanlegg for å ivareta 2.200 tonn fôr. 
+Nåværende utslippspunkt 
+Nåværende utslippspunkt på renset avløpsvann ligger på 3 m dyp innerst i Sørfolda. Det er foretatt B-
+undersøkelse av nåværende utslippspunkt 23.07.2024 og 07.05.2025 med miljøtilstand 1 som 
+resultat begge ganger. Undersøkelser viste få tegn til organisk belastning. Resultatene fra siste B-
+undersøkelsen tyder på gode miljøforhold rundt utslippspunktet. Totalt fikk 8 av 10 stasjoner tilstand 
+1, én stasjon fikk tilstand 2 og én stasjon fikk tilstand 4. Stasjonen med tilstand 4 ligger plassert rett 
+ved utslippspunktet, og befinner seg dermed i det området som forventes å ha høyest belastning. 
+Resultatene viser tegn til organisk belastning i form av brun/sort farge ved fem stasjoner, noe til sterk 
+lukt ved tre stasjoner (hhv. n = 2 og n = 1), myk konsistens ved én stasjon og grabbvolum over ¼ ved 
+samtlige stasjoner. De kjemiske målingene viser pH fra 6,73 til 7,72 og redokspotensiale fra -150 til 
+187 mV. Samlet indeks for gruppe II- og III-parametere er 0,81 og tilsvarer tilstand 1. B-undersøkelse 
+tatt i 2024 viste noe er tegn til belastning i sedimentmiljøet og fikk en samlet indeksverdi på 1,01. Til 
+sammenligning fikk B-undersøkelse tatt i 2025 en samlet indeksverdi på 0,81.  
+Modellering utført av DNV AS i 2026 (se vedlegg 2) viser at utslippet spres og fortynnes ut over hele 
+den indre delen av fjorden, rundt utslippspunktet og langs med land i øst. Spredningen varierer sterkt 
+med det halvdaglige tidevannet. De høyeste konsentrasjonene i overflaten opptrer i perioder med 
+lite ferskvannstilsig. Det er lave konsentrasjoner av utslippsvann utover i fjorden i de dypeste 
+områdene. Utslippet kan bevege seg opptil 2.0 km nordover fra inntaksposisjonene før 
+konsentrasjonen kommer under 1.0 %. Langs vestsiden av fjorden kan utslippet bevege seg opptil 
+500 m fra inntaksposisjonene før konsentrasjonen er under 1.0 %. Maksimal konsentrasjon av utslipp 
+registrert nær overflaten over inntaksposisjonene er på 4.3 %. Ved inntaksposisjonene (på bunndyp) 
+er maksimalkonsentrasjonen på 0.7 %, og 95 % av tiden er konsentrasjonene under 0.39 %. 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+10 av 44 
+C. 
+Fremtidig rensing av avløpsvann og nytt ustlippspunkt 
+Fremtidig rensing av avløpsvann 
+I forbindelse med utvidelse av anlegg vil renseprosess være den samme som ved dagens produksjon 
+og det er prosjektert et nytt Biotek MATrenseanlegg som skal ivareta rensingen av driftsvannet fra 
+hall H, en fôrmengde på ca 1.200 tonn / år. Dette renseanlegget tas i bruk januar 2026.  
+ 
+ 
+Figur 3 viser tidligere punkt for sjøvannsinntak, som lå på 5 meter, og nåværende utslipp. Figur er hentet fra 
+modelleringsrapport SM-T-00721-Sisomar0321-ver01.pdf laget av Åkerblå AS.  
+ 
+Figur 4 Viser nytt inntak (blått kryss). 
+ 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+11 av 44 
+ 
+ 
+ 
+ 
+III. Fysiske forhold innenfor anleggets 
+eget driftsområde 
+Eksisterende produksjon 
+Sisomar er bygd opp modulsvis gjennom flere år og baserer seg i dag på 
+gjennomstrømmingsteknologi i alle nåværende avdelinger. Anlegget har en årlig tillatelse på 
+produksjon av 12 millioner smolt og har fem rogninnlegg i løpet av året.  
+Anlegget er bygd opp som to adskilte smittemessige settefiskanlegg, hvor anleggene er adskilt fysisk 
+med egne klekkeri, startfôrings- og påvekstavdelinger. Alt av utstyr, som vaksinerings- og 
+sorteringsutstyr er adskilt på anleggsnivå og det er sluse inn til hver avdeling. Hver avdeling driftes 
+som smittemessig adskilte enheter. Alle avdelinger, utenom Hall H, er levert av Plastsveis/ Akvagroup 
+og de byggetekniske løsningene er relativt like i alle avdelinger. Hall H er levert av Norrde A, men 
+byggetekniske løsninger er gjenkjennbart fra resten av anlegget.  Sisomar fremstår som et morderne 
+anlegg som bygget opp med generasjonsadskillelser og gode smittebarrierer mellom avdelingene. 
+Prinsippet om enveistrafikk ivaretas gjennom nåværende produksjon 
+Hall H tas i bruk fra januar 2026.  
+• 
+Hall A, B, C og D produserer standard vår og høstfisk med snittvekt 125-200 gram til levering i 
+mai og august. Dette er definert som produksjonslinje 1. 
+• 
+Hall E, F og G produserer storsmolt med snittvekt over 250 gram til levering i desember, mai 
+og juli. Dette er definert som produksjonslinje 2.  
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+12 av 44 
+ 
+Figur 5 viser skisse av driftshaller, fra Hall A til Hall H. Nåværende produksjonslinje 1 foregår i Hall D, C, B og A, mens 
+produksjonslinje 2 blir gjennomført i Hall G, F og E. 
+ 
+Sisomar sitt råvann blir varmevekslet mot Elkem Salten Verk ovnskjølevann som øker temperatur på 
+driftsvann betydelig. I tillegg blir renset avløpsvann varmevekslet mot råvann inn. Dette gjør at 
+anlegget kan drifte med gode temperaturer for settefiskproduksjon gjennom hele året selv om det 
+ikke benyttes gjenbruk av vann i noen av de eksisterende avdelingene. Sjøvann tilføres til oppvarmet 
+ferskvann til ønsket salinitet.    
+Tabeller under viser en enkel fremstilling av fysiske forhold i eksisterende produksjon. Alle avdelinger 
+har Bettenautomater med fôrsingsskruer. Dødfisk blir håndtert på karnivå og tilført et lukket system 
+for fjerning av all dødfisk fra den enkelte avdeling. Alt biologisk materiale fra produksjonen blir 
+ensilert og behandlet i tråd med gjeldende regelverk og fraktet bort fra anlegget til et godkjent 
+mottak.  
+ 
+ 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+13 av 44 
+Tabell 1 fremstiller fysiske forhold i produksjonslinje 1 
+Produksjonslinje 1
+Antall kar
+Karvolum
+Maks snittvekt
+Innlegg per 
+år/antall fisk 
+HK- hovedklekkeri
+10 klekkeskap
+Maks 360 000 
+rognkorn per 
+skap 
+0,2 gram
+2 x overkant av 3 
+million 
+Hall D- Startfôring
+20 stk
+50 m3 per kar
+15 gram
+2 x 3 million
+Hall C- påvekst
+15 stk
+50m3 pr kar
+30 gram 
+2 x 1 million
+Hall B- påvekst
+12 stk
+250m3 pr kar
+130 gram
+2 x 1,3 million
+Hall A- påvekst
+12 stk 
+250m3 pr kar
+150 gram
+2 x 1,3 million
+ 
+Tabell 2 fremstiller fysiske forhold i produksjonslinje 2. 
+Produksjonslinje 2
+Antall kar
+Karvolum
+Maks snittvekt
+Innlegg per 
+år/antall fisk 
+GK- klekkeri
+5 klekkeskap
+Maks 360 000 
+rognkorn per 
+skap 
+0,2 gram
+3 x overkant av 
+1,4 million 
+Hall G/GS-
+Startfôring 
+8 stk
+56 m3 per kar
+15 gram
+3 x 1,4 million
+Hall G/GP- påvekst
+6 stk
+210 m3 per kar
+70 gram 
+3 x 900 000
+Hall E- påvekst
+4 stk 
+210m3 per kar 
+60 gram
+3 x 500 000
+F-Hall påvekst
+12 stk
+310m3 per kar
+250 gram
+3 x 1,2 million
+ 
+ 
+Generelt om ny avdeling hall H: 
+Redegjørelse rundt avgrensninger av avdeling, kar og sluser 
+Hall H blir bygget med to smittemessig adskilte avdelinger, hall H-A og hall H-B, hvor avdelingene har 
+adskilte sluser.  
+Hver av disse avdelingene består av fire 15 meters sirkulære kar med en kardybde på 6,1 meter og et 
+karvolum på 1200 m3. Totalvolum i begge avdelinger blir da 9600 m3. Årlig planlagt produksjon er ca. 
+3 millioner storsmolt med en snittvekt på 400-500 gram i denne avdelingen. 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+14 av 44 
+ 
+Figur 6. viser skisse ny hall H 
+UV behandlet ferskvann og sjøvann blir blandet i samlestokk og kjørt inn til varmeveksling mot 
+avløpsvannet. Ferdig varmet vann blir vakuumluftet i to uavhengige luftere for å unngå 
+nitrogenovermetning før vannet går til fiskekar. En delstrøm luftet vann blir trykksatt gjennom 
+oksygenkjegler som fordeler vannet på egen ringledning som fordeler oksygenert vann frem til hvert 
+enkelt kar. Som nevnt tidligere blir anlegget å benytte deler av vannet til gjenbruk og hver hall får 
+egen løsning for partikkelrensing (trommelfilter med 30 mikron duk) og CO2-lufting. Det brukes et 
+system basert på filtrering av alt avløpsvann, spylevannet fra filteret går til rensing/partikkelfjerning 
+og partikkelfritt vann varmeveksles mot råvann for å oppnå temperaturøkning. Det er beregnet å 
+hente ut 80 % av energien fra avløpsvannet, for å erstatte tapt energi i veksling kjøres det inn 
+energivann på 20-25 grader. Det filtrerte vannet går enten via varmeveksler og ut i avløp, alternativt 
+kjøres det inn i CO2-lufter for stripping av CO2. Det strippede vannet tilføres tilbake til karene i 
+respektiv avdeling, enten til alle kar eller til kar som har behov for reduksjon i CO2 i egne tilførsler. 
+CO2-lufterne bygger på prinsippet hvor luft blir pumpet ned i bunnen av bassenget for filtrert vann. 
+Når boblene stiger opp til overflaten vil det skapes kontakt vann/luft og CO2 vil luftes av. 
+Lufteren fjerner ca. 30 % av karbondioksidet vannet som igjen medfører at vannmengden kan 
+reduseres med inntil 60 %. I vannberegningene som er brukt anleggets driftsplan er det ikke lagt opp 
+til vannbesparende tiltak i hall H men dette vil bli kjørt ved behov, da først og fremst for å kontrollere 
+CO2 i driftvannet på karnivå, dernest som et vannbesparende tiltak dersom det mot formodning 
+skulle være større behov for mer ferskvann i andre deler av anlegget. 
+Fôringssystemet blir levert av Laksesystemer AS og inkluderer to automater pr kar for sikring av 
+tildeling over hele vannflaten. Det blir et automatisk system med silo og trekkesystem med 
+veieceller/pelletdetektering for å sikre optimal utfôring. 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+15 av 44 
+ 
+IV. Driftsmessige forhold 
+Redgjørelse for produksjonsplan i forhold til god ivaretakelse av smittevernsmessige prinsipper, 
+brakkleggingsperioder, «alt inn, alt ut» og med tanke på gode miljøbetingelser for fisken. 
+Nåværende produksjonsplan ivaretar viktige biosikkerhetsprinsipper gjeldene «all in all out» med 
+rom for nedvask i alle avdelinger mellom ulike fiskegrupper. Brakkleggingsperioder for produksjon av 
+normal smolt er minimum tre uker, mens produksjonsfasiliteten ved produksjon av stor smolt driftes 
+noe mer intensivt med en brakkleggingsperiode ned mot to uker. Det foreligger grundige prosedyrer 
+og rutiner for vask og renhold. Anlegget har også et grundig overvåkningsprogram med hyppige 
+screeninger av hver fiskegruppe for å avdekke smittsom sykdom så tidlig som mulig.                                                            
+Alle fiskegrupper i begge produksjonslinjer blir sortert på vei ut fra startfôringsavdeling og før 
+vaksinering. I tillegg blir enkelte grupper sortert etter vaksinering og/eller før levering ved behov. 
+Dette er et viktig tiltak for å fjerne de svakeste individene i hver gruppe som er med mottakelige for 
+smittsom sykdom. Vaksinering skjer vanligvis når fisken har en snittvekt mellom 30-40 gram. 
+All fisk som settes inn i anlegg kommer inn i form av rogn og det skal ikke settes inn yngel, parr eller 
+smolt fra andre settefiskanlegg.   
+Vannkvalitet  
+Tabell 3 viser viktige parametere knyttet til vannkvalitet i ulike avdelinger. Temperatur og salinitet er 
+tilpasset de ulike fysiologiske fasen i livet til laksen. Sammenlignet med andre 
+gjennomstrømmingsanlegg har Sisomar AS mulighet å tilby fisken gode temperaturer også gjennom 
+vinteren. I forbindelse med smoltutsett kan temperatur i påvekstavdeling justeres etter temperatur i 
+sjø.  Det tilsettes små mengder sjøvann i alle avdelinger da råvannet har lav alkalinitet og få ioner. 
+Sjøvann bidrar blant annet til å øke bufferkapasiteten og gi fisken viktige ioner gjennom 
+produksjonen. Maks tetthet i avdelingene er satt mellom 50-55 kg/m3 som bruker å være tilstrekkelig 
+for å ivareta gode miljøforhold for fisken. I majoriteten av avdelingene er vannforbruk i l/min/kg fisk 
+under generell anbefaling på 0,3 l/min/kg fisk. I Hall B og Hall F, som begge har lavt vannforbruk har 
+en satt inn tiltak i form av reduksjon av antall fisk sammenlignet med tidligere for å bedre forhold og 
+tall i tabell er derfor noe misvisende for disse avdelingene. Rutinemessig måling av CO2 benyttes som 
+en indikator i hvor stor grad fisken påvirker og blir negativt påvirket av vannet. Hvor tiltak iverksettes 
+dersom CO2 overstiger grenseverdi.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+16 av 44 
+Tabell 3 viser viktige parametere knyttet til vannkvalitet i de ulike avdelingene.  
+Avdeling
+Temperatur 
+(°C) 
+Salinitet (ppt)
+Maks tetthet 
+(kg/m3) 
+l/min/kg fisk
+HK- hovedklekkeri
+6 
+0,5
+-
+-
+Hall D- Startfôring
+8-12,5
+0,5
+50
+0,31
+Hall C- påvekst
+8-12
+0,5
+50
+0,28
+Hall B- påvekst
+8-11
+0,5-3
+55
+0,12
+Hall A- påvekst
+8-11
+0,5-15
+55
+0,15
+GK- klekkeri
+6
+0,5
+-
+-
+Hall G/GS-
+Startfôring 
+8-12,5
+0,5
+50
+0,26
+ 
+Hall G/GP- påvekst
+11-12
+0,5-5
+50
+0,16
+Hall E- påvekst
+11-12
+0,5-5
+50
+0,24
+F-Hall påvekst
+7-11
+0,5-15
+50
+0,15
+Hall H
+12
+15
+65
+0,16
+ 
+Planlagt driftstemperatur er satt til 12 grader i hall H, dette er en temperatur storsmolt 
+erfaringsmessig trives og vokser godt i. Det vil være mulig å justere ned temperatur i forbindelse med 
+levering eller ved andre behov. Med en maksimalbelastning på 484 tonn i anlegget i mars, vil den 
+høyeste tettheten i karene i hall H være ca. 65 kg/m³ og maks CO2-mengde er beregnet til å ligge på 
+15 mg/L i periode med høy tetthet og gjenbruksgrad. Det er 80 m3/min brakkvann tilgjengelig for 
+fisken som tilsvarer en flow på 0,16 l/min/kg fisk. Erfaringsmessig er dette tilstrekkelig flow til å holde 
+CO2-verdier og andre avfallsstoffer under intern tiltaksgrense, som nevnt i tabell 4. 
+For å sikre en velferdsmessig god produksjon i hall H overvåkes ulike driftsparametere etter tabell 4.  
+ 
+Tabell 4. Viser oversikt over vannparametere som skal overvåkes i de ulike avdelingene grenseverdi for disse. 
+Type  
+Hyppighet Grenseverdi 
+Kommentar 
+Oksygen 
+Daglig 
+80-100% 
+Automatisk overvåking, kalibreres 1 x / uke 
+TGP 
+14 dag 
+Under 100 % TGP 
+Ukentlig måling 
+Salinitet 
+14 dag 
+Avhengig av avdeling 
+Kan justere salinitet på avdelingsnivå.   
+CO2 
+Hver uke 
+15 mg/L 
+Ukentlig måling 
+Temperatur 
+Daglig 
+5-12 grader 
+Temperatur kan justeres ned ved behov 
+pH 
+Månedlig 
+- 
+Begynt med rutinemessig måling i kar, ikke satt 
+grenseverdi. 
+Appetitt 
+Daglig 
+Justeres 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+17 av 44 
+V. Smittebegrensende rutiner og 
+utstyrsløsninger  
+Plan over vask og desinfeksjon, behandling av inntaksvann (sjøvann, ferskvann), avløpsvann og biologisk 
+materiale. 
+Desinfeksjon er en meget vesentlig del av alle zoo-sanitære strategier, i det den tjener til å 
+uskadeliggjøre de uønskede mikroorganismene eller å redusere forekomsten til et nivå under den 
+infektive dose. Det er i denne forbindelse også viktig å skille mellom desinfeksjon og sterilisasjon, 
+hvor man i sistnevnte begrep forstår at alle stadier av infeksiøse mikroorganismer; hvilestadier etc. – 
+drepes. Hensikten med desinfeksjonen er altså ikke nødvendigvis å fjerne alle sykdomsfremkallende 
+organismer, men å redusere deres mengde eller levedyktighet til et nivå hvor de ikke lenger kan 
+forårsake infeksjon.  
+Det finnes en rekke forskjellige desinfeksjonsmidler og metoder. Vanligst er det å inndele disse i 
+følgende grupper: --Fysiske, som varme og UV-bestråling - Kjemiske, som ozon, peroksyder, 
+halogener - pH-regulering for eksempel ved syre eller lut - Bølger/stråler, såsom elektromagnetiske, 
+akustiske eller radioaktive stråler. 
+I store trekk er det UV-bestråling eller behandling med ozon som er hyppigst anvendt ved behandling 
+av inntaksvann, eller en kombinasjon av disse. Forut for denne behandlingen er en filtrering av 
+vannet av stor betydning for effekten av vannbehandlingen uavhengig av metode. Spesielt er det 
+vannets innhold av partikler og humusstoffer som kan skape problemer. Humusstoffer vil øke 
+fargetallet og dermed redusere lysets gjennomtrengelighet, og UV-anlegget må da dimensjoneres 
+større for å oppveie den nedsatte UV-transmisjonen.  For ozon-behandlingen medfører 
+humusstoffene et økt forbruk av ozon og dermed må doseringen av ozonet økes for fortsatt å gi den 
+ønskede effekt. For begge desinfeksjonsmetoder gjelder det at et høyt innhold av partikulært 
+materiale dels vil gi ”gjemmesteder” for mikroorganismene og dels vil hemme effekten – for UV ved 
+å redusere fremkommeligheten for UV-strålene, -og for ozons vedkommende ved direkte å forbruke 
+ozonet. Vannet må derfor i de fleste tilfeller filtreres mekanisk før desinfeksjonen og jo finere 
+filtrering jo bedre sikkerhet blir det på den etterfølgende behandling.  
+ 
+Vask og desinfeksjon hos Sisomar 
+Rengjøring og desinfeksjon foretas mellom hver fiskegruppe. Dette innebærer at hver gang en 
+avdeling tømmes for fisk, skal avdelingen vaskes ned og desinfiseres.  
+ 
+På grunn av tidligere poxutbrudd og har Sisomar hatt en nøye gjennomgang og revidering av vaske- 
+og desinfeksjonsrutiner, hvor blant annet nøytralt desinfeksjonsmiddel er byttet ut med sure midler 
+siden det har vært anbefalt til bruk ved smitte med andre koppevirus. Se vedlegg 4 for eksisterende 
+renholdsplan. I planen vaskes kar og utstyr i alle avdelinger grundig og det benyttes krypdyse 
+gjennom rørsystemer. Utstyr som sorterings- og vaksineringsutstyr blir også vasket grundig og vask 
+blir kontrollert ved bruk av ATPase-måler.  
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+18 av 44 
+Hvert kar har eget utstyr som håv og kost og det foreligger prosedyrer på daglige og ukentlige 
+gjøremål som rengjøring av utstyr som benyttes hyppig. Rutiner fra nåværende avdelinger vil bli 
+implementert i hall H.  
+Personell og gjester:  
+Må skifte klær og vaske hender på vei inn og ut av alle avdelinger i forbindelse med slusing.  
+Behandling av inntaksvann 
+Sjøvann: 
+Vannet går gjennom skivefilter med 30 mikron lysåpning og videre til UV-behandling (setpunkt på 30 
+mJ/cm2, ligger stabilt rundt denne verdien) 
+Ferskvann 
+UV-behandling (15-25 mJ/cm2) 
+ 
+Behandling av avløpsvann:  
+Avløpsvannet renses mekanisk gjennom avløpsilter med tilpasset lysåpning etterfulgt av et mekanisk 
+sedimenteringsanlegg som oppfyller rensekrav med minst 50% reduksjon i suspendert stoff > 0,45 
+µm. 
+ 
+Behandling av biologisk materiale 
+Det er installert vakuumsystem for dødfisk. Dødfisk plukkes på daglig basis og tømmes i egen trakter i 
+hver avdeling. Ventil åpnes og dødfisk suges til dødfiskkvern i ensilasje rom. Hver trakt har eget utstyr 
+for håndtering av dødfisken. Vakuumsystemet er installert i avdelingene A, B, C, D, E og laboratoriet. 
+Videre vil dette være på plass i avdelingene F, G og H når hall H tas i bruk fra januar 2026. 
+Hall H er installert med eget ensilasjerom med kvern og lagertank. Ved forøket dødelighet eller 
+massedød har anlegget avtale med Kystmiljø og det foreligger egen beredskapsplan ved sykdom og 
+massedød for isolering av avdelinger og biologisk materiale ved mistanke om alvorlig smittsom 
+sykdom.  
+ 
+VI. Kartlegging, risikovurdering og risikominimering 
+knyttet til de viktigste smittsomme utfordringene 
+Det redegjøres for mulige områder for inntak av smitte i anlegget, og smitte til andre lokaliteter / villfisk fra anlegget. 
+A. 
+Generelt om smitte 
+Alle former for biologisk produksjon gir muligheter for spredning av infeksjonssykdommer mellom 
+mottakelige individer. Spredningen kan skje over landegrenser, innad i en region, lokalt i nærmiljøet, 
+i et anlegg, i en avdeling, eller mellom individer i et og samme kar. Ved oppdrett av fisk i 
+settefiskanlegg vil det kunne skje overføring av smittestoff fra en rekke potensielle smittekilder. 
+Sannsynligheten for og konsekvensen ved en slik spredning varierer med en rekke faktorer knyttet til 
+smittestoff, individ, populasjon og miljø. 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+19 av 44 
+For et settefiskanlegg vil de viktigste smitterisikoene inn til anlegget være via inntaksvann og biologisk 
+materiale.  
+Enhver kontroll med infeksjonssykdommer må ta utgangspunkt i hvilke sykdommer som er de mest 
+vanlige og hvilke smitteveier som er mulige for den enkelte sykdomsfremkallende organisme. I den 
+forbindelse benyttes vanligvis en inndeling i tre hovedgrupper:  
+1. Vertikal smitte 
+2. Horisontal smitte 
+3. Vektorbåren smitte 
+ 
+Vertikal smitte karakteriserer smitte som kan overføres fra foreldrefisk til avkom via rogn/melke. Enten 
+inne i egget, såkalt «ekte» vertikal smitte, eller som kontaminasjon på overflaten av egg eller spermier. 
+Horisontal smitte karakteriserer smitte som kan overføres fra fisk til fisk (ved nærkontakt mellom 
+individet, eller via vannet). Passiv overføring av smitte med gjenstander eller utstyr regnes i denne 
+sammenheng som en spesiell variant av horisontal smitte. Vektorbåren smitte er også en variant av 
+horisontal smitte. Slik smitte kan være via mennesker, lakselus, fugler eller andre levende organismer 
+som kan bære smitten mellom mottakelige fisk.  
+B. 
+Mulighet for smittespredning inn i anlegget 
+1. 
+Biologisk smitte fra rogn og levende fisk  
+Levende biologisk materiale (rogn/yngel/smolt/matfisk) som tas inn i eller ut av landbaserte anlegg, 
+utgjør sett i lys av dagens kunnskapsstatus og teknologiutvikling kanskje den største sannsynligheten 
+for smitteintroduksjon og videre spredning. Sykdomssituasjonen i akvakulturnæringen er til enhver 
+tid dynamisk. Det er derfor fornuftig å basere anleggsutforming, anleggsplassering og drift på 
+generelle, allmenngyldige biosikkerhetsprinsipper og ikke skjele for mye til spesifikke agens. Dette er 
+en av de viktigste årsakene til at innføring av generasjonsskille i norsk lakseoppdrett har blitt en stor 
+suksess gjennom å forhindre smitteutveksling fra voksen til ung fisk. I tillegg til generasjonsadskillelse 
+fins det en lang rekke overordnede biosikkerhetstiltak, til dels pålagt av regelverket, som er ment å 
+redusere mulig smittekontakt og samtidig de fiskevelferdsmessige og økonomiske konsekvensene 
+ved eventuelle utbrudd av sykdom. 
+Rogn som kommer inn på Sisomar innebærer en biologisk risiko for smittsom sykdom i alle avdelinger 
+ettersom fisken flyttes innad i anlegget. Sannsynligheten for vertikal overføring av smittsomme agens 
+vil være avhengig av en rekke faktorer som blant annet mengden agens i gonadene, og 
+sannsynligheten for videre spredning via egg, yngel og smolt som igjen vil avhenge av effektiviteten 
+av desinfeksjon. I vurderingen er det tatt som utgangspunkt at det norske kravet om desinfeksjon er 
+utført. Det vil si at vurderingen baseres på norske forhold og ikke om et agens under andre forhold 
+kan overføres vertikalt. Begrepet vertikal overføring er benyttet uavhengig av om agens er på 
+innsiden eller utsiden av egget. Det er gjort et utvalg av de listeførte sykdommene i Norge på 
+grunnlag av betydningen de har i norsk oppdrettsnæring og hvor risiko for eventuell vertikal 
+overføring er lite kjent eller ikke endelig kartlagt. 
+Vertikalt overførbare sykdommer, ekte eller uekte, har fått en stadig større betydning for 
+sykdomsutviklingen både i ferskvannsfasen og sjøvannsfasen. En rekke viktige agens ser ut til å kunne 
+overføres vertikalt og utløser sykdom stadig tidligere i produksjonen. Et ferskt eksempel på dette er 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+20 av 44 
+PRV-viruset som forårsaker sykdommen HSMB. Et annet aktuelt virus i denne sammenhengen er ILA-
+viruset og da i sin godartede form HPR0 som ved senere mutasjon kan endre sin genetiske kode slik 
+at det blir det aggressive og sykdomsfremkallende HPRΔ. 
+Sisomar benytter kun rogn fra norske leverandører. Sykdomskontrollen på norsk stamfisk og 
+rognproduksjon er underlagt egne regler og vurderes som god. Innføring av smittsomme sykdommer 
+med rogn ses imidlertid på som en risikofaktor som det må tas hensyn til. Vertikal overføring av 
+sykdommer er et stadig mer aktuelt tema knyttet til både virussykdommer og bakterielle sykdommer 
+som for eksempel Yersiniose og HSMB. De siste 10 års forskning har i tillegg hatt en trend til å endre 
+oppfattelsen knyttet til om enkelte virus eller bakterier er vertikalt overførbare i retning av at de er 
+vertikal overførbare. Dette gjelder for eksempel virus som PRV (HSMB), HPR0 (ILA) og PMCV (CMS). 
+Disse virusene ble for få år siden sett på som ikke-vertikalt overførbare og av Vitenskapskomiteen for 
+mattrygghet vurdert som” av liten eller ikke målbar betydning for spredning av sykdommene i norsk 
+oppdrett”. 
+Tabell 5. Hentet fra Magnus Devold, Patogen AS.  
+ 
+I dag er det et betydelig større fokus på risikoen for overføring av agens fra stamfisk til avkom via 
+kjønnsproduktene. Erfaring fra felt har vist at såkalte «release criteria», altså hvilke agens en smolt 
+har med seg i kroppen ved utsett i sjø, har stor betydning for hvilke sykdommer den samme smolten 
+vil få erfaring med i sjøvannsfasen. Betydningen av at en smolt er fri for de fleste av de patogene som 
+vi ser opplistet i Tabell 5 er stor.  
+Noen grunnleggende biosikkerhetstiltak som skal praktiseres av Sisomar for å forhindre smitte 
+gjennom biologisk materiale er: 
+o Desinfisering av rogn før innlegg. Dette utføres hos rognleverandør.  
+o Det tas ikke inn yngel, parr eller smolt fra andre settefisklokaliteter. 
+o Dokumentasjon av helsestatus ved flytting av levende fisk mellom avdelinger, fisk som 
+overføres skal være klinisk frisk og det skal være fokus på overføring av smitte → Det 
+utføres rutinemessig screening av fiskegrupper på lokaliteten for overvåkning av en 
+rekke agens.  
+o Regelmessig helsekontroll og utredning av eventuelle helseproblemer hos 
+akvakulturdyr → uZøres av intern veterinær. 
+o Relevant kompetanse hos ansatte på akvakulturanlegg→ personell som jobber ved 
+lokalitet har tatt kurs fiskevelferdskurs.  
+o 
+Vaksinering 
+av 
+oppdrettsfisk 
+→ 
+smolt 
+vaksineres 
+mot 
+særlig 
+kritiske 
+sykdomsutfordringer der det finnes godt egnede vaksiner. Vaksinevalg avhenger av 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+21 av 44 
+kundeønske. Majoriteten av fiskegrupper vaksineres med AlphaJect micro 7 ILA, 
+enkelte grupper flyttes ut lengre sør og disse blir vaksinert med PD- og ERM- 
+komponent. De to siste årene er Alphaject moritella brukt for å redusere risiko for 
+vintersår i sjøfase.  
+o Regelmessig fjerning av død og syk fisk fra produksjonsenheter → daglig dødfiskopptak 
+og fjerning av svimere fra alle enheter. 
+o «Alt ut- alt inn». → avdeling tømmes, rengjøres og desinfiseres mellom hvert innlegg.  
+Sisomar krever populasjonstesting av stamfisk for SAV/ILAV/BKD i sjøfase og ILAV/BKD etter 
+landsetting.  
+ 
+2. 
+Vannbåren smitte 
+Med vannbåren smitte forstås opptak av smitte via vannkildene til anlegget og spredning av smitte 
+mellom fisk via driftsvannet i anlegget. Når agens som smitter horisontalt har kommet inn i anlegg 
+kan de raskt oppformeres i kar og avdelinger da det er svært kort avstand mellom individene. Det 
+anses som en stor risiko for vannbåren smitte hvis ikke vannet behandles på vei inn i anlegget. I dag 
+stiller Mattilsynet krav til vannbehandling ved inntak av ferskvann fra kilde som har oppgang av 
+anadrom fisk eller ved inntak av sjøvann.  Gode systemer for behandling av inntaksvann er av stor 
+betydning ved Sisomar, dette gjelder både ferskvann og sjøvann som blir benyttet i produksjonen.  
+Sykdommer som overveiende smitter horisontalt gjennom vann kontrolleres i hovedsak gjennom å 
+redusere smitteutskillelse, og å bryte smitteveier mellom mottakelige grupper av fisk i tid og rom. For 
+oppdrett i ferskvann skjer dette ved å sikre seg at vannkilden er smittefri, eventuelt supplert med at 
+vannet blir UV- og/eller ozonert. Basert på tabell under, som er utarbeidet av Åkerblå AS, vil 
+vannbehandling av inntaksvann hos Sisomar vurderes til begrenset beskyttelse da UV-dose er satt til 
+15-30 mJ/cm2 avhengig av UV-anlegg. Dette er doser som inaktiverer flere alvorlige smittsomme 
+sykdommer som ILAV og yersinia ruckeri, men vil ikke ta knekken på patogener som PRV og BKD. I 
+sjøvann kan risikoen for horisontal smitte reduseres ved hjelp av avstanden mellom det aktuelle 
+sjøvannsinntaket og annen akvakulturvirksomhet, både i sjøvann og på land. Dette gjelder også 
+avstand til brønnbåtruter, lakseslakterier og tilvirkningsanlegg.  
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+22 av 44 
+ 
+Figur 7 Vannbehandling har stor betydning for risikoreduksjon knyttet til inntaksvann. Det er redegjort skjematisk for ulike 
+kategorier vannbehandling basert på UV («En oversikt over vannbehandling med ulik barrierehøyde», Åkerblå mars 2022 
+ 
+Mulighet for vannbåren smitte fra annen akvakulturvirksomhet 
+Sisomar er lokalisert innerst i fjorden Sørfolda, som strekker seg 35 km sørøstover fra utløpet utenfor 
+Tårnvika inn til Straumen. Det er ingen akvakulturlokaliteter i umiddelbar nærhet av smoltanlegget, 
+men lengre ut i fjorden er det flere lokaliteter vist i figur 1.  
+Følgende akvakulturlokaliteter kan teoretisk utsette Sisomar for smitte:  
+• 
+Kines (Lok nr: 13297), er lokalisert ca. 9,2 km nord nytt vanninntak til Sisomar i luftlinje. 
+• 
+Nedre Kvarv (Lok nr: 10513), er lokalisert ca. 9,8 km nord for nytt vanninntak til 
+Sisomar i luftlinje.  
+• 
+Kalvik (Lok nr: 29576) er lokalisert ca. 15,2 km nord for nytt vanninntak til Sisomar i 
+luftlinje.  
+• 
+Jektvika 1 (Lok nr: 11269) er lokalisert ca. 18,1 km nord for nytt vanninntak til Sisomar 
+i luftlinje. 
+Det er langt til nærmeste hovedled for brønnbåter, slik at denne problemstillingen vurderes som lite 
+relevant.  
+Avstandsprinsippet står sterkt i all smitteforebygging og kortere avstander på land, i vann og i luft vil 
+ofte innebære større risiko for spredning av smitte. Siden det er lang avstand til nærmeste lokalitet 
+vurderes det til å være lavt vannslektsskap mellom vann fra lokaliteter lengre ut i fjordsystemet og 
+inntakspunkt. Vannbehandling på inntaksvann vil fjerne mange av kjente smittsomme sykdommer 
+som ILAV, men ikke sykdommer som PRV. Grunnet lang avstand og behandling på inntaksvann 
+• Svært høy barrierehøyde mot bakterier, virus og parasittter
+• Drifts- og beredskapstiltak som er egnet til å gi svært høy grad av sikkerhet 
+mot utfall av vannbehandling ved uforutsette hendelser. 
+• Membranfiltering og UV dose >220 mJ/cm2 eller andre metoder med 
+tilsvarende barrierefunksjon. 
+Vannbehandling som 
+resulterer i neglisjerbar risiko 
+knyttet til inntaksvann
+• Høy barrierehøyde mot bakterier, virus og parasittter
+• Drifts- og beredskapstiltak som er egnet til å gi høy grad av sikkerhet mot utfall 
+av vannbehandling ved uforutsette hendelser. 
+• Filtrering med lysåpning 20µ og UV med UV-dose >75 mJ/cm2 eller andre 
+metoder med tilsvarende barrierefunksjon. 
+Vannbehandling som 
+medfører høy barrierehøyde 
+og betydelig lavere  risiko 
+knyttet til inntaksvann
+• Moderat barrierehøyde mot bakterier, virus og parasittter
+• Drifts- og beredskapstiltak som er egnet til å gi god sikkerhet mot utfall av 
+vannbehandling ved uforutsette hendelser. 
+• Forfiltering 50µ og UV-desinfeksjonsbarriere med UV-dose > 50 mJ/cm2 eller 
+tilsvarende
+Vannbehandling som 
+mefører moderat 
+barrierehøyde og gir moderat 
+risikoreduksjon knyttet til 
+inntaksvann
+• Lav  barrierehøyde mot bakterier, virus og parasittter
+• Drifts- og beredskapstiltak som ikke gir fullgod sikkerhet mot utfall av 
+vannbehandling ved uforutsette hendelser. 
+• Forfiltering 50-300µ og en UV-desinfeksjonsbarriere med UV-dose > 25 
+mJ/cm2 eller tilsvarende
+Vannbehandling som gir 
+begrenset beskyttelse og 
+begrenset risikoreduksjon 
+knyttet til inntaksvann
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+23 av 44 
+vurderer DNV at det er lav sannsynlighet for introduksjon av alvorlige smittsomme sykdommer fra 
+andre akvakulturvirksomheter via inntaksvann.  
+ 
+Mulighet for vannbåren smitte fra villfisk 
+Det er lakseførende vassdrag i området rund Sisomar, som tidligere er beskrevet i biosikkerhetsplan. 
+Data fra Fiskeridirektoratet viser at området rett utenfor settefiskanlegget er gyteområde for torsk. 
+Sannsynlighet for at oppdrettslaks på Sisomar skal smittes med alvorlig smittsom sykdom fra villfisk 
+av laks og annen art vurderes som lav. Smittepresset hos villfisk vurderes som mye lavere enn hos 
+oppdrettsfisk siden ville populasjoner ikke står like tett og det er ikke erfaringer fra sjølokaliteter som 
+tilsier at villfisk har ikke har en stor betydning i risikobildet for alvorlig smittsom sykdom. Men det 
+finnes noen unntak hvor en anser det som mer sannsynlig at smittsomme sykdommer fra villfisk kan 
+smitte over til oppdrettsfisk. Dette er blant annet AGD og skottelus. Førstnevnte er ikke et problem i 
+Nord-Norge, mens sistnevnte vil ikke forårsake utfordringer på landbaserte anlegg som har 
+behandling på inntaksvann og drifter på salinitet som er lavere enn det parasitten foretrekker. 
+Mulighet for vannbåren smitte fra villfisk for spesifikke agens, som pox er beskrevet i avsnitt 
+«utvalgte patogener».  Veterinærinstituttet har i tidligere konkludert med at poxvirus er utbredt hos 
+villlaks etter prøveuttak fra flere vannkilder, det er også tatt ut prøver fra Straumvatnet, hvor det 
+ikke ble funnet laksepoxvirus i villfiskprøver. Men prøveuttak var på et begrenset antall fisk i (60 stk), 
+hvor majoriteten av disse var ørret som trolig ikke er naturlig vert for viruset. Basert på funn fra 
+andre elver er det ikke usannsynlig at enkelte villfisk i Straumsvatnet kan være smittebærer av 
+viruset, men sannsynlighet for smitte inn i anlegg anses som lav grunnet lavt smittepress.  
+ 
+Mulighet for krysskontaminering 
+Avløpsvannet vil i prinsippet kunne representere en stor risikofaktor for smittespredning mellom 
+anlegg dersom hydrodynamikk tilsier stor krysskontaminering fra avløpsvann til vanninntak.  
+Det er utfordrende å praktisere behandling av avløpsvann på en måte som gir full sikkerhet mot 
+utslipp av patogener. Avløpsvann kan inneholde store mengder organisk materiale og det er langt 
+mer utfordrende å etablere sikre og effektive desinfeksjonsmetoder for avløpsvann enn for 
+inntaksvann. Samtidig er det slik at det er mulig å fraseparere en betydelig andel av organisk 
+materiale i form av utsortering av slam og organiske partikler fra avløpsvannet fra et landbasert 
+anlegg. Derfor vil avløpsvannet fra et landbasert anlegg representere en betydelig mindre smittekilde 
+til andre anlegg enn et konvensjonelt anlegg i sjø med tilsvarende biomasse. Det er også slik at ved 
+nye slamhåndteringsmetoder, vil en kunne fraseparere en betydelig andel av de største partiklene i 
+avløpsvannet.  
+Tidligere modellering (SM-T-00721-Trollbukta0321-ver01.pdf, se vedlegg 3) viser at det var perioder 
+med høyt vannslektsskap mellom tidligere inntaks- og utslippsposisjon. Maksimal konsentrasjon av 
+utslipp registrert nær overflaten ved tidligere inntaksposisjon var i overkant av 4 % og maksimal 
+konsentrasjon ved bunn var 2,9%. Inntaket lå da på 5 meters dybde. Etter flytting av inntakspunkt 
+lengre ut er det noe vannslektsskap mellom utstlippspunkt og inntakspunkt, men vesentlig lavere 
+sammenlignet med tidligere situasjon selv om mengde utslippsvann øker. Basert på nyeste 
+modellering (SM-SI-Trollbukta-110215117-6001-01-002.pdf, se vedlegg 2) er maksimal konsentrasjon 
+av utslipp nær overflate av inntaksposisjon 4,3%, altså relativt likt som før. Høyeste konsentrasjon av 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+24 av 44 
+utslipp registrert rundt ny inntaksposisjon på bunndyp, altså hvor vannet tas inn, er 0.7%, med en 
+gjennomsnittsverdi på 0,2%. Det er ingen tegn til opphopning av utslippsvann ved 
+inntaksposisjonene. Siden inntakspunkt er flyttet lengre ut i fjorden, dypere og lengre bort fra 
+utslippsposisjon vil dette være en forbedring sammenlignet med tidligere inntakspunkt.  
+Siden det vurderes som lav risiko for smitte fra andre akvakulturvirksomheter og villfisk anses 
+krysskontaminering som største risikofaktor ved Sisomar. Hvis smittsom sykdom kommer inn via 
+rogn, for eksempel PRV, kan smittestoff bli reintrodusert i anlegget via inntaksvann. Dette betyr at 
+gode rutiner for smitteovervåkning for å kunne avdekke eventuell smitte raskt, samt rutiner for 
+nedvask av avdelinger mellom fiskegrupper blir viktig forebyggende tiltak for å redusere eventuelt 
+smittepress ut av anlegg til et minimum. Inntaksvannet blir UV-behandlet, men dose vil ikke 
+inaktivere alle typer patogener. Tiltak ved påvisning av alvorlig smittsom sykdom vil vurderes i hvert 
+enkelt tilfelle i samråd med veterinær/fiskehelsebiolog. Dette er nærmere beskrevet i intern 
+beredskapsplan ved sykdom/massedød. 
+ 
+3. 
+Vektorbåren smitte: 
+Vektorbåren smitte er definert som indirekte horisontal overført smitte via utstyr, personell og andre 
+levende organismer. Alle avdelinger, inkludert ny hall H, ved Sisomar er innendørs og isolert fra 
+omverdenen for å redusere sannsynlighet for vektorbåren smitte via levende organismer som lever i 
+nærmiljøet. Anlegget har eget utstyr for hver avdeling og sluse hvor fast personell og besøkende må 
+bytte klær og vaske hender. Risikoen for vektorbåren smitte anses som minimal.  
+ 
+ 
+4. 
+Luftbåren smitte: 
+Luftbåren smitteoverføring refererer til situasjoner hvor dråpekjerner (rester fra fordampede dråper) 
+eller støvpartikler som inneholder mikroorganismer, kan forbli suspendert i luft over lengre tid. Disse 
+organismene må være i stand til å overleve i lange perioder utenfor fiskekroppen og må være 
+resistente mot tørking. Luftbåren overføring lar organismer komme tilbake til væskefasen på det 
+området hvor de igjen kan smitte fisk. Det er bare et begrenset antall sykdommer som er i stand til 
+luftbåren overføring hos mennesker og enda færre hos fisk. Sykdommer som kan overføres i luften 
+hos mennesker inkluderer blant annet tuberkulose, vannkopper, legionærsyke, SARS og meslinger. 
+Hos fisk er det sparsomt med data, men ser man på smitte mellom kar i samme avdeling eller i åpne 
+avdelinger innenfor en svært kort avstand (få meter), så kan luftbåren smitte absolutt forekomme. 
+Luftbåren overføring av fiskepatogener under slike betingelser har et potensial for spredning av 
+fiskesykdommer, spesielt i anlegg der fiskekar står nære hverandre eller er i umiddelbar nærhet uten 
+noen tildekking av vannoverflaten eller betydelige skillevegger mellom karene. Vannsprut fra 
+kaskaderende vann, bevegelig utstyr eller overflateopprør fra pumper eller lufting, kan produsere 
+vanndråper som kan være forurenset med patogener, og danne tåker som legger seg over tilstøtende 
+flater og kan slik forurense tilstøtende fiskekar. Trekk eller ventilasjonsluftstrøm fra åpne vinduer, 
+dører eller vifter kan forverre problemet ved å frakte disse vanndråpene ytterligere unna i avstand. 
+Eldre laboratorieundersøkelser har vist at tre vanlige fiskepatogener, aeromonas salmonicida 
+(furunkulose), ichtyophterius multifilis (hvitprikksyke) og Amylodinium ocellatum 
+(ektoparasittsykdom i tropiske strøk) kunne overføres til fiskekar over 1 meter unna gjennom 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+25 av 44 
+luftdråper flyttet av en liten ventilasjonsvifte (Wooster an Bowser 1996, Bishop et al. 2003, Roberts -
+Thompson et al 2006.). Wooster et. al 1996 gjorde undersøkelser knyttet mot bakterien A. 
+salmonicida, som forårsaker sykdommen furunkulose hos fisk og konkluderte med at bakterien 
+kunne karakteriseres som et luftbåret patogen. Bakterien kunne reise 104 cm fra verten ut i 
+atmosfæren og tilbake til vannet og dermed gjøre det vanskelig å kontrollere. Bakterien kunne 
+opprettholde sin patogenisitet i ferskvannsforhold i 6–9 måneder og i saltvannsforhold i opptil 10 
+dager uten en vert.                                                                                          
+Vanligvis er luftbåren smitte mellom akvakulturlokaliteter neglisjerbar, Sisomar ligger langt unna 
+andre lokaliteter og hver avdeling er bygningsmessig adskilt fra hverandre. Risikoen for luftbåren 
+smitte anses som neglisjerbar.  
+ 
+  
+C. 
+Utvalgte patogener 
+Sisomar AS har som mål å gjøre alt som er mulig for å ta inn patogenfri rogn til anlegget og ivareta 
+denne smittestatusen gjennom å desinfisere alt av inntaksvann som blir benyttet i produksjonen. 
+Dette sammen med tiltak knyttet til smitte fra omgivelsene (vann, luft, utstyr, mennesker og dyr), 
+skal totalt sett gjøre produksjonen på Sisomar så forutsigbar som mulig. For å sikre produksjon av 
+sykdomsfri fisk i alle avdelinger er det ønskelig med smittefri status gjennom produksjon i anlegget.  
+DNV har vurdert risiko og tiltak for ulike agens i dette avsnittet, men viser også til følgende vedlegg 
+for en mer detaljert fremstilling av risikoanalysene knyttet til enkelte agens som anses som særlig 
+aktuelle gjennom produksjonen i settfiskanlegget. 
+• 
+Vedlegg 5: Risikoanalyse -Inntak av smittestoffer via ferskvannsinntak til settefiskanlegg 
+• 
+Vedlegg 6: Risikoanalyse - Inntak av smittestoffer via sjøvannsinntak til settefiskanlegg 
+• 
+Vedlegg 7: Risikoanalyse - Vertikal smitte av ILA  
+• 
+Vedlegg 8: Risikoanalyse – Inntak av PRV-smitte (Vertikal smitte av PRV) 
+• 
+Vedlegg 9: Risikoanalyse – Inntak av SGPV (Poxvirus) via ferskvannsinntak 
+• 
+Vedlegg 10: Risikoanalyse – Inntak og bekjempelse av IPNV/IPN.  
+ 
+Sannsynligheten for påvisning av meldepliktige sykdommer i anlegget inkludert ILA vurderes som 
+liten på bakgrunn av de iverksatte tiltak på inntakssiden av ferskvann og sjøvann. En påvisning av 
+meldepliktig sykdom vil ha stor helsemessig, driftsmessig og økonomisk betydning for selskapet og 
+medfører dermed en risiko som må tas hensyn til.  
+ILA er som nevnt en sykdom som stort sett bryter ut sent i sjøvannsproduksjonen og det har vært 
+flere regionale epidemier av denne sykdommen i Nordland fylke i 2014, 2015, 2017 og 2025. 
+Sykdommen påvises sjelden i settefiskanlegg, men ble påvist hos resirkuleringsanlegget Nordland 
+Akva AS i 2015 og spredt derfra til totalt fire matfisklokaliteter i Nordland, Troms og Finnmark. Dette 
+viser betydningen av å screene smolten for ILA før utsett. Fra Sisomar sin side er det viktig å først 
+sette søkelys på at den rogna som tas inn ikke er bærer av ILA-virus. Deretter er det viktig å følge opp 
+fisken fortløpende for å overvåke status. Screening av foreldrefisk, kontroll av rogn og oppfølging av 
+viruset gjennom anleggets overvåkningsprogram vil gjøre at viruset hurtig oppdages hvis det skulle 
+dukke opp i anlegget. Selskapets evne til å reagere hurtig og effektivt på enkeltfunn gjennom å 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+26 av 44 
+sanere den delen av anlegget som er rammet vil bidra til å redusere risikoen for en total brakklegging 
+av anlegget. Det er svært usikkert hvordan forvaltningen vil håndtere et utbrudd av sykdommen ILA i 
+et slikt landbasert anlegg med produksjon av fisk frem til postsmoltstørrelse.  For å unngå at hele 
+anlegget må brakklegges og all fisk destrueres må hver avdeling være så godt smittemessig atskilt fra 
+andre avdelinger at forvaltningen oppfatter dem som egne smittemessige enheter. Risikoen for å 
+utvikle ILA i anlegget er tilstede selv om den vurderes som svært liten og anses av DNV AS for å være 
+en alvorlig trussel mot en forutsigbar produksjon i anlegget. Av erfaring vil risikoen være størst i 
+postsmoltavdelingen grunnet tiden det normalt sett tar for et HPR0-virus å mutere. 
+Anlegget har opplevd sporadiske tilfeller av positiv HPR0-tilfeller ved rutinemessig screening. Sist 
+dette ble avdekket var mai 2020. HPR0 gir ikke sykdom hos laksefisk, men regnes som stamfaren til 
+sykdomsfremkallende ILA-virus. Det er derfor risiko for at nye sykdomsfremkallende virusstammer 
+kan oppstå ved tilstedeværelse av HPR0. En vet fortsatt ikke hvor stor denne risikoen er, men mye 
+tyder på at den er lav. HPR0 er svært utbredt og finnes i alle produksjonsstadier av laks. Det foregår 
+et pågående strategiarbeid for kontroll og bekjempelse av ILA i Norge. En har sett en sammenheng 
+mellom høy prevalens av HPR0 i settefiskanlegg og senere ILA utbrudd på sjø. Enkelte settefiskanlegg 
+med mye HPR0 har derfor valgt å sanere anlegget for å fjerne husstammer av viruset. Sisomar har 
+gode rutiner for vask og desinfeksjon av nåværende avdelinger. HPR0- status i hele anlegget skal 
+overvåkes rutinemessig for å undersøke tilstedeværelse og eventuell prevalens.  Slik DNV vurderer 
+det er det ikke helt usannsynlig at sporadiske tilfeller av HPR0 kan forekomme, men det anses som 
+svært usannsynlig at viruset skal kunne oppformere seg betydelig i et gjennomstrømmingsanlegg og 
+mutere til deletert ILA-virus med de driftsrutinene som foreligger hos Sisomar. HPR0 har vist seg å 
+skape utfordringer i settefiskanlegg eller etter sjøsetting når det etableres «husstammer», hvor det 
+blir høy prevalens av viruset. Grundig nedvask av avdelinger vil forhindre etablering av husstammer i 
+avdeling H. På bakgrunn av de overfor nevnte momenter anser vi det som svært usannsynlig at 
+vertikal og vannbåren smitte av ILAV vil forekomme. Risikoen vil være ubetydelig så fremt det ikke 
+etableres husstamme av HPR0 i anlegget. For å redusere konsekvensene av et evt. utbrudd av 
+sykdom er det imidlertid en forutsetning at de risikominimerende tiltakene nevnt over med 
+screening under produksjonen og forsterkede tiltak knyttet til etableringen av interne smitteenheter 
+i produksjonslokalene blir gjennomført. 
+DNV anser «Laksepox» som en av de største risikomomentene for smittsom sykdom på Sisomar. 
+Dette siden anlegget tidligere har hatt utfordringer med to isolerte sykdomsutbrudd av viruset i flere 
+avdelinger på lokaliteten. Smittekilde til sykdomsutbrudd på lokaliteten er foreløpig ukjent. 
+Sykdommen Laksepox påvises i hovedsak på smoltifiserende fisk mot slutten av produksjonssyklusen 
+i et vanlig settefiskanlegg. Det er også i denne fasen av produksjonen at de mest omfattende 
+konsekvensene av en slik infeksjon kan konstateres. «Laksepox» (Salmon gill poxvirus disease - 
+SGPVD) forårsakes av Salmon gill poxvirus (SGPV) og fører til en kraftig gjellebetennelse hos fisken. I 
+utgangspunktet kan man finne POX-viruset i settefiskanlegg både med og uten resirkulering og med 
+og uten sjøvannstilsetning, samt at man påviser det på fisk på sjølokaliteter. Siden «laksepox-viruset» 
+er et nylig beskrevet virus, har man foreløpig ikke nok kunnskap om hvordan man kan hindre 
+smittespredning. Det foreligger per i dag ikke kunnskap om virusets evne til å overleve i vann eller 
+biofilm eller hvordan brakklegging og desinfeksjonsmåter kan bryte smittekjeder og senke 
+infeksjonspresset. Dette gjør det vanskelig å sette inn målrettede tiltak mot viruset og sykdommen. 
+Viruset er antatt å stamme fra ferskvannskilden til settefiskanleggene og fokus har vært på å sikre 
+vanninntakene og styrke denne smittebarrieren. Veterinærinstituttet har i tidligere konkludert med 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+27 av 44 
+at poxvirus er utbredt hos villaks etter prøveuttak fra flere vannkilder.  Erfaringer fra perioden 2018-
+2020 viser imidlertid at dette viruset påvises hos fisk i resirkuleringsanlegg på tross av en 
+ferskvannsbarriere bestående av både ozon opp til 1000 mv og UV-bestråling på et nivå rundt 250 
+mj/cm2. En vet derfor ikke om dagens ferskvannsbarriere vil forhindre innførsel av viruset til 
+anlegget og en risiko for utbrudd av sykdom uansett vil være til stede. Anlegget har jobbet 
+systematisk med brakklegging og sanering av avdelinger for å fjerne viruset fra anlegget. Vaske- og 
+desinfeksjonsrutiner er utarbeidet i samarbeid med Veterinærinstituttet i forbindelse med prosjektet 
+«laksepox: smittesporing i fisk og miljøprøver, sanering av anlegg og mulig vertikal overføring». I 
+prosjektet ble det tatt ut gjelleprøver fra villfisk i Straumsvatnet uten at smitte ble avdekket, men 
+prøveuttak var begrenset. Veterinærinstituttet har konkludert med at det virker lite sannsynlig at vill 
+laksefisk i ferskvannskilder er en viktig smittekilde av laksepox men datagrunnlaget bak denne 
+konklusjonen er ennå tynt. Basert på funn fra andre elver er det ikke helt usannsynlig at enkelte 
+villfisk i Straumsvatnet kan være smittebærer av viruset, men sannsynlighet for smitte inn i anlegg 
+anses som lav grunnet lavt smittepress. Tatt den manglende kunnskapen knyttet til virusets 
+egenskaper og muligheter for bekjempelse, bør fokuset være på andre forebyggende tiltak knyttet til 
+utbrudd av sykdommen som er nærmere beskrevet i en egen prosedyre og avhenger av smittefri 
+status i tidligere faser av produksjonen. Anlegget hadde sin siste påvisning og utbrudd av pox 
+november 2021. Ved påvisning eller mistanke av viruset blir det iverksatt strakstiltak som økning i 
+oksygen og fôrstopp i tillegg til å gi den aktuelle fiskegruppen best mulige miljøbetingelser samt å 
+unngå håndtering de første ukene etter påvisning. DNV har erfart at mange anlegg kan ha sporadiske 
+påvisninger av viruset uten at dette nødvendigvis trenger å forårsake sykdomsutbrudd da utbrudd 
+ofte er sett i sammenheng med suboptimalt miljø og/eller redusert fiskehelse. Det blir derfor viktig at 
+Sisomar fortsetter med gode tiltak som grundig nedvask av avdelinger mellom fiskegrupper, 
+rutinemessig screening og gi fisken gode miljøbetingelser som gjør den bedre rustet mot potensielle 
+virusangrep.  
+IPN har grunnet IPN-resistent rognmateriale (QTL-IPN) vært ansett som lite problematisk over flere 
+år. Men de siste årene har det vært en økning i antall virus- og sykdomspåvisninger hvor en ny 
+virusvariant er påvist i de fleste tilfellene. Forsøk viser at mutasjoner hos den nye varianten kan 
+skape sykdom i fiskegrupper til tross for QTL mot IPN (Hillestad et al., 2021). Resultater fra smittetest 
+tyder på at ny variant primært kan skape utfordringer i tidlige livsstadier, men er antatt å være 
+mindre virulent senere i produksjonen. Fiskehelserapporten for 2024 viser en økning i antall 
+viruspåvisninger, men at kliniske utbrudd ikke har økt markant og virker fortsatt til å være i et 
+begrenset omfang. IPNV er betegnet som et svært hardført virus som blant annet tåler høy 
+temperatur, høy UV-dose og lav pH. For Sisomar sin del utgjør IPN en av de største truslene da 
+viruset har vært i påvist i anlegget siden 23. Dette ved å først bli påvist i sjøfase på vårfisk 23 uten at 
+en klarte å påvise viruset i settefiskfase ved å etterscreene prøver av gruppa. Samme år fikk tre 
+sjølokaliteter med høstfisk fikk klinisk IPN-utbrudd ca. 14 dager etter sjøutsett med 4-10% 
+dødelighet. I etterkant av diverse påvisninger har sekvensering vist at både ny og gammel variant var 
+tilstede på lokaliteten, men at den gamle/ tradisjonelle IPNV-varianten virket mer dominerende. 
+Dette betyr at i utgangspunktet skal QTL-rogn være beskyttet mot denne varianten og klinikk 
+forekommer erfaringsmessig kun i fiskegrupper som har nedsatt immunforsvar av ulike årsaker. 
+Grunnet påvisning har anlegget en svært grundig nedvask av avdelinger og utstyr mellom ulike 
+fiskegrupper hvor en blant annet har undersøkt utstyr etter vask med svabere for å undersøke om en 
+finner rester av viruset. Ny variant av viruset er ikke påvist siden høst 2024, mens tradisjonell variant 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+28 av 44 
+har etablert seg som husstamme og påvises i alle avdelinger utenom klekkeriet. Det siste året har 
+sykdomsbildet på lokalitet endrer seg hvor en ikke erfarer klinisk sykdom eller påvisning av IPN i 
+sluttfase av produksjonen på land eller etter utsett på sjø. I startfôring ser en et lite «blaff» av 
+virussykdommen hvor en påviser IPN i enkeltindivider uten at det er forøket dødelighet eller andre 
+tegn til klinikk i form av nedsatt appetitt, unormal adferd ect. Viruset blir påvist i besetningen og 
+påvises frem til utsett med moderate til høye Ct-verdier etter periode i startfôringen. DNV vurderer 
+at tiltak som allerede er iverksatt er tilstrekkelig for å bekjempe IPNV, hvor en av de viktigste tiltaket 
+er svært grundig nedvask av avdelinger mellom fiskegrupper. Stabile og gode miljøforhold er de 
+absolutt viktigste tiltakene for å redusere sannsynlighet og konsekvens av eventuell klinisk sykdom. 
+Nytt sjøvannsinntak ligger mye lengre unna eget avløp sammenlignet med gammelt inntak. Dermed 
+reduseres risiko for egensmitte via sjøvann. IPNV er som nevnt et hardført virus og UV-dose som 
+benyttes på inntaksvann er ikke høy nok til å ta knekkene på viruset. Dermed er det grunn til å tro at 
+egensmitte kan ha forekommet med gammelt inntak, denne sannsynligheten vil reduseres 
+betraktelig når avstand på avløp og innløp blir mye større. Dagens overvåkningsprogram er svært 
+omfattende og DNV anser det ikke som nødvendig med ytterligere screening. 
+Bakteriell nyresyke eller BKD er en annen meldepliktig sykdom på laksefisk. Dette er en alvorlig, 
+kronisk sykdom som skyldes infeksjon med bakterien Renibacterium salmoninarum. Det er 
+veldokumentert at sykdommen spres ekte vertikalt ved at bakterien kan befinne seg inne i 
+rognkornet og dermed være utilgjengelig for desinfeksjonsmidler. I Norge har fokuset derfor vært på 
+overvåkning av stamfisk og rogn som går ut i markedet. Når det gjelder bekjempelse er det for 
+stamfisk en nulltoleranse, den vertikale smitteoverføringen gjør at det å holde stamfisk-
+populasjonene fri for BKD er det viktigste, forebyggende bekjempelsestiltaket. Et vanlig tiltak er å 
+intensivere overvåkingen vår og sommer før stamfisken overføres til ferskvann. Da kan en oppdage 
+BKD så tidlig at den påtenkte stamfisken stadig er mulig å slakte og erstatte med en smittefri 
+populasjon. Dette vil begrense tapene sterkt. De siste tre årene har det vært flere påvisning av BKD i 
+sjøfase fra PO6 og sørover uten at en tydelig årsak til primær smittekilde er kjent. Men smitterisiko til 
+settefiskanlegg i nord anses som ubetydlelig. På bakgrunn av dette ser vi ikke at det er nødvendig å 
+iverksette ytterligere tiltak overfor denne sykdommen utover de som allerede er implementert i 
+driften på anlegget hvor det skal være mulig å gjennomføre gode generelle smittehygieniske tiltak på 
+alle nivåer.  
+Bakterien Branchiomonas cysticola som forårsaker sykdommen Epiteliocystis er av mange 
+settefiskanlegg ansett som den sykdommen som har ført til størst helse- og velferdsmessige 
+problemer de siste årene. Bakterien forårsaker en kraftig gjellebetennelse hos fisk og har vist seg å 
+trives å oppformeres særlig godt i resirkulert vann. Bakterien er funnet i ferskvannskilden til flere 
+anlegg på villfisk og blir ført inn i anleggene regelmessig gjennom vanninntaket. Bakteriene har 
+erfaringsmessig forårsaket mindre utfordringer i gjennomstrømningsanlegg, men en kan ikke 
+utelukke at gjenbruk av vann gir større risiko for eventuell oppformering og høyere smittepress enn 
+en avdeling med full gjennomstrømning. Siden ferksvannskilden til Sisomar har oppgang av anadrom 
+fisk har de en inntaksbarriere bestående av UV-behandling. Per dags dato er det ikke kjent hvilken 
+UV-dose som tar knekken på bakterien og det er derfor usikkert om barrieren på inntaksvann vil 
+inaktivere bakterien. Basert på erfaringer fra anlegg med høyere smittebarriere vil ikke denne dosen 
+inaktivere bakterien. Forebyggende tiltak som er iverksatt mot pox vil også ha betydning mot andre 
+agens som branchiomonas.  
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+29 av 44 
+Erfaringene fra andre anlegg som har vært igjennom en sanering på bakgrunn av denne sykdommen 
+og i ettertid fulgt opp patogenstatusen gjennom et overvåkningsprogram, har vist at bakterien etter 
+en sanering blir fjernet, men at den senere sakte men sikkert dukker opp igjen i anleggene. Det er 
+vist at gode miljøforhold holder nivåene av denne bakterien lave i anleggene og at man slik unngår 
+nytt utbrudd. Med bakgrunn i de overnevnte faktorene er det en risiko for utbrudd av epiteliocystis, 
+forårsaket av B. Cysticola, hos Sisomar AS, men den anses som liten og kontrollerbar.   
+Sannsynligheten for påvisning av HSMB i Sisomar sitt anlegg er ikke ubetydelig, da denne 
+sykdommen de siste årene har blitt svært utbredt i norsk oppdrettsnæring. Piscint orthoreovirus 
+(PRV) er et svært utbredt virus hos oppdrettet og vill atlantisk laks i Norge og påvises svært hyppig og 
+i en stor andel hos stamfisk. Stamfiskprodusenter har i dag store utfordringer knyttet til å levere rogn 
+fra foreldrefisk som er testet negativ for PRV-viruset. Dette har ført til at mange produsenter som 
+ønsker PRV-fri rogn ikke får dette. Dette innebærer at viruset ofte blir brakt inn i 
+ferskvannsanleggene på denne måten. HSMB påvises oftest hos ung laks i sjøvannsfase, men også i 
+ferskvann. Sykdommen gir moderat, men varierende grad av dødelighet, og i kombinasjon med 
+stress og håndtering blir utfallet gjerne mer alvorlig. Rammet fisk får ofte større 
+sirkulasjonsforstyrrelser og skader i hjertemuskulaturen som igjen fører til opphopning av væske i 
+bukhulen. Skader i skjelettmuskulaturen gjør at fisken ikke er like aktiv som vanlig. At HSMB-utbrudd 
+i sjøen kan kobles til settefiskanlegg i form av sykdomsfrie virusbærere vurderes som svært 
+sannsynlig. I anlegg som ikke utarbeider og legger til rette for gode rutiner for å kunne legge 
+avdelinger brakk og få sanert hele avdeling og tilhørende utstyr samt kar, så kan man i teorien 
+opprettholde og spre videre et virus som PRV-viruset. PRV ble påvist i fiskegruppen stor høst 23, som 
+var yngel kjøpt fra SalMar, viruset er ikke funnet i yngre fiskegrupper til tross for hyppig screening. 
+Dette er en indikasjon på at rutiner på vask og desinfeksjon er gode. Sisomar er av den oppfatning at 
+de tiltak som er planlagt og de driftstiltak knyttet til gode screening og desinfeksjonsrutiner som er 
+implementert i driften gjør at denne sykdommen også vil kunne håndteres på en god måte.  
+CMS, eller “hjertesprekk”, har vært kjent i hele oppdretts Norge siden 1985, men PMCV (piscint 
+myokardittvirus) som ser ut til å forårsake sykdommen ble ikke identifisert før i 2010. CMS er et av de 
+større sykdomsproblemene innenfor norsk lakseoppdrett. Sykdommen fører til redusert fiskevelferd 
+og dødelighet for et høyt antall fisk hvert år, samt betydelige økonomiske tap for næringen. I 
+Fiskehelserapporten for 2018, fremheves CMS som den viktigste infeksiøse sykdommen i norsk 
+lakseoppdrett etter lakselus. I 2003 ble de direkte årlige kostnadene grunnet CMS, beregnet til å ligge 
+på mellom 33,5 og 66,3 millioner norske kroner for industrien som helhet. Dette da det i all hovedsak 
+er stor fisk som rammes av sykdommen. Etter 2007 har antall CMS tilfeller registrert hos 
+Veterinærinstituttet og private laboratorier, gått fra under 70 til over 100 per år. CMS er derfor 
+uomtvistelig en av de største tapsfaktorene i norsk oppdrettsnæring. CMS-utbrudd og CMS-relatert 
+patologi er ikke beskrevet fra settefiskanlegg. Viruset PMCV blir imidlertid påvist i form av positive 
+PCR resultat i denne fasen og en nylig avsluttet studie har vist at infisert stamfisk har overført viruset 
+til befruktede egg. Dette indikerer at viruset kan være vertikalt overførbart. Det anses som lav 
+sannsynlighet at CMS vil gi sykdomsutfordringer på Sisomar, dette siden sykdommen som regel 
+rammer stor og hurtigvoksende fisk sent i produksjonsforløpet.  
+Ved bruk av sjøvann har en opplevd økt forekomst av sårutfordringer forårsaket av bakterier som 
+Moritella viscosa, Tenacibaculum finnmarkense og Aliivibrio wodanis. Bakterielle sårutfordringer har 
+hovedsakelig skapt utfordringer over 20 promille og ved lave temperaturer under 7 grader. Hall H 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+30 av 44 
+skal produsere storsmolt på 12 grader ved bruk av 15 promille, hvor det er mulighet til å redusere 
+promille ytterligere ved behov. Basert på tidligere erfaringer vil ikke bakteriene trives og kunne 
+forårsake utbrudd av sykdom ved disse forholdene. Viktige betingelser for å redusere sannsynlighet 
+og konsekvens av oppformering av opportunisme bakterier i hall H er god partikkelrensing og 
+forsvarlig oppholdstid på vannet (maks 100 min). Partikler kan bli problematisk både for gjellehelse 
+og oppblomstring av mikroorganismer. Sisomar har bygget kar som er designet med tanke på god 
+egenrensning og god partikkelfjerning i form av trommelfilter med 30 my duk på vann som 
+gjenbrukes. Med driftsbetingelser nevnt over anser DNV det som lite sannsynlig at det skal oppstå 
+sårproblematikk i hall H og andre avdelinger på lokaliteten.  
+Anlegget påviser ektoparasitten Ichthyobodo salmonis/ «Costia» i ulike deler av produksjonen. Dette 
+er en bønneformet flagellat på størrelse med en blodcelle som kan forekomme i både fersk- og 
+sjøvann. Hos yngel i ferskvann er det oftest problemer med costia på hud, og fører til økt 
+slimproduksjon, epidermishyperplasi og epitelavstøtning. Kløe og irritasjon kan føre til at fisken 
+skrubber seg langs karvegg, slik at «blinking» i kar observeres. Dersom det blir mye parasitter vil en 
+oppleve redusert appetitt, forøket dødelighet og nedsatt velferd i besetningen. I sjøvann, hos større 
+fisk, forekommer costia vanligvis på gjeller og gir gjellebetennelse. Dette fører blant annet til 
+proliferasjon av slimceller, som gir økt slimutskillelse, og hyperplasi av epitelceller. Denne og flere 
+andre parasitter finnes i de fleste ferskvannskilder og kommer inn i anlegget via råvann. Ved gode 
+produksjonsforhold forårsaker vanligvis ikke parasitten større utfordringer. I enkelte deler av 
+produksjonen som oppstart startfôring hvor en må overfôre litt i tillegg til at det er lite fart på vannet 
+er det større risiko for oppblomstring av parasitten. Samme kan gjeldeRi 
+ perioder med overfôring i andre avdelinger, lang oppholdstid på vannet og andre årsaker med 
+suboptimale miljøforhold. Ved indikasjon benyttes aquacen formalaldehydo for å bekjempe 
+parasitten. Sisomar har hatt utfordringer med denne parasitten og benytter i dag jevnlig PCR-
+screening for å undersøke tilstedeværelse av parasitten. Ved positiv påvisning blir det foretatt 
+behandling for å få bukt på parasitten så tidlig som mulig. Dette er et effektivt tiltak. Dersom en 
+opplever relativt hyppige og gjentatte utfordringer i en eller noen avdelinger kan dette være et tegn 
+på at miljøforholdene ikke er optimale i denne/ disse avdelingene og en bør gå nærmere inn på 
+forebyggende tiltak knyttet til vannforbruk, egenrensing kar, røkterrutiner osv.    
+ 
+D. 
+Mulighet for smittespredning ut av anlegget 
+ 
+1. 
+Mulighet for smitte til annen akvakulturvirksomhet  
+En biosikkerhetsplan skal også etablere løsninger, systemer og rutiner som bidrar til å redusere eller 
+fjerne risikoen for spredning av smittsom sykdom til de allerede eksisterende 
+akvakulturvirksomhetene i det aktuelle området. For landbaserte anlegg vil vanninntaket kunne 
+utgjøre en stor risiko for å introdusere smitte inn i anlegget, og utløpsledningen vil potensielt kunne 
+lede store mengder smitte ut av anlegget. Siden vanninntak og avløp representerer de to områdene 
+hvor det er størst sannsynlighet for smitteintroduksjon og videre spredning, vil plasseringen av disse 
+være viktig for sannsynligheten knyttet til smitte til/fra andre lokaliteter i sjø og til/fra eventuelt 
+andre nærliggende landbaserte anlegg. Lokale strømningsmønster (vertikale og horisontale) vil ofte 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+31 av 44 
+være mer avgjørende for vannslektsskap og reell smitterisiko enn absolutte avstander i sjøavstand 
+eller luftlinje. 
+I Mattilsynets retningslinjer i forhold til saksbehandling av etableringssøknader knyttet til 
+akvakulturanlegg, Retningslinje til behandling av søknader etter forskrift 17. juni 2008 nr. 823 om 
+etablering og utvidelse av akvakulturanlegg, zoobutikker m.m. sier under punkt 6. om anbefalte 
+minsteavstander for landbaserte stamfisk- og yngel/settefiskanlegg, står det at: 
+«Punkt 6.1 Generelle forhold 
+Alle søknader om etablering eller utvidelse av akvakulturanlegg må være gjenstand for en konkret 
+vurdering i det enkelte tilfellet, med særlig vekt på avstand til andre anlegg inkludert grupper av 
+anlegg, annen akvakulturrelatert virksomhet og vassdrag, se § 7 andre ledd. Det er ikke fastsatt 
+konkrete avstandskrav i kilometer i forskriften. De anbefalte minsteavstandene angitt i retningslinjen 
+er derfor ikke konkrete avstandskrav som alene er avgjørende for om en nyetablering eller utvidelse 
+av et akvakulturanlegg innebærer uakseptabel risiko for spredning av smitte. De anbefalte 
+minsteavstandene er retningsgivende og må vurderes ut fra kunnskap om strømforhold, 
+smittespredningsmodeller og lokale erfaringer med smitteforebygging og sykdomskontroll. Det kan i 
+enkelte tilfeller foreligge spesielle forhold med hensyn på strømforhold, bunntopografi og 
+omkringliggende geografi, som kan legitimere både kortere og lengre avstander. Behandling av 
+inntaks- og/eller avløpsvann utover det som følger av vanlige driftskrav, kan legitimere kortere 
+avstander. En søknad om etablering eller utvidelse av akvakulturanlegg som ikke tilfredsstiller de 
+anbefalte minsteavstandene kan derfor ikke automatisk avslås kun med henvisning til konkrete 
+avstandskrav. Likeledes kan det ikke automatisk gis godkjenning til etablering eller utvidelse av 
+akvakulturanlegg i tilfeller hvor de anbefalte minsteavstandene tilfredsstilles.» 
+ 
+ 
+Punkt 6.7 Landbaserte stamfisk- og yngel/settefiskanlegg (alle arter) – anbefalte minsteavstander 
+ «Som hovedregel kan søknad om etablering eller utvidelse av landbaserte stamfisk- og 
+yngel/settefiskanlegg gis godkjenning, dersom øvrige krav oppfylles og forutsatt at et eventuelt 
+sjøvannsinntak oppfyller følgende anbefalte minsteavstander i forhold til andre oppdrettsaktiviteter:  
+Anbefalt minsteavstand på 5 km i sjø til: fiskeslakterier/tilvirkingsanlegg, fiskeoppdrettsanlegg og 
+notvaskerier. Anbefalt minsteavstand på 2,5 km i sjø til: viktige transportruter (farleder) for levende 
+laksefisk.  
+For landbaserte stamfisk- og yngel/settefiskanlegg skal plasseringen av avløpsledningen vurderes på 
+tilsvarende måte som for landbaserte matfiskanlegg. Ved etablering av nye yngel/settefiskanlegg bør 
+det også gjøres en vurdering av muligheten til å transportere fisk ut av anlegget på en smittemessig 
+forsvarlig måte.» 
+Følgende akvakulturlokaliteter kan i teorien være utsatt for opptak av smitte via avløpsvannet fra 
+Sisomar: 
+• 
+Kines (Lok nr: 13297), er lokalisert ca. 11 (km nord for utslippspunkt til Sisomar i 
+luftlinje. 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+32 av 44 
+• 
+Nedre Kvarv (Lok nr: 10513), er lokalisert ca. 12 km nord for utslippspunkt til Sisomar 
+i luftlinje.  
+Det er foretatt simulering med utslippsrate på 260 m3 /minutt fra anleggets nåværende 
+utslippsposisjon. Resultat fra modellering viser at utslippet spres og fortynnes ut over hele den indre 
+delen av fjorden, rundt utslippspunktet og langs med land i øst. Spredningen varierer sterkt med det 
+halvdaglige tidevannet. De høyeste konsentrasjonene i overflaten opptrer i perioder med lite 
+ferskvannstilsig. Det er lave konsentrasjoner av utslippsvann utover i fjorden i de dypeste områdene. 
+Utslippet kan bevege seg opptil 2.0 km nordover fra inntaksposisjonene før konsentrasjonen kommer 
+under 1.0 %. Langs vestsiden av fjorden kan utslippet bevege seg opptil 500 m fra inntaksposisjonene 
+før konsentrasjonen er under 1.0 %. 
+Lokalitetene Kines og Nedre Kvarv                                                                                                                                                     
+Hvis vi starter med den nærmeste aktive lokaliteten for laksefisk i sjø, lokaliteten Kines, så ligger 
+denne ca. 11 km unna avløpet til Sisomar. Smitterisiko til lokaliteten Nedre Kvarv vil være relativt 
+tilsvarende. Avstand mellom utslippspunkt og nærmeste lokaliteter er godt over anbefalt 
+minsteavstand. Modellering viser at med modellert mengde utslippsvann så vil konsentrasjon 
+komme under 1% opptil 2 km nordover i fjorden, på vestsiden av fjorden er konsentrasjonen av 
+utslipp mindre enn 1% når det er transportert mer 500 meter fra utslippspunktet. Basert på figur 8 er 
+det lite vannkontakt mellom Sisomar sitt avløpsvann og omkringliggende lokaliteter. Sisomar har som 
+mål å produsere uten at smittsom sykdom er tilstede i anlegget og har gode rutiner for nedvask av 
+avdelinger.  
+På bakgrunn av resultat fra modellering, lang avstand til andre anlegg og gode rutiner for 
+overvåkning og bekjempelse av smittsom sykdom er det DNV sin oppfatning at utvidelse av Sisomar 
+ikke vil påvirke akvakulturanlegg i nærområdet i nevneverdig grad som følge av vannkontakt.  
+ 
+ 
+Figur 8 Vannkontakt vil ha stor betydning for i hvilken grad vanninntaket utsettes for patogener. I denne sammenheng må 
+en også vurdere biosikkerhetsrisiko og sannsynlig mengde av patogener i avløpsvannet. Det er redegjort skjematisk for grad 
+av vannkontakt i figuren over («Enkel beskrivelse av grad av vannkontakt, Åkerblå mars 2022») 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+33 av 44 
+ 
+2. 
+Smitterisiko til villfisk 
+ Anadrome vassdrag i nærheten av Sisomar 
+Lokaliteten Sisomar ligger i den innerste fjordtarmen i Sørfolda (Sørfoldbukta), med fjordene 
+Tørrfjorden og Nordfjorden i relativ nærhet. I denne delen av Sørfolda er det tre vassdrag med 
+oppgang av anadrom fisk, Laksåga i Nordfjorden, Lakselva (Valljorda) og Straumenvassdraget, som 
+ligger i umiddelbar nærhet til anlegget. Anleggets plassering i nærheten av anadrome vassdrag gjør 
+at oppdrettsfisk på Sisomar både kan bli påvirket av økosystemet rundt via ferskvann og sjøvann, 
+samt at oppdrettsfisk på Sisomar kan påvirke økosystemet via avløpsvannet som slippes ut i fjorden. 
+ 
+Figur 8. Bildet viser de overnevnte anadrome vassdragene i nærheten av Sisomar. Laksåga i nord, Lakselva i vest og 
+Straumenvassdraget i umiddelbar nærhet til anlegget. (https://lakseregisteret.statsforvalteren.no/) 
+Laksåga 
+Laksåga har utløp innerst i Nordfjorden, om lag 11 km fra utslippspunktet for avløpsvannet fra 
+Trolllbukta. Elva har en lakseførende strekning på 6,2 km og huser en bestand av laks og sjøørret. 
+Bestandstilstanden er vurdert til svært dårlig for laks (2015-2019), og moderat for sjøørret (2021). 
+Påvirkningsfaktorer som ble vurdert å ha effekt på laksen var rømt oppdrettslaks, lakselus og 
+vannkraft, der alle ble vurdert til moderat effektgrad. For sjøørret er lakselus vurdert til moderat 
+påvirkningsgrad, mens vannkraft er vurdert til å ha stor påvirkningsgrad på bestanden. Elva ble 
+vannkraftutbygd i 1999. (https://lakseregisteret.statsforvalteren.no/) 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+34 av 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 9. Lokalisering og bestandsvurdering av anadrome fiskebestander i Lagsåga. 
+(https://lakseregisteret.statsforvalteren.no/) 
+ 
+Lakselva (Valljorda) 
+Lakselva har sitt utløp et par kilometer fra utslippspunktet for avløpsvann fra Trollvika. Elva har et 
+lakseførende strekke på 2,8 km, og huser en bestand av laks og sjøørret. Bestanden av laks er vurdert 
+til moderat (2015-2019), mens den er vurdert til dårlig for sjøørret (2021). Påvirkningsfaktorer som 
+ble vurdert å ha effekt på laksen var rømt oppdrettslaks og lakselus, henholdsvis til liten og moderat 
+grad. For sjøørret er lakselus vurdert til moderat påvirkningsgrad for bestanden 
+(https://lakseregisteret.statsforvalteren.no/). 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+35 av 44 
+ 
+ 
+Figur 10. Lokalisering og bestandsvurdering av anadrome fiskebestander i Lakselva (Valljorda) 
+(https://lakseregisteret.statsforvalteren.no).  
+ 
+Straumenvassdraget 
+Straumenvassdraget har sitt utløp under én kilometer fra Sisomar, og om lag 1,5 km fra 
+utslippspunktet for avløpsvannet fra anlegget. Elva har et kort elvestrekke, men med vannet tatt med 
+i betraktningen, er lengden på det anadrome strekket 6 km. Elva har ikke en selvproduserende 
+laksebestand, men det er sjøørret og sjørøye i vassdraget. Sjøørretbestanden ble vurdert til å være 
+moderat i 2021, der fangstpåvirkning, lakselus og vannkraftutbygging ble vurdert som 
+påvirkningsfaktorer (liten, moderat og stor grad). For sjørøya ble bestanden i 2013 vurdert til 
+hensynskrevende (som befinner seg mellom redusert og svært god), og lakselus er vurdert som 
+avgjørende påvirkningsfaktor (https://lakseregisteret.statsforvalteren.no/). 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+36 av 44 
+ 
+ 
+Figur 11. Lokalisering og bestandsvurdering av anadrome fiskebestander i Straumenvassdraget 
+(https://lakseregisteret.statsforvalteren.no/). 
+ 
+G.2 Smitterisiko fra oppdrettet laks til vill anadrom laksefisk eller andre arter 
+De siste 10 årene har 14-20 % av all oppdrettsfisk i Norge gått tapt i løpet av produksjonssyklusen 
+(https://www.barentswatch.no/havbruk/fiskedodelighet-og-tap-i-produksjonen). Dette tapet består 
+av dødfisk, utkast, rømming og annet ikke-kategorisert svinn. Den helt klart største årsaken for tapet 
+er dødfisk. I Fiskehelserapporten for 2017 er tap som følge av skader og sykdom vurdert til å utgjøre 
+hele 88 % av svinnet i næringen (Hjeltnes et al. 2018). Det er vanskelig med full sikkerhet å fastslå 
+hvor stor del av svinnet som utelukkende skyldes smittsom sykdom, dødelighetsårsakene er 
+sammensatte, men det er all grunn til å gå ut fra at en svært høy andel av tapet i norsk 
+oppdrettsnæring er forårsaket av smittsom sykdom. 
+Patogener, smitte og sykdom vil forekomme i både tamme og ville dyrepopulasjoner. Det vil 
+imidlertid være slik at tette dyrepopulasjoner, som en har i oppdrett, vil øke risiko for stor 
+smitteoppformering med påfølgende sykdomsutbrudd og smittespredning, dette gjelder både for 
+parasitter, virus og bakterier. I tillegg til økt risiko for sykdomsutbrudd, vil en tett populasjon av 
+verter kunne endre selve patogenet, eksempelvis i form av at parasitter i større grad tilpasses arten 
+eller at bakterier og virus smitter lettere, blir mer patogene eller i større grad kan krysse artsbarrierer 
+(Smitte mellom oppdrettsfisk og villfisk – 2018).  
+Det er sannsynlig at det spres betydelige mengder patogener til miljøet fra smittet og syk fisk i 
+oppdrett, og at villfisk som oppholder seg i nærheten av oppdrettsanlegget kommer i kontakt med 
+patogenene (Risikorapport norsk fiskeoppdrett 2018). 
+Vi har ikke tilsvarende oversikt over sykdom i ville populasjoner som i oppdrett. Dette skyldes at det 
+er langt mer krevende å få oversikt over sykdomssituasjonen på villfisk enn i oppdrett, siden det aller 
+meste av syk fisk vil dø og gå tapt uten mulighet til at en avdekker eller får tatt prøver av den syke 
+delen av villfiskpopulasjonen. «Kunnskap om helse hos villfisk og hvordan denne påvirkes av 
+infeksjoner i fiskeoppdrett er dermed fragmentert og mangelfull» (Smitte mellom oppdrettsfisk og 
+villfisk – 2018).  
+Havforskningsinstituttet skal være den ledende kunnskapsleverandøren for myndighetene for å sikre 
+bærekraftig forvaltning av marine økosystemer. I sine årlige Risikorapporter norsk fiskeoppdrett, 
+gjennomgår Havforskningsinstituttet risikofaktorer knyttet til effekter av lakselus, patogener og 
+genetisk påvirkning på ville anadrome bestander. I og med at Sisomar er et settefiskanlegg vil det i 
+teorien kunne oppstå rømming av fisk i forbindelse med levering. En mulig rømming vil kunne påvirke 
+ville laksestammer, og må naturligvis unngås. Hvorvidt nærliggende vassdrag er mer utsatt enn andre 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+37 av 44 
+ved rømming er usikkert, men i og med at det er smolt som produseres, vil fisken trolig kunne vandre 
+langt og oppholde seg lenge i havet, før den eventuelt returnerer til ferskvann. 
+I rapporten for 2018 ble det gjort relativt inngående risikovurderinger av spredning av alle de mest 
+sentrale patogene fra oppdrett til villfisk nasjonalt og i ulike områder. Risikovurderingen var basert 
+på sykdomssituasjonen i næringen i 2018, vandringsmønsteret til laks og ørret, funn av patogener i 
+villfisk og andre sentrale forhold av betydning for de ulike sykdommene. I det følgende gjengis 
+konklusjoner fra rapportene knyttet til de mest sentrale sykdomsutfordringene i norsk 
+oppdrettsnæring i sin helhet i kursiv, risikovurderingene som ligger bak er å finne i Risikovurderingen 
+for norsk oppdrett utført av Havforskningsinstituttet i 2018. For ILAV og SAV er det også gjort 
+vurderinger i årene etter 2018 og i det følgende er risikovurderingen for 2022 gjengitt i kursiv. Det er 
+også gitt kompletterende vurderinger fra DNV knyttet til det aktuelle anlegget Sisomar, for agens der 
+dette vurderes som relevant som følge av anleggstype, geografi eller andre forhold. 
+ 
+Nasjonal risikovurdering ILAV-smitte fra oppdrett  
+ILAV regnes som svært smittsomt. Strenge tiltak er positivt for smittepresset, og områder med få 
+tilfeller forventes å ha lavt smittepress. I områder med moderat til høyt smittepress vil tiltak bare 
+delvis avbøte, og smittepresset vil øke tilsvarende. Laks i alle livsstadier er mottakelige for smitte, og 
+konsekvensene av smitte er fra laboratorieforsøk og oppdrett kjent som alvorlige. Overvåkingsdata 
+viser på sin side få funn av ILAV i villaks, og disse er mest trolig ikke-virulent ILAV. Totalt sett vurderes 
+risikoen for endring i forekomst av ILAV hos villfisk som følge av smitte fra oppdrettsfisk som lav, 
+moderat eller høy, for de tre ulike scenariene. Svak kunnskap om flere av de underliggende faktorene 
+gjør at kunnskapsstyrken totalt sett vurderes som svak, noe som også reflekteres i mulighetene for 
+negative overraskelser. (Havforskningsinstituttet 2022). 
+ 
+Konkret vurdering ILA/HPR0 
+ILA tilfeller i sjø er i stor grad knyttet til grupper sent i produksjonssyklus som har vært utsatt for 
+betydelig håndtering. Det er også bekymring for at RAS-teknologi og oppformering av smittepress 
+kan være predisponerende for senere utvikling av ILA. Risikoen for utvikling av ILA hos fisk i anlegget 
+er ansett som lav all den tid inntaksvann desinfiseres og rogn/fisk screenes regelmessig. Det har vært 
+sporadiske påvisninger av ikke-virulent ILAV (HPR0) i anlegget, men med bakgrunn i anleggets 
+driftsform og rutiner med nedvask, vil det være lite sannsynlig med opphopning av HPR0. 
+Avløpsvannet partikkelfjernes, men desinfiseres ikke, så spredning av HPR0 til miljøet er ikke umulig. 
+ILAV finnes hos villfisk, og HPR0 som finnes hos oppdrettsfisk er antatt å ha sitt opphav fra ville 
+bestander. Konsekvensen av eventuelle utslipp av HPR0 til miljøet er usikker, men gitt anleggets 
+tiltak for å sikre ILAV-fri fisk, vil eventuell tilstedeværelse av viruset trolig være av lave nivåer.  
+Risikovurdering SAV (Havforskningsinstituttet 2022) 
+SAV regnes for å være svært smittsomt og det er moderat smittepress i hele det endemiske området. 
+Laks i alle aldre er mottakelig for smitte, og konsekvensen av smitte er fra eksperimenter og oppdrett 
+kjent som alvorlig. Til tross for at det dermed skulle ligge godt til rette for smittespredning fra 
+oppdrett til villaks, gjenspeiles ikke dette i våre overvåkings- eller forskningsdata for perioden 2012-
+2021, der det er få eller ingen tilfeller av SAV-smitte i villaks. Årsaken til dette avviket vites ikke, og vi 
+tar derfor hensyn til dette i vår vurdering. Totalt sett vurderes risikoen for endring i forekomst av 
+SAV2 og SAV3 hos villfisk som følge av smitte fra oppdrettsfisk som moderat for PO2-6. Det er 
+mangelfull kunnskap både om konsekvensene av smitte hos villaks og om smittepresset på villaks. 
+Totalt sett vurderes kunnskapstyrken som svak. 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+38 av 44 
+ 
+Konkret vurdering SAV 
+SAV har ikke etablert seg i Nord-Norge da enkelte påvisninger er blitt bekjempet med rask 
+nedslaktning og grundig overvåkning av nærliggende lokaliteter. Det har vært påvist svært få tilfeller 
+av SAV i landbaserte anlegg på tross av omfattende screening. Det er ikke grunn til å tro at det 
+landbaserte anlegget vil representere en smitterisiko for villfisk med hensyn til SAV.  
+ 
+Risikovurdering PRV (DNV 2022) 
+PRV er et av de vanligste forekommende virus i norsk oppdrettsnæring. Viruset forårsaker den ikke-
+meldepliktige sykdommen HSMB, men er også ofte ikke assosiert med klinisk sykdom. PRV er utbredt 
+i villfisk og er påvist i både tilbakevendende laks og i smolt (Havforskningsinstituttet 2018). Viruset 
+forekommer i flere varianter der PRV 1 er assosiert med HSMB, mens PRV3 gir HSMB-lignende 
+sykdom hos regnbueørret. Studier har vist at ørret og sjøørret er mindre mottagelige for PRV1 enn 
+laks, og prevalens i sjøørret har tidligere vært kartlagt til 1-3 %. I forbindelse med helseovervåkingen i 
+2017 ble imidlertid PRV3 påvist hos sjøørret i 15 av 21 elver (Hjeltnes et al. 2018). PRV3 anses derfor 
+for å være vanlig forekommende hos sjøørret, i motsetning til PRV1. Laks har vist seg å være mindre 
+mottakelig for PRV3, og viruset ble ikke påvist hos sjørøye eller brunørret.  
+ 
+ 
+Konkret vurdering PRV 
+Anlegget har som mål å ta inn PRV-fri rogn, men viruset overføres vertikalt via stamfisk, og risikoen 
+for påvisning i anlegget er derfor til stede (PRV1). Med bakgrunn i anleggets driftsform og rutiner for 
+nedvask er risikoen for en husstamme av viruset imidlertid liten. Eventuell spredning av PRV1 fra 
+anlegget er ansett for å ha liten konsekvens for villfisk, all den tid reservoaret i sjøen allerede er stort, 
+samt at smitterisiko til sjøørret og sjørøye er vurdert til lav. 
+ 
+Risikovurdering PMCV (Havforskningsinstituttet 2018) 
+Det er sannsynlig at PMCV slippes ut i betydelige mengder, spesielt i PO5-6 og at villfisk blir 
+eksponert. Det er stor variasjon i konsekvensene av smitte, men villfiskdata indikerer at det ikke skjer 
+omfattende oppsmitting selv i kjerneområdene for sykdommen. Risikoen for bestandsreduserende 
+effekter av PMCV vurderes derfor som lav for laks. Det er ikke mulig å vurdere risiko for sjøørret og -
+røye og juvenile stadier med dagens kunnskapsnivå.  
+• 
+Konkret vurdering PMCV 
+PMCV har sporadisk blitt påvist på flere settefiskanlegg ved screening, men sykdom har ikke blitt 
+assosiert med påvisningene. Anlegget har som mål å ta inn PMCV-fri rogn og stamfisk screenes. 
+Risiko for smitte til miljøet forventes å være svært lav. 
+ 
+Risikovurdering IPNV (Havforskningsinstituttet 2018) 
+Konsekvensene av IPNV-smitte er høy i noen livsstadier av laks, spesielt yngel og postsmolt. Som følge 
+av at det over lang tid ikke er funnet indikasjoner på omfattende oppsmitting av laks, eller andre 
+arter, samt at det i dag er et moderat antall utbrudd, vurderes risikoen for populasjonsreduserende 
+effekter på laks som følge av IPNV som lav. Det er ikke mulig å vurdere risiko forbundet med IPNV for 
+andre ville laksefisk. Som følge av redusert antall utbrudd av IPN i de senere år ansees risikoen som 
+synkende. 
+ 
+ 
+ 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+39 av 44 
+Risikovurdering Tenacibaculum (Havforskningsinstituttet 2018) 
+Risikoen for bestandsreduserende effekter av Tenacibaculum spp. fra oppdrett vurderes som lav. 
+Basert på smitteforsøk, nåværende kunnskap om smitte og mottakelighet, samt at sjøørret som 
+eksponeres om vinteren ofte står i brakkvann, vurderes også usikkerheten som lav. 
+ 
+Risikovurdering Moritella viscosa (Havforskningsinstituttet 2018) 
+Risiko for bestandsreduserende effekter på villfisk som følge av M. viscosa-infeksjoner i oppdrett 
+vurderes som lav for alle produksjonsområder. Usikkerheten i vurderingen er lav som følge av at en 
+begrenset mengde villfisk vil kunne bli eksponert, samt at sårutvikling hos oppdrettsfisk ofte har 
+sammenheng med håndtering. 
+ 
+ 
+Risikovurdering F. psychrophilum (Havforskningsinstituttet 2018) 
+Risikoen for at virulente F. psychrophilum fra regnbueørret har bestandsreduserende effekter på ville 
+laksefisk i Norge er neglisjerbar. Som følge av at F. psychrophilum-infeksjoner i liten grad har 
+konsekvenser for norske laksefisker vurderes usikkerheten som lav. 
+ 
+ 
+Konkret vurdering Flavobacterium psychrophilum 
+Det er planlagt for oppdrett av laks i anlegget, ikke regnbueørret. 
+ 
+Risikovurdering Yersiniose (Havforskningsinstituttet 2018) 
+Risikoen for at Y. ruckeri i oppdrett skal forårsake bestandsreduserende effekter på vill laksefisk 
+vurderes som lav langs hele kysten. Usikkerheten i vurderingen anses for å være lav, med unntak av i 
+hovedområdene for yersiniose.  
+ 
+ 
+Konkret vurdering Yersiniose 
+Antall påvisninger av sykdommen har generelt sett gått ned i takt med vaksinering og den utgjør nå 
+et lite problem i oppdrett av laks. Anlegget skal ta inn yersinia-fri rogn og dersom det er mistanke om 
+bakterien . Anleggets driftsform, desinfeksjon av inntaksvann og rutiner ved nedvask gjør at risikoen 
+for at sykdommen vil påvises som liten. Potensiell smitte til villfisk er derfor å anse som svært lite 
+sannsynlig. Ved et eventuelt problem i anlegget som følge av Yersinia vil nedvask og innføring av nye 
+vaksinerutiner trolig ha god effekt. 
+ 
+Risikovurdering Pasteurella (DNV 2022) 
+Pasteurellainfeksjoner er en økende utfordring i norsk oppdrettsnæring og det har vært observert 
+tilfeller nord til Romsdal. Sykdommen er per nå ikke tilstedeværende i Nord Norge og basert på dette 
+vurderes risiko for smittespredning til villaks som svært lav. Usikkerheten i vurderingen anses som 
+lav.   
+ 
+Risikovurdering Epiteliocystis (Havforskningsinstituttet 2018) 
+Risiko for bestandsreduserende effekter av epiteliocystis kan ikke vurderes som følge av manglende 
+kunnskap om konsekvenser for villfisk. 
+ 
+Risikovurdering Lakselus (Havforskningsinstituttet 2018 og DNV 2022) 
+Erfaringer med lakselus og vitenskapelige undersøkelser tyder på at lakselus er en betydelig 
+utfordring for vill laksefisk gjennom påvirkning av utvandrende laksesmolt. Basert på eksisterende 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+40 av 44 
+kunnskap, er det lagt til grunn at laksesmolt har høy sannsynlighet for dødelighet ved mer enn 0,3 lus 
+per gram fiskevekt (lus/g) hvis disse utvikler seg til mobile lus (Havforskningsinstituttet 2018).  
+Data innhentet av Havforskningsinstituttet for 2018 indikerte liten risiko for dødelighet på 
+postsmolten i Rogaland, høy dødelighet i Hardanger og Sogn, deretter lavere, men tidvis moderat i 
+Romsdalsfjorden. Det ble videre observert områder med høyt smittepress fra Rogaland til Nordland, 
+og området med moderat smittepress videre nordover.  
+• 
+Konkret vurdering lakselus 
+Det vil ikke bli spredt lus fra anlegget da det er landbasert, og smitterisiko til nærliggende vassdrag er 
+ikke tilstedeværende. 
+.  
+Risikovurdering P. pseudobranchicola (Havforskningsinstituttet 2018) 
+Parasitten er alminnelig forekommende i villaks og sjøørret, også i oppdrettsfrie områder. Årsaken til 
+sykdommens regionale opptreden er ukjent. På bakgrunn av tilgjengelig kunnskap er det ikke mulig å 
+vurdere risikoen for bestandsreduserende effekter av P. pseudobranchicola-infeksjoner med opphav 
+fra oppdrett. 
+ 
+Risikovurdering Salmonid gill poxvirus (SGPV) (DNV 2022) 
+Poxvirus forekommer hos villaks i de fleste undersøkte elver, og kan ha høy prevalens (eksempelvis 
+46 % i Ranaelva.  Histopatologiske gjelleforandringer (apoptose) forenlig med sykdommen er påvist 
+hos villaks. (Havforkningsintituttet 2018). Fisk i landbasert oppdrett er ikke i direkte kontakt med 
+økosystemet rundt, men kan smitte eller bli smittet via vannet. SGPV smitter horisontalt mellom 
+individer (Wiik-Nielsen et al. 2017), men det finnes ikke kunnskap om virusets overlevelse i vann. 
+Anlegg som er smittet med laksepox anses som mulige smittekilder av SGPV til ville populasjoner, 
+men bevis for dette foreligger ikke. SGPV i settefiskanlegg har sannsynligvis opphav fra vill laksefisk i 
+vannkildene (Kvamme et al. 2017). SGPV er i hovedsak en utfordring i ferskvann og brakkvann, men 
+det er gjort funn av viruset på fisk i sjøvann uten at viruset er knyttet til sykdomsutbrudd i denne 
+delen av produksjonen. Risiko for smitte til miljøet kan ikke utelukkes, men er ansett som lav. 
+Risikovurdering Ichthyobodo salmonis «Costia” (DNV 2025) 
+Costia og flere andre parasitter forekommer i fersk- og sjøvann hvor de hovedsakelig lever av å spise 
+organisk materiale, men påvises også på villfisk uten at det bruker å gi større utfordringer (ref: 
+Skandinavisk Naturovervåkning). I oppdrett er det større sannsynlighet for oppblomstring av disse 
+organismene da det er mer næring tilstede (fôrspill og feces) og flere verter den kan hente næring 
+fra. Smitte med Costia fra lokalitet til sjø vurderes som lav da anlegg iverksetter tiltak i tidlig fase av 
+eventuell påvisning og siden vann fortynnes ut relativt raskt. Dette er også en parasitt som 
+forekommer i vannkildene fra før og risiko og eventuell konsekvens av smitte vurderes som lav.    
+Smitterisiko til anadrome vassdrag og annen villfisk i nærområdet 
+Fiskeoppdrett innebærer tett ansamling av individer og risikoen for infeksjoner og sykdom vil aldri 
+kunne utelukkes helt. Dette medfører også økt risiko for smitte til nærliggende områder, hvis 
+smittsom fiskesykdom skulle oppstå. På grunnlag av risikovurderingene fra Havforskningsinstituttet 
+fra 2018-2022 (se kapittel Vurdering av smitterisiko fra oppdrettet vill laksefisk eller andre arter) er 
+risiko for overføring av smitte vurdert som lav for de fleste agens, moderat for enkelte agens og 
+usikker for enkelte agens fra anlegg i sjø til ville populasjoner. Fra landbaserte anlegg vil smitterisiko i 
+hovedsak være lavere enn fra anlegg i sjø fordi smitterisiko inn til anlegget er lavere enn for anlegg i 
+sjø, fisken i anlegget håndteres mindre enn i sjø og fordi en har betydelig fraseparering av organisk 
+materiale fra utslippsvann som reduserer utslipp av patogener. For lakselus blir risiko for smitte fra 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+41 av 44 
+laks i oppdrett til villaks vurdert som moderat til høy avhengig av område. Det vil derimot ikke være 
+risiko for smitte fra lakselus fra landbaserte anlegg.  
+Modellering viser at spredningen av utslipp varierer i løpet av døgnet og påvirkes av tidevannet, 
+vindpådraget og ferskvannstilsig fra nærliggende elver. For å finne ut i hvor stor grad fjorden blir 
+berørt av utslipp, er gjennomsnittlig konsentrasjon i løpet av året, over hele modellområdet, 
+beregnet. De gjennomsnittlige konsentrasjonene i overflaten er større utbredt enn konsentrasjonene 
+ved bunnen. I overflaten strekker utslippet seg ut av Trollbukta, forbi Ørvika og et lite stykke forbi 
+Måsøya med konsentrasjoner på ≥ 1 %. I retning innover Trollbukta mot elva fra straumvatnet synker 
+konsentrasjonene i overflaten. Ved utslippsposisjonen i Trollbukta er konsentrasjonene litt lavere i 
+overflaten (gjennomsnittlig på ca. 9 %) enn ved bunnen (> 10 %). Ved bunnen er 
+gjennomsnittskonsentrasjonene mindre utbredt enn ved overflaten, og har de høyeste 
+konsentrasjonene rundt utslippsposisjonen og i retning mot elv fra straumvatnet. Gjennomsnittlig er 
+konsentrasjonene på ≥ 1 % i Trollbukta, ut mot spissen av Valljorda og langs med land inn mot 
+Hellandsbukta. 
+ 
+Figur 9 viser gjennomsnittlig konsentrasjon i overflaten (til venstre) og ved bunnen (til høyre) mellom 01.01 – 31.12 2020. 
+Konsentrasjoner av utslippsvann har fargeskala fra 0 til 10 %, konsentrasjon av nitrogen (µgN/L) er vist i midten, og 
+konsentrasjon av fosfor (µgP/L) er vist til høyre. Utslippspunktet er vist med svart prikk. Blå prikk viser inntaksposisjonene. 
+For elva Laksåga vil vandringsruten til villaksen ta den inn mot Nordfjorden flere kilometer fra 
+avløpsrørene, hvor konsentrasjonen av utløpsvannet er lav, anses smitterisikoen til laks og sjøørret i 
+dette vassdraget som liten. For Lakselva (Valljorda) vil anadrom fisk måtte vandre nærmere anleggets 
+utslippssone, men modelleringer viser at konsentrasjonen fra anlegget er lav ved fiskens antatte 
+vandringsrute gjennom hele året. Laksesmolt vil trolig ikke oppholde seg lenge i elvemunningen, men 
+man vet at gyteklar fisk kan oppholde seg her i påvente av økt vannstand. Utslippet følger fjorden og 
+ser ikke ut til å gå inn mot utløpet av Lakselva, slik at risikoen for å smitte fisk som oppholder seg i 
+elvemunningen er her vurdert til liten. For Straumenvassdraget vil anadrom fisk måtte passere 
+avløpspunktet for å komme seg til eller fra elva, og risikoen for smitte er vurdert til å være større for 
+dette vassdraget. Her er det ingen selvproduserende bestand av laks, men sjøørret og sjørøye finnes i 
+vassdraget. Disse er også kjent for å opphold seg nærmere sitt lokale vassdrag i perioden i havet før 
+de returnerer til elven (dette gjelder spesielt sjørøya, som ofte vandrer kortere enn sjøørreten). 
+Risikoen for at fisk fra Straumenvassdraget kommer i kontakt med vann med høye konsentrasjoner 
+av utslipp fra anlegget er derfor definert som høyest, gitt anleggets nåværende plassering av 
+avløpsrør. Det kan heller ikke utelukkes at sjøørret fra de andre nevnte elvene, spesielt da Lakselva, 
+kan utføre næringsvandringer innover i fjordsystemet, noe som kan gjøre at de i perioder kan 
+eksponere seg for smitte fra anlegget. 
+Risiko for negativ miljøpåvirkning på ville laksebestander knyttet til utvidelse av det landbaserte 
+anlegget på lokalitet Sisomar vurderes å variere, der spesielt Straumenvassdraget i umiddelbar 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+42 av 44 
+nærhet til anlegget er vurdert til å være mest utsatt, gitt de nåværende planene om utslippspunkt. 
+Nå er det slik at risiko for sykdom i anlegget i seg selv er lav, med tanke på driftsform, rutiner for 
+inntak av rogn og screening, samt nedvaskrutiner. Det er usikkert hvor mye smitterisikoen av 
+patogener til villfisk vil øke med utvidelse av lokaliteten. Ut fra dagens kunnskap kan det ikke 
+konkluderes med at det ikke er forsvarlig å utvide anlegget uten desinfeksjon av avløpsvann. Det 
+finnes imidlertid risikoreduserende tiltak, og flytting av utslippspunktet til lenger ut i fjorden er et av 
+disse.  
+VII. Plan for overvåkning av smittesituasjon  
+Plan over rutinemessig PCR-screening av aktuelle bakterier og virus gjennom en produksjonssyklus 
+Vertikalt overførbare sykdommer, ekte eller uekte, har fått en stadig større betydning for 
+sykdomsutviklingen både i ferskvannsfasen og sjøvannsfasen. En rekke viktige agens ser ut til å kunne 
+overføres vertikalt og utløser sykdom stadig tidligere i produksjonen. Et ferskt eksempel på dette er 
+PRV-viruset som forårsaker sykdommen HSMB.  Et annet aktuelt virus i denne sammenhengen er ILA-
+viruset. Enten i form av HPR0 eller HPR. 
+Sisomar bruker kun rogn fra norske leverandører. Sykdomskontrollen på norsk stamfisk og 
+rognproduksjon er underlagt egne regler og vurderes som god. Innføring av smittsomme sykdommer 
+med rogn ses imidlertid på som en risikofaktor som det må tas hensyn til. Vertikal overføring av 
+sykdommer er et stadig mer aktuelt tema knyttet til både virussykdommer og bakterielle sykdommer 
+som for eksempel HSMB og yersiniose. Det er satt opp et eget smitteovervåkningsprogram for driften 
+på Sisomar, se figur 10. Dette programmet har som mål å overvåke et visst antall agens gjennom hele 
+produksjonen. Blant disse agens er ILA (HPR0/HPR) og HSMB (PRV) som kanskje sees på som de store 
+vertikalt overførbare utfordringene for smoltanlegg i årene fremover. Basert på tidligere historikk blir 
+det svært viktig med systematisk overvåkning av Poxvirus gjennom hele produksjonen på Sisomar. I 
+tillegg har smitteovervåkningsprogrammet som funksjon å dokumentere at de etablerte 
+smittehygieniske barrierene fungerer. 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+43 av 44 
+ 
+Figur 10 Vider hvordan fiskegrupper undersøkes i henhold til prøvetakningsplan som blir revidert årlig i samarbeid med 
+intern veterinær. Siste revisjon gjennomført 9. oktober 2025. 
+ 
+ 
+VIII. Beredskaps- og tiltaksplaner knyttet til de viktigste 
+prosesstekniske utfordringene og produksjonslidelsene som 
+kan føre til høy dødelighet.  
+Det er ikke bare alvorlige smittsomme sykdommer som skal inkluderes i en biosikkerhetsplan. Det 
+finnes en rekke forskjellige tilstander og hendelser som kan føre til en svært negativ påvirkning på 
+kvaliteten til fisken, gi høy dødelighet og kritiske avbrudd i produksjonen. Vi kan kalle disse 
+produksjonshendelser eller produksjonslidelser. Noen av disse påvirker produksjonen og fisken 
+negativt på en kronisk måte over lengre tid, mens andre har potensial til å drepe all fisk i anlegget i 
+løpet av få timer. Begge typene har et potensial for å påvirke produksjonen betydelig, derfor må de 
+risikovurderes på lik linje med infeksiøse sykdommer. Siden noen av disse hendelsene brått kan føre 
+til svært høy dødelighet, ja sågar til totalhavari på karnivå eller i enkeltavdelinger, så fordrer disse 
+mulige hendelsene en beredskapsplan. De utvalgte produksjonslidelsene som har et mer utstrakt 
+forløp skal dekkes inn med klare tiltaksplaner som implementeres i driften og slik forhindrer at de får 
+en uheldig påvirkning på produksjonen. 
+Sisomar har allerede et velfungerende interkontrollsystem som inneholder relevante dokumenter 
+som beredskapsplan rømming, beredskapsplan massedød og beredskapsplan for utslipp til ytre miljø 
+vurderinger rundt hall H vil bli implementert i disse. 
+Den farlige gassen hydrogensulfid (H2S) produseres av bakterier som bryter ned slam som får ligge i 
+fred og råtne. Det skal ikke mye opphopning og sedimentering av organisk materiale eller slam til for 
+å produsere mengder med H2S som er giftig for fisken. For å kunne produsere H2S trenger bakteriene 
+ 
+ 
+Overordnet biosikkerhetsplan for Sisomar  
+ 
+44 av 44 
+sulfat. Sulfat forekommer både i ferskvann og i sjøvann, men sjøvann inneholder ca. 1000 ganger mer 
+sulfat enn ferskvann, og dette gjør anlegg med sjøvannstilsetning mer utsatt for H2S-problemer enn de 
+som bare benytter ferskvann. Basert på erfaring fra de siste årene er H2S først og fremst et problem i 
+RAS-anlegg, og ikke de mer tradisjonelle gjennomstrømningsanleggene (FT). Dette har sannsynligvis 
+sammenheng med at vannet resirkuleres, og dermed har større sannsynlighet for både å 
+oppkonsentrere H2S i systemet og å føre H2S til fisken. I dag er det mange anlegg som drifter med 
+sjøvann og fokuset ligger på risikoreduserende tiltak som minimerer sannsynligheten for produksjon 
+av gassen. Det viktigste risikoreduserende tiltak er godt anleggsdesign, som sikrer stabil vannbevegelse 
+og fjerning av partikler i alle områder, fornuftige produksjonsrutiner som sørger for god 
+partikkelfjerning og unngå perioder med overfôring, samt regelmessig inspeksjon, vask og desinfeksjon 
+av avdelinger. Hall H skal ha et design som forhindrer opphopning av organisk materiale og Sisomar 
+har gode rutiner for vask og desinfeksjon. På bakgrunn av dette anses ikke H2S som en vesentlig 
+utfordring i hall H.    
+Når det kommer til produksjonslidelser har Sisomar hatt utfordring med nyreforkalkning og HSS i 
+enkelte fiskegrupper. Dette er velkjente produksjonslidelser ved produksjon av storsmolt og DNV har 
+derfor valgt å risikovurdere disse. Nyre forskning viser at begge lidelsene er sterkt forbundet med et 
+vannmiljø som fører til osmoregulatorisk stress. I flere studier er det ikke funnet korrelasjon mellom 
+utvikling av nefrokalsinose og CO2 -konsentrasjon i driftsvannet. Dette indikerer at nefrokalsinose kan 
+ikke relateres kun til forøket CO2 -verdier. Dette samstemmer godt med erfaringer til DNV hvor vi ser 
+en høyere andel av disse produksjonslidelsene i fiskegrupper som ikke har fått et tydelig 
+smoltifiseringssignal eller fiskegrupper som får dette alt for sent i produksjonen, gjerne i kombinasjon 
+med høye temperaturer.  
+Sisomar har den siste tiden endret produksjonsplanen for å få bukt på disse utfordringene. Dette ved 
+å senke temperatur i tidlig livsfase hvor det benyttes maks 6 grader i klekkerifase og maks 12 grader 
+etter at yngel har kommet i gang med fôring. I tillegg har anlegget gått over til lysstyring hvor 12:12-
+regime blir igangsatt når parr er 20 gram. Siden disse tiltakene ble innført har ikke fiskegrupper hatt 
+utfordring med nyreforkalkninger eller HSS. 
+Følgende hendelser/lidelser er valgt ut: 
+• 
+Vedlegg 11: Risikoanalyse – Nyreforkalkning 
+• 
+Vedlegg 12: Risikoanalyse – Hemoragisk smoltsyndrom

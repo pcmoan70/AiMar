@@ -1,0 +1,253 @@
+﻿1 
+ 
+Averøy Seafood AS 
+Valaberget 32 
+5355 Knarrevik 
+Ved daglig leder Trond Haugland 
+th@averoyseafood.no 
+ 
+Bergen, 20. april 2026. 
+ 
+Om rensegrad fra oppdrettsanlegg med avløpsrensing 
+ 
+Miljødirektoratet har i brev av 16. mars 2026 bedt om ytterligere opplysninger omkring planlagt 
+rensegrad ved godkjent landbasert matfiskanlegg på Averøy. Det gjelder en nærmere vurdering av: 
+• Renseeffekten som er oppgitt, usikkerhet knyttet til oppnåelse av angitt renseeffekt og tiltak for 
+å sikre ønsket rensegrad. 
+• Erfaringer/resultater fra lignende anlegg eller gjennomførte forsøk når det gjelder oppsamling 
+av partikler/organisk stoff og utslippsreduksjon.  
+ 
+Dette notatet søker å svare ut begge de to forholdene, og er utarbeidet av seniorrådgiver dr.philos. 
+Geir Helge Johnsen, som er godt kjent med planene for anlegget på Averøy gjennom sitt tidligere 
+virke i Rådgivende Biologer AS (nå del av DNV). Grunnlaget for dokumentasjonen bygger også 
+på resultater fra 15 års arbeide i Rådgivende Biologer AS med overvåking av avløp fra ulike typer 
+oppdrettsanlegg, både smolt- og postsmoltanlegg på land, lukkete og åpne anlegg i sjø, samt 
+landbaserte anlegg for matfisk.  
+ 
+Reduksjon av usikkerhet og tiltak for å sikre omsøkt renseeffekt  
+Benyttet renseeffekt i søknadsdokumentasjonen baserer seg på at Averøy Seafood AS hadde 
+innhentet et tilbud fra leverandører av renseanlegg, der renseeffekt var angitt til rundt 63% av 
+partikulært materiale etter gravimetrisk fortykker av tynnslammet. Dette tilsvarer en noe bedre 
+rensegrad enn primærrensing, som er minst 50% reduksjon av suspendert stoff (SS) og minst 20% 
+reduksjon i biologisk oksygenforbruk (BOF5), tilsvarende fjerning av 20% av nitrogenet og 63% 
+fjerning av fosfor og organisk stoff. 
+Usikkerhet knyttet til selve muligheten for å oppnå dette nivået av rensegrad er omtalt under neste 
+kapittel, mens usikkerheter knyttet til dokumentasjon av rensegrad og mulige tiltak for å sikre 
+oppnåelse av ønsket rensegrad skal omtales her.  
+I utgangspunktet vil en benytte årsrapporterings-regneark fra Statsforvalter som utgangspunkt for 
+beregning av rensegrad (se tabell 1 neste side). Opprinnelig skjema er utarbeidet av Tom Pedersen 
+hos (da) Fylkesmannen i Hordaland allerede tilbake i 2018, og siden benyttet som standard for 
+rapportering.  
+Utgangspunktet er at alt som brukes av fôr, enten blir til fisk eller til brutto utslipp fra 
+produksjonen før rensing. For organisk stoff baserer en seg dessuten på at anslagsvis halvparten 
+av tilført karbon pustes ut som CO2 og derfor ikke inngår i brutto utslipp fra karene. Brutto utslipp 
+beregnes da slik: 
+• Nitrogen = fôrbruk × % nitrogen i fôr ÷ total produksjon × % nitrogen i fisk 
+• Fosfor = fôrbruk × % fosfor i fôr ÷ total produksjon × % fosfor i fisk 
+• Organisk stoff = ½ (fôrbruk × % TOC i fôr ÷ total produksjon × % TOC i fisk) 
+ 
+2 
+ 
+Brutto utslipp går så gjennom et renseanlegg, der rensegrad beregnes ut fra hvor mye av brutto 
+utslippet en greier å rense og som ender opp som produsert slam. Grunnlag for oppfølging av drift 
+av et slikt renseanlegg er da basert på jevnlige målinger av slamkvalitet. For så store anlegg som 
+Averøy Seafood, bør det gjennomføres et prøvetakingsprogram med minst ukentlige analyser av 
+slamkvalitet, samt logging av daglig mengde slam produsert og fôr brukt.  
+ 
+Tabell 1. Beregning av brutto utslipp, netto utslipp, spesifikt utslipp og rensegrad for omsøkt 
+produksjon ved Averøy Seafood sitt planlagte anlegg. Skjema er tilpasset fra Statsforvalternes 
+årsrapporterings-regneark. Røde tall er hentet fra søknadens side 11 i rapport 3070 fra 
+Rådgivende Biologer AS. Blå tall for slamkvalitet er beregnet ut fra ønsket rensegrad. 
+ 
+ 
+Om å redusere usikkerheter i beregningene av rensegrad 
+ 
+De største usikkerhetene i dette bildet blir da ikke bare hvor mye slam man greier å samle opp, 
+men ikke minst kvaliteten på slammet (blå tall i tabell 1 og tabell 3) som utgjør «output». Den 
+aktuelle kvaliteten på fôret utgjør «input» i hele regnestykket for en slik produksjon, og kan 
+variere betraktelig både mellom fôrtyper (tabell 2) og gjennom produksjonssyklus.  
+ 
+De to tabellene under er satt sammen for å vise omfang av variasjon i de sentrale variablene. I 
+tabell 2 er listet ulike fôrkvaliteter; generelle antatte kvaliteter for fôr til matfisk og til settefisk, 
+samt tall fra Averøy Seafood søknaden (side 11 i rapport 3070 fra Rådgivende Biologer AS). 
+Fôrkvalitet kan også variere gjennom produksjonssyklus, siden små fisk har andre krav enn store 
+fisk. Ved beregninger av samlet rensegrad for en hel produksjonssyklus, må gjennomsnittlig 
+fôrkvalitet da vektes i forhold til forbruk av de ulike fôr-kvalitetene. 
+ 
+I tabell 3 er vist beregnet slamkvalitet for Averøy Seafood for å oppnå ønsket rensegrad, 
+sammenlignet med gjennomsnittlig slamkvalitet fra ulike 109 årsrapporter fra Rådgivende 
+Biologers AS database fra i hovedsak landbaserte smolt- og postsmoltanlegg. Også slamkvalitet 
+vil variere gjennom en produksjonssyklus, både fordi fôrfaktor kan variere, fordi temperatur vil 
+variere og også fordi fôrkvalitet kan være ulik gjennom syklus. Også her må faktiske tall legges 
+inn for kontinuerlig oppfølging, mens vektede tall beregnes for rapportering av hele drifts-
+syklusen. 
+ 
+ 
+ 
+ 
+3 
+ 
+Tabell 2. Oppgitt fôrkvalitet i Averøy Seafood AS sin søknad, sammenlignet med antatt generelle 
+fôrkvaliteter for matfisk og settefisk. 
+ 
+Fôrkvalitet  
+Nitrogen % av TS 
+Fosfor % av TS 
+TOC % av TS 
+Averøy Seafood søknad 
+6,40 
+1,05 
+47,80 
+Matfisk generelt antatt 
+5,91 
+1,01 
+50,00 
+Settefisk generelt antatt 
+7,21 
+1,37 
+45,00 
+ 
+Tabell 3. Beregnet ønskelig slamkvalitet for Averøy Seafood AS for å oppnå angitt rensegrad, 
+sammenlignet med slamkvaliteter fra 109 ulike årsrapporter fra Rådgivende Biologers AS 
+database. 
+ 
+Slamkvalitet  
+Nitrogen % av TS 
+Fosfor % av TS 
+TOC % av TS 
+Fôrfaktor 
+Averøy Seafood beregnet 
+4,5 
+2,6 
+45,0 
+1,05 
+Snitt 109 andre 
+5,2 
+3,3 
+40,6 
+0,95 
+ 
+Grunnlag for oppfølging av drift av et slikt renseanlegg må altså baseres på hyppige (minst 
+ukentlige) målinger av slamkvalitet, samt kjennskap til fôrets sammensetning. I tillegg vil 
+sammenligning av daglig mengde tørrstoff slam produsert med mengde fôr benyttet, gi mulighet 
+for å følge tett opp funksjonen av renseanlegget. Mengde slam (TS) som må samles opp i Averøy 
+Seafood sitt anlegg for å oppnå de ønskete rensegrader ved omsøkt produksjon, utgjør 16,8 % av 
+mengde fôr brukt for en hel syklus (se tabell 1). 
+ 
+For å redusere usikkerhet rundt den beregnete rensegrad, må en følge godt med på «input»- og 
+«output»-verdiene når det gjelder fôr- og slamkvalitet. 
+ 
+For å dokumentere om en oppnår ønsket rensegrad kan en følge daglig forholdstall mellom fôr 
+brukt og mengde slam produsert. 
+ 
+Tiltak for å sikre omsøkt rensegrad 
+ 
+I et så stort «gjennomstrømmingsanlegg» som Averøy Seafood, vil det være umulig å foreta 
+mekanisk rensing av alt avløpsvannet fordi vannmengdene gjennom er for store. Første 
+optimaliseringstrinn er da å få samlet opp mest mulig av fôrspill og feces i den delstrømmen som 
+skal renses. Averøy Seafood har planlagt strømningsbildet i oppdrettsenhetene slik at de 
+hydrodynamiske forholdene vil samle partiklene mot et separat uttak i bunn, der 2% av vannet 
+hentes ut og renses. Dette er det samme prinsippet som benyttes i tilsvarende «lukkete» anlegg i 
+sjø med rensing, som Fishglobe eller Watermoon, men begge disse anleggene henter ut en vesentlig 
+mindre andel av avløpsvannet til rensing.  
+ 
+Neste optimaliseringstrinn er effekten av renseanlegget. Levevarandører av mekaniske filtre 
+opererer med rensegrader på minst 70-80% for de ulike stoffene, basert på prøvetaking i innløp til 
+og avløp fra rensefiltrene. Effektiv drift av for eksempel trommelfiltre skjer ved at filterduken ikke 
+spyles kontinuerlig, men bare etter at det er bygget opp en god film på innsiden, som i seg selv 
+bidrar til effektiv oppsamling utover det dukens lysåpning gjør. Dette reguleres vanligvis av 
+vannstand i filteret, men aktiv optimalisering kan bedre effekten av filteret. 
+ 
+Et annet element kan være å benytte fôrkvaliteter som ikke går i oppløsning så fort, slik at spillfôr 
+i større grad kan håndteres effektivt i det mekaniske filteret. Resirkuleringsanlegg (RAS) benytter 
+slikt fôr, og dette kan være et godt alternativ for Averøy Seafood for å sikre ønsket rensegrad. Det 
+vil også være en fordel om innhold av fosfor og nitrogen i fôret reduseres slik at «input» i tabell 1 
+blir lavest mulig. 
+ 
+4 
+ 
+ 
+På landbaserte smolt- og postsmoltanlegg er det også en tydelig effekt av at renseanlegg ligger 
+nær avløp fra karene, slik at fôret ikke blir knust gjennom lange avløpsledninger fôr det når 
+renseanlegget. Averøy Seafood plasserer derfor rensestasjonene tett på de enkelte produksjons-
+enhetene. 
+ 
+Tredje optimaliseringstrinn i prosessen er slambehandlingsanlegget, der spylevannet fra 
+trommelfiltrene skal avvannes. Spylevannet har ofte et tørrstoffinnhold på under 1%, og dette må 
+oppkonsentreres/avvannes før det er hensiktsmessig å levere det. I denne prosessen vil tilsetning 
+av polymer på en mindre delstrøm i prosessen kunne gi svært så gode resultater på både økt 
+sedimenteringsgrad og ikke minst bedret oppsamling av de fineste partiklene. Når de minste 
+fnokkene flokkulerer til større partikler, vil de både sedimentere raskere og dessuten filtreres bedre 
+fra og dermed øke mengden slam som produseres, heller enn å gå i avløp som suspendert stoff. 
+Flere anlegg har gode erfaringer med bruk av pøolymer. Det finnes også alternative biologiske 
+nedbrytbare flokkulanter (polysakkarider) med samme effekt som de vanlige polyakrylamid-
+polymerene, som av og til omtales som miljøgifter / nano-plast. 
+ 
+I beregningene i tabell 1 er det lagt opp til at slammet ender opp med 25% tørrstoff. Hvis man 
+velger å produsere slam med rundt 15% TS, vil ikke rensegrad eller andre forhold i tabellen endres, 
+annet enn at mengde slam (våtvekt) da vil bli høyere. Slam levert til biogassanlegg bør fortrinnsvis 
+ha et tørrstoffinnhold på under 20%. 
+ 
+Erfaringsdata fra lignende anlegg  
+Planlagt rensegrad for Averøy Seafood AS sitt godkjente anlegg på 20% for nitrogenstoff og 63% 
+for både fosfor og totalt organisk materiale (se tabell 1) er her sammenlignet med resultatene fra 
+109 årsrapporter fra landbaserte smolt- og postsmolt-anlegg med tilsvarende mekanisk 
+renseanlegg (fra Rådgivende Biologer AS sin database).  
+ 
+Mengde slam (TS) som må samles opp i Averøy Seafood sitt anlegg for å oppnå de ønskete 
+rensegrader ved omsøkt produksjon, utgjør 16,8% av mengde fôr brukt. Sammenlignet med andre 
+anlegg, hovedsakelig settefisk- og postsmoltanlegg, er dette langt bedre enn gjennomsnittet på 8% 
+for de 109 andre anlegg med tilsvarende rensing, men det er slett ikke uoppnåelig (figur 1). Også 
+Eide Fjordbruk sin «lukkete» merd Watermoon, der undertegnede har ansvar for overvåking og 
+oppfølging og dokumentasjon av renseanleggets virkning, greier vesentlig bedre enn de 8% som 
+var gjennomsnittet.  
+ 
+ 
+ 
+Figur 1. Oppsamlings-effektivitet 
+målt som mengde slam (TS) i forhold 
+til mengde fôr brukt for Averøy 
+Seafood sammenlignet med 
+resultatene fra 109 årsrapporter fra 
+landbaserte smolt- og postsmolt-
+anlegg med tilsvarende mekanisk 
+renseanlegg (fra Rådgivende 
+Biologer AS sin database). 
+ 
+ 
+ 
+5 
+ 
+Sammenligner en rensegrad for de ulike stoffene i søknaden til Averøy Seafood AS med de 109 
+årsrapportene (fram til og med 2023), vil rensegrad på fosfor og organisk stoff på 63% være høyere 
+enn sammenligningsgrunnlaget med gjennomsnitt på 30,6% for fosfor og 27,5% for organisk stoff 
+(figur 2). Ønsket rensegrad ligger helt oppunder 97-persentilen, der bare 3% av anleggene har slik 
+rensegrad eller bedre (figur 2). For nitrogen er oppgitt rensegrad på 20% også bedre enn gjennom-
+snittet på 10,9% for de andre, men her er det 15% av anleggene i sammenlignings-grunnlaget som 
+gjør det bedre  Nitrogen er nok det viktigste elementet å oppnå god rensegrad på i en stor og god 
+marin resipient, da nitrogen regnes å være begrensende faktor for marin primærproduksjon. 
+ 
+ 
+Figur 2. Planlagt rensegrad for fosfor (over), 
+nitrogen (over til høyre) og organisk stoff (til 
+høyre) ved Averøy Seafood AS sammenlignet 
+med resultatene fra en rekke årsrapporter fra 
+landbaserte settefisk-anlegg med tilsvarende 
+mekanisk renseanlegg (fra Rådgivende Biologer 
+AS sin database).  
+ 
+ 
+Sammenlignet med hva andre anlegg oppnår ved tilsvarende type mekaniske renseanlegg, ansees 
+tallene for Averøy Seafood som ambisiøse, men mulige å oppnå.  
+ 
+Mengde tørrstoff slam som må samles opp, utgjør en absolutt oppnåelig andel av fôret som 
+benyttes når en sammenligner med hva andre oppnår.  
+ 
+Tiltak for sikre høy rensegrad og redusere usikkerhet i beregningsgrunnlaget er omtalt foran.  
+ 
+ 
+ 
+ 
+ 
+Dr. Philos. Geir Helge Johnsen 
+seniorrådgiver

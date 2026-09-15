@@ -1,0 +1,5284 @@
+﻿Strømrapport  
+ 
+Måling av overflate- (1m) og bunnstrøm 
+(3m) ved 
+ 
+Trollbukta i 
+ 
+mars - november 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 2 av 104 
+Rapport 
+Rapportbeskrivelse 
+og -navn 
+Vurdering av strømforhold ved Trollbukta. 
+SR-SI-Trollbukta-110215035-04-3011-01-002.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+05.06.25 
+Første utgivelse. Presentasjon og vurdering av gjennomførte 
+strømmålinger ved Trollbukta. 
+002 
+15.12.25 
+Andre utgivelse. Oppdatert rapport med ytterligere data for 
+1m og 3m dyp. 
+Rapportdistribusjon 
+Innhold fra denne rapporten kan brukes så lenge rapporten oppgis som kilde, og 
+at alt benyttet materiale blir kreditert Åkerblå AS. 
+Lokalitet 
+Lokalitetsnavn 
+Trollbukta 
+Lokalitetsnummer 
+11264 
+Kommune  
+Sørfold 
+Fylke 
+Nordland 
+Oppdragsgiver 
+Selskap 
+Sisomar AS; Valljordveien 27, 8226 STRAUMEN, NORGE 
+Kontaktperson 
+Jon Bjarne Meisfjord 
+jon.meisfjord@sisomar.no 
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+Organisasjonsnummer: 916 763 816 
+Feltarbeidsansvarlig 
+Ver001&002 
+ 
+Andreas Eilefsen 
+ 
+andreas.eilefsen@dnv.com 
+Rapportansvarlig    
+Ver001 
+Ver002                           
+ 
+Aleksander Libæk 
+Andriani Glykofridi-Fragkou 
+ 
+aleksander.libak@dnv.com 
+andriani.glykofridi-fragkou@dnv.com 
+Kontrollert av   
+Ver001 
+Ver002 
+ 
+Clarissa A. K. Endo 
+Øystein Breiteig 
+ 
+clarissa.endo@dnv.com 
+oystein.breiteig@dnv.com 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+Resultat nøkkeltall 
+Måledyp 
+1m 
+Bunn 
+(3m) 
+Maksimal strøm (cm/s) (retning) 
+44.0 (NØ) 
+21.4 (SØ) 
+Gjennomsnittlig strøm (cm/s) 
+6.6 
+5.0 
+Strømstyrke < 1cm/s (%) 
+2.3 
+2.8 
+Strømstyrke < 3cm/s (%) 
+19.3 
+22.9 
+Strømstyrke < 10cm/s (%) 
+83.1 
+95.8 
+Strømstyrke ≥ 30cm/s (%) 
+0.3 
+0.0 
+Strømstyrke ≥ 50cm/s (%) 
+0.0 
+0.0 
+Neumann-parameter 
+0.2 
+0.8 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 3 av 104 
+Innholdsfortegnelse 
+ 
+1. 
+Forord ........................................................................................................................................................ 5 
+2. 
+Områdebeskrivelse ................................................................................................................................... 6 
+3. 
+Metodikk .................................................................................................................................................... 7 
+4. 
+Resultater ................................................................................................................................................. 11 
+4.1 
+Sammendrag av strømdata ........................................................................................................... 11 
+4.2 
+Strømrose ..................................................................................................................................... 12 
+4.3 
+Matrise med strømhastighet og -retning ...................................................................................... 13 
+4.4 
+Strømmens hastighetsfordeling .................................................................................................... 15 
+4.5 
+Strømmens retningsfordeling ....................................................................................................... 15 
+4.6 
+Tidsdiagram – Strømhastighet ..................................................................................................... 16 
+4.7 
+Tidsdiagram – Strømretning ........................................................................................................ 17 
+4.8 
+Tidsdiagram – Temperatur ........................................................................................................... 18 
+4.9 
+Progressivt vektordiagram ........................................................................................................... 19 
+4.10 
+Fordelingsdiagram – Maksimal strømhastighet ........................................................................... 21 
+4.11 
+Fordelingsdiagram – Gjennomsnittshastighet .............................................................................. 21 
+4.12 
+Fordelingsdiagram – Relativ vannfluks ....................................................................................... 22 
+4.13 
+Fordelingsdiagram – Antall observasjoner .................................................................................. 22 
+4.14 
+Maksimal strømhastighet i 8 retningssektorer ............................................................................. 23 
+4.15 
+Gjennomsnittlig strømhastighet i 8 retningssektorer ................................................................... 23 
+4.16 
+Antall målinger i 8 retningssektorer ............................................................................................. 23 
+4.17 
+Relativ vannutskiftning i 8 retningssektorer ................................................................................ 23 
+4.18 
+Persentilfordeling av strømhastighet ............................................................................................ 24 
+4.19 
+Prosentfordeling av strømhastighet .............................................................................................. 24 
+4.20 
+Strømfordeling ............................................................................................................................. 25 
+4.21 
+Strømvarighet ............................................................................................................................... 26 
+4.22 
+Tidevannsanalyse ......................................................................................................................... 27 
+4.23 
+Vind under måleperioden ............................................................................................................. 30 
+4.24 
+CTD-profil ................................................................................................................................... 43 
+5. 
+Diskusjon ................................................................................................................................................. 44 
+5.1 
+Høye strømmålinger ..................................................................................................................... 44 
+5.2 
+Tidevannspåvirkning .................................................................................................................... 44 
+5.3 
+Vindpåvirkning ............................................................................................................................ 44 
+5.4 
+Vannutskiftning ............................................................................................................................ 45 
+5.5 
+Vannsøylens vertikale struktur ..................................................................................................... 45 
+6. 
+Vedlegg – Bakgrunnsinformasjon ......................................................................................................... 47 
+6.1 
+Valg av sted, dyp og periode for strømmålinger .......................................................................... 47 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 4 av 104 
+6.2 
+Spesifikasjoner for strøminstrumenter ......................................................................................... 48 
+6.3 
+Måleprinsipp for strømmålinger .................................................................................................. 49 
+6.4 
+CTD-målinger .............................................................................................................................. 49 
+7. 
+Vedlegg – Riggoppsett ............................................................................................................................ 50 
+7.1 
+Riggoppsett .................................................................................................................................. 50 
+8. 
+Vedlegg – Databearbeiding og kvalitetssikring .................................................................................... 52 
+8.1 
+Databearbeiding ........................................................................................................................... 52 
+8.2 
+Kvalitetssikring av data ................................................................................................................ 55 
+8.3 
+Fjernede dataverdier ..................................................................................................................... 58 
+8.3.1 
+Måleperiode ............................................................................................................................ 58 
+8.3.2 
+Enkelte datapunkter ................................................................................................................ 58 
+9. 
+Vedlegg – Fyrstikkdiagram av vind og strøm ...................................................................................... 59 
+10. Vedlegg - Varighetsanalyse .................................................................................................................... 77 
+11. Vedlegg – Strømmens tilstandsklasser .................................................................................................. 85 
+12. Vedlegg – Månedlige tidevannsvariasjoner .......................................................................................... 86 
+13. Vedlegg – Måleenheter ........................................................................................................................... 87 
+14. Vedlegg – Parametere og beskrivelse .................................................................................................... 88 
+15. Vedlegg – Referanser .............................................................................................................................. 89 
+16. Vedlegg – Resultater per måned på 1m dyp ......................................................................................... 90 
+16.1 
+Sammendrag av strømdata ........................................................................................................... 90 
+16.2 
+Strømroser .................................................................................................................................... 91 
+16.3 
+Tidsdiagram – strømhastighet ...................................................................................................... 93 
+16.4 
+Tidsdiagram – strømretning ......................................................................................................... 96 
+16.5 
+Persentilfordeling av strømhastighet ............................................................................................ 99 
+16.6 
+Prosentfordeling av strømhastighet .............................................................................................. 99 
+17. Vedlegg – Resultater per måned på bunndyp (3m) ........................................................................... 100 
+17.1 
+Sammendrag av strømdata ......................................................................................................... 100 
+17.2 
+Strømroser .................................................................................................................................. 101 
+17.3 
+Tidsdiagram – strømhastighet .................................................................................................... 102 
+17.4 
+Tidsdiagram – strømretning ....................................................................................................... 103 
+17.5 
+Persentilfordeling av strømhastighet .......................................................................................... 104 
+17.6 
+Prosentfordeling av strømhastighet ............................................................................................ 104 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 5 av 104 
+1. Forord 
+ 
+Åkerblå AS har på oppdrag fra Sisomar utført strømmålinger ved utslippspunktet til settefiskanlegget 
+i Trollbukta som er vurdert etter beliggenhet, strømforhold, temperatur, vannutskiftning, tidevann og 
+vind. 
+ 
+Resultatene fra strømmålingene gjelder for gitte prøvepunkt og for oppgitt tidsperiode. Vurderingen 
+av strømforhold i området er gjort på bakgrunn av disse resultatene. 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 6 av 104 
+2. Områdebeskrivelse 
+ 
+Målepunktet for Trollbukta ligger i Sørfold kommune, Nordland (Figur 2.1). Trollbukta ligger innerst 
+i fjordsystemet Sørfolda på Valjod ved kummenesentret Straumen. 
+ 
+På grunn av omkringliggende topografi er de mest aktuelle vindretningene, med tanke på strøm, fra 
+N/NØ og S/SV. 
+ 
+Bunntopografi i området av strømmålerende er kuppert og varierer i dybde på omkring 4 til 6 m dyp. 
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonene, anvist med rød pinne. Kart er hentet 
+fra Geonorge (2025). Kartdatum: ETRS89.
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 7 av 104 
+3. Metodikk 
+ 
+Strømmålinger er kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter 
+som ble benyttet er oppgitt i Tabell 3.1 og Figur 3.1. Strømmen ble målt i overflaten på ca. 1m og 
+ved bunndyp på ca. 3m dyp i hver sin rigg, hvor avstand mellom disse var ca. 60m. Strømmen på 
+1m dyp ble målt over fire måleperioder; fra 27.03.25 til 07.05.25 (P1); fra 07.05.25 til 28.05.25 (P2); 
+fra 28.05.25 til 08.09.25 (P3) og fra 08.09.25 til 13.11.25 (P4), og strømmen på 3m dyp ble målt 
+over to perioder fra 24.03.25 til 07.05.25 (P1) og fra 07.05.25 til 28.05.25 (P2) (Figur 3.1).  
+ 
+ 
+Figur 3.1. De fargede linjene i figuren viser hvilke år og måneder det er strømmålinger på 1m (blå 
+linje) og bunndyp (3m, grønn linje). Skriftfargene på månedene langs x-aksen illustrerer sesong; blå 
+= vinter, grønn = vår, gul = sommer, og rød = høst.  
+ 
+Målingene på 1m ble utført om våren, sommeren og høsten, og på 3m ble utført om våren. 
+ 
+Strømmåleren på bunndyp (3m) ble satt ut til å måle strøm den 18.02.25, men grunnet riggoppsett 
+hvor strømmåleren ble satt opp ned, kan ikke data mellom 18.02.25 og 24.03.25 brukes da dette gir 
+feil strømretninger. Strømmåleren på 3m dyp ble så satt ut igjen med riktig stilling. Målt strøm 
+mellom 18.02.25 og 24.03.25 på 3m dyp er fjernet og er ikke vist i rapporten. 
+ 
+Ut fra topografi og bunntopografi er plasseringen vurdert som god for å dokumentere 
+strømforholdene i området (Figur 3.2 – Figur 3.3).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 8 av 104 
+Tabell 3.1. Bakgrunnsinformasjon om strømmåling.  
+Måledyp 
+1m 
+Bunn 
+(3m) 
+Posisjonsanvisning 
+ 
+ 
+Posisjon 
+67° 21.324' N; 015° 35.501' Ø 
+67° 21.345' N; 015° 35.572' Ø 
+Dyp på målested 
+P1: 5m 
+P1: 5m 
+P2: 5m 
+P2: 5m 
+P3: 5m 
+P3: - 
+P5: 5m 
+P4: - 
+Instrumenttype 
+Aanderaa punktmåler 
+Aanderaa punktmåler 
+Måleperiode 
+27.03.25 - 13.11.25 
+24.03.25 - 28.05.25 
+P1: 27.03.25 - 07.05.25 
+P1: 24.03.25 - 07.05.25 
+P2: 07.05.25 - 28.05.25 
+P2: 07.05.25 - 28.05.25 
+P3: 28.05.25 - 08.09.25 
+P3: - 
+P4: 08.09.25 - 13.11.25 
+P4: - 
+Måleintervall 
+10 minutter 
+10 minutter 
+Antall døgn 
+(målt/planlagt) 
+230.7 / 230.9 
+64.8 / 64.8 
+P1: 40.9 / 40.9 
+P1: 43.8 / 43.8 
+P2: 21.0 / 21.0 
+P2: 21.0 / 21.0 
+P3: 102.8 / 103.0 
+P3: - 
+P4: 66.0 / 66.0 
+P4: - 
+Fjernede datapunkt 
+P1: 0 
+P1: 0 
+P2: 3 
+P2: 0 
+P3: 24 
+P3: - 
+P4: 0 
+P4: - 
+Manglende datapunkt 
+P1 - P2: 2 
+P1 - P2: 4 
+P2 - P3: 3 
+P2 - P3: - 
+P3 - P4: 4 
+P3 - P4: - 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 9 av 104 
+ 
+Figur 3.2. Øverst: Oversiktskart over posisjon av strømmålere (svart kryss) for Trollbukta. Nederst: 
+Plassering av strømmålere i området anvist med gult (1m) og rødt (3m) kryss, i forhold til 
+utslippsposisjon (lilla kryss). Kompasspila øverst i venstre hjørne indikerer orientering til kart. Kart 
+er hentet fra Olex. Kartdatum: WGS84.  
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 10 av 104 
+ 
+Figur 3.3. 3D-kart/bilder av bunntopografi i området. Den tynne kompasspila øverst i venstre hjørne 
+indikerer kartets orientering (øverste bilde) og den tykke kompasspila indikerer kameraets 
+orientering (nederste bilde). De små bildene viser kameraets utsiktspunkt for den tilhørende 
+bunntopografien. Kartene er hentet fra Olex. Kartdatum: WGS84.   
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 11 av 104 
+4. Resultater  
+ 
+4.1 
+Sammendrag av strømdata 
+ 
+Resultater per måledyp for hele måleperioden er sammenfattet i Tabell 4.1.1. Verdiene er klassifisert 
+(fargelagt) etter: «Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er 
+forklart i «Vedlegg – Parametere og beskrivelse». 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra 1m og bunndyp (3m). 
+Måledyp 
+1m 
+Bunn (3m) 
+Sjøtemperatur (°C) 
+1.2 - 20.5 
+3.6 – 10.1 
+Strømhastighet 
+1m 
+Bunn (3m) 
+Maksimum (cm/s) 
+44.0 
+21.4 
+Gjennomsnitt (cm/s) 
+6.6 
+5.0 
+Minimum (cm/s) 
+0.0 
+0.1 
+Signifikant maks (cm/s) 
+11.8 
+7.8 
+Signifikant min (cm/s) 
+2.6 
+2.4 
+Varians (cm/s)² 
+23.4 
+6.6 
+Standardavvik (cm/s) 
+4.8 
+2.6 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+2.3 
+2.8 
+Lengste periode < 1cm/s (min) 
+70 
+40 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+19.3 
+22.9 
+Lengste periode < 3cm/s (min) 
+360 
+290 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+83.1 
+95.8 
+Lengste periode < 10cm/s (min) 
+6950 
+9760 
+% ≥ 30cm/s 
+0.3 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+60 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+1.6 
+3.8 
+Retning (grader) 
+94 
+168 
+Neumann-parameter 
+0.2 
+0.8 
+Gjennomsnittlig vannforflytning (m³/m²/d) 
+5735 
+4290 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 12 av 104 
+4.2 
+Strømrose 
+ 
+En strømrose viser strømhastighet og -retning under hele måleperioden. Strømrosen viser hvor stor 
+andel av målingene som er registrert for hver 10º-sektor, vist som prosentandel i figuren, og hvilken 
+strømhastighetsklasse som er registrert i de ulike sektorene. Strømrosen gir en indikasjon på om 
+strømmen har en dominerende retning eller ikke. 
+ 
+1m 
+Bunn (3m) 
+ 
+ 
+Figur 4.2.1. Strømroser på 1m og bunndyp (3m). 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 13 av 104 
+4.3 
+Matrise med strømhastighet og -retning 
+ 
+Strømretning er fordelt i 15º-sektorer (sektorene er vist i venstre kolonne). Retningssektorene er 
+sentrert (±7.5º) rundt oppgitt verdi. Strømhastighet er fordelt i ulike intervaller (vist i øverste rad). 
+Både retningssektorer og hastighetsintervaller er ≥ (laveste verdi) og < (høyeste verdi). Antall 
+observasjoner i de ulike retningssektorene og hastighetsintervallene er vist i kolonnen til høyre og 
+raden under matrisen. Raden under og kolonnen til høyre for antall observasjoner viser den 
+prosentvise fordelingen i henholdsvis de ulike intervallene og sektorene. Kolonnene helt til høyre 
+viser antall kubikkmeter vann som i måleperioden vil passere et tenkt vindu på 1x1 meter, prosentvis 
+fordeling av vannutskiftning og til slutt maksimal strømhastighet i hver retningssektor.    
+ 
+Tabell 4.3.1. Hastighets- og retningsmatrise av strømdata fra 1m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-15 15-20 20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 >100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+18 
+124 
+166 
+338 
+178 
+90 
+21 
+6 
+0 
+0 
+0 
+0 
+0 
+941 
+2.8 
+45978 
+3.5 
+29.1 
+N 
+15 
+19 
+152 
+205 
+470 
+368 
+206 
+100 
+40 
+22 
+1 
+0 
+0 
+0 
+1583 
+4.8 
+101072 
+7.6 
+40.2 
+NØ 
+30 
+32 
+173 
+273 
+717 
+556 
+336 
+179 
+76 
+27 
+1 
+0 
+0 
+0 
+2370 
+7.1 
+159176 12.0 
+41.5 
+NØ 
+45 
+35 
+207 
+276 
+751 
+531 
+298 
+146 
+64 
+28 
+2 
+0 
+0 
+0 
+2338 
+7.0 
+148955 11.3 
+44.0 
+NØ 
+60 
+33 
+228 
+314 
+615 
+334 
+154 
+66 
+24 
+6 
+0 
+0 
+0 
+0 
+1774 
+5.3 
+91579 
+6.9 
+35.7 
+Ø 
+75 
+39 
+214 
+289 
+460 
+177 
+63 
+9 
+4 
+0 
+0 
+0 
+0 
+0 
+1255 
+3.8 
+50679 
+3.8 
+27.4 
+Ø 
+90 
+30 
+261 
+269 
+371 
+94 
+19 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+1046 
+3.1 
+34135 
+2.6 
+23.1 
+Ø 
+105 
+44 
+236 
+278 
+339 
+49 
+13 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+960 
+2.9 
+28593 
+2.2 
+20.0 
+SØ 
+120 
+31 
+310 
+331 
+348 
+46 
+5 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+1074 
+3.2 
+30247 
+2.3 
+20.7 
+SØ 
+135 
+40 
+289 
+431 
+486 
+64 
+10 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1321 
+4.0 
+39318 
+3.0 
+21.7 
+SØ 
+150 
+31 
+310 
+538 
+794 
+93 
+17 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+1787 
+5.4 
+58650 
+4.4 
+21.0 
+S 
+165 
+42 
+347 
+792 
+1240 
+184 
+19 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+2625 
+7.9 
+90496 
+6.8 
+20.1 
+S 
+180 
+40 
+395 
+819 
+1572 
+203 
+18 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+3050 
+9.2 
+106703 
+8.1 
+21.6 
+S 
+195 
+23 
+382 
+783 
+1377 
+189 
+25 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+2780 
+8.4 
+96251 
+7.3 
+22.9 
+SV 
+210 
+48 
+351 
+675 
+877 
+85 
+15 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+2052 
+6.2 
+64498 
+4.9 
+22.7 
+SV 
+225 
+31 
+372 
+533 
+561 
+61 
+4 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+1564 
+4.7 
+44868 
+3.4 
+26.0 
+SV 
+240 
+31 
+293 
+417 
+457 
+51 
+6 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1256 
+3.8 
+36574 
+2.8 
+23.2 
+V 
+255 
+38 
+243 
+282 
+296 
+32 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+896 
+2.7 
+24743 
+1.9 
+20.7 
+V 
+270 
+27 
+172 
+197 
+213 
+23 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+637 
+1.9 
+17689 
+1.3 
+17.5 
+V 
+285 
+31 
+152 
+157 
+92 
+13 
+7 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+455 
+1.4 
+11447 
+0.9 
+27.5 
+NV 
+300 
+23 
+119 
+90 
+61 
+16 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+316 
+1.0 
+7989 
+0.6 
+16.8 
+NV 
+315 
+27 
+102 
+102 
+52 
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+291 
+0.9 
+6442 
+0.5 
+15.8 
+NV 
+330 
+31 
+117 
+87 
+104 
+14 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+356 
+1.1 
+9132 
+0.7 
+17.0 
+N 
+345 
+30 
+105 
+111 
+177 
+48 
+20 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+494 
+1.5 
+17518 
+1.3 
+21.3 
+Antall obs. 
+774 5654 8415 12768 3416 1345 546 216 83 
+4 
+0 
+0 
+0 
+33221 
+100 
+0 
+0 
+0 
+% 
+2.3 
+17.0 
+25.3 
+38.4 
+10.3 
+4.0 
+1.6 
+0.7 0.2 0.0 0.0 0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 14 av 104 
+Tabell 4.3.2. Hastighets- og retningsmatrise av strømdata fra bunndyp (3m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+7 
+28 
+23 
+25 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+87 
+0.9 
+2210 
+0.8 
+16.0 
+N 
+15 
+7 
+29 
+39 
+36 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+116 
+1.2 
+3159 
+1.1 
+15.2 
+NØ 
+30 
+7 
+42 
+38 
+47 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+140 
+1.5 
+3772 
+1.4 
+11.6 
+NØ 
+45 
+13 
+39 
+47 
+30 
+10 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+140 
+1.5 
+3571 
+1.3 
+15.2 
+NØ 
+60 
+14 
+54 
+32 
+14 
+5 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+122 
+1.3 
+2783 
+1.0 
+19.5 
+Ø 
+75 
+7 
+53 
+29 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+105 
+1.1 
+1983 
+0.7 
+8.9 
+Ø 
+90 
+10 
+56 
+47 
+22 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+136 
+1.5 
+2743 
+1.0 
+11.3 
+Ø 
+105 
+16 
+83 
+91 
+42 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+235 
+2.5 
+5087 
+1.8 
+14.1 
+SØ 
+120 
+12 
+111 
+146 
+99 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+373 
+4.0 
+9293 
+3.3 
+13.5 
+SØ 
+135 
+10 
+128 
+240 
+280 
+38 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+700 
+7.5 
+22237 
+8.0 
+18.1 
+SØ 
+150 
+18 
+174 
+384 
+630 
+73 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1282 
+13.7 
+42897 
+15.4 
+21.4 
+S 
+165 
+15 
+207 
+521 
+797 
+77 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1622 
+17.4 
+53587 
+19.3 
+18.7 
+S 
+180 
+20 
+216 
+514 
+827 
+72 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1653 
+17.7 
+54304 
+19.5 
+16.5 
+S 
+195 
+15 
+187 
+427 
+533 
+44 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1209 
+12.9 
+37567 
+13.5 
+20.1 
+SV 
+210 
+13 
+106 
+210 
+226 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+570 
+6.1 
+16184 
+5.8 
+12.6 
+SV 
+225 
+12 
+116 
+121 
+94 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+348 
+3.7 
+8292 
+3.0 
+13.6 
+SV 
+240 
+14 
+68 
+38 
+20 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+143 
+1.5 
+2743 
+1.0 
+11.2 
+V 
+255 
+6 
+52 
+28 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+98 
+1.0 
+1823 
+0.7 
+8.5 
+V 
+270 
+10 
+34 
+24 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+73 
+0.8 
+1213 
+0.4 
+8.7 
+V 
+285 
+12 
+26 
+5 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+45 
+0.5 
+560 
+0.2 
+10.4 
+NV 
+300 
+12 
+20 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+37 
+0.4 
+395 
+0.1 
+4.2 
+NV 
+315 
+5 
+10 
+4 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+22 
+0.2 
+326 
+0.1 
+6.1 
+NV 
+330 
+6 
+14 
+12 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+34 
+0.4 
+494 
+0.2 
+6.9 
+N 
+345 
+2 
+20 
+16 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+46 
+0.5 
+914 
+0.3 
+7.4 
+Antall obs. 
+263 
+1873 
+3041 
+3769 
+365 
+23 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+9336 
+100 
+0 
+0 
+0 
+% 
+2.8 
+20.1 
+32.6 
+40.4 
+3.9 
+0.2 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 15 av 104 
+4.4 
+Strømmens hastighetsfordeling 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning er oppgitt under. Hastighetsfordelingen er ≥ 
+(laveste verdi) og < (høyeste verdi) av oppgitt intervall. 
+ 
+Figur 4.4.1. Strømmens hastighetsfordeling på 1m og bunndyp (3m). Antall observasjoner er indikert 
+på stående akse og hastighetsgruppe på liggende akse. 
+ 
+4.5 
+Strømmens retningsfordeling 
+ 
+Strømmens retning fordelt i 15º-sektorer er oppgitt under. Retningsfordelingen er ≥ (laveste verdi) 
+og < (høyeste verdi) av oppgitt intervall. 
+ 
+ 
+ 
+Figur 4.5.1. Strømmens retningsfordeling på 1m og bunndyp (3m). Antall observasjoner er indikert 
+på stående akse og 15º-sektorer på liggende akse. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 16 av 104 
+4.6 
+Tidsdiagram – Strømhastighet 
+ 
+Strømmens hastighet under hele måleperioden er oppgitt under. Stiplede linjer indikerer tilfeller med 
+strømhastigheter over 10cm/s og 30cm/s. 
+ 
+ 
+ 
+ 
+Figur 4.6.1. Tidsdiagram av strømhastighet på 1m og bunndyp (3m). Strømhastighet er indikert på 
+stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 17 av 104 
+4.7 
+Tidsdiagram – Strømretning  
+ 
+Strømmens retning under hele måleperioden er oppgitt under. Stiplede linjer er vist for 90º, 180º, 
+270º og 360º for å indikere kompassretningene øst, sør, vest og nord. 
+ 
+ 
+ 
+ 
+Figur 4.7.1. Tidsdiagram av strømretning på 1m og bunndyp (3m). Strømretning på stående akse og 
+tid på liggende akse. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 18 av 104 
+4.8 
+Tidsdiagram – Temperatur 
+ 
+Temperatur under hele måleperioden er oppgitt under. 
+ 
+ 
+ 
+Figur 4.8.1. Tidsdiagram av temperatur på 1m og bunndyp (3m). Temperatur er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 19 av 104 
+4.9 
+Progressivt vektordiagram 
+ 
+Et progressivt vektordiagram viser hvor langt og hvordan en tenkt merket vannpartikkel som 
+befinner seg i strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperioden (Figur 
+4.9.1 - Figur 4.9.4). Dette gir en indikasjon på vannutskiftning under måleperioden. 
+ 
+ 
+Figur 4.9.1. Progressivt vektordiagram for strøm på 1m og bunndyp (3m) i P1. 
+ 
+ 
+Figur 4.9.2. Progressivt vektordiagram for strøm på 1m og bunndyp (3m) i P2. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 20 av 104 
+ 
+ 
+Figur 4.9.3. Progressivt vektordiagram for strøm på 1m dyp i P3. 
+ 
+ 
+Figur 4.9.4. Progressivt vektordiagram for strøm på 1m dyp i P4. 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 21 av 104 
+4.10 Fordelingsdiagram – Maksimal strømhastighet 
+ 
+1m 
+Bunn (3m) 
+ 
+ 
+Figur 4.10.1. Fordelingsdiagram av maksimal strømhastighet (cm/s) for hver 15º-sektor på 1m og 
+bunndyp (3m) i løpet av måleperiodene. Kart er hentet fra Olex. Kartdatum: WGS84. 
+ 
+4.11 Fordelingsdiagram – Gjennomsnittshastighet 
+ 
+1m 
+Bunn (3m) 
+ 
+ 
+Figur 4.11.1. Fordelingsdiagram av gjennomsnittlig strømhastighet (cm/s) for hver 15º-sektor på 1m 
+og bunndyp (3m) i løpet av måleperiodene. Kart er hentet fra Olex. Kartdatum: WGS84. 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 22 av 104 
+4.12 Fordelingsdiagram – Relativ vannfluks 
+ 
+Relativ vannfluks (%) angir mengden vann som strømmer gjennom en 15˚-retningssektor. Total 
+vannfluks er totalt volum vann som strømmer gjennom alle sektorer i løpet av måleperioden. 
+ 
+1m 
+Bunn (3m) 
+ 
+ 
+Figur 4.12.1. Fordelingsdiagram av relativ vannfluks (%) for hver 15º-sektor på 1m og bunndyp (3m) 
+i løpet av måleperiodene. Kart er hentet fra Olex. Kartdatum: WGS84. 
+ 
+4.13 Fordelingsdiagram – Antall observasjoner 
+ 
+1m 
+Bunn (3m) 
+ 
+ 
+Figur 4.13.1. Fordelingsdiagram av antall observasjoner for hver 15º-sektor på 1m og bunndyp (3m) 
+i løpet av måleperioden. Kart er hentet fra Olex. Kartdatum: WGS84.
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 23 av 104 
+4.14 Maksimal strømhastighet i 8 retningssektorer 
+Tabell 4.14.1. Maksimal strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+1m 
+40.2 
+44.0 
+27.4 
+21.7 
+22.9 
+26.0 
+27.5 
+17.0 
+Bunn (3m) 
+16.0 
+19.5 
+14.1 
+21.4 
+20.1 
+13.6 
+10.4 
+6.9 
+ 
+ 
+4.15 Gjennomsnittlig strømhastighet i 8 retningssektorer 
+Tabell 4.15.1. Gjennomsnittlig strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+1m 
+8.4 
+10.3 
+5.8 
+5.1 
+5.8 
+5.0 
+4.5 
+4.1 
+Bunn (3m) 
+4.2 
+4.2 
+3.4 
+5.3 
+5.4 
+4.3 
+2.8 
+2.2 
+ 
+ 
+4.16 Antall målinger i 8 retningssektorer 
+Tabell 4.16.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+1m 
+3018 
+6482 
+3261 
+4182 
+8455 
+4872 
+1988 
+963 
+Bunn (3m) 
+249 
+402 
+476 
+2355 
+4484 
+1061 
+216 
+93 
+ 
+ 
+4.17 Relativ vannutskiftning i 8 retningssektorer 
+Tabell 4.17.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+1m 
+11.6 
+30.5 
+8.7 
+9.8 
+22.4 
+11.1 
+4.1 
+1.8 
+Bunn (3m) 
+2.2 
+3.6 
+3.5 
+26.8 
+52.3 
+9.8 
+1.3 
+0.4 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 24 av 104 
+4.18 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre i Tabell 4.18.1 indikerer prosent av data (persentil) som er lik eller lavere enn 
+oppgitt strømhastighet (cm/s). 
+ 
+Tabell 4.18.1. Persentilfordeling av strømhastighet (cm/s) for hvert dyp.  
+Persentil 
+1m 
+Bunn (3m) 
+1 
+0.7 
+0.7 
+10 
+2.1 
+1.9 
+20 
+3.1 
+2.8 
+30 
+3.9 
+3.5 
+40 
+4.6 
+4.1 
+50 
+5.4 
+4.7 
+60 
+6.4 
+5.3 
+70 
+7.5 
+6.0 
+80 
+9.2 
+6.9 
+90 
+12.7 
+8.2 
+95 
+16.5 
+9.6 
+99 
+24.6 
+12.7 
+ 
+4.19 Prosentfordeling av strømhastighet 
+ 
+Oppgitte verdier i Tabell 4.19.1 er rundet av til nærmeste desimal for verdier over 0.1%, mens verdier 
+mellom 0.1% og 0.01% er rundet av til to desimal. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.19.1. Prosent (%) av data per dyp som er lik eller høyere enn oppgitt strømhastighet (cm/s).  
+Strømhastighet (cm/s) 
+1m 
+Bunn (3m) 
+1 
+97.7 
+97.2 
+3 
+80.7 
+77.1 
+5 
+55.3 
+44.5 
+10 
+16.9 
+4.2 
+20 
+2.6 
+0.02 
+30 
+0.3 
+ 
+40 
+0.01 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 25 av 104 
+4.20 Strømfordeling 
+ 
+Verdiene i tabell for strømfordeling viser prosent av data i ulike grupper av strømhastighet (cm/s), 
+fordelt i 8 retningssektorer. Strømhastighetsgruppene er oppdelt slik at strømhastighetene er større 
+enn oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. Oppgitte verdier er rundet av til 
+nærmeste desimal for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to 
+desimaler. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.20.1. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 1m dyp. 
+Mørkere farge i tabellen representerer høyere prosentandel av data. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0 < x ≤ 1 
+0.2 
+0.3 
+0.3 
+0.3 
+0.3 
+0.3 
+0.3 
+0.2 
+2.2 
+1 < x ≤ 5 
+2.6 
+4.4 
+4.7 
+6.6 
+10.6 
+7.9 
+3.6 
+1.9 
+42.3 
+5 < x ≤ 10 
+3.0 
+6.3 
+3.5 
+4.9 
+12.6 
+5.7 
+1.8 
+0.7 
+38.5 
+10 < x ≤ 20 
+2.7 
+6.6 
+1.2 
+0.7 
+1.9 
+0.7 
+0.3 
+0.1 
+14.2 
+20 < x ≤ 30 
+0.5 
+1.7 
+0.05 
+0.02 
+0.02 
+0.01 
+0.01 
+0 
+2.3 
+30 < x ≤ 40 
+0.07 
+0.2 
+0 
+0 
+0 
+0 
+0 
+0 
+0.3 
+40 < x ≤ 50 
+0.0 
+0.0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+Sum 
+9.1 
+19.5 
+9.8 
+12.5 
+25.4 
+14.6 
+6.0 
+2.9 
+100.0 
+ 
+Tabell 4.20.2. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(3m). Mørkere farge i tabellen representerer høyere prosentandel av data. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0 < x ≤ 1 
+0.2 
+0.4 
+0.4 
+0.4 
+0.5 
+0.4 
+0.3 
+0.2 
+2.8 
+1 < x ≤ 5 
+1.7 
+2.7 
+3.8 
+12.7 
+22.2 
+7.1 
+1.8 
+0.7 
+52.7 
+5 < x ≤ 10 
+0.7 
+1.0 
+0.9 
+10.8 
+23.1 
+3.6 
+0.2 
+0.05 
+40.4 
+10 < x ≤ 20 
+0.1 
+0.3 
+0.04 
+1.3 
+2.2 
+0.2 
+0.01 
+0 
+4.2 
+20 < x ≤ 30 
+0 
+0 
+0 
+0.01 
+0.01 
+0 
+0 
+0 
+0.02 
+30 < x ≤ 40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+Sum 
+2.7 
+4.4 
+5.1 
+25.2 
+48.0 
+11.3 
+2.3 
+0.9 
+100.0 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 26 av 104 
+4.21 Strømvarighet 
+ 
+En varighetsanalyse viser antall hendelser av strømhastigheter (cm/s) fordelt på hastighets- og 
+tidsintervaller (hastighets- og varighetsklasse). Varighetsklasser er > (lavest verdi) og ≤ (høyest 
+verdi) av oppgitt intervall. 
+ 
+Én registrert måling er gjennomsnittet av strømmålinger i ett 10 minutters måleintervall. Alle 
+strømhastigheter som er innenfor en strømklasse for en varighet av kun en registrert måling (10 
+minutter) er ekskludert fra tabeller og figurer, da varighetsklassene starter fra > 10 minutter. 
+ 
+I Tabell 4.21.1 – Tabell 4.21.1 er antall hendelser av strømhastigheter (cm/s) per varighets- og 
+hastighetsklasse gitt for hele måleperioden. I disse tabellene er hastighetsklasser > (lavest verdi) og 
+≤ (høyest verdi) av oppgitt intervall. 
+ 
+Lave (≤ 1, 3, 5 og 10cm/s) og høye (≥ 50, 60, 70 og 80cm/s) strømhastigheter kan ha betydning for 
+fiskens helse. I Vedlegg 10 vises varighet av lave (≤ 1, 3, 5 og 10cm/s) strømhastigheter på hvert av 
+de målte dypene i måleperioden. Det var ingen tilfeller av strøm ≥ 50cm/s på begge dyp. 
+ 
+Tabell 4.21.1. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 1m dyp. 
+Mørkere farge i tabellen representerer høyere antall hendelser. 
+Strømhastighet 
+(cm/s) 
+10< x ≤ 
+30min 
+30 < x ≤ 
+60min 
+1 < x ≤ 
+2t 
+2 < x ≤ 
+3t 
+3 < x ≤ 
+4t 
+4 < x ≤ 
+5t 
+5 < x ≤ 
+6t 
+>6t 
+0 < x ≤ 1 
+110 
+6 
+1 
+0 
+0 
+0 
+0 
+0 
+1 < x ≤ 5 
+999 
+592 
+407 
+127 
+42 
+16 
+7 
+10 
+5 < x ≤ 10 
+1302 
+600 
+339 
+83 
+26 
+11 
+5 
+1 
+10 < x ≤ 20 
+509 
+269 
+129 
+24 
+5 
+1 
+0 
+0 
+20 < x ≤ 30 
+108 
+41 
+18 
+0 
+0 
+0 
+0 
+0 
+30 < x ≤ 40 
+15 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.21.2. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på bunndyp 
+(3m). Mørkere farge i tabellen representerer høyere antall hendelser. 
+Strømhastighet 
+(cm/s) 
+10< x ≤ 
+30min 
+30 < x ≤ 
+60min 
+1 < x ≤ 
+2t 
+2 < x ≤ 
+3t 
+3 < x ≤ 
+4t 
+4 < x ≤ 
+5t 
+5 < x ≤ 
+6t 
+>6t 
+0 < x ≤ 1 
+35 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+1 < x ≤ 5 
+291 
+169 
+161 
+44 
+19 
+11 
+4 
+3 
+5 < x ≤ 10 
+290 
+140 
+94 
+40 
+16 
+7 
+1 
+1 
+10 < x ≤ 20 
+59 
+14 
+14 
+0 
+0 
+0 
+0 
+0 
+20 < x ≤ 30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+30 < x ≤ 40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 27 av 104 
+4.22 Tidevannsanalyse 
+En tidevannsanalyse av strømdata og trykkdata er gjennomført for å vurdere hvor stor andel av det 
+målte signalet som er forårsaket av tidevannet. Tidevannsanalyse av trykkdata er kun gjennomført for 
+bunnrefererte instrumenter, da overflaterefererte instrumenter ikke måler tidevannssignal i trykkdata. 
+Tidevannsanalysen er utført ved bruk av analyseverktøyet U_Tide (Codiga, 2011).  
+ 
+Tidevannsanalysen inkluderer alle separerbare tidevannskomponenter (Tabell 4.22.1). Det er også 
+foretatt en analyse med fem separerbare tidevannskomponenter, M2 (12.42 timers periode), S2 (12.00 
+timers periode), N2 (12.66 timers periode), O1 (25.82 timers periode) og K1 (23.93 timers periode), 
+som benyttes i forbindelse med tidevannstabeller (Tabell 4.22.2). 
+ 
+Strøm er splittet i komponentene øst-vest (UEW) og nord-sør (VNS) for å vurdere variasjon i strømdata 
+på de forskjellige dypene (Emery & Thomson, 2001). Krysset markerer gjennomsnittsverdien for 
+hastighetskomponentene og reflekterer den effektive transporthastigheten med tilhørende retning 
+(Figur 4.22.1). Strømellipsens store halvakse (hovedakse) markerer retningen der variasjonen er 
+størst. Figur 4.22.2 – Figur 4.22.3 viser strømellipsen sammen med tidevannsellipsen for hvert 
+måledyp. 
+ 
+Tabell 4.22.1. Tidevannsbidrag til strøm og trykkendringer basert på tidevannsanalyse av strømdata 
+i timesverdier. 
+Strøm (%) 
+1m 
+Bunn (3m) 
+P1 
+51.5 
+35.7 
+P2 
+31.2 
+34.8 
+P3 
+35.2 
+- 
+P4 
+32.1 
+- 
+Trykk (%) 
+1m 
+Bunn (3m) 
+P1 
+- 
+98.5 
+P2 
+- 
+92.4 
+P3 
+- 
+- 
+P4 
+- 
+- 
+ 
+Tabell 4.22.2. Tidevannsbidrag til strøm og trykkendringer fra tidevannskomponentene M2, S2, N2, 
+O1 og K1. 
+Strøm (%) 
+1m 
+Bunn (3m) 
+P1 
+43.5 
+29.9 
+P2 
+29.7 
+31.3 
+P3 
+28.7 
+- 
+P4 
+26.3 
+- 
+Trykk (%) 
+1m 
+Bunn (3m) 
+P1 
+- 
+100.5 
+P2 
+- 
+91.5 
+P3 
+- 
+- 
+P4 
+- 
+- 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 28 av 104 
+ 
+ 
+ 
+Figur 4.22.1. UEW – VNS punktdiagram av strømdata i timesverdier, med tilhørende strømellipse. 
+Midtpunktet for strømellipsen er markert med kryss som også markerer strømmens effektive 
+transporthastighet. Vinklene indikerer den store halvaksens orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+ 
+ 
+Figur 4.22.2. UEW - VNS tidevannsellipser (fargede linjer) vist sammen med strømellipser (svarte 
+linjer) for 1m og bunndyp (3m) i P1. Midtpunktet for strømellipsene er markert med kryss som også 
+markerer den effektive transporthastigheten. Vinklene indikerer de store halvaksenes orientering i 
+forhold til nord/sør. Aksekors for øst - vest og nord - sør er vist med stiplede linjer. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 29 av 104 
+ 
+Figur 4.22.3. UEW - VNS tidevannsellipser (fargede linjer) vist sammen med strømellipser (svarte 
+linjer) for 1m i P2, P3 og P4 og bunndyp (3m) i P2. Midtpunktet for strømellipsene er markert med 
+kryss som også markerer den effektive transporthastigheten. Vinklene indikerer de store halvaksenes 
+orientering i forhold til nord/sør. Aksekors for øst - vest og nord - sør er vist med stiplede linjer. 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 30 av 104 
+4.23 Vind under måleperioden 
+ 
+Vinddata er hentet fra de to nærmeste værstasjonene RV80 Nordvika og Helligvær II (Meteorologisk 
+institutt, 2025), som ligger henholdsvis ca. 18.7km V og 73.1km V for strømmålingsposisjonene 
+(Figur 4.23.1). Værstasjonen Hellingvær II har en mer eksponert beliggenhet sammenlignet med 
+strømmålerposisjonene, mens værstasjon RV80 Nordvika er omgitt av en annen omkringliggende 
+topografi. For å gi en bedre oversikt over vindforholdene, benyttes begge værstasjonene som 
+referanse. 
+ 
+Figur 4.23.1. Posisjonen til værstasjon RV80 Nordvika (oransje sirkel), værstasjon Helligvær II (blå 
+sirkel) og posisjonen til Bodø tidevannsstasjon (grønn sirkel) i forhold til strømmålingsposisjonene 
+(rød pinne). Kart er hentet fra Geonorge (2025). Kartdatum: ETRS89. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 31 av 104 
+Tabell 4.23.1 og Tabell 4.23.2 viser retningsfordeling og maksimal vindhastighet i hver 
+retningssektor ved RV80 Nordvika og Helligvær II. Figur 4.23.2 - Figur 4.23.3 viser strømrose på 
+1m og vindrose på RV80 Nordvika og Helligvær II. 
+ 
+Strøm over 10cm/s på 1m dyp ble sammenlignet med vinddata fra RV80 Nordvika og Helligvær II 
+fra samme periode. Figur 4.23.4 - Figur 4.23.11 og figurene i "Vedlegg - Fyrstikkdiagram av vind og 
+strøm" indikerer hvilke tidspunkter vind på RV80 Nordvika og Helligvær II og målt strøm på 1m dyp 
+hadde omtrent sammenfallende retning. Vannstand i løpet av måleperioden er vist i Figur 4.23.4 - 
+Figur 4.23.11 og er hentet fra vannstandsmåler Bodø (Kartverket, 2025), som ligger ca. 52.2km V for 
+strømmålingsposisjonene (Figur 4.23.1). Vannstand er tilpasset området for målepunktene. 
+ 
+Tabell 4.23.1. Maksimal vindhastighet og prosent av tiden hvor vinden blåste fra de ulike retningene 
+på RV80 Nordvika under måleperiodene. 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+3.5 
+4.4 
+5.1 
+4.0 
+6.0 
+11.0 
+10.3 
+5.0 
+Tid (%) 
+22.2 
+29.4 
+5.8 
+3.4 
+5.4 
+20.0 
+8.6 
+5.1 
+ 
+Tabell 4.23.2. Maksimal vindhastighet og prosent av tiden hvor vinden blåste fra de ulike retningene 
+på Helligvær II under måleperiodene. 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+17.6 
+12.8 
+21.4 
+20.3 
+21.7 
+26.8 
+23.2 
+20.5 
+Tid (%) 
+15.2 
+9.5 
+12.9 
+12.8 
+11.7 
+15.9 
+9.0 
+13.1 
+ 
+Strøm på 1m 
+Vind 
+ 
+ 
+Figur 4.23.2. Rosediagram for strøm (mot retning) på 1m dyp, samt vind (fra retning) på RV80 
+Nordvika værstasjon i måleperiodene. Skalaen på diagrammene er ulik. 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 32 av 104 
+Strøm på 1m 
+Vind 
+ 
+ 
+Figur 4.23.3. Rosediagram for strøm (mot retning) på 1m dyp, samt vind (fra retning) på Helligvær 
+II værstasjon i måleperiodene. Skalaen på diagrammene er ulik. 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 33 av 104 
+Hastighet og retning for strøm og vind er oppgitt i Figur 4.23.4 - Figur 4.23.11 og i "Vedlegg - 
+Fyrstikkdiagram av vind og strøm" for å vurdere vindpåvirkning på strømmen. I Figur 4.23.4 - Figur 
+4.23.11 er vindretning oppgitt som at vind blåser fra en retning, mens i "Vedlegg - Fyrstikkdiagram 
+av vind og strøm" er vindretning oppgitt som at vind blåser mot en retning. Tidevann er også vist i 
+Figur 4.23.4 - Figur 4.23.11 for å vurdere tidevannspåvirkning.  
+ 
+ 
+ 
+Figur 4.23.4. Strømhastighet (mot retning) på 1m dyp og vindhastighet (fra retning) på RV80 
+Nordvika, strøm- og vindretning, samt vannstand (Bodø) i P1. Tidspunkter hvor strøm og vind har 
+omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 34 av 104 
+ 
+ 
+Figur 4.23.5. Strømhastighet (mot retning) på 1m dyp og vindhastighet (fra retning) på RV80 
+Nordvika, strøm- og vindretning, samt vannstand (Bodø) i P2. Tidspunkter hvor strøm og vind har 
+omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 35 av 104 
+ 
+ 
+Figur 4.23.6. Strømhastighet (mot retning) på 1m dyp og vindhastighet (fra retning) på RV80 
+Nordvika, strøm- og vindretning, samt vannstand (Bodø) i P3. Tidspunkter hvor strøm og vind har 
+omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 36 av 104 
+ 
+ 
+Figur 4.23.7. Strømhastighet (mot retning) på 1m dyp og vindhastighet (fra retning) på RV80 
+Nordvika, strøm- og vindretning, samt vannstand (Bodø) i P4. Tidspunkter hvor strøm og vind har 
+omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 37 av 104 
+ 
+ 
+Figur 4.23.8. Strømhastighet (mot retning) på 1m dyp og vindhastighet (fra retning) på Helligvær II, 
+strøm- og vindretning, samt vannstand (Bodø) i P1. Tidspunkter hvor strøm og vind har omtrent 
+motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 38 av 104 
+ 
+ 
+Figur 4.23.9. Strømhastighet (mot retning) på 1m dyp og vindhastighet (fra retning) på Helligvær II, 
+strøm- og vindretning, samt vannstand (Bodø) i P2. Tidspunkter hvor strøm og vind har omtrent 
+motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 39 av 104 
+ 
+ 
+Figur 4.23.10. Strømhastighet (mot retning) på 1m dyp og vindhastighet (fra retning) på Helligvær 
+II, strøm- og vindretning, samt vannstand (Bodø) i P3. Tidspunkter hvor strøm og vind har omtrent 
+motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 40 av 104 
+ 
+ 
+Figur 4.23.11. Strømhastighet (mot retning) på 1m dyp og vindhastighet (fra retning) på Helligvær 
+II, strøm- og vindretning, samt vannstand (Bodø) i P4. Tidspunkter hvor strøm og vind har omtrent 
+motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 41 av 104 
+Strømhastighet og -retning, samt tidevann og vind er oppgitt i Figur 4.23.12 - Figur 4.23.13 for en 
+todagersperiode da maksimalstrømmen på 1m oppstod.  
+ 
+ 
+ 
+Figur 4.23.12. Strømhastighet og -retning, samt tidevann og vind (RV80 Nordvika) for perioden hvor 
+maksimalstrømmen på 1m dyp er registrert. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 42 av 104 
+ 
+ 
+Figur 4.23.13. Strømhastighet og -retning, samt tidevann og vind (Helligvær II) for perioden hvor 
+maksimalstrømmen på 1m dyp er registrert. 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 43 av 104 
+4.24 CTD-profil  
+ 
+CTD-profil ble målt i sammenheng med tidligere utsett 18.02.25, røkning 07.05.2025, 28.05.25 og 
+08.09.25 og opptak 13.11.25 av strømmålere i samme området ved strømriggen. Oksygendata er 
+vurdert som urealistisk for profilen tatt 08.09.25 og 13.11.25 og er dermed ikke presentert i Figur 
+4.24.1. 
+ 
+ 
+ 
+Figur 4.24.1. Vertikalprofiler av saltinnhold, temperatur, tetthet og oksygen. Dypet er oppgitt langs 
+y-aksen. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 44 av 104 
+5. Diskusjon 
+ 
+Strømmen på Trollbukta er hovedsakelig mot N/NØ – S/SV på 1 m og mot SØ/S på bunndyp (3m) 
+dyp, som stemmer med områdets bunntopografi og orientering til Trollbukta. 75.6% av relativ 
+vannutskiftning på 1m og 79.1% på bunndyp skjer langs hovedstrømretningene (Tabell 4.17.1). 
+ 
+5.1 
+Høye strømmålinger 
+ 
+Maksimal strømhastighet var 44.0cm/s mot NØ på 1m og 21.4cm/s mot SØ på bunndyp (3m). 
+Maksstrømmen er langs hovedstrømretning på begge dyp og vurdert som sterk på 1m og middels 
+sterk på bunndyp (3m). Maksimalmålingen er bare én måling og gir ikke en indikasjon av om 
+strømmen er sterk eller svak i området. 
+ 
+Signifikant maksimal strømhastighet er gjennomsnittet av den høyeste tredjedelen av målingene og 
+gir en indikasjon av styrken på strømmen i området. Denne var 11.8cm/s på 1m og 7.8cm/s på 
+bunndyp (3m). Signifikant maksimal strømhastighet er vurdert som middels sterk på begge dyp. 
+ 
+Det var tilfeller der strøm var > 30cm/s på 1m dyp. Høy strømhastighet (>30cm/s) oppstår 
+uregelmessig på måleposisjonen, og varighet av disse i området er ≤ 1 time (Tabell 4.21.1). Høye 
+strømhastigheter (>30cm/s) er vurdert forårsaket av vind, ferskvannsavrenning, tidevann og 
+fjordsirkulasjon. 
+ 
+5.2 
+Tidevannspåvirkning 
+ 
+Strømmen er vurdert som tidevannsdominert på 1m i P1, da tidevannsbidraget var ≥ 40% (Tabell 
+4.22.1). Tidevannssignalet dominerte ikke på 1m i P2 – P4, eller på bunndyp (3m) i P1 og P2 (Tabell 
+4.22.1).  
+ 
+5.3 
+Vindpåvirkning 
+ 
+Ut fra omkringliggende topografi er det vurdert at vind fra N/NØ og S/SV kan ha betydning for 
+strømforholdene på lokaliteten. I måleperiodene blåste vind mest fra NØ og sterkest fra SV ved RV80 
+Nordvika værstasjon (Tabell 4.22.1). I måleperiodene blåste vind mest og sterkest fra SV ved 
+Helligvær II værstasjon (Tabell 4.22.2).  
+ 
+Grunnet friksjon mellom vind og vannoverflate vil vind med betydelig hastighet (> 3m/s) og stabil 
+retning som blåser over en lengre periode ha innvirkning på strømmen. Tilfeller med vindpåvirkning 
+er i dette tilfellet beregnet utfra sammenfallende eller motsatt rettet retninger ved et bestemt tidspunkt, 
+uten hensyn til vindens varighet eller stabilitet.  
+ 
+Hvis de lokale vindforholdene på strømmålingsposisjonen for 1m var like de på værstasjon RV80 
+Nordvika er det vurdert at vind fra S kan ha påvirket strøm mot N og vind fra SV kan ha påvirket 
+strøm mot NØ/Ø. 
+ 
+Hvis de lokale vindforholdene på strømmålingsposisjonen for 1m var like de på værstasjon Helligvær 
+II er det vurdert at vind fra N kan ha påvirket strøm mot S, vind fra NØ kan ha påvirket strøm mot 
+S/SV, vind fra S kan ha påvirket strøm mot N/NØ og vind fra SV kan ha påvirket strøm mot N/NØ. 
+ 
+Selv om det var tilfeller hvor strøm- og vindretning sammenfalt når vind blåste fra SØ, V og NV, er 
+det ikke forventet at vind fra disse retningene vil påvirke strømmen i så stor grad siden lokaliteten er 
+relativt beskyttet for vind fra SØ, V og NV.  
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 45 av 104 
+Værstasjonen Hellingvær II har en mer åpen beliggenhet enn strømmålerposisjonen, mens værstasjon 
+RV80 Nordvika har annen omkringliggende topografi, og det kan dermed forventes noen andre 
+vindretninger lokalt ved måleposisjonen. 
+ 
+Det var enkelte tilfeller hvor strøm- og vindretning var motsatt rettet under måleperioden, hvor vind 
+kan ha virket bremsende på målt strømhastighet. 
+ 
+5.4 
+Vannutskiftning  
+ 
+Det er naturlig med strømstille når tidevannet skifter fra flo til fjære eller motsatt. Varigheten av 
+strømstille perioder kan ha betydning for vannutskiftning i et område. Neumann-parameteren sier noe 
+om stabiliteten til strømmen. En høy Neumann parameter (f.eks. 0.7) indikerer en retningsstabil 
+strøm. Dette tyder på at vannet strømmer i en retning og beveger seg konstant bort fra startpunktet. 
+En lav Neumann-parameter kan bety at vannstrømmen har skiftende retning og kanskje bare flyter 
+fram og tilbake ved startpunktet. Neumann-parameteren kan brukes opp mot progressivt 
+vektordiagram og gjennomsnittsstrømmen for å kunne si noe om vannutskiftningen ved det punktet 
+hvor strømmen er målt.  
+ 
+Gjennomsnittlig strømhastighet var ≥ 2cm/s på begge dyp. Gjennomsnittlig strømhastighet er vurdert 
+som middels sterk på 1m og som sterk på bunndyp (3m).  
+ 
+Prosent nullmålinger (< 1cm/s) var mindre enn 10% på begge dyp. Lengst varighet for strøm < 1cm/s 
+var 70 minutter (1t 10min) på 1m og 40 minutter på bunndyp (3m).. Det var få varige tilfeller med 
+strømstille på begge dyp (Tabell 4.21.1 – Tabell 4.21.2).  
+ 
+Neumann-parameteren er beregnet til 0.2 på 1m og 0.8 på bunndyp (3m). Neumann-parameteren er 
+vurdert som middels stabil på 1m og svært stabil på bunndyp (3m). Strømretninger og vannutskiftning 
+stemmer med områdets bunntopografi (Figur 4.2.1 og Figur 4.9.1 – Figur 4.9.4). På 1m og bunndyp 
+(3m) har vannet stort sett beveget seg bort fra startpunktene og ikke bare flyttet seg fram og tilbake. 
+I alle måleperiodene har det vært flere perioder der vannet på 1m dyp skiftet retning, men vannet har 
+likevel beveget seg i én retning over en lengre periode. Vannutskiftningen vurderes derfor som god 
+på 1m og bunndyp (3m) i alle måleperiodene. 
+ 
+5.5 
+Vannsøylens vertikale struktur 
+ 
+Vannsøylens stabilitet har vesentlig betydning for sirkulasjon i området og mulighet for blanding 
+vertikalt. En stabil vannsøyle har økende tetthet med økende dyp. Lagdeling i vannsøylen (forårsaket 
+av forskjellige grunner, for eksempel; ferskvannsavrenning, avkjøling/oppvarming av overflatevann, 
+utveksling av vann ved bunnen med kystvann) påvirker spredning av utslipp både horisontalt og 
+vertikalt. 
+ 
+Temperatur under måleperioden var 1.2 - 20.5°C på 1m og 3.6 - 10.1°C på bunndyp (3m). Målingene 
+viser at temperaturen på 1m i kortere perioder var kaldere enn på 3m dyp, ellers var tempertauren på 
+1m og 3m dyp stort sett lik under P1 og P2 (Figur 4.8.1). Temperaturen holder seg relativt konstant 
+fram til midten av april, og deretter øker temperaturen både på 1m og 3m dyp i P1 og P2. I løpet av 
+sommeren i P3 økte temperaturen, men med kortere variasjoner, og fra slutten av august avtok 
+temperaturen på 1m dyp. Dette er normalt for årstiden, når solen varmer opp vannsøylen over grunt 
+vann. Temperaturmålingene viser forventet sesongvariasjon 
+ 
+CTD-målinger viser at det var en oppvarming mellom febraur og september, og en avkjøling av 
+vannsøylen mellom septermber og november (Figur 4.24.1). Dette stemmer med temperaturtidsserien 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 46 av 104 
+(Figur 4.8.1), og er forventet sesongvariasjon. I alle profilene er det kaldere temperatur ved overflaten, 
+og er konstant fra omtrent 1.5m dyp og ned til bunnen. 
+ 
+Saltinnholdet minket mellom februar og september og økte mellom september og november (Figur 
+4.24.1). I overflaten er det ferskere vann i alle profilene, mens ved bunndyp er saltinnholdet høyere. 
+ 
+Tetthetsdata gjenspeiler saltinnholdet og viser at vannsøylen var lagdelt i alle profilene (Figur 4.24.1). 
+Alle profilene har et tynt overflatelag med en sterk økende tetthet til omtrent 1.0 til 1.5m dyp. Derfra 
+er tettheten mer stabil i februar profilen, mens den fortsetter å øke til bunnen i mai, september og 
+november. 
+ 
+Oksygenmetningen i februar og mai var høy (> 90%) i hele vannsøyla (Figur 4.24.1). Det var en 
+høyere metning i mai enn i februar som kommer av at vannet varmes opp. Oksygeninnholdet viser 
+sterkt avtagende fra overflaten og ned til omtrent 1.5m dyp i alle profilene. Derfra er det lignende 
+mønster som oksygenmetningen. Forskjellen i profilene til oksygenmetning og -innhold kommer av 
+at oksygenmetningen avhenger av temperaturen til sjøvannet. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 47 av 104 
+6. Vedlegg – Bakgrunnsinformasjon 
+ 
+6.1 
+Valg av sted, dyp og periode for strømmålinger 
+ 
+Valg av målested 
+ 
+Plassering av riggen i forhold til det dypet strømmen skal måles på har stor betydning for målingene.  
+ 
+Målingene er tatt for å måle strøm ved utslippspunkt.  
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hvert 14.77 døgn, som er 
+tidevannssyklus for spring / nipp, er anbefalt minimum måleperiode 30 dager.  
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 48 av 104 
+6.2 
+Spesifikasjoner for strøminstrumenter 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.2.1. Målerne registrerer strømhastighet, 
+strømretning og temperatur.   
+ 
+Tabell 6.2.1. Spesifikasjoner per strøminstrument. 
+Måledyp 
+1m 
+Bunn (3m) 
+Leverandør 
+Aanderaa AS 
+Aanderaa AS 
+Instrumenttype, modell 
+RCM Blue 5430 punktmåler 
+RCM Blue 5430 punktmåler 
+ID-nr. 
+P1: 5443 
+P1: 5316 
+P2: 5334 
+P2: 5439 
+P3: 5443 
+P3: - 
+P4: 5439 
+P4: - 
+Cellestørrelse 
+- 
+- 
+Kalibrering 
+Utført hos Aanderaa Data 
+Instruments ved levering av 
+instrumentet. 
+Utført hos Aanderaa Data 
+Instruments ved levering av 
+instrumentet. 
+Strømhastighetens 
+nøyaktighet 
+±0.15cm/s 
+±0.15cm/s 
+Strømhastighetens 
+rekkevidde / terskelverdi 
+0 til 300cm/s (vektor 
+gjennomsnitt) 
+0 til 300cm/s (vektor 
+gjennomsnitt) 
+Strømretningens nøyaktighet 
+±5º for 0-15º helning; ±7.5º for 15-
+35º helning 
+±5º for 0-15º helning; ±7.5º for 15-
+35º helning 
+Kompassorientering 
+Magnetisk nord 
+Magnetisk nord 
+Kompass justert for 
+misvisning 
+Nei 
+Nei 
+Temperaturens nøyaktighet 
+og rekkevidde 
+0.05ºC, -5ºC til 40ºC 
+0.05ºC, -5ºC til 40ºC 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 49 av 104 
+6.3 
+Måleprinsipp for strømmålinger 
+ 
+Aanderaa punktmåler  
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Det sendes ut en kort lydpuls (akustisk puls) 
+med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de innkommende 
+refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende refleksjon er 
+proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet (vanligvis 
+zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at de derfor 
+beveger seg med samme hastighet som vannet. En punktmåler er satt opp for å måle strøm med én 
+datalogging i et intervall på 10 minutter, basert på 150 ping. 
+ 
+Tabell 6.3.1. Måleprinsipp for en Aanderaa punktmåler. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer samplingsperioder på 10 minutter. I løpet av denne perioden sender 
+instrumentet ut 150 ping. Ett datapunkt gir gjennomsnittet over en 10-minuttersperiode. 
+ 
+6.4 
+CTD-målinger 
+ 
+Hydrografimålinger ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden, med 
+et påmontert lodd, ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden gjør 
+én registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen ved senkning og en 
+ved heving. Profil ved senkning av sonden ble benyttet.  
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 50 av 104 
+7. Vedlegg – Riggoppsett 
+ 
+7.1 
+Riggoppsett 
+ 
+Riggoppsett for målt strøm er beskrevet i Tabell 7.1.1 – Tabell 7.1.2 og skissert i Figur 7.1.1 – Figur 
+7.1.2.  
+ 
+Tabell 7.1.1. Beskrivelse av riggoppsett for strømmålinger på 1m i P1 – P4. 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A1 
+Blåse 
+1stk 
+0.0m 
+16kg oppdrift 
+Trålkule 11" 
+Kule 
+2stk 
+ 
+7.5kg oppdrift 
+Punktmåler 
+Måler 
+1stk 
+0.5m 
+ 
+Pærelodd 
+Lodd 
+1stk 
+ 
+5kg 
+Danline 12mm 
+Tau 
+8.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+1stk 
+5.0m 
+25kg 
+ 
+Tabell 7.1.2. Beskrivelse av riggoppsett for strømmålinger på bunndyp (3m) i P1 og P2. 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A2 
+Blåse 
+1stk 
+0.0m 
+35kg oppdrift 
+Trålkule 11" 
+Kule 
+1stk 
+ 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+3.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+2stk 
+2.0m 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+1.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+3.0m 
+ 
+Danline 14mm 
+Tau 
+1.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+1stk 
+5.0m 
+40kg 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 51 av 104 
+ 
+Figur 7.1.1. Riggoppsett for strømmålinger på 1m i P1 – P4. 
+ 
+ 
+Figur 7.1.2. Riggoppsett for strømmålinger på bunndyp (3m) i P1 og P2. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 52 av 104 
+ 
+8. Vedlegg – Databearbeiding og kvalitetssikring  
+ 
+Før utsett ble fysisk status til hvert instrument kontrollert. Kontrollsjekk inkluderer: batteristatus, 
+instrumentinnstilling, minnestatus og anoder. 
+ 
+Det benyttes et internt kvalitetssystem som følger hver måler for teknisk dokumentasjon. 
+Instrumenttilstand og eventuelt andre kommentarer angående instrumentet oppføres i 
+kvalitetssystemet etter hvert prosjekt.  
+   
+Ved utsett av instrumenter benyttes et internt kvalitetssystem som inkluderer (etter NS 9425-1:1999): 
+lokalitetsnavn, riggoppsett, posisjon, måledyp, kontaktperson og oppdragsgiver, tidspunkt for utsett 
+og opptak, og et kommentarfelt for eventuelle observasjoner ved utsett og opptak.  
+ 
+Ved opptak blir måleinstrumentene undersøkt for begroing, annet som kan ha påvirket målingene, og 
+fysisk skade. Dette kommenteres i kvalitetssystemet og i rapporten, og mulig påvirkning for resultatet 
+blir vurdert. Verdier som er benyttet i rapporten er troverdige og uten behov for støyfiltrering eller 
+annen korreksjon. 
+ 
+Data er kvalitetssikret gjennom interne prosedyrer utviklet i samarbeid med instrumentenes produsent 
+etter bestemte kriterier. Dersom disse kriteriene ikke blir møtt er data kritisk vurdert. Enkeltstående 
+datapunkter blir også vurdert og data fjernes om nødvendig. Både rådata og kvalitetssikret data er 
+lagret på server. 
+ 
+8.1 
+Databearbeiding 
+ 
+Riggtilstand etter måling 
+ 
+Det var lite begroing og ingen skade på instrumentene, og ingen data er vurdert som feil eller usikre 
+på grunn av dette. Datakvaliteten anses å være god. 
+ 
+Feil på instrument 
+ 
+Det var feil på oksygensensor på CTD-instrument i september og november 2025. Oksygendata er 
+dermed ikke presentert i disse periodene. Dette har ingen konsekvens for registrering av andre data 
+eller parametere. 
+ 
+Det var ingen feil på instrumentenes sensorer under måleperiodene. Datakvaliteten anses å være god. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 53 av 104 
+Tabell 8.1.1. Opplysninger om strømmålinger og databearbeiding. 
+Måledyp 
+1m 
+Bunn (3m) 
+Filnavn for rådata 
+P1: Trollbukta 1m SI0525 AP5443.bin 
+P1: Trollbukta 3m SI0525 AP5316.bin 
+P2: Trollbukta 1m SI0525 AP5334.bin 
+P2: Trollbukta 3m SI0525 AP5439.bin 
+P3: Trollbukta 1m SI0925 AP5443.bin 
+P3: - 
+P4: Trollbukta 1m SI1125 AP5439.bin 
+P4: - 
+Rådata først vurdert i 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Filnavn for eksportert data 
+P1: Trollbukta 1m-P1 SI0525 
+AP5443_eks_AL.xlsx 
+P1: Trollbukta bunn-3m-P1 SI0525 
+AP5316_eks_AL.xlsx 
+P2: Trollbukta 1m-P2 SI0525 
+AP5334_eks_HP.xlsx 
+P2: Trollbukta bunn-3m-P2 SI0525 
+AP5439_eks_HP.xlsx 
+P3: Trollbukta 1m-P3 SI0925 
+AP5443_eks_HP.xlsx 
+P3: - 
+P4: Trollbukta 1m-P4 SI1125 
+AP5439_eks_AGF.xlsx 
+P4: - 
+Filnavn for kvalitetssikret data 
+Trollbukta-1m_QC.xlsx 
+Trollbukta-Bunn (3m)_QC.xlsx 
+Prosentandel data (%) 
+99.92 
+100.00 
+Antall målinger 
+33221 / 33248 
+9336 / 9336 
+Antall fjernede/manglende målinger 
+27 
+0 
+Ekstern påvirkning på målinger 
+Nei 
+Nei 
+Dato og tid for første og siste benyttede 
+strømmåling 
+27.03.25 10:20 - 13.11.25 09:00 
+24.03.25 12:10 - 28.05.25 08:40 
+P1: 27.03.25 10:20 - 07.05.25 08:30 
+P1: 24.03.25 12:10 - 07.05.25 08:00 
+P2: 07.05.25 09:00 - 28.05.25 08:30 
+P2: 07.05.25 08:50 - 28.05.25 08:40 
+P3: 28.05.25 09:10 - 08.09.25 08:20 
+P3: - 
+P4: 08.09.25 09:10 - 13.11.25 09:00 
+P4: - 
+Dato og tid for start og slutt av instrument 
+13.03.25 09:50 - 13.11.25 11:01 
+06.02.25 11:00 - 28.05.25 12:40 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 54 av 104 
+P1: 13.03.25 09:50 - 07.05.25 13:10 
+P1: 06.02.25 11:00 - 07.05.25 08:00 
+P2: 06.05.25 12:00 - 28.05.25 12:30 
+P2: 06.05.25 12:00 - 28.05.25 12:40 
+P3: 27.05.25 13:40 - 08.09.25 09:40 
+P3: - 
+P4: 05.09.25 12:30 - 13.11.25 11:01 
+P4: - 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 55 av 104 
+8.2 
+Kvalitetssikring av data 
+ 
+Data er kvalitetssikret etter bestemte kriterier (Tabell 8.2.1). Dersom disse kriteriene ikke blir møtt er 
+data kritisk vurdert. Utstikkere blir også vurdert og data fjernet om nødvendig.  
+ 
+Under P3 er det en periode der instrumentets helning er utenfor grenseverdiene for kvalitetskontroll 
+(<50º), og strømmen er lav. .På grunn av dette er datapunktene i denne perioden manuelt fjernet fra 
+1m.  
+ 
+Tabell 8.2.1. Kriterier brukt for å kvalitetssikre data. 
+Parameter 
+QC  
+Temperatur 
+Manuell sjekk av data for stabil temp (∆ < 1℃)  
+Helning 
+< 50º (Figur 8.2.1 – Figur 8.2.2) 
+Ping count 
+150 (Figur 8.2.1 – Figur 8.2.2)  
+Trykk 
+Stabilt (Figur 8.2.1 – Figur 8.2.2)  
+Strømhastighet 
+Stabil (ingen store endringer fra en måling til neste måling, Tabell 8.2.2).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+Retning 
+Stabil (ingen store endringer fra en måling til neste måling).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+ 
+Tabell 8.2.2. Teoretiske forskjeller i strømhastighet fra en måling til det neste (IOC, 1993). 
+∆t (min) 
+Teoretisk 
+Faktor 
+Godkjent 
+ 
+u1 – u2 (m/s) 
+ 
+u1 – u2 (m/s) 
+5 
+0.0422 u 
+2.0 
+0.08 
+10 
+0.0843 u 
+1.8 
+0.15 
+15 
+0.1264 u 
+1.6 
+0.20 
+20 
+0.1685 u 
+1.5 
+0.25 
+30 
+0.2523 u 
+1.4 
+0.35 
+60 
+0.5001 u 
+1.2 
+0.60 
+ 
+Tabell 8.2.2 gir teoretiske forskjeller mellom to suksessive målinger av strømhastighet, u1 og u2, for 
+forskjellige måleintervall, Δt (IOC,1993). For å tillate noe naturlig variabilitet i strømhastighet 
+og -retning (inkludert usymmetriske hastighetskurver for tidevannsstrøm) har de teoretiske 
+forskjellene blitt hevet med de oppgitte faktorene, mens strøm (u) er satt til 1m/s ettersom variabilitet 
+øker med avtagende strøm. 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 56 av 104 
+ 
+ 
+Figur 8.2.1. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 1m dyp.  
+ 
+Instrumentdypet varierte mellom 0.7m og 1.2m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 0.9m.  
+ 
+Instrumentet hadde ikke trykksensor under P1, men skal ha stått på snittdypet 1m ifølge riggoppsett. 
+I løpet av P2 varierte instrumentdypet mellom 0.8m og 1.2m dyp, med snittdyp på 1.0m.  
+Instrumentet hadde ikke trykksensor under P3, men skal ha stått på snittdypet 1m ifølge riggoppsett. 
+I løpet av P4 varierte instrumentdypet mellom 0.7m og 1.2m dyp, med snittdyp på 0.9m.  
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 57 av 104 
+ 
+ 
+Figur 8.2.2. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunndyp (3m).  
+ 
+Instrumentdypet varierte mellom 1.6m og 4.2m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 2.5m.  
+ 
+I løpet av P1 varierte instrumentdypet mellom 1.6m og 4.2m dyp, med snittdyp på 2.6m.  
+I løpet av P2 varierte instrumentdypet mellom 1.6m og 3.6m dyp, med snittdyp på 2.4m.
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 58 av 104 
+8.3 
+Fjernede dataverdier  
+ 
+8.3.1 Måleperiode 
+ 
+Data er fjernet utenfor måleperiodene for å bruke overlappende periode mellom de forskjellige dyp i 
+så stor grad som mulig. 
+ 
+Grunnet batteriskifte og instrumentbytte mangler 2 datapunkter mellom P1 og P2, 3 datapunkter 
+mellom P2 og P3 og 4 datapunkter mellom P3 og P4 på 1m dyp. På bunndyp (3m) mangler 4 
+datapunkter mellom P1 og P2 grunnet batteriskifte og instrumentbytte. 
+ 
+8.3.2 Enkelte datapunkter 
+ 
+Én temperaturverdi er fjernet fra målingene på 3m i P1 grunnet urealistisk temperatursprang. Alle de 
+andre parameterne målt på det tidspunktet er vurdert som gode. 
+ 
+3 datapunkter i P2 og 4 datapunkter i P3 på 1 m dyp er manuelt fjernet på grunn av urealistiske 
+hastighetssprang. I tillegg er 20 datapunkter på 1 m under P3 manuelt fjernet på grunn av en periode 
+med høy instrumenthelning og lave strømhastigheter. 
+ 
+Ingen andre datapunkter er fjernet. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 59 av 104 
+9. Vedlegg – Fyrstikkdiagram av vind og strøm 
+ 
+Figurene under viser vind- og strømhastighet i løpet av måleperioden, oppdelt i perioder på to uker. Tidspunkter hvor vind og strøm hadde omtrent 
+sammenfallende retning (grønne prikker) eller motsatt retning (røde prikker) indikerer tilfeller med vindpåvirket strøm. Svak vind (< 3m/s) hvor strøm 
+og vind hadde sammenfallende eller motsatt retning er indikert med oransje prikker. Det er tillatt en vinkel på opptil ± 22.5° ved beregning av om vind 
+og strøm har omtrent sammenfallende eller motsatt retning. 
+ 
+Strøm på 1m og vind fra RV80 Nordvika 
+ 
+ 
+Figur 9.1. Fyrstikkdiagram av vindhastighet (mot retning) på RV80 Nordvika (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 60 av 104 
+ 
+Figur 9.2. Fyrstikkdiagram av vindhastighet (mot retning) på RV80 Nordvika (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 61 av 104 
+ 
+Figur 9.3. Fyrstikkdiagram av vindhastighet (mot retning) på RV80 Nordvika (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 62 av 104 
+ 
+Figur 9.4. Fyrstikkdiagram av vindhastighet (mot retning) på RV80 Nordvika (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 63 av 104 
+ 
+Figur 9.5. Fyrstikkdiagram av vindhastighet (mot retning) på RV80 Nordvika (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 64 av 104 
+ 
+Figur 9.6. Fyrstikkdiagram av vindhastighet (mot retning) på RV80 Nordvika (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 65 av 104 
+ 
+Figur 9.7. Fyrstikkdiagram av vindhastighet (mot retning) på RV80 Nordvika (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 66 av 104 
+ 
+Figur 9.8. Fyrstikkdiagram av vindhastighet (mot retning) på RV80 Nordvika (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 67 av 104 
+ 
+Figur 9.9. Fyrstikkdiagram av vindhastighet (mot retning) på RV80 Nordvika (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 68 av 104 
+Strøm på 1m og vind fra HelligværII 
+ 
+ 
+Figur 9.10. Fyrstikkdiagram av vindhastighet (mot retning) på Helligvær II (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 69 av 104 
+ 
+Figur 9.11. Fyrstikkdiagram av vindhastighet (mot retning) på Helligvær II (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 70 av 104 
+ 
+Figur 9.12. Fyrstikkdiagram av vindhastighet (mot retning) på Helligvær II (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 71 av 104 
+ 
+Figur 9.13. Fyrstikkdiagram av vindhastighet (mot retning) på Helligvær II (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 72 av 104 
+ 
+Figur 9.14. Fyrstikkdiagram av vindhastighet (mot retning) på Helligvær II (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 73 av 104 
+ 
+Figur 9.15. Fyrstikkdiagram av vindhastighet (mot retning) på Helligvær II (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 74 av 104 
+ 
+Figur 9.16. Fyrstikkdiagram av vindhastighet (mot retning) på Helligvær II (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 75 av 104 
+ 
+Figur 9.17. Fyrstikkdiagram av vindhastighet (mot retning) på Helligvær II (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 76 av 104 
+ 
+Figur 9.18. Fyrstikkdiagram av vindhastighet (mot retning) på Helligvær II (over) og strømhastighet (mot retning) på 1m dyp (under) under 
+måleperiodene. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 77 av 104 
+10. Vedlegg - Varighetsanalyse 
+ 
+Lave (≤ 1, 3, 5 og 10cm/s) og høye (≥ 50, 60, 70 og 80cm/s) strømhastigheter kan ha betydning for 
+fiskens helse. I Figur 10.1 – Figur 10.6 vises varighet av lave (≤ 1, 3, 5 og 10cm/s) strømhastigheter 
+på hvert av de målte dypene i måleperiodene. Én hendelse er anvist som én prikk og den tilhørende 
+heltrukne linjen fra prikken indikerer hendelsens varighet. For de korteste varighetsklassene vises 
+ikke den heltrukne linjen på grunn av den korte varigheten i forhold til lengden av måleperioden. Det 
+var ingen tilfeller av strøm ≥ 50cm/s på begge dyp. 
+ 
+I Figur 10.1 – Figur 10.6 er varighetsklassene vist på venstre stående akse og tid langs liggende akse. 
+Høyre stående akse viser den korteste og lengste varigheten per hendelse, og den korteste og lengste 
+perioden mellom to hendelser. Enhetene på høyre stående akse er gitt som minutter (m), timer (t) og 
+døgn (d). For de lave strømhastighetene (≤ 1, 3, 5 og 10cm/s) er den lengste perioden hvor strøm er 
+høyere enn hastighetsklassene vist med stiplet linje. 
+ 
+I Tabell 10.1 – Tabell 10.6 gjenspeiler antall hendelser antall prikker per varighets- og 
+hastighetsklasse i Figur 10.1 – Figur 10.6. 
+ 
+Tabell 10.1. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+1m dyp i P1. 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+11 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+155 
+54 
+11 
+1 
+0 
+0 
+0 
+0 
+≤ 5cm/s 
+164 
+90 
+69 
+30 
+7 
+1 
+2 
+0 
+≤ 10cm/s 
+72 
+39 
+51 
+18 
+18 
+17 
+15 
+34 
+ 
+Tabell 10.2. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+1m dyp i P2. 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+73 
+18 
+4 
+1 
+0 
+0 
+0 
+0 
+≤ 5cm/s 
+92 
+53 
+41 
+7 
+1 
+1 
+1 
+0 
+≤ 10cm/s 
+14 
+18 
+21 
+10 
+7 
+5 
+4 
+23 
+ 
+Tabell 10.3. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+1m dyp i P3. 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+55 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+395 
+160 
+50 
+6 
+6 
+1 
+1 
+0 
+≤ 5cm/s 
+338 
+218 
+190 
+57 
+30 
+11 
+3 
+11 
+≤ 10cm/s 
+125 
+72 
+70 
+52 
+32 
+24 
+24 
+96 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 78 av 104 
+Tabell 10.4. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+1m dyp i P4. 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+41 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+190 
+102 
+54 
+12 
+7 
+2 
+0 
+0 
+≤ 5cm/s 
+193 
+82 
+68 
+37 
+17 
+12 
+15 
+29 
+≤ 10cm/s 
+32 
+20 
+18 
+17 
+10 
+7 
+7 
+56 
+ 
+Tabell 10.5. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+bunndyp (3m) i P1. 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+23 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+145 
+76 
+31 
+5 
+0 
+1 
+0 
+0 
+≤ 5cm/s 
+154 
+73 
+70 
+32 
+15 
+15 
+9 
+8 
+≤ 10cm/s 
+14 
+3 
+10 
+8 
+2 
+4 
+2 
+41 
+ 
+Tabell 10.6. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+bunndyp (3m) i P2. 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+12 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+75 
+32 
+22 
+5 
+2 
+2 
+0 
+0 
+≤ 5cm/s 
+72 
+35 
+37 
+12 
+8 
+8 
+7 
+5 
+≤ 10cm/s 
+6 
+3 
+5 
+4 
+2 
+3 
+0 
+16 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 79 av 104 
+ 
+ 
+Figur 10.1. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på 1m i P1. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 80 av 104 
+ 
+ 
+Figur 10.2. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på 1m i P2. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 81 av 104 
+ 
+ 
+Figur 10.3. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på 1m i P3. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 82 av 104 
+ 
+ 
+Figur 10.4. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på 1m i P4. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 83 av 104 
+ 
+ 
+Figur 10.5. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på bunndyp (3m) i P1. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 84 av 104 
+ 
+ 
+Figur 10.6. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på bunndyp (3m) i P2. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 85 av 104 
+11. Vedlegg – Strømmens tilstandsklasser 
+ 
+Tilstandsklasser for strømparametere er oppgitt i tabellen under. Verdiene er hentet fra strømdata 
+målt av Åkerblå ved bruk av Aanderaa punkmålere (Åkerblå, 2015). 
+ 
+Tabell 11.1. Tilstandsklasser for vurdering av strømdata. 
+ 
+Dyp 
+(m) 
+1 
+2 
+3 
+4 
+5 
+Maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 55 
+≥ 40 - < 55 
+≥ 26 - < 40 
+≥ 15 - < 26 
+< 15 
+Utskifting 15 
+≥ 45 
+≥ 30 - < 45 
+≥ 20 - < 30 
+≥ 10 - < 20 
+< 10 
+Spredning  
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Bunn 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Gjennomsnittlig strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 10 
+≥ 7 - < 10 
+≥ 6 - < 7 
+≥ 3 - < 6 
+< 3 
+Utskifting 15 
+≥ 9 
+≥ 6 - < 9 
+≥ 5 - < 6 
+≥ 2 - < 5 
+< 2 
+Spredning  
+≥ 8.5 
+≥ 5 - < 8.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Bunn 
+ 
+≥ 7.5 
+≥ 5 - < 7.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Signifikant maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 25 
+≥ 17 - < 25 
+≥ 11 - < 17 
+≥ 5 - < 11 
+< 5 
+Utskifting 15 
+≥ 23 
+≥ 15 - < 23 
+≥ 8 - < 15 
+≥ 4 - < 8 
+< 4 
+Spredning  
+≥ 20 
+≥ 14 - < 20 
+≥ 7 - < 14 
+≥ 4 - < 7 
+< 4 
+Bunn 
+ 
+≥ 16 
+≥ 11 - < 16 
+≥ 6.5 - < 11 
+≥ 3 - < 6.5 
+< 3 
+Signifikant minimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 6 
+≥ 4 - < 6 
+≥ 2.5 - < 4 
+≥ 1.5 - < 2.5 
+< 1.5 
+Utskifting 15 
+≥ 5 
+≥ 3.5 - < 5 
+≥ 2.3 - < 3.5 
+≥ 1.5 - < 2.3 
+< 1.5 
+Spredning  
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Bunn 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Andel strømstille (%) < 1cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 1 
+< 3 - ≥ 1 
+< 5 - ≥ 3 
+< 7 - ≥ 5 
+≥ 7 
+Utskifting 15 
+< 1 
+< 5 - ≥ 1 
+< 7 - ≥ 5 
+< 10 - ≥ 7 
+≥ 10 
+Spredning  
+< 3 
+< 8.5 - ≥ 3 
+< 15 - ≥ 8.5 
+< 20 - ≥ 15 
+≥ 20 
+Bunn 
+ 
+< 3 
+< 10 - ≥ 3 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Andel strømstille (%) < 3cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 5 
+< 10 - ≥ 5 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Utskifting 15 
+< 5 
+< 15 - ≥ 5 
+< 25 - ≥ 15 
+< 40 - ≥ 25 
+≥ 40 
+Spredning  
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 50 - ≥ 35 
+≥ 50 
+Bunn 
+ 
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 60 - ≥ 35 
+≥ 60 
+Effektiv transport (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 5 
+≥ 2.5 - < 5 
+≥ 1.5 - < 2.5 
+≥ 0.3 - < 1.5 
+< 0.3 
+Utskifting 15 
+≥ 3.5 
+≥ 2 - < 3.5 
+≥ 1 - < 2 
+≥ 0.2 - < 1 
+< 0.2 
+Spredning  
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Bunn 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Neumann-parameter 
+ 
+svært stabil 
+stabil 
+middels stabil 
+lite stabil 
+svært lite stabil 
+Alle dyp (m) 
+≥ 0.6 
+≥ 0.4 - < 0.6 
+≥ 0.2 - < 0.4 
+≥ 0.1 - < 0.2 
+< 0.1 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 86 av 104 
+12. Vedlegg – Månedlige tidevannsvariasjoner 
+ 
+Strømmålinger er påvirket av blant annet tidevannsstrøm og kan bli påvirket av vind og vær. Månedlige tidevannsvariasjoner er vist i figuren under.    
+ 
+ 
+Figur 12.1. Månedlige tidevannsvariasjoner hvor stolpehøyde angir relativ tidevannsstrøm og stolpefarge indikerer månefaser (oransje – siste kvarter; 
+rød – nymåne; brun – første kvarter; grønn - fullmåne). 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 87 av 104 
+13. Vedlegg – Måleenheter 
+ 
+Alle måleenheter brukt i rapporten er beskrevet i tabellen under. 
+ 
+Tabell 13.1. Måleenheter brukt i rapporten. 
+Beskrivelse 
+Måleenhet 
+Dag og Tid 
+Tidsstempel i tidsserier er gitt ved midnatt, slik 
+at tidsserier starter midnatt før første målepunkt 
+og slutter midnatt etter siste målepunkt. 
+dd.mm.yy hh:mm (UTC) 
+dd.mm (UTC) 
+dd.mm.yyyy hh (UTC) 
+Høyde / Dybde 
+Meter (m) 
+Avstand  
+Kilometer (km) 
+Meter (m) 
+Posisjon / Koordinater 
+Posisjon er oppgitt i koordinatsystemet WGS64 
+(World Geodetic System 1984). 
+GGG (º) MM.MM (') 
+Strømretning (mot) 
+Grader (º) 
+Strømhastighet  
+Centimeter per sekund (cm/s) 
+Vindhastighet 
+Meter per sekund (m/s) 
+Vindretning (fra) 
+Grader (º) 
+Tidevannsnivå 
+Centimeter (cm) 
+Temperatur 
+Grader celsius (℃) 
+Helning 
+Grader (º) 
+Ping Count 
+Antall 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 88 av 104 
+14. Vedlegg – Parametere og beskrivelse 
+ 
+Tabell 14.1. Parametere brukt i rapporten og beskrivelse av disse. 
+Parameter 
+Beskrivelse 
+Sjøtemperatur (℃) 
+Temperatur i vannet målt ved måledyp 
+Strømhastighet 
+Maksimum (cm/s) 
+Høyeste verdi av alle data 
+Gjennomsnitt (cm/s) 
+Matematisk gjennomsnittlig verdi av alle data 
+Minimum (cm/s) 
+Laveste verdi av alle data 
+Signifikant maks (cm/s)  Matematisk gjennomsnitt av høyeste 1/3 av data 
+Signifikant min (cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av data 
+Varians (cm/s)2 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+om data varierte mye mellom suksessivt høye og lave verdier. En høy 
+varians indikerer at datapunkter er meget spredt ut rundt 
+gjennomsnittsverdien, mens en lav varians indikerer at datapunkter er 
+veldig nær gjennomsnittsverdien og derfor også hverandre. 
+Varians 
+= 
+Gjennomsnittet 
+av 
+de 
+kvadrerte 
+forskjeller 
+fra 
+gjennomsnittsverdien. 
+Standardavvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+gjennomsnittlig avstand fra gjennomsnittsverdi. Et høyt standardavvik 
+indikerer stor spredning av data.   
+Standardavvik = kvadratrot (varians). 
+% < x cm/s  
+Mengden strøm med strømhastighet < x cm/s  
+Lengst periode < x cm/s Varighet av lengste periode med strømhastighet < x cm/s 
+Effektiv transport 
+Hastighet (cm/s) 
+Hastighet er en funksjon av posisjon og tid. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, da er effektiv hastighet gitt som den rettlinjede avstanden 
+mellom partikkelens start- og sluttposisjon delt på total tid i 
+måleperioden.   
+Retning (grader) 
+Retning er vinkelen til en linje ut fra origo. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, er resultatretning eller retning av effektiv transport gitt 
+som vinkelen fra partikkelens startposisjon til partikkelens posisjon ved 
+måleperiodens slutt. 
+Neumann-parameter 
+Verdi som indikerer stabiliteten til strømmen. Neumann-parameteren 
+beregnes ut fra forholdet mellom den rettlinjede avstanden mellom en 
+tenkt drivende partikkels start- og sluttposisjon, og partikkelens totale 
+bane i løpet av måleperioden. Stabil strøm (høy Neumann-parameter) 
+betyr at vannet strømmer i «en» retning og beveger seg bort fra 
+startpunktet hele tiden. Ustabil strøm (lav Neumann-parameter) betyr at 
+vannet strømmer i ulike retninger og kanskje bare flyter fram og tilbake 
+ved startpunktet.  For eksempel, en Neumann-parameter på 0.7 betyr at 
+strømmen i løpet av måleperioden strømmer med 70% stabilitet i en 
+bestemt retning. Dette er klassifisert som svært stabil strøm.   
+Vannforflytning 
+(m3/m2/d) 
+Mengden vann som strømmer gjennom en tenkt flate på 1 m2 i løpet av 
+et døgn.  
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 89 av 104 
+15. Vedlegg – Referanser 
+ 
+1. 
+Brukerveiledning. Aanderaa RCM Blue punktmåler. 
+ 
+2. 
+Codiga, D. L. (2021). Unified Tidal Analysis and Prediction Using the UTide Matlab 
+Functions. Technical Report 2011-01. Graduate School of Oceanography, University of 
+Rhode Island, Narragansett, RI. 59pp. 
+ 
+3. 
+Geonorge (2025). www.geonorge.no 
+ 
+4. 
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography. 
+Elsevier Science. 
+ 
+ 
+5. 
+IOC (1993). Manual of Quality Control Procedures for validation of Oceanographic Data. 
+Tilgjengelig: 
+http://www.iode.org/components/com_oe/oe.php?task=download&id=20423 
+&version=1st%20edition&lang=1&format=1 
+ 
+6. 
+Kartverket (2025). www.kartverket.no/sehavniva 
+ 
+ 
+7. 
+Meteorologisk institutt (2025). www.seklima.met.no 
+ 
+8. 
+NS 9425-1:1999. Oseanografi – Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 
+6s. 
+ 
+9. 
+Åkerblå 
+(2015). 
+Strømklassifisering. 
+Åkerblå 
+AS-rapport: 
+Strøm- 
+Klassifisering-
+AanderaaPunktMåler-Okt2015, 2 sider. 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 90 av 104 
+16. Vedlegg – Resultater per måned på 1m dyp 
+ 
+16.1 Sammendrag av strømdata 
+ 
+Resultater per måledyp over hele måleperioden er sammenfattet i Tabell 4.1.1. Resultater per måned 
+for 1m dyp er sammenfattet i Tabell 16.1.1. Verdiene er klassifisert (fargelagt) etter: «Vedlegg – 
+Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er forklart i «Vedlegg – 
+Parametere og beskrivelse». 
+ 
+Tabell 16.1.1. Sammendrag av strømdata fra 1m dyp per måned. 
+Måledyp - 1m 
+mar25 apr25 mai25 jun25 jul25 aug25 sep25 okt25 nov25 
+Maksimum (cm/s) 
+38.9 
+39.4 
+34.3 
+44.0 
+32.1 
+41.5 
+27.0 
+33.2 
+19.3 
+Gjennomsnitt (cm/s) 
+8.4 
+7.0 
+6.8 
+7.8 
+5.8 
+7.3 
+5.6 
+6.7 
+4.8 
+Minimum (cm/s) 
+0.3 
+0.1 
+0.1 
+0.1 
+0.0 
+0.1 
+0.0 
+0.1 
+0.1 
+Signifikant maks (cm/s) 
+14.6 
+12.3 
+11.3 
+13.9 
+10.5 
+13.4 
+9.2 
+12.3 
+8.0 
+Signifikant min (cm/s) 
+3.4 
+2.8 
+3.1 
+3.0 
+2.1 
+2.7 
+2.6 
+2.5 
+2.1 
+Varians (cm/s)² 
+34.5 
+24.0 
+18.2 
+32.8 
+18.3 
+30.6 
+11.2 
+27.6 
+8.1 
+Standardavvik (cm/s) 
+5.9 
+4.9 
+4.3 
+5.7 
+4.3 
+5.5 
+3.3 
+5.3 
+2.8 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+2.1 
+1.9 
+1.8 
+1.9 
+4.1 
+2.4 
+1.8 
+2.3 
+3.0 
+Lengste periode < 1cm/s (min) 
+10 
+50 
+20 
+30 
+70 
+30 
+20 
+40 
+20 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+11.7 
+16.8 
+14.3 
+14.9 
+27.0 
+18.4 
+19.9 
+21.5 
+28.5 
+Lengste periode < 3cm/s (min) 
+60 
+130 
+120 
+200 
+350 
+190 
+300 
+290 
+230 
+% < 10cm/s (dvs. 0 - < 
+10cm/s)
+71.9 
+80.2 
+83.3 
+76.5 
+87.1 
+78.0 
+91.3 
+82.9 
+93.7 
+Lengste periode < 10cm/s 
+(min)
+390 
+2060 1750 1080 4020 4340 3730 5250 4030 
+% ≥ 30cm/s 
+0.9 
+0.3 
+0.09 
+0.8 
+0.02 
+0.5 
+0.0 
+0.2 
+0.0 
+Lengste periode ≥ 30cm/s 
+(min)
+40 
+40 
+20 
+40 
+10 
+60 
+0 
+40 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s 
+(min)
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+2.8 
+2.4 
+2.0 
+2.9 
+1.6 
+3.1 
+1.6 
+1.0 
+2.8 
+Retning (grader) 
+28 
+69 
+139 
+94 
+84 
+55 
+153 
+79 
+209 
+Neumann-parameter 
+0.3 
+0.3 
+0.3 
+0.4 
+0.3 
+0.4 
+0.3 
+0.2 
+0.6 
+Gjennomsnittlig 
+vannforflytning (m³/m²/d) 
+7288 6030 5871 6699 5014 6334 4862 5758 4132 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 91 av 104 
+16.2 Strømroser 
+ 
+Strømrosene viser strømhastighet og strømretning for hver måned. Strømroser gir en indikasjon på 
+hovedstrømretning og om tidevannsellipsen er rettlinjet eller sirkulær. 
+ 
+1m-mar25 
+1m-apr25 
+ 
+ 
+1m-mai25 
+1m-jun25 
+ 
+ 
+1m-jul25 
+1m-aug25 
+ 
+ 
+Figur 16.2.1. Strømroser på 1m dyp i mars, april, mai, juni, juli og august 2025. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 92 av 104 
+1m-sep25 
+1m-okt25 
+ 
+ 
+1m-nov25 
+ 
+Figur 16.2.2. Strømroser på 1m dyp i september, oktober og november 2025. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 93 av 104 
+16.3 Tidsdiagram – strømhastighet 
+ 
+Strømhastighet på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 16.3.1. Tidsdiagram av strømhastighet på 1m dyp i mars, april, mai og juni 2025. 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 94 av 104 
+ 
+ 
+ 
+ 
+ 
+Figur 16.3.2. Tidsdiagram av strømhastighet på 1m dyp i juli, august, september og oktober 2025. 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 95 av 104 
+ 
+ 
+Figur 16.3.3. Tidsdiagram av strømhastighet på 1m dyp i november 2025. Strømhastighet er indikert 
+på stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 96 av 104 
+16.4 Tidsdiagram – strømretning 
+ 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 16.4.1. Tidsdiagram av strømretning på 1m dyp i mars, april, mai og juni 2025. Strømretning 
+er indikert på stående akse og tid på liggende akse. 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 97 av 104 
+ 
+ 
+ 
+ 
+ 
+Figur 16.4.2. Tidsdiagram av strømretning på 1m dyp i juli, august, september og oktober 2025. 
+Strømretning er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 98 av 104 
+ 
+ 
+Figur 16.4.3. Tidsdiagram av strømretning på 1m dyp i november 2025. Strømretning er indikert på 
+stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 99 av 104 
+16.5 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt hastighet 
+(cm/s). 
+ 
+Tabell 16.5.1. Persentilfordeling av strømhastighet (cm/s) for 1m dyp per måned. 
+Persentil 
+- 1m 
+mar25 
+apr25 
+mai25 
+jun25 
+jul25 
+aug25 
+sep25 
+okt25 
+nov25 
+1 
+0.7 
+0.7 
+0.7 
+0.7 
+0.5 
+0.7 
+0.8 
+0.7 
+0.5 
+10 
+2.7 
+2.3 
+2.5 
+2.4 
+1.6 
+2.1 
+2.2 
+2.0 
+1.7 
+20 
+4.0 
+3.3 
+3.6 
+3.5 
+2.4 
+3.2 
+3.0 
+2.9 
+2.4 
+30 
+5.1 
+4.1 
+4.4 
+4.4 
+3.2 
+4.1 
+3.7 
+3.6 
+3.1 
+40 
+6.3 
+4.9 
+5.2 
+5.3 
+3.9 
+4.9 
+4.4 
+4.3 
+3.6 
+50 
+7.3 
+5.8 
+6.0 
+6.2 
+4.8 
+5.8 
+5.0 
+5.1 
+4.3 
+60 
+8.4 
+6.8 
+6.8 
+7.4 
+5.7 
+6.9 
+5.7 
+6.0 
+4.9 
+70 
+9.7 
+7.9 
+7.8 
+8.6 
+6.9 
+8.3 
+6.5 
+7.2 
+5.7 
+80 
+11.3 
+10.0 
+9.2 
+10.9 
+8.4 
+10.6 
+7.6 
+9.1 
+6.7 
+90 
+15.1 
+13.4 
+12.0 
+15.0 
+11.2 
+15.0 
+9.6 
+14.2 
+8.8 
+95 
+20.8 
+16.9 
+15.2 
+19.7 
+14.4 
+18.9 
+12.0 
+18.3 
+10.5 
+99 
+29.6 
+24.5 
+22.3 
+28.7 
+21.3 
+26.4 
+18.0 
+25.7 
+13.3 
+ 
+16.6 Prosentfordeling av strømhastighet 
+ 
+Verdiene i tabellen indikerer prosent av data som er lik eller høyere enn strømhastighet (cm/s) oppgitt 
+i kolonnen til venstre. 
+ 
+Tabell 16.6.1. Prosent (%) av data for 1m dyp som er lik eller høyere enn oppgitt hastighet. 
+Strømhastighet 
+(cm/s) - 1m 
+mar25 
+apr25 
+mai25 
+jun25 
+jul25 
+aug25 
+sep25 
+okt25 
+nov25 
+1 
+97.9 
+98.1 
+98.2 
+98.1 
+95.9 
+97.6 
+98.2 
+97.7 
+97.0 
+3 
+88.3 
+83.2 
+85.7 
+85.1 
+73.0 
+81.6 
+80.1 
+78.5 
+71.5 
+5 
+70.7 
+58.7 
+62.7 
+63.5 
+47.2 
+58.5 
+50.3 
+51.2 
+38.3 
+10 
+28.1 
+19.8 
+16.7 
+23.5 
+12.9 
+22.0 
+8.7 
+17.1 
+6.3 
+20 
+5.5 
+2.5 
+1.8 
+4.8 
+1.3 
+3.9 
+0.5 
+3.7 
+ 
+30 
+0.9 
+0.3 
+0.09 
+0.8 
+0.02 
+0.5 
+ 
+0.2 
+ 
+40 
+ 
+ 
+ 
+0.05 
+ 
+0.04 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 100 av 104 
+17. Vedlegg – Resultater per måned på bunndyp (3m) 
+ 
+17.1 Sammendrag av strømdata 
+ 
+Resultater per måledyp over hele måleperioden er sammenfattet i Tabell 4.1.1. Resultater per måned 
+for bunndyp (3m) er sammenfattet i Tabell 17.1.1. Verdiene er klassifisert (fargelagt) etter: «Vedlegg 
+– Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er forklart i «Vedlegg – 
+Parametere og beskrivelse». 
+ 
+Tabell 17.1.1. Sammendrag av strømdata fra bunndyp (3m) per måned. 
+Måledyp - bunndyp (3m) 
+mar25 
+apr25 
+mai25 
+Maksimum (cm/s) 
+14.4 
+21.4 
+20.1 
+Gjennomsnitt (cm/s) 
+5.3 
+5.1 
+4.8 
+Minimum (cm/s) 
+0.2 
+0.1 
+0.1 
+Signifikant maks (cm/s) 
+7.6 
+8.0 
+7.6 
+Signifikant min (cm/s) 
+3.0 
+2.5 
+2.2 
+Varians (cm/s)² 
+4.8 
+6.8 
+6.7 
+Standardavvik (cm/s) 
+2.2 
+2.6 
+2.6 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+1.2 
+2.8 
+3.3 
+Lengste periode < 1cm/s (min) 
+20 
+30 
+40 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+14.4 
+21.7 
+26.5 
+Lengste periode < 3cm/s (min) 
+120 
+270 
+290 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+97.2 
+95.4 
+95.9 
+Lengste periode < 10cm/s (min) 
+5090 
+6380 
+9760 
+% ≥ 30cm/s 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+0 
+0 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+4.7 
+4.0 
+3.4 
+Retning (grader) 
+174 
+162 
+173 
+Neumann-parameter 
+0.9 
+0.8 
+0.7 
+Gjennomsnittlig vannforflytning 
+(m³/m²/d) 
+4540 
+4385 
+4119 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 101 av 104 
+17.2 Strømroser 
+ 
+Strømrosene viser strømhastighet og strømretning for hver måned. Strømroser gir en indikasjon på 
+hovedstrømretning og om tidevannsellipsen er rettlinjet eller sirkulær. 
+ 
+Bunn (3m)-mar25 
+Bunn (3m)-apr25 
+ 
+ 
+Bunn (3m)-mai25 
+ 
+Figur 17.2.1. Strømroser på bunndyp (3m) i mars, april og mai 2025. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 102 av 104 
+17.3 Tidsdiagram – strømhastighet 
+ 
+Strømhastighet på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+Figur 17.3.1. Tidsdiagram av strømhastighet på bunndyp (3m) i mars, april og mai 2025. 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 103 av 104 
+17.4 Tidsdiagram – strømretning 
+ 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+Figur 17.4.1. Tidsdiagram av strømretning på bunndyp (3m) i mars, april og mai 2025. Strømretning 
+er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Trollbukta, Sørfold kommune  
+Åkerblå AS 
+ 
+Side 104 av 104 
+17.5 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt hastighet 
+(cm/s). 
+ 
+Tabell 17.5.1. Persentilfordeling av strømhastighet (cm/s) for bunndyp (3m) per måned. 
+Persentil - bunndyp 
+(3m) 
+mar25 
+apr25 
+mai25 
+1 
+1.0 
+0.6 
+0.6 
+10 
+2.6 
+2.0 
+1.7 
+20 
+3.4 
+2.9 
+2.6 
+30 
+4.0 
+3.5 
+3.2 
+40 
+4.6 
+4.1 
+3.8 
+50 
+5.1 
+4.7 
+4.5 
+60 
+5.6 
+5.4 
+5.1 
+70 
+6.2 
+6.2 
+5.8 
+80 
+6.9 
+7.1 
+6.6 
+90 
+7.9 
+8.5 
+8.0 
+95 
+9.1 
+9.8 
+9.4 
+99 
+11.7 
+12.6 
+12.8 
+ 
+17.6 Prosentfordeling av strømhastighet 
+ 
+Verdiene i tabellen indikerer prosent av data som er lik eller høyere enn strømhastighet (cm/s) oppgitt 
+i kolonnen til venstre. 
+ 
+Tabell 17.6.1. Prosent (%) av data for bunndyp (3m) som er lik eller høyere enn oppgitt hastighet. 
+Strømhastighet (cm/s) - 
+bunndyp (3m) 
+mar25 
+apr25 
+mai25 
+1 
+98.8 
+97.2 
+96.7 
+3 
+85.6 
+78.3 
+73.5 
+5 
+52.3 
+45.5 
+41.4 
+10 
+2.8 
+4.6 
+4.1 
+20 
+ 
+0.02 
+0.03

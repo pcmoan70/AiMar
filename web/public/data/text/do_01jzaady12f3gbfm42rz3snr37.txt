@@ -1,0 +1,7108 @@
+﻿Strømrapport  
+ 
+Måling av overflate- (5m), 
+dimensjonerings- (15m), sprednings- og 
+bunnstrøm ved 
+ 
+Skogsholmen i 
+ 
+februar - mai 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 2 av 90 
+Rapport 
+Rapportbeskrivelse 
+og -navn 
+Vurdering av strømforhold ved Skogsholmen. 
+SR-VS-Skogsholmen-103512-01-001.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+10.06.22 
+Første utgivelse 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten 
+kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde 
+oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Skogsholmen 
+Lokalitetsnummer 
+33157 
+Kommune  
+Vega 
+Fylke 
+Nordland 
+Oppdragsgiver 
+Selskap 
+Vega Sjøfarm AS; Postboks 34, 8764 LOVUND, NORGE 
+Kontaktperson 
+Maren Elise Nyberg 
+Maren.Elise.Nyberg@novasea.no 
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+Organisasjonsnummer: 916 763 816 
+Feltarbeidsansvarlig 
+Torbjørn Gylt 
+torbjorn@akerbla.no 
+Rapportansvarlig         Aleksander Libæk 
+aleksander.libaek@akerbla.no 
+Kontrollert av   
+Øystein Breiteig 
+oystein.breiteig@akerbla.no 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+Resultat nøkkeltall 
+Måledyp 
+5m 
+15m 
+Spredning 
+(79m) 
+Bunn (133m) 
+Maksimal strøm (cm/s) (retning) 
+22.8 (N) 
+27.0 (NV) 
+22.3 (NV) 
+24.9 (NV) 
+Gjennomsnittlig strøm (cm/s) 
+6.0 
+4.2 
+2.7 
+2.6 
+Strømstyrke < 1cm/s (%) 
+3.2 
+5.7 
+18.7 
+19.5 
+Strømstyrke < 3cm/s (%) 
+22.2 
+37.4 
+73.6 
+74.9 
+Strømstyrke < 10cm/s (%) 
+86.4 
+96.2 
+96.9 
+97.6 
+Strømstyrke ≥ 30cm/s (%) 
+0.0 
+0.0 
+0.0 
+0.0 
+Strømstyrke ≥ 50cm/s (%) 
+0.0 
+0.0 
+0.0 
+0.0 
+Neumann-parameter 
+0.1 
+0.0 
+0.3 
+0.1 
+10-års strøm (maksimal) 
+38 
+45 
+- 
+- 
+50-års strøm (maksimal) 
+42 
+50 
+- 
+- 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 3 av 90 
+Innholdsfortegnelse 
+ 
+1. 
+Forord .......................................................................................................................................... 6 
+2. 
+Områdebeskrivelse ..................................................................................................................... 7 
+3. 
+Metodikk ...................................................................................................................................... 8 
+4. 
+Resultater ................................................................................................................................... 11 
+4.1 
+Sammendrag av strømdata .............................................................................................. 11 
+4.2 
+Strømroser ....................................................................................................................... 12 
+4.3 
+Matrise med strømhastighet og -retning ......................................................................... 13 
+4.4 
+Strømmens hastighetsfordeling ....................................................................................... 17 
+4.5 
+Strømmens retningsfordeling .......................................................................................... 18 
+4.6 
+Tidsdiagram – Strømhastighet ........................................................................................ 19 
+4.7 
+Tidsdiagram – Strømretning ........................................................................................... 20 
+4.8 
+Tidsdiagram – Temperatur .............................................................................................. 21 
+4.9 
+Progressivt vektordiagram .............................................................................................. 22 
+4.10 
+Fordelingsdiagram – Maksimal strømhastighet .............................................................. 23 
+4.11 
+Fordelingsdiagram – Gjennomsnittshastighet ................................................................. 24 
+4.12 
+Fordelingsdiagram – Relativ vannfluks .......................................................................... 25 
+4.13 
+Fordelingsdiagram – Antall observasjoner ..................................................................... 26 
+4.14 
+Maksimal strømhastighet i 8 retningssektorer ................................................................ 27 
+4.15 
+Gjennomsnittlig strømhastighet i 8 retningssektorer ...................................................... 27 
+4.16 
+Antall målinger i 8 retningssektorer ................................................................................ 27 
+4.17 
+Relativ vannutskiftning i 8 retningssektorer ................................................................... 27 
+4.18 
+10-års og 50-års strømhastighet i 8 retningssektorer ...................................................... 28 
+4.19 
+Persentilfordeling av strømhastighet ............................................................................... 29 
+4.20 
+Prosentfordeling av strømhastighet ................................................................................. 29 
+4.21 
+Strømfordeling ................................................................................................................ 30 
+4.22 
+Strømvarighet .................................................................................................................. 32 
+4.23 
+Tidevannsanalyse ............................................................................................................ 34 
+4.24 
+Todagersperiode .............................................................................................................. 37 
+4.25 
+Vind under måleperioden ................................................................................................ 38 
+4.26 
+Utslippskontur ................................................................................................................. 41 
+4.27 
+CTD-profil....................................................................................................................... 42 
+5. 
+Diskusjon ................................................................................................................................... 43 
+5.1 
+Høye strømmålinger ........................................................................................................ 43 
+5.2 
+Tidevannspåvirkning ....................................................................................................... 43 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 4 av 90 
+5.3 
+Vindpåvirkning ............................................................................................................... 43 
+5.4 
+Vannutskiftning ............................................................................................................... 44 
+5.5 
+Mulig spredning av utslipp.............................................................................................. 44 
+5.6 
+Vannsøylens vertikale struktur ........................................................................................ 45 
+6. 
+Vedlegg – Bakgrunnsinformasjon ........................................................................................... 47 
+6.1 
+Valg av sted, dyp og periode for strømmålinger ............................................................. 47 
+6.2 
+Spesifikasjoner for strøminstrumenter ............................................................................ 48 
+6.3 
+Måleprinsipp for strømmålinger ..................................................................................... 49 
+6.4 
+CTD-målinger ................................................................................................................. 49 
+7. 
+Vedlegg – Riggoppsett .............................................................................................................. 50 
+7.1 
+Riggoppsett ..................................................................................................................... 50 
+8. 
+Vedlegg – Databearbeiding og kvalitetssikring ...................................................................... 53 
+8.1 
+Databearbeiding .............................................................................................................. 53 
+8.2 
+Kvalitetssikring av data ................................................................................................... 55 
+8.3 
+Fjernede dataverdier ........................................................................................................ 61 
+8.3.1 
+Måleperiode ............................................................................................................... 61 
+8.3.2 
+Enkelte datapunkter.................................................................................................... 61 
+9. 
+Vedlegg – Fyrstikkdiagram av vind og strøm ........................................................................ 62 
+10. Vedlegg – Strømmens tilstandsklasser .................................................................................... 66 
+11. Vedlegg – Månedlige tidevannsvariasjoner ............................................................................ 67 
+12. Vedlegg – Måleenheter ............................................................................................................. 68 
+13. Vedlegg – Parametere og beskrivelse ...................................................................................... 69 
+14. Vedlegg – Referanser ................................................................................................................ 70 
+15. Vedlegg - Resultater per måned på 5m dyp ........................................................................... 71 
+15.1 
+Sammendrag av strømdata .............................................................................................. 71 
+15.2 
+Strømroser ....................................................................................................................... 72 
+15.3 
+Tidsdiagram – strømhastighet ......................................................................................... 73 
+15.4 
+Tidsdiagram – strømhastighet ......................................................................................... 74 
+15.5 
+Persentilfordeling av strømhastighet ............................................................................... 75 
+15.6 
+Prosentfordeling av strømhastighet ................................................................................. 75 
+16. Vedlegg - Resultater per måned på 15m dyp ......................................................................... 76 
+16.1 
+Sammendrag av strømdata .............................................................................................. 76 
+16.2 
+Strømroser ....................................................................................................................... 77 
+16.3 
+Tidsdiagram – strømhastighet ......................................................................................... 78 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 5 av 90 
+16.4 
+Tidsdiagram – strømhastighet ......................................................................................... 79 
+16.5 
+Persentilfordeling av strømhastighet ............................................................................... 80 
+16.6 
+Prosentfordeling av strømhastighet ................................................................................. 80 
+17. Vedlegg - Resultater per måned på spredningsdyp (79m) .................................................... 81 
+17.1 
+Sammendrag av strømdata .............................................................................................. 81 
+17.2 
+Strømroser ....................................................................................................................... 82 
+17.3 
+Tidsdiagram – strømhastighet ......................................................................................... 83 
+17.4 
+Tidsdiagram – strømhastighet ......................................................................................... 84 
+17.5 
+Persentilfordeling av strømhastighet ............................................................................... 85 
+17.6 
+Prosentfordeling av strømhastighet ................................................................................. 85 
+18. Vedlegg - Resultater per måned på bunndyp (133m) ............................................................ 86 
+18.1 
+Sammendrag av strømdata .............................................................................................. 86 
+18.2 
+Strømroser ....................................................................................................................... 87 
+18.3 
+Tidsdiagram – strømhastighet ......................................................................................... 88 
+18.4 
+Tidsdiagram – strømhastighet ......................................................................................... 89 
+18.5 
+Persentilfordeling av strømhastighet ............................................................................... 90 
+18.6 
+Prosentfordeling av strømhastighet ................................................................................. 90 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 6 av 90 
+1. Forord 
+ 
+Åkerblå AS har på oppdrag fra Vega Sjøfarm AS utført strømmålinger ved oppdrettslokalitet 
+Skogsholmen som er vurdert etter beliggenhet, strømforhold, temperatur, vannutskiftning, tidevann 
+og vind. 
+ 
+Resultatene fra undersøkelsen gjelder for gitte prøvepunkt og på gitt tidspunkt hvor vurderingen av 
+strømforhold over området er vurdert på bakgrunn av resultatene. 
+ 
+NYTEK-forskriften har som mål å begrense rømming av fisk fra oppdrettsanlegg. NS 9415:2009 
+krever at alle lokaliteter undersøkes og beskrives ut fra topografi og eksponeringsgrad i form av 
+parametere som danner grunnlag for beregning av miljølaster på et anlegg.   
+ 
+Alle omsøkte akvakulturlokaliteter skal også kunne ivareta artens krav til et godt levemiljø 
+(Mattilsynet, 2016). Det må være tilstrekkelig tilførsel av vann av egnet kvalitet. Spesielt relevant er 
+oksygen – som er vurdert etter blant annet strømforhold og vannutskiftning – og temperatur.   
+ 
+Denne rapporten tilfredsstiller kravene i NS 9415:2009, samt anbefalingene i retningslinje for 
+etableringssøknader fra Mattilsynet (2016). For måleperioder kortere enn ett år benyttes 
+multiplikasjonsfaktor fra NS 9415:2021 for fastsettelse av dimensjonerende strømhastigheter, etter 
+dispensasjon fra Fiskeridirektoratet (Fiskeridirektoratet, 2021).  
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 7 av 90 
+2. Områdebeskrivelse 
+ 
+Målepunktene for Skogsholmen ligger i Vega kommune, Nordland (Figur 2.1). Skogsholmen ligger 
+på sørsiden av Kilværfjorden og N/NØ for øya Vega. 
+ 
+På grunn av omkringliggende topografi er området relativt eksponert for vind fra alle retninger.  
+ 
+Dybden under strømmålerposisjonene er ca. 108m dyp for 5m og 15m og ca. 130m dyp for 
+spredningsdyp og bunndyp. Bunntopografien under begge måleposisjonene er orientert N/NV – 
+S/SØ. 
+ 
+Dybden under anlegget varierer mellom 110m og 120m. Mot nordvest øker dypet mot en renne på 
+340m dyp sentralt i Kilværfjorden. 
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonene, anvist med rød pinne. Kartet er hentet 
+fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 8 av 90 
+3. Metodikk 
+ 
+Strømmålinger er kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter 
+som ble benyttet er oppgitt i Tabell 3.1. Strømmen ble målt i to rigger, hvor avstanden mellom disse 
+var 280m. 
+ 
+Ut fra topografi og bunntopografi er plasseringen vurdert som god for å dokumentere 
+strømforholdene i området (Figur 3.1 – Figur 3.2). Målerne på 5m og 15m dyp er plassert i posisjonen 
+som sannsynligvis oppgir høyeste strømhastighet i området der anlegget ligger. 
+ 
+Tabell 3.1. Bakgrunnsinformasjon om strømmåling.  
+Måledyp 
+5m 
+15m 
+Spredning 
+(79m) 
+Bunn (133m) 
+Posisjonsanvisning 
+ 
+ 
+ 
+ 
+Posisjon 
+65° 50.015' N; 
+012° 04.166' Ø 
+65° 50.015' N; 
+012° 04.166' Ø 
+65° 49.873' N; 
+012° 04.291' Ø 
+65° 49.873' N; 
+012° 04.291' Ø 
+Dyp på målested 
+110m 
+110m 
+134m 
+134m 
+Instrumenttype 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Måleperiode 
+18.02.22 - 
+19.05.22 
+18.02.22 - 
+19.05.22 
+18.02.22 - 
+19.05.22 
+18.02.22 - 
+19.05.22 
+Måleintervall 
+10 minutter 
+10 minutter 
+10 minutter 
+10 minutter 
+Antall døgn 
+90.1 / 90.1 
+90.1 / 90.1 
+90.1 / 90.1 
+90.1 / 90.1 
+Fjernede datapunkt 
+1 
+1 
+0 
+0 
+Manglende datapunkt 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 9 av 90 
+ 
+Figur 3.1. Plassering av strømmålere på 5m og 15m er anvist med et gult kryss og plassering av 
+strømmålere på spredningsdyp (79m) og bunndyp (133m) er anvist med et rødt kryss. Kompasspila 
+øverst i venstre hjørne indikerer kartets orientering. Kartet er hentet fra Olex. Kartdatum: WGS84.   
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 10 av 90 
+ 
+Figur 3.2. 3D-bilde av bunntopografi i området. Den tynne kompasspila øverst i venstre hjørne 
+indikerer kartets orientering (øverste bilde) og den tykke kompasspila indikerer kameraets 
+orientering (midterste og nederste bilde). De små bildene viser kameraets utsiktspunkt for den 
+tilhørende bunntopografien. Kartene er hentet fra Olex. Kartdatum: WGS84.   
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 11 av 90 
+4. Resultater  
+ 
+4.1 
+Sammendrag av strømdata 
+ 
+Resultater per måledyp for hele måleperioden er sammenfattet i Tabell 4.1.1. Verdiene er klassifisert 
+(fargelagt) etter: «Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er 
+forklart i «Vedlegg – Parametere og beskrivelse». 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra 5m, 15m, spredningsdyp (79m) og bunndyp (133m). 
+Måledyp 
+5m 
+15m 
+Spredning 
+(79m) 
+Bunn 
+(133m) 
+Sjøtemperatur (°C) 
+3.0 - 7.3 
+3.2 - 6.6 
+3.1 - 6.2 
+3.4 - 5.2 
+Strømhastighet 
+Maksimum (cm/s) 
+22.8 
+27.0 
+22.3 
+24.9 
+Gjennomsnitt (cm/s) 
+6.0 
+4.2 
+2.7 
+2.6 
+Minimum (cm/s) 
+0.0 
+0.1 
+0.0 
+0.0 
+Signifikant maks (cm/s) 
+10.1 
+7.2 
+5.2 
+4.9 
+Signifikant min (cm/s) 
+2.4 
+1.7 
+0.9 
+0.9 
+Varians (cm/s)² 
+13.4 
+7.3 
+6.7 
+5.9 
+Standardavvik (cm/s) 
+3.7 
+2.7 
+2.6 
+2.4 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+3.2 
+5.7 
+18.7 
+19.5 
+Lengste periode < 1cm/s (min) 
+110 
+100 
+90 
+140 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+22.2 
+37.4 
+73.6 
+74.9 
+Lengste periode < 3cm/s (min) 
+480 
+1280 
+1890 
+1400 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+86.4 
+96.2 
+96.9 
+97.6 
+Lengste periode < 10cm/s (min) 
+7740 
+17100 
+56930 
+34390 
+% ≥ 30cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+0 
+0 
+0 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+0.6 
+0.2 
+0.8 
+0.4 
+Retning (grader) 
+320 
+343 
+331 
+352 
+Neumann-parameter 
+0.1 
+0.0 
+0.3 
+0.1 
+Gjennomsnittlig vannforflytning (m³/m²/d) 
+5148 
+3663 
+2326 
+2218 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 12 av 90 
+4.2 
+Strømroser 
+ 
+Strømrosene viser strømhastighet og -retning under hele måleperioden. Strømrosene viser hvor stor 
+andel av målingene som er registrert for hver 10º-sektor, vist som prosentandel i figurene, og hvilken 
+strømhastighetsklasse som er registrert i de ulike sektorene. Strømroser gir en indikasjon på om 
+strømmen har en dominerende retning eller ikke. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (79m) 
+Bunn (133m) 
+ 
+ 
+Figur 4.2.1. Strømroser på 5m, 15m, spredningsdyp (79m) og bunndyp (133m). 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 13 av 90 
+4.3 
+Matrise med strømhastighet og -retning 
+ 
+Strømretninger er fordelt i 15º-sektorer (sektorene er vist i venstre kolonne). Den nederste linjen 
+viser den prosentvise fordelingen av de registrerte strømhastighetene. Kolonnen til høyre viser den 
+prosentvise fordelingen i de ulike 15º-sektorene og antall kubikkmeter vann som i måleperioden vil 
+passere et tenkt vindu på 1x1 meter i den aktuelle strømretningen. Kolonnen til høyre viser også 
+maksimal strømhastighet i hver 15º-sektor.    
+ 
+Hastighetsfordeling er ≥ (lavest verdi) og < (høyest verdi) i oppgitt hastighetsrekkevidde. 
+ 
+Tabell 4.3.1. Hastighets- og retningsmatrise av strømdata fra 5m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-15 15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+16 
+119 
+161 
+222 
+43 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+568 
+4.4 
+18310 
+3.9 
+18.2 
+N 
+15 
+11 
+122 
+146 
+186 
+24 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+490 
+3.8 
+14322 
+3.1 
+16.1 
+NØ 
+30 
+8 
+125 
+121 
+181 
+36 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+475 
+3.7 
+15043 
+3.2 
+18.1 
+NØ 
+45 
+21 
+122 
+100 
+199 
+40 
+18 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+500 
+3.9 
+17207 
+3.7 
+18.3 
+NØ 
+60 
+30 
+94 
+116 
+164 
+78 
+14 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+498 
+3.8 
+18463 
+4.0 
+20.3 
+Ø 
+75 
+12 
+101 
+108 
+160 
+65 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+448 
+3.5 
+15576 
+3.4 
+18.2 
+Ø 
+90 
+18 
+101 
+112 
+136 
+17 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+386 
+3.0 
+10930 
+2.4 
+16.7 
+Ø 
+105 
+11 
+111 
+110 
+112 
+19 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+363 
+2.8 
+9700 
+2.1 
+13.7 
+SØ 
+120 
+13 
+119 
+137 
+148 
+15 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+433 
+3.3 
+12023 
+2.6 
+15.2 
+SØ 
+135 
+18 
+94 
+144 
+190 
+31 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+478 
+3.7 
+14961 
+3.2 
+15.2 
+SØ 
+150 
+15 
+83 
+137 
+227 
+52 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+516 
+4.0 
+17700 
+3.8 
+18.7 
+S 
+165 
+14 
+77 
+138 
+288 
+63 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+587 
+4.5 
+22205 
+4.8 
+19.0 
+S 
+180 
+13 
+116 
+136 
+344 
+108 
+26 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+747 
+5.8 
+30609 
+6.6 
+22.2 
+S 
+195 
+18 
+108 
+167 
+402 
+128 
+19 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+846 
+6.5 
+34991 
+7.5 
+22.5 
+SV 
+210 
+14 
+104 
+166 
+278 
+50 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+622 
+4.8 
+21963 
+4.7 
+17.5 
+SV 
+225 
+14 
+79 
+134 
+125 
+28 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+383 
+3.0 
+11687 
+2.5 
+15.5 
+SV 
+240 
+18 
+83 
+114 
+97 
+27 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+339 
+2.6 
+9751 
+2.1 
+14.5 
+V 
+255 
+22 
+90 
+84 
+85 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+290 
+2.2 
+7400 
+1.6 
+14.2 
+V 
+270 
+11 
+82 
+93 
+101 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+293 
+2.3 
+7682 
+1.7 
+12.7 
+V 
+285 
+19 
+100 
+84 
+133 
+30 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+369 
+2.8 
+11245 
+2.4 
+16.7 
+NV 
+300 
+20 
+88 
+125 
+212 
+69 
+14 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+530 
+4.1 
+19623 
+4.2 
+20.6 
+NV 
+315 
+20 
+98 
+198 
+353 
+114 
+26 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+810 
+6.2 
+32136 
+6.9 
+20.5 
+NV 
+330 
+26 
+118 
+219 
+418 
+250 
+90 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+1127 
+8.7 
+53910 
+11.6 
+21.8 
+N 
+345 
+34 
+129 
+191 
+327 
+144 
+49 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+877 
+6.8 
+36326 
+7.8 
+22.8 
+Antall obs. 
+416 
+2463 
+3241 
+5088 
+1446 
+299 
+22 
+0 
+0 
+0 
+0 
+0 
+0 
+12975 
+100 
+0 
+0 
+0 
+% 
+3.2 
+19.0 
+25.0 
+39.2 
+11.1 
+2.3 
+0.2 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 14 av 90 
+Tabell 4.3.2. Hastighets- og retningsmatrise av strømdata fra 15m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+24 
+183 
+170 
+150 
+11 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+539 
+4.2 
+13056 
+4.0 
+19.0 
+N 
+15 
+33 
+156 
+137 
+79 
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+413 
+3.2 
+9101 
+2.8 
+15.3 
+NØ 
+30 
+40 
+176 
+134 
+76 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+432 
+3.3 
+8974 
+2.7 
+12.1 
+NØ 
+45 
+34 
+160 
+103 
+110 
+16 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+424 
+3.3 
+10248 
+3.1 
+15.1 
+NØ 
+60 
+34 
+161 
+122 
+100 
+23 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+441 
+3.4 
+10749 
+3.3 
+15.6 
+Ø 
+75 
+33 
+161 
+100 
+89 
+17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+400 
+3.1 
+9276 
+2.8 
+14.3 
+Ø 
+90 
+34 
+165 
+121 
+80 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+410 
+3.2 
+8747 
+2.7 
+14.6 
+Ø 
+105 
+42 
+192 
+139 
+67 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+442 
+3.4 
+8438 
+2.6 
+11.5 
+SØ 
+120 
+36 
+192 
+182 
+82 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+497 
+3.8 
+10265 
+3.1 
+10.7 
+SØ 
+135 
+42 
+234 
+204 
+128 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+610 
+4.7 
+12845 
+3.9 
+11.9 
+SØ 
+150 
+27 
+238 
+258 
+262 
+38 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+824 
+6.4 
+22650 
+6.9 
+15.8 
+S 
+165 
+41 
+255 
+297 
+331 
+41 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+966 
+7.4 
+26731 
+8.1 
+15.8 
+S 
+180 
+28 
+195 
+230 
+361 
+20 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+837 
+6.5 
+24602 
+7.5 
+16.0 
+S 
+195 
+34 
+172 
+194 
+159 
+11 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+571 
+4.4 
+14102 
+4.3 
+15.2 
+SV 
+210 
+30 
+152 
+138 
+72 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+399 
+3.1 
+8500 
+2.6 
+13.1 
+SV 
+225 
+29 
+126 
+133 
+50 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+339 
+2.6 
+6780 
+2.1 
+10.6 
+SV 
+240 
+22 
+118 
+84 
+47 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+271 
+2.1 
+5188 
+1.6 
+8.3 
+V 
+255 
+22 
+129 
+96 
+47 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+294 
+2.3 
+5632 
+1.7 
+8.8 
+V 
+270 
+17 
+113 
+93 
+52 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+277 
+2.1 
+5637 
+1.7 
+10.8 
+V 
+285 
+25 
+118 
+131 
+52 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+326 
+2.5 
+6530 
+2.0 
+10.0 
+NV 
+300 
+40 
+152 
+183 
+118 
+5 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+500 
+3.9 
+11536 
+3.5 
+22.6 
+NV 
+315 
+26 
+174 
+241 
+333 
+42 
+17 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+837 
+6.5 
+26773 
+8.1 
+27.0 
+NV 
+330 
+27 
+179 
+278 
+470 
+110 
+13 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+1083 
+8.3 
+38734 
+11.7 
+22.9 
+N 
+345 
+22 
+216 
+263 
+284 
+54 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+843 
+6.5 
+24860 
+7.5 
+21.4 
+Antall obs. 
+742 
+4117 
+4031 
+3599 
+430 
+44 
+10 
+2 
+0 
+0 
+0 
+0 
+0 
+12975 
+100 
+0 
+0 
+0 
+% 
+5.7 
+31.7 
+31.1 
+27.7 
+3.3 
+0.3 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 15 av 90 
+Tabell 4.3.3. Hastighets- og retningsmatrise av strømdata fra spredningsdyp (79m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+93 
+329 
+86 
+80 
+21 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+610 
+4.7 
+10762 
+5.1 
+15.0 
+N 
+15 
+94 
+226 
+52 
+28 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+402 
+3.1 
+5184 
+2.5 
+11.3 
+NØ 
+30 
+104 
+202 
+32 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+348 
+2.7 
+3612 
+1.7 
+8.8 
+NØ 
+45 
+103 
+158 
+23 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+289 
+2.2 
+2750 
+1.3 
+6.9 
+NØ 
+60 
+85 
+180 
+12 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+279 
+2.2 
+2449 
+1.2 
+5.9 
+Ø 
+75 
+83 
+185 
+26 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+294 
+2.3 
+2847 
+1.4 
+4.7 
+Ø 
+90 
+88 
+212 
+48 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+357 
+2.8 
+4034 
+1.9 
+7.1 
+Ø 
+105 
+101 
+308 
+51 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+467 
+3.6 
+5227 
+2.5 
+6.4 
+SØ 
+120 
+111 
+395 
+89 
+24 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+619 
+4.8 
+7845 
+3.7 
+7.6 
+SØ 
+135 
+109 
+482 
+184 
+19 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+794 
+6.1 
+10802 
+5.2 
+8.0 
+SØ 
+150 
+128 
+497 
+168 
+32 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+825 
+6.4 
+11107 
+5.3 
+8.1 
+S 
+165 
+113 
+493 
+161 
+21 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+788 
+6.1 
+10693 
+5.1 
+7.2 
+S 
+180 
+97 
+379 
+99 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+587 
+4.5 
+7377 
+3.5 
+6.5 
+S 
+195 
+106 
+303 
+43 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+454 
+3.5 
+4627 
+2.2 
+7.5 
+SV 
+210 
+124 
+210 
+20 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+354 
+2.7 
+3081 
+1.5 
+4.8 
+SV 
+225 
+91 
+170 
+11 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+275 
+2.1 
+2427 
+1.2 
+7.2 
+SV 
+240 
+81 
+158 
+14 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+255 
+2.0 
+2351 
+1.1 
+6.5 
+V 
+255 
+97 
+144 
+10 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+256 
+2.0 
+2271 
+1.1 
+9.3 
+V 
+270 
+83 
+213 
+24 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+335 
+2.6 
+3751 
+1.8 
+9.9 
+V 
+285 
+101 
+230 
+48 
+43 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+430 
+3.3 
+6219 
+3.0 
+13.7 
+NV 
+300 
+98 
+315 
+92 
+89 
+21 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+620 
+4.8 
+11931 
+5.7 
+20.6 
+NV 
+315 
+113 
+429 
+207 
+219 
+76 
+13 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1058 
+8.2 
+26336 
+12.6 
+20.1 
+NV 
+330 
+111 
+462 
+225 
+309 
+125 
+27 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+1265 
+9.8 
+36718 
+17.5 
+22.3 
+N 
+345 
+117 
+441 
+182 
+171 
+84 
+17 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1013 
+7.8 
+25018 
+11.9 
+21.4 
+Antall obs. 
+2431 
+7121 
+1907 
+1107 
+337 
+62 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+12974 
+100 
+0 
+0 
+0 
+% 
+18.7 
+54.9 
+14.7 
+8.5 
+2.6 
+0.5 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 16 av 90 
+Tabell 4.3.4. Hastighets- og retningsmatrise av strømdata fra bunndyp (133m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+114 
+419 
+176 
+51 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+768 
+5.9 
+11993 
+6.0 
+11.7 
+N 
+15 
+103 
+432 
+83 
+42 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+665 
+5.1 
+9375 
+4.7 
+13.5 
+NØ 
+30 
+113 
+288 
+55 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+462 
+3.6 
+5071 
+2.5 
+8.8 
+NØ 
+45 
+104 
+283 
+32 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+420 
+3.2 
+4168 
+2.1 
+5.0 
+NØ 
+60 
+124 
+228 
+22 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+375 
+2.9 
+3307 
+1.7 
+5.3 
+Ø 
+75 
+107 
+266 
+30 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+405 
+3.1 
+4001 
+2.0 
+6.9 
+Ø 
+90 
+95 
+284 
+27 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+416 
+3.2 
+4390 
+2.2 
+7.8 
+Ø 
+105 
+127 
+320 
+85 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+542 
+4.2 
+6264 
+3.1 
+8.0 
+SØ 
+120 
+114 
+345 
+92 
+46 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+599 
+4.6 
+8401 
+4.2 
+17.6 
+SØ 
+135 
+101 
+365 
+129 
+92 
+13 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+701 
+5.4 
+12400 
+6.2 
+17.0 
+SØ 
+150 
+98 
+363 
+131 
+118 
+25 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+736 
+5.7 
+14666 
+7.3 
+15.1 
+S 
+165 
+113 
+321 
+107 
+95 
+31 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+670 
+5.2 
+13001 
+6.5 
+16.8 
+S 
+180 
+101 
+289 
+113 
+45 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+550 
+4.2 
+8050 
+4.0 
+12.4 
+S 
+195 
+94 
+242 
+67 
+22 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+426 
+3.3 
+5471 
+2.7 
+11.0 
+SV 
+210 
+100 
+195 
+24 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+324 
+2.5 
+3097 
+1.5 
+6.6 
+SV 
+225 
+84 
+198 
+16 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+299 
+2.3 
+2776 
+1.4 
+5.5 
+SV 
+240 
+99 
+161 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+273 
+2.1 
+2349 
+1.2 
+4.5 
+V 
+255 
+102 
+182 
+17 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+303 
+2.3 
+2794 
+1.4 
+14.6 
+V 
+270 
+102 
+202 
+28 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+336 
+2.6 
+3282 
+1.6 
+9.8 
+V 
+285 
+113 
+242 
+35 
+14 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+411 
+3.2 
+4990 
+2.5 
+15.0 
+NV 
+300 
+97 
+298 
+73 
+38 
+24 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+537 
+4.1 
+9556 
+4.8 
+20.0 
+NV 
+315 
+95 
+378 
+176 
+96 
+42 
+15 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+809 
+6.2 
+18168 
+9.1 
+24.9 
+NV 
+330 
+120 
+464 
+236 
+163 
+71 
+18 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+1075 
+8.3 
+25613 
+12.8 
+20.5 
+N 
+345 
+107 
+420 
+210 
+105 
+27 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+872 
+6.7 
+16678 
+8.3 
+15.5 
+Antall obs. 
+2527 
+7185 
+1977 
+968 
+258 
+49 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+12974 
+100 
+0 
+0 
+0 
+% 
+19.5 
+55.4 
+15.2 
+7.5 
+2.0 
+0.4 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 17 av 90 
+4.4 
+Strømmens hastighetsfordeling 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.4.1. Strømmens hastighetsfordeling på 5m, 15m, spredningsdyp (79m) og bunndyp (133m). 
+Antall observasjoner er indikert på stående akse og hastighetsgruppe på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 18 av 90 
+4.5 
+Strømmens retningsfordeling 
+ 
+Strømmens retning fordelt i 15º-sektorer er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.5.1. Strømmens retningsfordeling på 5m, 15m, spredningsdyp (79m) og bunndyp (133m). 
+Antall observasjoner er indikert på stående akse og 15º-sektorer på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 19 av 90 
+4.6 
+Tidsdiagram – Strømhastighet 
+ 
+Strømmens hastighet under måleperioden er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.6.1. Tidsdiagram av strømhastighet på 5m, 15m, spredningsdyp (79m) og bunndyp (133m). 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 20 av 90 
+4.7 
+Tidsdiagram – Strømretning  
+ 
+Strømmens retning under måleperiode er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.7.1. Tidsdiagram av strømretning på 5m, 15m, spredningsdyp (79m) og bunndyp (133m). 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 21 av 90 
+4.8 
+Tidsdiagram – Temperatur 
+ 
+Temperatur under måleperioden er oppgitt under. 
+ 
+ 
+ 
+Figur 4.8.1. Tidsdiagram av temperatur på 5m, 15m, spredningsdyp (79m) og bunndyp (133m). 
+Temperatur er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 22 av 90 
+4.9 
+Progressivt vektordiagram 
+ 
+Et progressivt vektordiagram viser hvor langt og hvordan en tenkt merket vannpartikkel som 
+befinner seg i strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperioden (Figur 
+4.9.1). Dette gir en indikasjon på vannutskiftning under måleperioden. 
+ 
+ 
+Figur 4.9.1. Progressivt vektordiagram for strøm på 5m, 15m, spredningsdyp (79m) og bunndyp 
+(133m). 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 23 av 90 
+4.10 Fordelingsdiagram – Maksimal strømhastighet 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (79m) 
+Bunn (133m) 
+ 
+ 
+Figur 4.10.1. Fordelingsdiagram av maksimal strømhastighet (cm/s) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (79m) og bunndyp (133m) i løpet av måleperioden. 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 24 av 90 
+4.11 Fordelingsdiagram – Gjennomsnittshastighet 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (79m) 
+Bunn (133m) 
+ 
+ 
+Figur 4.11.1. Fordelingsdiagram av gjennomsnittlig strømhastighet (cm/s) for hver 15º-sektor på 5m, 
+15m, spredningsdyp (79m) og bunndyp (133m) i løpet av måleperioden. 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 25 av 90 
+4.12 Fordelingsdiagram – Relativ vannfluks 
+ 
+Figuren viser relativ vannfluks (%) i hver 15˚-sektor. Relativ vannfluks angir mengden vann som 
+strømmer gjennom en retningssektor. Total vannfluks er totalt volum vann som strømmer gjennom 
+alle sektorer i løpet av måleperioden. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (79m) 
+Bunn (133m) 
+ 
+ 
+Figur 4.12.1. Fordelingsdiagram av relativ vannfluks (%) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (79m) og bunndyp (133m) i løpet av måleperioden. 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 26 av 90 
+4.13 Fordelingsdiagram – Antall observasjoner 
+ 
+Figuren viser hvor mange ganger strømretningen er observert i de ulike 15˚-sektorene i løpet av 
+måleperioden. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (79m) 
+Bunn (133m) 
+ 
+ 
+Figur 4.13.1. Fordelingsdiagram av antall observasjoner for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (79m) og bunndyp (133m) i løpet av måleperioden. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 27 av 90 
+4.14 Maksimal strømhastighet i 8 retningssektorer 
+Tabell 4.14.1. Maksimal strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+22.8 
+20.3 
+18.2 
+18.7 
+22.5 
+17.5 
+16.7 
+21.8 
+15m 
+21.4 
+15.6 
+14.6 
+15.8 
+16.0 
+13.1 
+10.8 
+27.0 
+Spredning (79m) 
+21.4 
+8.8 
+7.1 
+8.1 
+7.5 
+7.2 
+13.7 
+22.3 
+Bunn (133m) 
+15.5 
+8.8 
+8.0 
+17.6 
+16.8 
+6.6 
+15.0 
+24.9 
+ 
+ 
+4.15 Gjennomsnittlig strømhastighet i 8 retningssektorer 
+Tabell 4.15.1. Gjennomsnittlig strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+5.8 
+5.7 
+5.0 
+5.2 
+6.7 
+5.4 
+4.6 
+7.1 
+15m 
+4.2 
+3.9 
+3.5 
+3.9 
+4.6 
+3.4 
+3.3 
+5.3 
+Spredning (79m) 
+3.1 
+1.6 
+1.8 
+2.2 
+2.1 
+1.5 
+2.0 
+4.2 
+Bunn (133m) 
+2.7 
+1.7 
+1.8 
+2.9 
+2.7 
+1.5 
+1.8 
+3.7 
+ 
+ 
+4.16 Antall målinger i 8 retningssektorer 
+Tabell 4.16.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+1935 
+1473 
+1197 
+1427 
+2180 
+1344 
+952 
+2467 
+15m 
+1795 
+1297 
+1252 
+1931 
+2374 
+1009 
+897 
+2420 
+Spredning (79m) 
+2025 
+916 
+1118 
+2238 
+1829 
+884 
+1021 
+2943 
+Bunn (133m) 
+2305 
+1257 
+1363 
+2036 
+1646 
+896 
+1050 
+2421 
+ 
+ 
+4.17 Relativ vannutskiftning i 8 retningssektorer 
+Tabell 4.17.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+14.5 
+11.0 
+7.8 
+9.7 
+19.0 
+9.4 
+5.7 
+22.9 
+15m 
+13.9 
+9.1 
+8.1 
+13.9 
+19.9 
+6.2 
+5.4 
+23.4 
+Spredning (79m) 
+18.3 
+4.3 
+5.9 
+14.4 
+11.0 
+3.8 
+5.9 
+36.4 
+Bunn (133m) 
+18.9 
+6.3 
+7.3 
+17.8 
+13.3 
+4.1 
+5.5 
+26.7 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 28 av 90 
+4.18 10-års og 50-års strømhastighet i 8 retningssektorer 
+ 
+Verdier for strøm med returperiode på 10 år og 50 år beregnes ut fra målt maksimal strømhastighet 
+sammen med en multiplikasjonsfaktor som avhenger av lengden på måleperioden (NS 9415:2021). 
+Retningen som er oppgitt i raden under maksstrømmen er retningen til den respektive maksimale 
+strømhastigheten (Tabell 4.18.1 - Tabell 4.18.2). 
+ 
+Tabell 4.18.1. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 5m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+22.8 
+20.3 
+18.2 
+18.7 
+22.5 
+17.5 
+16.7 
+21.8 
+Retning (°) 
+338 
+53 
+73 
+157 
+191 
+204 
+292 
+336 
+10-år (cm/s) 
+38 
+33 
+30 
+31 
+37 
+29 
+28 
+36 
+50-år (cm/s) 
+42 
+37 
+34 
+35 
+42 
+32 
+31 
+40 
+ 
+Tabell 4.18.2. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 15m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+21.4 
+15.6 
+14.6 
+15.8 
+16.0 
+13.1 
+10.8 
+27.0 
+Retning (°) 
+348 
+60 
+85 
+155 
+178 
+213 
+277 
+313 
+10-år (cm/s) 
+35 
+26 
+24 
+26 
+26 
+22 
+18 
+45 
+50-år (cm/s) 
+40 
+29 
+27 
+29 
+30 
+24 
+20 
+50 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 29 av 90 
+4.19 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt 
+strømhastighet (cm/s). 
+ 
+Tabell 4.19.1. Persentilfordeling av strømhastighet (cm/s) for hvert dyp.  
+Persentil 
+5m 
+15m 
+Spredning (79m) 
+Bunn (133m) 
+1 
+0.5 
+0.4 
+0.2 
+0.2 
+10 
+1.9 
+1.4 
+0.7 
+0.7 
+20 
+2.8 
+2.0 
+1.0 
+1.0 
+30 
+3.6 
+2.6 
+1.3 
+1.3 
+40 
+4.4 
+3.1 
+1.6 
+1.6 
+50 
+5.3 
+3.7 
+1.9 
+1.9 
+60 
+6.2 
+4.4 
+2.3 
+2.2 
+70 
+7.3 
+5.1 
+2.8 
+2.7 
+80 
+8.8 
+6.1 
+3.5 
+3.4 
+90 
+11.0 
+7.7 
+5.5 
+5.0 
+95 
+13.1 
+9.4 
+8.2 
+7.4 
+99 
+17.2 
+13.2 
+13.5 
+13.0 
+ 
+4.20 Prosentfordeling av strømhastighet 
+ 
+Oppgitte verdier i tabellen under er rundet av til nærmeste desimaltall for verdier over 0.1%, mens 
+verdier mellom 0.1% og 0.01% er rundet av til to desimaltall. Lave verdier (< 0.01%) er oppgitt som 
+0.0%. 
+ 
+Tabell 4.20.1. Prosent (%) av data per dyp som er lik eller høyere enn oppgitt strømhastighet (cm/s).  
+Strømhastighet 
+(cm/s) 
+5m 
+15m 
+Spredning (79m) 
+Bunn (133m) 
+1 
+96.8 
+94.3 
+81.3 
+80.5 
+3 
+77.8 
+62.6 
+26.4 
+25.1 
+5 
+52.8 
+31.5 
+11.7 
+9.9 
+10 
+13.6 
+3.7 
+3.1 
+2.4 
+20 
+0.2 
+0.09 
+0.07 
+0.08 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 30 av 90 
+4.21 Strømfordeling 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike grupper av strømhastighet (cm/s), fordelt 
+i 8 retningssektorer. Strømhastighetsgruppene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. Oppgitte verdier er rundet av til 
+nærmeste desimaltall for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to 
+desimaltall. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.21.1. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 5m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.5 
+0.5 
+0.3 
+0.4 
+0.3 
+0.4 
+0.4 
+0.5 
+3.3 
+1-5 
+6.7 
+5.2 
+5.0 
+5.5 
+5.7 
+5.2 
+4.1 
+6.5 
+43.9 
+5-10 
+5.7 
+4.2 
+3.1 
+4.4 
+8.0 
+3.9 
+2.5 
+7.6 
+39.4 
+10-20 
+2.1 
+1.5 
+0.8 
+0.8 
+2.7 
+0.9 
+0.4 
+4.3 
+13.5 
+20-30 
+0.02 
+0.02 
+ 
+ 
+0.06 
+ 
+ 
+0.07 
+0.2 
+Sum 
+15.0 
+11.4 
+9.2 
+11.1 
+16.8 
+10.4 
+7.4 
+19.0 
+100.0 
+ 
+Tabell 4.21.2. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 15m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.6 
+0.8 
+0.8 
+0.8 
+0.8 
+0.6 
+0.5 
+0.7 
+5.6 
+1-5 
+8.7 
+6.6 
+6.8 
+10.1 
+10.4 
+5.8 
+5.2 
+9.3 
+62.9 
+5-10 
+4.0 
+2.2 
+1.8 
+3.6 
+6.6 
+1.3 
+1.2 
+7.1 
+27.8 
+10-20 
+0.6 
+0.4 
+0.2 
+0.4 
+0.6 
+0.06 
+0.02 
+1.4 
+3.7 
+20-30 
+0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+0.08 
+0.08 
+Sum 
+13.9 
+10.0 
+9.6 
+14.9 
+18.4 
+7.8 
+6.9 
+18.6 
+100.0 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 31 av 90 
+Tabell 4.21.3. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 
+spredningsdyp (79m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+2.3 
+2.3 
+2.1 
+2.7 
+2.4 
+2.3 
+2.2 
+2.5 
+18.8 
+1-5 
+10.1 
+4.7 
+6.4 
+14.0 
+11.4 
+4.5 
+5.2 
+13.3 
+69.6 
+5-10 
+2.2 
+0.1 
+0.1 
+0.6 
+0.3 
+0.04 
+0.5 
+4.8 
+8.6 
+10-20 
+1.0 
+ 
+ 
+ 
+ 
+ 
+0.06 
+2.1 
+3.2 
+20-30 
+0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+0.06 
+0.06 
+Sum 
+15.6 
+7.1 
+8.6 
+17.3 
+14.1 
+6.8 
+8.0 
+22.8 
+100.0 
+ 
+Tabell 4.21.4. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(133m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+2.5 
+2.6 
+2.5 
+2.4 
+2.4 
+2.2 
+2.4 
+2.4 
+19.4 
+1-5 
+13.4 
+7.0 
+7.8 
+11.0 
+8.8 
+4.7 
+5.4 
+12.5 
+70.6 
+5-10 
+1.5 
+0.06 
+0.2 
+2.0 
+1.2 
+0.05 
+0.1 
+2.3 
+7.4 
+10-20 
+0.3 
+ 
+ 
+0.3 
+0.3 
+ 
+0.06 
+1.4 
+2.4 
+20-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.08 
+0.08 
+Sum 
+17.7 
+9.7 
+10.5 
+15.7 
+12.7 
+7.0 
+8.0 
+18.7 
+100.0 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 32 av 90 
+4.22 Strømvarighet 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike intervaller av strømhastighet (cm/s) med 
+forskjellig varighet. Strømhastighetsintervallene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. De ulike gruppene av varighet er 
+oppdelt på samme måte som strømhastighetsintervallene. Oppgitte verdier er rundet av til nærmeste 
+desimaltall for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to desimaltall. 
+Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.22.1. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på 5m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+1.2 
+0.4 
+0.2 
+ 
+ 
+ 
+ 
+ 
+1-5 
+4.9 
+7.0 
+10.3 
+7.4 
+5.7 
+1.0 
+1.6 
+2.9 
+5-10 
+6.0 
+7.2 
+10.7 
+5.3 
+3.0 
+1.7 
+0.5 
+0.9 
+10-20 
+1.9 
+2.2 
+3.2 
+2.3 
+1.0 
+ 
+0.5 
+0.7 
+20-30 
+0.05 
+0.04 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabell 4.22.2. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på 15m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+2.3 
+0.4 
+0.1 
+ 
+ 
+ 
+ 
+ 
+1-5 
+6.0 
+9.0 
+14.2 
+10.2 
+8.7 
+5.2 
+2.8 
+2.8 
+5-10 
+5.2 
+5.7 
+6.9 
+4.3 
+1.1 
+1.0 
+ 
+ 
+10-20 
+0.7 
+0.8 
+1.0 
+0.2 
+0.1 
+ 
+ 
+ 
+20-30 
+ 
+0.06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabell 4.22.3. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på spredningsdyp 
+(79m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+7.1 
+4.2 
+1.0 
+ 
+ 
+ 
+ 
+ 
+1-5 
+7.8 
+9.9 
+17.9 
+11.4 
+5.8 
+6.0 
+2.6 
+4.2 
+5-10 
+2.1 
+2.1 
+1.7 
+0.8 
+0.5 
+ 
+ 
+ 
+10-20 
+0.6 
+0.7 
+0.6 
+0.6 
+0.1 
+ 
+ 
+ 
+20-30 
+0.02 
+0.03 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 33 av 90 
+Tabell 4.22.4. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på bunndyp (133m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+8.6 
+3.0 
+0.7 
+0.1 
+ 
+ 
+ 
+ 
+1-5 
+8.6 
+12.9 
+19.5 
+12.4 
+6.7 
+3.3 
+1.0 
+1.3 
+5-10 
+1.6 
+2.0 
+1.3 
+0.8 
+0.2 
+ 
+ 
+ 
+10-20 
+0.4 
+0.4 
+0.7 
+0.2 
+0.3 
+ 
+ 
+ 
+20-30 
+0.03 
+0.03 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 34 av 90 
+4.23 Tidevannsanalyse 
+ 
+En tidevannsanalyse av strømdata er gjennomført for å vurdere hvor stor andel av det målte signalet 
+som er forårsaket av tidevannet. Tidevannsanalysen er utført ved bruk av analyseverktøyet U_Tide 
+(Codiga, 2011). 
+ 
+Tidevannsanalysen inkluderer alle separerbare tidevannskomponenter. Det er også foretatt en analyse 
+med fem separerbare tidevannskomponenter, M2 (12.42 timers periode), S2 (12.00 timers periode), 
+N2 (12.66 timers periode), O1 (25.82 timers periode) og K1 (23.93 timers periode), som benyttes i 
+forbindelse med tidevannstabeller. 
+ 
+Strøm er splittet i komponentene øst-vest (UEW) og nord-sør (VNS) for å vurdere spredning av 
+(variasjon i) strømdata på de forskjellige dypene (Emery & Thomson, 2001). Krysset markerer 
+gjennomsnittsverdien for hastighetskomponentene og reflekterer den effektive transporthastigheten 
+med tilhørende retning (Figur 4.23.1). Strømellipsens store halvakse (hovedakse) markerer retningen 
+der variasjonen er størst.  
+ 
+Tabell 4.23.1. Tidevannsbidrag til strøm og trykkendringer basert på tidevannsanalyse av strømdata 
+i timesverdier. 
+Måledyp 
+5m 
+15m 
+Spredning (79m) 
+Bunn (133m) 
+Strøm (%) 
+45.7 
+46.2 
+8.8 
+7.4 
+Måledyp 
+5m 
+15m 
+Spredning (79m) 
+Bunn (133m) 
+Trykk (%) 
+- 
+- 
+95.2 
+- 
+ 
+Tabell 4.23.2. Tidevannsbidrag til strøm og trykkendringer fra tidevannskomponentene M2, S2, N2, 
+O1 og K1. 
+Måledyp 
+5m 
+15m 
+Spredning (79m) 
+Bunn (133m) 
+Strøm (%) 
+40.3 
+40.7 
+2.1 
+1.4 
+Måledyp 
+5m 
+15m 
+Spredning (79m) 
+Bunn (133m) 
+Trykk (%) 
+- 
+- 
+94.7 
+- 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 35 av 90 
+ 
+ 
+Figur 4.23.1. UEW – VNS punktdiagram av strømdata i timesverdier, med tilhørende strømellipse. 
+Midtpunktet for strømellipsen er markert med kryss som også markerer strømmens effektive 
+transporthastighet. Vinklene indikerer den store halvaksens orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 36 av 90 
+ 
+ 
+Figur 4.23.2. UEW - VNS tidevannsellipser (fargede linjer) vist sammen med strømellipser (svarte linjer) 
+for 5m, 15m, Spredning (79m) og Bunn (133m). Midtpunktet for strømellipsene er markert med kryss 
+som også markerer den effektive transporthastigheten. Vinklene indikerer de store halvaksenes 
+orientering i forhold til nord/sør. Aksekors for øst - vest og nord - sør er vist med stiplede linjer. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 37 av 90 
+4.24 Todagersperiode 
+ 
+Strømhastighet og -retning på 5m dyp, samt tidevann og vind er oppgitt i figuren under for en 
+todagersperiode da maksimalstrømmen ved 5m dyp oppstod. 
+ 
+ 
+ 
+Figur 4.24.1. Strømhastighet og -retning, samt tidevann og vind (Vega - Vallsjø) for perioden hvor 
+maksimalstrømmen på 5m dyp er registrert. 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 38 av 90 
+4.25 Vind under måleperioden 
+ 
+Vinddata er hentet fra værstasjon Vega - Vallsjø (Meteorologisk institutt, 2022), som ligger ca. 
+17.5km SV for strømmålingsposisjonene (Figur 4.25.3). Vinddata ble også hentet ut fra værstasjonen 
+Tjøtta som ligger 16.2km Ø for strømmålingsposisjonene. Vinden fra Tjøtta samstemte i mindre grad 
+med strømretningene i forhold til Vega – Vallsjø. Det er derfor vurdert å kun bruke Vega – Vallsjø 
+da topografisk styring på Tjøtta kan ha hatt større innvirkning på vindretning. 
+ 
+Strøm over 10cm/s på 5m dyp ble sammenlignet med vinddata fra Vega - Vallsjø fra samme periode. 
+Figur 4.25.2 og figurene i "Vedlegg - Fyrstikkdiagram av vind og strøm" indikerer hvilke tidspunkter 
+vind på Vega - Vallsjø og målt strøm på 5m dyp hadde omtrent sammenfallende retning. Vannstand 
+i løpet av måleperioden er vist i Figur 4.25.2 og er hentet fra tidevannsstasjon Rørvik (Kartverket, 
+2022), som ligger ca. 115.2km S/SV for strømmålingsposisjonene (Figur 4.25.3). Vannstand er 
+tilpasset området for målepunktet. 
+ 
+Tabell 4.25.1. Maksimal vindhastighet og prosent av tiden hvor vinden blåste fra de ulike retningene 
+på Vega - Vallsjø under måleperioden. 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+15.4 
+12.4 
+8.7 
+10.4 
+13.4 
+15.8 
+15.9 
+15.6 
+Tid (%) 
+13.4 
+8.0 
+4.8 
+17.2 
+10.2 
+26.1 
+10.0 
+10.4 
+ 
+Strøm på 5m 
+Vind 
+ 
+ 
+Figur 4.25.1. Rosediagram for strøm (mot retning) på 5m dyp, samt vind (fra retning) på Vega - 
+Vallsjø værstasjon under måleperioden. Skalaen på diagrammene er ulik. 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 39 av 90 
+Hastighet og retning for strøm og vind er oppgitt i Figur 4.25.2 og i "Vedlegg - Fyrstikkdiagram av 
+vind og strøm" for å vurdere vindpåvirkning på strømmen. I Figur 4.25.2 er vindretning oppgitt som 
+at vind blåser fra en retning, mens i "Vedlegg - Fyrstikkdiagram av vind og strøm" er vindretning 
+oppgitt som at vind blåser mot en retning. Tidevann er også vist i Figur 4.25.2 for å vurdere 
+tidevannspåvirkning.  
+ 
+ 
+ 
+Figur 4.25.2. Strømhastighet (mot retning) på 5m dyp og vindhastighet (fra retning) på Vega - Vallsjø, 
+strøm- og vindretning, samt vannstand (Rørvik) under måleperioden. Tidspunkter hvor strøm og vind 
+har omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 40 av 90 
+ 
+Figur 4.25.3. Posisjonen til Vega - Vallsjø værstasjon (markert med blå sirkel), Tjøtta værstasjon 
+(markert med oransje sirkel) og posisjonen til Rørvik tidevannsstasjon (markert med grønn sirkel) i 
+forhold til strømmålingsposisjonene (markert med rød pinne). Kartet er hentet fra Fiskeridirektoratets 
+kartverktøy. Kartdatum: WGS84.  
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 41 av 90 
+4.26 Utslippskontur  
+ 
+Utslippskonturen tar utgangspunkt i strøm målt på spredningsdyp til å beregne spredningsavstand for 
+avfallspartikler fra et utslippspunkt med en viss synkehastighet (Bannister, et al., 2016). Figur 4.26.1 
+viser retning og avstand for spredning, og i hvilke områder det er mest utslipp som blir liggende på 
+bunn. Fargeskalaen indikerer mengde sedimentasjon som prosentandel (%) av den totale mengden 
+som blir sluppet ut, hvor de røde områdene vil ha størst mengde avfall. Summen av prosentnivået i 
+alle sektorer er lik total mengde utslipp (100%). 
+ 
+Merk at figuren viser utslipp fra ett punkt. Med utslipp fra ett enkelt punkt vil svært lite avfall havne 
+rett under utslippspunktet, da strømmen alltid vil skape noe spredning. Ved et oppdrettsanlegg er det 
+utslipp over et større område, noe som må inkluderes i vurderingen av spredning av utslipp. 
+ 
+ 
+ 
+Figur 4.26.1. Utslippskontur basert på målte strømhastigheter på spredningsdyp (79m). 
+Akkumulering av avfall vises som prosentandel av utslipp som havner på bunnen, indikert av 
+fargelagte sektorer. Oppløsningen på hver fargelagt sektor er 50m lang og 15° bred. Avstand fra 
+utslippspunktet er markert med en stiplet sirkel for hver 100m. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 42 av 90 
+4.27 CTD-profil  
+ 
+CTD-profil ble målt i sammenheng med utsett 18.02.22 og opptak 19.05.22 av strømmålere i samme 
+posisjon som strømriggen.  
+ 
+ 
+ 
+Figur 4.27.1. Vertikalprofiler av saltinnhold, temperatur, tetthet og oksygen. Dypet er oppgitt langs 
+y-aksen. 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 43 av 90 
+5. Diskusjon 
+ 
+Strømmen på Skogsholmen er mot N/NV – S på 5m dyp og mot N/NV – S/SØ på 15m, spredningsdyp 
+(79m) og bunndyp (133m). Strømretningen stemmer med områdets bunntopografi. Strømretningen 
+domineres av motsatt rettede hovedstrømretninger på 15m, spredningsdyp og bunndyp. 56.4% av 
+relativ vannutskiftning på 5m, 71.1% på 15m, 80.1% på spredningsdyp og 76.7% på bunndyp skjer 
+langs hovedstrømretningene (Tabell 4.17.1). 
+ 
+5.1 
+Høye strømmålinger 
+ 
+Maksimal strømhastighet var 22.8cm/s mot N på 5m, 27.0cm/s mot NV på 15m, 22.3cm/s mot NV 
+på spredningsdyp (79m) og 24.9cm/s mot NV på bunndyp (133m). Maksstrømmen er langs 
+hovedstrømretning på alle dyp og er vurdert som svak på 5m og som middels sterk på 15m, 
+spredningsdyp (79m) og bunndyp (133m). Maksimalmålingen er bare én måling og gir ikke en 
+indikasjon av om strømmen er sterk eller svak i området. 
+ 
+Signifikant maksimal strømhastighet er gjennomsnittet av den høyeste tredjedelen av målingene og 
+gir en indikasjon av styrken på strømmen i området. Denne var 10.1cm/s på 5m, 7.2cm/s på 15m, 
+5.2cm/s på spredningsdyp (79m) og 4.9cm/s på bunndyp (133m). Signifikant maksimal 
+strømhastighet er vurdert som svak på 5m, 15m, spredningsdyp (79m) og bunndyp (133m). 
+ 
+Det var ingen tilfeller der strøm var > 30cm/s. 
+ 
+5.2 
+Tidevannspåvirkning 
+ 
+Strømmen er vurdert som tidevannsdominert på 5m og 15m dyp under måleperioden, fordi 
+tidevannsellipsen er stor i forhold til strømellipsen (Figur 4.23.2). Tidevannssignalet dominerte ikke 
+på spredningsdyp (79m), bunndyp (133m) under måleperioden, som er indikert ved at 
+tidevannsellipsen er vesentlig mindre enn strømellipsen (Figur 4.23.2). Tidevannsbidrag til strøm på 
+spredningsdyp (79m) og bunndyp (133m) er lavere enn lenger opp i vannsøylen. Dette indikerer at 
+strømmen lenger ned i vannsøylen er mer påvirket av andre faktorer. 
+ 
+5.3 
+Vindpåvirkning 
+ 
+Ut fra omkringliggende topografi er det vurdert at vind fra alle retninger kan ha betydning for 
+strømforholdene på lokaliteten. Under måleperioden blåste vind mest fra SV og sterkest fra 
+SV/V/NV/N (Tabell 4.25.1). 
+ 
+Grunnet friksjon mellom vind og vannoverflate vil vind med betydelig hastighet (> 3m/s) og stabil 
+retning som blåser over en lengre periode ha større innvirkning på strøm. Tilfeller med 
+vindpåvirkning er i dette tilfellet beregnet utfra sammenfallende eller motsatt rettet retninger ved et 
+bestemt tidspunkt, uten hensyn til vindens varighet eller stabilitet.  
+ 
+Det er vurdert at vind fra N kan ha påvirket strøm mot S/SV, vind fra NØ kan ha påvirket strøm mot 
+SV, vind fra SØ/S kan ha påvirket strøm mot N/NV, vind fra SV kan ha påvirket strøm mot NØ/Ø, 
+vind fra V kan ha påvirket strøm mot Ø/SØ, og vind fra NV kan ha påvirket strøm mot SØ/S. 
+ 
+Det var enkelte tilfeller hvor strøm- og vindretning var motsatt rettet under måleperioden, hvor vind 
+kan ha virket bremsende på målt strømhastighet. 
+ 
+Strømtoppene på 5m er vurdert påvirket av tidevann, vind og mulig kyststrømmen. Maksimum 
+strømhastighet på 5m (22.8cm/s) var lavere enn på 15m (27.0cm/s) og denne forskjellen kan være 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 44 av 90 
+forårsaket av motstridene effekt av vindpåvirkning, hvor vinden hadde retning fra N (11˚) i motsatt 
+retning til strømmen i retning mot N (338˚). Vindhastigheten var relativt lav (rundt 7.1m/s) da 
+maksimum strøm forekom og det er uvisst hvor stor betydning dette har påvirket strømmen på 5m 
+dyp. 
+ 
+Høye strømhastigheter på spredningsdyp (79m) og bunndyp (133m) forekommer uregelmessig, og 
+varigheten er relativt kort. 
+Strømtoppene forekommer mot N/NV og kan være forårsaket av flere faktorer. I perioden før 
+maksimum strøm på bunndyp (133m) har vinden hatt gjennomsnittlig retning fra S/SV i litt over 2 
+døgn og vindhastigheten har vært på gjennomsnittlig 9.0m/s med maks vindhastighet på 15.4m/s da 
+vinden kom fra S/SV. Idet strømtoppene inntreffer øker temperaturen, og det er en mulighet for at de 
+høye strømhastighetene kan være forårsaket av annen vannmasse med høyere strømhastighet som blir 
+presset inn til området. Dette kan være et bidrag fra for eksempel kyststrømmen. 
+I perioden med maksimum strøm på bunndyp var strøm på 5m og 15m rettet mot SØ/S og er i motsatt 
+retning i forhold til bunnstrømmen og spredningsstrømmen. Dette tyder på at strømtoppene kan være 
+på grunn av vannmasseutveksling. 
+Strømtoppene på spredningsdyp og bunndyp oppstår sannsynligvis av samme årsak, og kan 
+forekomme på begge dypene ved samme tidspunkt. 
+ 
+5.4 
+Vannutskiftning  
+ 
+Det er naturlig med strømstille når tidevannet skifter fra flo til fjære eller motsatt. Varigheten av 
+strømstille perioder kan ha betydning for vannutskiftning i et område. Siden vann vil strømme rundt, 
+i tillegg til gjennom eller under, et anlegg er anleggsorientering viktig. Et anlegg orientert slik at det 
+ligger med langsiden mot den dominerende strømretningen vil ha bedre vannutskiftning i merdene 
+enn et anlegg hvor mange av merdene ligger etter hverandre langs hovedstrømmen. Neumann-
+parameteren sier noe om stabiliteten til strømmen. En høy Neumann parameter (f.eks. 0.7) indikerer 
+en retningsstabil strøm. Dette tyder på at vannet strømmer i en retning og beveger seg konstant bort 
+fra startpunktet. En lav Neumann-parameter kan bety at vannstrømmen har skiftende retning og 
+kanskje bare flyter fram og tilbake ved startpunktet. Neumann-parameteren kan brukes opp mot 
+progressivt vektordiagram og gjennomsnittsstrømmen for å kunne si noe om vannutskiftningen ved 
+det punktet hvor strømmen er målt.  
+ 
+Gjennomsnittlig strømhastighet var ≥ 2cm/s på alle dyp. Gjennomsnittlig strømhastighet er vurdert 
+som middels sterk på 5m, og som svak på 15m, spredningsdyp (79m) og bunndyp (133m).  
+ 
+Neumann-parameteren er vurdert som lite stabil på 5m, svært lite stabil på 15m, middels stabil på 
+spredningsdyp (79m) og lite stabil på bunndyp (133m). Strømretninger og vannutskiftning stemmer 
+med områdets bunntopografi. Vannet på 5m, 15m og bunndyp (133m) flyter i perioder fram og 
+tilbake, og i perioder i én retning med varighet på rundt en dag. Vannet på spredningsdyp (79m) 
+beveger seg oftest i én retning, men har en periode mot slutten av måleperioden hvor vannet beveger 
+seg mer fram og tilbake. Det er ikke nødvendigvis det samme vannet som har returnert til startpunktet. 
+  
+Prosent nullmålinger (< 1cm/s) var mindre enn 10% på 5m og 15m dyp. Prosent nullmålinger (< 
+1cm/s) var 18.8% på spredningsdyp (79m) og 19.4% på bunndyp (133m). Lengst varighet for strøm 
+< 1cm/s var 110 minutter (1t 50min) på 5m, 100 minutter (1t 40min) på 15m, 90 minutter (1t 30min) 
+på spredningsdyp (79m) og 140 minutter (2t 20min) på bunndyp (133m). 
+ 
+5.5 
+Mulig spredning av utslipp 
+ 
+Sprednings- og bunnstrøm er viktig for lokalitetens totale bæreevne. Opphopning av sediment under 
+anlegget kan i noen tilfeller påvirke vannkvaliteten i merden og dermed fiskens levevilkår 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 45 av 90 
+(Mattilsynet, 2016). På lokaliteter med kort avstand mellom havbunn og notbunn er det viktig at både 
+sprednings- og bunnstrøm viser god vannutskiftning slik at sedimenter ikke hoper seg opp og påvirker 
+vannkvaliteten i merden negativt (Mattilsynet, 2016). Bunntopografi og strømningsforhold har også 
+betydning for utskifting og nedbryting av bunnsedimenter fra anlegget (Mattilsynet, 2016). En ujevn 
+bunn eller en flat bunn med groper gir større risiko for opphopning av sedimenter enn en jevnt 
+skrånende bunn.    
+ 
+Dybden under strømmålerposisjonen er ca. 108m dyp for 5m og 15m og ca. 130m dyp for 
+spredningsdyp og bunndyp. Bunntopografien under begge måleposisjonene er orientert N/NV – 
+S/SØ. 
+ 
+Strømmålerposisjonen for 5m og 15m ligger på en terskel i området nord for anlegget, se Figur 8.2.1. 
+Strømmålerposisjonen for spredningsdyp og bunndyp ligger i bunnen av en grop som har en terskel 
+mot NV/N på ca. 110m.  
+ 
+Det var tilfeller der strøm var > 10cm/s på både spredningsdyp (79m) og bunndyp (133m). Dette er 
+gunstig med tanke på spredning av organisk materiale fra anlegget. 
+ 
+Spredning av utslipp følger strømrosen for spredningsdyp (Figur 4.2.1) og orienteringen til 
+bunntopografien i området. Mye sedimentasjon legger seg mot N/NV – S/SØ (Figur 4.26.1), som er 
+retningen med mest vannutskiftning (Tabell 4.17.1). Med utgangspunkt i målte strømhastigheter på 
+spredningsdyp vil avfall spre seg lengst mot NV, opptil 450m vekk fra utslippspunktet. 
+ 
+5.6 
+Vannsøylens vertikale struktur 
+ 
+Vannsøylens stabilitet har vesentlig betydning for sirkulasjon i området og mulighet for blanding 
+vertikalt. En stabil vannsøyle har økende tetthet med økende dyp. Lagdeling i vannsøylen (forårsaket 
+forskjellige grunner, for eksempel; ferskvannsavrenning, avkjøling/oppvarming av overflatevann, 
+utveksling av vann ved bunn med kystvann) påvirker spredning av utslipp både horisontalt og 
+vertikalt. 
+ 
+Temperatur under måleperioden var 3.0 - 7.3°C på 5m, 3.2 - 6.6°C på 15m, 3.1 - 6.2°C på 
+spredningsdyp (79m) og 3.4 - 5.2°C på bunndyp (133m). Temperaturmålingene viser at overflatelaget 
+var kaldere enn lenger ned i vannsøylen i begynnelsen av måleperioden (februar) og fram til 
+begynnelsen av mars. Fra midten av april og fram til slutten av måleperioden (mai) er det varmere 
+lengre opp i vannsøylen (på 5m og 15m) i forhold til spredningsdyp (79m) og bunndyp (133m). I 
+perioder er det en del variasjon på spredningsdyp og bunndyp hvor temperaturen øker og synker over 
+relativt korte perioder. I gjennomsnitt øker temperaturen på alle dyp. 
+ 
+CTD-målinger i februar viser at temperaturen synker med dybden, mens i mai øker temperaturen med 
+dybden. Dette er normalt på denne årstiden, når solen varmer overflatevannet og vinden blander den 
+øvre vannsøylen.  
+Saltinnholdet minket i løpet av måleperioden i de øverste 30 meterne fra homogen vannsøyle til et 
+ferskere overflatelag. Dette kan forklares av ferskvannsavrenning i overflaten. Fra 30m dyp og ned 
+til bunnen var det lite endring i saltinnhold mellom februar og mai hvor saltinnholdet var homogen 
+med dybden. 
+Tetthetsdata gjenspeiler saltinnholdet og viser at vannsøylen var blandet i februar og lagdelt i mai 
+hvor de øverste 30 meterne er kontinuerlig stratifisert. 
+Oksygenmetningen i februar og mai var høy (> 90%) i hele vannsøyla. I februar var 
+oksygenmetningen konstant med dybden, mens i mai var det en svak økning litt lenger ned i 
+vannsøylen (ved ca. 14m dyp) etterfulgt av avtagende profil ned til ca. 60m dyp hvor 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 46 av 90 
+oksygenmetningsnivået var tilsvarende som i februar. Oksygeninnholdet viser lignende mønster som 
+oksygenmetningen. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 47 av 90 
+6. Vedlegg – Bakgrunnsinformasjon 
+ 
+6.1 
+Valg av sted, dyp og periode for strømmålinger 
+ 
+Valg av målested 
+ 
+Plassering av riggen i forhold til det dypet strømmen skal måles på har stor betydning for målingene. 
+Et av kravene i NS 9415:2009 er at målerne skal plasseres i den posisjonen som sannsynligvis oppgir 
+høyeste strømhastighet på lokaliteten.  
+ 
+• Anleggets geografiske plassering og topografiske utforming av nærområdet må vurderes.  
+Strømmen påvirkes av bukter, viker og elveløp, møtepunkter for fjordsystemer, osv. Dette 
+kan føre til at strømmen skifter retning e.l.  
+• Bunntopografien under anlegget og i området bør vurderes, da ujevnheter kan påvirke 
+strømmens styrke og dreining.  
+• Anleggets driftsstatus må vurderes der selve anlegget kan forstyrre målinger på 
+overflatestrømmen. Utestående nøter og fiskebiomasse kan frembringe en skyggeeffekt og 
+muligens redusere strømmen i noen retninger på målinger på både 5m og 15m dyp.    
+ 
+Plasseringen som sannsynligvis oppgir høyeste strømhastighet på en lokalitet er ofte rett utenfor 
+anlegget, lengst unna land. Strømmåling på 5m og 15m dyp som foretas her gir grunnlag for å 
+estimere den sterkeste strømmen anlegget kan bli utsatt for med tanke på dimensjonering.  
+ 
+For strømmåling på sprednings- og bunndyp er foretrukket plassering i anleggets senter, som gir 
+grunnlag for å estimere den representative strømstyrken i anlegget med tanke på spredning av 
+partikler. 
+ 
+Valg av måledyp 
+ 
+Overflatestrømmen måles på 5m dyp. Det tas ikke på 1m på grunn av støy fra bølger. 
+Vannutskiftningsstrøm måles på 15m dyp. 
+Sprednings- og bunnstrøm 
+• Spredningsstrøm måles midt mellom merdbunn og sjøbunn, men ikke dypere enn 50m fra 
+merdbunn. 
+• Bunnstrøm måles ca. 2m over bunn, men ikke dypere enn 100m fra merdbunn. 
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hvert 14.77 døgn, som er 
+tidevannssyklus for spring / nipp, er anbefalt minimum for måleperioden 30 dager.  
+ 
+Målingene på 5m og 15m dyp ble gjort i samsvar med NS 9415:2009, der kravet er at målingene skal 
+gjennomføres sammenhengende i minst en måned.  
+ 
+Målingene på sprednings- og bunndyp ble gjort i samsvar med retningslinje for etableringssøknader 
+fra Mattilsynet (Mattilsynet, 2016), der det er anbefalt at målingene skal gjennomføres 
+sammenhengende i minst 4 uker. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 48 av 90 
+6.2 
+Spesifikasjoner for strøminstrumenter 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.2.1. Målerne registrerer strømhastighet, 
+strømretning og temperatur.   
+ 
+Tabell 6.2.1. Spesifikasjoner per strøminstrument. 
+Måledyp 
+5m 
+15m 
+Spredning (79m) 
+Bunn (133m) 
+Leverandør 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Instrumenttype, 
+modell 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+ID-nr. 
+5169 
+5310 
+35 
+5073 
+Cellestørrelse 
+- 
+- 
+- 
+- 
+Kalibrering 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Strømhastighetens 
+nøyaktighet 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+Strømhastighetens 
+rekkevidde / 
+terskelverdi 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+Strømretningens 
+nøyaktighet 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+Kompassorientering 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Kompass justert for 
+misvisning 
+Nei 
+Nei 
+Nei 
+Nei 
+Temperaturens 
+nøyaktighet og 
+rekkevidde 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 49 av 90 
+6.3 
+Måleprinsipp for strømmålinger 
+ 
+Aanderaa punktmåler  
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Det sendes ut en kort lydpuls (akustisk puls) 
+med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de innkommende 
+refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende refleksjon er 
+proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet (vanligvis 
+zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at de derfor 
+beveger seg med samme hastighet som vannet. En punktmåler er satt opp for å måle strøm med én 
+datalogging i et intervall på 10 minutter, basert på 150 ping. 
+ 
+Tabell 6.3.1. Måleprinsipp for en Aanderaa punktmåler på 5m og 15m. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer samplingsperioder på 10 minutter. I løpet av denne perioden sender 
+instrumentet ut 150 ping. Ett datapunkt gir gjennomsnittet over en 10-minuttersperiode. 
+ 
+Tabell 6.3.2. Måleprinsipp for en Aanderaa punktmåler på spredningsdyp (79m) og bunndyp (133m). 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer aktive perioder innenfor en samplingsperiode på 10 minutter; måleren 
+pulserer i 1 minutt, etterfulgt av 9 minutters hvile i løpet av en 10-minutters samplingsperiode. Den 
+registrerte målingen hvert 10. minutt er gjennomsnittet av strømmålinger i løpet av det første minuttet 
+i samplingsperioden. 
+ 
+6.4 
+CTD-målinger 
+ 
+Hydrografimålinger ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden med 
+et påmontert lodd ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden gjør 
+én registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen ved senkning og en 
+ved heving. Profil ved senkning av sonden ble benyttet. 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 50 av 90 
+7. Vedlegg – Riggoppsett 
+ 
+7.1 
+Riggoppsett 
+ 
+Riggoppsett for målt strøm er beskrevet i Tabell 7.1.1 for 5m og 15m og i Tabell 7.1.2 for 
+spredningsdyp (79m) og bunndyp (133m). Riggene er skissert henholdsvis i Figur 7.1.1 og Figur 
+7.1.2. Riggene for spredningsdyp og bunndyp ble festet til anlegget. 
+ 
+Tabell 7.1.1. Beskrivelse av riggoppsett for strømmålinger på 5m og 15m. 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A2 
+Blåse 
+1stk 
+0.0m 
+35kg oppdrift 
+Trålkule 11" 
+Kule 
+3stk 
+ 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+5.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+5.0m 
+ 
+Danline 14mm 
+Tau 
+10.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+15.0m 
+ 
+Danline 14mm 
+Tau 
+2.0m 
+ 
+ 
+Jernstein 
+Lodd 
+3stk 
+17.0m 
+4kg 
+Danline 14mm 
+Tau 
+103.0m 
+ 
+ 
+Danline 22mm 
+Tau 
+1.50m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+3stk 
+110.0m 
+25kg 
+ 
+Tabell 7.1.2. Beskrivelse av riggoppsett for strømmålinger på spredningsdyp (79m) og bunndyp 
+(133m). 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+Struktur 
+Anlegg 
+1stk 
+0.0m 
+ 
+A2 
+Blåse 
+1stk 
+ 
+35kg oppdrift 
+Danline 14mm 
+Tau 
+6.0m 
+ 
+ 
+Jernstein 
+Lodd 
+1stk 
+6.0m 
+1kg 
+Danline 14mm 
+Tau 
+73.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+2stk 
+73.0m 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+2.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+75.0m 
+ 
+Danline 14mm 
+Tau 
+53.50m 
+ 
+ 
+Trålkule 11" 
+Kule 
+1stk 
+127.5m 
+7.5kg oppdrift 
+Punktmåler 
+Måler 
+1stk 
+128.0m 
+ 
+Danline 22mm 
+Tau 
+1.50m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+3stk 
+130.0m 
+25kg 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 51 av 90 
+ 
+ 
+Figur 7.1.1. Riggoppsett for strømmålinger på 5m og 15m. 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 52 av 90 
+ 
+Figur 7.1.2. Riggoppsett for strømmålinger på spredningsdyp (79m) og bunndyp (133m). 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 53 av 90 
+8. Vedlegg – Databearbeiding og kvalitetssikring  
+ 
+Før utsett ble fysisk status til hvert instrument kontrollert. Kontrollsjekk inkluderer: batteristatus, 
+instrumentinnstilling, minnestatus og anoder. 
+ 
+Det benyttes et internt kvalitetssystem som følger hver måler for teknisk dokumentasjon. 
+Instrumenttilstand og eventuelt andre kommentarer angående instrumentet oppføres i 
+kvalitetssystemet etter hvert prosjekt.  
+   
+Ved utsett av instrumenter benyttes et internt kvalitetssystem som inkluderer (etter NS 9425:1999): 
+lokalitetsnavn, riggoppsett, posisjon, måledyp, kontaktperson og oppdragsgiver, tidspunkt for utsett 
+og opptak, og et kommentarfelt for eventuelle observasjoner ved utsett og opptak.  
+ 
+Ved opptak blir måleinstrumentene undersøkt for begroing, annet som kan ha påvirket målingene, og 
+fysisk skade. Dette kommenteres i kvalitetssystemet og i rapporten, og mulig påvirkning for resultatet 
+blir vurdert. Verdier som er benyttet i rapporten er troverdige og uten behov for støyfiltrering eller 
+annen korreksjon. 
+ 
+Data er kvalitetssikret gjennom interne prosedyrer utviklet i samarbeid med instrumentenes produsent 
+etter bestemte kriterier. Dersom disse kriteriene ikke blir møtt er data kritisk vurdert. Enkeltstående 
+datapunkter blir også vurdert og data fjernes om nødvendig. Både rådata og kvalitetssikret data er 
+lagret på server. 
+ 
+8.1 
+Databearbeiding 
+ 
+Riggtilstand etter måling 
+ 
+Det var begroing på instrumentet som målte strøm på 5m dyp. Dette har ikke påvirket strømdata, og 
+ingen data er vurdert som feil eller usikre på grunn av dette. Datakvaliteten anses å være god. 
+ 
+Det var ingen begroing eller skade på instrumentene på 15m, spredningsdyp og bunndyp, og ingen 
+data er vurdert som feil eller usikre på grunn av dette. Datakvaliteten anses å være god. 
+ 
+ 
+Feil på instrument 
+ 
+Det var ingen feil på instrumentenes sensorer under måleperioden. Datakvaliteten anses å være god. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 54 av 90 
+Tabell 8.1.1. Opplysninger om strømmålinger og databearbeiding. 
+Måledyp 
+5m 
+15m 
+Spredning (79m) 
+Bunn (133m) 
+Filnavn for rådata 
+Skogsholmen 5m VS0522 
+AP5169.bin 
+Skogsholmen 15m VS0522 
+AP5310.bin 
+Skogsholmen spred-79m 
+VS0522 AP35.bin 
+Skogsholmen bunn-133m 
+VS0522 AP5073.bin 
+Rådata først vurdert i 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Filnavn for eksportert data 
+Skogsholmen 5m VS0522 
+AP5169_eks_AL.xlsx 
+Skogsholmen 15m VS0522 
+AP5310_eks_AL.xlsx 
+Skogsholmen spred-79m 
+VS0522 AP35_eks_AL.xlsx 
+Skogsholmen bunn-133m 
+VS0522 AP5073_eks_AL.xlsx 
+Filnavn for kvalitetssikret 
+data 
+Skogsholmen-5m_QC.xlsx 
+Skogsholmen-15m_QC.xlsx 
+Skogsholmen-Spredning 
+(79m)_QC.xlsx 
+Skogsholmen-Bunn 
+(133m)_QC.xlsx 
+Data retur (%) 
+99.99 
+99.99 
+100.00 
+100.00 
+Antall målinger 
+12975 / 12976 
+12975 / 12976 
+12974 / 12974 
+12974 / 12974 
+Antall fjernede/manglende 
+målinger 
+1 
+1 
+0 
+0 
+Ekstern påvirkning på 
+målinger 
+Ja, se Vedlegg 8.2 
+Ja, se Vedlegg 8.2 
+Ja, se Vedlegg 8.2 
+Ja, se Vedlegg 8.2 
+Dato og tid for første og siste 
+benyttede strømmåling 
+18.02.22 10:00 –  
+19.05.22 12:30 
+18.02.22 10:00 –  
+19.05.22 12:30 
+18.02.22 10:51 –  
+19.05.22 13:01 
+18.02.22 10:50 –  
+19.05.22 13:00 
+Dato og tid for start og slutt 
+av instrument 
+17.02.22 13:00 –  
+23.05.22 12:40 
+17.02.22 13:00 –  
+23.05.22 12:20 
+17.02.22 13:11 –  
+23.05.22 11:41 
+17.02.22 12:50 –  
+23.05.22 12:00 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 55 av 90 
+8.2 
+Kvalitetssikring av data 
+ 
+Data er kvalitetssikret etter bestemte kriterier (Tabell 8.2.1). Dersom disse kriteriene ikke blir møtt er 
+data kritisk vurdert. Utstikkere blir også vurdert og data fjernet om nødvendig.  
+ 
+Under måleperioden er det noen episoder med «nedtrekk/opptrekk» (Figur 8.2.2 – Figur 8.2.4) på alle 
+dyp. Strømhastigheten ved opptrekket den 03.03.2022 for instrumentene på 5m og 15m er vurdert 
+som feilverdi og fjernet fra datasettet. Strømhastighetene ved nedtrekkene på 5m, 15m og 
+spredningsdyp er beholdt siden andre kvalitetssikrede parametere er tilfredsstilt. I perioden med 
+registrerte nedtrekk på spredningsdyp er strømdata på bunndyp analysert. Strømdata på bunndyp ved 
+disse periodene er beholdt hvor andre kvalitetssikrede parametere er tilfredsstilt. 
+ 
+Tabell 8.2.1. Kriterier brukt for å kvalitetssikre data. 
+Parameter 
+QC  
+Temperatur 
+Manuell sjekk av data for stabil temp (∆ < 1℃)  
+Helning 
+< 50º (Figur 8.2.2 – Figur 8.2.5) 
+Ping count 
+150 (Figur 8.2.2 – Figur 8.2.5) 
+Trykk 
+Stabilt (Figur 8.2.2 – Figur 8.2.4)  
+Strømhastighet 
+Stabil (ingen store endringer fra en måling til neste måling, Tabell 8.2.2).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+Retning 
+Stabil (ingen store endringer fra en måling til neste måling).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+ 
+Tabell 8.2.2. Teoretiske forskjeller i strømhastighet fra en måling til det neste (IOC, 1993). 
+∆t (min) 
+Teoretisk 
+Faktor 
+Godkjent 
+ 
+u1 – u2 (m/s) 
+ 
+u1 – u2 (m/s) 
+5 
+0.0422 u 
+2.0 
+0.08 
+10 
+0.0843 u 
+1.8 
+0.15 
+15 
+0.1264 u 
+1.6 
+0.20 
+20 
+0.1685 u 
+1.5 
+0.25 
+30 
+0.2523 u 
+1.4 
+0.35 
+60 
+0.5001 u 
+1.2 
+0.60 
+ 
+Tabell 8.2.2 gir teoretiske forskjeller mellom to suksessive målinger av strømhastighet, u1 og u2, for 
+forskjellige måleintervall, Δt (IOC,1993). For å tillate noe naturlig variabilitet i strømhastighet 
+og -retning (inkludert usymmetriske hastighetskurver for tidevannsstrøm) har de teoretiske 
+forskjellene blitt hevet med de oppgitte faktorene, mens strøm (u) er satt til 1m/s ettersom variabilitet 
+øker med avtagende strøm. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 56 av 90 
+Anlegget var ikke i drift under måleperioden. 
+ 
+På grunn av målingenes dyp, er strøm på 5m, 15m, spredningsdyp (79m) og bunndyp (133m) vurdert 
+å ikke ha blitt påvirket av at anlegget var i sjø. 
+ 
+Strømmålerposisjonene er vist i Figur 8.2.1.  
+ 
+ 
+Figur 8.2.1. Plassering av strømmålere i området anvist med gult kryss for strømmålinger på 5m og 
+15m og med et rødt kryss for strømmålinger på spredningsdyp og bunndyp. Kart er hentet fra Olex. 
+Kartdatum: WGS84. 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 57 av 90 
+ 
+ 
+Figur 8.2.2. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 5m dyp.  
+ 
+Instrumentdypet varierte mellom 3.3m og 6.4m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 5.3m.  
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 58 av 90 
+ 
+ 
+Figur 8.2.3. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 15m dyp.  
+ 
+Instrumentdypet varierte mellom 12.8m og 16.5m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 15.4m.  
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 59 av 90 
+ 
+ 
+Figur 8.2.4. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, spredningsdyp (79m).  
+ 
+Instrumentdypet varierte mellom 78.0m og 81.4m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 79.5m.  
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 60 av 90 
+ 
+ 
+Figur 8.2.5. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunndyp (133m).  
+ 
+Instrumentet hadde ikke trykksensor. Utfra riggoppsett skal instrumentet ha stått på gjennomsnittlig 
+133m dyp under måleperioden.  
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 61 av 90 
+8.3 
+Fjernede dataverdier  
+ 
+8.3.1 Måleperiode 
+ 
+Data er fjernet utenfor måleperioden for å bruke overlappende periode mellom de forskjellige dyp i 
+så stor grad som mulig. 
+ 
+8.3.2 Enkelte datapunkter 
+ 
+Ett datapunkt på både 5m og 15m er fjernet grunnet opptrekk. Ingen andre datapunkter er fjernet, og 
+data er av god kvalitet. 
+ 
+12 dataverdier av saltinnhold og tetthet er fjernet fra CTD målingene fra opptak i mai den 19.05.2022. 
+Mulig årsak til feilverdiene er høy nedsenkningshastighet av CTD måleren. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 62 av 90 
+9. Vedlegg – Fyrstikkdiagram av vind og strøm 
+ 
+Figurene under viser vind- og strømhastighet i løpet av måleperioden, oppdelt i perioder på to uker. Tidspunkter hvor vind og strøm hadde omtrent 
+sammenfallende retning (grønne prikker) eller motsatt retning (røde prikker) indikerer tilfeller med vindpåvirket strøm. Svak vind (< 3m/s) hvor strøm 
+og vind hadde sammenfallende eller motsatt retning er indikert med oransje prikker. Det er tillatt en vinkel på opptil ± 22.5° ved beregning av om vind 
+og strøm har omtrent sammenfallende eller motsatt retning. 
+ 
+Figur 9.1. Fyrstikkdiagram av vindhastighet (mot retning) på Vega - Vallsjø (over) og strømhastighet (mot retning) på 5m dyp (under) under 
+måleperioden. 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 63 av 90 
+Figur 9.2. Fyrstikkdiagram av vindhastighet (mot retning) på Vega - Vallsjø (over) og strømhastighet (mot retning) på 5m dyp (under) under 
+måleperioden. 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 64 av 90 
+ 
+Figur 9.3. Fyrstikkdiagram av vindhastighet (mot retning) på Vega - Vallsjø (over) og strømhastighet (mot retning) på 5m dyp (under) under 
+måleperioden. 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 65 av 90 
+ 
+Figur 9.4. Fyrstikkdiagram av vindhastighet (mot retning) på Vega - Vallsjø (over) og strømhastighet (mot retning) på 5m dyp (under) under 
+måleperioden. 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 66 av 90 
+10. Vedlegg – Strømmens tilstandsklasser 
+ 
+Tilstandsklasser for strømparametere er oppgitt i Tabell 10.1. Verdiene er hentet fra strømdata målt 
+av Åkerblå ved bruk av Aanderaa punkmålere (Åkerblå, 2015). 
+ 
+Tabell 10.1. Tilstandsklasser for vurdering av strømdata. 
+ 
+Dyp 
+(m) 
+1 
+2 
+3 
+4 
+5 
+Maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 55 
+≥ 40 - < 55 
+≥ 26 - < 40 
+≥ 15 - < 26 
+< 15 
+Utskifting 15 
+≥ 45 
+≥ 30 - < 45 
+≥ 20 - < 30 
+≥ 10 - < 20 
+< 10 
+Spredning  
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Bunn 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Gjennomsnittlig strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 10 
+≥ 7 - < 10 
+≥ 6 - < 7 
+≥ 3 - < 6 
+< 3 
+Utskifting 15 
+≥ 9 
+≥ 6 - < 9 
+≥ 5 - < 6 
+≥ 2 - < 5 
+< 2 
+Spredning  
+≥ 8.5 
+≥ 5 - < 8.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Bunn 
+ 
+≥ 7.5 
+≥ 5 - < 7.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Signifikant maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 25 
+≥ 17 - < 25 
+≥ 11 - < 17 
+≥ 5 - < 11 
+< 5 
+Utskifting 15 
+≥ 23 
+≥ 15 - < 23 
+≥ 8 - < 15 
+≥ 4 - < 8 
+< 4 
+Spredning  
+≥ 20 
+≥ 14 - < 20 
+≥ 7 - < 14 
+≥ 4 - < 7 
+< 4 
+Bunn 
+ 
+≥ 16 
+≥ 11 - < 16 
+≥ 6.5 - < 11 
+≥ 3 - < 6.5 
+< 3 
+Signifikant minimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 6 
+≥ 4 - < 6 
+≥ 2.5 - < 4 
+≥ 1.5 - < 2.5 
+< 1.5 
+Utskifting 15 
+≥ 5 
+≥ 3.5 - < 5 
+≥ 2.3 - < 3.5 
+≥ 1.5 - < 2.3 
+< 1.5 
+Spredning  
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Bunn 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Andel strømstille (%) < 1cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 1 
+< 3 - ≥ 1 
+< 5 - ≥ 3 
+< 7 - ≥ 5 
+≥ 7 
+Utskifting 15 
+< 1 
+< 5 - ≥ 1 
+< 7 - ≥ 5 
+< 10 - ≥ 7 
+≥ 10 
+Spredning  
+< 3 
+< 8.5 - ≥ 3 
+< 15 - ≥ 8.5 
+< 20 - ≥ 15 
+≥ 20 
+Bunn 
+ 
+< 3 
+< 10 - ≥ 3 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Andel strømstille (%) < 3cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 5 
+< 10 - ≥ 5 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Utskifting 15 
+< 5 
+< 15 - ≥ 5 
+< 25 - ≥ 15 
+< 40 - ≥ 25 
+≥ 40 
+Spredning  
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 50 - ≥ 35 
+≥ 50 
+Bunn 
+ 
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 60 - ≥ 35 
+≥ 60 
+Effektiv transport (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 5 
+≥ 2.5 - < 5 
+≥ 1.5 - < 2.5 
+≥ 0.3 - < 1.5 
+< 0.3 
+Utskifting 15 
+≥ 3.5 
+≥ 2 - < 3.5 
+≥ 1 - < 2 
+≥ 0.2 - < 1 
+< 0.2 
+Spredning  
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Bunn 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Neumann-parameter 
+ 
+svært stabil 
+stabil 
+middels stabil 
+lite stabil 
+svært lite stabil 
+Alle dyp (m) 
+> 0.6 
+0.4 - 0.6 
+0.2 - 0.4 
+0.1 - 0.2 
+< 0.1 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 67 av 90 
+11. Vedlegg – Månedlige tidevannsvariasjoner 
+ 
+Strømmålinger er påvirket av blant annet tidevannsstrøm og kan bli påvirket av vind og vær. Månedlige tidevannsvariasjoner er vist i figuren under.    
+ 
+ 
+Figur 11.1. Månedlige tidevannsvariasjoner hvor stolpehøyde angir relativ tidevannsstrøm og stolpefarge indikerer månefaser (oransje – siste kvarter; 
+rød – nymåne; brun – første kvarter; grønn - fullmåne). 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 68 av 90 
+12. Vedlegg – Måleenheter 
+ 
+Alle måleenheter brukt i rapporten er beskrevet i tabellen under. 
+ 
+Tabell 12.1. Måleenheter brukt i rapporten. 
+Beskrivelse 
+Måleenhet 
+Dag og Tid 
+Tidsstempel i tidsserier er gitt ved midnatt, slik 
+at tidsserier starter midnatt før første målepunkt 
+og slutter midnatt etter siste målepunkt. 
+dd.mm.yy hh:mm (UTC) 
+dd.mm (UTC) 
+dd.mm.yyyy hh (UTC) 
+Høyde / Dybde 
+Meter (m) 
+Avstand  
+Kilometer (km) 
+Meter (m) 
+Posisjon / Koordinater 
+Posisjon er oppgitt i koordinatsystemet WGS64 
+(World Geodetic System 1984). 
+GGG (º) MM.MM (') 
+Strømretning (mot) 
+Grader (º) 
+Strømhastighet  
+Centimeter per sekund (cm/s) 
+Vindhastighet 
+Meter per sekund (m/s) 
+Vindretning (fra) 
+Grader (º) 
+Tidevannsnivå 
+Centimeter (cm) 
+Temperatur 
+Grader celsius (℃) 
+Helning 
+Grader (º) 
+Ping Count 
+Antall 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 69 av 90 
+13. Vedlegg – Parametere og beskrivelse 
+ 
+Tabell 13.1. Parametere brukt i rapporten og beskrivelse av disse. 
+Parameter 
+Beskrivelse 
+Sjøtemperatur (℃) 
+Temperatur i vannet målt ved måledyp 
+Strømhastighet 
+Maksimum (cm/s) 
+Høyeste verdi av alle data 
+Gjennomsnitt (cm/s) 
+Matematisk gjennomsnittlig verdi av alle data 
+Minimum (cm/s) 
+Laveste verdi av alle data 
+Signifikant maks (cm/s)  Matematisk gjennomsnitt av høyeste 1/3 av data 
+Signifikant min (cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av data 
+Varians (cm/s)2 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+om data varierte mye mellom suksessivt høye og lave verdier. En høy 
+varians indikerer at datapunkter er meget spredt ut rundt 
+gjennomsnittsverdien, mens en lav varians indikerer at datapunkter er 
+veldig nær gjennomsnittsverdien og derfor også hverandre. 
+Varians 
+= 
+Gjennomsnittet 
+av 
+de 
+kvadrerte 
+forskjeller 
+fra 
+gjennomsnittsverdien. 
+Standardavvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+gjennomsnittlig avstand fra gjennomsnittsverdi. Et høyt standardavvik 
+indikerer stor spredning av data.   
+Standardavvik = kvadratrot (varians). 
+% < x cm/s  
+Mengden strøm med strømhastighet < x cm/s  
+Lengst periode < x cm/s Varighet av lengste periode med strømhastighet < x cm/s 
+Effektiv transport 
+Hastighet (cm/s) 
+Hastighet er en funksjon av posisjon og tid. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, da er effektiv hastighet gitt som den rettlinjede avstanden 
+mellom partikkelens start- og sluttposisjon delt på total tid i 
+måleperioden.   
+Retning (grader) 
+Retning er vinkelen til en linje ut fra origo. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, er resultatretning eller retning av effektiv transport gitt 
+som vinkelen fra partikkelens startposisjon til partikkelens posisjon ved 
+måleperiodens slutt. 
+Neumann-parameter 
+Verdi som indikerer stabiliteten til strømmen. Neumann-parameteren 
+beregnes ut fra forholdet mellom den rettlinjede avstanden mellom en 
+tenkt drivende partikkels start- og sluttposisjon, og partikkelens totale 
+bane i løpet av måleperioden. Stabil strøm (høy Neumann-parameter) 
+betyr at vannet strømmer i «en» retning og beveger seg bort fra 
+startpunktet hele tiden. Ustabil strøm (lav Neumann-parameter) betyr at 
+vannet strømmer i ulike retninger og kanskje bare flyter fram og tilbake 
+ved startpunktet.  For eksempel, en Neumann-parameter på 0.7 betyr at 
+strømmen i løpet av måleperioden strømmer med 70% stabilitet i en 
+bestemt retning. Dette er klassifisert som svært stabil strøm.   
+Vannforflytning 
+(m3/m2/d) 
+Mengden vann som strømmer gjennom en tenkt flate på 1 m2 i løpet av 
+et døgn.  
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 70 av 90 
+14. Vedlegg – Referanser 
+ 
+1. 
+Brukerveiledning. Aanderaa RCM Blue punktmåler. 
+ 
+2. 
+Bannister, R. J., Johnsen, I. A., Hansen, P. K., Kutti, T., & Asplin, L. (2016). Near- and far-
+field dispersal modelling of organic waste from Atlantic salmon aquaculture in fjord systems. 
+ICES Journal of Marine Science, 73, 9, 2408-2419. 
+ 
+3. 
+Codiga, D. L. (2021). Unified Tidal Analysis and Prediction Using the UTide Matlab 
+Functions. Technical Report 2011-01. Graduate School of Oceanography, University of 
+Rhode Island, Narragansett, RI. 59pp. 
+ 
+4. 
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography. 
+Elsevier Science. 
+ 
+5. 
+Fiskeridirektoratet (2021). Avklaring – Bruk av multiplikasjonsfaktorer iht. NS 9415:2021 for 
+fastsettelse av dimensjonerende strømhastigheter basert på måling av strøm over en kortere 
+periode enn ett år. Avklaring – Bruk av multiplikasjonsfaktorer iht. NS 94152021 for 
+fastsettelse av dimensjonerende strømhastighet basert på måling av strøm over e 
+(4023635).pdf, 3 sider. 
+ 
+6. 
+Fiskeridirektoratet (2012). Veileder for utfylling av søknadsskjema for tillatelse til akvakultur 
+i flytende eller landbasert anlegg. Tilgjengelig: http://www.fiskeridir.no/Akvakultur/Registre-
+og-skjema/Skjema-akvakultur/Akvakultursoeknad 
+ 
+7. 
+IOC (1993). Manual of Quality Control Procedures for validation of Oceanographic Data. 
+Tilgjengelig: 
+http://www.iode.org/components/com_oe/oe.php?task=download&id=20423 
+&version=1st%20edition&lang=1&format=1 
+ 
+8. 
+Kartverket (2022). www.kartverket.no/sehavniva 
+ 
+9. 
+Mattilsynet (2016). Statens tilsyn for planter, fisk, dyr og næringsmidler, utgave 6.   
+Etableringssøknader – saksbehandling i tilsynet. Retningslinje til behandling av søknader etter 
+forskrift 17. juni 2008 nr. 823 om etablering og utvidelse av akvakulturanlegg, zoobutikker 
+m.m. 36s. 
+ 
+10. 
+Meteorologisk institutt (2022).  www.seklima.met.no 
+ 
+11. 
+NS 9415:2009. Flytende oppdrettsanlegg. Krav til lokalitetsundersøkelse, risikoanalyse, 
+utforming, dimensjonering, utførelse, montering og drift. Norsk Standard 2009: 101s. 
+ 
+12. 
+NS 9415:2021. Flytende akvakulturanlegg. Lokalitetsundersøkelse, prosjektering, utførelse 
+og bruk. Norsk Standard 2021: 127s. 
+ 
+13. 
+NS 9425-1:1999. Oseanografi – Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 
+6s. 
+ 
+14. 
+Åkerblå 
+(2015). 
+Strømklassifisering. 
+Åkerblå 
+AS-rapport: 
+Strøm- 
+Klassifisering-
+AanderaaPunktMåler-Okt2015, 2 sider. 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 71 av 90 
+15. Vedlegg - Resultater per måned på 5m dyp 
+ 
+15.1 Sammendrag av strømdata 
+ 
+Resultater per måledyp over hele måleperioden er sammenfattet i Tabell 4.1.1. Resultater per måned 
+for 5m dyp er sammenfattet i Tabell 15.1.1. Verdiene er klassifisert (fargelagt) etter: «Vedlegg – 
+Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er forklart i «Vedlegg – 
+Parametere og beskrivelse». 
+ 
+Tabell 15.1.1. Sammendrag av strømdata fra 5m dyp per måned. 
+Måledyp 
+5m-feb22 
+5m-mar22 
+5m-apr22 
+5m-mai22 
+Maksimum (cm/s) 
+20.3 
+22.8 
+22.5 
+17.6 
+Gjennomsnitt (cm/s) 
+6.1 
+6.1 
+6.2 
+5.1 
+Minimum (cm/s) 
+0.0 
+0.0 
+0.1 
+0.0 
+Signifikant maks (cm/s) 
+10.3 
+10.8 
+10.3 
+8.6 
+Signifikant min (cm/s) 
+2.6 
+2.3 
+2.8 
+2.1 
+Varians (cm/s)² 
+12.8 
+16.1 
+12.7 
+9.2 
+Standardavvik (cm/s) 
+3.6 
+4.0 
+3.6 
+3.0 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+2.8 
+3.7 
+2.0 
+4.6 
+Lengste periode < 1cm/s (min) 
+30 
+100 
+40 
+110 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+20.9 
+23.8 
+17.5 
+27.8 
+Lengste periode < 3cm/s (min) 
+210 
+340 
+250 
+480 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+85.4 
+83.5 
+85.7 
+92.8 
+Lengste periode < 10cm/s (min) 
+1890 
+7740 
+3660 
+4550 
+% ≥ 30cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+0 
+0 
+0 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+3.0 
+0.9 
+1.7 
+1.4 
+Retning (grader) 
+12 
+353 
+273 
+147 
+Neumann-parameter 
+0.5 
+0.1 
+0.3 
+0.3 
+Gjennomsnittlig vannforflytning 
+(m³/m²/d) 
+5310 
+5296 
+5390 
+4415 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 72 av 90 
+15.2 Strømroser 
+ 
+Strømrosene viser strømhastighet og strømretning under hele måleperioden. Strømroser gir en 
+indikasjon på hovedstrømretning og om tidevannsellipsen er rettlinjet eller sirkulær. 
+ 
+5m-feb22 
+5m-mar22 
+ 
+ 
+5m-apr22 
+5m-mai22 
+ 
+ 
+Figur 15.2.1. Strømroser på 5m dyp i februar, mars, april og mai. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 73 av 90 
+15.3 Tidsdiagram – strømhastighet 
+ 
+Strømhastighet på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 15.3.1. Tidsdiagram av strømhastighet på 5m dyp i februar, mars, april og mai. Strømhastighet 
+er indikert på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 74 av 90 
+15.4 Tidsdiagram – strømhastighet 
+ 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 15.4.1. Tidsdiagram av strømretning på 5m dyp i februar, mars, april og mai. Strømretning på 
+stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 75 av 90 
+15.5 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt hastighet 
+(cm/s). 
+ 
+Tabell 15.5.1. Persentilfordeling av strømhastighet (cm/s) for 5m dyp per måned. 
+Persentil 
+5m-feb22 
+5m-mar22 
+5m-apr22 
+5m-mai22 
+1 
+0.7 
+0.5 
+0.6 
+0.4 
+10 
+2.1 
+1.8 
+2.3 
+1.6 
+20 
+2.9 
+2.7 
+3.2 
+2.4 
+30 
+3.7 
+3.5 
+4.0 
+3.2 
+40 
+4.6 
+4.3 
+4.8 
+3.8 
+50 
+5.6 
+5.2 
+5.6 
+4.6 
+60 
+6.5 
+6.3 
+6.5 
+5.4 
+70 
+7.8 
+7.5 
+7.5 
+6.4 
+80 
+9.1 
+9.2 
+8.9 
+7.7 
+90 
+11.0 
+11.9 
+11.1 
+9.4 
+95 
+12.7 
+14.1 
+13.1 
+10.7 
+99 
+16.6 
+18.2 
+17.4 
+13.5 
+ 
+ 
+15.6 Prosentfordeling av strømhastighet 
+ 
+Verdiene i tabellen indikerer prosent av data som er lik eller høyere enn strømhastighet (cm/s) oppgitt 
+i kolonnen til venstre. 
+ 
+Tabell 15.6.1. Prosent (%) av data for 5m som er lik eller høyere enn oppgitt hastighet. 
+Strømhastighet 
+(cm/s) 
+5m-feb22 
+5m-mar22 
+5m-apr22 
+5m-mai22 
+1 
+97.2 
+96.3 
+98.0 
+95.4 
+3 
+79.1 
+76.2 
+82.5 
+72.2 
+5 
+55.9 
+51.9 
+57.3 
+45.5 
+10 
+14.6 
+16.5 
+14.3 
+7.2 
+20 
+0.1 
+0.3 
+0.2 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 76 av 90 
+16. Vedlegg - Resultater per måned på 15m dyp 
+ 
+16.1 Sammendrag av strømdata 
+ 
+Resultater per måledyp over hele måleperioden er sammenfattet i Tabell 4.1.1. Resultater per måned 
+for 15m dyp er sammenfattet i Tabell 16.1.1. Verdiene er klassifisert (fargelagt) etter: «Vedlegg – 
+Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er forklart i «Vedlegg – 
+Parametere og beskrivelse». 
+ 
+Tabell 16.1.1. Sammendrag av strømdata fra 15m dyp per måned. 
+Måledyp 
+15m-feb22 
+15m-mar22 
+15m-apr22 
+15m-mai22 
+Maksimum (cm/s) 
+15.1 
+22.9 
+27.0 
+11.9 
+Gjennomsnitt (cm/s) 
+4.1 
+4.2 
+4.5 
+3.8 
+Minimum (cm/s) 
+0.2 
+0.1 
+0.1 
+0.1 
+Signifikant maks (cm/s) 
+7.1 
+7.5 
+7.7 
+6.1 
+Signifikant min (cm/s) 
+1.7 
+1.6 
+1.9 
+1.7 
+Varians (cm/s)² 
+7.0 
+8.4 
+8.2 
+3.9 
+Standardavvik (cm/s) 
+2.6 
+2.9 
+2.9 
+2.0 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+6.0 
+6.5 
+5.1 
+5.3 
+Lengste periode < 1cm/s (min) 
+50 
+60 
+100 
+70 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+40.6 
+39.7 
+33.5 
+38.3 
+Lengste periode < 3cm/s (min) 
+470 
+1280 
+330 
+460 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+96.0 
+95.7 
+94.7 
+99.7 
+Lengste periode < 10cm/s (min) 
+3120 
+14040 
+10620 
+17100 
+% ≥ 30cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+0 
+0 
+0 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+1.6 
+0.4 
+0.2 
+0.5 
+Retning (grader) 
+42 
+320 
+275 
+198 
+Neumann-parameter 
+0.4 
+0.1 
+0.0 
+0.1 
+Gjennomsnittlig vannforflytning 
+(m³/m²/d) 
+3571 
+3670 
+3916 
+3291 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 77 av 90 
+16.2 Strømroser 
+ 
+Strømrosene viser strømhastighet og strømretning under hele måleperioden. Strømroser gir en 
+indikasjon på hovedstrømretning og om tidevannsellipsen er rettlinjet eller sirkulær. 
+ 
+15m-feb22 
+15m-mar22 
+ 
+ 
+15m-apr22 
+15m-mai22 
+ 
+ 
+Figur 16.2.1. Strømroser på 15m dyp i februar, mars, april og mai. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 78 av 90 
+16.3 Tidsdiagram – strømhastighet 
+ 
+Strømhastighet på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 16.3.1. Tidsdiagram av strømhastighet på 15m dyp i februar, mars, april og mai. Strømhastighet 
+er indikert på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 79 av 90 
+16.4 Tidsdiagram – strømhastighet 
+ 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 16.4.1. Tidsdiagram av strømretning på 15m dyp i februar, mars, april og mai. Strømretning på 
+stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 80 av 90 
+16.5 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt hastighet 
+(cm/s). 
+ 
+Tabell 16.5.1. Persentilfordeling av strømhastighet (cm/s) for 15m dyp per måned. 
+Persentil 
+15m-feb22 
+15m-mar22 
+15m-apr22 
+15m-mai22 
+1 
+0.5 
+0.4 
+0.5 
+0.5 
+10 
+1.4 
+1.2 
+1.5 
+1.4 
+20 
+2.0 
+1.8 
+2.2 
+2.0 
+30 
+2.5 
+2.4 
+2.8 
+2.6 
+40 
+3.0 
+3.0 
+3.4 
+3.1 
+50 
+3.5 
+3.6 
+4.0 
+3.6 
+60 
+4.1 
+4.3 
+4.6 
+4.2 
+70 
+4.9 
+5.2 
+5.4 
+4.7 
+80 
+6.1 
+6.2 
+6.4 
+5.5 
+90 
+7.8 
+8.0 
+8.3 
+6.5 
+95 
+9.4 
+9.7 
+10.1 
+7.4 
+99 
+12.8 
+13.8 
+13.8 
+8.9 
+ 
+ 
+16.6 Prosentfordeling av strømhastighet 
+ 
+Verdiene i tabellen indikerer prosent av data som er lik eller høyere enn strømhastighet (cm/s) oppgitt 
+i kolonnen til venstre. 
+ 
+Tabell 16.6.1. Prosent (%) av data for 15m som er lik eller høyere enn oppgitt hastighet. 
+Strømhastighet 
+(cm/s) 
+15m-feb22 
+15m-mar22 
+15m-apr22 
+15m-mai22 
+1 
+94.0 
+93.5 
+94.9 
+94.7 
+3 
+59.4 
+60.3 
+66.5 
+61.7 
+5 
+28.5 
+32.0 
+35.3 
+26.2 
+10 
+4.0 
+4.3 
+5.3 
+0.3 
+20 
+ 
+0.2 
+0.1 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 81 av 90 
+17. Vedlegg - Resultater per måned på spredningsdyp (79m) 
+ 
+17.1 Sammendrag av strømdata 
+ 
+Resultater per måledyp over hele måleperioden er sammenfattet i Tabell 4.1.1. Resultater per måned 
+for spredningsdyp (79m) er sammenfattet i Tabell 17.1.1. Verdiene er klassifisert (fargelagt) etter: 
+«Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er forklart i «Vedlegg 
+– Parametere og beskrivelse». 
+ 
+Tabell 17.1.1. Sammendrag av strømdata fra spredningsdyp (79m) per måned. 
+Måledyp 
+Spredning 
+(79m)-feb22 
+Spredning 
+(79m)-mar22 
+Spredning 
+(79m)-apr22 
+Spredning 
+(79m)-mai22 
+Maksimum (cm/s) 
+21.6 
+22.3 
+6.1 
+16.8 
+Gjennomsnitt (cm/s) 
+3.3 
+3.7 
+1.8 
+2.1 
+Minimum (cm/s) 
+0.1 
+0.0 
+0.0 
+0.0 
+Signifikant maks (cm/s) 
+6.3 
+7.4 
+2.9 
+3.8 
+Signifikant min (cm/s) 
+1.1 
+1.1 
+0.8 
+0.8 
+Varians (cm/s)² 
+8.1 
+11.1 
+1.0 
+3.8 
+Standardavvik (cm/s) 
+2.8 
+3.3 
+1.0 
+2.0 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+12.6 
+12.5 
+25.0 
+22.4 
+Lengste periode < 1cm/s (min) 
+50 
+90 
+90 
+80 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+62.0 
+57.0 
+88.4 
+84.1 
+Lengste periode < 3cm/s (min) 
+670 
+1000 
+1890 
+1200 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+96.1 
+93.3 
+100.0 
+98.1 
+Lengste periode < 10cm/s (min) 
+7620 
+15050 
+43200 
+17660 
+% ≥ 30cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+0 
+0 
+0 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+1.6 
+2.0 
+0.3 
+0.2 
+Retning (grader) 
+326 
+332 
+161 
+10 
+Neumann-parameter 
+0.5 
+0.5 
+0.2 
+0.1 
+Gjennomsnittlig vannforflytning 
+(m³/m²/d) 
+2833 
+3239 
+1519 
+1818 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 82 av 90 
+17.2 Strømroser 
+ 
+Strømrosene viser strømhastighet og strømretning under hele måleperioden. Strømroser gir en 
+indikasjon på hovedstrømretning og om tidevannsellipsen er rettlinjet eller sirkulær. 
+ 
+Spredning (79m)-feb22 
+Spredning (79m)-mar22 
+ 
+ 
+Spredning (79m)-apr22 
+Spredning (79m)-mai22 
+ 
+ 
+Figur 17.2.1. Strømroser på spredningsdyp (79m) i februar, mars, april og mai. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 83 av 90 
+17.3 Tidsdiagram – strømhastighet 
+ 
+Strømhastighet på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 17.3.1. Tidsdiagram av strømhastighet på spredningsdyp (79m) i februar, mars, april og mai. 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 84 av 90 
+17.4 Tidsdiagram – strømhastighet 
+ 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 17.4.1. Tidsdiagram av strømretning på spredningsdyp (79m) i februar, mars, april og mai. 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 85 av 90 
+17.5 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt hastighet 
+(cm/s). 
+ 
+Tabell 17.5.1. Persentilfordeling av strømhastighet (cm/s) for spredningsdyp (79m) per måned. 
+Persentil 
+Spredning (79m)-
+feb22 
+Spredning (79m)-
+mar22 
+Spredning (79m)-
+apr22 
+Spredning (79m)-
+mai22 
+1 
+0.2 
+0.3 
+0.2 
+0.2 
+10 
+0.9 
+0.9 
+0.6 
+0.6 
+20 
+1.3 
+1.3 
+0.9 
+0.9 
+30 
+1.6 
+1.7 
+1.1 
+1.2 
+40 
+2.0 
+2.1 
+1.3 
+1.4 
+50 
+2.3 
+2.6 
+1.6 
+1.7 
+60 
+2.9 
+3.2 
+1.8 
+1.9 
+70 
+3.6 
+4.1 
+2.2 
+2.3 
+80 
+4.7 
+5.7 
+2.5 
+2.7 
+90 
+7.1 
+8.5 
+3.1 
+3.7 
+95 
+9.3 
+10.8 
+3.7 
+4.8 
+99 
+13.8 
+15.6 
+4.9 
+11.9 
+ 
+ 
+17.6 Prosentfordeling av strømhastighet 
+ 
+Verdiene i tabellen indikerer prosent av data som er lik eller høyere enn strømhastighet (cm/s) oppgitt 
+i kolonnen til venstre. 
+ 
+Tabell 17.6.1. Prosent (%) av data for spredningsdyp (79m) som er lik eller høyere enn oppgitt 
+hastighet. 
+Strømhastighet 
+(cm/s) 
+Spredning (79m)-
+feb22 
+Spredning (79m)-
+mar22 
+Spredning (79m)-
+apr22 
+Spredning (79m)-
+mai22 
+1 
+87.4 
+87.5 
+75.0 
+77.6 
+3 
+38.0 
+43.0 
+11.6 
+15.9 
+5 
+18.6 
+24.1 
+0.9 
+4.3 
+10 
+3.9 
+6.7 
+ 
+1.9 
+20 
+0.1 
+0.2 
+ 
+ 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 86 av 90 
+18. Vedlegg - Resultater per måned på bunndyp (133m) 
+ 
+18.1 Sammendrag av strømdata 
+ 
+Resultater per måledyp over hele måleperioden er sammenfattet i Tabell 4.1.1. Resultater per måned 
+for bunndyp (133m) er sammenfattet i Tabell 18.1.1. Verdiene er klassifisert (fargelagt) etter: 
+«Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er forklart i «Vedlegg 
+– Parametere og beskrivelse». 
+ 
+Tabell 18.1.1. Sammendrag av strømdata fra bunndyp (133m) per måned. 
+Måledyp 
+Bunn (133m)-
+feb22 
+Bunn (133m)-
+mar22 
+Bunn (133m)-
+apr22 
+Bunn (133m)-
+mai22 
+Maksimum (cm/s) 
+18.3 
+24.9 
+15.1 
+11.0 
+Gjennomsnitt (cm/s) 
+4.2 
+2.8 
+2.2 
+1.9 
+Minimum (cm/s) 
+0.1 
+0.0 
+0.0 
+0.0 
+Signifikant maks (cm/s) 
+8.2 
+5.6 
+3.7 
+3.4 
+Signifikant min (cm/s) 
+1.3 
+0.9 
+0.9 
+0.8 
+Varians (cm/s)² 
+11.9 
+8.5 
+2.2 
+1.8 
+Standardavvik (cm/s) 
+3.4 
+2.9 
+1.5 
+1.3 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+9.5 
+20.6 
+19.3 
+23.5 
+Lengste periode < 1cm/s (min) 
+40 
+90 
+80 
+140 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+50.5 
+72.9 
+79.5 
+84.5 
+Lengste periode < 3cm/s (min) 
+560 
+1400 
+930 
+990 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+91.8 
+96.0 
+99.7 
+99.9 
+Lengste periode < 10cm/s (min) 
+8100 
+16360 
+34390 
+17210 
+% ≥ 30cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+0 
+0 
+0 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+1.4 
+0.2 
+0.3 
+0.3 
+Retning (grader) 
+328 
+11 
+6 
+7 
+Neumann-parameter 
+0.3 
+0.1 
+0.2 
+0.1 
+Gjennomsnittlig vannforflytning 
+(m³/m²/d) 
+3646 
+2398 
+1862 
+1684 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 87 av 90 
+18.2 Strømroser 
+ 
+Strømrosene viser strømhastighet og strømretning under hele måleperioden. Strømroser gir en 
+indikasjon på hovedstrømretning og om tidevannsellipsen er rettlinjet eller sirkulær. 
+ 
+Bunn (133m)-feb22 
+Bunn (133m)-mar22 
+ 
+ 
+Bunn (133m)-apr22 
+Bunn (133m)-mai22 
+ 
+ 
+Figur 18.2.1. Strømroser på bunndyp (79m) i februar, mars, april og mai. 
+ 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 88 av 90 
+18.3 Tidsdiagram – strømhastighet 
+ 
+Strømhastighet på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 18.3.1. Tidsdiagram av strømhastighet på bunndyp (79m) i februar, mars, april og mai. 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 89 av 90 
+18.4 Tidsdiagram – strømhastighet 
+ 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 18.4.1. Tidsdiagram av strømretning på bunndyp (79m) i februar, mars, april og mai. 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Skogsholmen, Vega kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 90 av 90 
+18.5 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt hastighet 
+(cm/s). 
+ 
+Tabell 18.5.1. Persentilfordeling av strømhastighet (cm/s) for bunndyp (133m) per måned. 
+Persentil 
+Bunn (133m)-feb22 
+Bunn (133m)-
+mar22 
+Bunn (133m)-
+apr22 
+Bunn (133m)-
+mai22 
+1 
+0.3 
+0.2 
+0.2 
+0.2 
+10 
+1.0 
+0.7 
+0.7 
+0.6 
+20 
+1.5 
+1.0 
+1.0 
+0.9 
+30 
+2.0 
+1.3 
+1.3 
+1.2 
+40 
+2.4 
+1.5 
+1.6 
+1.4 
+50 
+3.0 
+1.9 
+1.9 
+1.7 
+60 
+3.9 
+2.2 
+2.2 
+1.9 
+70 
+5.0 
+2.8 
+2.5 
+2.3 
+80 
+6.6 
+3.6 
+3.0 
+2.7 
+90 
+9.4 
+5.8 
+3.9 
+3.6 
+95 
+11.6 
+9.0 
+4.7 
+4.5 
+99 
+15.0 
+14.9 
+7.7 
+6.8 
+ 
+ 
+18.6 Prosentfordeling av strømhastighet 
+ 
+Verdiene i tabellen indikerer prosent av data som er lik eller høyere enn strømhastighet (cm/s) oppgitt 
+i kolonnen til venstre. 
+ 
+Tabell 18.6.1. Prosent (%) av data for bunndyp (133m) som er lik eller høyere enn oppgitt hastighet. 
+Strømhastighet 
+(cm/s) 
+Bunn (133m)-feb22 
+Bunn (133m)-
+mar22 
+Bunn (133m)-
+apr22 
+Bunn (133m)-
+mai22 
+1 
+90.5 
+79.4 
+80.7 
+76.5 
+3 
+49.5 
+27.1 
+20.5 
+15.5 
+5 
+30.4 
+12.4 
+4.0 
+3.5 
+10 
+8.2 
+4.0 
+0.3 
+0.1 
+20 
+ 
+0.2

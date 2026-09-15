@@ -1,0 +1,3865 @@
+﻿3695-11-24S VINDVIKA 
+ 
+ 
+ 
+ 
+ 
+                        
+ 
+Vannstrømmåling ved 
+Vindvika, Bodø kommune, 
+oktober – november 2024 
+ 
+Mowi Seawater Norway AS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Etter Norsk Standard NS 9425-1:1999 og NS 9425-2:2003 
+   AQUA KOMPETANSE AS 
+ 
+ 
+2024 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+1 
+ 
+Rapportens tittel: 
+Vannstrømmåling ved Vindvika, Bodø kommune, oktober – november 2024 
+Måleperiode: 
+02.10.–11.11.2024 
+Rapportdato: 15.11.2024 
+Rapportnummer: 3695-11-24S 
+Antall sider uten vedlegg: 22 
+Antall sider totalt: 39 
+Oppdragsgiver: 
+Mowi Seawater Norway AS 
+Kontaktperson: 
+Maren Strand 
+Prosjektleder: 
+Bjørnar H. Røsvik 
+Lokalitet: Vindvika 
+Kommune: Bodø 
+Fylke: Nordland 
+Instrumenttype: 
+Aquadopp Profiler 
+Aquadopp Current Meter 
+Dybde målested: 
+ca. 198 meter 
+Koordinater for instrumentrigg: 
+67°32.116 N, 15°09.743 Ø 
+Resultatoversikt 
+5 meter 
+15 meter 
+37 meter 
+83 meter 
+195 meter 
+Gjennomsnittsstrøm (cm/s): 
+10.4 
+6.1 
+7.0 
+5.9 
+2.4 
+Gjennomsnittshastighet (cm/s|°): 
+5.6 | 73 
+1.6 | 235 
+3.6 | 239 
+1.1 | 150 
+0.6 | 25 
+Makshastighet (cm/s|°): 
+61.6 | 84 
+29.8 | 248 
+26.6 | 193 
+27.4 | 92 
+10.2 | 8 
+Minimumshastighet (cm/s): 
+0.1 
+0.1 
+0.0 
+0.0 
+0.0 
+Varians (cm²/s²): 
+73.1 
+16.8 
+20.7 
+12.3 
+1.8 
+Strømintervall 0-1 cm/s (%): 
+1.6 
+3.2 
+2.2 
+2.2 
+14.1 
+10-års strøm, beregnet (cm/s): 
+101.6 
+49.1 
+43.9 
+- 
+- 
+50-års strøm, beregnet (cm/s): 
+113.9 
+55.1 
+49.2 
+- 
+- 
+Hovedstrømretning: 
+øst 
+vest-sørvest 
+vest-sørvest 
+øst 
+nord 
+ 
+Emneord: 
+havstrøm, vannstrøm, overflatestrøm, dimensjoneringsstrøm, 
+vannutskiftning, spredningsstrøm, bunnstrøm, Aquadopp Profiler, 
+Aquadopp Current Meter, doppler 
+ID 2268-3.4 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig: 
+ 
+Hege G. Frøysa 
+Kvalitetssikrer:  
+ 
+Judith Thu Ølberg 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Telefon: 74 28 84 30 
+E-post: post@aqua-kompetanse.no 
+Nettside: www.aqua-kompetanse.no 
+Org.nr.: 982 226 163 
+© 2024 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+2 
+Innhold 
+Innledning .......................................................................................................................................................... 3 
+Beskrivelse av området ................................................................................................................................. 3 
+Materiale og metode ......................................................................................................................................... 4 
+Instrument og oppsett ................................................................................................................................... 4 
+Måledyp ......................................................................................................................................................... 5 
+Målepunkt ..................................................................................................................................................... 5 
+Kvalitetssikring av rådata ............................................................................................................................... 6 
+Instrumenthelning (tilt) og trykk ................................................................................................................... 7 
+Meteorologi ................................................................................................................................................... 8 
+Tidevann ........................................................................................................................................................ 8 
+Kort vurdering .................................................................................................................................................. 10 
+Resultater ........................................................................................................................................................ 10 
+Tidsserie - vind og vannstrøm (hastighet og retning) .................................................................................. 12 
+Strømrose - gjennomsnittlig strømhastighet, maksimal strømhastighet og vanntransport ....................... 14 
+Spredningsdiagram - strømretning og -hastighet ....................................................................................... 16 
+Meteorologi fra Helligvær II værstasjon ...................................................................................................... 17 
+Tidevann og vannstrøm ............................................................................................................................... 18 
+Temperatur og trykk i instrumentdypet ...................................................................................................... 21 
+Referanser ....................................................................................................................................................... 22 
+Vedlegg A - Riggtegning ................................................................................................................................... 23 
+Vedlegg B - Tidevannsanalyse ......................................................................................................................... 24 
+Vedlegg C - Supplerende tabeller .................................................................................................................... 26 
+Vedlegg D - Supplerende figurer ..................................................................................................................... 32 
+Vektor - progressiv vektor ........................................................................................................................... 32 
+Histogram - strømhastighet ......................................................................................................................... 34 
+Histogram - strømretning ............................................................................................................................ 37 
+ 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+3 
+Innledning 
+Aqua Kompetanse AS har på oppdrag fra Mowi Seawater Norway AS utført strømundersøkelser ved Vindvika 
+i Bodø kommune (Figur 1 og 2). Aqua Kompetanse har stått for instrumentutsett, kvalitetssikring av data 
+samt rapportering. Rapporten presenterer en oppsummering av resultatene fra strømmålingene, og er bygd 
+på forutsetningen om at leseren studerer følgende data og figurer nøye. Strømmålingene ble foretatt i 
+perioden 02.10.–11.11.2024. Rådata finnes oppbevart hos Aqua Kompetanse AS, og er tilgjengelig ved 
+forespørsel. 
+Beskrivelse av området 
+Vindvika er lokalisert i krysningspunktet mellom Nevelsfjorden og den ytre delen av fjorden Sørfolda (Figur 
+1). Nåværende anleggsområde ligger på innsiden av Vindvikodden, mens ny anleggsramme er planlagt noe 
+lenger nordvest. Anleggsområdet ligger over en undersjøisk buktning og batymetrien i måleposisjonen er 
+orientert nord-sør (Figur 2). Like sør for anlegget er topografien vest-østlig orientert.  
+ 
+Figur 1: Oversiktskart over deler av Bodø kommune, samt deler av Sørfold kommune. Innrammet kartutsnitt i rødt viser 
+undersøkelsesområdet ved Vindvika. Målestokk vises øverst i figuren. Kartkilde: Olex. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+4 
+ 
+Figur 2: Undersøkelsesområdet ved Vindvika. Posisjon for plassering av strømrigg er markert med grønt kryss. Målestokk 
+vises øverst i figuren. Kartkilde: Olex. 
+Materiale og metode 
+Strømmålingene ved Vindvika er gjennomført i henhold til NS 9425-1:1999 (Standard Norge, 1999) og NS 
+9425-2:2003 (Standard Norge, 2003), og kan inngå i lokalitetsrapporter utarbeidet etter NS 9415:2021 
+(Standard Norge, 2021).  
+Instrument og oppsett 
+For å måle vannstrøm er det benyttet fire akustiske strømmålere produsert av Nortek AS (Tabell 1); én 400 
+kHz profilerende måler (EM801PR) og tre 2000 kHz punktmålere (AQK265CM, AQK266CM, AQK270CM). 
+Riggtegning er vist i Vedlegg A. Akustiske strømmålere bruker dopplerskift for å beregne strømhastighet og 
+-retning, og refereres ofte til som dopplermålere. Se oversikt over måleprinsipp og dopplereffekten i 
+Nortekgroup (u.å.). I oppsettet av instrumentene er det antatt at saltholdigheten i vannet er 35 ppt. 
+Instrumentet benytter denne verdien, sammen med temperaturmålinger i instrumentdypet, til å beregne 
+lydhastigheten og dopplerskiftet. I tillegg til vannstrøm og temperatur registrerer instrumentene trykk og 
+instrumenthelning (Figur 3 og 13).  
+Alle parameterne er målt gjennom en midlingsperiode spesifisert i Tabell 1, og presenteres som 
+gjennomsnittet i midlingsperioden. Det starter en ny midlingsperiode hvert 10. minutt gjennom hele 
+måleperioden og tidsangivelse er tidspunktet for når midlingsperioden starter. Målefrekvensen for 
+temperatur, trykk og tilt gjennom midlingsperioden er 1 Hz, mens målefrekvensen for vannstrøm er angitt i 
+Tabell 1. Den profilerende måleren har et instrumentoppsett på 25 celler à 2 meter som gir en teoretisk 
+rekkevidde på 50 meter. Punktmålerne måler i monteringsdypet. Alle tidspunkt i rapporten er angitt i UTC+0 
+(Coordinated Universal Time). Målingene er korrigert for en østlig magnetisk misvisning på 8° (Kartverket, 
+2021). Videre er instrumentene satt opp med koordinatsystemet ENU (East North Up), hvor positiv x-retning 
+er mot øst, positiv y-retning er mot nord, og positiv z-retning er opp. 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+5 
+Tabell 1: Informasjon om instrumentoppsett og måletidspunkt. 
+Parametere 
+EM801PR 
+AQK265CM 
+AQK266CM 
+AQK270CM 
+Målertype 
+Aquadopp 
+Profiler 
+Aquadopp 
+Current Meter 
+Aquadopp 
+Current Meter 
+Aquadopp 
+Current Meter 
+Hode-ID / Kort-ID 
+AQP3892 / AQD 
+5608 
+AQD11413 / 
+AQD16663 
+AQD13155 / 
+AQD16652 
+AQD11637 / 
+AQD17296 
+Akustisk frekvens (kHz) 
+400 
+2000 
+2000 
+2000 
+Måleretning 
+Opp 
+Opp 
+Opp 
+Opp 
+Måleintervall (s) 
+600 
+600 
+600 
+600 
+Midlingsperiode (s) 
+95 
+90 
+90 
+90 
+Målebelastning (%) 
+100 
+35 
+35 
+35 
+Målefrekvens for vannstrøm (Hz) 
+3 
+8 
+8 
+8 
+Antall celler (#) 
+25 
+- 
+- 
+- 
+Cellestørrelse (m) 
+2 
+- 
+- 
+- 
+Blindsone (m) 
+0.97 
+0.34 
+0.34 
+0.34 
+Instrumentdyp (m)* 
+26.0 
+36.8 
+83.3 
+195.3 
+Tidsrom for gyldige registreringer 
+02.10.24 12:10 – 
+11.11.24 12:40 
+02.10.24 11:52 – 
+11.11.24 12:42 
+02.10.24 11:54 – 
+11.11.24 12:44 
+02.10.24 11:46 – 
+11.11.24 12:36 
+Lengde måleperiode (dager) 
+40.0 
+40.0 
+40.0 
+40.0 
+*Det gjennomsnittlige instrumentdypet gjennom perioden. 
+Måledyp 
+Ved bestemmelse av måledyp er det tatt utgangspunkt i føringene gjeldende ved tidspunktet for utsett av 
+riggen. I denne måleserien er gjeldende føringer for Nordland at merddypet er definert som midt mellom 
+bunntelne og notspiss, når avstanden mellom disse er over 5 meter. Ved Vindvika er dypet til bunntelna og 
+notspissen henholdsvis 20 og 35 meter, og i denne undersøkelsen er det tatt utgangspunkt i et merddyp på 
+27.5 meter. Dybden på målestedet er omtrent 198 meter. 
+I henhold til Veileder til forundersøkelse (Fiskeridirektoratet, u.å., kap. 8) skal vannutskiftningsstrøm måles i 
+halve dypet av planlagt merddyp, altså 14 meters dyp i dette tilfellet. I henhold til NS 9415:2021 skal 
+overflatestrømmen måles på 5 meters dyp, med et akseptabelt avvik på ± 2 meter, og 
+dimensjoneringsstrømmen skal måles på 15 meters dyp, med et akseptabelt avvik på ± 3 meter. I denne 
+rapporten presenteres overflatestrøm på 5 meters dyp og dimensjoneringsstrøm på 15 meters dyp, som 
+anses å representere vannutskiftningsstrømmen tilstrekkelig. Det er i tillegg målt strøm på 37 meters dyp, 
+for riktig dimensjonering av anlegget. 
+I henhold til Veileder til forundersøkelse (Fiskeridirektoratet, u.å., kap. 8) skal spredningsstrømmen måles 
+midt mellom merdbunnen og sjøbunnen (maksimalt 50 meter under merdbunnen), som i dette tilfellet vil 
+være på 77.5 meters dyp. Spredningsstrømmen er hentet fra 83 meters dyp. Bunnstrømmen skal måles 1 
+meter over sjøbunnen, og er i dette tilfellet hentet fra 195 meters dyp. 
+Målepunkt 
+I henhold til NS 9415:2021 skal strømmålingene på 5 og 15 meters dyp utføres i den posisjonen som vurderes 
+til å fange opp de høyeste strømhastighetene som opptrer i området der anlegget skal ligge. Posisjonen skal 
+i tillegg være representativ for hele området der lastpåkjente deler av anlegget kan ligge. Strømmålingene i 
+sprednings- og bunndypet er utført for å undersøke partikkelspredningen fra driften på anlegget, og dermed 
+å vurdere lokalitetens bæreevne. Måleposisjonen bør derfor være representativ for å kunne estimere dette. 
+I bestemmelsen av måleposisjon vurderes tidligere strømmålinger fra lokaliteten, modellert strømdata fra 
+området, topografi, batymetri, samt driftstilstand på anlegget i måleperioden. I planlegging av måleposisjon 
+og navigering ved utsett av strømrigg er kartverktøyet Olex benyttet.  
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+6 
+Måleposisjonen er plassert midt i planlagt anleggsramme, mellom fortøyninger fra det opprinnelige anlegget 
+for å unngå forstyrrelser. Basert på tilgjengelig data og informasjon fra lokaliteten vurderes valgt 
+måleposisjon til å være representativ for strømforholdene ved Vindvika. Plasseringen antas å fange opp de 
+høyeste vannstrømhastighetene som kan opptre på 5 og 15 meters dyp, samt å være tilstrekkelig 
+representativ for partikkelspredningen fra driften på anlegget. 
+Kvalitetssikring av rådata 
+Det er foretatt en manuell og automatisk kvalitetskontroll av datasettene med programvarene SeaReport og 
+Storm. Referansenivået som er benyttet i prosessering av strømdata fra den profilerende strømmåleren er 
+havoverflaten. Det vil si at rapporteringsdypet fra 5 og 15 meters dyp er relativt til havoverflaten, og 
+programvaren henter dermed til enhver tid ut data fra valgt dyp. 
+For profilerende instrumenter er data først korrigert for instrumenthelning og sidelober i programvaren 
+Storm før videre behandling i SeaReport. Instrumenthelning, signalstyrke, generell troverdighet til målingene, 
+samt raske vannstrømhastighet- og retningsforandringer fra datapunkt til datapunkt er vurdert i 
+kvalitetssikringen. Det er fjernet en situasjon med korrupt data fra 15 meters dyp, se Tabell 2. De 
+kvalitetssikrede datasettene fra Vindvika vurderes til å være troverdige, og måleperiodens maksimum på 5 
+og 15 meters dyp er tilstrekkelig kartlagt.  
+Instrumentriggen ved Vindvika har tidvis noe økt instrumenthelning (Figur 3), i forbindelse med økte 
+strømhastigheter. Instrumenthelningen er aldri over 30 grader, som er den tekniske begrensingen til 
+instrumentene. 
+Instrumentet 
+har 
+registrert 
+lite 
+vertikal 
+bevegelse 
+utover 
+de 
+forventede 
+tidevannsvariasjonene. 
+Tabell 2: Data manuelt fjernet i vannstrømmålingen ved Vindvika. 
+Dybde (m) 
+Start 
+Slutt 
+Kommentarer 
+15 
+03.10.2024 14:00 
+03.10.2024 14:29 
+Forstyrrelse i beam 1. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+7 
+Instrumenthelning (tilt) og trykk 
+ 
+Figur 3: Instrumentenes helning (svart, °) registrert i de ulike instrumentdypene ved Vindvika i perioden 02.10.–
+11.11.2024. Den faktiske dybden kan leses fra trykkdata (grå, dBar) i bakgrunnen.  Instrumentnummer henviser til Tabell 
+1. 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+8 
+Meteorologi 
+For å vurdere den meteorologiske påvirkningen på registrert vannstrøm, er meteorologisk data fra 
+nærliggende målestasjoner benyttet. Meteorologiske data er hentet fra Norsk Klimaservicesenter, et 
+samarbeid mellom Meteorologisk institutt, Norges vassdrags- og energidirektorat, NORCE og 
+Bjerknessenteret (Norsk Klimaservicesenter, 2024). Nettsiden samler meteorologisk data fra hele landet og 
+flere stasjoner langs norskekysten. De ulike stasjonene er utstyrt med ulike sensorer, men i hovedsak 
+registreres vindhastighet og -retning, temperatur og trykk ved de fleste stasjoner. For Vindvika er 
+meteorologisk data hentet fra den meteorologiske stasjonen Helligvær II (24 moh.), lokalisert omtrent 56 km 
+sørvest i luftlinje for Vindvika (Figur 4). Stasjonen Helligvær II vurderes som representativ for de storskala 
+meteorologiske forholdene ved Vindvika, men lokale forskjeller i vindforholdene forventes. Data er hentet 
+ut med en målefrekvens på 10 minutter og oppgis i UTC+0. I Figur 5 og 6 presenteres middelvind (middelverdi 
+av vindhastigheten de siste 10 minuttene før observasjonstiden) og vindretning (middelverdi av vindretning 
+siste 10 minutter) sammen med strømdata. I Figur 10 presenteres vinddata gruppert etter styrke og retning. 
+ 
+Figur 4: Topografisk oversiktskart over deler av Bodø kommune, samt nærliggende kommuner. Posisjon for den 
+meteorologiske stasjonen Helligvær II er markert med gul sirkel og ligger 56 km i luftlinje unna lokaliteten Vindvika, som 
+er markert med rød sirkel. Målestokk vises nederst i figuren. Kartkilde: Kartverket, Norgeskart (2024). 
+Tidevann 
+I denne rapporten er tidevannsanalysen utført med programvaren UTide som er implementert i MATLAB 
+(Codiga, 2011). Metoden bryter opp den målte vannstrømmen i retning øst-vest (u) og nord-sør (v) og henter 
+ut tidevannskomponentene (utide, vtide) ved hjelp av en harmonisk analyse. Metoden for å hente ut 
+tidevannskomponentene er beskrevet nærmere i Vedlegg B. Reststrømmen (urest, vrest) er definert som 
+differansen mellom den målte strømmen og tidevannsstrømmen (u – utide, v – vtide). Restrømmen er summen 
+av alle andre krefter enn tidevann, for eksempel vannstrøm som oppstår på grunn av endringer i vind, trykk 
+og tetthet. 
+Det er definert to ulike forhold som representerer bidraget av tidevann på den målte vannstrømmen for 
+hvert dyp, variansforhold og hastighetsforhold (Tabell 4). Variansforholdet sammenligner variansen av 
+tidevannsstrømmen med variansen av den målte vannstrømmen (Formel B.1). Tilsvarende angir 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+9 
+hastighetsforholdet hva som er absolutt bidrag fra tidevannsstrøm og reststrøm i prosent (Formel B.2). Begge 
+forholdstallene er statistiske verdier beregnet for hele måleserien, og vil variere etter for eksempel hvor 
+mange stormer som inntreffer i måleperioden. 
+Det er også beregnet variansellipser for den målte vannstrømmen og den beregnende tidevannsstrømmen 
+(Figur 11). Variansellipsens store halvakse er vannstrømmen orientert langs den dominerende 
+strømretningen som er oppgitt i grader (°). Variansellipsens lille halvakse er strømmen som er orientert 
+vinkelrett på den dominerende strømretningen. Verdien på halvaksene bestemmer formen til variansellipsen. 
+For eksempel vil ellipsen i et sund der strømmen følger bunntopografien være ganske flat fordi det er en 
+tydelig dominerende strømretning, mens ute i åpnere havområder vil denne ellipsen være rundere fordi det 
+er mer varierende strømretning. 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+10 
+Kort vurdering 
+Vannstrømmen ved Vindvika styres av fjordens utforming, samt batymetrien i måleområdet. På 5 og 83 
+meters dyp er størst vanntransport rettet mot øst, mens det på 15 og 37 meters dyp registreres mest 
+vanntransport rettet mot vest-sørvest. Bunnstrømmen på 195 meters dyp har størst vanntransport rettet 
+mot nord. De høyeste hastighetene på 5 meters dyp sammenfaller med økte vindhastigheter. 
+Resultater 
+I denne måleserien fra Vindvika er gjennomsnittlig vannstrøm 10.4, 6.1, 7.0, 5.9 og 2.4 cm/s på 5, 15, 37, 83 
+og 195 meters dyp, og maksimalhastigheten er henholdsvis 61.6, 29.8, 26.6, 27.4 og 10.2 cm/s (Tabell 3). Det 
+er registrert lite strømstille i alle måledyp, med unntak av bunnstrømmen på 195 meter hvor 14 % av 
+målingene havner innenfor strømintervall 0-1 cm/s. 
+Vannstrømmen ved Vindvika er styrt av batymetrien og topografien i måleområdet. På 5 meters dyp er størst 
+vanntransport rettet mot øst, og vannstrømmen er relativt ensrettet. På 15 og 37 meters dyp er størst 
+vanntransport rettet mot vest-sørvest, mens hovedvanntransporten på 83 meters dyp har dreid tilbake til 
+øst. Bunnstrømmen på 195 meters dyp følger batymetrien i målepunktet og størst vanntransport er rettet 
+mot nord. Vannutskiftningen i hovedstrømsretningen er mye høyere på 5 meters dyp sammenlignet med de 
+øvrige dypene, noe som sees i Figur 7 og 8. 
+Den høyeste hastigheten på 5 meters dyp registreres 29.10.2024 til 61.6 cm/s rettet mot øst (84°). Samtidig 
+registreres de høyeste vindhastighetene gjennom måleperioden på Helligvær II, med vind opp mot 27 m/s 
+fra sørvest/vestlig sektor (Figur 5). Alle de høyeste strømhastighetene på 5 meters dyp er registrert mot øst 
+(Figur 7), og er sammenfallende med økte vindhastigheter fra omkring sørvest. 
+På 15 meters dyp registreres det 3 strømtopper på 29 cm/s; 28.10.2024, 29.10.2024 og 05.11.2024 (Figur 5). 
+Retningen på disse toppene er rettet mot sørvest og sørøst (Figur 7). De økte hastighetene på 15 meters dyp 
+henger i hovedsak ikke sammen med økte hastigheter på 5 meters dyp, og skyldes dermed trolig noe annet 
+enn direkte vindpåvirkning.  
+Vannstrømmen ved Vindvika er ikke utpreget tidevannsdrevet, og under 20 % av variansen i vannstrømmen 
+på alle måledyp skyldes tidevannet (Tabell 4). 
+Nedenfor presenteres tabeller og figurer med statistikk og resultater. 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+11 
+Tabell 3: Statistikk og nøkkeltall fra utført strømmåling. Merk at i tabellen under er begrepet «strøm» brukt om skalare 
+størrelser uten retning (absoluttfart) mens begrepet «hastighet» er brukt om størrelser som også har en retning 
+(vektorer). 
+Parametere 
+5 meter 
+15 meter 
+37 meter 
+83 meter 
+195 meter 
+Gyldige målinger/totalt (#) 
+5764/5764 
+5761/5764 
+5766/5766 
+5766/5766 
+5766/5766 
+Andel gyldige målinger (%) 
+100 
+99.9 
+100 
+100 
+100 
+Gjennomsnittsstrøm (cm/s) 
+10.4 
+6.1 
+7.0 
+5.9 
+2.4 
+Gjennomsnittshastighet (cm/s | °) 
+5.6 | 73 
+1.6 | 235 
+3.6 | 239 
+1.1 | 150 
+0.6 | 25 
+Makshastighet (cm/s | °) 
+61.6 | 84 
+29.8 | 248 
+26.6 | 193 
+27.4 | 92 
+10.2 | 8 
+Minimumstrøm (cm/s) 
+0.1 
+0.1 
+0.0 
+0.0 
+0.0 
+Signifikant maksstrøm (cm/s) 
+19.8 
+10.7 
+12.2 
+9.8 
+3.9 
+Signifikant minimumstrøm (cm/s) 
+3.4 
+2.4 
+2.8 
+2.6 
+1.0 
+Strømintervall 0-1 cm/s (%) 
+1.6 
+3.2 
+2.2 
+2.2 
+14.1 
+Strømintervall 1-3 cm/s (%) 
+10.6 
+19.3 
+15.7 
+17.3 
+57.9 
+Neumann-parameter 
+0.54 
+0.26 
+0.51 
+0.18 
+0.25 
+Standardavvik (cm/s) 
+8.6 
+4.1 
+4.6 
+3.5 
+1.3 
+Varians (cm²/s²) 
+73.1 
+16.8 
+20.7 
+12.3 
+1.8 
+10 års strøm, beregnet (cm/s) 
+101.6 
+49.1 
+43.9 
+- 
+- 
+50 års strøm, beregnet (cm/s) 
+113.9 
+55.1 
+49.2 
+- 
+- 
+De 4 hyppigst forekommende 
+strømretningsgruppene (°) 
+75 - 90 
+60 - 75 
+90 - 105 
+45 - 60 
+240 - 255 
+255 - 270 
+225 - 240 
+270 - 285 
+240 - 255 
+225 - 240 
+255 - 270 
+210 - 225 
+90 - 105 
+105 - 120 
+120 - 135 
+270 - 285 
+0 - 15 
+345 - 360 
+330 - 345 
+15 - 30 
+De 4 hyppigst forekommende 
+strømgruppene (cm/s) 
+5 - 7 
+3 - 5 
+7 - 9 
+1 - 3 
+3 - 5 
+5 - 7 
+1 - 3 
+7 - 9 
+3 - 5 
+5 - 7 
+1 - 3 
+7 - 9 
+3 - 5 
+5 - 7 
+1 - 3 
+7 - 9 
+1 - 3 
+3 - 5 
+0 - 1 
+5 - 7 
+Mest vannutskiftning / retning / 
+15° sektor 
+3014 m³/m² 
+per dag ved 
+75 - 90 
+759 m³/m² 
+per dag ved 
+240 - 255 
+1502 m³/m² 
+per dag ved 
+240 - 255 
+579 m³/m² 
+per dag ved 
+90 - 105 
+206 m³/m² 
+per dag ved 
+0 - 15 
+Minst vannutskiftning / retning / 
+15° sektor 
+50 m³/m² per 
+dag ved  
+165 - 180 
+58 m³/m² per 
+dag ved  
+0 - 15 
+34 m³/m² per 
+dag ved  
+0 - 15 
+74 m³/m² per 
+dag ved  
+15 - 30 
+24 m³/m² 
+per dag ved  
+225 - 240 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+12 
+Tidsserie - vind og vannstrøm (hastighet og retning) 
+ 
+Figur 5: Vindstyrke (m/s) og vindretning (°) ved den meteorologiske stasjonen Helligvær II (a) i perioden 25.09.–
+11.11.2024. Vinddata er timesmidlet og glattet over 6 timer (svart) med 10 min middelvind i bakgrunnen (grå). Panelene 
+under viser timesmidlet og glattet vannstrømhastighet (svart) og tilhørende retning (gul) samt målt vannstrømhastighet 
+(grå) på 5 (b), 15 (c) og 37 (d) meters dyp ved Vindvika i perioden 02.10.–11.11.2024. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+13 
+ 
+Figur 6: Vindstyrke (m/s) og vindretning (°) ved den meteorologiske stasjonen Helligvær II (a) i perioden 25.09.–
+11.11.2024. Vinddata er timesmidlet og glattet over 6 timer (svart) med 10 min middelvind i bakgrunnen (grå). Panelene 
+under viser timesmidlet og glattet vannstrømhastighet (svart) og tilhørende retning (gul) samt målt vannstrømhastighet 
+(grå) på 83 (b) og 195 (c) meters dyp ved Vindvika i perioden 02.10.–11.11.2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+14 
+Strømrose - gjennomsnittlig strømhastighet, maksimal strømhastighet og vanntransport 
+ 
+ 
+Figur 7: Gjennomsnittlig og maksimal vannstrømhastighet (cm/s), samt vanntransport (m³/m²/dag) for hver 15° sektor 
+på 5 (a), 15 (b) og 37 (c) meters dyp ved Vindvika i perioden 02.10.–11.11.2024. Data er korrigert for magnetisk 
+misvisning på 8°. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+15 
+ 
+Figur 8: Gjennomsnittlig og maksimal vannstrømhastighet (cm/s), samt vanntransport (m³/m²/dag) for hver 15° sektor 
+på 83 (a) og 195 (b) meters dyp ved Vindvika i perioden 02.10.–11.11.2024. Data er korrigert for magnetisk misvisning 
+på 8°. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+16 
+Spredningsdiagram - strømretning og -hastighet 
+ 
+Figur 9: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot strømretning (°) på 5 (a), 15 (b), 37 (c), 83 
+(d) og 195 (e) meters dyp ved Vindvika i perioden 02.10.–11.11.2024. Data er korrigert for magnetisk misvisning på 8°. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+17 
+Meteorologi fra Helligvær II værstasjon 
+ 
+Figur 10: Meteorologidata hentet fra Helligvær II i perioden 25.09.–11.11.2024. Den registrerte vinden er gruppert 
+retning (hvor det blåser fra) og styrke i henhold til Beauforts vindskala. Radiusen forteller hvor stor andel av målingene 
+som tilhører den enkelte gruppen. 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+18 
+Tidevann og vannstrøm 
+Tabell 4: Variansforhold og hastighetsforhold på 5, 15, 37, 83 og 195 meters dyp ved Vindvika i perioden 02.10.–
+11.11.2024.  
+Forhold (%) 
+5 meter 
+15 meter 
+37 meter 
+83 meter 
+195 meter 
+Varians 
+12 
+12 
+17 
+18 
+6 
+Hastighet 
+32 
+31 
+33 
+34 
+22 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+19 
+ 
+Figur 11: Variansellipse for målt vannstrøm (cm/s, svart) og beregnet tidevannsstrøm (cm/s, rød) på 5 (a), 15 (b), 37 (c), 
+83 (d) og 195 (e) meters dyp ved Vindvika i perioden 02.10.–11.11.2024. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+20 
+ 
+Figur 12: Beregnet tidevannsstrøm (cm/s, rød) og målt vannstrøm glattet over 24 timer (cm/s, svart) på 5 (a), 15 (b), 37 
+(c), 83 (d) og 195 (e) meters dyp ved Vindvika for perioden 02.10.–11.11.2024 (UTC+0).  
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+21 
+Temperatur og trykk i instrumentdypet 
+ 
+Figur 13: Temperatur (svart, °C) registrert i de ulike instrumentdypene ved Vindvika i perioden 02.10.–11.11.2024. Den 
+faktiske dybden kan leses fra trykkdata (grå, dBar) i bakgrunnen. Instrumentnummer henviser til Tabell 1. 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+22 
+Referanser 
+Annunziato, A. og Probst P. (2016). Continious Harmonic Analysis of Sea Level Measurements: Description of 
+a new method to determine sea level measurement tidal component. Luxembourg: Publications 
+Office of the European Union, 29pp. (EUR28308 EN). https://doi.org/10.2788/4295 
+Codiga, D.L. (2011). Unified Tidal Analysis and Prediction Using the UTide Matlab Functions. Technical 
+Report 2011-01. Graduate School of Oceanography, University of Rhode Island, Narragansett, RI. 
+59pp. https://www.po.gso.uri.edu/~codiga/utide/utide.htm 
+Fiskeridirektoratet. (u.å.). Veileder til forundersøkelse. Hentet 24. juni 2024 fra 
+https://www.fiskeridir.no/Akvakultur/Dokumenter/Veiledere/veileder-til-
+forundersokelse#8.strommalinger 
+Gjevik, B.. (2009). Flo og fjære langs kysten av Norge og Svalbard. Farleia.  
+Kantha, L. H., Stewart, J. S., Desai, S. D. (1998). Long-period lunar fortnightly and monthly ocean tides . 
+Journal of Geophysical Research: Oceans. https://doi.org/10.2788/4295 
+Kartverket. (2021, 19. juli). Magnetisk misvisning. Hentet 6. november 2024 fra 
+https://www.kartverket.no/til-lands/kart/turkart/magnetisk-misvisning 
+Kartverket, Norgeskart. (2024). Norgeskart. Hentet 6. november 2024 fra https://www.norgeskart.no 
+Norsk klimaservicesenter. (2024). Seklima. Oberservasjoner og værstatistikk. Hentet 6. november 2024 fra 
+https://seklima.met.no/ 
+Nortekgroup. (u.å.). Understanding ADCPs: a guide to measuring currents, waves & turbulence with 
+acoustic sensors. Hentet 6. november 2024 fra https://www.nortekgroup.com/knowledge-
+center/wiki/guide-to-understanding-adcps 
+Nortekgroup. (u.å.). Aquadopp Profiler 400 kHz. Hentet 6. november 2023 fra 
+https://www.nortekgroup.com/products/aquadopp-profiler-400-khz/pdf 
+Pawlowicz, R., Beardsley, B. og Lentz, S. (2002). Classical tidal harmonic analysis including error estimates in 
+MATLAB using T_TIDE. Computers & Geosciences 28.8: 929-937.  
+Standard Norge. (1999). Oseanografi - Del 1: Strømmålinger i faste punkter. (NS 9425:1999). 
+https://online.standard.no/ns-9425-1-1999 
+Standard Norge. (2021). Flytende akvakulturanlegg - Lokalitetsundersøkelse, prosjektering, utførelse og 
+bruk. (NS 9415:2021). https://online.standard.no/ns-9415-2021 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+23 
+Vedlegg A - Riggtegning 
+ 
+ 
+ 
+Overflate (0 meter): toppblåse 
+ 
+ 
+ 
+ 
+ 
+Ca. 10 meter over instrumentet: 3 x oppdriftskule 
+ 
+Ca. 26 meters dyp: Aquadopp Profiler EM801PR 
+ 
+Ca. 5 meter over instrumentet: 1 x oppdriftskule 
+ 
+ 
+Ca. 37 meters dyp: Aquadopp Current Meter AQK265CM 
+ 
+Ca. 5 meter over instrumentet: 1 x oppdriftskule 
+ 
+Ca. 83 meters dyp: Aquadopp Current Meter AQK266CM 
+ 
+Ca. 5 meter over instrumentet: 1 x oppdriftskule 
+ 
+Ca. 195 meters dyp: Aquadopp Current Meter AQK270CM 
+ 
+Bunn (ca. 198 meters dyp): anker/lodd  
+Figur A.1: Veiledende riggtegning for instrumentriggen brukt 
+ved Vindvika. Avvik kan forekomme. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+24 
+Vedlegg B - Tidevannsanalyse 
+Det astronomiske tidevannet drives av gravitasjonskreftene mellom jorden, månen og solen. Jordens 
+rotasjon fører til at vi opplever flo og fjære. Langs norskekysten øker forskjellene mellom flo og fjære desto 
+lengre nord og øst en kommer, i Stavanger er den omkring 0.5 m, Bergen 1 m, Rørvik 2 m, Tromsø 3 m og 
+Vardø 4 m (Gjevik, B. 2009). Flo og fjære setter opp tidevannsstrømmer som veksler regelmessig i styrke og 
+retning. 
+I denne rapporten er tidevannsanalysen utført med programvaren UTide som er implementert i MATLAB 
+(Codiga, 2011). UTide baserer seg på harmonisk analyse som tar utgangspunkt i det målte strømsignalet. 
+Metoden bryter opp den målte vannstrømmen i retning øst-vest (u) og nord-sør (v) og henter ut bidraget fra 
+de 35 mest relevante tidevannskomponentene i tilsvarende retninger (utide, vtide). Tidevannet består av flere 
+hundre komponenter hvorav 45 er astronomiske. De øvrige komponentene oppstår gjerne over grunn og 
+kompleks bunntopografi, og i de fleste områder har de et betydelig mindre bidrag enn de astronomiske 
+(Pawlowicz mfl., 2002). De 35 utvalgte tidevannskomponentene kan være både astronomiske komponenter 
+og komponenter som oppstår over grunn og kompleks bunntopografi (Annunziato og Probst, 2016). 
+Tidevannskomponenter med periode over flere dager, som for eksempel sesongvariasjon, er utelatt fra 
+beregningen, da vi ikke har lang nok måleperiode til at de lar seg beregne med programvaren UTide (Kantha 
+mfl., 1998). 
+De dominerende tidevannskomponentene fra tidevannsanalysen er oppgitt i Tabell B.1 med energiandel (%) 
+og bidrag til tidevannsellipsens store halvakse (cm/s). Energiandelen er beregnet for hver av de 35 
+tidevannkomponentene, og summeres til 100 %. Tidevannsellipsens store halvakse er vannstrømmen til hver 
+enkelt tidevannskomponent orientert langs den dominerende strømretningen. 
+Det er definert to ulike forhold som representerer bidraget av tidevann på den målte vannstrømmen for 
+hvert dyp, variansforhold og hastighetsforhold (Tabell 4). Variansforholdet sammenligner variansen av 
+tidevannsstrømmen med variansen av den målte vannstrømmen (Formel B.1). Dette forholdet angir hvor 
+mye av variabiliteten som skyldes tidevannsstrømmen i prosent. Dersom variansforholdet er 0 % utgjør 
+tidevannsstrømmen ingen variabilitet, dersom det er 50 % utgjør tidevannsstrømmen halvparten av 
+variabiliteten og dersom det er 100 % utgjør tidevannsstrømmen all variabilitet av den målte vannstrømmen. 
+Formel B.1: 
+ 
+Hastighetsforholdet (Formel B.2) er et mål som sammenligner hastigheten på tidevannet (over brøkstreken) 
+med summen av hastigheten på tidevannet og reststrømmen (under brøkstreken). Hastighetsforholdet er 
+beregnet for hvert målepunkt, og deretter er det tatt et gjennomsnitt over hele måleperioden med n antall 
+målinger. Dette forholdet angir hva som er absolutt bidrag fra tidevannsstrøm og reststrøm i prosent. 
+Hastighetsforholdet vil variere mellom 0 % og 100 %, der 50 % betyr at hastigheten på tidevannet og 
+reststrømmen er like store. Dersom forholdet er over 50 % er hastigheten på tidevannet størst og dersom 
+forholdet er under 50 % er hastigheten på reststrømmen størst. 
+Formel B.2 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+25 
+Det presenteres to ulike forholdstall fordi variansforholdet kan gi inntrykk av at tidevannet utgjør en veldig 
+stor eller veldig liten del av vannstrømmen, mens hastighetsforholdet ofte presenterer et mer balansert 
+forhold mellom tidevannsstrøm og reststrøm. Begge forholdstallene er statistiske verdier beregnet for hele 
+måleserien, og vil variere etter for eksempel hvor mange stormer som inntreffer i måleperioden. 
+ 
+Tabell B.1: Dominerende tidevannskomponenter på 5, 15, 37, 83 og 195 meters dyp ved Vindvika i perioden 02.10.–
+11.11.2024 (UTC+0). Komponenter med energiandel under 10 % på alle dyp er ikke inkludert i tabellen. Komponentene 
+er sortert etter energiandel på 5 meters dyp. 
+Tidevanns-
+komponent 
+Periodisitet 
+(timer) 
+5 meter 
+15 meter 
+37 meter 
+83 meter 
+195 meter 
+Andel 
+energi 
+(%) 
+Store 
+halvakse 
+(cm/s) 
+Andel 
+energi 
+(%) 
+Store 
+halvakse 
+(cm/s) 
+Andel 
+energi 
+(%) 
+Store 
+halvakse 
+(cm/s) 
+Andel 
+energi 
+(%) 
+Store 
+halvakse 
+(cm/s) 
+Andel 
+energi 
+(%) 
+Store 
+halvakse 
+(cm/s) 
+2Q1 
+28.01 
+34.15 
+3.15 
+1.67 
+0.47 
+3.10 
+0.77 
+1.74 
+0.51 
+1.75 
+0.09 
+M2 
+12.42 
+10.70 
+1.76 
+41.62 
+2.40 
+48.73 
+3.10 
+41.52 
+2.59 
+1.67 
+0.11 
+S2 
+12.00 
+9.89 
+1.69 
+13.71 
+1.35 
+13.45 
+1.63 
+6.23 
+1.01 
+8.74 
+0.25 
+L2 
+12.19 
+2.75 
+0.90 
+7.40 
+0.98 
+6.06 
+1.02 
+5.42 
+0.99 
+13.96 
+0.33 
+MO3 
+8.39 
+0.96 
+0.53 
+0.25 
+0.18 
+0.82 
+0.39 
+1.06 
+0.43 
+10.04 
+0.28 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+26 
+Vedlegg C - Supplerende tabeller 
+Tabell C.1: Retning med returperiode for vannstrøm på 5 meters dyp. Strømhastighetene er oppgitt i m/s og 
+retningsgrupper som definert i NS 9415:2021. Data er korrigert for magnetisk misvisning på 8°. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.049 
+0.155 
+0.081 
+0.255 
+0.090 
+0.286 
+nordøst 
+0.092 
+0.356 
+0.151 
+0.588 
+0.170 
+0.659 
+øst 
+0.166 
+0.616 
+0.274 
+1.016 
+0.308 
+1.139 
+sørøst 
+0.064 
+0.239 
+0.106 
+0.395 
+0.119 
+0.442 
+sør 
+0.047 
+0.171 
+0.077 
+0.283 
+0.087 
+0.317 
+sørvest 
+0.062 
+0.200 
+0.102 
+0.330 
+0.115 
+0.370 
+vest 
+0.076 
+0.227 
+0.125 
+0.374 
+0.140 
+0.419 
+nordvest 
+0.059 
+0.167 
+0.097 
+0.275 
+0.109 
+0.309 
+Tabell C.2: Retning med returperiode for vannstrøm på 15 meters dyp. Strømhastighetene er oppgitt i m/s og 
+retningsgrupper som definert i NS 9415:2021. Data er korrigert for magnetisk misvisning på 8°. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.039 
+0.115 
+0.064 
+0.190 
+0.072 
+0.213 
+nordøst 
+0.046 
+0.196 
+0.076 
+0.324 
+0.085 
+0.363 
+øst 
+0.068 
+0.215 
+0.112 
+0.355 
+0.125 
+0.398 
+sørøst 
+0.049 
+0.290 
+0.080 
+0.479 
+0.090 
+0.537 
+sør 
+0.040 
+0.143 
+0.067 
+0.236 
+0.075 
+0.265 
+sørvest 
+0.080 
+0.296 
+0.132 
+0.489 
+0.148 
+0.548 
+vest 
+0.070 
+0.298 
+0.116 
+0.491 
+0.130 
+0.551 
+nordvest 
+0.045 
+0.203 
+0.075 
+0.335 
+0.084 
+0.376 
+Tabell C.3: Retning med returperiode for vannstrøm på 37 meters dyp. Strømhastighetene er oppgitt i m/s og 
+retningsgrupper som definert i NS 9415:2021. Data er korrigert for magnetisk misvisning på 8°. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.035 
+0.143 
+0.057 
+0.237 
+0.064 
+0.265 
+nordøst 
+0.053 
+0.164 
+0.087 
+0.271 
+0.098 
+0.303 
+øst 
+0.059 
+0.188 
+0.098 
+0.311 
+0.110 
+0.348 
+sørøst 
+0.042 
+0.118 
+0.069 
+0.195 
+0.078 
+0.219 
+sør 
+0.047 
+0.266 
+0.077 
+0.439 
+0.086 
+0.492 
+sørvest 
+0.087 
+0.246 
+0.144 
+0.406 
+0.161 
+0.455 
+vest 
+0.087 
+0.253 
+0.143 
+0.418 
+0.160 
+0.469 
+nordvest 
+0.042 
+0.130 
+0.069 
+0.215 
+0.077 
+0.241 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+27 
+Tabell C.4: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 5 meters dyp ved 
+Vindvika i perioden 02.10.–11.11.2024. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning på 8°. 
+5 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 
+100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+2 
+18 
+12 
+31 
+22 
+16 
+25 
+14 
+4 
+1 
+0 
+0 
+0 
+0 
+145 
+2.52 
+106.57 
+1.19 
+15-30 
+3 
+15 
+28 
+28 
+29 
+31 
+43 
+12 
+17 
+1 
+0 
+0 
+0 
+0 
+207 
+3.59 
+168.13 
+1.87 
+30-45 
+5 
+7 
+15 
+24 
+25 
+20 
+41 
+29 
+38 
+7 
+0 
+0 
+0 
+0 
+211 
+3.66 
+221.11 
+2.46 
+45-60 
+4 
+8 
+7 
+15 
+25 
+29 
+62 
+58 
+96 
+27 
+7 
+3 
+0 
+0 
+341 
+5.92 
+475.72 
+5.30 
+60-75 
+3 
+10 
+18 
+20 
+32 
+41 
+64 
+67 
+128 
+109 
+69 
+93 
+0 
+0 
+654 
+11.35 
+1420.09 
+15.83 
+75-90 
+1 
+16 
+17 
+28 
+25 
+29 
+69 
+84 
+177 
+154 
+151 
+284 
+16 
+0 
+1051 
+18.23 
+3014.17 
+33.60 
+90-105 
+1 
+15 
+11 
+23 
+16 
+28 
+50 
+67 
+95 
+84 
+45 
+51 
+0 
+0 
+486 
+8.43 
+963.95 
+10.74 
+105-120 
+5 
+5 
+17 
+17 
+13 
+16 
+41 
+29 
+38 
+16 
+9 
+0 
+0 
+0 
+206 
+3.57 
+259.57 
+2.89 
+120-135 
+1 
+12 
+11 
+22 
+13 
+21 
+18 
+9 
+17 
+7 
+1 
+0 
+0 
+0 
+132 
+2.29 
+126.51 
+1.41 
+135-150 
+1 
+7 
+13 
+13 
+13 
+10 
+10 
+10 
+6 
+1 
+0 
+0 
+0 
+0 
+84 
+1.46 
+65.87 
+0.73 
+150-165 
+10 
+9 
+8 
+17 
+9 
+10 
+14 
+4 
+2 
+0 
+0 
+0 
+0 
+0 
+83 
+1.44 
+53.19 
+0.59 
+165-180 
+3 
+6 
+11 
+8 
+15 
+10 
+7 
+5 
+3 
+1 
+0 
+0 
+0 
+0 
+69 
+1.20 
+50.38 
+0.56 
+180-195 
+4 
+4 
+12 
+7 
+9 
+6 
+8 
+4 
+7 
+2 
+0 
+0 
+0 
+0 
+63 
+1.09 
+52.02 
+0.58 
+195-210 
+9 
+6 
+14 
+19 
+9 
+5 
+10 
+4 
+2 
+2 
+0 
+0 
+0 
+0 
+80 
+1.39 
+52.85 
+0.59 
+210-225 
+6 
+5 
+13 
+11 
+10 
+14 
+8 
+7 
+7 
+0 
+0 
+0 
+0 
+0 
+81 
+1.41 
+62.16 
+0.69 
+225-240 
+4 
+9 
+13 
+13 
+17 
+12 
+20 
+19 
+22 
+6 
+0 
+0 
+0 
+0 
+135 
+2.34 
+136.53 
+1.52 
+240-255 
+4 
+15 
+8 
+21 
+18 
+28 
+38 
+27 
+55 
+9 
+0 
+0 
+0 
+0 
+223 
+3.87 
+250.60 
+2.79 
+255-270 
+5 
+12 
+15 
+26 
+22 
+28 
+65 
+58 
+76 
+16 
+2 
+0 
+0 
+0 
+325 
+5.64 
+389.82 
+4.35 
+270-285 
+1 
+10 
+29 
+24 
+28 
+25 
+64 
+46 
+55 
+11 
+0 
+0 
+0 
+0 
+293 
+5.08 
+318.75 
+3.55 
+285-300 
+2 
+8 
+18 
+25 
+17 
+30 
+45 
+46 
+38 
+5 
+0 
+0 
+0 
+0 
+234 
+4.06 
+247.22 
+2.76 
+300-315 
+4 
+7 
+18 
+26 
+29 
+27 
+41 
+36 
+20 
+0 
+0 
+0 
+0 
+0 
+208 
+3.61 
+188.38 
+2.10 
+315-330 
+8 
+16 
+19 
+26 
+16 
+22 
+37 
+18 
+14 
+2 
+0 
+0 
+0 
+0 
+178 
+3.09 
+145.38 
+1.62 
+330-345 
+3 
+9 
+21 
+15 
+23 
+20 
+30 
+11 
+3 
+0 
+0 
+0 
+0 
+0 
+135 
+2.34 
+100.72 
+1.12 
+345-360 
+4 
+13 
+20 
+18 
+22 
+20 
+31 
+7 
+5 
+0 
+0 
+0 
+0 
+0 
+140 
+2.43 
+101.86 
+1.14 
+SUM (#) 
+93 
+242 
+368 
+477 
+457 
+498 
+841 
+671 
+925 
+461 
+284 
+431 
+16 
+0 
+5764 
+100 
+8971.54 
+100 
+SUM (%) 
+1.61 
+4.20 
+6.38 
+8.28 
+7.93 
+8.64 
+14.59 
+11.64 
+16.05 
+8.00 
+4.93 
+7.48 
+0.28 
+0 
+100 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+28 
+Tabell C.5: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 15 meters dyp ved 
+Vindvika i perioden 02.10.–11.11.2024. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning på 8°. 
+15 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+3 
+15 
+25 
+23 
+19 
+10 
+6 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+105 
+1.82 
+57.91 
+1.09 
+15-30 
+8 
+23 
+23 
+26 
+17 
+14 
+19 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+133 
+2.31 
+74.95 
+1.41 
+30-45 
+4 
+22 
+27 
+37 
+28 
+17 
+23 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+163 
+2.83 
+98.09 
+1.85 
+45-60 
+8 
+16 
+27 
+26 
+30 
+25 
+25 
+17 
+10 
+0 
+0 
+0 
+0 
+0 
+184 
+3.19 
+134.18 
+2.53 
+60-75 
+2 
+15 
+22 
+25 
+51 
+37 
+50 
+32 
+34 
+12 
+2 
+0 
+0 
+0 
+282 
+4.89 
+280.44 
+5.28 
+75-90 
+5 
+16 
+27 
+43 
+32 
+34 
+73 
+57 
+60 
+15 
+2 
+0 
+0 
+0 
+364 
+6.32 
+389.10 
+7.32 
+90-105 
+12 
+23 
+36 
+27 
+34 
+36 
+59 
+55 
+44 
+6 
+0 
+0 
+0 
+0 
+332 
+5.76 
+316.59 
+5.96 
+105-120 
+7 
+22 
+28 
+30 
+26 
+30 
+44 
+26 
+24 
+1 
+1 
+1 
+0 
+0 
+240 
+4.17 
+206.09 
+3.88 
+120-135 
+7 
+14 
+29 
+37 
+29 
+27 
+38 
+11 
+13 
+3 
+2 
+1 
+0 
+0 
+211 
+3.66 
+171.08 
+3.22 
+135-150 
+8 
+14 
+26 
+16 
+25 
+12 
+28 
+3 
+3 
+0 
+0 
+0 
+0 
+0 
+135 
+2.34 
+87.22 
+1.64 
+150-165 
+9 
+29 
+26 
+20 
+29 
+11 
+13 
+11 
+3 
+0 
+0 
+0 
+0 
+0 
+151 
+2.62 
+88.90 
+1.67 
+165-180 
+9 
+15 
+22 
+25 
+19 
+9 
+19 
+3 
+2 
+0 
+0 
+0 
+0 
+0 
+123 
+2.14 
+71.70 
+1.35 
+180-195 
+12 
+19 
+25 
+29 
+13 
+7 
+21 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+130 
+2.26 
+72.31 
+1.36 
+195-210 
+7 
+24 
+31 
+26 
+18 
+25 
+40 
+17 
+10 
+0 
+0 
+0 
+0 
+0 
+198 
+3.44 
+146.54 
+2.76 
+210-225 
+7 
+18 
+25 
+37 
+30 
+40 
+61 
+38 
+31 
+13 
+9 
+2 
+0 
+0 
+311 
+5.40 
+329.49 
+6.20 
+225-240 
+7 
+17 
+25 
+34 
+37 
+47 
+85 
+56 
+62 
+39 
+28 
+2 
+0 
+0 
+439 
+7.62 
+574.92 
+10.82 
+240-255 
+9 
+15 
+25 
+43 
+37 
+51 
+100 
+115 
+129 
+35 
+14 
+8 
+0 
+0 
+581 
+10.09 
+758.69 
+14.28 
+255-270 
+8 
+28 
+38 
+47 
+39 
+51 
+101 
+68 
+110 
+10 
+1 
+0 
+0 
+0 
+501 
+8.70 
+535.84 
+10.09 
+270-285 
+11 
+27 
+37 
+35 
+38 
+48 
+69 
+55 
+65 
+7 
+0 
+0 
+0 
+0 
+392 
+6.80 
+383.29 
+7.21 
+285-300 
+14 
+29 
+38 
+40 
+36 
+31 
+43 
+27 
+17 
+1 
+0 
+0 
+0 
+0 
+276 
+4.79 
+206.05 
+3.88 
+300-315 
+4 
+16 
+27 
+18 
+28 
+26 
+28 
+10 
+3 
+0 
+0 
+0 
+0 
+0 
+160 
+2.78 
+110.55 
+2.08 
+315-330 
+2 
+13 
+28 
+31 
+18 
+15 
+20 
+8 
+2 
+0 
+1 
+0 
+0 
+0 
+138 
+2.40 
+92.40 
+1.74 
+330-345 
+10 
+10 
+18 
+23 
+15 
+11 
+13 
+4 
+2 
+0 
+0 
+0 
+0 
+0 
+106 
+1.84 
+64.07 
+1.21 
+345-360 
+9 
+11 
+24 
+16 
+16 
+10 
+12 
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+106 
+1.84 
+62.75 
+1.18 
+SUM (#) 
+182 
+451 
+659 
+714 
+664 
+624 
+990 
+632 
+629 
+142 
+60 
+14 
+0 
+0 
+5761 
+100 
+5313.15 
+100 
+SUM (%) 
+3.16 7.83 
+11.44 
+12.39 
+11.53 
+10.83 
+17.18 
+10.97 
+10.92 
+2.46 1.04 0.24 
+0 
+0 
+100 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+29 
+Tabell C.6: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 37 meters dyp ved 
+Vindvika i perioden 02.10.–11.11.2024. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. Det er registrert 2 målinger med hastighet på 0 m/s. Disse målingene 
+har ingen retning og inngår ikke i tabellen. Data er korrigert for magnetisk misvisning på 8°. 
+37 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+9 
+21 
+25 
+14 
+9 
+3 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+85 
+1.47 
+34.17 
+0.56 
+15-30 
+4 
+9 
+26 
+10 
+6 
+6 
+7 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+69 
+1.20 
+34.82 
+0.57 
+30-45 
+6 
+12 
+23 
+22 
+18 
+9 
+17 
+3 
+4 
+0 
+0 
+0 
+0 
+0 
+114 
+1.98 
+71.25 
+1.18 
+45-60 
+7 
+17 
+20 
+28 
+21 
+14 
+24 
+20 
+13 
+4 
+0 
+0 
+0 
+0 
+168 
+2.91 
+138.06 
+2.28 
+60-75 
+3 
+28 
+25 
+28 
+36 
+31 
+38 
+39 
+43 
+6 
+0 
+0 
+0 
+0 
+277 
+4.81 
+266.24 
+4.39 
+75-90 
+4 
+16 
+28 
+33 
+38 
+26 
+60 
+51 
+39 
+11 
+0 
+0 
+0 
+0 
+306 
+5.31 
+305.68 
+5.04 
+90-105 
+11 
+18 
+24 
+42 
+27 
+38 
+54 
+25 
+14 
+1 
+0 
+0 
+0 
+0 
+254 
+4.41 
+197.67 
+3.26 
+105-120 
+2 
+17 
+19 
+25 
+28 
+28 
+30 
+7 
+2 
+1 
+0 
+0 
+0 
+0 
+159 
+2.76 
+111.78 
+1.84 
+120-135 
+5 
+15 
+22 
+21 
+26 
+20 
+18 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+132 
+2.29 
+83.02 
+1.37 
+135-150 
+4 
+12 
+18 
+20 
+27 
+17 
+18 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+119 
+2.06 
+75.10 
+1.24 
+150-165 
+3 
+14 
+19 
+21 
+22 
+17 
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+104 
+1.80 
+58.45 
+0.96 
+165-180 
+3 
+15 
+11 
+15 
+13 
+18 
+14 
+0 
+0 
+2 
+0 
+0 
+0 
+0 
+91 
+1.58 
+58.70 
+0.97 
+180-195 
+9 
+15 
+19 
+26 
+21 
+20 
+26 
+7 
+4 
+1 
+2 
+1 
+0 
+0 
+151 
+2.62 
+111.06 
+1.83 
+195-210 
+4 
+16 
+26 
+21 
+35 
+20 
+34 
+17 
+13 
+0 
+3 
+0 
+0 
+0 
+189 
+3.28 
+154.91 
+2.55 
+210-225 
+5 
+18 
+16 
+40 
+41 
+44 
+74 
+59 
+35 
+20 
+9 
+0 
+0 
+0 
+361 
+6.26 
+393.69 
+6.49 
+225-240 
+5 
+15 
+40 
+48 
+60 
+82 
+132 
+112 
+178 
+93 
+28 
+0 
+0 
+0 
+793 
+13.76 
+1095.53 
+18.07 
+240-255 
+9 
+13 
+26 
+43 
+57 
+70 
+153 
+200 
+263 
+142 
+29 
+0 
+0 
+0 
+1005 
+17.44 
+1501.85 
+24.77 
+255-270 
+3 
+24 
+24 
+41 
+43 
+48 
+122 
+107 
+127 
+75 
+8 
+1 
+0 
+0 
+623 
+10.81 
+827.23 
+13.64 
+270-285 
+13 
+20 
+29 
+30 
+29 
+35 
+54 
+37 
+20 
+3 
+0 
+0 
+0 
+0 
+270 
+4.68 
+227.65 
+3.75 
+285-300 
+5 
+9 
+19 
+14 
+26 
+17 
+34 
+8 
+1 
+0 
+0 
+0 
+0 
+0 
+133 
+2.31 
+98.58 
+1.63 
+300-315 
+5 
+17 
+13 
+23 
+18 
+7 
+18 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+104 
+1.80 
+60.79 
+1.00 
+315-330 
+3 
+9 
+21 
+21 
+11 
+5 
+13 
+4 
+2 
+0 
+0 
+0 
+0 
+0 
+89 
+1.54 
+54.75 
+0.90 
+330-345 
+2 
+14 
+15 
+18 
+14 
+10 
+9 
+1 
+6 
+0 
+0 
+0 
+0 
+0 
+89 
+1.54 
+56.32 
+0.93 
+345-360 
+1 
+14 
+17 
+15 
+17 
+4 
+7 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+79 
+1.37 
+45.72 
+0.75 
+SUM (#) 
+125 
+378 
+525 
+619 
+643 
+589 
+967 
+710 
+768 
+359 
+79 
+2 
+0 
+0 
+5764 
+100 
+6063.05 
+100 
+SUM (%) 
+2.17 
+6.56 
+9.11 
+10.74 
+11.16 
+10.22 
+16.78 
+12.32 
+13.32 
+6.23 
+1.37 0.03 
+0 
+0 
+100 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+30 
+Tabell C.7: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 83 meters dyp ved 
+Vindvika i perioden 02.10.–11.11.2024. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. Det er registrert én måling med hastighet på 0 m/s. Denne målingen 
+har ingen retning og inngår ikke i tabellen. Data er korrigert for magnetisk misvisning på 8°. 
+83 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+10 
+21 
+22 
+31 
+34 
+8 
+19 
+3 
+2 
+0 
+0 
+0 
+0 
+0 
+150 
+2.60 
+85.48 
+1.67 
+15-30 
+4 
+16 
+26 
+24 
+22 
+18 
+12 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+126 
+2.19 
+74.25 
+1.45 
+30-45 
+7 
+16 
+16 
+36 
+30 
+16 
+13 
+3 
+2 
+0 
+0 
+0 
+0 
+0 
+139 
+2.41 
+83.37 
+1.63 
+45-60 
+8 
+23 
+28 
+26 
+22 
+20 
+15 
+8 
+1 
+0 
+0 
+0 
+0 
+0 
+151 
+2.62 
+89.94 
+1.76 
+60-75 
+4 
+18 
+26 
+28 
+34 
+25 
+40 
+8 
+12 
+2 
+0 
+0 
+0 
+0 
+197 
+3.42 
+150.63 
+2.94 
+75-90 
+2 
+14 
+32 
+26 
+36 
+35 
+67 
+26 
+55 
+6 
+2 
+0 
+0 
+0 
+301 
+5.22 
+306.85 
+5.99 
+90-105 
+7 
+18 
+23 
+43 
+40 
+52 
+75 
+49 
+129 
+25 
+6 
+3 
+0 
+0 
+470 
+8.15 
+579.33 
+11.32 
+105-120 
+3 
+13 
+30 
+44 
+48 
+40 
+94 
+56 
+81 
+33 
+0 
+0 
+0 
+0 
+442 
+7.67 
+509.38 
+9.95 
+120-135 
+6 
+15 
+19 
+44 
+44 
+38 
+77 
+48 
+37 
+6 
+1 
+0 
+0 
+0 
+335 
+5.81 
+321.86 
+6.29 
+135-150 
+2 
+24 
+20 
+36 
+38 
+49 
+54 
+25 
+27 
+6 
+0 
+0 
+0 
+0 
+281 
+4.87 
+250.83 
+4.90 
+150-165 
+6 
+17 
+25 
+26 
+35 
+30 
+36 
+15 
+11 
+1 
+0 
+0 
+0 
+0 
+202 
+3.50 
+154.34 
+3.02 
+165-180 
+2 
+23 
+22 
+42 
+26 
+20 
+38 
+20 
+8 
+1 
+0 
+0 
+0 
+0 
+202 
+3.50 
+152.37 
+2.98 
+180-195 
+6 
+21 
+16 
+28 
+34 
+20 
+30 
+24 
+9 
+2 
+0 
+0 
+0 
+0 
+190 
+3.30 
+147.95 
+2.89 
+195-210 
+3 
+11 
+19 
+29 
+16 
+22 
+45 
+24 
+15 
+4 
+0 
+0 
+0 
+0 
+188 
+3.26 
+171.61 
+3.35 
+210-225 
+3 
+16 
+18 
+22 
+25 
+35 
+53 
+31 
+31 
+4 
+2 
+0 
+0 
+0 
+240 
+4.16 
+236.62 
+4.62 
+225-240 
+1 
+21 
+18 
+25 
+22 
+21 
+65 
+36 
+47 
+9 
+1 
+0 
+0 
+0 
+266 
+4.61 
+283.50 
+5.54 
+240-255 
+4 
+14 
+18 
+33 
+32 
+27 
+62 
+47 
+28 
+6 
+1 
+0 
+0 
+0 
+272 
+4.72 
+266.08 
+5.20 
+255-270 
+2 
+10 
+26 
+22 
+31 
+22 
+48 
+45 
+22 
+2 
+0 
+0 
+0 
+0 
+230 
+3.99 
+214.67 
+4.19 
+270-285 
+13 
+20 
+27 
+36 
+46 
+42 
+54 
+44 
+27 
+0 
+0 
+0 
+0 
+0 
+309 
+5.36 
+257.54 
+5.03 
+285-300 
+3 
+12 
+21 
+31 
+38 
+39 
+61 
+17 
+15 
+0 
+0 
+0 
+0 
+0 
+237 
+4.11 
+196.92 
+3.85 
+300-315 
+6 
+25 
+36 
+36 
+43 
+41 
+50 
+14 
+14 
+0 
+0 
+0 
+0 
+0 
+265 
+4.60 
+195.25 
+3.81 
+315-330 
+6 
+20 
+27 
+27 
+40 
+32 
+34 
+14 
+11 
+0 
+0 
+0 
+0 
+0 
+211 
+3.66 
+155.36 
+3.04 
+330-345 
+10 
+13 
+29 
+41 
+17 
+38 
+32 
+14 
+1 
+0 
+0 
+0 
+0 
+0 
+195 
+3.38 
+132.25 
+2.58 
+345-360 
+6 
+31 
+19 
+24 
+32 
+20 
+25 
+7 
+2 
+0 
+0 
+0 
+0 
+0 
+166 
+2.88 
+102.21 
+2.00 
+SUM (#) 
+124 
+432 
+563 
+760 
+785 
+710 
+1099 
+582 
+587 
+107 
+13 
+3 
+0 
+0 
+5765 
+100 
+5118.58 
+100 
+SUM (%) 
+2.15 7.49 
+9.77 
+13.18 
+13.62 
+12.32 
+19.06 
+10.10 
+10.18 
+1.86 
+0.23 
+0.05 
+0 
+0 
+100 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+31 
+Tabell C.8: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 195 meters dyp ved 
+Vindvika i perioden 02.10.–11.11.2024. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. Det er registrert 9 målinger med hastighet på 0 m/s. Disse målingene 
+har ingen retning og inngår ikke i tabellen. Data er korrigert for magnetisk misvisning på 8°. 
+195 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 
+100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+77 
+132 
+137 
+125 
+44 
+21 
+5 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+544 
+9.45 
+205.89 
+10.10 
+15-30 
+36 
+109 
+112 
+78 
+50 
+15 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+408 
+7.09 
+164.57 
+8.07 
+30-45 
+34 
+84 
+85 
+55 
+27 
+13 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+303 
+5.26 
+116.34 
+5.71 
+45-60 
+32 
+84 
+62 
+28 
+15 
+8 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+231 
+4.01 
+79.57 
+3.90 
+60-75 
+37 
+67 
+53 
+20 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+184 
+3.20 
+53.21 
+2.61 
+75-90 
+24 
+58 
+55 
+19 
+4 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+162 
+2.81 
+49.34 
+2.42 
+90-105 
+40 
+66 
+49 
+17 
+4 
+3 
+3 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+184 
+3.20 
+54.30 
+2.66 
+105-120 
+34 
+49 
+59 
+19 
+6 
+6 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+174 
+3.02 
+56.05 
+2.75 
+120-135 
+30 
+65 
+72 
+36 
+17 
+4 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+227 
+3.94 
+79.99 
+3.92 
+135-150 
+25 
+80 
+57 
+66 
+34 
+16 
+9 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+288 
+5.00 
+123.74 
+6.07 
+150-165 
+22 
+67 
+79 
+60 
+36 
+11 
+12 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+288 
+5.00 
+124.98 
+6.13 
+165-180 
+27 
+56 
+58 
+61 
+23 
+9 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+239 
+4.15 
+95.91 
+4.70 
+180-195 
+36 
+64 
+58 
+35 
+10 
+6 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+210 
+3.65 
+68.28 
+3.35 
+195-210 
+22 
+60 
+36 
+19 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+140 
+2.43 
+41.03 
+2.01 
+210-225 
+28 
+42 
+36 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+113 
+1.96 
+29.25 
+1.43 
+225-240 
+28 
+45 
+25 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+102 
+1.77 
+23.63 
+1.16 
+240-255 
+19 
+52 
+20 
+12 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+104 
+1.81 
+27.44 
+1.35 
+255-270 
+21 
+41 
+37 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+106 
+1.84 
+28.56 
+1.40 
+270-285 
+60 
+73 
+44 
+11 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+190 
+3.30 
+43.15 
+2.12 
+285-300 
+22 
+71 
+44 
+21 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+164 
+2.85 
+49.44 
+2.42 
+300-315 
+37 
+80 
+74 
+32 
+9 
+4 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+238 
+4.13 
+76.07 
+3.73 
+315-330 
+35 
+83 
+99 
+64 
+21 
+10 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+313 
+5.44 
+116.60 
+5.72 
+330-345 
+45 
+106 
+131 
+90 
+37 
+10 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+422 
+7.33 
+159.15 
+7.81 
+345-360 
+32 
+98 
+127 
+116 
+27 
+17 
+2 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+423 
+7.35 
+172.30 
+8.45 
+SUM (#) 
+803 
+1732 
+1609 
+1000 
+381 
+159 
+59 
+13 
+1 
+0 
+0 
+0 
+0 
+0 
+5757 
+100 
+2038.80 
+100 
+SUM (%) 
+13.95 
+30.09 
+27.95 
+17.37 
+6.62 
+2.76 
+1.02 
+0.23 
+0.02 
+0 
+0 
+0 
+0 
+0 
+100 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+32 
+Vedlegg D - Supplerende figurer 
+Vektor - progressiv vektor 
+ 
+Figur D.1: Progressiv vektor på 5 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. Data er korrigert for magnetisk 
+misvisning på 8°. 
+ 
+ 
+Figur D.2: Progressiv vektor på 15 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. Data er korrigert for magnetisk 
+misvisning på 8°. 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+33 
+ 
+ 
+Figur D.3: Progressiv vektor på 37 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. Data er korrigert for magnetisk 
+misvisning på 8°. 
+ 
+ 
+Figur D.4: Progressiv vektor på 83 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. Data er korrigert for magnetisk 
+misvisning på 8°. 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+34 
+ 
+Figur D.5: Progressiv vektor på 195 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. Data er korrigert for 
+magnetisk misvisning på 8°. 
+ 
+Histogram - strømhastighet 
+ 
+Figur D.6: Frekvensfordeling av vannstrømhastighet på 5 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+35 
+ 
+Figur D.7: Frekvensfordeling av vannstrømhastighet på 15 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. 
+ 
+ 
+Figur D.8: Frekvensfordeling av vannstrømhastighet på 37 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+36 
+ 
+Figur D.9: Frekvensfordeling av vannstrømhastighet på 83 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. 
+ 
+ 
+Figur D.10: Frekvensfordeling av vannstrømhastighet på 195 meters dyp ved Vindvika i perioden 02.10.–11.11.2024. 
+ 
+ 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+37 
+Histogram - strømretning 
+ 
+Figur D.11: Frekvensfordeling av vannstrømretning for hver 15° sektor på 5 meters dyp ved Vindvika i perioden 02.10.–
+11.11.2024. Data er korrigert for magnetisk misvisning på 8°. 
+ 
+ 
+Figur D.12: Frekvensfordeling av vannstrømretning for hver 15° sektor på 15 meters dyp ved Vindvika i perioden 02.10.–
+11.11.2024. Data er korrigert for magnetisk misvisning på 8°. 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+38 
+ 
+Figur D.13: Frekvensfordeling av vannstrømretning for hver 15° sektor på 37 meters dyp ved Vindvika i perioden 02.10.–
+11.11.2024. Det er registrert 2 målinger med hastighet på 0 m/s. Disse målingene har ingen retning og inngår ikke i 
+diagrammet. Data er korrigert for magnetisk misvisning på 8°. 
+ 
+ 
+Figur D.14: Frekvensfordeling av vannstrømretning for hver 15° sektor på 83 meters dyp ved Vindvika i perioden 02.10.–
+11.11.2024. Det er registrert én måling med hastighet på 0 m/s. Denne målingen har ingen retning og inngår ikke i 
+diagrammet. Data er korrigert for magnetisk misvisning på 8°. 
+ 
+3695-11-24S VINDVIKA 
+AQUA KOMPETANSE AS 
+39 
+ 
+Figur D.15: Frekvensfordeling av vannstrømretning for hver 15° sektor på 195 meters dyp ved Vindvika i perioden 02.10.–
+11.11.2024. Det er registrert 9 målinger med hastighet på 0 m/s. Disse målingene har ingen retning og inngår ikke i 
+diagrammet. Data er korrigert for magnetisk misvisning på 8°.

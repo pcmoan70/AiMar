@@ -1,0 +1,6818 @@
+﻿Strømrapport  
+ 
+Måling av overflate- (5m), 
+dimensjonerings- (15m), sprednings- (70m) 
+og bunnstrøm (109m) ved 
+ 
+Kokvika i 
+ 
+mars - mai  
+og 
+april - august 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 2 av 87 
+Rapport 
+Rapportbeskrivelse 
+og -navn 
+Vurdering av strømforhold ved Kokvika. 
+SR-NS-Kokvika-103510-01-001.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+22.09.22 
+Første utgivelse. Presentasjon og vurdering av gjennomførte 
+strømmålinger ved Kokvika. 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten 
+kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde 
+oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Kokvika 
+Lokalitetsnummer 
+13764 
+Kommune  
+Lurøy 
+Fylke 
+Nordland 
+Oppdragsgiver 
+Selskap 
+Nova Sea AS; Postboks 34, 8764 LOVUND, NORGE 
+Kontaktperson 
+Maren Elise Nyberg 
+maren.elise.nyberg@novasea.no  
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+Organisasjonsnummer: 916 763 816 
+Feltarbeidsansvarlig 
+Torbjørn Gylt 
+torbjorn@akerbla.no 
+Rapportansvarlig         Astri Horge Glindø 
+astri.glindo@akerbla.no 
+Kontrollert av   
+Anne Kari Meisingset 
+anne.meisingset@akerbla.no 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+Resultat nøkkeltall 
+Måledyp 
+5m 
+15m 
+Spredning 
+(70m) 
+Bunn 
+(109m) 
+Maksimal strøm (cm/s) (retning) 
+60.4 (S) 
+40.2 (S) 
+27.6 (S) 
+20.9 (S) 
+Gjennomsnittlig strøm (cm/s) 
+10.0 
+7.1 
+6.1 
+5.2 
+Strømstyrke < 1cm/s (%) 
+1.6 
+2.9 
+3.9 
+5.4 
+Strømstyrke < 3cm/s (%) 
+12.8 
+20.0 
+24.0 
+32.4 
+Strømstyrke < 10cm/s (%) 
+61.2 
+77.6 
+86.0 
+88.0 
+Strømstyrke ≥ 30cm/s (%) 
+2.3 
+0.2 
+0.0 
+0.0 
+Strømstyrke ≥ 50cm/s (%) 
+0.04 
+0.0 
+0.0 
+0.0 
+Neumann-parameter 
+0.5 
+0.3 
+0.5 
+0.4 
+10-års strøm (maksimal) 
+100 
+66 
+- 
+- 
+50-års strøm (maksimal) 
+112 
+74 
+- 
+- 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 3 av 87 
+Innholdsfortegnelse 
+ 
+1. 
+Forord .......................................................................................................................................... 6 
+2. 
+Områdebeskrivelse ..................................................................................................................... 7 
+3. 
+Metodikk ...................................................................................................................................... 8 
+4. 
+Resultater ................................................................................................................................... 11 
+4.1 
+Sammendrag av strømdata .............................................................................................. 11 
+4.2 
+Strømroser ....................................................................................................................... 12 
+4.3 
+Matrise med strømhastighet og -retning ......................................................................... 13 
+4.4 
+Strømmens hastighetsfordeling ....................................................................................... 17 
+4.5 
+Strømmens retningsfordeling .......................................................................................... 18 
+4.6 
+Tidsdiagram – Strømhastighet ........................................................................................ 19 
+4.7 
+Tidsdiagram – Strømretning ........................................................................................... 20 
+4.8 
+Tidsdiagram – Temperatur .............................................................................................. 21 
+4.9 
+Progressivt vektordiagram .............................................................................................. 22 
+4.10 
+Fordelingsdiagram – Maksimal strømhastighet .............................................................. 23 
+4.11 
+Fordelingsdiagram – Gjennomsnittshastighet ................................................................. 24 
+4.12 
+Fordelingsdiagram – Relativ vannfluks .......................................................................... 25 
+4.13 
+Fordelingsdiagram – Antall observasjoner ..................................................................... 26 
+4.14 
+Maksimal strømhastighet i 8 retningssektorer ................................................................ 27 
+4.15 
+Gjennomsnittlig strømhastighet i 8 retningssektorer ...................................................... 27 
+4.16 
+Antall målinger i 8 retningssektorer ................................................................................ 27 
+4.17 
+Relativ vannutskiftning i 8 retningssektorer ................................................................... 27 
+4.18 
+10-års og 50-års strømhastighet i 8 retningssektorer ...................................................... 28 
+4.19 
+Persentilfordeling av strømhastighet ............................................................................... 29 
+4.20 
+Prosentfordeling av strømhastighet ................................................................................. 29 
+4.21 
+Strømfordeling ................................................................................................................ 30 
+4.22 
+Strømvarighet .................................................................................................................. 33 
+4.23 
+Tidevannsanalyse ............................................................................................................ 35 
+4.24 
+Maksimal strømhastighet, tidevann og vind ................................................................... 38 
+4.25 
+Vind under måleperioden ................................................................................................ 39 
+4.26 
+Utslippskontur ................................................................................................................. 42 
+4.27 
+CTD-profil....................................................................................................................... 43 
+5. 
+Diskusjon ................................................................................................................................... 44 
+5.1 
+Høye strømmålinger ........................................................................................................ 44 
+5.2 
+Tidevannspåvirkning ....................................................................................................... 44 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 4 av 87 
+5.3 
+Vindpåvirkning ............................................................................................................... 44 
+5.4 
+Vannutskiftning ............................................................................................................... 45 
+5.5 
+Mulig spredning av utslipp.............................................................................................. 45 
+5.6 
+Vannsøylens vertikale struktur ........................................................................................ 46 
+6. 
+Vedlegg – Bakgrunnsinformasjon ........................................................................................... 48 
+6.1 
+Valg av sted, dyp og periode for strømmålinger ............................................................. 48 
+6.2 
+Spesifikasjoner for strøminstrumenter ............................................................................ 49 
+6.3 
+Måleprinsipp for strømmålinger ..................................................................................... 50 
+6.4 
+CTD-målinger ................................................................................................................. 50 
+7. 
+Vedlegg – Riggoppsett .............................................................................................................. 51 
+7.1 
+Riggoppsett ..................................................................................................................... 51 
+8. 
+Vedlegg – Databearbeiding og kvalitetssikring ...................................................................... 53 
+8.1 
+Databearbeiding .............................................................................................................. 53 
+8.2 
+Kvalitetssikring av data ................................................................................................... 55 
+8.3 
+Fjernede dataverdier ........................................................................................................ 61 
+8.3.1 
+Måleperiode ............................................................................................................... 61 
+8.3.2 
+Enkelte datapunkter.................................................................................................... 61 
+9. 
+Vedlegg – Fyrstikkdiagram av vind og strøm ........................................................................ 62 
+10. Vedlegg – Strømmens tilstandsklasser .................................................................................... 67 
+11. Vedlegg – Månedlige tidevannsvariasjoner ............................................................................ 68 
+12. Vedlegg – Måleenheter ............................................................................................................. 69 
+13. Vedlegg – Parametere og beskrivelse ...................................................................................... 70 
+14. Vedlegg – Referanser ................................................................................................................ 71 
+15. Vedlegg - Resultater per måned på 5m dyp ........................................................................... 72 
+15.1 
+Sammendrag av strømdata .............................................................................................. 72 
+15.2 
+Strømroser ....................................................................................................................... 73 
+15.3 
+Tidsdiagram – strømhastighet ......................................................................................... 75 
+15.4 
+Tidsdiagram – strømhastighet ......................................................................................... 77 
+15.5 
+Persentilfordeling av strømhastighet ............................................................................... 79 
+15.6 
+Prosentfordeling av strømhastighet ................................................................................. 79 
+16. Vedlegg - Resultater per måned på 15m dyp ......................................................................... 80 
+16.1 
+Sammendrag av strømdata .............................................................................................. 80 
+16.2 
+Strømroser ....................................................................................................................... 81 
+16.3 
+Tidsdiagram – strømhastighet ......................................................................................... 83 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 5 av 87 
+16.4 
+Tidsdiagram – strømhastighet ......................................................................................... 85 
+16.5 
+Persentilfordeling av strømhastighet ............................................................................... 87 
+16.6 
+Prosentfordeling av strømhastighet ................................................................................. 87 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 6 av 87 
+1. Forord 
+ 
+Åkerblå AS har på oppdrag fra Nova Sea AS utført strømmålinger ved eksisterende oppdrettslokalitet 
+Kokvika som er vurdert etter beliggenhet, strømforhold, temperatur, vannutskiftning, tidevann og 
+vind. 
+ 
+Resultatene fra strømmålingene gjelder for gitte prøvepunkt og for oppgitt tidsperiode. Vurderingen 
+av strømforhold i området er gjort på bakgrunn av disse resultatene. 
+ 
+NYTEK-forskriften har som mål å begrense rømming av fisk fra oppdrettsanlegg. NS 9415:2009 
+krever at alle lokaliteter undersøkes og beskrives ut fra topografi og eksponeringsgrad i form av 
+parametere som danner grunnlag for beregning av miljølaster på et anlegg.   
+ 
+Alle omsøkte akvakulturlokaliteter skal også kunne ivareta artens krav til et godt levemiljø 
+(Mattilsynet, 2016). Det må være tilstrekkelig tilførsel av vann av egnet kvalitet. Spesielt relevant er 
+oksygen – som er vurdert etter blant annet strømforhold og vannutskiftning – og temperatur.   
+ 
+Denne rapporten tilfredsstiller kravene i NS 9425-1:1999, samt anbefalingene i retningslinje for 
+etableringssøknader fra Mattilsynet (2016). For måleperioder kortere enn ett år benyttes 
+multiplikasjonsfaktor fra NS 9415:2021 for fastsettelse av dimensjonerende strømhastigheter, etter 
+dispensasjon fra Fiskeridirektoratet (Fiskeridirektoratet, 2021).  
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 7 av 87 
+2. Områdebeskrivelse 
+ 
+Målepunktene for Kokvika ligger i Lurøy kommune, Nordland (Figur 2.1). Kokvika ligger på 
+østsiden av øya Stigen og vest for øya Aldra. Måleposisjonene ligger begge på vestsiden av 
+Stigfjorden. Plasseringene er åpen mot Sjona i sør.   
+ 
+På grunn av omkringliggende topografi er området relativt eksponert for vind fra nord, nordøst og 
+sør.  
+ 
+Bunntopografien er ca. 135m dyp ved strømmålingsposisjonen til 5m og 15m dyp, og ca. 140m ved 
+sprednings- (70m) og bunndyp (109m). Bunntopografien er orientert N – S ved begge målepunkter. 
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonen, anvist med rød pinne. Kart er hentet fra 
+Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 8 av 87 
+3. Metodikk 
+ 
+Strømmålinger er kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter 
+som ble benyttet er oppgitt i Tabell 3.1. Strømmen ble målt i to rigger, hvor avstanden mellom disse 
+var ca. 310m. Strømmen ble målt over to måleperioder; fra 11. mars til 04. mai 2022 på sprednings- 
+(70m) og bunndyp (109m), og fra 20. april til 16. august 2022 på 5m og 15m dyp. I utgangspunktet 
+skulle strøm på alle fire dyp måles i løpet av samme måleperiode, men riggen med 5m og 15m dyp 
+slet seg løs. Dette medførte at nye målinger måtte utføres på 5m og 15m dyp. 
+ 
+Ut fra topografi og bunntopografi er plasseringen vurdert som god for å dokumentere 
+strømforholdene i området (Figur 3.1 – Figur 3.2). Målerne på 5m og 15m dyp er plassert i posisjonen 
+som sannsynligvis oppgir høyeste strømhastighet i området der anlegget ligger. 
+ 
+Tabell 3.1. Bakgrunnsinformasjon om strømmåling.  
+Måledyp 
+5m 
+15m 
+Spredning 
+(70m) 
+Bunn 
+(109m) 
+Posisjonsanvisning 
+ 
+ 
+ 
+ 
+Posisjon 
+66° 24.936' N; 
+012° 57.542' Ø 
+66° 24.936' N; 
+012° 57.542' Ø 
+66° 24.771' N; 
+012° 57.474' Ø 
+66° 24.771' N; 
+012° 57.474' Ø 
+Dyp på målested 
+135m 
+135m 
+140m 
+140m 
+Instrumenttype 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Måleperiode 
+20.04.22 - 
+16.08.22 
+20.04.22 - 
+16.08.22 
+11.03.22 - 
+04.05.22 
+11.03.22 - 
+04.05.22 
+Måleintervall 
+10 minutter 
+10 minutter 
+10 minutter 
+10 minutter 
+Antall døgn 
+(målt/planlagt) 
+117.9 / 117.9 
+117.9 / 117.9 
+54.0 / 54.0 
+54.0 / 54.0 
+Fjernede datapunkt 
+0 
+0 
+0 
+0 
+Manglende datapunkt 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 9 av 87 
+ 
+Figur 3.1. Plassering av strømmålere i området anvist med gult kryss for 5m og 15m dyp, og med 
+rødt kryss for sprednings- (70m) og bunndyp (109m). I nederste figur er plasseringene gitt i forhold 
+til eksisterende anlegg. Kompasspila øverst i venstre hjørne indikerer orientering til kart. Kart er 
+hentet fra Olex. Kartdatum: WGS84.  
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 10 av 87 
+ 
+Figur 3.2. 3D-bilde av bunntopografi i området. Den tynne kompasspila øverst i venstre hjørne 
+indikerer kartets orientering (øverste bilde) og den tykke kompasspila indikerer kameraets 
+orientering (midterste og nederste bilde). De små bildene viser kameraets utsiktspunkt for den 
+tilhørende bunntopografien. Kartene er hentet fra Olex. Kartdatum: WGS84.   
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 11 av 87 
+4. Resultater  
+ 
+4.1 
+Sammendrag av strømdata 
+ 
+Resultater per måledyp for måleperiodene er sammenfattet i Tabell 4.1.1. Verdiene er klassifisert 
+(fargelagt) etter: «Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er 
+forklart i «Vedlegg – Parametere og beskrivelse». 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra 5m, 15m, spredningsdyp (70m) og bunndyp (109m). 
+Måledyp 
+5m 
+15m 
+Spredning 
+(70m) 
+Bunn 
+(109m) 
+Sjøtemperatur (°C) 
+5.4 - 14.8 
+5.5 - 13.3 
+5.0 - 7.1 
+6.0 - 7.4 
+Strømhastighet 
+Maksimum (cm/s) 
+60.4 
+40.2 
+27.6 
+20.9 
+Gjennomsnitt (cm/s) 
+10.0 
+7.1 
+6.1 
+5.2 
+Minimum (cm/s) 
+0.0 
+0.1 
+0.1 
+0.0 
+Signifikant maks (cm/s) 
+18.6 
+12.7 
+10.7 
+9.4 
+Signifikant min (cm/s) 
+3.4 
+2.6 
+2.3 
+1.9 
+Varians (cm/s)² 
+56.7 
+24.7 
+17.3 
+13.1 
+Standardavvik (cm/s) 
+7.5 
+5.0 
+4.2 
+3.6 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+1.6 
+2.9 
+3.9 
+5.4 
+Lengste periode < 1cm/s (min) 
+40 
+50 
+90 
+50 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+12.8 
+20.0 
+24.0 
+32.4 
+Lengste periode < 3cm/s (min) 
+140 
+240 
+500 
+450 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+61.2 
+77.6 
+86.0 
+88.0 
+Lengste periode < 10cm/s (min) 
+1590 
+2430 
+6050 
+3640 
+% ≥ 30cm/s 
+2.3 
+0.2 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+250 
+60 
+0 
+0 
+% ≥ 50cm/s 
+0.04 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+40 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+5.0 
+2.2 
+3.0 
+2.2 
+Retning (grader) 
+161 
+181 
+184 
+178 
+Neumann-parameter 
+0.5 
+0.3 
+0.5 
+0.4 
+Gjennomsnittlig vannforflytning (m³/m²/d) 
+8665 
+6131 
+5272 
+4532 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 12 av 87 
+4.2 
+Strømroser 
+ 
+Strømrosene viser strømhastighet og -retning under måleperiodene. Strømrosene viser hvor stor 
+andel av målingene som er registrert for hver 10º-sektor, vist som prosentandel i figurene, og hvilken 
+strømhastighetsklasse som er registrert i de ulike sektorene. Strømroser gir en indikasjon på om 
+strømmen har en dominerende retning eller ikke. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (70m) 
+Bunn (109m) 
+ 
+ 
+Figur 4.2.1. Strømroser på 5m, 15m, spredningsdyp (70m) og bunndyp (109m). 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 13 av 87 
+4.3 
+Matrise med strømhastighet og -retning 
+ 
+Strømretninger er fordelt i 15º-sektorer (sektorene er vist i venstre kolonne). Den nederste linjen 
+viser den prosentvise fordelingen av de registrerte strømhastighetene. Kolonnen til høyre viser den 
+prosentvise fordelingen i de ulike 15º-sektorene og antall kubikkmeter vann som i måleperioden vil 
+passere et tenkt vindu på 1x1 meter i den aktuelle strømretningen. Kolonnen til høyre viser også 
+maksimal strømhastighet i hver 15º-sektor.    
+ 
+Hastighetsfordeling er ≥ (lavest verdi) og < (høyest verdi) i oppgitt hastighetsrekkevidde. 
+ 
+Tabell 4.3.1. Hastighets- og retningsmatrise av strømdata fra 5m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-15 15-20 20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 >100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+12 
+105 
+235 
+534 
+320 
+130 
+43 
+9 
+10 
+1 
+0 
+0 
+0 
+1399 
+8.2 
+76571 
+7.5 
+40.5 
+N 
+15 
+15 
+113 
+194 
+453 
+128 
+16 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+921 
+5.4 
+36753 
+3.6 
+23.6 
+NØ 
+30 
+15 
+108 
+173 
+266 
+32 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+596 
+3.5 
+19053 
+1.9 
+16.6 
+NØ 
+45 
+12 
+102 
+130 
+124 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+375 
+2.2 
+9961 
+1.0 
+12.9 
+NØ 
+60 
+8 
+89 
+102 
+82 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+288 
+1.7 
+7149 
+0.7 
+11.9 
+Ø 
+75 
+22 
+86 
+86 
+66 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+262 
+1.5 
+5967 
+0.6 
+11.5 
+Ø 
+90 
+15 
+79 
+80 
+60 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+237 
+1.4 
+5546 
+0.5 
+14.6 
+Ø 
+105 
+13 
+90 
+76 
+93 
+17 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+291 
+1.7 
+8380 
+0.8 
+20.7 
+SØ 
+120 
+11 
+71 
+96 
+161 
+38 
+12 
+3 
+3 
+0 
+0 
+0 
+0 
+0 
+395 
+2.3 
+15066 
+1.5 
+27.0 
+SØ 
+135 
+7 
+79 
+159 
+278 
+155 
+53 
+18 
+8 
+4 
+0 
+0 
+0 
+0 
+761 
+4.5 
+38007 
+3.7 
+34.4 
+SØ 
+150 
+10 
+101 
+163 
+482 
+454 
+277 
+123 
+54 
+55 
+16 
+1 
+0 
+0 
+1736 
+10.2 
+130220 
+12.7 
+50.8 
+S 
+165 
+7 
+103 
+139 
+675 
+761 
+677 
+442 254 187 
+52 
+6 
+0 
+0 
+3303 
+19.4 
+316841 
+31.0 
+60.4 
+S 
+180 
+14 
+82 
+160 
+608 
+540 
+445 
+234 114 
+48 
+10 
+0 
+0 
+0 
+2255 
+13.3 
+181000 
+17.7 
+48.6 
+S 
+195 
+8 
+72 
+110 
+348 
+178 
+90 
+16 
+3 
+1 
+0 
+0 
+0 
+0 
+826 
+4.9 
+44245 
+4.3 
+33.5 
+SV 
+210 
+8 
+60 
+105 
+152 
+56 
+10 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+394 
+2.3 
+15387 
+1.5 
+25.0 
+SV 
+225 
+9 
+58 
+80 
+101 
+12 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+261 
+1.5 
+7784 
+0.8 
+17.6 
+SV 
+240 
+7 
+59 
+57 
+49 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+173 
+1.0 
+4198 
+0.4 
+16.0 
+V 
+255 
+9 
+49 
+43 
+38 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+142 
+0.8 
+3398 
+0.3 
+12.3 
+V 
+270 
+10 
+55 
+34 
+38 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+140 
+0.8 
+3254 
+0.3 
+13.6 
+V 
+285 
+11 
+57 
+47 
+37 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+152 
+0.9 
+3301 
+0.3 
+9.2 
+NV 
+300 
+11 
+52 
+64 
+60 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+194 
+1.1 
+5079 
+0.5 
+14.1 
+NV 
+315 
+12 
+68 
+87 
+113 
+17 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+300 
+1.8 
+9256 
+0.9 
+18.9 
+NV 
+330 
+9 
+71 
+127 
+217 
+63 
+8 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+496 
+2.9 
+18826 
+1.8 
+22.6 
+N 
+345 
+10 
+106 
+173 
+458 
+211 
+88 
+29 
+8 
+3 
+0 
+0 
+0 
+0 
+1086 
+6.4 
+56226 
+5.5 
+35.8 
+Antall obs. 
+265 1915 2720 5493 3014 1814 915 453 308 
+79 
+7 
+0 
+0 
+16983 
+100 
+0 
+0 
+0 
+% 
+1.6 
+11.3 
+16.0 
+32.3 
+17.7 
+10.7 
+5.4 
+2.7 
+1.8 
+0.5 0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 14 av 87 
+Tabell 4.3.2. Hastighets- og retningsmatrise av strømdata fra 15m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-15 15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 >100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+23 
+192 
+330 
+578 
+121 
+20 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1264 
+7.4 
+45132 
+6.2 
+19.4 
+N 
+15 
+27 
+161 
+249 
+285 
+29 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+752 
+4.4 
+21622 
+3.0 
+15.6 
+NØ 
+30 
+20 
+146 
+146 
+109 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+425 
+2.5 
+9951 
+1.4 
+12.8 
+NØ 
+45 
+18 
+141 
+104 
+42 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+307 
+1.8 
+5884 
+0.8 
+10.8 
+NØ 
+60 
+27 
+101 
+80 
+17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+225 
+1.3 
+3859 
+0.5 
+8.1 
+Ø 
+75 
+18 
+98 
+72 
+22 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+210 
+1.2 
+3667 
+0.5 
+8.4 
+Ø 
+90 
+22 
+107 
+65 
+20 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+214 
+1.3 
+3663 
+0.5 
+9.4 
+Ø 
+105 
+17 
+120 
+88 
+21 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+248 
+1.5 
+4561 
+0.6 
+15.2 
+SØ 
+120 
+15 
+120 
+112 
+81 
+6 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+341 
+2.0 
+8495 
+1.2 
+19.2 
+SØ 
+135 
+26 
+128 
+168 
+238 
+20 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+585 
+3.4 
+17513 
+2.4 
+19.3 
+SØ 
+150 
+17 
+139 
+262 
+529 
+170 
+39 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+1158 
+6.8 
+47513 
+6.6 
+20.2 
+S 
+165 
+22 
+128 
+310 
+985 
+510 
+217 
+57 
+1 
+1 
+0 
+0 
+0 
+0 
+2231 
+13.1 
+120496 
+16.7 
+33.9 
+S 
+180 
+20 
+162 
+233 
+889 
+693 
+386 146 
+60 
+28 
+1 
+0 
+0 
+0 
+2618 
+15.4 
+174734 
+24.2 
+40.2 
+S 
+195 
+15 
+142 
+168 
+445 
+300 
+133 
+52 
+10 
+4 
+0 
+0 
+0 
+0 
+1269 
+7.5 
+71112 
+9.8 
+32.1 
+SV 
+210 
+19 
+103 
+116 
+212 
+36 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+499 
+2.9 
+16930 
+2.3 
+19.6 
+SV 
+225 
+17 
+79 
+85 
+52 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+236 
+1.4 
+5274 
+0.7 
+13.9 
+SV 
+240 
+21 
+78 
+61 
+22 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+182 
+1.1 
+3205 
+0.4 
+9.7 
+V 
+255 
+16 
+70 
+46 
+24 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+157 
+0.9 
+2972 
+0.4 
+11.2 
+V 
+270 
+17 
+77 
+48 
+18 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+161 
+0.9 
+2829 
+0.4 
+10.4 
+V 
+285 
+23 
+94 
+73 
+37 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+227 
+1.3 
+4374 
+0.6 
+9.9 
+NV 
+300 
+20 
+94 
+98 
+62 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+279 
+1.6 
+6291 
+0.9 
+13.3 
+NV 
+315 
+25 
+134 
+140 
+175 
+28 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+504 
+3.0 
+14578 
+2.0 
+23.6 
+NV 
+330 
+15 
+133 
+223 
+508 
+273 
+70 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+1229 
+7.2 
+56977 
+7.9 
+27.1 
+N 
+345 
+27 
+166 
+327 
+799 
+290 
+43 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+1662 
+9.8 
+71279 
+9.9 
+23.1 
+Antall obs. 
+487 2913 
+3604 
+6170 
+2493 936 273 
+73 
+33 
+1 
+0 
+0 
+0 
+16983 
+100 
+0 
+0 
+0 
+% 
+2.9 
+17.2 
+21.2 
+36.3 
+14.7 
+5.5 
+1.6 
+0.4 0.2 0.0 0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 15 av 87 
+Tabell 4.3.3. Hastighets- og retningsmatrise av strømdata fra spredningsdyp (70m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+15 
+79 
+137 
+161 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+402 
+5.2 
+11423 
+4.0 
+12.6 
+N 
+15 
+7 
+87 
+78 
+50 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+223 
+2.9 
+4920 
+1.7 
+11.7 
+NØ 
+30 
+8 
+68 
+49 
+21 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+146 
+1.9 
+2659 
+0.9 
+6.4 
+NØ 
+45 
+17 
+54 
+33 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+110 
+1.4 
+1772 
+0.6 
+7.1 
+NØ 
+60 
+9 
+57 
+25 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+92 
+1.2 
+1278 
+0.4 
+6.8 
+Ø 
+75 
+8 
+42 
+21 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+72 
+0.9 
+949 
+0.3 
+5.2 
+Ø 
+90 
+13 
+41 
+15 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+71 
+0.9 
+974 
+0.3 
+6.1 
+Ø 
+105 
+13 
+47 
+32 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+96 
+1.2 
+1457 
+0.5 
+6.0 
+SØ 
+120 
+15 
+57 
+36 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+116 
+1.5 
+1809 
+0.6 
+6.8 
+SØ 
+135 
+12 
+69 
+83 
+41 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+205 
+2.6 
+4412 
+1.6 
+9.4 
+SØ 
+150 
+14 
+94 
+140 
+191 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+447 
+5.8 
+12987 
+4.6 
+12.5 
+S 
+165 
+14 
+104 
+182 
+631 
+134 
+20 
+12 
+5 
+0 
+0 
+0 
+0 
+0 
+1102 
+14.2 
+47507 
+16.7 
+26.8 
+S 
+180 
+15 
+110 
+234 
+849 
+349 
+128 
+81 
+7 
+0 
+0 
+0 
+0 
+0 
+1773 
+22.8 
+95356 
+33.5 
+27.6 
+S 
+195 
+14 
+101 
+151 
+393 
+138 
+18 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+824 
+10.6 
+34868 
+12.3 
+25.0 
+SV 
+210 
+10 
+67 
+96 
+93 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+278 
+3.6 
+7699 
+2.7 
+14.7 
+SV 
+225 
+12 
+55 
+35 
+36 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+138 
+1.8 
+2872 
+1.0 
+8.1 
+SV 
+240 
+15 
+55 
+14 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+98 
+1.3 
+1547 
+0.5 
+8.2 
+V 
+255 
+12 
+49 
+13 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+87 
+1.1 
+1373 
+0.5 
+7.9 
+V 
+270 
+8 
+26 
+21 
+23 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+78 
+1.0 
+1690 
+0.6 
+8.4 
+V 
+285 
+15 
+42 
+31 
+11 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+99 
+1.3 
+1661 
+0.6 
+8.3 
+NV 
+300 
+15 
+45 
+43 
+41 
+6 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+151 
+1.9 
+3895 
+1.4 
+15.4 
+NV 
+315 
+9 
+59 
+69 
+72 
+11 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+221 
+2.8 
+6207 
+2.2 
+16.5 
+NV 
+330 
+15 
+64 
+83 
+170 
+48 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+395 
+5.1 
+15290 
+5.4 
+19.2 
+N 
+345 
+16 
+94 
+132 
+233 
+64 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+546 
+7.0 
+19881 
+7.0 
+17.0 
+Antall obs. 
+301 
+1566 
+1753 
+3065 
+781 
+190 102 
+12 
+0 
+0 
+0 
+0 
+0 
+7770 
+100 
+0 
+0 
+0 
+% 
+3.9 
+20.2 
+22.6 
+39.4 
+10.1 
+2.4 
+1.3 
+0.2 0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 16 av 87 
+Tabell 4.3.4. Hastighets- og retningsmatrise av strømdata fra bunndyp (109m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+22 
+146 
+207 
+261 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+648 
+8.3 
+18273 
+7.5 
+12.2 
+N 
+15 
+17 
+138 
+135 
+115 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+405 
+5.2 
+9543 
+3.9 
+9.7 
+NØ 
+30 
+18 
+99 
+85 
+17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+219 
+2.8 
+3857 
+1.6 
+7.9 
+NØ 
+45 
+15 
+68 
+34 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+125 
+1.6 
+1984 
+0.8 
+8.8 
+NØ 
+60 
+15 
+53 
+19 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+88 
+1.1 
+1128 
+0.5 
+5.4 
+Ø 
+75 
+20 
+51 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+81 
+1.0 
+832 
+0.3 
+4.9 
+Ø 
+90 
+18 
+44 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+74 
+1.0 
+845 
+0.3 
+4.7 
+Ø 
+105 
+16 
+51 
+14 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+82 
+1.1 
+943 
+0.4 
+6.3 
+SØ 
+120 
+14 
+64 
+21 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+105 
+1.4 
+1536 
+0.6 
+10.0 
+SØ 
+135 
+12 
+100 
+56 
+19 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+187 
+2.4 
+3285 
+1.3 
+9.6 
+SØ 
+150 
+17 
+130 
+145 
+138 
+11 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+441 
+5.7 
+11201 
+4.6 
+12.5 
+S 
+165 
+15 
+143 
+245 
+529 
+192 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1140 
+14.7 
+45994 
+18.8 
+18.3 
+S 
+180 
+22 
+136 
+221 
+615 
+509 
+113 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+1618 
+20.8 
+82745 
+33.8 
+20.9 
+S 
+195 
+16 
+122 
+142 
+202 
+45 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+533 
+6.9 
+17179 
+7.0 
+17.9 
+SV 
+210 
+20 
+91 
+61 
+40 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+213 
+2.7 
+4218 
+1.7 
+10.8 
+SV 
+225 
+26 
+78 
+44 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+163 
+2.1 
+2599 
+1.1 
+8.5 
+SV 
+240 
+13 
+56 
+23 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+97 
+1.2 
+1337 
+0.5 
+6.5 
+V 
+255 
+13 
+66 
+26 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+113 
+1.5 
+1648 
+0.7 
+6.5 
+V 
+270 
+17 
+52 
+17 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+91 
+1.2 
+1234 
+0.5 
+6.7 
+V 
+285 
+14 
+48 
+20 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+90 
+1.2 
+1331 
+0.5 
+7.2 
+NV 
+300 
+14 
+66 
+37 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+129 
+1.7 
+2162 
+0.9 
+9.3 
+NV 
+315 
+24 
+69 
+57 
+28 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+180 
+2.3 
+3452 
+1.4 
+11.6 
+NV 
+330 
+20 
+102 
+100 
+112 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+342 
+4.4 
+8820 
+3.6 
+12.1 
+N 
+345 
+21 
+123 
+164 
+282 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+606 
+7.8 
+18381 
+7.5 
+12.8 
+Antall obs. 
+419 
+2096 
+1895 
+2426 
+797 
+135 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+7770 
+100 
+0 
+0 
+0 
+% 
+5.4 
+27.0 
+24.4 
+31.2 
+10.3 
+1.7 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 17 av 87 
+4.4 
+Strømmens hastighetsfordeling 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.4.1. Strømmens hastighetsfordeling på 5m, 15m, spredningsdyp (70m) og bunndyp (109m). 
+Antall observasjoner er indikert på stående akse og hastighetsgruppe på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 18 av 87 
+4.5 
+Strømmens retningsfordeling 
+ 
+Strømmens retning fordelt i 15º-sektorer er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.5.1. Strømmens retningsfordeling på 5m, 15m, spredningsdyp (70m) og bunndyp (109m). 
+Antall observasjoner er indikert på stående akse og 15º-sektorer på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 19 av 87 
+4.6 
+Tidsdiagram – Strømhastighet 
+ 
+Strømmens hastighet under måleperiodene er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.6.1. Tidsdiagram av strømhastighet på 5m, 15m, spredningsdyp (70m) og bunndyp (109m). 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 20 av 87 
+4.7 
+Tidsdiagram – Strømretning  
+ 
+Strømmens retning under måleperiodene er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.7.1. Tidsdiagram av strømretning på 5m, 15m, spredningsdyp (70m) og bunndyp (109m). 
+Strømretning på stående akse og tid på liggende akse. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 21 av 87 
+4.8 
+Tidsdiagram – Temperatur 
+ 
+Temperatur under måleperiodene er oppgitt under. 
+ 
+ 
+ 
+Figur 4.8.1. Tidsdiagram av temperatur på 5m, 15m, spredningsdyp (70m) og bunndyp (109m). 
+Temperatur er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 22 av 87 
+4.9 
+Progressivt vektordiagram 
+ 
+Et progressivt vektordiagram viser hvor langt og hvordan en tenkt merket vannpartikkel som 
+befinner seg i strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperiodene (Figur 
+4.9.1). Dette gir en indikasjon på vannutskiftning under måleperioden. 
+ 
+ 
+Figur 4.9.1. Progressivt vektordiagram for strøm på 5m, 15m, spredningsdyp (70m) og bunndyp 
+(109m). 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 23 av 87 
+4.10 Fordelingsdiagram – Maksimal strømhastighet 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (70m) 
+Bunn (109m) 
+ 
+ 
+Figur 4.10.1. Fordelingsdiagram av maksimal strømhastighet (cm/s) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (70m) og bunndyp (109m) i løpet av måleperiodene.  
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 24 av 87 
+4.11 Fordelingsdiagram – Gjennomsnittshastighet 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (70m) 
+Bunn (109m) 
+ 
+ 
+Figur 4.11.1. Fordelingsdiagram av gjennomsnittlig strømhastighet (cm/s) for hver 15º-sektor på 5m, 
+15m, spredningsdyp (70m) og bunndyp (109m) i løpet av måleperiodene. 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 25 av 87 
+4.12 Fordelingsdiagram – Relativ vannfluks 
+ 
+Relativ vannfluks (%) angir mengden vann som strømmer gjennom en 15˚-retningssektor. Total 
+vannfluks er totalt volum vann som strømmer gjennom alle sektorer i løpet av måleperioden. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (70m) 
+Bunn (109m) 
+ 
+ 
+Figur 4.12.1. Fordelingsdiagram av relativ vannfluks (%) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (70m) og bunndyp (109m) i løpet av måleperiodene. 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 26 av 87 
+4.13 Fordelingsdiagram – Antall observasjoner 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (70m) 
+Bunn (109m) 
+ 
+ 
+Figur 4.13.1. Fordelingsdiagram av antall observasjoner for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (70m) og bunndyp (109m) i løpet av måleperiodene. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 27 av 87 
+4.14 Maksimal strømhastighet i 8 retningssektorer 
+Tabell 4.14.1. Maksimal strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+40.5 
+16.6 
+20.7 
+50.8 
+60.4 
+25.0 
+13.6 
+22.6 
+15m 
+23.1 
+12.8 
+15.2 
+20.2 
+40.2 
+19.6 
+11.2 
+27.1 
+Spredning (70m) 
+17.0 
+7.1 
+6.1 
+12.5 
+27.6 
+14.7 
+8.4 
+19.2 
+Bunn (109m) 
+12.8 
+8.8 
+6.3 
+12.5 
+20.9 
+10.8 
+7.2 
+12.1 
+ 
+ 
+4.15 Gjennomsnittlig strømhastighet i 8 retningssektorer 
+Tabell 4.15.1. Gjennomsnittlig strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+8.2 
+4.8 
+4.2 
+10.6 
+14.2 
+5.5 
+3.8 
+5.6 
+15m 
+6.0 
+3.4 
+2.9 
+5.9 
+10.0 
+4.6 
+3.1 
+6.4 
+Spredning (70m) 
+4.9 
+2.7 
+2.4 
+4.2 
+8.0 
+3.9 
+3.0 
+5.5 
+Bunn (109m) 
+4.6 
+2.7 
+1.8 
+3.6 
+7.4 
+2.9 
+2.4 
+3.7 
+ 
+ 
+4.16 Antall målinger i 8 retningssektorer 
+Tabell 4.16.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+3406 
+1259 
+790 
+2892 
+6384 
+828 
+434 
+990 
+15m 
+3678 
+957 
+672 
+2084 
+6118 
+917 
+545 
+2012 
+Spredning (70m) 
+1171 
+348 
+239 
+768 
+3699 
+514 
+264 
+767 
+Bunn (109m) 
+1659 
+432 
+237 
+733 
+3291 
+473 
+294 
+651 
+ 
+ 
+4.17 Relativ vannutskiftning i 8 retningssektorer 
+Tabell 4.17.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+16.5 
+3.5 
+1.9 
+18.0 
+53.1 
+2.7 
+1.0 
+3.2 
+15m 
+18.5 
+2.7 
+1.7 
+10.2 
+51.0 
+3.5 
+1.4 
+10.8 
+Spredning (70m) 
+12.2 
+2.0 
+1.2 
+6.8 
+62.8 
+4.3 
+1.7 
+9.0 
+Bunn (109m) 
+18.7 
+2.9 
+1.1 
+6.6 
+59.8 
+3.3 
+1.7 
+5.9 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 28 av 87 
+4.18 10-års og 50-års strømhastighet i 8 retningssektorer  
+ 
+Verdier for strøm med returperiode på 10 år og 50 år beregnes ut fra målt maksimal strømhastighet 
+sammen med en multiplikasjonsfaktor som avhenger av lengden på måleperioden (NS 9415:2021). 
+Retningen som er oppgitt i raden under maksstrømmen er retningen til den respektive maksimale 
+strømhastigheten (Tabell 4.18.1 - Tabell 4.18.2). 
+ 
+Tabell 4.18.1. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 5m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+40.5 
+16.6 
+20.7 
+50.8 
+60.4 
+25.0 
+13.6 
+22.6 
+Retning (°) 
+359 
+24 
+100 
+157 
+162 
+210 
+271 
+336 
+10-år (cm/s) 
+(x1.65) 
+67 
+27 
+34 
+84 
+100 
+41 
+22 
+37 
+50-år (cm/s) 
+(x1.85) 
+75 
+31 
+38 
+94 
+112 
+46 
+25 
+42 
+ 
+Tabell 4.18.2. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 15m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+23.1 
+12.8 
+15.2 
+20.2 
+40.2 
+19.6 
+11.2 
+27.1 
+Retning (°) 
+349 
+24 
+108 
+150 
+180 
+207 
+256 
+324 
+10-år (cm/s) 
+(x1.65) 
+38 
+21 
+25 
+33 
+66 
+32 
+18 
+45 
+50-år (cm/s) 
+(x1.85) 
+43 
+24 
+28 
+37 
+74 
+36 
+21 
+50 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 29 av 87 
+4.19 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre i Tabell 4.19.1 indikerer prosent av data (persentil) som er lik eller lavere enn 
+oppgitt strømhastighet (cm/s). 
+ 
+Tabell 4.19.1. Persentilfordeling av strømhastighet (cm/s) for hvert dyp.  
+Persentil 
+5m 
+15m 
+Spredning (70m) 
+Bunn (109m) 
+1 
+0.8 
+0.6 
+0.5 
+0.4 
+10 
+2.6 
+2.0 
+1.7 
+1.4 
+20 
+3.9 
+3.0 
+2.6 
+2.1 
+30 
+5.1 
+3.9 
+3.5 
+2.9 
+40 
+6.5 
+4.9 
+4.4 
+3.5 
+50 
+7.9 
+5.9 
+5.3 
+4.4 
+60 
+9.8 
+7.1 
+6.3 
+5.3 
+70 
+12.1 
+8.6 
+7.5 
+6.4 
+80 
+15.4 
+10.6 
+8.9 
+7.9 
+90 
+20.2 
+13.8 
+11.0 
+10.7 
+95 
+25.0 
+16.8 
+13.9 
+12.7 
+99 
+35.3 
+23.4 
+21.8 
+15.7 
+ 
+4.20 Prosentfordeling av strømhastighet 
+ 
+Oppgitte verdier i Tabell 4.20.1 er rundet av til nærmeste desimal for verdier over 0.1%, mens verdier 
+mellom 0.1% og 0.01% er rundet av til to desimal. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.20.1. Prosent (%) av data per dyp som er lik eller høyere enn oppgitt strømhastighet (cm/s).  
+Strømhastighet 
+(cm/s) 
+5m 
+15m 
+Spredning (70m) 
+Bunn (109m) 
+1 
+98.4 
+97.1 
+96.1 
+94.6 
+3 
+87.2 
+80.0 
+76.0 
+67.6 
+5 
+71.1 
+58.8 
+53.4 
+43.2 
+10 
+38.8 
+22.4 
+14.0 
+12.0 
+20 
+10.4 
+2.2 
+1.5 
+0.03 
+30 
+2.3 
+0.2 
+ 
+ 
+40 
+0.5 
+0.0 
+ 
+ 
+50 
+0.04 
+ 
+ 
+ 
+60 
+0.0 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 30 av 87 
+4.21 Strømfordeling 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike grupper av strømhastighet (cm/s), fordelt 
+i 8 retningssektorer. Strømhastighetsgruppene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. Oppgitte verdier er rundet av til 
+nærmeste desimal for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to 
+desimaler. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.21.1. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 5m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.2 
+0.2 
+0.3 
+0.2 
+0.2 
+0.1 
+0.2 
+0.2 
+1.6 
+1-5 
+5.5 
+4.1 
+2.9 
+3.9 
+3.9 
+2.5 
+1.7 
+2.8 
+27.3 
+5-10 
+8.5 
+2.8 
+1.3 
+5.4 
+9.6 
+1.8 
+0.7 
+2.3 
+32.4 
+10-20 
+5.3 
+0.3 
+0.1 
+5.8 
+15.8 
+0.5 
+0.04 
+0.6 
+28.4 
+20-30 
+0.5 
+ 
+0.0 
+1.2 
+6.3 
+0.02 
+ 
+0.0 
+8.0 
+30-40 
+0.08 
+ 
+ 
+0.3 
+1.4 
+ 
+ 
+ 
+1.8 
+40-50 
+0.0 
+ 
+ 
+0.09 
+0.4 
+ 
+ 
+ 
+0.5 
+50-60 
+ 
+ 
+ 
+0.0 
+0.03 
+ 
+ 
+ 
+0.03 
+60-70 
+ 
+ 
+ 
+ 
+0.0 
+ 
+ 
+ 
+0.0 
+Sum 
+20.1 
+7.4 
+4.6 
+16.9 
+37.6 
+4.9 
+2.6 
+5.9 
+100.0 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 31 av 87 
+Tabell 4.21.2. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 15m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.5 
+0.4 
+0.3 
+0.3 
+0.3 
+0.3 
+0.3 
+0.4 
+2.8 
+1-5 
+8.4 
+4.2 
+3.2 
+5.5 
+6.7 
+3.1 
+2.4 
+4.8 
+38.3 
+5-10 
+9.8 
+1.0 
+0.4 
+5.0 
+13.7 
+1.7 
+0.5 
+4.4 
+36.5 
+10-20 
+3.0 
+0.04 
+0.01 
+1.5 
+13.2 
+0.3 
+0.01 
+2.2 
+20.3 
+20-30 
+0.06 
+ 
+ 
+0.01 
+1.9 
+ 
+ 
+0.05 
+2.0 
+30-40 
+ 
+ 
+ 
+ 
+0.2 
+ 
+ 
+ 
+0.2 
+40-50 
+ 
+ 
+ 
+ 
+0.0 
+ 
+ 
+ 
+0.0 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+60-70 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+21.8 
+5.6 
+3.9 
+12.3 
+36.0 
+5.4 
+3.2 
+11.9 
+100.0 
+ 
+Tabell 4.21.3. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 
+spredningsdyp (70m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.5 
+0.4 
+0.4 
+0.5 
+0.6 
+0.5 
+0.5 
+0.5 
+3.9 
+1-5 
+7.8 
+3.7 
+2.5 
+6.2 
+11.4 
+4.1 
+2.3 
+4.7 
+42.7 
+5-10 
+5.7 
+0.4 
+0.09 
+3.1 
+24.1 
+1.8 
+0.6 
+3.6 
+39.4 
+10-20 
+1.1 
+ 
+ 
+0.1 
+10.1 
+0.2 
+ 
+1.1 
+12.6 
+20-30 
+ 
+ 
+ 
+ 
+1.5 
+ 
+ 
+ 
+1.5 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+60-70 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+15.1 
+4.5 
+3.0 
+9.9 
+47.7 
+6.6 
+3.4 
+9.9 
+100.0 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 32 av 87 
+Tabell 4.21.4. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(109m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.8 
+0.6 
+0.7 
+0.6 
+0.7 
+0.8 
+0.6 
+0.7 
+5.5 
+1-5 
+11.8 
+4.6 
+2.3 
+6.6 
+13.0 
+4.5 
+2.9 
+5.5 
+51.2 
+5-10 
+8.5 
+0.3 
+0.01 
+2.1 
+17.3 
+0.8 
+0.3 
+2.0 
+31.3 
+10-20 
+0.4 
+ 
+ 
+0.2 
+11.3 
+0.01 
+ 
+0.1 
+12.0 
+20-30 
+ 
+ 
+ 
+ 
+0.03 
+ 
+ 
+ 
+0.03 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+60-70 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+21.5 
+5.5 
+3.0 
+9.5 
+42.3 
+6.1 
+3.8 
+8.3 
+100.0 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 33 av 87 
+4.22 Strømvarighet 
+ 
+Verdiene i tabellene under indikerer antall hendelser av strømhastigheter (cm/s) i ulike intervaller 
+med forskjellig varighet. Strømhastighetsintervallene er oppdelt slik at strømhastighetene er større 
+enn oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. De ulike gruppene av varighet 
+er oppdelt på samme måte som strømhastighetsintervallene. 
+ 
+Tabell 4.22.1. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 5m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+31 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1-5 
+416 
+262 
+146 
+29 
+10 
+0 
+0 
+0 
+5-10 
+563 
+327 
+170 
+24 
+6 
+1 
+0 
+0 
+10-20 
+285 
+208 
+137 
+50 
+18 
+4 
+2 
+4 
+20-30 
+107 
+81 
+43 
+10 
+2 
+0 
+0 
+0 
+30-40 
+38 
+20 
+7 
+0 
+0 
+1 
+0 
+0 
+40-50 
+10 
+6 
+2 
+0 
+0 
+0 
+0 
+0 
+50-60 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+60-70 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.22.2. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 15m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+73 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+1-5 
+351 
+333 
+214 
+74 
+21 
+5 
+1 
+1 
+5-10 
+483 
+307 
+207 
+42 
+14 
+6 
+0 
+3 
+10-20 
+158 
+113 
+104 
+54 
+16 
+3 
+3 
+1 
+20-30 
+24 
+24 
+12 
+2 
+0 
+0 
+0 
+0 
+30-40 
+5 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+40-50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+50-60 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+60-70 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 34 av 87 
+Tabell 4.22.3. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 
+spredningsdyp (70m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+46 
+7 
+3 
+0 
+0 
+0 
+0 
+0 
+1-5 
+146 
+108 
+117 
+30 
+21 
+5 
+5 
+0 
+5-10 
+119 
+118 
+76 
+43 
+9 
+9 
+2 
+3 
+10-20 
+52 
+26 
+20 
+10 
+4 
+5 
+0 
+1 
+20-30 
+3 
+0 
+3 
+3 
+0 
+0 
+1 
+0 
+30-40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40-50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+50-60 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+60-70 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.22.4. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på bunndyp 
+(109m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+77 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+1-5 
+158 
+119 
+136 
+49 
+20 
+12 
+2 
+1 
+5-10 
+125 
+106 
+87 
+22 
+7 
+2 
+2 
+0 
+10-20 
+17 
+34 
+21 
+11 
+7 
+5 
+1 
+0 
+20-30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+30-40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40-50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+50-60 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+60-70 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 35 av 87 
+4.23 Tidevannsanalyse 
+ 
+En tidevannsanalyse av strømdata er gjennomført for å vurdere hvor stor andel av det målte signalet 
+som er forårsaket av tidevannet. Tidevannsanalysen er utført ved bruk av analyseverktøyet U_Tide 
+(Codiga, 2011). 
+ 
+Tidevannsanalysen inkluderer alle separerbare tidevannskomponenter (Tabell 4.23.1). Det er også 
+foretatt en analyse med fem separerbare tidevannskomponenter, M2 (12.42 timers periode), S2 (12.00 
+timers periode), N2 (12.66 timers periode), O1 (25.82 timers periode) og K1 (23.93 timers periode), 
+som benyttes i forbindelse med tidevannstabeller (Tabell 4.23.2). 
+ 
+Strøm er splittet i komponentene øst-vest (UEW) og nord-sør (VNS) for å vurdere variasjon i strømdata 
+på de forskjellige dypene (Emery & Thomson, 2001). Krysset markerer gjennomsnittsverdien for 
+hastighetskomponentene og reflekterer den effektive transporthastigheten med tilhørende retning 
+(Figur 4.23.1). Strømellipsens store halvakse (hovedakse) markerer retningen der variasjonen er 
+størst.  
+ 
+Tabell 4.23.1. Tidevannsbidrag til strøm basert på tidevannsanalyse av strømdata i timesverdier. 
+Måledyp 
+5m 
+15m 
+Spredning (70m) 
+Bunn (109m) 
+Strøm (%) 
+38.2 
+54.3 
+39.0 
+66.2 
+ 
+Tabell 4.23.2. Tidevannsbidrag til strøm fra tidevannskomponentene M2, S2, N2, O1 og K1. 
+Måledyp 
+5m 
+15m 
+Spredning (70m) 
+Bunn (109m) 
+Strøm (%) 
+34.0 
+50.1 
+32.2 
+62.2 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 36 av 87 
+ 
+ 
+Figur 4.23.1. UEW – VNS punktdiagram av strømdata i timesverdier, med tilhørende strømellipse. 
+Midtpunktet for strømellipsen er markert med kryss som også markerer strømmens effektive 
+transporthastighet. Vinklene indikerer den store halvaksens orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 37 av 87 
+ 
+ 
+Figur 4.23.2. UEW - VNS tidevannsellipser (fargede linjer) vist sammen med strømellipser (svarte 
+linjer) for 5m, 15m, spredningsdyp (70m) og bunndyp (109m). Midtpunktet for strømellipsene er 
+markert med kryss som også markerer den effektive transporthastigheten. Vinklene indikerer de store 
+halvaksenes orientering i forhold til nord/sør. Aksekors for øst - vest og nord - sør er vist med stiplede 
+linjer. 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 38 av 87 
+4.24 Maksimal strømhastighet, tidevann og vind 
+ 
+Strømhastighet og -retning på 5m dyp, samt tidevann og vind er oppgitt under for en todagersperiode 
+da maksimalstrømmen ved 5m dyp oppstod. 
+ 
+ 
+ 
+Figur 4.24.1. Strømhastighet og -retning, samt tidevann og vind (Solvær III) for perioden hvor 
+maksimalstrømmen på 5m dyp er registrert. 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 39 av 87 
+4.25 Vind under måleperioden 
+ 
+Vinddata er hentet fra værstasjon Solvær III (Meteorologisk institutt, 2022), som ligger ca. 16km 
+sørvest-vest for strømmålingsposisjonen (Figur 4.25.3). 
+ 
+Strøm over 10cm/s på 5m dyp ble sammenlignet med vinddata fra Solvær III fra samme periode. 
+Figur 4.25.2 og figurene i "Vedlegg - Fyrstikkdiagram av vind og strøm" indikerer hvilke tidspunkter 
+vind på Solvær III og målt strøm på 5m dyp hadde omtrent sammenfallende retning. Vannstand i 
+løpet av måleperioden er vist i Figur 4.25.2 og er hentet fra tidevannsstasjon Rørvik (Kartverket, 
+2022), som ligger ca. 191km sørvest for strømmålingsposisjonen (Figur 4.25.3). Vannstand er 
+tilpasset området for målepunktet. 
+ 
+Tabell 4.25.1. Maksimal vindhastighet og prosent av tiden hvor vinden blåste fra de ulike retningene 
+på Solvær III under måleperioden. 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+19.3 
+8.8 
+12.4 
+12.8 
+12.2 
+14.3 
+16.5 
+19.1 
+Tid (%) 
+17.3 
+7.8 
+2.3 
+11.7 
+13.1 
+25.8 
+12.1 
+9.9 
+ 
+Strøm på 5m 
+Vind 
+ 
+ 
+Figur 4.25.1. Rosediagram for strøm (mot retning) på 5m dyp, samt vind (fra retning) på Solvær III 
+værstasjon under måleperioden. Skalaen på diagrammene er ulik. 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 40 av 87 
+Hastighet og retning for strøm og vind er oppgitt i Figur 4.25.2 og i "Vedlegg - Fyrstikkdiagram av 
+vind og strøm" for å vurdere vindpåvirkning på strømmen. I Figur 4.25.2 er vindretning oppgitt som 
+at vind blåser fra en retning, mens i "Vedlegg - Fyrstikkdiagram av vind og strøm" er vindretning 
+oppgitt som at vind blåser mot en retning. Tidevann er også vist i Figur 4.25.2 for å vurdere 
+tidevannspåvirkning.  
+ 
+ 
+ 
+Figur 4.25.2. Strømhastighet (mot retning) på 5m dyp og vindhastighet (fra retning) på Solvær III, 
+strøm- og vindretning, samt vannstand (Rørvik) under måleperioden. Tidspunkter hvor strøm og vind 
+har omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 41 av 87 
+Figur 4.25.3. Posisjonen til Solvær III værstasjon (markert med blå sirkel) og posisjonen til Rørvik 
+tidevannsstasjon (markert med grønn sirkel) i forhold til strømmålingsposisjon (markert med rød 
+pinne). Kartet er hentet fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.  
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 42 av 87 
+4.26 Utslippskontur  
+ 
+Partikler som slippes ut i et gitt punkt med en viss synkehastighet (Bannister, et al., 2016) vil spres 
+med strømmen mens de synker mot bunnen. Med utgangspunkt i målt strøm på spredningsdyp, 
+beregnes utslippskonturen som summen av partikkelens vertikale og horisontale bevegelse bort fra 
+utslippspunktet ved overflaten. Figur 4.26.1 viser retning og avstand for spredning, og i hvilke 
+områder det er mest utslipp som blir liggende på bunn. Fargeskalaen indikerer mengde sedimentasjon 
+som prosentandel (%) av den totale mengden som blir sluppet ut, hvor de røde områdene vil ha størst 
+mengde avfall. Summen av prosentnivået i alle sektorer er lik total mengde utslipp (100%). 
+ 
+Merk at figuren viser utslipp fra ett punkt. Med utslipp fra ett enkelt punkt vil lite avfall havne rett 
+under utslippspunktet, da strømmen alltid vil skape noe spredning. Ved et oppdrettsanlegg er det 
+utslipp over et større område, noe som må inkluderes i vurderingen av spredning av utslipp. 
+ 
+ 
+ 
+Figur 4.26.1. Utslippskontur basert på målte strømhastigheter på spredningsdyp (70m). 
+Akkumulering av avfall vises som prosentandel av utslipp som havner på bunnen, indikert av 
+fargelagte sektorer. Oppløsningen på hver fargelagt sektor er 100m lang og 15° bred. Avstand fra 
+utslippspunktet er markert med en stiplet sirkel for hver 200m. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 43 av 87 
+4.27 CTD-profil  
+ 
+CTD-profil ble målt i sammenheng med utsett og opptak av strømmålere på sprednings- (70m) og 
+bunndyp (109m) henholdsvis 11. mars og 04. mai 2022, samt utsett og opptak av strømmålere på 5m 
+og 15m dyp henholdsvis 20. april og 16. august 2022, i området ved strømriggene.  
+ 
+ 
+ 
+Figur 4.27.1. Vertikalprofiler av saltinnhold, temperatur, tetthet og oksygen. Dypet er oppgitt langs 
+y-aksen. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 44 av 87 
+5. Diskusjon 
+ 
+Strømmen på Kokvika er mot N – SØ/S på 5m og mot N – S på alle andre dyp, som begge stemmer 
+med områdets bunntopografi og fjordens orientering. Strømretningen domineres av motsatt rettede 
+hovedstrømretninger på alle dyp. 87.6% av relativ vannutskiftning på 5m, 69.5% på 15m, 75.0% på 
+spredningsdyp (70m) og 78.5% på bunndyp (109m) skjer langs hovedstrømretningene (Tabell 
+4.17.1). 
+ 
+5.1 
+Høye strømmålinger 
+ 
+Maksimal strømhastighet var 60.4cm/s mot S på 5m, 40.2cm/s mot S på 15m, 27.6cm/s mot S på 
+spredningsdyp (70m) og 20.9cm/s mot S på bunndyp (109m). Maksstrømmen er langs 
+hovedstrømretning og mot S på alle dyp. Maksimal strømhastighet er vurdert som svært sterk på 5m, 
+sterk på 15m og spredningsdyp (70m), og middels sterk på bunndyp (109m). Maksimalmålingen er 
+bare én måling og gir ikke en indikasjon av om strømmen er sterk eller svak i området. 
+ 
+Signifikant maksimal strømhastighet er gjennomsnittet av den høyeste tredjedelen av målingene og 
+gir en indikasjon av styrken på strømmen i området. Denne var 18.6cm/s på 5m, 12.7cm/s på 15m, 
+10.7cm/s på spredningsdyp (70m) og 9.4cm/s på bunndyp (109m). Signifikant maksimal 
+strømhastighet er vurdert som sterk på 5m, og middels sterk på 15m, spredningsdyp (70m) og 
+bunndyp (109m). 
+ 
+Det var tilfeller der strøm var > 30cm/s på 5m og 15m dyp. Høy strømhastighet oppstår uregelmessig 
+på måleposisjonen, og varighet av disse i området er ofte kort (< 2t). Høye strømhastigheter er vurdert 
+forårsaket av vind. 
+ 
+5.2 
+Tidevannspåvirkning 
+ 
+Strømmen er vurdert som tidevannsdominert på 15m og bunndyp (109m) under måleperiodene, da 
+tidevannsbidraget var ≥ 40% (Tabell 4.23.1). Tidevannssignalet dominerte ikke på 5m eller 
+spredningsdyp (70m) under måleperiodene (Tabell 4.23.1).  
+ 
+5.3 
+Vindpåvirkning 
+ 
+Ut fra omkringliggende topografi er det vurdert at vind fra N, NØ og S kan ha betydning for 
+strømforholdene på lokaliteten. Under måleperioden blåste vind mest fra SV samt sterkest fra N og 
+NV (Tabell 4.25.1). 
+ 
+Grunnet friksjon mellom vind og vannoverflate vil vind med betydelig hastighet (> 3m/s) og stabil 
+retning som blåser over en lengre periode ha innvirkning på strømmen. Tilfeller med vindpåvirkning 
+er i dette tilfellet beregnet utfra sammenfallende eller motsatt rettet retninger ved et bestemt tidspunkt, 
+uten hensyn til vindens varighet eller stabilitet.  
+ 
+Hvis de lokale vindforholdene på strømmålingsposisjonen var like de på Solvær III er det vurdert at 
+vind fra N kan ha påvirket strøm mot SØ/S, vind fra NØ kan ha påvirket strøm mot S og vind fra S 
+kan ha påvirket strøm mot N. 
+ 
+Selv om det var tilfeller med vind fra SV og NV som ifølge analysen av vind kan ha påvirket strøm 
+mot henholdsvis N/NØ og SØ/S, er det ikke forventet påvirkning i stor grad siden Kokvika er relativt 
+beskyttet for vind fra SV og NV grunnet omgivende topografi. 
+     
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 45 av 87 
+Værstasjonen har en mer åpen beliggenhet enn strømmålerposisjonen, og det kan dermed forventes 
+noen andre vindretninger lokalt ved måleposisjonen enn på Solvær III. 
+ 
+Det var enkelte tilfeller hvor strøm- og vindretning var motsatt rettet under måleperioden, hvor vind 
+kan ha virket bremsende på målt strømhastighet. 
+ 
+5.4 
+Vannutskiftning  
+ 
+Det er naturlig med strømstille når tidevannet skifter fra flo til fjære eller motsatt. Varigheten av 
+strømstille perioder kan ha betydning for vannutskiftning i et område. Siden vann vil strømme rundt, 
+i tillegg til gjennom eller under et anlegg, er anleggsorientering viktig. Et anlegg orientert slik at det 
+ligger med langsiden mot den dominerende strømretningen vil ha bedre vannutskiftning i merdene 
+enn et anlegg hvor mange av merdene ligger etter hverandre langs hovedstrømmen. Neumann-
+parameteren sier noe om stabiliteten til strømmen. En høy Neumann parameter (f.eks. 0.7) indikerer 
+en retningsstabil strøm. Dette tyder på at vannet strømmer i en retning og beveger seg konstant bort 
+fra startpunktet. En lav Neumann-parameter kan bety at vannstrømmen har skiftende retning og 
+kanskje bare flyter fram og tilbake ved startpunktet. Neumann-parameteren kan brukes opp mot 
+progressivt vektordiagram og gjennomsnittsstrømmen for å kunne si noe om vannutskiftningen ved 
+det punktet hvor strømmen er målt.  
+ 
+Gjennomsnittlig strømhastighet var ≥ 2cm/s på alle dyp. Gjennomsnittlig strømhastighet er vurdert 
+som svært sterk på 5m, og sterk på 15m, spredningsdyp (70m) og bunndyp (109m).  
+ 
+Neumann-parameteren er beregnet til 0.5 på 5m, 0.3 på 15m, 0.5 på spredningsdyp (70m) og 0.4 på 
+bunndyp (109m). Neumann-parameteren er vurdert som stabil på 5m, spredningsdyp (70m) og 
+bunndyp (109m), og som middels stabil på 15m dyp. Strømretninger og vannutskiftning stemmer 
+med områdets bunntopografi. Vannutskiftningen er vurdert som god, fordi vannet beveger seg bort 
+fra startpunktet og ikke bare flyter fram og tilbake. 
+  
+Prosent nullmålinger (< 1cm/s) var mindre enn 10% på alle dyp. Lengst varighet for strøm < 1cm/s 
+var 40 minutter på 5m, 50 minutter på 15m, 90 minutter (1t 30min) på spredningsdyp (70m) og 50 
+minutter på bunndyp (109m). Det var kort periode med strømstille. Dette tyder på god vannutskiftning 
+i området.  
+ 
+5.5 
+Mulig spredning av utslipp 
+ 
+Sprednings- og bunnstrøm er viktig for lokalitetens totale bæreevne. Opphopning av sediment under 
+anlegget kan i noen tilfeller påvirke vannkvaliteten i merden og dermed fiskens levevilkår 
+(Mattilsynet, 2016). På lokaliteter med kort avstand mellom havbunn og notbunn er det viktig at både 
+sprednings- og bunnstrøm viser god vannutskiftning slik at sedimenter ikke hoper seg opp og påvirker 
+vannkvaliteten i merden negativt (Mattilsynet, 2016). Bunntopografi og strømningsforhold har også 
+betydning for utskifting og nedbryting av bunnsedimenter fra anlegget (Mattilsynet, 2016). En ujevn 
+bunn eller en flat bunn med groper gir større risiko for opphopning av sedimenter enn en jevnt 
+skrånende bunn.    
+ 
+Dyp ved målepunktet for sprednings- (70m) og bunndyp (109m) var ca. 140m. Med slike dyp er det 
+god avstand mellom notbunn og havbunn.  Strømmåleposisjonen ligger over en bunn som skråner 
+nedover mot Ø til over 330m midt i fjorden. Bunntopografien er orientert N – S i området for 
+strømmålingsposisjonene. Det er ingen store groper i området. 
+ 
+Det var tilfeller der strøm var > 10cm/s på både spredningsdyp (70m) og bunndyp (109m). Dette er 
+gunstig med tanke på spredning av organisk materiale fra anlegget. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 46 av 87 
+Spredning av utslipp følger strømrosen for spredningsdyp (Figur 4.2.1) og orienteringen til 
+bunntopografien i området. Mye sedimentasjon legger seg mot S (Figur 4.26.1), som er retningen 
+med mest vannutskiftning (Tabell 4.17.1). Med utgangspunkt i målte strømhastigheter på 
+spredningsdyp vil avfall spre seg lengst mot S, opptil 500m vekk fra utslippspunktet. 
+ 
+5.6 
+Vannsøylens vertikale struktur 
+ 
+Vannsøylens stabilitet har vesentlig betydning for sirkulasjon i området og mulighet for blanding 
+vertikalt. En stabil vannsøyle har økende tetthet med økende dyp. Lagdeling i vannsøylen (forårsaket 
+av forskjellige grunner, for eksempel; ferskvannsavrenning, avkjøling/oppvarming av overflatevann, 
+utveksling av vann ved bunnen med kystvann) påvirker spredning av utslipp både horisontalt og 
+vertikalt. 
+ 
+Temperatur under måleperiodene var 5.4 - 14.8°C på 5m, 5.5 - 13.3°C på 15m, 5.0 - 7.1°C på 
+spredningsdyp (70m) og 6.0 - 7.4°C på bunndyp (109m). Temperaturmålingene viser at bunndyp 
+(109m) var varmere enn spredningsdyp (70m). Temperaturen på bunndyp (109m) hadde ingen 
+generell trend i løpet av måleperioden, mens temperaturen på spredningsdyp (70m) økte noe. Det var 
+variasjon i temperaturen på begge dyp, som kan være påvirket av tidevann som bringer vannmasser 
+med ulike temperaturer forbi målepunktet. Videre viser temperaturmålingene at 5m stort sett var 
+varmere enn 15m dyp. Fra april til slutten av mai endret temperaturen seg lite på både 5m og 15m 
+dyp, mens den fra juni til slutten av juli økte. Deretter endret temperaturen seg igjen lite på begge 
+dyp, ut måleperioden. Det var også variasjon i temperatur på 5m og 15m dyp, med tidvis stor 
+variasjon. Større variasjon forekom når temperaturen på begge dyp økte. En mulig årsak til dette er 
+at solen har varmet overflatevannet og at denne oppvarmingen har blitt blandet nedover i vannsøylen 
+ved uregelmessige episoder med vindpåvirkning, som kan ha medført de sporadisk store variasjonene 
+på 5m og 15m dyp under måleperioden. 
+ 
+CTD-målinger i mars, april, mai og august 2022 viser at det var oppvarming av vannsøylen ned til 
+ca. 100m dyp. Dypere enn 100m var temperaturen ganske lik mellom profilene. I mars var 
+temperaturen relativt lik fra overflaten og ned til ca. 55m dyp, før den økte ned mot sjøbunnen. I april 
+og mai var temperaturprofilene like, med gradvis økende temperatur nedover i vannsøylen. I august 
+avtok temperaturen fra overflaten og ned mot sjøbunnen, noe raskere i dybdelaget 45m – 65m. 
+ 
+Saltinnholdet ned til ca. 75m dyp økte noe fra mars til april og mai, mens den avtok igjen til august. 
+Fra 75m dyp og ned til sjøbunnen var saltinnholdet ganske likt mellom profilene. I mars, april og mai 
+økte saltinnholdet gradvis fra overflaten og ned mot bunnen. I august økte saltinnholdet raskt fra 
+overflaten og ned til ca. 25m dyp, før den mer gradvis økte ned til sjøbunnen. Årsaken til et lavere 
+saltinnhold ved overflaten i august kan ha vært forårsaket av ferskvannsavrenning i området mellom 
+mai og august. 
+ 
+Tetthetsdata gjenspeiler saltinnholdet. I mars og mai økte tettheten gradvis med dyp uten noen 
+tydelige lagdelinger i vannsøylen. I april er det indikasjon på et overflatelag ned til ca. 10m og deretter 
+et nytt lag fra ca. 15m dyp og ned til sjøbunnen. I august er det muligens et meget grunt overflatelag 
+som ikke er med i profilen, et nytt vannlag mellom ca. 20m og 45m dyp, og et siste vannlag fra ca. 
+90m dyp og ned til bunnen. 
+ 
+Oksygenmetningen var høy (> 90%) ved overflaten i alle fire profiler. Oksygenmetningen var høyest 
+ved overflaten i april, som kan ha vært forårsaket av algeoppblomstring. Algeoppblomstring 
+forekommer om våren og sommeren, og produserer oksygen ved hjelp av fotosyntese på dybdelag i 
+vannsøylen med sollys (10m – 100m). Oksygenmetningen avtok stort sett fra overflaten og ned til 
+bunnen i alle profiler. Oksygeninnholdet viser lignende mønster som oksygenmetningen. Forskjellen 
+i profilene til oksygenmetning og -innhold kommer av at oksygenmetningen avhenger av 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 47 av 87 
+temperaturen til sjøvannet. Kaldere vann kan holde på mer oksygen, mens varmere vann kan holde 
+på mindre. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 48 av 87 
+6. Vedlegg – Bakgrunnsinformasjon 
+ 
+6.1 
+Valg av sted, dyp og periode for strømmålinger 
+ 
+Valg av målested 
+ 
+Plassering av riggen i forhold til det dypet strømmen skal måles på har stor betydning for målingene. 
+Et av kravene i NS 9415:2009 er at målerne skal plasseres i den posisjonen som sannsynligvis oppgir 
+høyeste strømhastighet på lokaliteten.  
+ 
+• Anleggets geografiske plassering og topografiske utforming av nærområdet må vurderes.  
+Strømmen påvirkes av bukter, viker og elveløp, møtepunkter for fjordsystemer, osv. Dette 
+kan føre til at strømmen skifter retning e.l.  
+• Bunntopografien under anlegget og i området bør vurderes, da ujevnheter kan påvirke 
+strømmens styrke og retning.  
+• Anleggets driftsstatus må vurderes der selve anlegget kan forstyrre målinger på 
+overflatestrømmen. Utestående nøter og fiskebiomasse kan frembringe en skyggeeffekt og 
+muligens redusere strømmen i noen retninger på målinger på både 5m og 15m dyp.    
+ 
+Plasseringen som sannsynligvis oppgir høyeste strømhastighet på en lokalitet er ofte rett utenfor 
+anlegget, lengst unna land. Strømmåling på 5m og 15m dyp som foretas her gir grunnlag for å 
+estimere den sterkeste strømmen anlegget kan bli utsatt for med tanke på dimensjonering.  
+ 
+For strømmåling på sprednings- og bunndyp er foretrukket plassering i anleggets senter, som gir 
+grunnlag for å estimere den representative strømstyrken i anlegget med tanke på spredning av 
+partikler. 
+ 
+Valg av måledyp 
+ 
+Overflatestrømmen måles på 5m dyp. Det tas ikke på 1m på grunn av støy fra bølger. 
+Vannutskiftningsstrøm måles på 15m dyp. 
+Sprednings- og bunnstrøm 
+• Spredningsstrøm måles midt mellom merdbunn og sjøbunn, men ikke dypere enn 50m fra 
+merdbunn. 
+• Bunnstrøm måles ca. 2m over bunn, men ikke dypere enn 100m fra merdbunn. 
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hvert 14.77 døgn, som er 
+tidevannssyklus for spring / nipp, er anbefalt minimum måleperiode 30 dager.  
+ 
+Målingene på 5m og 15m dyp ble gjort i samsvar med NS 9415:2009, der kravet er at målingene skal 
+gjennomføres sammenhengende i minst en måned.  
+ 
+Målingene på sprednings- og bunndyp ble gjort i samsvar med retningslinje for etableringssøknader 
+fra Mattilsynet (Mattilsynet, 2016), der det er anbefalt at målingene skal gjennomføres 
+sammenhengende i minst 4 uker.  
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 49 av 87 
+6.2 
+Spesifikasjoner for strøminstrumenter 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.2.1. Målerne registrerer strømhastighet, 
+strømretning og temperatur.   
+ 
+Tabell 6.2.1. Spesifikasjoner per strøminstrument. 
+Måledyp 
+5m 
+15m 
+Spredning (70m) 
+Bunn (109m) 
+Leverandør 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Instrumenttype, 
+modell 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+ID-nr. 
+5194 
+5259 
+5166 
+5300 
+Cellestørrelse 
+- 
+- 
+- 
+- 
+Kalibrering 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Strømhastighetens 
+nøyaktighet 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+Strømhastighetens 
+rekkevidde / 
+terskelverdi 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+Strømretningens 
+nøyaktighet 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+Kompassorientering 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Kompass justert for 
+misvisning 
+Nei 
+Nei 
+Nei 
+Nei 
+Temperaturens 
+nøyaktighet og 
+rekkevidde 
+0.05ºC,  
+-5ºC til 40ºC 
+0.05ºC,  
+-5ºC til 40ºC 
+0.05ºC,  
+-5ºC til 40ºC 
+0.05ºC,  
+-5ºC til 40ºC 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 50 av 87 
+6.3 
+Måleprinsipp for strømmålinger 
+ 
+Aanderaa punktmåler  
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Det sendes ut en kort lydpuls (akustisk puls) 
+med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de innkommende 
+refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende refleksjon er 
+proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet (vanligvis 
+zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at de derfor 
+beveger seg med samme hastighet som vannet. En punktmåler er satt opp for å måle strøm med én 
+datalogging i et intervall på 10 minutter, basert på 150 ping. 
+ 
+Tabell 6.3.1. Måleprinsipp for en Aanderaa punktmåler. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer samplingsperioder på 10 minutter. I løpet av denne perioden sender 
+instrumentet ut 150 ping. Ett datapunkt gir gjennomsnittet over en 10-minuttersperiode. 
+ 
+6.4 
+CTD-målinger 
+ 
+Hydrografimålinger ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden, med 
+et påmontert lodd, ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden gjør 
+én registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen ved senkning og en 
+ved heving. Profil ved senkning av sonden ble benyttet.  
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 51 av 87 
+7. Vedlegg – Riggoppsett 
+ 
+7.1 
+Riggoppsett 
+ 
+Riggoppsett for målt strøm er beskrevet i Tabell 7.2.1 – Tabell 7.2.2 og skissert i Figur 7.2.1 – Figur 
+7.2.2. Riggen for strømmålinger på sprednings- (70m) og bunndyp (109m) ble hengt fra merd i 
+anlegg. Strømmålere på både sprednings- (70m) og bunndyp (109m) stod grunnere enn planlagt, men 
+er fortsatt vurdert representative for sprednings- og bunnstrøm. 
+ 
+Tabell 7.1.1. Beskrivelse av riggoppsett for strømmålinger på 5m og 15m dyp. 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A3-blåse 
+Blåse 
+1stk 
+ 
+62kg oppdrift 
+Trålkule 11" 
+Kule 
+3stk 
+ 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+5.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+5.0m 
+ 
+Danline 14mm 
+Tau 
+10.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+15.0m 
+ 
+Danline 14mm 
+Tau 
+1.0m 
+ 
+ 
+Jernstein 
+Lodd 
+3stk 
+ 
+2kg 
+Danline 14mm 
+Tau 
+120.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+3stk 
+ 
+30kg 
+ 
+Tabell 7.1.2. Beskrivelse av riggoppsett for strømmålinger på spredningsdyp (70m) og bunndyp 
+(109m). 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+Danline 14mm 
+Tau 
+75.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+75.0m 
+ 
+Danline 14mm 
+Tau 
+55.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+120.0m 
+ 
+Danline 14mm 
+Tau 
+5.0m 
+ 
+ 
+Pærelodd 
+Lodd 
+2stk 
+125.0m 
+5kg 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 52 av 87 
+ 
+Figur 7.1.1. Riggoppsett for strømmålinger på 5m og 15m dyp. 
+ 
+ 
+Figur 7.1.2. Riggoppsett for strømmålinger på sprednings- (70m) og bunndyp (109m). 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 53 av 87 
+8. Vedlegg – Databearbeiding og kvalitetssikring  
+ 
+Før utsett ble fysisk status til hvert instrument kontrollert. Kontrollsjekk inkluderer: batteristatus, 
+instrumentinnstilling, minnestatus og anoder. 
+ 
+Det benyttes et internt kvalitetssystem som følger hver måler for teknisk dokumentasjon. 
+Instrumenttilstand og eventuelt andre kommentarer angående instrumentet oppføres i 
+kvalitetssystemet etter hvert prosjekt.  
+   
+Ved utsett av instrumenter benyttes et internt kvalitetssystem som inkluderer (etter NS 9425-1:1999): 
+lokalitetsnavn, riggoppsett, posisjon, måledyp, kontaktperson og oppdragsgiver, tidspunkt for utsett 
+og opptak, og et kommentarfelt for eventuelle observasjoner ved utsett og opptak.  
+ 
+Ved opptak blir måleinstrumentene undersøkt for begroing, annet som kan ha påvirket målingene, og 
+fysisk skade. Dette kommenteres i kvalitetssystemet og i rapporten, og mulig påvirkning for resultatet 
+blir vurdert. Verdier som er benyttet i rapporten er troverdige og uten behov for støyfiltrering eller 
+annen korreksjon. 
+ 
+Data er kvalitetssikret gjennom interne prosedyrer utviklet i samarbeid med instrumentenes produsent 
+etter bestemte kriterier. Dersom disse kriteriene ikke blir møtt er data kritisk vurdert. Enkeltstående 
+datapunkter blir også vurdert og data fjernes om nødvendig. Både rådata og kvalitetssikret data er 
+lagret på server. 
+ 
+8.1 
+Databearbeiding 
+ 
+Riggtilstand etter måling 
+ 
+Det var begroing på instrumentet på 5m dyp. Ingen data er vurdert som feil eller usikre på grunn av 
+dette. Ellers var det lite begroing og ingen skade på instrumentene. Datakvaliteten anses å være god. 
+ 
+Feil på instrument 
+ 
+Det var ingen feil på instrumentenes sensorer under måleperioden. Datakvaliteten anses å være god. 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 54 av 87 
+Tabell 8.1.1. Opplysninger om strømmålinger og databearbeiding. 
+Måledyp 
+5m 
+15m 
+Spredning (70m) 
+Bunn (109m) 
+Filnavn for rådata 
+Kokvika 5m NS 0822 
+AP5194.bin 
+Kokvika 15m NS 0822 
+AP5259.bin 
+Kokvika spredning NS0522 
+AP5166.bin 
+Kokvika bunn NS0522 
+AP5300.bin 
+Rådata først vurdert i 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Filnavn for eksportert data 
+Kokvika 5m NS0822 
+AP5194_eks_AHG.xlsx 
+Kokvika 15m NS0822 
+AP5259_eks_AHG.xlsx 
+Kokvika spred-70m NS0522 
+AP5166_eks_AHG.xlsx 
+Kokvika bunn-109m NS0522 
+AP5300_eks_AHG.xlsx 
+Filnavn for kvalitetssikret 
+data 
+Kokvika-5m_QC.xlsx 
+Kokvika-15m_QC.xlsx 
+Kokvika-Spredning 
+(70m)_QC.xlsx 
+Kokvika-Bunn 
+(109m)_QC.xlsx 
+Prosentandel data (%) 
+100.00 
+100.00 
+100.00 
+100.00 
+Antall målinger 
+16983 / 16983 
+16983 / 16983 
+7770 / 7770 
+7770 / 7770 
+Antall fjernede/manglende 
+målinger 
+0 
+0 
+0 
+0 
+Ekstern påvirkning på 
+målinger 
+Ja, se vedlegg 8.2 
+Ja, se vedlegg 8.2 
+Ja, se vedlegg 8.2 
+Ja, se vedlegg 8.2 
+Dato og tid for første og 
+siste benyttede strømmåling 
+20.04.22 15:00 -  
+16.08.22 13:20 
+20.04.22 15:00 -  
+16.08.22 13:20 
+11.03.22 11:20 -  
+04.05.22 10:10 
+11.03.22 11:20 -  
+04.05.22 10:10 
+Dato og tid for start og slutt 
+av instrument 
+20.04.22 13:30 -  
+17.08.22 11:20 
+20.04.22 13:10 -  
+17.08.22 11:40 
+10.03.22 12:30 -  
+05.05.22 09:20 
+10.03.22 13:00 -  
+05.05.22 09:30 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 55 av 87 
+8.2 
+Kvalitetssikring av data 
+ 
+Data er kvalitetssikret etter bestemte kriterier (Tabell 8.2.1). Dersom disse kriteriene ikke blir møtt er 
+data kritisk vurdert. Utstikkere blir også vurdert og data fjernet om nødvendig.  
+ 
+Tabell 8.2.1. Kriterier brukt for å kvalitetssikre data. 
+Parameter 
+QC  
+Temperatur 
+Manuell sjekk av data for stabil temp (∆ < 1℃)  
+Helning 
+< 50º (Figur 8.2.2 – Figur 8.2.5) 
+Ping count 
+150 (Figur 8.2.2 – Figur 8.2.5)  
+Trykk 
+Stabilt (Figur 8.2.2 – Figur 8.2.5)  
+Strømhastighet 
+Stabil (ingen store endringer fra en måling til neste måling, Tabell 8.2.2).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+Retning 
+Stabil (ingen store endringer fra en måling til neste måling).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+ 
+Tabell 8.2.2. Teoretiske forskjeller i strømhastighet fra en måling til det neste (IOC, 1993). 
+∆t (min) 
+Teoretisk 
+Faktor 
+Godkjent 
+ 
+u1 – u2 (m/s) 
+ 
+u1 – u2 (m/s) 
+5 
+0.0422 u 
+2.0 
+0.08 
+10 
+0.0843 u 
+1.8 
+0.15 
+15 
+0.1264 u 
+1.6 
+0.20 
+20 
+0.1685 u 
+1.5 
+0.25 
+30 
+0.2523 u 
+1.4 
+0.35 
+60 
+0.5001 u 
+1.2 
+0.60 
+ 
+Tabell 8.2.2 gir teoretiske forskjeller mellom to suksessive målinger av strømhastighet, u1 og u2, for 
+forskjellige måleintervall, Δt (IOC,1993). For å tillate noe naturlig variabilitet i strømhastighet 
+og -retning (inkludert usymmetriske hastighetskurver for tidevannsstrøm) har de teoretiske 
+forskjellene blitt hevet med de oppgitte faktorene, mens strøm (u) er satt til 1m/s ettersom variabilitet 
+øker med avtagende strøm. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 56 av 87 
+Anlegget var i drift under måleperioden. Fra mars til mai var det fisk i deler av anlegget, i 6 av 7 bur 
+i vestsiden av anlegget. I løpet av mai ble flere merder fylt med fisk, slik at 13 av 14 bur var i bruk. 
+Avstand fra rigg med målere på 5m og 15m dyp til anlegget var ca. 80m. Rigg med målere på 
+sprednings- (70m) og bunndyp (109m) ble hengt i selve anlegget. Strømriggenes posisjoner er anvist 
+med gult og rødt kryss i Figur 8.2.1. 
+ 
+Hovedstrømretning er mot N – S/SØ på 5m og mot N – S på 15m dyp. Strøm mot S og SØ er vurdert 
+ikke påvirket av at anlegget var i drift under måleperioden. Strøm mot N, i tillegg til NØ, kan ha blitt 
+påvirket av at anlegget var i drift. Strøm mot NØ er derimot vurdert å ha liten betydning for 
+vannutskiftning, dimensjonerende strøm og spredning i anlegget. Maksimal strømhastighet målt mot 
+S på 5m og 15m dyp (henholdsvis 60.4cm/s mot 162° og 40.2cm/s mot 180°) er vurdert ikke påvirket 
+av at anlegget var i drift, mens maksstrøm målt mot N på begge dyp (henholdsvis 40.5cm/s mot 359° 
+og 23.1cm/s mot 349°) kan ha blitt påvirket. Påvirkningen er derimot vurdert som liten på grunn av 
+avstanden mellom målepunkt og anlegg. 
+ 
+På grunn av målingenes dyp, er strøm på sprednings- (70m) og bunndyp (109m) vurdert å ikke ha 
+blitt påvirket av at anlegget var i drift under måleperioden.  
+ 
+ 
+Figur 8.2.1. Plassering av strømmålere i området anvist med gult kryss for 5m og 15m dyp, og med 
+rødt kryss for sprednings- (70m) og bunndyp (109m). Kart er hentet fra Olex. Kartdatum: WGS84. 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 57 av 87 
+ 
+ 
+Figur 8.2.2. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 5m dyp.  
+ 
+Instrumentdypet varierte mellom 5.1m og 6.0m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 5.5m.  
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 58 av 87 
+ 
+ 
+Figur 8.2.3. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 15m dyp.  
+ 
+Instrumentdypet varierte mellom 15.2m og 16.1m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 15.7m.  
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 59 av 87 
+ 
+ 
+Figur 8.2.4. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, spredningsdyp (70m).  
+ 
+Instrumentdypet varierte mellom 69.2m og 70.2m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 69.8m.  
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 60 av 87 
+ 
+ 
+Figur 8.2.5. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunndyp (109m).  
+ 
+Instrumentdypet varierte mellom 108.5m og 109.5m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 109.1m.  
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 61 av 87 
+8.3 
+Fjernede dataverdier  
+ 
+8.3.1 Måleperiode 
+ 
+Data er fjernet utenfor måleperiodene for å bruke overlappende periode mellom henholdsvis 5m og 
+15m dyp, samt sprednings- (70m) og bunndyp (109m). 
+ 
+8.3.2 Enkelte datapunkter 
+ 
+Ingen andre datapunkter er fjernet. 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 62 av 87 
+9. Vedlegg – Fyrstikkdiagram av vind og strøm 
+ 
+Figurene under viser vind- og strømhastighet i løpet av måleperioden, oppdelt i perioder på to uker. Tidspunkter hvor vind og strøm hadde omtrent 
+sammenfallende retning (grønne prikker) eller motsatt retning (røde prikker) indikerer tilfeller med vindpåvirket strøm. Svak vind (< 3m/s) hvor strøm 
+og vind hadde sammenfallende eller motsatt retning er indikert med oransje prikker. Det er tillatt en vinkel på opptil ± 22.5° ved beregning av om vind 
+og strøm har omtrent sammenfallende eller motsatt retning. 
+ 
+ 
+Figur 9.1. Fyrstikkdiagram av vindhastighet (mot retning) på Solvær III (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 63 av 87 
+ 
+ 
+Figur 9.2. Fyrstikkdiagram av vindhastighet (mot retning) på Solvær III (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 64 av 87 
+ 
+ 
+Figur 9.3. Fyrstikkdiagram av vindhastighet (mot retning) på Solvær III (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 65 av 87 
+ 
+ 
+Figur 9.4. Fyrstikkdiagram av vindhastighet (mot retning) på Solvær III (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 66 av 87 
+ 
+ 
+Figur 9.5. Fyrstikkdiagram av vindhastighet (mot retning) på Solvær III (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 67 av 87 
+10. Vedlegg – Strømmens tilstandsklasser 
+ 
+Tilstandsklasser for strømparametere er oppgitt i tabellen under. Verdiene er hentet fra strømdata 
+målt av Åkerblå ved bruk av Aanderaa punkmålere (Åkerblå, 2015). 
+ 
+Tabell 10.1. Tilstandsklasser for vurdering av strømdata. 
+ 
+Dyp 
+(m) 
+1 
+2 
+3 
+4 
+5 
+Maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 55 
+≥ 40 - < 55 
+≥ 26 - < 40 
+≥ 15 - < 26 
+< 15 
+Utskifting 15 
+≥ 45 
+≥ 30 - < 45 
+≥ 20 - < 30 
+≥ 10 - < 20 
+< 10 
+Spredning  
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Bunn 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Gjennomsnittlig strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 10 
+≥ 7 - < 10 
+≥ 6 - < 7 
+≥ 3 - < 6 
+< 3 
+Utskifting 15 
+≥ 9 
+≥ 6 - < 9 
+≥ 5 - < 6 
+≥ 2 - < 5 
+< 2 
+Spredning  
+≥ 8.5 
+≥ 5 - < 8.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Bunn 
+ 
+≥ 7.5 
+≥ 5 - < 7.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Signifikant maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 25 
+≥ 17 - < 25 
+≥ 11 - < 17 
+≥ 5 - < 11 
+< 5 
+Utskifting 15 
+≥ 23 
+≥ 15 - < 23 
+≥ 8 - < 15 
+≥ 4 - < 8 
+< 4 
+Spredning  
+≥ 20 
+≥ 14 - < 20 
+≥ 7 - < 14 
+≥ 4 - < 7 
+< 4 
+Bunn 
+ 
+≥ 16 
+≥ 11 - < 16 
+≥ 6.5 - < 11 
+≥ 3 - < 6.5 
+< 3 
+Signifikant minimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 6 
+≥ 4 - < 6 
+≥ 2.5 - < 4 
+≥ 1.5 - < 2.5 
+< 1.5 
+Utskifting 15 
+≥ 5 
+≥ 3.5 - < 5 
+≥ 2.3 - < 3.5 
+≥ 1.5 - < 2.3 
+< 1.5 
+Spredning  
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Bunn 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Andel strømstille (%) < 1cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 1 
+< 3 - ≥ 1 
+< 5 - ≥ 3 
+< 7 - ≥ 5 
+≥ 7 
+Utskifting 15 
+< 1 
+< 5 - ≥ 1 
+< 7 - ≥ 5 
+< 10 - ≥ 7 
+≥ 10 
+Spredning  
+< 3 
+< 8.5 - ≥ 3 
+< 15 - ≥ 8.5 
+< 20 - ≥ 15 
+≥ 20 
+Bunn 
+ 
+< 3 
+< 10 - ≥ 3 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Andel strømstille (%) < 3cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 5 
+< 10 - ≥ 5 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Utskifting 15 
+< 5 
+< 15 - ≥ 5 
+< 25 - ≥ 15 
+< 40 - ≥ 25 
+≥ 40 
+Spredning  
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 50 - ≥ 35 
+≥ 50 
+Bunn 
+ 
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 60 - ≥ 35 
+≥ 60 
+Effektiv transport (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 5 
+≥ 2.5 - < 5 
+≥ 1.5 - < 2.5 
+≥ 0.3 - < 1.5 
+< 0.3 
+Utskifting 15 
+≥ 3.5 
+≥ 2 - < 3.5 
+≥ 1 - < 2 
+≥ 0.2 - < 1 
+< 0.2 
+Spredning  
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Bunn 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Neumann-parameter 
+ 
+svært stabil 
+stabil 
+middels stabil 
+lite stabil 
+svært lite stabil 
+Alle dyp (m) 
+> 0.6 
+0.4 - 0.6 
+0.2 - 0.4 
+0.1 - 0.2 
+< 0.1 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 68 av 87 
+11. Vedlegg – Månedlige tidevannsvariasjoner 
+ 
+Strømmålinger er påvirket av blant annet tidevannsstrøm og kan bli påvirket av vind og vær. Månedlige tidevannsvariasjoner er vist i figuren under.    
+ 
+ 
+Figur 11.1. Månedlige tidevannsvariasjoner hvor stolpehøyde angir relativ tidevannsstrøm og stolpefarge indikerer månefaser (oransje – siste kvarter; 
+rød – nymåne; brun – første kvarter; grønn - fullmåne).
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 69 av 87 
+12. Vedlegg – Måleenheter 
+ 
+Alle måleenheter brukt i rapporten er beskrevet i tabellen under. 
+ 
+Tabell 12.1. Måleenheter brukt i rapporten. 
+Beskrivelse 
+Måleenhet 
+Dag og Tid 
+Tidsstempel i tidsserier er gitt ved midnatt, slik 
+at tidsserier starter midnatt før første målepunkt 
+og slutter midnatt etter siste målepunkt. 
+dd.mm.yy hh:mm (UTC) 
+dd.mm (UTC) 
+dd.mm.yyyy hh (UTC) 
+Høyde / Dybde 
+Meter (m) 
+Avstand  
+Kilometer (km) 
+Meter (m) 
+Posisjon / Koordinater 
+Posisjon er oppgitt i koordinatsystemet WGS64 
+(World Geodetic System 1984). 
+GGG (º) MM.MM (') 
+Strømretning (mot) 
+Grader (º) 
+Strømhastighet  
+Centimeter per sekund (cm/s) 
+Vindhastighet 
+Meter per sekund (m/s) 
+Vindretning (fra) 
+Grader (º) 
+Tidevannsnivå 
+Centimeter (cm) 
+Temperatur 
+Grader celsius (℃) 
+Helning 
+Grader (º) 
+Ping Count 
+Antall 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 70 av 87 
+13. Vedlegg – Parametere og beskrivelse 
+ 
+Tabell 13.1. Parametere brukt i rapporten og beskrivelse av disse. 
+Parameter 
+Beskrivelse 
+Sjøtemperatur (℃) 
+Temperatur i vannet målt ved måledyp 
+Strømhastighet 
+Maksimum (cm/s) 
+Høyeste verdi av alle data 
+Gjennomsnitt (cm/s) 
+Matematisk gjennomsnittlig verdi av alle data 
+Minimum (cm/s) 
+Laveste verdi av alle data 
+Signifikant maks (cm/s)  Matematisk gjennomsnitt av høyeste 1/3 av data 
+Signifikant min (cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av data 
+Varians (cm/s)2 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+om data varierte mye mellom suksessivt høye og lave verdier. En høy 
+varians indikerer at datapunkter er meget spredt ut rundt 
+gjennomsnittsverdien, mens en lav varians indikerer at datapunkter er 
+veldig nær gjennomsnittsverdien og derfor også hverandre. 
+Varians 
+= 
+Gjennomsnittet 
+av 
+de 
+kvadrerte 
+forskjeller 
+fra 
+gjennomsnittsverdien. 
+Standardavvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+gjennomsnittlig avstand fra gjennomsnittsverdi. Et høyt standardavvik 
+indikerer stor spredning av data.   
+Standardavvik = kvadratrot (varians). 
+% < x cm/s  
+Mengden strøm med strømhastighet < x cm/s  
+Lengst periode < x cm/s Varighet av lengste periode med strømhastighet < x cm/s 
+Effektiv transport 
+Hastighet (cm/s) 
+Hastighet er en funksjon av posisjon og tid. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, da er effektiv hastighet gitt som den rettlinjede avstanden 
+mellom partikkelens start- og sluttposisjon delt på total tid i 
+måleperioden.   
+Retning (grader) 
+Retning er vinkelen til en linje ut fra origo. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, er resultatretning eller retning av effektiv transport gitt 
+som vinkelen fra partikkelens startposisjon til partikkelens posisjon ved 
+måleperiodens slutt. 
+Neumann-parameter 
+Verdi som indikerer stabiliteten til strømmen. Neumann-parameteren 
+beregnes ut fra forholdet mellom den rettlinjede avstanden mellom en 
+tenkt drivende partikkels start- og sluttposisjon, og partikkelens totale 
+bane i løpet av måleperioden. Stabil strøm (høy Neumann-parameter) 
+betyr at vannet strømmer i «en» retning og beveger seg bort fra 
+startpunktet hele tiden. Ustabil strøm (lav Neumann-parameter) betyr at 
+vannet strømmer i ulike retninger og kanskje bare flyter fram og tilbake 
+ved startpunktet.  For eksempel, en Neumann-parameter på 0.7 betyr at 
+strømmen i løpet av måleperioden strømmer med 70% stabilitet i en 
+bestemt retning. Dette er klassifisert som svært stabil strøm.   
+Vannforflytning 
+(m3/m2/d) 
+Mengden vann som strømmer gjennom en tenkt flate på 1 m2 i løpet av 
+et døgn.  
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 71 av 87 
+14. Vedlegg – Referanser 
+ 
+1. 
+Brukerveiledning. Aanderaa RCM Blue punktmåler. 
+ 
+2. 
+Bannister, R. J., Johnsen, I. A., Hansen, P. K., Kutti, T., & Asplin, L. (2016). Near- and far-
+field dispersal modelling of organic waste from Atlantic salmon aquaculture in fjord systems. 
+ICES Journal of Marine Science, 73, 9, 2408-2419. 
+ 
+3. 
+Codiga, D. L. (2021). Unified Tidal Analysis and Prediction Using the UTide Matlab 
+Functions. Technical Report 2011-01. Graduate School of Oceanography, University of 
+Rhode Island, Narragansett, RI. 59pp. 
+ 
+4. 
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography. 
+Elsevier Science. 
+ 
+5. 
+Fiskeridirektoratet (2021). Avklaring – Bruk av multiplikasjonsfaktorer iht. NS 9415:2021 for 
+fastsettelse av dimensjonerende strømhastigheter basert på måling av strøm over en kortere 
+periode enn ett år. Avklaring – Bruk av multiplikasjonsfaktorer iht. NS 94152021 for 
+fastsettelse av dimensjonerende strømhastighet basert på måling av strøm over e 
+(4023635).pdf, 3 sider. 
+ 
+6. 
+Fiskeridirektoratet (2012). Veileder for utfylling av søknadsskjema for tillatelse til akvakultur 
+i flytende eller landbasert anlegg. Tilgjengelig: http://www.fiskeridir.no/Akvakultur/Registre-
+og-skjema/Skjema-akvakultur/Akvakultursoeknad 
+ 
+7. 
+IOC (1993). Manual of Quality Control Procedures for validation of Oceanographic Data. 
+Tilgjengelig: 
+http://www.iode.org/components/com_oe/oe.php?task=download&id=20423 
+&version=1st%20edition&lang=1&format=1 
+ 
+8. 
+Kartverket (2022). www.kartverket.no/sehavniva 
+ 
+9. 
+Mattilsynet (2016). Statens tilsyn for planter, fisk, dyr og næringsmidler, utgave 6.   
+Etableringssøknader – saksbehandling i tilsynet. Retningslinje til behandling av søknader etter 
+forskrift 17. juni 2008 nr. 823 om etablering og utvidelse av akvakulturanlegg, zoobutikker 
+m.m. 36s. 
+ 
+10. 
+Meteorologisk institutt (2022).  www.seklima.met.no 
+ 
+11. 
+NS 9415:2009. Flytende oppdrettsanlegg. Krav til lokalitetsundersøkelse, risikoanalyse, 
+utforming, dimensjonering, utførelse, montering og drift. Norsk Standard 2009: 101s. 
+ 
+12. 
+NS 9415:2021. Flytende akvakulturanlegg. Lokalitetsundersøkelse, prosjektering, utførelse 
+og bruk. Norsk Standard 2021: 127s. 
+ 
+13. 
+NS 9425-1:1999. Oseanografi – Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 
+6s. 
+ 
+14. 
+Åkerblå 
+(2015). 
+Strømklassifisering. 
+Åkerblå 
+AS-rapport: 
+Strøm- 
+Klassifisering-
+AanderaaPunktMåler-Okt2015, 2 sider. 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 72 av 87 
+15. Vedlegg - Resultater per måned på 5m dyp 
+ 
+15.1 Sammendrag av strømdata 
+ 
+Resultater per måledyp over hele måleperioden er sammenfattet i Tabell 4.1.1. Resultater per måned 
+for 5m dyp er sammenfattet i Tabell 15.1.1. Verdiene er klassifisert (fargelagt) etter: «Vedlegg – 
+Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er forklart i «Vedlegg – 
+Parametere og beskrivelse». 
+ 
+Tabell 15.1.1. Sammendrag av strømdata fra 5m dyp per måned. 
+Måledyp 
+5m-apr22 
+5m-mai22 
+5m-jun22 
+5m-jul22 
+5m-aug22 
+Maksimum (cm/s) 
+39.1 
+60.4 
+51.4 
+50.8 
+40.5 
+Gjennomsnitt (cm/s) 
+9.2 
+9.3 
+10.7 
+10.2 
+10.4 
+Minimum (cm/s) 
+0.2 
+0.1 
+0.0 
+0.1 
+0.0 
+Signifikant maks (cm/s) 
+17.4 
+17.1 
+20.2 
+18.8 
+18.5 
+Signifikant min (cm/s) 
+3.1 
+3.2 
+3.4 
+3.5 
+3.8 
+Varians (cm/s)² 
+47.4 
+50.1 
+68.8 
+58.0 
+47.7 
+Standardavvik (cm/s) 
+6.9 
+7.1 
+8.3 
+7.6 
+6.9 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+1.2 
+1.5 
+2.0 
+1.4 
+1.4 
+Lengste periode < 1cm/s (min) 
+20 
+30 
+30 
+20 
+20 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+14.0 
+14.4 
+13.1 
+11.7 
+10.6 
+Lengste periode < 3cm/s (min) 
+90 
+120 
+130 
+140 
+80 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+64.3 
+66.1 
+58.3 
+60.1 
+57.1 
+Lengste periode < 10cm/s (min) 
+1000 
+1590 
+680 
+1090 
+740 
+% ≥ 30cm/s 
+1.1 
+1.8 
+3.5 
+2.8 
+0.9 
+Lengste periode ≥ 30cm/s (min) 
+110 
+160 
+230 
+250 
+90 
+% ≥ 50cm/s 
+0.0 
+0.09 
+0.05 
+0.02 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+40 
+20 
+10 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+4.7 
+2.6 
+6.0 
+6.2 
+5.7 
+Retning (grader) 
+163 
+157 
+160 
+161 
+165 
+Neumann-parameter 
+0.5 
+0.3 
+0.6 
+0.6 
+0.5 
+Gjennomsnittlig vannforflytning 
+(m³/m²/d) 
+7973 
+8010 
+9254 
+8837 
+8949 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 73 av 87 
+15.2 Strømroser 
+ 
+Strømrosene viser strømhastighet og strømretning for hver måned. Strømroser gir en indikasjon på 
+hovedstrømretning og om tidevannsellipsen er rettlinjet eller sirkulær. 
+ 
+5m-apr22 
+5m-mai22 
+ 
+ 
+5m-jun22 
+5m-jul22 
+ 
+ 
+Figur 15.2.1. Strømroser på 5m dyp i april, mai, juni og juli 2022. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 74 av 87 
+5m-aug22 
+ 
+Figur 15.2.2. Strømroser på 5m dyp i august 2022. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 75 av 87 
+15.3 Tidsdiagram – strømhastighet 
+ 
+Strømhastighet på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 15.3.1. Tidsdiagram av strømhastighet på 5m dyp i april, mai, juni og juli 2022. Strømhastighet 
+er indikert på stående akse og tid på liggende akse. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 76 av 87 
+ 
+ 
+Figur 15.3.2. Tidsdiagram av strømhastighet på 5m dyp i august 2022 og august 2022. Strømhastighet 
+er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 77 av 87 
+15.4 Tidsdiagram – strømhastighet 
+ 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 15.4.1. Tidsdiagram av strømretning på 5m dyp i april, mai, juni og juli 2022. Strømretning er 
+indikert på stående akse og tid på liggende akse. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 78 av 87 
+ 
+ 
+Figur 15.4.2. Tidsdiagram av strømretning på 5m dyp i august 2022 og august 2022. Strømretning er 
+indikert på stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 79 av 87 
+15.5 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt hastighet 
+(cm/s). 
+ 
+Tabell 15.5.1. Persentilfordeling av strømhastighet (cm/s) for 5m dyp per måned. 
+Persentil 
+5m-apr22 
+5m-mai22 
+5m-jun22 
+5m-jul22 
+5m-aug22 
+1 
+0.9 
+0.8 
+0.7 
+0.9 
+0.8 
+10 
+2.5 
+2.4 
+2.6 
+2.7 
+2.8 
+20 
+3.5 
+3.7 
+4.0 
+4.1 
+4.3 
+30 
+4.4 
+4.9 
+5.3 
+5.3 
+5.8 
+40 
+5.6 
+6.1 
+6.6 
+6.7 
+7.1 
+50 
+6.9 
+7.4 
+8.4 
+8.2 
+8.7 
+60 
+9.0 
+8.9 
+10.3 
+10.0 
+10.6 
+70 
+11.5 
+11.0 
+12.9 
+12.2 
+13.0 
+80 
+15.1 
+14.0 
+16.8 
+15.3 
+15.9 
+90 
+18.9 
+18.4 
+22.3 
+20.2 
+20.6 
+95 
+22.5 
+23.3 
+27.3 
+25.0 
+24.0 
+99 
+30.7 
+33.6 
+38.6 
+36.8 
+29.8 
+ 
+15.6 Prosentfordeling av strømhastighet 
+ 
+Verdiene i tabellen indikerer prosent av data som er lik eller høyere enn strømhastighet (cm/s) oppgitt 
+i kolonnen til venstre. 
+ 
+Tabell 15.6.1. Prosent (%) av data for 5m dyp som er lik eller høyere enn oppgitt hastighet. 
+Strømhastighet 
+(cm/s) 
+5m-apr22 
+5m-mai22 
+5m-jun22 
+5m-jul22 
+5m-aug22 
+1 
+98.8 
+98.5 
+98.0 
+98.6 
+98.6 
+3 
+86.0 
+85.6 
+86.9 
+88.3 
+89.4 
+5 
+65.1 
+68.5 
+72.0 
+72.6 
+75.9 
+10 
+35.7 
+33.9 
+41.7 
+39.9 
+42.9 
+20 
+7.5 
+8.1 
+13.3 
+10.5 
+10.9 
+30 
+1.1 
+1.8 
+3.5 
+2.8 
+0.9 
+40 
+ 
+0.4 
+0.9 
+0.6 
+0.04 
+50 
+ 
+0.09 
+0.05 
+0.02 
+ 
+60 
+ 
+0.02 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 80 av 87 
+16. Vedlegg - Resultater per måned på 15m dyp 
+ 
+16.1 Sammendrag av strømdata 
+ 
+Resultater per måledyp over hele måleperioden er sammenfattet i Tabell 4.1.1. Resultater per måned 
+for 15m dyp er sammenfattet i Tabell 16.1.1. Verdiene er klassifisert (fargelagt) etter: «Vedlegg – 
+Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er forklart i «Vedlegg – 
+Parametere og beskrivelse». 
+ 
+Tabell 16.1.1. Sammendrag av strømdata fra 15m dyp per måned. 
+Måledyp 
+15m-apr22 15m-mai22 
+15m-jun22 
+15m-jul22 
+15m-aug22 
+Maksimum (cm/s) 
+40.2 
+33.0 
+31.9 
+23.1 
+35.8 
+Gjennomsnitt (cm/s) 
+7.4 
+7.8 
+7.3 
+5.9 
+7.6 
+Minimum (cm/s) 
+0.2 
+0.1 
+0.1 
+0.1 
+0.1 
+Signifikant maks (cm/s) 
+13.5 
+13.7 
+13.2 
+10.1 
+13.7 
+Signifikant min (cm/s) 
+2.6 
+2.8 
+2.6 
+2.3 
+2.7 
+Varians (cm/s)² 
+29.9 
+27.0 
+26.4 
+14.0 
+30.6 
+Standardavvik (cm/s) 
+5.5 
+5.2 
+5.1 
+3.7 
+5.5 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+2.2 
+2.8 
+3.1 
+3.1 
+2.6 
+Lengste periode < 1cm/s (min) 
+20 
+50 
+40 
+30 
+30 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+20.8 
+17.5 
+19.4 
+23.3 
+19.4 
+Lengste periode < 3cm/s (min) 
+140 
+240 
+230 
+170 
+170 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+76.2 
+71.9 
+76.0 
+86.8 
+74.3 
+Lengste periode < 10cm/s (min) 
+1610 
+900 
+2290 
+2430 
+1220 
+% ≥ 30cm/s 
+0.4 
+0.2 
+0.09 
+0.0 
+0.8 
+Lengste periode ≥ 30cm/s (min) 
+60 
+50 
+30 
+0 
+60 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+2.1 
+2.0 
+3.2 
+1.0 
+3.6 
+Retning (grader) 
+181 
+198 
+175 
+165 
+180 
+Neumann-parameter 
+0.3 
+0.3 
+0.4 
+0.2 
+0.5 
+Gjennomsnittlig vannforflytning 
+(m³/m²/d) 
+6366 
+6699 
+6299 
+5086 
+6602 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 81 av 87 
+16.2 Strømroser 
+ 
+Strømrosene viser strømhastighet og strømretning for hver måned. Strømroser gir en indikasjon på 
+hovedstrømretning og om tidevannsellipsen er rettlinjet eller sirkulær. 
+ 
+15m-apr22 
+15m-mai22 
+ 
+ 
+15m-jun22 
+15m-jul22 
+ 
+ 
+Figur 16.2.1. Strømroser på 15m dyp i april, mai, juni og juli 2022. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 82 av 87 
+15m-aug22 
+ 
+Figur 16.2.2. Strømroser på 15m dyp i august 2022. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 83 av 87 
+16.3 Tidsdiagram – strømhastighet 
+ 
+Strømhastighet på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 16.3.1. Tidsdiagram av strømhastighet på 15m dyp i april, mai, juni og juli 2022. Strømhastighet 
+er indikert på stående akse og tid på liggende akse. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 84 av 87 
+ 
+ 
+Figur 16.3.2. Tidsdiagram av strømhastighet på 15m dyp i august 2022 og august 2022. 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 85 av 87 
+16.4 Tidsdiagram – strømhastighet 
+ 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 16.4.1. Tidsdiagram av strømretning på 15m dyp i april, mai, juni og juli 2022. Strømretning 
+er indikert på stående akse og tid på liggende akse. 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 86 av 87 
+ 
+ 
+Figur 16.4.2. Tidsdiagram av strømretning på 15m dyp i august 2022 og august 2022. Strømretning 
+er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+Strømrapport: Kokvika, Lurøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 87 av 87 
+16.5 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt hastighet 
+(cm/s). 
+ 
+Tabell 16.5.1. Persentilfordeling av strømhastighet (cm/s) for 15m dyp per måned. 
+Persentil 
+15m-apr22 
+15m-mai22 
+15m-jun22 
+15m-jul22 
+15m-aug22 
+1 
+0.7 
+0.5 
+0.6 
+0.6 
+0.6 
+10 
+2.1 
+2.1 
+2.0 
+1.8 
+2.1 
+20 
+2.9 
+3.3 
+3.0 
+2.7 
+3.0 
+30 
+3.9 
+4.4 
+4.0 
+3.5 
+4.0 
+40 
+4.9 
+5.5 
+5.0 
+4.3 
+5.1 
+50 
+5.9 
+6.6 
+6.0 
+5.1 
+6.5 
+60 
+7.0 
+8.2 
+7.3 
+6.1 
+7.9 
+70 
+8.8 
+9.7 
+8.9 
+7.2 
+9.3 
+80 
+11.1 
+11.6 
+11.0 
+8.6 
+11.5 
+90 
+15.2 
+15.0 
+14.4 
+11.0 
+14.4 
+95 
+18.0 
+17.8 
+17.6 
+13.5 
+17.9 
+99 
+25.1 
+23.5 
+23.8 
+17.8 
+28.5 
+ 
+ 
+16.6 Prosentfordeling av strømhastighet 
+ 
+Verdiene i tabellen indikerer prosent av data som er lik eller høyere enn strømhastighet (cm/s) oppgitt 
+i kolonnen til venstre. 
+ 
+Tabell 16.6.1. Prosent (%) av data for 15m dyp som er lik eller høyere enn oppgitt hastighet. 
+Strømhastighet 
+(cm/s) 
+15m-apr22 
+15m-mai22 
+15m-jun22 
+15m-jul22 
+15m-aug22 
+1 
+97.8 
+97.2 
+96.9 
+96.9 
+97.4 
+3 
+79.2 
+82.5 
+80.6 
+76.7 
+80.6 
+5 
+59.1 
+64.1 
+59.6 
+51.4 
+60.9 
+10 
+23.8 
+28.1 
+24.0 
+13.2 
+25.7 
+20 
+2.9 
+2.9 
+2.8 
+0.3 
+3.1 
+30 
+0.4 
+0.2 
+0.09 
+ 
+0.8 
+40 
+0.07

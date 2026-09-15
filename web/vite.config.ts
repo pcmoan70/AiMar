@@ -30,9 +30,17 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,png,geojson,json}'],
         maximumFileSizeToCacheInBytes: 40 * 1024 * 1024, // cases.json is ~20 MB
         navigateFallback: 'index.html',
+        // Opening a bundled file (a document text in a new tab) is a navigation: serve the file, not the app.
+        navigateFallbackDenylist: [/\/data\//],
         // Control the page from the first load so tiles are cached immediately.
         clientsClaim: true,
         runtimeCaching: [
+          {
+            // Extracted document texts: bundled but not precached, cached when first opened.
+            urlPattern: ({ url, sameOrigin }) => sameOrigin && url.pathname.includes('/data/text/'),
+            handler: 'StaleWhileRevalidate',
+            options: { cacheName: 'doc-text', expiration: { maxEntries: 4000, maxAgeSeconds: 365 * DAY } },
+          },
           {
             // Kartverket WMTS base-map tiles
             urlPattern: /^https:\/\/cache\.kartverket\.no\//,

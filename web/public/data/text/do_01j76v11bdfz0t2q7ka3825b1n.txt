@@ -1,0 +1,740 @@
+﻿SAM Notat nr:  
+17-2015 
+ 
+ 
+Strømmåling ved Naustholmen Ø,  
+Nordland Rensefisk AS, Lurøy kommune 
+mai – juni 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 2 av 33 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 3 av 33 
+Innhold 
+ 
+1. 
+Innledning ........................................................................................................................................................ 4 
+2. 
+Material og metode ......................................................................................................................................... 6 
+Strømmåling ........................................................................................................................................................ 6 
+Stasjon 1 .......................................................................................................................................................... 6 
+Stasjon 2 .......................................................................................................................................................... 6 
+Strømdata – Beskrivelse av strømhastighet og vanntransport ........................................................................... 8 
+3. 
+Resultat ........................................................................................................................................................... 9 
+Måleresultater fra Stasjon 1 (utslippspunkt) ...................................................................................................... 9 
+Måleresultater fra Stasjon 2 (planlagt vanninntakspunkt) ............................................................................... 11 
+Tidevann ............................................................................................................................................................ 14 
+4. 
+Vedlegg – Tabeller og Figurer ........................................................................................................................ 15 
+A) 
+Stasjon 1 (utslippspunkt) .......................................................................................................................... 15 
+Strømretning og -hastighet ........................................................................................................................... 15 
+Strømhastighet .............................................................................................................................................. 16 
+Strømretning ................................................................................................................................................. 17 
+Vanntransport ............................................................................................................................................... 18 
+Progressiv vektor ........................................................................................................................................... 19 
+Temperatur ................................................................................................................................................... 19 
+B) 
+Stasjon 2 (planlagt vanninntakspunkt) ...................................................................................................... 20 
+Strømretning og -hastighet ........................................................................................................................... 20 
+Strømhastighet .............................................................................................................................................. 23 
+Strømretning ................................................................................................................................................. 27 
+Vanntransport ............................................................................................................................................... 30 
+Progressiv vektor ........................................................................................................................................... 32 
+Temperatur ................................................................................................................................................... 33 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 4 av 33 
+1. INNLEDNING 
+Uni Research Miljø har på oppdrag av Nordland Rensefisk AS utført strømundersøkelser ved Naustholmen Ø i 
+Lurøy kommune (Figur 1 og 2). Rapporten presenterer resultatene fra strømmålingene utført ved 
+utslippspunktet (Stasjon 1) og ved planlagt nytt vanninntakspunkt (Stasjon 2) til landanlegget Naustholmen Ø 
+tilhørende Nordland Rensefisk AS. Ved Stasjon 1 er det utført målinger fra 8 meters dybde. Utslippspunktet står 
+på omtrentlig 5-8 meters dyp. Ved Stasjon 2 hvor et nytt vanninntak er tenkt plassert er målinger fra dybdene 
+34, 51 og 68 meter presentert.  Strømmålingene er foretatt i perioden 29. mai til 27. juni 2015.  
+ 
+Figur 1. Oversiktskart over fjordsystemet rundt Lovund. Firkant viser kartutsnitt for undersøkelsesområdet. Kartkilde: 
+Fiskeridirektoratet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 5 av 33 
+ 
+ 
+Figur 2 Undersøkelsesområdet. Øst for Naustholmen ved Lovundvika. Plassering av strømmålere er markert med røde 
+sirkler i kartet. Utslippspunkt er vist med lilla firkant. Kart: Fiskeridirektoratet 
+ 
+Figur 3 Undersøkelsesområdet, bunntopografi. Øst for Naustholmen. Plassering av strømmålere er markert med grønne 
+trekanter i kartet. Kart: Olex 
+ 
+ 
+Stasjon 1, (utslipp, 1 dyp)
+Stasjon 2, (3 dyp)
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 6 av 33 
+2. MATERIAL OG METODE 
+Strømmåling 
+Strømmålingene ble gjennomført i henhold til NS 9425-1:1999 (Oseanografi. Del 1: Strømmåling i faste 
+punkter) og NS 9425-2:2003 (Oseanografi - Del 2: Strømmåling i ved hjelp av ADCP). Til strømmålingene ble det 
+benyttet en ADCM (Aqoustic Doppler Current Meter) strømmåler av typen AquaDopp Current Meter 2 MHz 
+(Nortek AS, måler SAM-A) for måling av overflatestrøm. Det ble benyttet ADCP (Acoustic Doppler Current 
+Profiler)- strømmåler av typen AquaDopp Current Profiler 400kHz (Nortek AS, måler SAM-04) til profilmåling av 
+strøm i nedre del av vannsøylen, inkludert bunnstrøm. Begge instrumentene lagrer strømhastighet, 
+strømretning, temperatur, trykk, dato og klokkeslett automatisk hvert 10. minutt. Programvaren Surge (Nortek, 
+v.1.14.01), SeaReport (Nortek, v.1.1.1) og SD6000 (Morten Hammersland Programvare, v.4.6.3.49) brukes til 
+bearbeiding og kvalitetsjekking av dataene.  
+Stasjon 1 
+På Stasjon 1 registrerte måleren (SAM-A) 
+strømforhold på 8 meters dyp. Strømmålerriggen 
+ble satt ut på 21 meters dyp, omlag 60-70 meter 
+fra utslippspunkt (Figur 2). Instrumentdybden var 
+8 meter med måleretning oppover i vannsøylen. 
+Prinsippskisse av strømmålerrigg som måler ned i 
+vannsøylen er vist i Figur 2.  
+Stasjon 2 
+På Stasjon 2 registrerte måleren (SAM-04) 
+strømforhold på 34 og 51 og 68 meters dyp. 
+Strømmålerriggen ble satt ut på 72 meters dyp. 
+Instrumentdybden var 32 meter med måleretning 
+nedover 
+i 
+vannsøylen. 
+Prinsippskisse 
+av 
+strømmålerrigg som måler nedover i vannsøylen 
+er vist i Figur 2.  
+Riggene ble satt ut 26. mai 2015 og hentet 27. juni 
+2015, feltarbeidet er utført av Tone Vassdal. M/S 
+Lovundværing med båtfører Rune Johansen ble benyttet til begge toktene. Ansvarlig for måling og behandling 
+av data er Trond E. Isaksen, Uni Research Miljø. Instrumentene ble kontrollert og programmert med bruk av 
+programvaren AquaPro (Nortek, v.1.36.06) av Trond E. Isaksen før utsett (21. mai 2015). Ingen funksjonsfeil ble 
+registrert. Stasjonsopplysninger er gitt i Tabell 1 og 2. Plassering av målestasjonene er illustrert i Figur 2 og 3. 
+ 
+Figur 4 Prinsippskisse av strømmålerigg. 
+Til venstre: Aquadopp måler nedover i vannsøylen (utført på 
+Stasjon 2).  
+Til høyre: Aquadopp måler oppover i vannsøylen (utført på 
+Stasjon 1).   
+Modifisert skisse fra NS 9424-1:1999 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 7 av 33 
+Tabell 1 Stasjonsopplysninger for Stasjon 1. Strømmåling ved utslippspunktet til landlokaliteten Naustholmen Ø. Det ble 
+benyttet en punktmåler av typen ADCM modell AquaDopp Current Meter 2 MHz (Nortek AS) 
+Koordinater målested, N: 
+66° 22.000 
+Koordinater målested, Ø: 
+012° 22.907 
+Bunndyp (m): 
+21 
+Instrumentdyp (m): 
+8 
+Måleretning: 
+Opp 
+Måleperiode start: 
+ 29.05.15 (kl.08:00) 
+Måleperiode slutt: 
+27.06.15 (kl. 08:00) 
+Måledyp  (m): 
+8 
+Måler nr. 
+SAM-A (AQD11947) 
+Antall målinger 
+4177/4177 
+Rådata (filnavn) 
+SAM-A01.agd 
+ 
+ 
+Tabell 2 Stasjonsopplysninger for Stasjon 2. Strømmåling ved planlagt nytt vanninntakspunkt til landlokaliteten 
+Naustholmen Ø. Det ble benyttet en profilmåler av typen ADCP modell AquaDopp Current Profiler 400kHz (Nortek AS) 
+Koordinater målested, N: 
+66° 21.697 
+Koordinater målested, Ø: 
+012° 23,958 
+Bunndyp (m): 
+72 
+Instrumentdyp (m): 
+32 
+Måleretning: 
+Ned 
+Måleperiode start: 
+29.05.15 (kl. 08:00) 
+Måleperiode slutt: 
+27.06.15 (kl. 08:00) 
+Måledyp #1 (m): 
+34 
+Måler nr. 
+SAM-04 (AQD 11184) 
+Antall målinger 
+4177/4177 
+Rådata (filnavn) 
+SAM-0401.prf 
+  
+Måler nr. 
+SAM-04 (AQD 11184) 
+Måledyp #2 (m) 
+51 
+Antall målinger 
+4177/4177 
+  
+  
+Rådata (filnavn) 
+SAM-0401.prf 
+Måledyp #3, bunnstrøm (m): 
+68 
+Måler nr. 
+SAM-04 (AQD 11184) 
+Antall målinger 
+4177/4177 
+Rådata (filnavn) 
+SAM-0401.prf 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 8 av 33 
+Strømdata – Beskrivelse av strømhastighet og vanntransport 
+Strømstyrke for måleperioden er presentert som gjennomsnittlig hastighet (cm/s) med varians og 
+standardavvik. Stabiliteten til strømhastigheten i måleperioden (spredning i datasettet) beskrives med bruk av 
+standardavvik (= xy, for x=varians og y=0,5). Strømhastigheter vil i de aller fleste tilfeller være gjennomsnittlig 
+strømhastighet ± standardavviket i gjennom hele måleperioden, kun med unntak av enkelte registreringer av 
+maksimal (maks) og minimal (min) strøm.  
+Maksimal (maks) og minimal (min) strøm er hhv høyeste og laveste registrerte hastighet. Signifikant maks-
+strøm og min-strøm er definert som gjennomsnittet av 1/3 av de høyest eller lavest målte hastighetene.  
+Strømretninger blir oppgitt i grader og er nødvendig informasjon i beskrivelse av vanntransporten omkring 
+målepunktet. Effektiv vanntransport og vannutskifting er bestemt av både strømretning og strømhastighet. 
+Vanntransport (relativ vannfluks) omkring målepunktet kan illustreres i sektordiagram som viser hvilke retning 
+vanntransporten er størst.  
+Forholdet mellom strømretning og strømhastighet blir også beskrevet med bruk av progressiv vektoranalyse. 
+Progressiv vektor illustrerer hvordan en tenkt partikkel vil drive med strømmen over tid. En slik «partikkel» vil 
+kunne drive i ulike retninger gjennom måleperioden avhengig av stabiliteten til strømretningen. Neumann-
+parameter (verdi mellom 0 og 1) er brukt som mål for stabilitet til strømretningen. Neumann-parameter er 
+forholdet mellom avstanden i rett linje fra partikkelens posisjon ved start og slutt og den faktiske 
+vandringsruten til partikkelen. Høy Neumann-parameter vil indikere en klar hovedstrømretning, mens 
+tilsvarende lav verdi indikerer strømforhold med hyppige skift i strømretninger. Rest-strøm (cm/s) beskriver 
+den effektive strømhastigheten, beregnet som partikkelens vandringsavstand i rett linje fra startpunktet 
+(posisjon til strømmåleren) til endepunktet dividert med tiden partikkelen brukte. 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 9 av 33 
+3. RESULTAT  
+Instrumentene ble kontrollert både før utsett og etter opptak. Ingen skader eller funksjonsfeil kunne påvises. 
+Begge målerne har fungert fint i hele måleperioden. 
+Måleresultater fra Stasjon 1 (utslippspunkt) 
+Totalt 4500 verdier ble registrert med ADCM-måleren SAM-A. Dette inkluderer verdier registrert før og etter 
+valgt målingsperiode. Til beskrivelse av måledypet (8 m) ble det hentet ut datasett fra perioden 29. mai kl. 
+08:00 til 27. juni kl. 08:00. Dette tilsvarer 4177 registrerte målinger. Kvalitetskontroll av datasettet viste sterke 
+signaler og gode målinger. Ingen målinger ble fjernet fra datasettet. Stasjonsopplysninger og måleperiode er 
+beskrevet 
+i  
+Tabell 1. 
+Måling av strøm på 8 meters dyp viser en tydelig hovedstrøm i sør-sørvestlig retning, men med mye reststrøm i 
+nord-nordøstlig retning (Neumanns-parameter 0,17). Det ble registrert strømsvake perioder i 13,4 % av 
+målingene (< 3 cm/s) og strømstille (0-1 cm/s) i 1,5 % av målingene. Gjennomsnittlig strømhastighet ble målt til 
+7,6 cm/s. 
+Resultater er oppsummert i Tabell 3, Figur 5, Figur 7 og Figur 8. Alle data fra målingene er presentert i Vedlegg 
+A. Dette inkluderer statistisk oppsummering, presentasjon av strømretninger og strømhastigheter for målinger 
+ved 8 meters dyp. 
+ 
+Figur 5 Strømretning på Stasjon 1. Vanntransport (relativ vannfluks, %) på 8 meters dyp. 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 10 av 33 
+ 
+Tabell 3 Oppsummering av målinger på Stasjon 1, ved utslippspunktet til landlokaliteten Naustholmen Ø i perioden 29.mai 
+– 27.juni 2015. 
+Parameter 
+8 m 
+Måleintervall (min) 
+10 
+Midlingsperiode (min) 
+1 
+Strømregistreringer (%) > 30 cm/s (høye strømhastigheter) 
+0 
+Strømregistreringer (%)  < 1 cm/s (nullmålinger) 
+1,5 
+Lengste varighet på nullmålinger 
+20 minutter 
+Antall nullmålingsperioder > 12 timer 
+0 
+Gjennomsnittsstrøm (cm/s) 
+7,6 
+Minimum strømhastighet (cm/s)  
+0 
+Signifikant minimums strøm* (cm/s) 
+3,2 
+Maksimum strømhastighet (cm/s) 
+25,6 
+Signifikant maksimum strøm* (cm/s) 
+12,7 
+Standardavvik (cm/s) 
+4,38 
+Gjennomsnittlig standardavvik (cm/s) 
+0,57 
+Varians ((cm/s)2) 
+19,18 
+De 3 hyppigst forekommende strømhastighetene** (cm/s) 
+10-15, 6-8, 8-10 
+Strømregistreringer, 0-3 cm/s (%)  
+13,4 
+Strømregistreringer > 15 cm/s (%) 
+6,6 
+Relativ vannfluks mot retning 
+Nord og Sør-sørvest 
+Neumanns-parameter 
+0,170 
+Temperaturvariasjon (°C) 
+7,4 - 10,4 
+*Gjennomsnittet av 1/3 målingene som viser lavest /høyest verdi. 
+** Prosent (%) av målinger, gruppert i synkende rekkefølge 
+ 
+ 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 11 av 33 
+Måleresultater fra Stasjon 2 (planlagt vanninntakspunkt) 
+Totalt 4502 verdier ble registrert fra hver celle med ADCP-måleren SAM-04. Dette inkluderer verdier registrert 
+før og etter valgt målingsperiode. Til beskrivelse av de ulike dypene (34 m, 51 m og 68 m) ble det hentet ut 
+datasett fra perioden 29. mai kl. 08:00 til 27. juni kl. 08:00. Dette tilsvarer 4177 registrerte målinger fra hvert 
+dyp. Kvalitetskontroll av datasettet viste sterke signaler og gode målinger på alle nivå i vannsøylen. Ingen 
+målinger ble fjernet fra datasettet. Stasjonsopplysninger og måleperiode er beskrevet i Tabell 2. 
+Måling av strøm på 34 meters dyp viser en lite ensrettet hovedstrøm i nord-nordøstlig retning, med betydelig 
+reststrøm i hovedsakelig sørvestlig retning (Neumanns-parameter 0,146). Det ble registrert strømsvake 
+perioder i 14,9 % av målingene (< 3 cm/s) og strømstille (0-1 cm/s) i 2,2 % av målingene. Gjennomsnittlig 
+strømhastighet ble målt til 7,1 cm/s. 
+Måling av strøm på 51 meters dyp viser ingen tydelig hovedstrømretning (Neumanns-parameter 0,043). Det ble 
+registrert strømsvake perioder i 16,3 % (< 3 cm/s) av målingene og strømstille (0-1 cm/s) i 2,4 % av målingene. 
+Gjennomsnittlig strømhastighet ble målt til 6,6 cm/s. 
+Måling av strøm på 68 meters dyp viser en tydelig hovedstrøm i østlig retning (Neumanns-parameter 0,207), 
+med noe reststrøm i vestlig retning. Det ble registrert strømsvake perioder i 16,2 % (< 3 cm/s) av målingene og 
+strømstille (0-1 cm/s) i 2,4 % av målingene. Gjennomsnittlig strømhastighet ble målt til 6,9 cm/s. 
+Resultater er oppsummert i Tabell 4, Figur 6, Figur 7 og Figur 8. Alle data fra målingene er presentert i Vedlegg 
+B. Dette inkluderer statistisk oppsummering, presentasjon av strømretninger og strømhastigheter for målinger 
+ved 34, 51 og 68 meters dyp.  
+ 
+Figur 6 Strømretning på Stasjon 2. Vanntransport (relativ vannfluks, %) på ulike dyp. 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 12 av 33 
+Tabell 4 Oppsummering av målinger på stasjon 2, ved planlagt nytt vanninntakspunkt for landlokaliteten Naustholmen Ø i 
+perioden 29.mai – 27.juni 2015. 
+Parameter 
+34 m 
+51 m 
+68 m 
+Måleintervall (min) 
+10 
+10 
+10 
+Midlingsperiode (min) 
+1 
+1 
+1 
+Strømregistreringer (% ) > 30 cm/s 
+0 
+0 
+0,4 
+(høye strømhastigheter) 
+Strømregistreringer (%)  < 1 cm/s 
+(nullmålinger) 
+2,2 
+2,4 
+2,4 
+Lengste varighet på nullmålinger 
+20 minutter 
+20 minutter 
+10 minutter 
+Antall nullmålingsperioder > 12 timer 
+0 
+0 
+0 
+Gjennomsnittsstrøm (cm/s) 
+7,1 
+6,6 
+6,9 
+Minimum strømhastighet (cm/s)  
+0 
+0 
+0,1 
+Signifikant minimums strøm* (cm/s) 
+3,1 
+2,9 
+2,9 
+Maksimum strømhastighet (cm/s) 
+27,3 
+24,9 
+48,1 
+Signifikant maksimum strøm* (cm/s) 
+11,6 
+10,8 
+11,6 
+Standardavvik (cm/s) 
+4,01 
+3,64 
+4,48 
+Gjennomsnittlig standardavvik (cm/s) 
+0,56 
+0,55 
+0,65 
+Varians ((cm/s)2) 
+16,06 
+13,22 
+20,1 
+De 3 hyppigst forekommende strømhastighetene** 
+(cm/s) 
+6-8, 10-15, 8-10 
+6-8, 10-15, 1-3 
+6-8, 10-15, 1-3 
+Strømregistreringer, 0-3 cm/s (%)  
+14,9 
+16,3 
+16,2 
+Strømregistreringer > 15 cm/s (%) 
+4,5 
+2,5 
+4,4 
+Relativ vannfluks mot retning 
+Nord-nordøst (sørvest) 
+ - 
+Øst (vest) 
+Neumanns-parameter 
+0,146 
+0,043 
+0,207 
+Temperaturvariasjon (°C) 
+                7,0 - 8,8 
+*Gjennomsnittet av 1/3 målingene som viser lavest /høyest verdi. 
+** Prosent (%) av målinger, gruppert i synkende rekkefølge 
+ 
+ 
+ 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 13 av 33 
+ 
+Figur 7. Vanntransport (m3/m2/dag) ved Stasjon 1 (øverst) og Stasjon 2 (nederst) på hhv. 8 og 68 meters dyp.
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 14 av 33 
+Tidevann 
+Strømhastighet på de målte dypene ser ut til i mindre grad å være styrt av tidevann i denne undersøkelsen. 
+Tidevannsinformasjon er hentet for Lovund (www.sehavniva.no). Beregnet tidevann for Lovund i perioden 29. 
+mai til 27. juni 2015 er vist i Figur 10. Det er brukt normalnull (1954) som referansenivå i tidevannsprofilen. 
+ 
+ 
+Figur 8 Tidevann i perioden 29. mai til 27. juni 2015. Beregnet tidevannprofil for Lovund er vist. Kilde: sehavnivå.no 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 15 av 33 
+4. VEDLEGG – TABELLER OG FIGURER 
+A) Stasjon 1 (utslippspunkt) 
+Strømretning og -hastighet 
+ 
+Tabell 5 Strømretning og -hastighet. Stasjon 1, måledyp: 8 m 
+ 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 16 av 33 
+Strømhastighet 
+ 
+Figur 9 Prosent av målingene per strømhastighetskategori. Stasjon 1, måledyp: 8 m. 
+ 
+ 
+Figur 10 Strømhastighet i måleperioden. Stasjon 1, måledyp: 8 m. 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 17 av 33 
+ 
+Figur 11 Maksimum og gjennomsnittsstrømhastighet fordelt på retning. Stasjon 1, måledyp: 8 m. 
+ 
+Strømretning 
+ 
+Figur 12 Prosent av målingene per strømretning. Stasjon 1, måledyp: 8 m. 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 18 av 33 
+ 
+Figur 13 Strømretning i måleperioden. Stasjon 1, måledyp: 8 m 
+ 
+Vanntransport 
+ 
+Figur 14 Vanntransport målt som relativ vannfluks (%) og antall målinger per 15° sektor. Stasjon 1, måledyp: 8 m 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 19 av 33 
+Progressiv vektor 
+ 
+Figur 15 Progressiv vektor. Stasjon 1, måledyp: 8 m 
+ 
+Temperatur 
+ 
+Figur 16 Temperatur i måleperioden på instrumentdyp (8 m) ved Stasjon 1. 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 20 av 33 
+B) Stasjon 2 (planlagt vanninntakspunkt) 
+Strømretning og -hastighet 
+ 
+Tabell 6 Strømretning og -hastighet. Stasjon 2, måledyp #1 (34 m)  
+ 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 21 av 33 
+Tabell 7 Strømretning og -hastighet. Stasjon 2, måledyp #2 (51 m)  
+ 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 22 av 33 
+Tabell 8 Strømretning og -hastighet. Stasjon 2, måledyp #3 (68 m) 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 23 av 33 
+Strømhastighet 
+ 
+Figur 17 Prosent av målingene per strømhastighetskategori. Stasjon 2, måledyp #1 (34 m). 
+ 
+ 
+Figur 18 Prosent av målingene per strømhastighetskategori. Stasjon 2, måledyp #2 (51 m). 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 24 av 33 
+ 
+ 
+Figur 19 Prosent av målingene per strømhastighetskategori. Stasjon 2, måledyp #3 (68 m). 
+ 
+ 
+Figur 20 Strømhastighet i måleperioden. Stasjon 2, måledyp #1 (34 m). 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 25 av 33 
+ 
+ 
+Figur 21 Strømhastighet i måleperioden. Stasjon 2, måledyp #2 (51 m). 
+ 
+ 
+Figur 22 Strømhastighet i måleperioden. Stasjon 2, måledyp #3 (68 m). 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 26 av 33 
+ 
+Figur 23 Maksimum og gjennomsnittsstrømhastighet fordelt på retning. Stasjon 2, måledyp #1 (34 m). 
+ 
+ 
+Figur 24 Maksimum og gjennomsnittsstrømhastighet fordelt på retning. Stasjon 2, måledyp #2 (51 m). 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 27 av 33 
+ 
+Figur 25 Maksimum og gjennomsnittsstrømhastighet fordelt på retning Stasjon 2, måledyp #3 (68 m). 
+ 
+Strømretning 
+ 
+Figur 26 Prosent av målingene per strømretning. Stasjon 2, måledyp #1 (34 m). 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 28 av 33 
+ 
+ 
+Figur 27 Prosent av målingene per strømretning. Stasjon 2, måledyp #2 (51 m). 
+ 
+Figur 28 Prosent av målingene per strømretning. Stasjon 2, måledyp #3 (68 m). 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 29 av 33 
+ 
+Figur 29 Strømretning i måleperioden Stasjon 2, måledyp #1 (34 m). 
+ 
+ 
+Figur 30 Strømretning i måleperioden. Stasjon 2, måledyp #2 (51 m). 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 30 av 33 
+ 
+Figur 31 Strømretning i måleperioden. Stasjon 2, måledyp #3 (68 m). 
+ 
+Vanntransport 
+ 
+Figur 32 Vanntransport målt som relativ vannfluks (%) og antall målinger per 15° sektor. Stasjon 2, måledyp #1 (34 m). 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 31 av 33 
+ 
+Figur 33 Vanntransport målt som relativ vannfluks (%) og antall målinger per 15° sektor. Stasjon 2, måledyp #2 (51 m). 
+ 
+ 
+Figur 34 Vanntransport målt som relativ vannfluks (%) og antall målinger per 15° sektor. Stasjon 2, måledyp #3 (68 m). 
+ 
+ 
+ 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 32 av 33 
+Progressiv vektor 
+ 
+Figur 35 Progressiv vektor. Stasjon 2, måledyp #1 (34 m). 
+ 
+ 
+Figur 36 Progressiv vektor. Stasjon 2, måledyp #2 (51 m). 
+P.nr: 809592 
+Strømmåling - Naustholmen Ø 
+Lurøy kommune 
+ 
+ 
+Side 33 av 33 
+ 
+Figur 37 Progressiv vektor. Stasjon 2, måledyp #3 (68 m). 
+ 
+Temperatur 
+ 
+ 
+Figur 38 Temperatur i måleperioden på instrumentdyp (32 m) ved Stasjon 2.

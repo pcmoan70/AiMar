@@ -198,7 +198,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
                     <small className="muted">
                       {e.entity} · {t(`case.${e.type ?? 'internal'}`)}
                     </small>
-                    <CaseDocs docs={cases.docs?.[e.id]} />
+                    <CaseDocs entry={e} docs={cases.docs?.[e.id]} />
                   </li>
                 ))}
               </ul>

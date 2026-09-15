@@ -1,0 +1,260 @@
+﻿Risikoanalyse- Inntak av smittestoff via ferskvannsinntak 
+Oppdrag 
+Sisomar AS er et gjennomstrømningsanlegg som henter ferskvann fra Straumvatnet. I forbindelse 
+med biosikkerhetsplan det ønskelig med en analyse av risikoen for at det skal kunne tas inn 
+smittestoff via ferskvannsinntaket som kan overføres inn i anlegget og utløse sykdom i de ulike 
+avdelingene. Vi gjør oppmerksom på at risikovurderingene vil variere noe ut ifra hvilken bakterie- 
+eller virustype som legges til grunn avhengig av bakteriens eller virusets egenskaper knyttet til 
+dets motstandsdyktighet mot ulike desinfeksjonsmidler, forekomst og overlevelse i ferskvann. I 
+denne risikoanalysen er det smittebarrierens generelle effekt på patogener som kan føres inn i 
+anlegget via ferskvannsinntaket som vurderes. For risikoen knyttet til hvert enkelt patogen vises 
+det til de patogenspesifikke risikovurderingene. 
+ 
+Risikomatrise DNV AS 
+ 
+5 
+ 
+10 
+ 
+15 
+ 
+20 
+ 
+25 
+     
+ 4 
+ 
+8 
+ 
+12 
+ 
+16 
+ 
+20 
+ 
+3 
+ 
+6 
+ 
+9 
+ 
+12 
+ 
+15 
+ 
+2 
+ 
+4 
+ 
+6 
+ 
+8 
+ 
+10 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+>12 
+ 
+Kritisk 
+ 
+6-12 
+ 
+Betydelig 
+ 
+<6 
+ 
+Ubetydelig
+Sannsynlighetsmodell  
+Nivå 
+Sannsynlighet 
+1 
+>10 år 
+2 
+5-10 år 
+3 
+2-5 år 
+4 
+0,5-2 år 
+5 
+< 0,5 år 
+ 
+Konsekvensmodell 
+ 
+Nivå 
+Beskrivelse 
+1 
+Ubetydelig 
+Ubetydelige skader eller 
+belastninger på mennesker, fisk 
+og/eller materielle verdier 
+2 
+Mindre alvorlig 
+Små skader eller belastninger på 
+mennesker, fisk og/eller 
+materielle verdier
+3 
+Alvorlig 
+Alvorlige skader og belastninger 
+på mennesker, fisk og/eller 
+materielle verdier
+4 
+Kritisk 
+Kritiske skader på mennesker, 
+fisk og/eller materielle verdier
+5 
+Katastrofal 
+Katastrofal skade eller 
+belastning på mennesker, fisk 
+og/eller materielle verdier
+ 
+Aktuell vurdering: 
+Følgende agens antas å være aktuelle i forhold til opptak via ferskvannsinntak; HPR0 (ILA), Yersinia 
+ruckeri (Yersiniose), Branchiomonas cysticola (Epiteliocystis) og SGPV (Laksepox). 
+Risikofaktorer 
+Ønsket 
+beskyttel
+sesnivå 
+Sannsynlig
+het 
+Konsekvens 
+Risiko 
+Risikohåndtering 
+Overføring av patogener 
+gjennom ferskvannsinntak 
+ 
+> 5-10 år 
+ (2) 
+Alvorlig 
+(3) 
+6 
+1) Behandling av 
+ferskvann med UV 
+2) Overvåkning av 
+agensforekomst i 
+akvakulturanlegget 
+3) Regelmessig 
+nedvask av avdeling. 
+ 
+ 
+ 
+ 
+Bakgrunnsdata aktuelle agens 
+Følgende agens antas å være aktuelle i forhold til opptak via ferskvannsinntak; HPR0 (ILA), Yersinia ruckeri 
+(Yersiniose), Branchiomonas cysticola (Epiteliocystis) og SGPV (Laksepox). 
+UVer som er på inntaksvann har stråledoser fra 15 til 25 mJ/cm2. Dette er doser som tar knekkene på 
+mange agens som ILAV, yersinia og en rekke bakterier (se tabell under). Dose vil derimot ikke være sterk 
+nok til å ta knekken på agens som PRV, AGD, BKD og en rekke parasitter. Per dags dato foreligger det ikke 
+studier på hvilken dose som kreves for å inaktivere agens som laksepox og branchiomonas, som potensielt 
+kan smitte via ferskvannsinntak. Det er derfor ukjent om dose som vil bli benyttet ved Sisomar vil inaktivere 
+disse.  
+Fiskepatogen
+UV-dose
+Virkning
+Referanse
+ILAV
+7,7 mJ/cm2
+99,9 %
+IPN
+246 mJ/cm2
+99,9 %
+BKD
+60 mJ/cm2
+PMCV
+Yersinia Ruckeri
+5,0 mJ/cm2
+99,999 %
+Litvedt and Landfald 1996
+Branchiomonas Cysticola
+SGPV (Pox)
+PRV (HSMB)
+50,0 mJ/cm2
+99,9 %
+Wesselet al. 2020
+SAV (PD)
+25,0 mJ/cm2
+99,9 %
+Aeromonas Salmonicida 
+subsp. (Furunkulose) 
+3,1 mJ/cm2
+99,999 %
+Litvedt and Landfald 1996
+VHSV
+1,8 mJ/cm2
+99,9 %
+IHNV
+4,0 mJ/cm2
+99,9 %
+AGD (Gjelleamøbesykdom)
+48,0 mJ/cm2
+Vibrio anguillarum 
+(Vibriose) 
+2,7 mJ/cm2
+99,999 %
+Vibrio salmonicida 
+(Kaldtvannsvibriose) 
+2,7 mJ/cm2
+99,999 %
+Chlorella vulgaris
+22 mJ/cm2
+Listeria monocytogenes
+16 mJ/cm2
+99,999 %
+Pseudomonas fluorescens
+11 mJ/cm2
+99,9 %
+Flavobacterium 
+psychrophilum 
+126 mJ/cm2
+Saprolegnia
+40-170 mJ/cm2
+Costia
+318 mJ/cm2
+99,9 %
+Trichodina
+35 mJ/cm2
+99,9 %
+Log -1= 90 %     Log -2= 99% Log -3 = 99,9 %  Log -4 = 99,99%  Log -5 = 99,999 % 
+ 
+Konklusjon 
+ 
+Ferskvannskilder som benyttes er ikke registrerte kilder for anadrom fisk, men anlegget vet at det kommer 
+opp fisk fra Straumenvassdraget og har derfor UV-behandling på vannet. Sisomar har lagt opp til en 
+inntaksbehandling av ferskvannet som vurderes til begrenset beskyttelse da UV-doser er satt til 15-25 
+mJ/cm2. Dette er doser som inaktiverer flere alvorlige smittsomme sykdommer som ILAV og yersinia 
+ruckeri, men vil ikke ta knekken på virus som PRV. Ferskvannskilder til Sisomar har en god og stabil 
+vannkvalitet og benyttes som drikkevannskilde til kommunen. Siden vannet er partikkelfritt og klart har 
+anlegg har ikke sett behov filtrering før UV-behandling. Hvis vannets UV-transmisjon ikke viser seg å være 
+tilstrekkelig for å opprettholde ønsket UV-intensitet (15-25 mJ/cm2) anbefaler DNV forfiltering av vannet 
+før UV.  
+ 
+Totalt sett vurderer DNV AS risikoen for at det skal kunne tas inn smittestoff fra ferskvannskilden som svær 
+lav for majoriteten av aktuelle agens, mens det stilles større usikkerhet til agens som POX og 
+branchiomonas. Hvis noen patogener allikevel skulle trenge gjennom barrierene er det avgjørende at slike 
+blir oppdaget så tidlig som mulig gjennom overvåkningsprogrammet og at man kan igangsette tiltak som 
+vask og desinfeksjon for å fjerne patogenet. Sammenlignet med resirkuleringsanlegg er det mindre 
+sannsynlig at det utvikles husstammer hvis smittsom sykdom kommer inn i anlegget, da det er lettere å få 
+gjennomført fullstendig rengjøring av avdelinger. Sisomar har utviklet gode rutiner for overvåkning av 
+fiskegrupper og nedvask av alle avdelinger mellom fiskegrupper.  
+ 
+ 
+Iris Jenssen 
+Fiskehelsebiolog  
+DNV Aquaculture and Ocean Health AS

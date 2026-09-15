@@ -1,0 +1,2480 @@
+﻿2609-11-23S DYPINGAN 
+ 
+ 
+ 
+ 
+ 
+                        
+ 
+Vannstrømmåling ved 
+Dypingan, Vega kommune, 
+september – november 2023 
+ 
+Sjøgård - the Sea Farm AS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Etter Norsk Standard NS 9415:2021 og NS 9425-2:2003 
+   AQUA KOMPETANSE AS 
+ 
+ 
+2023 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+1 
+ 
+ 
+Rapportens tittel: 
+Vannstrømmåling ved Dypingan, Vega kommune, september – november 2023 
+Måleperiode: 
+29.09.–08.11.2023 
+Rapportdato: 22.12.2023 
+Rapportnummer: 2609-11-23S 
+Antall sider uten vedlegg: 32 
+Antall sider totalt: 41 
+Oppdragsgiver: 
+Sjøgård - the Sea Farm AS 
+Kontaktperson: 
+Jan Pfister 
+Prosjektleder: 
+Bjørnar H. Røsvik 
+Lokalitet: Dypingan 
+Kommune: Vega 
+Fylke: Nordland 
+Instrumenttype: 
+Aquadopp Profiler 
+Dybde målested: 
+ca. 44 meter 
+Koordinater for instrumentrigg: 
+65°34.533 N, 11°55.825 Ø 
+Resultatoversikt 
+6 meter 
+25 meter 
+39 meter 
+Gjennomsnitt (cm/s): 
+10.5 
+8.0 
+7.1 
+Maksimalhastighet (cm/s): 
+36.0 
+28.6 
+35.7 
+Minimumshastighet (cm/s): 
+0.1 
+0.0 
+0.1 
+Varians (cm²/s²): 
+38.3 
+23.2 
+17.8 
+Strømstyrke 0-1 cm/s (%): 
+1.2 
+1.8 
+2.2 
+Hovedstrømretning: 
+vest 
+vest 
+sørøst 
+ 
+ 
+ 
+ 
+Emneord: 
+havstrøm, vannstrøm, spredningsstrøm, bunnstrøm, Aquadopp Profiler, 
+doppler 
+ID 2268-1.1 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig: 
+ 
+Bjørnar H. Røsvik 
+Kvalitetssikrer: 
+ 
+Hege G. Frøysa 
+ 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org.nr.: 982 226 163 
+© 2023 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+2 
+ 
+Innhold 
+Innledning ................................................................................................................................................... 3 
+Materiale og metode ................................................................................................................................... 4 
+Instrument og oppsett ............................................................................................................................. 4 
+Måledyp .................................................................................................................................................. 4 
+Målepunkt ............................................................................................................................................... 5 
+Kvalitetssikring av rådata ......................................................................................................................... 5 
+Meteorologi og vannstand ....................................................................................................................... 5 
+Tidevann .................................................................................................................................................. 6 
+Kort vurdering ............................................................................................................................................. 8 
+Resultater .................................................................................................................................................... 8 
+Tidsserie - strømhastighet .......................................................................................................................10 
+Tidsserie - strømretning ..........................................................................................................................12 
+Strømrose - gjennomsnittlig strømhastighet ...........................................................................................14 
+Strømrose - maksimal strømhastighet .....................................................................................................16 
+Histogram - strømhastighet ....................................................................................................................18 
+Histogram - strømretning ........................................................................................................................20 
+Spredningsdiagram - strømretning og -hastighet .....................................................................................22 
+Strømrose - vanntransport (fluks) ...........................................................................................................24 
+Vektor - progressiv vektor .......................................................................................................................26 
+Tabell - retning med returperiode ...........................................................................................................28 
+Referanser ..................................................................................................................................................32 
+Vedlegg A - Riggtegning ..............................................................................................................................33 
+Vedlegg B - Sensorfigurer ............................................................................................................................34 
+Sensorer - trykk registrert av instrument .................................................................................................34 
+Sensorer - instrumenthelning (tilt) ..........................................................................................................35 
+Sensorer - sjøtemperatur ........................................................................................................................35 
+Vedlegg C - Meteorologi- og vannstandsfigurer...........................................................................................36 
+Vedlegg D - Tidevannsanalyse .....................................................................................................................37 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+3 
+Innledning 
+Aqua Kompetanse AS har på oppdrag fra Sjøgård - the Sea Farm AS utført strømundersøkelser ved Dypingan 
+i Vega kommune (Figur 1 og 2). Aqua Kompetanse har stått for instrumentutsett, kvalitetssikring av data samt 
+rapportering. Rapporten presenterer en oppsummering av resultatene fra strømmålingene, og er bygd på 
+forutsetningen om at leseren studerer følgende data og figurer nøye. Strømmålingene ble foretatt i perioden 
+29.09.–08.11.2023. Rådata finnes oppbevart hos Aqua Kompetanse AS, og er tilgjengelig ved forespørsel. 
+ 
+Figur 1: Oversiktskart over deler av Vega kommune, samt deler av Brønnøy kommune. Innrammet kartutsnitt i rødt viser 
+undersøkelsesområdet ved Dypingan. Målestokk vises øverst i figuren. Kartkilde: Olex. 
+ 
+Figur 2: Undersøkelsesområdet ved Dypingan. Posisjon for plassering av strømrigg er markert med grønt kryss. 
+Målestokk vises øverst i figuren. Kartkilde: Olex. 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+4 
+Materiale og metode 
+Strømmålingene ved Dypingan er gjennomført i henhold til NS 9425-2:2003 (Standard Norge, 2003). 
+Målingene er utført på et planlagt nytt anlegg for tareoppdrett, og det var ikke noen annet utstyr enn 
+instrumentrigg for måling av vannstrøm ved måleposisjonen. 
+Instrument og oppsett 
+For å måle vannstrøm er det benyttet én 400kHz akustisk strømmåler (AQK022PR) produsert av Nortek AS 
+(Tabell 1).  Akustiske strømmålere bruker dopplerskift for å beregne strømhastighet og -retning, og refereres 
+ofte til som dopplermålere. Se oversikt over måleprinsipp og dopplereffekten i Nortekgroup (u.å.). I oppsettet 
+av instrumentene er det antatt at saltholdigheten i vannmassene strømmålingene er utført i er 35 ppt. 
+Instrumentet benytter denne verdien, sammen med kontinuerlige temperaturmålinger i instrumentdypet, til 
+å beregne lydhastigheten som videre brukes til å beregne dopplerskiftet. I tillegg til vannstrøm registrerer 
+instrumentene trykk, instrumenthelning og sjøtemperatur kontinuerlig (Vedlegg B). Den profilerende 
+måleren har et instrumentoppsett på 25 celler à 2 meter som gir en teoretisk rekkevidde på 50 meter. 
+Instrumentene måler vannstrøm hvert 10. minutt gjennom hele måleperioden og tidsangivelsene er 
+tidspunktet for når midlingsperioden starter. Alle tidspunkt i rapporten er angitt i UTC+0 (Coordinated 
+Universal Time), med mindre annet er spesifisert. Målingene er korrigert for en østlig magnetisk misvisning 
+på 5.06° (Kartverket, 2021). Videre er instrumentene satt opp med koordinatsystemet ENU (East North Up), 
+hvor positiv x-retning er mot øst, positiv y-retning er mot nord, og positiv z-retning er opp. 
+Tabell 1: Informasjon om instrumentoppsett og måletidspunkt. 
+Parametere 
+AQK022PR 
+Målertype 
+Aquadopp Profiler 
+Hode-ID / Kort-ID 
+AQP 11811 / AQD17072 
+Frekvens (kHz) 
+400 
+Måleretning 
+Opp 
+Kompassoppdateringsrate (s) 
+1 
+Måleintervall (s) 
+600 
+Midlingsperiode (s) 
+95 
+Målebelastning (%) 
+100 
+Antall celler (#) 
+25 
+Cellestørrelse (m) 
+2 
+Blindsone (m) 
+1.00 
+Instrumentdyp (m) 
+43.5 
+Tidsrom for gyldige 
+29.09.23 11:10 – 08.11.23 12:00 
+Lengde måleperiode (dager) 
+40 
+Måledyp 
+Strømundersøkelsen er gjennomført uten at det har vært anlegg i sjøen på en lokalitet planlagt benyttet til 
+taredyrkning. I denne måleserien er det tatt utgangspunkt i dyrkingsdybde på 6 meter, og dybden på 
+målestedet er omtrent 44 meter. Ved bestemmelse av korrekt måledyp for spredning- og bunnstrøm ble det 
+tatt utgangspunkt i føringene gjeldende ved tidspunktet for utsetting av strømriggen. Spredningsstrømmen 
+skal måles midt mellom dyrkingsdybde og sjøbunnen, og vil i dette tilfellet være på 25 meters dyp. Måleserien 
+er i dette tilfellet hentet fra dette dypet. 
+Bunnstrømmen skal måles 1 meter over bunnen, og skal i dette tilfellet være hentet fra 43 meters dyp. På 
+grunn av instrumentriggens konfigurasjon er det i dette tilfellet rapportert bunnstrøm på 39 meters dyp for 
+å få gode strømdata. Man har likevel sett på statistikk for dypene nedover i vannsøylen at 
+vanntransportrosene er tilsvarende ned til 42 meters dyp. Dermed vurderes måleserien på 39 meters dyp å 
+representere bunnstrømmen tilstrekkelig.  
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+5 
+Målepunkt 
+Strømmålingene i sprednings- og bunndypet er utført for å vurdere hvordan algebiomasse kan spres ved 
+taredyrkning etter krav fra forurensingsloven, slik en kan vurdere lokalitetens bæreevne. Måleposisjonen bør 
+derfor være representativ for å kunne estimere dette. Man har i tillegg valgt å rapportere vannstrømmen på 
+6 meters dyp, da dette er dyrkningsdybden og kan være interessant med tanke på potensiell spredning av 
+algebiomasse. I planlegging av måleposisjon og navigering ved utsett av strømrigg er kartverktøyet Olex 
+benyttet. Dypingan er en ny lokalitet, og det er dermed ikke noen faste installasjoner som potensielt kan 
+forstyrre målingene. Instrumentriggen er derfor plassert sørøst i trinn 3 av planlagt anleggsramme. 
+Kvalitetssikring av rådata 
+Det er foretatt en manuell og automatisk kvalitetskontroll av datasettene med programvarene SeaReport og 
+Storm. Referansenivået som er benyttet i prosessering av strømdata fra den profilerende strømmåleren er 
+havoverflaten. Det vil si at vannstrøm fra 6, 25 og 39 meters dyp er relativt til havoverflaten, og programvaren 
+henter dermed til enhver tid ut data fra valgt dyp. 
+I den automatiske og manuelle kvalitetssikringen er det ulike kriterier og vurderinger som er lagt til grunn, 
+blant annet instrumenthelning, signalstyrke, generell troverdighet til målingene, samt raske 
+vannstrømhastighet- og retningsforandringer fra datapunkt til datapunkt. Datasettene er av god kvalitet og 
+det er ikke manuelt fjernet noen datapunkt.  
+Meteorologi og vannstand 
+For å vurdere den meteorologiske påvirkningen på registrert vannstrøm, er meteorologisk data fra 
+nærliggende målestasjoner benyttet. Meteorologiske data er hentet fra Norsk Klimaservicesenter, et 
+samarbeid mellom Meteorologisk institutt, Norges vassdrags- og energidirektorat, NORCE og 
+Bjerknessenteret (Norsk Klimaservicesenter, 2023). Nettsiden samler meteorologisk data fra hele landet og 
+flere stasjoner langs norskekysten. De ulike stasjonene er utstyrt med ulike sensorer, men i hovedsak 
+registreres vindhastighet- og retning, temperatur og trykk ved de fleste stasjoner. For Dypingan er 
+meteorologisk data hentet fra den meteorologiske stasjonen Vega-Vallsjø (4 moh.), lokalisert omtrent 14 km 
+nordvest for Dypingan (gul sirkel, Figur 3). Data er hentet ut med en målefrekvens på 10 minutter og oppgis 
+i UTC+0. I Vedlegg C presenteres meteorologisk data; middelvind (middelverdi av vindhastigheten de siste 
+10 minuttene før observasjonstiden) og vindretning (middelverdi av vindretning siste 10 minutter). 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+6 
+ 
+Figur 3: Topografisk oversiktskart over deler av Vega kommune, samt deler av Brønnøy kommune. Posisjon for den 
+meteorologiske stasjonen Vega-Vallsjø er markert med gul sirkel og ligger 14 km unna lokaliteten Dypingan, som er 
+markert med grønn sirkel. Målestokk vises nederst i figuren. Kartkilde: Kartverket, Norgeskart (2023a). 
+Tidevann 
+Det astronomiske tidevannet drives av gravitasjonskreftene mellom jorden, månen og solen. I tillegg fører 
+jordrotasjon til at vi opplever flo og fjære to ganger i døgnet. Langs norskekysten øker tidevannsforskjellene 
+jo lengre nord og øst en kommer, i Stavanger er den omkring 0.5 m, Bergen 1 m, Rørvik 2 m, Tromsø 3 m og 
+Vardø 4 m (Gjevik, B. 2009). Tidevannet består av flere hundre komponenter hvorav 45 er astronomiske. De 
+øvrige komponentene oppstår gjerne over grunn og kompleks bunntopografi, og i de fleste områder har de 
+et betydelig mindre bidrag enn de astronomiske (Pawlowicz m. fl., 2002). 
+I denne rapporten er tidevannsanalysen utført med programvaren U-Tide som er implementert i MATLAB 
+(Codiga, 2011). UTide baserer seg på harmonisk analyse som tar utgangspunkt i det målte strømsignalet. 
+Metoden bryter opp den målte vannstrømmen i retning øst-vest (u) og nord-sør (v) og henter ut bidraget fra 
+de ulike tidevannskomponentene i tilsvarende retninger (utide, vtide). I tillegg beregnes det individuelle 
+bidraget til de 45 astronomiske komponentene, der resultatet kan presenteres som en tidevannsellipse. 
+Ellipsens store halvakse er oppgitt som strømstyrken orientert langs den dominerende strømretningen. 
+Verdien på lille halvakse viser den svakeste strømmen som er orientert vinkelrett på store halvakse (Thomson 
+og Emery, 2014). For eksempel vil ellipsen i et sund der strømmen følger bunntopografien være ganske flat, 
+mens ute i åpnere havområder vil denne ellipse være rundere. 
+Reststrømmen (urest, vrest) er definert som differansen mellom den målte strømmen og tidevannsstrømmen 
+(u – utide, v – vtide). Reststrømmen er summen av alle andre krefter enn tidevann, for eksempel vannstrøm 
+som oppstår på grunn av endringer i vind, trykk og tetthet. 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+7 
+Resultatet av tidevannsanalysen er presentert i Vedlegg D. Tabell D.1 presenterer de dominerende 
+tidevannskomponentene. Figur D.1 presenterer variansellipsen for vannstrøm og tidevannsstrøm og Figur 
+D.2 og utover presenterer tidsserier av tidevannsstrøm og reststrøm for hvert dyp. 
+Det er definert to ulike forhold som representerer bidraget av tidevann på den målte vannstrømmen for 
+hvert dyp, variansforhold og størrelsesforhold (Tabell D.2). Variansforholdet sammenligner variansen av 
+tidevannsstrømmen med variansen av den målte vannstrømmen (Formel 1). Dette forholdet angir hvor mye 
+av variabiliteten som skyldes tidevannsstrømmen i prosent. Dersom variansforholdet er 0 % utgjør 
+tidevannsstrømmen ingen variabilitet, dersom det er 50 % utgjør tidevannsstrømmen halvparten av 
+variabiliteten og dersom det er 100 % utgjør tidevannsstrømmen all variabilitet av den målte vannstrømmen. 
+Formel 1: 
+ 
+Størrelsesforholdet (Formel 2) er et mål som sammenligner styrken på tidevannet (over brøkstreken) med 
+den sammenlagte styrken av tidevannsstrøm og reststrøm (under brøkstreken). Størrelsesforholdet er 
+beregnet for hvert målepunkt, og deretter er det tatt et gjennomsnitt over hele måleperioden med n antall 
+målinger. Dette forholdet angir hva som er absolutt bidrag fra tidevannsstrøm og reststrøm i prosent. 
+Størrelsesforholdet vil variere mellom 0 % og 100 %, der 50 % betyr at tidevannsstrøm og reststrøm er like 
+sterke. Dersom forholdet er over 50 % er tidevannsstrømmen sterkest og dersom forholdet er under 50 % er 
+reststrømmen sterkest. 
+Formel 2 
+ 
+Det presenteres to ulike forholdstall fordi variansforholdet kan gi inntrykk av at tidevannet utgjør en veldig 
+stor eller veldig liten del av vannstrømmen, mens størrelsesforholdet ofte presenterer et mer balansert 
+forhold mellom tidevannsstrøm og reststrøm. Begge forholdstallene er statistiske verdier beregnet for hele 
+måleserien, og vil variere etter for eksempel hvor mange stormer som oppstår i måleperioden. 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+8 
+Kort vurdering 
+Vannstrømmen ved Dypingan er styrt av batymetrien i måleområdet, og er i hovedsak drevet av tidevannet. 
+Vannstrømmen i all dyp er tidevannsstyrt og øker systematisk ved springflo som opptrer hver 14. dag. Størst 
+vanntransport er rettet mot vest på 6 og 25 meters dyp, og mot sørøst på 39 meters dyp.  
+Resultater 
+I denne måleserien fra Dypingan er gjennomsnittlig vannstrøm 10.5, 8.0 og 7.1 cm/s på 6, 25 og 39 meters 
+dyp, og maksimalhastigheten er henholdsvis 36.0, 28.6 og 35.7 cm/s. Det er registrert lite strømstille i 
+måleperioden på alle undersøkte dyp. 
+Lokalitet Dypingan er lokalisert sørøst for Vega i et område med mye små holmer og skjær. Planlagt 
+anleggsområde er orientert vest-øst, med flere grunner på vestsiden av anlegget. På østsiden av 
+måleposisjonen er det et noe dypere basseng som strekker seg sørover mot Vegafjorden. Siden det generelt 
+er grunt i området, er det ikke egnet for kommersiell matfiskproduksjon. Det er også godt med strøm i hele 
+vannsøylen som gjør området godt egnet til taredyrking.  
+Vannstrømmen på 6 og 25 meters dyp har størst vanntransport mot vest, med sekundærkomponenter mot 
+sørøst. I hovedsak opptrer størst vanntransport mot vest på ebbende sjø, mens typisk mot sørøst på fløende 
+sjø. Den største registrerte strømhastigheten er registrert mot vest den 16.10 i en periode med springflo. I 
+denne perioden er det også registrert høye vindhastigheter fra nordvest ved den meteorologiske stasjonen 
+Vega-Vallsjø (Vedlegg C). Dette ser vi igjen ved at det i denne perioden er både sterk strøm på ebbende sjø 
+mot vest og fløende sjø mot sørøst, som antagelig blir forsterket av vindpådraget.  
+Bunnstrømmen på 39 meters dyp har størst vanntransport mot sørøst, med en sekundærkomponent mot 
+vest. Den høyeste registrerte hastigheten er mot øst på fløende sjø den 31.10 i en periode med springflo. 
+Vannstrømmen på vei inn fra vest går trolig rundt grunnene i vest og skaper antagelig høyere hastigheter 
+mot øst langs bunnen.  
+Nedenfor presenteres tabeller og figurer med statistikk og resultater. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+9 
+Tabell 2: Statistikk og nøkkeltall fra utført strømmåling. 
+Parametere 
+6 meter 
+25 meter 
+39 meter 
+Gyldige målinger/totalt (#) 
+5766/5766 
+5766/5766 
+5766/5766 
+Andel gyldige målinger (%) 
+100 
+100 
+100 
+Gjennomsnittsstrøm (cm/s) 
+10.5 
+8.0 
+7.1 
+Maksimalstrøm (cm/s) 
+36.0 
+28.6 
+35.7 
+Minimumstrøm (cm/s) 
+0.1 
+0.0 
+0.1 
+Strømstyrke 0-1 cm/s (%) 
+1.2 
+1.8 
+2.2 
+Strømstyrke 1-3 cm/s (%) 
+7.0 
+11.8 
+14.4 
+Neumann-parameter 
+0.30 
+0.32 
+0.31 
+Standardavvik (cm/s) 
+6.2 
+4.8 
+4.2 
+Varians (cm²/s²) 
+38.3 
+23.2 
+17.8 
+Signifikant maksimum strømhastighet 
+(cm/s) 
+17.7 
+13.7 
+12.0 
+Signifikant minimum strømhastighet 
+(cm/s) 
+4.3 
+3.2 
+2.9 
+De 4 hyppigst forekommende 
+strømretningsgruppene (°) 
+255 - 270 
+240 - 255 
+270 - 285 
+105 - 120 
+255 - 270 
+270 - 285 
+240 - 255 
+120 - 135 
+135 - 150 
+120 - 135 
+255 - 270 
+240 - 255 
+De 4 hyppigst forekommende 
+strømhastighetsgruppene (cm/s) 
+ 
+5 - 7 
+7 - 9 
+9 - 11 
+3 - 5 
+3 - 5 
+5 - 7 
+7 - 9 
+1 - 3 
+3 - 5 
+5 - 7 
+7 - 9 
+1 - 3 
+Mest vannutskiftning / retning / 15° sektor 
+ 
+1675 m³/m² per dag 
+ved 255 - 270 
+999 m³/m² per dag 
+ved 255 - 270 
+574 m³/m² per dag 
+ved 135 - 150 
+Minst vannutskiftning / retning / 15° 
+sektor 
+35 m³/m² per dag ved 
+0 - 15 
+36 m³/m² per dag 
+ved 0 - 15 
+53 m³/m² per dag 
+ved 0 - 15 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+10 
+Tidsserie - strømhastighet 
+ 
+Figur 4: Vannstrømhastighet (cm/s) på 6 meters dyp ved Dypingan i perioden 29.09.–08.11.2023 (UTC+0). 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+11 
+Figur 5: Vannstrømhastighet (cm/s) på 25 meters dyp ved Dypingan i perioden 29.09.–08.11.2023 (UTC+0). 
+ 
+ 
+Figur 6: Vannstrømhastighet (cm/s) på 39 meters dyp ved Dypingan i perioden 29.09.–08.11.2023 (UTC+0). 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+12 
+Tidsserie - strømretning 
+ 
+Figur 7: Vannstrømretning (°) på 6 meters dyp ved Dypingan i perioden 29.09.–08.11.2023 (UTC+0). 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+13 
+Figur 8: Vannstrømretning (°) på 25 meters dyp ved Dypingan i perioden 29.09.–08.11.2023 (UTC+0). 
+ 
+ 
+Figur 9: Vannstrømretning (°) på 39 meters dyp ved Dypingan i perioden 29.09.–08.11.2023 (UTC+0). 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+14 
+Strømrose - gjennomsnittlig strømhastighet 
+ 
+Figur 10: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 6 meters dyp ved Dypingan i perioden 
+29.09.–08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+Figur 11: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 25 meters dyp ved Dypingan i perioden 
+29.09.–08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+15 
+ 
+Figur 12: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 39 meters dyp ved Dypingan i perioden 
+29.09.–08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+16 
+Strømrose - maksimal strømhastighet 
+ 
+Figur 13: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 6 meters dyp ved Dypingan i perioden 29.09.–
+08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+Figur 14: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 25 meters dyp ved Dypingan i perioden 29.09.–
+08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+17 
+ 
+Figur 15: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 39 meters dyp ved Dypingan i perioden 29.09.–
+08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+18 
+Histogram - strømhastighet 
+ 
+Figur 16: Frekvensfordeling av vannstrømhastighet på 6 meters dyp ved Dypingan i perioden 29.09.–08.11.2023. 
+ 
+ 
+Figur 17: Frekvensfordeling av vannstrømhastighet på 25 meters dyp ved Dypingan i perioden 29.09.–08.11.2023. 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+19 
+ 
+Figur 18: Frekvensfordeling av vannstrømhastighet på 39 meters dyp ved Dypingan i perioden 29.09.–08.11.2023. 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+20 
+Histogram - strømretning 
+ 
+Figur 19: Frekvensfordeling av vannstrømretning for hver 15° sektor på 6 meters dyp ved Dypingan i perioden 29.09.–
+08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+Figur 20: Frekvensfordeling av vannstrømretning for hver 15° sektor på 25 meters dyp ved Dypingan i perioden 29.09.–
+08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+21 
+ 
+Figur 21: Frekvensfordeling av vannstrømretning for hver 15° sektor på 39 meters dyp ved Dypingan i perioden 29.09.–
+08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+22 
+Spredningsdiagram - strømretning og -hastighet 
+ 
+Figur 22: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 6 meters dyp 
+ved Dypingan i perioden 29.09.–08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+Figur 23: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 25 meters dyp 
+ved Dypingan i perioden 29.09.–08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+23 
+ 
+ 
+Figur 24: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 39 meters dyp 
+ved Dypingan i perioden 29.09.–08.11.2023. Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+24 
+Strømrose - vanntransport (fluks) 
+ 
+Figur 25: Vanntransport (m³/m²/dag) for hver 15° sektor på 6 meters dyp ved Dypingan i perioden 29.09.–08.11.2023. 
+Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+Figur 26: Vanntransport (m³/m²/dag) for hver 15° sektor på 25 meters dyp ved Dypingan i perioden 29.09.–08.11.2023. 
+Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+25 
+ 
+Figur 27: Vanntransport (m³/m²/dag) for hver 15° sektor på 39 meters dyp ved Dypingan i perioden 29.09.–08.11.2023. 
+Data er korrigert for magnetisk misvisning på 5.06°. 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+26 
+Vektor - progressiv vektor 
+ 
+Figur 28: Progressiv vektor på 6 meters dyp ved Dypingan i perioden 29.09.–08.11.2023. Data er korrigert for magnetisk 
+misvisning på 5.06°. 
+ 
+ 
+Figur 29: Progressiv vektor på 25 meters dyp ved Dypingan i perioden 29.09.–08.11.2023. Data er korrigert for magnetisk 
+misvisning på 5.06°. 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+27 
+ 
+ 
+Figur 30: Progressiv vektor på 39 meters dyp ved Dypingan i perioden 29.09.–08.11.2023. Data er korrigert for magnetisk 
+misvisning på 5.06°. 
+ 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+28 
+Tabell - retning med returperiode 
+Tabell 3: Retning med returperiode for vannstrøm på 6 meters dyp. Strømhastighetene er oppgitt i m/s og 
+retningsgrupper som definert i NS 9415:2021. Data er korrigert for magnetisk misvisning på 5.06°. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.044 
+0.110 
+0.073 
+0.182 
+0.082 
+0.204 
+nordøst 
+0.061 
+0.237 
+0.100 
+0.391 
+0.112 
+0.439 
+øst 
+0.104 
+0.320 
+0.172 
+0.528 
+0.193 
+0.592 
+sørøst 
+0.104 
+0.346 
+0.171 
+0.571 
+0.192 
+0.640 
+sør 
+0.063 
+0.187 
+0.103 
+0.309 
+0.116 
+0.347 
+sørvest 
+0.109 
+0.356 
+0.179 
+0.587 
+0.201 
+0.659 
+vest 
+0.132 
+0.360 
+0.218 
+0.595 
+0.244 
+0.667 
+nordvest 
+0.077 
+0.237 
+0.127 
+0.391 
+0.142 
+0.439 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+29 
+Tabell 4: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 6 meters dyp ved 
+Dypingan i perioden 29.09.–08.11.2023. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning på 5.06°. 
+6 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+5 
+3 
+11 
+10 
+8 
+5 
+8 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+55 
+0.95 
+35.06 
+0.39 
+15-30 
+2 
+11 
+12 
+12 
+12 
+9 
+9 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+71 
+1.23 
+43.79 
+0.48 
+30-45 
+2 
+6 
+14 
+14 
+15 
+16 
+17 
+8 
+4 
+0 
+0 
+0 
+0 
+0 
+96 
+1.66 
+73.67 
+0.81 
+45-60 
+1 
+4 
+7 
+11 
+20 
+20 
+13 
+19 
+15 
+0 
+0 
+0 
+0 
+0 
+110 
+1.91 
+105.28 
+1.16 
+60-75 
+4 
+8 
+13 
+17 
+19 
+21 
+27 
+18 
+42 
+11 
+4 
+0 
+0 
+0 
+184 
+3.19 
+215.87 
+2.39 
+75-90 
+4 
+8 
+9 
+22 
+20 
+28 
+54 
+28 
+59 
+31 
+14 
+2 
+0 
+0 
+279 
+4.84 
+389.25 
+4.30 
+90-105 
+4 
+9 
+11 
+18 
+24 
+32 
+59 
+55 
+77 
+61 
+33 
+16 
+0 
+0 
+399 
+6.92 
+671.67 
+7.43 
+105-120 
+5 
+11 
+12 
+23 
+14 
+18 
+50 
+53 
+120 
+69 
+26 
+10 
+0 
+0 
+411 
+7.13 
+695.20 
+7.69 
+120-135 
+4 
+13 
+10 
+16 
+19 
+17 
+46 
+34 
+94 
+40 
+19 
+17 
+0 
+0 
+329 
+5.71 
+545.69 
+6.03 
+135-150 
+1 
+7 
+12 
+14 
+23 
+18 
+44 
+45 
+72 
+33 
+6 
+5 
+0 
+0 
+280 
+4.86 
+404.02 
+4.47 
+150-165 
+1 
+1 
+6 
+21 
+15 
+13 
+34 
+25 
+30 
+12 
+0 
+0 
+0 
+0 
+158 
+2.74 
+188.46 
+2.08 
+165-180 
+1 
+10 
+7 
+4 
+19 
+13 
+28 
+15 
+10 
+0 
+0 
+0 
+0 
+0 
+107 
+1.86 
+97.17 
+1.07 
+180-195 
+1 
+9 
+6 
+9 
+11 
+14 
+21 
+7 
+7 
+0 
+0 
+0 
+0 
+0 
+85 
+1.47 
+72.08 
+0.80 
+195-210 
+1 
+7 
+10 
+14 
+10 
+12 
+18 
+15 
+10 
+2 
+0 
+0 
+0 
+0 
+99 
+1.72 
+90.96 
+1.01 
+210-225 
+4 
+4 
+4 
+11 
+10 
+19 
+23 
+20 
+15 
+4 
+0 
+0 
+0 
+0 
+114 
+1.98 
+119.46 
+1.32 
+225-240 
+3 
+4 
+10 
+17 
+11 
+17 
+45 
+41 
+68 
+32 
+27 
+7 
+0 
+0 
+282 
+4.89 
+466.61 
+5.16 
+240-255 
+2 
+13 
+15 
+13 
+19 
+21 
+40 
+69 
+160 
+126 
+80 
+31 
+0 
+0 
+589 
+10.22 
+1199.68 
+13.26 
+255-270 
+2 
+5 
+8 
+8 
+21 
+20 
+60 
+65 
+238 
+182 
+132 
+32 
+0 
+0 
+773 
+13.41 
+1675.03 
+18.52 
+270-285 
+5 
+7 
+5 
+14 
+22 
+20 
+59 
+60 
+216 
+113 
+44 
+2 
+0 
+0 
+567 
+9.83 
+1029.80 
+11.38 
+285-300 
+2 
+7 
+20 
+17 
+15 
+21 
+52 
+60 
+104 
+40 
+9 
+0 
+0 
+0 
+347 
+6.02 
+505.72 
+5.59 
+300-315 
+4 
+7 
+4 
+12 
+14 
+18 
+36 
+39 
+35 
+8 
+1 
+0 
+0 
+0 
+178 
+3.09 
+207.97 
+2.30 
+315-330 
+6 
+10 
+6 
+7 
+12 
+15 
+19 
+23 
+14 
+0 
+0 
+0 
+0 
+0 
+112 
+1.94 
+104.32 
+1.15 
+330-345 
+0 
+6 
+10 
+6 
+12 
+10 
+17 
+9 
+4 
+0 
+0 
+0 
+0 
+0 
+74 
+1.28 
+60.52 
+0.67 
+345-360 
+4 
+7 
+7 
+10 
+9 
+10 
+13 
+4 
+3 
+0 
+0 
+0 
+0 
+0 
+67 
+1.16 
+48.08 
+0.53 
+SUM (#) 
+68 
+177 
+229 
+320 
+374 
+407 
+792 
+719 
+1399 
+764 
+395 
+122 
+0 
+0 
+5766 
+100 
+9045.35 
+100 
+SUM (%) 
+1.18 
+3.07 
+3.97 
+5.55 
+6.49 
+7.06 
+13.74 
+12.47 
+24.26 
+13.25 
+6.85 
+2.12 
+0 
+0 
+100 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+30 
+Tabell 5: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 25 meters dyp ved 
+Dypingan i perioden 29.09.–08.11.2023. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning på 5.06°. 
+25 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 
+100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+3 
+6 
+12 
+9 
+10 
+10 
+6 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+59 
+1.02 
+35.62 
+0.51 
+15-30 
+5 
+14 
+11 
+15 
+23 
+11 
+5 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+87 
+1.51 
+49.23 
+0.71 
+30-45 
+3 
+14 
+16 
+13 
+16 
+11 
+8 
+4 
+2 
+2 
+0 
+0 
+0 
+0 
+89 
+1.54 
+57.55 
+0.83 
+45-60 
+2 
+10 
+17 
+27 
+14 
+10 
+24 
+8 
+1 
+0 
+0 
+0 
+0 
+0 
+113 
+1.96 
+77.32 
+1.11 
+60-75 
+1 
+13 
+25 
+20 
+33 
+22 
+25 
+8 
+9 
+0 
+0 
+0 
+0 
+0 
+156 
+2.71 
+115.00 
+1.66 
+75-90 
+3 
+14 
+15 
+22 
+37 
+32 
+57 
+28 
+17 
+0 
+0 
+0 
+0 
+0 
+225 
+3.90 
+197.55 
+2.84 
+90-105 
+4 
+8 
+25 
+22 
+33 
+34 
+71 
+38 
+40 
+6 
+4 
+0 
+0 
+0 
+285 
+4.94 
+297.88 
+4.29 
+105-120 
+5 
+13 
+23 
+30 
+23 
+30 
+63 
+55 
+81 
+31 
+10 
+1 
+0 
+0 
+365 
+6.33 
+470.60 
+6.77 
+120-135 
+3 
+18 
+15 
+26 
+24 
+32 
+72 
+58 
+95 
+52 
+14 
+3 
+0 
+0 
+412 
+7.15 
+586.66 
+8.45 
+135-150 
+6 
+17 
+24 
+25 
+28 
+23 
+53 
+44 
+101 
+52 
+18 
+1 
+0 
+0 
+392 
+6.80 
+566.48 
+8.16 
+150-165 
+5 
+10 
+15 
+30 
+22 
+14 
+40 
+24 
+60 
+20 
+5 
+1 
+0 
+0 
+246 
+4.27 
+308.38 
+4.44 
+165-180 
+7 
+15 
+17 
+17 
+17 
+24 
+22 
+17 
+20 
+6 
+2 
+0 
+0 
+0 
+164 
+2.84 
+154.95 
+2.23 
+180-195 
+5 
+14 
+17 
+18 
+12 
+15 
+28 
+13 
+10 
+2 
+0 
+0 
+0 
+0 
+134 
+2.32 
+108.71 
+1.57 
+195-210 
+3 
+8 
+15 
+22 
+8 
+16 
+21 
+8 
+6 
+1 
+0 
+0 
+0 
+0 
+108 
+1.87 
+83.70 
+1.20 
+210-225 
+2 
+12 
+16 
+25 
+25 
+24 
+46 
+36 
+29 
+3 
+0 
+0 
+0 
+0 
+218 
+3.78 
+216.27 
+3.11 
+225-240 
+4 
+11 
+19 
+18 
+25 
+30 
+51 
+52 
+76 
+15 
+2 
+0 
+0 
+0 
+303 
+5.25 
+365.52 
+5.26 
+240-255 
+6 
+10 
+20 
+13 
+30 
+29 
+73 
+77 
+152 
+58 
+10 
+0 
+0 
+0 
+478 
+8.29 
+704.14 
+10.14 
+255-270 
+5 
+14 
+12 
+32 
+25 
+34 
+90 
+116 
+204 
+93 
+19 
+0 
+0 
+0 
+644 
+11.17 
+998.82 
+14.38 
+270-285 
+5 
+12 
+20 
+24 
+33 
+34 
+72 
+73 
+175 
+98 
+9 
+0 
+0 
+0 
+555 
+9.63 
+846.68 
+12.19 
+285-300 
+4 
+11 
+14 
+29 
+28 
+30 
+61 
+47 
+71 
+20 
+2 
+1 
+0 
+0 
+318 
+5.52 
+384.83 
+5.54 
+300-315 
+9 
+8 
+17 
+22 
+21 
+18 
+30 
+21 
+18 
+2 
+0 
+0 
+0 
+0 
+166 
+2.88 
+145.48 
+2.09 
+315-330 
+3 
+5 
+11 
+8 
+16 
+11 
+22 
+7 
+2 
+0 
+0 
+0 
+0 
+0 
+85 
+1.47 
+65.27 
+0.94 
+330-345 
+6 
+9 
+13 
+13 
+16 
+12 
+16 
+8 
+2 
+0 
+0 
+0 
+0 
+0 
+95 
+1.65 
+65.27 
+0.94 
+345-360 
+3 
+5 
+20 
+10 
+9 
+4 
+13 
+3 
+1 
+1 
+0 
+0 
+0 
+0 
+69 
+1.20 
+44.49 
+0.64 
+SUM (#) 
+102 
+271 
+409 
+490 
+528 
+510 
+969 
+751 
+1172 
+462 
+95 
+7 
+0 
+0 
+5766 
+100 
+6946.41 
+100 
+SUM (%) 
+1.77 
+4.70 
+7.09 
+8.50 
+9.16 
+8.84 
+16.81 
+13.02 
+20.33 
+8.01 
+1.65 
+0.12 
+0 
+0 
+100 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+31 
+Tabell 6: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 39 meters dyp ved 
+Dypingan i perioden 29.09.–08.11.2023. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. Data er korrigert for magnetisk misvisning på 5.06°. 
+39 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 
+100 
+# 
+% 
+m³/m²/døgn 
+% 
+0-15 
+5 
+14 
+10 
+16 
+10 
+6 
+13 
+6 
+1 
+1 
+0 
+0 
+0 
+0 
+82 
+1.42 
+52.76 
+0.86 
+15-30 
+3 
+10 
+19 
+25 
+17 
+9 
+11 
+1 
+9 
+0 
+0 
+0 
+0 
+0 
+104 
+1.80 
+70.18 
+1.14 
+30-45 
+7 
+19 
+20 
+17 
+14 
+14 
+14 
+8 
+9 
+2 
+1 
+0 
+0 
+0 
+125 
+2.17 
+93.66 
+1.52 
+45-60 
+2 
+16 
+17 
+18 
+17 
+15 
+17 
+17 
+19 
+3 
+2 
+0 
+0 
+0 
+143 
+2.48 
+131.29 
+2.13 
+60-75 
+8 
+12 
+31 
+16 
+19 
+16 
+22 
+32 
+16 
+4 
+1 
+2 
+0 
+0 
+179 
+3.10 
+166.30 
+2.70 
+75-90 
+4 
+16 
+25 
+20 
+34 
+20 
+40 
+30 
+29 
+4 
+2 
+1 
+0 
+0 
+225 
+3.90 
+218.80 
+3.56 
+90-105 
+7 
+14 
+21 
+27 
+23 
+35 
+64 
+28 
+37 
+8 
+0 
+0 
+0 
+0 
+264 
+4.58 
+261.63 
+4.25 
+105-120 
+6 
+13 
+19 
+23 
+39 
+28 
+58 
+39 
+78 
+20 
+1 
+0 
+0 
+0 
+324 
+5.62 
+381.60 
+6.20 
+120-135 
+4 
+15 
+28 
+26 
+48 
+26 
+46 
+62 
+120 
+39 
+2 
+0 
+0 
+0 
+416 
+7.21 
+541.89 
+8.81 
+135-150 
+6 
+18 
+30 
+23 
+40 
+31 
+64 
+64 
+105 
+42 
+11 
+0 
+0 
+0 
+434 
+7.53 
+573.63 
+9.32 
+150-165 
+6 
+7 
+18 
+36 
+28 
+35 
+57 
+67 
+80 
+29 
+4 
+1 
+0 
+0 
+368 
+6.38 
+457.65 
+7.44 
+165-180 
+3 
+16 
+25 
+24 
+22 
+32 
+37 
+41 
+53 
+14 
+6 
+0 
+0 
+0 
+273 
+4.73 
+311.52 
+5.06 
+180-195 
+9 
+14 
+23 
+27 
+26 
+19 
+38 
+27 
+25 
+2 
+0 
+0 
+0 
+0 
+210 
+3.64 
+184.92 
+3.01 
+195-210 
+4 
+15 
+20 
+37 
+20 
+28 
+50 
+19 
+17 
+2 
+1 
+0 
+0 
+0 
+213 
+3.69 
+181.86 
+2.96 
+210-225 
+3 
+13 
+22 
+24 
+30 
+21 
+40 
+23 
+32 
+5 
+0 
+0 
+0 
+0 
+213 
+3.69 
+202.94 
+3.30 
+225-240 
+10 
+9 
+14 
+13 
+31 
+43 
+49 
+53 
+72 
+17 
+1 
+0 
+0 
+0 
+312 
+5.41 
+368.53 
+5.99 
+240-255 
+4 
+12 
+18 
+30 
+41 
+40 
+53 
+72 
+89 
+17 
+0 
+0 
+0 
+0 
+376 
+6.52 
+443.26 
+7.20 
+255-270 
+3 
+6 
+16 
+15 
+36 
+27 
+81 
+79 
+108 
+14 
+1 
+0 
+0 
+0 
+386 
+6.69 
+488.09 
+7.93 
+270-285 
+6 
+18 
+36 
+30 
+31 
+22 
+71 
+70 
+73 
+12 
+0 
+0 
+0 
+0 
+369 
+6.40 
+405.99 
+6.60 
+285-300 
+7 
+11 
+18 
+27 
+25 
+22 
+48 
+45 
+33 
+3 
+0 
+0 
+0 
+0 
+239 
+4.14 
+237.67 
+3.86 
+300-315 
+2 
+12 
+22 
+32 
+20 
+14 
+35 
+16 
+21 
+0 
+0 
+0 
+0 
+0 
+174 
+3.02 
+147.26 
+2.39 
+315-330 
+2 
+13 
+24 
+18 
+13 
+15 
+21 
+12 
+7 
+1 
+1 
+0 
+0 
+0 
+127 
+2.20 
+97.14 
+1.58 
+330-345 
+10 
+11 
+17 
+17 
+16 
+9 
+14 
+3 
+5 
+0 
+0 
+0 
+0 
+0 
+102 
+1.77 
+65.21 
+1.06 
+345-360 
+7 
+12 
+22 
+14 
+15 
+11 
+20 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+108 
+1.87 
+69.38 
+1.13 
+SUM (#) 
+128 
+316 
+515 
+555 
+615 
+538 
+963 
+819 
+1040 
+239 
+34 
+4 
+0 
+0 
+5766 
+100 
+6153.15 
+100 
+SUM (%) 
+2.22 
+5.48 
+8.93 
+9.63 
+10.67 
+9.33 
+16.70 
+14.20 
+18.04 
+4.14 
+0.59 
+0.07 
+0 
+0 
+100 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+32 
+Referanser 
+Codiga, D.L. (2011). Unified Tidal Analysis and Prediction Using the UTide Matlab Functions. Technical 
+Report 2011-01. Graduate School of Oceanography, University of Rhode Island, Narragansett, RI. 
+59pp. https://www.po.gso.uri.edu/~codiga/utide/utide.htm 
+Fiskeridirektoratet. (u.å.). Veileder for utfylling av søknadsskjema for tillatelse til akvakultur i flytende 
+anlegg og anlegg på land (bokmål). Hentet 6. november 2023 fra 
+https://www.fiskeridir.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad 
+Gjevik, B.. (2009). Flo og fjære langs kysten av Norge og Svalbard. Farleia.  
+Kartverket. (2021, 19. juli). Magnetisk misvisning. Hentet 13. desember 2023 fra 
+https://www.kartverket.no/til-lands/kart/turkart/magnetisk-misvisning 
+Kartverket, Norgeskart. (2023a). Norgeskart. Hentet 13. desember 2023 fra https://www.norgeskart.no 
+Kartverket. (2023b). Se havnivå. Hentet 13. desember 2023 fra https://www.kartverket.no/til-sjos/se-
+havniva 
+Norsk klimaservicesenter. (2023). Seklima. Oberservasjoner og værstatistikk. Hentet 13. desember 2023 fra 
+https://seklima.met.no/ 
+Nortekgroup. (u.å.). Understanding ADCPs: a guide to measuring currents, waves & turbulence with 
+acoustic sensors. Hentet 13. desember 2023 fra https://www.nortekgroup.com/knowledge-
+center/wiki/guide-to-understanding-adcps 
+Nortekgroup. (u.å.). Aquadopp Profiler 400 kHz. Hentet 6. november 2023 fra 
+https://www.nortekgroup.com/products/aquadopp-profiler-400-khz/pdf 
+Pawlowicz, R., Beardsley, B. og Lentz, S. (2002). Classical tidal harmonic analysis including error estimates in 
+MATLAB using T_TIDE. Computers & Geosciences 28.8: 929-937.  
+Standard Norge. (1999). Oseanografi - Del 1: Strømmålinger i faste punkter. (NS 9425:1999). 
+https://online.standard.no/ns-9425-1-1999 
+Standard Norge. (2003). Oseanografi - Del 2: Strømmålinger ved hjelp av ADCP. (NS9425-2:2003). 
+https://online.standard.no/ns-9425-2-2003 
+Standard Norge. (2021). Flytende akvakulturanlegg - Lokalitetsundersøkelse, prosjektering, utførelse og 
+bruk. (NS 9415:2021). https://online.standard.no/ns-9415-2021 
+Thomson, R. E., og Emery, W. J. (2014). Data analysis methods in physical oceanography. (3. utg.). Elsevier.  
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+33 
+Vedlegg A - Riggtegning 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Overflate (0 meter): toppblåse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ca. 5 meter over instrumentet: 3 x oppdriftskule 
+ 
+ 
+ 
+Ca. 43 meters dyp: Aquadopp Profiler AQK022PR 
+Bunn (ca. 44 meters dyp): lodd/anker 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+34 
+Vedlegg B - Sensorfigurer 
+Sensorer - trykk registrert av instrument 
+ 
+Figur B.1: Trykk (dBar) i instrumentdypet ved Dypingan i perioden 29.09.–08.11.2023 (UTC+0). 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+35 
+Sensorer - instrumenthelning (tilt) 
+ 
+Figur B.2: Instrumenthelning (°) på Dypingan i perioden 29.09.–08.11.2023 (UTC+0). 
+Sensorer - sjøtemperatur 
+ 
+Figur B.3: Temperatur (°C) i instrumentdypet ved Dypingan i perioden 29.09.–08.11.2023 (UTC+0). 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+36 
+Vedlegg C - Meteorologi- og vannstandsfigurer 
+ 
+Figur C.1: Vindhastighet (m/s) (øvre panel) og vindretning (°) (nedre panel), ved den meteorologiske stasjonen Vega-
+Vallsjø i perioden 29.09.–08.11.2023 (UTC+0). 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+37 
+Vedlegg D - Tidevannsanalyse 
+Tabell D.1: Dominerende tidevannskomponenter på 6, 25 og 39 meters dyp ved Dypingan i perioden 29.09.–08.11.2023 
+(UTC+0). Komponenter med energiandel under 2 % på 6 meters dyp er ikke inkludert i tabellen. Komponentene er sortert 
+etter styrke på energiandel på 6 meters dyp. 
+Tidevanns-
+komponent 
+Periodisitet 
+(timer) 
+6 meter 
+25 meter 
+39 meter 
+Andel energi 
+(%) 
+Store halvakse 
+(cm/s) 
+Andel energi 
+(%) 
+Store halvakse 
+(cm/s) 
+Andel energi 
+(%) 
+Store halvakse 
+(cm/s) 
+K1 
+23.93 
+54.12 
+79.96 
+53.25 
+42.12 
+54.54 
+94.37 
+P1 
+24.07 
+23.26 
+52.77 
+22.44 
+27.41 
+23.20 
+61.51 
+PHI1 
+23.80 
+15.73 
+43.16 
+15.76 
+22.95 
+16.36 
+51.75 
+BET1 
+24.97 
+2.41 
+17.58 
+2.20 
+8.37 
+2.38 
+19.67 
+NO1 
+24.83 
+2.03 
+15.98 
+1.84 
+7.70 
+1.89 
+17.53 
+Tabell D.2: Variansforhold og størrelsesforhold ved Dypingan for perioden 29.09.–08.11.2023 på 6, 25 og 39 meters dyp.  
+Forhold (%) 
+6 meter 
+25 meter 
+39 meter 
+Varians 
+62 
+62 
+45 
+Størrelse 
+54 
+52 
+46 
+ 
+ 
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+38 
+ 
+Figur D.1: Variansellipse for målt vannstrøm (cm/s, svart) og beregnet tidevannstrøm (cm/s, rød) på 6, 25 og 39 ved 
+Dypingan for perioden 29.09.–08.11.2023 (UTC+0).  
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+39 
+ 
+Figur D.2: Målt vannstrøm (cm/s, svart) og beregnet tidevannstrøm (cm/s, rød) på 6 meters dyp ved Dypingan i perioden 
+29.09.–08.11.2023 (UTC+0).  
+ 
+Figur D.3: Målt vannstrøm (cm/s, svart) og beregnet reststrøm (cm/s, blå) på 6 meters dyp ved Dypingan i perioden 
+29.09.–08.11.2023 (UTC+0).  
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+40 
+ 
+Figur D.4: Målt vannstrøm (cm/s, svart) og beregnet tidevannstrøm (cm/s, rød) på 25 meters dyp ved Dypingan i 
+perioden 29.09.–08.11.2023 (UTC+0).  
+ 
+Figur D.5: Målt vannstrøm (cm/s, svart) og beregnet reststrøm (cm/s, blå) på 25 meters dyp ved Dypingan i perioden 
+29.09.–08.11.2023 (UTC+0).  
+2609-11-23S DYPINGAN 
+AQUA KOMPETANSE AS 
+41 
+ 
+Figur D.6: Målt vannstrøm (cm/s, svart) og beregnet tidevannstrøm (cm/s, rød) på 39 meters dyp ved Dypingan i 
+perioden 29.09.–08.11.2023 (UTC+0).  
+ 
+Figur D.7: Målt vannstrøm (cm/s, svart) og beregnet reststrøm (cm/s, blå) på 39 meters dyp ved Dypingan i perioden 
+29.09.–08.11.2023 (UTC+0).

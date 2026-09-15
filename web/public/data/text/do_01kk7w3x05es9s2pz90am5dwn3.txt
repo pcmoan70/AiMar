@@ -1,0 +1,344 @@
+﻿Notat Note 
+ 
+ 
+ 
+Lofoten Sjøprodukter AS 
+Bunndata med hardhet fra én lokalitet 
+Kalvøya Midt 
+2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APN-Notat 66927-1 
+Akvaplan-niva AS  
+Rådgivning og forskning innen miljø og akvakultur 
+Org.nr: NO 937 375 158 MVA 
+Framsenteret, Postboks 6066 Langnes, 9296 Tromsø 
+Tlf: 77 75 03 00 
+https://akvaplan.no/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notattittel / Note title 
+Lofoten Sjøprodukter AS, Bunndata med hardhet fra én lokalitet, Kalvøya Midt, 2025 
+Forfatter(e) / Author(s) 
+ 
+Håvard Buschmann – Akvaplan-niva 
+ 
+Akvaplan-niva notat nr / note no 
+66927-1 
+Dato / Date 
+04.11.2025 
+Antall sider / No. of pages 
+10 
+Distribusjon / Distribution 
+Gjennom oppdragsgiver 
+Dato for sletting av notat og data / Date for deleting this note and data: 
+01.04.2030 
+Kunde redegjort i søknad / Customer explained in application: 
+Lofoten Sjøprodukter AS og Løvold AS 
+Søknad godkjent og søknadsnummer / Application approved and application number: 
+01.04.2025 – 2025/000300-146/FORSVARET/407 
+Oppdragsgiver / Client 
+Lofoten Sjøprodukter AS 
+Oppdragsg. referanse / Client’s reference 
+ 
+Sammendrag / Summary 
+Det er gjort bunnkartlegging av hardhet med EM2040P på en Otter USV den 8. oktober 2025 ved 
+Landegode/Kalvøya. Dataene fra disse er sammensatt.  
+ 
+Prosjektleder / Project manager 
+Kvalitetskontroll / Quality control 
+ 
+ 
+ 
+Håvard Buschmann 
+N/A 
+ 
+ 
+ 
+© 2025 Akvaplan-niva AS. Notatet kan kun kopieres i sin helhet. Kopiering av deler av notatet 
+(tekstutsnitt, figurer, tabeller, konklusjoner, osv.) eller gjengivelse på annen måte, er kun tillatt 
+etter skriftlig samtykke fra Akvaplan-niva AS. 
+ 
+Lofoten Sjøprodukter AS, Kalvøya Midt, 2025.  
+Notat Dybdemåling 
+ 
+1 
+INNHOLDSFORTEGNELSE 
+FORORD .................................................................................................................................... 2 
+1 KUNDENS FORPLIKTELSER .............................................................................................. 3 
+2 LOKASJON ............................................................................................................................ 4 
+3 FAGLIG PROGRAM OG METODIKK ................................................................................. 5 
+3.1 Relativ hardhet i Olex ....................................................................................................... 6 
+3.2 Prosessering og modellering ............................................................................................. 6 
+4 PRESENTASJON BUNNKART ............................................................................................ 7 
+5 LITTERATUR ........................................................................................................................ 9 
+6 LEVERANSE ........................................................................................................................ 10 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 2 
+https://akvaplan.no/ 
+ 
+Forord 
+Foreliggende undersøkelse er gjennomført av Akvaplan-niva AS.  
+Formålet med bunnkartleggingen er å lage et detaljert bunnkart for anleggsplasseringen og 
+videre søknadsarbeid. Undersøkelsene er gjennomført for å tilfredsstille krav til 
+bunnkartlegging beskrevet i kapittel 5 i NS 9415:2009. Kartleggingen viser dybdedata, samt 
+resultater fra multistråle backscatter (relativ hardhet). Data oversendes tredjeparter som olex-
+database eller *.GZ- fil til de som er godkjent i søknad og har innlevert personopplysninger til 
+FOH. Rådata oppbevares i henhold til gitte frister og leveres ved behov.  
+ 
+ 
+Følgende har deltatt: 
+Håvard Buschmann 
+Akvaplan-niva AS 
+Operatør/Rapportering 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lofoten Sjøprodukter AS, Kalvøya Midt, 2025.  
+Notat Dybdemåling 
+ 
+3 
+1 Kundens forpliktelser 
+Ved mottak av disse data og notat forplikter kunde seg til å overholde 
+Forsvarsdepartementets Forskrift om opptak og annen bruk av informasjon om bestemt 
+angitte bunnforhold samt forutsetningene fra Forsvarets Operative Hovedkvarter gitt ved 
+innvilget søknad. Søknaden kan utleveres kunde ved forespørsel. 
+Innenfor forskriften er det kun Akvaplan-niva og kunde referert til i søknaden om tillatelse 
+etter §5 som skal ha tilgang på informasjonen ved mindre godkjenning er gitt fra FOH. 
+Hvilke kunder som skal ha tilgang er oppgitt i oversikten.  
+Dette notatet og tilhørende data kan lagres i opptil 5 år etter utførelse eller levering fra 
+Kartverket og må etter dette slettes. Dato for sletting av notat og data er oppgitt i oversikten. 
+Ønskes dataene benyttet ut over den angitte tiden må ny søknad fremmes innen gitt 
+tidsramme og senest en måned før utløp.  
+ 
+Videre drøfting av FOH sine forutsetninger gitt ved innvilget søknad: 
+• Opptak av bunndata skal gjøres tilgjengelig for Kartverket 
+• Opptak begrenses til det ansøkte formålet 
+• Offentliggjøring (publisering) eller mangfoldiggjøring av utlevert data er forbudt uten 
+tillatelse fra FOH 
+• Figurer eller kartskisser skal ikke publiseres eller offentliggjøres med en kvalitet og 
+posisjonsnøyaktighet som muliggjør at kvaliteten på de opprinnelige data kan 
+rekonstrueres. Ved usikkerhet om figurer og kartskisser kan offentliggjøres, skal det 
+sendes forespørsel til Kartverket som vurderer forespørsel og innhenter endelig 
+avgjørelse fra FOH. 
+• Data skal ikke komme uvedkommende i hende, det er forbudt å utlevere data til 
+tredjepart, herunder underleverandører, uten tillatelse fra FOH. Ved gitt tillatelse skal 
+tredjeparter gjøres kjent med disse vilkår 
+• Mottaker skal holde kontroll med utlevert informasjon og kunne fremvise prosedyrer 
+for lagring, sletting og kopiering 
+• Tillatelsen til oppbevaring av data gjelder fra 01.04.2025 til 01.04.2030. Ønskes 
+dataene benyttet ut over den angitte tiden må ny søknad fremmes innen gitt tidsramme 
+og senest en måned før utløp 
+• Data skal slettes ved frafall av formål eller ved utløp av tillatelse 
+ 
+FOH understreker at det er straffbart å dele taushetsbelagte opplysninger med andre personer 
+eller tredjeparter uten tillatelse fra FOH, jf. Loven §6. Derav er det heller ikke lov å laste data 
+opp i "crowd source" databaser.  
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 4 
+https://akvaplan.no/ 
+ 
+2 Lokasjon 
+Lokaliteten ligger rett nord for Bodø i Bodø kommune, Norland fylke. (Figur 1).  
+ 
+Figur 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lofoten Sjøprodukter AS, Kalvøya Midt, 2025.  
+Notat Dybdemåling 
+ 
+5 
+3 Faglig program og metodikk 
+Oppmålingene er gjort med en Maritime Robotics Otter (sn: 42), påmontert utstyr fra 
+Kongsberg Maritime (2). Data er importert til Olex for tidevannskorrigering og leveranse i 
+ønsket format. 
+Funksjon 
+Modell 
+Spesifikasjoner/ Nøyaktighet 
+GPS og kompass 
+Kongsberg, 
+Seapath 130-5 
+ Uten GNSS/CPOS Korreksjoner 
+Med GNSS/ CPOS Korreksjoner 
+Posisjon (X/Y): 0,5 m RMS 
+Posisjon (Z): 0,5 m RMS 
+Compass: 0,08º RMS 
+1cm + 1 ppm RMS 
+2cm + 1 ppm RMS 
+0,08º RMS 
+Bevegelsessensor Kongsberg Seatex, 
+MRU-5 
+Pitch og roll: 0,02º RMS 
+Heave: Høyest av 5 cm eller 5%  
+Multistråle 
+ekkolodd 
+Kongsberg, EM 
+2040P MKII 
+Dybde: 0-600 m 
+Frekvensområde: 200 til 400 kHz 
+Maks pingrate: 50Hz  
+Stråler per ping: 800 
+Swath/ åpningsvinkel: 170º 
+Stabilisering i roll: ± 15º 
+Stabilisering i pitch og yaw: ± 10º 
+Avstandsoppløsning: 10,5mm 
+Tabell 2. Utstyr benyttet ved kartlegging. 
+Multistråle ekkoloddet som ble brukt sender ut 800 
+stråler for hvert ping, som måler distanse og styrke 
+på retur signal innenfor valgt åpningsvinkel.  
+Ved bruk av GPS og bevegelsessensor vet 
+ekkoloddet til enhver tid sin plassering og kan 
+dermed geografisk referere hvor hver stråle 
+reflekterer på havbunnen.  
+Styrken på refleksjonene vil indikere hvor mye 
+dempning det er i havbunnen. Dette er en funksjon 
+som ofte refereres til som «backscatter». Ved hard 
+bunn vil man få lite dempning av strålen man sender ut og ved bløt bunn vil man få mere 
+dempning av strålen.  
+Posisjonering gjøres med eller uten CPOS korreksjoner fra Kartverket, avhengig av 
+tilgjengelighet og behov for dette. Korreksjonen fastsettes før start av målingene slik at alle 
+målepunkter på bunnen plasseres riktig relativt til hverandre.  
+Det blir foretatt måling av lydhastighets profil før oppmåling begynner for å korrigere for avvik 
+grunnet variasjoner i lydhastighet gjennom vannsøylen.  
+Oppmåling gjøres ved bruk av programvaren «Kongsberg SIS» som tillater dynamisk endring 
+av åpningsvinkel og andre relevante parametere under oppmåling for best mulig resultat.  
+Bunndata er blitt eksportert til Olex for kartsnitt og utdrag referert til i WGS84 og sjøkartnull. 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 6 
+https://akvaplan.no/ 
+ 
+3.1 Relativ hardhet i Olex 
+Målingene gjøres med backscatter, som angir styrken på retursignalet til ekkoloddet. Disse 
+verdiene bruker olex for å angi bunnhardhet. Bunnhardhet angis i olex som relativ hardhet der 
+0% er helt bløtt og 100 % er maksimalt hardt. Siden olex angir bunnhardhet som et mål på 
+havbunnens evne til å reflektere lyd vil refleksjonen tilbake til ekkoloddet bli lav ved bløt bunn 
+– men den blir også lav når signalet skal reflekteres fra bratte overflater. Dette kan resultere i 
+at bratte deler av havbunnen vises som "bløt" i olex. I visning av relativ hardhet på olex benyttes 
+derfor betegnelsen "Bløtt eller bratt" for blå farge, og "Hardt og flatt" for rød farge. Siden farge 
+på bunnkartet viser relativ hardhet - og ikke eksakt hardhet, må sedimenttype på lokaliteten 
+verifiseres med grabbprøver eller lignende. Ved oppmåling kan det forekomme at backscatter 
+direkte under båten vises med annen styrke enn for øvrig areal. Dette kommer av visse tekniske 
+begrensninger, og er vanskelig å unngå. Dette vil vises som «båtspor» i målingene i det 
+transektet som båten har beveget seg. Backscatter data i disse sporene kan være misvisende, og 
+bør ikke tillegges vekt ved tolkning. 
+3.2 Prosessering og modellering 
+Innsamlede dybdemåling fra multistråle ekkoloddet må prosesseres og justeres for virkning av 
+vannstandsvariasjon under måling. Observert båthøyde målt med GNSS sammenlignes med 
+observert vannstand fra Kartverkets nettverk av permanente vannstandsmålere justert til en 
+posisjon i måleområdet. Fra dette eksporteres en vannstands fil som brukes i Olex for å referere 
+målingene til sjøkartnull. 
+ 
+ 
+Lofoten Sjøprodukter AS, Kalvøya Midt, 2025.  
+Notat Dybdemåling 
+ 
+7 
+4 Presentasjon bunnkart 
+Data fra oppmåling på lokaliteten er importert til Olex.  
+Side 7-8: Kalvøya midt: Figur 2, Figur 3, Figur 4 og Figur 5. 
+ 
+Figur 2- Olexkart, dybdemål, Kalvøya midt 
+ 
+Figur 3 – Olexkart, hardhet, Kalvøya midt 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 8 
+https://akvaplan.no/ 
+ 
+ 
+Figur 4 – Olex, 3D-visning, Kalvøya midt 
+ 
+Figur 5 – Olex, 3D-visning, Kalvøya midt 
+ 
+ 
+Lofoten Sjøprodukter AS, Kalvøya Midt, 2025.  
+Notat Dybdemåling 
+ 
+9 
+5 Litteratur 
+Norsk Standard NS 9415:2009. Flytende oppdrettsanlegg - Krav til lokalitetsundersøkelse, 
+risikoanalyse, utforming, dimensjonering, utførelse, montering og drift.  
+www.fiskeridir.no 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 10 
+https://akvaplan.no/ 
+ 
+6 Leveranse 
+ 
+For levering av dybdedata til kunde oversendes kopi av en Olex-database. Dette for å sikre at 
+innstilinger for eksisterende dybdedatabaser ikke foringer kvaliteten som har vært etterspurt 
+av kunde. 
+Dybdedatabaser leveres som *.ZIP fil som må pakkes ut før innlesning i en Olex-maskin ved 
+å følge oversendt prosedyre.  
+Hvis andre formater eller utsnitt er ønskelig kan dette leveres i ettertid på forespørsel.

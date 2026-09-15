@@ -1,0 +1,240 @@
+﻿Bunnkartlegging lokalitet Kvalnes 
+        
+           
+ 
+ 
+ 
+Bunnkartlegging 
+Multistråle  
+for 
+Kvalnes 
+ 
+ 
+ 
+Feltarbeid 
+26.07.2021 
+Oppdragsgiver 
+Andfjord Salmon AS 
+ 
+ 
+ 
+Bunnkartlegging lokalitet Kvalnes 
+        
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rapport bunnkartlegging Multistråle  
+Rapportnummer 
+103407-01-001 
+Rapportdato 
+30.07.2021 
+Dato feltarbeid 
+26.07.2021 
+Revisjonsnummer 
+Revisjonsbeskrivelse 
+Signatur 
+- 
+- 
+- 
+Lokalitet 
+Lokaliteter (lok.nr.) 
+ Kvalnes (38897) 
+Oppdragsgiver 
+Selskap 
+ Andfjord Salmon AS 
+Kontaktperson 
+Christine Thomassen 
+Oppdragsansvarlig 
+Selskap 
+Åkerblå AS  
+Nordfrøyveien 413                    
+Organisasjonsnummer 916 763 816 
+7260 Sistranda 
+Ansvarlig feltarbeid 
+Sondre Jørstad 
+Rapportansvarlig 
+Knut Halvor R Bjørnebye 
+Forfatter (-e) 
+Knut Halvor R Bjørnebye 
+Godkjent av 
+Kristoffer Høyning 
+Distribusjon 
+Denne rapporten kan kun gjengis i sin helhet.  Gjengivelse av deler av 
+rapporten kan kun skje etter skriftlig tillatelse fra Åkerblå AS.  I slike 
+tilfeller skal kilde oppgis. 
+Bunnkartlegging lokalitet Kvalnes 
+        
+           
+ 
+ 
+Innhold 
+ ........................................................................................................................ 1 
+1 Bakgrunn ....................................................................................................................... 4 
+2 Materialer og metode .................................................................................................... 4 
+2.1 Utstyr.......................................................................................................... 4 
+2.2 Metode ........................................................................................................ 5 
+2.3 Omfanget av oppmålingen ............................................................................. 5 
+2.4 Bruk ............................................................................................................ 5 
+3. Resultater ..................................................................................................................... 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bunnkartlegging lokalitet Kvalnes 
+        
+           
+ 
+ 
+1 Bakgrunn 
+Det er gjennomført en bunnkartlegging av området utenfor det planlagte landbaserte 
+oppdrettsanlegget Kvalnes for Andfjord Salmon AS. Denne rapporten leveres som en 
+bekreftelse på utført feltarbeid, hvor batymetrien ble kartlagt den 26.07.2021. 
+Bunnoppmålingen presenteres som en OLEX-fil, kompatibel med olex-programvare og 
+utstedes som vedlegg samtidig med rapporten.   
+ 
+ 
+2 Materialer og metode 
+Bunnkartleggingen ble gjennomført med Åkerblås båt «Bergnebb» den 26.07.2021.  
+ 
+2.1 Utstyr 
+Bunntopografi ble kartlagt med multistråle-ekkolodd tilkoblet Olex. Datasystemet Olex plotter 
+målte dybder fra ekkoloddet inn i sjøkartet ved hjelp av nøyaktige posisjonering- og 
+bevegelses-systemer. Oppløsningen av rutenettet på bunnen er satt til 23 x 23 cm. Mellom 
+hvert loddskudd vil dataprogrammet beregne sannsynlig dybde ved interpolering.  
+ 
+Utstyret for bunntopografi kartlegging er levert av Maritim Elektro.  Spesifikasjoner for utstyr 
+er oppgitt i Tabell 1.  
+ 
+Tabell 1. Spesifikasjoner utstyr.  
+ 
+Utstyr 
+Type 
+Hensikt 
+Datamaskin 
+M3 – Kompakt 
+industrimaskin 
+Olex versjon 
+11.8 
+Logge/tegne bunndata målt med multistråle i 
+kart. 
+Atec multistrålesonar 
+ATEC-200 
+Kartlegge havbunn med opptil 180 graders 
+åpningsvinkel. 500 m rekkevidde.  
+GPS 
+Trimble BX982 
+(03) 
+Benytter 2 antenner for nøyaktig beregning av 
+posisjon, fart og kurs.  
+Bevegelsessensor 
+Spatial EK S/N 
+Kombinerer akselerometre med GPS, og 
+beregner nøyaktig båtens pitch, roll, heave og 
+heading. Data sendes til olex og benyttes til å 
+kompansere avvik i posisjonerign som følge av 
+båtens bevegelser.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bunnkartlegging lokalitet Kvalnes 
+        
+           
+ 
+ 
+2.2 Metode 
+Overnevnt utsyr er montert i Åkerblås arbeidsbåt «Bergnebb», og all kartlegging er 
+gjennomført med den. Utstyret startes opp når man har kommet fram til angitt posisjon. 
+Båtens fart og valg av rute for oppmålingen tilpasses de gjeldende vind- og bølgeforhold. Etter 
+gjennomført oppmåling lagres en kopi av rådata, før prosessering av bunndata gjennomføres. 
+Bunndata prosesseres maskinelt (vaskes med olex programvare) fra 1-3 ganger, før den 
+sjekkes manuelt. Ferdig prosessert Olex data sendes som .gz fil sammen med denne rapporten 
+til oppdragsgiver. 
+ 
+2.3 Omfanget av oppmålingen 
+Oppmålingsomfanget ble fokusert mot området rundt eksisterende utslippspunkter, som 
+ønsket av kunde.  
+ 
+2.4 Bruk 
+De resulterende filene av bunnkartleggingen har bruksverdi på flere områder, enten det er 
+ved etablering, forvaltning eller ved flytting eller endring av anleggsbruken. Filene er 
+kompatible med OLEX, et navigasjons- og kartleggingssystem, og presenterer dybder og 
+indikasjon på sedimenthardhet. I programvaren kan brukeren se batymetrisk kontur i 2 eller 
+3 dimensjoner, samt gjøre lengde og arealberegninger En illustrasjon på resultatene fra 
+kartleggingen av dybde (Figur 3.1 og 3.2) og 3D visning (Figur 3.3) er hentet fra området 
+utenfor det planlagt anlegget. 
+ 
+ 
+ 
+3. Resultater 
+Dybdekoter på området kartlagt av Åkerblå AS er vist i figur 3.1. Avstand mellom kotene er 5 
+meter.  Figur 3.2 viser både området Andfjord Salmon har fått kartlagt fra tidligere og det nylig 
+kartlagte området. De to forskjellige bunnkartene stemmer godt overens fra grunnere 
+områder ned mot 160 meters dyp, men videre ut i de dypere områdene blir skråningen 
+brattere i Åkerblås kartlagte data enn i datasettet som forelå fra før. En sammenlikning med 
+offentlig tilgjengelig bunnkart (deledata) fra Olex tyder på at dybdene i østkanten av de 
+kartlagte områdene stemmer bedre overens med Åkerblå sitt bunnkart. Batymetrien er vist i 
+3D i figur 3.3. Målingene og antall målepunkter (kun vurdert for nylig oppgått bunnkart) var 
+tilfredsstillende (Figur 3.5). 
+ 
+Bunnkartlegging lokalitet Kvalnes 
+        
+           
+ 
+ 
+Figur 3.1. Dybdekoter over området rundt den planlagte lokaliteten.     
+Bunnkartlegging lokalitet Kvalnes 
+        
+           
+ 
+ 
+Figur 3.2. Bunnkart med nylig oppgått kart (nord og sør), samt oversendt bunnkart gått opp tidligere (midten).  
+ 
+Bunnkartlegging lokalitet Kvalnes 
+        
+           
+ 
+ 
+ 
+Figur 3.3. Eksempel på 3D visning av oppmålt batymetri.  
+Bunnkartlegging lokalitet Kvalnes 
+        
+           
+ 
+ 
+ 
+Figur 3.4. Antall målepunkt.
