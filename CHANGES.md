@@ -2,9 +2,10 @@
 
 ## 2026-09-15
 
-- Case views mark entries whose documents are published here with a pulsing
-  dot (static ring under prefers-reduced-motion), so readable entries stand out
-  in a long list.
+- Case views mark entries whose documents are published here with a dot; the
+  dot pulses only while that entry's documents are on screen, so the marker
+  follows what you are reading. Others keep a quiet ring, and the pulse is
+  replaced by a static ring under prefers-reduced-motion.
 - Full-text archive for the documents: `pipeline/docs/extract_text.py` keeps
   the originals untouched on the external drive and writes one text file per
   document plus `index.json` with provenance (source path, SHA-256, size, MIME,

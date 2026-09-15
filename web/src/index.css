@@ -306,16 +306,19 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
 .case-title { grid-column: 1 / -1; color: var(--fg); text-decoration: none; }
 .case-title:hover { text-decoration: underline; }
 .case small { grid-column: 1 / -1; }
+.case-docs { grid-column: 1 / -1; }
 .case-dot {
   width: 7px; height: 7px; border-radius: 50%; background: var(--brand); flex: none;
-  align-self: center; justify-self: start; animation: case-pulse 2s ease-out infinite;
+  align-self: center; justify-self: start; box-shadow: 0 0 0 2px rgba(11,61,92,.14);
 }
+/* Pulses only while this entry's documents are in view (IntersectionObserver in CaseDocs). */
+.case.docs-in-view .case-dot { animation: case-pulse 2s ease-out infinite; }
 @keyframes case-pulse {
   0% { box-shadow: 0 0 0 0 rgba(11,61,92,.5); }
   70% { box-shadow: 0 0 0 6px rgba(11,61,92,0); }
   100% { box-shadow: 0 0 0 0 rgba(11,61,92,0); }
 }
-@media (prefers-reduced-motion: reduce) { .case-dot { animation: none; box-shadow: 0 0 0 2px rgba(11,61,92,.25); } }
+@media (prefers-reduced-motion: reduce) { .case.docs-in-view .case-dot { animation: none; box-shadow: 0 0 0 4px rgba(11,61,92,.35); } }
 .case-doc { grid-column: 1 / -1; font-size: 12px; margin-top: 2px; }
 .case-doc a { color: var(--brand); }
 .case-ocr { color: var(--brand); font-style: normal; font-size: 11px; }
