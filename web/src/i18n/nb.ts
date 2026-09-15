@@ -453,7 +453,7 @@ export const nb: Record<string, string> = {
   'help.chart.4': 'Nedtrekksmenyen velger siste år, 4 år, 8 år eller alt siden 2012. «Siste 12 uker som tabell» lister tallene.',
   'help.layers.title': 'Kartlag',
   'help.layers.1': 'Kartlagene ligger i faner: Akvakultur, Havbunn, Hav, Miljø, Fiskeri, Skipsfart — mest nyttige først. Sirkelen på en fane viser hvor mange lag som er på (oransje) eller tilgjengelige (omriss); klikk på den for å slå hele gruppen av eller på igjen (valget gjenopprettes).',
-  'help.layers.2': 'Hvert lag oppgir kilde, lisens og lagring; lag med fargeskala viser tegnforklaring når de er på.',
+  'help.layers.2': 'Hvert lag oppgir kilde, lisens og lagring, og viser tjenestens egen tegnforklaring mens laget er på, slik at symboler og fargeskalaer kan leses direkte.',
   'help.layers.3': 'AIS-tetthetslagene toner ned celler med lite trafikk slik at travle leder trer fram.',
   'help.layers.4': 'Alle lagvalg huskes på denne enheten.',
   'help.layers.5': '**Behandlingsintensitet** (fanen Akvakultur) tegner andelen produksjonsuker med lusebehandling de siste fire årene, utjevnet over anlegg innen en radius R du velger; hold pekeren over for verdien i et punkt.',
