@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- The Cases panel rings the localities its list covers on the map, following
+  the search and filters as you type; the panel says how many. The rings use
+  their own source, so they show even when the locality overlay is off, and the
+  filter is updated in place so the map does not rebuild.
 - Cases panel fits the side panel again: the controls wrap to two rows instead
   of pushing "With text" off the edge, long file names and case titles wrap, and
   the panel no longer scrolls sideways. Checked in both languages.

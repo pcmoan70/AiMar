@@ -50,6 +50,7 @@ function MapApp() {
   const [seatemp, setSeatemp] = useState<SeaTemp | null>(null)
   const [tides, setTides] = useState<Tides | null>(null)
   const [menu, setMenu] = useState<MenuState | null>(null)
+  const [caseSites, setCaseSites] = useState<number[] | null>(null)
 
   useEffect(() => {
     loadLocalities().then(setLocalities).catch(console.error)
@@ -154,6 +155,7 @@ function MapApp() {
           liceDim={liceDim}
           liceOver={liceOver}
           liceRanks={liceRanks}
+          caseSites={s.panel === 'cases' ? caseSites : null}
           onSelect={select}
           onContextMenu={(locality, point) => setMenu({ locality, x: point.x, y: point.y })}
           onMap={setMap}
@@ -174,6 +176,7 @@ function MapApp() {
                 cases={cases}
                 localities={localities}
                 loknrs={filteredLoknrs}
+                onSites={setCaseSites}
                 onPick={(nr) => {
                   const f = localities?.features.find((x) => x.properties.loknr === nr)
                   if (f) pickLocality(f)

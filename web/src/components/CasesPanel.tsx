@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, searchRows, sortRows, type CaseKind, type CaseRow, type CaseSort, type Cases } from '../lib/cases'
 import type { Localities } from '../lib/localities'
 import { useT } from '../lib/i18n'
@@ -11,12 +11,14 @@ interface Props {
   /** Localities passing the map filters; null = no filter (all). */
   loknrs: number[] | null
   onPick: (loknr: number) => void
+  /** Localities covered by the filtered list, for the rings on the map. */
+  onSites: (loknrs: number[] | null) => void
 }
 
 const PAGE = 200
 
 /** All case-history entries for the filtered localities with search, kind filter and sorting. */
-export default function CasesPanel({ cases, localities, loknrs, onPick }: Props) {
+export default function CasesPanel({ cases, localities, loknrs, onPick, onSites }: Props) {
   const t = useT()
   const [query, setQuery] = useState('')
   const [sort, setSort] = useState<CaseSort>('date')
@@ -44,6 +46,13 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
     [all, query, kinds, sort, desc, names, onlyText, cases],
   )
   const siteCount = loknrs ? loknrs.length : (localities?.features.length ?? 0)
+  // Ring the localities of the rows currently listed; clear the rings when the panel closes.
+  const shownSites = useMemo(() => [...new Set(rows.flatMap((r) => r.loknrs))].sort((a, b) => a - b), [rows])
+  const report = useCallback(onSites, [onSites])
+  useEffect(() => {
+    report(shownSites)
+    return () => report(null)
+  }, [shownSites, report])
 
   const toggleKind = (k: CaseKind) => {
     const next = new Set(kinds)
@@ -86,6 +95,9 @@ export default function CasesPanel({ cases, localities, loknrs, onPick }: Props)
         <Hint id="casesPanel" text={t('hint.casesPanel')}>{t('cases.title')}</Hint>
       </h2>
       <p className="muted">{t(loknrs ? 'cases.countFiltered' : 'cases.countAll', { n: all.length, m: siteCount })}</p>
+      <p className="muted cases-sites">
+        <span className="case-site-key" /> {t('cases.onMap', { n: shownSites.length })}
+      </p>
       <input
         type="search"
         placeholder={t('cases.search')}
