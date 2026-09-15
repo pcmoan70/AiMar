@@ -252,7 +252,7 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .lice-scrub-year { stroke: #e3e8ec; stroke-width: 1; vector-effect: non-scaling-stroke; }
 .lice-scrub-spring { fill: rgba(201,83,31,.07); }
 .lice-scrub-cursor { stroke: #111; stroke-width: 2; }
-.lice-readout { display: grid; grid-template-columns: 11ch 15ch 17ch 19ch 16ch 15ch minmax(18ch, 1fr); gap: 0 8px; align-items: baseline; white-space: nowrap; }
+.lice-readout { display: grid; grid-template-columns: 13ch 15ch 14ch 16ch 14ch 18ch minmax(14ch, 1fr); gap: 0 8px; align-items: baseline; white-space: nowrap; }
 .lice-readout > span { overflow: hidden; text-overflow: ellipsis; }
 .lice-key { display: grid; grid-template-columns: repeat(6, 1fr); gap: 2px 8px; color: var(--muted); align-items: center; }
 .lice-bin { display: inline-flex; align-items: center; gap: 4px; white-space: nowrap; }

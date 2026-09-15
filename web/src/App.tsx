@@ -27,7 +27,7 @@ import { filteredLoknrs as computeFiltered } from './lib/filters'
 import FilterChips from './components/FilterChips'
 import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealth'
 import { loadCases, type Cases } from './lib/cases'
-import { loadSeaTemp, loadTides, warmAtSeasonWeek, warmAtWeek, warmShares, type SeaTemp, type Tides } from './lib/siteData'
+import { loadSeaTemp, loadTides, warmAtSeasonWeek, warmAtWeek, warmCounts, type SeaTemp, type Tides } from './lib/siteData'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
 
@@ -100,7 +100,7 @@ function MapApp() {
     return bins
   }, [liceColours, liceValues])
   const warmSeries = useMemo(
-    () => (seatemp && fishhealth && liceLayersOn ? warmShares(seatemp, fishhealth.weeks, s.warmC) : null),
+    () => (seatemp && fishhealth && liceLayersOn ? warmCounts(seatemp, fishhealth.weeks, s.warmC) : null),
     [seatemp, fishhealth, liceLayersOn, s.warmC],
   )
   const warm = useMemo(() => {

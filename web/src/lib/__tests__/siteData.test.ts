@@ -25,11 +25,19 @@ describe('warm sites', () => {
       weeks: ['2023-20', '2023-21', '2024-20'],
       localities: { '1': [13, 9, 14], '2': [11, 12, 11.5], '3': [null, null, null] },
     }
-    expect(warmAtWeek(data, '2023-20')).toEqual({ above: 1, measured: 2 })
+    expect(warmAtWeek(data, "2023-20")).toEqual({ above: 1, measured: 2 })
     expect(warmAtWeek(data, '2023-20', 10)).toEqual({ above: 2, measured: 2 })
     // week 20 averaged over 2023 and 2024: site 1 = 13.5, site 2 = 11.25
     expect(warmAtSeasonWeek(data, 20)).toEqual({ above: 1, measured: 2 })
     expect(warmAtSeasonWeek(data, 20, 14)).toEqual({ above: 0, measured: 2 })
     expect(warmAtWeek(data, '2030-01')).toEqual({ above: 0, measured: 0 })
+  })
+})
+
+describe('warm counts per week', () => {
+  it('counts sites above the threshold so the caller can divide by the operating sites', async () => {
+    const { warmCounts } = await import('../siteData')
+    const data = { retrieved: '', weeks: ['2024-20', '2024-21'], localities: { '1': [13, 9], '2': [11, 14], '3': [null, 13] } }
+    expect(warmCounts(data, ['2024-20', '2024-21', '2024-22'], 12.5)).toEqual([1, 2, 0])
   })
 })

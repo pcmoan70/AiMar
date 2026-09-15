@@ -14,7 +14,7 @@ interface Props {
   values: Map<number, number | null>
   /** Sites whose reported sea temperature exceeds 12.5 °C that week, when the snapshot is loaded. */
   warm: { above: number; measured: number } | null
-  /** Share of sites above the warm-water threshold, per week, drawn as the third curve. */
+  /** Sites above the warm-water threshold per week; divided by the operating sites for the curve. */
   warmSeries: number[] | null
 }
 
@@ -56,14 +56,19 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values, w
   const sum = summariseWeek(values, label, (nr) => fylkeOf.get(nr))
   const lim = limitsForWeek(label)
   const treatShare = season ? sea.treated[cursor] : shares.treated[week]
-  const treatedNow = Math.round(treatShare * sum.reporting)
+  const pct = (n: number) => (sum.reporting ? Math.round((100 * n) / sum.reporting) : 0)
 
   // Sparklines: the two shares on a shared scale, plus the last year as spikes in season mode.
   const above = season ? sea.above : shares.above
   const treated = season ? sea.treated : shares.treated
   const spikes = season ? (s.weekHeatMode === 'treatment' ? sea.lastTreated : sea.lastAbove) : null
-  const warmSeason = useMemo(() => (warmSeries ? byWeekNumber(fishhealth.weeks, warmSeries) : null), [fishhealth.weeks, warmSeries])
-  const warmLine = warmSeries ? (season ? warmSeason!.mean : warmSeries) : null
+  // Every share in the readout and in the graph has the same base: the sites operating that week.
+  const warmShare = useMemo(
+    () => (warmSeries ? warmSeries.map((n, i) => (shares.reporting[i] ? n / shares.reporting[i] : 0)) : null),
+    [warmSeries, shares.reporting],
+  )
+  const warmSeason = useMemo(() => (warmShare ? byWeekNumber(fishhealth.weeks, warmShare) : null), [fishhealth.weeks, warmShare])
+  const warmLine = warmShare ? (season ? warmSeason!.mean : warmShare) : null
   const warmSpikes = season && warmSeason ? warmSeason.last : null
   const ymax = Math.max(0.05, ...above, ...treated, ...(spikes?.map((v) => v ?? 0) ?? []))
   // Temperature runs far higher than the two shares in summer, so it keeps its own scale and reads as a backdrop.
@@ -193,15 +198,15 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values, w
         </span>
         <span className="lice-readout-n muted">{t(season ? 'liceWeek.reportingMean' : 'liceWeek.reporting', { n: sum.reporting })}</span>
         <span className="lice-readout-n" style={{ color: ABOVE_COLOUR }}>
-          {t('liceWeek.above', { m: sum.aboveLimit, p: sum.reporting ? Math.round((100 * sum.aboveLimit) / sum.reporting) : 0 })}
+          {t('liceWeek.above', { p: pct(sum.aboveLimit) })}
         </span>
         <span className="lice-readout-n" style={{ color: TREAT_COLOUR }}>
-          {t('liceWeek.treated', { k: treatedNow, p: Math.round(100 * treatShare) })}
+          {t('liceWeek.treated', { p: Math.round(100 * treatShare) })}
         </span>
         <span className="lice-readout-n" style={{ color: WARM_COLOUR }}>
           {warm ? (
             <Hint id="warmSites" text={t('hint.warmSites', { n: warm.measured, c: s.warmC.toLocaleString(numberLocale()) })}>
-              {t('liceWeek.warm', { n: warm.above, c: s.warmC.toLocaleString(numberLocale()) })}
+              {t('liceWeek.warm', { p: pct(warm.above), c: s.warmC.toLocaleString(numberLocale()) })}
             </Hint>
           ) : (
             ''

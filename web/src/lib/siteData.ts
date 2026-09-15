@@ -87,21 +87,19 @@ export function warmAtSeasonWeek(data: SeaTemp, weekOfYear: number, threshold = 
   )
 }
 
-/** Share of sites reporting a temperature above `threshold`, per week label. */
-export function warmShares(data: SeaTemp, weeks: string[], threshold: number): number[] {
+/** Number of sites reporting a temperature above `threshold`, per week label.
+ *  The caller divides by the operating (lice-reporting) sites, so every share in the readout has the same base. */
+export function warmCounts(data: SeaTemp, weeks: string[], threshold: number): number[] {
   const at = new Map(data.weeks.map((w, i) => [w, i]))
   const arrays = Object.values(data.localities)
   return weeks.map((w) => {
     const i = at.get(w)
     if (i === undefined) return 0
     let above = 0
-    let measured = 0
     for (const arr of arrays) {
       const v = arr[i]
-      if (v == null) continue
-      measured++
-      if (v > threshold) above++
+      if (v != null && v > threshold) above++
     }
-    return measured ? above / measured : 0
+    return above
   })
 }

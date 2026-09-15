@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- Week readout gives shares only, all on the same base: of the sites operating
+  that week, the percentage above the lice limit, the percentage treated and
+  the percentage with sea temperature over the threshold. The temperature curve
+  now plots that same share.
 - Scrubber gains a third curve: the share of sites above the warm-water
   threshold, dashed, on its own scale (temperature runs far higher than the two
   shares in summer), with last-year spikes in the season view.
