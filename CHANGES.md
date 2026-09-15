@@ -2,6 +2,13 @@
 
 ## 2026-09-15
 
+- Full-text archive for the documents: `pipeline/docs/extract_text.py` keeps
+  the originals untouched on the external drive and writes one text file per
+  document plus `index.json` with provenance (source path, SHA-256, size, MIME,
+  method, pages, OCR pages, tool versions, entry id, title). PDF text layers
+  via PyMuPDF, scans and images via tesseract (nor+eng), DOCX via pandoc,
+  XLSX via openpyxl. `web/scripts/apply-doc-text.mjs` refreshes the app's
+  excerpts and marks OCR'd text with [OCR].
 - Document excerpts published: 3 845 files (5.5 GB, kept on the external
   drive) for 911 entries, 3 337 with extracted text; `docs.json` holds only
   what the app shows, the harvester's bookkeeping moved to

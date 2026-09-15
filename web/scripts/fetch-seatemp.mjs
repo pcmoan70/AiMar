@@ -3,12 +3,15 @@
 // on the same week index as fishhealth.json. Resumable and idempotent: completed
 // past years are stored in `done` and never fetched again; the current year is
 // refreshed on every run. Needs BW_CLIENT_ID / BW_CLIENT_SECRET (env or web/.env.local).
-import { readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, rename, writeFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 import { setDefaultAutoSelectFamilyAttemptTimeout } from 'node:net';
 // Node gives each address family 250 ms by default; slow hosts (api.einnsyn.no) then fail with ETIMEDOUT while curl succeeds.
 setDefaultAutoSelectFamilyAttemptTimeout(10000);
 
 const OUT = new URL('../public/data/', import.meta.url);
+/** Completed locality-years live outside public/ so the served file carries data only. */
+const STATE = new URL('../data-state/seatemp-state.json', import.meta.url);
 const START_YEAR = 2012;
 const BASE = 'https://www.barentswatch.no/bwapi/v1/geodata/fishhealth';
 const SAVE_EVERY = 200; // requests between checkpoints
@@ -73,7 +76,8 @@ const thisYear = new Date().getUTCFullYear();
 
 const prev = await readFile(new URL('seatemp.json', OUT), 'utf8').then(JSON.parse, () => null);
 const data = prev?.localities ?? {};
-const done = new Set(prev?.done ?? []); // "loknr:year" for complete past years
+const state = await readFile(STATE, 'utf8').then(JSON.parse, () => ({ done: prev?.done ?? [] }));
+const done = new Set(state.done ?? []); // "loknr:year" for complete past years
 // Re-align previous arrays if the week index grew
 for (const nr of Object.keys(data)) if (data[nr].length < weeks.length) data[nr] = [...data[nr], ...new Array(weeks.length - data[nr].length).fill(null)];
 
@@ -82,8 +86,11 @@ for (const nr of loknrs) for (let y = START_YEAR; y <= thisYear; y++) if (!done.
 console.log(`${jobs.length} locality-years to fetch (${done.size} already complete)`);
 
 async function save() {
-  const out = { retrieved: new Date().toISOString(), weeks, localities: data, done: [...done] };
-  await writeFile(new URL('seatemp.json', OUT), JSON.stringify(out));
+  const target = fileURLToPath(new URL('seatemp.json', OUT));
+  await writeFile(target + '.tmp', JSON.stringify({ retrieved: new Date().toISOString(), weeks, localities: data }));
+  await rename(target + '.tmp', target); // atomic replace
+  await mkdir(new URL('.', STATE), { recursive: true });
+  await writeFile(STATE, JSON.stringify({ done: [...done] }));
 }
 let n = 0;
 for (const [nr, y] of jobs) {

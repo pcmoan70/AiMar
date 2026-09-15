@@ -298,6 +298,8 @@ export const nb: Record<string, string> = {
   'case.out': 'utgående',
   'case.internal': 'internt',
   'case.document': 'Dokument',
+  'case.ocr': '[OCR]',
+  'case.ocrTitle': 'Tekst gjenkjent fra et skannet dokument; kan inneholde feil',
   'cases.title': 'Saksganger',
   'cases.notLoaded': 'Journalposter er ikke lastet.',
   'cases.countAll': '{n} journalposter for alle {m} lokaliteter. Bruk selskapsvelgeren eller filtrene i detaljpanelet for å avgrense listen.',

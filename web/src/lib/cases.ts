@@ -18,8 +18,12 @@ export interface CaseDoc {
   title: string
   format: string
   bytes: number
-  /** first characters of the document text (pdftotext), empty when not extractable */
+  /** first characters of the document text, empty when not extractable */
   excerpt: string
+  /** how the text was obtained: pdf-text, ocr, mixed, pandoc, xlsx, plain, xml (absent before the text pipeline ran) */
+  method?: string
+  /** length of the full extracted text */
+  chars?: number
 }
 
 export interface Cases {

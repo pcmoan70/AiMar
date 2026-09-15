@@ -34,3 +34,26 @@ automatically: `xr.open_dataset(path)`. The grid (lon, lat, bathymetry h) is
 in `raw/norkyst/grid.nc`. Statistics for temperature and salinity
 (`temperature_mMM.nc`, `salinity_mMM.nc`) carry mean, p10, p90, `calm_share`
 (below 4 °C / 20 PSU) and `high_share` (above 18 °C).
+
+## Document text archive (`pipeline/docs/`)
+
+`extract_text.py` reads the eInnsyn originals under
+`/media/pc/ext4TB/AiMar/docs/einnsyn/` (never modified) and writes
+`/media/pc/ext4TB/AiMar/docs/text/<id>.txt` plus `index.json`, one provenance
+record per document: source path, SHA-256, bytes, MIME type, method
+(`pdf-text`, `ocr`, `mixed`, `pandoc`, `xlsx`, `plain`, `xml`, or `failed`),
+pages, OCR'd pages, character count, OCR language, tool versions, timestamp,
+and the eInnsyn entry id and title from `web/public/data/docs.json`.
+
+- PDF: PyMuPDF text layer per page; pages with fewer than 40 characters are
+  rendered at 300 dpi and OCR'd with tesseract (`nor+eng`).
+- Images: tesseract. DOCX: pandoc. XLSX: openpyxl. TXT/XML: decoded directly.
+- Idempotent: a file whose SHA-256 already has a successful record is skipped;
+  the index is checkpointed every 25 documents.
+
+```bash
+conda create -n aimar-ocr -c conda-forge python=3.12 tesseract pymupdf
+# Norwegian model: nor.traineddata from tesseract-ocr/tessdata_fast into $CONDA_PREFIX/share/tessdata
+conda run -n aimar-ocr python pipeline/docs/extract_text.py --workers 4
+node web/scripts/apply-doc-text.mjs   # refresh excerpts + method in docs.json
+```

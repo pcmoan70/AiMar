@@ -6,7 +6,8 @@
 // Runs are incremental: entries already in docs.json are not looked up again.
 //   DOCS_DIR=/media/pc/ext4TB/AiMar/docs/einnsyn node scripts/fetch-docs.mjs
 import { execFile } from 'node:child_process';
-import { mkdir, readFile, stat, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, rename, stat, writeFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { promisify } from 'node:util';
@@ -55,7 +56,9 @@ async function save() {
   for (const k of Object.keys(docs)) docs[k] = [...new Map(docs[k].map((x) => [x.id, x])).values()];
   let total = 0;
   for (const list of Object.values(docs)) for (const x of list) total += x.bytes;
-  await writeFile(new URL('docs.json', OUT), JSON.stringify({ retrieved: new Date().toISOString(), bytes: total, docs }));
+  const target = fileURLToPath(new URL('docs.json', OUT));
+  await writeFile(target + '.tmp', JSON.stringify({ retrieved: new Date().toISOString(), bytes: total, docs }));
+  await rename(target + '.tmp', target); // atomic replace
   await mkdir(new URL('.', STATE), { recursive: true });
   await writeFile(STATE, JSON.stringify({ seen: [...seen], pending }));
   return total;

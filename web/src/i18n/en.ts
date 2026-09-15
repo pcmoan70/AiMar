@@ -298,6 +298,8 @@ export const en: Record<string, string> = {
   'case.out': 'sent',
   'case.internal': 'internal',
   'case.document': 'Document',
+  'case.ocr': '[OCR]',
+  'case.ocrTitle': 'Text recognised from a scanned document; may contain errors',
   'cases.title': 'Case histories',
   'cases.notLoaded': 'Case records not loaded.',
   'cases.countAll': '{n} entries for all {m} localities. Use the operator dropdown or the site-panel filters to narrow the list.',

@@ -179,7 +179,12 @@ every published file from `/dokumentobjekt/{id}/download` into `DOCS_DIR`
 (scratch by default; `/media/pc/ext4TB/AiMar/docs/einnsyn` locally), extracts
 the first 500 characters with `pdftotext` and writes `docs.json` (entry id →
 documents with title, format, size, excerpt). Incremental: entries already
-looked up are skipped; that bookkeeping (`seen`, `pending`) is kept in
+looked up are skipped. `pipeline/docs/extract_text.py` (conda env `aimar-ocr`)
+turns every original into `docs/text/<id>.txt` with an `index.json` provenance
+record (SHA-256, MIME, method, pages, OCR pages, tools, entry, title); PDF text
+layers via PyMuPDF, pages below 40 characters and images via tesseract
+(nor+eng), DOCX via pandoc, XLSX via openpyxl. `apply-doc-text.mjs` copies the
+first 500 characters and the method back into `docs.json`. That bookkeeping (`seen`, `pending`) is kept in
 `web/data-state/docs-state.json`, committed but not served. The app links the
 file on the eInnsyn API.
 
