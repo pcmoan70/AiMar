@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { farmLiceStats, isoWeekStart, liceAtWeek, liceBin, liceColour, NOT_REPORTED_COLOUR, summariseWeek } from '../liceWeek'
+import { farmLiceStats, isoWeekStart, liceAtWeek, liceBin, liceColour, NOT_REPORTED_COLOUR, summariseWeek, weekShares } from '../liceWeek'
 import type { FishHealth } from '../fishhealth'
 import type { Localities } from '../localities'
 
@@ -31,6 +31,12 @@ describe('lice per week', () => {
     const farms = farmLiceStats(fh, loc, 1)
     expect(farms.map((f) => f.treat)).toEqual([0.7, 0.3]) // site 3 is fallow (flag bit 2) in week 2
     expect(farms.every((f) => f.prod === 1)).toBe(true)
+  })
+  it('computes whole-period shares for the scrubber', () => {
+    const w = weekShares(fh, () => 'VESTLAND')
+    expect(w.reporting).toEqual([2, 3])
+    expect(w.above).toEqual([0, 1 / 3]) // week 46: only 0.7 exceeds 0.5
+    expect(w.treated).toEqual([0, 0])
   })
   it('finds the Monday of an ISO week', () => {
     expect(isoWeekStart(2024, 46).toISOString().slice(0, 10)).toBe('2024-11-11')

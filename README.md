@@ -69,7 +69,8 @@ with `BASE_PATH=/`.
 - Every figure has a hover explanation (source and calculation method).
 - English and Norwegian UI (login screen and ⚙ Settings), including hover
   explanations and help.
-- Lice per week: a year/week slider colours every locality by its reported
+- Lice per week: a year/week scrubber (sparklines of farms above the limit
+  and farms treated, arrow keys) colours every locality by its reported
   lice that week and can smooth them into a lice-pressure heatmap within R km.
   Limits follow the regulation: 0.5, or 0.2 in the spring weeks (16–21 from
   Trøndelag southwards, 21–26 from Nordland northwards).

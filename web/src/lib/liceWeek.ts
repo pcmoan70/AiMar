@@ -72,6 +72,32 @@ export function summariseWeek(values: Map<number, number | null>, week: string, 
   return { reporting, aboveLimit, bins }
 }
 
+export interface WeekShares {
+  /** share (0–1) of reporting farms above the limit in force, per week */
+  above: number[]
+  /** share (0–1) of reporting farms with mechanical or medicinal treatment, per week */
+  treated: number[]
+  reporting: number[]
+}
+/** Whole-period series for the scrubber sparklines. */
+export function weekShares(data: FishHealth, fylkeOf: (loknr: number) => string | null | undefined): WeekShares {
+  const n = data.weeks.length
+  const above = new Array(n).fill(0)
+  const treated = new Array(n).fill(0)
+  const reporting = new Array(n).fill(0)
+  for (const [nr, d] of Object.entries(data.localities)) {
+    const fylke = fylkeOf(Number(nr))
+    for (let i = 0; i < n; i++) {
+      const v = d.l[i]
+      if (v == null) continue
+      reporting[i]++
+      if (v > liceLimit(data.weeks[i], fylke)) above[i]++
+      if (d.f[i] & (FLAG.mechanical | FLAG.substance)) treated[i]++
+    }
+  }
+  return { above: above.map((a, i) => (reporting[i] ? a / reporting[i] : 0)), treated: treated.map((a, i) => (reporting[i] ? a / reporting[i] : 0)), reporting }
+}
+
 // Current week's values for the map hover card (set by App, read by HoverInfo).
 let current: Map<number, number | null> | null = null
 export const setLiceWeekValues = (m: Map<number, number | null> | null) => (current = m)

@@ -2,8 +2,10 @@
 
 ## 2026-09-15
 
-- Lice per week: two Aquaculture layers driven by a year/week slider at the
-  bottom of the map (◀ ▶ step a week). "Lice per week" colours every locality
+- Lice per week: two Aquaculture layers driven by a year/week scrubber at the
+  bottom of the map: a timeline with two sparklines (share of reporting farms
+  above the limit in force, share with a treatment registered), click/drag,
+  ◀ ▶, arrow keys (Page Up/Down = a year); fixed-width readout and colour key. "Lice per week" colours every locality
   by its reported adult female lice that week (5 bins, grey = no report);
   "Lice pressure per week" is a kernel-weighted mean of the reported lice
   within R km. Hover shows the value; the slider shows farms reporting, farms
