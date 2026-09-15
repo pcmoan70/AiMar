@@ -59,7 +59,9 @@ function isoWeekNow() {
 await loadEnv();
 const token = await getToken();
 const localities = JSON.parse(await readFile(new URL('localities.geojson', OUT), 'utf8'));
-const wanted = new Set(localities.features.map((f) => f.properties.loknr));
+// Withdrawn sites reported lice while they operated, so their history is worth keeping too.
+const deleted = await readFile(new URL('deleted_localities.geojson', OUT), 'utf8').then(JSON.parse, () => ({ features: [] }));
+const wanted = new Set([...localities.features, ...deleted.features].map((f) => f.properties.loknr));
 
 const now = isoWeekNow();
 const weeks = [];

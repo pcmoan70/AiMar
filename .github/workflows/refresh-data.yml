@@ -22,6 +22,7 @@ jobs:
           node-version: 22
       - run: node scripts/fetch-data.mjs
       - run: node scripts/gen-operator-colours.mjs
+      - run: node scripts/fetch-deleted.mjs
       - run: node scripts/fetch-cases.mjs
       - run: sudo apt-get install -y -q poppler-utils && node scripts/fetch-docs.mjs
       - run: node scripts/fetch-fishhealth.mjs
@@ -33,7 +34,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           git add public/data data-state src/lib/operatorColours.ts
-          if git diff --cached --quiet -- public/data/localities.geojson public/data/site_polygons.geojson public/data/fishhealth.json public/data/cases.json public/data/docs.json src/lib/operatorColours.ts; then
+          if git diff --cached --quiet -- public/data/localities.geojson public/data/site_polygons.geojson public/data/fishhealth.json public/data/cases.json public/data/docs.json public/data/deleted_localities.geojson src/lib/operatorColours.ts; then
             echo "No data changes"; exit 0
           fi
           git config user.name "github-actions[bot]"

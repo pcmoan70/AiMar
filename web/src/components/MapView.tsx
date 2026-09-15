@@ -25,6 +25,8 @@ export type Selection =
 /** What a map click hit; a border polygon only carries its locality number. */
 /** Opacity of localities with no lice report for the chosen week (not operating). */
 const NOT_REPORTED_ALPHA = 0.2
+/** Ring on sites over the lice limit in force that week (0.2 in the spring weeks, else 0.5). */
+const OVER_LIMIT_STROKE = '#7f0d0d'
 
 export const DELETED_LAYER = 'deleted-sites'
 /** Muted slate for withdrawn sites, distinct from the operator palette. */
@@ -42,7 +44,7 @@ function operatorFilter(_operators: string[], loknrs: number[] | null): { points
   return { points: expr, polygons: expr }
 }
 
-function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: number[] | null, liceColours: Map<number, string> | null, liceDim: number[] | null): StyleSpecification {
+function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: number[] | null, liceColours: Map<number, string> | null, liceDim: number[] | null, liceOver: number[] | null): StyleSpecification {
   const opf = operatorFilter(s.operatorFilter, polygonLoknrs)
   const sources: Record<string, SourceSpecification> = {}
   const layers: LayerSpecification[] = []
@@ -108,6 +110,8 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
         : null
       // Sites with no report for the chosen week were not operating: draw them faded.
       const opacityExpr: ExpressionSpecification | number = liceExpr && liceDim?.length ? (['match', ['get', 'loknr'], liceDim, NOT_REPORTED_ALPHA, 1] as unknown as ExpressionSpecification) : 1
+      const strokeExpr: ExpressionSpecification | string = liceExpr && liceOver?.length ? (['match', ['get', 'loknr'], liceOver, OVER_LIMIT_STROKE, '#ffffff'] as unknown as ExpressionSpecification) : '#ffffff'
+      const strokeWidth: ExpressionSpecification | number = liceExpr && liceOver?.length ? (['match', ['get', 'loknr'], liceOver, 2, 1] as unknown as ExpressionSpecification) : 1
       const colourExpr: ExpressionSpecification = liceExpr ?? [
         'case',
         ...assignments.flatMap((a): [ExpressionSpecification, string] => [
@@ -135,8 +139,8 @@ function buildStyle(s: Settings, selectedLoknr: number | null, polygonLoknrs: nu
           'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3, 9, 6, 14, 10],
           'circle-color': colourExpr,
           'circle-opacity': opacityExpr,
-          'circle-stroke-color': '#ffffff',
-          'circle-stroke-width': 1,
+          'circle-stroke-color': strokeExpr,
+          'circle-stroke-width': strokeWidth,
           'circle-stroke-opacity': opacityExpr,
         },
       })
@@ -165,13 +169,15 @@ interface Props {
   liceColours: Map<number, string> | null
   /** Locality numbers without a report for the chosen week, drawn faded. */
   liceDim: number[] | null
+  /** Locality numbers over the limit in force that week, ringed. */
+  liceOver: number[] | null
   onSelect: (hit: MapHit) => void
   /** Right-click: the locality under the pointer (or null) and the pixel position. */
   onContextMenu: (locality: LocalityProps | null, point: { x: number; y: number }) => void
   onMap: (map: MlMap | null) => void
 }
 
-export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, liceDim, onSelect, onContextMenu, onMap }: Props) {
+export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, onSelect, onContextMenu, onMap }: Props) {
   const container = useRef<HTMLDivElement>(null)
   const mapRef = useRef<MlMap | null>(null)
   const onSelectRef = useRef(onSelect)
@@ -180,14 +186,14 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
   onContextRef.current = onContextMenu
   const appliedStyle = useRef('')
   const settings = useSettings()
-  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? settings.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, settings.weekAxis, settings.seasonWeek])
+  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? settings.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, liceOver?.length ?? -1, settings.weekAxis, settings.seasonWeek])
 
   useEffect(() => {
     const s = getSettings()
-    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? s.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, s.weekAxis, s.seasonWeek])
+    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? s.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, liceOver?.length ?? -1, s.weekAxis, s.seasonWeek])
     const map = new MlMap({
       container: container.current!,
-      style: buildStyle(s, null, filteredLoknrs, liceColours, liceDim),
+      style: buildStyle(s, null, filteredLoknrs, liceColours, liceDim, liceOver),
       center: s.view.center,
       zoom: s.view.zoom,
       attributionControl: { compact: true },
@@ -241,7 +247,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
   useEffect(() => {
     if (!mapRef.current || styleKey === appliedStyle.current) return
     appliedStyle.current = styleKey
-    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours, liceDim), { diff: true })
+    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver), { diff: true })
   }, [styleKey]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return <div ref={container} className="map" />

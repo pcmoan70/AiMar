@@ -36,6 +36,15 @@
       "license": "NLOD 2.0",
       "featureCount": 48454,
       "retrieved": "2026-09-14T21:49:50.488Z"
+    },
+    {
+      "file": "deleted_localities.geojson",
+      "organisation": "Fiskeridirektoratet",
+      "dataset": "Deleted (withdrawn) aquaculture localities from Akvakulturregisteret, with their register entry",
+      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS/MapServer/5",
+      "license": "NLOD 2.0",
+      "featureCount": 2946,
+      "retrieved": "2026-09-15T11:46:22.359Z"
     }
   ]
 }

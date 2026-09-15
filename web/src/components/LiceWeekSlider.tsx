@@ -63,8 +63,21 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values }:
   const path = (vals: number[]) => vals.map((v, i) => `${i ? 'L' : 'M'}${x(i).toFixed(1)} ${y(v).toFixed(1)}`).join(' ')
   const spikePath = (vals: (number | null)[]) =>
     vals.map((v, i) => (v == null ? '' : `M${x(i).toFixed(1)} ${y(0).toFixed(1)} L${x(i).toFixed(1)} ${y(v).toFixed(1)}`)).join(' ')
-  // Timeline: a line per year. Season: quarter marks, and a band over the spring-limit weeks (16–26).
+  // Timeline: a line per year. Season: quarter marks. Both: a band over the spring-limit weeks 16–26
+  // (0.2 applies in 16–21 from Trøndelag south and in 21–26 from Nordland north).
   const marks = season ? [0, 13, 26, 39] : fishhealth.weeks.map((w, i) => (w.endsWith('-01') ? i : -1)).filter((i) => i >= 0)
+  const springBands: [number, number][] = useMemo(() => {
+    if (season) return [[15, 25]]
+    const out: [number, number][] = []
+    fishhealth.weeks.forEach((w, i) => {
+      const num = Number(w.slice(5))
+      if (num < 16 || num > 26) return
+      const last = out[out.length - 1]
+      if (last && last[1] === i - 1) last[1] = i
+      else out.push([i, i])
+    })
+    return out
+  }, [season, fishhealth.weeks])
 
   const svg = useRef<SVGSVGElement>(null)
   const dragging = useRef(false)
@@ -111,7 +124,9 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values }:
           onPointerUp={() => (dragging.current = false)}
           onPointerCancel={() => (dragging.current = false)}
         >
-          {season && <rect x={x(15)} width={x(25) - x(15)} y={0} height={SH} className="lice-scrub-spring" />}
+          {springBands.map(([a, b]) => (
+            <rect key={a} x={x(a)} width={Math.max(x(b) - x(a), 1)} y={0} height={SH} className="lice-scrub-spring" />
+          ))}
           {marks.map((i) => (
             <line key={i} x1={x(i)} x2={x(i)} y1={0} y2={SH} className="lice-scrub-year" />
           ))}
@@ -190,7 +205,7 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values }:
           <span className="lice-bin-count muted">{values.size - sum.reporting}</span>
         </span>
         <span className="lice-spark-key muted">
-          <i style={{ background: ABOVE_COLOUR }} /> {t('liceWeek.sparkAbove')} <i style={{ background: TREAT_COLOUR }} /> {t('liceWeek.sparkTreat')}
+          <i className="spring-key" /> {t('liceWeek.springKey')} <i style={{ background: ABOVE_COLOUR }} /> {t('liceWeek.sparkAbove')} <i style={{ background: TREAT_COLOUR }} /> {t('liceWeek.sparkTreat')}
           {spikes && (
             <>
               {' '}

@@ -2,6 +2,11 @@
 
 ## 2026-09-15
 
+- Spring limits are visible on the scrubber and the map: the timeline and the
+  season axis shade weeks 16–26, and localities over the limit in force that
+  week (0.2 in the spring weeks by region, else 0.5) get a dark red ring. In
+  week 18 of 2024 that is 6 sites against 3 under a flat 0.5 limit.
+- Tidal statistics for 1 713 localities and 2 946 withdrawn localities bundled.
 - While scrubbing, localities with no lice report for the chosen week (not
   operating) are drawn at 20 % opacity instead of solid grey, so the operating
   sites carry the picture.

@@ -12,6 +12,7 @@ import HeatmapLayer, { HEAT_LAYER_ID, LICE_HEAT_LAYER_ID } from './components/He
 import LiceWeekSlider from './components/LiceWeekSlider'
 import { farmTreatmentStats } from './lib/heatmap'
 import { farmSeasonStats, farmWeekStats, liceAtSeasonWeek, liceAtWeek, liceColour, SEASON_WEEKS, setLiceWeekValues, WEEK_HEAT_MAX } from './lib/liceWeek'
+import { liceLimit } from './lib/fishhealth'
 import SettingsMenu from './components/SettingsMenu'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
@@ -91,6 +92,14 @@ function MapApp() {
   }, [liceValues])
   const liceColours = useMemo(() => (liceValues && s.overlays.includes('lice-week') ? new Map([...liceValues].map(([nr, v]) => [nr, liceColour(v)])) : null), [liceValues, s.overlays])
   const liceDim = useMemo(() => (liceColours && liceValues ? [...liceValues].filter(([, v]) => v == null).map(([nr]) => nr) : null), [liceColours, liceValues])
+  // Sites over the limit in force that week — 0.2 in the spring weeks, by region — get a dark ring.
+  const liceOver = useMemo(() => {
+    if (!liceColours || !liceValues || !fishhealth || !localities) return null
+    const weeks = fishhealth.weeks
+    const label = season ? `${weeks[weeks.length - 1].slice(0, 4)}-${String(seasonWeek).padStart(2, '0')}` : weeks[liceWeek]
+    const fylke = new Map(localities.features.map((f) => [f.properties.loknr, f.properties.fylke]))
+    return [...liceValues].filter(([nr, v]) => v != null && v > liceLimit(label, fylke.get(nr))).map(([nr]) => nr)
+  }, [liceColours, liceValues, fishhealth, localities, season, seasonWeek, liceWeek])
   const treatmentFarms = useMemo(() => (localities && fishhealth ? farmTreatmentStats(fishhealth, localities) : null), [localities, fishhealth])
   const liceFarms = useMemo(
     () =>
@@ -127,6 +136,7 @@ function MapApp() {
           filteredLoknrs={filteredLoknrs}
           liceColours={liceColours}
           liceDim={liceDim}
+          liceOver={liceOver}
           onSelect={select}
           onContextMenu={(locality, point) => setMenu({ locality, x: point.x, y: point.y })}
           onMap={setMap}

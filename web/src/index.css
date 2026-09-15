@@ -260,6 +260,7 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .lice-bin-count { min-width: 4ch; text-align: right; }
 .lice-key i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; border: 1px solid #fff; box-shadow: 0 0 0 1px var(--line); flex: none; }
 .lice-spark-key { grid-column: 1 / -1; white-space: nowrap; }
+.lice-spark-key i.spring-key { background: rgba(201,83,31,.18); border: 1px solid rgba(201,83,31,.45); height: 9px; border-radius: 2px; }
 .lice-spark-key i { border: 0; box-shadow: none; border-radius: 2px; height: 3px; width: 16px; vertical-align: middle; margin: 0 4px 0 2px; }
 .filter-chips { position: absolute; top: 46px; left: 10px; z-index: 5; display: flex; flex-wrap: wrap; gap: 4px; max-width: 420px; }
 .chip {

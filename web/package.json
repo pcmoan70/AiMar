@@ -13,7 +13,8 @@
     "test": "vitest run",
     "fetch-fishhealth": "node scripts/fetch-fishhealth.mjs",
     "gen-operator-colours": "node scripts/gen-operator-colours.mjs",
-    "fetch-cases": "node scripts/fetch-cases.mjs"
+    "fetch-cases": "node scripts/fetch-cases.mjs",
+    "fetch-deleted": "node scripts/fetch-deleted.mjs"
   },
   "dependencies": {
     "@noble/hashes": "^2.4.0",
