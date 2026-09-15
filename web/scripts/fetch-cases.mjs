@@ -8,6 +8,9 @@
 //   node scripts/fetch-cases.mjs --full       re-harvest the whole period
 //   node scripts/fetch-cases.mjs --rematch    re-run the matcher on the stored entries, no API calls
 import { readFile, writeFile } from 'node:fs/promises';
+import { setDefaultAutoSelectFamilyAttemptTimeout } from 'node:net';
+// Node gives each address family 250 ms by default; slow hosts (api.einnsyn.no) then fail with ETIMEDOUT while curl succeeds.
+setDefaultAutoSelectFamilyAttemptTimeout(10000);
 
 const OUT = new URL('../public/data/', import.meta.url);
 const API = 'https://api.einnsyn.no';

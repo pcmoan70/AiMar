@@ -4,6 +4,9 @@
 // past years are stored in `done` and never fetched again; the current year is
 // refreshed on every run. Needs BW_CLIENT_ID / BW_CLIENT_SECRET (env or web/.env.local).
 import { readFile, writeFile } from 'node:fs/promises';
+import { setDefaultAutoSelectFamilyAttemptTimeout } from 'node:net';
+// Node gives each address family 250 ms by default; slow hosts (api.einnsyn.no) then fail with ETIMEDOUT while curl succeeds.
+setDefaultAutoSelectFamilyAttemptTimeout(10000);
 
 const OUT = new URL('../public/data/', import.meta.url);
 const START_YEAR = 2012;

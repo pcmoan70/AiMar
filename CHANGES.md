@@ -2,6 +2,11 @@
 
 ## 2026-09-15
 
+- Document excerpts published: 3 845 files (5.5 GB, kept on the external
+  drive) for 911 entries, 3 337 with extracted text; `docs.json` holds only
+  what the app shows, the harvester's bookkeeping moved to
+  `web/data-state/docs-state.json`. Fetchers fail fast on archives the eInnsyn
+  proxy cannot serve and use a 10 s dual-stack connect timeout.
 - Lice per week: two Aquaculture layers driven by a year/week scrubber at the
   bottom of the map: a timeline with two sparklines (share of reporting farms
   above the limit in force, share with a treatment registered), click/drag,

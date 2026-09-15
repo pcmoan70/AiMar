@@ -179,7 +179,9 @@ every published file from `/dokumentobjekt/{id}/download` into `DOCS_DIR`
 (scratch by default; `/media/pc/ext4TB/AiMar/docs/einnsyn` locally), extracts
 the first 500 characters with `pdftotext` and writes `docs.json` (entry id →
 documents with title, format, size, excerpt). Incremental: entries already
-looked up are skipped. The app links the file on the eInnsyn API.
+looked up are skipped; that bookkeeping (`seen`, `pending`) is kept in
+`web/data-state/docs-state.json`, committed but not served. The app links the
+file on the eInnsyn API.
 
 ## Testing
 

@@ -4,6 +4,9 @@
 // low water and the gauge used. Writes public/data/tides.json. Idempotent: sites already
 // present are skipped, so a rerun only adds new localities.
 import { readFile, writeFile } from 'node:fs/promises';
+import { setDefaultAutoSelectFamilyAttemptTimeout } from 'node:net';
+// Node gives each address family 250 ms by default; slow hosts (api.einnsyn.no) then fail with ETIMEDOUT while curl succeeds.
+setDefaultAutoSelectFamilyAttemptTimeout(10000);
 
 const OUT = new URL('../public/data/', import.meta.url);
 const API = 'https://vannstand.kartverket.no/tideapi.php';

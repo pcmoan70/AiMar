@@ -32,7 +32,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          git add public/data src/lib/operatorColours.ts
+          git add public/data data-state src/lib/operatorColours.ts
           if git diff --cached --quiet -- public/data/localities.geojson public/data/site_polygons.geojson public/data/fishhealth.json public/data/cases.json public/data/docs.json src/lib/operatorColours.ts; then
             echo "No data changes"; exit 0
           fi

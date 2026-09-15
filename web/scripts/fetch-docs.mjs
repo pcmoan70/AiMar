@@ -10,27 +10,34 @@ import { mkdir, readFile, stat, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { promisify } from 'node:util';
+import { setDefaultAutoSelectFamilyAttemptTimeout } from 'node:net';
+// Node gives each address family 250 ms by default; slow hosts (api.einnsyn.no) then fail with ETIMEDOUT while curl succeeds.
+setDefaultAutoSelectFamilyAttemptTimeout(10000);
 
 const OUT = new URL('../public/data/', import.meta.url);
+/** Harvester bookkeeping (entries looked up, files still pending) lives outside public/ so it is not served or precached. */
+const STATE = new URL('../data-state/docs-state.json', import.meta.url);
 const API = 'https://api.einnsyn.no';
 const EXCERPT_CHARS = 500;
 const DOCS_DIR = process.env.DOCS_DIR ?? join(tmpdir(), 'aimar-docs');
 const run = promisify(execFile);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function fetchRetry(url, attempt = 0) {
+/** `maxAttempts` is low for downloads: some archives (e.g. Miljødirektoratet) answer 502 through the
+ *  eInnsyn proxy every time, and a failed file simply stays pending for a later run. */
+async function fetchRetry(url, attempt = 0, maxAttempts = 8) {
   let res;
   try {
     res = await fetch(url, { signal: AbortSignal.timeout(120000) });
   } catch (e) {
-    if (attempt >= 8) throw e;
+    if (attempt >= maxAttempts) throw e;
     await sleep(Math.min(5000 * 2 ** attempt, 120000));
-    return fetchRetry(url, attempt + 1);
+    return fetchRetry(url, attempt + 1, maxAttempts);
   }
   if (res.status === 429 || res.status >= 500) {
-    if (attempt >= 8) throw new Error(`${url}: HTTP ${res.status}`);
+    if (attempt >= maxAttempts) throw new Error(`${url}: HTTP ${res.status}`);
     await sleep(Math.min(5000 * 2 ** attempt, 120000));
-    return fetchRetry(url, attempt + 1);
+    return fetchRetry(url, attempt + 1, maxAttempts);
   }
   if (!res.ok) throw new Error(`${url}: HTTP ${res.status}`);
   return res;
@@ -38,17 +45,19 @@ async function fetchRetry(url, attempt = 0) {
 
 await mkdir(DOCS_DIR, { recursive: true });
 const cases = JSON.parse(await readFile(new URL('cases.json', OUT), 'utf8'));
-const prev = await readFile(new URL('docs.json', OUT), 'utf8').then(JSON.parse, () => ({ docs: {}, seen: [] }));
+const prev = await readFile(new URL('docs.json', OUT), 'utf8').then(JSON.parse, () => ({ docs: {} }));
+const state = await readFile(STATE, 'utf8').then(JSON.parse, () => ({ seen: prev.seen ?? [], pending: prev.pending ?? [] }));
 const docs = prev.docs ?? {};
-const seen = new Set(prev.seen ?? []); // entry ids already looked up (with or without documents)
-let pending = prev.pending ?? []; // documents found but not yet fetched (checkpoint)
+const seen = new Set(state.seen ?? []); // entry ids already looked up (with or without documents)
+let pending = state.pending ?? []; // documents found but not yet fetched (checkpoint)
 const todo = cases.entries.map((e) => e.id).filter((id) => !seen.has(id));
 async function save() {
   for (const k of Object.keys(docs)) docs[k] = [...new Map(docs[k].map((x) => [x.id, x])).values()];
   let total = 0;
   for (const list of Object.values(docs)) for (const x of list) total += x.bytes;
-  const out = { retrieved: new Date().toISOString(), bytes: total, docs, seen: [...seen], pending };
-  await writeFile(new URL('docs.json', OUT), JSON.stringify(out));
+  await writeFile(new URL('docs.json', OUT), JSON.stringify({ retrieved: new Date().toISOString(), bytes: total, docs }));
+  await mkdir(new URL('.', STATE), { recursive: true });
+  await writeFile(STATE, JSON.stringify({ seen: [...seen], pending }));
   return total;
 }
 console.log(`${todo.length} entries to look up (${seen.size} already known, ${Object.keys(docs).length} with documents)`);
@@ -90,7 +99,7 @@ for (const d of found) {
   try {
     let size = await stat(file).then((s) => s.size, () => 0);
     if (!size) {
-      const res = await fetchRetry(`${API}/dokumentobjekt/${d.id}/download`);
+      const res = await fetchRetry(`${API}/dokumentobjekt/${d.id}/download`, 0, 1);
       const buf = Buffer.from(await res.arrayBuffer());
       await writeFile(file, buf);
       size = buf.length;
