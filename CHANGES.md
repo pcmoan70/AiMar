@@ -10,6 +10,8 @@
 - While scrubbing, localities with no lice report for the chosen week (not
   operating) are drawn at 20 % opacity instead of solid grey, so the operating
   sites carry the picture.
+- Fish-health snapshot now covers withdrawn sites too (2 703 localities, of
+  which 924 are former farms with lice history), at no extra API cost.
 - Deleted localities are now bundled data rather than a map image: about 2 900
   withdrawn sites with their full register entry (name, number, capacity,
   species, holders, purpose, production form, clearance date and type, county,

@@ -20,15 +20,6 @@
       "featureCount": 1367
     },
     {
-      "file": "fishhealth.json",
-      "organisation": "BarentsWatch",
-      "dataset": "Fish health: weekly lice, treatments, fallow, PD/ILA (2012-01 to 2026-37)",
-      "url": "https://www.barentswatch.no/bwapi/v1/geodata/fishhealth/locality/{year}/{week}",
-      "license": "NLOD 2.0",
-      "featureCount": 1779,
-      "retrieved": "2026-09-14T12:06:48.976Z"
-    },
-    {
       "file": "cases.json",
       "organisation": "eInnsyn (Digitaliseringsdirektoratet)",
       "dataset": "Public-record journal entries on aquaculture cases matched to localities (2023-09-01 onwards)",
@@ -45,6 +36,15 @@
       "license": "NLOD 2.0",
       "featureCount": 2946,
       "retrieved": "2026-09-15T11:46:22.359Z"
+    },
+    {
+      "file": "fishhealth.json",
+      "organisation": "BarentsWatch",
+      "dataset": "Fish health: weekly lice, treatments, fallow, PD/ILA (2012-01 to 2026-37)",
+      "url": "https://www.barentswatch.no/bwapi/v1/geodata/fishhealth/locality/{year}/{week}",
+      "license": "NLOD 2.0",
+      "featureCount": 2703,
+      "retrieved": "2026-09-15T11:49:34.722Z"
     }
   ]
 }
