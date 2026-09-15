@@ -214,6 +214,7 @@ export const nb: Record<string, string> = {
   'liceWeek.sparkTreat': '% med behandling',
   'liceWeek.sparkMax': 'toppen av skalaen {p} %',
   'liceWeek.sparkLast': 'siste år ({year})',
+  'liceWeek.sparkWarm': '% over {c} °C (egen skala, topp {p} %)',
   'liceWeek.weekOf': 'Uke {week}',
   'liceWeek.reportingMean': '{n} lokaliteter med data',
   'liceWeek.warm': '{n} over {c} °C',

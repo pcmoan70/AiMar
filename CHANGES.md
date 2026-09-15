@@ -2,6 +2,13 @@
 
 ## 2026-09-15
 
+- Scrubber gains a third curve: the share of sites above the warm-water
+  threshold, dashed, on its own scale (temperature runs far higher than the two
+  shares in summer), with last-year spikes in the season view.
+- Hover for the Fiskeridirektoratet point layers used the REST field names,
+  which the WMS returns under display aliases, so escapes, current-measurement
+  points, shellfish beds, lock-up sites and cod spawning fields showed almost
+  nothing. They now show the real values.
 - Scrubber readout counts the localities whose farm-reported sea temperature
   that week is above a warm-water threshold, 12.5 °C by default, where lice
   development speeds up. The threshold is a setting (8 to 16 °C) in ⚙ Settings,

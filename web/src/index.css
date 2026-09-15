@@ -252,7 +252,7 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .lice-scrub-year { stroke: #e3e8ec; stroke-width: 1; vector-effect: non-scaling-stroke; }
 .lice-scrub-spring { fill: rgba(201,83,31,.07); }
 .lice-scrub-cursor { stroke: #111; stroke-width: 2; }
-.lice-readout { display: grid; grid-template-columns: 12ch 16ch 13ch 20ch 17ch 15ch minmax(20ch, 1fr); gap: 0 8px; align-items: baseline; white-space: nowrap; }
+.lice-readout { display: grid; grid-template-columns: 11ch 15ch 17ch 19ch 16ch 15ch minmax(18ch, 1fr); gap: 0 8px; align-items: baseline; white-space: nowrap; }
 .lice-readout > span { overflow: hidden; text-overflow: ellipsis; }
 .lice-key { display: grid; grid-template-columns: repeat(6, 1fr); gap: 2px 8px; color: var(--muted); align-items: center; }
 .lice-bin { display: inline-flex; align-items: center; gap: 4px; white-space: nowrap; }
@@ -260,6 +260,7 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .lice-bin-count { min-width: 4ch; text-align: right; }
 .lice-key i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; border: 1px solid #fff; box-shadow: 0 0 0 1px var(--line); flex: none; }
 .lice-spark-key { grid-column: 1 / -1; white-space: nowrap; }
+.lice-spark-key i.warm-key { height: 3px; width: 16px; border-radius: 2px; }
 .lice-spark-key i.spring-key { background: rgba(201,83,31,.18); border: 1px solid rgba(201,83,31,.45); height: 9px; border-radius: 2px; }
 .lice-spark-key i { border: 0; box-shadow: none; border-radius: 2px; height: 3px; width: 16px; vertical-align: middle; margin: 0 4px 0 2px; }
 .filter-chips { position: absolute; top: 46px; left: 10px; z-index: 5; display: flex; flex-wrap: wrap; gap: 4px; max-width: 420px; }

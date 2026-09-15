@@ -214,6 +214,7 @@ export const en: Record<string, string> = {
   'liceWeek.sparkTreat': '% with treatment',
   'liceWeek.sparkMax': 'top of scale {p} %',
   'liceWeek.sparkLast': 'last year ({year})',
+  'liceWeek.sparkWarm': '% over {c} °C (own scale, top {p} %)',
   'liceWeek.weekOf': 'Week {week}',
   'liceWeek.reportingMean': '{n} sites with data',
   'liceWeek.warm': '{n} over {c} °C',

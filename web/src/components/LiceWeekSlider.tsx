@@ -1,7 +1,7 @@
 import { useMemo, useRef } from 'react'
 import { limitsForWeek, type FishHealth } from '../lib/fishhealth'
 import type { Localities } from '../lib/localities'
-import { isoWeekStart, LICE_BINS, NOT_REPORTED_COLOUR, parseWeek, SEASON_WEEKS, seasonShares, summariseWeek, weekShares, WEEK_HEAT_MODES } from '../lib/liceWeek'
+import { byWeekNumber, isoWeekStart, LICE_BINS, NOT_REPORTED_COLOUR, parseWeek, SEASON_WEEKS, seasonShares, summariseWeek, weekShares, WEEK_HEAT_MODES } from '../lib/liceWeek'
 import { updateSettings, useSettings } from '../lib/settings'
 import { numberLocale, useT, useLang } from '../lib/i18n'
 import Hint from './Hint'
@@ -14,6 +14,8 @@ interface Props {
   values: Map<number, number | null>
   /** Sites whose reported sea temperature exceeds 12.5 °C that week, when the snapshot is loaded. */
   warm: { above: number; measured: number } | null
+  /** Share of sites above the warm-water threshold, per week, drawn as the third curve. */
+  warmSeries: number[] | null
 }
 
 const ABOVE_COLOUR = '#c9531f'
@@ -27,7 +29,7 @@ const SW = 1000 // scrubber width in SVG units
  * Scrubber for the weekly lice layers. Two axes: every week since 2012, or the average per ISO week
  * number over all years, where the last year is drawn on top as spikes. ◀ ▶, click/drag and arrow keys.
  */
-export default function LiceWeekSlider({ fishhealth, localities, week, values, warm }: Props) {
+export default function LiceWeekSlider({ fishhealth, localities, week, values, warm, warmSeries }: Props) {
   const t = useT()
   const lang = useLang()
   const s = useSettings()
@@ -60,12 +62,17 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values, w
   const above = season ? sea.above : shares.above
   const treated = season ? sea.treated : shares.treated
   const spikes = season ? (s.weekHeatMode === 'treatment' ? sea.lastTreated : sea.lastAbove) : null
+  const warmSeason = useMemo(() => (warmSeries ? byWeekNumber(fishhealth.weeks, warmSeries) : null), [fishhealth.weeks, warmSeries])
+  const warmLine = warmSeries ? (season ? warmSeason!.mean : warmSeries) : null
+  const warmSpikes = season && warmSeason ? warmSeason.last : null
   const ymax = Math.max(0.05, ...above, ...treated, ...(spikes?.map((v) => v ?? 0) ?? []))
+  // Temperature runs far higher than the two shares in summer, so it keeps its own scale and reads as a backdrop.
+  const warmMax = Math.max(0.05, ...(warmLine ?? []), ...(warmSpikes?.map((v) => v ?? 0) ?? []))
   const x = (i: number) => (n > 1 ? (i / (n - 1)) * SW : 0)
   const y = (v: number) => SH - 2 - (v / ymax) * (SH - 6)
-  const path = (vals: number[]) => vals.map((v, i) => `${i ? 'L' : 'M'}${x(i).toFixed(1)} ${y(v).toFixed(1)}`).join(' ')
-  const spikePath = (vals: (number | null)[]) =>
-    vals.map((v, i) => (v == null ? '' : `M${x(i).toFixed(1)} ${y(0).toFixed(1)} L${x(i).toFixed(1)} ${y(v).toFixed(1)}`)).join(' ')
+  const path = (vals: number[], scale = ymax) => vals.map((v, i) => `${i ? 'L' : 'M'}${x(i).toFixed(1)} ${(SH - 2 - (v / scale) * (SH - 6)).toFixed(1)}`).join(' ')
+  const spikePath = (vals: (number | null)[], scale = ymax) =>
+    vals.map((v, i) => (v == null ? '' : `M${x(i).toFixed(1)} ${y(0).toFixed(1)} L${x(i).toFixed(1)} ${(SH - 2 - (v / scale) * (SH - 6)).toFixed(1)}`)).join(' ')
   // Timeline: a line per year. Season: quarter marks. Both: a band over the spring-limit weeks 16–26
   // (0.2 applies in 16–21 from Trøndelag south and in 21–26 from Nordland north).
   const marks = season ? [0, 13, 26, 39] : fishhealth.weeks.map((w, i) => (w.endsWith('-01') ? i : -1)).filter((i) => i >= 0)
@@ -133,7 +140,9 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values, w
           {marks.map((i) => (
             <line key={i} x1={x(i)} x2={x(i)} y1={0} y2={SH} className="lice-scrub-year" />
           ))}
+          {warmSpikes && <path d={spikePath(warmSpikes, warmMax)} fill="none" stroke={WARM_COLOUR} strokeWidth={1} vectorEffect="non-scaling-stroke" opacity={0.35} />}
           {spikes && <path d={spikePath(spikes)} fill="none" stroke={SPIKE_COLOUR[s.weekHeatMode]} strokeWidth={1} vectorEffect="non-scaling-stroke" opacity={0.75} />}
+          {warmLine && <path d={path(warmLine, warmMax)} fill="none" stroke={WARM_COLOUR} strokeWidth={1.5} strokeDasharray="4 2" vectorEffect="non-scaling-stroke" />}
           <path d={path(above)} fill="none" stroke={ABOVE_COLOUR} strokeWidth={1.5} vectorEffect="non-scaling-stroke" />
           <path d={path(treated)} fill="none" stroke={TREAT_COLOUR} strokeWidth={1.5} vectorEffect="non-scaling-stroke" />
           <line x1={x(cursor)} x2={x(cursor)} y1={0} y2={SH} className="lice-scrub-cursor" vectorEffect="non-scaling-stroke" />
@@ -218,6 +227,12 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values, w
         </span>
         <span className="lice-spark-key muted">
           <i className="spring-key" /> {t('liceWeek.springKey')} <i style={{ background: ABOVE_COLOUR }} /> {t('liceWeek.sparkAbove')} <i style={{ background: TREAT_COLOUR }} /> {t('liceWeek.sparkTreat')}
+          {warmLine && (
+            <>
+              {' '}
+              <i className="warm-key" style={{ background: WARM_COLOUR }} /> {t('liceWeek.sparkWarm', { c: s.warmC.toLocaleString(numberLocale()), p: Math.round(warmMax * 100) })}
+            </>
+          )}
           {spikes && (
             <>
               {' '}

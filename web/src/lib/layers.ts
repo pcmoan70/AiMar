@@ -194,7 +194,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'current-points',
-    info: { kind: 'arcgis', keys: ['navn', 'loknr', 'dato_sertifikat', 'organisasjon'], presence: 'current measurement point' },
+    info: { kind: 'arcgis', keys: ['navn', 'loknr', 'dato anleggssertifikat', 'inspeksjonsorgan'], presence: 'current measurement point' },
     category: 'aquaculture',
     title: 'Current measurement points (Fiskeridirektoratet)',
     group: 'overlay',
@@ -210,7 +210,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'escapes',
-    info: { kind: 'arcgis', keys: ['navn', 'art', 'antall_romt_estimert', 'rommingsdato', 'selskapsnavn'], presence: 'escape event' },
+    info: { kind: 'arcgis', keys: ['navn', 'art', 'antall rømt -estimert', 'rømmingsdato', 'innehaver'], presence: 'escape event' },
     category: 'aquaculture',
     title: 'Escapes (Fiskeridirektoratet)',
     group: 'overlay',
@@ -274,7 +274,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'shellfish',
-    info: { kind: 'arcgis', keys: ['art_norsk', 'stedsnavn', 'status'], presence: 'shellfish bed' },
+    info: { kind: 'arcgis', keys: ['art_norsk', 'Stedsnavn', 'Status'], presence: 'shellfish bed' },
     category: 'environment',
     title: 'Shellfish beds (Fiskeridirektoratet)',
     group: 'overlay',
@@ -338,7 +338,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'lock-sites',
-    info: { kind: 'arcgis', keys: ['stedsnavn', 'alle_arter', 'beskriv_brukere'], presence: 'lock-up site' },
+    info: { kind: 'arcgis', keys: ['stedsnavn', 'arter', 'beskrivelse brukere'], presence: 'lock-up site' },
     category: 'fisheries',
     title: 'Seine lock-up sites (Fiskeridirektoratet)',
     group: 'overlay',
@@ -354,7 +354,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'cod-spawning',
-    info: { kind: 'arcgis', keys: ['navn', 'gytefverdi', 'omradebesk'], presence: 'cod spawning field' },
+    info: { kind: 'arcgis', keys: ['stedsnavn', 'gytefeld verdi', 'områdebeskrivelse'], presence: 'cod spawning field' },
     category: 'fisheries',
     title: 'Cod spawning fields (Fiskeridirektoratet)',
     group: 'overlay',

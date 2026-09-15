@@ -196,3 +196,21 @@ export function farmSeasonStats(data: FishHealth, localities: Localities, weekOf
   }
   return out
 }
+
+/** Averages any weekly series by ISO week number, and keeps the last 52 weeks separately. */
+export function byWeekNumber(weeks: string[], values: number[]): { mean: number[]; last: (number | null)[] } {
+  const sum = new Array(SEASON_WEEKS).fill(0)
+  const n = new Array(SEASON_WEEKS).fill(0)
+  const last: (number | null)[] = new Array(SEASON_WEEKS).fill(null)
+  weeks.forEach((w, i) => {
+    const k = Number(w.slice(5)) - 1
+    if (k < 0 || k >= SEASON_WEEKS || !values[i]) return
+    sum[k] += values[i]
+    n[k]++
+  })
+  for (let i = Math.max(0, weeks.length - 52); i < weeks.length; i++) {
+    const k = Number(weeks[i].slice(5)) - 1
+    if (k >= 0 && k < SEASON_WEEKS) last[k] = values[i]
+  }
+  return { mean: sum.map((v, i) => (n[i] ? v / n[i] : 0)), last }
+}

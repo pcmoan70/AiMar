@@ -27,7 +27,7 @@ import { filteredLoknrs as computeFiltered } from './lib/filters'
 import FilterChips from './components/FilterChips'
 import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealth'
 import { loadCases, type Cases } from './lib/cases'
-import { loadSeaTemp, loadTides, warmAtSeasonWeek, warmAtWeek, type SeaTemp, type Tides } from './lib/siteData'
+import { loadSeaTemp, loadTides, warmAtSeasonWeek, warmAtWeek, warmShares, type SeaTemp, type Tides } from './lib/siteData'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
 
@@ -99,6 +99,10 @@ function MapApp() {
     for (const [nr, v] of liceValues) if (v != null) bins[liceBin(v)].push(nr)
     return bins
   }, [liceColours, liceValues])
+  const warmSeries = useMemo(
+    () => (seatemp && fishhealth && liceLayersOn ? warmShares(seatemp, fishhealth.weeks, s.warmC) : null),
+    [seatemp, fishhealth, liceLayersOn, s.warmC],
+  )
   const warm = useMemo(() => {
     if (!seatemp || !fishhealth || !liceLayersOn) return null
     const weeks = fishhealth.weeks
@@ -160,7 +164,7 @@ function MapApp() {
         <HoverInfo map={map} />
         <HeatmapLayer map={map} id={HEAT_LAYER_ID} farms={treatmentFarms} />
         <HeatmapLayer map={map} id={LICE_HEAT_LAYER_ID} farms={liceFarms} max={WEEK_HEAT_MAX[s.weekHeatMode]} minDen={0.5} />
-        {fishhealth && liceValues && <LiceWeekSlider fishhealth={fishhealth} localities={localities} week={liceWeek} values={liceValues} warm={warm} />}
+        {fishhealth && liceValues && <LiceWeekSlider fishhealth={fishhealth} localities={localities} week={liceWeek} values={liceValues} warm={warm} warmSeries={warmSeries} />}
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}
