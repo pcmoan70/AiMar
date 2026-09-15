@@ -30,13 +30,40 @@ export default function UpdatePrompt() {
     },
   })
 
+  /**
+   * Activate the waiting worker and load the new version. `updateServiceWorker(true)` alone proved
+   * unreliable here — the waiting worker was there but the page never reloaded — so the waiting
+   * worker is told to skip waiting directly and the reload is forced once it has taken over.
+   */
+  const reload = async () => {
+    try {
+      await updateServiceWorker(false)
+    } catch {
+      /* fall through: the reload below is what matters */
+    }
+    const reg = await navigator.serviceWorker?.getRegistration().catch(() => undefined)
+    reg?.waiting?.postMessage({ type: 'SKIP_WAITING' })
+    await new Promise<void>((done) => {
+      const t = setTimeout(done, 2500)
+      navigator.serviceWorker?.addEventListener(
+        'controllerchange',
+        () => {
+          clearTimeout(t)
+          done()
+        },
+        { once: true },
+      )
+    })
+    window.location.reload()
+  }
+
   if (!needRefresh && !offlineReady) return null
   return (
     <div className="toast" role="status">
       {needRefresh ? (
         <>
           <span>{t('update.available')}</span>
-          <button onClick={() => updateServiceWorker(true)}>{t('update.reload')}</button>
+          <button onClick={reload}>{t('update.reload')}</button>
         </>
       ) : (
         <span>{t('update.ready')}</span>

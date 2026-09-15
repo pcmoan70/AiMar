@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- "Reload" on the new-version toast now actually loads the new version. The
+  waiting service worker is told to skip waiting directly and the reload is
+  forced once it has taken over, instead of relying on the plugin helper, which
+  left the page on the old build with the toast still showing.
 - Scrubbing no longer flashes: a week change repaints the locality dots with
   setPaintProperty instead of rebuilding the whole map style, which had been
   tearing down and reloading every source. Twelve scrub steps now cause no
