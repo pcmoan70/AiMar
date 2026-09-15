@@ -7,6 +7,8 @@ import CaseDocs, { CaseDocsDot } from './CaseDocs'
 
 interface Props {
   cases: Cases | null
+  /** true when the case snapshot could not be loaded, as opposed to still loading */
+  casesFailed: boolean
   localities: Localities | null
   /** Localities passing the map filters; null = no filter (all). */
   loknrs: number[] | null
@@ -18,7 +20,7 @@ interface Props {
 const PAGE = 200
 
 /** All case-history entries for the filtered localities with search, kind filter and sorting. */
-export default function CasesPanel({ cases, localities, loknrs, onPick, onSites }: Props) {
+export default function CasesPanel({ cases, casesFailed, localities, loknrs, onPick, onSites }: Props) {
   const t = useT()
   const [query, setQuery] = useState('')
   const [sort, setSort] = useState<CaseSort>('date')
@@ -88,7 +90,7 @@ export default function CasesPanel({ cases, localities, loknrs, onPick, onSites 
     </li>
   )
 
-  if (!cases) return <div className="panel-body">{t('cases.notLoaded')}</div>
+  if (!cases) return <div className="panel-body">{t(casesFailed ? 'cases.failed' : 'cases.loading')}</div>
   return (
     <div className="panel-body cases-panel">
       <h2>

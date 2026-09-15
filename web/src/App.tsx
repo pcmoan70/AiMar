@@ -47,6 +47,7 @@ function MapApp() {
   const [localities, setLocalities] = useState<Localities | null>(null)
   const [fishhealth, setFishhealth] = useState<FishHealth | null>(null)
   const [cases, setCases] = useState<Cases | null>(null)
+  const [casesFailed, setCasesFailed] = useState(false)
   const [seatemp, setSeatemp] = useState<SeaTemp | null>(null)
   const [tides, setTides] = useState<Tides | null>(null)
   const [menu, setMenu] = useState<MenuState | null>(null)
@@ -55,7 +56,12 @@ function MapApp() {
   useEffect(() => {
     loadLocalities().then(setLocalities).catch(console.error)
     loadFishHealth().then(setFishhealth).catch(console.error)
-    loadCases().then(setCases).catch(console.error)
+    loadCases()
+      .then(setCases)
+      .catch((e) => {
+        console.error(e)
+        setCasesFailed(true)
+      })
     loadSeaTemp().then(setSeatemp)
     loadTides().then(setTides)
     scheduleJanitor(() => getSettings().cacheLimitGb * 1024 ** 3)
@@ -170,10 +176,11 @@ function MapApp() {
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}
-            {s.panel === 'inspect' && <InspectPanel selection={selection} localities={localities} fishhealth={fishhealth} cases={cases} seatemp={seatemp} tides={tides} />}
+            {s.panel === 'inspect' && <InspectPanel selection={selection} localities={localities} fishhealth={fishhealth} cases={cases} casesFailed={casesFailed} seatemp={seatemp} tides={tides} />}
             {s.panel === 'cases' && (
               <CasesPanel
                 cases={cases}
+                casesFailed={casesFailed}
                 localities={localities}
                 loknrs={filteredLoknrs}
                 onSites={setCaseSites}

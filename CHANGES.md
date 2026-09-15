@@ -2,6 +2,9 @@
 
 ## 2026-09-15
 
+- While the 19 MB case snapshot downloads, both case sections now say they are
+  loading instead of "not loaded", which read as "there are none". A genuine
+  failure says so separately.
 - "Case history" in the site panel gets its own **With text** box, with the
   count, so a site's readable entries can be listed on their own. Also supplies
   the styling the ring key and the box were missing.

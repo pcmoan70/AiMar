@@ -19,13 +19,15 @@ interface Props {
   localities: Localities | null
   fishhealth: FishHealth | null
   cases: Cases | null
+  /** true when the case snapshot could not be loaded, as opposed to still loading */
+  casesFailed: boolean
   seatemp: SeaTemp | null
   tides: Tides | null
 }
 
 const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0, 10) : '–')
 
-export default function InspectPanel({ selection, localities, fishhealth, cases, seatemp, tides }: Props) {
+export default function InspectPanel({ selection, localities, fishhealth, cases, casesFailed, seatemp, tides }: Props) {
   const t = useT()
   const { operatorFilter, fieldFilters } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
@@ -216,7 +218,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
             )
           })()
         ) : (
-          <p className="muted">{t('inspect.casesNotLoaded')}</p>
+          <p className="muted">{t(casesFailed ? 'inspect.casesFailed' : 'inspect.casesLoading')}</p>
         )}
         <p className="muted">{cases ? t('inspect.sourceCases', { date: cases.retrieved.slice(0, 10) }) : ''}</p>
       </div>
