@@ -189,10 +189,11 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
           (() => {
             const all = casesFor(cases, p.loknr)
             const withText = all.filter((e) => cases.docs?.[e.id]?.some((d) => d.text))
+            const textDocs = all.reduce((n, e) => n + (cases.docs?.[e.id]?.filter((d) => d.text).length ?? 0), 0)
             const list = onlyText ? withText : all
             return all.length ? (
               <>
-                <label className="cases-onlytext" title={t('cases.onlyTextTitle')}>
+                <label className="cases-onlytext" title={t('cases.onlyTextTitle', { n: withText.length, d: textDocs })}>
                   <input type="checkbox" checked={onlyText} onChange={(e) => setOnlyText(e.target.checked)} disabled={!withText.length} />{' '}
                   {t('cases.onlyText', { n: withText.length })}
                 </label>

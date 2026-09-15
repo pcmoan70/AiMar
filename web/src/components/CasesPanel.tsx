@@ -42,6 +42,9 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
   const hasText = (id: string) => !!cases?.docs?.[id]?.some((d) => d.text)
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const textCount = useMemo(() => all.filter((r) => hasText(r.entry.id)).length, [all, cases])
+  // The filter counts journal entries; one entry can carry dozens of documents, so name both.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const textDocs = useMemo(() => all.reduce((n, r) => n + (cases?.docs?.[r.entry.id]?.filter((d) => d.text).length ?? 0), 0), [all, cases])
   const rows = useMemo(
     () => sortRows(searchRows(all, query, siteName, caseTitle).filter((r) => kinds.has(r.kind) && (!onlyText || hasText(r.entry.id))), sort, desc, siteName),
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -128,7 +131,7 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
             <input type="checkbox" checked={grouped} onChange={(e) => setGrouped(e.target.checked)} /> {t('cases.group')}
           </label>
         )}
-        <label title={t('cases.onlyTextTitle')}>
+        <label title={t('cases.onlyTextTitle', { n: textCount, d: textDocs })}>
           <input
             type="checkbox"
             checked={onlyText}

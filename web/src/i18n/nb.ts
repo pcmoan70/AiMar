@@ -357,7 +357,7 @@ export const nb: Record<string, string> = {
   'cases.group': 'Grupper etter sak',
   'cases.onMap': '{n} lokaliteter i denne listen er ringet inn i kartet.',
   'cases.onlyText': 'Med tekst ({n})',
-  'cases.onlyTextTitle': 'Bare journalposter der dokumentteksten følger med appen',
+  'cases.onlyTextTitle': 'Bare journalposter der dokumentteksten følger med: {n} journalposter med til sammen {d} dokumenter, siden én post kan ha titalls vedlegg',
   'cases.untitledCase': '(sak uten tittel)',
   'cases.noCase': 'Journalposter uten saksmappe',
   'hint.casesPanel': 'Alle journalposter fra eInnsyn som er knyttet til lokalitetene som vises i kartet (alle, eller de som passerer selskaps- og feltfiltrene), én rad per journalpost selv når den nevner flere lokaliteter. Søket krever at hvert ord finnes i journalpostens tittel, sakstittel, myndighet eller lokalitetsnavn; typeknappene tar med eller utelater journalposter etter merkelappen som er utledet fra tittelen. Grupper etter sak samler journalpostene i én saksmappe (søknad, uttalelser, vedtak) under saksnummeret; overskriften lenker til saken på einnsyn.no. Klikk et lokalitetsnavn for å åpne det i detaljpanelet.',

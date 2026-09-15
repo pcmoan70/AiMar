@@ -2,6 +2,9 @@
 
 ## 2026-09-15
 
+- The "With text" count is journal entries, not files: its tooltip now says both
+  (910 entries holding 3 613 documents), since one entry can carry dozens of
+  attachments.
 - While the 19 MB case snapshot downloads, both case sections now say they are
   loading instead of "not loaded", which read as "there are none". A genuine
   failure says so separately.

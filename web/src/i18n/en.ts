@@ -357,7 +357,7 @@ export const en: Record<string, string> = {
   'cases.group': 'Group by case',
   'cases.onMap': '{n} localities in this list are ringed on the map.',
   'cases.onlyText': 'With text ({n})',
-  'cases.onlyTextTitle': 'Only entries whose document text is bundled with the app',
+  'cases.onlyTextTitle': 'Only entries whose document text is bundled: {n} journal entries holding {d} documents, since one entry can carry dozens of attachments',
   'cases.untitledCase': '(untitled case)',
   'cases.noCase': 'Entries without a case file',
   'hint.casesPanel': 'Every eInnsyn journal entry matched to the localities currently shown on the map (all sites, or those passing the operator and field filters), one row per entry even when it names several sites. Search matches every word against entry title, case title, authority and site names; the kind chips include or exclude entries by the badge inferred from the title. Group by case collects the entries of one case file (application, statements, decision) under its case number; the heading links to the case on einnsyn.no. Click a site name to open it in the Inspect panel.',
