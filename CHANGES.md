@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- Scrubbing no longer flashes: a week change repaints the locality dots with
+  setPaintProperty instead of rebuilding the whole map style, which had been
+  tearing down and reloading every source. Twelve scrub steps now cause no
+  style reloads and no base-tile requests.
 - Site panel: the lice limit is drawn as a red step line again (it was filling
   the area between the spring limit and 0.5), with a vertical riser where the
   limit changes.

@@ -44,6 +44,55 @@ function operatorFilter(_operators: string[], loknrs: number[] | null): { points
   return { points: expr, polygons: expr }
 }
 
+interface LiceStyle {
+  colours: Map<number, string> | null
+  dim: number[] | null
+  over: number[] | null
+  ranks: number[][] | null
+}
+
+/** Paint and layout expressions for the locality dots. Kept separate so a week change can be applied
+ *  with setPaintProperty instead of rebuilding the whole style, which made the map flash. */
+function circleExpressions(s: Settings, lice: LiceStyle) {
+      // Colour by operator: table entries first (fixed order), then selected unlisted operators, else grey.
+  const pal = paletteFor(s.operatorFilter)
+  const assignments = [
+    ...OPERATOR_COLOURS,
+    ...s.operatorFilter.filter((op) => !OPERATOR_COLOURS.some((o) => o.name === op)).map((op) => ({ name: op, colour: pal.get(op)! })),
+  ]
+  // Lice-per-week layer: colour by the chosen week's reported lice instead of by operator.
+  const liceExpr: ExpressionSpecification | null = lice.colours
+    ? (['match', ['get', 'loknr'], ...[...lice.colours.entries()].flatMap(([nr, c]) => [nr, c]), OTHER_COLOUR] as unknown as ExpressionSpecification)
+    : null
+  // Sites with no report for the chosen week were not operating: draw them faded.
+  const opacityExpr: ExpressionSpecification | number = liceExpr && lice.dim?.length ? (['match', ['get', 'loknr'], lice.dim, NOT_REPORTED_ALPHA, 1] as unknown as ExpressionSpecification) : 1
+  const strokeExpr: ExpressionSpecification | string = liceExpr && lice.over?.length ? (['match', ['get', 'loknr'], lice.over, OVER_LIMIT_STROKE, '#ffffff'] as unknown as ExpressionSpecification) : '#ffffff'
+  const strokeWidth: ExpressionSpecification | number = liceExpr && lice.over?.length ? (['match', ['get', 'loknr'], lice.over, 2, 1] as unknown as ExpressionSpecification) : 1
+  const colourExpr: ExpressionSpecification = liceExpr ?? [
+    'case',
+    ...assignments.flatMap((a): [ExpressionSpecification, string] => [
+      ['>=', ['index-of', a.name, ['coalesce', ['get', 'til_innehavere'], '']], 0],
+      a.colour,
+    ]),
+    OTHER_COLOUR,
+  ] as unknown as ExpressionSpecification
+  // While the weekly lice layer is on, draw order follows the lice level: the worst on top,
+  // sites without a report at the bottom. Otherwise it follows operator size.
+  const liceSort: ExpressionSpecification | null =
+    liceExpr && lice.ranks?.some((b) => b.length)
+      ? (['match', ['get', 'loknr'], ...lice.ranks.flatMap((b, i) => (b.length ? [b, i + 1] : [])), 0] as unknown as ExpressionSpecification)
+      : null
+  const sortExpr: ExpressionSpecification = liceSort ?? [
+    'case',
+    ...assignments.flatMap((a, i): [ExpressionSpecification, number] => [
+      ['>=', ['index-of', a.name, ['coalesce', ['get', 'til_innehavere'], '']], 0],
+      assignments.length - i,
+    ]),
+    0,
+  ] as unknown as ExpressionSpecification
+  return { colourExpr, opacityExpr, strokeExpr, strokeWidth, sortExpr }
+}
+
 function buildStyle(
   s: Settings,
   selectedLoknr: number | null,
@@ -106,42 +155,7 @@ function buildStyle(
         layers.push({ id: `${l.id}-outline`, type: 'line', source: l.id, ...filter, paint: { 'line-color': '#c8641a', 'line-width': 1.5 } })
         continue
       }
-      // Colour by operator: table entries first (fixed order), then selected unlisted operators, else grey.
-      const pal = paletteFor(s.operatorFilter)
-      const assignments = [
-        ...OPERATOR_COLOURS,
-        ...s.operatorFilter.filter((op) => !OPERATOR_COLOURS.some((o) => o.name === op)).map((op) => ({ name: op, colour: pal.get(op)! })),
-      ]
-      // Lice-per-week layer: colour by the chosen week's reported lice instead of by operator.
-      const liceExpr: ExpressionSpecification | null = liceColours
-        ? (['match', ['get', 'loknr'], ...[...liceColours.entries()].flatMap(([nr, c]) => [nr, c]), OTHER_COLOUR] as unknown as ExpressionSpecification)
-        : null
-      // Sites with no report for the chosen week were not operating: draw them faded.
-      const opacityExpr: ExpressionSpecification | number = liceExpr && liceDim?.length ? (['match', ['get', 'loknr'], liceDim, NOT_REPORTED_ALPHA, 1] as unknown as ExpressionSpecification) : 1
-      const strokeExpr: ExpressionSpecification | string = liceExpr && liceOver?.length ? (['match', ['get', 'loknr'], liceOver, OVER_LIMIT_STROKE, '#ffffff'] as unknown as ExpressionSpecification) : '#ffffff'
-      const strokeWidth: ExpressionSpecification | number = liceExpr && liceOver?.length ? (['match', ['get', 'loknr'], liceOver, 2, 1] as unknown as ExpressionSpecification) : 1
-      const colourExpr: ExpressionSpecification = liceExpr ?? [
-        'case',
-        ...assignments.flatMap((a): [ExpressionSpecification, string] => [
-          ['>=', ['index-of', a.name, ['coalesce', ['get', 'til_innehavere'], '']], 0],
-          a.colour,
-        ]),
-        OTHER_COLOUR,
-      ] as unknown as ExpressionSpecification
-      // While the weekly lice layer is on, draw order follows the lice level: the worst on top,
-      // sites without a report at the bottom. Otherwise it follows operator size.
-      const liceSort: ExpressionSpecification | null =
-        liceExpr && liceRanks?.some((b) => b.length)
-          ? (['match', ['get', 'loknr'], ...liceRanks.flatMap((b, i) => (b.length ? [b, i + 1] : [])), 0] as unknown as ExpressionSpecification)
-          : null
-      const sortExpr: ExpressionSpecification = liceSort ?? [
-        'case',
-        ...assignments.flatMap((a, i): [ExpressionSpecification, number] => [
-          ['>=', ['index-of', a.name, ['coalesce', ['get', 'til_innehavere'], '']], 0],
-          assignments.length - i,
-        ]),
-        0,
-      ] as unknown as ExpressionSpecification
+      const { colourExpr, opacityExpr, strokeExpr, strokeWidth, sortExpr } = circleExpressions(s, { colours: liceColours, dim: liceDim, over: liceOver, ranks: liceRanks })
       layers.push({
         id: l.id,
         type: 'circle',
@@ -201,11 +215,11 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
   onContextRef.current = onContextMenu
   const appliedStyle = useRef('')
   const settings = useSettings()
-  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? settings.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, liceOver?.length ?? -1, liceRanks?.map((b) => b.length).join('/') ?? '', settings.weekAxis, settings.seasonWeek])
+  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, !!liceColours])
 
   useEffect(() => {
     const s = getSettings()
-    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, liceColours ? s.liceWeek : null, liceColours?.size ?? 0, liceDim?.length ?? -1, liceOver?.length ?? -1, liceRanks?.map((b) => b.length).join('/') ?? '', s.weekAxis, s.seasonWeek])
+    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, !!liceColours])
     const map = new MlMap({
       container: container.current!,
       style: buildStyle(s, null, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks),
@@ -258,6 +272,20 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
+
+  // A week change only repaints the dots: rebuilding the style would reload sources and flash the map.
+  const liceKey = JSON.stringify([liceColours ? [...liceColours.entries()] : null, liceDim, liceOver, liceRanks])
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map || !map.getLayer(LOCALITIES_LAYER)) return
+    const { colourExpr, opacityExpr, strokeExpr, strokeWidth, sortExpr } = circleExpressions(settings, { colours: liceColours, dim: liceDim, over: liceOver, ranks: liceRanks })
+    map.setPaintProperty(LOCALITIES_LAYER, 'circle-color', colourExpr)
+    map.setPaintProperty(LOCALITIES_LAYER, 'circle-opacity', opacityExpr)
+    map.setPaintProperty(LOCALITIES_LAYER, 'circle-stroke-color', strokeExpr)
+    map.setPaintProperty(LOCALITIES_LAYER, 'circle-stroke-width', strokeWidth)
+    map.setPaintProperty(LOCALITIES_LAYER, 'circle-stroke-opacity', opacityExpr)
+    map.setLayoutProperty(LOCALITIES_LAYER, 'circle-sort-key', sortExpr)
+  }, [liceKey]) // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (!mapRef.current || styleKey === appliedStyle.current) return
