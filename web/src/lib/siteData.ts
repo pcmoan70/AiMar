@@ -36,13 +36,17 @@ async function optional<T>(file: string): Promise<T | null> {
 export const loadSeaTemp = () => optional<SeaTemp>('seatemp.json')
 export const loadTides = () => optional<Tides>('tides.json')
 
-/** Temperature values re-aligned onto `weeks` (the lice series' week labels); null where absent. */
+/** Plausible Norwegian coastal sea temperature; a few reports are typing errors (up to 98 °C). */
+const PLAUSIBLE: [number, number] = [-2, 30]
+
+/** Temperature values re-aligned onto `weeks` (the lice series' week labels); null where absent or implausible. */
 export function tempSeries(data: SeaTemp, loknr: number, weeks: string[]): (number | null)[] | null {
   const vals = data.localities[String(loknr)]
   if (!vals) return null
   const idx = new Map(data.weeks.map((w, i) => [w, i]))
   return weeks.map((w) => {
     const i = idx.get(w)
-    return i === undefined ? null : (vals[i] ?? null)
+    const v = i === undefined ? null : (vals[i] ?? null)
+    return v == null || v < PLAUSIBLE[0] || v > PLAUSIBLE[1] ? null : v
   })
 }

@@ -15,6 +15,8 @@ const STATE = new URL('../data-state/seatemp-state.json', import.meta.url);
 const START_YEAR = 2012;
 const BASE = 'https://www.barentswatch.no/bwapi/v1/geodata/fishhealth';
 const SAVE_EVERY = 200; // requests between checkpoints
+// A handful of reports are typing errors (up to 98 °C); Norwegian coastal water stays well inside this range.
+const PLAUSIBLE = [-2, 30];
 
 async function loadEnv() {
   if (process.env.BW_CLIENT_ID && process.env.BW_CLIENT_SECRET) return;
@@ -99,7 +101,7 @@ for (const [nr, y] of jobs) {
     const arr = (data[nr] ??= new Array(weeks.length).fill(null));
     for (const w of r.data) {
       const i = weekIndex.get(`${y}-${String(w.week).padStart(2, '0')}`);
-      if (i !== undefined && w.seaTemperature != null) arr[i] = Math.round(w.seaTemperature * 10) / 10;
+      if (i !== undefined && w.seaTemperature != null && w.seaTemperature >= PLAUSIBLE[0] && w.seaTemperature <= PLAUSIBLE[1]) arr[i] = Math.round(w.seaTemperature * 10) / 10;
     }
   }
   if (y < thisYear) done.add(`${nr}:${y}`);

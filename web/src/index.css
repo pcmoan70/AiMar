@@ -125,7 +125,7 @@ a { color: var(--brand); }
 .chart svg { width: 100%; height: auto; display: block; }
 .chart-grid { stroke: var(--line); stroke-width: 1; }
 .chart-tick { font-size: 9px; fill: var(--muted); }
-.chart-limit { stroke: #b42318; stroke-width: 1; }
+.chart-limit { fill: none; stroke: #b42318; stroke-width: 1; }
 .chart-line { fill: none; stroke: #0b3d5c; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
 .chart-line.temp { stroke: #c9531f; }
 .chart-marker.temp { fill: #c9531f; }

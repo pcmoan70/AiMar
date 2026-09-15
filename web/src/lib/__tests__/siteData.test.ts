@@ -8,3 +8,11 @@ describe('sea temperature alignment', () => {
     expect(tempSeries(data, 2, ['2024-01'])).toBeNull()
   })
 })
+
+describe('implausible temperatures', () => {
+  it('drops reports outside the plausible range', async () => {
+    const { tempSeries } = await import('../siteData')
+    const data = { retrieved: '', weeks: ['2024-01', '2024-02', '2024-03'], localities: { '1': [98, 8.4, -5] } }
+    expect(tempSeries(data, 1, ['2024-01', '2024-02', '2024-03'])).toEqual([null, 8.4, null])
+  })
+})

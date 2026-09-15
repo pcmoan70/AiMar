@@ -2,6 +2,11 @@
 
 ## 2026-09-15
 
+- Site panel: the lice limit is drawn as a red step line again (it was filling
+  the area between the spring limit and 0.5), with a vertical riser where the
+  limit changes.
+- Sea temperature: 35 reports outside −2 to 30 °C (up to 98 °C) are dropped as
+  typing errors, in the fetcher and in the app.
 - While the weekly lice layer is on, dots are drawn in order of lice level:
   the worst on top, sites without a report at the bottom, so clusters are not
   hidden behind quiet neighbours.
