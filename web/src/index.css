@@ -309,6 +309,9 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 /* Case history */
 .cases { list-style: none; padding: 0; margin: 4px 0; display: flex; flex-direction: column; gap: 8px; }
 .case { display: grid; grid-template-columns: auto auto 1fr; gap: 2px 8px; align-items: baseline; font-size: 13px; border-left: 3px solid var(--line); padding-left: 8px; }
+/* Long file names and case titles must wrap, or the panel scrolls sideways. */
+.case, .case-group h4 { overflow-wrap: anywhere; }
+.case > *, .case-docs > * { min-width: 0; }
 .case-date { color: var(--muted); font-size: 12px; white-space: nowrap; }
 .case-kind { font-size: 11px; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); }
 .case-title { grid-column: 1 / -1; color: var(--fg); text-decoration: none; }
@@ -344,9 +347,11 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .case-complaint { border-left-color: #eda100; }
 .case-statement { border-left-color: #4a3aa7; }
 .cases-panel input[type=search] { margin: 6px 0; }
-.cases-controls { display: flex; gap: 8px; align-items: center; font-size: 13px; margin: 4px 0; }
-.cases-controls label { display: flex; gap: 6px; align-items: center; }
-.cases-controls select { font: inherit; padding: 3px 6px; }
+.cases-controls { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 13px; margin: 4px 0; }
+.cases-controls label { display: inline-flex; gap: 5px; align-items: center; white-space: nowrap; }
+.cases-controls select { font: inherit; padding: 3px 6px; max-width: 14ch; }
+.cases-controls button { white-space: nowrap; padding: 3px 8px; line-height: 1.3; }
+.cases-controls input[type=checkbox] { margin: 0; }
 .case-kinds { display: flex; flex-wrap: wrap; gap: 4px; margin: 6px 0 10px; }
 .case-kinds .chip { cursor: pointer; box-shadow: none; opacity: .55; border-left-width: 4px; }
 .case-kinds .chip.active { opacity: 1; }

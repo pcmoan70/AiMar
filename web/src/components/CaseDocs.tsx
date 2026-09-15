@@ -58,7 +58,7 @@ export default function CaseDocs({ entry, docs }: { entry: CaseEntry; docs?: Cas
         <div key={d.id} className="case-doc">
           <a href={docUrl(d)} target="_blank" rel="noreferrer">
             {d.role === 'attachment' ? t('case.attachment') : d.role === 'main' ? t('case.mainDoc') : d.format || t('case.document')} · {d.title || t('case.document')} ·{' '}
-            {(d.bytes / 1024).toLocaleString(numberLocale(), { maximumFractionDigits: 0 })} kB {d.format ? `· ${d.format}` : ''}
+            {(d.bytes / 1024).toLocaleString(numberLocale(), { maximumFractionDigits: 0 })} kB{d.role && d.format ? ` · ${d.format}` : ''}
           </a>
           {d.text && (
             <>

@@ -2,6 +2,9 @@
 
 ## 2026-09-15
 
+- Cases panel fits the side panel again: the controls wrap to two rows instead
+  of pushing "With text" off the edge, long file names and case titles wrap, and
+  the panel no longer scrolls sideways. Checked in both languages.
 - Document texts are bundled: 3 613 extracted texts under `data/text/`, capped
   at 200 000 characters (15 documents are longer). A document icon on entries
   that have text opens the text itself instead of eInnsyn, each attachment has
