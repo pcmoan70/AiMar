@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, liceStatsIndex, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
-import { caseKind, caseUrl, casesFor, type Cases } from '../lib/cases'
+import { caseFolderUrl, caseKind, caseRows, caseUrl, casesFor, groupRows, type CaseEntry, type Cases } from '../lib/cases'
 import { ALL_FARMS_COLOUR, paletteFor } from '../lib/operatorColours'
 import { updateSettings, useSettings } from '../lib/settings'
 import { activeFilterKeys, fieldValuesOf, valueLabel, type FieldFilters, type FilterKey, type FilterValue } from '../lib/filters'
@@ -32,6 +32,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
   const { operatorFilter, fieldFilters } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
   const [onlyText, setOnlyText] = useState(false)
+  const [groupCases, setGroupCases] = useState(false)
   const fmtNum = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
   if (!selection) return <div className="panel-body muted">{t('inspect.empty')}</div>
 
@@ -191,28 +192,63 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
             const withText = all.filter((e) => cases.docs?.[e.id]?.some((d) => d.text))
             const textDocs = all.reduce((n, e) => n + (cases.docs?.[e.id]?.filter((d) => d.text).length ?? 0), 0)
             const list = onlyText ? withText : all
+            const keep = new Set(list.map((e) => e.id))
+            // Grouped by case file: cases with the most recent activity first, and inside each case the
+            // entries in the order the matter progressed, oldest first.
+            const groups = groupCases
+              ? groupRows(
+                  caseRows(cases, [p.loknr]).filter((r) => keep.has(r.entry.id)),
+                  cases.cases,
+                ).map((g) => ({ ...g, rows: [...g.rows].reverse() }))
+              : null
+            const row = (e: CaseEntry) => (
+              <li key={e.id} className={`case case-${caseKind(e)}`}>
+                <span className="case-date">{e.date ?? '–'}</span>
+                <span className="case-kind">{t(`case.${caseKind(e)}`)}</span>
+                <CaseDocsDot docs={cases.docs?.[e.id]} />
+                <a href={caseUrl(e)} target="_blank" rel="noreferrer" className="case-title">
+                  {e.title}
+                </a>
+                <small className="muted">
+                  {e.entity} · {t(`case.${e.type ?? 'internal'}`)}
+                </small>
+                <CaseDocs entry={e} docs={cases.docs?.[e.id]} />
+              </li>
+            )
             return all.length ? (
               <>
-                <label className="cases-onlytext" title={t('cases.onlyTextTitle', { n: withText.length, d: textDocs })}>
-                  <input type="checkbox" checked={onlyText} onChange={(e) => setOnlyText(e.target.checked)} disabled={!withText.length} />{' '}
-                  {t('cases.onlyText', { n: withText.length })}
-                </label>
-                <ul className="cases">
-                  {list.map((e) => (
-                    <li key={e.id} className={`case case-${caseKind(e)}`}>
-                      <span className="case-date">{e.date ?? '–'}</span>
-                      <span className="case-kind">{t(`case.${caseKind(e)}`)}</span>
-                      <CaseDocsDot docs={cases.docs?.[e.id]} />
-                      <a href={caseUrl(e)} target="_blank" rel="noreferrer" className="case-title">
-                        {e.title}
-                      </a>
-                      <small className="muted">
-                        {e.entity} · {t(`case.${e.type ?? 'internal'}`)}
-                      </small>
-                      <CaseDocs entry={e} docs={cases.docs?.[e.id]} />
-                    </li>
-                  ))}
-                </ul>
+                <div className="cases-boxes">
+                  <label className="cases-onlytext" title={t('cases.onlyTextTitle', { n: withText.length, d: textDocs })}>
+                    <input type="checkbox" checked={onlyText} onChange={(e) => setOnlyText(e.target.checked)} disabled={!withText.length} />{' '}
+                    {t('cases.onlyText', { n: withText.length })}
+                  </label>
+                  {cases.cases && (
+                    <label className="cases-onlytext" title={t('inspect.groupOrder')}>
+                      <input type="checkbox" checked={groupCases} onChange={(e) => setGroupCases(e.target.checked)} /> {t('cases.group')}
+                    </label>
+                  )}
+                </div>
+                {groups ? (
+                  <div className="case-groups">
+                    {groups.map((g) => (
+                      <section key={g.sak ?? 'none'} className="case-group">
+                        <h4>
+                          {g.sak ? (
+                            <a href={caseFolderUrl(g.sak)} target="_blank" rel="noreferrer">
+                              {g.nr && <span className="case-nr">{g.nr}</span>} {g.title || t('cases.untitledCase')}
+                            </a>
+                          ) : (
+                            t('cases.noCase')
+                          )}
+                          <span className="muted"> · {g.rows.length}</span>
+                        </h4>
+                        <ul className="cases">{g.rows.map((r) => row(r.entry))}</ul>
+                      </section>
+                    ))}
+                  </div>
+                ) : (
+                  <ul className="cases">{list.map(row)}</ul>
+                )}
               </>
             ) : (
               <p className="muted">{t('inspect.noCases', { from: cases.from })}</p>

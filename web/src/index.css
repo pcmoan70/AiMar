@@ -349,6 +349,7 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .cases-panel input[type=search] { margin: 6px 0; }
 .cases-sites { display: flex; align-items: center; gap: 6px; margin-top: 2px; }
 .case-site-key { width: 11px; height: 11px; border-radius: 50%; border: 2px solid #6b3fa0; flex: none; }
+.cases-boxes { display: flex; flex-wrap: wrap; gap: 4px 12px; }
 .cases-onlytext { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; margin: 2px 0 6px; white-space: nowrap; }
 .cases-onlytext input { margin: 0; }
 .cases-controls { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 13px; margin: 4px 0; }

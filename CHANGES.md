@@ -2,6 +2,9 @@
 
 ## 2026-09-15
 
+- Site panel: a *Group by case* box collects a locality's correspondence per
+  case file, cases with the most recent activity first and the entries inside
+  each case in the order the matter progressed, oldest first.
 - The "With text" count is journal entries, not files: its tooltip now says both
   (910 entries holding 3 613 documents), since one entry can carry dozens of
   attachments.
