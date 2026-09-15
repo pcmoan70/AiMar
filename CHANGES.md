@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- Scrubber readout counts the localities whose farm-reported sea temperature
+  that week is above a warm-water threshold, 12.5 °C by default, where lice
+  development speeds up. The threshold is a setting (8 to 16 °C) in ⚙ Settings,
+  and the season view averages each site over the years it reported.
 - "Reload" on the new-version toast now actually loads the new version. The
   waiting service worker is told to skip waiting directly and the reload is
   forced once it has taken over, instead of relying on the plugin helper, which

@@ -1,7 +1,9 @@
 import { useEffect, useRef, useState } from 'react'
 import { BASE_LAYERS } from '../lib/layers'
 import { WEEK_HEAT_MODES, type WeekHeatMode } from '../lib/liceWeek'
+import { WARM_CHOICES } from '../lib/siteData'
 import { updateSettings, useSettings } from '../lib/settings'
+import { numberLocale } from '../lib/i18n'
 import { useT } from '../lib/i18n'
 import LangToggle from './LangToggle'
 
@@ -56,6 +58,17 @@ export default function SettingsMenu() {
               ))}
             </select>
             <small>{t('settings.weekHeatNote')}</small>
+          </label>
+          <label>
+            {t('settings.warmC')}
+            <select value={s.warmC} onChange={(e) => updateSettings({ warmC: Number(e.target.value) })}>
+              {WARM_CHOICES.map((c) => (
+                <option key={c} value={c}>
+                  {c.toLocaleString(numberLocale())} °C
+                </option>
+              ))}
+            </select>
+            <small>{t('settings.warmCNote')}</small>
           </label>
           <label>
             {t('settings.cacheLimit')}

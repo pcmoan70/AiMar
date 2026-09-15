@@ -70,6 +70,7 @@ with `BASE_PATH=/`.
 - Every figure has a hover explanation (source and calculation method).
 - English and Norwegian UI (login screen and ⚙ Settings), including hover
   explanations and help.
+- Week readout counts sites above a settable warm-water threshold (12.5 °C).
 - Weekly heatmap switchable between lice pressure and treatment density, on a
   timeline of individual weeks or averaged per week number over all years with
   the last year overlaid as spikes.

@@ -50,3 +50,39 @@ export function tempSeries(data: SeaTemp, loknr: number, weeks: string[]): (numb
     return v == null || v < PLAUSIBLE[0] || v > PLAUSIBLE[1] ? null : v
   })
 }
+
+/** Default warm-water threshold: above it lice development is fast, eggs reach the infective stage in about a week. */
+export const WARM_C = 12.5
+/** Choices offered in ⚙ Settings. */
+export const WARM_CHOICES = [8, 10, 11, 12, 12.5, 13, 14, 16]
+
+const count = (values: (number | null)[][], threshold: number) => {
+  let above = 0
+  let measured = 0
+  for (const v of values) {
+    const vals = v.filter((x): x is number => x != null)
+    if (!vals.length) continue
+    measured++
+    if (vals.reduce((a, b) => a + b, 0) / vals.length > threshold) above++
+  }
+  return { above, measured }
+}
+
+/** Sites reporting above WARM_C in one week, and how many reported a temperature at all. */
+export function warmAtWeek(data: SeaTemp, label: string, threshold = WARM_C): { above: number; measured: number } {
+  const i = data.weeks.indexOf(label)
+  if (i < 0) return { above: 0, measured: 0 }
+  return count(
+    Object.values(data.localities).map((arr) => [arr[i] ?? null]),
+    threshold,
+  )
+}
+
+/** The same by ISO week number, each site averaged over the years it reported. */
+export function warmAtSeasonWeek(data: SeaTemp, weekOfYear: number, threshold = WARM_C): { above: number; measured: number } {
+  const idx = data.weeks.map((w, i) => (Number(w.slice(5)) === weekOfYear ? i : -1)).filter((i) => i >= 0)
+  return count(
+    Object.values(data.localities).map((arr) => idx.map((i) => arr[i] ?? null)),
+    threshold,
+  )
+}

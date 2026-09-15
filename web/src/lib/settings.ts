@@ -36,6 +36,8 @@ export interface Settings {
   weekAxis: 'timeline' | 'season'
   /** Selected ISO week number (1…53) in season mode. */
   seasonWeek: number
+  /** Sea temperature (°C) counted as warm in the scrubber readout. */
+  warmC: number
 }
 
 const KEY = 'aimar.settings.v1'
@@ -57,6 +59,7 @@ export const DEFAULT_SETTINGS: Settings = {
   weekHeatMode: 'lice',
   weekAxis: 'timeline',
   seasonWeek: 20,
+  warmC: 12.5,
 }
 
 function load(): Settings {

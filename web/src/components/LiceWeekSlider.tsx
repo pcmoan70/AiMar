@@ -3,7 +3,7 @@ import { limitsForWeek, type FishHealth } from '../lib/fishhealth'
 import type { Localities } from '../lib/localities'
 import { isoWeekStart, LICE_BINS, NOT_REPORTED_COLOUR, parseWeek, SEASON_WEEKS, seasonShares, summariseWeek, weekShares, WEEK_HEAT_MODES } from '../lib/liceWeek'
 import { updateSettings, useSettings } from '../lib/settings'
-import { useT, useLang } from '../lib/i18n'
+import { numberLocale, useT, useLang } from '../lib/i18n'
 import Hint from './Hint'
 
 interface Props {
@@ -12,11 +12,14 @@ interface Props {
   /** Current week index into fishhealth.weeks (timeline axis). */
   week: number
   values: Map<number, number | null>
+  /** Sites whose reported sea temperature exceeds 12.5 °C that week, when the snapshot is loaded. */
+  warm: { above: number; measured: number } | null
 }
 
 const ABOVE_COLOUR = '#c9531f'
 const TREAT_COLOUR = '#2a78d6'
 const SPIKE_COLOUR = { lice: '#7f2c0c', treatment: '#14407a' }
+const WARM_COLOUR = '#a8430b'
 const SH = 44 // scrubber height (SVG units = px)
 const SW = 1000 // scrubber width in SVG units
 
@@ -24,7 +27,7 @@ const SW = 1000 // scrubber width in SVG units
  * Scrubber for the weekly lice layers. Two axes: every week since 2012, or the average per ISO week
  * number over all years, where the last year is drawn on top as spikes. ◀ ▶, click/drag and arrow keys.
  */
-export default function LiceWeekSlider({ fishhealth, localities, week, values }: Props) {
+export default function LiceWeekSlider({ fishhealth, localities, week, values, warm }: Props) {
   const t = useT()
   const lang = useLang()
   const s = useSettings()
@@ -185,6 +188,15 @@ export default function LiceWeekSlider({ fishhealth, localities, week, values }:
         </span>
         <span className="lice-readout-n" style={{ color: TREAT_COLOUR }}>
           {t('liceWeek.treated', { k: treatedNow, p: Math.round(100 * treatShare) })}
+        </span>
+        <span className="lice-readout-n" style={{ color: WARM_COLOUR }}>
+          {warm ? (
+            <Hint id="warmSites" text={t('hint.warmSites', { n: warm.measured, c: s.warmC.toLocaleString(numberLocale()) })}>
+              {t('liceWeek.warm', { n: warm.above, c: s.warmC.toLocaleString(numberLocale()) })}
+            </Hint>
+          ) : (
+            ''
+          )}
         </span>
         <span className="lice-readout-limit muted">
           {season ? `${t('liceWeek.years', { a: sea.years[0], b: sea.years[1] })} · ` : ''}

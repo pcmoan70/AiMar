@@ -27,7 +27,7 @@ import { filteredLoknrs as computeFiltered } from './lib/filters'
 import FilterChips from './components/FilterChips'
 import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealth'
 import { loadCases, type Cases } from './lib/cases'
-import { loadSeaTemp, loadTides, type SeaTemp, type Tides } from './lib/siteData'
+import { loadSeaTemp, loadTides, warmAtSeasonWeek, warmAtWeek, type SeaTemp, type Tides } from './lib/siteData'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
 
@@ -99,6 +99,11 @@ function MapApp() {
     for (const [nr, v] of liceValues) if (v != null) bins[liceBin(v)].push(nr)
     return bins
   }, [liceColours, liceValues])
+  const warm = useMemo(() => {
+    if (!seatemp || !fishhealth || !liceLayersOn) return null
+    const weeks = fishhealth.weeks
+    return season ? warmAtSeasonWeek(seatemp, seasonWeek, s.warmC) : warmAtWeek(seatemp, weeks[liceWeek], s.warmC)
+  }, [seatemp, fishhealth, liceLayersOn, season, seasonWeek, liceWeek, s.warmC])
   // Sites over the limit in force that week — 0.2 in the spring weeks, by region — get a dark ring.
   const liceOver = useMemo(() => {
     if (!liceColours || !liceValues || !fishhealth || !localities) return null
@@ -155,7 +160,7 @@ function MapApp() {
         <HoverInfo map={map} />
         <HeatmapLayer map={map} id={HEAT_LAYER_ID} farms={treatmentFarms} />
         <HeatmapLayer map={map} id={LICE_HEAT_LAYER_ID} farms={liceFarms} max={WEEK_HEAT_MAX[s.weekHeatMode]} minDen={0.5} />
-        {fishhealth && liceValues && <LiceWeekSlider fishhealth={fishhealth} localities={localities} week={liceWeek} values={liceValues} />}
+        {fishhealth && liceValues && <LiceWeekSlider fishhealth={fishhealth} localities={localities} week={liceWeek} values={liceValues} warm={warm} />}
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}
