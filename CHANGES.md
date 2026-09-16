@@ -2,6 +2,12 @@
 
 ## 2026-09-16
 
+- Measured currents on the map: `extract-currents.mjs` reads mean speed, maximum
+  speed and the dominant direction out of the NS 9425 survey reports in the
+  document archive and places them at the locality. The layer draws a circle
+  sized by the mean speed and an arrow for the direction, with the numbers and
+  the measurement date on hover. 24 sites so far, 21 with a maximum and 12 with
+  a direction.
 - Ten more overlays from `fiskeridirWMS_akva`: reported biomass per site, MOM-B
   and MOM-C seabed surveys, current surveys, prohibition zones for bath
   treatment and chitin inhibitors, offshore aquaculture areas and Veterinary

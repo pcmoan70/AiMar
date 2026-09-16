@@ -30,6 +30,33 @@ const NOT_REPORTED_ALPHA = 0.2
 /** Ring on sites over the lice limit in force that week (0.2 in the spring weeks, else 0.5). */
 const OVER_LIMIT_STROKE = '#7f0d0d'
 
+export const CURRENTS_LAYER = 'measured-currents'
+/** Measured current speed: a circle sized by the mean, with an arrow for the dominant direction. */
+const CURRENT_COLOUR = '#13678a'
+export const CURRENT_ARROW = 'current-arrow'
+
+/** A small arrow the map can rotate, drawn once and registered on every style load. */
+function arrowImage(): ImageData {
+  const size = 34
+  const c = document.createElement('canvas')
+  c.width = size
+  c.height = size
+  const ctx = c.getContext('2d')!
+  ctx.translate(size / 2, size / 2)
+  ctx.beginPath()
+  ctx.moveTo(0, -15)
+  ctx.lineTo(7, 6)
+  ctx.lineTo(0, 1)
+  ctx.lineTo(-7, 6)
+  ctx.closePath()
+  ctx.fillStyle = CURRENT_COLOUR
+  ctx.fill()
+  ctx.strokeStyle = '#ffffff'
+  ctx.lineWidth = 1.2
+  ctx.stroke()
+  return ctx.getImageData(0, 0, size, size)
+}
+
 export const APPLICATIONS_LAYER = 'applications'
 export const ANCHORS_LAYER = 'application-anchors'
 /** Applications under processing: orange, distinct from the operator palette. */
@@ -146,6 +173,39 @@ function buildStyle(
       layers.push({ id: l.id, type: 'raster', source: l.id, paint: { 'raster-opacity': l.opacity ?? 1 } })
     } else if (l.kind === 'geojson') {
       sources[l.id] = { type: 'geojson', data: dataUrl(l.url.replace(/^data\//, '')), attribution: l.attribution }
+      if (l.id === CURRENTS_LAYER) {
+        layers.push({
+          id: l.id,
+          type: 'circle',
+          source: l.id,
+          paint: {
+            // Radius grows with the measured mean speed (cm/s), so strong sites stand out.
+            'circle-radius': ['interpolate', ['linear'], ['get', 'mean'], 0, 5, 20, 16] as unknown as ExpressionSpecification,
+            'circle-color': CURRENT_COLOUR,
+            'circle-opacity': 0.35,
+            'circle-stroke-color': CURRENT_COLOUR,
+            'circle-stroke-width': 1.5,
+          },
+        })
+        layers.push({
+          // The style carries no glyphs, so the direction is a drawn icon, not a text arrow.
+          id: `${l.id}-arrow`,
+          type: 'symbol',
+          source: l.id,
+          filter: ['has', 'direction'] as unknown as FilterSpecification,
+          layout: {
+            'icon-image': CURRENT_ARROW,
+            'icon-size': ['interpolate', ['linear'], ['get', 'mean'], 0, 0.6, 20, 1.2] as unknown as ExpressionSpecification,
+            'icon-rotate': ['get', 'direction'] as unknown as ExpressionSpecification,
+            // Offset along the icon's own axis, so the arrow reads as a vector leaving the site.
+            'icon-offset': [0, -22],
+            'icon-rotation-alignment': 'map',
+            'icon-allow-overlap': true,
+            'icon-ignore-placement': true,
+          },
+        })
+        continue
+      }
       if (l.id === APPLICATIONS_LAYER) {
         // The applied-for area under the application point, both from bundled snapshots.
         sources['application-areas'] = { type: 'geojson', data: dataUrl('application_areas.geojson'), attribution: l.attribution }
@@ -318,6 +378,8 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
         ? map.queryRenderedFeatures(e.point, { layers: [POLYGON_LAYER] })[0]
         : undefined
       if (poly) return onSelectRef.current({ type: 'loknr', loknr: Number(poly.properties.loknr) })
+      const cur = map.getLayer(CURRENTS_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [CURRENTS_LAYER] })[0] : undefined
+      if (cur) return onSelectRef.current({ type: 'loknr', loknr: Number(cur.properties.loknr) })
       const app = map.getLayer(APPLICATIONS_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [APPLICATIONS_LAYER] })[0] : undefined
       if (app) return onSelectRef.current({ type: 'application', props: app.properties as ApplicationProps })
       const gone = map.getLayer(DELETED_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [DELETED_LAYER] })[0] : undefined
@@ -336,6 +398,11 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
       map.on('mouseleave', id, () => (map.getCanvas().style.cursor = ''))
     }
 
+    const addArrow = () => {
+      if (!map.hasImage(CURRENT_ARROW)) map.addImage(CURRENT_ARROW, arrowImage(), { pixelRatio: 2 })
+    }
+    map.on('style.load', addArrow)
+    map.on('load', addArrow)
     mapRef.current = map
     ;(window as unknown as { __aimar: { map: MlMap; runJanitor: typeof runJanitor; heatValueAt: typeof heatValueAt } }).__aimar = { map, runJanitor, heatValueAt } // test hook (scripts/smoke.mjs)
     onMap(map)

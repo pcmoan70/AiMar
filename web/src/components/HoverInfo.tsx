@@ -47,6 +47,23 @@ export default function HoverInfo({ map }: Props) {
           const p = f?.properties as LocalityProps | undefined
           return { id: l.id, title: t('hover.locality'), value: p ? `${p.navn} (${p.loknr})${p.til_innehavere ? ` · ${p.til_innehavere}` : ''}` : null }
         }
+        if (l.id === 'measured-currents') {
+          const f = map.getLayer('measured-currents') ? map.queryRenderedFeatures(e.point, { layers: ['measured-currents'] })[0] : undefined
+          const c = f?.properties as { navn?: string; mean?: number; max?: number; direction?: number; date?: string } | undefined
+          return {
+            id: l.id,
+            title: shortTitle(l),
+            value: c
+              ? t('currents.hover', {
+                  navn: c.navn ?? '',
+                  mean: c.mean ?? '–',
+                  max: c.max ?? '–',
+                  dir: c.direction == null ? '–' : `${c.direction}°`,
+                  date: c.date ?? '–',
+                })
+              : null,
+          }
+        }
         if (l.id === 'applications') {
           const f = map.getLayer('applications') ? map.queryRenderedFeatures(e.point, { layers: ['applications'] })[0] : undefined
           const a = f?.properties as { navn?: string; appNo?: string; applicant?: string; biomass?: number } | undefined

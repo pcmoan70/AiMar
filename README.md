@@ -72,6 +72,8 @@ with `BASE_PATH=/`.
 - English and Norwegian UI (login screen and ⚙ Settings), including hover
   explanations and help.
 - Week readout counts sites above a settable warm-water threshold (12.5 °C).
+- Measured currents from survey reports: mean and maximum speed with the
+  dominant direction as an arrow at the site.
 - Reported biomass, seabed B- and C-surveys, current surveys, lice-treatment
   prohibition zones, offshore aquaculture areas, disease records, environmental
   state and production intensity per water body (Fiskeridirektoratet).

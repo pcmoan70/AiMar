@@ -26,6 +26,7 @@ jobs:
       - run: node scripts/fetch-applications.mjs
       - run: node scripts/fetch-cases.mjs
       - run: sudo apt-get install -y -q poppler-utils && node scripts/fetch-docs.mjs
+      - run: node scripts/extract-currents.mjs || true
       - run: node scripts/fetch-fishhealth.mjs
         env:
           BW_CLIENT_ID: ${{ secrets.BW_CLIENT_ID }}
@@ -35,7 +36,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           git add public/data data-state src/lib/operatorColours.ts
-          if git diff --cached --quiet -- public/data/localities.geojson public/data/site_polygons.geojson public/data/fishhealth.json public/data/cases.json public/data/docs.json public/data/deleted_localities.geojson public/data/applications.geojson public/data/application_areas.geojson public/data/application_anchors.geojson src/lib/operatorColours.ts; then
+          if git diff --cached --quiet -- public/data/localities.geojson public/data/site_polygons.geojson public/data/fishhealth.json public/data/cases.json public/data/docs.json public/data/deleted_localities.geojson public/data/applications.geojson public/data/application_areas.geojson public/data/application_anchors.geojson public/data/current_measurements.geojson src/lib/operatorColours.ts; then
             echo "No data changes"; exit 0
           fi
           git config user.name "github-actions[bot]"

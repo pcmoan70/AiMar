@@ -72,6 +72,15 @@
       "license": "NLOD 2.0",
       "featureCount": 3686,
       "retrieved": "2026-09-16T08:06:01.137Z"
+    },
+    {
+      "file": "current_measurements.geojson",
+      "organisation": "eInnsyn (report authors: Åkerblå, Akvaplan-niva and others)",
+      "dataset": "Measured current speed and direction read out of NS 9425 survey reports published on eInnsyn",
+      "url": "https://api.einnsyn.no/search?query=str%C3%B8mm%C3%A5ling",
+      "license": "NLOD 2.0",
+      "featureCount": 24,
+      "retrieved": "2026-09-16T09:43:35.062Z"
     }
   ]
 }

@@ -165,6 +165,10 @@ writes `cases.json`: entries (date, authority, direction, title, archive
 identifiers for the einnsyn.no link), a case map (number, title) and the
 locality → entry index. Precached like the other data files.
 
+`scripts/extract-currents.mjs` parses the NS 9425 current-measurement reports in
+the text archive (mean and maximum speed, dominant direction, depths) and writes
+`current_measurements.geojson` at the locality the report belongs to.
+
 `scripts/fetch-applications.mjs` pages three layers of
 `fiskeridirWMS_akva` (application points, applied-for areas, anchor points)
 into `applications*.geojson`, keeping the portal's form fields under plain
