@@ -72,6 +72,9 @@ with `BASE_PATH=/`.
 - English and Norwegian UI (login screen and ⚙ Settings), including hover
   explanations and help.
 - Week readout counts sites above a settable warm-water threshold (12.5 °C).
+- Reported biomass, seabed B- and C-surveys, current surveys, lice-treatment
+  prohibition zones, offshore aquaculture areas, disease records, environmental
+  state and production intensity per water body (Fiskeridirektoratet).
 - Applications under processing: applied-for area, anchor points and the form
   data behind each application, linked to eInnsyn by application number.
 - Wave height and wind speed as monthly normals (2023–2025 NORA3 hindcast),

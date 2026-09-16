@@ -2,6 +2,12 @@
 
 ## 2026-09-16
 
+- Ten more overlays from `fiskeridirWMS_akva`: reported biomass per site, MOM-B
+  and MOM-C seabed surveys, current surveys, prohibition zones for bath
+  treatment and chitin inhibitors, offshore aquaculture areas and Veterinary
+  Institute disease records (Aquaculture tab); environmental state per site and
+  production intensity per water body (Environment tab). All with the service's
+  own legend and hover values.
 - Applications under processing from Fiskeridirektoratet's application portal:
   312 applications with the applied-for area and 3 686 anchor points, bundled
   from the `fiskeridirWMS_akva` service. Clicking one opens the form data,
