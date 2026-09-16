@@ -318,6 +318,8 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .case-title:hover { text-decoration: underline; }
 .case small { grid-column: 1 / -1; }
 .case-docs { grid-column: 1 / -1; }
+.app-pending { font-size: 13px; }
+.badge-application { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; color: #fff; background: #d2691e; border-radius: 3px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; }
 .badge-deleted { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; color: #fff; background: #6b7a88; border-radius: 3px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; }
 .case-marks { display: inline-flex; align-items: center; gap: 4px; justify-self: start; align-self: center; }
 .case-textlink { color: var(--brand); display: inline-flex; align-items: center; text-decoration: none; font-size: 11px; }

@@ -45,6 +45,33 @@
       "license": "NLOD 2.0",
       "featureCount": 2703,
       "retrieved": "2026-09-15T11:49:34.722Z"
+    },
+    {
+      "file": "applications.geojson",
+      "organisation": "Fiskeridirektoratet",
+      "dataset": "Aquaculture applications under processing: application points",
+      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
+      "license": "NLOD 2.0",
+      "featureCount": 312,
+      "retrieved": "2026-09-16T08:06:01.137Z"
+    },
+    {
+      "file": "application_areas.geojson",
+      "organisation": "Fiskeridirektoratet",
+      "dataset": "Aquaculture applications under processing: applied-for areas",
+      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
+      "license": "NLOD 2.0",
+      "featureCount": 301,
+      "retrieved": "2026-09-16T08:06:01.137Z"
+    },
+    {
+      "file": "application_anchors.geojson",
+      "organisation": "Fiskeridirektoratet",
+      "dataset": "Aquaculture applications under processing: applied-for anchor points",
+      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
+      "license": "NLOD 2.0",
+      "featureCount": 3686,
+      "retrieved": "2026-09-16T08:06:01.137Z"
     }
   ]
 }

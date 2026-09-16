@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, liceStatsIndex, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
+import type { ApplicationProps } from '../lib/localities'
 import { caseFolderUrl, caseKind, caseRows, caseUrl, casesFor, groupRows, type CaseEntry, type Cases } from '../lib/cases'
 import { ALL_FARMS_COLOUR, paletteFor } from '../lib/operatorColours'
 import { updateSettings, useSettings } from '../lib/settings'
@@ -23,11 +24,14 @@ interface Props {
   casesFailed: boolean
   seatemp: SeaTemp | null
   tides: Tides | null
+  applications: ApplicationProps[] | null
+  onSelectApplication: (props: ApplicationProps) => void
 }
 
 const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0, 10) : '–')
+const fmt = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
 
-export default function InspectPanel({ selection, localities, fishhealth, cases, casesFailed, seatemp, tides }: Props) {
+export default function InspectPanel({ selection, localities, fishhealth, cases, casesFailed, seatemp, tides, applications, onSelectApplication }: Props) {
   const t = useT()
   const { operatorFilter, fieldFilters } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
@@ -143,6 +147,21 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
           </p>
         )}
         <p className="muted">{t('inspect.sourceRegister')}</p>
+        {applications?.some((a) => a.loknr === p.loknr) && (
+          <p className="app-pending">
+            {t('app.pending')}{' '}
+            {applications
+              .filter((a) => a.loknr === p.loknr)
+              .map((a, i) => (
+                <span key={a.appNo}>
+                  {i > 0 && ', '}
+                  <button type="button" className="case-site" onClick={() => onSelectApplication(a)}>
+                    {a.appNo}
+                  </button>
+                </span>
+              ))}
+          </p>
+        )}
         {tides?.localities[String(p.loknr)] && (() => {
           const td = tides.localities[String(p.loknr)]
           return (
@@ -258,6 +277,59 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
           <p className="muted">{t(casesFailed ? 'inspect.casesFailed' : 'inspect.casesLoading')}</p>
         )}
         <p className="muted">{cases ? t('inspect.sourceCases', { date: cases.retrieved.slice(0, 10) }) : ''}</p>
+      </div>
+    )
+  }
+
+  if (selection.type === 'application') {
+    const a = selection.props
+    // An application is a form, not a register entry: show what was applied for, and where to follow the case.
+    const rows: [string, string | number | undefined][] = [
+      ['app.no', a.appNo],
+      ['app.applicant', a.applicant],
+      ['app.kind', a.kind],
+      ['app.status', a.status ? t(`app.status.${a.status}`) : undefined],
+      ['app.submitted', a.submitted],
+      ['app.site', a.navn ? `${a.navn}${a.loknr ? ` (${a.loknr})` : ''}` : undefined],
+      ['app.where', [a.kommune, a.fylke].filter(Boolean).join(', ') || undefined],
+      ['app.prodArea', a.prodArea],
+      ['app.species', a.species],
+      ['app.biomass', a.biomass ? `${fmt(a.biomass)} t` : undefined],
+      ['app.plannedProd', a.plannedProd ? `${fmt(a.plannedProd)} t` : undefined],
+      ['app.feed', a.feed ? `${fmt(a.feed)} t` : undefined],
+      ['app.cycle', a.cycleMonths ? t('app.months', { n: a.cycleMonths }) : undefined],
+      ['app.net', [a.netType, a.netDepth ? `${fmt(a.netDepth / 100)} m` : null].filter(Boolean).join(' · ') || undefined],
+      ['app.netTreatment', a.netTreatment],
+      ['app.licences', a.licences],
+    ]
+    return (
+      <div className="panel-body">
+        <h2>
+          {a.navn ?? a.appNo}
+          <span className="badge-application">{t('app.badge')}</span>
+        </h2>
+        <table className="kv">
+          <tbody>
+            {rows
+              .filter(([, v]) => v != null && v !== '')
+              .map(([k, v]) => (
+                <tr key={k}>
+                  <th>
+                    <Hint id="application" text={t('hint.application')}>
+                      {t(k)}
+                    </Hint>
+                  </th>
+                  <td>{v}</td>
+                </tr>
+              ))}
+          </tbody>
+        </table>
+        <p>
+          <a href={`https://einnsyn.no/sok?query=${encodeURIComponent(a.appNo)}`} target="_blank" rel="noreferrer">
+            {t('app.searchCase')} ↗
+          </a>
+        </p>
+        <p className="muted">{t('app.source')}</p>
       </div>
     )
   }

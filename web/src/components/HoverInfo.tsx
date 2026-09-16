@@ -47,6 +47,15 @@ export default function HoverInfo({ map }: Props) {
           const p = f?.properties as LocalityProps | undefined
           return { id: l.id, title: t('hover.locality'), value: p ? `${p.navn} (${p.loknr})${p.til_innehavere ? ` · ${p.til_innehavere}` : ''}` : null }
         }
+        if (l.id === 'applications') {
+          const f = map.getLayer('applications') ? map.queryRenderedFeatures(e.point, { layers: ['applications'] })[0] : undefined
+          const a = f?.properties as { navn?: string; appNo?: string; applicant?: string; biomass?: number } | undefined
+          return {
+            id: l.id,
+            title: shortTitle(l),
+            value: a ? `${a.navn ?? a.appNo} · ${a.applicant ?? ''}${a.biomass ? ` · ${a.biomass} t` : ''}` : null,
+          }
+        }
         if (l.id === 'deleted-sites') {
           const f = map.getLayer('deleted-sites') ? map.queryRenderedFeatures(e.point, { layers: ['deleted-sites'] })[0] : undefined
           const p = f?.properties as LocalityProps | undefined

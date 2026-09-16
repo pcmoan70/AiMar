@@ -165,7 +165,10 @@ writes `cases.json`: entries (date, authority, direction, title, archive
 identifiers for the einnsyn.no link), a case map (number, title) and the
 locality → entry index. Precached like the other data files.
 
-`scripts/fetch-deleted.mjs` pages the ArcGIS REST layer
+`scripts/fetch-applications.mjs` pages three layers of
+`fiskeridirWMS_akva` (application points, applied-for areas, anchor points)
+into `applications*.geojson`, keeping the portal's form fields under plain
+names. `scripts/fetch-deleted.mjs` pages the ArcGIS REST layer
 `akvakultur_slettede_lokaliteter` (500 records per request, one at a time) into
 `deleted_localities.geojson`, normalising the attributes to the same property
 names as `localities.geojson` so a withdrawn site opens in the ordinary site

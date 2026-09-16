@@ -1,5 +1,14 @@
 # Changes
 
+## 2026-09-16
+
+- Applications under processing from Fiskeridirektoratet's application portal:
+  312 applications with the applied-for area and 3 686 anchor points, bundled
+  from the `fiskeridirWMS_akva` service. Clicking one opens the form data,
+  applied-for biomass, planned production and feed, cycle, net and species, and
+  links to eInnsyn by application number. A locality with a pending application
+  says so and links to it.
+
 ## 2026-09-15
 
 - Wave and wind climatology in the app: twelve monthly normals each, from the

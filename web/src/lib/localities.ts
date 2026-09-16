@@ -136,3 +136,41 @@ export function sitesOfOperators(localities: Localities, operators: string[]): n
     .filter((f) => operatorsOf(f.properties).some((o) => wanted.has(o)))
     .map((f) => f.properties.loknr)
 }
+
+/** One aquaculture application under processing (scripts/fetch-applications.mjs). */
+export interface ApplicationProps {
+  appNo: string
+  applicant?: string
+  orgNo?: string
+  type?: string
+  kind?: string
+  status?: string
+  submitted?: string
+  loknr?: number
+  navn?: string
+  kommune?: string
+  fylke?: string
+  areaChanged?: boolean
+  biomass?: number
+  plannedProd?: number
+  feed?: number
+  cycleMonths?: number
+  netDepth?: number
+  netType?: string
+  netTreatment?: string
+  species?: string
+  prodArea?: string
+  licences?: string
+}
+
+/** Applications under processing, as plain property records (bundled snapshot). */
+export async function loadApplications(): Promise<ApplicationProps[] | null> {
+  try {
+    const res = await fetch(dataUrl('applications.geojson'))
+    if (!res.ok) return null
+    const fc = (await res.json()) as { features: { properties: ApplicationProps }[] }
+    return fc.features.map((f) => f.properties)
+  } catch {
+    return null
+  }
+}

@@ -13,7 +13,7 @@ export type Category = 'aquaculture' | 'seabed' | 'ocean' | 'environment' | 'fis
 
 /** Overlay tabs in display order, with the importance rank of layers inside each. */
 export const CATEGORIES: { id: Category; title: string; order: string[] }[] = [
-  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'lice-week', 'lice-heat', 'site-polygons', 'treatment-heat', 'prod-areas', 'nytek', 'disease-zones', 'escapes', 'current-points', 'deleted-sites'] },
+  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'applications', 'application-anchors', 'lice-week', 'lice-heat', 'site-polygons', 'treatment-heat', 'prod-areas', 'nytek', 'disease-zones', 'escapes', 'current-points', 'deleted-sites'] },
   { id: 'seabed', title: 'Seabed', order: ['dybdedata', 'ngu-anchoring', 'ngu-sediment', 'ngu-deposition', 'ngu-slope'] },
   { id: 'ocean', title: 'Ocean', order: ['clim-waves', 'clim-wind', 'norkyst-current', 'norkyst-arrows', 'norkyst-temp', 'norkyst-salinity'] },
   { id: 'environment', title: 'Environment', order: ['naturvern', 'bunnhabitat', 'gyteomraader', 'salmon-fjords', 'coral-bans', 'shellfish'] },
@@ -618,6 +618,34 @@ export const LAYERS: LayerDef[] = [
     cache: 'cache-first',
     opacity: 0.7,
     description: 'Vessel track density from AIS, 1 km grid, full year 2022; low-traffic cells are faded.',
+  },
+  {
+    id: 'applications',
+    category: 'aquaculture',
+    title: 'Applications under processing (Fiskeridirektoratet)',
+    group: 'overlay',
+    kind: 'geojson',
+    render: 'circle',
+    url: 'data/applications.geojson',
+    organisation: 'Fiskeridirektoratet',
+    license: NLOD,
+    attribution: '© Fiskeridirektoratet',
+    cache: 'precache',
+    description: 'Aquaculture applications in the portal that have not been decided: the applied-for area and the application itself. Click one for the form data.',
+  },
+  {
+    id: 'application-anchors',
+    category: 'aquaculture',
+    title: 'Applied-for moorings (Fiskeridirektoratet)',
+    group: 'overlay',
+    kind: 'geojson',
+    render: 'circle',
+    url: 'data/application_anchors.geojson',
+    organisation: 'Fiskeridirektoratet',
+    license: NLOD,
+    attribution: '© Fiskeridirektoratet',
+    cache: 'precache',
+    description: 'Anchor points of the applications under processing.',
   },
   {
     id: 'clim-waves',

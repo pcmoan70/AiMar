@@ -14,13 +14,14 @@ import {
 import { BASE_LAYERS, LOCALITIES_LAYER, OVERLAY_LAYERS, SALMON_COLOUR, layerById, wmsTileUrl } from '../lib/layers'
 import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
 import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
-import { dataUrl, type LocalityProps } from '../lib/localities'
+import { type ApplicationProps, dataUrl, type LocalityProps } from '../lib/localities'
 import { filteredTileUrl } from '../lib/tileFilters'
 import { runJanitor } from '../lib/cacheJanitor'
 import { heatValueAt } from '../lib/heatmap'
 
 export type Selection =
   | { type: 'farm'; props: LocalityProps }
+  | { type: 'application'; props: ApplicationProps }
   | { type: 'point'; lngLat: [number, number] }
 
 /** What a map click hit; a border polygon only carries its locality number. */
@@ -28,6 +29,11 @@ export type Selection =
 const NOT_REPORTED_ALPHA = 0.2
 /** Ring on sites over the lice limit in force that week (0.2 in the spring weeks, else 0.5). */
 const OVER_LIMIT_STROKE = '#7f0d0d'
+
+export const APPLICATIONS_LAYER = 'applications'
+export const ANCHORS_LAYER = 'application-anchors'
+/** Applications under processing: orange, distinct from the operator palette. */
+const APPLICATION_COLOUR = '#d2691e'
 
 export const CASE_SITES_LAYER = 'case-sites'
 /** Ring around the localities covered by the case list on screen. */
@@ -140,6 +146,47 @@ function buildStyle(
       layers.push({ id: l.id, type: 'raster', source: l.id, paint: { 'raster-opacity': l.opacity ?? 1 } })
     } else if (l.kind === 'geojson') {
       sources[l.id] = { type: 'geojson', data: dataUrl(l.url.replace(/^data\//, '')), attribution: l.attribution }
+      if (l.id === APPLICATIONS_LAYER) {
+        // The applied-for area under the application point, both from bundled snapshots.
+        sources['application-areas'] = { type: 'geojson', data: dataUrl('application_areas.geojson'), attribution: l.attribution }
+        layers.push({
+          id: 'application-areas',
+          type: 'fill',
+          source: 'application-areas',
+          paint: { 'fill-color': APPLICATION_COLOUR, 'fill-opacity': 0.18 },
+        })
+        layers.push({
+          id: 'application-areas-outline',
+          type: 'line',
+          source: 'application-areas',
+          paint: { 'line-color': APPLICATION_COLOUR, 'line-width': 1.5, 'line-dasharray': [3, 2] },
+        })
+        layers.push({
+          id: l.id,
+          type: 'circle',
+          source: l.id,
+          paint: {
+            'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3.5, 9, 7, 14, 11],
+            'circle-color': APPLICATION_COLOUR,
+            'circle-stroke-color': '#ffffff',
+            'circle-stroke-width': 1.5,
+          },
+        })
+        continue
+      }
+      if (l.id === ANCHORS_LAYER) {
+        layers.push({
+          id: l.id,
+          type: 'circle',
+          source: l.id,
+          paint: {
+            'circle-radius': ['interpolate', ['linear'], ['zoom'], 6, 1.5, 12, 3.5, 16, 5],
+            'circle-color': APPLICATION_COLOUR,
+            'circle-opacity': 0.8,
+          },
+        })
+        continue
+      }
       if (l.id === DELETED_LAYER) {
         // Former farms: hollow grey rings, under the active localities.
         layers.push({
@@ -271,6 +318,8 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
         ? map.queryRenderedFeatures(e.point, { layers: [POLYGON_LAYER] })[0]
         : undefined
       if (poly) return onSelectRef.current({ type: 'loknr', loknr: Number(poly.properties.loknr) })
+      const app = map.getLayer(APPLICATIONS_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [APPLICATIONS_LAYER] })[0] : undefined
+      if (app) return onSelectRef.current({ type: 'application', props: app.properties as ApplicationProps })
       const gone = map.getLayer(DELETED_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [DELETED_LAYER] })[0] : undefined
       if (gone) return onSelectRef.current({ type: 'farm', props: gone.properties as LocalityProps })
       onSelectRef.current({ type: 'point', lngLat: [e.lngLat.lng, e.lngLat.lat] })
@@ -282,7 +331,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
         : undefined
       onContextRef.current(hit ? (hit.properties as LocalityProps) : null, { x: e.point.x, y: e.point.y })
     })
-    for (const id of [LOCALITIES_LAYER, DELETED_LAYER]) {
+    for (const id of [LOCALITIES_LAYER, DELETED_LAYER, APPLICATIONS_LAYER]) {
       map.on('mouseenter', id, () => (map.getCanvas().style.cursor = 'pointer'))
       map.on('mouseleave', id, () => (map.getCanvas().style.cursor = ''))
     }

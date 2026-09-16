@@ -22,7 +22,7 @@ import { logout, useAuth } from './lib/auth'
 import { scheduleJanitor } from './lib/cacheJanitor'
 import { useT } from './lib/i18n'
 import { getSettings } from './lib/settings'
-import { loadLocalities, type Localities, type LocalityFeature } from './lib/localities'
+import { loadApplications, loadLocalities, type ApplicationProps, type Localities, type LocalityFeature } from './lib/localities'
 import { filteredLoknrs as computeFiltered } from './lib/filters'
 import FilterChips from './components/FilterChips'
 import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealth'
@@ -53,6 +53,7 @@ function MapApp() {
   const [seatemp, setSeatemp] = useState<SeaTemp | null>(null)
   const [tides, setTides] = useState<Tides | null>(null)
   const [clim, setClim] = useState<ClimManifest | null>(null)
+  const [applications, setApplications] = useState<ApplicationProps[] | null>(null)
   const [menu, setMenu] = useState<MenuState | null>(null)
   const [caseSites, setCaseSites] = useState<number[] | null>(null)
 
@@ -68,6 +69,7 @@ function MapApp() {
     loadSeaTemp().then(setSeatemp)
     loadTides().then(setTides)
     loadClimManifest().then(setClim)
+    loadApplications().then(setApplications)
     scheduleJanitor(() => getSettings().cacheLimitGb * 1024 ** 3)
   }, [])
 
@@ -183,7 +185,17 @@ function MapApp() {
         {s.panel && (
           <aside>
             {s.panel === 'layers' && <LayerPanel />}
-            {s.panel === 'inspect' && <InspectPanel selection={selection} localities={localities} fishhealth={fishhealth} cases={cases} casesFailed={casesFailed} seatemp={seatemp} tides={tides} />}
+            {s.panel === 'inspect' && <InspectPanel
+                selection={selection}
+                localities={localities}
+                fishhealth={fishhealth}
+                cases={cases}
+                casesFailed={casesFailed}
+                seatemp={seatemp}
+                tides={tides}
+                applications={applications}
+                onSelectApplication={(props) => setSelection({ type: 'application', props })}
+              />}
             {s.panel === 'cases' && (
               <CasesPanel
                 cases={cases}
