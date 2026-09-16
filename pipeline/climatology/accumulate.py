@@ -142,7 +142,9 @@ def _read_day_worker(source_name: str, y: int, m: int, d: int, out: str) -> None
             arrays[f"{f.name}_dir"] = (np.degrees(np.arctan2(u, v)) + 360.0) % 360.0  # bearing the flow goes to
         elif f.direction:
             arrays[f"{f.name}_speed"] = ds[f.speed].values.astype(np.float32)
-            arrays[f"{f.name}_dir"] = (ds[f.direction].values.astype(np.float32) + 180.0) % 360.0  # "from" -> "to"
+            # MET's thq and dd are already "to" directions (standard_name sea_surface_wave_to_direction,
+            # wind_to_direction), so they are taken as they stand.
+            arrays[f"{f.name}_dir"] = ds[f.direction].values.astype(np.float32) % 360.0
         else:
             val = ds[f.speed].values.astype(np.float32)
             raw[f.speed] = val

@@ -234,6 +234,15 @@ tr.filtered .field-filter { color: var(--brand); font-weight: 600; text-decorati
   background: transparent; color: #b42318; border: 0; padding: 0 4px; margin-left: 6px; font-size: 13px; line-height: 1; cursor: pointer; font-weight: 700;
 }
 .field-clear:hover { color: #7a1a12; }
+.clim-control {
+  position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 5;
+  background: rgba(255,255,255,.95); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,.2);
+  padding: 5px 10px; font-size: 13px; display: flex; flex-direction: column; gap: 2px; align-items: center;
+}
+.clim-control label { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+.clim-control select { font: inherit; padding: 2px 6px; }
+.clim-control small { font-size: 11px; }
+main:has(aside) .clim-control { transform: translateX(calc(-50% - 170px)); }
 .lice-slider {
   position: absolute; left: 50%; bottom: 34px; transform: translateX(-50%); z-index: 5; width: min(900px, calc(100% - 140px));
   background: rgba(255,255,255,.95); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,.2);

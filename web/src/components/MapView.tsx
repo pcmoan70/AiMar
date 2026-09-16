@@ -13,6 +13,7 @@ import {
 } from 'maplibre-gl'
 import { BASE_LAYERS, LOCALITIES_LAYER, OVERLAY_LAYERS, SALMON_COLOUR, layerById, wmsTileUrl } from '../lib/layers'
 import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
+import { climArrowSource } from '../lib/climatology'
 import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
 import { type ApplicationProps, dataUrl, type LocalityProps } from '../lib/localities'
 import { filteredTileUrl } from '../lib/tileFilters'
@@ -29,6 +30,8 @@ export type Selection =
 const NOT_REPORTED_ALPHA = 0.2
 /** Ring on sites over the lice limit in force that week (0.2 in the spring weeks, else 0.5). */
 const OVER_LIMIT_STROKE = '#7f0d0d'
+
+const CLIM_ARROW_COLOUR = '#1b3a4b'
 
 export const CURRENTS_LAYER = 'measured-currents'
 /** Measured current speed: a circle sized by the mean, with an arrow for the dominant direction. */
@@ -165,6 +168,21 @@ function buildStyle(
         coordinates: [[-180, 85], [180, 85], [180, -85], [-180, -85]],
       }
       layers.push({ id: l.id, type: 'raster', source: l.id, paint: { 'raster-opacity': 1, 'raster-resampling': 'linear' } })
+      if (l.id.startsWith('clim-')) {
+        // Arrows show the direction; their width is the 90th percentile, while the image shows the mean.
+        sources[climArrowSource(l.id)] = { type: 'geojson', data: { type: 'FeatureCollection', features: [] } }
+        layers.push({
+          id: `${l.id}-arrow-line`,
+          type: 'line',
+          source: climArrowSource(l.id),
+          layout: { 'line-join': 'round', 'line-cap': 'round' },
+          paint: {
+            'line-color': CLIM_ARROW_COLOUR,
+            'line-opacity': 0.8,
+            'line-width': ['interpolate', ['linear'], ['get', 'p90'], 0, 0.5, 8, 3.2] as unknown as ExpressionSpecification,
+          },
+        })
+      }
       continue
     }
     if (l.kind === 'wms') {

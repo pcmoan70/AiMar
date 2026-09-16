@@ -80,8 +80,9 @@ with `BASE_PATH=/`.
 - Applications under processing: applied-for area, anchor points and the form
   data behind each application, linked to eInnsyn by application number.
 - Wave height and wind speed as monthly normals (2023–2025 NORA3 hindcast),
-  with a month selector and hover values for mean, 90th percentile, direction
-  and steadiness.
+  with a month selector on the map, direction arrows whose thickness is the
+  90th percentile, and hover values for mean, 90th percentile, direction and
+  steadiness.
 - Weekly heatmap switchable between lice pressure and treatment density, on a
   timeline of individual weeks or averaged per week number over all years with
   the last year overlaid as spikes.

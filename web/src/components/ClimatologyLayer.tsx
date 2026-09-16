@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react'
 import type { ImageSource, Map as MlMap } from 'maplibre-gl'
-import { CLIM_RAMP, loadClimGrid, setClimGrid, type ClimManifest } from '../lib/climatology'
+import { arrowGeoJSON, climArrows, climArrowSource, CLIM_RAMP, loadClimGrid, setClimGrid, type ClimGrid, type ClimManifest } from '../lib/climatology'
 import { useSettings } from '../lib/settings'
 
 interface Props {
@@ -18,6 +18,8 @@ export default function ClimatologyLayer({ map, id, field, manifest }: Props) {
   const s = useSettings()
   const enabled = s.overlays.includes(id)
   const canvas = useRef<HTMLCanvasElement>(document.createElement('canvas'))
+  const gridRef = useRef<ClimGrid | null>(null)
+  const timer = useRef<number | undefined>(undefined)
 
   useEffect(() => {
     const layer = manifest?.layers[field]
@@ -26,8 +28,9 @@ export default function ClimatologyLayer({ map, id, field, manifest }: Props) {
       return
     }
     let live = true
-    loadClimGrid(field, layer, s.climMonth).then((grid) => {
-      if (!live || !grid) return
+    loadClimGrid(field, layer, s.climMonth).then((g) => {
+      if (!live || !g) return
+      const grid = g
       setClimGrid(id, grid)
       const src = map.getSource(id) as ImageSource | undefined
       if (!src) return
@@ -58,9 +61,31 @@ export default function ClimatologyLayer({ map, id, field, manifest }: Props) {
           [w, sth],
         ],
       })
+      gridRef.current = grid
+      drawArrows()
     })
+    // Arrows are re-sampled for the visible area, so their density follows the zoom.
+    const drawArrows = () => {
+      const g = gridRef.current
+      const src = map.getSource(climArrowSource(id)) as { setData?: (d: unknown) => void } | undefined
+      if (!g || !src?.setData) return
+      const b = map.getBounds()
+      const bounds: [number, number, number, number] = [b.getWest(), b.getSouth(), b.getEast(), b.getNorth()]
+      // Just over half the lattice spacing, so the arrows read as a field and keep a gap.
+      const { samples, step } = climArrows(g, bounds)
+      src.setData(arrowGeoJSON(samples, step * 0.6))
+    }
+    const schedule = () => {
+      window.clearTimeout(timer.current)
+      timer.current = window.setTimeout(drawArrows, 150)
+    }
+    map.on('moveend', schedule)
+    map.on('styledata', schedule)
     return () => {
       live = false
+      window.clearTimeout(timer.current)
+      map.off('moveend', schedule)
+      map.off('styledata', schedule)
     }
   }, [map, id, field, manifest, enabled, s.climMonth])
 

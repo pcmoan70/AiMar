@@ -29,6 +29,7 @@ import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealt
 import { loadCases, type Cases } from './lib/cases'
 import { CLIM_FIELDS, loadClimManifest, type ClimManifest } from './lib/climatology'
 import ClimatologyLayer from './components/ClimatologyLayer'
+import ClimMonthControl from './components/ClimMonthControl'
 import { loadSeaTemp, loadTides, warmAtSeasonWeek, warmAtWeek, warmCounts, type SeaTemp, type Tides } from './lib/siteData'
 import { useOnline } from './lib/offline'
 import { updateSettings, useSettings, type PanelId } from './lib/settings'
@@ -175,6 +176,7 @@ function MapApp() {
         <ContextMenu menu={menu} onClose={() => setMenu(null)} />
         <OperatorDropdown localities={localities} map={map} />
         <FilterChips />
+        <ClimMonthControl manifest={clim} />
         <HoverInfo map={map} />
         {Object.entries(CLIM_FIELDS).map(([id, field]) => (
           <ClimatologyLayer key={id} map={map} id={id} field={field} manifest={clim} />

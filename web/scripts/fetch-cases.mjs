@@ -7,6 +7,7 @@
 //   npm run fetch-cases            incremental: entries updated since the last snapshot (full when none exists)
 //   node scripts/fetch-cases.mjs --full       re-harvest the whole period
 //   node scripts/fetch-cases.mjs --rematch    re-run the matcher on the stored entries, no API calls
+//   node scripts/fetch-cases.mjs --backfill 2010-01-01   add older months in front of the snapshot
 import { readFile, writeFile } from 'node:fs/promises';
 import { setDefaultAutoSelectFamilyAttemptTimeout } from 'node:net';
 // Node gives each address family 250 ms by default; slow hosts (api.einnsyn.no) then fail with ETIMEDOUT while curl succeeds.
@@ -91,11 +92,16 @@ function matchLoknrs(title) {
 // ---- modes
 const args = new Set(process.argv.slice(2));
 const rematch = args.has('--rematch');
+// --backfill <date>: keep the snapshot and harvest the months between <date> and its current start.
+const backfillFrom = process.argv[process.argv.indexOf('--backfill') + 1];
+const backfill = args.has('--backfill') && /^\d{4}-\d{2}-\d{2}$/.test(backfillFrom ?? '');
 const prev = await readFile(new URL('cases.json', OUT), 'utf8').then(JSON.parse, () => null);
-const full = args.has('--full') || (!rematch && !prev?.retrieved);
+const full = args.has('--full') || (!rematch && !backfill && !prev?.retrieved);
 const now = new Date();
-const from = new Date(Date.UTC(now.getUTCFullYear() - YEARS_BACK, now.getUTCMonth(), 1));
+const from = backfill ? new Date(`${backfillFrom}T00:00:00Z`) : new Date(Date.UTC(now.getUTCFullYear() - YEARS_BACK, now.getUTCMonth(), 1));
 const fromIso = from.toISOString().slice(0, 10);
+/** Backfill stops where the stored snapshot already begins. */
+const backfillTo = backfill ? new Date(`${prev.from}T00:00:00Z`) : null;
 const entries = new Map(); // id -> entry (+loknrs)
 const cases = new Map(); // case externalId -> { id, nr, title }
 const entityNames = new Map();
@@ -149,11 +155,13 @@ async function searchWindow(params) {
   return touched;
 }
 let touched = new Set();
-if (full) {
-  for (let d = new Date(from); d < now; d.setUTCMonth(d.getUTCMonth() + 1)) {
+if (full || backfill) {
+  const stop = backfill ? backfillTo : now;
+  for (let d = new Date(from); d < stop; d.setUTCMonth(d.getUTCMonth() + 1)) {
     const start = d.toISOString().slice(0, 10);
     const end = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 0)).toISOString().slice(0, 10);
-    await searchWindow(`journaldatoFrom=${start}&journaldatoTo=${end}`);
+    const hit = await searchWindow(`journaldatoFrom=${start}&journaldatoTo=${end}`);
+    for (const sak of hit) touched.add(sak);
     console.log(`${start}: ${fetched} fetched, ${entries.size} matched so far`);
   }
 } else if (!rematch) {

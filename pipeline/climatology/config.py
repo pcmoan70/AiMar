@@ -31,7 +31,7 @@ class Field:
     units: str
     #: variable holding the magnitude, or None when derived from `uv`
     speed: str | None
-    #: variable holding the "from" direction in degrees, or None when derived from `uv`
+    #: variable holding the direction the waves/wind travel to, in degrees, or None when derived from `uv`
     direction: str | None
     #: (eastward, northward) component variables
     uv: tuple[str, str] | None

@@ -116,3 +116,77 @@ export const CLIM_RAMP = ['#f2f7fb', '#cfe3f2', '#9dc9e8', '#6cb0d6', '#7fc08a',
 const current = new Map<string, ClimGrid>()
 export const setClimGrid = (id: string, g: ClimGrid | null) => (g ? current.set(id, g) : current.delete(id))
 export const climGrid = (id: string) => current.get(id)
+
+/** Direction arrows for a climatology layer live in their own source, refreshed as the map moves. */
+export const climArrowSource = (id: string) => `${id}-arrows`
+
+export interface ArrowSample {
+  lon: number
+  lat: number
+  /** direction the waves or wind travel towards, degrees from north */
+  dir: number
+  mean: number
+  p90: number
+}
+
+/**
+ * Samples the grid on a regular lon/lat lattice inside `bounds`, for direction arrows.
+ * `cols` sets how many arrows span the view, so the density follows the zoom.
+ */
+export const ARROW_COLS = 16
+
+/** Lattice spacing in degrees latitude, i.e. the on-screen gap between arrows. */
+function arrowStep(south: number, north: number, west: number, east: number, cols: number) {
+  return ((east - west) / cols) * Math.cos((((north + south) / 2) * Math.PI) / 180)
+}
+
+export function climArrows(grid: ClimGrid, bounds: [number, number, number, number], cols = ARROW_COLS): { samples: ArrowSample[]; step: number } {
+  const [w, s, e, n] = bounds
+  const west = Math.max(w, grid.layer.bounds[0])
+  const east = Math.min(e, grid.layer.bounds[2])
+  const south = Math.max(s, grid.layer.bounds[1])
+  const north = Math.min(n, grid.layer.bounds[3])
+  if (east <= west || north <= south) return { samples: [], step: 0 }
+  const stepLon = (east - west) / cols
+  // Keep the lattice roughly square on screen at this latitude.
+  const step = arrowStep(south, north, west, east, cols)
+  const samples: ArrowSample[] = []
+  for (let lat = south + step / 2; lat < north; lat += step)
+    for (let lon = west + stepLon / 2; lon < east; lon += stepLon) {
+      const v = climAt(grid, lon, lat)
+      if (!v || v.direction == null) continue
+      samples.push({ lon, lat, dir: v.direction, mean: v.mean, p90: v.p90 })
+    }
+  return { samples, step }
+}
+
+/** Degrees north/east for a bearing and an on-screen length given in degrees latitude. */
+function offset(bearing: number, lat: number, len: number): [number, number] {
+  const rad = (bearing * Math.PI) / 180
+  return [(Math.sin(rad) * len) / Math.max(0.2, Math.cos((lat * Math.PI) / 180)), Math.cos(rad) * len]
+}
+
+/**
+ * One barbed arrow per sample, drawn as a single line that runs out to the tip and
+ * doubles back over each barb, so the head always sits at the end of the shaft.
+ */
+export function arrowGeoJSON(samples: ArrowSample[], lengthDeg: number) {
+  const barb = lengthDeg * 0.32
+  return {
+    type: 'FeatureCollection' as const,
+    features: samples.map((a) => {
+      const [dLon, dLat] = offset(a.dir, a.lat, lengthDeg)
+      const tail: [number, number] = [a.lon - dLon / 2, a.lat - dLat / 2]
+      const tip: [number, number] = [a.lon + dLon / 2, a.lat + dLat / 2]
+      const wing = (side: number): [number, number] => {
+        const [bLon, bLat] = offset(a.dir + 180 + side * 30, a.lat, barb)
+        return [tip[0] + bLon, tip[1] + bLat]
+      }
+      return {
+        type: 'Feature' as const,
+        geometry: { type: 'LineString' as const, coordinates: [tail, tip, wing(-1), tip, wing(1)] },
+        properties: { dir: a.dir, mean: a.mean, p90: a.p90 },
+      }
+    }),
+  }
+}

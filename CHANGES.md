@@ -2,6 +2,17 @@
 
 ## 2026-09-16
 
+- Wave and wind monthly normals: the month selector now sits on the map itself,
+  next to the legend, instead of only in the layer panel. Direction arrows are
+  drawn over the colour: the map colour is the monthly mean, the arrow points the
+  way the waves or wind travel, and its thickness is the 90th percentile. The
+  arrows re-sample themselves as the map moves, so their density follows the zoom.
+- Fixed the wave and wind direction convention. MET's `thq` and `dd` are already
+  "to" directions (`sea_surface_wave_to_direction`, `wind_to_direction`), but the
+  accumulation added 180°, so every stored direction pointed backwards. The
+  monthly statistics were rotated and the PNGs re-rendered; January waves now
+  travel east towards the coast as they should.
+
 - Measured currents on the map: `extract-currents.mjs` reads mean speed, maximum
   speed and the dominant direction out of the NS 9425 survey reports in the
   document archive and places them at the locality. The layer draws a circle
