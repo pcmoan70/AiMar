@@ -45,9 +45,8 @@ export default function CaseDocs({ entry, docs }: { entry: CaseEntry; docs?: Cas
   // Most entries are metadata only: say so, and point at eInnsyn where the file can be requested.
   if (!docs?.length)
     return (
-      <p className="case-nodoc muted">
-        {t('case.noFile')}{' '}
-        <a href={caseUrl(entry)} target="_blank" rel="noreferrer">
+      <p className="case-nodoc">
+        <a href={caseUrl(entry)} target="_blank" rel="noreferrer" title={`${t('case.noFile')} ${t('case.orderAccessTitle')}`}>
           {t('case.orderAccess')} ↗
         </a>
       </p>

@@ -17,7 +17,12 @@ export default function LayerPanel() {
 
   return (
     <div className="panel-body">
-      <h2>{t('layers.overlays')}</h2>
+      <div className="panel-head">
+        <h2>{t('layers.overlays')}</h2>
+        <label className="panel-switch">
+          <input type="checkbox" checked={s.layerDetails} onChange={(e) => updateSettings({ layerDetails: e.target.checked })} /> {t('layers.details')}
+        </label>
+      </div>
       <div className="tabs" role="tablist">
         {CATEGORIES.map((c) => {
           const ids = overlaysIn(c.id).map((l) => l.id)
@@ -52,6 +57,8 @@ export default function LayerPanel() {
       </div>
       {overlaysIn(s.layerTab).map((l) => {
         const on = s.overlays.includes(l.id)
+        // The source line names the organisation, so a title ending in the same name drops it.
+        const title = t(`layer.${l.id}.title`).replace(/\s*\(([^()]+)\)$/, (m, org) => (org === l.organisation ? '' : m))
         return (
           <label key={l.id} className="row">
             <input type="checkbox" checked={on} onChange={() => toggle(l.id)} />
@@ -63,11 +70,12 @@ export default function LayerPanel() {
               ) : l.id === 'lice-heat' ? (
                 <Hint id="liceHeat" text={t(`hint.weekHeat.${s.weekHeatMode}`)}>{t(`weekHeat.title.${s.weekHeatMode}`)}</Hint>
               ) : (
-                t(`layer.${l.id}.title`)
+                title
               )}
-              <small>
-                {l.description ? `${t(`layer.${l.id}.desc`)} ` : ''}
-                {l.organisation} · {l.license} · {t(`layers.cache.${l.cache}`)}
+              {s.layerDetails && l.description && <small>{t(`layer.${l.id}.desc`)}</small>}
+              <small className="layer-meta">
+                {l.organisation} · {l.license}
+                {s.layerDetails ? ` · ${t(`layers.cache.${l.cache}`)}` : ''}
               </small>
               {on &&
                 legendUrls(l).map((u) => (

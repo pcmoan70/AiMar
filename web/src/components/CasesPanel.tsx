@@ -104,9 +104,8 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
       <h2>
         <Hint id="casesPanel" text={t('hint.casesPanel')}>{t('cases.title')}</Hint>
       </h2>
-      <p className="muted">{t(loknrs ? 'cases.countFiltered' : 'cases.countAll', { n: all.length, m: siteCount })}</p>
       <p className="muted cases-sites">
-        <span className="case-site-key" /> {t('cases.onMap', { n: shownSites.length })}
+        {t(loknrs ? 'cases.countFiltered' : 'cases.countAll', { n: all.length, m: siteCount })} <span className="case-site-key" /> {t('cases.onMap', { n: shownSites.length })}
       </p>
       <input
         type="search"

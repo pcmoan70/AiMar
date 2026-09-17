@@ -2,6 +2,16 @@
 
 ## 2026-09-17
 
+- GUI tidy-up. The layer panel shows only title, source and licence per layer,
+  with a **Descriptions** switch that brings the full text back; a source named
+  in the title is no longer repeated underneath. The lice scrubber wraps its
+  readout instead of overflowing, and on narrow screens it spans the map width
+  and sits above the side panel rather than on top of it. Journal entries
+  without a published file carry one short "Request the file on eInnsyn" link
+  instead of a sentence each, and document excerpts are cut to three lines. The
+  Cases panel header is one status line, and the locality search no longer
+  shows a white placeholder on a white field when focused.
+
 - Wind is drawn as standard meteorological wind barbs instead of plain arrows.
   The shaft points into the wind, and the barbs at its far end count the mean
   speed in knots: a half barb is 5, a full barb 10 and a pennant 50, rounded to

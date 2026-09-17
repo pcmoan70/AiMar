@@ -40,6 +40,8 @@ export interface Settings {
   warmC: number
   /** Month shown by the climatology overlays (1…12). */
   climMonth: number
+  /** Show every overlay's description in the layer panel, not only its title and source. */
+  layerDetails: boolean
 }
 
 const KEY = 'aimar.settings.v1'
@@ -63,6 +65,7 @@ export const DEFAULT_SETTINGS: Settings = {
   seasonWeek: 20,
   warmC: 12.5,
   climMonth: 1,
+  layerDetails: false,
 }
 
 function load(): Settings {
