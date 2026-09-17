@@ -1,0 +1,2065 @@
+﻿340-12-19S V.2 TÅRNVIKA 
+Dato revidert: 04.02.2022 
+Vannstrømmåling ved 
+Tårnvika, Bodø, 
+oktober - november 2019 
+Mowi Norway North 
+Etter Norsk Standard NS 9425-2:2003 
+AQUA KOMPETANSE AS 
+2019 
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+1 
+ENDRINGSRAPPORT 
+Rapportens tittel: Vannstrømmåling ved Tårnvika, Bodø, oktober - november 2019 
+Rapportnummer: 340-12-19S V.2 
+Oppdragsgiver: MOWI ASA 
+Lokalitet og kommune: Tårnvika, Bodø kommune 
+Måleperiode: 11.10.–10.11.2019 
+Ansvarlig for rapporten: Aqua Kompetanse AS v/Hege G. Frøysa 
+Endringer til opprinnelig rapport:  
+Rapport 340-12-19S V.2 er oppdatert med kart som viser gjeldende anleggsramme for lokalitet Tårnvika. 
+Endringene gjelder dermed Figur 1 og Figur 2. 
+ 
+ 
+Flatanger, 04.02.2022 
+ 
+Hege G. Frøysa 
+ 
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+2 
+ 
+ 
+ 
+ 
+Rapportens tittel: 
+Vannstrømmåling ved Tårnvika, Bodø, oktober - november 2019 
+Måleperiode: 
+11.10.–10.11.2019 
+Revidert: 04.02.2022 
+Rapportnummer: 340-12-19S V.2 
+Antall sider uten vedlegg: 30 
+Antall sider totalt: 31 
+Oppdragsgiver: 
+Mowi Norway North 
+Kontaktperson: 
+Knut Håvard Krokstrand 
+Prosjektleder: 
+Linda Hagen 
+Lokalitet: Tårnvika 
+Kommune: Bodø 
+Fylke: Nordland 
+Instrumenttype: 
+1 Aquadopp Profiler 
+Dybde målested: 
+ca. 110 meter 
+GPS-koordinat for instrumentrigg: 
+67°34.480 N, 15°07.837 Ø 
+Resultatoversikt 
+65 meter 
+70 meter 
+109 meter 
+Gjennomsnitt (cm/s): 
+4.9 
+4.8 
+5.0 
+Maksimalhastighet (cm/s): 
+18.3 
+23.7 
+22.3 
+Minimumshastighet (cm/s): 
+0.1 
+0.1 
+0.0 
+Varians (cm2/s2): 
+7.7 
+8.9 
+9.9 
+Strømstyrke 0-1 cm/s (%): 
+3.5 
+4.2 
+4.0 
+Hovedstrømretning: 
+nord 
+nord 
+nord 
+ 
+Emneord: havstrøm, vannstrøm, spredningsstrøm, bunnstrøm, doppler, 
+Aquadopp Profiler 
+ID 415-14 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig: 
+ 
+Karen Fosse Sivertsen 
+Kvalitetssikrer: 
+ 
+Linda Hagen 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org. Nr.: 982 226 163 
+© 2019 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig samtykke 
+fra Aqua Kompetanse AS. 
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+3 
+Innhold 
+Innledning .................................................................................................................................................................4 
+Materiale og metode ................................................................................................................................................6 
+Kort vurdering ...........................................................................................................................................................7 
+Resultater .................................................................................................................................................................7 
+Tidsserie - strømhastighet ....................................................................................................................................8 
+Tidsserie - strømretning .................................................................................................................................... 10 
+Strømrose - gjennomsnittlig strømhastighet .................................................................................................... 12 
+Strømrose - maksimal strømhastighet .............................................................................................................. 14 
+Histogram - strømhastighet ............................................................................................................................... 16 
+Histogram - strømretning .................................................................................................................................. 18 
+Spredningsdiagram - strømretning og -hastighet ............................................................................................. 20 
+Strømrose - vanntransport (fluks) ..................................................................................................................... 22 
+Vektor - progressiv vektor ................................................................................................................................. 24 
+Sensorer - trykk registrert av instrument .......................................................................................................... 26 
+Sensorer - instrumenthelning (tilt) .................................................................................................................... 26 
+Sensorer - sjøtemperatur .................................................................................................................................. 27 
+Tabell - matrise med retnings- og hastighetsgrupper ....................................................................................... 28 
+Vedlegg A - riggtegning .......................................................................................................................................... 31 
+ 
+ 
+ 
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+4 
+Innledning 
+Aqua Kompetanse AS har på oppdrag fra Mowi Norway North utført strømundersøkelser ved Tårnvika i Bodø 
+kommune (Figur 1 og 2). Aqua kompetanse sammen med representanter fra Mowi har stått for instrumentutsett, 
+mens Aqua Kompetanse har stått for kvalitetssikring av data samt rapportering. Rapporten presenterer en 
+oppsummering av resultatene fra strømmålingene, og er bygd på forutsetningen om at leseren studerer følgende 
+data og figurer nøye. Strømmålingene ble foretatt i perioden 11.10.–10.11.2019. Rådata finnes oppbevart hos 
+Aqua Kompetanse AS, og er tilgjengelig ved forespørsel. 
+ 
+Figur 1: Oversiktskart over deler av Bodø og Sørfold kommune. Innrammet kartutsnitt i rødt viser undersøkelsesområdet ved 
+Tårnvika. Kartkilde: Olex. 
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+5 
+ 
+Figur 2: Undersøkelsesområdet ved Tårnvika. Posisjon for plassering av strømrigg er markert med grønt kryss, og 
+anleggsrammen for Tårnvika er vist i svart. Kartkilde: Olex. 
+ 
+ 
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+6 
+Materiale og metode 
+Strømmålingene ved Tårnvika er gjennomført i henhold til NS 9425-2:2003. For å måle vannstrøm er det benyttet 
+en 400 kHz akustisk strømmåler produsert av Nortek AS. Den akustiske måleren bruker dopplerskift for å beregne 
+strømhastighet og -retning, og refereres ofte til som en dopplermåler. Instrumentet er montert på 61 meters 
+dyp pekende nedover i en bunnforankret rigg (se Vedlegg A for riggtegning). Det er omtrent 110 meter dypt på 
+målestedet. Måleren registrerer i 1 minutt og 20 sekunder sammenhengende og hviler i 8 minutter og 40 
+sekunder. Måleren har et instrumentoppsett på 32 celler × 2 meter som gir en rekkevidde på 64 meter. 
+Tabell 1: Informasjon om oppsett, instrument-ID og måletidspunkt. 
+Parametere 
+MSK02 
+Målertype 
+Aquadopp Profiler 
+Målernummer 
+MSK02 
+Hode-ID / Kort-ID 
+AQP 7236 / AQD12276 
+Frekvens (kHz) 
+400 
+Måleretning 
+Opp 
+Måleintervall (s) 
+600 
+Midlingsperiode (s) 
+80 
+Målebelastning (%) 
+100 
+Antall celler (#) 
+32 
+Cellestørrelse (m) 
+2 
+Blindsone (m) 
+1 
+Instrumentdyp (m) 
+60.9 
+Tidsrom for gyldige registreringer 
+11.10.2019 12.20 - 10.11.2019 21.20 
+ 
+I denne måleserien er det tatt utgangspunkt i et merddyp på 20 meter, og dybden på målestedet er omtrent 110 
+meter. Spredningsstrømmen skal måles midt mellom merdbunnen og sjøbunnen (maksimalt 50 meter under 
+notbunn), og vil i dette tilfellet være på 65 meters dyp. Bunnstrømmen skal måles 1 meter over bunnen 
+(maksimalt 100 meter under notbunn), og er i dette tilfellet være hentet fra 109 meters dyp. Anlegget ligger over 
+en skråning med dyp opp mot 180 meter. Spredningsstrøm vil ved de dypere områdene være på 70 meters dyp, 
+og måleserie fra dette dypet er også presentert. 
+Det er foretatt en manuell og automatisk kvalitetskontroll av datasettet med programvarene SeaReport og Storm. 
+Nærmest instrumentet er datasettet av god kvalitet og i måleseriene fra 65 og 70 meters dyp er ingen situasjoner 
+med korrupt data oppdaget. Lengst fra instrumentet er det lav signalstyrke, men etter manuell inspeksjon av 
+måleserien på 109 meters dyp er minstekravet for signalstyrke slått av i den automatiske kvalitetskontrollen for 
+å få en fyldig måleserie. 
+ 
+ 
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+7 
+Kort vurdering 
+Størst vanntransport i alle undersøkte dyp ved Tårnvika er rettet mot nord med sekundærkomponent mot sør. 
+Vannstrømmen følger batymetrien ved målepunktet. 
+Resultater 
+I denne måleserien fra Tårnvika er gjennomsnittlig vannstrøm 4.9, 4.8 og 5.0 cm/s på 65, 70 og 109 meters dyp, 
+mens maksimalhastigheten er henholdsvis 18.3, 23.7 og 22.3 cm/s. Det er registrert lite strømstille i 
+måleperioden på alle undersøkte dyp. 
+Vannstrømmen ved Tårnvika veksler stort sett med tidevannet og følger batymetriens orientering ved 
+målestedet med retning mot nord og sør. Størst vanntransport på alle undersøkte dyp er rettet mot nord, men 
+har også en betydelig sekundærkomponent mot sør. 
+Nedenfor presenteres tabeller og figurer med statistikk og resultater. 
+Tabell 2: Statistikk 
+ 
+spredningsstrøm 
+bunnstrøm 
+Parametere 
+65 meter 
+70 meter 
+109 meter 
+Gyldige målinger/totalt (#) 
+4375/4375 
+4375/4375 
+4375/4375 
+Gjennomsnittsstrøm (cm/s) 
+4.9 
+4.8 
+5.0 
+Maksimalstrøm (cm/s) 
+18.3 
+23.7 
+22.3 
+Minimumstrøm (cm/s) 
+0.1 
+0.1 
+0.0 
+Strømstyrke 0-1 cm/s (%) 
+3.5 
+4.2 
+4.0 
+Strømstyrke 1-3 cm/s (%) 
+23.0 
+26.1 
+24.6 
+Neumann-parameter 
+0.17 
+0.08 
+0.18 
+Standardavvik (cm/s) 
+2.8 
+3.0 
+3.1 
+Varians (cm2/s2) 
+7.7 
+8.9 
+9.9 
+Signifikant maksimum strømhastighet (cm/s) 
+8.1 
+8.1 
+8.6 
+Signifikant minimum strømhastighet (cm/s) 
+2.2 
+2.0 
+2.1 
+De 4 hyppigst forekommende 
+strømretningsgruppene (°) 
+345 - 360 
+330 - 345 
+0 - 15 
+315 - 330 
+330 - 345 
+0 - 15 
+345 - 360 
+15 - 30 
+345 - 360 
+330 - 345 
+0 - 15 
+315 - 330 
+De 4 hyppigst forekommende 
+strømhastighetsgruppene (cm/s) 
+3 - 5 
+5 - 7 
+1 - 3 
+7 - 9 
+3 - 5 
+1 - 3 
+5 - 7 
+7 - 9 
+3 - 5 
+1 - 3 
+5 - 7 
+7 - 9 
+Mest vannutskiftning / retning / 15 graders 
+sektor 
+391 m3/m2 per dag 
+ved 345 - 360 
+350 m3/m2 per dag 
+ved 330 - 345 
+474 m3/m2 per dag 
+ved 345 - 360 
+Minst vannutskiftning / retning / 15 graders 
+sektor 
+66 m3/m2 per dag ved 
+120 - 135 
+68 m3/m2 per dag ved 
+240 - 255 
+92 m3/m2 per dag ved 
+75 - 90 
+ 
+ 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+8 
+Tidsserie - strømhastighet 
+Figur 3: Vannstrømhastighet (cm/s) på 65 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+Figur 4: Vannstrømhastighet (cm/s) på 70 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+9 
+Figur 5: Vannstrømhastighet (cm/s) på 109 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+10 
+Tidsserie - strømretning 
+Figur 6: Vannstrømretning (°) på 65 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+Figur 7: Vannstrømretning (°) på 70 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+11 
+Figur 8: Vannstrømretning (°) på 109 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+12 
+Strømrose - gjennomsnittlig strømhastighet 
+Figur 9: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 65 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. 
+Figur 10: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 70 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+13 
+Figur 11: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 109 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+14 
+Strømrose - maksimal strømhastighet 
+Figur 12: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 65 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. 
+Figur 13: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 70 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+15 
+Figur 14: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 109 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+16 
+Histogram - strømhastighet 
+Figur 15: Frekvensfordeling av vannstrømhastighet på 65 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+Figur 16: Frekvensfordeling av vannstrømhastighet på 70 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+17 
+Figur 17: Frekvensfordeling av vannstrømhastighet på 109 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+18 
+Histogram - strømretning 
+Figur 18: Frekvensfordeling av vannstrømretning for hver 15° sektor på 65 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. Oppgis som retningen vannstrømmen beveger seg mot. 
+Figur 19: Frekvensfordeling av vannstrømretning for hver 15° sektor på 70 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. Oppgis som retningen vannstrømmen beveger seg mot. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+19 
+Figur 20: Frekvensfordeling av vannstrømretning for hver 15° sektor på 109 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. Oppgis som retningen vannstrømmen beveger seg mot. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+20 
+Spredningsdiagram - strømretning og -hastighet 
+Figur 21: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 65 meters dyp ved 
+Tårnvika i perioden 11.10.–10.11.2019. 
+Figur 22: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 70 meters dyp ved 
+Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+21 
+Figur 23: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 109 meters dyp ved 
+Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+22 
+Strømrose - vanntransport (fluks) 
+Figur 24: Vanntransport (m³/m²/dag) for hver 15° sektor på 65 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+Figur 25: Vanntransport (m³/m²/dag) for hver 15° sektor på 70 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+23 
+Figur 26: Vanntransport (m³/m²/dag) for hver 15° sektor på 109 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+24 
+Vektor - progressiv vektor 
+Figur 27: Progressiv vektor på 65 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+Figur 28: Progressiv vektor på 70 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+25 
+Figur 29: Progressiv vektor på 109 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+26 
+Sensorer - trykk registrert av instrument 
+Figur 30: Trykk (dBar) i instrumentdypet ved Tårnvika i perioden 11.10.–10.11.2019. 
+Sensorer - instrumenthelning (tilt) 
+Figur 31: Instrumenthelning (°) på Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA 
+AQUA KOMPETANSE AS 
+27 
+Sensorer - sjøtemperatur 
+Figur 32: Temperatur i instrumentdypet ved Tårnvika i perioden 11.10.–10.11.2019. 
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+28 
+Tabell - matrise med retnings- og hastighetsgrupper 
+Tabell 3: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 65 meters dyp ved Tårnvika i 
+perioden 11.10.–10.11.2019. Antall målinger og prosent av antall målinger, samt fluks (m3/m2/døgn) og prosentvis fluks for 
+hver 15° sektor er presentert. 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+% m3/m2/døgn
+%
+0
+8
+15
+28
+46
+47
+46
+66
+37
+15
+0
+0
+0
+0
+0
+308
+7,04
+328,5
+7,71
+15
+6
+25
+30
+30
+34
+46
+43
+23
+7
+1
+0
+0
+0
+0
+245
+5,60
+240,2
+5,64
+30
+5
+18
+18
+34
+25
+25
+32
+14
+2
+0
+0
+0
+0
+0
+173
+3,95
+159,7
+3,75
+45
+4
+18
+13
+24
+9
+16
+11
+2
+0
+0
+0
+0
+0
+0
+97
+2,22
+71,6
+1,68
+60
+6
+18
+27
+24
+14
+14
+10
+6
+1
+0
+0
+0
+0
+0
+120
+2,74
+89,9
+2,11
+75
+9
+17
+23
+26
+12
+12
+6
+2
+0
+0
+0
+0
+0
+0
+107
+2,45
+70,7
+1,66
+90
+3
+13
+19
+24
+15
+15
+6
+2
+2
+0
+0
+0
+0
+0
+99
+2,26
+75,3
+1,77
+105
+4
+13
+15
+20
+16
+11
+8
+4
+0
+0
+0
+0
+0
+0
+91
+2,08
+68,6
+1,61
+120
+8
+17
+18
+19
+18
+10
+7
+1
+0
+0
+0
+0
+0
+0
+98
+2,24
+65,6
+1,54
+135
+9
+17
+23
+28
+21
+13
+27
+12
+5
+1
+0
+0
+0
+0
+156
+3,57
+142,0
+3,33
+150
+5
+18
+22
+28
+33
+22
+22
+20
+26
+3
+0
+0
+0
+0
+199
+4,55
+226,0
+5,30
+165
+5
+11
+30
+33
+20
+25
+38
+20
+40
+7
+0
+0
+0
+0
+229
+5,23
+293,3
+6,89
+180
+7
+21
+20
+31
+28
+42
+40
+18
+29
+4
+0
+0
+0
+0
+240
+5,49
+277,0
+6,50
+195
+6
+14
+19
+16
+24
+12
+21
+21
+13
+2
+0
+0
+0
+0
+148
+3,38
+161,9
+3,80
+210
+5
+19
+23
+28
+19
+20
+20
+10
+3
+0
+0
+0
+0
+0
+147
+3,36
+125,7
+2,95
+225
+9
+16
+21
+33
+18
+18
+22
+4
+1
+0
+0
+0
+0
+0
+142
+3,25
+113,1
+2,65
+240
+8
+16
+26
+22
+19
+15
+17
+2
+3
+0
+0
+0
+0
+0
+128
+2,93
+100,0
+2,35
+255
+2
+19
+23
+30
+22
+11
+9
+8
+2
+0
+0
+0
+0
+0
+126
+2,88
+100,5
+2,36
+270
+4
+17
+27
+30
+17
+20
+17
+8
+1
+0
+0
+0
+0
+0
+141
+3,22
+116,8
+2,74
+285
+9
+13
+16
+33
+33
+27
+33
+8
+1
+0
+0
+0
+0
+0
+173
+3,95
+156,9
+3,68
+300
+14
+20
+37
+31
+31
+39
+43
+22
+2
+0
+0
+0
+0
+0
+239
+5,46
+220,3
+5,17
+315
+8
+17
+27
+32
+55
+33
+59
+26
+11
+0
+0
+0
+0
+0
+268
+6,13
+279,5
+6,56
+330
+6
+23
+39
+39
+40
+56
+81
+48
+17
+1
+0
+0
+0
+0
+350
+8,00
+385,6
+9,05
+345
+4
+25
+43
+39
+46
+49
+76
+42
+26
+1
+0
+0
+0
+0
+351
+8,02
+390,9
+9,18
+SUM(#)
+154
+420
+587
+700
+616
+597
+714
+360
+207
+20
+0
+0
+0
+0
+4375
+100
+4259,6
+100
+SUM(%)
+3,52
+9,60
+13,42
+16,00
+14,08
+13,65
+16,32
+8,23
+4,73
+0,46
+0,00
+0,00
+0,00
+0,00
+100
+Hastighetsgrupper, vannhastighet (cm/s)
+65 m
+antall målinger
+fluks
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+29 
+Tabell 4: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 70 meters dyp ved Tårnvika i 
+perioden 11.10.–10.11.2019. Antall målinger og prosent av antall målinger, samt fluks (m3/m2/døgn) og prosentvis fluks for 
+hver 15° sektor er presentert. 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+% m3/m2/døgn
+%
+0
+7
+23
+37
+51
+54
+46
+61
+29
+13
+0
+0
+0
+0
+0
+321
+7,34
+320,6
+7,75
+15
+7
+24
+27
+45
+34
+37
+46
+14
+9
+0
+0
+0
+0
+0
+243
+5,55
+226,9
+5,49
+30
+9
+13
+36
+27
+24
+20
+34
+9
+2
+0
+0
+0
+0
+0
+174
+3,98
+148,9
+3,60
+45
+4
+24
+48
+34
+34
+18
+18
+3
+0
+0
+0
+0
+0
+0
+183
+4,18
+133,6
+3,23
+60
+5
+21
+30
+28
+16
+15
+11
+2
+0
+0
+0
+0
+0
+0
+128
+2,93
+91,0
+2,20
+75
+8
+28
+22
+25
+16
+12
+8
+2
+0
+0
+0
+0
+0
+0
+121
+2,77
+78,3
+1,89
+90
+8
+17
+24
+26
+14
+18
+1
+2
+0
+0
+0
+0
+0
+0
+110
+2,51
+71,9
+1,74
+105
+6
+21
+23
+22
+18
+7
+10
+4
+0
+0
+0
+0
+0
+0
+111
+2,54
+77,7
+1,88
+120
+11
+25
+19
+17
+20
+11
+8
+1
+1
+0
+0
+0
+0
+0
+113
+2,58
+74,6
+1,80
+135
+7
+19
+25
+21
+13
+28
+19
+7
+7
+0
+0
+0
+0
+0
+146
+3,34
+130,1
+3,14
+150
+10
+24
+23
+22
+21
+27
+27
+20
+20
+3
+2
+0
+0
+0
+199
+4,55
+224,2
+5,42
+165
+7
+16
+21
+16
+24
+22
+36
+34
+40
+12
+2
+0
+0
+0
+230
+5,26
+327,9
+7,93
+180
+9
+17
+18
+25
+30
+21
+36
+22
+48
+11
+1
+0
+0
+0
+238
+5,44
+323,6
+7,82
+195
+11
+19
+27
+30
+32
+21
+37
+26
+17
+3
+1
+0
+0
+0
+224
+5,12
+243,6
+5,89
+210
+6
+17
+24
+23
+23
+15
+31
+8
+4
+1
+0
+0
+0
+0
+152
+3,47
+138,8
+3,36
+225
+8
+17
+27
+23
+20
+16
+16
+4
+1
+0
+0
+0
+0
+0
+132
+3,02
+101,9
+2,46
+240
+11
+14
+20
+15
+15
+8
+10
+4
+0
+0
+0
+0
+0
+0
+97
+2,22
+68,5
+1,66
+255
+4
+15
+18
+24
+19
+20
+9
+3
+1
+0
+0
+0
+0
+0
+113
+2,58
+87,8
+2,12
+270
+14
+24
+19
+24
+25
+14
+6
+1
+1
+0
+0
+0
+0
+0
+128
+2,93
+84,5
+2,04
+285
+10
+18
+35
+22
+30
+16
+25
+6
+4
+1
+0
+0
+0
+0
+167
+3,82
+140,6
+3,40
+300
+3
+20
+26
+38
+27
+19
+32
+16
+5
+0
+0
+0
+0
+0
+186
+4,25
+173,0
+4,18
+315
+4
+17
+35
+33
+30
+25
+35
+20
+10
+0
+0
+0
+0
+0
+209
+4,78
+204,1
+4,94
+330
+10
+26
+45
+37
+41
+53
+66
+38
+19
+0
+0
+0
+0
+0
+335
+7,66
+349,8
+8,46
+345
+6
+17
+38
+54
+56
+41
+70
+23
+9
+1
+0
+0
+0
+0
+315
+7,20
+314,1
+7,60
+SUM(#)
+185
+476
+667
+682
+636
+530
+652
+298
+211
+32
+6
+0
+0
+0
+4375
+100
+4136,0
+100
+SUM(%)
+4,23
+10,88
+15,25
+15,59
+14,54
+12,11
+14,90
+6,81
+4,82
+0,73
+0,14
+0,00
+0,00
+0,00
+100
+Hastighetsgrupper, vannhastighet (cm/s)
+70 m
+fluks
+antall målinger
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+30 
+Tabell 5: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 109 meters dyp ved Tårnvika i 
+perioden 11.10.–10.11.2019. Antall målinger og prosent av antall målinger, samt fluks (m3/m2/døgn) og prosentvis fluks for 
+hver 15° sektor er presentert. 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+8
+10
+15
+20
+25
+50
+75
+100
+#
+% m3/m2/døgn
+%
+0
+1
+24
+31
+37
+41
+36
+59
+37
+32
+5
+0
+0
+0
+0
+303
+6,93
+357,7
+8,22
+15
+5
+15
+41
+23
+25
+28
+29
+30
+23
+2
+0
+0
+0
+0
+221
+5,05
+245,8
+5,65
+30
+6
+19
+21
+35
+26
+27
+18
+10
+4
+0
+0
+0
+0
+0
+166
+3,79
+145,5
+3,34
+45
+5
+20
+24
+27
+30
+15
+19
+7
+2
+0
+0
+0
+0
+0
+149
+3,41
+123,1
+2,83
+60
+5
+19
+31
+21
+14
+18
+17
+4
+5
+0
+0
+0
+0
+0
+134
+3,06
+110,0
+2,53
+75
+5
+26
+21
+17
+18
+13
+13
+3
+3
+1
+0
+0
+0
+0
+120
+2,74
+91,6
+2,10
+90
+12
+18
+26
+23
+19
+16
+17
+8
+3
+0
+0
+0
+0
+0
+142
+3,25
+115,0
+2,64
+105
+7
+16
+17
+22
+14
+20
+16
+9
+9
+4
+0
+0
+0
+0
+134
+3,06
+133,4
+3,07
+120
+4
+14
+26
+23
+25
+19
+17
+13
+9
+0
+0
+0
+0
+0
+150
+3,43
+140,2
+3,22
+135
+12
+10
+13
+21
+25
+13
+22
+12
+7
+5
+0
+0
+0
+0
+140
+3,20
+143,4
+3,30
+150
+14
+18
+28
+37
+20
+22
+31
+24
+7
+3
+0
+0
+0
+0
+204
+4,66
+200,4
+4,61
+165
+9
+20
+23
+24
+27
+22
+23
+13
+21
+1
+0
+0
+0
+0
+183
+4,18
+189,1
+4,35
+180
+7
+13
+17
+33
+27
+16
+31
+25
+12
+5
+0
+0
+0
+0
+186
+4,25
+208,4
+4,79
+195
+5
+19
+27
+34
+16
+12
+24
+18
+14
+0
+0
+0
+0
+0
+169
+3,86
+167,1
+3,84
+210
+9
+14
+28
+27
+24
+13
+26
+8
+2
+0
+0
+0
+0
+0
+151
+3,45
+127,1
+2,92
+225
+10
+10
+24
+26
+18
+16
+21
+6
+5
+0
+0
+0
+0
+0
+136
+3,11
+118,3
+2,72
+240
+8
+12
+33
+30
+26
+20
+23
+6
+1
+0
+0
+0
+0
+0
+159
+3,63
+129,1
+2,97
+255
+5
+13
+26
+18
+19
+15
+14
+6
+3
+1
+0
+0
+0
+0
+120
+2,74
+101,2
+2,33
+270
+8
+16
+33
+28
+30
+12
+24
+7
+2
+0
+0
+0
+0
+0
+160
+3,66
+129,6
+2,98
+285
+9
+24
+22
+23
+21
+19
+13
+5
+6
+0
+0
+0
+0
+0
+142
+3,25
+114,2
+2,63
+300
+10
+26
+26
+29
+32
+25
+22
+12
+8
+0
+0
+0
+0
+0
+190
+4,34
+165,8
+3,81
+315
+8
+24
+29
+30
+32
+38
+53
+18
+13
+2
+0
+0
+0
+0
+247
+5,65
+255,8
+5,88
+330
+6
+22
+38
+40
+34
+27
+59
+35
+32
+10
+0
+0
+0
+0
+303
+6,93
+365,2
+8,39
+345
+6
+22
+37
+34
+56
+37
+66
+48
+48
+9
+3
+0
+0
+0
+366
+8,37
+473,6
+10,88
+SUM(#)
+176
+434
+642
+662
+619
+499
+657
+364
+271
+48
+3
+0
+0
+0
+4375
+100
+4350,6
+100
+SUM(%)
+4,02
+9,92
+14,67
+15,13
+14,15
+11,41
+15,02
+8,32
+6,19
+1,10
+0,07
+0,00
+0,00
+0,00
+100
+Hastighetsgrupper, vannhastighet (cm/s)
+109 m
+fluks
+antall målinger
+340-12-19S V.2 TÅRNVIKA  
+AQUA KOMPETANSE AS 
+31 
+Vedlegg A - riggtegning 
+ 
+ 
+Overflate (0 m): blåse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ca. 5 m over instrument: oppdriftskule × 3 
+ 
+ 
+ 
+ 
+ 
+60.9 meters dyp: Aquadopp Profiler MSK01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bunn (ca. 110 meter): lodd/kjetting/anker 
+Figur A.1: Veiledende riggtegning for 
+instrumentriggen brukt ved Tårnvika. 
+Avvik kan forekomme.

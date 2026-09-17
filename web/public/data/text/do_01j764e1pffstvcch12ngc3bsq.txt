@@ -1,0 +1,776 @@
+﻿Rapporten omhandler: 
+ 
+STRØMRAPPORT 30036 JØRSTADSKJERA 
+Iht. NS9415:2009 
+ 
+ 
+                   
+For Bremnes Seashore AS  
+ 
+ 
+ 
+ 
+ 
+ 
+             
+Posisjon for strømmålinger:   5 m og 15 m   - 59°17.648N 05°56.078Ø 
+ 
+                                  :   5 m og 15 m   - 59°17.633N 05°56.356Ø 
+                                             : 95 m og 145 m - 59°17.633N 05°56.356Ø    
+Kontaktperson: Vivian Kvarven  
+ 
+ 
+ 
+ 
+ 
+Utført av 
+Arild Heggland 
+02.09.15 
+ 
+ 
+Strømrapport 
+ 
+ 
+Side 2 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+    Tabell 1.1 Oppsummering av maksimalstrøm på 5, 15, 95 og 145 meter (strøm går mot retning).  
+Mot retning:  
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Strøm 5m [m/s]: 
+0,30 
+0,40 
+0,42 
+0,18 
+0,23 
+0,29 
+0,37 
+0,18 
+Strøm 15m [m/s]: 
+0,26 
+0,32 
+0,48 
+0,61 
+0,38 
+0,40 
+,038 
+0,20 
+Strøm 95m [m/s]: 
+0,07 
+0,15 
+0,14 
+0,07 
+0,11 
+0,21 
+0,11 
+0,07 
+Strøm 145m [m/s]: 
+0,09 
+0,19 
+0,08 
+0,02 
+0,08 
+0,05 
+0,02 
+0,03 
+ 
+Tabell 1.2 Oppsummering av strømparametre. 
+2012 
+      Parameter 
+Dybde 
+Snitt 
+(cm/s) 
+Varians 
+(cm/s)2 
+Maksimum 
+(cm/s) 
+Minimum 
+(cm/s) 
+Neumann-
+parameter 
+Hovedstrømretning 
+(mot grader) 
+Vassutskiftingsstrøm 
+5 meter 
+9,0 
+36 
+42,0 
+0,0 
+0,04 
+240 
+Spredningsstrøm  
+15 meter 
+8,0 
+25 
+31,0 
+0,0 
+0,28 
+240 
+ 
+2015 
+      Parameter 
+Dybde 
+Snitt 
+(cm/s) 
+Varians 
+(cm/s)2 
+Maksimum 
+(cm/s) 
+Minimum 
+(cm/s) 
+Neumann-
+parameter 
+Hovedstrømretning 
+(mot grader) 
+Vassutskiftingsstrøm 
+5 meter 
+6,0 
+30,6 
+28,6 
+0,6 
+0,32 
+210 
+Spredningsstrøm  
+15 meter 
+10,6 
+135,8 
+60,6 
+0,6 
+0,64 
+60 
+Spredningsstrøm  
+95 meter 
+3,7 
+11,1 
+21,2 
+0,2 
+0,15 
+60 
+Bunnstrøm  
+145 meter 
+1,6 
+2,6 
+18,8 
+0,0 
+0,15 
+195 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 3 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+Innhold 
+1.0 Formål ...................................................................................................................................................... 3 
+2.0 Introduksjon ............................................................................................................................................. 3 
+3.0 Metode ......................................................................................................................................................... 4 
+3.1 Strøm. ....................................................................................................................................................... 4 
+3.1.1 Strømmåler ........................................................................................................................................ 4 
+4.0 Strøm ........................................................................................................................................................ 6 
+4.1.1 Målt strøm, resultat ........................................................................................................................... 8 
+4.1.2 Kommentar strømmåling .................................................................................................................. 9 
+4.1.3 Vindstrøm ....................................................................................................................................... 10 
+4.1.4 Tidevannsstrøm ............................................................................................................................... 10 
+4.1.5 Trykkdrevet strøm, blant annet utbrudd av kyststrøm. ................................................................... 10 
+4.1.6 Vårflom- snø og is smelting ............................................................................................................ 10 
+5.0 Dataredigering og kvalitetskontroll ........................................................................................................... 12 
+5.1 Strøm ...................................................................................................................................................... 12 
+7.0 Vedlegg ...................................................................................................................................................... 13 
+ 
+ 
+1.0 Formål 
+Formålet med rapporten er å dokumentere og beskrive strømbildet som opptrer på lokalitet i form av 
+parametre hentet fra strømmålinger. Måling av overflatestrøm, vassutskiftningsstrøm og bunnstrøm er utført 
+av kompetent organ iht krav til strømmålinger ved søknad om løyve etter akvakulturlova. 
+  
+2.0 Introduksjon 
+Lokaliteten Jørstadskjera ligger i Finnøy kommune i Rogaland. Koordinater for målepunkt er hhv: 
+59017.648’N  05056.078’Ø og 59017.633’N  05056.356’Ø. Jørstadskjera er lokalisert på sørsiden av 
+Jelsafjorden på nordvestsiden av Ombo. Målepunktene er plassert ca 1000 m fra land. 
+Teoretiske utregninger og andre registreringer blir kontrollert og vurdert opp mot de erfaringer som finnes 
+for området. Strømrapporten er en sammenstilling av de strømundersøkelsene som er foretatt av 
+Resipientanalyse AS i perioden 19.10.12 til 27.11.12, og målinger foretatt av Noomas Sertifisering AS i 
+perioden 22.07.15 til 25.08.15. 
+ 
+ 
+ 
+Side 4 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+3.0 Metode 
+3.1 Strøm.  
+3.1.1 Strømmåler,  
+Resipientanalyse AS 
+Strømmåler modell: NORTEK Aquadopp Profiler 400 Hz. Måleren er en profilerende strømmåler som 
+måler strøm på forhåndsprogrammerte dyp. Instrumentet måler vannstrøm ved å sende ut høyfrekvente 
+akustiske signaler som blir reflektert fra plankton, sedimenter, bobler samt andre element/objekt som antas å 
+bevege seg med samme hastighet som vannmassene. Strømhastighetens både retning og fart, beregnes så på 
+bakgrunn av doppler- skiftet i det reflekterte signalet. Strømmåleren har flere celler/kanaler og kan måle 
+strøm i flere ulike dybdesjikt. Nortek Doppler Nr 5209, 400kHz. Cellestørrelsen er 2 meter. Måleren registrerer 
+data i 1.minutt sammenhengende, hviler i 9 minutter osv.  
+For øvrige opplysninger om Aquadopp Profiler 400 Hz systemet kan brukermanual skaffes etter behov. 
+ 
+Ved bruk av Nortek doppler måler og andre typer strømmålere skal målte verdier kvalitetssikres slik at 
+eventuelle feilmålinger blir eliminert. Typiske problemer som kan forårsake feilregistreringer med denne type 
+måler er av og til svake akustiste signaler og begroing. Erfaring gjennom mange år viser at Nortek doppler 
+strømmålere er meget robuste (laget av plast/titan) og har lite feil når de behandles pent. 
+Ved måling på Jørstadskjera var det plassert ut en måler på ca 25 meter dyp. Måleren ble utplassert av 
+Resipientanalyse AS i henhold til krav til søknad om løyve etter akvakulturlova. Overflate-, vassutskiftning- 
+og bunnstrøm med 4 ukers sammenhengende varighet på målingene. Rådatafiler er tilgjengelige i Noomas 
+Sertifisering AS sitt arkiv samt hos utførende selskap.  
+ 
+Noomas Sertifisering AS 
+ 
+Strømmåler modell: Mini Current meter modell SD-6000. Måleren består av en mekanisk og en separat 
+elektronisk enhet. Strømmåleren inneholder sensorer for strøm (rotor), temperatur og retning (kompass). Den 
+elektroniske delen inneholder en datalogger som kan registrere inntil 6000 måleintervaller fra alle sensorer. 
+Intervallen må forhåndsprogrammeres fra 1 min til 3 timer. Målerene må plasseres på dyp som det skal 
+registreres strøm på og data hentes ut av strømmåler med eget program til pc. 
+For øvrige opplysninger om SD-6000 systemet kan brukermanual skaffes etter behov. 
+ 
+Ved bruk av SD-6000 og andre typer strømmålere skal målte verdier kvalitetssikres slik at eventuelle 
+feilmålinger blir eliminert. Dette gjør at strømverdier blir mest mulig lik de faktiske forholdene fra lokaliteten. 
+Typiske elementer som kan forårsake feilregistreringer er: treghet i propell, begroing og feil ved 
+montering/utplassering. Kompasset i måleinstrumentet fungerer som urviseren, dersom 270 grader oppgis, 
+tilsvarer dette strøm mot vest (270 grader). Målerne på 5 og 15, samt 95 og 145 meter ble utplassert av Noomas 
+Sertifisering AS i henhold til krav til søknad om løyve etter akvakulturlova. Overflate-, vassutskiftning- og 
+bunnstrøm med 4 ukers sammenhengende varighet på målingene.  Rådatafiler er tilgjengelige i Noomas 
+Sertifisering AS sitt arkiv.  
+ 
+ 
+ 
+Side 5 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+ 
+ 
+ 
+ 
+Fig 3.1: Oversiktsbilde av plassering av strømmålere Jørstadskjera, Resipientanalyse AS (rød firkant) og 
+Noomas Sertifisering AS (gul firkant). 
+ 
+ 
+Side 6 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+ 
+4.0 Strøm 
+ 
+I Norge er det i hovedsak fire faktorer som kan påvirke strømforholdene på en lokalitet, disse er tidevann, 
+vind og havstrømmer.  
+Tidevann: Tidevannsstrømmer skyldes høydeforskjellen mellom flo og fjære. 
+Tiltrekningen fra solen og særlig månen setter opp periodiske vannstandsendringer som i våre farvann 
+vanligvis fører til to høyvann og to lavvann i døgnet. Det er de horisontale forflytninger av vannmassene 
+som følger av vannstandsendringene, som kalles tidevannsstrømmer. Tidevannet kan betraktes som en svært 
+langstrakt bølge som vandrer over havene. Bølgens forplantningshastighet avhenger av dypet og kan bli 
+flere hundre knop, med en bølgelengde som enkelte steder kan bli 5000 nautiske mil. Bølgen går 
+langsommere i grunne områder enn i dype. Forståelsen av tidevannet som en bølgebevegelse er svært viktig 
+for å kunne sammenholde vannstandsvariasjoner, tidspunkt for høy- og lavvann og strømmens variasjon. I 
+en bølge vil vannet i bølgetoppen bevege seg i forplantningsretningen til bølgen, mens vannet i bølgedalen 
+vil bevege seg mot forplantningsretningen. Siden tidevannet forplanter seg som en bølge, får vi størst 
+strømhastighet ved høy- og lavvann. Langs norskekysten fra Vestlandet til Finnmark forplanter 
+tidevannsbølgen seg nordover, og vi får størst strømhastighet nordover ved høyvann og størst strømhastighet 
+sørover 
+ved 
+lavvann. 
+Dette 
+gjelder 
+utenfor 
+kysten 
+og 
+på 
+åpne 
+kyststrekninger. 
+I fjordmunninger er det annerledes, her er det strømstille ved høy- og lavvann, og maksimal strøm midt 
+mellom høy- og lavvann (inn fjorden på stigende sjø og ut fjorden på fallende sjø). 
+Styrken av strømmen følger tilnærmet forskjellen mellom høy- og lavvann. Dette medfører en økende 
+forskjell på ca 0.5 knop fra vestlandskysten til finnmarkskysten. 
+ 
+Vinddrevne strømmer: Når vinden blåser over vannoverflaten vil den på det åpne hav sette opp en strøm som 
+i overflaten har en hastighet på omtrent 2-4% av vindens, og som på den nordlige halvkule vil ligge noen få 
+grader til høyre for den framherskende vindretning. Denne strømmen dreier mot høyre med økende dyp 
+samtidig med at den avtar sterkt. Treffer strømmen på en kyst vil bildet endre seg ved at vannet stuves opp. 
+Strømmen vil gå langs kysten slik at høyt vann er til høyre for strømretningen. Store variasjoner i bunnen vil 
+også virke inn her, for eksempel ved overgangen fra Norskerenna og til det grunnere Nordsjøplatået. 
+Havstrømmer:  Det dominerende trekket er "varmt" og salt atlanterhavsvann som kommer inn i Norskehavet 
+mellom Færøyene og Shetland. Hoveddelen av strømmen, som blir kalt Den norske atlanterhavsstrøm, 
+følger kanten langs Nordsjøen, norskekysten, Barentshavet, vestkysten av Svalbard og inn i Nordishavet. 
+Ut fra Østersjøen føres et overskudd av ferskvann som blander seg med sjøvann. Dette føres ut som Den 
+baltiske strøm. Deretter fortsetter den langs norskekysten og får da navnet Den norske kyststrøm eller bare 
+Kyststrømmen. På sin vei får Kyststrømmen tilført store mengder ferskvann fra Norge, samtidig som den 
+blander seg med det saltere atlanterhavsvannet som ligger utenfor og under Kyststrømmen. Saltholdigheten 
+i Kyststrømmen vil derfor stige jo lengre nord vi kommer. Dette reduserer muligheten for isdannelse i 
+nordlige områder. Om sommeren er temperaturen i kystvannet høyere enn i atlanterhavsvannet, om vinteren 
+lavere. Kyststrømmen er sterkest langs vestlandskysten og kan komme opp i 0.4 – 0.5 m/s, sterkest nær 
+overflaten og et stykke fra land. 
+ 
+ 
+Side 7 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+Utenfor Vestlandet ligger grensen mellom kystvann og atlantisk vann omkring vestskråningen i 
+Norskerenna. Denne grensen varierer gjennom året på en slik måte at om sommeren flyttes den vestover 
+mens den om vinteren flyttes østover. I tillegg dannes det ofte store virvler i grensen mellom kystvann og 
+atlantisk vann. Disse er lette å oppdage fra satellittbilder. Vinterstid vil en ofte kunne "føle" 
+temperaturforskjellen når en passerer denne grensen. I og med at strømmen går i motsatt retning i de to 
+vannmassene, vil det ofte, avhengig av vindforholdene, bli forskjell i bølgestrukturen også. De 
+gjennomsnittlige strømhastighetene utenfor kysten varierer mellom 15 cm/s og 40 cm/s. 
+ 
+ 
+Figur 4.2 Antlanterhavsstrøm (røde piler) og Kyststrømmen (grønne piler) langs norskekysten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 8 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+4.1.1 Målt strøm, resultat 
+ 
+ 
+Figur 4.3 Strømrose for 5 og 15 meter.  
+ 
+ 
+Figur 4.4 Strømrose for 95 og 145 meter. 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 9 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+ 
+Tabell 4.1 Strømverdier lokalitet Jørstadskjera (mot retning). Alle verdier i m/s.  
+Retning/ Dybde 
+5 meter 
+15 meter 
+95 meter 
+145 meter 
+0 
+30,4 
+15,5 
+0,07 
+0,07 
+15 
+30,2 
+25,7 
+0,07 
+0,09 
+30 
+33,5 
+26,6 
+0,05 
+0,10 
+45 
+33,9 
+26,8 
+0,08 
+0,19 
+60 
+40,2 
+32,4 
+0,15 
+0,16 
+75 
+41,6 
+36,0 
+0,14 
+0,08 
+90 
+22,7 
+26,5 
+0,11 
+0,02 
+105 
+21,5 
+47,6 
+0,06 
+0,01 
+120 
+17,9 
+57,0 
+0,07 
+0,02 
+135 
+18,3 
+60,6 
+0,07 
+0,01 
+150 
+18,4 
+53,6 
+0,04 
+0,02 
+195 
+16,0 
+36,6 
+0,02 
+0,06 
+180 
+21,2 
+38,2 
+0,06 
+0,08 
+195 
+23,5 
+34,0 
+0,11 
+0,06 
+210 
+28,9 
+36,6 
+0,14 
+0,05 
+225 
+22,5 
+40,2 
+0,21 
+0,03 
+240 
+25,2 
+39,6 
+0,21 
+0,02 
+255 
+36,7 
+33,8 
+0,11 
+0,02 
+270 
+37,4 
+38,0 
+0,09 
+0,02 
+285 
+25,2 
+21,6 
+0,05 
+0,02 
+300 
+17,8 
+19,8 
+0,05 
+0,03 
+315 
+17,2 
+17,1 
+0,07 
+0,03 
+330 
+16,8 
+14,2 
+0,05 
+0,02 
+345 
+15,2 
+12,5 
+0,06 
+0,04 
+Gule felt markerer høyeste verdi fra målingene i 2015 på 5 m og 15 m dyp, alle målinger på 95 m og 145 m er fra 2015. 
+4.1.2 Kommentar strømmåling 
+Strømmålingene er gjennomført i to perioder. Resipientanalyse AS gjennomførte sine målinger fra 19.oktober 
+til 27.november 2012. Disse målingene representerer 5 og 15 m dyp. Noomas Sertifisering AS gjennomførte 
+målinger fra 22.juli til 25.august 2015. Disse målingene ble gjennomført på fire relevante dyp i forhold til 
+krav til oppdrettslokaliteter. Målingene på 5 og 15 m ble imidlertid hemmet av groe. Det er derfor gjennomført 
+en sammenstilling av resultatene fra begge måleperiodene på disse to måledypene der høyeste verdi i hver 
+retning er benyttet. Figur 4.3 og tabell 4.1 viser da høyeste verdi fra begge målingene. I tabell 4.1 er målinger 
+fra målingene i 2015 markert med gult.  
+Totalt er det registrert målinger i 39 døgn i målingene gjennomført av Resipientanalyse AS. Målingene i 2015 
+registrerte data i 34 døgn. På 5 m dyp er målinger fra de 11 første døgn av denne måleperioden vurdert og på 
+15 m dyp er målinger i 21 døgn vurdert. Målingene i 2015 på 95 og 145 m er vurdert som tilfredsstillende for 
+hele perioden. Målinger i forbindelse med utsett og opptak er fjernet før vurderinger er gjennomført. Målerne 
+var plassert i representativt område for lokaliteten. Det var utstyr på lokaliteten  i begge måleperiodene. 
+Måleren til Resipientanalyse var plassert på ca 25 m dyp. Målerene ved Noomas Sertifisering sin strømmåling 
+var plassert på hhv 5 m, 15 m, 95 m og 145 m dyp. Data ved begge måleperioder er registrert med 10 min 
+intervaller.  
+Strømmålerne var plassert i posisjon 59017.648’N  05056.078’Ø og 59017.633’N  05056.356’Ø. 
+ 
+ 
+Side 10 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+4.1.3 Vindstrøm 
+Generelt kan vind påvirke overflatestrømmen på lokaliteter. Vindgenerert strøm kan komme opp i over 2 % 
+av vindhastigheten. Vind/bølger fra SV, V, N og Ø, over største strøklengder, vil påvirke strømmen mest i 
+overflaten ved lokaliteten.  Oppstuvingseffekten, som gir utslag der store vannmasser blir drevet inn i 
+fjordsystemer kan ha en effekt på lokaliteten. Det har i måleperiodene vært noen dager med mye vind. For 
+ytterligere analyse og verifikasjon av mulige sammenhenger bør man ha et datagrunnlag med strømmålinger 
+for et helt år. 
+4.1.4 Tidevannsstrøm 
+Strømmen er normalt ikke helt forutsigbar ved lokaliteten ut fra å gå normalt mot 2 strømretninger. 
+Strømretningen kan være mot tilnærmet samme retning i forholdsvis lange tidsperioder. For ytterligere 
+analyse av tidevannsstrøm trengs datagrunnlag for et helt år. 
+4.1.5 Trykkdrevet strøm, blant annet utbrudd av kyststrøm. 
+Utbrudd av kyststrømmen er sterkest langs vestlandskysten og kan komme opp i 0,4 – 0,5 m/s, sterkest nær 
+overflaten og et stykke fra land. Nord for Stad synes kyststrømmen å være noe svakere (Marintek MT40 A94-
+0064). Det er sannsynlig at strømmåler har registrert mange innslag av denne type kyststrøm i materialet. En 
+slik  strøm kan bli betydelig på lokaliteten alene eller i sammen med de andre komponentene. Ut fra 
+registreringene i måleperioden er det sannsynlig at kyststrømmen har vært en medvirkende hovedfaktor ved 
+målinger av maksimal strøm på lokaliteten. 
+4.1.6 Vårflom- snø og is smelting 
+ 
+Det er betydelig ferskvannstilsig i perioder med vårflom, snø og is-smelting i Hardangerfjorden. Hvordan 
+dette påvirker strømforholdene på lokaliteten kan undersøkes ved å gjennomføre eksakte målinger på 
+effekten av dette ved strømmålinger i overflaten i perioder når dette inntreffer.  
+4.1.7 Vurdering av strømstille perioder for overflate- og spredningsstrøm (målinger på 5 m og 15 m) 
+I måleperioden er ulike strømhastighets-intervall i måleperioden målt på 5 m og 15 m dyp som vist i tabell 
+4.2. Strømstille er vurdert som målinger av strømstyrke ≤ 1,0 cm/s. Denne vurderingen er basert på 
+målingene fra 2012. 
+Tabell 4.2 Oppsummering av strømhastighet på 5 m og 15 m dyp. 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 11 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Det er bare et fåtall målinger som viser strømstille perioder, strøm ≤ 1,0cm/s. På 5 m dyp var det 60 
+målinger som var definert som strømstille. På 15 m dyp var det 76 målinger. Ut fra en gjennomgang av data 
+fra måleperioden kan vi konkludere med at det ikke er registrert noen lengre sammenhengende perioder med 
+strømstille på lokaliteten i måleperioden. 
+Tabell 4.3 Lengste strømstille periode på 5 m og 15 m dyp. 
+Dyp 
+Dato start 
+Klokkeslett 
+Dato stopp 
+Klokkeslett 
+Tidsintervall 
+Prosentvis andel 
+i måleperioden 
+med strøm ≤ 
+1,0cm/s 
+5 m 
+- 
+ 
+- 
+0t 30min 
+1,1% 
+ 
+ 
+ 
+ 
+ 
+15 m 
+- 
+- 
+0t 10min 
+1,4% 
+ 
+ 
+ 
+Side 12 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+ 
+ 
+ 
+Tabell 4.4 Sjekkliste strømmålinger og vurdering. 
+ 
+5 meter  
+15 meter 
+95 meter 
+145 meter 
+Kommentarer:   
+Logging av strøm, 10 min 
+Ok 
+Ok 
+Ok 
+Ok 
+ 
+Ok 
+ 
+Ok 
+Aquadopp 400 kHz 
+SD 6000  
+Måleperiode 
+Ok 
+- 
+Ok 
+- 
+ 
+Ok 
+ 
+Ok 
+19.10.12-27.11.12, 39 døgn 
+22.07.15-25.08.15, 34 døgn 
+Ant. målinger 
+5617 
+1458 
+5617 
+3058 
+ 
+4888 
+ 
+4888 
+Målinger brukt i vurderingene 
+ 
+Begrunnet plassering 
+Ok 
+Ok 
+Ok 
+Ok 
+ 
+Ok 
+ 
+Ok 
+Målingene er gjennomført i området 
+det er planlagt anlegg.  
+Tidevannsstrøm 
+Ok 
+Ok 
+Ok 
+Ok 
+ 
+Ok 
+ 
+Ok 
+Påvirker lokaliteten. 
+Vindgenerert 
+overflatestrøm 
+Ok 
+Ok 
+Ok 
+Ok 
+ 
+Ok 
+ 
+Ok 
+Påvirker lokaliteten.  
+Utbrudd fra kyststrøm 
+Ok 
+Ok 
+Ok 
+Ok 
+ 
+Ok 
+ 
+Ok 
+Påvirker lokaliteten. 
+Vårflom pga snø – og is 
+smelting 
+Ok 
+Ok 
+Ok 
+Ok 
+ 
+Ok 
+ 
+Ok 
+Kan påvirke lokaliteten. 
+Faktorer som kan ha 
+påvirket målingene 
+Ok 
+Groe 
+Ok 
+Groe 
+ 
+Ok 
+ 
+Ok 
+Groe er registrert på målere på 5 og 15 
+meter ved måling i 2015. 
+ 
+5.0 Dataredigering og kvalitetskontroll 
+5.1 Strøm 
+Strømmåling og lagring av strømdata er foretatt av Noomas Sertifisering AS. Rådatafiler fra målingen i 
+2012 ble importert til strømredigeringsprogrammet SeaReport som leveres av Nortek AS. Strømdata blir 
+videre kontrollert og avlest i det samme programmet. Rådatafiler fra målingene i 2015 ble importert til 
+strømredigeringsprogrammet SD6000 som leveres av Sensordata AS. Strømdata blir videre kontrollert og 
+avlest i det samme programmet. Hvis det er målinger som ikke er valide etter en slik vurdering tas disse bort 
+fra datautvalget.Hvis det er målinger som ikke er valide etter en slik vurdering tas disse bort fra datautvalget. 
+Strømmålinger som er foretatt er gjeldende for lokaliteten Jørstadskjera.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side 13 av 13 
+Noomas Sertifisering AS 
+Repslagergaten 17 
+5033 Bergen 
+6.0 Litteraturliste 
+ 
+Akvakulturloven: Krav til strømmålinger ved søknad om løyve etter akvakulturlova. 
+Olex (2007): Olex, Kartleggingsprogram av havet. 
+Vannstand: www.sehavniva.no 
+ 
+Månefaser: www.timeanddate.com 
+Google Earth: www.googleearth.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.0 Vedlegg 
+ 
+20121127 Overflate- og spredningsstrøm, 5 og 15 m, 30036 Jørstadskjera. 
+20150825 Overflate- og spredningsstrøm, 5 og 15 m, 30036 Jørstadskjera. 
+20150825 Sprednings- og bunnstrøm, 95 og 145 m, 30036 Jørstadskjera.

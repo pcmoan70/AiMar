@@ -1,0 +1,837 @@
+﻿H 
+e l g 
+e l a n d H 
+a v b r u k s s t a s j o n A 
+S 
+Strømundersøkelse 
+Tårnvika 
+i 
+Sørfold kommune 
+Oktober 2013 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 2 
+ 
+Helgeland Havbruksstasjon 
+Torolv Kveldulvsons gate 39 
+8800 Sandnessjøen 
+are@havforsk.com, 90856043 
+Informasjon om anlegg og oppdragsgiver: 
+Rapport tittel: 
+Tårnvika strøm Oktober 2013 
+Oppdragsgiver: 
+Marine Harvest 
+Rapport-nummer: 
+ 
+Lokalitetens navn: 
+Tårnvika 
+Lokalitetsnummer: 
+16165 
+Driftsleder:  
+Erlend Henriksen 
+Fylke: 
+Nordland 
+Kommune: 
+Sørfold 
+GPS-koordinater, 
+senter i anlegg: 
+67° 34.463’ N 
+15° 07.665’ Ø 
+GPS-koordinater, 
+instrumentrigg: 
+67° 34.400’ N 
+15° 07.722’ Ø 
+Måleperiode: 
+03.09.13-09.10.13 
+Dybde målested: 
+Ca. 80m 
+Instrumenttype: 
+Doppler 5560 
+Måleintervall: 
+10 minutter 
+ 
+ 
+Resultater sammendrag:  
+ 
+5 meter 
+15 meter 
+25 meter 
+ 
+Bunn 
+ 
+Gjennomsnitt (cm/s): 
+7 
+4 
+4 
+ 
+Maksimalhastighet, (cm/s): 
+31 
+24 
+23 
+ 
+Nullstrøm (%): 
+3,11 
+5,14 
+5,95 
+ 
+Nullstrøm (HH:mm): 
+00:20 
+00:20 
+00:40 
+ 
+Neumann parameter: 
+0,31 
+0,34 
+0,25 
+ 
+10-års strøm, beregnet: 
+50,7 
+39,7 
+ 
+ 
+50-års strøm, beregnet: 
+56,8 
+44,6 
+ 
+ 
+Kommentarer strømmålinger: 
+Det var ikke verken fisk eller utstyr i sjøen ved tidspunkt for 
+undersøkelsen.  
+ 
+ 
+ 
+Dato rapport: 
+18.10.13 
+Ansvarlig feltarbeid: 
+ 
+Personell MH 
+Signatur: 
+ 
+ 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 3 
+ 
+ 
+ 
+ 
+Dato 18 / 10 -13 
+ 
+ 
+Ansvarlig for rapport 
+ 
+ 
+ 
+ 
+Helgeland Havbruksstasjon As 
+ 
+Are Andreassen Moe 
+Biolog, miljøtjenesten ved HHS 
+ 
+mob. 90856043 
+Are@havforsk.com 
+ 
+Kvalitetskontroll 
+ 
+ 
+ 
+Helgeland Havbruksstasjon AS 
+ 
+Kristin Ottesen 
+Veterinær, ansvarlig fiskehelse og miljø 
+ 
+mob. 48 10 76 71 
+Kristin@havforsk.com 
+ 
+Tittel 
+ 
+Strømundersøkelse Tårnvika 
+Oktober 2013 
+ 
+ 
+Oppsummering
+ 
+ 
+Helgeland Havbruksstasjon har avlest strømmåli
+nger som er gjort på lokalitet 
+Tårnvika i 
+Oktober 2013.  
+Den gjennomsnittlige strømfarten i perioden er målt til rundt 0,07 m/sek., 0,04 m/sek., og 0,04 
+m/sek. på henholdsvis 5, 15 og 25 meters dyp De sterkeste strømtoppene ligger på rundt 0,31 
+m/sek., 0,24 m/sek. og 0,23 m/sek. på henholdsvis 5, 15 og 25 meters dyp. Det er ikke 
+registrert 0-strøm av betydning, lave målinger oppstår i svært korte perioder i forbindelse med 
+strømsnu. Nullstrøm utgjør  <6 % av de totale målingene for perioden på de tre gitte dyp.  
+ 
+Hovedtransporten av vannmassene går hovedsakelig mot vest på 5 meters dyp og mot 
+nordvest på 15 og 25 meters dyp. Størst vannutskiftning i forhold til retning var ved 270-285° 
+på 5 meters dyp, 315-330° ved 15 meters dyp og ved 330-345° på 25 meters dyp.  Neumanns 
+parameter var middels stabil på de tre gitte dyp basert etter Rådgivende Biologer AS sin 
+klassifisering av ulike strømforhold.  
+  
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 4 
+ 
+Innhold 
+Innledning ............................................................................................................................................ 5 
+Opplysninger om undersøkelsen .......................................................................................................... 5 
+Oppdragsgiver ................................................................................................................................. 5 
+Lokalitet og posisjon ....................................................................................................................... 5 
+Metodikk ......................................................................................................................................... 5 
+Oppsummering og vurdering ............................................................................................................... 6 
+Strømhastighet ................................................................................................................................. 6 
+Strømretning .................................................................................................................................... 7 
+Resultater strømdata ............................................................................................................................. 8 
+Vurdering av datasettet .................................................................................................................... 8 
+Figuroversikt 
+Figur 1 Plassering av lokalitet Tårnvika (gul sirkel) ....................................................................... 6 
+Figur 2 Plassering av strømmåler (gul sirkel innenfor rød sirkel). Vanntransport ved punkt for 
+strømmåling, strømroser viser gjennomsnittlig vannutskiftning i forhold til retning per dag 
+ved (fra topp) 5, 15, 25 m .................................................................................................................. 7 
+Figur 3.Oversikt utsettsdyp m.m. doppler ........................................................................................ 8 
+Figur 4 A, B og C. Tidsdiagram for strømstyrken uavhengig av retning. Alle verdier er i m/s. . 13 
+Figur 5 A, B og C. Den gjennomsnittlige strømhastigheten i forhold til retning. Alle verdier er i 
+m/s. .................................................................................................................................................... 14 
+Figur 6 A, B og C. Maksimal strømhastighet i forhold til retning. Alle verdier er i m/s. ............ 15 
+Figur 7 A, B og C. Antall målinger i de ulike hastighetene. ............................................................ 16 
+Figur 8 A, B og C. Antall målinger i de ulike retningene ................................................................ 17 
+Figur 9 A, B og C. Fordellingen av ulike strømstyrkekaterorier i de ulike retningene. .............. 18 
+Figur 10 A, B og C. Gjennomsnittlig vannutskiftning per 200 sektor per dag (m3/m2/d). ......... 19 
+Figur 11 A, B og C. Progressiv vektor: Viser hvilken vei en tenkt partikkel vil drive av sted over 
+tid for hele perioden ......................................................................................................................... 20 
+Figur 12 A, B og C. Sensorer ............................................................................................................. 21 
+ 
+Tabelloversikt 
+Tabell 1 A, B, C, D og E: Detaljer om instrument, oppsett, kvalitet, etterbehandling og manuell 
+fjerning av data. .................................................................................................................................. 9 
+Tabell 2 A, B og C: Statistisk oversikt for hele måleperioden ....................................................... 10 
+Tabell 3 A, B og C: Strømretning mot strømhastighet. Alle verdier er i m/s. .............................. 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 5 
+ 
+Innledning 
+ 
+Helgeland Havbruksstasjon As er engasjert av Marine Harvest for å gjennomføre strømmåling på 
+lokaliteten Tårnvika. Vi anbefaler at dere studerer de vedlagte dataene nøye selv. Rådataene ligger 
+oppbevart i Helgeland Havbruksstasjon sitt arkiv. 
+Opplysninger om undersøkelsen 
+ 
+Oppdragsgiver 
+Oppdragsgiver 
+Marine Harvest 
+Kontaktperson 
+Anders Laugsand 
+Ansvarlig felt 
+Personell Marine Harvest 
+Adresse 
+Sentrum næringshage, 8800 Sandnessjøen 
+Oppdrag 
+Profilmålinger 
+ 
+Lokalitet og posisjon 
+Lokalitet 
+Tårnvika 
+Kommune 
+Sørfold 
+Fylke 
+Nordland 
+Lokalitetsnummer 
+16165 
+Posisjon på målere 
+67034.400N/15007.722E 
+Dybde på målested 
+Ca. 80 meter 
+Type lokalitet 
+Kystlokalitet 
+ 
+Metodikk 
+Strømmåler av typen Aquadopp profiler 400 Hz ble benyttet. Måleren ble programmert til å måle 
+strømretning og strømstyrke hver 2,5 meter gjennom vannsøylen fra ca. 32 meters dyp og opp til 
+overflaten. Strømmen ble registrert hvert 10. minutt i måleperioden. Se tabell 1 A, B, C, D og E s.8 
+for detaljer om henholdsvis instrument, oppsett, kvalitet, etterbehandling og manuelt fjernede data.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 6 
+ 
+Oppsummering og vurdering 
+ 
+Lokalitet Tårnvika ligger i Bodø kommune i Nordland fylke. Lokaliteten ligger i Hamnvika, like 
+nord for Tårnvika, ved innløpet til Sørfolda-fjorden. Lenger nord for lokaliteten ligger 
+Prestmåsøya, der Folda deler seg i de tre fjordene Nordfolda, Sagfjorden og Sørfolda. 
+.    
+ 
+ 
+Figur 1 Plassering av lokalitet Tårnvika (gul sirkel) 
+ 
+Strømhastighet 
+Den gjennomsnittlige strømfarten i perioden er målt til rundt 0,07 m/sek., 0,04 m/sek., og 0,04 
+m/sek. på henholdsvis 5, 15 og 25 meters dyp De sterkeste strømtoppene ligger på rundt 0,31 
+m/sek., 0,24 m/sek. og 0,23 m/sek. på henholdsvis 5, 15 og 25 meters dyp. Det er ikke registrert 0-
+strøm av betydning, lave målinger oppstår i svært korte perioder i forbindelse med strømsnu. 
+Nullstrøm utgjør  <6 % av de totale målingene for perioden på de tre gitte dyp.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 7 
+ 
+Strømretning 
+Hovedtransporten av vannmassene går hovedsakelig mot vest på 5 meters dyp og mot nordvest på 
+15 og 25 meters dyp. Størst vannutskiftning i forhold til retning var ved 270-285° på 5 meters dyp,  
+315-330° ved 15 meters dyp og ved 330-345° på 25 meters dyp.  Neumanns parameter var middels 
+stabil på de tre gitte dyp basert etter Rådgivende Biologer AS sin klassifisering av ulike 
+strømforhold.  
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 2 Plassering av strømmåler (gul sirkel innenfor rød sirkel). Vanntransport ved punkt for 
+strømmåling, strømroser viser gjennomsnittlig vannutskiftning i forhold til retning per dag 
+ved (fra topp) 5, 15, 25 m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 8 
+ 
+ 
+Resultater strømdata 
+ 
+ 
+Figur 3.Oversikt utsettsdyp m.m. doppler 
+ 
+Vurdering av datasettet 
+Måleren har stått på ca. 32 meters dyp, vær- og strømforhold vil alltid påvirke riggen noe (se sort pil 
+figur 3 eller figur 12 A). Trykkmåleren i instrumentet og resultater fra signalstyrken stemmer godt 
+overens (se rød pil).  
+ 
+Det var verken fisk eller utstyr i sjøen ved tidspunkt for undersøkelsen som kan ha påvirket 
+målingen. 
+ 
+Dataene er vasket (se tabell 1 C for verdier) slik at resultatet best mulig representerer faktiske 
+forhold på lokaliteten og de er ikke vasket mer enn hva som er vanlig ved bruk av doppler. 
+Dataprogrammet Sea report ble brukt til reduksjon av støy, filtrering og datakompresjon. Data som 
+er ugyldige i forhold til de verdier som er satt er tilgjengelig i Helgeland Havbruksstasjon sitt arkiv.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 9 
+ 
+ 
+ 
+Tabell 1 A, B, C, D og E: Detaljer om instrument, oppsett, kvalitet, etterbehandling og manuell 
+fjerning av data. 
+ 
+A. Instrument 
+Head Id 
+AQP 3318 
+Board Id 
+AQD 5560 
+Frequency 
+400000 
+ 
+B. Oppsett 
+Fil navn 
+MH130802.prf 
+Start 
+30.08.2013 14:00 
+Slutt 
+11.10.2013 10:30 
+Data målinger 
+6028 
+Orientation 
+Opp 
+Celler 
+20 
+Celle størrelse(m) 
+2,5 
+Blanking distance(m) 
+1 
+Gjennomsnitt intervall (sek.) 
+60 
+Måle intervall (sek.) 
+600 
+ 
+C. Kvalitet 
+Low Pressure Treshold 
+0 
+HighTilt Threshold 
+30 
+Expected Orientation 
+Opp 
+Amplitude Spike Treshold 
+70 
+Velocity Spike Treshold 
+5 
+SNR Treshold 
+3 
+ 
+D. Etterbehandling 
+Valgt start 
+03.09.2013 13:00 
+Valgt slutt 
+09.10.2013 11:30 
+Compass Offset 
+0 
+Pressure Offset 
+0 
+Antall valgte målinger 
+5176 
+Referanse 
+Vannoverflaten 
+Overflatedyp (m) 
+5 
+Antall ugyldige målinger for overflatestrøm 
+1 
+Vannutskiftningsdyp (m) 
+15 
+Antall ugyldige målinger for vannutskiftningsstrøm 
+1 
+Spredningsstrøm (m) 
+25 
+Antall ugyldige målinger for spredningsstrøm 
+2 
+ 
+E. Manuell fjerning av data 
+Start tidspunkt 
+Slutt tidspunkt 
+Kommentar 
+Ingen målinger manuelt fjernet 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 10 
+ 
+Tabell 2 A, B og C: Statistisk oversikt for hele måleperioden 
+ 
+A. Strømdata overflate [5,0m] 
+Gjennomsnittsstrøm [m/s] 
+0.07 
+Max strømhastighet [m/s] 
+0.31 
+Min strømhastighet [m/s] 
+0.00 
+Målinger [#] 
+5175 / 5176 
+Std.avik [m/s] 
+0.05 
+Signifikant maksimums strøm [m/s] 
+0.12 
+Signifikant minimums strøm [m/s] 
+0.02 
+Returperiode på 10 år, hastighet [m/s] 
+0.507 
+Returperiode på 50 år, hastighet [m/s] 
+0.568 
+De 4 hyppigste forekommende retningene 
+strømmen beveger seg mot [°] 
+285°, 300°, 270°, 330° 
+De 4 hyppigste forekommende strømhastigheter 
+[m/s] 
+0.05, 0.10, 0.15, 0.20 
+Mest vannutskiftning/retning/ 15 graders sektor 
+629.52m³ / dag ved 270-285° 
+Minst vannutskiftning/retning/ 15 graders sektor 
+73.11m³ / dag ved 90-105° 
+Neumann parameter 
+0.31 
+Reststrøm 
+0.02 m/s ved 283° 
+Nullstrøm (%) –(HH:mm) 
+3.11% - 00:20 
+ 
+B. Strømdata vannutskiftningsstrøm [15,0m] 
+Gjennomsnittsstrøm [m/s] 
+0.04 
+Max strømhastighet [m/s] 
+0.24 
+Min strømhastighet [m/s] 
+0.00 
+Målinger [#] 
+5175 / 5176 
+Std.avik [m/s] 
+0.03 
+Signifikant maksimums strøm [m/s] 
+0.07 
+Signifikant minimums strøm [m/s] 
+0.02 
+Returperiode på 10 år, hastighet [m/s] 
+0.397 
+Returperiode på 50 år, hastighet [m/s] 
+0.446 
+De 4 hyppigste forekommende retningene 
+strømmen beveger seg mot [°] 
+330°, 345°, 315°, 360° 
+De 4 hyppigste forekommende strømhastigheter 
+[m/s] 
+0.05, 0.10, 0.15, 0.20 
+Mest vannutskiftning/retning/ 15 graders sektor 
+357.62m³ / dag ved 315-330° 
+Minst vannutskiftning/retning/ 15 graders sektor 46.15m³ / dag ved 90-105° 
+Neumann parameter 
+0.34 
+Reststrøm 
+0.01 m/s ved 312° 
+Nullstrøm (%) –(HH:mm) 
+5.14% - 00:40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 11 
+ 
+ 
+ 
+C. Strømdata spredningsstrøm [25,0m] 
+Gjennomsnittsstrøm [m/s] 
+0.04 
+ 
+Max strømhastighet [m/s] 
+0.23 
+Min strømhastighet [m/s] 
+0.00 
+Målinger [#] 
+5174 / 5176 
+Std.avik [m/s] 
+0.02 
+Signifikant maksimums strøm [m/s] 
+0.06 
+Signifikant minimums strøm [m/s] 
+0.02 
+Returperiode på 10 år, hastighet [m/s] 
+0.373 
+Returperiode på 50 år, hastighet [m/s] 
+0.419 
+De 4 hyppigste forekommende retningene 
+strømmen beveger seg mot [°] 
+345°, 360°, 15°, 30° 
+De 4 hyppigste forekommende strømhastigheter 
+[m/s] 
+0.05, 0.10, 0.15, 0.25 
+Mest vannutskiftning/retning/ 15 graders sektor 
+288.82m³ / dag ved 330-345° 
+Minst vannutskiftning/retning/ 15 graders sektor 63.68m³ / dag ved 75-90° 
+ 
+Neumann parameter 
+0.25 
+ 
+Reststrøm 
+0.01 m/s ved 340° 
+ 
+Nullstrøm (%) –(HH:mm) 
+5.95% - 00:40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+ 
+Helgeland Havbruksstasjon As 
+Side 12 
+ 
+ 
+ 
+Tabell 3 A, B og C: Strømretning mot strømhastighet. Alle verdier er i m/s. 
+ 
+A. Overflatedyp [5,0m] 
+Retning 
+Gjennomsn. 
+Maks 
+Maks 10 år 
+Maks 50 år 
+0 
+0,058 
+0,233 
+0,384 
+0,431 
+45 
+0,070 
+0,263 
+0,434 
+0,487 
+90 
+0,047 
+0,206 
+0,339 
+0,380 
+135 
+0,050 
+0,208 
+0,343 
+0,385 
+180 
+0,065 
+0,307 
+0,507 
+0,568 
+225 
+0,073 
+0,300 
+0,495 
+0,555 
+270 
+0,089 
+0,258 
+0,425 
+0,477 
+315 
+0,065 
+0,239 
+0,394 
+0,442 
+ 
+B. Vannutskiftningdyp [15,0m] 
+Retning 
+Gjennomsn. 
+Maks 
+Maks 10 år 
+Maks 50 år 
+0 
+0,050 
+0,141 
+0,232 
+0,260 
+45 
+0,041 
+0,196 
+0,323 
+0,363 
+90 
+0,032 
+0,114 
+0,188 
+0,211 
+135 
+0,035 
+0,166 
+0,274 
+0,308 
+180 
+0,042 
+0,241 
+0,397 
+0,446 
+225 
+0,039 
+0,138 
+0,227 
+0,255 
+270 
+0,041 
+0,172 
+0,283 
+0,317 
+315 
+0,051 
+0,169 
+0,278 
+0,312 
+ 
+C. Spredningsdyp [25,0m] 
+Retning 
+Gjennomsn. 
+Maks 
+Maks 10 år 
+Maks 50 år 
+0 
+0,046 
+0,226 
+0,373 
+0,419 
+45 
+0,037 
+0,133 
+0,220 
+0,247 
+90 
+0,030 
+0,144 
+0,237 
+0,266 
+135 
+0,038 
+0,205 
+0,338 
+0,379 
+180 
+0,038 
+0,135 
+0,223 
+0,250 
+225 
+0,035 
+0,142 
+0,234 
+0,262 
+270 
+0,034 
+0,123 
+0,203 
+0,228 
+315 
+0,041 
+0,155 
+0,256 
+0,287 
+ 
+Strømmålinger Tårnvika Oktober 2013 
+Helgeland Havbruksstasjon As 
+Side 13 
+Figur 4 A, B og C. Tidsdiagram for strømstyrken uavhengig av retning. Alle verdier er i m/s. 
+A. Overflatedyp [5,0m] 
+B. Vannutskiftningsdyp [15,0m] 
+C. Spredningsstrøm [25,0m] 
+Strømmålinger Tårnvika Oktober 2013 
+Helgeland Havbruksstasjon As 
+Side 14 
+Figur 5 A, B og C. Den gjennomsnittlige strømhastigheten i forhold til retning. Alle verdier er i 
+m/s. 
+A. Overflatedyp [5,0m] 
+B. Vannutskiftningsdyp [15,0m] 
+C. Spredningsstrøm [25,0m] 
+Strømmålinger Tårnvika Oktober 2013 
+Helgeland Havbruksstasjon As 
+Side 15 
+Figur 6 A, B og C. Maksimal strømhastighet i forhold til retning. Alle verdier er i m/s. 
+A. Overflatedyp [5,0m] 
+B. Vannutskiftningsdyp [15,0m] 
+C. Spredningsstrøm [25,0m] 
+Strømmålinger Tårnvika Oktober 2013 
+Helgeland Havbruksstasjon As 
+Side 16 
+Figur 7 A, B og C. Antall målinger i de ulike hastighetene. 
+A. Overflatedyp [5,0m] 
+B. Vannutskiftningsdyp [15,0m] 
+C. Spredningsstrøm [25,0m] 
+Strømmålinger Tårnvika Oktober 2013 
+Helgeland Havbruksstasjon As 
+Side 17 
+Figur 8 A, B og C. Antall målinger i de ulike retningene 
+A. Overflatedyp [5,0m] 
+B. Vannutskiftningsdyp [15,0m] 
+C. Spredningsstrøm [25,0m] 
+Strømmålinger Tårnvika Oktober 2013 
+Helgeland Havbruksstasjon As 
+Side 18 
+Figur 9 A, B og C. Fordellingen av ulike strømstyrkekaterorier i de ulike retningene. 
+A. Overflatedyp [5,0m] 
+B. Vannutskiftningsdyp [15,0m] 
+C. Spredningsstrøm [25,0m] 
+Strømmålinger Tårnvika Oktober 2013 
+Helgeland Havbruksstasjon As 
+Side 19 
+Figur 10 A, B og C. Gjennomsnittlig vannutskiftning per 20 0 sektor per dag (m 3 /m 2 /d). 
+A. Overflatedyp [5,0m] 
+B. Vannutskiftningsdyp [15,0m] 
+C. Spredningsstrøm [25,0m] 
+Strømmålinger Tårnvika Oktober 2013 
+Helgeland Havbruksstasjon As 
+Side 20 
+Figur 11 A, B og C. Progressiv vektor: Viser hvilken vei en tenkt partikkel vil drive av sted over 
+tid for hele perioden 
+A. Overflatedyp [5,0m] 
+B. Vannutskiftningsdyp [15,0m] 
+C. Spredningsstrøm [25,0m] 
+Strømmålinger Tårnvika Oktober 2013 
+Helgeland Havbruksstasjon As 
+Side 21 
+Figur 12 A, B og C. Sensorer 
+A. Trykk 
+B. Tilt 
+C. Temperatur

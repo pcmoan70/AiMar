@@ -1,0 +1,5954 @@
+﻿Strømrapport  
+ 
+Måling av overflate- (5m), 
+dimensjonerings- (15m), sprednings- og 
+bunnstrøm ved 
+ 
+Batnfjorden i 
+ 
+desember 2021 - januar 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 2 av 65 
+Rapport 
+Rapportbeskrivelse 
+og -navn 
+Vurdering av strømforhold ved Batnfjorden. 
+SR-NH-Batnfjorden-103924-01-001.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+04.03.22 
+Første utgivelse 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten 
+kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde 
+oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Batnfjorden 
+Lokalitetsnummer 
+ny 
+Kommune  
+Gjemnes 
+Fylke 
+Møre og Romsdal 
+Oppdragsgiver 
+Selskap 
+Nordic Halibut AS; Hendnesveien 124, 6533 AVERØY, NORGE 
+Kontaktperson 
+Ann Kristin Fladset 
+ann.kristin@nordichalibut.no  
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+Organisasjonsnummer: 916 763 816 
+Feltarbeidsansvarlig 
+Henry Køhler Haug 
+henry.haug@akerbla.no 
+Rapportansvarlig         Øystein Breiteig 
+oystein.breiteig@akerbla.no 
+Kontrollert av   
+Astri Horge Glindø 
+astri.glindo@akerbla.no 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+Resultat nøkkeltall 
+Måledyp 
+5m 
+15m 
+Spredning 
+(68m) 
+Bunn  
+(134m) 
+Maksimal strøm (cm/s) (retning) 
+50.0 (NØ) 
+40.5 (SV) 
+17.4 (NØ) 
+16.2 (NØ) 
+Gjennomsnittlig strøm (cm/s) 
+8.7 
+5.6 
+3.7 
+4.7 
+Strømstyrke < 1cm/s (%) 
+2.2 
+5.9 
+7.1 
+4.5 
+Strømstyrke < 3cm/s (%) 
+17.2 
+37.0 
+46.5 
+31.3 
+Strømstyrke < 10cm/s (%) 
+71.6 
+87.1 
+97.5 
+95.7 
+Strømstyrke ≥ 30cm/s (%) 
+2.5 
+1.2 
+0.0 
+0.0 
+Strømstyrke ≥ 50cm/s (%) 
+0.02 
+0.0 
+0.0 
+0.0 
+Neumann-parameter 
+0.4 
+0.3 
+0.2 
+0.4 
+10-års strøm (maksimal) 
+83 
+67 
+- 
+- 
+50-års strøm (maksimal) 
+93 
+75 
+- 
+- 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 3 av 65 
+Innholdsfortegnelse 
+ 
+1. 
+Forord .......................................................................................................................................... 5 
+2. 
+Områdebeskrivelse ..................................................................................................................... 6 
+3. 
+Metodikk ...................................................................................................................................... 7 
+4. 
+Resultater ................................................................................................................................... 10 
+4.1 
+Sammendrag av strømdata .............................................................................................. 10 
+4.2 
+Strømroser ....................................................................................................................... 11 
+4.3 
+Matrise med strømhastighet og -retning ......................................................................... 12 
+4.4 
+Strømmens hastighetsfordeling ....................................................................................... 16 
+4.5 
+Strømmens retningsfordeling .......................................................................................... 17 
+4.6 
+Tidsdiagram – Strømhastighet ........................................................................................ 18 
+4.7 
+Tidsdiagram – Strømretning ........................................................................................... 19 
+4.8 
+Tidsdiagram – Temperatur .............................................................................................. 20 
+4.9 
+Progressivt vektordiagram .............................................................................................. 21 
+4.10 
+Fordelingsdiagram – Maksimal strømhastighet .............................................................. 22 
+4.11 
+Fordelingsdiagram – Gjennomsnittshastighet ................................................................. 23 
+4.12 
+Fordelingsdiagram – Relativ vannfluks .......................................................................... 24 
+4.13 
+Fordelingsdiagram – Antall observasjoner ..................................................................... 25 
+4.14 
+Maksimal strømhastighet i 8 retningssektorer ................................................................ 26 
+4.15 
+Gjennomsnittlig strømhastighet i 8 retningssektorer ...................................................... 26 
+4.16 
+Antall målinger i 8 retningssektorer ................................................................................ 26 
+4.17 
+Relativ vannutskiftning i 8 retningssektorer ................................................................... 26 
+4.18 
+10-års og 50-års strømhastighet i 8 retningssektorer ...................................................... 27 
+4.19 
+Persentilfordeling av strømhastighet ............................................................................... 28 
+4.20 
+Prosentfordeling av strømhastighet ................................................................................. 28 
+4.21 
+Strømfordeling ................................................................................................................ 29 
+4.22 
+Strømvarighet .................................................................................................................. 31 
+4.23 
+Tidevannsanalyse ............................................................................................................ 33 
+4.24 
+Todagersperiode .............................................................................................................. 36 
+4.25 
+Vind under måleperioden ................................................................................................ 37 
+4.26 
+Utslippskontur ................................................................................................................. 40 
+4.27 
+CTD-profil....................................................................................................................... 41 
+5. 
+Diskusjon ................................................................................................................................... 42 
+5.1 
+Høye strømmålinger ........................................................................................................ 42 
+5.2 
+Tidevannspåvirkning ....................................................................................................... 42 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 4 av 65 
+5.3 
+Vindpåvirkning ............................................................................................................... 42 
+5.4 
+Vannutskiftning ............................................................................................................... 43 
+5.5 
+Mulig spredning av utslipp.............................................................................................. 43 
+5.6 
+Vannsøylens vertikale struktur ........................................................................................ 44 
+6. 
+Vedlegg – Bakgrunnsinformasjon ........................................................................................... 45 
+6.1 
+Valg av sted, dyp og periode for strømmålinger ............................................................. 45 
+6.2 
+Spesifikasjoner for strøminstrumenter ............................................................................ 46 
+6.3 
+Måleprinsipp for strømmålinger ..................................................................................... 47 
+6.4 
+CTD-målinger ................................................................................................................. 47 
+7. 
+Vedlegg – Riggoppsett .............................................................................................................. 48 
+7.1 
+Test av riggoppsett før utsett ........................................................................................... 48 
+7.2 
+Riggoppsett ..................................................................................................................... 48 
+8. 
+Vedlegg – Databearbeiding og kvalitetssikring ...................................................................... 50 
+8.1 
+Databearbeiding .............................................................................................................. 50 
+8.2 
+Kvalitetssikring av data ................................................................................................... 52 
+8.3 
+Fjernede dataverdier ........................................................................................................ 57 
+8.3.1 
+Måleperiode ............................................................................................................... 57 
+8.3.2 
+Enkelte datapunkter.................................................................................................... 57 
+9. 
+Vedlegg – Fyrstikkdiagram av vind og strøm ........................................................................ 58 
+10. Vedlegg – Strømmens tilstandsklasser .................................................................................... 60 
+11. Vedlegg – Månedlige tidevannsvariasjoner ............................................................................ 61 
+12. Vedlegg – Måleenheter ............................................................................................................. 63 
+13. Vedlegg – Parametere og beskrivelse ...................................................................................... 64 
+14. Vedlegg – Referanser ................................................................................................................ 65 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 5 av 65 
+1. Forord 
+ 
+Åkerblå AS har på oppdrag fra Nordic Halibut AS utført strømmålinger ved tenkt oppdrettslokalitet 
+Batnfjorden som er vurdert etter beliggenhet, strømforhold, temperatur, vannutskiftning, tidevann og 
+vind. 
+ 
+Resultatene fra undersøkelsen gjelder for gitte prøvepunkt og på gitt tidspunkt hvor vurderingen av 
+strømforhold over området er vurdert på bakgrunn av resultatene. 
+ 
+NYTEK-forskriften har som mål å begrense rømming av fisk fra oppdrettsanlegg. NS 9415:2009 
+krever at alle lokaliteter undersøkes og beskrives ut fra topografi og eksponeringsgrad i form av 
+parametere som danner grunnlag for beregning av miljølaster på et anlegg.   
+ 
+Alle omsøkte akvakulturlokaliteter skal også kunne ivareta artens krav til et godt levemiljø 
+(Mattilsynet, 2016). Det må være tilstrekkelig tilførsel av vann av egnet kvalitet. Spesielt relevant er 
+oksygen – som er vurdert etter blant annet strømforhold og vannutskiftning – og temperatur.   
+ 
+Denne rapporten tilfredsstiller kravene i NS 9415:2009, samt anbefalingene i retningslinje for 
+etableringssøknader fra Mattilsynet (2016). For måleperioder kortere enn ett år benyttes 
+multiplikasjonsfaktor fra NS 9415:2021 for fastsettelse av dimensjonerende strømhastigheter, etter 
+dispensasjon fra Fiskeridirektoratet.  
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 6 av 65 
+2. Områdebeskrivelse 
+ 
+Målepunktet for lokalitet Batnfjorden ligger i Gjemnes kommune, Møre og Romsdal (Figur 2.1). 
+Lokaliteten ligger i Batnfjorden, sørvest for bygda Gjemnes og nordøst for bygda Øre. Plasseringen 
+er åpen mot Gjemnessundet og Bergsøyfjorden i nordøst.   
+ 
+På grunn av omkringliggende topografi er området relativt eksponert for vind fra nordøst og sørvest.  
+ 
+Bunntopografi er ca. 140m dyp og orientert NØ – SV i området for strømmålingsposisjonen. 
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonen, anvist med rød pinne. Kartet er hentet 
+fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 7 av 65 
+3. Metodikk 
+ 
+Strømmålinger er kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter 
+som ble benyttet er oppgitt i Tabell 3.1.  
+ 
+Ut fra topografi og bunntopografi er plasseringen vurdert som god for å dokumentere 
+strømforholdene i området (Figur 3.1 – Figur 3.2). Målerne på 5m og 15m dyp er plassert i posisjonen 
+som sannsynligvis oppgir høyeste strømhastighet i området rundt måleposisjonen. 
+ 
+Tabell 3.1. Bakgrunnsinformasjon om strømmåling.  
+Måledyp 
+5m 
+15m 
+Spredning 
+(68m) 
+Bunn  
+(134m) 
+Posisjonsanvisning 
+ 
+ 
+ 
+ 
+Posisjon 
+62° 55.992' N; 
+007° 46.140' Ø 
+62° 55.992' N; 
+007° 46.140' Ø 
+62° 55.992' N; 
+007° 46.140' Ø 
+62° 55.992' N; 
+007° 46.140' Ø 
+Dyp på målested 
+140m 
+140m 
+140m 
+140m 
+Instrumenttype 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Måleperiode 
+13.12.21 - 
+18.01.22 
+13.12.21 - 
+18.01.22 
+13.12.21 - 
+18.01.22 
+13.12.21 - 
+18.01.22 
+Måleintervall 
+10 minutter 
+10 minutter 
+10 minutter 
+10 minutter 
+Antall døgn 
+35.9 / 35.9 
+35.9 / 35.9 
+35.9 / 35.9 
+35.9 / 35.9 
+Manglende/fjernede 
+datapunkt 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 8 av 65 
+ 
+Figur 3.1. Plassering av strømmålere i området anvist med gult kryss. Kompasspila øverst i venstre 
+hjørne indikerer kartets orientering. Kartene er hentet fra Olex. Kartdatum: WGS84.  
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 9 av 65 
+ 
+Figur 3.2. 3D-bilde av bunntopografi i området. Den tynne kompasspila øverst i venstre hjørne 
+indikerer kartets orientering (øverste bilde) og den tykke kompasspila indikerer kameraets 
+orientering (midterste og nederste bilde). De små bildene viser kameraets utsiktspunkt for den 
+tilhørende bunntopografien. Kartene er hentet fra Olex. Kartdatum: WGS84.   
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 10 av 65 
+4. Resultater  
+ 
+4.1 
+Sammendrag av strømdata 
+ 
+Resultater per måledyp for hele måleperioden er sammenfattet i Tabell 4.1.1. Verdiene er klassifisert 
+(fargelagt) etter: «Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er 
+forklart i «Vedlegg – Parametere og beskrivelse». 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra 5m, 15m, spredningsdyp (68m) og bunndyp (134m). 
+Måledyp 
+5m 
+15m 
+Spredning  
+(68m) 
+Bunn  
+(134m) 
+Sjøtemperatur (°C) 
+4.9 - 10.1 
+7.5 - 10.6 
+8.3 - 10.2 
+8.4 - 8.9 
+Strømhastighet 
+Maksimum (cm/s) 
+50.0 
+40.5 
+17.4 
+16.2 
+Gjennomsnitt (cm/s) 
+8.7 
+5.6 
+3.7 
+4.7 
+Minimum (cm/s) 
+0.1 
+0.1 
+0.0 
+0.0 
+Signifikant maks (cm/s) 
+16.8 
+11.2 
+6.4 
+7.9 
+Signifikant min (cm/s) 
+2.8 
+1.7 
+1.5 
+1.9 
+Varians (cm/s)² 
+55.1 
+33.0 
+6.0 
+7.5 
+Standardavvik (cm/s) 
+7.4 
+5.7 
+2.5 
+2.7 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+2.2 
+5.9 
+7.1 
+4.5 
+Lengste periode < 1cm/s (min) 
+50 
+50 
+80 
+100 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+17.2 
+37.0 
+46.5 
+31.3 
+Lengste periode < 3cm/s (min) 
+220 
+460 
+810 
+300 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+71.6 
+87.1 
+97.5 
+95.7 
+Lengste periode < 10cm/s (min) 
+2820 
+8750 
+18540 
+6730 
+% ≥ 30cm/s 
+2.5 
+1.2 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+290 
+290 
+0 
+0 
+% ≥ 50cm/s 
+0.02 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+10 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+3.0 
+1.9 
+0.7 
+1.7 
+Retning (grader) 
+53 
+247 
+62 
+44 
+Neumann-parameter 
+0.4 
+0.3 
+0.2 
+0.4 
+Gjennomsnittlig vannforflytning (m³/m²/d) 
+7491 
+4878 
+3179 
+4099 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 11 av 65 
+4.2 
+Strømroser 
+ 
+Strømrosene viser strømhastighet og -retning under hele måleperioden. Strømrosene viser hvor stor 
+andel av målingene som er registrert for hver 10º-sektor, vist som prosentandel i figurene, og hvilken 
+strømhastighetsklasse som er registrert i de ulike sektorene. Strømroser gir en indikasjon på om 
+strømmen har en dominerende retning eller ikke. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (68m) 
+Bunn (134m) 
+ 
+ 
+Figur 4.2.1. Strømroser på 5m, 15m, spredningsdyp (68m) og bunndyp (134m). 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 12 av 65 
+4.3 
+Matrise med strømhastighet og -retning 
+ 
+Strømretninger er fordelt i 15º-sektorer (sektorene er vist i venstre kolonne). Den nederste linjen 
+viser den prosentvise fordelingen av de registrerte strømhastighetene. Kolonnen til høyre viser den 
+prosentvise fordelingen i de ulike 15º-sektorene og antall kubikkmeter vann som i måleperioden vil 
+passere et tenkt vindu på 1x1 meter i den aktuelle strømretningen. Kolonnen til høyre viser også 
+maksimal strømhastighet i hver 15º-sektor.    
+ 
+Hastighetsfordeling er ≥ (lavest verdi) og < (høyest verdi) i oppgitt hastighetsrekkevidde. 
+ 
+Tabell 4.3.1. Hastighets- og retningsmatrise av strømdata fra 5m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+8 
+29 
+48 
+36 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+127 
+2.5 
+3450 
+1.3 
+12.3 
+N 
+15 
+7 
+32 
+43 
+50 
+19 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+154 
+3.0 
+5064 
+1.9 
+16.1 
+NØ 
+30 
+5 
+37 
+55 
+101 
+28 
+20 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+261 
+5.0 
+12206 
+4.5 
+24.9 
+NØ 
+45 
+3 
+33 
+56 
+118 
+82 
+68 
+64 
+38 
+39 
+8 
+1 
+0 
+0 
+510 
+9.9 
+45336 
+16.8 
+50.0 
+NØ 
+60 
+5 
+28 
+56 
+207 
+130 
+124 
+91 
+58 
+62 
+16 
+0 
+0 
+0 
+777 
+15.0 
+72217 
+26.8 
+48.6 
+Ø 
+75 
+5 
+28 
+48 
+156 
+88 
+67 
+16 
+7 
+5 
+0 
+0 
+0 
+0 
+420 
+8.1 
+26231 
+9.7 
+34.3 
+Ø 
+90 
+5 
+32 
+47 
+72 
+17 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+175 
+3.4 
+6028 
+2.2 
+19.6 
+Ø 
+105 
+4 
+34 
+34 
+24 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+97 
+1.9 
+2234 
+0.8 
+11.5 
+SØ 
+120 
+6 
+18 
+32 
+17 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+76 
+1.5 
+1901 
+0.7 
+11.5 
+SØ 
+135 
+3 
+25 
+15 
+28 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+71 
+1.4 
+1807 
+0.7 
+9.0 
+SØ 
+150 
+3 
+30 
+29 
+22 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+84 
+1.6 
+1889 
+0.7 
+8.9 
+S 
+165 
+5 
+25 
+34 
+34 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+99 
+1.9 
+2531 
+0.9 
+10.7 
+S 
+180 
+6 
+46 
+47 
+61 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+168 
+3.2 
+4701 
+1.7 
+11.2 
+S 
+195 
+3 
+36 
+62 
+64 
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+173 
+3.3 
+5215 
+1.9 
+16.0 
+SV 
+210 
+6 
+31 
+35 
+79 
+25 
+5 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+185 
+3.6 
+7213 
+2.7 
+23.5 
+SV 
+225 
+2 
+29 
+56 
+109 
+41 
+17 
+10 
+2 
+0 
+0 
+0 
+0 
+0 
+266 
+5.1 
+12784 
+4.8 
+26.1 
+SV 
+240 
+4 
+25 
+54 
+161 
+85 
+17 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+360 
+7.0 
+18585 
+6.9 
+22.8 
+V 
+255 
+4 
+42 
+57 
+131 
+90 
+15 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+340 
+6.6 
+16084 
+6.0 
+20.6 
+V 
+270 
+4 
+27 
+54 
+114 
+43 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+243 
+4.7 
+9729 
+3.6 
+16.1 
+V 
+285 
+4 
+37 
+60 
+58 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+162 
+3.1 
+4420 
+1.6 
+11.6 
+NV 
+300 
+10 
+42 
+42 
+25 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+120 
+2.3 
+2599 
+1.0 
+12.5 
+NV 
+315 
+5 
+38 
+47 
+14 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+105 
+2.0 
+2294 
+0.9 
+10.7 
+NV 
+330 
+3 
+33 
+33 
+26 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+95 
+1.8 
+2222 
+0.8 
+9.5 
+N 
+345 
+4 
+41 
+37 
+23 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+105 
+2.0 
+2359 
+0.9 
+9.1 
+Antall obs. 
+114 
+778 
+1081 
+1730 
+679 
+340 215 105 106 
+24 
+1 
+0 
+0 
+5173 
+100 
+0 
+0 
+0 
+% 
+2.2 
+15.0 
+20.9 
+33.4 
+13.1 
+6.6 
+4.2 
+2.0 
+2.0 
+0.5 0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 13 av 65 
+Tabell 4.3.2. Hastighets- og retningsmatrise av strømdata fra 15m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+14 
+57 
+44 
+20 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+135 
+2.6 
+2451 
+1.4 
+8.5 
+N 
+15 
+15 
+71 
+59 
+28 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+175 
+3.4 
+3511 
+2.0 
+11.7 
+NØ 
+30 
+17 
+74 
+60 
+44 
+12 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+209 
+4.0 
+5287 
+3.0 
+18.7 
+NØ 
+45 
+12 
+97 
+92 
+106 
+30 
+8 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+346 
+6.7 
+10934 
+6.2 
+21.2 
+NØ 
+60 
+16 
+73 
+89 
+94 
+16 
+9 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+299 
+5.8 
+9236 
+5.3 
+23.3 
+Ø 
+75 
+10 
+71 
+71 
+90 
+13 
+4 
+3 
+6 
+3 
+0 
+0 
+0 
+0 
+271 
+5.2 
+9427 
+5.4 
+32.5 
+Ø 
+90 
+14 
+69 
+50 
+49 
+11 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+196 
+3.8 
+5182 
+3.0 
+17.5 
+Ø 
+105 
+15 
+66 
+38 
+29 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+151 
+2.9 
+3126 
+1.8 
+11.5 
+SØ 
+120 
+17 
+75 
+38 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+139 
+2.7 
+2148 
+1.2 
+6.3 
+SØ 
+135 
+9 
+67 
+39 
+11 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+126 
+2.4 
+2129 
+1.2 
+6.5 
+SØ 
+150 
+12 
+56 
+51 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+127 
+2.5 
+2204 
+1.3 
+7.5 
+S 
+165 
+16 
+55 
+42 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+126 
+2.4 
+2253 
+1.3 
+8.8 
+S 
+180 
+15 
+56 
+31 
+21 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+123 
+2.4 
+2264 
+1.3 
+8.7 
+S 
+195 
+17 
+68 
+59 
+35 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+179 
+3.5 
+3622 
+2.1 
+9.1 
+SV 
+210 
+11 
+69 
+74 
+74 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+234 
+4.5 
+5947 
+3.4 
+14.2 
+SV 
+225 
+11 
+84 
+79 
+152 
+29 
+2 
+14 
+9 
+5 
+0 
+0 
+0 
+0 
+385 
+7.4 
+15959 
+9.1 
+34.7 
+SV 
+240 
+13 
+78 
+105 
+227 
+62 
+30 
+40 
+21 
+35 
+1 
+0 
+0 
+0 
+612 
+11.8 
+37233 
+21.2 
+40.5 
+V 
+255 
+12 
+65 
+77 
+135 
+72 
+45 
+18 
+16 
+16 
+1 
+0 
+0 
+0 
+457 
+8.8 
+26731 
+15.3 
+40.1 
+V 
+270 
+7 
+67 
+54 
+72 
+65 
+24 
+9 
+1 
+0 
+0 
+0 
+0 
+0 
+299 
+5.8 
+13892 
+7.9 
+28.4 
+V 
+285 
+6 
+52 
+30 
+46 
+15 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+150 
+2.9 
+4509 
+2.6 
+17.0 
+NV 
+300 
+15 
+65 
+20 
+18 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+119 
+2.3 
+2119 
+1.2 
+10.5 
+NV 
+315 
+6 
+63 
+18 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+101 
+2.0 
+1670 
+1.0 
+7.6 
+NV 
+330 
+10 
+52 
+22 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+91 
+1.8 
+1469 
+0.8 
+7.5 
+N 
+345 
+17 
+57 
+45 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+123 
+2.4 
+1940 
+1.1 
+6.1 
+Antall obs. 
+307 
+1607 
+1287 
+1306 
+337 128 
+87 
+53 
+59 
+2 
+0 
+0 
+0 
+5173 
+100 
+0 
+0 
+0 
+% 
+5.9 
+31.1 
+24.9 
+25.2 
+6.5 
+2.5 
+1.7 
+1.0 
+1.1 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 14 av 65 
+Tabell 4.3.3. Hastighets- og retningsmatrise av strømdata fra spredningsdyp (68m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+14 
+74 
+56 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+154 
+3.0 
+2544 
+2.2 
+6.5 
+N 
+15 
+12 
+89 
+76 
+28 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+205 
+4.0 
+3941 
+3.5 
+9.1 
+NØ 
+30 
+14 
+122 
+116 
+73 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+335 
+6.5 
+7769 
+6.8 
+12.7 
+NØ 
+45 
+16 
+127 
+143 
+174 
+60 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+533 
+10.3 
+18138 
+15.9 
+17.4 
+NØ 
+60 
+11 
+120 
+140 
+176 
+27 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+479 
+9.3 
+14566 
+12.8 
+16.1 
+Ø 
+75 
+18 
+122 
+122 
+81 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+352 
+6.8 
+8481 
+7.4 
+11.4 
+Ø 
+90 
+18 
+80 
+62 
+36 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+196 
+3.8 
+3847 
+3.4 
+9.4 
+Ø 
+105 
+13 
+79 
+51 
+20 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+163 
+3.2 
+2877 
+2.5 
+8.2 
+SØ 
+120 
+16 
+61 
+29 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+119 
+2.3 
+1910 
+1.7 
+7.5 
+SØ 
+135 
+23 
+56 
+27 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+113 
+2.2 
+1579 
+1.4 
+6.9 
+SØ 
+150 
+9 
+85 
+30 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+129 
+2.5 
+1909 
+1.7 
+7.4 
+S 
+165 
+13 
+81 
+46 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+144 
+2.8 
+2185 
+1.9 
+6.2 
+S 
+180 
+13 
+80 
+59 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+166 
+3.2 
+2948 
+2.6 
+7.0 
+S 
+195 
+9 
+84 
+65 
+26 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+184 
+3.6 
+3492 
+3.1 
+7.8 
+SV 
+210 
+27 
+112 
+70 
+66 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+276 
+5.3 
+5663 
+5.0 
+10.3 
+SV 
+225 
+13 
+128 
+106 
+100 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+350 
+6.8 
+8275 
+7.2 
+13.8 
+SV 
+240 
+17 
+99 
+128 
+96 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+342 
+6.6 
+8141 
+7.1 
+10.5 
+V 
+255 
+22 
+87 
+91 
+73 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+274 
+5.3 
+6078 
+5.3 
+10.4 
+V 
+270 
+13 
+69 
+63 
+23 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+168 
+3.2 
+3188 
+2.8 
+8.1 
+V 
+285 
+16 
+60 
+23 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+108 
+2.1 
+1574 
+1.4 
+6.2 
+NV 
+300 
+15 
+56 
+20 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+96 
+1.9 
+1281 
+1.1 
+5.9 
+NV 
+315 
+20 
+57 
+17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+94 
+1.8 
+1064 
+0.9 
+4.5 
+NV 
+330 
+13 
+47 
+28 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+90 
+1.7 
+1277 
+1.1 
+6.4 
+N 
+345 
+13 
+60 
+25 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+103 
+2.0 
+1489 
+1.3 
+7.5 
+Antall obs. 
+368 
+2035 
+1593 
+1046 
+113 
+18 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+5173 
+100 
+0 
+0 
+0 
+% 
+7.1 
+39.3 
+30.8 
+20.2 
+2.2 
+0.3 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 15 av 65 
+Tabell 4.3.4. Hastighets- og retningsmatrise av strømdata fra bunndyp (134m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+9 
+70 
+36 
+41 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+156 
+3.0 
+3342 
+2.3 
+9.3 
+N 
+15 
+10 
+89 
+108 
+212 
+22 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+441 
+8.5 
+14101 
+9.6 
+13.0 
+NØ 
+30 
+19 
+89 
+194 
+498 
+82 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+883 
+17.1 
+33125 
+22.5 
+16.2 
+NØ 
+45 
+7 
+87 
+157 
+426 
+81 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+758 
+14.7 
+28691 
+19.5 
+14.3 
+NØ 
+60 
+11 
+90 
+123 
+126 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+357 
+6.9 
+9746 
+6.6 
+12.4 
+Ø 
+75 
+18 
+72 
+63 
+35 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+188 
+3.6 
+3701 
+2.5 
+9.8 
+Ø 
+90 
+15 
+59 
+30 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+110 
+2.1 
+1654 
+1.1 
+9.3 
+Ø 
+105 
+10 
+51 
+19 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+83 
+1.6 
+1171 
+0.8 
+8.5 
+SØ 
+120 
+13 
+52 
+13 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+80 
+1.5 
+1052 
+0.7 
+6.6 
+SØ 
+135 
+11 
+43 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+67 
+1.3 
+853 
+0.6 
+4.7 
+SØ 
+150 
+7 
+74 
+20 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+103 
+2.0 
+1484 
+1.0 
+5.8 
+S 
+165 
+7 
+53 
+56 
+25 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+141 
+2.7 
+2935 
+2.0 
+9.8 
+S 
+180 
+12 
+93 
+104 
+70 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+283 
+5.5 
+6773 
+4.6 
+11.8 
+S 
+195 
+8 
+65 
+114 
+145 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+341 
+6.6 
+9973 
+6.8 
+12.2 
+SV 
+210 
+6 
+68 
+110 
+114 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+306 
+5.9 
+8785 
+6.0 
+11.7 
+SV 
+225 
+3 
+46 
+52 
+100 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+206 
+4.0 
+6301 
+4.3 
+11.8 
+SV 
+240 
+8 
+50 
+40 
+85 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+186 
+3.6 
+5314 
+3.6 
+12.5 
+V 
+255 
+6 
+38 
+28 
+21 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+93 
+1.8 
+2016 
+1.4 
+10.0 
+V 
+270 
+8 
+24 
+26 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+68 
+1.3 
+1318 
+0.9 
+8.8 
+V 
+285 
+9 
+32 
+24 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+72 
+1.4 
+1176 
+0.8 
+9.1 
+NV 
+300 
+9 
+30 
+13 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+53 
+1.0 
+717 
+0.5 
+6.0 
+NV 
+315 
+10 
+27 
+12 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+52 
+1.0 
+715 
+0.5 
+6.0 
+NV 
+330 
+7 
+44 
+19 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+72 
+1.4 
+1082 
+0.7 
+8.5 
+N 
+345 
+9 
+41 
+17 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+74 
+1.4 
+1208 
+0.8 
+9.9 
+Antall obs. 
+232 
+1387 
+1391 
+1941 
+221 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+5173 
+100 
+0 
+0 
+0 
+% 
+4.5 
+26.8 
+26.9 
+37.5 
+4.3 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 16 av 65 
+4.4 
+Strømmens hastighetsfordeling 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.4.1. Strømmens hastighetsfordeling på 5m, 15m, spredningsdyp (68m) og bunndyp (134m). 
+Antall observasjoner er indikert på stående akse og hastighetsgruppe på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 17 av 65 
+4.5 
+Strømmens retningsfordeling 
+ 
+Strømmens retning fordelt i 15º-sektorer er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.5.1. Strømmens retningsfordeling på 5m, 15m, spredningsdyp (68m) og bunndyp (134m). 
+Antall observasjoner er indikert på stående akse og 15º-sektorer på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 18 av 65 
+4.6 
+Tidsdiagram – Strømhastighet 
+ 
+Strømmens hastighet under måleperioden er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.6.1. Tidsdiagram av strømhastighet på 5m, 15m, spredningsdyp (68m) og bunndyp (134m). 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 19 av 65 
+4.7 
+Tidsdiagram – Strømretning  
+ 
+Strømmens retning under måleperiode er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.7.1. Tidsdiagram av strømretning på 5m, 15m, spredningsdyp (68m) og bunndyp (134m). 
+Strømretning på stående akse og tid på liggende akse. 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 20 av 65 
+4.8 
+Tidsdiagram – Temperatur 
+ 
+Temperatur under måleperioden er oppgitt under. 
+ 
+ 
+ 
+Figur 4.8.1. Tidsdiagram av temperatur på 5m, 15m, spredningsdyp (68m) og bunndyp (134m). 
+Temperatur er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 21 av 65 
+4.9 
+Progressivt vektordiagram 
+ 
+Et progressivt vektordiagram viser hvor langt og hvordan en tenkt merket vannpartikkel som 
+befinner seg i strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperioden (Figur 
+4.9.1). Dette gir en indikasjon på vannutskiftning under måleperioden.  
+ 
+ 
+Figur 4.9.1 Progressivt vektordiagram for strøm på 5m, 15m, spredningsdyp (68m) og bunndyp 
+(134m).  
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 22 av 65 
+4.10 Fordelingsdiagram – Maksimal strømhastighet 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (68m) 
+Bunn (134m) 
+ 
+ 
+Figur 4.10.1. Fordelingsdiagram av maksimal strømhastighet (cm/s) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (68m) og bunndyp (134m) i løpet av måleperioden. 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 23 av 65 
+4.11 Fordelingsdiagram – Gjennomsnittshastighet 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (68m) 
+Bunn (134m) 
+ 
+ 
+Figur 4.11.1. Fordelingsdiagram av gjennomsnittlig strømhastighet (cm/s) for hver 15º-sektor på 5m, 
+15m, spredningsdyp (68m) og bunndyp (134m) i løpet av måleperioden. 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 24 av 65 
+4.12 Fordelingsdiagram – Relativ vannfluks 
+ 
+Figuren viser relativ vannfluks (%) i hver 15˚-sektor. Relativ vannfluks angir mengden vann som 
+strømmer gjennom en retningssektor. Total vannfluks er totalt volum vann som strømmer gjennom 
+alle sektorer i løpet av måleperioden. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (68m) 
+Bunn (134m) 
+ 
+ 
+Figur 4.12.1. Fordelingsdiagram av relativ vannfluks (%) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (68m) og bunndyp (134m) i løpet av måleperioden. 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 25 av 65 
+4.13 Fordelingsdiagram – Antall observasjoner 
+ 
+Figuren viser hvor mange ganger strømretningen er observert i de ulike 15˚-sektorene i løpet av 
+måleperioden. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (68m) 
+Bunn (134m) 
+ 
+ 
+Figur 4.13.1. Fordelingsdiagram av antall observasjoner for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (68m) og bunndyp (134m) i løpet av måleperioden.
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 26 av 65 
+4.14 Maksimal strømhastighet i 8 retningssektorer 
+Tabell 4.14.1. Maksimal strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+16.1 
+50.0 
+34.3 
+11.5 
+16.0 
+26.1 
+20.6 
+12.5 
+15m 
+11.7 
+23.3 
+32.5 
+7.5 
+9.1 
+40.5 
+40.1 
+10.5 
+Spredning (68m) 
+9.1 
+17.4 
+11.4 
+7.5 
+7.8 
+13.8 
+10.4 
+6.4 
+Bunn (134m) 
+13.0 
+16.2 
+9.8 
+6.6 
+12.2 
+12.5 
+10.0 
+8.5 
+ 
+ 
+4.15 Gjennomsnittlig strømhastighet i 8 retningssektorer 
+Tabell 4.15.1. Gjennomsnittlig strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+4.7 
+14.0 
+8.3 
+4.0 
+4.7 
+7.9 
+6.8 
+3.7 
+15m 
+3.0 
+5.0 
+4.8 
+2.8 
+3.2 
+8.0 
+8.3 
+2.8 
+Spredning (68m) 
+2.8 
+5.0 
+3.6 
+2.5 
+2.9 
+3.8 
+3.3 
+2.2 
+Bunn (134m) 
+4.1 
+6.0 
+2.9 
+2.3 
+4.3 
+4.9 
+3.2 
+2.4 
+ 
+ 
+4.16 Antall målinger i 8 retningssektorer 
+Tabell 4.16.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+386 
+1548 
+692 
+231 
+440 
+811 
+745 
+320 
+15m 
+433 
+854 
+618 
+392 
+428 
+1231 
+906 
+311 
+Spredning (68m) 
+462 
+1347 
+711 
+361 
+494 
+968 
+550 
+280 
+Bunn (134m) 
+671 
+1998 
+381 
+250 
+765 
+698 
+233 
+177 
+ 
+ 
+4.17 Relativ vannutskiftning i 8 retningssektorer 
+Tabell 4.17.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+4.0 
+48.2 
+12.8 
+2.1 
+4.6 
+14.3 
+11.2 
+2.6 
+15m 
+4.5 
+14.5 
+10.1 
+3.7 
+4.6 
+33.8 
+25.8 
+3.0 
+Spredning (68m) 
+6.9 
+35.5 
+13.3 
+4.7 
+7.6 
+19.4 
+9.5 
+3.2 
+Bunn (134m) 
+11.3 
+49.4 
+4.5 
+2.3 
+13.6 
+14.1 
+3.1 
+1.7 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 27 av 65 
+4.18 10-års og 50-års strømhastighet i 8 retningssektorer 
+ 
+Verdier for strøm med returperiode på 10 år og 50 år beregnes ut fra målt maksimal strømhastighet 
+sammen med en multiplikasjonsfaktor som avhenger av lengden på måleperioden (NS 9415:2021). 
+Retningene som er oppgitt i raden under maksstrømmen er retningen til den respektive maksimale 
+strømhastigheten (Tabell 4.18.1 – Tabell 4.18.2). 
+ 
+Tabell 4.18.1. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 5m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+16.1 
+50.0 
+34.3 
+11.5 
+16.0 
+26.1 
+20.6 
+12.5 
+Retning (°) 
+14 
+49 
+75 
+113 
+194 
+227 
+252 
+302 
+10-år (cm/s) 
+27 
+83 
+57 
+19 
+26 
+43 
+34 
+21 
+50-år (cm/s) 
+30 
+93 
+64 
+21 
+30 
+48 
+38 
+23 
+ 
+Tabell 4.18.2. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 15m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+11.7 
+23.3 
+32.5 
+7.5 
+9.1 
+40.5 
+40.1 
+10.5 
+Retning (°) 
+11 
+63 
+80 
+149 
+195 
+242 
+249 
+299 
+10-år (cm/s) 
+19 
+38 
+54 
+12 
+15 
+67 
+66 
+17 
+50-år (cm/s) 
+22 
+43 
+60 
+14 
+17 
+75 
+74 
+19 
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 28 av 65 
+4.19 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt 
+strømhastighet (cm/s). 
+ 
+Tabell 4.19.1. Persentilfordeling av strømhastighet (cm/s) for hvert dyp.  
+Persentil 
+5m 
+15m 
+Spredning (68m) 
+Bunn (134m) 
+1 
+0.7 
+0.4 
+0.4 
+0.4 
+10 
+2.2 
+1.3 
+1.2 
+1.5 
+20 
+3.3 
+2.0 
+1.7 
+2.2 
+30 
+4.2 
+2.6 
+2.2 
+2.9 
+40 
+5.2 
+3.2 
+2.7 
+3.6 
+50 
+6.3 
+3.9 
+3.2 
+4.3 
+60 
+7.7 
+4.8 
+3.7 
+5.2 
+70 
+9.6 
+5.8 
+4.4 
+6.0 
+80 
+12.7 
+7.6 
+5.3 
+7.2 
+90 
+18.8 
+11.7 
+6.6 
+8.7 
+95 
+24.6 
+17.5 
+8.3 
+9.8 
+99 
+36.1 
+31.0 
+12.7 
+11.8 
+ 
+4.20 Prosentfordeling av strømhastighet 
+ 
+Oppgitte verdier i tabellen under er rundet av til nærmeste desimaltall for verdier over 0.1%, mens 
+verdier mellom 0.1% og 0.01% er rundet av til to desimaltall. Lave verdier (< 0.01%) er oppgitt som 
+0.0%. 
+ 
+Tabell 4.20.1. Prosent (%) av data per dyp som er lik eller høyere enn oppgitt strømhastighet (cm/s).  
+Strømhastighet 
+(cm/s) 
+5m 
+15m 
+Spredning (68m) 
+Bunn (134m) 
+1 
+97.8 
+94.1 
+92.9 
+95.5 
+3 
+82.8 
+63.0 
+53.5 
+68.7 
+5 
+61.9 
+38.1 
+22.8 
+41.8 
+10 
+28.4 
+12.9 
+2.5 
+4.3 
+20 
+8.7 
+3.9 
+ 
+ 
+30 
+2.5 
+1.2 
+ 
+ 
+40 
+0.5 
+0.04 
+ 
+ 
+50 
+0.02 
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 29 av 65 
+4.21 Strømfordeling 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike grupper av strømhastighet (cm/s), fordelt 
+i 8 retningssektorer. Strømhastighetsgruppene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. Oppgitte verdier er rundet av til 
+nærmeste desimaltall for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to 
+desimaltall. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.21.1. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 5m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.4 
+0.3 
+0.3 
+0.2 
+0.3 
+0.2 
+0.2 
+0.3 
+2.2 
+1-5 
+4.4 
+5.1 
+4.3 
+2.9 
+4.8 
+4.4 
+5.4 
+4.5 
+35.8 
+5-10 
+2.1 
+8.2 
+4.9 
+1.3 
+3.1 
+6.7 
+5.9 
+1.3 
+33.5 
+10-20 
+0.5 
+8.7 
+3.4 
+0.06 
+0.3 
+3.7 
+2.9 
+0.04 
+19.6 
+20-30 
+ 
+5.1 
+0.4 
+ 
+ 
+0.6 
+0.02 
+ 
+6.1 
+30-40 
+ 
+2.0 
+0.1 
+ 
+ 
+ 
+ 
+ 
+2.1 
+40-50 
+ 
+0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+0.5 
+50-60 
+ 
+0.02 
+ 
+ 
+ 
+ 
+ 
+ 
+0.02 
+Sum 
+7.4 
+29.9 
+13.4 
+4.5 
+8.5 
+15.6 
+14.4 
+6.1 
+100.0 
+ 
+Tabell 4.21.2. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 15m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.9 
+0.9 
+0.8 
+0.7 
+0.9 
+0.7 
+0.5 
+0.6 
+6.0 
+1-5 
+6.4 
+9.4 
+7.1 
+6.3 
+6.0 
+9.5 
+6.7 
+4.6 
+56.0 
+5-10 
+1.0 
+4.7 
+3.2 
+0.5 
+1.3 
+8.8 
+4.9 
+0.8 
+25.2 
+10-20 
+0.04 
+1.5 
+0.7 
+ 
+ 
+2.5 
+4.3 
+0.02 
+9.1 
+20-30 
+ 
+0.06 
+0.2 
+ 
+ 
+1.6 
+0.9 
+ 
+2.8 
+30-40 
+ 
+ 
+0.06 
+ 
+ 
+0.8 
+0.3 
+ 
+1.2 
+40-50 
+ 
+ 
+ 
+ 
+ 
+0.02 
+0.02 
+ 
+0.04 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+8.3 
+16.6 
+12.1 
+7.5 
+8.2 
+23.9 
+17.6 
+6.0 
+100.0 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 30 av 65 
+Tabell 4.21.3. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 
+spredningsdyp (68m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.8 
+0.8 
+0.9 
+0.9 
+0.7 
+1.1 
+1.0 
+0.9 
+7.1 
+1-5 
+7.3 
+14.8 
+10.0 
+5.6 
+8.0 
+12.4 
+7.6 
+4.3 
+70.0 
+5-10 
+0.8 
+8.2 
+2.6 
+0.5 
+0.9 
+5.1 
+2.0 
+0.1 
+20.2 
+10-20 
+ 
+2.2 
+0.2 
+ 
+ 
+0.1 
+0.02 
+ 
+2.5 
+20-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+8.9 
+26.0 
+13.7 
+7.0 
+9.6 
+18.7 
+10.6 
+5.3 
+100.0 
+ 
+Tabell 4.21.4. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(134m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.5 
+0.7 
+0.8 
+0.6 
+0.5 
+0.3 
+0.4 
+0.5 
+4.3 
+1-5 
+7.0 
+14.3 
+5.7 
+4.2 
+9.4 
+7.1 
+3.3 
+2.8 
+53.8 
+5-10 
+5.0 
+20.3 
+0.9 
+0.08 
+4.6 
+5.8 
+0.7 
+0.1 
+37.5 
+10-20 
+0.4 
+3.3 
+ 
+ 
+0.3 
+0.3 
+ 
+ 
+4.3 
+20-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+12.9 
+38.6 
+7.4 
+4.9 
+14.8 
+13.5 
+4.4 
+3.4 
+100.0 
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 31 av 65 
+4.22 Strømvarighet 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike intervaller av strømhastighet (cm/s) med 
+forskjellig varighet. Strømhastighetsintervallene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. De ulike gruppene av varighet er 
+oppdelt på samme måte som strømhastighetsintervallene. Oppgitte verdier er rundet av til nærmeste 
+desimaltall for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to desimaltall. 
+Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.22.1. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på 5m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+0.9 
+0.3 
+ 
+ 
+ 
+ 
+ 
+ 
+1-5 
+3.9 
+5.8 
+9.7 
+7.4 
+2.3 
+1.7 
+1.8 
+0.9 
+5-10 
+4.3 
+7.2 
+9.1 
+5.6 
+2.0 
+1.1 
+1.3 
+ 
+10-20 
+2.0 
+2.6 
+5.1 
+2.9 
+2.3 
+2.0 
+ 
+1.5 
+20-30 
+0.9 
+1.1 
+2.0 
+1.4 
+ 
+ 
+ 
+ 
+30-40 
+0.3 
+0.7 
+0.5 
+ 
+ 
+ 
+ 
+ 
+40-50 
+0.1 
+ 
+0.3 
+ 
+ 
+ 
+ 
+ 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabell 4.22.2. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på 15m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+2.6 
+0.3 
+ 
+ 
+ 
+ 
+ 
+ 
+1-5 
+5.8 
+7.3 
+11.5 
+11.8 
+5.4 
+4.2 
+1.2 
+5.7 
+5-10 
+3.8 
+4.6 
+7.0 
+3.1 
+1.2 
+1.6 
+1.3 
+ 
+10-20 
+1.4 
+0.9 
+1.7 
+1.5 
+2.1 
+ 
+0.7 
+ 
+20-30 
+0.4 
+0.5 
+1.3 
+ 
+0.4 
+ 
+ 
+ 
+30-40 
+0.1 
+0.1 
+0.5 
+0.3 
+ 
+ 
+ 
+ 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 32 av 65 
+Tabell 4.22.3. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på spredningsdyp 
+(68m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+2.3 
+1.2 
+0.2 
+ 
+ 
+ 
+ 
+ 
+1-5 
+4.9 
+7.8 
+14.1 
+14.5 
+9.0 
+5.8 
+5.9 
+5.1 
+5-10 
+2.8 
+3.5 
+4.6 
+2.7 
+1.7 
+1.6 
+ 
+0.9 
+10-20 
+0.4 
+0.2 
+ 
+0.3 
+ 
+ 
+0.7 
+0.8 
+20-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabell 4.22.4. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på bunndyp (134m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+1.8 
+0.6 
+0.2 
+ 
+ 
+ 
+ 
+ 
+1-5 
+4.7 
+6.3 
+18.9 
+11.2 
+4.0 
+3.2 
+1.4 
+1.7 
+5-10 
+3.8 
+5.7 
+12.6 
+8.4 
+3.6 
+ 
+ 
+0.7 
+10-20 
+0.9 
+1.7 
+1.1 
+ 
+ 
+ 
+ 
+ 
+20-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 33 av 65 
+4.23 Tidevannsanalyse 
+ 
+En tidevannsanalyse av strømdata er gjennomført for å vurdere hvor stor andel av det målte signalet 
+som er forårsaket av tidevannet. Tidevannsanalysen er utført ved bruk av analyseverktøyet U_Tide 
+(Codiga, 2011). 
+ 
+Tidevannsanalysen inkluderer alle separerbare tidevannskomponenter. Det er også foretatt en analyse 
+med fem separerbare tidevannskomponenter, M2 (12.42 timers periode), S2 (12.00 timers periode), 
+N2 (12.66 timers periode), O1 (25.82 timers periode) og K1 (23.93 timers periode), som benyttes i 
+forbindelse med tidevannstabeller. Tidevannskomponentenes periode forklarer hvor ofte de oppstår, 
+dvs. at M2, S2 og N2 oppstår omtrent to ganger daglig, mens O1 og K1 oppstår omtrent en gang per 
+dag. 
+ 
+Strøm er splittet i komponentene øst-vest (UEW) og nord-sør (VNS) for å vurdere spredning av 
+(variasjon i) strømdata på de forskjellige dypene (Emery & Thomson, 2001). Krysset markerer 
+gjennomsnittsverdien for hastighetskomponentene og reflekterer den effektive transporthastigheten 
+med tilhørende retning (Figur 4.23.1). Strømellipsens store halvakse (hovedakse) markerer retningen 
+der variasjonen er størst.  
+ 
+Tabell 4.23.1. Tidevannsbidrag til strøm og trykkendringer basert på tidevannsanalyse av strømdata 
+i timesverdier. 
+Måledyp 
+5m 
+15m 
+Spredning (68m) 
+Bunn (134m) 
+Strøm (%) 
+25.3 
+27.6 
+46.0 
+55.9 
+Måledyp 
+5m 
+15m 
+Spredning (68m) 
+Bunn (134m) 
+Trykk (%) 
+- 
+- 
+60.4 
+91.8 
+ 
+Tabell 4.23.2. Tidevannsbidrag til strøm og trykkendringer fra tidevannskomponentene M2, S2, N2, 
+O1 og K1. 
+Måledyp 
+5m 
+15m 
+Spredning (68m) 
+Bunn (134m) 
+Strøm (%) 
+11.6 
+16.2 
+29.9 
+46.8 
+Måledyp 
+5m 
+15m 
+Spredning (68m) 
+Bunn (134m) 
+Trykk (%) 
+- 
+- 
+4.4 
+68.1 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 34 av 65 
+ 
+ 
+Figur 4.23.1. UEW – VNS punktdiagram av strømdata i timesverdier, med tilhørende strømellipse. 
+Midtpunktet for strømellipsen er markert med kryss som også markerer strømmens effektive 
+transporthastighet. Vinklene indikerer den store halvaksens orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 35 av 65 
+ 
+Figur 4.23.2. UEW – VNS tidevannsellipse (farget linje) vist sammen med strømellipsen (svart linje). 
+Midtpunktet for strømellipsene er markert med kryss som også markerer den effektive 
+transporthastigheten. Vinklene indikerer de store halvaksenes orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 36 av 65 
+4.24 Todagersperiode 
+ 
+Strømhastighet og -retning på 5m dyp, samt tidevann og vind er oppgitt i figuren under for en 
+todagersperiode da maksimalstrømmen ved 5m dyp oppstod. 
+ 
+ 
+ 
+Figur 4.24.1. Strømhastighet og -retning, samt tidevann og vind (Kristiansund Lufthavn) for perioden 
+hvor maksimalstrømmen på 5m dyp er registrert. 
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 37 av 65 
+4.25 Vind under måleperioden 
+ 
+Vinddata er hentet fra værstasjon Kristiansund Lufthavn, som ligger ca. 19.8km nord for 
+strømmålingsposisjonen (Figur 4.25.3). 
+ 
+Strøm over 10cm/s på 5m dyp ble sammenlignet med vinddata fra Kristiansund Lufthavn fra samme 
+periode. Figur 4.25.2 og figurene i "Vedlegg - Fyrstikkdiagram av vind og strøm" indikerer hvilke 
+tidspunkter vind på Kristiansund Lufthavn og målt strøm på 5m dyp hadde omtrent sammenfallende 
+retning. Vannstand i løpet av måleperioden er vist i Figur 4.25.2 og er hentet fra tidevannsstasjon 
+Kristiansund (Kartverket, 2022), som ligger ca. 20.2km nord for strømmålingsposisjonen (Figur 
+4.25.3). Vannstand er tilpasset området for målepunktet. 
+ 
+Tabell 4.25.1. Maksimal vindhastighet og prosent av tiden hvor vinden blåste fra de ulike retningene 
+på Kristiansund Lufthavn under måleperioden. 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+6.2 
+12.3 
+4.9 
+6.3 
+6.7 
+18.9 
+20.7 
+15.9 
+Tid (%) 
+3.8 
+8.0 
+21.8 
+8.4 
+4.7 
+28.3 
+20.8 
+4.1 
+ 
+Strøm på 5m 
+Vind 
+ 
+ 
+Figur 4.25.1. Rosediagram for strøm (mot retning) på 5m dyp, samt vind (fra retning) på Kristiansund 
+Lufthavn værstasjon under måleperioden. Skalaen på diagrammene er ulik. 
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 38 av 65 
+Hastighet og retning for strøm og vind er oppgitt i Figur 4.25.2 og i "Vedlegg - Fyrstikkdiagram av 
+vind og strøm" for å vurdere vindpåvirkning på strømmen. I Figur 4.25.2 er vindretning oppgitt som 
+at vind blåser fra en retning, mens i "Vedlegg - Fyrstikkdiagram av vind og strøm" er vindretning 
+oppgitt som at vind blåser mot en retning. Tidevann er også vist i Figur 4.25.2 for å vurdere 
+tidevannspåvirkning.  
+ 
+ 
+ 
+Figur 4.25.2. Strømhastighet (mot retning) på 5m dyp og vindhastighet (fra retning) på Kristiansund 
+Lufthavn, strøm- og vindretning, samt vannstand (Kristiansund) under måleperioden. Tidspunkter 
+hvor strøm og vind har omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 39 av 65 
+Figur 4.25.3. Posisjonen til Kristiansund Lufthavn værstasjon (markert med blå sirkel) og posisjonen 
+til Kristiansund tidevannsstasjon (markert med grønn sirkel) i forhold til strømmålingsposisjon 
+(markert med rød pinne). Kartet er hentet fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84. 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 40 av 65 
+4.26 Utslippskontur  
+ 
+Utslippskonturen tar utgangspunkt i strøm målt på spredningsdyp til å beregne spredningsavstand for 
+avfallspartikler fra et utslippspunkt med en viss synkehastighet (Bannister, et al., 2016). Figur 4.26.1 
+viser retning og avstand for spredning, og i hvilke områder det er mest utslipp som blir liggende på 
+bunn. Fargeskalaen indikerer mengde sedimentasjon som prosentandel (%) av den totale mengden 
+som blir sluppet ut, hvor de røde områdene vil ha størst mengde avfall. Summen av prosentnivået i 
+alle sektorer er lik total mengde utslipp (100%).  
+ 
+Merk at figuren viser utslipp fra ett punkt. Med utslipp fra ett enkelt punkt vil svært lite avfall havne 
+rett under utslippspunktet, da strømmen alltid vil skape noe spredning. Ved et oppdrettsanlegg er det 
+utslipp over et større område, noe som må inkluderes i vurderingen av spredning av utslipp. 
+ 
+ 
+ 
+ 
+Figur 4.26.1. Utslippskontur basert på målte strømhastigheter på spredningsdyp (68m). 
+Akkumulering av avfall vises som prosentandel av utslipp som havner på bunnen, indikert av 
+fargelagte sektorer. Oppløsningen på hver fargelagt sektor er 50m lang og 15° bred. Avstand fra 
+utslippspunktet er markert med en stiplet sirkel for hver 100m. 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 41 av 65 
+4.27 CTD-profil  
+ 
+CTD-profil ble målt i sammenheng med utsett 13.12 og opptak 18.01 av strømmålere i samme 
+posisjon som strømriggen. Oksygenmålinger den 18.01 er vurdert som feilmålinger og derfor ikke 
+presentert i rapport. 
+ 
+ 
+ 
+Figur 4.27.1. Vertikalprofiler av saltinnhold, temperatur, tetthet og oksygen. Dypet er oppgitt langs 
+y-aksen. 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 42 av 65 
+5. Diskusjon 
+ 
+Strømmen på Batnfjorden er mot NØ/Ø – SV/V på 5m og 15m, mot NØ/Ø – SV på spredningsdyp 
+(68m) og mot N/NØ – S/SV på bunndyp (134m). Dette stemmer med områdets bunntopografi og 
+fjordens orientering. Strømretningen domineres av motsatt rettede hovedstrømretninger. 86.5% av 
+relativ vannutskiftning på 5m, 84.2% på 15m, 68.2% på spredningsdyp (68m) og 88.4% på bunndyp 
+(134m) skjer langs hovedstrømretningene (Tabell 4.17.1). 
+ 
+5.1 
+Høye strømmålinger 
+ 
+Maksimal strømhastighet var 50.0cm/s mot NØ på 5m, 40.5cm/s mot SV på 15m, 17.4cm/s mot NØ 
+på spredningsdyp (68m) og 16.2cm/s mot NØ på bunndyp (134m). Maksstrømmen er langs 
+hovedstrømretning på alle dyp og er vurdert som sterk på 5m og 15m, og som middels sterk på 
+spredningsdyp (68m) og bunndyp (134m). Maksimalmålingen er bare én måling og gir ikke en 
+indikasjon av om strømmen er sterk eller svak i området. 
+ 
+Signifikant maksimal strømhastighet er gjennomsnittet av den høyeste tredjedelen av målingene og 
+gir en indikasjon av styrken på strømmen i området. Denne var 16.8cm/s på 5m, 11.2cm/s på 15m, 
+6.4cm/s på spredningsdyp (68m) og 7.9cm/s på bunndyp (134m). Signifikant maksimal 
+strømhastighet er vurdert som middels sterk på 5m, 15m og bunndyp (134m), og som svak på 
+spredningsdyp (68m). 
+ 
+Det var tilfeller der strøm var > 30cm/s på 5m og 15m dyp. Høy strømhastighet oppstår uregelmessig 
+på måleposisjonen, og varighet av disse i området er lang. Høye strømhastigheter er vurdert forårsaket 
+av vind. I desember sammenfaller høye strømhastigheter målt ved 5m og 15m med høye 
+vindhastigheter målt ved Kristiansund lufthavn. I januar sammenfaller høye strømhastigheter med 
+høye vindhastigheter forårsaket av ekstremværet Gyda. 
+ 
+5.2 
+Tidevannspåvirkning 
+ 
+Strømmen er vurdert som tidevannsdominert på spredningsdyp (68m) og bunndyp (134m) under 
+måleperioden, fordi tidevannsellipsen er stor i forhold til strømellipsen (Figur 4.23.2). 
+Tidevannssignalet dominerte ikke på 5m eller 15m dyp under måleperioden, som er indikert ved at 
+tidevannsellipsen er vesentlig mindre enn strømellipsen (Figur 4.23.2). Tidevannsbidrag til strøm på 
+5m er lavere enn lenger ned i vannsøylen. Dette indikerer at strømmen lenger opp i vannsøylen er 
+mer påvirket av andre faktorer. 
+ 
+5.3 
+Vindpåvirkning 
+ 
+Ut fra omkringliggende topografi er det vurdert at vind fra NØ og SV kan ha betydning for 
+strømforholdene på lokaliteten. Under måleperioden blåste vind mest fra SV og sterkest fra SV/V 
+(Tabell 4.25.1). 
+ 
+Grunnet friksjon mellom vind og vannoverflate vil vind med betydelig hastighet (> 3m/s) og stabil 
+retning som blåser over en lengre periode ha større innvirkning på strøm. Tilfeller med 
+vindpåvirkning er i dette tilfellet beregnet utfra sammenfallende eller motsatt rettet retninger ved et 
+bestemt tidspunkt, uten hensyn til vindens varighet eller stabilitet.  
+ 
+Hvis de lokale vindforholdene på strømmålingsposisjonen var like de på Kristiansund Lufthavn under 
+måleperioden, er det vurdert at vind fra NØ kan ha påvirket strøm mot SV, vind fra Ø kan ha påvirket 
+strøm mot V, og vind fra SV/V kan ha påvirket strøm mot NØ/Ø. 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 43 av 65 
+Siden vind blåste mest fra SV, kan strøm mot NØ ha blitt mest påvirket av vind under måleperioden. 
+Vinden blåste sterkest fra SV/V og vind kan dermed hatt sterkeste påvirkning på strøm mot NØ/Ø. 
+Dette passer med målt maksimal strømhastighet på 5m dyp mot NØ, som er vurdert vindpåvirket 
+utfra sammenfallende retning mellom strøm og vind.        
+ 
+Værstasjonen har en annen beliggenhet enn strømmålerposisjonen, og det kan dermed forventes noen 
+andre vindretninger lokalt ved måleposisjonen enn på Kristiansund Lufthavn. Det var enkelte tilfeller 
+hvor strøm- og vindretning var motsatt rettet under måleperioden, hvor vind kan ha virket bremsende 
+på målt strømhastighet. 
+ 
+5.4 
+Vannutskiftning  
+ 
+Det er naturlig med strømstille når tidevannet skifter fra flo til fjære eller motsatt. Varigheten av 
+strømstille perioder kan ha betydning for vannutskiftning i et område. Siden vann vil strømme rundt, 
+i tillegg til gjennom eller under, et anlegg er anleggsorientering viktig. Et anlegg orientert slik at det 
+ligger med langsiden mot den dominerende strømretningen vil ha bedre vannutskiftning i merdene 
+enn et anlegg hvor mange av merdene ligger etter hverandre langs hovedstrømmen. Neumann-
+parameteren sier noe om stabiliteten til strømmen. En høy Neumann parameter (f.eks. 0.7) indikerer 
+en retningsstabil strøm. Dette tyder på at vannet strømmer i en retning og beveger seg konstant bort 
+fra startpunktet. En lav Neumann-parameter kan bety at vannstrømmen har skiftende retning og 
+kanskje bare flyter fram og tilbake ved startpunktet. Neumann-parameteren kan brukes opp mot 
+progressivt vektordiagram og gjennomsnittsstrømmen for å kunne si noe om vannutskiftningen ved 
+det punktet hvor strømmen er målt.  
+ 
+Gjennomsnittlig strømhastighet var ≥ 2cm/s på alle dyp. Gjennomsnittlig strømhastighet er vurdert 
+som sterk på 5m, middels sterk på 15m og bunndyp (134m), og som svak på spredningsdyp (68m). 
+ 
+Neumann-parameteren er vurdert som stabil på 5m, middels stabil på 15m og spredningsdyp (68m), 
+og stabil på bunndyp (134m). Strømretninger og vannutskiftning stemmer med områdets 
+bunntopografi. Vannutskiftningen er vurdert som god på bunn, fordi vannet beveger seg bort fra 
+startpunktet og ikke bare flyter fram og tilbake. Vannutskiftningen på 5m, 15m og spredningsdyp er 
+påvirket av at vann i perioder flytter seg fram og tilbake, og i andre perioder beveger seg vekk fra 
+målepunktet. 
+  
+Prosent nullmålinger (< 1cm/s) var mindre enn 10% på alle dyp. Lengst varighet for strøm < 1cm/s 
+var 50 minutter på 5m og 15m, 80 minutter (1t 20min) på spredningsdyp (68m) og 100 minutter (1t 
+40min) på bunndyp (134m). Det var korte perioder med strømstille på 5m og 15m dyp. 
+ 
+5.5 
+Mulig spredning av utslipp 
+ 
+Sprednings- og bunnstrøm er viktig for lokalitetens totale bæreevne. Opphopning av sediment under 
+anlegget kan i noen tilfeller påvirke vannkvaliteten i merden og dermed fiskens levevilkår 
+(Mattilsynet, 2016). På lokaliteter med kort avstand mellom havbunn og notbunn er det viktig at både 
+sprednings- og bunnstrøm viser god vannutskiftning slik at sedimenter ikke hoper seg opp og påvirker 
+vannkvaliteten i merden negativt (Mattilsynet, 2016). Bunntopografi og strømningsforhold har også 
+betydning for utskifting og nedbryting av bunnsedimenter fra anlegget (Mattilsynet, 2016). En ujevn 
+bunn eller en flat bunn med groper gir større risiko for opphopning av sedimenter enn en jevnt 
+skrånende bunn.    
+ 
+Dyp ved målepunktet var ca. 140m. Med slike dyp er det god avstand mellom notbunn og havbunn.  
+Strømmåleposisjonen ligger over en relativt flat bunn som skråner gradvis oppover mot land mot SØ. 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 44 av 65 
+Bunntopografien er orientert NØ – SV i området for strømmålingsposisjonen. Det er ingen store 
+groper i området. 
+ 
+Det var tilfeller der strøm var > 10cm/s på både spredningsdyp (68m) og bunndyp (134m). Dette er 
+gunstig med tanke på spredning av organisk materiale fra anlegget. 
+ 
+Spredning av utslipp følger strømrosen for spredningsdyp (Figur 4.2.1) og orienteringen til 
+bunntopografien i området. Mye sedimentasjon legger seg mot NØ og SV (Figur 4.26.1), som er 
+retningene med mest vannutskiftning (Tabell 4.17.1). Med utgangspunkt i målte strømhastigheter på 
+spredningsdyp vil avfall spre seg lengst mot nordøst, opptil 400m vekk fra utslippspunktet. 
+ 
+5.6 
+Vannsøylens vertikale struktur 
+ 
+Vannsøylens stabilitet har vesentlig betydning for sirkulasjon i området og mulighet for blanding 
+vertikalt. En stabil vannsøyle har økende tetthet med økende dyp. Lagdeling i vannsøylen (forårsaket 
+forskjellige grunner, for eksempel; ferskvannsavrenning, avkjøling/oppvarming av overflatevann, 
+utveksling av vann ved bunn med kystvann) påvirker spredning av utslipp både horisontalt og 
+vertikalt. 
+ 
+Temperatur under måleperioden var 4.9 - 10.1°C på 5m, 7.5 - 10.6°C på 15m, 8.3 - 10.2°C på 
+spredningsdyp (68m) og 8.4 - 8.9°C på bunndyp (134m). Temperaturmålingene ved 5m dyp varierte 
+en del i løpet av måleperioden, men hadde en avtagende trend fram til midten av januar. Mot slutten 
+av måleperioden den 12.01 var det en rask økning før temperaturen avtok noe igjen. 
+Temperaturmålingene ved 15m avtok og varierte litt i starten av måleperioden. Temperaturen var 
+deretter relativt konstant før den avtok noe mot slutten av måleperioden igjen. Temperaturen på 
+spredningsdyp (68m) avtok gradvis og varierte noe fra starten til slutten av måleperioden. 
+Temperaturen på bunn var relativt konstant og varierte lite i løpet av måleperioden. Variasjoner i 
+temperatur på sprednings- og bunndyp kan ha sammenheng med tidevann, grunnet periodiske 
+endringer. 
+ 
+CTD-målinger viser at temperaturen avtok fra overflaten og ned til 100m i løpet av måleperioden. 
+Fra 100m og ned til bunnen var temperaturen relativt lik mellom desember og januar. I desember økte 
+temperaturen fra overflaten og ned til omtrent 22m for deretter å avta ned til bunnen. I januar var 
+temperaturen relativt konstant fra overflaten og ned til 40m. Deretter økte den ned til 100m for 
+deretter å avta ned til bunnen. 
+ 
+Saltinnholdet økte i løpet av måleperioden fra overflaten og ned til 25m dyp. Fra 25m til 100m dyp 
+avtok saltinnholdet. Fra 100m og ned til bunnen var det lite endring i saltinnhold. I desember økte 
+saltinnholdet fra overflaten og ned til 22m. Deretter økte saltinnholdet svakt ned til bunnen. I januar 
+økte saltinnholdet svakt fra overflaten og ned til bunnen. 
+ 
+Tetthetsdata gjenspeiler saltinnholdet og viser at vannsøylen var lagdelt. I løpet av måleperioden økte 
+tettheten fra overflaten og ned til 50m. Fra 50m til 100m økte den litt, men fra 100m og ned til bunnen 
+var den relativt lik mellom desember og januar. I desember er et tydelig lagskille observert ved 
+omtrent 20m, mens i januar var profilen mer blandet, med mulig indikasjon på et svakt lagskille øverst 
+ved overflaten. I desember økte tettheten fra overflaten og ned til 22m. Deretter økte den svakt ned 
+mot bunnen. I januar økte tettheten svakt fra overflaten og ned til bunnen. 
+ 
+Oksygenmetningen ved utsett var høy (> 90%) ved overflaten. Oksygenmetningen var konstant fra 
+overflate og ned til 22m. Deretter var det en liten økning etterfulgt av en liten avtagning ned til 40m 
+og deretter en gradvis avtagning ned til bunnen. Oksygeninnholdet avtok fra overflate og ned til 27m 
+for deretter å øke litt ned til 40m. Deretter var det en gradvis avtagning ned til bunnen. 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 45 av 65 
+6. Vedlegg – Bakgrunnsinformasjon 
+ 
+6.1 
+Valg av sted, dyp og periode for strømmålinger 
+ 
+Valg av målested 
+ 
+Plassering av riggen i forhold til det dypet strømmen skal måles på har stor betydning for målingene. 
+Et av kravene i NS 9415:2009 er at målerne skal plasseres i den posisjonen som sannsynligvis oppgir 
+høyeste strømhastighet på lokaliteten. 
+ 
+• Anleggets geografiske plassering og topografiske utforming av nærområdet må vurderes.  
+Strømmen påvirkes av bukter, viker og elveløp, møtepunkter for fjordsystemer, osv. Dette 
+kan føre til at strømmen skifter retning e.l.  
+• Anlegget bør plasseres der vannet får kortest mulig oppholdstid i anlegget før nytt vann 
+kommer inn, og slik at vanntransporten på tvers av anlegget maksimeres. Dette er spesielt 
+viktig i den varme årstiden med høy temperatur i vannet, mye fisk og intensiv fôring, og drift 
+av anlegget.    
+• Bunntopografien under anlegget og i området bør vurderes, da ujevnheter kan påvirke 
+strømmens styrke og dreining.    
+ 
+Plasseringen som sannsynligvis oppgir høyeste strømhastighet på en lokalitet er ofte rett utenfor 
+anlegget, lengst unna land. Strømmåling på 5m og 15m dyp som foretas her gir grunnlag for å 
+estimere den sterkeste strømmen anlegget kan bli utsatt for med tanke på dimensjonering. 
+ 
+For strømmåling på sprednings- og bunndyp er foretrukket plassering i anleggets senter, som gir 
+grunnlag for å estimere den representative strømstyrken i anlegget med tanke på spredning av 
+partikler. 
+ 
+Valg av måledyp 
+ 
+Overflatestrømmen måles på 5m dyp. Det tas ikke på 1m på grunn av støy fra bølger. 
+Vannutskiftningsstrøm måles på 15m dyp. 
+Sprednings- og bunnstrøm 
+• Spredningsstrøm måles midt mellom merdbunn og sjøbunn, men ikke dypere enn 50m fra 
+merdbunn. 
+• Bunnstrøm måles enten ca. 2m over bunn, men ikke dypere enn 100m fra merdbunn, eller 2m 
+over bunn. 
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hvert 14.77 døgn, som er 
+tidevannssyklus for spring / nipp, er anbefalt minimum for måleperioden 30 dager.  
+ 
+Målingene på 5m og 15m dyp ble gjort i samsvar med NS 9415:2009, der kravet er at målingene skal 
+gjennomføres sammenhengende i minst en måned.  
+ 
+Målingene på sprednings- og bunndyp ble gjort i samsvar med retningslinje for etableringssøknader 
+fra Mattilsynet (Mattilsynet, 2016), der det er anbefalt at målingene skal gjennomføres 
+sammenhengende i minst 4 uker. 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 46 av 65 
+6.2 
+Spesifikasjoner for strøminstrumenter 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.2.1. Målerne registrerer strømhastighet, 
+strømretning og temperatur.   
+ 
+Tabell 6.2.1. Spesifikasjoner per strøminstrument. 
+Måledyp 
+5m 
+15m 
+Spredning (68m) 
+Bunn (134m) 
+Leverandør 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Instrumenttype, 
+modell 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+ID-nr. 
+5409 
+5404 
+5407 
+5406 
+Kalibrering 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Strømhastighetens 
+nøyaktighet 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+Strømhastighetens 
+rekkevidde / 
+terskelverdi 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+Strømretningens 
+nøyaktighet 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+Kompassorientering 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Kompass justert for 
+misvisning 
+Nei 
+Nei 
+Nei 
+Nei 
+Temperaturens 
+nøyaktighet og 
+rekkevidde 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 47 av 65 
+6.3 
+Måleprinsipp for strømmålinger 
+ 
+Aanderaa punktmåler  
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Det sendes ut en kort lydpuls (akustisk puls) 
+med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de innkommende 
+refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende refleksjon er 
+proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet (vanligvis 
+zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at de derfor 
+beveger seg med samme hastighet som vannet. En punktmåler er satt opp for å måle strøm med én 
+datalogging i et intervall på 10 minutter, basert på 150 ping. 
+ 
+Tabell 6.3.1. Måleprinsipp for en Aanderaa punktmåler. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer samplingsperioder på 10 minutter. I løpet av denne perioden sender 
+instrumentet ut 150 ping. Ett datapunkt gir gjennomsnittet over en 10-minuttersperiode. 
+ 
+6.4 
+CTD-målinger 
+ 
+Hydrografimålinger ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden med 
+et påmontert lodd ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden gjør 
+én registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen ved senkning og en 
+ved heving. Profil ved senkning av sonden ble benyttet.  
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 48 av 65 
+7. Vedlegg – Riggoppsett 
+ 
+7.1 
+Test av riggoppsett før utsett 
+ 
+Før utsett ble planlagt riggoppsett testet i Matlab-programmet Mooring Design & Dynamics (Dewey, 
+2006) for å kontrollere om riggoppsettet teoretisk sett ville tåle forventet strømhastighet i området 
+slik at instrumentdyp, helning og andre kvalitetssikringsparametere ville forholde seg innenfor 
+aksepterte grenseverdier. Programmet gir en teoretisk tilnærming for å optimalisere forholdet mellom 
+oppdriftskuler og lodd i riggen for det aktuelle området.  
+ 
+Utfra analysen av planlagt riggoppsett for strømmålinger på 5m og 15m dyp ble riggen vurdert som 
+egnet for utsett i antatt strømområde. 
+ 
+7.2 
+Riggoppsett 
+ 
+Riggoppsett for målt strøm er beskrevet i Tabell 7.2.1 og skissert i Figur 7.2.1. 
+ 
+Instrumentene for sprednings- og bunndyp har stått litt grunnere enn planlagt i forhold til dybdene i 
+riggskjema. 
+ 
+Tabell 7.2.1. Beskrivelse av riggoppsett for strømmålinger på 5m, 15m, spredningsdyp (68m) og 
+bunndyp (134m). 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A3-blåse 
+Blåse 
+1stk 
+ 
+62kg oppdrift 
+Trålkule 11" 
+Kule 
+4stk 
+ 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+5.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+5.0m 
+ 
+Danline 14mm 
+Tau 
+10.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+15.0m 
+ 
+Pærelodd 
+Lodd 
+2stk 
+15.0m 
+5kg 
+Danline 14mm 
+Tau 
+15.0m 
+ 
+ 
+Pærelodd 
+Lodd 
+1stk 
+30.0m 
+5kg 
+Danline 14mm 
+Tau 
+55.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+3stk 
+75.0m 
+7.5kg oppdrift 
+Punktmåler 
+Måler 
+1stk 
+75.0m 
+ 
+Danline 14mm 
+Tau 
+63.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+1stk 
+138.0m 
+7.5kg oppdrift 
+Punktmåler 
+Måler 
+1stk 
+138.0m 
+ 
+Danline 14mm 
+Tau 
+2.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+4stk 
+140.0m 
+50kg 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 49 av 65 
+ 
+Figur 7.2.1. Riggoppsett for strømmålinger på 5m, 15m, spredningsdyp (68m) og bunndyp (134m). 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 50 av 65 
+8. Vedlegg – Databearbeiding og kvalitetssikring  
+ 
+Før utsett ble fysisk status til hvert instrument kontrollert. Kontrollsjekk inkluderer: batteristatus, 
+instrumentinnstilling, minnestatus og anoder. 
+ 
+Det benyttes et skjema som følger hver måler for teknisk dokumentasjon. Instrumenttilstand og 
+eventuelt andre kommentarer angående instrumentet oppføres i egen logg etter hvert prosjekt.  
+   
+Ved utsett av instrumenter benyttes eget riggskjema som inkluderer (etter NS 9425:1999): 
+lokalitetsnavn, riggoppsett, posisjon, måledyp, kontaktperson og oppdragsgiver, tidspunkt for utsett 
+og opptak, og et kommentarfelt for eventuelle observasjoner ved utsett og opptak.  
+ 
+Ved opptak blir måleinstrumentene undersøkt for begroing, annet som kan ha påvirket målingene, og 
+fysisk skade. Dette kommenteres på riggskjema og i rapporten, og mulig påvirkning for resultatet blir 
+vurdert. Verdier som er benyttet i rapporten er troverdige og uten behov for støyfiltrering eller annen 
+korreksjon. 
+ 
+Data er kvalitetssikret gjennom interne prosedyrer utviklet i samarbeid med instrumentenes produsent 
+etter bestemte kriterier. Dersom disse kriteriene ikke blir møtt er data kritisk vurdert. Enkeltstående 
+datapunkter blir også vurdert og data fjernes om nødvendig. Både rådata og kvalitetssikret data er 
+lagret på server. 
+ 
+8.1 
+Databearbeiding 
+ 
+Riggtilstand etter måling 
+ 
+Et stort tre, som trolig kom drivende etter ekstremværet «Gyda», var festet i blåsen ved overflaten. 
+Data er kritisk vurdert og ingen forstyrrelser i målinger er oppdaget.   
+ 
+Det var ingen begroing eller skade på instrumentene, og ingen data er vurdert som feil eller usikre på 
+grunn av dette. Datakvaliteten anses å være god. 
+ 
+Feil på instrument 
+ 
+Det var feil på oksygensensor på CTD-instrumentet ved røkting i januar. Oksygendata er dermed ikke 
+presentert for røkting. Dette har ingen konsekvens for registrering av andre data eller parametere. 
+ 
+Det var ingen feil på instrumentenes sensorer under måleperioden. Datakvaliteten anses å være god. 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 51 av 65 
+Tabell 8.1.1. Opplysninger om strømmålinger og databearbeiding. 
+Måledyp 
+5m 
+15m 
+Spredning (68m) 
+Bunn (134m) 
+Filnavn for rådata 
+Batnfjorden 5m NH0122 
+AP5409.bin 
+Batnfjorden 15m NH0122 
+AP5404.bin 
+Batnfjorden spred NH0122 
+AP5407.bin 
+Batnfjorden bunn NH0122 
+AP5406.bin 
+Rådata først vurdert i 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Filnavn for eksportert data 
+Batnfjorden 5m NH0122 
+AP5409_eks_TMAT.xlsx 
+Batnfjorden 15m NH0122 
+AP5404_eks_TMAT.xlsx 
+Batnfjorden spred-68m 
+NH0122 
+AP5407_eks_TMAT.xlsx 
+Batnfjorden bunn-134m 
+NH0122 
+AP5406_eks_TMAT.xlsx 
+Filnavn for kvalitetssikret 
+data 
+Batnfjorden-5m_QC.xlsx 
+Batnfjorden-15m_QC.xlsx 
+Batnfjorden-Spredning 
+(68m)_QC.xlsx 
+Batnfjorden-Bunn 
+(134m)_QC.xlsx 
+Data return (%) 
+100.00 / 100.00 
+100.00 / 100.00 
+100.00 / 100.00 
+100.00 / 100.00 
+Antall målinger 
+5173 / 5173 
+5173 / 5173 
+5173 / 5173 
+5173 / 5173 
+Antall fjernede/manglende 
+målinger 
+0 
+0 
+0 
+0 
+Ekstern påvirkning på 
+målinger 
+Nei 
+Nei 
+Nei 
+Nei 
+Dato og tid for første og siste 
+benyttede strømmåling 
+13.12.21 12:40 -  
+18.01.22 10:40 
+13.12.21 12:40 -  
+18.01.22 10:40 
+13.12.21 12:40 -  
+18.01.22 10:40 
+13.12.21 12:40 -  
+18.01.22 10:40 
+Dato og tid for start og slutt av 
+instrument 
+12.12.21 13:10 -  
+21.01.22 13:50 
+12.12.21 13:40 -  
+21.01.22 14:00 
+12.12.21 13:50 -  
+18.01.22 11:10 
+12.12.21 13:40 -  
+21.02.22 13:40 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 52 av 65 
+8.2 
+Kvalitetssikring av data 
+Data er kvalitetssikret etter bestemte kriterier (Tabell 8.2.1). Dersom disse kriteriene ikke blir møtt er 
+data kritisk vurdert. Utstikkere blir også vurdert og data fjernet om nødvendig.  
+ 
+Fra omtrent 13.01 og ut måleperioden ser man økte strømhastigheter på 5m og 15m dyp, som var 
+forårsaket av ekstremværet Gyda (Figur 8.2.1 – Figur 8.2.2). Videre ser man også økt 
+instrumenthelning på alle dyp og større variasjon i trykkmålinger på 5m, 15m og spredningsdyp 
+(68m) i sammenheng med dette (Figur 8.2.1 – Figur 8.2.3). På bunndyp (134m) er det et nedtrekk 
+13.01 og etter dette står instrumentet på et dypere dyp ut måleperioden (Figur 8.2.4). Riggen har trolig 
+flyttet seg litt dypere på dette tidspunktet. Data i perioden 13.01 og ut måleperioden er kritisk vurdert 
+og datakvalitet anses å være god. På spredningsdyp ser vi også et varig nedtrekk rundt 17.12 trolig i 
+sammenheng med høy strøm i øvre del av vannsøylen (Figur 8.2.3). Data er kritisk vurdert og 
+datakvalitet anses å være god. 
+ 
+Tabell 8.2.1. Kriterier brukt for å kvalitetssikre data. 
+Parameter 
+QC  
+Temperatur 
+Manuell sjekk av data for stabil temp (∆ < 1℃)  
+Helning 
+< 50º (Figur 8.2.1 – Figur 8.2.4) 
+Ping count 
+150 (Figur 8.2.1 – Figur 8.2.4) 
+Trykk 
+Stabilt (Figur 8.2.1 – Figur 8.2.4)  
+Strømhastighet 
+Stabil (ingen store endringer fra en måling til neste måling, Tabell 8.2.2).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+Retning 
+Stabil (ingen store endringer fra en måling til neste måling).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+ 
+Tabell 8.2.2. Teoretiske forskjeller i strømhastighet fra en måling til det neste (IOC, 1993). 
+∆t (min) 
+Teoretisk 
+Faktor 
+Godkjent 
+ 
+u1 – u2 (m/s) 
+ 
+u1 – u2 (m/s) 
+5 
+0.0422 u 
+2.0 
+0.08 
+10 
+0.0843 u 
+1.8 
+0.15 
+15 
+0.1264 u 
+1.6 
+0.20 
+20 
+0.1685 u 
+1.5 
+0.25 
+30 
+0.2523 u 
+1.4 
+0.35 
+60 
+0.5001 u 
+1.2 
+0.60 
+ 
+Tabell 8.2.2 gir teoretiske forskjeller mellom to suksessive målinger av strømhastighet, u1 og u2, for 
+forskjellige måleintervall, Δt (IOC,1993). For å tillate noe naturlig variabilitet i strømhastighet 
+og -retning (inkludert usymmetriske hastighetskurver for tidevannsstrøm) har de teoretiske 
+forskjellene blitt hevet med de oppgitte faktorene, mens strøm (u) er satt til 1m/s ettersom variabilitet 
+øker med avtagende strøm. 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 53 av 65 
+ 
+ 
+Figur 8.2.1. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 5m dyp.  
+ 
+Instrumentdypet varierte mellom 4.9m og 5.9m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 5.5m.  
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 54 av 65 
+ 
+ 
+Figur 8.2.2. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 15m dyp.  
+ 
+Instrumentdypet varierte mellom 14.1m og 16.4m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 15.9m.  
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 55 av 65 
+ 
+ 
+Figur 8.2.3. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, spredningsdyp (68m).  
+ 
+Instrumentdypet varierte mellom 65.3m og 76.6m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 67.5m. Instrumentet for spredningsdyp har stått litt grunnere enn planlagt i 
+forhold til dybden i riggskjema. 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 56 av 65 
+ 
+ 
+Figur 8.2.4. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunndyp (134m).  
+ 
+Instrumentdypet varierte mellom 133.0m og 136.2m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 134.4m. Instrumentet for bunndyp har stått litt grunnere enn planlagt i forhold 
+til dybden i riggskjema. 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 57 av 65 
+8.3 
+Fjernede dataverdier  
+ 
+8.3.1 Måleperiode 
+ 
+Data er fjernet utenfor måleperioden for å bruke overlappende periode mellom de forskjellige dyp i 
+så stor grad som mulig. 
+ 
+8.3.2 Enkelte datapunkter 
+ 
+Ingen datapunkter er fjernet. 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 58 av 65 
+9. Vedlegg – Fyrstikkdiagram av vind og strøm 
+ 
+Figurene under viser vind- og strømhastighet i løpet av måleperioden, oppdelt i perioder på to uker. Tidspunkter hvor vind og strøm hadde omtrent 
+sammenfallende retning (grønne prikker) eller motsatt retning (røde prikker) indikerer tilfeller med vindpåvirket strøm. Svak vind (< 3m/s) hvor strøm 
+og vind hadde sammenfallende eller motsatt retning er indikert med oransje prikker. Det er tillatt en vinkel på opptil ± 22.5° ved beregning av om vind 
+og strøm har omtrent sammenfallende eller motsatt retning. 
+ 
+ 
+ 
+Figur 9.1. Fyrstikkdiagram av vindhastighet (mot retning) på Kristiansund Lufthavn (over) og strømhastighet (mot retning) på 5m dyp (under) under 
+måleperioden. 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 59 av 65 
+ 
+ 
+ 
+ 
+Figur 9.2. Fyrstikkdiagram av vindhastighet (mot retning) på Kristiansund Lufthavn (over) og strømhastighet (mot retning) på 5m dyp (under) under 
+måleperioden. 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 60 av 65 
+10. Vedlegg – Strømmens tilstandsklasser 
+ 
+Tilstandsklasser for strømparametere er oppgitt i Tabell 10.1. Verdiene er hentet fra strømdata målt 
+av Åkerblå ved bruk av Aanderaa punkmålere (Åkerblå, 2015). 
+ 
+Tabell 10.1. Tilstandsklasser for vurdering av strømdata. 
+ 
+Dyp 
+(m) 
+1 
+2 
+3 
+4 
+5 
+Maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 55 
+≥ 40 - < 55 
+≥ 26 - < 40 
+≥ 15 - < 26 
+< 15 
+Utskifting 15 
+≥ 45 
+≥ 30 - < 45 
+≥ 20 - < 30 
+≥ 10 - < 20 
+< 10 
+Spredning  
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Bunn 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Gjennomsnittlig strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 10 
+≥ 7 - < 10 
+≥ 6 - < 7 
+≥ 3 - < 6 
+< 3 
+Utskifting 15 
+≥ 9 
+≥ 6 - < 9 
+≥ 5 - < 6 
+≥ 2 - < 5 
+< 2 
+Spredning  
+≥ 8.5 
+≥ 5 - < 8.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Bunn 
+ 
+≥ 7.5 
+≥ 5 - < 7.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Signifikant maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 25 
+≥ 17 - < 25 
+≥ 11 - < 17 
+≥ 5 - < 11 
+< 5 
+Utskifting 15 
+≥ 23 
+≥ 15 - < 23 
+≥ 8 - < 15 
+≥ 4 - < 8 
+< 4 
+Spredning  
+≥ 20 
+≥ 14 - < 20 
+≥ 7 - < 14 
+≥ 4 - < 7 
+< 4 
+Bunn 
+ 
+≥ 16 
+≥ 11 - < 16 
+≥ 6.5 - < 11 
+≥ 3 - < 6.5 
+< 3 
+Signifikant minimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 6 
+≥ 4 - < 6 
+≥ 2.5 - < 4 
+≥ 1.5 - < 2.5 
+< 1.5 
+Utskifting 15 
+≥ 5 
+≥ 3.5 - < 5 
+≥ 2.3 - < 3.5 
+≥ 1.5 - < 2.3 
+< 1.5 
+Spredning  
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Bunn 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Andel strømstille (%) < 1cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 1 
+< 3 - ≥ 1 
+< 5 - ≥ 3 
+< 7 - ≥ 5 
+≥ 7 
+Utskifting 15 
+< 1 
+< 5 - ≥ 1 
+< 7 - ≥ 5 
+< 10 - ≥ 7 
+≥ 10 
+Spredning  
+< 3 
+< 8.5 - ≥ 3 
+< 15 - ≥ 8.5 
+< 20 - ≥ 15 
+≥ 20 
+Bunn 
+ 
+< 3 
+< 10 - ≥ 3 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Andel strømstille (%) < 3cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 5 
+< 10 - ≥ 5 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Utskifting 15 
+< 5 
+< 15 - ≥ 5 
+< 25 - ≥ 15 
+< 40 - ≥ 25 
+≥ 40 
+Spredning  
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 50 - ≥ 35 
+≥ 50 
+Bunn 
+ 
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 60 - ≥ 35 
+≥ 60 
+Effektiv transport (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 5 
+≥ 2.5 - < 5 
+≥ 1.5 - < 2.5 
+≥ 0.3 - < 1.5 
+< 0.3 
+Utskifting 15 
+≥ 3.5 
+≥ 2 - < 3.5 
+≥ 1 - < 2 
+≥ 0.2 - < 1 
+< 0.2 
+Spredning  
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Bunn 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Neumann-parameter 
+ 
+svært stabil 
+stabil 
+middels stabil 
+lite stabil 
+svært lite stabil 
+Alle dyp (m) 
+> 0.6 
+0.4 - 0.6 
+0.2 - 0.4 
+0.1 - 0.2 
+< 0.1 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 61 av 65 
+11. Vedlegg – Månedlige tidevannsvariasjoner 
+ 
+Strømmålinger er påvirket av blant annet tidevannsstrøm og kan bli påvirket av vind og vær. Månedlige tidevannsvariasjoner er vist i figuren under.    
+ 
+ 
+Figur 11.1. Månedlige tidevannsvariasjoner hvor stolpehøyde angir relativ tidevannsstrøm og stolpefarge indikerer månefaser (oransje – siste kvarter; 
+rød – nymåne; brun – første kvarter; grønn - fullmåne). 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 62 av 65 
+Figur 11.2.  Månedlige tidevannsvariasjoner hvor stolpehøyde angir relativ tidevannsstrøm og stolpefarge indikerer månefaser (oransje – siste kvarter; 
+rød – nymåne; brun – første kvarter; grønn – fullmåne).
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 63 av 65 
+12. Vedlegg – Måleenheter 
+ 
+Alle måleenheter brukt i rapporten er beskrevet i tabellen under. 
+ 
+Tabell 12.1. Måleenheter brukt i rapporten. 
+Beskrivelse 
+Måleenhet 
+Dag og Tid 
+Tidsstempel i tidsserier er gitt ved midnatt, slik 
+at tidsserier starter midnatt før første målepunkt 
+og slutter midnatt etter siste målepunkt. 
+dd.mm.yy hh:mm (UTC) 
+dd.mm (UTC) 
+dd.mm.yyyy hh (UTC) 
+Høyde / Dybde 
+Meter (m) 
+Avstand  
+Kilometer (km) 
+Meter (m) 
+Posisjon / Koordinater 
+Posisjon er oppgitt i koordinatsystemet WGS64 
+(World Geodetic System 1984). 
+GGG (º) MM.MM (') 
+Strømretning (mot) 
+Grader (º) 
+Strømhastighet  
+Centimeter per sekund (cm/s) 
+Vindhastighet 
+Meter per sekund (m/s) 
+Vindretning (fra) 
+Grader (º) 
+Tidevannsnivå 
+Centimeter (cm) 
+Temperatur 
+Grader celsius (℃) 
+Helning 
+Grader (º) 
+Ping Count 
+Antall 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 64 av 65 
+13. Vedlegg – Parametere og beskrivelse 
+ 
+Tabell 13.1. Parametere brukt i rapporten og beskrivelse av disse. 
+Parameter 
+Beskrivelse 
+Sjøtemperatur (℃) 
+Temperatur i vannet målt ved måledyp 
+Strømhastighet 
+Maksimum (cm/s) 
+Høyeste verdi av alle data 
+Gjennomsnitt (cm/s) 
+Matematisk gjennomsnittlig verdi av alle data 
+Minimum (cm/s) 
+Laveste verdi av alle data 
+Signifikant maks (cm/s)  Matematisk gjennomsnitt av høyeste 1/3 av data 
+Signifikant min (cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av data 
+Varians (cm/s)2 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+om data varierte mye mellom suksessivt høye og lave verdier. En høy 
+varians indikerer at datapunkter er meget spredt ut rundt 
+gjennomsnittsverdien, mens en lav varians indikerer at datapunkter er 
+veldig nær gjennomsnittsverdien og derfor også hverandre. 
+Varians 
+= 
+Gjennomsnittet 
+av 
+de 
+kvadrerte 
+forskjeller 
+fra 
+gjennomsnittsverdien. 
+Standardavvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+gjennomsnittlig avstand fra gjennomsnittsverdi. Et høyt standardavvik 
+indikerer stor spredning av data.   
+Standardavvik = kvadratrot (varians). 
+% < x cm/s  
+Mengden strøm med strømhastighet < x cm/s  
+Lengst periode < x cm/s Varighet av lengste periode med strømhastighet < x cm/s 
+Effektiv transport 
+Hastighet (cm/s) 
+Hastighet er en funksjon av posisjon og tid. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, da er effektiv hastighet gitt som den rettlinjede avstanden 
+mellom partikkelens start- og sluttposisjon delt på total tid i 
+måleperioden.   
+Retning (grader) 
+Retning er vinkelen til en linje ut fra origo. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, er resultatretning eller retning av effektiv transport gitt 
+som vinkelen fra partikkelens startposisjon til partikkelens posisjon ved 
+måleperiodens slutt. 
+Neumann-parameter 
+Verdi som indikerer stabiliteten til strømmen. Neumann-parameteren 
+beregnes ut fra forholdet mellom den rettlinjede avstanden mellom en 
+tenkt drivende partikkels start- og sluttposisjon, og partikkelens totale 
+bane i løpet av måleperioden. Stabil strøm (høy Neumann-parameter) 
+betyr at vannet strømmer i «en» retning og beveger seg bort fra 
+startpunktet hele tiden. Ustabil strøm (lav Neumann-parameter) betyr at 
+vannet strømmer i ulike retninger og kanskje bare flyter fram og tilbake 
+ved startpunktet.  For eksempel, en Neumann-parameter på 0.7 betyr at 
+strømmen i løpet av måleperioden strømmer med 70% stabilitet i en 
+bestemt retning. Dette er klassifisert som svært stabil strøm.   
+Vannforflytning 
+(m3/m2/d) 
+Mengden vann som strømmer gjennom en tenkt flate på 1 m2 i løpet av 
+et døgn.  
+Strømrapport: Batnfjorden, Gjemnes kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 65 av 65 
+14. Vedlegg – Referanser 
+ 
+1. 
+Brukerveiledning. Aanderaa RCM Blue punktmåler. 
+ 
+2. 
+Bannister, R. J., Johnsen, I. A., Hansen, P. K., Kutti, T., & Asplin, L. (2016). Near- and far-
+field dispersal modelling of organic waste from Atlantic salmon aquaculture in fjord systems. 
+ICES Journal of Marine Science, 73, 9, 2408-2419. 
+ 
+3. 
+Codiga, D. L. (2021). Unified Tidal Analysis and Prediction Using the UTide Matlab 
+Functions. Technical Report 2011-01. Graduate School of Oceanography, University of 
+Rhode Island, Narragansett, RI. 59pp. 
+ 
+4. 
+Dewey, K. R. (2006). Users Guide to Mooring Design & Dynamics. A Matlab Package for 
+Designing and Analyzing Oceanographic Moorings and Towed Bodies. Centre for Earth and 
+Ocean Research, University of Victoria, BC, Canada. 
+ 
+5. 
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography. 
+Elsevier Science. 
+ 
+6. 
+Fiskeridirektoratet (2012). Veileder for utfylling av søknadsskjema for tillatelse til akvakultur 
+i flytende eller landbasert anlegg. Tilgjengelig: http://www.fiskeridir.no/Akvakultur/Registre-
+og-skjema/Skjema-akvakultur/Akvakultursoeknad 
+ 
+7. 
+IOC (1993). Manual of Quality Control Procedures for validation of Oceanographic Data. 
+Tilgjengelig: 
+http://www.iode.org/components/com_oe/oe.php?task=download&id=20423 
+&version=1st%20edition&lang=1&format=1 
+ 
+8. 
+Kartverket (2022). www.kartverket.no/sehavniva 
+ 
+9. 
+Mattilsynet (2016). Statens tilsyn for planter, fisk, dyr og næringsmidler, utgave 6.   
+Etableringssøknader – saksbehandling i tilsynet. Retningslinje til behandling av søknader etter 
+forskrift 17. juni 2008 nr. 823 om etablering og utvidelse av akvakulturanlegg, zoobutikker 
+m.m. 36s. 
+ 
+10. 
+Meteorologisk institutt (2022).  www.eklima.no 
+ 
+11. 
+NS 9415:2009. Flytende oppdrettsanlegg. Krav til lokalitetsundersøkelse, risikoanalyse, 
+utforming, dimensjonering, utførelse, montering og drift. Norsk Standard 2009: 101s. 
+ 
+12. 
+NS 9415:2021. Flytende akvakulturanlegg. Lokalitetsundersøkelse, prosjektering, utførelse 
+og bruk. Norsk Standard 2021: 127s. 
+ 
+13. 
+NS 9425-1:1999. Oseanografi – Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 
+6s. 
+ 
+14. 
+Åkerblå 
+(2015). 
+Strømklassifisering. 
+Åkerblå 
+AS-rapport: 
+Strøm- 
+Klassifisering-
+AanderaaPunktMåler-Okt2015, 2 sider.

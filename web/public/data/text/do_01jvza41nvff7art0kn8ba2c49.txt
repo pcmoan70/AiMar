@@ -1,0 +1,591 @@
+﻿Akvaplan-niva AS Rapport: 2021 62807.02   
+ 
+ 
+Nordlaks Oppdrett AS 
+Strømmålinger ved Sørvika (Hydra), 2021 
+ 
+ 
+ 
+Akvaplan-niva AS  
+Rådgivning og forskning innen miljø og akvakultur 
+Org.nr: NO 937 375 158 MVA 
+Framsenteret 
+9296 Tromsø 
+Tlf: 77 75 03 00 
+www.akvaplan.niva.no 
+ 
+Rapporttittel 
+Nordlaks Oppdrett AS. Strømmålinger ved Sørvika (Hydra), 13936, 2021   
+Forfatter(e) 
+ 
+Vegard Holen 
+ 
+Akvaplan-niva rapport nr 
+2021 62807.02   
+Dato 
+11/6/2021 
+Antall sider 
+21 (12 + vedlegg) 
+Distribusjon 
+Gjennom oppdragsgiver 
+Oppdragsgiver  
+Nordlaks Oppdrett AS 
+POSTBOKS 224 
+8455 STOKMARKNES 
+Oppdragsg. Referanse 
+Remi Mathisen 
+Sammendrag 
+Lokalitetsnr: 
+Lokalitetsnavn: 
+Kommune: 
+Fylke: 
+13936 
+Sørvika (Hydra)  
+Hadsel 
+Nordland 
+Kartkoordinater: 
+ 
+Måleperiode: 
+ 
+Feltarbeid utført av:  
+68°28.270 N  
+15°12.754 Ø  
+03.02.21-12.03.21 
+ 
+Vera Remen 
+Hovedresultater 
+Dybde 
+ 
+Maks. hastighet 
+(cm/s) 
+Gjennomsnitts-
+hastighet (cm/s) 
+Hovedretning 
+vanntransport (grader) 
+Temperaturgjennomsnitt 
+(°C) 
+55 meter 
+(spredningsstrøm) 
+24,4 
+6,9 
+210-240 
+4,8 
+59 meter 
+(bunnstrøm) 
+32,9 
+6,6 
+180 og 210 
+4,8 
+Prosjektleder 
+Kvalitetskontroll 
+ 
+ 
+ 
+Vera Remen 
+Stine Hermansen 
+© 2021 Akvaplan-niva AS. Rapporten kan kun kopieres i sin helhet. Kopiering av deler av rapporten 
+(tekstutsnitt, figurer, tabeller, konklusjoner, osv.) eller gjengivelse på annen måte, er kun tillatt etter 
+skriftlig samtykke fra Akvaplan-niva AS. 
+ 
+Akvaplan-niva 2021 62807.02   
+Side 4 av 21 
+INNHOLDSFORTEGNELSE 
+1 INNLEDNING ........................................................................................................................ 5 
+2 METODE ................................................................................................................................ 6 
+2.1 Utsett og opptak av målere ............................................................................................... 6 
+2.2 Plassering og dyp. ............................................................................................................. 6 
+2.3 Beskrivelse av rigg ........................................................................................................... 7 
+2.4 Strømmålinger .................................................................................................................. 7 
+3 RESULTATER ........................................................................................................................ 8 
+3.1 Strømmålinger .................................................................................................................. 8 
+3.2 Tidevannsstrøm ................................................................................................................ 8 
+3.3 Vindgenerert strøm ........................................................................................................... 9 
+3.4 Utbrudd av kyststrøm ....................................................................................................... 9 
+3.5 Vårflom og snø- og issmelting ......................................................................................... 9 
+3.6 Datakvalitet ....................................................................................................................... 9 
+4 INSTRUMENTBESKRIVELSE ........................................................................................... 11 
+5 LITTERATURLISTE ............................................................................................................ 12 
+6 VEDLEGG ............................................................................................................................ 13 
+6.1 Strømmålinger ................................................................................................................ 13 
+6.1.1 55 m dyp (spredningsstrøm). ................................................................................... 13 
+6.1.2 59 m dyp (bunnstrøm). ............................................................................................ 17 
+6.2 Riggskjema ..................................................................................................................... 21 
+ 
+ 
+ 
+Akvaplan-niva 2021 62807.02   
+Side 5 av 21 
+1 Innledning 
+Akvaplan-niva AS har på oppdrag fra Nordlaks Oppdrett AS foretatt strømmålinger på 
+lokalitet Sørvika (Hydra), Hadsel kommune i Nordland. Strømmålingene er utført for å 
+tilfredsstille de krav som stilles i Fiskeridirektoratets søknadsskjema Akvakultur i Flytende 
+anlegg (20.01.2012), samt de krav som stilles i NS 9415:2009 – Krav til lokalitetsundersøkelse, 
+risikoanalyse, utforming, dimensjonering, utførelse, montering og drift. På tidspunktet for 
+gjennomføringen av strømmålingene var det drift på anlegget omtrent 300 meter fra posisjonen 
+til strømmålerene. Akvaplan-Niva AS vurderer at dette ikke har påvirket hastighet eller retning 
+til strømmålingene. 
+ 
+Metodikk er i henhold til NS 9425 Oseanografi – Del 2. Strømmålinger vha. ADCP 
+ 
+Skjema for strømmålinger som skal brukes i akkreditert arbeid:   
+Henvisning  
+Forutsetninger  
+Status 
+NS 9415:2009 5.2.1  
+Posisjon for utsett er representativt for hele lokalitet  
+Ok 
+NS 9415:2009 5.2.1  
+Posisjon for antatt høyes strømhastighet på lokalitet  
+Ok 
+NS 9415:2009 5.2.1  
+Logging av strøm min hvert 10. minutt  
+Ok 
+NS 9415:2009 5.2.1  
+Tid, fart og retning er registret i hele perioden  
+Ok 
+NS 9415:2009 5.2.3  
+Måleperioden er på minimum 28 dager (en månefase)  
+Ok 
+NYTEK  
+Eksterne forhold som har påvirket målingene   
+Nei 
+APN Prosedyrer  
+Prosedyre for strømmålere og strømmålinger er fulgt  
+Ok 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 62807.02   
+Side 6 av 21 
+2 Metode  
+2.1 Utsett og opptak av målere  
+Målingene er satt ut og tatt opp av personell fra Akvaplan-niva AS (Se kap 6.1). 
+ 
+2.2 Plassering og dyp.  
+Strømmålerene var plassert i et område sørvest av anlegget som befinner seg på lokaliteten. 
+Målerene har befunnet seg i et dypområde (ca. 65 meter dypt) mellom grunnere områder i alle 
+retninger. Begrunnet i dybden ved posisjon for strømmålerriggene og planlagt anlegg ved 
+lokaliteten er spredningsstrøm og bunnstrøm målt på henholdsvis 55 og 59 meter. 
+ 
+Posisjon, måledyp, totalt dyp og intervall for målingene er angitt i Tabell 1 og plasseringen i 
+forhold til anlegget er illustrert i Figur 1.   
+  
+Tabell 1. Måledyp, posisjon, totalt dyp, målerperiode og –intervall for strømmålingene foretatt på 
+lokalitet Sørvika (Hydra).   
+Måledyp  
+55 og 59 meter  
+Posisjon  
+N68°28,270 
+Ø15°12,754 
+Dyp posisjon  
+65 meter 
+Dato måleserie  
+03.02.2021-
+05.03.2021 
+Reell målerperiode  
+30 døgn 
+Dato start - stopp  
+03.02.21-12.03.21  
+Registreringsavbrudd  
+Nei 
+Målerintervall  
+10 min 
+Navigasjonssystem  
+gps 
+Bestemmelse av dyp  
+Olex 
+  
+ 
+Akvaplan-niva 2021 62807.02   
+Side 7 av 21 
+  
+Figur 1. Plassering av strømmålerrigg (rødt flagg) i forhold til Sørvika (Hydra). 
+2.3 Beskrivelse av rigg  
+Strømmålerne er satt ut på en rigg med en profilerende strømmåler stående på 63 meters dyp 
+(vedlegg 6.2).  
+ 
+2.4 Strømmålinger  
+Strømmålingene er foretatt ved posisjon for et fremtidig anlegg og vurderes til å være 
+representative for anlegg plassert ved denne posisjonen. Kvalitetssikring av data og framstilling 
+av grafikk ble foretatt av Akvaplan-niva AS   
+  
+For å skille ut tidevannskomponenten av strømmen ble det foretatt en harmonisk analyse av 
+strømmen. Strømhastigheten ble først midlet over ½-time for å fjerne målestøy fra tidsserien 
+før analysen ble utført. Tidevannsestimatet og variansen til tidevann sammenlignet med 
+variansen til totalstrømmen er beregnet fra perioden 03.02.2021-10.03.2021.  
+  
+Resultatene fra den harmoniske analysen ble brukt til å reprodusere tidevannsbidraget i 
+måleserien ved hjelp av en tidevannsmodell (Codiga, 2011). Totalstrømmen er midlet over ½-
+time før variansellipsene estimeres, slik at variansen for de to komponentene er estimert på 
+samme grunnlag. Variansellipsene viser ett standardavvik av variansen til a) alle målingene 
+og b) den reproduserte tidevannskomponenten. Varians forklart kan estimeres fra 
+korrelasjonen (r) mellom totalstrøm og tidevannsstrøm og regnes ut fra formelen:   
+  
+Varians forklart = [korrelasjonskoeffesient(fart_tidevann, fart_totalstrom )]2.  
+  
+Dette gir et mål på hvor mye av den totale variansen som kan forklares ved estimerte 
+tidevannskomponenten. Det er viktig å notere seg at disse ellipsene ikke er en klassisk 
+tidevannsellipse men en variansellipse av tidevannskomponenten til strømmen, og videre at 
+tidevannet er estimert fra en modell og ikke faktiske målinger.  
+ 
+Akvaplan-niva 2021 62807.02   
+Side 8 av 21 
+3 Resultater  
+3.1 Strømmålinger  
+Resultatene fra strømmåling på 55 meters dyp (spredningsstrøm) viser at hovedstrømsretning 
+og massetransport av vann er definert mot sørvest (210-240 grader). Gjennomsnittlig 
+strømhastighet er 6,9 cm/s. 0,3 % av målingene er > 20 cm/s, 18,6 % av målingene er > 10 
+cm/s, 67,3 % av målingene er mellom 10 og 3 cm/s, 11,9 % av målingene er mellom 3 og 1 
+cm/s og 2,1 % av målingene er < 1 cm/s.  
+  
+Resultatene fra strømmåling på 59 meters dyp (bunnstrøm) viser at hovedstrømsretning og 
+massetransport 
+av 
+vann 
+er 
+definert 
+mot sør (180 grader) 
+og 
+sør-sørvest 
+(210 
+grader). Gjennomsnittlig strømhastighet er 6,6 cm/s. 0,7 % av målingene er > 20 cm/s, 18,3 % 
+av målingene er > 10 cm/s, 63,6 % av målingene er mellom 10 og 3 cm/s, 15,7 % av målingene 
+er mellom 3 og 1 cm/s og 2,3 % av målingene er < 1 cm/s.  
+  
+Maksimal strømhastighet i den målte perioden på  55 og 59 meter var hhv. 24,4 og 32,9 cm/s.  
+ 
+3.2 Tidevannsstrøm  
+I hovedsak er det meste av strøm i nordnorske fjorder styrt av tidevannsstrømmen. Men det 
+varierer sterkt hvor store de sykliske endringene er innenfor gitt tidsperiode (en 
+tidevannsperiode eller en månefase). Strømmålingene som er utført på lokaliteten viser at 
+tidevannskomponenten er liten i forhold til reststrømmen ved 55 og 59 meter. Tabell 
+2 viser resultater fra variansanalysen for 55 og 59 meters dyp. Variansforklart for tidevann er 
+et statistisk tall på hvor mye av den totale variansen i vannet som kan forklares ut fra 
+tidevannet.    
+  
+Tallene i Tabell 2 er forholdsvis små. Det estimerte tidevannet for strøm på 55 og 59 meter kan 
+forklare henholdsvis 22,2 % og 11,9 % i Ø-V-retning, og 17,7 % og 25,4 % i N-S-retning av 
+variabiliteten i strømmen på denne lokaliteten.  
+  
+Tabell 2. Varians forklart for tidevannskomponenten av varians i totalstrømmen (tall i prosent).  
+ 
+Dyp 
+ 
+Retning på 
+strømkomponent  
+55 m  
+59 m  
+Øst-Vest  
+22,2 %  
+11,9 %  
+Nord-Sør  
+17,7 %  
+25,4 %  
+  
+Resultatene i Tabell 2 gjenspeiles i Figur 2, hvor man ser at ellipsen til tidevannet er forholdsvis 
+liten sammenlignet med variansellipsen til totalstrømmen. Dette viser at tidevannet er en faktor 
+i strømbildet, men ikke dominerende ved måledypene i perioden.  
+ 
+  
+ 
+Akvaplan-niva 2021 62807.02   
+Side 9 av 21 
+ 
+ 
+Figur 2. Variansellipse for totalstrøm, tidevannsstrøm og reststrøm på 55 og 59 m.  Variansellipsen 
+viser størrelsen av ett standardavvik av variansen, både i retning og størrelse. Den blå kurven viser 
+variansellipsen til totalstrømmen og den røde kurven viser variansellipsen til tidevannskomponenten av 
+strømmen. Den sorte variansellipsen viser reststrømmen, dvs. den strømmen som ikke kan forklares av 
+tidevannet. Resultatene er estimert fra strømdata for måleperioden 03.02.2021-10.03.2021. Den grønne 
+pilen viser nettostrøm.  
+3.3 Vindgenerert strøm  
+Vindgenerert strøm vil i hovedsak gjøre seg gjeldende for resultater fra målinger på 5 meter da 
+vindpåvirkning i vannsøylen avtar med dyp. Ettersom det kun er gjennomført målinger ved 55 
+og 59 meters dyp, er det ikke gjennomført vurderinger av vindgeneret strøm. 
+ 
+3.4 Utbrudd av kyststrøm   
+Innblanding av kyststrøm kan sees som en plutselig endring i temperatur, retning og/eller 
+hastighet. Målingene viser at temperaturen jevnt har sunket fra 5,5°C til 4,2°C uten plutselige 
+endringer i temperatur. Resultatene indikerer liten til ingen påvirkning fra potensielle utbrudd 
+av kyststrømmen. 
+3.5 Vårflom og snø- og issmelting  
+Strømmålinger ble gjort i perioden februar-mars. I perioden februar-mars har lufttemperaturen 
+variert fra -10°C til +7°C uten lengre perioder med sammenhengende høy temperatur, dette er 
+en årstid hvor det vanligvis ikke forekommer vesentlige snø- og issmeltinger. Det er ingen 
+tydelige tegn på at ferskvannstilstrømming har påvirket målingene. 
+ 
+3.6 Datakvalitet   
+Resultatene fra strømmålingene analyseres i eget strømprogram, AdFontes. Gjennom AdFontes 
+gjøres det først en grovrens hvor alle punkter som ligger utenfor faste kriterier anbefalt av 
+produsent,  samt at alle datapunkter der trykksensoren har registrert målinger over 2 m fra 
+overflaten (instrument ikke vært i vann) fjernes fra dataserien. Data kvalitetssjekkes visuelt via 
+AdFontes.  Logg over renset data blir lagret hos Akvaplan-niva AS.  
+  
+Resultatene som presenteres er direkte overført fra rådata. Det utføres ingen reduksjon av støy 
+eller datakompresjon. Tidevannet er filtrert med ½-timers intervall.   
+ 
+Akvaplan-niva 2021 62807.02   
+Side 10 av 21 
+  
+Kalibrering av måler er gjennomført av Akvaplan-niva AS iht. leverandørs anbefaling. 
+Historikk over kalibrering lagres internt hos Akvaplan-niva AS.    
+  
+ 
+Akvaplan-niva 2021 62807.02   
+Side 11 av 21 
+4 Instrumentbeskrivelse  
+Strømmålingene er utført ved hjelp av instrumentene listet opp i Tabell 3. 
+Tabell 3. Instrumentbeskrivelse   
+Måledyp  
+55 m  
+59 m  
+Produsent  
+Nortek 
+Nortek 
+Modell  
+ Nortek profiler 
+Nortek profiler  
+Målerprinsipp  
+Profilerende  
+Profilerende  
+Serienr  
+ 31338 
+31338  
+Nøyaktighet  
+± 1 %  
+± 1 %  
+Oppløsning  
+0,5 mm/s  
+0,5 mm/s  
+Responsområde  
+0 – 3 m/s  
+0 – 3 m/s  
+Varighet 
+midlingsperiode  
+2,5 min  
+2,5 min  
+Antall 
+rådatamålinger 
+pr. aggregert 
+dataverdi  
+4  
+4  
+Modifikasjon  
+Ingen  
+Ingen  
+Kalibrering  
+APN-logg  
+APN-logg  
+Instrumentlogg  
+APN-logg  
+APN-logg  
+  
+ 
+Akvaplan-niva 2021 62807.02   
+Side 12 av 21 
+5 Litteraturliste  
+Codiga, D.L. Unified Tidal Analysis and Prediction Using the UTide Matlab Functions 
+(2011)  
+  
+Fiskeridirektoratet. Veileder søknadsutfylling. 20.01.2012. Veileder for utfylling av 
+søknadsskjema for tillatelse til akvakultur i flytende eller landbasert anlegg.  
+  
+NS 9415:2009. Krav til lokalitetsundersøkelse, risikoanalyse, utforming, dimensjonering, 
+utførelse, montering og drift.   
+   
+NS 9425-2. 2003. Oseanografi – Del 2. Strømmåling vha ADCP.   
+ 
+Akvaplan-niva 2021 62807.02   
+Side 13 av 21 
+6 Vedlegg  
+6.1 Strømmålinger  
+6.1.1 55 m dyp (spredningsstrøm). 
+Oppsummering av resultater for Sørvika (Hydra) på 55 meter dyp. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 62807.02   
+Side 14 av 21 
+  
+Strømstyrke og retningsfordeling. Totallengden på sektorene indikerer andel målinger (%) i respektive 
+retninger i løpet av måleperioden. Lengden på hvert fargesegment i hver sektor bestemmer videre den 
+relative andelen av målinger med korresponderende strømstyrke innenfor hver enkelt sektor.   
+ 
+ 
+  
+Strømretning vs. tid  
+ 
+  
+  
+Strømhastighet (tidsserieplott)  
+ 
+  
+  
+Retningshistogram  
+ 
+Akvaplan-niva 2021 62807.02   
+Side 15 av 21 
+ 
+  
+  
+Strømstyrkehistogram  
+ 
+  
+  
+Temperatur (instrumentdybde) 
+ 
+  
+  
+Estimert tidevannsstrøm i nord/sør-retning på 55 m dyp. Negative verdier indikerer strøm mot sør. 
+Rød kurve viser tidevannsstrøm og blå kurve viser reststrøm.  
+ 
+  
+  
+Estimert tidevannsstrøm i øst/vest-retning på 55 m dyp. Negative verdier indikerer strøm mot vest. Rød 
+kurve viser tidevannsstrøm og blå kurve viser reststrøm.  
+ 
+  
+ 
+Akvaplan-niva 2021 62807.02   
+Side 16 av 21 
+  
+Spredningsplott for registreringer hastighet vs. retning  
+ 
+Tabell som viser antall målinger, maks hastighet, total vanntransport og daglig vanntransport i de 
+ulike sektorene. 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 62807.02   
+Side 17 av 21 
+ 
+6.1.2 59 m dyp (bunnstrøm). 
+Oppsummering av resultater for Sørvika (Hydra) på 59 meter dyp. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 62807.02   
+Side 18 av 21 
+  
+Strømstyrke og retningsfordeling. Totallengden på sektorene indikerer andel målinger (%) i respektive 
+retninger i løpet av måleperioden. Lengden på hvert fargesegment i hver sektor bestemmer videre den 
+relative andelen av målinger med korresponderende strømstyrke innenfor hver enkelt sektor.   
+ 
+ 
+  
+Strømretning vs. tid  
+ 
+  
+  
+Strømhastighet (tidsserieplott)  
+ 
+  
+  
+Retningshistogram  
+ 
+Akvaplan-niva 2021 62807.02   
+Side 19 av 21 
+ 
+  
+  
+Strømstyrkehistogram  
+ 
+  
+  
+Temperatur (instrumentdybde) 
+ 
+  
+  
+Estimert tidevannsstrøm i nord/sør-retning på 59 m dyp. Negative verdier indikerer strøm mot sør. 
+Rød kurve viser tidevannsstrøm og blå kurve viser reststrøm.  
+ 
+  
+  
+Estimert tidevannsstrøm i øst/vest-retning på 59 m dyp. Negative verdier indikerer strøm mot vest. Rød 
+kurve viser tidevannsstrøm og blå kurve viser reststrøm.  
+ 
+  
+ 
+Akvaplan-niva 2021 62807.02   
+Side 20 av 21 
+  
+Spredningsplott for registreringer hastighet vs. retning  
+ 
+Tabell som viser antall målinger, maks hastighet, total vanntransport og daglig vanntransport i de 
+ulike sektorene. 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 62807.02   
+Side 21 av 21 
+ 
+6.2 Riggskjema

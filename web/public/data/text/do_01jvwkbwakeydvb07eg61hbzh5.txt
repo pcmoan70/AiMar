@@ -1,0 +1,108 @@
+﻿PROSESSBYGG
+Areal 30 000 m2
+Sprenging + 3,5
+Fylling + 6,0
+INNTAK
+UTSLIPP
+SJØVANNSSTASJON
+UTSLIPPS-
+KUM
+UTM Sone 35
+X 7839715.227
+Y 324663.202
+Z -66.3
+Bredde/Lengde
+N 70 36.0496580
+E 22 15.9569918
+Z -66.3
+TRASE FOR
+UTSLIPP
+L= 264 m
+1000 PE100 SDR 21
+TRASE FOR
+INNTAKSLEDNING
+FOR SJØVANN
+L= 468 m
+PA 800 PE100 SDR17
+VL 400 PE100 SDR17
+SL 630 PE100 SDR17
+SP 160 PE100 SDR17
+Grøft
+Grøft
+Grøft
+Grøft
+Grøft
+Kulvert under veg
+B
+B
+3/4
+3/20
+3/21
+3/24
+-70
+-65
+-60
+-55
+-50
+-45
+-40
+Område 2
+Areal 16 800 m2
+Sprenging + 5,5
+Fylling + 6,0
+Område 3
+Areal 8 500 m2
+Sprenging + 2,5
+Fylling + 3,0
+Slam-
+avskiller
+TRASE FOR
+INNTAKSLEDNING
+FERSKVANN
+TRASE FOR
+INNTAKSLEDNING
+FERSKVANN
+VL 400 PE100
+VL 400 PE100
+1000 PE100 SDR 26
+SL 630 PE100 SDR 17
+VL 400 PE100 SDR 17
+UTM Sone 35
+X 7839961.920
+Y 325090.479
+Z -44,5
+Bredde/Lengde
+N 70 36.1998002
+E 22 16.6152003
+Z -44.5
+UTM Sone 35
+X 7840275.241
+Y 324935.391
+Z  +6,0
+Bredde/Lengde
+N 70 36.3613091
+E 22 16.3255739
+Z  +6,0
+"X:\nor\oppdrag\Lakselv\521\02\52102443\BIM\VA_TI\\Z-100-B09 - 2022-01-05.dwg - AENii - Plottet: 2022-01-25, 18:02:4 - LAYOUT = Z150-B01-M3000-A3 - XREF = 19150-Hoyvika 0.5m Kotekart UTM35 NN2000 exp 12.08.2020, T_KART3D_kopi, Alt +6_endelig_ARK fil_REV-16.11.2021"
+Dette dokumentet er utarbeidet av Norconsult AS som del av det oppdraget som fremgår nedenfor. Opphavsretten tilhører Norconsult AS.
+Dokumentet må bare benyttes til det formål som oppdragsavtalen beskriver, og må ikke kopieres eller gjøres tilgjengelig på annen måte eller i større
+utstrekning enn formålet tilsier.
+Tegningsnummer
+Oppdragsnummer
+Revisjon
+Målestokk
+Koordinatpunkter for inntak, utslipp og prosessbygg
+1:3000/A3
+Nytt settefiskanlegg Finnmark
+Inntak sjøvann og utslipp
+Z150
+Cermaq Norge AS
+52102443
+(gjelder A1)
+B01
+B01
+2022-01-25
+Koordinater for inntaks- og utslippspunkter
+aenii
+tomat
+aenii

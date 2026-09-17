@@ -1,0 +1,3577 @@
+﻿Strømrapport 
+Måling av bunnstrøm ved 
+Kvalnes i 
+mai - juni 2021 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 2 av 45 
+Rapport 
+Rapportbeskrivelse 
+og -navn 
+Vurdering av strømforhold ved Kvalnes. 
+SR-0721-AS-Kvalnes-103193-01-001.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+13.07.21 
+Første utgivelse 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten 
+kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde 
+oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Kvalnes 
+Lokalitetsnummer 
+38897 
+Kommune  
+Andøy  
+Fylke 
+Nordland 
+Oppdragsgiver 
+Selskap 
+Andfjord Salmon AS; Havnegata 19A, 8400 SORTLAND, NORGE 
+Kontaktperson 
+Christine Thomassen 
+christine@andfjord.no 
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+Organisasjonsnummer: 916 763 816 
+Feltarbeidsansvarlig 
+Erik Schmidt Lindgaard 
+Oda Ravnås Waldeland 
+erik.lindgaard@akerbla.no    
+oda.waldeland@akerbla.no 
+Rapportansvarlig         Jenny-Lisa Reed                    
+jenny.lisa@akerbla.no 
+Kontrollert av   
+Astri Horge Glindø 
+astri.glindo@akerbla.no 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+Resultat nøkkeltall 
+Måledyp 
+Bunn (8m-avløp) 
+Bunn (23m-inntak) 
+Maksimal strøm (cm/s) (retning) 
+26.9 (N) 
+65.8 (S) 
+Gjennomsnittlig strøm (cm/s) 
+6.8 
+12.0 
+Strømstyrke < 1cm/s (%) 
+1.8 
+1.9 
+Strømstyrke < 3cm/s (%) 
+15.9 
+12.4 
+Strømstyrke < 10cm/s (%) 
+80.0 
+53.3 
+Strømstyrke ≥ 30cm/s (%) 
+0.0 
+5.7 
+Strømstyrke ≥ 50cm/s (%) 
+0.0 
+0.2 
+Neumann-parameter 
+0.3 
+0.2 
+10-års strøm (maksimal) 
+- 
+- 
+50-års strøm (maksimal) 
+- 
+- 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 3 av 45 
+Innholdsfortegnelse 
+ 
+1. 
+Forord .......................................................................................................................................... 5 
+2. 
+Områdebeskrivelse ..................................................................................................................... 6 
+3. 
+Metodikk ...................................................................................................................................... 7 
+4. 
+Resultater ..................................................................................................................................... 9 
+4.1 
+Sammendrag av strømdata ................................................................................................ 9 
+4.2 
+Strømroser ....................................................................................................................... 10 
+4.3 
+Matrise med strømhastighet og -retning ......................................................................... 11 
+4.4 
+Strømmens hastighetsfordeling ....................................................................................... 13 
+4.5 
+Strømmens retningsfordeling .......................................................................................... 13 
+4.6 
+Tidsdiagram – Strømhastighet ........................................................................................ 14 
+4.7 
+Tidsdiagram – Strømretning ........................................................................................... 14 
+4.8 
+Tidsdiagram – Temperatur .............................................................................................. 15 
+4.9 
+Progressivt vektordiagram .............................................................................................. 16 
+4.10 
+Fordelingsdiagram – Maksimal strømhastighet .............................................................. 17 
+4.11 
+Fordelingsdiagram – Gjennomsnittshastighet ................................................................. 17 
+4.12 
+Fordelingsdiagram – Relativ vannfluks .......................................................................... 18 
+4.13 
+Fordelingsdiagram – Antall observasjoner ..................................................................... 18 
+4.14 
+Maksimal strømhastighet i 8 retningssektorer ................................................................ 19 
+4.15 
+Gjennomsnittlig strømhastighet i 8 retningssektorer ...................................................... 19 
+4.16 
+Antall målinger i 8 retningssektorer ................................................................................ 19 
+4.17 
+Relativ vannutskiftning i 8 retningssektorer ................................................................... 19 
+4.18 
+Persentilfordeling av strømhastighet ............................................................................... 20 
+4.19 
+Prosentfordeling av strømhastighet ................................................................................. 20 
+4.20 
+Strømfordeling ................................................................................................................ 21 
+4.21 
+Strømvarighet .................................................................................................................. 23 
+4.22 
+Tidevannsanalyse ............................................................................................................ 24 
+4.23 
+CTD-profil....................................................................................................................... 26 
+5. 
+Diskusjon ................................................................................................................................... 27 
+5.1 
+Høye strømmålinger ........................................................................................................ 27 
+5.2 
+Tidevannspåvirkning ....................................................................................................... 27 
+5.3 
+Vannutskiftning ............................................................................................................... 27 
+5.4 
+Mulig spredning av utslipp.............................................................................................. 28 
+5.5 
+Vannsøylens vertikale struktur ........................................................................................ 28 
+6. 
+Vedlegg – Bakgrunnsinformasjon ........................................................................................... 29 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 4 av 45 
+6.1 
+Valg av sted, dyp og periode for strømmålinger ............................................................. 29 
+6.2 
+Spesifikasjoner for strøminstrumenter ............................................................................ 30 
+6.3 
+Måleprinsipp for strømmålinger ..................................................................................... 31 
+6.4 
+CTD-målinger ................................................................................................................. 31 
+7. 
+Vedlegg – Riggoppsett .............................................................................................................. 32 
+7.1 
+Riggoppsett ..................................................................................................................... 32 
+8. 
+Vedlegg – Databearbeiding og kvalitetssikring ...................................................................... 35 
+8.1 
+Databearbeiding .............................................................................................................. 35 
+8.2 
+Kvalitetssikring av data ................................................................................................... 37 
+8.3 
+Fjernede dataverdier ........................................................................................................ 40 
+8.3.1 
+Måleperiode ............................................................................................................... 40 
+8.3.2 
+Enkelte datapunkter.................................................................................................... 40 
+9. 
+Vedlegg – Strømmens tilstandsklasser .................................................................................... 41 
+10. Vedlegg – Månedlige tidevannsvariasjoner ............................................................................ 42 
+11. Vedlegg – Måleenheter ............................................................................................................. 43 
+12. Vedlegg – Parametere og beskrivelse ...................................................................................... 44 
+13. Vedlegg – Referanser ................................................................................................................ 45 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 5 av 45 
+1. Forord 
+ 
+Åkerblå AS har på oppdrag fra Andfjord Salmon utført strømmålinger ved avløps- og inntakspunkt 
+ved landbasert oppdrettslokalitet Kvalnes som er vurdert etter beliggenhet, strømforhold, temperatur, 
+vannutskiftning og tidevann. 
+ 
+Resultatene fra undersøkelsen gjelder for gitte prøvepunkt og på gitt tidspunkt hvor vurderingen av 
+strømforhold over området er vurdert på bakgrunn av resultatene. 
+ 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 6 av 45 
+2. Områdebeskrivelse 
+ 
+Målepunktene for Kvalnes ligger i Andøy kommune, Nordland (Figur 2.1). Kvalnes ligger i 
+Andfjorden på østsiden av Andøya. Bunntopografi er ca. 31m dyp ved inntakspunkt og orientert 
+N/NØ – S/SV i området. Bunntopografi er ca. 11m dyp ved avløpspunkt og er orientert N – S i 
+området. 
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonene, anvist med rød pinne. Kartet er hentet 
+fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 7 av 45 
+3. Metodikk 
+ 
+Strømmålinger er kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter som 
+ble benyttet er oppgitt i Tabell 3.1. Strømmen ble målt ved avløps- og inntakspunkt, hvor avstanden 
+mellom disse var ca. 290m. Målepunktet for avløpspunkt ble flyttet noe nord for avløpet (og dermed 
+planlagt plassering) grunnet mudringsbåt som arbeidet i området under måleperioden. Ut fra topografi 
+og bunntopografi er plasseringene vurdert som gode for å dokumentere strømforholdene i området 
+ved avløps- og inntakspunktene (Figur 3.1 - Figur 3.2Error! Reference source not found.). 
+Instrumentet på bunn-8m stoppet opp tidligere enn bunn-23m. Dette på grunn av flytting av riggen 
+20.06.21, hvor blåse og oppdriftskuler ble revet løs fra riggen og instrumentet trolig lå på bunnen. 
+ 
+Tabell 3.1. Bakgrunnsinformasjon om strømmålinger.  
+Måledyp 
+Bunn (8m-avløp) 
+Bunn (23m-inntak) 
+Posisjonsanvisning 
+ 
+ 
+Posisjon 
+69° 09.440' N; 016° 05.633' Ø 
+69° 09.305' N; 016° 05.841' Ø 
+Dyp på målested 
+11m 
+31m 
+Instrumenttype 
+Nortek punktmåler 
+Aanderaa punktmåler 
+Måleperiode 
+10.05.21 - 20.06.21 
+10.05.21 - 30.06.21 
+Måleintervall 
+10 minutter 
+10 minutter 
+Antall døgn 
+40.7 / 40.7 
+51.0 / 51.0 
+Manglende/fjernede 
+datapunkt 
+1 
+3 
+ 
+ 
+Figur 3.1. Plassering av strømmålerne i området anvist med gult og rødt kryss. Kartet er hentet fra 
+Fiskeridirektoratets kartverktøy Kartdatum: WGS84.  
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 8 av 45 
+ 
+Figur 3.2. Plassering av strømmålerne i området anvist med gult og rødt kryss. Kompasspila øverst i 
+venstre hjørne indikerer kartets orientering. Kartene er hentet fra Olex. Kartdatum: WGS84. 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 9 av 45 
+4. Resultater  
+ 
+4.1 
+Sammendrag av strømdata 
+ 
+Resultater per måledyp for hele måleperioden er sammenfattet i Tabell 4.1.1. Verdiene er klassifisert 
+(fargelagt) etter: «Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er 
+forklart i «Vedlegg – Parametere og beskrivelse». 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra bunndyp (8m) og bunndyp (23m). 
+Måledyp 
+Bunn (8m-avløp) 
+Bunn (23m-inntak) 
+Sjøtemperatur (°C) 
+5.5 - 9.7 
+5.2 - 9.8 
+Strømhastighet 
+Maksimum (cm/s) 
+26.9 
+65.8 
+Gjennomsnitt (cm/s) 
+6.8 
+12.0 
+Minimum (cm/s) 
+0.0 
+0.1 
+Signifikant maks (cm/s) 
+11.4 
+22.8 
+Signifikant min (cm/s) 
+2.9 
+3.7 
+Varians (cm/s)² 
+15.6 
+86.4 
+Standardavvik (cm/s) 
+3.9 
+9.3 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+1.8 
+1.9 
+Lengste periode < 1cm/s (min) 
+20 
+50 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+15.9 
+12.4 
+Lengste periode < 3cm/s (min) 
+100 
+240 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+80.0 
+53.3 
+Lengste periode < 10cm/s (min) 
+1820 
+1540 
+% ≥ 30cm/s 
+0.0 
+5.7 
+Lengste periode ≥ 30cm/s (min) 
+0 
+520 
+% ≥ 50cm/s 
+0.0 
+0.2 
+Lengste periode ≥ 50cm/s (min) 
+0 
+70 
+Effektiv transport 
+Hastighet (cm/s) 
+1.9 
+1.8 
+Retning (grader) 
+360 
+183 
+Neumann-parameter 
+0.3 
+0.2 
+Gjennomsnittlig vannforflytning (m³/m²/d) 
+5894 
+10359 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune 
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00 
+Side 10 av 45 
+4.2 
+Strømroser 
+Strømrosene viser strømhastighet og -retning under hele måleperioden. Strømrosene viser hvor stor 
+andel av målingene som er registrert for hver 10º-sektor, vist som prosentandel i figurene, og hvilken 
+strømhastighetsklasse som er registrert i de ulike sektorene. Strømroser gir en indikasjon på om 
+strømmen har en dominerende retning eller ikke. 
+Bunn (8m) 
+Bunn (23m) 
+Figur 4.2.1. Strømroser på bunndyp (8m) og bunndyp (23m). 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 11 av 45 
+4.3 
+Matrise med strømhastighet og -retning 
+ 
+Strømretninger er fordelt i 15º-sektorer (sektorene er vist i venstre kolonne). Den nederste linjen viser 
+den prosentvise fordelingen av de registrerte strømhastighetene. Kolonnen til høyre viser den 
+prosentvise fordelingen i de ulike 15º-sektorene og antall kubikkmeter vann som i måleperioden vil 
+passere et tenkt vindu på 1x1 meter i den aktuelle strømretningen. Kolonnen til høyre viser også 
+maksimal strømhastighet i hver 15º-sektor.    
+ 
+Hastighetsfordeling er ≥ (lavest verdi) og < (høyest verdi) i oppgitt hastighetsrekkevidde. 
+ 
+Tabell 4.3.1. Hastighets- og retningsmatrise av strømdata fra bunndyp (8m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-15 15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+9 
+52 
+106 
+421 
+346 
+100 
+20 
+2 
+0 
+0 
+0 
+0 
+0 
+1056 
+18.0 
+60575 
+25.3 
+26.9 
+N 
+15 
+4 
+36 
+81 
+209 
+165 
+57 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+560 
+9.6 
+30501 
+12.7 
+22.6 
+NØ 
+30 
+3 
+39 
+42 
+57 
+31 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+178 
+3.0 
+6796 
+2.8 
+20.1 
+NØ 
+45 
+5 
+29 
+28 
+14 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+78 
+1.3 
+1721 
+0.7 
+13.6 
+NØ 
+60 
+4 
+24 
+16 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+47 
+0.8 
+810 
+0.3 
+5.7 
+Ø 
+75 
+3 
+21 
+20 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+60 
+1.0 
+1372 
+0.6 
+8.5 
+Ø 
+90 
+10 
+21 
+26 
+11 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+68 
+1.2 
+1255 
+0.5 
+8.4 
+Ø 
+105 
+1 
+25 
+18 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+60 
+1.0 
+1285 
+0.5 
+6.6 
+SØ 
+120 
+9 
+30 
+38 
+41 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+120 
+2.0 
+3073 
+1.3 
+10.4 
+SØ 
+135 
+0 
+36 
+47 
+79 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+174 
+3.0 
+5722 
+2.4 
+14.3 
+SØ 
+150 
+3 
+30 
+73 
+138 
+44 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+290 
+4.9 
+11352 
+4.7 
+15.9 
+S 
+165 
+3 
+33 
+73 
+223 
+83 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+425 
+7.3 
+18882 
+7.9 
+19.5 
+S 
+180 
+7 
+25 
+80 
+258 
+74 
+8 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+453 
+7.7 
+19826 
+8.3 
+20.0 
+S 
+195 
+5 
+40 
+75 
+147 
+44 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+311 
+5.3 
+11863 
+4.9 
+13.7 
+SV 
+210 
+4 
+30 
+39 
+88 
+11 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+173 
+3.0 
+5934 
+2.5 
+15.1 
+SV 
+225 
+6 
+31 
+25 
+52 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+117 
+2.0 
+3268 
+1.4 
+12.0 
+SV 
+240 
+1 
+28 
+22 
+17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+68 
+1.2 
+1563 
+0.7 
+9.9 
+V 
+255 
+6 
+29 
+26 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+70 
+1.2 
+1315 
+0.5 
+7.0 
+V 
+270 
+6 
+26 
+45 
+17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+94 
+1.6 
+1994 
+0.8 
+9.2 
+V 
+285 
+3 
+40 
+34 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+93 
+1.6 
+1876 
+0.8 
+7.4 
+NV 
+300 
+8 
+51 
+50 
+39 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+148 
+2.5 
+3375 
+1.4 
+9.0 
+NV 
+315 
+3 
+52 
+80 
+65 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+200 
+3.4 
+5103 
+2.1 
+10.0 
+NV 
+330 
+2 
+41 
+103 
+168 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+327 
+5.6 
+10628 
+4.4 
+12.0 
+N 
+345 
+3 
+55 
+131 
+374 
+113 
+12 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+689 
+11.8 
+29734 
+12.4 
+20.7 
+Antall obs. 
+108 
+824 
+1278 
+2478 
+943 
+195 
+31 
+2 
+0 
+0 
+0 
+0 
+0 
+5860 
+100 
+0 
+0 
+0 
+% 
+1.8 
+14.1 
+21.8 
+42.3 
+16.1 
+3.3 
+0.5 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 12 av 45 
+Tabell 4.3.2. Hastighets- og retningsmatrise av strømdata fra bunndyp (23m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 >100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+5 
+39 
+82 
+181 
+91 
+20 
+3 
+3 
+0 
+0 
+0 
+0 
+0 
+424 
+5.8 
+19672 
+3.7 
+28.0 
+N 
+15 
+6 
+56 
+94 
+286 
+195 
+156 
+80 
+56 
+61 
+10 
+0 
+0 
+0 
+1000 
+13.6 
+81960 
+15.5 
+43.1 
+NØ 
+30 
+5 
+47 
+69 
+311 
+226 
+152 
+101 
+47 
+42 
+8 
+0 
+0 
+0 
+1008 
+13.7 
+80786 
+15.3 
+43.5 
+NØ 
+45 
+5 
+26 
+74 
+130 
+83 
+16 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+341 
+4.6 
+16333 
+3.1 
+29.6 
+NØ 
+60 
+3 
+20 
+39 
+43 
+11 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+118 
+1.6 
+4021 
+0.8 
+16.9 
+Ø 
+75 
+9 
+26 
+23 
+20 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+80 
+1.1 
+1791 
+0.3 
+12.4 
+Ø 
+90 
+4 
+27 
+17 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+58 
+0.8 
+1109 
+0.2 
+7.5 
+Ø 
+105 
+8 
+23 
+12 
+7 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+51 
+0.7 
+944 
+0.2 
+18.0 
+SØ 
+120 
+7 
+28 
+14 
+12 
+0 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+63 
+0.9 
+1427 
+0.3 
+28.8 
+SØ 
+135 
+3 
+21 
+22 
+18 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+65 
+0.9 
+1654 
+0.3 
+24.8 
+SØ 
+150 
+3 
+34 
+28 
+38 
+3 
+2 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+110 
+1.5 
+3471 
+0.7 
+26.6 
+S 
+165 
+9 
+35 
+32 
+70 
+44 
+14 
+3 
+2 
+0 
+0 
+0 
+0 
+0 
+209 
+2.8 
+9687 
+1.8 
+26.8 
+S 
+180 
+2 
+48 
+45 
+143 
+173 
+105 
+57 
+27 
+26 
+3 
+3 
+0 
+0 
+632 
+8.6 
+51008 
+9.7 
+65.8 
+S 
+195 
+7 
+44 
+55 
+236 
+195 
+249 
+189 195 182 
+46 
+15 
+0 
+0 
+1413 
+19.2 
+164703 
+31.2 
+61.9 
+SV 
+210 
+7 
+43 
+48 
+201 
+145 
+83 
+77 
+30 
+21 
+0 
+0 
+0 
+0 
+655 
+8.9 
+49539 
+9.4 
+37.8 
+SV 
+225 
+8 
+39 
+37 
+77 
+47 
+26 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+247 
+3.4 
+12597 
+2.4 
+24.3 
+SV 
+240 
+8 
+31 
+18 
+47 
+17 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+125 
+1.7 
+4484 
+0.8 
+18.8 
+V 
+255 
+3 
+35 
+25 
+20 
+9 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+94 
+1.3 
+2688 
+0.5 
+16.6 
+V 
+270 
+5 
+16 
+16 
+15 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+55 
+0.7 
+1489 
+0.3 
+13.9 
+V 
+285 
+7 
+15 
+13 
+16 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+53 
+0.7 
+1340 
+0.3 
+13.1 
+NV 
+300 
+7 
+21 
+18 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+62 
+0.8 
+1344 
+0.3 
+9.5 
+NV 
+315 
+6 
+31 
+22 
+27 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+90 
+1.2 
+2286 
+0.4 
+13.7 
+NV 
+330 
+6 
+30 
+37 
+67 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+149 
+2.0 
+4743 
+0.9 
+14.4 
+N 
+345 
+9 
+36 
+63 
+104 
+23 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+239 
+3.3 
+8599 
+1.6 
+21.8 
+Antall obs. 
+142 
+771 
+903 
+2095 
+1282 
+836 
+531 364 332 
+67 
+18 
+0 
+0 
+7341 
+100 
+0 
+0 
+0 
+% 
+1.9 
+10.5 12.3 
+28.5 
+17.5 
+11.4 
+7.2 
+5.0 
+4.5 
+0.9 0.2 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 13 av 45 
+4.4 
+Strømmens hastighetsfordeling 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning er oppgitt under. 
+ 
+ 
+ 
+Figur 4.4.1. Strømmens hastighetsfordeling på bunndyp (8m) og bunndyp (23m). Antall 
+observasjoner er indikert på stående akse og hastighetsgruppe på liggende akse. 
+ 
+ 
+4.5 
+Strømmens retningsfordeling 
+ 
+Strømmens retning fordelt i 15º-sektorer er oppgitt under. 
+ 
+ 
+ 
+Figur 4.5.1. Strømmens retningsfordeling på bunndyp (8m) og bunndyp (23m). Antall observasjoner 
+er indikert på stående akse og 15º-sektorer på liggende akse. 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 14 av 45 
+4.6 
+Tidsdiagram – Strømhastighet 
+ 
+Strømmens hastighet under måleperioden er oppgitt under. 
+ 
+ 
+ 
+Figur 4.6.1. Tidsdiagram av strømhastighet på bunndyp (8m) og bunndyp (23m). Strømhastighet er 
+indikert på stående akse og tid på liggende akse. 
+ 
+4.7 
+Tidsdiagram – Strømretning  
+ 
+Strømmens retning under måleperiode er oppgitt under. 
+ 
+ 
+ 
+Figur 4.7.1. Tidsdiagram av strømretning på bunndyp (8m) og bunndyp (23m). Strømretning på 
+stående akse og tid på liggende akse. 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 15 av 45 
+4.8 
+Tidsdiagram – Temperatur 
+ 
+Temperatur under måleperioden er oppgitt under. 
+ 
+ 
+ 
+Figur 4.8.1. Tidsdiagram av temperatur på bunndyp (8m) og bunndyp (23m). Temperatur er indikert 
+på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 16 av 45 
+4.9 
+Progressivt vektordiagram 
+ 
+Et progressivt vektordiagram viser hvor langt og hvordan en tenkt merket vannpartikkel som befinner 
+seg i strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperioden (Figur 4.9.1). 
+Dette gir en indikasjon på vannutskiftning under måleperioden.  
+ 
+ 
+Figur 4.9.1. Progressivt vektordiagram for strøm på bunndyp (8m) og bunndyp (23m).  
+ 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune 
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00 
+Side 17 av 45 
+4.10 Fordelingsdiagram – Maksimal strømhastighet 
+Bunn (8m) 
+Bunn (23m) 
+Figur 4.10.1. Fordelingsdiagram av maksimal strømhastighet (cm/s) for hver 15º-sektor på bunndyp 
+(8m) og bunndyp (23m) i løpet av måleperioden. 
+4.11 Fordelingsdiagram – Gjennomsnittshastighet 
+Bunn (8m) 
+Bunn (23m) 
+Figur 4.11.1. Fordelingsdiagram av gjennomsnittlig strømhastighet (cm/s) for hver 15º-sektor på 
+bunndyp (8m) og bunndyp (23m) i løpet av måleperioden. 
+Strømrapport: Kvalnes, Andøy kommune 
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00 
+Side 18 av 45 
+4.12 Fordelingsdiagram – Relativ vannfluks 
+Figuren viser relativ vannfluks (%) i hver 15-sektor. Relativ vannfluks angir mengden vann som 
+strømmer gjennom en retningssektor. Total vannfluks er totalt volum vann som strømmer gjennom 
+alle sektorer i løpet av måleperioden. 
+Bunn (8m) 
+Bunn (23m) 
+Figur 4.12.1. Fordelingsdiagram av relativ vannfluks (%) for hver 15º-sektor på bunndyp (8m) og 
+bunndyp (23m) i løpet av måleperioden. 
+4.13 Fordelingsdiagram – Antall observasjoner 
+Figuren viser hvor mange ganger strømretningen er observert i de ulike 15-sektorene i løpet av 
+måleperioden. 
+Bunn (8m) 
+Bunn (23m) 
+Figur 4.13.1. Fordelingsdiagram av antall observasjoner for hver 15º-sektor på bunndyp (8m) og 
+bunndyp (23m) i løpet av måleperioden. 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 19 av 45 
+4.14 Maksimal strømhastighet i 8 retningssektorer 
+Tabell 4.14.1. Maksimal strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Bunn (8m) 
+26.9 
+20.1 
+8.5 
+15.9 
+20.0 
+15.1 
+9.2 
+12.0 
+Bunn (23m) 
+43.1 
+43.5 
+18.0 
+28.8 
+65.8 
+37.8 
+16.6 
+14.4 
+ 
+ 
+4.15 Gjennomsnittlig strømhastighet i 8 retningssektorer 
+Tabell 4.15.1. Gjennomsnittlig strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Bunn (8m) 
+8.7 
+5.1 
+3.5 
+5.7 
+7.1 
+5.0 
+3.4 
+4.7 
+Bunn (23m) 
+9.5 
+11.5 
+3.4 
+4.6 
+16.7 
+10.8 
+4.6 
+4.6 
+ 
+ 
+4.16 Antall målinger i 8 retningssektorer 
+Tabell 4.16.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Bunn (8m) 
+2305 
+303 
+188 
+584 
+1189 
+358 
+257 
+675 
+Bunn (23m) 
+1663 
+1467 
+189 
+238 
+2254 
+1027 
+202 
+301 
+ 
+ 
+4.17 Relativ vannutskiftning i 8 retningssektorer 
+Tabell 4.17.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Bunn (8m) 
+50.4 
+3.9 
+1.6 
+8.4 
+21.1 
+4.5 
+2.2 
+8.0 
+Bunn (23m) 
+18.5 
+19.7 
+0.8 
+1.3 
+44.0 
+13.0 
+1.1 
+1.6 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 20 av 45 
+4.18 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt 
+strømhastighet (cm/s). 
+ 
+Tabell 4.18.1. Persentilfordeling av strømhastighet (cm/s) for hvert dyp.  
+Persentil 
+Bunn (8m) 
+Bunn (23m) 
+1 
+0.8 
+0.7 
+10 
+2.3 
+2.6 
+20 
+3.4 
+4.3 
+30 
+4.3 
+5.8 
+40 
+5.2 
+7.5 
+50 
+6.1 
+9.3 
+60 
+7.2 
+11.6 
+70 
+8.5 
+14.7 
+80 
+10.0 
+18.8 
+90 
+12.1 
+25.5 
+95 
+14.3 
+30.9 
+99 
+18.3 
+41.0 
+ 
+ 
+4.19 Prosentfordeling av strømhastighet 
+ 
+Oppgitte verdier i tabellen under er rundet av til nærmeste desimaltall for verdier over 0.1%, mens 
+verdier mellom 0.1% og 0.01% er rundet av til to desimaltall. Lave verdier (< 0.01%) er oppgitt som 
+0.0%. 
+ 
+Tabell 4.19.1. Prosent (%) av data per dyp som er lik eller høyere enn oppgitt strømhastighet (cm/s).  
+Strømhastighet (cm/s) 
+Bunn (8m) 
+Bunn (23m) 
+1 
+98.1 
+98.1 
+3 
+84.0 
+87.6 
+5 
+62.2 
+75.3 
+10 
+20.0 
+46.7 
+20 
+0.6 
+17.9 
+30 
+ 
+5.7 
+40 
+ 
+1.2 
+50 
+ 
+0.2 
+60 
+ 
+0.03 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 21 av 45 
+4.20 Strømfordeling 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike grupper av strømhastighet (cm/s), fordelt 
+i 8 retningssektorer. Strømhastighetsgruppene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. Oppgitte verdier er rundet av til 
+nærmeste desimaltall for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to 
+desimaltall. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.20.1. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(8m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.3 
+0.2 
+0.2 
+0.2 
+0.3 
+0.2 
+0.3 
+0.3 
+2.0 
+1-5 
+7.9 
+3.0 
+2.2 
+4.3 
+5.6 
+3.0 
+3.4 
+6.4 
+35.8 
+5-10 
+17.1 
+1.3 
+0.7 
+4.4 
+10.7 
+2.7 
+0.7 
+4.6 
+42.2 
+10-20 
+13.5 
+0.6 
+ 
+1.0 
+3.7 
+0.3 
+ 
+0.2 
+19.3 
+20-30 
+0.5 
+0.02 
+ 
+ 
+0.02 
+ 
+ 
+ 
+0.5 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+60-70 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+39.3 
+5.1 
+3.1 
+9.9 
+20.3 
+6.2 
+4.4 
+11.5 
+100.0 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 22 av 45 
+Tabell 4.20.2. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(23m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.3 
+0.2 
+0.3 
+0.2 
+0.2 
+0.3 
+0.2 
+0.3 
+2.0 
+1-5 
+5.0 
+3.7 
+1.7 
+2.0 
+3.5 
+2.9 
+1.6 
+2.2 
+22.6 
+5-10 
+7.8 
+6.6 
+0.5 
+0.9 
+6.1 
+4.4 
+0.7 
+1.5 
+28.5 
+10-20 
+6.6 
+6.7 
+0.04 
+0.08 
+10.6 
+4.4 
+0.2 
+0.2 
+28.8 
+20-30 
+1.9 
+2.1 
+ 
+0.05 
+6.4 
+1.6 
+ 
+ 
+12.0 
+30-40 
+0.8 
+0.6 
+ 
+ 
+2.8 
+0.3 
+ 
+ 
+4.5 
+40-50 
+0.1 
+0.1 
+ 
+ 
+0.7 
+ 
+ 
+ 
+0.9 
+50-60 
+ 
+ 
+ 
+ 
+0.2 
+ 
+ 
+ 
+0.2 
+60-70 
+ 
+ 
+ 
+ 
+0.03 
+ 
+ 
+ 
+0.03 
+Sum 
+22.5 
+20.0 
+2.5 
+3.2 
+30.5 
+13.9 
+2.7 
+4.2 
+100.0 
+ 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 23 av 45 
+4.21 Strømvarighet 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike intervaller av strømhastighet (cm/s) med 
+forskjellig varighet. Strømhastighetsintervallene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. De ulike gruppene av varighet er 
+oppdelt på samme måte som strømhastighetsintervallene. Oppgitte verdier er rundet av til nærmeste 
+desimaltall for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to desimaltall. 
+Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.21.1. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på bunndyp (8m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+1.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1-5 
+14.7 
+9.5 
+8.3 
+1.8 
+1.1 
+0.4 
+ 
+ 
+5-10 
+21.5 
+10.6 
+8.8 
+1.3 
+ 
+ 
+ 
+ 
+10-20 
+8.0 
+4.4 
+4.9 
+1.5 
+0.7 
+ 
+ 
+ 
+20-30 
+0.4 
+0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50-60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60-70 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabell 4.21.2. Prosent (%) av data i strømhastighetsintervaller med gitt varighet på bunndyp (23m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+1.7 
+0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+1-5 
+6.6 
+5.9 
+6.3 
+3.1 
+0.3 
+0.7 
+ 
+ 
+5-10 
+10.4 
+6.7 
+6.1 
+3.8 
+1.1 
+ 
+0.5 
+ 
+10-20 
+6.1 
+5.5 
+7.8 
+2.8 
+2.9 
+2.2 
+0.9 
+0.7 
+20-30 
+2.8 
+2.5 
+2.6 
+1.7 
+0.6 
+1.5 
+0.4 
+ 
+30-40 
+1.4 
+0.7 
+1.2 
+0.5 
+0.3 
+ 
+0.4 
+ 
+40-50 
+0.2 
+0.4 
+0.1 
+0.2 
+ 
+ 
+ 
+ 
+50-60 
+0.1 
+ 
+0.1 
+ 
+ 
+ 
+ 
+ 
+60-70 
+0.03 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 24 av 45 
+4.22 Tidevannsanalyse 
+ 
+En tidevannsanalyse av strømdata er gjennomført for å vurdere hvor stor andel av det målte signalet 
+som er forårsaket av tidevannet. Tidevannsanalysen er utført ved bruk av analyseverktøyet T_Tide 
+(Pawlowic, et al., 2002). 
+ 
+Tidevannsanalysen inkluderer alle separerbare tidevannskomponenter. Det er også foretatt en analyse 
+med fem separerbare tidevannskomponenter, M2 (12.42 timers periode), S2 (12.00 timers periode), 
+N2 (12.66 timers periode), O1 (25.82 timers periode) og K1 (23.93 timers periode), som benyttes i 
+forbindelse med tidevannstabeller. Tidevannskomponentenes periode forklarer hvor ofte de oppstår, 
+dvs. at M2, S2 og N2 oppstår omtrent to ganger daglig, mens O1 og K1 oppstår omtrent en gang per 
+dag. 
+ 
+Målt strøm er splittet i komponentene øst-vest (UEW) og nord-sør (VNS) for å vurdere spredning av 
+(variasjon i) strømdata på de forskjellige dypene (Emery & Thomson, 2001). Krysset markerer 
+gjennomsnittsverdien for hastighetskomponentene og reflekterer den effektive transporthastigheten 
+med tilhørende retning (Figur 4.22.1). Strømellipsens store halvakse (hovedakse) markerer retningen 
+der variasjonen er størst.  
+ 
+Tabell 4.22.1. Tidevannsbidrag til strøm basert på tidevannsanalyse av målte data. 
+Måledyp 
+Bunn (8m) 
+Bunn (23m) 
+Strøm (%) 
+21.0 
+23.5 
+ 
+Tabell 4.22.2. Tidevannsbidrag til strøm fra tidevannskomponentene M2, S2, N2, O1 og K1. 
+Måledyp 
+Bunn (8m) 
+Bunn (23m) 
+Strøm (%) 
+17.5 
+19.0 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 25 av 45 
+ 
+ 
+Figur 4.22.1. UEW – VNS punktdiagram med tilhørende strømellipse. Midtpunktet for strømellipsen er 
+markert med kryss som også markerer strømmens effektive transporthastighet. Vinklene indikerer 
+den store halvaksens orientering i forhold til nord/sør. Aksekors for øst – vest og nord – sør er vist 
+med stiplede linjer. 
+ 
+ 
+ 
+Figur 4.22.2. UEW – VNS tidevannsellipse (farget linje) vist sammen med strømellipsen (svart linje). 
+Midtpunktet for strømellipsene er markert med kryss som også markerer den effektive 
+transporthastigheten. Vinklene indikerer de store halvaksenes orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 26 av 45 
+4.23 CTD-profil  
+ 
+CTD-profil ble målt i sammenheng med utsett 10.05.2021 av strømmålere i samme posisjon som 
+strømriggene. Oksygenverdier fra CTD-målinger ved bunn-8m-avløpspunkt er vurdert som 
+feilverdier og er dermed ikke presentert her.  
+ 
+ 
+ 
+Figur 4.23.1. Vertikalprofiler av saltinnhold, temperatur, tetthet og oksygen. Dypet er oppgitt langs 
+y-aksen. 
+ 
+bunn-23m 
+bunn-8m 
+bunn-23m 
+bunn-8m 
+bunn-23m 
+bunn-8m 
+bunn-23m 
+bunn-23m 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 27 av 45 
+5. Diskusjon 
+ 
+Strømmen på Kvalnes er mot N – S på bunn-8m-avløpspunkt og mot N/NØ – S på bunn-23m-
+inntakspunkt. Strømretning stemmer med områdets bunntopografi. Strømretningen domineres av 
+motsatt rettede hovedstrømretninger. 71.5% av relativ vannutskiftning på bunn-8m-avløpspunkt og 
+82.2% på bunn-23m-inntakspunkt skjer langs hovedstrømretningene (Tabell 4.17.1). 
+ 
+5.1 
+Høye strømmålinger 
+ 
+Maksimal strømhastighet var 26.9cm/s mot N på bunndyp (8m) og 65.8cm/s mot S på bunndyp 
+(23m). Maksstrømmen er langs hovedstrømretning på begge dyp og er vurdert som sterk på bunndyp 
+(8m) og svært sterk på bunndyp (23m). Maksimalmålingen er bare én måling og gir ikke en indikasjon 
+av om strømmen er sterk eller svak i området. 
+ 
+Signifikant maksimal strømhastighet er gjennomsnittet av den høyeste tredjedelen av målingene og 
+gir en indikasjon av styrken på strømmen i området. Denne var 11.4cm/s på bunndyp (8m) og 
+22.8cm/s på bunndyp (23m). Signifikant maksimal strømhastighet er vurdert som sterk på bunndyp 
+(8m) og svært sterk på bunndyp (23m). 
+ 
+Det var tilfeller der strøm var > 30cm/s på bunndyp (23m). Høy strømhastighet oppstår stort sett jevnt 
+med tidevannssyklusen. 
+ 
+5.2 
+Tidevannspåvirkning 
+ 
+Tidevannssignalet dominerte ikke strømbildet under måleperioden, som er indikert ved at 
+tidevannsellipsen er mindre enn strømellipsen (Figur 4.22.2). 
+ 
+5.3 
+Vannutskiftning  
+ 
+Det er naturlig med strømstille når tidevannet skifter fra flo til fjære eller motsatt. Varigheten av 
+strømstille perioder kan ha betydning for vannutskiftning i et område. Neumann-parameteren sier noe 
+om stabiliteten til strømmen. En høy Neumann parameter (f.eks. 0.7) indikerer en retningsstabil 
+strøm. Dette tyder på at vannet strømmer i en retning og beveger seg konstant bort fra startpunktet. 
+En lav Neumann-parameter kan bety at vannstrømmen har skiftende retning og kanskje bare flyter 
+fram og tilbake ved startpunktet. Neumann-parameteren kan brukes opp mot progressivt 
+vektordiagram og gjennomsnittsstrømmen for å kunne si noe om vannutskiftningen ved det punktet 
+hvor strømmen er målt.  
+ 
+Gjennomsnittlig strømhastighet var ≥ 2cm/s på alle dyp. Gjennomsnittlig strømhastighet er vurdert 
+som sterk på bunndyp (8m) og som svært sterk på bunndyp (23m).  
+ 
+Neumann-parameteren er vurdert som middels stabil på bunndyp (8m) og bunndyp (23m). 
+Strømretninger og vannutskiftning stemmer med områdets bunntopografi. Vannutskiftningen på 
+bunndyp (8m og 23m) er vurdert som god i perioder, fordi vannet beveger seg bort fra startpunktet 
+og ikke bare flyter fram og tilbake. I andre, kortere perioder er vannutskiftningen vurdert som mindre 
+god, siden vannet flyter fram og tilbake ved samme punkt. 
+  
+Prosent nullmålinger (< 1cm/s) var mindre enn 10% på begge dyp. Lengst varighet for strøm < 1cm/s 
+var 20 minutter på bunndyp (8m) og 50 minutter på bunndyp (23m). Det var kort periode med 
+strømstille. Dette tyder på god vannutskiftning.  
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 28 av 45 
+5.4 
+Mulig spredning av utslipp 
+ 
+Dyp ved avløpspunktet var ca. 11m. Strømmåleposisjonen ligger over en flat bunn, hvor 
+bunntopografien er orientert N – S. Bunnen er litt grunnere ved måleposisjonen enn mot 
+inntaksposisjon mot øst. Det er ingen store groper i området. 
+ 
+Dyp ved inntakspunktet var ca. 31m. Strømmåleposisjonen ligger over en flat bunn, orientert 
+N/NØ – S, som skråner nedover mot Ø til ca. 500m midt i Andfjorden. Det er ingen store groper i 
+området. 
+ 
+5.5 
+Vannsøylens vertikale struktur 
+ 
+Vannsøylens stabilitet har vesentlig betydning for sirkulasjon i området og mulighet for blanding 
+vertikalt. En stabil vannsøyle har økende tetthet med økende dyp. Lagdeling i vannsøylen (forårsaket 
+forskjellige grunner, for eksempel; ferskvannsavrenning, avkjøling/oppvarming av overflatevann, 
+utveksling av vann ved bunn med kystvann) påvirker spredning av utslipp både horisontalt og 
+vertikalt. 
+ 
+Temperatur under måleperioden var 5.5 - 9.7°C på bunndyp (8m) og 5.2 - 9.8°C på bunndyp (23m). 
+Temperaturen var bare litt kaldere lenger øst på bunndyp (23m) enn på bunndyp (8m).  Begge 
+temperaturtidsseriene viser en økende trend i løpet av måleperioden, som er normal sesongvariasjon. 
+CTD-målinger ved utsett 10.05.21 viser at det var lik temperatur i hele vannsøylen. 
+ 
+Saltinnholdet var lik i hele vannsøylen ved utsett 10.05.21.  
+ 
+Tetthetsdata gjenspeiler saltinnholdet og viser at vannsøylen var blandet 10.05.21. 
+ 
+Oksygenmetningen ved på 10.05.21 var høy (> 90%) i hele vannsøylen. Oksygeninnholdet viser 
+lignende mønster som oksygenmetningen. 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 29 av 45 
+6. Vedlegg – Bakgrunnsinformasjon 
+ 
+6.1 
+Valg av sted, dyp og periode for strømmålinger 
+ 
+Valg av målested 
+ 
+Målingene er tatt for å måle strøm ved utslippspunkt og inntaksrør til landbasert anlegg.  
+ 
+Valg av måledyp 
+ 
+Bunnstrøm måles ca. 2m over bunn. 
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hvert 14.77 døgn, som er 
+tidevannssyklus for spring / nipp, er anbefalt minimum for måleperioden 30 dager.  
+ 
+Målingene ble gjort i samsvar med NS 9415:2009, der kravet er at målingene skal gjennomføres 
+sammenhengende i minst en måned.  
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 30 av 45 
+6.2 
+Spesifikasjoner for strøminstrumenter 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.2.1. Målerne registrerer strømhastighet, 
+strømretning og temperatur.   
+ 
+Tabell 6.2.1. Spesifikasjoner per strøminstrument. 
+Måledyp 
+Bunn (8m) 
+Bunn (23m) 
+Leverandør 
+Nortek AS 
+Aanderaa AS 
+Instrumenttype, modell 
+Aquadopp current meter (2MHz) 
+RCM Blue 5430 punktmåler 
+ID-nr. 
+6599 
+5259 
+Cellestørrelse 
+- 
+- 
+Kalibrering 
+Utført hos Nortek AS ved 
+levering av instrumentet. 
+Utført hos Aanderaa Data 
+Instruments ved levering av 
+instrumentet. 
+Strømhastighetens nøyaktighet 
+1% av målt verdi ±0.5cm/s 
+±0.15cm/s 
+Strømhastighetens rekkevidde 
+/ terskelverdi 
+0 til ±5m/s (vektor gjennomsnitt) 
+0 til 300cm/s (vektor 
+gjennomsnitt) 
+Strømretningens nøyaktighet 
+±2º for helning < 20º 
+±5º for 0-15º helning; ±7.5º for 
+15-35º helning 
+Kompassorientering 
+Magnetisk nord 
+Magnetisk nord 
+Kompass justert for 
+misvisning 
+Nei 
+Nei 
+Temperaturens nøyaktighet og 
+rekkevidde 
+0.1ºC, -4ºC til 40ºC 
+0.05ºC, -5ºC til 40ºC 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 31 av 45 
+6.3 
+Måleprinsipp for strømmålinger 
+ 
+Aanderaa punktmåler  
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Det sendes ut en kort lydpuls (akustisk puls) 
+med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de innkommende 
+refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende refleksjon er 
+proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet (vanligvis 
+zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at de derfor 
+beveger seg med samme hastighet som vannet. En punktmåler er satt opp for å måle strøm med én 
+datalogging i et intervall på 10 minutter, basert på 150 ping. 
+ 
+Tabell 6.3.1. Måleprinsipp for en Aanderaa punktmåler. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer samplingsperioder på 10 minutter. I løpet av denne perioden sender 
+instrumentet ut 150 ping. Ett datapunkt gir gjennomsnittet over en 10-minuttersperiode. 
+ 
+Nortek Aquadopp punktmåler 
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Instrumentet sender ut en kort lydpuls 
+(akustisk puls) med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de 
+innkommende refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende 
+refleksjon er proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet 
+(vanligvis zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at 
+de derfor beveger seg med samme hastighet som vannet. 
+ 
+Tabell 6.3.2. Måleprinsipp for Nortek punktmåler. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer aktive perioder innenfor en samplingsperiode på 10 minutter; måleren 
+pulserer i 1 minutt, etterfulgt av 9 minutters hvile i løpet av en 10-minutters samplingsperiode. Den 
+registrerte målingen hvert 10. minutt er gjennomsnittet av strømmålinger i løpet av det første minuttet 
+i samplingsperioden. 
+ 
+6.4 
+CTD-målinger 
+ 
+Hydrografimålinger ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden med 
+et påmontert lodd ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden gjør 
+én registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen ved senkning og en 
+ved heving. Profil ved senkning av sonden ble benyttet.  
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 32 av 45 
+7. Vedlegg – Riggoppsett 
+ 
+7.1 
+Riggoppsett 
+ 
+Riggoppsett for målt strøm er beskrevet i Tabell 7.1.1 - Tabell 7.1.2 og skissert i Figur 7.1.1 -
+Figur 7.1.2. 
+ 
+Tabell 7.1.1. Beskrivelse av riggoppsett for strømmålinger på bunndyp (8m), bunnreferert. 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+Garnanker 
+Bunnsikring 
+1stk 
+11.0m 
+40kg 
+Garnanker 
+Bunnsikring 
+1stk 
+11.0m 
+30kg 
+Danline 14mm 
+Tau 
+2.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+9.0m 
+ 
+Danline 14mm 
+Tau 
+7.0m 
+ 
+ 
+Jernstein 
+Lodd 
+1stk 
+ 
+2kg 
+Danline 14mm 
+Tau 
+5.0m 
+ 
+ 
+Trålkule 11" - 7.5kg oppdrift 
+Kule 
+1stk 
+0.0m 
+7.5kg 
+A2 - 35kg oppdrift 
+Blåse 
+1stk 
+0.0m 
+35kg 
+ 
+Tabell 7.1.2. Beskrivelse av riggoppsett for strømmålinger på bunndyp (23m), bunnreferert. 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+Garnanker 
+Bunnsikring 
+1stk 
+31.0m 
+40kg 
+Garnanker 
+Bunnsikring 
+1stk 
+31.0m 
+30kg 
+Danline 14mm 
+Tau 
+4.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+27.0m  
+Danline 14mm 
+Tau 
+30.0m 
+ 
+ 
+Jernstein 
+Lodd 
+2stk 
+7.0m 
+2kg 
+Danline 14mm 
+Tau 
+7.0m 
+ 
+ 
+Trålkule 11" - 7.5kg oppdrift 
+Kule 
+1stk 
+0.0m 
+7.5kg 
+A2 - 35kg oppdrift 
+Blåse 
+1stk 
+0.0m 
+35kg 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 33 av 45 
+ 
+Figur 7.1.1. Riggoppsett for strømmålinger på bunndyp (8m). 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 34 av 45 
+ 
+Figur 7.1.2. Riggoppsett for strømmålinger på bunndyp (23m). 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 35 av 45 
+8. Vedlegg – Databearbeiding og kvalitetssikring  
+ 
+Før utsett ble fysisk status til hvert instrument kontrollert. Kontrollsjekk inkluderer: batteristatus, 
+instrumentinnstilling, minnestatus og anoder. 
+ 
+Det benyttes et skjema som følger hver måler for teknisk dokumentasjon. Instrumenttilstand og 
+eventuelt andre kommentarer angående instrumentet oppføres i egen logg etter hvert prosjekt.  
+   
+Ved utsett av instrumenter benyttes eget riggskjema som inkluderer (etter NS 9425:1999): 
+lokalitetsnavn, riggoppsett, posisjon, måledyp, kontaktperson og oppdragsgiver, tidspunkt for utsett 
+og opptak, og et kommentarfelt for eventuelle observasjoner ved utsett og opptak.  
+ 
+Ved opptak blir måleinstrumentene undersøkt for begroing, annet som kan ha påvirket målingene, og 
+fysisk skade. Dette kommenteres på riggskjema og i rapporten, og mulig påvirkning for resultatet blir 
+vurdert. Verdier som er benyttet i rapporten er troverdige og uten behov for støyfiltrering eller annen 
+korreksjon. 
+ 
+Data er kvalitetssikret gjennom interne prosedyrer utviklet i samarbeid med instrumentenes produsent 
+etter bestemte kriterier. Dersom disse kriteriene ikke blir møtt er data kritisk vurdert. Enkeltstående 
+datapunkter blir også vurdert og data fjernes om nødvendig. Både rådata og kvalitetssikret data er 
+lagret på server. 
+ 
+8.1 
+Databearbeiding 
+ 
+Riggtilstand etter måling 
+ 
+Det var ingen begroing eller skade på instrumentene, og ingen data er vurdert som feil eller usikre på 
+grunn av dette. Datakvaliteten anses å være god. 
+ 
+Instrumentet på bunn-8m stoppet opp tidligere enn bunn-23m. Dette på grunn av flytting av riggen 
+20.06.21, hvor blåse og oppdriftskuler ble revet løs fra riggen og instrumentet trolig lå på bunnen. 
+ 
+Oksygenverdier fra CTD-målinger ved bunn-8m-avløpspunkt er vurdert som feilverdier. Det var 
+ingen skade på instrumentet, men data er vurdert feil mest sannsynlig på grunn av for lite tid i vannet 
+for sensor å stabilisere seg, og data er dermed ikke inkludert i rapport. 
+  
+Feil på instrument 
+ 
+Det var ingen feil på instrumentenes sensorer under måleperioden. Datakvaliteten anses å være god. 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 36 av 45 
+Tabell 8.1.1. Opplysninger om strømmålinger og databearbeiding. 
+Måledyp 
+Bunn (8m) 
+Bunn (23m) 
+Filnavn for rådata 
+Kvalnes 8m-avløp AS0721 NPM6599.aqd 
+Kvalnes 23m-inntak AS0621 AP5259.bin 
+Rådata først vurdert i 
+STORM - SeaReport 
+Aanderaa Data Studio 
+Filnavn for eksportert data 
+Kvalnes 8m-avløp AS0721 
+NPM6599_eks_JLR.xlsx 
+Kvalnes 23m-inntak AS0621 
+AP5259_eks_JLR.xlsx 
+Filnavn for kvalitetssikret data 
+Kvalnes-Bunn (8m)_QC.xlsx 
+Kvalnes-Bunn (23m)_QC.xlsx 
+Data return (%) 
+99.98 / 100.00 
+99.96 / 100.00 
+Antall målinger 
+5860 / 5861 
+7341 / 7344 
+Antall fjernede/manglende målinger 
+1 (se vedlegg 8.3) 
+3 (se vedlegg 8.3) 
+Ekstern påvirkning på målinger 
+Nei 
+Nei 
+Dato og tid for første og siste benyttede 
+strømmåling 
+10.05.21 18:33 - 20.06.21 11:13 
+10.05.21 14:50 - 30.06.21 14:40 
+Dato og tid for start og slutt av instrument 
+07.05.21 15:23 - 23.06.21 09:43 
+10.05.21 14:20 - 07.07.21 11:10 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 37 av 45 
+8.2 
+Kvalitetssikring av data 
+ 
+Data er kvalitetssikret etter bestemte kriterier (Tabell 8.2.1). Dersom disse kriteriene ikke blir møtt er 
+data kritisk vurdert. Utstikkere blir også vurdert og data fjernet om nødvendig.  
+ 
+Tabell 8.2.1. Kriterier brukt for å kvalitetssikre data. 
+Parameter 
+QC  
+Temperatur 
+Manuell sjekk av data for stabil temp (∆ < 1℃)  
+Helning 
+< 50º (Figur 8.2.1 – Figur 8.2.2) – Aanderaa punktmåler 
+< 20-30º (Figur 8.2.1 – Figur 8.2.2) – Nortek instrumenter 
+Ping count 
+150 (Figur 8.2.1 – Figur 8.2.2) – Aanderaa punktmåler 
+Trykk 
+Stabilt (Figur 8.2.1 – Figur 8.2.2)  
+Strømhastighet 
+Stabil (ingen store endringer fra en måling til neste måling, Tabell 8.2.2).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+Retning 
+Stabil (ingen store endringer fra en måling til neste måling).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+ 
+Tabell 8.2.2. Teoretiske forskjeller i strømhastighet fra en måling til det neste (IOC, 1993). 
+∆t (min) 
+Teoretisk 
+Faktor 
+Godkjent 
+ 
+u1 – u2 (m/s) 
+ 
+u1 – u2 (m/s) 
+5 
+0.0422 u 
+2.0 
+0.08 
+10 
+0.0843 u 
+1.8 
+0.15 
+15 
+0.1264 u 
+1.6 
+0.20 
+20 
+0.1685 u 
+1.5 
+0.25 
+30 
+0.2523 u 
+1.4 
+0.35 
+60 
+0.5001 u 
+1.2 
+0.60 
+ 
+Tabell 8.2.2 gir teoretiske forskjeller mellom to suksessive målinger av strømhastighet, u1 og u2, for 
+forskjellige måleintervall, Δt (IOC,1993). For å tillate noe naturlig variabilitet i strømhastighet 
+og -retning (inkludert usymmetriske hastighetskurver for tidevannsstrøm) har de teoretiske 
+forskjellene blitt hevet med de oppgitte faktorene, mens strøm (u) er satt til 1m/s ettersom variabilitet 
+øker med avtagende strøm. 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 38 av 45 
+ 
+ 
+Figur 8.2.1. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunndyp (8m).  
+ 
+Instrumentdypet varierte mellom 5.4m og 8.8m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 7.5m. Instrumentet flyttet litt dypere 20.05.21, men dette skjedde gradvis i løpet 
+av flere timer. På 18.06.21 ble riggen dratt opp bratt fra 7.3m til 5.5m fra en måling til det neste.  
+Fra 10.05.21 til 19.05.21 varierte instrumentdypet mellom 5.9m og 7.6m, med snittdyp 6.7m. 
+Fra 21.05.21 til 20.06.21 varierte instrumentdypet mellom 5.4m og 8.8m, med snittdyp 7.7m. 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 39 av 45 
+ 
+ 
+Figur 8.2.2. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunndyp (23m).  
+ 
+Instrumentdypet varierte mellom 20.5m og 27.0m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 23.4m. Instrumentet ble flyttet litt under måleperioden, både dypere og 
+grunnere. 
+Fra 10.05.21 til 03.06.21 varierte instrumentdypet mellom 22.3m og 26.1m, med snittdyp 23.6m. 
+Fra 03.06.21 til 14.06.21 varierte instrumentdypet mellom 24.5m og 27.0m, med snittdyp 25.4m. 
+Fra 14.06.21 til 30.06.21 varierte instrumentdypet mellom 20.5m og 23.2m, med snittdyp 21.6m. 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 40 av 45 
+8.3 
+Fjernede dataverdier  
+ 
+8.3.1 Måleperiode 
+ 
+Data er fjernet utenfor måleperioden. 
+ 
+8.3.2 Enkelte datapunkter 
+ 
+1 datapunkt er fjernet på bunn-8m i sammenheng med flytting av riggen 18.06.21. 
+ 
+3 datapunkter totalt er fjernet på bunn-23m i sammenheng med flytting av riggen 03.06.21 og 
+14.06.21. 
+ 
+ 
+Merknad 
+ 
+Selv om strømriggene ble flyttet under måleperioden er data vurdert representativ for strøm på 
+bunnen. 
+ 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 41 av 45 
+9. Vedlegg – Strømmens tilstandsklasser 
+ 
+Tilstandsklasser for strømparametere er oppgitt i Tabell 9.1. Verdiene er hentet fra strømdata målt av 
+Åkerblå ved bruk av Aanderaa punkmålere (Åkerblå, 2015). 
+ 
+Tabell 9.1. Tilstandsklasser for vurdering av strømdata. 
+ 
+Dyp 
+(m) 
+1 
+2 
+3 
+4 
+5 
+Maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 55 
+≥ 40 - < 55 
+≥ 26 - < 40 
+≥ 15 - < 26 
+< 15 
+Utskifting 15 
+≥ 45 
+≥ 30 - < 45 
+≥ 20 - < 30 
+≥ 10 - < 20 
+< 10 
+Spredning  
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Bunn 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Gjennomsnittlig strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 10 
+≥ 7 - < 10 
+≥ 6 - < 7 
+≥ 3 - < 6 
+< 3 
+Utskifting 15 
+≥ 9 
+≥ 6 - < 9 
+≥ 5 - < 6 
+≥ 2 - < 5 
+< 2 
+Spredning  
+≥ 8.5 
+≥ 5 - < 8.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Bunn 
+ 
+≥ 7.5 
+≥ 5 - < 7.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Signifikant maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 25 
+≥ 17 - < 25 
+≥ 11 - < 17 
+≥ 5 - < 11 
+< 5 
+Utskifting 15 
+≥ 23 
+≥ 15 - < 23 
+≥ 8 - < 15 
+≥ 4 - < 8 
+< 4 
+Spredning  
+≥ 20 
+≥ 14 - < 20 
+≥ 7 - < 14 
+≥ 4 - < 7 
+< 4 
+Bunn 
+ 
+≥ 16 
+≥ 11 - < 16 
+≥ 6.5 - < 11 
+≥ 3 - < 6.5 
+< 3 
+Signifikant minimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 6 
+≥ 4 - < 6 
+≥ 2.5 - < 4 
+≥ 1.5 - < 2.5 
+< 1.5 
+Utskifting 15 
+≥ 5 
+≥ 3.5 - < 5 
+≥ 2.3 - < 3.5 
+≥ 1.5 - < 2.3 
+< 1.5 
+Spredning  
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Bunn 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Andel strømstille (%) < 1cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 1 
+< 3 - ≥ 1 
+< 5 - ≥ 3 
+< 7 - ≥ 5 
+≥ 7 
+Utskifting 15 
+< 1 
+< 5 - ≥ 1 
+< 7 - ≥ 5 
+< 10 - ≥ 7 
+≥ 10 
+Spredning  
+< 3 
+< 8.5 - ≥ 3 
+< 15 - ≥ 8.5 
+< 20 - ≥ 15 
+≥ 20 
+Bunn 
+ 
+< 3 
+< 10 - ≥ 3 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Andel strømstille (%) < 3cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 5 
+< 10 - ≥ 5 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Utskifting 15 
+< 5 
+< 15 - ≥ 5 
+< 25 - ≥ 15 
+< 40 - ≥ 25 
+≥ 40 
+Spredning  
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 50 - ≥ 35 
+≥ 50 
+Bunn 
+ 
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 60 - ≥ 35 
+≥ 60 
+Effektiv transport (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 5 
+≥ 2.5 - < 5 
+≥ 1.5 - < 2.5 
+≥ 0.3 - < 1.5 
+< 0.3 
+Utskifting 15 
+≥ 3.5 
+≥ 2 - < 3.5 
+≥ 1 - < 2 
+≥ 0.2 - < 1 
+< 0.2 
+Spredning  
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Bunn 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Neumann-parameter 
+ 
+svært stabil 
+stabil 
+middels stabil 
+lite stabil 
+svært lite stabil 
+Alle dyp (m) 
+> 0.6 
+0.4 - 0.6 
+0.2 - 0.4 
+0.1 - 0.2 
+< 0.1 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 42 av 45 
+10. Vedlegg – Månedlige tidevannsvariasjoner 
+ 
+Strømmålinger er påvirket av blant annet tidevannsstrøm og kan bli påvirket av vind og vær. Månedlige tidevannsvariasjoner er vist i figuren under.    
+ 
+ 
+Figur 10.1. Månedlige tidevannsvariasjoner hvor stolpehøyde angir relativ tidevannsstrøm og stolpefarge indikerer månefaser (oransje – siste kvarter; 
+rød – nymåne; brun – første kvarter; grønn - fullmåne). 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 43 av 45 
+11. Vedlegg – Måleenheter 
+ 
+Alle måleenheter brukt i rapporten er beskrevet i tabellen under. 
+ 
+Tabell 11.1. Måleenheter brukt i rapporten. 
+Beskrivelse 
+Måleenhet 
+Dag og Tid 
+Tidsstempel i tidsserier er gitt ved midnatt, slik 
+at tidsserier starter midnatt før første målepunkt 
+og slutter midnatt etter siste målepunkt. 
+dd.mm.yy hh:mm (UTC) 
+dd.mm (UTC) 
+dd.mm.yyyy hh (UTC) 
+Høyde / Dybde 
+Meter (m) 
+Avstand  
+Kilometer (km) 
+Meter (m) 
+Posisjon / Koordinater 
+Posisjon er oppgitt i koordinatsystemet WGS64 
+(World Geodetic System 1984). 
+GGG (º) MM.MM (') 
+Strømretning (mot) 
+Grader (º) 
+Strømhastighet  
+Centimeter per sekund (cm/s) 
+Vindhastighet 
+Meter per sekund (m/s) 
+Vindretning (fra) 
+Grader (º) 
+Tidevannsnivå 
+Centimeter (cm) 
+Temperatur 
+Grader celsius (℃) 
+Helning 
+Grader (º) 
+Ping Count 
+Antall 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 44 av 45 
+12. Vedlegg – Parametere og beskrivelse 
+ 
+Tabell 12.1. Parametere brukt i rapporten og beskrivelse av disse. 
+Parameter 
+Beskrivelse 
+Sjøtemperatur (℃) 
+Temperatur i vannet målt ved måledyp 
+Strømhastighet 
+Maksimum (cm/s) 
+Høyeste verdi av alle data 
+Gjennomsnitt (cm/s) 
+Matematisk gjennomsnittlig verdi av alle data 
+Minimum (cm/s) 
+Laveste verdi av alle data 
+Signifikant maks (cm/s)  Matematisk gjennomsnitt av høyeste 1/3 av data 
+Signifikant min (cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av data 
+Varians (cm/s)2 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+om data varierte mye mellom suksessivt høye og lave verdier. En høy 
+varians indikerer at datapunkter er meget spredt ut rundt 
+gjennomsnittsverdien, mens en lav varians indikerer at datapunkter er 
+veldig nær gjennomsnittsverdien og derfor også hverandre. 
+Varians 
+= 
+Gjennomsnittet 
+av 
+de 
+kvadrerte 
+forskjeller 
+fra 
+gjennomsnittsverdien. 
+Standardavvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+gjennomsnittlig avstand fra gjennomsnittsverdi. Et høyt standardavvik 
+indikerer stor spredning av data.   
+Standardavvik = kvadratrot (varians). 
+% < x cm/s  
+Mengden strøm med strømhastighet < x cm/s  
+Lengst periode < x cm/s Varighet av lengste periode med strømhastighet < x cm/s 
+Effektiv transport 
+Hastighet (cm/s) 
+Hastighet er en funksjon av posisjon og tid. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, da er effektiv hastighet gitt som den rettlinjede avstanden 
+mellom partikkelens start- og sluttposisjon delt på total tid i 
+måleperioden.   
+Retning (grader) 
+Retning er vinkelen til en linje ut fra origo. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, er resultatretning eller retning av effektiv transport gitt 
+som vinkelen fra partikkelens startposisjon til partikkelens posisjon ved 
+måleperiodens slutt. 
+Neumann-parameter 
+Verdi som indikerer stabiliteten til strømmen. Neumann-parameteren 
+beregnes ut fra forholdet mellom den rettlinjede avstanden mellom en 
+tenkt drivende partikkels start- og sluttposisjon, og partikkelens totale 
+bane i løpet av måleperioden. Stabil strøm (høy Neumann-parameter) 
+betyr at vannet strømmer i «en» retning og beveger seg bort fra 
+startpunktet hele tiden. Ustabil strøm (lav Neumann-parameter) betyr at 
+vannet strømmer i ulike retninger og kanskje bare flyter fram og tilbake 
+ved startpunktet.  For eksempel, en Neumann-parameter på 0.7 betyr at 
+strømmen i løpet av måleperioden strømmer med 70% stabilitet i en 
+bestemt retning. Dette er klassifisert som svært stabil strøm.   
+Vannforflytning 
+(m3/m2/d) 
+Mengden vann som strømmer gjennom en tenkt flate på 1 m2 i løpet av 
+et døgn.  
+Strømrapport: Kvalnes, Andøy kommune  
+Åkerblå AS 
+Intern dok. id. B.5.1.10/7.00  
+Side 45 av 45 
+13. Vedlegg – Referanser 
+ 
+1. 
+Brukerveiledning. Aanderaa RCM Blue punktmåler og Nortek Aquadopp punktmåler. 
+ 
+2. 
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography. 
+Elsevier Science. 
+ 
+3. 
+IOC (1993). Manual of Quality Control Procedures for validation of Oceanographic Data. 
+Tilgjengelig: 
+http://www.iode.org/components/com_oe/oe.php?task=download&id=20423 
+&version=1st%20edition&lang=1&format=1 
+ 
+4. 
+NS 9415:2009. Flytende oppdrettsanlegg. Krav til lokalitetsundersøkelse, risikoanalyse, 
+utforming, dimensjonering, utførelse, montering og drift. Norsk Standard 2009: 101s. 
+ 
+5. 
+NS 9425-1:1999. Oseanografi – Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 
+6s. 
+ 
+6. 
+Pawlowicz, R., Beardsley, B. & Lentz, S. (2002). Classical tidal harmonic analysis including 
+error estimates in MATLAB using T_TIDE. Computers & Geosciences, 28, 929-937. 
+ 
+7. 
+Åkerblå 
+(2015). 
+Strømklassifisering. 
+Åkerblå 
+AS-rapport: 
+Strøm- 
+Klassifisering-
+AanderaaPunktMåler-Okt2015, 2 sider.

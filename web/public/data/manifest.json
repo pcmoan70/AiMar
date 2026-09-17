@@ -20,15 +20,6 @@
       "featureCount": 1367
     },
     {
-      "file": "cases.json",
-      "organisation": "eInnsyn (Digitaliseringsdirektoratet)",
-      "dataset": "Public-record journal entries on aquaculture cases matched to localities (2023-09-01 onwards)",
-      "url": "https://api.einnsyn.no/search?query=akvakultur",
-      "license": "NLOD 2.0",
-      "featureCount": 48454,
-      "retrieved": "2026-09-14T21:49:50.488Z"
-    },
-    {
       "file": "deleted_localities.geojson",
       "organisation": "Fiskeridirektoratet",
       "dataset": "Deleted (withdrawn) aquaculture localities from Akvakulturregisteret, with their register entry",
@@ -74,13 +65,22 @@
       "retrieved": "2026-09-16T08:06:01.137Z"
     },
     {
+      "file": "cases.json",
+      "organisation": "eInnsyn (Digitaliseringsdirektoratet)",
+      "dataset": "Public-record journal entries on aquaculture cases matched to localities (2010-01-01 onwards)",
+      "url": "https://api.einnsyn.no/search?query=akvakultur",
+      "license": "NLOD 2.0",
+      "featureCount": 134176,
+      "retrieved": "2026-09-16T11:44:36.670Z"
+    },
+    {
       "file": "current_measurements.geojson",
       "organisation": "eInnsyn (report authors: Åkerblå, Akvaplan-niva and others)",
       "dataset": "Measured current speed and direction read out of NS 9425 survey reports published on eInnsyn",
       "url": "https://api.einnsyn.no/search?query=str%C3%B8mm%C3%A5ling",
       "license": "NLOD 2.0",
-      "featureCount": 24,
-      "retrieved": "2026-09-16T09:43:35.062Z"
+      "featureCount": 65,
+      "retrieved": "2026-09-17T01:33:44.202Z"
     }
   ]
 }

@@ -1,0 +1,3426 @@
+﻿Akvaplan-niva AS Rapport: 2021 62508.03     
+ 
+ 
+Nordlaks Oppdrett AS 
+C-undersøkelse ved Grønnstranda, 2021. 
+Ny lokalitet 
+ 
+ 
+Blank side
+Akvaplan-niva AS  
+Rådgivning og forskning innen miljø og akvakultur 
+Org.nr: NO 937 375 158 MVA 
+Framsenteret, Postboks 6066 Langnes, 9296 Tromsø 
+Tlf: 77 75 03 00 
+www.akvaplan.niva.no 
+ 
+Rapporttittel / Report title 
+Nordlaks Oppdrett AS. C-undersøkelse ved Grønnstranda, 2021. Ny lokalitet.   
+Forfatter(e) 
+Hans-Petter Mannvik 
+Vera Remen 
+ 
+Akvaplan-niva Rapport  
+2021 62508.03     
+Dato  
+19.02.2021 
+Antall sider  
+36 
+Distribusjon  
+Gjennom oppdragsgiver 
+Oppdragsgiver  
+Nordlaks Oppdrett AS 
+Industriveien 14 
+8455 Stokmarknes 
+Oppdragsg. referanse  
+Remi Mathisen 
+Sammendrag  
+Resultatene fra miljøundersøkelsen ved oppdrettslokaliteten Grønnstranda i 2021 viste at faunaen var lite 
+eller ikke påvirket og i tilstandsklasse II "God" på C4 og klasse I "Svært god" på de andre stasjonene. NS 
+9410:2016-vurdering av samfunnet i anleggssonen viste miljøtilstand 1 (Meget god). Det ble ikke registrert 
+forurensningsindikatorer blant topp-10 på noen av stasjonene. Blant støtteparameterne var ikke sedimentene 
+belastet med organisk karbon og i klasse II "God" på stasjon Cref og klasse I "Svært god" på de andre 
+stasjonene. Kobberkonsentrasjonen var lav på C1 og i klasse I "Svært god". Oksygenmetningen i bunnvannet 
+i januar var litt lav med 66 %. 
+Prosjektleder  
+Kvalitetskontroll  
+ 
+ 
+ 
+Vera Remen 
+ 
+© 2021 Akvaplan-niva AS. Rapporten kan kun kopieres i sin helhet. Kopiering av deler av rapporten 
+(tekstutsnitt, figurer, tabeller, konklusjoner, osv.) eller gjengivelse på annen måte, er kun tillatt 
+etter skriftlig samtykke fra Akvaplan-niva AS. 
+Digitally signed by 
+Roger Velvin 
+Date: 2021.02.19 
+10:59:16 +01'00'
+ 
+Akvaplan-niva 2021 62508.03     
+Side 4 av 36 
+INNHOLDSFORTEGNELSE 
+FORORD .................................................................................................................................... 5 
+1 OPPSUMMERINGSTABELL C-UNDERSØKELSE ........................................................... 6 
+1.1 Oppsummering av C-undersøkelse ................................................................................... 6 
+2 INNLEDNING ........................................................................................................................ 7 
+2.1 Bakgrunn og formål .......................................................................................................... 7 
+2.2 Drift og fôrforbruk ............................................................................................................ 7 
+2.3 Tidligere undersøkelser .................................................................................................... 7 
+3 MATERIALE OG METODE .................................................................................................. 8 
+3.1 Faglig program ................................................................................................................. 8 
+3.2 Resipientbeskrivelse og stasjonsplassering ...................................................................... 8 
+3.3 Hydrografi og oksygen ..................................................................................................... 9 
+3.4 Sedimentundersøkelse .................................................................................................... 10 
+3.4.1 Feltinnsamlinger ...................................................................................................... 10 
+3.4.2 Total organisk materiale (TOM).............................................................................. 10 
+3.4.3 Total nitrogen (TN) ................................................................................................. 10 
+3.4.4 Total organisk karbon (TOC) og kornfordeling ...................................................... 10 
+3.4.5 Metallanalyse - kobber (Cu) .................................................................................... 10 
+3.4.6 Redoks- og pH målinger .......................................................................................... 11 
+3.5 Undersøkelse av bløtbunnfauna...................................................................................... 11 
+3.5.1 Om organisk påvirkning av bunndyrssamfunn ........................................................ 11 
+3.5.2 Innsamling og fiksering ........................................................................................... 11 
+3.5.3 Kvantitative bunndyrsanalyser ................................................................................ 11 
+4 RESULTATER ...................................................................................................................... 13 
+4.1 Hydrografi og oksygen ................................................................................................... 13 
+4.2 Sediment ......................................................................................................................... 13 
+4.2.1 TOM, TOC, TN, kornfordeling og pH/Eh .............................................................. 13 
+4.2.2 Kobber i sediment .................................................................................................... 14 
+4.3 Bløtbunnfauna ................................................................................................................ 14 
+4.3.1 Faunaindekser og økologisk tilstandsklassifisering ................................................ 14 
+4.3.2 NS 9410 vurdering av bunndyrsamfunnet i anleggssonen. ..................................... 15 
+4.3.3 Geometriske klasser ................................................................................................. 15 
+4.3.4 Clusteranalyser ........................................................................................................ 16 
+4.3.5 Artssammensetning ................................................................................................. 16 
+5 SAMMENFATTENDE VURDERINGER ........................................................................... 18 
+5.1 Sammendrag ................................................................................................................... 18 
+5.2 Konklusjoner .................................................................................................................. 18 
+6 REFERANSER ...................................................................................................................... 19 
+7 VEDLEGG ............................................................................................................................ 20 
+7.1 Bunndyrsstatistikk og artslister ...................................................................................... 20 
+7.2 Analysebeviser ............................................................................................................... 32 
+7.3 Bilder av prøver ved Grønnstranda ................................................................................ 35 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 5 av 36 
+Forord  
+Akvaplan-niva har gjennomført en miljøundersøkelse type C ved oppdrettslokaliteten 
+Grønnstranda. Oppdragsgiver har vært Nordlaks Oppdrett AS. Undersøkelsen inngår i 
+selskapets miljøovervåking av bunnpåvirkningen fra anlegget.  
+Følgende personer har deltatt:  
+Vera Remen 
+Akvaplan-niva 
+Rapport, prosjektleder. 
+Hans-Petter Mannvik 
+Akvaplan-niva 
+Identifisering bunndyr (pigghuder). Rapport, faglige 
+vurderinger og fortolkninger.  
+Roger Velvin 
+Akvaplan-niva 
+Identifisering bunndyr (Varia). KS rapport, faglige 
+vurderinger og fortolkninger.  
+Trond Ivarjord 
+Akvaplan-niva 
+Feltarbeid. 
+Rune Palerud 
+Akvaplan-niva 
+Identifisering bunndyr (krepsdyr). Statistikk. 
+Charlotte P. Ugelstad 
+Akvaplan-niva 
+Identifisering bunndyr (børstemark). 
+Jesper Hansen 
+Akvaplan-niva 
+Identifisering bunndyr (bløtdyr). 
+Stine Hermansen 
+Akvaplan-niva 
+Sondegrafikk CTDO. 
+Kristine H Sperre 
+Akvaplan-niva 
+Koordinering av bunndyrsortering. 
+Ingar H. Wasbotten 
+Akvaplan-niva 
+Koordinering av geokjemiske analyser. 
+ 
+Akvaplan-niva vil takke Nordlaks Oppdrett AS, Silje Wadsworth, for godt samarbeid.  
+ 
+Akkreditert virksomhet:  
+Undersøkelsen er utført av Akvaplan-niva AS med ALS Laboratory Group (Tsjekkia) som 
+underleverandør. 
+ 
+ 
+Akvaplan-niva AS er akkreditert av Norsk Akkreditering for feltinnsamlinger av 
+sediment og fauna, analyser av TOC, TOM, TN, kornstørrelse, makrofauna og faglig 
+vurderinger og fortolkninger, akkrediteringsnr. TEST 079.  
+Akkrediteringen er i hht. NS-EN ISO/IEC 17025. 
+ 
+Czech Accreditation Institute 
+(Lab nr 1163) 
+ 
+ALS Laboratory Group er akkreditert av Czech Accreditation Institute (Lab nr 1163) 
+for analyser av kobber. 
+ 
+ 
+Ikke-akkrediterte tjenester: Hydrografimålinger og dybdekartlegginger (Olex). 
+ 
+Tromsø, 19.02.2021 
+ 
+Vera Remen 
+Prosjektleder 
+ 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 6 av 36 
+1 Oppsummeringstabell C-undersøkelse 
+1.1 Oppsummering av C-undersøkelse 
+Informasjon oppdragsgiver 
+Tittel : 
+Nordlaks Oppdrett AS. C-undersøkelse ved Grønnstranda, 2021. Ny lokalitet. 
+Rapport nr. 
+2021 62508.03     
+Lokalitet: 
+Grønnstranda 
+Lokalitet nr. 
+- 
+Kartkoordinater (anlegg): 
+68°14,696N  
+16°16,414Ø  
+Fylke: 
+Nordland 
+Kommune: 
+Narvik 
+MTB-tillatelse: 
+- 
+Kontaktperson: 
+Remi Mathisen 
+Oppdragsgiver: 
+Nordlaks Oppdrett AS 
+ 
+Biomasse/produksjonsstatus ved undersøkelsesdato (12.01.2021) 
+Fiskegruppe: 
+Laks 
+Biomasse ved 
+undersøkelse: 
+- 
+Utfôret mengde: 
+- 
+Produsert mengde: 
+- 
+Type/tidspunkt for undersøkelse 
+Maks biomasse: 
+ 
+Oppfølgende undersøkelse: 
+ 
+Brakklegging: 
+ 
+Forundersøkelse: 
+X 
+ 
+Resultat fra C undersøkelse /NS 9410 (2016) - Hovedresultat bløtbunnfauna 
+Faunaindeks nEQR (Veileder 02:2018) 
+Økologisk tilstandsklassifisering (Veileder 02:2018) 
+Fauna C1 (innerst) 
+0.884 
+Fauna C1 (innerst) 
+Klasse I 
+Fauna C2 (ytterst) 
+0.911 
+Fauna C2 (ytterst) 
+Klasse I 
+Fauna C3 
+0.884 
+Fauna C3 
+Klasse I 
+Fauna C4 (dypområde) 
+0.793 
+Fauna C4 (dypområde) 
+Klasse II 
+Fauna Cref 
+0.867 
+Fauna Cref 
+Klasse I 
+Dato feltarbeid: 
+12.01.2021 
+Dato rapport: 
+19.02.2021 
+Merknader til andre resultater (sediment, pH/Eh, oksygen)  
+TOC i klasse II (Cref) og I 
+(øvrige st.) 
+Kobber i klasse I (C1)  
+pH/Eh poeng 0 (C1) 
+O2-metningen var litt lav i 
+bunnvannet (66 %). 
+Ansvarlig feltarbeid: 
+Trond Ivarjord 
+Signatur: 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 7 av 36 
+2 Innledning 
+2.1 Bakgrunn og formål  
+Foreliggende undersøkelser er gjennomført av Akvaplan-niva AS på oppdrag fra Nordlaks 
+Oppdrett AS i forbindelse med bedriftens planlagte oppdrettsvirksomhet på lokaliteten 
+Grønnstranda, Narvik kommune i Nordland fylke.  
+Bakgrunnen for gjennomføringen av en miljøundersøkelse type C på lokaliteten Grønnstranda 
+er etter "Veiledning til krav om forundersøkelser i henhold til NS 9410:2016 i forbindelse med 
+søknad om akvakulturlokaliteter i Nordland, Troms og Finnmark fylker". Undersøkelsen 
+oppfyller krav ift. MTB innenfor intervallet 2000 til 3599 tonn. Plassering av stasjonene er satt 
+ut fra planlagt ramme, og det er prøvetatt en referansestasjon for sammenligning dersom det i 
+fremtiden skal undersøkes om det er påvirkning utenfor overgangssonen..  
+C-undersøkelsen er en undersøkelse av bunntilstanden fra anlegget (anleggssonen) og utover i 
+overgangssonen. Hoveddelen er en undersøkelse av bunnfaunaen på bløtbunn, som 
+gjennomføres i henhold til ISO 16665:2014 og ISO 5667-19:2004 for støtteparametere. De 
+obligatoriske parametere som skal undersøkes er gitt i en oversikt i NS 9410:2016.  
+Et oversiktskart med plasseringen av Grønnstranda er vist i Figur 1. 
+ 
+Figur 1. Oversiktskart for området ved planlagt lokalitet Grønnstranda (blå pil). Oppdrettsanleggene 
+er markert med lokalitetsnummer og navn. Kart fra www.fiskeridir.no. Fiskeridirektoratet, 
+målestokk 1:100 000.  
+2.2 Drift og fôrforbruk 
+Det har ikke vært drift på lokaliteten tidligere 
+2.3 Tidligere undersøkelser  
+Det har ikke vært gjennomført C-undersøkelser iht. 9410:2016 på den planlagte lokaliteten 
+tidligere.  
+ 
+Akvaplan-niva 2021 62508.03     
+Side 8 av 36 
+3 Materiale og metode 
+3.1 Faglig program  
+Valg av undersøkelsesparametere, stasjonsplasseringer og type innsamlingsprogram for 
+bunnprøvetakinger og andre registreringer er gjort i henhold til NS 9410:2016 og Veiledning til 
+krav om forundersøkelser i henhold til NS 9410:2016 i forbindelse med søknad om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark fylker. En oversikt over det faglige 
+programmet er gitt i Tabell 1.  
+Akvaplan-niva er akkreditert for feltinnsamlinger, opparbeiding og faglige vurderinger i 
+henhold til gjeldende standarder og veiledere. For gjennomføring og opparbeiding er følgende 
+standarder og kvalitetssikringssystemer benyttet: 
+• ISO 5667-19:2004: Guidance on sampling of marine sediments. 
+• ISO 16665:2014. Water quality – Guidelines for quantitative sampling and sample 
+processing of marine soft-bottom macro fauna. 
+• NS 9410:2016. Miljøovervåking av bunnpåvirkning fra marine oppdrettsanlegg.  
+• Interne prosedyrer. Kvalitetshåndbok for Akvaplan-niva. 
+• Veileder 02:2018. Klassifisering av miljøtilstand i vann. Norsk klassifiseringssystem 
+for vann i henhold til Vannforskriften. Veileder fra Direktoratgruppen.  
+• M 608:2016 (revidert 2020). Grenseverdier for klassifisering av vann, sediment og 
+biota.  
+Tabell 1. Faglig program på stasjonene ved Grønnstranda, 2021. TOM = totalt organisk materiale, 
+TOC = total organisk karbon, TN = totalt nitrogen, Cu = kobber, Korn = kornfordeling. pH/Eh = 
+Surhetsgrad og redokspotensial.   
+Stasjon  
+Type analyse/parametere 
+C1* 
+Kvantitativ bunndyrsanalyse. TOM. TOC. Korn. TN. Cu. pH/Eh.  
+C2 
+Kvantitativ bunndyrsanalyse. TOM. TOC. Korn. TN.  
+C3 
+Kvantitativ bunndyrsanalyse. TOM. TOC. Korn. TN.  
+C4 
+Kvantitativ bunndyrsanalyse. TOM. TOC. Korn. TN. Hydrografi/O2.  
+Cref 
+Kvantitativ bunndyrsanalyse. TOM. TOC. Korn. TN.  
+*På stasjon C1 var det forstyrret overflate i prøvematerialet som ble samlet inn for replikat 1 for bunndyr. 
+Beskrivelse av prøvene jfr. Tabell 3 og bildedokumentasjon av prøver i Vedlegg 3. 
+Feltarbeidet ble gjennomført 12.01.2021.  
+3.2 Resipientbeskrivelse og stasjonsplassering  
+Lokaliteten er plassert på sørsiden av Skrovkjosen, som er en sidefjord til Tysfjorden. Anlegget 
+er planlagt plassert ut fra land, med orientering mot nord-nordvest. Fra land skråner bunnen 
+bratt ned mot anleggslokaliseringen, og noe slakere utover i resipienten. Under anlegget variere 
+dypet fra ca. 80 til 130 meter. Fra anleggslokaliseringen og mot nordvest skråner bunnen slakt 
+ned til resipientens dypområde på om lag 180 meters dyp. Det er ingen terskeldannelser mellom 
+lokaliteten og største dyp i resipienten, men det er terskeldannelser mot indre del av 
+Skrovkjosen nordøst for lokaliteten, samt mot utløpet fra Skrovkjosen til Tysfjorden vest for 
+lokaliteten.  
+Det planlagte anlegget består av en rammefortøyning med 2 x 5 bur. Det vil gi plass til 10 
+merder (pers. medd. Wadsworth).  
+ 
+Akvaplan-niva 2021 62508.03     
+Side 9 av 36 
+Stasjonsnettet ble satt ut fra strømmålinger gjennomført på spredningsdyp 91 meter 
+(Hermansen, 2021). Strømmålingene viser at hovedstrømretning for spredningsstrøm er 
+definert mot nordvest (300 – 315 grader), med en svakere returstrøm mot sørøst (120 – 150 
+grader).  
+Stasjon C1 – C4 ble plassert i hovedstrømretning for spredningsstrøm. C1 er stasjonen nærmest 
+anlegget, og ble plassert i overgangen mellom anleggssonen og overgangssonen. C2 er ytterste 
+stasjon plassert i ytterkant av overgangssonen. C3 og C4 ble plassert i overgangssonen. C4 ble 
+plassert slik at den dekker dypeste området nærliggende anlegget, og omfattet også 
+hydrografimålinger. Cref er referansestasjon og ble plassert minimum 1 km vest for planlagt 
+ramme, i et område hvor det er antatt at bunntype og forhold er tilnærmet lik det området som 
+dekkes av forundersøkelsen. 
+En oversikt over stasjonsdyp og GPS-koordinater er gitt i Tabell 2. Stasjonsplasseringene er 
+vist i Figur 2. 
+Tabell 2. Stasjonsdyp, avstand til merd og koordinater, Grønnstranda, 2021. Dyp er registrert med 
+ekkolodd i felt.  
+Stasjon 
+Dyp, m 
+Avstand merd, m 
+Posisjon 
+N                             Ø 
+C1 
+125 
+19 
+68°14,781 
+16°16,174 
+C2 
+117 
+390 
+68°14,949 
+16°15,880 
+C3 
+112 
+190 
+68°14,857 
+16°16,036 
+C4 
+151 
+237 
+68°14,745 
+16°15,795 
+Cref 
+135 
+1088 
+68°14,674 
+16°14,570 
+ 
+ 
+ 
+Figur 2. Stasjonskart, Grønnstranda, 2021. Strømrose (til høyre) viser hovedretning vanntransport for 
+spredningsstrøm målt på 91 m dyp (Hermansen, 2021). Rødt flagg viser plassering av strømmåler.  
+3.3 Hydrografi og oksygen 
+På stasjon C4 ble det gjennomført hydrografiske registreringer for vertikalprofiler med hensyn 
+til saltholdighet, temperatur, tetthet og oksygenmetning fra overflate til bunn. Disse ble 
+gjennomført ved hjelp av en Sensordata CTDO 208 sonde. 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 10 av 36 
+3.4 Sedimentundersøkelse 
+3.4.1 Feltinnsamlinger 
+Prøvene ble hentet med en 0,1 m2 bunngrabb (van Veen). Prøvematerialet ble tatt ut gjennom 
+inspeksjonsluker etter at sedimentoverflaten var godkjent. Prøver for TOC, TN, og Cu ble tatt 
+av fra øverste 1 cm av sedimentet, og for TOM og kornfordelingsanalyser fra de øverste 5 cm 
+ved hjelp av rør. Kun prøver med uforstyrret overflate ble godkjent, og prøvematerialet ble 
+frosset for videre bearbeidelse i laboratorium.  
+3.4.2 Total organisk materiale (TOM) 
+Mengden av TOM i sediment ble bestemt ved vekttap etter forbrenning ved 495 °C. Vekttapet 
+i prosent etter forbrenning ble beregnet. Reproduserbarheten av TOM-analysene er sjekket i 
+opparbeidingsperioden ved å bruke et husstandardsediment som inneholder TOM med kjent 
+nivå. Standard kalsiumkarbonat ble brent sammen med prøvene som kontroll på at karbonat 
+ikke ble forbrent i prosessen. 
+3.4.3 Total nitrogen (TN)  
+Etter tørking av prøvene ved 40 °C ble innhold av totalt nitrogen (TN) kvantifisert ved 
+elektrokjemisk bestemmelse. Den interne metoden er basert på NS-EN 12260:2003 (Vann-
+undersøkelse – Bestemmelse av bundet nitrogen (TNb) etter oksidasjon til nitrogenoksider). 
+3.4.4 Total organisk karbon (TOC) og kornfordeling  
+Andelen finstoff, dvs. fraksjonen mindre enn 63 m, ble bestemt gravimetrisk etter våtsikting 
+av prøvene. Resultatene er angitt som andel finstoff på tørrvektbasis.  
+Etter tørking av prøvene ved 40 °C ble innhold av total organisk karbon (TOC) bestemt ved 
+NDIR-deteksjon i henhold til DIN19539:2016 (Investigation of solids – Temperature-
+dependent differentiation of total carbon (TOC400, ROC, TIC900)). For å kunne klassifisere 
+miljøtilstanden basert på innhold av TOC, er de målte konsentrasjonene normalisert for andel 
+finstoff (nTOC) ved bruk av ligningen: nTOC = TOC + 18(1 – F), hvor TOC og F står for 
+henholdsvis målt TOC verdi og andel finstoff (%) i prøven (Aure m.fl., 1993).  
+Klassifisering av miljøtilstanden for sedimentene er basert på normalisert TOC, og ble 
+gjennomført i henhold til Veileder 02:2018. 
+Tilstandsklassifisering for organisk innhold i marine sediment.  
+nTOC, mg/g 
+< 20 
+I Svært god 
+20 - 27 
+II God 
+27 - 34 
+III Moderat 
+34 - 41 
+IV Dårlig 
+> 41 
+V Svært dårlig 
+3.4.5 Metallanalyse - kobber (Cu)  
+Prøven for metallanalyse ble frysetørket før den ble oppsluttet i mikrobølgeovn i lukket 
+teflonbeholder med konsentrert ultraren salpetersyre og hydrogenperoksid. Konsentrasjonen av 
+kobber (Cu) ble bestemt ved hjelp av ICP-SFMS.  
+Klassifisering av miljøtilstanden med hensyn til Cu ble gjennomført i henhold til Veileder 
+02:2018.  
+I hht. M-608:2016 (revidert oktober 2020) finnes det ikke lengre en tilstandsklasse III for 
+kobber i sediment. 
+Tilstandsklassifisering for kobber (Cu) i marine sedimenter.  
+Cu mg/kg 
+< 20  
+Klasse I  
+20 - 84  
+Klasse II  
+- 
+84 - 147  
+Klasse IV  
+> 147  
+Klasse V  
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 11 av 36 
+3.4.6 Redoks- og pH målinger  
+På stasjon C1 ble det utført en kvantitativ kjemisk undersøkelse av sedimentet. Surhetsgrad 
+(pH) og redokspotensial (Eh) ble målt ved hjelp av elektroder og instrumentet YSI Professional 
+Plus. I hht. manual for instrumentet, ble 200 mV lagt til den målte ORP-verdien (Oxydation 
+Reduction Potential). 
+3.5 Undersøkelse av bløtbunnfauna 
+3.5.1 Om organisk påvirkning av bunndyrssamfunn 
+Utslipp av organisk materiale fra oppdrettsanlegg kan bidra til forringede livsvilkår for mange 
+av de bunnlevende organismene. Negative effekter i bunndyrsamfunnet kan best vurderes 
+gjennom kvantitative bunndyranalyser. Fordi de fleste bløtbunnartene er lite mobile, vil 
+faunasammensetningen i stor grad gjenspeile de stedsegnede miljøforholdene. Endringer i 
+bunndyrssamfunnene er god indikasjon på uønskede belastninger. Under naturlige forhold 
+består samfunnene av mange arter. Høyt artsmangfold (diversitet) er blant annet betinget av 
+gunstige forhold for faunaen. Likevel kan eksempelvis moderate økninger i organisk belastning 
+stimulere faunaen og eventuelt øke artsmangfoldet noe. Større belastning gir dårligere forhold 
+der opportunistiske arter øker sine individtall, mens ømfintlige slås ut. Dette betyr redusert 
+artsmangfold. Endringer i artsmangfold i nærheten av utslippspunkt kan i stor grad knyttes til 
+endringer av organisk innhold (fôr og fekalier) i sedimentet.  
+3.5.2 Innsamling og fiksering 
+Alle bunndyrprøvene ble tatt med en 0,1 m2 van Veen grabb. Kun grabbskudd hvor grabben 
+var fullstendig lukket og overflaten uforstyrret ble godkjent. Etter godkjenning ble innholdet 
+vasket i en 1 mm sikt og gjenværende materiale fiksert med 4 % formalin tilsatt fargestoffet 
+bengalrosa og nøytralisert med boraks. På laboratoriet ble dyrene sortert ut fra gjenværende 
+sediment. 
+3.5.3 Kvantitative bunndyrsanalyser 
+På alle stasjonene ble det innsamlet to prøver (replikater) iht. retningslinjene i NS 9410 (2016). 
+Sortert materiale ble opparbeidet kvantitativt. Bunndyrene ble identifisert til fortrinnsvis 
+artsnivå eller annet hensiktsmessig taksonomisk nivå og kvantifisert av spesialister 
+(taksonomer). De kvantitative artslistene inngikk i statistiske analyser. Se Vedlegg 1 for 
+beskrivelse av analysemetoder. For å klassifisere miljøtilstanden er Direktoratgruppens veileder 
+02:2018 benyttet. Følgende statistiske metoder ble benyttet for å beskrive samfunnenes struktur 
+og for å vurdere likheten mellom ulike samfunn: 
+• 
+Shannon-Wiener diversitetsindeks (H’) 
+• 
+Hurlberts diversitetsindeks (ES100) - forventet antall arter pr. 100 individer 
+• 
+Pielou’s jevnhetsindeks (J) 
+• 
+Ømfintlighetsindeks (ISI2012), uegnet ved lavt individ/artstall 
+• 
+Sensitivitetsindeks (NSI) 
+• 
+Sammensatt indeks for artsmangfold og ømfintlighet (NQI1) 
+• 
+Ømfintlighetsindeks som inngår i NQI1 (AMBI)  
+• 
+Normalisert EQR (nEQR) 
+• 
+Antall arter plottet mot antall individer i geometriske artsklasser 
+• 
+Clusteranalyser 
+• 
+De ti mest dominerende taksa pr. stasjon (topp-ti) 
+ 
+Indeksene er beregnet som snitt av to replikater.  
+ 
+Akvaplan-niva 2021 62508.03     
+Side 12 av 36 
+Økologisk tilstandsklassifisering basert på observert verdi av indeks (fra Veileder 02:2018 vanntype 
+G3). 
+Indeks 
+I Svært god 
+II God 
+III Moderat 
+IV Dårlig 
+V Svært dårlig 
+NQI1 
+0,9 - 0,72 
+0,72 - 0,63 
+0,63 - 0,49 
+0,49 - 0,31 
+0,31 - 0 
+H´ 
+5,5 – 3,7 
+3,7 – 2,9 
+2,9 – 1,8 
+1,8 - 0,9 
+0,9 - 0 
+ES100 
+46 - 23 
+23 - 16 
+16 - 9 
+9 - 5 
+5 - 0 
+ISI2012 
+13,4 – 8,7 
+8,7 - 7,8 
+7,8 - 6,4 
+6,4 - 4,7 
+4,7 - 0 
+NSI 
+30 - 25 
+25 - 20 
+20 - 15 
+15 - 10 
+10 - 0 
+nEQR 
+1,0 – 0,8 
+0,8   – 0,6 
+0,6 – 0,4 
+0,4 – 0,2 
+0,2 – 0,0 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 13 av 36 
+4 Resultater 
+4.1 Hydrografi og oksygen  
+Vertikalprofilene for temperatur, salinitet, tetthet og oksygenmetning ved Grønnstranda, 2021 
+er vist i Figur 3.  
+Temperaturen var 6 °C i overflaten og 7 °C ved bunnen. Oksygenmetningen sank fra 90 % i 
+overflaten til 66 % i bunnvannet. 
+ 
+Figur 3. Vertikalprofiler. Temperatur, saltholdighet, tetthet og oksygen på stasjon C4 ved 
+Grønnstranda, 2021. 
+4.2 Sediment 
+4.2.1 TOM, TOC, TN, kornfordeling og pH/Eh 
+Nivåer av total organisk materiale (TOM), total organisk karbon (TOC), totalt nitrogen (TN), 
+C/N forholdet, kornfordeling og pH/Eh i sedimentene er presentert i Tabell 3.  
+TOM-nivåene var lave med verdier mellom 2,3 og 4,6 %. TN-nivåene var også lave (1,1 – 
+2,6 mg/g) og det samme var C/N-forholdene. TOC var lett forhøyet på stasjon Cref og i 
+tilstandsklasse II "God" og lav med klasse I "Svært god" på de andre stasjonene. Sedimentene 
+var moderat grov- til finkornet med pelittandel mellom 39 og 84 %. 
+Redoksmålingene (pH/Eh) ga poeng 0 iht. Tillegg D i NS 9410:2016 for stasjon C1. 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 14 av 36 
+Tabell 3. Sedimentbeskrivelse, TOM (%), TOC (mg/g), TN (mg/g), C/N, kornfordeling (pelittandel % 
+<0,063 mm) og pH/Eh. Grønnstranda, 2021.  
+St. 
+Sedimentbeskrivelse 
+TOM 
+TOC 
+nTOC 
+Tilst.kl.* 
+TN 
+C/N 
+Pelitt 
+pH/Eh 
+C1** 
+Fast leire med noe sand. 
+Homogen grå farge gjennom 
+hele grabben. Ingen avvikende 
+lukt. 
+3,7 
+12,6 
+16,8 
+I 
+2,0 
+6,5 
+76 
+7,9/ 
+388 
+C2 
+Grå fast leire. Ingen sjikt. En del 
+mindre stein blandet i 
+sedimentene. Ingen avvikende 
+lukt. 
+2,3 
+6,7 
+17,7 
+I 
+1,1 
+6,3 
+39 
+- 
+C3 
+Noe mykere grå leire. En del 
+mere stein en de øvrige 
+stasjonene. Ingen avvikende 
+lukt. 
+3,8 
+13,0 
+18,0 
+I 
+2,1 
+6,3 
+72 
+- 
+C4 
+Homogen fast grå leire med noe 
+silt/sand. Ingen avvikende lukt. 
+4,6 
+16,5 
+19,4 
+I 
+2,6 
+6,4 
+84 
+- 
+Cref 
+Homogen fast grå leire med noe 
+silt/sand. Ingen avvikende lukt. 
+4,3 
+13,4 
+20,4 
+II 
+1,9 
+7,2 
+61 
+- 
+ Tilstandsklassifisering (Veileder 02:2018) basert på TOC forutsetter at konsentrasjonen av TOC i sedimentet standardiseres 
+for teoretisk 100% finstoff (pelitt < 0.063 mm) iht. til formelen: Normalisert TOC = målt TOC + 18 x (1-F), hvor F er andel 
+av finstoff (Aure m.fl., 1993). 
+** Se fotnote Tabell 1.    
+4.2.2 Kobber i sediment 
+Nivået av kobber i sedimentet på C1 er presentert i Tabell 4. Nivået var lavt og i tilstandsklasse 
+I "Svært god". 
+Tabell 4. Metallanalyse for kobber (Cu), i mg/kg TS. Grønnstranda, 2021. Tilstandsklassifisering iht. 
+Veileder 02:2018/M-608:2016 (rev. 2020). 
+St. 
+Cu  
+Tilst.klassif. Cu  
+C1 
+9,8 
+I 
+ 
+4.3 Bløtbunnfauna 
+4.3.1 Faunaindekser og økologisk tilstandsklassifisering 
+Resultatene fra de kvantitative bunndyrsanalysene er presentert i Tabell 5. Faunaindeksen 
+nEQR i tabellen er presentert uten tetthetsindeksen DI etter anbefaling fra Miljødirektoratet. 
+Antall individ varierte fra 304 (C3) til 432 (C4) og antall arter fra 49 (C4) til 66 (C2). På C4 
+viste de fleste faunaindeksene, inklusiv nEQR, tilstandsklasse II "God". På de andre stasjonene 
+viste de fleste indeksene, inklusiv nEQR, klasse I "Svært god".  
+J (Pielous jevnhetsindeks) er et mål på hvor likt individene er fordelt mellom artene, og vil 
+variere mellom 0 og 1. En stasjon med lav verdi har en skjev individfordeling mellom artene, 
+og indikerer at bunndyrssamfunnet er forstyrret. Fordelingen var forholdsvis jevn på alle 
+stasjonene med verdier mellom 0,58 (C4) og 0,87 (C1). 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 15 av 36 
+Tabell 5. Antall arter og individer pr. 0,2 m2, H´ = Shannon-Wieners diversitetsindeks. ES100 = 
+Hurlberts diversitetsindeks. NQI1 = sammensatt indeks (diversitet og ømfintlighet). ISI2012 = 
+ømfintlighetsindeks. NSI = sensitivitetsindeks. J = Pielous jevnhetsindeks. AMBI = ømfintlighetsindeks 
+(inngår i NQI1). nEQR = normalisert EQR (ekskl. DI). Grønnstranda, 2021. Økologisk 
+tilstandsklassifisering basert på observert verdi av indeks (snitt av to replikater) iht. Veileder 02:2018 
+vanntype G3. 
+St. 
+Ant. ind. 
+Ant. arter 
+H´ 
+ES100 
+NQI1 
+ISI2012  
+NSI 
+nEQR 
+AMBI  
+J 
+C1 
+397 
+58 
+4.80 
+34.88 
+0.815 
+10.20 
+25.57 
+0.884 
+1.39 
+0.87 
+C2 
+373 
+66 
+4.63 
+36.21 
+0.856 
+10.24 
+27.99 
+0.911 
+0.96 
+0.82 
+C3 
+304 
+60 
+4.40 
+32.87 
+0.826 
+10.60 
+26.45 
+0.884 
+1.16 
+0.83 
+C4  
+432 
+49 
+3.00 
+24.57 
+0.821 
+10.24 
+23.73 
+0.793 
+0.93 
+0.58 
+Cref 
+375 
+64 
+4.26 
+32.67 
+0.824 
+10.49 
+24.96 
+0.867 
+1.25 
+0.78 
+ 
+I Svært god 
+II God 
+III Moderat 
+IV Dårlig 
+V Svært dårlig 
+ 
+4.3.2 NS 9410 vurdering av bunndyrsamfunnet i anleggssonen. 
+I hht. NS 9410 kan klassifisering av miljøtilstanden i anleggssonen baseres på antallet arter 
+vurdert mot dominansforhold i bunndyrsamfunnet (se kapt. 8.6.2. i NS 9410:2016). Tabell 6 
+viser antall arter, kumulativ prosent for dominerende taksa og klassifisering av miljøtilstanden 
+for bløtbunnsamfunnet på anleggssonestasjonen C1.  
+Bløtbunnsamfunnet ble klassifisert til miljøtilstand 1 "Meget god". Kriteriet for tilstand 1 er 
+tilstedeværelse av minst 20 arter/0,2 m2 og at ingen av disse utgjør mer enn 65 % av individene. 
+Data for antall arter og dominerende taksa på anleggssonestasjonene er hentet fra Tabell 5 og 
+Tabell 7. 
+Tabell 6. NS 9410:2016. Klassifisering av miljøtilstand i bløtbunnsamfunnene på innerste stasjon C1, 
+Grønnstranda, 2021.  
+Stasjon  
+Lokalitet 
+Ant. arter 
+Dominerende taksa -% 
+Miljøtilstand-NS 9410 
+C1 
+Grønnstranda 
+58 
+Siboglinum fiordicum – 11 % 
+1 – Meget god 
+ 
+4.3.3 Geometriske klasser 
+Figur 4 viser antall arter plottet mot antall individer, der antallet individer er delt inn i 
+geometriske klasser.  
+Det vises til Vedlegg 1 for en forklaring av begrepet geometriske klasser og beskrivelse av 
+metoden. Bakgrunnen for analysen er at et upåvirket samfunn består av mange arter med lavt 
+individtall, slik at kurven starter høyt på y-aksen. Et forstyrret samfunn har færre arter og noen 
+få av dem svært tallrike, slik at kurven flater ut og strekker seg mot høyere klasser. 
+Kurvene for alle stasjonene startet forholdsvis høyt, men strakk seg også nokså kort ut mot 
+høyere klasser (C4 lengst). Dette kan indikere god faunatilstand på alle stasjonene. 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 16 av 36 
+ 
+Figur 4. Bløtbunnfauna vist som antall arter mot antall individer pr. art i geometriske klasser for 
+bunndyrsstasjonene ved Grønnstranda, 2021 (pr. 0,2 m2). 
+4.3.4 Clusteranalyser 
+For å undersøke likheten i faunasammensetning mellom stasjonene ble den multivariate 
+teknikken clusteranalyse benyttet (se metodebeskrivelse i Vedlegg 1). Resultatene fra denne er 
+presentert i dendrogram i Figur 5. I dendrogrammet er graden av ulikhet mellom stasjonene 
+uttrykt langs den horisontale aksen. To stasjoner med identisk arts- og individfordeling vil få 0 
+(0 %) ulikhet, mens to stasjoner uten like arter, vil få 100 (100 %) ulikhet. Metoden gjør det 
+dermed mulig å identifisere grupper av stasjoner med like arts- og individforhold. I tillegg gjør 
+den det lettere å synliggjøre eventuelle avvik som for eksempel kan knyttes til antropogene 
+påvirkninger av bunndyrssamfunnet. 
+Faunasammensetningen på stasjonene var mer enn 55 % lik der C4 var mest ulik de andre 
+stasjonene.  
+ 
+Figur 5. Stasjonsvis clusterplott for bløtbunnfaunaen ved Grønnstranda, 2021. 
+4.3.5 Artssammensetning 
+Hovedtrekkene i artssammensetningen er vist i form av en ”topp ti” artsliste fra hver stasjon i 
+Tabell 7. I Rygg og Norling (2013) inndeles artene i fem økologiske grupper (Ecological 
+groups; EG) basert på verdien av sensitivitetsindeksene. Disse gruppene går fra sensitive arter 
+(gruppe I) til forurensningsindikatorer (pollution indicator species; gruppe V).  
+0
+5
+10
+15
+20
+25
+30
+35
+40
+1
+2,3
+ 4- 7
+ 8- 15
+16- 31
+32- 63
+64-127
+128-255
+256-511
+512-1023
+1024-2047
+2048-
+Stasjon
+Ant. arter
+Ant. ind.
+ 
+Akvaplan-niva 2021 62508.03     
+Side 17 av 36 
+På C1, C4 og Cref dominerte børstemarken Siboglinum fiordicum (ikke kjent EG) med mellom 
+11 og 56 % av individene. De andre mest dominante artene på stasjonene var en naturlig 
+blanding av sensitive, nøytrale, tolerante og opportunistiske arter. 
+På C2 og C3 dominerte den sensitive børstemarken Amythasides macroglossus med hhv. 21 og 
+14 % av individene. De andre mest dominante artene på stasjonene var også her en naturlig 
+blanding av sensitive, nøytrale, tolerante og opportunistiske arter. 
+Det ble ikke registrert forurensningsindikatorer blant topp-10 på noen av stasjonene. 
+Tabell 7. Antall individer, kumulativ prosent og økologisk gruppe* for de ti mest dominerende artene 
+på stasjonene. Grønnstranda, 2021. 
+C1 
+Ant. 
+Kum. 
+EG 
+C2 
+Ant. 
+Kum. 
+EG 
+Siboglinum fiordicum 
+44 
+11 % 
+Ik 
+Amythasides macroglossus 
+80 
+21 % 
+I 
+Amythasides macroglossus 
+40 
+21 % 
+I 
+Chone sp. 
+36 
+31 % 
+I 
+Pseudopolydora paucibranchiata 
+36 
+30 % 
+IV 
+Thyasira obsoleta 
+25 
+37 % 
+I 
+Lanassa venusta 
+21 
+35 % 
+II 
+Parathyasira equalis 
+17 
+42 % 
+III 
+Paramphinome jeffreysii 
+21 
+41 % 
+III 
+Scalibregma hanseni 
+14 
+45 % 
+Ik 
+Parathyasira equalis 
+18 
+45 % 
+III 
+Streblosoma intestinale 
+12 
+49 % 
+I 
+Chone sp. 
+17 
+49 % 
+I 
+Axinulus croulinensis 
+10 
+51 % 
+I 
+Axinulus croulinensis 
+14 
+53 % 
+I 
+Caudofoveata indet. 
+10 
+54 % 
+II 
+Spiophanes kroyeri 
+13 
+56 % 
+III 
+Heteromastus filiformis 
+9 
+56 % 
+IV 
+Heteromastus filiformis 
+12 
+59 % 
+IV 
+Lanassa venusta 
+9 
+59 % 
+II 
+C3 
+Ant. 
+Kum. 
+EG 
+C4 
+Ant. 
+Kum. 
+EG 
+Amythasides macroglossus 
+42 
+14 % 
+I 
+Siboglinum fiordicum 
+242 
+56 % 
+Ik 
+Siboglinum fiordicum 
+40 
+27 % 
+Ik 
+Pseudopolydora paucibranchiata 
+28 
+63 % 
+IV 
+Parathyasira equalis 
+21 
+33 % 
+III 
+Heteromastus filiformis 
+24 
+68 % 
+IV 
+Chone sp. 
+19 
+40 % 
+I 
+Amythasides macroglossus 
+11 
+71 % 
+I 
+Axinulus croulinensis 
+18 
+45 % 
+I 
+Paramphinome jeffreysii 
+9 
+73 % 
+III 
+Pseudopolydora paucibranchiata 
+13 
+50 % 
+IV 
+Parathyasira equalis 
+9 
+75 % 
+III 
+Heteromastus filiformis 
+12 
+54 % 
+IV 
+Axinulus croulinensis 
+8 
+77 % 
+I 
+Thyasira obsoleta 
+10 
+57 % 
+I 
+Adontorhina similis 
+7 
+78 % 
+II 
+Proclea graffii 
+8 
+59 % 
+II 
+Chone sp. 
+7 
+80 % 
+I 
+Mendicula ferruginosa 
+7 
+62 % 
+Ik 
+Lanassa venusta 
+7 
+81 % 
+II 
+Cref 
+Ant. 
+Kum. 
+EG 
+ 
+ 
+ 
+ 
+Siboglinum fiordicum 
+114 
+29 % 
+Ik 
+ 
+ 
+ 
+Heteromastus filiformis 
+24 
+36 % 
+IV 
+ 
+ 
+ 
+Paramphinome jeffreysii 
+19 
+40 % 
+III 
+ 
+ 
+ 
+Parathyasira equalis 
+17 
+45 % 
+III 
+ 
+ 
+ 
+Pseudopolydora paucibranchiata 
+16 
+49 % 
+IV 
+ 
+ 
+ 
+Chone sp. 
+15 
+53 % 
+I 
+ 
+ 
+ 
+Yoldiella nana 
+15 
+57 % 
+III 
+ 
+ 
+ 
+Axinulus croulinensis 
+14 
+60 % 
+I 
+ 
+ 
+ 
+Amythasides macroglossus 
+13 
+64 % 
+I 
+ 
+ 
+ 
+Ophiuroidea indet. juv. 
+13 
+67 % 
+II 
+ 
+ 
+ 
+*Økologiske grupper: EG I = sensitive arter. EG II = nøytrale arter. EG III = tolerante arter. EG IV = opportunistiske arter.  
+EG V = forurensningsindikatorer (pollution indicator species). Fra Rygg og Norling, 2013. Ik = ikke kjent gruppe. 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 18 av 36 
+5 Sammenfattende vurderinger 
+5.1 Sammendrag 
+Resultatene fra miljøundersøkelsen (type C) ved Grønnstranda, 2021 kan sammenholdes som 
+følger: 
+• Det ble ikke registrert oksygenkritiske forhold i vannsøylen på dypstasjonen C4. 
+Oksygenmetningen i bunnvannet var 66 % i januar 2021. 
+• Klassifisering av økologisk tilstand, basert på faunaindeksene i veileder 02:2018, viste 
+klasse II "God" for bløtbunnsamfunnet på C4 og klasse I "Svært god" for de øvrige 
+undersøkte 
+bløtbunnsamfunnene. 
+NS 
+9410:2016-vurdering 
+av 
+samfunnet 
+i 
+anleggssonen viste miljøtilstand 1 (Meget god). Det ble ikke registrert forurensnings-
+indikatorer blant topp-10 på noen av stasjonene. 
+• TOC-nivået var lett forhøyet på Cref og i klasse II "God" og lavt med klasse I "Svært 
+god" på de andre stasjonene. TOM og TN var lave i sedimentene fra alle stasjonene og 
+det samme var C/N-forholdet. Kobbernivået på C1 var lavt og i klasse I. Sedimentene 
+var moderat grov- til finkornet med pelittandel mellom 39 og 84 %. Redoksmålingene 
+i sedimentet ga poeng 0 på stasjon C1. 
+ 
+5.2 Konklusjoner 
+Resultatene fra miljøundersøkelsen ved oppdrettslokaliteten Grønnstranda i 2021 viste at 
+faunaen var lite eller ikke påvirket og i tilstandsklasse II "God" på C4 og klasse I "Svært god" 
+på de andre stasjonene. NS 9410:2016-vurdering av samfunnet i anleggssonen viste 
+miljøtilstand 1 (Meget god). Det ble ikke registrert forurensningsindikatorer blant topp-10 på 
+noen av stasjonene. Blant støtteparameterne var ikke sedimentene belastet med organisk karbon 
+og i klasse II "God" på stasjon Cref og klasse I "Svært god" på de andre stasjonene. 
+Kobberkonsentrasjonen var lav på C1 og i klasse I. Oksygenmetningen i bunnvannet i januar 
+var litt lav med 66 %. 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 19 av 36 
+6 Referanser 
+Aure, J., Dahl, E., Green, N., Magnusson. J., Moy, F., Pedersen, A., Rygg, B & Walday, M., 1993. 
+Langtidsovervåking av trofiutviklingen i kystvannet langs Sør-Norge. Årsrapport 1990 og samlerapport 1990-91. 
+Statlig program for forurensningsovervåking. Rapport 510/93.  
+Direktoratgruppen, 2018. Klassifisering av miljøtilstand i vann. Veileder 02:2018.  
+Fylkeskommunene i Nordland, Troms og Finnmark, Fiskeridirektoratet region Nord, Fiskeridirektoratet region 
+Nordland og Fylkesmann i Nordland, Troms og Finnmark, 2018. "Veiledning til krav om forundersøkelser i 
+henhold til NS9410:2016 i forbindelse med søknad om akvakulturlokaliteter i Nordland, Troms og Finnmark" 
+versjon 1, datert 04.04.2018. 
+Hermansen, S., 2021. Nordlaks Oppdrett AS. Strømmålinger Grønnstranda. 5 m, 15 m, spredning- og bunnstrøm. 
+APN-62508.01. 
+ISO 5667-19:2004. Guidance on sampling of marine sediments. 
+ISO 16665:2014. Water quality – Guidelines for quantitative sampling and sample processing of marine soft-
+bottom macro fauna. 
+M 608:2016 (revidert 2020). Grenseverdier for klassifisering av vann, sediment og biota – revidert 30.10.2020. 
+Miljødirektoratet, 13 s. 
+NS 9410:2016. Norsk standard for miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg. 
+Rygg, B. & K. Norling, 2013. Norwegian Sensitive Index (NSI) for marine macro invertebrates, and an update of 
+Indicator Species Index (ISI). NIVA report SNO 6475-2013. 48 p. 
+ 
+Pers. medd. Silje Wadsworth, Kvalitetsleder – Fiskehelse og Miljø / Nordlaks Produkter AS, Nordlaks AS.  
+www.fiskeridir.no 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 20 av 36 
+7 Vedlegg 
+7.1 Bunndyrsstatistikk og artslister 
+Diversitetsmål 
+Diversitet er et begrep som uttrykker mangfoldet i dyre- og plantesamfunnet på en lokalitet. Det finnes en rekke 
+ulike mål for diversitet. Noen tar mest hensyn til artsrikheten (mål for artsrikheten), andre legger mer vekt på 
+individfordelingen mellom artene (mål for jevnhet og dominans). Ulike mål uttrykker derved forskjellige sider ved 
+dyresamfunnet. Diversitetsmål er “klassiske” i forurensningsundersøkelser fordi miljøforstyrrelser typisk påvirker 
+samfunnets sammensetning. Svakheten ved diversitetsmålene er at de ikke alltid fanger opp endringer i 
+samfunnsstrukturen. Dersom en art blir erstattet med like mange individer av en ny art, vil ikke det gjøre noe utslag 
+på diversitetsindeksene.  
+Shannon-Wieners indeks (Shannon & Weaver, 1949) er gitt ved formelen: 
+
+
+
+
+
+
+−
+= 
+=
+N
+n
+N
+n
+H
+i
+s
+i
+i
+1
+2
+log
+'
+ 
+der  
+ni = antall individer av art i i prøven 
+ 
+N = total antall individer 
+       
+s = antall arter 
+Indeksen tar hensyn både til antall arter og mengdefordelingen mellom artene, men det synes som indeksen er mest 
+følsom for individfordelingen. En lav verdi indikerer et artsfattig samfunn og/eller et samfunn som er dominert av 
+en eller få arter. En høy verdi indikerer et artsrikt samfunn. 
+Pielous mål for jevnhet (Pielou, 1966) 
+har følgende formel, der symbolene er som i Shannon-Wieners indeks 
+J
+H
+s
+=
+'
+log 2
+ 
+ 
+Hurlberts diversitetskurver 
+Grafisk kan diversiteten uttrykkes i form av antall arter som funksjon av antall individer. Med utgangspunkt i total 
+antall arter og individer i en prøve søker man å beregne hvor mange arter man ville vente å finne i delprøver med 
+færre individer. Diversitetsmålet blir derved uavhengig av prøvestørrelsen og gjør at lokaliteter med ulik 
+individtetthet kan sammenlignes direkte. Hurlbert (1971) har gitt en metode for å beregne slike diversitetskurver 
+basert på sannsynlighetsberegning. 
+n
+ES er forventet antall arter i en delprøve på n tilfeldig valgte individer fra en prøve som inneholder total N 
+individer og s arter og har følgende formel: 
+(
+)
+( )
+
+=
+−
+
+
+
+
+
+
+
+
+−
+=
+s
+i
+n
+N
+n
+i
+N
+N
+n
+ES
+1
+1
+ 
+der  
+N = total antall individ i prøven 
+Ni = antall individ av art i 
+n = antall individ i en gitt delprøve (av de N) 
+s = total antall arter i prøven 
+Plott av antall arter i forhold til antall individer 
+Artene deles inn i grupper/klasser etter hvor mange individer som er registrert i en prøve. Det vanlige er å sette 
+klasse I = 1 individ pr. art, klasse II = 2-3 individer, klasse III = 4-7 individer, klasse IV = 8-15 individer, osv., 
+slik at de nedre klassegrensene danner en følge av ledd på formen 2x, x=0,1,2, … En slik følge kalles en geometrisk 
+følge, derfor kalles klassene for geometriske klasser. Hvis antall arter innenfor hver klasse plottes mot 
+klasseverdien på en lineær skala, vil det fremkomme en kurve som uttrykker individfordelingen mellom artene i 
+samfunnet. Det har vist seg at i prøver fra upåvirkede samfunn vil det være mange arter med lavt individantall og 
+få arter med høyt individantall, slik at vi får en entoppet, asymmetrisk kurve med lang ”hale” mot høye 
+klasseverdier. Denne kurven vil være godt tilpasset en log-normal fordelingskurve. 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 21 av 36 
+Ved moderat forurensing forsvinner en del av de individfattige artene, mens noen som blir begunstiget, øker i 
+antall. Slik flater kurven ut, og strekker seg mot høyere klasser eller den får ekstra topper. Under slike forhold 
+mister kurven enhver likhet med den statistiske log-normalfordelingen. Derfor kan avvik fra log-
+normalfordelingen tolkes som et resultat av en påvirkning/forurensing. Det har vist seg at denne metoden tidlig gir 
+utslag ved miljøforstyrrelse. Ved sterk forurensning blir det bare noen få, men ofte svært tallrike arter tilbake. Log-
+normalfordelingskurven vil da ofte gjenoppstå, men med en lavere topp og spredt over flere klasser enn for 
+uforstyrrede samfunn. 
+Faunaens fordelingsmønster 
+Variasjoner i faunaens fordelingsmønster over området beskrives ved å sammenligne tettheten av artene på hver 
+stasjon. Til dette brukes multivariate klassifikasjons- og ordinasjons-analyser (Cluster og MDS). 
+Analysene i denne undersøkelsen ble utført ved hjelp av programpakken PRIMER v5. Inngangsdata er 
+individantall pr. art, pr. prøve. Prøvene kan være replikater eller stasjoner. Det tas ikke hensyn til hvilke arter som 
+opptrer. Forut for klassifikasjons- og ordinasjonsanalysene ble artslistene dobbelt kvadratrot-transformert. Dette 
+ble gjort for å redusere avviket mellom høye og lave tetthetsverdier og dermed redusere eventuelle effekter av 
+tallmessig dominans hos noen få arter i datasettet.  
+Clusteranalyse 
+Analysen undersøker faunalikheten mellom prøver. For å sammenligne to prøver ble Bray-Curtis ulikhetsindeks 
+benyttet (Bray & Curtis, 1957): 
+)
+(
+1
+1
+
+
+=
+=
++
+−
+=
+n
+k
+kj
+ki
+n
+k
+kj
+ki
+ij
+X
+X
+X
+X
+d
+ 
+der 
+n    = 
+antall arter sammenlignet 
+ 
+Xki =  
+antall individ av art k i prøve nr. i 
+ 
+Xkj =  
+antall individ av art k i prøve nr. j 
+Indeksen avtar med økende likhet. Vi får verdien 1 hvis prøvene er helt ulike, dvs. ikke har noen felles arter. 
+Identiske arts- og individtall vil gi verdien 0. Prøver blir gruppert sammen etter graden av likhet ved å bruke 
+”group-average linkage”. Forholdsvis like prøver danner en gruppe (cluster). Resultatet presenteres i et trediagram 
+(dendrogram). 
+Ømfintlighet (AMBI, ISI og NSI) 
+Ømfintligheten bestemmes ved indeksene ISI og AMBI. Beregning av ISI er beskrevet av Rygg (2002). 
+Sensitivitetsindeksen AMBI (Azti Marin Biotic Index) tilordner en ømfintlighetsklasse (økologisk gruppe, EG): 
+EG-1: sensitive arter, EG-II: indifferente arter, EG-III: tolerante arter, EG-IV: opportunistiske arter, EG-V: 
+forurensningsindikerende arter. Sammensetningen av makroevertebratsamfunnet i form av andelen av økologiske 
+grupper indikerer omfanget av en forurensningspåvirkning. 
+NSI er en sensitivitetsindeks som ligner AMBI, men er utviklet med basis i norske faunadata og ved bruk av en 
+objektiv statistisk metode. En prøves NSI verdi beregnes ved gjennomsnittet av sensitivitetsverdiene av alle 
+individene i prøven. 
+Sammensatte indekser (NQI1 og NQI2) 
+Sammensatte indekser NQI1 og NQI2 bestemmes både ut fra artsmangfold og ømfintlighet. NQI1 er brukt i 
+NEAGIG (den nordøst-atlantiske interkalibreringen). De fleste land bruker nå sammensatte indekser av samme 
+type som NQI1 og NQI2.  
+NQI1 indeksen er beskrevet ved hjelp av formelen: 
+NQI1 (Norwegian quality status, version 1) = [0.5* (1-AMBI/7) + 0.5*(SN/2.7)* (N/(N+5)] 
+Diversitetsindeksen SN = lnS/ln(lnN), hvor S er antall arter og N er antall individer i prøven 
+ 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 22 av 36 
+Referanser: 
+Bray, R.T. & J.T. Curtis, 1957. An ordination of the upland forest communities of southern Wisconsin. Ecol. 
+Monogr., 27:325-349. 
+Hurlbert, S.N., 1971. The non-consept of the species diversity: A critique and alternative parameters. Ecology 
+52:577-586. 
+Pielou, E. C., 1966. Species-diversity and pattern-diversity in the study of ecological succession.  Journal of 
+Theoretical Biology 10, 370-383. 
+Rygg, B., 2002. Indicator species index for assessing benthic ecological quality in marine water of Norway. NIVA 
+report SNO 4548-2002. 32 p. 
+Shannon, C.E. & W. Weaver, 1949. The Mathematical Theory of Communication. Univ Illinois Press, Urbana 
+117 s.    
+ 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 23 av 36 
+ 
+Statistikk resultater Grønnstranda, 2021: 
+Antall arter og individer per stasjon 
+st.nr. 
+tot. 
+C1 
+C2 
+C3 
+C4 
+Cref 
+no. ind. 
+1881 
+397 
+373 
+304 
+432 
+375 
+no. spe. 
+122 
+58 
+66 
+60 
+49 
+64 
+ 
+Bunndyrindekser per replikat 
+st.nr. 
+tot. 
+C1_0
+1 
+C1_0
+2 
+C2_0
+1 
+C2_0
+2 
+C3_0
+1 
+C3_0
+2 
+C4_0
+1 
+C4_0
+2 
+Cref_0
+1 
+Cref_0
+2 
+no. ind. 
+1881 
+170 
+227 
+205 
+168 
+153 
+151 
+222 
+210 
+184 
+191 
+no. spe. 
+122 
+46 
+45 
+50 
+48 
+44 
+36 
+37 
+36 
+46 
+43 
+Shannon-Wiener: 
+4.9 
+4.7 
+4.8 
+4.4 
+4.6 
+4.2 
+3.0 
+3.0 
+4.4 
+4.1 
+Pielou 
+ 
+0.88 
+0.86 
+0.85 
+0.79 
+0.84 
+0.82 
+0.57 
+0.59 
+0.79 
+0.76 
+ES100 
+ 
+37 
+33 
+37 
+36 
+35 
+30 
+25 
+24 
+35 
+30 
+SN 
+ 
+2.34 
+2.25 
+2.34 
+2.37 
+2.34 
+2.22 
+2.14 
+2.14 
+2.32 
+2.27 
+ISI-2012 
+ 
+10.07 
+10.33 
+10.53 
+9.96 
+10.96 
+10.25 
+10.28 
+10.20 
+10.33 
+10.66 
+AMBI 
+ 
+1.453 
+1.319 
+0.913 
+0.997 
+1.052 
+1.265 
+0.767 
+1.099 
+1.212 
+1.288 
+NQI1 
+ 
+0.82 
+0.81 
+0.86 
+0.85 
+0.84 
+0.81 
+0.83 
+0.81 
+0.83 
+0.82 
+NSI 
+ 
+25.6 
+25.5 
+28.0 
+28.0 
+27.7 
+25.2 
+24.5 
+23.0 
+25.4 
+24.5 
+ 
+Bunndyrindekser, gjennomsnitt per stasjon 
+st.nr. 
+ 
+C1 
+C2 
+C3 
+C4 
+Cref 
+Shannon-Wiener: 
+4.80 
+4.63 
+4.40 
+3.00 
+4.26 
+Pielou 
+ 
+0.87 
+0.82 
+0.83 
+0.58 
+0.78 
+ES100 
+ 
+34.9 
+36.2 
+32.9 
+24.6 
+32.7 
+SN 
+ 
+2.30 
+2.35 
+2.28 
+2.14 
+2.29 
+ISI-2012 
+ 
+10.20 
+10.24 
+10.60 
+10.24 
+10.49 
+AMBI 
+ 
+1.386 
+0.955 
+1.159 
+0.933 
+1.250 
+NQI1 
+ 
+0.82 
+0.86 
+0.83 
+0.82 
+0.82 
+NSI 
+ 
+25.57 
+27.99 
+26.45 
+23.73 
+24.96 
+Tilstandsklasse nEQR 
+0.884 
+0.911 
+0.884 
+0.793 
+0.867 
+ 
+Geometriske klasser 
+int. 
+C1 
+C2 
+C3 
+C4 
+Cref 
+1 
+20 
+25 
+25 
+16 
+31 
+2,3 
+11 
+16 
+15 
+17 
+14 
+ 4- 7 
+12 
+12 
+11 
+9 
+8 
+ 8- 15 
+8 
+9 
+4 
+4 
+6 
+16- 31 
+4 
+2 
+3 
+2 
+4 
+32- 63 
+3 
+1 
+2 
+0 
+0 
+64-127 
+0 
+1 
+0 
+0 
+1 
+128-255 
+0 
+0 
+0 
+1 
+0 
+256-511 
+0 
+0 
+0 
+0 
+0 
+512-1023 
+0 
+0 
+0 
+0 
+0 
+1024-2047 
+0 
+0 
+0 
+0 
+0 
+2048- 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 24 av 36 
+ Artsliste 
+Grønnstranda forundersøkelse  
+ Rekke 
+Klasse 
+Art/Taxa 
+01 
+02 
+Sum 
+ Stasjonsnr.:  C1 
+ NEMERTINI 
+ 
+Nemertea indet. 
+2 
+2 
+ SIPUNCULIDA 
+ 
+Golfingiidae indet. 
+1 
+1 
+ 
+Sipuncula indet. 
+1 
+1 
+ ANNELIDA 
+ 
+Polychaeta 
+ 
+Amphictene auricoma 
+1 
+6 
+7 
+ 
+Amythasides macroglossus 
+21 
+19 
+40 
+ 
+Aphelochaeta sp. 
+1 
+1 
+ 
+Aricidea quadrilobata 
+1 
+1 
+ 
+Chone sp. 
+4 
+13 
+17 
+ 
+Clymenura borealis 
+2 
+4 
+6 
+ 
+Diplocirrus glaucus 
+1 
+1 
+ 
+Eclysippe vanelli 
+1 
+1 
+ 
+Euchone sp. 
+1 
+1 
+ 
+Glycera lapidum 
+4 
+4 
+8 
+ 
+Heteromastus filiformis 
+7 
+5 
+12 
+ 
+Hydroides norvegica 
+1 
+1 
+ 
+Lanassa venusta 
+11 
+10 
+21 
+ 
+Levinsenia gracilis 
+2 
+2 
+ 
+Lumbriclymene cylindricauda 
+1 
+1 
+ 
+Nephtys hystricis 
+1 
+1 
+ 
+Notomastus latericeus 
+1 
+1 
+2 
+ 
+Paramphinome jeffreysii 
+10 
+11 
+21 
+ 
+Phylo sp. 
+2 
+2 
+4 
+ 
+Polycirrus sp. 
+1 
+1 
+2 
+ 
+Proclea graffii 
+5 
+4 
+9 
+ 
+Pseudopolydora paucibranchiata 
+15 
+21 
+36 
+ 
+Rhodine loveni 
+2 
+2 
+ 
+Sabellidae indet. 
+1 
+1 
+ 
+Scalibregma hanseni 
+3 
+3 
+ 
+Siboglinum fiordicum 
+10 
+34 
+44 
+ 
+Sosane wireni 
+1 
+1 
+ 
+Spiophanes kroyeri 
+5 
+8 
+13 
+ 
+Streblosoma intestinale 
+4 
+5 
+9 
+ 
+Terebellidae indet. 
+3 
+4 
+7 
+ 
+Terebellides sp. 
+3 
+4 
+7 
+ 
+Tharyx killariensis 
+2 
+2 
+ CRUSTACEA 
+ 
+Ostracoda 
+ 
+Ostracoda indet. 
+1 
+1 
+2 
+ 
+Malacostraca 
+ 
+Eriopisa elongata 
+3 
+1 
+4 
+ 
+Oedicerotidae indet. 
+1 
+1 
+ 
+Scopelocheirus hopei 
+1 
+1 
+ MOLLUSCA 
+ 
+Caudofoveata 
+ 
+Caudofoveata indet. 
+2 
+5 
+7 
+ 
+Prosobranchia 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 25 av 36 
+ Rekke 
+Klasse 
+Art/Taxa 
+01 
+02 
+Sum 
+ 
+Euspira montagui 
+1 
+1 
+ 
+Haliella stenostoma 
+2 
+2 
+4 
+ 
+Opistobranchia 
+ 
+Laona quadrata 
+1 
+1 
+ 
+Retusa umbilicata 
+1 
+1 
+ 
+Bivalvia 
+ 
+Abra nitida 
+1 
+3 
+4 
+ 
+Adontorhina similis 
+2 
+1 
+3 
+ 
+Astarte sulcata 
+1 
+1 
+ 
+Axinulus croulinensis 
+4 
+10 
+14 
+ 
+Mendicula ferruginosa 
+4 
+2 
+6 
+ 
+Parathyasira equalis 
+10 
+8 
+18 
+ 
+Thyasira obsoleta 
+5 
+6 
+11 
+ 
+Tropidomya abbreviata 
+1 
+1 
+ 
+Yoldiella lucida 
+1 
+4 
+5 
+ 
+Yoldiella nana 
+3 
+8 
+11 
+ 
+Yoldiella philippiana 
+5 
+2 
+7 
+ ECHINODERMATA 
+ 
+Ophiuroidea 
+ 
+Ophiura sarsii 
+1 
+1 
+ 
+Ophiuroidea indet. juv. 
+2 
+1 
+3 
+ 
+Echinoidea 
+ 
+Brisaster fragilis 
+1 
+1 
+2 
+ 
+Holothuroidea 
+ 
+Labidoplax buskii 
+1 
+2 
+3 
+ 
+Maks: 
+21 
+34 
+44 
+ 
+Antall: 
+47 
+46 
+59 
+ 
+Sum: 
+400 
+ Stasjonsnr.:  C2 
+ NEMERTINI 
+ 
+Nemertea indet. 
+3 
+2 
+5 
+ SIPUNCULIDA 
+ 
+Phascolion strombus 
+1 
+1 
+ ANNELIDA 
+ 
+Polychaeta 
+ 
+Amaeana trilobata 
+1 
+1 
+ 
+Amythasides macroglossus 
+37 
+43 
+80 
+ 
+Anobothrus laubieri 
+1 
+1 
+2 
+ 
+Aphelochaeta sp. 
+1 
+1 
+ 
+Aricidea sp. 
+1 
+1 
+2 
+ 
+Augeneria sp. 
+1 
+1 
+2 
+ 
+Chone sp. 
+14 
+22 
+36 
+ 
+Clymenura borealis 
+2 
+2 
+ 
+Eclysippe vanelli 
+4 
+4 
+ 
+Glycera lapidum 
+4 
+2 
+6 
+ 
+Heteromastus filiformis 
+3 
+6 
+9 
+ 
+Lanassa venusta 
+5 
+4 
+9 
+ 
+Levinsenia gracilis 
+1 
+1 
+ 
+Maldanidae indet. 
+1 
+1 
+ 
+Myriochele danielsseni 
+8 
+8 
+ 
+Nephtys hystricis 
+2 
+1 
+3 
+ 
+Nereimyra punctata 
+1 
+1 
+ 
+Nereimyra sp. 
+1 
+1 
+ 
+Nicomache lumbricalis 
+1 
+1 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 26 av 36 
+ Rekke 
+Klasse 
+Art/Taxa 
+01 
+02 
+Sum 
+ 
+Nothria conchylega 
+1 
+1 
+2 
+ 
+Notomastus latericeus 
+3 
+1 
+4 
+ 
+Paramphinome jeffreysii 
+6 
+1 
+7 
+ 
+Pholoe assimilis 
+1 
+1 
+ 
+Pista bansei 
+1 
+1 
+ 
+Polynoidae indet. 
+1 
+1 
+ 
+Polyphysia crassa 
+1 
+1 
+ 
+Proclea graffii 
+6 
+2 
+8 
+ 
+Pseudopolydora paucibranchiata 
+1 
+1 
+ 
+Scalibregma hanseni 
+11 
+3 
+14 
+ 
+Siboglinum fiordicum 
+3 
+3 
+ 
+Sosane wireni 
+1 
+1 
+ 
+Spiophanes kroyeri 
+1 
+8 
+9 
+ 
+Streblosoma bairdi 
+1 
+1 
+ 
+Streblosoma intestinale 
+8 
+4 
+12 
+ 
+Terebellides sp. 
+5 
+1 
+6 
+ 
+Tharyx killariensis 
+2 
+2 
+ 
+Zatsepinia rittichae 
+1 
+1 
+ CRUSTACEA 
+ 
+Ostracoda 
+ 
+Ostracoda indet. 
+3 
+3 
+6 
+ 
+Malacostraca 
+ 
+Ampelisca sp. 
+1 
+1 
+2 
+ 
+Diastyloides biplicatus 
+1 
+1 
+ 
+Eriopisa elongata 
+2 
+2 
+ 
+Gnathia sp. 
+2 
+2 
+ 
+Tanaidacea indet. 
+1 
+1 
+ MOLLUSCA 
+ 
+Caudofoveata 
+ 
+Caudofoveata indet. 
+5 
+5 
+10 
+ 
+Prosobranchia 
+ 
+Haliella stenostoma 
+1 
+1 
+ 
+Bivalvia 
+ 
+Adontorhina similis 
+2 
+2 
+4 
+ 
+Astarte sulcata 
+3 
+4 
+7 
+ 
+Axinulus croulinensis 
+5 
+5 
+10 
+ 
+Bathyarca pectunculoides 
+1 
+1 
+ 
+Cuspidaria lamellosa 
+1 
+1 
+ 
+Cuspidaria obesa 
+1 
+1 
+ 
+Ennucula corticata 
+1 
+1 
+ 
+Mendicula ferruginosa 
+4 
+3 
+7 
+ 
+Mendicula pygmaea 
+2 
+2 
+ 
+Parathyasira equalis 
+11 
+6 
+17 
+ 
+Parvicardium minimum 
+1 
+1 
+2 
+ 
+Tellimya ferruginosa 
+1 
+1 
+ 
+Thyasira obsoleta 
+16 
+9 
+25 
+ 
+Thyasiridae indet. 
+1 
+1 
+ 
+Yoldiella lucida 
+1 
+1 
+2 
+ 
+Yoldiella nana 
+5 
+2 
+7 
+ 
+Yoldiella philippiana 
+3 
+1 
+4 
+ ECHINODERMATA 
+ 
+Ophiuroidea 
+ 
+Ophiuroidea indet. juv. 
+5 
+1 
+6 
+ 
+Holothuroidea 
+ 
+Labidoplax buskii 
+1 
+1 
+2 
+ 
+Myriotrochus vitreus 
+2 
+2 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 27 av 36 
+ Rekke 
+Klasse 
+Art/Taxa 
+01 
+02 
+Sum 
+ 
+Maks: 
+37 
+43 
+80 
+ 
+Antall: 
+51 
+49 
+67 
+ 
+Sum: 
+379 
+ Stasjonsnr.:  C3 
+ NEMERTINI 
+ 
+Nemertea indet. 
+1 
+1 
+ ANNELIDA 
+ 
+Polychaeta 
+ 
+Amphictene auricoma 
+2 
+2 
+ 
+Amythasides macroglossus 
+33 
+9 
+42 
+ 
+Aricidea sp. 
+1 
+1 
+ 
+Augeneria sp. 
+2 
+2 
+ 
+Ceratocephale loveni 
+3 
+3 
+ 
+Chaetozone sp. 
+1 
+1 
+ 
+Chirimia biceps 
+1 
+1 
+ 
+Chone sp. 
+15 
+4 
+19 
+ 
+Clymenura borealis 
+6 
+6 
+ 
+Cossuridae indet. 
+1 
+1 
+ 
+Eclysippe vanelli 
+3 
+1 
+4 
+ 
+Galathowenia oculata 
+1 
+3 
+4 
+ 
+Heteromastus filiformis 
+4 
+8 
+12 
+ 
+Lanassa venusta 
+1 
+4 
+5 
+ 
+Maldanidae indet. 
+2 
+2 
+ 
+Nephtyidae indet. 
+1 
+1 
+ 
+Nothria conchylega 
+1 
+1 
+ 
+Notomastus latericeus 
+5 
+2 
+7 
+ 
+Paramphinome jeffreysii 
+2 
+5 
+7 
+ 
+Pholoe assimilis 
+1 
+1 
+ 
+Placostegus tridentatus 
+1 
+1 
+ 
+Proclea graffii 
+5 
+3 
+8 
+ 
+Pseudopolydora paucibranchiata 
+6 
+7 
+13 
+ 
+Sabella pavonina 
+1 
+1 
+ 
+Scalibregma hanseni 
+5 
+1 
+6 
+ 
+Siboglinum fiordicum 
+40 
+40 
+ 
+Spiophanes kroyeri 
+5 
+5 
+ 
+Streblosoma intestinale 
+3 
+1 
+4 
+ 
+Terebellidae indet. 
+2 
+2 
+ 
+Terebellides sp. 
+3 
+3 
+ 
+Tharyx killariensis 
+2 
+2 
+ 
+Zatsepinia rittichae 
+1 
+1 
+ CRUSTACEA 
+ 
+Ostracoda 
+ 
+Ostracoda indet. 
+1 
+1 
+ 
+Malacostraca 
+ 
+Ampelisca sp. 
+1 
+1 
+ 
+Eriopisa elongata 
+3 
+3 
+ 
+Gammaridea indet. 
+1 
+1 
+ 
+Gnathia sp. 
+1 
+1 
+ MOLLUSCA 
+ 
+Caudofoveata 
+ 
+Caudofoveata indet. 
+1 
+1 
+ 
+Opistobranchia 
+ 
+Retusa umbilicata 
+1 
+1 
+ 
+Bivalvia 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 28 av 36 
+ Rekke 
+Klasse 
+Art/Taxa 
+01 
+02 
+Sum 
+ 
+Abra nitida 
+1 
+1 
+ 
+Astarte sulcata 
+2 
+1 
+3 
+ 
+Axinulus croulinensis 
+7 
+11 
+18 
+ 
+Bathyarca pectunculoides 
+1 
+1 
+ 
+Cuspidaria cuspidata 
+1 
+1 
+ 
+Cuspidaria lamellosa 
+1 
+1 
+2 
+ 
+Mendicula ferruginosa 
+6 
+1 
+7 
+ 
+Mendicula pygmaea 
+1 
+1 
+ 
+Modiolula phaseolina 
+1 
+1 
+ 
+Parathyasira equalis 
+8 
+13 
+21 
+ 
+Parvicardium minimum 
+3 
+3 
+ 
+Similipecten similis 
+2 
+2 
+ 
+Thyasira obsoleta 
+9 
+1 
+10 
+ 
+Thyasira sarsii 
+2 
+2 
+ 
+Tropidomya abbreviata 
+2 
+2 
+ 
+Yoldiella lucida 
+2 
+3 
+5 
+ 
+Yoldiella nana 
+1 
+2 
+3 
+ 
+Yoldiella philippiana 
+1 
+1 
+ BRACHIOPODA 
+ 
+Articulata 
+ 
+Macandrevia cranium 
+1 
+1 
+ ECHINODERMATA 
+ 
+Ophiuroidea 
+ 
+Ophiuroidea indet. juv. 
+1 
+3 
+4 
+ 
+Holothuroidea 
+ 
+Labidoplax buskii 
+1 
+1 
+ 
+Maks: 
+33 
+40 
+42 
+ 
+Antall: 
+45 
+37 
+61 
+ 
+Sum: 
+308 
+ Stasjonsnr.:  C4 
+ SIPUNCULIDA 
+ 
+Nephasoma minutum 
+4 
+4 
+ 
+Phascolion strombus 
+1 
+1 
+2 
+ ANNELIDA 
+ 
+Polychaeta 
+ 
+Amaeana trilobata 
+1 
+1 
+2 
+ 
+Amphictene auricoma 
+1 
+1 
+2 
+ 
+Amythasides macroglossus 
+8 
+3 
+11 
+ 
+Aphelochaeta sp. 
+1 
+2 
+3 
+ 
+Augeneria sp. 
+1 
+1 
+ 
+Chone sp. 
+4 
+3 
+7 
+ 
+Clymenura borealis 
+2 
+2 
+4 
+ 
+Cossuridae indet. 
+2 
+2 
+ 
+Diplocirrus glaucus 
+1 
+1 
+ 
+Dipolydora sp. 
+2 
+2 
+ 
+Galathowenia oculata 
+2 
+2 
+ 
+Glycera lapidum 
+2 
+2 
+ 
+Heteromastus filiformis 
+8 
+16 
+24 
+ 
+Lagis koreni 
+1 
+1 
+ 
+Lanassa venusta 
+3 
+4 
+7 
+ 
+Paramphinome jeffreysii 
+7 
+2 
+9 
+ 
+Phylo sp. 
+2 
+3 
+5 
+ 
+Pista sp. 
+1 
+1 
+ 
+Proclea graffii 
+2 
+2 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 29 av 36 
+ Rekke 
+Klasse 
+Art/Taxa 
+01 
+02 
+Sum 
+ 
+Pseudopolydora paucibranchiata 
+13 
+15 
+28 
+ 
+Sabella pavonina 
+1 
+1 
+ 
+Siboglinum fiordicum 
+128 
+114 
+242 
+ 
+Terebellidae indet. 
+1 
+1 
+ 
+Terebellides sp. 
+2 
+2 
+4 
+ 
+Tharyx killariensis 
+1 
+1 
+ 
+Trichobranchus roseus 
+1 
+1 
+2 
+ CRUSTACEA 
+ 
+Malacostraca 
+ 
+Diastylis sp. 
+1 
+1 
+ 
+Eudorella sp. 
+1 
+1 
+ 
+Tanaidacea indet. 
+1 
+1 
+2 
+ MOLLUSCA 
+ 
+Caudofoveata 
+ 
+Caudofoveata indet. 
+1 
+1 
+ 
+Prosobranchia 
+ 
+Euspira montagui 
+1 
+1 
+ 
+Bivalvia 
+ 
+Abra nitida 
+2 
+2 
+ 
+Adontorhina similis 
+3 
+4 
+7 
+ 
+Axinulus croulinensis 
+4 
+4 
+8 
+ 
+Kelliella miliaris 
+1 
+1 
+ 
+Mendicula ferruginosa 
+2 
+1 
+3 
+ 
+Mendicula pygmaea 
+1 
+1 
+ 
+Parathyasira equalis 
+2 
+7 
+9 
+ 
+Parvicardium minimum 
+2 
+2 
+4 
+ 
+Pseudamussium peslutrae 
+3 
+3 
+ 
+Thyasira obsoleta 
+1 
+1 
+ 
+Thyasira sarsii 
+1 
+2 
+3 
+ 
+Tropidomya abbreviata 
+1 
+1 
+ 
+Yoldiella lucida 
+2 
+2 
+4 
+ 
+Yoldiella nana 
+2 
+1 
+3 
+ 
+Yoldiella philippiana 
+2 
+2 
+ ECHINODERMATA 
+ 
+Echinoidea 
+ 
+Brisaster fragilis 
+1 
+1 
+ 
+Maks: 128 
+114 
+242 
+ 
+Antall: 
+37 
+36 
+49 
+ 
+Sum: 
+432 
+ Stasjonsnr.:  Cref 
+ NEMERTINI 
+ 
+Nemertea indet. 
+1 
+1 
+ SIPUNCULIDA 
+ 
+Onchnesoma steenstrupii 
+1 
+1 
+ 
+Phascolion strombus 
+1 
+1 
+ ANNELIDA 
+ 
+Polychaeta 
+ 
+Amaeana trilobata 
+1 
+1 
+2 
+ 
+Ampharetidae indet. 
+1 
+1 
+ 
+Amphictene auricoma 
+2 
+1 
+3 
+ 
+Amythasides macroglossus 
+9 
+4 
+13 
+ 
+Aphelochaeta sp. 
+1 
+1 
+ 
+Chirimia biceps 
+1 
+1 
+ 
+Chone sp. 
+10 
+5 
+15 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 30 av 36 
+ Rekke 
+Klasse 
+Art/Taxa 
+01 
+02 
+Sum 
+ 
+Clymenura borealis 
+3 
+5 
+8 
+ 
+Diplocirrus glaucus 
+1 
+1 
+ 
+Eclysippe vanelli 
+2 
+2 
+ 
+Exogone verugera 
+1 
+1 
+ 
+Glycera lapidum 
+5 
+2 
+7 
+ 
+Heteromastus filiformis 
+8 
+16 
+24 
+ 
+Lanassa venusta 
+4 
+7 
+11 
+ 
+Levinsenia gracilis 
+1 
+1 
+ 
+Lumbriclymene cylindricauda 
+1 
+1 
+ 
+Macrochaeta clavicornis 
+1 
+1 
+ 
+Nephtys hystricis 
+1 
+1 
+ 
+Nothria conchylega 
+3 
+3 
+ 
+Paramphinome jeffreysii 
+7 
+12 
+19 
+ 
+Praxillura longissima 
+1 
+1 
+ 
+Proclea graffii 
+2 
+2 
+ 
+Pseudopolydora paucibranchiata 
+11 
+5 
+16 
+ 
+Sabella pavonina 
+1 
+1 
+ 
+Siboglinum fiordicum 
+56 
+58 
+114 
+ 
+Sosane wahrbergi 
+1 
+1 
+ 
+Sosane wireni 
+1 
+1 
+ 
+Spiophanes kroyeri 
+5 
+2 
+7 
+ 
+Streblosoma intestinale 
+2 
+2 
+4 
+ 
+Terebellidae indet. 
+1 
+1 
+ 
+Terebellides sp. 
+1 
+1 
+ 
+Tharyx killariensis 
+2 
+1 
+3 
+ CRUSTACEA 
+ 
+Ostracoda 
+ 
+Ostracoda indet. 
+1 
+1 
+ 
+Malacostraca 
+ 
+Campylaspis sp. 
+1 
+1 
+ 
+Diastylis sp. 
+1 
+1 
+ 
+Diastyloides biplicatus 
+1 
+1 
+ 
+Eriopisa elongata 
+2 
+1 
+3 
+ 
+Gnathia sp. 
+1 
+1 
+ 
+Tanaidacea indet. 
+2 
+2 
+ MOLLUSCA 
+ 
+Caudofoveata 
+ 
+Caudofoveata indet. 
+2 
+3 
+5 
+ 
+Prosobranchia 
+ 
+Cryptonatica affinis 
+1 
+1 
+ 
+Bivalvia 
+ 
+Abra nitida 
+2 
+2 
+4 
+ 
+Adontorhina similis 
+1 
+1 
+ 
+Astarte sulcata 
+1 
+1 
+ 
+Axinulus croulinensis 
+4 
+10 
+14 
+ 
+Cuspidaria lamellosa 
+1 
+1 
+ 
+Delectopecten vitreus 
+2 
+2 
+ 
+Mendicula ferruginosa 
+4 
+3 
+7 
+ 
+Mendicula pygmaea 
+1 
+1 
+ 
+Parathyasira equalis 
+4 
+13 
+17 
+ 
+Parvicardium minimum 
+2 
+2 
+ 
+Pseudamussium peslutrae 
+1 
+1 
+ 
+Thyasira obsoleta 
+1 
+1 
+ 
+Thyasira sarsii 
+2 
+2 
+ 
+Tropidomya abbreviata 
+2 
+2 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 31 av 36 
+ Rekke 
+Klasse 
+Art/Taxa 
+01 
+02 
+Sum 
+ 
+Yoldiella lucida 
+5 
+1 
+6 
+ 
+Yoldiella nana 
+4 
+11 
+15 
+ 
+Yoldiella philippiana 
+2 
+3 
+5 
+ 
+Scaphopoda 
+ 
+Antalis entalis 
+1 
+1 
+ ECHINODERMATA 
+ 
+Ophiuroidea 
+ 
+Ophiuroidea indet. juv. 
+6 
+7 
+13 
+ 
+Holothuroidea 
+ 
+Labidoplax buskii 
+1 
+2 
+3 
+ TUNICATA 
+ 
+Ascidiacea 
+ 
+Ascidiacea indet. (solit) 
+1 
+1 
+2 
+ 
+Maks: 
+56 
+58 
+114 
+ 
+Antall: 
+47 
+44 
+65 
+ 
+Sum: 
+388 
+ 
+TOTAL: 
+Maks: 
+242 
+ 
+Sum: 
+1907 
+ 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 32 av 36 
+7.2 Analysebeviser 
+ 
+ 
+ 
+Lab-id. Kundens id. Fe Mottatt lab Parametere Analyse-periode
+ved mottak
+
+62508/C1 C1 Frossen 18.01.2021 Korn, TOM, TOG, TN, Cu 21.01.21 - 08.02.21
+
+62508/C2 C2 Frossen 18.01.2021 Korn, TOM, TOC, TN 21.01.21 - 28.01.21
+
+62508/C3 C3 Frossen 18.01.2021 Korn, TOM, TOC, TN 21.01.21 - 28.01.21
+
+62508/C4 C4 Frossen 18.01.2021 Korn, TOM, TOC, TN 21.01.21 - 28.01.21
+
+62508/Cref Cref Frossen 18.01.2021 Korn, TOM, TOC, TN 21.01.21 - 28.01.21
+
+Følgende analysemetoder er benyttet
+
+Parameter Metodererefer anse
+
+Sikting, basert på Bale, A.J. & Kenny, A.J. 2005. Sediment analysis and seabed
+characterisation . In: Eleftheriou,A; McIntyre, A.D. “Methods for the study of marine
+benthos”, 3rd ed. Blackwell Science, Oxford, UK. ISBN 0-632-05488-3, pp. 43-86
+
+Kornfordeling (splitt i to)
+
+Totalt organisk materiale-TOM [Intern metode basert pa NS 4764:1980
+
+Totalt organisk karbon-TOC NDIR-deteksjon. Intern metode basert på DIN 19539:2016
+Totalt bundet nitrogen Elektrokjemisk deteksjon. Intern metode basert på NS-EN 16168:2012.
+- Total-N MERK: ved TOC-verdier større enn ca 60 mg/g TS kan TN-resultater bli underestimert
+Kobber-Cu
+
+EPA 200.7, ISO 11885, EPA 6010 og SM 3120
+
+(utført av underlev.)
+
+62508 Kjemirapport C-undersøkelse m klassifisering.xlsx Side 2 av 3
+
+Akvaplan-niva 2021 62508.03
+Side 33 av 36
+
+Resultater
+
+TOC TN TOM Pelitt | > 0,063 mm Cu* N TOC C/N
+Kundens id.: mg/g TS mg/g TS %TS vekt% vekt% mg/kg TS | mg/g TS
+C1 13 2.0 3.7 76.4 23.6 9.84 16.8 6.5
+C2 6.7 1.1 2.3 38.7 61.3 ia Aver 6.3
+G3 13 21 3.8 72.3 Zheof ia 18.0 6.3
+C4 17 2.6 46 83.9 16.1 ia 19.4 6.4
+Cref 13 1.9 4.3 61.4 38.6 ia ef > |
+
+ia = ikke analysert
+
+* Analysen er utført av ALS Laboratory Group, ALS Czech Republic s.r.o, Na Harfé 9/336, Praha, Tsjekkia
+
+Akkreditering:
+
+N TOC (Normalisert TOC) = målt TOC mg/g + 18*(1-F), der F=andel finstoff (pelitt) gitt ved %pelitt/100.
+
+Czech Accreditation Institute, labnr. 1163
+
+Tilstandsklassifisering for NTOC i sedimenter ihht. Veileder 02:2018.
+Metaller er klassifisert ihht. veileder M-608 (Rev. 31.10.2020)
+
+< 20
+Normalisert TOC, mg/g TS | ISvært god
+<
+Cu, mg/kg TS sil
+Klasse I
+
+62508 Kjemirapport C-undersokelse m klassifisering.xlsx
+
+27-34
+
+III Moderat
+
+34-41
+IV Dårlig
+
+84 - 147
+Klasse IV
+
+Side 3 av 3
+
+Akvaplan-niva 2021 62508.03
+Side 34 av 36
+ 
+Akvaplan-niva 2021 62508.03     
+Side 35 av 36 
+7.3  Bilder av prøver ved Grønnstranda 
+C1 
+ 
+C2 
+ 
+C3 
+ 
+C4 
+ 
+ 
+Akvaplan-niva 2021 62508.03     
+Side 36 av 36 
+Cref* 
+ 
+*Stasjon Cref ble feilmerket til C5 i felt.

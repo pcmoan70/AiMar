@@ -1,0 +1,4370 @@
+﻿Salten Aqua AS, Edelfarm AS, Wenberg 
+Fiskeoppdrett AS, Salten Havbruk AS, 
+White Ocean Salten AS, Gigante 
+Offshore AS 
+ 
+ 
+ 
+ 
+Vannmiljø og hydrodynamikk i 
+Skjerstadfjorden 
+ 
+ 
+ 
+Tromsø 26.09.2008 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+ 
+ 
+ 
+Dokumentets status: 
+ Foreløpig versjon 
+ Endelig versjon 
+ Unndratt offentlighet 
+Dato for siste utskrift: 29.09.2008 
+Dato for ferdigstilling: 26.09.08 
+Antall sider totalt: 60 
+Opplag:  
+Forfatter/ medarbeidere: 
+Kåre Aas, Barlindhaug Norfico AS 
+Bjørn Steinar Sæther, Nofima Marin, Tromsø 
+ 
+Oppdragsgiver: Salten Aqua AS, Edelfarm AS, Wenberg Fiskeoppdrett AS, Salten Havbruk AS, White Ocean 
+Salten AS og Gigante Offshore AS 
+Ansvarlig: Geir Wenberg 
+ 
+Sammendrag:  
+Etter initiativ fra oppdrettsaktørene har Barlindhaug Norfico AS (BN) ved Kåre Aas i samarbeid med Nofima Marin 
+(tidligere Fiskeriforskning) ved Bjørn Steinar Sæther stått for gjennomføringen av prosjektet.  
+Gjennom å måle vannstrøm ved åtte lokaliteter spredt på begge sider i hele fjordens lengde, har dette arbeidet 
+gitt en forståelse av hvordan vannet i Skjerstadfjorden forflytter seg. Resultatene fra undersøkelsen er relativt 
+sammenfallend og gir et bilde som viser at vannet pulserer både horisontalt og vertikalt i fjordens lengderetning. 
+Det er antydet et strømningsbilde som i liten grad ser ut til å være knyttet direkte til tidevannssyklusen, men at det 
+er en indirekte kobling ved at vann med ulik temperatur og saltholdighet kommer inn i fjorden og påvirker 
+bevegelsen. Vannet som er i fjorden vil også endre temperatur og saltholdighet avhengig av årstid og tilførsel av 
+ferskvann. Slike endringer vil også påvirke hydrodynamikken, kanskje spesielt ved inn / utløp av tilknyttede 
+vannsystemer. Denne undersøkelsen har i tråd med den etablerte forståelsen av fjorden vist at det er god vertikal 
+omrøring som gir god vannkvalitet i hele vannsøylen.  
+Skjerstadfjorden har stort potensial for videre utvikling av havbruksnæringen, hvor vannutskifting og vannkvalitet 
+er sentrale elementer. I dag utnyttes ca 2 % av fjordens potensial ved at det produseres inntil 5000 tonn av en 
+maksimal produksjon beregnet til 240 000 tonn. Det er med andre ord gode muligheter for å øke produksjonen 
+betraktelig. En bærekraftig utvikling fordrer tett samarbeid mellom næringsaktører og forvaltningsorgan som i 
+fellesskap må finne de beste måtene å forvalte fjorden på.  
+ 
+Prosjektleder: Kåre Aas 
+Tlf direkte: 
+77622600 / 77622675 
+E-mail: 
+kare.aas@barlindhaug.no 
+Ansvarlig for kvalitetssikring:  
+Bjørn Steinar Sæther 
+bjorn-steinar.saether@nofima.no 
+Rapportnavn:  
+Vannmiljø og hydrodynamikk i Skjerstadfjorden 
+Adresse:  Sjølundveien 2 
+ 
+9291 TROMSØ 
+Telefon:  77 62 26 00 
+Faks: 
+77 62 26 99 
+Org. Nr:  NO 936 392 954 MVA 
+Ark. Nr:  
+dokument2 
+Internett:  
+http://www.barlindhaug.no 
+Firmapost:  norfico@barlindhaug.no 
+ 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+ 
+INNHOLDSFORTEGNELSE 
+1. 
+Bakgrunn ......................................................................................................................1 
+1.1 
+Målsetning...................................................................................................................................2 
+2. 
+Metode ..........................................................................................................................2 
+3. 
+Resultater .....................................................................................................................5 
+3.1 
+Godøy ..........................................................................................................................................5 
+3.1.1 
+Horisontal hastighet..................................................................................................................5 
+3.1.2 
+Vertikal hastighet......................................................................................................................6 
+3.1.3 
+Temperatur 60 meter................................................................................................................6 
+3.1.4 
+Hovedstrømretning (progressiv vektor)....................................................................................7 
+3.1.5 
+Detaljer ved 8-10 meter............................................................................................................7 
+3.2 
+Profilmålinger Godøy.................................................................................................................9 
+3.2.1 
+10.mars 2008............................................................................................................................9 
+3.2.2 
+8.april 2008.............................................................................................................................10 
+3.3 
+Kvalnes......................................................................................................................................11 
+3.3.1 
+Horisontal hastighet................................................................................................................11 
+3.3.2 
+Vertikal hastighet....................................................................................................................11 
+3.3.3 
+Temperatur 60 meter..............................................................................................................12 
+3.3.4 
+Hovedstrømsretning (progressiv vektor) ................................................................................12 
+3.3.5 
+Detaljer ved 9-11 meter..........................................................................................................13 
+3.4 
+Profilmålinger Kvalnes ............................................................................................................14 
+3.4.1 
+10.mars 2008..........................................................................................................................14 
+3.4.2 
+8.april 2008.............................................................................................................................15 
+3.4.3 
+16.juli 2008 .............................................................................................................................16 
+3.5 
+Eidvika .......................................................................................................................................17 
+3.5.1 
+Horisontal hastighet................................................................................................................17 
+3.5.2 
+Vertikal hastighet....................................................................................................................17 
+3.5.3 
+Temperatur 60 meter..............................................................................................................18 
+3.5.4 
+Hovedstrømsretning (progressiv vektor) ................................................................................18 
+3.5.5 
+Detaljer ved 9-11 meter..........................................................................................................19 
+3.6 
+Profilmålinger Eidvika..............................................................................................................20 
+3.6.1 
+10.mars 2008..........................................................................................................................20 
+3.6.2 
+8.april 2008.............................................................................................................................21 
+3.6.3 
+16.juli 2008 .............................................................................................................................22 
+3.7 
+Alvnes........................................................................................................................................23 
+3.7.1 
+Horisontal hastighet................................................................................................................23 
+3.7.2 
+Vertikal hastighet....................................................................................................................23 
+3.7.3 
+Temperatur 60 meter..............................................................................................................24 
+3.7.4 
+Hovedstrømsretning (progressiv vektor) ................................................................................24 
+3.7.5 
+Detaljer ved 9-11 meter..........................................................................................................25 
+3.8 
+Profilmålinger Alvnes ..............................................................................................................26 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+ 
+3.8.1 
+16.juli 2008 .............................................................................................................................26 
+3.9 
+Kjetnes.......................................................................................................................................27 
+3.9.1 
+Horisontal hastighet................................................................................................................27 
+3.9.2 
+Vertikal hastighet....................................................................................................................27 
+3.9.3 
+Temperatur 60 meter..............................................................................................................28 
+3.9.4 
+Hovedstrømsretning (progressiv vektor) ................................................................................28 
+3.9.5 
+Detaljer ved 8-10 meter..........................................................................................................29 
+3.10 
+Profilmålinger Kjetnes .............................................................................................................30 
+3.10.1 
+18.februar 2008 ......................................................................................................................30 
+3.10.2 
+10.mars 2008..........................................................................................................................31 
+3.11 
+Øynes.........................................................................................................................................32 
+3.11.1 
+Horisontal hastighet................................................................................................................32 
+3.11.2 
+Vertikal hastighet....................................................................................................................32 
+3.11.3 
+Temperatur 60 meter..............................................................................................................33 
+3.11.4 
+Hovedstrømsretning (progressiv vektor) ................................................................................33 
+3.11.5 
+Detaljer ved 8-10 meter..........................................................................................................34 
+3.12 
+Profilmålinger Øynes ...............................................................................................................35 
+3.12.1 
+18.februar 2008 ......................................................................................................................35 
+3.12.2 
+10.mars 2008..........................................................................................................................36 
+3.13 
+Gjelhunes ..................................................................................................................................37 
+3.13.1 
+Horisontal hastighet................................................................................................................37 
+3.13.2 
+Vertikal hastighet....................................................................................................................37 
+3.13.3 
+Temperatur 60 meter..............................................................................................................38 
+3.13.4 
+Hovedstrømsretning (progressiv vektor) ................................................................................38 
+3.13.5 
+Detaljer ved 9-11 meter..........................................................................................................39 
+3.14 
+Profilmålinger Gjelhunes.........................................................................................................40 
+3.14.1 
+18.februar 2008 ......................................................................................................................40 
+3.14.2 
+10.mars 2008..........................................................................................................................41 
+3.14.3 
+16.juli 2008 .............................................................................................................................42 
+3.15 
+Tusvika ......................................................................................................................................43 
+3.15.1 
+Horisontal hastighet................................................................................................................43 
+3.15.2 
+Vertikal hastighet....................................................................................................................43 
+3.15.3 
+Temperatur 60 meter..............................................................................................................44 
+3.15.4 
+Hovedstrømsretning (progressiv vektor) ................................................................................44 
+3.15.5 
+Detaljer ved 8-10 meter..........................................................................................................45 
+3.16 
+Profilmålinger Tusvika.............................................................................................................46 
+3.16.1 
+18.februar 2008 ......................................................................................................................46 
+3.16.2 
+10.mars 2008..........................................................................................................................47 
+3.17 
+Oppsummering resultater .......................................................................................................48 
+3.17.1 
+Horisontal vannstrøm .............................................................................................................48 
+3.17.2 
+Vertikal vannstrøm..................................................................................................................48 
+3.17.3 
+Temperatur.............................................................................................................................48 
+3.17.4 
+Hovedstrømsretning (progressiv vektor) ................................................................................48 
+3.17.5 
+Detaljer ved 10 meters dyp ....................................................................................................49 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+ 
+3.17.6 
+Profiler vinter (februar, mars og april).....................................................................................50 
+3.17.7 
+Profiler sommer (juli) ..............................................................................................................50 
+4. 
+Diskusjon....................................................................................................................51 
+4.1 
+Hydrodynamikk og vannmiljø .................................................................................................51 
+4.2 
+Utnyttelse av arealene, momenter til vurdering....................................................................53 
+5. 
+Konklusjon .................................................................................................................54 
+6. 
+Litteratur .....................................................................................................................55 
+ 
+Ref: n:\4306salten aqua as miljøundersøkelser i skjerstadfjorden\rapp0002.doc 
+Saksbehandler:  Kåre Aas 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+ 
+1. 
+Bakgrunn 
+Skjerstadfjorden som fjordsystem har svært geografisk begrenset inn og utløp, hvor det aller meste går 
+gjennom Saltstrømmen. Fjorden kjennetegnes ellers ved en dyp renne midtfjords, som går ned til ca. 
+500 meter. Flere tettsteder er lokalisert ved fjorden, med Fauske og Rognan som de største. I tillegg er 
+det etablert flere oppdrettsselskaper i fjorden, med flere lokaliteter (figur 1). Nicolaisen og Krogstad 
+(2008) har vurdert potensialet for oppdrett i den delen av Skjerstadfjorden som ligger inn under Bodø 
+kommune, og konkluderer med at biologisk bæreevne i fjorden er mye større enn det areal som er 
+tilgjengelig for ekspansjon av næringen. I rapporten belyses ulike scenarioer som kan bidra til å 
+optimalisere arealutnyttelsen til en bærekraftig havbruksnæring. 
+Da tilgang på disponible arealer til akvakulturformål synes å være begrensende for fremtidig utvikling 
+i fjordsystemet (Nicolaisen og Krogstad, 2008), er regelverk og retningslinjer fra ulike 
+forvaltningsorganer av særlig betydning. Disse skal i hovedsak ivareta alle andre bruksinteresser og ta 
+hensyn til oppdrettsfiskens velferd og minimere faren for sykdomsspredning.  
+ 
+Figur 1. Godkjente oppdrettslokaliteter i Skjerstadfjorden og tilstøtende områder. Symboler med fisk viser 
+lokalisering av oppdrettsanlegg for fisk (oransje for torsk, røde for laksefisk, lilla symboler er settefiskanlegg), 
+mens blå symboler med skjell viser lokalisering av påvekstanlegg for skjell.  
+For optimal utnyttelse av arealene i fjorden er det nødvendig med en felles strategi hvor fjordens 
+beskaffenhet vil være sentral og retningsgivende. Topografien i Skjerstadfjorden ar relativt ensartet, 
+med bratte sider som ender på en gjennomgående flate midt i fjorden. Tilstøtende vannsystemer 
+(Misværfjorden, Saltdalsfjorden, Fauskevika, Klungsetvika og Valnesfjorden) har varierende dybde 
+ved inn og utløp.  
+I følge oppdretterne som har lang erfaring fra drift i systemet er det store variasjoner i mengden 
+ferskvann som observeres. Variasjonene knyttes til mengde nedbør, tidspunkt for snøsmelting og 
+regulering av strømproduksjonen i kraftverkene som har tilførsel ut i fjordsystemet. Til tider blir 
+vannstrømmen generert av ferskt overflatevann betegnet ”som ei elv”. Det blir også påpekt at 
+vannforflytningen gir seg utslag i svært lokale fenomener som kan gi frostrøyk om vinteren, spesielle 
+bølgeforhold forårsaket av at vind og strøm går mot hverandre og irregulære innslag av kraftigere 
+strøm enn normalt på nærmest tilfeldige steder. I tillegg til selve vannforflytningen er det også 
+erfaringer som viser at vind kan bidra til å stue opp vann, spesielt i fjordbunner, for så i neste omgang 
+å skifte retning og blåse det samme vannet ut av fjorden.  
+ 
+ 
+Tromsø 26.09.2008 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+2 
+Basert på sine erfaringer fra fjorden har oppdretterne en formening om hvordan vannstrømmen er, 
+spesielt i tilknytning til lokalitetene som drives. Gjennom arbeidet som presenteres i denne rapporten 
+har aktørene, Salten Aqua AS, Edelfarm AS, Wenberg Fiskeoppdrett AS, Salten Havbruk AS, White 
+Ocean Salten AS og Gigante Offshore AS, gått sammen om å studere vannmiljø og hydrodynamikk i 
+Skjerstadfjorden. På denne måten ønsker de å utfylle kunnskapen som allerede er etablert for 
+vannsystemet og dermed danne bedre grunnlag for disponering av arealene. Dette for å sikre framtidig 
+driftsgrunnlag for selskapene, et grunnlag fundamentert på gode og bærekraftige lokaliteter.  
+1.1 
+Målsetning 
+Hovedmål: 
+• 
+Gjennomføre grovkartlegging av hydrodynamiske forhold i Skjerstadfjorden. 
+Delmål: 
+• 
+Registrere horisontal og vertikal vannstrøm ved åtte lokaliteter hjelp av profilerende 
+strømmålere. 
+• 
+Beskrive vannmiljøet ved å gjennomføre profilmålinger i tilknytning til lokalitetene.  
+2. 
+Metode 
+Det ble valg ut åtte punkter for måling av strøm (horisontal og vertikal) og profilmålinger med 
+temperatur, saltholdighet og oksygenmetning (tabell 1, figur 2a, b, 3 og 4). Plasseringen av 
+målepunktene ble valgt ut i fra fjordens topografi, med fokus på hver side av hovedleden. På grunn av 
+svært bratte sider ved de fleste av målepunktene ble forankringen av alle strømmålerriggene lagt ut på 
+ca 500 meters dyp, unntatt ved Øynes hvor målepunktet ble trukket inn mot Klungsetvika hvor det var 
+136 meter dypt. Tilstøtende fjordarmer og viker er utelatt i dette arbeidet på grunn av omfanget med 
+behov for instrumenter og personell. 
+Vannstrømmen ble målt ved hjelp av RDCP 600 (Aanderaa Data Instruments), som er basert på 
+dopplerteknologi. Målerne ble plassert på ca 60 meters dyp, pekende oppover, i en rigg med bøye og 
+stang på overflaten og dregg på bunnen. Vannstrømmen ble målt for hver andre meter over 
+instrumentet i inntil 30 celler. For hver av disse cellene måles horisontal og vertikal vannstrøm som 
+kan presenteres hver for seg, alternativt kan alle cellene settes sammen slik at vannstrømmen i 
+måleperioden kan framstilles tredimensjonalt. Dette vil gi en oversikt over vannmassenes horisontale 
+og vertikale forflytning i fjordsystemet. Vertikale vannstrømmer er ofte oversett, men bidraget til 
+vannutskiftning ved oppdrettslokaliteter kan være vesentlig. I undersøkelser hvor man ønsker å forstå 
+hydrodynamiske forhold i fjorder vil det være viktig også å beskrive denne.  
+Avstanden fra overflaten ble valgt ut fra instrumentenes forventede rekkevidde. Rekkevidden vil 
+avhenge av mengden partikler løst i vannet for refleksjon av signalene som sendes ut. Instrumentene 
+var satt opp til å måle gjennomsnittet av vannstrømmen for hver halve time, noe som skulle sikre 
+tilstrekkelig batterikapasitet for måleperioden.  
+Tabell 1: Oversikt over lokaliteter, periode og tidspunkt for de ulike målinger 
+Lokalitet
+N
+Ø
+Dybde
+Periode
+Dato profilmåling
+Godøy
+67 15.436
+14 47.713
+525
+10.mars/8.april-08
+10.mars/8.april-08
+Kvalnes
+67 14.853
+14 50.511
+521
+30.juni-16.juli-08
+10.mars/8.april/16.juli-08
+Eidvika
+67 14.604
+15 03.298
+513
+30.juni-16.juli-08
+10.mars/8.april/16.juli-08
+Alvnes
+67 15.898
+15 04.037
+497
+30.juni-16.juli-08
+16.juli-08/
+Kjetnes
+67 13.543
+15 11.817
+502
+18.feb/10.mars-08
+18.feb/10.mars-08
+Øynes
+67 14.512
+15 12.783
+136
+18.feb/10.mars-08
+18.feb/10.mars-08
+Gjelhunes
+67 11.772
+15 23.286
+423
+30.juni-16.juli-08
+18.feb/10.mars/16.juli-08
+Tusvika
+67 12.071
+15 25.337
+397
+18.feb/10.mars-08
+18.feb/10.mars-08
+ 
+ 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+3 
+Ved utsett og opptak av strømmålerne (tabell 1) ble temperatur, salinitet og oksygenmetning (%), målt 
+med profilmåler (SAIV AS, MINI STD/CTD modell SD204) ned til ca.350 meters dybde. 
+Oksygensensoren ble overhalt og kalibrert før hver måleserie, og sonden var programmert til å måle 
+hvert andre sekund. Resultatene fra disse målingene er presentert med registreringene som ble gjort av 
+sonden på tur fra dypeste punkt og opp til overflaten. Disse resultatene gjorde det mulig å vurdere om 
+det på måletidspunktet var lagdeling i vannsøylen.  
+Olex- kartene over fjorden var til dels mangelfulle, og det ble derfor nødvendig å grovkartlegge 
+områdene hvor målerne skulle settes ut. Dette for å vurdere topografien i forhold til vannstrøm og for å 
+finne gode forankringspunkter for måleriggene.  
+ 
+Figur 1a: Plassering av målestasjonene i ytre del av Skjerstadfjorden. 
+ 
+ 
+Figur 1b: Plassering av målestasjonene i indre del av Skjerstadfjorden. 
+Godøy 
+Kvalnes
+Eidvik
+Alvnes 
+Øynes 
+Kjetnes 
+Tusvik
+Gjelhunes 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+4 
+ 
+Figur 3: 3-D visning av målestasjonene ytterst i Skjerstadfjorden. Figuren viser hvordan bunn- topografien er i 
+området ved stasjonene Godøy, Kvalnes og videre ut mot Saltstraumen.  
+ 
+ 
+Figur 4: 3-D visning av målestasjonene innover i Skjerstadfjorden. Figuren viser hvordan bunn- topografien er i 
+området ved stasjonene og videre inn mot Fauskevika og Saltdalsfjorden.  
+Kvalnes
+Godøy
+Øynes
+Kjetnes
+Alvnes 
+Eidvik
+Tusvika
+Gjelhu
+⁫
+⁫
+nes
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+5 
+3. 
+Resultater 
+3.1 
+Godøy 
+3.1.1 
+Horisontal hastighet 
+ 
+Figur 5: 3-D visning av horisontal strømhastighet ved lokalitet Godøy, målt i perioden fra 10.mars til 8.april 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra 0 til 50 cm/s.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+6 
+3.1.2 
+Vertikal hastighet 
+ 
+Figur 6: 3-D visning av vertikal strømhastighet ved lokalitet Godøy, målt i perioden fra 10.mars til 8.april 2008. 
+Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten (cm/s) på 
+z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra -10 til 5 cm/s (negativt vannstrøm 
+viser perioder når vannet synker og positive når vannet stiger).  
+3.1.3 
+Temperatur 60 meter 
+4
+5
+6
+7
+03/11-00:00
+03/12-00:00
+03/13-00:00
+03/14-00:00
+03/15-00:00
+03/16-00:00
+03/17-00:00
+03/18-00:00
+03/19-00:00
+03/20-00:00
+03/21-00:00
+03/22-00:00
+03/23-00:00
+03/24-00:00
+03/25-00:00
+03/26-00:00
+03/27-00:00
+03/28-00:00
+03/29-00:00
+03/30-00:00
+03/31-00:00
+04/01-00:00
+04/02-00:00
+04/03-00:00
+04/04-00:00
+04/05-00:00
+04/06-00:00
+04/07-00:00
+04/08-00:00
+[D e g C]
+D a te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 7: Vanntemperatur på 60 meters dyp ved lokalitet Godøy, målt i perioden fra 10.mars til 8.april 2008.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+7 
+3.1.4 
+Hovedstrømretning (progressiv vektor) 
+0
+100000 200000 300000 400000
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+Cell2: 4.0 to 6.0m
+Cell7: 14.0 to 16.0m
+Cell12: 24.0 to 26.0m
+Cell25: 50.0 to 52.0m
+Moving average: 1
+Magnitude: [m]
+ 
+Figur 8: Hovedstrømretning ved fire dyp (angitt i tekstboks under figuren) ved lokalitet Godøy i perioden fra 
+10.mars til 8.april 2008. Linjene viser teoretisk forflytning av vannet basert på målt vannstrøm i perioden. 
+Tallene på sirkelen (x- aksen) tilsvarer retning, mens tall på y- aksen angir forflytningen i antall meter.  
+3.1.5 
+Detaljer ved 8-10 meter 
+Horisontal strøm 
+0
+10
+20
+30
+40
+03/11-00:00
+03/12-00:00
+03/13-00:00
+03/14-00:00
+03/15-00:00
+03/16-00:00
+03/17-00:00
+03/18-00:00
+03/19-00:00
+03/20-00:00
+03/21-00:00
+03/22-00:00
+03/23-00:00
+03/24-00:00
+03/25-00:00
+03/26-00:00
+03/27-00:00
+03/28-00:00
+03/29-00:00
+03/30-00:00
+03/31-00:00
+04/01-00:00
+04/02-00:00
+04/03-00:00
+04/04-00:00
+04/05-00:00
+04/06-00:00
+04/07-00:00
+04/08-00:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 9: Horisontal strømhastighet (cm/s) på 8 til 10 meters dyp ved lokalitet Godøy, målt i perioden fra 10.mars 
+til 8.april 2008.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+8 
+Vertikal strøm 
+-15
+-10
+-5
+0
+5
+03/11-00:00
+03/12-00:00
+03/13-00:00
+03/14-00:00
+03/15-00:00
+03/16-00:00
+03/17-00:00
+03/18-00:00
+03/19-00:00
+03/20-00:00
+03/21-00:00
+03/22-00:00
+03/23-00:00
+03/24-00:00
+03/25-00:00
+03/26-00:00
+03/27-00:00
+03/28-00:00
+03/29-00:00
+03/30-00:00
+03/31-00:00
+04/01-00:00
+04/02-00:00
+04/03-00:00
+04/04-00:00
+04/05-00:00
+04/06-00:00
+04/07-00:00
+04/08-00:00
+[cm/s]
+Date & T ime [Gmt]
+Moving average: 1
+ 
+Figur 10: Vertikal strømhastighet (cm/s) på 8 til 10 meters dyp ved lokalitet Godøy, målt i perioden fra 10.mars 
+til 8.april 2008. Negativt vannstrøm viser perioder når vannet synker og positive når vannet stiger. 
+Akkumulert, prosentvis strømhastighet 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+4
+Pe rce nta g e
+Curre nt sp e e d [c m/s]
+0
+ 
+Figur 11: Akkumulert antall målinger (%) på 8 til 10 meters dyp (Godøy i perioden fra 10.mars til 8.april 2008), 
+av totalt antall for ulike strømhastigheter (cm/s). 90 % av målingene har en hastighet på 22 cm/s eller lavere. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+9 
+3.2 
+Profilmålinger Godøy 
+3.2.1 
+10.mars 2008 
+Data displayed from: 21:39:17 - 10.Mar-08 (No. 564)   To: 21:47:47 - 10.Mar-08 (No: 819)
+Measurement series number: 3
+Interval: 2 seconds
+SD204, Serial No: 314
+File name: Ytre del st. 1,1-4,4 10mars_salin.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+4,2
+4,4
+4,6
+4,8
+5,0
+5,2
+5,4
+5,6
+5,8
+6,0
+6,2 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+28,0
+29,0
+30,0
+31,0
+32,0
+33,0
+34,0
+35,0 Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+82,0
+83,0
+84,0
+85,0
+86,0
+87,0
+88,0
+89,0
+90,0
+91,0
+92,0
+93,0
+Saturation (%)
+ 
+Figur 12: Profilmåling fra lokalitet Godøy 10.mars. Data er registrert med to sekunders mellomrom mens 
+sonden var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+10 
+3.2.2 
+8.april 2008 
+Data displayed from: 19:26:18 - 08.Apr-08 (No. 14)   To: 19:36:32 - 08.Apr-08 (No: 321)
+Measurement series number: 1
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Ytre_8_april08.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+4,4
+4,6
+4,8
+5,0
+5,2
+5,4
+5,6
+5,8 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+18,0
+20,0
+22,0
+24,0
+26,0
+28,0
+30,0
+32,0
+34,0
+36,0 Salinity‰
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+85,0
+90,0
+95,0
+100,0
+105,0
+110,0
+115,0
+120,0
+125,0 Saturation (%)
+ 
+Figur 13: Profilmåling fra lokalitet Godøy 8.april. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+ 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+11 
+3.3 
+Kvalnes 
+3.3.1 
+Horisontal hastighet 
+ 
+Figur 14: 3-D visning av horisontal strømhastighet ved lokalitet Kvalnes, målt i perioden fra 30.juni til 16.juli 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra 0 til 35 cm/s.  
+3.3.2 
+Vertikal hastighet 
+ 
+Figur 15: 3-D visning av vertikal strømhastighet ved lokalitet Kvalnes, målt i perioden fra 30.juni til 16.juli 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra -10 til 5 cm/s (negativt 
+vannstrøm viser perioder når vannet synker og positive når vannet stiger).  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+12 
+3.3.3 
+Temperatur 60 meter 
+6
+7
+8
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[D e g C]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 16: Vanntemperatur på 60 meters dyp ved lokalitet Kvalnes, målt i perioden fra 30.juni til 16.juli 2008.  
+3.3.4 
+Hovedstrømsretning (progressiv vektor) 
+0
+10000
+20000
+30000
+40000
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+Cell2: 3.0 to 5.0m
+Cell7: 13.0 to 15.0m
+Cell12: 23.0 to 25.0m
+Cell25: 49.0 to 51.0m
+Moving average: 1
+Magnitude: [m]
+ 
+Figur 17: Hovedstrømretning ved fire dyp (angitt i tekstboks under figuren) ved lokalitet Kvalnes i perioden fra 
+30.juni til 16.juli 2008. Linjene viser teoretisk forflytning av vannet basert på målt vannstrøm i perioden. Tallene 
+på sirkelen (x- aksen) tilsvarer retning, mens tall på y- aksen angir forflytningen i antall meter.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+13 
+3.3.5 
+Detaljer ved 9-11 meter 
+Horisontal strøm 
+0
+10
+20
+30
+40
+50
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[cm/s]
+D a te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 18: Horisontal strømhastighet (cm/s) på 9 til 11 meters dyp ved lokalitet Kvalnes, målt i perioden fra 
+30.juni til 16.juli 2008.  
+Vertikal strøm 
+-10
+-5
+0
+5
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 19: Vertikal strømhastighet (cm/s) på 9 til 11 meters dyp ved lokalitet Kvalnes, målt i perioden fra 30.juni 
+til 16.juli 2008. Negativt vannstrøm viser perioder når vannet synker og positive når vannet stiger. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+14 
+Akkumuler prosentvis fordeling, hastighet 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+40
+5
+P e rc e nta g e
+Curre nt s p e e d [c m/ s ]
+0
+ 
+Figur 20: Akkumulert antall målinger (%) på 9 til 11 meters dyp (Kvalnes i perioden fra 30.juni til 16.juli 2008), 
+av totalt antall for ulike strømhastigheter (cm/s). 90 % av målingene har en hastighet på 17 cm/s eller lavere. 
+3.4 
+Profilmålinger Kvalnes 
+3.4.1 
+10.mars 2008 
+Data displayed from: 19:34:42 - 10.Mar-08 (No. 290)   To: 19:43:14 - 10.Mar-08 (No: 546)
+Measurement series number: 2
+Interval: 2 seconds
+SD204, Serial No: 314
+File name: Ytre del st. 1,1-4,4 10mars_salin.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+4,0
+4,5
+5,0
+5,5
+6,0
+6,5 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+30,0
+30,5
+31,0
+31,5
+32,0
+32,5
+33,0
+33,5
+34,0
+34,5
+35,0 Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+84,0
+85,0
+86,0
+87,0
+88,0
+89,0
+90,0
+91,0
+92,0
+93,0 Saturation (%)
+ 
+Figur 21: Profilmåling fra lokalitet Kvalnes 10.mars. Data er registrert med to sekunders mellomrom mens 
+sonden var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+15 
+3.4.2 
+8.april 2008 
+Data displayed from: 19:47:58 - 08.Apr-08 (No. 344)   To: 19:56:42 - 08.Apr-08 (No: 606)
+Measurement series number: 2
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Ytre_8_april08.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+4,4
+4,6
+4,8
+5,0
+5,2
+5,4
+5,6
+5,8 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+34,0
+34,2
+34,4
+34,6
+34,8
+35,0
+35,2 Salinity‰
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+108,0
+109,0
+110,0
+111,0
+112,0
+113,0
+114,0
+115,0
+116,0
+117,0 Saturation (%)
+ 
+Figur 22: Profilmåling fra lokalitet Kvalnes 8.april. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+16 
+3.4.3 
+16.juli 2008 
+Data displayed from: 13:19:10 - 16.Jul-08 (No. 2305)   To: 13:36:40 - 16.Jul-08 (No: 2830)
+Measurement series number: 4
+Interval: 2 seconds
+SD204, Serial No: 314
+File name: Oppsamlingsheat juli.SD2
+  
+ 
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+11,0
+12,0
+13,0
+14,0 Temperature (°C)
+Decibars
+Up-cast selected
+  
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+10,0
+15,0
+20,0
+25,0
+30,0
+35,0 Salinity‰
+ 
+Decibars
+Up-cast selected
+  
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+105,0
+110,0
+115,0
+120,0
+125,0
+130,0
+135,0
+140,0 Saturation (%)
+ 
+Figur 23: Profilmåling fra lokalitet Kvalnes 16.juli. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+17 
+3.5 
+Eidvika 
+3.5.1 
+Horisontal hastighet 
+ 
+Figur 24: 3-D visning av horisontal strømhastighet ved lokalitet Eidvika, målt i perioden fra 30.juni til 16.juli 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra 0 til 120 cm/s.  
+3.5.2 
+Vertikal hastighet 
+ 
+Figur 25: 3-D visning av vertikal strømhastighet ved lokalitet Eidvika, målt i perioden fra 30.juni til 16.juli 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra -10 til 5 cm/s (negativt 
+vannstrøm viser perioder når vannet synker og positive når vannet stiger).  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+18 
+3.5.3 
+Temperatur 60 meter 
+5
+6
+7
+8
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[D e g C]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 26: Vanntemperatur på 60 meters dyp ved lokalitet Eidvika, målt i perioden fra 30.juni til 16.juli 2008.  
+3.5.4 
+Hovedstrømsretning (progressiv vektor) 
+0
+20
+40
+60
+80
+100 120
+140
+160 180
+200
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+Cell2: 3.0 to 5.0m
+Cell7: 13.0 to 15.0m
+Cell12: 23.0 to 25.0m
+Cell25: 49.0 to 51.0m
+Moving average: 1
+Magnitude: [km]
+ 
+Figur 27: Hovedstrømretning ved fire dyp (angitt i tekstboks under figuren) ved lokalitet Eidvika i perioden fra 
+30.juni til 16.juli 2008. Linjene viser teoretisk forflytning av vannet basert på målt vannstrøm i perioden. Tallene 
+på sirkelen (x- aksen) tilsvarer retning, mens tall på y- aksen angir forflytningen i antall kilometer.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+19 
+3.5.5 
+Detaljer ved 9-11 meter 
+Horisontal strøm 
+0
+10
+20
+30
+40
+50
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 28: Horisontal strømhastighet (cm/s) på 9 til 11 meters dyp ved lokalitet Eidvika, målt i perioden fra 
+30.juni til 16.juli 2008.  
+Vertikal strøm 
+-20
+-15
+-10
+-5
+0
+5
+10
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 29: Vertikal strømhastighet (cm/s) på 9 til 11 meters dyp ved lokalitet Eidvika, målt i perioden fra 30.juni 
+til 16.juli 2008. Negativt vannstrøm viser perioder når vannet synker og positive når vannet stiger. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+20 
+Akkumuler prosentvis fordeling, hastighet 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+40
+5
+Pe rc e nta g e
+Curre nt s p e e d [c m/ s ]
+0
+ 
+Figur 30: Akkumulert antall målinger (%) på 9 til 11 meters dyp (Eidvika i perioden fra 30.juni til 16.juli 2008), 
+av totalt antall for ulike strømhastigheter (cm/s). 90 % av målingene har en hastighet på 23 cm/s eller lavere. 
+3.6 
+Profilmålinger Eidvika 
+3.6.1 
+10.mars 2008 
+Data displayed from: 19:09:09 - 10.Mar-08 (No. 8)   To: 19:17:45 - 10.Mar-08 (No: 266)
+Measurement series number: 1
+Interval: 2 seconds
+SD204, Serial No: 314
+File name: Ytre del st. 1,1-4,4 10mars_salin.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+3,5
+4,0
+4,5
+5,0
+5,5
+6,0 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+33,4
+33,6
+33,8
+34,0
+34,2
+34,4
+34,6
+34,8 Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+82,0
+84,0
+86,0
+88,0
+90,0
+92,0
+94,0
+96,0 Saturation (%)
+ 
+Figur 31: Profilmåling fra lokalitet Eidvika 10.mars. Data er registrert med to sekunders mellomrom mens 
+sonden var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+21 
+3.6.2 
+8.april 2008 
+Data displayed from: 21:12:11 - 08.Apr-08 (No. 634)   To: 21:20:53 - 08.Apr-08 (No: 895)
+Measurement series number: 3
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Ytre_8_april08.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+4,0
+4,2
+4,4
+4,6
+4,8
+5,0
+5,2
+5,4
+5,6
+5,8 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+29,5
+30,0
+30,5
+31,0
+31,5
+32,0
+32,5
+33,0
+33,5
+34,0
+34,5
+35,0 Salinity‰
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+98,0
+99,0
+100,0
+101,0
+102,0
+103,0
+104,0
+105,0
+106,0
+107,0
+108,0 Saturation (%)
+ 
+Figur 32: Profilmåling fra lokalitet Eidvika 8.april. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+22 
+3.6.3 
+16.juli 2008 
+Data displayed from: 12:04:36 - 16.Jul-08 (No. 1512)   To: 12:30:08 - 16.Jul-08 (No: 2278)
+Measurement series number: 3
+Interval: 2 seconds
+SD204, Serial No: 314
+File name: Oppsamlingsheat juli.SD2
+  
+ 
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+11,0
+12,0
+13,0
+14,0
+Temperature (°C)
+Decibars
+Up-cast selected
+  
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+16,0
+18,0
+20,0
+22,0
+24,0
+26,0
+28,0
+30,0
+32,0
+34,0
+36,0 Salinity‰
+ 
+Decibars
+Up-cast selected
+  
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+105,0
+110,0
+115,0
+120,0
+125,0
+130,0
+135,0
+140,0 Saturation (%)
+ 
+Figur 33: Profilmåling fra lokalitet Eidvika 16.juli. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+23 
+3.7 
+Alvnes 
+3.7.1 
+Horisontal hastighet 
+ 
+Figur 34: 3-D visning av horisontal strømhastighet ved lokalitet Alvnes, målt i perioden fra 30.juni til 16.juli 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra 0 til 50 cm/s.  
+3.7.2 
+Vertikal hastighet 
+ 
+Figur 35: 3-D visning av vertikal strømhastighet ved lokalitet Alvnes, målt i perioden fra 30.juni til 16.juli 2008. 
+Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten (cm/s) på 
+z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra -10 til 5 cm/s (negativt vannstrøm 
+viser perioder når vannet synker og positive når vannet stiger).  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+24 
+3.7.3 
+Temperatur 60 meter 
+5
+6
+7
+8
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[D e g C]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 36: Vanntemperatur på 60 meters dyp ved lokalitet Alvnes, målt i perioden fra 30.juni til 16.juli 2008.  
+3.7.4 
+Hovedstrømsretning (progressiv vektor) 
+0
+20000
+40000
+60000
+80000
+100000 120000
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+Cell2: 3.0 to 5.0m
+Cell7: 13.0 to 15.0m
+Cell12: 23.0 to 25.0m
+Cell25: 49.0 to 51.0m
+Moving average: 1
+Magnitude: [m]
+ 
+Figur 37: Hovedstrømretning ved fire dyp (angitt i tekstboks under figuren) ved lokalitet Alvnes i perioden fra 
+30.juni til 16.juli 2008. Linjene viser teoretisk forflytning av vannet basert på målt vannstrøm i perioden. Tallene 
+på sirkelen (x- aksen) tilsvarer retning, mens tall på y- aksen angir forflytningen i antall meter.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+25 
+3.7.5 
+Detaljer ved 9-11 meter 
+Horisontal strøm 
+0
+10
+20
+30
+40
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 38: Horisontal strømhastighet (cm/s) på 9 til 11 meters dyp ved lokalitet Alvnes, målt i perioden fra 
+30.juni til 16.juli 2008.  
+Vertikal strøm 
+-10
+-5
+0
+5
+10
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 39: Vertikal strømhastighet (cm/s) på 9 til 11 meters dyp ved lokalitet Alvnes, målt i perioden fra 30.juni 
+til 16.juli 2008. Negativt vannstrøm viser perioder når vannet synker og positive når vannet stiger. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+26 
+Akkumuler prosentvis fordeling, hastighet 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+4
+P e rc e nta g e
+Curre nt s p e e d [c m/ s ]
+0
+ 
+Figur 40: Akkumulert antall målinger (%) på 9 til 11 meters dyp (Alvnes i perioden fra 30.juni til 16.juli 2008), 
+av totalt antall for ulike strømhastigheter (cm/s). 90 % av målingene har en hastighet på 13 cm/s eller lavere. 
+3.8 
+Profilmålinger Alvnes 
+3.8.1 
+16.juli 2008 
+Data displayed from: 11:12:54 - 16.Jul-08 (No. 625)   To: 11:41:54 - 16.Jul-08 (No: 1495)
+Measurement series number: 2
+Interval: 2 seconds
+SD204, Serial No: 314
+File name: Oppsamlingsheat juli.SD2
+  
+ 
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+11,0
+12,0
+13,0
+14,0 Temperature (°C)
+Decibars
+Up-cast selected
+  
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+10,0
+15,0
+20,0
+25,0
+30,0
+35,0
+Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+110,0
+115,0
+120,0
+125,0
+130,0
+135,0
+140,0 Saturation (%)
+ 
+Figur 41: Profilmåling fra lokalitet Alvnes 16.juli. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+27 
+3.9 
+Kjetnes 
+3.9.1 
+Horisontal hastighet 
+ 
+Figur 42: 3-D visning av horisontal strømhastighet ved lokalitet Kjetnes, målt i perioden fra 18.feb til 10.mars 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra 0 til 45 cm/s.  
+3.9.2 
+Vertikal hastighet 
+ 
+Figur 43: 3-D visning av vertikal strømhastighet ved lokalitet Kjetnes, målt i perioden fra 18.feb til 10.mars 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra -10 til 5 cm/s (negativt 
+vannstrøm viser perioder når vannet synker og positive når vannet stiger).  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+28 
+3.9.3 
+Temperatur 60 meter 
+5
+6
+7
+8
+02/19-00:00
+02/20-00:00
+02/21-00:00
+02/22-00:00
+02/23-00:00
+02/24-00:00
+02/25-00:00
+02/26-00:00
+02/27-00:00
+02/28-00:00
+02/29-00:00
+03/01-00:00
+03/02-00:00
+03/03-00:00
+03/04-00:00
+03/05-00:00
+03/06-00:00
+03/07-00:00
+03/08-00:00
+03/09-00:00
+03/10-00:00
+[D e g C]
+D a te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 44: Vanntemperatur på 60 meters dyp ved lokalitet Kjetnes, målt i perioden fra 18.feb til 10.mars 2008.  
+3.9.4 
+Hovedstrømsretning (progressiv vektor) 
+0
+20000
+40000
+60000
+80000
+100000 120000
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+Cell2: 4.0 to 6.0m
+Cell7: 14.0 to 16.0m
+Cell12: 24.0 to 26.0m
+Cell25: 50.0 to 52.0m
+Moving average: 1
+Magnitude: [m]
+ 
+Figur 45: Hovedstrømretning ved fire dyp (angitt i tekstboks under figuren) ved lokalitet Kjetnes i perioden fra 
+18.feb til 10.mars 2008. Linjene viser teoretisk forflytning av vannet basert på målt vannstrøm i perioden. 
+Tallene på sirkelen (x- aksen) tilsvarer retning, mens tall på y- aksen angir forflytningen i antall meter.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+29 
+3.9.5 
+Detaljer ved 8-10 meter 
+Horisontal strøm 
+0
+10
+20
+02/19-00:00
+02/20-00:00
+02/21-00:00
+02/22-00:00
+02/23-00:00
+02/24-00:00
+02/25-00:00
+02/26-00:00
+02/27-00:00
+02/28-00:00
+02/29-00:00
+03/01-00:00
+03/02-00:00
+03/03-00:00
+03/04-00:00
+03/05-00:00
+03/06-00:00
+03/07-00:00
+03/08-00:00
+03/09-00:00
+03/10-00:00
+[cm/s]
+Date & T ime [Gmt]
+Moving average: 1
+ 
+Figur 46: Horisontal strømhastighet (cm/s) på 8 til 10 meters dyp ved lokalitet Kjetnes, målt i perioden fra 
+18.feb til 10.mars 2008.  
+Vertikal strøm 
+-10
+-5
+0
+5
+10
+02/19-00:00
+02/20-00:00
+02/21-00:00
+02/22-00:00
+02/23-00:00
+02/24-00:00
+02/25-00:00
+02/26-00:00
+02/27-00:00
+02/28-00:00
+02/29-00:00
+03/01-00:00
+03/02-00:00
+03/03-00:00
+03/04-00:00
+03/05-00:00
+03/06-00:00
+03/07-00:00
+03/08-00:00
+03/09-00:00
+03/10-00:00
+[cm/s]
+D a te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 47: Vertikal strømhastighet (cm/s) på 8 til 10 meters dyp ved lokalitet Kjetnes, målt i perioden fra 18.feb 
+til 10.mars 2008. Negativt vannstrøm viser perioder når vannet synker og positive når vannet stiger. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+30 
+Akkumulert prosentvis fordeling, hastighet 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Pe rc e nta g e
+Curre nt s p e e d [c m/ s ]
+ 
+Figur 48: Akkumulert antall målinger (%) på 8 til 10 meters dyp (Kjetnes i perioden fra 18.feb til 10.mars 
+2008), av totalt antall for ulike strømhastigheter (cm/s). 90 % av målingene har en hastighet på 16 cm/s eller 
+lavere. 
+3.10 
+Profilmålinger Kjetnes 
+3.10.1 18.februar 2008 
+Data displayed from: 16:43:43 - 18.Feb-08 (No. 587)   To: 16:52:27 - 18.Feb-08 (No: 849)
+Measurement series number: 4
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Rådata fra 18feb08.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+35,0 Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+0,0
+20,0
+40,0
+60,0
+80,0
+100,0
+120,0
+140,0
+160,0
+180,0 Saturation (%)
+ 
+Figur 49: Profilmåling fra lokalitet Kjetnes 8.feb. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+31 
+3.10.2 10.mars 2008 
+Data displayed from: 12:03:47 - 10.Mar-08 (No. 577)   To: 12:12:25 - 10.Mar-08 (No: 836)
+Measurement series number: 3
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Måling2 st.1-4 10mars08.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+4,8
+5,0
+5,2
+5,4
+5,6
+5,8
+6,0
+6,2 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+22,0
+24,0
+26,0
+28,0
+30,0
+32,0
+34,0
+36,0 Salinity‰
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+90,0
+92,0
+94,0
+96,0
+98,0
+100,0
+102,0
+104,0 Saturation (%)
+ 
+Figur 50: Profilmåling fra lokalitet Kjetnes 10.mars. Data er registrert med to sekunders mellomrom mens 
+sonden var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+32 
+3.11 
+Øynes 
+3.11.1 Horisontal hastighet 
+ 
+Figur 51: 3-D visning av horisontal strømhastighet ved lokalitet Øynes, målt i perioden fra 18.feb til 10.mars 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra 0 til 60 cm/s.  
+3.11.2 Vertikal hastighet 
+ 
+Figur 52: 3-D visning av vertikal strømhastighet ved lokalitet Øynes, målt i perioden fra 18.feb til 10.mars 2008. 
+Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten (cm/s) på 
+z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra -25 til 5 cm/s (negativt vannstrøm 
+viser perioder når vannet synker og positive når vannet stiger).  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+33 
+3.11.3 Temperatur 60 meter 
+5
+6
+7
+8
+02/19-00:00
+02/20-00:00
+02/21-00:00
+02/22-00:00
+02/23-00:00
+02/24-00:00
+02/25-00:00
+02/26-00:00
+02/27-00:00
+02/28-00:00
+02/29-00:00
+03/01-00:00
+03/02-00:00
+03/03-00:00
+03/04-00:00
+03/05-00:00
+03/06-00:00
+03/07-00:00
+03/08-00:00
+03/09-00:00
+03/10-00:00
+[D e g C]
+D a te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 53: Vanntemperatur på 60 meters dyp ved lokalitet Øynes, målt i perioden fra 18.feb til 10.mars 2008.  
+3.11.4 Hovedstrømsretning (progressiv vektor) 
+0
+50000
+100000
+150000
+200000
+250000
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+Cell2: 4.0 to 6.0m
+Cell7: 14.0 to 16.0m
+Cell12: 24.0 to 26.0m
+Cell25: 50.0 to 52.0m
+Moving average: 1
+Magnitude: [m]
+ 
+Figur 54: Hovedstrømretning ved fire dyp (angitt i tekstboks under figuren) ved lokalitet Øynes i perioden fra 
+18.feb til 10.mars 2008. Linjene viser teoretisk forflytning av vannet basert på målt vannstrøm i perioden. 
+Tallene på sirkelen (x- aksen) tilsvarer retning, mens tall på y- aksen angir forflytningen i antall meter.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+34 
+3.11.5 Detaljer ved 8-10 meter 
+Horisontal strøm 
+0
+10
+20
+30
+40
+50
+02/19-00:00
+02/20-00:00
+02/21-00:00
+02/22-00:00
+02/23-00:00
+02/24-00:00
+02/25-00:00
+02/26-00:00
+02/27-00:00
+02/28-00:00
+02/29-00:00
+03/01-00:00
+03/02-00:00
+03/03-00:00
+03/04-00:00
+03/05-00:00
+03/06-00:00
+03/07-00:00
+03/08-00:00
+03/09-00:00
+03/10-00:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 55: Horisontal strømhastighet (cm/s) på 8 til 10 meters dyp ved lokalitet Øynes, målt i perioden fra 18.feb 
+til 10.mars 2008.  
+Vertikal strøm 
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+02/19-00:00
+02/20-00:00
+02/21-00:00
+02/22-00:00
+02/23-00:00
+02/24-00:00
+02/25-00:00
+02/26-00:00
+02/27-00:00
+02/28-00:00
+02/29-00:00
+03/01-00:00
+03/02-00:00
+03/03-00:00
+03/04-00:00
+03/05-00:00
+03/06-00:00
+03/07-00:00
+03/08-00:00
+03/09-00:00
+03/10-00:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 56: Vertikal strømhastighet (cm/s) på 8 til 10 meters dyp ved lokalitet Øynes, målt i perioden fra 18.feb til 
+10.mars 2008. Negativt vannstrøm viser perioder når vannet synker og positive når vannet stiger. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+35 
+Akkumulert prosentvis fordeling, hastighet 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+40
+5
+P e rc e nta g e
+Curre nt s p e e d [c m/ s ]
+0
+ 
+Figur 57: Akkumulert antall målinger (%) på 8 til 10 meters dyp (Øynes i perioden fra 18.feb til 10.mars 2008), 
+av totalt antall for ulike strømhastigheter (cm/s). 90 % av målingene har en hastighet på 27 cm/s eller lavere. 
+3.12 
+Profilmålinger Øynes 
+3.12.1 18.februar 2008 
+Data displayed from: 17:48:16 - 18.Feb-08 (No. 862)   To: 17:51:16 - 18.Feb-08 (No: 952)
+Measurement series number: 5
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Rådata fra 18feb08.SD2
+  
+ 
+135
+130
+125
+120
+115
+110
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+2,5
+3,0
+3,5
+4,0
+4,5
+5,0
+5,5
+6,0
+6,5 Temperature (°C)
+Decibars
+Up-cast selected
+  
+135
+130
+125
+120
+115
+110
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+32,0
+32,2
+32,4
+32,6
+32,8
+33,0
+33,2
+33,4
+33,6
+33,8
+34,0 Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+135
+130
+125
+120
+115
+110
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+120,0
+125,0
+130,0
+135,0
+140,0
+145,0
+150,0 Saturation (%)
+ 
+Figur 58: Profilmåling fra lokalitet Øynes 8.feb. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+36 
+3.12.2 10.mars 2008 
+Data displayed from: 13:22:49 - 10.Mar-08 (No. 853)   To: 13:25:45 - 10.Mar-08 (No: 941)
+Measurement series number: 4
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Måling2 st.1-4 10mars08.SD2
+  
+ 
+135
+130
+125
+120
+115
+110
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+4,0
+4,5
+5,0
+5,5
+6,0
+6,5 Temperature (°C)
+Decibars
+Up-cast selected
+  
+135
+130
+125
+120
+115
+110
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+33,4
+33,5
+33,6
+33,7
+33,8
+33,9
+34,0
+34,1
+34,2
+34,3 Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+135
+130
+125
+120
+115
+110
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+93,0
+94,0
+95,0
+96,0
+97,0
+98,0
+99,0
+100,0
+101,0 Saturation (%)
+ 
+Figur 59: Profilmåling fra lokalitet Øynes 10.mars. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+ 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+37 
+3.13 
+Gjelhunes 
+3.13.1 Horisontal hastighet 
+ 
+Figur 60: 3-D visning av horisontal strømhastighet ved lokalitet Gjelhunes, målt i perioden fra 30.juni til 16.juli 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra 0 til 50 cm/s.  
+3.13.2 Vertikal hastighet 
+ 
+Figur 61: 3-D visning av vertikal strømhastighet ved lokalitet Gjelhunes, målt i perioden fra 30.juni til 16.juli 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra -5 til 5 cm/s (negativt 
+vannstrøm viser perioder når vannet synker og positive når vannet stiger).  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+38 
+3.13.3 Temperatur 60 meter 
+5
+6
+7
+8
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[D e g C]
+D a te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 62: Vanntemperatur på 60 meters dyp ved lokalitet Gjelhunes, målt i perioden fra 30.juni til 16.juli 2008.  
+3.13.4 Hovedstrømsretning (progressiv vektor) 
+0
+10000
+20000
+30000
+40000
+50000
+60000
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+Cell2: 3.0 to 5.0m
+Cell7: 13.0 to 15.0m
+Cell12: 23.0 to 25.0m
+Cell25: 49.0 to 51.0m
+Moving average: 1
+Magnitude: [m]
+ 
+Figur 63: Hovedstrømretning ved fire dyp (angitt i tekstboks under figuren) ved lokalitet Gjelhunes i perioden 
+fra 30.juni til 16.juli 2008. Linjene viser teoretisk forflytning av vannet basert på målt vannstrøm i perioden. 
+Tallene på sirkelen (x- aksen) tilsvarer retning, mens tall på y- aksen angir forflytningen i antall meter.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+39 
+3.13.5 Detaljer ved 9-11 meter 
+Horisontal strøm 
+0
+10
+20
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 64: Horisontal strømhastighet (cm/s) på 9 til 11 meters dyp ved lokalitet Gjelhunes, målt i perioden fra 
+30.juni til 16.juli 2008.  
+Vertikal strøm 
+-5
+0
+5
+06/30-12:00
+07/01-12:00
+07/02-12:00
+07/03-12:00
+07/04-12:00
+07/05-12:00
+07/06-12:00
+07/07-12:00
+07/08-12:00
+07/09-12:00
+07/10-12:00
+07/11-12:00
+07/12-12:00
+07/13-12:00
+07/14-12:00
+07/15-12:00
+[cm/s]
+Da te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 65: Vertikal strømhastighet (cm/s) på 9 til 11 meters dyp ved lokalitet Gjelhunes, målt i perioden fra 
+30.juni til 16.juli 2008. Negativt vannstrøm viser perioder når vannet synker og positive når vannet stiger. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+40 
+Akkumulert prosentvis fordeling, hastighet 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+P e rc e nta g e
+Curre nt s p e e d [c m/ s ]
+ 
+Figur 66: Akkumulert antall målinger (%) på 9 til 11 meters dyp (Gjelhunes i perioden fra 30.juni til 16.juli 
+2008), av totalt antall for ulike strømhastigheter (cm/s). 90 % av målingene har en hastighet på 11 cm/s eller 
+lavere. 
+3.14 
+Profilmålinger Gjelhunes 
+3.14.1 18.februar 2008 
+Data displayed from: 13:39:18 - 18.Feb-08 (No. 20)   To: 13:48:20 - 18.Feb-08 (No: 291)
+Measurement series number: 2
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Rådata fra 18feb08.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+2,5
+3,0
+3,5
+4,0
+4,5
+5,0
+5,5
+6,0
+6,5 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+22,0
+24,0
+26,0
+28,0
+30,0
+32,0
+34,0
+36,0 Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+110,0
+120,0
+130,0
+Saturation (%)
+ 
+Figur 67: Profilmåling fra lokalitet Gjelhunes 8.feb. Data er registrert med to sekunders mellomrom mens 
+sonden var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+41 
+3.14.2 10.mars 2008 
+Data displayed from: 10:40:18 - 10.Mar-08 (No. 8)   To: 10:49:28 - 10.Mar-08 (No: 283)
+Measurement series number: 1
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Måling2 st.1-4 10mars08.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+5,2
+5,3
+5,4
+5,5
+5,6
+5,7
+5,8
+5,9
+6,0 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+31,0
+31,5
+32,0
+32,5
+33,0
+33,5
+34,0
+34,5 Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+88,0
+90,0
+92,0
+94,0
+96,0
+98,0
+100,0
+102,0
+104,0
+106,0
+108,0
+110,0 Saturation (%)
+ 
+Figur 68: Profilmåling fra lokalitet Gjelhunes 10.mars. Data er registrert med to sekunders mellomrom mens 
+sonden var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+42 
+3.14.3 16.juli 2008 
+Data displayed from: 09:48:45 - 16.Jul-08 (No. 9)   To: 10:08:39 - 16.Jul-08 (No: 606)
+Measurement series number: 1
+Interval: 2 seconds
+SD204, Serial No: 314
+File name: Oppsamlingsheat juli.SD2
+  
+ 
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+11,0
+12,0
+13,0
+14,0
+15,0 Temperature (°C)
+Decibars
+Up-cast selected
+  
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+10,0
+15,0
+20,0
+25,0
+30,0
+35,0 Salinity‰
+ 
+Decibars
+Up-cast selected
+  
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+90,0
+100,0
+110,0
+120,0
+130,0
+140,0
+150,0 Saturation (%)
+ 
+Figur 69: Profilmåling fra lokalitet Gjelhunes 16.juli. Data er registrert med to sekunders mellomrom mens 
+sonden var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+43 
+3.15 
+Tusvika 
+3.15.1 Horisontal hastighet 
+ 
+Figur 70: 3-D visning av horisontal strømhastighet ved lokalitet Tusvika, målt i perioden fra 18.feb til 10.mars 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra 0 til 60 cm/s.  
+3.15.2 Vertikal hastighet 
+ 
+Figur 71: 3-D visning av vertikal strømhastighet ved lokalitet Tusvika, målt i perioden fra 18.feb til 10.mars 
+2008. Perioden (dato- klokkeslett) på x- aksen, dybde i meter fra overflaten på y- aksen og strømhastigheten 
+(cm/s) på z- aksen. Skala til høyre viser fargeoppløsning for ulike strømhastigheter fra -5 til 15 cm/s (negativt 
+vannstrøm viser perioder når vannet synker og positive når vannet stiger).  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+44 
+3.15.3 Temperatur 60 meter 
+5
+6
+7
+8
+02/19-00:00
+02/20-00:00
+02/21-00:00
+02/22-00:00
+02/23-00:00
+02/24-00:00
+02/25-00:00
+02/26-00:00
+02/27-00:00
+02/28-00:00
+02/29-00:00
+03/01-00:00
+03/02-00:00
+03/03-00:00
+03/04-00:00
+03/05-00:00
+03/06-00:00
+03/07-00:00
+03/08-00:00
+03/09-00:00
+03/10-00:00
+[D e g C]
+D a te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 72: Vanntemperatur på 60 meters dyp ved lokalitet Tusvika, målt i perioden fra 18.feb til 10.mars 2008.  
+3.15.4 Hovedstrømsretning (progressiv vektor) 
+ 
+Figur 73: Hovedstrømretning ved fire dyp (angitt i tekstboks under figuren) ved lokalitet Tusvika i perioden fra 
+18.feb til 10.mars 2008. Linjene viser teoretisk forflytning av vannet basert på målt vannstrøm i perioden. 
+Tallene på sirkelen (x- aksen) tilsvarer retning, mens tall på y- aksen angir forflytningen i antall meter.  
+0
+50000
+100000
+150000
+200000
+250000
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+Cell2: 4.0 to 6.0m
+Cell7: 14.0 to 16.0m
+Cell12: 24.0 to 26.0m
+Cell25: 50.0 to 52.0m
+Moving average: 1
+Magnitude: [m]
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+45 
+3.15.5 Detaljer ved 8-10 meter 
+Horisontal strøm 
+0
+10
+20
+30
+02/19-00:00
+02/20-00:00
+02/21-00:00
+02/22-00:00
+02/23-00:00
+02/24-00:00
+02/25-00:00
+02/26-00:00
+02/27-00:00
+02/28-00:00
+02/29-00:00
+03/01-00:00
+03/02-00:00
+03/03-00:00
+03/04-00:00
+03/05-00:00
+03/06-00:00
+03/07-00:00
+03/08-00:00
+03/09-00:00
+03/10-00:00
+[cm/s]
+D a te & T ime [Gmt]
+Moving average: 1
+ 
+Figur 74: Horisontal strømhastighet (cm/s) på 8 til 10 meters dyp ved lokalitet Tusvika, målt i perioden fra 
+18.feb til 10.mars 2008.  
+Vertikal strøm 
+-5
+0
+5
+10
+15
+20
+02/19-00:00
+02/20-00:00
+02/21-00:00
+02/22-00:00
+02/23-00:00
+02/24-00:00
+02/25-00:00
+02/26-00:00
+02/27-00:00
+02/28-00:00
+02/29-00:00
+03/01-00:00
+03/02-00:00
+03/03-00:00
+03/04-00:00
+03/05-00:00
+03/06-00:00
+03/07-00:00
+03/08-00:00
+03/09-00:00
+03/10-00:00
+[cm/s]
+Date & T ime [Gmt]
+Moving average: 1
+ 
+Figur 75: Vertikal strømhastighet (cm/s) på 8 til 10 meters dyp ved lokalitet Tusvika, målt i perioden fra 18.feb 
+til 10.mars 2008. Negativt vannstrøm viser perioder når vannet synker og positive når vannet stiger. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+46 
+Akkumulert prosentvis fordeling, hastighet 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+P e rc e nta g e
+Curre nt s p e e d [c m/ s ]
+30
+ 
+Figur 76: Akkumulert antall målinger (%) på 8 til 10 meters dyp (Tusvika i perioden fra 18.feb til 10.mars 
+2008), av totalt antall for ulike strømhastigheter (cm/s). 90 % av målingene har en hastighet på 16 cm/s eller 
+lavere. 
+3.16 
+Profilmålinger Tusvika 
+3.16.1 18.februar 2008 
+Data displayed from: 15:05:23 - 18.Feb-08 (No. 310)   To: 15:14:07 - 18.Feb-08 (No: 572)
+Measurement series number: 3
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Rådata fra 18feb08.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+3,5
+4,0
+4,5
+5,0
+5,5
+6,0
+6,5 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+32,6
+32,8
+33,0
+33,2
+33,4
+33,6
+33,8
+34,0
+34,2
+34,4 Salinity‰
+ 
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+76,0
+78,0
+80,0
+82,0
+84,0
+86,0
+88,0
+90,0
+92,0
+94,0
+96,0
+Saturation (%)
+ 
+Figur 77: Profilmåling fra lokalitet Tusvika 8.feb. Data er registrert med to sekunders mellomrom mens sonden 
+var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+47 
+3.16.2 10.mars 2008 
+Data displayed from: 10:56:06 - 10.Mar-08 (No. 299)   To: 11:04:46 - 10.Mar-08 (No: 559)
+Measurement series number: 2
+Interval: 2 seconds    Time zone: GMT
+SD204, Serial No: 314
+File name: Måling2 st.1-4 10mars08.SD2
+  
+ 
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+5,3
+5,4
+5,5
+5,6
+5,7
+5,8
+5,9
+6,0 Temperature (°C)
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+27,0
+28,0
+29,0
+30,0
+31,0
+32,0
+33,0
+34,0
+35,0 Salinity‰
+ 
+Decibars
+Up-cast selected
+  
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+90,0
+92,0
+94,0
+96,0
+98,0
+100,0
+102,0
+104,0
+106,0 Saturation (%)
+ 
+Figur 78: Profilmåling fra lokalitet Tusvika 10.mars. Data er registrert med to sekunders mellomrom mens 
+sonden var på tur til overflaten. X- aksen viser dybde (m) og y- aksen viser temperatur (C°), salinitet (‰) og 
+oksygenmetning (%). 
+ 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+48 
+3.17 
+Oppsummering resultater 
+3.17.1 Horisontal vannstrøm 
+Figur 5, 14, 24, 34, 42, 51, 60 og 70 
+For alle lokalitetene viser resultatene at den horisontal vannstrømmen som forventet var høyest ved 
+overflaten og avtagende nedover mot måleren på ca. 60 meter. Figurene viser at vannstrømmen i de 
+øverste fem meter varierer mye uten at det er et opplagt mønster i variasjonen. Unntaket er Eidvika 
+hvor det er jevn, kraftig strøm ved overflaten i stort sett hele perioden, mens strømmen avtar raskt og 
+er tilnærmet stille allerede fra 15 meters dyp. Ved lokaliteten på Øynes skjer det en kraftig økning i 
+strømhastigheten i de øverste 15 meterne fra 5. til 10. mars. Denne relativt korte perioden med økning 
+er delt i to sekvenser av et døgn hvor strømmen avtar kraftig.  
+3.17.2 Vertikal vannstrøm  
+Figur 6, 15, 25, 35, 43, 52, 61 og 71 
+Muligheten til å måle vertikal vannstrøm har utvidet grunnlaget for å vurdere den totale 
+vannforflytningen i fjorden svært mye. Vertikal vannforflytning beskrives som positiv når vannet 
+stiger fra dypet mot overflaten, mens den betegnes som negativ når vannet synker fra øvre vannlag ned 
+mot dypet.  
+Innslaget av vertikal vannstrøm varierer mye mellom lokalitetene i undersøkelsen, mens resultatene fra 
+hver av lokalitetene er relativt jevne og med unntak av overflaten er variasjonen i måleperioden 
+moderat. Ved Øynes oppstår det en endring hvor farten på den negative vannstrømmen brått øker. 
+Denne perioden sammenfaller med økt horisontal vannstrøm som er beskrevet i avsnittet over. 
+For lokalitetene Godøy, Kvalnes og Øynes viser resultatene negativ vannstrøm i hele vannsøylen over 
+instrumentet og at hastigheten avtar med økende dyp (figur 6, 15 og 52). Det er innslag av positiv 
+vannstrøm nær overflaten på alle disse tre lokalitetene. Det er viktig å legge merke til at målingene ved 
+Øynes er gjennomført ved inn / utløpet til Klungsetvika som har svært grunn terskel i området like 
+innefor måleren og at måleren er plassert på grunnere vann og dermed avviker mye fra de andre 
+lokalitetene (tabell 1).  
+For lokalitetene Eidvika, Alvnes, Kjetnes og Gjelhunes er tendensen at den vertikale vannstrømmen i 
+store deler av vannsøylen er lav, med unntak av de øverste meterne, hvor strømmen har positiv 
+tendens (figur 25, 35, 43 og 61). Ved overflaten er det tilsynelatende usystematisk blanding av både 
+positive og negative vannstrømmer.  
+Den siste lokaliteten i Tusvika avviker fra de andre ved at der her er til dels høy positiv vannstrøm i 
+nesten hele vannsøylen over måleren (figur 71). Det ser også til at denne strømmen er relativt 
+forutsigbar uten store endringer i løpet av måleperioden.  
+3.17.3 Temperatur  
+Figur 7, 16, 26, 36, 44, 53, 62 og 72 
+Temperaturmålingene som det her refereres til er logget direkte på strømmåleren og viser derfor 
+temperaturregimet på ca. 60 meters dyp. Resultatene viser at temperaturen varierer mellom 6 og 7°C, 
+med unntak av Godøy som ligger 0,5°C lavere, uavhengig av lokalitet og årstid. Variasjonen innen 
+måleperiodene viser at temperaturen ved Kvalnes synes å være påvirket av tidevannet med svingninger 
+over ca 12 timer (figur 16). I motsatt ende av fjorden, ved Tusvika, viser temperaturloggen svært liten 
+korttidsvariasjon, mens det i deler av måleperioden er små svingninger i løpet av 1,5 døgn (figur 72).  
+3.17.4 Hovedstrømsretning (progressiv vektor) 
+Figur 8, 17, 27, 37, 45, 54, 63 og 73 
+Figurene som er presentert for hver av lokalitetene viser hvordan en tenkt partikkel ville ha forflyttet 
+seg basert på strøhastigheten gjennom måleperioden. Det er tatt med data som viser forløpet ved 5, 15, 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+49 
+25 og 50 meter. På lokalitetene Godøy, Kjetnes og Øynes viser resultatene at hovedstrømsretningen er 
+relativt lik for alle de valgte dypene, mens redusert strømhastighet gir kortere teoretisk forflytning med 
+økende dyp (figur 8, 45 og 54).  
+For lokaliteten Eidvika preges hovedstrømsretningene av at overflatevannet i perioden vil forflytte seg 
+både mot vest og tilbake i østlig retning slik at det i sum gir østlig hovedstrømsretning. På 15 meters 
+dyp er den Ø/NØog entydig (figur 27).  
+Ved Kvalnes, Alvnes og Gjelhunes er det bare ved et av de utvalgte dypene det er mulig å påvise en 
+entydig hovedstrømsretning (figur 17, 37 og 63). Disse finnes ved henholdsvis 5, 50 og 5 meter. Ingen 
+av disse har lineære forløp, noe som indikerer at hovedstrømsretningen har variert noe i løpet av 
+måleperioden. De andre dypene som er med i figurene viser at vannstrømmen stadig skifter retning i 
+perioden, og at vannet dermed flyttes fram og tilbake over lokaliteten.  
+I figur 73 viser resultatene at hovedstrømsretningen i Tusvika ved 5 meter er svært framtredende i SØ 
+retning, noe som viser at dette vannet flyttes direkte innover mot Saltdalsfjorden. Vannet på 50 meters 
+dyp pulserer i stor grad kun rundt målepunktet og har ingen hovedstrømretning. Ved 15 og 25 meter 
+derimot har vannet entydig hovedstrømsretning mot V, som er omentrent motsatt av retningen ved 5 
+meter.  
+3.17.5 Detaljer ved 10 meters dyp 
+Horisontal og vertikal strøm, figur 9, 10, 18, 19, 28, 29, 38, 39, 46, 47, 55, 56, 64, 65, 74 og 75 
+For å gi et mer detaljert bilde over strømhastigheten ved lokalitetene er det valgt å vise horisontal og 
+vertikal vannstrøm ved 10 meters dyp. Alle disse resultatene er allerede med som en del av innholdet 
+av figurene i avsnittene med tredimensjonal visning av horisontal og vertikal vannstrøm, men vil her 
+gi en mer detaljert oversikt over variasjonen.  
+Ved å studere alle disse figurene er det tydelig at strømhastigheten varierer mye og at variasjonen i 
+hovedsak ikke synes å være systematisk. Dette gjelder både horisontal og vertikal strøm ved dette 
+dypet. Det er verdt å merke seg at det med ujevne mellomrom oppstår spesielt kraftige strømpulser i 
+begge retninger, og at dette er godt synlig ved lokaliteten i Eidvika både horisontalt og vertikalt. 
+Resultatene fra Øynes viser de plutselige endringen som oppstår i løpet av de siste fem dagene i 
+måleperioden, noe som også kom tydelig fram i figurene med tredimensjonal visning.  
+Tusvika er den av lokaliteten som tenderer til å vise døgnvariasjon i strømstyrke som delvis kan 
+forklares ut fra tidevannsyklusen, og da spesielt vertikal vannstrøm (figur 74 og 75). For noen av de 
+andre måleresultatene kan det antydes at en syklus på 1,5 døgn av og til oppstår, men dette ser ikke ut 
+til å være systematisk. 
+Akkumulert hastighet, figur 11, 20, 30, 40, 48, 57, 66 og 76 
+Disse figurene viser hvordan akkumulert antall målinger ved 10 meters dyp med ulik horisontal 
+hastighet fordels i prosent. En slik måte å framstille resultatene på gir et begrep om total 
+strømbelastning på lokaliteten (tabell 2).  
+Tabell 2: en oppsummering som viser hvilken strømhastighet (cm / s) 30, 60 og 90 % av målingene 
+ligger innenfor. Ved Godøy befinner 30 % av målingene fra 11 cm/ s og lavere, 60 % av målingene fra 
+16 cm / s og lavere, mens 90 % av målingene ligger fra 22 cm / s og lavere. 
+Lokalitet 
+30 % 
+60 % 
+90 % 
+Godøy 
+11 
+16 
+22 
+Kvalnes 
+7 
+11 
+16 
+Eidvika 
+6 
+12 
+24 
+Alvnes 
+3 
+6 
+13 
+Kjetnes 
+9 
+12 
+16 
+Øynes 
+9 
+17 
+27 
+Gjelhunes 
+5 
+7 
+11 
+Tusvika 
+6 
+9 
+17 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+50 
+ 
+Tabell 2 viser at lokaliteten ved Godøy og Øynes har gjennomgående høy strømhastighet, mens 
+Alvnes og Gjelhunes til sammenlikning har gjennomgående lav strømhastighet.  
+3.17.6 Profiler vinter (februar, mars og april) 
+I dette avsnittet presenteres resultatene fra profilmålinger utført i februar, mars og april. Alle 
+lokalitetene, unntatt Alvnes, er målt en eller flere ganger i løpet av det som betegnes som 
+vintersituasjon (tabell 1). 
+Ved seks av lokalitetene er det markert fall i temperaturen som inntreffer fra 25 til 55 meter fra 
+overflaten. Forløpet fra temperatur fallet inntreffer og opp til overflaten er noe ulikt, men størrelsen på 
+temperaturreduksjonen er relativt lik mellom lokalitetene.  
+Sammenfallende med temperaturreduksjonen, både når det gjelder dybde og forløp, skjer det en 
+økning i saltholdigheten nær overflaten. Økningen er i størrelsesorden 0,5 til 1 ‰.  
+Ved lokalitetene i vestre del av fjorden, Godøy, Kvalnes, Eidvika og Kjetnes, viser oksygenmålingene 
+et fall på 5 til 10 % metning fra ca. 250 meter og dypere og da spesielt for målingene i februar og 
+mars. Ved målingene i april viser resultatene at det ikke lenger er en slik reduksjon i metningen 
+nedover i vannsøylen.  
+For lokalitetene i østre del av fjorden, Øynes, Gjelhunes og Tusvika, reduseres oksygenmetningen 
+gradvis nedover i dypet uten at spesielle terskelnivå kan påvises. Ved Gjelhunes blir det derimot 
+registrert en slik terskel ved overflaten i februar. Reduksjonen i metning for hele vannsøylen sett under 
+ett, er lik for alle lokalitetene.  
+3.17.7 Profiler sommer (juli) 
+I dette avsnittet presenteres resultatene fra profilmålinger utført i juli. Det ble utført målinger ved 
+lokalitetene Kvalnes, Eidvika, Alvnes og Gjelhunes (tabell 1).  
+Resultatene fra disse målingene er entydige og sammenfallene for alle lokalitetene både når det gjelder 
+temperatur, saltholdighet og oksygenmetning. Temperaturen øker fra ca 7 ºC til 14 ºC fra 10 meters 
+dyp til overflaten. Mens saltholdigheten reduseres fra ca 33 ‰ til 13 – 17 ‰ ved overflaten (lavest 
+innerst i fjorden). Oksygenmetningen ligger rundt 110 % fra 400 til ca 150 meter for så å øke til ca 
+120 % ved 20 meters dyp. Deretter øker metningen til ca. 140 % like under overflaten.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+51 
+4. 
+Diskusjon 
+4.1 
+Hydrodynamikk og vannmiljø 
+Datagrunnlaget for denne rapporten viser at Skjerstadfjorden har kompleks og til dels overraskende 
+hydrodynamikk. Undersøkelsen hadde som mål å grovkartlegge de hydrodynamiske forholdene i 
+fjorden. Resultatene er i samsvarer med tidligere undersøkelsene som konkluderer med god 
+vannkvalitet og stor potensial for økt produksjon (Skreslet, 2002 a og b, Nicolaisen og Krogstad, 
+2008).  
+Ved at vannutskiftingen i hovedsak skjer gjennom Saltstrømmen, var det forventet at tidevannet ikke 
+alene ville bidra til vannforflytningen i fjorden som helhet. Skreslet (2002 a og b) har gjennom 
+modellering og målinger vist at det er god sirkulasjon vertikalt i Skjerstadfjorden og at dette gir 
+systemet stor kapasitet til å motta og omsette organisk stoff. I en annen rapport ble det beregnet at 
+fjorden hadde en produksjonskapasitet på inntil 240 000 tonn før vannmiljøet i fjorden ville nå 
+uakseptable nivåer (Nicolaisen og Krogstad, 2008). I de nevnte rapportene er det beregnet at vannet i 
+fjorden har en utskiftingsfrekvens på henholdsvis 130 og 155 døgn (45 km3). Våre undersøkelser er 
+ikke benyttet som grunnlag for å beregne maksimal produksjonskapasitet i hele fjordsystemet, men 
+resultatene er i tråd med tidligere refererte undersøkelser som tilsier at potensialet langt fra er utnyttet.  
+Våre målinger av både horisontal og vertikal strøm indikerer at vannutskiftingen gjennom 
+Saltstrømmen tidvis fører til oppstuing av vann ved lokalitetene Godøy og Kvalnes. Resultatene viser 
+ikke klare sammenhenger mellom tidevannsfrekvens og de svingninger som fanges opp av 
+strømmålerne. Temperaturmålingene på 60 meters dyp ved Kvalnes viser imidlertid svingninger som 
+både i verdi og frekvens kan tyde på innstrømning av vann som er antatt å være drevet av tidevannet. 
+Ved økende vannstand vil det midt i fjorden mellom Godøy og Kvalnes oppstå et overskudd av 
+dypvann fra fjorden som tvinges opp ut til sidene slik at hovedstrømsretningen ved begge lokalitetene 
+går mot land hvor de tvinges ned og gir negativ vertikal strøm. Spesielt ved Godøy er denne effekten 
+tydelig. Denne antagelsen bekreftes også av profilmålingene fra mars og april hvor det er kaldere og 
+saltere vann ved overflaten enn det vi registrerer lengre ned (20 til 40 meter under overflaten). 
+Profilmålingen fra Kvalnes i juli viser ikke samme forholdene med ulik temperatur og saltholdighet, 
+men gir tydelig indikasjoner på et varmere brakkvannslag ved overflaten. 
+Videre innover i fjorden, ved lokalitetene Eidvika, Alvnes og Kjetnes er den vertikale strømmen 
+positiv. Hovedstrømsretningen følger langs land ved Eidvika og Kjetnes, mens den går mot land ved 
+Alvnes. Profilmålingene fra februar, mars og april ved Eidvika og Kjetnes viser at det er vann som 
+både er kaldere og saltere ved overflaten, mens målingene fra juli (Eidvika og Alvnes) viser et 
+brakkvannslag i de øverste 10 meterne. Resultatene sett under ett viser at dypvann trolig strømmer inn 
+til målestasjonene hvor det treffer land og stiger til overflaten. Et slikt strømningsbilde er avhengig av 
+at det tilføres vann i overskudd midt i fjorden.  
+Resultatene fra Øynes viser at vertikal vannstrøm i måleperioden er negativ og at det oppstår en brå 
+økning både i horisontal og vertikal strøm ved slutten av perioden. Hovedstrømsretningen går mot 
+N/NV i retning mot Klungsetvika. Profilmålingene viser at det også ved denne lokaliteten er kaldere 
+og saltere vann ved overflaten enn fra ca 40 meter og dypere. Denne lokaliteten er den eneste som ikke 
+ligger over dypområdet i fjorden, og funnene kan være forårsaket av at dypvann presses opp langs 
+kanten utenfor målestasjonen for deretter å synke i området hvor målingene ble gjennomført.  
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+52 
+ 
+Figur 79: Oversiktskart som i grove trekk oppsummerer hovedstrømsretning og vertikal vannstrøm. Røde piler 
+viser hovedstrømsretning fra målinger i dette prosjektet. Sorte piler indikerer hovedretning i målinger utført av 
+andre. Bruk av ÷ og + indikerer retningen på vertikal strøm, mens 0 angir lav / ingen vertikal strøm. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+53 
+Ved Gjelhunes er den vertikale strømmen positiv i de øverste meterne og hovedretningen ved 5 meter 
+går mot SØ i retning Saltdalsfjorden. På nordsiden av denne lokaliteten, i Tusvika, er det kraftig, 
+positiv vertikal strøm og hovedstrømmen ved 5 meter går også her innover mot Saltdalsfjorden i SØ 
+retning. Ved 15 og 25 meter går hovedstrømmen nesten motsatt og har retning mot V, om enn ikke så 
+framtredende som ved overflaten. Profilmålingene ved begge lokaliteten er tilsvarende for det som er 
+målt i resten av fjorden, med lav temperatur og noe saltere vann ved overflaten om vinteren og et 
+tydelig oppvarmet brakkvannslag ved overflaten om sommeren. Den kraftige positive, vertikale 
+vannstrømmen og hovedstrømsretningen ved Tusvika indikerer at dypere vann stues opp mot land slik 
+at det kommer til overflaten. Dette vannet fordeles noe innover i Saltdalsfjorden og noe tilbake utover 
+i Skjerstadfjorden.  
+Alle lokalitetene sett i sammenheng med hverandre indikerer at vannsporten i fjorden er påvirket av 
+både horisontal og vertikal vannstrøm. Det er ikke funnet at denne transporten direkte er drevet av 
+tidevannsstrømmen og dermed begrenset av vannet som forflyttes gjennom Saltstrømmen, men 
+indirekte ved at det settes opp en strøm som følger hovedleden over dypområdet i fjorden. 
+Målestasjonene, som var plassert langs land på begge sider i fjordens lengderetning, gir et relativt 
+entydig resultat som viser at vannet presses mot eller langs land på begge sider av fjorden (figur 79). 
+Dermed fungerer midten av fjorden som en hovedåre for vanntransport i lengderetningen, mens det 
+ikke ved noen av lokaliteten er påvist vannstrøm som går helt eller delvis på tvers av lengderetningen. 
+En slik tolkning av resultatene støttes også av strømmålinger utført ved etablering av 
+oppdrettslokaliteter ulike steder i fjorden (figur 79).  
+Oksygenmetningen 
+målt 
+med 
+SD- 
+sonden 
+(prosent 
+metning) 
+representerer 
+vinter 
+og 
+sommersituasjonen ved lokalitetene. Begrensninger i utstyret som ble benyttet forhindret oss fra å 
+måle oksygenmetningen helt ned til bunnen. På grunn av dette er oksygenforholdene i bunnvannet 
+ikke kjent og inngår derfor ikke i vurderingene som gjøres her. Målingene viser moderat reduksjon i 
+metningen under ca. 250 meter i februar / mars, mens dette i stor grad har utjevnet seg til målingen i 
+april, en endring som er resultat av at vannet har blandet seg vertikalt. I samme perioden øker 
+metningen og målingene fra april indikerer svak overmetning. Det er ikke gjennomført inngående 
+analyser for å belyse denne endringen, men den mest sannsynlige forklaringen kan være økt 
+temperatur og / eller økt saltholdighet som vil redusere løseligheten til oksygen, og som vil føre til økt 
+metning.  
+For alle oksygenmålingene i juli er det kraftig overmetning nær overflaten (+30 til 40 %), 
+sammenfallende med et tydelig brakkvannslag. I denne perioden, med lys hele døgnet, er det forventet 
+høy primærproduksjon og dermed omsetning av næringsstoffer til blant annet oksygen. På grunn av 
+den markerte lagdelingen vil det oksygenrike vannet i liten grad blandes nedover i vannsøylen. 
+Uavhengig av årstid er nivåene av oksygenmetning som registreres ikke utenfor toleransegrensene for 
+produksjon av oppdrettsorganismer. 
+4.2 
+Utnyttelse av arealene, momenter til vurdering 
+I rapporten fra Nicolaisen og Krogstad (2008) viser de hvordan arealene i Skjerstadfjorden (Bodø 
+kommune) er disponert etter dagens interesser. Det mest i øynefallende er hvor store arealer som 
+dekkes av hvit sektor fra de tre fyrlyktene i fjorden, og tar man i tillegg med Saltdalsfjorden hvor det 
+er en betydelig hvit sektor på den ene lykten, er anslagsvis 2/3 av arealet i fjorden dekket av hvit 
+sektor. Store deler av dette arealet burde kunne frigis ved å innskrenke seilingsleden til et areal som er 
+tilpasset områdets båt trafikk og dekker de områdene hvor trafikken naturlig foregår. En slik 
+omdisponering av arealer vil øke tilgangen på arealer til blant annet akvakulturformål.  
+Nicolaisen og Krogstad (2008) viser også hvilke områder som tradisjonelt er benyttet til 
+fiskeriaktiviteter. Disse områdene dekker i hovedsak arealer midt i fjorden som i liten grad vil være 
+anvendelig til annet enn fiskerier. Gyteområdene utenfor innløpet til Misværfjorden dekker arealer 
+som også vil være egnet til akvakultur, og hvor det allerede er et påvekstanlegg for blåskjell. Det har i 
+de senere år vært økt fokus på konflikter mellom lokale fiskeriinteresser og etablering av 
+oppdrettsanlegg for laksefisk. Undersøkelsene som er utført gir ikke entydige svar, men viser at vill 
+torsk både aksepterer og skyr områder med mye oppdrettsaktivitet (Bjørn et. al., 2007). Denne 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+54 
+variasjonen forklares ut fra at kysttorsk har populasjoner som i ulik grad er stedbundne eller vandrende 
+(Svåsand et. al., 2004). Man kjenner fortsatt lite til mulige påvirkning av fiskeoppdrett på villfiskens 
+gyteadferd, og det er dermed i tråd med føre var prinsipp å unngå å utvide oppdrettsaktiviteter i kjente 
+gyteområder. 
+Ut fra dagens situasjon er det produksjon av laks som står for den største delen av årsproduksjonen på 
+4-5000 tonn (G. Wenberg, pers medd.). Oppdrett av torsk vil trolig stå for en økende andel av 
+produksjonsvolumet i årene framover. I de første årene med oppdrett av torsk har det på landsbasis 
+vært en del problemer med rømming og det har vært en generell oppfatning av at torsk rømmer i større 
+grad enn erfaringene fra oppdrett av laks viser. Det er også vist at rømt oppdrettstorsk oppsøker 
+gyteplasser for villfisk i gytesesongen (Uglem et. al., 2008). Noe av problemet med økt rømningsfare 
+kan forklares ved at næringen har vært gjennom en oppstartsperiode hvor utstyr og driftsrutiner nok 
+ikke har vært optimale. Dette må forventes, som også tilfellet har vært for lakseproduksjon, å bedres 
+etter hvert som driftsform og teknologi tilpasses torsken som oppdrettsart.  
+Faren for utbrudd av sykdom i anlegg med intensivt oppdrett vil alltid være til stede, men 
+oppdrettsnæringen har vist svært god evne til å håndtere disse problemene. Dette er oppnådd gjennom 
+utvikling av tilpassede vaksiner og innføring forebyggende tiltak i samarbeid med forvaltningsorganer. 
+Av forebyggende tiltak har krav til innbyrdes avstand mellom anlegg vært utøvd etter føre var 
+prinsippet, og dermed lagt føringer for utnyttelse av kystområdene til akvakulturformål.  
+For Skjerstadfjorden viser undersøkelsen som her er presentert at vannvolumet i fjorden har tilnærmet 
+lik kvalitet, uavhengig av dyp og om det måles i løpet av vinteren eller sommeren. Resultatene 
+avslører at den vertikale omrøringen er overraskende stor, noe som gjør store deler av vannvolumet 
+tilgjengelig for oppdrettsorganismer ved overflaten. Denne omrøringen, i tillegg til god horisontal 
+vannstrøm, vil i seg selv kunne bidra til å redusere smittepress mellom lokaliteter ved at eventuelle 
+smittestoffer raskt blir fortynnet. Våre funn gir oss grunn til å anta at vanntransporten i fjorden følger 
+hovedleden over dypområdene, og vannet fordeles inn mot land på begge sider av fjorden. Ut fra dette 
+er det lite sannsynlig at vannmasser av betydning transporteres på tvers av fjorden. Ved tilfeller hvor 
+det av arealhensyn er hensiktsmessig å etablere oppdrettsaktiviteter på hver side av fjorden, bør 
+betraktningen om lite vanntransport på tvers gjøre det mulig å redusere kravet til avstand mellom 
+lokaliteter.  
+Variabel og uforutsigbar ferskvannstilførsel kan bidra til å forstyrre det bildet beskrevet i 
+undersøkelsen. Brakk- og ferskvannslaget som er mest framtredende i sommerhalvåret kan gi 
+vanntransport i overflaten som i liten grad er knyttet til forflytningen av vann dypere ned. Hvor og 
+hvordan ferskvannslaget forflytter seg er ikke kartlagt spesielt i vår undersøkelse, men det bør tas i 
+betraktning når lokale forhold skal vurderes.  
+5. 
+Konklusjon 
+Gjennom å måle vannstrøm ved åtte lokaliteter spredt på begge sider i hele fjordens lengde, har dette 
+arbeidet gitt en forståelse av hvordan vannet i Skjerstadfjorden forflytter seg. Resultatene fra 
+undersøkelsen er relativt sammenfallend og gir et bilde som viser at vannet pulserer både horisontalt 
+og vertikalt i fjordens lengderetning. Det er antydet et strømningsbilde som i liten grad ser ut til å være 
+knyttet direkte til tidevannssyklusen, men at det er en indirekte kobling ved at vann med ulik 
+temperatur og saltholdighet kommer inn i fjorden og påvirker bevegelsen. Vannet som er i fjorden vil 
+også endre temperatur og saltholdighet avhengig av årstid og tilførsel av ferskvann. Slike endringer vil 
+også påvirke hydrodynamikken, kanskje spesielt ved inn / utløp av tilknyttede vannsystemer. Denne 
+undersøkelsen har i tråd med den etablerte forståelsen av fjorden vist at det er god vertikal omrøring 
+som gir god vannkvalitet i hele vannsøylen.  
+Skjerstadfjorden har stort potensial for videre utvikling av havbruksnæringen, hvor vannutskifting og 
+vannkvalitet er sentrale elementer. I dag utnyttes ca 2 % av fjordens potensial ved at det produseres 
+inntil 5000 tonn av en maksimal produksjon beregnet til 240 000 tonn. Det er med andre ord gode 
+muligheter for å øke produksjonen betraktelig. En bærekraftig utvikling fordrer tett samarbeid mellom 
+næringsaktører og forvaltningsorgan som i fellesskap må finne de beste måtene å forvalte fjorden på. 
+Barlindhaug Norfico AS 
+ 
+00.4306 
+VANNMILJØ OG HYDRODYNAMIKK I SKJERSTADFJORDEN 
+ 
+55 
+6. 
+Litteratur 
+Bjørn, P. A., Uglem, I., Sæther, B. S., Dale, T., Kerwath, S., Økland, F., Nilsen, R., Aas, K., 
+Tobiassen, T. 2007. Videreføring av prosjektet ”Behavioural responses in wild costal cod exposed to 
+salmon farms: possible effects of salmon holding water – a field and experimental study”. 
+Fiskeriforskning, rapport 6 / 2007. 
+Nicolaisen, O. og Krogstad, M. 2008. Vurdering av oppdrettspotensialet i Skjerstadfjorden, Bodø 
+kommune. HBO- rapport nr. 1 / 2008. ISBN.: 978-82-7314-562.  
+Skreslet, S. 2002a. Miljøundersøkelse i Skjerstadfjorden 1. Resultat fra måleprogrammet. HBO- 
+rapport 2 / 2002. ISBN.: 82-7314-362-7. 
+Skreslet, S. 2002b. Miljøundersøkelse i Skjerstadfjorden 2. Resultater fra simuleringer med 
+regnemodell. HBO- rapport 3 / 2002. ISBN.: 82-7314-363-5.  
+Svåsand, T., Bjørn, P. A., Dale, T., Ervik, A., Kupka Hansen, P., Juell, J-E., Karlsen, Ø., Michalsen, 
+K., Skilbrei, O., Sæther, B. S., Taranger, G. L. 2004. Effekter av lakseoppdrett på gyteadferd til vill 
+tosk 2002-2003. Vedlegg til sluttrapport NFR 151245/120. Effekter av lakseoppdrett på gyteadferd til 
+vill torsk.  
+Uglem, I, Bjørn, P. A., Dale, T., Kerwath, S., Økland, F., Nilsen, R., Aas, K., Flemming, I., Scott 
+McKinley, R., 2008. Movements and spatiotemporal distribution of escaped farmed and local wild 
+Atlantic cod (Gadus morhua L.). Aquaculture Research 39, 158-170. 
+Barlindhaug Norfico AS 
+ 
+00.4306

@@ -1,0 +1,123 @@
+﻿<root>
+  <avsender>
+    <adresselinje1>Sentrumsveien 3</adresselinje1>
+    <adresselinje2>
+    </adresselinje2>
+    <adresselinje3>
+    </adresselinje3>
+    <navn>HEMNES KOMMUNE</navn>
+    <poststed>KORGEN</poststed>
+    <postnr>8646</postnr>
+  </avsender>
+  <mottaker>
+    <adresse1>Postboks 1485 Fylkeshuset</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8048</postnr>
+    <poststed>BODØ</poststed>
+    <navn>NORDLAND FYLKESKOMMUNE</navn>
+    <land>Norway</land>
+    <orgnr>964982953</orgnr>
+    <fnr />
+  </mottaker>
+  <id>83801897-af12-4f12-8947-7f14280c6cab</id>
+  <tittel>Høringsuttalelse til søknad om akvakultur - Planktonic AS - Overføring av innehaver og endring av art på lokalitet Lassevika I</tittel>
+  <date>1686223362910</date>
+  <dateFormatert>2023-06-08T11:22:42</dateFormatert>
+  <metadataFraAvleverendeSystem>
+    <sakssekvensnummer>1667</sakssekvensnummer>
+    <saksaar>2023</saksaar>
+    <journalaar>2023</journalaar>
+    <journalsekvensnummer>6248</journalsekvensnummer>
+    <journalpostnummer>0</journalpostnummer>
+    <journalposttype>U</journalposttype>
+    <journalstatus>F</journalstatus>
+    <journaldato />
+    <dokumentetsDato />
+    <tittel>Høringsuttalelse til søknad om akvakultur - Planktonic AS - Overføring av innehaver og endring av art på lokalitet Lassevika I</tittel>
+    <saksBehandler>Lisa-Mari Pedersen</saksBehandler>
+  </metadataFraAvleverendeSystem>
+  <metadataForImport>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalposttype />
+    <journalstatus />
+    <dokumentetsDato />
+    <tittel />
+  </metadataForImport>
+  <status>Klar for mottak</status>
+  <niva>3</niva>
+  <filmetadata>
+    <filnavn>Høringsuttalelse til søknad om akvakultur - Planktonic AS - Overføring av innehaver og endring av art på lokalitet Lassevika I.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>28b15c834168589be766caf957d15a36d2574ddb471b9646872fa3bdb22c07c7</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>130395</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Uttalelse Nord Fiskerlag.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>275f2c96a30488fe3a0db4cfe19f90be0acc542f1d3d7ea4786ef6c2c9c279a5</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>66220</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Avisa Hemnes.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>886167f8b14b5d9255588a7852a79809657bec738838c7c980c30aa723dc338b</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1568589</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Rana Blad.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>8196abf04c2c21eb1d4ef2837db1c4592ef1d7b2d967b4192fb900d8432f2cbc</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1981401</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Norsk lysingsblad.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>b85a2f7540d6820bdfcb9a17545e17b36f6e09b6d1cacfbfdfd6cba9031f4a69</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>185445</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Offentlig utlysning av akvakultursøknad i Hemnes kommune.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>d28275f9c838c287bfd2689605c0d2e9f49cec28848cc4c5634e3ec451f7fae3</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>92693</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>AcosSvarInn.xml</filnavn>
+    <mimetype>text/xml</mimetype>
+  </filmetadata>
+  <svarSendesTil>
+    <adresse1>Sentrumsveien 1</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8646</postnr>
+    <poststed>Korgen</poststed>
+    <navn>Hemnes kommune</navn>
+    <land>Norway</land>
+    <orgnr>846316442</orgnr>
+    <fnr />
+  </svarSendesTil>
+  <svarPaForsendelse />
+  <forsendelseType />
+  <eksternRef />
+  <downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/83801897-af12-4f12-8947-7f14280c6cab</downloadUrl>
+  <avgivendeSystem>ELEMENTS</avgivendeSystem>
+  <taushetsbelagtPost>false</taushetsbelagtPost>
+</root>

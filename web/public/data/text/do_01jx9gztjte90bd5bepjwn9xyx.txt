@@ -1,0 +1,5125 @@
+﻿Strømrapport 
+Måling av overflate- (5m), 
+dimensjonerings- (15m), sprednings- (44m) 
+og bunnstrøm (79m) ved 
+Snyen i 
+april - juni 2022 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 2 av 94 
+Rapport 
+Rapportbeskrivelse 
+og -navn 
+Vurdering av strømforhold ved Snyen. 
+SR-NC-Snyen-104488-01-001.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+29.08.22 
+Første utgivelse. Presentasjon og vurdering av gjennomførte 
+strømmålinger ved Snyen. 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten 
+kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde 
+oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Snyen 
+Lokalitetsnummer 
+ny 
+Kommune  
+Meløy 
+Fylke 
+Nordland 
+Oppdragsgiver 
+Selskap 
+NorCod AS; Thomas Angells gate 22, 7011 TRONDHEIM, NORGE 
+Kontaktperson 
+Julianne Jacobsen 
+jj@norcod.no  
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+Organisasjonsnummer: 916 763 816 
+Feltarbeidsansvarlig 
+Nils Mo 
+nils.mo@akerbla.no 
+Rapportansvarlig         Øystein Breiteig 
+oystein.breiteig@akerbla.no 
+Kontrollert av   
+Aleksander Libæk 
+aleksander.libaek@akerbla.no 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+Resultat nøkkeltall 
+Måledyp 
+5m 
+15m 
+Spredning 
+(44m) 
+Bunn 
+(79m) 
+Maksimal strøm (cm/s) (retning) 
+39.9 (NØ) 
+30.0 (NØ) 
+20.4 (NØ) 
+26.5 (Ø) 
+Gjennomsnittlig strøm (cm/s) 
+9.5 
+7.1 
+2.8 
+3.4 
+Strømstyrke < 1cm/s (%) 
+1.6 
+2.2 
+13.5 
+10.5 
+Strømstyrke < 3cm/s (%) 
+10.7 
+17.2 
+66.3 
+52.6 
+Strømstyrke < 10cm/s (%) 
+60.5 
+78.0 
+98.3 
+98.8 
+Strømstyrke ≥ 30cm/s (%) 
+0.5 
+0.01 
+0.0 
+0.0 
+Strømstyrke ≥ 50cm/s (%) 
+0.0 
+0.0 
+0.0 
+0.0 
+Neumann-parameter 
+0.0 
+0.3 
+0.2 
+0.3 
+10-års strøm (maksimal) 
+66 
+50 
+- 
+- 
+50-års strøm (maksimal) 
+74 
+56 
+- 
+- 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 3 av 94 
+Innholdsfortegnelse 
+ 
+1. 
+Forord .......................................................................................................................................... 6 
+2. 
+Områdebeskrivelse ..................................................................................................................... 7 
+3. 
+Metodikk ...................................................................................................................................... 8 
+4. 
+Resultater ................................................................................................................................... 11 
+4.1 
+Sammendrag av strømdata .............................................................................................. 11 
+4.2 
+Strømroser ....................................................................................................................... 12 
+4.3 
+Matrise med strømhastighet og -retning ......................................................................... 13 
+4.4 
+Strømmens hastighetsfordeling ....................................................................................... 17 
+4.5 
+Strømmens retningsfordeling .......................................................................................... 18 
+4.6 
+Tidsdiagram – Strømhastighet ........................................................................................ 19 
+4.7 
+Tidsdiagram – Strømretning ........................................................................................... 20 
+4.8 
+Tidsdiagram – Temperatur .............................................................................................. 21 
+4.9 
+Progressivt vektordiagram .............................................................................................. 22 
+4.10 
+Fordelingsdiagram – Maksimal strømhastighet .............................................................. 23 
+4.11 
+Fordelingsdiagram – Gjennomsnittshastighet ................................................................. 24 
+4.12 
+Fordelingsdiagram – Relativ vannfluks .......................................................................... 25 
+4.13 
+Fordelingsdiagram – Antall observasjoner ..................................................................... 26 
+4.14 
+Maksimal strømhastighet i 8 retningssektorer ................................................................ 27 
+4.15 
+Gjennomsnittlig strømhastighet i 8 retningssektorer ...................................................... 27 
+4.16 
+Antall målinger i 8 retningssektorer ................................................................................ 27 
+4.17 
+Relativ vannutskiftning i 8 retningssektorer ................................................................... 27 
+4.18 
+10-års og 50-års strømhastighet i 8 retningssektorer ...................................................... 28 
+4.19 
+Persentilfordeling av strømhastighet ............................................................................... 29 
+4.20 
+Prosentfordeling av strømhastighet ................................................................................. 29 
+4.21 
+Strømfordeling ................................................................................................................ 30 
+4.22 
+Strømvarighet .................................................................................................................. 32 
+4.23 
+Tidevannsanalyse ............................................................................................................ 34 
+4.24 
+Maksimal strømhastighet, tidevann og vind ................................................................... 37 
+4.25 
+Vind under måleperioden ................................................................................................ 39 
+4.26 
+Utslippskontur ................................................................................................................. 44 
+4.27 
+CTD-profil....................................................................................................................... 45 
+5. 
+Diskusjon ................................................................................................................................... 46 
+5.1 
+Høye strømmålinger ........................................................................................................ 46 
+5.2 
+Tidevannspåvirkning ....................................................................................................... 46 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 4 av 94 
+5.3 
+Vindpåvirkning ............................................................................................................... 46 
+5.4 
+Vannutskiftning ............................................................................................................... 47 
+5.5 
+Mulig spredning av utslipp.............................................................................................. 47 
+5.6 
+Vannsøylens vertikale struktur ........................................................................................ 48 
+6. 
+Vedlegg – Bakgrunnsinformasjon ........................................................................................... 49 
+6.1 
+Valg av sted, dyp og periode for strømmålinger ............................................................. 49 
+6.2 
+Spesifikasjoner for strøminstrumenter ............................................................................ 50 
+6.3 
+Måleprinsipp for strømmålinger ..................................................................................... 51 
+6.4 
+CTD-målinger ................................................................................................................. 51 
+7. 
+Vedlegg – Riggoppsett .............................................................................................................. 52 
+7.1 
+Riggoppsett ..................................................................................................................... 52 
+8. 
+Vedlegg – Databearbeiding og kvalitetssikring ...................................................................... 55 
+8.1 
+Databearbeiding .............................................................................................................. 55 
+8.2 
+Kvalitetssikring av data ................................................................................................... 57 
+8.3 
+Fjernede dataverdier ........................................................................................................ 62 
+8.3.1 
+Måleperiode ............................................................................................................... 62 
+8.3.2 
+Enkelte datapunkter.................................................................................................... 62 
+9. 
+Vedlegg – Fyrstikkdiagram av vind og strøm ........................................................................ 63 
+10. Vedlegg – Strømmens tilstandsklasser .................................................................................... 70 
+11. Vedlegg – Månedlige tidevannsvariasjoner ............................................................................ 71 
+12. Vedlegg – Måleenheter ............................................................................................................. 72 
+13. Vedlegg – Parametere og beskrivelse ...................................................................................... 73 
+14. Vedlegg – Referanser ................................................................................................................ 74 
+15. Vedlegg - Resultater per måned på 5m dyp ........................................................................... 75 
+15.1 
+Sammendrag av strømdata .............................................................................................. 75 
+15.2 
+Strømroser ....................................................................................................................... 76 
+15.3 
+Tidsdiagram – strømhastighet ......................................................................................... 77 
+15.4 
+Tidsdiagram – strømhastighet ......................................................................................... 78 
+15.5 
+Persentilfordeling av strømhastighet ............................................................................... 79 
+15.6 
+Prosentfordeling av strømhastighet ................................................................................. 79 
+16. Vedlegg - Resultater per måned på 15m dyp ......................................................................... 80 
+16.1 
+Sammendrag av strømdata .............................................................................................. 80 
+16.2 
+Strømroser ....................................................................................................................... 81 
+16.3 
+Tidsdiagram – strømhastighet ......................................................................................... 82 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 5 av 94 
+16.4 
+Tidsdiagram – strømhastighet ......................................................................................... 83 
+16.5 
+Persentilfordeling av strømhastighet ............................................................................... 84 
+16.6 
+Prosentfordeling av strømhastighet ................................................................................. 84 
+17. Vedlegg - Resultater per måned på spredningsdyp (44m) .................................................... 85 
+17.1 
+Sammendrag av strømdata .............................................................................................. 85 
+17.2 
+Strømroser ....................................................................................................................... 86 
+17.3 
+Tidsdiagram – strømhastighet ......................................................................................... 87 
+17.4 
+Tidsdiagram – strømhastighet ......................................................................................... 88 
+17.5 
+Persentilfordeling av strømhastighet ............................................................................... 89 
+17.6 
+Prosentfordeling av strømhastighet ................................................................................. 89 
+18. Vedlegg - Resultater per måned på bunndyp (79m) .............................................................. 90 
+18.1 
+Sammendrag av strømdata .............................................................................................. 90 
+18.2 
+Strømroser ....................................................................................................................... 91 
+18.3 
+Tidsdiagram – strømhastighet ......................................................................................... 92 
+18.4 
+Tidsdiagram – strømhastighet ......................................................................................... 93 
+18.5 
+Persentilfordeling av strømhastighet ............................................................................... 94 
+18.6 
+Prosentfordeling av strømhastighet ................................................................................. 94 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 6 av 94 
+1. Forord 
+ 
+Åkerblå AS har på oppdrag fra NorCod AS utført strømmålinger ved tenkt oppdrettslokalitet Snyen 
+som er vurdert etter beliggenhet, strømforhold, temperatur, vannutskiftning, tidevann og vind. 
+ 
+Resultatene fra strømmålingene gjelder for gitte prøvepunkt og for oppgitt tidsperiode. Vurderingen 
+av strømforhold i området er gjort på bakgrunn av disse resultatene. 
+ 
+NYTEK-forskriften har som mål å begrense rømming av fisk fra oppdrettsanlegg. NS 9415:2009 
+krever at alle lokaliteter undersøkes og beskrives ut fra topografi og eksponeringsgrad i form av 
+parametere som danner grunnlag for beregning av miljølaster på et anlegg.   
+ 
+Alle omsøkte akvakulturlokaliteter skal også kunne ivareta artens krav til et godt levemiljø 
+(Mattilsynet, 2016). Det må være tilstrekkelig tilførsel av vann av egnet kvalitet. Spesielt relevant er 
+oksygen – som er vurdert etter blant annet strømforhold og vannutskiftning – og temperatur.   
+ 
+Denne rapporten tilfredsstiller kravene i NS 9425-1:1999, samt anbefalingene i retningslinje for 
+etableringssøknader fra Mattilsynet (2016).  
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 7 av 94 
+2. Områdebeskrivelse 
+ 
+Målepunktene for Snyen ligger i Meløy kommune, Nordland (Figur 2.1). Snyen ligger i Snyflaget, 
+på østsiden av øygruppen Snyvær, og vest for øyene Teistholmen og Bolga. Plasseringen er åpen mot 
+Sandværflaget i sørøst. Posisjonene ligger langs kysten, omkranset av mange mindre øyer, holmer og 
+skjær, og er delvis eksponert for åpent hav mellom sørvest og nord.   
+ 
+På grunn av omkringliggende topografi er området relativt eksponert for vind fra alle retninger.  
+ 
+I måleposisjonene for 5m og 15m dyp er bunntopografien ca. 66m dyp, og ca. 82m dyp i 
+måleposisjonen for sprednings- og bunndyp. Bunntopografien er orientert N/NØ – S/SV i området 
+for strømmålingsposisjonene. 
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonene, anvist med rød pinne. Kart er hentet 
+fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 8 av 94 
+3. Metodikk 
+ 
+Strømmålinger er kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter 
+som ble benyttet er oppgitt i Tabell 3.1. Strømmen ble målt i to rigger, hvor avstanden mellom disse 
+var ca. 175m.  
+ 
+Batteriet på instrumentet som målte 15m gikk tomt ca. 3.5døgn før planlagt opptak, som var 
+28.06.22. Dette tilsvarer 503 datapunkter, oppgitt som manglende datapunkter i Tabell 3.1. Registrert 
+data er av god kvalitet, og måleperiodens varighet tilfredsstiller likevel kravene fra NS 9415:2009.  
+ 
+Instrumentet som skulle måle spredningsdyp (44m) stod ikke på planlagt dyp under måleperioden. 
+Instrumentet har stått på 44m dyp, i stedet for planlagt måledyp på 57m ut ifra riggoppsettet. 
+Strømmålingene er likevel vurdert som representative for spredningsdyp ved lokaliteten. 
+ 
+Ut fra topografi og bunntopografi er plasseringen vurdert som god for å dokumentere 
+strømforholdene i området (Figur 3.1 – Figur 3.2).  
+ 
+Tabell 3.1. Bakgrunnsinformasjon om strømmåling.  
+Måledyp 
+5m 
+15m 
+Spredning 
+(44m) 
+Bunn 
+(79m) 
+Posisjonsanvisning 
+ 
+ 
+ 
+ 
+Posisjon 
+66° 47.966' N; 
+013° 06.828' Ø 
+66° 47.966' N; 
+013° 06.828' Ø 
+66° 48.039' N; 
+013° 06.682' Ø 
+66° 48.039' N; 
+013° 06.682' Ø 
+Dyp på målested 
+66m 
+66m 
+82m 
+82m 
+Instrumenttype 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Benyttet måleperiode 
+09.04.22 - 
+28.06.22 
+09.04.22 - 
+25.06.22 
+09.04.22 - 
+28.06.22 
+09.04.22 - 
+28.06.22 
+Måleintervall 
+10 minutter 
+10 minutter 
+10 minutter 
+10 minutter 
+Antall døgn 
+(målt/planlagt) 
+80.0 / 80.0 
+76.5 / 80.0 
+80.0 / 80.0 
+80.0 / 80.0 
+Fjernede datapunkt 
+0 
+0 
+0 
+0 
+Manglende datapunkt 
+0 
+503 
+0 
+0 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 9 av 94 
+ 
+Figur 3.1. Plassering av strømmålere i området anvist med gult kryss (posisjon for 5m og 15m) og 
+rødt kryss (posisjon for sprednings- og bunndyp). Kompasspila øverst i venstre hjørne indikerer 
+orientering til kart. Kart er hentet fra Olex. Kartdatum: WGS84.  
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 10 av 94 
+ 
+Figur 3.2. 3D-bilde av bunntopografi i området. Den tynne kompasspila øverst i venstre hjørne 
+indikerer kartets orientering (øverste bilde) og den tykke kompasspila indikerer kameraets 
+orientering (midterste og nederste bilde). De små bildene viser kameraets utsiktspunkt for den 
+tilhørende bunntopografien. Kartene er hentet fra Olex. Kartdatum: WGS84.   
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 11 av 94 
+4. Resultater  
+ 
+4.1 
+Sammendrag av strømdata 
+ 
+Resultater per måledyp for hele måleperioden er sammenfattet i Tabell 4.1.1. Verdiene er klassifisert 
+(fargelagt) etter: «Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er 
+forklart i «Vedlegg – Parametere og beskrivelse». 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra 5m, 15m, spredningsdyp (44m) og bunndyp (79m). 
+Måledyp 
+5m 
+15m 
+Spredning 
+(44m) 
+Bunn 
+(79m) 
+Sjøtemperatur (°C) 
+3.9 - 13.4 
+4.6 - 10.5 
+5.2 - 7.4 
+5.3 - 6.9 
+Strømhastighet 
+Maksimum (cm/s) 
+39.9 
+30.0 
+20.4 
+26.5 
+Gjennomsnitt (cm/s) 
+9.5 
+7.1 
+2.8 
+3.4 
+Minimum (cm/s) 
+0.0 
+0.0 
+0.0 
+0.0 
+Signifikant maks (cm/s) 
+16.2 
+12.3 
+5.0 
+6.1 
+Signifikant min (cm/s) 
+3.7 
+2.8 
+1.1 
+1.3 
+Varians (cm/s)² 
+34.7 
+20.7 
+4.6 
+5.4 
+Standardavvik (cm/s) 
+5.9 
+4.6 
+2.1 
+2.3 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+1.6 
+2.2 
+13.5 
+10.5 
+Lengste periode < 1cm/s (min) 
+60 
+50 
+100 
+90 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+10.7 
+17.2 
+66.3 
+52.6 
+Lengste periode < 3cm/s (min) 
+220 
+560 
+1860 
+1090 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+60.5 
+78.0 
+98.3 
+98.8 
+Lengste periode < 10cm/s (min) 
+2110 
+5160 
+22290 
+20950 
+% ≥ 30cm/s 
+0.5 
+0.01 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+130 
+10 
+0 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+0.4 
+1.9 
+0.6 
+1.0 
+Retning (grader) 
+166 
+190 
+191 
+96 
+Neumann-parameter 
+0.0 
+0.3 
+0.2 
+0.3 
+Gjennomsnittlig vannforflytning (m³/m²/d) 
+8174 
+6142 
+2432 
+2941 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 12 av 94 
+4.2 
+Strømroser 
+Strømrosene viser strømhastighet og -retning under hele måleperioden. Strømrosene viser hvor stor 
+andel av målingene som er registrert for hver 10º-sektor, vist som prosentandel i figurene, og hvilken 
+strømhastighetsklasse som er registrert i de ulike sektorene. Strømroser gir en indikasjon på om 
+strømmen har en dominerende retning eller ikke. 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+Figur 4.2.1. Strømroser på 5m, 15m, spredningsdyp (44m) og bunndyp (79m). 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 13 av 94 
+4.3 
+Matrise med strømhastighet og -retning 
+ 
+Strømretninger er fordelt i 15º-sektorer (sektorene er vist i venstre kolonne). Den nederste linjen 
+viser den prosentvise fordelingen av de registrerte strømhastighetene. Kolonnen til høyre viser den 
+prosentvise fordelingen i de ulike 15º-sektorene og antall kubikkmeter vann som i måleperioden vil 
+passere et tenkt vindu på 1x1 meter i den aktuelle strømretningen. Kolonnen til høyre viser også 
+maksimal strømhastighet i hver 15º-sektor.    
+ 
+Hastighetsfordeling er ≥ (lavest verdi) og < (høyest verdi) i oppgitt hastighetsrekkevidde. 
+ 
+Tabell 4.3.1. Hastighets- og retningsmatrise av strømdata fra 5m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-15 15-20 20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 >100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+8 
+39 
+94 
+204 
+87 
+10 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+446 
+3.9 
+19746 
+3.0 
+25.3 
+N 
+15 
+6 
+43 
+92 
+275 
+191 
+33 
+10 
+5 
+5 
+0 
+0 
+0 
+0 
+660 
+5.7 
+35483 
+5.4 
+34.9 
+NØ 
+30 
+8 
+51 
+108 
+335 
+257 
+110 
+40 
+25 
+9 
+0 
+0 
+0 
+0 
+943 
+8.2 
+59846 
+9.2 
+39.9 
+NØ 
+45 
+9 
+50 
+101 
+343 
+343 
+159 
+88 
+50 
+39 
+0 
+0 
+0 
+0 
+1182 
+10.3 
+88365 
+13.5 
+39.0 
+NØ 
+60 
+10 
+45 
+76 
+206 
+203 
+155 
+71 
+29 
+6 
+0 
+0 
+0 
+0 
+801 
+7.0 
+58537 
+9.0 
+33.2 
+Ø 
+75 
+6 
+36 
+65 
+125 
+63 
+12 
+14 
+1 
+0 
+0 
+0 
+0 
+0 
+322 
+2.8 
+15418 
+2.4 
+26.5 
+Ø 
+90 
+4 
+39 
+59 
+80 
+14 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+200 
+1.7 
+6972 
+1.1 
+20.0 
+Ø 
+105 
+11 
+30 
+44 
+55 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+144 
+1.2 
+4131 
+0.6 
+14.7 
+SØ 
+120 
+8 
+23 
+36 
+39 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+113 
+1.0 
+3268 
+0.5 
+14.6 
+SØ 
+135 
+2 
+41 
+24 
+38 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+108 
+0.9 
+2867 
+0.4 
+14.7 
+SØ 
+150 
+8 
+32 
+31 
+42 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+120 
+1.0 
+3591 
+0.5 
+18.5 
+S 
+165 
+6 
+40 
+44 
+72 
+9 
+5 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+179 
+1.6 
+6345 
+1.0 
+24.8 
+S 
+180 
+7 
+53 
+58 
+114 
+70 
+30 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+336 
+2.9 
+15863 
+2.4 
+24.5 
+S 
+195 
+7 
+43 
+82 
+303 
+321 
+205 
+68 
+18 
+0 
+0 
+0 
+0 
+0 
+1047 
+9.1 
+73473 
+11.2 
+29.8 
+SV 
+210 
+10 
+48 
+89 
+434 
+481 
+413 
+115 
+23 
+0 
+0 
+0 
+0 
+0 
+1613 
+14.0 
+120595 
+18.4 
+28.4 
+SV 
+225 
+12 
+41 
+116 
+394 
+328 
+125 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+1030 
+8.9 
+59648 
+9.1 
+22.1 
+SV 
+240 
+6 
+59 
+93 
+229 
+107 
+25 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+520 
+4.5 
+23257 
+3.6 
+20.1 
+V 
+255 
+8 
+52 
+79 
+157 
+19 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+316 
+2.7 
+10319 
+1.6 
+15.3 
+V 
+270 
+12 
+48 
+68 
+85 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+220 
+1.9 
+6152 
+0.9 
+12.8 
+V 
+285 
+6 
+49 
+44 
+69 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+169 
+1.5 
+4490 
+0.7 
+10.8 
+NV 
+300 
+5 
+47 
+66 
+61 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+181 
+1.6 
+4789 
+0.7 
+10.7 
+NV 
+315 
+7 
+39 
+66 
+99 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+221 
+1.9 
+6839 
+1.0 
+12.4 
+NV 
+330 
+9 
+47 
+82 
+112 
+24 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+276 
+2.4 
+9280 
+1.4 
+18.0 
+N 
+345 
+9 
+56 
+73 
+181 
+51 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+376 
+3.3 
+14703 
+2.2 
+18.9 
+Antall obs. 
+184 1051 1690 4052 2607 1296 432 152 
+59 
+0 
+0 
+0 
+0 
+11523 
+100 
+0 
+0 
+0 
+% 
+1.6 
+9.1 
+14.7 
+35.2 
+22.6 
+11.2 
+3.7 
+1.3 
+0.5 0.0 0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 14 av 94 
+Tabell 4.3.2. Hastighets- og retningsmatrise av strømdata fra 15m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-15 15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+11 
+82 
+146 
+183 
+25 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+449 
+4.1 
+14533 
+3.1 
+18.3 
+N 
+15 
+6 
+73 
+106 
+215 
+51 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+465 
+4.2 
+17774 
+3.8 
+19.9 
+NØ 
+30 
+15 
+80 
+127 
+273 
+97 
+22 
+6 
+1 
+0 
+0 
+0 
+0 
+0 
+621 
+5.6 
+26407 
+5.6 
+27.5 
+NØ 
+45 
+5 
+69 
+112 
+246 
+128 
+38 
+23 
+11 
+1 
+0 
+0 
+0 
+0 
+633 
+5.7 
+32526 
+6.9 
+30.0 
+NØ 
+60 
+8 
+59 
+112 
+208 
+108 
+30 
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+533 
+4.8 
+24526 
+5.2 
+28.5 
+Ø 
+75 
+10 
+53 
+85 
+157 
+56 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+369 
+3.3 
+14246 
+3.0 
+17.8 
+Ø 
+90 
+10 
+50 
+60 
+117 
+24 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+261 
+2.4 
+8779 
+1.9 
+14.3 
+Ø 
+105 
+14 
+44 
+62 
+73 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+199 
+1.8 
+5408 
+1.2 
+11.6 
+SØ 
+120 
+6 
+46 
+55 
+78 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+187 
+1.7 
+5297 
+1.1 
+10.9 
+SØ 
+135 
+10 
+61 
+55 
+90 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+218 
+2.0 
+5828 
+1.2 
+10.2 
+SØ 
+150 
+8 
+47 
+72 
+91 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+232 
+2.1 
+7185 
+1.5 
+12.9 
+S 
+165 
+16 
+67 
+71 
+150 
+58 
+20 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+383 
+3.5 
+15526 
+3.3 
+22.2 
+S 
+180 
+11 
+65 
+108 
+194 
+202 
+121 
+46 
+1 
+0 
+0 
+0 
+0 
+0 
+748 
+6.8 
+46130 
+9.8 
+25.5 
+S 
+195 
+6 
+71 
+134 
+428 
+373 
+197 
+59 
+2 
+0 
+0 
+0 
+0 
+0 
+1270 
+11.5 
+79766 
+17.0 
+25.5 
+SV 
+210 
+12 
+63 
+151 
+509 
+310 
+100 
+18 
+0 
+0 
+0 
+0 
+0 
+0 
+1163 
+10.6 
+62434 
+13.3 
+22.9 
+SV 
+225 
+10 
+96 
+127 
+375 
+143 
+13 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+767 
+7.0 
+33039 
+7.0 
+22.4 
+SV 
+240 
+8 
+95 
+139 
+273 
+40 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+557 
+5.1 
+18944 
+4.0 
+18.7 
+V 
+255 
+8 
+92 
+91 
+164 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+360 
+3.3 
+10367 
+2.2 
+11.3 
+V 
+270 
+10 
+71 
+90 
+88 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+260 
+2.4 
+6595 
+1.4 
+10.5 
+V 
+285 
+14 
+80 
+78 
+58 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+231 
+2.1 
+5276 
+1.1 
+10.5 
+NV 
+300 
+13 
+77 
+82 
+52 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+226 
+2.1 
+5079 
+1.1 
+11.0 
+NV 
+315 
+15 
+78 
+90 
+72 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+264 
+2.4 
+6542 
+1.4 
+14.5 
+NV 
+330 
+8 
+68 
+104 
+75 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+263 
+2.4 
+6747 
+1.4 
+12.1 
+N 
+345 
+7 
+68 
+115 
+161 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+361 
+3.3 
+11121 
+2.4 
+14.6 
+Antall obs. 
+241 1655 
+2372 
+4330 
+1675 567 163 
+16 
+1 
+0 
+0 
+0 
+0 
+11020 
+100 
+0 
+0 
+0 
+% 
+2.2 
+15.0 
+21.5 
+39.3 
+15.2 
+5.1 
+1.5 
+0.1 0.0 0.0 0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 15 av 94 
+Tabell 4.3.3. Hastighets- og retningsmatrise av strømdata fra spredningsdyp (44m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+60 
+192 
+60 
+17 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+330 
+2.9 
+4390 
+2.3 
+10.1 
+N 
+15 
+66 
+222 
+58 
+18 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+364 
+3.2 
+4763 
+2.4 
+8.5 
+NØ 
+30 
+60 
+237 
+69 
+14 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+382 
+3.3 
+5323 
+2.7 
+13.2 
+NØ 
+45 
+64 
+313 
+109 
+15 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+509 
+4.4 
+7644 
+3.9 
+14.6 
+NØ 
+60 
+73 
+293 
+96 
+6 
+7 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+478 
+4.1 
+6954 
+3.6 
+20.4 
+Ø 
+75 
+75 
+405 
+147 
+25 
+15 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+669 
+5.8 
+10686 
+5.5 
+16.5 
+Ø 
+90 
+75 
+379 
+154 
+35 
+18 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+665 
+5.8 
+11265 
+5.8 
+17.9 
+Ø 
+105 
+78 
+353 
+154 
+41 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+640 
+5.6 
+10478 
+5.4 
+13.5 
+SØ 
+120 
+72 
+324 
+137 
+14 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+550 
+4.8 
+7927 
+4.1 
+13.8 
+SØ 
+135 
+72 
+303 
+123 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+510 
+4.4 
+7084 
+3.6 
+8.1 
+SØ 
+150 
+62 
+277 
+78 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+420 
+3.6 
+5237 
+2.7 
+7.3 
+S 
+165 
+67 
+248 
+83 
+12 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+411 
+3.6 
+5421 
+2.8 
+10.3 
+S 
+180 
+70 
+281 
+81 
+22 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+454 
+3.9 
+6212 
+3.2 
+9.5 
+S 
+195 
+64 
+279 
+127 
+48 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+521 
+4.5 
+8537 
+4.4 
+13.8 
+SV 
+210 
+59 
+303 
+204 
+123 
+24 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+713 
+6.2 
+15465 
+7.9 
+14.9 
+SV 
+225 
+69 
+254 
+203 
+267 
+54 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+849 
+7.4 
+23251 
+11.9 
+16.8 
+SV 
+240 
+66 
+233 
+227 
+272 
+26 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+826 
+7.2 
+21697 
+11.1 
+16.9 
+V 
+255 
+68 
+204 
+161 
+81 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+520 
+4.5 
+9931 
+5.1 
+13.1 
+V 
+270 
+49 
+191 
+82 
+29 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+351 
+3.0 
+5302 
+2.7 
+8.4 
+V 
+285 
+48 
+184 
+42 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+279 
+2.4 
+3282 
+1.7 
+5.6 
+NV 
+300 
+58 
+151 
+44 
+11 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+264 
+2.3 
+3251 
+1.7 
+7.5 
+NV 
+315 
+58 
+143 
+34 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+245 
+2.1 
+2912 
+1.5 
+8.3 
+NV 
+330 
+59 
+152 
+44 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+265 
+2.3 
+3288 
+1.7 
+8.0 
+N 
+345 
+63 
+168 
+54 
+24 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+309 
+2.7 
+4341 
+2.2 
+8.7 
+Antall obs. 
+1555 
+6089 
+2571 
+1114 
+182 
+12 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+11524 
+100 
+0 
+0 
+0 
+% 
+13.5 
+52.8 
+22.3 
+9.7 
+1.6 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 16 av 94 
+Tabell 4.3.4. Hastighets- og retningsmatrise av strømdata fra bunndyp (79m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+50 
+144 
+92 
+59 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+347 
+3.0 
+6432 
+2.7 
+11.2 
+N 
+15 
+38 
+132 
+79 
+42 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+294 
+2.6 
+5274 
+2.2 
+12.8 
+NØ 
+30 
+43 
+148 
+70 
+32 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+293 
+2.5 
+4660 
+2.0 
+8.8 
+NØ 
+45 
+64 
+190 
+90 
+42 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+387 
+3.4 
+6243 
+2.7 
+13.2 
+NØ 
+60 
+42 
+231 
+137 
+66 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+478 
+4.1 
+8904 
+3.8 
+22.0 
+Ø 
+75 
+52 
+245 
+214 
+184 
+11 
+3 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+715 
+6.2 
+17532 
+7.4 
+26.5 
+Ø 
+90 
+47 
+304 
+304 
+619 
+40 
+4 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+1319 
+11.4 
+40390 
+17.2 
+25.4 
+Ø 
+105 
+65 
+278 
+289 
+576 
+39 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1248 
+10.8 
+37063 
+15.7 
+16.6 
+SØ 
+120 
+49 
+202 
+134 
+130 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+524 
+4.5 
+11408 
+4.8 
+11.7 
+SØ 
+135 
+62 
+173 
+73 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+324 
+2.8 
+4411 
+1.9 
+9.4 
+SØ 
+150 
+54 
+192 
+32 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+283 
+2.5 
+3254 
+1.4 
+6.7 
+S 
+165 
+52 
+186 
+56 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+298 
+2.6 
+3714 
+1.6 
+5.6 
+S 
+180 
+45 
+248 
+72 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+375 
+3.3 
+5187 
+2.2 
+7.2 
+S 
+195 
+51 
+240 
+112 
+36 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+439 
+3.8 
+6885 
+2.9 
+9.0 
+SV 
+210 
+52 
+261 
+142 
+48 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+505 
+4.4 
+8613 
+3.7 
+10.2 
+SV 
+225 
+61 
+241 
+185 
+83 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+573 
+5.0 
+10684 
+4.5 
+10.8 
+SV 
+240 
+61 
+247 
+174 
+104 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+587 
+5.1 
+11163 
+4.7 
+10.9 
+V 
+255 
+51 
+228 
+111 
+47 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+437 
+3.8 
+7174 
+3.0 
+9.3 
+V 
+270 
+44 
+185 
+87 
+17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+333 
+2.9 
+4976 
+2.1 
+6.9 
+V 
+285 
+35 
+167 
+71 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+287 
+2.5 
+4178 
+1.8 
+6.8 
+NV 
+300 
+46 
+165 
+102 
+28 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+341 
+3.0 
+5568 
+2.4 
+8.3 
+NV 
+315 
+39 
+157 
+121 
+45 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+362 
+3.1 
+6484 
+2.8 
+9.4 
+NV 
+330 
+51 
+150 
+124 
+59 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+386 
+3.3 
+7366 
+3.1 
+10.6 
+N 
+345 
+56 
+142 
+102 
+85 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+389 
+3.4 
+7832 
+3.3 
+10.8 
+Antall obs. 
+1210 
+4856 
+2973 
+2351 
+117 
+9 
+6 
+2 
+0 
+0 
+0 
+0 
+0 
+11524 
+100 
+0 
+0 
+0 
+% 
+10.5 
+42.1 
+25.8 
+20.4 
+1.0 
+0.1 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 17 av 94 
+4.4 
+Strømmens hastighetsfordeling 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.4.1. Strømmens hastighetsfordeling på 5m, 15m, spredningsdyp (44m) og bunndyp (79m). 
+Antall observasjoner er indikert på stående akse og hastighetsgruppe på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 18 av 94 
+4.5 
+Strømmens retningsfordeling 
+ 
+Strømmens retning fordelt i 15º-sektorer er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.5.1. Strømmens retningsfordeling på 5m, 15m, spredningsdyp (44m) og bunndyp (79m). 
+Antall observasjoner er indikert på stående akse og 15º-sektorer på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 19 av 94 
+4.6 
+Tidsdiagram – Strømhastighet 
+ 
+Strømmens hastighet under måleperioden er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.6.1. Tidsdiagram av strømhastighet på 5m, 15m, spredningsdyp (44m) og bunndyp (79m). 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 20 av 94 
+4.7 
+Tidsdiagram – Strømretning  
+ 
+Strømmens retning under måleperioden er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.7.1. Tidsdiagram av strømretning på 5m, 15m, spredningsdyp (44m) og bunndyp (79m). 
+Strømretning på stående akse og tid på liggende akse. 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 21 av 94 
+4.8 
+Tidsdiagram – Temperatur 
+ 
+Temperatur under måleperioden er oppgitt under. 
+ 
+ 
+ 
+Figur 4.8.1. Tidsdiagram av temperatur på 5m, 15m, spredningsdyp (44m) og bunndyp (79m). 
+Temperatur er indikert på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 22 av 94 
+4.9 
+Progressivt vektordiagram 
+ 
+Et progressivt vektordiagram viser hvor langt og hvordan en tenkt merket vannpartikkel som 
+befinner seg i strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperioden (Figur 
+4.9.1). Dette gir en indikasjon på vannutskiftning under måleperioden. 
+ 
+ 
+Figur 4.9.1. Progressivt vektordiagram for strøm på 5m, 15m, spredningsdyp (44m) og bunndyp 
+(79m). 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 23 av 94 
+4.10 Fordelingsdiagram – Maksimal strømhastighet 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+Figur 4.10.1. Fordelingsdiagram av maksimal strømhastighet (cm/s) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (44m) og bunndyp (79m) i løpet av måleperioden. 
+Strømrapport: Snyen, Meløy kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 24 av 94 
+4.11 Fordelingsdiagram – Gjennomsnittshastighet 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+Figur 4.11.1. Fordelingsdiagram av gjennomsnittlig strømhastighet (cm/s) for hver 15º-sektor på 5m, 
+15m, spredningsdyp (44m) og bunndyp (79m) i løpet av måleperioden. 
+Strømrapport: Snyen, Meløy kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 25 av 94 
+4.12 Fordelingsdiagram – Relativ vannfluks 
+Relativ vannfluks (%) angir mengden vann som strømmer gjennom en 15-retningssektor. Total 
+vannfluks er totalt volum vann som strømmer gjennom alle sektorer i løpet av måleperioden. 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+Figur 4.12.1. Fordelingsdiagram av relativ vannfluks (%) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (44m) og bunndyp (79m) i løpet av måleperioden. 
+Strømrapport: Snyen, Meløy kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 26 av 94 
+4.13 Fordelingsdiagram – Antall observasjoner 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+Figur 4.13.1. Fordelingsdiagram av antall observasjoner for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (44m) og bunndyp (79m) i løpet av måleperioden. 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 27 av 94 
+4.14 Maksimal strømhastighet i 8 retningssektorer 
+Tabell 4.14.1. Maksimal strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+34.9 
+39.9 
+26.5 
+18.5 
+29.8 
+28.4 
+15.3 
+18.0 
+15m 
+19.9 
+30.0 
+17.8 
+12.9 
+25.5 
+22.9 
+11.3 
+14.5 
+Spredning (44m) 
+10.1 
+20.4 
+17.9 
+13.8 
+13.8 
+16.9 
+13.1 
+8.3 
+Bunn (79m) 
+12.8 
+22.0 
+26.5 
+11.7 
+9.0 
+10.9 
+9.3 
+10.6 
+ 
+ 
+4.15 Gjennomsnittlig strømhastighet i 8 retningssektorer 
+Tabell 4.15.1. Gjennomsnittlig strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+7.7 
+11.8 
+6.6 
+4.8 
+10.2 
+10.7 
+5.0 
+5.1 
+15m 
+5.6 
+7.8 
+5.7 
+4.8 
+9.8 
+7.7 
+4.4 
+4.1 
+Spredning (44m) 
+2.2 
+2.4 
+2.7 
+2.3 
+2.4 
+4.2 
+2.7 
+2.0 
+Bunn (79m) 
+3.2 
+2.9 
+4.8 
+2.8 
+2.4 
+3.0 
+2.6 
+3.0 
+ 
+ 
+4.16 Antall målinger i 8 retningssektorer 
+Tabell 4.16.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+1482 
+2926 
+666 
+341 
+1562 
+3163 
+705 
+678 
+15m 
+1275 
+1787 
+829 
+637 
+2401 
+2487 
+851 
+753 
+Spredning (44m) 
+1003 
+1369 
+1974 
+1480 
+1386 
+2388 
+1150 
+774 
+Bunn (79m) 
+1030 
+1158 
+3282 
+1131 
+1112 
+1665 
+1057 
+1089 
+ 
+ 
+4.17 Relativ vannutskiftning i 8 retningssektorer 
+Tabell 4.17.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+10.4 
+31.7 
+4.1 
+1.5 
+14.7 
+31.2 
+3.2 
+3.2 
+15m 
+9.2 
+17.8 
+6.1 
+3.9 
+30.1 
+24.4 
+4.7 
+3.9 
+Spredning (44m) 
+6.9 
+10.2 
+16.7 
+10.4 
+10.4 
+31.0 
+9.5 
+4.9 
+Bunn (79m) 
+8.3 
+8.4 
+40.4 
+8.1 
+6.7 
+12.9 
+6.9 
+8.3 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 28 av 94 
+4.18 10-års og 50-års strømhastighet i 8 retningssektorer  
+ 
+Verdier for strøm med returperiode på 10 år og 50 år beregnes ut fra målt maksimal strømhastighet 
+(NS 9415:2009). Retningen som er oppgitt i raden under maksstrømmen er retningen til den 
+respektive maksimale strømhastigheten (Tabell 4.18.1 - Tabell 4.18.2). 
+ 
+Tabell 4.18.1. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 5m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+34.9 
+39.9 
+26.5 
+18.5 
+29.8 
+28.4 
+15.3 
+18.0 
+Retning (°) 
+15 
+30 
+69 
+154 
+195 
+208 
+249 
+330 
+10-år (cm/s) 
+(x1.65) 
+58 
+66 
+44 
+31 
+49 
+47 
+25 
+30 
+50-år (cm/s) 
+(x1.85) 
+65 
+74 
+49 
+34 
+55 
+52 
+28 
+33 
+ 
+Tabell 4.18.2. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 15m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+19.9 
+30.0 
+17.8 
+12.9 
+25.5 
+22.9 
+11.3 
+14.5 
+Retning (°) 
+14 
+42 
+69 
+150 
+193 
+203 
+255 
+322 
+10-år (cm/s) 
+(x1.65) 
+33 
+50 
+29 
+21 
+42 
+38 
+19 
+24 
+50-år (cm/s) 
+(x1.85) 
+37 
+56 
+33 
+24 
+47 
+42 
+21 
+27 
+ 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 29 av 94 
+4.19 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre i Tabell 4.19.1 indikerer prosent av data (persentil) som er lik eller lavere enn 
+oppgitt strømhastighet (cm/s). 
+ 
+Tabell 4.19.1. Persentilfordeling av strømhastighet (cm/s) for hvert dyp.  
+Persentil 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+1 
+0.8 
+0.7 
+0.3 
+0.3 
+10 
+2.9 
+2.2 
+0.8 
+1.0 
+20 
+4.3 
+3.3 
+1.2 
+1.5 
+30 
+5.6 
+4.2 
+1.6 
+1.9 
+40 
+7.0 
+5.1 
+2.0 
+2.4 
+50 
+8.4 
+6.2 
+2.3 
+2.8 
+60 
+9.9 
+7.3 
+2.7 
+3.5 
+70 
+11.8 
+8.6 
+3.2 
+4.2 
+80 
+14.1 
+10.4 
+3.8 
+5.2 
+90 
+17.4 
+13.4 
+5.3 
+6.6 
+95 
+20.5 
+16.2 
+7.1 
+7.9 
+99 
+27.2 
+21.5 
+11.0 
+10.2 
+ 
+4.20 Prosentfordeling av strømhastighet 
+ 
+Oppgitte verdier i Tabell 4.20.1 er rundet av til nærmeste desimal for verdier over 0.1%, mens verdier 
+mellom 0.1% og 0.01% er rundet av til to desimal. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.20.1. Prosent (%) av data per dyp som er lik eller høyere enn oppgitt strømhastighet (cm/s).  
+Strømhastighet 
+(cm/s) 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+1 
+98.4 
+97.8 
+86.5 
+89.5 
+3 
+89.3 
+82.8 
+33.7 
+47.4 
+5 
+74.6 
+61.3 
+11.4 
+21.6 
+10 
+39.5 
+22.0 
+1.7 
+1.2 
+20 
+5.6 
+1.6 
+0.0 
+0.07 
+30 
+0.5 
+0.0 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 30 av 94 
+4.21 Strømfordeling 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike grupper av strømhastighet (cm/s), fordelt 
+i 8 retningssektorer. Strømhastighetsgruppene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. Oppgitte verdier er rundet av til 
+nærmeste desimal for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to 
+desimaler. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.21.1. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 5m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+0.2 
+1.6 
+1-5 
+3.4 
+3.7 
+2.4 
+1.6 
+2.8 
+3.9 
+3.0 
+3.0 
+23.8 
+5-10 
+5.7 
+7.7 
+2.3 
+1.0 
+4.2 
+9.2 
+2.7 
+2.4 
+35.2 
+10-20 
+3.3 
+10.6 
+0.8 
+0.1 
+5.6 
+12.8 
+0.2 
+0.3 
+33.7 
+20-30 
+0.2 
+2.6 
+0.1 
+ 
+0.8 
+1.3 
+ 
+ 
+5.0 
+30-40 
+0.04 
+0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+0.5 
+Sum 
+12.8 
+25.3 
+5.8 
+2.9 
+13.6 
+27.4 
+6.1 
+5.9 
+100.0 
+ 
+Tabell 4.21.2. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 15m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.2 
+0.3 
+0.3 
+0.2 
+0.3 
+0.3 
+0.3 
+0.3 
+2.2 
+1-5 
+5.4 
+5.1 
+3.2 
+3.0 
+4.7 
+6.1 
+4.6 
+4.5 
+36.6 
+5-10 
+5.1 
+6.6 
+3.1 
+2.4 
+7.0 
+10.5 
+2.8 
+1.8 
+39.3 
+10-20 
+0.9 
+3.8 
+0.9 
+0.2 
+8.8 
+5.5 
+0.06 
+0.2 
+20.4 
+20-30 
+ 
+0.4 
+ 
+ 
+1.0 
+0.2 
+ 
+ 
+1.6 
+30-40 
+ 
+0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+11.6 
+16.2 
+7.5 
+5.8 
+21.8 
+22.6 
+7.8 
+6.8 
+100.0 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 31 av 94 
+Tabell 4.21.3. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 
+spredningsdyp (44m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+1.6 
+1.7 
+2.0 
+1.8 
+1.7 
+1.7 
+1.4 
+1.5 
+13.4 
+1-5 
+6.5 
+9.7 
+13.8 
+10.8 
+9.5 
+12.4 
+7.5 
+4.9 
+75.1 
+5-10 
+0.5 
+0.3 
+0.9 
+0.3 
+0.7 
+5.7 
+1.0 
+0.3 
+9.7 
+10-20 
+0.0 
+0.2 
+0.5 
+0.03 
+0.03 
+0.9 
+0.05 
+ 
+1.7 
+20-30 
+ 
+0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+8.6 
+11.9 
+17.2 
+12.9 
+11.9 
+20.7 
+10.0 
+6.7 
+100.0 
+ 
+Tabell 4.21.4. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(79m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+1.2 
+1.3 
+1.4 
+1.4 
+1.3 
+1.5 
+1.1 
+1.2 
+10.4 
+1-5 
+6.0 
+7.5 
+14.2 
+7.0 
+7.9 
+10.8 
+7.4 
+7.1 
+67.9 
+5-10 
+1.6 
+1.2 
+12.0 
+1.3 
+0.4 
+2.0 
+0.7 
+1.1 
+20.3 
+10-20 
+0.08 
+0.02 
+0.9 
+0.08 
+ 
+0.05 
+ 
+0.02 
+1.2 
+20-30 
+ 
+0.0 
+0.06 
+ 
+ 
+ 
+ 
+ 
+0.06 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+8.9 
+10.0 
+28.6 
+9.8 
+9.6 
+14.4 
+9.2 
+9.4 
+100.0 
+ 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 32 av 94 
+4.22 Strømvarighet 
+ 
+Verdiene i tabellene under indikerer antall hendelser av strømhastigheter (cm/s) i ulike intervaller 
+med forskjellig varighet. Strømhastighetsintervallene er oppdelt slik at strømhastighetene er større 
+enn oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. De ulike gruppene av varighet 
+er oppdelt på samme måte som strømhastighetsintervallene. 
+ 
+Tabell 4.22.1. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 5m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+23 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+1-5 
+211 
+127 
+91 
+18 
+7 
+3 
+1 
+0 
+5-10 
+334 
+232 
+123 
+25 
+9 
+3 
+0 
+0 
+10-20 
+173 
+100 
+99 
+51 
+23 
+10 
+4 
+3 
+20-30 
+44 
+19 
+20 
+6 
+1 
+1 
+0 
+0 
+30-40 
+5 
+3 
+1 
+1 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.22.2. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 15m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+32 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+1-5 
+233 
+188 
+139 
+40 
+8 
+3 
+3 
+1 
+5-10 
+356 
+209 
+156 
+31 
+7 
+2 
+0 
+0 
+10-20 
+124 
+89 
+61 
+22 
+5 
+5 
+5 
+1 
+20-30 
+14 
+5 
+8 
+1 
+0 
+0 
+0 
+0 
+30-40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.22.3. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 
+spredningsdyp (44m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+262 
+56 
+8 
+0 
+0 
+0 
+0 
+0 
+1-5 
+295 
+209 
+240 
+98 
+47 
+20 
+24 
+12 
+5-10 
+144 
+55 
+34 
+3 
+0 
+0 
+0 
+0 
+10-20 
+25 
+7 
+6 
+1 
+0 
+0 
+0 
+0 
+20-30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+30-40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 33 av 94 
+Tabell 4.22.4. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på bunndyp 
+(79m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+220 
+42 
+4 
+0 
+0 
+0 
+0 
+0 
+1-5 
+270 
+240 
+273 
+91 
+35 
+23 
+4 
+6 
+5-10 
+156 
+100 
+79 
+29 
+5 
+0 
+0 
+0 
+10-20 
+22 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+20-30 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+30-40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 34 av 94 
+4.23 Tidevannsanalyse 
+ 
+En tidevannsanalyse av strømdata er gjennomført for å vurdere hvor stor andel av det målte signalet 
+som er forårsaket av tidevannet. Tidevannsanalysen er utført ved bruk av analyseverktøyet U_Tide 
+(Codiga, 2011). 
+ 
+Tidevannsanalysen inkluderer alle separerbare tidevannskomponenter (Tabell 4.23.1). Det er også 
+foretatt en analyse med fem separerbare tidevannskomponenter, M2 (12.42 timers periode), S2 (12.00 
+timers periode), N2 (12.66 timers periode), O1 (25.82 timers periode) og K1 (23.93 timers periode), 
+som benyttes i forbindelse med tidevannstabeller (Tabell 4.23.2). 
+ 
+Strøm er splittet i komponentene øst-vest (UEW) og nord-sør (VNS) for å vurdere variasjon i strømdata 
+på de forskjellige dypene (Emery & Thomson, 2001). Krysset markerer gjennomsnittsverdien for 
+hastighetskomponentene og reflekterer den effektive transporthastigheten med tilhørende retning 
+(Figur 4.23.1). Strømellipsens store halvakse (hovedakse) markerer retningen der variasjonen er 
+størst.  
+ 
+Tabell 4.23.1. Tidevannsbidrag til strøm og trykkendringer basert på tidevannsanalyse av strømdata 
+i timesverdier. 
+Måledyp 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+Strøm (%) 
+68.3 
+70.3 
+50.6 
+35.6 
+Trykk (%) 
+- 
+- 
+83.5 
+96.1 
+ 
+Tabell 4.23.2. Tidevannsbidrag til strøm og trykkendringer fra tidevannskomponentene M2, S2, N2, 
+O1 og K1. 
+Måledyp 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+Strøm (%) 
+65.8 
+66.5 
+39.0 
+20.9 
+Trykk (%) 
+- 
+- 
+81.9 
+96.1 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 35 av 94 
+ 
+ 
+Figur 4.23.1. UEW – VNS punktdiagram av strømdata i timesverdier, med tilhørende strømellipse. 
+Midtpunktet for strømellipsen er markert med kryss som også markerer strømmens effektive 
+transporthastighet. Vinklene indikerer den store halvaksens orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 36 av 94 
+ 
+Figur 4.23.2. UEW - VNS tidevannsellipser (fargede linjer) vist sammen med strømellipser (svarte 
+linjer) for 5m, 15m, sprednings- (44m) og bunndyp (79m) under måleperioden. Midtpunktet for 
+strømellipsene er markert med kryss som også markerer den effektive transporthastigheten. Vinklene 
+indikerer de store halvaksenes orientering i forhold til nord/sør. Aksekors for øst - vest og nord - sør 
+er vist med stiplede linjer. 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 37 av 94 
+4.24 Maksimal strømhastighet, tidevann og vind 
+ 
+Strømhastighet og -retning på 5m dyp, samt tidevann og vind er oppgitt under for en todagersperiode 
+da maksimalstrømmen ved 5m dyp oppstod. 
+ 
+ 
+ 
+Figur 4.24.1. Strømhastighet og -retning, samt tidevann og vind (Myken) for perioden hvor 
+maksimalstrømmen på 5m dyp er registrert. 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 38 av 94 
+ 
+ 
+Figur 4.24.2. Strømhastighet og -retning, samt tidevann og vind (Solvær III) for perioden hvor 
+maksimalstrømmen på 5m dyp er registrert. 
+ 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 39 av 94 
+4.25 Vind under måleperioden 
+ 
+Vinddata er hentet fra værstasjonene Myken og Solvær III (Meteorologisk institutt, 2022), som ligger 
+henholdsvis ca. 27.9km vest og ca. 52.7km sørvest for strømmålingsposisjonene (Figur 4.25.5). 
+Myken har perioder med manglende vinddata, og det er derfor inkludert vinddata fra Solvær III. 
+Vinddata fra Solvær III er vurdert representativ ut ifra eksponeringsgraden lokaliteten befinner seg i.  
+ 
+Strøm over 10cm/s på 5m dyp ble sammenlignet med vinddata fra Myken og Solvær III fra samme 
+periode. Figur 4.25.3 - Figur 4.25.4 og figurene i "Vedlegg - Fyrstikkdiagram av vind og strøm" 
+indikerer hvilke tidspunkter vind på Myken og Solvær III, og målt strøm på 5m dyp hadde omtrent 
+sammenfallende retning. Vannstand i løpet av måleperioden er vist i Figur 4.25.3 - Figur 4.25.4 og 
+er hentet fra tidevannsstasjon Bodø (Kartverket, 2022), som ligger ca. 77.3km nordøst for 
+strømmålingsposisjonene (Figur 4.25.5). Vannstand er tilpasset området for målepunktet. 
+ 
+Tabell 4.25.1. Maksimal vindhastighet og prosent av tiden hvor vinden blåste fra de ulike retningene 
+på Myken under måleperioden. 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+15.1 
+16.2 
+16.7 
+13.8 
+17.5 
+19.8 
+17.2 
+21.9 
+Tid (%) 
+11.3 
+12.9 
+5.4 
+7.2 
+22.2 
+20.2 
+8.5 
+12.4 
+ 
+Tabell 4.25.2. Maksimal vindhastighet og prosent av tiden hvor vinden blåste fra de ulike retningene 
+på Solvær III under måleperioden. 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+19.3 
+11.9 
+12.4 
+12.7 
+12.2 
+14.3 
+16.5 
+19.1 
+Tid (%) 
+19.8 
+8.7 
+3.0 
+13.1 
+14.5 
+21.2 
+10.4 
+9.4 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 40 av 94 
+Strøm på 5m 
+Vind 
+Figur 4.25.1. Rosediagram for strøm (mot retning) på 5m dyp, samt vind (fra retning) på Myken 
+værstasjon under måleperioden. Skalaen på diagrammene er ulik. 
+Strøm på 5m 
+Vind 
+Figur 4.25.2. Rosediagram for strøm (mot retning) på 5m dyp, samt vind (fra retning) på Solvær III 
+værstasjon under måleperioden. Skalaen på diagrammene er ulik. 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 41 av 94 
+Hastighet og retning for strøm og vind er oppgitt i Figur 4.25.3 - Figur 4.25.4 og i "Vedlegg - 
+Fyrstikkdiagram av vind og strøm" for å vurdere vindpåvirkning på strømmen. I Figur 4.25.3 - Figur 
+4.25.4 er vindretning oppgitt som at vind blåser fra en retning, mens i "Vedlegg - Fyrstikkdiagram av 
+vind og strøm" er vindretning oppgitt som at vind blåser mot en retning. Tidevann er også vist i Figur 
+4.25.3 - Figur 4.25.4 for å vurdere tidevannspåvirkning.  
+ 
+ 
+ 
+Figur 4.25.3. Strømhastighet (mot retning) på 5m dyp og vindhastighet (fra retning) på Myken, strøm- 
+og vindretning, samt vannstand (Bodø) under måleperioden. Tidspunkter hvor strøm og vind har 
+omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 42 av 94 
+ 
+ 
+Figur 4.25.4. Strømhastighet (mot retning) på 5m dyp og vindhastighet (fra retning) på Solvær III, 
+strøm- og vindretning, samt vannstand (Bodø) under måleperioden. Tidspunkter hvor strøm og vind 
+har omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 43 av 94 
+Figur 4.25.5. Posisjonen til Myken værstasjon (markert med blå sirkel), posisjonen til Solvær III 
+værstasjon (markert med oransje sirkel) og posisjonen til Bodø tidevannsstasjon (markert med grønn 
+sirkel) i forhold til strømmålingsposisjon (markert med rød pinne). Kartet er hentet fra 
+Fiskeridirektoratets kartverktøy. Kartdatum: WGS84. 
+ 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 44 av 94 
+4.26 Utslippskontur  
+ 
+Partikler som slippes ut i et gitt punkt med en viss synkehastighet (Bannister, et al., 2016) vil spres 
+med strømmen mens de synker mot bunnen. Med utgangspunkt i målt strøm på spredningsdyp, 
+beregnes utslippskonturen som summen av partikkelens vertikale og horisontale bevegelse bort fra 
+utslippspunktet ved overflaten. Figur 4.26.1 viser retning og avstand for spredning, og i hvilke 
+områder det er mest utslipp som blir liggende på bunn. Fargeskalaen indikerer mengde sedimentasjon 
+som prosentandel (%) av den totale mengden som blir sluppet ut, hvor de røde områdene vil ha størst 
+mengde avfall. Summen av prosentnivået i alle sektorer er lik total mengde utslipp (100%). 
+ 
+Merk at figuren viser utslipp fra ett punkt. Med utslipp fra ett enkelt punkt vil lite avfall havne rett 
+under utslippspunktet, da strømmen alltid vil skape noe spredning. Ved et oppdrettsanlegg er det 
+utslipp over et større område, noe som må inkluderes i vurderingen av spredning av utslipp. 
+ 
+ 
+ 
+Figur 4.26.1. Utslippskontur basert på målte strømhastigheter på spredningsdyp (44m). 
+Akkumulering av avfall vises som prosentandel av utslipp som havner på bunnen, indikert av 
+fargelagte sektorer. Oppløsningen på hver fargelagt sektor er 50m lang og 15° bred. Avstand fra 
+utslippspunktet er markert med en stiplet sirkel for hver 100m. 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 45 av 94 
+4.27 CTD-profil  
+ 
+CTD-profil ble målt i sammenheng med utsett 09.04.22 og opptak 28.06.22 av strømmålere i samme 
+område som strømriggene.  
+ 
+ 
+Figur 4.27.1. Vertikalprofiler av saltinnhold, temperatur, tetthet og oksygen. Dypet er oppgitt langs 
+y-aksen. 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 46 av 94 
+5. Diskusjon 
+ 
+Strømmen på Snyen er mot NØ – SV på 5m, mot NØ – S/SV på 15m, og mot Ø – SV på sprednings- 
+(44m) og bunndyp (79m). Dette stemmer med områdets bunntopografi og områdets orientering. 
+Strømretningen på 5m domineres av motsatt rettede hovedstrømretninger. 62.9% av relativ 
+vannutskiftning på 5m, 72.3% på 15m, 47.7% på spredningsdyp og 53.3% på bunndyp skjer langs 
+hovedstrømretningene (Tabell 4.17.1). 
+ 
+5.1 
+Høye strømmålinger 
+ 
+Maksimal strømhastighet var 39.9cm/s mot NØ på 5m, 30.0cm/s mot NØ på 15m, 20.4cm/s mot NØ 
+på spredningsdyp (44m) og 26.5cm/s mot Ø på bunndyp (79m). Maksstrømmen er langs 
+hovedstrømretning på alle dyp, med unntak av spredningsdyp (44m) og er vurdert som middels sterk 
+på 5m og spredningsdyp (44m), og som sterk på 15m og bunndyp (79m). Maksimalmålingen er bare 
+én måling og gir ikke en indikasjon av om strømmen er sterk eller svak i området. 
+ 
+Signifikant maksimal strømhastighet er gjennomsnittet av den høyeste tredjedelen av målingene og 
+gir en indikasjon av styrken på strømmen i området. Denne var 16.2cm/s på 5m, 12.3cm/s på 15m, 
+5.0cm/s på spredningsdyp (44m) og 6.1cm/s på bunndyp (79m). Signifikant maksimal strømhastighet 
+er vurdert som middels sterk på 5m og 15m, og som svak på spredningsdyp (44m) og bunndyp (79m). 
+ 
+Det var tilfeller der strøm var > 30cm/s på 5m og 15m dyp. Høy strømhastighet oppstår jevnt med 
+tidevannssyklusen, men av varierende varighet. Høye strømhastigheter er vurdert forårsaket av vind 
+og tidevann. 
+ 
+5.2 
+Tidevannspåvirkning 
+ 
+Strømmen er vurdert som tidevannsdominert på 5m, 15m og spredningsdyp (44m) under 
+måleperioden, da tidevannsbidraget var ≥ 40% (Tabell 4.23.1). Tidevannssignalet dominerte ikke på 
+bunndyp (79m) under måleperioden (Tabell 4.23.1).  
+ 
+5.3 
+Vindpåvirkning 
+ 
+Ut fra omkringliggende topografi er det vurdert at vind fra alle retninger kan ha betydning for 
+strømforholdene på lokaliteten. Under måleperioden blåste vind på Myken værstasjon mest fra S/SV 
+og sterkest fra NV (Tabell 4.25.1). Under måleperioden blåste vind på Solvær III værstasjon mest fra 
+SV og sterkest fra NV/N (Tabell 4.25.2). 
+ 
+Grunnet friksjon mellom vind og vannoverflate vil vind med betydelig hastighet (> 3m/s) og stabil 
+retning som blåser over en lengre periode ha innvirkning på strømmen. Tilfeller med vindpåvirkning 
+er i dette tilfellet beregnet utfra sammenfallende eller motsatt rettet retninger ved et bestemt tidspunkt, 
+uten hensyn til vindens varighet eller stabilitet.  
+ 
+Hvis de lokale vindforholdene på strømmålingsposisjonen var like de på Myken og Solvær III er det 
+beregnet at vind fra N/NØ kan ha påvirket strøm mot S/SV, vind fra S kan ha påvirket strøm mot 
+N/NØ, vind fra SV kan ha påvirket strøm mot N/NØ/Ø og vind fra V kan ha påvirket strøm mot 
+NØ/Ø. 
+ 
+Siden vind på Myken blåste mest fra S/SV, kan strøm mot N/NØ ha blitt mest påvirket av vind under 
+måleperioden. Dette passer med målt maksimal strømhastighet på 5m dyp mot NØ, som er vurdert 
+delvis vindpåvirket utfra sammenfallende retning mellom strøm og vind.    
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 47 av 94 
+Siden vind på Solvær III blåste mest fra SV, kan strøm mot NØ ha blitt mest påvirket av vind under 
+måleperioden. Dette passer med målt maksimal strømhastighet på 5m dyp mot NØ, som er vurdert 
+delvis vindpåvirket utfra sammenfallende retning mellom strøm og vind.    
+ 
+Det var tilfeller hvor strøm- og vindretning var motsatt rettet under måleperioden, hvor vind kan ha 
+virket bremsende på målt strømhastighet. 
+ 
+5.4 
+Vannutskiftning  
+ 
+Det er naturlig med strømstille når tidevannet skifter fra flo til fjære eller motsatt. Varigheten av 
+strømstille perioder kan ha betydning for vannutskiftning i et område. Siden vann vil strømme rundt, 
+i tillegg til gjennom eller under et anlegg, er anleggsorientering viktig. Et anlegg orientert slik at det 
+ligger med langsiden mot den dominerende strømretningen vil ha bedre vannutskiftning i merdene 
+enn et anlegg hvor mange av merdene ligger etter hverandre langs hovedstrømmen. Neumann-
+parameteren sier noe om stabiliteten til strømmen. En høy Neumann parameter (f.eks. 0.7) indikerer 
+en retningsstabil strøm. Dette tyder på at vannet strømmer i en retning og beveger seg konstant bort 
+fra startpunktet. En lav Neumann-parameter kan bety at vannstrømmen har skiftende retning og 
+kanskje bare flyter fram og tilbake ved startpunktet. Neumann-parameteren kan brukes opp mot 
+progressivt vektordiagram og gjennomsnittsstrømmen for å kunne si noe om vannutskiftningen ved 
+det punktet hvor strømmen er målt.  
+ 
+Gjennomsnittlig strømhastighet var ≥ 2cm/s på alle dyp. Gjennomsnittlig strømhastighet er vurdert 
+som sterk på 5m, og 15m, og som svak på spredningsdyp (44m) og som svak på bunndyp (79m).  
+ 
+Neumann-parameteren er beregnet til 0.0 på 5m, 0.3 på 15m, 0.2 på spredningsdyp (44m) og 0.3 på 
+bunndyp (79m). Neumann-parameteren er vurdert som svært lite stabil på 5m, og middels stabil på 
+15m, spredningsdyp (44m) og bunndyp (79m). Strømretninger og vannutskiftning stemmer med 
+områdets bunntopografi. Vannutskiftningen er vurdert som god på 15m, sprednings- og bunndyp 
+(selv om Neumann-parameteren er lav), fordi vannet beveger seg bort fra startpunktet og ikke bare 
+flyter fram og tilbake. Vannutskiftningen på 5m er i perioder preget av at vannet beveger seg frem og 
+tilbake rundt målepunktet og i perioder også bort fra målepunktet.  
+  
+Prosent nullmålinger (< 1cm/s) var mindre enn 10% på 5m og 15m dyp. Prosent nullmålinger (< 
+1cm/s) var 13.5% på spredningsdyp (44m) og 10.5% på bunndyp (79m). Lengst varighet for strøm < 
+1cm/s var 60 minutter (1t) på 5m, 50 minutter på 15m, 100 minutter (1t 40min) på spredningsdyp 
+(44m) og 90 minutter (1t 30min) på bunndyp (79m). Det var korte perioder med strømstille på 5m og 
+15m.  
+ 
+5.5 
+Mulig spredning av utslipp 
+ 
+Sprednings- og bunnstrøm er viktig for lokalitetens totale bæreevne. Opphopning av sediment under 
+anlegget kan i noen tilfeller påvirke vannkvaliteten i merden og dermed fiskens levevilkår 
+(Mattilsynet, 2016). På lokaliteter med kort avstand mellom havbunn og notbunn er det viktig at både 
+sprednings- og bunnstrøm viser god vannutskiftning slik at sedimenter ikke hoper seg opp og påvirker 
+vannkvaliteten i merden negativt (Mattilsynet, 2016). Bunntopografi og strømningsforhold har også 
+betydning for utskifting og nedbryting av bunnsedimenter fra anlegget (Mattilsynet, 2016). En ujevn 
+bunn eller en flat bunn med groper gir større risiko for opphopning av sedimenter enn en jevnt 
+skrånende bunn.    
+ 
+Dyp ved målepunktet for sprednings- og bunndyp var ca. 82m og dybden ved måleposisjonen for 5m 
+og 15m dyp var ca. 66m. Med slike dyp er det god avstand mellom notbunn og havbunn. 
+Strømmålingsposisjonene ligger over en kupert bunn som skråner oppover mot land mot både øst og 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 48 av 94 
+vest. Sørvest for posisjonene er det en forhøyning i batymetrien. Bunntopografien er orientert N/NØ 
+– S/SV i området for strømmålingsposisjonene.  
+ 
+Det var tilfeller der strøm var > 10cm/s på både spredningsdyp (44m) og bunndyp (79m). Dette er 
+gunstig med tanke på spredning av organisk materiale fra anlegget. 
+ 
+Spredning av utslipp følger strømrosen for spredningsdyp (Figur 4.2.1) og orienteringen til 
+bunntopografien i området. Mye sedimentasjon legger seg mot Ø og SV (Figur 4.26.1), som er 
+retningene med mest vannutskiftning (Tabell 4.17.1). Med utgangspunkt i målte strømhastigheter på 
+spredningsdyp vil avfall spre seg lengst mot Ø og SV, opptil 200m vekk fra utslippspunktet. 
+ 
+5.6 
+Vannsøylens vertikale struktur 
+ 
+Vannsøylens stabilitet har vesentlig betydning for sirkulasjon i området og mulighet for blanding 
+vertikalt. En stabil vannsøyle har økende tetthet med økende dyp. Lagdeling i vannsøylen (forårsaket 
+av forskjellige grunner, for eksempel; ferskvannsavrenning, avkjøling/oppvarming av overflatevann, 
+utveksling av vann ved bunnen med kystvann) påvirker spredning av utslipp både horisontalt og 
+vertikalt. 
+ 
+Temperatur under måleperioden var 3.9 - 13.4°C på 5m, 4.6 - 10.5°C på 15m, 5.2 - 7.4°C på 
+spredningsdyp (44m) og 5.3 - 6.9°C på bunndyp (79m). Temperaturmålingene viser at overflatelaget 
+(5m og 15m) var i perioder kjøligere enn lengre ned i vannsøylen fra 09.04 og frem til ca. 08.05. Fra 
+08.05 og ut måleperioden var temperaturen i overflatelaget (5m og 15m) varmere enn lengre ned i 
+vannsøylen. Ett varmere overflatelag i mai og juni skyldes at solen varmer overflatelaget. 
+Temperaturen på 5m og 15m dyp økte svakt fra 09.04 og frem til ca. 14.05, etterfulgt av en raskere 
+temperaturøkning frem til slutten av juni. Det er perioder med mer variasjon på disse to dypene, som 
+kan skyldes at vann med ulik temperatur flyttes forbi målepunktet. Temperaturen på sprednings- og 
+bunndyp var nokså lik, og økte svakt gjennom hele måleperioden.       
+ 
+CTD-målinger ved utsett og opptak viser at det var en oppvarming av vannsøylen i løpet av 
+måleperioden. Temperaturen i april var nokså konstant i de øvre 10m, etterfulgt av en svak økning 
+ned til ca. 20m. Deretter endret temperaturen seg lite ned til bunnen. I juni avtok temperaturen fra 
+overflaten og ned til bunnen.  
+ 
+Gjennom måleperioden sank saltinnholdet i de øverste 40 meterne av vannsøyla. Fra 40m og ned til 
+bunnen var saltinnholdet nokså likt mellom april og juni. Ved utsett i april var saltinnholdet nokså 
+likt i de øvre 10m, etterfulgt av en økning ned til ca. 20m. Deretter endret saltinnholdet seg lite videre 
+ned til bunnen. Ved opptak i juni økte saltinnholdet fra overflaten og ned til ca. 22m dyp, hvorpå det 
+endret seg lite videre ned til bunnen. 
+Tetthetsdata gjenspeiler saltinnholdet og viser at vannsøylen var lagdelt. I april bestod vannsøylen av 
+et overflatelag i de øvre 10m, og ett dypere vannlag fra ca. 20m og ned til bunnen. I juni bestod 
+vannsøylen av et vannlag fra overflaten og ned til 22m, og ett dypere vannlag fra ca. 22m og ned til 
+bunnen. 
+ 
+Oksygenmetningen var høy (> 90%) i hele vannsøylen både i april og juni. I april var 
+oksygenmetningen nokså lik i de øvre 12 – 13m, deretter avtok oksygenmetningen ned til ca. 40m, 
+hvorpå den var nokså lik videre ned til bunnen. I juni økte oksygenmetningen fra overflaten og ned 
+til ca. 12m, før oksygenmetningen avtok videre ned til bunnen. Høye verdier i oksygenmetning i de 
+øvre 12 – 13m kan forårsakes av algeoppblomstring, som forekommer om våren og sommeren. 
+Algeoppblomstring produserer oksygen ved hjelp av fotosyntese på dybdelag i vannsøylen med sollys 
+(10m – 100m). Oksygeninnholdet viser lignende mønster som oksygenmetningen.  
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 49 av 94 
+6. Vedlegg – Bakgrunnsinformasjon 
+ 
+6.1 
+Valg av sted, dyp og periode for strømmålinger 
+ 
+Valg av målested 
+ 
+Plassering av riggen i forhold til det dypet strømmen skal måles på har stor betydning for målingene. 
+Et av kravene i NS 9415:2009 er at målerne skal plasseres i den posisjonen som sannsynligvis oppgir 
+høyeste strømhastighet på lokaliteten.  
+ 
+• Anleggets geografiske plassering og topografiske utforming av nærområdet må vurderes.  
+Strømmen påvirkes av bukter, viker og elveløp, møtepunkter for fjordsystemer, osv. Dette 
+kan føre til at strømmen skifter retning e.l.  
+• Anlegget bør plasseres der vannet får kortest mulig oppholdstid i merdene før nytt vann 
+kommer inn, og slik at vanntransporten på tvers av anlegget maksimeres. Dette er spesielt 
+viktig i den varme årstiden med høy temperatur i vannet, mye fisk og intensiv fôring, og drift 
+av anlegget.    
+• Bunntopografien under anlegget og i området bør vurderes, da ujevnheter kan påvirke 
+strømmens styrke og retning.  
+ 
+Plasseringen som sannsynligvis oppgir høyeste strømhastighet på en lokalitet er ofte rett utenfor 
+anlegget, lengst unna land. Strømmåling på 5m og 15m dyp som foretas her gir grunnlag for å 
+estimere den sterkeste strømmen anlegget kan bli utsatt for med tanke på dimensjonering.  
+ 
+For strømmåling på sprednings- og bunndyp er foretrukket plassering i anleggets senter, som gir 
+grunnlag for å estimere den representative strømstyrken i anlegget med tanke på spredning av 
+partikler. 
+ 
+Valg av måledyp 
+ 
+Overflatestrømmen måles på 5m dyp. Det tas ikke på 1m på grunn av støy fra bølger. 
+Vannutskiftningsstrøm måles på 15m dyp. 
+Sprednings- og bunnstrøm 
+• Spredningsstrøm måles midt mellom merdbunn og sjøbunn, men ikke dypere enn 50m fra 
+merdbunn. 
+• Bunnstrøm måles ca. 2m over bunn, men ikke dypere enn 100m fra merdbunn. 
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hvert 14.77 døgn, som er 
+tidevannssyklus for spring / nipp, er anbefalt minimum måleperiode 30 dager.  
+ 
+Målingene på 5m og 15m dyp ble gjort i samsvar med NS 9415:2009, der kravet er at målingene skal 
+gjennomføres sammenhengende i minst en måned.  
+ 
+Målingene på sprednings- og bunndyp ble gjort i samsvar med retningslinje for etableringssøknader 
+fra Mattilsynet (Mattilsynet, 2016), der det er anbefalt at målingene skal gjennomføres 
+sammenhengende i minst 4 uker.  
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 50 av 94 
+6.2 
+Spesifikasjoner for strøminstrumenter 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.2.1. Målerne registrerer strømhastighet, 
+strømretning og temperatur.   
+ 
+Tabell 6.2.1. Spesifikasjoner per strøminstrument. 
+Måledyp 
+5m 
+15m 
+Spredning (44m) 
+Bunn (79m) 
+Leverandør 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Instrumenttype, 
+modell 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+ID-nr. 
+5450 
+5449 
+5451 
+5149 
+Cellestørrelse 
+- 
+- 
+- 
+- 
+Kalibrering 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Strømhastighetens 
+nøyaktighet 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+Strømhastighetens 
+rekkevidde / 
+terskelverdi 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+Strømretningens 
+nøyaktighet 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+Kompassorientering 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Kompass justert for 
+misvisning 
+Nei 
+Nei 
+Nei 
+Nei 
+Temperaturens 
+nøyaktighet og 
+rekkevidde 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 51 av 94 
+6.3 
+Måleprinsipp for strømmålinger 
+ 
+Aanderaa punktmåler  
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Det sendes ut en kort lydpuls (akustisk puls) 
+med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de innkommende 
+refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende refleksjon er 
+proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet (vanligvis 
+zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at de derfor 
+beveger seg med samme hastighet som vannet. En punktmåler er satt opp for å måle strøm med én 
+datalogging i et intervall på 10 minutter, basert på 150 ping. 
+ 
+Tabell 6.3.1. Måleprinsipp for en Aanderaa punktmåler på bunndyp (79m). 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer samplingsperioder på 10 minutter. I løpet av denne perioden sender 
+instrumentet ut 150 ping. Ett datapunkt gir gjennomsnittet over en 10-minuttersperiode. 
+ 
+Tabell 6.3.2. Måleprinsipp for en Aanderaa punktmåler på 5m, 15m og spredningsdyp (44m). 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instrumentene på 5m, 15m og spredningsdyp (44m) målte i «burst modus», som betyr at for hver 10-
+minuttersperiode så måler instrumentet i 1 minutt og hviler deretter i 9 minutter (vist i tabell 6.3.2 
+med gule og grønne felt). Ett datapunkt gir gjennomsnittet over målingsperioden i løpet av 10 
+minutter. 
+ 
+6.4 
+CTD-målinger 
+ 
+Hydrografimålinger ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden, med 
+et påmontert lodd, ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden gjør 
+én registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen ved senkning og en 
+ved heving. Profil ved senkning av sonden ble benyttet.  
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 52 av 94 
+7. Vedlegg – Riggoppsett 
+ 
+7.1 
+Riggoppsett 
+ 
+Riggoppsett for målt strøm er beskrevet i Tabell 7.1.1 – Tabell 7.1.2 og skissert i Figur 7.1.1 – Figur 
+7.1.2.  
+ 
+Instrumentet på spredningsdyp (44m) har stått grunnere enn planlagt ut ifra riggskjemaet. Måledypet 
+er vurdert til å fortsatt være representativt for spredningsdyp.  
+ 
+Tabell 7.1.1. Beskrivelse av riggoppsett for strømmålinger på 5m og 15m. 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A2-blåse 
+Blåse 
+1stk 
+ 
+35kg oppdrift 
+Trålkule 11" 
+Kule 
+3stk 
+ 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+5.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+5.0m 
+ 
+Danline 14mm 
+Tau 
+10.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+15.0m 
+ 
+Pærelodd 
+Lodd 
+2stk 
+16.0m 
+5kg 
+Danline 14mm 
+Tau 
+54.0m 
+ 
+ 
+Danline 20mmmm 
+Tau 
+1.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+2stk 
+66.0m 
+40kg 
+ 
+Tabell 7.1.2. Beskrivelse av riggoppsett for strømmålinger på spredningsdyp (44m) og bunndyp 
+(79m). 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A2-blåse 
+Blåse 
+1stk 
+ 
+35kg oppdrift 
+Trålkule 11" 
+Kule 
+3stk 
+ 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+10.0m 
+ 
+ 
+Jernstein 
+Lodd 
+1stk 
+10.0m 
+2kg 
+Danline 14mm 
+Tau 
+47.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+2stk 
+57.0m 
+7.5kg oppdrift 
+Punktmåler 
+Måler 
+1stk 
+57.0m 
+ 
+Danline 14mm 
+Tau 
+23.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+1stk 
+80.0m 
+7.5kg oppdrift 
+Punktmåler 
+Måler 
+1stk 
+80.0m 
+ 
+Danline 22mm 
+Tau 
+2.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+2stk 
+82.0m 
+40kg 
+ 
+ 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 53 av 94 
+ 
+Figur 7.1.1. Riggoppsett for strømmålinger på 5m og 15m. 
+Strømrapport: Snyen, Meløy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 54 av 94 
+ 
+Figur 7.1.2. Riggoppsett for strømmålinger på spredningsdyp (44m) og bunndyp (79m).

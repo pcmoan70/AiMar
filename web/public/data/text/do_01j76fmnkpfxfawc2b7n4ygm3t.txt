@@ -1,0 +1,744 @@
+﻿UTVIDA VURDERING, PLOMMEVIKANE. 
+RAPPORT 
+side 1 av 34 
+ 
+ 
+ 
+Nordlaks Smolt AS 
+SKREDFAREVURDERING; DETALJREGULERING 
+FOR OPPDRETT I NUSFJORD 
+Klikk eller trykk her for å skrive inn tekst. 
+Dato: 08.09.2020 
+Versjon: 01 
+www.asplanviak.no 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 2 av 34 
+Dokumentinformasjon 
+ 
+Oppdragsgjevar: 
+Nordlaks Smolt AS 
+Tittel på rapport: 
+Skredfarevurdering; Detaljregulering for oppdrett i Nusfjord  
+Oppdragsnamn:  
+Detaljregulering for oppdrett i Nusfjord 
+Oppdragsnummer:  
+626576-01 
+Skriven av:  
+Vegard Nes 
+Oppdragsleiar: 
+Dagmar Kristiansen 
+Tilgang:  
+Åpen 
+ 
+Kort samandrag 
+ 
+Detaljreguleringsplanen har som føremål å regulere eit område for næringsverksemd ved Nusfjord i 
+Flakstad kommune. 
+Planområdet ligg innafor aktsemdssoner for skred i atlas.nve.no. Oppdragsgjevar treng difor ei 
+detaljert vurdering av faren for skred i forhold til krava gjeve i TEK17, sikkerheit mot skred. 
+Reguleringsplanen omfattar planområde for byggverk som må vurderast opp mot krava i 
+sikkerheitsklasse S2, der årleg sannsyn for skred eller sekundæreffektar av skred ikkje skal overskrida 
+1/1000. 
+Vurderinga er utført for alle typar skred på bakgrunn av: 
+- 
+Synfaring 
+- 
+Terrenganalyse 
+- 
+Ortofoto 
+- 
+Klimaanalyse 
+- 
+Erfaring 
+- 
+Modellering 
+ 
+Delar av planområdet er vurdert til å ikkje tilfredsstille krava til sikkerheit mot skred i bratt terreng i 
+TEK 17. Detaljreguleringa av planområdet må ta omsyn til utarbeida faresoner for skred i 
+planarbeidet. Det er mogleg å auke utnyttinga av planarealet ved dimensjonering av sikringstiltak i 
+prosjekteringsfasen.  
+Det er naturleg terreng som er vurdert slik det ser ut i dag. Framtidige terrenginngrep med skjeringar 
+og fyllingar i planområda er ikkje vurdert. Oppfølging av dette må skje i detaljplan/byggefasen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01 
+08.09.20 
+Nytt dokument 
+VN 
+SN 
+VERSJON 
+DATO 
+SKRILDRING 
+SKRIVEN AV 
+KS 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 3 av 34 
+Føreord 
+ 
+Asplan Viak har vore engasjert for å utføre ein skredfarevurdering for detaljregulering av eit 
+oppdrettsanlegg i Nusfjord, Flakstad kommune. Nordlaks Smolt AS er oppdragsgjevar og vil regulera 
+for næringsverksemd og utviding av anlegget.  
+ 
+Leikanger, 08.09.2020 
+ 
+ 
+ 
+                                                                          
+ 
+Vegard Nes 
+Steinar Nes 
+Skriven av 
+Kvalitetssikrar 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 4 av 34 
+Innhald 
+ 
+1. 
+INNLEIING .................................................................................................................. 5 
+1.1. 
+Kartgrunnlag og terrrengmodell ..........................................................................................5 
+1.2. 
+Atterhald og avgrensingar ...................................................................................................5 
+2. 
+KRAV TIL TRYGGLEIK MOT SKRED FOR NYBYGG OG TILHØYRANDE UTEAREAL............. 6 
+3. 
+OMRÅDESKILDRING OG OBSERVASJONAR I FELT ........................................................ 7 
+3.1. 
+Topografi og drenering ........................................................................................................7 
+3.2. 
+Berggrunn og lausmassedekke ............................................................................................9 
+3.3. 
+Vegetasjon ...........................................................................................................................9 
+3.4. 
+Observasjonar ................................................................................................................... 11 
+3.5. 
+Klima ................................................................................................................................. 16 
+3.5.1. Normalar ........................................................................................................................... 16 
+3.5.2. Vind ................................................................................................................................... 16 
+3.5.3. Ekstremverdiar .................................................................................................................. 17 
+3.6. 
+Tidlegare skredhendingar ................................................................................................. 18 
+3.7. 
+Tidlegare kartleggingar ..................................................................................................... 18 
+4. 
+VURDERING AV SKREDFARE ...................................................................................... 19 
+4.1. 
+Skred i fast fjell .................................................................................................................. 19 
+4.2. 
+Snøskred ........................................................................................................................... 22 
+4.2.1. RAMMS-modellering......................................................................................................... 23 
+4.2.2. Oppsummering vurdering av snøskred ............................................................................. 27 
+4.3. 
+Sørpeskred ........................................................................................................................ 27 
+4.4. 
+Lausmasseskred ................................................................................................................ 28 
+5. 
+FARESONEKART OG FORSLAG TIL SIKRINGSTILTAK ..................................................... 30 
+5.1. 
+Forslag til sikringstiltak ..................................................................................................... 32 
+6. 
+KONKLUSJON ............................................................................................................ 33 
+7. 
+KJELDER .................................................................................................................... 34 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 5 av 34 
+1. INNLEIING 
+Asplan Viak AS har fått i oppdrag å detaljregulere eit område ved Nusfjord, Flakstad kommune, til 
+næringsverksemd. 
+Planområdet omfattar bygningar med tilhøyrande uteområde og kaianlegg. Røyrgate mellom 
+oppdrettsanlegg og kaianlegg er også ein del av planområdet.  
+ 
+Figur 1 Avgrensing av planområdet er vist med svart strek. 
+ 
+Vurderingar av fare for skred ihht. TEK17 er gjort for tryggleiksklasse S1 og S2 for heile planområdet, 
+der årleg sannsyn for skred eller sekundæreffektar av skred ikkje skal overskrida hhv. 1/100 og 
+1/1000. 
+1.1. Kartgrunnlag og terrengmodell 
+Kartgrunnlaget er laserdata med 2 punkt per kvadratmeter frå 2017 (NDH Lofoten 2pkt 2017) som er 
+lasta ned frå hoydedata.no. Terrengdata er studert i ArcGIS Pro, og det er laga terrengmodell og 
+skyggerelieffkart. Det er i tillegg brukt topografiske kart og flyfoto over området. 
+1.2. Atterhald og avgrensingar 
+Vurderingane er basert på naturleg terreng og vegetasjon som blei observert på synfaringa og 
+kartgrunnlag. Ved store endringar i terreng eller vegetasjon skal vurderingane utførast på nytt. 
+Det er lagt vekt på historiske hendingar i vurderingane. Dersom det kjem fram nye opplysingar om 
+tidlegare skredhendingar bør vurderingane reviderast. 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 6 av 34 
+2. KRAV TIL TRYGGLEIK MOT SKRED FOR NYBYGG OG 
+TILHØYRANDE UTEAREAL 
+Plan- og bygningslova § 28-1 stiller krav om tilstrekkeleg tryggleik mot naturfare for nybygg og 
+tilbygg: 
+Grunn kan bare bebygges, eller eiendom opprettes eller endres, dersom det er tilstrekkelig 
+sikkerhet mot fare eller vesentlig ulempe som følge av natur- eller miljøforhold. Det samme gjelder 
+for grunn som utsettes for fare eller vesentlig ulempe som følge av tiltak. 
+Byggteknisk forskrift TEK17 § 7-3 definerer krav til tryggleik mot skred for nybygg og tilhøyrande 
+uteareal (Tabell 1). I rettleiaren til TEK17 gis retningsgivande eksempel på byggverk som kjem inn 
+under dei ulike tryggleiksklassane for skred.  
+Tabell 1. Tryggleiksklassar ved plassering av byggverk i skredfareområde. 
+Tryggleiksklasse for skred Konsekvens Største nominelle årlege sannsyn 
+S1  
+liten  
+1/100  
+S2  
+middels  
+1/1000  
+S3  
+stor  
+1/5000  
+ 
+Føremåla som må vurderast i høve TEK 17 i planen er: 
+- 
+Bygningar (S2) 
+- 
+Kaianlegg (S2) 
+- 
+Røyrgate (S1) 
+- 
+Uteareal (S1) 
+Heile reguleringsplanområdet blir i denne rapporten vurdert i tryggleiksklasse S1 og S2, og eventuelle 
+faresoner er vist i faresonekart. 
+Vurderingar og rapport har blitt utført etter gjeldande retningslinjer og standardar gitt av NVE (2014). 
+I TEK17 er det spesifisert at samla sannsyn for alle skredtypar skal leggast til grunn for vurderinga av 
+årleg sannsyn. Følgande skredtypar har blitt vurdert: 
+- 
+Skred i fast fjell 
+- 
+Skred i lausmassar 
+- 
+Snøskred, inkludert sørpeskred 
+Den endelege vurderinga av skredfare er samla nominelt årleg sannsyn for skred, som kan 
+samanliknast direkte med krava i Tabell 1. 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 7 av 34 
+3. OMRÅDESKILDRING OG OBSERVASJONAR I FELT 
+3.1. Topografi og drenering 
+Planområdet strekker seg frå havnivå i sør og opp til Storvatnet i nord som ligg på 23 moh. På 
+austsida av planområdet stig fjellsida bratt opp til ca. 300 moh, medan terrenget på vestsida av 
+planområdet er meir kupert, med enkelte brattskrentar og vegskjeringar tett på planområdet. 
+Terrenghellinga i søraustre fjellside stig med over 30 grader opptil ca. 100 moh., der det vidare er 
+nær vertikalt. I nordaustre fjellside stig terrenghellinga jevnare mot toppen, med helling mellom 30- 
+og 50 grader. 
+ 
+Figur 2 Terrenghellingskart for planområdet og omkringliggande terreng/fjellside. 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 8 av 34 
+Det er fleire dreneringskanalar i den nordaustlege fjellsida som renn ned mot planområdet. 
+Dreneringskanalane har tydelege teikn på erosjon, og transporterte massar ligg i botnen av 
+fjellsidene. Lengre sør i fjellsida er det ikkje observert dreneringskanalar, og heller ikkje frå vestsida 
+av planområdet er det observert dreneringskanalar med eroderande kraft. 
+ 
+Figur 3: Skyggerelieffkart som viser planområdet, i tillegg til drenering i fjellsida og i planområdet (blå strekar). 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 9 av 34 
+3.2. Berggrunn og lausmassedekke 
+Bergarten i planområdet og i fjellsida aust for planområdet er anortositt som er ein del av Lofoten-
+Vesterålskomplekset. Vest for planområdet er hovudbergarten Gabbro. 
+Det er hovudsakleg bart fjell i fjellsida, med skredavsetningar frå kring 100 moh. og ned til dalbotnen 
+(Figur 4). Området vest for planområdet består hovudsakleg av tynn morene. Ved det regulerte 
+kaiområdet sør i planområdet er det ikkje teikn til marine avsetningar. Berget stuper bratt ned i 
+sjøen.   
+ 
+Figur 4 Lausmassekart (ngu.no) 
+ 
+3.3. Vegetasjon 
+Det er noko vegetasjon beståande av gran/furu i nordre del av planområdet, elles er ikkje 
+planområdet vegetert. Fjellsidene er delvis vegetert av lauvtre opp til ca. 100 moh. Rundt 
+erosjonskanalane er det ingen vegetasjon, eller tydeleg yngre skog enn i resten av fjellsida, elles er 
+det ingen spor etter skredhendingar i vegetasjonen. 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 10 av 34 
+ 
+Figur 5 Oversikt over vegetasjonstilhøve i og rundt planområdet.  
+ 
+ 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 11 av 34 
+3.4. Observasjonar  
+ 
+ 
+Figur 6: Synfaringskart som viser planområde og GPS-punkt skildra i Tabell 2. 
+ 
+Tabell 2: Beskrivelse og foto av GPS-punkt vist i Figur 6. 
+GPS-
+punkt 
+Beskrivelse 
+Foto 
+45 
+Kaianlegg ikkje utsatt for skred. 
+Skjering over veg er god, og evt. 
+nedfall vil ikkje krysse vegen. Berg 
+ved kaianlegg går bratt ned. Ikkje 
+truleg at det er 
+kvikkleireproblematikk ved utfylling. 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 12 av 34 
+46 
+Steinsprangblokker har ikkje nådd 
+over sundet. Største blokker har nådd 
+midt uti sundet. 
+ 
+47 
+Ingen erosjonskanalar frå vest som 
+kan grave i røyrgata. Heller ingen 
+skjeringar langs veg som kan gi utfall 
+av stein direkte på leidning. Stein vil 
+då ikkje ha nok eroderande kraft. 
+ 
+48 
+Røyrgata er plastra mot vatnet. Dette 
+står godt mot eroderande massar frå 
+motsatt side. 
+ 
+49 
+Steinsprangblokker nærast røyrgata i 
+dette punktet. Det vurderast likevel 
+at sannsynet for nedfall av 
+steinblokker på denne storleiken på 
+røyrgata er mindre enn 1/100. 
+ 
+50 
+Massivt berg i bergskrent bak bygg. 
+Mogleg ei blokk som kan løysne. 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 13 av 34 
+51 
+Mogleg laus blokk i bergskrent bak 
+bygning. 
+ 
+52 
+Steinsprangblokker ligg heilt inntil 
+bygningsmasse. Tyder på at 
+bygningen står innanfor faresona for 
+steinsprang for sikkerheitsklasse S2. 
+ 
+53 
+Blokker bak bygg (venstre bilde) er 
+truleg lagt opp som voll. Høgre bilde 
+viser ferskare steinsprang, som viser 
+at det er fare for steinsprang mot 
+bygning. 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 14 av 34 
+54 
+Lagt opp ein slags fangvoll her. Bak 
+vollen er det fylt med blokker og 
+mindre erosjonsstraumar 
+ 
+55 
+Bak oppdrettsanlegget er ingen teikn 
+til nedfall av blokker 
+ 
+57 
+Yttergrense erosjonsavsetningar 
+ 
+58 
+Yttergrense nyleg 
+flaumskredavsetning (grus) 
+ 
+59 
+Fersk blokk 1kubikk i enden av 
+massestraum ned frå løysneområde 3 
+ 
+ 
+60 
+Utløysingsområde for snøskred og 
+lausmasseskred. Løysneområde 2 og 
+3 til høgre i skålformasjonen, medan 
+løysneområde 4 ligg under 
+brattskrenten til venstre i bildet. 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 15 av 34 
+61 
+Utløp ferskast massestraum, og 
+tydeleg lobe med lausmassar strekk 
+seg ut til vegen, vist i punkt 62 
+ 
+62 
+lobe av lausmassar heilt til vegen 
+ 
+64 
+rygg som vil splitte, og ta ned 
+energien i eit potensielt snøskred 
+ 
+65 
+Naturleg voll langs vestsida av vegen 
+ca. 3m høg. Plassering mellom punkt 
+65 og 66. 
+ 
+66 
+Naturleg voll endar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 16 av 34 
+3.5. 
+Klima  
+Nedbørsdata er henta frå NVE sitt «Grid Time Series» API. Datasettet er SeNorge2 (C. Lussana, 2018), 
+som er basert på observert og interpolerte data frå 1958 fram til 2020. Vindroser er basert på data 
+frå mars 2018 – mars 2020. Interpolerte data er justert for høgde.  
+Posisjon for data er NORD 7549471.21 og ØST 431732.78. Høgde for klimapunktet er 246 moh. 
+ 
+Figur 7 Interpolerte klimadata frå  fjellsida over planområdet.  
+3.5.1. Normalar 
+Området har eit mildt og vått klima, årsmiddelnedbør på 1584 mm.  Det er registrert døgnnedbør 
+opp til 91,3 mm. Det er mest nedbør i haust og vintermånadane, med oktober og desember som dei 
+mest nedbørsrike månadane. Maksimal snødjupne er modellert til 135 cm tilbake i 1981, men 
+gjennomsnittleg er det registrert maksimalt 49 cm årleg snødjupn.  
+3.5.2. 
+Vind 
+Figur 8 viser dominerande vindretningar, saman med vindretningar for generell nedbør, og 
+vindretning ved snø. Det er flest dagar med vind frå sørvest. Den mest intense nedbøren kjem også 
+frå sørvest i tillegg til sør, medan vindretninga med nedbør som snø hovudsakleg kjem frå nordvest. 
+Sjeldne, men opp mot ekstreme nedbørshendingar som snø har komme frå sør. Dette betyr at 
+leområde for snø hovudsakleg er i søraustvendte og nordvendte hellingar. 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 17 av 34 
+ 
+Figur 8: Dominerande vindretning i første figur, vidare vindretning der det er temperatur under 1 grad, som gir 
+sannsynleg vindretning ved snø. Siste figur viser vindretning med nedbør. 
+ 
+3.5.3. Ekstremverdiar 
+Utrekning av ekstremverdiar er utført etter metode vist i NIFS rapport 2014/22 «Hvordan beregne 
+ekstremverdier for gitte gjentaksintervaller?». Det er vist ekstremverdiar for 3 døgns nysnø.  
+For 1000 års gjentaksintervall er det betydelege verdiar for nysnø. 3 døgn nysnøverdi på 93 cm viser 
+at snøskred har eit potensiale i området.  
+Tabell 3: Returverdiar 
+Returverdi  
+100 år  
+1000 år   
+5000 år  
+3 døgn nysnø  
+68 cm  
+93 cm  
+112 cm  
+  
+ 
+Figur 9: Plot av returverdiar for 3-døgns snømengde. 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 18 av 34 
+3.6. Tidlegare skredhendingar 
+Det er registrert skredhendingar inn i planområda i atlas.nve.no. Hendingane er registrert som 
+snøskred, og vart utløyst hhv. 24.02.2010 og 06.03.2000. Det er ikkje registrert detaljar om 
+utløpslengd eller eventuelle skadar årsaka av hendinga. 
+ 
+Figur 10: Kart over tidlegare skredhendingar registrert i atlas.nve.no. 
+3.7. Tidlegare kartleggingar 
+Det er ikkje kjent at det er utført tidlegare kartleggingar av området anna enn dei automatiserte 
+utarbeidingane av aktsemdssoner utført av NVE og NGI. 
+ 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 19 av 34 
+4. VURDERING AV SKREDFARE 
+Vurdering av skredfare er utført på bakgrunn av synfaringa, terrenganalyse, klimaanalyse og 
+modelleringar. I tillegg er tidlegare skredhendingar brukt for å underbygge argumenta i 
+vurderingane. 
+4.1. Skred i fast fjell 
+Store delar av planområdet ligg innafor aktsemdsområdet for steinsprang (Figur 11).  
+ 
+Figur 11 Aktsemdskart for steinsprang (atlas.nve.no). 
+ 
+Løysneområde for steinsprang pregar store delar av den austre fjellsida, i tillegg til skjeringar langs 
+veg og brattskrentar vest for oppdrettsanlegget. Under synfaring vart det ikkje observert utløp av 
+steinsprangblokker inn i planområdet frå den austlege fjellsida, anna enn heilt sør i nærleiken av 
+kaianlegget. Ved GPS-punkt 46 vist i Tabell 2 ligg største steinsprangblokker midt i sundet mellom 
+den austre fjellsida og kaiområdet. Her er det teikna faresone med sannsyn for nedfall kvart 1000 år 
+omkring midt i sundet. Også bergskjeringa langs vegen (GPS-punkt 45 i Tabell 2) forbi kaiområdet er 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 20 av 34 
+vurdert. Skjeringa er stabil, og det er ikkje registrert nedfall frå skjeringa etter at vegen vart bygd. Det 
+er difor lagt faresoner for S1 langs grøfta under skjeringa, og faresone S2 omtrent midt på vegbana. 
+ 
+Figur 12: Faresoner med steinsprang som dimensjonerande skredtype i søre del av planområdet. 
+  
+Langs røyrgata frå kaiområdet til oppdrettsanlegget er det fleire punkt der steinsprang har 
+utløpslengder nært inntil planområdet. Dette er vist i GPS-punkt 47 og 49 i Tabell 2. Plangrensa ligg 
+her midt i vegbana, og det er vurdert at nedfall frå skjering ikkje vil nå lengre enn midt i vegen. På 
+grunnlag av observerte steinsprangblokker frå den austre fjellsida er det her vurdert at sannsynet for 
+steinsprang inn i planområdet er mindre enn 1/1000 på denne strekninga. 
+I den nordlege delen av planområdet er det observert fleire relativt ferske steinsprangblokker tett 
+inn mot bygningsmasse, ved GPS-punkt 50-54 vist i Tabell 2. Det ligg urmassar inn mot bygningen ved 
+GPS-punkt 52, men ingen ferske blokker har blitt observert her. Det er på grunnlag av observasjonar 
+lagt ei faresone med sannsyn 1/1000 som går heilt ned til bygninga, medan faresona 1/100 er trekt 
+lengre opp mot skrenten (Figur 13). Ved brattskrenten bak oppdrettstankane er skrenten lågare, og 
+berget er lite oppsprukke(GPS-punkt 54 i Tabell 2). På grunnlag av lite nedfall, og brå overgang i 
+terrenghelling frå brattkant til flatt terreng er faresonene trekt nærmare bergskrenten (Figur 13).  
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 21 av 34 
+ 
+Figur 13: Faresoner med steinsprang som dimensjonerande skredtype i nordre del av planområdet. 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 22 av 34 
+4.2. Snøskred 
+Potensielt er alt terreng brattare enn 27° moglege utløysingsområde for snøskred. I veldig bratt 
+terreng, terreng brattare enn 55°, vil snø som oftast skli ut i mindre deler under eller like etter 
+snøfall, og større akkumulasjon av snømengder forventast ikkje. I terreng mellom 27-55° vil det 
+kunne bli akkumulasjon av større mengder med snø og flakskred kan bli utløyst. 
+Aktsemdsområdet for snø- og steinskred publisert av NGI dekkjer nesten heile planområdet. Store 
+delar av fjellsida har gunstig helling for utløysing av snøskred, mellom 27-55° (Figur 14), og klimadata 
+tilseier at det er snø i fjellsida vinterstid (kap. 3.5). 
+Fjellsida er kledd med tynn vegetasjon av typen lauvskog. Dreneringskanalar er ikkje skogkledde, og 
+tyder på gjentakande eroderande massestraumar, anten som flaumskred eller snøskred. Tidlegare 
+snøskredhendingar, både i 2000 og i 2010 viser at snøskred er ein gjentakande skredaktivitet i 
+området (Figur 10).  
+I den sørlege delen av fjellsida er det ikkje større oppsamlingsområder for snø, og øvre del av fjellsida 
+er for bratt til at det legg seg snø. I nordleg del av fjellsida er det opptil fleire oppsamlingsområder for 
+snø med gunstig terrenghelling, ofte i tilknyting til dreneringskanalar eller skredbaner med 
+gjentakande eroderande massestraumar (Figur 14). 
+Skredbanene frå løysneområde 3 og 5 har begge jamn helling mot planområdet. Her er truleg 
+potensiale for lengste utløpslengder. Det er noko grovare vegetasjon inn i planområdet langs 
+skredbanene som kan dempe energien og utløpslengda noko. Skredbanene til løysneområde 3 og 4 
+har fleire terrenghindringar som kan bremse skredet. Ein naturleg voll og ein ryggformasjon som 
+dempar energien i skredet er observert i hhv. GPS-punkt 65 og 64 i Tabell 2. 
+ 
+Figur 14: Kart som viser løysneområde brukt i modellering av snøskred med RAMMS avalanche. Skredbaner er 
+tydelege på skyggerelieffkartet i bakgrunnen, medan terrenghellinga der det potensielt kan utløysast snøskred 
+er vist med farge.  
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 23 av 34 
+4.2.1. RAMMS-modellering 
+Som eit supplement til vurderinga er det simulert potensielle snøskred mot planområdet ved hjelp av 
+RAMMS Avalanche. Målet med modelleringa er å simulere skredbana til snøskredet, og finne ut om 
+skredmassane har potensiale for å nå planområdet med øydeleggjande kraft. 
+Modellane er sett opp på grunnlag av klima og terrengutforming. Snøskred er modellert med 
+friksjonsparameter som tilsvarar norske forhold med maritimt klima, der ekstremnedbør kan komme 
+som tørrsnø i heile skredløpet. Brothøgd er kalkulert ut frå ekstremverdiar for 3-døgns nysnø, justert 
+for skråningsvinkel. Bratt terrenghelling i løysneområdet vil redusere brothøgda. I tillegg er det 
+vurdert vindtransport av snø frå vest og sør inn i dei aktuelle løysneområda. Skogen sin påverknad på 
+skredet er ikkje tatt omsyn til i modelleringane. 
+RAMMS resultat viser at enkelte simuleringar har utløpslengder som går inn i planområdet.  
+Frå løysneområde 3 (Figur 15) er det simulert ei brothøgd på 1 meter for eit 1000-års scenario. Det 
+viser at skredmassar vil nå heilt inn i oppdrettsanlegget med eit trykk på opptil 10 kPa. Dette trykket 
+er nok til å gjere skade på trehus. Det er også simulert med ei brothøgd på 0,7 m, lik ekstremverdiane 
+for eit 100-års scenario (Figur 16). Forskjellen i brothøgd utgjer liten forskjell i utløpslengd, men 
+hindrar at oppdrettsanlegget blir råka.  
+Simuleringa er også utført for ein situasjon der løysneområde 3 og løysneområde 2 blir utløyst 
+samtidig (Figur 17). Løysneområde 3 er utløyst med 1 m brothøgde, medan løysneområde 2 er 
+utløyst med 0,5 m brothøgd grunna antatt mindre pålagring av vindtransportert snø. Simuleringa 
+viser at samtidig utløysing av L3 og L2 ikkje påverkar utløpslengda til skredet, då hovuddelen av 
+massane frå L2 tek eit nytt skredløp. 
+Frå løysneområde 4 (Figur 18) er det simulert ei brothøgd på 0,5 m for eit 1000-års scenario grunna 
+lite pålagring av snø og bratt helling (>40⁰) på løysneområdet. Simuleringa viser at skredmassane 
+kryssar så vidt vegen og plangrensa, men stoppar i den ca. 3 meter høge grøftekanten på vestsida av 
+vegen. 
+Løysneområde 5 har eit stort areal, men grunna hellinga på terrenget og lite pålagring av snø frå vest 
+og sør er simuleringa utført med ei brothøgd på 0,5 m. Skredmassane vil her dekke heile den 
+nordlegaste delen av planområdet heilt bort til Åltjønna. 
+Løysneområde 6 består av ein flanke i fjellet orientert mot sør. Det er registrert tidlegare 
+snøskredhendingar frå denne skredbana, men sjølve løysneområdet er ikkje stort. Potensielt 
+skredutløp er simulert med brothøgd på 0,5 m grunna orienteringa av L6 og utforminga på flanken. 
+Største utløpslengd frå simuleringa rekk ikkje inn i planområdet. 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 24 av 34 
+ 
+Figur 15: Simulering frå løysneområde 3. Brothøgde 1 m. Skredmassar kryssar vegen og går heilt inn i 
+oppdrettsanlegget med trykk på 3-10 kPa. 
+ 
+Figur 16: Simulering frå løysneområde 3. Brothøgde 0,7 m. Simuleringa viser at redusert brothøgde til 100-års 
+ekstremnedbør ikkje gir stor forskjell i utløpslengd. 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 25 av 34 
+ 
+Figur 17: Simulering frå løysneområde 3 og løysneområde 2. Brothøgder på 1m og 0,5m. Simuleringa viser at 
+samtidig utløysing av begge løysneområder ikkje påverkar lengste utløpslengd. 
+ 
+Figur 18: Simulering frå løsneområde 4. Brothøgde 0,5 m. Skredmassane kryssar så vidt vegen og plangrensa, 
+men stoppar i den ca. 3 meter høge grøftekanten på vestsida av vegen. 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 26 av 34 
+ 
+Figur 19: Simulering frå løysneområde 5. Brothøgde 0,5 m. Skredmassar når inn i planområdet.  
+ 
+ 
+Figur 20: Simulering frå løysneområde 6. Brothøgde 0,5 m. Skredmassar når ikkje planområdet. 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 27 av 34 
+ 
+Figur 21: Oversikt over simuleringar utført langs skredbaner i den nordlege delen av planområdet. 
+4.2.2. Oppsummering vurdering av snøskred 
+På grunnlag av klima, kartanalyse, observasjonar og resultat frå modelleringa er det vurdert at 
+snøskred kan nå planområdet med øydeleggjande kraft. Det er snøskred frå løysneområde 2,3,4 og 5 
+som kan nå planområdet med sannsyn større enn 1/1000, og for løysneområde 3 og 5 er sannsynet 
+for snøskred mot planområdet større enn 1/100. 
+Faresoner for snøskred er vurdert på grunnlag av observasjonar og modelleringar, og er vist i Figur 23 
+og Figur 24.   
+ 
+4.3. Sørpeskred 
+Sørpeskred blir som oftast utløyst i slake terrenghellingar der vatnet ikkje blir drenert ut av 
+snødekket, eller viss elv/bekkeløp blir tetta av snøskredmassar. Det er for bratt i fjellsida for at 
+snødekket skal bli tilstrekkeleg vassmetta. Ved intens nedbør på snødekket tilfører det meir vatn til ei 
+evt. utløysing av flaumskred, men er teknisk sett det og ikkje eit sørpeskred.  
+På grunnlag av dette vurderer vi at sannsynet er mindre enn 1/1000 for sørpeskred inn i 
+planområdet. 
+ 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 28 av 34 
+4.4. Lausmasseskred 
+NVE sitt aktsemdskart for jord- og flaumskred viser fem ulike skredbaner med teoretisk utløp inn i 
+planområdet (Figur 22). 
+ 
+Figur 22 Ortofoto med NVE sitt aktsemdskart for jord- og flaumskred (atlas.nve.no). 
+ 
+Den mest sannsynlege typen lausmasseskred er flaumskred kanalisert langs erosjonskanalar i 
+fjellsida. Flaumskred kan utløysast i forbindelse med intens nedbør, snøsmelting, mindre utglidingar 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 29 av 34 
+av våtsnøskred og sørpeskred langs forsenkingane som truleg blir fylt opp av større og mindre 
+steinsprang. I bekkeløpa vil skred- og vassmassar rive med seg lausmassar (stein). Grunna eit lite 
+nedbørsfelt og låg naturleg vassføring i elveleiet, vurderast det at lausmasseskred med stor utbreiing 
+kun vil utløysast ved flaumhendingar. 
+Erosjon av lausmassar er observert langs samtlige av dreneringskanalane innteikna i Figur 3. Lengste 
+observerte utløpslengder for lausmassar er vist ved GPS-punkt 57 og 62 i Tabell 2, frå hhv. 
+løysneområde 4 og løysneområde 6. Begge utløp stoppar før plangrensa. Samtlige skredbaner for 
+lausmasseskred er også vurderte skredbaner for snøskred. Snøskred er vurdert til å ha lengre utløp 
+enn lausmasseskred, og er dermed dimensjonerande skredtype.  
+Årleg sannsyn for lausmasseskred med øydeleggande kraft inn i delar av planområdet er vurdert til å 
+vere mindre enn 1/1000. 
+*Vi kan ikkje utelukke overfløyming og at bekkane tek nye løp, men det er flaumhendingar og ikkje 
+skred med øydeleggande kraft. Bekkane må likevel takast omsyn til ved detaljutforminga av området. 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 30 av 34 
+5. FARESONEKART OG FORSLAG TIL SIKRINGSTILTAK 
+Ut frå observasjonar i terrenget, kartgrunnlag, ortofoto, modellering og fagleg skjønn har vi kome 
+fram til faresoner for skred frå naturleg terreng med årleg sannsyn 1/100 og 1/1000 i planområdet 
+(Figur 23). 
+I nordre del av planområdet er både steinsprang og snøskred dimensjonerande skredtype.  
+ 
+Figur 23 Faresonekart for nordre del av planområdet. Både snøskred og steinsprang er dimensjonerande 
+skredtypar ved dei ulike faresonene. 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 31 av 34 
+I den søre delen av planområdet er steinsprang dimensjonerande skredtype for faresonene. 
+ 
+Figur 24: Faresonekart for søre del av planområdet. Dimensjonerande skredtype for faresonene er steinsprang. 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 32 av 34 
+5.1. Forslag til sikringstiltak 
+For å kunne redusere faresonene for steinsprang må ein sikre mot nedfall av blokker. 
+Sikring kan løysast med ein steinsprangvoll, f.eks bak admnistrasjonsbygget. Eventuelt 
+steinspranggjerde tettare på bergskrenten. Dette kan også gjerast i kombinasjon med bolting av 
+skrenten. 
+Ifølgje TEK17 kan bygningar dimensjonerast til å tåle krefter frå skred opptil ei maksimalt skredlast på 
+50 kPa. Det er difor mogleg å setje opp bygg innanfor faresonene der snøskred er dimensjonerande 
+skredtype, så lenge maksimal skredlast er under 50 kPa, og bygninga dimensjonerast deretter. 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 33 av 34 
+6. KONKLUSJON 
+Delar av planområdet er vurdert til å ikkje tilfredsstille krava til sikkerheit mot skred i bratt terreng i 
+TEK 17. Detaljreguleringa av planområdet må ta omsyn til utarbeida faresoner for skred i 
+planarbeidet. Det er mogleg å auke utnyttinga av planarealet ved dimensjonering av sikringstiltak i 
+prosjekteringsfasen.  
+Det er naturleg terreng som er vurdert slik det ser ut i dag. Framtidige terrenginngrep med skjeringar 
+og fyllingar i planområda er ikkje vurdert. Oppfølging av dette må skje i detaljplan/byggefasen. 
+ 
+ 
+ 
+DETALJREGULERING FOR OPPDRETT I NUSFJORD 
+RAPPORT 
+side 34 av 34 
+7. KJELDER 
+NVE (2014). Retningslinjer 2/2011, Flaum og skredfare i arealplanar. Norges vassdrags- og 
+energidirektorat, Oslo. 
+NVE (2014): Sikkerhet mot skred i bratt terreng – Kartlegging av skredfare i arealplanlegging og 
+byggesak. Veileder 8 – 2014, Oslo 
+RAMMS (v1.7.0) modul for Avalanche. User manual.  
+Cristian Lussana (2018): «SeNorge2 daily precipitation, an observational gridded dataset over Norway 
+from 1957 to the present day,». 
+NVE. 2014/22. Hvordan beregne ekstremverdier 2014. 
+ 
+Nettstader: 
+www.atlas.nve.no 
+eklima.met.no 
+geo.ngu.no/kart/bergrunn 
+geo.ngu.no/kart/losmasse 
+senorge.no 
+hoydedata.no 
+dibk.no/byggereglene/byggteknisk-forskrift-tek17

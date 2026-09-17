@@ -1,0 +1,2406 @@
+﻿FLÅTE STORØYA NØ, 1 1 2 9 8 
+Fortøyningsanalyse 
+Mortenlaks AS 
+Rapport nr.: FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 
+Dato: 19.06.2020 
+DNV GL – Rapport nr. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+Prosjekt navn: 
+Flåte Storøya NØ, 11298 
+DNV GL BUSINESS ASSURANCE 
+NORWAY AS 
+Technical Aqua Services 
+P.O.Box 7400 
+5020 Bergen 
+Norge 
+Tel: + 4 7 55 94 36 00 
+NO 959 627 606 MVA 
+Rapport tittel: 
+Fortøyningsanalyse 
+Kunde: 
+Mortenlaks AS, 
+Erikstad, 8410 LØDINGEN 
+Kunde kontakt: 
+Jostein Naustvik 
+Utstedelses dato: 
+19.06.2020 
+Pålitelighetsklasse: 2 
+Avdeling: 
+Technical Aqua Services 
+Rapport nr.: 
+FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 
+Avtale: 16.03.2020 
+Formål: Beregne lastene i fortøyningsarrangementet, slik at nødvendige kapasiteter til 
+fortøyningskomponenter kan bestemmes med nødvendig sikkerhet mot havari iht. NS 9415:2009 
+Utført av: 
+Kontrollert: 
+Ping Fu 
+Aquaculture Analyst 
+Odd-Børre Eidnes 
+Technical inspector 
+[Name] 
+[title] 
+[Name] 
+[title] 
+[Name] 
+[title] 
+[Name] 
+[title] 
+Copyright © DNV GL 20198. All rights reserved. Unless otherwise agreed in writing: (i) This publication or parts thereof may not be 
+copied, reproduced or transmitted in any form, or by any means, whether digitally or otherwise; (ii) The content of this publication 
+shall be kept confidential by the customer; (iii) No third party may rely on its contents; and (iv) DNV GL undertakes no duty of care 
+toward any third party. Reference to part of this publication which may lead to misinterpretation is prohibited. DNV GL and the Horizon 
+Graphic are trademarks of DNV GL AS. 
+DNV GL Distribution: 
+Nøkkelord: 
+ 
+Unrestricted distribution (internal and external) 
+Fortøyningsanalyse 
+Flåte 
+Samsvar 
+ 
+Unrestricted distribution within DNV GL Group 
+ 
+Unrestricted distribution within DNV GL contracting party 
+ 
+No distribution (confidential) 
+Rev. Nr. Dato 
+Utgivelse 
+Utført av 
+Kontrollert 
+1 
+19.06.2020 
+Fortøyningsanalyse flåte-samsvar 
+Ping Fu 
+Odd-Børre Eidnes 
+DNV GL – Rapport nr. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+Innhold 
+SAMMENDRAG: ............................................................................................................ 3 
+GRUNNLAG I DESIGN OG ANALYSE FOR FORTØYNINGSSYSTEM. ......................................... 4 
+2.1 
+Miljølaster som er benyttet i fortøyningsanalyse 
+4 
+2.2 
+Arrangement og analyse 
+4 
+2.3 
+Beregningsverktøy 
+4 
+2.4 
+Flåte og fortøyningsfester 
+5 
+2.5 
+Ulykkesgrensetilstand 
+7 
+2.6 
+Lastkombinasjoner 
+8 
+KOMPONENTKRAV TIL FORTØYNINGSUTSTYR ................................................................... 9 
+3.1 
+Resultater intakt- og ulykkesgrensetilstand 
+9 
+3.2 
+Kapasitetskontroll flåte 
+10 
+3.3 
+Utmatting 
+10 
+3.4 
+Kommentarer 
+11 
+AQUASIM MODELLER................................................................................................... 12 
+4.1 
+Intakt system 
+12 
+4.2 
+Ulykkesgrensetilstand 
+13 
+TIL KUNDE OG LEVERANDØR AV KOMPONENTER ............................................................. 16 
+REFERANSER ............................................................................................................. 17 
+Appendix A 
+Programvare Aquasim 
+Appendix B 
+Material - metodikk 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 3 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+SAMMENDRAG: 
+Figur 1.1 Illustrasjon av fortøyningssystem. Piler representerer retning for høyeste miljølaster. 
+Det er utført en fortøyningsanalyse av en flåte til Mortenlaks AS ved lokaliteten Storøy NØ. Flåten er 
+analysert med totalt 7 stk. fortøyningsliner. Fortøyningssystemet til flåte er uavhengig av 
+anleggsfortøyningen. Analysen er basert på input som er mottatt fra kunde og resultatene fremkommer i 
+tabell 3.1- 3.2. 
+Rapporten fra denne fortøyningsanalysen samsvarer m e d u t l a g t fortøyningssystem. 
+Kapasitetsvurdering på tau, kjetting, sjakler og bunnfester er utført for konstruksjonsdeler benyttet i 
+utlagt fortøyningssystem. Flåter beskrevet i denne rapporten har tilstrekkelig kapasitet. 
+Tabell 1.1 Sammendrag høyeste laster og utnyttelse 
+Høyeste laster intakt tilstand 
+[tonn] 
+Fortøyningsline F4 
+17.9 
+Høyeste laster ulykkesgrensetilstand 
+[tonn] 
+Fortøyningsline F7 
+20.9 
+Høyest utnyttelse 
+[%] 
+Fortøyningsline F4 
+69 
+Forskyvning 
+[m] 
+Fortøyningsline F4 
+Ca. 13m forskyvning mot anlegg 
+Det er analysert med brudd i flere komponenter. Risiko ved brudd er vurdert i tabell 2.7. 
+Utmattingsberegning dokumenterer at levetiden til kjetting, benyttet i analysen, er iht. kravene i NS 
+9415:2009 (se kapittel 3.3). 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 4 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+GRUNNLAG I DESIGN OG ANALYSE FOR 
+FORTØYNINGSSYSTEM. 
+2.1 Miljølaster som er b e n y t t e t i fortøyningsanalyse 
+Det foreligger en akkreditert lokalitetsrapport som er utført av Akvaplan Niva AS. Miljølastene er i 
+henhold til kravene i NS 9415:2009. De høyeste miljølastene (verdier og retninger) som påvirker 
+fortøyningssystemet er vist i figur 1.1 og oppgitt i tabell 2.8. 
+Vindhastighetsverdien er satt lik 10 min middel ved 10 moh, som representativ verdi for kastvinden ved 
+1 moh. Valgte lastdata og retninger er vurdert å være dekkende for de dimensjonerende lasttilfellene. 
+2.2 Arrangement og analyse 
+Fortøyningsarrangementet er designet av kunde. Linearrangement er vist i figur 1.1 og figur 2.1. 
+Fortøyningssystemet er analysert både i intakt- og ulykkesgrensetilstand og er utført i henhold til 
+kravene i NS 9415:2009. 
+Rapport fra denne fortøyningsanalysen samsvarer med utlagt fortøyningssystem. Gyldigheten av 
+akkreditert fortøyningsanalyse forutsetter at alle forbehold blir fulgt. DNV GL har fått tilbakemelding fra 
+kunde om faktisk utlagte fortøyninger (NYTEK §19). Fortøyningsrapport/dokumentasjonog 
+fortøyningsinspeksjonsrapport/dokumetasjon foreligger for utlagt fortøyningssystem. 
+2.3 Beregningsverktøy 
+Analysen er gjort med beregningsprogrammet AquaSim. Se Appendix A for programbeskrivelse. 
+ 
+DNV GL  –  Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1  –  www.dnvgl.com 
+Page 5
+ 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+ 
+2.4 Flåte og fortøyningsfester 
+ 
+Tabell 2.1 Posisjon til midtpunkt flåte   
+Posisjon Nord 
+Posisjon Øst 
+68°25.788 
+15°51.468 
+ 
+ 
+Tabell 2.2 Posisjoner for utlagte bunnfester 
+Line nr. 
+Posisjon Nord 
+Posisjon Øst 
+F1 
+68°25.664 
+15°51.685 
+F2 
+68°25.565 
+15°51.480 
+F3 
+68°25.515 
+15°51.776 
+F4 
+68°25.517 
+15°52.100 
+F5 
+68°25.560 
+15°52.180 
+F6 
+68°25.682 
+15°52.160 
+F7 
+68°25.693 
+15°51.853 
+ 
+ 
+ 
+Tabell 2.3 Flåter som er benyttet i analysen 
+Flåte 
+Orientering 
+Lengde 
+Bredde 
+Høyde 
+Høyde overbygg (gjennomsnitt i 
+analysen) 
+Totalt antall 
+innfestninger flåte 
+ 
+[°] 
+[m] 
+[m] 
+[m] 
+[m] 
+[stk] 
+OCEA 400 
+108 
+30 
+10 
+3.5 
+4.2 
+7 
+ 
+ 
+ 
+Tabell 2.4 Flåtedata som er benyttet i analysen. 
+ 
+Vekt  
+Fribord  
+Dypgang  
+VCG  
+OCEA 
+[t] 
+[m] 
+[m] 
+[m] 
+Lettskip 
+249.1 
+2.710 
+0.79 
+3.22 
+Lastet flåte 
+708.3 
+1.210 
+2.290 
+3.64 
+ 
+ 
+Tabell 2.5 Fortøyningsliner som er benyttet i analysen. 
+Line 
+Bunnfest 
+Dybde 
+bunnfeste 
+Bunnkjetting 
+Tau 
+Toppkjetting 
+Retning 
+liner 
+Line 
+stigning 
+Lengde 
+Dim 
+Lengde 
+Dim 
+Lengde 
+Dim 
+ 
+ 
+[m] 
+[m] 
+[mm] 
+[m] 
+[mm] 
+[m] 
+[mm] 
+[mot °] 
+[°] 
+F1 
+Anker 
+27 
+27.5 
+36 
+130 
+64 
+25.0 
+36 
+291 
+8 
+F2 
+Bolt 
+2 
+27.5 
+36 
+271 
+64 
+25.0 
+36 
+250 
+0 
+F3 
+Bolt 
+2 
+27.5 
+36 
+173 
+64 
+25.0 
+40 
+207 
+0 
+F4 
+Anker 
+45 
+55.0 
+36 
+131 
+64 
+25.0 
+40 
+154 
+12 
+F5 
+Anker 
+69 
+55.0 
+36 
+111 
+64 
+25.0 
+40 
+126 
+21 
+F6 
+Anker 
+75 
+55.0 
+36 
+104 
+64 
+25.0 
+40 
+49 
+24 
+F7 
+Anker 
+32 
+27.5 
+36 
+84 
+64 
+25.0 
+40 
+335 
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 6 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+Tabell 2.6 Materialdata som er brukt i analysen 
+Type 
+Diamete MBL E-modul 1) Tverrnittsareal 
+Vekt 2) 
+Benyttet 
+[mm] 
+[t] 
+[N/m 2 ] 
+[m 2 ] 
+[kg/m] 
+Tau 3-sl. 
+64 
+77.6 
+2.0 E9 
+3.22E-3 
+1.86 
+Fortøyningsline F1 – F7 
+Kjetting 
+36 
+68.6 
+1.1 E11 
+2.03E-3 
+15.8 
+Bunnkjetting til fortøyningsline F1 – F7 
+Toppkjetting til fortøyningsline F1 og F2 
+Kjetting 
+40 
+84.5 
+1.1 E11 
+2.51E-3 
+17.5 
+Toppkjetting til fortøyningsline F3-F7 
+Sjakkel 
+28x28 
+60 
+stål 
+- 
+- 
+Fortøyningsline F1 – F7 
+Kause 
+82 
+84.7 
+stål 
+Fortøyningsline F1 – F7 
+T-bolt 
+Ø38x500 
+60 
+stål 
+- 
+- 
+Bunnfester i fortøyningsline F3 og F2(Dobbelsikring) 
+Anker 
+Oppdrett 
+110.6 
+stål 
+- 
+1000kg 
+Bunnfester til Fortøyningsline F1 og F5 
+Anker 
+Ploganker 
+193.5 
+stål 
+- 
+2000kg 
+Bunnfester til Fortøyningsline F4 
+Anker 
+Oppdrett 
+40* 
+stål 
+- 
+1400kg 
+Bunnfester til Fortøyningsline F6 
+* Prøvelast 
+Anker 
+Dobbel 
+stokk 
+168 
+stål 
+- 
+1500kg 
+Bunnfester til Fortøyningsline F7 
+1) Iht. DNV GL «Vurdering av stivhet på tau og kjetting». 
+2) Vekt er oppgitt som vekt i luft. 
+Se tabell 2.5 og figur 2.1 for nummerering 
+Komponenter som benyttes og skal benyttes fortøyningssystemet må dimensjoneres utifra laster i tabell 3.1 og 3.2, samt tilsvarende 
+tverrsnittsareal og e-moduler oppgitt i tabell 2.6. 
+Figur 2.1 Nummerering av fortøyningsliner (se også tabell 2.5) og de vurderinger som er gjort av flåte i 
+ulykkesgrensetilstand (svarte piler angir bruddsteder som er vurdert). 
+ 
+DNV GL  –  Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1  –  www.dnvgl.com 
+Page 7
+ 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+ 
+2.5 Ulykkesgrensetilstand 
+Det er gjort vurderinger av ulykkesgrensetilstand i henhold til kap. 6.5.6 (NS 9415:2009). Tabell 2.7 
+inneholder de vurderingene som er gjort for fortøyningssystemet. Miljølaster for hver analysert 
+ulykkestilstand er oppgitt i tabell 2.8. 
+ 
+Tabell 2.7 Vurdering av ulykkestilstander. 
+Det skal vurderes og dokumenteres følgende 
+ulykkestilstander: 
+Line nummer eller bruddsted 
+(se figur 2) 
+*Risiko ved brudd      
+(liten, middels, høy) 
+Vurdering 
+Brudd i line med størst last 
+Fortøyningsline F4 
+Liten 
+Ca. 13m forskyvning mot 
+anglet 
+Dim. last i F5 
+Brudd i line med høyest utnyttelsesgrad 
+Som over 
+Som over  
+Som over 
+Brudd i line som er kritisk for forskyvning av flåte 
+Som over 
+Som over  
+Som over 
+Brudd i koblingspunkt, for eksempel koblingsplate 
+- 
+- 
+- 
+Brudd i line som er kritisk for posisjonering av flåte  
+Fortøyningsline F6 
+Liten 
+Ca. 14m forskyvning fra 
+anglet 
+Før opp flere bruddsteder hvis dette er vurdert  
+Fortøyningsline F7 
+Liten 
+Dim. last i F1 
+Punktering, bortfall eller tap av flytedeler 
+- 
+- 
+- 
+Progressivt brudd 
+Vurdert 
+Båtanløp 
+Ikke vurdert i denne analysen. Kriterier for båtanløp må vurderes spesifikt.  
+Vannstandsheving 
+Vurdert 
+Nedising 
+Vurdert 
+*Ref. NS9415:2009 tillegg F.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1  –  www.dnvgl.com 
+Page 8
+ 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+ 
+2.6 Lastkombinasjoner 
+De gjeldende miljølastene på lokaliteten er analysert fra 8 retninger med kombinasjoner av 10 års 
+bølger/50 års strøm (kombinasjon 1) og 50 års bølger/10 års strøm (kombinasjon 2). Tabell 2.8 angir 
+lasttilfellene for intakt tilstand (kombinasjon 1 og 2), samt utvalgte lasttilfeller for ulykkesgrensetilstand 
+og utmatting.  
+ 
+Tabell 2.8  Flåte er analysert med følgende lastkombinasjoner og med sammenfallende laster som 
+fremgår under: 
+Tilstand 
+Miljølaster fra 
+Hs 
+Tp 
+U10 
+5 meter 
+15 meter 
+Retning 
+[m] 
+[s] 
+[m/s] 
+[m/s] 
+[grader] 
+[m/s] 
+[grader ] 
+Kombinasjon 1 
+N 
+15 
+0.8 
+2.5 
+23 
+0.5 
+180 
+0.27 
+195 
+" 
+NØ 
+30 
+0.7 
+2.4 
+23 
+0.33 
+210 
+0.11 
+210 
+" 
+Ø 
+105 
+0.5 
+1.8 
+23 
+0.18 
+285 
+0.31 
+285 
+" 
+SØ 
+150 
+1 
+3.7 
+26 
+0.28 
+315 
+0.5 
+315 
+" 
+S 
+165 
+1.2 
+4.5 
+23 
+0.26 
+0 
+0.4 
+345 
+" 
+SV 
+210 
+1 
+4.6 
+26 
+0.18 
+30 
+0.1 
+30 
+" 
+V 
+285 
+0.6 
+1.8 
+26 
+0.34 
+105 
+0.12 
+105 
+" 
+NV 
+330 
+0.6 
+2.1 
+23 
+0.43 
+150 
+0.23 
+150 
+Kombinasjon 2 
+N 
+15 
+0.9 
+2.8 
+26 
+0.45 
+180 
+0.24 
+195 
+" 
+NØ 
+30 
+0.8 
+2.7 
+26 
+0.29 
+210 
+0.09 
+210 
+" 
+Ø 
+105 
+0.6 
+2 
+26 
+0.16 
+285 
+0.27 
+285 
+" 
+SØ 
+150 
+1.1 
+4.1 
+29 
+0.25 
+315 
+0.45 
+315 
+" 
+S 
+165 
+1.4 
+5 
+26 
+0.23 
+0 
+0.35 
+345 
+" 
+SV 
+210 
+1.1 
+5.1 
+29 
+0.16 
+30 
+0.09 
+30 
+" 
+V 
+285 
+0.7 
+2 
+29 
+0.31 
+105 
+0.11 
+105 
+" 
+NV 
+330 
+0.7 
+2.3 
+26 
+0.38 
+150 
+0.2 
+150 
+Ulykkestilstander og utmatting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brudd line F4 
+S 
+165 
+1.4 
+5 
+26 
+0.23 
+0 
+0.35 
+345 
+Brudd line F6 
+NØ 
+30 
+0.8 
+2.7 
+26 
+0.29 
+210 
+0.09 
+210 
+Brudd line F7 
+N 
+15 
+0.9 
+2.8 
+26 
+0.45 
+180 
+0.24 
+195 
+Utmatting 36 mm kjetting 
+S 
+165 
+1.4 
+5 
+26 
+0.23 
+0 
+0.35 
+345 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 9 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+KOMPONENTKRAV TIL FORTØYNINGSUTSTYR 
+3.1 Resultater i n t a k t - og ulykkesgrensetilstand 
+Tabell 3.1 Laster i intakt- og ulykkesgrensetilstand og dimensjonerende last i fortøyningsliner. 
+Line 
+Last 
+statisk 
+Intakt tilstand 
+Ulykkesgrensetilstand 
+Utnyttet 
+Vurdering 
+Last 
+line 
+MBL 
+tau 
+MBL 
+Kjetting 
+/ sjakler 
+1.flyt 
+kobl.pkt 
+Last 
+line 
+MBL 
+tau 
+MBL 
+Kjetting 
+/ sjakler 
+1.flyt 
+kobl.pkt 
+Tau 
+Kjetting Kobl 
+-pkt 
+f = m = 1 
+f = 1.15 
+m = 3 
+m = 2 
+m = 1.5 
+f = 1 
+m = 2 
+m = 1.33 
+m = 1 
+[t] 
+[t] 
+[t] 
+[t] 
+[t] 
+[t] 
+[t] 
+[t] 
+[t] 
+[%] 
+[%] 
+[%] 
+F1 
+2.9 
+8.2 
+24.5 
+16.3 
+12.2 
+16.2 
+32.4 
+21.6 
+16.2 
+42 
+36 
+- 
+OK 
+F2 
+1.9 
+7.1 
+21.2 
+14.1 
+10.6 
+6.0 
+12.0 
+8.0 
+6.0 
+27 
+24 
+- 
+OK 
+F3 
+1.8 
+11.2 
+33.5 
+22.4 
+16.8 
+10.3 
+20.7 
+13.8 
+10.3 
+43 
+37 
+- 
+OK 
+F4 
+4.2 
+17.9 
+53.8 
+35.9 
+26.9 
+4.4 
+8.7 
+5.8 
+4.4 
+69 
+60 
+- 
+OK 
+F5 
+4.0 
+11.9 
+35.7 
+23.8 
+17.8 
+19.7 
+39.3 
+26.2 
+19.7 
+51 
+44 
+- 
+OK 
+F6 
+4.0 
+16.8 
+50.3 
+33.5 
+25.2 
+20.6 
+41.1 
+27.4 
+20.6 
+65 
+56 
+- 
+OK 
+F7 
+5.3 
+17.6 
+52.7 
+35.1 
+26.3 
+20.9 
+41.8 
+27.8 
+20.9 
+68 
+59 
+- 
+OK 
+Rød skrift er dimensjonerende last og krav til MBL for fortøyningskomponentene. 
+f = lastfaktor 
+m = materialfaktor 
+Fortøyningskomponenter benyttet i fortøyningsarrangementet skal ha tilstrekkelig kapasitet jmf. laster i tabell 3.1 (se også tabell 2.5 og figur 1.1 
+og 2.1) og dimensjonerende brukstid for komponentene skal være definert for hver fortøyningskomponent. 
+Tabell 3.2 Krav til holdekraft i bunnfester og vertikale laster i fortøyningsliner. Tabellen inneholder 
+dimensjonerende laster. 
+Line Last i linen 
+Linestigning 
+1 Vertikal last 
+Holdekraft bunnfeste MBL bunnfeste 
+Utnyttet 
+Vurdering 
+[t] 
+[°] 
+[t] 
+[t] 
+[t] 
+[%] 
+F1 
+16.2 
+8 
+0.2 
+16.2 
+32.4 
+29 
+OK 
+F2 
+7.1 
+0 
+0.0 
+7.1 
+21.2 
+35 
+OK 
+F3 
+11.2 
+0 
+0.0 
+11.2 
+33.5 
+56 
+OK 
+F4 
+17.9 
+12 
+1.9 
+17.9 
+53.8 
+28 
+OK 
+F5 
+19.7 
+21 
+2.4 
+19.7 
+39.3 
+36 
+OK 
+F6 
+16.8 
+24 
+4.4 
+16.8 
+50.3 
+42* 
+OK 
+F7 
+17.6 
+13 
+2.7 
+17.6 
+52.7 
+31 
+OK 
+Tabellen inneholder dimensjonerende laster. 
+1) Vertikale laster er oppgitt uten lastfaktor (dvs. 1.0). 
+Ulykkestilstand 
+*Basert på testload 
+ 
+DNV GL  –  Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1  –  www.dnvgl.com 
+Page 10
+ 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+ 
+3.2 Kapasitetskontroll flåte 
+Det er gjort en kapasitetskontroll mellom laster i innfestninger mot kapasitet i flåte. Metode er beskrevet 
+i Appendix B. 
+ 
+Tabell 3.3 Kontroll av kapasitet i flåte. 
+ 
+3.3 Utmatting 
+For å komme frem til laveste levetid på kjetting er utmattingsberegningen utført med de lasttilfellene 
+som gir størst spenningsvidde. Resultater fra utmattingsberegning er gitt i Tabell 3.4 og 3.5. Det er også 
+oppgitt dominerende vindretning med tilhørende årlig frekvens på nærmeste målestasjon. Se Appendix 
+B.4 for en mer detaljert beskrivelse av metodikken. 
+ 
+Tabell 3.4 Levetid på komponentene.   
+ 
+ 
+Table 3.5 Levetidsberegning kjetting.  
+Kjettingdim 
+ [mm]  
+  
+50 års Tz 
+ [s]  
+Linelast 
+ [t]  
+Spenningsvidde 
+ [Mpa]  
+Ant. lastcykler i 
+20 år 
+Akkumulert 
+skade 
+Summert 
+delskade 
+[mm] 
+[mm] 
+36 
+Str+Vnd+Blg 
+12*60*60 
+15.6 
+75 
+2.06E+04 
+0.007 
+0.24 
+  Blg 
+5.00 
+9.3 
+45 
+1.78E+08 
+0.232 
+ 
+ 
+Hvis det benyttes kjetting som har kortere levetid enn kravene i NS 9415:2009 må det utarbeides 
+rutiner som ivaretar sikkerheten til fortøyningen mht. ettersyn og utskiftning. Årlig reduseres tykkelsen 
+på kjetting i stål pga. tæring og levetiden er i praksis noe lavere. Hvis ikke kjettingen ettersees årlig, 
+skal tykkelsen antas å minke 0.4 mm hvert år mellom hvert ettersyn (NS 9415:2009). Kjetting med 
+øvrig utstyr må ettersees i henhold til brukerhåndbok. Forøvrig er det benyttet formler og konstanter for 
+stolpeløs kjetting angitt i kap. 11.6 i NS 9415:2009.  
+Det er ikke utført analyser for utmatting på tau siden laster i liner ikke gir spenninger over 170 MPa. Se 
+figur 4.3 som viser Von Mises spenninger i fortøyningssystemet.  
+Flåte 
+Last i innfestning inkl. 1.15 
+Last i innfestning uten 1.15 
+Min. kapasitet flåte 
+Vurdering 
+ 
+[t] 
+[t] 
+[t] 
+ 
+OCEA 400 
+17.9 
+17.6 
+40 
+OK 
+Målestasjon 
+Offersøy  
+Vindretning / frekvens [%] 
+ØNØ/23.1 
+Komponent 
+Plassering1 
+Levetid 
+2)Bølgeretning 
+Summert delskade 
+36 mm kjetting 
+Bunnkjetting av L7 
+> 20 år 
+V 
+0.24 
+1 Se tabell 1.7.  
+2)Bølgeretning for høyeste spenningsvidde 
+ 
+DNV GL  –  Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1  –  www.dnvgl.com 
+Page 11
+ 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+ 
+3.4 Kommentarer 
+Flåten skal fortøyes ca. 50 meter nordøst for anlegg. Det er kjørt analyser i lett- og fullastet tilstand, 
+med regulære bølger og irregulære bølger. Flåter er analysert både i intakt- og ulykkesgrensetilstand i 
+henhold til kravene i NS 9415:2009. Vurderte ulykkesgrensetilstander er oppgitt i tabell 2.7 og 2.8. I 
+ulykkesgrensetilstand vil ikke det oppstå dimensjonerende laster. I ulykkesgrensetilstand vil det oppstå 
+dimensjonerende laster i følgende komponenter/liner:  
+- 
+Fortøyningsline F1 og F5 
+Øvrige komponenter i fortøyningssystemet skal dimensjoneres etter laster som fremkommer i intakt 
+tilstand. 
+Komponenter som er benyttet i analysen er oppgitt i tabell 2.6. Resultater er oppgitt i tabell 3.1 – 3.3. 
+Materialfaktorer for konstruksjonsdeler til fortøyning er hentet fra tabell 13 i NS9415, og inngår i 
+Appendix B i denne rapporten. Tabell 3.1 er inkludert med materialfaktorer.  
+Høyeste laster og utnyttelser i fortøyningskomponenter for lokaliteteten er oppgitt i tabell nedenfor. 
+ 
+Tabell 3.5 Høyeste laster og utnyttelse i fortøyningsliner. 
+Høyeste laster intakt tilstand 
+[tonn] 
+Fortøyningsline F4 
+17.9 
+Høyeste laster ulykkesgrensetilstand 
+[tonn] 
+Fortøyningsline F7 
+20.9 
+Høyest utnyttelse 
+[%] 
+Fortøyningsline F4 
+69 
+Forskyvning 
+[m] 
+Fortøyningsline F4 
+Ca. 13m forskyvning mot anlegg 
+ 
+Det er analysert med brudd i flere komponenter (se tabell 2.7 for risikovurdering). Det kan oppstå 
+forskyvning av flåten på ca. 13m forskyvning mot anglet. 
+Flåter og fortøyningssystem er dimensjonert etter de laster som fremkommer i tabell 3.1 - 3.3.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 12 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+AQUASIM MODELLER 
+4.1 I n t a k t system 
+Figur 4.1. Statisk modell 
+Figur 4.2. Intakt linesystem med maksimale laster (alle miljøkombinasjon) 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 13 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+Figur 4.3. Von-mises spenninger, Intakt linesystem med maksimale laster (alle miljøkombinasjon) 
+4.2 Ulykkesgrensetilstand 
+Figur 4.4a. Skadet linesystem, brudd line F4 med miljølaster fra S 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 14 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+Figur 4.4b. Skadet linesystem, forskyvning ved brudd line F4 fra S 
+Figur 4.5a. Skadet linesystem, brudd line F6 med miljølaster fra NØ 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 15 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+Figur 4.5b. Skadet linesystem, forskyvning ved brudd line F6 NØ 
+Figur 4.6. Skadet linesystem, brudd line F7 med miljølaster fra N 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 16 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+TIL KUNDE OG LEVERANDØR AV KOMPONENTER 
+Sertifikater og dokumentasjon på k o m p o n e n t e n 
+Alle sertifikater, dokumentasjon og brukerhåndbøker som følger med komponentene i beskrevet 
+fortøyningsanalyserapport, skal samles og oppbevares på et egnet sted for gjennomføring av vedlikehold. 
+Alle sertifikater, dokumentasjon og brukerhåndbøker skal legges til grunn for drift og vedlikehold av 
+fortøyningssystemet. Konstruksjonsdeler som inngår i fortøyning og kan ha betydning for rømmingsfaren, 
+skal være produktsertifisert og i samsvar med krav fastsatt i NS 9415:2009. Dette gjelder kun for 
+konstruksjonsdeler som leveres ny fra leverandør og tas i bruk etter 1. januar 2013. 
+Representativ for u t l a g t fortøyningssystem 
+Ansvarlig utlegger plikter å ha montert fortøyningsutstyr iht. leverandørenes manualer og sertifikater. 
+Denne plikter også å oppgi korrekte produktsertifikater, brukerhåndbøker, fortøyningsrapport og 
+fortøyningsinspeksjonsrapport etter utsett av nye fortøyninger og fortøyningssystem, iht. NYTEK §19. 
+Denne dokumentasjonen inngår i vurdering om fortøyningsanalyserapport er representativ for utlagt 
+fortøyningssystem. DNV GL er ikke ansvarlig for feil i underlagsdokumentasjon eller opplysninger om 
+faktisk utlagt fortøyningssystem. 
+DNV GL – Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1 – www.dnvgl.com 
+Page 17 
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway. 
+Tel: + 4 7 55 94 36 00, informasjon@dnvgl.com. 
+REFERANSER 
+/1/ 
+NS 9415: “Marine fish farms. Requirements for site survey, risk analyses, design, dimensioning, 
+production, installation and operation”, Standard Norge, 2009 
+/2/ 
+“Analyse av merder med rettvegget not, med og uten luseskjørt”, Aquastructures, rapport nr. 
+TR-30723-1998-1.2, rev. 01, 08.03.13 
+/3/ 
+“Anlysis of moored large mass floating objects in Aquasim”, Aquastructures, rapport nr. 2174-1, 
+rev. 01, 31.10.13 
+/4/ 
+“Årsvind for lokalitet”, Windsim 
+/5/ 
+“Tidevann”, www.sehavnivå.no 
+/6/ 
+“Kart”, Olex, i DNV GL sitt arkiv. 
+/7/ 
+“Skisse fortøyningssystem”, Olexplot for lokaliteten, I DNV GL sitt arkiv 
+/8/ 
+“Benchmarking and validation of Aquasim 2006”, Aquastructures rapport nr. 01, 22.08.06 
+/9/ 
+“Lokalitetsrapport”, Akvaplan-niva, rapport nr. 6115.02, 17.1.2013. 
+/10/ 
+“Teknisk rapport / stabilitetsrapport”, Vik Sandvik, VS No. : VS3002423, 15.01.2008 
+/11/ 
+“Brukermanual” for OCEA 400. 
+/12/ 
+“Produktsertifikat flåte”, OCEA 400, prosjekt 423, 05.06.2008 
+/13/ 
+“Fortøyningsinspeksjonsrapport”, 
+- 
+Rapport for ROV-kontroll av fortøyninger, lokalitet: 11298 N-Ø STORØY, 19.03.2020 
+- 
+Posisjonering av flåte 
+/14/ 
+“ Fortøyningsrapport ”, 
+- 
+tegning med dim 
+- 
+komponentliste flåte Storøy 2019 
+/15/ 
+“Produktsertifikat konstruksjondeler” 
+ 
+ 
+DNV GL  –  Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1  –  www.dnvgl.com 
+A-1
+ 
+APPENDIX A 
+Programvare, Aquasim 
+AquaSim er en programpakke bestående av primært to deler: AquaEdit og AquaView. I AquaEdit tegnes 
+modeller i 3D og legges i ulike komponentgrupper med mål angitt fra prosjekteringen. Modeller blir 
+koblet sammen av noder og elementer. De ulike komponentgrupper defineres med material 
+karakteristikker fra prosjekteringen. Videre angis miljølaster i henhold til lokalitetsrapport for gitt 
+lokalitet og analysen kan starte. Etter at analysen er ferdig, åpnes kjørefiler i AquaView hvor nødvendige 
+maks verdier tas ut fra hver komponentgruppe og lastkombinasjon. Konvergensfilen (Conv.txt) blir 
+rutinemessig gjennomgått for å få oversikt over alle stegene som er kjørt i analysen. Fra første til siste 
+steg kan man lese av hvor mange iterasjoner som har blitt brukt før man går til neste steg. Alle 
+resultater oppsummeres i tabeller i kapittel 3. 
+For øvrig informasjon om programvare/system henvises det til brukermanualer til AquaSim, se 
+referenser. 
+Tabell A.1 AquaSim - input  
+Versjon 
+2.15-2348 
+Bølger 
+Antall steg, påføring av strøm 
+Antall fullt utviklet bølger 
+Antall steg per bølge 
+Regulære 
+5 
+3 
+20 
+Irregulære 
+5 
+100 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1  –  www.dnvgl.com 
+A-2
+ 
+ 
+APPENDIX B 
+Material - metodikk   
+ 
+Tabell B.1 Materialfaktorer (ref. NS 9415:2009 Tabell 13)  
+Type tau/komponenter 
+Materialfaktor  
+Syntetisk tau 
+3.0 
+Syntetisk tau med knute 
+5.0 
+Kjetting og kjettingskomponenter 
+2.0 
+Brukt kjetting 
+5.0 
+Koblingsplater og andre koblingspunkter av stål 
+1.5 1) 
+Sjakler 
+2.0 
+Klumpfester, se kap. 11.3.6.4 NS 9415:2009 
+2.0 x dimensjonerende last 
+Anker, se kap. 11.3.6.2 NS 9415:2009 
+Overstige den dimensjonerende kraft 
+Fjellbolter og andre bunnfester 
+3.0 
+1) I ulykkestilstand deles materialfaktoren på 1.5 
+2) Første flyt 
+ 
+ 
+B.1 Bøyer 
+Nødvendige bøyestørrelser kan være utfordrende å beregne og ofte har det vist seg at bøyene som 
+benyttes ved slike typer fortøyningssystemer har for mye oppdrift. Dette kan forårsake at bøyene slites 
+raskere slik at oppdriften på sikt kan reduseres (f.eks. utrivning i plasten som kan føre til punktering). 
+For å beregne minimumsstørrelser på bøyer blir det derfor gjort en beregning hvor strøm og vindlasten 
+er isolert bort fra bølgelasten. Netto oppdrift på koblingspunktene til bøyene bør overskride vertikal last i 
+koblingspunktene, ellers så kan bøyene neddykkes. Lastene i rapporten fremkommer som vertikal last i 
+koblingspunkter. 
+ 
+ 
+B.2 Kapasitet innfestningspunkt 
+Kapasiteter i innfestningspunkt vurderes i intakt tilstand, uten lastfaktor. Kapasiteten i innfestningspunkt 
+på hovedkomponent er beregnet med egen lastfaktor i styrkeanalyser som inngår i en sertifisering eller 
+hovedkomponentbevis. Lastfaktor 1.15 er for fortøyninger spesifikt. Lastfaktorer er i henhold til NS 9415 
+kap. 6.6 og tabell 3, 4 og5. 
+ 
+B.3 Ising - ulykkeslast 
+Vannstandsheving og nedising skal vurderes i ulykkestilstand (lastfaktor 1.0 istedenfor 1.15 i intakt 
+tilstand) og blir generelt vurdert til ikke å føre til økning av dimensjonerende laster i fortøyningssystemet. 
+Ved nedising av flytekragene blir disse tyngre i havet og de rykklastene som kan oppstå når flytekragene 
+blir påvirket av bølger blir mindre enn når flytekrager uten is beveger seg. Den evt. økning i vindlast på 
+anlegget pga. gjenising av hoppenett i not vil i fleste tilfeller ikke bidra til økning i dimensjonerende 
+laster. Sannsynligheten for progressivt brudd er liten hvis fortøyningskomponentene dimensjoneres etter 
+de laster og spesifikasjoner som oppgis i rapporten.  
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. FA-11298-Storøya NØ-2020.06-F001-1, Rev. 1  –  www.dnvgl.com 
+A-3
+ 
+B.4 Utmatting 
+Utmattingsbidragene kommer i hovedsak fra høysyklus bølgelast og fra lavsyklus strøm- og vindlast. 
+Spenningsvidden for strøm og vind beregnes konservativt for totallasten, mens spenningsvidden for 
+bølgelast beregnes fra bølgelastbidraget. For retningsfaktor er det benyttes normalt en verdi på 0.5 som 
+tilsvarer at vind og bølger fra denne retningen påvirker lokaliteten 50% av tiden. Frekvens for vind og 
+bølger er hentet fra windsim.com – Norwegian wind atlas. Maks frekvens og retning for alle 
+målestasjoner i Norge er oppsummert i tabell B.2 
+ 
+Tabell B.2 Frekvens og retning vind.   
+Climatology - Norwegian Wind Atlas. 
+Årlig frekvens vind
+Fylke
+Målested
+N
+NNØ
+ØNØ
+Ø
+ØSØ
+SSØ
+S
+SSV
+VSV
+V
+VNV
+NNV
+Maks frekvens Retning maks frekvens
+Agder
+Lindesnes
+0.021
+0.029
+0.094
+0.169
+0.05
+0.069
+0.035
+0.022
+0.085
+0.143
+0.116
+0.16
+16.9 Ø
+Agder
+Lista
+0.041
+0.035
+0.067
+0.128
+0.157
+0.043
+0.043
+0.038
+0.059
+0.081
+0.228
+0.068
+22.8 VNV
+Rogaland
+Obrestad
+0.08
+0.026
+0.049
+0.061
+0.048
+0.252
+0.086
+0.052
+0.053
+0.064
+0.014
+0.202
+25.2 SSØ
+Rogaland
+Sola
+0.086
+0.028
+0.024
+0.037
+0.102
+0.141
+0.134
+0.063
+0.049
+0.054
+0.089
+0.11
+14.1 SSØ
+Rogaland
+Rennesøy
+0.046
+0.047
+0.048
+0.067
+0.07
+0.121
+0.141
+0.097
+0.065
+0.067
+0.084
+0.111
+14.1 S
+Rogaland
+Haugesund Lufthavn
+0.147
+0.03
+0.017
+0.039
+0.105
+0.127
+0.129
+0.079
+0.069
+0.059
+0.08
+0.093
+14.7 N
+Rogaland
+Utsira
+0.151
+0.039
+0.026
+0.031
+0.066
+0.124
+0.184
+0.073
+0.069
+0.065
+0.068
+0.101
+18.4 S
+Hordaland
+Flesland
+0.101
+0.038
+0.039
+0.054
+0.103
+0.178
+0.117
+0.053
+0.058
+0.04
+0.037
+0.121
+17.8 SSØ
+Hordaland
+Slåtterøy
+0.084
+0.029
+0.034
+0.046
+0.046
+0.175
+0.168
+0.063
+0.072
+0.065
+0.053
+0.135
+17.5 SSØ
+Hordaland
+Hellisøy
+0.131
+0.043
+0.024
+0.055
+0.083
+0.134
+0.169
+0.094
+0.073
+0.054
+0.044
+0.083
+16.9 S
+Sogn og Fjordane
+Florø
+0.04
+0.031
+0.055
+0.191
+0.133
+0.086
+0.086
+0.076
+0.067
+0.045
+0.083
+0.097
+19.1 Ø
+Sogn og Fjordane
+Ytterøyane
+0.127
+0.01
+0.027
+0.037
+0.028
+0.192
+0.16
+0.064
+0.134
+0.077
+0.012
+0.101
+19.2 SSØ
+Sogn og Fjordane
+Kråkenes
+0
+Møre og Romsdal
+Svinøy
+0.037
+0.109
+0.108
+0.042
+0.053
+0.087
+0.118
+0.168
+0.142
+0.056
+0.032
+0.041
+16.8 SSV
+Møre og Romsdal
+Vigra flystasjon
+0.041
+0.065
+0.155
+0.03
+0.076
+0.123
+0.086
+0.112
+0.134
+0.072
+0.047
+0.041
+15.5 ØNØ
+Møre og Romsdal
+Ona
+0.045
+0.089
+0.11
+0.07
+0.052
+0.072
+0.084
+0.106
+0.179
+0.088
+0.035
+0.049
+17.9 VSV
+Møre og Romsdal
+Kristiansund
+0.024
+0.135
+0.031
+0.099
+0.106
+0.117
+0.028
+0.106
+0.102
+0.137
+0.037
+0.056
+13.7 V
+Møre og Romsdal
+Smøla
+0.06
+0.09
+0.073
+0.088
+0.078
+0.071
+0.073
+0.1
+0.165
+0.096
+0.049
+0.042
+16.5 VSV
+Sør Trøndelag
+Sula
+0.069
+0.112
+0.023
+0.069
+0.03
+0.185
+0.06
+0.137
+0.1
+0.103
+0.064
+0.032
+18.5 SSØ
+Sør Trøndelag
+Ørland
+0.056
+0.027
+0.04
+0.062
+0.265
+0.1
+0.021
+0.038
+0.132
+0.096
+0.071
+0.074
+26.5 ØSØ
+Sør Trøndelag
+Halten
+0.056
+0.081
+0.058
+0.035
+0.071
+0.157
+0.075
+0.087
+0.154
+0.087
+0.074
+0.062
+15.7 SSØ
+Sør Trøndelag
+Buholmsråsa
+0.079
+0.074
+0.02
+0.064
+0.097
+0.144
+0.078
+0.127
+0.103
+0.073
+0.032
+0.062
+14.4 SSØ
+Nord Trøndelag
+Værnes
+0.009
+0.014
+0.042
+0.147
+0.275
+0.085
+0.027
+0.024
+0.099
+0.149
+0.078
+0.017
+27.5 ØSØ
+Nord Trøndelag
+Rørvik
+0.06
+0.09
+0.056
+0.114
+0.163
+0.091
+0.047
+0.074
+0.133
+0.073
+0.043
+0.039
+16.3 ØSØ
+Nord Trøndelag
+Nordøyan
+0.055
+0.037
+0.076
+0.074
+0.079
+0.203
+0.042
+0.03
+0.173
+0.113
+0.052
+0.051
+20.3 SSØ
+Nord Trøndelag
+Sklinna
+0.084
+0.074
+0.043
+0.05
+0.084
+0.134
+0.128
+0.085
+0.104
+0.078
+0.063
+0.065
+13.4 SSØ
+Nord Trøndelag
+Leka
+0.07
+0.105
+0.012
+0.027
+0.03
+0.117
+0.078
+0.278
+0.046
+0.063
+0.018
+0.059
+27.8 SSV
+Nordland
+Brønnøysund
+0.094
+0.064
+0.093
+0.093
+0.099
+0.081
+0.077
+0.131
+0.085
+0.053
+0.031
+0.075
+13.1 SSV
+Nordland
+Vega Vallsjø
+0.07
+0.066
+0.032
+0.039
+0.097
+0.196
+0.065
+0.099
+0.158
+0.071
+0.054
+0.046
+19.6 SSØ
+Nordland
+Sandnessjøen
+0.067
+0.139
+0.151
+0.088
+0.044
+0.051
+0.144
+0.13
+0.07
+0.034
+0.023
+0.043
+15.1 ØNØ
+Nordland
+Sleneset
+0.076
+0.093
+0.021
+0.06
+0.158
+0.06
+0.12
+0.119
+0.092
+0.06
+0.061
+0.071
+15.8 ØSØ
+Nordland
+Åsen
+0.05
+0.035
+0.065
+0.104
+0.21
+0.026
+0.079
+0.111
+0.191
+0.049
+0.046
+0.033
+21 ØSØ
+Nordland
+Bodø
+0.057
+0.034
+0.028
+0.314
+0.144
+0.035
+0.028
+0.04
+0.114
+0.083
+0.066
+0.042
+31.4 Ø
+Nordland
+Grøtøy
+0.042
+0.034
+0.144
+0.088
+0.004
+0.163
+0.03
+0.046
+0.24
+0.037
+0.029
+0.056
+24 VSV
+Nordland
+Offersøy
+0.01
+0.109
+0.231
+0.075
+0.029
+0.042
+0.038
+0.035
+0.185
+0.101
+0.025
+0.022
+23.1 ØNØ
+Nordland
+Skrova
+0.049
+0.046
+0.175
+0.203
+0.018
+0.045
+0.04
+0.059
+0.179
+0.059
+0.023
+0.072
+20.3 Ø
+Nordland
+Glåpen
+0.069
+0.147
+0.028
+0.111
+0.015
+0.092
+0.057
+0.042
+0.206
+0.083
+0.014
+0.07
+20.6 VSV
+Nordland
+Litløy
+0.083
+0.041
+0.079
+0.121
+0.095
+0.09
+0.112
+0.055
+0.057
+0.09
+0.025
+0.129
+12.9 NNV
+Nordland
+Andøya
+0.054
+0.085
+0.061
+0.032
+0.044
+0.094
+0.148
+0.166
+0.099
+0.079
+0.06
+0.057
+16.6 SSV
+Troms
+Sortland
+0.142
+0.035
+0.018
+0.011
+0.033
+0.114
+0.2
+0.153
+0.048
+0.043
+0.08
+0.094
+20 S
+Troms
+Sandsøy
+0.04
+0.016
+0.058
+0.118
+0.049
+0.094
+0.246
+0.076
+0.032
+0.069
+0.092
+0.064
+24.6 S
+Troms
+Hekkingen
+0.043
+0.06
+0.023
+0.022
+0.009
+0.316
+0.193
+0.053
+0.023
+0.079
+0.065
+0.096
+31.6 SSØ
+Troms
+Sommarøy
+0.077
+0.029
+0.053
+0.021
+0.028
+0.217
+0.265
+0.042
+0.054
+0.045
+0.038
+0.088
+26.5 S
+Troms
+Tromsø Langnes
+0.07
+0.105
+0.045
+0.02
+0.014
+0.022
+0.22
+0.156
+0.073
+0.066
+0.023
+0.017
+22 S
+Troms
+Torsvåg
+0.057
+0.088
+0.056
+0.068
+0.045
+0.176
+0.143
+0.091
+0.056
+0.065
+0.041
+0.055
+17.6 SSØ
+Troms
+Fugløykalven
+0.038
+0.051
+0.062
+0.09
+0.07
+0.089
+0.213
+0.112
+0.097
+0.089
+0.052
+0.035
+21.3 S
+Troms
+Sørkjosen
+0.06
+0.007
+0.006
+0.015
+0.124
+0.268
+0.028
+0.021
+0.024
+0.077
+0.093
+0.125
+26.8 SSØ
+Troms
+Nordstraum
+0.032
+0.012
+0.002
+0.048
+0.01
+0.227
+0.249
+0.009
+0.003
+0.074
+0.152
+0.121
+24.9 S
+Troms
+Loppa
+0.053
+0.148
+0.033
+0.068
+0.034
+0.124
+0.171
+0.198
+0.041
+0.052
+0.014
+0.045
+19.8 SSV
+Finnmark
+Alta
+0.046
+0.047
+0.048
+0.067
+0.07
+0.121
+0.141
+0.097
+0.065
+0.067
+0.084
+0.111
+14.1 S
+Finnmark
+Hasvik
+0.028
+0.019
+0.024
+0.13
+0.268
+0.09
+0.016
+0.01
+0.041
+0.092
+0.147
+0.102
+26.8 ØSØ
+Finnmark
+Hammerfest
+0.049
+0.084
+0.146
+0.048
+0.049
+0.035
+0.043
+0.134
+0.242
+0.1
+0.017
+0.028
+24.2 VSV
+Finnmark
+Fruholmen
+0.053
+0.055
+0.07
+0.075
+0.043
+0.178
+0.072
+0.094
+0.112
+0.079
+0.082
+0.076
+17.8 SSØ
+Finnmark
+Helnes
+0.036
+0.024
+0.046
+0.092
+0.058
+0.115
+0.118
+0.093
+0.105
+0.14
+0.07
+0.091
+14 V
+Finnmark
+Kistrand
+0.071
+0.083
+0.031
+0.033
+0.014
+0.043
+0.269
+0.116
+0.058
+0.087
+0.07
+0.059
+26.9 S
+Finnmark
+Banak
+0.123
+0.037
+0.014
+0.01
+0.01
+0.038
+0.326
+0.123
+0.029
+0.03
+0.049
+0.081
+32.6 S
+Finnmark
+Mehamn
+0.085
+0.061
+0.045
+0.051
+0.043
+0.082
+0.157
+0.13
+0.095
+0.073
+0.06
+0.095
+15.7 S
+Finnmark
+Slettnes
+0.046
+0.023
+0.063
+0.08
+0.029
+0.112
+0.08
+0.06
+0.187
+0.096
+0.056
+0.137
+18.7 VSV
+Finnmark
+Berlevåg
+0.048
+0.041
+0.061
+0.122
+0.047
+0.043
+0.06
+0.145
+0.182
+0.079
+0.086
+0.079
+18.2 VSV
+Finnmark
+Makkaur
+0.064
+0.02
+0.066
+0.08
+0.019
+0.126
+0.105
+0.103
+0.135
+0.097
+0.027
+0.119
+13.5 VSV
+Finnmark
+Vardø Lufthavn
+0.074
+0.047
+0.049
+0.052
+0.077
+0.113
+0.07
+0.159
+0.123
+0.074
+0.054
+0.102
+15.9 SSV
+Finnmark
+Vadsø Lufthavn
+0.05
+0.081
+0.091
+0.071
+0.068
+0.046
+0.042
+0.089
+0.089
+0.111
+0.161
+0.087
+16.1 VNV
+Finnmark
+Kirkenes Lufthavn
+0.067
+0.063
+0.05
+0.035
+0.038
+0.127
+0.209
+0.085
+0.092
+0.064
+0.063
+0.061
+20.9 S
+ 
+ 
+ 
+ 
+About DNV GL 
+Driven by our purpose of safeguarding life, property and the environment, DNV GL enables organizations 
+to advance the safety and sustainability of their business. We provide classification and technical 
+assurance along with software and independent expert advisory services to the maritime, oil and gas, 
+and energy industries. We also provide certification services to customers across a wide range of 
+industries. Operating in more than 100 countries, our 16,000 professionals are dedicated to helping our 
+customers make the world safer, smarter and greener.

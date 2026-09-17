@@ -1,0 +1,241 @@
+﻿Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+ 
+Bunnkartlegging 
+Multistråle  
+for 
+Snyen 
+ 
+ 
+ 
+Feltarbeid 
+09.04.2022 
+Oppdragsgiver 
+NorCod AS 
+ 
+ 
+ 
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bunnkartlegging Multistråle for Snyen 
+Rapportnummer 
+104489-01-001 
+Rapportdato 
+21.06.2022 
+Dato feltarbeid 
+09.04.2022 
+Revisjonsnummer 
+Revisjonsbeskrivelse 
+Signatur 
+- 
+- 
+- 
+Lokalitet 
+Lokaliteter (lok.nr.) 
+ Snyen (ny lokalitet) 
+Oppdragsgiver 
+Selskap 
+NorCod AS 
+Kontaktperson 
+Julianne Jacobsen 
+Oppdragsansvarlig 
+Selskap 
+Åkerblå AS  
+Nordfrøyveien 413                    
+Organisasjonsnummer 916 763 816 
+7260 Sistranda 
+Ansvarlig feltarbeid 
+Nils Mo 
+Rapportansvarlig 
+Nils Mo 
+Forfatter (-e) 
+Nils Mo 
+Epost: nils.mo@akerbla.no 
+Tlf: (+47) 911 11 870 
+Godkjent av 
+Erik Schmidt Lindgaard 
+Distribusjon 
+Denne rapporten kan kun gjengis i sin helhet.  Gjengivelse av deler av 
+rapporten kan kun skje etter skriftlig tillatelse fra Åkerblå AS.  I slike 
+tilfeller skal kilde oppgis. 
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+ 
+Innholdsfortegnelse 
+1 Bakgrunn ....................................................................................................................... 4 
+2 Materialer og metode .................................................................................................... 5 
+2.1 Utstyr.......................................................................................................... 5 
+2.2 Metode ....................................................................................................................... 6 
+2.3 Omfanget av oppmålingen ............................................................................. 6 
+2.4 Bruk ............................................................................................................ 6 
+3. Resultater ..................................................................................................................... 7 
+ 
+ 
+ 
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+1 Bakgrunn 
+Det er gjennomført en bunnkartlegging av planlagt oppdrettslokalitet Snyen for NorCod AS. 
+Denne rapporten leveres som en bekreftelse på utført feltarbeid, hvor batymetrien ble 
+kartlagt den 09.04.2022. Bunnoppmålingen presenteres som en OLEX-fil, kompatibel med 
+OLEX-programvare og utstedes som vedlegg samtidig med rapporten.   
+ 
+ 
+ 
+ 
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+2 Materialer og metode 
+Bunnkartleggingen ble gjennomført med Åkerblås båt «Annelida» den 09.04.2022.  
+ 
+2.1 Utstyr 
+Bunntopografi ble kartlagt med multistråle-ekkolodd tilkoblet OLEX. Datasystemet OLEX 
+plotter målte dybder fra ekkoloddet inn i sjøkartet ved hjelp av nøyaktige posisjonering- og 
+bevegelses-systemer. Oppløsningen av rutenettet på bunnen er satt til 23 x 23 cm. Mellom 
+hvert loddskudd vil dataprogrammet beregne sannsynlig dybde ved interpolering.  
+ 
+Utstyret for bunntopografi kartlegging er levert av Maritim Elektro.  Spesifikasjoner for utstyr 
+er oppgitt i Tabell 1.  
+ 
+ 
+Tabell 1. Spesifikasjoner utstyr.  
+Utstyr 
+Type 
+Hensikt 
+Datamaskin 
+M4 – 9-30V 
+industrimaskin 
+ 
+Logge/tegne bunndata målt med multistråle i kart. 
+Atec multistrålesonar 
+ATEC-200 
+Kartlegge havbunn med opptil 180 graders åpningsvinkel. 
+500 m rekkevidde.  
+GPS 
+Trimble BX982 -00 
+Benytter 2 antenner for nøyaktig beregning av posisjon, 
+fart og kurs.  
+Bevegelsessensor 
+Spatial -alt-i-ett-
+sensor 
+Kombinerer akselerometre med GPS, og beregner nøyaktig 
+båtens pitch, roll, heave og heading. Data sendes til olex og 
+benyttes til å kompensere avvik i posisjonering som følge 
+av båtens bevegelser.  
+ 
+ 
+ 
+ 
+ 
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+2.2 Metode 
+Overnevnt utsyr er montert i Åkerblå’s arbeidsbåt «Annelida», og all kartlegging er 
+gjennomført med den. Utstyret startes opp når man har kommet fram til angitt posisjon. 
+Båtens fart og valg av rute for oppmålingen tilpasses de gjeldende vind og bølgeforhold. Etter 
+gjennomført oppmåling lagres en kopi av rådata, før prosessering av bunndata gjennomføres. 
+Bunndata prosesseres maskinelt (vaskes med OLEX programvare) fra 1-3 ganger, før den 
+sjekkes manuelt. Ferdig prosessert OLEX data sendes som .gz fil sammen med denne 
+rapporten til oppdragsgiver. 
+ 
+2.3 Omfanget av oppmålingen 
+Oppmålingsomfanget ble fokusert mot området som vil bli fysisk påvirket av anlegget, 
+inkludert ut til enden av planlagte fortøyningspunkt. Foreløpige anleggstegninger ble benyttet 
+under oppmålingen. 
+ 
+2.4 Bruk 
+De resulterende filene av bunnkartleggingen har bruksverdi på flere områder, enten det er 
+ved etablering, forvaltning eller ved flytting eller endring av anleggsbruken. Filene er 
+kompatible med OLEX, et navigasjons- og kartleggingssystem, og presenterer dybder og 
+indikasjon på sedimenthardhet. I programvaren kan brukeren se batymetrisk kontur i 2 eller 
+3 dimensjoner, gjøre lengde og arealberegninger og undersøke sedimenthardheten. 
+Sedimenthardheten illustreres med en fargegradient fra rødt som indikerer helt hard bunn, til 
+blått og lilla som indikerer helt myk bunn. En illustrasjon på resultatene fra kartleggingen av 
+dybde (Figur 3.1 og 3.2) 3D visning (Figur 3.3) og sedimenthardhet (Figur 3.4) er hentet fra 
+resipienten til planlagt lokalitet. 
+ 
+ 
+ 
+ 
+ 
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+3. Resultater 
+Dybdekoter på lokaliteten er vist i figur 3.1. Avstand mellom kotene er 2 meter.  Figur 3.2 viser 
+et dybdesnitt av bunnen rett under anleggsrammen. Batymetrien er vist i 3D i figur 3.3. 
+Hardhetsoppmålingen indikerte at sedimentet er relativt mykt (illustrert med grønn/blå farge) 
+ved majoriteten av område, mens grunnere topper hovedsakelig i den vestlige delen fremstår 
+som hardbunn (illustrert med gul/rød farge) (Figur 3.4). Målingene og antall målepunkter var 
+tilfredsstillende (Figur 3.5). 
+ 
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+Figur 3.1. Dybdekoter over området rundt den planlagte lokaliteten.     
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+Figur 3.2 Dybdesnitt under planlagt anleggsramme ved den planlagte lokaliteten.     
+ 
+ 
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+ 
+Figur 3.3. Eksempel på 3D-visning av oppmålt batymetri.  
+ 
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+ 
+Figur 3.4. Kartlegging av relative sedimenthardhet. Relativ hardhet er representert ved fargekoder hvor rød farge indikerer 100% hardhet, mens lilla indikerer 0% hardhet.
+Rapportnummer: 104489-01-001 
+        
+           
+ 
+ 
+ 
+Figur 3.5: Antall målepunkter.

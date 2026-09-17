@@ -1,0 +1,598 @@
+﻿STIM Miljø Rapport 98-2021                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømmålinger ved Nusfjord 
+Flakstad kommune, september/oktober 2021 
+STIM Miljø rapport 98-2021
+
+Nusfjord
+
+STIM Miljø Bergen
+
+Sammendragsside v7. Endret 11.05.20
+
+Tittel: Strømmålinger ved Nusfjord
+
+Forfatter: Morten Stokkan Rapport nr.: 98/2021
+
+Prosjektleder: Morten Stokkan Dato rapport: 01.11.2021
+
+Oppdragsgiver: Nordlaks Smolt AS Antall sider inkl. vedlegg: 21
+
+Konfidensiell: NEI Prosjektnummer: 1850
+Aktiviteter utført av STIM Miljø Bergen
+
+Aktivitet Akkrediterings-nummer Personell
+
+Strømmåling
+
+Ikke akkreditert
+
+Vebjørn Borge og Rune Kristensen
+
+Prosjektansvarlig
+
+Dato
+
+Signatur
+
+STIM Miljø Bergen
+
+Thormøhlens gt. 55
+5006 Bergen, Norway
+
+E-post: miljo.bergen Østim.no
+Internett: www.stim.no/tjenester/miljotjenester
+Organisasjonsnr. NO 964 873 755 MVA
+
+Rapporten kan kun gjengis i sin helhet.
+Gjengivelse av deler av rapporten kan kun skje etter skriftlig tillatelse fra STIM AS
+
+s. 1/21
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 2/21 
+ 
+INNHOLD 
+Innhold ................................................................................................................................................................ 2 
+1. 
+Innledning .................................................................................................................................................. 3 
+2. 
+Material og metode ................................................................................................................................... 4 
+ 
+Aktuelle standarder ........................................................................................................................... 4 
+ 
+Oppsett og instrumenter ................................................................................................................... 4 
+ 
+Beskrivelse av strømdata .................................................................................................................. 6 
+3. 
+Resultater ................................................................................................................................................... 7 
+ 
+Sammendrag av resultater fra stasjon Nusfjord-S1 .......................................................................... 7 
+ 
+Data fra målepunkt i figurform, 5 meters dyp .................................................................................. 9 
+ 
+Data fra målepunkt i figurform, 15 meters dyp .............................................................................. 11 
+ 
+Data fra målepunkt i figurform, 52 meters dyp .............................................................................. 13 
+ 
+Data fra målepunkt i figurform, 56 meters dyp .............................................................................. 15 
+ 
+Tidevann .......................................................................................................................................... 19 
+4. 
+Litteratur .................................................................................................................................................. 19 
+5. 
+Vedleggstabeller ...................................................................................................................................... 20 
+ 
+ 
+ 
+ 
+ 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 3/21 
+ 
+1. INNLEDNING 
+STIM Miljø har på oppdrag fra Nordlaks Smolt AS utført strømmålinger i forbindelse med en forundersøkelse for 
+et nytt utslippspunkt for smoltanlegget Nusfjord (lokalitetsnummer 11213) i Flakstad kommune (Figur 1-3). 
+(stasjon NUS-S1). Målinger ble foretatt på 5, 15, 53 og 57 m dybde ved hjelp av en profilerende måler og to 
+punktmålere. Strømmålingene er foretatt i perioden 15. september til 15. oktober 2021. 
+ 
+Figur 1. Oversiktskart over fjordsystemet rundt lokaliteten Nusfjord. Firkant viser kartutsnitt for undersøkelsesområdet. 
+Kartkilde: Fiskeridirektoratet.  
+ 
+Figur 2 Undersøkelsesområdet for planlagt nytt utslippspunkt. Plassering av strømmåler er markert med rødt flagg i kartet. 
+Lilla pil viser retning nord. Kartkilde: Olex.  
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 4/21 
+ 
+ 
+Figur 3 3D kart av bunntopografien i undersøkelsesområdet. Plassering av strømmåler er markert med rødt flagg i kartet. Lilla 
+pil viser retning nord. Kartkilde: Olex.  
+2. MATERIAL OG METODE 
+ Aktuelle standarder 
+Strømmålingene ble gjennomført i henhold til NS 9425-1:1999, Oseanografi – 
+Del 1: Strømmåling i faste punkter og NS 9425-2:2003, Oseanografi – Del 2: 
+Strømmåling i ved hjelp av ADCP. 
+ Oppsett og instrumenter 
+Dybden på målepunktet var 60 m. Strømmålinger ble utført i fire dyp i 
+vannsøylen, henholdsvis 5, 15, 53 og 57 (bunnstrøm) m. Det ble benyttet en 
+rigg med én profilerende måler på 20 m dyp (5, 15) og to punktmålere som 
+målte strøm ved 53 m og bunnstrøm (57 m). Prinsippskisse av strømmålerrigg 
+er vist i Figur 4.  Riggen ble satt ut 15. september 2021 Av Run Kristensen fra 
+STIM AS, og hentet 15. oktober 2021 av Vebjørn Borge fra STIM miljø. 
+ 
+Den profilerende måleren var en ADCP (Acoustic Doppler Current Profiler) 
+strømmåler av typen Aquadopp Profiler 400 MHz (Nortek AS) (STIM Miljø 
+Bergen ID AQD15681 AQP10465). Punktmålerene var akustiske punktmålere 
+(ACDM) av typen Aquadopp Current Meter 2 MHz (STIM Miljø ID AQD 13200/ 
+AQD 8117 og STIM Miljø ID AQD 6674/AQD 11843). Instrumentene lagrer 
+strømhastighet, strømretning, temperatur, trykk, dato og klokkeslett 
+automatisk, med målefrekvens satt til hvert 10. minutt. Programvarene 
+AquaPro (Nortek, v1.36.06), Surge (Nortek, v.1.14.01) og SeaReport (Nortek, 
+v.1.1.93) ble benyttet i analyse og fremstilling av strømdata.  
+ 
+ 
+ 
+ 
+Figur 4 Prinsippskisse av strømmålerigg. 
+AquaDopp 
+Profiler 
+måler 
+oppover 
+i 
+vannsøylen, med ekstra punktmåler som 
+peker nedover. Modifisert skisse fra NS 
+9424-1:1999. Merk at på rigg brukt i felt var 
+det påmontert ekstra punktmåler og alle 
+målere var vendt opp. 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 5/21 
+ 
+Tabell 1 Stasjonsopplysninger for strømmålinger ved stasjon Nusfjord-S1. 
+Parameter 
+  
+Parameter 
+  
+Koordinater (lengde/bredde): 
+68°01.591'N 
+Koordinater (EUREF89/UTM33): 
+432164 
+013°22.518'E 
+7546713 
+Bunndyp (m): 
+60 
+  
+  
+Måleinstrument: 
+Profilerende måler Aquadopp profiler (ACP) (AQD 15681) 
+Antall målinger (orig./filtrert): 
+4609/4272 
+Måleretning: 
+Opp 
+Instrumentdyp (m): 
+20 
+Måledyp (m): 
+5 og 15 
+Måleperiode start: 
+15.09.2021 
+Måleperiode slutt: 
+15.10.2021 
+Cellestørrelse (m): 
+2 
+Celler benyttet i analyse 
+2 og 7 
+Måleintervall (min): 
+10 
+Midlingsperiode (min): 
+1 
+Måleinstrument: 
+Punktmåler Aquadopp (ACDM) (AQD 8117/13200) 
+Antall målinger (orig./filtrert): 
+4612/4268 
+Måleretning: 
+Opp 
+Instrumentdyp (m): 
+53 
+Måledyp (m): 
+52 
+Måleperiode start: 
+15.09.2021 
+Måleperiode slutt: 
+15.10.2021 
+Måleintervall (min): 
+10 
+Midlingsperiode (min): 
+1 
+Måleinstrument: 
+Punktmåler Aquadopp (ACDM) (AQD 6674/11843) 
+Antall målinger (orig./filtrert): 
+4612/4307 
+Måleretning: 
+Opp 
+Instrumentdyp (m): 
+57 
+Måledyp (m): 
+56 
+Måleperiode start: 
+15.09.2021 
+Måleperiode slutt: 
+15.10.2021 
+Måleintervall (min): 
+10 
+Midlingsperiode (min): 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 6/21 
+ 
+ Beskrivelse av strømdata 
+Strømstyrke for måleperioden er presentert som gjennomsnittlig hastighet (cm/s og m/s) med varians og 
+standardavvik. Stabiliteten til strømhastigheten i måleperioden (spredning i datasettet) beskrives med bruk av 
+standardavvik (= xy, for x = varians og y = 0,5). Strømhastigheter vil i de aller fleste tilfeller være gjennomsnittlig 
+strømhastighet ± standardavviket igjennom hele måleperioden, kun med unntak av enkelte registreringer av 
+maksimal (maks) og minimal (min) strøm.  
+Maksimal (maks) og minimal (min) strøm er henholdsvis høyeste og laveste registrerte hastighet. Signifikant 
+maks-strøm og min-strøm er definert som gjennomsnittet av 1/3 av de høyest eller lavest målte hastighetene.  
+Strømretninger blir oppgitt i grader og er nødvendig informasjon i beskrivelse av vanntransporten omkring 
+målepunktet. Effektiv vanntransport og vannutskifting er bestemt av både strømretning og strømhastighet. 
+Vanntransport (relativ vannfluks) omkring målepunktet kan illustreres i sektordiagram som viser hvilke retninger 
+vanntransporten er størst.  
+Forholdet mellom strømretning og strømhastighet blir også beskrevet med bruk av progressiv vektoranalyse. 
+Progressiv vektor illustrerer hvordan en tenkt «partikkel» vil drive med strømmen over tid. En slik «partikkel» vil 
+kunne drive i ulike retninger gjennom måleperioden avhengig av stabiliteten til strømretningen. Neumann-
+parameter (verdi mellom 0 og 1) er brukt som mål for stabilitet til strømretningen. Neumann-parameter er 
+forholdet mellom avstanden i rett linje fra partikkelens posisjon ved start og slutt og den faktiske vandringsruten 
+til partikkelen. Høy Neumann-parameter vil indikere en klar hovedstrømretning, mens tilsvarende lav verdi 
+indikerer strømforhold med hyppige skift i strømretninger. Reststrøm (cm/s) beskriver den effektive 
+strømhastigheten, beregnet som partikkelens vandringsavstand i rett linje fra startpunktet (posisjon til 
+strømmåleren) til endepunktet dividert med tiden partikkelen brukte. 
+ 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 7/21 
+ 
+3. RESULTATER  
+Instrumentene ble kontrollert både før utsett og etter opptak. Ingen skader eller funksjonsfeil kunne påvises. 
+Målerne har fungert fint i hele måleperioden.   
+ Sammendrag av resultater fra stasjon Nusfjord-S1 
+Totalt 4609 verdier ble registrert fra hver celle med måleren Aquadopp profiler 400 MHz (AQP 15681). Dette 
+inkluderer verdier registrert før og etter valgt måleperiode. Til beskrivelse av de ulike dypene (5 m og 15 m) ble 
+det hentet ut datasett fra perioden 15. september kl. 13: 52 til 15. oktober kl. 05:54, med registreringer hvert 
+tiende minutt. Dette tilsvarer 4272 registrerte målinger fra hvert dyp. Kvalitetskontroll av datasettet med 
+programvaren Sea Report viste sterke signaler og gode målinger, og stabil posisjon for målerne i hele perioden. 
+Stasjonsopplysninger og måleperiode er beskrevet i Tabell 1.  
+Punktmåler ved 53 m, ble utvalgt måleperiode fra 15. september kl. 14: 57 til 15. oktober kl. 06:17, som gir et 
+datagrunnlag på 4268 datapunkter. Ingen målinger ble fjernet i denne perioden. 
+Punktmåler ved bunn 57 m, ble utvalgt måleperiode fra 15. september kl. 11: 30 til 15. oktober kl. 09:10 I denne 
+perioden ble det tatt ut ett datapunkt fra 22.09 og 3 datapunkt fra 14.10 hvor måleren ble påvirket av ukjent 
+grunn og hadde for høy helningsgrad til å oppfylle kvalitetskravet. Med disse 4 datapunktene tatt ut, ble 
+datagrunnlaget på 4307 datapunkter for denne målingen. 
+Strømmålingene påviste hovedstrøm som tydelig følger topografien til fjorden i sørvestlig retning ved 5 m, 15 m 
+og 52 m dyp (Figur 5, 7 og 9)., Langs bunn ved 56 m dyp viser måleren en vestlig retning (figur 11). Strømretning 
+var lite stabil i samtlige dyp (Neumann-parameter 0,08, 0,08, 0,12 og 0,05). Mest stabil var strømretningene ved 
+53 m dyp, se også progressiv vektor. 
+Strømhastighet var høyest på 5 m med gjennomsnittlig strømhastighet på 7 cm/s og signifikant maks 
+strømhastighet på 12 cm/s. 6,51 % av målingene var over 15 cm/s, og bare 16, 06 % av målingene var under 3 
+cm/s som indikere stabilt raske hastigheter ved øverste vanndypene. Også ved 15 m er gjennomsnittsstrømmen 
+moderat med 6 cm/s, og med 3,32 % av målingene over 15 cm/s.  
+Strømstyrken avtar noe ved økt dyp. Med en gjennomsnittsstrøm på 5 cm/s men med signifikante makshastighet 
+på 9 cm/s ved både 53 og 56 meters dyp. Bare 2, 84% av målingene er lavere enn 1 cm/s ved bunn. Maksimums 
+hastighet langs bunn er hele 28 cm/s som indikerer jevne, raske hastigheter i hele vannsøylen.   
+Resultater er oppsummert i Tabell 2. Data om fluks, retning, progressiv vektor, gjennomsnittlig og maksimal 
+hastighet, tidsserie og histogram over hastighet, er gjengitt i figurform i Figur 5-12, og tidevann og temperatur 
+er gjengitt i Figur 13-14. Tabeller over strømretning og -hastighet er gitt i vedlegg, Tabell 3-6. 
+ 
+ 
+ 
+ 
+ 
+ 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 8/21 
+ 
+Tabell 2 Oppsummering av målinger på stasjon Nusfjord-S1, i perioden 15. september til 15. oktober 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Parameter 
+5 m 
+15 m 
+52 m 
+56 m 
+Måleintervall (min) 
+10 
+10 
+10 
+10 
+Midlingsperiode (min) 
+1 
+1 
+1 
+1 
+Strømregistreringer (% ) > 30  
+(høye strømhastigheter) 
+0,05 
+0 
+0 
+0 
+Strømregistreringer (%)  < 1 cm/s 
+(nullmålinger) 
+2,36 
+1,99 
+3,09 
+2,84 
+Lengste varighet på nullmålinger 
+30 minutt 
+20 minutt 
+20 minutt 
+20 minutt 
+Antall nullmålingsperioder > 12 timer 
+0 
+0 
+0 
+0 
+Gjennomsnittsstrøm (cm/s) 
+7 
+6 
+5 
+5 
+Minimum strømhastighet (cm/s)  
+0 
+0 
+0 
+0 
+Signifikant minimums strøm* (cm/s) 
+3 
+3 
+2 
+2 
+Maksimum strømhastighet (cm/s) 
+33 
+30 
+20 
+28 
+Signifikant maksimum strøm* (cm/s) 
+12 
+11 
+9 
+9 
+Standardavvik (cm/s) 
+3 
+4 
+3 
+3 
+Strømregistreringer, 0-3 cm/s (%)  
+16,06 
+18,98 
+23,31 
+23,29 
+Strømregistreringer > 15 cm/s (%) 
+6, 51 
+3,32 
+0,68 
+0,59 
+Relativ vannfluks (retning) 
+Sørvest 
+  Sørvest 
+Sørvest 
+Vest 
+Neumann-parameter 
+0,08 
+0,08 
+0,12 
+0,05 
+Temperaturvariasjon (°C) 
+                9,5-10,8 
+ 
+*Gjennomsnittet av 1/3 målingene som viser lavest /høyest verdi. 
+ 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 9/21 
+ 
+ Data fra målepunkt i figurform, 5 meters dyp 
+ 
+ 
+Figur 5 Fluks, progressiv vektor og målinger per retning, 5 m. 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 10/21 
+ 
+ 
+ 
+ 
+Figur 6 Maks og gjennomsnitt, tidsserie og histogram for strømhastighet, 5 m (m/sek). 
+ 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 11/21 
+ 
+ Data fra målepunkt i figurform, 15 meters dyp 
+ 
+ 
+ 
+Figur 7 Fluks, progressiv vektor og målinger per retning, 15 m. 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 12/21 
+ 
+ 
+ 
+Figur 8 Maks og gjennomsnitt, tidsserie og histogram for strømhastighet, 15 m (m/sek). 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 13/21 
+ 
+ 
+ Data fra målepunkt i figurform, 52 meters dyp 
+ 
+ 
+ 
+ 
+Figur 9 Fluks, progressiv vektor og målinger per retning, 52 m. 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 14/21 
+ 
+ 
+ 
+Figur 10 Maks og gjennomsnitt, tidsserie og histogram for strømhastighet, 52 m (m/s). 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 15/21 
+ 
+ 
+ Data fra målepunkt i figurform, 56 meters dyp 
+ 
+Figur 11 Fluks, progressiv vektor og målinger per retning, 56 m. 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 16/21 
+ 
+ 
+ 
+Figur 12 Maks og gjennomsnitt, tidsserie og histogram for strømhastighet, 56 m (m/s). 
+ 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 17/21 
+ 
+Hydrografiske målinger 
+ 
+ 
+Figur 13  Hydrografiske målinger utført med CTD 26. oktober 2021 
+CTD måling ved strømmålepunktet ble utført 26.oktober 2021 av Rune Kristensen fra STIM. Målingene viser 
+svært liten grad av sprangsjikt gjennom hele vannsøylen Dette indikerer god vannutskifting gjennom hele 
+vannsøylen (se figur 13). 
+Temperatur 
+Temperaturmålingene registrert av strømmålerne gjennom måleperioden (Figur 14) viser 
+temperaturen på 20, 53 og 57 meters dyp.     
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 18/21 
+ 
+ 
+ 
+ 
+Figur 14 Temperatur registrert av de tre målerne fra 15. september til 15. oktober 2021. 
+ 
+ 
+ 
+ 
+57 meter 
+53 meter 
+20 meter 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 19/21 
+ 
+ Tidevann 
+Figur 14 viser tidevann i perioden strømmålerne stod ute. 
+ 
+Figur 15 Tidevann i perioden 15. september til 15. oktober 2021. Observert vannstand for Nappstraumen er vist. Kilde: 
+www.sehavniva.no 
+ 
+ 
+4. LITTERATUR 
+NS 9425-1, 1999. Oseanografi Del 1: Strømmålinger i faste punkter 
+NS 9425-2, 2003. Oseanografi Del 2: Strømmålinger ved hjelp av ADCP 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 20/21 
+ 
+5. VEDLEGGSTABELLER 
+Tabell 3 Strømretning og -hastighet. Stasjon Nusfjord-S1, 5 m. 
+ 
+Tabell 4 Strømretning og -hastighet. Stasjon Nusfjord -S1, 15 m. 
+ 
+ 
+STIM Miljø rapport 98-2021    
+Nusfjord 
+s. 21/21 
+ 
+Tabell 5 Strømretning og -hastighet. Stasjon Nusfjord -S1, 52 m. 
+ 
+ 
+Tabell 6 Strømretning og -hastighet. Stasjon Nusfjord -S1, 56 m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+STIM Miljø utfører marine miljøundersøkelser og miljøovervåkning på oppdrag fra fylker, 
+kommuner, oljeselskap, industri og havbruksnæring. STIM Miljø er akkreditert for 
+prøvetaking av sediment til analyse av biologi, kjemi og sedimentkarakteristikk, samt 
+fjæreundesøkelser, taksonomisk analyse og faglig vurdering og fortolking under 
+akkrediteringsnummer Test 157.  
+ 
+Vi utfører også naturtypekartlegging, vannsøyleundersøkelser, risikovurdering av forurenset 
+sediment, strømmålinger og modellering av strømforhold, samt andre miljøundersøkelser 
+og rådgivingstjenester. 
+ 
+www.STIM.no

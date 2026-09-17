@@ -1,0 +1,2825 @@
+﻿1547-8-22S SLØNGA 
+Vannstrømmåling ved 
+Slønga, Lurøy kommune, 
+juni - august 2022 
+Lovundlaks AS 
+Etter Norsk Standard NS 9425-1:1999 og NS 9425-2:2003 
+AQUA KOMPETANSE AS 
+2022 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+1 
+ 
+ 
+Rapportens tittel: 
+Vannstrømmåling ved Slønga, Lurøy kommune, juni - august 2022 
+Måleperiode: 
+27.06.–08.08.2022 
+Rapportdato: 25.08.2022 
+Rapportnummer: 1547-8-22S 
+Antall sider uten vedlegg: 34 
+Antall sider totalt: 35 
+Oppdragsgiver: 
+Lovundlaks AS 
+Kontaktperson: 
+Jeanett Vigeland Johansen 
+Prosjektleder: 
+Linda Hagen 
+Lokalitet: Slønga 
+Kommune: Lurøy 
+Fylke: Nordland 
+Instrumenttype: 
+1 Aquadopp Profiler 
+2 Aquadopp Current Meter 
+Dybde målested: 
+ca. 49 meter 
+Koordinater for instrumentrigg: 
+66°33.004 N, 12°34.430 Ø 
+Resultatoversikt 
+5 meter 
+15 meter 
+35 meter 
+48 meter 
+Gjennomsnitt (cm/s): 
+11.4 
+9.3 
+8.3 
+7.4 
+Maksimalhastighet (cm/s): 
+36.9 
+38.8 
+27.5 
+24.9 
+Minimumshastighet (cm/s): 
+0.1 
+0.0 
+0.1 
+0.0 
+Varians (cm2/s2): 
+42.5 
+35.6 
+20.1 
+20.3 
+Strømstyrke 0-1 cm/s (%): 
+0.6 
+1.5 
+1.0 
+3.1 
+10-års strøm, beregnet: 
+60.9 
+64.0 
+- 
+- 
+50-års strøm, beregnet: 
+68.2 
+71.8 
+- 
+- 
+Hovedstrømretning: 
+nord 
+nord 
+nordøst 
+sørvest 
+ 
+Emneord: 
+havstrøm, vannstrøm, overflatestrøm, dimensjoneringsstrøm, 
+vannutskiftning, spredningsstrøm, bunnstrøm, Aquadopp Profiler, 
+Aquadopp Current Meter, doppler 
+ID 415-18 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig: 
+ 
+Benedicte Otterdal Nergaard 
+Kvalitetssikrer: 
+ 
+Hege G. Frøysa 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org.nr.: 982 226 163 
+© 2022 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+2 
+Innhold 
+Innledning .......................................................................................................................................................... 3 
+Materiale og metode ......................................................................................................................................... 4 
+Kort vurdering .................................................................................................................................................... 5 
+Resultater .......................................................................................................................................................... 5 
+Tidsserie - strømhastighet ............................................................................................................................. 6 
+Tidsserie - strømretning ................................................................................................................................ 8 
+Strømrose - gjennomsnittlig strømhastighet .............................................................................................. 10 
+Strømrose - maksimal strømhastighet ........................................................................................................ 12 
+Histogram - strømhastighet ......................................................................................................................... 14 
+Histogram - strømretning ............................................................................................................................ 16 
+Spredningsdiagram - strømretning og -hastighet ....................................................................................... 18 
+Strømrose - vanntransport (fluks) ............................................................................................................... 20 
+Vektor - progressiv vektor ........................................................................................................................... 22 
+Sensorer - trykk registrert av instrument .................................................................................................... 24 
+Sensorer - instrumenthelning (tilt) .............................................................................................................. 26 
+Sensorer - sjøtemperatur ............................................................................................................................ 28 
+Tabell - retning med returperiode ............................................................................................................... 30 
+Tabell - matrise med retnings- og hastighetsgrupper ................................................................................. 31 
+Vedlegg A – riggtegning ................................................................................................................................... 35 
+ 
+ 
+ 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+3 
+Innledning 
+Aqua Kompetanse AS har på oppdrag fra Lovundlaks AS utført strømundersøkelser ved Slønga i Lurøy 
+kommune (Figur 1 og 2). Aqua Kompetanse har stått for instrumentutsett, kvalitetssikring av data samt 
+rapportering. Rapporten presenterer en oppsummering av resultatene fra strømmålingene, og er bygd på 
+forutsetningen om at leseren studerer følgende data og figurer nøye. Strømmålingene ble foretatt i perioden 
+27.06.–08.08.2022. Rådata finnes oppbevart hos Aqua Kompetanse AS, og er tilgjengelig ved forespørsel. 
+ 
+Figur 1: Oversiktskart over deler av Lurøy kommune, samt deler av Rødøy kommune. Innrammet kartutsnitt i rødt viser 
+undersøkelsesområdet ved Slønga. Målestokk vises øverst i figuren. Kartkilde: Olex.  
+Figur 2: Undersøkelsesområdet ved Slønga. Posisjon for plassering av strømrigg er markert med grønt kryss. Målestokk 
+vises øverst i figuren. Kartkilde: Olex. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+4 
+Materiale og metode 
+Strømmålingene ved Slønga er gjennomført i henhold til NS 9425-1:1999 og NS 9425-2:2003. For å måle 
+vannstrøm er det benyttet tre akustiske strømmålere produsert av Nortek AS; én 400 kHz profilerende måler 
+og to 2000 kHz punktmålere. Akustiske strømmålere bruker dopplerskift for å beregne strømhastighet og -
+retning, og refereres ofte til som dopplermålere. Instrumentene er montert pekende oppover i en 
+bunnforankret rigg (se Vedlegg A for riggtegning), der den profilerende måleren er montert på 25 meters 
+dyp, og punktmålerne er montert på 34 og 48 meters dyp. Den profilerende måleren har et 
+instrumentoppsett på 25 celler × 2 meter som gir en rekkevidde på 50 meter. Punktmålerne måler i 
+monteringsdypet. Det er omtrent 49 meter dypt på målestedet. Instrumentene registrerer i 1 minutt og 30 
+sekunder sammenhengende og hviler i 8 minutter og 30 sekunder.  
+Tabell 1: Informasjon om oppsett, instrument-ID og måletidspunkt. 
+Parametere 
+AQK80 
+AQK19 
+AQK45 
+Målertype 
+Aquadopp Profiler 
+Aquadopp Current Meter 
+Aquadopp Current Meter 
+Målernummer 
+AQK80 
+AQK19 
+AQK45 
+Hode-ID / Kort-ID 
+AQP 11584 / AQD16636 
+AQD 11176 / AQD16479 
+AQD 10417 / AQD15742 
+Frekvens (kHz) 
+400 
+2000 
+2000 
+Måleretning 
+Opp 
+Opp 
+Opp 
+Måleintervall (s) 
+600 
+600 
+600 
+Midlingsperiode (s) 
+90 
+90 
+90 
+Målebelastning (%) 
+100 
+35 
+35 
+Antall celler (#) 
+25 
+- 
+- 
+Cellestørrelse (m) 
+2 
+- 
+- 
+Blindsone (m) 
+1.0 
+0.35 
+0.35 
+Instrumentdyp (m) 
+25.0 
+34.4 
+48.4 
+Tidsrom for gyldige 
+registreringer 
+27.06.2022 12.20 - 
+08.08.2022 09.30 
+27.06.2022 14.12 - 
+08.08.2022 09.12 
+27.06.2022 14.14 - 
+08.08.2022 09.14 
+Lengde måleperiode 
+(dager) 
+41.9 
+41.8 
+41.8 
+ 
+I denne måleserien er det tatt utgangspunkt i et merddyp på 20 meter, og dybden på målestedet er omtrent 
+49 meter. Vannutskiftningsstrøm skal måles i halve dypet av planlagt merddyp, altså 10 meters dyp i dette 
+tilfellet. I denne rapporten presenteres overflatestrøm på 5 meters dyp og dimensjoneringsstrøm på 15 
+meters dyp, som anses å representere vannutskiftningsstrømmen tilstrekkelig. 
+Spredningsstrømmen skal måles midt mellom merdbunnen og sjøbunnen (maksimalt 50 meter under 
+notbunn), og vil i dette tilfellet være på 35 meters dyp. Spredningsstrømmen er i dette tilfellet hentet fra 34 
+meters dyp, vel innenfor avviksgrensen på 10 % av totaldypet. Bunnstrømmen skal måles 1 meter over 
+bunnen (maksimalt 100 meter under notbunn), og skal i dette tilfellet være fra 48 meters dyp. Strømdata for 
+bunnstrømmen er hentet ut for dette dypet. 
+Det er foretatt en manuell og automatisk kvalitetskontroll av datasettene med programvarene SeaReport og 
+Storm. Datasettene er av god kvalitet og ingen situasjoner med korrupte målinger er manuelt fjernet. 
+ 
+ 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+5 
+Kort vurdering 
+Vannstrømmen ved Slønga er tidevannsdrevet og batymetristyrt. Størst vanntransport er på 5 og 15 meters 
+dyp rettet mot nord, og mot nordøst og sørvest på henholdsvis 35 og 48 meters dyp.  
+Resultater 
+I denne måleserien fra Slønga er gjennomsnittlig vannstrøm 11.4, 9.3, 8.3 og 7.4 cm/s på 5, 15, 35 og 48 
+meters dyp, og maksimalhastigheten er henholdsvis 36.9, 38.8, 27.5 og 24.9 cm/s. Det er registrert lite 
+strømstille i måleperioden på alle undersøkte dyp. 
+Lokalitet Slønga befinner seg på østsiden av øyen Storhelløya, i et område preget av kompleks batymetri med 
+flere grunner og småøyer samt undersjøiske buktninger. Ved måleposisjonen er batymetrien hovedsakelig 
+nord-sør orientert. Vannstrømmen i de undersøkte dypene ved Slønga drives av tidevannet og følger den 
+lokale batymetrien i undersøkelsesområdet. På fløende sjø øker hastigheten betydelig på 5, 15 og 35 meters 
+dyp, og vannstrømmen er hovedsakelig rettet omkring nord i disse periodene. På ebbende sjø øker 
+hastighetene i bunndypet, og vannstrømmen er hovedsakelig rettet omkring sør-sørvest i disse periodene. 
+Størst vanntransport er på 5 og 15 meters dyp rettet mot nord. Noe vanntransport er i tillegg rettet mot sør 
+på 5 og 15 meters dyp. På 35 meters dyp er størst vanntransport rettet mot nordøst med en 
+sekundærkomponent rettet mot sør-sørvest. Størst vanntransport er på 48 meters dyp rettet mot sørvest 
+med en mindre sekundærkomponent rettet mot nordøst. 
+Nedenfor presenteres tabeller og figurer med statistikk og resultater. 
+Tabell 2: Statistikk 
+Parametere 
+5 meter 
+15 meter 
+35 meter 
+48 meter 
+Gyldige målinger/totalt (#) 
+6032/6032 
+6032/6032 
+6019/6019 
+6019/6019 
+Gjennomsnittsstrøm (cm/s) 
+11.4 
+9.3 
+8.3 
+7.4 
+Maksimalstrøm (cm/s) 
+36.9 
+38.8 
+27.5 
+24.9 
+Minimumstrøm (cm/s) 
+0.1 
+0.0 
+0.1 
+0.0 
+Strømstyrke 0-1 cm/s (%) 
+0.6 
+1.5 
+1.0 
+3.1 
+Strømstyrke 1-3 cm/s (%) 
+5.7 
+10.0 
+9.1 
+16.5 
+Neumann-parameter 
+0.42 
+0.51 
+0.07 
+0.39 
+Standardavvik (cm/s) 
+6.5 
+6.0 
+4.5 
+4.5 
+Varians (cm2/s2) 
+42.5 
+35.6 
+20.1 
+20.3 
+Signifikant maksimum 
+strømhastighet (cm/s) 
+19.0 
+16.4 
+13.3 
+12.7 
+Signifikant minimum 
+strømhastighet (cm/s) 
+4.9 
+3.6 
+3.7 
+2.6 
+10 års returstrøm (cm/s) 
+60.9 
+64.0 
+- 
+- 
+50 års returstrøm (cm/s) 
+68.2 
+71.8 
+- 
+- 
+De 4 hyppigst 
+forekommende 
+strømretningsgruppene (°) 
+0 - 15 
+345 - 360 
+15 - 30 
+330 - 345 
+0 - 15 
+345 - 360 
+15 - 30 
+330 - 345 
+30 - 45 
+15 - 30 
+195 - 210 
+180 - 195 
+210 - 225 
+180 - 195 
+195 - 210 
+15 - 30 
+De 4 hyppigst 
+forekommende 
+strømhastighetsgruppene 
+(cm/s) 
+7 - 9 
+5 - 7 
+9 - 11 
+11 - 13 
+5 - 7 
+3 - 5 
+7 - 9 
+9 - 11 
+5 - 7 
+7 - 9 
+9 - 11 
+3 - 5 
+3 - 5 
+1 - 3 
+7 - 9 
+5 - 7 
+Mest vannutskiftning / 
+retning / 15° sektor 
+2004 m3/m2 per 
+dag ved 0 - 15 
+2044 m3/m2 per 
+dag ved 0 - 15 
+1120 m3/m2 per 
+dag ved 15 - 30 
+1144 m3/m2 per 
+dag ved 210 - 225 
+Minst vannutskiftning / 
+retning / 15° sektor 
+19 m3/m2 per dag 
+ved 105 - 120 
+28 m3/m2 per dag 
+ved 90 - 105 
+17 m3/m2 per dag 
+ved 120 - 135 
+14 m3/m2 per dag 
+ved 105 - 120 
+ 
+ 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+6 
+Tidsserie - strømhastighet 
+Figur 3: Vannstrømhastighet (cm/s) på 5 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 4: Vannstrømhastighet (cm/s) på 15 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+7 
+Figur 5: Vannstrømhastighet (cm/s) på 35 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 6: Vannstrømhastighet (cm/s) på 48 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+8 
+Tidsserie - strømretning 
+Figur 7: Vannstrømretning (°) på 5 meters dyp ved Slønga i perioden 27.06.–08.08.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+Figur 8: Vannstrømretning (°) på 15 meters dyp ved Slønga i perioden 27.06.–08.08.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+9 
+Figur 9: Vannstrømretning (°) på 35 meters dyp ved Slønga i perioden 27.06.–08.08.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+Figur 10: Vannstrømretning (°) på 48 meters dyp ved Slønga i perioden 27.06.–08.08.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+10 
+Strømrose - gjennomsnittlig strømhastighet 
+Figur 11: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 5 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. 
+Figur 12: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 15 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+11 
+Figur 13: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 35 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. 
+Figur 14: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 48 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+12 
+Strømrose - maksimal strømhastighet 
+Figur 15: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 5 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. 
+Figur 16: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 15 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+13 
+Figur 17: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 35 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. 
+Figur 18: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 48 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+14 
+Histogram - strømhastighet 
+Figur 19: Frekvensfordeling av vannstrømhastighet på 5 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 20: Frekvensfordeling av vannstrømhastighet på 15 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+15 
+Figur 21: Frekvensfordeling av vannstrømhastighet på 35 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 22: Frekvensfordeling av vannstrømhastighet på 48 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+16 
+Histogram - strømretning 
+Figur 23: Frekvensfordeling av vannstrømretning for hver 15° sektor på 5 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+Figur 24: Frekvensfordeling av vannstrømretning for hver 15° sektor på 15 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+17 
+Figur 25: Frekvensfordeling av vannstrømretning for hver 15° sektor på 35 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+Figur 26: Frekvensfordeling av vannstrømretning for hver 15° sektor på 48 meters dyp ved Slønga i perioden 27.06.– 
+08.08.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+18 
+Spredningsdiagram - strømretning og -hastighet 
+Figur 27: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 5 meters dyp 
+ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 28: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 15 meters dyp 
+ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+19 
+Figur 29: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 35 meters dyp 
+ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 30: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 48 meters dyp 
+ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+20 
+Strømrose - vanntransport (fluks) 
+Figur 31: Vanntransport (m³/m²/dag) for hver 15° sektor på 5 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 32: Vanntransport (m³/m²/dag) for hver 15° sektor på 15 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+21 
+Figur 33: Vanntransport (m³/m²/dag) for hver 15° sektor på 35 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 34: Vanntransport (m³/m²/dag) for hver 15° sektor på 48 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+22 
+Vektor - progressiv vektor 
+Figur 35: Progressiv vektor på 5 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 36: Progressiv vektor på 15 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+23 
+Figur 37: Progressiv vektor på 35 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 38: Progressiv vektor på 48 meters dyp ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+24 
+Sensorer - trykk registrert av instrument 
+Figur 39: Trykk (dBar) i instrumentdypet ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 40: Trykk (dBar) i instrumentdypet ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+25 
+Figur 41: Trykk (dBar) i instrumentdypet ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+26 
+Sensorer - instrumenthelning (tilt) 
+Figur 42: Instrumenthelning (°) på Slønga i perioden 27.06.–08.08.2022. 
+Figur 43: Instrumenthelning (°) på Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+27 
+Figur 44: Instrumenthelning (°) på Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+28 
+Sensorer - sjøtemperatur 
+Figur 45: Temperatur i instrumentdypet ved Slønga i perioden 27.06.–08.08.2022. 
+Figur 46: Temperatur i instrumentdypet ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+29 
+Figur 47: Temperatur i instrumentdypet ved Slønga i perioden 27.06.–08.08.2022. 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+30 
+Tabell - retning med returperiode 
+Tabell 3: Retning med returperiode for vannstrøm på 5 meters dyp. Strømhastighetene er oppgitt i m/s. Retningsgrupper 
+som definert i NS 9415. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.139 
+0.369 
+0.229 
+0.609 
+0.257 
+0.682 
+nordøst 
+0.108 
+0.323 
+0.179 
+0.534 
+0.201 
+0.598 
+øst 
+0.044 
+0.133 
+0.073 
+0.220 
+0.082 
+0.246 
+sørøst 
+0.054 
+0.199 
+0.090 
+0.328 
+0.101 
+0.368 
+sør 
+0.145 
+0.339 
+0.240 
+0.560 
+0.269 
+0.628 
+sørvest 
+0.083 
+0.281 
+0.137 
+0.464 
+0.153 
+0.520 
+vest 
+0.075 
+0.194 
+0.123 
+0.321 
+0.138 
+0.360 
+nordvest 
+0.087 
+0.286 
+0.143 
+0.471 
+0.161 
+0.529 
+Tabell 4: Retning med returperiode for vannstrøm på 15 meters dyp. Strømhastighetene er oppgitt i m/s. 
+Retningsgrupper som definert i NS 9415. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.125 
+0.388 
+0.207 
+0.640 
+0.232 
+0.718 
+nordøst 
+0.097 
+0.301 
+0.160 
+0.497 
+0.180 
+0.557 
+øst 
+0.043 
+0.121 
+0.071 
+0.199 
+0.080 
+0.224 
+sørøst 
+0.058 
+0.221 
+0.096 
+0.365 
+0.107 
+0.409 
+sør 
+0.085 
+0.298 
+0.141 
+0.491 
+0.158 
+0.550 
+sørvest 
+0.059 
+0.214 
+0.098 
+0.353 
+0.110 
+0.396 
+vest 
+0.058 
+0.189 
+0.095 
+0.312 
+0.107 
+0.350 
+nordvest 
+0.069 
+0.214 
+0.113 
+0.353 
+0.127 
+0.395 
+ 
+ 
+ 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+31 
+Tabell - matrise med retnings- og hastighetsgrupper 
+Tabell 5: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 5 meters dyp ved Slønga i 
+perioden 27.06.–08.08.2022. Antall målinger og prosent av antall målinger, samt fluks (m3/m2/døgn) og prosentvis fluks 
+for hver 15° sektor er presentert. 
+5 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 
+100 
+# 
+% 
+m3/m2/døgn 
+% 
+0 
+2 
+4 
+9 
+14 
+18 
+38 
+53 
+73 
+239 
+291 
+122 
+67 
+0 
+0 
+930 
+15.42 
+2004.3 
+20.28 
+15 
+1 
+5 
+4 
+12 
+23 
+21 
+58 
+42 
+160 
+137 
+88 
+39 
+0 
+0 
+590 
+9.78 
+1209 
+12.23 
+30 
+1 
+9 
+8 
+10 
+10 
+11 
+32 
+29 
+56 
+34 
+9 
+9 
+0 
+0 
+218 
+3.61 
+340.5 
+3.45 
+45 
+4 
+5 
+8 
+9 
+9 
+10 
+25 
+19 
+18 
+5 
+0 
+0 
+0 
+0 
+112 
+1.86 
+115.8 
+1.17 
+60 
+3 
+5 
+6 
+7 
+7 
+6 
+11 
+3 
+4 
+1 
+0 
+0 
+0 
+0 
+53 
+0.88 
+39.3 
+0.4 
+75 
+1 
+2 
+5 
+11 
+9 
+4 
+3 
+2 
+3 
+0 
+0 
+0 
+0 
+0 
+40 
+0.66 
+27 
+0.27 
+90 
+1 
+4 
+5 
+7 
+5 
+3 
+7 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+34 
+0.56 
+22.7 
+0.23 
+105 
+1 
+4 
+6 
+7 
+3 
+4 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+33 
+0.55 
+19.4 
+0.2 
+120 
+3 
+8 
+7 
+3 
+4 
+2 
+5 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+36 
+0.6 
+22.1 
+0.22 
+135 
+1 
+4 
+3 
+8 
+5 
+6 
+8 
+6 
+3 
+1 
+0 
+0 
+0 
+0 
+45 
+0.75 
+36.3 
+0.37 
+150 
+0 
+6 
+3 
+10 
+8 
+7 
+15 
+15 
+15 
+6 
+4 
+1 
+0 
+0 
+90 
+1.49 
+112.9 
+1.14 
+165 
+0 
+6 
+6 
+5 
+5 
+12 
+18 
+24 
+44 
+63 
+42 
+42 
+0 
+0 
+267 
+4.43 
+610 
+6.17 
+180 
+3 
+7 
+7 
+13 
+10 
+10 
+23 
+28 
+91 
+81 
+66 
+43 
+0 
+0 
+382 
+6.33 
+827.1 
+8.37 
+195 
+1 
+9 
+6 
+11 
+9 
+13 
+30 
+33 
+68 
+41 
+11 
+5 
+0 
+0 
+237 
+3.93 
+377.3 
+3.82 
+210 
+1 
+7 
+11 
+13 
+18 
+12 
+28 
+23 
+40 
+21 
+0 
+0 
+0 
+0 
+174 
+2.88 
+212.5 
+2.15 
+225 
+1 
+5 
+10 
+13 
+15 
+12 
+24 
+26 
+26 
+5 
+1 
+0 
+0 
+0 
+138 
+2.29 
+148.3 
+1.5 
+240 
+2 
+5 
+14 
+9 
+16 
+26 
+37 
+19 
+25 
+3 
+0 
+0 
+0 
+0 
+156 
+2.59 
+153.1 
+1.55 
+255 
+2 
+5 
+8 
+9 
+14 
+17 
+42 
+23 
+37 
+4 
+0 
+0 
+0 
+0 
+161 
+2.67 
+176.2 
+1.78 
+270 
+2 
+5 
+11 
+13 
+16 
+16 
+44 
+29 
+37 
+7 
+0 
+0 
+0 
+0 
+180 
+2.98 
+193.3 
+1.96 
+285 
+1 
+8 
+18 
+23 
+18 
+26 
+45 
+47 
+48 
+8 
+1 
+0 
+0 
+0 
+243 
+4.03 
+262 
+2.65 
+300 
+2 
+11 
+17 
+7 
+13 
+23 
+61 
+57 
+73 
+16 
+1 
+0 
+0 
+0 
+281 
+4.66 
+342 
+3.46 
+315 
+1 
+2 
+18 
+28 
+14 
+28 
+70 
+81 
+102 
+12 
+4 
+1 
+0 
+0 
+361 
+5.98 
+441.3 
+4.46 
+330 
+3 
+4 
+7 
+19 
+23 
+32 
+82 
+79 
+151 
+65 
+14 
+6 
+0 
+0 
+485 
+8.04 
+729.1 
+7.38 
+345 
+2 
+13 
+4 
+18 
+21 
+35 
+88 
+79 
+252 
+180 
+63 
+31 
+0 
+0 
+786 
+13.03 
+1462.9 
+14.8 
+SUM (#) 
+39 
+143 
+201 
+279 
+293 
+374 
+817 
+740 
+1495 
+981 
+426 
+244 
+0 
+0 
+6032 
+100 
+9884.4 
+100 
+SUM (%) 
+0.65 
+2.37 
+3.33 
+4.63 
+4.86 
+6.2 
+13.54 
+12.27 
+24.78 
+16.26 
+7.06 
+4.05 
+0 
+0 
+100 
+ 
+ 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+32 
+Tabell 6: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 15 meters dyp ved Slønga i 
+perioden 27.06.–08.08.2022. Antall målinger og prosent av antall målinger, samt fluks (m3/m2/døgn) og prosentvis fluks 
+for hver 15° sektor er presentert. 
+15 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 
+100 
+# 
+% 
+m3/m2/døgn 
+% 
+0 
+5 
+9 
+23 
+15 
+40 
+46 
+101 
+120 
+287 
+250 
+143 
+30 
+0 
+0 
+1069 
+17.72 
+2043.5 
+25.35 
+15 
+2 
+4 
+14 
+24 
+16 
+32 
+70 
+62 
+172 
+142 
+74 
+26 
+0 
+0 
+638 
+10.58 
+1199.9 
+14.89 
+30 
+4 
+8 
+18 
+17 
+24 
+18 
+27 
+23 
+59 
+39 
+9 
+2 
+0 
+0 
+248 
+4.11 
+340.8 
+4.23 
+45 
+5 
+13 
+13 
+13 
+9 
+15 
+21 
+13 
+10 
+1 
+0 
+0 
+0 
+0 
+113 
+1.87 
+89.5 
+1.11 
+60 
+3 
+9 
+12 
+14 
+10 
+9 
+17 
+2 
+4 
+0 
+0 
+0 
+0 
+0 
+80 
+1.33 
+53.7 
+0.67 
+75 
+4 
+9 
+7 
+12 
+8 
+8 
+9 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+63 
+1.04 
+38.8 
+0.48 
+90 
+6 
+8 
+7 
+7 
+5 
+8 
+9 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+51 
+0.85 
+27.8 
+0.34 
+105 
+1 
+12 
+14 
+8 
+5 
+10 
+17 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+71 
+1.18 
+45.4 
+0.56 
+120 
+2 
+5 
+9 
+7 
+3 
+9 
+6 
+6 
+3 
+0 
+0 
+0 
+0 
+0 
+50 
+0.83 
+35 
+0.43 
+135 
+2 
+6 
+15 
+13 
+10 
+12 
+21 
+17 
+11 
+2 
+0 
+0 
+0 
+0 
+109 
+1.81 
+94.7 
+1.17 
+150 
+2 
+10 
+14 
+14 
+22 
+18 
+27 
+26 
+31 
+16 
+3 
+0 
+0 
+0 
+183 
+3.03 
+205.5 
+2.55 
+165 
+8 
+5 
+11 
+20 
+28 
+11 
+38 
+34 
+47 
+23 
+10 
+1 
+0 
+0 
+236 
+3.91 
+298.2 
+3.7 
+180 
+3 
+12 
+15 
+18 
+23 
+19 
+50 
+40 
+61 
+27 
+5 
+3 
+0 
+0 
+276 
+4.58 
+346.9 
+4.3 
+195 
+3 
+7 
+17 
+29 
+20 
+27 
+26 
+25 
+30 
+7 
+2 
+0 
+0 
+0 
+193 
+3.2 
+189.3 
+2.35 
+210 
+3 
+12 
+24 
+19 
+20 
+20 
+38 
+19 
+21 
+2 
+0 
+0 
+0 
+0 
+178 
+2.95 
+151.3 
+1.88 
+225 
+4 
+11 
+18 
+29 
+30 
+22 
+32 
+27 
+14 
+0 
+0 
+0 
+0 
+0 
+187 
+3.1 
+150.5 
+1.87 
+240 
+2 
+18 
+19 
+31 
+20 
+24 
+52 
+17 
+12 
+5 
+1 
+0 
+0 
+0 
+201 
+3.33 
+166.9 
+2.07 
+255 
+10 
+5 
+21 
+20 
+18 
+35 
+34 
+22 
+9 
+2 
+0 
+0 
+0 
+0 
+176 
+2.92 
+141 
+1.75 
+270 
+3 
+14 
+19 
+26 
+27 
+20 
+37 
+19 
+18 
+0 
+0 
+0 
+0 
+0 
+183 
+3.03 
+147.8 
+1.83 
+285 
+3 
+10 
+14 
+23 
+28 
+21 
+27 
+30 
+25 
+2 
+0 
+0 
+0 
+0 
+183 
+3.03 
+166.9 
+2.07 
+300 
+2 
+8 
+12 
+27 
+19 
+33 
+45 
+20 
+27 
+2 
+0 
+0 
+0 
+0 
+195 
+3.23 
+177.2 
+2.2 
+315 
+7 
+8 
+17 
+18 
+25 
+28 
+55 
+35 
+33 
+5 
+1 
+0 
+0 
+0 
+232 
+3.85 
+229.2 
+2.84 
+330 
+3 
+10 
+22 
+29 
+35 
+25 
+73 
+65 
+114 
+28 
+9 
+0 
+0 
+0 
+413 
+6.85 
+518.1 
+6.43 
+345 
+4 
+8 
+26 
+28 
+34 
+28 
+83 
+91 
+191 
+133 
+60 
+18 
+0 
+0 
+704 
+11.67 
+1201.9 
+14.91 
+SUM (#) 
+91 
+221 
+381 
+461 
+479 
+498 
+915 
+720 
+1183 
+686 
+317 
+80 
+0 
+0 
+6032 
+100 
+8059.8 
+100 
+SUM (%) 
+1.51 
+3.66 
+6.32 
+7.64 
+7.94 
+8.26 
+15.17 
+11.94 
+19.61 
+11.37 
+5.26 
+1.33 
+0 
+0 
+100 
+ 
+ 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+33 
+Tabell 7: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 35 meters dyp ved Slønga i 
+perioden 27.06.–08.08.2022. Antall målinger og prosent av antall målinger, samt fluks (m3/m2/døgn) og prosentvis fluks 
+for hver 15° sektor er presentert. 
+35 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 
+100 
+# 
+% 
+m3/m2/døgn 
+% 
+0 
+5 
+22 
+22 
+24 
+31 
+25 
+43 
+40 
+52 
+39 
+25 
+0 
+0 
+0 
+328 
+5.45 
+428.5 
+6 
+15 
+4 
+8 
+15 
+14 
+25 
+23 
+61 
+70 
+208 
+156 
+48 
+4 
+0 
+0 
+636 
+10.57 
+1120.4 
+15.68 
+30 
+1 
+6 
+16 
+22 
+34 
+24 
+90 
+121 
+247 
+90 
+19 
+2 
+0 
+0 
+672 
+11.16 
+1030.4 
+14.42 
+45 
+4 
+5 
+12 
+27 
+43 
+44 
+91 
+108 
+132 
+20 
+0 
+0 
+0 
+0 
+486 
+8.07 
+591.6 
+8.28 
+60 
+4 
+9 
+11 
+27 
+27 
+26 
+54 
+34 
+28 
+2 
+0 
+0 
+0 
+0 
+222 
+3.69 
+207.6 
+2.91 
+75 
+1 
+4 
+11 
+17 
+28 
+24 
+19 
+11 
+5 
+0 
+0 
+0 
+0 
+0 
+120 
+1.99 
+90.4 
+1.27 
+90 
+3 
+10 
+16 
+14 
+13 
+11 
+8 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+77 
+1.28 
+42.4 
+0.59 
+105 
+3 
+10 
+8 
+3 
+7 
+8 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+45 
+0.75 
+23.7 
+0.33 
+120 
+3 
+9 
+3 
+8 
+4 
+3 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+35 
+0.58 
+16.6 
+0.23 
+135 
+3 
+3 
+9 
+11 
+4 
+5 
+6 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+45 
+0.75 
+27 
+0.38 
+150 
+3 
+7 
+8 
+8 
+7 
+14 
+17 
+19 
+15 
+3 
+0 
+0 
+0 
+0 
+101 
+1.68 
+96.3 
+1.35 
+165 
+0 
+7 
+12 
+19 
+11 
+15 
+38 
+57 
+64 
+26 
+1 
+0 
+0 
+0 
+250 
+4.15 
+321.6 
+4.5 
+180 
+5 
+10 
+12 
+19 
+34 
+45 
+103 
+109 
+142 
+29 
+2 
+0 
+0 
+0 
+510 
+8.47 
+635.4 
+8.89 
+195 
+2 
+10 
+20 
+21 
+37 
+41 
+115 
+139 
+142 
+19 
+0 
+0 
+0 
+0 
+546 
+9.07 
+659.9 
+9.24 
+210 
+0 
+8 
+16 
+24 
+26 
+53 
+118 
+135 
+110 
+6 
+0 
+0 
+0 
+0 
+496 
+8.24 
+565.3 
+7.91 
+225 
+1 
+14 
+19 
+28 
+45 
+42 
+104 
+79 
+75 
+6 
+0 
+0 
+0 
+0 
+413 
+6.86 
+428.1 
+5.99 
+240 
+2 
+11 
+12 
+24 
+29 
+39 
+65 
+69 
+76 
+1 
+0 
+0 
+0 
+0 
+328 
+5.45 
+350.9 
+4.91 
+255 
+1 
+16 
+18 
+13 
+18 
+30 
+33 
+13 
+38 
+0 
+0 
+0 
+0 
+0 
+180 
+2.99 
+165.6 
+2.32 
+270 
+3 
+22 
+12 
+21 
+24 
+17 
+12 
+12 
+4 
+0 
+0 
+0 
+0 
+0 
+127 
+2.11 
+83.1 
+1.16 
+285 
+2 
+4 
+13 
+14 
+13 
+16 
+4 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+72 
+1.2 
+45.7 
+0.64 
+300 
+1 
+9 
+10 
+16 
+7 
+10 
+8 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+63 
+1.05 
+35.5 
+0.5 
+315 
+6 
+13 
+10 
+11 
+10 
+6 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+68 
+1.13 
+34.7 
+0.49 
+330 
+4 
+13 
+10 
+12 
+13 
+12 
+12 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+83 
+1.38 
+51.2 
+0.72 
+345 
+2 
+7 
+15 
+14 
+16 
+15 
+29 
+6 
+12 
+0 
+0 
+0 
+0 
+0 
+116 
+1.93 
+92 
+1.29 
+SUM (#) 
+63 
+237 
+310 
+411 
+506 
+548 
+1052 
+1043 
+1351 
+397 
+95 
+6 
+0 
+0 
+6019 
+100 
+7143.9 
+100 
+SUM (%) 
+1.05 
+3.94 
+5.15 
+6.83 
+8.41 
+9.1 
+17.48 
+17.33 
+22.45 
+6.6 
+1.58 
+0.1 
+0 
+0 
+100 
+ 
+ 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+34 
+Tabell 8: Fordeling av antall strømregistreringer i hastighetsgrupper for hver 15° sektor på 48 meters dyp ved Slønga i 
+perioden 27.06.–08.08.2022. Antall målinger og prosent av antall målinger, samt fluks (m3/m2/døgn) og prosentvis fluks 
+for hver 15° sektor er presentert. 
+48 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 
+100 
+# 
+% 
+m3/m2/døgn 
+% 
+0 
+10 
+22 
+39 
+27 
+35 
+25 
+51 
+34 
+18 
+1 
+0 
+0 
+0 
+0 
+262 
+4.35 
+202.1 
+3.15 
+15 
+10 
+15 
+27 
+43 
+38 
+38 
+93 
+91 
+99 
+5 
+0 
+0 
+0 
+0 
+459 
+7.63 
+480.5 
+7.49 
+30 
+4 
+12 
+22 
+29 
+29 
+38 
+95 
+64 
+58 
+5 
+0 
+0 
+0 
+0 
+356 
+5.91 
+363.5 
+5.67 
+45 
+1 
+18 
+26 
+16 
+38 
+28 
+62 
+34 
+48 
+9 
+0 
+0 
+0 
+0 
+280 
+4.65 
+277.1 
+4.32 
+60 
+12 
+11 
+21 
+8 
+15 
+10 
+41 
+27 
+46 
+15 
+0 
+0 
+0 
+0 
+206 
+3.42 
+225.1 
+3.51 
+75 
+4 
+9 
+17 
+3 
+6 
+8 
+6 
+6 
+15 
+2 
+0 
+0 
+0 
+0 
+76 
+1.26 
+64.6 
+1.01 
+90 
+14 
+19 
+8 
+10 
+7 
+6 
+0 
+1 
+3 
+1 
+0 
+0 
+0 
+0 
+69 
+1.15 
+30.8 
+0.48 
+105 
+6 
+10 
+1 
+9 
+4 
+2 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+34 
+0.56 
+13.8 
+0.22 
+120 
+4 
+8 
+17 
+12 
+9 
+6 
+7 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+68 
+1.13 
+37.3 
+0.58 
+135 
+6 
+15 
+17 
+19 
+27 
+22 
+45 
+30 
+11 
+0 
+0 
+0 
+0 
+0 
+192 
+3.19 
+153.6 
+2.39 
+150 
+12 
+23 
+16 
+36 
+36 
+34 
+69 
+55 
+41 
+0 
+0 
+0 
+0 
+0 
+322 
+5.35 
+288.5 
+4.5 
+165 
+3 
+15 
+23 
+23 
+30 
+42 
+85 
+63 
+97 
+8 
+0 
+0 
+0 
+0 
+389 
+6.46 
+423.9 
+6.61 
+180 
+19 
+26 
+25 
+34 
+43 
+35 
+74 
+121 
+246 
+54 
+4 
+0 
+0 
+0 
+681 
+11.31 
+892.1 
+13.91 
+195 
+9 
+16 
+27 
+51 
+32 
+25 
+66 
+101 
+280 
+67 
+4 
+0 
+0 
+0 
+678 
+11.26 
+943.3 
+14.71 
+210 
+7 
+26 
+28 
+19 
+17 
+19 
+56 
+101 
+311 
+138 
+4 
+0 
+0 
+0 
+726 
+12.06 
+1143.5 
+17.83 
+225 
+10 
+22 
+23 
+30 
+17 
+13 
+34 
+40 
+96 
+46 
+2 
+0 
+0 
+0 
+333 
+5.53 
+426.1 
+6.64 
+240 
+8 
+21 
+25 
+32 
+12 
+14 
+23 
+10 
+12 
+5 
+0 
+0 
+0 
+0 
+162 
+2.69 
+116.8 
+1.82 
+255 
+3 
+16 
+25 
+23 
+20 
+6 
+10 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+105 
+1.74 
+53.9 
+0.84 
+270 
+12 
+38 
+12 
+19 
+15 
+7 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+108 
+1.79 
+42.7 
+0.67 
+285 
+4 
+32 
+27 
+13 
+15 
+3 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+96 
+1.59 
+37.1 
+0.58 
+300 
+6 
+18 
+32 
+19 
+10 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+87 
+1.45 
+33.5 
+0.52 
+315 
+10 
+17 
+19 
+21 
+12 
+6 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+88 
+1.46 
+37.3 
+0.58 
+330 
+4 
+23 
+34 
+13 
+9 
+8 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+96 
+1.59 
+41.1 
+0.64 
+345 
+4 
+23 
+28 
+24 
+22 
+13 
+19 
+8 
+3 
+0 
+0 
+0 
+0 
+0 
+144 
+2.39 
+84.9 
+1.32 
+SUM (#) 
+182 
+455 
+539 
+533 
+498 
+410 
+850 
+795 
+1385 
+356 
+14 
+0 
+0 
+0 
+6017 
+100 
+6413.1 
+100 
+SUM (%) 
+3.02 
+7.56 
+8.95 
+8.86 
+8.27 
+6.81 
+14.12 
+13.21 
+23.01 
+5.91 
+0.23 
+0 
+0 
+0 
+100 
+ 
+ 
+1547-8-22S SLØNGA 
+AQUA KOMPETANSE AS 
+35 
+ 
+Overflate (0 meter): 
+Blåse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ca. 5 meter over instrument:  
+3 x oppdriftskule 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ca. 25 meters dyp:  
+Aquadopp Profiler AQK80 
+ 
+Ca. 5 meter over instrument: 
+1 x oppdriftskule 
+ 
+ 
+ 
+ 
+Ca. 34 meters dyp:  
+Aquadopp Current Meter AQK19 
+ 
+ 
+ 
+Ca. 5 meter over instrument: 
+1 x oppdriftskule 
+ 
+ 
+ 
+Ca. 48 meters dyp:  
+Aquadopp Current Meter AQK45 
+ 
+ 
+ 
+Bunn (ca. 49 meter):  
+Anker/lodd 
+Vedlegg A – riggtegning 
+ 
+ 
+Figur 
+A.1: 
+Veiledende 
+riggtegning 
+for 
+instrumentriggen brukt ved Slønga. Avvik kan 
+forekomme.

@@ -1,0 +1,2654 @@
+﻿| 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport 
+Utarbeidet av akkreditert enhet DNV GL Business Assurance AS 
+Anlegg ved lok. Vindvika reg. nr. 19235 
+Posisjon: 67.31.997N / 015.09.986Ø 
+Pålitelighetsklasse 2 
+For Marine Harvest Norway AS 
+Utarbeidet av: Odd-Børre Eidnes 
+Kontroll: Olve Vangdal 
+Rapport nr: 
+FR-100217-1-OBE-ANLEGG-VINDVIKA 
+Godkjent 
+13.02.17 
+ 
+2 
+ 
+ 
+ 
+1 
+Fortøyningsrapport 
+10.02.17 
+ 
+Versjon 
+Utført 
+ Dato  
+ Signatur  
+ 
+ 
+Fortøyningsanalyserapport  
+2
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Oversikt over fortøyningssystem på lokalitet med piler som viser retning for høyeste 
+miljølaster 
+ 
+Figur 1. Illustrasjon av fortøyningssystem. 
+Sammendrag:  
+Det er utført en fortøyningsanalyse over anlegget til Marine Harvest Norway AS 
+ved lokaliteten Vindvika. Fortøyningssystemet består av rammefortøyning med 4 
+x 2 bur og 17 fortøyningsliner. Analysen er basert på input som er mottatt fra 
+kunde og resultatene fremkommer i tabell 2.1- 2.4. Rapporten fra denne 
+fortøyningsanalysen er representativ for utlagt anlegg. 
+Fortøyningssystemet påvirkes av høyeste miljølaster fra nordøst-øst og vest og 
+det oppstår høyest laster i fortøyningssystemet med miljølaster fra disse 
+retningene. Høyeste last i intakt tilstand oppstår i fortøyningsline 15 med 16.1 
+tonn, hanefot/innfestning til merd B og H med 6.0 tonn og ramme 2 med 12.0 
+tonn. I ulykkesgrensetilstand oppstår høyeste last i fortøyningsline 15 med 19.2 
+tonn, hanefot/innfestning til merd H med 9.6 tonn og ramme 11 med 11.4 tonn. 
+Kapasitetsvurdering på tau og kjetting er gjort ut fra materialfaktor til 
+komponentene i intakt- og ulykkesgrensetilstand og er beregnet ut fra krav til 
+MBL. Resultatene viser at alle komponentene (se tabell 1.7) som er benyttet i 
+analyse har tilstrekkelig kapasitet med høyest utnyttelse i fortøyningsline 15 med 
+71 %, hanefot/innfestningstau til merd H med 45 % og ramme 2 med 98 %. 
+Det er analysert med linebrudd i flere komponenter og ved brudd i vurderte 
+komponenter kan det oppstå noe deformasjon av ramme og flytekrager (se tabell 
+1.8 for risikovurdering). 
+Utmattingsberegning dokumenterer at levetiden til kjetting, som er angitt i 
+fortøyningssystemet, er iht. kravene i NS 9415:2009 (se kapittel 2.2).  Se 
+forøvrig tabeller i kapittel 1 for grunnlagsdata som er benyttet i 
+fortøyningsanalysen. 
+Miljølaster fra N-Ø:  
+50 års strøm mot 285°/195°: 
+5 m= 0.43 m/s, 15 m= 0.50 m/s 
+50 års Vind & bølge fra 0°: 
+U10 = 27 m/s, Hs = 1.4 m, Tp = 3.5 s 
+Miljølaster fra V-NV:  
+50 års strøm mot 120°/120°:  
+5 m= 0.43 m/s, 15 m= 0.43 m/s 
+50 års Vind & bølge fra 315°: 
+U10 = 27 m/s, Hs = 1.3 m, Tp = 3.3 s 
+ 
+ 
+Fortøyningsanalyserapport  
+3
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Innhold 
+ 
+1.0 Grunnlag i design og analyse for 
+fortøyningssystem. .............................................. 4 
+1.1 Formål ............................................................. 4 
+1.2 Miljølaster som er benyttet i fortøyningsanalyse .... 4 
+1.3 Arrangement og analyse .................................... 4 
+1.4 Linelengder og bunnfester – generelt ................... 7 
+1.5 Ulykkesgrensetilstand ........................................ 9 
+1.6 Beregningsverktøy .......................................... 10 
+1.7 Lastkombinasjoner .......................................... 11 
+2.0 Komponentkrav til fortøyningsutstyr ........... 12 
+2.1 Resultater intakt- og ulykkesgrensetilstand ........ 12 
+2.2 Kommentarer ................................................. 15 
+2.3 Utmatting ....................................................... 18 
+3.0 AquaSim modeller ........................................ 20 
+3.1 Intakt system ................................................. 20 
+3.2 Ulykkesgrensetilstand ...................................... 22 
+4.0 Til kunde og leverandør av komponenter ..... 26 
+5.0 Referanse .................................................... 28 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+4
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+1.0 Grunnlag i design og analyse for 
+fortøyningssystem. 
+1.1 Formål 
+Analysen gjøres for å få frem lastene i fortøyningsarrangementet, slik at 
+tverrsnittsdimensjoner og holdekraft i bunnfester kan fastlegges og kontrolleres 
+med nødvendig sikkerhet mot havari iht. NS 9415:2009. 
+1.2 Miljølaster som er benyttet i fortøyningsanalyse 
+Det foreligger en akkreditert lokalitetsrapport som er utført av Noomas 
+Sertifisering AS. Miljølastene fremkommer i henhold til kravene i NS 9415:2009. 
+De høyeste miljølastene (verdier og retninger) som påvirker fortøyningssystemet 
+er oppgitt i figur 1 og tabell 1.11. 
+Vindhastighetsverdien er satt lik 10 min middel ved 10 moh, som representativ 
+verdi for kastvinden ved 1 moh. Valgte lastdata og retninger er vurdert å være 
+dekkende for de dimensjonerende lasttilfellene.   
+1.3 Arrangement og analyse 
+Fortøyningsarrangementet er designet av kunde. Linearrangement er vist i figur 
+1. Fortøyningssystemet er analysert både i intakt- og ulykkesgrensetilstand og er 
+utført i henhold til kravene i NS 9415:2009. 
+Rapport fra denne fortøyningsanalysen er representativ for utlagt 
+fortøyningssystem. Hvis utlagt fortøyningssystem avviker fra krav oppstilt i 
+fortøyningsanalysen skal DNV GL kontaktes (NYTEK § 19). Gyldigheten av 
+akkreditert fortøyningsanalyse forutsetter at alle forbehold blir fulgt. DNV GL skal 
+ha tilbakemelding fra kunde om at faktisk utlagte fortøyninger stemmer med 
+fortøyningssystemet som er satt opp i analysen. DNV GL vurderer om faktisk 
+utlagt fortøyning og fortøyningsanalyse samsvarer. 
+Tabell 1.1 Hjørneposisjoner til anlegg  
+Posisjon Nord Posisjon Øst 
+67.31.961 
+15.09.803 
+67.32.033 
+15.09.810 
+67.32.033 
+15.10.173 
+67.31.965 
+15.10.165 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+5
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Tabell 1.2 Posisjoner for bunnfester 
+Line nr. 
+Posisjon Nord 
+Posisjon Øst 
+1 
+67.31.933 
+15.09.663 
+2 
+67.31.903 
+15.09.839 
+3 
+67.31.948 
+15.09.540 
+4 
+67.32.218 
+15.08.832 
+5 
+67.32.263 
+15.08.874 
+6 
+67.32.664 
+15.09.611 
+7 
+67.31.899 
+15.09.904 
+8 
+67.32.586 
+15.09.861 
+9 
+67.31.899 
+15.09.989 
+10 
+67.32.575 
+15.09.990 
+11 
+67.31.905 
+15.10.073 
+12 
+67.32.511 
+15.10.152 
+13 
+67.31.918 
+15.10.158 
+14 
+67.31.944 
+15.10.386 
+15 
+67.31.982 
+15.10.440 
+16 
+67.32.038 
+15.10.478 
+17 
+67.32.535 
+15.10.239 
+ 
+Anlegget er orientert mot 89 grader. Flytekragene er fortøyd i en 4 x 2 burs 
+rammefortøyning med burstørrelse på 65 x 65 meter og 7 meter dybde på 
+rammen. For innfestning av flytekrager benyttes det 2 individuelle innfestninger 
+mot koblingsplate som gir totalt 8 innf. pr. flytekrage. Avstand mellom ytterparter 
+i innfestningtau mot flytekrager er ca. 15 meter. 
+ 
+Tabell 1.3 Flytekrager som er benyttet i analysen. 
+Leverandør 
+Antall 
+[stk] 
+Flyterør 
+[stk] 
+Omkrets 
+[m] 
+God-
+tykkelse 
+[mm] 
+Rør-
+dimensjon 
+[mm] 
+Innf.-
+punkt 
+[stk] 
+SDR 
+Akvagroup 
+8 
+2 
+120 
+22.7 
+400 
+8 
+17.6 
+Akvagroup 
+8 
+2 
+90 
+22.7 
+400 
+8 
+17.6 
+Totalt 8 flyterkrager er tillatt i fortøyningssystemet (en pr. bur).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+6
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Tabell 1.4 Not og luseskjørt som er benyttet/vurdert i analysen.   
+Type not 
+Antall 
+[stk] 
+Dybde 
+bunntelne 
+/spiss 
+[m] 
+Halvmaske
+-vidde 
+[mm] 
+Trådnr/ 
+Tråd-
+dimensjon 
+[mm] 
+Soliditet 
+ren/-
+begrodd 
+2Bunnvekt 
+antall/vekt 
+[stk/kg] 
+120m - 
+Smoltnot-
+sylinder med 
+kon bunn 
+8 
+15/26 
+15.5 
+20/1.7 
+0.219/0.329 
+16 x 200 kg 
++ 80 kg 
+spiss 
+1 120 m- 
+Storfisknot-
+sylinder med 
+kon bunn 
+8 
+20/31 
+29 
+36/1.98 
+0.137/0.205 
+16 x 200 kg 
++ 80 kg 
+spiss 
+90 m- 
+Smoltnot-
+sylinder med 
+kon bunn 
+8 
+15/27 
+16 
+24/1.8 
+0.225/0.334 
+16 x 100 kg 
++ 80 kg 
+spiss 
+1Luseskjørt 
+8 
+10 
+1.5 
+0.48 
+0.64/- 
+- 
+1 Analysen baseres på denne type not med luseskjørt siden disse gir høyest last i 
+fortøyningssystemet. Det er lagt inn en soliditet på 0.64 som tilsvarer tett membran.  Loddvekt 
+oppgis som vekt i vann.  
+ 
+Tabell 1.5 Input i ramme og innfestning/haneføtter. 
+Komponent 
+Antall 
+Lengde 
+Materiale 
+Dim 
+Langsgående ramme 
+12 stk. 
+65 m 
+8-sl. Tau 
+48 mm 
+Tversgående ramme 
+10 stk. 
+65 m 
+3-sl. Tau 
+48 mm 
+1Innfestningstau til 
+flytekrager 
+8 x 8 merder 
+ 
+Tilpasset 
+5 m 
+3 sl. Tau 
+Kjetting 
+48 mm 
+19 mm 
+Koblingpunkt 
+15 
+- 
+- 
+12 hull 
+Innf. av bøyer 
+15 
+7 m 
+Kjetting 
+12 mm 
+Se tabell 1.7 for dimensjoner og materialegenskaper på alle komponenter. 
+1 Kjetting benyttes mot koblingsplate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+7
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+1.4 Linelengder og bunnfester – generelt 
+Som utgangspunkt anbefales det linelengder med 3 ganger dybden (gjelder ikke 
+landfester). Ankeret som konstruksjonsdel skal ha en kapasitet på 3 x last i linen 
+(tabell 13, NS 9415:2009). Holdekraften til ankeret og fjellbolt skal overstige den 
+dimensjonerende lasten i linen. Fjellbolt som konstruksjonsdel skal ha en 
+kapasitet på 3 x last i linen. Produsenten skal kunne dokumentere samsvar 
+mellom minste bruddlast/deformasjonslast i henhold til tabell 4 og tabell 13 i NS 
+9415:2009. Klumpfester som konstruksjonsdel skal ha en kapasitet på 3 x last i 
+linen. Holdekraften til klumpfestet skal være minst 2 ganger den 
+dimensjonerende lasten i linen. Det er viktig at ikke vinkel mellom bunn og line 
+overstiger anbefalinger fra leverandør av bunnfester. Kontroller brukerhåndbok 
+fra leverandør av bunnfester. 
+ 
+Tabell 1.6 Input fortøyningsliner. 
+Line 
+Type 
+bunn-
+feste 
+Dybde 
+bunn- 
+feste 
+ 
+[m] 
+Bunn- 
+Kjetting 
+Tau 
+Toppkjetting 
+Retning 
+liner 
+ 
+[mot 
+grader] 
+Line- 
+stigning 
+ 
+[°] 
+Lengde 
+ 
+[m] 
+Type/ 
+dim 
+[mm] 
+Lengde 
+ 
+[m] 
+Type/ 
+dim 
+[mm] 
+Lengde 
+ 
+[m] 
+Type/ 
+dim 
+[mm] 
+1 
+Bolt 
+9 
+27.5 
+22 
+74 
+64 
+10 
+22 
+243 
+1 
+2 
+Bolt 
+11 
+20 
+19 
+70 
+48 
+10 
+19 
+166 
+2 
+3 
+Bolt 
+15 
+27.5 
+22 
+173 
+64 
+10 
+22 
+244 
+2 
+4 
+Anker 
+234 
+55 
+32 
+769 
+64 
+10 
+22 
+300 
+16 
+5 
+Anker 
+246 
+55 
+32 
+759 
+64 
+10 
+22 
+303 
+17 
+6 
+Anker 
+430 
+55 
+32 
+1189 
+48 
+10 
+19 
+353 
+20 
+7 
+Bolt 
+6 
+20 
+19 
+85 
+48 
+10 
+19 
+176 
+0 
+8 
+Anker 
+425 
+55 
+32 
+1042 
+48 
+10 
+19 
+358 
+22 
+9 
+Bolt 
+10 
+20 
+19 
+86 
+48 
+10 
+19 
+178 
+1 
+10 
+Anker 
+411 
+55 
+32 
+1017 
+48 
+10 
+19 
+359 
+22 
+11 
+Bolt 
+10 
+20 
+19 
+75 
+48 
+10 
+19 
+180 
+2 
+12 
+Anker 
+390 
+55 
+32 
+901 
+48 
+10 
+19 
+3 
+23 
+13 
+Bolt 
+9 
+20 
+19 
+50 
+48 
+10 
+19 
+183 
+1 
+14 
+Bolt 
+5 
+27.5 
+22 
+122 
+64 
+10 
+22 
+101 
+-1 
+15 
+Bolt 
+8 
+27.5 
+22 
+156 
+64 
+10 
+22 
+98 
+0 
+16 
+Bolt 
+9 
+27.5 
+22 
+179 
+64 
+10 
+22 
+87 
+1 
+17 
+Anker 
+400 
+37.5 
+22/36 
+946 
+48 
+28 
+19 
+2 
+23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+8
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Tabell 1.7 Materialdata brukt i beregningene  
+Type 
+Diameter 
+[mm] 
+Brudd-
+last 
+[t] 
+E-modul1) 
+[N/m2] 
+Areal2) 
+[m2] 
+Vekt3) 
+[kg/m] 
+Benyttet 
+Tau 8-
+sl. 
+64 
+68.2 
+2.0 E9 
+3.22 E-3 
+2.9 
+Langsgående fortøyninger. 
+Tau 3-
+sl. 
+48 
+42.5 
+2.0 E9 
+1.80 E-3 
+1.6 
+I haneføtter. 
+Tau 3-
+sl. 
+48 
+36.6 
+2.0 E9 
+1.80 E-3 
+1.6 
+Ramme og sidefortøyninger. 
+Kjetting 
+19 
+37.0 
+2.1 E11 
+5.67 E-4 
+6.5 
+I haneføtter, mot 
+koblingspunkt.        
+Toppkjetting i sidefortøyninger 
+og bunnkjetting i 
+fortøyningsline 2,7,9,11,13. 
+Kjetting 
+22 
+49.7 
+ 
+7.62 E-4 
+8.5 
+Toppkjetting i langsgående 
+fortøyningsliner og 
+bunnkjetting i fortøyningsline 
+1,3,14,15,16,17. 
+Kjetting 
+32 
+54.1 
+ 
+1.61 E-3 
+23.8 
+Bunnkjetting i fortøyningsline 
+4,5,6,8,10,12 
+Kjetting 
+36 
+68.5 
+2.1 E11 
+2.04 E-3 
+30.2 
+Bunnkjetting i fortøyningsline 
+17. 
+1)Iht. krav i NS-EN ISO 1346, 1140, 1141 og 10570 for polypropylen. NS-EN 1677-1 til 4 for 
+kjetting. 
+2)Tverrsnittsareal fortøyningskomponent. 
+3)Vekt for tau og kjetting er oppgitt som vekt i luft.  
+Se tabell 1.5, 1.6 og figur 2 for nummerering 
+ 
+ 
+Figur 2. Nummerering av fortøyningsliner, ramme, flytekrager (se også tabell 1.5 og 1.6) 
+og de vurderinger som er gjort av anlegget i ulykkesgrensetilstand (svarte piler angir 
+bruddsteder som er vurdert). 
+ 
+ 
+Fortøyningsanalyserapport  
+9
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+1.5 Ulykkesgrensetilstand 
+Det er gjort vurderinger av ulykkesgrensetilstand opp mot kap. 6.5.6 (NS 
+9415:2009). Tabell 1.8 inneholder de vurderingene som er gjort for 
+fortøyningssystemet. Miljølaster for hver analysert ulykkestilstand er oppgitt i 
+tabell 1.11. 
+Tabell 1.8 Vurdering av ulykkestilstander som inngår i fortøyningsanalysen. 
+Det skal vurderes og 
+dokumenteres følgende: 
+Line nummer eller 
+bruddsted (se figur 
+2) 
+*Risiko ved brudd 
+(liten, middels, 
+høy) 
+Vurdering 
+Brudd i fortøyningsline: 
+ 
+ 
+ 
+Line med størst last 
+Fortøyningsline 15 
+Liten 
+Noe deformasjon 
+av flytekrager kan 
+oppstå. 
+Line med høyest 
+utnyttelsesgrad 
+Rammestrekk 2 
+Liten 
+OK 
+Brudd i line som er kritisk for 
+styrke i det flytende 
+oppdrettsanlegget, spesielt 
+flytekragene. 
+Rammestrekk 12 
+Liten 
+Forhøyet last i 
+hanefot ved brudd i 
+ramme. 
+Brudd i koblingspunkt, for 
+eksempel koblingsplate 
+Mot ramme 2 og 12 
+Liten 
+Forhøyet last i 
+hanefot ved brudd i 
+ramme. 
+Brudd i line som er kritisk for 
+posisjonering av 
+enkeltstående eller gruppe av 
+merder med felles fortøyning, 
+der forflytning kan føre til 
+skade på tilstøtende merder. 
+Ingen liner utpeker seg 
+som kritisk 
+Liten 
+OK 
+Før opp flere bruddsteder hvis 
+dette er vurdert 
+Fortøyningsline 1, 3 og 
+16. Hanefot merd H 
+ 
+Liten 
+Noe deformasjon 
+av flytekrager kan 
+oppstå. 
+Punktering, bortfall eller tap 
+av flytedeler (bøyer, 
+pongtonger) 
+Vurdert 
+Liten 
+Relativt lave 
+vertikale laster. 
+Progressivt brudd og båtanløp. 
+Vurdert 
+Vannstandsheving 
+Vurdert 
+Nedising 
+Vurdert 
+*Ref. NS9415:2009 tillegg F. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+10
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+1.6 Beregningsverktøy 
+Analysen er gjort med beregningsprogrammet AquaSim v. 2.12.0-0781 og 
+baseres på regulær og irregulær sjø. AquaSim er en programpakke bestående av 
+primært tre deler: AquaEdit, AquaBase og AquaView. I AquaEdit tegnes modeller i 
+3D og legges i ulike komponentgrupper med mål angitt fra prosjekteringen. 
+Modeller blir koblet sammen av noder og elementer og egenskaper til de ulike 
+komponentgrupper defineres med material karakteristikker fra prosjekteringen. 
+Videre angis miljølaster i henhold til lokalitetsrapport for gitt lokalitet og analysen 
+kan starte. Etter at analysen er ferdig, åpnes kjørefiler i AquaView hvor 
+nødvendige maks verdier tas ut fra hver komponentgruppe og lastkombinasjon. 
+Konvergensfilen (Conv.txt) blir rutinemessig gjennomgått for å få oversikt over 
+alle stegene som er kjørt i analysen. Fra første til siste steg kan man lese av hvor 
+mange iterasjoner som har blitt brukt før man går til neste steg, og det blir 
+kontrollert at alle stegene oppnår konvergens. Alle resultater oppsummeres i 
+tabell 2.1- 2.4. 
+Analyser er utført med tidssimulering og egenskaper som beskrevet i tabell 1.9. 
+Analysen beregner først statisk likevekt av konstruksjonen uten strøm og bølger. 
+I de neste 5 initielle steg påføres strøm til den er fullt utviklet. Videre påføres en 
+bølge hvor bølgehøyden øker lineært til en fullt utviklet bølge i løpet av en 
+bølgeperiode. Påfølgende bølge inn i konstruksjonen har fullt utviklet amplitude i 
+henhold til det som er angitt i lasttilfellet. For øvrig informasjon om 
+programvare/system henvises det til brukermanualer til AquaSim. 
+Tabell 1.9 Input i AquaSim 
+Antall steg, påføring av strøm 
+Antall fullt utviklet bølger 
+Antall steg per bølge 
+5 
+2 
+20 
+Egenskaper 
+Input AquaBase 
+E-modul flytekrage 
+9.0 E8 N/m2 
+G-modul flytekrage 
+3.46 E8 N/m2 
+Current reduction type 
+Initial shape 
+Load type net 
+M1 
+Pretension net 
+0.005 
+ 
+Tabell 1.10 Materialfaktorer (ref. NS 9415:2009 Tabell 13)  
+Type tau/komponenter 
+Materialfaktor  
+Syntetisk tau 
+3.0 
+Syntetisk tau med knute 
+5.0 
+Kjetting og kjettingskomponenter 
+2.0 
+Brukt kjetting 
+5.0 
+Koblingsplater og andre koblingspunkter av stål 
+1.5 1) 
+Sjakler 
+2.0 
+Klumpfester, se kap. 11.3.6.4 NS 9415:2009 
+2.0 x dimensjonerende last 
+Anker, se kap. 11.3.6.2 NS 9415:2009 
+Overstige den dimensjonerende kraft 
+Fjellbolter og andre bunnfester 
+3.0 
+Materialfaktoren ved linebrudd er materialfaktoren her, dividert på 1.5 
+1) Første flyt 
+ 
+ 
+Fortøyningsanalyserapport  
+11
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+1.7 Lastkombinasjoner 
+De gjeldende miljølastene på lokaliteten er analysert fra 8 retninger med 
+kombinasjoner av 10 års bølger/50 års strøm (kombinasjon 1) og 50 års 
+bølger/10 års strøm (kombinasjon 2). Ulykkestilstander er vurdert med oppgitte 
+miljøtilstander. 
+Tabell 1.11 Anlegget er analysert i følgende tilstander og med sammenfallende 
+laster som fremgår under: 
+Tilstand 
+Miljølaster 
+fra 
+Hs 
+Tp 
+U10 
+5 meter 
+15 meter 
+Retning 
+[m] 
+[s] [m/s] [m/s] 
+[gra-
+der] 
+[m/s] 
+[gra-
+der] 
+Kombinasjon 1 
+N 
+0 
+1.2 
+3.4 
+25 
+0.33 
+195 
+0.5 
+195 
+" 
+NØ 
+45 
+1.2 
+3.3 
+25 
+0.33 
+210 
+0.43 
+210 
+" 
+Ø 
+90 
+0.7 
+2.3 
+25 
+0.43 
+285 
+0.47 
+270 
+" 
+SØ 
+135 
+0.4 
+1.4 
+27 
+0.33 
+300 
+0.37 
+315 
+" 
+S 
+180 
+0.2 
+1.1 
+25 
+0.27 
+345 
+0.4 
+0 
+" 
+SV 
+225 
+0.6 
+1.9 
+27 
+0.3 
+45 
+0.37 
+45 
+" 
+V 
+270 
+1.0 
+2.9 
+27 
+0.4 
+105 
+0.43 
+75 
+" 
+NV 
+315 
+1.1 
+3.2 
+25 
+0.43 
+120 
+0.43 
+120 
+Kombinasjon 2 
+N 
+0 
+1.4 
+3.5 
+27 
+0.17 
+195 
+0.25 
+195 
+" 
+NØ 
+45 
+1.3 
+3.4 
+27 
+0.17 
+210 
+0.21 
+210 
+" 
+Ø 
+90 
+0.8 
+2.4 
+27 
+0.21 
+285 
+0.23 
+270 
+" 
+SØ 
+135 
+0.4 
+1.5 
+30 
+0.17 
+300 
+0.18 
+315 
+" 
+S 
+180 
+0.3 
+1.2 
+27 
+0.13 
+345 
+0.2 
+0 
+" 
+SV 
+225 
+0.6 
+2 
+30 
+0.15 
+45 
+0.18 
+45 
+" 
+V 
+270 
+1.2 
+3 
+30 
+0.2 
+105 
+0.21 
+75 
+" 
+NV 
+315 
+1.3 
+3.3 
+27 
+0.21 
+120 
+0.21 
+120 
+Brudd fort. Line 1 
+SV 
+225 
+0.6 
+1.9 
+27 
+0.3 
+45 
+0.37 
+45 
+Brudd fort. Line 3 
+V 
+270 
+1.0 
+2.9 
+27 
+0.4 
+105 
+0.43 
+75 
+Brudd fort. Line 15 
+Ø 
+90 
+0.7 
+2.3 
+25 
+0.43 
+285 
+0.47 
+270 
+Brudd fort. Line 16 
+NØ 
+45 
+1.2 
+3.3 
+25 
+0.33 
+210 
+0.43 
+210 
+Brudd ramme 2 
+NV 
+315 
+1.1 
+3.2 
+25 
+0.43 
+120 
+0.43 
+120 
+Brudd ramme 12 
+NØ 
+45 
+1.2 
+3.3 
+25 
+0.33 
+210 
+0.43 
+210 
+Brudd hanefot H 
+N 
+0 
+1.2 
+3.4 
+25 
+0.33 
+195 
+0.5 
+195 
+Utmatting 19 mm 
+kjetting 
+N 
+0 
+1.2 
+3.4 
+25 
+0.33 
+195 
+0.5 
+195 
+Utmatting 22 mm 
+kjetting 
+NØ 
+45 
+1.2 
+3.3 
+25 
+0.33 
+210 
+0.43 
+210 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+12
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+2.0 Komponentkrav til fortøyningsutstyr 
+2.1 Resultater intakt- og ulykkesgrensetilstand 
+Tabell 2.1a Laster i intakt- og ulykkesgrensetilstand, dimensjonerende last i 
+ramme. 
+Kompo-
+nent (se 
+figur 2)   
+Last i 
+statisk 
+tilstan
+d 
+ 
+ 
+[t] 
+Intakt tilstand 
+Ulykkesgrensetilstand 
+Utnyttet  
+Vurdering 
+kapasitet  
+Last i 
+linen 
+[t] 
+MBL 
+tau 
+ 
+[t] 
+Inkl. 
+3.0 
+MBL 
+Kjetting 
+[t] 
+Inkl. 
+2.0 
+MBL 
+kobl.pl 
+[t] 
+Inkl. 
+1.5 
+Last i 
+linen 
+[t] 
+MBL 
+tau 
+[t] 
+Inkl. 
+2.0 
+MBL 
+Kjetting 
+[t] 
+Inkl. 
+1.3 
+MBL 
+kobl.pl 
+[t] 
+Inkl. 
+1.0 
+Tau 
+ 
+[%
+] 
+Kjett-
+ing 
+ 
+[%] 
+Ramme 
+tvers 
+1.4 
+4.0 
+12.0 
+8.0 
+6.0 
+7.3 
+14.7 
+9.8 
+7.3 
+40 
+- 
+OK 
+Ramme 1 
+0.5 
+6.7 
+20.0 
+13.3 
+10.0 
+8.1 
+16.2 
+10.8 
+8.1 
+55 
+- 
+OK 
+Ramme 2  
+1.1 
+12.0 
+36.0 
+24.0 
+18.0 
+7.8 
+15.6 
+10.4 
+7.8 
+98 
+- 
+OK 
+Ramme 3 
+0.8 
+6.0 
+18.0 
+12.0 
+9.0 
+5.5 
+10.9 
+7.3 
+5.5 
+49 
+- 
+OK 
+Ramme 4 
+0.6 
+4.5 
+13.4 
+8.9 
+6.7 
+4.9 
+9.9 
+6.6 
+4.9 
+37 
+- 
+OK 
+Ramme 5 
+1.0 
+7.3 
+21.8 
+14.6 
+10.9 
+5.4 
+10.8 
+7.1 
+5.4 
+60 
+- 
+OK 
+Ramme 6 
+0.8 
+5.3 
+16.0 
+10.7 
+8.0 
+5.6 
+11.2 
+7.4 
+5.6 
+44 
+- 
+OK 
+Ramme 7 
+0.6 
+5.3 
+15.9 
+10.6 
+8.0 
+6.0 
+12.0 
+8.0 
+6.0 
+43 
+- 
+OK 
+Ramme 8 
+1.0 
+5.9 
+17.6 
+11.7 
+8.8 
+7.4 
+14.8 
+9.9 
+7.4 
+48 
+- 
+OK 
+Ramme 9 
+0.8 
+6.9 
+20.6 
+13.7 
+10.3 
+6.4 
+12.7 
+8.5 
+6.4 
+56 
+- 
+OK 
+Ramme 10 
+0.6 
+8.2 
+24.7 
+16.5 
+12.4 
+9.9 
+19.9 
+13.2 
+9.9 
+68 
+- 
+OK 
+Ramme 11 
+0.9 
+9.7 
+29.0 
+19.4 
+14.5 
+11.4 
+22.7 
+15.1 
+11.4 
+79 
+- 
+OK 
+Ramme 12 
+0.8 
+8.3 
+24.8 
+16.5 
+12.4 
+9.2 
+18.3 
+12.2 
+9.2 
+68 
+- 
+OK 
+Rød skrift er dimensjonerende last og krav til MBL for fortøyningskomponentene.   
+Begroing av fortøyninger vil føre til økte vertikallaster og er ikke tatt med i analyse.  
+Celler merket (-) har ikke denne type bestanddel.  
+Last i line er oppgitt med en lastfaktor på 1.15 (intakt tilstand) og 1.0 i ulykkesgrensetilstand.  
+Fortøyningskomponenter benyttet i fortøyningsarrangementet skal ha tilstrekkelig kapasitet 
+jmf. laster i tabell 2.1 (se også tabell 1.5 og figur 1 og 2) og dimensjonerende brukstid for 
+komponentene skal være definert for hver fortøyningskomponent. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+13
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Tabell 2.1b Laster i intakt- og ulykkesgrensetilstand, dimensjonerende last i 
+hanefot/innfestninger til flytekrager. 
+Kompo-
+nent  
+(se figur 
+2)   
+Last i 
+statisk 
+tilstand 
+ 
+ 
+[t] 
+Intakt tilstand 
+Ulykkesgrensetilstand 
+Utnyttet  
+Vurdering 
+kapasitet  
+Last i 
+linen 
+[t] 
+MBL 
+tau 
+ 
+[t] 
+Inkl. 
+3.0 
+MBL 
+Kjett-
+ing 
+[t] 
+Inkl. 
+2.0 
+MBL 
+kobl. 
+pl 
+[t] 
+Inkl. 
+1.5 
+Last  
+i  
+linen 
+[t] 
+MBL 
+tau 
+[t] 
+Inkl. 
+2.0 
+MBL 
+Kjett-
+ing 
+[t] 
+Inkl. 
+1.3 
+MBL 
+kobl.pl 
+[t] 
+Inkl. 
+1.0 
+Tau 
+ 
+[%] 
+Kjett
+-ing 
+ 
+[%] 
+Hanefot A 
+0.1 
+5.3 
+16.0 
+10.7 
+8.0 
+6.2 
+12.4 
+8.2 
+6.2 
+38 
+29 
+OK 
+Hanefot B 
+0.1 
+6.0 
+17.9 
+11.9 
+9.0 
+6.7 
+13.4 
+8.9 
+6.7 
+42 
+32 
+OK 
+Hanefot C 
+0.1 
+3.5 
+10.4 
+6.9 
+5.2 
+3.2 
+6.3 
+4.2 
+3.2 
+25 
+19 
+OK 
+Hanefot D 
+0.1 
+5.0 
+15.0 
+10.0 
+7.5 
+4.6 
+9.2 
+6.1 
+4.6 
+35 
+27 
+OK 
+Hanefot E 
+0.1 
+3.3 
+10.0 
+6.7 
+5.0 
+3.4 
+6.9 
+4.6 
+3.4 
+24 
+18 
+OK 
+Hanefot F 
+0.1 
+5.2 
+15.6 
+10.4 
+7.8 
+4.8 
+9.6 
+6.4 
+4.8 
+37 
+28 
+OK 
+Hanefot G 
+0.1 
+4.1 
+12.2 
+8.1 
+6.1 
+4.8 
+9.6 
+6.4 
+4.8 
+29 
+22 
+OK 
+Hanefot H 
+0.1 
+6.0 
+18.1 
+12.0 
+9.0 
+9.6 
+19.1 
+12.7 
+9.6 
+45 
+34 
+OK 
+Rød skrift er dimensjonerende last og krav til MBL for fortøyningskomponentene.   
+Begroing av fortøyninger vil føre til økte vertikallaster og er ikke tatt med i analyse.  
+Celler merket (-) har ikke denne type bestanddel.  
+Last i line er oppgitt med en lastfaktor på 1.15 (intakt tilstand) og 1.0 i ulykkesgrensetilstand.  
+Vertikal last i flytekrager: 1.3 tonn i intakt tilstand (uten lastfaktor) og 2.4 tonn i ulykkesgrensetilstand.  
+Fortøyningskomponenter benyttet i fortøyningsarrangementet skal ha tilstrekkelig kapasitet 
+jmf. laster i tabell 2.1 (se også tabell 1.5 og figur 1 og 2) og dimensjonerende brukstid for 
+komponentene skal være definert for hver fortøyningskomponent. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+14
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Tabell 2.2 Laster i intakt- og ulykkesgrensetilstand og dimensjonerende last i 
+fortøyningsliner. 
+Kompo-
+nent (se 
+figur 1 
+og 2) 
+Last i 
+statisk 
+til-
+stand 
+ 
+[t] 
+Intakt tilstand 
+Ulykkesgrensetilstand 
+Utnyttet  
+Vurdering 
+kapasitet  
+Last 
+i 
+linen 
+[t] 
+MBL 
+tau 
+ 
+[t] 
+Inkl. 
+3.0 
+MBL 
+Kjett-
+ing 
+[t] 
+Inkl. 
+2.0 
+MBL 
+kobl.-
+pl 
+[t] 
+Inkl. 
+1.5 
+Last 
+i 
+linen 
+[t] 
+MBL 
+tau 
+ 
+[t] 
+Inkl. 
+2.0 
+MBL 
+Kjett-
+ing 
+[t] 
+Inkl. 
+1.3 
+MBL 
+kobl.-
+pl 
+[t] 
+Inkl. 
+1.0 
+Tau 
+ 
+[%] 
+Kjett-
+ing 
+ 
+[%] 
+1 
+1.1 
+11.8 
+35.3 
+23.5 
+17.7 
+16.7 
+33.5 
+22.2 
+16.7 
+52 
+47 
+OK 
+2 
+1.3 
+4.5 
+13.5 
+9.0 
+6.8 
+4.3 
+8.5 
+5.7 
+4.3 
+37 
+24 
+OK 
+3 
+0.7 
+15.9 
+47.8 
+31.9 
+23.9 
+13.8 
+27.5 
+18.3 
+13.8 
+70 
+64 
+OK 
+4 
+1.1 
+8.2 
+24.7 
+16.5 
+12.4 
+9.0 
+18.0 
+12.0 
+9.0 
+36 
+33 
+OK 
+5 
+1.1 
+12.9 
+38.7 
+25.8 
+19.4 
+11.9 
+23.8 
+15.8 
+11.9 
+57 
+52 
+OK 
+6 
+1.0 
+4.0 
+11.9 
+7.9 
+5.9 
+4.4 
+8.7 
+5.8 
+4.4 
+32 
+21 
+OK 
+7 
+1.0 
+7.3 
+21.9 
+14.6 
+11.0 
+7.2 
+14.5 
+9.6 
+7.2 
+60 
+39 
+OK 
+8 
+1.0 
+7.1 
+21.4 
+14.2 
+10.7 
+6.3 
+12.7 
+8.4 
+6.3 
+58 
+38 
+OK 
+9 
+0.9 
+7.5 
+22.5 
+15.0 
+11.3 
+6.2 
+12.3 
+8.2 
+6.2 
+62 
+41 
+OK 
+10 
+1.0 
+8.2 
+24.5 
+16.3 
+12.2 
+7.2 
+14.5 
+9.6 
+7.2 
+67 
+44 
+OK 
+11 
+0.8 
+7.4 
+22.2 
+14.8 
+11.1 
+6.5 
+12.9 
+8.6 
+6.5 
+61 
+40 
+OK 
+12 
+1.0 
+8.6 
+25.7 
+17.1 
+12.8 
+7.7 
+15.4 
+10.2 
+7.7 
+70 
+46 
+OK 
+13 
+0.4 
+3.6 
+10.9 
+7.3 
+5.4 
+3.0 
+6.1 
+4.1 
+3.0 
+30 
+20 
+OK 
+14 
+0.9 
+12.4 
+37.3 
+24.9 
+18.7 
+16.8 
+33.7 
+22.4 
+16.8 
+55 
+50 
+OK 
+15 
+1.2 
+16.1 
+48.3 
+32.2 
+24.2 
+19.2 
+38.3 
+25.5 
+19.2 
+71 
+65 
+OK 
+16 
+1.0 
+14.4 
+43.3 
+28.9 
+21.7 
+15.1 
+30.1 
+20.0 
+15.1 
+64 
+58 
+OK 
+17 
+0.8 
+7.2 
+21.5 
+14.3 
+10.7 
+6.4 
+12.9 
+8.6 
+6.4 
+59 
+39 
+OK 
+Rød skrift er dimensjonerende last og krav til MBL for fortøyningskomponentene.   
+Begroing av fortøyninger vil føre til økte vertikallaster og er ikke tatt med i beregning.  
+Last i line er oppgitt med en lastfaktor på 1.15 (intakt tilstand) og 1.0 i ulykkesgrensetilstand. 
+Fortøyningskomponenter benyttet i fortøyningsarrangementet skal ha tilstrekkelig kapasitet 
+jmf. laster i tabell 2.2 (se også tabell 1.6 og figur 1 og 2) og dimensjonerende brukstid for 
+komponentene skal være definert for hver fortøyningskomponent. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+15
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Tabell 2.3 Krav til holdekraft i bunnfester og vertikale laster i fortøyningsliner. 
+Tabellen inneholder dimensjonerende laster. 
+2.2 Kommentarer 
+Anlegget er analysert både i intakt- og ulykkesgrensetilstand og er utført i 
+henhold til kravene i NS 9415:2009. Vurderte ulykkesgrensetilstander er oppgitt i 
+tabell 1.8 og 1.11. I ulykkesgrensetilstand vil det oppstå dimensjonerende laster i 
+følgende komponenter/liner:  
+- 
+Hanefot/Innf. til merd H 
+- 
+Tverrline i ramme.  
+Øvrige komponenter i fortøyningssystemet skal dimensjoneres etter laster som 
+fremkommer i intakt tilstand. 
+Nødvendige bøyestørrelser kan være utfordrende å beregne og ofte har det vist 
+seg at bøyene som benyttes ved slike typer fortøyningssystemer har for mye 
+oppdrift. Dette kan forårsake at bøyene slites raskere slik at oppdriften på sikt 
+kan reduseres (f.eks. utrivning i plasten som kan føre til punktering). For å 
+beregne minimumsstørrelser på bøyer er det derfor gjort en beregning hvor 
+strøm og vindlasten er isolert bort fra bølgelasten. Netto oppdrift på 
+koblingspunktene til bøyene bør overskride vertikal last i koblingspunktene, ellers 
+så kan bøyene neddykkes. Lastene fremkommer som vertikal last i 
+koblingspunkter. Resultatene fremgår i tabell 2.4. 
+ 
+ 
+Line 
+Last i linen 
+[t] 
+Linestigning 
+[°] 
+*Vertikal last 
+[t] 
+Holdekraft bunnfeste 
+[t] 
+MBL bunnfeste 
+[t] 
+1 
+11.8 
+1 
+0.3 
+11.8 
+35.3 
+2 
+4.5 
+2 
+0.4 
+4.5 
+13.5 
+3 
+15.9 
+2 
+0.4 
+15.9 
+47.8 
+4 
+8.2 
+16 
+0.7 
+8.2 
+24.7 
+5 
+12.9 
+17 
+2.0 
+12.9 
+38.7 
+6 
+4.0 
+20 
+0.1 
+4.0 
+11.9 
+7 
+7.3 
+0 
+0 
+7.3 
+21.9 
+8 
+7.1 
+22 
+1.0 
+7.1 
+21.4 
+9 
+7.5 
+1 
+0.3 
+7.5 
+22.5 
+10 
+8.2 
+22 
+1.3 
+8.2 
+24.5 
+11 
+7.4 
+2 
+0.3 
+7.4 
+22.2 
+12 
+8.6 
+23 
+1.7 
+8.6 
+25.7 
+13 
+3.6 
+1 
+0.1 
+3.6 
+10.9 
+14 
+12.4 
+0 
+0 
+12.4 
+37.3 
+15 
+16.1 
+0 
+0.3 
+16.1 
+48.3 
+16 
+14.4 
+1 
+0.4 
+14.4 
+43.3 
+17 
+7.2 
+23 
+1.5 
+7.2 
+21.5 
+Vertikale laster er oppgitt uten lastfaktor (dvs. 1.0).  
+* Gjenstående vertikal last ved bruk av definerte fortøyningskomponenter (tabell 1.6 og 1.7)             
+ 
+ 
+Fortøyningsanalyserapport  
+16
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Tabell 2.4 Vertikale laster i koblingspunkter. 
+ 
+Ifølge lokalitetsrapport kan anlegget bli påvirket av nedising som skyldes 
+sjøsprøyt ved lave temperaturer. Vannstandsheving og nedising skal vurderes i 
+ulykkestilstand (lastfaktor 1.0 istedenfor 1.15 i intakt tilstand) og er vurdert til 
+ikke å føre til økning av dimensjonerende laster i fortøyningssystemet. Ved 
+nedising av flytekragene blir disse tyngre i havet og de rykklastene som kan 
+oppstå når flytekragene blir påvirket av bølger blir mindre enn når flytekrager 
+uten is beveger seg. Den evt. økning i vindlast på anlegget pga. gjenising av 
+hoppenett i not vil ikke bidra til økning i dimensjonerende laster. Sannsynligheten 
+for progressivt brudd er liten hvis fortøyningskomponentene dimensjoneres etter 
+de laster og spesifikasjoner som oppgis i rapporten.  
+Komponenter som er benyttet i analysen er oppgitt i tabell 1.7. Resultater i tabell 
+2.1 og 2.2 oppgir utnyttelse både med faktor i forhold til intakt- og 
+ulykkesgrensetilstand ut fra tabell 1.11. Høyeste last i intakt tilstand oppstår i 
+fortøyningsline 15 med 16.1 tonn, hanefot/innfestning til merd B og H med 6.0 
+tonn og ramme 2 med 12.0 tonn. I ulykkesgrensetilstand oppstår høyeste last i 
+fortøyningsline 15 med 19.2 tonn, hanefot/innfestning til merd H med 9.6 tonn og 
+ramme 11 med 11.4 tonn. 
+Kapasitetsvurdering på tau og kjetting er gjort ut fra materialfaktor i 
+komponentene i intakt- og ulykkesgrensetilstand og er beregnet ut fra krav til 
+MBL. Resultatene viser at alle komponentene (se tabell 1.7) som er benyttet i 
+analyse har tilstrekkelig kapasitet med høyest utnyttelse i fortøyningsline 15 med 
+71 %, hanefot/innfestningstau til merd H med 45 % og ramme 2 med 98 %.  
+Koblingspunkt 
+(se figur 2) 
+Maks vertikale laster i kobl. 
+pkt. 
+Fjærstivhet på 
+bøyer/ liter oppdrift 
+ 
+ 
+[N/m] / [l] 
+Med strøm, 
+vind og 
+bølgelast 
+[t] 
+Med strøm 
+og vindlast 
+[t] 
+1, 2 
+0.7 
+0.4 
+32400 (1500) 
+3, 4 
+1.1 
+0.5 
+11300 (1600) 
+5, 6 
+3.5 
+2.5 
+32400 (4400) 
+7 
+0.8 
+0.1 
+11300 (850) 
+8 
+1.2 
+0.6 
+11300 (1600) 
+9 
+0.6 
+0.2 
+11300 (850) 
+10 
+1.4 
+0.9 
+11300 (1600) 
+11 
+0.6 
+0.2 
+11300 (850) 
+12 
+1.5 
+1.0 
+11300 (1600) 
+13, 14 
+0.8 
+0.2 
+32400 (1500) 
+15 
+0.6 
+0.2 
+11300 (1600) 
+16, 17 
+1.5 
+1.4 
+32400 (1500) 
+Midtre kobl. Pkt 
+0.1 
+0.1 
+11300 (850) 
+Laster oppgitt uten lastfaktor 1.15. 
+ 
+ 
+Fortøyningsanalyserapport  
+17
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Det er analysert med linebrudd i flere komponenter og ved brudd i vurderte 
+komponener kan det oppstå noe deformasjon av ramme og flytekrage (se tabell 
+1.8 for risikovurdering).  
+Det er gjort en kapasitetskontroll mellom laster i innfestninger mot kapasitet i 
+flytekragene.  
+Tabell 2.5 Kontroll av kapasitet i flytekrage. 
+ 
+Bøyer, bunnfester og koblingsplater er ikke vurdert mht. kapasitet. Ved bruk av 
+annen materialfaktor eller materialdata må det gjøres ny vurdering av kapasitet i 
+komponentene.  
+Fortøyningssystemet skal dimensjoneres etter de laster som 
+fremkommer i tabell 2.1 - 2.4.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Flytekrage 
+Last i innfestning 
+inkl. 1.15 
+[t] 
+Last i innfestning 
+uten 1.15 
+[t] 
+Kapasitet 
+flytekrage 
+[t] 
+Kapasitet 
+ 
+AkvaGroup 120m 
+6.0 
+5.2 
+11.3 
+OK 
+AkvaGroup 90m 
+6.0 
+5.2 
+9.7 
+OK 
+Gjelder for flytekrager som er spesifisert i rapporten og for intakt tilstand.  Analyse er utført med 
+120 m. siden denne har størst diameter og gir høyest last i fortøyningssystemet. Samme last oppgis 
+for 90 m. siden denne uansett har tilstrekkelig kapasitet og er til sikker side. 
+ 
+ 
+Fortøyningsanalyserapport  
+18
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+2.3 Utmatting 
+Fra analysen framgår at belastningen i linene er dominert av strøm. I figur under 
+fremgår årstidsvariasjonen for vind ved målestasjon i Bodø. For området oppstår 
+vind fra øst med høyest frekvens i året. Høyeste bølger som påvirker lokaliteten 
+er fra nordvest til nordøst og samsvarer med retning det oppstår størst forskjell i 
+spenningsvidde i kjetting. For å komme frem til laveste levetid på kjetting er 
+utmattingsberegningen gjort ved miljølaster nord og nordøst. Retningsfaktor er 
+benyttet ut opplysninger i figur 3 og 4. Miljølaster i begge kombinasjoner er 
+benyttet for å komme frem til laveste levetid.  
+Det er utført utmattingsberegning/vurdering av levetiden på følgende 
+komponenter:   
+- 
+19 mm kjetting (topp- og bunnkjetting og i innf./hanefot til merder, se 
+tabell 1.7). 
+- 
+22 mm kjetting (topp- og bunnkjetting, se tabell 1.7). 
+- 
+32 mm kjetting (bunnkjetting, se tabell 1.7). 
+- 
+36 mm kjetting (bunnkjetting, se tabell 1.7). 
+ 
+Figur 3 og 4. Vindrose og frekvens for målestasjon i Bodø, fordelt på år. 
+ 
+ 
+Figur 5 og 6. Levetidsberegning i 19 mm kjetting og 22 mm kjetting ved miljølaster fra 
+nord og nordøst.  
+ 
+ 
+ 
+Kjettingdim. (mm) = 
+19   => A =
+567.1 mm2
+Str+Vnd
+Str+Vnd+Blg
+  Blg
+ 
+Linelast (tonn) = 
+2.9
+5.2
+2
+Spennigsvidde (Mpa) =
+50
+90
+40
+Utmattingsberegning:
+S-N kurve:                     a = 
+6.00E+10
+ -Stolpeløs:
+6.00E+10
+               m =       
+3
+ -Stolpe:
+1.20E+11
+Weibull formfaktor h  = 
+1
+Retningsfaktor (0-1)    =
+1
+50 års Tp (s) = 
+3.4 => Tsnitt (s) = 
+2.414
+ 
+Strm+Vnd+Blg
+ Bølger
+ 
+Spenningsvidde (Mpa) =
+90
+40
+Ant. lastcykler i 20 år N0 =
+14400
+257696768.8
+ 
+ 
+1.44E+04
+2.58E+08 Totalt:
+Akkumulert skade D = 
+0.001
+0.223
+0.225
+ 
+Estimert levetid L (år) = 
+> 50 år
+Kjettingdim. (mm) = 
+22   => A =
+760.3 mm2
+Str+Vnd
+Str+Vnd+Blg
+  Blg
+ 
+Linelast (tonn) = 
+8.8
+12.6
+4
+Spennigsvidde (Mpa) =
+114
+163
+49
+Utmattingsberegning:
+S-N kurve:                     a = 
+6.00E+10
+ -Stolpeløs:
+6.00E+10
+               m =       
+3
+ -Stolpe:
+1.20E+11
+Weibull formfaktor h  = 
+1
+Retningsfaktor (0-1)    =
+1
+50 års Tp (s) = 
+3.3 => Tsnitt (s) = 
+2.343
+ 
+Strm+Vnd+Blg
+ Bølger
+ 
+Spenningsvidde (Mpa) =
+163
+49
+Ant. lastcykler i 20 år N0 =
+14400
+265505761.8
+ 
+ 
+1.44E+04
+2.66E+08 Totalt:
+Akkumulert skade D = 
+0.007
+0.429
+0.436
+ 
+Estimert levetid L (år) = 
+45.9
+ 
+ 
+Fortøyningsanalyserapport  
+19
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+For linelast i 22 mm kjetting gir strøm og vind 8.8 tonn last, mens med bølger gir 
+dette 12.6 tonn last (uten lastfaktor 1.15). Utmattingsbidragene kommer da i 
+hovedsak fra høysyklus bølgelast og fra lavsyklus strøm- og vindlast. 
+Spenningsvidden for strøm og vind beregnes konservativt for totallasten, mens 
+spenningsvidden for bølgelast beregnes fra bølgelastbidraget. For retningsfaktor 
+er det benyttet en verdi på 1.0 som tilsvarer at vind og bølger fra denne 
+retningen påvirker lokaliteten 100 % av tiden (konservativ tilnærming). Ved 
+analyser for utmatting blir summert delskade i 22 mm kjetting lik 0.436 og 
+teoretisk utmattingslevetid er iht. kravene i NS 9415:2009. 19 mm kjetting har 
+enda lengre levetid. Det er ikke gjort egen utmattingsberegning for 32 og 36 mm 
+kjetting, men spenningsvidden er relativ lik/lavere som for de andre typene og gir 
+lik/lengre levetid med samme retningsfaktor. I tillegg gir høyere godstykkelse 
+lengre levetid.  
+Hvis det benyttes kjetting som har kortere levetid enn kravene i NS 9415:2009 
+må det utarbeides rutiner som ivaretar sikkerheten til fortøyningen mht. ettersyn 
+og utskiftning. Årlig reduseres tykkelsen på kjetting i stål pga. tæring og 
+levetiden er i praksis noe lavere. Hvis ikke kjettingen ettersees årlig, skal 
+tykkelsen antas å minke 0.4 mm hvert år mellom hvert ettersyn (NS 9415:2009). 
+Kjetting med øvrig utstyr må ettersees i henhold til brukerhåndbok. Forøvrig er 
+formler og konstanter for stolpeløs kjetting benyttet i henhold til kap. 11.6 i NS 
+9415:2009.  
+Det er ikke utført analyser for utmatting på tau siden reelle laster i liner ikke gir 
+spenninger over 170 MPa.  
+Se forøvrig figur bak i rapporten som viser Von Mises spenninger i 
+fortøyningssystemet.  
+Tabell 2.6 Levetid på komponentene.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Komponent 
+Levetid 
+19 mm kjetting 
+> 20 år 
+22 mm kjetting 
+> 20 år 
+32 mm kjetting 
+> 20 år 
+36 mm kjetting 
+> 20 år 
+ 
+ 
+Fortøyningsanalyserapport  
+20
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+3.0 AquaSim modeller 
+3.1 Intakt system 
+ 
+Statisk modell. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+21
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Modell                                                                     
+Intakt linesystem med maksimale laster med miljøkombinasjon 1 
+  
+Forskyvning (retning mot 269 grader): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+22
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+3.2 Ulykkesgrensetilstand 
+ 
+Modell                                                                     
+Skadet linesystem, brudd line 1 med miljølaster fra SV 
+ 
+Modell                                                                     
+Skadet linesystem, brudd line 3 med miljølaster fra NV 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+23
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Modellø                                                                    
+Skadet linesystem, brudd line 15 med miljølaster fra Ø 
+ 
+ 
+Modellø                                                                    
+Skadet linesystem, brudd line 16 med miljølaster fra NØ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+24
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Modell                                                                     
+Skadet linesystem, brudd innfestning merd H med miljølaster fra N 
+ 
+Modell                                                                     
+Skadet linesystem, brudd i ramme 2 med miljølaster fra NV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+25
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Modell                                                                     
+Skadet linesystem, brudd i ramme 12 med miljølaster fra NØ 
+ 
+ 
+Modell                                                                     
+Von Mises spenninger med miljøkombinasjon 2 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+26
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+4.0 Til kunde og leverandør av 
+komponenter 
+Generelt 
+ 
+Leverandør av komponenter i fortøyningssystemet står selv ansvarlig for 
+opptelling av den enkelte komponent i sin leveranse.  
+ 
+Leverandør av komponent står selv ansvarlig for at komponenten, på alle 
+måter, passer sammen i linen.  
+ 
+Leverandør står selv ansvarlig for å legge til materialfaktor for sine 
+komponenter om disse avviker fra opplysninger i rapporten. 
+ 
+Lengder og mengder i rapporten er kun retningsgivende, og kan avvike 
+noe fra den totale leveransen.  
+ 
+Leverandør av komponenter i fortøyningssystemet står selv ansvarlig for 
+gyldighet av sertifikater samt nødvendig informasjon om drift og 
+vedlikehold av komponenten i perioden sertifikatet er gyldig, dvs. 
+dimensjonerende levetid. 
+ 
+ROV inspeksjon skal utføres på alle fortøyningsliner senest 2 mnd. etter 
+utlagt anlegg/fortøyningsliner (etter 1/1-2013) Ref. NYTEK § 19.  
+Beregningsgrunnlag/ansvar 
+Alle miljødata som danner grunnlag for fortøyingsanalyser og samtlige 
+beregninger er levert av eksterne bedrifter. DNV GL står ikke ansvarlig for 
+feilaktige dimensjoneringer forårsaket av miljødata/målinger som ikke er korrekte 
+eller er misvisende. Det er kundens ansvar å skaffe de riktige miljødata til 
+analysen hvis ikke annet avtales og dokumenteres. NS 9415:2009 kap. 5 Ref. 
+NYTEK kap 3 § 9. Det er anleggsinnehavers ansvar og påse at 
+hovedkomponentene passer sammen og er montert iht. brukermanual, NYTEK 
+kap 8. § 30.  
+Komponenter og egenskaper 
+Komponenter er valgt ut fra kundens ønske om å bruke utstyr som de har 
+erfaring med, samt krav til materialfaktor i tabell 14 i NS 9415:2009. Alle 
+materialparametere er hentet prosjektering fra oppdragsgiver jmf. Gjeldende 
+taustandard. Kunde må påse at det foreligger godkjent sertifikat og manual for 
+montering, drift og vedlikehold fra leverandør av komponentene. Oppdretter 
+forplikter seg til å følge brukermanualen til komponentene. Ved bruk av 
+koblingsskiver skal liner i lengde og sidestrekk sikres ved å koble sammen 
+kjettingen både i langs og tversgående retning utenom skiven, eventuell annen 
+sikker løsning kan velges. En eventuell svikt / brudd i skive skal ikke kunne ha 
+innvirkning på fortøyningssystemets sikkerhet.  
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+27
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+Sertifikater og dokumentasjon på komponenten  
+Alle sertifikater, dokumentasjon og brukerhåndbøker som følger med 
+komponentene i beskrevet fortøyningsrapport, skal samles i en perm og 
+oppbevares på et egnet sted for gjennomføring av vedlikehold. Alle sertifikater, 
+dokumentasjon og brukerhåndbøker skal legges til grunn for drift og vedlikehold 
+av fortøyningssystemet. Konstruksjonsdeler som inngår i fortøyning og kan ha 
+betydning for rømmingsfaren, skal være produktsertifisert og i samsvar med krav 
+fastsatt i NS 9415:2009. Dette gjelder kun for konstruksjonsdeler som leveres ny 
+fra leverandør og tas i bruk etter 1. januar 2013. 
+Om sertifikater  
+Alle konstruksjonsdeler skal tilfredsstille krav i NS 9415:2009 og skal leveres med 
+prøvingssertifikat type 3.1. For detaljer angående innhold i sertifikater og 
+dokumentasjonskrav se kap 11.1 – 11.10. Se også brukerveiledning fra 
+leverandør av konstruksjonsdel. 
+Kontrollplan for utføring av fortøyningsarbeid  
+Ansvarlig utlegger plikter å montere fortøyningsutstyret iht. leverandørenes 
+manualer og sertifikater, samt spesifikasjoner i denne rapporten. Tilsendte 
+kontrollplan må fylles ut og arkiveres om det ikke forekommer avvik. Skulle avvik 
+forekomme skal ansvarlig for den gjeldende analysen kontaktes. 
+Ansvarlig: Odd-Børre Eidnes (mob: 95747293) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fortøyningsanalyserapport  
+28
+AKKREDITERT ENHET: DNV GL Business Assurance Norway AS, P.O. Box 7400, 5020 Bergen, Norway.  
+Tel: +47 55 94 36 00, informasjon@dnvgl.com. 
+5.0 Referanse  
+Fortøyningsanalyse: vha. Aqua Sim 
+Lokalitetsrapport: utført av Noomas Sertifisering AS, LR-110614-1-SEE-
+Vindvika-19235.  I DNV GL og kunden sine arkiver. 
+Kontrollplan for utlegging av fortøyningsarbeid: Fylles ut og signeres.  
+Produktsertifikat not: 1127 (90m), 7155 og 7235 (120m). 
+Produktsertifikat flytekrage: PS053 (90m), PM 006 og PS 185 (120m)(el. 
+tilsvarende). 
+Linedata:  
+- 
+Input og resultater anlegg Vindvika. 
+- 
+Dimensjoner og kapasiteter mottatt fra kunde. 
+- 
+Olex. 
+- 
+Rov rapport 2016 MH ST  Vindvika 
+- 
+Ramme Vindvika orginal. 
+- 
+Komponentliste anlegg 17.01.2017 
+Brukerhåndbok:  
+- 
+Polarcirkel, rev M.  
+- 
+LS 1 Brukerhåndbok for luseskjørt. 
+AquaSim: Brukermanual 
+WindSim: Årsvind for lokaliteten 
+Tidevann: www.sehavniva.no 
+Øvrig dokumentasjon: Rapport nr. TR-30723-1998-1.2. Analyse av merd med 
+rettvegget not, med og uten 10 m. luseskjørt. Aquastructures 2013.  
+Produktsertifikater fortøyningskomponenter:  
+- 
+Sertifikat_32x Haneføtter_Marine Harvest AS_132691 vindvika. 
+- 
+19 og 22 mm kjetting (tilsvarende komponenter). 
+- 
+32 og 36 mm kjetting (tilsvarende komponenter). 
+- 
+48 mm tau (tilsvarende komponenter). 
+- 
+64 mm trosse (tilsvarende komponenter). 
+ 
+ 
+ 
+The trademarks DNV GL and the Horizon Graphic are the property of DNV GL AS. 
+All rights reserved. ©DNV GL 2016 
+ 
+© DNV GL 2016 
+assurance.dnvgl.com

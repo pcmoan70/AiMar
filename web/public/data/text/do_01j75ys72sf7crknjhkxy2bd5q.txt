@@ -1,0 +1,969 @@
+﻿©Copyright Gaia Salmon AS, all rights reserved 
+ 
+ Side 1 av 18 
+ 
+Anleggsbeskrivelse Påvekstanlegg 
+Galtneset, Træna Kommune, Nordland 
+ 
+ 
+ 
+Illustrasjons bilde, 
+Laget til: GAIA SALMON AS  
+Forberedt av: Bjarne Bjørkan 
+Dato: 10.11.2021 
+Dokument nummer: LPL-001-11-2021-A 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 2 av 18 
+1. Innholdsfortegnelse 
+1. 
+INNHOLDSFORTEGNELSE 
+2 
+2. 
+INNLEDNING 
+3 
+2.1. INTRODUKSJON 
+3 
+2.2. NØKKEL PARAMETER FOR ANLEGGET 
+4 
+3. 
+SYSTEMOVERSIKT  
+5 
+3.1. RASANLEGGET 
+5 
+3.2. LAYOUT PÅVEKSTANLEGGET 
+6 
+3.3. KARANTENE KAR 
+6 
+3.4. FISKEKAR OG FLYTTE SYSTEMER 
+7 
+3.4.1. MOTTAK AV SMOLT 
+7 
+3.4.2. INTERN FLYTTING I ANLEGGET 
+7 
+3.4.1. SORTERING AV FISK 
+7 
+3.4.2. FORFLYTTING AV LEVERINGSKLAR STORSMOLT 
+7 
+3.4.3. DISTRIBUSJON AV SUPEROKSYGENERT VANN 
+7 
+3.5. STØTTESYSTEMER 
+8 
+3.5.1. RØRNETT 
+8 
+3.5.2. INNTAKSVANN 
+8 
+3.5.3. PH KONTROLL MED KALKTILSETTING 
+9 
+3.5.4. SLAMANLEGG 
+10 
+3.5.5. TEMPERATUR KONTROLL 
+12 
+3.5.6. VARMEGJENNVINNING LUFT 
+12 
+3.5.7. VARMEGJENNVINNING VÆSKE 
+12 
+3.5.8. DØDFISKHÅNDTERING – SVIMERE 
+12 
+3.5.9. FISKEKAR 
+13 
+3.5.10. FÔRINGSANLEGG 
+14 
+3.5.11. LYS TIL KAR 
+14 
+3.5.12. FISKESPERREKUM 
+15 
+3.5.13. TRYKKLUFT ANLEGG 
+15 
+3.5.14. ELEKTRO OG KONTROLL SYSTEM 
+15 
+3.5.15. VANNHASTIGHET I KAR 
+16 
+3.6. PRODUKSJONSPLAN 
+17 
+3.7. NØDSTRØM 
+18 
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 3 av 18 
+2. Innledning 
+2.1. INTRODUKSJON  
+Dette dokumentet beskriver de generelle prosessene i det nye påvekstanlegget til Gaia Salmon. Valg av 
+leverandør er per dags dato ikke valgt, men generelle beskrivelser av kritiske prosess elementer er 
+medtatt for å beskrive løsningene. Det er tatt utgangpunkt i et av de anleggsdesign hvor vi er i 
+forhandlinger med leverandør av anlegget. Anleggsdesignet skal bygge på kjente, utprøvde løsninger 
+som ivaretar fiskevelferd, energieffektivitet, biologisk kontroll og driftsenkelhet.  
+ 
+Anlegget vil bestå av 4 stk. RAS påvekst avdelinger som hver betjener 3 stk Ø22m kar. Totalt 12 kar, 
+hver med et karvolum på 2 700 m3. I tillegg til RAS modulene har anlegget en karanteneavdeling som 
+består av 3 stk. Ø12m kar, totalvolum 1360 m3.  
+ 
+I alle RAS-moduler skal følgende rensetrinn benyttes: 
+• 
+Mekanisk filtrering - avløp fra fiskekar  
+Returvann fra fiskekarene føres med selvfall til RAS via utløpsarrangement. God karhydraulikk og 
+selvrensing sørger for hurtig og skånsomt uttak av partikler fra karene. Det skal benyttes 50µm 
+filtreringsgrad i trommelfiltrene for å redusere organisk belastning på bioreaktor (MBBR).   
+• 
+Mekanisk filtrering – ut av MBBR 
+Avskalling fra biomedia i MBBR en del av nedbrytningsprosessen i MBBR. Biofilmen vil fornye seg selv 
+gjennom at gammel film løsner. For å optimalisere vannkvalitet og sikre et lavt innhold av suspendert stoff 
+(TSS) vil alt vann fra MBBR filtreres i et mekanisk filter. Dette for å sikre lavt partikkelinnhold i fiskekar, 
+samtidig som risiko for akkumulering av slam, begroing og dannelse av H2S. Det planlegges benytte 
+100µm filtreringsgrad i trommelfiltre ut av MBBR.  
+• 
+Biologisk Rensing  
+Metabolske avfallsstoffer fra laksen brytes ned av bakterier og mikroorganismer som lever på Biofilmen 
+som er på mediet i MBBR. Ammonium omdannes ned til nitritt (NO2- N) og nitritt omdannes videre ned 
+til nitrat (NO3-N). I alle RAS-moduler benyttes mekanisk/luft omrørere for å unngå N2 overmetning samt 
+holde en god sirkulasjon i reaktoren.  
+• 
+N2 og CO2 Utlufting  
+CO2 i vannfasen er et resultat av fiskens respirasjon og nedbrytning av organisk materiale. CO2 
+avluftingen vil gjennomføres i en sentralisert avlufter. Hvis detaljprosjekteringen viser behov for ytterligere 
+kapasitet, vil man vurdere alternativt å installere også kar interne avluftere. Dette gir stor fleksibilitet og 
+sikrer et trygt CO2 nivå i hele produksjonsfasen.  
+ 
+Hele produksjonsfasen vil bli overvåket og kontrollert av et sentralisert kontrollsystem (SCADA), som vil 
+sikre trygg kontroll på hele prosessen.  
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 4 av 18 
+2.2. Nøkkel parameter for anlegget 
+RAS anlegget består av totalt 4 avdelinger for påvekstanlegget, hver avdeling med 3 stk sirkulære tanker.  
+Parametere som er grunnlaget for utformingen av RAS avdelingene samt karantene kar, vises nedenfor:  
+ 
+ 
+ 
+Kommentar:  
+• 
+Maksimal belastning av avdelingene er er basert på standard proteininnhold i fôr til atlantisk laks.  
+• 
+En del av vannet i RAS anlegget vil hele tiden erstattes for å unngå konsentrasjon av uønskede 
+elementer i vannfasen. Spedevannsutskiftningen skal tilsvare ca. 400 l/nytt van pr. Kg utforet 
+fiskefôr, og nitrat konsentrasjonen skal mellom 50 mg/l – 100 mg/l.  
+• 
+Forspill skal minimaliseres for å redusere unødvendig belasting av systemet og forringelse av den 
+generelle vannkvaliteten.  
+  
+  
+  
+ 
+ 
+Påvekst kar
+Karantene Kar
+RAS 1 av 4 
+Gjennomstrøming 1 av 3
+Produksjonstemperatur(C) 
+12 dgc
+6-14 dgc (Sjøtemperatur) 
+Salinitet (ppt) 
+24
+34
+Maksimal fôring (kg/d) 
+4 000
+80
+Maksimal biomasse ved prod.temp (kg) 
+75 000
+25600
+Fiskevekt ved maksimal biomasse (g) 
+900
+130
+Maksimal biomassetetthet (kg/m3) 
+75
+50
+Individvekt i avdelingen (g) 
+1
+80-160
+Kar type 
+Sirkulær 
+Sirkulært 
+Antall kar 
+3
+3
+Tankvolum (m3) 
+2 700
+565
+Totalvolum (m3) 
+8 100
+1 695
+Diameter (m) 
+22
+12
+Høyde yttervegg (m) 
+8
+5
+Vannstand(m) 
+7,1
+4
+Fall mot senter % 
+5 %
+5 %
+Hydraulisk oppholdstid i kar (min) 
+39
+39
+Maksimal Nytt Vann til anlegget  (m3/h) 
+67
+339
+Maksimal hydraulisk mengde (m3/h) 
+12450
+1017
+Dim hydraulisk mengde pr kar (m3/h) 
+4 150
+400
+Temperatur for biofilterberegninger 
+12
+NA
+Maks CO2 (ut av fiskekar) 
+15
+15
+Max TAN (ut av fiskekar) 
+2
+2
+Max NO3-N (ut av fiskekar) 
+100
+100
+Max NO2-N (ut av fiskekar) 
+0,5
+0,5
+O2 metning (ut av fiskekar) 
+>80% 
+>80%
+N2 Metning (ut av fiskekar) 
+≤101% 
+≤101% 
+pH 
+´7-8
+´7-8
+ Avdeling 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 5 av 18 
+3. SYSTEM OVERSIKT  
+3.1. RASANLEGGET  
+RAS-vannbehandlingsenhetene er designet med fokus på enkel betjening og et minimum av manuelle 
+operasjoner. Fisketankdesignet utføres med vekt på best mulig karhydraulik og selvrensing – noe som 
+bidrar til effektiv fjerning av partikler fra fiskekarene til vannet som strømmer inn i filtreringstrinnet.    
+I Fiskekarene vil det være montert siler, som dekker senter og sideutløpet. Silene forhindrer at fisk slipper 
+ut av tanken når vann strømmer med gravitasjon til trommelfiltrene til RAS modul. Her vil fôr rester og 
+faeces fjernes effektivt.  
+Med selvfall fra fiskekaret filtreres vannstrømmene fra fiskekarene i de mekaniske trommelfiltre før det 
+renner videre inn i biofilteret, hvor biomedia holdes i bevegelse ved hjelp miksere, disse vil enten være 
+mekaniske eller basert på luft, dette vil variere mellom de forskjellige leverandører. Mikserne reduserer 
+overmetning av nitrogengass i vannfasen.  
+I Bioreaktor er det montert siler som hindrer biomedia i å følge vannet ut av reaktor. Bioreaktoren er 
+utformet med lave hydrauliske laster, hvor alt media holdes i konstant omrøring. Silene vil være utstyrt 
+med lufterør som tilfører luft ved jevne mellomrom, for å sikre god flyt gjennom silene. Tilførsel av luft 
+gjøres via et sentralisert trykkluftsystem.  
+ 
+Behandlet vann som kommer ut av biofilteret kan inneholde partikler som er en naturlig del av Biofilmens 
+fornying. Disse partiklene fjernes i et utgående trommelfilter, plassert mellom biofilter og CO2 utlufter. 
+Filteret er tilknyttet det sentrale kontrollsystemet og overvåker hyppighet i tilbake spyling, noe som kan 
+være indikasjon på at det er et uønsket miljø i biofilter, eller at det er overbelastet. Redusert innhold av 
+suspendert materiale gir redusert oksygenforbruk, øker effektivitet av CO2 avlufter, hindrer slamdannelse 
+og bedrer stabilitet i vannkvalitet. Dette gir og bedre sikt i kar og mindre hierarkisk stress om beste 
+plassering i fiskekar.  
+  
+Etter utgående trommelfilter vil vannet renne med selvfall inn på en motstrøms CO2 lufter med aktiv 
+ventilering. Vannet renner ned over elementer som skaper en tynn vannfilm, noe som effektiviserer 
+gassutdrivingen av vannet. Luften suges gjennom CO2 luftere med undertrykk. Installerte spjeld vil aktivt 
+regulere undertrykket, jo lavere undertrykk dess lavere nitrogenmetning i vannet. Jo mer luft som 
+passerer i utlufter, desto mer CO2 fjernes ut fra vannet. Mikrobobler i vannet unngås ved bruk av 
+undertrykk, som gjør at gasser trekkes ut av vannet og av mikroboblene og disse stiger raskere til 
+overflaten.  
+Vann som forlater avgasseren samles i den sentrale pumpesumpen. For sirkulasjon av vann tilbake til kar 
+vil det bli installert sentrifugal eller propellpumper. Via et lukket rørnett føres vann inn til fiskekarene via 
+en venturi-injektor for oksygentilsetning.   
+Oksygen tilsettes under normal drift til fiskekaret via Solvox (venturi-injeksjon) direkte i forkant av 
+strålerørene.   
+Alle fiskekar er utstyrt med nød-diffusor slanger montert på rammer på bunnen av hver tank for å øke 
+oksygennivået i nødstilfeller. Oksygendiffusorrammene kan tas opp ved behov og i forbindelse med 
+trengenettoperasjoner. Alle nivå- og oksygensonder, samt PLC-overvåkingssystemer vil kjøre via UPS's 
+reserveeffekt.  
+For ekstra sikkerhet, spesielt under en fisketransportoperasjon, vil det bli arrangert en løsning for å tilsette 
+et superoksygenert vann direkte i ett og ett kar. For å redusere hydraulisk mengde over RAS anlegget vil 
+det vurderes å anordnes det kar-interne CO2 luftere til hvert fiskekar.   
+  
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 6 av 18 
+3.2. Layout Påvekstanlegget  
+Figur nedenfor viser planlagt layout på påvekstanlegget. Anlegget består totalt av 5 avdelinger, hvor 4 
+avdelinger er RAS og de 3 mindre kar i senter er basert på gjennomstrømning. Anlegget er planlagt delt 
+inn i 5 adskilte smittesoner, med sluser mellom hver avdeling.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3. Karantene Kar  
+Karantene avdelingen består av 3 separate kar som benyttes til fôring av fisk som skal inn i anlegget, 
+hvor man ønsker å vurdere disse for sykdom før man tar disse inn i RAS anlegget. Dette for å bedre den 
+biologiske sikkerheten i anlegget.  
+ 
+Planlagt oppholdstid er ca. 3 uker, inklusive tid til nedvasking og desinfisering før neste batch.  
+Alt inngående sjøvann til denne avdelingen pumpes opp til trommelfiltre, med selvfall til med påfølgende 
+UV behandling før vannet går inn i karet via strålerør. Avløpsvann ut av avdelingen renses ved 80 µm, 
+hvor spylevannet fra filter går til slambehandlings systemet. Hvis alvorlig sykdom blir avdekket vil det 
+sammen med fiskehelse ekspertise avgjøres om fisken kan behandles, eller destrueres.  
+ 
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 7 av 18 
+3.4. FISKEKAR OG FLYTTE SYSTEMER  
+Anlegget vil være utformet med særlig hensyn på skånsom og effektiv transport av fisk, både for mottak 
+av smolt, intern flytting samt uttak storsmolt som skal settes ut eksternt, enten direkte i sjø, eller i 
+landbasert matfiskanlegg. Det skjer en hurtig utvikling og forbedring av løsninger for flytting av fisk, her 
+diskuterer vi de løsningene som er tenkt benyttet.   
+ 
+3.4.1. Mottak av smolt  
+Smolt kommer til anlegget med brønnbåt hvor den pumpes med trykklossing fra brønnbåt inn til fiskekar 
+i avdelingen «Karantene kar». Etter ca. 3 uker flyttes fisken videre fra denne avdelingen og videre til 
+«Påvekstanlegget» hvor fisken er til den har oppnådd en ønsket vekt, og er klar for levering til 
+matfiskanlegg, enten i sjøanlegg, eller landbasert matfiskanlegg.  
+Transport internt i anlegget arrangeres gjennom fisketransport kummer, 2 stk hvor hver kum håndterer 
+all transport på hver sin ½ side av anlegget.  
+ 
+3.4.2. Intern flytting i anlegget  
+Den eneste interne forflyttingen av fisk, skjer fra karantene kar og inn til på-vekst kar. Det planlegges å 
+benytte skånsom fiskepumpe, som senkes ned i kar for pumping av fisken fra karantenekar. Trenging 
+planlegges gjennom senking av vannstand i kar, og videre forflytning ved bruk av fiskekummer og 
+tilhørende rørføringer som bringer fisken til ønsket kar. Det skjer mye utvikling innenfor fiskeforflyttning, 
+det vil som en del av detaljprosjekteringen velges løsningen som på det tidspunkt fremtrer som mest 
+hensiktsmessig.  
+ 
+3.4.1. Sortering av fisk  
+Fisk inn i planlegges å være sortert ved ankomst. Det vil ikke være behov for ytterligere sortering i 
+anlegget.  
+ 
+3.4.2. Forflytting av leveringsklar storsmolt  
+Forflytning av fisk ut fra kar og til brønnbåt, skjer gjennom bunn av kar til fisketranport kum, hvor Brønnbåt 
+holder et mottrykk, slik at hastigheten kontrolleres.  
+Kommentar: 
+Det pågår en rivende utvikling av løsninger og metoder for forflytting av fisk, både stor og liten. Gaia 
+Salmon vil vurdere utvikling som skjer og er i dialog med flere aktører som utvikler løsninger som skal 
+være mest mulig skånsomme. Endelig beslutning om løsning vil bli tatt i forbindelse med 
+detaljprosjekteringen, hvor fokus vil være skånsomhet og fiskevelferd.  
+ 
+3.4.3. Distribusjon av superoksygenert vann 
+I RAS modulene er det i tillegg til driftsoksygen via venturidyse før strålerørene medtatt et tilleggs system 
+med superoksygenert kjeglevann. Hvert fiskekar vil kunne motta superoksygenert vann fra 
+høytrykkskjegle koblet til en ringsløyfe. Under fisketransport eller andre driftsprosedyrer kan det være 
+behov for ekstra tilsetning av oksygen.    
+Kjeglen driftes på settpunkt via egen trykkpumpe som opprettholder kjegletrykket tilsvarende 3 bar (g). 
+Via manuelle membranventiler, åpnes det for kjeglevann til de respektive fiskekar.  
+ 
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 8 av 18 
+3.5. STØTTESYSTEMER  
+I tillegg til selve RAS-vannbehandling er det en rekke støttesystemer i anlegget. Eksempler på dette er 
+sentralfôringsanlegg, inntaksrensing og slambehandlingsanlegg. De ulike støttesystemene vil være 
+sømløst integrert i anlegget for å sikre anleggets funksjonalitet.   
+ 
+3.5.1. Rørnett 
+All vanntransport utenom selve RAS-konstruksjonen utføres i et lukket PE rørnett. Rørføring utformes med 
+høyt fokus for å unngå utfelling av partikler. Hastigheten i rørene sikrer at sedimentasjon ikke oppstår. 
+Rør som ikke er i bruk vil kunne dreneres enten med selvfall eller sugepumper på laveste punkt, slik at 
+stående vann unngås. Transport av kalk slurry utføres også i et lukket PE rørnett.   
+Anlegget vil ha et gassføringsnett fra LOX-tank i AISI 316. Oppføringen av gass-distribusjonsnettet 
+utføres i henhold til gjeldende regelverk. 
+ 
+3.5.2. Inntaksvann 
+ Alt vann filtreres før det føres videre inn i anlegget og fordeles til de ulike RAS og gjennomstrømning 
+avdelingene. Fra den sentrale inntakskummen suges inntaksvann fra sjø og trykksettes videre for 
+distribusjon til det sentrale inntaksrenserommet. Via inntaksrensingen produseres det to ulike filtre. En 
+brakkvannstrøm (24 ppt) som benyttes for å fortynne nitrat konsentrasjon i RAS (spedevann), samt en 
+ren sjøvannsstrøm (34 ppt) som benyttes i gjennomstrømning anlegget.  
+For brakkvann og sjøvanns produksjon gjennomføres prosess som beskrevet nedenfor. Et alternativ til 
+dette er å benytte en kombinasjon av UH-NF filtrering.  
+ 
+Brakkvann 
+• 
+trykkøkningspumper  
+• 
+For filtrering med 300 µm (alt spedevann) og 80 µm  
+• 
+Delstrøm revers osmose-anlegg for produksjon av ferskvann  
+• 
+Innblanding med sjøvann for å justere saliniteten til 24 ppt, alternativt bruk i kombinasjon med 
+UF/HF filtrering av sjøvannet 
+• 
+UV desinfeksjon  
+• 
+Distribusjon til RAS avdelinger   
+ 
+Sjøvann  
+• 
+Trykkøknings pumper  
+• 
+For filtrering med atmosfæriske trommelfilter (300µm)   
+• 
+UV desinfeksjon  
+• 
+Distribusjon til Karantene kar (gjennomstrømning)  
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 9 av 18 
+Kapasiteter: 
+Sjøvanninntakets dimensjonerende volum er 1 540 m3/h, hvor ca. 270 m3/h går til RAS avdelingene og 
+1020 m3/h går til karantenekar med gjennomstrømning. Hoved tilførselspumper for sjøvann vil basere 
+seg på prinsippet om 3x50%, for best mulig energiforbruk og tilgjengelighet/redundans.  
+ 
+• 
+I RAS anlegget vil det være installert 2 x 75% pumper per kar, totalt 24 stk pumper 
+• 
+I Karantene anlegget vil det være installert 2 x 75% pumper per kar, total 6 stk pumper 
+• 
+Utgangspunktet for dimensjonering av vannutskifting er Mattilsynets anbefaling på 400l/kg fôr.  
+ 
+3.5.3. PH kontroll med kalktilsetting  
+Fra fiskens respirasjon samt organisk nedbrytning i biofilteret produseres karbondioksid. Dette reduserer 
+pH i RAS anlegget, og buffer må tilsettes for å heve pH og alkalitet. For å kontrollere pH I RAS anleggene 
+vil det benyttes kalk. Tilførsel av kalk gjøres i etterkant av CO2 luftere.   
+Fra en sentral kalksilo føres kalkpulver inn til en beredertank inne i anlegget. Her blandes kalkpulveret 
+automatisk ut til en konsentrasjon på under 6 prosent.   
+  
+Slurry tanken er tilknyttet en sentral pumperigg bestående av slangepumper. Hver RAS-avdeling utrustes 
+med en slangepumpe som fører slurryen ut til det respektive anlegget. Det arrangeres doble føringsrør 
+for redundans og å sikre oppetid ved eventuelt behov for spyling.   
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 10 av 18 
+3.5.4.  SLAMANLEGG  
+Rejektvann fra trommelfiltre  
+Spyevann fra trommelfiltrene samles i en pumpetank tilknyttet hver RAS-avdeling. Fra pumpetanken 
+pumpes slammet til en sentralisert utjevningstank for videre behandling i slamanlegget. 
+Første del er oppkonsentrering av slammet til ca. 1%. Deretter videre til tørking i disktørke til ca. 90 % 
+TS.  
+ 
+Slamoppkonsentrering  
+Fra utjevningstanken håndteres rejektet fra trommelfiltrene i et miljø miljørenseanlegg. Systemet består 
+av følgende hovedkomponenter:   
+• 
+Mellomlagring av tynnslam fra RAS i utjevningstank med omrøring (0,1% TS)  
+• 
+K-Filter Konsentrasjonsfilter 40 µm, oppkonsentrering ca- 0,5-1,0% 
+• 
+Flokksettling i sedimentasjonstank, med fortykning 2-5% 
+• 
+Avvanning i diskpresse (25 % TS)  
+• 
+Tørking i disktørke (80-95% TS), ved ca. 120dgc.  
+• 
+Kondensering av avdampet vann, varmegjennvinning, varmeveksling med LT System 
+• 
+Scrubbing av kondensat for fjerning av lukt  
+ 
+Beregnet rensegrad i slamanlegget er vist nedenfor  
+• 
+S-TS (Suspendert Tørrstoff) 82%  
+• 
+TOC (Totalt organisk karbon) 82% 
+• 
+BOF (Biologisk oksygenforbruk) 71%  
+ 
+Figur neste side viser PFD for prosessen (Process Flow Diagram)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 11 av 18 
+ 
+PFD Slamrensing 
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 12 av 18 
+3.5.5. Temperatur kontroll 
+Hoved varmekilde til anlegget vil være en biokjele som leverer ca. 2 000 kW ved 160C.  
+For å redusere temperatur i RAS om sommeren kan G:L ratio via CO2 avlufter økes med faktor inntil  10:1 
+(gass versus vann). I tillegg vil det bli installert kjøletårn for å ha ytterligere kjøleeffekt tilgjengelig som vil 
+varmeveksle direkte med RAS moduler.  
+På vannsiden er det medtatt gjenvinningsvekslere for spedevann i alle RAS-avdelinger, se eget avsnitt.   
+ 
+3.5.6. Varmegjennvinning Luft  
+Anlegget vil ha betydelig overskuddsvarme tilgjengelig fra biokjele, da prosessanlegget klassifisert som 
+et kaldt bygg (under 15 ºC), vil luft fra C02 utluftere ikke varmegjenvinnes. Det samme prinsippet vil bli 
+benyttet for selve luftutskiftingsanlegget. Luft inn til anlegget vil forvarmes til en temperatur ca. 3 K høyere 
+enn vanntemperatur i kar (15 C), utkast luften vil føres over tak uten varmegjennvinning.  
+ 
+3.5.7. Varmegjennvinning væske  
+Alle RAS-avdelinger er utstyrt med egen gjenvinningsveksler for å gjenvinne energien fra avløpsvannet. 
+Dette gjøres ved at avløpsvannet fra pumpesump veksles mot spede vannet fra inntaksrensingen.. Ved 
+hjelp 
+av 
+mengdemålere, 
+temperatur 
+transmittere 
+og 
+ventiler 
+kontrolleres 
+og 
+overvåkes 
+spedevannsmengde og energigjenvinning. Vekslerne arrangeres på en slik måte at de enkelt kan CIP 
+vaskes ved å by-passe veksleren på begge sider  
+ 
+3.5.8. Dødfiskhåndtering – Svimere  
+Det vil installeres et separat dødfisk rom med kvern- og ensilasjeanlegg. 
+Dødfisken transporteres fra de ulike avdelingene ved hjelp av selvfall i 
+lukkede rør. Rørene utformes på en slik måte at de er helt glatte innvendig 
+og har tilstrekkelig fall.   
+ 
+På hvert fiskekar er det montert utvendig dødfisk-kasse med returåpning 
+tilbake til fiskekaret for levende fisk. Død og halvdød fisk telles manuelt og 
+skyves gjennom luke til vannavskiller med el-stunner for å tilfredsstille 
+Mattilsynets krav om velferdsmessig avliving. Etter el-stunner går fisken via 
+for-kvern til kverntank for ensilering. Kvernetank er på 20 m3. 
+Kverntanken utstyres med egen syredoseringsenhet og har intern 
+sirkulasjonskrets. Driftspersonell vil som en del av daglig rutine gjennomføre 
+inspeksjon av alle dødfisk kasser i anlegget og loggføre all dødfisk.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 13 av 18 
+3.5.9. Fiskekar   
+Hver av RAS-avdelingene består av 3 fiskekar. Hvert fiskekar har 2 utvendige plasserte innløpsrør for å 
+unngå innvendige konstruksjoner. For hvert innløpsrør er det horisontale gjennomføringer for vanninnløp 
+– i hele fiskekarets høyde. I tillegg vil man vurdere behov for eventuelle kar-interne C02 avluftere, hvor 
+vann tas ut i siden av karet, føres via en sirkulasjonspumpe over CO2 avlufter og videre ut til fiskekaret. 
+Vannmengden føres tilbake til fiskekaret via et innløpsrør. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dødfisk samles i utenpåliggende dødfisk kasser som er innlemmet i fiskekaret. Under normaldrift vil en 
+del av vannstrømmen føres opp over og via dødfiskkassen. Ved eventuell massedød med uttransport av 
+fisk til brønnbåt endres vannretningen for uttak direkte til brønnbåt eller lignende for sikker avliving (del 
+av beredskapsplan for anlegget).   
+ 
+Hvert fiskekar har 2x75% pumper installert, pumpene er frekvensstyrt. Ved bortfall av en pumpe, vil 
+resterende pumpe ha kapasitet til å opprettholde godt miljø karet, men man reduserer foring inntil ny 
+pumpe er installert. Det vil til enhver tid være tilgjengelig en pumpe i anlegget og man forventer at en 
+pumpe kan erstattes i løpet av ca. 2 timer.  
+  
+ 
+ 
+Påvekstkar 
+Karantene Kar
+Tank type 
+Sirkulær 
+Sirkulær
+Antall kar 
+3
+1
+Tank volum (m3) 
+2 700
+565
+Total volum (m3) 
+8 100
+1 695
+Diameter (m) 
+22
+12
+Vegghøyde Kar (m) 
+8
+5
+Vann Nivå (m) 
+7,1
+4,2
+Fall i bunn  % 
+5 %
+5 %
+RAS 1 av 4 
+GJENNOMSTRØMNING 
+1 av 3 Kar
+Avdelinger
+©Copyright Gaia Salmon AS, all rights reserved 
+Side 14 av 18
+Overvåking vannkvalitet
+Alle fiskekar overvåkes av sanntids oksygensensorer, PH målere, nivåtransmittere, m.m. Det er
+gangbaner over alle fiskekar for adkomst til senter og side av karene, som muliggjør enkel prøve taking.
+I tillegg til sanntidsmålinger vil det bli gjennomført regelmessige målinger av vannprøver for TAN, Nitritt
+og Nitrat.
+3.5.10. 
+Fôringsanlegg
+For å oppnå et lavere energiforbruk, redusere støy, knus og forlenge levetiden på
+distribusjonsslanger til fôr er det planlagt installert vannfôringssystem i alle
+avdelinger. Dette systemet er svært skånsomt og gir en effektiv og god fordeling
+av fôret til fisken.
+Vannfôring gir også mindre lekkasje av fett til vannoverflaten fordi vannoverflate
+brytes og større mengder fôr doseres sentrert. Dette gir mindre stress enn
+skvettforing i overflate og mindre hierarki dannelse hos fisken.
+3.5.11. 
+Lys til Kar
+Det er planlagt benyttet en kombinasjon av både overflate og undervannslys for å sikre tilstrekkelig
+lysmengde i hele vannsøylen. Alle lyskildene leveres som LED lys med en fargetemperatur på ca. 3300-
+5100 Kelvin. Lysene er klargjort for DALI kontroll via det sentraliserte Kontroll systemet. En UPS vil dekke
+ca. 50% av lyskildene slik at lysutfall unngås ved strømutfall.
+Overflatelysene har følgende spesifikasjon
+• 
+250 W
+• 
+3300 Kelvin
+• 
+Dimming til 0,3 %
+• 
+Blinkefri dimming
+• 
+IP 65
+• 
+70.000 timers driftstid med >90 %
+Undervannslysene har følgende spesifikasjon:
+• 
+340 W
+• 
+5100 Kelvin
+• 
+Dimming til 1%
+• 
+Blinkefri dimming
+• 
+IP 68
+• 
+70.000 timers driftstid med >90 %
+De ulike kar og avdelinger har følgende lysplan:
+Avdeling
+Antall
+lyskilder
+pr kar
+Armaturtype
+Påvekst kar Overflatelys 
+12 
+Philips 250 w
+Påvekst 
+kar
+Undervannslys
+5 
+Philips 340 w
+Karantene 
+Kar
+Overflatelys
+4 
+Philips 250 w
+Vannforingstasjon
+Eksempel 
+på
+Undervannslys
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 15 av 18 
+Karantene 
+Kar 
+Underfanslys 
+3 
+Philips 340 w  
+3.5.12. 
+Fiskesperrekum  
+Anlegget planlegges med en sentralisert fiskesperrekum som mottar alle 
+prosessvannstrømmer som forlater anlegget. Fiskesperren er utstyrt med 
+mekaniske siler som har en lysåpning mindre enn den minste fiskestørrelsen i 
+anlegget, jmf. NS 9416:2011. Fiskesperrekummen overvåkes av nivåtransmittere 
+på begge sider av silen for å monitorere trykkfall over filteret. Sensorene overvåkes 
+av det sentrale Kontroll systemet.   
+ 
+3.5.13. 
+Trykkluft anlegg  
+Trykkluft benyttes sentralt i anlegget til aktuatorstyring av enkelte ventiler, 
+rengjøring av siler, fôringssystem, samt andre støtteprosesser.  Systemet er 
+planlagt installert med tre kompressorer, lufttørke samt rør-distribusjon ut til 
+forbrukere. Med 3 kompressorer forventer man avbruddsfri drift, i tillegg til 
+Trykklufts tanker, som vil ha kapasitet for å håndtere plutselig stort forbruk. 
+Anlegget vil skille mellom instrumentluft og forbruks luft, hvor instrument luft vil ha 
+prioritet.  
+ 
+ 
+3.5.14. 
+Elektro og Kontroll System 
+SCADA systemet samler informasjon fra alle pumper og roterende utstyr, alle større forbrukere skal være 
+utstyrt med frekvensomformere. I tillegg vil alle sensorer i anlegget, som eksempel oksygen, vannstand, 
+vanntrykk og pH-sonder, være tilkoplet kontroll systemet. Det er fra Kontroll-systemet RAS-operasjoner 
+overvåkes og endringer kontrolleres via frekvensomformere, online instrumenter og PLS. PLS er utstyrt 
+med UPS's reserveeffekt. Hoved elementer i SCADA systemets funksjonalitet er som følger:  
+ 
+• 
+Fullstendig overvåking av alle prosesser relatert til RAS  
+• 
+Energiovervåking og optimalisering  
+• 
+Brukervennlig design - kan justeres til brukere / roller  
+• 
+Avansert alarmhåndtering med GSM-relé  
+• 
+Ensartet datainnsamling fra alle prosesser som muliggjør digitalisering  
+• 
+Åpen tilgang, etter åpne bransjestandarder  
+• 
+Enkelt å etablere alarminnstillinger og overvåking for kritiske prosesser  
+• 
+Sanntidsdata og historisk dataanalyse 
+• 
+Alarmering av alle driftsavvik, feil på pumper, sensorer, nivåalarmer, oksygen nivå, PH nivå, mm.  
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 16 av 18 
+3.5.15. 
+Vannhastighet i kar  
+Optimal vannhastighet i kar er ca. 0,8xfiskelengden, og vil variere med størrelsen på fisken. Den best 
+mulige vannhastigheten vil justeres med kombinasjon av frekvensstyring av pumper som leverer vann til 
+kar, kombinert med justering av avløpsspjeld i senter avløpsrør samt sideavløp i kar veggen. Figur 
+nedenfor viser best mulig vannhastighet varierer med størrelsen.  
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Vekt (Hg)
+50.00 45.00 40.00 35.00 30.00 25.00 20.00 15.00 10.00
+5.00
+2.50
+2.00
+Lengde (cm)
+80.00 77.00 74.00 71.00 68.00 64.00 59.00 54.00 47.00 40.00 30.00 20.00
+Vannhastighet (cm/s) 64.00 61.60 59.20 56.80 54.40 51.20 47.20 43.20 37.60 32.00 24.00 16.00
+ -
+ 10.00
+ 20.00
+ 30.00
+ 40.00
+ 50.00
+ 60.00
+ 70.00
+ 80.00
+ 90.00
+Fohold Vekt - Lengde - Vannhastighet
+Vekt (Hg)
+Lengde (cm)
+Vannhastighet (cm/s)
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 17 av 18 
+3.6.  Produksjonsplan  
+Produksjonsplan for anlegget er for en kapasitet på ca. 6,2 mill. Stk. Storsmolt.  
+Smolt leveres fra settefisk anlegg vil komme ferdig sortert til anlegget, transportert med lukket brønnbåt. 
+Fisken vil komme i 3 forskjellige sorteringer, som innsettes i de 3 karantene karene (Ø12m), i anlegget 
+før de flyttes over i påvekst kar (Ø22m) som vist nedenfor: 
+ 
+• 
+Stor Sortering: 150 000 stk. à 110g inn, ut ca. 160g (ca. 40 kg/m3 slutttethet i karantene kar). 
+Flyttes til 1 stk. påvekstkar 2700 m3 med sluttvekt på ca. 900g, tetthet ca. 50 kg/m3.  
+ 
+• 
+Medium sortering: 175 000 stk. à 100g inn, ut ca. 140g (ca. 41 kg/m3 slutt-tetthet i karantene 
+kar) Flyttes til 1 stk. Påvekstkar 2700 m3, med sluttvekt på ca. 820g, tetthet ca. 54 kg/m3.  
+ 
+• 
+Liten Sortering: 200 000 stk. À 85g inn, ut ca. 120g (ca. 40 kg/m3 slutt-tetthet i karantene kar). 
+Flyttes til 1 stk. påvekstkar 2700 m3, med sluttvekt på ca. 720g, tetthet på ca. 54 kg/m3 
+ 
+Produksjonstid per batch er estimert til ca. 14-16 uker. Når fisken er vokst til ønsket størrelse, 
+transporteres den til brønnbåt for videre transport og utsett i matfiskanlegg, enten i sjø eller i landbasert 
+matfiskanlegg. Vannbehov er beskrevet i kapittel 2.2 Nøkkel parameter for anlegget.  
+ 
+Total produksjon per år vil være ca. 6,2m stk. storsmolt, tilsvarer en produksjon, beregnet med en 
+snittvekt på ca. 800g på 5 000 Tonn. Noe som er god margin til eksisterende utslippstillatelse tilsvarende 
+7 200 Tonn per år.  
+ 
+Da dette er produksjon av relativt liten fisk, er det benyttet en relativt konservativ fôrfaktor på 1,0. Dette 
+gir en utforing per år på 5 000 tonn per år, som ved full produksjon gir et dagsgjennomsnitt på ca. 13,7 
+tonn per dag.  
+ 
+ 
+ 
+ 
+ 
+ 
+©Copyright Gaia Salmon AS, all rights reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+Side 18 av 18 
+3.7. Nødstrøm  
+Hovedkraft: 
+Anlegget vil ha sin hovedstrømforsyning fra hovednettet. I tilfelle bortfall av kraft fra hovednettet er det 
+installert 4x25% diesel generatorer som kan opprettholde strømtilførsel til anlegget i slike tilfeller. 
+Anlegget er designet slik at ved bortfall av hovedkraft, så er nødkraft etablert i løpet av 30 sekunder. 
+Dette sikrer høy tilgjengelig og sikker drift for anlegget.  
+Det sentrale kontroll systemet vil ivareta automatisk omskifting mellom nett forsyning og nødkraft. 
+Systemet vil sikre at nødvendige pumper og systemer starter opp i en på forhånd definert sekvens slik at 
+essensielle systemer er i drift i løpet av maksimum 2 minutter etter at hendelsen oppstod, slik at 
+fiskevelferden er opprettholdt uten at fisken stresses unødig.   
+Tilbakekopling fra nødkraft til nett kraft er en manuell initiert operasjon, hvor kontroll systemet tar systemet 
+tilbake til nett kraft, gjennom en på forhånd definert sekvens.  
+ 
+UPS – Un-interupted Power Supply  
+I tillegg til nødstrøm har kontroll systemet batteri backup system, med en kapasitet på 30 minutters drift. 
+Dette systemet vil forsyne alle PLC i anlegget. Dette sikrer at kontroll systemet for anlegget er tilgjengelig 
+hele tiden og ikke faller ut ved en strømstans.

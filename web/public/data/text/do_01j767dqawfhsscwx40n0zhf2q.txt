@@ -1,0 +1,1298 @@
+﻿Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+Nedstrømsprosjektet i Bulandet 
+ 
+ 
+1 Innhold 
+2 
+Bakgrunn for prosjektet – utfordringer og behov ...........................................................................2 
+3 
+Hovedproblemstillingene/forskingsspørsmålene ............................................................................2 
+4 
+De viktigste funnene/resultatene ....................................................................................................3 
+4.1 
+Modellering av massebalanse for pilotanlegg i Bulandet ........................................................3 
+4.2 
+Evaluering av mulige teknologiske og biologiske renseløsninger ............................................5 
+4.2.1 
+Estimering av renseeffekt og nettoutslipp ......................................................................7 
+4.2.2 
+Dynamisk masseflytmodell til estimering av effekt i forskjellige prosesstrinn i 
+håndtering av slamavløp .................................................................................................................8 
+4.2.3 
+Fisketank med integrert sedimentering ..........................................................................9 
+4.2.4 
+Mekanisk primærfiltrering av slamavløp .......................................................................10 
+4.2.5 
+Avvanning og tørking av slammet .................................................................................12 
+4.2.6 
+Opsjon lavtrofiske organismer (Børstemark, Tunikater) ...............................................12 
+4.2.7 
+Opsjon makroalger (tare) ..............................................................................................14 
+4.2.8 
+Opsjon Biogass ...............................................................................................................14 
+5 
+Evaluering av prosjektet ................................................................................................................17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+2 Bakgrunn for prosjektet – utfordringer og behov  
+Bulandet miljøfisk AS sitt prosjekt 317935 Nedstrømsprosjektet i Bulandet er et prosjekt finansiert av 
+RFF Vestland, med støtte fra Askvoll Kommune. Bakgrunn for prosjektet er at Bulandet Miljøfisk AS 
+bygger et landbasert pilotanlegg for produksjon av laks basert på en kombinasjon av 
+gjennomstrømning og gjenbruk av sjøvann. Mengden sjøvann som går gjennom anlegget under 
+vanlig drift er høyt sammenlignet med f.eks. landbaserte RAS-anlegg. Dette er noe som kan gi 
+fordeler, men også nye utfordringer når det kommer til gunstige valg av produksjonsstrategier og 
+riktig håndtering av avløpsvann. Prosjektets mål er å kunne gjennomføre en grundig modellering av 
+forventede utslipp fra drift i pilotfasen, hvordan ulike produksjonsstrategier og valg kan påvirke 
+dette, samt kartlegge tilgjengelig teknologi og kunnskap for teknisk og/eller biologisk rensing. Med 
+dette vil man på bestmulig måte kunne ivareta Bulandet Miljøfisk AS sin sirkulærøkonomiske 
+tilnærming til utslipp ved en senere oppskalering av drift. Løsningene skal kunne være overførbare til 
+andre landbaserte anlegg og lukkede anlegg i sjø. Prosjektleder er Akvahub AS v/ Trygve Hallberg og 
+FOU utføres av Akvahub AS v/ Daniel Todt, STIM v/ Per-Otto Johansen og Jesse Trushenski 
+ 
+ 
+ 
+ 
+3 Hovedproblemstillingene/forskingsspørsmålene 
+• 
+Kan man standardisere metodikken for å måle/modellere utslipp for å sammenligne på tvers 
+av ulike driftsformer (gjennomstrømming, gjenbruk, RAS, lukket flytende merd, åpen merd) 
+og ulike renseløsninger?  
+• 
+Hva blir det reelle næringsutslippet fra pilotanlegget til omgivelsene og hvilket potensial og i 
+hvilket omfang kan dette påvirke det omkringliggende miljø? 
+• 
+Hvilke teknologiske renseløsninger kan håndtere utslippet fra pilotanlegget? 
+• 
+Hvilke biologiske renseløsninger kan håndtere utslippet fra pilotanlegget, og hva er 
+potensialet for lavtrofisk produksjon som kan inngå i andre verdikjeder? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+4 De viktigste funnene/resultatene 
+4.1 Modellering av massebalanse for pilotanlegg i Bulandet  
+ 
+God massemodellering er kritisk for å kunne beregne utslipp, og renseeffekt, i semilukket eller lukket 
+oppdrett. Antallet faktorer som spiller inn er svært høy, og en systematisk tilnærming til dette er 
+viktig. STIM har i samarbeid med Bulandet Miljøfisk AS utviklet en modell som gir et estimat for 
+utslippsregnskapet gjennom en 14 måneders pilotfase på Bulandet fra 2022 til 2023. Figur 1 viser en 
+skjematisk fremstilling av de ulike leddene som vurderes i denne modellen.  
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 1 Skjematisk framstilling av massebalansemodellen og hvilke faktorer som spiller inn her. Antall faktorer er svært høy, 
+og å holde kontroll på disse vil være vesentlig i en tidlig driftsfase om man vil verifisere og forbedre modellen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+ 
+ 
+ 
+Egnethet som verktøy for å modellere utslipp, sammenligne på tvers av ulike driftsformer og 
+renseløsninger 
+Det anses som sannsynlig at modellen også kan utvikles som et godt verktøy i fremtiden for å kunne 
+gjøre gode driftsmessige valg i hensyn til spesifikke innsatsfaktorer. Det har allerede i forprosjektet 
+vist seg at små justeringer i innsatsfaktorer (for eksempel fordøyelighet og retensjonsgrad i fisk) vil 
+kunne ha stor betydning for hvordan innsatsfaktorene balanseres i systemet.  
+Basert på foreløpige vurderinger vil det være av vesentlig betydning å ha tilgjengelig høyoppløselige 
+data som beskriver innsatsfaktorer og fisk i ulike driftsfaser/miljøforhold.  
+ 
+Modellerte utslipp i produksjonsfasen 
+Utslippene er vurdert ut fra en produksjonsmodell hvor man setter ut 600 000 smolt fordelt på 4 
+tanker. Av disse tas ca. 360 000 fisk ut som stor post-smolt etter 4-5 måneder produksjonstid, videre 
+holdes resten som matfisk fram til slakt med gradvis utslakting mot slutten av produksjonsperioden. 
+Brutto produksjon biomasse i perioden er beregnet til 1278 tonn. Dette gir et estimert utslipp vist i 
+Tabell 1.  
+ 
+Tabell 1 Modellerte utslipp i et scenario hvor man har kombinasjon av post-smolt og matfiskproduksjon over 
+426 dager. Produksjonsperiode 1. Mai til 30. Juni påfølgende år. Den antar 2 prosent spillfôr og en akkumulert 
+FCR på 1,05. Modellen har ikke tatt for seg utgang av fisk gjennom produksjonssyklusen. Tabellen viser også 
+modellert slamsamling av dette fra «Arbeidspakke 2». Estimatene for partikler (TSS) og til dels fosfor (P) vil i 
+stor grad variere veldig ut fra resultatet av partikkelsedimentering (figur 6) og filterets effekt og 
+partikkelstørrelser (figur 7). 
+ 
+ 
+ 
+Total utslipp (kg) under produksjonssyklus med kombinasjon av post-smolt 
+og matfisk-produksjon (14 måneder, 426 dager) 
+ 
+ 
+P 
+N 
+TOC 
+POC 
+TSS 
+Feaces/förspill 
+12 924 
+42 813 
+145 389 
+123 580  
+ 
+316 062 
+Slam 
+3 618 
+1 726 
+63 026 
+63 026 
+161 192 
+Utslipp sjø 
+9 306 
+41 087 
+82 363 
+60 554 
+154 870 
+Utslipp/tonn prod. 
+7,13 
+32,14 
+64,44 
+47,37 
+121,16 
+Renseeffekt 
+31,7 % 
+4,0 %  
+43,4 % 
+51,0 % 
+51,0 % 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+ 
+4.2 Evaluering av mulige teknologiske og biologiske renseløsninger 
+ 
+ 
+Figur 2 3D-modell av anlegget pr. 13.01.21. Røret nede til høyre i bildet er plassert slik at man kan teste filtrering av utløp 
+fra 1 av tankene under pilotfasen, uten å måtte aktivt pumpe vannet inn i filteret. 
+ 
+Bulandet Miljøfisk benytter en type fisketank med integrert slamsedimentasjon som er nærmere 
+omtalt i den påfølgende kapittel 4.2.3. I en slik fisketank blir vannstrømmen delt opp i to 
+utløpsfraksjoner: et såkalt hovedavløp som omfatter 60-80% av volumstrømmen og et såkalt 
+slamavløp som omfatter 20-40% av volumstrømmen og ideelt sett mesteparten av partikulært 
+utslipp i form av feaces og fôrspill. Slamavløpet skal behandles gjennom en teknisk prosesslinje mens 
+hovedavløpet føres tilbake til sjøen gjennom en grovsil som forhindrer rømming av fisk. Evalueringen 
+legger til grunn en standard prosesslinje som vanligvis benyttes til slike anlegg. Dette består av et 
+primærfilter som separerer partikulært materiale fra vannfase til en slamfraksjon som avvannes og 
+tørkes i påfølgende prosesstrinn. Vannfase fra slike filter føres vanligvis uten videre behandling ut i 
+sjøene. Til Bulandet har man evaluert å etablere en såkalt rensehage som referer til en naturbasert 
+sluttrensetrinn i en naturlig eller kunstig lagune der det kan dyrkes makroalger (tang, tare) eller 
+lavtrofiske organismer (tunicater, børstemark) til bioremediasjon av næringsstoffer og 
+restpartikulært utslipp. I videre prosessering av slamfraksjonen har det blitt evaluert et opsjonelt 
+biogasstrinn i et såkalt «upflow anaerobic sludge blanket» UASB-reaktor som kan redusere 
+slammassen som må avvannes, tørkes og fraktes videre til gjenvinning i eksempelvis landbruk. Figur 3 
+viser en skjematisk oversikt over prosesslinjen og masseflyt inkluderer de nevnte opsjonelle 
+komponentene.  
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+ 
+Figur 3: Flytdiagram over avløpssystem fra Bulandet Miljøfisk sine oppdrettstanker og prosesslinje til håndtering av 
+slamavløp som har blitt lagt til grunn til masseflytmodellering 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S
+H
+I
+primærfilter
+(mekanisk)
+fisketank med integrert 
+sedimentering
+avvanning
+tørking
+tørket 
+slamprodukt
+til landbruk
+slamavløp
+innløp
+primærutslipp
+sjøen
+opsjon
+Biogass (UASB)
+Rensehage (lagun)
+slamfraksjon
+filtrat
+væskefase
+hovedavløp
+Sekundærutslipp 
+sjøen
+opsjon
+Tunikater
+opsjon
+tare
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+4.2.1 Estimering av renseeffekt og nettoutslipp 
+Basert på massebalansemodellen, og estimert effekt av rensetrinn har man komt fram til estimater 
+for renseeffekt i produksjonsperioden som vist i Tabell 3 og Figur 4 
+ 
+ 
+Figur 4 Prosentvis reduksjon av utslipp modellert over en tenkt produksjonssyklus (426 dager, 14 måneder) Det 
+er stor usikkerhet rundt disse verdiene pga. usikkerhet rundt sedimentering( Figur 9) og primærfiltereffekt (Figur 
+10). 
+Tabell 2: Estimert nettoutslipp per døgn fra pilotanlegget på Bulandet bestående av 4 fisketanker basert basisprosesslinje til 
+håndtering av slamavløpet som har blitt evaluert med masseflytmodellen som er utdypet de påfølgende kapitelene 
+Nettoutslipp pilot Buland 
+Sammenligning med kommunalt avløp 
+ 
+anslått 
+konsentrasjon 
+per 
+døgn 
+typisk mengde i 
+per PE per døgn 
+i råkloakk1 
+nettoutslipp Buland i 
+antall PE (råkloakk) 
+konsentrasjon i utløp av 
+større kommunale 
+renseanlegg2 
+SS 
+2.1 mg/L 
+256 kg 
+50 g 
+5’100 
+2-5 mg/L 
+TOC 
+0.7 mg/L 
+115 kg 
+n.a. 
+n.a. 
+4.2 mg/L 
+Fosfor 
+0.1 mg/L 
+20 kg 
+1.2 g 
+16’800 
+0.1 mg/L 
+Nitrogen 
+0.6 mg/L 
+97 kg 
+12 g 
+8’000 
+7.3 mg/L 
+ 
+ 
+ 
+1 Basert på tall fra sanitært avløp (kun husholdingsavløp uten overvann fra tak og veiflater) Todt et al. 2012 
+2 Gjennomsnittstall fra Bekkelaget Renseanlegg i Oslo (i normal drift) hentet fra NIVA rapport 7192-2017: Vurdering av 
+effekter på vannkvaliteten og endrede utslipp i Bunnefjorden og Bekkelagsbassenget (Tall for TOC, N, P)  
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+4.2.2 Dynamisk masseflytmodell til estimering av effekt i forskjellige prosesstrinn i 
+håndtering av slamavløp 
+Til en første grov kvantifisering av utslippet og en mulig utslippsreduksjon gjennom en teknisk 
+prosesslinje som er illustrert i Figur 3, har det blitt etablert en dynamisk masseflytmodell i Excel 
+(Figur 5).  
+ 
+Figur 5 Masseflytmodell i MS Excel for prosesslinjen vist i Figur 3. Modellen gir estimater for avfallsprodukter, 
+inkludert næringsstoffer basert på litteratur og modellen utarbeidet av STIM. Dette inkluderer mulighet for å 
+inkludere eller ekskludere biologiske eller tekniske trinn, og den gir da estimater for effekt av disse. 
+Som input legger modellen til grunn en typisk gjennomsnittlig fiskebestand i et pilotanlegg bestående 
+av 4 fisketanker med tilsvarende gjennomsnittlig utslipp av feaces og fôrspill i løpet av et døgn (Figur 
+5). Utslippstallene har blitt hentet fra kalkulasjonen STIM har etablert for en produksjonssyklus. 
+Tørrstoff og TSS har blitt estimert med hjelp av en omregningsfaktor basert på en gjennomsnittlig 
+andel TOC i slam fra akvakulturanlegg hentet fra Zhang et al. 2021. 
+ 
+Figur 6: Inputstall til masseflytmodell basert på gjennomsnittstall fra kalkulasjon av en produksjonssyklus fra STIM 
+ 
+Fisketank
+Gjennomnsittsutslipp per døgn i et fisketank
+Totalvolum fisketank
+3500 m3
+Hydraulisk oppholdstid
+29 min
+TOC
+Q in
+Fiskebiomasse per tank
+103 t
+totalt
+63,2 kg/d
+120 m3/min
+Fiskebiomasse totalt i alle fisketanker
+412 t
+oppløst
+9,5 kg/d
+Fisketettehet
+29 kg/m3
+partikulært
+53,8 kg/d
+TOC andel tørrstoff
+391 g/kg dm
+Tilførsel fôrspill/feaces per tank
+137 kg DM/d
+TS utslipp (estimert)
+137,5 kg/d
+TSS i fisketank
+6 mg/L
+andel store partikkler >100µm2
+80 %
+Fosfor
+totalt
+7,7 kg/d
+Sedimentasjonskoeffisient*
+oppløst
+2,4 kg/d
+opsjon biogas off
+partikkler >100µm
+72 %
+partikulært
+5,3 kg/d
+Q 0,00m3/h
+partikkler <100µm
+10 %
+0,00 % av totalvolum
+Total sedimentasjoneffektivitet
+60 %
+Nitrogen
+Q innløp per tank
+30 m3/min
+totalt
+25,0 kg/d
+total sludge mass: 0kg DM/d
+Volumfraksjon senteravløp
+25 %
+oppløst
+22,9 kg/d
+fosfor partikulært 0,00 kg/d
+partikulært
+2,1 kg/d
+fosfor løst 0,0 kg/d
+nitrogen partikulært 0,00 kg/d
+nitrogen løst 0,0 kg/d
+Antall fisketanker
+4
+Partikkelfilter (primærseparasjon)
+Avvanning
+Landbruk
+Slamavløp
+tilsvarer avløpsmengde fra 172 800 PE
+Q 1,800m3/h
+Q 0,03m3/h
+avvannet slam
+306 m3/y
+Q 30m3/min
+effektivitet partikkler >100µm
+91 %
+0,025 % av totalvolum
+tørrstoff etter avvanning
+35 %
+0,0005 % av totalvolum
+tørket slam
+104 t DM/y
+Hovedutløp
+25 % av totalvolum
+effektivitet partikkler <100µm
+20 %
+TSS 7 g/L
+TSS rejektvann
+200 mg/L
+total sludge mass: 285kg DM/d
+andel tilførsel feaces/fôrspill
+52 %
+Q 24m3/min
+TSS 8,0 mg/L
+spølevolum
+1,0 L per m3
+total sludge mass: 294kg DM/d
+fosfor partikulært 11 kg/d
+20 % av totalvolum
+SS>100µm: 7,3mg/L
+effekt overall
+85 %
+fosfor partikulært 11 kg/d
+nitrogen partikulært 4,2 kg/d
+akkumulert fosfor
+4 t P/y
+TSS 6,0 mg/L
+SS>100µm: 0,6mg/L
+fosfor løst 0,00 kg/d
+35 %
+total sludge mass: 206kg DM/d
+partikler>100µm: 317kg DM/d
+nitrogen partikulært 4 kg/d
+akkumulert nitrogen
+2 t N/y
+fosfor partikulært 8,6 kg/d
+partikler<100µm: 27kg DM/d
+nitrogen løst 0,000 kg/d
+4 %
+fosfor løst 7,2 kg/d
+total sludge mass: 344kg DM/d
+Q 30m3/min
+nitrogen partikulært 3,3 kg/d
+fosfor partikulært 12,7 kg/d
+25 % av totalvolum
+nitrogen løst 68,6 kg/d
+fosfor løst 2,4 kg/d
+TSS 1,2 mg/L
+væske fra biogassprosesslinje
+Q 1,77m3/h
+nitrogen partikulært 4,9 kg/d
+total sludge mass: 51kg DM/d
+Q 0,00m3/h
+TSS 72 g/L
+TSS 200,0 mg/L
+nitrogen løst 22,9 kg/d
+fosfor partikulært 1,9 kg/d
+0,000 % av totalvolum
+total sludge mass: 8,47kg DM/d
+fosfor løst 2,4 kg/d
+fosfor partikulært 0,3 kg/d
+nitrogen partikulært 0,72 kg/d
+total sludge mass: 0,0kg DM/d
+fosfor løst 0,00 kg/d
+nitrogen løst 22,9 kg/d
+fosfor partikulært 0,0 kg/d
+nitrogen partikulært 0,1 kg/d
+fosfor løst 0,00 kg/d
+nitrogen løst 0,000 kg/d
+Rensehage (lagun)
+nitrogen partikulært 0,00 kg/d
+Resipient (sjø)
+nitrogen løst 0,000 kg/d
+Rejektvannfilter
+opsjon tunikater off
+akkumulert slammasse
+94 t DM/y
+TSS reduksjon
+90 %
+andel tilførsel feaces/fôrspill
+47 %
+spølevolum
+2,5 L per m3
+akkumulert fosfor
+7,6 t P/y
+68 %
+Q 1,77m3/h
+akkumulert nitrogen
+34,9 t N/y
+Q 30m3/min
+0,02 % av totalvolum
+96 %
+0,42 % av totalvolum
+opsjon tang&tåre off
+TSS 20,0 mg/L
+TSS 0,1 mg/L
+total sludge mass: 0,85kg DM/d
+Andel fjernet
+total sludge mass: 51kg DM/d
+fosfor partikulært 0,0 kg/d
+TSS
+53 %
+fosfor partikulært 2,7 kg/d
+fosfor løst 0,00 kg/d
+P
+32 %
+fosfor løst 2,4 kg/d
+nitrogen partikulært 0,0 kg/d
+N
+4,2 %
+nitrogen partikulært 1 kg/d
+nitrogen løst 0,000 kg/d
+nitrogen løst 23 kg/d
+* prosent suspendert stoff som synker til 
+bunnseksjon i løpet av hydraulisk oppholdstid
+Q 4,4L/h
+total sludge mass: 7,6kg DM/d
+tunicate
+basseng
+tang
+og
+tåre
+lagun
+Fisketank
+Gjennomnsittsutslipp per døgn i et fisketank
+Totalvolum fisketank
+3500 m3
+Hydraulisk oppholdstid
+29 min
+TOC
+Fiskebiomasse per tank
+103 t
+totalt
+63,2 kg/d
+Fiskebiomasse totalt i alle fisketanker
+412 t
+oppløst
+9,5 kg/d
+Fisketettehet
+29 kg/m3
+partikulært
+53,8 kg/d
+TOC andel tørrstoff
+391 g/kg dm
+Tilførsel fôrspill/feaces per tank
+137 kg DM/d
+TS utslipp (estimert)
+137,5 kg/d
+TSS i fisketank
+6 mg/L
+andel store partikkler >100µm2
+80 %
+Fosfor
+totalt
+7,7 kg/d
+Sedimentasjonskoeffisient*
+oppløst
+2,4 kg/d
+partikkler >100µm
+72 %
+partikulært
+5,3 kg/d
+partikkler <100µm
+10 %
+Total sedimentasjoneffektivitet
+60 %
+Nitrogen
+Q innløp per tank
+30 m3/min
+totalt
+25,0 kg/d
+Volumfraksjon senteravløp
+25 %
+oppløst
+22,9 kg/d
+partikulært
+2,1 kg/d
+Antall fisketanker
+4
+* prosent suspendert stoff som synker til 
+bunnseksjon i løpet av hydraulisk oppholdstid
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+4.2.3 Fisketank med integrert sedimentering 
+Bulandet Miljøfisk AS benytter seg en spesiell type fisketank med integrert sedimentering og separat 
+slamavløp. Det dreier seg om en modifisert variant av et så kallet «cornell type dual drain culture 
+tank» som er relativ utbredt design i RAS anlegg i Nordamerika (Summerfelt et. Al. 2004). 
+Hovedforskjell mellom fisketankene som benyttes på Bulandet og Cornell tankene i USA ligger føring 
+av hovedavløpet. På Cornell-tank (Figur 7) samles hovedavløp gjennom ytterveggen av tanken, mens 
+på Buland-tanken (Figur 8) samles hovedavløp i et vertikal rør som er i sentrum av fisketanken. Dette 
+fører til vesentlige forskjeller i strømningsbilde slik at effekttall om sedimentasjon fra de amerikanske 
+studier ikke nødvendigvis er direkte overførbar til Buland sitt anlegg. 
+ 
+Figur 7: Prinsipp og arrangement av innløp, hovedavløp (H) og slamavløp (slam) i et såkalt Cornell fisketank 
+ 
+Figur 8: Prinsipp og arrangement av innløp, hovedavløp (H) og slamavløp (slam) i fisketankene som installeres på Buland 
+Cornell-tank designet har oppnådd en høy sedimentasjonsprestasjon av 80% eller mer i en del RAS 
+anleggene i USA (Summerfelt et. Al. 2004). Det er derimot ikke sikkert om man oppnår tilsvarende 
+effekter med Buland-tanken, særlig under de høye strømningshastigheter som ønskes å oppnå i selve 
+tanken. Til utslippsberegninger har man derfor tatt utgangspunkt i en basisverdi av 60%. Denne verdi 
+er svært usikkert og kan variere fra 25% til 80% eller mer, som igjen gir et stort utslag på den totale 
+renseeffekt man klare å oppnå gjennom en slamprosesslinje (Figur 9). I den mest ugunstigste tilfelle 
+tilsvarer forholdene i fisketanken et såkalt contineus stirred reaction tank som betyr at konsentrasjon 
+er likt over hele tankvolum og mengde slam som føres til slamprosesslinje defineres kun av 
+vannfraksjon som føres ut slamavløpet som igjen fører til at den totale renseeffekt blir svært dårlig 
+(mindre enn 20% for alle parametere). Sedimentasjonseffekt i fisketank er derfor et sentralt første 
+steg i rense- og slamprosesslinje og bør tilsvarende kvantifiseres og optimeres gjennom et Bulandets 
+pilotfase. 
+ 
+slam
+slam
+H
+H
+innløp
+innløp
+slam
+slam
+H
+innløp
+innløp
+H
+H
+H
+H
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+ 
+Figur 9: Prosentandel av slam og næringsstoffer tilført via fôrspill/faeces som fjernes i en standartprosesslinje i avhengighet 
+av sedimentasjonskoeffisient i fisketanken. Sedimentasjonskoeffisienten referer til andel av om partikulært masse som 
+sedimenterer til bunn og ender opp i slamavløp.  
+ 
+4.2.4 Mekanisk primærfiltrering av slamavløp 
+Utfordringen med slamavløp er den store volumstrøm av 30m3 per minutt som tilsvarer en 
+kommunal avløpsmengde fra en by med 100’000 innbyggere3.  Konsentrasjon av forurensningsstoffer 
+er derimot svært lav og ligger omtrent i samme område som en utslippskonsentrasjon fra et større 
+kommunalt avløpsrenseanlegg (Tabell 3). Tatt i betraktning volumstrømmen og de estimerte 
+konsentrasjon av forurensningsstoffer er derfor begrepet «slamavløp» litt misvisende. Det dreier seg 
+mer om en relativ lav konsentrert avløpsvann sammenlignet med kommunalt eller industrielt avløp.  
+Tabell 3: Estimert bruttoutslipp og fraksjon i slamavløp fra pilotanlegget på Bulandet bestående av 4 fisketanker. Til 
+estimering av slamavløpsfraksjon har det blitt tatt utgangspunkt i at slamavløpet omfatter 25% av volumstrømmen og at 
+fisketanken oppnår en sedimenteringskoeffesient av 60% for feaces og förspill. 
+ 
+Estimert råutslipp fra pilotanlegget 
+samlet utløp (hoved- og 
+slamavløp) 
+fraksjon slamavløp 
+Sammenligning med kommunalt avløp 
+ 
+anslått 
+konsentrasjon 
+per 
+døgn 
+anslått 
+konsentrasjon 
+per 
+døgn 
+typisk mengde i 
+per PE per døgn 
+i råkloakk4 
+Slamavløp 
+Buland i 
+antall PE 
+konsentrasjon i utløp 
+av større kommunale 
+renseanlegg5 
+SS 
+4.6 mg/L 
+550 kg 
+8 mg/L 
+344 kg 
+50 g 
+6’800 
+2-5 mg/L 
+TOC 
+1.5 mg/L 
+253 kg 
+3.2 mg/L 
+138 kg 
+n.a. 
+n.a. 
+4.2 mg/L 
+Fosfor 
+0.2 mg/L 
+3 kg 
+0.4 mg/L 
+15 kg 
+1.2 g 
+12’600 
+0.1 mg/L 
+Nitrogen 
+0.6 mg/L 
+100 kg 
+0.6 mg/L 
+28 kg 
+12 g 
+2’300 
+7.3 mg/L 
+ 
+ 
+3 Basert på gj ennomsnittlig kommunal avløpsmengde per innbygger i Oslo (432 L/d) som inkluderer både sanitært 
+avløpsvann fra husholdninger og en del overvann fra veiflater tatt fra NIVA rapport 7192-2017 
+4 Basert på tall fra sanitært avløp (kun husholdingsavløp uten overvann fra tak og veiflater) Todt et al. 2012 
+5 Gjennomsnittstall fra Bekkelaget Renseanlegg i Oslo (i normal drift) hentet fra NIVA rapport 7192-2017: Vurdering av 
+effekter på vannkvaliteten og endrede utslipp i Bunnefjorden og Bekkelagsbassenget (Tall for TOC, N, P)  
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+%  fôrpill/faeces som fjernes totalt
+sedimentasjonkoeffisient fisketank
+partikkler
+P
+N
+basisverdi (60%)
+sannsynlig variasjon
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+Den store volumstrøm begrenser utvalg av teknologier som er økonomisk bærbar til en mekanisk 
+filtrering gjennom et trommelfilter eller diskfilter der det finnes flere produkter med tilsvarende 
+hydraulisk kapasitet på marked. Mer avanserte kjemiske eller mikrobielle rensetrinn er teknisk mulig, 
+men begrenset i effekt pga. ekstrem lave konsentrasjoner og heller ikke økonomisk forsvarlig for et 
+oppdrettsanlegg. Renseeffekt i viderebehandling av slamavløpet begrenses dermed til fjerning av 
+slampartikler (SS) og næringsstoffer som er bundet til partikler. 
+Effekten av en mekanisk filter er avhengig av filterets maskevidde, partikkelstørrelse i avløpsvannet 
+som skal filtreres og fysiske krefter ved filteroverflate som kan føre til knusing av større partikler. 
+Sistnevnte er igjen avhengig av fluxen gjennom filterflaten som er en funksjon av volumstrøm og 
+filterareal. Trommel- og diskfilter er mye i bruk i RAS anlegg der de pleier å oppnå en filtreringseffekt 
+av 60-95% på SS. Med utgangspunkt i et slikt filter og en forangående 60% sedimentering i 
+fisketankene (se 4.2.3) overføres det 36-55% av SS, 22-34% av fosfor og 3-5% v nitrogen (Figur 10) til 
+prosesslinjen for avvanning og tørking av slammet (se 4.2.5).  Primærfilterets prestasjon har dermed 
+sammen med sedimentasjonseffekten i fisketanken en betydelig effekt på den totale 
+utslippsreduksjon. Det anbefales derfor å teste og optimere en mekanisk filtretrinn i fullskala, 
+inkludert eventuell uttesting av forskjellige filtertyper, gjennom Bulandets pilotfase. Til 
+utslippsberegninger har man derfor tatt utgangspunkt i en basisverdi av 60%.  
+ 
+Figur 10: Prosentandel av slam og næringsstoffer tilført via fôrspill/faeces som fjernes i en standartprosesslinje i 
+avhengighet av effekten av primæfiltering.. 
+ 
+ 
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+% fôrpill/faeces som fjernes totalt
+effekt primærfillter (% fjerning SS i slamavløp)
+partikkler
+P
+N
+basisverdi (85%)
+sannsynlig variasjon
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+4.2.5 Avvanning og tørking av slammet 
+Slamfraksjon som kommer ut av et mekanisk filter er betydelig mer konsentrert og omfatter dermed 
+in en betydelig mindre volumstrøm enn slamavløp fra fisketankene. Med utgangspunkt i typiske 
+prestasjonstall fra trommel- og diskfiltere anslås slamfraksjon å omfatte en volumstrøm av 1.5-2 
+m3/h som tilsvarer en sanitær avløpsmengde fra et middelsstort boligfelt med ca. 250 innbyggere. Et 
+slikt volumstrøm er betydelig enklere å håndtere slik at det eventuell også kan etableres mer 
+avanserte kjemiske eventuell mikrobielle rensetrinn til håndtering av rejektvann fra avvanning slik at 
+man kan ta utgangspunkt at mesteparten av SS og næringstoffer fra slamfraksjon ut primærfilteret 
+kan overføres til et tørket slamprodukt til gjenvinning som gjødsel i landbruk (Figur 11). Teknologi til 
+avvanning og tørking er forholdsvis etablert også fra håndtering av kommunal kloakkslam. Det finnes 
+dermed flere slike anlegg på marked som dekker Buland sine behov som betyr at det ikke nødvendig 
+å etablere et spesifikk FoU aktivitet for den del av prosesslinjen.  
+ 
+Figur 11: Modellerte masseflyt gjennom et avvanning- og tørketrinn som inkludere en enkelt behandling av rejektvann fra 
+avvanningsanlegg. Til input har man tatt utgangspunkt i basisparametere av 60% sedimentasjon i fisketank og 85% effekt i 
+primærfilteret.  
+4.2.6 Opsjon lavtrofiske organismer (Børstemark, Tunikater) 
+Lavtrofiske organismer kan brukes til bioakkumulering av småpartikulært material og tilknyttete 
+næringsstoffer. Det særlig Polychaeta (børstemark) og Tunicata (tunikater) som til dels etablerer seg 
+naturlig rundt sjøbaserte akvakulturanlegg og det er flere pågående forskingsprosjekter som skal 
+etablering av slike organismer i en mer kontrollert form og gjenvinne den produserte biomassen til 
+produksjon av fôr, bioplast eller andre produkter. 
+Det er særlig tunikater som virker å være interessant for å etablere en biologisk rensetrinn i en 
+prosesslinje til behandling av slamavløpet. Tunikater har en høy filtereffekt på små partikler og 
+etablerer seg langs tredimensjonale strukturer som for eksempel pæler, rørledninger eller tau som 
+ligger i sjøen. Det har også blitt gjort dyrkingsforsøk der Tunikater ble dyrket langs vertikale 
+taustumper som henger ned i vannet. Det kan derfor tenkes å etablere en kombinasjon av 
+tunikatproduksjon og filter for små partikler i en kanalformet kunstig lagune eller kanalformet 
+basseng som er gjennomstrømt med vannfase som kommer ut av primærfilteret og/eller rejektvann 
+som kommer ut fra slamavvanning (Figur 12). 
+ 
+Avvanning
+Landbruk
+Q 0,180m3/h
+Q 0,02m3/h
+avvannet slam
+157 m3/y
+0,003 % av totalvolum
+tørrstoff etter avvanning
+35 %
+0,0002 % av totalvolum
+tørket slam
+55 t DM/y
+TSS 35 g/L
+TSS rejektvann
+200 mg/L
+total sludge mass: 149kg DM/d
+andel tilførsel feaces/fôrspill
+27 %
+total sludge mass: 150kg DM/d
+fosfor partikulært 9 kg/d
+fosfor partikulært 9 kg/d
+nitrogen partikulært 0,4 kg/d
+akkumulert fosfor
+3 t P/y
+fosfor løst 0,94 kg/d
+31 %
+nitrogen partikulært 0 kg/d
+akkumulert nitrogen
+0 t N/y
+nitrogen løst 0,420 kg/d
+0 %
+Q 0,16m3/h
+TSS 72 g/L
+TSS 200,0 mg/L
+total sludge mass: 0,78kg DM/d
+fosfor partikulært 0,0 kg/d
+fosfor løst 0,94 kg/d
+nitrogen partikulært 0,0 kg/d
+nitrogen løst 0,420 kg/d
+Rejektvannfilter
+TSS reduksjon
+90 %
+spølevolum
+2,5 L per m3
+Q 0,16m3/h
+0,00 % av totalvolum
+TSS 20,0 mg/L
+total sludge mass: 0,08kg DM/d
+fosfor partikulært 0,0 kg/d
+fosfor løst 0,94 kg/d
+nitrogen partikulært 0,0 kg/d
+nitrogen løst 0,420 kg/d
+Q 0,4L/h
+total sludge mass: 0,7kg DM/d
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+Tunikater er effektive på å ta opp små partikler i størrelse av 1-25 µm. Større partikler kan derimot 
+føre til en gjenstøping av fordøyelsestrakten og død av enkeltindivider og medfølgt uttynning av 
+koloniene og reduksjon av anleggets filtreringseffekt.  Innløpt til et slik tunikatproduksjonsanlegg bør 
+derfor ha gått gjennom et filteranlegg med maskevidde av 30µm eller lavere slik at konsentrasjon av 
+partikler i en kritisk størrelse av >30µm ikke kommer til å overstige 0.5 mg/L. 
+ 
+Figur 12: Mulig oppsett av et kombinert filter for små partikler og produksjon av tunikater i en kunstig lagune eller 
+kanalformet basseng. Bilde til venstre viser anlegget i tverrsnitt og bilde til høyre viser anlegget i grunnplan. 
+Et biologisk rensetrinn med en tunikatfilter/produksjon i en kunstig lagune slik skissert i Figur 12 har 
+ikke ennå blitt testet, men det finnes noe erfaring med dyrking på vertikale taustumper fra 
+forskningsprosjekter. Dersom det ønskes en videre evaluering av et tunikatfilter gjennom Buland sin 
+pilotfase anbefales derfor å starte med et nedskalert testanlegg med 2-4m2 lagunareal og 1.5-2m 
+dybde som tilføres kun en liten delstrøm av slamavløpet. I et slik testanlegg bør sentrale tekniske 
+parameter, som strømningshastighet og resulterende flux gjennom selve filterlagune, evalueres og 
+produksjons- og høsterutinene optimeres. I tillegg kan man etablere et bedre datagrunnlag til en 
+massebalanse. Den forventet effekt på den totale utslippsreduksjon fra en etterpolering av vannfase 
+fra primærfilteret gjennom en tunikatlagune er derimot forholdsvis beskjeden selv ved en 100% 
+opptak av de gjenværende partikler (Figur 13). En etablering av en tunikatlagune er dermed først og 
+fremst interessant i sammenheng med et sirkulært ressurshåndtering. 
+ 
+Figur 13: Prosentandel av slam og næringsstoffer tilført via fôrspill/faeces som fjernes i en standartprosesslinje i 
+avhengighet av filtreringseffekten av tunikater på de resterende partikler etter primærfiltrering 
+tau
+stump
+vekt
+holdekonstruksjon til opphenging 
+av taustrumper
+vannfase primærfilter
+utløp til sjø
+tverrsnitt gjennom et filterlag
+grunnplan
+tunikatkolonier
+på taustumper
+Daniel Todt, Multiconsult, Jan 22
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+%  fôrpill/faeces som fjernes totalt
+opptak av resterende partikler etter primærfiltrering (%) 
+partikkler
+P
+N
+sannsynlig variasjon
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+4.2.7 Opsjon makroalger (tare) 
+Makroalger tar opp løste næringsstoffer til produksjon av biomasse. Nylige forskingsprosjekter 
+(upublisert) til bioremediasjon av nitrogen andre løste næringssalter i et IMTA-prosjekt knytt til 
+oppdrett av laks viser at en hektar dyrkingsflate med sukkertare (Saccharina latissima) tar opp 250-
+450kg nitrogen og 45kg fosfor. En taredyrking i sjøarealene tilknyttet utslippspunktene fra 
+slamavløpsprosesslinje og hovedavløpet har derfor blitt integrert i Bulandets masseflytmodell.  
+Figur 14 viser effekten per hektar dyrkingsareal med tare som kan oppnås på den totale 
+utslippsreduksjon i tillegg til en teknisk rensing av slamavløpet. Tare og andre makroalger har ingen 
+effekt på partikler og utslipp av partikelbundete næringsstoffer. En tareproduksjon kan derimot ha 
+en betydelig effekt på reduksjon av utslippet av løste næringsstoffer, særlig nitrogen. Med 18ha 
+dyrkingsareal med tare kunne man ta opp alt løst nitrogen som slippes ut fra i et pilotanlegg 
+bestående av 4 fisketanker. En ypperlig økning av dyrkingsarealet kan medføre en limitasjon i 
+nitrogen med mindre det ikke finnes andre nitrogenkilder i området (avrenning fra landbruk, 
+kloakkutslipp). Maksimal effekt som kan oppnås med en tareproduksjon i kombinasjon med en 
+teknisk rensing av slamavløpet er 51% reduksjon av partikkelutslipp, 67% reduksjon av fosforutslipp 
+(forutsatt det ikke foreligger en N-limitasjon) og 96% reduksjon av nitrogenutslipp. Den resterende 
+andel av fôrspill og feaces og tilknyttete næringsstoffer forlater anlegget som partikulært utslipp 
+gjennom hovedavløpet der det ikke er planlagt å etablere noe rensetrinn. 
+ 
+Figur 14: Prosentandel av slam og næringsstoffer tilført via fôrspill/faeces som fjernes i en standartprosesslinje i 
+avhengighet av antall ha dyrkingsareal med tare som etableres i tilknytning til utslippspunktene (delvis renset slamavløp, 
+hovedavløp) 
+ 
+4.2.8 Opsjon Biogass 
+Anaerob utråtning er en prosess som reduserer organisk material til biogass som kan brukes som 
+fornybar energikilde.  En slik prosess produserer ikke bare et verdifullt sluttprodukt i form av biogass 
+men reduserer også masse av organisk stoff i substratet som mates gjennom reaktoren. Anaerob 
+utråtning har derfor blitt svært populært ledd i håndtering av våtorganisk avfall eller kloakkslam 
+dersom den fører til at sluttprodukt har et mindre volum og vekt sammenlignet med en rent 
+kjemisk/fysikalsk prosesskjede til avanning og tørking. Biogassreaktorer har også blitt testet til 
+0
+20
+40
+60
+80
+100
+0
+5
+10
+15
+20
+25
+30
+% fôrpill/faeces som fjernes totalt
+dyrkingsareal med tare [ha]
+partikkler
+P
+N
+Commented [TH1]:  Foreløpig virker det som anslaget er 
+maks 250, men dette er i åpen fjord, og vil derfor kunne 
+spisses i en laguneløsning. 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+behandling av slam fra ferskvannsbaserte RAS anlegg har biogassreaktorer med gode resultater 
+(Mirzoyan et al. 2010). Særlig såkalte upflow anaerobic sludge blanked (UASB) reaktorer som 
+kombinerer anaerob utråtning med en filtreringsprossess gjennom et såkalt slampute virker å være 
+en interessant opsjon i et prosesskjede til slamhåndtering. En UASB kan driftes med forholdsvis korte 
+hydrauliske oppholdstider av 2-10 dager og den integrerte filtrering reduserer volum av restslam som 
+må sendes til videre avvanning.  
+I masseflytmodellen har det blitt integrert en opsjon med en 2-kammer UASB biogassreaktor slik 
+skissert i Figur 15. Der har man lagt til grunn at 60% av COD (parameter som referer til organisk stoff) 
+omdannes til methan som er basert på erfaringer fra Moges et al. 2018 som har oppnådd opp til 70% 
+metanomdanning i samme type reaktor med konsentrert toalettavløp (svartvann) og  labforsøk som 
+tyder på at fiskeslam har en høy biogasspotential av 70% eller mer (Mirzoyan et al. 2010). Til restslam 
+har man tatt utgangspunkt at det må tapes 50 liter slam per m3 hydraulisk load som er basert på 
+erfaringer fra Moges et al. 2018.  
+ 
+Figur 15: Prosessintegrasjon av en UASB biogassreaktor som har blitt regnet som en opsjon i masseflytmodell 
+Resultater i Figur 16 tyder på at en biogasstrinn har et betydelig potensial for å redusere 
+slammengde som må avvannes, tørkes og videretransporters betraktelig. Tørking er en svært 
+energikrevende prosess og energiforbruk er avhengig av volum og slammets vanninnhold. Med en 
+forangående UASB trinn kan volumet som må tørkes neste halveres, og biogassen kan brukes som en 
+fornybar energikilde til selve tørkeprosessen. Med et slikt oppsett kan det være mulig å mer eller 
+mindre eliminere behovet for eksterne energikilder i slamprosessering som igjen har et betydelig 
+potensial for en reduksjon av driftskostnader. Med å ta utgangspunkt en høy biogassomdanning slik 
+lagt til grunn i modellen kan mengde tørket slam reduseres fra omtrent 20 til 12 tonn for Buland sitt 
+pilotanlegg som tilsvarer omtrent en lastebillast mindre for å få transportert det tørkete sluttprodukt 
+til videre prosessering. En slik reduksjon av transportbehov gir en gevinst i forhold til 
+kostnadsreduksjon, men også i forhold til forbedring av virksomhetens CO2 fotavtrykk og 
+miljøregnskap. 
+primærfilter
+(mekanisk)
+S
+H
+I
+Slamavløp 
+fisketank
+slamfraksjon
+sludge
+blanked
+(filtration and degradation)
+residual sludge
+sludge
+blanked
+internal 
+recirculation
+etterpolerings-
+filter
+avvanning
+tørking
+Rensehage (lagun)
+UASB biogass reaktor
+væskefase
+tørket 
+slamprodukt
+til landbruk
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+ 
+Figur 16: Effekt av en UASB-basert biogasstrinn på volum råslam som må avvannes og tørkes (bilde til venstre) og tonn 
+tørrvekt prosessert slam som må transporteres bort til videre gjenvinning i landbruk (bilde til høyre) 
+Det er derimot relativ lite erfaring med biogassprosesser med slam fra martime akvakulturanlegg 
+med sjørvann. Flere studier har funnet at noe methandannende baktierarter inhibitteres av høyt 
+saltinnhold. Samtidig finnes det også indikasjoner at noen bakterier som finnes martime sedimenter 
+produserer methan også ved høy salinitet (Wang et al. 2017). Dersom det ønskes en videre 
+evaluering av biogass i en prosesslinje burde man få et større FoU prosjekt der i en første fase testes 
+biogassposialet av maritimt fiskeslam og finne god inokulumslam fra anaerobe bunnsedimenter. I 
+neste fase kan effekten av et biogasstrinn testes i en nedskalert reaktor som gir et representativt 
+bilde i forhold til hydraulikk og nedbrytingsprosesser.  
+ 
+ 
+ 
+ 
+0
+20
+40
+60
+80
+100
+120
+med UASB biogasstrinn
+uten biogasstrinn
+tonn tørrvekt per år
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+18000
+med UASB biogasstrinn
+uten biogasstrinn
+m3 råslam per år
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+ 
+ 
+ 
+5 Evaluering av prosjektet 
+ 
+Resultatet fra forprosjektet viser at 
+1. Massemodelleringsmodeller har mange viktige faktorer som gir utslag i usikkerhet. Det er 
+derfor vesentlig å ha høyoppløselige data tilgjengelig ved videre verifisering av tallene. Små 
+feilkilder vil kunne ha stor innvirkning på estimatene i modellen. 
+Blant annet bør man ha god oversikt over: 
+a. Fiskens helse, tilvekst og fôrfaktor osv 
+b. Fôrets innhold og kvalitet 
+c. Andel av fôret som ikke tas opp av fisk (Spillfôr og fôrstøv) 
+d. Driftsfase og miljøfaktorer 
+2. Modellen kan anvendes i andre produksjonsformer, forutsatt at man også der har gode data 
+ala punktene i 1. 
+3. Ved estimering av renseeffekt er det vesentlig å senere få kartlagt og vurdert 
+a. Sedimentasjonseffekten i fisketanken i pilotfasen. Renseeffekten av partikulært 
+utslipp forutsetter at dette i størst mulig grad kanaliseres gjennom slamavløpet. Om 
+designet ikke tilfører noen effekt på oppsamling (likt innhold partikulært materiale) 
+vil man i verste fall bare ha sjansen til å rense 20-40% av vannstrømmen. 
+b. Partikkelstørrelser da dette påvirker hvor stor effekt ulike maskestørrelser i et 
+primærfilter vil kunne ha. 
+c. Andel av utslipp som kommer fra fôrspill og knust fôr da dette har stor effekt på 
+utslippet ved variasjon. Eksempelvis vil en økning fra 2% til 4% i fôrspill utgjøre ca. 29 
+tonn mer slam i en produksjonssyklus der man produserer ca. 1300 tonn fisk. 
+4. Grove estimater på utslipp tilsier at Bulandet i pilotfase vil ha et utslipp tilsvarende 5 000 – 
+16 800 mennesker avhengig av type utslipp man refererer til. Dette er foreløpig grove 
+estimater. 
+5. Vannmengdene som går gjennom anlegget gjør at utløpsvannet er relativt rent, og i 
+prosentinnhold under formelle rensekrav fra kommunale avløp i større byer. 
+6. Mer avanserte kjemiske eller mikrobielle rensetrinn er teknisk mulig, men begrenset i effekt 
+pga. ekstrem lave konsentrasjoner og heller ikke økonomisk forsvarlig for et oppdrettsanlegg. 
+Renseeffekt i viderebehandling av slamavløpet begrenses dermed til fjerning av slampartikler 
+(SS) og næringsstoffer som er bundet til partikler. 
+7. Primærfilter kan baseres på allerede eksisterende løsninger, men vil måtte håndtere svært 
+store mengder vann. Dette gjør at det er kritisk å gjøre en svært grundig vurdering av 
+primærfilterløsning.  
+8. Aktuelle teknologivalg etter primært rensefilter innebærer konvensjonelle utfordringer med 
+tørking og avvanning. Det finnes med andre ord allerede slike anlegg allerede på markedet 
+som dekker Bulandet Miljøfisk AS sine behov. 
+9. Tunikater evner å filtrere svært små partikler, og kan således brukes i kombinasjon med et 
+mekanisk filter. Det finnes pr. i dag ikke tilsvarende bruk av tunikater, og det anbefales derfor 
+å vurdere dette i et småskala-forsøk knytt til pilotfasen. Tunikater vil ha liten effekt på 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+totalutslippet med de nåværende modeller, men om andelen oppløst eller små partikler er 
+større enn antatt kan de har større effekt på utslippet. 
+10. Tare vil kunne være mulig å forsøke for å rense, spesielt Nitrogen og til dels fosfor, da en del 
+av dette er løst og ikke vil kunne tas opp av et ordinært filter. Dette krever et større areal, 
+men kan testes i småskala ala tunikatene. 
+11. Biogasstrinn har et betydelig potensial for å redusere slammengde som må avvannes, tørkes 
+og videretransporters betraktelig. Dette vil potensialt ha større effekt på miljøregnskapet og 
+CO2-fotavtrykket. Dersom det ønskes en videre evaluering av biogass i en prosesslinje burde 
+man få et større FoU prosjekt der i en første fase testes biogassposialet av maritimt fiskeslam 
+og finne god inokulumslam fra anaerobe bunnsedimenter 
+ 
+Veien videre 
+Ved ulike ulike fiskestørrelser, biomasser, tetthet av fisk, strømhastigheter, sjøtemperaturer, fôrvalg 
+osv. vil det være viktig å få dokumentert følgende: 
+ 
+1. Verifisere massebalansemodell i henhold til punkter nevnt i forrige avsnitt. Dette må 
+antageligvis gjøres med prøvetakning av vann, fisk og slam i en lengre periode under drift. 
+2. Kartlegge sedimeteringseffekten og partikkelstørrelsefordeling under drift. 
+3. Vurdere filterets evne til å filtrere ut ulike typer og mengder utslipp ved ulike filtertyper, 
+maskestørrelser osv. 
+Det vil dessuten være nødvendig å ta stilling til om man ønsker å iverksette prosjekt(er) knytt til 
+potensialet i lavtrofiske arter til bioremediering, eller biogass for å redusere slam som må avvannes, 
+tørkes og transporteres.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvahub AS 
+Leirvik 64, 6953 Leirvik i Sogn 
+Føretaksregisteret 918 422 013 MVA 
+References 
+Mirzoyan, N., Tal, Y. and Gross, A. (2010). Anaerobic digestion of sludge from intensive recirculating 
+aquaculture systems: Review. Aquaculture, 306(1-4), pp.1–6. DOI:10.1016/j.aquaculture.2010.05.028 
+Moges, M.E., Todt, D., Janka, E., Heistad, A. and Bakke, R. (2018). Sludge blanket anaerobic baffled 
+reactor for source-separated blackwater treatment. Water Science and Technology, 78(6), pp.1249–
+1259. DOI:10.2166/wst.2018.411 
+Summerfelt, S.T., Wilton, G., Roberts, D., Rimmer, T. and Fonkalsrud, K. (2004). Developments in 
+recirculating systems for Arctic char culture in North America. Aquacultural Engineering, 30(1-2), 
+pp.31–71. https://doi.org/10.1016/j.aquaeng.2003.09.001 
+Todt, D., Heistad, A. and Jenssen, P.D. (2015). Load and distribution of organic matter and nutrients 
+in a separated household wastewater stream. Environmental Technology, 36(12), pp.1584–1593. 
+DOI:10.1080/09593330.2014.997300 
+Wang, S., Hou, X. and Su, H. (2017). Exploration of the relationship between biogas production and 
+microbial community under high salinity conditions. Scientific Reports, 7(1). DOI: 10.1038/s41598-
+017-01298-y 
+Zhang H., Gao Y., Liu J., Lin Z., Lee C.T., Hashim H., Wu W.-M., Li C., 2021, Recovery of Nutrients from 
+Fish Sludge as Liquid Fertilizer to Enhance Sustainability of Aquaponics: A Review, Chemical 
+Engineering Transactions, 83, 55-60. https://doi.org/10.3303/CET2183010

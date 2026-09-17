@@ -1,0 +1,7499 @@
+﻿Akva
+safe
+Rapport
+C-undersøkelse ved 21335 Floteneset
+Produksjonsområde: 4 - Nordhordland til Stadt
+Kommune: Høyanger
+Fylke: Vestland
+Rapportnr.: MR-12207-0004C
+\•-•
+'•i• f: ,, .
+·I/,
+I.
+Oppfølgende undersøkelse
+Feltarbeid utført:
+Oppdragsgiver:
+18.10.2023
+Aller Aqua AS
+Akvasafe ASI www.akvasafe.no I Espehaugen 41, 5258 Blomsterdalen I post@akvasafe.no I 997 935 187 MVA
+KS-ID: V6.50.19, rev E
+NORSK
+AKKREDITERING
+TEST 321
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Generell informasjon
+Rapporttittel:
+C-undersøkelse ved 21335 Floteneset
+Rapportnummer:
+MR-12207-0004C
+Rapportdato:
+22.02.2024
+Prosjektnummer:
+3838
+Antall sider:
+74
+Feltarbeid utført (dato):
+18.10.2023
+Bakgrunn for undersøkelsen
+Ny lokalitet
+Endring (MTB/areal)
+Oppfølgingsundersøkelse
+(sett kryss):
+Generelt om lokalitet
+Lokalitetsnavn:
+Floteneset
+Lokalitetsnummer:
+21335
+Koordinater (anlegg):
+61°11,616'N
+Kommune:
+Høyanger
+05°48,097'Ø
+Fylke:
+Vestland
+Maks tillatt biomasse (MTB):
+1560 tonn
+Fisketype (art):
+Laks
+Produksjonsområde:
+4 - Nordhordland til Stadt
+Produksjonsstatus ved undersøkelsestidspunkt
+Biomasse ved undersøkelse:
+0 tonn
+Produsert mengde:
+Utforet mengde:
+Generasjon:
+Sist brakklagt (dato fra-til)
+18.04.2023 - pågående
+Informasjon fra Vann-Nett
+Vannforekomst-1D:
+Økoregion:
+Vanntype:
+0280022000-C
+Nordsjøen Nord
+M4, Ferskvannspåvirket beskyttet
+fjord
+Informasjon om oppdragsgiver
+Selskap
+Aller Aqua AS
+Kontaktperson
+Sturle Skeidsvoll
+Informasjon om oppdragsansvarlig
+Prosjektansvarlig:
+Mai-Louise Bouwman
+Forfatter(-e):
+Simon Nordblad Schmidt
+Kontrollert/godkjent av:
+Mai-Louise Bouwman
+Revisjonsnr.:
+Revisjonsdato:
+Beskrivelse:
+Feltarbeid og faglige fortolkninger: Ja,Akvasafe AS, Test 321 (NS-EN ISO/IEC 17025).
+Akkreditering:
+Fauna, Ja, Fishlab, DANAK TEST 578 (DS-EN ISO/IEC 17025).
+Kjemi: Ja, Eurofins AS, TEST 003 (NS-EN ISO/IEC 17025).
+Indeksberegninger og statistikk: Ja, Sea Eco AS, TEST 311 (NS-EN ISO/IEC 17025).
+Akvasafe AS
+www.akvasafe.no
+Espehaugen 41
+Org.nr.: 997935187 MVA
+E-post: post@akvasafe.no
+5258 Blomsterdalen
+Distribusjon:
+©Akvasafe AS. Kopiering av rapporten skal kun skje i sin helhet. Dersom kun deler av rapporten (tekstutsnitt, figurer, tabeller, re-
+sultater og konklusjoner) på noen måte skal gjengis, skal skriftlig tillatelse fra Akvasafe ASforeligge og kilde skal oppgis. Resultatene
+fremstilt i denne rapporten gjelder kun for beskrevne prøvestasjoner i det definerte området ved det spesifiserte prøvetidspunktet.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 2
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Forord
+Denne rapporten presenterer resultatene fra en C-undersøkelse gjennomført ved 21335 Floteneset i Høyanger kommune
+i Vestland fylke. C-undersøkelsen ble utført i forbindelse med søknad om fornyelse av utslippstillatelse. Undersøkelsen er
+den første av sin slag ved lokaliteten og resultatene vil derfor gi et øyeblikksbilde av tilstanden fra anleggssonen til ytter-
+kanten av overgangssonen som kan benyttes som referansedata ved fremtidige undersøkelser.
+Basert på lokalitetens MTB på 1560 tonn ble det tatt prøver fra tre prøvestasjoner. C-undersøkelsen omfatter en kvanti-
+tativ bunndyrsundersøkelse, kjemiske analyser av sedimentet, beskrivelse av bunnsubstratet gjennom kornfordelings-
+analyser, hydrografisk profilering av vannsøylen, samt elektrokjemiske målinger og sensoriske vurderinger.
+Akvasafe sitt laboratorium tilfredsstiller kravene i NS-EN ISO/IEC 17025 og er akkreditert for prøvetaking av sedimenter
+etter NS-EN ISO 16665, NS-EN ISO 5667 og NS9410, samt for faglige vurderinger og fortolkninger etter Veileder 02:2018,
+veileder M-608 og NS9410.
+Resultatene fra denne undersøkelsen rapporteres inn til Vannmiljø innen kort tid etter publisering av rapporten.
+Akvasafe AStakker Aller Aqua ASv/Sturle Skeidsvoll for oppdraget, samt ansatte for god hjelp ved prøvetakingen.
+Simon Nordblad Schmidt
+Bergen, 22.02.2024
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 3
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Sammendrag
+Denne rapporten omhandler en C-undersøkelse utført ved 21135 Floteneset i Høyanger kommune i Vestland fylke. Un-
+dersøkelsen ble gjennomført for å dokumentere miljøtilstanden i anleggssonen, overgangssonen og i ytterkanten av aver-
+gangssonen. Det ble tatt prøver fra tre prøvestasjoner basert på lokalitetens MTB og føringer i NS 9410:2016. Prøvesta-
+sjonene ble plassert i økende avstand fra anlegget og i forhold til spredningsstrøm, områdets batymetri og bunntype.
+Resultatene fra undersøkelsen ga indikasjoner på organisk påvirkning i både overgangssonen (FLO-3) og i ytterkanten av
+overgangssonen (FLO-2), og nEQR-verdien ved begge stasjonene ble klassifisert til endelig tilstandsklasse Ill - Moderat
+iht. Veileder 02:2018. Overgangssonen og ytterkanten av overgangssonen var dominert av den forurensningstolerante
+flerbørstemarken Paramphinome jeffreysii som utgjorde hhv. 54,1 og 58,5% av individene ved stasjonene. Ved begge
+stasjonene lå antall arter innenfor normalen, men noen enkeltarter viste tydelig dominans. CTDO-profileringen viste
+svært gode oksygenforhold i bunnvannet ved den dypeste stasjonen, og de elektrokjemiske målingene viste naturlige pH-
+og Eh-verdier. Både FL0-2 og FL0-3 hadde noe høye nTOC nivåer, og de ble begge klassifisert til Ill - Moderat, mens
+kobber- og sinknivåene ble klassifisert til tilstandsklasse li - God iht. Veileder M-608.
+I anleggssonen ble FLO-1 klassifisert til miljøtilstand 1-
+Meget god iht. NS9410:2016, da det ble registrert over 20 arter
+uten at en art utgjorde mer enn 65% av individene ved stasjonen. Prøven var dominert av den opportunistiske arten
+Prionospio steenstrupi og indikatorarten Capitella capitata som utgjorde hhv. 54,3 og 26,1% av individene. Resultatene
+viste forøvrig at det fremdeles er gode leveforhold for gravende bunndyr nært anlegget.
+I etterkant av undersøkelsen ble det oppmerksomgjort at FLO-2 ble plassert ca. 60 meter øst for lokalitetens tidligere
+anleggsplassering, som var i drift fra 2003 til 2014. Anlegget ble flyttet til dagens plassering i 2015. Det anses derfor som
+sannsynlig at belastningen som ble avdekket ved stasjonen også kan stamme fra produksjonen fra anlegget før det ble
+flyttet. Dette kan befestes av de relativt like resultatene fra både faunaanalyser og kjemiske støtteparameterne ved FLO-
+2 og FL0-3. Man forventer i hovedsak en større gradient og en tydelig reduksjon i konsentrasjoner med økende avstand
+fra et anlegg. Det kan dermed ikke med sikkerhet sies at påvirkningen registrert ved FLO-2 stammer fra dagens anlegg i
+sin helhet.
+Samlet sett vurderes resultatene fra undersøkelsen til en endelig tilstandsklasse Ill - Moderat for både overgangssonen
+og ytterkanten av overgangssonen. Neste C-undersøkelse skal derfor gjennomføres etter neste produksjonssyklus og det
+bør da gjennomføres en alternativ undersøkelse for å eventuelt kartlegge utbredelsen av den reduserte tilstanden.
+Diverse
+3D
+Slepestrek
+Hardhet
+Bunn
+S i t t
+500met
+0
+4.50
+Auto
+Relieff
+11 ,39 ,35-@-
+I
+31
+I
+25
+14
+·•:,Bugen j}_
+I r
+40
+I/
+I 1/.
+4 0 m
+• •
+Relativewater fux (%)
+per 15 deg sector
+12
+,,tr;J'!{(
+•I
+39
+I
+'I'I
+35
+/0
+I
+Inn
+I
+Ut
+• ti/ \_
+908% lagret
+n7505, 1/2-2024
+Plotterlag
+Kartvalg
+Dvbclekoter
+8
+I
+0 l e x
+Figur 1. Oversiktskart med plassering av lokalitet Floteneset, anleggetsfortøyningsliner og prøvestasjoner for C-undersøke/sen. Fargen på prøvestasjo-
+nens kvadrat representerer ti/standsklassen for stasjonens nEQR; blå= Svært god (I), grønn = God (Il), gul = Moderat (Ill), oransje= Dårlig (IV} og rød=
+Svært dårlig {V}. Rødt kryss markerer området hvor det ikke var mulig å få opp godkjente prøver. Strømrosen viser relativ vannfluks (%) i de ulike
+himmelretningene på spredningsdyp (40 meter). Lilla pil viser orientering av kart, rødtflagg markerer posisjonfor strømmålere. Kartdatum WGS84.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 4
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Hovedresultater
+Anleggssone
+Ytterkant
+Overgangssone
+FLO-1
+FLO-2
+FL0-3
+(C1)
+(C2)
+(C3)
+Avstand til anlegg (m)
+35
+310
+144
+Dyp (m)
+219
+232
+228
+GPS koordinater (WGS84)
+61°11,551'N
+61°11,402'N
+61°11,488'N
+05°48,125'Ø
+05°48,121'Ø
+05°48,156'Ø
+Antall arter
+23
+61
+57
+Antall individer
+4004
+1945
+2322
+H'
+1,784
+2,697
+2,564
+nEQR verdi
+0,331
+0,576
+0,545
+nEQR i overgangssonen
+0,545
+Oksygen i bunnvann (ml O,/L)
+8,75
+Organisk stoff
+34,5
+29,8
+29,1
+nTOC (mg/g)
+Kobber
+(mg/kg TS)
+Tilstand for Cl (NS 9410)
+- Meget god
+Tidspunkt for neste undersøkelse:
+Ved neste produksjonssyklus.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 5
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+Innholdsfortegnelse
+Forord ..
+3
+Sammendrag...
+4
+Hovedresultater...
+5
+1.
+Innledning ...
+7
+2.
+Område og prøvestasjoner ...
+9
+2.1.
+Plassering av prøvestasjoner...
+9
+2.2.
+Kart ...
+10
+2.3.
+Strømmålinger....
+12
+2.4.
+Tidligere undersøkelser ...
+13
+2.5.
+Drift og produksjon ...
+14
+3.
+Resultater...
+15
+3.1.
+Bløtbunnsfauna...
+15
+3.1.1.
+Anleggssonen (FLO-1)...
+16
+3.1.2.
+Ytterkant av overgangssone (FLO-2)....
+17
+3.1.3.
+Overgangssonen (FL0-3) ...
+18
+3.1.4.
+Økologiske grupper....
+19
+3.1.5.
+Samlet nEQR resultat...
+19
+3.2.
+Hydrografi....
+20
+3.3.
+Sediment ...
+21
+3.3.1.
+Sensoriske vurderinger ...
+21
+3.3.2.
+Kornfordeling...
+21
+3.3.3.
+Kjemiske parametere...
+21
+3.4.
+Avvik...
+22
+4
+Diskusjon...
+23
+5.
+Referanser...
+25
+6
+Vedlegg ...
+26
+Vedlegg 1
+Feltlogg prøveskjema...
+26
+Vedlegg 2
+Prøvetaking og analyser ...
+27
+Vedlegg 3
+Analysebevis...
+31
+Vedlegg 4
+Indeksbeskrivelser ...
+43
+Vedlegg 5
+Beregning av økologisk tilstand i overgangssonen (nEQR)...
+45
+Vedlegg 6
+Referansetilstand og klassegrenser ...
+46
+Vedlegg 7
+Analysebevis taksonomi m/fullstendige artslister...
+48
+Vedlegg 8
+Indeksering ...
+57
+Vedlegg 9
+CTD Rådata ...
+67
+Vedlegg 10
+Bilder av sedimentprøver...
+73
+Vedlegg 11
+Kart over anleggsplassering i 2014...
+74
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 6
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+1. Innledning
+C-undersøkelsen er en omfattende bløtbunnsundersøkelse som utføres i akvakulturanleggets «overgangssone». Over-
+gangssonen defineres som området utenfor anleggssonen hvor mindre og resuspendert organisk materiale sedimenterer,
+og den strekker seg vanligvis mot strømretningen eller mot større dyp hvis lokaliteten ligger over en sterkt skrånende
+bunn. Hensikten med undersøkelsen er å vurdere utstrekningen av påvirkning fra akvakulturanlegget og den gir et hel-
+hetlig bilde på miljøtilstanden og den organiske belastningen på anleggets resipientområde.
+Overvåkingen av bunnpåvirkning fra akvakulturanlegg i sjø er regulert av §40 i Akvakulturdriftsforskriften og skal følge
+Norsk Standard NS9410 som beskriver metodikk for overvåkningsprogram som skal anvendes ved risikobasert miljøover-
+våking av bunnpåvirkning fra marine akvakulturanlegg. Standarden refererer til NS EN-ISO 16665 Vannundersøke/se -
+Retningslinjer for kvantitativ prøvetaking og prøvebehandling av marin bløtbunnsfauna og NS EN-ISO 5667-19 Vannun-
+dersøkelse Del 19: Veiledning i sedimentprøvetaking i marine områder som beskriver prøvetakingsmetodikk for sedimen-
+ter som skal brukes til taksonomiske, kjemiske og geologiske analyser.
+I denne sammenhengen benyttes bløtbunnsfauna som en indikator for organisk belastning. Artssammensetningen og
+individtettheten reflekterer miljøforholdene ved lokaliteten over tid, da bløtbunnsarter vanligvis er flerårige og relativt
+stasjonære. De vanligste dyregruppene som finnes i sedimenter er børstemark, muslinger, snegler, krepsdyr og pigghu-
+der. I normale bløtbunnsamfunn finnes det mange ulike arter med relativt jevn fordeling av individer. Vanligvis finnes det
+mellom 50 og 300 individer og mellom 25 og 75 ulike arter i en grabbprøve (Direktoratsgruppen Vanndirektivet, 2018). I
+områder med mye påvirkning blir ømfintlige arter borte og artsmangfoldet reduseres, mens individtettheten av foruren-
+singstolerante arter øker. En reduksjon av forekomsten av ømfintlige arter vil resultere i en dårligere økologisk tilstand,
+og endringer i artssammensetningen vil da fanges opp gjennom overvåking og bruk av klassifiseringssystemet for Klassi-
+fisering av miljøtilstand i vann - Veileder 02:2018 (Direktoratsgruppen Vanndirektivet, 2018). Klassifiseringssystemet er
+basert på diversitets- og ømfintlighetsindekser, deriblant diversitetsindeksene Shannon-Wiener (H') og ESlOO, den sam-
+mensatte indeksen NQI1 som beskriver både diversitet og ømfintlighet, samt ømfintlighetsindeksene International Sen-
+sitivity lndex (ISI) og Norwegian Sensitivity lndex (NSI) (Rygg & Norling, 2013). Alle indeksene benyttes i klassifiseringen
+av miljøtilstanden og indeksresultater vurderes etter klassegrenser definert etter vannforekomstens økoregion og vann-
+type.
+C-undersøkelsen er i hovedsak en kvantitativ undersøkelse av makro bløtbunnsfauna, men inkluderer også flere støtte-
+parametere som kornfordeling, fysisk-kjemiske forbindelser, miljøgifter og andre sporingsstoffer. I tillegg blir det tatt en
+hydrografiprofil ved den dypeste stasjonen for blant annet å kartlegge oksygenforholdene i vannsøylen. Akvakulturanlegg
+i Norge ligger stort sett i fjorder med gode strømforhold og god vannutskifting som normalt skal gi tilfredsstillende oksy-
+genforhold. Lokaliteter plassert i terskelfjorder, hvor vannutskiftningen er dårligere og hvor det er større risiko for oksy-
+genfattige bunnforhold, er derimot mer utsatte. Ved økende tilførsel av organisk materiale vil aktiviteten til nedbrytende
+organismer øke, og det samme vil deres oksygenforbruk. Dette kan resultere i et skifte fra oksygenrike til anoksiske bunn-
+forhold, noe som overvåkes ved å måle oksygenmetningen i hele vannsøylen. Surhetsgrad (pH) og redakspotensiale (Eh)
+i sjøvann og marint sediment kan også gi indikasjoner på bunnforholdenes kvalitet. Anoksiske sedimenter gir gunstige
+forhold for sulfatreduserende bakterier som ofte vil resultere i dannelse av hydrogensulfid (H>S) og over tid skape et surt
+bunnmiljø. Dette vil ha en negativ effekt på den naturlig forekommende makrofauna og organismer som bryter ned or-
+ganisk materiale og bidrar til resirkulering av ulike næringsstoffer i økosystemet. Mengden av organisk materiale i sedi-
+mentet måles som totalt organisk karbon (TOC) og totalt organisk materiale (TOM). TOC og TOM (målt som glødetap)
+brukes som et supplement til faunadataene og gir en indikasjon på graden av organisk belastning. Måling av total nitrogen
+gir grunnlag for å vurdere C:N-forholdet som gir informasjon om i hvilken grad det organiske materialet gir grunnlag for
+biologisk aktivitet (Standard Norge, 2016). Høye C:N-verdier (> 10) indikerer tilførsel av karbon og nitrogen fra land, mens
+lavere C:N-forholdstall er vanlig i områder med marin tilførsel av karbon og nitrogen (Buhl-Mortensen, Aure, Alve, Husum,
+& Oug, 2006). Organisk materiale med marint opphav vil ha en raskere nedbrytning, og lavere C:N-forhold vil dermed
+indikere et godt potensiale for biologisk aktivitet, da marint organisk materiale blir brukt som næring av bunnfauna (TA-
+1883/2002).
+Miljøgifter (som f.eks. kobber og sink) måles for å vurdere antropogen påvirkning på sedimentet. Som forebyggende tiltak
+mot begroing har nøter i stor grad blitt impregnert med kobber mens sink bredt benyttes som kosttilskudd i fiskefor.
+Disse stoffene frigjøres fra hhv. nøter og gjennom spillfor, fekalier og urin fra fisken hvor de sedimenterer og akkumuleres
+over tid. Konsentrasjonen av metallene klassifiseres som en forventet økende grad av skade på organismesamfunnet i
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 7
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva
+safe
+•
+sedimentene. Sink kan også, i tillegg til fosfor, fettsyrer og stabile isotoper, brukestil å undersøke utslippenes opprinnelse
+og utstrekning.
+Plasseringen av stasjonene i C-undersøkelsen skal dekke en gradient fra innerkant til ytterkant av overgangssonen for å
+få et bilde av påvirkningsgraden i de ulike områdene. Områdene kan være påvirket i svært forskjellig grad, og det er
+dermed ikke hensiktsmessig å sammenligne alle stasjonene med hverandre eller å bruke et fullt gjennomsnitt. Stasjonen
+nærmest anlegget, Cl, viser normalt høyest påvirkning med få arter og høyt individtall. Cl vurderes derfor på grunnlag
+av artsantall og artssammensetning jfr. NS 9410:2016. Stasjonen som plasseres i ytterkant av overgangssonen, C2, samt
+de øvrige stasjonene inne i overgangssonen (C3, C4,..., Cn) vurderes etter indeksene for bløtbunnsfauna.
+Tidspunkt for utførelse av C-undersøkelsen skal sammenfalle med maksimal organisk belastning ved lokaliteten. Dette
+tilsvarer vanligvis et tidsrom på to måneder før utslakt til to måneder etter utslakt. Undersøkelsen er risikobasert, og
+miljøtilstanden bestemmer frekvensen for påfølgende undersøkelser (Tabell 1). Stasjon Cl inngår ikke i fastsettelse av
+undersøkelsesfrekvens, men dersom resultatet fra Cl viser tilstand 4 - Meget dårlig iht. Tabell 5 i NS9410:2016 kan loka-
+liteten pålegges andre tiltak av myndighetene. Dersom nEQR-verdien fastsetter tilstanden til C2 som Moderat (III), skal
+det utføres en alternativ undersøkelse ved neste produksjonssyklus for å kartlegge utbredelsen av tilstanden. Dette kan
+f.eks. gjøres med en transektundersøkelse, bruk av en referansestasjon og eventuelt analyse av andre sporingsstoffer.
+Resultatene fra de øvrige stasjonene inne i overgangssonen skal vurderes individuelt, men for å fastslå undersøkelsesfre-
+kvensen skal resultatene fra stasjonene «pooles» og vurderes samlet. Dersom frekvensene av de to gruppene ikke sam-
+menfaller, skal den hyppigste frekvensen være gjeldende («Den verste styrer»-prinsippet).
+Tabell 1. Undersøkelsesfrekvenser for C-undersøke/sen inne i overgangssonen (C3, C4, etc.) og ved ytre grense av overgangssonen (C2) ved ulike ti/-
+standsklasse (Standard Norge, 2016).
+Stasjon
+Tilstandsklasse
+Neste
+Hver annen
+Hver tredje
+produksjonssyklus*
+produksjonssyklus
+produksjonssyklus
+C2
+Moderat (Ill) eller dårligere*
+X
+Svært god (I) eller god (li)
+X
+Dårligere enn moderat (III)*
+X
+Samlet for C3,
+Moderat (Ill)
+X
+C4, osv.
+Svært god (I) eller god (li)
+X
+*Krever alternativ undersøkelse for å kartlegge utbredelsen av redusert tilstand. Dette avklares med myndighetene.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 8
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+2. Område og prøvestasjoner
+Lokaliteten 21335 Floteneset ligger i Høyanger kommune i Vestland fylke. Lokaliteten ligger i Vadheimfjorden, omtrent
+3,75 km fra utmunningen til Sognefjorden (Figur 2). Bunnen under anlegget er relativt bratt og skråner jevnt nedover mot
+midten av fjorden. Dypet varierer fra ca. 116 metersdybde under flåten til ca. 216 meters dybde under den ytterste delen
+av anlegget, hvor bunnen flater ut (Figur 3).
+Nærmeste akvakulturlokalitet er matfiskanlegget 21336 Djupeleget, som ligger 2,65 km i sjølinje fra Floteneset.
+Det har blitt målt overflate-, vannutskiftnings-, sprednings- og bunnstrøm på lokaliteten. Hovedstrømretningen for spred-
+ningsstrømmen går hovedsakelig i sørvestlig retning med en svak returstrøm mot nord-nordøst. For detaljer, se avsnitt
+2.3., Tabell 3 og Figur 7.
+Anlegget består av en ramme med 10 stålbur og en flåte med to mindre flåtebur med sidelengder på hhv. 25 og 20 meter.
+Siste utsett ble utført høsten 2021 med utslakt i april 2023. Ved undersøkelsestidspunktet var det ikke fisk i anlegget. Ved
+dato for utgivelse av rapporten står anlegget fortsatt tomt. Det ble mellom 2016 og 2020 benyttet kobberimpregnerte
+nøter i anlegget (pers. kom. Rolv Tveit, Aller Aqua AS). Driftsinformasjon for de 3 foregående generasjonene finnes i Tabell
+5.
+2.1.
+Plassering av prøvestasjoner
+Plassering av stasjoner ble gjort på bakgrunn av føringer i NS 9410:2016, informasjon om strømforhold, områdets baty-
+metri og bunntype (Figur 3, Figur 4, , Figur 5). Basert på lokalitetens MTB på 1560 tonn ble det opprettet tre prøvestasjo-
+ner i nær- og overgangssonen (Tabell 2). Akvasafe ASer ikke kjent med tidligere for- eller C-undersøkelser ved lokaliteten
+og stasjonsnettet ble dermed basert på tilgjengelig informasjon om ovenstående forhold.
+C1 (FLO-1) ble plassert omtrent 35 meter fra burkanten langs anleggets sørlige langside (Figur 5), ut fra området hvor
+tidligere B-undersøkelser har vist høyest organisk belastning og hvor det trolig ville være mulig å få opp tilstrekkelig sedi-
+ment basert på hardhetsdata og kjennskap til området. Til tross for dette var det svært utfordrende prøvetakingsforhold
+grunnet hardbunn. Bunnen under anlegget består hovedsakelig av større stein og blokk, og gjennomførte B-undersøkel-
+ser har båret preg av dette. Det ble gjort utallige forsøk i nærområdet, men samtlige grabbhugg, med unntak av ett hugg,
+hadde enten stein i grabbmunnen som resulterte i at prøvene ble utvasket på vei mot overflaten, eller inneholdt kun
+steiner eller spor av sediment.
+C2 (FLO-2), som skal ligge i ytterkanten av overgangssonen, ble plassert 310 meter sør for anlegget iht. veiledende av-
+stander i NS9410:2016. Hovedstrømretningen for spredningsstrømmen går hovedsakelig mot sørvest, men grunnet den
+bratte skråningen forventes det at organisk materiale vil føres nedover skråningen mot bunnen av fjorden. Stasjonen ble
+dermed plassert i et område med egnet bunntype i bunnen av skråningen, samt i et område uten høy tetthet av fortøy-
+ningsliner.
+Stasjonene i overgangssonen skal ligge der det forventes størst påvirkning. Denne vurderingen tasbasert på strømforhold
+og batymetri i området. C3 (FLO-3) ble derfor plassert ca. 144 meter rett sør for anleggets sørøstlige hjørne mellom FLO-
+1 og FLO-2. I dette området er det tidligere dokumentert bløtbunn (Akvasafe AS, 2023c) og eventuell akkumulering for-
+ventes å kunne oppdages der. De tre stasjonene danner til sammen et transekt som forventes å gi informasjon om en
+eventuell utstrekning av påvirkningen fra anlegget ut mot ytterkanten av overgangssonen.
+Tabell 2. Stasjonsbeskrive/ser ved C-undersøke/sen ved Floteneset. Geografiske koordinater (kartdatum WG584}, dybde (meter), avstand fra anlegg
+(meter) og hvilke parametere som ble vurdert for hvert enkelt prøvepunkt. Undersøkelsesparameterne inkluderer faunaprøver (BIO), elektrokjemiske
+målinger (pH og redokspotensiale; EK), kjemiske parametere (KJE), geologiske parametere {GEO} og hydrografiske målinger (CTDO).
+Prøvestasjon
+Anleggssone
+Ytterkant
+Overgangssone
+overgangssone
+FLO-1
+FLO-2
+FL0-3
+(C1)
+(C2)
+(C3)
+Koordinater
+61°11,551'N
+61°11,402'N
+61°11,488'N
+05°48,125'Ø
+05°48,121'Ø
+05°48,156'Ø
+Dyp (m)
+219
+232
+228
+Avstand fra anlegg (m)
+35
+310
+144
+Parametere
+KJE, GEO, BIO, EK
+KJE, GEO, BIO, EK, CTDO
+KJE, GEO, BIO, EK
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 9
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva
+safe
+2.2.
+Kart
+576
+92/82222%
+,1,
+'I
+"(
+I
+f
+I
+Kyrkjeby
+Ytrevikume\sl
+* ' S e s
+ljorebøe
+·ogne/Jord
+I
+Målestokk1:2250000
+1
+Sunrif.jord
+lorø Radio
+Sognejj.
+Il
+Figur 2. Oversiktskart med plassering av lokalitet Floteneset (rød sirkel i rødt kvadrat) og nærliggende anlegg i området (Fiskeridirektoratet, 2022).
+Kartet har nordlig orientering. Kartdatum WGS84.
+D i v m , I n f o l 3 D
+Hcr I Sle estrek
+Hllldhet
+250meter
+>
+Rcli,11
+Bokm
+hmt 11:14:46@
+4 0 m
+Bugen
+'I
+Relative water fux (%)
+I I
+I
+' { ' 1 ' J , ,
+( f
+/ I
+39
+\ I
+Pl,ttcrl,gI KmvwgI Cybdek,tcr I
+Olex
+Figur 3. Oversiktskart med anleggsrammen, fortøyningsliner og prøvestasjoner for C-undersøkelsen (blå kryss). Røde kryss viser bomhugg. Lilla pil viser
+orientering av kart og rødt flagg markerer posisjon for strømmålere. Strømrosen viser spredningsstrøm målt på 40 meters dyp (Sub Aqua Tech AS,
+2015b}. Kartdatum WGS84.
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 10
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva
+safe
+Divu
+250mcter
+Jw<o Rdi,ff
+Bok,u I Pnnt 11:15:20:
+·.i..
+·1
+FI.0-2
+8%
+505,20/2-2024
+H a n l h , t
+Endn I
+Olex
+Figur 4. Relativ hardhet på sedimentet rundt anlegget illustrert med enfargegradient fra hardest/flatest (rødt) til bløtest/brattest (lilla). Prøvestasjoner
+for C-undersøkelsen er markert med navngitte blå kryss, røde kryss viser bomhugg. Lilla pil viser orientering av kart og rødt flagg markerer posisjonfor
+strømmålere. Kartdatum WG585.
+Divuse.
+3D
+'I 1//
+250 meter
+450
+Relieff
+Bokrn
+Print
+13:26:10·@·
+Bugen
+··-
+r ,
+P l r n l , gI KmvwgI Cybdekom I
+! I
+Olex
+Figur 5. Anleggsplassering, fortøyningsliner og prøvestasjoner for 8-undersøkelsen (kvadrater) med deres tilstander ifarger (blått kvadrat= tilstand 1 -
+Meget god, grønt kvadrat= tilstand 2 - God, gult kvadrat= tilstand 3 - Dårlig og rødt kvadrat= tilstand 4 - Meget dårlig). C-undersøkelsens innerste
+stasjon (FL0-1) er markert med blått kryss. Lilla pil viser orientering av kart, rødt flagg markerer posisjonfor strømmålere. Kartdatum WG585.
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 11
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Diverse
+Tw
+I Info I 3D
+I Slerntrek
+Hardhet
+450 44
+Auto RelieffI
+Bokser [Frist] 13:25:29
+[Flishjem]
+[Se
+] [ v e s t r e
+Plottul,o I
+Fremov
+B,kovu
+I Hwn
+I
+: Olex
+Figur 6. Tredimensjonalt bunnkart med anleggsramme og 8-undersøkelsens prøvestasjoner (kvadrater) og deres tilstander ifarger (Akvasafe AS, 2023b}
+(blått kvadrat= tilstand 1 - Meget god, grønt kvadrat= tilstand 2 - God, gult kvadrat= tilstand 3 - Dårlig og rødt kvadrat= tilstand 4 - Meget dårlig).
+C-undersøkelsens innerste stasjon (FLO-1)er markert med blått kryss. Lilla pil viser synsretning, rødtflagg markerer posisjonfor strømmålere. Kartdatum
+WGS85.
+2.3.
+Strømmålinger
+Det ble målt strøm på 5 og 15 meter fra 22.10.2013 til 22.11.2013 ved anleggets tidligere plassering, omtrent 300 meter
+fra dagens anlegg (Akvavet Gulen AS, 2013). Det ble også målt overflatestrøm (5 meter), spredningsstrøm (40 meter) og
+bunnstrøm (100 meter) i perioden 06.01.2015 til 05.02.2015 ved dagens anlegg (Sub Aqua Tech AS, 2015b). I begge pe-
+rioder ble det benyttet strømmålere fra Sensordata AS av typen SD-6000 rotormåler. For full oversikt over dyp, koordi-
+nater og måleresultater, se Tabell 3.
+De nyligste målingene på 5 meters dyp viste en relativ svak overflatestrøm, mens målingene fra 2013 viste en vesentlig
+høyere strømstyrke (Tabell 3). Fra overflaten og ned avtar strømmen betraktelig i styrke og på 40 meters dyp ble det målt
+en svært svak strømstyrke på 1,6 cm/s med maksimalstrøm på 8,4 cm/s. På 100 meter ble det målt en tilsvarende svak
+strømstyrke på 1,6 cm/s, med maksimalstrøm på 7,4 cm/s (Tabell 3). Hovedstrømretningen for samtlige fulgte fjordens
+orientering og gikk i sør og sør-sørvestlig retning (Figur 7). Det var en høy andel strømstille perioder (<1 cm/s) på både 15
+m, spredningsdyp og på bunnen.
+Tabell 3. Strømmålinger ved Floteneset. Måling av overflate-, sprednings- og bunnstrøm ved hhv. 5, 15, 40 og 100 meters dyp.
+Dyp
+Koordinater
+Gj.snitt
+Maks.
+Signifikant
+Andel nullstrøm
+Dato
+hastighet
+hastighet
+maks. hastig-
+(% mellom 0-1
+Referanser
+(m)
+(WGS84)
+(cm/s)
+(cm/s)
+het (cm/s)
+cm/s)
+22.10.2013 -
+5
+61°11,403'N
+11,6
+31,2
+16,8
+07
+(Akvavet Gulen
+22.11.2013
+15
+05°48,122'Ø
+2,3
+15,0
+39
+18,1
+AS, 2013)
+5
+5,8
+28,2
+99
+13
+06.01.2015 -
+40
+61°11,592'N
+1,6
+84
+2,7
+46,1
+(Sub Aqua Tech
+05.02.2015
+05°48,005'Ø
+AS, 2015b)
+100
+1,6
+74
+2,6
+39,6
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 12
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Sm
+N
+1 5 m
+2 A 5 e I 8
+§
+i0
+1 1 2
+14 16
+Relative vater fiux (%)
+Relative water fux (%)
+per 15 deg sector
+per 15 deg sector
+40 m
+100 m
+N
+rI
+I
+I
+I
+I
+r
+r
+I
+8
+12
+I
+1
+3
+8
+10
+12
+I
+14
+I
+I
+Relativewater flux(%)
+Relative water flux (%)
+per 15degsector
+per 15deg sector
+Figur 7. Rosediagrammer av vannutskiftningsstrøm {% vannutskiftning) på 5 m (øverst til venstre) og 15 m (øverst til høyre), spredningsdyp (40 m;
+nederst til venstre) og bunn (100 m; nederst til høyre), med fordeling i ulike himmelretninger. Overflatestrøm ble målt fra 22.10.2013 til 22.11.2013
+(Akvavet Gulen AS, 2013} mens sprednings- og bunnstrøm ble målt fra 06.01.2015 - 05.02.2015 (Sub Aqua Tech AS, 2015b}.
+2.4.
+Tidligere undersøkelser
+Det er ikke kjent at det er gjennomført C-undersøkelser ved lokaliteten tidligere, men det har vært utført flere B-under-
+søkelser som har avdekket varierende miljøforhold i anleggssonen (Tabell 4).
+Tabe/14. Tidligere gjennomførte miljøundersøke/ser ved lokalitet 21335 Floteneset.
+Prøvetaking (dato)
+Rapportnummer, år
+Konsulentselskap
+Type undersøkelse
+Tilstand
+15.08.2023
+MR-12207-0003B, 2023
+Akvasafe AS
+B-undersøkelse
+2 - God
+28.03.2023
+MR-12207-0002B, 2023
+Akvasafe AS
+B-undersøkelse
+3 - Dårlig
+04.06.2021
+MOM-BUOSll, 2021
+Sub Aqua Tech AS
+B-undersøkelse
+1-
+Meget god
+07.04.2020
+MOM-BUOSll
+Sub Aqua Tech AS
+B-undersøkelse
+1-
+Meget god
+07.09.2016*
+0699-16
+Fishguard AS
+B-undersøkelse
+2 - God
+*Anlegget ble flyttet litt i 2018 og før den tid var det plassert 75 meter mot nord-nordvest.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 13
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+2.5.
+Drift og produksjon
+Produksjonshistorikk for Floteneset de siste 8 årene er presentert nedenfor i Figur 8. Grafen viser også samlet lokalitets-
+tilstand (indikert med farge) og den samlede indeksverdi for gruppe li og gruppe Ill-parametere ved tidligere utførte B-
+undersøkelser for å gi et bilde av miljøtilstanden på ulike tidspunkter i produksjonen. Samlet nEQR-verdi for overgangs-
+sonen i inneværende undersøkelse er også inkludert med en rød pil og tilstandsfarge.
+400
+1600
+nEQR
+0,528
+350
+1400
+300
+I
+1200
+250
+I
+1000
+::i 200
+800
+150
+600
+100
+400
+50
+200
+0
+L
+0
+E
+januar
+2016
+januar
+2017
+januar
+2018
+januar
+2019
+januar
+2020
+januar
+2021
+januar
+2022
+januar
+2023
+Forforbruk, tonn
+Biomasse, tonn
+B-tilstand 1
+ B-tilstand2 
+B-tiIstand 3
+B-tilstand 4
+Figur 8. Produksjonsinformasjon (biomasse og forforbruk)for de siste 5 generasjoner og frem til tidspunkt for inneværende C-undersøke/se ved Flote-
+neset. Svart linje indikerer stående biomasse i tonn og stolper indikerer månedligforforbruk i tonn.
+Rød
+pil indikerer
+tidspunktet for
+inneværende
+undersøke/se og nEQRverdienfor overgangssonen. Blå, grønne, gule og røde kvadrater representerer lokalitetstilstanden ved tidligere B-undersøke/ser
+og deres samlede indeksverdifor gruppe li og Ill parametere er angitt. Informasjonen er hentet fra historiske rapporter (se referanse/iste).
+Tabe// 5. Driftshistorikk ved lokalitet Floteneset mottatt fra Aller Aqua AS. For hver generasjon er det angitt dato for utsett, generasjon, produsert
+mengdefisk, utforet mengde samt dato for utslokt av generasjonen.
+Dato utsett
+Generasjon
+Produsert mengde
+Utforet mengde
+Dato utslakt
+I
+(tonn)
+(tonn)
+24.08.2021
+H2021
+2266
+3101
+18.04.2023
+21.04.2020
+V2020
+1070
+1441
+20.05.2021
+02.11.2018
+H2018
+1549
+1981
+08.01.2020
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 14
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+3. Resultater
+3.1.
+Bløtbunnsfauna
+Biodiversiteten i overgangssonen og i ytterkant av overgangssonen var moderat. Prøvene inneholdt et normalt antall
+arter, men det var en tydelig dominans av enkeltarter i prøvene. Prøvene fra ytterkanten av overgangssonen (FLO-2)
+hadde totalt 1945 individer fordelt på 61 ulike arter mensprøven fra overgangssonen (FL0-3) hadde 2322 individer fordelt
+på 57 arter.
+I anleggssonen var det et noe redusert artsmangfold med svært mange individer. Det ble ved FLO-1 kun benyttet en prøve
+til faunaanalyser grunnet vanskelige prøvetakingsforhold (se kapittel 2.1). Antallet individer og arter samt indeksutreg-
+ninger presentert i Tabell 6 er derfor kun basert på en prøve (0,1 m) i stedet for to prøver som er kravet i NS 9410:2016
+(0,2 m ) .
+Artssammensetningen i prøvene fra FL0-3 og FLO-2 var hovedsakelig bygget opp av en blanding av forurensningssensi-
+tive, -nøytrale, -tolerante og opportunistiske arter, men med en tydelig overvekt av de to sistnevnte (Tabell 10, Tabell
+12). Ved FLO-1 ble det hovedsakelig registrert individer fra tolerante, opportunistiske og indikatorarter, men også her ble
+det registrert enkelte sensitive og nøytrale arter (Tabell 8). Ved samtlige stasjoner var det noen enkeltarter som tydelig
+dominerte artssammensetningen.
+Indeksberegninger fra overgangssonen og ytterkanten av overgangssonen ble hovedsakelig klassifisert til tilstandsklasse
+Ill - Moderat (Tabell 6). Som tilleggsinformasjon ble indekser for anleggssonen også beregnet, og resultatene viste i all
+hovedsak tilstand IV - Dårlig, med noen unntak. Indeksberegningene for ISI og NSI er basert på oppdaterte sensitivitets-
+verdier fra 2018 (Borgersen, Hektoen, Melsom, & Todt, 2020).
+Resultatene fra indeksberegningene er klassifisert etter klassegrenser for vannforekomsten Vadheimsfjorden som ligger
+i økoregion «Nordsjøen Nord» med vanntype «Ferskvannspåvirket beskyttet fjord» (M4). Bunndyrsresultatene er klassi-
+fisert iht. klassegrenser i Vanndirektoratets Veileder 02:2018 og Borgersen, Trannum, Gundersen, & Vedal (2019). Full-
+stendige artslister er presentert i Vedlegg 7.
+Tabell 6. Antall arter og individer pr. 0,2 m * * . H'= Shannon-Wieners diversitetsindeks. ESlOO= Hurlberts diversitetsindeks, NQI1 = sammensatt indeks
+(diversitet og ømfintlighet), ISI2018 og NS/2018 = sensitivitetsindekser, nEQR= normalisert EQR. Økologisk tilstandsklassifisering (nEQR) er basert på
+observert verdi av indeks (snitt av to replikater**) iht. Veileder 02:2018.
+Stasjon
+Anleggssone
+Ytterkant av overgangssone
+Overgangssone
+FLO-1
+FLO-2
+FLO-3
+S (antall arter)
+23
+61
+57
+N (antall Individer)
+4004
+1945
+2322
+NQll
+0,451
+0,625
+H'
+1,784
+2,697
+2,564
+ES100
+5,975
+17,513
+14,793
+ISl2018
+5,167
+5,153
+4,995
+NSl2018
+10,769
+Gjennomsnitt nEQR
+0,331
+0,576
+0,545
+*Beregning avindekser for stasjonen i anleggssonen er ikke et krav.
+**Resultatene fra FL0-1 er kun basert på ett grabbhugg (0,1 m ) .
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 15
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+3.1.1.
+Anleggssonen (FL0-1)
+Prøvestasjon FLO-1, som representerer forholdene i overgangen mellom anleggssonen og overgangssonen, ble plassert
+omtrent 35 meter fra burkanten hvor tidligere B-undersøkelser har vist høyest organisk belastning og hvor det trolig ville
+være mulig å få opp tilstrekkelig sediment basert på hardhetsdata og kjennskap til området. Det ble registrert totalt 4004
+individer fordelt over 23 arter i det ene grabbhugget som ble godkjent for faunaanalyse (Tabell 7). Stasjonen var tydelig
+dominert av den opportunistiske flerbørstemarken Prionospio steenstrupi, som utgjorde 54,3% av individene i prøven
+(Tabell 8). Utover dette utgjorde den forurensingsindikerende børstemarken Capitella capitata 26,1% av individene og
+den tolerante arten Paramphinome jeffreysii utgjorde 11%.
+Da det vanligvis er relativt få arter med jevn individfordeling i prøver fra anleggssonen, er det i utgangspunktet ikke hen-
+siktsmessig å beregne indeksverdier for å vurdere miljøtilstanden. Indekser ble likevel beregnet for stasjonen, men fore-
+ligger kun som tilleggsinformasjon (Tabell 7). Stasjonens gjennomsnittlige nEQR-verdi var 0,331 og ble klassifisert til til-
+standsklasse IV - Dårlig iht. klassegrenser i Veileder 02:2018.
+Det ble registrert totalt 23 arter ved stasjon FLO-1 på et prøveareal på 0,1 m, og ingen av artene utgjorde mer enn 65%
+av det totale individantallet. Stasjonen ble dermed klassifisert til miljøtilstand 1 - Meget god iht. NS 9410:2016 (Tabell
+8). Merk at dette kun er basert på resultater fra ett grabbhugg.
+Tabell 7. Faunaresu/tater for stasjon FL0-1, inkludert arts- og individantall og indekser for hver enkelt grabb (grabbhugg 1 og 2), samt grabbgjennom-
+snittet av huggenes indeksverdier for hver av de fem indeksene. Normalisert EQR (økologisk tilstand; nEQR) er beregnet for hver indeks. Farger angir
+ti/standsklassefor indeksene og nEQR-verdi iht. Veileder 02:2018 og Borgersen, Trannum, Gundersen, & Vedal (2019). Fremgangsmåtefor beregning av
+nEQRfølger Vedlegg 9.4.5 til k/assifiseringsvei/eder 02:2018.. Beregninger av indekser for stasjonen er ikke et krav.
+Indeks
+FLO-1-1
+FLO-1-2
+Grabbgjennomsnitt
+nEQR for indeksene
+S (antall arter)
+23
+N (antall Individer)
+4004
+NQll
+0,451
+0,356
+H'
+1,784
+0,361
+ES100
+5,975
+0,239
+ISl2018
+5,167
+0,504
+NSl2018
+10,769
+0,196
+Gjennomsnitt nEQR-verdi
+0,331
+Tabell 8. De ti hyppigst forekommende artene ved stasjon FL0-1 oppgitt i antall og prosent, samt hver arts respektive økologisk gruppe {NSI) iht. Bor-
+gersen, Hektoen, Me/som & Todt (2020) og fargekodingfor NSI-gruppen. Celler uten bakgrunnsfarge betyr at arten eller artens taksonomiske nivå ikke
+er tildelt NSI-gruppe. Prøveareal er lik 0,1 m.
+Miljøtilstand i bløtbunnsamfunn for den innerste stasjonen ved anleggssonen er klassifisert iht. NS
+9410:2016.
+Art
+Økologisk gruppe (NSI)
+Antall individer
+Prosent(%)
+Prionospio steenstrupi
+4
+2176
+54,3
+Capitel/a capitata
+1047
+26,1
+Paramphinome jeffreysii
+3
+442
+11,0
+Thyasira sp.
+n.a.
+246
+6,1
+Dipolydora coeca
+1
+28
+07
+Lagis koreni
+3
+21
+0,5
+Chaetozone setasa
+4
+7
+0,2
+Prionospio fal/ax
+3
+7
+0,2
+Eula/ia viridis
+1
+5
+0,1
+Glycera alba
+3
+5
+0,1
+Øvrige arter
+20
+0,5
+Miljøtilstand iht. NS 9410:2016
+-Megetgod
+Forurensningssensitiv
+Forurensningsnøytral
+Forurensningstolerant
+Forurensningstolerant og
+Forurensningsindikerende
+(NSI-1)
+(NSI-2)
+(NSI-3)
+opportunistisk (NSI-4)
+(NSI-5)
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 16
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+3.1.2.
+Ytterkant av overgangssone (FL0-2)
+Ved prøvestasjon FLO-2 ble det i gjennomsnitt registrert 45 arter og 973 individer per grabbhugg (Tabell 9) og det ble
+totalt registrert 1945 individer fordelt på 61 ulike arter ved stasjonen (Tabell 6). Stasjonens gjennomsnittlige nEQR-verdi
+var 0,576 og havnet i øverste kvartil i klasseintervallet for tilstandsklasse Ill - Moderat iht. Veileder 02:2018.
+Stasjonens faunasammesetning var noe variert med alt fra forurensningssensitive til opportunistiske arter (Tabell 10).
+Begge grabbhugg hadde noenlunde samme fordeling av arter og begge prøver var dominert av den forurensningstole-
+rante flerbørstemarken Paramphinome jeffreysii, som utgjorde 58,5% av individene ved stasjonen. Andre tilstedevæ-
+rende arter var blant annet Chaetozone setasa (NSI 4) og Dipolydora coeca (NSI 1) med hhv. 10,1 og 6,1% av individene.
+Det ble registrert 1 individ (0,1%) av den forurensningsindikerende børstemarken Capitella capitata.
+Tabell 9. Faunaresu/tater for stasjon FL0-2, inkludert arts- og individantall og indekser for hver enkelt grabb (grabbhugg 1 og 2), samt grabbgjennom-
+snittet av huggenes indeksverdier for hver av de fem indeksene. Normalisert EQR (økologisk tilstand; nEQR) er beregnet for hver indeks. Farger angir
+ti/standsklassefor indeksene og nEQR-verdi iht. Veileder 02:2018 og Borgersen, Trannum, Gundersen, & Vedal (2019). Fremgangsmåtefor beregning av
+nEQRfølger Vedlegg 9.4.5 til k/assifiseringsvei/eder 02:2018.
+Indeks
+FLO-2-1
+FLO-2-2
+Grabbgjennomsnitt
+nEQR for indeksene
+S (antall arter)
+48
+42
+45
+N (antall Individer)
+1153
+792
+973
+NQll
+H'
+2,449
+2,945
+2,697
+0,527
+ES100
+16,554
+17,513
+0,588
+ISl2018
+4,979
+5,326
+5,153
+0,501
+NSl2018
+Gjennomsnitt nEQR-verdi
+0,576
+Tabell 10. De ti hyppigst forekommende artene ved stasjon FL0-2 oppgitt i antall og prosent, samt hver arts respektive økologisk gruppe {NSI) iht.
+Borgersen, Hektoen, Me/som & Todt (2020) og fargekoding for NSI-gruppen. Celler uten bakgrunnsfarge betyr at arten eller artens taksonomiske nivå
+ikke er tildelt NSI-gruppe. Prøveareal er lik 0,2 m.
+Art
+Økologisk gruppe (NSI)
+Antall individer
+Prosent(%)
+Paramphinome jeffreysii
+3
+1137
+58,5
+Chaetozone setosa
+4
+197
+10,1
+Dipolydora coeca
+1
+119
+6,1
+Nemertea
+3
+59
+3,0
+Thyasira sp.
+n.a.
+49
+2,5
+Dip/ocirrus g/aucus
+2
+47
+2,4
+Mendicu/aferruginosa
+1
+45
+2,3
+Prionospio steenstrupi
+4
+38
+2,0
+Sco/etomafragilis
+2
+20
+1,0
+Aphe/ochaetafiliformis
+n.a.
+19
+1,0
+Øvrige arter
+215
+11,1
+Forurensningssensitiv
+Forurensningsnøytral
+Forurensningstolerant
+Forurensningstolerant og
+Forurensningsindikerende
+(NSI-1)
+(NSI-2)
+(NSI-3)
+opportunistisk (NSI-4)
+(NSI-5)
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 17
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+3.1.3.
+Overgangssonen (FL0-3)
+Ved prøvestasjon FL0-3 ble det i gjennomsnitt registrert 43 arter og 1161 individer per grabbhugg (Tabell 11) og det ble
+totalt registrert 2322 individer fordelt på 57 ulike arter ved stasjonen (Tabell 6). Stasjonens gjennomsnittlige nEQR-verdi
+var 0,545 og havnet dermed midt i klasseintervallet for tilstandsklasse Ill - Moderat iht. Veileder 02:2018.
+Stasjonens faunasammensetning var variert, og var relativt lik som FL0-2. Faunen bestod av både forurensingssensitive,
+-nøytrale, -tolerante og opportunistiske arter (Tabell 12). Som ved FLO-2 var prøvene var dominert av P. jeffreysii, som
+totalt utgjorde 54,1% av individene ved stasjonen, og Chaetozone setasa (NSI 4) og Dipolydora coeca (NSI 1) utgjorde hhv.
+14,9 og 8,7% av individene. Det ble registrert 7 individer (0,3%) av Capitella capitata (NSI 5).
+Tabell 11. Faunaresu/tater for stasjon FL0-3, inkludert arts- og individantall og indekser for hver enkelt grabb (grabbhugg 1 og 2), samt grabbgjennom-
+snittet av huggenes indeksverdier for hver av de fem indeksene. Normalisert EQR (økologisk tilstand; nEQR) er beregnet for hver indeks. Farger angir
+ti/standsklassefor indeksene og nEQR-verdi iht. Veileder 02:2018 og Borgersen, Trannum, Gundersen, & Vedal (2019). Fremgangsmåtefor beregning av
+nEQRfølger Vedlegg 9.4.5 til k/assifiseringsvei/eder 02:2018.
+Indeks
+FLO-3-1
+FLO-3-2
+Grabbgjennomsnitt
+nEQR for indeksene
+S (antall arter)
+36
+50
+43
+N (antall Individer)
+1166
+1156
+1161
+NQll
+0,605
+0,625
+0,592
+H'
+2,684
+2,443
+2,564
+0,503
+ES100
+14,367
+15,220
+14,793
+0,520
+ISl2018
+4,554
+5,435
+4,995
+0,466
+NSl2018
+Gjennomsnitt nEQR-verdi
+0,545
+Tabell 12. De ti hyppigst forekommende artene ved stasjon FL0-3 oppgitt i antall og prosent, samt hver arts respektive økologisk gruppe {NSI) iht.
+Borgersen, Hektoen, Me/som & Todt (2020) og fargekoding for NSI-gruppen. Celler uten bakgrunnsfarge betyr at arten eller artens taksonomiske nivå
+ikke er tildelt NSI-gruppe. Prøveareal er lik 0,2 m2.
+Art
+Økologisk gruppe (NSI)
+Antall individer
+Prosent(%)
+Paramphinome jeffreysii
+3
+1256
+54,1
+Chaetozone setasa
+4
+345
+14,9
+Dipolydora coeca
+1
+202
+87
+Nemertea
+3
+105
+45
+Mendicu/aferruginosa
+1
+79
+34
+Thyasira sp.
+n.a.
+53
+2,3
+Dip/ocirrus g/aucus
+2
+46
+2,0
+Aphe/ochaetafiliformis
+n.a.
+21
+09
+Sco/etomafragilis
+2
+20
+09
+Abra nitida
+3
+16
+07
+Øvrige arter
+179
+77
+Forurensningssensitiv
+Forurensningsnøytral
+Forurensningstolerant
+Forurensningstolerant og
+Forurensningsindikerende
+(NSI-1)
+(NSI-2)
+(NSI-3)
+opportunistisk (NSI-4)
+(NSI-5)
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 18
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+3.1.4.
+Økologiske grupper
+Det var en asymmetrisk fordeling av individer innenfor de ulike økologiske gruppene ved FL0-3 (overgangssonen) og FLO-
+2 (ytterkant) (Figur 9). Prøvene bestod hovedsakelig av forurensningstolerante individer, mens sensitive, nøytrale og ap-
+portunistiske arter utgjorde en mindre andel. Ved FLO-1 (anleggssonen) var fordelingen også skjev, og mer enn halvpar-
+ten av individene var opportunistiske mens ca. en fjerdedel var forurensningsindikerende. Det var nesten ingen sensitive
+eller nøytrale arter i prøven fra FLO-1. Det var mellom 6% (FLO-1) og 3% (FLO-3) av individene som ikke er tildelt en
+økologisk gruppe.
+100%
+9 0 %
+8 0 %
+7 0 %
+60%
+50%
+4 0 %
+30%
+20%
+1 0 %
+0%
+FL0-1
+FL0-2
+FL0-3
+I - Sensitiv
+II - Nøytral
+Ill -Tolerant
+IV - Opportunistisk
+V - Forurensingsindikator
+n.a
+Figur 9. Fordelingen av individer i de ulike økologiske grupper iht. Borgersen, Hektoen, Melsom & Todt (2020) ved FL0-1, FL0-2 og FL0-3. Individer av
+arter som ikke har blitt tildelt økologisk gruppe er samlet i gruppen «n.a.».
+3.1.5.
+Samlet nEQR resultat
+I denne C-undersøkelsen blir tilstanden i overgangssonen representert av kun en prøve (FLO-3). nEQR-verdien for over-
+gangssonen var 0,545, og ble dermed klassifisert til tilstandsklasse Ill - Moderat (Tabell 13). Stasjonen i ytterkanten av
+overgangssonen, FLO-2, ble også klassifisert til tilstandsklasse Ill - Moderat, men ligger høyt i sjiktet og havnet relativt
+nær grensen til tilstandsklasse li - God. Ved tilstand Ill - Moderat (eller verre) i ytterkanten av overgangssonen skal neste
+C-undersøkelse utføres ved neste produksjonssyklus og en alternativ undersøkelse bør utføres for å kartlegge utbredelsen
+av redusert tilstand iht. NS9410:2016 (Tabell 1).
+Tabell 13. nEQRresultat for FL0-2 og FL0-3. Fremgangsmåtefor beregning av nEQRverdi i overgangssonen fremkommer i Vedlegg 5.
+Stasjonsbeskrivelse
+Stasjon
+Samlet nEQR resultat
+Ytterkant av overgangssonen
+Overgangssonen
+FL0-2
+FL0-3
+0,576
+0,545
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 19
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+3.2.
+Hydrografi
+Oksygenforhold, temperatur og salinitet ble målt fra overflaten til like over bunnen og opp igjen ved den dypeste stasjo-
+nen, FLO-2 (Figur 2). Hydrografiprofilen viser at overflatevannet var sterkt påvirket av ferskvannstilførsel (Figur 10) og
+saliniteten i overflaten lå rundt 20%%. Fra overflaten og ned til omtrent 20 meters dyp økte saliniteten raskt opp til 31,3%0.
+Herfra økte saliniteten langsomt mot 35%0ved bunnen på 233 meters dyp.
+I overflaten var temperaturen 10,5°C og økte raskt til 14,8°C på 20 meters dyp. Heretter falt temperaturen raskt til 8,7°C
+ved ca. 68 meters dyp hvor den holdt seg relativt stabil ned til bunnen, hvor temperaturen lå på 8,5°C.
+Oksygenkonsentrasjonen i overflaten var 11,16 mg/L, noe som tilsvarer en metning på snaut 112%. Ved 11-12 meters
+dybde var det et oksygensprangsjikt, hvor oksygeninnholdet raskt sank til 6,82 mg/L (80% metning) på 18 meters dyp,
+hvoretter oksygeninnholdet igjen raskt steg til 8,72 mg/L på 20 meters dybde. Herfra var oksygeninnholdet jevnt høyt
+ned til ca. 50 meter hvoretter nivåene igjen falt mot 70 meter. Fra ca. 70 meter varierte nivåene noe ned til 95 meter,
+hvoretter innholdet steg og forble relativt jevnt ned til rett over bunnen hvor oksygeninnholdet ble målt til 8,75 mg/L
+(91,49% metning). Oksygennivåene rett over bunnen ble dermed klassifisert til tilstandsklasse I - Svært god iht. klasse-
+grensene for oksygen i dypvann i Veileder 02:2018 (Vedlegg 6).
+Temperatur (°C)
+Salinitet (%•)
+8
+9
+10
+11
+12
+13
+14
+15
+20
+25
+30
+35
+0
+0
+25
+25
+50
+50
+75
+75
+100
+100
+125
+125
+150
+150
+175
+175
+200
+200
+225
+225
+0, (%)
+0, (mg/L)
+70
+80
+90
+100
+110
+6.5
+7
+7.5
+8
+8.5
+9
+9.5 10 10.5 11
+0
+0
+25
+25
+50
+50
+75
+75
+100
+100
+125
+125
+150
+150
+175
+175
+200
+200
+225
+225
+Figur 10. Vertikalprofiler. Salinitet (%o), temperatur (°C), oksygenmetning (%)og oksygeninnhold (mg 02/L)fra overflaten og ned til bunnen ved stasjon
+FL0-2.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 20
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+3.3.
+Sediment
+3.3.1.
+Sensoriske vurderinger
+Sedimentet ved samtlige prøvestasjoner var luktfritt med en lys/mørk grå farge og fast konsistens (Tabell 14). Ved prø-
+vestasjon FLO-2 og FL0-3 ble samtlige grabbhugg godkjent. Ved FLO-1 ble første grabbhugg godkjent, men deretter var
+det store vanskeligheter med å få opp sediment grunnet stein og mye hardbunn til tross for gjentakende forsøk. Det ble
+ikke registrert noe organisk materiale i prøvene utover litt terrestrisk materiale. For oversikt over registreringene som ble
+gjort i felt se Vedlegg 1. Bilder av sedimentprøvene finnes i Vedlegg 10.
+Tabell 14. Beskrive/se av sensoriske vurderinger av sedimentprøvene ved hver av stasjonene, samt antall godkjente grabbhugg.
+FLO-1
+FLO-2
+FLO-3
+Lukt
+Ingen
+Ingen
+Ingen
+Farge
+Lys/Grå
+Lys/Grå
+Lys/Grå
+Konsistens
+Fast
+Fast
+Fast
+Organisk materiale
+Nei**
+Nei**
+Nei**
+Godkjent overflate
+1/2*
+3/3
+3/3
+Godkjent volum
+1/2
+3/3
+3/3
+*Grabbprøven benyttet til kjemisk prøving ble tatt fra et ikke-godkjent grabbhugg. Kun deler av overflaten var tilnærmet uforstyrret, og for å få innsikt
+i de kjemiske forholdene ble det tatt prøvemateriale herfra. Resten av prøven var ikke egnet for kjemisk prøving.
+**Det ble registrert terrestrisk materiale i noen prøver. For detaljer se Vedlegg 1.
+3.3.2.
+Kornfordeling
+Resultatene fra kornfordelingsanalysen ses nedenfor i Tabell 15. Sedimentet ved FLO-2 og FL0-3 bestod av en stor del
+finstoff med en betydelig andel sand mens FLO-1 hovedsakelig bestod av sand, men en del finstoff og noe grus. Det var
+også en del stein i prøven fra FLO-1 (se bilde i Vedlegg 10). Dette samsvarer med at FLO-2 og FL0-3 var plassert i områder
+med bedre sedimenterende forhold, mens FLO-1 lå i et brattere område med eksponert fjell og steinur. Fullstendig over-
+sikt over prøvenes syv fraksjoner kan sees i analysebeviset (Vedlegg 3).
+Tabell 15. Kornfordeling. Leire og silt er definert med kornstørrelser <0,063 mm, sand er definert med kornstørrelserfra 0,063 - 2 mm, og grus er definert
+med kornstørrelser> 2 mm. Manglende data er merket med i.a. Summen ved hver stasjon kan overskride 100% grunnet feilmarginer i analysemetoden.
+FLO -1
+FLO -2
+FLO -3
+Leire og silt (%)
+35,9
+60,4
+57,1
+Sand(%)
+57,7
+39,6
+42,7
+Grus(%)
+64
+<0,5
+<0,5
+3.3.3.
+Kjemiske parametere
+Det ble målt surhetsgrad (pH) og redokspotensiale (En) i minst en prøve per stasjon. Samtlige målinger viste utmerkede
+pH-verdier mellom 7,47 og 7,55 og fa-verdier mellom 274,7 og 368 mV. Iht. NS9410:2016 ble de elektrokjemiske måling-
+ene ved samtlige prøvestasjoner klassifisert til tilstand 1 - Meget god (Tabell 16).
+Tabell 16. pH og Ei målt i en sedimentprøve per stasjon. pH/Ei-poeng er beregnet basert på Figur D.1. i NS9410:2016 og går fra O til 5 hvor O er best.
+Elektrokjemisk tilstand går fra 1 til 4, hvor 1 er meget god og 4 er meget dårlig (jfr. NS9410:2016).
+FLO -1
+FLO -2
+FLO -3
+pH
+Eh (mV)
+pH/Es-poeng
+Tilstand
+7,55
+351,8
+0
+1 - Meget god
+7,47
+274,7
+0
+1 - Meget god
+7,50
+368
+0
+1 - Meget god
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 21
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Ved samtlige prøvestasjoner ble det målt relativt lave verdier av kobber (30,8 til 45,0 mg/kg TS), og kobberinnholdet i
+sedimentene ble dermed klassifisert til tilstandsklasse li - God. Sinknivået i prøvene lå mellom 99 og 107 mg/kg TSog ble
+klassifisert til samme tilstandsklasse (Tabell 17). C:N forholdet lå mellom 7,9 (FLO-3) og 12,6 (FLO-2), og indikerer at det
+organiske materiale i all hovedsak har marint opphav.
+Innholdet av organisk karbon (korrigert for finstoffinnhold; nTOC) var relativt høyt i samtlige prøver, hvor høyeste nivå
+ble målt i prøven fra FLO-1 (Tabell 17). nTOC ved FLO-1 ble klassifisert til tilstand IV - Dårlig mens FLO-2 og FL0-3 ble
+klassifisert til tilstand Ill - Moderat. Glødetapet ved FLO-2 var 16,7% og var ca. tre ganger høyere enn glødetapet ved
+FLO-1 og FLO-3. FLO-2 var den eneste stasjonen som lå over normalverdiene for norske fjorder (<10%) og indikerer et
+høyt innhold av organisk materiale.
+Nitrogennivået i prøvene var moderate og lå på mellom 1800 til 2700 mg/kg TS. Fosfornivåene høyest ved FLO-1 som
+hadde 4710 mg/kg TSmens FLO-2 og FL0-3 hadde hhv. 1470 og 1270 mg/kg TS.
+Tabell 17. Resultater fra de kjemiske analysene av sedimentprøvene. Kjemiske parametere inkluderer totalt organisk materiale TOM (glødetap i %),
+totalt organisk karbon TOC(mg/g), finstoff (%<0,063 mm) og nTOC(organisk karbon korrigertfor innhold avfinstoff), samt totalt nitrogen (TN; mg/kg),
+total fosfor (TP; mg/kg), kobber (Cu) og sink (Zn). nTOC er tildelt ti/standsklasse jfr. Veileder 02:2018, mens kobber og sink er tildelt ti/standsklasser jfr.
+Veileder M-608. Karbon-nitrogenforholdet (C:N) er oppgitt som ratio mellom TOCog TN. Manglende data er merket med i.a.
+FLO-1*
+FLO -2
+FLO -3
+TOM(%)
+48
+16,7
+5,2
+TOC (mg/g)
+23,0
+22,7
+21,4
+Finstoff(%)
+35,9
+60,4
+57,1
+nTOC/TOCss
+34,5
+29,8
+29,1
+TiIstandsklasse**
+IV
+Ill
+Ill
+T-N (mg/kg TS)
+2400
+1800
+2700
+C:N forhold
+96
+12,6
+79
+Cu (mg/kg TS)
+45,0
+30,8
+36,8
+TiIstandsklasse
+T-P (mg/kg TS)
+4710
+1470
+1270
+Zn (mg/kg TS)
+107
+99
+105
+TiIstandsklasse
+*Grabbprøven benyttet til kjemisk prøvning hadde ikke godkjent overflate. Kun deler av overflaten var tilnærmet uforstyrret, og for å få innsikt i de
+kjemiske forholdene ble prøvemateriale tatt ut derfra. Resten av prøven var ikke egnet for prøvning, og resultatene kan være noe påvirket av dette.
+**Tilstandsklassifisering basert på TOCforutsetter at konsentrasjonen avTOCi sediment standardiseres for teoretisk 100% finstoff (pelitt <0,063 mm)
+iht. Formelen: nTOC= TOC+ 18 * (1-p < 0,063 mm) i Veileder FT97:03.
+3.4.
+Avvik
+Ved prøvestasjon FLO-1 ble det ved første grabbskudd innhentet en godkjent prøve. Gjentakende grabbskudd på samme
+posisjon hadde stein i grabbmunnen som resulterte i at de fleste prøver ble utvasket med lite resterende sediment i
+grabben. Det ble også registrert flere store steiner i grabbene. Etter flere forsøk ble prøvestasjonen flyttet litt rundt i
+området rundt den opprinnelige prøvestasjonen, men her var det enten hardbunn, stein i grabbmunnen eller for tynt lag
+med sediment for brukbare faunaprøver. Hardhetsdata og resultater fra B-undersøkelser viser at det hovedsakelig er
+hardbunn under anlegget, og det ble derfor bare benyttet en prøve fra FLO-1 i vurderingen av fauna i anleggssonen.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 22
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+4. Diskusjon
+Denne rapporten omhandler en C-undersøkelse utført ved 21335 Floteneset i Høyanger kommune i Vestland fylke. Un-
+dersøkelsen gir et bilde av miljøtilstanden ved tre prøvestasjoner plassert i anleggssonen, overgangssonen og i ytterkan-
+ten av overgangssonen. Undersøkelsen ble utført 6 måneder etter at anlegget ble tømt og anlegget står fortsatt tomt per
+dato for publisering av rapporten.
+FLO-1 - Anleggssonen
+Prøvestasjonen plassert i overgangen mellom anleggssonen og overgangssonen, FLO-1 (C1), ut fra området hvor tidligere
+B-undersøkelser har vist høyest organisk belastning og hvor det trolig ville være mulig å få opp tilstrekkelig sediment
+basert på hardhetsdata og kjennskap til området. Likevel var det utfordringer ved prøvetakingen, og det var kun mulig å
+få opp en prøve for faunaanalyser.
+Det ble ved FLO-1 registrert 4004 individer fordelt på 23 arter og det ble hovedsakelig registrert individer av tolerante,
+opportunistiske og forurensingsindikerende arter, samt noen enkelte sensitive og nøytrale arter. Artsmangfoldet var noe
+redusert, og det var to opportunistiske og en forurensningsindikerende art som til sammen utgjorde 80% av individene
+ved prøvestasjonen. Av disse utgjorde den opportunistiske arten Prionospio steenstrupi 54,3% og indikatorarten Capitella
+capitata 26,1%. Begge artene er arter man forbinder med områder påvirket av organisk belastning. Basert på antall arter
+og fordelingen av individer ble FLO-1 vurdert til miljøtilstand 1 - Meget god iht. NS 9410:2016, da det ble registrert over
+20 arter uten at den mest dominerende art utgjorde mer enn 65% av individene. Merk at dette er minstekrav for et
+prøveareal på 0,2m2og resultatene fra FLO-1 stammer fra et prøveareal på kun O,lm2. Sedimentet ved stasjonen besto
+av en stor del sand og en del finstoff, i tillegg til noe grus og steiner. De kjemiske verdiene var generelt høyere ved FLO-1
+enn de to andre stasjonene, og nTOC ble målt til 34,5, som tilsvarer tilstandsklasse IV - Dårlig. Både kobber og sink ble
+klassifisert til tilstand li - God.
+De elektrokjemiske målingene viste meget god tilstand ved stasjonen, og det ble ikke registrert noen sensoriske utslag i
+prøven. Resultatene gir indikasjoner på at det fortsatt skal være gode leveforhold for gravende bunndyr i anleggets nær-
+område.
+FL0-3 - Overgangssonen
+Basert på anleggets MTB ble det kun plassert en stasjon i overgangssonen, FLO-3 (C3). Stasjonen ble plassert 144 meter
+sør for anlegget, i bunnen av skråningen hvor det tidligere har vært mulig å ta ut prøver i forbindelse med kjemisk prøv-
+ning av sedimentet (Akvasafe AS, 2023c). Biodiversiteten var moderat, og det ble i snitt registrert 45 arter og 973 individer
+i de to prøvene. Det var noe variasjon i artsantallet mellom grabbskuddene, men dette påvirket ikke klassifiseringen av
+beregnede indekser i stor grad. Begge grabbprøvene var dominert av den forurensningstolerante flerbørstemarken Pa-
+ramphinome jeffreysii som utgjorde 54,1% av alle individene ved stasjonen, noe som tyder på at anleggets utslipp trolig
+strekker seg ut til stasjonen. Det ble registrert flere opportunistiske arter, men også sensitive og nøytrale arter i prøvene,
+og både NQI1 og NSI-indeksen ble klassifisert til li - God. Sedimentet bestod av en stor andel finstoff samt en betydelig
+andel sand. Det er vanlig med en noe høyere andel finstoff i dypområder som dette, hvor det ofte er svakere strøm og et
+større akkumuleringspotensiale.
+De elektrokjemiske målingene viste meget god tilstand og det ble ikke registrert noen sensoriske utslag i prøvene. De
+kjemiske støtteparameterne viste noe påvirkning, og både nitrogen-, fosfor- og nTOC-nivåene var moderate. Kobber- og
+sinknivåene ble klassifisert til tilstand li - God.
+FL0-2 - Ytterkant av overgangssonen
+Prøvestasjon FLO-2 (C2) skal beskrive forholdene i ytterkanten av overgangssonen og ble iht. føringer i NS 9410:2016
+plassert 310 meter sør for anleggssonen i hovedstrømretningen for spredningsstrømmen. Det ble registrert 61 unike arter
+og 1945 individer ved stasjonen. Det var små ulikheter i individantall mellom grabbhuggene, men dette er trolig grunnet
+lokale forskjeller. Faunasammensetningen ved stasjonen var svært lik som ved FL0-3, og clusteranalysen viste ca. 5%
+ulikhet mellom de to stasjonene (se Vedlegg 8). Den dominerende arten ved stasjonen var den forurensningstolerante
+flerbørstemarken Paramphinome jeffreysii som utgjorde 58,5% av individene ved stasjonen. Sedimentet bestod av en
+stor del silt og leire samt en vesentlig andel sand, som ved FLO-1 og FL0-3. De kjemiske støtteparametere viste tilsvarende
+forhold som ved FL0-3, men et markant høyere glødetap (TOM) på 16,7% som indikerer at det er mye organisk materiale
+i sedimentet. Kobber- og sinkverdier ble klassifisert som god og den elektrokjemiske tilstanden var meget god. CTDO-
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 23
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva
+safe
+•
+profilen viste svært gode oksygenforhold i bunnvannet, og både oksygenmetningen og -konsentrasjonen ble klassifisert
+til tilstandsklasse I - Svært god.
+I ytterkanten av overgangssonen forventer man vanligvis ikke å påvise betydelig påvirkning fra akvakulturdriften. Det er
+målt svært svak strøm både på spredningsdyp og på bunnen, og organisk materiale vil trolig sedimentere relativt nært
+anlegget. Likevel viser resultatene at ytterkanten av overgangssonen er noe påvirket med en relativt høy dominans av
+enkeltarter. Dette slår spesielt ut på diversitetsindeksene, som viser moderate forhold.
+I etterkant av undersøkelsen ble det oppmerksomgjort at FLO-2 ble plassert ca. 60 meter øst for lokalitetens tidligere
+anleggsplassering, som var i drift fra 2003 til 2015. Anlegget ble flyttet til dagens plassering i 2015 (se Vedlegg 11 for
+fremstilling av prøvestasjoner i forhold til opprinnelig anleggsplassering). Det anses derfor som sannsynlig at belastningen
+som ble avdekket ved stasjonen også kan stamme fra produksjonen fra anlegget før det ble flyttet. Dette kan befestes av
+at resultatene fra de kjemiske støtteparameterne, hvor nivåene av både TOC, nTOC, fosfor, kobber og sink var relativt
+like ved FL0-3 og FL0-2. Man forventer i hovedsak en større gradient og en tydelig reduksjon i konsentrasjoner med
+økende avstand fra anlegget. Det kan dermed ikke med sikkerhet sies at påvirkningen registrert ved FLO-2 stammer fra
+dagens anlegg i sin helhet.
+Den gjennomsnittlige nEQR-verdi for FLO-2 (0,576) ble klassifisert til tilstandsklasse Ill - Moderat, og verdien befant seg
+i det øvre kvartilet for tilstandsintervallet. Prøvestasjonens tilstand forventes å forbedre seg med tiden, da det fortsatt
+vurderes at det er gode leveforhold for gravende bunndyr og at organisk materiale forventes å bli brutt ned over tid.
+Samlet vurdering
+Totalt sett indikerer resultatene fra C-undersøkelsen at det er moderate forhold både i overgangssonen og i ytterkanten
+av overgangssonen. Basert på vurderingskriteriene i NS 9410:2016 er miljøtilstanden ved FLO-1 vurdert som meget god,
+til tross for et høyt nTOC-nivå og noe lav biodiversitet. I overgangssonen og i ytterkanten av overgangssonen ble det
+avdekket et moderat artsmangfold og et moderat nTOC-nivå, samt et svært høyt glødetap ved FL0-2. Forholdene ved
+FLO-2 og FL0-3 var relativt like, og man forventer vanligvis en tydelig gradient med økende avstand fra anlegget- spesielt
+med tanke på utslipp av metaller, som kobber og sink, da disse ikke brytes ned over tid. Det antas at miljøforholdene ved
+FLO-2 gjenspeiler den organiske påvirkningen fra den tidligere plasseringen av anlegget, og gir dermed trolig ikke et reelt
+bilde av påvirkningens utstrekning fra dagens anlegg. Dette kan befestes ved å ta prøver lengre utover i fjorden ved en
+senere anledning. Resultatene fra inneværende undersøkelse vil imidlertid gi en referanse for senere oppfølging.
+Det er ikke gjennomført C-undersøkelser ved anlegget tidligere, og det finnes derfor ikke noe direkte sammenlignings-
+grunnlag. Det ble derimot gjennomført en C-undersøkelse ved den tidligere lokaliteten Hovdeurane, som lå på andre
+siden av fjorden, ca. 760 meter øst for Floteneset (DNV GL AS, 2018). C-undersøkelsen ble gjennomført i forbindelse med
+en forundersøkelse i 2018, og C2-stasjonen, HOV 2, lå 580 meter fra Floteneset. Her ble bunndyrsresultatene vurdert til
+en samlet nEQR-verdi på 0,84 og ble dermed klassifisert til tilstandsklasse I - Svært god. Med unntak av at det er noe mer
+ferskvannsavrenning ved Floteneset, er områdene relativt like, og resultatene fra HOV 2 kan dermed gi en indikasjon på
+noe mer naturlige forhold i fjorden. Dette viser at bunnmiljøet rundt Floteneset, både ved ny og gammel plassering, er
+påvirket av oppdrettsvirksomheten.
+Samlet sett vurderes resultatene fra undersøkelsen til en endelig tilstandsklasse Ill - Moderat for både overgangssonen
+og ytterkanten av overgangssonen, noe som i henhold til bestemmelsene i NS9410:2016 fastsetter undersøkelsesinter-
+vallet til hver annen (overgangssonen) eller ved hver (C2) produksjonssyklus. «Den verste styrer»-prinsippet gjelder, og
+neste C-undersøkelse skal derfor gjennomføres etter neste produksjonssyklus og det bør da gjennomføres en alternativ
+undersøkelse for å eventuelt kartlegge utbredelsen av den reduserte tilstanden.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 24
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+5. Referanser
+Akvasafe AS. (2023a). B-undersøkelse ved 21335 Floteneset. Rapportnr. MR-12207-0002B.
+Akvasafe AS. (2023b). B-undersøkelse ved 21335 Floteneset. Rapportnr.: MR-12207-0003B.
+Akvasafe AS. (2023c). Kobberundersøkelse ved 21335 Floteneset. Rapportnr.: MR-12207-0001Cu.
+Akvavet Gulen AS. (2013). Straummåling Seamatech A/S, lok. Floteneset.
+Borgersen, G., Hektoen, M., Melsom, F., &Todt, C. (2020). Uttesting av sensitivitetsindeksene1512018 og NS/2018, og en
+revidert arts/iste med sensitivitetsverdier for bløtbunnsfauna. Rapportnr.: M-1696 I 2020.
+Borgersen, G., Trannum, H. C., Gundersen, H., & VedaI, J. (2019). Oppdatering av bløtbunnsartenes sensitivitetsverdier.
+Løpenumer: 7366-2019.
+Borja, A., Franco, J., & Perez, V. (2000). A Marine Biotic lndex to Establish the Ecological Quality of Soft-Bottom Benthos
+Within European Estuarine and Coastal Environments. Marine Pollution Bulletin, 40(12), ss. 1100-1114.
+Buhl-Mortensen, L., Aure, J., Alve, E., Husum, K., &Oug, E. (2006). Effekter av oksygensvikt på fjordfauna: Bunnfauna og
+miljø i fjorder på Skagerrakkysten. Fisken og havet nr. 3/2006.
+Direktoratsgruppen Vanndirektivet. (2018). Veileder 02:2018 - Klassifisering av miljøtilstand i vann. Økologisk og
+kjemisk klassifiseringssystem for kystvann, grunnvann, innsjøer og elver. Rev 2020. Direktoratsgruppen for
+gjennomføringen av vannforskriften.
+DNV GL AS. (2018). Forundersøkelse av oppdrettslokalitet ved Hovdeurane. Rapportnr.: 2018-4030, Rev. 00.
+Fiskeridirektoratet. (2022). Yggdrasil: Kart for akvakultur. Hentet fra http://portal.fiskeridir.no/akva
+Fylkesmannen i Sogn og Fjordane. (2015). Oversending av nytt utsleppsløyvefor lokaliteten Floteneset i Høyanger
+kommune - samlokalisering mellom Nordfjord Forsøksstasjon ASog Aller Aqua Norway AS. Referanse:
+2003/227 - 542.1.
+Hurlbert, S. H. (1971). The Nonconcept of Species Diversity: A Critique and Alternative Parameters. Ecology, 52(4), ss.
+577-586.
+Miljødirektoratet. (2016). Grenseverdier for klassifisering av vann, sediment og biota - revidert 30.10.2020 (M-
+608:2016).
+Norge i bilder. (2016). [Bildesøk Vadheimfjorden, Kartlag: Vestlandet 2014. Dekning: 14147 Vestlandet GSD 25 cm].
+Prosjektnr.: LOMK0002.
+NS-EN ISO 16665:2013. (u.d.). Vannundersøkelse - Retningslinjer for kvantitativ prøvetaking og prøvebehandling av
+marine bløtbunnsfauna. 44 sider.
+NS-EN ISO 5667-19:2004. (u.d.). Vannundersøkelse - Prøvetaking - Del 19: Veiledning i sedimentprøvetaking i marine
+områder. 24 sider.
+Rygg, B. (2002). Indicator species index for assessing benthic ecological quality in marine waters of Norway. NIVA
+rapport SNO 4558-2002, 32 s.
+Rygg, B. (2006). Developing indices for quality-status classification of marine soft-bottom fauna in Norway. NIVA
+rapport SNO 5208-2006, 33 s.
+& Norling, K. (2013). Norwegian Sensitivity lndex (NSI) for marine macroinvertebrates, and an update of
+lndicator Species lndex (ISI). NIVA rapport SNO 6475-2013, 48 s.
+Shannon, C. E., & Weaver, W. (1949). The Mathematical Theory of Communication. University of Illinois Press, Urbana.
+Standard Norge. (2016). Miljøovervåkning av bunnpåvirkning på marine akvakulturanlegg (NS9410:2016). 1-29.
+Sub Aqua Tech AS. (2014). MOM-B undersøking ved Floteneset i Høyanger kommune. Rapportnr.: MOM-B1-12-14.
+Sub Aqua Tech AS. (2015a). Lokalitetsrapport ved Flotenesetfor Nordfjord Forsøksstasjon AS. Rapportnr.: LOK 2-7-15.
+Sub Aqua Tech AS. (2015b). Straummåling ved Floteneset i Høyanger kommune. Prosjektnr.: Straum 2-1-15.
+TA-1883/2002. (u.d.). Langtidsovervåking av miljøkvaliteten i kystområdene av Norge - 10-årsrapport (1990-99).
+Rapport: 848/02. Statlig program for forurensingsovervåking (2002).
+Rygg, B.,
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 25
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+6. Vedlegg
+Vedlegg 1 Feltlogg prøveskjema
+Tabell Vl-1. Prøveskjemafra feltlogg.
+Akva•
+safe
+Firma: AlIer Aqua AS
+Dato: 18.10.2023
+lokalitet: Floteneset
+lokalitetsnummer: 21335
+Buffertemp:
+18,1°C
+Sjøvannstemp:
+9,3°C
+Sedimenttemp:
+9,1°C
+pH sjø:
+8.13
+Eh sjø:
+167.9
+Referanseelektrode:
+200
+Stasjon
+FLO-1/C1
+FLO-2/C2
+FLO-3/C3
+Planlagte koordinater:
+61°11,565'N
+61°11,406'N
+61°11,503'N
+005°48,073'Ø
+005'48,144'Ø
+005'48,157'Ø
+51°11.551'N
+51°11.402'N
+51°11.488'N
+Reelle koordinater:
+5°48.125'Ø
+5°48.121'Ø
+5°48.156'Ø
+Dybde (m):
+219
+232
+228
+Bunntype: B (bløt) eller H (hard)
+B/H
+B
+B
+Huggnr.
+1
+2
+3
+1
+2
+3
+1
+2
+3
+Antall forsøk
+1
+11
+1
+1
+2
+1
+1
+1
+2
+Godkj. Overflate
+Ja
+Nei**
+Ja
+Ja
+Ja
+Ja
+Ja
+Ja
+Godkj. Volum (ja/nei)
+Ja
+Nei
+Ja
+Ja
+Ja
+Ja
+Ja
+Ja
+Grabbvolum (cm)
+2.5
+9
+1
+2.5
+3
+3.5
+2
+7
+Type prøve (F/KG*)
+F
+KG
+F
+F
+KG
+F
+F
+KG
+Antall bøtter/glass
+7
+2
+2
+2
+2
+1
+2
+2
+pH
+Målt verdi
+7.55
+7.47
+7.50
+Eh
+Målt verdi (E,6;)
+151.8
+74.7
+168
++ ref verdi (Eg)
+351.8
+274.7
+368
+Gassbobler
+0
+0
+0
+0
+0
+0
+0
+0
+Nei =O
+Farge
+Lys/grå =O
+0
+0
+0
+0
+0
+0
+0
+0
+Brun/svart= 2
+Ingen =O
+lukt
+Noe = 2
+0
+0
+0
+0
+0
+0
+0
+0
+Sterk = 4
+Fast=O
+Konsistens
+Myk = 2
+0
+0
+0
+0
+0
+0
+0
+0
+Løs = 4
+Tykkelse på 0 - 2 c m
+0
+2 - 8 cm
+1
+0
+0
+0
+0
+0
+0
+0
+0
+slamlag
+>8 cm= 2
+Leire
+10
+10
+30
+30
+Silt
+30
+60
+60
+30
+30
+Sand
+60
+30
+30
+40
+40
+Grus
+10
+Skjellsand
+Steinbunn
+Fjellbunn
+Beggiatoa sp.
+For
+FekaIier
+Terrestrisk
+Terrestrisk
+Terrestrisk Terrestrisk Terrestrisk
+Olje/steiner/debris
+materiale
+materiale
+materiale
+materiale
+materiale.
+Mye steiner i grabbmunn. Ikke
+godkjente prøver. **Det ene av de
+Kommentarer/avvik/ref
+12 grabbskudd ble vurdert til å ha
+CTD-stasjon.
+Hugg 3: Første grabbskudd åpent.
+*F = Fauna, KG= Kjemi/Geo
+delvis godkjent overflate og fra
+Hugg 2: Første grabbskudd åpent.
+dette grabbskudd ble det tatt ut
+prøver til kjemisk analyse.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 26
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Vedlegg 2 Prøvetaking og analyser
+C-undersøkelsen er en bløtbunnsundersøkelse som omfatter uttak av sedimentprøver for analyse av bløtbunnsfauna,
+kjemiske forbindelser og kjemisk-fysiske støtteparametere (TOC, kornfordeling og totalt nitrogen). Prøvetaking av bløt-
+bunnsediment ble utført i henhold til NS EN-ISO 16665:2014 Vannundersøkelse - Retningslinjer for kvantitativ prøveta-
+king og prøvebehandling av marin bløtbunnsfauna og NS EN-ISO 5667-19:2004 - Vannundersøkelse prøvetaking Del 19:
+Veiledning i sedimentprøvetaking i marine områder. Utstyr brukt til undersøkelsen er iht. krav og anbefalinger (Tabell
+V2-1) En oversikt over metodestandarder brukt i de ulike delene av undersøkelsen (både prøvetaking, analyser og vurde-
+ringer), samt hvilke aktører som har vært involvert kan sees i Tabell V2-2.
+Tabell V2-l. Oversikt over utstyr brukt i gjeldende C-undersøkelse. Internnummer for utstyret er lagret hos Akvasafe.
+Type
+Detaljer
+Sedimentprøvetaker
+pH- og redoksmåler
+Posisjonsmåler
+Sikt
+Konservering
+CTD
+Annet
+Van Veen grabb 0,1m (KC-Denmark)
+YSI ProQUatro m/1003 pH/ORP-sensor (Xylem)
+Garmin etrex 10. Dybder ble registrert med Olex
+Runde hull, Ø1mm (Akvasafe og KC-Denmark)
+96% etanol
+SAIV SD204 m/Rinko Ill optisk oksygensensor
+Hvit plastbalje, linjal, lupe, hevert, nummerlapper, kamera
+Tabell V2-2. Oversikt over arbeid utført og underleverandører som er benyttet.
+Parameter
+Leverandør
+Personell
+Akkreditering
+Metodikk
+Metodikk
+prøvetaking
+analyser
+Mai-Louise
+NS-EN ISO
+16665:2013, NS-EN
+Feltarbeid
+Akvasafe AS
+Bouwman, Simon
+TEST 321; P3003
+ISO 5667-19,
+Nordblad Schmidt
+NS 9410:2016
+Mai-Louise
+Elektrokjemi (pH/E,)
+Akvasafe AS
+Bouwman, Simon
+Uakkreditert
+NS 9410:2016
+Nordblad Schmidt
+Mai-Louise
+Hydrografi
+Akvasafe AS
+Bouwman, Simon
+Uakkreditert
+Interne prosedyrer
+Interne prosedyrer
+Nordblad Schmidt
+Grovsortering
+Fishlab
+Se analysebevis
+DANAK TEST 578
+NS-EN ISO
+ISO 16665:2014
+(Vedlegg 7)
+16665:2013
+Artsidentifisering
+Fishlab
+Se analysebevis
+DANAK TEST 578
+NS-EN ISO
+ISO 16665:2014
+(Vedlegg 7)
+16665:2013
+Statistiske utregninger
+Sea Eco AS
+Se analysebevis
+TEST 311; P32
+NS-EN-ISO 16665:2014,
+(Vedlegg 8)
+Veileder 02:2018
+Vurdering og tolkning
+Akvasafe AS
+Simon Nordblad
+TEST 321; P21
+NS 9410:2016,
+av bunnfauna
+Schmidt
+Veileder 02:2018
+Glødetap (TOM)
+Eurofins AS
+Se analysebevis
+TEST 003
+NS-EN ISO
+NS 4764
+(Vedlegg 3)
+5667-19
+Total organisk karbon
+Eurofins AS
+Se analysebevis
+TEST 003
+NS-EN ISO
+NF EN 15936-
+(TOC)
+(Vedlegg 3)
+5667-19
+Methode B
+Partikkelfordeling
+Eurofins AS
+Se analysebevis
+TEST 003
+NS-EN ISO
+Intern metode basert
+(Vedlegg 3)
+5667-19
+på NS-EN 933-1:2012
+Total Nitrogen (TN)
+Eurofins AS
+Se analysebevis
+TEST 003
+NS-EN ISO
+Se analysebevis
+(Vedlegg 3)
+5667-19
+(Vedlegg 3)
+Kobber (Cu)
+Eurofins AS
+Se analysebevis
+TEST 003
+NS-EN ISO
+Se analysebevis
+(Vedlegg 3)
+5667-19
+(Vedlegg 3)
+Total Fosfor (TP)
+Eurofins AS
+Se analysebevis
+TEST 003
+NS-EN ISO
+Se analysebevis
+(Vedlegg 3)
+5667-19
+(Vedlegg 3)
+Sink (Zn)
+Eurofins AS
+Se analysebevis
+TEST 003
+NS-EN ISO
+Se analysebevis
+(Vedlegg 3)
+5667-19
+(Vedlegg 3)
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 27
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Bløtbunnsfauna
+Metoder for innsamling, opparbeiding, artsbestemmelser og databehandling av faunaprøver er utført i samsvar med NS
+9410:2016, NS EN-ISO 16665:2014 og den til enhver gjeldende klassifiseringsveileder (Veileder 02:2018 og Borgersen,
+Hektoen, Melsom & Todt (2020)). Ved innsamling av faunaprøver blir det benyttet en 0,1m Van Veen grabb. Makrofauna
+som miljøparameter vurderes på grunnlag av artsantall og artssammensetning i et areal på 0,2 m i henhold til NS
+9410:2016. Dermed tas det to replikate grabbhugg fra hver stasjon for å oppfylle krav om prøveareal.
+Beroende på type bunn og strømforhold blir det benyttet opp mot 20 kg ekstra lodd på grabben. Sedimentvolumet i
+grabben vurderes etter krav for fyllingsgrad. Grabbprøvens innhold må bestå av minst 5 liter sandig sediment eller 10
+liter finkornet sediment for å bli vurdert som en godkjent prøve (Tabell V2-3). Dette tilsvarer en bitedybde på henholdsvis
+5 cm (sand) og 7 cm (mudder). Hvis det er vanskeligheter med å få opp tilstrekkelig med sediment ved stasjonen blir det
+i første omgang gjort en vurdering om stasjonen skal flyttes til et sted med mer egnet bunn. I tillegg skal sedimentets
+overflate være uforstyrret. Overflaten anerkjennes som godkjent ved vertikal penetrering, samt at grabben ikke er over-
+fylt (sedimentet skal ikke være i kontakt med toppen av grabben). Hvis sedimentets profil eller bunntypen gjør det umulig
+å få godkjente hugg blir de beste tilgjengelige prøvene beholdt, da de fremdeles kan gi verdifull informasjon om bunn-
+miljøet. Sedimentprøvene vaskes i sikt med 1 mm perforerte hull som sikrer at alle dyr over 1 mm (makrofauna) beholdes
+for videre analyse. Restsedimenter og fauna blir forsiktig overført til beholdere og fiksert med 96% etanol.
+Informasjon om underkjente grabbhugg, endringer i stasjonsplassering, og andre vurderinger finnes i eget kapittel om
+avvik.
+Tabell V2-3. Konverteringsskjemafor bestemme/se av prøvevolum i KC-Denmark 0,1 Van Veen grabb. Målt verdi (cm) er avstand måltfra luken i toppen
+av grabben ned til sedimentets overflate. Volum (L) viser tilsvarende volum i liter i forhold til målt verdi.
+Sedimentdybde (cm)
+Målt verdi (cm)
+Volum (L)
+18,5
+0
+16,74
+17,5
+1
+15,81
+16,5
+2
+14,84
+15,5
+3
+13,84
+14,5
+4
+12,81
+13,5
+5
+11,76
+12,5
+6
+10,70
+11,5
+7
+9,63
+10,5
+8
+8,57
+9,5
+9
+7,51
+8,5
+10
+6,47
+75
+11
+5,46
+6,5
+12
+4,48
+5,5
+13
+3,54
+4,5
+14
+2,66
+3,5
+15
+1,85
+2,5
+16
+1,14
+1,5
+17
+0,54
+0,5
+18
+0,10
+0
+18,5
+0,00
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 28
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Taksonomi og statistikk
+Grovsortering og artsidentifisering ble utført akkreditert av Fishlab (Tabell V2-2). Detaljer om metodikk, resultater, samt
+fullstendige artslister finnes i analysebevis i Vedlegg 7. Indeksberegninger er beskrevet i detalj i Vedlegg 4. I henhold til
+NS-EN ISO 16665:2013 og klassifiserings-veilederen (Veileder 02:2018) skal individer fra dyregruppene Foraminafera, Ne-
+matoda, Cirripedia, koloniale Porifera, Cnidaria og Bryozoa, samt planktoniske organismer, kun noteres som tilstedevæ-
+rende, men skal ikke kvantifiseres eller inngå i statistiske beregninger. Statistiske beregninger og indeksering ble utført
+av Sea Eco AS.
+Som nevnt introduksjonsvis skal Cl stasjonen, som ligger nærmest anlegget, vurderes iht. NS9410. Denne stasjonen viser
+vanligvis høyest påvirkning med få arter og høyt individantall, og stasjonen skal derfor vurderes særskilt på grunnlag av
+artssammensetning og artsantall (Se vurderingskriterier i Vedlegg 6). De resterende stasjonene skal vurderes på bakgrunn
+av klassifiseringssystemet utarbeidet av Direktoratsgruppen Vanndirektivet (Veileder 02:2018) og Borgersen, Hektoen,
+Melsom & Todt (2020). Klassifiseringssystemet er basert på diversitets- og ømfintlighetsindekser, deriblant diversitetsin-
+deksene Shannon-Wiener (H') og ESlOO, den sammensatte indeksen NQI1 som beskriver både diversitet og ømfintlighet,
+samt ømfintlighetsindeksene International Sensitivity lndex (ISl2018) og Norwegian Sensitivity lndex (NSl2018). Det har
+tidligere blitt benyttet ISI og NSI-verdier fra 2012, men i denne rapporten benyttes oppdaterte verdier fra 2018
+(Borgersen, Trannum, Gundersen, & Vedal, 2019). For å kunne bestemme lokalitetens økologiske tilstand må indeksver-
+diene sammenlignes. Alle indeksene blir dermed normalisert ved omregning til nEQR (Normalized Ecological Quality Ra-
+tio) for å gi grunnlag til sammenligning (se Vedlegg 5). Økologisk tilstand basert på nEQR blir bestemt for stasjonen i
+ytterkant av overgangssonen (stasjon C2), og en samlet nEQR for stasjonene i overgangssonen (C3, C4, etc.) gir grunnlag
+for å bestemme økologisk tilstand i overgangssonen.
+Sedimentkjemi ogfysisk-kjemiske støtteparametere
+I tillegg til faunaprøvene skal det hentes opp en tredje grabbprøve fra hver stasjon hvor prøver for kjemiske og geologiske
+analyser skal tas ut. Analysene inkluderer vanligvis kobber (Cu), sink (Zn) og i noen tilfeller kadmium (Cd), i tillegg til totalt
+organisk karbon (TOC), fosfor (P) og totalt nitrogen (TN). I tillegg skal sedimentets kornfordeling analyseres, samt totalt
+organisk materiale (TOM) som glødetap. Alle analysene ble utført av Eurofins AS. Elektrokjemiske målinger i form av
+surhetsgrad og redokspotensiale (pH og E) blir også målt i minst en prøve ved hver prøvestasjon. Disse parameterne kan
+gi indikasjoner på sure forhold i sedimentet, noe som ofte skyldes økt bakteriell nedbrytning av organisk materiale og
+som gjenspeiles av sterk lukt og produksjon av hydrogensulfid (H»S).
+Ved prøvetaking skal grabbhugget oppfylle krav til fyllingsgrad (minimumvolum) og uforstyrret overfalte som nevnt oven-
+for. Sistnevnte er særskilt viktig ved prøvetaking av prøver for kjemiske analyser, kornfordeling og analyser av organisk
+innhold da en forstyrret overflate kan påvirke analyseresultatene. I C-undersøkelsen tas prøver for analyse av sediment-
+kjemi og organisk innhold fra øvre 0-1 cm av sedimentet, mens for kornfordeling tas prøver fra øvre 0-5 cm. Prøvene tas
+ut ved hjelp av et plastrør som er markert med respektive dybder eller plastskje og linjal og overføres til designert em-
+ballasje. Prøvene legges i fryseboks og senere i fryser før de overleveres til analyselaboratorium.
+Miljøgifter
+Resultatene fra eventuelle analyser av kobber, sink, kadmium og andre stoffer klassifiseres iht. tilstandsklasser og gren-
+severdier i Veileder M-608:2016 rev. 2020 (Miljødirektoratet, 2016). I klassifiseringssystemet representerer klassegrens-
+ene en forventet økende grad av skade på organismesamfunnet i sedimentene (Tabell V2-4).
+Tabell V2-4. Klassifiseringssystem for miljøgifter i vann og sediment (fra Veileder M-608).
+Ill
+Bakgrunn
+Bakgrunnsnivå
+Moderat
+Ingen toksiske effekter
+IV
+Dårlig
+Kroniske effekter ved
+langtidseksponering
+Akutt toksiske effekter
+ved korttidseksponering
+Svært dårlig
+Omfattende toksiske
+effekter
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 29
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Kornfordeling og organisk innhold
+Sedimentets kornfordeling kan gi informasjon om lokalitetens strømforhold. I områder med gode strømforhold vil mindre
+partikler bli transportert lengre ut i resipienten, mens grovere og tyngre partikler vil synke og sedimentere på bunnen
+nærmere anlegget. Dette gjenspeiles i fordelingen av de ulike fraksjonene ved prøvestasjonene. Klassifisering av sedi-
+mentets kornfordeling analyseres for de ulike partikkelstørrelsene (Tabell V2-5).
+Tabell V2-5. Klassifisering av kornstørrelser i henhold til Wentworth's skala (oversatt fra NS-EN ISO 16665:2013).
+Fraksjon
+Silt og leire
+Svært fin sand
+Fin sand
+Medium sand
+Grov sand
+Svært grov sand
+Grus
+Størrelse
+< 63 µm
+63-125 µm
+125-250 µm
+250-500 µm
+500 µm-1 mm
+1-2 mm
+> 2 m m
+Kunnskap om sedimentets kornfordeling kan også gi verdifull informasjon om sedimentets artssammensetning. Finkornet
+sediment er ofte koblet sammen med organisk materiale, og TOCblir derfor benyttet som et supplement til faunadataene
+ved å gi informasjon om graden av organisk belastning. For at totalt organisk karbon kan klassifiseres for tilstand må
+konsentrasjonen av TOC standardiseres for andel finstoff i sedimentprøven (F):
+nTOC=TOC..
++18*
+mg/g
+(1-F)
+Normalisert TOC blir deretter vurdert etter tilstandsklasser og grenseverdier i henhold til Veileder 02:2018/SFT Veileder
+97:03 (se Vedlegg 6). Basert på TOCog konsentrasjonen av nitrogen blir C:N forholdet bestemt. Mengdeforholdet mellom
+organisk karbon og nitrogen gir indikasjon på hvor det organiske materialet stammer fra, da ulike typer materiale har
+ulikt nitrogeninnhold. Marint materiale har ofte høy nitrogeninnhold, noe som vil gi et lavt C:N forhold, mens terrestrisk
+materiale ofte inneholder lite nitrogen og karakteriseres dermed med et høyere C:N forhold. I tillegg gir C:N forholdet en
+indikasjon på i hvilken grad det organiske materialet gir grunnlag for biologisk aktivitet.
+Hydrografi
+Hydrografiprofil ble målt ved den dypeste stasjonen i C-undersøkelsen. Målingen ble utført ved å sende en CTDO-sonde
+med påmontert 10 kg blylodd og blåse ned til bunnen. Når loddet traff havbunnen ble sonden hentet opp igjen. Det ble
+gjort en registrering per 0,2 sekunder. Sonden målte trykk (dyp), salinitet, temperatur og oksygen i vannsøylen. Måledata
+ble bearbeidet med programvaren Minisoft SD200W (SAIV), versjon 3.22.19.254 og grafer ble laget i Microsoft Excel.
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 30
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Vedlegg 3 Analysebevis
+eurofins
+NORSK
+TEST 003
+Eurofins Environment Testing Norway
+(Bergen)
+F. reg. N 0 9 65141618
+Sandviksveien 110
+5035 Bergen
+TIf:
++47 94 50 42 42
+bergen@eurofins.no
+AkvasafeAS
+Espehaugen 41
+5258 Blomsterdalen
+Attn: Mai-Louise Bouwman
+AR-23-MX-033379-01
+EUNOBE-00070122
+Prøvemottak:
+17.11.2023
+Temperatur:
+Analyseperiode:
+17.11.2023 12:05
+05.12.2023 02:11
+Referanse:
+Prosjektnr.: 3838
+ANALYSERAPPORT
+Prøvenr.:
+441-2023-1117-054
+Prøvetakingsdato:
+01.11.2023
+Prøvetype:
+Saltvannssedimenter
+Prøvetaker:
+SNS
+Prøvemerking:
+FLO-1-GEO
+Analysestartdata:
+17.11.2023
+Analyse
+Resultat Enhet
+LOQ
+MU
+Metode
+Total tørrstoff
+60.5 %
+0.02
+10%
+NS4764
+Komfordeling 2000 • 63 µm, 7 fraksjoner
+Fraksjon >2000 µm
+6.4 %
+0.5
+90%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 1000 - 2000 µm
+5.7 %
+0.5
+20%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 500-1000 µm
+9.4
+%
+0.5
+20%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 250 - 500 µm
+11.4 %
+0.5
+20%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 125 - 250 µm
+15.8 %
+0.5
+20%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63 - 125 µm
+15.3 %
+0.5
+30%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63-2000 µm
+57.7 %
+0.5
+0%
+Intern metode basert
+på NS-EN
+933-1:2012
+Kornstørrelse < 6 3 µm
+35.9 %
+0.5
+40%
+Intern metode basert
+på NS-EN
+933-1:2012
+Kornfordeling 2000 - 63 µm, 7 fraksjoner
+Fraksjon >2000 µm
+1.6
+g TS
+0.5
+30%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 1000 - 2000 µm
+1.4 g TS
+0.5
+40%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 500-1000 µm
+2.3
+g TS
+0.5
+40%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 250 - 500 µm
+2.8
+g TS
+0.5
+40%
+Intern metode basert
+på NS-EN
+Tegnforklaring:
+* Ikke omfattet av akkrediteringen
+MU: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+<Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet
+Ytterligere opplysninger om måleusikkerhet fås vedhenvendelse til laboratoriet.
+Rapponen måikke gjengis, unntatt i sin helhet. uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) undersøkte prøven(e).
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 1 av 2
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 31
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+AR-23-MX-033379-01
+eurofins
+EUNOBE-00070122
+933-1:2012
+Fraksjon 125 - 250 µm
+3.8 g TS
+0.5
+40%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63 - 125 µm
+3.7 g T S
+0.5
+70%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63-2000 µm
+13.9 g TS
+0.5
+0%
+Intern metode basert
+på NS-EN
+933-1:2012
+Komstørrelse < 6 3 µm
+8.7 g T S
+0.5
+75%
+Intern metode basert
+på NS-EN
+933-1:2012
+Prøvemengde
+24.1 g TS
+0%
+Intern metode basert
+på NS-EN
+933-1:2012
+Bergen 05.12.2023
+Kjetil Sjaastad
+Kundeveileder (ASM)
+Tegnforklaring:
+* Ikke omfattetav akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultateter utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om måleusikkeret fås ved henvendelse til laboratoriet.
+Rapporten mil ikke gjengis, unntatt I sin helhet, uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) undersøkte prøven(e),
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 2 av 2
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 32
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+eurofins
+TEsT ana
+Eurofins Environment TestingNorway
+(Bergen)
+F. reg. NO9 651 416 18
+Sandviksveien 110
+5035 Bergen
+TIf:
++47 94 50 42 42
+bergen@eurofins.no
+AkvasafeAS
+Espehaugen 41
+5258 Blomsterdalen
+Attn: Mai-Louise Bouwman
+AR-23-MX-033378-01
+EUNOBE-00070122
+Prøvemottak:
+17.11.2023
+Temperatur:
+Analyseperiode:
+17.11.202312:05-
+05,12.2023 01:55
+Referanse:
+Prosjektnr.: 3838
+ANALYSERAPPORT
+Prøvenr.:
+441-2023-1117-053
+Prøvetakingsdato:
+01.11.2023
+Prøvetype:
+Saltvannssedimenter
+Prøvetaker:
+SNS
+Prøvemerking:
+FLO-1-KJE
+Analysestartdato:
+17.11.2023
+Analyse
+Resultat Enhet
+LOQ
+MU
+Metode
+Total tørrstoff glødetap
+4.69 % T S
+0.02
+20%
+NS 4764
+a)
+Tørrstoff
+Tørrvekt steg 1
+61,3 % rv
+0.1
+3.06
+NF EN 12880
+Kobber (Cu)
+45.0 mg/kg TS
+5
+7.16
+NF EN ISO 11885,
+Internat Method, NF
+EN ISO 54321, NF EN
+ISO 54321, NF EN
+ISO 11885, NF EN
+ISO 11885
+Sink (Zn)
+107 mg/kg TS
+5
+22
+NF EN ISO 11885,
+lnternal Method, NF
+EN ISO 54321, NF EN
+ISO 54321, NF EN
+ISO 11885, NF EN
+a)
+Total Fosfor
+ISO 11885
+Phosphorus (P)
+4710 mg/kg TS
+1
+612
+NF EN ISO 11885,
+lnternal Method. NF
+EN ISO 54321, NF EN
+ISO 54321. NF EN
+ISO 11885, NF EN
+a)
+Total nitrogen - Kjeldahl
+ISO 11885
+Nitrogen Kjeldahl (BOOM)
+2.4 g/kg TS
+0.5
+0.46
+Internat Method
+(Soil), NF EN 13342
+a)
+Totalt organisk karbon (TOC)
+(other matrices)
+Totalt organisk karbon
+2.30 %C
+0.1
+0.453
+NF EN 15936-
+Måthode B
+Totalt organisk karbon (TOC)
+23000 mg C/kg TS
+1000
+4526
+NF EN 15936-
+Methode B
+Utførende laboratorium/ Underleverandør:
+a) Eurofins Analyses pour l'Environnement France {S1), 5. rue d'Otterswiller. F-67700, Saverne COFRAC TESTING 1-1488,
+Tegnforklaring:
+* Ikke omfattet av akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om måleusikkeret fås ved henvendelse til laboratoriet.
+Rapporten må ikke gjengis, unntatt i sin helhet, uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) undersøkte prøven(e).
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 1 av 2
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 33
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+AR-23-MX-033378-01
+eurofins
+EUNOBE-00070122
+Bergen 05.12.2023
+Kundesenter - Eurofins Environment Testing Norway AS
+Teqnforklartnq,
+* Ikke omfattetav akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet erIkke tall hensyn til ved vurdering av om resultateter utenfor grenseverdi/ -omtl><M
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om maleusikkerhei fasved henvendelse til laboratoriet.
+Rapporten mil ikke gjengis, unntatt I sin helhel uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) uooe,,okte proven{e),
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 2 av 2
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 34
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+eurofins
+TEsT ana
+Eurofins Environment Testing Norway
+(Bergen)
+F. reg. NO9 651 416 18
+Sandviksveien 110
+5035 Bergen
+TIf:
++47 94 50 42 42
+bergen@eurofins.no
+AkvasafeAS
+Espehaugen 41
+5258 Blomsterdalen
+Attn: Mai-Louise Bouwman
+AR-23-MX-030777-01
+EUNOBE-00069443
+Prøvemottak:
+30.10.2023
+Temperatur:
+Analyseperiode:
+30.10.2023 10:45-
+14,11.2023 01:44
+Referanse:
+Prosjektnr.: 3838
+ANALYSERAPPORT
+Prøvenr.:
+441-2023-1030-038
+Prøvetakingsdato:
+18.10.2023
+Prøvetype:
+Saltvannssedimenter
+Prøvetaker:
+SNS
+Prøvemerking:
+FLO-2-GEO
+Analysestartdato:
+30.10.2023
+Analyse
+Resultat Enhet
+LOQ
+MU
+Metode
+Total tørrstoff
+51.5 %
+0.02
+10%
+NS4764
+Kornfordeling 2000 - 63 µm, 7 fraksjoner
+Fraksjon >2000 µm
+<O,5 %
+0.5
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 1000 - 2000 µm
+1.0 %
+0.5
+20%
+Intern metode basen
+på NS-EN
+933-1:2012
+Fraksjon 500-1000 µm
+3.4 %
+0.5
+20%
+Intern metode basen
+på NS-EN
+933-1:2012
+Fraksjon 250 - 500 µm
+6.6 %
+0.5
+20%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 125
+250 µm
+10.9 %
+0.5
+20%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63 - 125 µm
+17.6 %
+0.5
+30%
+Intern metode baser!
+på NS-EN
+933-1:2012
+Fraksjon 63-2000 µm
+39,6 %
+0.5
+0%
+Intern metode basert
+på NS-EN
+933-1:2012
+Komstørrelse < 6 3 µm
+60.4 %
+0.5
+40%
+Intern metode basen
+på NS-EN
+933-1:2012
+Kornfordeling 2000 - 63 µm, 7 fraksjoner
+Fraksjon >2000 µm
+<0.5 g TS
+0.5
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 1000 - 2000 µm
+<0.5 g TS
+0.5
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 500-1000 µm
+0.9 g T S
+0.5
+40%
+Intern metode baser!
+på NS-EN
+933-1:2012
+Fraksjon 250 - 500 µm
+1.8 g T S
+0.5
+40%
+Intern metode basert
+på NS-EN
+Teqnforklartnq:
+* Ikke omfattet av akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om måleusikkeret fås ved henvendelse til laboratoriet.
+Rapporten må ikke gjengis, unntatt i sin helhet, uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) undersøkte prøven(e).
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 1 av 2
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 35
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+AR-23-MX-030777-01
+eurofins
+EUNOBE-00069443
+933-1:2012
+Fraksjon 125 - 250 µm
+3.0 g TS
+0.5
+40%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63 - 125 µm
+4.8 g TS
+0.5
+70%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63-2000 µm
+10.8 g TS
+0.5
+0%
+Intern metode basert
+på NS-EN
+933-1:2012
+Komstørrelse < 6 3 µm
+16.4 g TS
+0.5
+75%
+Intern metode basert
+på NS-EN
+933-1:2012
+Prøvemengde
+27.1 g TS
+0%
+Intern metode basert
+på NS-EN
+933-1:2012
+Bergen 14.11.2023
+Stig Tjomsland
+Kundeveileder (ASM)
+Tegnforklaring:
+* Ikke omfattetav akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultateter utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om måleusikkeret fås ved henvendelse til laboratoriet.
+Rapporten må ikke gjengis, unntatt i sin helhet, uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) undersøkte prøven(e).
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 2 av 2
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 36
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+eurofins
+TEsT ana
+Eurofins Environment TestingNorway
+(Bergen)
+F. reg. NO9 651 416 18
+Sandviksveien 110
+5035 Bergen
+TIf:
++47 94 50 42 42
+bergen@eurofins.no
+AkvasafeAS
+Espehaugen 41
+5258 Blomsterdalen
+Attn: Mai-Louise Bouwman
+AR-23-MX-030774-01
+EUNOBE-00069443
+Prøvemottak:
+30.10.2023
+Temperatur:
+Analyseperiode:
+30.10.2023 10:45-
+14,11.2023 01:33
+Referanse:
+Prosjektnr.: 3838
+ANALYSERAPPORT
+Prøvenr.:
+441-2023-1030-037
+Prøvetakingsdato:
+18.10.2023
+Prøvetype:
+Saltvannssedimenter
+Prøvetaker:
+SNS
+Prøvemerking:
+FLO-2-KJE
+Analysestartdato:
+30.10.2023
+Analyse
+Resultat Enhet
+LOQ
+MU
+Metode
+Total tørrstoff glødetap
+16.7 % T S
+0.02
+20%
+NS 4764
+a)
+Tørrstoff
+Tørrvekt steg 1
+55,8 % rv
+0.1
+2.79
+NF EN 12880
+Kobber (Cu)
+30.8 mg/kg TS
+5
+5.20
+NF EN ISO 11885,
+Internat Method, NF
+EN ISO 54321, NF EN
+ISO 54321, NF EN
+ISO 11885, NF EN
+ISO 11885
+Sink (Zn)
+99.0 mg/kg TS
+5
+20.80
+NF EN ISO 11885,
+lnternal Method, NF
+EN ISO 54321, NF EN
+ISO 54321, NF EN
+ISO 11885, NF EN
+a)
+Total Fosfor
+ISO 11885
+Phosphorus (P)
+1470 mg/kg TS
+1
+191
+NF EN ISO 11885,
+Internal Method. NF
+EN ISO 54321, NF EN
+ISO 54321. NF EN
+ISO 11885, NF EN
+a)
+Total nitrogen - Kjeldahl
+ISO 11885
+Nitrogen Kjeldahl (BOOM)
+1.8 g/kg TS
+0.5
+0.36
+Internat Method
+(Soil), NF EN 13342
+a)
+Totalt organisk karbon (TOC)
+(other matrices)
+Totalt organisk karbon
+2.27 %C
+0.1
+0.447
+NF EN 15936-
+Måthode B
+Totalt organisk karbon (TOC)
+22700 mg C/kg TS
+1000
+4468
+NF EN 15936-
+Methode B
+Utførende laboratorium/ Underleverandør:
+a) Eurofins Analyses pour l'Environnement France {S1), 5. rue d'Otterswiller. F-67700, Saverne COFRAC TESTING 1-1488,
+Tegnforklaring:
+* Ikke omfattet av akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om måleusikkeret fås ved henvendelse til laboratoriet.
+Rapporten må ikke gjengis, unntatt i sin helhet, uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) undersøkte prøven(e).
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 1 av 2
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 37
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+AR-23-MX-030774-01
+eurofins
+EUNOBE-00069443
+Bergen 14.11.2023
+Kundesenter - Eurofins Environment Testing Norway AS
+Teqnforklartnq,
+* Ikke omfattetav akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet erIkke tall hensyn til ved vurdering av om resultateter utenfor grenseverdi/ -omtl><M
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om maleusikkerhei fasved henvendelse til laboratoriet.
+Rapporten mil ikke gjengis, unntatt I sin helhel uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) uooe,,okte proven{e),
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 2 av 2
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 38
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+eurofins
+TEsT ana
+Eurofins Environment Testing Norway
+(Bergen)
+F. reg. NO9 651 416 18
+Sandviksveien 110
+5035 Bergen
+TIf:
++47 94 50 42 42
+bergen@eurofins.no
+AkvasafeAS
+Espehaugen 41
+5258 Blomsterdalen
+Attn: Mai-Louise Bouwman
+AR-23-MX-030776-01
+EUNOBE-00069443
+Prøvemottak:
+30.10.2023
+Temperatur:
+Analyseperiode:
+30.10.2023 10:45
+14,11.2023 01:44
+Referanse:
+Prosjektnr.: 3838
+ANALYSERAPPORT
+Prøvenr.:
+441-2023-1030-036
+Prøvetakingsdato:
+18.10.2023
+Prøvetype:
+Saltvannssedimenter
+Prøvetaker:
+SNS
+Prøvemerking:
+FLO-3-GEO
+Analysestartdato:
+30.10.2023
+Analyse
+Resultat Enhet
+LOQ
+MU
+Metode
+Total tørrstoff
+53.9 %
+0.02
+10%
+NS4764
+Kornfordeling 2000 - 63 µm, 7 fraksjoner
+Fraksjon >2000 µm
+<O,5 %
+0.5
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 1000 - 2000 µm
+<0.5 %
+0.5
+Intern metode basen
+på NS-EN
+933-1:2012
+Fraksjon 500-1000 µm
+1.6 %
+0.5
+20%
+Intern metode basen
+på NS-EN
+933-1:2012
+Fraksjon 250 - 500 µm
+6.3 %
+0.5
+20%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 125
+250 µm
+14.6 %
+0.5
+20%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63 - 125 µm
+19.7 %
+0.5
+30%
+Intern metode baser!
+på NS-EN
+933-1:2012
+Fraksjon 63-2000 µm
+42.7 %
+0.5
+0%
+Intern metode basert
+på NS-EN
+933-1:2012
+Komstørrelse < 6 3 µm
+57.1 %
+0.5
+40%
+Intern metode basen
+på NS-EN
+933-1:2012
+Kornfordeling 2000 - 63 µm, 7 fraksjoner
+Fraksjon >2000 µm
+<0.5 g TS
+0.5
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 1000 - 2000 µm
+<0.5 g TS
+0.5
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 500-1000 µm
+0.5 g T S
+0.5
+40%
+Intern metode baser!
+på NS-EN
+933-1:2012
+Fraksjon 250 - 500 µm
+2.0 g TS
+0.5
+40%
+Intern metode basert
+på NS-EN
+Teqnforklartnq:
+* Ikke omfattetav akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultateter utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om måleusikkeret fås ved henvendelse til laboratoriet.
+Rapporten må ikke gjengis, unntatt i sin helhet, uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) undersøkte prøven(e).
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 1 av 2
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 39
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+AR-23-MX-030776-01
+eurofins
+EUNOBE-00069443
+933-1:2012
+Fraksjon 125 - 250 µm
+4.6 g T S
+0.5
+40%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63 - 125 µm
+6.2 g TS
+0.5
+70%
+Intern metode basert
+på NS-EN
+933-1:2012
+Fraksjon 63-2000 µm
+13.4 g TS
+0.5
+0%
+Intern metode basert
+på NS-EN
+933-1:2012
+Komstørrelse < 6 3 µm
+17.9 g TS
+0.5
+75%
+Intern metode basert
+på NS-EN
+933-1:2012
+Prøvemengde
+31.3 g TS
+0%
+Intern metode basert
+på NS-EN
+933-1:2012
+Bergen 14.11.2023
+Stig Tjomsland
+Kundeveileder (ASM)
+Tegnforklaring:
+* Ikke omfattetav akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultateter utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om måleusikkeret fås ved henvendelse til laboratoriet.
+Rapporten mil ikke gjengis, unntatt I sin helhet, uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) undersøkte prøven(e),
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 2 av 2
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 40
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+eurofins
+TEsT ana
+Eurofins Environment TestingNorway
+(Bergen)
+F. reg. NO9 651 416 18
+Sandviksveien 110
+5035 Bergen
+TIf:
++47 94 50 42 42
+bergen@eurofins.no
+AkvasafeAS
+Espehaugen 41
+5258 Blomsterdalen
+Attn: Mai-Louise Bouwman
+AR-23-MX-030773-01
+EUNOBE-00069443
+Prøvemottak:
+30.10.2023
+Temperatur:
+Analyseperiode:
+30.10.2023 10:45-
+14,11.2023 01:33
+Referanse:
+Prosjektnr.: 3838
+ANALYSERAPPORT
+Prøvenr.:
+441-2023-1030-035
+Prøvetakingsdato:
+18.10.2023
+Prøvetype:
+Saltvannssedimenter
+Prøvetaker:
+SNS
+Prøvemerking:
+FLO-3-KJE
+Analysestartdato:
+30.10.2023
+Analyse
+Resultat Enhet
+LOQ
+MU
+Metode
+Total tørrstoff glødetap
+5.15 % T S
+0.02
+20%
+NS 4764
+a)
+Tørrstoff
+Tørrvekt steg 1
+53,1 % rv
+0.1
+2.65
+NF EN 12880
+Kobber (Cu)
+36.8 mg/kg TS
+5
+6.01
+NF EN ISO 11885,
+Internat Method, NF
+EN ISO 54321, NF EN
+ISO 54321, NF EN
+ISO 11885, NF EN
+ISO 11885
+Sink (Zn)
+105 mg/kg TS
+5
+22
+NF EN ISO 11885,
+lnternal Method, NF
+EN ISO 54321, NF EN
+ISO 54321, NF EN
+ISO 11885, NF EN
+a)
+Total Fosfor
+ISO 11885
+Phosphorus (P)
+1270 mg/kg TS
+1
+165
+NF EN ISO 11885,
+Internal Method. NF
+EN ISO 54321, NF EN
+ISO 54321. NF EN
+ISO 11885, NF EN
+a)
+Total nitrogen - Kjeldahl
+ISO 11885
+Nitrogen Kjeldahl (BOOM)
+2.7 g/kg TS
+0.5
+0.51
+Internat Method
+(Soil), NF EN 13342
+a)
+Totalt organisk karbon (TOC)
+(other matrices)
+Totalt organisk karbon
+2.14 %C
+0.1
+0.421
+NF EN 15936-
+Måthode B
+Totalt organisk karbon (TOC)
+21400 mg C/kg TS
+1000
+4214
+NF EN 15936-
+Methode B
+Utførende laboratorium/ Underleverandør:
+a) Eurofins Analyses pour l'Environnement France {S1), 5. rue d'Otterswiller. F-67700, Saverne COFRAC TESTING 1-1488,
+Tegnforklaring:
+* Ikke omfattet av akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om måleusikkeret fås ved henvendelse til laboratoriet.
+Rapporten må ikke gjengis, unntatt i sin helhet, uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) undersøkte prøven(e).
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 1 av 2
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 41
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+AR-23-MX-030773-01
+eurofins
+EUNOBE-00069443
+Bergen 14.11.2023
+Kundesenter - Eurofins Environment Testing Norway AS
+Teqnforklartnq,
+* Ikke omfattetav akkrediteringen
+ML: Måleusikkerhet
+LOQ: Kvantifiseringsgrense
+Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr 'ikke påvist'.
+Måleusikkerhet er angitt med dekningsfaktor k=2. Måleusikkerhet erIkke tall hensyn til ved vurdering av om resultateter utenfor grenseverdi/ -omtl><M
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterligere opplysninger om maleusikkerhei fasved henvendelse til laboratoriet.
+Rapporten mil ikke gjengis, unntatt I sin helhel uten laboratoriets skriftlige godkjennelse. Resultatene gjelder kun for de(n) uooe,,okte proven{e),
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+Side 2 av 2
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 42
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Vedlegg 4 Indeksbeskrivelser
+Diversitet og jevnhet
+H' (Shannon-indeksen; Shannon & Weaver, 1949) beskriver artsrikdommen (S, totalt antall arter i en prøve) og hvor jevnt
+fordelt individene er (J, fordelingen av antall individer relatert til fordeling av individer mellom artene). Høy dominans av
+enkeltarter vil redusere diversitetsindeksen.
+Diversitetsindeksen er beskrevet av formelen:
+H
+log2
+ES100 (Hurlberts diversitetsindeks; Hurlbert, 1971) viser forventede antall arter blant 100 tilfeldig valgte individer i en
+prøve med N (individer), S (arter) og Ni (individer av i-ende art).
+Diversitetsindeksen er beskrevet som:
+ES100
+Sensitivitet og tetthet
+NSI (Norwegian Sensitivity lndex; Rygg & Norling, 2013) er utviklet med basis i norske faunadata og innført i 2012. Hver
+art av i alt 591 arter er tilordnet en sensitivitetsverdi). En prøves NSI-verdi beregnes ved gjennomsnittet av sensitivitets-
+verdiene av alle individene i prøven. Nye NSI sensitivitetsverdier (NSlzo1s) fra Borgersen, Hektoen, Melsom & Todt (2020)
+er benyttet i denne C-undersøkelsen. Formelen for utregning er gitt ved:
+s
+NSI
+NSI
+Nssi
+Hvor N; er antall individer og NSI; er NSI-verdien for arten i, NNst er antall individer tilordnet sensitivitetsverdier.
+ISlz012(Indicator Species lndex; Rygg & Norling, 2013) er en sensitivitetsindeks. Grunnlaget for beregningen av ISI (Rygg,
+2002) ble utvidet og artsnomenklaturen standardisert i 2012. Hver art er tilordnet en ømfintlighetsverdi. ISI er en kvali-
+tativ indeks som tar hensyn til hvilke arter som er til stede, men ikke individtallet av dem. En prøves ISl-verdi beregnes
+ved gjennomsnittet av sensitivitetsverdiene av artene i prøven hvor ISI;er ISl2012verdien for arten i og Sisi er antall arter
+tilordnet sensitivitetsverdier. Også ISI verdier er oppdatert (ISbo1s) etter Borgersen, Trannum, Gundersen & VedaI (2019).
+s
+ISJ
+ISJ
+LS,si
+AMBI (Azti Marine Biotic lndex; Borja, Franco, & Perez, 2000) er en sensitivitetsindeks (egentlig en toleranseindeks) der
+artene tilordnes en toleranseklasse (økologisk gruppe, EG). EG I = sensitive arter, EG li = "indifferente" arter, EG Ill =
+tolerante arter, EGIV= opportunistiske arter, EGV= forurensningsindikerende arter. I Norge brukes AMBI bare i kombi-
+nasjonsindeksen NQI1 og har derfor ingen egen klassifisering. AMBI er en kvantitativ indeks som tar hensyn til individtallet
+av artene.
+AMBI = ( 0 * EG I) + (1,5 * EG II) + (3 * EGIII) + (4,5 * EG IV) + ( 6 * EG V) hvor EGi er andelen av individer som tilhører
+gruppe I, etc. Tallene angir toleranseverdiene.
+Formelen for beregning av en prøves AMBl-verdi er gitt ved:
+AMBI =
+N A M B I
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 43
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Sammensatt indeks
+NQI1 (Norwegian Quality lndex; Rygg, 2006) inneholder indikatorer som omfatter sensitivitet (AMBI), og artsmangfold (S
+= antall, N =antallindivider) i en prøve. NQI1 er interkalibrert mellom alle land som tilhører NEAGIG.
+NQI1 er gitt ved formelen:
+NQ/1 =
+I prøver som har veldig lave individtall (færre enn seks), kan ikke NQI1 brukes. Det er i slike tilfeller mulig å bruke N+2 i
+stedet for N i formelen for å unngå uriktige indeksverdier (Rygg et al. 2011).
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 44
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Vedlegg 5 Beregning av økologisk tilstand i overgangssonen (nEQR)
+nEQR =
+(Indeksverdi - Klassens nedre indeksverdi)
+(Klassens øvre indeksverdi - Klassens nedre indeksverdi) * 0,2 + Klassens nEQR basisverdi
+Stasjonene inne i overgangssonen (C3, C4, osv.) skal klassifiseres ved bruk av indeksene for bløtbunnsfauna i henhold til
+den til enhver tid gjeldende klassifiseringsveileder etter vannforskriften.
+Prosedyrene for å beregne økologisk tilstand er beskrevet i klassifiseringsveilederen etter vannforskriften (Veileder
+02:2018).
+Det følger av klassifiseringsveileder 02:2018 at "gjennomsnittet av grabbenes indeksverdier (grabbgjennomsnitt) skal
+ligge til grunn for tilstandsvurderingen av en stasjon" (Direktoratsgruppen Vanndirektivet, 2018).
+Miljøtilstanden inne i overgangssonen, altså samlet tilstand for C3-C,-stasjonene skal beregnes på følgende måte:
+•
+Alle gjeldende indekser (Shannon Wiener, Hurlberts etc) beregnes enkeltvis for hver grabbprøve
+• Deretter beregnes gjennomsnittet av grabbenes indeksverdier for hver av indeksene
+• Gjennomsnittet av hver indeks normaliseres til nEQRverdi for hver av stasjonene i overgangssonen.
+• Gjennomsnittet av nEQRverdien for hver av stasionene i overgangssonen sammenstilles ("pooles").
+Eksempel på utregning av totaltilstand (nEQR@ai) for bunnfauna i overgangssonen:
+Antall prøvetakingsstasjoner: 5
+Cl, C2 og 3 stasjoner i overgangssonen (C3, C4og CS)
+For hver stasjon skal det tas tograbbskudd (Gl og G2)
+Snitt nEQR (C3) =
+nEQR (C3Gl) + nEQR (C3G2)
+2
+Snitt nEQR (C4) =
+nEQR (C4Gl) + nEQR (C4G2)
+2
+Snitt nEQR (CS) =
+nEQR (C5G1)+ nEQR (CSG2)
+2
+Snitt nEQR (total) for overgangssonen =
+Snitt nEQR (C3) + Snitt nEQR (C4) + Snitt nEQR (C5)
+3
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 45
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Vedlegg 6 Referansetilstand og klassegrenser
+Vannforekomster i Norge er delt inn i seks regioner (økoregioner) basert på klimatiske forhold, havstrømmer og biogeo-
+grafiske utbredelsesmønstre for forskjellige biologiske kvalitetselementer (Figur V6-1; Veileder 02:2018). I tillegg er vann-
+forekomstene definert som ulike vanntyper, basert på saltholdighet, bølgeeksponering, oppholdstid for bunnvannet,
+strømforhold, breddegrad og tidevann. Kombinasjonen av økoregion og vanntype definerer ulike klassegrenser og gren-
+severdier for bløtbunnsfauna (Tabell V6-1) Lokaliteten Floteneset ligger i økoregion Nordsjøen Nord med vanntype «M4,
+Ferskvannspåvirket beskyttet fjord».
+Den endelige tilstandsklassen for en stasjon (nEQR) bestemmes gjennom klassifisering av stasjonens nEQR-verdi (Tabell
+V6-2). Klassegrenser for kobber, sink og nTOC finnes i Tabell V6-3, og klassegrenser for oksygen i dypvann finnes i Tabell
+V6-4. Vurderingskrav for bestemmelse av miljøtilstand ved stasjon Cl er beskrevet i Tabell V6-5.
+Regioner
+B
+Barentshavet (B)
+Norskehavet Nord (G)
+Norskehavet Sør (H)
+G
+I
+Nordsjøen Nord (M)
+Nordsjøen Sør (N)
+Skagerak (S)
+H
+M
+N
+..
+Vanntyper (kyst):
+1. Åpen eksponert kyst
+2. Moderat eksponert kyst
+3. Beskyttet kyst/fjord
+4. Ferskvannspåvirket beskyttet fjord
+5. Sterkt ferskvannspåvirkert beskyttet fjord
+6. Naturlig oksygenfattig fjord
+7. Strømrike sund
+8. Særegne vannforekomster
+s
+Figur V6-1. Områdeinndelingen av økoregioner og definisjoner av ulike vanntyper for kystvann.
+Tabell V6-1. Klassegrenserfor bløtbunnsfauna i økoregion Nordsjøen Nord og vanntype M4, Ferskvannspåvirket beskyttetfjord. Øvre grenseverdi i klasse
+«Svært god" representerer referanseverdienfor indeksene i gruppen. Grenseverdiene gjelder for grabbgjennomsnittet (gjennomsnitt fra grabbverdier).
+Hentet fra Veileder 02:2018 og Borgersen, Hektoen, Me/som & Todt (2019).
+Nordsjøen Nord 3-5 (M3-5)
+Indeks
+Svært god (I)
+Moderat (Ill)
+Dårlig (IV)
+Svært dårlig (V)
+NQI1
+0,9
+0,72
+0,72 - 0,63
+0,63- 0,49
+0,49 - 0,31
+0,31 - 0
+H'
+5,9 - 3,9
+3,9 - 3 , 1
+3,1 -2
+2 - 0,9
+0,9
+0
+ES100
+52 - 26
+2 6 - 1 8
+1 8 - 1 0
+1 0 - 5
+5 - 0
+ISl2018
+9,7 - 6,3
+6,3 - 5,6
+5,6 - 4,7
+4,7 - 3,3
+3,3 - 0
+NSl2018
+3 3 - 28
+2 8 - 22
+22 - 16
+16 - 11
+11 - 0
+Tabell V6-2. nEQR basisverdifor hver av ti/standsklassene (Veileder 02:2018).
+Tilstandsklasse
+Indeks
+Svært god (I)
+Moderat (Ill)
+Dårlig (IV)
+Svært dårlig (V)
+nEQR
+0,8 - 1
+0,6 - 0,8
+0,4 - 0,6
+0,2 - 0,4
+0- 0,2
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 46
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva
+safe
+•
+Tabell V6-3. Klassegrenser for de ulike undersøkte parameterne som inngår i C-undersøkelsen. Klassegrensene er iht. klassifiseringsveileder 02:2018.
+TOCer totalt organisk karbon korrigert for innhold av finstoff i sedimentprøven.
+Tilstandsklasse
+Type
+Svært god (I)
+Moderat (Ill)
+Dårlig (IV)
+Svært dårlig (V)
+Organisk innhold i marine
+0 - 20
+20 - 27
+27 - 34
+34 - 41
+41 - 200
+sediment (nTOC)
+Kobber (Cu)
+< 2 0
+2 0 - 8 4
+84 -147
+>147
+Sink (Zn)
+0 - 90
+90 - 139
+139 - 750
+750- 6690
+>6690
+Tabell V6-4. Klassegrenser for oksygen i dypvann.
+Tilstandsklasse
+Type
+Svært god (I)
+Moderat (Ill)
+Oksygen (mg 02/L)*
+Oksygenmetning(%)**
+> 6,39
+>65
+6,39
+65
+4,97
+50
+Dårlig (IV)
+4,97 - 3,55
+50 - 35
+Svært dårlig (V)
+3,55 - 2,13
+35 - 20
+<2,13
+<20
+*ml 0 , / L er omregnet til mg 0 , / Lmed omregningsfaktor 1,42
+**Oksygenmetning er beregnet for salinitet 33 og temperatur 6°C
+Tabell V6-5. Vurdering avfaunaprøver (makrofauna > l m m )for prøvestasjon Cl (NS 9410:2016).
+Miljøtilstand
+Vurderingskrav
+Minst 20 arter av makrofauna (utenom nematoder) i et prøveareal på 0,2 m2
+-Megetgod
+Ingen av artene skal utgjøre mer enn 65% av det totale indivdantallet
+5 til 19 arter av makrofauna (utenom nematoder) på et prøveareal på 0,2 m2
+Mer enn 20 individer (utenom nematoder) på et prøveareal på 0,2 m2
+Ingen av artene skal utgjøre mer enn 90% av det totale individantallet
+3
+Dårlig
+1 til 4 arter av makrofauna (utenom nematoder) på et prøveareal på 0,2 m2
+- Meget dårlig
+Ingen makrofauna (utenom nematoder) på et prøveareal på 0,2 m2
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 47
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva•
+safe
+Vedlegg 7 Analysebevis taksonomi m/fullstendige artslister
+Report on:
+MARINE SOFT BOTTOM FAUNA - C-survey
+Floteneset
+October 2023
+Fishlab report no. 1022-02-vers.1
+Prepared for:
+AkvasafeAS
+Espehaugen 41
+5258 Blomsterdalen
+Norge
+OSJan. 24
+<$DANAK
+TEST Reg.No. 578
+Member of EA MLA
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 48
+74
+Tittel: C-underskelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+FL1022 - Floteneset 2023
+Contents
+1
+General background information ..
+2
+Accreditation by DANAK..
+3
+Working procedures and quality assurance
+.
+4
+Former work and staff for this assignment
+.
+5.
+Results
+.
+5.1.
+Species list and abundance ..
+3
+3
+4
+6
+7
+7
+This report may not be reproduced except in its entirety without approval f r o m the laboratory.
+Fishlab report no. 1022-02-vers.1
+Page 2 of 8
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 49
+74
+Tittel: C-underskelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+FL1022 - Floteneset 2023
+1. General background information
+This report concerns samples collected at Floteneset, Station: C1 FLO-1, C2 FLO-2 and C3 FLO-3,
+Akvasafe ASproject no. 3838.
+Table 1. General background information
+Customer
+Method:
+Akvasafe AS
+ISO 16665:2014. Water quality -
+Guidelines for quantitative
+sampling and sample processing of
+marine soft-bottom macrofauna
+Sampling tool :
+Van Veen
+Sampling area :
+1000
+c m 2
+No. of stations :
+3
+Subsamples per station :
+1 or 2
+Samples collected :
+5
+Samples received :
+5
+LMesh size:
+1000
+µm
+Fixation method:
+Ethanol
+Date of sampling:
+18-10-2023
+Report approved by :
+KES
+2. Accreditation by DANAK
+Fishlab's management system is accredited by DANAK under registration number 578.
+Processing of bottom fauna is carried out on the basis of methods accredited by DANAK, the official
+Danish Accreditation system (reg. no. 578). For Fishlab's method list see:
+https://registry.danak.dk/registry/578/TEST578
+Fishlab has accredited a method based on the international standard ISO 16665:2014 (Water quality
+-
+Guidelinesfor quantitative samplingand sample processing of marine soft-bottom macrofauna).
+The accreditation of the management system means that a management system has been built
+according to the requirements and principles of ISO 17025.
+ISO 17025 lays down the general
+requirements
+for
+the
+competence,
+impartiality,
+and
+continuous operation
+of
+laboratories.
+Accreditation is important in many other respects, including quality policy, health and safety policy
+and organisation; document management; participation in ring tests and calibrations; training of new
+employees, equipment control (e.g. self-monitoring/data collection as well as annual external control
+of scales (service agreement with Mettler Toledo) and control/data collection of refrigerator
+temperatures (data logging using calibrated EUPRY loggers)).
+Fishlab report no. 1022-02-vers.1
+Page 3 of 8
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 50
+74
+Tittel: C-underskelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+FL1022 - Floteneset 2023
+Fishlab
+Hasselager Alle 8
+DK-8260 Viby J.
+www.fishlab.dk
+Tlf. +45 27121435
+$ D A N A
+aFjsh!a2
+TEST Reg.No. 578
+Environmental Investigations
+3. Working procedures and quality assurance
+The work was carried out according to:
+1)
+ISO-16665. Water quality - Guidelines for quantitative sampling and sample processing of
+marine
+soft-bottom
+macrofauna.
+https://www.en-standard.eu/csn-en-iso-16665-water-
+quality-guidelines-for-quantitative-sampling-and-sample-processing-of-marine-soft-bottom-
+macrofauna/
+Throughout the process from collection of samples to registration of field data and samples,
+reprocessing and delivery of quality assured data, quality assurance and registration of comments/
+routine markings along the way were carried out through standardized workflows.
+Reception checks were carried out upon arrival of samples at the laboratory, checking the correct
+sample number, marking, whole containers, etc. The record sheet for receiving control was archived
+in case file and send to the customer. No deficiencies were detected.
+Sorting of
+samples and species determination were quality assured by
+carrying out
+double
+examination of all sorting.
+All species determinations were quality assured by another expert. The species determination and
+quality assurance of all sub-samples at each station/site were carried out by the same expert. There
+is an ongoing reference collection of species-specific animals.
+Ringtestsand intercalibration: Fishlab has participated in the last intercalibration of soft bottom fauna
+organized by the Department of Ecoscience, University of Aarhus (DCE). Fishlab's employees have
+been on a basic course in marine invertebrates at University of Aarhus (Attn. Thomas Cedhagen) and
+since 2019 Fishlab has participated in semi- and year-round British ring tests organized for NMBAQC
+(NE Atlantic Marine Biological Analytical Quality Control Scheme) twice a year. The organizers of the
+NMBAQC ringtests attach great importance to including relevant, invasive species in the tests.
+Quality assurance of data entry: After completion of the analysis work, a person other than the
+enterer checked that all electronic data matches field forms, reception checks and laboratory forms.
+Automatic check of species names (misspellings) in the same worksheet were performed. Species
+names were compared with current species names (status: accepted) according to the WoRMS
+database. Ref.: WoRMS Editorial Board (2023). World Register of Marine Species. Available from
+https://www.marinespecies.org at VLIZ. Accessed 2023-12-20. doi:10.14284/170.
+After processing, the animals will, in this case, be stored for 5 years for possible later identification
+and marked with area, station number and year. The animals are reconserved in glass jars with 70%
+ethanol.
+Should possible subsequent control be requested, then Fishlab have an established
+collaboration with external experts, e.g. the invertebrate department at University of Aarhus and
+APEM Ltd, Letchworth, Hertfordshire, UK.
+Fishlab report no. 1022-02-vers.1
+Page 4 of 8
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 51
+74
+Tittel: C-underskelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+FL1022 - Floteneset 2023
+Results are reported as an accredited, locked Excel-sheet with field data, abundance data, biomass
+data and AMBI figures and also in the form of the present accredited pdf report.
+Fishlab report no. 1022-02-vers.1
+Page 5 of 8
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 52
+74
+Tittel: C-underskelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+FL1022 - Floteneset 2023
+4. Former work and stafffor this assignment
+Fishlab's tasks within processing of
+marine bottom
+fauna have partly been for the Danish
+Environmental Protection Agency and partly for private actors.
+Fishlab has extensive experience in both sampling and processing of bottom fauna samples from
+marine and brackish marine areas, including Skagerrak, Norwegian Sea, North Sea, Limfjorden,
+Kattegat, Little Belt, Great Belt, South Funen Archipelago, Bothnian Sea and Baltic Sea.
+Below is the list of experienced and trained resource persons that solved the tasks and their skills:
+-
+Cand. Scient. JD (field sampling of Van-Veen and HAPSsamples, species determination of
+bottom fauna samples, quality assurance of species determination, reporting, AMBI and
+Shannon Wiener diversity index). JD has more than 25 years of experience in sampling and
+species determination of soft bottom fauna in all Danish marine waters including the North
+Sea, Kattegat, Skagerrak and Baltic Sea. Since 1996 professional diver of marine flora and
+fauna.
+-
+Cand. Scient. AN (species determination, data entry, quality assurance of data entry) - 5
+years of experience on speciation of marine soft bottom fauna from all Danish marine
+waters.
+-
+Cand Scient. MEH (experience in data entry, quality assurance of data entry, AMBI and
+Shannon-Wiener diversity index and reporting).
+-
+Bachelor's degree Environmental Technology SP(experience in sorting and biomass
+determination of bottom fauna samples, data entry, quality assurance of data entry).
+-
+Laboratory technician AH (experience in sorting and biomass determination of bottom
+fauna samples, data entry)
+-
+Cand. Scient. KES(project management, administration, reporting)
+Fishlab has advisor liability insurance, compulsory workers' compensation insurance, theft insurance
+and IT crime insurance.
+Fishlab report no. 1022-02-vers.1
+Page 6 of 8
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 53
+74
+Tittel: C-underskelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+FL1022 - Floteneset 2023
+5. Results
+5.1.
+Species list and abundance
+Table 2. Abundance per sample.
+Taxa
+Bivalvia
+Caudofoveata
+Crustacea
+Accepted scientific name (WoRMS)
+Abra nitida
+Adontorhina similis
+Kelliella miliaris
+Kurtiella tumidula
+Mendiculaferruginosa
+INucu/a nitidosa
+Tellimyaferruginosa
+Tellimya tenella
+L'.
+Thyasira sp.
+Yoldiella lucida
+Scutopus sp.
+o
+p
+u
+s ventralineatus
+Caprella linearis
+FLO-1-1 FLO-2-1 FLO-2-2 FLO-3-1 FLO-3-2
+4
+7
+10
+14
+1
+2
+9
+1
+246
+33
+1
+1
+36
+1
+16
+1
+42
+32
+37
+1
+1
+1
+21
+1
+2
+1
+Westwoodilla caecu/a
+Amphiura sp.
+Echinodermata
+1
+j
+1
+1
+Echinocardium cordatum
+Echinocardium flavescens
+L
+4
+2
+10
+1
+4
+Foraminifera
+Gastropoda
+Ophiura sp.
+Foraminifera
+Cylichna cylindracea
+Hermania scabra
+s
+4
+1
+3
+3
+2
+Polychaeta
+Ampharetidae
+Aphe/ochaetafi/iformis
+2
+17
+2
+11
+3
+10
+renico/a marina
+Aricidea sp.
+Capitella capitata
+Capitellidae
+Ceratocephale loveni
+2
+3
+3
+11
+1047
+L
+1
+1
+1]
+6
+1
+t
+T
+2
+2
+Chaetozone setosa
+lCirratulidae
+Diplocirrus glaucus
+Dipo/ydora coeca
+7
+129
+68
+248
+97
+11
+62
+16
+28
+31
+34
+12
+57
+102
+100
+Eulalia viridis
+Eumida sanguinea
+s
+r ---r- 1
+Eunereis elitora/is
+Eunereis longissima
+3
+1
+Exogone sp.
+Galathowenia oculata
+1
+110
+14
+6
+Fishlab report no. 1022-02-vers.1
+Page 7 of 8
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 54
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+FL1022 - Floteneset 2023
+Glycera alba
+5
+2
+1
+7
+Glycera lapidum
+L3
+3
+T
+1
+G/ycera unicomis
+1
+Glyphohesione klatti
+1
+1
+Goniada maculata
+1
+4
+1
+1
+Heteromastusfiliformis
+T
+1
+8
+Hilbigneris graci/is
+1
+Lagis koreni
+21
+8
+2
+2
+Levinsenio graci/is
+3
+2
+1
+3
+Lipobranchius jeffreysii
+Malmgrenia lunulata
+1
+Mediomastusfragilis
+3
+1 1
+2
+Neogyptis rosea
+1
+1
+Nephtys hystricis
+1
+Nephtys incisa
+1
+Nereimyra punctata
+1
+Notomastus /atericeus
+7
+4
+8
+2
+Ophelina sp.
+Oweniafusiformis
+1
+1
+Paradoneissp.
+2
+1]
+Paramphinome jeffreysii
+442
+720
+417
+548
+708
+Pectinariidae
+2
+Pholoe inornata
+1
+Pholoe sp.
+3
+1
+2
+Phylo norvegica
+1
+arkeopsis he/golandicus
+1
+Polycirrus plumosus
+5
+5
+2
+1
+Prionospio cirrifera
+2 1
+2
+Prionospiofallax
+7
+7
+11
+6
+8
+Prionospio sp.
+1
+1
+Prionospio steenstrupi
+2176
+9
+29
+6
+8
+Pseudomystidessp.
+L
+1
+Sabel/idae
+1
+Scalibregma inflatum
+2
+2
+6 T
+2
+Sco/e/epis sp.
+1
+1
+Sco/etomafragi/is
+1
+1
+10
+Scoletoma sp.
+1
+Spiofilicornis
+1
+J
+J_
+Spiophanes krayeri
+1
+5
+2
+1
+I
+r
+Syl/is cornuta
+1
+Terebellidae
+1
+Terebel/ides straemii
+T
+1
+1
+Priapulida
+Priapu/us caudatus
+1
+3
+Sipuncula
+Phascolion (Phascolion) strombus strombus
+Crustacea
+Copepoda
+1
+1
+Nematoda
+Nematoda
+985
+Fishlab report no. 1022-02-vers.1
+Page 8 of 8
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 55
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva•
+safe
+Oppdragsgiver: Aller Aqua AS
+Nemertea
+Nemertea
+FL1022 - Floteneset 2023
+Oligochaeta
+Oligochaeta
+Platyhelminthes Platyhelminthes
+1
+Grand Total
+4995
+1156
+795
+1173T
+1157
+I
+Fishlab report no. 1022-02-vers.1
+Page 9 of 8
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 56
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+Vedlegg 8 Indeksering
+SJEA 1ECO
+Kvantitativbunndyrsanalyse
+Floteneset (1D-21335)
+NS-ISO16665:2014 / Veileder 02:2018
+Rapporttittel:
+Kvantitativ bunndyrsanalyse:
+SIEA 1ECO
+Floteneset (ID-21335)
+Hamneveien 5,9455 Engenes
+Fortatter(e):
+Rapport-ID:
+Rapportdato/sted:
+Antall sider:
+Rikke Gunnufsen
+SE24-KB-2-1
+31.01.2024 / Harstad
+10
+Oppdragsgiver:
+Kontaktperson:
+Lokalitet:
+Lokalitets-ID:
+Akvasafe AS
+Mai-Louise Bouwman
+Floteneset
+21335
+Vanntype:
+SEIndexCalxver.:
+Revisjonsnummer:
+Avvik / merknad:
+M4
+5.0
+1.0
+Ingen
+Godkjent av:
+Prosjektleder:
+Kvalitetskontroll:
+Tone Rasmussen og Helena K.
+Tone Rasmussen
+Helena K. Michelsen
+Michelsen
+Sea Eco ASer akkreditert avNorsk Akkreditering for prøvetaking bunnsediment, grovsortering,
+utregning avindekser ogvurderinger ogfortolkninger under akkrediteringsnummer TEST 311.
+NORSK
+AKKREDITERING
+resY 311
+SE24-KB-2-1
+Side 1 av10
+Dok.lD12456, rev. 1.0
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 57
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+SIEA 1ECO
+Kvalitetsoversikt
+Indeksene følger metodikken ogberegningeneiht. formler beskrevet i V9.4i Veileder 02:2018. Verdiene
+for ISI ogNSI 2018 (Norwegian Sensitivitylndex) hentes fraBorgersen m.fl., 2020, ogAMBI (Azti Marine
+Biotic Index; Borja m.fl., 2000) hentes fraprogramvaren som kan lastes ned via httos://ambi.azti.es/.
+SEA ECOASer akkreditert (TEST 311) for vurderinger og fortolkninger og har utviklet en programvare
+som automatisk regner ut indeksering og grafisk presentasjon av disse i Mathlab iht. formler fra
+veilederen. Programvaren er verifisert.
+Iht. beskrivelse i NS-EN-ISO 16665:2014 er arter tilhørende gruppene: Foraminifera, Nematoda,
+Cirripedia, PoriferaogCnidaria, samt planktoniskearter ekskludert før beregningavindekser. Det samme
+gjelder typiske arter som faller ned fraanlegget under rensing (rester fraanleggsrensing) som blåskjell,
+spøkelseskreps og sjøpunger som ikke er naturlig forekommende i sedimenter i den dybden som er
+under oppdrettsanlegg.
+Kvantitative bunndyrsanalyser
+Tabell 1 Antall arter og individer pr. 0,2 m2(Stasjonens totaleantall individer ogarter per 0,2 m2). Indeksverdier fremvises som
+snitt avto replikater for FL02 og FL03.
+Statsjon
+FL01
+FLO2
+FL03
+Arter
+23
+45
+43
+Individer
+4004
+972,5
+1161
+NQl1
+0,45
+0,62
+H'
+1,78
+2,70
+2,56
+ESioo
+5,98
+17,51
+14,79
+ISl2018
+5,17
+5,15
+4,99
+NSI
+nEQR
+0,331
+0,576
+0,545
+0T*
+IV
+Ill
+Ill
+I- Sværtgod
+Il- Moderat
+IV- Dårlig
+* Økologisk tilstand
+SE24-KB-2-1
+Side 2 av10
+Dok.lD 12456, rev. 1.6
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, revE
+Side 58
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+SIEA 1ECO
+STASJON FL01
+Tabell 2 Resultat fra bunnfauna ved stasjon FL01 (grabb 1 og 2), arts- og individtall for hver enkelt grabb, samt
+grabbgjennomsnitt (gjennomsnittet av grabbenes indeksverdier for hver av de fem indeksene) og nEQR verdi for hver av
+indeksene.
+Indekser
+FL01-1
+FLO1-2
+Gj. snitt
+nEQRindekser
+Arter
+23
+Individer
+4004
+NQl1
+0,45
+0,356
+H'
+1,78
+0,361
+ES100
+5,98
+0,239
+ISl2018
+5,17
+0,504
+NSI
+Gjennomsnitt nEQR/Tilstandsklasse
+0,331
+I - Sværtgod
+Ill- Moderat
+IV
+Dårlig
+Tabell 3 Deti hyppigst forekommende artene ved stasjon FLO1 oppgitt i antall ogprosent, samt tilhørende økologisk gruppe
+(NSI) for de respektive artene.
+FL01
+Ant
+Prionospio steenstrupi
+2176
+54,35
+IV
+Capitella capitata
+1047
+26,15
+V
+Paramphinome ieffreysii
+442
+11,04
+Ill
+Thyasira sp.
+246
+6,14
+Ill
+Dipolydoracoeca
+28
+0,70
+I
+Lagis koreni
+21
+0,52
+Ill
+Chaetozone setosa
+7
+0,17
+IV
+Prionospio fallax
+7
+0,17
+Eulalia viridis
+5
+0,12
+I
+Glycera alba
+5
+0,12
+Ill
+Totalt antall individer
+4004
+Forurensningssensitiv
+Forurensningsnøytral
+ForurensningstoleranI
+Forurensningstolerant og
+Forurensningsindikerende
+(ØG1)
+(ØG2)
+(ØG3)
+opportunistisk (ØG 4)
+(ØG5)
+8,46%
+11,04%
+Prionospio steenstrupi
+Capitef/acapitata
+Paramphinome jeffreysii
+Øvrige
+26,15%
+54,35 %
+Figur 1 Fordeling avantall individer for detrehyppigste artene ved stasjon FLO1.
+SE24-KB-2-1
+Side 3 av10
+Dok.lD 12456, rev. 1.6
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 59
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+SIEA 1ECO
+STASJON FL02
+Tabell 4 Resultat fra bunnfauna ved stasjon FL02 (grabb 1 og 2), arts- og individtall for hver enkelt grabb, samt
+grabbgjennomsnitt (gjennomsnittet av grabbenes indeksverdier for hver av de fem indeksene) og nEQR verdi for hver av
+indeksene.
+Indekser
+FL02-1
+FL02-2
+Gj. snitt
+nEQRindekser
+Arter
+48
+42
+45
+Individer
+1153
+792
+972,5
+NQl1
+H'
+2,45
+2,95
+2,70
+0,527
+ES100
+16,55
+17,51
+0,588
+ISl2018
+4,98
+5,33
+5,15
+0,501
+NSI
+Gjennomsnitt nEQR/Tilstandsklasse
+0,576
+I - Sværtgod
+Ill- Moderat
+IV
+Dårlig
+Tabell 5 De ti hyppigst forekommende artene ved stasjon FL02 oppgitt i antall og prosent, samt tilhørende økologisk gruppe
+(NSI) for de respektive artene.
+FL02
+Ant
+Paramphinome jeffreysii
+1137
+58,46
+Chaetozone setosa
+197
+10,13
+IV
+Dipolydoracoeca
+119
+6,12
+I
+Nemertea
+59
+3,03
+Ill
+Thyasira sp.
+49
+2,52
+Ill
+Diplocirrus qlaucus
+47
+2,42
+Mendicula ferruginosa
+45
+2,31
+I
+Prionospio steenstrupi
+38
+1,95
+IV
+Scoletoma fraqilis
+20
+1,03
+Aphelochaeta filiformis
+19
+0,98
+N.A.
+Totalt antall individer
+1945
+Forurensningssensitiv
+Forurensningsnøytral
+ForurensningstoIeranI
+Forurensningstolerant og
+Forurensningsindikerende
+(ØG1)
+(0G2)
+(0G3)
+opportunistisk (ØG 4)
+(ØG5)
+25,29 %
+Paramphinome jeffreysii
+Chaetozone setosa
+Dipolydora coeca
+Øvrige
+6,12 %
+58,46 %
+10,13%
+Figur 2 Fordeling avantall individer for detrehyppigste artene ved stasjon FLO2.
+SE24-KB-2-1
+Side 4 av10
+Dok.10 12456, rev. 1.6
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 60
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+SIEA 1ECO
+STASJON FL03
+Tabell 6 Resultat fra bunnfauna ved stasjon FL03 (grabb 1 og 2), arts- og individtall for hver enkelt grabb, samt
+grabbgjennomsnitt (gjennomsnittet av grabbenes indeksverdier for hver av de fem indeksene) og nEQR verdi for hver av
+indeksene.
+Indekser
+FL03-1
+FLO3-2
+Gj. snitt
+nEQRindekser
+Arter
+36
+50
+43
+Individer
+1166
+1156
+1161
+NQl1
+0,61
+0,62
+0,592
+H'
+2,68
+2,44
+2,56
+0,503
+ES100
+14,37
+15,22
+14,79
+0,520
+ISl2018
+4,55
+5,44
+4,99
+0,466
+NSI
+Gjennomsnitt nEQR/Tilstandsklasse
+0,545
+I - Sværtgod
+Ill- Moderat
+IV
+Dårlig
+Tabell 7 De ti hyppigst forekommende artene ved stasjon FL03 oppgitt i antall og prosent, samt tilhørende økologisk gruppe
+(NSI) for de respektive artene.
+FL03
+Ant
+Paramphinome jeffreysii
+1256
+54,09
+Chaetozone setosa
+345
+14,86
+IV
+Dipolydoracoeca
+202
+8,70
+I
+Nemertea
+105
+4,52
+Ill
+Mendicula ferruginosa
+79
+3,40
+I
+Thyasira sp.
+53
+2,28
+Ill
+Diplocirrus glaucus
+46
+1,98
+Aphelochaeta filiformis
+21
+0,90
+N.A.
+Scoletoma fraqilis
+20
+0,86
+Abra nitida
+16
+0,69
+Ill
+Totalt antall individer
+2322
+Forurensningssensitiv
+Forurensningsnøytral
+ForurensningstoIeranI
+Forurensningstolerant og
+Forurensningsindikerende
+(ØG1)
+(0G2)
+(0G3)
+opportunistisk (ØG 4)
+(ØG5)
+22,35 %
+Paramphinome jeffreysii
+Chaetozone setosa
+Dipolydora coeca
+Øvrige
+8,7 %
+14,86%
+54,09%
+Figur 3 Fordeling av antall individer for de tre hyppigste artene ved stasjon FL03.
+SE24-KB-2-1
+Side 5 av 10
+Dok.10 12456, rev. 1.6
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 61
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+§IEA IECO
+FORDELINGAVØKOLOGISKEGRUPPER
+Floteneset
+%100
+%90
+%70
+%40
+%30
+%20
+%10
+%0
+FL01
+FL02
+Fordeling av individer i ulike økologiske grupper per stasjon
+FLOJ
+11
+senetv 2 
+Nyva 3 
+Tolerant[
+ 
+4
+ 
+0ppo7tunsex
+5 Forurensningsindikator
+Figur 4 Fordeling avindivider i ulike økologiske grupper (Borgersen m.11., 2020) med fargekoding pr. stasjon.
+FORDELINGAVANTALL INDIVDERI DEØKOLOGISKEGRUPPERPERSTASJON
+Floteneset
+%100
+%70
+%50
+%40
+%30
+%20
+%10
+FLO1
+FLO2
+FLO3
+2
+5
+Kategorisk fordeling avøkologiske grupper perstasjon
+Figur 5 Prosentvis fordeling avantall individer i deulikeøkologiske gruppene(Rygg ogNorling, 2013) pr. stasjon. Hver stasjon
+har ulik farge, men farge erikke knyttet til tilstandsklassifisering.
+SE24-KB-2-1
+Side 6 av10
+Dok.lD 12456, rev. 1.6
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 62
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+SIEA 1ECO
+CLUSTERANALYSE
+Floteneset
+70
+60
+50
+30
+20
+FLO1
+Fl03
+FLO22
+FL032
+FLO2
+Per grabbhugg
+Figur 6 Clusteranalyse for likhet pr. grabbhugg.
+Floteneset
+40
+20
+10
+FLOI
+FLOO
+Stasjoner
+FL02
+Figur 7 Clusteranalyse for likhet pr. stasjon.
+SE24-KB-2-1
+Side 7 av10
+Dok.lD 12456, rev. 1.6
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 63
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+SIEA 1ECO
+Referanser
+Borgersen, G., Hektoen, M., Melsom, F., & Todt, C.(2020). Uttesting av sensitivitetsindeksene /S/2018
+ogNSI2018, og enrevidert arts/iste med sensitivitetsverdier for bløtbunnsfauna. Løpenr.: 7497-2020
+Borja, A., Franco, J., & Perez, V.(2000). A marine biotic index to establish the eco/ogica/ qua/ity of soft-
+bottom benthos within European estuarine and coastal environments. Marine pollution bulletin, 40(12),
+1100-1114.
+Internprosedyrer SEAECOAS
+NS-EN-ISO
+16665:2014
+Vannundersøkelse
+-
+Retningslinjer
+for
+kvantitativ
+prøvetaking
+og
+prøvebehandling avmarin bløtbunnsfauna. Standard Norge.
+Veileder 02:2018 Klassifisering av miljøtilstand i vann. Økologisk og kjemisk klassifiseringssystem for
+kystvann, grunnvann, innsjøer og elver. Direktoratsgruppen for gjennomføring avvanndirektivitet 2018.
+SE24-KB-2-1
+Side 8 av10
+Dok.lD 12456, rev. 1.6
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 64
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+SIEA 1ECO
+Vedlegg - Artsliste
+Station
+FLO1_1
+FL02 1
+FL02 2
+FL03 1
+FL03 2
+Abra nitida
+4
+7
+1
+14
+2
+Adontorhina similis
+1
+1
+5
+5
+7
+Ampharetidae
+2
+3
+Amphiura
+1
+1
+Aphelochaeta filiformis
+17
+2
+11
+1
+Arenicola marina
+1
+Aricidea
+2
+3
+3
+11
+Capitella capitata
+1047
+1
+1
+6
+Capitellidae
+1
+Caprella linearis
+1
+Ceratocephale loveni
+2
+2
+Chaetozone setosa
+7
+129
+68
+248
+97
+Cirratulidae
+11
+Cylichna cylindracea
+1
+Diplocirrus qlaucus
+16
+31
+34
+12
+Dipolydora coeca
+28
+62
+57
+1 2
+1
+Echinocardium cordatum
+1
+Echinocardium flavescens
+4
+2
+1
+4
+Eulalia viridis
+5
+Eumida sanguinea
+1
+Eunereis elitoralis
+3
+1
+Eunereis longissima
+3
+1
+Exogone
+1
+Galathowenia oculata
+1
+6
+14
+Glycera alba
+5
+2
+1
+Glycera lapidum
+3
+3
+3
+1
+Glycera unicornis
+1
+Glyphohesione klatti
+1
+1
+Goniada maculata
+1
+4
+1
+1
+Hermania scabra
+3
+Heteromastus filiformis
+7
+8
+2
+1
+Hilbigneris qracilis
+1
+Kelliella miliaris
+1
+Kurtiella tumidula
+1
+Lagis koreni
+21
+8
+2
+2
+Levinsenia gracilis
+3
+2
+1
+3
+Lipobranchius jeffreysii
+2
+8
+5
+Malmgrenia lunulata
+1
+Mediomastus fragilis
+3
+1
+1
+2
+Mendicula ferruginosa
+9
+36
+42
+37
+Nemertea
+31
+28
+44
+61
+Neogyptis rosea
+1
+1
+Nephtys hystricis
+1
+SE24-KB-2-1
+Side9 av10
+Dok.lD 12456, rev. 1.6
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 65
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+SIEA 1ECO
+Nephtys incisa
+1
+Nereimyra punctata
+1
+Notomastus latericeus
+7
+4
+8
+2
+Nucula nitidosa
+1
+Ophelina
+2
+Ophiura
+4
+Owenia fusiformis
+1
+1
+Paradoneis
+2
+1
+4
+Paramphinome jeffreysii
+442
+72
+417
+548
+78
+Pectinariidae
+2
+Phascolion (Phascolion) strombus strombus
+1
+1
+Pholoe inornata
+1
+Pholoe
+3
+1
+2
+Phylo norveqica
+1
+Podarkeopsis helgolandicus
+1
+Polycirrus plumosus
+5
+5
+2
+1
+Priapulus caudatus
+1
+3
+Prionospio cirrifera
+2
+1
+2
+Prionospio fallax
+7
+7
+11
+6
+8
+Prionospio
+1
+1
+Prionospio steenstrupi
+2176
+9
+29
+6
+8
+Pseudomystides
+1
+Sabellidae
+1
+Scalibregma inflatum
+2
+2
+6
+1
+2
+Scolelepis
+1
+1
+Scoletoma fragilis
+1
+1
+1
+12
+8
+Scoletoma
+1
+Scutopus
+1
+1
+2
+Scutopus ventrolineatus
+1
+Spio filicornis
+1
+Spiophanes kroyeri
+1
+5
+2
+1
+Syllis cornuta
+1
+Tellimya ferruginosa
+1
+1
+1
+Tellimya tenella
+1
+Terebellidae
+1
+Terebellides stroemii
+1
+1
+Thyasira
+246
+33
+16
+32
+21
+Westwoodilla caecula
+1
+Yoldiella lucida
+1
+SE24-KB-2-1
+Side10 av10
+Dok.lD 12456, rev. 1.6
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 66
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Vedlegg 9 CTD Rådata
+Rådata fra hydrografiprofilen (saltholdighet, temperatur og oksygeninnhold) på den dypeste stasjonen (FLO-2) presentert
+fra overflaten til like over havbunnen (Tabell V9-1).
+Tabell V9-1. CTDO profil målt ved stasjon FLO-2fra C-undersøkelsen ved 21335 Floteneset.
+Dyp (m)
+Salinitet (%,)
+Temperatur (°C)
+0, (%)
+0, (mg/L)
+Klokkeslett
+0,97
+20,37
+10,46
+111,95
+11,16
+09:04:30
+0,96
+20,41
+10,47
+111,91
+11,16
+09:04:32
+0,96
+20,39
+10,48
+112,16
+11,18
+09:04:34
+0,97
+20,40
+10,47
+112,84
+11,25
+09:04:36
+0,96
+20,39
+10,47
+112,97
+11,26
+09:04:38
+1,01
+20,39
+10,47
+113,04
+11,27
+09:04:40
+1,24
+20,42
+10,50
+112,88
+11,25
+09:04:42
+1,48
+23,58
+10,83
+112,26
+10,88
+09:04:44
+1,64
+24,16
+11,28
+111,59
+10,67
+09:04:46
+1,66
+24,12
+11,40
+111,76
+10,66
+09:04:48
+1,66
+24,12
+11,41
+111,34
+10,62
+09:04:50
+1,66
+24,10
+11,41
+111,93
+10,68
+09:04:52
+1,65
+24,24
+11,41
+110,90
+10,57
+09:04:54
+1,65
+24,22
+11,42
+111,07
+10,58
+09:04:56
+1,66
+24,23
+11,42
+111,40
+10,61
+09:04:58
+1,69
+24,23
+11,42
+112,16
+10,69
+09:05:00
+1,75
+24,22
+11,43
+111,78
+10,65
+09:05:02
+1,97
+24,25
+11,43
+110,67
+10,54
+09:05:04
+2,42
+24,48
+11,48
+110,68
+10,52
+09:05:06
+2,90
+24,98
+11,60
+109,37
+10,33
+09:05:08
+3,36
+25,21
+11,73
+109,79
+10,33
+09:05:10
+3,85
+25,22
+11,80
+109,86
+10,32
+09:05:12
+4,31
+25,28
+11,83
+109,53
+10,28
+09:05:14
+4,81
+25,29
+11,81
+109,91
+10,32
+09:05:16
+5,29
+25,44
+11,85
+109,63
+10,27
+09:05:18
+5,79
+25,54
+11,90
+110,54
+10,34
+09:05:20
+6,29
+25,75
+12,02
+110,29
+10,28
+09:05:22
+6,79
+25,86
+12,19
+108,87
+10,10
+09:05:24
+7,29
+25,96
+12,30
+108,70
+10,05
+09:05:26
+7,82
+25,99
+12,33
+108,49
+10,03
+09:05:28
+8,35
+26,23
+12,42
+109,37
+10,07
+09:05:30
+8,91
+26,36
+12,47
+108,44
+9,97
+09:05:32
+9,44
+26,67
+12,71
+106,88
+9,76
+09:05:34
+10,01
+26,94
+13,00
+106,12
+9,61
+09:05:36
+10,58
+27,24
+13,29
+103,76
+9,33
+09:05:38
+11,15
+27,38
+13,50
+102,27
+9,14
+09:05:40
+11,74
+27,50
+13,56
+82,68
+7,38
+09:05:42
+12,41
+27,87
+13,64
+82,18
+7,30
+09:05:44
+13,02
+28,27
+13,80
+81,55
+7,21
+09:05:46
+13,61
+28,76
+13,98
+81,34
+7,14
+09:05:48
+14,24
+29,47
+14,16
+81,18
+7,07
+09:05:50
+14,85
+29,66
+14,26
+80,74
+7,01
+09:05:52
+15,46
+29,94
+14,36
+80,95
+7,00
+09:05:54
+16,09
+30,37
+14,43
+80,61
+6,94
+09:05:56
+16,71
+30,69
+14,56
+80,60
+6,91
+09:05:58
+17,32
+30,88
+14,65
+80,28
+6,86
+09:06:00
+17,98
+31,11
+14,74
+80,13
+6,82
+09:06:02
+18,59
+31,19
+14,80
+99,47
+8,46
+09:06:04
+19,21
+31,27
+14,84
+101,15
+8,59
+09:06:06
+19,85
+31,29
+14,84
+102,73
+8,72
+09:06:08
+20,48
+31,36
+14,83
+101,09
+8,58
+09:06:10
+21,12
+31,39
+14,83
+99,95
+8,48
+09:06:12
+21,75
+31,44
+14,81
+99,85
+8,48
+09:06:14
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 67
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+22,38
+31,54
+14,77
+98,17
+8,34
+09:06:16
+23,00
+31,58
+14,74
+97,62
+8,29
+09:06:18
+23,70
+31,61
+14,72
+97,70
+8,30
+09:06:20
+24,31
+31,64
+14,72
+96,22
+8,17
+09:06:22
+25,29
+31,69
+14,69
+100,50
+8,54
+09:06:24
+26,13
+31,72
+14,66
+96,05
+8,16
+09:06:26
+27,04
+31,77
+14,63
+95,37
+8,11
+09:06:28
+27,95
+31,81
+14,61
+101,80
+8,66
+09:06:30
+28,84
+31,82
+14,59
+98,52
+8,38
+09:06:32
+29,68
+31,84
+14,56
+99,11
+8,43
+09:06:34
+30,52
+31,89
+14,50
+98,58
+8,40
+09:06:36
+31,03
+31,89
+14,43
+97,80
+8,34
+09:06:38
+31,26
+31,93
+14,42
+97,19
+8,29
+09:06:40
+31,75
+31,93
+14,39
+95,50
+8,15
+09:06:42
+32,36
+31,97
+14,32
+97,73
+8,35
+09:06:44
+33,01
+32,00
+14,15
+97,29
+8,34
+09:06:46
+33,64
+32,11
+14,00
+98,58
+8,47
+09:06:48
+34,26
+32,15
+13,94
+96,85
+8,33
+09:06:50
+34,88
+32,16
+13,89
+96,68
+8,32
+09:06:52
+35,51
+32,19
+13,84
+98,15
+8,46
+09:06:54
+36,14
+32,21
+13,77
+98,61
+8,51
+09:06:56
+36,76
+32,23
+13,71
+99,72
+8,61
+09:06:58
+37,36
+32,23
+13,65
+102,80
+8,89
+09:07:00
+37,99
+32,26
+13,59
+101,63
+8,80
+09:07:02
+38,60
+32,29
+13,55
+101,16
+8,76
+09:07:04
+39,25
+32,31
+13,50
+102,25
+8,87
+09:07:06
+39,86
+32,36
+13,37
+102,78
+8,93
+09:07:08
+40,51
+32,41
+13,19
+104,46
+9,11
+09:07:10
+41,16
+32,41
+13,10
+103,42
+9,04
+09:07:12
+41,84
+32,49
+12,95
+102,33
+8,96
+09:07:14
+42,48
+32,49
+12,78
+102,46
+9,01
+09:07:16
+43,15
+32,56
+12,66
+100,75
+8,87
+09:07:18
+43,81
+32,59
+12,55
+102,06
+9,01
+09:07:20
+44,47
+32,70
+12,33
+101,73
+9,01
+09:07:22
+45,10
+32,78
+12,15
+102,17
+9,08
+09:07:24
+45,71
+32,82
+12,00
+103,05
+9,19
+09:07:26
+46,31
+32,84
+11,84
+105,01
+9,39
+09:07:28
+46,92
+32,91
+11,68
+102,36
+9,18
+09:07:30
+47,52
+32,98
+11,56
+103,04
+9,26
+09:07:32
+48,12
+33,04
+11,45
+102,90
+9,27
+09:07:34
+48,75
+33,09
+11,31
+102,37
+9,24
+09:07:36
+49,33
+33,12
+11,22
+100,56
+9,10
+09:07:38
+49,90
+33,16
+11,13
+101,03
+9,15
+09:07:40
+50,48
+33,20
+11,06
+101,56
+9,21
+09:07:42
+51,05
+33,21
+10,96
+99,25
+9,02
+09:07:44
+51,61
+33,25
+10,86
+99,99
+9,11
+09:07:46
+52,17
+33,29
+10,78
+100,81
+9,20
+09:07:48
+52,72
+33,31
+10,70
+101,19
+9,25
+09:07:50
+53,27
+33,33
+10,59
+100,62
+9,21
+09:07:52
+53,85
+33,38
+10,47
+101,17
+9,29
+09:07:54
+54,43
+33,42
+10,35
+100,58
+9,25
+09:07:56
+55,02
+33,45
+10,30
+99,41
+9,15
+09:07:58
+55,60
+33,47
+10,24
+99,54
+9,18
+09:08:00
+56,19
+33,49
+10,17
+99,24
+9,16
+09:08:02
+56,80
+33,50
+10,10
+99,13
+9,17
+09:08:04
+57,40
+33,54
+10,02
+98,45
+9,11
+09:08:06
+58,00
+33,58
+9,94
+97,26
+9,02
+09:08:08
+58,62
+33,64
+9,86
+97,34
+9,04
+09:08:10
+59,22
+33,66
+9,74
+95,30
+8,87
+09:08:12
+59,83
+33,75
+9,55
+94,16
+8,80
+09:08:14
+60,44
+33,82
+9,42
+93,80
+8,78
+09:08:16
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 68
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+61,05
+33,93
+9,26
+91,92
+8,63
+09:08:18
+61,67
+34,00
+9,12
+91,10
+8,58
+09:08:20
+62,29
+34,06
+9,03
+89,69
+8,46
+09:08:22
+62,88
+34,12
+8,95
+87,20
+8,23
+09:08:24
+63,50
+34,16
+8,88
+86,47
+8,18
+09:08:26
+64,12
+34,21
+8,82
+86,26
+8,17
+09:08:28
+64,74
+34,23
+8,79
+85,97
+8,14
+09:08:30
+65,38
+34,28
+8,75
+85,33
+8,09
+09:08:32
+66,04
+34,32
+8,72
+84,14
+7,98
+09:08:34
+66,70
+34,33
+8,70
+84,50
+8,01
+09:08:36
+67,37
+34,35
+8,69
+83,71
+7,94
+09:08:38
+68,07
+34,36
+8,68
+84,42
+8,01
+09:08:40
+68,79
+34,38
+8,67
+83,42
+7,91
+09:08:42
+69,47
+34,40
+8,66
+78,95
+7,49
+09:08:44
+70,20
+34,41
+8,65
+80,13
+7,60
+09:08:46
+70,91
+34,43
+8,64
+78,80
+7,48
+09:08:48
+71,61
+34,43
+8,64
+81,33
+7,72
+09:08:50
+72,35
+34,44
+8,63
+81,69
+7,75
+09:08:52
+73,05
+34,45
+8,63
+82,75
+7,85
+09:08:54
+73,71
+34,45
+8,63
+83,55
+7,93
+09:08:56
+74,37
+34,46
+8,63
+83,19
+7,89
+09:08:58
+75,05
+34,47
+8,62
+83,37
+7,91
+09:09:00
+75,73
+34,48
+8,62
+82,72
+7,85
+09:09:02
+76,40
+34,48
+8,61
+81,49
+7,73
+09:09:04
+77,09
+34,51
+8,61
+82,71
+7,85
+09:09:06
+77,82
+34,51
+8,61
+82,41
+7,82
+09:09:08
+78,56
+34,53
+8,60
+81,81
+7,76
+09:09:10
+79,27
+34,55
+8,60
+82,73
+7,85
+09:09:12
+80,03
+34,57
+8,60
+82,01
+7,78
+09:09:14
+80,74
+34,59
+8,59
+81,78
+7,76
+09:09:16
+81,46
+34,60
+8,59
+82,11
+7,79
+09:09:18
+82,12
+34,62
+8,58
+82,09
+7,79
+09:09:20
+82,77
+34,63
+8,58
+82,51
+7,83
+09:09:22
+83,42
+34,64
+8,57
+82,32
+7,81
+09:09:24
+84,05
+34,65
+8,57
+82,59
+7,84
+09:09:26
+84,71
+34,68
+8,56
+83,22
+7,90
+09:09:28
+85,35
+34,69
+8,56
+83,14
+7,89
+09:09:30
+86,00
+34,69
+8,56
+83,09
+7,89
+09:09:32
+86,64
+34,70
+8,55
+82,52
+7,83
+09:09:34
+87,30
+34,70
+8,55
+81,89
+7,77
+09:09:36
+87,94
+34,71
+8,55
+80,68
+7,66
+09:09:38
+88,61
+34,71
+8,55
+81,63
+7,75
+09:09:40
+89,25
+34,72
+8,54
+81,98
+7,78
+09:09:42
+89,88
+34,72
+8,54
+80,97
+7,69
+09:09:44
+90,53
+34,72
+8,54
+79,18
+7,52
+09:09:46
+91,17
+34,74
+8,53
+80,67
+7,66
+09:09:48
+91,83
+34,74
+8,53
+80,12
+7,61
+09:09:50
+92,47
+34,74
+8,52
+75,71
+7,19
+09:09:52
+93,14
+34,75
+8,52
+75,63
+7,18
+09:09:54
+93,80
+34,76
+8,52
+77,72
+7,38
+09:09:56
+94,45
+34,76
+8,51
+80,47
+7,64
+09:09:58
+95,10
+34,77
+8,51
+82,38
+7,82
+09:10:00
+95,77
+34,77
+8,50
+79,06
+7,51
+09:10:02
+96,45
+34,78
+8,50
+82,95
+7,88
+09:10:04
+97,09
+34,79
+8,49
+82,69
+7,85
+09:10:06
+97,73
+34,79
+8,49
+83,01
+7,88
+09:10:08
+98,39
+34,80
+8,48
+83,54
+7,94
+09:10:10
+99,04
+34,81
+8,48
+83,59
+7,94
+09:10:12
+99,70
+34,82
+8,47
+84,34
+8,01
+09:10:14
+100,34
+34,82
+8,46
+85,12
+8,09
+09:10:16
+100,99
+34,83
+8,46
+84,84
+8,06
+09:10:18
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 69
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+101,64
+34,83
+8,45
+85,26
+8,10
+09:10:20
+102,29
+34,83
+8,44
+85,84
+8,16
+09:10:22
+102,96
+34,84
+8,43
+85,33
+8,11
+09:10:24
+103,61
+34,84
+8,43
+85,88
+8,17
+09:10:26
+104,28
+34,85
+8,43
+84,79
+8,06
+09:10:28
+104,92
+34,85
+8,43
+84,85
+8,07
+09:10:30
+105,57
+34,86
+8,42
+84,73
+8,06
+09:10:32
+106,23
+34,86
+8,41
+86,04
+8,18
+09:10:34
+106,90
+34,87
+8,40
+86,14
+8,19
+09:10:36
+107,56
+34,86
+8,40
+87,14
+8,29
+09:10:38
+108,23
+34,87
+8,39
+87,41
+8,32
+09:10:40
+108,90
+34,86
+8,40
+86,91
+8,27
+09:10:42
+109,57
+34,87
+8,40
+88,36
+8,41
+09:10:44
+110,23
+34,87
+8,40
+87,46
+8,32
+09:10:46
+110,92
+34,87
+8,40
+87,21
+8,30
+09:10:48
+111,58
+34,88
+8,39
+86,56
+8,24
+09:10:50
+112,25
+34,88
+8,39
+86,60
+8,24
+09:10:52
+112,93
+34,87
+8,39
+86,78
+8,26
+09:10:54
+113,61
+34,87
+8,38
+87,56
+8,33
+09:10:56
+114,26
+34,87
+8,38
+87,28
+8,31
+09:10:58
+114,91
+34,88
+8,38
+86,48
+8,23
+09:11:00
+115,58
+34,88
+8,37
+87,47
+8,33
+09:11:02
+116,26
+34,89
+8,37
+88,42
+8,42
+09:11:04
+116,96
+34,89
+8,37
+88,66
+8,44
+09:11:06
+117,64
+34,89
+8,37
+87,97
+8,37
+09:11:08
+118,31
+34,89
+8,37
+88,62
+8,43
+09:11:10
+119,03
+34,90
+8,37
+87,61
+8,34
+09:11:12
+119,72
+34,90
+8,37
+87,26
+8,31
+09:11:14
+120,41
+34,90
+8,37
+88,31
+8,41
+09:11:16
+121,10
+34,91
+8,36
+87,96
+8,37
+09:11:18
+121,78
+34,90
+8,36
+86,15
+8,20
+09:11:20
+122,48
+34,91
+8,36
+85,63
+8,15
+09:11:22
+123,15
+34,91
+8,35
+85,86
+8,17
+09:11:24
+123,86
+34,90
+8,35
+85,13
+8,11
+09:11:26
+124,56
+34,92
+8,34
+85,89
+8,18
+09:11:28
+125,25
+34,90
+8,35
+87,12
+8,30
+09:11:30
+125,93
+34,92
+8,35
+86,53
+8,24
+09:11:32
+126,63
+34,92
+8,34
+86,96
+8,28
+09:11:34
+127,33
+34,91
+8,34
+87,40
+8,32
+09:11:36
+128,02
+34,91
+8,33
+87,02
+8,29
+09:11:38
+128,70
+34,92
+8,33
+86,25
+8,22
+09:11:40
+129,41
+34,92
+8,33
+86,58
+8,25
+09:11:42
+130,11
+34,92
+8,33
+87,02
+8,29
+09:11:44
+130,81
+34,92
+8,33
+87,34
+8,32
+09:11:46
+131,50
+34,93
+8,32
+86,49
+8,24
+09:11:48
+132,18
+34,93
+8,32
+87,00
+8,29
+09:11:50
+132,90
+34,92
+8,32
+87,13
+8,30
+09:11:52
+133,62
+34,93
+8,31
+86,11
+8,21
+09:11:54
+134,29
+34,93
+8,31
+86,50
+8,24
+09:11:56
+135,00
+34,93
+8,31
+88,60
+8,44
+09:11:58
+135,68
+34,93
+8,30
+87,74
+8,36
+09:12:00
+136,41
+34,93
+8,31
+88,14
+8,40
+09:12:02
+137,12
+34,93
+8,30
+89,05
+8,49
+09:12:04
+137,84
+34,94
+8,30
+89,90
+8,57
+09:12:06
+138,56
+34,93
+8,30
+91,30
+8,70
+09:12:08
+139,27
+34,95
+8,30
+89,59
+8,54
+09:12:10
+139,97
+34,94
+8,30
+88,35
+8,42
+09:12:12
+140,69
+34,94
+8,29
+89,01
+8,48
+09:12:14
+141,43
+34,94
+8,29
+88,32
+8,42
+09:12:16
+142,15
+34,93
+8,29
+88,92
+8,48
+09:12:18
+142,89
+34,94
+8,29
+88,09
+8,40
+09:12:20
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 70
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+143,60
+34,94
+8,29
+87,94
+8,38
+09:12:22
+144,34
+34,94
+8,29
+87,52
+8,34
+09:12:24
+145,05
+34,95
+8,28
+90,11
+8,59
+09:12:26
+145,78
+34,95
+8,28
+89,41
+8,52
+09:12:28
+146,52
+34,95
+8,28
+88,58
+8,45
+09:12:30
+147,23
+34,94
+8,28
+90,26
+8,61
+09:12:32
+147,94
+34,94
+8,28
+89,27
+8,51
+09:12:34
+148,67
+34,94
+8,28
+87,72
+8,36
+09:12:36
+149,39
+34,95
+8,28
+87,84
+8,37
+09:12:38
+150,15
+34,94
+8,27
+88,31
+8,42
+09:12:40
+150,85
+34,95
+8,27
+90,00
+8,58
+09:12:42
+151,58
+34,95
+8,27
+89,94
+8,58
+09:12:44
+152,33
+34,95
+8,27
+89,78
+8,56
+09:12:46
+153,06
+34,95
+8,27
+90,36
+8,62
+09:12:48
+153,76
+34,95
+8,27
+90,49
+8,63
+09:12:50
+154,46
+34,96
+8,27
+91,40
+8,72
+09:12:52
+155,15
+34,96
+8,27
+90,13
+8,59
+09:12:54
+155,84
+34,95
+8,27
+89,92
+8,58
+09:12:56
+156,56
+34,95
+8,26
+91,51
+8,73
+09:12:58
+157,28
+34,95
+8,26
+89,79
+8,56
+09:13:00
+158,00
+34,95
+8,26
+91,27
+8,70
+09:13:02
+158,73
+34,96
+8,26
+91,17
+8,70
+09:13:04
+159,45
+34,96
+8,26
+90,07
+8,59
+09:13:06
+160,18
+34,96
+8,26
+91,07
+8,69
+09:13:08
+160,90
+34,96
+8,25
+91,84
+8,76
+09:13:10
+161,66
+34,96
+8,25
+91,98
+8,77
+09:13:12
+162,41
+34,96
+8,25
+92,05
+8,78
+09:13:14
+163,14
+34,96
+8,25
+91,59
+8,74
+09:13:16
+163,86
+34,95
+8,25
+90,88
+8,67
+09:13:18
+164,61
+34,96
+8,25
+91,68
+8,75
+09:13:20
+165,36
+34,96
+8,25
+91,55
+8,73
+09:13:22
+166,10
+34,96
+8,24
+90,52
+8,64
+09:13:24
+166,84
+34,96
+8,24
+92,58
+8,83
+09:13:26
+167,57
+34,96
+8,24
+92,55
+8,83
+09:13:28
+168,30
+34,96
+8,24
+91,69
+8,75
+09:13:30
+169,02
+34,95
+8,24
+88,90
+8,48
+09:13:32
+169,78
+34,97
+8,24
+89,62
+8,55
+09:13:34
+170,52
+34,97
+8,24
+90,63
+8,65
+09:13:36
+171,26
+34,97
+8,24
+90,24
+8,61
+09:13:38
+171,99
+34,97
+8,24
+90,98
+8,68
+09:13:40
+172,72
+34,97
+8,24
+91,18
+8,70
+09:13:42
+173,48
+34,96
+8,24
+89,93
+8,58
+09:13:44
+174,23
+34,97
+8,24
+90,67
+8,65
+09:13:46
+174,97
+34,97
+8,23
+91,24
+8,71
+09:13:48
+175,72
+34,97
+8,23
+91,91
+8,77
+09:13:50
+176,48
+34,96
+8,23
+90,25
+8,61
+09:13:52
+177,22
+34,97
+8,23
+91,42
+8,73
+09:13:54
+177,98
+34,97
+8,23
+90,72
+8,66
+09:13:56
+178,73
+34,97
+8,22
+90,72
+8,66
+09:13:58
+179,47
+34,97
+8,22
+92,29
+8,81
+09:14:00
+180,23
+34,97
+8,22
+91,04
+8,69
+09:14:02
+180,99
+34,97
+8,22
+91,71
+8,75
+09:14:04
+181,74
+34,97
+8,22
+91,24
+8,71
+09:14:06
+182,48
+34,97
+8,22
+89,93
+8,58
+09:14:08
+183,25
+34,97
+8,22
+90,70
+8,66
+09:14:10
+184,01
+34,97
+8,22
+91,02
+8,69
+09:14:12
+184,76
+34,97
+8,22
+90,79
+8,67
+09:14:14
+185,51
+34,97
+8,22
+91,07
+8,69
+09:14:16
+186,29
+34,98
+8,21
+91,57
+8,74
+09:14:18
+187,04
+34,98
+8,21
+90,90
+8,68
+09:14:20
+187,78
+34,98
+8,21
+91,00
+8,69
+09:14:22
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 71
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Akva• safe
+Oppdragsgiver: Aller Aqua AS
+188,54
+34,98
+8,21
+91,54
+8,74
+09:14:24
+189,28
+34,98
+8,21
+91,80
+8,76
+09:14:26
+190,03
+34,98
+8,21
+90,05
+8,60
+09:14:28
+190,81
+34,98
+8,21
+91,34
+8,72
+09:14:30
+191,56
+34,98
+8,20
+90,48
+8,64
+09:14:32
+192,31
+34,98
+8,20
+90,27
+8,62
+09:14:34
+193,07
+34,97
+8,20
+89,67
+8,56
+09:14:36
+193,82
+34,98
+8,20
+90,13
+8,61
+09:14:38
+194,56
+34,98
+8,19
+88,25
+8,43
+09:14:40
+195,30
+34,98
+8,19
+88,23
+8,43
+09:14:42
+196,06
+34,98
+8,19
+88,81
+8,48
+09:14:44
+196,82
+34,98
+8,19
+88,99
+8,50
+09:14:46
+197,60
+34,98
+8,19
+88,65
+8,47
+09:14:48
+198,41
+34,99
+8,19
+88,40
+8,44
+09:14:50
+199,17
+34,99
+8,19
+88,85
+8,49
+09:14:52
+199,94
+34,99
+8,19
+88,92
+8,49
+09:14:54
+200,70
+34,99
+8,18
+88,26
+8,43
+09:14:56
+201,46
+34,99
+8,18
+89,18
+8,52
+09:14:58
+202,23
+34,99
+8,18
+88,59
+8,46
+09:15:00
+203,00
+34,99
+8,18
+88,70
+8,47
+09:15:02
+203,77
+34,98
+8,18
+89,96
+8,59
+09:15:04
+204,54
+34,98
+8,18
+89,57
+8,56
+09:15:06
+205,33
+34,99
+8,18
+89,25
+8,53
+09:15:08
+206,11
+34,99
+8,18
+89,07
+8,51
+09:15:10
+206,87
+34,99
+8,18
+90,25
+8,62
+09:15:12
+207,61
+34,99
+8,18
+88,98
+8,50
+09:15:14
+208,40
+34,98
+8,17
+89,97
+8,60
+09:15:16
+209,14
+34,99
+8,17
+88,93
+8,50
+09:15:18
+209,91
+34,99
+8,17
+89,73
+8,57
+09:15:20
+210,66
+34,99
+8,17
+90,32
+8,63
+09:15:22
+211,41
+34,99
+8,16
+90,88
+8,68
+09:15:24
+212,19
+34,99
+8,16
+89,71
+8,57
+09:15:26
+212,97
+34,99
+8,16
+88,45
+8,45
+09:15:28
+213,72
+34,99
+8,16
+88,75
+8,48
+09:15:30
+214,49
+34,99
+8,16
+88,14
+8,42
+09:15:32
+215,27
+34,98
+8,16
+88,29
+8,44
+09:15:34
+216,03
+35,00
+8,16
+91,00
+8,70
+09:15:36
+216,78
+34,98
+8,16
+90,18
+8,62
+09:15:38
+217,55
+35,00
+8,15
+90,47
+8,65
+09:15:40
+218,29
+34,98
+8,16
+91,06
+8,70
+09:15:42
+219,05
+34,99
+8,15
+91,21
+8,72
+09:15:44
+219,80
+34,99
+8,15
+90,10
+8,61
+09:15:46
+220,56
+34,99
+8,15
+91,74
+8,77
+09:15:48
+221,34
+34,99
+8,14
+91,97
+8,79
+09:15:50
+222,09
+34,99
+8,14
+90,31
+8,63
+09:15:52
+222,86
+34,99
+8,14
+92,22
+8,82
+09:15:54
+223,64
+35,00
+8,14
+90,87
+8,69
+09:15:56
+224,41
+34,99
+8,14
+90,78
+8,68
+09:15:58
+225,19
+35,00
+8,14
+90,16
+8,62
+09:16:00
+225,98
+34,99
+8,14
+89,82
+8,59
+09:16:02
+226,74
+35,00
+8,14
+91,02
+8,70
+09:16:04
+227,49
+34,99
+8,14
+90,99
+8,70
+09:16:06
+228,25
+34,99
+8,13
+90,52
+8,66
+09:16:08
+229,03
+34,99
+8,13
+90,41
+8,65
+09:16:10
+229,78
+34,99
+8,13
+91,05
+8,71
+09:16:12
+230,54
+35,00
+8,13
+90,66
+8,67
+09:16:14
+231,29
+34,99
+8,13
+91,57
+8,76
+09:16:16
+232,04
+35,00
+8,13
+91,49
+8,75
+09:16:18
+232,81
+34,99
+8,12
+90,66
+8,67
+09:16:20
+233,29
+34,99
+8,12
+90,85
+8,69
+09:16:22
+233,33
+35,00
+8,12
+91,35
+8,74
+09:16:24
+Rapportnr: MR-12207-0004C
+KS-ID: V6.50.19, rev E
+Side 72
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva
+safe
+Vedlegg 10 Bilder av sedimentprøver
+c1-1
+•
+I
+Figur Vl0-1. Eksempel på sedimentets utseende ved FL0-1 (Cl) og stein i prøven.
+I
+Figur Vl0-2. Eksempel på sedimentets utseende ved FL0-2 (C2).
+I
+Figur Vl0-3. Eksempel på sedimentets utseende ved FL0-3 {C3}.
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 73
+74
+Tittel: C-undersøkelse ved 21335 Floteneset
+Oppdragsgiver: Aller Aqua AS
+Akva• safe
+Vedlegg 11 Kart over anleggsplassering i 2014
+D i v m , I n f o j 3 D
+Her]
+Slepestrek
+H d h e t
+Ben
+Snitt
+500meter
+Auto
+Relieff
+Bokser
+[ [ P r i n t
+10:28:20-
+Bugen
+/
+I
+I; f ' I
+I / /
+S7505, 25/1-2024
+Flottedag ] Kortvalg Dybdekoter
+Olex
+Figur Vll-1. Nåværende anleggsplassering (nord på kartet) og prøvestasjoner samt tidligere anleggsplassering (sør på kartet) basert på data fra
+19.07.2014 {Norge i bilder, 2016).
+Rapportnr: MR-12207-0004(
+KS-ID: V6.50.19, rev E
+Side 74
+74

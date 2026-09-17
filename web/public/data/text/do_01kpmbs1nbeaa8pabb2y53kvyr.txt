@@ -1,0 +1,283 @@
+﻿Dokument-ID: 1009-3
+Registrering i AkvaFarmer
+Mowi
+ASA
+Sted og prosess
+Mowi ASA - Stamfisk / Stamfisk Sjø / Daglig drift
+Sist godkjent dato 09.03.2021 (Svein Ådland)
+Dato endret
+25.02.2021 (Geir Elling Nygård)
+Gyldighetsområde
+Dokumentkategori
+Siste revisjonsdato
+13.07.2020
+Neste revisjonsdato 01.07.2021
+Dokumentansvarlig
+Svein Ådland
+11.03.2022 10:15:38
+1/3
+Registreringer i AquaFarmer
+1.
+Formål/Hensikt:
+Sikre at registreringer i AquaFarmer oppfyller myndighetskrav, krav til sporbarhet, kundekrav
+og interne krav.
+2.
+Omfang/Gyldighet: Mowi Breeding Stamfisk Sjø
+3.
+Definisjoner
+4.
+Beskrivelser av prosesser og ansvarsforhold: Registreringer i AquaFarmer:
+Oppgaver/stikkord
+Krav til utførelse
+Ansvar
+Registeringer ved 
+mottak av smolt og 
+rensefisk
+Hendelse
+Parameter
+Enhet
+Frekvens
+Not
+Sjekk for korrekt nottype og dybde
+Merd
+Før utsett
+Utsett smolt
+Dato, antall, snittvekt og 
+fiskegruppekode ihht standard.
+Merd nr.
+Ved mottak
+Utsett 
+rensefisk
+Dato, art, antall, leverandør og 
+transportør.
+Merd nr.
+Ved mottak
+Planner
+Driftsleder
+Registeringer under 
+produksjon
+Hendelse
+Parameter
+Enhet
+Frekvens
+Fôrmottak
+Dato, fôrtype, leveringsnr og kvantum
+Lokalitet
+Ved mottak
+Fôring
+Dato, fôrtype, kvantum og evt. sulting
+Merd
+Daglig
+Dødelighet
+Antall og dødelighetsårsak
+Merd
+Daglig
+Miljø
+Tid/klokke slett
+Lokalitet
+Daglig
+Sjø temp 0C (5m)
+Salinitet (5m)
+O2 %  (5m)
+Klarhet/sikt
+Telling
+Justeringsårsak
+Merd
+Ved telling*
+Nytt antall
+Vekt prøver
+Prøvetype
+Merd
+Ved prøveuttak*
+Vekt
+Destruksjon
+Destruering
+Merd
+Ved destruering*
+Destrueringsårsaker
+Tømming
+Antall
+Rensefisk 
+dødfisk
+Dødsårsaker
+Merd
+Daglig
+Antall
+Rensefisk 
+telling
+Justeringsårsak
+Merd
+Ved telling
+Nytt antall
+Rensefisk 
+ved utfisking
+destruksjon
+Destruering
+Destrueringsårsaker
+Tømming
+Antall
+Merd
+Ved destruksjon/ 
+utfisking
+Sortering/ 
+Flytting
+Antall
+Merd
+Ved hendelse
+Vekt
+Lusetelling
+Dato
+Merd
+Ved telling
+Antall lus pr stadie.
+Behandling
+Dato / Periode
+Merd
+Ved hendelse
+Produkt og kvantum
+Behandlingsmåte
+Lab.test
+Se egne prosedyre. TQM ID. 1011-1
+Merd/
+Gruppe
+Ved uttak test
+Driftsleder
+Dokument-ID: 1009-3
+Registrering i AkvaFarmer
+Mowi
+ASA
+Sted og prosess
+Mowi ASA - Stamfisk / Stamfisk Sjø / Daglig drift
+Sist godkjent dato 09.03.2021 (Svein Ådland)
+Dato endret
+25.02.2021 (Geir Elling Nygård)
+Gyldighetsområde
+Dokumentkategori
+Siste revisjonsdato
+13.07.2020
+Neste revisjonsdato 01.07.2021
+Dokumentansvarlig
+Svein Ådland
+11.03.2022 10:15:38
+2/3
+*= Alle justeringer av snittvekt og antall i AFA gjennom vekstforløpet skal vurderes  av 
+Produksjonsleder Stamfisk i samråd med driftsleder og Planner.
+Endringer i AFA skal godkjennes av Breeding Dir.
+ 
+Breeding. Dir.
+Registeringer ved 
+levering til slakt
+Hendelse
+Parameter
+Enhet
+Frekvens
+Slakting
+Antall og kvantum fra slakterapport
+Merd
+Ved levering
+Velg «Tøm merd» ved siste slakt
+Rensefisktall fra slakteri avstemmes 
+med AF tall. Avvik utover 10% i 
+utgående beholdning avviksføres.
+Planner
+Driftsleder
+Tagger/ Sporbarhet
+Sjekke at alle «Tagger» er korrekte og supplere om det er mangler.
+FRIST innen 1. virkedag kl. 12.00 etter månedsslutt
+Planner
+Låsing av Aqua
+Farmer
+AquaFarmer blir låst for registreringer 1. virkedag kl. 12.00 etter månedsslutt.
+Planner
+Feil med Aqua
+Farmer
+Feil i AquaFarmer meldes til Mercatus på epost; https://scaleaq.no/kontakt/
+support.mercatus@steinsvik.no
+Bruker
+Rapportering til AltInn
+Oppgaver/stik
+kord
+Krav til utførelse
+Ansvar
+Lustelling - 
+ukentlig 
+registreres AFA
+under menyen 
+«import/
+eksport».
+Hendelse
+Parameter
+Registreringer/beskrivelser
+Ikke 
+resistens
+Aksept av data som fremkommer.
+Mistanke om
+resistens 
+Virkestoff
+Lokalitet
+Årsak til mistanke
+Gjennomført bioassay
+Nedsatt behandlingseffekt
+Situasjon i området
+Annet
+Følsomhetstest
+Dato
+Laboratorium
+Virkestoff
+Testresultat; Følsom – Nedsatt -
+                     Resistent
+Utført mekanisk 
+behandling
+Beskriv metoden
+Gjennom-
+føring
+Lusetellingen gjennomføres i hht forskriftskrav. Rapportering gjennomføre
+ukentlig pr lokalitet.
+Frist
+Eksport til AltInn innen hver tirsdag påfølgende uke.
+Eksport skal sendes selv om det ikke er utført lusetelling eller behandlet.
+Driftsleder
+Biomasse-
+kontroll
+Hendelse
+Parameter pr lokalitet
+Biomasse-
+rapportering
+Eksport av data fra AFA under menyen «Import/eksport»
+Aksept av data som fremkommer i AFA
+Frist
+Innen den 7. i hver måned
+Planner
+Dokument-ID: 1009-3
+Registrering i AkvaFarmer
+Mowi
+ASA
+Sted og prosess
+Mowi ASA - Stamfisk / Stamfisk Sjø / Daglig drift
+Sist godkjent dato 09.03.2021 (Svein Ådland)
+Dato endret
+25.02.2021 (Geir Elling Nygård)
+Gyldighetsområde
+Dokumentkategori
+Siste revisjonsdato
+13.07.2020
+Neste revisjonsdato 01.07.2021
+Dokumentansvarlig
+Svein Ådland
+11.03.2022 10:15:38
+3/3
+Registeringer
+Mattilsyn
+Hendelse
+Parameter pr lokalitet
+Fiske-
+helse/velferd
+Umiddelbart ved uavklart forøket dødelighet og mistanke om 
+meldepliktig sykdom.
+Fiske-
+helseleder
+5.
+Annen informasjon
+Nummer på produksjonsenheter knyttet til akvakulturtillatelsens nummer og innehaver av 
+tillatelsen og tidspunkt for brakklegging skal legges inn.
+All informasjon vedr. rømt fisk registreres under telling.

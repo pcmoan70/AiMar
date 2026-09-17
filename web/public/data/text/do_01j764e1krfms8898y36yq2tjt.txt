@@ -1,0 +1,1658 @@
+﻿FORUNDERSØKELSE FINNØY 
+Forundersøkelse av 
+oppdrettslokalitet ved 
+Jørstadskjera 
+Bremnes Seashore AS 
+Rapport nr.: 2017-4163, Rev. 01 
+Dokument nr.: 115AWJ3V-4 
+Dato: 2019-12-12 
+ 
+ 
+ 
+Prosjektnavn: Forundersøkelse Finnøy DNV GL AS
+
+Rapporttittel: Forundersøkelse av oppdrettslokalitet ved Environmental Risk Management
+Jørstadskjera Stavanger
+
+Kunde: Bremnes Seashore AS, P.0.Box 408
+
+Kundekontakt: Geir Magne Knutsen 4002 Stavanger
+
+Dato: 2019-12-12 Norway
+
+Prosjektnr.: 10055439 Tel: +47 51 50 60 00
+
+Organisasjonsenhe: Environmental Risk Management NO 945 748 931 MVA
+
+Rapportnr.: 2017-4163, Rev. 01
+
+Dokumentnr.: 115AWJ3V-4
+
+Oppdragsbeskrivelse:
+
+Rapporten omhandler en forundersøkelse av Bremnes Seashore AS sin lokalitet ved Jørstadskjera i juni
+2017. Undersøkelsene og vurderingene er utført innen følgende områder: Økologisk vurdering av
+bløtbunnsfauna samt fysiske og kjemiske parametere i henhold til NS 9410:2016 «Miljøovervåking av
+bunnpåvirkning fra marine akvakulturanlegg».
+
+Utarbeidet av: Ven sen av: Godkjent av:
+Øsind fi VA Oo Mi
+rit ery KL) ad Tvedten \ oie Myhre
+Senior Consultant Principal Consultant foup Leader |
+
+Beskyttet etter lov om opphavsrett til åndsverk m.v. (åndsverkloven) © DNV GL 2019. Alle rettigheter forbeholdes DNV GL. Med
+mindre annet er skriftlig avtalt, gjelder følgende: (i) Det er ikke tillatt å kopiere, gjengi eller videreformidle hele eller deler av
+dokumentet på noen måte, hverken digitalt, elektronisk eller på annet vis; (ii) Innholdet av dokumentet er fortrolig og skal holdes
+konfidensielt av kunden, (iii) Dokumentet er ikke ment som en garanti overfor tredjeparter, og disse kan ikke bygge en rett basert på
+dokumentets innhold; og (iv) DNV GL påtar seg ingen aktsomhetsplikt overfor tredjeparter. Det er ikke tillatt å referere fra
+dokumentet på en slik måte at det kan føre til feiltolkning. DNV GL og Horizon Graphic er varemerker som eies av DNV GL AS.
+
+DNV GL distribusjon: Nøkkelord:
+Fri distribusjon (internt og eksternt) Forundersøkelse, sediment, bløtbunnsfauna,
+Ol Fri distribusjon innen DNV GL Jørstadskjera, fiskeoppdrett, miljø
+O Fri distribusjon innen det DNV GL-selskap som er
+kontraktspart
+
+0 Ingen distribusjon (konfidensiell)
+
+Forsidefoto: Bilde av oppdrettslokaliteten Jørstadskjera, prøvetaking ved stasjon Jør 2, juni 2017 (foto: DNV GL).
+
+A 2017-10-05 Utkast til kunde Tvedten og Godal Myhre Heggland
+2017-10-11 Endelig rapport Tvedten og Godal Myhre Heggland
+01 2019-12-12 Oppdatert versjon, nytt kart Godal Tvedten Myhre
+
+DNV GL - Report No. 2017-4163, Rev. 01 - www.dnvgi.com Page i
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page ii
+ 
+  
+Innholdsfortegnelse 
+SAMMENDRAG OG KONKLUSJONER .............................................................................................. III 
+1 
+INNLEDNING .................................................................................................................. 1 
+1.1 
+Formålet med undersøkelsen 
+1 
+1.2 
+Tidligere undersøkelser 
+1 
+2 
+MATERIALE OG METODER ................................................................................................ 2 
+2.1 
+Prøveinnsamling 
+2 
+2.2 
+Hydrografi 
+6 
+2.3 
+Sedimentkvalitet 
+7 
+2.4 
+Bløtbunnsfauna 
+8 
+3 
+RESULTATER ................................................................................................................ 11 
+3.1 
+Hydrografi 
+11 
+3.2 
+Sedimentkvalitet 
+12 
+3.3 
+Bløtbunnsfauna 
+15 
+4 
+MILJØVURDERING AV LOKASJONEN ................................................................................ 17 
+REFERANSER ............................................................................................................................. 18 
+VEDLEGG A ANALYSERAPPORT SEDIMENT .................................................................................... 19 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page iii
+ 
+ 
+SAMMENDRAG OG KONKLUSJONER 
+Foreliggende rapport omhandler en forundersøkelse 1. juni 2017 av miljøforholdene på bunnen ved 
+Jørstadskjera i Finnøy kommune, Rogaland. Undersøkelsen ble utført som en forundersøkelse av en 
+oppdrettslokalitet i henhold til NS 9410: 2016 «Miljøovervåking av bunnpåvirkning fra marine 
+akvakulturanlegg» i forbindelse med søknad om utvidelse av produksjonen.  
+Det ble tatt bunnprøver med en grabb og gjort målinger i vannsøylen. Bunnprøvene ble analysert for 
+kornstørrelse og bunndyr. I tillegg ble det gjort målinger av surhetsgrad (pH) og redokspotensiale (Eh) i 
+sedimentet.  
+Bremnes Seashore vil utvide arealet av anlegget, med fire nye merder. I denne 
+rapportversjonen er kun kartet som viser omsøkt anlegg oppdatert (Figur 2-2b). Beskrivelse 
+av anleggssone og overgangssone i foreliggende rapport er ikke endret i forhold til den nye 
+anleggsutformingen. Ved senere C-undersøkelser bør stasjonsplasseringen bli tilpasset ny 
+anleggsutforming slik at de samsvarer med NS 9410, samt notat fra Miljødirektoratet (Mdir, 
+2019). 
+Analysene av kornstørrelse tyder på at bunnsubstratet varierer en del i området, men domineres av 
+sand/grus og silt. Oksygenverdiene i bunnvannet lå i tilstandsklasse I «Svært god».  
+Den samlede lokalitetstilstanden til Jørstadskjera ble vurdert som beste «Tilstand 1», hvor: 
+• 
+målingene av surhetsgrad og redokspotensiale samlet ga den beste «Tilstand 1».  
+• 
+tilstanden fra de sensoriske observasjonene samlet ga beste «Tilstand 1». På stasjonen nærmest 
+anlegget var det synlig organisk tilførsel fra driften ved anlegget til sjøbunnen.  
+Bunnfaunaen i anleggssonen ble vurdert som «God» i henhold til NS 9410:2016 og som «Svært dårlig» i 
+henhold til Veileder 02:2013_2015. Bunnfaunaen i overgangssonen og på referansestasjonen ble vurdert 
+som henholdsvis «God» og «Svært god» i henhold til Veileder 02:2013_2015. 
+Artssammensetningen og et lavt artsantall viste at bunnen i anleggssonen (stasjon Jør 1) var påvirket av 
+organisk tilførsel fra anlegget. På de andre stasjonene (overgangssone og referansestasjon) var det en 
+artsrik bunnfauna.   
+ 
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 1
+ 
+ 
+1 INNLEDNING 
+1.1 Formålet med undersøkelsen 
+Bremnes Seashore AS ønsker å utvide produksjonen (maksimal tillatt biomasse fra 3210 t til 4680 t) ved 
+Jørstadskjera, Ombo, i Finnøy kommune i Rogaland (figur 2-1). DNV GL har i den forbindelse 
+gjennomført en forundersøkelse av miljøforholdene ved den planlagte oppdrettslokaliteten.  
+Ved etablering av en ny akvakulturlokalitet i sjøvann skal det i henhold til «Veileder for utfylling av 
+søknadsskjema for tillatelse til akvakultur i flytende eller landbasert anlegg» gjennomføres en 
+forundersøkelse 
+i 
+henhold 
+til 
+Norsk 
+Standard 
+9410:2016, 
+eller 
+tilsvarende 
+internasjonal 
+standard/anerkjent norm. Forundersøkelsen er en undersøkelse av den planlagte anleggs- og 
+overgangssonen som gjennomføres før akvakulturanlegget plasseres.  
+Resultatene av forundersøkelsen kan brukes til å sikre at anlegget legges til en lokalitet med gode 
+miljøforhold og vil samtidig gi et godt grunnlag for senere kartlegging av oppdrettsanleggets påvirkning 
+av det ytre miljøet. Utslipp og akkumulering av organisk stoff som fôrrester og fiskeekskrementer fra et 
+oppdrettsanlegg vil direkte kunne påvirke miljøtilstanden i det nærliggende området. Kunnskap om, og 
+oppfølging av miljøforholdene ved et matfiskanlegg kan bidra til å sikre godt levemiljø for fisken, god 
+tilvekst og redusere produksjonskostnadene. 
+Foreliggende rapport presenterer resultatene fra en forundersøkelse basert på NS 9410:2016 
+«Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg» ved Jørstadskjera i juni 2017. 
+Prøvetaking av bunnsediment for biologisk og kjemiske analyser, samt faglige vurderinger og 
+fortolkninger er utført akkreditert under DNV GLs akkrediteringsnummer Test 083. 
+Bremnes Seashore vil utvide arealet av anlegget, med fire nye merder. I denne 
+rapportversjonen er kun kartet som viser omsøkt anlegg oppdatert (Figur 2-2b). Beskrivelse 
+av anleggssone og overgangssone i foreliggende rapport er ikke endret i forhold til den nye 
+anleggsutformingen. Ved senere C-undersøkelser bør stasjonsplasseringen bli tilpasset ny 
+anleggsutforming slik at de samsvarer med NS 9410, samt notat fra Miljødirektoratet (Mdir, 
+2019). 
+ 
+1.2 Tidligere undersøkelser 
+Det har tidligere blitt utført strømundersøkelser i området i 2015 (Heggland, 2015). Målingene fra 
+strømundersøkelsen viste en gjennomsnittlig strømhastighet på om lag 2-4 cm/s på 90 og 145 m dyp. 
+Strømretningen vekslet hovedsakelig mellom nordøst og sørvest.  
+I 2006 ble det utført en bunnundersøkelse og lokalitetsklassifisering av Jørstadskjera (Tveranger m.fl., 
+2006). I 2016 ble det utført en MOM B-undersøkelse og en C-undersøkelse med ASC undersøkelse 
+(Berge-Haveland, 2016; Humberset m.fl., 2016). Begge undersøkelsene fikk «Tilstand 1» og «Svært 
+gode» miljøforhold etter NS9410:2007 og 9410:2016 for alle fysiske parametere. Bunnfauna fra MOM C-
+undersøkelsen fikk tilstand «God» etter NS9410:2016 for anleggssonen og «Dårlig» etter Veileder 
+02:2013_2015 (resultatene er hentet fra konsekvensutredningen av Jørstadskjera). 
+I 2016 ble det utført en konsekvensutredning av lokaliteten (Eilertsen og Olsen, 2017).  
+ 
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 2
+ 
+2 MATERIALE OG METODER 
+2.1 Prøveinnsamling 
+Bremnes Seashore AS sin lokalitet ved Jørstadskjera er lokalisert i Jelsafjorden/Nedstrandsfjorden, 
+nordvest for Ombo. Anlegget ligger i et område hvor det er ca. 120-370 m dyp (figur 2-1). Generelt er 
+sjøbunnen i området skrånende fra land og utover mot midt i fjorden.  
+Stasjonspunktene ble valgt i forhold til bunntopografi og avstand fra anlegget. I tillegg vurderes 
+forventet spredning av partikler fra anlegget. Fortøyninger begrenser områdene hvor det er 
+mulig/forsvarlig å ta prøver.  
+M/S Amanda fra Bremnes Seashore AS ble benyttet under arbeidet. DNV GL takker for god hjelp av 
+mannskapet og et hyggelig tokt. Øyvind Tvedten fra DNV GL var ansvarlig for prøveinnsamlingen. 
+Kartplotter og ekkolodd ble brukt til å lokalisere stasjonene. Ekkoloddet var ofte ustabilt og viste ikke 
+dyp hele tiden. For stasjonsopplysninger og kart se figur 2-2 og 2-3, samt tabell 2-2.  
+Det ble tatt sedimentprøver på fire stasjonspunkter; én stasjon i anleggssonen (Jør 1), to i 
+overgangssonen (Jør 2 og Jør 4) og én referansestasjon (Jør 5, ca. 1 km fra anlegget) (tabell 2-1). 
+Stasjon Jør 3 ble forkastet på grunn av skrå bunn i området, slik at det ikke var mulig å gjennomføre 
+prøvetakningen. 
+Litt om stasjonsplasseringen:  
+• 
+Stasjon Jør 1 var lokalisert like ved merd 8 (som var i bruk).  
+• 
+Jør 2 var lokalisert like ved merd 1, som var tom og lå om lag 160 m fra nærmeste merd i bruk. 
+• 
+På stasjon Jør 4 og Jør 5 var det vanskelige prøvetakningsforhold. På Jør 5 var sjøbunnen noe 
+mer grovkornet enn på stasjonene ved anlegget. Det anbefales derfor at det eventuelt opprettes 
+en annen referansestasjon enn Jør 5 ved et senere tidspunkt.  
+Metodene som er benyttet i undersøkelsen er i overensstemmelse med standardene: 
+• 
+NS 9410:2016 «Miljøovervåking av bunnpåvirking fra marine akvakulturanlegg». 
+• 
+ISO 16665:2014 «Marin bløtbunnsfauna. Retningslinjer for kvantitativ prøvetaking og 
+prøvebehandling av marin bløtbunnsfauna». 
+• 
+ISO 5667-19:2004 «Vannundersøkelse- Prøvetaking- Del 19: Veiledning i sedimentprøvetaking i 
+marine områder» 
+Sediment til kornstørrelse- og bunndyrsanalyser ble hentet opp med en van Veen grabb (0,1 m2) på 
+hvert stasjonspunkt. Det ble tatt to replikate prøver for bunndyrsundersøkelse og én prøve til 
+kornstørrelse på fire stasjoner (Jør 1, Jør 2, Jør 4 og Jør 5). Bunndyrsprøvene ble fiksert i formalin og 
+fraktet til DNV GLs Biolaboratorium for opparbeiding og biologiske analyser. Prosedyrene for feltarbeid 
+og biologiske analyse er beskrevet i DNV GLs Biolaboratoriets kvalitetssystem. Sedimentprøve i sjiktet 0-
+5 cm ble fryst og sendt til ALS AS laboratorium for analyse av kornstørrelse.  
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 3
+ 
+ 
+Figur 2-1. Plassering av anlegget i Rogaland og utsnitt av sjøkart som viser dybdeforholdene. Kartene er 
+hentet fra https://kart.fiskeridir.no/akva 2017.  
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 4
+ 
+  
+Figur 2-2. Opprinnelig anleggsutforming ved Jørstadskjera. Stasjonsplassering er i henhold til koordinater 
+fra feltarbeidet. Anlegg og fortøyninger er inntegnet.  
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 5
+ 
+ 
+Figur 2-2b. Ny anleggskonfigurasjon (4 nye ringer i sørøstlig retning) og stasjonsoversikt ved 
+Jørstadskjera. 
+Stasjonsplassering 
+er 
+i 
+henhold 
+til 
+koordinater 
+fra 
+feltarbeidet. 
+Pilen 
+viser 
+hovedstrømretningen i området.  Bakgrunnskartet er hentet fra Fiskeridirektoratets kartløsning.  
+ 
+ 
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 6
+ 
+Tabell 2-1. Beskrivelse av anleggssone og overgangssone (Kilde: NS 9410:2016).  
+Anleggssone 
+Anleggssonen omfatter området under og rundt oppdrettsanlegget hvor tilførselen av organisk 
+materiale er størst. Strøm, dyp og synkehastighet avgjør hvor partiklene fra merdene bunnfeller, 
+og området som får størst tilførsel av organisk stoff, kan derfor være forskjøvet i forhold til 
+anlegget. På strømsterke lokaliteter vil det organiske materialet akkumulere nedstrøms i forhold 
+til anlegget, mens områdene oppstrøms vil ha mindre tilførsler og påvirkning. Dersom anlegget 
+ligger over skrånende bunn, kan en del av det organiske materialet akkumulere der bunnen flater 
+ut. Anleggssonen avgrenses som følge av dette ikke nødvendigvis av en fast avstand fra merdene, 
+men strekker seg vanligvis ikke mer enn 25 m til 30 m fra anlegget. 
+Overgangssone 
+Overgangssonen omfatter området utenfor anleggssonen der mindre partikler og resuspendert 
+organisk materiale fra anleggssonen vanligvis sedimenterer. På dype, strømsterke lokaliteter kan 
+også større partikler sedimentere her. På strømsterke lokaliteter kan sonen være forskjøvet i 
+strømretningen, mens den på skrånende bunn kan være forskjøvet mot større dyp. Dersom det er 
+dyphull i overgangssonen, kan disse fungere som akkumuleringsområder for organiske partikler. 
+Overgangssonen strekker seg vanligvis ikke til mer enn 500 m fra anlegget.  
+ 
+Tabell 2-1 Stasjonsoversikt med posisjon (WGS-84), dyp, prøvetakingsprogram.  
+Stasjon 
+Nord 
+Øst 
+Dyp 
+(m) 
+Prøvetaking 
+Jør 1 
+59°17.682 
+05°56.204 
+203* 
+Bunnprøver (2 faunaprøver og 1 til kornstørrelse), B-
+undersøkelse gr. I & II parametere. 
+Jør 2 
+59°17.907 
+05°56.325 
+366** 
+Bunnprøver (2 faunaprøver og 1 til kornstørrelse), B-
+undersøkelse gr. I & II parametere. Hydrografi (CTD). 
+Jør 3 
+59°17.749 
+05°56.905 
+200 
+Stasjon forkastet. Skrå bunn i området. Ikke mulig å få 
+prøver. 
+Jør 4 
+59°17.626 
+05°56.886 
+126 
+Bunnprøver (2 faunaprøver og 1 til kornstørrelse), B-
+undersøkelse gr. I & II parametere. 
+Jør 5 
+59°17.166 
+05°56.086 
+126 
+Bunnprøver (2 faunaprøver og 1 til kornstørrelse), B-
+undersøkelse gr. I & II parametere. 
+*Ekkoloddet viser 200 m. Ekkoloddet registrer kanskje fortøyningen (Jør 1 fortøyd ved merd 8). Dypet er rundt 240 m (målt med tau 
+brukt til grabbing). ** CTDen ble brukt ned til 383 m på denne stasjonen. Ekkoloddet var utsabilt.  
+ 
+2.2 Hydrografi 
+Måling av temperatur, saltholdighet og oksygen i vannsøylen ble utført med en SAIV CTD 204 sonde 
+med oksygensensor (figur 2-3). Målingene ble utført på den dypeste stasjonen (Jør 2, 383 m dyp).  
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 7
+ 
+ 
+Figur 2-3. SAIV CTD 204 for måling av temperatur, saltholdighet og oksygen i vannsøylen.  
+ 
+Tilstand for oksygen på dypvann blir vurdert i henhold til Veileder 02:2013_2015 «Klassifisering av 
+miljøtilstand i vann» (tabell 2-3). 
+Tabell 2-3. Grenseverdier for tilstandsklasser for oksygen i bunnvann (Kilde: Veileder 02:2013_2015).  
+Parameter 
+Tilstandsklasser 
+I 
+II 
+III 
+IV 
+V 
+Svært god 
+God 
+Moderat 
+Dårlig 
+Svært Dårlig 
+Oksygen (ml O2/l) 
+>4,5 
+4,5-3,5 
+3,5-2,5 
+2,5-1,5 
+<1,5 
+ 
+2.3 Sedimentkvalitet 
+Surhetsgrad (pH) ble målt i sedimentprøvene med en WTW Sentix 41 pH-elektrode (figur 2-4). Denne 
+ble kalibrert i felt med pH buffer 7 og 4 før prøvetakning. Redokspotentialet (Eh) ble målt i 
+sedimentprøvene med Eh-elektroden, WTW Sentix ORP. Eh-elektroden ble kontrollert i felt med en Eh-
+buffer 475±5 mV før måling.  
+ 
+ 
+ 
+Figur 2-4. Foto av grabben på vei opp på dekk på M/S Amanda og måling av redokspotensiale (Eh) i 
+sedimentet (Jør 1, til høyre). Rester av fiskeskit på toppen av prøven. 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 8
+ 
+2.4 Bløtbunnsfauna 
+På fire stasjoner (Jør 1, Jør 2, Jør 4 og Jør 5) ble det tatt to faunaprøver med en van Veen grabb (0,1 m2 
+overflateareal). Prøvene ble vasket og siktet i 1 mm sikter (runde hull, figur 2-5) under innsamlingen, og 
+deretter fiksert i 4 % formalin bufret med hexamin og tilsatt farge (Bengalrosa). Faunaprøvene ble sendt 
+til DNV GLs Biolaboratorium hvor prøvene ble vasket i 1 mm sikter for å fjerne formalin og rester av 
+sedimentet. Sikteresten ble overført til en bakk og faunaen fra hver prøve sortert inn i taksonomiske 
+hovedgrupper og oppbevart i 70 % sprit før artsbestemmelse. Dyrene ble deretter identifisert.  
+    
+ 
+Figur 2-5. Vaskede og siktede faunaprøver under innsamling ved Jørstadskjera. Stasjon Jør 1 i 
+anleggssonen (til venstre) og stasjon Jør 2 i overgangssonen (til venstre).  
+  
+ Analysemetoder biologiske data 
+Forundersøkelse er en undersøkelse av bunntilstanden ved anlegget (anleggssonen) og utover i 
+resipienten (overgangssonen), samt ved referansestasjon. Hoveddelen av en forundersøkelse er en 
+undersøkelse av bunnfaunaen på bløtbunn. Miljøtilstanden i sjøbunnen vurderes/beregnes ut fra hvor 
+mange arter og individer det er i prøvene, og hvilke arter som blir funnet. 
+NS 9410:2016 angir: «Når det er relativt få arter med jevn fordeling i prøvene, slik tilfellet ofte er nær 
+oppdrettsanlegg, gjøres vurderingen på grunnlag av artsantallet og artssammensetningen». Dette tolkes 
+slik at tilstandsvurdering av stasjoner i nærsonen skal gjøres i henhold til tabell 2-4 nedenfor (som er 
+hentet fra NS 9410:2016). Tilstandsklassifisering av de øvrige stasjoner i overgangssonen og 
+referansestasjon skal baseres på Veileder 02:2013_2015. DNV GL mener det likevel er hensiktsmessig i 
+tillegg og også klassifisere nærsonestasjoner etter Veileder 02:2013_2015 og har dermed brukt den 
+klassifiseringen for alle stasjoner. Ved Jørstadskjera ble det tatt bunnfaunaprøver fra fire stasjoner, en i 
+anleggsonen (Jør 1), to i overgangssonen (Jør 2 og Jør 4) og en fra referansestasjonen (Jør 5).  
+Tabell 2-4. Grenser for miljøtilstand av anleggssonen basert på 0,2 m2 prøveareal (Kilde: NS 9410:2016). 
+Fargekoder er angitt for å gi bedre oversikt.  
+ 
+Miljøtilstand 
+S (artstall) 
+N (individtall) 
+% av total N 
+1 
+Meget god 
+≥20 
+- 
+≤65 % 
+2 
+God 
+5-19 
+>20 
+≤90 % 
+3 
+Dårlig 
+1-4 
+- 
+- 
+4 
+Meget dårlig 
+0 
+- 
+- 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 9
+ 
+På grunnlag av antall og fordeling av arter og individer på hver enkelt stasjon ble det utført statistiske 
+analyser for vurdering av bløtbunnssamfunnet. Det er også gjennomført analyser av sammenhengen 
+mellom bløtbunnssamfunnet og forurensningsgrad. Direktoratsgruppa for vanndirektivet har gitt 
+retningslinjer for å klassifisere miljøtilstand i vann i Veileder 02:2013_2015 «Klassifisering av 
+miljøtilstand i vann». Denne veileder erstatter Veileder 01:2009. Følgende indekser brukes for 
+klassifisering:  
+• 
+Shannon-Wiener diversitetsindeks, H’ 
+• 
+Hurlberts rarefraction, ES100 
+• 
+NQI1 (Norwegian Quality Index) som inngår i Norges rapportering til EU. NQI1 er en sammensatt 
+indeks som inneholder sensitivitetsindeksen AMBI (www.azti.es), Shannon-Wiener diversitet (H’), 
+antall arter (S) og antall individer (N). 
+• 
+NSI er en sensitivitetsindeks utviklet for norske fauna i 2013. 
+• 
+ISI2012 er en kvalitativ sensitivitetsindeks. 
+• 
+Density index (DI) er en indeks for individtetthet, utviklet i 2013. 
+Beskrivelse av indekser er gitt i faktaboks under. 
+Faktaboks: Beskrivelse av indeksene (veileder 02:2013_2015) 
+NQI1 (Norwegian quality index) er en sammensatt indeks. Indeksen inneholder indikatorer som omfatter 
+sensitivitet (AMBI, se nedenfor), diversitet (H´, se nedenfor) og antall arter og individer i en prøve. NQI1 er 
+interkalibrert mellom alle land som tilhører NEAGIG. NQI1 kan ha verdier mellom 0 og 1. 
+ 
+AMBI er en sensitivitetsindeks (egentlig en toleranseindeks) der artene tilordnes en toleranseklasse 
+(ecological group, EG): EG I-sensitive arter, EG II-indifferente arter, EG III-tolerante arter, EG IV-
+opportunistiske arter, EG V-forurensningsindikerende arter. I Norge brukes AMBI bare ikombinasjonsindeksen 
+NQI1 og har derfor ingen egen klassifisering. AMBI er en kvantitativ indeks som tar hensyn til individantallet 
+av artene. Hver art er tilordnet en av de fem økologiske gruppene (basert på «expert judgement»). 
+Programmet for beregning av AMBI kan hentes fra: http://ambi.azti.es/ 
+ 
+NSI er en ny sensitivitetsindeks. Den ligner AMBI, men er utviklet med basis i norske faunadata, og ved bruk 
+av en objektiv statistisk metode. Hver art av i alt 591 arter er tilordnet en sensitivitetsverdi. En prøves NSI-
+verdi beregnes ved gjennomsnittet av sensitivitetsverdiene av alle individene i prøven. En beskrivelse av NSI 
+og hvordan den beregnes finnes i Rygg & Norling (2013). 
+ 
+ISI er også en sensitivitetsindeks. Beregning av ISI er beskrevet i Rygg (2002). Grunnlaget for beregningen 
+er senere utvidet og artsnomenklaturen er standardisert. Den reviderte ISI betegnes ISI2012 (Rygg og 
+Norling, 2013). Hver art er tilordnet en ømfintlighetsverdi. ISI er en kvalitativ indeks som bare tar hensyn til 
+hvilke arter som er til stede, men ikke individtall. En prøves ISI-verdi beregnes ved gjennomsnittet av 
+sensitivitetsverdiene av artene i prøven. 
+ 
+DI (density index) er en ny indeks for individtetthet (Rygg & Norling, 2013). DI er spesielt utviklet med tanke 
+på tilstandsklassifisering av individfattig fauna. Indeksene for artsmangfold og ømfintlighet fungerer da av og 
+til dårlig, fordi de kan styres av tilfeldigheter i de små datasettene. Fattig fauna finnes særlig ved dårlige 
+oksygenforhold, eller ved svært kraftig industriforurensning. Ekstremt høye individtettheter av tolerante arter 
+tyder på påvirkning av organisk belastning, vanlig nær renseanlegg og matfiskanlegg. DI signaliserer også 
+dette. 
+ 
+H’ 
+(Shannonindeksen) 
+er 
+en 
+av 
+de 
+mest 
+brukte 
+diversitetsindeksene 
+og 
+benyttes 
+også 
+som 
+klassifiseringsindeks. 
+ 
+ES100 (Hurlberts diversitetsindeks) er også en diversitetsindeks som viser forventet antall arter blant 100 
+tilfeldig valgte individer i en prøve. 
+ 
+Klassegrensene for de indeksene som benyttes er fremstilt i tabell 2-5. Som beskrevet i Veileder 
+02:2013_2015, er indeksverdiene presentert for både sum av alle grabbhugg («stasjonsverdien») og for 
+grabbgjennomsnitt. Verdi for hver indeks normaliseres til en 0-1 skala (nEQR) for enklere sammenlikning. 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 10
+ 
+Tilstandsklassen bestemmes av gjennomsnittet av de normaliserte indeksverdiene, og presenteres som 
+«nEQR stasjon» og «nEQR grabb». For en grundigere gjennomgang av indeksene og beregning av 
+tilstandsklasser, se Veileder 02:2013_2015 «Klassifisering av miljøtilstand i vann». 
+Tabell 2-5. Klassegrenser for bløtbunnsindekser som benyttes til å beregne økologisk status iht. 
+vannforskriften, fra Veileder 02:2013_2015. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 11
+ 
+3 RESULTATER  
+3.1 Hydrografi 
+Oksygenforhold, temperatur og saltholdighet i vannsøylen på den dypeste stasjonen (Jør 2, ca. 380 m) 
+er vist i figur 3-1. 
+ 
+ 
+ 
+Figur 3-1. Saltholdighet (PSU), temperatur (°C) og oksygeninnhold (mg/l) i Jelsafjorden/ 
+Nedstrandsfjorden, stasjon Jør 2, juni 2017. 
+Åpne sjøområder med gode strømforhold og vannutskiftning har som regel et høyt oksygeninnhold. Ved 
+en stor tilførsel av organisk materiale kan derimot oksygeninnholdet i sjøen reduseres som følge av at 
+oksygen blir forbrukt ved nedbrytning av organisk materiale. I tillegg kan terskler og trange sund føre til 
+dårlig vannutskiftning og dermed hindre tilførselen av nytt oksygenrikt vann. I slike områder kan det 
+dannes hydrogensulfid som kan føre til at dyrelivet dør ut i området.  
+Resultatene viser en svak økning i saltholdighet og en nedgang i temperatur nedover i vannsøylen, men 
+fra omtrent 100 m og nedover er det mindre endring i vannkvalitet. Resultatene tilsvarer vanlige forhold 
+i en vestlandsfjord om våren.  
+Oksygeninnholdet på den målte stasjonen avtok nedover mot bunn. I bunnvannet var oksygeninnholdet 
+rundt 7,7 mg/l, noe som tilsvarer 5,4 ml O2/l. Verdiene for oksygen i bunnvannet er dermed klassifisert 
+som tilstandsklasse I «Svært god» (>4,5 ml O2/l) (Veileder 02:2013_2015). Forskjellen i 
+oksygeninnholdet som er målt i overflatevannet skyldes trolig at det har tatt noe tid før sonden har målt 
+stabile verdier og ikke variabel vannkvalitet (sonden hang noen minutter på få meters dyp).  
+0
+50
+100
+150
+200
+250
+300
+350
+30
+35
+40
+Dyp (m)
+Saltholdighet (PSU)
+0
+50
+100
+150
+200
+250
+300
+350
+7
+8
+9
+10
+11
+12
+Temperatur (°C)
+0
+50
+100
+150
+200
+250
+300
+350
+7
+8
+9
+10
+11
+Oksygen (mg/l)
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 12
+ 
+3.2 Sedimentkvalitet 
+ Kornstørrelse 
+Kornstørrelsen i sedimentet forteller noe om strømforholdene like over sjøbunnen. I områder med sterk 
+strøm vil finere partikler føres bort og grovere partikler vil bli liggende igjen. I områder med mindre 
+strøm vil de finere partiklene synke til bunns og avsettes i sedimentet.  
+Resultatene fra analysen av kornstørrelsen viser at referansestasjonen (Jør 5) har et høyt innhold av 
+sand og grus, mens stasjonen i overgangssonen (Jør 2) har et høyt innhold av silt som er et finere 
+materiale (63-2 µm) (tabell 3-1). Sedimentprøven fra anleggssonen (Jør 1) og den andre stasjonen 
+overgangssonen (Jør 4) har omtrent lik fordeling av sand/grus og silt.  
+ 
+Tabell 3-1. Kornstørrelse (%) for stasjonene ved Jørstadskjera (Se vedlegg A for analyserapport). 
+Stasjon 
+Kornstørrelse (%) 
+ 
+Sand/grus 
+>63 µm 
+Silt 
+63-2 µm 
+Leire 
+<2 µm 
+Jør 1 
+44 
+52 
+4 
+Jør 2 
+3 
+89 
+8 
+Jør 4 
+55 
+42 
+3 
+Jør 5 
+94 
+5 
+0,5 
+ 
+ Surhetsgrad (pH) og redokspotensial (Eh) 
+Graden av oksygeninnhold i det marine sedimentet og bunnvann kan bestemmes ved hjelp av målinger 
+av surhetsgrad (pH) og redokspotensial (Eh). Lave verdier av pH og Eh kan indikere at det finne lite 
+oksygen i sedimentet, noe som igjen kan reflektere en høy grad av organisk belasting på lokaliteten. 
+Slike forhold i marint sediment og bunnvann, vil kunne ha en negativ effekt på makrofauna og viktige 
+organismer som bryter ned organisk materiale.  
+Resultatene fra pH/Eh målingene er presentert i prøveskjema B1 (tabell 3-2). Noen av verdiene som ble 
+avlest fra figur D.1 i NS 9410:2016 lå utenfor det skraverte området i grafen. Disse verdiene ble vurdert 
+til å tilhøre det nærmeste skraverte området i grafen, og poengavlesningen ble deretter utført.  
+Den samlede tilstanden av målt pH/Eh ble den beste «Tilstand 1».  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 13
+ 
+Tabell 3-1 Prøveskjema B1 for hver replikat for de fire stasjonene ved Jørstadskjera. 
+ 
+ Visuell prøvebeskrivelse  
+Tabell 3-3 viser bilde og gir en kort beskrivelse av sedimentet på hver stasjon. Resultatene fra den 
+sensoriske prøvebeskrivelsen er presentert i prøveskjema B1 (tabell 3-2). Det ble ikke registrert 
+gassbobler i sedimentprøvene. Det ble registrert noe lukt av H2S/fôrspill og observert fekalier fra fisk 
+(fiskeskit) på stasjonen i anleggssonen (Jør 1), noe som tyder på påvirkning av bunnforholdene. På Jør 2 
+(ca. 160 m fra nærmeste merd med fisk) var det ingen tydelig påvirkning. Dyr ble observert i alle 
+sedimentprøvene. 
+Den samlede tilstanden fra den sensoriske observasjonen ble beste «Tilstand 1». 
+ 
+ Samlet lokalitetstilstand  
+Basert 
+på 
+pH/Eh-målinger 
+og 
+de 
+sensoriske 
+observasjonene 
+fikk 
+Jørstadskjera 
+en 
+samlet 
+lokalitetstilstand på beste «Tilstand 1» (tabell 3-2).  
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 14
+ 
+Tabell 3-3. Prøvebeskrivelse av de fire stasjonene undersøkt ved Jørstadskjera, juni 2017. 
+ 
+Jør 1 
+• 
+Gråsvart bløtt sediment. Litt leire. 
+• 
+Noe H2S lukt. 
+• 
+«Fiskeskit» (fekalier) fra fisk.  
+• 
+Mye diverse børstemark.  
+• 
+Ingen bobler. 
+ 
+Jør 2 
+• 
+Olivengrønt mudder, finkornet, bløt bunn. 
+• 
+Helt fulle grabber (til lokket). 
+• 
+Slangestjerner, børstemark. 
+• 
+Ingen spesiell lukt. 
+• 
+Ingen bobler. 
+ 
+  
+Jør 3 
+• 
+Stasjon forkastet. Hard og skrånende 
+bunn. Ingen prøver innsamlet. 
+ 
+Jør 4 
+• 
+Grålig mudder, småstein, sand.  
+• 
+Børstemark (Pectinaria), gravende 
+sjøpiggsvin. 
+• 
+Ingen spesiell lukt. 
+• 
+Ingen bobler. 
+• 
+Vanskelige bunnforhold. Hardt. 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 15
+ 
+ 
+Jør 5 
+• 
+Grålig finkornet mudder. Sand, småstein. 
+• 
+Diverse børstemark.  
+• 
+Ingen spesiell lukt. 
+• 
+Ingen bobler. 
+• 
+Vanskelige prøvetakningsforhold. 
+ 
+3.3 Bløtbunnsfauna 
+Artssammensetningen i sedimentprøvene vil gi et bilde av miljøforholdene i bunnen og i vannmassene 
+over bunnen ved Jørstadskjera. Bløtbunnsarter er stort sett flerårige og relativt lite mobile, og vil 
+dermed kunne gjenspeile miljøpåvirkning i sedimentet over tid; i et område som er lite påvirket av ytre 
+faktorer vil det vanligvis være forholdsvis mange arter med en relativt jevn fordeling av individer blant 
+artene, mens det i forurenset sediment og i områder med stor organisk tilførsel (for eksempel fra 
+oppdrettsanlegg) vil være få eller ingen arter tilstede i sedimentet. Noen av disse artene kan ha mange 
+individ.   
+Resultatene fra sedimentprøvene ved Jørstadskjera er vist i tabell 3-4 og tabell 3-5 (DNV GL, 2017). Det 
+ble totalt funnet 3631 individer i undersøkelsen. Referansestasjon Jør 5, hadde lavest antall individer 
+(N= 430), mens stasjonen i anleggssonen, Jør 1, hadde høyest antall individer (N=1922). De ti mest 
+vanlige artene for hver stasjon (juvenile ikke medberegnet) er presentert i tabell 3-5. 
+I anleggssonen (Jør 1) ble det samlet totalt 6 arter med til sammen 1922 individer. Blant de ti mest 
+tallrike artene finner man flerbørstemarkene Capitella (70 %), Paramphinome jeffreysi (28 %) og skjellet 
+Thyasira sarsi (1 %) som de tre mest tallrike. Arten Capitella forekommer svært ofte og gjerne i høyt 
+antall på lokasjoner under oppdrettsanlegg hvor det tilføres organisk materiale. Basert på artsantall og 
+sammensetning får Jør 1 miljøtilstand «God» i henhold til NS 9410:2016. Beregnet nEQR på stasjonsnivå 
+gir en tilstandsverdi på 0,20 som tilsvarer tilstandsklasse «Svært dårlig» i henhold til Veileder 
+02:2013_2015.  
+I overgangssonen, på stasjon Jør 2, ble det samlet totalt 53 arter med til sammen 616 individer. Blant 
+de ti mest tallrike artene finner man flerbørstemarken Paramphinome jeffreysi (38 %), stjerneormen 
+Onchnesoma steenstrupi (13 %) og slangestjernen Amphilepis norvegica (5 %) som de tre mest tallrike. 
+Beregnet nEQR på stasjonsnivå gir en tilstandsverdi på 0,74 som tilsvarer tilstandsklasse «God» i 
+henhold til Veileder 02:2013_2015.  
+På stasjon Jør 4 i overgangssonen ble det samlet totalt 88 arter med til sammen 663 individer. Blant de 
+ti mest tallrike artene finner man flerbørstemarkene Paramphinome jeffreysii (29 %), Spiophanes kroyeri 
+(8 %) og muslingen Parathyasira dunbari (5 %) som de tre mest tallrike. Beregnet nEQR på stasjonsnivå 
+gir en tilstandsverdi på 0,78 som tilsvarer tilstandsklasse «God» i henhold til Veileder 02:2013_2015.  
+På referansestasjonen, Jør 5, ble det samlet 88 arter og 430 individer. Flerbørstemarkene Paramphinome 
+jeffreysi (18 %), Owenia borealis (7 %) og stjerneormen Onchnesoma steenstrupi (5 %) var de tre mest 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 16
+ 
+tallrike artene på stasjonen. Beregnet nEQR på stasjonsnivå gir en tilstandsverdi på 0,85 som tilsvarer 
+tilstandsklasse «Svært god». 
+Tabell 3-4. Antall arter (S) og individer (N), Shannon-Wieners diversitetsindeks (H’) og ES100 er gitt ved 
+stasjonsverdi (0,2 m2), og gjennomsnittlig grabbverdi (2 grabber). Øvrige indekser som er inkludert i 
+tabellen er de biotiske indeksene NQI1, ISI2012, NSI og DI. Normalisert ‘ecological ratio’ (nEQR) for alle 
+bløtbunnsindeksene er vist som gjennomsnittlig grabbverdi og på stasjonsnivå. DI er ikke inkludert i 
+gjennomsnittlig nEQR (pers. med. Miljødirektoratet 2017). Klassifisering av miljøtilstand er gitt i henhold 
+til Veileder 02:2013_2015 med bruk av nEQR-verdier. Miljøtilstand og tilstandsklasser er markert med 
+fargekoder iht. Veileder 02:2013_2015.Tabellen er hentet fra prøvingsrapporten for Jørstadskjera (DNV 
+GL, 2017). 
+Svært god 
+God 
+Moderat 
+Dårlig 
+Svært dårlig 
+ 
+Økologisk tilstand for bløtbunnsfauna 
+Stasjon 
+Grabb/stasjon 
+S 
+N 
+Es100 
+H' 
+NQI1 
+NSI 
+ISI2012 
+DI 
+Gj. Snitt 
+EQR 
+JØR 1 
+Grabbverdi 
+6 
+961 
+3 
+1,0 
+0,30 
+10,9 
+4,2 
+0,93 
+ 
+nEQR (gj. sn. grabb) 
+ 
+ 
+0,13 
+0,22 
+0,19 
+0,24 
+0,19 
+0,19 
+0,19 
+Stasjonsverdi 
+6 
+1922 
+3 
+1,0 
+0,30 
+11,0 
+4,5 
+ 
+ 
+nEQR (stasjon) 
+ 
+ 
+0,13 
+0,22 
+0,19 
+0,24 
+0,20 
+0,19 
+0,20 
+JØR 2 
+Grabbverdi 
+41 
+308 
+25 
+3,7 
+0,76 
+23,9 
+10 
+0,44 
+ 
+nEQR (gj.sn.grabb) 
+ 
+ 
+0,70 
+0,68 
+0,74 
+0,76 
+0,82 
+0,60 
+0,74 
+Stasjonsverdi 
+53 
+616 
+26 
+3,8 
+0,77 
+23,9 
+10 
+ 
+ 
+nEQR (stasjon) 
+ 
+ 
+0,70 
+0,69 
+0,74 
+0,76 
+0,83 
+0,60 
+0,74 
+JØR 4 
+Grabbverdi 
+60 
+332 
+34 
+4,4 
+0,76 
+23,3 
+9,8 
+0,45 
+ 
+nEQR (gj. sn. grabb) 
+ 
+ 
+0,80 
+0,76 
+0,74 
+0,73 
+0,81 
+0,59 
+0,77 
+Stasjonsverdi 
+88 
+663 
+35 
+4,7 
+0,77 
+23,2 
+10,1 
+ 
+ 
+nEQR (stasjon) 
+ 
+ 
+0,82 
+0,79 
+0,75 
+0,73 
+0,83 
+0,59 
+0,78 
+JØR 5 
+Grabbverdi 
+54 
+215 
+38 
+4,7 
+0,81 
+25,1 
+9,8 
+0,26 
+ 
+nEQR (gj. sn. grabb) 
+ 
+ 
+0,85 
+0,79 
+0,79 
+0,80 
+0,81 
+0,83 
+0,81 
+Stasjonsverdi 
+88 
+430 
+43 
+5,3 
+0,83 
+25,5 
+10 
+ 
+ 
+nEQR (stasjon) 
+ 
+ 
+0,91 
+0,91 
+0,81 
+0,82 
+0,82 
+0,83 
+0,85 
+ 
+Tabell 3-5. De ti mest vanlige artene for hver stasjon (eksklusive juvenile), Jørstadskjera 2017 (DNV GL, 
+2017). 
+JØR 1 
+Antall 
+% 
+Kum% 
+ 
+JØR 2 
+Antall % 
+Kum% 
+Capitella 
+1343 
+70 
+70 
+ 
+Paramphinome jeffreysii 
+234 
+38 
+38 
+Paramphinome jeffreysii 
+542 
+28 
+98 
+ 
+Onchnesoma steenstrupii 
+t
+t
+ii
+77 
+13 
+50 
+Thyasira sarsii 
+27 
+1 
+99 
+ 
+Amphilepis norvegica 
+30 
+5 
+55 
+Prionospio plumosa 
+6 
+0 
+99,8 
+ 
+Terebellides 
+29 
+5 
+60 
+Chaetozone setosa 
+3 
+0 
+100 
+ 
+Parathyasira dunbari 
+27 
+4 
+64 
+Eunereis longissima 
+1 
+0 
+100 
+ 
+Heteromastus filiformis 
+25 
+4 
+69 
+ 
+ 
+ 
+ 
+ 
+Nucula tumidula 
+19 
+3 
+72 
+ 
+ 
+ 
+ 
+ 
+Eriopisa elongata 
+16 
+3 
+74 
+ 
+ 
+ 
+ 
+ 
+Lumbrineris aniara 
+14 
+2 
+76 
+ 
+ 
+ 
+ 
+ 
+Rhodine loveni 
+13 
+2 
+79 
+Totalt antall taxa     6 
+ 
+ 
+ 
+ 
+Totalt antall taxa     53 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JØR 4 
+Antall 
+% 
+Kum% 
+ 
+JØR 5 
+Antall % 
+Kum% 
+Paramphinome jeffreysii 
+194 
+29 
+29 
+ 
+Paramphinome jeffreysii 
+77 
+18 
+18 
+Spiophanes kroyeri 
+54 
+8 
+37 
+ 
+Owenia borealis 
+28 
+7 
+24 
+Parathyasira dunbari 
+34 
+5 
+43 
+ 
+Onchnesoma steenstrupii 
+t
+t
+ii
+23 
+5 
+30 
+Aphelochaeta 
+32 
+5 
+47 
+ 
+Praxillella affinis 
+23 
+5 
+35 
+Heteromastus filiformis 
+26 
+4 
+51 
+ 
+Amythasides macroglossus 
+22 
+5 
+40 
+Praxillella affinis 
+25 
+4 
+55 
+ 
+Galathowenia oculata 
+20 
+5 
+45 
+Abyssoninoe 
+22 
+3 
+58 
+ 
+Aphelochaeta 
+18 
+4 
+49 
+Levinsenia gracilis 
+18 
+3 
+61 
+ 
+Parathyasira dunbari 
+10 
+2 
+51 
+Diplocirrus glaucus 
+15 
+2 
+63 
+ 
+Lumbrineris aniara 
+10 
+2 
+54 
+Amythasides macroglossus 
+14 
+2 
+65 
+ 
+Entalina tetragona 
+9 
+2 
+56 
+Totalt antall taxa       88 
+ 
+ 
+ 
+ 
+Totalt antall taxa       88 
+ 
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 17
+ 
+4 MILJØVURDERING AV LOKASJONEN 
+Analysene av kornstørrelse tyder på at Jørstadskjera er et strømrikt område med lite sedimentering av 
+fine partikler. Oksygenverdiene i bunnvannet lå i tilstandsklasse I «Svært god».  
+Lokalitetstilstanden til Jørstadskjera ble vurdert som beste «Tilstand 1» (NS 9410:2016), hvor: 
+• 
+målingene av surhetsgrad og redokspotensiale ga samlet beste «Tilstand 1». Prøvene fra 
+overgangssonen og fra referansestasjonen ga beste «Tilstand 1». De tre prøvene fra 
+anleggssonen ga nest beste «Tilstand 2» og nest dårligste «Tilstand 3».  
+• 
+de sensoriske observasjonene ga samlet sett for alle prøvene den beste «Tilstand 1». Prøvene 
+fra anleggssonen ga imidlertid nest beste «Tilstand 2». Sedimentet fra anleggssonen avga noe 
+H2S-lukt, noe som kan tyde på en påvirkning av bunnforholdene. Denne stasjonen hadde også 
+synlige rester av «fiskeskit» (fekalier) i sedimentet. Prøvene fra overgangssonen og 
+referansestasjonen ga beste «Tilstand 1».  
+Bunnfaunaen i anleggssonen ble vurdert som «God» i henhold til NS 9410:2016 og som «Svært dårlig» i 
+henhold til Veileder 02:2013_2015. Bunnfaunaen i overgangssonen og på referansestasjonen ble vurdert 
+som henholdsvis «God» og «Svært god» i henhold til Veileder 02:2013_2015. 
+Artssammensetningen og et lavt artsantall viste at bunnen i anleggssonen (stasjon Jør 1) var påvirket av 
+organisk tilførsel fra anlegget. På de andre stasjonene (overgangssone og referansestasjon) var det en 
+artsrik bunnfauna.   
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 18
+ 
+REFERANSER 
+Berge-Haveland F. 2016. Resipientgransking MOMB, lokalitet Jørstadskjæra, Finnøy kommune. 
+Resipientanalyse AS. Rapport nr. 1423-2016. 18 sider. 
+DNV GL, 2017. Prøvingsrapport; Finnøy 2017- Hesbygrunnen, Jørstadskjera, Låva og Prestholmane. 
+Rapportnr. 2017-0890. 
+Eilertsen, M & Olsen, BR 2017. Konsekvensutgreiing for oppdrettslokalitet Jørstadskjæra lok.nr. 30036 i 
+Finnøy kommune. Marint naturmangfald, naturressursar og nærmiljø og friluftsliv. Rådgivende Biologer 
+AS, rapport 2443, 33 sider, ISBN 978-82-8308-370-5. 
+Heggland, A., 2015. Strømrapport 30036 Jørstadskjæra. Noomas Sertifisering AS, Bergen. 
+Humberset, S. O., By, B. E., & Stokland, Ø. 2016.C-undersøkelse for Jørstadskjera med ASC 
+undersøkelse. Havbrukstjenesten AS, MCR-M-023- Jørstadskjera -0316. 
+ISO 16665:2014. Vannundersøkelse. Retningslinjer for kvantitativ prøvetaking og prøvebehandling av 
+marin bløtbunnsfauna (ISO 16665:2014). Standard Norge. ICS 13.060.70. 
+Mdir, 2019. Presisering av standard NS 9410:2016. Miljødirektoratet 24.04.2019. Ref. 2019/4341. 
+NS 9410:2016 Miljøovervåkning av bunnpåvirkning fra marine akvakulturanlegg. Standard Norge. ICS 
+13.020.40; 65.150. 
+Rygg B, Norling K. 2013. Norwegian Sensitivity Index (NSI) for marine macroinvertebrates and an 
+update of Indicator Species Index (ISI). NIVA report 6475-2013. 46 s 
+Rygg B. 2002. Indicator species index for assessing benthic ecological quality in marine waters of 
+Norway. NIVA rapport 4548-2002. 23 s 
+Tveranger, B., E. Brekke & G. H. Johnsen, 2006.  Straummålingar, botngransking og 
+lokalitetsklassifisering av ny oppdrettslokalitet ved Jørstadskjera, Ombo i Finnøy kommune Rådgivende 
+Biologer AS, rapport 939, 41 sider. 
+Veileder 02:2013_2015. Klassifisering av miljøtilstand i vann. Økologisk og kjemisk klassifiseringssystem 
+for kystvann, grunnvann, innsjøer og elver. Norsk klassifiseringssystem for vann i henhold til 
+vannforskriften. Revidert 2015.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNV GL  –  Report No. 2017-4163, Rev. 01  –  www.dnvgl.com 
+Page 19
+ 
+VEDLEGG A ANALYSERAPPORT SEDIMENT  
+Noen av prøvene i denne analyserapporten er feilmerket. Prøve merket «Jør 3» i analyserapporten 
+tilsvarer «Jør 4» i foreliggende rapport og prøve merket «Jør 4» i analyserapporten tilsvarer «Jør 5» i 
+foreliggende rapport.  
+ 
+ 
+Rapport
+ 
+Side 1 (2) 
+N1709130
+2NV2BZGGMJS
+ 
+__________________________________________________________________ 
+ALS Laboratory Group Norway AS 
+PB 643 Skøyen, N-0214 Oslo 
+ 
+ALS avd. ØMM-Lab 
+Yvenveien 17, N-1715 Yven 
+E-post:  info.on@alsglobal.com 
+Tel: + 47 22 13 18 00 
+ 
+Epost: info.srp@alsglobal.com 
+Tel: + 47 69 13 78 80 
+ 
+Web: www.alsglobal.no
+Dokumentet er godkjent 
+og digitalt undertegnet 
+av Rapportør 
+ 
+ 
+  
+ 
+  
+Mottatt dato 
+2017-06-07 
+DNV GL AS 
+Utstedt 
+2017-06-13 
+Øyvind Tvedten 
+ 
+ 
+  
+ 
+ 
+Veritasveien 25 
+ 
+ 
+N-4007 Stavanger 
+ 
+ 
+Norway 
+ 
+Prosjekt 
+Bremnes Seashore Finnøy 
+ 
+Bestnr 
+10049405 
+ 
+ 
+ 
+Analyse av sediment  
+  
+ 
+Deres prøvenavn 
+Jør 1
+  
+Sediment 
+ 
+Labnummer 
+N00505823 
+Analyse
+Resultater
+Usikkerhet (±)
+Enhet
+Metode 
+Utført
+Sign
+Kornfordeling
+----------
+ 
+se vedl. 
+1 
+1 
+NADO 
+Kornstørrelse >63 µm
+44.3
+4.4 
+% 
+1 
+1 
+NADO 
+Kornstørrelse 63-2 µm
+52.0
+5.2 
+% 
+1 
+1 
+NADO 
+Kornstørrelse <2 µm
+3.7
+0.4 
+% 
+1 
+1 
+NADO 
+ 
+ 
+Deres prøvenavn 
+Jør 2
+  
+Sediment 
+ 
+Labnummer 
+N00505824 
+Analyse
+Resultater
+Usikkerhet (±)
+Enhet
+Metode 
+Utført
+Sign
+Kornfordeling
+----------
+ 
+se vedl. 
+1 
+1 
+NADO 
+Kornstørrelse >63 µm
+3.2
+0.3 
+% 
+1 
+1 
+NADO 
+Kornstørrelse 63-2 µm
+89.1
+8.9 
+% 
+1 
+1 
+NADO 
+Kornstørrelse <2 µm
+7.7
+0.8 
+% 
+1 
+1 
+NADO 
+ 
+ 
+Deres prøvenavn 
+Jør 3
+  
+Sediment 
+ 
+Labnummer 
+N00505825 
+Analyse
+Resultater
+Usikkerhet (±)
+Enhet
+Metode 
+Utført
+Sign
+Kornfordeling
+----------
+ 
+se vedl. 
+1 
+1 
+NADO 
+Kornstørrelse >63 µm
+54.8
+5.5 
+% 
+1 
+1 
+NADO 
+Kornstørrelse 63-2 µm
+41.8
+4.2 
+% 
+1 
+1 
+NADO 
+Kornstørrelse <2 µm
+3.4
+0.3 
+% 
+1 
+1 
+NADO 
+ 
+ 
+Deres prøvenavn 
+Jør 4
+  
+Sediment 
+ 
+Labnummer 
+N00505826 
+Analyse
+Resultater
+Usikkerhet (±)
+Enhet
+Metode 
+Utført
+Sign
+Kornfordeling
+----------
+ 
+se vedl. 
+1 
+1 
+NADO 
+Kornstørrelse >63 µm
+94.3
+9.4 
+% 
+1 
+1 
+NADO 
+Kornstørrelse 63-2 µm
+5.4
+0.5 
+% 
+1 
+1 
+NADO 
+Kornstørrelse <2 µm
+0.3
+0.03 
+% 
+1 
+1 
+NADO 
+ 
+Rapport
+ 
+Side 2 (2) 
+N1709130
+2NV2BZGGMJS
+ 
+__________________________________________________________________ 
+ALS Laboratory Group Norway AS 
+PB 643 Skøyen, N-0214 Oslo 
+ 
+ALS avd. ØMM-Lab 
+Yvenveien 17, N-1715 Yven 
+E-post:  info.on@alsglobal.com 
+Tel: + 47 22 13 18 00 
+ 
+Epost: info.srp@alsglobal.com 
+Tel: + 47 69 13 78 80 
+ 
+Web: www.alsglobal.no
+Dokumentet er godkjent 
+og digitalt undertegnet 
+av Rapportør 
+ 
+ 
+  
+ 
+  
+*etter parameternavn indikerer at analysen er utført uakkreditert ved ALS Laboratory Group Norway AS eller 
+underleverandør. Utførende laboratorium er oppgitt i tabell kalt Utf. 
+n.d. betyr ikke påvist. 
+n/a betyr ikke analyserbart. 
+< betyr mindre enn. 
+> betyr større enn. 
+ 
+ 
+ 
+Metodespesifikasjon
+1 
+Kornstørrelse 2-63µm 
+ 
+Metode: 
+ISO 11277:2009 
+Måleprinsipp: 
+Sikting og laser diffraksjon 
+Rapporteringsgrenser: 
+>63 µm (sand) 0,1% 
+ 
+63-2 µm (silt) 
+ 
+0,1% 
+ 
+<2 µm (leire) 
+ 
+0,1% 
+Andre opplysninger: 
+Det målbare området ved denne metoden spenner fra 2µm – 63mm. 
+ 
+ 
+ 
+ 
+Godkjenner
+NADO 
+Nadide Dönmez 
+ 
+ 
+ 
+Utf1
+1 
+Ansvarlig laboratorium: 
+ALS Laboratory Group, ALS Czech Republic s.r.o, Na Harfě 9/336, Praha, Tsjekkia 
+ 
+Lokalisering av andre ALS laboratorier: 
+ 
+Ceska Lipa 
+ Bendlova 1687/7, 470 03 Ceska Lipa 
+Pardubice 
+ V Raji 906, 530 02 Pardubice 
+ 
+Kontakt ALS Laboratory Group Norge, for ytterligere informasjon 
+ 
+ 
+ 
+ 
+Måleusikkerheten angis som en utvidet måleusikkerhet (etter definisjon i "Evaluation of measurement data – Guide to the 
+expression of uncertainty in measurement”, JCGM 100:2008 Corrected version 2010) beregnet med en dekningsfaktor på 
+2 noe som gir et konfidensinterval på om lag 95%. 
+ 
+Måleusikkerhet fra underleverandører angis ofte som en utvidet usikkerhet beregnet med dekningsfaktor 2. For ytterligere 
+informasjon, kontakt laboratoriet. 
+ 
+Måleusikkerhet skal være tilgjengelig for akkrediterte metoder. For visse analyser der dette ikke oppgis i rapporten, vil dette 
+oppgis ved henvendelse til laboratoriet. 
+ 
+Denne rapporten får kun gjengis i sin helhet, om ikke utførende laboratorium på forhånd har skriftlig godkjent annet. 
+Resultatene gjelder bare de analyserte prøvene. 
+Angående laboratoriets ansvar i forbindelse med oppdrag, se aktuell produktkatalog eller vår webside www.alsglobal.no 
+ 
+ 
+ 
+Den digitalt signert PDF-fil representerer den opprinnelige rapporten. Eventuelle utskrifter er å anse som kopier. 
+ 
+ 
+                                                          
+1 Utførende teknisk enhet (innen ALS Laboratory Group) eller eksternt laboratorium (underleverandør). 
+ 
+ 
+ 
+ 
+ 
+About DNV GL 
+Driven by our purpose of safeguarding life, property and the environment, DNV GL enables organizations 
+to advance the safety and sustainability of their business. We provide classification and technical 
+assurance along with software and independent expert advisory services to the maritime, oil & gas and 
+energy industries. We also provide certification services to customers across a wide range of industries. 
+Operating in more than 100 countries, our professionals are dedicated to helping our customers make 
+the world safer, smarter and greener.

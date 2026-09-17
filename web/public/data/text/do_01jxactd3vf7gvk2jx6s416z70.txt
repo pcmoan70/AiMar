@@ -1,0 +1,206 @@
+﻿Modellering av spredning av ILA smitte fra lokalitet 23436 Bjørnholmen. 
+ 
+ 
+ 
+ 
+Bjørn Ådlandsvik  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Havforskningsinstituttet 
+2022 
+ 
+ 
+Kunnskapsstøtte fra Havforskningsinstituttet, 
+Modellering av spredning av ILA smitte fra lokalitet 23436 Bjørnholmen 
+ 
+Bestilling 
+I e-post 18.11.2022 fra Cecilie Ihle og Synnøve Hodneland bestiller Mattilsynet 
+spredningssimuleringer fra lokalitet 23436 Bjørnholmen i Solund kommune hvor det er påvist ILA. 
+Posisjonen er 61,20625 °N, 4,935933 °Ø, der Dumbefjorden og Åfjorden møtes. 
+ 
+Metode 
+For å vurdere smitterisikoen fra Bjørnholmen til de omliggende områder og lokaliteter har 
+Havforskningsinstituttet modellert spredningen av infeksiøse ILA-virus fra lokaliteten, og beregnet 
+andel av potensielt virusutslipp til relevante, nærliggende lokaliteter.  
+Havforskningsinstituttet har modellert spredning fra lokaliteten 23436 Bjørnholmen med en 
+kombinasjon av en sirkulasjonsmodell med 160 meters oppløsning, NorFjords160 
+(https://www.hi.no/hi/temasider/hav-og-kyst/modeller), og partikkelspredningsmodellen LADiM 
+(https://github.com/bjornaa/ladim). Denne kombinasjonen er brukt i flere sammenhenger for 
+spredning av lakselus og virus, (for mer detaljer, se Huserbråten m.fl., 2020). For å få med et 
+representativt utvalg av vær- og strømsituasjoner har simuleringen en varighet på et helt år (2020). I 
+denne simuleringen slippes det hver time 25 partikler fra nærmeste gridcelle til sjøs. Partiklene er 
+sluppet ut i dyp på 5 meter. Viruspartiklene antas å ha en konstant dødelighet, med halveringstid på 2 
+døgn og maksimal levetid på 5 døgn. Resultatene viser gjennomsnittlig mengde av viruspartikler i 
+områdene rundt anlegget. Tabell over nærliggende lokaliteter viser smittekontakt i prosent av 
+smittekonsentrasjonen ved kilden. 
+Resultatene viser utbredelse av partikler som driver i et fast dyp og som har en gitt levetid, basert på 
+strømbildet over et helt år. I kortere perioder, avhengig av vær- og strømforhold, vil fordelingen 
+avvike fra dette. 
+Resultater 
+Den midlete overflatestrømmen i områder fra modellen er vist i Figur 1. Lokaliteten ligger i rolig 
+farvann, men rett nord for lokaliteten er det en relativt sterk utgående strøm i ytre del av Åfjorden. 
+Denne strømmen svinger nordover og blir bredere og noe svakere mot Aldefjorden. Her møter den 
+også utgående strøm fra Dalsfjorden/Vilnesfjorden. Det må understrekes at dette er et middelbilde, 
+overflatestrøm har stor variabilitet og kan avvike betydelig fra dette middel ved et gitt tidspunkt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 1. Modellert overflatestrøm, midlet fra hele året 2020. Fargeskalaen angir strømhastighet i m/s. 
+Bjørnholmen er markert med kors i en sirkel. 
+Resultatene fra spredningsmodellen summeres til et spredningskart (Figur 2) som angir 
+sannsynligheten for at en 160 meters gridcelle skal inneholde en virus-partikkel fra Bjørnholmen 
+dersom det var et kontinuerlig utslipp fra kilden hele året. Avstand på 5 km og 10 km fra smittekilden 
+er markert som grå ringer i kartet. Smittepresset tynnes fort ut og det er derfor brukt en logaritmisk 
+skala som viser detaljer også der smittepresset er lavt. Spredningskartet er normalisert slik at 
+fargeskala angir potensielt smittepress i prosent av smittepresset ved Bjørnholmen selv. I kortere 
+perioder, ved spesielle strømsituasjoner, kan smittepresset avvike fra dette bildet. 
+Det er høyt smittepress i og rett utenfor Dumbefjorden/Austrefjorden. Smittespredningen går deretter i 
+alle retninger, men mest mot vest og nord i samsvar med strømbildet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 2. 
+Spredningsplott fra 23436 Bjørnholmen. Fargeskalaen viser potensielt smittepress normalisert til prosent av 
+smittepresset ved kilden.Også inntegnet nærliggende lokaliteter fra Tabell 1. Sirklene har radius 5 og 10 km. 
+ 
+Det potensielle smittepresset på nærliggende lokaliteter summeres opp i Tabell 1, som inneholder alle 
+lokaliteter nærmere enn 15 km og det er brukt en nedre terskel på 0,02% smittepress. Det er selvsagt 
+svært høyt smittepress på nabolokaliteten Klippenesvika og høyt på Klubben som også ligger innenfor 
+5 km. Deretter følger noen lokaliteter nordover i Fjaler og Askvoll. Lokaliteter nær 10 km grensen i 
+sørøst kommer lengre ned på listen. 
+Det er vanskelig å angi en «trygg» prosentsats. Dette avhenger bl.a. av manglende kunnskap om hvor 
+mye smitte som slippes ut, dødelighet til viruset og hvor stor dose som innebærer en reell smittefare. 
+Det som er robust er rekkefølgen, om sannsynligheten for smitte til anlegg A er større enn 
+sannsynligheten til for smitte til anlegg B. Dette, sammenholdt med avstanden til kilden, kan gi en 
+pekepinn på hvor en legger ulike soner. 
+ 
+ 
+ 
+ 
+Id 
+Navn 
+Avstand [km] 
+Smittepress [%] 
+39297 
+Klippenesvika 
+0,7 
+14,71 
+12980 
+Klubben 
+4,7 
+0,29 
+45124 
+Laukelandsøyna 
+12,5 
+0,12 
+33597 
+Grytøyraholmen 
+10,5 
+0,09 
+11793 
+Ånnaholmene 
+14,3 
+0,07 
+10317 
+Garvik 
+12,5 
+0,06 
+11814 
+Furevika 
+13,3 
+0,05 
+11688 
+Portevika 
+8,0 
+0,04 
+11813 
+Svinøy V 
+14,1 
+0,03 
+12982 
+Aldeøyna 
+14,7 
+0,03 
+33077 
+Elveneset 
+10,5 
+0,03 
+35397 
+Tussaneset 
+15,5 
+0,02 
+11835 
+Kleivaholmen 
+14,3 
+0,02 
+38577 
+Skreda 
+10,3 
+0,02 
+29656 
+Juvika 
+12,1 
+0,02 
+11803 
+Kyravika 
+17,3 
+0,02 
+10087 
+Kalvøya N 
+17,6 
+0,02 
+ 
+Tabell 1. Potensielt smittepress til nærliggende lokaliteter. Kolonnene er lokalitetsnummer, lokalitetsnavn, 
+avstand fra Bjørnholmen  i km luftlinje og potensielt smittepress i prosent av smittepresset ved kilden. 
+ 
+Oppsummering 
+Det er få lokaliteter innenfor 5 og 10 km sirklene omkring Bjørnholmen. Utover dette er det 
+potensielle smittepresset høyest mot nord og det kan vurderes en utvidet overvåkningssone i 
+den retningen. 
+ 
+ 
+Referanse 
+Huserbråten m.fl. 2020, Endret lokalitetsstruktur i produksjonsområde 3 – vurdert virkning på 
+spredning av lakselus, pankreassykdom og infektiøs lakseanemi, Rapport fra Havforskningen 2020-
+12.

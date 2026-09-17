@@ -1,0 +1,306 @@
+﻿1
+96-4-17S Træna 
+AQUA KOMPETANSE 
+AS
+2017
+Etter Norsk Standard NS 9425-1: 1999
+AQUA KOMPETANSE 
+AS
+Vannstrømmåling ved
+utslippspunkt, Træna,
+mars - april 2017
+Gaia Salmon AS
+2 
+96-4-17S Træna 
+AQUA KOMPETANSE AS 
+ 
+   
+Rapportens tittel:  
+Vannstrømmåling ved utslippspunkt, Træna, mars - april 2017 
+Dato for rapport: 25.04.2017 
+Måleperiode: 
+ 02.03 - 10.04.2017 
+Antall sider uten vedlegg: 10 
+Antall sider totalt: 10 
+Forfatter(e): 
+Anja Pedersen 
+Prosjektleder:  
+Anja Pedersen 
+Prosjekt-/rapport nr.:  
+96-4-17S 
+Oppdragsgiver: 
+Gaia Salmon AS   
+Tilgjengelighet:  
+På forespørsel 
+Instrumenttype: 
+1 SD 6000 rotormålere 
+Dybde målested: 
+Ca. 28 meter 
+GPS-koordinater, 
+instrumentrigg: 
+ 66°29.622 N 
+ 12°10.855 Ø 
+Fylke: Nordland 
+Kommune: Træna 
+ 
+Resultatoversikt: 
+Utslippsledning, Træna 
+ 
+25 meter 
+Gjennomsnitt (cm/s): 
+7 
+Maksimalhastighet, (cm/s): 
+35 
+Strømstyrke 0-1 cm/s (%): 
+0.45 
+Strømstyrke 1-3 cm/s (%): 
+5.94 
+Neumann parameter: 
+0.352 
+10-års strøm, beregnet: 
+57.8 
+50-års strøm, beregnet: 
+64.8 
+Emneord: Vannstrøm, rotor, utslippspunkt 
+Ansvarlig for: 
+Dato: 
+Signatur: 
+Rapportering: Anja Iselin Pedersen 
+25.04.2017 
+ 
+Kvalitetssikring: Linda Hagen 
+27.04.2017 
+ 
+ 
+ 
+© 2017 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+3 
+96-4-17S Træna 
+AQUA KOMPETANSE AS 
+ 
+Innholdsfortegnelse 
+Innholdsfortegnelse ........................................................................................................................................... 3 
+Innledning .......................................................................................................................................................... 4 
+Materiale og metode ......................................................................................................................................... 5 
+Kort vurdering .................................................................................................................................................... 6 
+Resultater .......................................................................................................................................................... 6 
+Tidsserie – strømhastighet ............................................................................................................................ 7 
+Tidsserie – strømretning ............................................................................................................................... 7 
+Strømrose – gjennomsnittlig strømhastighet ............................................................................................... 8 
+Strømrose – maksimal strømhastighet ......................................................................................................... 8 
+Histogram – strømhastighet ......................................................................................................................... 9 
+Histogram – strømretning ............................................................................................................................. 9 
+Histogram – strømretning og hastighet ...................................................................................................... 10 
+Strømrose – vanntransport (fluks) .............................................................................................................. 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+96-4-17S Træna 
+AQUA KOMPETANSE AS 
+ 
+Innledning 
+Aqua Kompetanse AS har på oppdrag fra Gaia Salmon AS analysert strømmålinger ved utslippspunkt i Træna 
+kommune (Figur 1 og 2). Instrumentet ble satt ut og tatt opp av J.R. dykkerservice AS. Rapporten presenterer 
+en oppsummering av resultatene fra strømmålingen, og er bygd på forutsetningen om at du/dere studerer 
+vedlagt data nøye selv. Strømmålingene ble foretatt i perioden 02. mars til 10. april 2017. Rådata finnes 
+oppbevart hos Aqua Kompetanse AS, og er tilgjengelig ved forespørsel. 
+ 
+ 
+ 
+Figur 1: Oversiktskart over Træna. Innrammet kartutsnitt i rødt viser undersøkelsesområdet ved utslippspunktet til 
+Gaia. Kartkilde: Olex 
+ 
+ 
+Figur 2: Undersøkelsesområdet ved utslippspunktet til Gaia. Posisjon for plassering av strømrigg er markert med grønt 
+kryss.  Kartkilde: Olex 
+ 
+5 
+96-4-17S Træna 
+AQUA KOMPETANSE AS 
+ 
+Materiale og metode 
+Strømmålingene i utslippspunkt ved Træna er gjennomført i henhold til NS 9425-1:1999. For å måle 
+vannstrøm ble det benyttet en SD 6000 rotor strømmåler, produsert av Sensordata AS.  
+ 
+Instrumentene måler i monteringsdypet. Måleren registrerer et gjennomsnitt hvert andre minutt og bruker 
+fem delintervaller til å gi et 10 minutts middel. 
+ 
+ 
+Tabell 1. Informasjon om oppsett, instrument-ID og måletidspunkt. 
+Parameter 
+Rotor A30 
+Målertype  
+ 
+SD 6000 rotor 
+Hode ID / Kort ID 
+1117 
+Målernummer 
+A30 
+Frekvens 
+- 
+Måleretning 
+Opp 
+Måleintervall (min) 
+10 
+Midlingsperiode (min) 
+10 
+Antall celler (#) 
+- 
+Cellestørrelse (meter) 
+- 
+Instrumentdyp (meter) 
+25 
+Tidsrom for gyldige registreringer 
+02.03.2017 15.20- 
+10.04.2017 11.20 
+ 
+Det er foretatt en kvalitetskontroll av datasettet, ingen målinger i utvalgt tidsrom er fjernet. 
+ 
+Rotormålere har en tendens til å underrapportere hastigheter under ca. 6 cm/s i forhold til dopplermålere. 
+Det er også fare for at helning på instrumentet ved høye strømhastigheter kan underestimere de sterkeste 
+toppene (grunnet vinkelen mellom innkommende vannstrøm og instrumentets vertikale akse).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+96-4-17S Træna 
+AQUA KOMPETANSE AS 
+ 
+Kort vurdering 
+Det er registrert gode gjennomsnittlige hastigheter i målepunktet, med hyppige strømakslerasjoner over 15 
+cm/s i måleperioden. Det er også få registreringer av hastigheter under 1 cm/s. Dette bør bidra positivt til 
+spredning av organisk materiale fra et utslipp i området av målepunktet. 
+ 
+Resultater  
+I denne måleserien er gjennomsnittlig vannstrøm 7 cm/s, mens maksimalstrømmen er 35 cm/s på 25 meters 
+dyp ved utslippsledningen til Gaia Salmon. Det er registrert lite strømstille gjennom hele måleperioden. 
+ 
+Vannutskiftningen på 25 meters dyp er i hovedsak rettet mot nord-nordøst, men med en mindre komponent 
+i motsatt retning. 
+ 
+Vanndynamikken i måleperioden er tidevannstyrt, men med perioder med ensrettet strømretning. Retningen 
+til strømmen ser i stor grad ut til å gå langs med øygruppen Træna 
+ 
+Nedenfor presenteres tabeller og figurer med statistikk og resultater. 
+ 
+Tabell 2: Statistikk 
+Parameter 
+25 meter 
+Gyldige målinger / totalt (#) 
+5593/5593 
+Gjennomsnittsstrøm (cm/s) 
+7 
+Maksimalhastighet (cm/s) 
+35 
+Strømstyrke 0-1 cm/s (%) 
+0.45 
+Strømstyrke 1-3 cm/s (%) 
+5.94 
+Neumannsparameter 
+0.352 
+Standardavvik (cm/s) 
+4 
+Signifikant maksimum 
+strømhastighet (cm/s) 
+12 
+Signifikant minimum 
+strømhastighet (cm/s) 
+4 
+10 års returstrøm (cm/s) 
+57.8 
+50 års returstrøm (cm/s) 
+64.8 
+De 4 hyppigst forekommende 
+strømretningsgruppene (°) 
+15 - 30 
+0 - 15 
+30 - 45 
+195 - 210 
+De 4 hyppigst forekommende 
+strømhastighetsgruppene 
+(cm/sek) 
+3 - 5 
+5 - 7 
+7 - 9 
+9 - 11 
+Mest vannutskiftning / 
+retning / 15 graders sektor 
+1457 m3/m2 per dag 
+ved 15 - 30 
+Minst vannutskiftning / 
+retning / 15 graders sektor 
+8 m3/m2 per dag  
+ved 105 - 120 
+ 
+7
+96-4-17S Træna 
+AQUA KOMPETANSE 
+AS
+Tidsserie – strømhastighet
+Figur 3: Vannstrømhastighet (cm/s) på 25 meters dyp ved utslippspunktet til Gaia i perioden 02. mars - 10. april 2017.
+Tidsserie – strømretning
+Figur 4: Vannstrømretning (grader) på 25 meters dyp ved utslippspunktet til Gaia i perioden 02. mars - 10. april 2017.
+Oppgis som retningen vannstrømmen beveger seg mot.
+8
+96-4-17S Træna 
+AQUA KOMPETANSE 
+AS
+Strømrose – gjennomsnittlig strømhastighet
+Figur 5: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15 ° sektor på 25 meters dyp ved utslippspunktet til Gaia i
+perioden 02. mars - 10. april 2017.
+Strømrose – maksimal strømhastighet
+Figur 6: Maksimal vannstrømhastighet (cm/s) for hver 15 ° sektor på 25 meters dyp ved utslippspunktet til Gaia i
+perioden 02. mars - 10. april 2017.
+9
+96-4-17S Træna 
+AQUA KOMPETANSE 
+AS
+Histogram – strømhastighet
+Figur 7: Frekvensfordeling av vannstrømhastighet på 25 meters dyp ved utslippspunktet til Gaia i perioden 02. mars -
+10. april 2017.
+Histogram – strømretning
+Figur 8: Frekvensfordeling av vannstrømretning for hver 15 ° sektor på 25 meters dyp ved utslippspunktet til Gaia i
+perioden 02. mars - 10. april 2017. Oppgis som retningen vannstrømmen beveger seg mot.
+10
+96-4-17S Træna 
+AQUA KOMPETANSE 
+AS
+Histogram – strømretning og hastighet
+Figur 9: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (grader) på 25 meters
+dyp ved utslippspunktet til Gaia i perioden 02. mars - 10. april 2017.
+Strømrose – vanntransport (fluks)
+Figur 10: Vanntransport (m³/m²/dag) for hver 15 ° sektor på 25 meters dyp ved utslippspunktet til Gaia i perioden 02.
+mars - 10. april 2017.

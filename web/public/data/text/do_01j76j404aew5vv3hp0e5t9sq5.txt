@@ -1,0 +1,1998 @@
+﻿1880-2-23S SANDVIKA 
+ 
+ 
+ 
+ 
+ 
+                        
+ 
+Vannstrømmåling ved 
+Sandvika, Nesna kommune, 
+november 2022 – februar 2023 
+ 
+Kime Akva AS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Etter Norsk Standard NS 9425-1:1999 og NS 9425-2:2003 
+   AQUA KOMPETANSE AS 
+ 
+ 
+2023 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+1 
+ 
+ 
+Rapportens tittel: 
+Vannstrømmåling ved Sandvika, Nesna kommune, november 2022 - februar 2023 
+Måleperiode: 
+15.11.2022–15.02.2023 
+Rapportdato: 16.03.2023 
+Rapportnummer: 1880-2-23S 
+Antall sider uten vedlegg: 34 
+Antall sider totalt: 36 
+Oppdragsgiver: 
+Kime Akva AS 
+Kontaktperson: 
+Stefan Paulsen 
+Prosjektleder: 
+Erlend A. Mundal 
+Lokalitet: Sandvika 
+Kommune: Nesna 
+Fylke: Nordland 
+Instrumenttype: 
+1 Aquadopp Profiler 
+2 Aquadopp Current Meter 
+Dybde målested: 
+ca. 139 meter 
+Koordinater for instrumentrigg: 
+66°17.523 N, 12°53.747 Ø 
+Resultatoversikt 
+5 meter 
+15 meter 
+74 meter 
+138 meter 
+Gjennomsnitt (cm/s): 
+9.6 
+8.1 
+7.4 
+2.9 
+Maksimalhastighet (cm/s): 
+35.2 
+33.4 
+20.7 
+13.2 
+Minimumshastighet (cm/s): 
+0.1 
+0.1 
+0.0 
+0.0 
+Varians (cm²/s²): 
+32.6 
+26.4 
+14.7 
+2.7 
+Strømstyrke 0-1 cm/s (%): 
+1.1 
+1.6 
+1.4 
+9.6 
+10-års strøm, beregnet: 
+58.1 
+55.2 
+- 
+- 
+50-års strøm, beregnet: 
+65.1 
+61.8 
+- 
+- 
+Hovedstrømretning: 
+sørøst 
+sør-sørøst 
+sørøst 
+sør 
+ 
+Emneord: 
+havstrøm, vannstrøm, overflatestrøm, dimensjoneringsstrøm, 
+vannutskiftning, spredningsstrøm, bunnstrøm, Aquadopp Profiler, 
+Aquadopp Current Meter, doppler 
+ID 2268-1.1 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig: 
+ 
+ 
+Erlend A. Mundal 
+Kvalitetssikrer: 
+ 
+Hege G. Frøysa  
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org.nr.: 982 226 163 
+© 2023 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+2 
+Innhold 
+Innledning .............................................................................................................................................. 3 
+Materiale og metode .............................................................................................................................. 4 
+Kort vurdering ........................................................................................................................................ 6 
+Resultater .............................................................................................................................................. 6 
+Tidsserie - strømhastighet ................................................................................................................... 8 
+Tidsserie - strømretning..................................................................................................................... 10 
+Strømrose - gjennomsnittlig strømhastighet ....................................................................................... 12 
+Strømrose - maksimal strømhastighet ................................................................................................ 14 
+Histogram - strømhastighet ............................................................................................................... 16 
+Histogram - strømretning .................................................................................................................. 18 
+Spredningsdiagram - strømretning og -hastighet ................................................................................. 20 
+Strømrose - vanntransport (fluks) ...................................................................................................... 22 
+Vektor - progressiv vektor.................................................................................................................. 24 
+Sensorer - trykk registrert av instrument ............................................................................................ 26 
+Sensorer - instrumenthelning (tilt) ..................................................................................................... 28 
+Sensorer - sjøtemperatur................................................................................................................... 30 
+Tabell - retning med returperiode ...................................................................................................... 32 
+Tabell - matrise med retnings- og hastighetsgrupper ........................................................................... 33 
+Vedlegg A - riggtegning ......................................................................................................................... 35 
+Vedlegg B – meteorologi ....................................................................................................................... 36 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+3 
+Innledning 
+Aqua Kompetanse AS har på oppdrag fra Kime Akva AS utført strømundersøkelser ved Sandvika i Nesna 
+kommune (Figur 1 og 2). Aqua Kompetanse har stått for instrumentutsett, kvalitetssikring av data samt 
+rapportering. Rapporten presenterer en oppsummering av resultatene fra strømmålingene, og er bygd på 
+forutsetningen om at leseren studerer følgende data og figurer nøye. Strømmålingene ble foretatt i perioden 
+15.11.2022–15.02.2023 for overflate- og dimensjoneringsdypet, med avlesning 16.12.2022, og i perioden 
+15.11.–16.12.2022 for sprednings- og bunndypet. Ved måletidspunktet var det ingen anlegg i sjø. Rådata 
+finnes oppbevart hos Aqua Kompetanse AS, og er tilgjengelig ved forespørsel. 
+ 
+Figur 1: Oversiktskart over deler av Nesna kommune, samt deler av Lurøy kommune. Innrammet kartutsnitt i rødt viser 
+undersøkelsesområdet ved Sandvika. Målestokk vises øverst i figuren. Kartkilde: Olex. 
+ 
+Figur 2: Undersøkelsesområdet ved Sandvika. Posisjon for plassering av strømrigg er markert med grønt kryss, og 
+anleggsrammen for Sandvika er vist i svart. Målestokk vises øverst i figuren. Kartkilde: Olex. 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+4 
+Materiale og metode 
+Strømmålingene ved Sandvika er gjennomført i henhold til NS 9425-1:1999 og NS 9425-2:2003. For å måle 
+vannstrøm er det benyttet tre akustiske strømmålere produsert av Nortek AS; en 400 kHz profilerende måler 
+og to 2000 kHz punktmålere. Akustiske strømmålere bruker dopplerskift for å beregne strømhastighet og -
+retning, og refereres ofte til som dopplermålere. Instrumentene er montert pekende oppover i en 
+bunnforankret rigg (se Vedlegg A for riggtegning), der den profilerende måleren er montert på 28 meters 
+dyp, og punktmålerne er montert på 74 og 138 meters dyp pekende oppover. Den profilerende måleren har 
+et instrumentoppsett på 25 celler × 2 meter som gir en rekkevidde på 50 meter. Punktmålerne måler i 
+monteringsdypet. Det er omtrent 139 meter dypt på målestedet. Punktmålerne registrerer i 1 minutt og 30 
+sekunder sammenhengende og hviler i 8 minutter og 30 sekunder, mens den profilerende måleren 
+registrerer i 1 minutt og 40 sekunder sammenhengende og hviler i 8 minutter og 20 sekunder. 
+Tabell 1: Informasjon om oppsett, instrument-ID og måletidspunkt. 
+Parametere 
+AQK22 
+AQK47 
+AQK48 
+Målertype 
+Aquadopp Profiler 
+Aquadopp Current Meter 
+Aquadopp Current Meter 
+Målernummer 
+AQK22 
+AQK47 
+AQK48 
+Hode-ID / Kort-ID 
+AQP11811/AQD17072 
+AQD10441/AQD15770 
+AQD11793/AQD17468 
+Frekvens (kHz) 
+400 
+2000 
+2000 
+Måleretning 
+Opp 
+Opp 
+Opp 
+Kompassoppdateringsrate 
+1 
+1 
+1 
+Måleintervall (s) 
+600 
+600 
+600 
+Midlingsperiode (s) 
+100 
+90 
+90 
+Målebelastning (%) 
+100 
+52 
+52 
+Antall celler (#) 
+25 
+- 
+- 
+Cellestørrelse (m) 
+2 
+- 
+- 
+Blindsone (m) 
+1.00 
+0.35 
+0.35 
+Instrumentdyp (m) 
+27.8 
+74.2 
+137.9 
+Tidsrom for gyldige 
+registreringer 
+15.11.2022 18.30 - 
+15.02.2023 08.20 
+15.11.2022 19.12 - 
+16.12.2022 10.22 
+15.11.2022 19.14 - 
+16.12.2022 10.14 
+Lengde måleperiode (dager) 
+91.2 
+30.6 
+30.6 
+ 
+I denne måleserien er det tatt utgangspunkt i et merddyp på 23 meter, og dybden på målestedet er omtrent 
+139 meter. Vannutskiftningsstrøm skal måles i halve dypet av planlagt merddyp, altså 11.5 meters dyp i dette 
+tilfellet. I denne rapporten presenteres overflatestrøm på 5 meters dyp og dimensjoneringsstrøm på 15 
+meters dyp, som anses å representere vannutskiftningsstrømmen tilstrekkelig. 
+Spredningsstrømmen skal måles midt mellom merdbunnen og sjøbunnen (maksimalt 50 meter under 
+notbunn), og vil i dette tilfellet være på 73 meters dyp. Spredningsstrømmen er i dette tilfellet hentet fra 74 
+meters dyp, vel innenfor avviksgrensen på 10 % av totaldypet. Bunnstrømmen skal måles 1 meter over 
+bunnen, og skal i dette tilfellet være hentet fra 138 meters dyp. Strømdata for bunnstrømmen er i dette 
+tilfellet hentet ut for dette dypet. 
+Det er foretatt en manuell og automatisk kvalitetskontroll av datasettene med programvarene SeaReport og 
+Storm. Datasettene er av god kvalitet, men totalt 13 situasjoner med korrupt data er manuelt fjernet i 
+datasettet fra 5, 15 og 138 meters dyp (Tabell 2).  
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+5 
+Tabell 2: Data manuelt fjernet i vannstrømmålingen ved Sandvika. 
+Start 
+Slutt 
+Kommentarer 
+29.12.2022 15:49:37 
+29.12.2022 16:59:42 
+Korrupt måling, 5 meters dyp  
+06.01.2023 10:39:00 
+06.01.2023 11:18:17 
+Korrupt måling, 5 meters dyp  
+08.01.2023 09:19:56 
+08.01.2023 09:39:54 
+Korrupt måling, 5 meters dyp  
+22.01.2023 22:09:26 
+22.01.2023 22:39:31 
+Korrupt måling, 5 meters dyp  
+28.01.2023 18:39:35 
+28.01.2023 18:59:46 
+Korrupt måling, 5 meters dyp  
+05.02.2023 08:19:50 
+05.02.2023 08:39:46 
+Korrupt måling, 5 meters dyp  
+10.02.2023 03:49:38 
+10.02.2023 04:29:53 
+Korrupt måling, 5 meters dyp  
+27.01.2023 00:19:20 
+27.01.2023 01:09:31 
+Korrupt måling, 15 meters dyp  
+05.02.2023 08:09:53 
+05.02.2023 08:39:53 
+Korrupt måling, 15 meters dyp  
+22.11.2022 16:13:44 
+22.11.2022 16:43:51 
+Korrupt måling, 138 meters dyp 
+26.11.2022 11:32:52 
+26.11.2022 11:53:40 
+Korrupt måling, 138 meters dyp 
+05.12.2022 10:31:50 
+05.12.2022 10:53:17 
+Korrupt måling, 138 meters dyp 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+6 
+Kort vurdering 
+Vannstrømmen i alle undersøkte dyp ved Sandvika er hovedsakelig tidevannstyrt, med en retning som følger 
+batymetrien i området. Den største vanntransporten på 5, 15, 74 og 138 meters er henholdsvis rettet mot 
+sørøst, sør-sørøst, sørøst og sør.  
+Resultater 
+I denne måleserien fra Sandvika er gjennomsnittlig vannstrøm 9.6, 8.1, 7.4 og 2.9 cm/s på 5, 15, 74 og 138 
+meters dyp, og maksimalhastigheten er henholdsvis 35.2, 33.4, 20.7 og 13.2 cm/s. 
+Måleområdet Sandvika ligger nordøst for øya Tomma, i fjorden Sjona i Nesna kommune. Selve målepunktet 
+ligger i en skråning som skrår mot nordøst, mot et dypere basseng nordøst for lokaliteten. Vannstrømmen i 
+alle undersøkte dyp er i hovedsak tidevannstyrt, med en strømretning som følger batymetrien ved 
+målepunktet.  
+På 5 meters dyp er størst vanntransport rettet mot sørøst, med en sekundærkomponent rettet mot nordvest. 
+Vannstrømmen på 5 meters dyp påvirkes tidvis av vinden. I perioden 05.01.–06.01.2023 er det målt 
+middelvind opp mot 20 m/s ved den meteorologiske stasjonen Sjonfjellet (Vedlegg B), omtrent 18 km øst for 
+målepunktet. Dette samsvarer med økte strømhastigheter og stabil retning på 5 meters dyp, som kan sees i 
+Figur 3 og 7. Størst vanntransport på 15 meters dyp er rettet mot sør-sørøst, mens noe vanntransport også 
+registreres mot vest-nordvest. På 74 meters dyp er størst vanntransport rettet mot sørøst. Det registreres 
+også noe vanntransport rettet mot nord. På 138 meters dyp registreres størst vanntransport mot sør, med 
+sekundærkomponenter rettet mot sørvest og sørøst. Bunnstrømmen dreier mot klokken med tidevannet. 
+Nedenfor presenteres tabeller og figurer med statistikk og resultater. 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+7 
+Tabell 3: Statistikk og nøkkeltall fra utført strømmåling. 
+Parametere 
+5 meter 
+15 meter 
+74 meter 
+138 meter 
+Gyldige målinger/totalt (#) 
+13132/13162 
+13153/13162 
+4412/4412 
+4404/4411 
+Gjennomsnittsstrøm (cm/s) 
+9.6 
+8.1 
+7.4 
+2.9 
+Maksimalstrøm (cm/s) 
+35.2 
+33.4 
+20.7 
+13.2 
+Minimumstrøm (cm/s) 
+0.1 
+0.1 
+0.0 
+0.0 
+Strømstyrke 0-1 cm/s (%) 
+1.1 
+1.6 
+1.4 
+9.6 
+Strømstyrke 1-3 cm/s (%) 
+7.9 
+11.6 
+11.1 
+47.0 
+Neumann-parameter 
+0.16 
+0.49 
+0.58 
+0.46 
+Standardavvik (cm/s) 
+5.7 
+5.1 
+3.8 
+1.7 
+Varians (cm²/s²) 
+32.6 
+26.4 
+14.7 
+2.7 
+Signifikant maksimum 
+strømhastighet (cm/s) 
+16.3 
+13.9 
+11.8 
+4.8 
+Signifikant minimum 
+strømhastighet (cm/s) 
+4.0 
+3.3 
+3.4 
+1.3 
+10 års returstrøm (cm/s) 
+58.1 
+55.2 
+- 
+- 
+50 års returstrøm (cm/s) 
+65.1 
+61.8 
+- 
+- 
+De 4 hyppigst 
+forekommende 
+strømretningsgruppene (°) 
+135 - 150 
+150 - 165 
+300 - 315 
+315 - 330 
+150 - 165 
+135 - 150 
+165 - 180 
+180 - 195 
+135 - 150 
+120 - 135 
+150 - 165 
+180 - 195 
+180 - 195 
+135 - 150 
+150 - 165 
+225 - 240 
+De 4 hyppigst 
+forekommende 
+strømhastighetsgruppene 
+(cm/s) 
+5 - 7 
+7 - 9 
+3 - 5 
+9 - 11 
+5 - 7 
+3 - 5 
+7 - 9 
+9 - 11 
+5 - 7 
+3 - 5 
+7 - 9 
+9 - 11 
+1 - 3 
+3 - 5 
+0 - 1 
+5 - 7 
+Mest vannutskiftning / 
+retning / 15° sektor 
+873 m³/m² per dag 
+ved 135 - 150 
+1197 m³/m² per 
+dag ved 150 - 165 
+1584 m³/m² per 
+dag ved 135 - 150 
+224 m³/m² per 
+dag ved 135 - 150 
+Minst vannutskiftning / 
+retning / 15° sektor 
+62 m³/m² per dag 
+ved 45 - 60 
+68 m³/m² per dag 
+ved 45 - 60 
+18 m³/m² per dag 
+ved 45 - 60 
+12 m³/m² per dag 
+ved 15 - 30 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+8 
+Tidsserie - strømhastighet 
+ 
+Figur 3: Vannstrømhastighet (cm/s) på 5 meters dyp ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+ 
+Figur 4: Vannstrømhastighet (cm/s) på 15 meters dyp ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+9 
+ 
+Figur 5: Vannstrømhastighet (cm/s) på 74 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+Figur 6: Vannstrømhastighet (cm/s) på 138 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+10 
+Tidsserie - strømretning 
+ 
+Figur 7: Vannstrømretning (°) på 5 meters dyp ved Sandvika i perioden 15.11.2022–15.02.2023. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+Figur 8: Vannstrømretning (°) på 15 meters dyp ved Sandvika i perioden 15.11.2022–15.02.2023. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+11 
+ 
+Figur 9: Vannstrømretning (°) på 74 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+Figur 10: Vannstrømretning (°) på 138 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. Oppgis som retningen 
+vannstrømmen beveger seg mot. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+12 
+Strømrose - gjennomsnittlig strømhastighet 
+ 
+Figur 11: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 5 meters dyp ved Sandvika i perioden 
+15.11.2022–15.02.2023. 
+ 
+ 
+Figur 12: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 15 meters dyp ved Sandvika i perioden 
+15.11.2022–15.02.2023. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+13 
+ 
+Figur 13: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 74 meters dyp ved Sandvika i perioden 
+15.11.–16.12.2022. 
+ 
+ 
+Figur 14: Gjennomsnittlig vannstrømhastighet (cm/s) for hver 15° sektor på 138 meters dyp ved Sandvika i perioden 
+15.11.–16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+14 
+Strømrose - maksimal strømhastighet 
+ 
+Figur 15: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 5 meters dyp ved Sandvika i perioden 15.11.2022–
+15.02.2023. 
+ 
+ 
+Figur 16: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 15 meters dyp ved Sandvika i perioden 15.11.2022–
+15.02.2023. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+15 
+ 
+Figur 17: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 74 meters dyp ved Sandvika i perioden 15.11.–
+16.12.2022. 
+ 
+ 
+Figur 18: Maksimal vannstrømhastighet (cm/s) for hver 15° sektor på 138 meters dyp ved Sandvika i perioden 15.11.–
+16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+16 
+Histogram - strømhastighet 
+ 
+Figur 19: Frekvensfordeling av vannstrømhastighet på 5 meters dyp ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+ 
+Figur 20: Frekvensfordeling av vannstrømhastighet på 15 meters dyp ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+17 
+ 
+Figur 21: Frekvensfordeling av vannstrømhastighet på 74 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+Figur 22: Frekvensfordeling av vannstrømhastighet på 138 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+18 
+Histogram - strømretning 
+ 
+Figur 23: Frekvensfordeling av vannstrømretning for hver 15° sektor på 5 meters dyp ved Sandvika i perioden 
+15.11.2022–15.02.2023. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+ 
+Figur 24: Frekvensfordeling av vannstrømretning for hver 15° sektor på 15 meters dyp ved Sandvika i perioden 
+15.11.2022–15.02.2023. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+19 
+ 
+Figur 25: Frekvensfordeling av vannstrømretning for hver 15° sektor på 74 meters dyp ved Sandvika i perioden 15.11.–
+16.12.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+ 
+Figur 26: Frekvensfordeling av vannstrømretning for hver 15° sektor på 138 meters dyp ved Sandvika i perioden 15.11.–
+16.12.2022. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+20 
+Spredningsdiagram - strømretning og -hastighet 
+ 
+Figur 27: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 5 meters dyp 
+ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+ 
+Figur 28: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 15 meters dyp 
+ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+21 
+ 
+Figur 29: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 74 meters dyp 
+ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+Figur 30: Spredningsdiagram som viser vannstrømhastighet (cm/s) plottet mot vannstrømretning (°) på 138 meters dyp 
+ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+22 
+Strømrose - vanntransport (fluks) 
+ 
+Figur 31: Vanntransport (m³/m²/dag) for hver 15° sektor på 5 meters dyp ved Sandvika i perioden 15.11.2022–
+15.02.2023. 
+ 
+ 
+Figur 32: Vanntransport (m³/m²/dag) for hver 15° sektor på 15 meters dyp ved Sandvika i perioden 15.11.2022–
+15.02.2023. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+23 
+ 
+Figur 33: Vanntransport (m³/m²/dag) for hver 15° sektor på 74 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+Figur 34: Vanntransport (m³/m²/dag) for hver 15° sektor på 138 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+24 
+Vektor - progressiv vektor 
+ 
+Figur 35: Progressiv vektor på 5 meters dyp ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+ 
+Figur 36: Progressiv vektor på 15 meters dyp ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+25 
+ 
+Figur 37: Progressiv vektor på 74 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+Figur 38: Progressiv vektor på 138 meters dyp ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+26 
+Sensorer - trykk registrert av instrument 
+ 
+Figur 39: Trykk (dBar) i instrumentdypet ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+ 
+Figur 40: Trykk (dBar) i instrumentdypet ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+27 
+ 
+Figur 41: Trykk (dBar) i instrumentdypet ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+28 
+Sensorer - instrumenthelning (tilt) 
+ 
+Figur 42: Instrumenthelning (°) på Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+ 
+Figur 43: Instrumenthelning (°) på Sandvika i perioden 15.11.–16.12.2022. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+29 
+ 
+Figur 44: Instrumenthelning (°) på Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+30 
+Sensorer - sjøtemperatur 
+ 
+Figur 45: Temperatur i instrumentdypet ved Sandvika i perioden 15.11.2022–15.02.2023. 
+ 
+ 
+Figur 46: Temperatur i instrumentdypet ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+31 
+ 
+Figur 47: Temperatur i instrumentdypet ved Sandvika i perioden 15.11.–16.12.2022. 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+32 
+Tabell - retning med returperiode 
+Tabell 4: Retning med returperiode for vannstrøm på 5 meters dyp. Strømhastighetene er oppgitt i m/s. Retningsgrupper 
+som definert i NS 9415. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.086 
+0.280 
+0.142 
+0.462 
+0.159 
+0.518 
+nordøst 
+0.055 
+0.190 
+0.090 
+0.313 
+0.101 
+0.351 
+øst 
+0.069 
+0.206 
+0.114 
+0.339 
+0.128 
+0.380 
+sørøst 
+0.113 
+0.329 
+0.187 
+0.543 
+0.209 
+0.609 
+sør 
+0.106 
+0.352 
+0.176 
+0.581 
+0.197 
+0.651 
+sørvest 
+0.075 
+0.244 
+0.123 
+0.402 
+0.138 
+0.451 
+vest 
+0.089 
+0.332 
+0.147 
+0.548 
+0.165 
+0.614 
+nordvest 
+0.110 
+0.289 
+0.182 
+0.477 
+0.204 
+0.534 
+Tabell 5: Retning med returperiode for vannstrøm på 15 meters dyp. Strømhastighetene er oppgitt i m/s. 
+Retningsgrupper som definert i NS 9415. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+nord 
+0.058 
+0.217 
+0.096 
+0.357 
+0.107 
+0.401 
+nordøst 
+0.052 
+0.140 
+0.086 
+0.231 
+0.096 
+0.259 
+øst 
+0.058 
+0.160 
+0.096 
+0.265 
+0.108 
+0.297 
+sørøst 
+0.106 
+0.327 
+0.175 
+0.540 
+0.196 
+0.606 
+sør 
+0.091 
+0.332 
+0.150 
+0.548 
+0.168 
+0.615 
+sørvest 
+0.062 
+0.192 
+0.103 
+0.316 
+0.115 
+0.355 
+vest 
+0.062 
+0.333 
+0.102 
+0.549 
+0.114 
+0.615 
+nordvest 
+0.071 
+0.334 
+0.117 
+0.552 
+0.131 
+0.618 
+ 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+33 
+Tabell - matrise med retnings- og hastighetsgrupper 
+Tabell 6: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 5 meters dyp ved 
+Sandvika i perioden 15.11.2022–15.02.2023. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. 
+5 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0 
+4 
+20 
+25 
+27 
+33 
+50 
+84 
+65 
+79 
+28 
+0 
+0 
+0 
+0 
+415 
+3.16 
+210 
+2.53 
+15 
+4 
+20 
+19 
+36 
+26 
+18 
+43 
+25 
+25 
+5 
+0 
+0 
+0 
+0 
+221 
+1.68 
+87.4 
+1.05 
+30 
+4 
+19 
+13 
+32 
+33 
+24 
+26 
+24 
+13 
+1 
+0 
+0 
+0 
+0 
+189 
+1.44 
+67.1 
+0.81 
+45 
+4 
+16 
+21 
+23 
+27 
+26 
+36 
+16 
+12 
+0 
+0 
+0 
+0 
+0 
+181 
+1.38 
+62.2 
+0.75 
+60 
+11 
+18 
+16 
+26 
+22 
+29 
+55 
+34 
+32 
+2 
+0 
+0 
+0 
+0 
+245 
+1.87 
+98.9 
+1.19 
+75 
+9 
+13 
+29 
+42 
+27 
+24 
+62 
+28 
+42 
+3 
+0 
+0 
+0 
+0 
+279 
+2.12 
+113 
+1.36 
+90 
+4 
+14 
+27 
+27 
+35 
+42 
+65 
+55 
+51 
+8 
+0 
+0 
+0 
+0 
+328 
+2.5 
+147.5 
+1.77 
+105 
+4 
+27 
+18 
+30 
+28 
+41 
+96 
+80 
+105 
+31 
+6 
+3 
+0 
+0 
+469 
+3.57 
+256.6 
+3.09 
+120 
+5 
+18 
+32 
+40 
+45 
+47 
+129 
+122 
+157 
+104 
+44 
+35 
+0 
+0 
+778 
+5.92 
+550.5 
+6.62 
+135 
+5 
+18 
+22 
+41 
+37 
+63 
+141 
+139 
+320 
+206 
+98 
+22 
+0 
+0 
+1112 
+8.47 
+873.3 
+10.51 
+150 
+4 
+21 
+28 
+48 
+45 
+55 
+100 
+152 
+292 
+192 
+96 
+20 
+0 
+0 
+1053 
+8.02 
+820.2 
+9.87 
+165 
+5 
+17 
+33 
+38 
+44 
+48 
+106 
+101 
+211 
+112 
+60 
+32 
+0 
+0 
+807 
+6.15 
+599.8 
+7.22 
+180 
+4 
+14 
+32 
+26 
+43 
+48 
+113 
+90 
+152 
+58 
+30 
+8 
+0 
+0 
+618 
+4.71 
+394.5 
+4.75 
+195 
+7 
+13 
+20 
+28 
+29 
+49 
+78 
+78 
+120 
+24 
+4 
+0 
+0 
+0 
+450 
+3.43 
+246.1 
+2.96 
+210 
+10 
+15 
+24 
+34 
+36 
+53 
+97 
+74 
+94 
+11 
+1 
+0 
+0 
+0 
+449 
+3.42 
+218.7 
+2.63 
+225 
+8 
+13 
+30 
+41 
+35 
+44 
+79 
+46 
+90 
+15 
+0 
+0 
+0 
+0 
+401 
+3.05 
+192.9 
+2.32 
+240 
+9 
+21 
+27 
+40 
+52 
+37 
+62 
+58 
+72 
+15 
+0 
+0 
+0 
+0 
+393 
+2.99 
+181.2 
+2.18 
+255 
+7 
+26 
+21 
+37 
+40 
+43 
+74 
+60 
+76 
+24 
+8 
+1 
+0 
+0 
+417 
+3.18 
+211.7 
+2.55 
+270 
+6 
+19 
+28 
+36 
+49 
+39 
+71 
+45 
+117 
+52 
+20 
+6 
+0 
+0 
+488 
+3.72 
+299 
+3.6 
+285 
+4 
+19 
+34 
+47 
+42 
+38 
+83 
+87 
+167 
+106 
+53 
+22 
+0 
+0 
+702 
+5.35 
+506.3 
+6.09 
+300 
+6 
+14 
+29 
+42 
+48 
+57 
+99 
+93 
+263 
+166 
+90 
+14 
+0 
+0 
+921 
+7.01 
+708.2 
+8.52 
+315 
+4 
+23 
+26 
+45 
+47 
+54 
+113 
+118 
+258 
+140 
+53 
+12 
+0 
+0 
+893 
+6.8 
+639.1 
+7.69 
+330 
+6 
+20 
+33 
+37 
+38 
+51 
+109 
+125 
+198 
+106 
+25 
+3 
+0 
+0 
+751 
+5.72 
+488.3 
+5.88 
+345 
+9 
+14 
+22 
+36 
+42 
+43 
+110 
+94 
+128 
+62 
+11 
+1 
+0 
+0 
+572 
+4.36 
+338.5 
+4.07 
+SUM (#) 
+143 
+432 
+609 
+859 
+903 
+1023 
+2031 
+1809 
+3074 
+1471 
+599 
+179 
+0 
+0 
+13132 
+100 
+8311 
+100 
+SUM (%) 
+1.09 
+3.29 4.64 
+6.54 
+6.88 
+7.79 
+15.47 
+13.78 
+23.41 
+11.2 
+4.56 
+1.36 
+0 
+0 
+100 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+34 
+Tabell 7: Fordeling av antall strømregistreringer i hastighetsgrupper (cm/s) for hver 15° sektor på 15 meters dyp ved 
+Sandvika i perioden 15.11.2022–15.02.2023. Antall målinger og prosent av antall målinger, samt fluks (m³/m²/døgn) og 
+prosentvis fluks for hver 15° sektor er presentert. 
+15 meter 
+antall målinger 
+fluks 
+1 
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+15 
+20 
+25 
+50 
+75 100 
+# 
+% 
+m³/m²/døgn 
+% 
+0 
+9 
+34 
+32 
+33 
+37 
+30 
+41 
+23 
+16 
+2 
+0 
+0 
+0 
+0 
+257 
+1.95 
+84.3 
+1.21 
+15 
+10 
+21 
+22 
+22 
+34 
+33 
+45 
+23 
+17 
+0 
+0 
+0 
+0 
+0 
+227 
+1.73 
+79.7 
+1.15 
+30 
+5 
+29 
+23 
+35 
+28 
+27 
+35 
+18 
+15 
+0 
+0 
+0 
+0 
+0 
+215 
+1.63 
+70.8 
+1.02 
+45 
+10 
+16 
+22 
+30 
+25 
+25 
+39 
+21 
+12 
+0 
+0 
+0 
+0 
+0 
+200 
+1.52 
+67.9 
+0.98 
+60 
+7 
+25 
+26 
+30 
+26 
+24 
+48 
+18 
+14 
+0 
+0 
+0 
+0 
+0 
+218 
+1.66 
+73.6 
+1.06 
+75 
+11 
+23 
+27 
+40 
+36 
+30 
+52 
+37 
+19 
+0 
+0 
+0 
+0 
+0 
+275 
+2.09 
+97 
+1.39 
+90 
+8 
+24 
+35 
+46 
+52 
+34 
+98 
+49 
+35 
+1 
+0 
+0 
+0 
+0 
+382 
+2.9 
+148.6 
+2.14 
+105 
+7 
+25 
+31 
+54 
+61 
+60 
+109 
+93 
+71 
+10 
+0 
+0 
+0 
+0 
+521 
+3.96 
+230.4 
+3.31 
+120 
+10 
+26 
+45 
+43 
+67 
+100 
+148 
+139 
+188 
+71 
+26 
+9 
+0 
+0 
+872 
+6.63 
+510.9 
+7.34 
+135 
+13 
+25 
+45 
+58 
+78 
+96 
+179 
+177 
+344 
+258 
+126 
+42 
+0 
+0 
+1441 
+10.96 
+1096.9 
+15.76 
+150 
+13 
+24 
+42 
+74 
+78 
+100 
+193 
+214 
+482 
+286 
+77 
+39 
+0 
+0 
+1622 
+12.33 
+1196.9 
+17.2 
+165 
+11 
+34 
+55 
+68 
+65 
+81 
+180 
+215 
+366 
+159 
+39 
+7 
+0 
+0 
+1280 
+9.73 
+824.1 
+11.84 
+180 
+6 
+42 
+52 
+61 
+88 
+90 
+190 
+131 
+156 
+48 
+7 
+1 
+0 
+0 
+872 
+6.63 
+436.7 
+6.28 
+195 
+8 
+24 
+68 
+65 
+79 
+72 
+136 
+90 
+112 
+10 
+0 
+0 
+0 
+0 
+664 
+5.05 
+290.8 
+4.18 
+210 
+9 
+28 
+56 
+68 
+60 
+69 
+92 
+65 
+64 
+10 
+0 
+0 
+0 
+0 
+521 
+3.96 
+212.2 
+3.05 
+225 
+8 
+20 
+50 
+51 
+47 
+48 
+65 
+55 
+53 
+7 
+0 
+0 
+0 
+0 
+404 
+3.07 
+166.9 
+2.4 
+240 
+8 
+24 
+50 
+50 
+56 
+41 
+68 
+42 
+27 
+3 
+0 
+0 
+0 
+0 
+369 
+2.81 
+133.9 
+1.92 
+255 
+13 
+21 
+45 
+52 
+50 
+37 
+68 
+39 
+28 
+7 
+0 
+0 
+0 
+0 
+360 
+2.74 
+133.1 
+1.91 
+270 
+9 
+26 
+41 
+53 
+52 
+45 
+84 
+58 
+39 
+11 
+3 
+6 
+0 
+0 
+427 
+3.25 
+183.7 
+2.64 
+285 
+8 
+24 
+37 
+46 
+50 
+60 
+109 
+63 
+52 
+16 
+12 
+8 
+0 
+0 
+485 
+3.69 
+234 
+3.36 
+300 
+9 
+28 
+34 
+43 
+51 
+62 
+107 
+76 
+75 
+21 
+6 
+5 
+0 
+0 
+517 
+3.93 
+250.6 
+3.6 
+315 
+9 
+22 
+34 
+47 
+49 
+50 
+66 
+44 
+62 
+15 
+2 
+0 
+0 
+0 
+400 
+3.04 
+176.1 
+2.53 
+330 
+5 
+21 
+32 
+43 
+37 
+42 
+67 
+44 
+47 
+10 
+0 
+0 
+0 
+0 
+348 
+2.65 
+147.9 
+2.12 
+345 
+11 
+19 
+23 
+38 
+28 
+33 
+56 
+27 
+32 
+8 
+1 
+0 
+0 
+0 
+276 
+2.1 
+111.9 
+1.61 
+SUM (#) 
+217 
+605 
+927 
+1150 
+1234 
+1289 
+2275 
+1761 
+2326 
+953 
+299 
+117 
+0 
+0 
+13153 
+100 
+6958.9 
+100 
+SUM (%) 
+1.65 
+4.6 
+7.05 
+8.74 
+9.38 
+9.8 
+17.3 
+13.39 
+17.68 
+7.25 
+2.27 
+0.89 
+0 
+0 
+100 
+ 
+ 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+35 
+Vedlegg A - riggtegning 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overflate (0 meter): blåse 
+ 
+ 
+ 
+Ca. 5 meter over instrumentet: 3 x oppdriftskuler 
+ 
+ 
+ 
+Ca. 28 meters dyp: Aquadopp Profiler AQK22 
+ 
+ 
+ 
+Ca. 5 meter over instrumentet: 1 x oppdriftskuler 
+ 
+ 
+Ca. 74 meters dyp: Aquadopp Current Meter AQK47 
+ 
+ 
+ 
+ 
+ 
+Ca. 5 meter over instrumentet: 1 x oppdriftskuler 
+ 
+ 
+ 
+Ca. 138 meters dyp: Aquadopp Current Meter AQK48 
+Bunn (ca. 139 meter): lodd 
+Figur A.1: Veiledende riggtegning for 
+instrumentriggen brukt ved Sandvika. Avvik 
+kan forekomme. 
+1880-2-23S SANDVIKA 
+AQUA KOMPETANSE AS 
+36 
+Vedlegg B – meteorologi 
+ 
+ 
+Figur B.1: Middelvind (m/s) ved den meteorologiske stasjonen Sjonfjellet for perioden 15.11.2022–15.02.2023. 
+Vindhastighetene er midlet over 10 minutter. 
+ 
+ 
+Figur B.2: Vindretning (°) ved den meteorologiske stasjonen Sjonfjellet for perioden 15.11.2022–15.02.2023. Oppgis som 
+retningen vinden blåser fra.

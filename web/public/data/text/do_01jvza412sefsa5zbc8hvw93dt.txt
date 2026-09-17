@@ -1,0 +1,845 @@
+﻿Prosjektplan Hydra 
+ 
+ 
+ 
+ 
+NORDLAKS OPPDRETT AS
+22.04.2022
+Prosjektplan Hydra 
+ 
+ 
+ 
+Rapportnummer 
+2022-03 
+Prosjektleder 
+Bjarne Johansen 
+Forfattere 
+Bjarne Johansen 
+Camilla Robertsen 
+Selskap 
+Nordlaks Oppdrett AS 
+Dato 
+22.04.2022 
+Oppsummering 
+Dette dokumentet redegjør for hvordan 
+utprøvingen av Hydra skal gjennomføres, 
+dokumenteres og evalueres med hensyn til 
+fiskevelferdsmessig egnethet. 
+Utgiver 
+Nordlaks Oppdrett AS 
+Postboks 224 
+8455 Stokmarknes 
+Telefon: 76 11 81 00 
+E-post: firmapost@nordlaks.no 
+nordlaks.no 
+© 2022 Nordlaks Oppdrett AS 
+Innholdsfortegnelse 
+1. Innledning ................................................................................................................................ 4 
+1.1. Hensikt .......................................................................................................................................... 4 
+1.2. Bakgrunn ...................................................................................................................................... 4 
+1.3. Regelverk ...................................................................................................................................... 5 
+1.4. Faglig kompetanse, samarbeidspartnere og ansvar .................................................................... 6 
+1.5. Tidslinje......................................................................................................................................... 7 
+2. Konstruksjon og lokalitet .......................................................................................................... 7 
+2.1. Om konstruksjonen ...................................................................................................................... 7 
+2.2. Lokalitet ...................................................................................................................................... 10 
+3. Fiskevelferd i proskjekteringsfasen ......................................................................................... 11 
+4. Driftsplan ............................................................................................................................... 12 
+4.1. Generell drift .............................................................................................................................. 12 
+4.2. Uttesting uten bruk av fisk ......................................................................................................... 12 
+4.3. Opptrappende uttesting med fisk .............................................................................................. 12 
+4.4. Driftsoperasjoner ....................................................................................................................... 14 
+5. Dokumentasjon av prosjektet ................................................................................................. 15 
+5.1. Velferdsindikatorer som vurderingskriterier .............................................................................. 15 
+6. Evaluering .............................................................................................................................. 19 
+6.1. Evaluering av uttesting uten fisk ................................................................................................ 19 
+6.2. Ukentlig evaluering..................................................................................................................... 19 
+6.3. Månedlig evaluering ................................................................................................................... 19 
+6.4. Sluttevaluering ........................................................................................................................... 20 
+7. Risikokartlegging og beredskap ............................................................................................... 21 
+7.1. Risikokartlegging ........................................................................................................................ 21 
+7.2. Beredskapsplan .......................................................................................................................... 21 
+8. Referanser .............................................................................................................................. 22 
+9. Vedlegg .................................................................................................................................. 23 
+ 
+1. Innledning 
+1.1. Hensikt 
+ 
+Hensikten med denne prosjektplanen er å redegjøre for hvordan utprøvingen av Hydrakonseptet skal 
+gjennomføres, dokumenteres og evalueres med hensyn til fiskevelferdsmessig egnethet. 
+1.2. Bakgrunn 
+I februar 2021 overtok Nordlaks selskapet Hydra Salmon Company II AS (HSC). Forut for overtakelsen 
+hadde selskapet fått tilsagn om fire utviklingstillatelser til utvikling av konseptet «Produksjonstank». 
+Den 8. januar 2017 søkte HSC om fire utviklingstillatelser til produksjonsenheten. Den 15. november 
+samme år mottok Fiskeridirektoratet tilleggsinformasjon før de 19. januar 2018 meddelte at konseptet 
+ble ansett å falle inn under ordningen for utviklingstillatelser. Etter innsendelse av mer informasjon 
+knyttet til økonomi og biomassebehov, samt avklaring av målkriterier, ble det 6. april 2018 gitt tilsagn 
+om fire utviklingstillatelser. Disse er begrenset til 780 tonn MTB hver og har en varighet på inntil seks 
+år fra lokalitet er klarert og tillatelsesdokument er utstedt.  
+ 
+Ordningen med utviklingstillatelser ble innført av Regjeringen i november 2015. Denne hadde til 
+hensikt å stimulere til utvikling av ny teknologi innen havbruksnæringen, som kunne bidra til å løse en 
+eller flere av de store miljø- og arealutfordringene havbruksnæringen sto overfor. Nordlaks fikk i 2016 
+tilsagn om utviklingstillatelser til prosjekt Havfarm 1. Havfarm 1-prosjektet er gjennomført, og har 
+bidratt til at både vi og våre samarbeidspartnere har opparbeidet oss god erfaring innen denne typen 
+utviklingsarbeid, noe som vi tar med oss videre inn i dette prosjektet, heretter kalt Hydra. 
+Hydra er en semilukket konstruksjon for oppdrett av atlantisk laks, Salmo salar eller regnbueørret, 
+Oncorhynchus mykiss. Hydra skal ha tett tak og vegger ned til ca. 20 meter under havoverflaten. Dette 
+med hensikt å hindre infeksjon av lakselus. Lakselus er en av oppdrettsnæringens største problemer, 
+og medfører årlig store tap for oppdrettere i form av kostbare behandlinger, sultetid og forøket avgang. 
+Lus er også et betydelig velferdsproblem for fisken, hovedsakelig relatert til håndtering som medfølger 
+telling av lus, samt avlusing. Dette medfører redusert fiskevelferd, stresset og svekket fisk med en 
+betydelig dødelighet (Sommerset m.fl. 2022). Skader etter avlusning ble av fiskehelsepersonell valgt 
+som en av de viktigste årsakene til redusert velferd hos både laks og regnbueørret i 
+Veterinærinsituttets spørreundersøkelse til fiskehelserapporten 2021. I tillegg utgjør lakselus et 
+velferdsproblem for villevende laksefisk som lever langs kysten. Hunnlusen produserer egg, som 
+klekker direkte fra eggstrengene på lusa (Nilsen m.fl. 2017: Costello 2006). Larvene utvikler seg til 
+infektivt stadium som infiserer nye verter. De planktoniske stadiene av lakselusa finnes i høyest 
+konsentrasjon i de øvre vannmassene (øverste 10 meter på sommer, 15 – 20 m på vinteren, (Nilsen 
+m.fl. 2017: Johnsen m.fl 2014), og dette avgjøres av faktorer som blant annet lys (Nilsen m.fl. 2017: 
+Heuch m.fl. 1995) og salinitet (Nilsen m.fl. 2017: Bricknell m.fl. 2016: Heuch 1995). Hydras utforming 
+med tette skrogvegger har til hensikt å hindre påslag av lakselus gjennom en sysisk tett barriere i det 
+vanndypet konsentasjonen av infektive luselarver er høyest. 
+ 
+I nedkant av den tette veggen skal det være en foilstruktur som skal sørge for utskifting og strømsetting 
+av vannet inne i tanken. Vannutskiftningen skal i utgangspunktet skje ved et passivt system, men det 
+vil også være et nødsystem for vanninjeksjon dimensjonert med tilstrekkelig kapasitet til å sikre fisken 
+et godt levemiljø. Hydra vil ha høy grad av automasjon med mulighet for fjernstyring og overvåking av 
+integrerte systemer, eksempelvis fôring og vanninjeksjon. Andre vesentlige systemer vil være 
+dødfisksystem, ballastsystem og nothåndtering. Enheten vil ikke være permanent bemannet. For 
+daglige gjøremål og røkting vil Hydra være uavhengig av ekstern assistanse. Dette vil bare være 
+nødvendig ved mottak av fôr og utstyr, uttak av fisk, tømming av ensilasje og andre større 
+arbeidsoperasjoner. Produksjonstanken er ikke avhengig av fôrflåte. Den skal kobles til landstrøm, men 
+vil ha backupgeneratorer i tilfelle strømbrudd. 
+Nordlaks anser teknologien i prosjektet som et viktig bidrag til den videre utviklingen av selskapet, og 
+ikke minst til det teknologiske mangfoldet i havbruksnæringen. Ved å realisere Hydraprosjektet vil 
+Nordlaks videreutvikle kompetanse på prosjektering og drift, også av semilukkede konsepter, med 
+forventede fordeler til både rømmings- og biosikkerhet, men særlig med tanke på bekjempelse av 
+lakselus. 
+1.3. Regelverk 
+ 
+Fisk er beskyttet mot at det tas i bruk utstyr som man ikke kjenner de velferdsmessige konsekvensene 
+av, gjennom Dyrevelferdsloven og Akvakulturdriftsforskriften. Akvakulturdriftsforskriften §20, første 
+ledd stiller krav om at metoder, installasjoner og utstyr som brukes til fisk skal være egnet ut fra 
+hensynet til fiskevelferd og kan bare brukes når konsekvensen for fiskens velferd er dokumentert, og 
+utstyret er funnet egnet til bruken ut fra hensynet til fiskevelferd. Unntak fra dette kravet er: 
+ 
+1. Utprøving/forsøk som reguleres av forsøksdyrregelverket (søknadspliktige). 
+2. Uttesting som er et nødvendig ledd i å skaffe dokumentasjon om metodens konsekvens for 
+fiskens velferd, men som ikke reguleres av forsøksdyrregelverket (innmeldingspliktig) 
+ 
+Grensegangen mellom hvilke uttestinger som vil være regulert av forsøksdyrregelverket og 
+Akvakulturdriftsforskriften er relatert til grad av belastning for fisken. I henhold til «Veileder om 
+fiskevelferd ved utvikling og bruk av metoder, utstyr, teknologi mv i akvakultur (Mattilsynet 2020) vil 
+søknadsplikt etter forsøksdyrforskriften inntre for: 
+ 
+1. alt som er eksperimentelt (dvs. uttesting av metoden som man ikke kjenner de 
+velferdsmessige konsekvensene av), og  
+ 
+2. dersom det i tillegg er grunn til å tro at uttestingen vil påføre dyret smerte, frykt, varig 
+skade eller annen belastning tilsvarende eller større enn ved å føre inn en nål etter god 
+veterinær praksis.  
+ 
+Nordlaks vurderer at det er nødvendig å gjennomføre uttesting med fisk, da det ansees som viktig for 
+å dokumentere de fiskevelferdsmessige konsekvensene av metoden. Gjennom risikokartleggingen 
+(Holand m.fl. 2021) ble det ikke identifisert faktorer som gir grunn til å tro at uttesting vil påføre fisken 
+belastninger tilsvarende eller større enn et nålestikk. Det er dermed vår vurdering at uttesting kan skje 
+i henhold til Akvakulturdriftsforskriftens § 20, tredje ledd. Dette ble videre avklart og bekreftet under 
+dialogmøte mellom Nordlaks og Mattilsynet, 27. september 2021. Utprøvingen kan skje under følgende 
+forutsetninger: 
+ 
+- 
+At det foreligger en plan for hvordan utprøvingen skal gjennomføres, dokumenteres og 
+evalueres. 
+- 
+At utprøvingen gjennomføres med færrest mulig fisk. 
+- 
+At utprøvingen planlegges, gjennomføres, evalueres og dokumenteres i samarbeid med 
+personell med relevant kompetanse innen fiskevelferd og andre aktuelle fagområder. 
+- 
+At uttestingen skal skje etter vitenskapelige prinsipper og skal kunne dokumentere de 
+velferdsmessige konsekvensene av metoden ved den aktuelle bruken. 
+- 
+At det er meldt fra til Mattilsynet om hva som skal utprøves, og start og sluttdato for 
+utprøvingen.  
+- 
+Dokumentasjon om metodens, installasjonens eller utstyrets konsekvenser for fiskevelferd, 
+skal sendes slik Mattilsynet bestemmer. Nærmere krav til meldeplikten fastsettes av 
+Mattilsynet. 
+1.4. Faglig kompetanse, samarbeidspartnere og ansvar 
+For å dokumentere effekter på biologisk prestasjon, vil Nordlaks samarbeide med ekstern kompetanse 
+som blant annet Veterinærinstituttet, fiskehelsetjenesten Åkerblå, og Akvaplan-niva. Ansatte på 
+lokaliteten vil som minumum ha gjennomført fiskevelferdskurs, men vil også få ekstra støtte og 
+opplæring fra internt fiskehelsepersonell, samt personell fra Åkerblå og Veterinærinstituttet. I 
+prosjekterings- og designfasen har ingeniører fra NSK og Kongsberg bidratt til å beregne tilstrekkelig 
+thrusterkapasitet. Som en del av prosjekteringen av Hydra er det gjennomført et modellforsøk ved 
+SINTEF Ocean sitt havbasseng i Trondheim. Her har blant annet vanninjeksjonssystemet vært 
+undersøkt, og man har sett på vannstrøm i tanken med og uten aktiv vanninjeksjon.  
+Nordlaks innehar ansvaret for uttestingen som eier og bruker av Hydra.  Ved overtakelse av konseptet 
+i februar 2021 fra HSC har Nordlaks også overtatt ansvaret som utvikler av konseptet. Nordlaks har 
+knyttet seg til forskere og databehandlere ved Veterinærinsituttet som eksternt kompetansemiljø 
+innen fiskehelse og - velferd, men det inngår også fiskehelsefaglig kompetanse i sentrale stillinger 
+internt i prosjektet, samt i organisasjonen for øvrig. Dette vil etter vår vurdering sikre at det vil kunne 
+gjennomføres 
+velfunderte 
+fiskehelsefaglige 
+vurderinger 
+gjennom 
+prosjektet, 
+både 
+i 
+prosjekteringsfasen, uttestingsfasen og rapporteringsfasen, herunder ved dokumentasjon og 
+evaluering. I tillegg til ressursene som er direkte involvert i prosjektet, har Nordlaks også en stor bredde 
+i kompetanse innen både biologi, vannkjemi/vannkvalitet og automasjon gjennom våre smoltanlegg og 
+brønnbåter. Disse ressursene vil også involveres i prosjektet ved behov.  
+ 
+Veterinærinstituttet er ansvarlig for det biologiske dokumentasjonsprogrammet for Hydra (vedlegg 1). 
+Forskerne som er involvert har spesialkomptanse på fiskevelferd, og har erfaring innen utviklingsarbeid 
+fra lukkede anlegg. Veterinærinsituttet vil ha faglig ansvar for koordinering og gjennomføring av 
+dokumentasjonen, samt delta i feltarbeid og kvalitessikring av dette. De vil også ha ansvar for 
+databehandling og rapportering. Åkerblå vil ha ansvar for helsetilsynene, og vil også delta i feltarbeid 
+knyttet til dokumentasjon av biologisk prestasjon. I tillegg har Nordlaks internt fiskehelsepersonell som 
+vil ha en særlig rolle i oppfølgning av fisken i felt, samt bidra med opplæring av driftspersonell, og ha 
+ansvar for ukentlige møter. Videre vil internt fiskehelsepersonell være  hovedansvarlig for utforming av 
+månedlige rapporter. Beslutningsansvar knyttet til videreføring eller avslutning av uttestingen ligger 
+hos Administrerende Direktør. For videre beskrivelser rundt hvordan dokumentasjonen og 
+evalueringen er tenkt gjennomført, se kapittel 5 og 6. 
+1.5. Tidslinje 
+31.01.2022:  
+Signering av byggekontrakt 
+01.03.2024:  
+Ankomst av Hydra fra Tyrkia 
+01.05.2024:  
+Utsett av fisk, innledende uttesting 
+01.07.2024:  
+Avslutning av innledende uttesting 
+01.09.2024: 
+Utsett av fisk, fullskala uttesting. 
+31.12.2025:  
+Avslutning av fullskala uttesting  
+2. Konstruksjon og lokalitet 
+2.1. Om konstruksjonen  
+Hydratanken er en sylinderformet stålkonstruksjon med største utvendige diameter på 78 meter og et 
+produksjonsvolum som foreløpig er beregnet til 86 700 kubikkmeter. Tanken vil normalt driftes i en 
+operasjonell dypgang på 30.6 meter, men kan også driftes ved en dypgang på 29 meter ved behov. 
+Videre vil det være definerte dypganger for inspeksjon og vedlikehold på henholdsvis 28m og 11,5m. 
+Planlagt maksimal biomasse er 3120 tonn, noe som vil medføre en maksimal tetthet på i underkant av 
+40 kg/m3. Enheten vil ha et fôrlager på 200 tonn, og et dødfisksystem som kan håndtere inntil 10 
+tonn/time med en lagringskapasitet på 50 m3. Dødfisksystemet vil være basert på Lift-up prinsippet, og 
+være helt lukket fra notspiss til dødfiskrom. I tilfeller med dødelighet ut over anleggets interne 
+kapasitet vil det være mulig å pumpe død fisk direkte fra enheten til ensilasjebåt/servicebåt eller 
+lignende. Konstruksjonen vil være helt tett ned til ca. 20 meter under havoverflaten. I underkant av den 
+tette delen vil det være en 7 meter høy foilseksjon som skal sørge for god vannutskiftning i tanken uten 
+aktiv bruk av energi. For å sikre godt vannmiljø, også dersom det skulle oppstå tilfeller hvor den passive 
+vannutskiftingen ikke skulle være tilstrekkelig, vil det vil være montert fire tunnellthrustere som en del 
+av et sikkerhetssystem for vanninjeksjon. Disse vil være frekvensstyrt, og automatisk styrt mot 
+oksygenverdier, med mulighet for manuell styring ved behov. Konstruksjonen vil bestå av tre deler; en 
+overflatemodul, en skrogvegg og en foilseksjon. Utstyr for not- og levendefiskhåndtering er designet 
+og spesifisert basert på driftserfaring. 
+ 
+ 
+ 
+Figur 1. Figuren vise ren prinsippskisse av Hydratanken. Illustrasjon NSK Ship Design. 
+2.1.1 Overflatemodul 
+ 
+Overflatemodulen består av et sirkulært skrog og en takseksjon formet som en dome. Taket vil på det 
+høyeste være 19 meter over vannlinjen. Selve skroget vil være produsert av stål, mens takseksjonen vil 
+bestå av takstoler i stål, samt takdekke i canvasduk. Modulen er tett med unntak av ut-/innluft. Skroget 
+skal ha en indre diameter på 60 meter og en ytre diameter på 72 meter. Overflatemodulen inneholder 
+kontrollrom, garderober, fôrlager, maskinrom, verksted, dødfisksystem med mer. Produksjonstanken 
+utstyres med to kaier for anløp og fortøyning av persontransport-, servicefartøy eller andre støttefartøy.  
+ 
+ 
+Figur 2. Illustrasjon av overfaltemodulen. Kilde: NSK Ship Design/Nordlaks. 
+2.1.2 Skrogvegg 
+Den tette skrogveggen strekker seg fra overflatemodulen og ned til ca 20 meter under vannoverflaten. 
+Skrogveggen skal fungere som en fysisk barriere for å redusere påvirkning på fisken fra omgivelsene. 
+Integrert i denne strukturen vil det være totalt fire thrusterkanaler som utgjør vanninjeksjonssystemet, 
+samtballasttanker. 
+Figur 3. Illustrasjon av skrogveggen. Kilde: NSK Ship Design/Nordlaks. 
+2.1.3 Foilseksjon 
+Under nedre pongtong følger en sju meter høy foilseksjon. Dette er en åpen struktur med vertikalt og 
+horisontalt vinklede elementer. Disse bidrar til å lede vann fra omgivelsene inn og opp i tanken, og 
+setter med det opp en sirkulasjon og vannutskifting i tanken uten aktiv bruk av energi. Ved tilstrekkelig 
+strøm i omgivelsene vil foilseksjonen dermed sørge for god vannkvalitetogså i den lukkede delen av 
+tanken, uten bruk av energi. 
+Figur 4. Illustrasjon av vannstrømninger gjennom foilseksjonen. Kilde: NSK Ship Design/Nordlaks. 
+2.2. Lokalitet 
+En forutsetning for tilstrekkelig vannutskiftning ved hjelp av foilsystemet er en strømsterk lokalitet. 
+Hydra er omsøkt plassert ved lokaliteten 13936 Sørvika, i Raftsundet i Hadsel kommune. Denne 
+lokaliteten ble i 2014 flyttet på grunn av det vi anså som for sterk strøm for et ordinært 
+oppdrettsanlegg, men denne søkes nå tilbake til opprinnelig lokasjon for å legge til rette for best mulig 
+forhold for Hydratanken. Tiltenkt plassering av Hydratanken er vist i figur 5. 
+ 
+ 
+ 
+Figur 5. Figuren viser et kart over omsøkt plassering av Hydratanken på ny lokalitet for Sørvika i Hadsel kommune.  
+ 
+I forbindelse med søknad og tilsagn om utviklingstillatelser ble det lagt til grunn en lokalitet med 
+gjennomsnittlig strømhastighet på 15 meters dyp på 15 cm/s. Etter at Nordlaks overtok tilsagnet, var 
+det naturlig å endre lokalitet til en i vårt nærområde. Basert på tidligere erfaring og behovet for en 
+strømsterk lokalitet, falt valget på 13936 Sørvika. Strømmålinger gjennomført i forbindelse med 
+utredningen viser at Sørvika har tilsvarende strømmessige egenskaper som den opprinnelig tiltenkte 
+lokaliteten. 
+ 
+Med bakgrunn i vår driftserfaring med lokaliteten, de undersøkelser vi har gjort i forbindelse med 
+prosjektet samt gunstig beliggenhet med tanke på adkomst og beredskap anser vi 13936 Sørvika som 
+godt egnet til uttesting av konseptet.  
+ 
+Tabell 1. Nøkkeltall fra strømmålingene på 13936 Sørvika i perioden 23.06 -  26.07.2021. 
+ 
+3. Fiskevelferd i proskjekteringsfasen 
+Som beskrevet over, er Hydra en semilukket produksjonsenhet som i prinsippet baserer seg 
+vannutskifting uten aktiv bruk av energi. Hydra innebærer også andre elementer knyttet til for 
+eksempel nothåndtering og fiskelogistikk som skiller seg fra tradisjonelle anlegg. Hensynet til 
+fiskevelferd, gjennom blant annet å sikre fisken godt levemiljø samtidig som man unngår elementer 
+som kan gi fysisk skade på fisken, har vært den bærende forutsetningen for prosjekteringen av 
+konseptet. HAZID-rapporten (Holand m.fl. 2021) beskriver hvordan man gjennom prosjekteringen har 
+etablert barrierer mot ulike risikoer knyttet til fiskehelse og -velferd. Noen av de vesentlige punktene 
+er også beskrevet nærmere i det følgende. 
+ 
+Implementeringen av en foilseksjon for effektiv, passiv vannutskifting forventes å sikre et godt 
+vannmiljø for fisken, ved gode strømforhold. Dette systemet er ikke testet i full skala, og for å sikre at 
+fisken vil ha et godt levemiljø selv om foilseksjonen ikke skulle ha forventet effekt og funksjonalitet, er 
+det implementert et nødsystem for vanninjeksjon med kapasitet på i overkant av 150 000 m3/t. Dette 
+tilsvarer ca 0,8 l/kg/min ved maks biomasse. Vanninjeksjonsystemet består av totalt fire thrustere som 
+styres individuelt, og har strømforsyning fra både landstrøm og aggregat om bord. Dette sørger for 
+redundans i de tilfeller hvor for eksempel landstrøm skulle falle bort for en periode. Thrusterne er 
+frekvensstyrt, og styringen vil være automatisert basert på oksygenmålinger i tanken. Det vil også være 
+mulig å kontrollere thrusterne manuelt ved behov. Totalt sett er vanninjeksjonssystemet prosjektert 
+med stor grad av redundans både hva gjelder strømforsyning og styring.  
+ 
+Videre har det vært stort fokus på å prosjektere produksjonsvolumet i Hydra med slette overflater uten 
+utstikkere eller ru og skarpe overflater og kanter som fisk kan skade seg mot. Det har også vært fokus 
+på å minimere omfanget av installert utstyr i produksjonsvolumet noe som blant annet har gitt seg 
+utslag i at fôrspredere er plassert på rekkverk utenfor produksjonsvolumet. For øvrig legges det kun 
+opp til ordinært utstyr som kamera, oksygensensorer og orienteringslys i produksjonsvolumet.  
+ 
+Prosjekteringen har også tatt hensyn til biosikkerhet, med tanke på både dødfiskhåndtering og risiko 
+for spredning av eventuelt smittsomme agens fra andre lokaliteter. Dødfisksystemet blir et lukket 
+system basert på liftupprinsippet, hvor dødfisk fraktes inn til et dødfiskrom via en lukket passasje fra 
+notspissen. Dødfiskrommet er et separat rom under hoveddekk, hvor den døde fisken blir registrert, 
+kategorisert og kvernet opp før den transporteres videre til ensilasjesystemet. Eventuelle svimere vil 
+bli avlivet ved strøm før kverning. Videre er Hydra prosjektert med alle nødvendige fasiliteter for 
+gjennomføring av ordinære arbeidsoperasjoner, slik at behovet for ekstern assistanse begrenser seg til 
+større operasjoner som for eksempel brønnbåtoperasjoner og fôrlevering. Dette vil bidra til å redusere 
+risikoen for overføring av smittsomme agens fra andre anlegg betydelig.  
+4. Driftsplan  
+ 
+Hydratanken blir konstruert for en maksimalt tillatt biomasse på 3120 tonn, tilsvarende fire 
+utviklingstillatelser. Nedenfor vil den generelle driften av Hydra beskrives kort, før det vil bli gitt en 
+oversikt over planen for opptrappende uttesting av konseptet. 
+4.1. Generell drift 
+Hydra skal kunne opereres uten permanent bemanning, på samme måte som tradisjonelle 
+oppdrettsanlegg. Enheten vil ikke være avhengig av fôrflåte og skal driftes med strømtilførsel fra land. 
+En del operasjoner forventes å kunne fjernstyres, slik som åpning av luker i forbindelse med fôrmottak, 
+kameraovervåking av fisk og anlegg, samt fôring av fisk. Enheten rengjøres med fjernstyrt 
+undervannsfarkost (ROV) underveis i produksjonen samt mellom produksjonssykluser. Det vil også 
+være system for fjernovervåking av vesentlige systemer, med rask beredskap i tilfelle oksygensvikt, 
+maskinhavari eller lignende.  
+4.2. Uttesting uten bruk av fisk 
+Som en del av prosjekteringen av Hydra er det gjennomført et modellforsøk. Her har blant annet 
+vanninjeksjonssystemet vært undersøkt, og man har sett på vannstrøm i tanken med og uten aktiv 
+vanninjeksjon. Forsøket viste effekt av foilsystemet både ved lav og høy strøm, både fra strømmålinger 
+og visuelle observasjoner. Målingene er imidlertid krevende å tolke – særlig ved lave strømhastigheter.  
+ 
+ Før utsett av fisk i tanken vil det også gjennomføres en funksjonstest av tankens kritiske systemer. 
+Innholdet i denne funksjonstesten vil avklares gjennom prosjektfasen fram mot levering av tanken fra 
+verftet. Det er imidlertid nærliggende å forvente at det vil gjennomføres tester og målinger knyttet til 
+strøm og vanninjeksjon gjennom denne testperioden.  
+ 
+ 
+4.3. Opptrappende uttesting med fisk 
+ 
+I første fase er det planlagt å gjennomføre en innledende uttesting med fisk. Denne er planlagt til mai 
+2024. Her vil det bli satt ut inntil 100 000 fisk med en gjennomsnittsvekt på ca. 3500 gram. Fisken er 
+planlagt holdt i Hydra i inntil to måneder før utslakt. Målet med dette utsettet er å dokumentere 
+konseptets egnethet med hensyn til fiskevelferd, samt indentifisere og implementere 
+forbedringspunkter før uttesting i full skala. Plan for dokumentasjon av fiskens velferd og evaluering av 
+denne er presentert i kapittel 5 og 6.  
+ 
+Fra september 2024 er det planlagt å gjennomføre en fullskala uttesting dersom dokumentasjonen og 
+evalueringen av resultatene fra den innledende uttestingen tilsier at dette er fiskevelferdsmessig 
+forsvarlig. Det vil da bli satt ut inntil 700 000 fisk med en gjennomsnittsvekt på 200-500 gram. Det 
+planlegges for at all fisk er utslaktet innen 31.12.2025. Se tabell 2 for oversikt over utsettene.  
+ 
+Tabell 2. Oversikt over driftsplanen til småskala og storskala uttesting av Hydrakonseptet. 
+ 
+Utsettsdato 
+Antall fisk 
+Vekt 
+Avslutning 
+Trinn 1 
+Innledende 
+uttesting  
+01.05.2024 
+Inntil 100 000 
+stk. 
+3500 – 4000 
+gram 
+Innen 01.07.2024 
+ 
+ 
+ 
+ 
+ 
+Trinn 2 
+Fullskala 
+uttesting 
+01.09.2024 
+Inntil 700 000 
+stk. 
+200 - 500 gram 
+Innen 31.12.2025 
+ 
+ 
+Uttestingen som beskrevet i denne prosjektplanen er et nødvendig ledd i å fremskaffe dokumentasjon 
+om konseptets egnethet som installasjon for oppdrett av laks, ut fra fiskevelferdsmessige hensyn. 
+Dokumentasjon og uttesting skal gjennomføres i tråd med vitenskapelige prinsipper. Dette innebærer, 
+som beskrevet over, en opptrappende tilnærming til uttesting i full kommersiell skala. I tråd med dette 
+gjennomfører vi i første fase av prosjektet uttesting uten bruk av fisk. Her er risikokartlegging en 
+vesentlig faktor, i tillegg til gjennomføring av modellforsøk ved SINTEF Ocean sitt havbasseng i 
+Trondheim, og funksjonstest av enhetens kritiske systemer før utsett av fisk (se kap. 4.2). Identifiserte 
+risikoer og nødvendige forbedringspunkter vil bli adressert og eventuelt utbedret fortløpende. 
+Gjennom denne fasen vil uttestingen kunne forberedes og optimaliseres uten bruk av fisk. 
+ 
+I neste fase følger den innledende uttestingen med fisk. Denne er planlagt over en begrenset 
+tidsperiode (inntil to måneder) og med et begrenset antall fisk (inntil 100 000 individer). Det vil settes 
+ut stor fisk (3500 - 4000 gram), noe som gjør det mulig å ta fisken raskt ut til slakt dersom dette skulle 
+være nødvendig av hensyn til fiskevelferd/-helse. Med et forventet produksjonsvolum på rundt 86 700 
+m3, vil tettheten ved slaktevekt på 5 kg komme opp mot 6 kg/m3. Etter vår vurdering innebærer dette 
+at den innledende uttestingen kan gjennomføres med minimal risiko og god beredskap knyttet til 
+fiskevelferd, samtidig som uttestingen vil gi verdifull kunnskap, og danne grunnlag for å vurdere om det 
+er forsvarlig å gå videre til neste fase av prosjektet. 
+ 
+Tredje og siste fase av prosjektet vil være fullskala uttesting med fisk. Det planlegges her et fullt 
+høstutsett med inntil 700 000 individer. Plan A vil være utsett av smolt på ca. 500 gram, men flere 
+grupper vil følges gjennom settefiskfasen, og dersom helhetsvurderingen knyttet til smoltens 
+helsestatus tilsier det, kan det bli aktuelt å sette ut fisk av mindre størrelse (ned mot 200 gram i 
+gjennomsnitt). Med smolt på 500 gram vil vi få en inngangsbiomasse med tetthet på samme nivå som 
+i oppstarten av den innledende uttestingen. Ved å sette ut smolt på høsten, vil biomasseutviklingen 
+skje relativt langsomt ut over høsten og vinteren, noe som vil redusere risiko for velferdsmessige 
+utfordringer relatert til tetthet og vannkvalitet. Videre vil denne utviklingen gi et godt grunnlag for å 
+kunne gjennomføre gode, regelmessige delevalueringer knyttet til Hydrakonseptets egnethet. Det vil 
+også foreligge god og effektiv beredskap for å ivareta fisken gjennom evakuering dersom hensynet til 
+fiskevelferd skulle tilsi at det er nødvendig (kapittel 7). 
+ 
+Opptrapping fra innledende uttesting til fullskala uttesting er et nødvendig ledd i å skaffe til veie 
+tilstrekkelig dokumentasjon om konseptets egnethet. Forutsatt at den innledende uttestingen kan 
+gjennomføres som forventet, og eventuelle forbedringstiltak etter denne fasen kan implementeres før 
+tredje og siste fase, er det vår vurdering at den skisserte progresjonen vil være forsvarlig ut fra et 
+fiskevelferdsmessig perspektiv. Dette både med bakgrunn i den innledende uttestingen, som vil gi 
+nyttig og nødvendig kunnskap om enhetens egnethet som oppdrettsinstallasjon, men også med 
+bakgrunn i den opptrappende intensiteten (biomasse-/tetthetsmessig), gode beredskapen, samt tette 
+oppfølgningen gjennom fase tre.  
+ 
+Det vil videre være hensiktsmessig og nødvendig å gjennomføre opptrappingen som skissert, med 
+bakgrunn i at prosjektet vil realiseres og gjennomføres i medhold av ordningen med utviklingstillatelser, 
+og for å raskest mulig komme i en posisjon hvor det kan vurderes om metoden er forsvarlig å ta inn i 
+storskala kommersiell bruk. 
+ 
+4.4. Driftsoperasjoner  
+I prosjekteringen av Hydra har vi lagt vekt på å legge til rette for å kunne gjennomføre vesentlige 
+driftsoperasjoner så likt som mulig tradisjonelle anlegg. Enkelte driftsoperasjoner vil likevel skille seg 
+fra tradisjonelle anlegg, eksempelvis fiskelogistikk, dødfiskhåndtering, nothåndtering med mer. I 
+forbindelse med disse operasjonene har vi så langt det har vært mulig benyttet oss av erfaring og 
+løsninger vi sammen med leverandører har utviklet og testet i forbindelse med Havfarm 1-prosjektet. 
+Noen av løsningene er også optimalisert for Hydra. Erfaringene vi har tatt med oss både fra tradisjonelle 
+anlegg og Havfarm 1-prosjektet gjør at vi vurderer at risikoen med tanke på fiskevelferd, knyttet til 
+driftsoperasjoner, ikke vil være høyere i Hydra enn i tradisjonelle anlegg (Holand m.fl. 2021). 
+ 
+ 
+ 
+5. Dokumentasjon av prosjektet 
+Hydraprosjektet vil følge et målrettet og forutsigbart løp etter vitenskapelige prinsipper for uttesting 
+og dokumentasjon. Som et ledd i dette, har Veterinærinstituttet vært ansvarlig for - og utarbeidet et 
+dokumentasjonsprogram for fiskehelse og – velferd. Dokumentasjonsprogrammet inneholder et 
+måleprogram på fiskebaserte og miljøbaserte velferdsindikatorer, samt et avsnitt om involvert 
+personell og ansvar, se vedlegg 1. Velferdsindikatorene i dokumentasjonsprogrammet er i stor grad 
+basert på «Velferdsindikatorer for oppdrettslaks: Hvordan vurdere og dokumentere fiskevelferd» av 
+Noble m.fl. fra 2018. Disse vil være med på å danne grunnlag for den helhetlige vurderingen av om 
+Hydrakonseptet er velferdsmessig forsvarlig til bruk for oppdrett av fisk.  
+Resultatene fra dokumentasjonsprogrammet vil bli dokumentert fortløpende i Nordlaks sitt interne 
+datalagringssystem, samt i form av referater fra ukemøter, månedsrapporter, og sluttrapport etter 
+henholdsvis småskala og fullskala uttesting. Basert på resultatene fra dette, og beste tilgjengelige 
+kunnskap, vil vi gjøre fortløpende helhetsvurderinger av konseptets egnethet på fiskevelferd og 
+forsvarlighet i videre uttesting.  
+5.1. Velferdsindikatorer som vurderingskriterier 
+Som støtte for vurdering av resultatene fra måleprogrammet, både underveis og ved endt produksjon, 
+har vi definert kriterier for sentrale velferdsindikatorer. Enkelte kriterier er egnet for en trafikklysbasert 
+modell, mens andre er mer egnet til å inngå som en del av en helhetlig vurdering. Kriteriene som er 
+tatt med i den trafikklysbaserte modellen er presentert i egne avsnitt under, samt oppsummert i tabell 
+4. Velferdsindikatorene som vi har vurdert uegnet som del av et trafikklyssystem vil dokumenteres iht 
+dokumentasjonsprogrammet, og inngå i den helhetlige månedlige vurderingen. Eksempelvis vil 
+oppblomstring av giftige alger i vannet kunne medføre evakuering av fisken uten at dette følger et 
+trafikklysbasert system.  
+ 
+Grunnlaget for tallfesting av kriteriene i trafikklysmodellen er dels relevant faglitteratur, dels 
+erfaringstall fra oppdrettsnæringen og Nordlaks, og dels skjønn. Faglitteratur er ofte basert på 
+kontrollerte studier av noen få og godt dokumenterte individer. I en oppdrettsenhet er det mange 
+individer og det kan være stor individuell variasjon, eksempelvis med hensyn til helsestatus og 
+størrelse. Det kan være utfordrende å få representative utvalg for undersøkelse fra en merd når antallet 
+må holdes på et nivå som er praktisk gjennomførbart å analysere (Nilsson & Folkedal, 2019). Siden den 
+individuelle variasjonen kan være betydelig må derfor resultater fra individundersøkelser tolkes med 
+forsiktighet og inngå i en helhetlig vurdering.  
+ 
+5.1.1 Dødelighet 
+ 
+Dødelighet er en av de mest brukt velferdsindikatorene i lakseoppdrett. En fisk som dør i en 
+oppdrettsenhet har som oftest i forkant opplevd en periode med redusert velferd. På denne måten vil 
+en økt dødelighetsrate indikere en forverret velferdssituasjon i enheten. Dødelighetet i lakseoppdrett 
+er ofte sammensatt av en bakgrunnsdødelighet og av tidsavgrensete episoder med forhøyet 
+dødelighet. Dødelighetstopper kan for eksempel være knyttet til utbrudd av smittsom sykdom, 
+håndtering av fisken eller uhell.  Forhøyet dødelighet kan både skyldes forhold av generell betydning 
+for fiskevelferden, men også uhell, håndtering av fisken eller lignende. Rødt nivå defineres som verdier 
+over Mattilsynets varslingsgrense >0.25 promille/dag (for fisk over 0,5 kg, tilsvarer ca. 0,75 %/mnd.), 
+se tabell 4. Dette vurderes hovedsakelig ukentlig, men dersom det registreres en relativt høy andel 
+dødfisk på en enkelttdag, vil dette utløse en varslingsplikt til prosjektgruppen. 
+ 
+5.1.2 Ytre avvik («velferdsskåring»)  
+ 
+Kriteriene for vurdering av resultater fra skåring av ytre skader og avvik er basert på bare ett av 
+elementene i Veterinærinsituttets dokumentasjonsprogram, faktoren kalt «Helhetsinntrykk». 
+Helhetsinntrykk beskriver det overordnede inntrykket, eller førsteinntrykket, en får når en undersøker 
+den enkelte fisken. I skåringen inngår også som standard vurdering av finneskader, hudstatus, 
+deformiter med mer, men disse inngår bare indirekte i vurderingsgrunnlaget.  
+ 
+Den relative frekvensen av fisk i det undersøkte utvalget med helhetsinntrykk skår 1, 2 og 3 vil avgjøre 
+hvordan resultatene av skåringen skal vurderes. Hvis et individ får en helhetsinntrykk skår 3 vil den i de 
+fleste tilfeller bli avlivet av velferdsmessige hensyn. Her vil det være viktig å tolke resultatene med 
+aktsomhet, da utvalget vil bestå av forholdsvis få individer. 
+5.1.3 Oksygen  
+ 
+Fiskens oksygenbehov/-forbruk påvirkes av vanntemperatur, fôrinntak, fysisk aktivitet og stressnivå. 
+Under de forventede vanntemperaturene i Hydra (ca. 4-12 °C) vil oksygenbehovet normalt øke med 
+økende temperatur. Remen m.fl.  (2016) undersøkte hvilken oksygenmetning som minimum måtte 
+være tilstede for postsmolt ved ulike temperaturer, for at det ikke skulle påvirke fôrinntaket til fisken 
+negativt(DOmaxFI). Det ble også undersøkt hvilken oksygenmetning som regnes som begrensende nedre 
+grense (LOS, limiting oxygen saturation). Forsøket ble gjort med postsmolt av laks (300 - 400 g) i kar 
+med strømhastighet 7 – 19 cm/sek, og med vanntemperatur på fire ulike nivå fra 7 – 19 °C. LOS-nivået 
+forutsetter sultet, frisk fisk under hvile. Ved forøket aktivitet eller stress vil oksygenbehovet øke. I 
+praksis er LOS-nivåene ikke aktuell å styre etter i denne sammenhengen. 
+ 
+ 
+Tabell 3. Tabellen viser oversikt over minimumgrenser for oksygen ved ulike temperaturer for å ikke påvirke fiskens 
+fôrinntak negatovt (DOmaxFI) og begrensende nedre grense (LOS). Kilde: Remen m.fl. 2016. 
+Temperatur 
+DOmaxFI 
+LOS 
+7 
+42 % 
+23 % 
+11 
+53 % 
+33 % 
+15 
+66 % 
+34 % 
+19 
+76 % 
+40 % 
+ 
+Kriteriene for god velferd er satt høyere enn DOmaxFI-verdiene i arbeidet til Remen m.fl.  (2016). Dette 
+dels for å ta høyde for eventuell måleusikkerhet (sensorene kan være uheldig plassert), fisken kan få 
+helsemessige utfordringer, eksempelvis gjelleproblemer som reduserer evnen til gassutveksling (Hvas 
+et al., 2017), og det er ønskelig med en viss sikkerhetsmargin. Lave oksygenverdier kan dessuten 
+indusere stress, som igjen øker oksygenbehovet.  
+ 
+Undersøkelsen til Remen mfl. Dekker ikke hele det aktuelle temperaturspennet i Hydratanken, men det 
+blir likevel i denne sammenhengen brukt 7-graders verdien som representant for temperaturene under 
+dette. For å ta hensyn til individuelle forskjeller i tanken, og for å forenkle vurderinger legges til 20 
+prosentpoeng til DOmaxFI-verdiene i tabell 2. Oksygennivå over dette defineres som grønne, nivå ned til 
+DOmaxFI defineres som gule og nivå under dette som røde. I en evaluering av oksygenforholdene vil det 
+være naturlig å også ta hensyn til DO i råvannet for å undersøke Hydrakonseptets effekt på 
+vannkvaliteten, her oksygen. 
+ 
+Det genereres store mengder oksygendata fra 5 sensorer med logging hvert 10. sekund i løpet av en 
+måned. Som grunnlag for å vurdere datamaterialet, fra en avgrenset tidsperiode, må det gjennomføres 
+en statistisk analyse (deskriptiv statistikk). Gjennomsnitt, median, persentiler og spredning vil i de fleste 
+tilfeller være tilstrekkelig for å vurdere trenden. I tvilstilfeller må det benyttes skjønn ved vurdering om 
+forholdene kan kategoriseres som grønne, gule eller røde. Ved rødt nivå bør man ikke vente på 
+månedsoppsummering før en treffer tiltak.  
+ 
+ 
+ 
+5.1.4 Vurderingskriterier i trafikklysmodell  
+ 
+Tabell 4. Tabellen viser en trafikklysbasert oversikt over vurderingskriteriumene. 
+Nivå 
+Grønt nivå  
+Gult nivå  
+Rødt nivå 
+Avbruddskriterum 
+Dødelighet, akutt %  
+(2 døgn) 
+IA 
+IA 
+>1  
+Rødt nivå, tydelig 
+relatert til 
+Hydrakonseptet, 
+forholdet kan ikke 
+forventes å forbedres 
+med rimelige tiltak 
+innen kort tid.  
+Dødelighet, vedvarende 
+% 
+<0,25  
+0,25 – 0,75 
+>0,75 
+Rødt nivå, tydelig 
+relatert til 
+Hydrakonseptet, dårlig 
+prognose for 
+fiskevelferden videre og 
+ingen forbedring innen 
+en rimelig tidsramme 
+gitt av prosjektgruppen. 
+Ytre avvik underveis, skår 
+2 og 3 (totalt), % 
+<10 
+10-25 
+>25 
+Rødt nivå, med dårlige 
+prognoser for fisken og 
+nagativ trend.  
+Ytre avvik underveis, skår 
+3, % 
+<5 
+5-10 
+>10 
+Rødt nivå med dårlige 
+prognoser for fisken 
+som tilsier ytterligere 
+negativ utvikling over 
+tid 
+Oksygen DO, %, <7 °C 
+>62 
+62 - 42 
+<42 
+Registreringer på rødt 
+nivå over en periode 
+angitt av 
+prosjektgruppen, hvor 
+tiltak som økt bruk av 
+thrustere ikke har gitt 
+positivt utslag, og det er 
+sannsynlig at 
+oksygennivåene 
+påvirker fisken vesentlig 
+(nedsatt appetitt, 
+sturing med mer.) 
+Oksygen DO, %, 7-11 °C 
+>73 
+73-53 
+<53 
+Oksygen DO, %, 11-15 °C 
+>86 
+86-66 
+<66 
+Oksygen DO, %, 15-19 °C 
+>96 
+96-76 
+<76 
+ 
+ 
+ 
+ 
+6. Evaluering  
+ 
+ 
+Evalueringen av Hydrakonseptets egnethet relatert til fiskevelferd vil under uttesting gjøres av internt 
+fiskehelsepersonell i Nordlaks, i samråd med vitenskapelig personell fra Veterinærinstiuttet. 
+Evalueringen vil foregå fortløpende, på ukentlig og måndelig nivå (delevalueringer), samt ved 
+avslutning av produksjonen (sluttdokumentasjon).  
+6.1. Evaluering av uttesting uten fisk 
+I forbindelse med funksjonstest av enhetens kritiske systemer, som gjennomføres før utsett av fisk, skal 
+det gjennomføres en evaluering av hvorvidt disse systemene fungerer tilfredsstillende til at det er 
+forsvarlig å starte opp uttesting med fisk. Det skal utarbeides en egen rapport i denne forbindelse, hvor 
+vurdering av forsvarlighet skal inngå som et av punktene, i tillegg til blant annet forslag til forbedringer 
+og endringer. Rapporten utarbeides av prosjektet, og vurderingen skal godkjennes av beslutningstaker 
+før utsett av fisk.  
+ 
+6.2. Ukentlig evaluering 
+Det vil avholdes ukentlige statusmøter så langt det lar seg gjøre. Her vil det biologiske fokuset være 
+rettet mot vurderingskriteriene angitt av Veterinærinstituttet, se vedlegg 1, andre relevante tema rundt 
+den generelle driften, samt eventuelle forbedringspunkter og tiltak. Referat fra ukemøtene vil bli 
+arkivert på Hydras prosjektområde. På ukemøtene vil driftsleder, Operasjonssentralen (OPS), 
+fiskehelsepersonell fra Nordlaks, samt vitenskapelig personell fra Veterinærinstituttet delta. Ansvarlig 
+for å lede ukemøtene vil så langt det lar seg gjøre være internt fiskehelsepersonell.  
+Ukemøtene vil være med å danne grunnlaget for de månedlige evalueringene, og samtidig bidra til å 
+avdekke eventuelle forbedringspunkter og avvik på et tidlig nivå.  
+6.3. Månedlig evaluering 
+Senest 5 arbeidsdager etter månedsslutt skal det foreligge en oppsummerende statusrapport for 
+foregående måned basert på tilgjengelig dokumentasjon av de ulike vurderingskriteriene, samt en 
+evaluering av disse. Avslutningsvis skal det vurderes om Hydrakonseptet har potensiale til å fungere 
+velferdsmessig forsvarlig, og om uttestingen kan fortsette. Rapporten skal utformes av internt 
+fiskehelsepersonell, i samråd med driftsleder, prosjektleder og Veterinærinsituttet. Rapporten skal 
+oversendes til administrerende direktør (beslutningsansvarlig), som skal godkjenne rapporten. 
+Dersom det på månedlig nivå er velferdsindikatorer som havner i rødt referanseområde, skal det gjøres 
+en særskilt vurdering av årsak, belastning for fisken, samt prognose.  
+ 
+Ved hver månedlige evaluering skal prosjektets egnethet ut fra hensynet til fiskevelferd evalueres på 
+en skala fra 1 – 4, hvor økende score tilsvarer dårligere fiskevelferd, se tabell 5. 
+ 
+Tabell 5. Tabellen viser oversikt over de ulike velferdsscoringene basert på helhetsvurderinger gjort av 
+prosjektgruppen. Vurdering av velferdsscore skal gjennomføres ved de månedlige evalueringene.  
+Velferdsscore 
+Forklaring 
+Vurdering av uttestingens forsvarlighet 
+ 
+1 «God» 
+ 
+Majoriteten av fiskepopulasjonen 
+har god fiskevelferd 
+ 
+Uttestingen er velferdsmessig forsvarlig og kan 
+fortsette. 
+2 «Akseptabel» 
+Majoriteten av fiskepopulasjonen 
+har god fiskevelferd, men en liten 
+andel fisk vurderes å ha nedsatt 
+velferd  
+Uttestingen kan fortsette, men med fokus på 
+oppklaring av årsak til nedklassing, tiltak og 
+prognose. I tillegg skal konseptets særegne 
+negative påvirkning vurderes. 
+3 «Nedsatt» 
+En betydelig andel av 
+fiskepopulasjonen vurderes å ha 
+nedsatt fiskevelferd, men det 
+vurderes ikke som sannsynlig 
+med ytterligere forverring av 
+situasjonern.  
+Fiskens velferd vurderes som nedsatt. Utvidet 
+evaluering skal gjennomføres med hensyn til årsak 
+til nedklassing, tiltak og prognose. Konseptets 
+særegne negative påvirkning skal vurderes, og 
+prosjektgruppen skal vurdere om uttestingen bør 
+avbrytes.  
+4 «Uakseptabel» 
+En høy andel av 
+fiskepopulasjonen vurderes å ha 
+nedsatt fiskevelferd og 
+prognosene for tilfriskning er 
+dårlige.  
+Fiskens velferd vurderes som uakseptabel. 
+Beredskapsplanens bestemmelser om evakuering 
+eller saneringsslakting skal følges uten unødig 
+opphold. 
+ 
+ 
+Ved tilfeller som tilsier at en vurdering av om det er forsvarlig å fortsette uttestingen skal gjennomføres 
+utenom de månedlige evalueringene, skal vurderingene dokumenteres og godkjennes på samme måte 
+som for de månedlige evalueringene. 
+6.4. Sluttevaluering 
+ 
+I etterkant av uttesting med fisk skal det utformes en oppsummerende sluttrapport basert på 
+tilgjengelig dokumentasjon opparbeidet gjennom prosjektet. Referat fra ukentlige møter, samt 
+månedlige rapporter vil også være med på å danne grunnlaget for rapportene. Det skal utarbeides en 
+delevaluering etter innledende uttesting og sluttevaluering etter fullskala uttesting. 
+6.4.1 Delevaluering av innledende uttesting 
+ 
+I rapporten skal resultater av velferdsindikatorene fra dokumentasjonsprogrammet evalueres. 
+Hensikten med rapporten er å dokumentere de velferdsmessige konskvensene av Hydrakonseptet på 
+fiskevelferden og vurdere om det er forsvarlig å gå videre med fullskala uttesting. Forbedringspunkter 
+identifisert gjennom innledende forsøk skal beskrives i rapporten.  
+Rapporten og evalueringen skal utarbeides av internt fiskehelsepersonell i samråd med 
+Veterinærinstituttet, og godkjennes av administrerende direktør.  
+ 
+6.4.2 Evaluering av fullskala uttesting 
+ 
+Rapporten etter fullskala uttesting skal ha likt fokus som rapporten etter innledende uttesting, og skal 
+omfatte resultater både fra innledende uttesting og fullskala uttesting. Denne skal inneholde en 
+vurdering om hvorvidt konseptet er egnet for kommersielt oppdrett av laks ut fra hensynet til fiskehelse 
+og -velferd. Veterinærinstituttet vil være ansvarlig for utforming av rapporten. 
+7. Risikokartlegging og beredskap 
+7.1. Risikokartlegging 
+For å kartlegge risikoområder ved oppdrett av fisk i enheten har det blitt utført en «Hazard 
+Identification analyse», HAZID-analyse. Dette er en anerkjent, strukturert metode for å identifisere og 
+dokumentere risiko og farlige forhold knyttet til eksempelvis en operasjon. HAZID-analysen ble 
+gjennomført i samråd med internt fiskehelsepersonell i Nordlaks, kvalitetsleder for sjøanlegg, samt 
+med vitenskapelig personell fra Veterinærinstituttet med erfaring fra lukket teknologi. For 
+oppsummering av HAZID-loggen, samt endelig rapport, se vedlegg 2. HAZID-analysen er ment å dekke 
+de samme tema som Havforskningsinsituttets skjema for «Velferdsvurdering av nye metoder og utstyr» 
+fra mai 2020. 
+ 
+Ovennevne HAZID-rapport vil bli benyttet som utgangspunkt for utforming av risikovurderinger og 
+prosedyrer. Disse blir utarbeidet og arkivert i kvalitetssystemet Extend Quality System, EQS. 
+Risikovurderinger og prosedyrer er levende dokumenter som vil bli oppdatert gjennom prosjekterings- 
+og byggefasen, og frem mot idriftssettelse, samt gjennom driftsfasen etterhvert som man vinner 
+erfaringer.  
+7.2. Beredskapsplan 
+Det er utarbeidet en egen beredskapsplan for sykdom, massedød og fiskeveferd for Hydra (EQS id 3167, 
+vedlegg 3). Dersom prosjektgruppen vurderer at det ikke er velferdsmessig forsvarlig å fortsette 
+uttestingen, vil delvis eller fullstendig evakuering av fisken bli iverksatt. Alternativene for delvis eller 
+fullstendig evakuering vil være: 
+- 
+Evakuering til evakueringslokalitet (13782 Helgeneshamn, 35677 Brottøy, 13527 Finnkjerka, 
+13293 Molgavlen)  
+- 
+Evakuering til 11230 Børøya slaktemerd, eventuelt direktelossing til slakteri 
+- 
+Sanering, Hordafôr 
+Nordlaks Oppdrett har en avtale om transportberedskap med brønnbåtene M/S Harald Martin og M/S 
+Bjørg Pauline. Disse vil på kort varsel kunne bistå i evakuering av fisken til enten evakueringslokalitet, 
+eller internt slakteri hvor det også foreligger en avtale om nødslakting. Kapasitet på slakteriet er ved 
+normal drift 340 tonn per dag ved snittvekt på 4.5 kg. Det foreligger også en avtale med Hordafôr 
+dersom situasjonen skulle tilsi et slikt behov.  
+8. Referanser 
+ 
+Beredskapsplan for sykdom, massedød og fiskeveferd for Hydra (EQS id 3167). 
+ 
+Bricknell, I.R., Dalesman, S.J., O'Shea, B., Pert, C.C., Luntz, A.J.M., 2006. Effect of environmental 
+salinity on sea lice Lepeophtheirus salmonis settlement success. Dis. Aquat. 
+Org. 71, 201–212. 
+ 
+Costello, M.J., 2006. Ecology of sea lice parasitic on farmed and wild fish. Trends Parasitol. 
+22, 475–483. 
+ 
+ 
+Forskrift om drift av akvakulturanlegg (akvakulturdriftsforskriften) (2008).  
+(FOR-2020-12-18-3041). Hentet fra https://lovdata.no/dokument/SF/forskrift/2008-06-17-
+822?q=akvakulturdriftforskriften. 
+ 
+Heuch, P.A., 1995. Experimental-evidence for aggregation of salmon louse copepodids 
+(Lepeophtheirus salmonis) in step salinity gradients. J. Mar. Biol. Assoc. UK 75, 
+927–939. 
+ 
+Holand, R.R.B., Johansen, B & Robertsen, C. 2021. Nordlaks – Prosjekt Hydra. HAZID-rapport 
+fiskehelse og –velferd. Nordlaks Oppdrett, Rapport 8-2021. 
+ 
+Johnsen, I.A., Fiksen, O., Sandvik, A.D., Asplin, L., 2014. Vertical salmon lice behaviour as a 
+response to environmental conditions and its influence on regional dispersion in a 
+fjord system. Aquac. Environ. Interact. 5, 127–141. 
+ 
+Lov om dyrevelferd (dyrevelferdsloven). (2010). (LOV-2021-06-18-134) 
+Hentet fra https://lovdata.no/dokument/NL/lov/2009-06-19-97?q=dyrevelferd.  
+ 
+Mattilsynet, 2020. Veileder om fiskevelferd ved utvikling og bruk av metoder, utstyr, teknologi mv i 
+akvakulturhttps://www.mattilsynet.no/om_mattilsynet/gjeldende_regelverk/veiledere/veileder_om_
+fiskevelferd_ved_utvikling_og_bruk_av_metoder_utstyr_teknologi_mv_i_akvakultur_oppdatert_juni
+_2020.20481/binary/Veileder%20om%20fiskevelferd%20ved%20utvikling%20og%20bruk%20av%20
+metoder,%20utstyr,%20teknologi%20mv%20i%20akvakultur%20(oppdatert%20juni%202020)  
+ 
+Nilsen, A. Vale Nielsen, K, Biering, E. Bergheim, A. (2017). Effectice protection against sea lice during 
+the production of Atlantic salmon in floating enclosures.  
+ 
+Nilsson, J., Folkedal, O. (2018). Sampling of Atlantic salmon Salmo salar from tanks and sea cages is 
+size-biased. Aquaculture. 502. 10.1016/j.aquaculture.2018.12.053. 
+ 
+Noble, C., Nilsson, J., Stien, L. H., Iversen, M. H., Kolarevic, J. & Gismervik, K. (2018).  
+Velferdsindikatorer for oppdrettslaks: Hvordan vurdere og dokumentere fiskevelferd. 312 pp. 
+ 
+Remen, M., Sievers, M., Torgersen, T., Oppedal, F. (2016). The oxygen threshold for maximal feed 
+intake of Atlantic salmon post-smolts is highly temperature-dependent. Aquaculture 464. 2016, 
+582-592. 
+ 
+Sommerset I, Bang Jensen B, Bornø B, Haukaas A og Brun E. Fiskehelserapporten 
+2020, utgitt av Veterinærinstituttet 2021 
+ 
+ 
+9.  Vedlegg 
+ 
+Vale Nielsen, K. 2022. Veterinærinstituttet - Fiskehelse og – velferd i Hydra produksjonstank – 
+Dokumentasjonsprogram.

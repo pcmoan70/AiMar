@@ -1,0 +1,2484 @@
+﻿Risikotype
+Økonomi/fremdrift
+Forklaring (produktmatrise):
+Før tiltak
+Etter tiltak
+Konsekvens:
+Sannsynlighet:
+1
+Ubetydelig
+2
+ Mindre alvorlig /
+En viss fare
+3
+Betydelig / Kritisk
+4
+Alvorlig / Farlig
+5
+Svært alvorlig /
+Farlig
+Konsekvens:
+Sannsynlighet:
+1
+Ubetydelig
+2
+ Mindre alvorlig /
+En viss fare
+3
+Betydelig / Kritisk
+4
+Alvorlig / Farlig
+5
+Svært alvorlig /
+Farlig
+5
+Svært sannsynlig
+1
+5
+1
+5
+Svært sannsynlig
+4
+Meget sannsynlig
+4
+32
+26
+12
+4
+Meget sannsynlig
+4
+10
+3
+Sannsynlig
+10
+18
+32
+7
+3
+Sannsynlig
+10
+28
+28
+Forklaring SHA
+2
+Mindre sannsynlig
+4
+14
+8
+2
+2
+Mindre sannsynlig
+11
+28
+33
+10
+1
+Lite sannsynlig
+1
+Lite sannsynlig
+1
+1
+2
+7
+3
+51
+0
+7  Lukket
+121
+105
+4
+23
+Prosjektfase
+1. Bestilling og drift
+Før tiltak
+Etter tiltak
+Konsekvens:
+Sannsynlighet:
+1
+Ubetydelig
+2
+ Mindre alvorlig /
+En viss fare
+3
+Betydelig / Kritisk
+4
+Alvorlig / Farlig
+5
+Svært alvorlig /
+Farlig
+Konsekvens:
+Sannsynlighet:
+1
+Ubetydelig
+2
+ Mindre alvorlig /
+En viss fare
+3
+Betydelig / Kritisk
+4
+Alvorlig / Farlig
+5
+Svært alvorlig /
+Farlig
+5
+Svært sannsynlig
+1
+3
+5
+Svært sannsynlig
+1
+4
+Meget sannsynlig
+4
+22
+21
+13
+4
+Meget sannsynlig
+4
+7
+3
+Sannsynlig
+10
+15
+25
+6
+3
+Sannsynlig
+10
+24
+21
+2
+Mindre sannsynlig
+6
+11
+9
+3
+2
+Mindre sannsynlig
+8
+21
+30
+10
+1
+Lite sannsynlig
+1
+Lite sannsynlig
+2
+2
+5
+4
+43
+0
+6  Lukket
+100
+90
+6
+19
+USIKKERHETSREGISTER
+FØR TILTAK
+ETTER TILTAK
+Sannsynlighet
+Konsekvens
+Risiko
+Tiltak for å redusere sannsynlighet
+Tiltak for å redusere konsekvens
+Lukket
+Sannsynlighet
+Konsekvens
+Risiko
+ID
+BowTie
+Prosjektfase
+Risikotype
+Område
+Risikotittel
+Hvis… (beskriv hendelsen)
+Så… (beskriv konsekvensen)
+Risiko av
+Oppfølgingsforum
+ID
+BowTie
+Prosjektfase
+Risikotype
+Område
+Risikotittel
+Hvis… (beskriv hendelsen)
+Så… (beskriv konsekvensen)
+Risiko av
+Oppfølgingsforum
+S1
+K1
+R1
+Tiltak for å redusere sannsynlighet
+Tiltak for å redusere konsekvens
+Lukkes
+S2
+K2
+R2
+R3
+R4
+2
+108
+1. Bestilling og drift
+Økonomi/fremdrift
+Menneske
+Manglande fagpersonell
+manglende kontroll og/eller
+forståelse av produksjon
+kan gi katastrofale følger i produksjon (tapt produksjon)
+"Driftsleder"
+Driftsmøte
+4
+4
+16
+Tilsette interessert fagpersonell, gjennomføre god opplæring, etablere
+arbeidsprosedyrer
+Kommentar: Prosjektrom internt: Prosjektet planlegger for god opplæring av de
+ansatte. Krav om opplæring medtas i alle kontraktsmalene. Ingen ytterligere
+aksjon.
+Tett oppfølging av tilsette (av eiere og mer
+erfarne)
+3
+4
+12
+x
+3
+108
+1. Bestilling og drift
+Økonomi/fremdrift
+Menneske
+Dårlig vedlikehaldt IK-system
+mangler og feil i anlegget blir
+ikkje fanga opp
+kan til slutt bli ødelagt, gi større følger enn først antatt
+"Driftsleder"
+Driftsmøte
+3
+3
+9
+Hyppig kontroll av IK-system. Effektiv læring til nyansatte - krav om læring. Alt
+skal noteres og avviksføres.
+Ledelse som er tett på og følger opp alt som
+bemerkes/noteres ift anlegg og fiskehelse
+3
+3
+9
+x
+7
+111
+1. Bestilling og drift
+Økonomi/fremdrift
+Fisk
+Skade på fisk pga skarpe/ujevne kanter i
+kar
+der er skarpe/ugjevne kanter i ka
+kan dette føre til åpningssår på
+fisk som kan infiltrerast av
+bakterier
+kan dette føre til høg dødelighet, smitte horisontalt i
+vannmassane
+"Driftsleder"
+Prosessprosjektering
+4
+3
+12
+Montere PVC-puter på alle flater der fisk kan hoppe/renne i, eller skrape seg opp
+på.
+Montere beskyttelse underveis i produksjonen
+for å unngå fleire fisk med skade
+4
+3
+12
+x
+31
+106
+1. Bestilling og drift
+Økonomi/fremdrift
+Fisk
+Trengegrind
+Kollaps av trengegrind grunnet
+vannmotstand og trykk fra fisk
+Må gjøre ombygging av leveransesystemet etter fisk er satt i
+anlegget
+Mikael Eines (Nekton)
+Prosessprosjektering
+4
+3
+12
+Vurdere design, etablere backup-løsninger. Vil det være ok med transport uten
+trengegrind?
+4
+3
+12
+x
+52
+110
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Fôringssystem
+forsystem blir plassert for høyt
+over kar
+kan dette føre til at fiskefor faller raskere til bunns og at fisken
+ikke får ønsket FCR
+Ole A. Nordal (Segel)
+Prosessprosjektering
+4
+3
+12
+Erfaringsutveksling, vurdering av fôringssystem, formengde, fortype,
+4
+3
+12
+x
+65
+106
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Fiskepumpekapasitet
+fiskepumpe ikke klarer å
+løfte/transportere fisken eller
+skader denne
+kan dette gi utfordringer og en fisketetthet som kan stresse,
+skade og ta livet av fisken
+Ole A. Nordal (Segel)
+Prosessprosjektering
+3
+4
+12
+Tilstrekkelig med testing, dokumentasjon av pumper og vurdering av
+leverandører. Studietur
+3
+4
+12
+x
+12
+108
+1. Bestilling og drift
+Økonomi/fremdrift
+Menneske
+Ansatte
+man ikke klarer å skaffe rett
+kunnskap for å drifte
+oppdrettsanlegget
+vil feil kunne oppstå som setter produksjon, bestilling og
+overordnet målsetting på spill
+Geir Skjervheim
+(forsikring)
+Styringsgruppemøte
+3
+4
+12
+"Røkteskole", utplassering. Kontakte andre oppdrettsselskap for å få opplæring/gi
+opplæring
+3
+4
+12
+x
+13
+110
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Manglende back-up på pumper
+man har manglende back-up i
+pumper ved eventuelle havari
+kan dette føre til svikt i vanntilførsel, svikt i vannkvalitet, høyt
+Co2 nivå, lavt O2 nivå og fiskedød
+Geir Skjervheim
+(forsikring)
+Prosjektmøte
+2
+4
+8
+Back-up pumpe kjøpt inn. Prosedyrer for test og prosedyrer ved nødsituasjon
+2
+4
+8
+x
+16
+101
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Dødsoner i anlegg
+man har "dødsoner" i anlegg kan
+oppsamling av sedimenter
+kan dette føre til oppsamling av sedimenter som kan føre til
+anarob forråtnelse. Sedimenter kan "løsne" og oppløses i kar.
+Dette gir et Hydrogensulfid-sjokk som gir umiddelbar høy
+dødlighet
+Geir Skjervheim
+(forsikring)
+Prosjekteringsmøte
+4
+5
+20
+Grundig gjennomgang av rør og systemer som er i kontakt med fisk
+unngå moglegheit for stilleståande vatn. Opplæring og merking av rør som kan ha
+stilleståande vatn. Prosedyrer for opning av ventiler og for oppstart av kar
+2
+5
+10
+x
+106
+106
+1. Bestilling og drift
+Økonomi/fremdrift
+Fisk
+Kapasitet og hastighet ved levering av
+matfisk
+fisk ikke blir levert med ønsket
+kapasitet (40-50 tonn/time)
+kan dette føre til høyere O2 forbruk og mulig underkapsitet.
+Konsekvens blir stresset fisk og mulig fiskedød
+Svein Olav Fjæra
+Prosessprosjektering
+4
+3
+12
+Simulering og dokumentasjon fra fiskepumpeleverandør. Konsultering med
+leverandører ift. problemstilling. Bruk av trengegrind
+4
+3
+12
+x
+19
+113
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Leveranse flytende O²
+der ikke blir levert o2 grunnet
+vær, force majure etc
+kan dette føre til forringet fiskehelse, sykdom, fiskedød i
+anlegget
+Erik Morvik (Blom)
+Driftsmøte
+3
+2
+6
+sikre leveranse O², god planlegging
+Avtale med leverandør ang sikker leveranse
+evt.egen produksjon
+3
+2
+6
+x
+119
+110
+1. Bestilling og drift
+HMS/SHA
+Det fysiske anlegget Vann i maskinrom
+Brudd på slange, rør eller kobling
+iog rundt fiskepumpe
+Maskinrommet fylles med vann. Skjer dette med fisk i
+slangene får vi fiskedød. El-motor på fiskepumpe ødelegges.
+Fare for mennesker
+Ola Sveen (BMF)
+Prosessprosjektering
+3
+4
+12
+Slanger og rør må være dimensjonert riktig. Krager og flenser må være montert
+riktig. Nivåalarm for vann må settes lavt i maskinrommet. Etablering av
+pumpesynk med redundans av pumper. Vurdere bowtie på senarie med brudd på
+fisketrans. Vurdere sikringstiltak.
+Prosedyrer og rutiner på sjekk av utstyr, rør og
+slanger
+3
+4
+12
+x
+272
+802
+1. Bestilling og drift
+Økonomi/fremdrift
+Vann
+Inntaksledning
+man bare har inntakspunkt på en
+dybde
+kan ugunstige forhold man ikke har tenkt på føre til risiko for
+økt sykdomsfare for stående biomasse
+Ole Nordal
+Styringsgruppemøte
+3
+4
+12
+Etablere 2 inntak
+1
+4
+4
+x
+273
+802
+1. Bestilling og drift
+Økonomi/fremdrift
+Vann
+Inntaksledning
+man bare har inntakspunkt på en
+dybde
+kan man ikke regulere temperaturvariasjoner gjennom året på
+samme måte
+Ole Nordal
+Styringsgruppemøte
+3
+4
+12
+Etablere 2 inntak
+1
+4
+4
+x
+276
+803
+1. Bestilling og drift
+Økonomi/fremdrift
+Ytre milø
+Inntaksledning
+det er tett inntaksil, det er dårlig
+vær
+vil dette føre til manglende råvann og innen kort tid føre til
+dårlig vannkvalitet og fiskedød
+Ole Nordal
+Styringsgruppemøte
+3
+4
+12
+Manngrind ved inntak, varegrind i inntakskum
+3
+4
+12
+x
+33
+105
+1. Bestilling og drift
+Økonomi/fremdrift
+Fisk
+Høy tetthet (75kg/m3)
+hvis man har for høy tetthet
+kan dette føre til dårligere smolt, sårproblematik, sykdom og
+dødelighet
+Mikael Eines (Nekton)
+Driftsmøte
+3
+3
+9
+Etablere gode målerutiner og leveringsplaner
+3
+3
+9
+x
+108
+104
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Rensing av kar
+fiskekar går tett
+vil det ikke være mulig å evakuere vann og fisken kan dø
+Hans C. Haddal
+Prosessprosjektering
+2
+5
+10
+Vurdere løsninger for flytt av fisk (hvor kan fisken flyttes?). Ellers
+designforbedringer? Selvrensing av kar.
+Pumpe fisk med fiskepumpe og snabel. Etablere
+nødprosedyre
+2
+5
+10
+x
+10
+110
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Fiskepumpe
+fiskepumpe stopper og ikke kan
+repareres innen kort tid
+er det fare for at all fisk i rør vil dø. Ikkje fiskevelferdsmessig
+forsvarlig.
+"Driftsleder"
+Prosjektmøte
+3
+3
+9
+Forstå oppbygginga av fiskepumpe, ha reservelager av deler og være i nærhet for
+å kunne utføre rask reperasjon. Back-up løsning. Avtale med annen oppdretter?
+ Montere ekstra rør frå innforsyning av sjøvann
+til start på transportrør for fisk, slik at fisken
+som allereie er i rør kan skyves ut til brønnbåt -
+dersom fallet i grader er bra nok for
+sjøpumpene- til å skyve all fisken i rør.
+3
+3
+9
+x
+50
+104
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Sentersil
+sentersil ikke fungerer etter
+hensikt
+vil ikke anlegget fungere etter hensikt
+Ole A. Nordal (Segel)
+Prosessprosjektering
+4
+5
+20
+Testes i pilot
+1
+5
+5
+x
+51
+104
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Renhold av sentersil
+"skygger" i sentersil ikke
+identifiseres
+vil der være fare for forringet vannkvalitet og redusert
+tilvekst/produksjon
+Ole A. Nordal (Segel)
+Prosessprosjektering
+4
+5
+20
+Testes i pilot
+1
+5
+5
+x
+15
+108
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Reservedeler
+maglende hurtig tilgang på
+reservedeler
+kan dette føre til drifts og produksjonsstans
+Geir Skjervheim
+(forsikring)
+Innkjøpsmøte
+3
+3
+9
+God kontroll på behov og kritikalitet. Be om tilbud på anbefalte
+reservedeler/vedlikeholdsavtale fra leverandør ved kontraktsinngåelse.
+Back-up løsning for kritiske
+komponenter/redundans
+3
+3
+9
+x
+20
+106
+1. Bestilling og drift
+HMS/SHA
+Fisk
+Trenge grind v/levering
+innløpsrør står i vegen for
+trenging av fisk
+kan dette føre til stress/skade på fisk eller folk
+Erik Morvik (Blom)
+Prosessprosjektering
+3
+3
+9
+Rist mellom kar vegg og innløpsrør. Vurdere valg av teknisk løsning
+Settes ned før levering
+3
+3
+9
+x
+28
+105
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Utilstrekkelig UV
+UV system ikke fungerer etter
+hensikt
+kan sykdom (f.eks PD) komme inn i anlegget. Man får ikke
+flyttet fisken, selv til nærliggende lokaliteter. Unntak kan fås
+hvis lik sykdomsstatus på anlegget. Må slakte/avvlive fisken
+ved endt produksjon på anlegget.
+Mikael Eines (Nekton)
+Prosessprosjektering
+3
+3
+9
+3
+3
+9
+x
+62
+112
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Co2 lufter
+Co2 lufter ikke klarer å strippe
+Co2 som prosjektert
+vil dette føre til økte driftskostnader og redusert
+måloppnåelse
+Ole A. Nordal (Segel)
+Prosessprosjektering
+3
+3
+9
+Adressere problemstilling til leverandør. Be om dokumentasjon
+3
+3
+9
+x
+58
+110
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Karhydraulikk
+strømningsbildet i kar ikke
+stemmer med det som er
+beregnet
+kan dette føre til endret vannkjemi og miljø for fisken som kan
+forringe vekstmål og kvalitet
+Ole A. Nordal (Segel)
+Prosessprosjektering
+3
+3
+9
+Kjøre simuleringer og vurdere ulike produksjonsmoduser
+3
+3
+9
+x
+14
+112
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Kalibrering av måleutstyr
+feil på målinger
+kan dette føre til feil i vannkjemi og videre til fare for
+dødlighet
+Geir Skjervheim
+(forsikring)
+Driftsmøte
+4
+2
+8
+Kontroll på behov og kritisk utstyr. Vedlikeholdssystem. Rutiner. Prosedyrer
+Avtaler om leveranse eller ha på site
+4
+2
+8
+x
+57
+110
+1. Bestilling og drift
+HMS/SHA
+Det fysiske anlegget Oksygenlekkasje
+oksygentank eller rørsystem av en
+eller annen grunn skulle bli skadet
+eller ha feil
+kan personell eller materiell bli eksponert for ren oksygen som
+kan være meget brannforsterkende
+Ole A. Nordal (Segel)
+Prosjekteringsmøte
+2
+4
+8
+Gjennomtenkt prosjektering med hensyn på plassering av utstyr og føring av
+rørsystem for oksygen
+Tilgjenelig slukkeutstyr. Automatikk i
+styring/trykkfall
+2
+4
+8
+x
+66
+106
+1. Bestilling og drift
+Økonomi/fremdrift
+Fisk
+Mottak av fisk
+fiskemottakssystemet ikke
+fungerer som planlagt
+vil fisk dø av oksygenmangel eller av høyt CO2 nivå
+Ole A. Nordal (Segel)
+Driftsmøte
+3
+4
+12
+Simulering av arbeidsoperasjon i samråd med erfarne driftspersonell fra lignende
+anlegg
+3
+4
+12
+x
+67
+105
+1. Bestilling og drift
+Økonomi/fremdrift
+Fisk
+Sykdom på tilført settefisk (100g)
+fisk som kommer fra
+smolt/settefiskanlegg har sykdom
+kan dette gi høye driftskostnader og føre til at sykdom blir
+"værende" i anlegget
+Ole A. Nordal (Segel)
+Driftsmøte
+3
+5
+15
+Grundig evaluering av smolt før transport, screening av leverandører mv.
+Prosedyrer
+Medisinering og annen behandling
+2
+4
+8
+x
+68
+107
+1. Bestilling og drift
+HMS/SHA
+Det fysiske anlegget Røkting i dårlig vær
+personell som går på gangbane
+blir utsatt for sterk vind/vindkast
+kan dette utgjøre en fare for personell som kan falle ut i vann
+Ole A. Nordal (Segel)
+Driftsmøte
+5
+3
+15
+Prosedyre for drift, sikring, HMS, SJA
+2
+3
+6
+x
+69
+106
+1. Bestilling og drift
+Omdømme
+Det fysiske anlegget Fisk rømmer fra kar
+fisk rømmer fra kar under
+ordinær drift
+kan dette få konsekvenser i form av bøter, dårlig rykte, tap av
+inntekter mv.
+Ole A. Nordal (Segel)
+Prosessprosjektering
+2
+3
+6
+Sikre at tilstrekkelige primær og sekundærbarrierer blir etablert
+2
+3
+6
+x
+73
+110
+1. Bestilling og drift
+Omdømme
+Det fysiske anlegget Slambehandlingssystem fungerer ikke
+slambehandlingssystem ikke
+makter å ta ut slam som påkrevd i
+konsesjon/forurensningslov
+vil pålegg og krav om utbedringstiltak bli gitt og anlegget kan
+få et dårlig rykte (negativ mediomtale)
+Ole A. Nordal (Segel)
+Driftsmøte
+5
+2
+10
+* Grunding vurdering av driftsprofil og valg av rensesystem.
+* Det vil bli etablert et eget prosjekt på dette (Før dette må det i piloten
+identifiser hvor mye som er mulig å rense i piloten)
+5
+2
+10
+x
+76
+113
+1. Bestilling og drift
+Omdømme
+Ytre milø
+Støy
+anlegget støyer mye
+kan naboer bli lei og gi negativ omtale av anlegget
+Ole A. Nordal (Segel)
+Prosjekteringsmøte
+2
+4
+8
+Vurdere støybilde og gjennomføre korrektive tiltak, gå i dialog med naboer
+2
+4
+8
+x
+77
+113
+1. Bestilling og drift
+Omdømme
+Ytre milø
+Lys
+anleggets belysning sjenerer
+naboer
+kan naboer bli lei og gi negativ omtale av anlegget
+Ole A. Nordal (Segel)
+Prosjekteringsmøte
+2
+4
+8
+Vurdere lysbilde og gjennomføre korrektive tiltak, gå i dialog med naboer
+ 
+2
+4
+8
+x
+82
+108
+1. Bestilling og drift
+Fisk
+Fiskehelse
+fiskehelse ikke overvåkes
+(dissekering) og korrektive tiltak
+gjøres
+kan fiskeproduksjon gå tapt og få store økonomiske
+konsekvenser
+Ole A. Nordal (Segel)
+Prosessprosjektering
+2
+3
+6
+Etablere gode rutiner og prosedyrer for drift av anlegg med fokus på fiskehelse.
+Etablere lab i tilknytning til
+admininstrasjonssbygg/vedlikeholdsbygg
+2
+3
+6
+x
+86
+110
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Vanntilførsel
+Pumpestans i avløpskulvert vil
+medføre redusert eller ingen
+tilførsel av gjenbrukt sjø til
+oxystream 2 og 3
+redusert flow inn til karet kan medføre akutt stress for fisken
+med mulig seinskader
+Asbjørn Løland (BMF)
+Prosessprosjektering
+4
+2
+8
+ hyppig service og kontroll på pumper
+ ekstra-pumper
+4
+2
+8
+x
+115
+102
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Vakum i inntaksledning
+Ved pumpestopp vil vannet
+kunne renne tilbake og ut av
+ledningen. Dette kan skape et
+vakum hvis ikke luft tilføres
+ledningen.
+Vakum kan medføre at ledningen klapper sammen og skades
+Ola Sveen (BMF)
+Prosessprosjektering
+2
+4
+8
+Tilbakeslagsventil slik at ledningen ikke tømmes for vann ukontrollet. Høgste
+rørende på ha tilgang til luft.
+  Rørgaten må ligge med tildekking som støtter
+rørene. Etablere kontrollerende tiltak for
+situasjoner med pumpestans
+2
+4
+8
+x
+94
+106
+1. Bestilling og drift
+Økonomi/fremdrift
+Menneske
+Splitting av fisk
+ikke fisk splittast på fleire kar
+grunna for høg tettheit
+går vannkvaliteten ned og ein kan få nedsatt velferd og
+sjukdom/død
+Asbjørn Løland (BMF)
+Driftsmøte
+3
+4
+12
+Ikkje planlegge for maksimal biomasse. Ha overkapasitet mtp vannkvalitet. God
+dialog med mottaker av postsmolt. Planlegge for kontrollert splitting.
+Utruste anlegget med nødvendig utstyr for å
+transportere fisk frå eit kar til eit anna.
+3
+4
+12
+x
+8
+105
+1. Bestilling og drift
+Økonomi/fremdrift
+Fisk
+Sjukdom på fisk
+det oppstår ein situasjon med
+massedød
+kan en få problemer med kapasitet på dødfiskanlegget som
+kan få følgekonsekvenser for annen drift
+"Driftsleder"
+Prosessprosjektering
+2
+3
+6
+God kontroll/oversikt over endringer i vannmasser som tilføres kar. Observant på
+agens i de aktuelle tidsrom.  Alle tilsette kan raskt justere sirkulasjonshastigheit i
+kar ihht prosedyre for sjukdomsutbrot. God opplæring og eit våkent blikk i høve
+oksygenering og justering. God kontroll på ensilasjetank og levering av dette ihht
+driftsprosedyre (og beredskap). Benytte utvida UV/UVC-desinfeksjon av vatn i
+hissige perioder. God kontakt med nærliggande havbruksanlegg ift tegn på
+sjukdom- Slik ein kan setje inn kontrollerande tiltak til rett tid.
+Ha ein solid plan-B med behandlingstiltak på
+detaljenivå på alle moglege agens. Installere
+eller ta høgde for ferskvannsinntak i anlegg mtp
+behandling av diverse agens som AGD og
+haustsjuke umiddelbart. Beredskapsplaner i
+forhold til dei ulike sjukdomane, med
+tilhøyrande register på kontaktinformasjon til
+eksterne bidragsytere (som hordafor, veterinær,
+fôrleverandør m.fl) - Oversikt og tanke om
+muligheter med bakteriofager.
+2
+3
+6
+x
+34
+105
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Håndtering av fisk mellom kar
+Sårproblematik
+Dårlig smoltkvalitet og dødelighet
+Mikael Eines (Nekton)
+Prosessprosjektering
+3
+2
+6
+(Skal fisk flyttes mellom kar?)
+3
+2
+6
+x
+46
+106
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Fisketapperør
+fisketransportrør ikke fungerer
+etter hensikt
+må fisk pumpes manuelt fra kar gjennom trakt
+Ole A. Nordal (Segel)
+Prosessprosjektering
+3
+2
+6
+Vurdere ulike scenarier
+Etablere egnet system for manuelle pumping av
+fisk fra kar
+3
+2
+6
+x
+53
+110
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Fôringssystem
+utfôringsrør blir vått, fisk skvetter
+vann opp i rør, det tetter seg
+kan dette føre til at ønsket fôrmengde ikke blir riktig, fôret
+råtner eller at vekst ikke blir som planlagt
+Ole A. Nordal (Segel)
+Prosessprosjektering
+3
+2
+6
+Erfaringsutveksling, vurdering av fôringssystem
+3
+2
+6
+x
+54
+112
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget O2 innløser
+dersom O2 innløser ikke klarer å
+innløse O2 tilstrekkelig
+kan dette før til undermetning av O2, dårligere apetitt og
+redusert vekst
+Ole A. Nordal (Segel)
+Leverandørmøte
+2
+3
+6
+Be leverandør om rapport og dokumentasjon på innløsningseffekt
+2
+3
+6
+x
+55
+112
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget O2 tank
+manglende måling og kontroll på
+O2 nivå i tank
+kan dette føre til redusert produksjon og fiskehelse
+Ole A. Nordal (Segel)
+Leverandørmøte
+2
+3
+6
+Vurdere hvordan vannkjemi er uten tilsetning av O2 (hvilke metning er på
+sjøvannet i utgangspunktet og hvordan vil dette være om man kjører råvann
+gjennom?)
+2
+3
+6
+x
+56
+110
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget O2 ledning
+brudd på ledning
+kan dette føre til redusert produksjon
+Ole A. Nordal (Segel)
+Prosessprosjektering
+2
+3
+6
+Redundans. Tett dialog med leverandør for erfaringsutveksling
+Separat nødsystem?
+2
+3
+6
+x
+59
+112
+1. Bestilling og drift
+HMS/SHA
+Det fysiske anlegget Fôringssystem
+logistikk ved transport av fôr fra
+forlager til automater ikke
+fungerer som ønsket
+kan dette føre til påkjenninger for driftspersonell og høyere
+driftskostnader
+Ole A. Nordal (Segel)
+Prosessprosjektering
+3
+2
+6
+Gjennomføre simulering av driftssituasjon (ukesproduksjon). Vurdere
+blåsesystem for transport?
+3
+2
+6
+x
+60
+110
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Fôringssystem
+fôrlager er for lite
+kan dette føre til at fôr må stå ute og at det blir
+vått/ubrukelig. Dette vil føre til høyere fôrspill og høyere
+driftskostnader
+Ole A. Nordal (Segel)
+Prosessprosjektering
+2
+3
+6
+Simulere driftssituasjon. Hva som er behovet. Også beskrevet behov i Biologisk
+funksjonsbeskrivelse
+Forlager blir etablert.
+2
+3
+6
+x
+111
+105
+1. Bestilling og drift
+Økonomi/fremdrift
+Fisk
+Hard håndtering av fisk
+fisk får hard håndtering
+kan dette føre til sår og død fisk
+Ingve Karlsen
+Driftsmøte
+3
+2
+6
+Etablere gode arbeidsrutiner/instrukser
+3
+2
+6
+x
+250
+3. Prosjektering
+Økonomi/fremdrift
+Ytre milø
+Grunneierkonflikt
+grunneiere skaper problemer i
+byggefase (for eksempel ved
+etablering av byggestrøm)
+vil dette føre til forsinkelser i fremdriften
+Ole A. Nordal (Segel)
+Prosjekteringsmøte
+2
+3
+6
+Inngå bruksavtaler med grunneierne
+2
+3
+6
+x
+279
+803
+1. Bestilling og drift
+Økonomi/fremdrift
+Ytre milø
+Inntaksledning
+Inntakssil blir tilstoppa av
+tang/manet/plastikk etc
+stopper vanntilførsel til røret
+Christian Skår
+Styringsgruppemøte
+2
+3
+6
+* 2 inntaksrøyr og berekne kor stor mengde kvart inntaksrøyr bør kunne forsyne i
+ein viss periode for å unngå kritisk dårlig vannkvalitet.
+* Beredskaps- og tiltaksplan for å utbedre
+* Muligheit for å køyre pumpene motsatt veg?
+2
+3
+6
+x
+254
+113
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Prosessanleggets ytelse
+prosessanlegget ikke møter de
+kontraktsbunde forpliktelser til
+ytelse og funksjonalitet
+fører til en misfornøyd bestiller og sluttkunde og mulige
+kostnadsbærende konsekvenser
+Ole A. Nordal (Segel)
+Styringsgruppemøte
+4
+3
+12
+Etablere tydelig og forankret ytelsesbeskrivelse og kravspesifikasjon
+4
+3
+12
+x
+81
+107
+1. Bestilling og drift
+Menneske
+Drukning
+uvedkommende kommer inn på
+anlegget og faller ut i fisketanker
+kan dette medføre drukning
+Ole A. Nordal (Segel)
+Prosessprosjektering
+2
+5
+10
+Sikring av anleggsområde, skilting, sikring av utstyr og systemer. Gjøre
+verneutstyr/redningsutstyr tilgjengelig
+2
+5
+10
+x
+125
+113
+1. Bestilling og drift
+Økonomi/fremdrift
+Ytre milø
+Jordskjelv
+Kan medføre brekkasje/tetting på
+kar/rør til hoved- vanntilførsel,
+ringledning og/eller avløpsrør
+Medfører at anlegget mister vann inn, redusert eller stopp i
+gjenbruk. Brekkasje i kar. Dødelighet på fisk og ev rømming
+Ola Sveen (BMF)
+Prosessprosjektering
+2
+5
+10
+Beredskap ved varsling av jordskjelv. Etablere prosedyrer om slik varsling gis.
+Anlegg dimensjonert for jordskjelv. Stopp foring
+og aktiver nødoksygen så snart dette trengs.
+2
+4
+8
+x
+127
+2. Prosjekt
+Økonomi/fremdrift
+Bestilling/Mål
+Utforming
+Anlegget blir ikkje designa rett
+(biologi, økonomi)
+Anlegget får ikkje forventa utforming
+Christian Skar
+Intermøte BMF
+4
+4
+16
+* Tydelig designbasis
+* Klart oppfølgingsregime
+* Forankrede beslutninger
+2
+4
+8
+x
+128
+2. Prosjekt
+Økonomi/fremdrift
+Bestilling/Mål
+Skiftande bestilling
+Bestilling/mål er skiftande
+KPI
+Christian Skar
+Intermøte BMF
+4
+3
+12
+* Klare mål
+* Forankrede mål
+* Forståelse av prosjektprosess av bestiller
+4
+3
+12
+x
+129
+2. Prosjekt
+Økonomi/fremdrift
+Rammer/mandat
+Tidsramme
+Prosjektet går ut over tidsramme KPI selskapets likvidtet/økonomi
+Christian Skar
+Intermøte BMF
+4
+3
+12
+* Klare planverk/styringsdokument
+* Organisasjon for oppfølging
+* Forankring og samstemming hos bestiller og utførende
+4
+3
+12
+x
+130
+2. Prosjekt
+Økonomi/fremdrift
+Rammer/mandat
+Kostnadsramme
+Prosjektet går ut over
+kostnadsramme (korona,
+sjøarbeid, anbud eller generelt
+prisnivå)
+KPI inkl. omdømme
+Christian Skar
+Intermøte BMF
+4
+5
+20
+* Sikre konkurransedyktige vilkår
+* Klare kontraksvilkår
+* Endringshåndteringsrutiner
+* Styringsverktøy for oppføling
+* Kontinuerlig overvåkning/oppfølging
+* Tett oppfølging på byggeplass
+3
+4
+12
+x
+131
+2. Prosjekt
+Økonomi/fremdrift
+Rammer/mandat
+Styrande utilstrekkelige rammer
+tids- og kostnadsrammer er
+utilstrekkelige, men likevel
+styrande
+KPI
+Christian Skar
+Intermøte BMF
+3
+5
+15
+* Rigge organisasjon
+* Riktige styringsverktøy
+* Avstemme forventninger med virklighet
+* Involvering av beslutningstakere
+2
+5
+10
+x
+132
+2. Prosjekt
+Økonomi/fremdrift
+Rammer/mandat
+Irreversible valg
+prosjektet gjer irreversible val
+(riktige og feil) utan forankring hjå
+eigar
+KPI
+Christian Skar
+Intermøte BMF
+3
+4
+12
+* Alle irreversible valg må begrunnes og forankres
+* Involvering av beslutningstakere
+* Risikovurdere valg som blir gjort
+* Kvalitetssikre bestilling
+* Dokumentere og begrunne valg
+3
+4
+12
+x
+133
+2. Prosjekt
+HMS/SHA
+Organisering
+Overbelastning
+Prosjektmedarbeidarar vert
+utbrente
+Fråfall, evt KPI
+Christian Skar
+Intermøte BMF
+4
+5
+20
+* Tilrettelegge (i ulike ledd) for delegering av oppgaver
+* Overvåking av ressurser
+* Etablere robust organisasjon for gjennomføring
+* Vurdere prosjekt og nødvendig organisasjon og styringverktøy
+* Ha realitstisk målsettinger for prosjektgjennomføring
+2
+5
+10
+x
+141
+2. Prosjekt
+Økonomi/fremdrift
+Styringsverktøy
+Avvik
+Løpande avvik på KPI vert ikkje
+fanga opp eller vert fanga opp for
+seint
+KPI
+Christian Skar
+Intermøte BMF
+3
+4
+12
+* Riktige styringsverktøy
+* Involvering, overvåkning fra interessent/prosjekteiger
+* Aggrigering av hendelser (utførende-bpl-byggeleder-prosjektleder)
+* Mandat til håndtering på riktig nivå
+3
+4
+12
+x
+142
+2. Prosjekt
+Økonomi/fremdrift
+Styringsverktøy
+Korrigerande tiltak
+Korrigerande tiltak vert ikkje sett i
+verk eller vert sett i verk for seint
+KPI
+Christian Skar
+Intermøte BMF
+3
+4
+12
+* Riktige styringsverktøy
+* Involvering, overvåkning fra interessent/prosjekteiger
+* Aggrigering av hendelser (utførende-bpl-byggeleder-prosjektleder)
+* Mandat til håndtering på riktig nivå
+3
+4
+12
+x
+145
+2. Prosjekt
+Økonomi/fremdrift
+Leverandør
+Forpliktelsar
+Leverandørar som ikkje klarar å
+oppfylle sine forpliktelsar
+KPI
+Christian Skar
+Intermøte BMF
+3
+4
+12
+* Kjøre referansesjekk, gjennomføre DD på entreprenør
+* Vurdere gjennomføringsevne (økonomi og pågående prosjekter)
+* Kreve garanti og sikkerhetsstillelser
+3
+4
+12
+x
+155
+3. Prosjektering
+HMS/SHA
+Styringsverktøy
+Prosjektering av farlige løsninger -
+Gjennomføringsfase
+Ulykker på grunn av farlig
+gjennomføringsmetode
+Personskade og dødsfall
+Jonny Pedersen
+Prosjekteringsmøte
+2
+5
+10
+Designreview
+2
+5
+10
+x
+156
+3. Prosjektering
+HMS/SHA
+Styringsverktøy
+Prosjektering av farlige løsninger -
+driftsfase
+Ulykker på grunn av at arbeid i
+drifts- og vedlikeholdsfasen ikke
+kan utføres på en sikker måte
+Personskade og dødsfall
+Jonny Pedersen
+Prosjekteringsmøte
+2
+5
+10
+Designreview
+2
+5
+10
+x
+103
+108
+1. Bestilling og drift
+Økonomi/fremdrift
+Menneske
+Menneskelige feil
+miste BigBag med fôr ut i karet
+skade på fisk, skade på utstyr, blokkasje med påfølgande akutt
+stress for fisk
+Asbjørn Løland (BMF)
+Prosessprosjektering
+3
+3
+9
+opplæring, stoppekant for truck
+3
+3
+9
+x
+113
+110
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Pumpestopp
+Redusert vann til nivåtank /Co2-
+luftere
+Mindre vann til anlegget/mindre vann tilbake i karet etter
+lufting som  videre kan føre til redusert vannkvalitet, redusert
+tilvekst og stress for fisk
+Ola Sveen (BMF)
+Prosessprosjektering
+3
+3
+9
+Driftspersonell må lære å kjenne riktig lyd fra pumpene. Problemer i pumpe kan
+svært ofte høres i forkant av full stopp
+Etablere rutiner for overvåking av lyden fra
+pumpene
+3
+3
+9
+x
+117
+112
+1. Bestilling og drift
+Økonomi/fremdrift
+Menneske
+Gassovermetning
+Ved oppstart og ved drift må en
+være sikker på av vannstand i
+resirk-pumpekum er over pumpa
+Syger pumpa luft får vi lett gassovermetning
+Ola Sveen (BMF)
+Prosessprosjektering
+3
+3
+9
+Rutiner og prosedyrer for oppstart av resirkpumpe
+Gode prosedyrer for driftspersonellet
+3
+3
+9
+x
+122
+106
+1. Bestilling og drift
+Omdømme
+Det fysiske anlegget Rømming av fisk ved mottak eller
+levering
+Brekkasje på slange mellom
+brønnbåt og transportrør fra kai
+til anlegget ved sterk vind og
+brygge og båt beveger seg
+Brekkasje av slange/rør kan gi åpning for at fisk kan rømme
+Ola Sveen (BMF)
+Prosessprosjektering
+3
+3
+9
+Se til at flytebrygge og båt ligger godt fortøyd for å unngå bevegelse
+Montering av not mellom båt og brygge og hvis
+nødvendig mellom brygge og kai
+3
+3
+9
+x
+124
+105
+1. Bestilling og drift
+Økonomi/fremdrift
+Vann
+Sykdom
+Sykdom medfører dårlig
+foropptak og forspill på karbunn.
+Resultatet blir dårlig vann og mye for og partikler mot slamrist
+i tillegg til at dødfisk kan tette til slamrist
+Ola Sveen (BMF)
+Driftsmøte
+3
+3
+9
+Stopp foring. Ekstra overvåking av dødfiskuttak og slamrist. Tilkall
+tilsynsveterinær
+Om mulig øke gjennomstrømning både på
+dødfiskuttak og sver slamrist
+3
+3
+9
+x
+158
+3. Prosjektering
+Økonomi/fremdrift
+Menneske
+Manglende kompetanse og kapasitet for
+gjennomføringen av prosjekteringen
+Forsinkelser og for dårlig kvalitet
+på prosjekteringen på grunn av
+stort tidspress, manglende
+kapasitet og eventuelt også
+manglende kompetanse
+Forsinkelser og ekstra kostnader
+Jonny Pedersen
+Prosjekteringsmøte
+3
+3
+9
+Organisasjonsplan etc.
+3
+3
+9
+x
+167
+408
+4. Utførelse
+HMS/SHA
+SHA
+Luftmangel i senkekasser
+arbeider i senkekasser der luften
+er komprimert
+personskader
+Ole A. Nordal (Segel)
+Koordineringsmøter
+2
+4
+8
+2
+4
+8
+x
+196
+408
+4. Utførelse
+HMS/SHA
+SHA
+Sjukdom nøkkelpersonell
+Nøkkelpersonell vert skada og må
+fratre
+Må finne alternativt personell - utfordring knytt til framdrift
+og kvalitet
+Olav Klungre
+(Norcorsult)
+3
+3
+9
+Jevnlig møteverksemd - mange kjenner status og kan steppe inn
+Alle nøkkelpersonar bør ha
+stedfortreder/backupperson
+3
+3
+9
+x
+197
+408
+4. Utførelse
+HMS/SHA
+SHA
+Arbeidsskade/ulykke nøkkelpersonell
+Nøkkelpersonell vert sjuke og må
+fratre
+Må finne alternativt personell - utfordring knytt til framdrift
+og kvalitet
+Olav Klungre
+(Norcorsult)
+2
+3
+6
+Jevnlig møteverksemd - mange kjenner status og kan steppe inn
+Alle nøkkelpersonar bør ha
+stedfortreder/backupperson
+2
+3
+6
+x
+235
+2. Prosjekt
+Omdømme
+Rammer/mandat
+Betalingsevne
+Bulandet Miljøfisk ikke har
+tilstrekkelig betalingsevne
+fører dette til manglende betaling til entreprenører, mulig tap
+av fremdrift og dårlig omdømme
+Ole A. Nordal (Segel)
+Styringsgruppemøte
+3
+3
+9
+Være tydelig på budsjett og avvik. Lage gode planer for oppfølging av egen
+likviditet
+3
+3
+9
+x
+45
+106
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Brønnbåt
+det ikke bestilles brønnbåt
+tidsnok for frakt av fisk eller
+mobiliseringstid av brønnbåt er
+for høy
+kan dette føre til høy tetthet av fisk og redusert fiskevelferd
+(stress)
+Ole A. Nordal (Segel)
+Driftsmøte
+2
+3
+6
+Etablere gode avtaler, beredskapsplaner og prosedyrer
+2
+3
+6
+x
+241
+3. Prosjektering
+Økonomi/fremdrift
+Leverandør
+Manglende teknisk informasjon eller
+underlag
+prosjektet ikke mottar
+nødvendige og riktige tekniske
+avklaringer og dokumentasjon
+fører dette til forsinkelser og kan påvirke leveranseplan og
+kvalitet av leveranse
+Ole A. Nordal (Segel)
+Innkjøpsmøte
+5
+3
+15
+Etablere en plan for innhenting av teknisk dokumentasjon som samsvarer med
+fremdriftsplanen. I tillegg legge inn krav om levering av dokumenter og
+sertifikater som en del av kontraktsdokumentasjon med leverandører.
+2
+3
+6
+x
+243
+3. Prosjektering
+Økonomi/fremdrift
+Leverandør
+Svikt i ytelse eller kvalitet hos
+utstyrsleverandør
+utstyr/produkt/sytemer blir levert
+men svikter eller klarer ikke å
+opprettholde den kvaliteten eller
+ytelsen de er spesifisert med og
+som anlegget er avhengig av
+vil ikke prosjektet kunne opprettholde ytelse og alternative
+produkter må evalueres, prosjekteres, kjøpes inn og installere
+for å erstattet sviktende komponentere eller systemer. Dette
+fører til økt prosjektkostnader og forringing av fremdrift
+Ole A. Nordal (Segel)
+Prosjekteringsmøte
+5
+4
+20
+Etablere kravspesifikasjon på komponenter som må være av spesiell kvalitet
+(rørdimensjoner, klasse, trykktesting, stålkvalitet (sjøvann/ferskvann),
+karsertifikat mv.)
+Besørge at utstyrsleveranør/entreprenør har tilstrekkelig med referanser og
+tester av sitt utstyr slik at risiko for svikt blir hold til et minimum. Sertifikater, FAT,
+rapporter mv. hentes inn.
+3
+4
+12
+x
+244
+2. Prosjekt
+Økonomi/fremdrift
+Organisering
+Ressursmangel
+mangel på riktig nivå av
+kompetanse og tilgang på
+ressurser i perioder med høy
+arbeidsbelastning eller ferier
+fører til forsinkelser og som videre kan påvirke både kvalitet
+og kostnader
+Ole A. Nordal (Segel)
+Prosjektmøte
+3
+2
+6
+Overvåke behov for ressurser og kompetanse gjennom prosjektet og rapportere
+til ressurseiere med krav om handling
+3
+2
+6
+x
+246
+2. Prosjekt
+Økonomi/fremdrift
+Organisering
+Byggeledelse/Anleggsledelse
+manglende koordinering av
+byggeleder (samtidighet av ulike
+fag) eller anleggsleder
+(koordinering av prosessfag)
+fører til redusert effektivitet, kostnadsøkning og
+fremdriftsmessige ulemper
+Ole A. Nordal (Segel)
+Prosjekteringsmøte
+2
+3
+6
+Planlegge byggearbeid/igangkjøring sammen med bestiller for å forsikre at begge
+parter er klar over risiko og muligheter
+2
+3
+6
+x
+248
+2. Prosjekt
+Økonomi/fremdrift
+Organisering
+Sentrale entreprenører har
+kapasitetsproblemer
+sentrale entreprenører har
+kapasitetsproblemer
+vil dette føre til kostnadsøkning i prosjektet og mulig
+forringelse av estimert fremdrift
+Ole A. Nordal (Segel)
+Innkjøpsmøte
+4
+4
+16
+Sørge for tidlig ressurs og kapasitetskartleggig
+3
+4
+12
+x
+249
+2. Prosjekt
+Økonomi/fremdrift
+Styringsverktøy
+Manglende betaling for endringer
+endringer og varsel om endringer
+ikke blir håndtert riktig
+vil det være vanskelig å få endringer gjennomført
+Ole A. Nordal (Segel)
+Innkjøpsmøte
+2
+3
+6
+Etablere et godt rammeverk for endringshåndtering og sammen med
+leverandører forankre disse
+2
+3
+6
+x
+280
+802
+1. Bestilling og drift
+Økonomi/fremdrift
+Vann
+Inntaksledning
+det er rette strømforhold og man
+drar inn vann med uønsket
+vannkvalitet
+vil det være økt fare for at uønsket vann fra oppsamlingspunkt
+i munning av vik med H2S kan bli ført inn gjennom
+inntaksledning og til fisketanker
+Ole Nordal
+Styringsgruppemøte
+3
+2
+6
+* MOM prøver
+* Dykkerinspeksjon (visuell, kamera)
+* Vannprøver over tid. Hvilke vannprøver er interessante å utføre? (Turbiditet,
+temperatur, oksygen, H2S, andre? I sammenligning med andre "gunstige
+vannkiler")
+3
+2
+6
+x
+251
+2. Prosjekt
+Økonomi/fremdrift
+Bestilling/mål
+Manglende involvering fra bestiller
+bestiller ikke involverer seg i
+prosjektet eller i oppføringen av
+anlegget
+vil dette føre til at anlegget ikke blir utført i samsvar med
+forventning til bestiller. Videre kan dette føre til at bestiller
+ønsker å gjøre om på hele eller deler av prosjektet.
+Ole A. Nordal (Segel)
+Styringsgruppemøte
+2
+2
+4
+Sørge for å legge opp til høy deltakelse fra bestiller. Sørge for stor grad av
+involvering av interessener. Invitere til hyppige status og fremdriftsmøter med
+bestiller.
+2
+2
+4
+x
+252
+2. Prosjekt
+Økonomi/fremdrift
+Leverandør
+Entreprenører mangler riktige
+arbeidsinstrukser
+entreprenørene ikke har
+tilstrekkelig med
+arbeidsbeskrivelser
+vil ikke fremdrift kunne overholdes, funksjoner av produkter
+og systemer  vil ikke kunne garanteres og kostnadsestimater
+relatert til tidsforbruk vil ikke kunne opprettholdes.
+Ole A. Nordal (Segel)
+Leverandørmøte
+2
+3
+6
+Gjøre en grundig vurdering av leverandør. Etablere en grundig kravspesifikasjon.
+Etablere gode arbeidsinstrukser for kritisk arbeid og arbeidsoperasjoner som
+krever spesiell kompetanse og forståelse
+2
+3
+6
+x
+253
+108
+1. Bestilling og drift
+Økonomi/fremdrift
+Organisering
+Manglende opplæring til
+driftsorganisasjon
+byggherre ikke blir gitt
+tilstrekkelig opplæring eller at
+byggherre ikke bestiller
+tilstrekkelig opplæring
+vil dette føre til at anlegget ikke blir driftet riktig eller at det
+kan skje uønskede hendelser ved bruken av anlegget
+Ole A. Nordal (Segel)
+Driftsmøte
+2
+4
+8
+Gi tilstrekkelig med informasjon til driftsorganisasjon om nødvendigheten av slik
+opplæring og tilrettelegge for at opplæring blir tilpasset driftorganisasjonens
+ønsker.
+Kommentar: Prosjektrom internt:
+Opplæring er inntatt i Kontraktskravene / mal. Ingen ytterligere aksjoner.
+2
+4
+8
+x
+255
+2. Prosjekt
+HMS/SHA
+Styringsverktøy
+Manglende SHA rutiner og vilkår fra
+arbeidstilsynet
+rutiner for sikkerhet, helse og
+miljø ikke blir etablert og
+prioritert
+vil der være fare for uønskede hendelser i disse tre
+elementene (sikkerhet, helse og miljø)
+Ole A. Nordal (Segel)
+Kick-off møte
+2
+3
+6
+Sørge for å få etablert gode SHA rutiner og at vilkår fra arbeidstilsynet blir følgt.
+Miljøplan og riggplan må også være med som en del av rutinene. Disse planene
+og rutinene gjøres lett tilgjengelig for prosjektmedlemmer og ellers alle
+involverte parter
+2
+3
+6
+x
+256
+2. Prosjekt
+Økonomi/fremdrift
+Bestilling/mål
+Uoverenstemmelse mellom bestillers
+forventninger og kontrakt
+der er uoverenstemmelse mellom
+bestillers forventninger (på
+operasjonell ytelse) og den
+kontraherte spesifikasjonen
+fører til misnøye hos bestiller som i andre omgang kan påstå
+at produkt eller anlegg ikke er brukbart til formålet
+Ole A. Nordal (Segel)
+Styringsgruppemøte
+2
+4
+8
+Sørge for en tilstrekkelig gjennomgang og etablering av kravspesifikasjon som
+danner grunnlaget for ytelse til anlegget
+2
+4
+8
+x
+258
+2. Prosjekt
+Økonomi/fremdrift
+Bestilling/mål
+Dårlig samarbeid med egen
+organisasjon
+samarbeid med bestiller ikke
+fungerer grunnet manglende
+kommunikasjon, misforståeler,
+feilvurdering av bestillers
+kompetanse
+kan dette føre til at prosjektet ikke klarer å overholde
+fremdrift og kostnadsestimat
+Ole A. Nordal (Segel)
+Styringsgruppemøte
+2
+3
+6
+Etablere gode rutiner, kommunikajonsplan, organisasjonskart, møteplan og organ
+for diskusjoner. Etablere og kommunisere retningslinjer for arbeidsform, metode
+(PA-bok) og ansvarsområde. Overvåke og vedlikeholde gjeldende usikkerheter
+(usikkerhetsrisiko)
+2
+3
+6
+x
+259
+2. Prosjekt
+Økonomi/fremdrift
+Organisering
+Manglende prosjektledelse i
+prosjekteringsfasen
+prosjektet mislykkes i å
+koordinere og integrere de ulike
+faser i prosjektering
+kan dette føre til forsinkelser og økte kostnader i prosjektet
+Ole A. Nordal (Segel)
+Prosjekteringsmøte
+2
+4
+8
+Etablere planverk for oppfølging av prosjekterende. Hyppig dialog med og
+overvåkning av prosjekteringsgruppeledere (byggteknisk og prosessteknisk)
+2
+4
+8
+x
+261
+2. Prosjekt
+Økonomi/fremdrift
+Styringsverktøy
+Uavklart fremdrift
+bestiller ikke fremlegger ønsket
+fremdriftsplan for produksjon
+fører dette til at prosjektet ikke kan gjennomføres iht. ønsker
+Ole A. Nordal (Segel)
+Styringsgruppemøte
+3
+3
+9
+Snarlig klarlegge ønsket fremdrift og konsekvens i form av overordnet
+prosjektfremdriftsplan
+3
+3
+9
+x
+262
+406
+4. Utførelse
+Økonomi/fremdrift
+Organisering
+Internlogistikk
+man ikke har tilstrekkelig kontroll
+på mottak av varer
+man bruker mye tid på å lete frem utstyr og komponenter og
+dette kan føre til forsinkelser
+Ole A. Nordal (Segel)
+Innkjøpsmøte
+5
+2
+10
+* Etablere mottaksdepot (mellomlagring)
+* Utpeke ansvarlig for varemottak og plassering av ulike komponenter.
+* God merking
+2
+2
+4
+x
+266
+802
+1. Bestilling og drift
+Økonomi/fremdrift
+Vann
+Inntaksledning
+vannet har for høy konsentrasjon
+av giftige algar
+føre til massedød
+Christian Skår
+Styringsgruppemøte
+4
+4
+16
+* Varsling
+* Lav utforing og høg grad av gjennbruk i ein
+periode. Kombinert med ein lang tjukk slange
+som kan leggast  ut på djupare vatn for å ta inn
+begrensa mengder vatn i ein periode.
+4
+3
+12
+x
+270
+803
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Inntaksledning
+man får groe i inntaksledning
+vil dette gi dårligere kapasitet i anlegget
+Ole Nordal
+Styringsgruppemøte
+3
+4
+12
+* Rengjøringsrutiner
+* Sette ned rør i vann som står over tid for å se faktisk begroing
+3
+4
+12
+x
+281
+802
+1. Bestilling og drift
+Økonomi/fremdrift
+Vann
+Inntaksledning
+man får høy temperatur i vannet
+samtidig som det er lite omrøring
+kan dette medføre ugunstig vannkjemi med lavt innhold av
+oksygen
+Ole Nordal
+Styringsgruppemøte
+3
+2
+6
+Beregne utskiftningstid "bassenget"
+Gjennomføre logging av temperatur over tid (ett år?). Hva er "for høy"
+temperatur må identifiseres.
+Sikre gode forhold med lufting og tilsetting av oksygen i anlegget. Måle vannkjemi
+i anlegget
+3
+2
+6
+x
+11
+105
+1. Bestilling og drift
+Økonomi/fremdrift
+Ytre milø
+Dybde inntak av vann i innsjø
+Lavvann
+Kvalitet + kapasitet på vann
+Geir Skjervheim
+(forsikring)
+Prosessprosjektering
+2
+2
+4
+Dimensjonere inntakskum slik at så mykje lufting som råd blir gjort der.
+Dimensjonerer etter at bobler stiger 5cm/s. Skrevet i TFB
+2
+2
+4
+x
+274
+802
+1. Bestilling og drift
+Omdømme
+Bestilling/mål
+Inntaksledning
+inntak legges for grunnt
+kan dette gå ut over troverdighet til prosjektet og det kan bli
+utfordrande å sikre kapital. Dette kan skade selskapet,
+merkevara og status til sluttproduktet
+Christian Skår
+Styringsgruppemøte
+3
+4
+12
+* Gjennomføre ein god risikovurderingsprosess og implementere og
+dokumentere evt. tiltak.
+* Kommunisere godt og bevisst.
+3
+4
+12
+x
+78
+109
+1. Bestilling og drift
+Økonomi/fremdrift
+Ytre milø
+MOM B-C
+sjøbunnsprøver ved
+utslippsstedet ikke er
+tilfredsstillende eller man frykter
+at de ikke vil være det
+kan dette før til at selskapet kreves korrektive tiltak fra
+myndigheter. Dette kan være kostbare tiltak sammenlignet
+med tiltak som kan gjennomføres på
+prosjekteringstidspunktet
+Ole A. Nordal (Segel)
+Prosessprosjektering
+2
+2
+4
+Kartlegging av sjøbunn, strømningsforhold og utforming av utslippsrør (diffusor?). Gjennomføre korrektiv tiltak ved behov
+2
+2
+4
+x
+278
+803
+1. Bestilling og drift
+Økonomi/fremdrift
+Det fysiske anlegget Inntaksledning
+man har lav vannstand og ned
+mot 20 års gjentakelsesintervall
+(NN2000 (-136 cm))
+vil dette gi reel dybde på top rør på -6,64 medberegnet
+avstandsring.  (-8,64 m + 2 m). Det kan da være en fare for at
+inntaket ved grov sjø suger luft og man mister funksjonalitet
+Ole Nordal
+Styringsgruppemøte
+2
+3
+6
+* Verifisere bølgeforhold ved lavt lavvann
+* Beregne sugehastighet
+* Skjerme inntak med kappe
+2
+3
+6
+x
+83
+110
+1. Bestilling og drift
+Omdømme
+Ytre milø
+Slamhåndtereing
+der ikke er tilstrekkelig med
+lagringskapasitet til slam eller
+man ikke har etablert gode
+rutiner for håndtering av slam
+kan man ende opp med store volum som man ikke blir kvitt.
+Dette vil være en kostnadsdriver i driftsfasen.
+Ole A. Nordal (Segel)
+Styringsgruppemøte
+2
+2
+4
+Gjøre avtaler med bønder, resirkulering eller annen annenhånds nyttegjøring av
+dette verdifulle og høyverdige energiproduktet.
+2
+2
+4
+x
+104
+109
+1. Bestilling og drift
+Omdømme
+Ytre milø
+Ytre miljø
+nedslamming ved utløp
+dårlig MOM-B og MOM-C med påfølgande reduksjon i tillatt
+biomasseproduksjon
+Asbjørn Løland (BMF)
+Prosessprosjektering
+2
+2
+4
+Velge utløpspunkt basert på strømmålingar. permanent utstyr som bidreg til å
+spreie slampartiklar ved utløp.
+oppreinsking av sjøbotnen, slamsuging,
+omlegging av avløpsrør
+2
+2
+4
+x
+282
+802
+1. Bestilling og drift
+Økonomi/fremdrift
+Vann
+Inntaksledning
+man har høg vanntemperatur
+kan dette sammen med høy biomasse bli utfordrende ift.
+oksygenforbruk og derav redusert fiskevelferd
+Christian Skår
+Styringsgruppemøte
+3
+2
+6
+* Sikre at man har tilstrekkelig med overkapasitet i O2 anlegg og nødoks.
+* Målinger
+3
+2
+6
+x
+2 / 3
+Tiltaksansvarlig
+Jonny P
+US-Rom
+5
+Risikotype
+US-ID
+Risikotittel
+Antall av Lukkes
+Maks av R1 Antall av R2
+Maks av R2
+HMS/SHA
+66
+Trenge grind v/levering
+9
+1
+9
+Økonomi/fremdrift
+63
+Feil eller problemer med grunnforhold
+1
+9
+1
+0
+66
+Håndtering av fisk mellom kar
+6
+1
+6
+Trengegrind
+12
+1
+12
+67
+Korrosjonsskade i SS316-rør
+1
+12
+1
+0
+68
+Pumpekapasitet
+15
+1
+15
+69
+Karhydraulikk
+9
+1
+9
+Renhold av sentersil
+20
+1
+20
+Rør under kar
+1
+15
+1
+0
+Sentersil
+20
+1
+20
+70
+Vakum i inntaksledning
+8
+1
+8
+Totalsum
+3
+20
+11
+20

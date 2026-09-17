@@ -1,0 +1,1391 @@
+﻿Miljørisikovurdering av utslipp av
+lusemidler fra lokalitet Grønnstranda –
+Hummer i Tysfjord
+Foto: Vidar W ennevik, Havforskningsinstituttet.
+Akvaplan-niva rapport: 9276-2
+ 
+ 
+Selskapsnavn1  
+Forretningsomr1 innen miljø og akvakultur 
+Org.nr: Orgnr 
+StedAdresse2 
+Stedadresse3 
+Tlf: StedTelefon, Fax: HOTelefaks 
+StedWeb 
+ 
+Rapporttittel / Report title 
+Miljørisikovurdering av utslipp av lusemidler fra lokalitet Grønnstranda-  
+Hummer i Tysfjord  
+ 
+Forfatter(e) / Author(s) 
+Gro Harlaug Refseth 
+Stine Hermansen 
+Ole Anders Nøst   
+Akvaplan-niva rapport nr / report no 
+9276-2  
+Dato / Date 
+31.05.2018 
+Antall sider / No. of pages 
+30 
+Distribusjon / Distribution 
+Begrenset 
+Oppdragsgiver / Client 
+Nordlaks Oppdrett AS 
+Oppdragsg. referanse / Client’s reference 
+Bjarne Johansen  
+Sammendrag / Summary 
+I dette prosjektet har vi vurdert risiko ved utslipp av lusemidler til marint miljø og mulig påvirkning på hummer i Tysfjord. En 
+vurdering har blitt gjort for lokaliteten Grønnstranda (SP: N68°14,662, Ø16°16,472) ved å ta utgangspunkt i informasjon innhentet i 
+et tidligere prosjekt der Akvaplan-niva har vurdert risiko for hummer etter utslipp fra en annen lokalitet (Foråstorvika). Nye 
+økotoksikologiske vurderinger og oseanografiske modelleringer har blitt utført, og noe ny informasjon om hummerbestanden er hentet 
+inn. Resultatene er sammenfattet, diskutert, og utgjør vurdering av risiko for effekt på hummer etter utslipp av deltametrin, 
+cypermetrin, azametifos og hydrogenperoksid.  Lokaliteten Grønnstranda ligger ved Skrovkjosen. Skrovkjosen er et grunt område, og 
+er pekt ut som et viktig område for hummer. Med bakgrunn i resultater fra en biologi-basert økotoksmodell og oseanografisk 
+modellering, samt en rekke betingelser (spesifisert i rapporten) viser det seg at det høyst sannsynlig kan oppstå konsentrasjoner i 
+miljøet etter utslipp som overskrider grenseverdier for effekt og dødelighet for hummer i området Skrovkjosen. Det kan være risiko 
+for dødelighet og sub-letale effekter for hummer i dette området etter utslipp av både en normal behandlingsdose og dobbelt dose for 
+deltametrin, cypermetrin, azametifos og hydrogenperoksid, ifølge våre beregninger. Skadelige konsentrasjoner kan også nå ut til 
+vannet rundt naturreservat områdene ved Bekkenesholmen, ifølge våre resultater.  Resultatene er fremkommet ved å sammenligne 
+sensitivitet til hummer (eller andre krepsdyr-arter ved mangelfulle data) med forventede konsentrasjoner av lusemidlene i miljøet etter 
+utslipp. Modelleringer er forenklede versjoner av den virkelig verden, så andre utfall enn det som er skissert her kan oppstå.  
+Prosjektleder / Project manager 
+Kvalitetskontroll / Quality control 
+ 
+Gro Harlaug Refseth  
+ 
+Anita Evenset 
+ 
+ 
+© Akvaplan-niva 2018. Rapporten kan kun kopieres i sin helhet. Kopiering av deler av rapporten 
+(tekstutsnitt, figurer, tabeller, konklusjoner, osv.) eller gjengivelse på annen måte, er kun tillatt 
+etter skriftlig samtykke fra Akvaplan-niva. 
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+INNHOLDSFORTEGNELSE 
+1 INNLEDNING ........................................................................................................................ 3 
+2 METODE OG TILNÆRMING ............................................................................................... 6 
+2.1 Hummerøkologi ................................................................................................................ 6 
+2.2 Økotoksikologi ................................................................................................................. 6 
+2.3 Økotoksikologisk modellering ......................................................................................... 7 
+2.4 Oseanografisk modellering ............................................................................................... 8 
+2.5 Risikovurdering ................................................................................................................ 9 
+3 RESULTAT OG DISKUSJON ............................................................................................. 10 
+3.1 Hummer økologi ............................................................................................................. 10 
+3.2 Økotoksikologi ............................................................................................................... 14 
+3.3 Økotoksikologisk modellering ....................................................................................... 16 
+3.4 Sammenfatning økotoks og oseanografisk modellering ................................................. 17 
+3.4.1 Sammenligning miljøkonsentrasjoner med NEC .................................................... 18 
+3.4.2 Sammenligning miljøkonsentrasjoner med effektstudie ......................................... 21 
+4 SAMMENFATTENDE DISKUSJON .................................................................................. 24 
+4.1 Generelt om metodikk .................................................................................................... 24 
+4.2 Risikovurdering for utslipp fra Grønnstranda ................................................................ 25 
+5 KONKLUSJON ..................................................................................................................... 27 
+6 REFERANSER ...................................................................................................................... 29 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+2 
+www.akvaplan.niva.no 
+ 
+Forord 
+ 
+Tysfjord har en egen stamme av hummer som skiller seg genetisk fra andre hummerarter i 
+Norge.  I Tysfjord er det også akvakulturvirksomhet, og det blir brukt lusemiddel for avlusning 
+av laksen. I forbindelse med søknad om etablering av nye lokaliteter i Tysfjord, har 
+Fylkesmannen i Nordland meddelt Nordlaks Oppdrett AS at de vil stille krav om konkrete 
+risikovurderinger for hver enkelt lokalitet, med hensyn til bruk av lusemidler og risiko for den 
+lokale stammen av hummer (Tysfjordhummeren). Akvaplan-niva har derfor blitt bedt om å 
+gjøre vurderinger for følgende lokaliteter:  
+- 
+Bergkråa (SP: N68°09,652 Ø16°19,997) 
+- 
+Grønnstranda (SP: N68°14,662, Ø16°16,472) 
+- 
+Stormneset (SP: N68°11,906 Ø16°08,210) 
+Hovedmålet i dette prosjektet er å gjennomføre en risikovurdering for bruk av lusemiddel og 
+spesielt vurdere sannsynligheten for påvirkning på hummer i nærheten av oppdrettsanlegg i 
+Tysfjord. Det utarbeides en risikovurdering for hver lokalitet. Denne rapporten omfatter kun 
+risikovurdering for lokaliteten Grønnstranda (SP: N68°14,662, Ø16°16,472).  Vi har benyttet 
+oss av informasjon fra en tidligere risikovurdering utført av Akvaplan-niva i forbindelse med 
+en annen lokalitet hos Nordlaks Oppdrett AS (Forsåstorvika). I dette prosjektet 
+"Risikovurdering ved bruk av lusemidler - hummer i Tysfjord, Akvaplan-niva rapport 8179" 
+ble det utarbeidet en økotoksikologisk database for hummer, og det ble gjort modellering av 
+forventet konsentrasjoner i miljøet etter utslipp av ulike lusemidlene relevant for Nordlaks 
+Oppdrett AS. Denne rapporten refereres til som Refseth et al. (2016a) utover i rapporten. 
+Informasjon samlet i Refseth et al. (2016a) er bakgrunnsmateriale for arbeidet i forbindelse med 
+risikovurdering av ny lokalitet (Grønnstranda), men ny informasjon relatert til økotoksikologi 
+er inkludert, og nye oseanografiske modelleringer, spesifikke for Grønnstranda, er utarbeidet. 
+Vurderinger av hummerens økologi er gjort med utgangspunkt i rapport fra Nordlandsforskning 
+(Hansen 2005). Resultatene fra økotoksikologi, oseanografiske modelleringer, og økologi 
+sammenfattes og danner grunnlag for vurdering av risiko for lokaliteten Grønnstranda.  
+I Norge er det ikke pr. i dag etablert rutinemessige metoder for risikovurdering ved utslipp av 
+lusemidler for spesifikke geografiske lokaliteter, slik som det er gjort i dette prosjektet. Dette 
+arbeidet som gjøres for ulike lokaliteter i Tysfjord, er således nyskapende innenfor akvakultur. 
+Mye av bakgrunnsinformasjon og tekst vil være sammenfallende for rapportene for de tre 
+lokalitetene: Bergkråa, Grønnstranda og Stormneset.  
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+1 Innledning 
+Norske myndigheter har laget et svært strengt regelverk for fangst for å bevare den truede 
+hummerbestanden i Norge. Bestanden av hummer i Norge er på et historisk lavmål (Kleiven et 
+al. 2017), og Fiskeridirektoratet har derfor bedt alle kommuner langs norskekysten om å 
+opprette egne fredningsområder for hummer. Tysfjord har verdens nordligste egenartede 
+hummerstamme som skiller seg genetisk fra andre hummerbestander i Norge. 
+I Tysfjord brukes kjemisk behandling (lusemidler) til å bekjempe lakselus hos oppdrettslaks. 
+Lakselus anses som en av de største utfordringene i akvakultur. Bruk av kjemikalier i 
+forbindelse med behandling av lakselus er en miljøutfordring som opptar både myndigheter, 
+lokalbefolkningen, fiskere, forskere og oppdrettere. Kjemisk behandling kan foregå på to måter: 
+badebehandling og via fôr. Til badebehandling brukes virkestoffene cypermetrin, deltametrin, 
+azametifos og hydrogenperoksid. Via fôr brukes: emamektin benzoat, diflubenzuron og 
+teflubenzuron. En oversikt over lusemiddel brukt i lakseoppdrett i Norge er satt opp i Tabell 1. 
+Aktuelle kjemikalier for Nordlaks Oppdrett AS er markert i fet skrift.  
+Tabell 1. Oversikt over legemidler til bruk mot lakselus i Norge.  
+Klassifisering  
+Virkestoff  
+Handelsnavn  
+Behandlingsmetode  
+Pyretroider  
+Cis-Cypermetrin  
+Betamax  
+Badebehandling  
+  
+Deltametrin  
+Alpha Max  
+Badebehandling  
+Organiske 
+fosforforbindelser  
+Azametifos  
+Salmosan   
+Badebehandling  
+  
+Azametifos  
+Azasure   
+Badebehandling  
+Kitinhemmere  
+Diflubenzuron  
+Lepsidon/ Releeze  
+Gjennom fôr  
+  
+Teflubenzuron  
+Ektobann  
+Gjennom fôr  
+Avermektiner  
+Emamektin benzoat   
+Slice  
+Gjennom fôr  
+Hydrogenperoksid 
+(H2O2)  
+  
+Hydrogenperoksid  
+Badebehandling  
+ 
+I Norge økte bruken av lusemidler (rekvirert aktivt virkestoff) fra 2013 til 2015/16, før en 
+nedgang ble registrert i 2017. Sammenliknet med 2016 ble det i 2017 brukt cirka en tredel av 
+antallet behandlingsdoser. I 2017 var bruken på omlag samme nivå som i 2005, før 
+resistensproblemene startet for alvor. (Remen et al. 2018). Resistens hos lakselus, samt utvikling 
+av nye ikke-medikamentelle metoder for avlusning har trolig medvirket til nedgangen i 2017.  
+Grunnet blant annet utvikling av resistens hos lakselus, er/har det vært nødvendig å bruke 
+lusemidlene på andre måter enn det som er anbefalt i pakningsvedlegget – såkalt «off-label» 
+bruk. I følge Mattilsynet er "off-label" blitt vanlig praksis. Kjemikaliene brukes da i ulike 
+kombinasjoner, og/eller økte doser. Spesielt har kombinasjonen azametifos/deltametrin blitt 
+brukt grunnet at denne kombinasjonene effektivt har drept lakselus. Mattilsynet har gitt en rekke 
+pålegg om at denne behandlingsformen må opphøre grunnet miljøhensyn. Bruken av denne 
+kombinasjonsmetoden er derfor kraftig redusert/opphørt.   
+Andre arter enn lus, f.eks. andre krepsdyr arter, kan bli påvirket av kjemikaliene når de slippes 
+ut i vannet etter endt behandling av laks. Mulige effekter på andre arter kan oppstå ved 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+4 
+www.akvaplan.niva.no 
+ 
+konsentrasjoner som er både lavere, lik og høyere enn normal behandlingskonsentrasjon 
+(Macken et al. 2015; Langford et al. 2014; Samuelsen et al. 2014). Dette er fordi lusemidler 
+nødvendigvis må være toksisk for lakselus for å kunne ta livet av den, og da kan medikamentene 
+også være giftig for andre krepsdyr.  
+Laboratorietester har vist at krepsdyr er svært følsomme for flere av kjemikaliene brukt som 
+medisinfôr og i badebehandlinger. Noen kjemikalier brukt som medisin mot lakselus er giftige 
+i så lave konsentrasjoner at de ikke kan måles i krepsdyr som beviselig har blitt drept av 
+kjemikaliene (data fra Samuelsen et al. Havforskningsinstituttet).  
+De lusemidlene som er aktuelle for Nordlaks Oppdrett AS er pyretroider (cypermetrin og 
+deltametrin), 
+organofosfat 
+(azametifos), 
+avermektiner 
+(emamektin 
+benzoat) 
+og 
+hydrogenperoksid.  Avermektiner er ikke prioritert i denne rapporten, da dette medikamentet 
+gis via fôr, og derfor har en helt annen måte å spres i miljøet på enn de som blir modellert her. 
+Vi har kun gjort risikovurderinger for bademidler i denne rapporten.  Kitinhemmere er ikke 
+relevant, da disse ikke brukes i Tysfjord. I henhold til dagens praksis hos Nordlaks Oppdrett 
+AS er hydrogenperoksid det mest aktuelle alternativet.   
+Vi har hentet inn informasjon fra Nordlaks Oppdrett AS angående "off-label bruk". På bakgrunn 
+av denne informasjonen, modellerer vi ikke lusemidler i kombinasjon, da dette ikke lenger 
+praktiseres hos Nordlaks Oppdrett AS i Tysfjord. I følge selskapet er det mer aktuelt å øke 
+dosen av et og samme stoff ved avlusning. I dette prosjektet sammenligner vi derfor 
+økotoksikologiske data med forventende konsentrasjoner i miljøet, både etter utslipp av en 
+enkelt dose (behandlingsdosen) av hvert stoff for seg, samt dobbel dose av de ulike midlene 
+separat.  
+Oseanografiske 
+modelleringer, 
+økotoksikologi, 
+økotoksikologisk 
+modellering 
+og 
+hummerøkologi behandles hver for seg i metode og resultat kapittel, og til slutt sammenfattes 
+data i en risikovurdering. For hvert bademiddel ønsker vi å besvare disse spørsmål:  
+- 
+Vil det forekomme konsentrasjoner i miljøet som overskrider grenseverdi for effekt 
+og, eller konsentrasjoner som assosieres med økt dødelighet (ved eksponering i en gitt 
+tidsperiode) etter et utslipp? 
+- 
+Overskrides effekt-/grense-verdier på områder som er spesielt viktige for hummer? 
+Vi gjør oppmerksom på at resultat fra risikovurderingen tidligere utført for lokaliteten 
+Foråstorvika ikke er direkte sammenlignbare med resultatene gjort for Grønnstranda i dette 
+prosjektet, da vi har benyttet oss av ny økotoksikologisk informasjon, gjort justeringer på 
+kartene som viser konsentrasjoner i miljøet, samt fremskaffet noe ny informasjon om 
+hummerbestanden.  
+ 
+ 
+ 
+ 
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Forkortelser brukt i rapporten. Som definert i "Guidance Document on Statistical Methods 
+for Environmental Toxicity Tests":  
+EC50 "median effective concentration" - kjemikaliekonsentrasjonen i vann eller sediment som 
+gir en spesifikk effekt (f.eks. immobilitet) hos 50 % av testorganismene.  
+LC50 "median lethal concentration" - kjemikaliekonsentrasjon i vann eller sediment som er 
+estimert dødelig for 50 % av testorganismene.  
+LC10 "lethal concentration" - kjemikaliekonsentrasjon i vann eller sediment som er estimert 
+dødelig for 10 % av testorganismene.  
+LOEC "lowest-observed-effect concentration" - den laveste konsentrasjonen av et kjemikalie 
+som har effekt.  
+LT50 "median lethal time" - eksponeringstid som er dødelig for 50 % av testorganismene ved 
+en gitt kjemikaliekonsentrasjon.  
+NOEC "no-observed-effect concentration" - den høyeste testede konsentrasjonen der effekten 
+ikke er forskjellig fra kontrollen.  
+EIF "environmental impact factor"  
+PEC "predicted environmental concentration" - forventet kjemikaliekonsentrasjon i miljøet.  
+PNEC "predicted no effect concentration" - kjemikaliekonsentrasjon der man ikke forventer 
+effekt.  
+NEC "no effect concentration" - den konsentrasjonen av et kjemikalie som ikke vil gi effekt 
+på overlevelse. 
+ƍLC50: 1/10 av LC50 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+6 
+www.akvaplan.niva.no 
+ 
+2 Metode og tilnærming 
+2.1 Hummerøkologi  
+Europeisk hummer tilhører slekten Homarus i underordenen Pleocyemata innen langhalekreps 
+i orden tifotkreps. Europeisk hummer (Homarus gammarus) er en av de mest ettertraktede 
+krepsdyr for konsum. Den europeiske hummeren lever, ifølge Havforskningsinstituttet, langs 
+kysten fra svenskegrensen til Trøndelag og sporadisk i Nordland, for eksempel i Tysfjord. I 
+Refseth et al. (2016a) ble hummer økologi beskrevet med spesiell fokus på hummer i 
+Tysfjorden. Det ble i hovedsak tatt utgangspunkt i en rapport fra Nordlandsforskning (Hansen, 
+2005).  I denne rapporten ble Tysfjordens egnethet med tanke på havbeite og oppdrett av 
+hummer undersøkt.  
+I dette prosjektet benyttes data på hummerøkologi fra rapporten Refseth et al. (2016a), samt 
+noe ny informasjon innhentet fra Kleiven et al. (2017).  
+Ved vurdering av de enkelte hummerområdene sett i forhold til oppdrettslokaliteten 
+Grønnstranda, 
+har 
+vi 
+benyttet 
+Fiskeridirektoratets 
+kartverktøy 
+(http://kart.fiskeridir.no/default.aspx?gui=1&lang=2). 
+Kartverktøyet 
+viser 
+eksisterende 
+lokaliteter, og gir også mulighet for estimering av avstander. Oppgitte avstander mellom 
+Grønnstranda og kjente hummerplasser er basert på dette kartverktøyet. 
+2.2 Økotoksikologi  
+I prosjektet "Risikovurdering ved bruk av lusemidler - hummer i Tysfjord" (Refseth et al. 
+2016a) ble det laget en oversikt over tilgjengelige økotoksikologiske data for de bademidlene 
+som er aktuelle for Nordlaks Oppdrett AS. US EPA ECOTOX database for akvatiske toksisitets 
+data ble brukt for å lete etter studier. Det ble også gjennomført en litteraturstudie. Grunnet lite 
+tilgjengelig informasjon for europeisk hummer, ble databasen etablert med økotoksverdier for 
+amerikansk hummer (Homarus americanus), og det ble lagt stor vekt på en review-artikkel av 
+Burridge og Van Geest fra 2014, da denne er den nyeste omfattende studien som diskuterer 
+potensiell miljørisiko assosiert med bruk av legemiddel mot lakselus.  
+Gjennomgangen viste at studiene er ikke ensartet med tanke på eksponeringstid (kort-
+langtidseksponering), endepunkt (dødelighet, sub-letale effekter, EC50, NOEC, LOEC, LC50, 
+LC10, LT50, osv.), eksponeringsregime (statisk, gjennomstrøm), livsstadie osv.  
+Studiene i databasen ble nøye gjennomgått for å sjekke om vi kunne finne noen data som var 
+egnet for videre økotoksmodellering, det vil si at de inneholdt tilstrekkelig informasjon om 
+respons over tid for å kunne kalkulere NEC. Vi har også gjennomført et nytt søk i US EPA 
+ECOTOX database for akvatiske toksisitets-data, for å undersøke om det har blitt publisert ny 
+informasjon for europeisk og amerikansk hummer for de aktuelle lusemidlene siden Refset et 
+al. (2016). I tillegg har vi undersøkt om det er pågående relevante prosjekt som kan gi nyttig 
+informasjon om krepsdyrs sensitivitet for de ulike bademidlene. Kalkulerte NEC verdier fra 
+Refseth et al. (2016a) brukes videre for risikovurdering for Grønnstranda, samt data fra nye 
+økotoksikologiske undersøkelser.  
+ 
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+2.3 Økotoksikologisk modellering 
+Innen risikovurderingsmetodikk og økotoksikologi foretrekkes NEC fremfor andre 
+økotoksikologiske parametere, fordi NEC-verdien er uavhengig av hvor lenge dyrene har blitt 
+eksponert i laboratoriet. Om man har NEC-verdier tilgjengelig, muliggjør dette sammenligning 
+av sensitivitet mellom ulike arter der behandlingsregimet er forskjellig. Dette er i mindre grad 
+mulig med andre økotoksparametre, slik som LC50. NEC anbefales som utgangspunkt for 
+miljørisikoanalyser (EC 2003). NEC-verdier oppgis sjeldent i vanlige publikasjoner, og det 
+kreves derfor ekstra innsats for å skaffe til veie NEC-verdier, sammenlignet med tradisjonelle 
+LC50-verdier.  
+I økotoksgjennomgangen i Refseth et al. (2016a) fant vi ingen NEC-verdi for hverken 
+amerikansk eller europeisk hummer. Vi kalkulerte NEC-verdier for de kjemikaliene der dette 
+var mulig basert på tilgjengelig rådata fra akutte toksisitetstester utført på hummer. Disse 
+rådataene ble brukt i en biologi-basert modell til å kalkulere NEC-verdier for hummer. Vi valgte 
+modellering fra GUTS rammeverket (Jager, 2011). Kalkuleringene ble gjort i 
+forskningsprogramvaren DEBtox, www.debtox.info/software.php, og koden ble kjørt i Matlab 
+versjon 2015b. DEBtox modellen er ekvivalent til GUTS-SIC-SD beskrevet i Jager et al. (2011) 
+for å trekke ut modell-parametere fra datasett funnet i litteraturen (databasen). For en mer 
+detaljert beskrivelse av hvordan NEC-kalkuleringer ble gjort ved hjelp av DEB-modellen, se 
+Refseth et al. (2016a). De samme NEC-verdiene som ble kalkulert i Refseth et al. (2016a) blir 
+brukt også for Grønnstranda.  
+Risiko vurderes også ved å bruke andre økotoksparametre enn NEC, for eksempel LC50-verdier 
+(f.eks. Brokke 2015, Havforskningsinstituttets risikovurdering 2016). I de tilfellene det ikke var 
+mulig å kalkulere NEC, brukes LC50 med en sikkerhetsfaktor (1/10 av LC50). Denne refereres 
+som ƍLC50 fra nå av i rapporten. Det er vanlig praksis i økotoksikologi å bruke 
+økotoksparametre med en sikkerhetsfaktor, når eksakt verdi ikke finnes. Det er også vanlig å 
+bruke beslektede arter i kalkuleringene, om det ikke finnes informasjon om arten av interesse.  
+I risikovurderingsmetoder benyttes tradisjonelt verdier for den mest sensitive arten, mest 
+konservative estimat, siden det er ønskelig å beskytte den mest sensitive ressursen (art, 
+livsstadie osv). Om en sensitivitet for et helt dyresamfunn skal beregnes, brukes en Species 
+Sensitivity Distribution (SSD) kurve til å beregne en grenseverdi (PNEC), som er den 
+konsentrasjonen som ikke vil gi effekt på 95 % av artene (Kooijman 1987). Om en 
+kommersiell/økologisk viktig art ikke er beskyttet, justeres grenseverdien.  
+Vi ønsker å understreke at grunnet begrenset økotoksdata i litteraturen for lusemidler på 
+hummer, ble økotoksikologisk modellering for ulike lusemidlene foretatt på bakgrunn av ulike 
+typer data. Det er derfor viktig å være oppmerksom på at risikovurderingen for de ulike stoffene 
+ikke er direkte sammenlignbare. F.eks. er NEC-verdier for deltametrin kalkulert ut ifra datasett 
+for Hummerlarver Stadie III, mens det for cypermetrin bare var tilstrekkelig data tilgjengelig 
+for voksne dyr. I tilfeller der ikke NEC kunne kalkuleres, bruker vi 1/10 av LC50 verdien: ƍLC50. 
+Den reelle NEC verdien kan ligge over eller under denne verdien. Disse forhold fører til at en 
+direkte sammenligning av risiko for de ulike stoffene ikke er nøyaktig. Det er ikke innenfor 
+prosjektets økonomiske og tidsmessige rammer å foreta økotoksikologiske eksperiment på 
+europeisk hummer, vi har derfor brukt allerede eksisterende informasjon, men som et resultat 
+av dette er data ikke ensartet (Refseth et al. 2016a). Et mer ensartet datasett er plukket ut for 
+effektstudier 
+som 
+inkluderer 
+mål 
+på 
+konsentrasjoner 
+over 
+tid 
+(sammenlignbart 
+eksponeringsregime for både deltametrin, azametifos og hydrogenperoksid). Dette er 
+tilgjengelig for reke, men ikke hummer (se avsnitt 3.4). Både NEC, ƍLC50 og resultater fra 
+effektstudie blir sammenlignet med modellerte konsentrasjoner i miljøet.  NEC verdiene vil 
+være tidsuavhengig, mens effektstudien viser en gitt effekt over en gitt tidsperiode (eksponering 
+Akvaplan-niva AS, 9296 Tromsø
+8 
+www.akvaplan.niva.no
+til 1/1000 av behandlings konsentrasjon i to timer) (Beckmann 2017). Disse studiene refereres
+til som "effektstudiet" i rapporten. Kart basert på NEC og effektstudiet for de ulike stoffene er
+heller ikke direkte sammenlignbare. Effektstudiet vil gi en mer sammenlignbar situasjon for de
+ulike bademidlene, da forsøkene er gjennomført ved samme laboratorie under de samme
+betingelser.
+2.4 Oseanografisk modellering
+Simuleringene av spredning i sjø har blitt utført med modellen FVCOM (The unstructured grid
+Finite Volume Community Ocean Model, Chen et al. 2003). FVCOM er utviklet ved The
+Marine Ecosystem Dynamics Modeling Laboratory ved University of Massachusetts-
+Dartmouth (USA) og er spesielt godt egnet til å simulere strøm i områder med irregulær og
+komplisert kystlinje. Grunnen til dette er at FVCOM er en ustrukturert grid-modell som tillater
+at man varierer avstanden mellom modellens beregningspunkter (oppløsning) fra område til
+område i modelldomenet. For å produsere gode resultater trengs det for eksempel mye høyere
+oppløsning (kort avstand mellom beregningspunkter) i smale deler av en fjord enn på åpent hav,
+der lavere oppløsning (stor avstand mellom beregningspunkter) kan være akseptabelt.
+Selv om det i dette prosjektet er knyttet mest interesse til Tysfjorden og oppdrettsanlegget i
+Grønnstranda, er det likevel nødvendig å modellere et betydelig større område for å sikre at
+storskalafenomener langs kysten forplanter seg riktig inn mot interesseområdet. Det fulle
+modellområdet dekker derfor store deler av Vestfjorden og vises i Figur 1.
+Modellen ble satt opp i 3D. Dvs. at modellen beregner temperatur, salinitet og strøm både
+horisontalt og vertikalt. Modellen er drevet av elveavrenning (data fra NVE), atmosfæriske data
+som vind, regn, langbølget og kortbølget stråling, samt følbare og latente varmeflukser mellom
+hav og atmosfære. De atmosfæriske feltene er beregnet av Havforskningsinstituttet ved bruk av
+atmosfæremodellen WRF (The Weather Reasearch & Forecasting model, http://www.wrf-
+model.org/index.php).
+Figur 1. Bunntopografi i modellområdet. Fargeskalaen viser dybde i meter.
+De forskjellige lusemidlene ble modellert som sporstoff i modellen. Vår erfaring fra tidligere
+arbeid er at den naturlige fortynningen av et sporstoff i havet reduserer konsentrasjonene
+betydelig raskere enn den temperaturavhengige nedbrytningsraten til disse stoffene. Typisk
+halveringstider ved nedbrytning kan være dager til uker, mens halvering av konsentrasjonen
+ved fortynning vil være av størrelsesorden en time. Dette betyr at det ikke er nødvendig å ta
+hensyn til nedbrytning av stoffene vi modellerer. Nedbrytning er derfor utelatt.
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+Hydrogenperoksid er tyngre enn sjøvann og konsentrasjonene av hydrogenperoksid som er 
+brukt til avlusning vil øke tettheten til vannet med ca. en promille. Dette er nok til at synking 
+av vann som inneholder hydrogenperoksid kan ha betydning. Å modellere dette vil derimot 
+kreve en oppløsning ned mot en meter, noe som ikke er aktuelt innenfor dette arbeidet. Vi har 
+derfor ikke tatt med effekten av hydrogenperoksid på tettheten til sjøvannet. Hydrogenperoksid 
+vil da i modellen spres i overflaten, noe som trolig er en mer effektiv spredning enn om det 
+hadde sunket til større dyp.  
+Når tetthetseffekter og nedbrytningsrater er utelatt vil alle lusemidlene oppføre seg likt i vannet 
+og det er derfor kun gjort simulering av ett sporstoff med utgangskonsentrasjon lik en. 
+Konsentrasjoner av forskjellige lusemidler kan da fås ved å gange resultatene med den aktuelle 
+utgangskonsentrasjonen. Modellering av sporstoff er utført med FABM (Framework for 
+Aquatic Biochemical Models, Bruggeman og Bolding, 2014).  
+Simulering av et utslipp av lusemidler foregår ved at konsentrasjonen av sporstoff blir satt til 
+null overalt foruten i det ene gridpunktet som ligger over lokaliteten i Grønnstranda. I dette 
+punktet blir konsentrasjonen satt lik en i de øverste 10 meterne. Fra 10 meters dyp og ned til 
+bunn er konsentrasjonen igjen satt til null. Utstrekningen av gridpunktet over Grønnstranda er 
+representativt for et oppdrettsanlegg slik at utslippsvolumet også blir i riktig størrelsesorden.  
+Til sammen har vi utført 21 simuleringer av utslipp av lusemiddel over 21 uker. Resultatene 
+som presenteres er et resultat av statistiske analyser av disse 21 simuleringene, som 
+representerer forskjellige strøm- og værforhold. Alle områdene som er farget har en 
+sannsynlighet for å bli påvirket, men det betyr ikke at alle fargede områder vil bli påvirket etter 
+et enkelt utslipp. 
+2.5 Risikovurdering  
+For å vurdere miljørisiko forbundet med utslipp av lusemidler, sammenfattes resultatene fra 
+økotoksmodelleringen og konsentrasjonsmodelleringen med utgangspunkt i metoden oppgitt i 
+ETG (EC 2003), for hvert kjemikalie. Denne metoden går ut på å sammenligne forventet 
+konsentrasjon i miljøet (PEC) med NEC-verdier. Hvis (PEC/NEC≤1) forventes det ikke 
+negative effekter på miljøet. Om forventede konsentrasjonen i miljøet (PEC) overskrider NEC- 
+verdi, (PEC/NEC>1), kan uakseptable effekter på miljø oppstå, og utslipp bør reduseres, evt. 
+videre undersøkelser foretas (EC 2003).   
+Om evalueringen viser at PEC-verdier overskrider NEC-verdier må vi vurdere resultatene med 
+tanke på om det finnes forhold som må tas med i vurdering av risiko. Det er utenfor prosjektets 
+ramme å foreta en full risikovurdering slik som det gjøres i EIF (Environmental Impact Factor 
+(Johnsen et al. 2000). Det er også utenfor prosjektets ramme å definere hvor stor andel av en 
+bestand som blir påvirket om PEC overskrider NEC. For en slik vurdering trengs det avanserte 
+modeller som kobler økotoksmodellering med konsentrasjons- og bestandsmodellering (f.eks. 
+SYMBIOSES; Carroll and Smith 2011).   
+NEC-verdien sier ingenting om hvor lenge dyrene må eksponeres ute i felt før effekt oppstår. 
+Vi har derfor også tatt med relevante økotoksstudier som sier noe om effekt (dødelighet) for 
+krepsdyr under kort-tidseksponering. Dette er basert på en fersk studie utført i Norge på effekter 
+av azametifos, deltametrin, og hydrogenperoksid. Forsøkene er utført på samme laboratorie 
+under de samme betingelsene. 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+10 
+www.akvaplan.niva.no 
+ 
+3 Resultat og diskusjon  
+3.1 Hummer økologi  
+Dette kapittelet har tilsvarende tekst som kapittelet om hummerøkologi i Refset et al. (2016a), 
+med noe nye informasjon fra Havforskningssinstituttet. 
+Europeisk hummer (Homarus gammarus) er en stor hummerart som ligner på amerikansk 
+hummer. Den har utbredelse fra Middelhavet i sør til Tysfjord i nord. Man finner vanligvis 
+hummeren fra 5 til 50 meters dyp (www.imr.no). Hummeren lever hovedsakelig på hardbunn 
+med skjulesteder i steinrøyser, kløfter eller i huler under store steiner. Ved mangel på steinbunn 
+graver hummeren huler i fastpakket sand og leirbunn. Den ligger rolig i skjul om dagen og 
+jakter aktivt på byttedyr om natten. Hummerens diett består i hovedsak av andre krepsdyr, 
+snegler, flerbørstemark og skjell. Den spiser også det som måtte være tilgjengelig av åtsel.  
+Hummeren er stedbunden, men migrerer til dypere vann på senhøsten. Man tror at hummeren 
+befinner seg på ca. 40-70 m dyp om vinteren, og at den trekker mot grunnere vann på 0-20 m 
+på forsommeren. Den er generelt lite aktiv om vinteren når sjøtemperaturene er lave. 
+Hummeren blir kjønnsmoden etter 5-8 år, og størrelse ved kjønnsmodning varierer for ulike 
+geografiske bestander (Hansen 2005). Forplantning skjer om sommeren, i tilknytning til 
+skallskifte. Oppbygging av innrogn (eller hoderogn) tar ca. ett år. Eggene befruktes når de 
+legges ut, og festes på svømmeføttene under bakkroppen. Videre tar det 9-11 mnd. til eggene 
+klekkes. Den nyklekte larven blir også værende hos mordyret til den slipper seg ut i de frie 
+vannmassene i det første av fire pelagiske larvestadier. Dette skjer i løpet av de tre 
+sommermånedene, og larven er da om lag 6-7 mm.  
+Etter klekking lever hummerlarvene fritt i vannmassene, og i denne perioden skifter den skall 
+tre ganger. Larvene i de to siste stadiene er dyktige svømmere. I det siste stadium er larven 15-
+20 mm lang og ligner en minihummer. Ved stadium IV inntreffer metamorfose, og postlarven 
+vil da søke mot bunnen for å starte sitt bentiske liv. I det første år etter bunnslåing ligger 
+hummeren sannsynligvis nedgravd i sediment på havbunnen (Hansen 2005). Forsøk har vist at 
+hummer kan bunnslå på grus, skjellsand og mudderbunn. Hva slags bunn den ville yngelen 
+egentlig fortrekker, vet vi ikke (www.imr.no).  
+Etter hvert som den vokser blir hummeren stadig mer kapabel til å forsvare seg mot predatorer. 
+I denne fasen søker den mot det man kjenner som gode hummerplasser, som steinurer og andre 
+områder som gir godt skjul.  
+Hummeren vokser relativt sakte pga. skallskiftene. Småhummer skifter skall flere ganger pr. 
+år, men skallskiftene blir sjeldnere med alderen. Undersøkelser har vist at hummeren er relativ 
+stedbunden (www.imr.no). I 2006/2007 brukte Havforskningsinstituttet hydroakustiske merker 
+for å studere vandring/forflytning mer detaljert. Resultatene viser at hummeren er stasjonær og 
+holder seg innen et begrenset område på dagtid. Om natten foretar den betydelige vandringer 
+på opp mot 1 km per natt. Under disse vandringene kan hummeren vandre fra ganske dypt vann 
+og helt opp mot fjæra i løpet av kort tid (60 min). Resultatene antyder at hannhummeren er mer 
+nattaktiv enn hunnene, og at hunner som bærer utrogn er minst aktive. Hummerens livssyklus 
+kan medføre ulik sensitivitet på ulike deler av året. Den skifter skall for å vokse, og vil 
+sannsynligvis være mer sårbar for substanser i vannet ved skallskifte. 
+Hummerfisket har en lang historie i Norge og har vært en viktig inntektskilde for mange 
+kystsamfunn. Siden 1970 tallet har bestanden vært på et historisk lavt nivå, og hummer er nå 
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+på vei inn i rødlista over truede dyrearter (Alf Ring Kleiven, Havforskningsinstituttet, pers 
+med.). I 2008 ble det innført nye reguleringer i hummerfisket. Fiskeridirektoratet her bedt 
+Havforskningsinstituttet gjennomgå bestandssituasjonen i lys av nye reguleringer i 2008 og 
+eventuelt foreslå forvaltningstiltak for å sikre et bærekraftig fiskeri. Havforskningsinstituttet 
+har nylig foreslått at etablering av bevaringsområder for hummer videreføres og intensiveres. 
+Et nettverk av bevaringsområder langs kysten vil bidra til å sikre bred størrelsessammensetning, 
+balansert kjønnsfordeling og økt egg- og larveproduksjon i populasjonen (Kleiven et al. 2017). 
+Kommunene oppfordres til å innføre egne verneområder for hummer, da hummerbestanden nå 
+er i en negativ utvikling (Kleiven et al. 2017).  
+ 
+Hummer i Tysfjord  
+Tysfjord har egen bestand av europeisk hummer, som er verdens nordligste (Agnalt et al. 2009). 
+Undersøkelser tyder på at hummeren i Tysfjorden er spesielt tilpasset det subarktiske miljøet, 
+med lyse netter om sommeren og mørke det meste av døgnet om vinteren. Under flere 
+feltundersøkelser gjennomført av Havforskningsinstituttet (2009) fant man hummer som var 
+aktive på dagtid. Hummer ble observert gående på havbunnen på dybder mellom 2 og 10 m 
+(Agnalt et al. 2009).  
+Tysfjord har en terskel på ca. 250 m ved innløpet, men fjordbassenget er blant Norges dypeste 
+med sine 700 m. Terskelen bidrar til å opprettholde et stabilt dypbasseng med relativt varmt 
+vann i fjorden. Tysfjorden består i tillegg av flere lange fjordarmer (se Figur 4).  
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+12 
+www.akvaplan.niva.no 
+ 
+ 
+ 
+Figur 2. Kart over Tysfjorden med godkjente lokaliteter for oppdrett av laks avmerket. 
+Lokaliteten i Grønnstranda er markert med blå sirkel og pil. Viktige hummerlokaliteter er 
+merket med røde stjerner (Skrovkjosen, Haukøygrunnen, Stefjorden, Tømmeråsfjorden og 
+Fuglfjorden). Kilde: Fiskeridirektoratet.  
+Utformingen av fjorden gjør at hummerlarvene sannsynligvis holdes i fjordbassenget i hele 
+den pelagiske fasen (Hansen 2005).  
+Fjordarmene nordøst i Tysfjorden, nærmest innløpet, er kjent for å ha gode hummerplasser. 
+Skrovkjosen har store områder grunnere enn 150 m, og er kjent for å ha gode hummerplasser. 
+Litt lenger sør ligger Stefjord, Tømmeråsfjord og Fuglfjord som også har relativt grunt vann 
+sammenlignet med hovedfjorden utenfor, med dybder opp til ca. 200 m. Like sør for disse 
+fjordene ligger Haukøygrunnen. Både Stefjord, Tømmeråsfjord, Fuglfjord og Haukøygrunnen 
+er gode hummerplasser, og det drives et utstrakt hobbyfiske i disse områdene (Hansen 2005).  
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Hansen (2005) foreslår at de store områdene med bløtbunn på grunnere vann er viktige for 
+hummeren i tidlige livsstadier. Haukøyfjorden vil således være et viktig område for 
+reproduksjon og rekruttering av hummerbestanden. I følge Havforskningsinstituttets 
+handlingsplan for å bevare hummer, er det intensjonen om å få i gang økt egg- og 
+larveproduksjon i hummerpopulasjonen (Kleiven et al. 2017). Haukøygrunnen er derfor et 
+viktig område med tanke på målet om å oppnå økt egg- og larveproduksjon.  
+Omtrent midt i hovedfjorden ligger Hulløy. Rundt øya er det ifølge Hansen (2005) visse 
+forekomster av hummer. Langs Tysfjordens vestside er det generelt små hummerfangster, selv 
+om det finnes enkelte kjente lokaliteter også her.  Alle de tre fjordarmene i sør, Hellemofjord, 
+Grunnfjord og Mannfjord har også gode hummerlokaliteter. Fra den siste av fjordarmene, Indre 
+Tysfjord/ Sørfjorden, er det imidlertid meldt lite eller ingen fangst av hummer fra lokale fiskere.  
+Lokaliteten Grønnstranda ligger i Skrovkjosen. Skrovkjosen pekes ut som et område med gode 
+hummer lokaliteter i Hansen (2005). Kjosen starter mellom Bremneset i nord, der  Tysfjorden 
+har sitt innløp, og Skarbergneset i sør og går østover til Eidet og Ulvika. Mellom nesene ligger 
+Bekkenesholmen (Figur 2). Bekkenesholmen regnes som Norges første naturreservat.  
+I følge Fiskeridirektoratets kartverktøy er det fra Grønnstranda ca. 18 km til innløpet til 
+Stefjorden, og det er om lag 15 kilometer til Tømmeråsfjorden og Fuglfjorden (områder som er 
+foreslått som viktige hummerlokaliteter). Avstanden mellom lokaliteten Grønnstranda til 
+Haukøygrunnen som foreslås som viktig område for tidlige livsstadier er  ca. 11km., ifølge 
+kartverket (http://kart.fiskeridir.no/default.aspx?gui=1&lang=2#). Fra lokaliteten til Hulløy er 
+det drøyt 20 km. Se Figur 2 for plassering av Grønnstranda  i forhold til Skrovkjosen, 
+Stefjorden, Tømmeråsfjorden, Fuglfjorden, Hulløy og Haukøy-grunnen. De store områdene 
+med bløtbunn på grunnere vann kan være viktige for hummeren i tidlige livsstadier, og kanskje 
+er disse områdene medvirkende til at området rundt Stefjord, Tømmeråsfjord, og Fuglfjord har 
+så gode hummerforekomster (Hansen 2005). Distribusjon og lokalisering av hummer i ulike 
+stadier gjennom året er vist i Tabell 2.  
+ 
+Tabell 2. Lokalisering og sesongmessig fordeling av hummer i ulike stadier i Tysfjorden. 
+ 
+Hummerlarver 
+Stadie I-III 
+Postlarve/ liten hummer 
+Stadie IV – liten hummer 
+Voksne hummer 
+Posisjon i vannsøylen 
+Pelagisk 
+Bentisk 
+Hardbunn på 5-50 m dyp 
+Tilgjengelig i 
+Tysfjord 
+Ukjent 
+Ukjent/ bløtbunnsområder 
+I fjordarmer og rundt 
+øyer 
+Sesong 
+Juni/juli - Aug 
+Hele året 
+Tilstede hele året 
+ 
+Hummerlarvene klekkes i juni-august, og larvestadiet varer 2-6 uker, avhengig av temperaturen 
+(Agnalt, A.L, pers med.). Som Tabell 2 viser, finnes hummer både i vannsøylen og på bunnen, 
+avhengig av livsstadie.  Hummeren kan også foreta vandringer, og den kan vandre fra ganske 
+dypt vann og helt opp mot fjæra i løpet av kort tid (60 min). Hummer kan derfor i teorien bli 
+eksponert for kjemikalier både i vannsøylen, og på bunnen på grunt vann og dypt vann, 
+avhengig av om kjemikaliene synker.  
+Ingen verneområder for hummer er trådt i kraft i Tysfjord, så vidt oss bekjent. Det er foreslått 
+et marint verneområde i Tysfjord der hummerstammen er spesielt nevnt under verneformålet. 
+Det er for øvrig mangelfull kartlegging av hvor hummerbestandene befinner seg, og størrelse 
+på bestandene i Tysfjordbassenget. Hummer, og spesielt hummerlarver, kan befinne seg også i 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+14 
+www.akvaplan.niva.no 
+ 
+andre områder enn kjente hummerlokaliteter spesifisert i Hansen (2005). Hummerlarver driver 
+med strømmen før bunnslåing, og ingen vet nøyaktig hvor de befinner seg i denne fasen (Ann-
+Lisbeth Agnalt, pers. med). Det er ønskelig med en kartlegging av viktige områder for hummer 
+i Tysfjorden, og et samarbeid mellom Havforskningsinstituttet og Fiskeridirektoratet er satt i 
+gang. 
+3.2 Økotoksikologi 
+Laboratoriestudier 
+For en detaljert oversikt over økotoksikologiske studier og data som er tilgjengelig for hummer 
+for deltametrin, cypermethrin, azametifos og hydrogenperoksid, henvises leseren til 
+økotoksdatabase (egen leveranse i prosjekt "Risikovurdering ved bruk av lusemidler - hummer 
+i Tysfjord"). Til sammen utgjør databasen en oversikt over 74 økotoksverdier, hentet fra ulike 
+publikasjoner. Noen av disse dataene er presentert og oppsummert på side 12-16 i Refseth et 
+al. (2016a), for hvert kjemikalie (cypermethrin, deltametrin, azametofos og hydrogenperoksid). 
+En oppsummering basert på Refseth et al. (2016a), samt ny informasjon siden rapporten ble 
+laget, er presentert under.  
+Krepsdyr er svært følsomme for flere av kjemikaliene brukt som medisinfôr og i 
+badebehandlinger. I en review utført av Burridge og Van Geest (2014) ble en rekke studier og 
+lusemidler gjennomgått, og det ble konkludert med at hummer er den meste sensitive arten 
+overfor samtlige lusemidler som brukes til badebehandling.  
+Pyrethroid insecticider (deltametrin og cypermetrin) er blant de meste toksiske insekticidene 
+som finnes og mange studier har bekreftet at marine krepsdyr, som bl.a. hummer og reker, er 
+sensitive for disse stoffene (Fairchild 2000).  
+Deltametrin er neurotoksisk og fører til paralyse. Deltametrin er klassifisert som svært toksisk, 
+og kan drepe hummer ved ekstremt lave konsentrasjoner (Burridge og Van Geest, 2014). Få 
+timers eksponering for tusen ganger fortynnet behandlingsløsning av deltametrin førte til økt 
+dødelighet hos blant annet canadisk hummer (Burridge og Van Geest 2014), og rekelarver 
+(Pandalus borealis) (Bechman 2017). Deltametrin var lovlig brukt i Canada i 2009 og 2010, 
+men da kun under spesialgodkjenning. Pyretroider (deltametrin og cypermetrin) brukes ikke 
+lenger i Canada på grunn av høy toksisitet mot hummer.  
+Hummer og reker er de mest følsomme artene for azametifos (Burridge et al. 2000; Ernst et 
+al. 2014). Dødelig konsentrasjon (LC50) av azametifos hos hummer varierer noe avhengig av 
+livsstadium, men er i størrelsesorden 1-10 % av behandlingsløsning (1-10 μg/l) (Burridge et 
+al. 2000; Ernst et al. 2001). Gjentatte eksponeringer for lave konsentrasjoner av azametifos 
+kan resultere i negative effekter på overlevelse og gyting hos Amerikansk hummer (Burridge 
+et al. 2010). 
+En kombinasjonen av deltametrin og azametifos gav dødelighet hos reker (Praunus flexuosus 
+og Palaemon elegans) etter 24 timers eksponering for 6 ng/L azametifos og 0,1 ng/L 
+deltametrin, dvs. omtrent titusen ganger fortynnet behandlingsløsning for disse kjemikaliene 
+brukt separat (Brokke 2015). Gjennom intervjuer av fiskehelsebiologer (foretatt av Akvaplan-
+niva) fremkom det at kombinasjonen azametifos og deltametrin var "mye" brukt i Norge rundt 
+2015, men at denne metoden ikke lengre brukes på grunn av legemiddelkampanjen.  
+Få timers eksponering for tusen ganger fortynnet behandlingsløsning av hydrogenperoksid førte 
+til økt dødelighet av voksne reker (Pandalus borealis) (Beckman 2017).  Raudåte har også vist 
+seg å være følsom for hydrogenperoksid etter en times eksponering (Escobar 2016, Refseth et 
+al. 2016 b). Effekt på overlevelse og reproduksjon har blitt demonstrert på hunnhummer etter 
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+repetitive korttidseksponeringer (Burridge and Van Geest 2014). Burridge og Van Geest (2014) 
+presenterer data for akutt respons hos ulike invertebrater eksponert til Paramove 50® 
+(hydrogenperoksid) i en time. LC50 estimert for hummerlarver stadie I var 1637 mg/l, etter en 
+times eksponering, mens voksne individer overlevde eksponering på 3750 mg/l.  
+Nye søk i US EPA ECOTOX database for akvatiske toksisitetsdata har blitt gjennomført siden 
+Refseth et al. (2016a). Vi kunne ikke finne nye publiserte data på hverken europeisk hummer 
+eller amerikansk hummer for noen av de aktuelle lusemidlene.  
+Vi er for øvrig også kjent med at nye studier på hummerlarver gjennomføres av 
+Havforskningsinstituttet (HI). Dødelighet ble observert ved eksponering av hummerlarver 
+(Homarus gammarus) i stadium I og II for 10 % av behandlingsløsningen for hydrogenperoksid 
+i 1 time (Escobar Lux, upublisert). Det var høy dødelighet i observasjonsperioden på 72 timer 
+etter endt behandling (Ann-Lisbeth Agnalt pers.med).  
+Nye laboratorie-eksperimenter hvor reke (Pandalus borealis) er eksponert for de aktuelle 
+bademidler er også gjennomført siden Refseth et al. (2016a). Disse laboratorie-studiene ble 
+gjennomført ved International Research Institute of Stavanger (IRIS) i Stavanger, samt av 
+Akvaplan-niva. Hos IRIS ble reke eksponert for deltametrin, azametifos, hydrogenperoksid, 
+samt for en kombinasjon av deltametrin og azametifos. Studien ble gjennomført ved å 
+eksponere reke til en eller flere pulser på to timer til fortynnet behandlings konsentrasjon 
+(1/1000 av behandlingskonsentrasjon for hvert stoff) (Bechman 2017). Resultatene viste økt 
+dødelighet hos reke. Studien er høyst relevant med tanke på at den er ensartet i forhold til at 
+den er gjennomført på ett og samme laboratorie, på samme art, med de kommersielle 
+produktene som brukes i Norge i dag (AlphaMax: virkestoff deltametrin, Salmosan: virkestoff 
+azametifos, og Paramove: virkestoff hydrogenperoksid).  Dette gjør at studiet er egnet til å 
+sammenligne toksisitet av de ulike lusemidlene, og vi vil derfor legge vekt på denne studien når 
+vi sammenligner resultater fra økotoksstudier med resultater fra konsentrasjons-modelleringen, 
+for å få en mer ensartet vurdering for de ulike stoffene.   
+Resultater fra disse studiene har blitt presentert i en workshop, samt i en oppsummering som 
+ble offentlig distribuert etter workshopen. Lignende studier er også gjennomført av Akvaplan-
+niva (lignende eksponerings regime). Disse er ikke publisert enda, men for deltametrin viser 
+foreløpige resultat/observasjoner tilsvarende resultater som i Beckmann 2017: dødelighet ved 
+lave konsentrasjoner etter korttidseksponering (en puls på to timer).  
+ 
+Feltstudier i Norge (europeisk hummer):  
+Det foreligger ikke vitenskapelige undersøkelser i felt av eventuelle sammenhenger mellom 
+bruk av lusemidler og effekter på krepsdyr i Norge. Vi er kjent med en feltobservasjon fra 
+Øygarden i 2015, der det ble rapportert om død hummer i teiner, 35 hummer til sammen på to 
+ulike steder i fjorden.  Det var ikke blitt rapportert inn bruk av lusemidler (i Barentswatch) i 
+nærheten av teinene denne perioden, men en nærmere undersøkelse viste at et 
+oppdrettsselskapet som driver et anlegg 800 meter ute i fjorden, hadde brukt kjemiske midler 
+til avlusning dagen før hummerne ble funnet. Det ble brukt dobbel dose deltametrin, og samtidig 
+ble det brukt full dose azametifos. Fiskeridirektoratet satte i gang en gransking for å finne ut 
+om hummerne døde som følge av avlusningen. Konklusjonene etter granskingen var at det ikke 
+var sannsynlig at avlusing av oppdrettslaks var årsaken til at hummeren døde, siden det ble ikke 
+funnet rester av azametifos og deltametrin i dyrene. Det har imidlertid i ettertid blitt kjent at det 
+ikke finnes gode nok analysemetoder for å detektere lave konsentrasjoner av lusemidler i dyr, 
+og at konklusjonen derfor ble trukket på uriktig grunnlag.  Havforskningsinstituttet v/ Ole B. 
+Samuelsen har opplyst at han eksponerte reker for lave konsentrasjoner av deltametrin og 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+16 
+www.akvaplan.niva.no 
+ 
+azametifos (vurdert som lignende konsentrasjoner som de døde hummerne ble eksponert for i 
+felt, basert på modellering). Rekene døde av dette. Han sendte rekene til kjemisk analyse, og 
+det var ikke mulig å finne rester av deltametrin og azamtifos i rekene, selv om det beviselig var 
+disse stoffene som hadde tatt livet av dem. Analysemetoden som ble brukt etter hummerdøden 
+i Øygarden er derfor ikke er god nok til å vurderte om avlusing var årsaken til at hummer i 
+teiner 800 m unna anlegget døde (Nodland, E, artikkel i iLaks 2017 basert på data fra Samuelsen 
+et al.). 
+Det har i flere tilfeller blitt innmeldt observasjoner av store mengder døde krepsdyr 
+(hovedsakelig krill) på strender i norske fjorder. Det er uttrykt bekymring for at dette kan 
+skyldes bruk av lusemidler. Dette er pr. i dag hverken bekreftet eller avkreftet.  
+ 
+3.3 Økotoksikologisk modellering 
+I dette kapittelet oppsummerer vi NEC-verdier som i kapittel 3.4 blir sammenlignet med 
+forventede konsentrasjoner i miljøet. Som tidligere nevnt, anbefaltes NEC over andre 
+økotoksparametere i risikovurderingssammenheng (EC 2003). Vi gjorde derfor et forsøk på å 
+kalkulere NEC for hummer i Refseth et al. (2016a). I den sammenheng ble en grundig 
+litteraturstudie gjennomført for å se om noen av studiene som inngikk i databasen inneholdt 
+tilstrekkelig informasjon (rådata fra laboratoriet i god nok kvalitet) for NEC-kalkulering. Dette 
+var tilfelle for studier av cypermetrin og deltametrin. Se Refseth et al. (2016a) for detaljer, en 
+kort oppsummering presenteres under: 
+Cypermethrin:  
+NEC: Data for NEC-kalkulering for cypermetrin er ekstrahert fra Burridge et al. (2000). NEC-
+kalkuleringene ble gjort for voksen hummer. Voksen hummer ble i forsøket fra Burridge et al. 
+(2000) eksponert for tre pulser av cypermetrin over tre dager. Pulsene varte fra 15 min til 2 
+timer og intensiteten på pulsen varierte fra 0,025 til 1,8 μg/l. Vi måtte rekonstruere detaljer av 
+eksponerings scenario fra materiale- og metode-delen i den originale publikasjonen (Burridge 
+et al. 2000), se Figur 10 i Refseth et al. (2016a).  
+NEC-verdier ble estimert på bakgrunn av et 30 min puls scenario der antall immobiliserte 
+hunner ble notert. For mer informasjon om figurer og data fra Burridge et al. (2000), se original 
+publikasjonen, samt informasjon i Refseth et al. (2016a, side 16-20).  
+På bakgrunn av dette datasettet var vi i stand til å estimere en NEC-verdi på 1,6 μg/l for 
+cypermetrin. Denne verdien brukes videre i denne rapporten, da vi ikke har funnet nye studier 
+siden denne rapporten ble publisert, som kvalifiserer til nye NEC kalkuleringer.  
+Andre studier/økotoksparametre: vi har ikke funnet nye relevante publiserte eller pågående 
+studier på krepsdyr og cypermethrin siden Refseth et al. 2016a som egner seg til NEC- 
+kalkulering.  
+Deltametrin: 
+I Refseth et al. (2016a) ble data for NEC-kalkulering for deltametrin ekstrahert fra vedlegg i 
+Fairchild et al. (2010). I vedlegg 2 og 4 fant vi overlevelse over tid for hummerlarver stadie III 
+som var eksponert til deltametrin (Alpha Max). Vi brukte rådataen fra vedlegg 1, 3 og 4 for å 
+estimere NEC-verdier.  
+Oppsummering NEC-verdier:  
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+Vi estimerte en NEC-verdi for hummerlarver stadie III på 0,03 ng/l for deltametrin 
+(AlphaMax).   
+Vi estimerte en NEC-verdi for hummerlarver stadie IV på 1 ng/l for deltametrin (AlphaMax).  
+Disse verdien blir brukt videre i denne rapporten, da vi ikke har funnet nye relevante 
+økotoksdata til å rekalkulere NEC-verdier for deltametrin og hummer.   
+Hydrogenperoksid: Økotoks gjennomgangen i Refseth et al. (2016a) viste at rådata ikke er 
+tilgjengelig for hydrogenperoksid og hummer, og det var derfor ikke mulig å kalkulere NEC 
+for hummer. Vi bruker LC50-verdien estimert for hummerlarver stadie I på 1637 mg/l som 
+utgangspunkt (ƍLC50= 1/10 av LC50-verdien). Vi fant ingen nye data på hummer publisert 
+siden forrige rapport som egner seg for NEC-kalkulering.  
+Azametifos: Økotoks gjennomgangen i Refseth et al. (2016a) viste at rådata ikke er tilgjengelig 
+for azametifos og hummer, og det var derfor ikke mulig å kalkulere NEC for hummer. Vi bruker 
+derfor LC50-verdien for hummerlarve på 0,5 μg/l (Burridge et al. 2014) med en sikkerhetsfaktor 
+(ƍLC50= 1/10 av LC50-verdien). Vi fant ingen nye data på hummer publisert siden forrige 
+rapport som egner seg for NEC-kalkulering.  
+ 
+3.4 Sammenfatning økotoks og oseanografisk modellering  
+I dette kapittelet sammenligner vi relevante økotoksdata med modellerte konsentrasjoner i 
+miljøet. Vi modellerer områder der konsentrasjonene i miljøet er over NEC eller (ƍLC50). Om 
+konsentrasjonene i miljøet overskrider NEC-verdi, kan uakseptable effekter på miljø oppstå. 
+NEC-verdi sier ingenting om hvor lenge dyrene må eksponeres ute i naturen før effekt (død) 
+oppstår. Vi ønsker derfor også å sammenligne konsentrasjoner i miljøet med 
+eksponeringsregime (konsentrasjon og tid) som assosieres med økt dødelighet.  
+Resultatene fra økotoksinnsamlingen viste at det ikke finnes data for europeisk hummer. Vi er 
+derfor nødt til å basere vurderingene på økotoksikologisk informasjon fra andre krepsdyr, da 
+det som sagt er utenfor prosjektets rammer å gjennomføre egne eksperiment på europeisk 
+hummer. Vi bruker derfor data for amerikansk hummer for NEC-kalkulering/ƍLC50. 
+Økotoksikologiske data kan variere mye avhengig av art, livsstadie, kondisjon og reproduktiv 
+status på dyra, og om forsinkede effekter etter endt eksponering er tatt med eller ikke.   
+NEC er tidsuavhengig. For å inkludere effektstudier (som viser effekt ved konsentrasjon over 
+tid) har vi besluttet å bruke en fersk norsk studie der de relevante kommersielle produktene med 
+virkestoff deltametrin (AlphaMax), azametifos (Salmosan) og hydrogenperoksid (Paramove) 
+er undersøkt på samme laboratorie, med likt eksponeringsregime (2 timers eksponering til 1000 
+ganger fortynnet behandlings konsentrasjon). Et slikt datasett finnes for reke, men ikke for 
+hummer (oss bekjent). Reker blir således brukt som en substitutt for hummer på effektstudier. 
+Laboratorieundersøkelser har vist at hummer og reker har lignende sensitivitet, men generelt er 
+hummer mer sensitiv for bademidler enn reker. Disse studiene var ikke med i evalueringen i 
+Refseth et al. (2016b). I de nye studiene er forsinkede effekter inkludert, og de vil derfor vise 
+høyere sensitivitet enn studiene utført på hummer, der forsinkede effekter ikke er beregnet.  
+NEC-verdier og effektdata for reker sammenlignes med konsentrasjoner i miljøet for å se om 
+det finnes konsentrasjoner i miljøet som er høyere enn NEC (tidsuavhengig) eller høyere enn 
+de konsentrasjonene som i studiet utført av IRIS kunne assosieres med effekt (død, inkludert 
+forsinkede effekter, dvs. effekter etter endt eksponering).  
+Denne tilnærmingen er så langt som mulig brukt for hvert kjemikalie. Kombinasjon av flere 
+stoffer blir ikke modellert, da dette ikke lengre er relevant for Nordlaks Oppdrett AS. Først 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+18 
+www.akvaplan.niva.no 
+ 
+vises kart som sammenligner utvalgte NEC/ƍLC50-verdier for de ulike stoffene med 
+konsentrasjoner i miljøet. Alt som er farget viser områder der grenseverdi kan overskrides og 
+der det dermed kan være risiko for uønskede effekter. Skalaen viser hvor mange timer 
+grenseverdien overskrides. Deretter vises resultater fra effektstudien, altså i hvilke områder vi 
+kan forvente å finne 1/1000 av behandlingskonsentrasjon i 2 timer eller mer (forhold som i 
+laboratoriet er vist å gi økt dødelighet/sub-letale effekter).  
+3.4.1 Sammenligning miljøkonsentrasjoner med NEC 
+Fargede områder på kartet viser områder som har en sannsynlighet for å påvirkes. Et enkelt 
+utslipp vil ikke påvirke alle de fargede områdene, det vil være avhengig av vind og vær (se 
+kapittel 2.4).   
+Deltametrin 
+Behandlingskonsentrasjon for deltametrin (AlphaMax) er: 2 ng/L. 
+Grenseverdi (NEC) for deltametrin (AlphaMax) for hummerlarver stadie III (Homarus 
+americanus): 0,03 ng/l.   
+Grenseverdi (NEC) for deltametrin (AlphaMax) for hummerlarver stadie IV (Homarus 
+americanus): 1 ng/l. 
+Figur 3 viser i hvor lang tid kalkulert NEC-verdi for hummerlarver, stadie III, kan overskrides 
+i ulike områder etter et utslipp fra Grønnstranda.  
+ 
+Figur 3. Område hvor konsentrasjonen av deltametrin kan overskride NEC i miljøet (NEC basert på 
+hummerlarver stadie III) etter et utslipp fra Grønnstranda. Fargeskala viser antall timer med 
+overskridelser.  
+  
+Hydrogenperoksid: 
+Behandlingskonsentrasjon for hydrogenperoksid (Paramove) er: 1600 mg/l.  
+Grenseverdi (NEC): Det finnes ikke tilstrekkelig data for å kalkulere grenseverdi for hummer 
+for hydrogenperoksid. Vi benytter derfor ƍLC50-verdi estimert for hummerlarver stadie I: 163 
+mg/L (basert på 1 times eksponering). Merk at denne verdien er basert på kun en times 
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+observasjon, og forsinkede effekter er ikke tatt med i studien. Forsøk har vist at hummerlarver 
+som overlever behandlingsperioden på 1 time, dør etter at de har blitt flyttet over i rent vann 
+(Ann-Lisbeth Agnalt pers. medd.). Studiene fra Havforskningsinstituttet viste at den akutte 
+dødeligheten på europeisk hummerlarver (stadium I og II; av totalt IV – alle stadiene er 
+pelagisk) er lav etter 1 times eksponering, og er sammenlignbar med akutt dødelighet hos 
+amerikanske hummerlarver (Burridge et al. 2014); som er den verdien vi har tatt utgangspunkt 
+i. Studiene fra Havforskningsinstituttet viser imidlertid en høy dødelighet hos hummerlarvene 
+i observasjonsperioden på 72 timer etter endt behandling på en time. Område for mulig 
+påvirkning basert på ƍLC50-verdien vi har brukt her, vil derfor gi en underestimering av effekt, 
+da den ikke tar høyde for forsinkede effekter (Figur 4). Nye LC50-verdier for hummerlarver vil 
+snart være tilgjengelig (Ann-Lisbeth Agnalt, Havforskningsinstituttet, pers. medd).   
+ 
+Figur 4. Områder der hydrogenperoksidkonsentrasjoner i miljøet kan overskride ƍLC50 (kalkulert for 
+hummerlarver) etter et utslipp fra Grønnstranda. Fargeskala viser antall timer med overskridelser. 
+Merk at risiko her er underestimert da forsinkede effekter på hummerlarver eksponert for 
+hydrogenperoksid er dokumentert, men ikke inkludert. 
+ 
+Cypermetrin 
+Den anbefalte behandlingsdosen for cypermetrin er 15 µg/L.  
+Grenseverdi (NEC) for cypermethrin for voksen hummer: 1,6 μg/l. 
+Andre relevante studier: Estimat av akutt LC50 for cypermetrin for ulike stadier av hummer. 
+Tall fra Burridge og Van Geest (2014).  
+LC50 hummerlarver stadie II-eksponert 5 minutter: 0,66-1,69 µg/L. 
+LC50 hummerlarver stadie II-eksponert 12 timer: 0,058-0,365 µg/L. 
+LC50 hummerlarver stadie II-eksponert 24 timer: 0,14 µg/L. 
+ 
+Figur 5 og Figur 6 viser områder hvor modellen viser at konsentrasjonen av cypermetrin kan 
+overskride henholdsvis NEC for voksen hummer og ƍLC50 for hummerlarver stadie II etter et 
+utslipp fra Grønnstranda. 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+20 
+www.akvaplan.niva.no 
+ 
+ 
+Figur 5. Område der konsentrasjonen av cypermetrin kan overskride NEC i miljøet etter et utslipp fra 
+Grønnstranda (NEC basert på voksen hummer). Fargeskala viser antall timer med overskridelser. 
+ 
+ 
+Figur 6. Område der konsentrasjonen av cypermetrin kan overskride ƍLC50 (kalkulert for 
+hummerlarver stadie II) i miljøet etter et utslipp fra Grønnstranda. Fargeskala viser antall timer med 
+overskridelser.  
+ 
+ 
+Azametifos: 
+Behandlingskonsentrasjon: Azametifos brukes som bademiddel i en konsentrasjon på 100 
+µg/l.   
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+Det finnes ikke tilstrekkelig data for å kalkulere grenseverdi for hummer for azametifos. 
+ƍLC50-verdi estimert for hummerlarver: 0,05 µg/L. 
+ 
+Figur 7 viser området hvor modellen viser at konsentrasjoner av azametifos kan overskride 
+denne estimerte ƍLC50-verdi for hummerlarver ved et utslipp fra Grønnstranda.  
+ 
+Figur 7. Område der konsentrasjonen av azametifos i miljøet kan overskride ƍLC50 (kalkulert for 
+hummerlarver) etter et utslipp fra Grønnstranda. Fargeskala viser antall timer med overskridelser.  
+3.4.2 Sammenligning miljøkonsentrasjoner med effektstudie  
+I studien fra Beckmann (2017) ble reker eksponert til lave konsentrasjoner (1/1000 fortynnet 
+behandlingskonsentrasjoner) over en kort tidsperiode (puls på 2 timer). Denne studien er høyst 
+relevant da den ser på lave konsentrasjoners over kort tid, dvs. en eksponering som anses som 
+relevant i akvakultursammenheng. Beckmann (2017) viste at eksponering til 1/1000 av 
+behandlingsdosen i to timer førte til økt dødelighet for rekelarver (og voksne ved 
+hydrogenperoksid), både for deltametrin, cypermetrin, og hydrogenperoksid. For azametifos 
+ble det observert sub-letale effekter. Ingen dødelighet ble observert i kontroll eller ved 10 000 
+ganger fortynnet behandlings-konsentrasjon (Beckmann 2017).  
+Fargede områder på kartene under viser områder som har en sannsynlighet for å påvirkes. Et 
+enkelt utslipp vil ikke påvirke alle de fargede områdene, det vil være avhengig av vind og vær 
+(se kapittel 2.4).  For å synliggjøre områder hvor effekter kan oppstå (sub-letale og økt 
+dødelighet) presenteres et kart over områder hvor konsentrasjoner > 1000 ganger 
+utgangskonsentrasjon kan oppstå (Figur 8). For et sporstoff som spres passivt med vannet vil 
+området for med konsentrasjoner over en viss fortynning være uavhengig av 
+utgangskonsentrasjonen. Fordi nedbrytningsraten av de aktuelle stoffene i dette arbeidet er 
+ubetydelig i forhold til blanding, så kan alle lusemidlene behandles likt. Kartet som viser 
+utbredelsen av behandlingskonsentrasjon ved tusen ganger fortynning gjelder derfor for alle 
+stoffene uavhengig av utgangskonsentrasjon (absolutt konsentrasjon vil imidlertid selvfølgelig 
+være avhengig av utgangskonsentrasjon).    
+Figur 8 viser  områder der vi kan forvente økt dødelighet etter eksponering til en enkelt 
+behandlingsdose av hydrogenperoksid, deltametrin, eller cypermetrin. Dette gjelder for de 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+22 
+www.akvaplan.niva.no 
+ 
+områdene som er eksponert i to timer eller mer, dvs i de mørkeblå områdene der eksponeringen 
+er mindre enn to timer, vet vi ikke om dødelighet vil oppstå. Effektstudien viser økt dødelighet 
+ved eksponering til en to timers puls med 1000 ganger fortynnet utgangskonsentrasjon. Vi har 
+ikke data for eksponering under to timer. Kartet viser at det vil være områder som kan 
+eksponeres i mer enn to timer, i over 30 timer i nærheten av anlegget.  
+For azametifos viser kartet områder der vi forventer sub-letale effekter, da ingen økt dødelighet 
+ble observert for reker (voksne og larver) ved 1000 gangers fortynning.  Dette indikerer relativ 
+lav toksisitet for azametifos for voksne reker (ved korttidseksponering til lave doser), men sub-
+letale effekter på larver eksponert til 1000 ganger fortynnet konsentrasjon ble observert 
+(Beckmann 2017). Eksponering til lave konsentrasjoner av azametifos i mer enn to timer kan 
+føre til økte effekter, men dette vil ikke alltid være tilfelle. Kartet viser at det vil være områder 
+som kan eksponeres i mer enn to timer, i over 30 timer i nærheten av anlegget. 
+ 
+Figur 8. Antall timer med konsentrasjoner over 1000 ganger fortynnet behandlings-konsentrasjon. 
+Fargede områder viser områder som assosieres med økt dødelighet for larver ved eksponering for 
+både deltametrin og hydrogenperoksid. For azametifos er dette områder som gir sub-letale effekter. 
+Fargeskala viser antall timer med overskridelser. Effekt gjelder for alle stoffer ved to timers 
+eksponering eller mer.  
+ 
+Figur 9 viser sannsynligheten for eksponering til opp til 1/1000 av behandlings konsentrasjon, 
+dvs. sannsynlighet for effekt (økt dødelighet), i de ulike områdene etter to timers eksponering. 
+Dette gjelder for hydrogenperoskid og deltametrin. For azametifos viser det områder med 
+sannsynlighet for sub-letale effekter etter to timers eksponering.  
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+ 
+Figur 9. Sannsynlighet for 2 timer med konsentrasjoner over 1000 ganger fortynning.  
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+24 
+www.akvaplan.niva.no 
+ 
+4 Sammenfattende diskusjon  
+4.1 Generelt om metodikk 
+Mange studier dokumenterer at lusemidler er toksisk for krepsdyr, også i lave konsentrasjoner 
+og ved korttidseksponering. Det finnes imidlertid få undersøkelser av effekter på non-target 
+organismer i felt. Dette medfører at risikovurderinger i dag i stor grad må baseres på resultater 
+fra økotoksikologiske laboratorieeksperimenter og modellering. Dette er for øvrig en velprøvd 
+og anerkjent metodikk, som pekes ut som en anbefalt metode for miljørisikovurdering i EC 
+(2003).  
+Feltundersøkelser er krevende, og kan være vanskelig å avkrefte/bekrefte sammenhenger. I 
+Norge har det blitt observert død hummer dagen etter avlusning med deltametrin og azametifos, 
+og det har blitt innmeldt flere tilfeller av massedød av krepsdyr som sammenfaller med at det 
+har blitt brukt lusemidler kort tid i forkant av observasjonene (Fiskarlaget pers med.). 
+Sammenheng er pr. i dag ikke bekreftet gjennom vitenskapelige studier.  
+Laboratorieeksperimenter viser at deltametrin er betydelig mer toksisk for non-target 
+organismer enn azametifos, og av de studerte artene er det vist at larver av amerikansk hummer 
+er spesielt sensitive.  Et pågående studie på reker som gjennomføres av Akvaplan-niva med 
+hydrogenperoksid, azametifos, og deltametrin viser at eksponering til lave konsentrasjoner av 
+deltametrin (1/500) av 150 % dose førte til svært høy dødelighet etter en puls på 2 timer. 
+Havforskningsinstituttet skriver at løsningen som slippes ut må fortynnes mer for å miste 
+effekten (høyere fortynningsfaktorer) sammenlignet med en løsning med azametiphos 
+(Havforskningsintituttet 2018). 
+Akutte toksisitets tester er ofte utgangpunkt for risikovurderinger. Når akutte toksisitets tester 
+gjennomføres, er det ikke alltid at forsinkede effekter tas med i beregningene, og man ender da 
+opp med en underestimering av effekt (høyere LC50-verdi en reelt). En studie fra Macken et al. 
+(2015) viste at standard toksisitets-testing med kopepoder viste liten akutt dødelighet på mg/L 
+nivå for flubenzuroner, mens nye tester viste at relevante miljøkonsentrasjoner (nanogram per 
+liter) førte til død på et senere tidspunkt. Slike effekter fanges normalt ikke opp ved klassisk 
+akutte toksisitets-tester som innebærer korttidseksponering i laboratoriet (f.eks. 1, 24 eller 96 
+timers eksponering). Nyere studier viser at det er viktig å ta i betraktning sub-letale og 
+forsinkede effekter når risiko skal vurderes basert på standard akutte toksisitets-tester. 
+Resultater fra et prosjekt på hummerlarver og hydrogenperoksid viser at hummerlarver viser 
+forsinket effekt, dvs. at de hummerlarvene som overlever til slutten av eksperimentet dør etter 
+at de er overflyttet til rent vann (resultater fra Havforskningsinstituttet). LC50-verdiene fra 
+denne studien (som vil inkludere forsinkede effekter) er imidlertid ikke klare. I våre 
+kalkuleringer har vi brukt LC50-verdier for et studie der hummerlaver ble eksponert i en time, 
+og forsinkede effekter ble ikke inkludert i denne studien. Dette fører til en underestimering av 
+risiko.  
+Det er vist at lave konsentrasjoner av hydrogenperoksid (1 mg/L) under visse omstendigheter 
+kan bli værende i 10 timer eller mer ute i miljøet (Drivdal pers med.). Det er derfor viktig å 
+undersøke også hva eksponering til lave konsentrasjoner over lengre tid kan føre til. Brokke 
+(2015) viste at strandreke og tangmyside overlevde og virket upåvirket etter eksponering for 
+hydrogenperoksid i en time, men resultatene viste også at eksponering til lave doser 
+hydrogenperoksid over en lengre periode kan påvirke artene. Hun konkluderte med at det for 
+hydrogenperoksid er viktig å ikke bare teste for korttidseksponering, men også for en lengre 
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+tidsperiode til lave konsentrasjoner. Eksponering i tolv timer til lave hydrogenperoksid 
+konsentrasjoner førte til økt dødelighet på strandreke og tangmysid (Brokke 2015). Få timers 
+eksponering for tusen ganger fortynnet behandlingsløsning av hydrogenperoksid (1,6 mg/L) 
+førte til økt dødelighet av voksne reker. Andre studier med lengre eksponeringstid har vist at 
+LC50-verdier for lusemidler nødvendigvis ikke er avhengig av hvor lenge dyrene eksponeres. 
+For eksempel har Burridge og Van Geest (2014) gjennomført forsøk med deltametrin ved 
+eksponeringstid som ansees relevant i akvakultursammenheng (1 til 24 timers eksponering og 
+deretter rent vann). Kort oppsummert viste resultatene at LC50-verdi for voksen hummer etter 
+10 dagers eksponering var i samme størrelsesorden som LC50-verdiene for 1 og 24 timers 
+eksponering. Forfatterne indikerer derfor at deltametrin virker raskt ved lave konsentrasjoner, 
+og at effekter kan vedvare over tid (Burridge og Van Geest, 2014). I Refseth et al. (2016 b) ble 
+det vist at hydrogenperoksid virker raskt på enkelte dyrearter (krepsdyr), mens andre brukte 
+lengre tid til å respondere (dødelighet).   
+I felt vil det også variere hvor lang tid et kjemikalie vil befinne seg i miljøet. For eksempel, er 
+det vist at hydrogenperoksid fortynnes raskt ved en strømsterk lokalitet, men at det fortynnes 
+langsommere om utslippet gjøres fra en strømsvak lokalitet (Refseth et al. 2016b). Studier utført 
+med lengre tids eksponering kan derfor også være relevant i akvakultursammenheng.  
+4.2 Risikovurdering for utslipp fra Grønnstranda 
+Når modellerte konsentrasjoner av lusemidler i miljøet sammenlignes med antatt viktige 
+områder for hummer i Tysfjord er det tydelig at potensielt skadelige konsentrasjoner kan oppstå 
+ved Grønnstranda og i områdene rundt.  
+Modellresultatene, som predikerer konsentrasjoner av de ulike kjemikaliene i miljøet, indikerer 
+at konsentrasjoner som overskrider NEC-verdier (alternativt ƍLC50-verdi) (tidsuavhengig) 
+og/eller konsentrasjoner som over tid er assosiert med effekt vil kunne forekomme i 
+Skrovkjosen. Grunne områder antas som viktig for hummeren, da man tror at hummer befinner 
+seg på ca. 40-17 m dyp om vinteren, og trekker mot grunnere vann (0-20 m) på forsommeren. 
+I Tysfjord er hummer observert gående på havbunnen på dybder mellom 2 og 10 meter 
+(Havforskningsinstituttet 2009). Skrovkjosen har store områder grunnere enn 150 m, og er kjent 
+for å ha gode hummerplasser. Kartene (Figur 3-9) viser at det vil kunne oppstå konsentrasjoner 
+i miljøet som assosieres med dødelighet/sub-letale effekter for både voksen hummer og 
+hummerlarver i Skrovkjosen. Voksne individ vil generelt være mer robust enn hummerlarver, 
+noe som fremkommer ved sammenligning av Figur 5 og Figur 6. Om tidlige livsstadier blir 
+påvirket kan dette få konsekvenser for rekruttering til den voksen bestanden. Kartene viser også 
+at skadelige konsentrasjoner kan nå vannet rundt Bekkenesholmen. Bekkenesholmen regnes 
+som Norges første naturreservat. Det er imidlertid lite sannsynlig at de andre viktige hummer-
+områdene lengre unna Skrovkjosen og Grønnstranda påvirkes etter et enkelt utslipp fra 
+Grønnstranda.  
+I Refseth et al. (2016a) ble det konkludert med at det knyttes mindre bekymring til voksen 
+hummer (som lever på bunnen), sammenlignet med larvene som lever i vannfasen. Årsaken til 
+dette er lavere sensitivitet hos voksne individer, samt en antagelse om lavere eksponering for 
+bunnlevende voksne sammenlignet med pelagiske larvestadier. Ny informasjon viser imidlertid 
+at selv om hydrogenperoksid i hovedsak spres i de øvre deler av vannsøylen, så vil det synke 
+til bunnen ved gitte betingelser (Refseth et al. 2016b). Synking vil være avhengig av årstid, og 
+det er størst sannsynlighet for synking på vinteren. Hummer kan foreta vandringer fra dypet og 
+opp til grunt vann på relativt kort tid, og kan derfor under gitte forhold bli eksponert på bunnen. 
+Om voksen hummer befinner seg i fargede områder på kartet, kan den under gitte forhold bli 
+eksponert til skadelige konsentrasjoner.  
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+26 
+www.akvaplan.niva.no 
+ 
+Hummerlarver befinner seg i vannfasen og driver med strømmen før de bunnslår. Utformingen 
+av Tysfjord gjør at hummerlarvene sannsynligvis holdes i fjordbassenget i hele den pelagiske 
+fasen (Hansen 2005). Dette, i kombinasjon med at hummerlarver er meget sensitive overfor 
+lusemidler, gjør at en avlusning i tidsintervallet der man kan forvente å finne hummerlarver kan 
+være uheldig. Det finnes lite informasjon om økologien til hummerlarver i Tysfjord, men en 
+studie rapporterer om at det kan være hummerlarver her i perioden juni-august. Vi har også fått 
+opplysninger om at klekking foregår i juli-august, og larvestadiet varer 2-6 uker, avhengig av 
+temperaturen (Ann-Lisbeth Agnalt, Havforskningsinstituttet, pers. medd.). I perioden juni/juli-
+september mener vi derfor at avlusning med bruk av kjemikalier bør unngås, gitt hummerlavens 
+sensitivitet.  
+Hunnhummer har også vist seg å være mer sårbar for lusemidler (azametifos) på sommeren 
+sammenlignet med resten av året (Burridge et al. 2005). Parring foregår på sommeren, rett etter 
+hunnens skallskifte, og hunner kan på dette tidspunktet være mer utsatte enn hanner. Avlusning 
+om sommeren vil kunne være uheldig med tanke på hummerens reproduksjon og kan virke mot 
+en målsetning om å øke rekruttering for å bevare hummerstammen.  
+I dette prosjektet brukes resultater både fra økotoksmodelleringer og oseanografiske 
+modelleringer til risikovurdering. Det er viktig å være klar over at modelleringene utgjør 
+forenklede resultater i forhold til den virkelige verden, og at det vil være stor variasjon i 
+økotoksikologiske resultater, avhengig av en rekke faktorer (hvordan data har blitt fremskaffet, 
+tid på året, reproduktiv status, livsstadie, fettreserver i dyr osv.). Andre utfall enn det som er 
+modellert kan derfor være det reelle utfallet.   
+ 
+ 
+ 
+ 
+ 
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+5 Konklusjon 
+Generelt viser våre analyser at det etter utslipp av lusemidler fra Grønnstranda høyst sannsynlig 
+kan forekomme konsentrasjoner i miljøet som overskrider NEC (alternativt ƍLC50-verdi) for 
+hummer og/eller konsentrasjoner som vil gi økt dødelighet ved korttidseksponering til lave 
+doser (2 timers eksponering til 1/1000 av behandlings konsentrasjon). Skadelig konsentrasjoner 
+kan oppstå ved Skrovkjosen som er kjent for å ha viktige hummerplasser. Et utslipp fra 
+lokaliteten Grønnstranda vil derfor ifølge våre beregninger kunne påvirke hummer i området 
+Skrovkjosen. Dette gjelder for alle lusemidlene som har inngått i prosjektet (cypermethrin, 
+deltametrin, hydrogenperoksid og azametifos). I andre antatt viktige hummer-områder i større 
+avstand fra Grønnstranda er risiko for skade lav.  
+Tysfjord har en egen hummerstamme som skiller seg genetisk fra andre hummerarter i Norge.  
+Hummerbestandene i Norge er på et historisk lavmål.  Laboratorietester har vist at krepsdyr er 
+svært følsomme for flere av kjemikaliene brukt som medisinfôr og i badebehandlinger mot 
+lakselus. Hummer er rapportert som den mest sensitive arten overfor samtlige lusemidler som 
+brukes som bademidler. Laboratoriestudier viser at hummer kan bli påvirket ved lave 
+konsentrasjoner, også ved korttidseksponering. Noen kjemikalier brukt som medisin mot 
+lakselus er giftige i så lave konsentrasjoner at de ikke kan måles i krepsdyr som beviselig har 
+blitt drept av kjemikaliene. Det er pr. i dag ikke utviklet sensitive nok analysemetoder for å 
+kunne detektere lusemidler i så lave konsentrasjoner i dyrene. Grunnet hummerens sensitivitet 
+til lusemidler, i kombinasjon med at Tysfjord har en egen hummerbestand, samt at 
+hummerbestandene i Norge er på et historisk lavmål, mener vi det bør vises stor varsomhet ved 
+bruk av lusemidler i Tysfjord. Andre ikke-medikamentelle metoder bør vurderes om mulig.  
+Larver er spesielt sensitive og de driver med havstrømmen, og kan derfor befinne seg på mange 
+steder i Tysfjord-bassenget i sommersesongen (juni/juli-september). Hunnhummer er også 
+ekstra sårbar i sommerhalvåret. Avlusning med bruk av kjemikalier i denne perioden kan være 
+ekstra uheldig, og bør unngås.  
+Basert på resultat fra våre analyser, som viser at det i forbindelse med kjemisk avlusning kan 
+oppstå konsentrasjoner i miljøet som assosieres med risiko for økt dødelighet, samt 
+informasjon henter fra litteraturen foreslår vi følgende: 
+Deltametrin har høy toksisitet til krepsdyr, og hummerlarver har vist seg å være spesielt 
+sensitive. Pyrethroider (deltametrin og cypermetrin) er blant de mest toksiske insekticider som 
+finnes (Smith og Stratton 1986). Pyretroider er ikke lenger i bruk i Canada pga. hummerens 
+sensitivitet. Grunnet hummerens høye sensitivitet, samt at det kan oppstå konsentrasjoner på 
+kjente hummerplasser som assosieres med effekt, mener vi at pyretroider generelt ikke bør 
+brukes i Tysfjord.  
+Deltametrin brytes sakte ned i sediment. Hydrogenperoksid brytes ned til oksygen og vann, og 
+har rundt en ukes halveringstid i sjøvann (varierer noe avhengig av fysiske faktorer). 
+Azametifos har lignende halveringstid som hydrogenperoksid (rundt en ukes halveringstid i 
+sjøvann). Under de samme forhold (korttidseksponering til 1000 ganger fortynnet behandlings 
+konsentrasjon) viste azametifos seg å ha betydelig lavere effekt enn deltametrin og 
+hydrogenperoksid.  
+Basert på dette er det generelt mest bekymring tilknyttet deltametrin, etterfulgt av 
+hydrogenperoksid og azametifos. Avlusning på sommeren bør unngås (juni/juli til september) 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+28 
+www.akvaplan.niva.no 
+ 
+på grunn av tilstedeværelse av sensitive hummerlarver.  Økt dødelighet hos hummerlarver kan 
+påvirke rekrutteringen.  
+Konklusjonen fra vår studie (under gitte forhold og forutsetninger) er at det etter et utslipp av 
+både hydrogenperoksid, deltametrin og cypermetrin (enkelt utslipp av et stoff om gangen, både 
+av en enkel behandlingsdose og etter dobbel dose) kan oppstå konsentrasjoner i miljøet som 
+assosieres med effekt på hummer (sub-letale effekter og økt dødelighet) i områdene 
+Grønnstranda/Skrovkjosen. Skrovkjosen er definert som et viktig hummer område. Det er ifølge 
+våre beregninger ikke risiko for effekt på de andre kjente hummerområder spesifisert i Hansen 
+(2005), etter utslipp av lusemidler fra Grønnstranda.   
+Vi gjør oppmerksom på et dette er resultat beregnet ut ifra utslipp fra kun et anlegg og utslipp 
+fra kun halve anlegget. Det er utenfor prosjektets tidsmessige og økonomiske rammer å studere 
+total belastning for et område, og ta høyde for at et område kan treffes av flere pulser med ulike 
+kjemikalier. Det er også utenfor prosjektets rammer å si noe om omfang (hvor stor del av 
+hummerbestanden som potensielt påvirkes) etter et utslipp. Til det kreves bestandsmodellering, 
+og det er ikke en del av våre analyser.  
+  
+ 
+ 
+ 
+ 
+ 
+Miljørisikovurdering ved utslipp av lusemidler – Hummer i Tysfjord  
+Akvaplan-niva AS Rapport 9276-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29 
+6 Referanser  
+Agnalt A.-L., Farestveit E., Gundersen K., Jørstad K.E. og Kristiansen T.S. 2009. Population 
+characteristics of the world's northernmost stocks og European lobster (Homarus gammarus) in Tysfjord 
+and Nordfolda, northern Norway. New Zealand Journal and Marine and Freshwater Research, Vol. 43: 
+47-57. 
+Bechmann, R. K., Arnberg, M., Westerlund, S., Lyng, E., Berry, M., Bamber, S., Gomiero, A., Keitel-
+Gröner, F., Agustsson, T., Kringstad, A., Rundberget, J. T., Seear, P., Burridge, L. Upubliserte resultater 
+fra en serie forsøk med Pandalus borealis utført i Marinforsk-projektet PestPuls, EU-prosjektet 
+ECOAST og et prosjekt finansiert av Solvay, våren 2017. Resultatene ble presentert av Bechmann på 
+workshopen. 
+Brokke, K. E. 2015. Mortality caused by de-licing agents on the non-target organisms chameleon shrimp 
+(Praunus flexuosus) and grass prawns (Palaemon elegans). MSc thesis. MSc, University of Bergen. 
+Bruggeman J. og Bolding K. 2014. A general framework for aquatic biogeochemical models- 
+Environmental Modelling and Software 61:249-265. 
+Burridge L.E., Haya K., Page F.H., Waddy, S.L., Zitko, V., and Wade, J. 2000. The lethality of the 
+cypermethrin formulation Excis® to larval and post-larval stages of the American lobster (Homarus 
+americanus). Aquaculture. 182: 37-47. 
+Burridge, L.E., Haya, K., and Waddy, S.L. 2005. Seasonal lethality of the organophosphate 
+pesticide,azamethiphos to female American lobster (Homarus americanus). Ecotoxicol. Environ. Saf. 
+60: 277-281. 
+Burridge, L., J.S. Weis, F. Cabello, J. Pizarro, K. Bostick 2010. Chemical use in salmon aquaculture: A 
+review of current practices and possible environmental effects. Aquaculture 306: 7-23. 
+Burridge L.E., and J.L. Van Geest. 2014. A review of potential environmental risks associated with the use of 
+pesticides to treat Atlantic salmon against infestations of sea lice in Canada. DFO Can. Sci. Advis. Sec. 
+Res. Doc. 2014/002. vi +39 p. 
+Carroll, J., and Smit, M. 2011. An integrated modeling framework for decision support in ecosystem-
+based management: case study Lofoten/Barents Sea." Society of Petroleum Engineers (SPE 
+International). http://dx.doi.org/10.2118/140431-MS 
+Chen et al. 2003. An Unstructured Grid, Finite-Volume, Three-Dimensional, Primitive Equations Ocean 
+Model: Application to Coastal Ocean and Estuaries. American Meteorological Society.159-186.  
+Nodland, E.  Artikkel skrevet på bakgrunn av informasjon fra HI, data fra Samuelsen et al. ilaks, 2. 
+januar 2017. Dødelig dose med lusemidler kunne ikke spores hos krepsdyr. http://ilaks.no/dodelig-dose-
+med-lusemidler-kunne-ikke-spores-hos-krepsdyr/ 
+Ernst, W., Jackman, P., Doe, K., Page, F., Julien, G., Mackay, K., Sutherland, T. 2001. Dispersion and 
+toxicity to non-target aquatic organisms of pesticides used to treat sea lice on salmon in net pen 
+enclosures. Mar Poll. Bull 42:433-444. 
+European Commission (EC) 2003. Technical Guidance Document on Risk Assessment in support of 
+Commission Directive 93/67/EEC on risk assessment for new notified substances commission 
+regulation (EC) no 1488/94 on risk assessment for existing substances directive 98/8/EC of the European 
+parliament and of the council concerning the placing of biocidal products on the market. Technical report 
+EUR 20418 EN/2, European commission joint research centre, Ispra, Italy. 
+Escobar, L. 2016. The effects of an anti-sea lice chemotherapeutant, hydrogen peroxide, on mortality, 
+escape response and oxygen consumption of Calanus spp. Master thesis. Universite Pierre et Marie 
+Curie and the Institute of Marine Research, Norway. 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+30 
+www.akvaplan.niva.no 
+ 
+Hansen B. I. 2005. Hummeren i Tysfjord-undersøkelse av Tysfjordens egnethet med tanke på havbeite 
+og oppdrett av verdens nordligste hummer. Nordlandsforskning (NF) rapport nr. 8. 2005. 
+Havforskningsinstituttet. 2016. Risikovurdering norsk fiskeoppdrett 2016. Fisken og havet, særnummer 
+2-2016. 
+Jager T., Albert C., Preuss T.G. og Ashauer R. 2011. General unified threshold model of survival-a 
+toxicokinetic-toxicodynamic framework for ecotoxicology. Environ. Sci. Technol. 2011. 45: 2529-40. 
+Johnsen S., Frost T.K., Hjelsvold M. og Utvik T.I.R. 2000. The environmental impact factor – a 
+proposed tool for produced water impact reduction, management, and regulation. SPE paper no. 61178, 
+Stavanger 2000. 
+Kleiven, A.R., E. Moland, T. K. Sørdalen, S.H. Espeland og G.I. van der Meeren 2017. Evaluering av 
+effekten av forvaltningstiltak på hummer og forslag til tiltak (www.imr.no ISSN 1893-4536 (online)). 
+Rapport fra Havforskningen. Nr. 15 2017.  
+Kooijman S.A.L.M. 1987. A safety factor for LC50 values allowing for differences in sensitivity among 
+species. Water Research 21, 269e276. 
+Langford, K.H., Øxenvad, S., Schøyen, M., Thomas, K.V., 2014. Do antiparasitic medicines used in 
+aquaculture pose a risk to the Norwegian aquatic environment? Environ. Sci. Technol. 48, 7774–7780. 
+Macken, A., Lillicrap, A., Langford, K., 2015. Benzoylurea pesticides used as veterinary medicines in 
+aquaculture: risks and developmental effects on non-target crustaceans. Environ. Toxicol. Chem. 
+http://dx.doi.org/10.1002/etc.2920.  
+Refseth, G. H., Nøst, O. A., Augustine, S., Sæther, K. 2016 a.  Risikovurdering ved bruk av lusemidler 
+- hummer i Tysfjord.  Akvaplan-niva AS Rapport: 8179 
+Refseth, G. H., Sæther, K., Drivdal, M., Nøst, O. A., Augustine, S., Camus, L., Tassara, L., Agnalt, A.-
+L., Samuelsen, O. B. 2016b. Miljørisiko ved bruk av hydrogenperoksid. Økotoksikologisk vurdering og 
+grenseverdi for effekt. Akvaplan-niva AS Rapport: 8200 – 1. 56 sider. 
+Remen, M. & Sæther, K 2018. Medikamentbruk for kontroll av lakselus. Sluttrapport for FHF prosjekt 
+nr. 901463 (www.fhf.no).  
+Samuelsen, O.B., Lunestad, B.T., Farestveit, E., Grefsrud, E.S., Hannisdal, R., Holmelid, B., Tjensvoll, 
+T., Agnalt, A., 2014. Mortality and deformities in European lobster (Homarus gammarus) juveniles 
+exposed to the anti-parasitic drug teflubenzuron. Aquatic toxicology 149: 8-15. 
+Smith, T.M. and G.W. Stratton. 1986. Effects of synthetic pyrethroid insecticides on nontarget 
+organisms. Res. Rev. 97:93-120.

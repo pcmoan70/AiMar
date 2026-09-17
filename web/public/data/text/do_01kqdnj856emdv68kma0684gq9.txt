@@ -1,0 +1,3360 @@
+﻿Lofoten Sjøprodukter as 
+C-undersøkelse  
+Helligvær Øst, april 2017. 
+Forundersøkelse. 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS Rapport: 8770.03 
+ 
+Akvaplan-niva AS  
+Rådgivning og forskning innen miljø og akvakultur 
+Org.nr: NO 937 375 158 MVA 
+Framsenteret 
+9296 Tromsø 
+Tlf: 77 75 03 00, Fax: 77 75 03 01 
+www.akvaplan.niva.no 
+ 
+Rapporttittel / Report title 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, april 2017. 
+Forundersøkelse.  
+Forfatter(e) / Author(s) 
+Roger Velvin 
+Jonny Nikolaisen 
+Akvaplan-niva rapport nr / report no 
+8770.03 
+Dato / Date 
+29.06.2017 
+Antall sider / No. of pages 
+14 + vedlegg 
+Distribusjon / Distribution 
+Gjennom oppdragsgiver 
+Oppdragsgiver / Client 
+Lofoten Sjøprodukter as,  
+Mortsundveien 379, 8370 Leknes 
+Oppdragsg. referanse / Client’s reference 
+Boy Asle Markussen  
+Sammendrag / Summary 
+Det ble ikke påvist belastningseffekter i bløtbunnsamfunnene ved den planlagte anleggslokaliseringen til Helligvær Øst. 
+Oksygenmetningen var god i hele vannsøylen i april 2017. TOC-nivåene var generelt lave og lå i tilstandsklasse I på C1 
+og klasse II på de to andre stasjonene der det var mulig å samle inn sedimentprøver. Nivået av Cu var lavt på stasjon C1 
+og lå i klasse I. 
+Prosjektleder / Project manager 
+Kvalitetskontroll / Quality control 
+ 
+Jonny Nikolaisen 
+Hans-Petter Mannvik 
+© 2017 Akvaplan-niva AS. Rapporten kan kun kopieres i sin helhet. Kopiering av deler av 
+rapporten (tekstutsnitt, figurer, tabeller, konklusjoner, osv.) eller gjengivelse på annen måte, er 
+kun tillatt etter skriftlig samtykke fra Akvaplan-niva AS. 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, april 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+1 
+INNHOLDSFORTEGNELSE 
+FORORD .................................................................................................................................... 2 
+1 OPPSUMMERINGSTABELL ................................................................................................ 3 
+2 INNLEDNING ........................................................................................................................ 4 
+2.1 Bakgrunn og formål .......................................................................................................... 4 
+2.2 Drift .................................................................................................................................. 4 
+2.3 Tidligere undersøkelser .................................................................................................... 4 
+3 MATERIALE OG METODE .................................................................................................. 5 
+3.1 Faglig program ................................................................................................................. 5 
+3.2 Resipientbeskrivelse og stasjonsplassering ...................................................................... 5 
+3.3 Hydrografi og oksygen ..................................................................................................... 6 
+3.4 Geokjemiske analyser ....................................................................................................... 6 
+3.4.1 Feltinnsamlinger ........................................................................................................ 6 
+3.4.2 Total organisk materiale (TOM)................................................................................ 6 
+3.4.3 Total nitrogen (TN) - Kjeldahl nitrogenbestemmelse ............................................... 7 
+3.4.4 Total organisk karbon (TOC) og kornfordeling ........................................................ 7 
+3.4.5 Metallanalyse - Kobber (Cu) ..................................................................................... 7 
+3.4.6 Redoks- og pH målinger ............................................................................................ 7 
+3.5 Bunndyr ............................................................................................................................ 7 
+3.5.1 Om organisk påvirkning av bunndyrsamfunn ........................................................... 7 
+3.5.2 Innsamling og fiksering ............................................................................................. 8 
+3.5.3 Kvantitative bunndyranalyser .................................................................................... 8 
+4 RESULTATER ........................................................................................................................ 9 
+4.1 Hydrografiske registreringer............................................................................................. 9 
+4.2 Geokjemiske analyser ....................................................................................................... 9 
+4.2.1 TOM, TOC, TN, C/N, kornfordeling og pH/Eh ........................................................ 9 
+4.2.2 Kobber i sediment, C1 ............................................................................................. 10 
+4.3 Bunndyr .......................................................................................................................... 10 
+4.3.1 Kvantitative bunndyrsanalyser ................................................................................ 10 
+5 SAMMENFATTENDE VURDERINGER ........................................................................... 13 
+5.1 Sammenfatning ............................................................................................................... 13 
+5.2 Konklusjon ..................................................................................................................... 13 
+6 REFERANSER ...................................................................................................................... 14 
+7 VEDLEGG ............................................................................................................................ 15 
+Vedlegg 1 Bunndyrsstatistikk og artslister ........................................................................... 15 
+Vedlegg 2. Analysebeviser ................................................................................................... 28 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+2 
+www.akvaplan.niva.no 
+Forord 
+Akvaplan-niva har gjennomført en miljøundersøkelse type C som en del av en forundersøkelse 
+som forberedelse til søknad om den nye lokaliteten Helligvær Øst. Oppdragsgiver har vært 
+Lofoten Sjøprodukter. Undersøkelsen inngår i selskapets miljøovervåking av bunnpåvirkningen 
+fra lokaliteten, og vil være en referanse for sammenligning ved senere undersøkelser på 
+lokaliteten. 
+Følgende personer har deltatt: 
+Jonny Nikolaisen 
+Akvaplan-niva 
+Prosjektleder. Feltarbeid. Rapport. 
+Roger Velvin 
+Akvaplan-niva 
+Rapport, faglige vurderinger og fortolkninger. 
+Hans-Petter Mannvik 
+Akvaplan-niva 
+Identifisering bunndyr (pigghuder). KS rapport, faglige 
+vurderinger og fortolkninger. 
+Rune Palerud 
+Akvaplan-niva 
+Identifisering bunndyr (krepsdyr). Statistikk. 
+Jesper Hansen 
+Akvaplan-niva 
+Identifisering bunndyr (bløtdyr). 
+Andrei Sikorski 
+Akvaplan-niva 
+Identifisering bunndyr (børstemark). 
+Thomas Hansen 
+Akvaplan-niva 
+Identifisering bunndyr (varia). 
+Vera Remen 
+Akvaplan-niva 
+Koordinering bunndyrsortering.  
+Ingar H Wasbotten 
+Akvaplan-niva 
+Koordinering geokjemiske analyser. 
+Thomas Heggem 
+Akvaplan-niva 
+Kart (Olex). Hydrografi (CTDO) 
+ 
+Akvaplan-niva vil takke Lofoten Sjøprodukter og mannskap for samarbeidet med 
+undersøkelsen og feltarbeidet.  
+ 
+Akkreditert virksomhet:  
+Analysene er utført av Akvaplan-niva AS med underleverandøren ALS Laboratory Group, 
+Tsjekkia. 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS er akkreditert av Norsk Akkreditering for analyser av TOM, TOC, 
+TN, kornstørrelse og makrofauna og faglig vurderinger og fortolkninger, 
+akkrediteringsnr. TEST 079.  
+ 
+Akkrediteringen er i hht. NS-EN ISO/IEC 17025. 
+Czech Accreditation Institute 
+(Lab nr 1163) 
+ALS Laboratory Group er akkreditert av Czech Accreditation Institute (Lab nr 1163) 
+for analyser av kobber. 
+ 
+ 
+Tromsø, 29.06.2017 
+ 
+Jonny Nikolaisen 
+Prosjektleder 
+ 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+3 
+1 Oppsummeringstabell 
+Informasjon oppdragsgiver 
+Tittel : 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, april 2017. Forundersøkelse. 
+Rapportnummer (s): 
+APN-8770.03  
+Lokalitetsnavn: 
+Helligvær Øst 
+Lokalitetsnummer: 
+Ikke registrert 
+Kartkoordinater (anlegg): 
+67°25,543 N 
+14°01,215 Ø 
+Fylke: 
+Nordland 
+Kommune: 
+Bodø  
+MTB-tillatelse: 
+0 
+Driftsleder: 
+Ikke oppgitt 
+Oppdragsgiver: 
+Lofoten Sjøprodukter as 
+ 
+Biomasse/produksjonsstatus ved undersøkelsesdato 
+Fiskegruppe: 
+Ingen fisk 
+Biomasse ved 
+undersøkelse: 
+0 
+Utfôret mengde: 
+0 
+Produsert mengde: 
+0 
+Type/tidspunkt for undersøkelse 
+Maks biomasse: 
+ 
+Oppfølgende undersøkelse: 
+ 
+Brakklegging: 
+ 
+Ny lokalitet: 
+X 
+ 
+Resultat fra C undersøkelse /NS 9410 (2016) - Hovedresultat bløtbunnfauna 
+Faunaindeks nEQR (Veileder 02:2013) 
+Økologisk tilstandsklassifisering (Veileder 02:2013) 
+Fauna C1  
+0,834 
+Fauna C1  
+Tilstandsklasse I 
+Fauna C2  
+0,846 
+Fauna C2  
+Tilstandsklasse I 
+Fauna C3 
+0,895 
+Fauna C3 
+Tilstandsklasse I 
+Fauna Ref1 
+0,890 
+Fauna Ref1 
+Tilstandsklasse I 
+Dato feltarbeid: 
+10.03 og 11.04.2017 
+Dato rapport: 
+29.06.2017 
+Merknader til andre resultater (sediment, pH/Eh, oksygen)  
+TOC i klasse I (C1) og II (C3 
+og Ref1). Cu i klasse I på 
+C1. O2 med 100 % metning  
+Ansvarlig feltarbeid: 
+Jonny Nikolaisen 
+Signatur: 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+4 
+www.akvaplan.niva.no 
+2 Innledning 
+2.1 Bakgrunn og formål  
+I forbindelse med at Lofoten Sjøprodukter ønsker å søke om ny lokalitet ved lokalitet Helligvær Øst har 
+de fått gjennomført en forundersøkelse i henhold til NS 9410:2016. Lokaliteten Helligvær Øst er i Bodø 
+Kommune, Nordland fylke (Figur 1).  
+ 
+Figur 1. Oversiktskart for området rundt Helligvær Øst med plassering av den planlagte lokalitet (rødt 
+kryss). Koordinater er angitt i bildets høyre kant.  
+2.2 Drift  
+Det har ikke vært oppdrettsaktivitet i området der lokaliteten er tenkt plassert. 
+2.3 Tidligere undersøkelser  
+Det er ikke gjennomført tilsvarende miljøundersøkelse tidligere der lokaliteten er tenkt plassert, 
+men i forbindelse med forundersøkelsen er det gjennomført en B-undersøkelse 10.03.2017 
+(Nikolaisen, 2017), og det er foretatt strømmålinger i tidsrommet 10.03.2017 - 11.04.2017 
+(Heggem, 2017).  
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+5 
+3 Materiale og metode 
+3.1 Faglig program  
+Valg av undersøkelsesparametere, stasjonsplasseringer og type innsamlingsprogram for 
+bunnprøvetakinger og andre registreringer er gjort i henhold til NS 9410:2016. En oversikt over 
+det faglige programmet er gitt i Tabell 1.  
+For gjennomføring og opparbeiding er følgende standarder og kvalitetssikringssystemer 
+benyttet: 
+• ISO 5667-19. Guidance on sampling of marine sediments. 
+• ISO 16665. Guidelines for quantitative sampling and sample processing of marine soft 
+bottom macro fauna. 
+• NS 9410:2016. Miljøovervåking av bunnpåvirkning fra marine oppdrettsanlegg.  
+• Prosedyreark. Kvalitetshåndbok for Akvaplan-niva. 
+• SFT (nå Miljødirektoratet) veileder 97:03. Klassifisering av miljøkvalitet i fjorder og 
+kystfarvann (Molvær m.fl., 1997) og M-608/2016 (Miljødirektoratet, 2016). 
+• Veileder 02:2013. Klassifisering av miljøtilstand i vann. Norsk klassifiseringssystem 
+for vann i henhold til Vannforskriften. Veileder fra Direktoratgruppen.  
+Tabell 1. Faglig program på stasjonene ved Helligvær Øst, 2017. TOM = total organisk materiale. TOC 
+= total organisk karbon, TN = total nitrogen, Cu = kobber, Korn = kornfordeling. pH/Eh = Surhetsgrad 
+og redokspotensial.  
+Stasjon 
+Type undersøkelse 
+C1 (stasjon nærmest anlegget) 
+Kvantitativ bunndyranalyse. TOM. TOC. Korn.TN. Cu. pH/Eh. 
+C2 (stasjon i ytterkant av overgangssonen) * 
+Kvantitativ bunndyranalyse. TOM. TOC. Korn.TN. pH/Eh. Hydrografi. 
+C3 (stasjon i overgangssonen)  
+Kvantitativ bunndyranalyse. TOM. TOC. Korn. TN. pH/Eh. 
+Ref 1 (referansestasjon, 1000 m fra anlegget)  
+Kvantitativ bunndyranalyse. TOM. TOC. Korn.TN. pH/Eh.  
+*På C2 ble ikke tatt godkjente sedimentprøver for analyse av TOM, TOC, korn og TN pga. hardbunn 
+ 
+Feltarbeidet ble gjennomført 10.03.2017 og 11.04.2017.  
+3.2 Resipientbeskrivelse og stasjonsplassering  
+Lokaliteten er tenkt plassert i sundet vest for Steinskjæret, som ligger mellom Vokøya og 
+Lyngvær i Bodø kommune. Dybden under der anlegget er tenkt plassert ligger mellom 50 og 
+72 meter. Lokaliteten er omgitt av holmer som gjør at plasseringen er godt skjermet fra 
+Vestfjorden, med unntak av et område i nordlig retning som ligger åpent mot Vestfjorden. 
+Prøvetakingsstasjonene er valgt på bakgrunn av føringer gitt for forundersøkelse i NS 9410 og 
+hovedstrømretning ved spredningsdyp (40 m) målt på lokaliteten (Heggem, 2017). 
+En oversikt over stasjonsdyp, GPS-koordinater og stasjonenes avstand til anleggets antatte 
+senterpunkt er gitt i Tabell 2. Stasjonsplasseringene er vist i Figur 2. 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+6 
+www.akvaplan.niva.no 
+Tabell 2. Stasjonsdyp og -koordinater, Helligvær Øst, 2017.  
+Stasjon 
+C1 
+C2 
+C3 
+Ref 1 
+Dyp (m) 
+72 
+42 
+60 
+54 
+GPS 
+67°25,304 N 
+14°01,079 Ø 
+67°25,185 N 
+14°00,735 Ø 
+67°25,252 N 
+14°00,962 Ø 
+67°26,263 N 
+14°01,794 Ø 
+Avstand til antatt 
+senterpunkt (m) 
+453 
+676 
+567 
+1387 
+ 
+ 
+Figur 2. Stasjonskart, Helligvær Øst, 2017. St.1 - 3 benevnes som C1 - C3 i rapportteksten. 
+3.3 Hydrografi og oksygen 
+På den dypeste stasjonen (C1) ble det gjennomført hydrografisk registrering for vertikalprofiler 
+med hensyn til saltholdighet, temperatur, tetthet og oksygenmetning fra overflate til bunn. 
+Denne ble utført ved bruk av en Sensordata CTDO 202 sonde.  
+3.4 Geokjemiske analyser 
+3.4.1 Feltinnsamlinger 
+Prøvene ble hentet med en 0,1 m2 bunngrabb (van Veen). Prøvematerialet ble tatt ut gjennom 
+inspeksjonsluker etter at sedimentoverflaten var godkjent. Prøver for TOC, TOM, TN og Cu 
+ble tatt fra øverste 1 cm av sedimentet, og for kornfordelingsanalyser fra de øverste 5 cm ved 
+hjelp av rør. Kun prøver med uforstyrret overflate ble godkjent, og prøvematerialet ble frosset 
+for videre bearbeidelse i laboratorium. 
+3.4.2 Total organisk materiale (TOM) 
+Mengden av TOM i sediment ble bestemt ved vekttap etter forbrenning ved 495 °C. Vekttapet 
+i prosent etter forbrenning ble beregnet. Reproduserbarheten av TOM-analysene er sjekket i 
+opparbeidingsperioden ved å bruke et husstandardsediment som inneholder TOM med kjent 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+7 
+nivå. Standard kalsiumkarbonat ble brent sammen med prøvene som kontroll på at karbonat 
+ikke ble forbrent i prosessen. 
+3.4.3 Total nitrogen (TN) - Kjeldahl nitrogenbestemmelse 
+Sedimentene blir mineralisert ved 420 °C med svovelsyre og bruk av katalysatorer. 
+Natriumhydroksid tilsettes i overskudd for å mineralisere prøvene. Deretter destilleres prøven 
+og kondensatet går inn i en løsning med svovelsyre. Innholdet av organisk bundet nitrogen og 
+ammoniakk/ammonium i prøven kvantifiseres spektrofotometrisk vha. en metode basert på 
+reaksjonen mellom ammoniumioner, natriumsalicylat og trinatriumcitrat. 
+3.4.4 Total organisk karbon (TOC) og kornfordeling  
+Andelen finstoff, dvs. fraksjonen mindre enn 63 µm, ble bestemt gravimetrisk etter våtsikting 
+av prøvene. Resultatene er angitt som andel finstoff på tørrvektbasis.  
+Etter tørking ble innhold av total organisk karbon (TOC) bestemt ved IR deteksjon (LECO IR 
+212) etter behandling med konsentrert saltsyre (HCl) og katalytisk forbrenning ved 480 °C. For 
+å kunne klassifisere miljøtilstanden basert på innhold av TOC, er de målte konsentrasjonene 
+normalisert for andel finstoff (nTOC) ved bruk av ligningen: nTOC = TOC + 18(1 – F), hvor 
+TOC og F står for henholdsvis målt TOC verdi og andel finstoff (%) i prøven (Aure m.fl., 1993).  
+Klassifisering av miljøtilstanden for sedimentene er basert på normalisert TOC, og ble 
+gjennomført i henhold til SFT (nå Miljødirektoratet) veiledning 97:03 (Molvær m. fl., 1997).  
+Tilstandsklassifisering for organisk innhold i marine sediment (fra SFT 97:03).  
+nTOC, mg/g 
+< 20 
+I Meget god 
+20 - 27 
+II God 
+27 - 34 
+III Mindre god 
+34 - 41 
+IV Dårlig 
+> 41 
+V Meget dårlig 
+3.4.5 Metallanalyse - Kobber (Cu) 
+Prøvene for metallanalyse ble frysetørket før de ble oppsluttet i mikrobølgeovn i lukket 
+teflonbeholder med konsentrert ultraren salpetersyre og hydrogenperoksid. Konsentrasjonene 
+av kobber (Cu) ble bestemt ved hjelp av ICP-SFMS.  
+Klassifisering av miljøtilstanden med hensyn til Cu ble gjennomført i henhold til 
+Miljødirektoratets veileder M-608/2016.  
+Tilstandsklassifisering for kobber i marine sedimenter (grenseverdier fra M-608/2016). 
+Cu mg/kg 
+< 20  
+Klasse I  
+20 - 84  
+Klasse II  
+20 - 84  
+Klasse III  
+84 - 147  
+Klasse IV  
+> 147  
+Klasse V  
+ 
+3.4.6 Redoks- og pH målinger  
+På alle stasjonene ble det utført en kjemisk undersøkelse av sedimentet. Surhetsgrad (pH) og 
+redokspotensial (Eh) ble målt ved hjelp av elektroder og instrumentet YSI Professional Plus.  
+3.5 Bunndyr 
+3.5.1 Om organisk påvirkning av bunndyrsamfunn 
+Utslipp av organisk materiale fra oppdrettsanlegg kan bidra til forringede livsvilkår for mange 
+av de bunnlevende organismene. Negative effekter i bunndyrsamfunnet kan best vurderes 
+gjennom kvantitative bunndyranalyser. Fordi de fleste bløtbunnartene er lite mobile, vil 
+faunasammensetningen i stor grad gjenspeile de stedsegnede miljøforholdene. Endringer i 
+bunndyrssamfunnene er god indikasjon på uønskede belastninger. Under naturlige forhold 
+består samfunnene av mange arter. Høyt artsmangfold (diversitet) er blant annet betinget av 
+gunstige forhold for faunaen. Likevel kan eksempelvis moderate økninger i organisk belastning 
+stimulere faunaen og eventuelt øke artsmangfoldet noe. Større belastning gir dårligere forhold 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+8 
+www.akvaplan.niva.no 
+der opportunistiske arter øker sine individtall, mens ømfintlige slås ut. Dette betyr redusert 
+artsmangfold. Endringer i artsmangfold i nærheten av utslippspunkt kan i stor grad knyttes til 
+endringer av organisk innhold (fôr og fekalier) i sedimentet.  
+3.5.2 Innsamling og fiksering 
+Alle bunndyrprøvene ble tatt med en 0,1 m2 van Veen grabb. Kun grabbskudd hvor grabben 
+var fullstendig lukket og overflaten uforstyrret ble godkjent. Etter godkjenning ble innholdet 
+vasket i en 1 mm sikt og gjenværende materiale fiksert med 4 % formalin tilsatt fargestoffet 
+bengalrosa og nøytralisert med boraks. På laboratoriet ble dyrene sortert ut fra gjenværende 
+sediment. 
+3.5.3 Kvantitative bunndyranalyser 
+På stasjonene C1, C2 og Ref 1 ble det innsamlet to prøver (replikater) iht. retningslinjene i NS 
+9410 (2016). På C3 ble det kun innsamlet en prøve på grunn av mye hardbunn. Sortert materiale 
+ble opparbeidet kvantitativt. Bunndyrene ble identifisert til fortrinnsvis artsnivå eller annet 
+hensiktsmessig taksonomisk nivå og kvantifisert av spesialister (taksonomer). De kvantitative 
+artslistene inngikk i statistiske analyser. Se Vedlegg 1 for beskrivelse av analysemetoder. For å 
+klassifisere miljøtilstanden er Direktoratgruppens veileder 02:2013 benyttet. Følgende 
+statistiske metoder ble benyttet for å beskrive samfunnenes struktur og for å vurdere likheten 
+mellom ulike samfunn: 
+• 
+Shannon-Wiener diversitetsindeks (H’) 
+• 
+Hurlberts diversitetsindeks (ES100) - forventet antall arter pr. 100 individer 
+• 
+Pielou’s jevnhetsindeks (J) 
+• 
+Ømfintlighetsindeks (ISI2012), uegnet ved lavt individ/artstall 
+• 
+Indeks for individtetthet (DI), benyttes ved lavt individtall 
+• 
+Sensitivitetsindeks (NSI) 
+• 
+Sammensatt indeks for artsmangfold og ømfintlighet (NQI1) 
+• 
+Ømfintlighetsindeks som inngår i NQI1 (AMBI)  
+• 
+Normalisert EQR (nEQR) 
+• 
+Antall arter plottet mot antall individer i geometriske artsklasser 
+• 
+Clusteranalyser 
+• 
+De ti mest dominerende taksa pr. stasjon (topp-ti) 
+ 
+Indeksene er beregnet som snitt av to replikater.  
+Økologisk tilstandsklassifisering basert på observert verdi av indeks (fra Veileder 02:2013). 
+Indeks 
+I Svært god 
+II God 
+III Moderat 
+IV Dårlig 
+V Svært dårlig 
+NQI1 
+0.9-0.82 
+0,82-0.63 
+0.63-0.49 
+0.49-0.31 
+0.31-0 
+H´ 
+5.7-4.8 
+4.8-3.0 
+3.0-1.9 
+1.9-0.9 
+0.9-0 
+ES100 
+50-34 
+34-17 
+17-10 
+10-5 
+5-0 
+ISI2012 
+13-9.6 
+9.6-7.5 
+7.5-6.2 
+6.1-4.5 
+4.5-0 
+NSI 
+31-25 
+25-20 
+20-15 
+15-10 
+10-0 
+DI 
+0-0,30 
+0,30-0,44 
+0,44-0,60 
+0,60-0,85 
+0,85-2,05 
+nEQR 
+1,0 – 0,8 
+0,8 – 0,6 
+0,6 – 0,4 
+0,4 – 0,2 
+0,2 – 0,0 
+ 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+9 
+4 Resultater 
+4.1 Hydrografiske registreringer 
+Vertikalprofilene for temperatur, salinitet, tetthet og oksygenmetning på stasjon 1 ved 
+Helligvær Øst 11.04.2017 er vist i Figur 3.  
+Målingene viste stabile forhold gjennom hele vannsøylen for alle hydrografiregistreringene på 
+stasjon C1. Temperaturen lå rundt 5,5°C. Saliniteten var i overkant av 33, mens oksygen-
+metningen lå rundt 100 %. Det var med andre ord ingen oksygenkritiske nivåer i noen del av 
+vannsøylen i april 2017. 
+ 
+Figur 3. Vertikalprofiler. Temperatur, saltholdighet, tetthet og oksygen. Stasjon C1, Helligvær Øst, 
+2017. 
+4.2 Geokjemiske analyser 
+4.2.1 TOM, TOC, TN, C/N, kornfordeling og pH/Eh 
+Nivåer av  total organisk materiale (TOM), total organisk karbon (TOC), total nitrogen (TN), 
+C/N forholdet, kornfordeling og pH/Eh i sedimentene er presentert i Tabell 3.  
+TOM-nivåene var lave og varierte mellom 3,1 og 3,7 %. Nivåene av nTOC var lavt på stasjon 
+C1 (tilstandsklasse I "Meget god") og lett forhøyet på C3 og Ref1 (klasse II "God"). TN-nivåene 
+var lave (0,9 – 1,2 mg/g) og C/N-forholdet var da også lavt (7,5 – 7,8). Sedimentet var grovt på 
+alle stasjonene (5,5 – 7,0 %). Alle sedimentene hadde naturlige pH/Eh-verdier. 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+10 
+www.akvaplan.niva.no 
+Tabell 3. Sedimentbeskrivelse, TOM (%), TOC(mg/g), TN (mg/g), C/N, kornfordeling (pelittandel % 
+<0,063 mm) og pH/Eh. Helligvær Øst, 2017. Ikke godkjente sedimentprøver på C2 pga. hardbunn. 
+St. 
+Sedimentbeskrivelse 
+TOM 
+TOC 
+nTOC∗ 
+Tilst.kl.* 
+TN 
+C/N 
+Pelitt 
+pH/Eh 
+C1 
+Lys grå sand. Mye stein. 
+Ingen lukt 
+3,1 
+2,5 
+19,3 
+I 
+0,34 
+7,6 
+7,0 
+7,8/197 
+C2 
+Hardbunn og stein. Ikke 
+godkj. sedimentprøver   
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+C3 
+Grov, lys grå sand. 
+Ingen lukt 
+3,7 
+3,2 
+20,2 
+II 
+0,43 
+7,5 
+5,5 
+8,0/170 
+Ref1 
+Lys grå sand med stein 
+og skjell. Ingen lukt  
+3,4 
+4,3 
+21,1 
+II 
+0,56 
+7,8 
+6,8 
+7,9/172 
+∗ Tilstandsklassifisering (SFT - Molvær m.fl., 1997) basert på TOC forutsetter at konsentrasjonen av TOC i sedimentet 
+standardiseres for teoretisk 100% finstoff (pelitt < 0.063 mm) iht. til formelen: Normalisert TOC = målt TOC + 18 x (1-F), 
+hvor F er andel av finstoff (Aure m.fl., 1993). 
+4.2.2 Kobber i sediment, C1  
+Kobbernivåene er vist i Tabell 4. 
+Kobberkonsentrasjonen var lav og på bakgrunnsnivå på C1 (klasse I). 
+Tabell 4. Metallanalyser. Cu (mg/kg TS), Helligvær Øst, 2017.  
+St. 
+Cu  
+Klasse  
+C1 
+1,09 
+I 
+4.3 Bunndyr 
+4.3.1 Kvantitative bunndyrsanalyser  
+4.3.1.1 Artsmangfold, ømfintlighet og jevnhet 
+Resultatene fra de kvantitative bunndyranalysene er presentert i Tabell 5. Faunaindeksen nEQR 
+i tabellen er presentert uten tetthetsindeksen DI etter anbefaling av Miljødirektoratet. 
+Antall individer på stasjonene varierte mellom 200 på C1 og 517 på Ref1. Færrest antall arter 
+ble funnet på C2 (47) og flest på Ref1 (91). Verdiene av de ulike faunaindeksene lå i 
+tilstandsklasse I og II, men samlet indeks nEQR ga økologisk tilstandsklasse I for alle 
+undersøkte bløtbunnsamfunn. 
+J (Pielous jevnhetsindeks) er et mål på hvor likt individene er fordelt mellom artene, og vil 
+variere mellom 0 og 1. En stasjon med lav verdi har en skjev individfordeling mellom artene, 
+og indikerer at bunndyrsamfunnet er forstyrret. Alle stasjonene hadde naturlig jevnhet med J-
+verdier mellom 0,7 og 0,9. 
+Tabell 5. Antall arter og individer pr. 0,2 m2. H´ = Shannon-Wieners diversitetsindeks. ES100 = 
+Hurlberts diversitetsindeks. NQI1 = sammensatt indeks (diversitet og ømfintlighet). ISI2012 = 
+ømfintlighetsindeks. NSI = sensitivitetsindeks. J = Pielous jevnhetsindeks. AMBI = ømfintlighetsindeks 
+(inngår i NQI1). nEQR = normalisert EQR (ekskl. DI). DI = tetthetsindeks. Helligvær Øst, 2017. 
+Økologisk tilstandsklassifisering basert på observert verdi av indeks (snitt av to replikater) iht. Veileder 
+02:2013. 
+St. 
+Individtall 
+Ant arter 
+H´ 
+ES100 
+NQI1 
+ISI2012  
+NSI 
+nEQR 
+DI 
+AMBI  
+J 
+C1 
+200 
+47 
+4,8 
+35,8 
+0,8 
+11,3 
+27,3 
+0,834 
+0,3 
+1,729 
+0,9 
+C2 
+324 
+59 
+3,6 
+29,6 
+0,8 
+12,9 
+30,6 
+0,846 
+0,2 
+0,991 
+0,7 
+C3 
+402 
+79 
+4,8 
+41,2 
+0,9 
+12,0 
+27,9 
+0,895 
+0,2 
+0,908 
+0,8 
+Ref1 
+517 
+91 
+5,0 
+39,3 
+0,8 
+12,0 
+28,9 
+0,890 
+0,4 
+1,366 
+0,8 
+ 
+I Svært god 
+II God 
+III Moderat 
+IV Dårlig 
+V Svært dårlig 
+ 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+11 
+4.3.1.2 NS 9410 Vurdering av bløtbunnsamfunnet nærmest anlegget (st.1). 
+I følge NS 9410 kan klassifisering av miljøtilstanden nærmest anlegget baseres på antallet arter 
+vurdert mot dominansforhold i bløtbunnsamfunnet (se kap. 8.6.2. i NS 9410:2016). Tabell 6 
+viser antall arter, kumulativ prosent for dominerende taksa og klassifisering av miljøtilstanden 
+for bløtbunnsamfunnet på innerste stasjon C1.  
+Bløtbunnsamfunnet ble klassifisert til miljøtilstand 1 "Meget god". Kriteriet for tilstand 1 er 
+tilstedeværelse av minst 20 arter der ingen arter utgjør mer enn 65 % av individene. Data for 
+antall arter og dominerende taksa på stasjonen er hentet fra Tabell 5 og Tabell 7. 
+Tabell 6. NS 9410 Klassifisering av miljøtilstand i bløtbunnsamfunnet på C1, Helligvær Øst, 2017.  
+Stasjon  
+Lokalitet 
+Ant. arter 
+Dominerende taksa -% 
+Miljøtilstand-NS 9410 
+C1 
+Helligvær Øst 
+47 
+Galathowenia fragilis – 14 % 
+Miljøtilstand 1 
+ 
+4.3.1.3 Geometriske klasser 
+Figur 4 viser antall arter plottet mot antall individer, der antallet individer er delt inn i 
+geometriske klasser.  
+Det vises til Vedlegg 1 for en forklaring av begrepet geometriske klasser og beskrivelse av 
+metoden. Bakgrunnen for analysen er at et upåvirket samfunn består av mange arter med lavt 
+individtall, slik at kurven starter høyt på y-aksen. Et forstyrret samfunn har færre arter og noen 
+få av dem svært tallrike, slik at kurven flater ut og strekker seg mot høyere klasser. 
+Alle kurvene hadde naturlig høye startpunkter og ingen strakk seg nevneverdig langt ut mot 
+høyere klasser. Kurveforløpene indikerte ingen tegn på faunaforstyrrelser.  
+ 
+Figur 4. Bløtbunnsfauna vist som antall arter mot antall individer pr. art i geometriske klasser for 
+bunndyrstasjonene ved Helligvær Øst, 2017 (pr. 0,2 m2). 
+4.3.1.4 Clusteranalyser 
+For å undersøke likheten i faunasammensetning mellom stasjonene ble den multivariate 
+teknikken clusteranalyse benyttet (se metodebeskrivelse i Vedlegg 1). Resultatene fra denne er 
+presentert i dendrogram i Figur 5. I dendrogrammet er graden av ulikhet mellom stasjonene 
+uttrykt langs den horisontale aksen. To stasjoner med identisk arts- og individfordeling vil få  
+0 % ulikhet, mens to stasjoner uten like arter, vil få 100 % ulikhet. Metoden gjør det dermed 
+mulig å identifisere grupper av stasjoner med like arts- og individforhold. I tillegg gjør den det 
+lettere å synliggjøre eventuelle avvik som for eksempel kan knyttes til antropogene 
+påvirkninger av bunndyrsamfunnet. 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+1
+2,3
+ 4- 7
+ 8- 15
+16- 31
+32- 63
+64-127
+128-255
+256-511
+512-1023
+1024-2047
+2048-
+Stasjon
+Ant. arter
+Ant. ind.
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+12 
+www.akvaplan.niva.no 
+Clusterplottet viser at bløtbunnsamfunnet på C3 og Ref1 hadde 50 % likhet i fauna-
+sammensetning. C2 var 42 % lik de to sistnevnte, mens C1 var 36 % lik de øvrige.  
+ 
+Figur 5. Stasjonsvis clusterplott for bløtbunnsfaunaen ved Helligvær Øst, 2017. 
+4.3.1.5 Artssammensetning 
+Hovedtrekkene i artssammensetningen er vist i form av en topp-ti artsliste fra hver stasjon i 
+Tabell 7. I Rygg og Norling (2013) inndeles artene i fem økologiske grupper (Ecological 
+groups; EG) basert på verdien av sensitivitetsindeksene. Disse gruppene går fra sensitive arter 
+(gruppe I) til forurensningsindikatorer (pollution indicator species; gruppe V).  
+På samtlige stasjoner dominerte sensitive børstemarker; Galathowenia fragilis med 14 % på 
+C1, Chaetopterus variopedatus med 39 % og 21 % på C2 og C3, og Hydroides norvegicus på 
+Ref1 med 10 % av individmengden. Ellers var det flest sensitive taksa på alle stasjonene. 
+Forekomster av fåbørstemark (Oligochaeta) ble registrert på C1 og C3. Denne er plassert i 
+økologisk gruppe V (forurensningsindikatorer). De relativt små forekomstene og dominans av 
+mer sensitive arter tyder ikke på belastningseffekter i bløtbunnsamfunnene på disse to 
+stasjonene. 
+Tabell 7. Antall individer, kumulativ prosent og økologisk gruppe* for de ti mest dominerende artene 
+på stasjonene. Helligvær Øst, 2017.  
+St.1 
+Ant. 
+Kum. 
+EG 
+St.2 
+Ant. 
+Kum. 
+EG 
+Galathowenia fragilis 
+27 
+14 % 
+I 
+Chaetopterus variopedatus 
+132 
+39 % 
+I 
+Chaetopterus variopedatus 
+26 
+27 % 
+I 
+Hydroides norvegicus 
+51 
+54 % 
+I 
+Owenia sp. 
+17 
+35 % 
+II 
+Modiolula phaseolina 
+12 
+58 % 
+I 
+Glycera capitata 
+12 
+41 % 
+I 
+Cerianthus lloydii juv. 
+10 
+61 % 
+III 
+Jasmineira caudata 
+11 
+47 % 
+II 
+Leptochiton asellus 
+10 
+64 % 
+I 
+Nothria hyperborea 
+8 
+51 % 
+ik 
+Chone sp. 
+8 
+66 % 
+I 
+Oligochaeta indet. 
+8 
+55 % 
+V 
+Eunice pennata 
+7 
+68 % 
+I 
+Ampelisca sp. 
+7 
+58 % 
+I 
+Ophiopholis aculeata 
+7 
+70 % 
+I 
+Pista bansei 
+5 
+61 % 
+ik 
+Syllis armillaris 
+7 
+72 % 
+ik 
+Chaetozone sp. 
+4 
+63 % 
+III 
+Anatoma crispata 
+6 
+74 % 
+ik 
+St.3 
+Ant. 
+Kum. 
+EG 
+Ref 1 
+Ant. 
+Kum. 
+EG 
+Chaetopterus variopedatus 
+90 
+21 % 
+I 
+Hydroides norvegicus 
+53 
+10 % 
+I 
+Novocrania anomala 
+28 
+28 % 
+ik 
+Chaetopterus variopedatus 
+37 
+17 % 
+I 
+Axiokebuita sp. 
+18 
+32 % 
+ik 
+Leptochiton asellus 
+35 
+23 % 
+I 
+Amphipholis squamata 
+14 
+36 % 
+I 
+Spirobranchus triqueter 
+31 
+29 % 
+ik 
+Lysianassidae indet. 
+13 
+39 % 
+I 
+Aonides paucibranchiata 
+28 
+34 % 
+I 
+Hanleya hanleyi 
+12 
+42 % 
+ik 
+Galathea sp. 
+23 
+38 % 
+ik 
+Nothria hyperborea 
+12 
+45 % 
+ik 
+Polycirrus norvegicus 
+23 
+43 % 
+IV 
+Oligochaeta indet. 
+12 
+47 % 
+V 
+Stenosemus albus 
+21 
+46 % 
+ik 
+Ophiuroidea indet. juv. 
+12 
+50 % 
+II 
+Tectura virginea 
+20 
+50 % 
+ik 
+Chone sp. 
+10 
+53 % 
+I 
+Ophiura robusta 
+19 
+54 % 
+II 
+*Økologiske grupper: EG I = sensitive arter. EG II = nøytrale arter. EG III = tolerante arter. EG IV = opportunistiske arter.  
+EG V = forurensningsindikatorer (pollution indicator species). Fra Rygg og Norling, 2013. Ik = ikke kjent gruppe. 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+13 
+5 Sammenfattende vurderinger 
+5.1 Sammenfatning 
+Resultatene fra miljøovervåkingen (type C) ved Helligvær Øst i 2017 kan sammenholdes som 
+følger: 
+• Oksygenmetningen var god i hele vannsøylen (100 %). 
+• TOM- og TN-nivåene var generelt lave. TOC-nivåene lå i tilstandsklasse I "Meget god" 
+på C1 og klasse II "God" på C3 og Ref1. Dermed var også C/N-forholdet lave på alle 
+stasjonene. Nivået av Cu var lavt på C1 med klasse I. Sedimentet var grovt på stasjonene 
+og alle sedimentene hadde naturlige pH/Eh-verdier. 
+• Økologisk tilstandsklassifisering, basert på faunaindeksene i Veileder 02:2013, ga 
+tilstandsklasse I "Svært god" for alle bløtbunnsamfunnene. NS 9410:2016-
+klassifisering på stasjonen nærmest anlegget (C1) viste miljøtilstand 1 "Meget god". 
+Sensitive børstemark dominerte på alle fire stasjonene.  
+5.2 Konklusjon 
+Det ble ikke påvist belastningseffekter i bløtbunnsamfunnene ved den planlagte anleggs-
+lokaliseringen til Helligvær Øst. Oksygenmetningen var god i hele vannsøylen i april 2017. 
+TOC-nivåene var generelt lave og lå i tilstandsklasse I på C1 og klasse II på de to andre 
+stasjonene der det var mulig å samle inn sedimentprøver. Nivået av Cu var lavt på stasjon C1 
+og lå i klasse I. 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+14 
+www.akvaplan.niva.no 
+6 Referanser 
+Aure, J., Dahl, E., Green, N., Magnusson. J., Moy, F., Pedersen, A., Rygg, B. & Walday, M., 1993. 
+Langtidsovervåking av trofiutviklingen i kystvannet langs Sør-Norge. Årsrapport 1990 og samlerapport 1990-91. 
+Statlig program for forurensningsovervåking. Rapport 510/93.  
+Direktoratgruppen, 2013. Klassifisering av miljøtilstand i vann. Veileder 02:2013. 263 s.  
+Heggem, T., 2017. Lofoten Sjøprodukter AS. Strømmålinger Helligvær Øst. Vannutskiftnings-, spredning- og 
+bunnstrøm. APN-8770.02. 11s + vedlegg 
+ISO 5667-19, 2004. Guidance on sampling of marine sediments. 
+ISO 16665, 2005. Water quality – Guidelines for quantitative sampling and sample processing of marine soft-
+bottom macro fauna. 
+Miljødirektoratet, 2016. Grenseverdier for klassifisering av vann, sediment og biota. M-608/2016. 24 s. 
+Molvær, J., Knutzen, J., Magnusson, J., Rygg, B., Skei, J. & Sørensen, J., 1997. Klassifisering av miljøkvalitet i 
+fjorder og kystfarvann. Statens forurensningstilsyn. Veiledning 97:03. 36 sider. 
+Nikolaisen, J., 2017. Lofoten Sjøprodukter. Miljøundersøkelse type B. (Ny) Helligvær Øst, mars 2017. APN-
+8770.01. 9s. + vedlegg 
+NS 9410:2016. Norsk standard for miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg. 
+Rygg, B. & K. Norling, 2013. Norwegian Sensitive Index (NSI) for marine macroinvertebrates, and an update of 
+Indicator Species Index (ISI). NIVA report SNO 6475-2013. 48 p. 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+15 
+7 Vedlegg 
+Vedlegg 1 Bunndyrsstatistikk og artslister 
+Diversitetsmål 
+Diversitet er et begrep som uttrykker mangfoldet i dyre- og plantesamfunnet på en lokalitet. Det finnes en rekke 
+ulike mål for diversitet. Noen tar mest hensyn til artsrikheten (mål for artsrikheten), andre legger mer vekt på 
+individfordelingen mellom artene (mål for jevnhet og dominans). Ulike mål uttrykker derved forskjellige sider ved 
+dyresamfunnet. Diversitetsmål er “klassiske” i forurensningsundersøkelser fordi miljøforstyrrelser typisk påvirker 
+samfunnets sammensetning. Svakheten ved diversitetsmålene er at de ikke alltid fanger opp endringer i 
+samfunnsstrukturen. Dersom en art blir erstattet med like mange individer av en ny art, vil ikke det gjøre noe utslag 
+på diversitetsindeksene.  
+Shannon-Wieners indeks (Shannon & Weaver, 1949) er gitt ved formelen: 
+ 
+der  
+ni  = antall individer av art i i prøven 
+ 
+N  = total antall individer 
+       
+s   = antall arter 
+Indeksen tar hensyn både til antall arter og mengdefordelingen mellom artene, men det synes som indeksen er mest 
+følsom for individfordelingen. En lav verdi indikerer et artsfattig samfunn og/eller et samfunn som er dominert av 
+en eller få arter. En høy verdi indikerer et artsrikt samfunn. 
+Pielous mål for jevnhet (Pielou, 1966) 
+har følgende formel, der symbolene er som i Shannon-Wieners indeks 
+ 
+ 
+Hurlberts diversitetskurver 
+Grafisk kan diversiteten uttrykkes i form av antall arter som funksjon av antall individer. Med utgangspunkt i total 
+antall arter og individer i en prøve søker man å beregne hvor mange arter man ville vente å finne i delprøver med 
+færre individer. Diversitetsmålet blir derved uavhengig av prøvestørrelsen og gjør at lokaliteter med ulik 
+individtetthet kan sammenlignes direkte. Hurlbert (1971) har gitt en metode for å beregne slike diversitetskurver 
+basert på sannsynlighetsberegning. 
+n
+ES er forventet antall arter i en delprøve på n tilfeldig valgte individer fra en prøve som inneholder total N 
+individer og s arter og har følgende formel: 
+ 
+der  
+N = total antall individ i prøven 
+Ni = antall individ av art i 
+n  = antall individ i en gitt delprøve (av de N) 
+s = total antall arter i prøven 
+ 
+Plott av antall arter i forhold til antall individer 
+Artene deles inn i grupper/klasser etter hvor mange individer som er registrert i en prøve. Det vanlige er å sette 
+klasse I = 1 individ pr. art, klasse II = 2-3 individer, klasse III = 4-7 individer, klasse IV = 8-15 individer, osv., 
+slik at de nedre klassegrensene danner en følge av ledd på formen 2x , x=0,1,2,… En slik følge kalles en geometrisk 
+følge, derfor kalles klassene for geometriske klasser. Hvis antall arter innenfor hver klasse plottes mot 
+ 
+
+
+
+
+
+
+−
+= ∑
+=
+N
+n
+N
+n
+H
+i
+s
+i
+i
+1
+2
+log
+'
+ J
+H
+s
+=
+'
+log2
+ 
+(
+)
+( )
+∑
+=
+−
+
+
+
+
+
+
+
+
+−
+=
+s
+i
+n
+N
+n
+i
+N
+N
+n
+ES
+1
+1
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+16 
+www.akvaplan.niva.no 
+klasseverdien på en lineær skala, vil det fremkomme en kurve som uttrykker individfordelingen mellom artene i 
+samfunnet. Det har vist seg at i prøver fra upåvirkede samfunn vil det være mange arter med lavt individantall og 
+få arter med høyt individantall, slik at vi får en entoppet, assymetrisk kurve med lang ”hale” mot høye 
+klasseverdier. Denne kurven vil være godt tilpasset en log-normal fordelingskurve. 
+Ved moderat forurensing forsvinner en del av de individfattige artene, mens noen som blir begunstiget, øker i 
+antall. Slik flater kurven ut, og strekker seg mot høyere klasser eller den får ekstra topper. Under slike forhold 
+mister kurven enhver likhet med den statistiske log-normalfordelingen. Derfor kan avvik fra log-
+normalfordelingen tolkes som et resultat av en påvirkning/forurensing. Det har vist seg at denne metoden tidlig gir 
+utslag ved miljøforstyrrelse. Ved sterk forurensning blir det bare noen få, men ofte svært tallrike arter tilbake. Log-
+normalfordelingskurven vil da ofte gjenoppstå, men med en lavere topp og spredt over flere klasser enn for 
+uforstyrrede samfunn. 
+Faunaens fordelingsmønster 
+Variasjoner i faunaens fordelingsmønster over området beskrives ved å sammenligne tettheten av artene på hver 
+stasjon. Til dette brukes multivariate klassifikasjons- og ordinasjons-analyser (Cluster og MDS). 
+Analysene i denne undersøkelsen ble utført ved hjelp av programpakken PRIMER v5. Inngangsdata er 
+individantall pr. art, pr. prøve. Prøvene kan være replikater eller stasjoner. Det tas ikke hensyn til hvilke arter som 
+opptrer. Forut for klassifikasjons- og ordinasjonsanalysene ble artslistene dobbelt kvadratrot-transformert. Dette 
+ble gjort for å redusere avviket mellom høye og lave tetthetsverdier og dermed redusere eventuelle effekter av 
+tallmessig dominans hos noen få arter i datasettet.  
+Clusteranalyse 
+Analysen undersøker faunalikheten mellom prøver. For å sammenligne to prøver ble Bray-Curtis ulikhetsindeks 
+benyttet (Bray & Curtis, 1957): 
+ 
+der 
+n    = 
+antall arter sammenlignet 
+ 
+Xki =  
+antall individ av art k i prøve nr. i 
+ 
+Xkj =  
+antall individ av art k i prøve nr. j 
+Indeksen avtar med økende likhet. Vi får verdien 1 hvis prøvene er helt ulike, dvs. ikke har noen felles arter. 
+Identiske arts- og individtall vil gi verdien 0. Prøver blir gruppert sammen etter graden av likhet ved å bruke 
+”group-average linkage”. Forholdsvis like prøver danner en gruppe (cluster). Resultatet presenteres i et trediagram 
+(dendrogram). 
+Ømfintlighet (AMBI, ISI og NSI) 
+Ømfintligheten bestemmes ved indeksene ISI og AMBI. Beregning av ISI er beskrevet av Rygg (2002). 
+Sensitivitetsindeksen AMBI (Azti Marin Biotic Index) tilordner en ømfintlighetsklasse (økologisk gruppe, EG): 
+EG-1: sensitive arter, EG-II: indifferente arter, EG-III: tolerante arter, EG-IV: opportunistiske arter, EG-V: 
+forurensningsindikerende arter. Sammensetningen av makroevertebratsamfunnet i form av andelen av økologiske 
+grupper indikerer omfanget av en forurensningspåvirkning. 
+NSI er en sensitivitetsindeks som ligner AMBI, men er utviklet med basis i norske faunadata og ved bruk av en 
+objektiv statistisk metode. En prøves NSI verdi beregnes ved gjennomsnittet av sensitivitetsverdiene av alle 
+individene i prøven. 
+Sammensatte indekser (NQI1 og NQI2) 
+Sammensatte indekser NQI1 og NQI2 bestemmes både ut fra artsmangfold og ømfintlighet. NQI1 er brukt i 
+NEAGIG (den nordøst-atlantiske interkalibreringen). De fleste land bruker nå sammensatte indekser av samme 
+type som NQI1 og NQI2.  
+NQI1 indeksen er beskrevet ved hjelp av formelen: 
+NQI1 (Norwegian quality status, version 1) = [0.5* (1-AMBI/7) + 0.5*(SN/2.7)* (N/(N+5)] 
+Diversitetsindeksen SN = lnS/ln(lnN), hvor S er antall arter og N er antall individer i prøven 
+Referanser: 
+Bray, R.T. & J.T. Curtis, 1957. An ordination of the upland forest communities of southern Wisconsin. Ecol. 
+Monogr., 27:325-349. 
+)
+(
+1
+1
+∑
+∑
+=
+=
++
+−
+=
+n
+k
+kj
+ki
+n
+k
+kj
+ki
+ij
+X
+X
+X
+X
+d
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+17 
+Hurlbert, S.N., 1971. The non-consept of the species diversity: A critique and alternative parameters. Ecology 
+52:577-586. 
+Pielou, E. C., 1966. Species-diversity and pattern-diversity in the study of ecological succession.  Journal of 
+Theoretical Biology 10, 370-383. 
+Rygg, B., 2002. Indicator species index for assessing benthic ecological quality in marine water of Norway. NIVA 
+report  SNO 4548-2002. 32 p. 
+Shannon, C.E. & W. Weaver, 1949. The Mathematical Theory of Communication. Univ Illinois Press, Urbana 
+117 s.    
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+18 
+www.akvaplan.niva.no 
+Statistikk resultater Helligvær Øst, 2017: 
+Antall arter og individer per stasjon: 
+st.nr. 
+tot. 
+C1 
+C2 
+C3 
+Ref1 
+no. ind. 
+1443 
+200 
+324 
+402 
+517 
+no. spe. 
+148 
+47 
+59 
+79 
+91 
+ 
+Bunndyrindekser per replikat: 
+st.nr. 
+tot. 
+C1_01 
+C2_01 
+C2_02 
+C3_01 
+C3_02 
+Ref1_01 
+Ref1_02 
+no. ind. 
+1443 
+200 
+155 
+169 
+132 
+270 
+260 
+257 
+no. spe. 
+148 
+47 
+38 
+40 
+51 
+64 
+58 
+69 
+Shannon-Wiener: 
+4,8 
+3,6 
+3,6 
+4,7 
+5,0 
+4,8 
+5,3 
+Pielou 
+0,86 
+0,69 
+0,67 
+0,83 
+0,83 
+0,82 
+0,87 
+ES100 
+36 
+29 
+30 
+43 
+39 
+36 
+43 
+SN 
+2,31 
+2,25 
+2,26 
+2,48 
+2,41 
+2,37 
+2,47 
+ISI-2012 
+11,32 
+13,57 
+12,25 
+12,17 
+11,79 
+12,47 
+11,61 
+AMBI 
+1,729 
+1,048 
+0,934 
+0,711 
+1,104 
+1,464 
+1,267 
+NQI1 
+0,79 
+0,83 
+0,84 
+0,89 
+0,86 
+0,83 
+0,86 
+NSI 
+27,3 
+30,6 
+30,5 
+28,8 
+27,1 
+28,5 
+29,4 
+DI 
+0,251 
+0,140 
+0,178 
+0,071 
+0,381 
+0,365 
+0,360 
+ 
+Bunndyrindekser, gjennomsnitt per stasjon: 
+st.nr. 
+C1 
+C2 
+C3 
+Ref1 
+Shannon-Wiener: 
+4,8 
+3,6 
+4,8 
+5,0 
+Pielou 
+0,9 
+0,7 
+0,8 
+0,8 
+ES100 
+35,8 
+29,6 
+41,2 
+39,3 
+SN 
+2,3 
+2,3 
+2,4 
+2,4 
+ISI-2012 
+11,3 
+12,9 
+12,0 
+12,0 
+AMBI 
+1,729 
+0,991 
+0,908 
+1,366 
+NQI1 
+0,8 
+0,8 
+0,9 
+0,8 
+NSI 
+27,3 
+30,6 
+27,9 
+28,9 
+DI 
+0,3 
+0,2 
+0,2 
+0,4 
+Tilstandsklasse nEQR *) 
+0,834 
+0,846 
+0,895 
+0,890 
+*) Tilstandsklassen nEQR er beregnet uten DI 
+ 
+Geometriske klasser: 
+int. 
+cla. 
+C1 
+C2 
+C3 
+Ref1 
+1 
+1 
+15 
+31 
+34 
+46 
+2,3 
+2 
+20 
+14 
+17 
+14 
+ 4- 7 
+3 
+5 
+9 
+15 
+15 
+ 8- 15 
+4 
+4 
+3 
+10 
+6 
+16- 31 
+5 
+3 
+0 
+2 
+7 
+32- 63 
+6 
+0 
+1 
+0 
+3 
+64-127 
+7 
+0 
+0 
+1 
+0 
+128-255 
+8 
+0 
+1 
+0 
+0 
+256-511 
+9 
+0 
+0 
+0 
+0 
+512-1023 
+10 
+0 
+0 
+0 
+0 
+1024-2047 
+11 
+0 
+0 
+0 
+0 
+2048- 
+12 
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+19 
+ Artsliste 
+Helligvær Øst C-und. 2017           
+ Rekke 
+Klasse Orden Art/Taxa 
+01 
+02 
+Sum 
+ Stasjonsnr.:  C1 
+ PORIFERA 
+ 
+Porifera indet. 
+-1 
+-1 
+ CNIDARIA 
+ 
+Anthozoa 
+ 
+Edwardsia sp. 
+1 
+1 
+ 
+Actiniaria indet. 
+1 
+1 
+ NEMERTINI 
+ 
+Nemertea indet. 
+3 
+3 
+ NEMATODA 
+ 
+Nematoda indet. 
+7 
+7 
+ ANNELIDA 
+ 
+Polychaeta 
+ 
+Orbiniida 
+ 
+Aricidea cerrutii 
+3 
+3 
+ 
+Spionida 
+ 
+Aonides paucibranchiata 
+3 
+3 
+ 
+Scolelepis korsuni 
+3 
+3 
+ 
+Spiophanes bombyx 
+2 
+2 
+ 
+Spiophanes kroyeri 
+3 
+3 
+ 
+Chaetopterus variopedatus 
+26 
+26 
+ 
+Aphelochaeta sp. 
+3 
+3 
+ 
+Chaetozone sp. 
+4 
+4 
+ 
+Macrochaeta clavicornis 
+3 
+3 
+ 
+Capitellida 
+ 
+Heteromastus filiformis 
+2 
+2 
+ 
+Phyllodocida 
+ 
+Eulalia mustela 
+2 
+2 
+ 
+Hesionura elongata 
+3 
+3 
+ 
+Polynoidae indet. 
+1 
+1 
+ 
+Pholoe assimilis 
+1 
+1 
+ 
+Trypanosyllis troll 
+1 
+1 
+ 
+Glycera capitata 
+12 
+12 
+ 
+Nephtys longosetosa 
+1 
+1 
+ 
+Eunicida 
+ 
+Nothria hyperborea 
+8 
+8 
+ 
+Eunice pennata 
+1 
+1 
+ 
+Protodorvillea kefersteini 
+1 
+1 
+ 
+Oweniida 
+ 
+Galathowenia fragilis 
+27 
+27 
+ 
+Myriochele danielsseni 
+3 
+3 
+ 
+Owenia sp. 
+17 
+17 
+ 
+Terebellida 
+ 
+Eupolymnia nesidensis 
+3 
+3 
+ 
+Pista bansei 
+5 
+5 
+ 
+Polycirrus norvegicus 
+4 
+4 
+ 
+Terebellidae indet. 
+3 
+3 
+ 
+Sabellida 
+ 
+Euchone sp. 
+2 
+2 
+ 
+Jasmineira caudata 
+11 
+11 
+ 
+Hydroides norvegicus 
+2 
+2 
+ 
+Oligochaeta 
+ 
+Oligochaeta indet. 
+8 
+8 
+ CRUSTACEA 
+ 
+Copepoda 
+ 
+Calanoida 
+ 
+Calanoida indet. 
+1 
+1 
+ 
+Malacostraca 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+20 
+www.akvaplan.niva.no 
+ Rekke 
+Klasse Orden Art/Taxa 
+01 
+02 
+Sum 
+ 
+Amphipoda 
+ 
+Ampelisca sp. 
+7 
+7 
+ 
+Atylus sp. 
+3 
+3 
+ 
+Acidostoma sp. 
+1 
+1 
+ 
+Paraphoxus oculatus 
+4 
+4 
+ 
+Tiron spiniferus 
+1 
+1 
+ 
+Gammaridea indet. 
+1 
+1 
+ MOLLUSCA 
+ 
+Polyplacophora 
+ 
+Lepidopleurida 
+ 
+Leptochiton asellus 
+1 
+1 
+ 
+Hanleya hanleyi 
+1 
+1 
+ 
+Bivalvia 
+ 
+Ostreoidea 
+ 
+Heteranomia squamula 
+1 
+1 
+ 
+Veneroida 
+ 
+Spisula elliptica 
+2 
+2 
+ 
+Myoida 
+ 
+Hiatella sp. 
+1 
+1 
+ BRACHIOPODA 
+ 
+Articulata 
+ 
+Terebratulida 
+ 
+Macandrevia cranium 
+2 
+2 
+ BRYOZOA 
+ 
+Bryozoa indet. 
+-1 
+-1 
+ ECHINODERMATA 
+ 
+Holothuroidea 
+ 
+Apodida 
+ 
+Labidoplax buskii 
+2 
+2 
+ 
+Maks: 
+27 
+27 
+ 
+Antall: 
+51 
+0 
+51 
+ 
+Sum: 
+206 
+ Stasjonsnr.:  C2 
+ CNIDARIA 
+ 
+Hydrozoa 
+ 
+Hydrozoa indet. 
+-1 
+-1 
+ 
+Anthozoa 
+ 
+Actiniaria indet. 
+1 
+1 
+ 
+Cerianthus lloydii juv. 
+3 
+7 
+10 
+ PLATYHELMINTHES 
+ 
+Platyhelminthes indet. 
+2 
+2 
+4 
+ NEMERTINI 
+ 
+Nemertea indet. 
+2 
+2 
+4 
+ NEMATODA 
+ 
+Nematoda indet. 
+2 
+2 
+ ANNELIDA 
+ 
+Polychaeta 
+ 
+Spionida 
+ 
+Dipolydora sp. 
+1 
+1 
+ 
+Chaetopterus variopedatus 
+59 
+73 
+132 
+ 
+Phyllodocida 
+ 
+Eumida bahusiensis 
+1 
+1 
+ 
+Eumida sp. 
+1 
+1 
+ 
+Phyllodoce groenlandica 
+1 
+1 
+ 
+Phyllodocidae indet. 
+1 
+1 
+ 
+Harmothoe sp. 
+1 
+1 
+ 
+Malmgrenia sp. 
+1 
+1 
+ 
+Polynoidae indet. 
+2 
+2 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+21 
+ Rekke 
+Klasse Orden Art/Taxa 
+01 
+02 
+Sum 
+ 
+Pholoe assimilis 
+1 
+1 
+ 
+Psamathe fusca 
+1 
+1 
+ 
+Nereimyra punctata 
+1 
+1 
+2 
+ 
+Syllis armillaris 
+5 
+2 
+7 
+ 
+Sphaerosyllis sp. 
+2 
+2 
+ 
+Syllidae indet. 
+2 
+2 
+ 
+Nereis zonata 
+3 
+2 
+5 
+ 
+Glycera capitata 
+1 
+1 
+ 
+Sphaerodorum gracilis 
+1 
+1 
+ 
+Eunicida 
+ 
+Eunice pennata 
+3 
+4 
+7 
+ 
+Terebellida 
+ 
+Eupolymnia nesidensis 
+1 
+1 
+ 
+Polycirrus norvegicus 
+3 
+1 
+4 
+ 
+Sabellida 
+ 
+Chone sp. 
+3 
+5 
+8 
+ 
+Myxicola infundibulum 
+1 
+1 
+ 
+Hydroides norvegicus 
+27 
+24 
+51 
+ 
+Placostegus tridentatus 
+1 
+1 
+ 
+Spirobranchus triqueter 
+3 
+3 
+ CRUSTACEA 
+ 
+Malacostraca 
+ 
+Amphipoda 
+ 
+Lysianassidae indet. 
+1 
+1 
+ 
+Gammaridea indet. 
+1 
+1 
+ 
+Isopoda 
+ 
+Janira maculosa 
+1 
+2 
+3 
+ 
+Asellota indet. 
+2 
+2 
+ 
+Decapoda 
+ 
+Natantia indet. 
+1 
+1 
+2 
+ 
+Galathea sp. 
+2 
+2 
+4 
+ MOLLUSCA 
+ 
+Polyplacophora 
+ 
+Lepidopleurida 
+ 
+Leptochiton asellus 
+6 
+4 
+10 
+ 
+Hanleya hanleyi 
+1 
+1 
+ 
+Ischnochitonidae 
+ 
+Tonicella rubra 
+3 
+3 
+ 
+Stenosemus albus 
+1 
+1 
+ 
+Prosobranchia 
+ 
+Archaeogastropoda 
+ 
+Anatoma crispata 
+2 
+4 
+6 
+ 
+Emarginula fissura 
+1 
+1 
+ 
+Puncturella noachina 
+1 
+1 
+ 
+Tectura virginea 
+1 
+1 
+ 
+Margarites olivaceus 
+1 
+1 
+2 
+ 
+Mesogastropoda 
+ 
+Trichotropis borealis 
+1 
+1 
+ 
+Velutina velutina 
+1 
+1 
+ 
+Neogastropoda 
+ 
+Nassarius incrassatus 
+1 
+1 
+2 
+ 
+Opistobranchia 
+ 
+Pyramidellomorpha 
+ 
+Odostomia unidentata 
+1 
+1 
+ 
+Cephalaspidea 
+ 
+Philine sp. 
+2 
+2 
+ 
+Nudibranchia 
+ 
+Nudibranchia indet. 
+1 
+1 
+ 
+Bivalvia 
+ 
+Galeommatoidea indet. 
+1 
+1 
+ 
+Mytiloida 
+ 
+Modiolula phaseolina 
+8 
+4 
+12 
+ 
+Ostreoidea 
+ 
+Palliolum striatum 
+1 
+1 
+ 
+Heteranomia squamula 
+1 
+2 
+3 
+ 
+Myoida 
+ 
+Hiatella sp. 
+2 
+2 
+ BRACHIOPODA 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+22 
+www.akvaplan.niva.no 
+ Rekke 
+Klasse Orden Art/Taxa 
+01 
+02 
+Sum 
+ 
+Inarticulata 
+ 
+Acrotretida 
+ 
+Novocrania anomala 
+1 
+1 
+ BRYOZOA 
+ 
+Bryozoa indet. 
+-2 
+-1 
+-3 
+ ECHINODERMATA 
+ 
+Asteroidea 
+ 
+Asteroidea indet. juv. 
+1 
+1 
+ 
+Ophiuroidea 
+ 
+Ophiurida 
+ 
+Ophiactis balli 
+1 
+1 
+ 
+Ophiopholis aculeata 
+1 
+6 
+7 
+ 
+Ophiura robusta 
+1 
+1 
+ 
+Ophiuroidea indet. juv. 
+1 
+1 
+ 
+Holothuroidea 
+ 
+Dendrochirotida 
+ 
+Ocnus lacteus 
+2 
+2 
+ 
+Holothuroidea indet. juv. 
+1 
+1 
+ 
+Maks: 
+59 
+73 
+132 
+ 
+Antall: 
+45 
+44 
+67 
+ 
+Sum: 
+337 
+ Stasjonsnr.:  C3 
+ FORAMINIFERA 
+ 
+Foraminifera indet. 
+-1 
+-1 
+-2 
+ PORIFERA 
+ 
+Porifera indet. 
+-1 
+-1 
+ CNIDARIA 
+ 
+Anthozoa 
+ 
+Edwardsia sp. 
+2 
+1 
+3 
+ 
+Actiniaria indet. 
+1 
+1 
+ 
+Cerianthus lloydii juv. 
+2 
+2 
+ NEMERTINI 
+ 
+Nemertea indet. 
+1 
+1 
+ NEMATODA 
+ 
+Nematoda indet. 
+2 
+9 
+11 
+ SIPUNCULIDA 
+ 
+Golfingiidae indet. 
+1 
+1 
+ 
+Sipunculida indet. 
+2 
+1 
+3 
+ 
+Sipunculida indet. juv. 
+1 
+1 
+ ANNELIDA 
+ 
+Polychaeta 
+ 
+Orbiniida 
+ 
+Levinsenia gracilis 
+5 
+5 
+ 
+Aricidea cerrutii 
+2 
+2 
+ 
+Paradoneis lyra 
+1 
+5 
+6 
+ 
+Spionida 
+ 
+Spiophanes bombyx 
+5 
+5 
+ 
+Chaetopterus variopedatus 
+35 
+55 
+90 
+ 
+Aphelochaeta sp. 
+1 
+1 
+ 
+Chaetozone sp. 
+3 
+2 
+5 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+23 
+ Rekke 
+Klasse Orden Art/Taxa 
+01 
+02 
+Sum 
+ 
+Cirratulus cirratus 
+2 
+2 
+ 
+Macrochaeta clavicornis 
+1 
+1 
+ 
+Capitellida 
+ 
+Heteromastus filiformis 
+1 
+1 
+2 
+ 
+Notomastus latericeus 
+1 
+2 
+3 
+ 
+Notoproctus sp. 
+1 
+1 
+ 
+Clymenura sp. 
+1 
+1 
+ 
+Opheliida 
+ 
+Ophelina sp. 
+1 
+1 
+ 
+Axiokebuita sp. 
+2 
+16 
+18 
+ 
+Phyllodocida 
+ 
+Eulalia mustela 
+1 
+1 
+ 
+Eumida bahusiensis 
+1 
+2 
+3 
+ 
+Eumida ockelmanni 
+1 
+1 
+ 
+Phyllodocidae indet. 
+1 
+1 
+ 
+Acanthicolepis asperrima 
+1 
+1 
+ 
+Harmothoe abyssicola 
+1 
+1 
+ 
+Polynoidae indet. 
+1 
+1 
+2 
+ 
+Pholoe assimilis 
+2 
+2 
+4 
+ 
+Pholoe baltica 
+1 
+8 
+9 
+ 
+Pisione remota 
+1 
+1 
+ 
+Nereimyra punctata 
+1 
+1 
+2 
+ 
+Trypanosyllis troll 
+2 
+2 
+ 
+Glycera capitata 
+3 
+7 
+10 
+ 
+Sphaerodorum gracilis 
+1 
+1 
+ 
+Amphinomida 
+ 
+Euphrosine cirrata 
+1 
+4 
+5 
+ 
+Eunicida 
+ 
+Nothria hyperborea 
+7 
+5 
+12 
+ 
+Eunice pennata 
+3 
+4 
+7 
+ 
+Dorvilleidae indet. 
+1 
+3 
+4 
+ 
+Oweniida 
+ 
+Galathowenia fragilis 
+7 
+7 
+ 
+Terebellida 
+ 
+Pista bansei 
+1 
+1 
+ 
+Sabellida 
+ 
+Chone sp. 
+2 
+8 
+10 
+ 
+Euchone sp. 
+1 
+1 
+ 
+Jasmineira caudata 
+1 
+6 
+7 
+ 
+Hydroides norvegicus 
+3 
+1 
+4 
+ 
+Placostegus tridentatus 
+1 
+1 
+ 
+Protula similis 
+1 
+1 
+ 
+Oligochaeta 
+ 
+Oligochaeta indet. 
+12 
+12 
+ CHELICERATA 
+ 
+Pycnogonida 
+ 
+Pycnogonida indet. 
+1 
+1 
+ CRUSTACEA 
+ 
+Cirripedia 
+ 
+Thoracica 
+ 
+Sessilia indet. 
+-1 
+-2 
+-3 
+ 
+Malacostraca 
+ 
+Amphipoda 
+ 
+Ampelisca sp. 
+1 
+1 
+ 
+Liljeborgia fissicornis 
+1 
+1 
+ 
+Liljeborgia pallida 
+1 
+1 
+2 
+ 
+Lysianassidae indet. 
+5 
+8 
+13 
+ 
+Gammaridea indet. 
+1 
+1 
+ 
+Isopoda 
+ 
+Janira maculosa 
+1 
+1 
+ 
+Decapoda 
+ 
+Natantia indet. 
+1 
+2 
+3 
+ 
+Hyas sp. 
+1 
+1 
+ MOLLUSCA 
+ 
+Polyplacophora 
+ 
+Lepidopleurida 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+24 
+www.akvaplan.niva.no 
+ Rekke 
+Klasse Orden Art/Taxa 
+01 
+02 
+Sum 
+ 
+Leptochiton asellus 
+3 
+6 
+9 
+ 
+Hanleya hanleyi 
+6 
+6 
+12 
+ 
+Ischnochitonidae 
+ 
+Stenosemus albus 
+1 
+1 
+2 
+ 
+Prosobranchia 
+ 
+Archaeogastropoda 
+ 
+Puncturella noachina 
+3 
+2 
+5 
+ 
+Margarites helicinus 
+1 
+1 
+2 
+ 
+Mesogastropoda 
+ 
+Velutina velutina 
+1 
+1 
+ 
+Euspira nitida 
+1 
+1 
+ 
+Bivalvia 
+ 
+Mytiloida 
+ 
+Modiolula phaseolina 
+5 
+5 
+10 
+ 
+Limoida 
+ 
+Limaria loscombi 
+2 
+4 
+6 
+ 
+Limatula subauriculata 
+5 
+5 
+ 
+Limea crassa 
+1 
+2 
+3 
+ 
+Ostreoidea 
+ 
+Similipecten greenlandicus 
+1 
+1 
+ 
+Veneroida 
+ 
+Spisula elliptica 
+1 
+1 
+ 
+Gari sp. juv. 
+1 
+1 
+ 
+Chamelea striatula 
+1 
+1 
+ 
+Timoclea ovata 
+1 
+1 
+ 
+Pholadomyoida 
+ 
+Thracia villosiuscula 
+1 
+1 
+2 
+ BRACHIOPODA 
+ 
+Inarticulata 
+ 
+Acrotretida 
+ 
+Novocrania anomala 
+6 
+22 
+28 
+ 
+Articulata 
+ 
+Terebratulida 
+ 
+Terebratulina retusa 
+1 
+1 
+ 
+Macandrevia cranium 
+3 
+3 
+ BRYOZOA 
+ 
+Bryozoa indet. 
+-1 
+-1 
+-2 
+ ECHINODERMATA 
+ 
+Ophiuroidea 
+ 
+Ophiurida 
+ 
+Ophiactis balli 
+1 
+5 
+6 
+ 
+Amphipholis squamata 
+5 
+9 
+14 
+ 
+Ophiuroidea indet. juv. 
+4 
+8 
+12 
+ 
+Echinoidea 
+ 
+Laganoida 
+ 
+Echinocyamus pusillus 
+1 
+1 
+ 
+Spartangoida 
+ 
+Spatangoida indet. juv. 
+1 
+1 
+ 
+Holothuroidea 
+ 
+Dendrochirotida 
+ 
+Psolus sp. juv. 
+1 
+1 
+ 
+Apodida 
+ 
+Labidoplax buskii 
+1 
+1 
+2 
+ 
+Leptosynapta inhaerens 
+1 
+1 
+ TUNICATA 
+ 
+Ascidiacea 
+ 
+Ascidiacea indet. (colony) 
+-1 
+-1 
+ 
+Maks: 
+35 
+55 
+90 
+ 
+Antall: 
+59 
+75 
+92 
+ 
+Sum: 
+425 
+ Stasjonsnr.:  Ref1 
+ CNIDARIA 
+ 
+Anthozoa 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+25 
+ Rekke 
+Klasse Orden Art/Taxa 
+01 
+02 
+Sum 
+ 
+Actiniaria indet. 
+3 
+3 
+6 
+ 
+Cerianthus lloydii 
+1 
+1 
+ PLATYHELMINTHES 
+ 
+Platyhelminthes indet. 
+1 
+1 
+ NEMERTINI 
+ 
+Nemertea indet. 
+3 
+2 
+5 
+ NEMATODA 
+ 
+Nematoda indet. 
+4 
+4 
+8 
+ SIPUNCULIDA 
+ 
+Sipunculida indet. 
+2 
+2 
+ 
+Sipunculida indet. juv. 
+2 
+2 
+ ANNELIDA 
+ 
+Polychaeta 
+ 
+Orbiniida 
+ 
+Aricidea catherinae 
+4 
+4 
+ 
+Aricidea cerrutii 
+1 
+6 
+7 
+ 
+Spionida 
+ 
+Aonides paucibranchiata 
+8 
+20 
+28 
+ 
+Laonice bahusiensis 
+1 
+1 
+ 
+Laonice sp. 
+1 
+1 
+ 
+Spiophanes bombyx 
+2 
+2 
+4 
+ 
+Spiophanes kroyeri 
+1 
+1 
+ 
+Chaetopterus variopedatus 
+31 
+6 
+37 
+ 
+Aphelochaeta sp. 
+1 
+1 
+2 
+ 
+Chaetozone sp. 
+1 
+1 
+ 
+Macrochaeta clavicornis 
+1 
+1 
+ 
+Capitellida 
+ 
+Heteromastus filiformis 
+1 
+1 
+2 
+ 
+Notomastus latericeus 
+4 
+1 
+5 
+ 
+Opheliida 
+ 
+Axiokebuita sp. 
+1 
+1 
+ 
+Scalibregma inflatum 
+1 
+1 
+ 
+Phyllodocida 
+ 
+Eteone flava/longa 
+2 
+1 
+3 
+ 
+Eumida bahusiensis 
+1 
+1 
+ 
+Harmothoe abyssicola 
+1 
+1 
+ 
+Malmgrenia mcintoshi 
+2 
+2 
+ 
+Polynoidae indet. 
+4 
+5 
+9 
+ 
+Pholoe assimilis 
+1 
+1 
+ 
+Pholoe baltica 
+5 
+2 
+7 
+ 
+Pisione remota 
+1 
+1 
+ 
+Gyptis rosea 
+1 
+1 
+ 
+Nereimyra punctata 
+1 
+1 
+ 
+Syllis armillaris 
+1 
+2 
+3 
+ 
+Syllidae indet. 
+1 
+1 
+ 
+Nereis zonata 
+3 
+3 
+6 
+ 
+Glycera capitata 
+6 
+5 
+11 
+ 
+Eunicida 
+ 
+Nothria hyperborea 
+1 
+1 
+ 
+Eunice pennata 
+1 
+1 
+ 
+Terebellida 
+ 
+Petta pusilla 
+1 
+1 
+ 
+Eupolymnia nesidensis 
+1 
+12 
+13 
+ 
+Polycirrus norvegicus 
+18 
+5 
+23 
+ 
+Sabellida 
+ 
+Chone sp. 
+5 
+8 
+13 
+ 
+Euchone sp. 
+1 
+1 
+ 
+Jasmineira caudata 
+3 
+4 
+7 
+ 
+Myxicola infundibulum 
+1 
+1 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+26 
+www.akvaplan.niva.no 
+ Rekke 
+Klasse Orden Art/Taxa 
+01 
+02 
+Sum 
+ 
+Hydroides norvegicus 
+37 
+16 
+53 
+ 
+Spirobranchus triqueter 
+26 
+5 
+31 
+ 
+Spirorbinae indet. 
+1 
+1 
+ 
+Oligochaeta 
+ 
+Oligochaeta indet. 
+1 
+1 
+ CHELICERATA 
+ 
+Pycnogonida 
+ 
+Pycnogonida indet. 
+1 
+1 
+ CRUSTACEA 
+ 
+Cirripedia 
+ 
+Thoracica 
+ 
+Sessilia indet. 
+-1 
+-1 
+-2 
+ 
+Malacostraca 
+ 
+Amphipoda 
+ 
+Ampelisca sp. 
+1 
+1 
+ 
+Iphimedia minuta 
+1 
+1 
+ 
+Lysianassidae indet. 
+1 
+1 
+ 
+Paraphoxus oculatus 
+1 
+1 
+ 
+Phoxocephalus holbolli 
+1 
+1 
+ 
+Gammaridea indet. 
+2 
+2 
+ 
+Isopoda 
+ 
+Janira maculosa 
+1 
+1 
+ 
+Decapoda 
+ 
+Natantia indet. 
+2 
+1 
+3 
+ 
+Galathea sp. 
+14 
+9 
+23 
+ 
+Paguridae indet. 
+1 
+1 
+ 
+Liocarcinus sp. 
+1 
+1 
+ 
+Hyas sp. 
+2 
+2 
+ MOLLUSCA 
+ 
+Polyplacophora 
+ 
+Lepidopleurida 
+ 
+Leptochiton asellus 
+11 
+24 
+35 
+ 
+Ischnochitonidae 
+ 
+Tonicella marmorea 
+2 
+2 
+4 
+ 
+Tonicella rubra 
+4 
+6 
+10 
+ 
+Stenosemus albus 
+6 
+15 
+21 
+ 
+Prosobranchia 
+ 
+Archaeogastropoda 
+ 
+Anatoma crispata 
+1 
+1 
+ 
+Emarginula fissura 
+1 
+1 
+ 
+Tectura virginea 
+12 
+8 
+20 
+ 
+Mesogastropoda 
+ 
+Velutina velutina 
+1 
+1 
+ 
+Euspira montagui 
+1 
+1 
+2 
+ 
+Euspira nitida 
+1 
+1 
+ 
+Opistobranchia 
+ 
+Nudibranchia 
+ 
+Nudibranchia indet. 
+1 
+2 
+3 
+ 
+Bivalvia 
+ 
+Mytiloida 
+ 
+Crenella decussata 
+1 
+1 
+ 
+Modiolula phaseolina 
+1 
+3 
+4 
+ 
+Mytilus edulis 
+3 
+3 
+ 
+Limoida 
+ 
+Limaria loscombi 
+5 
+1 
+6 
+ 
+Limatula subauriculata 
+2 
+5 
+7 
+ 
+Ostreoidea 
+ 
+Palliolum striatum 
+1 
+1 
+ 
+Heteranomia squamula 
+1 
+1 
+ 
+Veneroida 
+ 
+Parvicardium pinnulatum 
+2 
+2 
+ 
+Venerupis corrugata 
+1 
+1 
+ 
+Myoida 
+ 
+Hiatella sp. 
+1 
+1 
+ 
+Pholadomyoida 
+ 
+Thracia villosiuscula 
+1 
+1 
+ 
+Cochlodesma praetenue 
+1 
+1 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+27 
+ Rekke 
+Klasse Orden Art/Taxa 
+01 
+02 
+Sum 
+ BRACHIOPODA 
+ 
+Articulata 
+ 
+Terebratulida 
+ 
+Macandrevia cranium 
+1 
+1 
+ BRYOZOA 
+ 
+Bryozoa indet. 
+-1 
+-2 
+-3 
+ ECHINODERMATA 
+ 
+Asteroidea 
+ 
+Asteroidea indet. juv. 
+1 
+1 
+ 
+Ophiuroidea 
+ 
+Ophiurida 
+ 
+Ophiactis balli 
+2 
+2 
+ 
+Ophiopholis aculeata 
+3 
+3 
+ 
+Amphipholis squamata 
+4 
+7 
+11 
+ 
+Ophiura robusta 
+2 
+17 
+19 
+ 
+Ophiuroidea indet. juv. 
+7 
+4 
+11 
+ 
+Echinoidea 
+ 
+Echinoida 
+ 
+Echinoida indet. juv. 
+5 
+4 
+9 
+ 
+Laganoida 
+ 
+Echinocyamus pusillus 
+2 
+3 
+5 
+ 
+Spartangoida 
+ 
+Echinocardium flavescens 
+1 
+1 
+ 
+Spatangoida indet. juv. 
+1 
+1 
+ 
+Holothuroidea 
+ 
+Dendrochirotida 
+ 
+Ocnus lacteus 
+1 
+1 
+ 
+Apodida 
+ 
+Leptosynapta inhaerens 
+2 
+2 
+4 
+ TUNICATA 
+ 
+Ascidiacea 
+ 
+Ascidiacea indet. (colony) 
+-1 
+-1 
+ 
+Maks: 
+37 
+24 
+53 
+ 
+Antall: 
+66 
+77 
+101 
+ 
+Sum: 
+546 
+ 
+TOTAL: 
+Maks: 
+132 
+ 
+Sum: 
+1514 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+28 
+www.akvaplan.niva.no 
+ 
+Vedlegg 2. Analysebeviser 
+ 
+ 
+ 
+ 
+Lofoten Sjøprodukter as. C-undersøkelse Helligvær Øst, januar 2017. Forundersøkelse. 
+Akvaplan-niva AS Rapport 8770.03 
+29

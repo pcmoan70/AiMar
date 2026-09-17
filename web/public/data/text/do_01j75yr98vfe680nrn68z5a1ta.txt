@@ -1,0 +1,4710 @@
+﻿Andfjord Salmon
+» Risikovurdering Rømming KO
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01 Dato: 2022-05-06
+
+Norconsult «fo
+Risikovurdering Rømming KO &}
+3 : Norconsult ge
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+Oppdragsgiver: Andfjord Salmon
+
+Oppdragsgivers kontaktperson: Christine Thomassen
+
+Rådgiver: Norconsult AS
+
+Oppdragsleder: Stian Tandberg
+
+Fagansvarlig: Tor-Arne Helle
+
+Andre nøkkelpersoner: Elin Leintrø
+
+01 2022-05-06 Risikorapport rømming av fisk Andfjord Salmon | TAH Stian Tandberg Tor-Arne Helle
+
+Versjon Dato Beskrivelse
+
+Utarbeidet
+
+Fagkontrollert Godkjent
+
+Dette dokumentet er utarbeidet av Norconsult AS som del av det oppdraget som dokumentet omhandler. Opphavsretten tilhører
+
+Norconsult AS. Dokumentet må bare benyttes til det formål som oppdragsavtalen beskriver, og må ikke kopieres eller gjøres tilgjengelig
+på annen måte eller i større utstrekning enn formålet tilsier.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger
+
+2022-05-06 | Side 2 av 22
+Risikovurdering Rømming KO
+
+Norconsult é%
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+» Sammendrag
+
+Det er uført en risikovurdering i forbindelse med bygging av pilotanlegget til Andfjord Salmon.
+Anlegget baserer seg på gjennomstrømningsteknologi med oppforing av slaktefisk . I første
+byggetrinn vil selskapet produsere cirka 1000 tonn per år. Anlegget forventes ferdig sommer 2022.
+
+Vurderingen er utført for identifisere og iverksette tiltak der man mener dette er nødvendig for å
+oppnå tilfredstillend risiko i prosjektering, utførelse, leveranse og drift. Kravet om risikovurdering er
+hjemlet i forskrift om krav til teknisk standard for landbaserte akvakulturanlegg for fisk og videre
+krav satt opp i NS9416.
+
+Iboende risiko og risiko etter planlagte tiltak er dokumentert i eget system - EQS. EQS fungerer som
+et levende system under bygging og videre i drift. Denne rapporten er en dokumentasjon av
+gjennomført risikovurdering og hvordan identifiserte risikoer er tenkt håndtert i prosessen frem mot
+oppstart.
+
+Det er totalt funnet 42 punkter som er risikovurdert. 22 av disse vurdert til lav risiko etter uførte tiltak,
+eller tiltak ivaretatt i forbindelse med prosjektering. 16 punkter ligger i gult område, mens to har
+høyere risiko oppført i oransje farge.
+
+Kapitel 4.4 angir hvilke tiltak vi anser som hensiktsmessige for å redusere risiko.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 3 av 22
+Risikovurdering Rømming KO
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+Innholdsfortegnelse
+1 Innledning
+1.1 Bakgrunn for analysen
+1.2 Formål
+1.3 Forutsetninger og avgrensninger
+1.4 Omfang
+1.5 Forskrifter, standarder og andre styrende dokumenter
+2 Beskrivelse av analyseobjektet
+2.1 Utforming av anlegget — og levering
+2.2 Prosessflyt
+2:3 Prosjektering og bygging
+2.4 Drift og operasjon av avdelingene
+
+3 Analysemetodikk
+
+3.1 Risikomatrise med forklaringer
+ILA Risikoreduserende tiltak
+3.2 Analysemøtet
+
+4 Risikovurdering
+4.1 Risikovurdering av prosjektering og bygging
+4.1.1 Permanente laster
+4.1.2 Nyttelaster
+4.1.3 Miljølaster
+4.1.4 Seismisk påvirkning
+4.1.5 Ulykkeslaster
+4.1.6 Utførelse og bygging
+
+4.2 Fareidentifikasjon og tiltak
+4.3 Oppsummert risikobilde
+4.4 Anbefalte tiltak
+5 Konklusjon og usikkerhet
+5.1 Konklusjon
+5.1.1 Prosjektering, utførelse og leveranse
+5.1.2 Drift
+5.2 Usikkerhet
+6 Vedlegg
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger
+
+Norconsult é%
+
+O 0 IN 07059 0975 NN HW
+
+o
+
+on "xx => 9
+WO Oo
+
+NN -=s SO ea ea = mv
+O 00 09% 0 5309 OD
+
+NM PO NO NY N
+-— => —
+
+N
+N
+
+2022-05-06 | Side 4 av 22
+Risikovurdering Rømming KO
+
+Norconsult ote
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+1 Innledning
+
+1.1 Bakgrunn for analysen
+
+Figur 1. Anlegget ligger i Andfjord Kommune i Vesterålen (kilde: googlemaps.no)
+
+Andfjord Salmons anlegg på Andøy i Vesterålen er nå under bygging, Det er forventet at metoden som skal
+benyttes gir lav energikostnad sammenlignet med andre landbaserte teknologier. Målet med Andfjord
+Salmon har helt siden starten vært å utvikle den mest optimale driften av et oppdrettsanlegg, som er
+bærekraftig og som reduserer energiforbruket til et minimum.
+
+Sjøvannet hentes på 160 meters dyp med 7 grader gjennom hele vinteren og skal med denne metoden
+unngå lakselus-problematikken. Vannet pumpes inn i enden av bassenget og tas ut på andre siden gjennom
+to siler.
+
+Alle nye anlegg som prosjekteres etter at «Forskrift om krav til teknisk standard for landbaserte
+akvakulturanlegg for fisk» [2] trådte i kraft, dvs. etter 1. januar 2018, må dokumentere rømmingsteknisk
+tilstand til Fiskeridirektoratet før anlegget kan tas i bruk.
+
+I henhold til NS 9416:2013 [4] pkt. 4 skal det gjennomføres en risikovurdering av rømming basert på NS
+5814 [3] eller tilsvarende standard. Det skal foretas risikovurdering i forbindelse med prosjektering, utførelse,
+leveranse og drift.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 5 av 22
+Risikovurdering Rømming KO
+
+Norconsult é%
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+1.2 Formål
+
+Formålet med analysen er å identifisere og vurdere risikoen for rømming av fisk og barrierene for å hindre en
+slik hendelse. Analysen skal vurdere om risikoen er akseptabel i det nye anlegget og ved behov anbefale
+tiltak.
+
+1.3 Forutsetninger og avgrensninger
+
+Følgende forutsetninger og avgrensinger er lagt til grunn for analysen:
+
+e Analysen er begrenset til Andfjord Salmon KO (pilotanlegg).
+
+e Analysen er begrenset til normale drifts- og vedlikeholds aktiviteter.
+
+e Analysen er overordnet og kvalitativ.
+
+e Analysen betrakter pa generelt grunnlag ikke uavhengige og sammenfallende ugnskede hendelser.
+e Det forutsettes at det etableres prosedyre for drift, levering og beredskap.
+
+e For levering av fisk, forutsettes at det etableres prosedyrer for kommunikasjon mellom transportpunkter
+og testing av rør før transportering av fisk.
+
+Analysen tar utgangspunkt i anlegget slik det forelå på analysetidspunket, som det er beskrevet i denne
+rapporten og vedlegg. Dersom forutsetningene endres, må det gjøres nye vurderinger. Risikomatrisen vil
+holdes oppdatert frem til ferdigstilling og ev. endringer vil bli ivaretatt i denne. Risikomatrisen vil videreføres i
+drift i eget system - EQS.
+
+1.4 Omfang
+
+Denne risikoanalysen omfatter Andfjord Salmon — KO - pilotanlegg. Pilotanlegget består av et inntak med sil,
+inntaksrør, pumpesump, propp, basseng inne i ett basseng. Vannstanden følger flo og fjære og fordeles
+mellom bassengene. To siler i indre basseng fører fisk ut gjennom HAS og til sjø. Analysen omfatter også
+leveringssystem (transport av fisk)
+
+1.5 Forskrifter, standarder og andre styrende dokumenter
+
+Følgende forskrifter, standarder og andre styrende dokumenter er lagt til grunn:
+
+[1] FOR-2008-06-17-822. Forskrift om drift av akvakulturanlegg (akvakulturdriftsforskriften)
+
+[2] FOR-2017-06-19-941. Forskrift om krav til teknisk standard for landbaserte akvakulturanlegg for fisk
+
+[3] NS 5814:2021. Krav til risikovurderinger
+
+[4] NS 9416:2013. Landbaserte akvakulturanlegg for fisk. Krav til risikoanalyse, prosjektering, utførelse,
+drift, brukerhåndbok og produktdatablad
+
+[5] Veileder tilstandsanalyse av landbaserte akvakulturanlegg
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 6 av 22
+Risikovurdering Rømming KO
+
+Norconsult s%
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+2 Beskrivelse av analyseobjektet
+
+2.1 Utforming av anlegget — og levering
+
+Linjeoversikt Andfjord Salmon /| Fishfarm slanger 16"
+
+/ 11,8m x 15 stk 1
+Pamontert flyteseksjoner.
+/ (12-13 stk flytende i sjø) 1
+| 5
+Fishfarm slange 16" HDPE rør 16" %
+11,8m x 1 stk 12m x & stk | Hovedbaye
+
+| Dynema-tau | | | vinsjtau |
+|
+
+ss
+
+Forankring
+
+ØIF
+
+aa = ~ - å ” - .
+|
+Fishfarm slange 16" Temporær vinsj)
+2,5m x 1 stk
+
+Fortøyningspunfter mot
+bunn. Sikre motfavdrift.
+
+Fishfarm slanger 16" \ |
+11,8m x 2 stk
+akta | Siste 12m som
+ii monteres av
+1 servicebåt
+
+moringskjetting x 8 stk
+
+Eiva Safex Elephant med |
+
+TESS
+
+Figur 2. Plantegning leveringssystemet
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 7 av 22
+Risikovurdering Rømming KO
+
+Norconsult «
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+2.2 Prosessflyt
+
+Utdrag fra prosessdiagrammet for ett kar er vist i Figur 3 og Figur 4 nedenfor.
+
+Kvalnes Pilot - KD = TT ~ ~ Barrierekrav
+Kar: KO, totalt 1 giasstberkar Laks, 54 - 7.000 gram
+LrBrH=42r br m inkl. hoppekant Spalle (prim/set.) < 12 mm
+Hulisi (prøvar) = 16 mv"
+Hubs? (sekunder) < 22 mm
+Nofpore (sekunder) < 38 mm
+For andre former benytter enter:
+Diagonaimå! mot hufdiameder aker spabetvedde
+I p Mota og levenng _. » 1 Levenng
+| = ~_-Sumbehanaing iss
+a ‘ae val 4xe3somm | jigs
+en : fr x Å å
+: re | ag
+eae ote Ms = | NG BS 4
+ttle ts le Søk ne Øh d
+He I | å
+Lee I
+34405 mm ole == steg E
+~ 1
+| all Pi |
+gre ete 9 Å he i f
+| GE : Ht |
+ea NM mme | she : . et
+eae t= & Fam 0 EN Åm lee
+Aare * 4 å mr Me x % | ae | i FE Te Pari eae Ea Pager
+Figur 3. Prosessdiagram for kar
+Slam og aviapssystem Barrierekrav
+
+Laks, 64 - 7.000 gram
+Spalte = 12 mm
+Hullsil < 22 mm
+
+| Avvanning og
+
+Q
+
+Slam ROV > e- J Fi: se ml. Es
+(Nivakontroll (indre>—35g > ‘| | © | ‘i =z
+Nivakontrol ( -
+Slam og avløpssystem Barrierekrav
+
+Laks, 64 - 7.000 gram
+
+Spalte < 12 mm
+
+Ønsker dP trykkmåling fra: Hullsil = 22 mm
+(1) Innløp HAS 1, mot
+
+— , cs [2] Sjaki nedstrøms Framopumpe
+Daglig inspeksjon ! kamera’ 5
+
+HAS 1
+
+Figur 4. Prosessdiagram for hovedavløp
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 8 av 22
+Risikovurdering Rømming KO Norconsult oe
+@
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+2.3 Prosjektering og bygging
+
+Anlegget er prosjektert av ulike leverandører og knytt opp mot ulike kontrakter. Andfjord Salmon har et
+overordnet ansvar for å samle informasjon og utføre tilstrekkelig risikovurdering.
+
+2.4 Drift og operasjon av avdelingene
+
+Hovedoperasjonene som gjennomføres er mottak og leveranse av fisk. I tillegg kommer daglig røkting og
+oppføling av anlegget. Innløp og utløp har hatt særlig fokus i vurderingen.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 9 av 22
+Risikovurdering Rømming KO
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+3 Analysemetodikk
+
+Metoden baserer seg på retningslinjer i NS 5814:2008 Krav til risikovurderinger der risiko er et «Uttrykk for
+kombinasjonen av sannsynligheten for og konsekvensen av en uønsket hendelse» og NS 9416.
+Sannsynligheten reflekterer hvor ofte en uønsket hendelse forventes å inntreffe, mens konsekvensen
+reflekterer alvorlighetsgraden av hendelsen.
+
+Norconsult ote
+
+Analysen er gjennomført todelt, der det først er gjennomført en vurdering av dimensjonerende laster for
+prosjektering og bygging samt gjennomgang av 3D modell før en fareidentifisering og vurdering av
+operasjoner i drift ble gjennomført.
+
+Sannsynlighets- og konsekvensvurdering av drift av anlegget i denne analysen er gjort kvalitativt, basert på
+erfaring, trender og faglig skjønn.
+
+Registrering av risiko foregår i EQS levert av Extend. Extend Quality System (EQS) er et webbasert
+ledelsesverktøy som bidrar til oversikt, produktivitet og effektivitet, reduserte kostnader, kvalitet og oversikt
+over sikkerhet. Programvaren er bygd opp av moduler som kan settes sammen etter virksomhetens behov.
+
+3.1 Risikomatrise med forklaringer
+
+For å vurdere risiko er det valgt å benytte konsekvens- og sannsynlighetskategorier som beskrevet EQS
+
+systemet.
+
+Konsekvensene under er benyttet som hjelp når vi har vurdert konsekvens for ulike uønskede hendelser:
+
+KG 1
+
+KG 2
+
+KG 3
+
+Svikt opphever ikke
+dobbel sikring, og
+aktuelle barrierer har
+akseptabel tilstand.
+
+Små og middels
+
+Svikt opphever prinsippet
+om dobbel sikring, men
+fisk vil bli fanget opp i
+barrierer opp- eller
+nedstrøms.
+
+Aktuelle barrierer har
+akseptabel tilstand.
+
+Vesentlig
+
+Dobbel sikring oppheves
+ved svikt.
+
+Omfang av rømming
+vurderes til mindre
+(<1000 stk.)
+
+Store og alvorlige
+
+Dobbel sikring oppheves
+ved svikt.
+
+Omfang av rømming
+vurderes til stort (>1000
+stk.)
+
+Tabell 1. Konsekvensgrad i henhold til Veileder for tilstandsanalyse av landbaserte akvakulturanlegg.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger
+
+2022-05-06 | Side 10 av 22
+Risikovurdering Rømming KO Norconsult oe
+Q
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+Konsekvenskategorier er delt inn i fem nivåer:
+
+Konsekvenskategori
+
+Svært lav Svært lav konsekvens. 0 fisk rømmer
+
+Lav Lav konsekvens. Mindre enn 100 fisk rømmer
+
+Middels Middels konsekvens. Mindre enn 1000 fisk rømmer
+
+Høy Høy konsekvens. Mindre enn 10 000 fisk rømmer
+
+Svært høy Svært høy konsekvens. Inntil og over 100 000 fisk rømmer
+
+Tabell 2. Konsekvenskategorier
+
+Sannsynlighetskategorier er delt inn i fem nivåer:
+
+Sannsynlighetskategori
+
+Svært lav Svært lav sannsynlighet. 1 gang pr. 100 år
+
+Lav Lav sannsynlighet. 1 gang pr. 50 år
+
+Middels Middels sannsynlighet. 1 gang pr. 20 år (mindre enn1 hendelse på anlegget i dets
+levetid)
+
+Høy Høy sannsynlighet. 1 gang pr. 10 år (1 - 2 hendelser i anleggets levetid)
+
+Svært høy Svært høy sannsynlighet. 1 gang pr. år eller oftere (flere enn to hendelser på anlegget i
+dets levetid)
+
+Tabell 3 Sannsynlighetskategorier
+
+Ved vurdering av sannsynlighet er det tatt utgangspunkt i en forventet levetid for anlegget på 20 år. I tillegg
+er det to sannsynlighetskategorier med enda lavere sannsynlighet enn sannsynlighetsgradene i henhold til
+Veileder for tilstandsanalyse av landbaserte akvakulturanlegg. Dette er gjort for å vise at anlegget kan ha
+lenger levetid enn 20 år, og også for å harmonisere sannsynlighetsgradene med konsekvensområdene
+HMS, Ytre miljø, Fiskehelse og Fiskevelferd. Eksempelvis vil kategorien «Middels sannsynlighet» (mindre
+enn en hendelse på anlegget i dets levetid) bli vurdert som mindre enn en hendelse hvert 20 år.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 11 av 22
+Risikovurdering Rømming KO Norconsult ee
+9
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+Basert på konsekvens- og risikokategoriene, blir risikomatrisen seende slik ut:
+
+Rømming v|
+
+Sannsynlighet
+
+Svært høy
+Høy
+Middels
+Lav
+
+Svært lav
+
+Lav
+
+Konsekvens
+
+=
+eG
+iat
+:
+Å
+pt
+wey
+
+Svært høy
+
+Tabell 4. Risikomatrise
+
+Matrisen benyttes både for å angi hvor stor risikoen er, og for å kunne vurdere om risikoen er akseptabel.
+Fargene i matrisen tilsvarer også akseptkriteriene for risiko som er benyttet i denne analysen.
+
+Risikomatrisen har fire kategorier;
+
+e rgd tilsvarer uakseptabel risiko — tiltak må iverksettes
+
+e oransje angir konsekvensreduserende tiltak.
+
+e gul angir risiko som anbefales å senkes, men kan aksepteres
+e grønn innebærer at risiko er akseptabel
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 12 av 22
+Risikovurdering Rømming KO
+
+Norconsult é%
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+Risiko forventes fulgt opp som angitt i tabellen nedenfor:
+
+Akseptgrenser for risiko
+
+KN Høy risiko — ikke akseptabelt. Alle hendelser må vurderes med hensyn til
+risikoreduserende tiltak, og tiltak må gjennomføres før arbeidsoperasjonen
+settes I gang, eller i løpet av kort tid. Nye tiltak tidfestes i handlingsplan.
+
+Middels til forhøyet risiko. Drift kan utføres på dette risikonivå forutsatt strenge
+frekvens- og konsekvensreduserende tiltak.
+Akseptabel risiko. Tiltak for å redusere risiko skal vurderes.
+
+Lav risiko. Tiltak ikke nødvendig, men kan vurderes ut fra andre hensyn.
+
+Tabell 5 Akseptgrenser
+
+3.1.1 Risikoreduserende tiltak
+
+Risikoreduserende tiltak deles ofte i to kategorier:
+
+e Sannsynlighetsreduserende tiltak som virker forebyggende og reduserer sannsynligheten for at den
+uønskede hendelsen oppstår.
+
+e Konsekvensreduserende tiltak som vil redusere alvorligheten av en uønsket hendelse når den har
+oppstått.
+
+Dersom risikoen for en uønsket hendelse vurderes slik at hendelsen havner i rød eller oransje kategori skal
+(rød) eller bør (oransje) risikoreduserende tiltak vurderes. Tiltak må innføres i tilstrekkelig grad til at restrisikoen
+(risiko etter at tiltak er iverksatt) forskyves nok i matrisen til at den havner i sone for akseptabel risiko.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 13 av 22
+Risikovurdering Rømming KO
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+3.2 Analysemetet
+
+Norconsult é%
+
+Risikovurderingen ble gjennomført i flere omganger da det er utført ulike møter underveis, delvis med ulike
+leverandører innen del-leveranser. Det ble gjennomført fysisk møte den 16. mars 2022. Deltakere i
+
+analysemøtet er vist i Tabell 6 nedenfor.
+
+Risikovurderingen ble gjennomført som et heldags analysemøte med alle sentrale parter.
+
+Deltakere i analysemøtet:
+
+Tilstede
+Firma Representant
+Andfjord AS Christian Torgersen x
+Kenneth Jorgensen x
+Jostein Nilsen xX
+Christine Thomassen x
+TESS Lars Otto Fredriksen x
+Rune Røed Søhus X
+Morten Ursin x
+Stian Helgesen x
+Jan Ivar Lindseth Teams
+Norconsult Elisavet Tsaklidou x
+Tor-Arne Helle x
+Stian Tandberg Teams
+Bjørg Pauline Kurt Werner Johansen x
+Sten-Gustav Eide x
+Sverre Nilsen x
+
+Tabell 6. Deltakere i analysemøtet.
+
+I tillegg har det vært gjennomført møter med alle aktører.
+
+Møte ABB, El Team, Framo og Andfjord: Ukentlige framdriftsmøter ifm planlegging & risikovurdering imf
+
+vannfylling og oppstart strømsettere:
+
+e November-desember: Tirsdag, kl 12.00-13.00
+e Januar- pågående: Tirsdag, kl 8.30-9.30
+
+Møte ABB og Andfjord: Gjennomgang av regulering/alarmgrenser — KO:
+
+e 11. november 2021: kl 15.00-19.00
+e 29.mars 2022: kl 13.00-15.00
+e 27. april 2022: kl 15.00-17.00
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger
+
+2022-05-06 | Side 14 av 22
+Risikovurdering Rømming KO
+
+Norconsult «fo
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+Møte Tess, Nordlaks, Norconsult og Andfjord: Planleggingsmøter og risikovurdering ifm. smolt- og slakte-
+linje
+
+e 16. mars 2022: Heldagsmøte med alle aktører
+e 18. mars 2022: kl 9.00-10.00: Ukentlige møter med relevante aktører
+e 20. april 2022: kl 8.00-10.00: Oppfølgingsmøte med alle aktører
+
+HighComp: Basseng og trykkfallsvegg ble hovedsakelig gjennomgått i 2021.
+
+Uponor: Rørledning og inntakssil ble utført i 2021.
+
+ABB har deltatt på egne møter med Andfjord sammen med Norconsult.
+
+Internmøter Andfjord:
+
+e Flere ulike ukentlige møter hvor framdrift, risiko, leveranser, grensesnitt, osv. diskuteres og følges opp.
+
+I tillegg er det ukentlige møter mellom ansatte i Andfjord Salmon. Teams benyttes også for å utføre og sikre
+at aksjoner blir gjennomført.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 15 av 22
+Risikovurdering Rømming KO Norconsult ev
+@
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+4 Risikovurdering
+
+4.1 Risikovurdering av prosjektering og bygging
+
+Akvakulturanlegget er prosjektert og utført i henhold til krav i NS 9416:2013 [4]. Andfjord Salmon har rollen
+som utbygger av anlegget og er i så måte å forstå som prosjekterende foretak i henhold til «Forskrift om krav
+til teknisk standard for landbaserte akvakulturanlegg for fisk». Andfjord Salmon har blant annet engasjert
+Norconsult for utfyllende kompetanse. KO ble startet før krav om prosjekterende foretak.
+
+Dimensjonerende laster ble gjennomgått i analysemøtet for å sikre at dette er ivaretatt og at anlegget er
+sikret mot rømning av fisk. Anlegget er dimensjonert for laster i henhold til NS 9416:2013 [4]. 3D modellen av
+anlegget ble også benyttet i gjennomgangen. En nærmere beskrivelse er gitt i punktene nedenfor.
+
+Våre konklusjoner i denne risikovurderingen forutsetter at alle disse aksjonspunktene følges opp frem mot
+igangsetting av anlegget. En slik tilnærming vil naturlig følge utviklingen av anlegget og er en dynamisk
+prosess frem til drift.
+
+Nedenfor er det gjort vurderinger opp mot krav standarden knytt til laster.
+
+4.1.1 Permanente laster
+a. Utvendig trykk fra fylling av masse rundt karet:
+
+Det foreligger geoteknisk rapport. Karene er bygd på fjell. Statiske permanente laster på karet er
+dimensjonert. Beregninger er grunnlaget for sertifisering av karet, og laster som danner grunnlag for
+prosjekteringen er oversendt HigComp.
+
+Karener er sertifisert av HighComp, og samsvar med NS 9416 inngår i sertifisering. Hovedavløpssperre far
+egen brukerhåndbok.
+
+Det er rør under karet, men platen over rørene er så stiv at terrenget rundt vil ta opp all kraft.
+b. Punktlast
+
+Punktlaster er hensyntatt i beregningene av glassfiberkarene. NS 9416 er fulgt med hensyn til dette, og både
+permanente, midlertidige og variable laster er hensyntatt. Beregningsrapport er laget i forbindelse med
+sertifisering av kar, hvor forutsetningene for prosjektering av karene inngår. Forutsetningene er ivaretatt i
+kvalitetssikring av dokumentasjon.
+
+Alle grensesnitt ivaretatt og laster bekreftet innenfor aksept fra karleverandør.
+Når kar fylles og tømmes med vann har de noe bevegelse.
+
+Forankring av rør via stålkonstruksjon. Gangdekket er dimensjonert for laster. En belastingsplan for område
+vil avgrense plassering av laster. Selve området rundt består av er fjellgrunn med en liten utjevningsfylling.
+
+c. Setning i fundament.
+
+Anlegget er bygd på fjell, og det ble dokumentert tett da det ble bygd. Pga. grove masser er det liten
+sannsynlighet for utvasking.
+
+Geoteknisk rapport foreligger. Pga. fjell med et lite lag med grove masser er det ingen påvist risiko for
+setninger.
+
+d. Egenvekt av produksjonsenheter, pumper og rør
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 16 av 22
+Risikovurdering Rømming KO Norconsult ev
+@
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+Egenvekt pa komponenter pamontert kar er tatt med i dimensjonering av kar.
+
+Det er ikke identifisert noen risiko knyttet til belastninger pga. kran, da det er fjellgrunn tett pa karene. Kran
+star i eget fundamet på fjell.
+
+e. Egenvekt av fastmontert utstyr som ikke kan eller skal fjernes:
+
+Det er ikke identifisert fastmontert utstyr det ikke er dimensjonert for.
+
+4.1.2 Nyttelaster
+
+a. Vanni produksjonsenhet, rør:
+
+Det har vært søkelys på overganger og koblinger mellom syrefaste rør og PE-rør i prosjektering, slik at de
+skal passe sammen. Alle flenser er definerte så de skal passe sammen, og komplette systemer er brukt så
+mye som mulig.
+
+Alt av rør er sertifisert og i samsvar med design.
+
+b. Maskinelt flyttbart utstyr:
+
+Maskinelt flyttbart utstyr er tatt med i lastvurderingen for området.
+
+c. Lagret gods:
+
+Det er ingen lagring i forbindelse med karene.
+
+d. Flyttbare deler samt ekstralaster påført som et resultat av arbeidsoperasjoner, for eksempel vaksinering:
+
+Største identifiserte last rundt karene er fra vannet rundt. Utover dette er det utstyr på gangbane, detter er
+dimensjonert.
+
+e. Undertrykk ved tømming av produksjonsenhet:
+
+Ved normal drift vil det ikke forekomme undertrykk i rør, undertrykk i rør kan imidlertid forekomme ved
+feilstengt ventil ved levering av fisk. Rør og slanger som kan oppleve undertrykk er i hovedsak innenfor
+områdesikring. Samtidig er disse vurdert opp mot vakuum som kan oppstå.
+
+f. Trafikklaster:
+
+Det er ikke planlagt og dimensjonert for levering av smolt med lastebil. Avstandsbegrensning legges inn som
+forutsetning dersom det skulle bli aktuelt.
+
+9. Roterende og radielle stående bølger i produksjonsenhet: Beregningsgrunnlaget for sertifisering ivaretar
+denne problemstillingen. Produktet dimensjoneres i henhold til de laster som kan oppstå.
+
+4.1.3 Miljølaster
+a. Vind:
+
+Dimensjonering har tatt høyde for vindlaster, tomt kar og gangbruer.
+Snø:
+
+Anlegget er dimensjonert for snø i henhold til NS 3491-3
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 17 av 22
+Risikovurdering Rømming KO
+
+Norconsult é%
+
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+Is:
+
+Ising vil kunne oppstå nar anlegget ikke er i drift, men leveringsrør skal være tomt når det ikke er i bruk.
+Potensielle problemer knyttet til ising på det som henger over kar er tatt høyde for og er ivaretatt. Ingen
+forventet risiko knyttet til is.
+
+b. Regnvann:
+
+Ingen problemer knyttet til regnvann er identifisert. Det er god kapasitet i hovedavløpssperren. Ingen
+utvasking er forventet. Rør ut og inn av sperredamer er støpt tett.
+
+c. Vann
+
+Det er områdesperring med dam og berg rundt hele området. Hvis hele området oversvømmes skal det først
+renne over til hovedavløpssperra i slamkulvert og til sjø, før det renner over kanten på hele området. Pumper
+har ikke kapasitet til å løfte vann til denne høyden.
+
+d. Temperatur:
+
+Ingen risiko for frost er identifisert. Frost kan bare forekomme når anlegget står tomt.
+
+4.1.4 Seismisk påvirkning
+
+Anlegget er vurdert i henhold til NS-EN 1998, Eurokode 8 med hensyn til seismisk påvirkning. Nye seismiske
+dimensjoneringskrav foreligger, prosjektet er vurdert i henhold til gamle, mer konservative krav.
+
+4.1.5 Ulykkeslaster
+
+a. Kan brudd i rør føre til kollaps av andre deler av anlegget, inkl. grunnen?
+Kollaps av rør under plater vil ikke føre til at plater går i brudd.
+
+Det er ikke identifisert fare for utvasking. Highcomp har satt opp kriterier for kornstørrelser og
+komprimeringsgrad. Disse er fulgt.
+
+b. Kan brudd i tanker og kar føre til kollaps av andre deler av anlegget, inkl. grunnen?
+Ingen risiko for kollaps er identifisert.
+
+c. Kan dødfisk føre til brudd i tanker, kar, siler eller rister?
+
+Silene er dimensjonert for å tåle full tildekking. Ingen risiko for brudd er identifisert.
+
+d. Kan påkjørsler på tanker, kar, siler eller rør føre til kollaps av andre deler av anlegget som inneholder
+fisk, eller svikt i grunnen?
+
+Det er kjøretøy inne på anlegget og utstyr kan kjøres i stykker eller falle i vollgrav. Anlegget er imidlertid
+designet for at alt vann på avveie ledes til hovedavløpssperren, og den er dimensjonert for å kunne ta unna
+alt vann inne på anlegget
+
+Anlegget er ikke dimensjonert med kollisjonssikring, det er mulig å ødelegge ting inne på området, men det
+er ikke identifisert sammenfallende hendelser med kollisjon og svikt i barrierer som vil føre til rømming.
+Vannstand står tilnærmet likt med nivå til hav.
+
+e. Kartlegg ulike hendelser som følge av strømbrudd i anlegget
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 18 av 22
+Risikovurdering Rømming KO Norconsult ev
+@
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+Vannet flyttes med pumper, så strømbrudd vil ikke kunne føre til at vannet går feil vei.
+
+Det er aggregat på anlegget som vil brukes ved et strømbrudd, Det har kort oppkjøringstid ved strømstans,
+og kan medføre litt dropp i fluks, men medfører ingen fare for rømming og heller ingen fare for at noe går i
+stykker.
+
+4.1.6 Utførelse og bygging
+Kvalitetssystemet, EQS, er lagt opp til å følge prosedyrer under utførelse. Oppfølging under utbygging er
+
+vurdert til å ivareta risiko, også knytt til følgeskader av for eksempel materialsvikt, sammenføyninger eller
+armeringsfeil.
+
+4.2 Fareidentifikasjon og tiltak
+
+Llisten som danner grunnlaget for risikovurderingen er hentet ut fra EQS. Denne ligger som vedlegg til
+rapporten og er et statusbilde. Status endres kontinuerlig basert på erfaringer som opparbeides i prosjektet.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 19 av 22
+Risikovurdering Rømming KO Norconsult oe
+®
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+4.3 Oppsummert risikobilde
+
+Risiko - etter tiltak
+
+Grønn Gui Øransje Rød
+
+m Prosjektering mUtførelse mg Leveranse Drift
+
+Figur 5 viser status risiko per 4.5.2022 fordelt på prosjektering, utførelse, leveranse og drift.
+
+Det er identifisert 42 punkter for vurdering av risiko. 22 av disse er vurdert med lav risiko og angitt med
+grønn. Det er i hovedsak punkter innenfor prosjektering og drift som har middels risiko. I tillegg finnes to
+punkt med høyere risiko knytt til drift og prosjektering. Sistnevnte gjelder fare for brudd på kobling under
+levering. Ingen risiko står i høy (rød).
+
+4.4 Anbefalte tiltak
+
+Risikovurdering for Prosjektering — Risikoelement 6362 — Leveringssystem — Brudd i slange — Tiltak:
+Oppdatert fortøyningsanalyse for leveringssystemet.
+
+Risikovurdering for Drift — Risikoelement 6397 — Leveringssystem — Mottak smolt/levering laks med TESS
+slangelinje — Tiltak: Oppdatert fortøyningsanalyse for leveringssystemet.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 20 av 22
+Risikovurdering Rømming KO Norconsult ev
+@
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+5 Konklusjon og usikkerhet
+
+5.1 Konklusjon
+
+Det er identifisert 42 punkter knytt til risiko. Disse er vurdert først opp mot iboende risiko, samt knytt til hvilke
+tiltak som gjennomføres i prosjektering, utførelse, leveranser og drift. Deretter er disse vurdert mot ytterligere
+behov for tiltak slik at risiko er tatt ned. Alle tiltak er listet opp under fareidentifikasjon og tiltak, se vedlegg.
+Prosjektet står med 2 punkt i oransje risiko knytt til prosjektering og drift.
+
+5.1.1 Prosjektering, utførelse og leveranse
+
+Dimensjonerende laster ble gjennomgått i analysemøtet for å sikre at dette er ivaretatt og at anlegget er
+sikret mot rømning av fisk. 3D-modellen av anlegget ble også vist i møtet. Anlegget er dimensjonert for laster
+i henhold til NS 9416:2013. Utførelse av arbeid i henhold til prosjektering følges tett av prosjektledelse og har
+kvalitetskontroll fortløpende.
+
+Leveranser er i hovedsak råmaterialer eller deler som settes samme på lokalitet. Produkter og
+materialkvalitet følges opp fortløpende.
+
+5.1.2 Drift
+
+Kjente situasjoner under drift er vurdert. Her har man kommet frem til en del punkter som skal følges opp
+med tiltak eller prosedyrer.
+
+5.2 Usikkerhet
+
+Analysen er i all hovedsak kvalitativ og baserer seg på at analysegruppen har vært i stand til å avdekke
+relevante farer/forhold. Det kan være hendelser som er oversett på grunn av lav sannsynlighet og/eller at de
+aldri har inntruffet tidligere. Basert på gruppens sammensetning regnes det imidlertid vurdert som sannsynlig
+at relevante forhold er avdekket.
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 21 av 22
+Risikovurdering Rømming KO Norconsult oe
+®
+Oppdragsnr.: 5186783 Dokumentnr.: RA-001 Versjon: 01
+
+6 Vedlegg
+
+e Risikoelement fra EQS
+e Prosessdiagram
+
+e Plantegning
+
+e Risikovurdering fra ABB
+
+e Risikovurdering fra HighComp
+
+\\norconsultad.com\dfs\nor\oppdrag\Narvik\518\67\5186783\5 Arbeidsdokumenter\74 Risikovurderinger 2022-05-06 | Side 22 av 22
+04.05.2022, 10:05 
+Tekstrapport - EQS Risikovurdering Drift - K0 Kvalnes Andfjord Salmon 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+1/6 
+Tekstrapport 
+Meldings-ID 
+6376 
+Komponent 
+Arbeidsoperasjoner 
+Tittel 
+Bruk av åte/båt i bassenget til arbeidsoperasjoner, røkting, opptak av s k , lusetelling, opptak og ettersyn/renhold av måleinstrumenter 
+Mulig hendelse 
+Kollisjon mellom åte/båt og bassengvegg 
+Landgang fra platting til åte/båt kan belaste eller skade bassenget 
+Ikke tatt opp båt eller landgang mellom hver bruk 
+Mulige årsaker 
+Personell uten opplæring bruker åte/båt 
+Manglende ettersyn og vedlikehold av åte/båt 
+Uvær med mye vind 
+Etablerte tiltak 
+Opplæring av personell før bruk 
+Flåte/båt kan kun gå i sakte fart 
+Flåte/båt har god oppdrift 
+Ettersyn og vedlikehold av åte/båt og landgang 
+Værforbehold for bruk av b å t / å t e 
+Gangbaner rundt basseng gjør at å t e r ikke er nødvendig til daglig røkting og ettersyn 
+Opptak av åte/båt og landgang mellom hver bruk (heises opp av bassenget med kran) 
+Flåte/båt og landgang oppbevares og sikres forsvarlig mellom hver bruk, slik at de ikke kan løsne ogskade bassenget. 
+Kons.beskrivelse 
+Slagskade på bassengvegg. Ved brudd på bassengvegg vil s k og vann kunne komme ut i vollgrav. Fisk som har kommet ut i vollgrav vil bli stoppet i HAS. 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6401 
+Komponent 
+Arbeidsoperasjoner 
+Tittel 
+Dødskopptak (samarbeidskopi) 
+Mulig hendelse 
+Oppsamlingsrobot kan belaste eller skade bassengbunn eller bassengvegger 
+Klarer ikke å ta opp d ø d s k raskt nok ved høy dødelighet 
+Mulige årsaker 
+Slag fra tungt utstyr/robot eller tungt utstyr/robot som faller ned på bassengbunn 
+Systemet har ikke stor nok kapasitet ved høy dødelighet 
+Etablerte tiltak 
+Meox ROVmed dødskbur kjøres over bassengbunnen og suger opp d ø d s k og slam. Når buret med d ø d s k er fullt heises det opp med kran for overføring til dødskkar på 
+kai. Dødskkar transporteres til dødskrom for kverning og ensilering av dødsk. 
+Roboter har ingen skarpe kanter som kan skade bassenget, og har påmontert kamera for overvåkning av dødskoppsamling og opptak. All bruk blir kameraovervåket, og 
+operatører styrer opptak og er til stede under hele arbeidsoperasjonen. 
+Beredskapsavtale med Akva-Ren som har ekstra kapasitet for opptak av d ø d s k ved massedød 
+Kons.beskrivelse 
+Skade på bunnplater i bassenget. Begrenset mulighet for å komme ut gjennom bunnen, men mulig å komme via dreneringsrør til vollgrav. Dersom s k klarer å kommet ut i 
+vollgrav vil den bli stoppet i hovedavløpssperrer. 
+S0 
+4 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6410 
+Komponent 
+Arbeidsoperasjoner 
+Tittel 
+Renhold av basseng 
+Mulig hendelse 
+Renholdsutstyr kan belaste/skade bassengbunn eller vegger 
+Mulige årsaker 
+For stort trykk mot bassengvegg eller bunn under renhold 
+Slag fra tungt eller skarpt renholdsutstyr mot bassengvegg eller bunn. Renholdsutstyr faller ned på bunn 
+Etablerte tiltak 
+Meox vaskerigg: ROV med spyle-enhet med kavitasjonsdyser til spyling av bassengvegger inkludert trykkfallsvegg og parabolrom. 
+Daglig renhold av bassengbunn med Meox slamsuger. 
+Ettersyn/vedlikehold av ROVer i samsvar med brukermanual. 
+Operatører styrer og overvåker ROVer i arbeid. 
+ROVer har ingen skarpe kanter. 
+Kons.beskrivelse 
+Lokal svekkelse eller slagskade på bassengvegg/bunn. Ved brudd på bassengvegg vil s k og vann kunne komme ut i vollgrav. Fisk som har kommet ut i vollgrav vil bli stoppet 
+i hovedavløpssperrer. 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6411 
+Komponent 
+Arbeidsoperasjoner 
+Tittel 
+Trenging av s k ved levering av slaktesk eller annet behov 
+Mulig hendelse 
+Utstyr som brukes til trenging av s k kan belaste eller skade bassengbunn og bassengvegger 
+Mulige årsaker 
+Uriktig montering og bruk av capstan, taublokker, kran, arbeidsbåt, behandlingsnot eller shetlandsrist på/ved bassengkant og i basseng 
+Etablerte tiltak 
+Riktig montering og bruk av capstan, taublokker og kran. Brukerhåndbok for basseng beskriver begrensninger/maks belastning for festepunkter/vinsjepunkter, 
+taugjennomføringer og gangbane. 
+Prosedyre for trenging av s k . 
+04.05.2022, 10:05 
+Tekstrapport - EQS 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+2/6 
+Kons.beskrivelse 
+Ved skade/svikt i bassengvekk kan s k komme over i vollgrav. Fisk som har kommet ut i vollgrav vil bli stoppet i hovedavløpssperrer. 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6375 
+Komponent 
+Ekstrautstyr 
+Tittel 
+Bruk av capstan 
+Mulig hendelse 
+2 stk capstan med kapasitet 2 tonn hver, montert på kai på utløpsside 
+Skade på bassengvegg under bruk 
+Mulige årsaker 
+Tunge gjenstander kan slå inn i bassengvegg ved uriktig montering eller bruk 
+Svikt i fundament til capstaner 
+Etablerte tiltak 
+Riktig montering og bruk 
+Opplæring 
+Fundament for og innfesting av capstaner er tilstrekkelig dimensjonert. 
+Sertisert basseng 
+Brukerhåndbok basseng 
+Kons.beskrivelse 
+Slagskade på bassengvegg. Lokal skade/bristi veggpaneler. Ved brudd på bassengvegg vil s k og vann kunne komme ut i vollgrav. Fisk som har kommet ut i vollgrav vil bli 
+stoppet i HAS. 
+S0 
+4 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6377 
+Komponent 
+Ekstrautstyr 
+Tittel 
+Bruk av kran 
+Mulig hendelse 
+Svikt i kran eller kranas fundament under løft av vaskerigg eller andre tunge gjenstander over bassengkant 
+Hengende last/utstyr kan løsne og gi slag i basseng 
+Svingninger i hengende last og gi slag i bassengpaneler 
+Mulige årsaker 
+Ikke tilstrekkelig ettersyn og vedlikehold av kran 
+Løft av utstyr som er tyngre enn krankapasitet 
+Ikke tilstrekkelig dimensjonering av kranfundament. 
+Utstyr som løftes er ikke forsvarlig festet 
+Manglende opplæring 
+Etablerte tiltak 
+Sertisert kran, vedlikehold iht brukermanual, regelmessig ekstern kontroll av kran 
+Fundament for kran er dimensjonert til å tåle belastninger som er større enn maksimal krankapasitet 
+Kun personell med kranførerbevis bruker kranen 
+Kran har kapasitet til å løfte opp å t e og annet utstyr som brukes i bassenget 
+Forsvarlig festing av utstyr som skal løftes 
+Kons.beskrivelse 
+Slagskade på bassengvegg eller bunn. Ved brudd på bassengvegg vil s k og vann kunne komme ut i vollgrav. Fisk som har kommet ut i vollgrav vil bli stoppet i 
+hovedavløpssperrer. 
+S0 
+4 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6378 
+Komponent 
+Ekstrautstyr 
+Tittel 
+Bruk av taublokker til not eller annet arbeid 
+Mulig hendelse 
+For stor belastning på taublokkene 
+Svikt i bassengvegg der taublokkene er montert 
+Hvis taublokkfeste ryker under belastning/spenn, kan bassengvegger/bunn bli skadet av utstyr som er festet til taublokk 
+Mulige årsaker 
+8 taublokker, der 4 er festet oppå bassenghjørner og 4 festet oppå bassengkant midt mellom hjørnene. Disse festepunkter har en belastning på maks 2 tonn ved bruk av 
+capstan 
+Etablerte tiltak 
+Bassenget har spesielle punkter som er forsterket og beregnet for montering av taublokker og annet ekstrautstyr 
+Festepunktene på bassenget belastes ikke mer enn det de er beregnet for. 
+HighComp Brukermanual for basseng beskriver max belastning og riktig bruk. 
+Opplæring 
+Kons.beskrivelse 
+Slagskade på bassengvegg eller bunn. Ved brudd på bassengvegg vil s k og vann kunne komme ut i vollgrav. Fisk som har kommet ut i vollgrav vil bli stoppet i 
+hovedavløpssperrer. 
+S0 
+4 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+04.05.2022, 10:05 
+Tekstrapport - EQS 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+3/6 
+Meldings-ID 
+6382 
+Komponent 
+Ekstrautstyr 
+Tittel 
+Fôringssystem 
+Mulig hendelse 
+Fôrslanger, fôrspreder eller fôringskameraer belaster eller skader bassengvegger ellerbassengbunn 
+Mulige årsaker 
+Tyngde eller slag fra slange eller fallende/skarpe løse deler fra spreder eller kamera 
+Svikt i oppheng og sikring av utstyr fra blåse eller vaier 
+Manglende vedlikehold og ettersyn av utstyr 
+Etablerte tiltak 
+Fôrsilo i driftsbygg, slange fra fôrsilo føres gjennom driftsbygg og y t e r i vollgrav fram til føring over bassengkant ut til rotor fôrspreder. Stabil føring og ksering av slange 
+over bassengkant. Fôrspredere fortøyes i blåse/vaier i god avstand fra bassengkanter. Fôringskameraer festes i bøye og vinsj-system over bassenget og vil synke sakte pga 
+tilkoblet kabel 
+Kons.beskrivelse 
+Skade på bassengbunn eller vegger. Fisk som vil kunne rømme gjennom hull i basseng, vil havne i vollgrav. Fisk som har kommet ut i vollgrav vil bli stoppet i 
+hovedavløpssperrer 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6403 
+Komponent 
+Ekstrautstyr 
+Tittel 
+Utstyr i basseng - hengende/på bøye 
+Mulig hendelse 
+Måleutstyr/sensorikk/undervannslys monteres eller brukes slik at de belaster bassengbunn eller vegger. 
+Utstyr faller ned på bassengbunn 
+Mulige årsaker 
+Montering som gir for stor punktbelastning på vegger/bunn 
+Ikke god nok sikring/montering av hengende utstyr 
+Skarpe kanter på måleutstyr og lysarmaturer 
+Kraftig uvær/vind som kan rive løs utstyr 
+Etablerte tiltak 
+Måleinstrumenter festes i bøye med kabelføring i vaiere over bassenget i god avstand fra bassengvegger og bunn, og også i grid på vanninntaksside. Flere måleinstrumenter 
+samles i Seaguard instrumentholdere med oppdrift. 
+Daglig ettersyn og kontroll av måleutstyr og innfesting. Ikke skarpe kanter på måleutstyr. Måleutstyr vil synke sakte på grunn av tilkoblet kapel. Biomassemåler har egen 
+oppdrift. 
+Kons.beskrivelse 
+Svekkelse av bassengbunn eller bassengvegger. Ved hull i bassengvegg kan s k komme over i vollgrav. Fisk som har kommet ut i vollgrav vil bli stoppet i hovedavløpssperrer. 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6380 
+Komponent 
+Ettersyn 
+Tittel 
+Ettersyn og vedlikehold 
+Mulig hendelse 
+Manglende ettersyn og vedlikehold av basseng, komponenter og utstyr som er relevant for rømming av s k 
+Ikke dokumentasjon av utført ettersyn og vedlikehold 
+Mulige årsaker 
+Ikke gode nok/etablerte rutiner for ettersyn og vedlikehold 
+Opplæring 
+Værforhold som hindrer arbeid på lokaliteten 
+Etablerte tiltak 
+Ettersyn og vedlikehold utføres etter brukerhåndbok eller produktdatablad for utstyrsom skal ha dette. 
+Bassenget, inkludert lterramme, spoiler, parabol, vannbalanse, vannbalansesiler, slamavsug og utløpssiler, er sertisert og har brukerhåndbok som beskriver ettersyn og 
+vedlikehold. 
+Ettersyn og vedlikehold for utstyr/deler legges inn i vedlikeholdsprogram Premaster, med varsel, arbeidsordre og dokumentasjon av utført arbeid. 
+Dersom HAS fjernes for inspeksjon/renhold/vedlikehold vil dette skje i tråd med pkt 7.7 i NS 9416 ogegne HAS-prosedyrer. 
+Nødvendig reservelager på anlegget for viktig utstyr 
+Opplæring av personell 
+Kons.beskrivelse 
+Manglende inspeksjon og vedlikehold basseng, komponenter og utstyr kan medføre skader/svikt i basseng eller siler/lter med rømming av s k til vollgrav. Fisk som har 
+kommet ut i vollgrav vil bli stoppet i hovedavløpssperrer (HAS). Svikt eller fjerning av HAS kan medføre rømming til sjø dersom samtidig svikt i primærbarrierer. 
+S0 
+4 
+S 
+3 
+K 
+3 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6381 
+Komponent 
+Leveringssystem 
+Tittel 
+Fortøyning av brønnbåt 
+Mulig hendelse 
+Brønnbåten kan komme ut av posisjon under levering 
+Slange og koblinger kan løsne, bli skadet eller uheldig belastet pga bevegelse i brønnbåten 
+Mulige årsaker 
+Ikke godt nok tilrettelagt system for fortøyning av brønnbåt 
+For mye vind og bølger under levering 
+Etablerte tiltak 
+Fortøyningssystem oppfyller krav i NS 9416. 
+Brønnbåt holder posisjon ved hjelp av DP. 
+Godt samarbeid med brønnbåt ved levering/mottak 
+Det tas hensyn til strøm- og vindretning 
+Kontinuerlig radiokommunikasjon med operatører som utfører trenging i basseng 
+Værforbehold ved levering/mottak 
+Kons.beskrivelse 
+Rømming av s k gjennom leveringssystemet 
+04.05.2022, 10:05 
+Tekstrapport - EQS 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+4/6 
+S0 
+4 
+S 
+2 
+K 
+4 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6397 
+Komponent 
+Leveringssystem 
+Tittel 
+Mottak smolt/levering laks med TESS slangelinje 
+Mulig hendelse 
+Slangebrudd under overføring av smolt - slangeseksjoner løsner i enser 
+Kollaps av slangelinje 
+Kobling mot brønnbåt løsner 
+Slangen tømmes ikke før frakobling 
+Mulige årsaker 
+Fortøyning for svak for bølge, vind og strøm på Kvalnes 
+Feilmontering av slangelinje (eget risikoelement under Utførelse) 
+For stort strekk og bevegelse i slangelinje (bukting, avdrift) under operasjon 
+Laster fra vind, bølger og strøm 
+Bortfall av motorkraft eller DP brønnbåt 
+Mangelfull kommunikasjon brønnbåt og AS 
+Feilvurdering av værforhold (vind, bølger og strøm) før oppstart operasjon 
+Etablerte tiltak 
+Montering av slangeline iht. TESS monteringsprosedyre 
+Forankring av slangelinje basert på fortøyningsanalyse. Godt forankert fortøyningsline langs hele slangelinja og sidefortøyninger har støttefunksjon for å unngå strekk i 
+slangen og for stor sidebevegelse/avdrift pga bølger, strøm og vind. 
+Standard C - o w kobling til brønnbåt 
+Ekstra lengde på slangen i form av bue mellom ytterste bøye og båt for å hindre laster på slangelinje fra brønnbåt 
+Tetthetskontroll etter montering utføres av AS og servicebåt 
+Brønnbåt BP trykktester slangen før overføring av s k 
+Nødprosedyre for avkobling og plugging av rør. 
+Kun levering av slaktesk og mottak smolt ved værforhold innenfor akseptgrense for slangelinje (fortøyningsanalyse), brønnbåt på DP, servicebåt for kobling 
+slangelinje/brønnbåt og for s k e n s velferd under overføring. Vurdering av værforhold tas i samarbeid med brønnbåt og servicebåt. 
+Brønnbåt ligge på DP 
+Radiokommunikasjon under leveringen mellom brønnbåt og operatør som utfører trenging av sk/mottar smolt 
+Slangen tømmes før frakobling skjer. 
+Det kjøres pigg gjennom slange for å sikre at det ikke er laks i slange før frakobling. 
+Kons.beskrivelse 
+Fisk i slange kan rømme 
+S0 
+4 
+S 
+4 
+K 
+3 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6383 
+Komponent 
+Områdesikring 
+Tittel 
+Motorisert t r a k k ved kanten av vollgrav 
+Mulig hendelse 
+Utforkjøring i vollgrav/basseng fra kjøretøy, som kan føre til at bassengvegg blir ødelagt 
+Påkjørsel av utstyr ved bassengkant, der påkjørt utstyr kan skade basseng, rørsystem eller utløpspropp/skefelle 
+Mulige årsaker 
+Uvedkommende tar seg inn på bassengområdet - sabotasje 
+Uhell ved kjøring av tunge kjøretøy på anlegget (fôrbil, ensilasjebil, oksygenbil, hjullaster, truck, kranbil) 
+Etablerte tiltak 
+Kraftig gjerde rundt vollgraven sikrer mot ferdsel/kjøring inntil vollgrav og basseng, og hindrer at kjøretøy/gjenstander kan falle ned i vollgrav og ødelegge bassengvegg. 
+Inngjerdet/sikret område rundt oksygentank og adkomst oksygenbil 
+Ensilasjetank og adkomst ensilasjebil i god avstand fra bassenget 
+Fôrsiloer og fôrmottak inne i låst driftsbygg i god avstand fra basseng 
+Overvåkningssystem på anleggsområdet 
+God belysning på området 
+Kons.beskrivelse 
+Fisk som har kommet ut i vollgrav vil bli stoppet i hovedavløpssperrer 
+S0 
+2 
+S 
+1 
+K 
+3 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6402 
+Komponent 
+Oppdrettsbasseng 
+Tittel 
+Highcomp basseng og inkludert utstyr (samarbeidskopi) 
+Mulig hendelse 
+Svekkelse av basseng og gangbaner 
+Mulige årsaker 
+Feil bruk av bassenget, som overskrider begrensninger eller maksimale belastninger 
+Ikke utført inspeksjoner og vedlikehold 
+Store mengder snø og is på gangbanene 
+Etablerte tiltak 
+Bassenget er sertisert av Akvasafe.Utstyr inkludert i basseng-sertisering: 
+stål støttestag, gangbaner, lterramme til trykkfallsvegg, spoiler, paraboler, vannbalansesystemet inkl. siler, siler fra slamsug (indre vannbalanse), utløpssiler. 
+Brukermanual levert fra Highcomp følges for bruk, inspeksjoner og vedlikehold 
+Begrensninger for bruk av bassenget er oppgitt i brukermanual og sertikat: 
+Godkjent for vannsøyle: 17,5 meter (±0,9 m) 
+Tillatt overhøyde(h)inne: større enn 0mm og mindre enn 100mm 
+Maksimal last gangbane: 2,5kN/m (250 kg/meter) 
+Snømåking gangbaner 
+04.05.2022, 10:05 
+Tekstrapport - EQS 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+5/6 
+Kons.beskrivelse 
+Lokal svekkelse av bassengstruktur, deformasjoner, sprekker 
+Store skader/hull og svikt i siler kan føre til at s k kommer over i vollgrav og utløpsrør. 
+Fisk i vollgrav og utløpsrør vil bli stoppet i hovedavløpssperrer (HAS 1 og HAS 2). Fisk som har kommet inn i parabolrom vil bli stoppet i barriere 2 på vanninntak (inntakssil) 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6404 
+Komponent 
+Oppdrettsbasseng 
+Tittel 
+Hoppesikring basseng 
+Mulig hendelse 
+Fisk hopper over bassengkant 
+Mulige årsaker 
+Manglende sikring mot hopping, eller ikke høy nok sikring 
+Etablerte tiltak 
+Ved normal vannstand er det 3 meter fra vannate til bassengkant. I et 100-års perspektiv vil vannstanden, som er styrt av o og fjære, kunne stige med 174 cm over havnivå 
+(ref. yr.no). I en slik ekstremsituasjon vil det fortsatt være 134 cm opp til karkant. Dette er samme sikkerhetsnivå på hoppesikring som på sjømerder. 
+Kons.beskrivelse 
+Rømming av s k over bassengkant. Hvis s k e n klarer å hoppe over bassengkanten, vil den havne i vollgraven rundt bassenget. Fisk som har kommet ut i vollgrav vil bli 
+stoppet i hovedavløpssperrer. 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6408 
+Komponent 
+Oppdrettsbasseng 
+Tittel 
+Isdannelse 
+Mulig hendelse 
+Isdannelse i basseng og vollgrav 
+Mulige årsaker 
+Lave lufttemperaturer og stillestående vann 
+Etablerte tiltak 
+Vanngjennomstrømming i basseng og vollgrav og temperert vann forebygger dannelse av islag på vannoveraten. 
+Kons.beskrivelse 
+Skade på bassengvegg på grunn av is. Fisk som har kommet ut i vollgrav vil bli stoppet i hovedavløpssperrer. 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6409 
+Komponent 
+Oppdrettsbasseng 
+Tittel 
+Taknett 
+Mulig hendelse 
+Fugl kan plukke opp s k fra bassenget 
+Fugl nært vannaten kan stresse s k e n 
+Fugl kan forstyrre fôring 
+Mulige årsaker 
+Manglende taknett. 
+For stor slakk i taknett 
+For stor maskevidde som fugl kan y inn/ut av. Hull i taknett 
+Etablerte tiltak 
+Montering av taknett i samsvar med brukerhåndbok for basseng 
+Taknett med passende maskevidde over hele bassenget 
+Daglig ettersyn av taknett og reparasjon og etterstramming ved behov 
+Kons.beskrivelse 
+S0 
+4 
+S 
+2 
+K 
+1 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6405 
+Komponent 
+Siler 
+Tittel 
+Inntakssil på sjøbunn - barriere 2 inntak 
+Mulig hendelse 
+Svikt/skade på inntakssil 
+Mulige årsaker 
+Objekter eller mljølaster skader inntaksmodulen/silene 
+Silplatene i inntakssil går tett på grunn av begroing eller objekter som legger seg på/over silen 
+Etablerte tiltak 
+Inntakssil har spalter med 11 mm spalteåpning og oppfyller krav til siler i NS9416 og barrierekrav for minste skestørrelse 64 gram med spalter < 12 mm. 
+Periodisk inspeksjon av sil 
+Renhold av sil ved hjelp av dykkere og ROV ved behov 
+Tiltetting av sil vil bli oppdaget som reduksjon i vannow/vannstand. Vannow og vannstand har kontinuerlig overvåkning med alarmer. 
+Prosedyre for ettersyn av inntakssil 
+Kons.beskrivelse 
+Mulighet for rømming dersom samtidig svikt i trykkfallsvegg (primærbarriere) og inntakssil (sekundærbarriere). Fisken vil måtte komme seg gjennom strømsettere i sterk 
+04.05.2022, 10:05 
+Tekstrapport - EQS 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+6/6 
+motstrøm (forutsatt at strømsettere er i drift) for å svømme gjennom inntakspropp og inntaksrør til inntakssil. 
+S0 
+2 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6406 
+Komponent 
+Siler 
+Tittel 
+Trykkfallsvegg- barriere 1 inntak 
+Mulig hendelse 
+Svikt i trykkfallsvegg 
+Mulige årsaker 
+Silplatene i trykkfallsvegg kan gå tett på grunn av begroing eller masser som legger seg på silplatene 
+Etablerte tiltak 
+Platene i trykkfallsveggen har runde hull med 12 mm lysåpning, som oppfyller krav til siler i NS9416 og barrierekravene for minste skestørrelse på 64 gram med minimum 
+lysåpning på 16 mm for hullsiler. 
+Inntaksil hevet over bunn hindrer innsuging av masser på sjøbunn 
+Sil på vanninntak i sjøen hindrer store partikler i å komme inn i vannrør. 
+Regelmessig renhold av trykkfallsvegg med tilpasset kavitasjonsvasker fra Meox 
+Ettersyn og vedlikehold i henhold til produktdatablad 
+Prosedyre for ettersyn av trykkfallsvegg 
+Kons.beskrivelse 
+Skade på trykkfallsvegg som gjør at s k kommer inn i parabolrom. Fra parabolrom er det mulig for s k e n å svømme motstrøms inn i rør til inntakspropp, gjennom 
+strømsetter i inntakspropp og videre ut mot inntakssil i sjøen. Fisk som klarer å passere strømsettere (ved stans) vil bli stoppet i inntakssil som er sekundærbarriere på 
+inntakssiden. 
+S0 
+4 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6407 
+Komponent 
+Siler 
+Tittel 
+Siler i basseng - barriere 1 utløp 
+Mulig hendelse 
+Svikt eller skade på utløpssiler, slamavsugsiler eller vannbalansesiler 
+Mulige årsaker 
+Silene utsettes for større trykkdieranse enn de er dimensjonert for. 
+Utløpssilene kan gå tett på grunn av begroing, slam eller d ø d s k som legger seg på sil 
+Slagskade/mekanisk skade fra utstyr som brukes i basseng 
+Mangelfullt ettersyn og vedlikehold 
+Etablerte tiltak 
+Alle siler oppfyller kravene til siler i NS 9416 og primær- barrierekravene for minste skestørrelse 64 gram med spalter < 12 mm og hullsil < 16 mm 
+Minstestørrelse på s k tas hensyn til ved valg av smoltstørrelse. 
+Daglig opptak av d ø d s k ved hjelp av ROV. God kapasitet på dødskopptak. Beredskapsavtale med Akva-Ren. 
+Daglig kameraovervåkning av dødelighet, bassengbunn, siler og avsug ved hjelp av kamera på ROV. 
+Daglig fjerning av partikler og slam fra bassengbunn ved hjelp av ROV med slamsug. 
+Godt renhold av siler, avsug, vegger og bunn i bassenget ved hjelp av vaske-ROV 
+Prosedyre for ettersyn av siler i basseng. 
+Kons.beskrivelse 
+Ved svikt i siler vil s k bli stoppet i hovedavløpssperrer. Ved samtidig svikt i/fjerning av siler og HAS/sekundærbarrierer kan s k rømme til sjø. 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6412 
+Komponent 
+Siler 
+Tittel 
+Siler - barriere 2 utløp 
+Mulig hendelse 
+Svikt eller skade 
+Mulige årsaker 
+Silene utsettes for større trykkdieranse enn det de er dimensjonert for. 
+Utløpssilene kan gå tett på grunn av begroing eller slam eller d ø d s k som legger seg på sil 
+Manglende inspeksjon, renhold og vedlikehold av HAS 
+Etablerte tiltak 
+Risikobasert tilsyn på HAS og andre rømmingsbarrierer 
+Daglig inspeksjon av hovedavløpssperrer (HAS1 og HAS 2) 
+Dersom HAS fjernes for inspeksjon/renhold/vedlikehold vil dette skje i tråd med pkt 7.7 i NS 9416 ogegne HAS-prosedyrer for ettersyn, renhold og vedlikehold. 
+Alarmer for trykkdieranse for HAS som indikerer tiltetting/rømming 
+Kons.beskrivelse 
+Rømming til sjø kan skje ved samtidig svikt i primær- og sekundærbarrierer 
+S0 
+3 
+S 
+2 
+K 
+4 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+02.05.2022, 22:48 
+Tekstrapport - EQS Risikovurdering Leveranse - K0 Kvalnes Andfjord Salmon 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+1/1 
+Tekstrapport 
+Meldings-ID 
+6391 
+Komponent 
+Rør og slanger 
+Tittel 
+Skadet leveranse 
+Mulig hendelse 
+Materialfeil på levert produkt- eksmepelvis slanger 
+Skade på levert produkt - eksempelvis rør eller slanger 
+Mulige årsaker 
+Rør har produksjonsfeil eller har blitt skadet under transport/lagring 
+Etablerte tiltak 
+Kontroll av varer inn på området. Lagring i henhold til produsenters anbefalinger. Redusert t r a k k nær lagringsområde. 
+Kons.beskrivelse 
+Skader på slanger kan gi overraskelser under bruk og s k kan komme på avveie. 
+Rør blir gravd ned i bakken og vil ikke representere stor fare for rømming. 
+S0 
+3 
+S 
+3 
+K 
+2 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+04.05.2022, 09:45 
+Tekstrapport - EQS Risikovurdering Prosjektering - K0 Kvalnes Andfjord Salmon 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+1/5 
+Tekstrapport 
+Meldings-ID 
+6385 
+Komponent 
+Alarmsystem 
+Tittel 
+Overvåkning og alarmsystem 
+Mulig hendelse 
+Svikt i alarmsystem på utstyr som i følge NS9416 skal ha alarm for å forebygge rømming 
+Manglende alarm på utstyr som er viktig for å forebygge rømming 
+Mulige årsaker 
+Manglende ettersyn og vedlikehold av alarmsystemet 
+Manglende testing av alarmsystemet 
+Etablerte tiltak 
+Utført teknisk risikovurdering FMEA i regi av ABB for kraftforsyning, nettverkskommunikasjon, nivåregulering, vanngjennomstrømming samt for utstyr som er kritisk for 
+skevelferd. 
+Automasjon med driftskontroll, driftsstyring og alarmsystemer levert fra ABB. Alarmer 24 timers mobil + analog på kontrollrom og til driftspersonell. 
+Driftsavtale om service og overvåkning av automasjonssystemet og alarmer 
+Alarmsystem for strømbrudd 
+Alarmsystem for høy og lav vannstand i basseng og vollgrav (vannbalansesystemet) 
+Alarmsystem for vanngjennomstrømming/strømsettere 
+Alarm for HAS utløpspropp (fra utløpssiler) - trykksensor 
+Alarm for HAS indre nivåkontroll (overow, mottar vann fra slamavsug i basseng) - o t t ø r fra vannstand i overow-kum 
+Alarm for sekundærbarriere i ytre nivåkontroll (sil i silhus etter sumppumpe) - dp trykkdieranse 
+Alarm for sekundærbarriere i vanninntak (inntakssil) - owmåler 
+Daglig inspeksjon av HAS på utløpssiden og ettersyn/vedlikehold i samsvar med brukermanual 
+Kons.beskrivelse 
+Fisk vil kunne rømme til sjø dersom primær og sekundærbarrierer med tilhørende alarmsystemer svikter samtidig. Svikt i kun alarmsystem vil ikke medføre rømming dersom 
+barrierene er intakte. 
+S0 
+4 
+S 
+2 
+K 
+3 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6374 
+Komponent 
+Avløp 
+Tittel 
+Avløpssystem - hovedavløpssperrer HAS 
+Mulig hendelse 
+Svikt i HAS1 i utløpspropp eller HAS 2 i o v e r o w 
+Små s k kommer gjennom HAS 
+HAS fjernes for renhold/eller vedlikehold mens det kan være s k mellom primærbarrier og sekundærbarrierer 
+Mulige årsaker 
+HAS er for svake for maks vannow, vanntrykk, full tilstopping eller store mengder d ø d s k 
+Organisk materiale tetter igjen hull/spalter i HAS 
+Manglende inspeksjon, renhold og vedlikehold av HAS 
+Utsett av mindre skestørrelse enn HAS er beregnet for 
+Frost/isdannelse i HAS i utløpspropp kan redusere funksjonen 
+Etablerte tiltak 
+HAS 1 i utløpspropp (skefelle) har permanent sil med 12 mm spalteåpninger, som i følge tabell i NS9416 er sikkert for skestørrelse ned til 65 gram.Fiskefella er plassert i 
+kammeret nærmest bassenget i utløpsproppen, slik at den hindrer s k , som har kommet gjennom karsiler, i å komme inn i strømsetteren i ytterste kammer i utløpsproppen. 
+Kammeret er skråstilt slik at s k vil skyves til siden og opp på bakkenivå, mens vannet går gjennom silen. Fiskefella i utløpsproppen er sikret mot frost, isdannelse og 
+adkomst for uvedkommende. Vannstand i skefelle i utløpspropp videoovervåkes og har alarmsystem som utløses ved for høy vannstand. 
+HAS 2 i o v e r o w er en sil med 10 mm spalter i bunnen av overow. 
+Risikobasert tilsyn med rømmingsbarrierer 
+Daglig inspeksjon for å se om det er s k i HAS 1 og HAS 2 
+Renhold av HAS i utløpspropp og HAS i o v e r o w kan utføres med høytrykksspyler 
+Begge HAS er dimensjonert og styrkeberegnet til å tåle trykket av tett sil og samtidig fullt vanntrykk, i tråd med krav i NS 9416. 
+Begge HAS oppfyller kravene til HAS i NS 9416 og barrierekravene for minste skestørrelse 64 gram med spalter < 12 mm og hullsil < 22 mm. 
+Dersom HAS fjernes for inspeksjon/renhold/vedlikehold vil dette skje i tråd med pkt 7.7 i NS 9416 ogegne HAS-prosedyrer. 
+Kons.beskrivelse 
+Fisk kan rømme til sjø hvis samtidig svikt i/fjerning av primærbarrierer og sekundærbarrierer (HAS) 
+S0 
+4 
+S 
+1 
+K 
+5 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6373 
+Komponent 
+Avløp 
+Tittel 
+Avløpssystem - barrierer 
+Mulig hendelse 
+Svikt i primærbarrierer (vegger og siler i bassenget), og s k kommer inn i avløpsrør fra basseng eller vollgrav og videre ut i avløp til sjø 
+Mulige årsaker 
+Feil i prosjektering eller utførelse av rørsystem 
+Svikt i bassengvegg eller siler eller l t e r i basseng som er primærbarrierer (eget risikoelement) 
+Manglende sekundærbarrierer mot rømming for alle avløp. 
+Etablerte tiltak 
+Utløpsrørene fra de 2 store utløpssilene (primærbarrierer) i bassenget går til hovedavløpssperre (HAS 1, sekundærbarriere) i utløpspropp. 
+Vann fra de 4 slamavsugene med siler (primærbarrierer) i bassenget går til hovedavløpssperre (HAS 2)i Overow i slamrommet, og deretter ut i 800 rør til resipient. 
+Vann fra vollgrav går delvis inn på utløpsrør fra bassenget og til HAS i utløpspropp før utløp til sjø. En del av vannet fra vollgrav kan gå gjennom en sumppumpe med 
+tilbakeslagsventil og l t e r (rømmingsbarriere) og videre i 800 utløpsrør til sjø. 
+Dødskrom har gulvsluk med sil som fungerer som rømmingsbarriere, dersom levende s k skulle falle pågulvet. 
+Slamrom har gulvsluk med sil som fungerer som rømmingsbarriere, dersom O v e r o w (HAS 2) i slamrom gårtett og s k og vann skulle renne over kanten på Overow. 
+Risikobasert tilsyn på HAS og andre rømmingsbarrierer 
+Daglig inspeksjon av hovedavløpssperrer (HAS1 og HAS 2) 
+Dersom HAS fjernes for inspeksjon/renhold/vedlikehold vil dette skje i tråd med pkt 7.7 i NS 9416 ogegne HAS-prosedyrer. 
+Kons.beskrivelse 
+Rømming til sjø kan skje ved samtidig svikt i primær- og sekundærbarrierer 
+S0 
+3 
+S 
+2 
+K 
+4 
+R0 
+R 
+Kun 
+04.05.2022, 09:45 
+Tekstrapport - EQS 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+2/5 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6379 
+Komponent 
+Dødsksystem 
+Tittel 
+Dødskopptak 
+Mulig hendelse 
+Oppsamlingsrobot kan belaste eller skade bassengbunn eller bassengvegger 
+Klarer ikke å ta opp d ø d s k raskt nok ved høy dødelighet 
+Mulige årsaker 
+Slag fra tungt utstyr/robot eller tungt utstyr/robot som faller ned på bassengbunn 
+Systemet har ikke stor nok kapasitet ved høy dødelighet 
+Etablerte tiltak 
+Meox ROVmed dødskbur kjøres over bassengbunnen og suger opp d ø d s k og slam. Når buret med d ø d s k er fullt heises det opp med kran for overføring til dødskkar på 
+kai. Systemet kan ikke oversvømmes, med risiko for rømming ved høy dødelighet, fordi opptak skjer med manuell styring av ROV, og opptak av bur skjer inni bassenget. 
+Buret fungerer som vannavskiller. Dersom s k faller ut av buret vil s k e n falle tilbake til bassenget. Dødskkar transporteres til dødskrom for kverning og ensilering av 
+dødsk. Dødsksystem inkluderer ikke avløp. Dødskrommet har et sluk som er sikret med sil som vil fange opp den minste skestørrelsen dersom levende s k skulle falle 
+på gulvet. 
+Roboter har ingen skarpe kanter som kan skade bassenget, og har påmontert kamera for overvåkning av dødskoppsamling og opptak. All bruk blir kameraovervåket, og 
+operatører styrer opptak og er til stede under hele arbeidsoperasjonen. 
+Beredskapsavtale med Akva-Ren som har ekstra kapasitet for opptak av d ø d s k ved massedød 
+Kons.beskrivelse 
+Skade på bunnplater i bassenget. Begrenset mulighet for å komme ut gjennom bunnen, men mulig å komme via dreneringsrør til vollgrav. Dersom s k klarer å kommet ut i 
+vollgrav vil den bli stoppet i hovedavløpssperrer. 
+S0 
+4 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6388 
+Komponent 
+Grunnmasser 
+Tittel 
+Utrasing/svikt i grunn 
+Mulig hendelse 
+Utrasing i grunn rundt bassenger 
+Svikt grunn under rørsystemer, pumper eller andre komponenter 
+Svikt i grunn under produksjonsutstyr 
+Mulige årsaker 
+kke utført tilstrekkelige grunnundersøkelser eller tatt hensyn til resultater før bygging og underveis i bygging 
+Utstyr har høyere egenvekt det enn det grunnen tåler 
+Større nyttelaster enn det grunn, gangbaner, plattinger og fundament er beregnet for; for eksempel tunge kjøretøy eller tungt yttbart utstyr i forbindelse med 
+arbeidsoperasjoner 
+Miljølaster (vind, snø, is, regnvann, omvann/ekstrem o sjø eller temperatur) som alene eller sammen med nyttelaster kan gi for stor belastning på grunn, gangbaner, 
+plattinger eller fundamenter 
+Seismiske påvirkninger 
+Etablerte tiltak 
+Utført grunnundersøkelser med prøvegraving og analyse av fjell/steinkvalitet (Norconsult) 
+Utført seismiske undersøkelser 
+Utført geofysiske undersøkelser for kartlegging av mulige svaksoner (Argeo) 
+Prosjekteringsrapport for fylling i sjø (Norconsult) 
+Vurderinger av stabilitet i bassenggrop og grunn underveis i byggeprosess (Norconsult) 
+Plassering og sikring av basseng, rør og driftsbygg basert på grunnundersøkelser 
+Sikring av bassenggrop med betong og stålstag i vollgrav mellom grop og basseng 
+Fundamenter for komponenter og utstyr som tåler belastningen av utstyr med nyttelast 
+Området rundt basseng belastes ikke med større nyttelaster fra kjøretøy og utstyr enn det vollgravkanter er beregnet for. 
+Vollgrav er sikret med kraftig gjerde som hindrer tunge kjøretøy å kjøre for nær kantene. 
+Plassering av kran på grunn som tåler kranas egenvekt og maksimal løftekapasitet på kran. 
+Prosedyre og opplæring for bruk av kran, gangbaner, kai med tydelig beskrevet maksimale belastninger, i samsvar med brukermanual for basseng. 
+Skilting på aktuelle steder med maksimal tillatt belastning 
+Kons.beskrivelse 
+Mulighet for rømming dersom basseng og rørsystemer skades på grunn av svikt i grunn eller utrasing, eller utstyr på/ved basseng skader basseng eller rørsystemer på grunn 
+av svikt i fundamenter eller underlag. Rømming til sjø vil kunne skje dersom samtidig svikt i primær- og sekundærbarrierer/HAS 
+S0 
+2 
+S 
+1 
+K 
+3 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6370 
+Komponent 
+Inntak 
+Tittel 
+Feil dimensjon på barrierer inntaksside 
+Mulig hendelse 
+Fisk kommer seg ut i forbi barriere 1 og videre mot inntaksrist. Rister er dimensjonert feil i forhold til skestørrelse. 
+Mulige årsaker 
+Manglende forståelse av barriere funksjon. Manglende kunnskap om skestørrelser. 
+Etablerte tiltak 
+Kommunisert skestørrelser. God kontroll på barriere 1, trykkfallsvegg. 
+Ramme til trykkfallsvegg og overgang ramme/trykkfallsplater inngår i sertiseringen av bassenget. Platene i trykkfallsveggen har runde hull med 12 mm lysåpning, som 
+oppfyller krav til siler i NS9416 og barrierekravene for minste skestørrelse på 64 gram med minimum lysåpning på 16 mm for hullsiler. 
+Testing av trykkfallsvegg i desember 2021: Maksimalt deeksjon av trykkfallsvegg ble målt til1cm.Dimensjonert for 25 cm tilsvarende karvegg (faktor1,35). Testen ble utført 
+ved full o w . Dokumentert med l m og testrapport. 
+Montert lasker mellom plater i trykkfallsvegg for å sikre mot termisk utvidelse. 
+Inntakssil har spalter med 11 mm spalteåpning og oppfyller krav til siler i NS9416 og barrierekrav for minste skestørrelse 64 gram med spalter < 12 mm. 
+Kons.beskrivelse 
+Det er lite sannsynlig at s k kommer seg forbi barriere 1. Antar derfor at skemengden i systemet er lav dersom det kommer s k i systemet. Fisk kan gå ut gjennom barriere 
+å komme til havet. 
+S0 
+3 
+S 
+2 
+K 
+3 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+04.05.2022, 09:45 
+Tekstrapport - EQS 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+3/5 
+Meldings-ID 
+6369 
+Komponent 
+Inntak 
+Tittel 
+Skade på rørsystem fra ytre laster 
+Mulig hendelse 
+Skade på rørsystem under overfylling. Tunge maskiner, eller høye lokale laster. 
+Mulige årsaker 
+Svakheter i prosjektering og metode for utførelse. Rør blir overbelastet lokalt 
+Etablerte tiltak 
+Bergengingsrapport knytt til laster 
+Kons.beskrivelse 
+Skade på rørgate med mulig skerømming 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6394 
+Komponent 
+Leveringssystem 
+Tittel 
+Fortøyning av brønnbåt 
+Mulig hendelse 
+Brønnbåt klarer ikke å holde posisjonen 
+Brønnbåt kan påføre belastning på slangelinje og kobling 
+Mulige årsaker 
+Ikke fortøyningssystem for brønnbåten. 
+Ikke pålitelig eller god nøk nøyaktighet på DP 
+Utfall av satelitter 
+Bortfall av motorkraft helt eller delvis 
+Bortfall av motorkraft pga sand i maskineri 
+Etablerte tiltak 
+Brønnbåt Bjørg Pauline ligger på DP under levering. Utført risikovurdering for bruk av DP for levering til Havfarm 1 (ref. HAZID av brønnbåt operasjoner i forbindelse med 
+operasjoner ved Havfarm). Værforhold ved Havfarmen er overførbare til våre værforhold ved bruk av leveringssystemet på Kvalnes. Dybde på posisjon der BP skal ligge er ca 
+17 meter. 
+Bjørg Pauline opererer med en avstand til Havfarm 1 på ca. 15 – 18 meter, i opptil liten kuling. Båten har 4 generatorer, + batteripakke, som leverer strøm over to tavler. 4 
+tunnelthrusterere som forsynes over to separate system.To fremdriftsmotorer, som også er forsynt over to separate system, én aksling og én fremdriftspropell. 
+Hvis 50% black-out samtidig med dp svikt, kan båten holdes manuelt i posisjon til at BP rekker å sette på endelokk og slippe løs slangen. 
+Kons.beskrivelse 
+Rømming av s k som oppholder seg i slangen 
+S0 
+3 
+S 
+2 
+K 
+3 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6363 
+Komponent 
+Leveringssystem 
+Tittel 
+Overgang rør - slange 
+Mulig hendelse 
+Dårlig tilpassning mellom slange og rør. Rør passer ikke på slange og øker fare for atdet faller fra hverandre. 
+Mulige årsaker 
+Feil informasjon om produkt, forskjell mellom indre og ytre diameter. 
+Etablerte tiltak 
+Kontroll av prosjektering. Kontroll under montering. 
+Kons.beskrivelse 
+Rør og slanger passer ikke sammen. Fisk kan komme på avveie, for eksempel under levering. 
+S0 
+3 
+S 
+2 
+K 
+3 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6362 
+Komponent 
+Leveringssystem 
+Tittel 
+Brudd i slange 
+Mulig hendelse 
+Brudd i slange under levering eller mottak 
+Mulige årsaker 
+Feil trykk-klasse, dårlig underlag som fører til gnag. Slange tar opp laster fra båt. Laster fra vind, bølger og strøm. Svak fortøyning. 
+Bortfall av motorkraft BP 
+Etablerte tiltak 
+Avklare trykk og vakum. Tilpasse området som går ut i sjø. Avlaste brønnbåt i nødsituasjon( ligger på DP). Egen nødprosedyre for avkobling og plugging av rør. Levering 
+innenfor værvindu (vind, bølger, strøm) som blir forutsatt i oppdatert fortøyningsanalyse for leveringssystemet. 
+Kons.beskrivelse 
+Fisk i slange kan rømme. 
+S0 
+4 
+S 
+3 
+K 
+4 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Oppdatert fortøyningsanalyse med begrenset værvindu 
+Dokumentref. 
+Meldings-ID 
+6361 
+Komponent 
+Leveringssystem 
+Tittel 
+Kobling slange til brønnbåt 
+Mulig hendelse 
+Tap av kobling 
+Mulige årsaker 
+Underdimensjonert kobling 
+Ikke kompatible koblinger 
+For stort strekk i slange 
+Laster fra vind, bølger og strøm 
+Avdrift slange 
+04.05.2022, 09:45 
+Tekstrapport - EQS 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+4/5 
+Etablerte tiltak 
+Siste 12 meter av slangelinje monteres av servicebåt. Servicebåt plukker opp slangeende, og brønnbåt henter slangeende direkte fra servicebåt 
+Hydraulisk tilkobling med manuell utløser 
+Standard C - o w kobling 
+Produktsertiserte slanger fra TESS 
+Produktdatablad med begrensninger for bruk 
+Ekstra lengde på slangen i form av en bue mellom blåse og båt 
+Kons.beskrivelse 
+Rømming av s k som oppholder seg i slangen 
+S0 
+4 
+S 
+2 
+K 
+4 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Fortøyningsanalyse av festepunkt for slange - bøye ytterst på slangelinje 
+Dokumentref. 
+Meldings-ID 
+6390 
+Komponent 
+Massedød 
+Tittel 
+Feil dimensjon på barriere 
+Mulig hendelse 
+Tetting av avløp og oversvømmelse av kar, HAS, eller område. 
+Mulige årsaker 
+Fisk dør og legger seg på utløp. Vannstand stiger 
+Etablerte tiltak 
+Alarmsystem som varsler vakthavende ved vannstandsøkning eller reduksjon i vannstand. 
+Kons.beskrivelse 
+Fisk kunne komt over i bassengdel, men er fortsatt innenfor barriere 2. Pumper har begrenset kapasitet til å fylle opp bassengområdet. 
+S0 
+3 
+S 
+3 
+K 
+3 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6384 
+Komponent 
+Oppdrettsbasseng 
+Tittel 
+Highcomp basseng og inkludert utstyr 
+Mulig hendelse 
+Svekkelse/skade i bassengpaneler, spoiler, parabol 
+Svikt i siler (utløp, vannbalanse, slamavsug/indre vannbalanse) 
+Svikt i lterramme/trykkfallsvegg 
+Svikt i støttestag mellom bassengvegg og vollgrav 
+Svikt i vannbalansesystemet 
+Mulige årsaker 
+Feil i dimensjonering og styrkeberegning 
+Feil bruk av bassenget, som overskrider begrensninger eller maksimale belastninger 
+Etablerte tiltak 
+Bassenget er prosjektert, produsert og montert av Highcomp, og er sertisert av Akvasafe.Utstyr inkludert i basseng-sertisering: 
+stål støttestag, gangbaner, lterramme til trykkfallsvegg, spoiler, paraboler, vannbalansesystemet inkl. siler, siler fra slamsug (indre vannbalanse), utløpssiler. 
+Prosjektering, styrkeberegninger, risikovurdering utført av Highcomp 
+FDV og brukermanual levert fra Highcomp 
+Begrensninger for bruk av bassenget er oppgitt i brukermanual og sertikat: 
+Godkjent for vannsøyle: 17,5 meter (±0,9 m) 
+Tillatt overhøyde(h)inne: større enn 0mm og mindre enn 100mm 
+Maksimal last gangbane: 2,5kN/m (250 kg/meter) 
+Bassengvegger/bunn, siler og trykkfallsvegg er primærbarrierer. Se egne risikoelementer for trykkfallsvegg, vannbalansesystem og siler. 
+Kons.beskrivelse 
+Lokal svekkelse av bassengstruktur, deformasjoner, sprekker 
+Store skader/hull og svikt i siler kan føre til at s k kommer over i vollgrav og utløpsrør. 
+Fisk i vollgrav og utløpsrør vil bli stoppet i hovedavløpssperrer (HAS 1 og HAS 2). Fisk som har kommet inn i parabolrom vil bli stoppet i barriere 2 på vanninntak (inntakssil) 
+S0 
+3 
+S 
+2 
+K 
+2 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6389 
+Komponent 
+Oversvømmingssperre 
+Tittel 
+Oversvømming av basseng 
+Mulig hendelse 
+Vannstand inni bassenget overstiger nivå på bassengkant og gangbroer, slik at vann og s k kan strømme ut av bassenget ved oversvømmelse (komme forbi primærbarrierer) 
+Mulige årsaker 
+Vanninnløp er åpent og strømsettere pumper inn vann samtidig med at utløp er stengt. 
+Utløp kan bli stengt pga tette siler i utløp og avsug. 
+Silene kan tettes av store mengder d ø d s k som legger seg på silene. 
+Svikt i vannbalansesystemet som regulerer vannstand i basseng og vollgrav. 
+Feil med regulering av pumper (strømsettere) i inntakspropp (2 stk) og utløpspropp (1 stk) og reserve strømsetter. 
+Svikt i alarmsystem 
+Etablerte tiltak 
+Fisk som passerer selve karet vil havne i vollgrav. Vollgrava er sikret med barrierer i begge ender. Ved normal vannstand er det 3 meter fra vannate til bassengkant. I et 100- 
+års perspektiv vil vannstanden, som er styrt av o og fjære, kunne stige med 174 cm over havnivå (ref. yr.no). I en slik ekstremsituasjon vil det fortsatt være 134 cm opp til 
+karkant. Dette er samme sikkerhetsnivå som på sjøen. 
+Kontinuerlig måling av trykk og vannnivå og alarmer på o w , vannnivå og vannbalansesystemet. 
+To separate strømsettere i innløpspropp og en strømsetter i utløpspropp med hver sin strømforsyning og nødaggregater. Alarm ved strømbrudd. Nødaggregater til alt kritisk 
+utstyr. 
+Daglig opptak av d ø d s k ved hjelp av ROV og daglig overvåkning av mengde d ø d s k på bassengbunn. 
+Daglig overvåkning av utløpssiler. 
+God kapasitet på opptak av d ø d s k ved høy dødelighet slik at utløpssiler ikke tettes igjen 
+Kons.beskrivelse 
+Fisk som passerer selve karet vil havne i vollgrav. Vollgrava er sikret med barrierer i begge ender. Fisk vil kunne rømme til resipient dersom samtidig svikt i primær- og 
+sekundærbarrierer. 
+S0 
+3 
+S 
+2 
+04.05.2022, 09:45 
+Tekstrapport - EQS 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+5/5 
+K 
+2 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6386 
+Komponent 
+Siler 
+Tittel 
+Siler i utløp i basseng og avsug i basseng - primærbarrierer 
+Mulig hendelse 
+Utløpssiler utsettes for større trykkdieranse/trykkfall enn det de er dimensjonert for; 
+Utløpssil tettes av d ø d s k som legger seg oppå/inntil silene 
+Utløpssil tettes av slam (feces, fôrrester, organisk materiale) 
+Siler har så stor lysåpning at den minste smolten kan rømme/det settes ut s k med minstestørrelse mindre enn valgt lysåpning på siler. 
+Mulige årsaker 
+Ikke god nok fjerning av partikler og slam 
+Fôrspill og manglende fôringskontroll 
+Ikke godt nok renhold av siler 
+Etablerte tiltak 
+Utløpssiler, siler i slamavsug og vannbalanse inngår i sertiseringen fra HighComp. 
+Utløpssiler, slamavsugsiler og vannbalansesiler har alle runde hull med 16 mm lysåpning. 
+Alle siler oppfyller kravene til siler i NS 9416 og primær- barrierekravene for minste skestørrelse64 gram med spalter < 12 mm og hullsil < 16 mm 
+Minstestørrelse på s k tas hensyn til ved valg av smolt. 
+Daglig opptak av d ø d s k ved hjelp av ROV. God kapasitet på dødskopptak. Beredskapsavtale med Akva-Ren. 
+Daglig kameraovervåkning av dødelighet, bassengbunn, siler og avsug ved hjelp av kamera på ROV. 
+Daglig fjerning av partikler og slam fra bassengbunn ved hjelp av ROV med slamsug. 
+Godt renhold av siler, avsug, vegger og bunn i bassenget ved hjelp av vaske-ROV 
+Kons.beskrivelse 
+Ved svikt i siler vil s k bli stoppet i hovedavløpssperrer. Ved samtidig svikt i/fjerning av siler og HAS/sekundærbarrierer kan s k rømme til sjø. 
+S0 
+3 
+S 
+2 
+K 
+3 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6371 
+Komponent 
+Stømbrudd 
+Tittel 
+Varslingssystem 
+Mulig hendelse 
+Feil i varslingsfunksjon slik at alarmer ikke opdages ved bemandingsfritt anlegg. 
+Strømbrudd som fører til nedstenging av alarmsystemet og dermed ikke kontroll på owretninger. 
+Mulige årsaker 
+Strømbrudd, nedetid på alarmsystemet. 
+Etablerte tiltak 
+To separate varslingssystemer. UPS knytt til varslinga. Barrierer i begge retninger av o w . 
+Kons.beskrivelse 
+Fisk kan komme på avvveier, men hindrene er uavhenging av strøm for å opprettholdes. 
+S0 
+3 
+S 
+3 
+K 
+2 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+Meldings-ID 
+6387 
+Komponent 
+Vannbalanse 
+Tittel 
+Vannbalansesystem 
+Mulig hendelse 
+Svikt i vannbalansesystemt - overhøyde i basseng må være på 0-10 cm i forhold til vannhøyde i vollgrav. Se brukerhåndbok for basseng. 
+Svikt i siler i vannbalansesystemet 
+Lysåpning i siler ikke tilpasset den minste s k e n 
+Silene kan gå tette 
+Mulige årsaker 
+Vannstand i ubalanse - vannstand i basseng er ikke innenfor 0-10 cm overhøyde i forhold til vannstand i vollgrav 
+Silene og innfesting av silene er ikke sterke nok 
+Ikke vurdert lysåpning ut fra minste s k e n 
+Ikke tilfredsstillende renhold av silene 
+Svikt i trykksensorer og nivåmåling, eller svikt i driftskontroll og overvåkning av vannbalansesystemet 
+Etablerte tiltak 
+Vannbalansesystemet sørger for riktig vannstand og vanntrykk i vollgrav i forhold til vannstand i basseng, tilpasset o og fjære sjø. Vannivå i basseng og vollgrav fordeles og 
+reguleres etter inntakspropp. 
+Vannbalanserør med nivåmåling og trykkmåling for innside og for utside av bassenget. 
+Driftskontroll med kontinuerlig overvåkning av vannivå og vanntrykk, med alarm ved for høye eller lave vannstander i basseng og vollgrav. 
+12 mm lysåpning i siler i vannbalanserørene inn mot basseng og ut mot vollgrav. Innfesting av siler ved hjelp av plate 
+Siler styrkeberegnes etter kravene i punkt 5.4 i NS 9416 (siler skal tåle trykket av tett sil og samtidig fullt vanntrykk) 
+Testing av bassenget i desember 21 dokumenterte at passiv vannbalanse fungerer som ønsket. Aktiv styring av vannbalanse med pumpestyring er kun forventet som 
+backup. Ved samtidig bortfall av begge strømsettere vil man kunne opprettholde gjennomstrømming i anlegget ved igangkjøring av slampumper(4stk) og strømsetter i 
+utløpspropp,samtidig som vannbalansen holdes innenfor aksept vha vannbalansepumpe(1stk). Aktiv vannbalanse forventes også brukt for å balansere trykkbølge ved stans 
+av begge strømsettere i inntakspropp. Testrapport og l m . 
+Vannbalansesystemet er inkludert i sertiseringen av bassenget. 
+Brukerhåndbok for bassenget (HighComp) 
+Prosedyre for fylling og tømming av basseng. 
+Kons.beskrivelse 
+Bassengvegger vil uten fungerende vannbalansesystem kunne bli belastet eller svikte på grunn av større forskjeller i vannhøyde mellom basseng/vollgrav enn det bassenget 
+er designet for. Fisk som har kommet ut i vollgrav vil bli stoppet i hovedavløpssperrer. 
+S0 
+4 
+S 
+2 
+K 
+3 
+R0 
+R 
+Kun 
+Nytt tiltak 
+Dokumentref. 
+02.05.2022, 22:50 
+Tekstrapport - EQS Risikovurdering Utførelse - K0 Kvalnes Andfjord Salmon 
+https://kunde.extend.no/cgi-bin/feedback/admin/message_overview.pl 
+1/1 
+Tekstrapport 
+Meldings-ID 
+6393 
+Komponent 
+Kar 
+Tittel 
+Feil montering 
+Mulig hendelse 
+Svikt i kar 
+Mulige årsaker 
+Elementer monteres feil sammen eller passer ikke optimalt 
+Etablerte tiltak 
+Detaljtegninger av konstruksjon. Montert av leverandør 
+Kons.beskrivelse 
+Kollaps av kar vil kunne føre s k ut til barriere 2. 
+S0 
+2 
+S 
+2 
+K 
+3 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6392 
+Komponent 
+Komponent 
+Tittel 
+Feil montering 
+Mulig hendelse 
+Gliper mellom sil og kar vegg, eller mellom sil og kasse i HAS slik at s k kommer forbi. 
+Mulige årsaker 
+Feil montering av siler, unøyaktig montering. 
+Etablerte tiltak 
+Sluttkontroll av montering av kritiske komponenter. 
+Kons.beskrivelse 
+Mindre mengde s k kommer forbi to barrierer 
+S0 
+3 
+S 
+2 
+K 
+3 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Meldings-ID 
+6398 
+Komponent 
+Leveringssystem 
+Tittel 
+Feil montering (samarbeidskopi) 
+Mulig hendelse 
+Slangebrudd - ikke riktig sammenkobling av slangeseksjoner slik at slangeseksjonene kan løsne fra hverandre i ensene 
+Mulige årsaker 
+Ikke god nok forberedelse - underlag i slangetrase, nødvendig utstyr 
+Ikke montering iht TESS monteringsprosedyre 
+Mangelfull opplæring 
+Manglende sluttkontroll etter ferdig montering 
+Etablerte tiltak 
+Riktig oppbevaring og transport av slangelinje slik at slangelengder og enser ikke blir utsatt for slitasje eller skade 
+Gruset slangetrase på land med containerak ytterst i strandsone for jevnt underlag. 
+Forankring av slangelinje basert på fortøyningsanalyse. Godt forankert fortøyningsline langs hele slangelinja og sidefortøyninger har støttefunksjon for å unngå strekk i 
+slangen og for stor sidebevegelse/avdrift pga bølger, strøm og vind. Fortøyningslinje brukes under utlegging og kobling av slangeseksjoner. Sentrerende enser (koblinger) 
+mellom slangelengdene gjør at slangeseksjonene ikke kan skjev-monteres. Fishfarmslange påmonteres oppdriftsslange 
+Siste slangeseksjonen (12 m) med påkoblet C o w kobling mot brønnbåt monteres av servicebåt rett før brønnbåt operasjon. 
+Slagelinje montere si henhold til TESS monteringsprosedyre 
+Leverandør TESS gir opplæring i montering 
+Tetthetskontroll etter montering utføres av AS og servicebåt 
+Brønnbåt BP trykktester slangen før overføring av s k 
+Kons.beskrivelse 
+Strekk og bevegelse i slangen kan medføre at koblinger mellom slangelengder går opp,og laks som er i slangelinja kan rømme 
+S0 
+4 
+S 
+2 
+K 
+3 
+R0 
+R 
+Kun 
+Dokumentref. 
+Nytt tiltak 
+Utført tiltak 
+Inntakssystem 
+Kvalnes Pilot - K0 
+Kar: K0, totalt 1 glassfiberkar 
+L x B x H = 42 x 40 x 20 m inkl. hoppekant 
+L
+T
+O
+2
+ 
+H 
+L 
+HH 
+LL 
+H 
+L 
+HH 
+LL 
+Inntakssystem 
+Barrierekrav 
+Laks, 64 - 7.000 gram 
+Spalte (prim./sek.) < 12 mm 
+Hullsil (primær) < 16 mm 
+Hullsil (sekundær) < 22 mm 
+Notpose (sekundær) < 38 mm 
+For andre former benyttes enten: 
+Diagonalmål mot hulldiameter eller spaltebredde. 
+Slam og avløpssystem 
+HAS 1 
+1 
+11 
+1 
+1 
+2 
+Sjø 
+HAS 2 
+Avløpssystem 
+O2 
+K0 
+2 
+S
+j
+ø
+K
+0
+ 
+2 
+33 m.u.h. 
+Nivåkontroll (indre) 
+Vannbalanse 
+Vannbalanse (ytre) 
+Nivåkontroll (indre) 
+2 
+Bortkjøring 
+Avvanning og 
+tørking 
+Barrierekrav 
+Laks, 64 - 7.000 gram 
+Spalte < 12 mm 
+Hullsil < 22 mm 
+Nivåkontroll (ytre) 
+Sjø 
+Renserobot 
+Renserobot 
+R 
+e 
+n 
+s e 
+r o 
+b 
+o 
+t 
+Slambehandling 
+Slam 
+Mottak og levering 
+Mottak og levering av fisk 
+Leveringssytem monteres og testes i forkant av mottak / levering 
+Brønnbåt skal minimum ha instrumentert forankring tilsvarende 
+DP klasse 2. Det foreligger ikke krav til sertifisering av DP. 
+Armerte og trykksterke slanger 
+2 
+Forankret f
+l
+y
+t
+e
+l
+e
+m
+e
+n
+t
+2
+ 
+2 
+ø2440 mm 
+ø2440 mm 
+2 
+16" 
+Barrierekrav 
+Laks, 64 - 7.000 gram 
+Spalte < 12 mm 
+Hullsil < 22 mm 
+Barrierekrav 
+Laks, 64 - 7.000 gram 
+Spalte < 12 mm 
+Hullsil < 22 mm 
+Barrierekrav 
+Laks, 64 - 7.000 gram 
+Spalte < 12 mm 
+Hullsil < 22 mm 
+Notpose < 38 mm 
+ø800 mm 
+ø350 mm 
+ø350 mm 
+ø2440 mm 
+Sjø 
+Slam og avløpssystem 
+2 
+LT H 
+dP H 
+LT H 
+1 
+LT H 
+L 
+FI H 
+L 
+Brønnbåt 
+HAS 2 
+HAS 1 
+FI H 
+L 
+FI H 
+L 
+Levering 
+K0 
+K0 
+ø350 mm 
+4 x ø350 mm 
+Sandfang 
+Områdesikring 
+2 
+ø2440 mm 
+Fiskeflyt i anlegget 
+Kvalnes K0 er pilotanlegget til Andfjord Salmon på 
+Kvalnes. 
+Anlegget er tilrettelagt for mottak av smolt fra-, og 
+levering av slakteklar fisk til brønnbåt. 
+Leveringssystem består av trykksterke og armerte 
+slanger med bolta forbindelser. 
+Leveringssystemet er mobilt og skal testes for hver 
+gang det benyttes jf. fastlagte prosedyrer. 
+Forankringssystemet ligger fast. 
+Fisken skal ikke flyttes i vekstperioden. 
+Tegnforklaring 
+Spillvann 
+Overføring av fisk 
+Prosessvann til kar (tilførsel) 
+Prosessvann fra kar (avløp) 
+Hjelpesystemer 
+Barriere 
+Fritt vannspeil (farge relatert til system) 
+Konstruksjon (visualisering) 
+HH 
+Pumpe / fiskepumpe 
+Fleksibel slange m/kobling 
+H 
+L 
+LL 
+Høy alarm, nivå 2 
+Høy alarm, nivå 1 
+Lav alarm, nivå 1 
+Lav alarm, nivå 2
+S
+l
+u
+k
+a
+v
+l
+ø
+p
+ 
+m/barriere 
+3-veis ventil, manuell 
+m/barriere 
+Aktuert 3-veis ventil 
+Stengeventil, manuell 
+Normalt åpen (NO) 
+LT 
+Nivåtransmitter mot PLS 
+TT 
+Temp.transmitter mot PLS 
+CO2 CO2 måler mot PLS 
+O2 
+Oksygenmåler mot PLS 
+FI 
+Flowindikator (lokal) 
+CO2 avlufting 
+Aktuert ventil 
+Stengeventil, manuell 
+Normalt stengt (NC) 
+2 
+Primærbarriere1 
+Sekundærbarriere 
+Ventil, ikke spesifisert 
+LI 
+Nivåindikator (lokal) 
+Utfiskingsplugg el.tilsv. 
+Avblending / tersing rør 
+Henvisninger 
+Det henvises til plantegning P-69-10-01 for 
+orientering 
+Felles for alle avdelinger: 
+Det foreligger ett alarmsystem med varsling + 24 t 
+vakthold. 
+HAS = Hovedavløpssperre 
+" \ \ n 
+o 
+r c o 
+n s 
+u 
+lt a 
+d 
+. c o 
+m 
+\d 
+f s \ n 
+o 
+r \o 
+p 
+p 
+d 
+r a 
+g \ N 
+a 
+r v 
+ik 
+\ 5 
+1 8 \ 6 
+7 \ 5 
+1 8 
+6 
+7 
+8 
+3 \ B 
+I M 
+\ A 
+k v 
+a \ P 
+r o 
+s e 
+s s d 
+ia 
+g 
+r a 
+m 
+\\ 
+P 
+- 6 
+9 
+- 7 
+0 
+- 0 
+1 
+P 
+r o 
+s e 
+s s d 
+ia 
+g 
+r a 
+m 
+. d 
+w 
+g 
+- S 
+tT 
+a 
+n 
+- P 
+lo 
+t te 
+t : 2 
+0 
+2 
+2 
+- 0 
+5 
+- 0 
+6 
+, 1 4 
+: 1 2 
+:4 
+1 
+- L A 
+Y 
+O 
+U 
+T 
+= 
+P 
+- 6 
+9 
+- 7 
+0 
+- 0 
+1 " 
+Dette dokumentet er utarbeidet av Norconsult AS som del av det oppdraget som fremgår nedenfor. Opphavsretten tilhører Norconsult AS. Dokumentet 
+må bare benyttes til det formål som oppdragsavtalen beskriver, og må ikke kopieres eller gjøres tilgjengelig på annen måte eller i større utstrekning enn 
+formålet tilsier. 
+TegningsnumerOppdragsnumer 
+Revisjon 
+Målestokk 
+-- 
+Kvalnes K0 
+Prosessdiagram 
+P-69-70-01 
+Andfjord Salmon 
+5186783 
+(gjelder A1) 
+J01 
+Rev. 
+F
+a
+g
+k
+o
+n
+t
+r
+o
+l
+l
+D
+a
+t
+o
+ 
+Beskrivelse 
+Utarbeidet 
+Godkjent 
+J01 
+2022-05-06 
+For bruk 
+StTan 
+OeyHau 
+StTan 
+O2kanal 
+Gangbane 
+Nødstrøms 
+aggregat 
+Fiskepumpe 
+Inntakssil for sjøvann er 
+plassert ca. 33 m.u.h 
+Tankfarm 
+Vannbalanse 
+OPI-kanal 
+Avvanning/tørking 
+Ø800 mm 
+Ø350 mm 
+Ø 8 0 0 m m 
+Ø 2 4 4 0 m m 
+Kran 
+OPI-kanal 
+HAS 2 
+4 stk. Ø350 mm 
+Glassfiberkar 
+Tilbygg 
+Råvannspumper 
+Påkobles Ø800 mm 
+Renserobot (ROV) 
+Ø400 mm slange 
+HAS 1 
+ca. 72 m fastmontert HDPE rør 
+Grovsil 
+Avløp fra 
+slambehandling 
+B) 
+Filter 
+Utslippsledning ca. 153 m 
+Inntaksledning 
+ca. 415 m 
+Strandlinje for illustrasjon ca. 40m fra kar (ikke i kartrett plassert). 
+Brønn og bløggebåt 
+Trykkfallsvegg 
+C) 
+Flytende 
+slangeelementer 
+A) 
+Smolt/slaktelinje 
+ca. 207 m 
+Rampe 
+Utslipp til sjø 
+Rampe 
+D) 
+E) 
+Slam fra ROV 
+Vannbalanse (ytre) 
+Vannbalanse (ytre) 
+Vannbalanse (indre) 
+3xØ110 mm 
+drenshull 
+m/sil 
+Ø 
+2 4 4 
+0 
+m 
+m 
+Vannbalanse 
+Vannbalanse 
+(ytre) 
+Kjøreport 
+Vollgrav 
+" X 
+: \ n 
+o 
+r \ o 
+p 
+p 
+d 
+r a 
+g 
+\ N 
+a 
+r v 
+ik 
+\ 5 
+1 8 \ 6 
+7 \ 5 
+1 8 
+6 
+7 
+8 
+3 \ B 
+I M 
+\ A 
+k v a 
+\ V 
+A 
+- p 
+la 
+n 
+t e 
+g 
+n 
+in 
+g 
+\ M 
+o 
+d 
+e 
+l\ \ V 
+A 
+_ 
+p 
+la 
+n _ 
+P 
+_ 
+6 
+9 _ 
+1 0 _ 
+0 
+1 
+. d 
+w 
+g 
+- O 
+e 
+y 
+H 
+a 
+u 
+- P 
+lo 
+t t e 
+t : 2 
+0 
+2 
+2 
+- 0 
+5 
+- 0 
+6 
+, 1 3 
+: 5 
+0 
+: 4 
+4 
+- L A 
+Y 
+O 
+U 
+T 
+= 
+P 
+- 6 
+9 
+- 1 0 
+- 0 
+1 
+- X 
+R 
+E 
+F 
+" 
+Dette dokumentet er utarbeidet av Norconsult AS som del av det oppdraget som fremgår nedenfor. Opphavsretten tilhører Norconsult AS. 
+Dokumentet må bare benyttes til det formål som oppdragsavtalen beskriver, og må ikke kopieres eller gjøres tilgjengelig på annen måte eller i større 
+utstrekning enn formålet tilsier. 
+TegningsnumerOppdragsnumer 
+Revisjon 
+Målestokk 
+Avdeling smolt og fellesfunksjoner 
+Plantegning 
+1:200 
+Kvalnes Pilot - K0 
+Avløps- og leveringssystem 
+P-69-10-01 
+Andfjord Salmon 
+5186783 
+(gjelder A1) 
+J01 
+TEGNFORKLARING 
+Overføring av fisk til/fra kar (slange) 
+Spillvann 
+Prosessvann til kar 
+Primær/sekundærbarriere 
+Overføring av fisk til/fra kar (fastmontert) 
+Slam 
+Meter 
+0 
+10 
+20 
+Rev. 
+F
+a
+g
+k
+o
+n
+t
+r
+o
+l
+l
+D
+a
+t
+o
+ 
+Beskrivelse 
+Utarbeidet 
+Godkjent 
+J01 
+2022-05-06 
+For bruk 
+OeyHau 
+StTan 
+StTan 
+Sluk m/ barriere 
+MERKNADER 
+HENVISNINGER 
+Renserobot ROV 
+A) Overføringsledning for fisk består av flytende og ikke-flytende Ø400 mm fiskeslanger, fastmontert HDPE-rør og 2 stk. monteringsramper. 
+B) Fiskepumpe for overføring av fisk fra kar til brønnbåt. Ved innpumping av fisk fra brønnbåt til kar vil overføringsledning kobles utenom fiskepumpen (dette er ikke illustrert på tegning). 
+- Prosessdiagram, P-69-70-01 
+Områdebarriere 
+C) Endelig slangeforbindelse mellom overføringsledning og brønnbåt monteres av brønnbåt. Hele leveringssystemet testes/etableres før hver levering/mottak. 
+D) Slam fra renserobot (ROV) føres med slange til avvanning/tørking i tilbygg. 
+E) Områdesikring er etablert i form av tett fjell. Anlegget kan ikke oversvømmes. Områdesikring har kun til hensikt å stoppe rømmning ved håndtering av fisk inne på området, 
+samt å holde rovdyr ute. Anlegget har i tillegg tilgangskontroll i et ytre gjerde for hele anlegget. 
+Prosessvann fra kar (avløp) 
+FMEA
+
+Failure Modes & Effects Analysis
+
+Doc. No:
+
+A
+
+Project
+
+Andfjord Salmon
+
+Discipline
+
+System
+
+Filled b
+
+Approved by
+
+Date
+
+Approved date
+
+> 00 COME runction
+
+Potential Failure
+
+Potential Effect of Failure
+
+Equipment
+7 Cyber Security IT System
+2 Cyber Security IT System
+
+3 Fiskehelse-overvakning CO2 sensor
+4 Fiskehelse-overvakning pH sensor
+5 F å
+
+6 Fiskehelse-overvåkning ‘TDG sensor
+TF å Ti
+
+8 Foring - dødfiskovervåkning — | Föringskamera
+
+Nettverksanngrep, Ransomware etc.
+Virus
+
+bortfall eller feil verdi
+
+bortfall eller feil verdi
+
+bortfall eller feil verdi
+
+bortfall eller feil verdi
+
+bortfall eller feil verdi
+
+Ingen bilde
+
+av kamera
+
+9 Foring - oF
+10 Foring - akning Fé
+
+11 Høytry! basseng c py
+12 Høytry! basseng t py
+
+13 Kraftforsyning
+14 i
+
+ATS
+
+15 Ki
+
+16
+
+17 Ki
+
+18
+
+19 Ki
+
+20
+
+21 Ki
+
+22
+23 Ki
+
+24
+25 Ki
+
+26
+27 Ki
+
+28
+29 Ki
+
+30
+31 Ki
+
+32
+33 Ki
+
+Søn eØn åa 2 2 8
+
+34 i
+35 Kraftforsyning
+36 i
+
+2
+Underfordeling 1
+l lit 1
+
+37 Kraftforsyning
+
+38 Kraftforsyning
+39 Kraftforsyning
+40 Kraftforsyning
+41 Kraftforsyning
+42 Kraftforsyning
+43 Kraftforsyning
+
+Underfordeling 1
+
+Underfordeling 2
+Underfordeling 2
+Underfordeling 2
+Underfordeling UPS
+Underfordeling UPS
+Underfordeling UPS
+
+i av vinsj
+Trykkceller ødelegges under spyling
+Trykkcaller viser feil nivå under spyling
+Feil på ATS
+Dårlig spenningskvalitet
+Feil på jordfeilsystem
+Feil på feeder
+Feil på samleskinne
+Feil på inkommer
+Feil på styrestrøm
+Feil på felt
+Bortfall av strøm
+Tomt for drifstoff
+Overlast
+Feil på drivstoff tilførsel
+Feil på batteripakke
+Feil på Motor
+Feil på Generator Control Panel
+Feil på kabler
+Tomt for drifstoff
+Feil på drivstoff tilførsel
+Feil på batteripakke
+Feil på Motor
+Feil på Generator Control Panel
+
+Feil på kabler
+
+Feil på feeder
+
+Feil på samleskinne
+Feil på inkommer
+
+Feil på feeder
+
+Feil på samleskinne
+Feil på inkommer
+Feil på feeder
+
+Feil på samleskinne
+Feil på inkommer
+
+44 Kraftforsyning UPS Feil på inverter
+
+45 Kraftforsyning UPS Feil på batteripakke
+
+46 Kraftforsyning UPS Feil på batteribryter
+
+47 Kraftforsyning UPS Feil på static bypass
+
+48 Kraftforsyning UPS Feil på manuell bypass
+
+49 Nettverkskommunikasjon ABB Nettverk Bortfall av remote tilgang
+
+50 Nettverkskommunikasjon ABB Nettverk Prosessutstyr mister kontakt med kontroller
+går ned
+
+52 mister kontakt med kontroller
+
+53 Switch P mister kontakt med kontroller
+
+54 Switch Noen roter til kablene / brukerfeil
+
+55 Nettverkskommunikasjon UPS og UPS DB Prosessutstyr mister kontakt med kontroller
+
+56 Nivåregulering ABB Nettverk Kan ikke skrive til Framo-pumper
+
+57 Nivåregulering ABB Nettverk Kommunikasjonsfeil nivådata
+
+58 Nivåregulering ABB Nettverk Kan ikke skrive til Framo-pumper
+
+59 Nivåregulering Natur Storm, bølger, frost, velt
+
+60 Nivåregulering Pumper P5-P8 kjører uten vann
+
+61 Nivå bortfall av en eller flere
+
+62 Nivå Bortfall av uttre slampumpe
+
+63 Nivåregulering Trykksensor Feil eller manglende måling
+
+64 Nivåregulering Trykksensor Uplausibel data
+
+65 Nivåregulering Trykksensor Uplausibel data
+
+66 Nivaregulering Trykksensor Uplausibel data
+
+67 Nivåregulering Trykksensor Kritisk nivåforskjell indre/ytre basseng
+
+68 Nivåregulering Trykksensor Uplausibel data
+
+69 Nivåregulering Trykksensor Uplausibel data
+
+70 Nivåregulering UPS og UPS DB Feil på forsyning fra UPS
+
+71 Ikke kapasitet for utjevning
+
+72 oksygnering av vann Automasjonssystem Det kommer feil mengde oksygen
+
+73 oksygnering av vann Hovedtavle Må kjøre på nødsystem
+
+74 oksygnering av vann Ingen nødoksygenering ved behov
+
+75 oksygnering av vann Drop-in oksygeninnløsere kjøres uten vann
+
+76 oksygnering av vann Stans av oksygenering
+
+77 oksygnering av vann Uønsket nødoksygenering
+
+78 oksygnering av vann Uønsket nødoksygenering
+
+79 oksygnering av vann 02 sensor Feil eller manglende måling
+
+80 oksygnering av vann 02 sensor Kan ikke kommunisere med oksygensensor
+
+81 oksygnering av vann 02 sensor Feil eller manglende måling
+
+82 oksygnering av vann 02 tank Stans av oksygenering
+
+83 oksygnering av vann Oksygendistribusjon Det kommer ikke oksygen / feil mengde
+
+84 oksygnering av vann Oksygeneringssystem Det kommer ikke oksygen / feil mengde
+
+85 oksygnering av vann Oksygensensor Det kommer ikke oksygen / dødelig mengde
+
+86 oksygnering av vann Oksygentank Tomt for oksygen
+
+87 oksygnering av vann UPS og UPS DB Kun oksygnering fra midt i bassenget
+
+88 oksygnering av vann UPS og UPS DB Feil på forsyning fra UPS
+
+89 Tømme bassenget for fisk Strømnett Strømbortfall
+
+90 Vanngjennomstrømning ATS Feil pa ATS
+
+91 Bortfall av
+
+92 1 Mister strømnett og nødgenerator 1
+
+93 2 Feil på nødgenerator
+
+94 Vanngjennomstrømning Strømnett Uforutsett pumpestopp
+
+95 Mekanisk feil på pumpe
+
+96 Vanngjennomstromning UPS og UPS DB Feil på forsyning fra UPS
+
+97 Vanngjennomstrømning VSD Feil på VSD
+
+‘Stop av drift, Tyveri av teknologi
+Stop av drift
+
+Vet ikke tilstand i basseng, ikke data til fiskehelserapport
+Vet ikke tilstand i basseng, ikke data til fiskehelserapport
+Vet ikke tilstand i basseng, ikke data til fiskehelserapport
+Vet ikke tilstand i basseng, ikke data til fiskehelserapport
+Vet ikke tilstand i basseng, ikke data til fiskehelserapport
+Kan ikke monitorere foring
+
+Dårlig monitorering
+
+Dårlig monitorering
+
+Kan ikke måle nivå
+
+Kan ikke måle nivå
+
+Feil på kraftforsyning
+
+Kortere levetid på utstyr, eller momentanskade
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyninc
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+Feil på kraftforsyning
+Feil på kraftforsyning
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Feil på kraftforsyning
+
+Remote kontroll ikke tilgjengelig
+
+Automasjonssystemet ute. Systemene må kjøre manuelt
+Systemene må kjøre manuelt
+
+Automasjonssystemet ute. System må kjøre manuelt
+Automasjonssystemet ute. Systemene må kjøre manuelt
+Systemene må kjøre manuelt
+
+Automasjonssystemet ute. Systemene må kjøre manuelt
+Ikke mulig å endre pumpepådrag
+
+Ikke kontroll på nivå i basseng
+
+Ikke mulig å endre pumpepådrag
+
+Diverse skader
+
+Skade på pumper
+
+Verste fall ikke kontroll av nivåforskjell. Da stoppes strømsettere
+
+Skade på basseng
+
+Feilregulering av pumper
+Kritisk feilregulering av pumper
+Kritisk feilregulering av pumper
+Kritisk feilregulering av pumper
+Bassenghavari
+
+Feilregulering av pumper
+Feilregulering av pumper
+
+Stopp av pumper og overvåking
+
+Feilregulering av pumper
+Overforbruk av oksgyen, skade fiskehelse underforbruk
+
+Fiskedød grunnet feil oksygenering
+Fiskedød grunnet feil oksygenering
+Ødelagte dyser på oksygensystemet
+Fiskedød grunnet feil oksygenering
+Fiskedød grunnet feil oksygenering
+Fiskedød grunnet feil oksygenering
+
+For mye eller for lite oksygen
+
+Ikke kontroll på oksygennivå i basseng
+
+For mye eller for lite oksygen
+
+Fiskedød grunnet feil oksygenering
+Fiskedød grunnet feil oksygenering
+Fiskedød grunnet feil oksygenering
+Fiskedød grunnet feil oksygenering
+Fiskedød grunnet feil oksygenering
+Fiskedød grunnet feil oksygenering
+Fiskedød grunnet feil oksygenering
+
+Fisk dør i slanger
+
+Fiskedød grunnet oksygenmangel, CO2 etc
+Fiskedød grunnet oksygenmangel, CO2 etc
+Fiskedød grunnet oksygenmangel, CO2 etc
+Fiskedød grunnet oksygenmangel, CO2 etc
+Fiskedød grunnet oksygenmangel, CO2 etc
+Fiskedød grunnet oksygenmangel, CO2 etc
+Fiskedød grunnet oksygenmangel, CO2 etc
+Fiskedød grunnet oksygenmangel, CO2 etc
+
+Potential Causes
+
+Nettverksanngrep, Ransomware etc
+Virus
+
+Nettverksproblerr
+Nettverksproblem eller Milestone problet
+Nettverksproblem, Milestone eller Plugin probier
+Kraftig trykk fra spyler skader senso
+
+Kraftig trykk fra spyler påvirker malin,
+
+Feil på utstyr
+
+Dårlig spenningskvalite
+
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Feil bruk eller skade på utsty
+
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Samme som punkt 1
+
+Maglende påfyll, laksje
+
+Manglende kontrol på lastene ved generatorbr.
+Skade utstyr, fylle riktic
+
+Skade på utstyr, ikke vedlikeholdsladet etc
+Skade, ikke vedlikeholdt og testkjoi
+
+Feil på utstyr
+
+Skade på kablei
+
+Maglende påfyll, laksje
+
+Skade utstyr, fylle riktic
+
+Skade på utstyr, ikke vedlikeholdsladet etc
+Skade, ikke vedlikeholdt og testkjoi
+
+Feil på utstyr
+
+Skade på kabler
+
+Feil bruk eller skade på utsty
+
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+
+Skade (grunnet vedlikehold, arbeid, natur eller annet)
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Feil bruk eller skade på utsty
+
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Skade (grunnet vedlikehold, arbeid, natur eller anne
+Feil hos intemett tilbyde
+
+Feil på fiber/kobbe
+
+Feilkonfigurert enhet, Enhet skaper problemer (loop, storm), €
+Fysisk problem med nettverkskort på enhet (RIO, Switch, etc
+
+Feil på switch
+
+Noen kombler fei
+
+Bortfall av nettspening og UPS
+
+Sensorfeil eller signalbrudd oksygensensore
+Sensorfeil eller signalbrudd nivåmåler
+
+Signalbrudd Framo-styrin:
+
+Storm
+
+P5-8 har ingen tørrkjøringsvakt
+
+HE NN Skcace eller feil med pump:
+
+tilsig fra utsiden om bassenget er ton
+
+For lav oppløsning av signal
+Feil Plassering, Sensor er flyttet p:
+
+Groe på trykksensoret
+
+Unøyaktig definert dybde
+
+Trykksensorer montert ca. 150cm fra bassengbun
+Signalstøy
+
+Feilkonfigurert enhe
+
+Mister mulighet til styre og overevåke anelgg:
+
+Det er blitt større volum på basseng utenfor bassenget. Dette påvirke
+
+vanngjennomstrømningen
+
+Feil styring fra automasjonssysteme
+
+Bortfall av normal kraftforsyning
+Tomt for oksyger
+Tørrkjøring av drop-in oksygeninnlosen
+
+Feil på nødoksygeneringssysten
+
+Bortfall av UPS
+Feil på prosesstyringskontroller eller IO (800N
+Groe på sensore!
+
+Sensorfeil eller signalbrudt
+
+Signalstøy
+
+Feil på 02 tank
+
+Feil med oksygenforsyning fra Oksygentan
+Gjengrodde dyse
+
+Transmitterfei
+
+Tomt for oksygen (Foreslå nivåmåling til 800xA
+Bortfall av UPS on demanc
+Bortfall av UPS
+
+Bortfall av stom fra Andøya ener
+Mister strømforsyning til strømningspumpe
+Bortfall av automasjonssysten
+
+Mister strømnett og nødgenerator
+
+Mister strømnett, nødgenerator 1 og
+
+Mister strømnette
+
+Mekanisk feil på pumpe
+
+Bortfall av UPS
+
+Mister omformer til strømingspumpe 1, 2, eller
+
+Skade instrument, nettverk, kraftforsyning, til service ei
+Skade instrument, nettverk, kraftforsyning, til service el
+Skade instrument, nettverk, kraftforsyning, til service el
+Skade instrument, nettverk, kraftforsyning, til service el
+Skade instrument, nettverk, kraftforsyning, til service el
+
+WWWAOWWWWHROOHWWWHWADANDRAAAADBAOBDO
+
+HP PwwmmamnanGrmrwwnnnnngawwo
+
+DRRODASS
+
+wo
+
+BNOSSENGANEGNFUFEGOONNOGOGS
+
+Recommended Action
+
+Responsibility Action Taken Action Taken Date New Severity New Occurance Columni Column2
+
+Backup, ABBS retningslinjer for Cyber Securit
+Antivirus
+
+Alarmere borftall av instrument, Vurdere å øke gjennomstrømning for å forbedre CO2 verdi? etc.
+Alarmere borftall av instrument, Vurdere å øke gjennomstrømning for å forbedre pH verdi? etc.
+
+Cold spares og prosedyre. Redudant PSU kan vurderes
+Se nettverk
+
+Må testes regelmessig
+
+Hindre start av ikke kritiske systemer
+
+signalvei mellom
+
+Undersøke konfigurasjonserver Milestone, foreta ping test, åpne kamera i nettleser
+Forbedre og teste Milestone Plugin ytterligere. Ha installert produsentens videosystem i tillegg til Milestone, som backup.
+
+Logging av
+Cold spares og prosedyre.
+
+God merking, begrenset tilgang, god opplæring, bare opplært personell
+UPS
+
+God redundans er designet. Fryse pumpepådrag og gi alarm
+Fryse pådrag til Framo-styring ved kommunikasjonsfeil og gi alat
+
+Lagrede Test av
+Se på lys på enhet. Prøve annet utstyr eller switchport. Erstatte enhet eller nettverkskort.
+
+Alarm, Det er ønskelig med en indikasjon på at filterduk før P5-P8 begynner å bli tett, mulig dette kan løses ved å se på strømovervåkning.
+
+av con
+
+vil gi mindre ved strupet
+
+bassenget for kontroll.
+
+verifisere at eget design er sikkert
+
+Etablere erfaringsbasert vedlikeholdsprogram
+Presis åling ved Metode for å
+
+Verifisere EMC forbehold for 4-20mA instrument med el-team
+Verifisere konfiugrasjon av alle sensorer ved HART ved comissioning
+
+Verifikasjon via okgygenmålere, gi alarm
+
+Klar driftsinstruks. Ryker de ma vi oke padrag pa
+
+9 har sett med trykkceller for indikasjon av tørrkjøring.
+Flere nivå med instrument, dele opp måleområdet. Vurdere flere sensorer? Det er laget opplegg for å få inn flere sensorer. Bør starte med gradvis fy
+av tank og teste ut. Ubalense er størst ved tømming. Utarbeide en detaljert testprosedyre for dette inkludert testing av målområder. Høydemerking in
+
+Safe by design - Uavhengig av sensor verdi skal overordnet prosess være
+designet slik at dersom alle pumper stoppes så skal bypass imellom yttre og indre basseng jevne ut nivå om forskjellen blir for stor." Andfjord Salmon må
+
+Sikre kabel mot manipulasjon. Skru fast kabel på en måte som forhindrer de
+
+dybde sensor er på. For eksempel nøyaktig merking av kabel mot et visst punkt.
+Forsøke å bruke nivåmålere i sump for denne målingen, men prosesstyring vil likevel ikke ha innvirkning på nivå før bypassniva er nådd
+
+Bruke drop-in oksygenering, inntill batteri er tomt. Vil bare gi oksygenering på en drop in (settes på max). Blir kanskje for lite oksygen til fisken. 23.02.2021 4 3
+Legge nivå på oksygentank inn til 800xA og gi alarm ved lavt nivå, evt. sikre at Linde har rutiner for overvåkning av nivå i oksygent
+
+Starte nødoksygenering
+Starte nødoksygenering
+
+, Etablere
+
+Verifisere EMC forbehold for 4-20mA instrument med elteam
+
+Starte nødoksygenering
+R med andre ålere, gir alam
+
+Start nadoksygenering
+Nødgenerator håndterer denne pumpen
+
+Styre pumper på lokalt kontroll panel
+
+Start nødgenerator 2 (mauelt eller automatisk)
+
+Start nødoksygenering.
+
+Start nødgenerator 1 (mauelt eller automatis!
+
+Reservepumpe
+
+Styre pumper direkte på VSD
+
+Bruk en av de andre strømsetterene, eller øk pådrag på paralell pumpe
+
+Spare parts, God redundans er designet. Fryse pådrag til oksygeninnløsere ved eventuelt bortfall av målinger og gi alarm
+
+, evt starte
+
+Andfjord Salmon
+Andfjord Salmon
+Andfjord Salmon
+Andfjord Salmon
+Framo
+
+Andfjord Salmon
+
+Project name 
+CSUB Project Number 
+Andfjord Salmon 
+18305 
+Supplier: 
+HighComp AS 
+Suppliers Doc No: 
+Supplier rev. no: 
+18305-G-001 
+01 
+Document title: 
+Risk assessment fish escape 
+01 
+03.05.2021 
+Issued For information 
+KWJ 
+JKV 
+GSE 
+Rev. 
+Issued Date 
+Description 
+Made 
+by 
+Chk'd 
+by 
+Appr. 
+by 
+Page 1 of 10 
+1. Introduction 
+This document contains the risk assessment for the first HighComp fish tank for the Andfjord Salmon 
+project to be assembled at Kvalnes, Andøya. 
+The risk assessment has been continuously updated throughout the project in an excel based format. 
+For certification purposes the risk assessment is now issued as an official document. Even though this 
+document is the first official version, released inrevision 01, there are historical risk assessments 
+available on the HighComp / CSUB servers in excel format. 
+Prior to release of this document the risk assessment criteria were evaluated and updated by 
+HighComp to only focus on fish escape and fish health with regards to NS9416 certification. HSE 
+aspects are treated separately as they are not relevant for the NS9416 certification. The risk 
+assessment criteria are listed at the end of this document. 
+Page 2 of 10 
+2. Risk assessment
+
+Page 3 of 10
+18305-G-001 
+Rev. 01 
+Risk Assessment fish escape 
+Focus area: fish escape 
+Topic: Delivery of fish tanks 
+Risk assessment of project management, design, calculations, production, transport and assembling 
+C: Consequence P: Probability R: Result 
+RA Performed: 
+30.04.2021 
+Item # 
+Task/activity 
+Description of risk (duration) 
+Possible consequences 
+Existing measures 
+New risk reducing measures: E.g. 
+technical, training, organizational or 
+specific survey 
+C 
+P 
+R 
+C 
+P 
+R 
+1 
+Interface between LNS, 
+ØPD/UPONOR, FRAMO, 
+Andfjord 
+Loads/functionality/description not 
+clearly communicated/understood 
+between the parties. 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. 
+All fish will escape 
+Interfaces towards other companies has been clearly defined. 
+Load cases has been agreed in project meeting with the other 
+companies. HCs legal responsibilities are clearly defined in 
+"erkæring om ansvarsrett", design basis and "spesifikkasjon av 
+anlegget". 
+All interfaces towards other companies has been discussed 
+and reviewed in project meetings arranged by Norconsult. 
+Interface design and responsibilities has been agreed with 
+each company. 
+Before performing work on the HighComp structure these 
+contractors shall review the HighComp checklist and sign after 
+work performed (typical torque values for bolt interfaces). 
+Contractors with interfaces towards HighComp equipment 
+need to get an approval from HighComp before performing 
+work on the structure. The communication between HC and 
+the other contractors are stored on the server. 
+5 
+2 
+10 
+Customer is planning a long test 
+period. Control systems by Client 
+with rapid respons. 
+Customer to ensure seccond barrier, 
+ref. customer risk assessment 
+Customer responsibility to 
+implement 
+3 
+1 
+3 
+2 
+Changes in the major interface 
+between LNS, ØPD/UPONOR, 
+FRAMO, Andfjord 
+Loads/functionality/description not 
+clearly communicated/understood 
+between the parties. 
+Changes throughout can affect the 
+initial design parameters. 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. 
+All fish will escape 
+Ref. above. 
+HighComp will request documentation or confirmation from 
+Contractor that the work has been assessed according to 
+specifications. 
+All new specifications sent formally between parties. 
+Change management after lock of Design docs/drawings 
+Action list. 
+All loads to be listed in design report. 
+5 
+3 
+15 
+Customer is planning a long test 
+period. Control systems by Client 
+with rapid respons. 
+Customer to ensure seccond barrier, 
+ref. customer risk assessment 
+Customer responsibility to 
+implement 
+HighComp lead engineer analysis to 
+inspect structure on construction site 
+together with Project Manager and 
+Assembly manager. 
+Three engineers will visit the 
+construction site throughout the 
+assembly period. 
+This will most lilkely reduce the 
+possibility of an error not being 
+detected. 
+3 
+1 
+3 
+3 
+HighComp extended scope of 
+work; Filter frame, walkways, 
+water balance flanges 
+Important design parameters are 
+missed when new items are included 
+in the delivery. 
+Analysis not according to requirement. 
+Partial structural breakdown - local and/or global, 
+cracks. 
+It is unlikely with a full structural breakdown as 
+changes will be assessed during engineeirng 
+Change management after lock of Design docs/drawings 
+Action list. 
+All loads to be listed in design report. 
+3 
+3 
+9 
+ref above 
+Engineers on site related to filter 
+frame assembly and walkway 
+assembly which are the most 
+significant changes to SoW 
+3 
+2 
+6 
+RISK ASSESSMENT 
+Deltakere: Karsten W. Johannessen, Gunnar Semb, Stian Gitmark, Joakim Kvåle 
+Existing risks (C X P) = R 
+New risk 
+Prosjektering 
+Page 4 of 10 
+18305-G-001 
+Rev. 01 
+Risk Assessment fish escape 
+4 
+Interfaces / connection point 
+for: energirør, pipe for water 
+balance, 2" pipe, interface 
+towards water level sensor, 
+cable trays on walkways and 
+other minor interfaces 
+Loads/functionality/description not 
+clearly communicated/understood 
+between the parties. Contractor 
+connection point not as agreed with 
+HighComp. 
+Local weakeneing of the strucrue. Increased 
+deformation and small cracks 
+Contractors with interfaces towards HighComp equipment 
+need to get an approval from HighComp before performing 
+work on the structure. The communication between HC and 
+the other Entrepreneurs are stored on server. 
+Internal action lists 
+3 
+2 
+6 
+5 
+Interface Inlet / Outlet bolted 
+connection 
+Loads/functionality/description not 
+clearly communicated/understood 
+between the parties 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. 
+Sliding sleeve ("glidemuff") delivered by ØPD to prevent wall 
+from transferring significant load to ØPD pipes. HC structure 
+would benifit from a stiff connection. Interface clearly defined. 
+HC not responsible for connecting pipes to wall flange. 
+Maximum torque defined by HC and communicated to ØPD. 
+UPONOR will do the torque tension. Limitations listed in 
+checklist which will be signed by UPONOR to ensure work 
+performed according to spec. 
+2 
+2 
+4 
+6 
+Interface Outlet bolted 
+connection ØPD/UPONOR 
+Loads/functionality/description not 
+clearly communicated/understood 
+between the parties 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. Pipe flange crack due to uncontrolled 
+loads from pipe. 
+There is a barrier in front of this bolted 
+connection by a double filter (where only one 
+might be in use) which reduce the likely 
+concequence. 
+Sliding sleeve ("glidemuff") delivered by ØPD to prevent wall 
+from transferring significant load to ØPD pipes. HC structure 
+would benifit from a stiff connection. Interface clearly defined. 
+HC not responsible for connecting pipes to wall flange. 
+Maximum torque defined by HC and communicated to ØPD. 
+UPONOR will do the torque tension. Limitations listed in 
+checklist which will be signed by UPONOR to ensure work 
+performed according to spec. 
+2 
+2 
+4 
+7 
+Interface Outlet filter 
+Loads/functionality/description not 
+clearly communicated/understood 
+between the parties 
+Water pressure higher than expected. 
+Dead fish blocking filter 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. 
+Fish will espace 
+Structural integrity will be checked by calculations / FEM 
+analysis 
+Physically impossible to push filter through pipe, likely to 
+stand inside pipe while pressure inside tank. 
+Need collaps on both brackets and no water flow for filter to 
+fall into pool. 
+5 
+2 
+10 
+Seccond berrier, Customer 
+responsibility, ref. customer risk 
+assessment 
+3 
+2 
+6 
+8 
+Interface Inlet bolted 
+connection ØPD/UPONOR 
+Loads/functionality/description not 
+clearly communicated/understood 
+between the parties 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. Pipe flange crack due to uncontrolled 
+loads from pipe. 
+There is a barrier in front of this bolted 
+connection by a filter frame assembly (where only 
+one might be in use) which is not affected by a 
+breakdown in the inlet wall. 
+Sliding sleeve ("glidemuff") delivered by ØPD to prevent wall 
+from transferring significant load to ØPD pipes. HC structure 
+would benifit from a stiff connection. Interface clearly defined. 
+HC not responsible for connecting pipes to wall flange. 
+Maximum torque defined by HC and communicated to ØPD. 
+UPONOR will do the torque tension. Limitations listed in 
+checklist which will be signed by UPONOR to ensure work 
+performed according to spec. 
+1 
+2 
+2 
+9 
+"Slamsug" filter 
+Filter failure 
+Fish escape, limited diameter of pipe 
+Mechanical strength to be checked 
+3 
+2 
+6 
+10 
+Water balance filter 
+Filter failure 
+Fish escape, limited diameter of pipe 
+Mechanical strength to be checked 
+3 
+2 
+6 
+11 
+Slamsug Interface 
+Loads/functionality/description not 
+clearly communicated/understood 
+between the parties 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. 
+Flanges for connection. Interface towards FRAMO SoW, but 
+solution to be delivered by ØPD. Interfacing flange clearly 
+defined. HC not responsible for connecting flanges. Maximum 
+torque to be defined by HC and communicated to FRAMO / 
+ØPD 
+Filer in pool side of stucture not likely to be affected by flange 
+interface failure 
+1 
+3 
+3 
+12 
+Interface wall segements - 
+mountain/rock by steel pipe 
+support - GENERAL 
+Loads/functionality/description not 
+clearly communicated/understood 
+between the parties 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. 
+HighComp responsible for designing steel rods. LNS 
+responsible for connection into mountain. Loads 
+communicated from HighComp to LNS. 
+5 
+1 
+5 
+13 
+Steel support support point 
+towards rock wall / Client 
+designed structure. 
+Loads/functionality/description not 
+clearly communicated/understood. 
+Cathodic protection not assessed 
+Different contractor responsible for 
+engineering / prosjektering of this 
+interface points 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. 
+All new specifications sent formally between parties. 
+Change management after lock of Design docs/drawings 
+Action list. 
+All loads to be listed in design report. 
+5 
+3 
+15 
+Request documentation / 
+confirmation of work performed 
+Engineers to visit construction site 
+Client ressponsible for support point. 
+5 
+1 
+5 
+14 
+Changes to specification - 
+general 
+Loads/functionality/description not 
+clearly communicated/understood. 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. 
+All new specifications sent formally between parties. 
+Change management after lock of Design docs/drawings 
+Action list. 
+All loads to be listed in design report. 
+3 
+2 
+6 
+Engineering and design 
+Page 5 of 10 
+18305-G-001 
+Rev. 01 
+Risk Assessment fish escape 
+15 
+Design basis 
+Inadeqaute information provided by 
+Andfjord 
+Inadequate assumptions in Design basis. 
+Structural breakdown - local and/or global, 
+cracks. 
+Sharing of competency between HC personnel. 
+HC design personnel actively involved in meetings with Client 
+Design basis / "spesifikkasjon av anlegget" sent to Client 
+3 
+2 
+6 
+16 
+Structural analysis 
+Mismatch between design analysis 
+input data and formal Design basis 
+Analysis not according to requirement. 
+Structural breakdown - local and/or global, 
+cracks. 
+Internal review and approval of analysis. 
+5 
+1 
+5 
+17 
+Design engineering 
+Parts not fitting during assembly. 
+Functionality not according to needed level. 
+Ad hoc changes during assembly. 
+Design review. 
+3'rd party 3D scanning of lower wall (foundation) and upper 
+wall. Critical bolt pattern meassured and 3D scanned by 3'rd 
+party. This was later changed to drilling one of two adjacent 
+flanges on-site. Internal check to be performed 
+2 
+3 
+6 
+Implemented after fabrication start- 
+up; 
+FAT interface test of a few wall 
+segements. 
+Dimensional control including test 
+jiig for meassuring of stiffener 
+height. 
+Locally added fiber at top of stiffener 
+to allow for some grinding (ref. open 
+action). 
+Locally adding fiber in interfacing 
+flanges to make bolting possible. 
+Some walls will have spacing 
+between flanges after assembly on- 
+site. MEthode for solving this found 
+and material purchased. 
+2 
+2 
+4 
+18 
+Material specification 
+Choice of material not according to 
+loads or environment 
+Structural breakdown - local and/or global, 
+cracks. 
+3rd party verification when needed. 
+Use legacy test data. 
+CoC and material datasheets provided from material suppliers. 
+5 
+1 
+5 
+19 
+Fabrication 
+Not fabricated according to 
+specification 
+Structural breakdown - local and/or global, 
+cracks. 
+Review, signing and filling of fabrication check lists. 
+QC of fabricated items according to internal procedures. 
+Operator skills and training. 
+5 
+3 
+15 
+Fabrication log review meetings. 
+QC check at construction site before 
+assembly of parts 
+5 
+1 
+5 
+20 
+Storage 
+Parts not stored correctly 
+Permanent deformations of parts. Damage to 
+gelcoat surface. 
+Parts not fitting or damaged after storage 
+Storage of parts using adequate stacking material/equipment. 
+1 
+4 
+4 
+Stacking description issued to Client 
+for handling on-site and to company 
+responisble for transportation. 
+Personell on-site when recieveing 
+goods if possible. 
+1 
+2 
+2 
+21 
+Lifting 
+Lifts not according to structural 
+strength and/or material protection 
+Structural damage. 
+Surface damage. 
+Structural breakdown - local and/or global, 
+cracks. 
+Lifting drawings / assembly manual describing lifts to be 
+performed. 
+3 
+3 
+9 
+Structural analysis of critical lifts. 
+Lifting & stacking 
+drawings/description issued to Client 
+for handling on-site and to company 
+responisble for transport 
+3 
+2 
+6 
+22 
+Transport 
+Damage on structure / loss of 
+structure. Sea and/or by road. 
+Structural damage. 
+Surface damage. 
+Structural breakdown - local and/or global, 
+cracks. 
+Seafastening analysis for boat transport third party. 
+Lifting / handling drawings/description 
+Inspection of parts on-site before assembly 
+Major damages will be detected before assembly as parts will 
+be inspected 
+3 
+2 
+6 
+23 
+Transport damages 
+Not transported items adequately. 
+Structural damage. 
+Surface damage. 
+Structural breakdown - local and/or global, 
+cracks. 
+Inspection of items prior to assembly. 
+1 
+3 
+3 
+Lifting and stacking drawings 
+communicated. Recommendation of 
+stacking material (foam / wooden 
+planks etc) 
+1 
+2 
+2 
+24 
+Assembly 
+Inadequate assembly 
+Structural damage. 
+Surface damage. 
+Structural breakdown - local and/or global, 
+cracks. 
+Repair/re-work. 
+Full structural breakdown ie. if full raw of bolts 
+are forgotten 
+Ensure adequate competency of supervisor and operators. 
+Project specific training of personel 
+Using Assembly manual and assembly logs. 
+Dedicated assembly manager in project 
+5 
+1 
+5 
+Montering 
+Klargjøring før bruk/kontroll/overlevering 
+Produksjon 
+Løfting/Håndtering/Lagring 
+Page 6 of 10 
+18305-G-001 
+Rev. 01 
+Risk Assessment fish escape 
+25 
+Startup of system - filling water 
+Main structure 
+Unforeseen situations occuring during 
+startup not in line with Design 
+basis/Report/procedures 
+Design requirement is max 10cm 
+higher water level inside fish tank. 
+Situation with higher water level 
+outside fish tank is not accounted for 
+in design. 
+Structural damage. 
+Surface damage. 
+Structural breakdown - local and/or global, 
+cracks. 
+Repair/re-work. 
+Contaminated water from outside / underneath 
+floor - fish death 
+Fish escape not relevant due to test run of pool. 
+Clarify safety meassures/barriers with DnV which is not part of 
+HC SoW 
+Plan for tracking water level inside vs outside by use of visual 
+inspection and digital sensors. Meeting held between HC and 
+Customer to discuss limitations for use. It is Clients SoW to 
+keep water level within acceptace criteria. 
+User manual to describe restrictions for use. 
+Supervisor from HC available during startup. 
+1 
+3 
+3 
+0 
+26 
+Startup of system - filling water 
+Spoiler 
+Significantly higher water level 
+between main pool and "spoiler pool" 
+Structural damage. 
+Surface damage. 
+Structural breakdown - local and/or global, 
+cracks. 
+Repair/re-work. 
+Fish escape not relevant due to test run of pool. 
+Clarify safety meassures/barriers with DnV which is not part of 
+HC SoW 
+Plan for tracking water between main volume and "spoiler 
+voulme" by visual inspection and pumps. Small drain holes 
+between the volumes. Meeting held between HC and 
+Customer to discuss limitations for use. It is Clients SoW to 
+keep water level within acceptace criteria. 
+User manual to describe restrictions for use. 
+Supervisor from HC available during startup. 
+1 
+3 
+3 
+0 
+27 
+Extra equipment added on 
+structure after hand-over 
+Loads/functionality of new equipment 
+not according to spec. 
+Local weakeneing of the strucrue. Increased 
+deformation and small cracks. 
+Example - connection of Client equipment on 
+large flat panels 
+User manual to define limitations for use. HighComp to be 
+contacted for significant changes 
+3 
+3 
+9 
+Client responsible for establishing 
+system for applying changes to the 
+structure according to HC user 
+manual 
+3 
+2 
+6 
+28 
+Startup of system 
+Unforeseen situations occuring whilst 
+in use. 
+Design requirement is max 10cm 
+higher water level inside fish tank. 
+Situation with higher water level 
+outside fish tank is not accounted for 
+in design. 
+Structural damage. 
+Surface damage. 
+Structural breakdown - local and/or global, 
+cracks. 
+Repair/re-work. 
+System to be tested without fish first, ref. section above. Ref. 
+actions above 
+5 
+2 
+10 
+Seccond barrier, Customer 
+responsibility, ref. customer risk 
+assessment 
+3 
+2 
+6 
+29 
+Outlet filter clogged 
+Dead fish accumulation in front of 
+filter or significant accumulation of 
+filth 
+Un-benificail pressure drop leads to significant 
+loads on filter - filter collaps 
+Client confirm that there will always be water inside outlet 
+pipe. There are pipe solutions that ensure no unintended 
+preassure drop 
+5 
+1 
+5 
+30 
+Landslide 
+Damage to panels or steel supports. 
+Full structural breakdown 
+Client SoW to ensure integrity of the rock 
+5 
+1 
+5 
+31 
+Dropped objects along pool 
+side, truck/wheel loader etc 
+Damage to panels or steel supports 
+due to vehicles falling into pit/moat. 
+Client plan regular operations along 
+moat. 
+Full structural breakdown 
+Customer SoW to ensure safety measures. HC has proposed a 
+20cm high concrete edge along pool to prevent vehicles to fall 
+into pit/moat. Customer has confirmed a strong fence around 
+moat. 
+HC will check consequence if three rods break, not likely to 
+result in full structural collaps 
+5 
+1 
+5 
+32 
+Fish espace through filter wall 
+due to cleaning 
+Gap in wall whilst moving filters for 
+cleaning 
+Temporary filter in filter frame for 
+cleaning not installed correctly leaving 
+opening for fish to escape through 
+inlet 
+Partly fish espace 
+customer will design temporary PE filters for use while 
+cleaning the primary filter. If fish will espace they will be 
+stoped by Client barriers after entering the inlet pipe 
+customer responsible for designing and purchasing filters for 
+filter frame. HC has participated in design reviews to establish 
+a good design. 
+3 
+2 
+6 
+33 
+Foundation gravel 
+sinks/changes over time 
+Pool cricket, potential cracks in 
+structure 
+Contaminated water entering pool 
+Fish escape 
+Foundation reqirements defined in separate document and 
+confirmed ok by responsible contractor 
+3 
+3 
+9 
+User manual to define inspection 
+regime 
+3 
+1 
+3 
+34 
+All filters clogged 
+Uncontrolled water level inside tank 
+Significant deformation, srtuctural breakdown, 
+cracks, fish escape 
+Client to ensure routines for maintenance of filters. 
+Monitoring water level by sensor (Client SoW) 
+5 
+2 
+10 
+Customer to ensure seccond barrier, 
+ref. customer risk assessment 
+3 
+2 
+6 
+35 
+Accumulation of dirt in filter 
+profiles 
+Accumulation of dirt - fish health 
+H2S, danger to fish health and possible fish death 
+Customer has approved design. Poroposed pressurized hose 
+for cleaning. Client responsible for inspection and define 
+inspection and cleaning intervalls. 
+3 
+5 
+15 
+To be highlighted in HC User manual 
+Customer to establish inspection and 
+maintenance regime (Not HC 
+responsibility) 
+3 
+2 
+6 
+Drift 
+Page 7 of 10 
+18305-G-001 
+Rev. 01 
+Risk Assessment fish escape 
+36 
+Accumulation of dirt in 
+walkways enter the pool 
+Accumulation of dirt - fish health 
+Fish exposed to chemicals, potentially affecting 
+the fish health 
+Customer is ultimately responsible for the use of the walkways 
+whilst in operation. Customer is responsible for chemicals 
+stored in walkway at any time. 
+Walkway is design to lead the water away from the pool, 
+hence a leakage will not result in liquid enering inside of the 
+pool. 
+3 
+1 
+3 
+37 
+Clogged spoiler pipes 
+Accumulation of dirt - fish health 
+H2S, danger to fish health 
+3 
+2 
+6 
+Define required meassures in user 
+manual: 
+It is unlikely to be clogged as there is 
+always preassure through the pipes 
+and water flow is away from the fish 
+where dirt will accumulate. 
+Inspection regime recomended. Plan 
+for cleaning methode (pressurized 
+pipe) reccomended to Client 
+3 
+2 
+6 
+38 
+Clogged spoiler pipes whilst 
+emptying the pool 
+Not possible to drain spoiler 
+Structural damage. 
+Surface damage. 
+Structural breakdown - local and/or global, 
+cracks. 
+Repair/re-work. 
+If not detected, potential fish escape after next 
+filling 
+3 
+3 
+9 
+Define required meassures in user 
+manual: 
+Requirement to check pipes before 
+emptying the tank. 
+Back-up water pumps to assist in 
+emptying spoiler volume. 
+It is unlikely to be clogged as there is 
+always preassure through the pipes 
+and water flow is away from the fish 
+where dirt will accumulate. 
+3 
+2 
+6 
+39 
+Clogged "slamsug". Pump stops Accumulation of dirt inside pipe- fish 
+health 
+H2S, danger to fish health 
+Customer SoW to clean filter - cleaning robots planned 
+Clogged pipes / FRAMO pump pipe is difficult to access. 
+Customer SoW to plan for this scenario. 
+5 
+3 
+15 
+to be discussed with Client. Blind 
+plate to be installed temporaraly? 
+5 
+1 
+5 
+40 
+Fish espace over edge due to 
+uncontrolled filling of water 
+Fish escape over edge 
+Fish escape 
+Client to install jumping net to accound for this, ref. Client risk 
+assessement. Not HC SoW 
+3 
+1 
+3 
+41 
+Fish exposed to untreated GRP Exposure to chemicals, fish health. 
+Filter frame 
+Fish health, over time some chemiclas may leave 
+the GRP and be mixed with the water. 
+Contamination level is considered to be negligible 
+as the exposed surface is very limited comapred 
+to volume inside tank 
+None 
+1 
+1 
+1 
+42 
+Customer equipment damage 
+the wall panels 
+Impact penetrate the wall. Example 
+use of boats, "capstan", cleaning ROV 
+Fish espcae 
+Water from moat enter fish tank (limited extent 
+as there is over pressure inside the tank) 
+Customer responsible for risk assessment for use of 
+equipment 
+Limitations for use described in user manual 
+Walkways will reduce need to use boats 
+3 
+3 
+9 
+43 
+Use of winch inside walkway 
+Loads transfered to top of wall 
+segment. Damage to wall structure 
+top flange 
+Deformation in wall segment, possible leakage 
+Design report- winch data sheet sent to HighComp. Maximum 
+load of winch acounted for in design. Limitations to be listed in 
+user manual and drawing pack 
+2 
+1 
+2 
+44 
+Lack of inspection & 
+maintenance 
+Structural breakdown, bolts / 
+connects, filter collpases 
+Fish escape 
+User manual to define reccomended inspection regime. Client 
+responsibility to track maintanence, ref. Client risk 
+assessement 
+5 
+1 
+5 
+45 
+Jumping net 
+fish can jump out of pool 
+Fish escape 
+Walls are 20,0m high, maximum water level is 17,5 +/- 0,9m. 
+Fish need to jump 1,6m to escape. 
+Customer SoW to provide a safety barrier such as jumping net, 
+assessed in Customer SoW 
+3 
+1 
+3 
+46 
+Ice on water 
+Damage to construction 
+Local and/or global, cracks. Fish espace 
+Temperatur in water will prevent ice accumulation. 
+User manual state that water on both sides shall be kept free 
+from ice. 
+3 
+1 
+3 
+47 
+Minus degrees when pool is 
+empty 
+Damage to construction, damage to 
+stiffeners over time. Stiffeners will 
+absorbe water which could expand 
+when exposed to minus degrees. 
+Structural breakdown - local and/or global, 
+cracks. 
+Fish espcae 
+Inspection regime to detect potential damages 
+4 
+2 
+8 
+Page 8 of 10 
+18305-G-001 
+Rev. 01 
+Risk Assessment fish escape 
+48 
+Dropped objectsinside pool 
+Heavy objects could fall from 
+walkway, boat or crane. Landing on 
+horizontal radius or floor segments 
+Example of element is the movable 
+winches. 
+Floor segemens - contaminated water may entre 
+the fish tank. Limited possibility to escape. 
+"slamsug" filter is damaged or breaks, fish escape 
+horizontal radius is penetrated. Thre are drainage 
+holes in foundation which may allow fish to 
+escape to the moat. Damege is expected to be 
+local, meaning fish wil be able to escape, but with 
+limited extent. It will be difficult to repair 
+horizontal radius 
+Limitations for use defined in suer manual 
+4 
+2 
+8 
+Page 9 of 10 
+18305-G-001 
+Rev. 01 
+Risk Assessment fish escape 
+Probability Category 
+Corresponds to: 
+1 
+Very Unlikely 
+Almost unthinkable 
+2 
+Unlikely 
+Can happen 
+3 
+Possible 
+Has happened 
+4 
+Likely 
+Several times pr. year 
+5 
+Very Likely 
+Several times pr. month 
+Consequence Category 
+Fish health 
+Fish escape 
+5 
+Significant dirt accumulation or exposure to chemicals 
+without possibility to inspect, clean and control the 
+outcome 
+Significant fish escape or escape of full population. 
+Escape caused by a uncontrolled significant leakage, 
+failure or structural breakdown. Reapir not possible. 
+3 
+4 
+Fish will escape, but the extend will not lead to an instant 
+escape of the entire population. Typical caused by minor 
+cracks, minor leakage, partial structure failure. 
+Substantial fish escape 
+Typical caused by significant cracks and leakage with 
+limited possibility to reapir damage 
+Dirt accumulation or exposure to checmicals is expected. 
+Dirt accumulation or exposure to chemicals is expected 
+with limited possiblity to inspect or clean exposed area. 
+1 
+2 
+No fish escapes / single individuals 
+Escape with limited extent, but more than single 
+individuals 
+No or minimal dirt accumulation, chemicals or other 
+factors that could affect the fish health 
+Minor dirt accumulation or minor exposure to chemicals 
+or other factors that could affect the fish health. 
+Page 10 of 10

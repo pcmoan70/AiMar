@@ -1,0 +1,1010 @@
+﻿Forundersøkelse 
+for 
+Snyen 
+NS9410:2016 
+          
+ 
+ 
+ 
+Oppdragsgiver 
+NorCod AS 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 2 av 28 
+ 
+Forundersøkelse for Snyen 
+Rapportnummer 
+104492-01-001 
+Rapportdato 
+02.09.2022 
+ 
+Type 
+Dato 
+Leverandør 
+Grunnlag 
+B-undersøkelse  
+C-undersøkelse 
+Strømmålinger: 
+CTDO-undersøkelse:  
+Bunnkartlegging:  
+09.04.2022 
+04.07.2022 
+04-06/2022 
+04.07.2022 
+09.04.2022 
+Åkerblå AS 
+Åkerblå AS 
+Åkerblå AS 
+Åkerblå AS 
+Åkerblå AS 
+Revisjonsnummer 
+Revisjonsbeskrivelse 
+ 
+ 
+Lokalitet 
+Lokalitet 
+Snyen 
+Meløy kommune,  Nordland fylke 
+Lokalitetsnummer 
+Ny 
+Oppdragsgiver 
+Selskap 
+NorCod AS 
+Kontaktperson 
+Julianne Jacobsen 
+Oppdragsansvarlig 
+Selskap 
+Åkerblå AS  
+Nordfrøyveien 413                   Organisasjonsnummer 916 763 816 
+7260 Sistranda 
+Forfatter (-e) 
+Andreas Eilefsen 
+Godkjent av 
+Erik Schmidt Lindgaard 
+Distrubisjon 
+Denne rapporten kan kun gjengis i sin helhet.  Gjengivelse av deler av rapporten kan kun 
+skje etter skriftlig tillatelse fra Åkerblå AS.  I slike tilfeller skal kilde oppgis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forsidefoto: Dagfinn B. Skomsø 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 3 av 28 
+Forord 
+Forundersøkelsen presenterer kortfattet resultater fra batymetrisk kartlegging, strømmålinger, 
+hydrografiske data og B- og C-undersøkelser fra det omsøkte anleggsområdet og 
+overgangssonens utstrekning. Forundersøkelsen vil gi et bilde av anleggets influensområde og vil 
+fungere som en referanse for fremtidige undersøkelser. 
+ 
+Åkerblå AS er akkreditert for vurdering og fortolkning av resultater etter ISO 16665 (2013), SFT-
+Veileder 97:03 og NS9410 (2016), samt NIVA- rapport 4548 (Berge 2002) og Veileder 02:2018. 
+Åkerblå AS sitt laboratorium tilfredsstiller kravene i NS-EN ISO/IEC 17025.  
+ 
+ 
+ 
+Forundersøkelse for Snyen 
+Rapportnummer: F-M-104492-01-001 
+Side 4 av 28 
+Sammendrag 
+Åkerblå AS har utført en forundersøkelse i forbindelse med søknad om etablering av ny lokalitet, 
+Snyen. 
+Overgangssone: Strømmålinger utført ved lokalitet viser at hovedstrømsretningen er mot 
+sørvest, med en returstrøm mot nord-nordøst. Ut ifra anleggets beliggenhet vil sannsynligvis 
+spredningsstrømmen gå inn og ut av sundet (sørvest til nord). På bakgrunn av bunntopografi og 
+strømforhold er overgangssonen satt med størst utstrekning i hovedstrømsretningen mot 
+sørvest, 400 meter fra anleggsrammen. I returstrømsretningen mot nordøst strekker sonen seg 
+ca. 360 meter. Mot nordvest og sørøst blir sonen avgrenset av land og grunnere områder. 
+Anleggssone: Det ble opprettet 13 stasjoner som ble jevnt fordelt i planlagt anleggsramme. Det 
+ble ikke registrert tegn til organisk opphopning i undersøkelsen. Anleggssonen ble bestemt å 
+følge anleggsrammen. Det var gjort kjemiske målinger i seks av prøvene, og det forventes at 
+alternativ overvåking ikke er nødvendig. 
+Sjøbunnen mot sørvest, og tildels mot nord, forventes å være akkumulerende grunnet 
+hovedstrømsretning og returstrøm. Kunnskapen om referansetilstanden i disse områdene er nå 
+god. Det forventes at resuspensjon kan forekomme på sjøbunnen, både i anleggssonen og 
+overgangssonen, slik at belastningen kan opptre temporalt. 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 5 av 28 
+Innholdsfortegnelse 
+Innholdsfortegnelse ............................................................................................................... 5 
+1. Innledning .......................................................................................................................... 6 
+2. Områdebeskrivelse ............................................................................................................ 7 
+2.1 Lokalitet .............................................................................................................................................................. 7 
+3. Resultater .......................................................................................................................... 9 
+3.1 Bunnkartlegging ................................................................................................................................................. 9 
+3.2 Strømmålinger .................................................................................................................................................. 11 
+3.3 B-undersøkelse ................................................................................................................................................. 14 
+3.4 C-undersøkelse ................................................................................................................................................. 16 
+4. Diskusjon ......................................................................................................................... 21 
+Litteratur ............................................................................................................................. 22 
+Vedlegg ............................................................................................................................... 23 
+ 
+ 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 6 av 28 
+1. Innledning 
+Forundersøkelsen omfatter en redegjøring av sjøbunnmiljøet i området rundt et planlagt eller 
+eksisterende akvakulturanlegg og grunngir overvåkingsmetodikk som skal overvåke 
+miljøpåvirkning/tilstanden i resipienten. Forundersøkelser kreves ved etablering av anlegg og 
+før en vesentlig utvidelse av eksisterende anlegg for å kunne konstantere påvirkning på miljøet 
+før og etter en ny kilde er introdusert (NS9410:2016). Forundersøkelsen varierer noe i krav og 
+omfang mellom fylker hvor det er laget egne veiledere.  
+ 
+Data som skal inngå i en forundersøkelse etter NS9410: 
+- 
+Strømmålinger fra ulike dyp for å god informasjon om strømmønsteret (i praksis 4 dyp) 
+- 
+Kartunderlag med tilstrekkelig oppløsning 
+- 
+Kartlegging som angir substrattype  
+- 
+Tredimensjonale bunnkart 
+- 
+Bunnprøver til partikkelanalyse for beskrivelse av bunnsubstratet 
+- 
+B-undersøkelsens gruppe II- og III- parametere 
+- 
+Bunndyrsundersøkelser på minst tre stasjoner 
+- 
+Referansestasjon minst 1 km fra anlegget i et område med representativ sjøbunn som 
+anlegget 
+ 
+Fylkesmessige føringer for forundersøkelse formulert for fylkene Trøndelag (2018); Nordland, 
+Troms og Finnmark (2018) og Sogn og Fjordane (udatert):  
+- 
+Makro infauna 
+- 
+Hydrografi på dypeste C-stasjon 
+- 
+Partikkelfordeling 
+- 
+TOC og totalt organisk materiale 
+- 
+Total nitrogen 
+- 
+B-parametere og kobber fra prøven nærmest anlegget 
+- 
+B-undersøkelse med minimum 10 stasjoner innenfor anleggsområdet; vurdering av 
+alternativ overvåking. 
+- 
+Vurdering av bæreevne og plassering/ orientering av anlegget 
+ 
+Et supplement som angår C-undersøkelsen finnes i Presisering av standard NS 9410:2016 
+(2019), utstedt av Miljødirektoratet, hvor blant annet strømvurderinger og C2-stasjonens 
+plassering er beskrevet.  
+ 
+På bakgrunn av resultater fra bunnkartlegging og strømdata avgrenses utstrekningen av 
+anleggs- og overgangssonen i forundersøkelsen. Videre blir miljøovervåking diskutert, hvor 
+utsatte områder blir identifisert og stasjonsoppsett for overvåking av miljøpåvirkningen blir 
+satt. Forundersøkelsen presenterer videre resultater fra miljøundersøkelser utført i 
+forbindelse med utredningen.   
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 7 av 28 
+2. Områdebeskrivelse 
+2.1 Lokalitet 
+Det er utredet et område i Snyflaget på østsiden av øygruppen Snyvær i Meløy kommune hvor 
+oppdrettslokalitet Snyen ønskes plassert (Figur 2.1.1). Området består av øyer, holmer og 
+skjær. Kupert sjøbunn og grunner er karakteristisk for området. Sjøbunnen hvor anlegget skal 
+plasseres har en fordypning i nord og sør, omgitt av grunnere områder. Dybde under 
+anleggsrammen som varierer fra 40 – 80 meter (figur 2.1.2). Det er enkelte grunnere områder 
+mellom anlegget og de dypere områdene i de sentrale fjordene.  
+ 
+Lokaliterten skal søkes for en MTB på 3 599 tonn. Lokaliteten planlegges som et rammeanlegg 
+med to burrekker på fem bur, totalt ti bur, som er orientert nordvest-sørøst. 
+ 
+ 
+Figur 2.1.1 Planlagt plassering av lokaliteten (rød stjerne sentralt i kartet) og omkringliggende anlegg. Kartet har 
+nordlig orientering. Kartdatum WGS84 
+ 
+Forundersøkelse for Snyen 
+Rapportnummer: F-M-104492-01-001 
+Side 8 av 28 
+Figur 2.1.2. Oversikt over nærområdet til lokaliteten (sentralt i kartet) med batymetriske data. Anlegget er 
+inntegnet med ramme, fortøyningsliner og fôrflåte. Kartet er nordlig orientert med kartdatum WGS84 hvor 
+mørkere blå farge representerer dypere områder. 
+Forundersøkelse for Snyen 
+Rapportnummer: F-M-104492-01-001 
+Side 9 av 28 
+3. Resultater 
+3.1 Bunnkartlegging 
+Bunnen som ble vurdert å være innenfor influensområdet og områder som vil bli benyttet til 
+forankring av anlegget ble kartlagt 09.04.22 (figur 3.1.1-3.1.3). Hardhetsoppmålingen (figur 
+3.1.2) indikerte at sedimentet er relativt mykt (illustrert med grønn/blå farge) ved majoriteten 
+av området, mens grunnere topper hovedsakelig i den vestlige delen fremstår som hardbunn 
+(illustrert med gul/rød farge). 
+Figur 3.1.1. Bunnkartlagt område rundt planlagt oppdrettslokalitet. Anlegget er presentert med ramme og 
+fortøyningsliner. Kartet er nordlig orientert med kartdatum WGS84 hvor mørkere blå farge representerer dypere 
+områder. 
+Forundersøkelse for Snyen 
+Rapportnummer: F-M-104492-01-001 
+Side 10 av 28 
+Figur 3.1.2. Relativ hardhet på sedimentet rundt anlegget illustrert med en fargegradient fra rødt til blått/lilla. 
+Planlagt fortøyningsliner og anleggsplassering er gitt i kartet. Kartet er nordlig orientert. Kartdatum WGS84. 
+Figur 3.1.3. Tredimensjonalt kart av bunnen under anlegget. 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 11 av 28 
+3.2 Strømmålinger 
+Det har vært utført strømmålinger på lokaliteten ved fire forskjellige dyp, fordelt på to rigger 
+(Tabell 3.2.1). 
+ 
+Tabell 3.2.1. Oversikt over strømmålinger utført på lokaliteten.  
+Tittel rapport og årstall 
+Dok-ID 
+Dyp  
+Koordinater 
+Strømrapport Måling avoverflate-(5m), 
+dimensjonerings-(15m), sprednings-(44m) og 
+bunnstrøm (79m) ved Snyen i april -juni 2022 
+SR-NC-Snyen-
+104488-01-
+001 
+5 og 15 
+meter 
+66° 47.966' N; 013° 06.828' Ø 
+ 
+Strømrapport Måling avoverflate-(5m), 
+dimensjonerings-(15m), sprednings-(44m) og 
+bunnstrøm (79m) ved Snyen i april -juni 2022 
+SR-NC-Snyen-
+104488-01-
+001 
+44 og 79 
+meter 
+66° 48.039' N; 013° 06.682' Ø 
+ 
+Strømmålinger var utført fra april-juni, og ble plassert i  anleggsrammen med posisjon 
+66˚47.966′ N 13˚06.828′ Ø og 66° 48.039' N; 013° 06.682' Ø (Figur 2.3.1). 
+Spredningsstrømsmålingen er presentert i Figur 3.2.2.  
+ 
+Maksimal strømhastighet var 39.9cm/s mot NØ på 5m, 30.0cm/s mot NØ på 15m, 20.4cm/s 
+mot NØ på   spredningsdyp  (44m)  og 26.5cm/s  mot Ø på bunndyp (79m). Maksstrømmen   er   
+langs hovedstrømretning på alle dyp, med unntak av spredningsdyp (44m) og er vurdert som 
+middels sterk på 5m og spredningsdyp (44m), og som sterk på 15mog bunndyp (79m). 
+ 
+ 
+Signifikant maksimal strømhastighet var 16.2cm/s på 5m, 12.3 cm/s på 15m, 5.0 cm/s på 
+spredningsdyp (44m) og 6.1 cm/s på bunndyp (79m) og er vurdert som middels sterk på 5m og 
+15m, og som svak på spredningsdyp og bunndyp. Det var tilfeller der strøm var > 30cm/s på 
+5m og 15m dyp. 
+ 
+Gjennomsnittlig strømhastighet er vurdert som sterk på 5m, og15m, og som svak på 
+spredningsdyp (44m) og som svak på bunndyp (79m). Gjennomsnitt strømhastighet var ≥ 
+2cm/s på alle dyp.  
+ 
+Prosent nullmålinger (< 1cm/s) var mindre enn 10% på 5m og 15m dyp. Prosent nullmålinger 
+(< 1cm/s) var 13.5% på spredningsdyp (44m) og 10.5% på bunndyp (79m). Lengst varighet for 
+strøm < 1cm/s var 60 minutter (1t) på 5m, 50 minutter på 15m, 100 minutter (1t 40min) på 
+spredningsdyp (44m) og 90 minutter (1t 30min) på bunndyp (79m). Det var korteperiodermed 
+strømstillepå 5m og 15m. 
+ 
+Strømretninger og vannutskiftning stemmer med områdets bunntopografi. Vannutskiftningen  
+er vurdert som god på 15m, sprednings-og  bunndyp (selv om Neumann-parameterener lav), 
+fordi vannet beveger seg bort fra startpunktet og ikke bare flyter fram og tilbake. Neumann-
+parameteren er vurdert som svært lite stabil på 5m, og middels stabil på 15m, spredningsdyp  
+(44m) og bunndyp (79m).  
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 12 av 28 
+ 
+Det var tilfeller der strøm var > 10cm/s på både spredningsdyp (44m) og bunndyp (79m). Dette 
+er gunstig med tanke på spredning av organisk materiale fra anlegget. 
+ 
+ 
+Figur 3.2.1. Plassering av strømrigg(er) relativt til anleggsrammen. 
+ 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 13 av 28 
+ 
+Figur 3.2.2. Strømroser indikerer hovedstrømsretning og strømhastighet over ulike himmelretninger.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 14 av 28 
+3.3 B-undersøkelse 
+Sjøbunnen under planlagt anleggsplassering ble dokumentet gjennom 13 forhåndsbestemte 
+stasjoner. Stasjonene ble plassert ved hver av de ti merdene som er planlagt til bruk, samt tre 
+stasjoner fordelt i midten av anlegget, for å dekke størst mulig område av anleggssonen (Figur 
+3.3.1; Tabell 3.3.2). Sjøbunnen under anleggsrammen er kupert med varierende hardhet. 
+Enkelte dypområder i området kan tenkes å fungere som akkumuleringspunkter. Ved en 
+eventuell produksjon ved lokaliteten, vil B-undersøkelse etter NS9410:2016 være tilstrekkelig 
+overvåkning av anleggssonen.  
+ 
+Resultatene fra undersøkelsen viser sediment i naturlig tilstand, bestående av sand og 
+skjellsand med fast konsistens og lys farge. Det ble ikke påvist lukt, slam eller gass ved noen 
+av stasjonene. Det kjemiske målingene viste naturlige verdier. Det ble registrert gravende 
+bunndyr ved 9 av 13 stasjoner (Figur 3.3.2).   
+ 
+Tabell 3.3.2. Hovedresultater fra B-undersøkelse.  
+Hovedresultater fra B-undersøkelsen 
+Parametergruppe og indeks 
+Parametergruppe og tilstand 
+Gr. II pH/Eh 
+0,00 
+Gr. II pH/Eh 
+1 
+Gr. III Sensorikk 
+0,08 
+Gr. III Sensorisk 
+1 
+Gr. II+III 
+0,04 
+Gr. II + III 
+1 
+Dato feltarbeid 
+09.04.2022 
+Dato rapport 
+08.07.2022 
+Lokalitetstilstand 
+1 
+Delresultater fra B-undersøkelsen 
+Ant. grabbstasjoner 
+13 
+Ant. grabbhugg 
+19 
+Type sediment 
+Dominerende 
+Mindre dominerende 
+Minst dominerende 
+Sand 
+Skjellsand 
+Grus 
+Antall grabbstasjoner  (gruppe II og III) med følgende tilstand 
+Tilstand 1 
+13 
+Tilstand 3 
+0 
+Tilstand 2 
+0 
+Tilstand 4 
+0 
+Indeks illustrert tilstand 
+1 
+2 
+3 
+4 
+↑ 
+ 
+Forundersøkelse for Snyen 
+Rapportnummer: F-M-104492-01-001 
+Side 15 av 28 
+Figur 3.3.1 Batymetrisk kart med planlagt anleggsplassering (ramme) og prøvestasjoner for B-undersøkelse med 
+tilstandsklasse (blå firkant; Tilstand 1, grønn firkant; Tilstand 2, gul firkant; Tilstand 3, rød firkant; Tilstand 4). 
+Kartet har nordlig orientering. Kartdatum WGS84. 
+Figur 3.3.2. 3D-kart over bunnen med planlagt anleggsplassering (ramme) og prøvestasjoner for B-undersøkelse 
+med tilstandsklasse (blå firkant; Tilstand 1, grønn firkant; Tilstand 2, gul firkant; Tilstand 3, rød firkant; Tilstand 
+4). Kartet har vestlig orientering. Kartdatum WGS84 (Åkerblå AS, 2017b). 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 16 av 28 
+3.4 C-undersøkelse 
+Det skal søkes om 3 599 tonn i MTB, noe som i henhold til NS9410:2016 tilsvarer 4 ordinære 
+prøvestasjoner, samt en referansestasjon.  
+ 
+Strømmålinger utført ved tenkt lokalitet viser at hovedstrømsretningen er mot sørvest, med 
+en returstrøm mot nord-nordøst (figur 3.2.2). Ut ifra anleggets beliggenhet vil sannsynligvis 
+spredningsstrømmen gå inn og ut av sundet (sørvest til nord). På bakgrunn av bunntopografi 
+og strømforhold er overgangssonen satt med størst utstrekning i hovedstrømsretningen mot 
+sørvest, 400 meter fra anleggsrammen. I returstrømsretningen mot nordøst strekker sonen 
+seg ca. 360 meter. Mot nordvest og sørøst blir sonen avgrenset av land og grunnere områder. 
+Relativ hardhet kartlegging antyder gode prøveforhold i overgangssonen (figur 3.1.2). 
+ 
+SNY-1 (C1) ble plassert på sørsiden av det tiltenkte anlegget på bakgrunn av 
+hovedstrømsretningen mot sørvest, ettersom ingen stasjoner i B-undersøkelsen viste tegn til 
+belastning (figur 3.3.1). SNY-2 (C2) ble plassert i hovedstrømsretningen ca. 395 meter fra 
+anlegget mot sørvest. SNY-3 ble plassert mellom C1 og C2 for å danne et transekt i 
+hovedstrømsretningen. Slike transekter kan avdekke eventuelle gradienter i belastningsbildet. 
+SNY-4 (C4) ble plassert nord-nordøst for anlegget for å overvåke eventuell partikkelspredning 
+i returstrømsretningen. Referansestasjonen (SNY-REF) ble plassert 3,4 km unna anlegget med 
+tilsvarende dyp og bunnforhold som i overgangssonen (tabell 3.4.1; figur 3.4.1-3.4.2). 
+Informasjon om stasjonene finnes i tabell 3.4.1. 
+ 
+Tabell 3.4.1. Stasjonsbeskrivelser. Stasjonsplasseringen beskrives i NS9410 (2016) som overgangen mellom 
+anleggssonen og overgangssonen (C1), ytterkant av overgangssone (C2) og som overgangssone (C3, C4 osv.). 
+Undersøkelsen omfatter kvalitative faunaprøver (FAU), pH- og Eh målinger (PE), kjemiske parametere (KJE), 
+geologiske parametere (GEO) og hydrografiske målinger (CTD). Koordinater er oppgitt med datum WGS84 og 
+avstand fra merdkant og dyp (meter) på prøvestasjonen er oppgitt. 
+Stasjon 
+Koordinater 
+Avstand 
+Dyp 
+Parametere 
+Plassering 
+SNY-1 
+66°47.945'N / 13°06.707'Ø 
+25-30 
+51 
+FAU, KJE, GEO, PE 
+C1 
+SNY-2 
+66°47.746'N / 13°06.416'Ø 
+395 
+71 
+FAU, KJE, GEO, PE 
+C2 
+SNY-3 
+66°47.839'N / 13°06.606'Ø 
+200 
+65 
+FAU, KJE, GEO, PE 
+C3 
+SNY-4 
+66°48.134'N / 13°06.960'Ø 
+190 
+68 
+FAU, KJE, GEO, PE, CTD 
+C4 
+SNY-REF 
+66°46.530'N / 13°03.798'Ø 
+3370 
+51 
+FAU, KJE, GEO, PE 
+REF 
+ 
+Samlet viser faunaresultatene gode forhold i den tiltenkte overgangssonen, der stasjonene ble 
+klassifisert med enten beste (SNY-4) eller nest beste tilstand (SNY-2 og SNY-3). 
+Artssammensetningen varierte noe mellom stasjonene og ble hovedsakelig dominert av 
+forurensningsnøytrale, -tolerante og opportunistiske arter (NSI 2-4). Det var imidlertid ingen 
+enkeltarter som dominerte stort og biodiversiteten var generelt høy. De geokjemiske 
+resultatene viste i hovedsak lave konsentrasjoner og bidrar med dette til å underbygge de 
+gode faunaforholdene. Referansestasjonen viste tilsvarende fauna- og geokjemiske forhold 
+som i overgangssonen og antas derfor som representativ for områdets naturlige tilstand.  
+ 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 17 av 28 
+Samtlige grabbhugg ble godkjent for volum og uforstyrret overflate, men det ble registrert 
+forskjeller i indekser mellom grabbhugg ved enkelte stasjoner. Dette antas imidlertid ikke å ha 
+påvirket resultatene i nevneverdig grad og Åkerblå mener derfor at prøvene er gode nok til å 
+kunne overvåke den økologiske tilstanden ved Snyen (Tabell 3.4.2).  
+ 
+ 
+Figur 3.4.1. Plassering av anleggsramme med bunntopografi, prøvestasjonsplassering (brun runding), 
+målepunkt for strømundersøkelse (flagg) og antatt utstrekning av overgangssonen (gul linje). Kartet har nordlig 
+orientering og mørkere blå farge representerer dypere områder. Overgangssonens utstrekning er gitt gjennom 
+gul linje i kartet og er satt etter vurdering av parameterne strøm, batymetri, sedimenthardhet, planlagt 
+anleggsplassering og MTB. Kartdatum: WGS84.   
+ 
+ 
+Figur 3.4.2. Referansestasjonens plassering i forhold til anlegget. Kartdatum: WGS84. 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 18 av 28 
+Tabell 3.4.2. Hovedresultater. Antallet arter og individer er oppgitt per prøvestasjon og Shannon-wiener indeks 
+(H'), Tilstandsverdi (økologisk kvalitetsratio: nEQR), vurdering av overgangssonen og klassifisering av kobber (Cu) 
+er oppgitt med klassifisering (NS9410 (2016) og Veileder 02:2018 (2018). 
+ 
+ 
+Anleggssone 
+Ytterst 
+Overgangssone 
+Referanse 
+ 
+SNY-1 
+SNY-2 
+SNY-3 
+SNY-4 
+SNY-REF  
+Avstand  til anlegg (m) 
+25-30 
+ 
+200 
+190 
+3370 
+Dyp (m) 
+ 
+ 
+ 
+ 
+ 
+GPS koordinater 
+66°47.945'N 
+13°06.707'Ø 
+66°47.746'N 
+13°06.416'Ø 
+66°47.839'N 
+13°06.606'Ø 
+66°48.134'N 
+13°06.960'Ø 
+66°46.530'N 
+13°03.798'Ø 
+ 
+Bunnfauna 
+(Veileder 02:2018) 
+Ant. arter 
+137 
+88 
+80 
+102 
+99 
+Ant. ind. 
+1050 
+758 
+709 
+516 
+518 
+H' 
+5,647 
+4,749 
+4,203 
+5,250 
+5,272 
+nEQR 
+verdi 
+0,910 
+0,799 
+0,708 
+0,877 
+0,901 
+Gj.snitt nEQR 
+overgangssone 
+ 
+ 
+II – God 
+0,793 
+ 
+Oksygen i bunnvann 
+(mg O2/l) 
+ 
+ 
+ 
+8,63 
+ 
+Organisk stoff 
+nTOC (mg/g) 
+31,6 
+23,2 
+27,2 
+20,9 
+20,2 
+Cu (mg/kg TS) 
+9,3 
+<5,0 
+6,6 
+<5,0 
+<5,0 
+ 
+Tilstand for C1 
+Meget god 
+ 
+ 
+ 
+ 
+Tidspunkt for neste undersøkelse: 
+Første produksjonssyklus 
+ 
+Kornfordelingen viser at prøvene i hovedsak bestod av sand, med en mindre andel leire og silt 
+og grus. SNY-1 skilte seg noe fra de andre stasjonene ved at innholdet av grus var størst (Tabell 
+3.4.3).  
+ 
+Tabell 3.4.3. Kornfordeling. Leire og silt er definert med kornstørrelser < 0,063 mm, sand er definert med 
+kornstørrelser fra 0,063 – 2 mm, og grus er definert med kornstørrelser > 2 mm. Manglende data er merket med 
+i.a. 
+Stasjon 
+Leire og Silt (%) 
+Sand (%) 
+Grus (%) 
+SNY-1 
+16,7 
+39,2 
+44,1 
+SNY-2 
+25,5 
+68,8 
+5,7 
+SNY-3 
+24,9 
+68,7 
+6,4 
+SNY-4 
+20,0 
+78,0 
+2,1 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 19 av 28 
+SNY-REF 
+16,4 
+81,9 
+1,7 
+ 
+Det ble ikke registrert tegn på reduserte forhold gjennom sensoriske (farge, lukt og konsistens) 
+og kjemiske deteksjonsparametere (pH og Eh) i prøvematerialet fra overgangssonen (Tabell 
+3.4.4).  
+ 
+Tabell 3.4.4. pH- og Eh-verdier fra målinger av sedimentoverflaten og vurderinger av sedimentets farge, lukt og 
+konsistens. For surhetsgrad og redokspotensial går beregnet poengverdi fra 0 til 5 hvor 0 er best. Tilstanden går 
+fra 1 til 4 hvor 1 er meget god, og 4 er meget dårlig (NS 9410 2016). For sensoriske vurderinger vurderes  
+Stasjon 
+pH 
+Eh 
+pH/Eh poeng 
+Tilstand 
+SNY-1 
+7,65 
+132 
+0 
+1 – Meget god 
+SNY-2 
+7,41 
+197 
+0 
+1 – Meget god 
+SNY-3 
+7,43 
+95 
+0 
+1 – Meget god 
+SNY-4 
+7,66 
+254 
+0 
+1 – Meget god 
+SNY-REF 
+7,74 
+345 
+0 
+1 – Meget god 
+ 
+Innholdet av karbon (nTOC) ble klassifisert med tilstand 3  for stasjoner (SNY-1) og tilstand 2 
+for øvrige stasjoner. Innholdet av kobber og sink ved alle stasjoner var lave og ble klassifisert 
+med tilstand I (bakgrunn). De kjemiske parameterne viser i hovedsak lave konsentrasjoner i 
+hele området. Det bør dog bemerkes at innholdet av nitrogen var betydelig høyere ved SNY-2 
+enn ved øvrige stasjoner (Figur 3.4.5). 
+ 
+Tabell 3.4.5. Innhold av undersøkte kjemiske parametere i sedimentet og etter innholdet av tørrstoff (TS). 
+Tilstand (TS) er oppgitt etter FT Veileder 97:03 for normalisert TOC (nTOC; mg/g) og totalt organisk materiale 
+(TOM; glødetap i % av TS). Sink (Zn; mg/kg TS) og kobber (Cu; mg/kg TS) klassifiseres etter Veileder 02:2018. 
+Fosfor (P; mg/kg TS) og nitrogen (N; mg/kg TS) har ikke tildelt tilstand og karbon-nitrogenforholdet (C:N) er 
+oppgitt som ratio mellom de to enhetene. Måleusikkerhet er oppgitt for kobber, sink, fosfor og nitrogen. 
+Manglende data er merket med i.a. 
+Stasjon 
+TOM 
+TOC 
+nTOC TS 
+N 
+± 
+C:N 
+P 
+± 
+Zn 
+± 
+TS 
+Cu 
+± 
+TS 
+SNY-1 
+3,10 
+16600 
+31,6 
+III 
+1000 
+230 
+16,6 856 111 27,2 
+5,8 
+I 
+9,3 
+2,8 
+I 
+SNY-2 
+3,45 
+9820 
+23,2 
+II 
+15400 
+2780 
+0,6 
+866 113 17,8 
+3,8 
+I 
+<5,0 i.a. 
+I 
+SNY-3 
+4,48 
+13700 
+27,2 
+II 
+2700 
+510 
+5,1 
+910 118 70,1 14,7 
+I 
+6,6 
+2,6 
+I 
+SNY-4 
+2,44 
+6520 
+20,9 
+II 
+900 
+220 
+7,2 
+675 
+88 
+13,8 
+3,0 
+I 
+<5,0 i.a. 
+I 
+SNY-REF 
+3,17 
+5160 
+20,2 
+II 
+900 
+220 
+5,7 
+455 
+59 
+14,6 
+3,1 
+I 
+<5,0 i.a. 
+I 
+ 
+Salinitet, temperatur og oksygeninnhold ble målt fra overflaten og til like over bunnen ved 
+stasjon SNY-4 (figur 3.4.1). Fra overflaten og ned til rundt 20 meters dyp var det en tydelig 
+nedgang i temperatur (fra ca. 14,5oC til ca. 9,5oC) og økning i salinitet (fra ca. 29,0 ‰ til 33,0 
+‰). Videre nedover mot bunndypet stabiliserte verdiene seg gradvis. Oksygeninnholdet og -
+metningen økte fra overflaten og ned til rundt 15 meters dyp for å deretter vise en jevn 
+nedgang i verdier ned til bunndypet. Oksygennivået i bunnvannet klassifiseres som svært 
+godt. 
+ 
+ 
+ 
+ 
+Forundersøkelse for Snyen 
+Rapportnummer: F-M-104492-01-001 
+Side 20 av 28 
+Figur 3.4.3 Temperatur (°C), salinitet (‰), oksygeninnhold (mg/l), oksygenmetning (%) og klorofyll (µg/L) fra 
+overflaten og ned til bunnen for prøvepunktet. 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 21 av 28 
+4. Diskusjon 
+ 
+Vurdering av miljøbetingelser i området gir forventning om størst akkumuleringspotensiale i 
+anleggsområdet og i hovedstrømretningen for spredningsstrømmen mot sørvest. I tillegg 
+antas det akumuleringspotensiale i returstrømens retning mot nord.  
+ 
+Overvåking av anleggssonen: Det ble funnet mineralsk sediment ved seks av 13 stasjoner og 
+det vurderes at regulær B-undersøkelse vil være tilstrekkelig for å overvåke miljøet i 
+anleggssonen etter B-parametere til tross for relativt mange hardbunnsstasjoner. Resultatet 
+fra B-undersøkelsen var meget god, hvor samtlige stasjoner viste til beste tilstand.  
+ 
+Overvåking av overgangssonen: Samlet viser faunaresultatene gode forhold i den tiltenkte 
+overgangssonen, der stasjonene ble klassifisert med enten beste (SNY-4) eller nest beste 
+tilstand (SNY-2 og SNY-3). Det kan dog bemerkes at SNY-2 ble klassifisert i øvre sjiktet av god 
+tilstand, svært nærme grensen til svært god. De geokjemiske resultatene viste samtidig lave 
+konsentrasjoner i hele området og bidrar til å underbygge de gode faunaforholdene. Samtlige 
+grabbhugg var godkjent både på volum og overflate. Det anbefales og beholde 
+stasjonsplasseringen til eventuelt neste C-undersøkelse.  
+ 
+Artssammensetningen i overgangssonen varierte noe mellom stasjonene, men ble 
+hovedsakelig dominert av forurensningsnøytrale, -tolerante og opportunistiske arter (NSI 2-
+4). SNY-3 skilte seg imidlertid noe fra øvrige stasjoner ved å ha en forurensningsindikerende 
+børstemark (Capitella capitata) som hyppigste art, men dominansen av denne var riktignok 
+relativt lav (26 %). Da ingen enkeltarter dominerte stort, det var en jevn individfordeling 
+mellom artene og generelt et høyt artsantall, ble biodiversiteten i området følgelig svært 
+høy.  
+ 
+Gjennom både gjennomført B- og C-undersøkelser er 0-tilstanden til både anleggssone og 
+overgangssone godt dokumentert i forkant av drift ved lokaliteten. Undersøkelsene beskrevet 
+her vil gi et godt grunnlag for fremtidig oppfølging. 
+ 
+ 
+ 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 22 av 28 
+Litteratur 
+Berge G. (2002). Indicator species for assessing benthic ecological quality in marine waters of 
+Norway. NIVA-rapport 4548-2002. 
+Bjørgo, S., Stuevold, G. (2016). Krav om nye vedlegg til akvakultursøknader, Sør-Trøndelag 
+Fylkeskommune, 20.06.2016, Referanse 201609790-1. 
+Fiskeridirektoratet (2016). Veileder for utfylling av søknadsskjema for tillatelse til akvakultur i 
+flytende 
+eller 
+landbasert 
+anlegg, 
+Lastet 
+ned 
+01.11.16 
+fra 
+http://www.fiskeridir.no/Akvakultur/Registre-og-skjema/Skjema-
+akvakultur/Akvakultursoeknad 
+Fiskeridirektoratet (2017). Fiskeridirektoratets kartløsning på nett, 29.05.17 
+Norsk Standard NS 9410 (2016). Miljøovervåking av bunnpåvirkning fra marine 
+akvakulturanlegg. Standard Norge.  
+Norsk Standard NS-EN ISO 16665 (2013). Vannundersøkelse, Retningslinjer for kvantitativ 
+prøvetaking og prøvebehandling av marin bløtbunnsfauna (ISO 16665:2014). Standard 
+Norge 
+Veileder 02:2018 Klassifisering av miljøtilstand i vann. Økologisk og kjemisk 
+Klassifiseringssystem for kystvann, grunnvann, innsjøer og elver. Direktoratgruppa for 
+gjennomføring av vanndirektivet/Miljøstandardprosjekt.  
+Vannportalen.no. Klassifisering av økologisk tilstand i vann. Klassifiseringsveileder 01:2009 
+Åkerblå (2022). B-undersøkelse for lokalitet (Ny) Snyen. Åkerblå rapportnummer: 104490-01-
+001 
+Åkerblå (2022). C-undersøkelse for lokalitet Snyen (ny lokalitet). Åkerblå rapportnummer: 
+104491-01-001 
+Åkerblå AS (2022). Måling av overflate- (5m), dimensjonerings- (15m), sprednings- (44m) og  
+          bunnstrøm (79m) ved Snyen. April – juni 2022. Rapportnr. SR-NC-Snyen-104488-01-001. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 23 av 28 
+Vedlegg 
+ 
+Vedlegg V.1. Bilder fra B-undersøkelse 
+Bilder nedenfor viser sediment (A) og ferdig vasket prøve (B) ved stasjonene.  
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 24 av 28 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 25 av 28 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 26 av 28 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 27 av 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forundersøkelse for Snyen 
+        
+           
+ 
+ 
+Rapportnummer: F-M-104492-01-001 
+ 
+Side 28 av 28 
+Vedlegg V.2. Bilder fra C-undersøkelsen 
+Det ble tatt bilder av sedimentet fra ett hugg per stasjon etter at grabben ble tømt i 
+plastbaljen, men før vask (Figur V9.1 – V9.3). 
+ 
+ 
+Figur V9.1 Sediment før vask. Lapp indikerer stasjonsnummer.  
+ 
+ 
+Figur V9.2 Sediment før vask. Lapp indikerer stasjonsnummer. 
+ 
+ 
+Figur V9.3 Sediment før vask. 5A = referansestasjon.

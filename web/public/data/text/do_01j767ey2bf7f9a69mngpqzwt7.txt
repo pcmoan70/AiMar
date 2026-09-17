@@ -1,0 +1,176 @@
+﻿<root> 
+<avsender> 
+<adresselinje1>Postboks 1010</adresselinje1> 
+<adresselinje2>Nordre Ål</adresselinje2> 
+<adresselinje3> 
+</adresselinje3> 
+<navn>Statens vegvesen</navn> 
+<poststed>LILLEHAMMER</poststed> 
+<postnr>2605</postnr> 
+</avsender> 
+<mottaker> 
+<adresse1>Rådhusvegen 11</adresse1> 
+<adresse2> 
+</adresse2> 
+<adresse3> 
+</adresse3> 
+<postnr>6770</postnr> 
+<poststed>NORDFJORDEID</poststed> 
+<navn>STAD KOMMUNE</navn> 
+<land> 
+</land> 
+<orgnr>921060157</orgnr> 
+<fnr /> 
+</mottaker> 
+<id>33df2913-8914-4cd4-a6bf-c51ec849dd41</id> 
+<tittel>Vedr. 22-193602-2 - Offentleg høyring - etablering av 
+akvakulturanlegg for oppdrett av torsk - Midthjell i Stad kommune</tittel> 
+<date>1665580534002</date> 
+<dateFormatert>2022-10-12T13:15:34</dateFormatert> 
+<metadataFraAvleverendeSystem> 
+<sakssekvensnummer>193602</sakssekvensnummer> 
+<saksaar>2022</saksaar> 
+<journalaar>2022</journalaar> 
+<journalsekvensnummer>2</journalsekvensnummer> 
+<journalpostnummer>0</journalpostnummer> 
+<journalposttype>Utgående dokument</journalposttype> 
+<journalstatus>Journalført</journalstatus> 
+<journaldato>-62135769600000</journaldato> 
+<dokumentetsDato>1665580474000</dokumentetsDato> 
+<dokumentetsDatoFormatert>2022-10-
+12T13:14:34</dokumentetsDatoFormatert> 
+<tittel>Offentleg høyring - etablering av akvakulturanlegg for 
+oppdrett av torsk - Midthjell i Stad kommune</tittel> 
+<saksBehandler> 
+</saksBehandler> 
+</metadataFraAvleverendeSystem> 
+<metadataForImport> 
+<sakssekvensnummer>0</sakssekvensnummer> 
+<saksaar>0</saksaar> 
+<journalposttype /> 
+<journalstatus /> 
+<dokumentetsDato /> 
+<tittel /> 
+</metadataForImport> 
+<root> 
+<avsender> 
+<adresselinjel>Postboks 1010</adresselinjel> 
+<adresselinje2>Nordre Ål</adresselinje2> 
+<adresselinje3> 
+</adresselinje3> 
+<navn>Statens vegvesen</navn> 
+<poststed>LILLEHAMMER</poststed> 
+<postnr>2605</postnr> 
+</avsender> 
+<mottaker> 
+<adressel>Rådhusvegen 11</adressel> 
+<adresse2> 
+</adresse2> 
+<adresse3> 
+</adresse3> 
+<postnr>6770</postnr> 
+<poststed>NORDFJORDEID</poststed> 
+<navn>STAD KOMMUNE</navn> 
+<land> 
+</land> 
+<orgnr>921060157</orgnr> 
+<fnr /> 
+</mottaker> 
+<id>33df2913-8914-4cd4-a6bf-c51ec849dd41</id> 
+<tittel>Vedr. 22-193602-2 - Offentleg høyring - etablering av 
+akvakulturanlegg for oppdrett av torsk - Midthjell i Stad kommune</tittel> 
+<date>1665580534002</date> 
+<dateFormatert>2022-10-12T13:15:34</dateFormatert> 
+<metadataFraAvleverendeSystem> 
+<sakssekvensnummer>193602</sakssekvensnummer> 
+<saksaar>2022</saksaar> 
+<journalaar>2022</journalaar> 
+<journalsekvensnummer>2</journalsekvensnummer> 
+<journalpostnummer>0</journalpostnummer> 
+<journalposttype>Utgående dokument</journalposttype> 
+<journalstatus>Journalført</journalstatus> 
+<journaldato>-62135769600000</journaldato> 
+<dokumentetsDato>1665580474000</dokumentetsDato> 
+<dokumentetsDatoFormatert>2022-10- 
+12T13:14:34</dokumentetsDatoFormatert> 
+<tittel>Offentleg høyring - etablering av akvakulturanlegg for 
+oppdrett av torsk - Midthjell i Stad kommune</tittel> 
+<saksBehandler> 
+</saksBehandler> 
+</metadataFraAvleverendeSystem> 
+<metadataForimport> 
+<sakssekvensnummer>0</sakssekvensnummer> 
+<saksaar>0</saksaar> 
+<journalposttype/> 
+<journalstatus/> 
+<dokumentetsDato /> 
+<tittel/> 
+</metadataForimport> 
+<status>Klar for mottak</status> 
+<niva>4</niva> 
+<filmetadata> 
+<filnavn>Offentleg høyring - etablering av akvakulturanlegg for 
+oppdrett av torsk - Midthjell i Stad kommune.PDF</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>54623f56aca2184d302c6164b34d3b4891b4cef1cc2746019cbac6d76f
+e5f94c</sha256hash> 
+<dokumentType> 
+</dokumentType> 
+<size>63005</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>AcosSvarInn.xml</filnavn> 
+<mimetype>text/xml</mimetype> 
+</filmetadata> 
+<svarSendesTil> 
+<adresse1>Postboks 1010</adresse1> 
+<adresse2>Nordre Ål</adresse2> 
+<adresse3> 
+</adresse3> 
+<postnr>2605</postnr> 
+<poststed>LILLEHAMMER</poststed> 
+<navn>Statens vegvesen</navn> 
+<land /> 
+<orgnr>971032081</orgnr> 
+<fnr /> 
+</svarSendesTil> 
+<svarPaForsendelse /> 
+<forsendelseType /> 
+<eksternRef>360_SvarUt_20971365</eksternRef> 
+<downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/33df2913
+-8914-4cd4-a6bf-c51ec849dd41</downloadUrl> 
+</root>
+<status>Klar for mottak</status> 
+<niva>4</niva> 
+<filmetadata> 
+<filnavn>Offentleg høyring - etablering av akvakulturanlegg for 
+oppdrett av torsk - Midthjell i Stad kommune.PDF</filnavn> 
+<mimetype>application/pdf</mimetype> 
+<sha256hash>54623f56aca2184d302c6164b34d3b4891b4ceflcc2746019cbac6d76f 
+e5f94c</sha256hash> 
+<dokument Type> 
+</dokument Type> 
+<size>63005</size> 
+</filmetadata> 
+<filmetadata> 
+<filnavn>AcosSvarinn.xml</filnavn> 
+<mimetype>text/xml</mimetype> 
+</filmetadata> 
+<svarSendesTil> 
+<adressel>Postboks 1010</adressel> 
+<adresse2>Nordre Ål</adresse2> 
+<adresse3> 
+</adresse3> 
+<postnr>2605</postnr> 
+<poststed>LILLEHAMMER</poststed> 
+<navn>Statens vegvesen</navn> 
+<land/> 
+<orgnr>971032081</orgnr> 
+<fnr /> 
+</svarSendesTil> 
+<svarPaForsendelse /> 
+<forsendelseType /> 
+<eksternRef>360 SvarUt 20971365</eksternRef> 
+<downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/33df2913 
+-8914-4cd4-a6bf-c51ec849dd41</downloadUrl> 
+</root>

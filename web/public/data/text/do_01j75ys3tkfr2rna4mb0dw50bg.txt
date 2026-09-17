@@ -1,0 +1,257 @@
+﻿Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+ 
+Bunnkartlegging 
+Multistråle  
+for 
+Bjørnvika 
+ 
+ 
+ 
+Feltarbeid 
+04.08.2021 
+Oppdragsgiver 
+NorCod AS 
+ 
+ 
+ 
+Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rapport bunnkartlegging Multistråle  
+Rapportnummer 
+102940-01-001 
+Rapportdato 
+01.09.2021 
+Dato feltarbeid 
+04.08.2021 
+Revisjonsnummer 
+Revisjonsbeskrivelse 
+Signatur 
+- 
+- 
+- 
+Lokalitet 
+Lokaliteter (lok.nr.) 
+Bjørnvika (NY) 
+Oppdragsgiver 
+Selskap 
+NorCod AS 
+Kontaktperson 
+Rune Eriksen 
+Oppdragsansvarlig 
+Selskap 
+Åkerblå AS  
+Nordfrøyveien 413                    
+Organisasjonsnummer 916 763 816 
+7260 Sistranda 
+Ansvarlig feltarbeid 
+Espen Pedersen 
+Rapportansvarlig 
+Torbjørn Gylt 
+Forfatter (-e) 
+Torbjørn Gylt  
+Godkjent av 
+Knut Halvor R Bjørnebye 
+Distribusjon 
+Denne rapporten kan kun gjengis i sin helhet.  Gjengivelse av deler av 
+rapporten kan kun skje etter skriftlig tillatelse fra Åkerblå AS.  I slike 
+tilfeller skal kilde oppgis. 
+Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+Innhold 
+ ........................................................................................................................ 1 
+1 Bakgrunn ....................................................................................................................... 4 
+2 Materialer og metode .................................................................................................... 4 
+2.1 Utstyr.......................................................................................................... 4 
+2.2 Metode ........................................................................................................ 5 
+2.3 Omfanget av oppmålingen ............................................................................. 5 
+2.4 Bruk ............................................................................................................ 5 
+3. Resultater ..................................................................................................................... 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+1 Bakgrunn 
+Det er gjennomført en bunnkartlegging av planlagt oppdrettslokalitet Bjørnvika for NorCod 
+AS. Denne rapporten leveres som en bekreftelse på utført feltarbeid, hvor batymetrien ble 
+kartlagt den 04.08.2021. Bunnoppmålingen presenteres som en OLEX-fil, kompatibel med 
+Olex-programvare og utstedes som vedlegg samtidig med rapporten. 
+ 
+ 
+2 Materialer og metode 
+Bunnkartleggingen ble gjennomført med Åkerblås båt «Labridae» den 04.08.2021.  
+ 
+2.1 Utstyr 
+Bunntopografi ble kartlagt med multistråle-ekkolodd tilkoblet Olex. Datasystemet Olex plotter 
+målte dybder fra ekkoloddet inn i sjøkartet ved hjelp av nøyaktige posisjonering- og 
+bevegelses-systemer. Oppløsningen av rutenettet på bunnen er satt til 23 x 23 cm. Mellom 
+hvert loddskudd vil dataprogrammet beregne sannsynlig dybde ved interpolering.  
+ 
+Utstyret for bunntopografi kartlegging er levert av Maritim Elektro.  Spesifikasjoner for utstyr 
+er oppgitt i Tabell 1.  
+ 
+Tabell 1. Spesifikasjoner utstyr.  
+ 
+Utstyr 
+Type 
+Hensikt 
+Datamaskin 
+M3 – Kompakt 
+industrimaskin 
+Olex versjon 
+11.8 
+Logge/tegne bunndata målt med multistråle i 
+kart. 
+Atec multistrålesonar 
+ATEC-200 
+Kartlegge havbunn med opptil 180 graders 
+åpningsvinkel. 500 m rekkevidde.  
+Lydhastighetprobe 
+Valeport Mini 
+SVP 
+Måle reell lydfart i vannsøylen. Målinger 
+legges inn i Olex for økt nøyaktighet på målt 
+bunndata.  
+GPS 
+Trimble BX982 
+(03) 
+Benytter 2 antenner for nøyaktig beregning av 
+posisjon, fart og kurs.  
+Bevegelsessensor 
+Spatial EK S/N 
+Kombinerer akselerometre med GPS, og 
+beregner nøyaktig båtens pitch, roll, heave og 
+heading. Data sendes til olex og benyttes til å 
+kompensere avvik i posisjonering som følge av 
+båtens bevegelser.  
+ 
+ 
+ 
+ 
+ 
+Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+2.2 Metode 
+Overnevnt utsyr er montert i Åkerblås arbeidsbåt «Labridae», og all kartlegging er 
+gjennomført med den. Utstyret startes opp når man har kommet fram til angitt posisjon. Før 
+kartlegging starter måles lydhastigheten i vannsøylen på dypeste punkt i arealet som skal 
+kartlegges, dataen fra lydhastighetsmålingen overføres til olex for bruk til beregning av målt 
+dybdedata. Etter å ha lagt inn lydfartprofilen startes sonaren og det gjøres en visuell 
+kvalitetssjekk av sonardata. Når denne er verifisert startes måling og lagring av bunndata inn 
+på bunndatabasen. Båtens fart og valg av rute for oppmålingen tilpasses de gjeldende vind og 
+bølgeforhold. Etter gjennomført oppmåling lagres en kopi av rådata, før prosessering av 
+bunndata gjennomføres. Bunndata prosesseres maskinelt (vaskes med olex programvare) fra 
+1-3 ganger, før den sjekkes manuelt. Ferdig prosessert Olex data sendes som .gz fil sammen 
+med denne rapporten til oppdragsgiver. 
+ 
+2.3 Omfanget av oppmålingen 
+Oppmålingsomfanget ble fokusert mot området som vil bli fysisk påvirket av anlegget, 
+inkludert ut til enden av planlagte fortøyningspunkt. Foreløpige anleggstegninger ble benyttet 
+under oppmålingen. 
+ 
+2.4 Bruk 
+De resulterende filene av bunnkartleggingen har bruksverdi på flere områder, enten det er 
+ved etablering, forvaltning eller ved flytting eller endring av anleggsbruken. Filene er 
+kompatible med OLEX, et navigasjons- og kartleggingssystem, og presenterer dybder og 
+indikasjon på sedimenthardhet. I programvaren kan brukeren se batymetrisk kontur i 2 eller 
+3 dimensjoner, gjøre lengde og arealberegninger og undersøke sedimenthardheten. 
+Sedimenthardheten illustreres med en fargegradient fra rødt som indikerer helt hard bunn, til 
+blått og lilla som indikerer helt myk bunn. En illustrasjon på resultatene fra kartleggingen av 
+dybde (Figur 3.1 og 3.2) 3D visning (Figur 3.3) og sedimenthardhet (Figur 3.4) er hentet fra 
+resipienten til planlagt lokalitet. 
+ 
+ 
+3. Resultater 
+Dybdekoter på lokaliteten er vist i figur 3.1. Avstand mellom kotene er 5 meter.  Figur 3.2 viser 
+et dybdesnitt av bunnen rett under anleggsrammen. Dybden under anlegget varierte fra 31 
+meter i nordøst, ned mot 73 meter i sørvest. Bunnen i området skråner fra nordøst mot 
+sørvest mot et dypområde. Batymetrien er vist i 3D i figur 3.3. Hardhetsoppmålingen indikerte 
+en heterogen sediment-sammensetning på lokaliteten. Hovedsakelig hadde grunnere 
+områder sterkere hardhetsrefleksjon enn de dypere områdene, men også mot dypet var det 
+hardere felter (Figur 3.4). Anleggets influensområde strakk seg mot øst, derfor er det også 
+kartlagt mer i denne retningen.  Målingene og antall målepunkter var tilfredsstillende (Figur 
+3.5). 
+Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+Figur 3.1. Dybdekoter over området rundt den planlagte lokaliteten.     
+Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+Figur 3.2 Dybdesnitt under planlagt anleggsramme ved den planlagte lokaliteten.     
+ 
+Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+ 
+Figur 3.3. Eksempel på 3D visning av oppmålt batymetri. Kart med nordvestlig orientering  
+ 
+Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+ 
+Figur 3.4. Eksempel på kartleggingen av sedimenthardhet. Hardheten er representert ved fargekoder hvor rød farge indikerer 100 % hardhet, lilla indikerer 0 % hardhet.
+Bunnkartlegging lokalitet Bjørnvika 
+        
+           
+ 
+ 
+ 
+ 
+Figur 3.5. Antall målepunkt i området

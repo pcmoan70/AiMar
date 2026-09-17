@@ -1,0 +1,173 @@
+﻿<root>
+  <avsender>
+    <adresselinje1>Postboks 185 Sentrum</adresselinje1>
+    <adresselinje2>
+    </adresselinje2>
+    <adresselinje3>
+    </adresselinje3>
+    <navn>Fiskeridirektoratet</navn>
+    <poststed>BERGEN</poststed>
+    <postnr>5804</postnr>
+  </avsender>
+  <mottaker>
+    <adresse1>Postboks 1485 Fylkeshuset</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8048</postnr>
+    <poststed>BODØ</poststed>
+    <navn>NORDLAND FYLKESKOMMUNE</navn>
+    <land>Norge</land>
+    <orgnr>964982953</orgnr>
+  </mottaker>
+  <id>db40192c-9373-4d14-8b0c-24fd26fb71e0</id>
+  <tittel>Akvakultursøknad SP-2023-000307 - Ballangen Sjøfarm AS 884141982 - Søknad om endring av lokalitet 45060 Pundsvik I i Narvik kommune</tittel>
+  <date>1689153245128</date>
+  <dateFormatert>2023-07-12T09:14:05</dateFormatert>
+  <metadataFraAvleverendeSystem>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalaar>0</journalaar>
+    <journalsekvensnummer>0</journalsekvensnummer>
+    <journalpostnummer>0</journalpostnummer>
+    <journalposttype>I</journalposttype>
+    <journalstatus>J</journalstatus>
+    <journaldato>1689112800000</journaldato>
+    <journaldatoFormatert>2023-07-11T22:00:00</journaldatoFormatert>
+    <dokumentetsDato />
+    <tittel>Akvakultursøknad SP-2023-000307 - Ballangen Sjøfarm AS 884141982 - Søknad om endring av lokalitet 45060 Pundsvik I i Narvik kommune</tittel>
+    <saksBehandler>
+    </saksBehandler>
+  </metadataFraAvleverendeSystem>
+  <metadataForImport>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalposttype />
+    <journalstatus />
+    <dokumentetsDato />
+    <tittel />
+  </metadataForImport>
+  <status>Klar for mottak</status>
+  <niva>3</niva>
+  <filmetadata>
+    <filnavn>SP-2023-000307_PUNDSVIK I.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>bd0d5be241a1643d2f31aeb6a03a1a5723decbe5b21aafad7c6f8de3cd624d6f</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>264177</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Samtykkeerklæring Pundsvik 2023.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>61f137c4a4cc608c4341ba0ece4a5beac35971e4b00fd1e2815f02cf427773e5</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>86669</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>64751.01 Pundsvik forundersøkelse 2023 .pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>3b21507949e774bd6aeac5b95be1762f7fb718a12fa4d397d6ea2ea9dc9d8c37</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>3961033</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Pundsvik anlegg kart og posisjoner.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>fa31e92fa08173744d5a5cd96ecda45ba5a097a0250d4c048d0b397973d20cbc</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>403532</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Pundsvik strømrapp 2018.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>043fc800cec537335ba71059f97f839b39e037691c3c386327eba209fbeea517</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>4173495</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>64750.01 Pundsvik B 2023, FU.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>ada8a1b609cd8c33ef7f8b53f1e55f0e0aba3aafa589eeab2826cae7c0c8089d</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>2798545</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>64747.01 Rapport Pundsvik FU C 2023 (1).pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>7128ec038510eb60d3ac5bc65693135f3703bd4754ef3b9d2a2986892696c25f</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>5526277</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Kvalitetshåndbok Ballangen Sjøfarm - Innholdsfortegnelse.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>768af232d8a51d66f755cd7cad71995d636613fb88c0baa0789208be348454a4</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>764633</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Biosikkerhetsplan - Pundsvik-I (45060) - 07.06.23.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>54fff2e167c9641f95c8e122ffe2a76e4e27afc49be52abead53da36e2000ea8</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>1753485</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Risikovurderinger fiskehelse fiskevelferd Pundsvik.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>0d563baf8ad80826872d5364ab19cbfb2a6d019550075749cf3d2bd2783a59b8</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>311581</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Beredskapsplaner Pundsvik samlet.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>526767a9e8f3633853c21fba94b13e5a5e1dc1a4efb76c11a2159bb0fba68cb1</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>954639</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Avklaring gebyr Pundsvik.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>0d8544ee7add229f190ef04fc552c77cfb67419877a646ffa52538450b1578b5</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>201445</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>AcosSvarInn.xml</filnavn>
+    <mimetype>text/xml</mimetype>
+  </filmetadata>
+  <svarSendesTil>
+    <adresse1>Postboks 185 Sentrum</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>5804</postnr>
+    <poststed>Bergen</poststed>
+    <navn>Fiskeridirektoratet</navn>
+    <land>
+    </land>
+    <orgnr>971203420</orgnr>
+    <fnr />
+  </svarSendesTil>
+  <svarPaForsendelse />
+  <forsendelseType />
+  <eksternRef>db40192c-9373-4d14-8b0c-24fd26fb71e0</eksternRef>
+  <downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/db40192c-9373-4d14-8b0c-24fd26fb71e0</downloadUrl>
+  <avgivendeSystem />
+  <taushetsbelagtPost>false</taushetsbelagtPost>
+</root>

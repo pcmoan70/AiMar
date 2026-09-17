@@ -1,0 +1,89 @@
+﻿<root>
+  <avsender>
+    <adresselinje1>Postboks 185 Sentrum</adresselinje1>
+    <adresselinje2>
+    </adresselinje2>
+    <adresselinje3>
+    </adresselinje3>
+    <navn>Fiskeridirektoratet</navn>
+    <poststed>BERGEN</poststed>
+    <postnr>5804</postnr>
+  </avsender>
+  <mottaker>
+    <adresse1>Postboks 1485 Fylkeshuset</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8048</postnr>
+    <poststed>Bodø</poststed>
+    <navn>Nordland Fylkeskommune</navn>
+    <land>
+    </land>
+    <orgnr>964982953</orgnr>
+    <fnr />
+  </mottaker>
+  <id>80694904-60bf-497c-8096-886e3d4a3f84</id>
+  <tittel>Fiskeridirektoratets vurdering av kunnskapsgrunnlag i saker om akvakulturtillatelser til oppdrett av torsk</tittel>
+  <date>1688475754014</date>
+  <dateFormatert>2023-07-04T13:02:34</dateFormatert>
+  <metadataFraAvleverendeSystem>
+    <sakssekvensnummer>8694</sakssekvensnummer>
+    <saksaar>2023</saksaar>
+    <journalaar>2023</journalaar>
+    <journalsekvensnummer>45073</journalsekvensnummer>
+    <journalpostnummer>2</journalpostnummer>
+    <journalposttype>U</journalposttype>
+    <journalstatus>E</journalstatus>
+    <journaldato>1687730400000</journaldato>
+    <journaldatoFormatert>2023-06-25T22:00:00</journaldatoFormatert>
+    <dokumentetsDato>1688421600000</dokumentetsDato>
+    <dokumentetsDatoFormatert>2023-07-03T22:00:00</dokumentetsDatoFormatert>
+    <tittel>Fiskeridirektoratets vurdering av kunnskapsgrunnlag i saker om akvakulturtillatelser til oppdrett av torsk</tittel>
+    <saksBehandler>Silje Svendsen</saksBehandler>
+  </metadataFraAvleverendeSystem>
+  <metadataForImport>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalposttype>
+    </journalposttype>
+    <journalstatus>
+    </journalstatus>
+    <dokumentetsDato />
+    <tittel>
+    </tittel>
+  </metadataForImport>
+  <status>Klar for mottak</status>
+  <niva>3</niva>
+  <filmetadata>
+    <filnavn>Fiskeridirektoratets vurdering av kunnskapsgrunnlag i saker om akvakulturtillatelser til oppdrett av torsk.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>deede8ac6dc0e8cb1aa814cd0cb1827e9975c9bda3dec87247bc20fd85918ebf</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>204836</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>AcosSvarInn.xml</filnavn>
+    <mimetype>text/xml</mimetype>
+  </filmetadata>
+  <svarSendesTil>
+    <adresse1>Postboks 185 Sentrum</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>5804</postnr>
+    <poststed>BERGEN</poststed>
+    <navn>Fiskeridirektoratet</navn>
+    <land />
+    <orgnr>971203420</orgnr>
+    <fnr />
+  </svarSendesTil>
+  <svarPaForsendelse />
+  <forsendelseType />
+  <eksternRef />
+  <downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/80694904-60bf-497c-8096-886e3d4a3f84</downloadUrl>
+  <avgivendeSystem>ACOS WEBSAK+</avgivendeSystem>
+  <taushetsbelagtPost>false</taushetsbelagtPost>
+</root>

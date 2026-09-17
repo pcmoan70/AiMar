@@ -1,0 +1,3185 @@
+﻿Akvaplan-niva AS Rapport: 2021 63205.01   
+ 
+ 
+Eidsfjord Sjøfarm AS 
+Lokalitetsrapport for Holmen, 2021 
+ 
+ 
+ 
+ 
+Blank side
+Akvaplan-niva AS  
+Rådgivning og forskning innen miljø og akvakultur 
+Org.nr: NO 937 375 158 MVA 
+Framsenteret, Postboks 6066 Langnes, 9296 Tromsø 
+Tlf: 77 75 03 00 
+www.akvaplan.niva.no 
+ 
+Rapporttittel / Report title 
+ 
+Lokalitetsrapport og havsjømodellering for Holmen, 2021    
+Forfatter(e) 
+Vegard Holen 
+ 
+Akvaplan-niva rapport nr  
+2021 63205.01   
+Dato  
+02-06-2021 
+Antall sider  
+35 (19 + Vedlegg) 
+Distribusjon  
+Gjennom oppdragsgiver 
+Oppdragsgiver  
+Eidsfjord Sjøfarm AS 
+Oppdragsg. referanse  
+Ragnhild Schistad Berg  
+Sammendrag  
+Akvaplan-niva har gjennomført en undersøkelse av lokaliteten Holmen iht. de krav som stilles i NS 
+9415:2009 – Krav til lokalitetsundersøkelse, risikoanalyse, utforming, dimensjonering, utførelse, 
+montering og drift.  
+50 års returperiode 
+Størrelse 
+Retning (grader) 
+Peakperiode (s) 
+Maks strøm, 5 meter 
+50 cm/s 
+150-165° 
+-  
+Maks strøm, 15 meter 
+45 cm/s 
+165° 
+- 
+Signifikant bølgehøyde (Hs) 
+vindbølger 
+1,9 m 
+300° 
+4,5 s 
+Bølger kommer fra angitt retning, mens strøm går mot angitt retning.  
+ 
+Det foreligger på nåværende tidspunkt ikke dokumentasjon for planlagt anleggskonfigurasjon, denne 
+rapporten er derfor ikke akkreditert.  
+ 
+ 
+Prosjektleder  
+ 
+Kvalitetskontroll  
+ 
+ 
+ 
+Vegard Holen 
+ 
+Kristine Steffensen 
+© 2021 Akvaplan-niva AS. Rapporten kan kun kopieres i sin helhet. Kopiering av deler av rapporten 
+(tekstutsnitt, figurer, tabeller, konklusjoner, osv.) eller gjengivelse på annen måte, er kun tillatt etter 
+skriftlig samtykke fra Akvaplan-niva AS. 
+Akvaplan-niva 2021 63205.01 
+Side 4 av 35 
+Innholdsfortegnelse 
+FORORD .................................................................................................................................... 5 
+1 INNLEDNING ........................................................................................................................ 6 
+1.1 Strømmålinger .................................................................................................................. 7 
+Strømmåling .............................................................................................................. 7 
+Tidevann .................................................................................................................... 7 
+Utbrudd av kyststrømmen og trykkdrevet strøm ....................................................... 7 
+1.2 Vindgenererte bølger ........................................................................................................ 8 
+1.3 Ising .................................................................................................................................. 8 
+1.4 Bunndata ........................................................................................................................... 8 
+2 RESULTATER ........................................................................................................................ 9 
+2.1 Strømmålinger .................................................................................................................. 9 
+2.2 Tidevannsstrøm ................................................................................................................ 9 
+2.3 Vindgenerert strøm ......................................................................................................... 10 
+2.4 Utbrudd av kyststrøm ..................................................................................................... 12 
+2.5 Vårflom og snø- og issmelting ....................................................................................... 13 
+2.6 Bølgemodellering ........................................................................................................... 13 
+Vindbølger ............................................................................................................... 13 
+2.7 Bunntype ......................................................................................................................... 14 
+2.8 Skipsgenererte bølger ..................................................................................................... 14 
+3 ISLAST .................................................................................................................................. 16 
+4 INSTRUMENTBESKRIVELSE ........................................................................................... 18 
+5 LITTERATURLISTE ............................................................................................................ 19 
+6 VEDLEGG ............................................................................................................................ 20 
+6.1 Strømmålinger ................................................................................................................ 20 
+Strømmåling ............................................................................................................ 20 
+Tidevann .................................................................................................................. 20 
+Oppbygging strømmålerrigg ................................................................................... 21 
+5m dyp ..................................................................................................................... 22 
+15m dyp ................................................................................................................... 27 
+6.2 Anleggstegning og bunnkartlegging ............................................................................... 32 
+6.3 Beregning istabell ........................................................................................................... 33 
+6.4 Strøklengder for vindbølgemodellering.......................................................................... 35 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 5 av 35 
+ 
+Forord  
+Foreliggende undersøkelser er gjennomført av Akvaplan-niva AS etter oppdrag fra Eidsfjord 
+Sjøfarm AS. I forbindelse med utlegg av ny ventemerd på lokalitet Holmen i Sortland i 
+Nordland fylke ønsket bedriften å få gjennomført en lokalitetsundersøkelse med tilhørende 
+lokalitetsrapport. Ettersom det ikke foreligger dokumentasjon for anleggskonfigurasjonen, er 
+ikke denne rapporten akkreditert. På det tidspunkt anleggskonfigurasjon kan dokumenteres, vil 
+rapporten kunne bli akkreditert.  
+ 
+Undersøkelsen er gjennomført i henhold til NS 9415:2009 – Krav til lokalitetsundersøkelse, 
+risikoanalyse, utforming, dimensjonering, utførelse, montering og drift. 
+ 
+Undersøkelsene er gjennomført og rapportert av Vegard Holen, Akvaplan-niva AS. 
+ 
+Akkreditert virksomhet: Akvaplan-niva AS er akkreditert gjennom ISO/IEC 17020:2012. 
+Følgende standarder, forskrifter og prosedyrebeskrivelser er benyttet: NS 9415, NYTEK-
+forskriften og Akvaplan-niva AS sine interne prosedyrer for prosjektgjennomføring og 
+kvalitetssikring. 
+ 
+Bodø, 02.06.2021. 
+ 
+Vegard Holen 
+Prosjektleder 
+ 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 6 av 35 
+ 
+1 Innledning 
+Akvaplan-niva AS har på oppdrag fra Eidsfjord Sjøfarm AS foretatt en lokalitetsundersøkelse 
+på lokaliteten Holmen. Undersøkelsen er utført i henhold til NS 9415:2009 Krav til 
+lokalitetsundersøkelse, risikoanalyse, utforming, dimensjonering, utførelse, montering og drift.  
+ 
+Lokalitet Holmen ligger ved Finneset på nordsiden av innløpet til Hognfjorden i Sortlandsundet 
+i Sortland kommune, Nordland fylke (Figur 1). Lokaliteten har ingen sektorer mot åpent hav 
+og eventuell påvirkning fra havsjø vil være minimal. På bakgrunn av dette har det kun blitt 
+gjennomført en vurdering av vindgenererte bølger i denne rapporten, jf. kriterium 1 i 
+internprosedyre for lokalitetsundersøkelse, da vindbølger vurderes til å være den dominerende 
+bølgepåvirkningen. Midtpunktet til lokaliteten er 68°43.773N og 15°30.853Ø. 
+ 
+ 
+Figur 1. Plassering av lokalitet Holmen på sjøkart fra Olex. Posisjon i kart viser strømmålernes 
+plassering.  
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 63205.01 
+Side 7 av 35 
+1.1 Strømmålinger 
+Strømmåling 
+Strømmålingene ble foretatt med målere fra Akvaplan-niva AS i perioden 12.02.2020 - 
+18.03.2020 på 5 og 15 meters dyp. Det er hentet ut data for perioden 12.02.2020-13.03.2020 
+som er benyttet til grafiske fremstillinger i denne rapporten. Målerne var innstilt på registrering 
+av strømhastighet- og retning med 10 minutters intervall (se Instrumentbeskrivelse kap. 4) 
+Målingene ble utført i posisjon N68° 43.777 Ø15°30.768. Målingen er gjennomført rett vest for 
+planlagt anleggsposisjon, og vurderes som representativt for hele lokaliteten (Figur 1). 
+Kvalitetssikring av data og framstilling av grafikk ble foretatt av Akvaplan-niva AS. Begge 
+strømmålingene er utført i samme fortøyningsrigg (se 6.1.3). Det var ingen installasjoner eller 
+anlegg nær strømmålerposisjonen som kan ha påvirket resultatet. 
+Tidevann 
+I hovedsak er det meste av strøm i nordnorske fjorder styrt av tidevannsstrømmen. Men det 
+varierer sterkt hvor store de sykliske endringene er innenfor gitt tidsperiode (en tidevanns- 
+periode eller en månefase). Tidevannsestimatet og variansen til tidevann sammenlignet med 
+variansen til totalstrømmen er beregnet fra perioden 12.02.20-18.03.20. For ytterligere 
+beskrivelse, se vedlegg 6.1.2. 
+Utbrudd av kyststrømmen og trykkdrevet strøm 
+Ferskvannstilførsel, tidevann, vindforhold, atlanterhavsvann og bunnforhold er med på å 
+påvirke kyststrømmen langs norskekysten. De viktigste kildene til kyststrømmen er 
+ferskvannstilførselene i Østersjøen og fastlands-Norge. 
+Utbrudd av kyststrømmen er det fenomenet hvor vind og andre krefter i Skagerrak spiller 
+sammen, ofte forbundet med et lavtrykk i Nordsjøen, for så å gi en ekstra sterk utstrømming av 
+ferskt kystvann fra Skagerrak mot sørvest. Dette blir da en puls av sterkere strøm som kan vare 
+i flere dager, og kan ses som et ekstra kraftig innslag av ferskere vann oppover langs den norske 
+vestkysten. Strømmen driver nordover som en kileformet strøm med lav saltholdighet. 
+Saltholdigheten øker etter hvert som strømmen blir blandet med nordsjøvann og atlantisk vann. 
+Utbrudd fra kyststrømmen bør undersøkes for alle lokaliteter, spesielt lokaliteter sør for Stadt. 
+Slike utbrudd kan muligvis spores eller oppdages i operasjonelle målinger av salt og temperatur 
+langs sørlandskysten. Måledata fra Flødevigen målestasjon utenfor Arendal kan benyttes til 
+dokumentasjon av dette. 
+Det vurderes mer komplisert å vurdere utbrudd av kyststrømmen når man beveger seg lenger 
+nordover langs den norske vestkysten, spesielt nord for Stadt, da det vil være en betydelig 
+forsinkelse og svekkelse av signalet. 
+Dersom man har registreringer som plutselige endringer i temperatur og/eller strømretning og 
+strømfart som sammenfaller med et utbrudd av kyststrømmen kan variasjonene skyldes dette. 
+Dersom man har registreringer av plutselige endringer i temperatur og/eller strømretning og 
+strømfart, som ikke sammenfaller med utbrudd av kyststrømmen, kan variasjoner i målerserien 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 8 av 35 
+ 
+skyldes lokale trykkforskjeller og tetthetsforskjeller i vannmassene eller storskala atmosfæriske 
+vind- og trykkforhold som kan drive vannmasser fra kyststrømmen inn i og ut av 
+fjordsystemene og dermed påvirke de lokale strømmønstrene. 
+1.2 Vindgenererte bølger  
+Det er ikke gjennomført bølgemålinger i området rundt Holmen og det er derfor gjort teoretiske 
+beregninger av bølgehøyde på lokaliteten. Beregningene tar utgangspunkt i at området primært 
+er utsatt for vindgenererte bølger, der bølgehøyden øker tilnærmet proporsjonalt med 
+vindhastigheten og kvadratroten av strøklengden. For beregning av bølgeparametere er det 
+benyttet justert vindhastighet (UA) (jfr. NS-EN 1991-1-4). Den justerte vindhastigheten er 
+oppgitt med en returperiode på 10 og 50 år med p-verdier på hhv. 0,1 og 0,02. 
+Strøklengder er beregnet ved hjelp av OLEX. Bølgeberegning er utført i egen bølgemodell 
+AdUndas som er basert på NS-EN 1991-1-4 og formler i kapittel 5.3.1.4 i NS 9415-2009. Den 
+signifikante bølgehøyden (Hs) og pikperioden (Tp) er beregnet ut fra den justerte vindfarten 
+(UA). Bølgene er tatt ut med 12 graders gjennomsnittlig midling.  
+1.3 Ising 
+Det er benyttet metodikk utarbeidet av Dr. Peter Guest (Guest et al., 2005). Denne benytter 
+vindhastighet og lufttemperatur til å predikere ispåslag, ved en angitt vanntemperatur. Fra E-
+klima kan det hentes ut langtidsstatistikk over lufttemperatur og vindhastighet 10 meter over 
+bakken ved en stor andel målestasjoner i Norge. Dette er en fordel over Mertins metode, som 
+bruker lufttemperatur mot sjøtemperatur ved en angitt vindhastighet1.  
+Ved å benytte observasjoner av temperatur/vindkombinasjoner, kan dette settes inn i en 
+frekvenstabell der det er angitt predikasjon av ising i fargekoding. På bakgrunn av dette kan 
+mulighetene for ising estimeres på lokaliteten. Resultatene av dette er presentert i kapittel 3 og 
+metodikken er mer forklart i Vedlegg 6.3. 
+1.4 Bunndata 
+Bunndata er levert av Finnsnes Dykk & Anleggservice AS. Oppmålingene er gjort med 
+multistråle ekkolodd (WASSP) og OLEX med bunnhardhetsmodul. 
+Kvalitetssikring av data er gjort av Akvaplan-niva AS. Registrering av bunndata er gjort iht. 
+krav i NS 9415:2009. Oppløsningen på data er høyere enn 10x10 meter.  
+ 
+ 
+1 Mertins, H. O. (1968). Icing on fishing vessels due to spray. Marine Observer, 38(221), 128-130. 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 9 av 35 
+ 
+2 Resultater 
+Resultatene fra modellering av bølger og strøm er presentert i Tabell 2. Strømresultatene er 
+justerte iht. NS 9415:2009 kapittel 5.2.3 og presentert med hensyn til kjøring av 
+lastkombinasjoner (NS 9415:2009 kapittel 6.7).  
+2.1 Strømmålinger 
+Resultatene fra strømmåling på 5 meters dyp viser at hovedstrømretning og massetransport av 
+vann er definert mot sør-sørøst (150-165 grader). Gjennomsnittlig strømhastighet er 5,5 cm/s. 
+10,4 % av målingene er > 10 cm/s, 64,6 % av målingene er mellom 10 og 3 cm/s, 21,6 % av 
+målingene er mellom 3 og 1 cm/s og 3,4 % av målingene er < 1cm/s.  
+Resultatene fra strømmåling på 15 meters dyp (utskiftningsstrøm) viser at hovedstrømretning 
+og massetransport av vann er definert mot sør (165 grader). Gjennomsnittlig strømhastighet er 
+4,2 cm/s. 4,8 % av målingene er > 10 cm/s, 52,9 % av målingene er mellom 10 og 3 cm/s, 35,5 
+% av målingene er mellom 3 og 1 cm/s og 6,7 % av målingene er < 1cm/s.  
+Maksimal strømhastighet i den målte perioden på 5 og 15 m var henholdsvis 19,0 og 17,0 cm/s, 
+noe som tilsvarer 35 og 31 cm/s for 50 års returperiode for de respektive dyp. I henhold til 
+standard har strøm på 5 meter blitt justert til 50 cm/s, tilsvarende faktor har blitt benyttet slik at 
+strøm på 15 meter er justert til 45 cm/s. Strømmålingene er vurdert til å være representative 
+med hensyn til årstidsvariasjon. 
+2.2 Tidevannsstrøm 
+Strømmålingene som er utført på lokaliteten viser at tidevannskomponenten er moderat til stor 
+i forhold til reststrømmen. Tabell 1 viser resultater fra variansanalysen for 5 og 15 m dyp. 
+Variansforklart for tidevann er et statistisk tall på hvor mye av den totale variansen i vannet 
+som kan forklares ut fra tidevannet.   
+Tallene i Tabell 1 er moderate. Det estimerte tidevannet for strøm på 5 m og 15 m dyp kan 
+forklare henholdsvis 24,9 % og 22,7 % i Ø-V-retning, og 57,4 % og 45,6 % i N-S-retning av 
+variabiliteten i strømmen på denne lokaliteten. Resultatene i Tabell 1 gjenspeiles i Figur 2, hvor 
+man ser at ellipsen til tidevannet er moderat sammenlignet med variansellipsen til 
+totalstrømmen. Dette viser at tidevannet er en betydelig faktor i det totale strømbildet, men er 
+ikke dominerende.  
+Tabell 1. Varians forklart for tidevannskomponenten av varians i totalstrømmen (tall i prosent) 
+ 
+Dyp 
+Retning på 
+strømkomponent 
+5 m 
+15 m 
+Øst-Vest 
+24,9 % 
+22,7 % 
+Nord-Sør 
+57,4 % 
+45,6 % 
+ 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 10 av 35 
+ 
+ 
+ 
+Figur 2. Variansellipse for totalstrøm (blå), tidevannsstrøm (rød) og reststrøm (sort) på 5 og 15 m. 
+Variansellipsen viser størrelsen av ett standardavvik av variansen, både i retning og størrelse. Den blå 
+kurven viser variansellipsen til totalstrømmen og den røde kurven viser variansellipsen til 
+tidevannskomponenten av strømmen. Den sorte variansellipsen viser reststrømmen, dvs. den strømmen 
+som ikke kan forklares av tidevannet. Resultatene er estimert fra strømdata i måleperioden 12.02.20-
+18.03.20. Den grønne pilen viser nettostrøm i samme perioden.  
+2.3 Vindgenerert strøm 
+Vindgenerert strøm vil i hovedsak gjøre seg gjeldende for resultater fra målinger på 5 meter da 
+vindpåvirkning i vannsøylen avtar med dyp. For at strøm på 15 meter skal påvirkes nevneverdig 
+er det nødvendig med sterk vind fra samme retning over lengre perioder. Dette ser man sjeldent 
+inne i fjorder og kystnære strøk hvor anlegg er lokalisert. Det er hentet ut vinddata fra e-
+klima.no for Ånstadblåheia (Figur 3). Vindrosen (Figur 4) viser at høyeste vindhastighet er 
+registrert mot nord. Målestasjonen ligger på rundt 500 m.o.h, omtrent 8 km vest for lokaliteten. 
+Grunnet den høye beliggenheten vil vindhastigheten trolig være høyere på målestasjonen 
+sammenlignet med lokaliteten. Både målestasjonen og lokaliteten er eksponert for vind fra 
+nord-nordvest og sørvestlige retninger. Tatt dette og den korte avstanden mellom dem i 
+betraktning, vurderes målestasjonen til å være representativ for vind i området.  
+ 
+Akvaplan-niva 2021 63205.01   
+Side 11 av 35 
+ 
+ 
+Figur 3. Målestasjonenes plassering i forhold til lokaliteten. 
+ 
+ 
+ 
+Figur 4. Vindrose for observasjoner gjort ved målestasjon (Ånstadblåheia) i måleperioden 12.02.20. – 
+13.03.20. Figuren viser hastighet og hvilken retning vinden går mot. Totallengden på sektorene 
+indikerer andel målinger (%) i respektive retninger i løpet av måleperioden. Lengden på hvert 
+fargesegment i hver sektor bestemmer videre den relative andelen av målinger med korresponderende 
+vindstyrke innenfor hver enkelt sektor.  
+ 
+I perioden februar-mars var det mye vind, med mange episoder med vindhastighet på over 10 
+m/s (Figur 5). Den høyeste vindhastigheten ble målt den 22. februar, hvor det blåste 27,6 m/s 
+fra sør. 
+  
+Holmen 
+Ånstadblåheia 
+Sortland 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 12 av 35 
+ 
+ 
+Figur 5. Normaliserte hastigheter og retninger for strøm/vind i måleperioden. Figuren er normalisert 
+(glattet ut) for å øke lesbarheten. Vind og strømretninger er satt opp slik at de leses i samme retning. 
+Vind og strøm går mot gitt retning. 
+Det er kun periodevis korrelasjon mellom høy vindhastighet på målestasjonen og høy 
+strømhastighet på lokaliteten. Den kraftigste vinden ble målt 22. februar, fra sørlig retning. Fra 
+denne retningen vil lokaliteten være noe i le av landområder sør for lokaliteten, og det ble ikke 
+registrert høy strømhastighet i samme periode. Samlet bilde av resultatene og vurdering av 
+stasjonens plassering i forhold til lokalitet tilsier at vinden til har hatt liten betydning for strøm 
+i området i måleperioden. 
+2.4 Utbrudd av kyststrøm  
+Innblanding av kyststrøm kan ses som en plutselig endring i temperatur, retning og/eller 
+hastighet. Målingen på 5 meter viser en relativt stabil temperaturkurve, med halvdaglige 
+variasjoner. Maksimumstemperaturen var på 4,2 °C i starten av perioden, og 
+minimumstemperaturen ble registrert like etter månedsskifte på 2 °C. Det ble observert en 
+økning i strømhastighet i samme periode, og det var relativt kraftig vind fra nord, som kan ha 
+transportert kaldere vann inn i området. Målingen på 15 meter viser også en relativt stabil 
+temperaturkurve, med en maksimumsverdi på 4,8 °C i starten av måleperioden og en 
+minimumstemperatur på 2,8 °C. På begge dyp er det hyppige retningsendringer, og 
+sammenfallende mindre temperaturendringer. Dette antyder at temperaturen på lokaliteten blir 
+styrt av tidevannet. 
+Det er ikke funnet større plutselige endringer i temperatur som sammenfaller med endring i 
+strømfart. Det er heller ikke funnet markante og plutselige økninger i strømfart i 
+strømmålingene som ikke forklares av vindpåvirkning, ferskvannstilførsel eller tidevann. Det 
+Akvaplan-niva 2021 63205.01 
+Side 13 av 35 
+vurderes at det i måleperioden ikke har vært markante og tydelige påvirkninger fra 
+kyststrømmen i form av innstrømming til eller utstrømming fra fjorder på grunn av regionale 
+vannstandsforskjeller (trykkdrevet strøm) eller horisontale tetthetsforskjeller (tetthetsdrevet 
+strøm). Det er heller ikke funnet tydelige tegn angående spor av eventuelle utbrudd fra 
+kyststrømmen med opphav i Skagerrak lenger sør i Norge. 
+2.5 Vårflom og snø- og issmelting 
+Strømmålingene er gjennomført i perioden februar-mars, en periode hvor det kan forekomme 
+snø- og issmeltinger. Lufttemperaturen i perioden har variert mellom pluss- og minusgrader, og 
+det har ikke vært noen spesielt varme perioder. Det renner elver ut i sundet, men det er ingen 
+indikasjoner i resultatene på at det har vært påvirkning av smeltevann i måleperioden. Det er 
+ingen kraftverk i umiddelbar nærhet til lokaliteten som vurderes til å kunne ha betydning for 
+resultatene. 
+2.6 Bølgemodellering 
+Vindbølger 
+Lokaliteten er mest eksponert for vind og bølger fra nordvest (Figur 6). Største modellerte 
+bølgehøyde er 1,9 meter og kommer fra nordvest (300 grader) med pikperiode 4,5 s (Tabell 2). 
+Strøklengder er beregnet fra posisjon N68° 43.798 Ø15°30.827 og tilsvarer derfor det punktet 
+bølgene er beregnet i. 
+Figur 6. Største bølgeeksponering på lokalitet Holmen. Sort linje viser reell strøklengde, rød linje viser 
+effektiv strøklengde med +/- 12 graders aritmetisk midling. 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 14 av 35 
+ 
+ 
+Lokaliteten befinner seg innerst i Hognfjorden og har derfor en begrenset strøklengde som 
+vinden kan virke over i retningene nord til sør. I retningene vest til nord er strøklengden 
+betraktelig større, den lengste strøklengden finnes i nordvestlig retning og er 11,85 km. 
+Vindhastigheten med 50 års returperiode i denne retningen er beregnet til å være 25 m/s. Dette 
+medfører at det er fra denne retningen at lokaliteten blir mest påvirket av bølger.  
+2.7 Bunntype 
+Ifølge B-undersøkelsen (Guneriussen, 2020) består bunnen under anlegget av grus med leire, 
+sand og skjellsand. Bunnen i A-området lokaliteten er planlagt lokalisert i skrår jevnt og relativt 
+slakt fra ca. 5 meters dyp ned til ca. 47 meters dyp, uten store forhøyninger.  
+2.8 Skipsgenererte bølger 
+Lokaliteten ligger i et område med begrenset skipstrafikk, i hovedsak består skipstrafikken i 
+området av anløp til og fra slakteriet like nord for anlegget. Det er foretatt en vurdering av 
+bølgehøyde i forhold til avstand og størrelse på passerende skip, og det forventes ikke bølger 
+som overskrider lokalgenerert vindsjø. 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 15 av 35 
+ 
+Tabell 2. Resultater fra bølgemodellering. Retning for vind og bølger er angitt slik at de kan avleses sammen med strøm.  
+ 
+  
+  
+ 
+Akvaplan-niva 2021 63205.01   
+Side 16 av 35 
+ 
+3 Islast 
+Under gjennomføring av undersøkelse har Holmen blitt vurdert med tanke på eksponering for 
+snø og is. I henhold til personer med kjennskap rundt lokale forhold har ikke snø og is vært av 
+større betydning for fiske eller oppdrett i området. 
+Som ledd i vurdering av ising har det blitt gjennomført beregninger for ispåslag. Ved bruk av 
+langtidsstatistikk for vind og lufttemperatur har det blitt satt opp en frekvenstabell (Tabell 3) 
+basert på ispredikatortabell (Tabell 4).  
+Statistikk for vind og temperatur fra nærmeste værstasjon, Sortland, ble hentet fra eklima sine 
+hjemmesider. På bakgrunn av at målestasjon Sortland har en lengre tidsserie av temperatur og 
+vind har denne blitt benyttet istedenfor Ånstadblåheia. Plasseringen er vist i Figur 3. Data er 
+tilgjengelig fra 01.1.1985 til 31.12.2019. 
+Tabell 3 viser antall observasjoner av kombinasjon av gitte vindstyrker og temperaturer i 
+måleperioden. Tabell 4 viser forklaring av de ulike fargesonene i Tabell 3. For beskrivelse av 
+metode for å beregne islaster se vedlegg kap. 7.3.  
+Tabell 3. Samtidige observasjoner av gitt vindhastighet og temperatur ved målestasjon på Sortland i 
+perioden 01.01.1985 til 31.12.2019. 
+ 
+ 
+ 
+ 
+Sjøvannstemp 
+1
+Vind (m/sek)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Lufttemperatur 
+0
+592
+461
+832
+665
+429
+266
+182
+100
+61
+44
+32
+9
+6
+3
+8
+5
+2
+4
+1
+1
+1
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-1
+581
+391
+718
+528
+351
+221
+167
+88
+55
+35
+21
+7
+9
+7
+4
+4
+2
+1
+3
+1
+2
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-2
+609
+404
+658
+493
+266
+159
+104
+62
+32
+20
+19
+10
+6
+3
+1
+3
+2
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-3
+502
+326
+569
+364
+255
+110
+73
+45
+21
+23
+6
+8
+3
+2
+1
+1
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-4
+460
+253
+470
+307
+131
+88
+49
+26
+8
+10
+11
+4
+2
+2
+3
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-5
+344
+179
+368
+212
+84
+71
+31
+11
+6
+8
+2
+8
+4
+2
+ 
+ 
+ 
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-6
+292
+157
+279
+159
+69
+24
+25
+10
+9
+5
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-7
+240
+130
+223
+85
+38
+18
+17
+8
+6
+2
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-8
+187
+96
+140
+60
+18
+7
+3
+3
+ 
+ 
+1
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-9
+118
+56
+81
+34
+15
+6
+6
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-10
+79
+28
+33
+24
+3
+3
+1
+2
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-11
+33
+17
+19
+8
+4
+3
+2
+2
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-12
+23
+7
+14
+3
+ 
+1
+1
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-13
+7
+1
+4
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-14
+5
+3
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-15
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-16
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-17
+2
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-18
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-19
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-20
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-21
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-22
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-24
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-25
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-26
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-27
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-28
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-29
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-30
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-31
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-32
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-33
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-34
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-35
+Ant. av tot. obs. (%)
+22,4
+13,8
+24,2
+16,2
+9,1
+5,4
+3,6
+2,0
+1,1
+0,8
+0,5
+0,3
+0,2
+0,1
+0,1
+0,1
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+ 
+Akvaplan-niva 2021 63205.01   
+Side 17 av 35 
+ 
+Tabell 4. Påslag av is for de ulike sonene. Fargekodene er basert på formelen for ispedikator (Guest et 
+al., 2005). 
+Isprediktor (PPR) m/fargekode 
+<0 
+0-22,4 
+22,4-53,3 
+53,3-83,0 
+>83,0 
+Isklasse  
+Ingen 
+Noe 
+Moderat 
+Kraftig 
+Ekstrem 
+Israte (cm/time) 
+0 
+<0,7 
+0,7-2,0 
+2,0-4,0 
+>4,0 
+Israte (kg/m2/time)  
+0 
+0,8-6,0 
+6-17 
+17-34 
+>34 
+ 
+Tabell 3 viser at det ikke har vært observert vind/temperaturkombinasjoner som kan medføre 
+ekstrem eller kraftig ising. Videre viser tabellen at det i løpet av perioden på 34 år har blitt gjort 
+2 observasjoner som tilsier fare for moderat ising. Ved moderat ising vil estimert ispåslag være 
+0,7-2,0 cm/t, noe som tilsvarer en isvekt mellom 6 og 17 kg/m2/time.  
+Lokaliteten er eksponert for vind og bølger fra nordvest (Figur 7 og Tabell 2), og dermed mest 
+utsatt for ising ved kulde og sterk vind fra samme retning. Bryting av vindgenererte bølger som 
+sammenfaller med sterk vind og lave temperaturer fra samme retning kan medføre at det dannes 
+sjøsprøytising. Hovedstrømretningen på Holmen er mot sørøst (Figur 8) og det er derfor mulig 
+at slike forhold kan inntreffe. 
+ 
+ 
+Figur 7. Bølgeeksponering for lokalitet Holmen.  
+Figur 8. Hovedstrømretning 5 meter. 
+Resultater fra beregningene tilsier at det kan være en mulighet for at det kan oppstå ising på 
+anlegget som vil påføre anlegget skade, dermed bør visse forholdsregler tas. Dersom det oppstår 
+temperatur/vindkombinasjoner i henhold til Tabell 3 som tilsier moderat eller kraftig ising må 
+oppdretter iverksette tiltak for overvåkning og eventuell avising. 
+For at det skal være fare for innfrysing må det være tilgang til ferskvann. Fra oversikten over 
+regulerte vassdrag fra Norges Energi- og Vassdragsdirektorat ligger det ingen kraftverk i 
+nærheten av anlegget. Ved lave temperaturer og lite vind foreligger det også fare for innfrysing. 
+Fra Tabell 3 ser man at i perioden på 34 år har 22,4 % av observasjonene ved minusgrader 
+samsvart med 0-1 m/s vindstyrke. Dette indikerer at risikoen for drivis og innfrysing er til stede. 
+Under slike forhold bør virksomheten være klar over dette. Ifølge virksomheten har det ikke 
+forekommet innfrysing eller drivis i området (pers.med. Schistad Berg). 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 18 av 35 
+ 
+4  Instrumentbeskrivelse 
+Strømmålingene er utført ved hjelp av Seaguard punktmålere fra Aanderaa, og metodikk er i 
+henhold til NS 9425 – 1.  
+Tabell 5. Instrumentbeskrivelse  
+Måledyp 
+5 m 
+15 m 
+Produsent 
+Aanderaa 
+Aanderaa 
+Modell 
+Seaguard 4420 
+Seaguard 4420 
+Målerprinsipp 
+Punktdoppler 
+Punktdoppler 
+Serienr 
+2009 
+2008 
+Nøyaktighet 
+± 1 % 
+± 1 % 
+Oppløsning 
+0,1 mm/s 
+0,1 mm/s 
+Responsområde 
+0 – 3 m/s 
+0 – 3 m/s 
+Varighet 
+midlingsperiode* 
+2,5 min 
+2,5 min 
+Modifikasjon 
+Ingen 
+Ingen 
+Kalibrering 
+APN-logg 
+APN-logg 
+Instrumentlogg 
+APN-logg 
+APN-logg 
+*Hvert 10 minutt måles strøm i 2,5 minutter som representerer 10 minutters målingen. Resultatet blir så midlet 
+for å fjerne støy fra måleserien.  
+ 
+Den 15. mars var det et opphold på 1 time og 20 minutter i registreringene. Dette er ikke 
+innenfor tidsintervallet som er brukt i denne rapporten, og vil ikke påvirke resultatene. 
+Resultatene fra strømmålingene analyseres i egen strømprgram, AdFontes. Gjennom AdFontes 
+gjøres det først en grovrens hvor alle punkter som ligger utenfor faste kriterier anbefalt av 
+produsent,  samt at alle datapunkter der trykksensoren har registrert målinger over 2 m fra 
+overflaten (instrument ikke vært i vann) fjernes fra dataserien. Data kvalitetssjekkes visuelt via 
+AdFontes.  Logg over renset data blir lagret hos Akvaplan-niva AS. 
+Resultatene som presenteres er direkte overført fra rådata. Det utføres ingen reduksjon av støy 
+eller datakompresjon. Tidevannet er filtrert med ½-times intervall.  
+Kalibrering av målere er gjennomført iht. leverandørs anbefaling. Historikk over kalibrering 
+lagres internt hos Akvaplan-niva.   
+Bunnkartlegging er utført med multistrålelodd, og er levert av Finnsnes Dykk & Anleggsservice 
+AS. Tegning av anlegget er utført ved hjelp av OLEX.  
+ 
+Akvaplan-niva 2021 63205.01   
+Side 19 av 35 
+ 
+5  Litteraturliste 
+Codiga, D.L. Unified Tidal Analysis and Prediction Using the UTide Matlab Functions (2011) 
+Guest et al. 2005. Vessel Icing. Mariners Weather Log, Vol 49, No3. Desember 2005. 
+Gunneriussen. 2020. B-undersøkelse Holmen slaktemerdlokalitet, april 2020. APN-rapport 
+62150.01.  
+Hermansen. 2020. Strømrapport Holmen. 5 meter, 15 meter, spredning- og bunnstrøm. APN-
+rapport 61888.01. 
+Jensen Ø. 2006 SINTEF rapport: Islaster-isvekst og forslag til tiltak. 
+Nasjonalt tillegg, NA - Eurokode 1: Laster på konstruksjoner - Del 1-4: Allmenne laster – 
+Vindlaster, 2009. NS-EN 1991-1-4:2005/NA:2009. ICS: 91.010.30, 91.080.01. 48 sider. 
+NS 9415:2009. Flytende oppdrettsanlegg - Krav til lokalitetsundersøkelse, risikoanalyse, 
+utforming, dimensjonering, utførelse, montering og drift. ICS: 65.150, 67.260. 108 sider. 
+NS 9425-1. 1999. Oseanografi – Del 1. Strømmålinger i faste punkter.  
+Personlige meddelelser: Ragnhild Schistad Berg. Eidsfjord Sjøfarm AS.  
+Superstructure spray and ice accretion on a large U.S. Coast Guard cutter C.C. Ryerson, U.S. 
+Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire, USA. 
+Received 14 October 1993. Accepted 23 February 1994. Available online 16 March 2000. 
+www.eklima.no 
+http://www.imr.no/forskning/forskningsdata/temperatur_flodevigen/ 
+https://temakart.nve.no/link/?link=vannkraft 
+ 
+ 
+Akvaplan-niva 2021 63205.01 
+Side 20 av 35 
+6 Vedlegg 
+6.1 Strømmålinger 
+Strømmåling 
+Ifølge NS 9415:2009 skal man estimere forventede ekstremverdier for lokaliteten. Dette 
+beregnes ved å multiplisere høyest registrerte strømhastighet i måleperioden med angitte 
+multiplikasjonsfaktorer på 1,65 og 1,85 for henholdsvis 10 og 50 års returperiode. NS 
+9415:2009 sier: ”Hvis høyeste dimensjonerende strømhastighet med en returperiode på 50 år, 
+basert på en måling i én måned blir lavere enn 50 cm/s, skal den dimensjonerende 
+strømhastigheten (50 års returperiode) på lokaliteten uansett settes til 50 cm/s. De andre 
+verdiene i strømrosen skal økes prosentvis tilsvarende”. 
+Tidevann 
+For å skille ut tidevannskomponenten av strømmen ble det foretatt en harmonisk analyse av 
+strømmen. Strømhastigheten ble først midlet over ½-time for å fjerne målestøy fra tidsserien 
+før analysen ble utført. 
+Resultatene fra den harmoniske analysen ble brukt til å reprodusere tidevannsbidraget i 
+måleserien ved hjelp av en tidevannsmodell (Codiga, 2011). Totalstrømmen er midlet over ½- 
+timer før variansellipsene estimeres, slik at variansen for de to komponentene er estimert på 
+samme grunnlag. Variansellipsene viser ett standardavvik av variansen til a) alle målingene og 
+b) den reproduserte tidevannskomponenten. Varians forklart kan estimeres fra korrelasjonen (r) 
+mellom totalstrøm og tidevannsstrøm og regnes ut fra formelen: 
+Varians forklart = [korrelasjonskoeffesient(fart_tidevann, fart_totalstrom )] 2 . 
+Dette gir et mål på hvor mye av den totale variansen som kan forklares ved estimerte 
+tidevannskomponenten. Det er viktig å notere seg at disse ellipsene ikke er en klassisk 
+tidevannsellipse, men en variansellipse av tidevannskomponenten til strømmen, og videre at 
+tidevannet er estimert fra en modell og ikke faktiske målinger. 
+Akvaplan-niva 2021 63205.01 
+Side 21 av 35 
+Oppbygging strømmålerrigg 
+Akvaplan-niva 2021 63205.01 
+Side 22 av 35 
+5m dyp 
+Oppsummering resultater Holmen 5 meter 
+Total vanntransport 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 23 av 35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maksimal hastighet  
+ 
+ 
+ 
+Strømstyrke og retningsfordeling. Totallengden på sektorene indikerer andel målinger (%) i respektive 
+retninger i løpet av måleperioden. Lengden på hvert fargesegment i hver sektor bestemmer videre den 
+relative andelen av målinger med korresponderende strømstyrke innenfor hver enkelt sektor.  
+ 
+ 
+Strømretning (tidsserie) 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 24 av 35 
+ 
+ 
+Strømhastighet (tidsserie) 
+ 
+Retningshistogram 
+ 
+ 
+Strømstyrkehistogram 
+ 
+ 
+Temperatur tidsserie 
+ 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 25 av 35 
+ 
+ 
+Estimert tidevannsstrøm i nord/sør-retning på 5 m dyp. Negative verdier indikerer strøm mot sør. Rød 
+kurve viser tidevannsstrøm og blå kurve viser reststrøm. 
+ 
+ 
+Estimert tidevannsstrøm i øst/vest-retning på 5 m dyp. Negative verdier indikerer strøm mot vest. Rød 
+kurve viser tidevannsstrøm og blå kurve viser reststrøm. 
+ 
+ 
+Spredningsplott for registreringer hastighet vs. retning 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 26 av 35 
+ 
+Tabell som viser antall målinger, maks hastighet, total vanntransport og daglig vanntransport i de 
+ulike sektorene. 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 63205.01 
+Side 27 av 35 
+15m dyp 
+Oppsummering resultater Holmen 15 meter 
+Total vanntransport 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 28 av 35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maksimal hastighet  
+ 
+ 
+ 
+Strømstyrke og retningsfordeling. Totallengden på sektorene indikerer andel målinger (%) i respektive 
+retninger i løpet av måleperioden. Lengden på hvert fargesegment i hver sektor bestemmer videre den 
+relative andelen av målinger med korresponderende strømstyrke innenfor hver enkelt sektor.  
+ 
+ 
+Strømretning (tidsserie) 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 29 av 35 
+ 
+ 
+Strømhastighet (tidsserie) 
+ 
+Retningshistogram 
+ 
+ 
+Strømstyrkehistogram 
+ 
+ 
+Temperatur tidsserie 
+ 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 30 av 35 
+ 
+ 
+Estimert tidevannsstrøm i nord/sør-retning på 15 m dyp. Negative verdier indikerer strøm mot sør. 
+Rød kurve viser tidevannsstrøm og blå kurve viser reststrøm. 
+ 
+ 
+Estimert tidevannsstrøm i øst/vest-retning på 15 m dyp. Negative verdier indikerer strøm mot vest. Rød 
+kurve viser tidevannsstrøm og blå kurve viser reststrøm. 
+ 
+ 
+Spredningsplott for registreringer hastighet vs. retning 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 31 av 35 
+ 
+Tabell som viser antall målinger, maks hastighet, total vanntransport og daglig vanntransport i de 
+ulike sektorene. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 32 av 35 
+ 
+6.2 Anleggstegning og bunnkartlegging 
+ 
+ 
+Bunnkartlegging med anleggsplassering av lokalitet Holmen. Ekvidistanse 5 m.  
+ 
+ 
+Bunnkartlegging med anleggsplassering av lokalitet Holmen. Ekvidistanse 5m. Dybder i tall. 
+ 
+ 
+ 
+Akvaplan-niva 2021 63205.01   
+Side 33 av 35 
+ 
+6.3 Beregning istabell 
+Tabellen er basert på Guest Et al sin formel: 𝑃𝑃𝑅=
+𝑉𝑎(𝑇𝑓−𝑇𝑎)
+1+0,3(𝑇𝑤−𝑇𝑓) 
+PPR 
+= 
+isprediktor 
+Va  
+= 
+vindfart (m/s) 
+Tf 
+= 
+frysepunkt til sjøvann (-1,7 °C) 
+Ta 
+= 
+lufttemperatur 
+Tw 
+= 
+sjøtemperatur 
+ 
+Ved å benytte formelen over for PPR og beregne hvilken kategori de ulike vind og 
+temperaturkombinasjonene gir, så kan det settes opp en frekvensfordeling som angitt i Tabell 
+1. Her er det skrevet inn de ulike PPR-verdiene, og fargekodet for å angi hvilken isklasse disse 
+havner innenfor. Ved å benytte frekvensfordeling av vind/temperatur fra eklima, så kan det 
+legges inn hvor mange observasjoner som havner innenfor en angitt ispredikator (PPR) og 
+dermed gi et estimat på hvor utsatt lokaliteten er for ising. 
+Formelen estimerer ising på skip, og er ikke direkte egnet til bruk på flytende anlegg. 
+Erfaringsbasert kunnskap tilsier at akkumulert ising på flytende anlegg nært havflaten er ca. 
+halvparten av det som beregnes på skip/kaikonstruksjoner. Vi har derfor halvert PPR fra denne 
+formelen for å få en tilnærmet verdi for flytende konstruksjoner. Dette skyldes effekten av 
+bølgene som skyller vekk isen fra konstruksjonen igjen. 
+Fargekodingen er basert på formelen for PPR. Ved å kombinere denne med temperatur- og 
+vindstatistikk fra eklima.no, kan intervaller basert på PPR-indeksen utarbeides (Guest et al. 
+2005). Som utgangspunkt er det antatt en sjøtemperatur på 1,0 °C, som er en noe konservativ 
+tilnærming. Resultatet av dette er framstilt i tabellene under. 
+Resultater som fremkommer ved bruk av overnevnte formel for kombinasjon av lufttemperatur, 
+vindhastighet, sjøtemperatur og sjøtemperaturs frysepunkt.   
+ 
+Akvaplan-niva 2021 63205.01   
+Side 34 av 35 
+ 
+ 
+ 
+Verdier som tilsvarer ingen, noe, moderat, kraftig og ekstrem ising.   
+Isprediktor (PPR) m/fargekode 
+<0 
+0-22,4 
+22,4-53,3 
+53,3-83,0 
+>83,0 
+Isklasse  
+Ingen 
+Noe 
+Moderat 
+Kraftig 
+Ekstrem 
+Israte (cm/time) 
+0 
+<0,7 
+0,7-2,0 
+2,0-4,0 
+>4,0 
+Israte (kg/m2/time)  
+0 
+0,8-6,0 
+6-17 
+17-34 
+>34 
+ 
+Ved å plotte inn data fra langtidsstatistikk, det vil si antall observasjoner av kombinasjon av 
+temperatur og vindstyrke, i fargematrisen over kan man lese ut estimert mengde ising for en 
+gitt temperatur/vindkombinasjon. 
+ 
+ 
+ 
+ 
+ 
+ 
+Sjøvannstemp 
+1
+Vind (m/sek)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Lufttemperatur 
+0
+0
+-1
+-1
+-2
+-2
+-3
+-3
+-4
+-4
+-5
+-5
+-6
+-6
+-7
+-7
+-8
+-8
+-8
+-9
+-9
+-10
+-10
+-11
+-11
+-12
+-12
+-13
+-13
+-14
+-14
+-15
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+-2
+-2
+-2
+-2
+-2
+-3
+-3
+-3
+-3
+-3
+-3
+-4
+-4
+-4
+-4
+-4
+-5
+-5
+-5
+-5
+-5
+-6
+-6
+-6
+-2
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+-3
+0
+1
+1
+1
+2
+2
+3
+3
+3
+4
+4
+4
+5
+5
+5
+6
+6
+6
+7
+7
+8
+8
+8
+9
+9
+9
+10
+10
+10
+11
+11
+-4
+1
+1
+2
+3
+3
+4
+4
+5
+6
+6
+7
+8
+8
+9
+10
+10
+11
+11
+12
+13
+13
+14
+15
+15
+16
+17
+17
+18
+18
+19
+20
+-5
+1
+2
+3
+4
+5
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+26
+27
+28
+-6
+1
+2
+4
+5
+6
+7
+8
+10
+11
+12
+13
+14
+15
+17
+18
+19
+20
+21
+23
+24
+25
+26
+27
+29
+30
+31
+32
+33
+34
+36
+37
+-7
+1
+3
+4
+6
+7
+9
+10
+12
+13
+15
+16
+18
+19
+20
+22
+23
+25
+26
+28
+29
+31
+32
+34
+35
+37
+38
+40
+41
+42
+44
+45
+-8
+2
+3
+5
+7
+9
+10
+12
+14
+16
+17
+19
+21
+23
+24
+26
+28
+30
+31
+33
+35
+37
+38
+40
+42
+44
+45
+47
+49
+50
+52
+54
+-9
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+48
+50
+52
+54
+56
+58
+60
+63
+-10
+2
+5
+7
+9
+11
+14
+16
+18
+21
+23
+25
+28
+30
+32
+34
+37
+39
+41
+44
+46
+48
+50
+53
+55
+57
+60
+62
+64
+66
+69
+71
+-11
+3
+5
+8
+10
+13
+15
+18
+21
+23
+26
+28
+31
+33
+36
+39
+41
+44
+46
+49
+51
+54
+57
+59
+62
+64
+67
+69
+72
+75
+77
+80
+-12
+3
+6
+9
+11
+14
+17
+20
+23
+26
+28
+31
+34
+37
+40
+43
+46
+48
+51
+54
+57
+60
+63
+65
+68
+71
+74
+77
+80
+83
+85
+88
+-13
+3
+6
+9
+12
+16
+19
+22
+25
+28
+31
+34
+37
+41
+44
+47
+50
+53
+56
+59
+62
+66
+69
+72
+75
+78
+81
+84
+87
+91
+94
+97
+-14
+3
+7
+10
+14
+17
+20
+24
+27
+31
+34
+37
+41
+44
+48
+51
+54
+58
+61
+65
+68
+71
+75
+78
+82
+85
+88
+92
+95
+99
+102 105
+-15
+4
+7
+11
+15
+18
+22
+26
+29
+33
+37
+40
+44
+48
+51
+55
+59
+62
+66
+70
+73
+77
+81
+85
+88
+92
+96
+99
+103 107 110 114
+-16
+4
+8
+12
+16
+20
+24
+28
+32
+36
+40
+43
+47
+51
+55
+59
+63
+67
+71
+75
+79
+83
+87
+91
+95
+99
+103 107 111 115 119 122
+-17
+4
+8
+13
+17
+21
+25
+30
+34
+38
+42
+46
+51
+55
+59
+63
+68
+72
+76
+80
+85
+89
+93
+97
+101 106 110 114 118 123 127 131
+-18
+5
+9
+14
+18
+23
+27
+32
+36
+41
+45
+50
+54
+59
+63
+68
+72
+77
+81
+86
+90
+95
+99
+104 108 113 117 122 126 131 135 140
+-19
+5
+10
+14
+19
+24
+29
+33
+38
+43
+48
+53
+57
+62
+67
+72
+76
+81
+86
+91
+96
+100 105 110 115 119 124 129 134 139 143 148
+-20
+5
+10
+15
+20
+25
+30
+35
+40
+45
+51
+56
+61
+66
+71
+76
+81
+86
+91
+96
+101 106 111 116 121 126 131 136 142 147 152 157
+-21
+5
+11
+16
+21
+27
+32
+37
+43
+48
+53
+59
+64
+69
+75
+80
+85
+91
+96
+101 107 112 117 123 128 133 139 144 149 155 160 165
+-22
+6
+11
+17
+22
+28
+34
+39
+45
+50
+56
+62
+67
+73
+79
+84
+90
+95
+101 107 112 118 123 129 135 140 146 151 157 163 168 174
+-23
+6
+12
+18
+24
+29
+35
+41
+47
+53
+59
+65
+71
+76
+82
+88
+94
+100 106 112 118 124 129 135 141 147 153 159 165 171 177 182
+-24
+6
+12
+18
+25
+31
+37
+43
+49
+55
+62
+68
+74
+80
+86
+92
+99
+105 111 117 123 129 136 142 148 154 160 166 172 179 185 191
+-25
+6
+13
+19
+26
+32
+39
+45
+51
+58
+64
+71
+77
+84
+90
+97
+103 109 116 122 129 135 142 148 154 161 167 174 180 187 193 200
+-26
+7
+13
+20
+27
+34
+40
+47
+54
+60
+67
+74
+81
+87
+94
+101 107 114 121 128 134 141 148 154 161 168 175 181 188 195 201 208
+-27
+7
+14
+21
+28
+35
+42
+49
+56
+63
+70
+77
+84
+91
+98
+105 112 119 126 133 140 147 154 161 168 175 182 189 196 203 210 217
+-28
+7
+15
+22
+29
+36
+44
+51
+58
+65
+73
+80
+87
+94
+102 109 116 124 131 138 145 153 160 167 174 182 189 196 203 211 218 225
+-29
+8
+15
+23
+30
+38
+45
+53
+60
+68
+75
+83
+90
+98
+106 113 121 128 136 143 151 158 166 173 181 189 196 204 211 219 226 234
+-30
+8
+16
+23
+31
+39
+47
+55
+63
+70
+78
+86
+94
+102 109 117 125 133 141 149 156 164 172 180 188 195 203 211 219 227 235 242
+-31
+8
+16
+24
+32
+40
+49
+57
+65
+73
+81
+89
+97
+105 113 121 130 138 146 154 162 170 178 186 194 202 210 219 227 235 243 251
+-32
+8
+17
+25
+33
+42
+50
+59
+67
+75
+84
+92
+100 109 117 126 134 142 151 159 167 176 184 193 201 209 218 226 234 243 251 259
+-33
+9
+17
+26
+35
+43
+52
+61
+69
+78
+86
+95
+104 112 121 130 138 147 156 164 173 182 190 199 208 216 225 233 242 251 259 268
+-34
+9
+18
+27
+36
+45
+54
+62
+71
+80
+89
+98
+107 116 125 134 143 152 161 170 178 187 196 205 214 223 232 241 250 259 268 277
+-35
+9
+18
+28
+37
+46
+55
+64
+74
+83
+92
+101 110 120 129 138 147 156 166 175 184 193 202 212 221 230 239 248 258 267 276 285
+ 
+Akvaplan-niva 2021 63205.01   
+Side 35 av 35 
+ 
+6.4 Strøklengder for vindbølgemodellering 
+ 
+ 
+ 
+Fra
+Til
+Km
+Fra
+Til
+Km
+0
+5
+0,48
+180
+185
+0,92
+5
+10
+0,43
+185
+190
+0,92
+10
+15
+0,38
+190
+195
+0,95
+15
+20
+0,37
+195
+200
+0,97
+20
+25
+0,42
+200
+205
+1,00
+25
+30
+0,48
+205
+210
+1,03
+30
+35
+0,50
+210
+215
+1,06
+35
+40
+0,43
+215
+220
+1,07
+40
+45
+0,32
+220
+225
+1,07
+45
+50
+0,29
+225
+230
+1,11
+50
+55
+0,27
+230
+235
+1,21
+55
+60
+0,25
+235
+240
+1,27
+60
+65
+0,27
+240
+245
+1,36
+65
+70
+0,24
+245
+250
+1,40
+70
+75
+0,24
+250
+255
+1,47
+75
+80
+0,26
+255
+260
+0,00
+80
+85
+0,25
+260
+265
+0,00
+85
+90
+0,27
+265
+270
+0,00
+90
+95
+0,27
+270
+275
+0,00
+95
+100
+0,20
+275
+280
+0,00
+100
+105
+0,21
+280
+285
+0,00
+105
+110
+0,19
+285
+290
+0,00
+110
+115
+0,20
+290
+295
+0,00
+115
+120
+0,24
+295
+300
+0,00
+120
+125
+0,40
+300
+305
+0,00
+125
+130
+0,37
+305
+310
+0,00
+130
+135
+0,37
+310
+315
+0,00
+135
+140
+1,03
+315
+320
+0,00
+140
+145
+0,93
+320
+325
+0,00
+145
+150
+0,91
+325
+330
+0,00
+150
+155
+0,91
+330
+335
+0,00
+155
+160
+0,92
+335
+340
+0,00
+160
+165
+0,92
+340
+345
+1,20
+165
+170
+0,91
+345
+350
+0,85
+170
+175
+0,92
+350
+355
+0,81
+175
+180
+0,90
+355
+360
+0,82

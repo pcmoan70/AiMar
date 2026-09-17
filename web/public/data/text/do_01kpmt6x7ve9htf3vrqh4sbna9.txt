@@ -1,0 +1,1659 @@
+﻿1367-05-22FU TÅRNVIKA 
+2022 
+Etter Norsk Standard NS 9410: 2016 
+AQUA KOMPETANSE AS 
+Forundersøkelse ved Tårnvika 
+i Bodø kommune, 2022 
+MOWI ASA 
+ 
+1367-05-22FU TÅRNVIKA 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Rapportens tittel:  
+Forundersøkelse ved Tårnvika i kommune, 2022 
+Lokalitet: Tårnvika 
+Lokalitetsnummer: 16165 
+Rapportdato: 06.05.2022 
+Rapportnummer: 1367-05-22FU 
+Antall sider uten vedlegg: 19 
+Antall sider totalt: 30 
+Oppdragsgiver: MOWI ASA 
+ 
+Kontaktperson: Tore Stensland 
+MTB: 1560 tonn 
+Kommune: Bodø 
+Fylke: Nordland 
+Koordinater: 67°34.499’N,  
+                        15°07.853’Ø 
+Rapporten omfatter et sammendrag av 
+Rapportnr. 1377-5-22M 
+Rapport fra Helgeland HBS 
+Rapportnr. 340-12-19S 
+Rapportnr. 63-2-22B 
+ 
+Rapportnr. 312-11-19C 
+Havbunnskartlegging 
+Vannstrømmålinger 
+Vannstrømmålinger 
+B-undersøkelse 
+ 
+C-undersøkelse 
+0,46 meters oppløsning 
+5, 15, og 25 meter 
+65, 70 og 109 meter 
+13 stasjoner 
+ 
+4+1 stasjoner 
+06.03.2022 
+03.09-09.10.2013  
+11.10.–10.11.2019 
+03.11.2021 og 
+17.02.2022 
+15 og 18.11.2019 og 
+05.04.2022 
+Emneord: 
+havbunnskartlegging; multistråle; batymetri; vannstrøm; doppler; overflatestrøm; 
+vannutskiftningsstrøm; dimensjoneringsstrøm; spredningsstrøm; bunnstrøm; vannutskiftning; 
+miljøtilstand; miljøovervåking; sediment; elektrokjemi; sensoriske registreringer 
+ID 488-19 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig:  
+ 
+Anja Hervik 
+Kvalitetssikrer: 
+ 
+ 
+Vidar Strøm 
+ 
+ 
+ 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org. Nr.: 982 226 163 
+© 2022 Aqua Kompetanse AS. Kopiering kan kun skje i sin helhet. Dersom deler av rapporten (konklusjoner, 
+figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig samtykke fra Aqua 
+Kompetanse AS. 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+3 
+Forord 
+På oppdrag av MOWI ASA har Aqua Kompetanse AS utført en forundersøkelse ved Tårnvika. En 
+forundersøkelse av lokalitetens anleggsområde og anleggets overgangssone blir gjennomført før anlegget 
+plasseres, og før vesentlige anleggsutvidelser. Forundersøkelsen skal gi en tilstandsbeskrivelse av 
+miljøforholdene, og fungere som en referanse for utviklingen av miljøforholdene etter at produksjonen har 
+startet ved lokaliteten. I tillegg blir havbunnen i nærområdet til lokaliteten kartlagt, og vannstrømmen blir 
+målt i flere dyp. Dette gir et grunnlag for anleggsplassering, samt vanngjennomstrømming og 
+spredningspotensiale for lokaliteten. 
+ 
+Aqua Kompetanse AS har utført havbunnskartlegging, vannstrømmålinger, akkreditert B-undersøkelse og 
+akkreditert C-undersøkelse ved den planlagte lokaliteten. Helgeland HBS har også levert strømmålinger. 
+Standarder og veiledere som er benyttet til innsamling av data og prøvemateriale til denne forundersøkelsen 
+er listet i Tabell 1. 
+ 
+Tabell 1: Standarder og veiledere benyttet til innsamling av data og prøvemateriale til denne forundersøkelsen. 
+Undersøkelse 
+Standard/veileder 
+Tittel 
+B-, C- og forundersøkelse 
+NS 9410: 2016 
+Miljøovervåking av bunnpåvirkning fra marine 
+akvakulturanlegg 
+C-undersøkelse 
+NS-EN ISO 16665: 2013 
+Vannundersøkelse – Retningslinjer for kvantitativ 
+prøvetaking og prøvebehandling av marin 
+bløtbunnsfauna. 
+NS-EN ISO 5667-19: 2004 
+Vannundersøkelse – Prøvetaking – Del 19: Veiledning i 
+sedimentprøvetaking i marine områder. 
+Hydrografi 
+Veileder 02: 2018 
+Klassifisering av miljøtilstand i vann 
+Vannstrømmåling 
+NS 9425-2: 2003 
+Oseanografi – Del 2: Strømmålinger ved hjelp av ADCP. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+4 
+Innholdsfortegnelse 
+Forord ................................................................................................................................................................ 3 
+Innholdsfortegnelse .......................................................................................................................................... 4 
+1. 
+Materiale og metode ................................................................................................................................ 5 
+1.1 Undersøkelsesområde ............................................................................................................................ 5 
+1.2 Havbunnskartlegging ............................................................................................................................... 5 
+1.3 Vannstrømmålinger................................................................................................................................. 6 
+1.4 B-undersøkelse ........................................................................................................................................ 6 
+1.5 C-undersøkelse ........................................................................................................................................ 7 
+1.5.1 Hydrografi ............................................................................................................................................ 7 
+2. 
+Resultat ..................................................................................................................................................... 8 
+2.1 Havbunnskartlegging ............................................................................................................................... 8 
+2.2 Vannstrømmålinger................................................................................................................................. 9 
+2.3 B-undersøkelse ...................................................................................................................................... 11 
+2.4 C-undersøkelse ...................................................................................................................................... 12 
+2.4.1 Bløtbunnsfauna .............................................................................................................................. 12 
+2.4.2 Sensoriske registreringer og elektrokjemiske målinger ................................................................ 12 
+2.4.3 Geologisk analyser ......................................................................................................................... 12 
+2.4.4 Kjemiske analyser .......................................................................................................................... 12 
+2.4.5 Hydrografi ...................................................................................................................................... 16 
+3. 
+Oppsummering ....................................................................................................................................... 18 
+3.1 Bæreevne .............................................................................................................................................. 18 
+4. 
+Referanser ............................................................................................................................................... 19 
+Vedlegg A – Havbunnskartlegging ................................................................................................................... 20 
+Vedlegg B – Vannstrømmålinger ..................................................................................................................... 22 
+Vedlegg C- B1 og B2 skjema ............................................................................................................................ 29 
+ 
+  
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+5 
+1. Materiale og metode 
+1.1 Undersøkelsesområde 
+Tårnvika ligger i Bodø kommune i Nordland (Figur 1). Anlegget er planlagt plassert ved innløpet til Sørfolda-
+fjorden, og nord for innløpet til Nevelsfjorden. Det er omtrent 85-142 meter dypt under anlegget og 
+skråner nordøst med dyp på rundt 370 meter på det dypeste. 
+ 
+ 
+Figur 1: Oversiktskart som viser planlagt anleggsplassering (rød firkant) i forhold til andre anlegg. Geografisk 
+senterpunkt for det planlagte anlegget ved Tårnvika er 6734.499 N, 1507.853 Ø. Målestokk vises i venstre hjørne. 
+Kilde: Fiskeridirektoratets karttjeneste.  
+ 
+1.2 Havbunnskartlegging 
+Havbunnen i nærområdet til Tårnvika ble kartlagt ved bruk av Olex WASSP1 multistråle-ekkolodd. 
+Posisjoneringssystemet er av typen Trimble BX982 GPS2 / GLONASS3 cpos-korrigeringstjeneste (med 
+nøyaktighet på ca. 1 meter). Bevegelsesjustering på båten utføres av Kongsberg MRU4. Ekkoloddet har en 
+varierende rekkevidde, avhengig av bunntopografi og vannkvalitet, på ca. 200-300 meters dybde. På dypere 
+vann enn 200-300 meter kan det presenteres data fra mobilt enkeltstråle-ekkolodd og/eller data fra Olex 
+standard. Bunnhardhet viser til havbunnens evne til å reflektere signaler, hvor bløtere sediment gir svakere 
+refleksjon enn hardere sediment. Hardhet visualiseres med en relativ fargeskala fra blått til rødt, 
+henholdsvis bløtere og hardere sediment. 
+ 
+Dybdeverdier som lager avvikende formasjoner i bunnkartet blir betraktet som målefeil, og vil vises som 
+topper, hull eller langsgående arr i kartet. Avvikende målinger identifiseres av en kombinasjon av manuelle 
+og automatiske metoder og vurderinger, for deretter å slettes og bunnkartet rekalkuleres. 
+ 
+Havbunnen ved Tårnvika ble opploddet med 0,46 meters oppløsning, og bunndata med 0,46 meters 
+oppløsning er vurdert. Båtens utforming og montering av transduser er mulige feilkilder, så korrigering av 
+«roll, pitch og heading» kan være nødvendig. Slike feil sees ofte som høydeforskjeller mellom kjøringer og 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+6 
+ruglete havbunn i overlappende kjøringer. Roll og pitch er satt til null for dette datasettet på bakgrunn av 
+manuell kvalitetskontroll. Havbunnen ble kartlagt i perioden 06.03.2022. For original rapport se Roksvaag, 
+2022. 
+ 
+1.3 Vannstrømmålinger 
+Strømmålingene for 5, 15 og 25 meter ble foretatt i perioden 03.09-09.10.2013 i en rigg utplassert på 
+67°34.463’N, 15°07.665’Ø. Det ble benyttet en strømmåler av typen Aquadopp profiler 400 Hz. Måleren 
+registrerte hvert 10 minutt. Se original rapport Moe, 2013 for utfyllende informasjon om oppsett og 
+instrument. 
+ 
+Strømmålingene for 65, 70 og 109 meters dyp ble foretatt i perioden 11.10.–10.11.2019 i en rigg utplassert 
+på 67°34.480’N, 15°07.837’Ø (Figur 5), og ble gjennomført i henhold til NS 9425-2:2003. Det ble benyttet en 
+400 kHz akustisk strømmåler produsert av Nortek AS. Måleren registrerte i 1 minutt og 20 sekunder 
+sammenhengende og hvilte i 8 minutter og 40 sekunder. Måleren har et instrumentoppsett på 32 celler × 2 
+meter som gir en rekkevidde på 64 meter. For original rapport med utfyllende informasjon om oppsett og 
+instrument se Sivertsen, 2019 (rapportnummer 340-12-19S levert av Aqua Kompetanse AS). 
+ 
+1.4 B-undersøkelse 
+Aqua Kompetanse AS har gjennomført en akkreditert B-undersøkelse i henhold til NS 9410:2016 ved Tårnvika 
+den 03.11.2021 og 17.02.2022. B-undersøkelsen skal gi en beskrivelse av hvordan bunnen under og i den 
+umiddelbare nærheten av et anlegg er påvirket, og gjennomføres ved en serie grabbprøver tatt fra 
+anleggsområdet. Det blir gjort vurdering av bunnfauna og sensoriske registreringer av sedimentet 
+(elektrokjemiske målinger (pH og redoks; gruppe II) samt gassdannelse, lukt, farge, konsistens, grabbvolum 
+og slamlag; gruppe III). B-undersøkelsen gir en tilstandsklassifisering av hver enkelt prøvestasjon og en samlet 
+tilstand av hele anleggsområdet. Tilstanden på enkeltstasjonene kan variere mye, så hovedvekta må legges 
+på helhetstilstanden for lokaliteten. Tilstanden klassifiseres fra 1 til 4 etter NS9410:2016 (Tabell 2), og angis 
+med fargekoder. 
+ 
+Undersøkelsen ble gjennomført ved bruk av en 250 cm2 Van Veen grabb, og sedimentet skylt over en 1mm 
+sikt. Antall prøvestasjoner bestemmes av lokalitetens MTB (maksimal tillatt biomasse), som på Tårnvika er 
+MTB på 1560 tonn. På bakgrunn av dette er antall grabbstasjoner 10, og det er tatt totalt 11 grabbskudd 
+spredt på disse stasjonene, som ble prøvetatt i november 2021. Ved prøvetaking i februar 2022, ble det tatt 
+tre ekstra grabbstasjoner (stasjon 11, 12 og 13) fordelt på fem grabbskudd for å dekke hele området under 
+anleggsrammen. Prøvestasjonene er plassert innenfor planlagt anleggsområde for å dekke så godt som mulig, 
+og er merket av Figur 5 med tilstand markert med farger etter Tabell 2. For original rapport med utfyllende 
+informasjon om undersøkelsen, se Andreassen, 2022.  
+ 
+Tabell 2: Tilstandsklassifisering basert på indeksverdi gitt ut fra B1-skjema ved B-undersøkelse (etter NS9410:2016), og 
+tegnforklaring til fargekoder for tilstand på B-undersøkelsens prøvestasjoner. 
+ 
+Tilstand 
+ 
+1 
+Meget god 
+2 
+God 
+3 
+Dårlig 
+4 
+Meget dårlig 
+Indeksverdi 
+< 1,1 
+1,1 – < 2,1 
+2,1 - < 3,1 
+≥ 3,1 
+ 
+ 
+ 
+ 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+7 
+1.5 C-undersøkelse 
+Aqua Kompetanse har gjennomført akkreditert feltarbeid for å innhente prøvemateriale i henhold til NS 
+9410:2016 den 15. & 18.11.2019 og 06.04.2022. Siste prøvetaking er utført for å tilpasse avstander i forhold 
+til planlagt anleggsramme, i henhold til NS 9410:2016. Det foreligger ingen unik C-rapport for disse. Her er 
+analyser av total organisk materiale (TOM), total organisk karbon (TOC), total nitrogen (TN), kornstørrelse, 
+kobber, hydrografi, og makrofauna presentert, og gir en beskrivelse av miljøtilstanden i nærområdet til 
+oppdrettslokaliteten før anlegget starter sin produksjon.  
+ 
+Prøvematerialet ble innhentet ved bruk av en 0.1 m2 Van Veen grabb, og på hver prøvestasjon ble det foretatt 
+tre hugg med prøvegrabben.  Makrofaunaprøver ble tatt ut av to av huggene, og 100-300 ml geologi- og 
+kjemiprøver ble tatt ut av ett. Ved hver stasjon ble det også foretatt elektrokjemiske målinger av sedimentet. 
+ 
+Lokaliteten er vurdert etter en C-undersøkelse i henhold til NS 9410:2016 hvor økende MTB gir økende antall 
+prøvestasjoner, og med en MTB på 1560 tonn ved Tårnvika er veiledende antall prøvestasjoner 3. I tillegg 
+skal det tas en referansestasjon minst 1 km unna det planlagte anlegget, i et område med tilsvarende dybde 
+og bunntype som øvrige stasjoner. Fremherskende strømretning og bunntype ligger til grunn for plassering 
+av prøvetakingsstasjonene (Figur 6). Anleggssonestasjon C1 ligger i overgangen mellom anleggssonen og 
+overgangssonen, nedstrøms fremherskende strømretning, og mot det området i anleggssonen som viste 
+dårligste tilstand ved forrige B-undersøkelse.  I ytterkant av overgangssonen ligger stasjon C2, ca. 200 meter 
+fra planlagt anleggsramme. Stasjon C3 er lagt 592 meter nord fra omsøkt anleggsramme, ved foten av 
+skråningen. Denne ligger utenfor veiledende avstand for overgangssone, men ble besluttet lagt ved 
+skråningsfot, da dette er et antatt oppsamlingssted for organisk materiale. Stasjon C4 er plassert 74 meter 
+sør for omsøkt anleggsramme i retning med returstrømmen. Referansestasjonen, C-ref, er plassert omtrent 
+915 meter øst for planlagt anleggsramme med antatt representativ bunntype som ved de andre stasjonene. 
+For original rapport se Fredriksen (2019). 
+ 
+1.5.1 Hydrografi 
+Hydrografi angår de kjemiske og fysiske havforholdene, slik som salinitet (saltinnhold), temperatur, 
+sirkulasjon og løste gasser. Det ble utført målinger av salinitet, temperatur og oksygen ved den dypeste 
+prøvestasjonen i undersøkelsesområdet ved Tårnvika, stasjon C2 nordøst for lokaliteten (Figur 6). Målingene 
+ble utført med en CTD av typen SAIV SD204 påmontert en Rinko III optisk oksygensensor. Instrumentet målte 
+annethvert sekund ned og opp igjennom vannsøylen. Registrerte data ble bearbeidet ved bruk av SAIV AS sitt 
+eget dataprogram for instrumentet, MiniSoft SD200W. Oksygenkonsentrasjonen i dypvann er viktig for den 
+helhetlige tilstanden i et område, og klassifisering av dypvannet er gjort etter Veileder 02:2018 (Tabell 3). 
+ 
+Tabell 3: Klassifisering av tilstand for oksygen i dypvannet ved salinitet over 20‰ (gjengitt etter Veileder 02:2018) 
+ 
+Tilstandsklasser 
+I 
+Svært god 
+II 
+God 
+III 
+Moderat 
+IV 
+Dårlig 
+V 
+Svært dårlig 
+Dypvann 
+Oksygenkonsentrasjon (ml O2/l) 
+> 4,5 
+4,5 – 3,5 
+3,5 – 2,5 
+2,5 – 1,5 
+< 1,5 
+Oksygenmetning (%)* 
+> 65 
+65 – 50 
+50 – 35 
+35 – 20 
+< 20 
+*Oksygenmetningen er beregnet for saltholdighet 33 og temperatur 6°C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+8 
+2. Resultat 
+2.1 Havbunnskartlegging 
+Kartleggingen viser at området skråner forholdsvis bratt med en sørvestlig til nordøstlig orientering ut mot 
+Sørfolda. Dybder for det kartlagte området varierer fra 20 meter i sørvest, til 300 meter i nordøst. 
+Under selve anleggsrammen er dypeste punkt 215m, i det nordøstlige hjørnet. Hardhetsberegningen viser 
+overvekt av middel-hardbunn, med innslag av bløtbunn for områdets flatere partier. For tredimensjonal 
+fremstilling av havbunnen se Vedlegg A. 
+ 
+ 
+Figur 2: Oversiktskart over batymetri ved Tårnvika med dybdekoter på 5 meter. Blåtoner fra lyst til mørkt markerer 
+økende dybde. Planlagt anleggsramme er inntegnet. 
+ 
+Figur 3: Oversiktskart over batymetri ved Tårnvika med dybdekoter på 5 meter og hardhet. Hardhet er markert med 
+fargetoner fra blått (bløtbunn) til rødt (hardbunn). Planlagt anleggsramme er inntegnet. 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+9 
+ 
+2.2 Vannstrømmålinger 
+Det er registrert lite strømstille i måleperioden på alle undersøkte dyp. Vannstrømmen ved Tårnvika veksler 
+stort sett med tidevannet og følger batymetriens orientering ved målestedet med retning mot nord og sør. 
+Størst vanntransport på alle undersøkte dyp er rettet mot nord, men har også en betydelig 
+sekundærkomponent mot sør. Tabell 4 viser hovedresultatene fra vannstrømmålingene ved Tårnvika, og 
+Figur 4 viser vanntransporten (fluksen) for alle seks dyp. Figur 5 viser plassering av strømrigg i forhold til 
+planlagt anleggsplassering. For tidsserier over strømhastighet (Figur B-1 og B-2) og -retning (Figur B-3), 
+frekvensfordeling av strømhastighet (Figur B-4 og B-5) og frekvensfordeling av strømretning (Figur B-6 og B-
+7) se Vedlegg B.  
+ 
+Tabell 4: Hovedresultater fra vannstrømmålingene ved Tårnvika. 
+Parametere 
+5 meter 
+15 meter 
+25 meter 
+65 meter 
+70 meter 
+109 meter 
+Gyldige målinger/totalt 
+5175 / 5176 
+5175 / 5176 
+5174 / 5176 
+4375 / 
+4375 
+4375/4375 
+Gjennomsnittsstrøm 
+7,0 
+4,0 
+4,0 
+4.9 
+4.8 
+5.0 
+Maksimalstrøm (cm/s) 
+31,0 
+24,0 
+23,0 
+18.3 
+23.7 
+22.3 
+Minimumstrøm (cm/s) 
+0,0 
+0,0 
+0,0 
+0.1 
+0.1 
+0.0 
+Strømstyrke 0-1 cm/s (%) 
+3,1 
+5,1 
+6,0 
+3.5 
+4.2 
+4.0 
+Strømstyrke 1-3 cm/s (%) 
+– 
+– 
+– 
+23.0 
+26.1 
+24.6 
+Neumann-parameter 
+0,31 
+0,34 
+0,25 
+0.17 
+0.08 
+0.18 
+Standardavvik (cm/s) 
+5,0 
+3,0 
+2,0 
+2.8 
+3.0 
+3.1 
+Varians (cm2/s2) 
+– 
+– 
+– 
+7.7 
+8.9 
+9.9 
+Signifikant maksimum 
+12,0 
+7,0 
+6,0 
+8.1 
+8.1 
+8.6 
+Signifikant minimum 
+2,0 
+2,0 
+2,0 
+2.2 
+2.0 
+2.1 
+De 4 hyppigst 
+forekommende 
+strømretningsgruppene 
+(°) 
+285° 
+300° 
+270° 
+330° 
+330° 
+345° 
+315° 
+360° 
+345° 
+360° 
+15° 
+30° 
+345 - 360° 
+330 - 345° 
+0 - 15° 
+315 – 330° 
+330 - 345° 
+0 - 15° 
+345 - 360° 
+15 - 30° 
+345 - 360° 
+330 - 345° 
+0 - 15° 
+315 - 330° 
+De 4 hyppigst 
+forekommende 
+strømhastighetsgruppene 
+(cm/s) 
+5 
+10 
+15 
+20 
+5 
+10 
+15 
+20 
+5 
+10 
+15 
+25 
+3 - 5 
+5 - 7 
+1 - 3 
+7 - 9 
+3 - 5 
+1 - 3 
+5 - 7 
+7 - 9 
+3 - 5 
+1 - 3 
+5 - 7 
+7 - 9 
+Mest vannutskiftning / 
+retning / 15 graders 
+sektor 
+630 m3/m2 
+per dag ved 
+270 - 285° 
+358 m3/m2 
+per dag ved 
+315 - 330° 
+289 m3/m2 
+per dag ved 
+330 - 345° 
+391 m3/m2 
+per dag 
+ved 345 - 
+360° 
+350 m3/m2 
+per dag 
+ved 330 - 
+345° 
+474 m3/m2 
+per dag ved 
+345 - 360° 
+Minst vannutskiftning / 
+retning / 15 graders 
+sektor 
+73 m3/m2 
+per dag ved 
+90 - 105° 
+46 m3/m2 
+per dag ved 
+90 - 105° 
+64 m3/m2 
+per dag ved 
+75 - 90° 
+66 m3/m2 
+per dag 
+ved 120 - 
+135° 
+68 m3/m2 
+per dag 
+ved 240 - 
+255° 
+92 m3/m2 
+per dag ved 
+75 - 90° 
+ 
+ 
+ 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+10 
+25 meter 
+5 meter 
+15 meter 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+11 
+Figur 4: Vanntransport (m3/m2/dag) for hver 15° sektor på 5, 15 og 25 meter i perioden 03.09-09.10.2013, 
+og 65, 70 og 109 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+ 
+2.3 B-undersøkelse 
+Antall prøvestasjoner ved Tårnvika var 13, og det ble tatt 16 grabbskudd fordelt på disse. Sedimentet under 
+anlegget består hovedsakelig av sand, silt og skjellsand. Det ble funnet dyreliv ved alle tretten stasjonene, 
+bestående av ulike typer børstemark og skjell. Det var kun mulig å måle elektrokjemi ved syv av tretten 
+stasjoner, grunnet lavt grabbvolum. Alle pH målingene viste normale verdier, mens Eh var negativ ved stasjon 
+9, og positiv ved de øvrige stasjonene. Tilstanden på de elektrokjemiske målingene ble 1. Det ble ikke 
+registrert gassbobler eller slamdannelse ved noen av stasjonene. Misfarging ble registrert ved ni stasjoner. 
+Stasjon 10 hadde sterk lukt, fire av stasjonene hadde noe lukt og de øvrige hadde normal lukt. Konsistensen 
+var fast ved fem av stasjonene og myk ved åtte. Grabbvolumet var under ¼ ved seks av stasjonene, mellom 
+¼ og ¾ ved seks og over ¾ ved én stasjon. Tilstanden på de sensoriske registreringene ble 1. Basert på 
+resultatene ser produksjonen ved lokaliteten ut til å være innenfor områdets bæreevne. Tabell 5 
+oppsummerer hovedresultatene fra B-undersøkelsen, og for original rapport med utfyllende informasjon om 
+hver stasjon se Andreassen, 2022. 
+ 
+Totaltilstand for Tårnvika blir 1, med en indeksverdi på 0,71. 
+ 
+Tabell 5: Hovedresultater fra B-undersøkelsen ved Tårnvika utført 03.11.2021 og 17.02.2022. 
+ 
+ 
+ 
+Sedimenttype 
+Dominerende 
+Mindre dominerende 
+Øvrige 
+Sand 
+Skjellsand 
+Silt 
+Ant. stasjoner: 
+13 
+Ant. stasj. med / uten dyr: 
+13 / 0 
+Ant. hugg: 
+16 
+Ant. stasj. bløt / hard bunn: 
+11 / 2 
+Antall grabbstasjoner (gruppe II / III) med følgende tilstand: 
+Tilstand 1: 8 / 5 
+Tilstand 2: 1 / 7 
+Tilstand 3: 0 / 1 
+Tilstand 4: 0 / 0 
+Parametergruppe 
+Indeks 
+Tilstand 
+Gr. II pH/Eh 
+0,56 
+1 
+Gr. III Sensorisk: 
+0,91 
+1 
+Gr. II + III 
+0,71 
+1 
+Lokalitetstilstand, iht. NS 9410:2016 
+1 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+12 
+ 
+2.4 C-undersøkelse 
+Disse resultatene er basert på stasjon C3, C4 og Cref fra C-undersøkelsen 312-11-19C (levert av Aqua 
+Kompetanse AS), i tillegg til disse ble det tatt ut C1 og C2 06.04.2022. Sistnevnte stasjoner er ikke rapportert 
+tidligere, og ble lagt til for å tilpasse avstandene til den nye anleggsrammen, i henhold til NS 9410:2016.  
+ 
+2.4.1 Bløtbunnsfauna 
+Stasjonene i overgangssonen hadde svært god økologisk tilstand ut fra nEQR, ytterkanten av overgangssonen 
+og referansestasjonen hadde også svært god tilstand. Arts- og individantallet var varierende ved stasjonene. 
+ 
+Ved C1 ble det registrert 1565 individer fordelt på 44 arter. Blant de ti vanligste artene var det hovedsakelig 
+opportunistiske arter, men også sensitive, nøytrale og tolerante arter. Forurensningsindikatoren Capitella 
+Capitata var den vanligste, med 54% av individantallet. Stasjonen klassifiseres til miljøtilstand 1 ut fra 
+NS9410:2016. 
+ 
+Ved C2 ble det registrert 417 individer fordelt på 59 arter. Den sensitive arten Eclysippe vanelli var den 
+vanligste ved stasjonen, med 21% av individtallet. Samtlige faunaindekser fikk svært god tilstand, og 
+stasjonen ble klassifisert til god tilstand ut fra veileder 02:2018. 
+ 
+Ved C3 ble det registrert 565 individer fordelt på 55 arter. Den tolerante arten Paramphinome jeffreysii var 
+den vanligste ved stasjonen, med 19% av individtallet. Faunaindeksene ved stasjonen hadde god eller svært 
+god tilstand, og stasjonen ble klassifisert til svært god tilstand ut fra veileder 02:2018. 
+ 
+Ved C4 ble det registrert 286 individer fordelt på 45 arter. Den tolerante arten Paramphinome jeffreysii var 
+den vanligste ved stasjonen, med 17% av individtallet. Faunaindeksene ved stasjonen hadde god eller svært 
+god tilstand, og stasjonen ble klassifisert til svært god tilstand ut fra veileder 02:2018. 
+ 
+Ved Cref ble det registrert 339 individer fordelt på 45 arter. Den tolerante arten Paramphinome jeffreysii var 
+den vanligste ved stasjonen, med 24% av individtallet. Faunaindeksene ved stasjonen hadde god eller svært 
+god tilstand, og stasjonen ble klassifisert til svært god tilstand ut fra veileder 02:2018. 
+ 
+2.4.2 Sensoriske registreringer og elektrokjemiske målinger 
+Alle stasjonene viste gode pH og Eh-målinger, med unntak av noe lav Eh ved C1. Det ble observert normal 
+lukt og farge ved alle stasjonene. Sedimentet ved stasjonene besto av varierende grad av sand, silt, skjellsand, 
+leire og grus, konsistensen var myk eller fast.  
+ 
+2.4.3 Geologisk analyser 
+Pelittandelene viser at sedimentet ved C1 og C4 var grovkornet, mens sedimentet ved de resterende 
+stasjonene var moderat grovkornet.  
+ 
+2.4.4 Kjemiske analyser 
+Andelen organisk materiale (TOM) var lavest ved C4 med 0,6 % og høyest ved C3 og Cref med henholdsvis 
+2,8 og 2,7%. Nivåene av normalisert organisk karbon (nTOC) var lave (tilstand I) ved alle stasjoner. Mengden 
+nitrogen lå i intervallet 0,5 – 0,9 g/kg, og C:N forholdet lå mellom 5,4 og 7,3. Det ble målt kobber ved C1 hvor 
+nivået ble målt til bakgrunnsnivå (tilstandsklasse I). 
+ 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+13 
+Tabell 6: Hovedresultater fra C-undersøkelsen. Aqua Kompetanse AS har stått for akkreditert prøvetaking og akkreditert 
+faglig vurdering og fortolkning av analyseresultatene. Videre har Aqua Kompetanse AS utført uakkreditert hydrografisk 
+profil av vannsøylen ved lokaliteten. Pelagia Nature & Environment AB har utført akkreditert analyse av makrofauna, og 
+Eurofins Environment Testing Norway AS har utført akkrediterte analyser av TOC og kobber. Aqua Kompetanse AS har 
+utført uakkreditert tilstandsklassifisering av oksygentilstand og organisk karbon etter Veileder 02:2018, mens kobber er 
+klassifisert etter M-608 (2016). Aqua Kompetanse AS har stått for tilstandsklassifisering av faunaindekser. Farger 
+indikerer tilstandsklasser ut fra nevnte veiledere. For veileder 02:2018 er disse fargene som følger: Blå = svært god, grønn 
+= god, gul = moderat, oransje = dårlig og rød=svært dårlig. Miljøtilstand i anleggssonen er klassifisert og farget ut fra 
+NS9410:2016. 
+ 
+ 
+Anleggssone 
+Ytterst 
+Overgangssone 
+Referanse 
+ 
+Stasjon 
+C1 
+Stasjon 
+C2 
+Stasjon 
+C3 
+Stasjon 
+C4 
+Stasjon  
+Cref 
+Avstand  til anlegg 
+(m) 
+0 
+216 
+592 
+74 
+915 
+Dyp (m) 
+119 
+202 
+367 
+103 
+291 
+GPS koordinater 
+67°34.406’N 
+15°07.847’Ø 
+67°34.543’N 
+15°08.063’Ø 
+67°34.769’N 
+15°08.040’Ø 
+67°34.288’N 
+15°07.885’Ø 
+67°34.281’N 
+15°09.079’Ø 
+ 
+Bunnfauna 
+Ant. arter 
+44 
+59 
+55 
+62 
+45 
+Ant. Ind. 
+1565 
+417 
+565 
+286 
+339 
+H' 
+2,413 
+4,215 
+3,98 
+4,30 
+4,01 
+Økologisk 
+tilstand 
+nEQR 
+0,454 
+ 
+0,871 
+I 
+0,82 
+I 
+0,84 
+I 
+0,80 
+I 
+Gj.snitt nEQR 
+overgangsso
+ne 
+ 
+ 
+0,83 
+I 
+ 
+Oksygen i 
+bunnvann 
+(ml O2/l og 
+t.klasse) 
+ 
+5,89 
+ 
+ 
+ 
+Organisk stoff 
+TOC (mg/g) 
+19,7 
+16,5 
+14,7 
+19,3 
+15,9 
+Cu (mg/kg TS) 
+t.klasse 
+3,9 
+ 
+ 
+ 
+ 
+ 
+Tilstand for C1 
+1 
+ 
+ 
+ 
+ 
+Tidspunkt for neste undersøkelse: 
+Etter første produksjonssyklus 
+ 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+14 
+ 
+Tabell 7: Tabell som viser fargekoder for de ulike tilstandsklassifiseringene vist i Tabell 6, hvor tilstand I er best. Etter 
+Veileder 02:2018. 
+I 
+II 
+III 
+IV 
+V 
+ 
+ 
+Figur 5: Sjøkart som viser bunndata fra Tårnvika i 0,46 meters oppløsning, planlagt anleggsplassering og fortøyningsliner 
+sammen med prøvestasjoner fra B-undersøkelsen (tilstand markert med farger etter Tabell 2) og C-undersøkelsens 
+innerste stasjoner (grønne kryss). Lilla pil viser orientering av kart.  
+ 
+ 
+Tabell 8: Posisjon for prøvestasjonene ved B-undersøkelsen. 
+St. nr. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+Pos. Nord 
+67°34.397 
+.360 
+.324 
+.313 
+.322 
+.337 
+.417 
+.421 
+.415 
+.368 
+.454 
+.447 
+.367 
+Pos. Øst 
+15°07.822 
+.789 
+.785 
+.749 
+.646 
+.621 
+.661 
+.698 
+.797 
+.737 
+.711 
+.808 
+.668 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+15 
+Figur 6: Sjøkart som viser planlagt anleggsplassering sammen med C-stasjoner (grønne kryss), posisjon for 
+vannstrømmålinger (rødt flagg) og fortøyningsliner. Lilla pil viser orientering av kart, strømrose viser vanntransport 
+(m 3 /m 2 /døgn) for hver 15° sektor på 65 meters dyp (spredningsdyp). 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+16 
+2.4.5 Hydrografi 
+Saltholdighet, temperatur, tetthet og oksygeninnhold ble målt fra overflaten og ned til bunnen (down-cast) i 
+dypområdet ved Tårnvika (; Figur 6). Resultatene fra denne undersøkelsen presenteres i Figur 7 og 8.  
+ 
+ 
+ 
+Figur 7: Sjøtemperatur (°C ; rød), salinitet (blå) og tetthet (-1000 kg/m3; svart) fra overflaten og ned til bunnen 
+(down-cast) på 210 meters dyp ved stasjon C2 den 05.04.2022. 
+ 
+Sjøtemperaturen, salinitet og tetthet følger alle samme trend med å gradvis øke i verdi nedover i vannsøylen. 
+Ved bunnen lå temperaturen på omtrent 6,5°C, saliniteten på omtrent 34 og tettheten på omtrent 1027 kg/ 
+m3. 
+ 
+Down-cast selected
+200
+190
+180
+170
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0 m
+34,0
+33,0
+32,0
+7,0
+6,0
+5,0
+4,0
+28,0
+27,0
+26,0
+Sal.
+Temp
+Density
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+17 
+ 
+Figur 8: Oksygenmetning (%; blå) og oksygenkonsentrasjon (mg/l; rød) fra overflaten og ned til bunnen 
+(down-cast) på 210 meters dyp ved stasjon C2 den 05.04.2022. 
+ 
+I overflatevannet lå oksygenkonsentrasjonen på 8,57 ml O2/l (111% metning), og sank gradvis nedover 
+vannsøyla til rundt 5,89 ml/l (86,77%) ved bunnen, som tilsvarer tilstand I «Svært god» etter klassifiseringen 
+for oksygen i dypvann, gjengitt i Tabell 3. 
+ 
+ 
+ 
+Down-cast selected
+200
+190
+180
+170
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0 m
+8,5
+8,0
+7,5
+7,0
+6,5
+6,0
+110,0
+105,0
+100,0
+95,0
+90,0
+OpOx %
+ml/l
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+18 
+3. Oppsummering 
+Ved Tårnvika er det omtrent 85 til 142 meter dypt under anlegget, og bunnen skråner nordøst med dyp på 
+rundt 370 meter på det dypeste. Havbunnskartleggingen viser overvekt av middels hardbunn, med innslag 
+av bløtbunn i områdets flatere partier.  
+ 
+Det er registrert lite strømstille i måleperioden på alle undersøkte dyp. Vannstrømmen ved Tårnvika veksler 
+stort sett med tidevannet og følger batymetriens orientering ved målestedet med retning mot nord og sør. 
+Størst vanntransport på alle undersøkte dyp er rettet mot nord, men har også en betydelig 
+sekundærkomponent mot sør. 
+ 
+B-undersøkelsen viste generelt svært god tilstand i sedimentet under den planlagte anleggsrammen. Det var 
+noe redusert elektrokjemisk vurderingsgrunnlag ved undersøkelsen, og enkelte stasjoner viste små tegn til 
+påvirkning i form av misfarging og lukt.  
+ 
+C-undersøkelsen viste generelt svært gode forhold. C1 i anleggssonen viste noe tegn til påvirkning i 
+forbindelse med høy tilstedeværelse av en forurensningsindikator, men fikk sammenlagt meget god 
+miljøtilstand.  
+ 
+Hydrografiprofilen tatt ved C2 viste høy oksygenmetning i hele vannsøylen, med bunnvann som tilsvarte 
+beste tilstand.  
+ 
+3.1 Bæreevne 
+Undersøkelsene viste generelt gode forhold ved den planlagte anleggsplasseringen for Tårnvika. Med 
+middels hardbunn i store deler av området kan man anta å få et redusert elektrokjemisk vurderingsgrunnlag 
+også ved fremtidige B-undesøkelser. Observert påvirkning ved C1 kan regnes som normalt ved en lokalitet i 
+drift. Med lite strømstille, og få tegn til påvirkning vurderes området til å ha god kapasitet til omsetning av 
+organisk materiale fra produksjon. Med eventuell anleggsdrift vil lokaliteten bli rutinemessig fulgt opp med 
+miljøundersøkelser, og dette vil gi en bedre pekepinn på lokalitetens bæreevne. 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+19 
+4. Referanser 
+ 
+Andreassen, T-E. (2022) B-undersøkelse ved Tårnvika i Bodø kommune, november 2021 og februar 2022. 
+Rapportnummer 63-2-22B levert av Aqua Kompetanse AS.  
+ 
+Fredriksen, K-E. (2019) C-undersøkelse ved Tårnvika i Bodø kommune, november 2019. Rapportnummer 
+312-11-19C levert av Aqua Kompetanse AS.  
+ 
+M-608 (2016) Grenseverdier for klassifisering av vann, sediment og biota. Miljødirektoratet. Revidert 
+30.10.2020. 
+ 
+Moe, A.A. (2013) Tårnvika strøm oktober 2013. Rapport levert av Helgeland Havbruksstasjon AS. 
+ 
+Molvær, J., Knutzen, J., Magnusson, J., Rygg, B., Skei, J. & Sørensen, J. (1997) Klassifisering av miljøkvalitet i 
+fjorder og kystvann. Veiledning 97:03. 
+ 
+Norsk Standard 9410 (2016) Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg. Standard 
+Norge. NS 9410: 2016. 
+ 
+Norsk Standard 9425-2 (2003) Oseanografi – Del 2: Strømmålinger ved hjelp av ADCP. Standard Norge. NS 
+9425-2:2003. 
+ 
+Norsk Standard EN ISO 16665 (2013) Vannundersøkelse – Retningslinjer for kvantitativ prøvetaking og 
+prøvebehandling av marin bløtbunnsfauna. Standard Norge. NS-EN ISO 16665: 2013. 
+ 
+Norsk Standard EN ISO 5667 (2004) Vannundersøkelse – Prøvetaking – Del 19: Veiledning i 
+sedimentprøvetaking i marine områder. NS-EN ISO 5667-19: 2004. 
+ 
+Roksvaag, M. (2022) Havbunnskartlegging ved Tårnvika, Bodø kommune, 22.03.2022. Rapportnummer 1377-
+5-22M levert av Aqua Kompetanse AS. 
+ 
+Sivertsen, K.F. (2019) Vannstrømmåling ved Tårnvika, Bodø, oktober - november 2019. Rapportnummer 340-
+12-19S levert av Aqua Kompetanse AS. 
+ 
+Veileder 02:2018 (2018) Klassifisering av miljøtilstand i vann. Direktoratsgruppen vanndirektivet 2018. 
+ 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+20 
+ 
+Vedlegg A – Havbunnskartlegging 
+ 
+ 
+Figur A-1: Tredimensjonalt perspektivisk bunnkart fra Tårnvika sett fra nordøst. 
+ 
+ 
+Figur A-2: Tredimensjonalt perspektivisk bunnkart fra Tårnvika sett fra nordøst med hardhet. 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+21 
+ 
+Figur A-3: Tredimensjonalt perspektivisk bunnkart fra Tårnvika sett fra øst med planlagt anleggsramme inntegnet. 
+ 
+ 
+Figur A-4: Tredimensjonalt perspektivisk bunnkart fra Tårnvika sett fra øst, med hardhet og planlagt anleggsramme 
+inntegnet. 
+ 
+ 
+ 
+ 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+22 
+Vedlegg B – Vannstrømmålinger 
+Tidsserie – strømhastighet 
+5 meter 
+ 
+ 
+ 
+15 meter 
+ 
+ 
+25 meter 
+ 
+Figur B-1: Vannstrømhastighet (m/s) på 5, 15 og 25 meters dyp ved Tårnvika i perioden 03.09-09.10.2013 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+23 
+Figur B-2: Vannstrømhastighet (cm/s) på 65, 70 og 109 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+24 
+Tidsserie – strømretning 
+Figur B-3: Vannstrømretning (°) på 65, 70 og 109 meters dyp ved Tårnvika i perioden 11.10.–10.11.2019. Oppgis som 
+retningen vannstrømmen beveger seg mot. 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+25 
+ 
+Histogram – strømhastighet 
+5 meter 
+ 
+ 
+15 meter 
+ 
+ 
+25 meter 
+Figur B-4: Frekvensfordeling av vannstrømhastighet på 5, 15 og 25 meters dyp ved Tårnvika i perioden 03.09-
+09.10.2013. 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+26 
+Figur B-5: Frekvensfordeling av vannstrømhastighet på 65, 70 og 109 meters dyp ved Tårnvika i perioden 11.10.– 
+10.11.2019. 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+27 
+ 
+ 
+Histogram – strømretning 
+5 meter 
+ 
+ 
+15 meter 
+ 
+ 
+25 meter 
+ 
+Figur B-6: Frekvensfordeling av vannstrømretning for hver 15° sektor på 5, 15 og 25 meters dyp ved Tårnvika i 
+perioden 03.09-09.10.2013. 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+28 
+Figur B-7: Frekvensfordeling av vannstrømretning for hver 15° sektor på 65, 70 og 109 meters dyp ved Tårnvika i 
+perioden 11.10.–10.11.2019. Oppgis som retningen vannstrømmen beveger seg mot. 
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+29 
+Vedlegg C- B1 og B2 skjema 
+ 
+Tabell C- 1: Oversikt over resultatene basert på fauna, elektrokjemiske målinger og sensoriske registreringer ved 
+prøvestasjonene (B.1-skjema). I henhold til NS9410:2016 og samtidig i overensstemmelse med Fiskeridirektoratet blir 
+«bunntype» kategorisert som bløtbunn dersom grabben inneholder mineralsk sediment som poengvektes «2» eller mer, 
+eller som hardbunn dersom grabben inneholder kun vann eller organisk stoff, eller sediment som poengvektes «1». 
+Prøver som inneholder kun vann gis 0 poeng for gruppe II og gruppe III parametere. Prøver som inneholder organisk stoff 
+vurderes etter gruppe II og gruppe III parametere, men er det for lite organisk stoff til at gruppe II parameter kan måles 
+gis ingen poeng, og prøven vurderes etter gruppe III parameter. Dersom grabben har for lite sediment (men likevel 
+kategorisert som bløtbunn) til å måle gruppe II parameter gis heller ingen poeng til denne gruppen, og prøven vurderes 
+etter gruppe III parameter. 
+ 
+ 
+ 
+ 
+Indeks
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+B
+B
+B
+B
+H
+B
+B
+H
+B
+B
+B
+B
+B
+I
+Dyr
+Ja = 0, Nei = 1 
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+pH
+Målt verdi
+7,76
+7,8
+7,83
+7,66
+-
+-
+7,75
+-
+7,26
+7,44
+-
+-
+-
+Målt verdi
+-160
+-103
+-105
+-134
+-
+-
+-60
+-
+-276
+-197
+-
+-
+-
+"+ ref. verdi
+61
+118
+116
+87
+161
+-55
+24
+pH/Eh
+Poeng
+1
+0
+0
+1
+0
+0
+0
+2
+1
+0,56
+1
+1
+1
+1
+1
+1
+1
+2
+1
+Ja = 4
+Nei = 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Lys/grå = 0
+0
+0
+0
+0
+Brun/sort = 2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+Ingen = 0
+0
+0
+0
+0
+0
+0
+0
+0
+Noe= 2
+2
+2
+2
+2
+Sterk = 4
+4
+Fast = 0
+0
+0
+0
+0
+0
+Myk = 2
+2
+2
+2
+2
+2
+2
+2
+2
+Løs = 4
+v < ¼ = 0
+0
+0
+0
+0
+0
+0
+¼ - ¾ = 1
+1
+1
+1
+1
+1
+1
+v > ¾ = 2
+2
+0 - 2 cm = 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2 - 8 cm = 1
+> 8 cm = 2
+7
+5
+5
+5
+0
+6
+6
+2
+7
+10
+0
+1
+0
+1,54
+1,10
+1,10
+1,10
+0,00
+1,32
+1,32
+0,44
+1,54
+2,20
+0,00
+0,22
+0,00
+0,91
+2
+2
+2
+2
+1
+2
+2
+1
+2
+3
+1
+1
+1
+1,27
+0,55
+0,55
+1,05
+0,00
+1,32
+0,66
+0,22
+1,77
+1,60
+0,00
+0,22
+0,00
+0,71
+2
+1
+1
+1
+1
+2
+1
+1
+2
+2
+1
+1
+1
+ 
+11,1°C
+8,64
+10,1°C
+110
+9,2°C
+221
+AQUA  KOMPETANSE AS
+Prøveskjema B.1
+II
+Eh (mV)
+Tilstand prøve
+Tilstand gruppe II
+1
+Gr.
+Parameter
+Poeng
+Prøvenummer
+Bunntype: B (bløt) eller H (hard)
+Lokalitetsnummer: 16165
+Lokalitet: Tårnvika
+Kunde: MOWI Breeding
+III
+Gassbobler
+Farge
+Lukt
+Konsistens
+Grabbvolum
+Tykkelse på 
+slamlag
+SUM
+Korrigert sum (x 0,22)
+Tilstand prøve
+Tilstand gruppe III
+Tilstand
+Indeks Middelverdi
+Buffertemperatur:
+pH sjø:
+1
+Middelverdi gruppe II & III
+Tilstand prøve
+Lokalitetstilstand
+1
+Feltdato: 03.11.2021 / 17.02.2022
+Rapportnummer: 63-2-22B
+2,1 - < 3,1
+3
+> 3,1
+4
+< 1,1
+1
+Sjøtemperatur:
+Eobs sjø:
+1,1 - < 2,1
+2
+Sedimenttemperatur:
+Ref. elektrode:
+pH/Eh Korrigert sum
+ 
+1367-5-22FU TÅRNVIKA 
+AQUA KOMPETANSE AS 
+30 
+Tabell C-2: Oversikt over resultatene fra bedømmingen av sedimentet og karakteristika på havbunnen ved 
+prøvestasjonene (B.2-skjema). På hver stasjon blir sedimentet bedømt ved å fordele totalt fem poeng per stasjon, fordelt 
+på hvilken type sediment som observeres i prøven. Tabellen inkluderer dybdetall og registreringer av ulike dyregrupper, 
+samt 
+om 
+det 
+observeres 
+Beggiatoa 
+eller 
+rester 
+av 
+fôr 
+og/eller 
+fekalier. 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+105
+99
+94
+75
+50
+56
+74
+80
+101
+83
+80
+110
+60
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+2
+3
+2
+3
+1
+3
+2
+1
+2
+1
+2
+1
+2
+1
+1
+1
+4
+5
+1
+2
+5
+3
+2
+2
+2
+5
+3
+5
+> 40
+> 20
+> 50
+20
+1
+50
+20
+15
+10
+20
+10
+5
+10
+1
+JA
+Bobling ved prøvetaking:
+AQUA  KOMPETANSE AS
+Prøveskjema B.2
+Rapportnummer: 63-2-22B
+Feltdato: 03.11.2021 / 17.02.2022
+Lokalitet: Tårnvika
+Kunde: MOWI Breeding
+Prøvenummer
+Dyp (m):
+Antall forsøk med prøvetaker:
+Lokalitetsnummer: 16165
+Sedimenttype
+Leire
+Silt
+Sand
+Grus
+Skjellsand
+Steinbunn
+Fjellbunn
+Fauna
+Pigghuder
+Krepsdyr
+Skjell
+Børstemark
+Andre dyr
+Beggiatoa
+Fôr
+Fekalier
+Kommentarer
+Gastropode
+For grovt sediment til 
+elektrokjemi. Tare i grabb
+Blåskjell
+For lite sediment for måling av 
+elektrokjemi
+For grovt sediment for måling av el
+For lite sediment for måling av 
+elektrokjemi

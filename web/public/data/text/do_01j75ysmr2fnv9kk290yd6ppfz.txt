@@ -1,0 +1,5942 @@
+﻿Strømrapport 
+Måling av overflate- (5m), 
+dimensjonerings- (15m), sprednings- (35m) 
+og bunnstrøm (48m) ved 
+Storøya NØ i 
+april - august 2022 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 2 av 72 
+Rapport 
+Rapportbeskrivelse 
+og -navn 
+Vurdering av strømforhold ved Storøya NØ. 
+SR-ML-StorøyaNØ-104512-01-002.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+17.06.22 
+Første utgivelse. Presentasjon og vurdering av gjennomførte 
+strømmålinger ved Storøya NØ på 5m og 15m. 
+002 
+07.09.22 
+Andre utgivelse. Nye målinger på spredning- og bunndyp er 
+inkludert. 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten 
+kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde 
+oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Storøya NØ 
+Lokalitetsnummer 
+11298 
+Kommune  
+Lødingen 
+Fylke 
+Nordland 
+Oppdragsgiver 
+Selskap 
+Mortenlaks AS; Erikstad, 8410 LØDINGEN, NORGE 
+Kontaktperson 
+Jostein Naustvik 
+jostein.naustvik@mortenlaks.no 
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+Organisasjonsnummer: 916 763 816 
+Feltarbeidsansvarlig 
+Oda Ravnås Waldeland 
+oda.waldeland@akerbla.no 
+Rapportansvarlig  
+Ver001  
+Ver002                           
+ 
+Aleksander Libæk 
+Anne Kari Meisingset 
+ 
+aleksander.libaek@akerbla.no 
+anne.meisingset@akerbla.no 
+Kontrollert av  
+Ver001 – Ver002  
+ 
+Øystein Breiteig 
+ 
+oystein.breiteig@akerbla.no 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+Resultat nøkkeltall 
+Måledyp 
+5m 
+15m 
+Spredning 
+(35m) 
+Bunn 
+(48m) 
+Maksimal strøm (cm/s) (retning) 
+44.2 (NV) 
+29.7 (N) 
+20.4 (NV) 
+13.2 (NV) 
+Gjennomsnittlig strøm (cm/s) 
+7.8 
+5.6 
+6.1 
+3.4 
+Strømstyrke < 1cm/s (%) 
+2.4 
+4.2 
+3.9 
+9.5 
+Strømstyrke < 3cm/s (%) 
+18.5 
+28.0 
+25.1 
+49.4 
+Strømstyrke < 10cm/s (%) 
+72.5 
+88.1 
+84.4 
+99.3 
+Strømstyrke ≥ 30cm/s (%) 
+0.4 
+0.0 
+0.0 
+0.0 
+Strømstyrke ≥ 50cm/s (%) 
+0.0 
+0.0 
+0.0 
+0.0 
+Neumann-parameter 
+0.4 
+0.5 
+0.1 
+0.5 
+10-års strøm (maksimal) 
+73 
+49 
+- 
+- 
+50-års strøm (maksimal) 
+82 
+55 
+- 
+- 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 3 av 72 
+ 
+Innholdsfortegnelse 
+ 
+1. 
+Forord .......................................................................................................................................... 5 
+2. 
+Områdebeskrivelse ..................................................................................................................... 6 
+3. 
+Metodikk ...................................................................................................................................... 7 
+4. 
+Resultater ................................................................................................................................... 10 
+4.1 
+Sammendrag av strømdata .............................................................................................. 10 
+4.2 
+Strømroser ....................................................................................................................... 11 
+4.3 
+Matrise med strømhastighet og -retning ......................................................................... 12 
+4.4 
+Strømmens hastighetsfordeling ....................................................................................... 16 
+4.5 
+Strømmens retningsfordeling .......................................................................................... 17 
+4.6 
+Tidsdiagram – Strømhastighet ........................................................................................ 18 
+4.7 
+Tidsdiagram – Strømretning ........................................................................................... 19 
+4.8 
+Tidsdiagram – Temperatur .............................................................................................. 20 
+4.9 
+Progressivt vektordiagram .............................................................................................. 23 
+4.10 
+Fordelingsdiagram – Maksimal strømhastighet .............................................................. 26 
+4.11 
+Fordelingsdiagram – Gjennomsnittshastighet ................................................................. 27 
+4.12 
+Fordelingsdiagram – Relativ vannfluks .......................................................................... 28 
+4.13 
+Fordelingsdiagram – Antall observasjoner ..................................................................... 29 
+4.14 
+Maksimal strømhastighet i 8 retningssektorer ................................................................ 30 
+4.15 
+Gjennomsnittlig strømhastighet i 8 retningssektorer ...................................................... 30 
+4.16 
+Antall målinger i 8 retningssektorer ................................................................................ 30 
+4.17 
+Relativ vannutskiftning i 8 retningssektorer ................................................................... 30 
+4.18 
+10-års og 50-års strømhastighet i 8 retningssektorer ...................................................... 31 
+4.19 
+Persentilfordeling av strømhastighet ............................................................................... 32 
+4.20 
+Prosentfordeling av strømhastighet ................................................................................. 32 
+4.21 
+Strømfordeling ................................................................................................................ 33 
+4.22 
+Strømvarighet .................................................................................................................. 35 
+4.23 
+Tidevannsanalyse ............................................................................................................ 37 
+4.24 
+Maksimal strømhastighet, tidevann og vind ................................................................... 40 
+4.25 
+Vind under måleperioden ................................................................................................ 41 
+4.26 
+Utslippskontur ................................................................................................................. 44 
+4.27 
+CTD-profil....................................................................................................................... 45 
+5. 
+Diskusjon ................................................................................................................................... 46 
+5.1 
+Høye strømmålinger ........................................................................................................ 46 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 4 av 72 
+5.2 
+Tidevannspåvirkning ....................................................................................................... 46 
+5.3 
+Vindpåvirkning ............................................................................................................... 46 
+5.4 
+Vannutskiftning ............................................................................................................... 47 
+5.5 
+Mulig spredning av utslipp.............................................................................................. 47 
+5.6 
+Vannsøylens vertikale struktur ........................................................................................ 48 
+6. 
+Vedlegg – Bakgrunnsinformasjon ........................................................................................... 49 
+6.1 
+Valg av sted, dyp og periode for strømmålinger ............................................................. 49 
+6.2 
+Spesifikasjoner for strøminstrumenter ............................................................................ 50 
+6.3 
+Måleprinsipp for strømmålinger ..................................................................................... 51 
+6.4 
+CTD-målinger ................................................................................................................. 51 
+7. 
+Vedlegg – Riggoppsett .............................................................................................................. 52 
+7.1 
+Test av riggoppsett før utsett ........................................................................................... 52 
+7.2 
+Riggoppsett ..................................................................................................................... 52 
+8. 
+Vedlegg – Databearbeiding og kvalitetssikring ...................................................................... 57 
+8.1 
+Databearbeiding .............................................................................................................. 57 
+8.2 
+Kvalitetssikring av data ................................................................................................... 59 
+8.3 
+Fjernede dataverdier ........................................................................................................ 65 
+8.3.1 
+Måleperiode ............................................................................................................... 65 
+8.3.2 
+Enkelte datapunkter.................................................................................................... 65 
+9. 
+Vedlegg – Fyrstikkdiagram av vind og strøm ........................................................................ 66 
+10. Vedlegg – Strømmens tilstandsklasser .................................................................................... 68 
+11. Vedlegg – Månedlige tidevannsvariasjoner ............................................................................ 69 
+12. Vedlegg – Måleenheter ............................................................................................................. 70 
+13. Vedlegg – Parametere og beskrivelse ...................................................................................... 71 
+14. Vedlegg – Referanser ................................................................................................................ 72 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 5 av 72 
+1. Forord 
+ 
+Åkerblå AS har på oppdrag fra Mortenlaks AS utført strømmålinger ved oppdrettslokalitet Storøya 
+NØ som er vurdert etter beliggenhet, strømforhold, temperatur, vannutskiftning, tidevann og vind. 
+ 
+Resultatene fra undersøkelsen gjelder for gitte prøvepunkt og på gitt tidspunkt hvor vurderingen av 
+strømforhold over området er vurdert på bakgrunn av resultatene. 
+ 
+NYTEK-forskriften har som mål å begrense rømming av fisk fra oppdrettsanlegg. NS 9415:2009 
+krever at alle lokaliteter undersøkes og beskrives ut fra topografi og eksponeringsgrad i form av 
+parametere som danner grunnlag for beregning av miljølaster på et anlegg.   
+ 
+Alle omsøkte akvakulturlokaliteter skal også kunne ivareta artens krav til et godt levemiljø 
+(Mattilsynet, 2016). Det må være tilstrekkelig tilførsel av vann av egnet kvalitet. Spesielt relevant er 
+oksygen – som er vurdert etter blant annet strømforhold og vannutskiftning – og temperatur.   
+ 
+Denne rapporten tilfredsstiller kravene i NS 9425, og tilfredsstiller anbefalingene i retningslinje for 
+etableringssøknader fra Mattilsynet (2016). 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 6 av 72 
+2. Områdebeskrivelse 
+ 
+Målepunktene for Storøya NØ ligger i Lødingen kommune, Nordland (Figur 2.1). Storøya NØ ligger 
+midt i Kanstadfjorden mellom øya Storøya og holmen Fjellvikholman. Strømmålerposisjonene er 
+åpen mot Vestfjorden i S.  
+ 
+På grunn av omkringliggende topografi er området relativt eksponert for vind fra S og N.  
+ 
+Bunntopografi er ca. 50m dyp ved strømmålerposisjonen for 5m og 15m, og ca. 48m ved målingene 
+på sprednings- og bunndyp. Bunntopografien er orientert N/NV – S/SØ ved målingene på 5m og 
+15m, og NV – SØ ved sprednings- og bunndyp. 
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonene, anvist med rød pinne. Kartet er hentet 
+fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 7 av 72 
+3. Metodikk 
+ 
+Strømmålinger er kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter 
+som ble benyttet er oppgitt i Tabell 3.1. Strøm ble målt i to posisjoner hvor strøm på 5m og 15m er 
+anvist med gult kryss og strøm på spredningsdyp og bunndyp er anvist med rødt kryss i Figur 3.1 – 
+Figur 3.2. 
+ 
+Målingene på spredningsdyp (35m) og bunndyp (48m) har ulik måleperiode fordi strømmen på 
+spredningsdyp måtte måles på nytt. Det ble målt strøm på spredningsdyp samtidig som bunndyp, 
+men målingene kunne ikke benyttes videre fordi batteriet gikk tomt for strøm for tidlig. Målingene 
+tilfredsstiller ikke kravene om lengde på måleperiode i henhold til NS9415:2009. 
+ 
+Ut fra topografi og bunntopografi er plasseringen vurdert som god for å dokumentere 
+strømforholdene i området (Figur 3.1 – Figur 3.2). Målerne på 5m og 15m dyp er plassert i posisjonen 
+som sannsynligvis oppgir høyeste strømhastighet i området der anlegget ligger. 
+ 
+Tabell 3.1. Bakgrunnsinformasjon om strømmåling.  
+Måledyp 
+5m 
+15m 
+Spredning 
+(35m) 
+Bunn 
+(48m) 
+Posisjonsanvisning 
+ 
+ 
+ 
+ 
+Posisjon 
+68° 25.808' N; 
+015° 52.317' Ø 
+68° 25.808' N; 
+015° 52.317' Ø 
+68° 25.730' N; 
+015° 52.024' Ø 
+68° 25.730' N; 
+015° 52.024' Ø 
+Dyp på målested 
+50m 
+50m 
+48m 
+48m 
+Instrumenttype 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Måleperiode 
+08.04.22 - 
+10.05.22 
+08.04.22 - 
+10.05.22 
+22.07.22 - 
+29.08.22 
+17.06.22 - 
+20.07.22 
+Måleintervall 
+10 minutter 
+10 minutter 
+10 minutter 
+10 minutter 
+Antall døgn 
+(målt/planlagt) 
+32.1 / 32.1 
+32.1 / 32.1 
+38.1 / 38.1 
+32.8 / 32.8 
+Fjernede datapunkt 
+0 
+0 
+0 
+0 
+Manglende datapunkt 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 8 av 72 
+ 
+Figur 3.1. Plassering av strømmålere i området anvist med gult (posisjon for 5m og 15m) og rødt 
+kryss (posisjon for sprednings- og bunndyp), i forhold til eksisterende anlegg. Kompasspila øverst i 
+venstre hjørne indikerer orientering til kart. Kart er hentet fra Olex. Kartdatum: WGS84.  
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 9 av 72 
+ 
+Figur 3.2. 3D-bilde av bunntopografi i området. Den tynne kompasspila øverst i venstre hjørne 
+indikerer kartets orientering (øverste bilde) og den tykke kompasspila indikerer kameraets 
+orientering (midterste og nederste bilde). De små bildene viser kameraets utsiktspunkt for den 
+tilhørende bunntopografien. Kartene er hentet fra Olex. Kartdatum: WGS84.   
+ 
+  
+ 
+  
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 10 av 72 
+4. Resultater  
+ 
+4.1 
+Sammendrag av strømdata 
+ 
+Resultater per måledyp for hele måleperioden er sammenfattet i Tabell 4.1.1. Verdiene er klassifisert 
+(fargelagt) etter: «Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er 
+forklart i «Vedlegg – Parametere og beskrivelse». 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra 5m, 15m, spredningsdyp (35m) og bunndyp (48m). 
+Måledyp 
+5m 
+15m 
+Spredning 
+(35m) 
+Bunn 
+(48m) 
+Sjøtemperatur (°C) 
+3.2 - 4.7 
+3.1 - 4.4 
+6.5 - 12.0 
+4.5 - 5.5 
+Strømhastighet 
+Maksimum (cm/s) 
+44.2 
+29.7 
+20.4 
+13.2 
+Gjennomsnitt (cm/s) 
+7.8 
+5.6 
+6.1 
+3.4 
+Minimum (cm/s) 
+0.0 
+0.0 
+0.1 
+0.0 
+Signifikant maks (cm/s) 
+14.1 
+9.7 
+10.7 
+5.9 
+Signifikant min (cm/s) 
+2.7 
+2.1 
+2.2 
+1.3 
+Varians (cm/s)² 
+30.9 
+13.4 
+16.3 
+4.6 
+Standardavvik (cm/s) 
+5.6 
+3.7 
+4.0 
+2.2 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+2.4 
+4.2 
+3.9 
+9.5 
+Lengste periode < 1cm/s (min) 
+30 
+50 
+80 
+80 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+18.5 
+28.0 
+25.1 
+49.4 
+Lengste periode < 3cm/s (min) 
+520 
+290 
+500 
+330 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+72.5 
+88.1 
+84.4 
+99.3 
+Lengste periode < 10cm/s (min) 
+5440 
+5780 
+3680 
+15400 
+% ≥ 30cm/s 
+0.4 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+160 
+0 
+0 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+2.8 
+2.9 
+0.4 
+1.9 
+Retning (grader) 
+224 
+298 
+198 
+110 
+Neumann-parameter 
+0.4 
+0.5 
+0.1 
+0.5 
+Gjennomsnittlig vannforflytning 
+(m³/m²/d) 
+6712 
+4799 
+5282 
+2975 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 11 av 72 
+4.2 
+Strømroser 
+Strømrosene viser strømhastighet og -retning under hele måleperioden. Strømrosene viser hvor stor 
+andel av målingene som er registrert for hver 10º-sektor, vist som prosentandel i figurene, og hvilken 
+strømhastighetsklasse som er registrert i de ulike sektorene. Strømroser gir en indikasjon på om 
+strømmen har en dominerende retning eller ikke. 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+Figur 4.2.1. Strømroser på 5m, 15m, spredningsdyp (35m) og bunndyp (48m). 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 12 av 72 
+4.3 
+Matrise med strømhastighet og -retning 
+ 
+Strømretninger er fordelt i 15º-sektorer (sektorene er vist i venstre kolonne). Den nederste linjen 
+viser den prosentvise fordelingen av de registrerte strømhastighetene. Kolonnen til høyre viser den 
+prosentvise fordelingen i de ulike 15º-sektorene og antall kubikkmeter vann som i måleperioden vil 
+passere et tenkt vindu på 1x1 meter i den aktuelle strømretningen. Kolonnen til høyre viser også 
+maksimal strømhastighet i hver 15º-sektor.    
+ 
+Hastighetsfordeling er ≥ (lavest verdi) og < (høyest verdi) i oppgitt hastighetsrekkevidde. 
+ 
+Tabell 4.3.1. Hastighets- og retningsmatrise av strømdata fra 5m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-15 15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+5 
+37 
+33 
+54 
+6 
+0 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+137 
+3.0 
+4388 
+2.0 
+39.8 
+N 
+15 
+4 
+30 
+26 
+15 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+78 
+1.7 
+1812 
+0.8 
+12.3 
+NØ 
+30 
+3 
+18 
+17 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+46 
+1.0 
+924 
+0.4 
+9.8 
+NØ 
+45 
+4 
+23 
+12 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40 
+0.9 
+609 
+0.3 
+5.5 
+NØ 
+60 
+7 
+17 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+33 
+0.7 
+438 
+0.2 
+4.6 
+Ø 
+75 
+7 
+13 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+28 
+0.6 
+349 
+0.2 
+4.9 
+Ø 
+90 
+4 
+20 
+8 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+33 
+0.7 
+456 
+0.2 
+5.3 
+Ø 
+105 
+4 
+15 
+12 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+35 
+0.8 
+664 
+0.3 
+9.8 
+SØ 
+120 
+7 
+19 
+34 
+22 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+84 
+1.8 
+2036 
+0.9 
+12.1 
+SØ 
+135 
+3 
+35 
+37 
+46 
+22 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+156 
+3.4 
+6277 
+2.9 
+19.3 
+SØ 
+150 
+4 
+44 
+59 
+96 
+35 
+38 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+286 
+6.2 
+14005 
+6.5 
+22.1 
+S 
+165 
+7 
+46 
+63 
+176 
+85 
+81 
+32 
+7 
+0 
+0 
+0 
+0 
+0 
+497 
+10.8 
+29775 
+13.8 
+26.7 
+S 
+180 
+7 
+49 
+47 
+192 
+147 
+89 
+36 
+2 
+0 
+0 
+0 
+0 
+0 
+569 
+12.3 
+35606 
+16.5 
+26.4 
+S 
+195 
+2 
+31 
+36 
+112 
+80 
+55 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+323 
+7.0 
+18838 
+8.8 
+24.5 
+SV 
+210 
+2 
+36 
+26 
+59 
+17 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+141 
+3.1 
+4894 
+2.3 
+17.1 
+SV 
+225 
+2 
+21 
+27 
+56 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+111 
+2.4 
+3591 
+1.7 
+10.8 
+SV 
+240 
+10 
+22 
+33 
+50 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+128 
+2.8 
+4207 
+2.0 
+13.4 
+V 
+255 
+6 
+37 
+48 
+45 
+26 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+165 
+3.6 
+5620 
+2.6 
+19.6 
+V 
+270 
+5 
+26 
+41 
+72 
+35 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+187 
+4.0 
+7480 
+3.5 
+18.3 
+V 
+285 
+5 
+40 
+63 
+110 
+87 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+307 
+6.6 
+13555 
+6.3 
+17.6 
+NV 
+300 
+1 
+38 
+72 
+159 
+81 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+357 
+7.7 
+15796 
+7.3 
+19.8 
+NV 
+315 
+4 
+53 
+73 
+155 
+76 
+34 
+9 
+6 
+4 
+0 
+0 
+0 
+0 
+414 
+9.0 
+21633 
+10.1 
+40.0 
+NV 
+330 
+4 
+47 
+57 
+87 
+42 
+19 
+7 
+5 
+4 
+3 
+0 
+0 
+0 
+275 
+6.0 
+14224 
+6.6 
+44.2 
+N 
+345 
+5 
+27 
+68 
+61 
+16 
+2 
+2 
+0 
+3 
+4 
+0 
+0 
+0 
+188 
+4.1 
+7973 
+3.7 
+43.6 
+Antall obs. 
+112 
+744 
+909 
+1581 
+778 
+351 104 
+20 
+12 
+7 
+0 
+0 
+0 
+4618 
+100 
+0 
+0 
+0 
+% 
+2.4 
+16.1 
+19.7 
+34.2 
+16.8 
+7.6 
+2.3 
+0.4 
+0.3 
+0.2 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 13 av 72 
+Tabell 4.3.2. Hastighets- og retningsmatrise av strømdata fra 15m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+3 
+36 
+25 
+23 
+5 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+93 
+2.0 
+2358 
+1.5 
+28.8 
+N 
+15 
+5 
+49 
+25 
+10 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+90 
+1.9 
+1593 
+1.0 
+13.3 
+NØ 
+30 
+13 
+30 
+9 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+53 
+1.1 
+645 
+0.4 
+6.2 
+NØ 
+45 
+4 
+22 
+11 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+37 
+0.8 
+527 
+0.3 
+5.0 
+NØ 
+60 
+3 
+21 
+11 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+37 
+0.8 
+558 
+0.4 
+5.3 
+Ø 
+75 
+6 
+23 
+8 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+39 
+0.8 
+560 
+0.4 
+5.7 
+Ø 
+90 
+11 
+23 
+7 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+43 
+0.9 
+526 
+0.3 
+5.5 
+Ø 
+105 
+10 
+39 
+18 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+71 
+1.5 
+1104 
+0.7 
+7.1 
+SØ 
+120 
+8 
+46 
+30 
+18 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+102 
+2.2 
+1941 
+1.3 
+8.0 
+SØ 
+135 
+10 
+45 
+62 
+33 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+153 
+3.3 
+3558 
+2.3 
+11.5 
+SØ 
+150 
+8 
+81 
+81 
+77 
+11 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+259 
+5.6 
+7023 
+4.6 
+15.1 
+S 
+165 
+6 
+47 
+90 
+109 
+34 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+290 
+6.3 
+10349 
+6.7 
+17.5 
+S 
+180 
+10 
+73 
+69 
+74 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+238 
+5.2 
+6393 
+4.2 
+14.8 
+S 
+195 
+8 
+62 
+36 
+24 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+132 
+2.9 
+2672 
+1.7 
+13.8 
+SV 
+210 
+10 
+45 
+18 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+77 
+1.7 
+1148 
+0.7 
+6.4 
+SV 
+225 
+10 
+37 
+9 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+63 
+1.4 
+910 
+0.6 
+5.7 
+SV 
+240 
+9 
+39 
+12 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+67 
+1.5 
+1026 
+0.7 
+7.2 
+V 
+255 
+6 
+37 
+17 
+11 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+71 
+1.5 
+1357 
+0.9 
+9.4 
+V 
+270 
+7 
+45 
+44 
+55 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+160 
+3.5 
+4478 
+2.9 
+14.8 
+V 
+285 
+12 
+60 
+87 
+238 
+73 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+475 
+10.3 
+18806 
+12.2 
+20.6 
+NV 
+300 
+10 
+51 
+120 
+365 
+153 
+15 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+715 
+15.5 
+32420 
+21.1 
+21.4 
+NV 
+315 
+13 
+70 
+109 
+335 
+124 
+16 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+668 
+14.5 
+28970 
+18.8 
+20.0 
+NV 
+330 
+10 
+67 
+126 
+210 
+34 
+13 
+2 
+4 
+0 
+0 
+0 
+0 
+0 
+466 
+10.1 
+17210 
+11.2 
+28.7 
+N 
+345 
+2 
+51 
+65 
+75 
+12 
+5 
+6 
+3 
+0 
+0 
+0 
+0 
+0 
+219 
+4.7 
+7761 
+5.0 
+29.7 
+Antall obs. 
+194 
+1099 
+1089 
+1686 
+473 
+58 
+11 
+8 
+0 
+0 
+0 
+0 
+0 
+4618 
+100 
+0 
+0 
+0 
+% 
+4.2 
+23.8 
+23.6 
+36.5 
+10.2 
+1.3 
+0.2 
+0.2 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 14 av 72 
+Tabell 4.3.3. Hastighets- og retningsmatrise av strømdata fra spredningsdyp (35m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+11 
+47 
+41 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+113 
+2.1 
+2128 
+1.1 
+9.2 
+N 
+15 
+7 
+33 
+25 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+71 
+1.3 
+1246 
+0.6 
+7.7 
+NØ 
+30 
+4 
+43 
+13 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+62 
+1.1 
+886 
+0.4 
+5.4 
+NØ 
+45 
+14 
+43 
+23 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+80 
+1.5 
+1049 
+0.5 
+4.9 
+NØ 
+60 
+9 
+34 
+17 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+62 
+1.1 
+875 
+0.4 
+6.6 
+Ø 
+75 
+7 
+45 
+24 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+92 
+1.7 
+1749 
+0.9 
+9.0 
+Ø 
+90 
+8 
+44 
+36 
+33 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+121 
+2.2 
+2751 
+1.4 
+9.8 
+Ø 
+105 
+9 
+64 
+63 
+49 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+186 
+3.4 
+4256 
+2.1 
+10.2 
+SØ 
+120 
+13 
+68 
+90 
+164 
+32 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+368 
+6.7 
+12203 
+6.1 
+16.9 
+SØ 
+135 
+16 
+71 
+143 
+381 
+119 
+18 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+748 
+13.6 
+31112 
+15.5 
+19.3 
+SØ 
+150 
+11 
+106 
+160 
+389 
+97 
+19 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+782 
+14.2 
+31054 
+15.4 
+18.6 
+S 
+165 
+12 
+58 
+98 
+183 
+26 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+378 
+6.9 
+12873 
+6.4 
+17.1 
+S 
+180 
+12 
+73 
+52 
+58 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+197 
+3.6 
+4818 
+2.4 
+10.9 
+S 
+195 
+9 
+51 
+25 
+20 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+106 
+1.9 
+2219 
+1.1 
+11.4 
+SV 
+210 
+8 
+29 
+17 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+59 
+1.1 
+926 
+0.5 
+7.5 
+SV 
+225 
+7 
+31 
+4 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+45 
+0.8 
+596 
+0.3 
+5.9 
+SV 
+240 
+5 
+24 
+3 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+34 
+0.6 
+424 
+0.2 
+5.9 
+V 
+255 
+7 
+19 
+16 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+43 
+0.8 
+677 
+0.3 
+5.5 
+V 
+270 
+8 
+26 
+21 
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+63 
+1.1 
+1142 
+0.6 
+11.4 
+V 
+285 
+8 
+35 
+37 
+43 
+12 
+31 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+166 
+3.0 
+7149 
+3.6 
+19.1 
+NV 
+300 
+7 
+47 
+54 
+137 
+94 
+105 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+445 
+8.1 
+25471 
+12.7 
+20.1 
+NV 
+315 
+7 
+52 
+86 
+282 
+164 
+81 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+673 
+12.3 
+35737 
+17.8 
+20.4 
+NV 
+330 
+8 
+53 
+73 
+190 
+36 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+364 
+6.6 
+13674 
+6.8 
+16.3 
+N 
+345 
+7 
+66 
+72 
+77 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+230 
+4.2 
+6291 
+3.1 
+13.4 
+Antall obs. 
+214 
+1162 
+1193 
+2064 
+593 
+260 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+5488 
+100 
+0 
+0 
+0 
+% 
+3.9 
+21.2 
+21.7 
+37.6 
+10.8 
+4.7 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 15 av 72 
+Tabell 4.3.4. Hastighets- og retningsmatrise av strømdata fra bunndyp (48m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+10 
+28 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+43 
+0.9 
+438 
+0.4 
+4.3 
+N 
+15 
+18 
+20 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40 
+0.8 
+303 
+0.3 
+4.3 
+NØ 
+30 
+13 
+32 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+46 
+1.0 
+420 
+0.4 
+5.8 
+NØ 
+45 
+17 
+38 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+62 
+1.3 
+650 
+0.7 
+4.1 
+NØ 
+60 
+18 
+62 
+29 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+115 
+2.4 
+1632 
+1.7 
+6.4 
+Ø 
+75 
+22 
+95 
+63 
+31 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+211 
+4.5 
+3867 
+4.0 
+9.0 
+Ø 
+90 
+29 
+194 
+172 
+133 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+529 
+11.2 
+12192 
+12.5 
+10.3 
+Ø 
+105 
+25 
+251 
+298 
+230 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+809 
+17.1 
+19881 
+20.4 
+11.2 
+SØ 
+120 
+30 
+258 
+299 
+236 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+828 
+17.5 
+19938 
+20.4 
+11.4 
+SØ 
+135 
+26 
+218 
+193 
+113 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+551 
+11.7 
+11831 
+12.1 
+10.1 
+SØ 
+150 
+21 
+132 
+84 
+19 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+256 
+5.4 
+4288 
+4.4 
+7.8 
+S 
+165 
+22 
+73 
+24 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+121 
+2.6 
+1571 
+1.6 
+5.6 
+S 
+180 
+26 
+43 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+70 
+1.5 
+578 
+0.6 
+3.3 
+S 
+195 
+18 
+34 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+53 
+1.1 
+408 
+0.4 
+3.1 
+SV 
+210 
+17 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+32 
+0.7 
+196 
+0.2 
+2.3 
+SV 
+225 
+19 
+21 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40 
+0.8 
+287 
+0.3 
+2.7 
+SV 
+240 
+11 
+26 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+39 
+0.8 
+352 
+0.4 
+4.4 
+V 
+255 
+14 
+41 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+58 
+1.2 
+561 
+0.6 
+7.0 
+V 
+270 
+14 
+43 
+15 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+80 
+1.7 
+1190 
+1.2 
+8.4 
+V 
+285 
+20 
+75 
+75 
+59 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+230 
+4.9 
+5164 
+5.3 
+10.7 
+NV 
+300 
+19 
+61 
+69 
+74 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+232 
+4.9 
+6195 
+6.3 
+13.2 
+NV 
+315 
+9 
+52 
+27 
+39 
+11 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+138 
+2.9 
+3729 
+3.8 
+12.4 
+NV 
+330 
+19 
+41 
+14 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+82 
+1.7 
+1163 
+1.2 
+8.0 
+N 
+345 
+13 
+31 
+13 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+60 
+1.3 
+773 
+0.8 
+5.9 
+Antall obs. 
+450 
+1884 
+1395 
+963 
+33 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+4725 
+100 
+0 
+0 
+0 
+% 
+9.5 
+39.9 
+29.5 
+20.4 
+0.7 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 16 av 72 
+4.4 
+Strømmens hastighetsfordeling 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.4.1. Strømmens hastighetsfordeling på 5m, 15m, spredningsdyp (35m) og bunndyp (48m). 
+Antall observasjoner er indikert på stående akse og hastighetsgruppe på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 17 av 72 
+4.5 
+Strømmens retningsfordeling 
+ 
+Strømmens retning fordelt i 15º-sektorer er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.5.1. Strømmens retningsfordeling på 5m, 15m, spredningsdyp (35m) og bunndyp (48m). 
+Antall observasjoner er indikert på stående akse og 15º-sektorer på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 18 av 72 
+4.6 
+Tidsdiagram – Strømhastighet 
+ 
+Strømmens hastighet under måleperioden er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.6.1. Tidsdiagram av strømhastighet på 5m, 15m, spredningsdyp (35m) og bunndyp (48m). 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 19 av 72 
+4.7 
+Tidsdiagram – Strømretning  
+ 
+Strømmens retning under måleperioden er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.7.1. Tidsdiagram av strømretning på 5m, 15m, spredningsdyp (35m) og bunndyp (48m). 
+Strømretning på stående akse og tid på liggende akse. 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 20 av 72 
+4.8 
+Tidsdiagram – Temperatur 
+ 
+Temperatur under måleperiodene er oppgitt under. 
+ 
+ 
+ 
+Figur 4.8.1.  Tidsdiagram av temperatur på 5m og 15m dyp. Temperatur på stående akse og tid på 
+liggende akse. 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 21 av 72 
+ 
+ 
+Figur 4.8.2.  Tidsdiagram av temperatur på spredningsdyp (35m). Temperatur på stående akse og tid 
+på liggende akse. 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 22 av 72 
+ 
+ 
+Figur 4.8.3. Tidsdiagram av temperatur på bunndyp (48m). Temperatur er indikert på stående akse 
+og tid på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 23 av 72 
+4.9 
+Progressivt vektordiagram 
+ 
+Et progressivt vektordiagram viser hvor langt og hvordan en tenkt merket vannpartikkel som 
+befinner seg i strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperioden (Figur 
+4.9.1 – Figur 4.9.3). Dette gir en indikasjon på vannutskiftning under måleperioden. 
+ 
+ 
+Figur 4.9.1. Progressivt vektordiagram for strøm på 5m og 15m dyp. 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 24 av 72 
+ 
+ 
+Figur 4.9.2. Progressivt vektordiagram for strøm på spredningsdyp (35m). 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 25 av 72 
+ 
+Figur 4.9.3. Progressivt vektordiagram for strøm på bunndyp (48m). 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 26 av 72 
+4.10 Fordelingsdiagram – Maksimal strømhastighet 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+Figur 4.10.1. Fordelingsdiagram av maksimal strømhastighet (cm/s) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (35m) og bunndyp (48m) i løpet av måleperioden. 
+Strømrapport: Storøya NØ, Lødingen kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 27 av 72 
+4.11 Fordelingsdiagram – Gjennomsnittshastighet 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+Figur 4.11.1. Fordelingsdiagram av gjennomsnittlig strømhastighet (cm/s) for hver 15º-sektor på 5m, 
+15m, spredningsdyp (35m) og bunndyp (48m) i løpet av måleperioden. 
+Strømrapport: Storøya NØ, Lødingen kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 28 av 72 
+4.12 Fordelingsdiagram – Relativ vannfluks 
+Relativ vannfluks (%) angir mengden vann som strømmer gjennom en 15-retningssektor. Total 
+vannfluks er totalt volum vann som strømmer gjennom alle sektorer i løpet av måleperioden. 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+Figur 4.12.1. Fordelingsdiagram av relativ vannfluks (%) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (35m) og bunndyp (48m) i løpet av måleperioden. 
+Strømrapport: Storøya NØ, Lødingen kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 29 av 72 
+4.13 Fordelingsdiagram – Antall observasjoner 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+Figur 4.13.1. Fordelingsdiagram av antall observasjoner for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (35m) og bunndyp (48m) i løpet av måleperioden. 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 30 av 72 
+4.14 Maksimal strømhastighet i 8 retningssektorer 
+Tabell 4.14.1. Maksimal strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+43.6 
+9.8 
+9.8 
+22.1 
+26.7 
+17.1 
+19.6 
+44.2 
+15m 
+29.7 
+6.2 
+7.1 
+15.1 
+17.5 
+7.2 
+20.6 
+28.7 
+Spredning (35m) 
+13.4 
+6.6 
+10.2 
+19.3 
+17.1 
+7.5 
+19.1 
+20.4 
+Bunn (48m) 
+5.9 
+6.4 
+11.2 
+11.4 
+5.6 
+4.4 
+10.7 
+13.2 
+ 
+ 
+4.15 Gjennomsnittlig strømhastighet i 8 retningssektorer 
+Tabell 4.15.1. Gjennomsnittlig strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+5.5 
+2.8 
+2.5 
+7.1 
+10.1 
+5.6 
+6.7 
+8.2 
+15m 
+4.4 
+2.3 
+2.4 
+4.1 
+4.9 
+2.5 
+5.8 
+7.1 
+Spredning (35m) 
+3.6 
+2.3 
+3.7 
+6.5 
+4.9 
+2.4 
+5.5 
+8.4 
+Bunn (48m) 
+1.7 
+2.0 
+3.9 
+3.7 
+1.7 
+1.3 
+3.1 
+4.1 
+ 
+ 
+4.16 Antall målinger i 8 retningssektorer 
+Tabell 4.16.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+403 
+119 
+96 
+526 
+1389 
+380 
+659 
+1046 
+15m 
+402 
+127 
+153 
+514 
+660 
+207 
+706 
+1849 
+Spredning (35m) 
+414 
+204 
+399 
+1898 
+681 
+138 
+272 
+1482 
+Bunn (48m) 
+143 
+223 
+1549 
+1635 
+244 
+111 
+368 
+452 
+ 
+ 
+4.17 Relativ vannutskiftning i 8 retningssektorer 
+Tabell 4.17.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+6.2 
+0.9 
+0.7 
+10.4 
+39.3 
+5.9 
+12.4 
+24.1 
+15m 
+7.0 
+1.1 
+1.4 
+8.2 
+12.7 
+2.0 
+16.1 
+51.4 
+Spredning (35m) 
+4.5 
+1.4 
+4.4 
+37.1 
+9.9 
+1.0 
+4.5 
+37.3 
+Bunn (48m) 
+1.5 
+2.8 
+36.8 
+37.0 
+2.6 
+0.9 
+7.1 
+11.4 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 31 av 72 
+4.18 10-års og 50-års strømhastighet i 8 retningssektorer  
+ 
+Verdier for strøm med returperiode på 10 år og 50 år beregnes ut fra målt maksimal strømhastighet 
+sammen med multiplikasjonsfaktor fra NS 9415:2009. Retningen som er oppgitt i raden under 
+maksstrømmen er retningen til den respektive maksimale strømhastigheten (Tabell 4.18.1 - Tabell 
+4.18.2). 
+ 
+Tabell 4.18.1. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 5m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+43.6 
+9.8 
+9.8 
+22.1 
+26.7 
+17.1 
+19.6 
+44.2 
+Retning (°) 
+339 
+27 
+110 
+154 
+171 
+205 
+257 
+335 
+10-år (cm/s) 
+(x1.65) 
+72 
+16 
+16 
+36 
+44 
+28 
+32 
+73 
+50-år (cm/s) 
+(x1.85) 
+81 
+18 
+18 
+41 
+49 
+32 
+36 
+82 
+ 
+Tabell 4.18.2. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 15m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+29.7 
+6.2 
+7.1 
+15.1 
+17.5 
+7.2 
+20.6 
+28.7 
+Retning (°) 
+344 
+24 
+105 
+156 
+162 
+243 
+289 
+326 
+10-år (cm/s) 
+(x1.65) 
+49 
+10 
+12 
+25 
+29 
+12 
+34 
+47 
+50-år (cm/s) 
+(x1.85) 
+55 
+11 
+13 
+28 
+32 
+13 
+38 
+53 
+ 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 32 av 72 
+4.19 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre i Tabell 4.19.1 indikerer prosent av data (persentil) som er lik eller lavere enn 
+oppgitt strømhastighet (cm/s). 
+ 
+Tabell 4.19.1. Persentilfordeling av strømhastighet (cm/s) for hvert dyp.  
+Persentil 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+1 
+0.7 
+0.5 
+0.5 
+0.3 
+10 
+2.1 
+1.6 
+1.6 
+1.0 
+20 
+3.1 
+2.4 
+2.6 
+1.5 
+30 
+4.1 
+3.2 
+3.4 
+2.1 
+40 
+5.2 
+3.9 
+4.3 
+2.5 
+50 
+6.5 
+4.8 
+5.4 
+3.0 
+60 
+7.8 
+5.8 
+6.4 
+3.6 
+70 
+9.6 
+7.0 
+7.5 
+4.3 
+80 
+11.8 
+8.4 
+9.0 
+5.1 
+90 
+15.4 
+10.5 
+11.8 
+6.5 
+95 
+18.5 
+12.4 
+14.8 
+7.6 
+99 
+24.4 
+16.2 
+17.7 
+9.8 
+ 
+4.20 Prosentfordeling av strømhastighet 
+ 
+Oppgitte verdier i Tabell 4.20.1 er rundet av til nærmeste desimal for verdier over 0.1%, mens verdier 
+mellom 0.1% og 0.01% er rundet av til to desimal. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.20.1. Prosent (%) av data per dyp som er lik eller høyere enn oppgitt strømhastighet (cm/s).  
+Strømhastighet 
+(cm/s) 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+1 
+97.6 
+95.8 
+96.1 
+90.5 
+3 
+81.5 
+72.0 
+74.9 
+50.6 
+5 
+61.8 
+48.4 
+53.2 
+21.1 
+10 
+27.5 
+11.9 
+15.6 
+0.7 
+20 
+3.1 
+0.4 
+0.04 
+ 
+30 
+0.4 
+ 
+ 
+ 
+40 
+0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 33 av 72 
+4.21 Strømfordeling 
+ 
+Verdiene i tabellene under indikerer prosent av data i ulike grupper av strømhastighet (cm/s), fordelt 
+i 8 retningssektorer. Strømhastighetsgruppene er oppdelt slik at strømhastighetene er større enn 
+oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. Oppgitte verdier er rundet av til 
+nærmeste desimal for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to 
+desimaler. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.21.1. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 5m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.3 
+0.3 
+0.3 
+0.3 
+0.3 
+0.3 
+0.3 
+0.2 
+2.3 
+1-5 
+4.8 
+2.1 
+1.6 
+4.9 
+5.9 
+3.6 
+5.5 
+7.4 
+35.8 
+5-10 
+2.8 
+0.2 
+0.1 
+3.6 
+10.4 
+3.6 
+4.9 
+8.7 
+34.3 
+10-20 
+0.6 
+ 
+ 
+2.4 
+11.6 
+0.8 
+3.5 
+5.6 
+24.5 
+20-30 
+0.06 
+ 
+ 
+0.2 
+1.8 
+ 
+ 
+0.6 
+2.7 
+30-40 
+0.09 
+ 
+ 
+ 
+ 
+ 
+ 
+0.2 
+0.3 
+40-50 
+0.09 
+ 
+ 
+ 
+ 
+ 
+ 
+0.06 
+0.1 
+Sum 
+8.7 
+2.6 
+2.0 
+11.4 
+30.0 
+8.3 
+14.2 
+22.8 
+100.0 
+ 
+Tabell 4.21.2. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 15m dyp. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.2 
+0.4 
+0.6 
+0.6 
+0.5 
+0.6 
+0.5 
+0.7 
+4.1 
+1-5 
+5.4 
+2.3 
+2.6 
+7.5 
+8.2 
+3.5 
+6.3 
+11.8 
+47.6 
+5-10 
+2.3 
+0.06 
+0.2 
+2.8 
+4.5 
+0.4 
+6.6 
+19.7 
+36.6 
+10-20 
+0.5 
+ 
+ 
+0.3 
+1.1 
+ 
+1.9 
+7.7 
+11.5 
+20-30 
+0.2 
+ 
+ 
+ 
+ 
+ 
+0.02 
+0.2 
+0.4 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+8.6 
+2.8 
+3.4 
+11.2 
+14.3 
+4.5 
+15.3 
+40.1 
+100.0 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 34 av 72 
+Tabell 4.21.3. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 
+spredningsdyp (35m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.5 
+0.5 
+0.4 
+0.7 
+0.6 
+0.4 
+0.4 
+0.4 
+3.9 
+1-5 
+5.2 
+3.2 
+5.0 
+11.6 
+6.5 
+2.0 
+2.8 
+6.7 
+43.0 
+5-10 
+1.8 
+0.07 
+1.8 
+17.0 
+4.8 
+0.2 
+0.9 
+11.1 
+37.7 
+10-20 
+0.1 
+ 
+0.02 
+5.2 
+0.5 
+ 
+0.8 
+8.8 
+15.4 
+20-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.04 
+0.04 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+7.6 
+3.8 
+7.2 
+34.5 
+12.4 
+2.6 
+4.9 
+27.0 
+100.0 
+ 
+Tabell 4.21.4. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(48m). 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0-1 
+0.9 
+1.0 
+1.6 
+1.6 
+1.4 
+1.0 
+1.0 
+1.0 
+9.5 
+1-5 
+2.1 
+3.6 
+22.7 
+25.1 
+3.7 
+1.4 
+5.3 
+5.6 
+69.5 
+5-10 
+0.06 
+0.1 
+8.3 
+7.8 
+0.04 
+ 
+1.4 
+2.6 
+20.3 
+10-20 
+ 
+ 
+0.1 
+0.1 
+ 
+ 
+0.02 
+0.4 
+0.6 
+20-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+30-40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+40-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+3.1 
+4.7 
+32.7 
+34.6 
+5.1 
+2.4 
+7.7 
+9.6 
+100.0 
+ 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 35 av 72 
+4.22 Strømvarighet 
+ 
+Verdiene i tabellene under indikerer antall hendelser av strømhastigheter (cm/s) i ulike intervaller 
+med forskjellig varighet. Strømhastighetsintervallene er oppdelt slik at strømhastighetene er større 
+enn oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. De ulike gruppene av varighet 
+er oppdelt på samme måte som strømhastighetsintervallene. 
+ 
+Tabell 4.22.1. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 5m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+21 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1-5 
+85 
+60 
+53 
+21 
+6 
+2 
+1 
+1 
+5-10 
+103 
+67 
+52 
+9 
+9 
+2 
+1 
+0 
+10-20 
+34 
+26 
+36 
+23 
+6 
+1 
+1 
+0 
+20-30 
+13 
+4 
+7 
+0 
+0 
+0 
+0 
+0 
+30-40 
+4 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+40-50 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.22.2. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 15m dyp. 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+36 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+1-5 
+95 
+89 
+71 
+25 
+8 
+4 
+1 
+1 
+5-10 
+105 
+62 
+43 
+15 
+8 
+5 
+0 
+1 
+10-20 
+34 
+15 
+11 
+8 
+4 
+1 
+0 
+0 
+20-30 
+3 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+30-40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40-50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 36 av 72 
+Tabell 4.22.3. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 
+spredningsdyp (35m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+35 
+5 
+2 
+0 
+0 
+0 
+0 
+0 
+1-5 
+92 
+98 
+94 
+20 
+11 
+3 
+2 
+0 
+5-10 
+96 
+77 
+73 
+13 
+9 
+3 
+4 
+1 
+10-20 
+35 
+22 
+9 
+9 
+7 
+6 
+2 
+0 
+20-30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+30-40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40-50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.22.4. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på bunndyp 
+(48m). 
+Strømhastighet 
+(cm/s) 
+10 - 
+30min 
+30min - 
+1t 
+1 - 2t 
+2 - 3t 
+3 - 4t 
+4 - 5t 
+5 - 6t 
+>6t 
+0-1 
+83 
+14 
+1 
+0 
+0 
+0 
+0 
+0 
+1-5 
+130 
+109 
+122 
+36 
+22 
+3 
+1 
+1 
+5-10 
+73 
+42 
+40 
+5 
+2 
+0 
+0 
+0 
+10-20 
+6 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+20-30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+30-40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40-50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 37 av 72 
+4.23 Tidevannsanalyse 
+ 
+En tidevannsanalyse av strømdata er gjennomført for å vurdere hvor stor andel av det målte signalet 
+som er forårsaket av tidevannet. Tidevannsanalysen er utført ved bruk av analyseverktøyet U_Tide 
+(Codiga, 2011). 
+ 
+Tidevannsanalysen inkluderer alle separerbare tidevannskomponenter (Tabell 4.23.1). Det er også 
+foretatt en analyse med fem separerbare tidevannskomponenter, M2 (12.42 timers periode), S2 (12.00 
+timers periode), N2 (12.66 timers periode), O1 (25.82 timers periode) og K1 (23.93 timers periode), 
+som benyttes i forbindelse med tidevannstabeller (Tabell 4.23.2). 
+ 
+Strøm er splittet i komponentene øst-vest (UEW) og nord-sør (VNS) for å vurdere variasjon i strømdata 
+på de forskjellige dypene (Emery & Thomson, 2001). Krysset markerer gjennomsnittsverdien for 
+hastighetskomponentene og reflekterer den effektive transporthastigheten med tilhørende retning 
+(Figur 4.23.1). Strømellipsens store halvakse (hovedakse) markerer retningen der variasjonen er 
+størst.  
+ 
+Tabell 4.23.1. Tidevannsbidrag til strøm og trykkendringer basert på tidevannsanalyse av strømdata 
+i timesverdier. 
+Måledyp 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+Strøm (%) 
+56.3 
+44.0 
+49.4 
+40.8 
+Trykk (%) 
+- 
+- 
+99.6 
+99.8 
+ 
+Tabell 4.23.2. Tidevannsbidrag til strøm og trykkendringer fra tidevannskomponentene M2, S2, N2, 
+O1 og K1. 
+Måledyp 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+Strøm (%) 
+47.5 
+30.7 
+37.2 
+7.6 
+Trykk (%) 
+- 
+- 
+98.3 
+99.0 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 38 av 72 
+ 
+ 
+Figur 4.23.1. UEW – VNS punktdiagram av strømdata i timesverdier, med tilhørende strømellipse. 
+Midtpunktet for strømellipsen er markert med kryss som også markerer strømmens effektive 
+transporthastighet. Vinklene indikerer den store halvaksens orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 39 av 72 
+ 
+ 
+Figur 4.23.2. UEW - VNS tidevannsellipser (fargede linjer) vist sammen med strømellipser (svarte 
+linjer) for 5m, 15m, spredningsdyp (35m) og bunndyp (48m). Midtpunktet for strømellipsene er 
+markert med kryss som også markerer den effektive transporthastigheten. Vinklene indikerer de store 
+halvaksenes orientering i forhold til nord/sør. Aksekors for øst - vest og nord - sør er vist med stiplede 
+linjer. 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 40 av 72 
+4.24 Maksimal strømhastighet, tidevann og vind 
+ 
+Strømhastighet og -retning på 5m dyp, samt tidevann og vind er oppgitt under for en todagersperiode 
+da maksimalstrømmen ved 5m dyp oppstod. 
+ 
+ 
+ 
+Figur 4.24.1. Strømhastighet og -retning, samt tidevann og vind (Rotvær) for perioden hvor 
+maksimalstrømmen på 5m dyp er registrert. 
+ 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune 
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00 
+Side 41 av 72 
+4.25 Vind under måleperioden 
+Vinddata er hentet fra nærmeste værstasjon Rotvær (Meteorologisk institutt, 2022), som ligger ca. 
+7.5km S/SØ for strømmålingsposisjonen (Figur 4.25.3). 
+Strøm over 10cm/s på 5m dyp ble sammenlignet med vinddata fra Rotvær fra samme periode. Figur 
+4.25.2 og figurene i "Vedlegg - Fyrstikkdiagram av vind og strøm" indikerer hvilke tidspunkter vind 
+på Rotvær og målt strøm på 5m dyp hadde omtrent sammenfallende retning. Vannstand i løpet av 
+måleperioden er vist i Figur 4.25.2 og er hentet fra tidevannsstasjon Narvik (Kartverket, 2022), som 
+ligger ca. 63.8km Ø for strømmålingsposisjonen (Figur 4.25.3). Vannstand er tilpasset området for 
+målepunktet. 
+Tabell 4.25.1. Maksimal vindhastighet og prosent av tiden hvor vinden blåste fra de ulike retningene 
+på Rotvær under måleperioden. 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+14.8 
+15.7 
+11.4 
+10.2 
+17.0 
+27.6 
+10.6 
+9.4 
+Tid (%) 
+5.2 
+12.1 
+9.7 
+2.9 
+13.0 
+34.7 
+13.4 
+9.0 
+Strøm på 5m 
+Vind 
+Figur 4.25.1. Rosediagram for strøm (mot retning) på 5m dyp, samt vind (fra retning) på Rotvær 
+værstasjon under måleperioden. Skalaen på diagrammene er ulik. 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 42 av 72 
+Hastighet og retning for strøm og vind er oppgitt i Figur 4.25.2 og i "Vedlegg - Fyrstikkdiagram av 
+vind og strøm" for å vurdere vindpåvirkning på strømmen. I Figur 4.25.2 er vindretning oppgitt som 
+at vind blåser fra en retning, mens i "Vedlegg - Fyrstikkdiagram av vind og strøm" er vindretning 
+oppgitt som at vind blåser mot en retning. Tidevann er også vist i Figur 4.25.2 for å vurdere 
+tidevannspåvirkning.  
+ 
+ 
+ 
+Figur 4.25.2. Strømhastighet (mot retning) på 5m dyp og vindhastighet (fra retning) på Rotvær, strøm- 
+og vindretning, samt vannstand (Narvik) under måleperioden. Tidspunkter hvor strøm og vind har 
+omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 43 av 72 
+Figur 4.25.3. Posisjonen til Rotvær værstasjon (markert med blå sirkel) og posisjonen til Narvik 
+tidevannsstasjon (markert med grønn sirkel) i forhold til strømmålingsposisjon (markert med rød 
+pinne). Kartet er hentet fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.  
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 44 av 72 
+4.26 Utslippskontur  
+ 
+Partikler som slippes ut i et gitt punkt med en viss synkehastighet (Bannister, et al., 2016) vil spres 
+med strømmen mens de synker mot bunnen. Med utgangspunkt i målt strøm på spredningsdyp, 
+beregnes utslippskonturen som summen av partikkelens vertikale og horisontale bevegelse bort fra 
+utslippspunktet ved overflaten. Figur 4.26.1 viser retning og avstand for spredning, og i hvilke 
+områder det er mest utslipp som blir liggende på bunn. Fargeskalaen indikerer mengde sedimentasjon 
+som prosentandel (%) av den totale mengden som blir sluppet ut, hvor de røde områdene vil ha størst 
+mengde avfall. Summen av prosentnivået i alle sektorer er lik total mengde utslipp (100%). 
+ 
+Merk at figuren viser utslipp fra ett punkt. Med utslipp fra ett enkelt punkt vil lite avfall havne rett 
+under utslippspunktet, da strømmen alltid vil skape noe spredning. Ved et oppdrettsanlegg er det 
+utslipp over et større område, noe som må inkluderes i vurderingen av spredning av utslipp. 
+ 
+ 
+ 
+Figur 4.26.1. Utslippskontur basert på målte strømhastigheter på spredningsdyp (35m). 
+Akkumulering av avfall vises som prosentandel av utslipp som havner på bunnen, indikert av 
+fargelagte sektorer. Oppløsningen på hver fargelagt sektor er 50m lang og 15° bred. Avstand fra 
+utslippspunktet er markert med en stiplet sirkel for hver 100m. 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 45 av 72 
+4.27 CTD-profil  
+ 
+CTD-profil ble målt i sammenheng med utsett 08.04.22 av strømmålere på 5m og 15m i samme 
+posisjon som strømriggen.  
+ 
+ 
+ 
+Figur 4.27.1. Vertikalprofiler av saltinnhold, temperatur, tetthet og oksygen. Dypet er oppgitt langs 
+y-aksen. 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 46 av 72 
+5. Diskusjon 
+ 
+Strømmen på Storøya NØ er mot NV - S på 5m, mot NV på 15m, mot NV – SØ på spredningsdyp 
+(35m), og mot Ø/SØ på bunndyp (48m). Strømretningene stemmer med områdets bunntopografi og 
+fjordens orientering ved anlegget. Strømretningen domineres av motsatt rettede hovedstrømretninger 
+på spredningsdyp (35m). 63.4% av relativ vannutskiftning på 5m, 51.4% på 15m, 74.4% på 
+spredningsdyp og 73.8% på bunndyp skjer langs hovedstrømretningene (Tabell 4.17.1). 
+ 
+5.1 
+Høye strømmålinger 
+ 
+Maksimal strømhastighet var 44.2cm/s mot NV på 5m, 29.7cm/s mot N på 15m, 20.4cm/s mot NV 
+på spredningsdyp (35m) og 13.2cm/s mot NV på bunndyp (48m). Maksstrømmen er langs 
+hovedstrømretning på 5m og spredningsdyp (35m) og er vurdert som sterk på 5m, middels sterk på 
+15m og spredningsdyp (35m), og som svak på bunndyp (48m). Maksimalmålingen er bare én måling 
+og gir ikke en indikasjon av om strømmen er sterk eller svak i området. 
+ 
+Signifikant maksimal strømhastighet er gjennomsnittet av den høyeste tredjedelen av målingene og 
+gir en indikasjon av styrken på strømmen i området. Denne var 14.1cm/s på 5m, 9.7cm/s på 15m, 
+10.7cm/s på spredningsdyp (35m) og 5.9cm/s på bunndyp (48m). Signifikant maksimal 
+strømhastighet er vurdert som middels sterk på 5m, 15m og spredningsdyp (35m), og som svak på 
+bunndyp (48m). 
+ 
+Det var tilfeller der strøm var > 30cm/s på 5m dyp. Høy strømhastighet oppstår uregelmessig på 
+måleposisjonen, og varighet av disse i området er kort. Høye strømhastigheter er vurdert forårsaket 
+av vind og tidevann. Det er også mulighet for at vårflom (issmelting) og kyststrømmen kan ha 
+påvirket strømmen under måleperioden. 
+ 
+5.2 
+Tidevannspåvirkning 
+ 
+Strømmen er vurdert som tidevannsdominert på alle dyp under måleperioden, da tidevannsbidraget 
+var ≥ 40% (Tabell 4.23.1).  
+ 
+5.3 
+Vindpåvirkning 
+ 
+Ut fra omkringliggende topografi er det vurdert at vind fra S og N kan ha betydning for 
+strømforholdene på lokaliteten. Under måleperioden blåste vind mest fra SV og sterkest fra SV 
+(Tabell 4.25.1). 
+ 
+Grunnet friksjon mellom vind og vannoverflate vil vind med betydelig hastighet (> 3m/s) og stabil 
+retning som blåser over en lengre periode ha større innvirkning på strøm. Tilfeller med 
+vindpåvirkning er i dette tilfellet beregnet utfra sammenfallende eller motsatt rettet retninger ved et 
+bestemt tidspunkt, uten hensyn til vindens varighet eller stabilitet.  
+ 
+Det er vurdert ut fra sammenfallende vindretning og strømretning at vind fra N kan ha påvirket strøm 
+mot SØ/S, vind fra SØ/S kan ha påvirket strøm mot NV, og vind fra NV kan ha påvirket strøm mot 
+S. 
+ 
+Siden vind blåste mest og sterkest fra SV og på grunn av Kanstadfjordens topografi og bunntopografi,  
+kan strøm mot N/NV ha blitt mest påvirket av vind under måleperioden. Dette er sannsynligvis på 
+grunn av at vinden blir topografisk styrt hvor Kanstadfjorden er orientert S – N, og i tillegg er 
+bunntopografien orientert N/NV – S/SØ under måleposisjonen. Maksimal strømhastighet på 5m dyp 
+mot NV er vurdert påvirket av både vind og tidevann. 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 47 av 72 
+Det var enkelte tilfeller hvor strøm- og vindretning var motsatt rettet under måleperioden, hvor vind 
+kan ha virket bremsende på målt strømhastighet. 
+ 
+5.4 
+Vannutskiftning  
+ 
+Det er naturlig med strømstille når tidevannet skifter fra flo til fjære eller motsatt. Varigheten av 
+strømstille perioder kan ha betydning for vannutskiftning i et område. Siden vann vil strømme rundt, 
+i tillegg til gjennom eller under et anlegg, er anleggsorientering viktig. Et anlegg orientert slik at det 
+ligger med langsiden mot den dominerende strømretningen vil ha bedre vannutskiftning i merdene 
+enn et anlegg hvor mange av merdene ligger etter hverandre langs hovedstrømmen. Neumann-
+parameteren sier noe om stabiliteten til strømmen. En høy Neumann parameter (f.eks. 0.7) indikerer 
+en retningsstabil strøm. Dette tyder på at vannet strømmer i en retning og beveger seg konstant bort 
+fra startpunktet. En lav Neumann-parameter kan bety at vannstrømmen har skiftende retning og 
+kanskje bare flyter fram og tilbake ved startpunktet. Neumann-parameteren kan brukes opp mot 
+progressivt vektordiagram og gjennomsnittsstrømmen for å kunne si noe om vannutskiftningen ved 
+det punktet hvor strømmen er målt.  
+ 
+Gjennomsnittlig strømhastighet var ≥ 2cm/s på alle dyp. Gjennomsnittlig strømhastighet er vurdert 
+som sterk på 5m, middels sterk på 15m, sterk på spredningsdyp (35m) og som svak på bunndyp 
+(48m).  
+ 
+Neumann-parameteren er beregnet til 0.4 på 5m, 0.5 på 15m, 0.1 på spredningsdyp (35m) og 0.5 på 
+bunndyp (48m). Neumann-parameteren er vurdert som stabil på 5m og 15m, som lite stabil på 
+spredningsdyp (35m) og som stabil på bunndyp (48m). Vannutskiftningen er vurdert som god på 5m, 
+15m fordi vannet beveger seg bort fra startpunktet og ikke bare flyter fram og tilbake, i tillegg til at 
+gjennomsnittshastigheten er sterk. På bunndyp (48m) beveger vannet seg i hovedsak vekk fra 
+målepunktet, men gjennomsnittshastigheten på strømmen er svak. På spredningsdyp (35m) er det 
+episoder der vannet beveger seg vekk fra målepunktet, men også episoder der vannet kun beveger seg 
+fram og tilbake over målepunktet.  
+  
+Prosent nullmålinger (< 1cm/s) var mindre enn 10% på alle dyp. Lengst varighet for strøm < 1cm/s 
+var 30 minutter på 5m, 50 minutter på 15m, 80 minutter (1t 20min) på spredningsdyp (35m) og 80 
+minutter (1t 20min) på bunndyp (48m). Det var kort periode med strømstille på 5m og 15m dyp.  
+ 
+5.5 
+Mulig spredning av utslipp 
+ 
+Sprednings- og bunnstrøm er viktig for lokalitetens totale bæreevne. Opphopning av sediment under 
+anlegget kan i noen tilfeller påvirke vannkvaliteten i merden og dermed fiskens levevilkår 
+(Mattilsynet, 2016). På lokaliteter med kort avstand mellom havbunn og notbunn er det viktig at både 
+sprednings- og bunnstrøm viser god vannutskiftning slik at sedimenter ikke hoper seg opp og påvirker 
+vannkvaliteten i merden negativt (Mattilsynet, 2016). Bunntopografi og strømningsforhold har også 
+betydning for utskifting og nedbryting av bunnsedimenter fra anlegget (Mattilsynet, 2016). En ujevn 
+bunn eller en flat bunn med groper gir større risiko for opphopning av sedimenter enn en jevnt 
+skrånende bunn.    
+ 
+Dyp ved målepunktet var ca. 48m ved målingene for spredning- og bunnstrøm. Med slike dyp er det 
+god avstand mellom notbunn og havbunn.  Strømmåleposisjonen ligger over en skrånende flate som 
+skråner nedover mot NØ til en terskel som har dybde på rundt 55m. Sør for terskelen er 
+Kanstadfjorden ca. 93m dyp, og nord for terskelen ca. 83m dyp. Kanstadfjorden er orientert S – N og 
+bunntopografien er orientert N/NV – S/SØ ved målingene på 5m og 15m, og NV – SØ ved 
+sprednings- og bunndyp. 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 48 av 72 
+ 
+Det var tilfeller der strøm var > 10cm/s på både spredningsdyp (35m) og bunndyp (48m). Dette er 
+gunstig med tanke på spredning av organisk materiale fra anlegget. 
+ 
+Spredning av utslipp følger strømrosen for spredningsdyp (Figur 4.2.1) og orienteringen til 
+bunntopografien i området. Mye sedimentasjon legger seg mot NV og SØ (Figur 4.26.1), som er 
+retningen med mest vannutskiftning (Tabell 4.17.1). Med utgangspunkt i målte strømhastigheter på 
+spredningsdyp vil avfall spre seg lengst mot NV/V, opptil 150m vekk fra utslippspunktet. 
+ 
+5.6 
+Vannsøylens vertikale struktur 
+ 
+Vannsøylens stabilitet har vesentlig betydning for sirkulasjon i området og mulighet for blanding 
+vertikalt. En stabil vannsøyle har økende tetthet med økende dyp. Lagdeling i vannsøylen (forårsaket 
+av forskjellige grunner, for eksempel; ferskvannsavrenning, avkjøling/oppvarming av overflatevann, 
+utveksling av vann ved bunnen med kystvann) påvirker spredning av utslipp både horisontalt og 
+vertikalt. 
+ 
+Temperatur under måleperioden var 3.2 - 4.7°C på 5m, 3.1 - 4.4°C på 15m, 6.5 - 12.0°C på 
+spredningsdyp (35m) og 4.5 - 5.5°C på bunndyp (48m). Temperaturmålingene viser at det var 
+homogen temperatur mellom 5m og 15m med noen tilfeller hvor temperaturen varierer med 
+tidevannet og andre perioder hvor temperaturen øker og synker over korte perioder. Temperaturen på 
+spredningsdyp (35m) øker i hovedsak fra start til slutt, og ser i perioder tidevannspåvirket ut. 
+Temperaturen på bunndyp (48m) endrer seg lite i løpet av måleperioden, men ser også 
+tidevannspåvirket ut i perioder. Brå endringer i temperatur på både sprednings- og bunndyp kan 
+komme av at tidevannet flytter vannmasser med ulik temperatur fram og tilbake over målepunktet. 
+ 
+CTD-målinger ved utsett i april viser en svakt økende temperaturprofil fra overflaten og ned til 
+omtrent 36m, og som er nærmest homogen. Fra 36m og ned til bunn er temperaturen konstant.  
+ 
+Det er et litt ferskere lag fra overflaten og ned til omtrent 5m. Deretter er saltinnholdet tilnærmet 
+homogent og har en tilsvarende profil som temperaturen. Ett litt ferskere overflatelag kan tyde på en 
+begynnende ferskvannsavrenning i området. 
+ 
+Tetthetsdata gjenspeiler saltinnholdet og viser en svak lagdeling mellom 5m og 7m. Vannsøylen er 
+nærmest blandet og tettheten øker svakt fra overflaten og ned til bunn. 
+ 
+Oksygenmetningen ved utsett var høy (> 90%) ved overflaten. Det var en svak økning fra overflaten 
+og ned til ca. 15m dyp. Deretter sank oksygenmetningen ned til bunnen. Høy metning tyder på at 
+vannet varmes opp der varmere vann kan holde på mindre oksygen enn kaldere vann. 
+Oksygeninnholdet viser lignende mønster som oksygenmetningen. 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 49 av 72 
+6. Vedlegg – Bakgrunnsinformasjon 
+ 
+6.1 
+Valg av sted, dyp og periode for strømmålinger 
+ 
+Valg av målested 
+ 
+Plassering av riggen i forhold til det dypet strømmen skal måles på har stor betydning for målingene. 
+Et av kravene i NS 9415:2009 er at målerne skal plasseres i den posisjonen som sannsynligvis oppgir 
+høyeste strømhastighet på lokaliteten.  
+ 
+• Anleggets geografiske plassering og topografiske utforming av nærområdet må vurderes.  
+Strømmen påvirkes av bukter, viker og elveløp, møtepunkter for fjordsystemer, osv. Dette 
+kan føre til at strømmen skifter retning e.l.  
+• Bunntopografien under anlegget og i området bør vurderes, da ujevnheter kan påvirke 
+strømmens styrke og retning.  
+• Anleggets driftsstatus må vurderes der selve anlegget kan forstyrre målinger på 
+overflatestrømmen. Utestående nøter og fiskebiomasse kan frembringe en skyggeeffekt og 
+muligens redusere strømmen i noen retninger på målinger på både 5m og 15m dyp.    
+ 
+Plasseringen som sannsynligvis oppgir høyeste strømhastighet på en lokalitet er ofte rett utenfor 
+anlegget, lengst unna land. Strømmåling på 5m og 15m dyp som foretas her gir grunnlag for å 
+estimere den sterkeste strømmen anlegget kan bli utsatt for med tanke på dimensjonering.  
+ 
+For strømmåling på sprednings- og bunndyp er foretrukket plassering i anleggets senter, som gir 
+grunnlag for å estimere den representative strømstyrken i anlegget med tanke på spredning av 
+partikler. 
+ 
+Valg av måledyp 
+ 
+Overflatestrømmen måles på 5m dyp. Det tas ikke på 1m på grunn av støy fra bølger. 
+Vannutskiftningsstrøm måles på 15m dyp. 
+Sprednings- og bunnstrøm 
+• Spredningsstrøm måles midt mellom merdbunn og sjøbunn, men ikke dypere enn 50m fra 
+merdbunn. 
+• Bunnstrøm måles ca. 2m over bunn, men ikke dypere enn 100m fra merdbunn.  
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hvert 14.77 døgn, som er 
+tidevannssyklus for spring / nipp, er anbefalt minimum måleperiode 30 dager.  
+ 
+Målingene på 5m og 15m dyp ble gjort i samsvar med NS 9415:2009, der kravet er at målingene skal 
+gjennomføres sammenhengende i minst en måned.  
+ 
+Målingene på sprednings- og bunndyp ble gjort i samsvar med retningslinje for etableringssøknader 
+fra Mattilsynet (Mattilsynet, 2016), der det er anbefalt at målingene skal gjennomføres 
+sammenhengende i minst 4 uker.  
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 50 av 72 
+6.2 
+Spesifikasjoner for strøminstrumenter 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.2.1. Målerne registrerer strømhastighet, 
+strømretning og temperatur.   
+ 
+Tabell 6.2.1. Spesifikasjoner per strøminstrument. 
+Måledyp 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+Leverandør 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Instrumenttype, 
+modell 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+ID-nr. 
+57 
+5341 
+5393 
+5184 
+Cellestørrelse 
+- 
+- 
+- 
+- 
+Kalibrering 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Strømhastighetens 
+nøyaktighet 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+Strømhastighetens 
+rekkevidde / 
+terskelverdi 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+Strømretningens 
+nøyaktighet 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+Kompassorientering 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Kompass justert for 
+misvisning 
+Nei 
+Nei 
+Nei 
+Nei 
+Temperaturens 
+nøyaktighet og 
+rekkevidde 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 51 av 72 
+6.3 
+Måleprinsipp for strømmålinger 
+ 
+Aanderaa punktmåler  
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Det sendes ut en kort lydpuls (akustisk puls) 
+med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de innkommende 
+refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende refleksjon er 
+proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet (vanligvis 
+zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at de derfor 
+beveger seg med samme hastighet som vannet. En punktmåler er satt opp for å måle strøm med én 
+datalogging i et intervall på 10 minutter, basert på 150 ping. 
+ 
+Tabell 6.3.1. Måleprinsipp for en Aanderaa punktmåler. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer samplingsperioder på 10 minutter. I løpet av denne perioden sender 
+instrumentet ut 150 ping. Ett datapunkt gir gjennomsnittet over en 10-minuttersperiode. 
+ 
+ 
+6.4 
+CTD-målinger 
+ 
+Hydrografimålinger ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden med 
+et påmontert lodd ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden gjør 
+én registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen ved senkning og en 
+ved heving. Profil ved senkning av sonden ble benyttet. 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 52 av 72 
+7. Vedlegg – Riggoppsett 
+ 
+7.1 
+Test av riggoppsett før utsett 
+ 
+Før utsett ble planlagt riggoppsett testet i Matlab-programmet Mooring Design & Dynamics (Dewey, 
+2006) for å kontrollere om riggoppsettet teoretisk sett ville tåle forventet strømhastighet i området 
+slik at instrumentdyp, helning og andre kvalitetssikringsparametere ville forholde seg innenfor 
+aksepterte grenseverdier. Programmet gir en teoretisk tilnærming for å optimalisere forholdet mellom 
+oppdriftskuler og lodd i riggen for det aktuelle området.  
+ 
+Planlagt riggoppsett for strømmålinger på 5m og 15m dyp ble optimalisert for å sikre så gode 
+strømdata som mulig. 
+ 
+7.2 
+Riggoppsett 
+ 
+Riggoppsett for målt strøm er beskrevet i Tabell 7.2.1 – Tabell 7.2.3 og skissert i Figur 7.2.1 – Figur 
+7.2.3. Instrumentet som målte strøm på spredningsdyp (35m) sto litt grunnere enn det som var 
+planlagt i beskrivelse av riggoppsett. Dette har ingenting å si for kvaliteten av dataene. 
+ 
+Riggen for strømmålingene på spredningsdyp (35m) og bunndyp (48m) ble hengt fra merd i anlegg. 
+ 
+Tabell 7.2.1. Beskrivelse av riggoppsett for strømmålinger på 5m og 15m. 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A2 
+Blåse 
+1stk 
+0.0m 
+35kg oppdrift 
+Trålkule 11" 
+Kule 
+4stk 
+0.0m 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+5.0m 
+5.0m 
+ 
+Punktmåler 
+Måler 
+1stk 
+5.0m 
+ 
+Danline 14mm 
+Tau 
+10.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+15.0m 
+ 
+Danline 14mm 
+Tau 
+2.0m 
+ 
+ 
+Jernstein 
+Lodd 
+8stk 
+17.0m 
+2kg 
+Danline 14mm 
+Tau 
+50.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+2stk 
+50.0m 
+40kg 
+ 
+Tabell 7.2.2. Beskrivelse av riggoppsett for strømmålinger på spredningsdyp (35m). 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+Anlegg m/markør 
+Struktur 
+1stk 
+ 
+ 
+Danline 16mm 
+Tau 
+20.0m 
+ 
+ 
+Pærelodd 
+Lodd 
+1stk 
+ 
+5kg 
+Danline 16mm 
+Tau 
+20.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+3stk 
+ 
+7.5kg oppdrift 
+Danline 16mm 
+Tau 
+5.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+37.0m 
+ 
+Danline 16mm 
+Tau 
+12.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+2stk 
+ 
+30kg 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 53 av 72 
+Tabell 7.2.3. Beskrivelse av riggoppsett for strømmålinger på bunndyp (48m). 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+Anleggm/markør 
+Struktur 
+1stk 
+ 
+ 
+Danline 22mm 
+Tau 
+17.0m 
+ 
+ 
+Jernstein 
+Lodd 
+1stk 
+ 
+2kg 
+Danline 22mm 
+Tau 
+15.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+3stk 
+ 
+7.5kg oppdrift 
+Danline 22mm 
+Tau 
+5.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+37.0m 
+ 
+Danline 22mm 
+Tau 
+11.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+1stk 
+ 
+7.5kg oppdrift 
+Punktmåler 
+Måler 
+1stk 
+48.0m 
+ 
+Danline 22mm 
+Tau 
+2.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+2stk 
+ 
+40kg 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 54 av 72 
+ 
+Figur 7.2.1. Riggoppsett for strømmålinger på 5m og 15m. 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 55 av 72 
+ 
+Figur 7.2.2. Riggoppsett for strømmålinger på spredningsdyp (35m). 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 56 av 72 
+ 
+Figur 7.2.3. Riggoppsett for strømmålinger på bunndyp (48m). 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 57 av 72 
+8. Vedlegg – Databearbeiding og kvalitetssikring  
+ 
+Før utsett ble fysisk status til hvert instrument kontrollert. Kontrollsjekk inkluderer: batteristatus, 
+instrumentinnstilling, minnestatus og anoder. 
+ 
+Det benyttes et internt kvalitetssystem som følger hver måler for teknisk dokumentasjon. 
+Instrumenttilstand og eventuelt andre kommentarer angående instrumentet oppføres i 
+kvalitetssystemet etter hvert prosjekt.  
+ 
+Ved utsett av instrumenter benyttes et internt kvalitetssystem som inkluderer (etter NS 9425-1:1999): 
+lokalitetsnavn, riggoppsett, posisjon, måledyp, kontaktperson og oppdragsgiver, tidspunkt for utsett 
+og opptak, og et kommentarfelt for eventuelle observasjoner ved utsett og opptak.  
+ 
+Ved opptak blir måleinstrumentene undersøkt for begroing, annet som kan ha påvirket målingene, og 
+fysisk skade. Dette kommenteres i kvalitetssystemet og i rapporten, og mulig påvirkning for resultatet 
+blir vurdert. Verdier som er benyttet i rapporten er troverdige og uten behov for støyfiltrering eller 
+annen korreksjon. 
+ 
+Data er kvalitetssikret gjennom interne prosedyrer utviklet i samarbeid med instrumentenes produsent 
+etter bestemte kriterier. Dersom disse kriteriene ikke blir møtt er data kritisk vurdert. Enkeltstående 
+datapunkter blir også vurdert og data fjernes om nødvendig. Både rådata og kvalitetssikret data er 
+lagret på server. 
+ 
+8.1 
+Databearbeiding 
+ 
+Riggtilstand etter måling 
+ 
+Det var ingen begroing eller skade på instrumentene, og ingen data er vurdert som feil eller usikre på 
+grunn av dette. Datakvaliteten anses å være god. 
+ 
+Feil på instrument 
+ 
+Instrumentet som målte strøm på spredningsdyp fra 17.06.22 – 20.07.22 gikk tomt for strøm for tidlig. 
+Måleperioden ble derfor for kort i henhold til NS9415:2009, og målingene kunne ikke brukes. 
+ 
+Ellers var det ingen feil på instrumentenes sensorer under måleperioden. Datakvaliteten anses å være 
+god. 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 58 av 72 
+Tabell 8.1.1. Opplysninger om strømmålinger og databearbeiding. 
+Måledyp 
+5m 
+15m 
+Spredning (35m) 
+Bunn (48m) 
+Filnavn for rådata 
+StorøyaNØ 5m ML0522 
+AP57.bin 
+StorøyaNØ 15m ML0522 
+AP5341.bin 
+StorøyaNØ spred ML0822 
+AP5393.bin 
+StorøyaNØ bunn ML0722 
+AP5184.bin 
+Rådata først vurdert i 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Filnavn for eksportert data 
+StorøyaNØ 5m ML0522 
+AP57_eks_AHG.xlsx 
+StorøyaNØ 15m ML0522 
+AP5341_eks_AHG.xlsx 
+StorøyaNØ spred-35m ML0822 
+AP5393_eks_AKM.xlsx 
+StorøyaNØ bunn-48m ML0722 
+AP5184_eks_AKM.xlsx 
+Filnavn for kvalitetssikret 
+data 
+StorøyaNØ-5m_QC.xlsx 
+StorøyaNØ-15m_QC.xlsx 
+StorøyaNØ-Spredning 
+(35m)_QC.xlsx 
+StorøyaNØ-Bunn 
+(48m)_QC.xlsx 
+Prosentandel data (%) 
+100.00 
+100.00 
+100.00 
+100.00 
+Antall målinger 
+4618 / 4618 
+4618 / 4618 
+5488 / 5488 
+4725 / 4725 
+Antall fjernede/manglende 
+målinger 
+0 
+0 
+0 
+0 
+Ekstern påvirkning på 
+målinger 
+Ja, se vedlegg 8.2 
+Ja, se vedlegg 8.2 
+Ja, se vedlegg 8.2 
+Ja, se vedlegg 8.2 
+Dato og tid for første og 
+siste benyttede 
+strømmåling 
+08.04.22 09:00 - 10.05.22 
+10:30 
+08.04.22 09:00 - 10.05.22 
+10:30 
+22.07.22 09:20 - 29.08.22 11:50 
+17.06.22 11:50 - 20.07.22 07:10 
+Dato og tid for start og 
+slutt av instrument 
+07.04.22 11:30 - 11.05.22 
+07:30 
+07.04.22 11:30 - 12.05.22 
+11:30 
+21.07.22 12:50 - 31.08.22 06:50 
+17.06.22 07:10 - 21.07.22 07:30 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 59 av 72 
+8.2 
+Kvalitetssikring av data 
+ 
+Data er kvalitetssikret etter bestemte kriterier (Tabell 8.2.1). Dersom disse kriteriene ikke blir møtt er 
+data kritisk vurdert. Utstikkere blir også vurdert og data fjernet om nødvendig.  
+ 
+Tabell 8.2.1. Kriterier brukt for å kvalitetssikre data. 
+Parameter 
+QC  
+Temperatur 
+Manuell sjekk av data for stabil temp (∆ < 1℃)  
+Helning 
+< 50º (Figur 8.2.2 – Figur 8.2.5)  
+Ping count 
+150 (Figur 8.2.2 – Figur 8.2.5) 
+Trykk 
+Stabilt (Figur 8.2.2 – Figur 8.2.5) 
+Strømhastighet 
+Stabil (ingen store endringer fra en måling til neste måling, Tabell 8.2.2).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+Retning 
+Stabil (ingen store endringer fra en måling til neste måling).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+ 
+Tabell 8.2.2. Teoretiske forskjeller i strømhastighet fra en måling til det neste (IOC, 1993). 
+∆t (min) 
+Teoretisk 
+Faktor 
+Godkjent 
+ 
+u1 – u2 (m/s) 
+ 
+u1 – u2 (m/s) 
+5 
+0.0422 u 
+2.0 
+0.08 
+10 
+0.0843 u 
+1.8 
+0.15 
+15 
+0.1264 u 
+1.6 
+0.20 
+20 
+0.1685 u 
+1.5 
+0.25 
+30 
+0.2523 u 
+1.4 
+0.35 
+60 
+0.5001 u 
+1.2 
+0.60 
+ 
+Tabell 8.2.2 gir teoretiske forskjeller mellom to suksessive målinger av strømhastighet, u1 og u2, for 
+forskjellige måleintervall, Δt (IOC,1993). For å tillate noe naturlig variabilitet i strømhastighet 
+og -retning (inkludert usymmetriske hastighetskurver for tidevannsstrøm) har de teoretiske 
+forskjellene blitt hevet med de oppgitte faktorene, mens strøm (u) er satt til 1m/s ettersom variabilitet 
+øker med avtagende strøm. 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 60 av 72 
+Anlegget var tom for fisk under måleperioden. Strømmålerposisjonen for strømmålinger på 5m og 
+15m var omtrent 89m fra anleggets ramme (se gult kryss i Figur 8.2.1). Det er vurdert at anlegget 
+ikke har påvirket strømmålingene under måleperioden.  
+ 
+På grunn av målingenes dyp, er strøm på spredning (35m) og bunn (48m) vurdert å ikke ha blitt 
+påvirket av anlegget under måleperioden.  
+ 
+ 
+Figur 8.2.1. Plassering av strømmålere i området anvist med gult kryss for 5m og 15m og rødt kryss 
+for spredningsdyp og bunndyp. Anlegget er anvist med grått rektangel. Kart er hentet fra Olex. 
+Kartdatum: WGS84. 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 61 av 72 
+ 
+ 
+Figur 8.2.2. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 5m dyp.  
+ 
+Instrumentet hadde ikke trykksensor. Utfra riggoppsett skal instrumentet ha stått på gjennomsnittlig 
+5m dyp under måleperioden.  
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 62 av 72 
+ 
+ 
+Figur 8.2.3. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 15m dyp.  
+ 
+Instrumentdypet varierte mellom 15.6m og 16.4m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 16.1m.  
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 63 av 72 
+ 
+ 
+Figur 8.2.4. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, spredningsdyp (35m).  
+ 
+Instrumentdypet varierte mellom 33.8m og 37.1m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 35.4m.  
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 64 av 72 
+ 
+ 
+Figur 8.2.5. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunndyp (48m).  
+ 
+Instrumentdypet varierte mellom 46.1m og 49.3m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 47.6m.  
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 65 av 72 
+8.3 
+Fjernede dataverdier  
+ 
+8.3.1 Måleperiode 
+ 
+Data er fjernet utenfor måleperioden på 5m og 15m for å bruke overlappende periode mellom de 
+forskjellige dyp i så stor grad som mulig. 
+ 
+Målingene på spredningsdyp (35m) og bunndyp (48m) har ulik måleperiode fordi strømmen på 
+spredningsdyp måtte måles på nytt. Det ble forsøkt å måle strøm på spredningsdyp samtidig som 
+bunndyp (17.06.22 – 20.07.22), men målingene kunne ikke brukes fordi batteriet gikk tomt for strøm 
+for tidlig. Lengden på datasettet ble dermed for kort i henhold til NS9415:2009. 
+ 
+8.3.2 Enkelte datapunkter 
+ 
+Ingen datapunkter er fjernet. 
+ 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 66 av 72 
+9. Vedlegg – Fyrstikkdiagram av vind og strøm 
+ 
+Figurene under viser vind- og strømhastighet i løpet av måleperioden, oppdelt i perioder på to uker. Tidspunkter hvor vind og strøm hadde omtrent 
+sammenfallende retning (grønne prikker) eller motsatt retning (røde prikker) indikerer tilfeller med vindpåvirket strøm. Svak vind (< 3m/s) hvor strøm 
+og vind hadde sammenfallende eller motsatt retning er indikert med oransje prikker. Det er tillatt en vinkel på opptil ± 22.5° ved beregning av om vind 
+og strøm har omtrent sammenfallende eller motsatt retning. 
+ 
+ 
+Figur 9.1. Fyrstikkdiagram av vindhastighet (mot retning) på Rotvær (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 67 av 72 
+ 
+ 
+Figur 9.2. Fyrstikkdiagram av vindhastighet (mot retning) på Rotvær (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 68 av 72 
+10. Vedlegg – Strømmens tilstandsklasser 
+ 
+Tilstandsklasser for strømparametere er oppgitt i tabellen under. Verdiene er hentet fra strømdata 
+målt av Åkerblå ved bruk av Aanderaa punkmålere (Åkerblå, 2015). 
+ 
+Tabell 10.1. Tilstandsklasser for vurdering av strømdata. 
+ 
+Dyp 
+(m) 
+1 
+2 
+3 
+4 
+5 
+Maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 55 
+≥ 40 - < 55 
+≥ 26 - < 40 
+≥ 15 - < 26 
+< 15 
+Utskifting 15 
+≥ 45 
+≥ 30 - < 45 
+≥ 20 - < 30 
+≥ 10 - < 20 
+< 10 
+Spredning  
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Bunn 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Gjennomsnittlig strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 10 
+≥ 7 - < 10 
+≥ 6 - < 7 
+≥ 3 - < 6 
+< 3 
+Utskifting 15 
+≥ 9 
+≥ 6 - < 9 
+≥ 5 - < 6 
+≥ 2 - < 5 
+< 2 
+Spredning  
+≥ 8.5 
+≥ 5 - < 8.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Bunn 
+ 
+≥ 7.5 
+≥ 5 - < 7.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Signifikant maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 25 
+≥ 17 - < 25 
+≥ 11 - < 17 
+≥ 5 - < 11 
+< 5 
+Utskifting 15 
+≥ 23 
+≥ 15 - < 23 
+≥ 8 - < 15 
+≥ 4 - < 8 
+< 4 
+Spredning  
+≥ 20 
+≥ 14 - < 20 
+≥ 7 - < 14 
+≥ 4 - < 7 
+< 4 
+Bunn 
+ 
+≥ 16 
+≥ 11 - < 16 
+≥ 6.5 - < 11 
+≥ 3 - < 6.5 
+< 3 
+Signifikant minimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 6 
+≥ 4 - < 6 
+≥ 2.5 - < 4 
+≥ 1.5 - < 2.5 
+< 1.5 
+Utskifting 15 
+≥ 5 
+≥ 3.5 - < 5 
+≥ 2.3 - < 3.5 
+≥ 1.5 - < 2.3 
+< 1.5 
+Spredning  
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Bunn 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Andel strømstille (%) < 1cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 1 
+< 3 - ≥ 1 
+< 5 - ≥ 3 
+< 7 - ≥ 5 
+≥ 7 
+Utskifting 15 
+< 1 
+< 5 - ≥ 1 
+< 7 - ≥ 5 
+< 10 - ≥ 7 
+≥ 10 
+Spredning  
+< 3 
+< 8.5 - ≥ 3 
+< 15 - ≥ 8.5 
+< 20 - ≥ 15 
+≥ 20 
+Bunn 
+ 
+< 3 
+< 10 - ≥ 3 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Andel strømstille (%) < 3cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 5 
+< 10 - ≥ 5 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Utskifting 15 
+< 5 
+< 15 - ≥ 5 
+< 25 - ≥ 15 
+< 40 - ≥ 25 
+≥ 40 
+Spredning  
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 50 - ≥ 35 
+≥ 50 
+Bunn 
+ 
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 60 - ≥ 35 
+≥ 60 
+Effektiv transport (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 5 
+≥ 2.5 - < 5 
+≥ 1.5 - < 2.5 
+≥ 0.3 - < 1.5 
+< 0.3 
+Utskifting 15 
+≥ 3.5 
+≥ 2 - < 3.5 
+≥ 1 - < 2 
+≥ 0.2 - < 1 
+< 0.2 
+Spredning  
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Bunn 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Neumann-parameter 
+ 
+svært stabil 
+stabil 
+middels stabil 
+lite stabil 
+svært lite stabil 
+Alle dyp (m) 
+> 0.6 
+0.4 - 0.6 
+0.2 - 0.4 
+0.1 - 0.2 
+< 0.1 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 69 av 72 
+11. Vedlegg – Månedlige tidevannsvariasjoner 
+ 
+Strømmålinger er påvirket av blant annet tidevannsstrøm og kan bli påvirket av vind og vær. Månedlige tidevannsvariasjoner er vist i figuren under.    
+ 
+ 
+Figur 11.1. Månedlige tidevannsvariasjoner hvor stolpehøyde angir relativ tidevannsstrøm og stolpefarge indikerer månefaser (oransje – siste kvarter; 
+rød – nymåne; brun – første kvarter; grønn - fullmåne).
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 70 av 72 
+12. Vedlegg – Måleenheter 
+ 
+Alle måleenheter brukt i rapporten er beskrevet i tabellen under. 
+ 
+Tabell 12.1. Måleenheter brukt i rapporten. 
+Beskrivelse 
+Måleenhet 
+Dag og Tid 
+Tidsstempel i tidsserier er gitt ved midnatt, slik 
+at tidsserier starter midnatt før første målepunkt 
+og slutter midnatt etter siste målepunkt. 
+dd.mm.yy hh:mm (UTC) 
+dd.mm (UTC) 
+dd.mm.yyyy hh (UTC) 
+Høyde / Dybde 
+Meter (m) 
+Avstand  
+Kilometer (km) 
+Meter (m) 
+Posisjon / Koordinater 
+Posisjon er oppgitt i koordinatsystemet WGS64 
+(World Geodetic System 1984). 
+GGG (º) MM.MM (') 
+Strømretning (mot) 
+Grader (º) 
+Strømhastighet  
+Centimeter per sekund (cm/s) 
+Vindhastighet 
+Meter per sekund (m/s) 
+Vindretning (fra) 
+Grader (º) 
+Tidevannsnivå 
+Centimeter (cm) 
+Temperatur 
+Grader celsius (℃) 
+Helning 
+Grader (º) 
+Ping Count 
+Antall 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 71 av 72 
+13. Vedlegg – Parametere og beskrivelse 
+ 
+Tabell 13.1. Parametere brukt i rapporten og beskrivelse av disse. 
+Parameter 
+Beskrivelse 
+Sjøtemperatur (℃) 
+Temperatur i vannet målt ved måledyp 
+Strømhastighet 
+Maksimum (cm/s) 
+Høyeste verdi av alle data 
+Gjennomsnitt (cm/s) 
+Matematisk gjennomsnittlig verdi av alle data 
+Minimum (cm/s) 
+Laveste verdi av alle data 
+Signifikant maks (cm/s)  Matematisk gjennomsnitt av høyeste 1/3 av data 
+Signifikant min (cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av data 
+Varians (cm/s)2 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+om data varierte mye mellom suksessivt høye og lave verdier. En høy 
+varians indikerer at datapunkter er meget spredt ut rundt 
+gjennomsnittsverdien, mens en lav varians indikerer at datapunkter er 
+veldig nær gjennomsnittsverdien og derfor også hverandre. 
+Varians 
+= 
+Gjennomsnittet 
+av 
+de 
+kvadrerte 
+forskjeller 
+fra 
+gjennomsnittsverdien. 
+Standardavvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+gjennomsnittlig avstand fra gjennomsnittsverdi. Et høyt standardavvik 
+indikerer stor spredning av data.   
+Standardavvik = kvadratrot (varians). 
+% < x cm/s  
+Mengden strøm med strømhastighet < x cm/s  
+Lengst periode < x cm/s Varighet av lengste periode med strømhastighet < x cm/s 
+Effektiv transport 
+Hastighet (cm/s) 
+Hastighet er en funksjon av posisjon og tid. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, da er effektiv hastighet gitt som den rettlinjede avstanden 
+mellom partikkelens start- og sluttposisjon delt på total tid i 
+måleperioden.   
+Retning (grader) 
+Retning er vinkelen til en linje ut fra origo. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, er resultatretning eller retning av effektiv transport gitt 
+som vinkelen fra partikkelens startposisjon til partikkelens posisjon ved 
+måleperiodens slutt. 
+Neumann-parameter 
+Verdi som indikerer stabiliteten til strømmen. Neumann-parameteren 
+beregnes ut fra forholdet mellom den rettlinjede avstanden mellom en 
+tenkt drivende partikkels start- og sluttposisjon, og partikkelens totale 
+bane i løpet av måleperioden. Stabil strøm (høy Neumann-parameter) 
+betyr at vannet strømmer i «en» retning og beveger seg bort fra 
+startpunktet hele tiden. Ustabil strøm (lav Neumann-parameter) betyr at 
+vannet strømmer i ulike retninger og kanskje bare flyter fram og tilbake 
+ved startpunktet.  For eksempel, en Neumann-parameter på 0.7 betyr at 
+strømmen i løpet av måleperioden strømmer med 70% stabilitet i en 
+bestemt retning. Dette er klassifisert som svært stabil strøm.   
+Vannforflytning 
+(m3/m2/d) 
+Mengden vann som strømmer gjennom en tenkt flate på 1 m2 i løpet av 
+et døgn.  
+Strømrapport: Storøya NØ, Lødingen kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 72 av 72 
+14. Vedlegg – Referanser 
+ 
+1. 
+Brukerveiledning. Aanderaa RCM Blue punktmåler. 
+ 
+2. 
+Bannister, R. J., Johnsen, I. A., Hansen, P. K., Kutti, T., & Asplin, L. (2016). Near- and far-
+field dispersal modelling of organic waste from Atlantic salmon aquaculture in fjord systems. 
+ICES Journal of Marine Science, 73, 9, 2408-2419. 
+ 
+3. 
+Codiga, D. L. (2021). Unified Tidal Analysis and Prediction Using the UTide Matlab 
+Functions. Technical Report 2011-01. Graduate School of Oceanography, University of 
+Rhode Island, Narragansett, RI. 59pp. 
+ 
+4. 
+Dewey, K. R. (2006). Users Guide to Mooring Design & Dynamics. A Matlab Package for 
+Designing and Analyzing Oceanographic Moorings and Towed Bodies. Centre for Earth and 
+Ocean Research, University of Victoria, BC, Canada. 
+ 
+5. 
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography. 
+Elsevier Science. 
+ 
+6. 
+Fiskeridirektoratet (2012). Veileder for utfylling av søknadsskjema for tillatelse til akvakultur 
+i flytende eller landbasert anlegg. Tilgjengelig: http://www.fiskeridir.no/Akvakultur/Registre-
+og-skjema/Skjema-akvakultur/Akvakultursoeknad 
+ 
+7. 
+IOC (1993). Manual of Quality Control Procedures for validation of Oceanographic Data. 
+Tilgjengelig: 
+http://www.iode.org/components/com_oe/oe.php?task=download&id=20423 
+&version=1st%20edition&lang=1&format=1 
+ 
+8. 
+Kartverket (2022). www.kartverket.no/sehavniva 
+ 
+9. 
+Mattilsynet (2016). Statens tilsyn for planter, fisk, dyr og næringsmidler, utgave 6.   
+Etableringssøknader – saksbehandling i tilsynet. Retningslinje til behandling av søknader etter 
+forskrift 17. juni 2008 nr. 823 om etablering og utvidelse av akvakulturanlegg, zoobutikker 
+m.m. 36s. 
+ 
+10. 
+Meteorologisk institutt (2022).  www.seklima.met.no 
+ 
+11. 
+NS 9415:2009. Flytende oppdrettsanlegg. Krav til lokalitetsundersøkelse, risikoanalyse, 
+utforming, dimensjonering, utførelse, montering og drift. Norsk Standard 2009: 101s. 
+ 
+12. 
+NS 9425-1:1999. Oseanografi – Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 
+6s. 
+ 
+13. 
+Åkerblå 
+(2015). 
+Strømklassifisering. 
+Åkerblå 
+AS-rapport: 
+Strøm- 
+Klassifisering-
+AanderaaPunktMåler-Okt2015, 2 sider.

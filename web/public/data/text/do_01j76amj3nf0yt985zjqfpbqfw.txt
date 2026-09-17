@@ -1,0 +1,904 @@
+﻿Eidsfjord Sjøfarm AS 
+B-undersøkelse 
+Holmen slaktemerdlokalitet, april 2020 
+Rapport APN-62150.01 
+Akvaplan-niva AS 
+Rådgivning og forskning innen miljø og akvakultur 
+Org.nr: NO 937 375 158 MVA 
+Framsenteret, Postboks 6066 Langnes, 9296 Tromsø 
+Tlf: 77 75 03 00 
+www.akvaplan.niva.no 
+Informasjon om oppdragsgiver 
+Tittel 
+Eidsfjord Sjøfarm AS. B-undersøkelse. Holmen, april 2020. 
+Slaktemerdlokalitet 
+Rapportnummer 
+APN-62150.01 
+Lokalitetsnummer 
+Ny 
+Kartkoordinater 
+68°43,774 N 
+15°30,847 Ø 
+Fylke 
+Nordland 
+Kommune 
+Sortland 
+MTB-tillatelse 
+Søkes 1200 tonn 
+Driftsleder/kontakt 
+Roger Simonsen 
+Oppdragsgiver 
+Eidsfjord Sjøfarm AS 
+Biomasse/produksjonsstatus ved undersøkelsesdato 
+Biomasse anlegg ved undersøkelse 
+0 tonn 
+Utfôret mengde 
+0 tonn 
+Fiskegruppe 
+Laks 
+Produsert mengde 
+0 tonn 
+Type/21.04.2020 
+Angitt ved kryss 
+Merknad: 
+Undersøkelsen skal legges til 
+grunn for søknad om 
+utslippstillatelse med MTB på 
+1200 tonn på 
+slaktemerdlokaliteten Holmen 
+Maksimal organisk belastning jfr. kap 7.9 
+ 
+Oppfølgende undersøkelse 
+ 
+Halv maksimal biomasse 
+ 
+Før nytt utsett 
+ 
+Krav fylkesmannen forundersøkelse 
+ 
+Annet 
+ 
+Siste brakkleggingsperiode: 
+Resultat fra B-undersøkelse iht. NS 9410:2016 (hovedresultat) 
+Parametergruppe og indeks 
+Parametergruppe og tilstand 
+Gr. II. pH/Eh 
+0,00 
+Gr. II. pH/Eh 
+1 
+Gr. III. Sensorikk 
+0,35 
+Gr. III. Sensorikk 
+1 
+GR. II + III 
+0,18 
+GR. II+ III 
+1 
+Dato feltarbeid 
+21.04.2020 
+Dato rapport 
+06.05.2020 
+Lokalitetstilstand (NS 9410:2016): 
+1 
+Rapport og 
+prosjektledelse 
+Asle Guneriussen 
+Signatur 
+Kvalitetskontroll 
+Kristine Steffensen 
+Signatur 
+© 2020 Akvaplan-niva AS. Rapporten kan kun kopieres i sin helhet. Kopiering av deler av 
+rapporten (tekstutsnitt, figurer, tabeller, konklusjoner, osv.) eller gjengivelse på annen måte, er 
+kun tillatt etter skriftlig samtykke fra Akvaplan-niva AS. 
+ 
+Eidsfjord Sjøfarm AS. B-undersøkelse. Holmen,  
+Rapport APN-62150.01  
+ 
+1 
+INNHOLDSFORTEGNELSE 
+FORORD .................................................................................................................................... 2 
+1 INNLEDNING ........................................................................................................................ 3 
+2 FAGLIG PROGRAM OG METODIKK ................................................................................. 4 
+2.1 Utstyr ................................................................................................................................ 4 
+3 LOKALITETSBESKRIVELSE, DRIFT OG STASJONSPLASSERING ............................. 5 
+3.1 Lokalitetsbeskrivelse og drift ........................................................................................... 5 
+3.2 Nåværende undersøkelser ................................................................................................. 5 
+3.3 Spredningsstrøm ............................................................................................................... 5 
+3.4 Stasjonsopplysninger ........................................................................................................ 5 
+4 RESULTATER ........................................................................................................................ 7 
+5 SAMMENFATTENDE VURDERING .................................................................................. 8 
+6 LITTERATUR ........................................................................................................................ 9 
+7 VEDLEGG ............................................................................................................................ 10 
+7.1 Skjema (B.1 og B.2) NS 9410:2016 ............................................................................... 10 
+7.2 Bilder av prøver ved Holmen ......................................................................................... 12 
+7.3 Bunntopografi og 3D-visning ......................................................................................... 14 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 2 
+www.akvaplan.niva 
+Forord 
+Undersøkelsene er etter beste evne gjennomført i henhold til NS 9410:2016 som omfatter 
+sedimentundersøkelser, faunavurderinger og bunntopografiske registreringer. Miljøunder-
+søkelsene reguleres av § 35 i akvakulturdriftsforskriften.  
+Lokaliteten Holmen som slaktemerdlokalitet er ikke registrert i akvakulturregisteret da 
+undersøkelsen skal legges til grunn for søknad om slaktemerdlokalitet i forbindelse med 
+planlagt slakteanlegg. Biomasse er definert som den til enhver tid stående biomasse av levende 
+fisk. Da dette er en undesøkelse som er gjort i forbindelse med søknad utløses krav om 
+minimum 10 prøvestasjoner. Det ønskede anlegget består av 10 bur og det er derfor tatt prøver 
+ved 10 prøvestasjoner – en stasjon for hvert bur. 
+Følgende har deltatt: 
+Asle Guneriussen 
+Akvaplan-niva AS 
+Prosjektleder  
+Asle Guneriussen 
+Akvaplan-niva AS 
+Feltarbeid. Kart (Olex). 
+Rapport.  
+Kristine Steffensen 
+Akvaplan-niva AS 
+Kvalitetssikring 
+ 
+Akkreditert virksomhet: Følgende deler av denne rapporten er utført etter akkrediterte metoder:  
+Innsamling og behandling av bløtbunnprøver for sedimentanalyser, samt vurderinger og 
+fortolkninger.  
+ 
+Akvaplan-niva AS er akkreditert av Norsk Akkreditering for prøvetaking og faglig vurderinger og 
+fortolkninger, akkrediteringsnummer TEST 079.  
+Akkrediteringen er iht. NS-EN ISO/IEC 17025 
+Akkrediteringen omfatter bla. NS 9410, NS-EN ISO 5667-19 og NS-EN ISO 16665. 
+ 
+Akvaplan-niva AS vil takke Eidsfjord Sjøfarm AS ved Harry Andersen og båtmannskap for 
+samarbeidet med undersøkelsen og feltarbeidet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eidsfjord Sjøfarm AS. B-undersøkelse. Holmen,  
+Rapport APN-62150.01  
+ 
+3 
+1 Innledning 
+Foreliggende undersøkelse er gjennomført av Akvaplan-niva AS på oppdrag fra Eidsfjord 
+Sjøfarm AS i forbindelse med bedriftens planer om slaktemerdlokaliteten ved Kvalsaukholman 
+i Hognfjorden i Sortland kommune i Nordland fylke. 
+Formålet med B-undersøkelsen er å dokumentere miljøtilstanden i lokalitetens anleggssone i 
+henhold til NS 9410:2016 som omfatter sedimentundersøkelser, faunavurderinger og 
+bunntopografiske registreringer. 
+Undersøkelsene vurderer lokalitetenes tilstand mht. organisk belastning, samt egnethet for 
+oppdrettsvirksomhet.  
+Figur 1 viser et kartutsnitt av Sortlandsundet med innløpet til Hognfjorden der lokaliteten 
+Holmen er avmerket.  
+ 
+ 
+Figur 1. Oversiktskart med utsnitt av Sortlandsundet med innløpet til Hongfjorden der lokaliteten 
+Holmen er markert i rød firkant. Oppdrettsanleggene er markert med lokalitetsnummer og navn. Kart 
+fra www.fiskeridir.no Fiskeridirektoratet. Målestokk nede i venstre hjørne. 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 4 
+www.akvaplan.niva 
+2 Faglig program og metodikk 
+Miljøovervåkning av bunnpåvirkning fra marine akvakulturanlegg er et system for 
+standardisering av miljøovervåking for oppdrettsanlegg i sjø. Alle lokaliteter som er i bruk, 
+skal regelmessig overvåkes. Overvåkningsprogrammet er hjemlet i akvakulturdriftsforskriften 
+§ 35 og metodikk for undersøkelsene er beskrevet i NS 9410:2016.  
+B-undersøkelsen er en trendovervåkning av bunnforholdene under og i den umiddelbare 
+nærheten av et akvakulturanlegg. Sedimentprøver tas ved hjelp av en grabb (min. 250 cm2). 
+Hvert grabbhogg blir undersøkt med hensyn på tre grupper av sedimentparametre; 
+faunaundersøkelse, kjemisk undersøkelse (pH og redoks-potensial) og en sensorisk 
+undersøkelse (forekomst av gassbobler, lukt, sedimentets konsistens og farge, samt tykkelse av 
+deponert slam). Sedimentparametrene gis poeng (skala fra 1-4) etter hvor mye sedimentet er 
+påvirket av tilførsler av organisk stoff, jfr. Tabell 1. Antall prøvestasjoner bestemmes av 
+lokalitetens MTB, og det er et samlet gjennomsnitt for alle prøvene som fastsetter 
+lokalitetstilstanden. På bakgrunn av klassifiseringen avgjøres det videre overvåkningsnivået. 
+ 
+Tabell 1. Frekvens for B-undersøkelse i lokalitetens anleggssone i forhold til lokalitetstilstand på 
+lokaliteten. 
+Lokalitetstilstand ved maksimal 
+organisk belastning 
+Overvåkingsfrekvens for B-undersøkelse 
+1-meget god 
+Ved neste maksimale belastning 
+2-god 
+Før utsett og igjen ved maksimal belastning 
+3-dårlig 
+Før utsett 
+Dersom undersøkelse før utsett gir: 
+- 
+Tilstand 1 – undersøkelse gjennomføres ved neste maksimale 
+belastning 
+- 
+Tilstand 2 – undersøkelse gjennomføres ved halv maksimal 
+belastning og ved neste maksimale belastning 
+- 
+Tilstand 3 – undersøkelse gjennomføres ved halv maksimal 
+belastning og ved maksimal belastning. I forhold til neste 
+produksjonssyklus planlegges tiltak. 
+Dersom noen av undersøkelsene viser tilstand 4 vil det være 
+overbelastning. 
+4-meget dårlig 
+Overbelastning 
+ 
+2.1  Utstyr 
+Følgende utstyr ble anvendt i denne undersøkelsen: 
+Grabb: Van Veen grabb (0,025 m2) 
+Sikt 1 mm: Akvaplan-niva 
+pH måler: Elektrode, YSI Professional Plus 
+Redox-måler: Elektrode, YSI Professional Plus 
+Posisjonsbestemmelse – GPS map 62s. For posisjon på stasjoner. 
+Digitalkamera 
+ 
+Eidsfjord Sjøfarm AS. B-undersøkelse. Holmen,  
+Rapport APN-62150.01  
+ 
+5 
+3 Lokalitetsbeskrivelse, drift og stasjonsplassering 
+3.1 Lokalitetsbeskrivelse og drift 
+Lokaliteten ligger på vestsiden av Hinnøya i Hognfjorden Sortland kommune i Nordland. 
+Bunnen skrår jevnt og relativt slakt fra land ned til ca. 50 meters dyp sentralt i fjorden. Under 
+det planlagte anlegget er det 19–41 meters dyp. I utløpet av Hognfjorden, ca. 1,7 km vest for 
+anlegget, er det en svak terskeldannelse med et største dyp på ca. 40 m. Under anlegget består 
+bunnen i hovedsak av grus med leire, sand og skjellsand. 
+Anlegget vil ha en utstrekning på 125 x 35 m og bestå av en dobbeltrekke med 2 x 5 bur. Ved 
+tidspunktet for undersøkelsen var det ingen installasjoner på lokaliteten (pers. medd. R. Berg). 
+3.2 Nåværende undersøkelser 
+Tabell 2 viser resultat og dato for prøvetaking ved den foreliggende B-undersøkelsen på 
+lokaliteten.  
+Tabell 2. Foreliggende gjennomførte B-undersøkelser ved lokaliteten. 
+Dato 
+prøvetaking 
+Rapportnummer 
+Type undersøkelse 
+Lokalitetstilstand 
+21.04.2020 
+APN-62150.01 
+ (Guneriussen, 2020) 
+B, forundersøkelse 
+1 
+ 
+3.3 Spredningsstrøm 
+Resultatene fra strømmåling på 21 meters dyp (spredningsstrøm) viser at hovedstrømsretning 
+og massetransport av vann er definert i en nord- nordvestlig (330-345 grader) og sør-sørøstlig 
+retning (150-165 grader), med den største komponenten mot nord (Hermansen, 2020). 
+Gjennomsnittlig strømhastighet er 3,2 cm/s. 0,6 % av målingene er > 10 cm/s, 44,6 % av 
+målingene er mellom 10 og 3 cm/s, 44,6 % av målingene er mellom 3 og 1 cm/s og 10,2 % av 
+målingene er < 1 cm/s. 
+ 
+3.4 Stasjonsopplysninger 
+Stasjonene som ble undersøkt er beskrevet i Figur 2 og Tabell 3. Plasseringen ble valgt ut fra 
+forundersøkelser av lokalitetens bunntopografi og konfigurasjon, samt for å best mulig 
+kartlegge anleggssonen og området ved de 10 merdeposisjonene. Prøver fra stasjonene ble 
+hentet fra dyp som varierte fra 19–41 meter. 
+Stasjonsplasseringen vurderes som representativ for undersøkelse av anleggssonen og iht. 
+beskrivelse i NS 9410:2016.  
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+6 
+www.akvaplan.niva 
+Figur 2. Stasjonsoversikt Holmen, april 2020. Prøvetakingsstasjonene er tegnet inn med fargekode som 
+beskriver tilstand iht. NS 9410:2016 (1 = blå, 2 = grønn, 3 = gul, 4 = rød). Strømrose viser retning av 
+vanntransport ved spredningsdyp på lokaliteten (Hermansen, 2020). 
+Tabell 3. Posisjon og dybde for prøvetakningsstasjonene som inngår i undersøkelsen på lokaliteten 
+Holmen, april 2020. 
+Stasjonsnummer 
+Nordlig bredde 
+Østlig lengde 
+Dyp (m) 
+1 
+68°43,782 
+15°30,779 
+37 
+2 
+68°43,782 
+15°30,817 
+34 
+3 
+68°43,782 
+15°30,856 
+29 
+4 
+68°43,782 
+15°30,890 
+23 
+5 
+68°43,781 
+15°30,924 
+19 
+6 
+68°43,765 
+15°30,925 
+19 
+7 
+68°43,765 
+15°30,891 
+22 
+8 
+68°43,765 
+15°30,855 
+30 
+9 
+68°43,765 
+15°30,818 
+35 
+10 
+68°43,766 
+15°30,781 
+41 
+ 
+Eidsfjord Sjøfarm AS. B-undersøkelse. Holmen,  
+Rapport APN-62150.01  
+ 
+7 
+4 Resultater   
+Resultatene fra klassifiseringen er vist i Tabell 4. Fullstendig utfylt prøveskjema med utregning 
+av karakter på prøvene ligger som vedlegg.  
+Tabell 4. Resultat fra klassifisering av anleggssonen ved lokaliteten 
+Parameter 
+Tilstand 
+Gruppe II - parametere (pH/Eh) 
+Gruppe III – parametere, (sensorisk)  
+Gruppe II + III – parametere (middelverdi) 
+1 
+1 
+1 
+LOKALITETSTILSTAND 
+1 
+ 
+Det ble målt pH/redoks-verdier på alle 10 stasjonene, og det ble registrert 100 % bløtbunn på 
+lokaliteten. Sedimentene ble i hovedsak definert til å være skjellsand med innslag av leire, sand 
+og grus.  
+Det ble registrert relativt stor variasjon av makroorganismer på samtlige stasjoner. Totalt ble 
+det tatt 10 grabbskudd fordelt på de 10 stasjonene. 
+Det ble ikke registrert noen form for organisk belastning på noen av stasjonene på lokaliteten. 
+Resultatene fra kjemisk og sensorisk analyse fra Gr. II og Gr. III parameterne ga tilstand 1 - 
+"Meget god" på samtlige stasjoner. Oppsummert gav undersøkelsen lokalitetstilstand 1 – 
+«Meget god». 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 8 
+www.akvaplan.niva 
+5 Sammenfattende vurdering  
+Ut fra vurderingskriteriene i NS 9410:2016 er det dokumentert at lokaliteten på 
+prøvetidspunktet fikk tilstand 1 – "Meget god".  
+Det ble gjennomført totalt 10 grabbhugg med Van Veen grabb (0,025 m2), fordelt på 10 
+stasjoner rundt anleggets 10 planlagte bur. Resultatene fra undersøkelsene ga tilstand 1 - 
+"Meget god" på samtlige stasjoner. 
+Iht. NS 9410:2016 kap. 7.10 defineres lokaliteten Holmen som en bløtbunslokalitet, med 100% 
+bløtbunn. 
+Fra et miljømessig synspunkt og i henhold til metodikk er det ikke registrert organisk 
+belastning på noen av de undersøkte stasjonene på lokaliteten.  
+Det har ikke vært gjennomført B-undersøkelse tidligere på lokaliteten. Vi har derfor ikke 
+materiale for å sammenligne resultatene fra foreliggende undersøkelse.  
+Lokaliteten gis tilstand 1 "Meget god".  
+ 
+Eidsfjord Sjøfarm AS. B-undersøkelse. Holmen,  
+Rapport APN-62150.01  
+ 
+9 
+6 Litteratur 
+Forskrift om drift av akvakulturanlegg (akvakulturdriftsforskriften) §§ 35 og 36. 
+Hermansen, S., 2020. Eidsfjord Sjøfarm AS. Strømmålinger Holmen. 5m, 15m, spredning- og 
+bunnstrøm. APN-61888.01. 6 s. + vedlegg. 
+ISO 5667-19:2004. Guidance on sampling of marine sediments. 
+Norsk Standard NS 9410:2016. Miljøovervåking av bunnpåvirkning fra marine 
+akvakulturanlegg. 
+Pers med. Ragnhild S. Berg, kvalitetsleder i Eidsfjord Sjøfarm AS 
+www.fiskeridir.no 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 10 
+www.akvaplan.niva 
+7 Vedlegg 
+7.1 Skjema (B.1 og B.2) NS 9410:2016 
+ 
+ 
+Prøveskjema B.1
+Gr
+Parameter
+Poeng
+Prøvepunkt
+Indeks
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+B%
+H%
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+100
+0
+I
+Dyr > 1mm
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+II
+pH
+7,6
+7,7
+7,7
+7,8
+7,8
+8,0
+7,8
+7,6
+7,6
+7,6
+-8
+-3
+29
+81
+108
+113
+122
+-24
+-28
+24
+192
+197
+229
+281
+308
+313
+322
+176
+172
+224
+pH/Eh
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Tilstand prøve
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Tilstand, gruppe II
+1
+Buffer-
+temp
+23,0 C
+Sjø-temp
+4,2 C
+Sediment-
+temp
+4,1 C
+pH sjø
+ORP sjø
+155 mV
+Eh sjø
+355 mV
+200 mV
+III
+Gassbobler
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2,0
+0,0
+2,0
+0,0
+0,0
+0,0
+0,0
+4,0
+4,0
+4,0
+0,4
+0,0
+0,4
+0,0
+0,0
+0,0
+0,0
+0,9
+0,9
+0,9
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0,2
+0,0
+0,2
+0,0
+0,0
+0,0
+0,0
+0,4
+0,4
+0,4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+4
+LOKALITETSTILSTAND: 
+pH / Eh ID
+side 1 av 2 sider
+Asle G
+Bunntype: B (bløt) eller H (hard)
+Ja (0)   Nei (1)
+Eh (mV)
+ORP
+med ref. verdi
+Prøvetakingsansvarlig:
+fra figur
+0,00
+8,1
+Referanse-
+elektrode
+21.04.2020
+Lokalitet: 
+Holmen
+Lokalitetsnr: 
+ktemerdlokali
+Firma:
+Eidsfjord Sjøfarm AS
+Dato:
+verdi
+Ja (4)  Nei (0)
+Farge
+Lys/grå (0)
+Brun/sort (2)
+Lukt
+Ingen (0)
+Noe (2)
+Sterk (4)
+Konsistens
+Fast (0)
+Myk (2)
+Løs (4)
+Grabb- 
+volum (v)
+v < 1/4 (0)
+1/4 < v < 3/4 (1)
+v > 3/4 (2)
+Tykkelse på 
+slamlag
+t < 2 cm (0)
+2 < t < 8 cm (1)
+t > 8 cm (2)
+Sum
+Korrigert ('*0,22)
+0,35
+Tilstand prøve
+Tilstand gruppe III
+1
+0,18
+1
+Tilstand gruppe II og III
+Tilstand prøve
+pH/Eh
+Tilstand
+Korr.sum
+Indeks
+Middelverdi
+Grabb ID
+23
+< 1,1
+Middelverdi gruppe II og III
+1
+1,1 - <2,1
+2,1 - <3,1
+≥3,1
+1
+ 
+Eidsfjord Sjøfarm AS. B-undersøkelse. Holmen,  
+Rapport APN-62150.01  
+ 
+11 
+ 
+ 
+ 
+Prøveskjema B.2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+37
+34
+29
+23
+19
+19
+22
+30
+35
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Leire
+(X)
+(X)
+(X)
+(X)
+Silt
+Sand
+X
+X
+X
+X
+X
+Grus
+X
+X
+X
+X
+X
+X
+X
+Skjellsand
+(X)
+(X)
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+3
+1
+2
+2
+1
+1
+3
+3
+2
+2
+2
+2
+2
+1
+2
+3
+2
+2
+1
++20
++15
++15
++15
++10
++10
++30
++20
++20
+X
+X
+X
+X
+X
+X
+Dyp (m)
+41
+Firma:
+Eidsfjord Sjøfarm AS
+Dato
+21.04.2020
+Lokalitet:
+Holmen
+Lokalitetsnr: 
+Slaktemerdlokalitet
+Prøvetakingsansvarlig:
+Asle G
+Prøvepunkt
+10
+Antall forsøk 
+1
+Bobling (i prøve)
+Sedimenttype
+(X)
+(X)
+Fjellbunn
+Steinbunn
+Pigghuder, antall
+3
+Krepsdyr, antall
+3
+Skjell, antall
+Børstemark, antall
++20
+Andre dyr, total antall
+Rødalge
+Beggiatoa
+Fôr 
+Fekalier
+Signatur prøvetakingsansvarlig:
+side 2 av 2 sider
+Kommentar
+Grabb
+Areal  [m 2]
+0,025
+Grabb ID
+23
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+ 12 
+www.akvaplan.niva 
+7.2 Bilder av prøver ved Holmen 
+ 
+St 
+Bilde før sikting 
+Bilde etter sikting 
+St 1 
+ 
+ 
+St 2 
+ 
+ 
+St 3 
+ 
+ 
+St 4 
+ 
+ 
+St 5 
+ 
+ 
+ 
+Eidsfjord Sjøfarm AS. B-undersøkelse. Holmen,  
+Rapport APN-62150.01  
+ 
+13 
+St 6 
+ 
+ 
+St 7 
+ 
+ 
+St 8 
+ 
+ 
+St 9 
+ 
+ 
+St 10 
+ 
+ 
+ 
+ 
+Akvaplan-niva AS, 9296 Tromsø 
+14 
+www.akvaplan.niva 
+7.3 Bunntopografi og 3D-visning 
+Figur 3. 3-D visning av bunntopografi med stasjonsplassering ved Holmen, april 2020. Stasjoner for 
+strømmålinger er vist med dobbeltflagg. Pilen oppe i venstre hjørne viser himmelretning. Nummererte 
+stasjoner gjengitt i Figur 2 og Tabell 3.

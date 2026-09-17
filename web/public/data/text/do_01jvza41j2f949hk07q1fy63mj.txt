@@ -1,0 +1,1800 @@
+﻿RAPPORT 
+Strømmålinger 
+Sørvika, Hadsel kommune 
+OPPDRAGSGIVER 
+Nordlaks/NSK 
+EMNE 
+Strømanalyse 
+DATO / REVISJON: 13.08.2021 / 0 
+DOKUMENTKODE: 10222264-01-RIMT-RAP-001 
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 2 av 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Denne rapporten er utarbeidet av Multiconsult i egen regi eller på oppdrag 
+fra kunde.  Kundens rettigheter til rapporten er regulert i oppdragsavtalen.  
+Tredjepart har ikke rett til å anvende rapporten eller deler av denne uten 
+Multiconsults skriftlige samtykke.   
+Multiconsult har intet ansvar dersom rapporten eller deler av denne brukes 
+til andre formål, på annen måte eller av andre enn det Multiconsult skriftlig 
+har avtalt eller samtykket til.  Deler av rapportens innhold er i tillegg 
+beskyttet av opphavsrett.  Kopiering, distribusjon, endring, bearbeidelse 
+eller annen bruk av rapporten kan ikke skje uten avtale med Multiconsult 
+eller eventuell annen opphavsrettshaver. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 
+13.08.2021 
+Strømrapport 
+Nordlaks 
+JB 
+JVL 
+TL 
+REV. 
+DATO 
+BESKRIVELSE 
+MÅLING UTFØRT 
+UTARBEIDET AV 
+KONTROLLERT AV 
+GODKJENT AV 
+ 
+MULTICONSULT | Kvaløyveien 156 | Postboks 2274, 9269 TROMSØ | Tlf 77 62 26 00 | multiconsult.no 
+NO 918 836 519 MVA 
+ 
+RAPPORT 
+ 
+OPPDRAG 
+5552 – Avrop 01 – Metocean  
+DOKUMENTKODE 
+10222264-01-RIMT-RAP-001 
+EMNE 
+Strømanalyse, Sørvika, Hadsel kommune, 2021 
+TILGJENGELIGHET 
+Konfidensiell 
+OPPDRAGSGIVER 
+Nordlaks/NSK 
+OPPDRAGSLEDER 
+Trine Lundamo 
+KONTAKTPERSON Bjarne Johansen 
+UTARBEIDET AV 
+Juliane Borge 
+KOORDINATER 
+68°28.300’N  15°12.712’Ø  
+ANSVARLIG ENHET 10235042 Tromsø Marint 
+miljø og havbruk 
+ 
+ 
+ 
+ 
+INNHOLD 
+Det er utført strømmålinger ved lokalitet Sørvika, Hadsel kommune, i perioden 23.06.2021 - 26.07.2021 som grunnlag 
+for lokalitetsundersøkelse i henhold til krav i NS9415 og veileder for søknad om lokalitet.   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5552 – Avrop 01 – Metocean  
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+INNHOLDSFORTEGNELSE
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 4 av 30 
+INNHOLDSFORTEGNELSE 
+ 
+1 
+Sammendrag ........................................................................................................................................................................ 5 
+2 
+Metodebeskrivelse ............................................................................................................................................................... 8 
+3 
+Resultater ........................................................................................................................................................................... 10 
+3.1 
+Strømdata ........................................................................................................................................................................... 10 
+3.2 
+Vanntransport ..................................................................................................................................................................... 13 
+3.3 
+Dimensjonerende strømhastigheter ................................................................................................................................... 14 
+3.4 
+Tidevann, vindpåvirket strøm og andre strømkomponenter .............................................................................................. 15 
+3.4.1 
+Tidevannsanalyse og vannstand ............................................................................................................................ 15 
+3.4.2 
+Sammenheng mellom vind og strøm ..................................................................................................................... 17 
+3.4.3 
+Andre strømkomponenter ..................................................................................................................................... 18 
+3.5 
+Strøm - Todagersperiode .................................................................................................................................................... 20 
+4 
+Referanser .......................................................................................................................................................................... 21 
+Appendiks A 
+Måling og kvalitetssikring ..................................................................................................................... 22 
+Appendiks B 
+Terminologi .......................................................................................................................................... 24 
+Appendiks C 
+Operasjonell strøm og sektorvis statistikk ........................................................................................... 25 
+Appendiks D 
+Tidsserier og fordelinger ...................................................................................................................... 27 
+Appendiks E 
+Fjernet data .......................................................................................................................................... 29 
+Appendiks F 
+Instrumentspesifikasjoner.................................................................................................................... 30 
+Appendiks G 
+Kalibrering Aquadopp Profiler AQD 15474 .......................................................................................... 30 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+1 Sammendrag
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 5 av 30 
+1 
+Sammendrag 
+Det er utført strømmålinger ved Sørvika, Hadsel kommune, i perioden 23.06.2021 - 26.07.2021 som 
+grunnlag for lokalitetsundersøkelse i henhold til krav i NS9415 og veileder for søknad om lokalitet. 
+Nøkkeltall fra målingene er gitt i Tabell 1. 
+Målingene viser at strømmen ved Sørvika varierer mellom sørvestlig og nordøstlig retning. Strømmen 
+er sterkest mot nordøst (Figur 1). Gjennomsnittsstrømmen ved Sørvika er målt til 15 cm/s ved både 
+5 m og 15 m dybde, mens maksimalstrømmen er målt til henholdsvis 73 cm/s og 70 cm/s.      
+Resultatene viser ingen tydelig sammenheng mellom vind ved Stokmarknes lufthavn og strømbildet 
+ved Sørvika i måleperioden (Figur 2).  
+Strømdataene viser at Sørvika er en svært tidevannsstyrt lokalitet (se Figur 3 og Figur 4). 
+Grunnet lokalitetens nordlige beliggenhet forventes det ikke at utbrudd fra kyststrømmen vil påvirke 
+strømbildet på lokaliteten i stor grad. Gjennom interaksjonen mellom kyststrøm og fjordvannet 
+påvirker kyststrømmen uansett strømbildet. 
+Vårflom på grunn av snø- og issmelting og ferskvannsavrenning generelt kan bidra til lagdeling av 
+vannmassene i sommerhalvåret, og vil samtidig påvirke strømbildet. Det er lite variasjon i 
+strømhastighet og -retning mellom 5 og 28 m noe som kan indikere velblandete vannmasser.  
+Området rundt lokaliteten er ikke utsatt for tilførsel av ferskvann av betydning, da det er kun mindre 
+elver som renner inn i Ingelsfjorden. Det er heller ingen regulerte vassdrag i området. 
+Strømhastighet med 10-års og 50-års returperiode er for månedsmålinger estimert innenfor hver 
+sektor ved bruk av multiplikasjonsfaktorer iht. NS9415. 
+Tabell 2 viser maksimale strømhastigheter for åtte retningssektorer ved 5 m og 15 m dybde, samt 
+strøm med 10-års og 50-års returperiode. 
+Tabell 1: Nøkkeltall fra strømmålingene ved lokalitet Sørvika 
+Dybde 
+5 m dybde 
+15 m dybde 
+Gjennomsnittsstrøm [cm/s] 
+15 
+15 
+Median [cm/s] 
+12 
+12 
+Standardavvik [cm/s] 
+11 
+11 
+Maksimumstrøm [cm/s] 
+73 
+70 
+Retning maksimumstrøm [°] 
+54 
+57 
+95 prosentil [cm/s] 
+37 
+38 
+10 års returperiode (maksimal) [cm/s] 
+120 
+116 
+50 års returperiode (maksimal) [cm/s] 
+135 
+130 
+Andel målinger > 30 cm/s [%] 
+11.4 
+11.3 
+Andel målinger < 1 cm/s [%] 
+0.9 
+0.7 
+Lengste periode < 1 cm/s [min] 
+30 
+30 
+ 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+1 Sammendrag
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 6 av 30 
+ 
+Figur 1: Rosediagram som viser fordelingen av retninger i kompasset og hastigheter i farge 
+ 
+Figur 2: Vindretning og vindhastighet (grønn) samt retning og hastighet på lavpassfiltrert strøm (blå). 
+ 
+ 
+Figur 3: Horisontal strømhastighet, 5 m dybde, med tidevannsanalyse (vannstand fra Andenes, 
+tidsforskjell: -5, høydekorreksjonsfaktor: 1.02 (sehavnivå.no) 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+1 Sammendrag
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 7 av 30 
+ 
+ 
+Figur 4: Tidevannsellipsene av strømmen ved 5 m dybde. M2, M4 og K1 refererer til 
+tidevannskomponentene. Middelstrømmen er vektorbasert 
+Tabell 2: Målt maksimalstrøm og ekstrem strømhastighet Vc med 10 års og 50 års returperiode 
+Dybde 
+Sektor (mot) 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Alle 
+ret 
+5 m dybde 
+Retning av målt maksimalstrøm (mot) [°] 
+12 
+54 
+73 
+116 
+202 
+220 
+264 
+293 
+- 
+Maksimal målt strømhastighet [m/s] 
+0.26 
+0.73 
+0.45 
+0.19 
+0.21 
+0.23 
+0.14 
+0.10 
+0.73 
+Vc 10-år [m/s] 
+0.42 
+1.20 
+0.74 
+0.32 
+0.35 
+0.38 
+0.22 
+0.17 
+1.20 
+Vc 50-år [m/s] 
+0.47 
+1.35 
+0.83 
+0.36 
+0.39 
+0.42 
+0.25 
+0.19 
+1.35 
+15 m dybde 
+Retning av målt maksimalstrøm (mot) [°] 
+21 
+57 
+74 
+121 
+201 
+223 
+249 
+332 
+- 
+Maksimal målt strømhastighet [m/s] 
+0.31 
+0.70 
+0.57 
+0.21 
+0.19 
+0.27 
+0.15 
+0.12 
+0.70 
+Vc 10-år [m/s] 
+0.51 
+1.16 
+0.95 
+0.34 
+0.31 
+0.45 
+0.25 
+0.20 
+1.16 
+Vc 50-år [m/s] 
+0.57 
+1.30 
+1.06 
+0.38 
+0.35 
+0.50 
+0.28 
+0.22 
+1.30 
+ 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+2 Metodebeskrivelse
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 8 av 30 
+2 
+Metodebeskrivelse 
+Strømmålinger ble utført ved Sørvika i perioden 23.06.2021 - 26.07.2021. 
+Formålet med strømmålingen er å kvantifisere strømhastighet og -retning ved 5 og 15 m.  
+Tabell 3 sammenfatter den viktigste bakgrunnsinformasjonen for målingen. 
+• Plassering av måler: Figur 5 viser hvor måleriggen var plassert. Det er planlagt å etablere et 
+oppdrettsanlegg på stedet, men det er ikke installert enda.  
+• Måledybder: Det ble satt ut en doppler profilmåler ved 34 m dyp. Målet er å kartlegge strømmen 
+i dybdene hvor notposen befinner seg. 
+• Målingsutstyr: Måleren ble forankret fra bunn og opp. Beskrivelse av riggen og instrumentet er 
+gitt i Appendiks A. 
+• Kvalitetsvurdering av målte data: Datasettet ble kvalitetssikret i henhold til anbefalingene fra 
+instrumentenes produsent. En nærmere beskrivelse av denne prosessen finnes i Appendiks A. 
+• Målingens varighet: Det ble målt i mer enn 32 dager. Dette er i henhold til kravene som sier at for 
+å få representative strømmålinger, må disse foretas kontinuerlig over en periode på minst en 
+måned (NS9415). 
+I forbindelse med etablering av flytende oppdrettsanlegg krever NYTEK-forskriften beskrivelse av 
+strømmen i anlegget ved 5 m og 15 m (NS9415) utført av akkreditert inspeksjonsorgan for 
+lokalitetsundersøkelser. Ved søknad om ny lokalitet/utvidelse av eksisterende lokalitet kreves 
+beskrivelse av vannutskiftningsstrøm, spredningsstrøm og bunnstrøm (Fiskeridirektoratet, 2008), 
+samt dokumentasjon av nullmålinger og vannutskiftning (Mattilsynet, 2006).  
+Multiconsult Norge AS er akkreditert inspeksjonsorgan for lokalitetsundersøkelse iht. ISO/IEC 17020, 
+NYTEK-forskriften og NS9415. I denne rapporten faller analyser og beskrivelse av strømmen ved 5 og 
+15 m dybde under akkrediteringen. Analyser og beskrivelse av strømmen ved andre dybder er ikke 
+underlagt myndighetskrav om akkreditering. 
+Tabell 3: Generell informasjon om strømmålingen utført ved Sørvika 
+Posisjon 
+68°28.300 N 15°12.712 E 
+Ca. dybde på 
+målestedet 
+57 m 
+Måleperiode 
+23-Jun-2021 10:50:00 til 26-Jul-2021 07:10:00 (UTC) 
+Varighet 
+32 dager 
+Antall målinger 
+4731 
+Kompassorientering 
+Mot magnetisk nord (ikke korrigert for misvisning) 
+Målertype - 34 m 
+dybde 
+Doppler profilmåler (Nortek Aquadopp profiler, Serienummer 15474), profilering av 
+horisontal og vertikal strøm fra 5 til 28 m dybde, cellestørrelse 2 m 
+Type måling - 34 m 
+dybde 
+Burst (måling i 120 sekunder) 
+Frekvens 
+Hvert 10. minutt 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+2 Metodebeskrivelse
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 9 av 30 
+ 
+Figur 5: Plassering av strømmåleren ved Sørvika, markert P9. Den røde sirkelen indikerer størrelsen på 
+strukturen, mens den blåe sirkelen indikerer omtrentlig området som strukturen kan plasseres i. 
+Bunnkonturer er vist med 10 m koter. 
+ 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 10 av 30 
+3 
+Resultater 
+3.1 
+Strømdata 
+Tidsserien av målt strøm, samt strømrosen for valgte dybder er gitt i Figur 6 og Figur 7. Figur 8 viser 
+maksimal- og gjennomsnittsstrøm i 15 graders sektorer for forskjellige dybder. Figur 9 viser 
+minimum, middel- og maksimalstrøm ved forskjellige dybder. Hovedresultater fra strømmålingene er 
+oppsummert i Tabell 4. Operasjonell og sektorvis strømstatistikk, strømhastighet-retnings matrise og 
+fordelinger er gitt i Appendiks C og Appendiks D.  
+Gjennomsnittsstrømmen ved Sørvika er målt til 15 cm/s ved både 5 m og 15 m dybde, mens 
+maksimalstrømmen er målt til 73 cm/s og 70 cm/s.      
+Målingene viser at strømmen ved Sørvika varierer mellom sørvestlig og nordøstlig retning. Strømmen 
+er sterkest mot nordøst.  
+ 
+ 
+Figur 6: Tidsserier av horisontal strømhastighet 
+ 
+ 
+Figur 7: Rosediagram som viser fordelingen av retninger i kompasset og hastigheter i farge 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 11 av 30 
+ 
+ 
+Figur 8: Gjennomsnitts- og maksimalstrøm for forskjellige retninger (15 graders sektorer) og dybder 
+ 
+ 
+Figur 9: Minimal, middel og maksimal horisontal strøm ved alle målte dybder 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 12 av 30 
+Tabell 4: Statistikk fra strømmålingene ved Sørvika 
+Dybde 
+5 m dybde 
+15 m dybde 
+Gjennomsnittsstrøm [cm/s] 
+15 
+15 
+Median [cm/s] 
+12 
+12 
+Standardavvik [cm/s] 
+11 
+11 
+Maksimumstrøm [cm/s] 
+73 
+70 
+Retning maksimumstrøm [°] 
+54 
+57 
+95 prosentil [cm/s] 
+37 
+38 
+Andel målinger >30 cm/s [%] 
+11.4 
+11.3 
+Vannutskiftning/Vanntransport 
+Neumanns parameter 
+0.34 
+0.21 
+Vektormidlet strøm [cm/s] 
+5 
+3 
+Vektormidlet strømretning [°] 
+66 
+69 
+Nullmålinger 
+Andel målinger < 1cm/s [%] 
+0.9 
+0.7 
+Lengste periode < 1cm/s [min] 
+30 
+30 
+ 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 13 av 30 
+3.2 
+Vanntransport 
+Relativ vannutskiftning, samt antall målinger per retningssektor (15 graders sektorer) er gitt i Figur 
+10. Et progressiv vektor-diagram er vist i Figur 11. For forklaring av vannutskiftning og progressiv 
+vektor-diagram se Appendiks B.  
+Vannutskiftning og antall målinger per sektor er gitt i Appendiks C. 
+ 
+ 
+Figur 10: Relativ vannutskiftning og antall målinger per 15 graders sektor 
+ 
+ 
+Figur 11: Progressiv vektor-diagram, viser forflytningen av en tenkt vannpartikkel i løpet av måleperioden 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 14 av 30 
+3.3 
+Dimensjonerende strømhastigheter 
+Strømhastighet med 10-års og 50-års returperiode er for månedsmålinger estimert innenfor hver 
+sektor ved bruk av multiplikasjonsfaktorer iht. NS9415 (Tabell 5). Iht. NS9415 skal maksimal strøm 
+med 50 års returperiode settes til minimum 0.5 m/s når strøm måles i fire uker. De andre verdiene i 
+strømrosen skal justeres tilsvarende.  
+I dette tilfellet er maksimal strømhastighet med 50-års returperiode større enn 0.50 m/s, og 
+strømverdiene er derfor ikke justert. Tabell 6 viser maksimale strømhastigheter for åtte 
+retningssektorer ved 5 m og 15 m dybde, samt strøm med 10-års og 50-års returperiode for 5 m og 
+15 m dybde. 
+Tabell 5: Multiplikasjonsfaktorer for ekstrapolering av månedsmålinger til strømhastighet med 10 års og 
+50 års returperiode (NS9415) 
+Returperiode 
+Multiplikasjonsfaktor 
+10 år 
+1.65 
+50 år 
+1.85 
+ 
+Tabell 6: Målt maksimalstrøm og ekstrem strømhastighet Vc med 10 års og 50 års returperiode 
+Dybde 
+Sektor (mot) 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Alle 
+ret 
+5 m dybde 
+Retning av målt maksimalstrøm (mot) [°] 
+12 
+54 
+73 
+116 
+202 
+220 
+264 
+293 
+- 
+Maksimal målt strømhastighet [m/s] 
+0.26 
+0.73 
+0.45 
+0.19 
+0.21 
+0.23 
+0.14 
+0.10 
+0.73 
+Vc 10-år [m/s] 
+0.42 
+1.20 
+0.74 
+0.32 
+0.35 
+0.38 
+0.22 
+0.17 
+1.20 
+Vc 50-år [m/s] 
+0.47 
+1.35 
+0.83 
+0.36 
+0.39 
+0.42 
+0.25 
+0.19 
+1.35 
+15 m dybde 
+Retning av målt maksimalstrøm (mot) [°] 
+21 
+57 
+74 
+121 
+201 
+223 
+249 
+332 
+- 
+Maksimal målt strømhastighet [m/s] 
+0.31 
+0.70 
+0.57 
+0.21 
+0.19 
+0.27 
+0.15 
+0.12 
+0.70 
+Vc 10-år [m/s] 
+0.51 
+1.16 
+0.95 
+0.34 
+0.31 
+0.45 
+0.25 
+0.20 
+1.16 
+Vc 50-år [m/s] 
+0.57 
+1.30 
+1.06 
+0.38 
+0.35 
+0.50 
+0.28 
+0.22 
+1.30 
+ 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 15 av 30 
+3.4 
+Tidevann, vindpåvirket strøm og andre strømkomponenter 
+3.4.1 Tidevannsanalyse og vannstand 
+Det ble foretatt en tidevannsanalyse av den målte strømmen ved forskjellige dyp, som gir 
+informasjon om tidevannets bidrag til strømbildet (Codiga, 2011). Tidevannet er en følge av 
+tiltrekningskreftene mellom jord, måne og sol og de relative bevegelsene i jord-måne-solsystemet 
+(Kartverket, 2014), se Appendiks B for mer informasjon om tidevann. 
+Resultatene fra tidevannsanalysen er gitt i Figur 12 til Figur 14.  
+Figur 12 viser tidsserien av strømmen ved 5 m dybde med beregnet tidevann fra tidevannsanalysen, 
+reststrøm og vannstand fra sehavniva.no. 
+Tidevannsanalysen av strømmålingene viser at tidevannet forklarer 81 % av variansen i datasettet 
+ved 5 m dybde. Maksimal beregnet tidevannsstrøm ved 5 m dybde er 37 cm/s. Reststrømmen er 
+stort sett under 14 cm/s (signifikant maksimum), men har en maksimalverdi på 39 cm/s.  
+ 
+ 
+Figur 12: Horisontal strømhastighet, 5 m dybde, med tidevannsanalyse (vannstand fra Andenes, 
+tidsforskjell: -5, høydekorreksjonsfaktor: 1.02 (sehavnivå.no) 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 16 av 30 
+Tidevannsstrømmer følger en ellipse, dvs. at strømretningen roterer og strømhastigheten når 
+maksimumsverdien og minimumsverdien to ganger i løpet av tidevannsperioden. Figur 13 viser 
+tidevannsellipsene for de sterkeste tidevannskomponentene til strømmen ved 5 m dybde. 
+Hovedperiodene i tidevannssignalet ved 5 m dybde er 12.42 timer, 6.21 timer og 23.93 timer. Det er 
+tidevannet fra månen M2 (to perioder per døgn) som er mest framtredende, og figuren viser at 
+tidevannsstrømmen oscillerer mellom nordøstlig og sørvestlig retning.  
+Vektormidlet strøm er vist som en svart strek i Figur 13. Den vektormidlete strømmen viser at 
+vanntransporten er mot nordøst ved 5 m dyp ved Sørvika. 
+Figur 14 viser resultatene av tidevannsanalysen ved alle målte dybder. Figuren lengst til venstre viser 
+hovedaksen av tidevannsellipsen som er mest framtredende gjennom hele vannsøylen, i dette 
+tilfellet M2. Figuren i midten viser den vektormidlete strømmen for hvert dyp, mens figuren til høyre 
+viser maksimalt avvik av den faktiske strømmen fra tidevannsanalysen. Tidevannsanalysen i de 
+forskjellige dybdene forklarer mellom 67 og 81 % av variansen i strømmålingene.  
+Resultatene viser at Sørvika er en svært tidevannsstyrt lokalitet. 
+ 
+ 
+Figur 13: Tidevannsellipsene av strømmen ved 5 m dybde. M2, M4 og K1 refererer til 
+tidevannskomponentene. Middelstrømmen er vektorbasert 
+ 
+ 
+Figur 14: Resultatene av tidevannsanalysen ved alle målte dybder 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 17 av 30 
+3.4.2 Sammenheng mellom vind og strøm 
+Sammenhengen mellom vind og strøm er også undersøkt. Det ble brukt vindmålinger fra 
+Stokmarknes Lufthavn målestasjon (Frost) som ligger 14 km nordvest for Sørvika og anses som mest 
+representativ for lokaliteten. Verdiene er 10 minutters middelverdier 10 meter over bakken. For å 
+lettere kunne sammenligne strøm med vind, er strømmen lavpassfiltrert (se forklaring i Appendiks B). 
+Figur 15 viser vindhastighet og vindretning, samt hastighet og retning på lavpassfiltrert strøm ved 
+5 m dybde.  
+Figur 16 viser fordeling av retninger og styrke av både vind og lavpassfiltrert strøm ved 5 m dybde. 
+Vinden i måleperioden var i hovedsak rettet mot øst og svak (ingen vind over 15 m/s). Den 
+lavpassfiltrerte strømmen var hovedsakelig rettet mot nordøst.  
+Det er undersøkt korrelasjon mellom vind og strøm dekomponert langs 8 himmelretninger (0°, 45°, 
+90° osv.) for å finne ut hvilke retninger av vind og strøm som viser størst samvariasjon (Tabell 7). 
+Dette er gjort for å fange opp innvirkning fra eventuelle topografiske effekter på vindens og 
+strømmens retning. Tabell 8 viser hvor mange prosent av tiden ofte gitte kombinasjoner for vind og 
+strømretning oppsto i løpet av måleperioden.  
+Resultatene viser ingen tydelig sammenheng mellom vind ved Stokmarknes lufthavn og strømbildet 
+ved Sørvika i måleperioden. 
+Tabell 7: Korrelasjonskoeffisientene mellom lavpassfiltert strøm og vind langs forskjellige akser 
+ 
+Vindretning (mot) 
+Strømretning (mot) 
+ 
+0° 
+45° 
+90° 
+135° 
+180° 
+225° 
+270° 
+315° 
+0° 
+-0.05 
+-0.16 
+-0.16 
+-0.09 
+0.05 
+0.16 
+0.16 
+0.09 
+45° 
+-0.14 
+-0.27 
+-0.23 
+-0.1 
+0.14 
+0.27 
+0.23 
+0.1 
+90° 
+-0.22 
+-0.37 
+-0.28 
+-0.09 
+0.22 
+0.37 
+0.28 
+0.09 
+135° 
+-0.2 
+-0.24 
+-0.13 
+0.01 
+0.2 
+0.24 
+0.13 
+-0.01 
+180° 
+0.05 
+0.16 
+0.16 
+0.09 
+-0.05 
+-0.16 
+-0.16 
+-0.09 
+225° 
+0.14 
+0.27 
+0.23 
+0.1 
+-0.14 
+-0.27 
+-0.23 
+-0.1 
+270° 
+0.22 
+0.37 
+0.28 
+0.09 
+-0.22 
+-0.37 
+-0.28 
+-0.09 
+315° 
+0.2 
+0.24 
+0.13 
+-0.01 
+-0.2 
+-0.24 
+-0.13 
+0.01 
+ 
+Tabell 8: Prosentandel av tiden visse kombinasjon av strøm- og vindretning oppstår 
+ 
+Vindretning (mot) 
+Strømretning (mot) 
+ 
+0° 
+45° 
+90° 
+135° 
+180° 
+225° 
+270° 
+315° 
+0° 
+0 
+0.1 
+0 
+0 
+0 
+0 
+0 
+0 
+45° 
+9.6 
+8.9 
+21.2 
+3.5 
+1.4 
+3.7 
+3 
+3.5 
+90° 
+4 
+2.9 
+8.9 
+2.2 
+1.5 
+3 
+2.4 
+1.5 
+135° 
+0.9 
+2.6 
+8.4 
+0.6 
+0 
+0 
+0 
+0 
+180° 
+0.8 
+1.1 
+2.2 
+0.3 
+0 
+0 
+0 
+0.4 
+225° 
+0 
+0.4 
+0 
+0 
+0 
+0 
+0 
+0 
+270° 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+315° 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 18 av 30 
+ 
+Figur 15: De to øverste paneler viser vindretning og vindhastighet (grønn) samt retning og hastighet på 
+lavpassfiltrert strøm (blå).  
+ 
+ 
+Figur 16: Vind og reststrøm ved 5 m dybde (retninger mot) 
+3.4.3 Andre strømkomponenter  
+Andre strømkomponenter som kan bidra til det totale strømbildet er f.eks. utbrudd fra 
+kyststrømmen og vårflom på grunn av snø- og issmelting.  
+Kyststrømmen følger norskekysten nordover fra Skagerak til Barentshavet, og kjennetegnes ved 
+lavere saltholdighet enn omkringliggende vannmasser. Strømhastigheten til kyststrømmen ligger 
+stort sett mellom 20-50 cm/s. Under vedvarende perioder med vind fra vest og sørvest inn Skagerrak 
+skjer det en oppstuvning av kyststrømmen. Når oppstuvning slipper (når vinden avtar eller snur) 
+oppstår såkalte utbrudd fra kyststrømmen. Hastigheten kan komme opp i over 100 cm/s og 
+utbruddene kan nå fjordarmene på Vestlandet som en intermediær innstrømming. Påvirkningen av 
+utbruddene avtar nordover langs kysten. Kyststrømmens dynamikk er svært kompleks og avhenger 
+av vind lokalt og regionalt, strømmønsteret i Skagerrak og Nordsjøen, tidevannet og avrenningen fra 
+elvene oppstrøms.  
+Grunnet lokalitetens nordlige beliggenhet forventes det ikke at utbrudd fra kyststrømmen vil påvirke 
+strømbildet på lokaliteten i stor grad. Gjennom interaksjonen mellom kyststrøm og fjordvannet 
+påvirker kyststrømmen uansett strømbildet. 
+Vårflom på grunn av snø- og issmelting og ferskvannsavrenning generelt kan bidra til lagdeling av 
+vannmassene i sommerhalvåret, og vil samtidig påvirke strømbildet. Det foreligger ikke temperatur- 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 19 av 30 
+og salinitetsdata fra flere dyp, som ville gi mulighet for å vurdere lagdelingen ved lokaliteten. Det er 
+lite variasjon i strømhastighet og -retning mellom 5 og 28 m noe som kan indikere velblandete 
+vannmasser.  Området rundt lokaliteten er ikke utsatt for tilførsel av ferskvann av betydning, da det 
+er kun mindre elver som renner inn i Ingelsfjorden. Det er heller ingen regulerte vassdrag i området. 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+3 Resultater
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 20 av 30 
+3.5 
+Strøm - Todagersperiode 
+Figur 17 viser vind, strøm og vannstand i todagersperioden rundt maksimalstrømmen ved 5 m dyp, 
+22.07.2021 - 24.07.2021. 
+ 
+ 
+Figur 17: Vind og strøm og vannstand i todagersperioden 22.07.2021-24.07.2021 (UTC) 
+ 
+ 
+5552 – Avrop 01 – Metocean 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+4 Referanser
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 21 av 30 
+4 
+Referanser 
+Nortek, 2005: "Aquadopp Current Profiler, User Guide" 
+Codiga, D.L., 2011. Unified Tidal Analysis and Prediction Using the UTide Matlab Functions. Technical 
+Report 2011-01. Graduate School of Oceanography, University of Rhode Island, Narragansett, RI. 
+59pp. 
+Frost (https://frost.met.no): Meteorologisk data fra Meteorologisk Institutt 
+Fiskeridirektoratet, 2008: "Veileder for utfylling av søknadsskjema for tillatelse til akvakultur i 
+flytende eller landbaserte anlegg" 
+Kartverket, 2014 (sehavnivå.no): Kartverkets ressursnettsted om havnivå og vannstand 
+Mattilsynet, 2006: "Veileder til forskrift av 16.1.2004 nr. 279 om godkjenning av etablering og 
+utvidelse av akvakulturanlegg og registrering av pryddammer (etableringsforskriften) § 5" 
+NS9415, 2009: "NS9415 - Flytende oppdrettsanlegg: Krav til lokalitetsundersøkelse, risikoanalyse, 
+utforming, dimensjonering, utførelse, montering og drift", Norsk Standard   
+Miljøundersøkelser 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+Appendiks A Måling og kvalitetssikring
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 22 av 30 
+Appendiks A Måling og kvalitetssikring 
+Strømmen ble målt med en akustisk doppler profilmåler Aquadopp Profiler (Nortek, 2015). 
+Målingene er basert på dopplereffekten. Instrumentet sender ut en akustisk puls (et kort lydsignal) 
+med en bestemt frekvens og måler frekvensen av innkommende refleksjoner. Refleksjonen er 
+forårsaket av små partikler eller bobler i vannet. Ut fra frekvensskiftet kan man beregne hastigheten 
+av partiklene i vannet, som er antatt å være lik strømhastigheten. Aquadopp Profiler sender ut pulser 
+i tre stråler i forskjellige retninger for å kunne rekonstruere den horisontale og vertikal 
+strømhastigheten i mange dyp. Måleren ble forankret som vist i Figur 18. 
+ 
+ 
+Figur 18: Skisse av riggen (mottatt av NSK) 
+Det er gjennomført kvalitetssikring etter anbefalingene av instrumentenes produsent. Generelt er 
+anbefalingene for Aquadopp Profiler som følger: 
+• stamp og rull mindre enn 30° 
+• signalstyrke mer enn 7 counts over støygulvet  
+Tilfeller hvor disse kriteriene ikke blir møtt, må vurderes nøye. I tillegg til anbefalingene over ble 
+målingene sjekket for uteliggere som også ble fjernet. Data som ble fjernet er beskrevet i Appendiks 
+E. Strømretningen er ikke korrigert for misvisning og alle retninger er referert mot magnetisk nord. 
+Der instrumentprodusenten anbefaler det, er deviasjon tatt hensyn til gjennom kalibrering av 
+kompasset før utsett. Figur 19 viser noen av parameterne etter datarensing. 
+ 
+Miljøundersøkelser 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+Appendiks A Måling og kvalitetssikring
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 23 av 30 
+ 
+Figur 19: Kvalitetssikring Aquadopp Profiler ved 34 m etter datarensing 
+ 
+ 
+Miljøundersøkelser 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+Appendiks B Terminologi
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 24 av 30 
+Appendiks B Terminologi 
+Tabell 9: Begrepsbeskrivelse 
+Lavpassfiltrert 
+Et Gauss lavpassfilter med cut-off frekvens på 1/33 time har blitt benyttet for å fjerne svingningene 
+skapt av tidevannet. Lavpassfilter er benyttet til fordel for bruk av reststrømmen som ble beregnet i 
+Kapittel kap4. Dette er fordi reststrømproduktet fra tidevannsanalysen ikke alltid er fri for energi fra 
+tidevannet. 
+Korrelasjonskoeffisient 
+Korrelasjonskoeffisienten ligger alltid mellom -1 og 1, der 0 betyr at det ikke er en sammenheng 
+mellom de undersøkte tidsseriene. Korrelasjonskoeffisient på 1 betyr at det er en perfekt lineær 
+sammenheng der begge variablene går opp og ned samtidig og -1 betyr at det er en perfekt lineær 
+sammenheng der en variabel går opp når den andre går ned. Sterk korrelasjon (nært 1) betyr ikke at 
+strømmen nødvendigvis skyldes vinden, men indikerer en mulig sammenheng. 
+Median 
+Median er den midterste målingen av måledata sortert etter størrelse. Median er mindre påvirket av 
+enkelte ekstremverdier.  
+Middelverdi 
+Middelverdien er summen av alle målte hastigheter delt på antall målinger.  
+Neumanns parameter 
+Neumanns parameter er et mål for hvor stabil strømretningen har vært. Den beregnes ut ifra for 
+eksempel et progressivt vektor-diagram og er definert som forholdet mellom lengden av den rette 
+linjen mellom start- og sluttpunkt og lengden av den totale banen. For Neumanns parameter under 
+0.7 er reststrømmen ikke representativ for store deler av strømmålingen i perioden. Neumanns 
+parameter bør ses i sammenheng med vektormidlet strøm og gjennomsnittsstrømmen. Å bruke kun 
+Neumanns parameter til å beskrive vannutskiftningen blir utilstrekkelig. Den har flere begrensninger. 
+For eksempel blir den påvirket variasjoner i strømhastigheten og er avhengig av midlingstiden. På 
+steder med sterk tidevannsstrøm kan Neumanns parameter være nært null uten at vannutskiftningen 
+er redusert. 
+Progressiv 
+vektordiagram 
+Et progressiv vektordiagram viser hvordan en tenkt vannpartikkel på en gitt dybde ville forflytte seg i 
+måleperioden der startpunktet er i midten av diagrammet. Dette er kun en visualisering. I 
+virkeligheten forlater vannpartikkelen målestedet og instrumentet måler forskjellige vannpartikler 
+over hele perioden. Diagrammet gir imidlertid et inntrykk av hvor effektiv vannutskiftningen er. 
+Dersom vannet hele tiden føres bort fra startstedet tyder det på at vannutskiftningen er bra. Dersom 
+vannmassene driver fram og tilbake, kan utskiftningen være redusert. 
+Reststrøm 
+Reststrømmen er den vektorielle differansen mellom den målte strømmen og tidevannsanalysen. 
+Vektoriell i denne sammenhengen betyr at hvis det er målt 10 cm/s strøm mot nord og tidevannet på 
+samme tid ville gitt en 5 cm/s strøm mot sør, så vil reststrømmen være 15 cm/s mot nord.  
+Tidevann 
+Tidevannet er en følge av tiltrekningskreftene mellom jord, måne og sol og de relative bevegelsene i 
+jord-måne-solsystemet (Kartverket, 2014), Det finnes tidevannskomponenter med forskjellige 
+perioder, som f.eks. halvdaglige (fra månen (M2) 12.42 timer og fra solen (S2) 12 timer), daglige 
+(prinsipiell daglig månekomponent (O1) 25.82 timer) og komponenter med lengre perioder (spring -
+nippsyklus (MSF) 14.77 dager). Det er lokale forhold som avgjør hvilke komponenter som dominerer. 
+Tidevannsanalysen forutsetter stasjonære forhold og uavhengige komponenter og har naturlige 
+begrensninger på grunn av andre faktorer som påvirker strømmen og kan føre til ikke-stasjonære 
+forhold (f.eks. vind, lufttrykk, elveavrenning). Tidevannsstrømmen som oscillerer fram og tilbake vil 
+alltid ha 0 cm/s som vektormiddel. 
+Vannstand 
+Høyden av vannflaten på et bestemt sted på et gitt tidspunkt. For havet påvirkes vannstanden av 
+tidevann og værets virkning (vind, lufttrykk, med mer). 
+Vannutskiftning 
+Vannutskiftningen er definert som vannfluksen, som er mengden av vann som transporteres gjennom 
+en kvadratmeters flate i løpet av måleperioden. Dette beregnes som strømhastighet ganger tiden den 
+varer og oppgis i m3/m2. 
+Vektormidlet strøm 
+Vektormidlet strøm er den vektormidlete strømmen over hele perioden. Den er i praksis alltid lavere 
+enn gjennomsnittsstrømmen. Hvis strømmen har vært 10 cm/s mot nord i en periode, og så 10 cm/s 
+mot sør i like lang periode, så vil den vektormidlete strømmen være 0 cm/s, mens 
+gjennomsnittsstrømmen ville være 10 cm/s. 
+ 
+Miljøundersøkelser 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+Appendiks C Operasjonell strøm og sektorvis 
+statistikk
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 25 av 30 
+Appendiks C Operasjonell strøm og sektorvis statistikk  
+Tabell 10: Sektorvis strømstatistikk 
+ 
+Retning (mot) 
+ 
+0° 
+45° 
+90° 
+135° 
+180° 
+225° 
+270° 
+315° 
+Alle retninger 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+ 
+Dybde 
+Gjennomsnitt horisontal strøm [cm/s] 
+5 
+6 
+24 
+14 
+6 
+9 
+10 
+5 
+4 
+15 
+15 
+7 
+24 
+20 
+7 
+8 
+11 
+6 
+4 
+15 
+Dybde 
+95 prosentil [cm/s] 
+5 
+17 
+46 
+32 
+15 
+16 
+17 
+10 
+7 
+37 
+15 
+16 
+46 
+41 
+14 
+16 
+18 
+11 
+10 
+38 
+Dybde 
+Horisontal maksimalstrøm [cm/s] 
+5 
+26 
+73 
+45 
+19 
+21 
+23 
+14 
+11 
+73 
+15 
+31 
+70 
+57 
+21 
+19 
+27 
+15 
+12 
+70 
+Dybde 
+Relativ vannutskiftning [%] 
+5 
+1 
+58 
+6 
+1 
+7 
+25 
+2 
+0 
+100 
+15 
+3 
+49 
+7 
+1 
+3 
+33 
+2 
+1 
+100 
+Dybde 
+Antall målinger [%] 
+5 
+3 
+35 
+7 
+2 
+11 
+35 
+5 
+2 
+100 
+15 
+5 
+30 
+5 
+1 
+5 
+43 
+6 
+3 
+100 
+ 
+Tabell 11: Operasjonell strøm - prosentandel av målinger med forskjellig hastighet og retning, 5 m dybde 
+Strømhastighet 
+Strømretning 
+Sum 
+0° 
+45° 
+90° 
+135° 
+180° 
+225° 
+270° 
+315° 
+0-1 cm/s 
+0.2 
+0.0 
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+0.9 
+1-5 cm/s 
+1.4 
+1.5 
+1.3 
+0.8 
+1.9 
+3.1 
+2.2 
+1.2 
+13.5 
+5-10 cm/s 
+1.0 
+3.3 
+1.5 
+0.8 
+4.0 
+13.9 
+2.6 
+0.3 
+27.5 
+10-20 cm/s 
+0.4 
+9.4 
+1.9 
+0.2 
+4.7 
+17.9 
+0.2 
+0.0 
+34.7 
+20-30 cm/s 
+0.1 
+10.3 
+1.2 
+ 
+0.0 
+0.4 
+ 
+ 
+12.0 
+30-40 cm/s 
+ 
+7.3 
+0.5 
+ 
+ 
+ 
+ 
+ 
+7.7 
+40-50 cm/s 
+ 
+2.6 
+0.1 
+ 
+ 
+ 
+ 
+ 
+2.7 
+50-60 cm/s 
+ 
+0.8 
+ 
+ 
+ 
+ 
+ 
+ 
+0.8 
+60-70 cm/s 
+ 
+0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+0.1 
+70-80 cm/s 
+ 
+0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+3.1 
+35.4 
+6.5 
+1.9 
+10.8 
+35.5 
+5.1 
+1.6 
+100.0 
+ 
+Miljøundersøkelser 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+Appendiks C Operasjonell strøm og sektorvis 
+statistikk
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 26 av 30 
+Tabell 12: Operasjonell strøm - prosentandel av målinger med hastigheter over visse grenser, 5 m dybde 
+Strømhastighet 
+Strømretning 
+Sum 
+0° 
+45° 
+90° 
+135° 
+180° 
+225° 
+270° 
+315° 
+>10 cm/s 
+0.4 
+30.6 
+3.6 
+0.2 
+4.7 
+18.3 
+0.2 
+0.0 
+58.1 
+>20 cm/s 
+0.1 
+21.1 
+1.8 
+ 
+0.0 
+0.4 
+ 
+ 
+23.4 
+>30 cm/s 
+ 
+10.8 
+0.5 
+ 
+ 
+ 
+ 
+ 
+11.4 
+>40 cm/s 
+ 
+3.6 
+0.1 
+ 
+ 
+ 
+ 
+ 
+3.6 
+>50 cm/s 
+ 
+1.0 
+ 
+ 
+ 
+ 
+ 
+ 
+1.0 
+>60 cm/s 
+ 
+0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+0.2 
+>70 cm/s 
+ 
+0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+ 
+Tabell 13: Operasjonell strøm - prosentandel av målinger med forskjellig hastighet og retning, 15 m dybde 
+Strømhastighet 
+Strømretning 
+Sum 
+0° 
+45° 
+90° 
+135° 
+180° 
+225° 
+270° 
+315° 
+0-1 cm/s 
+0.1 
+0.1 
+0.1 
+0.0 
+0.1 
+0.0 
+0.1 
+0.1 
+0.6 
+1-5 cm/s 
+1.9 
+1.5 
+0.8 
+0.6 
+1.2 
+2.5 
+2.2 
+1.8 
+12.5 
+5-10 cm/s 
+2.3 
+3.3 
+0.7 
+0.3 
+2.3 
+13.8 
+3.1 
+0.8 
+26.8 
+10-20 cm/s 
+1.0 
+7.6 
+1.2 
+0.4 
+1.7 
+26.6 
+0.5 
+0.1 
+39.3 
+20-30 cm/s 
+0.1 
+7.6 
+1.5 
+0.0 
+ 
+0.4 
+ 
+ 
+9.6 
+30-40 cm/s 
+0.0 
+6.4 
+0.9 
+ 
+ 
+ 
+ 
+ 
+7.3 
+40-50 cm/s 
+ 
+2.9 
+0.3 
+ 
+ 
+ 
+ 
+ 
+3.2 
+50-60 cm/s 
+ 
+0.6 
+0.1 
+ 
+ 
+ 
+ 
+ 
+0.7 
+60-70 cm/s 
+ 
+0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+0.2 
+70-80 cm/s 
+ 
+0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+Sum 
+5.5 
+30.2 
+5.5 
+1.4 
+5.4 
+43.4 
+6.0 
+2.7 
+100.0 
+ 
+Tabell 14: Operasjonell strøm - prosentandel av målinger med hastigheter over visse grenser, 15 m dybde 
+Strømhastighet 
+Strømretning 
+Sum 
+0° 
+45° 
+90° 
+135° 
+180° 
+225° 
+270° 
+315° 
+>10 cm/s 
+1.1 
+25.2 
+4.0 
+0.4 
+1.7 
+27.0 
+0.5 
+0.1 
+60.1 
+>20 cm/s 
+0.1 
+17.6 
+2.7 
+0.0 
+ 
+0.4 
+ 
+ 
+20.8 
+>30 cm/s 
+0.0 
+10.0 
+1.2 
+ 
+ 
+ 
+ 
+ 
+11.3 
+>40 cm/s 
+ 
+3.7 
+0.4 
+ 
+ 
+ 
+ 
+ 
+4.0 
+>50 cm/s 
+ 
+0.8 
+0.1 
+ 
+ 
+ 
+ 
+ 
+0.8 
+>60 cm/s 
+ 
+0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+0.2 
+>70 cm/s 
+ 
+0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0 
+ 
+ 
+ 
+Miljøundersøkelser 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+Appendiks D Tidsserier og fordelinger
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 27 av 30 
+Appendiks D Tidsserier og fordelinger 
+ 
+ 
+Figur 20: Tidsserier av horisontal strømhastighet 
+ 
+ 
+Figur 21: Tidsserier av horisontal strømretning 
+ 
+Miljøundersøkelser 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+Appendiks D Tidsserier og fordelinger
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 28 av 30 
+ 
+Figur 22: Histogram av horisontal strømhastighet 
+ 
+Figur 23: Histogram av horisontal strømretning 
+ 
+ 
+Miljøundersøkelser 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+Appendiks E Fjernet data
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 29 av 30 
+Appendiks E Fjernet data 
+Aquadopp Profiler data:  
+Korrigert tidssone til UTC (-2 timer) basert på vannstand fra sehavniva.no. 
+Fjernet 163 punkter på grunn av trykk utenfor [30.31, 37.24] (før og etter utsett):  
+23-Jun-2021 07:00:00 til 23-Jun-2021 10:40:00, 26-Jul-2021 07:20:00 til 27-Jul-2021 06:30:00 
+Antall NaN (hull) i intervallet: 0  
+Instrumentet er overflatereferert basert på alle målte instrumentdybder. 
+Støygulvet er til instrumentet er satt til 15 counts. 
+Ingen punkter er fjernet pga. topper i signalstyrke. 
+4 celler fjernet pga. overflatestøy/lav signalstyrke/refleksjoner:   
+2.0 dyp  
+30.0 dyp  
+32.0 dyp  
+34.0 dyp  
+Rapporterer celle 5-7 m (5 m) og 13-15 m (15 m). 
+ 
+ 
+ 
+ 
+Miljøundersøkelser 
+multiconsult.no
+Strømmålinger, Sørvika, Hadsel kommune 
+Appendiks F Instrumentspesifikasjoner
+ 
+10222264-01-RIMT-RAP-001 
+13.08.2021 / 0  
+Side 30 av 30 
+Appendiks F Instrumentspesifikasjoner 
+Tabell 15: Instrumentspesifikasjonene 
+ 
+Aquadopp Profiler 
+Horisontal nøyaktighet 
+±0.5 cm/s, ±1% 
+Horisontal presisjon 
+1.6 cm/s 
+Vertikal presisjon 
+0.5 cm/s 
+Nøyaktighet retning 
+±2° 
+ 
+ 
+Appendiks G Kalibrering Aquadopp Profiler AQD 15474 
+Tabell 16: Test og spesifikasjoner 
+ 
+Dato 
+Utført av 
+Service/test 
+19.07.2019 
+Nortek

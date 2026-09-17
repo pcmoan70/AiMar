@@ -1,0 +1,261 @@
+﻿Kunnskapsstøtte – Modellering av spredning av ILA-smitte fra 
+lokalitet 35897 Nye Hessvik i Ullensvang.  
+ 
+ 
+Bjørn Ådlandsvik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Havforskningsinstituttet 
+2023 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+Innhold 
+Bestilling ......................................................................................................................... 3 
+Resultater........................................................................................................................ 3 
+Konklusjon ...................................................................................................................... 4 
+Referanser....................................................................................................................... 4 
+Figurer. ............................................................................................................................ 5 
+Tabeller. .......................................................................................................................... 7 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+Bestilling 
+I e-post datert 08.02.2013 fra fagrådgiver fiskehelse sør og vest bestiller Mattilsynet 
+spredningssimuleringer fra anlegg 35897 (Nye Hessvik) i Ullensvang kommune hvor det 
+er påvist ILA. Posisjonen er 60,130183 °N, 6,126617 °Ø i Sildafjorden, del av 
+Hardangerfjorden øst for Varaldsøy. 
+For å vurdere smitterisikoen fra Nye Hessvik til de omliggende områder og lokaliteter 
+har Havforskningsinstituttet modellert spredningen av infeksiøse ILA-virus fra 
+lokaliteten, og beregnet andel av mulig virusutslipp til relevante, nærliggende lokaliteter.  
+Havforskningsinstituttet har modellert spredning fra lokaliteten 35897 Nye Hessvik med 
+en kombinasjon av en sirkulasjonsmodell med 160 meters oppløsning, NorFjords160 
+(https://www.hi.no/hi/temasider/hav-og-kyst/modeller), og partikkelspredningsmodellen 
+LADiM (https://github.com/bjornaa/ladim). Denne kombinasjonen er brukt i flere 
+sammenhenger for spredning av lakselus og virus (for mer detaljer, se Huserbråten mfl., 
+2020). For å få med et representativt utvalg av vær- og strømsituasjoner har simuleringen 
+en varighet på et helt år (2019). 
+I denne simuleringen slippes det hver time 25 partikler fra smittekilden. Hver partikkel 
+representerer et stort antall virus. For hver time telles det hvor mange partikler som 
+havner i hver 160-meters gridcelle. Dette summeres for hele året og viser dermed det 
+potensielle smittepresset, den midlere sannsynligheten for å treffe virus fra kilden. Vi vet 
+ikke hvor mange viruspartikler som skilles ut fra anlegget. Vi har derfor standardisert en 
+skaleringsfaktor, at utslippet utgjør 10 millioner infeksiøse enheter (IU) i timen. Denne 
+standarden gjør det mulig å sammenligne potensielt smittepress mellom simuleringer fra 
+ulike kilder. Tidligere har vi fokusert på uttynning og oppgitt smittepresset i prosent av 
+nivået ved smittekilden. Samme smittepress fra to kilder kan dermed gi ulike verdier 
+avhengig av hvor eksponert kildene er for strøm. Tabell 1 viser begge skaleringer. 
+Partiklene er sluppet ut i dyp på 5 meter. Viruspartiklene antas å ha en konstant 
+dødelighet, med halveringstid på 48 timer og maksimal levetid på 5 døgn. 
+Resultater 
+Gjennomsnittlig overflatestrøm i området fra modellen er vist i Figur 1. I middel går 
+overflatestrømmen i området ut fjorden, og er spesielt sterkt på vestsiden av Varaldsøy. 
+Det er imidlertid stor variabilitet med episoder med både inn- og utstrømning. Strøm på 
+tvers av fjorden er svak. Ved lokaliteten Nye Hessvik er middelstrømmen svak, noe som 
+tilsier at inn- og utstrømning balanserer. Rett sør for Hessvik finner vi Maurangsfjorden 
+med flere lokaliteter. Her går strømmen i middel vest og ut av sidefjorden. 
+Resultatet av spredningsmodellen summeres til et kart (Figur 2) som indikerer midlere 
+smittepress i området. I kortere perioder, særlig ved spesielle strømsituasjoner, kan 
+fordelingen av virus avvike fra dette bildet. Smittepresset tynnes fort ut, og det er derfor 
+brukt en logaritmisk skala som viser detaljer også ved lave konsentrasjoner av virus.  
+ 
+4 
+ 
+Fargeskalaen angir potensielt smittepress som summen av infeksiøse enheter over hele 
+året. Dette er en endring fra tidligere hvor vi har brukt uttynning som prosent av 
+smittepresset ved kilden selv. Forskjellen er en skalering, kartet viser fremdeles relative 
+forskjeller i eksponering. Fordelen er at det nå er mulig å sammenligne kart fra ulike 
+simuleringer. 
+Kartet viser at den potensielle smitten i hovedsak brer seg inn og ut langs sørøstsiden av 
+fjorden med mindre smittepress på tvers av fjorden mot Varaldsøy. På grunn av (i 
+middel) utgående strøm opplever lokalitetene innover i Maurangsfjorden lavere 
+smittepress enn forventet ut fra avstanden. På grunn av Maurangsneset blir også 
+sjøavstand betydelig lengre enn luftavstand i Maurangsfjorden. 
+Tabell 1 viser det modellerte potensielle smittepresset på nærliggende lokaliteter. Her er 
+brukt den nye skalaen infeksiøse enheter per kvadratmeter. I tillegg vises skala i prosent 
+av smittepresset ved kilden ifølge tidligere praksis. Bemerk at skalaene er proporsjonale. 
+Høyest smittepress finner vi ved på 29816 Apalneset, dette er den nærmeste lokaliteten 
+og den ligger på samme side av fjorden. På neste plass ligger 10332 Tronmo på samme 
+siden av fjorden, men over 5 km lenger ute i fjorden. Også 12081 Straumnseset og 13234 
+Kysnes har høye verdier av potensielt smittepress i forhold til avstanden. Ved Varaldsøy 
+har 10331 Åkre og spesielt 19939 Høysteinen lave verdier sammenlignet med avstanden. 
+Det samme gjelder lokaliteter innover i Maurangsfjorden, spesielt 38497 Eikeneset. 
+Konklusjon 
+Lokaliteten ligger i en fjord og spredning skjer i hoveddsak i fjordens retning, både 
+innover og utover, med mindre spredning på tvers av fjorden. Det kan vurderes å utvide 
+verne- og overvåkningssonene langs sørøstsiden av fjorden i begge retninger. På den 
+annen side kan det vurderes å begrense vernesonen slik at lokalitetene ved Varaldsøy og i 
+Maurangsfjorden øst for 12023 Hundasvoskjeret holdes utenfor sonen. Andre forhold 
+som Mattilsynet tar hensyn til i sin vurdering av utbredelse av vernesone er ikke vurdert 
+av Havforskningsinstituttet. 
+Referanser 
+Huserbråten m.fl. 2020, Endret lokalitetsstruktur i produksjonsområde 3 – vurdert 
+virkning på spredning av lakselus, pankreassykdom og infektiøs lakseanemi, Rapport fra 
+Havforskningen 2020-12. 
+ 
+ 
+ 
+ 
+5 
+ 
+Figurer. 
+ 
+ 
+Figur 1: Gjennomsnittlig overflatestrøm i området rundt 35897 Nye Hessvik (markert 
+med kryss i hvit sirkel) i løpet av året 2019. 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+Figur 2: Modellert smittespredning fra 35897 Nye Hessvik. Grå ringer viser 5 km og 10 
+km radius fra spredningskilden. 
+ 
+ 
+ 
+7 
+ 
+Tabeller. 
+ 
+Tabell 1: Smittekontakt til nærliggende lokaliteter i prosent av smittenivå ved kilden, 
+kuttet ved 0.3. Avstand er luftavstand fra Nye Hessvik, konsentrasjon er infeksiøse 
+enheter per kvadratmeter og uttynning er potensielt smittepress i prosent av smittepresset 
+ved kilden. 
+Lokalitets-
+id 
+Navn 
+Avstand 
+(km)  
+Konsentrasjon 
+(IU / m2) 
+Uttynning 
+(prosent) 
+35897 
+Nye Hessvik 
+0,0 
+502,1 
+100 
+29816 
+Apalvikneset 
+1,8 
+15,2 
+3,0 
+10332 
+Trommo 
+5,8 
+4,7 
+0,9 
+45120 
+Skotberget 
+3,9 
+3,8 
+0,8 
+12081 
+Straumneset 
+10,2 
+3,0 
+0,6 
+12023 
+Hundasvoskjeret 
+3,2 
+2,5 
+0,5 
+13234 
+Kysnes 
+7,9 
+2,4 
+0,5 
+12077 
+Tveitnesvik 
+5,1 
+1,8 
+0,4 
+12020 
+Olderhola 
+4,0 
+1,6 
+0,3 
+10331 
+Åkre 
+4,9 
+1,2 
+0,2 
+20455 
+Djupevika 
+11,9 
+1,2 
+0,2 
+38497 
+Eikeneset 
+5,3 
+1,1 
+0,2 
+22095 
+Hågardsneset 
+19,6 
+1,0 
+0,2 
+12040 
+Brandaskuta 
+21,0 
+0,9 
+0,2 
+19395 
+Bakka 
+13,4 
+0,9 
+0,2 
+19939 
+Høysteinen 
+5,2 
+0,7 
+0,1 
+12108 
+Skorpo Nv 
+25,8 
+0,7 
+0,1 
+45066 
+Lingaholmane 
+13,8 
+0,7 
+0,1

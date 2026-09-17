@@ -1,0 +1,84 @@
+﻿<root>
+  <avsender>
+    <adresselinje1>Postboks 1405</adresselinje1>
+    <adresselinje2>
+    </adresselinje2>
+    <adresselinje3>
+    </adresselinje3>
+    <navn>Statsforvalteren i Nordland</navn>
+    <poststed>Bodø</poststed>
+    <postnr>8002</postnr>
+  </avsender>
+  <mottaker>
+    <adresse1>Postboks 1485 Fylkeshuset</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8048</postnr>
+    <poststed>BODØ</poststed>
+    <navn>NORDLAND FYLKESKOMMUNE</navn>
+    <land>Norge</land>
+    <orgnr>964982953</orgnr>
+    <fnr />
+  </mottaker>
+  <id>384ac97b-cea9-46d3-bca8-c551c1422e04</id>
+  <tittel>Til klagebehandling - tillatelse etter forurensningsloven for ny lokalitet Grønnstranda i Narvik kommune</tittel>
+  <date>1652268315414</date>
+  <dateFormatert>2022-05-11T11:25:15</dateFormatert>
+  <metadataFraAvleverendeSystem>
+    <sakssekvensnummer>2679</sakssekvensnummer>
+    <saksaar>2021</saksaar>
+    <journalaar>2022</journalaar>
+    <journalsekvensnummer>7132</journalsekvensnummer>
+    <journalpostnummer>38</journalpostnummer>
+    <journalposttype>U</journalposttype>
+    <journalstatus>F</journalstatus>
+    <journaldato>1645052400000</journaldato>
+    <journaldatoFormatert>2022-02-16T23:00:00</journaldatoFormatert>
+    <dokumentetsDato>1652133600000</dokumentetsDato>
+    <dokumentetsDatoFormatert>2022-05-09T22:00:00</dokumentetsDatoFormatert>
+    <tittel>Til klagebehandling - tillatelse etter forurensningsloven for ny lokalitet Grønnstranda i Narvik kommune</tittel>
+    <saksBehandler>
+    </saksBehandler>
+  </metadataFraAvleverendeSystem>
+  <metadataForImport>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalposttype />
+    <journalstatus />
+    <dokumentetsDato />
+    <tittel />
+  </metadataForImport>
+  <status>Klar for mottak</status>
+  <niva>4</niva>
+  <filmetadata>
+    <filnavn>Til klagebehandling - tillatelse etter forurensningsloven for ny lokalitet Grønnstranda i Narvik kommune.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>c7918b5ffbffa0d32eb2a56556a3efca88b5153f35921e605ad160e6ff75de55</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>756089</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>AcosSvarInn.xml</filnavn>
+    <mimetype>text/xml</mimetype>
+  </filmetadata>
+  <svarSendesTil>
+    <adresse1>Postboks 1405</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8002</postnr>
+    <poststed>BODØ</poststed>
+    <navn>STATSFORVALTEREN I NORDLAND</navn>
+    <land>Norge</land>
+    <orgnr>974764687</orgnr>
+    <fnr />
+  </svarSendesTil>
+  <svarPaForsendelse />
+  <forsendelseType />
+  <eksternRef>384ac97b-cea9-46d3-bca8-c551c1422e04</eksternRef>
+  <downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/384ac97b-cea9-46d3-bca8-c551c1422e04</downloadUrl>
+</root>

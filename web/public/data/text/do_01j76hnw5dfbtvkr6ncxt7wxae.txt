@@ -1,0 +1,1556 @@
+﻿Framsenteret | Postboks 6066 Stakkevollan | 9296 Tromsø | +47 777 50 300 | www.akvaplan.niva.no 
+ 
+ 
+ 
+Forundersøkelse med B-metodikk ved 
+Pundsvik (45060), 2023 
+Ballangen Sjøfarm AS 
+ 
+Akvaplan-niva AS Report: 2023 64750.01   
+ 
+ 
+ 
+Forundersøkelse med B-metodikk ved Pundsvik (45060), 2023    
+ 
+Forfatter(e) 
+ 
+Kari Elisabeth Justad, Ludvik Lippestad 
+ 
+Dato    
+ 
+20.06.2023 
+Rapport nr. 
+ 
+ 2023 64750.01   
+Antall sider  
+ 
+24 
+Distribusjon   
+Gjennom kunde 
+Kunde  
+ 
+Ballangen Sjøfarm AS 
+Kontaktperson 
+Kent David Pedersen  
+ 
+ 
+Sammendrag 
+I forbindelse med søknad om økt MTB på lokaliteten 45060 Pundsvik er det gjennomført en 
+miljøundersøkelse med B-metodikk som skal inngå i en forundersøkelse.  
+Det er totalt prøvetatt 21 stasjoner innenfor anleggssonen. Stasjon 1-15 inngår i lokalitetens 
+ordinære frekvens for miljøundersøkelser (Lippestad, 2023), og inkluderer derfor kun burene hvor 
+det har vært produksjon. Stasjon 16-21 er supplert for å dekke hele anleggssonen. Det ble registrert 
+57 % bløtbunn og 43 % hardbunn. Undersøkelsen viste at én stasjon fikk tilstand 3 – «Dårlig» og 20 
+stasjoner fikk tilstand 1 – «Meget god». Samlet fikk lokaliteten tilstand 1 – «Meget god». 
+ 
+ 
+Godkjenning 
+ 
+ 
+Ludvik Lippestad 
+Prosjektleder   
+ 
+ 
+ 
+ 
+ 
+Kvalitetskontroll 
+ 
+©2023 Akvaplan-niva AS. The report may only be reproduced in its entirety. Copying of partial content (texts, 
+figures, table, conclusions, etc.) or other methods of publication is only permitted after obtaining written consent 
+from Akvaplan-niva AS. 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 3 av 24 
+Nøkkelinformasjon 
+Informasjon om anlegg og oppdragsgiver 
+Lokalitetsnummer 
+45060 
+Kartkoordinater 
+68°25,248’ N 
+16°47,015’ Ø 
+Fylke 
+Nordland 
+Kommune 
+Narvik  
+MTB-tillatelse 
+3120 tonn 
+*midlertidig 4776 tonn 
+Driftsleder/kontakt 
+Kent David Pedersen 
+Oppdragsgiver 
+Ballangen Sjøfarm AS 
+ 
+Biomasse/produksjonsstatus ved undersøkelsesdato 
+Biomasse anlegg ved undersøkelse 
+2097 tonn 
+Utfôret 
+mengde 
+6768 tonn 
+Fiskegruppe 
+Laks 
+Produsert 
+mengde 
+5996 tonn 
+Type/tidspunkt for undersøkelse 
+Angitt ved kryss 
+Merknad 
+Forundersøkelse i forbindelse med 
+søknad om økt MTB.  
+Maksimal organisk belastning jfr. kap 7.9 
+☐ 
+Oppfølgende undersøkelse 
+☐ 
+Halv maksimal belastning 
+☐ 
+Før nytt utsett 
+☐ 
+Krav statsforvalteren forundersøkelse 
+☒ 
+Annet 
+☐ 
+ 
+Resultat fra B-undersøkelse iht. NS 9410:2016 (hovedresultat) 
+Parametergruppe og indeks 
+Parametergruppe og tilstand 
+Gr. II. pH/Eh 
+0,27 
+Gr. II. pH/Eh 
+1 
+Gr. III. Sensorikk 
+0,54 
+Gr. III. Sensorikk 
+1 
+GR. II + III 
+0,34 
+GR. II+ III 
+1 
+Dato feltarbeid 
+15.-16.03.2023, 21.04.2023 
+Dato rapport 
+20.06.2023 
+Lokalitetstilstand (NS 9410:2016): 
+1 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 4 av 24 
+Innholdsfortegnelse 
+1 
+INNLEDNING .................................................................................................................. 5 
+2 
+FAGLIG PROGRAM OG METODIKK ................................................................................... 6 
+3 
+LOKALITETSBESKRIVELSE, DRIFT OG STASJONSPLASSERING .......................................... 7 
+3.1 
+Lokalitetsbeskrivelse og drift ..................................................................................... 7 
+3.2 
+Nåværende og tidligere undersøkelser ....................................................................... 7 
+3.3 
+Spredningsstrøm ...................................................................................................... 7 
+3.4 
+Stasjonsopplysninger ................................................................................................ 8 
+4 
+RESULTATER ................................................................................................................. 10 
+5 
+SAMMENFATTENDE VURDERING ................................................................................... 11 
+6 
+LITTERATUR ................................................................................................................. 12 
+7 
+VEDLEGG ...................................................................................................................... 13 
+7.1 
+Skjema (B.1 og B.2) NS 9410:2016 ............................................................................... 13 
+7.2 
+Bilder av prøver ved Pundsvik .................................................................................. 19 
+7.3 
+Bunntopografi og 3D-visning .................................................................................... 24 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 5 av 24 
+1 Innledning 
+Foreliggende undersøkelse er gjennomført av Akvaplan-niva AS på oppdrag fra Ballangen Sjøfarm 
+AS i forbindelse med bedriftens oppdrettsvirksomhet på lokaliteten Pundsvik i Ofotfjorden, Narvik 
+kommune i Nordland fylke. 
+Oppdretter ønsker å søke om økt MTB ved lokaliteten Pundsvik. Det er derfor gjennomført en 
+miljøundersøkelse med B-metodikk i forbindelse med fremtidige søknadsprosesser.  
+Formålet med forundersøkelsen med B-metodikk er å oppfylle krav i Veiledning til krav om 
+forundersøkelser ihht. NS9410:2016 i forbindelse med søknad om akvakulturlokaliteter i Nordland, Troms 
+og Finnmark fylker samt Statsforvalteren i Nordlands krav til søknader akvakultur 
+(https://www.statsforvalteren.no/nb/Nordland/). Miljøtilstanden i lokalitetens anleggssone blir i 
+tillegg dokumentert i henhold til NS9410:2016.  
+Undersøkelsene vurderer lokalitetenes tilstand mht. organisk belastning, samt egnethet for 
+oppdrettsvirksomhet.  
+Figur 1 viser et kartutsnitt av Ofotfjorden der Pundsvik ligger.  
+ 
+Figur 1. Oversiktskart ved Pundsvik (blå pil). Oppdrettsanleggene i området er markert med lokalitetsnummer og navn. 
+Kart fra www.fiskeridir.no Fiskeridirektoratet, målestokk 1:100 000. Kartet er nordlig orientert.  
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 6 av 24 
+2 Faglig program og metodikk 
+Miljøovervåkning av bunnpåvirkning fra marine akvakulturanlegg er et system for standardisering 
+av miljøovervåking for oppdrettsanlegg i sjø. Alle lokaliteter som er i bruk, skal regelmessig 
+overvåkes. Overvåkningsprogrammet er hjemlet i akvakulturdriftsforskriften § 35 og metodikk for 
+undersøkelsene er beskrevet i NS 9410:2016.  
+B-undersøkelsen er en trendovervåkning av bunnforholdene under og i den umiddelbare nærheten 
+av et akvakulturanlegg. Sedimentprøver tas ved hjelp av en grabb (min. 250 cm2). Hvert grabbhogg 
+blir undersøkt med hensyn på tre grupper av sedimentparametre; faunaundersøkelse, kjemisk 
+undersøkelse (pH og redoks-potensial) og en sensorisk undersøkelse (forekomst av gassbobler, lukt, 
+sedimentets konsistens og farge, samt tykkelse av deponert slam). Sedimentparametrene gis poeng 
+(skala fra 1-4) etter hvor mye sedimentet er påvirket av tilførsler av organisk stoff, jfr. Tabell 1. Antall 
+prøvestasjoner bestemmes av lokalitetens MTB, og det er et samlet gjennomsnitt for alle prøvene 
+som fastsetter lokalitetstilstanden. På bakgrunn av klassifiseringen avgjøres det videre 
+overvåkningsnivået. 
+Forundersøkelsen med B-metodikk er basert på resultater fra B-undersøkelse gjort ved maksimal 
+belastning (Lippestad, 2023). Det er i tillegg innhentet supplerende stasjoner for å dekke hele 
+anleggssonen i henhold til Statsforvalteren i Nordland sine retningslinjer ifm. forundersøkelser og 
+søknad om endringer ved eksisterende lokaliteter i sjø. 
+Tabell 1. Frekvens for B-undersøkelse i lokalitetens anleggssone i forhold til lokalitetstilstand på lokaliteten. 
+Lokalitetstilstand ved maksimal 
+organisk belastning 
+Overvåkingsfrekvens for B-undersøkelse 
+1-meget god 
+Ved neste maksimale belastning 
+2-god 
+Før utsett og igjen ved maksimal belastning 
+3-dårlig 
+Før utsett 
+Dersom undersøkelse før utsett gir: 
+Tilstand 1 – undersøkelse gjennomføres ved neste maksimale 
+belastning 
+Tilstand 2 – undersøkelse gjennomføres ved halv maksimal belastning 
+og ved neste maksimale belastning 
+Tilstand 3 – undersøkelse gjennomføres ved halv maksimal belastning 
+og ved maksimal belastning. I forhold til neste produksjonssyklus 
+planlegges tiltak. 
+Dersom noen av undersøkelsene viser tilstand 4 vil det være 
+overbelastning. 
+4-meget dårlig 
+Overbelastning 
+ 
+Følgende utstyr ble anvendt i denne undersøkelsen: 
+Grabb: Van Veen grabb (0,025/ 0,04 m2) 
+Sikt 1 mm: Akvaplan-niva 
+pH måler: Elektrode, YSI Professional Plus 
+Redox-måler: Elektrode, YSI Professional Plus 
+Posisjonsbestemmelse – GPS map 62s 
+Digitalkamera 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 7 av 24 
+3 Lokalitetsbeskrivelse, drift og stasjonsplassering 
+3.1 Lokalitetsbeskrivelse og drift 
+Lokaliteten ligger plassert langs land direkte øst for Pundsvikneset og nord for Djupvikneset, 
+sentralt i Ofotfjorden. Bunnen under anlegget skråner bratt fra land, med både en østgående 
+skråning fra Pundsvikneset og en slakere nordgående skråning fra Djupvikneset. Dypet under 
+anlegget varierer fra 79 meter i vestre ende til 417 meter i nordøstre ende. Det er ingen terskler 
+mellom lokaliteten og Ofotfjordens sentrale dypområder. 
+Anlegget består av en rammefortøyning med 2 x 8 bur og det er brukt merder med 160 meters 
+omkrets i denne generasjonen. I inneværende produksjon er åtte av burene benyttet, fem på den 
+sørlige merdrekken og tre på den nordlige merdrekken. Anlegget fikk ny plassering i 2021.  
+Pundsvik har en midlertidig MTB på 4776 tonn ut året 2023. Inneværende produksjon er første 
+produksjonssyklus på nåværende plassering. Fisk ble satt ut på lokaliteten i perioden 23.08.2021 til 
+07.11.2021 med en snittvekt på 110,4 g. Ved undersøkelsestidspunktet var stående biomasse på 
+2097 tonn, og fisken hadde en snittvekt på 6,3 kg. Det var produsert 5996 tonn, med tilhørende 
+fôrforbruk på 6768 tonn. 4069 tonn var allerede utslaktet på undersøkelsestidspunktet. Lokaliteten 
+var planlagt ferdig utslaktet i april 2023. Neste utsett er planlagt i oktober 2023 (pers. med. 
+Pedersen). 
+Tabell 2 Viser produksjon og fôrforbruk for inneværende generasjon. Ettersom anleggsplassering 
+ikke overlapper med tidligere plassering, inngår kun driftsdata fra nåværende plassering. 
+Tabell 2. Produksjon og fôrforbruk for lokaliteten Pundsvik, data er innhentet fra oppdragsgiver. 
+Generasjon av fisk (G) 
+Produksjon (tonn) 
+Fôrforbruk (tonn) 
+Inneværende generasjon 
+5996 tonn 
+6768 tonn 
+ 
+3.2 
+Nåværende og tidligere undersøkelser 
+Tabell 3 viser resultat og dato for prøvetaking ved de siste B-undersøkelsene på lokalitet. Kun 
+undersøkelser gjort ved nåværende plassering er inkludert i rapporten.  
+Tabell 3. Foreliggende og tidligere gjennomførte B-undersøkelser ved lokaliteten. 
+Dato 
+prøvetaking 
+Rapportnummer 
+Type undersøkelse 
+Lokalitetstilstand 
+15-16.03.2023, 
+21.04.2023 
+64750.01 
+(Justad & Lippestad, 2023) 
+Forundersøkelse med B-metodikk 
+1 
+15-16.03.2023 
+64742.01 
+(Lippestad, 2023) 
+Høyeste belastning 
+1 
+11.04.2018 
+60073.03 
+(Eriksen, 2018) 
+Forundersøkelse med B-metodikk 
+1 
+ 
+3.3 
+Spredningsstrøm 
+Dominerende strømretning på spredningsdyp (71 m) er mot sørøst (120-135 grader) med 
+returstrøm mot vest-nordvest (285 grader). Gjennomsnittlig strømhastighet er målt til 4,9 cm/s. 
+Høyeste strømhastighet er målt til 20,5 cm/s og 4,5% av målingene er < 1 cm/s (Heggem, 2018). 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 8 av 24 
+3.4 
+Stasjonsopplysninger 
+Stasjonsplassering ble bestemt gjennom vurdering av lokalitetens bunntopografi, konfigurasjon og 
+i henhold til Statsforvalteren i Nordland sine retningslinjer ifm. forundersøkelser og søknad om 
+endringer ved eksisterende lokaliteter i sjø, og er beskrevet i Figur 2 og Tabell 4.  
+Stasjoner ble satt for å kartlegge anleggssonen best mulig. Prøvene ble hentet fra dyp som varierte 
+fra 341 meter (st. 7) som dypest og 89 meter (st. 21) som grunnest. Stasjon 1-15 ble prøvetatt i 
+forbindelse med undersøkelsen gjort ved maksimal belastning på lokaliteten (Lippestad, 2023). 
+Supplerende stasjoner (st. 16-21) ble senere prøvetatt for å dekke hele anleggssonen.  
+Det lyktes ikke å få godkjente prøver fra den østlige delen av anlegget, da dypet under denne delen 
+av anlegget varierer fra 315-417 meter. NS 9410:2016 kap. 7.6, merknad 3 sier at "prøvetaking med 
+grabb på store dyp kan være tidkrevende og vanskelig å få til for eksempel i bratte fjellskråninger … 
+Grabbskudd fordeles så godt som mulig". Denne delen av anlegget ble derfor ikke prøvetatt under 
+forundersøkelsen. Stasjonsplasseringen vurderes som representativ for undersøkelse av 
+anleggssonen og iht. beskrivelse i NS 9410:2016.  
+ 
+Figur 2. Stasjonsoversikt ved forundersøkelse med B-metodikk, Pundsvik, 2023. Prøvetakingsstasjonene er tegnet inn 
+med fargekode som beskriver tilstand iht NS 9410:2016 (1 = blå, 2 = grønn, 3 = gul, 4 = rød). Strømrose (til høyre) viser 
+retning av vanntransport ved spredningsdyp på lokaliteten (Heggem, 2018). Rødt flagg markerer posisjonen til 
+strømmåleren. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 9 av 24 
+Tabell 4. Posisjon og dybde for prøvetakningsstasjonene som inngår i forundersøkelsen med B-metodikk, Pundsvik, 
+2023. Koordinatene er oppgitt i WGS84, grader og desimalminutter (DMM). 
+Stasjonsnummer 
+Nordlig bredde 
+Østlig lengde 
+Dyp (m) 
+1  
+68ᵒ25.195'  
+16ᵒ46.614'  
+125  
+2  
+68ᵒ25.179'  
+16ᵒ46.661'  
+139  
+3  
+68ᵒ25.190'  
+16ᵒ46.805'  
+190  
+4  
+68ᵒ25.194'  
+16ᵒ46.942'  
+228  
+5  
+68ᵒ25.207'  
+16ᵒ47.101'  
+287  
+6  
+68ᵒ25.215'  
+16ᵒ47.251'  
+326  
+7  
+68ᵒ25.233'  
+16ᵒ47.286'  
+341  
+8  
+68ᵒ25.275'  
+16ᵒ47.117'  
+307  
+9  
+68ᵒ25.292'  
+16ᵒ47.075'  
+315  
+10  
+68ᵒ25.282'  
+16ᵒ46.936'  
+280  
+11  
+68ᵒ25.273'  
+16ᵒ46.787'  
+218  
+12  
+68ᵒ25.259'  
+16ᵒ46.745'  
+192  
+13  
+68ᵒ25.245'  
+16ᵒ46.778'  
+199  
+14  
+68ᵒ25.255'  
+16ᵒ46.926'  
+258  
+15  
+68ᵒ25.262'  
+16ᵒ47.059'  
+292  
+16 
+68ᵒ25.191' 
+16ᵒ46.503' 
+97 
+17 
+68ᵒ25.241' 
+16ᵒ46.463' 
+93 
+18 
+68ᵒ25.250' 
+16ᵒ46.512' 
+107 
+19 
+68ᵒ25.254' 
+16ᵒ46.588' 
+132 
+20 
+68ᵒ25.250' 
+16ᵒ46.636' 
+149 
+21 
+68ᵒ25.204' 
+16ᵒ46.444' 
+89 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 10 av 24 
+4 Resultater   
+Resultatene fra klassifiseringen er vist i Tabell 5. Fullstendig utfylt prøveskjema med utregning av 
+karakter på prøvene er vist i Vedlegg 7.1. Bilder av prøvematerialet er vist i Vedlegg 7.2. 
+Tabell 5. Resultat fra klassifisering av anleggssonen ved Pundsvik. 
+Parameter 
+Tilstand 
+Gruppe II - parametere (pH/Eh) 
+Gruppe III – parametere, (sensorisk)  
+Gruppe II + III – parametere (middelverdi) 
+1 
+1 
+1 
+LOKALITETSTILSTAND 
+1 
+ 
+Totalt ble det tatt 37 grabbskudd fordelt på 21 stasjoner, og det ble registrert 57 % bløtbunn og 43 % 
+hardbunn. Undersøkelsen gjennomført ved maksimal organisk belastning (st. 1-15) ble prøvetatt 
+med 0,04 m2 grabb og de supplerende stasjonene (st. 16-21) ble prøvetatt med 0,025 m2 grabb. 
+Sedimenttypen på lokaliteten var variert, men foruten fjellbunn ble primærsedimentet i hovedsak 
+definert som sand, siltig sand eller leire med innslag av skjellsand. Det ble funnet dyr på 16 av 
+stasjonene. Børstemark var den dominerende dyregruppen, men det ble også funnet et betydelig 
+antall skjell (20-50 individer) på fem av stasjonene. 
+Foruten stasjon 6, som fikk tilstand 3 – "Dårlig" for gruppe II parametre, ble pH målt fra 7,47 til 7,75 
+og Eh målt fra 133 til 370. Dette ga tilstand 1 – "Meget god" for 11 stasjoner. For ti stasjoner lyktes det 
+ikke å innhente nok sediment til å måle gruppe II parametre, disse stasjonene ble merket som "ut" 
+og ble vurdert for gruppe III parametre. 
+Det ble ikke observert gassbobling på noen av stasjonene. Fire stasjoner viste misfarge i sedimentet, 
+tre stasjoner hadde noe avvikende lukt og én stasjon hadde sterkt avvikende lukt. Stasjonen med 
+sterkt avvikende lukt (st. 6) hadde også løs sedimentkonsistens. Fôrrester, fekalier eller 
+bakteriebelegg ble ikke observert på noen av stasjonene.  
+Av de undersøkte stasjonene ble det tilstand 1 – "Meget god" på 20 stasjoner og tilstand 3 – "Dårlig" 
+på én stasjon.  
+Samlet tilstand for lokaliteten ble 1 – "Meget god". 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 11 av 24 
+5 
+Sammenfattende vurdering  
+Ut fra vurderingskriteriene i NS 9410:2016 er det dokumentert at det undersøkte området under 
+anlegget på prøvetidspunktene fikk tilstand 1 – "Meget god". 20 stasjoner fikk tilstand 1 – "Meget god" 
+og én stasjon fikk tilstand 3 – "Dårlig".  
+Foreliggende undersøkelse er gjennomført som en del av en forundersøkelse, i forbindelse med 
+søknad om økt MTB på lokaliteten. Det ble tatt 37 grabbskudd med Van Veen grabb (0,04 m2 for st. 
+1-15 og 0,025 m2 for st. 16-21) fordelt på 21 stasjoner. Stasjon 1-15 er undersøkt som en del av 
+anleggets ordinære frekvens for B-undersøkelser, og er tatt ved merder hvor det har vært 
+produksjon. Stasjon 16-21 er supplerende stasjoner som er prøvetatt for å dekke en større del av 
+anleggssonen. 
+Det ble gjort forsøk på å innhente prøver med liten grabb (0,025 m2) i de dypeste områdene øst i 
+anlegget (310-417 meters dyp), men det lyktes ikke å få sediment da grabben ikke løste seg ut. 
+Dermed ble det vurdert i felt at det ikke var hensiktsmessig å prøve videre med liten grabb for denne 
+delen av anlegget. 
+I henhold til NS 9410:2016 kap. 7.10 defineres lokaliteten som en bløtbunnslokalitet, med 57 % 
+bløtbunn og 43 % hardbunn. Videre overvåking i driftsfasen med B-metodikk ansees som 
+hensiktsmessig, men det anbefales å benytte stor grabb (0,1 m2) for fremtidige undersøkelser. 
+Resultatene fra forundersøkelsen type B viste naturlige forhold uten tegn til organisk belastning i 
+det meste av anleggssonen, unntatt ved stasjon 6. Dette er i området hvor det har vært drift på 
+lokaliteten og hovedstrømretningen peker delvis inn mot skråningen i sør og sørøst for anlegget, 
+som kan medføre at nedfall hoper seg opp i dette området.  
+Det undersøkte området under anlegget gis tilstand 1 – "Meget god" i henhold til beregninger og 
+metodikk beskrevet i NS 9410:2016.  
+ 
+NS 9410:2016 angir ikke undersøkelsesfrekvens knyttet til bruk av B-undersøkelser ved 
+forundersøkelser. Iht. forskrift om drift av akvakultur (akvakulturforskriften) § 35 skal første 
+miljøundersøkelse gjennomføres i det tidspunktet i produksjonssyklusen det er størst 
+belastning eller biomasse på lokaliteten, deretter skal det gjennomføres miljøundersøkelser 
+etter frekvenser som følger av NS 9410:2016. 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 12 av 24 
+6 Litteratur 
+Eriksen, S.D., 2018. Ballangen Sjøfarm AS. Forundersøkelse type B, april 2018. Nye Pundsvik.  
+APN-60073.03. 
+Forskrift om drift av akvakulturanlegg (akvakulturdriftsforskriften) §§ 35 og 36. 
+Heggem, T., 2018. Ballangen Sjøfarm AS. Strømmålinger Nye Pundsvik. 5 m, 15 m, spredning- og 
+bunndyp. APN-60057.01. 
+ISO 5667-19:2004. Guidance on sampling of marine sediments. 
+Lippestad, L., 2023. B-undersøkelse ved Pundsvik (45060), mars 2023. Maksimal organisk belastning. 
+Ballangen Sjøfarm AS. APN-64742.01. 
+Norsk Standard NS 9410:2016. Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg. 
+Pers med. Kent David Pedersen, kvalitetskoordinator, Ballangen Sjøfarm AS. 
+Veiledning til krav om forundersøkelser i henhold til NS9410:2016 i forbindelse med søknad om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark fylker. Versjon 1, 04.04.2018. 
+https://www.statsforvalteren.no/nb/Nordland/  
+www.fiskeridir.no  
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 13 av 24 
+7 Vedlegg 
+7.1 Skjema (B.1 og B.2) NS 9410:2016  
+ 
+Prøveskjema B.1 
+Gr
+Parameter Poeng
+Prøvepunkt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+B
+H
+B
+B
+B
+B
+B
+B
+B
+B
+I
+Dyr > 1mm
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+II
+pH
+7,47
+UT
+7,57
+7,58
+7,50
+7,09
+7,48
+7,75
+7,55
+7,68
+-58
+UT
+156
+159
+-67
+-251
+-1
+65
+90
+95
+142
+356
+359
+133
+-51
+199
+265
+290
+295
+pH/Eh
+0
+ut
+0
+0
+0
+3
+0
+0
+0
+0
+Tilstand, prøve
+1
+ut
+1
+1
+1
+3
+1
+1
+1
+1
+Buf f er-
+t emp
+21,0 C
+Sjø - temp
+2,4 C
+3,7 C
+p H sjø
+ORP sjø
+261 mV
+Eh sjø
+461 mV
+200 mV
+III
+Gassbobler
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2
+2
+4
+0
+0
+0
+2
+2
+2
+2
+2
+2
+4
+0
+0
+0
+1
+1
+2
+2
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4,0
+0,0
+1,0
+3,0
+8,0
+10,0
+6,0
+4,0
+4,0
+4,0
+0,9
+0,0
+0,2
+0,7
+1,8
+2,2
+1,3
+0,9
+0,9
+0,9
+ Tilstand prøve
+1
+1
+1
+1
+2
+3
+2
+1
+1
+1
+0,4
+0,0
+0,1
+0,3
+0,9
+2,6
+0,7
+0,4
+0,4
+0,4
+1
+1
+1
+1
+1
+3
+1
+1
+1
+1
+pH / Eh ID
+side 1 av 8 sider
+#31/ #19
+Sum
+Korrigert ('*0,22)
+Middelverdi gruppe II og III
+Tilstand prøve
+Grabb ID
+K-4/ K-27
+Grabb- 
+volum (v)
+v < 1/4 (0)
+1/4 < v < 3/4 (1)
+v > 3/4 (2)
+Tykkelse 
+på slamlag
+t < 2 cm (0)
+2 < t < 8 cm (1)
+t > 8 cm (2)
+Lukt
+Ingen (0)
+Noe (2)
+Sterk (4)
+Konsistens
+Fast (0)
+Myk (2)
+Løs (4)
+Sed iment- t emp
+8,00
+Ref eranse-
+elekt rode
+Ja (4)  Nei (0)
+Farge
+Lys/grå (0)
+Brun/sort (2)
+verdi
+Eh (mV)
+ORP
+med ref. verdi
+Firma:
+Ballangen Sjøfarm AS
+Dato:
+15- 16 .0 3 , 2 1.0 4 .2 0 2 3
+Lokalitet: 
+Pundsvik
+Lokalitetsnr: 
+45060
+fra figur
+Prøvetakingsansvarlig:
+Ludvik Lippestad/ Steinar D. Eriksen
+Bunntype: B (bløt) eller H (hard)
+Ja (0)   Nei (1)
+ 
+Akvaplan-niva 2023 64750.01   
+Side 14 av 24 
+ 
+ 
+ 
+Prøveskjema B.1
+Gr
+Parameter
+Poeng
+Prøvepunkt
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+B
+H
+H
+H
+B
+H
+B
+H
+H
+H
+I
+Dyr > 1mm
+0
+0
+0
+0
+0
+1
+0
+1
+1
+1
+II
+pH
+7,50
+UT
+UT
+UT
+7,66
+UT
+UT
+UT
+UT
+UT
+-9
+UT
+UT
+UT
+170
+UT
+UT
+UT
+UT
+UT
+191
+370
+pH/Eh
+0
+ut
+ut
+ut
+0
+ut
+ut
+ut
+ut
+ut
+Tilstand prøve
+1
+ut
+ut
+ut
+1
+ut
+ut
+ut
+ut
+ut
+Buf f er-
+t emp
+21,0 C
+Sjø- t emp
+2,4 C
+3,7 C
+pH sjø
+ORP sjø
+261 mV
+Eh sjø
+461 mV
+200 mV
+III
+Gassbobler
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2,0
+0,0
+0,0
+0,0
+6,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,4
+0,0
+0,0
+0,0
+1,3
+0,0
+0,0
+0,0
+0,0
+0,0
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+0,2
+0,0
+0,0
+0,0
+0,7
+0,0
+0,0
+0,0
+0,0
+0,0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+pH / Eh ID
+side 2 av 8 sider
+15- 16 .0 3 , 2 1.0 4 .2 0 2 3
+Lokalitet: 
+Pundsvik
+Lokalitetsnr: 
+45060
+Firma:
+Ballangen Sjøfarm AS
+Dato:
+Prøvetakingsansvarlig:
+Ludvik Lippestad/ Steinar D. Eriksen
+Bunntype: B (bløt) eller H (hard)
+Ja (0)   Nei (1)
+8
+Ref eranse-
+elekt ro de
+Ja (4)  Nei (0)
+Sed iment - t emp
+verdi
+Eh (mV)
+verdi
+med ref. verdi
+fra figur
+Farge
+Lys/grå (0)
+Brun/sort (2)
+Lukt
+Ingen (0)
+Noe (2)
+Sterk (4)
+Konsistens
+Fast (0)
+Myk (2)
+Løs (4)
+Sum
+Korrigert ('*0,22)
+Tilstand prøve
+Grabb- 
+volum (v)
+v < 1/4 (0)
+1/4 < v < 3/4 (1)
+v > 3/4 (2)
+Tykkelse på 
+slamlag
+t < 2 cm (0)
+2 < t < 8 cm (1)
+t > 8 cm (2)
+Middelverdi gruppe II og III
+Tilstand prøve
+#31/ #19
+Grabb ID
+K-4/ K-27
+ 
+Akvaplan-niva 2023 64750.01   
+Side 15 av 24 
+ 
+ 
+ 
+Prøveskjema B.1
+Gr
+Parameter
+Poeng
+Prøvepunkt
+Indeks
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+B%
+H%
+H
+57
+43
+I
+Dyr > 1mm
+1
+II
+pH
+UT
+UT
+pH/Eh
+ut
+Tilstand prøve
+ut
+Tilstand, gruppe II
+1
+B uf f er-
+t emp
+21,0 C
+Sjø- t emp
+2,4 C
+Sediment -
+t emp
+3,7 C
+p H sjø
+OR P sjø
+261 mV
+Eh sjø
+461 mV
+200 mV
+III
+Gassbobler
+0
+0
+0
+0
+0
+0
+0,0
+0,0
+1
+0,0
+1
+1
+2
+3
+4
+LOKALITETSTILSTAND: 
+pH / Eh ID
+side 3 av 8 sider
+15- 16 .0 3 , 2 1.0 4 .2 0 2 3
+Lokalitet: 
+Pundsvik
+Lokalitetsnr: 
+45060
+Firma:
+Ballangen Sjøfarm AS
+Dato:
+Prøvetakingsansvarlig:
+Ludvik Lippestad/ Steinar D. Eriksen
+Bunntype: B (bløt) eller H (hard)
+Ja (0)   Nei (1)
+verdi
+Eh (mV)
+verdi
+med ref. verdi
+0,27
+8
+R ef eranse-
+elekt ro de
+Ja (4)  Nei (0)
+Farge
+Lys/grå (0)
+Brun/sort (2)
+fra figur
+Lukt
+Ingen (0)
+Noe (2)
+Sterk (4)
+Konsistens
+Fast (0)
+Myk (2)
+Løs (4)
+Grabb- 
+volum (v)
+v < 1/4 (0)
+1/4 < v < 3/4 (1)
+v > 3/4 (2)
+Tykkelse på 
+slamlag
+t < 2 cm (0)
+2 < t < 8 cm (1)
+t > 8 cm (2)
+Sum
+Korrigert ('*0,22)
+0,54
+Tilstand prøve
+Tilstand gruppe III
+1
+0,34
+Tilstand prøve
+1
+pH/Eh
+Tilstand
+Korr.sum
+Indeks
+Middelverdi
+Tilstand gruppe II og III
+Grabb ID
+K-4/ K-27
+< 1,1
+Middelverdi gruppe II og III
+#31/ #19
+1,1 - <2,1
+2,1 - <3,1
+≥3,1
+1
+ 
+Akvaplan-niva 2023 64750.01   
+Side 16 av 24 
+Prøveskjema B.2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+125
+139
+190
+228
+287
+326
+341
+307
+315
+1
+2
+2
+2
+1
+1
+1
+1
+1
+Leire
+(X)
+(X)
+(X)
+X
+X
+X
+X
+Silt
+X
+X
+(X)
+X
+(X)
+(X)
+Sand
+X
+X
+X
+(X)
+Grus
+Skjellsand
+(X)
+(X)
+(X)
+(X)
+(X)
+(X)
+X
+1
+1
+1
+1
+2
+11
+7
+1
+37
+50
+25
+100
+35
+100
+100
+100
+100
+100
+100
+100
+side 4 av 6 sider
+Kommentar
+St 2: ett forsøk med tom grabb, ett forsøk med for lite sediment
+St 3: ett forsøk med tom grabb, andre forsøk OK
+St 4: ett forsøk med tom grabb, andre forsøk OK
+St 8: terrestrisk materiale i prøven
+Grabb
+Areal  [m 2]
+0,04/0,025
+Grabb ID
+K-4/ K-27
+Beggiatoa
+Fôr 
+Fekalier
+Andre dyr, totalt antall
+Krepsdyr, antall
+Skjell, antall
+20
+Børstemark, antall
+100
+Fjellbunn
+Steinbunn
+Pigghuder, antall
+Antall forsøk 
+1
+Bobling (i prøve)
+Sedimenttype
+X
+(X)
+(X)
+Dyp (m)
+280
+Firma:
+Ballangen Sjøfarm AS
+Dato:
+15-16.03, 21.04.2023
+Lokalitet:
+Pundsvik
+Lokalitetsnr: 
+45060
+Prøvetakingsansvarlig:
+Ludvik Lippest ad/ St einar D . Eriksen
+Prøvepunkt
+10
+ 
+Akvaplan-niva 2023 64750.01   
+Side 17 av 24 
+Prøveskjema B.2
+11
+12
+13
+14
+15
+16
+17
+18
+19
+218
+192
+199
+258
+292
+97
+93
+107
+132
+1
+2
+2
+2
+2
+3
+2
+3
+3
+Leire
+(X)
+Silt
+X
+X
+Sand
+(X)
+(X)
+(X)
+(X)
+X
+X
+X
+X
+Grus
+Skjellsand
+(X)
+(X)
+X
+X
+X
+X
+X
+X
+1
+1
+20
+100
+20
+75
+50
+100
+1
+Dyp (m)
+149
+Firma:
+Ballangen Sjøfarm AS
+Dato:
+15-16.03, 21.04.2023
+Lokalitet:
+Pundsvik
+Lokalitetsnr: 
+45060
+Prøvetakingsansvarlig:
+Ludvik Lippest ad/ St einar D . Eriksen
+Prøvepunkt
+20
+Antall forsøk 
+2
+Bobling (i prøve)
+Sedimenttype
+X
+Fjellbunn
+X
+Steinbunn
+Pigghuder, antall
+Krepsdyr, antall
+Skjell, antall
+Børstemark, antall
+Andre dyr, totalt antall
+Beggiatoa
+Fôr 
+Fekalier
+side 5 av 6 sider
+Kommentar
+St 12: to forsøk med for lite sediment
+St 13: to forsøk med for lite sediment
+St 14: to forsøk med for lite sediment
+St 15: ett forsøk med for lite sediment, andre forsøk med full grabb (penetrert 
+grabbluke)
+St 16, 18, 19, 20: Kun avskrap av fjell
+St 17: Noe sediment, ikke nok til å måle pH/Eh
+Grabb
+Areal  [m 2]
+0,04/0,025
+Grabb ID
+K-4/ K-27
+Prøveskjema B.2
+
+Firma: Ballangen Sjøfarm AS Dato: 15-16.03, 21.04.2023
+Lokalitet: Pundsvik Lokalitetsnr: 45060
+Provetakingsansvarlig: Lud vik Lippestad/ Steinar D. Eriksen
+Provepunkt 21 22 23 24 25 26 27 28 29 30
+Dyp (m) 89
+Antall forsøk 2
+Bobling (i prøve)
+Leire
+Silt
+Sedimenttype Sand x
+Grus
+Skjells and
+Fjellbunn xX
+Steinbunn
+Pigghuder, antall
+Krepsdyr, antall
+Skjell, antall
+Borstemark, antall
+Andre dyr, totalt antall
+Beggiatoa
+For
+Fekalier
+Kommentar St 21: Kun avskrap av fjell
+Grabb Areal [m7] | 0,04/0,025 | Grabb ID K-4/ K-27
+
+Signatur provetakingsansvarlig:
+
+La
+
+side 6 av 6 sider
+
+Akvaplan-niva 2023 64750.01
+Side 18 av 24
+
+ 
+Akvaplan-niva 2023 64750.01   
+Side 19 av 24 
+ 
+7.2 Bilder av prøver ved Pundsvik 
+ 
+St 
+Bilde før sikting 
+Bilde etter sikting 
+1 
+ 
+ 
+2 
+ 
+Ingen bilde grunnet lite sediment. 
+3 
+ 
+ 
+4 
+ 
+ 
+5 
+ 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 20 av 24 
+6 
+ 
+ 
+7 
+ 
+ 
+8 
+ 
+ 
+9 
+ 
+ 
+10 
+ 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 21 av 24 
+11 
+ 
+ 
+12 
+ 
+Ingen bilde grunnet lite sediment. 
+13 
+ 
+Ingen bilde grunnet lite sediment. 
+14 
+ 
+Ingen bilde grunnet lite sediment. 
+15 
+ 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 22 av 24 
+16 
+ 
+Ingen bilde grunnet lite sediment. 
+17 
+ 
+Ingen bilde grunnet lite sediment. 
+18 
+ 
+Ingen bilde grunnet lite sediment. 
+19 
+ 
+Ingen bilde grunnet lite sediment. 
+20 
+ 
+Ingen bilde grunnet lite sediment. 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 23 av 24 
+21 
+ 
+Ingen bilde grunnet lite sediment. 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64750.01   
+Side 24 av 24 
+ 
+7.3 Bunntopografi og 3D-visning 
+ 
+Figur 3. 3-D visning av bunntopografi. Forundersøkelse med B-metodikk, Pundsvik, 2023. Nummererte stasjoner gjengitt 
+i Figur 2 og Tabell 4. Kartet er dreid mot sørøst.

@@ -1,0 +1,402 @@
+﻿Søknad nytt anlegg/flåte konfigurasjon med GPS koordinater ramme, flåter og ankerpunkter lokalitet 10518 Horsvågen november 2020 
+Midtkoordinat anlegg: 
+ 
+68*01.278 
+N 
+15*17.973 
+Ø 
+Merknad: Anleggskonfigurasjonen gjør at det ikke er opplagt hvor midtpunktet ligger. Det valgte/foreslåtte midtpunktket er vist i kartutsnitt. 
+Koordinater rammefortøyning. Hjørnepunkter anlegg merket røde 
+A1 
+68*01.316 
+N 
+15*18.056 
+Ø A2
+ 68*01.288 
+N 
+15*18.101 
+Ø 
+A3 
+68*01.260 
+N 
+15*18.145 
+Ø A4
+ 68*01.233 
+N 
+15*18.190 
+A5 
+68*01.205 
+N 
+15*18.235 
+Ø 
+B1 
+68*01.299 
+N 
+15*17.982 
+Ø B2
+ 68*01.271 
+N 
+15*18.027 
+Ø 
+B3 
+68*01.244 
+N 
+15*18.072 
+Ø 
+B4 
+68*01.216 
+N 
+15*18.117 
+Ø B5
+ 68*01.188 
+N 
+15*18.162 
+Ø 
+C1 
+68*01.368 
+N 
+15*17.787 
+Ø C2
+ 68*01.340 
+N 
+15*17.831 
+Ø 
+C3 
+68*01.313 
+N 
+15*17.876 
+Ø 
+C4 
+68*01.285 
+N 
+15*17.921 
+Ø 
+C5 
+68*01.257 
+N 
+15*17.966 
+Ø 
+C6 
+68*01.229 
+N 
+15*18.010 
+Ø 
+C7 
+68*01.202 
+N 
+15*18.055 
+Ø C8
+ 68*01.174 
+N 
+15*18.100 
+Ø 
+D1 
+68*01.351 
+N 
+15*17.713 
+Ø D2
+ 68*01.323 
+N 
+15*17.757 
+Ø 
+D3 
+68*01.296 
+N 
+15*17.802 
+Ø 
+D4 
+68*01.268 
+N 
+15*17.847 
+Ø 
+D5 
+68*01.240 
+N 
+15*17.892 
+Ø 
+D6 
+68*01.212 
+N 
+15*17.937 
+Ø 
+D7 
+68*01.185 
+N 
+15*17.982 
+Ø 
+D8 
+68*01.157 
+N 
+15*18.027 
+Ø 
+Ankerkoordinater anleggsfortøyninger: 
+Anker-line 1 
+68*01.328 
+N 
+15*18.111 
+Ø 
+Anker-line 2 
+68*01.338 
+N 
+15*18.315 
+Ø 
+Anker-line 3 
+68*01.313 
+N 
+15*18.373 
+Ø 
+Anker-line 4 
+68*01.286 
+N 
+15*18.424 
+Ø 
+Anker-line 5 
+68*01.219 
+N 
+15*18.315 
+Ø 
+Anker-line 6 
+68*01.189 
+N 
+15*18.261 
+Ø 
+Anker-line 7 
+68*01.135 
+N 
+15*18.260 
+Ø 
+Anker-line 8 
+68*01.035 
+N 
+15*18.445 
+Ø 
+Anker-line 9 
+68*01.009 
+N 
+15*18.375 
+Ø 
+Anker-line 10 
+68*00.927 
+N 
+15*18.407 
+Ø 
+Anker-line 11 
+68*00.892 
+N 
+15*18.249 
+Ø 
+Anker-line 12 
+68*01.056 
+N 
+15*17.594 
+Ø 
+Anker-line 13 
+68*01.080 
+N 
+15*17.532 
+Ø 
+Anker-line 14 
+68*01.105 
+N 
+15*17.447 
+Ø 
+Anker-line 15 
+68*01.137 
+N 
+15*17.450 
+Ø 
+Anker-line 16 
+68*01.169 
+N 
+15*17.422 
+Ø 
+Anker-line 17 
+68*01.202 
+N 
+15*17.394 
+Ø 
+ 
+ 
+Anker-line 18 
+68*01.233 
+N 
+15*17.367 
+Ø 
+Anker-line 19 
+68*01.265 
+N 
+15*17.341 
+Ø 
+Anker-line 20 
+68*01.566 
+N 
+15*17.085 
+Ø 
+Anker-line 21 
+68*01.530 
+N 
+15*17.475 
+Ø 
+Anker-line 22 
+68*01.509 
+N 
+15*17.546 
+Ø 
+Anker-line 23 
+68*01.490 
+N 
+15*17.623 
+Ø 
+Anker-line 24 
+68*01.383 
+N 
+15*17.855 
+Ø 
+Anker-line 25 
+68*01.355 
+N 
+15*17.894 
+Ø 
+Anker-line 26 
+68*01.352 
+N 
+15*17.899 
+Ø 
+Anker-line 27 
+68*01.332 
+N 
+15*17.960 
+Ø 
+Anker-line 28 
+68*01.338 
+Koordinater  flåte 1 
+Flåtehjørner: 
+N 
+15*18.021 
+Ø 
+Hjørne E1: 
+68*01.168 
+N 
+15*18.160 
+Ø 
+Hjørne E2: 
+68*01.150 
+N 
+15*18.190 
+Ø 
+Hjørne E3: 
+68*01.144 
+N 
+15*18.165 
+Ø 
+Hjørne E4: 
+68*01.163 
+Ankerliner flåte 1 
+N 
+15*18.135 
+Ø 
+Anker-line F1 
+68*01.303 
+N 
+15*18.094 
+Ø 
+Anker-line F2 
+68*01.203 
+N 
+15*18.270 
+Ø 
+Anker-line F3 
+68*01.157 
+N 
+15*18.247 
+Ø 
+Anker-line F4 
+68*01.118 
+N 
+15*18.288 
+Ø 
+Anker-line F5 
+68*01.041 
+N 
+15*18.250 
+Ø 
+Anker-line F6 
+68*01.098 
+N 
+15*18.053 
+Ø 
+Anker-line F7 
+68*01.143 
+N 
+15*17.970 
+Ø 
+Anker-line F8 
+68*01.260 
+Koordinater  flåte 2 
+Flåtehjørner: 
+N 
+15*17.864 
+Ø 
+Hjørne H1: 
+68*01.244 
+N 
+15*18.328 
+Ø 
+Hjørne H2: 
+68*01.234 
+N 
+15*18.348 
+Ø 
+Hjørne H3: 
+68*01.231 
+N 
+15*18.338 
+Ø 
+Hjørne H4: 
+68*01.241 
+Ankerliner flåte 2 
+N 
+15*18.318 
+Ø 
+Anker-line J1 
+68*01.239 
+N 
+15*18.428 
+Ø 
+Anker-line J2 
+68*01.268 
+N 
+15*18.413 
+Ø 
+Anker-line J3 
+68*01.273 
+N 
+15*18.324 
+Ø 
+Anker-line J4 
+68*01.264 
+N 
+15*18.239 
+Ø 
+Anker-line J5 
+68*01.225 
+N 
+15*18.191 
+Ø 
+Anker-line J6 
+68*01.220 
+N 
+15*18.320 
+Ø 
+Anker-line J7 
+68*01.224 
+N 
+15*17.353 
+Ø 
+Anker-line J8 
+68*01.226 
+N 
+15*17.362 
+Ø 
+Storskjæret 11/09-2019 
+Frode Holmvåg

@@ -1,0 +1,3610 @@
+﻿2021
+Etter Veileder M-350 og M-409
+VIDAR STRØM
+152-4-21SK GALTNESET
+Analyse av miljøgifter i sediment ved Galtneset
+i Træna kommune, april 2021
+Gaia Salmon AS
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+2 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Rapportens tittel: 
+Analyse av miljøgifter i sediment ved Galtneset i Træna, april 2021 
+Forfatter: Vidar Strøm 
+Feltdato: 20.04.2021 
+Toktleder: Sven Keizer 
+Rapportdato: 01.07.2021 
+Rapportnummer: 152-4-21SK 
+Antall sider uten vedlegg: 15 
+Antall sider totalt: 59 
+Oppdragsgiver: Gaia Salmon AS 
+Kontaktperson: Bjarne Bjørkan 
+Fylke: Nordland 
+Kommune: Træna 
+Sammendrag 
+ 
+Aqua Kompetanse AS har gjennomført sedimentuttak og vurdering av miljøgifter i sedimentet etter 
+metodikk beskrevet i Veileder M-350 og M-409 utgitt av Miljødirektoratet. Eurofins Miljøanalyse AS 
+har utført analyser av prøvematerialet, og Aqua Kompetanse AS har stått for vurderinger av 
+analyseresultatene.  
+ 
+Tiltaksområdet ved Galtneset er på om lag 17 000 m2, og det er tatt ut prøver fra fem forskjellige 
+stasjoner. Det ble funnet forhøyet nivå av TBT ved én stasjon. For antracen var detekteringsgrense 
+over grensen mellom TK II og TK III, og denne havnet derfor innen TK III. For alle andre stoffer som 
+ble analysert, ble det målt konsentrasjoner innen tilstandsklasse I «bakgrunnsnivå» eller II «god». 
+Ingen konsentrasjoner av stoffer oversteg grenseverdien for risikovurdering Trinn 1. 
+Toksisitetsnivået var lavere enn grenseverdiene satt av Miljødirektoratet i veileder M-409.  Tiltaket 
+er søknadspliktig etter forurensningsloven, og før utfyllingsarbeidet kan begynne skal det foreligge 
+tillatelse fra Statsforvalteren i Nordland. 
+ 
+Emneord: 
+Miljøanalyse; sediment; prøvetaking; tilstand; miljøgifter; tungmetaller; toksisitet 
+ID 505-8 
+Rapporten er tilgjengelig 
+ved forespørsel 
+Rapportansvarlig: 
+ 
+ 
+Vidar Strøm 
+ 
+Kvalitetssikrer: 
+ 
+Sven Keizer 
+ 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org. Nr.: 982 226 163 
+© 2021 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+3 
+Forord 
+Aqua Kompetanse AS er engasjert av Gaia Salmon AS for å foreta miljøundersøkelser i forbindelse med tiltak 
+som omfatter fylling i sjø. Aqua Kompetanse AS har gjennomført feltarbeid for å innhente prøvemateriale, 
+og akkrediterte analyser av dette prøvematerialet er utført av Eurofins Environmental Testing Norway AS. 
+Det er Aqua Kompetanse AS som har stått for vurdering av analyseresultatene i henhold til grenseverdier og 
+klassifiseringer gitt i M-608:2016. Standarder og veiledere som er benyttet i denne undersøkelsen er gitt i 
+Tabell 1. 
+ 
+Tabell 1: Standarder og veiledere benyttet for denne undersøkelsen. 
+Standard/Veileder 
+Tittel 
+Bruksområde 
+M-350:2015 
+Veileder for håndtering av sedimenter. 
+Vurdering av undersøkelsestyper og 
+prøvetakingsomfang basert på 
+tiltaksstørrelse 
+M-409:2015 
+Risikovurdering av forurenset sediment. 
+Prøvetaking 
+M-608:2016 
+Grenseverdier for klassifisering av vann, sediment 
+og biota – revidert 30.10.2020. 
+Grenseverdier og klassifisering av 
+miljøgifter i sediment 
+SFT 97:03 
+Klassifisering av miljøkvalitet i fjorder og 
+kystfarvann. 
+Grenseverdier og klassifisering av nTOC. 
+NS-EN ISO 5667: 
+2004 
+Vannundersøkelse – Prøvetaking- Del 19: 
+Veiledning i sedimentprøvetaking i marine 
+områder. 
+Prøvetaking 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+4 
+Innholdsfortegnelse 
+Forord ................................................................................................................................................................ 2 
+Innholdsfortegnelse .......................................................................................................................................... 4 
+1. 
+Introduksjon .............................................................................................................................................. 5 
+2. 
+Materiale og metode ................................................................................................................................ 5 
+2.1 Stasjonsplassering og antall stasjoner .................................................................................................... 5 
+2.2 Prøvetakingsprogram .............................................................................................................................. 6 
+2.2.1 Tungmetaller .................................................................................................................................... 7 
+2.2.2 PAH .................................................................................................................................................. 8 
+2.2.3 PCB ................................................................................................................................................... 8 
+2.2.4 TBT ................................................................................................................................................... 8 
+2.2.5 Normalisert TOC .............................................................................................................................. 9 
+2.3 Prøvetakings- og analysemetodikk ......................................................................................................... 9 
+2.4 Risikovurdering Trinn 1 ........................................................................................................................... 9 
+2.4.1 Toksisitetstest .................................................................................................................................. 9 
+3. 
+Resultater ................................................................................................................................................ 11 
+3.1 Risikovurdering Trinn 1 ......................................................................................................................... 12 
+3.1.1 Toksisitetstest ................................................................................................................................ 13 
+4. 
+Oppsummering og konklusjon ................................................................................................................ 14 
+5. 
+Referanser ............................................................................................................................................... 15 
+Vedlegg A – Analyserapport fra Eurofins Miljøanalyse AS .............................................................................. 16 
+Vedlegg B – Analyserapport fra Eurofins Environment Testing AS - Toksisitetstest ....................................... 32 
+ 
+ 
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+5 
+1. Introduksjon 
+Tiltaksområdet ligger på øya Træna på Nordlandskysten (Figur 1).  Tiltaksområdet er et planlagt 
+utfyllingsområde ved moloen på Galtneset. 
+ 
+Tiltaksområdet dekker et areal på om lag 17 000 m2. Aqua Kompetanse AS har utført prøvetaking av sediment 
+i tiltaksområdet for analyse av miljøgifter, tungmetaller, og toksisitet. 
+ 
+ 
+Figur 1: Det planlagte tiltaksområdet ved moloen på Galtneset er markert som sort firkant med blå innramming. 
+Kartkilde: norgeibilder.no 
+ 
+ 
+2. Materiale og metode 
+Prøveinnsamling ble utført av Sven Keizer fra Aqua Kompetanse AS den 20.04.2021 i henhold til 
+prøvetakingsmetodikk beskrevet i M-409 og NS-EN ISO 5667:2004. Akkrediterte analyser av dette 
+prøvematerialet er utført av Eurofins Environmental Testing Norway AS. Det er Aqua Kompetanse AS som 
+har stått for vurdering av analyseresultatene i henhold til grenseverdier og klassifiseringer gitt i M-608:2016. 
+ 
+ 
+2.1 Stasjonsplassering og antall stasjoner 
+Ifølge M-608 skal det, dersom tiltaksområdet er grunnere enn 20 meter, tas prøver fra minimum 5 
+prøvestasjoner, hvor hver stasjon ikke skal representere mer enn 10 000 m2 havbunn. Videre sier M-608 at 
+det bør anskaffes sedimentprøver fra 3 stasjoner også for tiltaksområder < 30 000 m2.  
+ 
+Tiltaksområdet ved Galtneset er på om lag 17 000 m2. Det er derfor tatt ut 5 stasjoner. Figur 2 viser 
+tiltaksområdet med avmerkede prøvestasjoner, og Tabell 2 angir posisjon for prøvestasjonene. 
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+6 
+ 
+Figur 2: Oversiktskart som viser Galtneset, og stasjonsplassering i tiltaksområdet ved moloen (stasjoner er angitt med 
+røde flagg). Målestokk vises i venstre hjørne. Kartverktøy: Olex AS. 
+ 
+Tabell 2: Oversikt over koordinater og dybde til prøvestasjonene.  
+Stasjoner 
+Gal1  
+Gal2 
+Gal3 
+Gal4 
+Gal5 
+Koordinater  
+66°30.350N 
+12°06.386Ø 
+.388 
+.321 
+.381 
+.396 
+.377 
+.486 
+.408 
+.439 
+Stasjonsdyp 
+(m) 
+8 
+9 
+10 
+11 
+10 
+ 
+ 
+2.2 Prøvetakingsprogram 
+Prøvetakingsprogrammet følger M-409 sin minimumsliste til parametervalg av fysiske og kjemiske 
+parametere. Tabell 4 inneholder alle stoffer som er analysert i foreliggende undersøkelse, med grenseverdier 
+og tilstandsklassifisering basert på forventet økende grad av skade på organismer i sedimentet (Tabell 3). I 
+tillegg er det utført analyser av tørrstoff (vanninnhold), total organisk karbon (TOC) og kornfordeling/innhold 
+av silt (< 63m) og leire (< 2m). Grovere sedimenter representerer i liten grad en miljørisiko, da miljøgifter 
+normalt binder seg til fine partikler. 
+ 
+ 
+ 
+ 
+Tabell 3: Tilstandsklassifisering for miljøgifter i sediment i henhold til M-608. Tilstandsklassifiseringene viser en forventet 
+økende grad av skade på organismer i sedimentene. 
+Tilstandsklasser for sediment 
+I 
+Bakgrunn 
+ 
+Bakgrunnsnivå 
+II 
+God 
+ 
+Ingen toksiske 
+effekter 
+III 
+Moderat 
+ 
+Kroniske effekter ved 
+langtidseksponering 
+IV 
+Dårlig 
+ 
+Akutt toksiske 
+effekter ved 
+korttidseksponering 
+V 
+Svært dårlig 
+ 
+Omfattende akutt-
+toksiske effekter 
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+7 
+Tabell 4: Tilstandsklassifisering av metaller og organiske stoffer i marine sedimenter i henhold til M-608.  
+Substans 
+Enhet 
+Tilstandsklasser og grenseverdier 
+I 
+II 
+III 
+IV 
+V 
+Hg – Kvikksølv 
+mg/kg 
+< 0,05 
+0,05 - 0,52 
+0,52 - 0,75 
+0,75 - 1,45 
+> 1,45 
+Cd – Kadmium 
+mg/kg 
+< 0,2 
+0,2 - 2,5 
+2,5 - 16 
+16 - 157 
+> 157 
+Pb – Bly 
+mg/kg 
+< 25 
+25 - 150 
+150 - 1480 
+1480 - 2000 
+2000 - 2500 
+Cu – Kobber 
+mg/kg 
+< 20 
+20 - 84 
+84 - 147 
+> 147 
+Cr – Krom 
+mg/kg 
+< 60 
+60 - 620 
+660 - 6000 
+6000 - 15500 
+15500 - 25000 
+Zn – Sink 
+mg/kg 
+< 90 
+90 - 139 
+139 - 750 
+750 - 6690 
+> 6690 
+Ni – Nikkel 
+mg/kg 
+< 30 
+30 - 42 
+42 - 271 
+271 - 533 
+> 533 
+As – Arsen 
+mg/kg 
+< 15 
+15 - 18 
+18 - 71 
+71 - 580 
+> 580 
+PAH16 – SUM 
+g/kg 
+< 300 
+300 - 2000 
+2000 - 6000 
+6000 - 20000 
+>20000 
+Naftalen 
+g/kg 
+< 2 
+2 - 27 
+27 - 1754 
+1754 - 8769 
+> 8769 
+Acenaftylen 
+g/kg 
+< 1,6 
+1,6 - 33 
+33 - 85 
+85 – 8500 
+> 8500 
+Acenaften 
+g/kg 
+< 2,4 
+2,4 - 96 
+96 - 195 
+195 - 19500 
+> 19500 
+Fluoren 
+g/kg 
+< 6,8 
+6,8 - 150 
+150 - 694 
+694 - 34700 
+>34700 
+Fenantren 
+g/kg 
+< 6,8 
+6,8 - 780 
+780 - 2500 
+2500 - 25000 
+> 25000 
+Antracen 
+g/kg 
+< 1,2 
+1,2 - 4,8 
+4,8 - 30 
+30 – 295 
+> 295 
+Fluoranten 
+g/kg 
+< 8 
+8 - 400 
+400 - 2000 
+> 2000 
+Pyren 
+g/kg 
+< 5,2 
+5,2 - 84 
+84 - 840 
+840 - 8400 
+> 8400 
+Benzo[a]antracene 
+g/kg 
+< 3,6 
+3,6 – 60 
+60 - 501 
+501 - 50100 
+> 50100 
+Benzo[a]pyren 
+g/kg 
+< 6 
+6 - 183 
+183 - 230 
+230 - 13100 
+> 13100 
+Benzo[b]fluoranten 
+g/kg 
+< 90 
+90 - 140 
+140 - 10600 
+> 10600 
+Benzo[k]fluoranten 
+g/kg 
+< 90 
+90 - 135 
+135 - 7400 
+> 7400 
+Krysen/Trifenylen 
+g/kg 
+< 4,4 
+4,4 - 280 
+280 - 2800 
+> 2800 
+Indeno[1,2,3-cd]pyren 
+g/kg 
+< 20 
+20 - 63 
+63 - 2300 
+> 2300 
+Dibenzo[a,h]antracen 
+g/kg 
+< 12 
+12 - 27 
+27 - 273 
+273 - 2730 
+> 2730 
+Benzo[g,h,i]perylen 
+g/kg 
+< 18 
+18 - 84 
+84 - 1400 
+> 1400 
+PCB7 – SUM 
+mg/kg 
+- 
+4,1 
+4,1 - 43 
+43 - 430 
+> 430 
+TBT – Tributyltinn (forvalt.) 
+g/kg 
+< 1 
+1 - 5 
+5 - 20 
+20 - 100 
+> 100 
+ 
+2.2.1 Tungmetaller 
+Åtte tungmetaller er analysert for i denne rapporten i henhold til M-409. Utslipp av samtlige av disse 
+metallene er sterkt redusert de siste årene, men utstrakt bruk tidligere fører til at disse fortsatt finnes i 
+naturen. En del av disse stoffene stammer fra bunnstoff på båter (tinn, sink, bly, arsen og tidligere kobber 
+eller kvikksølv). Felles for disse stoffene er at de er toksiske for det marine miljø, og særlig kobber er svært 
+toksisk for marine organismer. Flere av stoffene er også humantoksisk og kan gi ulike effekter hos menneske. 
+En del av disse metallene bioakkumuleres i organismer og vil oppkonsentreres i næringskjeden og således 
+utgjøre en økt risiko for organismer høyt opp i næringskjeden.  
+ 
+Kvikksølv og kadmium er ansett å være de mest problematisk blant tungmetallene, og er både neurotoksisk, 
+fosterskadelig (teratogen) og kan gi skader på ulike organer. Kvikksølv i miljøet finnes i forskjellige former og 
+forbindelser, og det vil skifte mellom disse avhengig av skiftende miljøforhold. Denne evnen til å inngå i 
+forskjellige forbindelser gjør kvikksølv til en særlig ustabil, og lite kontrollerbar, miljøgift.  
+ 
+Husholdningsspillvann og overvann i det kommunale avløpsvann kan være betydelige kilder til miljøgifter, 
+deriblant tungmetaller som kadmium, kobber, nikkel og sink. Industriell metallproduksjon (jernverk, sinkverk, 
+aluminiumverk, osv), verkstedindustri og skipsindustri (verft, slipper, båtbyggerier, huggerier, sandblåsing, 
+osv) er de viktigste kildene for utslipp i havneområder. Den generelle havnetrafikken bidrar også til 
+forurensing. Malingfabrikker har blant andre vært betydelige kilder for kvikksølvutslipp og bly (blymønje), og 
+bunnstoff fra båter har tilført miljøet både kvikksølv, kobber og tinnorganiske forbindelser.  
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+8 
+2.2.2 PAH 
+PAH (polysykliske aromatiske hydrokarboner) er en samlebetegnelse for organiske forbindelser som består 
+av ulikt antall benzenringer. Toksisiteten til de ulike forbindelsene varierer, og de bioakkumuleres i ulik grad. 
+I hvor stor grad forbindelsene løser seg i vann, og brytes ned, reduseres med økende antall benzenringer. 
+PAH-forbindelsene er reproduksjonstoksiske, karsinogene og/eller mutagene. Ved høy temperatur og 
+forbrenning dannes det enkelt sammensatte PAH-forbindelser med få benzenringer, og disse har lavere 
+toksisitet, som f. eks fenantren, antrasen og pyren. Ved ufullstendig forbrenning av f. eks olje, koks og kull 
+dannes de mer komplekse komponentene som er svært høyaktive og karsinogene, f. eks benzo(a)pyren og 
+dibenzo(a,h)anthrasen. Disse stoffene er ofte høyt alkylerte (mange hydrokarbongrupper).  PAH-er dannes 
+ved alle former for ufullstendig forbrenning (vulkanutbrudd, skogbranner, brenning av avfall, vedfyring, 
+fossilt brensel, o.l.) og kilder til PAH-er i sediment (havneområder) stammer trolig fra bl.a. ufullstendig 
+forbrenning av organiske stoffer, f. eks fossile brensel (olje, kull og koks). PAH kan også knyttes til kull- og 
+sotpartikler fra fyring og drivstoffprodukter, og til tungindustri som f. eks aluminium og ferrolegering. 
+Skipsverft og boreplattformer er også kilde for PAH-forurensing. Kreosot og bek er hhv. tungoljefraksjonen 
+og restproduktet ved destillasjon av steinkulltjære, og begge har hatt stor anvendelse i Norge 
+(aluminiumsindustri, alsfaltproduksjon, impregnering, etc). Steinkulltjæren var tidligere et biprodukt fra 
+steinkull (anthracenkull) benyttet ved de mange gassverkene i byene langs kysten. 
+ 
+2.2.3 PCB 
+PCB (polyklorerte bifenyler) er en gruppe syntetiske klorforbindelser som er akutt giftige i store 
+konsentrasjoner, karsinogene, persistente (tungt nedbrytbare) og bioakkumulerende. Det finnes ca. 200 
+forskjellige PCB-forbindelser, hvorav de høyest klorerte forbindelsene er mest giftige og tyngst nedbrytbare. 
+Fordi PCB har høy fettløselighet både bioakkumuleres forbindelsen og de oppkonsentreres i næringskjeden. 
+PCB er akutt toksisk for marine organismer, og selv i små konsentrasjoner har stoffet kroniske giftvirkninger 
+for både landlevende og vannlevende organismer. Det er vist at PCB er neurotoksisk, karsinogent og 
+reproduksjonstoksisk og fosterskadelig (teratogen) hos mennesker. Stoffet kan også gi svekket 
+immunforsvar, og således øke mottakeligheten for infeksjoner og sykdommer. PCB stammer fra mange ulike 
+kilder. PCB-holdige oljer er blitt brukt i isolasjons- og varmeoverføringsoljer i elektrisk utstyr, som i store 
+kondensatorer og transformatorer, hydrauliske væsker, smøreoljer og vakuumpumper. PCB har også inngått 
+i bygningsmaterialer som fugemasse, isolerglasslim, mørteltilsats og maling. PCB-forbindelser er blitt spredt 
+i miljøet ved utskiftning av PCB-holdig olje, ved utstyrshavarier, ved riving av utstyr, bygninger o. l. PCB ble 
+forbudt å bruke i 1980, men pga. den utstrakte bruken av stoffet måles det fortsatt høye nivåer av PCB 
+enkelte steder. 
+ 
+2.2.4 TBT 
+TBT (Tributyltinn) og TFT (trifenyltinn; ikke undersøkt) er tinnforbindelser som ikke finnes naturlig i 
+omgivelsene. Stoffene er kunstig fremstilt og tungt nedbrytbare og kan bioakkumuleres i organismer. 
+Forbindelsene er klassifisert som både økotoksiske (miljøskadelige), og er meget giftig for flere marine 
+organismer. Forbindelsene er også humantoksiske, og kan forårsake organskader ved langvarig og gjentatt 
+eksponering, samt være reproduksjonstoksisk og teratogen. Stoffene er hormonforstyrrende og de kan gi 
+imposex (endret kjønnskarakteristikk) hos snegler (påvist hos purpursnegl, Nucella lapillus) (Gibbs, et al., 
+1987). TBT og TFT har ikke blitt produsert i Norge, men produkter basert på tinnorganiske forbindelser 
+produseres her i landet. Forbindelsene inngår i produkter som tidligere ble benyttet som bunnstoff (som nå 
+er forbudt), i treimpregneringsmidler, samt i mindre grad i produkter som trebeis og tremaling, 
+desinfeksjonsmidler, konserveringsmidler og rengjøringsmidler. Vann og sediment nært skipsverft, marinaer 
+og trafikkerte havner og skipsleier, inneholder til dels høye nivåer av disse forbindelsene.  
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+9 
+2.2.5 Normalisert TOC 
+Normalisert TOC (nTOC) klassifiseres i henhold til SFT (nå Miljødirektoratet) veileder 97:03 (Molvær et. al. 
+1997), og forutsetter at konsentrasjonen av TOC i sedimentet standardiseres for teoretisk 100% finstoff 
+(pelittandel % <0,063 mm) i henhold til formelen 
+ 
+nTOC = målt TOC + 18 x (1-F) 
+ 
+hvor F er andel av finstoff (Aure et. al., 1993). Tabell 5 gir tilstandsklassifisering av nTOC. 
+ 
+Tabell 5: Tilstandsklassifisering for organisk innhold (nTOC) i marine sedimenter. Gjengitt etter SFT 97:03. 
+Tilstandsklasse 
+I Meget god 
+II God 
+III Moderat 
+IV Dårlig 
+V Svært dårlig 
+nTOC mg/g 
+< 20 
+20 - 27 
+27 - 34 
+34 - 41 
+> 41 
+ 
+Analyselaboratoriet var Eurofins AS, og Aqua Kompetanse AS har vurdert resultatene i henhold til M-608, 
+samt regnet ut innhold av TOC i % og standardisering av nTOC. 
+ 
+2.3 Prøvetakings- og analysemetodikk 
+For posisjonering av toktfartøy ble det nyttet et kartplottersystem av typen Olex, tilkoblet en GPS. 
+Sedimentprøvene ble samlet inn ved hjelp av Van Veen-grabb (0,1 m2). Eventuelt overvann ble drenert bort 
+ved bruk av en hevert, før prøve ble tatt ut ved bruk av metallskje. Ved hver stasjon ble det samlet inn 
+sediment av de øverste 10 cm for analyse av tungmetaller og miljøgifter. I tillegg ble det tatt ut en delprøve 
+fra hver stasjon som til sammen utgjorde én blandeprøve fra alle stasjoner i tiltaksområdet. Denne prøven 
+ble testet for toksisitet.  Alle prøvene ble fryst (-20°C) ned frem til analyse. Det ble også målt pH og 
+redokspotensiale i sedimentet, samt at sensoriske parametere ble registrert. 
+ 
+Prøvene ble sendt til Eurofins Miljøanalyse AS for analyse, og fullstendig analysebevis er gitt i Vedlegg A. 
+ 
+2.4 Risikovurdering Trinn 1 
+Tiltaksområdet ansees å utgjøre en akseptabel risiko dersom gjennomsnittskonsentrasjonen for hver 
+miljøgift over alle prøvene er lavere enn grenseverdien for Trinn 1, og ingen enkeltkonsentrasjon er høyere 
+enn den høyeste av 2x grenseverdien og grensen mellom klasse III og IV for stoffet. I de tilfellene hvor 
+overskridelser er knyttet til en eller få prøvestasjoner bør det vurderes å identifisere en avgrenset del av 
+området som en «hotspot» for forurensning, mens de øvrige delene av området friskmeldes. 
+ 
+2.4.1 Toksisitetstest 
+Det ble utført toksisitetstest på en blandeprøve med sediment fra alle fem stasjonene. Porevann fra 
+sedimentet ble ekstrahert, og fortynnet i fortynningsserier. Man benyttet også positive og negative 
+kontroller, og kontrollparametere som oksygen, salinitet, og pH i porevannet og i kontroll ble målt før og 
+etter 24 timers testen.  Testene ble utført i henhold til veileder M-409, av underleverandør Eurofins 
+Environmental Testing Norway AS. Det ble utført toksisitetstester på larver fra stillehavsøsters (Crassostrea 
+gigas), og hoppekreps (Acartia tonsa).  
+ 
+På basis av toksisitetstesten og doseresponskurve kan konsentrasjonen (angitt i % eller i gram tørrstoff per 
+liter) som gir 50 % effekt over en testperiode på 24 timer beregnes. For østerslarver bruker man 
+abnormaliteter som mål på effekt (EC50-24t), mens for hoppekreps brukes dødelighet som mål (LC50-24t). På 
+basis av konsentrasjon beregnes toksiske enheter (TU) basert på østerslarvetest TU = 100/EC50, og 
+hoppekrepstest TU = 100/LC50.  
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+10 
+Miljødirektoratets veileder M-409 angir grenseverdi for toksisk enheter. For begge ovennevnte tester er 
+grenseverdi satt til: TU < 1. 
+ 
+For ytterligere detaljer om metodikk for toksisitetstest, se analyserapport i Vedlegg B. 
+ 
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+11 
+3. Resultater 
+Tabell 6 presenterer resultatene fra de geologiske og kjemiske analysene fra Eurofins Miljøanalyse AS med 
+tilstandsklassifiseringer som beskrevet i kap. 2.2.  
+ 
+Tabell 6: Analyseresultater fra hver stasjon oppgitt i tørrvekt. Eurofins AS har levert analyse av TS, kornstørrelse, TOC, 
+tungmetaller (Hg, Cd, Pb, Cu, Cr, Zn, Ni, As), polysykliske aromatiske hydrokarboner (PAH16), polyklorerte bifenyler (PCB7) 
+og tributyltinn (TBT). Aqua Kompetanse AS har regnet ut innhold av TOC (%) og normalisert TOC (nTOC) basert på 
+kornstørrelse < 63 m og TOC. Resultatene er tilstandsklassifisert i henhold til verdier gitt i kapittel 2.2. nd = ikke påvist. 
+Stoff 
+Enhet 
+Stasjon 
+Gal 1 
+Gal 2 
+Gal 3 
+Gal 4 
+Gal 5 
+TS - Tørrstoff 
+% 
+63,5 
+60,7 
+54,7 
+59,0 
+55,4 
+Kornstørrelse < 2m 
+% 
+< 1,0 
+1,2 
+2,2 
+1,5 
+2,5 
+Kornstørrelse < 63m 
+% 
+14,8 
+21,8 
+40,7 
+23,9 
+47,4 
+TOC – total organisk karbon 
+mg/kg 
+4240 
+7950 
+13400 
+9820 
+12900 
+TOC – total organisk karbon 
+% 
+0,424 
+0,795 
+1,34 
+0,982 
+1,29 
+nTOC – normalisert TOC1 
+mg/g 
+19,6 
+22,0 
+24,1 
+23,5 
+22,4 
+Hg – Kvikksølv 
+mg/kg 
+0,011 
+0,024 
+0,034 
+0,023 
+0,018 
+Cd – Kadmium 
+mg/kg 
+0,16 
+0,24 
+0,32 
+0,23 
+0,19 
+Pb – Bly 
+mg/kg 
+3,8 
+4,6 
+6,0 
+4,8 
+3,2 
+Cu – Kobber 
+mg/kg 
+16 
+16 
+22 
+25 
+6,7 
+Cr – Krom 
+mg/kg 
+18 
+17 
+19 
+18 
+6,9 
+Zn – Sink 
+mg/kg 
+58 
+61 
+68 
+54 
+26 
+Ni – Nikkel 
+mg/kg 
+9,3 
+10,0 
+10,0 
+10,0 
+2,8 
+As – Arsen 
+mg/kg 
+2,5 
+3,5 
+4,6 
+3,8 
+2,2 
+PAH16 – SUM2 
+mg/kg 
+nd 
+nd 
+0,12 
+0,23 
+0,085 
+Naftalen2 
+mg/kg 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+Acenaftylen2 
+mg/kg 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+Acenaften2 
+mg/kg 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+Fluoren2 
+mg/kg 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+Fenantren2 
+mg/kg 
+< 0,010 
+0,011 
+< 0,010 
+< 0,010 
+0,019 
+Antracen2 
+mg/kg 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+Fluoranten2 
+mg/kg 
+< 0,010 
+0,032 
+0,022 
+0,045 
+0,030 
+Pyren 
+mg/kg 
+< 0,010 
+0,023 
+0,018 
+0,036 
+0,021 
+Benzo[a]antracene2 
+mg/kg 
+< 0,010 
+0,012 
+0,010 
+0,023 
+< 0,010 
+Benzo[a]pyren2 
+mg/kg 
+< 0,010 
+0,013 
+0,014 
+0,026 
+< 0,010 
+Benzo[b]fluoranten 
+mg/kg 
+< 0,010 
+0,019 
+0,021 
+0,032 
+0,015 
+Benzo[k]fluoranten 
+mg/kg 
+< 0,010 
+< 0,010 
+< 0,010 
+0,014 
+< 0,010 
+Krysen/Trifenylen2 
+mg/kg 
+< 0,010 
+0,014 
+0,012 
+0,020 
+< 0,010 
+Indeno[1,2,3-cd]pyren 
+mg/kg 
+< 0,010 
+0,011 
+0,013 
+0,020 
+< 0,010 
+Dibenzo[a,h]antracen 
+mg/kg 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+< 0,010 
+Benzo[ghi]perylen 
+mg/kg 
+< 0,010 
+< 0,010 
+0,012 
+0,016 
+< 0,010 
+PCB7 – SUM 
+mg/kg 
+nd 
+nd 
+nd 
+nd 
+nd 
+TBT – Tributyltinn (forvalt.)3 
+g/kg 
+7,1 
+< 2,5 
+< 2,5 
+< 2,5 
+< 2,5 
+1. I henhold til STF 97:03. 
+2. Da Eurofins benytter kvantifiseringsgrense (LOQ) på 0,01 mg/kg TS er det ikke mulig å skille mellom tilstandsklassene I-II for 
+Nafatalen, Acenaftylen, Acenaften, Fluoren, Fenantren, Fluoranten, Pyren, Benzo[a]antracene, Krysen/Trifenylen, og Benzo[a]pyren, 
+og mellom tilstandsklassene I, II, og III for Antracen, stoffene får derfor fargekode tilsvarende dårligste tilstand. 
+3. Da Eurofins AS benytter med kvantifiseringsgrense (LOQ) på 2,5 g/kg TS for TBT er det ikke mulig å skille mellom tilstand I og II 
+der resultatet er < 2,5 g/kg TS. 
+ 
+ 
+ 
+Sedimentet ved Gal1, 2, 3, og 4 besto av en blanding av sand og silt, mens sedimentet ved stasjon Gal5 besto 
+mest av sand. Ved Gal2 og 3 var fargen på overflatesedimentet mørk, på Gal4 var den grå, mens på Gal5 var 
+den lys. Det ble ikke registrert unormal lukt fra sedimentet. Av hovedtyper fauna ble det observert 
+slangestjerne ved Gal1, og børstemark ved Gal4 og Gal5. Det ble registrert normal pH- og redoksverdi i 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+12 
+sedimentet ved alle fem stasjoner. Tabell 7 oppsummerer sensoriske registreringer, og elektrokjemisk 
+målinger. 
+ 
+Tabell 7. Oppsummering av registreringer og målinger i sedimentene fra feltlogg. Redokspotensiale er utregnet ved å 
+legge sammen målt verdi (Ehobs) med referansepotensiale (Eref) ved en sedimenttemperatur på 7,4 °C. Eref var på 221. 
+ 
+Parameter 
+Stasjon 
+Gal1 
+Gal2 
+Gal3 
+Gal4 
+Gal5 
+Hovedtype 
+sediment 
+Sand & silt 
+Sand og silt 
+Sand & silt 
+Sand & silt 
+Sand 
+Grabbfylling 
+7 og 3 cm 
+11 cm 
+11 og 13 cm 
+11 cm 
+9 cm 
+Lukt 
+Ikke registrert 
+Ingen 
+Ingen 
+Ingen 
+Ingen 
+Farge 
+Ikke registrert 
+Mørk 
+Mørk 
+Grå 
+Lys 
+Hovedtyper fauna 
+Slangestjerne 
+Ingen 
+Ingen 
+Børstemark 
+Børstemark 
+pH 
+7,94 
+7,82 
+7,93 
+7,89 
+7,79 
+Redokspotensiale 
+(Ehobs+Eref) 
+359 mV 
+303 mV 
+284 mV 
+345 mV 
+108 mV 
+ 
+ 
+Innholdet av total organisk karbon i sedimentet lå mellom 0,424 og 1,34 %, og Gal1 fikk tilstandsklasse I 
+«svært god», mens stasjonene Gal2-5 fikk tilstandsklasse II «god» i henhold til SFT 97:03. 
+ 
+Målte konsentrasjoner av antracen havnet innen tilstandsklasse III «Moderat – Kroniske effekter ved 
+langtidseksponering». Dette skyldes at detekteringsgrensen (LOQ) til underleverandør ligger innen denne 
+tilstandsklassen. For TBT ble det målt et forhøyet nivå ved stasjon Gal 1 (tilstandsklasse III). For øvrige 
+parametere lå alle verdier innenfor enten tilstandsklasse I eller II.  
+ 
+TBT har hovedsakelig blitt brukt i bunnstoff på skip og i treimpregneringsmidler for å hindre begroing og råte. 
+Det er ikke unaturlig at dette stoffet blir funnet i sediment med direkte tilknytning til havnevirksomhet, slik 
+tilfellet er på Galtneset, selv om stoffet i dag er ulovlig. Det var kun prøven fra stasjon Gal1 som ble 
+kategorisert som tilstandsklasse III.  
+ 
+ 
+ 
+3.1 Risikovurdering Trinn 1 
+Fra tiltaksområdet ved Galtneset foreligger det resultater fra 5 prøver, som representerer 5 stasjoner, alle 
+fra områder grunnere enn 20 m og tiltaksområdet har et areal på om lag 17 000 m2. Tabell 8 sammenligner 
+analyseresultatene fra området med grenseverdiene for risikovurdering Trinn 1 i M-409. Der substansen har 
+påvist innhold under deteksjonsgrensen (LOQ) er det lagt inn en verdi tilsvarende LOQ x 0,5 i henhold til M-
+409. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+13 
+Tabell 8: Gjennomsnittlige sedimentkonsentrasjoner sammenliknet med grenseverdier for risikovurdering Trinn 1. nd = 
+ikke påvist. Gjennomsnittskonsentrasjoner som overstiger Trinn 1 grenseverdi er evt. merket i rødt. 
+Substans 
+Enhet 
+Trinn 1 
+Grenseverdi 
+Gjennomsnittlig 
+sedimentkonsentrasjoner (10 cm) 
+Gal 1-5 
+Hg – Kvikksølv 
+mg/kg 
+0,52 
+0,022 
+Cd – Kadmium 
+mg/kg 
+2,5 
+0,23 
+Pb – Bly 
+mg/kg 
+150 
+4,48 
+Cu – Kobber 
+mg/kg 
+84 
+17,14 
+Cr – Krom 
+mg/kg 
+660 
+15,78 
+Zn – Sink 
+mg/kg 
+139 
+53,4 
+Ni – Nikkel 
+mg/kg 
+42 
+8,42 
+As – Arsen 
+mg/kg 
+18 
+3,32 
+PAH16 – SUM2 
+mg/kg 
+2 
+0,087 
+Naftalen 
+mg/kg 
+0,027 
+0,005 
+Acenaftylen 
+mg/kg 
+0,033 
+0,005 
+Acenaften 
+mg/kg 
+0,10 
+0,005 
+Fluoren 
+mg/kg 
+0,15 
+0,005 
+Fenantren 
+mg/kg 
+0,78 
+0,009 
+Antracen 
+mg/kg 
+0,0046 
+0,005* 
+Fluoranten 
+mg/kg 
+0,40 
+0,03 
+Pyren 
+mg/kg 
+0,084 
+0,02 
+Benzo[a]antracene 
+mg/kg 
+0,06 
+0,01 
+Benzo[a]pyren 
+mg/kg 
+0,18 
+0,01 
+Benzo[b]fluoranten 
+mg/kg 
+0,14 
+0,02 
+Benzo[k]fluoranten 
+mg/kg 
+0,14 
+0,007 
+Krysen/Trifenylen 
+mg/kg 
+0,28 
+0,01 
+Indeno[1,2,3-cd]pyren 
+mg/kg 
+0,063 
+0,01 
+Dibenzo[a,h]antracen 
+mg/kg 
+0,027 
+0,005 
+Benzo[g,h,i]perylen 
+mg/kg 
+0,084 
+0,009 
+PCB7 – SUM 
+mg/kg 
+0,0041 
+nd 
+TBT – Tributyltinn  
+g/kg 
+35 
+2,42 
+*Havner over grenseverdi for Trinn 1 risikovurdering, men settes ikke rød pga. at LOQ til analyselaboratorium ligger over grenseverdi. 
+ 
+3.1.1 Toksisitetstest 
+Det ble ikke funnet toksiske effekter i sedimentet fra blandeprøven (Tabell 9). Ingen av testene oversteg 
+grenseverdien for TU (toksiske enheter). For ytterligere detaljer omkring resultatene, se Vedlegg B. 
+ 
+Tabell 9: Tabellen viser resultater fra toksisitetstestene fra blandeprøve fra alle fem stasjonene. Toksiske enheter (TU) 
+som ev. overstiger grenseverdi satt i Miljødirektoratets veileder M-409 utheves i rødt. 
+ 
+Enhet 
+Blandeprøve 
+Gal1-5 
+Parameter 
+ 
+Larvetoksisitet 
+Østerslarver EC50-
+24t 
+g tørrstoff/liter  
+> 10 
+ 
+TU (toksiske enheter) 
+< 1 
+Parameter 
+ 
+Dødelighet 
+Bentisk 
+hoppekreps CL50- 
+24t 
+gram tørrstoff/liter 
+> 10 
+ 
+TU (toksiske enheter) 
+< 1 
+ 
+ 
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+14 
+4. Oppsummering og konklusjon 
+Tiltaksområdet er definert som et mellomstort tiltak (> 1000 m2 og < 30 000 m2) i henhold til veileder M-409, 
+og utløser derfor ikke en full risikovurdering. Med unntak av TBT ble det ikke funnet toksiske effekter i 
+sedimentene. Nivået av flere PAH16 var under deteksjonsgrensen (LOQ) til analyselaboratorium, og beregnet 
+sedimentkonsentrasjon ble derfor gjort (LOQ x 0,5). Dette medførte at beregnet konsentrasjon av antracen 
+havnet over grenseverdien, men som nevnt skyldes dette muligens at detekteringsgrensen ikke er lav nok. 
+Basert på lave verdier av de øvrige PAH-forbindelsene, er det sannsynlig at også konsentrasjonen av antracen 
+er innen en akseptabel verdi. Det er derfor antatt at ingen stoffer havner over grenseverdi for risikovurdering 
+Trinn 1, iht. veileder M-409. Det er verdt å nevne at bunnsedimentet i tiltaksområdet er av en grovkornet til 
+moderat grovkornet karakter, noe som gjør det mindre sannsynlig at det oppstår toksiske nivå av stoffer i 
+sedimentene. 
+ 
+Når det gjelder toksisitetstesten som ble kjørt på en blandeprøve fra samtlige stasjoner, var toksisitetsnivået 
+under grenseverdi satt av Miljødirektoratet, både ved testen med hoppekreps og med østerslarver.  
+ 
+Tiltaket er søknadspliktig etter forurensningsloven, og før utfyllingsarbeidet kan begynne skal det foreligge 
+tillatelse fra Statsforvalteren i Nordland. 
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+15 
+5. Referanser 
+ 
+Gibbs, P., Bryan, G. Pascoe, P. & Burt, G. (1987) The use of the dog-whelk, Nucella lapillus, as an indicator of 
+tributyltin (TBT) contamination. Journal of the Marine Biological Association of the United Kingdom, 67(3), 
+507-523. 
+ 
+M-350 (2015) Veileder for håndtering av sedimenter. Miljødirektoratet.  
+ 
+M-409 (2015) Veileder for risikovurdering av forurenset sediment. Miljødirektoratet. 
+ 
+M-608 (2016) Grenseverdier for klassifisering av vann, sediment og biota. Miljødirektoratet. Revidert 
+30.10.2020. 
+ 
+Molvær, J. et al. (1997) Klassifisering av miljøkvalitet i fjorder og kystfarvann. SFT-veiledning nr. 97:03. 
+ 
+Norsk Standard 5667-19 (2004). Vannundersøkelse. Prøvetaking. Del 19: Veiledning i sedimentprøvetaking i 
+marine områder (ISO 5667:2004). Standard Norge. NS-EN ISO 5667-19: 2004.  
+ 
+ 
+ 
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+16 
+Vedlegg A – Analyserapport fra Eurofins Miljøanalyse AS 
+ 
+ 
+AR-21-MM-050189-01
+
+oe, fi EUNOMO-00293387
+esse CUFOTINS
+
+16167:2018+AC:201
+9
+
+b) PCB52 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB101 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB118 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 153 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 138 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 180 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) Sum 7PCB nd SS-EN
+16167:2018+AC:201
+9
+
+b) PAH(16) Premium LOQ
+
+b) Naftalen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaftylen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaften < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fluoren < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fenantren < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Antracen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fluoranten < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Pyren <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzofajantracen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) —Krysen/Trifenylen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzojb}fluoranten <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzofk}fluoranten < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzofa)pyren <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) —Indeno[1,2,3-cd]pyren <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Dibenzo[a,hjantracen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) BenzofghiJperylen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Sum PAH(16) EPA nd SS-ISO 18287:2008,
+mod
+
+a) Tributyltinn (TBT) 7.1 pg/kg tv 25 XP T 90-250
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist. 8
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området. >
+
+For mikrobiologiske analyser oppgis intervallet. Ytterii pp i om maleusi t fås ved h delse til lab i 8
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j 8 gjelder kun for de(n) undersøkte prøven(e). 3
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet. Side 2av3
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+AR-21-MM-050189-01
+
+eo . EUNOMO-00293387
+GS eurofins
+a) —Dibutyltinn (DBT) 2.9 g/kg tv 25 XP T 90-250
+a) Monobutyltinn (MBT) <2.5 pg/kg tv 2.5 XP T 90-250
+a) Kornstgrrelse <2 um <1.0 %TS 1 Internal Method 6
+a) Kornstgrrelse < 63 um 148 % 0.1 Internal Method 6
+a) Totalt organisk karbon (TOC) 4240 mg/kg TS 1000 904 NF EN 15936 -
+Méthode B
+b) —Tørrstoff 63.5 % 0.1 5% SS-EN 12880:2000
+a)* Preptest - TBT.DTB,MBT
+a)* Injeksjon blank value/lmported GC-MS/MS
+a) Dibutyltinn-Sn (DBT-Sn) <2.0 ug Snikg tv 2 XP T 90-250
+a) Monobutyltinn kation <2.0 ug Snikg tv 2 XP T 90-250
+a) Tributyltinn-Sn (TBT-Sn) 2.9 ug Sn/kg TS 2 1.01 XP T 90-250
+
+Utforende laboratorium/ Underleverandor:
+
+a)* Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne COFRAC TESTING (scope on www.cofrac.fr)
+1-1488,
+
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE-53119, Lidköping ISO/IEC 17025:2017 SWEDAC 1125,
+
+Moss 14.06.2021
+
+Stig Tjomsland
+Analytical Service Manager
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterli pplysni om måleusil t fås ved hi delse til lab: i
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j 8 gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+Side 3 av 3
+
+AR-001 v 166
+
+18
+Eurofins Environment Testing Norway
+e ea AS (Moss)
+F. reg. NO9 651 416 18
+
+a
+| e e U r O f | Nn S Møllebakken 50
+‘ 0 NO-1538 Moss
+Tlf: +47 69 00 52 00
+Environment sales(Qeurofins.no
+
+Aqua Kompetanse AS AR-21-MM-050191-01
+Storlavika 7
+7770 Flatanger EUNOMO-00293387
+Attn: Sven Keizer
+Prøvemottak: 29.04.2021
+Temperatur:
+Analyseperiode: 29.04.2021-14.06.2021
+Referanse: 152-4-21C
+ANALYSERAPPORT
+Prøvenr.: 439-2021-04300071 Prøvetakingsdato: 20.04.2021
+Prøvetype: Sedimenter Prøvetaker: Sven Keizer
+Prøvemerking: Gal 2 Analysestartdato: 29.04.2021
+Sven Keizer
+Analyse Resultat Enhet LOQ MU Metode
+b) Arsen (As) Premium LOQ
+b) Arsen (As) 3.5 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Bly (Pb) Premium LOQ
+b) Bly (Pb) 4.6 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kadmium (Cd) Premium LOQ
+b) Kadmium (Cd) 0.24 mg/kg TS 0.01 25% ss
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kobber (Cu) 16 mg/kg TS 0.5 25% ss
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Krom (Cr) 17 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kvikksølv (Hg) Premium LOQ
+b) Kvikksølv (Hg) 0.024 mg/kg TS 0.001 20% $s
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Nikkel (Ni) 10.0 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Sink (Zn) 61 mg/kg TS 2 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) PCB(7) Premium LOQ
+b) PCB 28 < 0.00050 mg/kg TS 0.0005 SS-EN
+Tegnforklaring:
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist. 8
+Måleusikkerhet er angitt med deknir k=2. Må ikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området. >
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterii pplysninger om må i het fås ved hi delse til lab 8
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j : gjelder kun for de(n) undersøkte prøven(e). E
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet. Side 1 av 3
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+19
+AR-21-MM-050191-01
+
+oe, fi EUNOMO-00293387
+esse CUFOTINS
+
+16167:2018+AC:201
+9
+
+b) PCB52 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB101 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB118 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 153 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 138 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 180 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) Sum 7PCB nd SS-EN
+16167:2018+AC:201
+9
+
+b) PAH(16) Premium LOQ
+
+b) Naftalen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaftylen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaften < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fluoren < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fenantren 0.011 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Antracen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) —Fluoranten 0.032 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Pyren 0.023 mg/kg TS 0.01 25% —SS-ISO 18287:2008,
+mod
+
+b) Benzo[ajantracen 0.012 mg/kg TS 0.01 25% — SS-ISO 18287:2008,
+mod
+
+b) —Krysen/Trifenylen 0.014 mg/kg TS 0.01 25% — SS-ISO 18287:2008,
+mod
+
+b) Benzojb}fluoranten 0.019 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Benzofk}fluoranten < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzof[a]pyren 0.013 mg/kg TS 0.01 25% —SS-ISO 18287:2008,
+mod
+
+b) —Indeno[1,2,3-cd]pyren 0.011 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Dibenzo[a,hjantracen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) BenzofghiJperylen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Sum PAH(16) EPA 0.14 mg/kg TS SS-ISO 18287:2008,
+mod
+
+a) Tributyltinn (TBT) <2.5 pg/kg tv 25 XP T 90-250
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist. 8
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området. >
+
+For mikrobiologiske analyser oppgis intervallet. Ytterii pp i om maleusi t fås ved h delse til lab i 8
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j 8 gjelder kun for de(n) undersøkte prøven(e). 3
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet. Side 2av3
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+AR-21-MM-050191-01
+
+eo . EUNOMO-00293387
+GS eurofins
+a) —Dibutyltinn (DBT) 27 ugikgtv 25 XP T 90-250
+a) Monobutyltinn (MBT) <2.5 pg/kg tv 2.5 XP T 90-250
+a) Kornstgrrelse <2 um 12 %TS 1 Internal Method 6
+a) Kornstgrrelse < 63 um 218 % 0.1 Internal Method 6
+a) Totalt organisk karbon (TOC) 7950 mg/kg TS 1000 1599 NFEN 15936 -
+Méthode B
+b) —Tørrstoff 60.7 % 0.1 5% SS-EN 12880:2000
+a)* Preptest - TBT.DTB,MBT
+a)* Injeksjon blank value/lmported GC-MS/MS
+a) Dibutyltinn-Sn (DBT-Sn) <2.0 ug Snikg tv 2 XP T 90-250
+a) Monobutyltinn kation <2.0 ug Snikg tv 2 XP T 90-250
+a) Tributyltinn-Sn (TBT-Sn) <2.0 ug Sn/kg TS 2 XP T 90-250
+
+Utforende laboratorium/ Underleverandor:
+
+a)* Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne COFRAC TESTING (scope on www.cofrac.fr)
+1-1488,
+
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE-53119, Lidköping ISO/IEC 17025:2017 SWEDAC 1125,
+
+Moss 14.06.2021
+
+Stig Tjomsland
+
+Analytical Service Manager
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterli pplysni om måleusil t fås ved hi delse til lab: i
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j 8 gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+Side 3 av 3
+
+AR-001 v 166
+
+21
+Eurofins Environment Testing Norway
+e ea AS (Moss)
+F. reg. NO9 651 416 18
+
+a
+| e e U r O f | Nn S Møllebakken 50
+‘ 0 NO-1538 Moss
+Tlf: +47 69 00 52 00
+Environment sales(Qeurofins.no
+
+Aqua Kompetanse AS AR-21-MM-050187-01
+Storlavika 7
+7770 Flatanger EUNOMO-00293387
+Attn: Sven Keizer
+Prøvemottak: 29.04.2021
+Temperatur:
+Analyseperiode: 29.04.2021-14.06.2021
+Referanse: 152-4-21C
+ANALYSERAPPORT
+Prøvenr.: 439-2021-04300072 Prøvetakingsdato: 20.04.2021
+Prøvetype: Sedimenter Prøvetaker: Sven Keizer
+Prøvemerking: Gal 3 Analysestartdato: 29.04.2021
+Sven Keizer
+Analyse Resultat Enhet LOQ MU Metode
+b) Arsen (As) Premium LOQ
+b) Arsen (As) 46 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Bly (Pb) Premium LOQ
+b) Bly (Pb) 6.0 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kadmium (Cd) Premium LOQ
+b) Kadmium (Cd) 0.32 mg/kg TS 0.01 25% ss
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kobber (Cu) 22 mg/kg TS 0.5 25% ss
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Krom (Cr) 19 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kvikksølv (Hg) Premium LOQ
+b) Kvikksølv (Hg) 0.034 mg/kg TS 0.001 20% $s
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Nikkel (Ni) 10.0 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Sink (Zn) 68 mg/kg TS 2 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) PCB(7) Premium LOQ
+b) PCB 28 < 0.00050 mg/kg TS 0.0005 SS-EN
+Tegnforklaring:
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist. 8
+Måleusikkerhet er angitt med deknir k=2. Må ikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området. >
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterii pplysninger om må i het fås ved hi delse til lab 8
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j : gjelder kun for de(n) undersøkte prøven(e). E
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet. Side 1 av 3
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+22
+AR-21-MM-050187-01
+
+oe, fi EUNOMO-00293387
+esse CUFOTINS
+
+16167:2018+AC:201
+9
+
+b) PCB52 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB101 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB118 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 153 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 138 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 180 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) Sum 7PCB nd SS-EN
+16167:2018+AC:201
+9
+
+b) PAH(16) Premium LOQ
+
+b) Naftalen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaftylen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaften < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fluoren < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fenantren < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Antracen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fluoranten 0.022 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Pyren 0.018 mg/kg TS 0.01 25% —SS-ISO 18287:2008,
+mod
+
+b) Benzo[ajantracen 0.010 mg/kg TS 0.01 25% — SS-ISO 18287:2008,
+mod
+
+b) —Krysen/Trifenylen 0.012 mg/kg TS 0.01 25% — SS-ISO 18287:2008,
+mod
+
+b) Benzojb}fluoranten 0.021 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Benzofk}fluoranten < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzof[a]pyren 0.014 mg/kg TS 0.01 25% —SS-ISO 18287:2008,
+mod
+
+b) —Indeno[1,2,3-cd]pyren 0.013 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Dibenzo[a,hjantracen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzo[ghilperylen 0.012 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Sum PAH(16) EPA 0.12 mg/kg TS SS-ISO 18287:2008,
+mod
+
+a) Tributyltinn (TBT) <2.5 pg/kg tv 25 XP T 90-250
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist. 8
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området. >
+
+For mikrobiologiske analyser oppgis intervallet. Ytterii pp i om maleusi t fås ved h delse til lab i 8
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j 8 gjelder kun for de(n) undersøkte prøven(e). 3
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet. Side 2av3
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+AR-21-MM-050187-01
+
+eo . EUNOMO-00293387
+GS eurofins
+a) —Dibutyltinn (DBT) <2.5 ugikgtv 25 XP T 90-250
+a) Monobutyltinn (MBT) <2.5 pg/kg tv 2.5 XP T 90-250
+a) Kornstgrrelse <2 um 22 %TS 1 Internal Method 6
+a) Kornstgrrelse < 63 um 40.7 % 0.1 Internal Method 6
+a) Totalt organisk karbon (TOC) 13400 mg/kg TS 1000 2653 NF EN 15936 -
+Méthode B
+b) —Tørrstoff 547 % 0.1 5% SS-EN 12880:2000
+a)* Preptest - TBT.DTB,MBT
+a)* Injeksjon blank value/lmported GC-MS/MS
+a) Dibutyltinn-Sn (DBT-Sn) <2.0 ug Snikg tv 2 XP T 90-250
+a) Monobutyltinn kation <2.0 ug Snikg tv 2 XP T 90-250
+a) Tributyltinn-Sn (TBT-Sn) <2.0 ug Sn/kg TS 2 XP T 90-250
+
+Utforende laboratorium/ Underleverandor:
+
+a)* Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne COFRAC TESTING (scope on www.cofrac.fr)
+1-1488,
+
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE-53119, Lidköping ISO/IEC 17025:2017 SWEDAC 1125,
+
+Moss 14.06.2021
+
+Stig Tjomsland
+Analytical Service Manager
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterli pplysni om måleusil t fås ved hi delse til lab: i
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j 8 gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+Side 3 av 3
+
+AR-001 v 166
+
+24
+Eurofins Environment Testing Norway
+e ea AS (Moss)
+F. reg. NO9 651 416 18
+
+a
+| e e U r O f | Nn S Møllebakken 50
+‘ 0 NO-1538 Moss
+Tlf: +47 69 00 52 00
+Environment sales(Qeurofins.no
+
+Aqua Kompetanse AS AR-21-MM-050193-01
+Storlavika 7
+7770 Flatanger EUNOMO-00293387
+Attn: Sven Keizer
+Prøvemottak: 29.04.2021
+Temperatur:
+Analyseperiode: 29.04.2021-14.06.2021
+Referanse: 152-4-21C
+ANALYSERAPPORT
+Prøvenr.: 439-2021-04300073 Prøvetakingsdato: 20.04.2021
+Prøvetype: Sedimenter Prøvetaker: Sven Keizer
+Prøvemerking: Gal 4 Analysestartdato: 29.04.2021
+Sven Keizer
+Analyse Resultat Enhet LOQ MU Metode
+b) Arsen (As) Premium LOQ
+b) Arsen (As) 3.8 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Bly (Pb) Premium LOQ
+b) Bly (Pb) 48 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kadmium (Cd) Premium LOQ
+b) Kadmium (Cd) 0.23 mg/kg TS 0.01 25% ss
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kobber (Cu) 25 mg/kg TS 0.5 25% ss
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Krom (Cr) 18 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kvikksølv (Hg) Premium LOQ
+b) Kvikksølv (Hg) 0.023 mg/kg TS 0.001 20% $s
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Nikkel (Ni) 10 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Sink (Zn) 54 mg/kg TS 2 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) PCB(7) Premium LOQ
+b) PCB 28 < 0.00050 mg/kg TS 0.0005 SS-EN
+Tegnforklaring:
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist. 8
+Måleusikkerhet er angitt med deknir k=2. Må ikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området. >
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterii pplysninger om må i het fås ved hi delse til lab 8
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j : gjelder kun for de(n) undersøkte prøven(e). E
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet. Side 1 av 3
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+25
+AR-21-MM-050193-01
+
+oe, fi EUNOMO-00293387
+esse CUFOTINS
+
+16167:2018+AC:201
+9
+
+b) PCB52 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB101 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB118 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 153 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 138 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 180 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) Sum 7PCB nd SS-EN
+16167:2018+AC:201
+9
+
+b) PAH(16) Premium LOQ
+
+b) Naftalen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaftylen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaften < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fluoren < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fenantren < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Antracen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fluoranten 0.045 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Pyren 0.036 mg/kg TS 0.01 25% —SS-ISO 18287:2008,
+mod
+
+b) Benzofajantracen 0.023 mg/kg TS 0.01 25% — SS-ISO 18287:2008,
+mod
+
+b) —Krysen/Trifenylen 0.020 mg/kg TS 0.01 25% — SS-ISO 18287:2008,
+mod
+
+b) Benzofb}fluoranten 0.032 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Benzofk}fluoranten 0.014 mg/kg TS 0.01 30% SS-ISO 18287:2008,
+mod
+
+b) Benzof[a]pyren 0.026 mg/kg TS 0.01 25% —SS-ISO 18287:2008,
+mod
+
+b) —Indeno[1,2,3-cd]pyren 0.020 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Dibenzo[a,hjantracen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzo[ghilperylen 0.016 mg/kg TS 0.01 25% —SS-ISO 18287:2008,
+mod
+
+b) Sum PAH(16) EPA 0.23 mg/kg TS SS-ISO 18287:2008,
+mod
+
+a) Tributyltinn (TBT) <2.5 pg/kg tv 25 XP T 90-250
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist. 8
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området. >
+
+For mikrobiologi: lyser oppgis intervallet. Ytterli pplysni om maleusi t fås ved h delse til lab: i 8
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j gjelder kun for de(n) undersøkte prøven(e). 3
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet. Side 2av3
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+AR-21-MM-050193-01
+
+ver fi EUNOMO-00293387
+
+esse CUFOTINS
+
+a) —Dibutyltinn (DBT) <2.5 ugikgtv 25 XP T 90-250
+
+a) Monobutyltinn (MBT) <2.5 pg/kg tv 2.5 XP T 90-250
+
+a) Kornstgrrelse <2 um 15 %TS 1 Internal Method 6
+
+a) Kornstgrrelse < 63 um 23.9 % 0.1 Internal Method 6
+
+a) Totalt organisk karbon (TOC) 9820 mg/kg TS 1000 1959 NF EN 15936 -
+Méthode B
+
+b) —Tørrstoff 59.0 % 0.1 5% SS-EN 12880:2000
+
+a)* Preptest - TBT.DTB,MBT
+
+a)* Injeksjon blank value/lmported GC-MS/MS
+
+a) Dibutyltinn-Sn (DBT-Sn) <2.0 ug Snikg tv 2 XP T 90-250
+
+a) Monobutyltinn kation <2.0 ug Snikg tv 2 XP T 90-250
+
+a) Tributyltinn-Sn (TBT-Sn) <2.0 ug Sn/kg TS 2 XP T 90-250
+
+Utforende laboratorium/ Underleverandor:
+
+a)* Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne COFRAC TESTING (scope on www.cofrac.fr)
+1-1488,
+
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE-53119, Lidköping ISO/IEC 17025:2017 SWEDAC 1125,
+
+Moss 14.06.2021
+
+Stig Tjomsland
+Analytical Service Manager
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterli pplysni om måleusil t fås ved hi delse til lab: i
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j 8 gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+Side 3 av 3
+
+AR-001 v 166
+
+27
+Eurofins Environment Testing Norway
+e ea AS (Moss)
+F. reg. NO9 651 416 18
+
+a
+| e e U r O f | Nn S Møllebakken 50
+‘ 0 NO-1538 Moss
+Tlf: +47 69 00 52 00
+Environment sales(Qeurofins.no
+
+Aqua Kompetanse AS AR-21-MM-050190-01
+Storlavika 7
+7770 Flatanger EUNOMO-00293387
+Attn: Sven Keizer
+Prøvemottak: 29.04.2021
+Temperatur:
+Analyseperiode: 29.04.2021-14.06.2021
+Referanse: 152-4-21C
+ANALYSERAPPORT
+Prøvenr.: 439-2021-04300074 Prøvetakingsdato: 20.04.2021
+Prøvetype: Sedimenter Prøvetaker: Sven Keizer
+Prøvemerking: Gal 5 Analysestartdato: 29.04.2021
+Sven Keizer
+Analyse Resultat Enhet LOQ MU Metode
+b) Arsen (As) Premium LOQ
+b) Arsen (As) 2.2 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Bly (Pb) Premium LOQ
+b) Bly (Pb) 3.2 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kadmium (Cd) Premium LOQ
+b) Kadmium (Cd) 0.19 mg/kg TS 0.01 25% ss
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kobber (Cu) 6.7 mg/kg TS 0.5 25% ss
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Krom (Cr) 6.9 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Kvikksølv (Hg) Premium LOQ
+b) Kvikksølv (Hg) 0.018 mg/kg TS 0.001 20% $s
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Nikkel (Ni) 2.8 mg/kg TS 0.5 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) Sink (Zn) 26 mg/kg TS 2 25% SS
+28311:2017mod/SS-
+EN ISO
+17294-2:2016
+b) PCB(7) Premium LOQ
+b) PCB 28 < 0.00050 mg/kg TS 0.0005 SS-EN
+Tegnforklaring:
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist. 8
+Måleusikkerhet er angitt med deknir k=2. Må ikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området. >
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterii pplysninger om må i het fås ved hi delse til lab 8
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j : gjelder kun for de(n) undersøkte prøven(e). E
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet. Side 1 av 3
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+28
+AR-21-MM-050190-01
+
+oe, fi EUNOMO-00293387
+esse CUFOTINS
+
+16167:2018+AC:201
+9
+
+b) PCB52 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB101 <0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB118 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 153 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 138 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) PCB 180 < 0.00050 mg/kg TS 0.0005 SS-EN
+16167:2018+AC:201
+9
+
+b) Sum 7PCB nd SS-EN
+16167:2018+AC:201
+9
+
+b) PAH(16) Premium LOQ
+
+b) Naftalen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaftylen < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Acenaften < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fluoren < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Fenantren 0.019 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Antracen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) —Fluoranten 0.030 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Pyren 0.021 mg/kg TS 0.01 25% —SS-ISO 18287:2008,
+mod
+
+b) Benzofajantracen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) —Krysen/Trifenylen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzojb}fluoranten 0.015 mg/kg TS 0.01 25% SS-ISO 18287:2008,
+mod
+
+b) Benzofk}fluoranten < 0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Benzof[ajpyren <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) —Indeno[1,2,3-cd]pyren <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Dibenzo[a,hjantracen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) BenzofghiJperylen <0.010 mg/kg TS 0.01 SS-ISO 18287:2008,
+mod
+
+b) Sum PAH(16) EPA 0.085 mg/kg TS SS-ISO 18287:2008,
+mod
+
+a) Tributyltinn (TBT) <2.5 pg/kg tv 25 XP T 90-250
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist. 8
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området. >
+
+For mikrobiologiske analyser oppgis intervallet. Ytterii pp i om maleusi t fås ved h delse til lab i 8
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j 8 gjelder kun for de(n) undersøkte prøven(e). 3
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet. Side 2av3
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+AR-21-MM-050190-01
+
+eo . EUNOMO-00293387
+GS eurofins
+a) —Dibutyltinn (DBT) <2.5 ugikgtv 25 XP T 90-250
+a) Monobutyltinn (MBT) <2.5 pg/kg tv 2.5 XP T 90-250
+a) Kornstgrrelse <2 um 25 %TS 1 Internal Method 6
+a) Kornstgrrelse < 63 um 47.4 % 0.1 Internal Method 6
+a) Totalt organisk karbon (TOC) 12900 mg/kg TS 1000 2555 NF EN 15936 -
+Méthode B
+b) —Tørrstoff 55.4 % 0.1 5% SS-EN 12880:2000
+a)* Preptest - TBT.DTB,MBT
+a)* Injeksjon blank value/lmported GC-MS/MS
+a) Dibutyltinn-Sn (DBT-Sn) <2.0 ug Snikg tv 2 XP T 90-250
+a) Monobutyltinn kation <2.0 ug Snikg tv 2 XP T 90-250
+a) Tributyltinn-Sn (TBT-Sn) <2.0 ug Sn/kg TS 2 XP T 90-250
+
+Utforende laboratorium/ Underleverandor:
+
+a)* Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne
+
+a) Eurofins Analyses pour |'Environnement France (S1), 5, rue d'Otterswiller, F-67700, Saverne COFRAC TESTING (scope on www.cofrac.fr)
+1-1488,
+
+b) Eurofins Environment Sweden AB (Lidköping), Box 887, Sjöhagsg. 3, SE-53119, Lidköping ISO/IEC 17025:2017 SWEDAC 1125,
+
+Moss 14.06.2021
+
+Stig Tjomsland
+Analytical Service Manager
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med dekning sf: k=2. Måleusikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterli pplysni om måleusil t fås ved hi delse til lab: i
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige j 8 gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+Side 3 av 3
+
+AR-001 v 166
+
+30
+ea
+i
+E
+
+se CULOTINS
+
+Eurofins Environment Testing Norway
+AS (Moss)
+
+F. reg. NO9 651 416 18
+
+Møllebakken 50
+
+NO-1538 Moss
+
+Tlf: +47 69 00 52 00
+Environment sales(Qeurofins.no
+
+Aqua Kompetanse AS AR-21-MM-057548-01
+Storlavika 7
+7770 Flatanger
+ger EUNOMO-00293387
+Attn: Sven Keizer
+Prøvemottak: 29.04.2021
+Temperatur:
+Analyseperiode: 29.04.2021-30.06.2021
+Referanse: 152-4-21C
+Prøvenr.: 439-2021-04300075 Prøvetakingsdato: 20.04.2021
+Prøvetype: Sedimenter Prøvetaker: Sven Keizer
+Prøvemerking: Gal Blandeprøve Analysestartdato: 29.04.2021
+Sven Keizer
+Analyse Resultat Enhet LOQ MU Metode
+a)* Akutt toksisitet - Acartia Tonsa (hoppekreps)
+a)*  Acartia test CE50 se vedlegg % (CE 50) FD ISO 14669
+a)* Akutt toksisitet - Crassostrea Gigas (østerslarve)
+a)* Embryoutvikling av muslinger CE50 se vedlegg g/kg TS NF ISO 17244
+
+Utførende laboratorium/ Underleverandor:
+
+a)* EUROFINS ECOTOXICOLOGIE FRANCE, Rue Lucien Cuenot, Site Saint-Jacques ||, BP 51005, F-54521, Maxeville Cedex
+
+Moss 30.06.2021
+
+Sty jr
+
+Stig Tjomsland
+
+Analytical Service Manager
+
+Tegnforklaring:
+
+* Ikke omfattet av akkrediteringen LOQ: Kvantifiseringsgrense MU: Måleusikkerhet
+
+<: Mindre enn >: Større enn nd: Ikke påvist. Bakteriologiske resultater angitt som <1,<50 e.l. betyr ‘ikke påvist.
+
+Måleusikkerhet er angitt med deknir k=2. Må ikkerhet er ikke tatt hensyn til ved vurdering av om resultatet er utenfor grenseverdi/ -området.
+For mikrobiologiske analyser oppgis konfidensintervallet. Ytterii pplysni om må i het fås ved hi delse til lab i
+
+Rapporten må ikke gjengis, unntatt i sin helhet, uten iets skriftlige gjelder kun for de(n) undersøkte prøven(e).
+
+Resultater gjelder prøven slik den ble mottatt hos laboratoriet.
+
+152-4-21SK Galtneset
+
+Side 1 av 1
+
+Aqua Kompetanse AS
+
+AR-001 v 166
+
+31
+  
+152-4-21SK Galtneset 
+Aqua Kompetanse AS 
+32 
+Vedlegg B – Analyserapport fra Eurofins Environment Testing AS - Toksisitetstest 
+ 
+ 
+ 
+ 
+oa. å
+acte e U rofi n S EUROFINS ECOTOXICOLOGIE FRANCE SAS
+
+Sample N* 216002866-001 | Version AR-21-1Y-008510-01(29/06/2021) | Your ref. 439-2021-04300075 Page 2/2
+
+Enclosure air temperature 6.6°C Reception date 05/05/2021 12:09
+Sampling performed by (1) Prélevé par vos soins Start analysis 29/06/2021
+Sampling date Not communicated
+
+Ecotoxicologie marine
+
+Result Unit
+
+IY005 : Bivalve embryo testing - Oysters Service perfomed by us see linked report g/kg dry matter
+
+Technique - NF ISO 17244
+IYO1L : Lethal toxicity to marine copepods (Acartia tonsa) Service perfomed by us see linked report % (CE 50)
+
+Technique - FD ISO 14669
+
+Eloise Renouf
+Project Engineer
+
+Reproduction of this report is only authorized in its integral form. It includes 2 page(s). This report relates only to the samples tested.
+
+To declare or not compliance with the specification, the measurement uncertainty has not explicitly been taken into account. All elements of traceability and measurement
+
+uncertainties are available upon request.
+For subcontracted results, the reports issued by accredited laboratories are available upon request.
+
+(1) Data provided by the customer can not engage the responsibility of the laboratory.
+When a new report version is published, any modification is identified by bold, italics and underlining.
+
+EUROFINS ECOTOXICOLOGIE FRANCE tél. +33 3 83 50 36 17 SAS au capital de 71676 €
+
+Rue Lucien Cuenot Site Saint-Jacques II fax +33 3 83 50 23 70 RCS NANCY 751 056 102
+
+F-54521 Maxeville Cedex TVA FR 35 751 056 102
+www.eurofins.fr/env APE 7120B
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+33
+&S eurofins
+
+To:
+
+EUROFINS ENVIRONMENT
+TESTING NORWAY AS (MOSS)
+
+IY005:
+DETERMINATION OF THE TOXICITY ON THE EMBRYO-
+LARVAL DEVELOPMENT OF BIVALVE OF A SAMPLE
+REFERENCED AS:
+
+439-2021-04300075
+
+Analytical report n°21FER6-0996 Bivalve
+version 1 — 2021/06/29
+
+This report only concerns the goods submitted to the test. This document's reproduction is permitted only in the
+form of a full photographic facsimile. This report contains 15 pages.
+
+Eurofins Ecotoxicologie France
+SAS au capital de 71676 € RCS Nancy 751 056 102 TVA FR 35751056 102
+Siege social : Rue Lucien Cuenot site Saint Jacques II BP 51005 54521
+MAXEVILLE cedex -
+T 03 83 50 36 17 Fo3 83 502370
+
+152-4-21SK Galtneset Aqua Kompetanse AS 34
+SS eurofins
+
+TABLE
+
+SUMMARY
+I. REPORT OBJECT
+II. SAMPLE DESCRIPTION
+II. WATER EXTRACT PREPARATION
+IV. SIMPLIFIED DESCRIPTION OF THE TOXICITY TEST
+
+IV.1 TOXICOLOGICAL DESCRIPTORS
+
+IV.2 REPRRENCES) ssccsesesssssseescerecavcssacsesseutmeenastnenmcusccresanseeete
+
+IV.3 OYSTER EMBRYO-LARVAL DEVELOPMENT TOXICITY TEST .. a8
+N3T. Test Soltions PrEParatON secs espe cscoreuncsspecssenpesen aan ceaeurene near cepmeuuaauEe
+IV.3.2 Physicochemical measurementS.......avrrarvvvnnvvrvarvvnnvvrersvvrnrrrrnsvvnnerrvnsrvnnssrvenrnnen
+IV.3.3 — Gametes obtaining...
+NSA — Forimzatlbriuvssuanssvsvns oe
+IV.3.5 Inoculation, incubation and development stopping ....
+NSG Beosulsoblannguseuneunsnnemnassnsemnesesnsnnvenamesnagnvennvudnsnsntetaense
+
+V. RESULTS 7
+VI. — TEST VALIDITY CRITERIA 8
+
+PE SE & Ww
+
+Appendix 1: Synthetic seawater composition
+Appendix 2: Raw results - Sample
+Appendix 3: Raw results — Reference substance
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 2 of 15
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+a> eurofins
+
+SUMMARY
+
+Sample reference: 439-2021-04300075
+
+Sampling date: Unknown
+
+NB: In the absence of sampling date, we cannot guarantee that the analyses were
+performed within the time recommended by our quality requirements. The results are
+issued with reserve.
+
+Date of receipt: 2021/05/05.
+
+Matrix: sediment.
+
+Eurofins Ecotoxicologie France sample reference: 21G002866-001.
+
+Assay performed:
+
+> 1Y005: Marine bivalve (test species: Crassostrea gigas), embryo-larval development test
+after 24 hours (NF ISO 17244, December 2015)
+
+Results:
+Toxicological descriptors:
+
+- NOEC: “No Observed Effect Concentration”; the highest concentration causing no
+significant effects on test organisms.
+
+- EC X %-T: Effective concentration causing an effect on X % of the population after a time T.
+
+Tests Method Effect Toxicological | 439-2021-04300075
+descriptor
+
+Oyster NF ISO 17244 |Larval toxicity EC-24h >10 gDM/L
+
+es es Ge NOEC 10 gDM/L
+
+Results in g/L of dry matter « 439-2021-04300075 »
+In brackets: 95% confidence limits of ECx (if estimable)
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0996 Bivalve
+
+version 1 - 2021/06/29
+Page 3 of 15
+
+152-4-21SK Galtneset Aqua Kompetanse AS 36
+a> eurofins
+
+I. REPORT OBJECT
+
+Customer information:
+Name: Eurofins Environment Testing Norway AS (Moss).
+Address: Møllebakken 50 — NO — 1538 Moss - Norway
+
+This report summarizes the results obtained on a sample received on 2021/05/05, according
+to order n"EUFRNOMO-00061705 from Eurofins Environment Testing Norway AS (Moss),
+for the realization of biological toxicity testing.
+
+ll. SAMPLE DESCRIPTION
+
+Sample reference: 439-2021 -04300075 with a solid content of 62.2%.
+Sampling date: NC.
+
+Date of receipt: 2021/05/05.
+
+Matrix: sediment.
+
+Eurofins Ecotoxicologie France index number: 21G002866-001.
+
+lll. WATER EXTRACT PREPARATION
+
+Water extract preparation date: 2021/05/17.
+
+The water extract was obtained by application of the following protocol, adapted from the
+standard EN 12457-2 (2002), index X 30 402-2:
+
+4 mm sample sifting,
+
+Liquid/Solid Mass Ratio =10 calculated in dry matter equivalent,
+
+Agitation 24 hours +1 hour per rollback (5 to 10 laps/min).
+
+Supernatant is obtained after 4 hours of decanting. This supernatant forms the water
+extract used for the preparation of the solutions.
+
+a OE
+
+IV. SIMPLIFIED DESCRIPTION OF THE TOXICITY TEST
+
+IV.1 Toxicological descriptors
+
+- NOEC: “No Observed Effect Concentration”; the highest concentration causing no
+significant effects on test organisms.
+
+- EC X %-T: Effective concentration causing an effect on X% of the population after a time T.
+The lower the ECx, the higher the toxicity.
+
+IV.2 References
+
+> NF ISO 17244 (December 2015): Water quality — Determination of the toxicity of
+water samples on the embryo-larval development of Japanese oyster (Crassostrea
+gigas) and mussel (Mytilus edulis or Mytilus galloprovincialis).
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 4 of 15
+
+152-4-21SK Galtneset Aqua Kompetanse AS 37
+«> eurofins
+
+These studies comply with a quality assurance system in accordance with reference frame
+NF EN ISO CEI 17025 ensuring traceability, respect of the protocols and staff accreditation.
+
+IV.3 Oyster embryo-larval development toxicity test
+
+The purpose of this test is to assess the effect of a sample (chemical substance, aqueous
+environmental samples...) on the embryo-larval development of marine bivalves.
+
+The exposure is performed from fertilized eggs to D larvae. This static test aims to
+determine the concentration which induces, in 24 hours, 50% abnormalities of the D larvae.
+This concentration, known as the median lethal concentration, is designated EC50.
+
+Abnormalities can be characterized by a stopped embryonic development, or by
+morphological abnormalities of the larvae (abnormalities of shell and/or hinge, hypertrophy of
+the mantle...).
+
+Test organism: Pacific oyster
+
+Specie: Crassostrea gigas
+
+Origin: « Guernsey Sea Farms », Great Britain, hatchery specialized in the production of
+marine organisms under controlled conditions.
+
+The oysters have been conditioned in the hatchery (high temperature, abundant food) so that
+they are able to spawn easily upon receipt in the laboratory.
+
+IV.3.1 Test solutions preparation
+
+Preparation date: 2021/05/18.
+
+The solutions are prepared in plastic vials, with 50ml for each replicate, by dilution of the
+sampler with synthetic seawater obtained in accordance to the table in Appendix 1.
+
+The maximum tested concentration is 10 g dry matter/L (gDM/L), and the interval between
+two dilutions is 0.25 logarithmic units:
+
+10 -5.6-3.2-1.8-1.0 gDM/L...etc.
+The only exception for sediments is the 5.6 gDM/L concentration, which is replaced by 5.0
+gDMlL in order to meet the GEODE sediment quality assessment grid.
+
+An analytical test includes:
+
+- 6 replicates per negative control (i.e. synthetic seawater)
+
+- 3 replicates per concentration of the sample.
+
+The Cu2+, under the form of Copper Sulfate (CuSO4, 5H20), is used as a reference
+substance in order to verify the organisms’ sensitivity during the test (positive control).
+
+IV.3.2 Physicochemical measurements
+
+At the beginning and the end of the test, pH, Oxygen and salinity are measured in the
+negative control, and in the lowest and highest sample concentrations.
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 5 of 15
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+SS eurofins
+
+IV.3.3 Gametes obtaining
+
+The bivalves are brushed and rinsed to remove the epibionts, then are subjected to thermal
+stimulation to induce spawning, by placing for 30 minutes, and alternatively, individuals in
+seawater baths, one with a temperature of 14 * C and the other 29° C.
+
+As soon as the gametes releasing is in progress, the males are removed from water and
+closed with an elastic band, in order to preserve the fertilizing ability of the spermatozoa,
+while the females are rinsed and replaced in a fresh seawater bath. The water is changed a
+few times during spawning in order to eliminate the oocytes of bad quality.
+
+The oocytes suspension is diluted in seawater in order to get a 50 000 oocytes/mL density.
+The density is checked by diluting 1 mL of the oocytes suspension into 100mL of seawater.
+The counting target is of 125 oocytes in 0.25 mL of this dilution.
+
+The males are then placed in a beaker with fresh seawater to allow the spawning to begin
+again, and to get a very dense sperm suspension.
+
+The spermatozoa are activated in seawater in 20-30 minutes, and the activated sperm
+viability is about an hour.
+
+IV.3.4 Fertilization
+
+To get good fertilization, it is important to choose the « best » genitors: the « best » male
+should emit very mobile spermatozoa; the « best » female should emit slightly pyriformic
+oocytes.
+
+Fertilization is induced by adding a few milliliters of the sperm suspension to the oocytes
+suspension, in order to get between 6 to 10 spermatozoa around each oocyte.
+
+IV.3.5 Inoculation, incubation and development stopping
+
+After 25 to 40 minutes, fertilization is observable by the apparition of polar bodies on the
+oocytes, followed by the first division stages. The fertilized eggs are then inoculated in the
+test vials (50uL of fertilized eggs suspension in 50 mL of test solution).
+
+The vials are incubated in the dark for 24 hours at 24°C +/- 2 °C.
+
+After the incubation period, larvae development is checked in the negative controls; the
+incubation can be pursued for a few hours if the D shaped larvae stage is not reached yet.
+The larvae are then fixed by adding in each test vials 1 mL of 8% pink formaldehyde.
+
+IV.3.6 Results obtaining
+
+For each vials, 100 larvae are observed and it is determined if they are normal or abnormal.
+It is possible to establish the percentage of normal and abnormal larvae for each condition of
+the test, with the results obtained from each replicate (see Appendix 2).
+
+Calculation methods:
+> For the determination of the ECx: Log-Probit statistic model (ToxCalc Software) ;
+> For the determination of the NOEC: Bonferroni statistic model (ToxCalc Software).
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 6 of 15
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+GS eurofins
+
+V. RESULTS
+
+NB: In the absence of sampling date, we cannot guarantee that the analyses were
+performed within the time recommended by our quality requirements. The results are
+issued with reserve.
+
+- Physicochemical measurements at the beginning of the test: 2021/05/19.
+
+Method Negative Highest Lowest
+control concentration concentration
+(10gDM/L) (1.0gDM/L)
+NF EN ISO
+pH 10523 7.9 7.9 7.8
+a Internal
+Salinity %. method 32.9 29.1 32.3
+02 % NF EN ISO
+saturation 5814 pm = tn
+- Physicochemical measurements at the end of the test: 2021/05/20.
+Method Negative Highest Lowest
+control concentration concentration
+(109DM/L) (1.0gDM/L)
+pH aes | 8.0 7.9
+ee Internal
+Salinity % method 33.6 31.1 33.0
+02 % NF EN ISO
+saturation 5814 180 109 vine
+- Test results:
+[Test Method Effect Toxicological | 439-2021-04300075
+descriptor
+Oyster NF ISO 17244 |Larval toxicity EC30-24h >10 gDM/L
+NOEC 10 gDM/L
+
+Results in g/L of dry matter « 439-2021-04300075 »
+
+Given indicatively:
+
+In brackets: 95% confidence limits of ECx (if estimable)
+
+Net percentage of abnormal larvae at 5 gDM/L: 0%.
+Net percentage of larvae that reached stage D at 5 gDM/L: 100%.
+
+Thus, according to the score grid established by GEODRISK, the risk score is equal to 0, indicating
+
+negligible toxicity.
+
+Eurofins Ecotoxicologie France
+
+152-4-21SK Galtneset
+
+Analytical report n° 21FER6-0996 Bivalve
+version 1 -
+
+2021/06/29
+
+Page 7 of 15
+
+Aqua Kompetanse AS
+
+40
+SS eurofins
+
+VI. TEST VALIDITY CRITERIA
+
+- The percentage of normal D-shaped larvae in the negative control greater than or equal to
+80%: 84.0 %.
+
+- The EC50 value for the Copper Sulfate, expressed in Cu2+, is between 4 and 16 ug/L:
+EC50 Cu* = 10.0 pgl (95% confidence limits: 9.4 - 105 ug/L;
+see Appendix 3).
+
+The test is thus valid.
+
+In Maxéville (France), 2021/06/29.
+Eloise Renouf, Ecotoxicology Group Leader.
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 8 of 15
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+41
+a> eurofins
+
+APPENDIX 1 :
+Synthetic sea water preparation
+
+Composition of the synthetic sea water for 1 L ultrapure water:
+
+Concentration
+
+of salt in
+
+synthetic
+Salt seawater (g)
+NaF 0,003
+SrCl2,6H2O 0,02
+HsBOs 0,03
+KBr 0,1
+KCl 0,7
+CaCi2, 2H20 1,47
+Na2S04 4
+NaCl 10,78
+MgCle, 6H20 23,5
+NazSiQ3,5H2O 0,015
+NaHCOs 0,2
+
+The salts are added to ultra-pure water, in the order of the table, taking care of pending a full
+dissolution between each salt. Once prepared, the water is filtered on a 114m membrane.
+
+After 2 weeks maturation, the seawater is analyzed. It must have the following
+characteristics:
+
+- pH 8,0 +/- 0,4
+
+- Salinity between 25 and 35°%oo
+
+- Dissolved oxygen content greater than 80%
+
+Synthetic seawater can be store up to a year, in a dry, temperate and protected from light
+
+environment.
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 9 of 15
+
+152-4-21SK Galtneset Aqua Kompetanse AS 42
+GS eurofins
+
+Eurofins Ecotoxicologie France
+
+152-4-21SK Galtneset
+
+APPENDIX 2 :
+Raw results - Sample
+
+Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 10 of 15
+
+Aqua Kompetanse AS
+
+43
+&S eurofins
+
+439-2021-04300075
+
+Eurofins Ecotoxicologie France
+
+152-4-21SK Galtneset
+
+Sample :
+
+Negative controls
+
+Net percentage of
+Normal Abnormal abnormal larvae
+1 82 18 18.0%
+2 86 14 14.0%
+3 85 15 15.0%
+4 80 20 20.0%
+5 84 16 16.0%
+6 87 13 13.0%
+Average 84.0 16.0 16.0%
+Sample
+Gross percentage of} Net percentage of
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+82 18 18.0% 24%
+83 17 17.0% 12%
+10 gM S/L 82 18 18.0% 24%
+Average 82.3 17.7 17.7% 2.0%
+Gross percentage of} Net percentage of
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+84 16 16.0% 0.0%
+85 15 15.0% -1.2%
+5 gMS/L 83 17 17.0% 1.2%
+Average 84.0 16.0 16.0% 0.0%
+Gross percentage of] Net percentage of
+Concentration Normal Abnormal abnormal larvae abnormal larvae
+82 18 18.0% 24%
+82 18 18.0% 24%
+3.2 gMS/L 84 16 16.0% 0.0%
+Average 82.7 17:3 17.3% 1.6%
+Gross percentage of] Net percentage of
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+82 18 18.0% 24%
+85 15 15.0% -1.2%
+1.8 gMS/L 84 16 16.0% 0.0%
+Average 83.7 16.3 16.3% 0.4%
+Gross percentage of] Net percentage of
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+84 16 16.0% 0.0%
+85 15 15.0% -1.2%
+I gMS/L 83 17 17.0% 1.2%
+Average 84.0 16.0 16.0% 0.0%
+
+Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 11 of 15
+
+Aqua Kompetanse AS
+
+“3 eurofins
+
+Bivalve Larval Survival and Development Test-Proportion normal
+
+Start Date: 19/05/2021 Test D: 2866-001 Sample ID: 439-2021-04300075
+End Date: 20/05/2021 Lab D: Sample Type:
+Sample Date: Protocol: -NF ISO 17244-2015 Test Species: CG-Crassostrea gigas
+Comments:
+‘Conc-gMS/L 1 2 3 4 5 6
+B-Control 0.8200 0.8600 0.8500 0.8000 0.8400 0.8700
+1 0.8400 0.8500 0.8300
+1.8 0.8200 0.8500 0.8400
+3.2 0.8200 0.8200 0.8400
+5 0.8400 0.8500 0.8300
+10 0.8200 0.8300 0.8200
+Ti fi Arcsin Sq Root 1-Tailed
+Mean N-Mean Mean Min Max CW% N t-Stat Critical MSD
+B-Control 0.8400 1.0000 1.1602 1.1071 1.2019 3.039 6
+1 08400 1.0000 1.1594 1.1458 1.1731 1.177 3 0.050 2602 0.0435
+18 08367 0.9960 1.1550 1.1326 1.1731 1.780 | 0.312 2602 0.0435
+32 08267 09841 1.1415 1.1326 1.1593 1.347 3 1.118 2602 0.0435
+5 08400 1.0000 1.1594 1.1458 1.1731 1.177 = 0.050: 2602 0.0435
+10 08233 09802 11370 1.1326 1.1458 0.568 3 1.387 2602 0.0435
+Auxiliary Tests Statistic Critical Skew Kurt
+Shapiro-Wilk's Test indicates normal distribution (p > 0.01) 0.97113 0.873 0.4915 1.36818
+Bartlett's Test indicates equal variances (p = 0.29) 6.15838 15.0863
+
+[Hypothesis Test (1-tail, 0.05) | NOEC  LOEC  ChV TU msdu  MSDp MSB MSE -F-Prob df
+
+Bonferroni t Test
+
+10 >10 0.03311 0.03939 0.00035 0.00056 068814" 5,15
+
+Eurofins Ecotoxicologie France
+
+152-4-21SK Galtneset
+
+Dose-Response Plot
+
+| 1-tail, 0.05 level
+of significance
+
+B-Control
+
+Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 12 of 15
+
+Aqua Kompetanse AS
+
+45
+GS eurofins
+
+Eurofins Ecotoxicologie France
+
+152-4-21SK Galtneset
+
+APPENDIXE 3 :
+Raw results — Reference substance
+
+Analytical report n° 21FER6-0996 Bivalve
+version 1 - 2021/06/29
+Page 13 of 15
+
+Aqua Kompetanse AS
+
+46
+us eurofins
+
+Negative controls
+
+Net percentage of
+Normal Abnormal abnormal larvae
+I 82 18 18.0%
+2 86 14 14.0%
+3 85 15 15.0%
+4 80 20 20.0%
+5 84 16 16.0%
+6 87 13 13.0%
+Average 84.0 16.0 16.0%
+
+Positive controls (Cu2+)
+
+Gross percentage of | Net percentage of
+
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+0 100 100.0% 100.0%
+0 100 100.0% 100.0%
+32ug/L 0 100 100.0% 100.0%
+Average 0.0 100.0 100.0% 100.0%
+
+Gross percentage of] Net percentage of
+
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+2 98 98.0% 97.6%
+4 96 96.0% 95.2%
+18ug/L 10 90 90.0% 88.1%
+Average 5.3 94.7 94.7% 93.7%
+
+Gross percentage of | Net percentage of
+
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+44 56 56.0% 47.6%
+40 60 60.0% 52.4%
+10ug/L 41 59 59.0% 51.2%
+Average 41.7 58.3 58.3% 50.4%
+
+Gross percentage of] Net percentage of
+
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+75 25 25.0% 10.7%
+78 22 22.0% 7TA%
+5.6ug/L 78 22 22.0% 71%
+Average 77.0 23.0 23.0% 8.3%
+
+Gross percentage of] Net percentage of
+
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+79 21 21.0% 6.0%
+81 19 19.0% 3.6%
+3.2ug/L 82 18 18.0% 2.4%
+Average 80.7 19.3 19.3% 4.0%
+
+Gross percentage of] Net percentage of
+
+Concentration | Normal Abnormal abnormal larvae abnormal larvae
+82 18 18.0% 2.4%
+84 16 16.0% 0.0%
+1.8ug/L 84 16 16.0% 0.0%
+Average 83.3 16.7 16.7% 0.8%
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0996 Bivalve
+
+version 1 - 2021/06/29
+Page 14 of 15
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+SS eurofins
+
+Bivalve Larval Survival and Development Test-Proportion normal
+
+Start Date: 19/05/2021 Test ID: Cu2+ Sample ID:
+End Date: 20/05/2021 Lab ID: Sample Type:
+Sample Date: Protocol: -NF ISO 17244-2015 Test Species: CG-Crassostrea gigas
+Comments:
+1 2 3 4 5 6
+
+B-Control 0.8200 0.8600 0.8500 0.8000 0.8400 0.8700
+18 08200 0.8400 0.8400
+32 07900 0.8100 0.8200
+56 0.7500 0.7800 0.7800
+10 04400 0.4000 0.4100
+18 0.0200 0.0400 0.1000
+32 0.0000 0.0000 0.0000
+
+Ti m: Arcsin Square Root 1-Tailed Number Total
+Mean N-Mean Mean Min Max CVW% N t-Stat Critical MSD Resp Number
+B-Control 0.8400 1.0000 1.1602 1.1071 1.2019 3.039 6 96 600
+18 08333 0.9921 1.1504 1.1326 1.1593 1.337 3 0.356 2655 0.0733 50 300
+32 083067 0.9603 1.1157 1.0948 1.1326 1.727 3 1.611 2655 0.0733 58 300
+*56 0.7700 0.9167 1.0708 1.0472 1.0826 1.908 | 3.238 2655 0.0733 69 300
+*10 04167 04960 07016 0.6847 07253 3.005 | 16.601 2655 0.0733 175 300
+18 0.0533 0.0635 0.2217 0.1419 0.3218 41.337 3 33.974 2655 0.0733 284 300
+*32 0.0000 0.0000 0.0500 0.0500 0.0500 0.000 3 40.187 2655 0.0733 300 300
+Auxiliary Tests Statistic Critical Skew Kurt
+Shapiro-Wilk's Test indicates normal distribution (p > 0.01) 0.92007 0.884 0.50069 3.40694
+
+Equality of variance cannot be confirmed
+
+is Test (1-tail, 0.05) NOEC —LOEC chv TU MSsDu —MSDp M5B MSE — F-Prob df
+
+Bonferronit Test 32 56 4.2332 0.05715 0.06798 0.72765 0.00153 5.6£18 617
+Maximum Likelihood-Probit
+
+Pi is Value SE — 95% Fiducial Limits Control Chi-Sq Critical P-value Mu Sigma ter
+
+Slope 5.98655 0.44282 5.11853 6.854646 0.16 1.39476 948/73 0.85 0.99934 016704 6
+
+Intercept -0.9826 047391 -1.9115 -0.0538
+
+TSCR 0.17028 0.01066 0.14939 0.19118 10 +
+
+Point Probits pg/L 95% Fiducial Limits nail
+
+ECO1 2674 408083 337994 470791 i
+
+ECOS 3.355 530378 4.5803 5.93482 as
+
+EC10 3718 6.09919 538188 6.71964 at!
+
+EC15 3.964 6.70219 5.99763 7.31052 ;
+
+EC20 4.158 7.22368 6.53425 7.8201 8 06 4
+
+EC25 4325 770329 7.03005 8.28866 Sos]
+
+EC40 4747 9.05784 8.43257 9.62055 3
+
+EC50 5.000 9.98491 9.38364 10.5498 got
+
+EC80 5253 11.0069 10.4114 11.6028 az
+
+EC75 5.674 12.9423 12.2739 13.7028
+
+EC80 5842 13.8016 13.0655 14.679 024
+
+ECBS 6.036 14.8755 14.0302 15.9309 014
+
+EC90 6.282 16.3462 15.3168 17.6923 al = 3
+
+EC95 6645 18.7976 17.3985 20.7214 mt på ped
+
+EC99 7.326 24.4309 21.9993 27.9953 Dose pg/L
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0996 Bivalve
+
+version 1 - 2021/06/29
+Page 15 of 15
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+&S eurofins
+
+To:
+
+EUROFINS ENVIRONMENT
+TESTING NORWAY AS (MOSS)
+
+IYO1L:
+DETERMINATION OF ACUTE LETHAL TOXICITY TO
+MARINE COPEPODS OF A SAMPLE REFERENCED AS:
+
+439-2021-04300075
+
+Analytical report n°21FER6-0997 Copepods
+version 1 — 2021/06/29
+
+This report only concerns the goods submitted to the test. This document's reproduction is permitted only in the
+
+form of a full photographic facsimile. This report contains 11 pages.
+
+Eurofins Ecotoxicologie France
+SAS au capital de 71676 € RCS Nancy 751056 102 TVA FR 35751056 102
+Siége social : Rue Lucien Cuenot site Saint Jacques Il BP 51005 54521 MAXEVILLE cedex —
+T 03 83 50 36 17 F 03 83 50 2370
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+SS eurofins
+TABLE
+
+SUMMARY
+L REPORT OBJECT
+I. SAMPLE DESCRIPTION.
+II. WATER EXTRACT PREPARATION
+IV. SIMPLIFIED DESCRIPTION OF THE TOXICITY TEST
+
+IV.1 TOXICOLOGICAL DESCRIPTORS.........:::sceseseseseseeesscesscesscesssessnessaecesessnessses snes snes cae eeee case suse cneeeesecnseeesaeeees
+IV.2 REFERENCES 1.0.0... ceecseeeseesseesseesseesscesscesseesscessee sesesecesscesesesesescsessaesssessaesesee snes cae eaeseaee case sate siseceeeeeseenaeeeaees
+IV.3 MARINE COPEPODS TOXICITY TESTi.svenovvrrvervvenrvenvnrsvnrrnnrrnvrrenrrrvrrnnernnrennrennvennvennnennvenvvennvennnenerennnsnnressnsser
+IV.3.1 Test solutions preparation...........
+IV.3.2 Physicochemical measurements....
+IV.3.3 Inoculation and Incubation ............. ;
+IV.3.4 Results obtaining......rursrervvvvarvvvvnvvrrrnvvnrsrrnsvvnrsvnnrrvsrevvnnnsvevevvnnssvevsrvvnssrvesrvsseee
+
+V. RESULTS 6
+VI. TEST VALIDITY CRITERIA 7
+
+PE SE & WwW
+
+Annex 1: Synthetic seawater composition
+Annex 2: Raw results — Sample
+Annex 3: Raw results — Reference substance
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0997 Copepods
+version1 — 2021/06/29
+Page 2 of 11
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+50
+GS eurofins
+
+SUMMARY
+
+Sample reference: 439-2021-04300075.
+
+Sampling date: Unknown
+
+NB: In the absence of sampling date, we cannot guarantee that the analyses were
+performed within the time recommended by our quality requirements. The results are
+issued with reserve.
+
+Date of receipt: 2021/05/05.
+
+Matrix: sediment.
+
+Eurofins Ecotoxicologie France sample reference: 21G002866-001.
+
+Assay performed:
+
+> IYO1L: Marine copepod (test species: Acartia tonsa), lethality test after 48 hours (FD ISO
+14669, August 2003)
+
+Results:
+Toxicological descriptors:
+
+- NOEC: “No Observed Effect Concentration”; the highest concentration causing no
+significant effects on test organisms.
+
+- LC X %-T: Effective concentration causing a lethality on X% of the population after a time T.
+
+Test Method Effect Toxicological | 439-2021-04300075
+descriptor
+
+Copepod IFD ISO 14669 |Lethality LC50-24h >10 gDM/L
+LCs0-48h >10 gDM/L
+
+UE NOEC 48h | 10gDML
+
+Results in g/L of dry matter « 439-2021-04300075 »
+In brackets: 95% confidence limits of ECx (if estimable)
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0997 Copepods
+version1 — 2021/06/29
+Page 3 of 11
+
+152-4-21SK Galtneset Aqua Kompetanse AS 51
+a> eurofins
+
+I. REPORT OBJECT
+
+Customer information:
+Name: Eurofins Environment Testing Norway AS (Moss).
+Address: Møllebakken 50 — NO — 1538 Moss - Norway
+
+This report summarizes the results obtained on a sample received on 2021/05/05, according
+to order n"EUFRNOMO-00061705 from Eurofins Environment Testing Norway AS (Moss),
+for the realization of biological toxicity testing.
+
+I. SAMPLE DESCRIPTION
+
+Sample reference: 439-2021-04300075 with a solid content of 62.2%.
+Sampling date: NC.
+
+Date of receipt: 2021/05/05.
+
+Matrix: sediment.
+
+Eurofins Ecotoxicologie France index number: 21G002866-001.
+
+Il. WATER EXTRACT PREPARATION
+
+Water extract preparation date: 2021/06/07.
+
+The water extract was obtained by application of the following protocol, adapted from the
+standard EN 12457-2 (2002), index X 30 402-2:
+
+4 mm sample sifting,
+
+Liquid/Solid Mass Ratio =10 calculated in dry matter equivalent,
+
+Agitation 24 hours +1 hour per rollback (5 to 10 laps/min).
+
+Supernatant is obtained after 4 hours of decanting. This supernatant forms the water
+extract used for the preparation of the solutions.
+
+a OE
+
+Ill. SIMPLIFIED DESCRIPTION OF THE TOXICITY TEST
+
+lll.1 Toxicological descriptors
+
+- NOEC: “No Observed Effect Concentration”; the highest concentration causing no
+significant effects on test organisms.
+
+- LC X %-T: Effective concentration causing a lethality on X% of the population after a time T.
+The lower the LCx, the higher the toxicity.
+
+Illl.2 References
+
+> Method adapted from NF EN ISO 14669 (August 2003): Water quality —
+Determination of acute lethal toxicity to marine copepods (Copepoda, Crustacea).
+
+These studies comply with a quality assurance system in accordance with reference frame
+NF EN ISO CEI 17025 ensuring traceability, respect of the protocols and staff accreditation.
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0997 Copepods
+version! — 2021/06/29
+Page 4 of 11
+
+152-4-21SK Galtneset Aqua Kompetanse AS 52
+«> eurofins
+
+Ill.3 Marine copepods toxicity test
+
+The purpose of this test is to determine the concentration of a sample (chemical substance,
+effluent, water...) which induces, in 24 and 48 hours, 50% mortality for the exposed
+organisms.
+
+This concentration, known as the median lethal concentration, is designated LC50.
+
+Test organism: Marine copepod
+
+Specie: Acartia tonsa
+
+Origin: « Guernsey Sea Farms », Great Britain, hatchery specialized in the production of
+marine organisms under controlled conditions.
+
+ll1.3.1 Test solutions preparation
+
+Preparation date: 2021/06/08.
+
+The solutions are prepared in small plastic vials, with 25ml for each replicate, by dilution of
+the water extract with synthetic seawater obtained in accordance to the table in Annex 1.
+
+The maximum tested concentration is 10 g dry matter/L (gDM/L), and the interval between
+two dilutions is 0.25 logarithmic units:
+10 — 5.6 — 3.2 — 1.8 — 1.0 gDM/L...etc.
+
+An analytical test includes:
+- 4 replicates per negative control (i.e. synthetic seawater)
+- 4 replicates per concentration of the sample.
+
+The 3.5-Dichlorophenol is used as a reference substance in order to verify the organisms’
+sensitivity during the test (positive control).
+
+Il1.3.2 Physicochemical measurements
+
+At the beginning of the test, pH, Oxygen and salinity are measured in the negative control,
+and in the lowest and highest sample concentrations.
+Ate the end of the test, pH and Oxygen are measured anew in the same test conditions.
+
+Ill.3.3 Inoculation and Incubation
+
+In each vial, copepods are placed in order to respect the maximum density of 1 organism per
+5 mL, thus 5 copepods per 25 mL vials are introduced, taking care of minimizing the quantity
+of water transferred to the tests solutions.
+
+The vials are incubated in a lab oven, at 20°C+/-2°C, under a light-dark photoperiod of
+16h/8h.
+
+I11.3.4 Results obtaining
+
+After 24 and 48h, the surviving copepods are counted in each container. The non-swimming
+organisms and those who are not showing appendage movements for 10s are considered
+dead.
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0997 Copepods
+version! — 2021/06/29
+Page 5 of 11
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+53
+a> eurofins
+
+Any abnormal behavior or appearance should be recorded.
+
+From the lethality data obtained with the replicates of each concentration, the lethality
+percentage after 24 and 48h can be determined, by comparison to the total number of
+copepods used at the beginning of the test (see Annex 2).
+
+Calculation methods:
+
+> For the determination of the LCx: Log-Probit statistic model (ToxCalc Software) ;
+> For the determination of the NOEC: Bonferroni statistic model (ToxCalc Software).
+
+IV. RESULTS
+
+NB: In the absence of sampling date, we cannot guarantee that the analyses were
+performed within the time recommended by our quality requirements. The results are
+issued with reserve.
+
+- Physicochemical measurements at the beginning of the test: 2021/06/09
+
+Method Negative Highest Lowest
+control concentration concentration
+(109DM/L) (1.0 gDM/L)
+
+pH NF EN ISO
+
+10523 7.9 7.8 7.9
+Salinity %o Internal
+
+—— 32.9 30.6 32.6
+Dissolved oxygen mg/L ah ae 8.1 11.0 10.3
+
+- Physicochemical measurements at the end of the test: 2021/06/10
+
+Method Negative Highest Lowest
+control concentration concentration
+(10gDM/L) (1.0 gDM/L)
+pH NF EN ISO
+10523 8.1 8.0 8.0
+Dissolved oxygen mg/L | NF EN ISO 10.1 127 112
+5814
+- Test results:
+Test Method Effect Toxicological | 439-2021-04300075
+descriptor
+Copepods FD ISO 14669 |[Lethality CLso-24h >10 gDM/L
+es es på Leo-48h ~ 310gDM/L |
+NOEC 48h 10 gDM/L
+
+Results in g/L of dry matter « 439-2021-04300075 »
+In brackets: 95% confidence limits of ECx (if estimable)
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0997 Copepods
+version1 — 2021/06/29
+Page 6 of 11
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+54
+SS eurofins
+
+V. TEST VALIDITY CRITERIA
+
+- The lethality percentage of the negative controls equals or is less than 10%: 5 %
+
+- The mortality percentage after 48 hours of a 1 mg/L solution of 3.5-Dichlorophenol is
+between 20 and 80%: 65%.
+
+- The dissolved oxygen concentration at the end of the test in the controls is greater than or
+equal to 4 mg/l (see V.).
+
+The test is thus valid.
+
+In Maxéville (France), 2021/06/29.
+Eloise Renouf, Ecotoxicology Group Leader.
+
+å
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0997 Copepods
+version! — 2021/06/29
+Page 7 of 11
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+55
+a> eurofins
+
+ANNEX 1 :
+Synthetic sea water preparation
+
+Composition of the synthetic sea water for 1 L ultrapure water:
+
+Concentration of salt in
+Salt synthetic seawater (g)
+NaF 0,003
+SrCl2,6H20 0,02
+HsBO3 0,03
+KBr 0,1
+KCI 0,7
+CaCiz, 2H20 1,47
+Na2S50Q4 4
+NaCl 10,78
+MgCle, 6H20 23,5
+Na2SiQ3,5H2Q 0,015
+NaHCO3 0,2
+
+The salts are added to ultra-pure water, in the order of the table, taking care of pending a full
+dissolution between each salt. Once prepared, the water is filtered on a 14m membrane.
+
+After 2 weeks maturation, the seawater is analyzed. It must have the following
+characteristics:
+
+- pH8,0 +/- 0,3
+
+- Salinity between 29 and 360
+
+- Dissolved oxygen content greater than 80%
+
+Synthetic seawater can be store up to a year, in a dry, temperate and protected from light
+
+environment.
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0997 Copepods
+version1 — 2021/06/29
+Page 8 of 11
+
+152-4-21SK Galtneset Aqua Kompetanse AS 56
+&S eurofins
+
+ANNEX 2:
+Raw results — Sample
+
+439-2021-04300075
+
+RESULTS AFTER 24 HOURS
+
+5 5 5 5 5 5
+
+u 5 5 5 5 5 5
+
+u 5 5 5 5 5 5
+
+Vv 5 5 5 5 5 5
+mme 20 | 20 20 20 20 20
+Lethality % 0% 0% 0% 0% 0% 0%
+
+RESULTS AFTER 48 HOURS
+
+1 3 3 5 5 5 4
+
+u 3 2 5 5 5 5
+
+i 4 5 5 5 5 5
+
+iv 5 5 5 5 5 5
+meme] 15 | 15 20 20 20 19
+tethatty% | 25% | 25% | 0% | 0% | 0% | 5%
+
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0997 Copepods
+version1 — 2021/06/29
+Page 9 of 11
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+a eurofins
+
+Acute Acartia tonsa-48 Hr Survival
+Start Date: 09/06/2021 Test ID: 2866-001 Sample ID:
+End Date: 11/06/2021 Lab ID: Sample Type:
+Sample Date: Protocol: 180 14669 Test Species: AT-Acartia tonsa
+Comments:
+Conc-giL 4 2 3 4
+B-Contral 0.8000 1.0000 1.0000 1.0000
+1 1.0000 1.0000 1.0000 1.0000
+18 1.0000 1.0000 1.0000 1.0000
+32 1.0000 1.0000 1.0000 1.0000
+56 0.6000 04000 1.0000 1.0000
+10 06000 06000 08000 1.0000
+Transform: Arcsin Square Root 1-Tailed Number Total
+Conc-gil Mean N-Mean Mean Min Max CV% N tStat Critical MSD Resp Number
+B-Control 0.9500 1.0000 1.2857 1.1071 1.3453 9.264 4 1 20
+1 1.0000 1.0526 1.3453 1.3453 1.3453 0.000 4 0.495 2552 0.3069 0 20
+1.8 1.0000 1.0526 13453 1.3453 1.3453 0.000 4 -0.495 2552 0.3069 0 20
+32 1.0000 1.0526 13453 1.3453 1.3453 0.000 4 -0.495 2552 0.3069 0 20
+56 0.7500 0.7895 1.0653 0.6847 1.3453 31.308 4 1.833 2552 0.3069 5 20
+10 07500 0.7895 1.0561 08861 1.3453 20.748 4 1.910 2552 0.3069 5 20
+Auxiliary Tests Statistic Critical Skew Kurt
+Shapiro-Wilk's Test indicates non-normal distribution (p == 0.01) 0.85345 0.884 -0.1063 1.4225
+Equality of variance cannot be confirmed
+Test (1-tail, 0.05) NOEC LOEC chy TU MSDu  MSDp MSB MSE _ F-Prob df
+Bonferronit Test 10 >10 0.23222 0.25216 0.07972 0.02891 0.05088 5,18
+Maximum Likelihood-Probit
+ti Value SE — 95% Fiducial Limits. Control Chi-Sq Critical P-value Mu Sigma Iter
+Slope 2.62035 1.39854 -0.1208 5.36148 0.05 441232 781473 022 1.1936 0.38163 50
+Intercept 1.87234 1.22105 -0.5209 426559
+TSCR 0.041408 0.02059 -0.0263 0.05444 1.0
+Point Probits gl 95% Fiducial Limits 09
+Eco 2.674 2.02211 :
+Ecos 3.355 3.68028 08
+EC10 3.718 5.0644 07
+EG15 3.964 6.28162
+EC20 4.158 7.45448 gos
+EC25 4.326 8.63375 Sos
+EC40 4747 12.5003 -
+EC50 5.000 15.6172 om 04
+EC60 5.253 19.5114 0.3
+EcTs 5.674 28.2493 gå ose
+EC80 5842 327182
+EC85 6.036 38.8272 0.1
+EC90 6.282 48.1592 00 $a ; ;
+EC95 6.645 66.2713 G
+EC99 7.326 120.515 , = am _
+
+Eurofins Ecotoxicologie France
+
+152-4-21SK Galtneset
+
+Dose giL
+
+Analytical report n° 21 FER6-0997 Copepods
+version1 — 2021/06/29
+Page 10 of 11
+
+Aqua Kompetanse AS
+
+58
+GS eurofins
+
+ANNEX 3 :
+Raw results — Reference substance
+
+3.5 Dichlorophénol
+
+RESULTS AFTER 24 HOURS
+Concentrations Negative
+mg/L l controls
+I 3 5
+1 3 5
+u 2 5
+IV 2 5
+Totalsurviving
+organisms 10 20
+Lethality % 50% 0%
+RESULTS AFTER 48 HOURS
+Concentrations Negative
+mg/L l contro Is
+I 2 4
+u 3 5
+n l 5
+Vv 1 5
+Totals urviving
+organisms 7 19
+Lethality % 65% 5%
+Eurofins Ecotoxicologie France Analytical report n° 21FER6-0997 Copepods
+
+version1 — 2021/06/29
+Page 11 of 11
+
+152-4-21SK Galtneset Aqua Kompetanse AS
+
+59

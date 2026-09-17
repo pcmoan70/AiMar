@@ -1,0 +1,1235 @@
+﻿Modellering av utslippsvannets
+spredning ved
+
+Kvalnes
+
+Lokalitet: Kvalnes
+Kunde: Andfjord Salmon
+
+¢
+
+AKERBLA
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+Dokumentkontroll
+
+Rapport
+
+Rapportbeskrivelse Modellering av utslippsvannets spredning ved Kvalnes.
+
+og navn SM-T-01721-Kvalnes0521-ver01.pdf
+
+Rapportversjon Dato Beskrivelse
+
+01 01.06.2021 | Første utgivelse
+
+02 27.07.2021 | Sammenligning med strømmålinger fra 2021
+
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten
+Rapportdistribusjon kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde
+
+oppgis.
+Lokalitet
+Lokalitetsnavn Kvalnes Lokalitetsnummer 38897
+Kommune Andøy Fylke Nordland
+Sammendrag
+
+Simulering er gjort av utslipp på 9 m dyp ved Kvalnes, over en periode på ett år. Inntak av saltvann
+foregår ved 31 m dyp.
+
+Konsentrasjon ved inntaksposisjonen varierer sterkt med det halvdaglige tidevannet. De høyeste
+konsentrasjonene opptrer i forbindelse med at tidevannsstrømmen snur. Utslippsskyen vil da kunne
+bevege seg mot inntaksposisjon (mot SØ) i korte perioder slik at konsentrasjonen overstiger 10%.
+Høyeste konsentrasjon i løpet av simulert periode er 57%. Konsentrasjonen var da over 10% i 50
+minutter.
+
+Utslippet spres og fortynnes for det meste langs bunnen i en akse NØ-SV, som er de dominerende
+strømretningene ved lokaliteten. Konsentrasjonen overstiger 10% opptil I km mot NØ og SV fra
+utslippspunktet. Konsentrasjonen avtar raskt østover når det blir dypere. Konsentrasjonen av utslipp
+overstiger ikke 1% når en kommer | km Ø for utslippsposisjon.
+
+Det meste av utslippet spres langt av gårde før det når overflaten, hovedsakelig i retning NØ-SV.
+Konsentrasjonen av utslipp ved overflaten var høyest i perioder med lite strøm (januar), der den
+oversteg 40% opptil 300 m SV for utslippsposisjon og 400 m mot NØ.
+
+Oppdragsgiver
+
+Selskap Andfjord Salmon, Havnegata 19, 8400 Sortland
+
+Kontaktperson Christine Thomassen christine@andfjord.no
+
+Oppdragsansvarlig
+
+Selsk Akerbla AS; Nordfrøyveien 413; 7260 SISTRANDA
+ap Organisasjon nr. 963 554 052
+
+Rapportansvarlig Lars Engvik lars.engvik@akerbla.no
+
+Kontrollert av Inga Breisnes Utkilen Inga.utkilen@akerbla.no
+
+Side 2 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+Innholdsfortegnelse
+1. Innledning.......eesssseesssvvesssnvenssnvensnnvensnnsensnnsensnnssnennssnnrnesnnrnssnnrnennnenenenesennnesennnenssnnesesnnnsennnnnnnnnnennnne 4
+2, Områdeébeskrivelsé uermnnensnesnrsssnssmnennssnnevsnnsvnnvvvsrnveervesGdsEainnEekEEEG: 5
+3. Metodikk......essvessvsvvvevsvennennevnvennnnnnnsnnnennennnsnnensnnnnesnnnennenneennennennnnnnnnennennnennansnnnnennnnsnnnnnnensannennensnneee 7
+3.1 Spredning og fortynning 22.0... ee cece cece eee ceee cece accesses ceeeceesseeseceseceeseeeseenseseseseeseeeteees 7
+3.2 — Spredning av utslipp i Delft3D-FLOW .....rrrrrrnvrrrrvrrrvrrvvrrrvrrrrrrrrvvrrnvrrrnrsrrrnrevnrrnverrnnsrsrnrnnnr 7
+3.2.1 Bunndata og modellstorrelse oo... cece cece eee cees eee eeceseceseceeseeesseceseceeseeesseenseeeseesaes 7
+3.2.2 Inngangsdata for strømmodellering o.oo. eee ccc cece cece cece cece eecesecesseeeseeenseenseeeeee 9
+3.2.3 Utslippsmodel ering... o.oo. ccc cece ccee cece cess eeeeeeceseceseceeseecseceseceseeeseeensessseeeeseeeeees 10
+4. Resultater......sessnneesevneesnnnvennnnennnnneennnnennnnnennnnnennnnnennennennnnnennunnennnnnennnnnennnnnennnnnennnnnennnnnsennnnsennnneenee 11
+4.1 Spredning langs DUNN... ee cece cece cece eee ceee access ceeeeesceessecseseeeesseeenseseeeseseeeseeenseeees 11
+4,2 Spredning ved overflaten ..........rrrnrrrrnrovrrrnvrrrnrrrrrrrrvrrrnvrrrnnrrernrevvrrnverrnnnrrrnrennrrnvnrrnnsrrnnnenn 14
+4.3 Konsentrasjon ved inntakspunkt ..........oernrorrrvrorvrrnvrrrrrrrrrrrrvvrrnvrrrnrrrernrrnvrrnvrrrnnnrrrnrennennnenn 17
+5. Konklusjon... veuesssassseaannnensunenennivvmsanvvEp SEERNE ENTEN NNeenaeaNeeneneunennE 19
+6. Vedlegg - Havnivå ...seesesesvvenveevseessensennsenseensesnsenssensennssnsesnsssnsennsensensssnsennsssnsesnsensssnssnsesnsssnseensensee 20
+7. Vedlegg — Resultater fra strømsimulering.....+esssvvonsvovensvvvennvveesvvvesnvsesnnesesnnesesnnesesenesssnnsesnnneee 22
+71 Strømresultater for inntaksposisjon...........rrrrrrrnrrrrrrrrrvrrrvrrrrrrrrvvrrnvrrrnnrrrnnernrrnverrnnsrennnnnn 22.
+7.2 — Simulert strøm i området rundt lokaliteten ............osoernrrnrrrrrrrrrrrrerrrrrnrnrrrnrrrrnnrrnennrrnernennn 26
+7.2.1 Effektiv transporthastighet ved overflaten.............soonnronrrrnnrnrrrnrrnvrrnvrrnnrrnernnnrnnrnnnennrnn 26
+122 Effektiv transporthastighet langs bunn .........srervrrnvrrrvrrrrrrrrvvrrnvrrrnvrrrrnrrvvrrnverrnnsrsvnnnnn 27
+7.3 Stromresultater sammenlignet med målinger.........rmrsvrrvrrnvrrnvrrvrrrvrrnrrrvrrnvrrvvrrverrvernvnrnnnnnr 28
+S. Vedlegg- Usikkerhetsvardernguuoeussnvressucomunuenoiusmmsaawepuwunaopøssproesseoesponessssonneoe 31
+8.1 Inngangsdata for strommodel o.oo... eee cece cee ceee cece ceeseeeusecesecesseeeseeenseseseseeseeeeees 31
+82 — Strammmodel o.oo. ee cece cecece cece cee cesccesececeeceeecesecaeceaeeseceacesseesecaecsaceseeeseesseeseseaeeseeeaes 31
+8.3 Smmittespredmin goo... eee ce cece ce ceec cece seeeceeseeseeesecuaeceaecaeeeseeseeeseceaeceaeeaeeeseeeseeeeeseenseeaes 31
+9, Refransehennunsueasmennansnunsnaninsmsnnanvannnnmnnmsvnimnvs EKEGREN KEENE 32
+
+Side 3 0f 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+1. Innledning
+
+Åkerblå AS har på oppdrag fra Andfjord Salmon utført modellering av fortynning og spredning av
+utslippsvann fra oppstartsbasseng for matfiskanlegg ved Kvalnes i Andøy kommune.
+
+Formålet med rapporten er å avgjøre hvor raskt utslippsvannet vil fortynnes og samtidig hvor det
+spres finne det området som er best egnet for inntak av vann for anlegget. I produksjonen er det
+planlagt et vannforbruk på 20 000 m/time.
+
+Det er planlagt en posisjon for inntak og utslipp. Modelleringen vil gi grunnlag for å finne ut hvor
+godt egnet plasseringen er for å unngå krysskontaminering mellom inntak og utslipp.
+
+Modelleringen presenterer en tilnærming av forholdene basert på inngangsdata. Resultater bør
+vurderes ut fra lokal kunnskap og erfaring.
+
+Side 4 0f 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+2. Omradebeskrivelse
+
+Kvalnes ligger på østsiden av Andøya i Andøy kommune i Nordland. Et oversiktskart over området
+er vist i Figur 2.1. Anlegget Kvalnes er markert med % i figuren og ligger på vestsiden av Andfjorden.
+Andfjorden er 50 km lang i N-S retning og 30 km bred og er avgrenset av Andøya i vest, Senja i øst
+og Grytøya og Hinnøya i sør. Fjorden åpner opp mot Norskehavet nordover forbi Andenes.
+
+Ytterst lengst nord har fjorden er det en terskel på ca. 300 m. Fjorden er i overkant av 500 m dyp pa
+det dypeste, øst for Kvalnes. Figur 2.2 viser bunntopografien i området rundt lokaliteten. I posisjonen
+hvor det er planlagt utslipp er det 9 m dypt. Utenfor inntaksposisjon er det en skråning som er vendt
+østover. Planlagt inntaksposisjon ligger 270 m SØ for utslippsposisjonen, på 31 m dyp. Utenfor
+inntaksposisjonen skråner bunnen raskere nedover mot den dypeste delen av fjorden.
+
+Det er foretatt strømmålinger 55 m NV for utslippsposisjonen, der det er 11 m dypt og ved
+inntaksposisjonen (Åkerblå 2021). Disse posisjonene er vist med røde flagg i Figur 2.2.
+
+SENJA
+
+Grytøya
+
+HINNØYA
+
+Figur 2.1 Oversiktskart over området rundt anlegget, anvist med %. Kartet er hentet fra
+Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.
+
+Side 5 0f 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+Og? <<< | >>> Auto
+
+Figur 2.2 Bunntopografi i området rundt anlegget. Den tynne kompasspila øverst 1 venstre hjørne
+indikerer kartets orientering. Utslippsposisjon er vist med % og posisjon for inntak av saltvann er
+vist med %. Det er foretatt målinger av strøm (Åkerblå 2021) i inntaksposisjon og 55 m NØ for
+
+utslippsposisjonen. Posisjonene er vist med røde flagg 1 den nederste bilde. Kartene er hentet fra
+Olex. Kartdatum: WGS84.
+
+Side 6 0f 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+3. Metodikk
+
+3.1 Spredning og fortynning
+
+Ved utslipp til en resipient er det vanlig å skille mellom to prosesser, primærfortynning og
+sekundærfortynning (Ranneklev m. fl., 2013). I den umiddelbare nærheten av utslippet foregår
+primærfortynningen. Den bestemmes hovedsakelig av hastigheten til avløpsvannet og
+tetthetsforskjellen mellom avløpsvannet og resipienten. Her foregår fortynningen som regel raskt ved
+horisontal bevegelse drevet av avløpsvannets hastighet ut av avløpsrøret og ved en vertikal bevegelse
+drevet av tetthetsforskjeller mellom avløpsvann og resipient. Når utslippsvannet fortynnes og
+tetthetsforskjellen er utjevnet, vil den vertikale bevegelsen stort sett opphøre og utslippet har da nådd
+innlagringsdypet. Etter innlagring starter sekundærfortynningen som hovedsakelig foregår ved
+horisontal spredning i resipienten. Sekundærspredningen er avgjørende for hvor stort område som
+påvirkes av utslippet og om f.eks. strandsoner kan bli påvirket.
+
+Utslippsvannet ved Kvalnes vil bestå av sjøvann som er hentet fra 31 m dyp og vil bli sluppet ut ved
+9m dyp. Sjøvannets egenvekt øker med dypet og utslippsvannet er dermed forventet å være
+tyngre en resipienten ved utslippspunktet og vil derfor være forhindret fra å nå direkte opp til
+overflaten. Utslippsvannet vil i løpet av primærfortynningen følge bunnens helning nedover samtidig
+som det blander seg med resipienten. I denne prosessen vil tettheten til utslippsvannet bli utlignet
+med resipienten. Utslippsvannet vil deretter følge strømmen i fjorden og gradvis fortynnes videre.
+
+For å bestemme transporten og spredning av utslippet er det laget en strøm- og spredningsmodell for
+lokaliteten ved hjelp av programvaren Delft3D-FLOW (Deltares, 2018). Delft3D-FLOW er en
+tredimensjonal, hydrodynamisk modell som gir strømfelt over et stort område og flere dybdeniva. At
+modellen omfavner et stort horisontalt område gjør at man får med variasjoner og unike forhold innad
+i området. Modellen kan kjøres over lengre tidsperioder, noe som gir mulighet for å se variasjon over
+sesonger og år. I modellen løses Navier-Stokes-ligningene for strømmen basert på Boussinesq-
+tilnærmelsen (Lesser m.fl., 2004), sammen med ligninger som beskriver temperatur, saltholdighet og
+spredning av utslipp.
+
+3.2 Spredning av utslipp i Delft3D-FLOW
+
+Delft3D-FLOW benytter atmosfæriske inngangsdata som vind, temperatur, lufttrykk og luftfuktighet,
+og regionale havdata som havnivå, strøm, temperatur og salinitet (Delft3D-FLOW, 2018). Ved hjelp
+av disse inngangsdata løses Navier-Stokes ligninger for strømmen i tre dimensjoner. Den vertikale
+bevegelsen antas å være liten i forhold til den horisontale slik at vertikal akselerasjon kan neglisjeres.
+Bevegelsen styres av trykkgradienter beregnet fra variasjon i havnivå, temperatur og salinitet.
+Effektene fra jordrotasjon er inkludert ved hjelp av Corioliskraften. Turbulensegenskaper for
+strømmen er tatt hensyn til ved en såkalt k-epsilonmodell som er tilgjengelig i Delft3D-FLOW.
+
+3.2.1 Bunndata og modellstørrelse
+
+En tredimensjonal strømmodell er laget for området i form av horisontalt rutenett rundt
+utslippspunktet. Modellen har et horisontalt rutenett som er vist 1 Figur 3.1, og har en gradvis
+avtagende oppløsning fra 16m =< 16m ved utslippsposisjon og gradvis til 576 m x 576m ved
+randsonene.
+
+Side 7 0f 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune
+
+Åkerblå AS
+
+Figur 3.1 Rutenett benyttet for å modellere strøm og spredning av utslipp fra lokaliteten.
+Utslippspunkt er anvist med %. Kartet er hentet fra Fiskeridirektoratets kartverktøy, med kartdatum:
+
+WGS84.
+
+For å beskrive variasjon i dybden er det valgt en sigmamodell med 15 dybdelag. Dybdelagene følger
+
+terrenget og varierer i tykkelse proporsjonalt med dypet (se Tabell 3.1).
+
+Bunndata brukt i modellen er hentet fra kartverket, og tilpasset oppløsningen i modellen ved hjelp av
+interpolasjon. I de indre delene av fjorden er det benyttet oppmålte bunndata fra oppdragsgiver.
+
+Tabell 3.1 Fordeling og prosentvis tykkelse av vannlag i modellen for et valgt dyp på 30 m. Nederst
+er det i alt 10 vannlag som hver utgjør 8% av den totale dybden.
+
+Vannlag Tykkelse (%) | Tykkelse for 30m dyp(m) Dybde (m)
+1 2 0.6 0.0 - 06
+2 3 0.9 0.6 - 15
+3 4 1.2 15 - 2.7
+4 5 1.5 2.7 - 4.2
+5 6 1.8 42 - 6.0
+6-15 80 24.0 6.0 - 30.0
+
+Side 8 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+3.2.2 Inngangsdata for strømmodellering
+
+Den hydrodynamiske modellen er drevet av randbetingelser, dvs. strøm over ytre grenser, tidevann,
+vind og varmeutveksling med atmosfæren, samt ferskvannstilførsel. Inngangsdata for strøm,
+saltholdighet og temperatur er fra Havforskningsinstituttets modell NorKyst800, som er en havmodell
+basert på ROMS (Regional Ocean Modeling System) (NK800, 2020; Albretsen, et al., 2011). Dette
+er timesdata med oppløsning på 800 x 800 m, som omfatter havnivå, strømhastighet, temperatur og
+saltholdighet. Dataene interpoleres for å tilpasses gitternettet med høyere oppløsning i Delft3D-
+FLOW. Inngangsdata for havnivå er hentet fra kartverkets nettside for vannstands- og
+tidevannsinformasjon (Kartverket, 2021).
+
+Atmosfæriske data er hentet fra Meteorologisk institutt, MEPS (MetCoOp Ensemble Prediction
+System, 2020). Dette er data for vind, temperatur og luftfuktighet, og er gitt med intervall på 3 timer
+og med oppløsning på 2.5 x 2.5 km. Også disse dataene interpoleres for å tilpasses gitternettet i
+strommodellen.
+
+Fordi modellomradet ligger relativt langt fra fastland og omrader med stort ferskvannstilsig, er dette
+neglisjert i denne modellen. Dermed er det bare saltholdigheten og temperaturen i inngangsdataene
+som styrer lagdelingen i overflatelaget.
+
+For å unngå ustabilitet i starten av modellkjøringen er modellen startet med en spin-up-periode på en
+måned (desember 2019). Resultatene fra denne kjøringen er deretter brukt som inngangsverdi for den
+endelige modellkjøringen. Etter spin-up er strømmodellen kjørt for perioden januar til og med
+desember 2020.
+
+Parametere som er benyttet i modellen, blant annet for å beskrive turbulens, er gitt i Tabell 3.2.
+
+Tabell 3.2 Modellparametere i Delft3D-FLOW
+
+Parameter Verdi
+Horizontal eddy viscosity 1.0 m?/s
+Background vertical eddy viscosity 0.001 m?/s
+Horizontal eddy diffusivity 1.0 m?/s
+Background vertical eddy diffusivity 0.0001 m?/s
+Time step 30s
+
+Side 9 0f 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+3.2.3 Urtslippsmodellering
+
+Posisjon for inntak og utslipp av vann er vist i Tabell 3.3 og Figur 2.2. Det skal kunne pumpes 20 000
+m? vann gjennom anlegget pr time. Det svarer til en strøm på 5.556 m/s. Salinitet og temperatur på
+utslippsvannet er antatt å være lik inntaksverdiene.
+
+Tabell 3.3 Posisjoner for simulert inntak og utslipp.
+
+Posisjon (N) Posisjon (Ø) Dyp (m)
+Utslipp (% i Figur 2.2) 69° 9.415” 16° 5.580” 9
+Inntak ( i Figur 2.2) 69° 9.305” 169 5.841” 31
+
+Biologiske forutsetninger for smitte fra utslippet avtar eksponentielt etter utslippstidspunkt, ved at
+virus blir inaktive. Smittsomme virus har halveringstid på 4.3 dager ved 4°C (Graham et al 2007).
+For at konsentrasjon skal reflektere smittepresset introduseres en nedbrytningsrate for utslippet i
+resipienten (Tabell 3.4).
+
+Tabell 3.4 Nedbrytning av utslipp basert på reduksjon av smittsomme virus (Graham et al 2007).
+
+Halveringstid virus (4°C) Reduksjon av aktive virus Nedbrytning av utslipp
+4.3 dager 16.12% pr døgn 16.12% pr døgn
+
+Side 10 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+4. Resultater
+
+Det er foretatt simulering med konstant utslippsrate på 5.556 m/s ved utslippsposisjon som er markert
+
+% i Figur 2.2, og tilsvarende inntak i posisjon vist med % i samme figur. Posisjonene er angitt i
+Tabell 3.3.
+
+Spredning og konsentrasjon er vist på utvalgte dager, og maksimale konsentrasjoner registrert i løpet
+av januar og juli. Disse månedene ble valgt på grunn av ulike strømforhold. Januar er måneden med
+svakest strøm mens juli har de høyeste strømverdiene (se Vedlegg 7).
+
+Konsentrasjonen er volumandelen av utslippsvann i resipienten, hvor 100 % svarer utslippsvannet
+uten innblanding av vann fra resipienten. Utslippsvannet vil umiddelbart bli utblandet og fortynnes
+når det kommer 1 kontakt med resipienten og danne en utslippssky som gradvis får lavere
+konsentrasjon når den beveger seg bort fra utslippsposisjonen.
+
+Konsentrasjon av utslipp er registrert hver time for hele det simulerte området. Konsentrasjon av
+utslipp langs bunnen er vist 1 avsnitt 4.1 for januar og juli. I avsnitt 4.2 er konsentrasjonen ved
+overflaten vist for de samme to månedene.
+
+For å vurdere graden av krysskontaminering mellom inntak og utslipp er konsentrasjon av
+utslippsvann ved inntaksposisjon registrert hvert 10. minutt i løpet av hele den simulerte perioden
+Disse resultatene er vist 1 avsnitt 4.3.
+
+4.1 Spredning langs bunn
+
+Figur 4.1 viser maksimal konsentrasjon av utslippsvann registrert langs bunnen i løpet av januar og
+juli.
+
+De høyeste konsentrasjonene opptrer i juli når konsentrasjonen overstiger 80% i et område på opptil
+200 m sør og nord for utslippspunktet. Utslippet beveger seg hovedsakelig mot NØ og SV, og følger
+utslippsdypet. Konsentrasjonen overstiger 10% opptil I km mot NØ og SV fra utslippspunktet.
+Østover avtar konsentrasjonen raskt når det blir dypere. Maksimal konsentrasjon ved inntaksposisjon
+i juli er 45%. 1 km øst for utslippsposisjon er det ikke konsentrasjon av utslipp over 1%.
+
+Det er høyere konsentrasjon av utslipp i de dypeste delene av fjorden i januar enn i juli. Dette kan
+forklares ved at det er lavere strøm i denne måneden og utslippet bruker lengre tid på å transporteres
+vekk. Det får da tid til å bevege seg mer vertikalt i vannsøylen og nå ut til dypere områder.
+
+Figur 4.2 viser spredningen av utslippet for utvalgte tidspunkt i januar og juli. Resultatene viser at
+utslippsskyen til enhver tid dekker et relativt lite område, men at den kan forflytte seg relativt langt
+over kort tid avhengig av strømmen i området. Spredningen av utslipp varierer betydelig med
+tidevannet og veksler hovedsakelig mellom å spres mot NØ og SV. I korte perioder når tidevannet
+snur kan utslippsskyen også bevege seg nedover 1 vannlagene slik at den når inntaksposisjon.
+
+Side 11 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+Konsentrasjon bunn (01.01-01.02 2020) -
+
+90
+
+80
+
+—
+
+km (Nord-Sør)
+
+Oo
+
+Konsentrasjon [%]
+
+30
+
+20
+
+10
+
+km (Øst-Vest)
+
+Konsentrasjon bunn (01.07-01.08 2020) -
+
+90
+
+80
+
+—
+
+km (Nord-Sør)
+
+Oo
+
+Konsentrasjon [%]
+
+30
+
+20
+
+10
+
+-1 0 1 2 3
+km (@st-Vest)
+
+Figur 4.1 Spredning og konsentrasjon langs bunn i januar og juli 2020, fra utslippspunkt vist med
+grønn prikk. Rød prikk viser inntaksposisjon. Konsentrasjoner ned til 1 % er vist.
+
+Side 12 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune
+
+Åkerblå AS
+
+Konsentrasjon bunn 17.01 00:00 nid Konsentrasjon bunn 25.01 00:00 sha
+2 ret 90 2 ump | %
+4 4
+4 80 på 80
+pi 7 ? TO x.
+= = ‘a = = Å =
+= År — = 4 a
+S | : GERE: k © §
+ra : + 7
+GE 5 ate 50 8 5 Å sg £
+= ll E = 2
+5 | | å å | Å
+Eo} f E Eo I 5
+= My å de x
+= ? 30 } 30
+Ve 20 20
+k
+AF 4
+10 10
+“1 0 1 2 0 1 2 =)
+km (@st-Vest) km (@st-Vest)
+Konsentrasjon bunn 09.07 00:00 å Konsentrasjon bunn 29.07 00:00 100
+9 hå d
+4 = 80 4 = ao
+) Tv — } Å
+å =] i c=
+a [ = = 4 { =
+o a å 60 & a i 60 &
+i 2 i 2
+a E + 2 =] 5 2
+S o et 50 = o PKT =D =
+« = Fa ec =. { I TE
+om å B å 8
+= E0 r “ £ | Eo å ud
+— Ay oe pr ha hd
+Å 30 ; 30
+å 20 2 20
+1 1
+10 10
+1 it] 1 2 0 1 2 3
+km (@st-Vest) km (@st-Vest)
+
+Figur 4.2 Konsentrasjon langs bunn med utslippspunkt vist med rød prikk og inntak vist med grønn
+prikk, pa dagene: 17.01.2020, 25.01.2020, 09.07.2020 og 29.07.2020. Konsentrasjoner ned til 1 % er
+
+vist.
+
+Side 13 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+4.2 Spredning ved overflaten
+
+Figur 4.3 viser maksimal konsentrasjon registrert 1 overflaten i løpet av januar og juli. I januar er
+konsentrasjonen ved overflaten nær utslippsposisjon høyere enn i juli. Dette skyldes at det er lavere
+strøm i januar og utslippet bruker lengre tid på å transporteres vekk. Det får da mer tid på å bevege
+seg vertikalt i vannsøylen. Konsentrasjon av utslippsvann overstiger 40% opptil 300 m SV for
+utslippsposisjon og 400 m mot NØ.
+
+I juli er strømmen sterkere og det meste av utslippet transportert over store avstander før det når
+overflaten. Konsentrasjonen ved overflaten overstiger ikke 40%. Utslippet kan bevege seg langt i de
+dominerende strømretningene NØ og SV før det når overflaten. Konsentrasjon av utslipp overstiger
+1 % over 1.5 km mot SV og 2 km mot NØ. Spredningen mot Ø er mindre enn I km.
+
+Figur 4.4 viser spredningen i overflaten ved de fire utvalgte dagene. Resultatene viser at utslippsskyen
+som regel har et relativt begrenset omfang, men at den varierer betydelig med tidevannet og den kan
+forflytte seg langt i løpet av kort tid. I periodene når utslippet spres mot NØ kan utslippsskyen vokse
+i omfang opptil 400 m. Dette er tilfellet ved midnatt 25.01 der konsentrasjonen overstiger 30%.
+Rester av utslipp (mer enn 1 %) i dette området kan også bli værende der over tid. Det kan ses for de
+andre tidspunktene.
+
+Side 14 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+Konsentrasjon overflate (01.01-01.02 2020) 8
+
+90
+
+80
+
+—
+T
+
+km (Nord-Sør)
+
+o
+T
+
+å Utslipp | 7 40
+
+Konsentrasjon [%]
+
+Inntak
+
+7 30
+
+20
+
+10
+
+-1 0 1 2 3
+km (@st-Vest)
+
+Konsentrasjon overflate (01.07-01.08 2020) ee
+
+90
+
+80
+
+—
+
+km (Nord-Sør)
+
+Oo
+
+Konsentrasjon [%]
+
+30
+
+20
+
+10
+
+-1 0 1 2 3
+km (Øst-Vest)
+
+Figur 4.3 Konsentrasjon 1 overflaten i februar og september 2020, fra utslippspunkt vist med rød
+prikk. Inntaksposisjon vist med grønn prikk. Konsentrasjoner ned til 1% er vist.
+
+Side 15 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune
+
+Åkerblå AS
+
+Konsentrasjon overflate 17.01 00:00
+
+Konsentrasjon overflate 25.01 00:00
+
+km (Øst-Vest)
+
+100 100
+\ 90 | 90
+2 ump 2 oe
+4 80 \y 5 80
+) =, J 70
+— a i 6 5 å { 160 g
+« v ’ Er 2 + wT
+I ri} o , oO
+= E ! 40 å E F | 40 2
+= £0 fø E Eo I 5
+= fr @ Mm RE hå
+o ) 30 på 30
+EG a
+å 20 - 20
+-1 «1
+10 10
+0 1 2 0 1 2 3
+km (@st-Vest) km (@st-Vest)
+Konsentrasjon overflate 09.07 00:00 100 Konsentrasjon overflate 29.07 00:00 106
+|
+) 90 ) 90
+2 rep 2 vr
+be 4
+4 80 pr 80
+p 0” ) MD >
+Å { = ae { =
+SoS a å 6 § a i 6 5
+« ut å 2 pt å o
+— i= = c
+= E 5 å å = 5 a 8
+5 20 fe 5 Bo fo 5
+: w : x
+= ; 5 30 Å på 30
+d 20 4 20
+«4 1
+10 10
+0 1 2 0 1 2 3
+
+km (@st-Vest)
+
+Figur 4.4 Konsentrasjon ved overflaten med utslipp fra grønn prikk og inntak i rød prikk, på dagene:
+
+17.01.2020, 25.01.2020, 09.07.2020 og 29.07.2020. Konsentrasjoner ned til 1 % er vist.
+
+Side 16 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+4.3 Konsentrasjon ved inntakspunkt
+
+I Figur 4.5 er konsentrasjonen av utslippsvann ved inntaksposisjon vist ved overflaten og bunndyp
+(31 m), med verdier gjennom hele modelleringsperioden. Konsentrasjonen ble registrert hvert 10.
+minutt i den simulerte perioden. Figuren viser at det kortvarige topper med konsentrasjon av utslipp,
+og at det som regel er vesentlig høyere konsentrasjon langs bunn enn ved overflaten. De høyeste
+konsentrasjonene forårsakes av tidevannet når strømretningen snur. De høyeste verdiene som er
+registrert er vist 1 Tabell 4.1 sammen med tidspunktet de opptrer.
+
+Tabell 4.1 Maksimal konsentrasjon registrert ved overflaten og langs bunnen i inntaksposisjon $ vist
+i Figur 2.2.
+
+Konsentrasjon Maksimalverdi Tidspunkt
+Overflate 18% 23.02.2020 01:30
+Bunn 57% 02.08.2020 22:40
+
+De høyeste konsentrasjonene opptrer i sommerhalvåret da strømmen ved lokaliteten er sterkest (se
+vedlegg 7.1). Maksimalverdiene opptrer i det tidevannsstrømmen snur og i en kort periode fører
+utslippsskyen fra utslippsposisjonen i retning mot inntaksposisjonen.
+
+Side 17 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+Konsentrasjon Inntaksposisjon 01.01 - 31.12 2020
+100 :
+
+|—— Overflate |
+
+fO 7 7
+
+Konsentrasjon [%]
+
+01.01 01.04 01.07 01.10 112
+Dato [dd.mm] 2020
+
+Konsentrasjon Inntaksposisjon 01.01 - 31.12 2020
+
+100
+90 |- 1
+BO | |
+70 F å
+
+J
+
+a Å 4
+
+o
+
+8
+
+se 90P I
+
+[2
+
+o
+
+ta)
+
+ka
+
+o
+
+Ea
+
+01.01 01.04 01.07 01.10
+Dato [dd.mm] 2020
+
+Figur 4.5 Konsentrasjonen ved inntaksposisjon & i Figur 2.2) gjennom hele simuleringsperioden
+ved overflaten i øverste figur og grønn linje viser ved bunnen (31 m).
+
+Side 18 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+5. Konklusjon
+
+Utslippet spres og fortynnes for det meste langs bunnen en akse NØ-SV som er de dominerende
+strømretningene ved lokaliteten. Konsentrasjonen overstiger 10% opptil I km mot NØ og SV fra
+utslippspunktet. Konsentrasjonen avtar raskt østover hvor det blir dypere. Konsentrasjonen av utslipp
+overstiger ikke 1% når en kommer | km m øst for utslippsposisjon.
+
+Konsentrasjon varierer sterkt med det halvdaglige tidevannet. De høyeste konsentrasjonene opptrer
+i forbindelse med at tidevannsstrømmen snur. Utslippsskyen vil da kunne bevege seg mot
+inntaksposisjon (mot SØ) i korte perioder slik at konsentrasjonen av utslipp overstiger 10%. Høyeste
+konsentrasjon i løpet av simulert periode er 57%. Konsentrasjonen var da over 10% i 50 minutter.
+
+Det meste av utslippet spres langt av gårde før det når overflaten, hovedsakelig i retning NØ-SV.
+Konsentrasjonen av utslipp ved overflaten var høyest i perioder med lite strøm (januar) da den
+oversteg 40% opptil 300 m SV for utslippsposisjon og 400 m mot NØ.
+
+Side 19 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+6. Vedlegg - Havnivå
+
+Strømmen i simuleringene blir blant annet drevet av havnivå og en sammenligning med observasjoner er
+med på å evaluere modellytelsen (Figur 6.1). Kartverkets nærmeste observasjonspunkt til Kvalnes er
+Harstad (Figur 6.2), 45 km sør for lokaliteten. På grunn av avstanden er det gjort en korreksjon for
+eventuelle forskjeller i havnivå, og for Kvalnes er tidevannet justert med en høydekorreksjonsfaktor på
+0.98 og det er ingen tidsforsinkelse.
+
+Det er noe avvik mellom modellresultatene og målingene, men ikke mer enn hva som er forventet med
+modellering av strømforhold og tidevann. Figur 6.1 viser at vannstanden i modellen veksler mellom være
+litt høyere og lavere enn observert vannstand. Forskjellen mellom målt og simulert vannstand er beregnet
+til å være omkring 8 %, der modellen 1 gjennomsnitt overestimerer tidevannsutslaget. Det er ikke ventet
+at denne forskjellen har signifikant betydning for strøm- og utslippsmodelleringen for lokaliteten.
+
+200 T T T T T T
+
+Observasjoner |
+Simulation
+
+150 + af
+
+100 F
+
+cm
+on
+3
+
+3 oo i i i i i i
+01/01 03/01 05/01 07/01 09/01 11:01 13/01
+
+[dd.mm] 2020
+
+Figur 6.1: Havnivå ved utslippspunkt i perioden 01.01.2020-14.01.2020. Svart linje er resultatene fra
+modellering og rød prikket linje er tidevannstabell.
+
+Side 20 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+EL |
+dary
+Kal Fore
+Fick
+karst
+Flakstad
+Nordmela Cem 3]
+Senet fet
+fursvika
+Mel “
+‘ robe vik
+Re
+Langere
+Byormakinn
+nd Hå
+treme) 39 5 3 uk
+Kam Fey Ales th
+le
+My
+sor
+ena Holt ka
+Kasfjord
+å) rrrvåke ak
+ndset å eo
+K ME I ,
+mgey Hognipord = ice roe
+KJØTTEN Å Kilbotn
+tiand Kin % fv mdr avd
+lest ; Tovik
+
+Bjomhauvgen
+
+Figur 6.2: Oversiktskart Kvalnes og sørover. Posisjon for vannstandsmåling i Harstad vist med rød
+
+prikk og punkt med korreksjon vist med gul prikk. Kartet er hentet fra Fiskeridirektoratets kartverktøy
+med kartdatum: WGS84
+
+Side 21 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+7. Vedlegg — Resultater fra strømsimulering
+
+7.1 Strømresultater for inntaksposisjon
+
+Strømresultatene fra modelleringen er hentet fra inntaksposisjon, vist med % i Figur 2.2, som har et
+dyp på 31 m.
+
+Tabell 7.1 viser sammendrag av strømmen i inntaksposisjonen for utvalgte dyp i perioden 01.01.2020
+til og med 31.12.2020. Den sterkeste strømmen opptrer ved 2 m der gjennomsnittverdien er på 16.0
+cm/s. Strømmen avtar nedover i vannsøylen.
+
+Figur 7.1 viser strømroser av den modellerte strømmen ved inntakspunkt vist for seks ulike dyp.
+Strømmen veksler langs en akse NNØ-SSV for alle dyp. Der NNØ er dominerende.
+
+Tidsserier av strømmen for modelleringsperioden er vist i Figur 7.2. Det er sterkest variasjon i strøm
+i sommerhalvåret fra mai til oktober som er preget av mange høye men kortvarige strømtopper.
+Strømmen er svakere med mindre variasjon i januar og februar.
+
+Tabell 7.1 Strømresultater fra simuleringer ved posisjon 1 (vist med % i Figur 2.2), for perioden
+01.01.2020 - 31.12.2020
+
+Dyp (m) 2 5 10 15 23 Bunn
+Gjennomsnitt (cm/s) 16.0 15.3 14.3 13.3 11.6 7.9
+Sign. maks (cm/s) 29.2 28.3 26.7 24.9 21.6 13.8
+Sign. min (cm/s) 5.4 4.9 4.3 4.0 3.6 3.1
+Std.avvik (cm/s) 11.6 11.4 10.9 10.1 8.7 5.3
+%< 1 cm/s 0.8 1.0 1s 1.8 1.9 2.1
+
+Side 22 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune
+
+Åkerblå AS
+
+2m 5m
+“NORTH
+Hastighet Hastighet
+ved 2m: ved 5m:
+(cm/s) (cm/s)
+EEE atin Se
+m0-45 40-45
+35-40 Gl 35-40
+: [7130-35 [130-35
+å C]25-30 [25-30
+KER (20-25 [20-25
+20%. H15-20 30% 15-20
+AEE i MB io-15 . MM i0-15
+MBs-10 : WBs-i0
+10m 15m
+“NORTH TT NGRTH
+Hastighet Hastighet
+ved 10 m: ved 15 m:
+(cms) (cm/s)
+WB >=45 245
+40-45 40-45
+35-40 [35-40
+30-35 (130-35
+[25-30 [25-30
+i [20-25 [ [20-25
+EE 30%." 15-20 Ve er 30% 15-20
+i! 10-15 e MBi0-15
+: WE5-10 ms-10
+SOUTH mos SOUTH Mo-5
+23m Bunn
+“NORTH “NORTH
+Hastighet Hastighet
+ved 23 m: ved bunn:
+(cms) (cm/s)
+We ==45 WW 45-50
+Gl 40-45 Gi 40-45
+35-40 [35-40
+(730-35 (30-35
+(25-30 25-30
+[20-25 (20-25
+30%," 15-20 (15-20
+es Mi0-15 10-15
+: og WE5-10 W§s-10
+BOUT" mo-5 Mo-5
+
+Figur 7.1 Strømroser av simulert strøm i inntaksposisjon vist med % i Figur 2.2 for perioden
+
+01.01.20 — 01.01.21. Dyp er angitt til venstre over hver figur.
+
+Side 23 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+(a)
+
+80 T T T T T T T T T T T
+
+” 70
+
+% 50
+Ka
+
+01.01 01.02 01.03 01.04 01.05 01.06 01.07 01.08 01.09 01.10 01.11 01.12
+Dato [dd.mm] 2020
+
+(b)
+
+oo
+oOo
+
+oo av ]
+7
+
+=]
+
+Oo
+
+Stramhatighet [cm/s]
+> på 8 = an ~
+
+| idlili iF ut 1a lå Lå
+
+oo
+
+01.01 01.02 01.03 01.04 01.05 01.06 01.07 01.08 01.09 01.10 01.11 01.12
+Dato [dd.mm] 2020
+
+(c)
+80 T T T T T T T T
+
+” 70|- 10 m
+5 60
+% 50
+540
+£30k || VA
+
+01.01 01.02 01.03 01.04 01.05 01.06 01.07 01.08 01.09 01.10 01.11 01.12
+Dato [dd.mm] 2020
+
+Side 24 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+(d)
+9
+560
+@
+cx | pl ih Oe ag
+[0
+01.01 01.02 01.03 01.04 01.05 pl 01.07 01.08 01.09 01.10 saul ET
+Dato [dd.mm] 2020
+(e)
+80 T T T T T T T T T T T
+2 70
+5 60
+9 50
+240 |
+£3 , | | 1 HÅ
+E ol | | | | | AE
+01. 01 01.02 01.03 01.04 01.05 01.06 01. 07 01.08 01. 09 01. 10 å : 01.12
+Dato [dd.mm] 2020
+(f)
+80 T T T T T T T T
+9 70r- Nær bunn | -
+5 60+ 1
+@ sør M
+D40| 4
+= 30+ -
+5 20/7 | EAT AL |
+01.01 01.02 01.03 01.04 01.05 01.06 01.07 01.08 01.09 01.10 01.11 01.12
+Dato [dd.mm] 2020
+
+Figur 7.2 Tidsserier av modellert strøm på utvalgte dyp, fra inntaksposisjon vist med % i Figur 2.2
+gjennom hele modelleringsperioden.
+
+Side 25 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+7.2 Simulert strøm i området rundt lokaliteten
+
+Det er registrert strøm i hele det modellerte område for hver time i simuleringsperioden. Ut fra dette
+er den effektive transporthastigheten beregnet.
+
+7.2.1 Effektiv transporthastighet ved overflaten
+
+I Figur 7.3 er effektiv transporthastighet vist ved overflaten utenfor anlegget. Det røde krysset viser
+utslippsposisjon og det gule viser inntaksposisjon.
+
+De høyeste verdiene opptrer i et lite område nær land ca. 400 m NØ for utslippsposisjonen der den
+overstiger 9 cm/s mot ØNØ. Det er også sterk transportstrøm (over 7 cm/s mot NNØ) ca. 800 m SV
+for utslippsposisjonen. Ved inntaksposisjon % er den effektive transporthastigheten noe lavere. Den
+er beregnet fra 10-minuttsverdier (se Figur 7.1 og Figur 7.2) til 3.5 cm/s mot N-NØ. Den svake
+transportstrømmen ved inntaksposisjonen er en konsekvens av at strømmen varierer i retning langs
+akse NNØ-SSV. Transportstrømmen ved utslippsposisjon % er beregnet til 2.8 cm/s mot N.
+
+Effektiv transport ved overflaten (01.01 2020-30.12 2020)
+8
+2
+å
+3 5
+- 5
+6 0 +=
+Zz ov
+E Dm
+3 ©
+-4 Ie
+2
+-2
+1
+-3 0
+-2 -1 0 1 2 3 4
+km (Øst-Vest)
+
+Figur 7.3 Effektiv transporthastighet ved overflaten. Utslippsposisjon er tak er vist med % og
+inntaksposisjon er vist med %.
+
+Side 26 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+7.2.2 Effektiv transporthastighet langs bunn
+
+Figur 7.4 viser den effektive transporthastigheten langs bunnen. Det røde krysset viser
+utslippsposisjon og det gule viser inntaksposisjon. I dette området er transportstrømmen svak. Det er
+en konsekvens av at strømretningen varierer betydelig. Den effektive transporthastigheten er beregnet
+fra 10-minuttsverdier i inntaksposisjon & (se Figur 7.1 og Figur 7.2) til 1.4 cm/s mot Ø, mens ved
+utslippsposisjonen % er den 1.3 cm/s også mot Ø.
+
+Transportstrømmen avhenger sterkt av bunntopografien. De høyeste verdiene (7 cm/s) opptrer i de
+dypeste delene av fjorden Ø for anlegget, der transporten går sørover.
+
+geNoktv transport ved bunn
+
+(01.01 2020-30.12 2020)
+
+| / | \
+
+PG a
+—
+5 5
+5 o sd
+z 2
+D
+E 7)
+x 40)
+-1 et
+
+km (@st-Vest)
+
+Figur 7.4 Effektiv transporthastighet langs bunn. Utslippsposisjon er tak er vist med % og
+inntaksposisjon er vist med %.
+
+Side 27 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+7.3 Stremresultater sammenlignet med målinger
+
+Det er utført strømmålinger ved inntaksposisjon og 1 en posisjon 55 m nordvest for utslippsposisjon
+(Åkerblå 2021), vist med flagg i Figur 2.2. Målingene er utført i 2021 og faller dermed utenfor den
+simulerte perioden som er i 2020. Resultatene er derfor ikke direkte sammenlignbare. Likevel er
+det gjort sammenligning med tilsvarende periode på året 1 2020 for modellert strøm (Tabell 7.2).
+Dette for å få et inntrykk av hvor godt modellen reproduserer strømmen i området. De simulerte
+verdiene er registrert i nærmeste celle og vannlag i målingene.
+
+Det er ikke signifikant avvik mellom modellert strøm og målinger ved inntaksposisjon. Modellert
+strøm ved utslippsposisjon er noe svakere enn den som er målt ved 8 m. Modellert gjennomsnittverdi
+er 3.6 cm/s mens målt verdi er 6.8 cm/s.
+
+Figur 7.5 viser strømroser fra modellen sammenlignet med måling. Ved inntaksposisjon varierer bade
+modellert og målt strøm langs en akse NNØ — SSØ. Ved utslippsposisjonen er det dominerende strøm
+mot NINØ, og varierende strøm mot © og SØ. I målingen er det dominerende strøm mot N og en litt
+svakere strøm mot S.
+
+Sammenligning mellom modellert strøm og målinger er foretatt med verdier fra bunndyp.
+Forskjellene som opptrer, er ikke mer enn det som kan forventes pga. variasjon i bunnforhold over
+korte avstander noe som ikke fanges opp i modellen. En annen årsak til forskjell er at modelleringen
+er foretatt for en annen periode enn målinger.
+
+Grunner til avvik mellom målinger og modellresultater:
+
+° Simuleringene har en maksimal oppløsning på 16 m x 16 m som avtar gradvis fra
+utslippsposisjonen og det kan være variasjoner i strømmen innenfor denne skalaen som
+strømmodellen ikke fanger opp. Også i tid er det variasjon 1 både strømhastighet og retning,
+så det er ikke forventet at en modell stemmer eksakt både i tid og rom.
+
+° Kompliserte bunnforhold: Størst avvik kan forventes å opptre i maleposisjoner som er nært
+land, hvor det er relativt komplisert batymetri.
+
+Side 28 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune
+
+Åkerblå AS
+
+Tabell 7.2: Strømverdier fra måleposisjoner (markert med røde flagg 1 Figur.2.2) Målinger er hentet
+
+fra Åkerblå (2021) og modellresultater er verdier tilsvarende posisjon.
+
+Utslipp Inntak
+N 69° 9.440’ N 69° 9.415’ N 69° 9.305’ N 69° 9.305’
+Ø 16° 5.633’ Ø 16° 5.580 Ø 16° 5.841” Ø 16° 5.841”
+Måling Modell Måling Modell
+
+Dyp 8m 8m 23 m 23 m
+Periode 10.05.21-20.06.21 | 10.05.20-20.06.20 | 10.05.21-30.06.21 | 10.05.20-30.06.20
+Gjennomsnitt (cm/s) 6.8 3.6 12.0 11.5
+Standardavvik (cm/s) 3.9 2.9 9.3 9.2
+Signifikant maks (cm/s) 11.4 6.6 22.8 22.1
+Signifikant min (cm/s) 29 15 37 33
+% over 30 cm/s 0.0 0.0 3,1 4.9
+% under I cm/s 1.8 7.2 1.9 2.2
+
+Side 29 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune
+
+Åkerblå AS
+
+Måling (8 m)
+10.05.2021 — 20.06.2021
+
+Simulering i utslippsposisjon (8 m)
+10.05.2020 — 20.06.2020
+
+Hastighet
+Strømhastighet ved re
+| (cm/s) (cm/s)
+bie Mico -65
+i 50-55 | 5-0
+Se “Si Get [45-50 lomwowteooen; Mo
+* [40-45 EAST. 1045-50
+men 40-45
+mx. [1735-40
+10% .-' [25-30 [30-35
+a [20-25 [25-30
+15%.= 15-20 i i ' — je
+a MB i0-15 Mi GSE 15%: MB i5-20
+så M5-10 på Mio0-15
+vine BOR mo-5 så m5-10
+SOUTH. Hts Mo-5
+Maling i inntaksposisjon (23 m) Simulering inntaksposisjon (23 m)
+10.05.2021 — 30.06.2021 10.05.2020 — 30.06.2020
+oe NORD SETA
+. Hastighet
+Fer = ved 23m:
+- m>= (cm/s)
+: 55-60 Mi so-65
+> 50-55 + se
+: 45-50 : Gbso-55
+: [1740-45 + (45-50
+[135-40 [40-45
+[30-35 [1735-40
+[25-30 [7]30-35
+ger [35-30
+: is ey BH 10-15
+SØR. = HES-10
+mos
+
+Figur 7.5: Strømroser fra målinger fra Åkerblå (2021) sammenlignet med strømroser fra simulering.
+
+Posisjonene er vist i Figur 2.2.
+
+Side 30 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+8. Vedlegg - Usikkerhetsvurdering
+
+Usikkerheter i resultater fra modellering kommer fra usikkerhet i inngangsdata til modellene og fra
+modellene selv. Modellresultatene blir sjekket opp mot målinger for verifisering og kalibrering, og
+vurdert hvorvidt de er egnet til videre bruk eller ikke.
+
+8.1 Inngangsdata for strømmodell
+Usikkerhetsmomenter i inngangsdata kommer fra:
+
+e Værdata
+e Randbetingelser i havnivå, strøm, saltholdighet og temperatur
+e Bunndata
+
+Usikkerhetene er fanget opp ved å modellere strømforholdene i et stort område rundt utslippspunket
+med en høyere oppløsning i nærheten av utslippspunkt. Initialverdier for både hav og atmosfære er
+interpolert fra et gitter med lavere oppløsning, noe som vil føre med seg usikkerhet.
+
+8.2 Strommodell
+
+Det kan være variasjon innenfor rutenett som ikke er fanget opp av modellen. 3D-modellen har en
+oppløsning på maksimalt (ved utslippsposisjon) 16 m x 16 m horisontalt i 15 dybdevarierende lag.
+Havstrømmen kan være mer kompleks enn det som fanges opp i modellen. Modellen har størst
+oppløsning nær overflaten der den fanger opp en detaljert sjiktingen i vannlagene. Nær bunnen er det
+grovere oppløsning dette kan påvirke resultatene i områder med komplisert og varierende
+bunntopografi.
+
+8.3 Smittespredning
+
+Det er stor usikkerhet mht. dødeligheten på virus. Det er vanlig å anta at konsentrasjonen av smittsomt
+virus avtar eksponentielt og bruke halveringstid for å representere tiden det tar før mengden aktivt
+virus er halvert. Det er kjent at dødeligheten øker med økende temperatur. Ved høye temperaturer
+over 10°C reduseres halveringstiden på smittepartikler og risikoen for smitte avtar. I modelleringene
+er det brukt en konstant halveringstid på konsentrasjon som er representativ ved 4°C. I sa måte er
+modelleringene konservative og mengden aktive viruspartikler i utslippsvannet kan forventes å avta
+fortere enn konsentrasjonen som er vist 1 beregningene.
+
+Side 31 of 32
+
+Modellering av utslippsvannets spredning: Kvalnes, Andøy kommune Åkerblå AS
+
+Ø.
+
+Referanser
+
+10
+
+11
+
+12
+
+13
+
+Albretsen, J., Sperrevik, A.K., Staalstrøm, A., Sandvik, A.D., Vikebø, F., Asplin, L. (2011).
+NorKyst-800 Report No. I User Manual and technical descriptions. Bergen: Fisken og Havet,
+Havforskningsinstituttet.
+
+Delft3D-FLOW. (2018, 01 24). Delfti3D Open Source Community. Hentet fra
+https://content.oss.deltares.nIl/delft3d/manuals/Delft3D-FLOW User Manual.pdf
+
+Deltares. (2018, 09 15). Hentet fra Deltares:
+https://www.deltares.nl/en/software/delft3d-4-suite/
+
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography.
+Elsevier Science.
+
+Frick, W. E., Roberts, P., Davis, L., Keyes, J., Baumgartner, D., & George, K. (2003). Dilution
+Models for Effluent Discharges 4th Edition (Visual Plumes). U.S. Environmental Protection
+Agency, Athens Georgia.
+
+Graham DA, Staples C, Wilson CJ, Jewhurst H, Cherry K, Gordon A and Rowley HM. (2007)
+Biophysical properties of salmonid alphaviruses: influence of temperature and pH on virus
+survival. Journal of Fish Diseases, 30, pp 533-543.
+
+Kartverket. (2020, mai 5). Se havniva. Hentet fra Kartverket: https://kartverket.no/sehavniva/
+
+Lesser, G. P., Roelvink, J. A., van Kester, J., & Stelling, G. S. (2004). Development and
+validation of a three-dimensional morphodynamic model.
+Coastal Engineering, 51, 833-915.
+
+MetCoOp Ensemble Prediction System, . (2020, 02 20).
+Hentet fra: http://thredds.met.no/thredds/metno.html
+
+NK800 (2020). ROMS  NorKyst800m coastal ocean fields. (2020, 02 20).
+http://thredds.met.no/thredds/fou-hi/norkyst800m.html.
+
+Norges vassdrags- og energidirektorat. (2020). NVE Atlas. Hentet fra https://atlas.nve.no/
+
+Ranneklev, S. V., Molvær, J., & Tjomsland, T. (2013). Veileder for fastsetting av
+innblandingssoner. (M-46/2013), s. 28.
+
+Åkerblå (2021) Strømrapport. Vurdering av strømforhold ved Kvalnes. Åkerblå AS-rapport: SR-
+0721-AS-Kvalnes-103193-01-001.pdf, 45 sider.
+
+Side 32 of 32

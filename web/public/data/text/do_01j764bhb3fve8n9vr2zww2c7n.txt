@@ -1,0 +1,3864 @@
+﻿IQS: Prosjekt->Risikovurderinger"
+Risikoanalyse Fiskevelferd, hygiene, smitte
+Austevoll Rensefisk AS
+Revisjon, dato: 02/17/2022
+Utførelse: Risiko beregnes som sannsynlighet x konsekvens. Bruk tilhørende risikomatrise,
+vurder verdi for sannsynlighet og konsekvens (1-5) og sett inn i tabellen (S1, K1), og risiko
+beregnes automatisk.
+Til stede ved siste Revisjon: Eileen Kristiansen, Alf Markus R.
+Samuelsen
+Risikokartlegging
+Kategori
+Arb.oppgave/operasjon
+Mulig uønsket hendelse
+mulig konsekvens/fare
+Årsaker
+Eksisterende risikorreduserende tiltak
+hensynstatt i analysen
+Kalkulering av Risiko
+Avdeling
+Kategori
+Arbeidsoppgave
+Operasjon
+Mulig uønsket hendelse
+Mulige konsekvenser/
+Fare
+ Årsaker
+Eksisterende risikoreduserende tiltak,
+hensyntatt i analysen
+S1
+sannsyn
+lighet
+K1
+konse
+kvens
+R1
+risi
+ko
+Alle avdelinger
+Metoder,
+installasjoner og
+utstyr
+Flushing av kar, og
+innsett av fisk i nytt kar
+Fisk kommer ned i avløp
+Fisk blir stående i avløp
+Feil størrelse på hull i
+bunnrist, for kraftig
+flushing
+Riktig størrelse bunnrist/duk. Overløp vann i
+karvegg. Unngå for kraftig flushing (fisk går med
+vannstrømmen på rist). Sørg for at munken er tett
+etter flushing. Prosdyer ved innsett av fisk i kar
+(Sortering, flytting)
+1
+3
+3
+Alle avdelinger
+Metoder,
+installasjoner og
+utstyr
+Alle
+Strømbrudd
+pumpestans, med
+påfølgene oksygensvikt
+utfall av nettstrøm, feil på
+teknisk anlegg
+Alarm, jevnlig start og vedlikehold
+strømgenerator
+1
+5
+5
+Alle avdelinger
+Metoder,
+installasjoner og
+utstyr
+Inntak av vann i
+anlegget
+Stans vannpumpe
+For lite vann inn, med
+påfølgende oksygensvikt
+og fiskedød
+Teknisk feil, haveri,
+manglende vedlikehold
+Alarm, reserve vannpumpe, rutinemessig
+vedlikehold
+1
+5
+5
+Alle avdelinger
+Metoder,
+installasjoner og
+utstyr
+Helg og helligdag/ kveld
+/ natt /vannbehandling/
+oksygentilsetting
+Feil på alarm anlegg
+I verste fall massiv
+fiskedød
+Rutinemessig testing av sms / alarm (Oxygard
+Commander har innlagt funksjon for testing av
+sms). Prosedyre for alarmvakt
+1
+5
+5
+Alle avdelinger
+Metoder,
+installasjoner og
+utstyr
+Helg og helligdag/ kveld
+/ natt
+Innbrudd
+I verste fall massiv
+fiskedød
+Hærverk på installasjoner.
+Inntrenger påfører skade
+med påfølgende
+vannstopp / stenger
+vanntilførsel
+Låse anlegg før siste ansatt går hjem,
+kveldsrunder, sjekke alle dører.
+1
+5
+5
+Alle avdelinger
+Metoder,
+installasjoner og
+utstyr
+Alle som innebærer
+bruk av elektriske
+apparater og utstyr,
+brennere, utstyr som
+skaper gnister
+Brann
+I verste fall massiv
+fiskedød
+Ukyndig bruk av utstyr /
+feil på utstyr/ gjenglemt
+utstyr
+Godt, systematisk vedlikehold av elektrisk
+anlegg. Brannsikringsutstyr.
+Beredskapsprosedyre ved brann. Godkjent el-
+utstyr. Opplæring i El-sikkerhet. Automatisk
+brannvarslingsanlegg som kobles til brannvesen.
+Nødvendige kurs
+1
+5
+5
+Alle avdelinger
+Smittehygiene
+Daglig fjerning av
+dødfisk i kar
+Syk, død, fisk ligger i karet
+Sykdom på fisk
+For dårlig bemanning, ikke
+fulgt prosedyre,
+manglende opplæring, for
+dårlig helsekontroll med
+fisk som tas inn i anlegget
+Prosedyrer: Fjerne dødfisk daglig, logg. Se på
+dødfisk (syptomer på sykdom). Unngå å ta inn
+svak fisk i anlegget. Beredskapsprosedyre for økt
+dødelighet. Kveldsvakt kontrollerer kar/rist,
+fjerner dødfisk om nødvendig
+1
+4
+4
+Alle avdelinger
+Smittehygiene
+Daglig røkting /
+situasjoner med
+håndtering av fisk
+Smitte mellom kar
+nedsatt velferd, mulig
+smittepress
+Ikke fulgt prosedyrer, ikke
+skiftet handsker
+Dersom man har mistanke om smitte i ett kar på
+grunn av forøket dødelighet skal dette karet
+holdes adskilt og røktes til slutt. Alle kar har eget
+utstyr.
+1
+4
+4
+Alle avdelinger
+Smittehygiene
+Arbeid i ulike soner
+Smitte gjennom arbeidstøy
+Sykdomsspredning
+manglende sluser/tøy
+Sluser og tøy er på plass. Sluseinstruks i alle
+sluser
+1
+3
+3
+Alle avdelinger
+Smittehygiene
+Arbeid i ulike soner
+Smitte gjennom utstyr
+Sykdomsspredning
+Manglende desinfisering
+Utstyr holder til i ulike haller. Ved overføring blir
+det desinfisert
+1
+3
+3
+Alle avdelinger
+Smittehygiene
+Daglig røkting /
+situasjoner med
+håndtering av fisk
+Smitte mellom batcher
+nedsatt fiskevelferd, mulig
+smittepress
+Ikke fulgt prosedyrer, ikke
+skiftet hansker, ikke brukt
+sluse
+Prosedyre for røkting, prosedyre for hygiene
+mellom avdelinger
+1
+5
+5
+Alle avdelinger
+Smittehygiene
+Dødfiskhåndtering
+Kryssing av soner
+Spredning av smitte fra
+dødfiskbøtte og arbeidstøy
+Ingen klar sone inndelning
+som minimerer risikoen for
+smitte
+Døfiskhåndtering skjer som egen "operasjon",
+bytte av handsker og tøy, desinfisering tilknyttet
+døfiskhåndtering. Soner for frakt  av dødfisk til
+kvern er i rutine for alle avdelinger. Dødfisk går
+ikke gjennom sluser.
+1
+5
+5
+Alle avdelinger
+Smittehygiene
+Daglig drift/ røkting
+Introduksjon, utvikling og
+spredning av smittsomme
+sykdommer.
+Dårlig fiskevelferd, mulig
+smittespredning
+Har ikke fulgt prosedyrer
+Prosedyre generell hygiene, hygiene mellom
+avdelinger, daglig røkting
+1
+5
+5
+Alle avdelinger
+Smittehygiene
+Daglig drift/ røkting
+Smitte gjennom utstyr
+Dårlig fiskevelferd, mulig
+smittespredning
+Har ikke fulgt prosedyrer
+Prosedyre hygiene, generell hygiene, des av løst
+utstyr, daglig røkting.Hvert kar har eget utstyr,
+kost og håv vaskes og desinfiseres hver fredag el
+oftere ved behov
+1
+5
+5
+Alle avdelinger
+Smittehygiene
+Nedvask av avløpsrør
+Avløpsvann kan komme opp
+gjennom sluken i inkubatorrom
+Smitterisiko
+Underdimisjonert og
+samme avløp i klekkeri
+,inkubatorrom og slusr
+vi har ikke gjort noe
+2
+2
+4
+Alle avdelinger
+Smittehygiene
+Nedtapping av Kar i
+klekkeri som skal
+vaskes
+Oversvømmelse på gulv og kan
+komme opp i sluken på
+inkubatorrom
+Smitterisiko
+Underdimisjonert og
+samme avløp i klekkeri
+,inkubatorrom og slusr
+vi har ikke gjort noe
+2
+2
+4
+Anlegget
+Vannkvalitet, miljø og
+overvåking
+Vanninntak,
+gjenomstrømming
+Smitte inn i anlegget
+Sykdom på fisk
+Sykdomsagens i
+sjøvannet kommer inn i
+anlegget
+Vannbehandling: partikkelfilter, UV-enheter.
+Daglig teknisk sjekkrunde. Alarm på UV-stopp.
+UPS sørger for umiddelbar overgang til aggregat
+via batteri uten stopp i vannbehandling (UV).
+Service av UV ved behov, sjekkes daglig for
+dose/ påkrevde parametere. Sende inn prøve for
+vibrio reduksjon hver måned. Vask av UV-
+kammer ved dose på 80mMJ/cm2. Prosdyre for
+vedlikehold av UV
+1
+5
+5
+Yngel hall
+Fôring
+Oppsett av
+foringsregime og daglig
+fôring
+Overfôring
+Dårlig karmiljø, med fare
+for oppblomstring av
+sykdomsorganismer
+Manglende opplæring,
+dårlig kontroll på
+biomasse, feil tolking av
+tabeller.
+God kontroll på biomassen i karene (telle og veie
+fisk). Foringsregime basert på kunnskap om
+fiskens forventede vekst, fôrfaktor og i forhold til
+fiskens stadium. Gode prosedyrer,- Observere
+fôrrester i karene. Håndforing for å sjekke
+appetitt.
+1
+4
+4
+Yngel hall
+Fôring
+Oppsett av
+foringsregime og daglig
+fôring
+Underfôring
+Nedsatt velferd,
+mangelsymptomer,
+mottakelighet for sykdom,
+dårlig vekst, aggresjon og
+biting
+Dårlig sammensatt fôr,
+manglende opplæring, feil
+tolking av apetitt, Feil i
+beregning av forventet
+behov for fôr
+God kontroll på biomassen i karene (telle og veie
+fisk). Foringsregime basert på kunnskap om
+fiskens forventede vekst, fôrfaktor xx, i forhold til
+fiskens stadium. Gode prosedyrer,- Observere
+fôrrester i karene. Håndforing for å sjekke
+appetitt.
+1
+4
+4
+Yngel hall
+Håndtering og stell
+Daglig røkting /
+situasjoner med
+håndtering av fisk
+Halebiting
+nedsatt velferd, nedsatt
+kvalitet gjør at fisken må
+avlives, sykdom i sår,  i
+verste fall død pga
+manglende hale
+Hierarki, ulike størrelser
+på fisk i karet, stress,
+tetthet i karet. Feil
+håndtering.
+Prosedyre for sortering/fordeling. Tall for maks
+tetthet i kar. Visuell kontroll om miljø er
+tilfredstillende. Protokoll for parameter som skal
+justeres.
+1
+4
+4
+Yngel hall
+Håndtering og stell
+Stell og uttak av dødfisk
+og svimere
+Smitte mellom kar ved bruk av
+felles utstyr, f.ek håv
+Det er ikke rett utstyr til
+hvert kar
+Kostnad, mange
+håver/koster
+Egne håver/koster til hvert kar.
+1
+3
+3
+Yngel hall
+Metoder,
+installasjoner og
+utstyr
+Fôring
+Stopp i fôringsautomat
+nedsatt velferd, nedsatt
+helse, i ytterste
+konsekvens fiskedød
+Teknisk feil på automat
+Hold fôringsautomater rene og i god stand. Sjekk
+regelmessig.
+1
+3
+3
+Yngel hall
+Metoder,
+installasjoner og
+utstyr
+Rømningssikring
+Rømming/ fisk kommer ut i
+naturlig miljø på land til sjø
+Nedsatt fiskevelferd,
+Manglende utstyr. Svikt
+utstyr
+Rømmingssperre i kar, overløp karvegg, rist i
+silkasse, avløp gulv og avløpskum. Nivåalarm.
+1
+4
+4
+Yngel hall
+Overflow ved tett
+avløpsrist i kar
+Daglig røkt for å fjerne
+fôrrester og dødfisk i bunn
+av kar.
+Tett rist i kar, øktvannstand som
+fører til a fisk renner over karkant og
+faller på gulv.
+Dårlig fiskevelferd. Fisk blir
+liggende på gulv og
+dø.Fisk blir smitterisiko, og
+blir destreuert ifht.
+prosedyre.
+Tett rist i bunn av kar. Pga.
+overfôring, eller ved økt
+dødelighet, og mye dødfisk
+på rist
+Daglig røkt. Røkt gjentas flere ganger ila. dagen ved
+økt risiko for tett rist. Kveldsvakt tar også en ekstra
+runde (2 runder, eller mer ved behov pr. kveld) for å
+unngå overflow i slik situasjon. Overløpssikring på
+hvert kar. Montert overflow nivåsensor i samlekasse i
+silkasse. Alarm ved forhøyet vannstand, ved overløp i
+overløpssikring på kar.
+1
+4
+4
+Yngel hall
+Metoder,
+installasjoner og
+utstyr
+Rømningssikring
+Rømming/ fisk kommer ut i
+naturlig miljø på land
+For fisken er ikke dette å
+anse som noen fare, men
+det er brudd på forskrift
+Hull på utstyr / utstyr
+hopper av ved lasting til
+båt/bil
+Sjekke slanger, koblinger og rør ved lasting til
+båt/bil. Prosedyre for levering av fisk til båt/bil.
+1
+5
+5
+Yngel hall
+Smittehygiene
+Fôring og Rognmottak
+Spredning av uønskede
+mikroorganismer eller kjemikalier
+gjennom brukt emballasje
+Sykdomsspredning
+Manglende desinfisering
+Fôr blir brukt opp i den hallen det er tatt inn.
+Rogn/fôrembalasje blir desinfisert på utsiden hvis
+det flyttes mellom avdelinger.
+1
+3
+3
+Yngel hall
+Smittehygiene
+Hygiene
+Smitte/sykdom.over ført fra dårlig
+eller ubehandlet vann. Sykdom/
+massedød
+Smitterisiko
+Svikt i vannbehandling
+Rutiner for kontroll av vannbehandling. Månedlig
+vannprøve før og etter UV behandlert vann.
+1
+5
+5
+Yngel hall
+Pumpestopp
+Oksygenering
+Lavt O2 nivå.
+Dårlig vannkvalitet, lavt O2
+nedsatt fiskevelferd.
+Gjellebetennelser, død pga
+o2 mangel
+pumpestans/ høy biomasse
+Dårlig innblanding av O2 i
+Headertank.
+Alarm ved evt. pumpestans. Nødoksygenering på
+karnivå. Oppfølging av rutienr og prosedyrere for
+biomasse. Daglig kontroll av O2 nivå. Alarm ved lavt
+O2 nivå i headertank og på karnivå.
+1
+5
+5
+Yngel hall
+Smittehygiene
+Vask av kar og utstyr
+Dårlig miljø i kar. Vanskelig å røkte
+skikkelig .Smittefar, vekst av
+uøsnket mikroiber og bakterier.
+Sykdom. Dårlig
+fiskevelferd.
+Dårlig utført vask av kar og
+utstyr.
+Hygiene Prosedyrer, og riktig
+vaskemiddel/desinfeskjonsmiddel. Bruke ATP måler
+rutinemessig på kritiske punkter i/på utstyr etter vask,
+før nytt innsett med fisk.
+1
+4
+4
+Yngel hall
+Smittehygiene
+Slusing
+Overføre evt. sykdom fra andre
+avdelinger.
+Sykdom/død
+Svikt i sluserutiner
+Sluseinstruks. Følge prosedyre for slusing og
+hygieneregime før en går inn og ut av hall.
+1
+4
+4
+Yngel hall
+Håndtering og stell
+Sortering
+Skader på fisk. Stress.
+Dårlig fisekvelferd.
+Skader/sår. Stress kan føre
+til halebiting
+For hard, og/eller for ofte
+håndtering
+Følge prosedyre for sortering, utøve aktsomhet i
+sortering, ikke ha for mye fisk i vugge. La fisk roe
+seg ca 14 dager før ny håndtering. Ikke for mye
+biomasse i kar.
+1
+4
+4
+Yngel hall
+Håndtering og stell
+sortering/flytting
+Håving av fisk
+Klemskader
+For mye fisk i håven
+Opplæring fra erfarne ansatte om hvor mye det
+er lov å ha i håven.
+1
+2
+2
+Yngel hall
+Håndtering og stell
+Flytting
+Skader på fisk. Stress.
+Dårlig fisekvelferd.
+Skader/sår. Stress kan føre
+til halebiting
+For hard, og/eller for ofte
+håndtering
+Følge prosedyre for flytting. Fisk flyttes med
+fiskepumpe. Ikke bruke for mye kraft i pumpe.  La
+fisk roe seg ca 14 dager før ny håndtering. Ikke
+for mye biomasse i kar
+1
+4
+4
+Påvekst hall
+Fôring
+Oppsett av
+foringsregime og daglig
+fôring
+Overfôring
+Dårlig karmiljø, med fare
+for oppblomstring av
+sykdomsorganismer
+Manglende opplæring,
+dårlig kontroll på
+biomasse, feil tolking av
+tabeller.
+God kontroll på biomassen i karene (telle og veie
+fisk). Foringsregime basert på kunnskap om
+fiskens forventede vekst, fôrfaktor og i forhold til
+fiskens stadium. Gode prosedyrer,- Observere
+fôrrester i karene. Håndforing for å sjekke
+appetitt.
+1
+4
+4
+Påvekst hall
+Fôring
+Oppsett av
+foringsregime og daglig
+fôring
+Underfôring
+Nedsatt velferd,
+mangelsymptomer,
+mottakelighet for sykdom,
+dårlig vekst, aggresjon og
+biting
+Dårlig sammensatt fôr,
+manglende opplæring, feil
+tolking av apetitt, Feil i
+beregning av forventet
+behov for fôr
+God kontroll på biomassen i karene (telle og veie
+fisk). Foringsregime basert på kunnskap om
+fiskens forventede vekst, fôrfaktor xx, i forhold til
+fiskens stadium. Gode prosedyrer,- Observere
+fôrrester i karene. Håndforing for å sjekke
+appetitt.
+1
+4
+4
+Påvekst hall
+Håndtering og stell
+Daglig røkting /
+situasjoner med
+håndtering av fisk
+Halebiting
+nedsatt velferd, nedsatt
+kvalitet gjør at fisken må
+avlives, sykdom i sår,  i
+verste fall død pga
+manglende hale
+Hierarki, ulike størrelser
+på fisk i karet, stress,
+tetthet i karet. Feil
+håndtering.
+Prosedyre for sortering. Tall for maks tetthet i kar.
+1
+4
+4
+Påvekst hall
+Håndtering og stell
+Stell og uttak av dødfisk
+og svimere
+Smitte mellom kar ved bruk av
+felles utstyr, f.ek håv
+Det er ikke rett utstyr til
+hvert kar
+Kostnad, mange
+håver/koster
+Egne håver/koster til hvert kar.
+1
+3
+3
+Påvekst hall
+Håndtering og stell
+Vaksinering
+Feilstikk, for liten fisk ved
+vaksinering
+Skade indre organer, feil
+deponering av vaksine,
+manglende immunitet
+Manglende opplæring,
+mangelfull prosedyre, ikke
+fulgt prosedyre
+Prosedyre for vaksinering, Sortert fisk (snittvekt
+8g), kontrollere stikkpunkt. Opplæring. Riktig
+nålstørrelse. Prosedyre for vaksinering
+1
+4
+4
+Påvekst hall
+Håndtering og stell
+Vaksinering
+For lav dosering av
+bedøvelsesmiddel til fisk som
+skal destrueres
+Fisken blir ikke riktig
+bedøvd, kvernes levende
+Feil dosering av
+bedøvelsesmiddel
+Prosedyre for bedøvelse/avliving av fisk med
+Tricain.
+1
+4
+4
+Påvekst hall
+Metoder,
+installasjoner og
+utstyr
+Fôring
+Stopp i fôringsautomat
+nedsatt velferd, nedsatt
+helse, i ytterste
+konsekvens fiskedød
+Teknisk feil på automat
+Hold fôringsautomater rene og i god stand. Sjekk
+regelmessig.
+1
+3
+3
+Påvekst hall
+Metoder,
+installasjoner og
+utstyr
+Rømningssikring
+Rømming/ fisk kommer ut i
+naturlig miljø på land til sjø
+Nedsatt fiskevelferd,
+Manglende utstyr. Svikt
+utstyr
+Rømmingssperre i kar, overløp karvegg, rist i
+silkasse, avløp gulv og avløpskum.
+1
+4
+4
+Påvekst hall
+Metoder,
+installasjoner og
+utstyr
+Rømningssikring
+Rømming/ fisk kommer ut i
+naturlig miljø på land
+For fisken er ikke dette å
+anse som noen fare, men
+det er brudd på forskrift
+Hull på utstyr / utstyr
+hopper av ved lasting til
+båt/bil
+Sjekke slanger, koblinger og rør ved lasting til
+båt. Prosedyre for levering av fisk til båt/bil.
+1
+5
+5
+Påvekst hall
+Smittehygiene
+Fôrmottak
+Spredning av uønskede
+mikroorganismer eller kjemikalier
+gjennom brukt emballasje
+Sykdomsspredning
+Manglende desinfisering
+Fôr blir brukt opp i den hallen det er tatt inn.
+Föembalasje blir desinfisert på utsiden om det
+flyttes mellom avdelinger.
+1
+3
+3
+Påvekst hall
+Smittehygiene
+Hygiene
+Smitte/sykdom.over ført fra dårlig
+eller ubehandlet vann. Sykdom/
+massedød
+Smitterisiko
+Svikt i vannbehandling
+Rutiner for kontroll av vannbehandling. Månedlig
+vannprøve før og etter UV behandlert vann.
+1
+5
+5
+Påvekst hall
+Pumpestopp
+Oksygenering
+Lavt O2 nivå.
+Dårlig vannkvalitet, lavt O2
+nedsatt fiskevelferd.
+Gjellebetennelser, død pga
+o2 mangel
+pumpestans/ høy biomasse
+Dårlig innblanding av O2 i
+Headertank.
+Alarm ved evt. pumpestans. Nødoksygenering på
+karnivå. Oppfølging av rutienr og prosedyrere for
+biomasse. Daglig kontroll av O2 nivå. Alarm ved lavt
+O2 nivå i headertank og på karnivå.
+1
+5
+5
+Påvekst hall
+Smittehygiene
+Vask av kar og utstyr
+Dårlig miljø i kar. Vanskelig å røkte
+skikkelig .Smittefare, vekst av
+uønsket mikrober og bakterier.
+Sykdom. Dårlig
+fiskevelferd.
+Dårlig utført vask av kar og
+utstyr.
+Hygiene Prosedyrer, og riktig
+vaskemiddel/desinfeskjonsmiddel. Bruke ATP måler
+rutinemessig på kritiske punkter i/på utstyr etter vask,
+før innsett med ny fisk.
+1
+4
+4
+Påvekst hall
+Overflow ved tett
+avløpsrist i kar
+Daglig røkt for å fjerne
+fôrrester og dødfisk i bunn
+av kar.
+Tett rist i kar, øktvannstand som
+fører til a fisk renner over karkant og
+faller på gulv.
+Dårlig fiskevelferd. Fisk blir
+liggende på gulv og
+dø.Fisk blir smitterisiko, og
+blir destreuert ifht.
+prosedyre.
+Tett rist i bunn av kar. Pga.
+overfôring, eller ved økt
+dødelighet, og mye dødfisk
+på rist
+Daglig røkt. Røkt gjentas flere ganger ila. dagen ved
+økt risiko for tett rist. Kveldsvakt tar også en ekstra
+runde for å unngå overflow i slik situasjon. Monterrt
+overflow nivåsensor i samlekasse i silkasse. Alarm ved
+forhøyet vannstand, ved overløp i overløpssikring på
+kar.
+1
+4
+4
+Påvekst hall
+Smittehygiene
+Slusing
+Overføre evt. sykdom fra andre
+avdelinger.
+Sykdom/død
+Svikt i sluserutiner
+Sluseinstruks. Følge prosedyre for slusing og
+hygieneregime før en går inn og ut av hall.
+1
+4
+4
+Påvekst hall
+Håndtering og stell
+Sortering
+Skader på fisk. Stress.
+Dårlig fisekvelferd.
+Skader/sår. Stress kan føre
+til halebiting
+For hard, og/eller for ofte
+håndtering
+Følge prosedyre for sortering, utøve aktsomhet i
+sortering, ikke ha for mye fisk i vugge. La fisk roe
+seg ca 14 dager før ny håndtering. Ikke for mye
+biomasse i kar.
+1
+4
+4
+Påvekst hall
+Håndtering og stell
+Flytting
+Skader på fisk. Stress.
+Dårlig fisekvelferd.
+Skader/sår. Stress kan føre
+til halebiting
+For hard, og/eller for ofte
+håndtering
+Følge prosedyre for flytting. Fisk flyttes med
+fiskepumpe. Ikke bruke for mye kraft i pumpe.
+1
+4
+4
+Påvekst hall
+Håndtering og stell
+Vaksinering
+Spreller på brettet.
+Faller på gulv. Skade på
+fisk. Dårlig fiskevelferd
+Fisken ligger for lenge på
+brettet. Kan sprelle.
+Bord med vanngjennomstrømming er tatt i bruk,
+og anvendes ved all vaksinering. Nett på
+gangbane under vaksineringsområde.
+1
+2
+2
+Påvekst hall
+Håndtering og stell
+Vaksinering
+Smerte/ bedøves ikke ved
+vaksinering
+Dårlig fiskevelferd. Død.
+Feildosering/ feil
+eksponeringstid
+Vi anser at smerten er mer gunstig enn at fisken
+skal få helseproblemer i ettertid. Dette er i
+samråd med fiskehelsetjeneste, da økt
+dødelighet kan inntre ved/etter bruk av
+bedøvelse. Risiko og konsekvens for feilbruk av
+medikament er større/høyere enn konsekvensen
+fisken har av smerter ved vaksinering uten
+bedøvelse.
+3
+1
+3
+Påvekst hall
+Håndtering og stell
+Vaksinering
+Tørrlegging av fisk på brett
+Stress. Oksygenmangel
+For mye fisk på brettet
+Bord med vanngjennomstrømming er nå tatt i
+bruk, og anvendes ved all vaksinering. Ikke ha for
+mye fisk på brettet. Følge prosedyre
+1
+3
+3
+Påvekst hall
+Håndtering og stell
+Vaksinering/sortering/fly
+tting
+Håving av fisk
+Klemskader
+For mye fisk i håven
+Opplæring fra erfarne ansatte om hvor mye det
+er lov å ha i håven.
+1
+2
+2
+Påvekst hall
+Håndtering og stell
+Vaksinering 
+Nedtapping av kar
+Oksygendropp
+Tapper karet for mye ned slik
+at det blir lite vann og
+oksygen
+O2-måler i kar, hele tiden ha vann på inn i karet, tappe
+forsiktig ned.
+1
+3
+3
+Påvekst hall
+Håndtering og stell
+Vaksinering
+For lite sulting av fisk i forkant
+Stikk i tarm
+Menneskelig svikt
+Alltid slå av automatene og tømme siloene for
+fôr. Om det blir avglemt blir karet tatt når det er
+sultet nok.
+1
+2
+2
+Rubbhall
+Metoder,
+installasjoner og
+utstyr
+Rømningssikring
+Rømming/ fisk kommer ut i
+naturlig miljø på land til sjø
+Nedsatt fiskevelferd,
+Manglende utstyr. Svikt
+utstyr
+Rømmingssperre i kar, overløp karvegg, rist
+silkasse, avløp gulv og avløpskum.
+1
+4
+4
+Rubbhall
+Metoder,
+installasjoner og
+utstyr
+Rømningssikring
+Rømming/ fisk kommer ut i
+naturlig miljø på land
+For fisken er ikke dette å
+anse som noen fare, men
+det er brudd på forskrift
+Hull på utstyr / utstyr
+hopper av ved lasting til
+båt
+Sjekke slanger, koblinger og rør ved lasting til
+båt. Prosedyre for levering av fisk til båt/bil.
+1
+5
+5
+Rubbhall
+Smittehygiene
+Fôring
+Spredning av uønskede
+mikroorganismer eller kjemikalier
+gjennom brukt emballasje
+Sykdomsspredning
+Manglende desinfisering
+Fôr blir brukt opp i den hallen det er tatt inn.
+Fôrembalasje blir desinfisert på utsiden.
+1
+3
+3
+Rubbhall
+Smittehygiene
+Hygiene
+Smitte/sykdom.over ført fra dårlig
+eller ubehandlet vann. Sykdom/
+massedød
+Smitterisiko
+Svikt i vannbehandling
+Rutiner for kontroll av vannbehandling. Månedlig
+vannprøve før og etter UV behandlert vann.
+1
+5
+5
+Rubbhall
+Pumpestopp
+Oksygenering
+Lavt O2 nivå.
+Dårlig vannkvalitet, lavt O2
+nedsatt fiskevelferd.
+Gjellebetennelser, død pga
+o2 mangel
+pumpestans
+Alarm ved evt. pumpestans. Nødoksygenering på
+karnivå
+1
+5
+5
+Rubbhall
+Smittehygiene
+Vask av kar og utstyr
+Dårlig miljø i kar. Vanskelig å røkte
+skikkelig .Smittefar, vekst av
+uøsnket mikroiber og bakterier.
+Sykdom. Dårlig
+fiskevelferd.
+Dårlig utført vask av kar og
+utstyr.
+Hygiene Prosedyrer, og riktig
+vaskemiddel/desinfeskjonsmiddel.
+1
+4
+4
+Rubbhall
+Overflow ved tett
+avløpsrist i kar
+Daglig røkt for å fjerne
+fôrrester og dødfisk i bunn
+av kar.
+Tett rist i kar, øktvannstand som
+fører til a fisk renner over karkant og
+faller på gulv.
+Dårlig fiskevelferd. Fisk blir
+liggende på gulv og
+dø.Fisk blir smitterisiko, og
+blir destreuert ifht.
+prosedyre.
+Tett rist i bunn av kar. Pga.
+overfôring, eller ved økt
+dødelighet, og mye dødfisk
+på rist
+Daglig røkt. Røkt gjentas flere ganger ila. dagen ved
+økt risiko for tett rist. Kveldsvakt tar også en ekstra
+runde for å unngå overflow i slik situasjon. Monterrt
+overflow nivåsensor i samlekasse i silkasse. Alarm ved
+forhøyet vannstand, ved overløp i overløpssikring på
+kar.
+1
+4
+4
+Rubbhall
+Smittehygiene
+Slusing
+Overføre evt. sykdom fra andre
+avdelinger.
+Sykdom/død
+Svikt i sluserutiner
+Sluseinstruks. Følge prosedyre for slusing og
+hygieneregime før en går inn og ut av hall.
+1
+4
+4
+Rubbhall
+Håndtering og stell
+Vaksinering
+Smerte/ bedøves ikke ved
+vaksinering
+Faller på gulv. Skade på
+fisk. Dårlig fiskevelferd
+Feildosering/ feil
+eksponeringstid
+Vi anser at smerten er mer gunstig enn at fisken
+skal få helseproblemer i ettertid. Dette er i
+samråd med fiskehelsetjeneste, da økt
+dødelighet kan inntre ved/etter bruk av
+bedøvelse. Risiko og konsekvens for feilbruk av
+medikament er større/høyere enn konsekvensen
+fisken har av smerter ved vaksinering uten
+bedøvelse.
+3
+1
+3
+Rubbhall
+Håndtering og stell
+Vaksinering
+Tørrlegging av fisk på brett
+Dårlig fiskevelferd. Død.
+For mye fisk på brettet
+Bord med vanngjennomstrømming er nå tatt i
+bruk, og anvendes ved all vaksinering.Passer på
+at det er passelig med fisk på brettet til en hver
+tid. Bruker vaksineskjema
+1
+3
+3
+Rubbhall
+Håndtering og stell
+Vaksinering
+Håving av fisk
+Klemskader
+For mye fisk i håven
+Opplæring fra erfarne ansatte om hvor mye det
+er lov å ha i håven.
+1
+2
+2
+Rubbhall
+Håndtering og stell
+Vaksinering 
+Nedtapping av kar
+Oksygendropp
+Tapper karet for mye ned slik
+at det blir lite vann og
+oksygen
+O2-måler i kar, hele tiden ha vann på inn i karet, tappe
+forsiktig ned.
+1
+3
+3
+Rubbhall
+Håndtering og stell
+Vaksinering
+For lite sulting av fisk i forkant
+Stikk i tarm
+Menneskelig svikt
+Alltid slå av automatene og tømme siloene for
+fôr. Om det blir avglemt blir karet tatt når det er
+sultet nok.
+1
+2
+2
+Rubbhall
+Håndtering og stell
+Kvalitetssortering
+Skader på fisk. Stress.
+Dårlig fisekvelferd.
+Skader/sår. Stress kan føre
+til halebiting
+For hard, og/eller for ofte
+håndtering
+Følge prosedyre for sortering, utøve aktsomhet i
+sortering, ikke ha for mye fisk i vugge. La fisk roe
+seg ca 14 dager før ny håndtering. Ikke for mye
+biomasse i kar.
+1
+4
+4
+Rubbhall
+Håndtering og stell
+Flytting
+Skader på fisk. Stress.
+Dårlig fisekvelferd.
+Skader/sår. Stress kan føre
+til halebiting
+For hard, og/eller for ofte
+håndtering
+Følge prosedyre for flytting. Fisk flyttes med
+fiskepumpe. Ikke bruke for mye kraft i pumpe.
+1
+4
+4
+Rubbhall
+Fôring
+Oppsett av
+foringsregime og daglig
+fôring
+Overfôring
+Dårlig karmiljø, med fare
+for oppblomstring av
+sykdomsorganismer
+Manglende opplæring,
+dårlig kontroll på
+biomasse, feil tolking av
+tabeller.
+God kontroll på biomassen i karene her flyttes
+vaksinert fisk, hvor man har antall fra vaksinering.
+(telle og veie fisk). Foringsregime basert på
+kunnskap om fiskens forventede vekst, fôrfaktor
+xx, i forhold til fiskens stadium. Gode prosedyrer,-
+Observere fôrrester i karene. Håndforing for å
+sjekke appetitt.
+1
+4
+4
+Rubbhall
+Fôring
+Oppsett av
+foringsregime og daglig
+fôring
+Underfôring
+Nedsatt velferd,
+mangelsymptomer,
+mottakelighet for sykdom,
+dårlig vekst, aggresjon og
+biting
+Dårlig sammensatt fôr,
+manglende opplæring, feil
+tolking av apetitt, Feil i
+beregning av forventet
+behov for fôr
+God kontroll på biomassen i karene her flyttes
+vaksinert fisk, hvor man har antall fra vaksinering.
+(telle og veie fisk). Foringsregime basert på
+kunnskap om fiskens forventede vekst, fôrfaktor
+xx, i forhold til fiskens stadium. Gode prosedyrer,-
+Observere fôrrester i karene. Håndforing for å
+sjekke appetitt.
+1
+4
+4
+Rubbhall
+Håndtering og stell
+Daglig røkting /
+situasjoner med
+håndtering av fisk
+Halebiting
+nedsatt velferd, nedsatt
+kvalitet gjør at fisken må
+avlives, sykdom i sår,  i
+verste fall død pga
+manglende hale
+Hierarki, ulike størrelser
+på fisk i karet, stress,
+tetthet i karet. Feil
+håndtering.
+Prosedyre for sortering. Tall for maks tetthet i kar.
+1
+4
+4
+Rubbhall
+Håndtering og stell
+Stell og uttak av dødfisk
+og svimere
+Smitte mellom kar ved bruk av
+felles utstyr, f.ek håv
+Det er ikke rett utstyr til
+hvert kar
+Kostnad, mange
+håver/koster
+Egne håver/koster til hvert kar.
+1
+3
+3
+Rubbhall
+Metoder,
+installasjoner og
+utstyr
+Fôring
+Stopp i fôringsautomat
+nedsatt velferd, nedsatt
+helse, i ytterste
+konsekvens fiskedød
+Teknisk feil på automat
+Hold fôringsautomater rene og i god stand. Sjekk
+regelmessig.
+1
+3
+3
+Rubbhall
+Metoder,
+installasjoner og
+utstyr
+Rømningssikring
+Rømming/ fisk kommer ut i
+naturlig miljø på land til sjø
+Nedsatt fiskevelferd,
+Manglende utstyr. Svikt
+utstyr
+Rømmingssperre i kar, overløp karvegg, rist i
+silkasse, avløp gulv og avløpskum.
+1
+4
+4
+Rubbhall
+Metoder,
+installasjoner og
+utstyr
+Rømningssikring
+Rømming/ fisk kommer ut i
+naturlig miljø på land
+For fisken er ikke dette å
+anse som noen fare, men
+det er brudd på forskrift
+Hull på utstyr / utstyr
+hopper av ved lasting til
+båt
+Sjekke slanger, koblinger og rør ved lasting til
+båt. Prosedyre for levering av fisk til båt/bil.
+1
+5
+5
+Rubbhall
+Smittehygiene
+Hygiene
+Smitte/sykdom.over ført fra dårlig
+eller ubehandlet vann. Sykdom/
+massedød
+Smitterisiko
+Svikt i vannbehandling
+Rutiner for kontroll av vannbehandling. Månedlig
+vannprøve før og etter UV behandlert vann.
+1
+5
+5
+Rubbhall
+Pumpestopp
+Oksygenering
+Lavt O2 nivå.
+Dårlig vannkvalitet, lavt O2
+nedsatt fiskevelferd.
+Gjellebetennelser, død pga
+O2 mangel
+pumpestans
+Alarm ved evt. pumpestans. Nødoksygenering på
+karnivå
+1
+5
+5
+Rubbhall
+Smittehygiene
+Vask av kar og utstyr
+Dårlig miljø i kar. Vanskelig å røkte
+skikkelig .Smittefar, vekst av
+uøsnket mikroiber og bakterier.
+Sykdom. Dårlig
+fiskevelferd.
+Dårlig utført vask av kar og
+utstyr.
+Hygiene Prosedyrer, og riktig
+vaskemiddel/desinfeskjonsmiddel.
+1
+4
+4
+Rubbhall
+Overflow ved tett
+avløpsrist i kar
+Daglig røkt for å fjerne
+fôrrester og dødfisk i bunn
+av kar.
+Tett rist i kar, øktvannstand som
+fører til a fisk renner over karkant og
+faller på gulv.
+Dårlig fiskevelferd. Fisk blir
+liggende på gulv og
+dø.Fisk blir smitterisiko, og
+blir destreuert ifht.
+prosedyre.
+Tett rist i bunn av kar. Pga.
+økt dødelighet, og mye
+dødfisk på rist
+Daglig røkt. Røkt gjentas flere ganger ila. dagen ved
+økt risiko for tett rist. Kveldsvakt tar også en ekstra
+runde for å unngå overflow i slik situasjon. Monterrt
+overflow nivåsensor i samlekasse i silkasse. Alarm ved
+forhøyet vannstand, ved overløp i overløpssikring på
+kar.
+1
+4
+4
+Rubbhall
+Smittehygiene
+Slusing
+Overføre evt. sykdom fra andre
+avdelinger.
+Sykdom/død
+Svikt i sluserutiner
+Sluseinstruks. Følge prosedyre for slusing og
+hygieneregime før en går inn og ut av hall.
+1
+4
+4
+Rubbhall
+Håndtering og stell
+Flytting
+Skader på fisk. Stress.
+Dårlig fisekvelferd.
+Skader/sår. Stress kan føre
+til halebiting
+For hard, og/eller for ofte
+håndtering
+Prosedyre for flytting. Fisk flyttes med
+fiskepumpe. Ikke bruke for mye kraft i pumpe.
+1
+4
+4
+Rubbhall
+Håndtering og stell
+Kvalitetssortering
+Skader på fisk. Stress.
+Dårlig fisekvelferd.
+Skader/sår. Stress kan føre
+til halebiting
+For hard, og/eller for ofte
+håndtering
+Følge prosedyre for sortering, utøve aktsomhet i
+sortering, ikke ha for mye fisk gjennom
+pumpe/sporteringsbane om  gangen.
+Gjennomføres innenfor rimelig tid før/etter flytting
+1
+4
+4
+Rubbhall
+Smittehygiene
+Fôring
+Spredning av uønskede
+mikroorganismer eller kjemikalier
+gjennom brukt emballasje
+Sykdomsspredning
+Manglende desinfisering
+Fôr blir brukt opp i den hallen det er tatt inn.
+Fôrembalasje blir desinfisert på utsiden.
+1
+3
+3
+0
+0
+0
+0
+0
+0
+0
+IQS: Prosjekt->Risikovurderinger"
+Risikoanalyse HMS
+Austevoll Rensesfisk AS
+Revisjon, dato: 02/17/2022
+Utførelse: Risiko beregnes som sannsynlighet x konsekvens. Bruk tilhørende
+risikomatrise, vurder verdi for sannsynlighet og konsekvens (1-5) og sett inn i
+tabellen (S1, K1), og risiko beregnes automatisk.
+Til stede ved siste Revisjon: Eileen Kristiansen, Alf Markus R.
+Samuelsen
+Risikokartlegging
+Handlingsplan
+Risiko etter tiltak
+Kalkulering av Risiko
+Kalkulering
+Kategori
+Prosess/ aktivitet
+Mulig uønsket hendelse
+Mulige konsekvenser /
+fare
+ Årsaker
+Eksisterende risikoreduserende tiltak,
+hensyntatt i analysen
+S1
+sannsyn
+lighet
+K1
+konse
+kvens
+R1       
+risi
+ko
+Forslag til nye tiltak
+Prioritet
+Ansvarlig for
+gjennomføring
+Frist
+Status
+S2        sannsyn
+lighet
+K2    konse
+kvens
+R2       risi         ko
+Evaluering, dato                   risiko
+akseptabel-> avsluttet / risiko ikke
+akseptabel, -> nye tiltak
+Sikkerhet
+Arbeid / røkting i høye kar/
+på platå/ gangbane
+Problemer med å komme
+seg ned fra gangbane ved
+evakuering
+røykskader, fall ned
+trapp/stige med fall-/ brudd-
+skader.
+røyk / mørkt
+Nødutganger er merket med lys ihht. Krav.
+2
+5
+10
+Selvlysende tape? / nødlys som går på
+nødaggregat,
+høy
+HMS
+Ansvarlig/Driftsle
+der
+05/01/2022
+under arbeid
+1
+5
+5
+Sikkerhet
+Arbeid / røkting i høye kar/
+på platå/ gangbane
+Fall fra stige inn i kar, når
+man klatrer inn i kar.
+Fall-/ bruddskader
+Glipper / mister grepet  ikke
+tilrettelagt
+arbeidsmiljø/manglende/feil
+utstyr
+Forskrift: være fast i toppen, ikke kunne
+beveges, stigen skal stikke 1 m opp over
+gangbane. Pr. i dag har vi stiger som henges
+fast på karkant. Slik at de ikke tipper.
+2
+5
+10
+Sjekke stiger og fester. Er alle haller utstyrt
+med sikkert utstyr??
+høy
+HMS
+Ansvarlig/Driftsle
+der
+05/01/2022
+under arbeid
+1
+5
+5
+Sikkerhet
+Kjemikaliebruk
+Uhell med ufortynnet
+desinfeksjon og vaskemidler Etseskader, hud, øye,
+Feil / ikke tynnet riktig ved
+bruk. Ikke brukt verneutstyr
+(hansker/øyevern)
+Automatisk fortynning i blandeenhet ved
+påføring. Oppskrifter på fortynning/
+konsentrasjon. Utskrift av verneblad  i området
+der kjemikaliet blir brukt. Tilgjengelig verneutstyr
+(hansker/ øyevern ) Årlig kursing i håndtering av
+kjemikalier.
+1
+5
+5
+0
+0
+0
+Fysisk helse
+Kjemikaliebruk
+Skade under arbeid med
+kjemikalier (bedøvelse,
+såper, desinfeksjon,
+syrevasking).
+Innånding av støv-
+irritasjon av luftveier /
+øyeskade, allergi,
+hudskader, skjolding,
+etseskader.
+Ikke lest verneblad, ikke
+brukt verneutstyr/
+manglende opplæring
+Datablad og verneblad tilgjengelig for alle
+kjemikalier. Eget verneutstyr. Kontinuerlig
+Fokus på HMS og egen sikkerhet. Bruke
+tilgjengelig verneutstyr. Alle skal ha
+kjemikaliekurs, årlig kursing i
+kjemikaliehåndtering.
+1
+4
+4
+0
+0
+0
+Fysisk helse
+Flytting, sortering og
+vaksinering av fisk
+Belastnintgsskade rygg,
+knær, armer
+Rygg/skjelett/ muskel -
+plager
+Overbelastning / vridning/
+strekk
+Bruker hjelpemidler der det er mulig (pumpe/
+sorteringsmaskin/tellemaskin/ løfteredskap/
+avlastningsmatter/  ) Arbeidsrotasjon
+2
+3
+6
+Opplæring og bevisstgjøring, ergonomi /
+Fysioterapeut
+normal
+HMS
+Ansvarlig/Driftsle
+der
+05/01/2022
+under arbeid
+1
+3
+3
+Sikkerhet
+Kjemikaliebruk
+Skade ifm. håndtering av
+ensilasje
+Skade på øyne/hender/hud
+Sprut ved fyllling av syre/
+tømming av dødfisk i dunk
+Bruk hansker og ansiktsvisir/briller. Automatisk
+dosering. Lukket beholder.
+1
+5
+5
+0
+0
+0
+Sikkerhet
+Håndtering av gass, oksygen
+Skade ifm. håndtering av
+oksygenslanger
+Brann- og eksplosjonskade lekkasje
+Slå alltid av oksygen under arbeid. Ikkje gnist
+eller røyk under arbeid.  Alle skal ha gasskurs.
+Ikkje stå inni i et kar eller tett rom der oksygen
+kan lekke til lufta.
+2
+5
+10
+Vedlikehold fra leverandør. Alle skal ha
+gasskurs. Alle skal gjennomgå Gasskurs
+2022.
+normal
+Driftsleder
+02/01/2022 under arbeid.
+1
+5
+5
+Sikkerhet
+Varemottak
+Påkjørsel / skade ifm.
+varemottak av stykkgods.
+Ulykker ifm. bruk av truck
+Klemskader, i verste fall
+død, dersom trafikkulykke
+inntreffer.
+Personer arbeider nært
+opptil operering av truck
+Alle som bruker truck må ha truckførerbevis.
+God kommunikasjon mellom truckfører og
+andre personer som laster /losser. Sjekke og
+oppdatere truckførerbevis. Truckfører minnes
+1
+5
+5
+0
+0
+0
+Fysisk helse
+Daglig røkting
+Skade ifm.
+prøveuttak/veiing/håving
+Kuttskade,
+belastningsskade, fall i kar
+Statisk arbeid, lener seg
+over kanten av karet,
+skalpell glipper
+Variere stilling og arbeidsrotasjon. Hensynta
+god arbeidshøyde. Bruk av pumpe og
+telleapparat reduserer belastning. Sørge for å
+ha godt arbeidsrom ved bruk av skarpe og
+spisse gjenstander.
+1
+4
+4
+0
+0
+0
+Sikkerhet
+Verksted/Varme arbeid
+Skade ifm. Varmearbeid.
+(lettere arbeid m vinkelsliper,
+drill, etc)
+Brann- og kuttskade
+Utstyr glipper
+Må ha opplæring / sertifikat i bruk av gjeldende
+verktøy. Må ha godkjent kurs i varmearbeid.
+1
+5
+5
+0
+0
+0
+Sikkerhet
+Renhold
+Skade ifm. Høytrykksvasking
+Kutt- og hørselskade.
+Skolding.
+stråle mot hud, høy lyd
+Unngå hudkontakt. Bruk nødvendig verneutstyr/
+klær. Benytte lavtrykksvaskere ved anledning.
+Spyle kun ting som står fast / er festet, ikke
+holde ting som skal spyles
+1
+5
+5
+Kurs i  håndtering av Høytrykksspyler.
+normal
+HMS
+Ansvarlig/Driftsle
+der
+05/01/2022 under arbeid.
+1
+5
+5
+Fysisk helse
+Daglig røkting
+Støy-skade ifm. daglig stell
+av fisk
+Hørselsskade.
+Vannstøy/ støy fra
+ventilasjonssytem
+Støyreduserende løsninger  (Lokk på munker.
+Endret retnng på avløp). Hørselvern er
+tilgjengelig. Alle har fått personlig hørselsvern.
+2
+2
+4
+0
+0
+0
+Sikkerhet
+Vedlikehold bygg, anlegg
+Skade ifm. arbeid i høyde,
+eksempelvis ved skifting av
+lys eller arbeid på silo
+Fall og bruddskader.
+Ikke tilstrekkelig sikring.
+Uoppmerksomhet
+Sikringsutstyr skal være tilgjengelig.
+Tilfredstillende stige/adkomstmetode. Være to i
+nevnt arbeid.
+1
+5
+5
+Innskjerpe rutine for bruk av SJA analyse
+ved ekstraordinært arbeid.
+normal
+HMS
+Ansvarlig/Driftsle
+der
+05/01/2022 under arbeid.
+1
+5
+5
+Sikkerhet
+Vedlikehold bygg, anlegg
+Skade ifm. arbeid i
+pumpekum sjø ved sjekk av
+sikringsrist, vedlikehold av
+pumpe
+ fallskader/belastningskade
+Ikke tilstrekkelig sikring.
+Uoppmerksomhet
+Nødvendig løfteutstyr tilgjengelig ved
+situasjonsbetingete løft. 2 stk. ved nevnt arbeid.
+1
+5
+5
+0
+0
+0
+Sikkerhet
+Varemottak
+Skade ifm. mottak av
+flytende varer. ( såpe og
+desinfeksjon)
+Kortvarig eller langvarig
+skade.
+Skade / brekkasje på
+emballasje. Truckgaffel
+skader emballasje
+y
+,
+truckførerbevis.Person med allergi mot et stoff
+skal ikke være med i mottak. Være observant
+ved bruk av truck
+1
+2
+2
+1
+2
+2
+Psykisk helse Daglig arbeid
+Manglende planer og
+uforutsigbarhet i
+arbeidssituasjonen
+Konflikter og uklarhet mht
+hvem som skal utføre
+arbeidsoppgaver, sress,
+mistrivsel
+Uklare / manglende planer
+Arbeidsplaner, Ukemøter, Ansvarlige for
+arbeidsoperasjoner. Ligger til grunn gode
+rollefordelinger, og planlegging av
+arbeidsdager/uke.Kompetanseteam og tydelig
+rollefordeling
+1
+2
+2
+1
+1
+1
+Fysisk helse
+Vaksinering, injeksjon
+Egeninjeksjon, dose
+Anafylaktisk sjokk, i verste
+fall død
+Utilsiktet selvinjeksjon av
+vaksine. Alvorlig allergi
+motvirkestoffe/hjelpestoff i
+vaksine.
+Personell med alvorlig generell/eller spesifikk
+allergi,  kan ikke være med på selve
+vaksinering, deltar på andre
+arbeidsoppgaver.Tilgjengelig EPI-pen på
+anlegget, skriftlig dokumentasjon av opplæring.
+Rutinemessig legebesøk ved selvstikk, kjøres
+av kollega. Redskap som trekker ut injisesrt
+vaksine. (manuell vakuum-Giftekstraktor)
+1
+4
+4
+1
+4
+4
+Fysisk helse
+Vaksinering, injeksjon
+Egeninjeksjon, dose
+Lokal reaksjon i vev, kan
+føre til tap av kroppsdel
+Reaksjon i vev (finger) pga
+mineraloljen i vaksinen
+Opplæring og bevisstgjøring. Konsekvens ved
+flere selvstikk/egeninjeksjon, at en ikke kan
+være med i vaskinering mer, da risiko for
+alvorlige allergiske reaksjoner øker ved økt
+eksponering. Beskyttelsesbøyle til vaksinepistol.
+Egen holder til vaksinepistol på
+vaksineringsbord som er plassert ( inn, over
+kar)  bort fra hvor vaksinatør oppholder seg.
+1
+4
+4
+1
+4
+4
+Fysisk helse
+Vaksinering, injeksjon
+Egenstikk uten injeksjon av
+vaksine
+Infeksjon i stikkpunkt
+Mikroorganismer fra fiskene
+på sprøytespissen
+Beskyttelsesbøyle til vaksinepistol. Egen holder
+til vaksinepistol på vaksineringsbord som er
+plassert ( inn, over kar)  bort fra hvor vaksinatør
+oppholder seg.
+1
+4
+4
+1
+3
+3
+Fysisk helse
+Håndtering av vaksineposer
+under opphenging / oppstart
+og ved nedtak / skifting av
+poser.
+Vaksine i kontakt med hud
+Allergisk reaksjon H317,
+fare for kreft på senere
+tidspunkt H350,  genetiske
+skader H341
+Vaksinen inneholder
+formaldehyd og andre farlige
+stoffer. Se
+sikkerhetsdatablad pkt 16
+Bruk av engangshansker / flergangshansker /
+barrierer for ikke å berøre vaksinen. Prosedyrer.
+Bevisstgjøring. Registrere eksponering i
+eksponeringsregister. Eksponeringsmengde er
+dog meget lav, og utgjør ingen stor risiko ved
+normal bruk,og rett verneutstyr./ingen
+selvinjisering/selvstikk. Laget vaksinebord, med
+egne beholdere til vaksinepistoler, slik at nåler
+er vendt bort fra ansatte og arbeidsområde.
+2
+4
+8
+Lage plakat til vaksinestasjon med alle farer.
+Registrere vaksinatører/navn
+påvaksineskjema?
+normal
+HMS
+Ansvarlig/Driftsle
+der
+05/01/2022 under arbeid.
+1
+4
+4
+Farer, Helse/Sikkerhet: Fall-/ bruddskader, Klemskade, Kuttskader, Brann-/ Skolding-kulde/
+Eksplosjonsskader, Kjemikalieskader, Elektrisk støt, Belastningsskader (hørsel, slitasje, osv),
+Strålingsskader, Trafikkulykker, Drukning, Mobbing/ vold, Allergi/ astma, Forgiftning, Annet
+Krav til oppdatering: Risikoanalysen skal
+oppdateres når det skjer vesentlige endringer i
+bygninger, utstyr, arbeidsmetoder etc., og ha en
+fullstendig gjennomgang minst en gang hvert år.
+IQS: Prosjekt->Risikovurderinger"
+Risikoanalyse Ytre Miljø
+Austevoll Rensefisk AS
+Revisjon 1 halvår, dato: 02/17/2022
+Utførelse: Risiko beregnes som sannsynlighet x konsekvens. Bruk tilhørende risikomatrise, vurder verdi for sannsynlighet og konsekvens (1-5) og sett inn i tabellen (S1, K1), og risiko beregnes
+automatisk.
+Revisjon 2 halvår, dato:
+Til stede ved siste Revisjon: Eileen Kristiansen,
+Alf Markus R. Samuelsen
+Risikokartlegging
+Handlingsplan
+Risiko etter tiltak
+Kalkulering av Risiko
+Kalkulering
+Kategori
+Arbeidsoppgave
+Operasjon
+Mulig uønsket hendelse
+Farer ytre miljø
+Farer internt i bedriften
+Kan dette medføre skade på
+fisk                                 (analyser
+også Fiskevelferd i eget
+dokument)
+Kan dette medføre
+personskade
+(analyser også helse og sikkerhet i
+eget dokument)
+ Årsaker
+Eksisterende risikoreduserende
+tiltak, hensyntatt i analysen
+S1
+sannsy
+nlighe
+t
+K1
+konsek
+vens
+R1
+risiko
+Forslag til nye tiltak
+Prioritet
+Ansvarlig for
+gjennomføring
+Frist
+Status
+S2
+sannsy
+n
+lighet
+K2
+konse
+kvens
+R2
+risi
+ko
+Evaluering, dato                   risiko
+akseptabel-> avsluttet / risiko ikke
+akseptabel, -> nye tiltak
+Avfall
+Formalin-rester
+Utslipp / lekkasje
+Ja dersom feil oppbevaring
+Kan utløse behov for
+evakuering
+Nei
+Ja, dersom feil oppbevaring
+Manglende opplæring om
+faremomenter, manglende
+bruk av SDB
+Opplæring og rutiner for bruk.
+Oppbevares innelåst og utenfor
+arbeidslokaler.
+1
+4
+4
+0
+0
+0
+Anvendes sjelden. Oppbevares
+adskilt fra ferdselsområde.
+Avfall
+Kassert elektrisk og
+elektronisk utstyr
+nei
+Nei
+Nei
+1
+1
+1
+0
+0
+0
+Avfall
+Blanda batterier, og
+farlige batterier
+Etseskade hud /eksponering for komponenter i
+batteriet, syrer/ giftige metalsalter
+Nei
+Etsende
+Nei
+Ja, dersom feil oppbevaring
+Uforsiktighet ved
+oppbevaring, må holdes
+adskilt?
+Oppbevares, separat, i beholdere,
+ikke mulig med utslipp til miljø.
+Årlig levering til Avfallsanlegg
+1
+4
+4
+0
+0
+0
+Avfall
+blybatterier
+Eksponering for bly
+Nei
+Giftig
+Nei
+Ja, dersom feil oppbevaring
+Uforsiktighet ved
+oppbevaring, må holdes
+adskilt?
+Oppbevares, separat, i beholdere,
+ikke mulig med utslipp til miljø
+1
+4
+4
+0
+0
+0
+Avfall
+Ni-Cd-batterier
+Eksponering for Kvikksølv
+Nei
+Giftig
+Nei
+Ja, dersom feil oppbevaring
+Uforsiktighet ved
+oppbevaring, må holdes
+adskilt?
+Oppbevares, separat, i beholdere,
+ikke mulig med utslipp til miljø.
+Årlig levering til Avfallsanlegg
+1
+4
+4
+0
+0
+0
+Avfall
+batterier som
+inneholder kvikksølv
+Eksponering for Cadmium
+Nei
+Giftig
+Nei
+Ja, dersom feil oppbevaring
+Uforsiktighet ved
+oppbevaring, må holdes
+adskilt?
+Oppbevares, separat, i beholdere,
+ikke mulig med utslipp til miljø.
+Årlig levering til Avfallsanlegg
+1
+4
+4
+0
+0
+0
+Avfall
+Vaksineposer og
+slanger
+Hud- og innhalerings-eksponering dersom
+vaksinerposer ligger og "blør", allergi, helseskade
+Nei
+Ja, se beskrivelse på produkt
+Nei
+Ja, dersom feil oppbevaring
+Følger ikke rutiner
+Avhendes i lukkede beholdere.
+Årlig levering til Avfallsanlegg
+1
+3
+3
+0
+0
+0
+Avfall
+Kanyler og skalpellblad
+Kutt/ stikk/ infeksjon / skade mti
+Nei
+Ja, se beskrivelse på produkt
+Nei
+Ja, dersom feil oppbevaring
+Følger ikke rutiner
+Avhendes i lukkede beholdere.
+Nytt tiltak 2021: egen holder for
+vaksinepistol når ikke i bruk.
+Beskyttelsesbøyle til pistol.
+Egnede beholdere til brukte
+kanyler/ skalpeller.
+1
+4
+4
+0
+0
+0
+Avfall
+lysstoffrør, sparepærer Havner i blandet avfall/ rest/ miljøfarlige stoffer på
+avveie
+Ja dersom feil oppbevaring
+Nei
+Nei
+Nei
+Feil sortert/ feil avhending
+Avfallsstasjon med egen
+oppbevaringsboks. Legges i
+avfallskonteiner etter bruk. Årlig
+levering til Avfallsanlegg
+1
+3
+3
+0
+0
+0
+Avfall
+Trykkimpregnert
+tremateriale
+Miljøskadelige kjemikalier på feil plass
+Ja dersom feil oppbevaring
+Nei
+Nei
+Ikke aktuelt
+Feil sortert/ feil avhending
+Avfallsstasjon med egen
+oppbevaringsplass
+1
+3
+3
+0
+0
+0
+Avfall
+håndtering av avfall fra
+vaksinering,
+Vaksinerester, poser, nåler på avveie
+Vaksinen inneholder giftige
+stoffer som kan være farlige for
+mennesker og dyr hvis man
+ikke håndterer dette på en
+forsvarlig måte
+Ja, se beskrivelse på produkt
+Nei
+Ja. Inneholder vaksinerester,
+utilsiktet stikk kan skje, og
+dermed allergiske reaskjoner.
+Eller infisering med uønskede
+mikroorganismer fra produksjon Feil sortert/ feil avhending
+Brukt vaksineutstyr samle i egned
+beholdere, og holdes innelåst i
+avfallskonteiner på lolalitet, for så
+å leveres til godkjent avfallsanlegg.
+1
+4
+4
+Gjennomgå prosedyrer og se til at
+systemene er på plass
+0
+0
+0
+Skade på materiell
+Tørkekluter og
+vernetøy som er
+forurenset av farlige
+stoffer
+Ligger og "slenger" / blir ikke avhendet på rett måte Nei
+Ja, se beskrivelse på produkt
+Nei
+Ja, dersom feil oppbevaring
+Uaktsomhet/ manglende
+avfallsbeholder
+Alminnelige rutiner for orden og
+ryddighet
+1
+3
+3
+0
+0
+0
+Utslipp til Jord
+Ensilasje (dødfisk,
+rogn)
+Lekkasje, utslipp til underlag
+Utslipp til Jord
+Gassutvikling/ eksplosjon
+Nei
+Ja, dersom feil oppbevaring
+Manglende ettersyn. Feil
+materiale/
+oppbevaringsbeholder
+Ensilasje oppbevares i kvern og
+tank produsert for formålet. Syre
+oppbevares i egnet tank. Område
+er sperret av med fysisk hinder.
+Ukentlig kontroll av utstyr
+1
+5
+5
+0
+0
+0
+Utslipp til Jord
+Alle oljer unntatt
+matolje
+Lekkasje/ brekkasje/ velt
+Utslipp til Jord
+Nei
+Ikke aktuelt
+Nei
+Påkjørsel med truck/ skade på
+beholder/ velter når den er
+åpen
+Samles i tette beholdere og
+leveres til mottak
+1
+3
+3
+0
+0
+0
+Utslipp til Jord
+Kanner med rester av
+desinfeksjonsmidler
+Lekkasje/ søl på oppbevaringssted
+Nei
+Nei
+Nei
+Ja, dersom feil oppbevaring
+Uaktsomhet/
+Skylles og håndteres med
+verneutstyr tilpasset
+desinfeksjonsmidler (iht SDB), før
+evoppbevaring. Leveres
+kontimuerlig i restavfall
+2
+2
+4
+0
+0
+0
+Utslipp til Luft
+Maling, lakk, div
+"verkstedkjemikalier",
+spraybokser
+Inhalering av skadelig stoff/ manglende hensyn til
+oppbevaringsanvisning i SDB ved avhending
+Ja dersom feil oppbevaring
+Ja, se beskrivelse på produkt
+Nei
+Ja, dersom feil
+oppbevaring/bruk
+Ikke tatt hensyn til faremerking.
+Verksted-kjemikalier brukes en
+gang i mellom og det blir ikke
+tatt nok hensyn til
+faremomenter ved avhending.
+Stoffkartotek med
+sikkerhetsdatablad (Ecoonline),
+som har avsnitt om hvordan
+kjemikalier skal avhendes.
+Restedunker blitr spylt og
+oppbevares lukket, inntil korrekt
+avfallslevering. Maske anvende
+ved bruk i lukkede/dårlig ventilerte
+områder.
+3
+3
+9
+Gjennomgå registrering i eco-online, er alt
+registrert? Sjekk at rester samles i egnede
+oppbevaringsbokser, at det ikke er lekkasjer
+og avdunsting inn i arbeidslokaler. Lever inn
+rester som ikke skal brukes.
+normal
+VO /
+kjemikalieadmin i
+eco online på
+anlegg
+05/01/2022
+Under arbeid
+1
+4
+4
+Utslipp til Luft
+Malingfjerner,
+lakkfjerner
+Inhalering av skadelig stoff/ allergi / manglende
+hensyn til opplysninger om oppbevaring og
+avhending i Sikkerhetsdatablad  (ECO online)
+Ja dersom feil oppbevaring
+Ja, se beskrivelse på produkt
+Ikke aktuelt
+Ja.  Risikoanalyser
+personskade i HMS
+Inneholder ofte løsemidler.
+Ikke tatt hensyn til faremerking.
+Verksted-kjemikalier brukes en
+gang i mellom og det blir ikke
+tatt nok hensyn til
+faremomenter ved avhending.
+Stoffkartotek med
+sikkerhetsdatablad (Ecoonline),
+som har avsnitt om hvordan
+kjemikalier skal avhendes. Ansatte
+har personlig verneutstyr, og blir
+årlig kurset i hvor og når
+verneutstyr skal anvendes.
+2
+4
+8
+Gjennomgå registrering i eco-online, er alt
+registrert? Sjekk at rester samles i egnede
+oppbevaringsbokser, at det ikke er lekkasjer
+og avdunsting inn i arbeidslokaler. Lever inn
+rester som ikke skal brukes.
+normal
+VO /
+kjemikalieadmin i
+eco online på
+anlegg
+05/01/2022
+Under arbeid
+1
+4
+4
+Utslipp til Luft
+Tonerkassetter
+Allergi/ helseproblem
+Nei
+Manglende kunnskap
+Nei
+Ja, dersom feil oppbevaring
+Uforsiktig håndtering, får toner
+på hud / slimhinner
+Utbrukte kassetter skal håndteres
+forsiktig og legges i lukket
+boks/eske.
+1
+3
+3
+0
+0
+0
+Utslipp til Luft
+Lim, tettningsmasser
+Allergi/ helseproblem
+Nei
+Ja, se beskrivelse på produkt
+Ja.  Risikoanalyser fiskevelferd Ja, dersom feil oppbevaring
+Feil bruk / ikke tatt hensyn til /
+overser faremomenter
+Stoffkartotek med
+sikkerhetsdatablad (Ecoonline), -
+avsnitt om oppbevaring og
+avhending. Ansatte anvender
+verneutstyr.
+2
+2
+4
+0
+0
+0
+Utslipp til vann
+Levering
+Rømming/utslipp av fisk
+Påvirkning av villfisk
+Nei
+Ja.  Risikoanalyser fiskevelferd Nei
+hull i slange
+Strømpe på slange, Doble
+slangeklemmer på alle
+slangekoblinger. samt rutine for
+sjekk av utstyr. Slanger byttes ved
+behov. Sertifiserte slanger.
+1
+5
+5
+Gå gjennom prosedyre og legge inn at
+strømpe sjekkes teknisk på ukeskjema
+Aquacom??
+Normal
+05/01/2022 Under arbeid
+1
+5
+5
+Utslipp til vann
+Avløpsvann
+Avløpsvann, biologisk forurensning (fôrspill og
+feces)
+Påvirkning av villfisk/ miljø i
+grunn ved utløpsrør.
+Nei
+Nei
+Nei
+Dårlig kontroll på
+fôringsmengde,
+Fokus på mengde fôr brukt. Ikke
+over tilatt biomasse i anlegg.
+1
+4
+4
+0
+0
+0
+Utslipp til Jord/vann
+Oppbevaring Diesel til
+aggregater, og Truck
+Lekkasje/søl dieseltank
+Ja dersom feil oppbevaring
+Ja, se beskrivelse på produkt
+nei
+ja
+Utilsiktet brudd på embalasje.
+Uvøren bruk /påfylling.
+Oppbevares adskilt fra
+gjennomgang-/arbeidsområder.
+1
+5
+5
+0
+0
+0
+Utslipp til vann
+Spredning av sykdom til
+villfisk
+Spredning av sykdom
+Ja
+Ja.
+Ja
+Nei
+Manglende kontroll på
+vannbehandling. Manglende
+tilsyn med fisk.
+Vannbehandlingsutstyr
+kontrolleres daglig. Fisk tilses
+daglig, og man er oppmerksom på
+evt. sykdomstegn ved fokus på
+fikevelferd og rapporteringsplikt
+ved økt dødelighet over gitte
+verdier. Ved evt. påvist sykdom,
+startes medikamentell behandling,
+eller fisk destrueres ifht. prosedyre,
+dersom sykdom ikke kan
+behandles.
+1
+5
+5
+0
+0
+0
+Utslipp til Jord/vann
+Oppbevaring av Syre til
+Ensilasje
+Lekkasje syretank
+Ja
+Nei, syre står utenfor bygg og
+produksjon.
+Ja, ved stort utslipp kan det
+skade villfisk/vill fauna i sjø
+Ja
+Manglende kontroll på
+koblinger. Øvøren bruk.
+Manglende verneutstyr ved
+håndtering.
+Oppbevares i egnet tank. Fysisk
+avsperrret for uvedkommende.
+Dedikert person som ser til at
+koblinger og bruk er korrekt.
+Verneutsyr er tilgjengelig.
+Personell er informert om korrekt
+bruk av verneutstyr i fbm.
+Syrehåndtering.
+1
+5
+5
+Bør ha eget "hus" til oppbevaring av egnet
+verneutsyt ifbm. Syre/ensilasje
+Normal
+02/01/2022
+0
+0
+0
+Utslipp til jord
+Oppbevaring av farlig
+avfall
+Manglende levering av farlig avfall
+Ja
+nei
+nei
+nei
+Opphopnig av farlig avfall.
+Uønsket lekkasje av farlig
+avfall.
+Rester av farlig avfall oppbevares i
+lukket konteiner. Årlig levering av
+farlig avfall.
+1
+3
+3
+0
+0
+0
+Utslipp til jord
+Oppbevaring av avfall
+Manglende sortering av avfall
+Ja
+nei
+nei
+nei
+Manglende kildesortering.
+Uorganisert
+Har sorteringsrutiner, med
+dedikerte konteinere til forskjellige
+avfallsgrupper. Avtale med Norsk
+Gjenvinnig.
+1
+3
+3
+0
+0
+0
+Utslipp til Jord/vann
+Oppbevaring av farlige
+kjemikalier
+Lekkasje av konsentrert såpe og andre kjemikalier.
+Ja
+Ja
+Ja
+Ja
+feil oppbevaring. Feil
+utdosering/utvanning/ feil bruk
+Oppbevares i egnede dunker. Små
+mengder hentes ut til haller.
+Dunktipp anvendes for å forenkle
+tømming. Store kvanta oppbevares
+i godkjent kjemikaliekonteiner med
+oppsamlerbunn. Låst for
+uvedkommende.
+1
+4
+4
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+Farer ytre miljø: Rømming, Påvirkning av resipient/ bunn
+på grunn av forhøyede utslipp, forhøyet forfaktor, Utilsiktet
+utslipp av kjemikalier, Støy, Farlig avfall på avveie, smitte,
+giftige gasser, Støv, Lukt, Uforholdsmessig høyt
+energiforbruk,
+Krav til oppdatering: Risikoanalysen
+skal oppdateres når det skjer
+vesentlige endringer i bygninger,
+utstyr, arbeidsmetoder etc., og ha en
+fullstendig gjennomgang minst en
+gang/ 2 ganger hvert år.
+Konsekvens
+Ufarlig
+En viss fare
+Farlig
+Kritisk
+Katastrofal
+Fargeforklaring
+1
+2
+3
+4
+5
+Sannsynlighet
+Svært
+Sannsynlig
+5
+5
+10
+15
+20
+25
+20-25
+Katastrofalt
+Meget
+Sannsynlig
+4
+4
+8
+12
+16
+20
+15-19
+Kritisk
+Sannsynlig
+3
+3
+6
+9
+12
+15
+10-14
+Farlig
+Mindre
+sannsynlig
+2
+2
+4
+6
+8
+10
+5-9
+En viss fare
+Lite sannsynlig
+1
+1
+2
+3
+4
+5
+1-4
+Ufarlig
+Konsekvensbeskrivelse for de ulike hovedområder
+1
+2
+3
+4
+5
+Fiskevelferd
+Ingen fiskedød, skade
+Ubetydelige fiskedød,
+skade ( skjellrisp eks)
+Fiskedød, skade som
+krever tiltak
+ Fiskdød over grense
+Massiv fiskedød
+Sykdom
+Avgrenset, symptomer,
+kan behandles
+Lett å avgrense, noe
+dødelighet, kan
+behandles
+Smitter lett, dødelighet,
+kan behandles
+Stor dødelighet, kan ikke
+behanles
+Massedød
+YtreMiljø
+Ingen miljøskade
+Ubetydelige miljøskader
+Miljøskader som krever
+tiltak
+Langvarig eller
+omfattende miljøskade
+Varig miljøskade
+Ytre Miljø
+Rømming
+Fisk ut av kar/rør, ikke
+bygning
+ Fisk ut av bygning, når
+ikke sjø/elv
+Enkelfisk når sjø/elv
+ Flere fisk når sjø/elv.
+Store mengder fisk når
+sjø/elv.
+HMS
+Ingen/små personskader Mindre førstehjelpstiltak /
+behandling
+Sykehusopphold
+Langt sykehusopphold /
+invalid / kan resultere i
+død
+Kan resultere i flere
+døde
+Dato sist revidert: 17.02.22
+Revidert av: Eileen og Alf
+Info:  Ved hver revisjon skal det lages kopi av den gamle versjonen før endring og legges i egen folder i IQS
+Identifisering av uønsket hendelse
+Foreløpig Risikovurdering
+Tiltak for å fjerne årsak, eller redusere sannsynlighet og konsekvens
+Risikovurdering etter tiltak fra Avvik
+Handlingsplan
+Hovedkategori
+Hva kan gå galt
+Konsekvens
+Potensiell Årsak
+Sannsynlighet
+Konsekvens
+Risiko
+Kommentar
+ (Valgfri)
+Tiltak tilstede
+Sannsynlighet
+Konsekvens
+Risiko
+ Risiko 6 eller mer i foreløbig risikovurdering gir
+avvik hvis ikke tiltak er tilstede. Avvik behandles i
+Simployer
+Strømstans
+Fasefeil,spenningsfall
+under garantert nivå.
+Bortfall av nettspenning
+over lang tid
+Anlegg går over på
+generator drift som
+har begrenset tid på
+diesel tank og stopper
+Anlegg stopper
+Nettleverandør klarer
+ikke å få på spenning
+på kort tid.
+For lite diesel på tank.
+Spenningsfall.
+Feil programmering av
+omformere
+2
+5
+10
+Vakt personell rykker ut ved alarm og påser at anlegget går på
+generator drift til nettspenning er tilbake.
+Generator diesel tank skal være på ukentlig sjekk liste og reserve
+kanner med diesel skal være tilgjengelig.
+Black out test sist gjort Oktober 20.
+Ved ytterligere behov for diesel kan lokale fiskebåter supplere diesel.
+Begge inntakspumper starter automatisk når strøm er tilbake
+Prosedyrer for pumpe drift
+Delvis
+1
+5
+5
+Avvik:
+- Prosedyre for oppstart av trykk økningspumper og
+oxygen pumper (manuell og auto)
+Strømstans
+Aggregat starter ikke
+ved bortfall av
+nettspenning
+Ingen pumper vil
+starte og anlegg får
+ikke friskt vann
+Teknisk feil på
+generator.
+Feil med batterier.
+Tett diesel filter
+Generator feil satt opp
+3
+5
+15
+Vakt personell rykker ut ved alarm og sjekk innstilling på aggregat.
+Ukentlig test kjøring av aggregat i vedlikeholdssystem
+ Service punkt samt auto indikator sjekkes ukentlig i vedlikehold
+system
+Service avtale på aggregat
+Prosedyre aggregat
+Delvis
+1
+5
+5
+Avvik:
+- Hente inn priser på service avtale
+- Prosedyre på drift av aggregat må lages (manuell og
+auto)
+- Sjekkliste for generator må lages i Aquacom
+Strømstans
+Lynnedslag med
+påfølgende strømbrudd
+og generatorer starter
+ikke
+Ingen pumper vil
+starte og anlegg får
+ikke friskt vann
+Naturlig
+1
+5
+5
+Lynedslag må inkluderes i beredskapsplan for strømbrudd der vi kan få
+hjelp til ekstern generator oppkobling
+Delvis
+1
+4
+4
+Avvik:
+Vi må inkludere lynnedslag i beredskapsplan.
+Beredskapsplan må oppdateres med vakt detaljer,
+elektriker samt generell gjennomgåing.
+Må kontakte elektriker og sjekke opp hvordan nød
+aggregat kan fås tak i og kobles opp fortest mulig.
+Brann
+Brann alarm ringer ikke
+ut
+Anlegg total havarerer Feil på brann sentral,
+Feil på utringer system
+Soner lagt ut ifb med
+arbeid
+2
+5
+10
+Årlig service av brann sentral.
+Brannøvelser 1 gang i året
+Har 2 system som sender ut brann alarm. Det ene går til brannvesen
+og det andre går til teknisk/vakt.
+Delvis
+1
+5
+5
+Avvik:
+Må legge in brann alarm i Sterner system. Er pr i dag kun
+til brannvesen/huseier.
+Brannøvelser ikke holdt
+Huseier må ta årlig sjekk av sentral
+Må legge inn i aquacom at det sjekkes for feilmeldinger
+på brann sentral ukentlig.
+Oppdater brann beredskap med huseier og vakt tlf
+Brann
+Brann i aggregatet
+Dersom det brenner i
+aggregat vil anlegget
+miste sin alternative
+strømkilde og har da
+ikke beskyttelse mot
+bortfall av
+nettspenning som
+igjen stopper pumper.
+Gnister fra batteri eller
+startmotor slår over til
+brennbart materiale.
+Varmgang ledninger
+2
+5
+10
+Aggregat står i egen kontainer ute på området.
+Området holdes fritt for brennbart materiale
+Batteri poler og aggregat sjekkes ukentlig i vedlikeholdssystem
+Prosedyre drift aggregat
+Opplæring og prosedyrer
+Delvis
+1
+5
+5
+Avvik:
+Vakt  og teknisk må få opplæring på aggregat og ha FSE
+kurs.
+Prosedyre for drift av aggregat må lages
+Brann
+Brann i enkelt
+komponenter
+Enkelt komponenter
+stopper og kan gi
+mindre kapasitet enn
+anlegget trenger
+Varmgang i kontakter,
+kortslutning
+3
+3
+9
+Kontakter over 16 ampere sjekkes hver 6 mnd for løse koblinger
+Nei
+1
+3
+3
+Avvik må opprettes.
+Legges inn i aquacom at alle kontakter over 16A skal
+sjekkes hver 6 mnd for løse kontakt punkt.
+Brann
+Brann i bygg
+Bygg brenner og
+anlegg stopper
+Lynnedslag,kortslutning
+, varme arbeid,
+kjemikalier tar fyr,
+oksygentank tar fyr
+1
+5
+5
+Kurst i varme arbeider,gass, brannslokkings kurs.
+Årlig el kontroll av anlegg samt termografi
+Fylling av gass gjøres sikkert av gass leverandør
+FSE kurs
+Delvis
+1
+4
+4
+Avvik:
+FSE kursing av personell samt el kontroll
+Årlig el kontroll må opprettes
+Teknisk utstyr
+UPS stopper
+UPS kan ikke gi
+strøm til UV ved feil
+og UV vil da stoppe
+og ikke kunne
+behandle vann inn i
+anlegget som kan gi
+sykdom på fisk
+Kortslutning, feil på
+batteri, overoppheting,
+4
+3
+12
+Årlig service av UPS
+Årlig el kontroll
+Daglig sjekk av UPS status og temperatur
+UPS må stå i regulert temperatur
+Alarm mot sterner system
+Delvis
+1
+3
+3
+Avvik må opprettes.
+Daglig sjekk av UPS må inn i Aquacom
+Årlig el kontroll
+Teknisk utstyr
+Uv stopper.
+Ubehandlet vann
+kommer inn i anlegget
+som kan gi sykdom
+på fisk
+UPS feil, feil internt på
+UV system, pumpefeil
+4
+3
+12
+Årlig service av UPS
+Ny UPS 2019
+Årlig service av pumper
+Årlig service av UV
+Daglig sjekk av UV
+Service punkt i Aquacom
+Prosedyrer
+Delvis
+2
+2
+4
+Avvik:
+Temp sensor bør innstalleres på UV 1 og 2
+Prosedyre drift av UV må lages
+Teknisk utstyr
+UV går ikke ved
+oppstart av pumper
+Ubehandlet vann
+kommer inn i anlegget
+som kan gi sykdom
+på fisk
+Feil oppstart prosedyre,
+stress der personell
+gjør feil
+3
+5
+15
+Prosedyrer for start ,stopp og drift av UV
+Personell må ha kjennskap til prosedyrer
+Delvis
+1
+5
+5
+Avvik må opprettes.
+Prosedyrer må oppdateres og instrueres  til personell
+Teknisk utstyr
+PLS kræsjer/feiler.
+Styring til pumper
+svikter og pumper
+stopper
+Teknisk feil på PLS,
+UPS feil
+2
+5
+10
+Styres pumper via sensorikk eller sterner
+Nei
+1
+5
+5
+Avvik må opprettes:
+Det må bekreftes hva som skjer hvis PLS feiler eller
+stopper med pumper og alarmer.
+Prosedyre manuell drift pumper
+Teknisk utstyr
+Foringssystem overforer
+på karnivå
+Vann blir skittent og
+uklart, dårlig for fisk
+Feil instilling på system,
+elektrisk feil
+4
+2
+8
+Funksjons test gjøres daglig.
+Ja
+2
+1
+2
+Teknisk utstyr
+Pumpe(r) stopper
+Det vil komme mindre
+eller ingen vann inn i
+anlegg som vil gi
+dårligere vannkvalitet
+eller vann stopp
+Mekanisk feil på
+pumpe, elektronisk feil
+på omformer eller
+sensorikk/program feil
+4
+4
+16
+Årlig service intervall av pumper.
+Vi har flere pumper så om en pumpe faller fra har vi back up som vil gi
+nok vann.
+Alarm vil gå og vakt personell rykker ut.
+Manuell kjøring av omformere ved sensor og program feil
+Veksle mellom pumper som ikke går ukentlig
+Delvis
+2
+2
+4
+Avvik må opprettes.
+- Prosedyrer for inntak og trykk pumper må oppdateres
+og informeres videre.
+- Sjekk om pumpestans beredskap er korrekt.
+Teknisk utstyr
+Støv, salt,temp
+regulering i elektronikk
+tavlerom
+Utstyr kan feile pga
+støv,temperatur, salt
+Kutte arbeid, støvfullt
+rom, filter går tett, temp
+for høy
+3
+5
+15
+Varme arbeid skal gjøres i kontrollerte former. SJA
+Årlig elkontroll
+Temp regulering (varmepumpe i blå kontainer)
+Nei
+1
+4
+4
+Avvik må opprettes:
+Filter på omformere må inn i Aquacom
+Varmepumpe må kjøpes til container
+Årlig el kontroll
+Teknisk utstyr
+Feil med sjøvannsfilter
+Større partikler vil gå
+gjennom UV som kan
+gi dårligere UV
+behandling.
+Filter kan gå tett og
+stoppe vann flow
+Filter kan feile elektrisk
+eller mekanisk.
+Korg kan revne
+3
+3
+9
+Vedlikeholdsrutiner i Aquacom
+Alarm system fanger opp feil
+Delvis
+1
+2
+2
+Sjekk vedlikeholdspunkt og legge i aquacom det som er
+nytt
+Eksterne arbeidere
+Ved planlagt arbeid i
+tavler som medfører
+fullstendig stans av
+strøm kan arbeidet
+medføre blackout pga
+mennesklig feil
+Anlegg stopper
+Arbeid blir ikke utført i
+henhold til prosedyrer
+og risiko vurderinger
+2
+5
+10
+Ekstern arbeider skal risiko analysere arbeidet og lage prosedyre på
+det slik at arbeidet kan gjennomføres sikkert. Det kan og være behov
+for ekstern generator som backup.
+Ja
+2
+2
+4
+Når slikt arbeid skal bestilles så skal det gjøres av fag
+personell og risikovurderes.
+Prosedyrer
+Teknisk utstyr blir operert
+feil
+Hvis man ikke har en
+fremgangsmåte på
+hvordan teknisk utstyr
+skal opereres kan det
+medføre skade på
+utstyr,personell eller
+fisk
+Dårlige eller manglende
+prosedyrer.
+Holdninger til personell
+opplæring.
+Tidspress og stressende
+situasjoner
+4
+4
+16
+Prosedyrer for teknisk utstyr må oppdateres og lages nye der det
+mangler.
+Personell må lese og forstå prosedyrer
+Kursing og drilling, revidering av prosedyrer.
+Delvis
+2
+2
+4
+Avvik må opprettes.
+- Oppdatere UV prosedyrer
+- Oppdatere aggregat prosedyrer
+- Lage/oppdatere prosedyre for drift av pumper (auto og
+manuell)
+- UPS bypass prosedyre må lages
+- Simulere feil på ustyr med elektriker tilstede
+- Prosedyre på O2 sensorer inkl kalibrering må lages
+Beredskapsplaner
+Ved en krisesituasjon kan
+arbeidsoppgaver eller
+varslinger bli gjort feil
+Utstyr kan bli operert
+feil, feil personer eller
+ingen kan bli varslet,
+anlegg stopper,fisk dør
+Ikke oppdaterte
+beredskapsplaner og
+prosedyrer.
+Holdninger til personell
+3
+5
+15
+Oppdatere og lage beredskapsplaner og prosedyrer som mangler
+Personell trenger opplæring og forståelse i prosedyrer og
+beredskapsplaner
+Delvis
+2
+2
+4
+Avvik må opprettes.
+- Beredskapsplan for strømstans må oppdateres
+- Beredskapsplan for pumpestans må lages
+- Beredskapsplan for brann må oppdateres
+- Vurdere kursing på alt personell med ansvar for vakt og
+teknisk
+- Vaktkompetanse bør gjennomgås.
+- Telefonliste beredskap gjennomgås.
+Innbrudd
+Uvedkommende kommer
+seg inn i bygg,
+vannbehandling og gjør
+skade på utstyr,
+manipulerer innstillinger,
+skrur på ventiler
+Anlegget kan stoppes
+via program,
+oksygentank kan
+manipuleres, hærverk,
+tyveri, skade på person
+Ulåst dør der folk tar seg
+inn uten tilsyn
+Innbrudd
+2
+5
+10
+Kveldsrunde som sjekker dører hver dag
+Hengelås på kontainer
+Kodelås på bygg
+Satt opp barriærer rundt O2 tank
+CCTV system over uteområder og haller
+Delvis
+2
+2
+4
+Avvik:
+- Vurdere alarm system
+- CCTV system, hva må gjøres for å få på alarm på
+bevegelse?
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Risikomatrise Teknisk Svikt Ryfylke Rensefisk AS
+Sannsynlighet
+5. Svært ofte (10 ganger eller mer pr år)
+5
+10
+15
+20
+25
+20-25
+Katastrofalt
+4. Ofte (en gang eller oftere pr år)
+4
+8
+12
+16
+20
+15-19
+Kritisk
+3. Sjelden (en gang pr 2 år)
+3
+6
+9
+12
+15
+10-14
+Farlig
+2. Svært sjelden (en gang pr 5 år)
+2
+4
+6
+8
+10
+5-9
+En viss fare
+1. Ekstremt sjelden (sjeldnere enn 5 år)
+1
+2
+3
+4
+5
+1-4
+Ufarlig
+1. Ufarlig.
+Anlegget går
+automatisk
+over i videre
+drift og
+2. En viss
+fare. Anlegg
+stopper,
+teknisk utstyr
+svikter og
+3. Farlig.
+Anlegg
+stopper,tekni
+sk utstyr
+svikter og
+4. Kritisk.
+Anlegg
+stopper,
+teknisk ustyr
+svikter og
+5.
+Katastrofalt.
+Anlegg
+stopper,
+teknisk utstyr
+Konsekvens
+IQS: Prosjekt-
+>Risikovurderinger"
+Risikoanalyse Rengjøring/ Nedvask/ Desinfeksjon
+Rensefiskgruppen avd: Alle anlegg i Rensefiskgruppen AS
+Opprettet/påbegynt dato:
+Utførelse: Risiko beregnes som sannsynlighet x konsekvens. Bruk tilhørende risikomatrise, vurder verdi for sannsynlighet og konsekvens (1-
+5) og sett inn i tabellen (S1, K1), og risiko beregnes automatisk. Risiko på rødt krever at tiltak må prioriteres, og håndteres raskt.
+Sist revidert dato: 02/17/2022
+Til stede ved siste Revisjon: Eileen Kristiansen, Alf Markus R.
+Samuelsen
+Risikokartlegging
+Handlingsplan
+Risiko etter tiltak
+                                                                                                                 Farekartlegging og risikoreduserende tiltak
+Kalkulering av Risiko
+Kalkulering
+Evaluering, dato  
+Metode
+Mer om metode
+Mulig uønsket
+hendelse
+Fare for anlegg
+Fare for Helse eller
+Sikkerhet,
+mennesker
+Fare for
+det ytre
+Miljøet
+Miljø
+Fare for
+Fiskevelferd
+ Årsaker
+Risikoreduserende tiltak
+som det er tatt hensyn til i
+analysen
+S1
+sannsyn
+lighet
+K1
+konse
+kvens
+R1
+risi
+ko
+Forslag til nye tiltak
+Prioritet
+Ansvarlig for
+gjennomføri
+ng
+Frist
+Status
+S2        sannsyn
+lighet
+K2    konse
+kvens
+R2       risi
+ko
+risiko
+akseptabel->
+avsluttet
+risiko ikke
+akseptabel, -
+> nye tiltak
+Ozonering
+Ozon til luft, desinfeksjon av
+luft og overflater.
+Ozongeneratoren produserer
+O3 som frigjøres til lufta. 
+Metode: "sjokkozonering", å
+oppnå farlig høy dose av ozon
+og la dette virke i avgrenset tid.
+Ozon tilføres i
+luft / arbeids-
+atmosfære der
+det er personer
+som ikke kjenner
+de nødvendige
+forholdsregler.
+Ikke i særlig grad ved
+kort tids bruk til
+sjokkozonering. Ozon
+er sterkt oksyderende,
+og kan morkne
+naturgummi og
+nitrilgummi. Ved bruk
+til
+rengjøring/desinfeksjo
+n vil det ikke føre til
+økt korrosjon på annet
+materiell, pga den
+relativt korte tiden for
+eksponering.
+Ja. Ozon er
+helseskadelig (giftig),
+svært reaktivt og sterkt
+oksyderende! Reagerer
+med biologisk vev og
+kan føre til redusert
+lunge-funksjon,
+overfølsomhet i
+luftveiene,
+betennelseslignende
+reaksjoner i luftveiene
+(hoste, brystsmerter,
+økt slimproduksjon,
+ødem etc.)
+Nei Ikke ved
+bruk som
+beskrevet.
+Inne i haller,
+og i
+begrenset
+tid.
+Nei
+Nei. Ozonering
+vil normalt
+utføres i haller
+som er tomme
+for fisk. Dersom
+det står kar med
+fisk i vann i
+hallen vil ozonet
+reagere i lufta
+og på overflater
+og ikke løse seg
+inn i vannet i
+særlig grad.
+Årsak til
+manglende
+forholdsregler
+kan være
+manglende
+skilting ved
+ozonering,
+mangel på
+kunnskap hos de
+som utfører
+ozonering,
+manglende
+informasjon til
+øvrig personell
+Forebyggende tiltak:
+Ozongenerator skal kun brukes
+av personer som kjenner de
+nødvendige forholdsregler.
+Følge bruksanvisning fra
+leverandør. Gjennomføre en
+Sikker Jobb-Analyse (SJA) før
+bruk, repetere faremomenter.
+Bruke anbefalt verneutstyr.
+Henge opp skilt når Ozonering
+pågår. Det skal ikke pågå annet
+arbeid i områder der det utføres
+ozon-behandling. Opplæring
+skal gis, og signeres for.
+1
+5
+5
+1
+5
+5
+Ozonering
+Ozon til luft, desinfeksjon av
+luft og overflater. Som
+ovenforstående
+For lav
+produksjon av
+ozon/ for lav
+konsentrasjon i
+luft
+Mindre korrosjonsfare
+All økt konsentrasjon av
+ozon i
+arbeidsatmosføren er
+uønsket, dersom man
+ikke er forberedt.
+Samme forholdsregler
+som optimal
+konsentrasjon av Ozon
+i luft.
+Nei Ikke ved
+bruk som
+beskrevet.
+Inne i haller,
+og i
+begrenset
+tid.
+Nei
+Mindre effektiv
+desinfeksjon av
+overflater, økt
+fare for
+oppbygging av
+reservoarer av
+smitte
+For lav
+produksjon kan
+skyldes defekt
+generator, eller
+feil innstilling
+Ang HMS: Følge
+bruksanvisning fra leverandør,
+sjekkliste og bruke verneutstyr
+som ved normal ozonering. Ang
+fiskevelferd/ effekt av
+ozonering: Følger
+bruksanvisning og sjekker for
+anbefalte verdier av Ozon for å
+oppnå ønsket desinfeksjon
+1
+3
+3
+0
+Ozonvask
+Ozonering av vann, (som
+høytrykkspyling), ferskvann.
+Det skal normalt ikke komme
+ozon ut i luft ved tilsetting i
+vann.
+Lekkasje, Ozon
+kommer ut i
+arbeidsatmosfør
+e
+Korrosjon av
+materialer ved jevnlig
+bruk,
+ Ozon løst i vann er
+ikke fare for hud. Fare
+ved sprut i øyet.
+Nei Ikke ved
+bruk som
+beskrevet.
+Inne i haller,
+og i
+begrenset
+tid.
+Nei
+Nei
+Lekkasje på
+generatore,
+koblinger og
+slanger sprekker
+Ang HMS: Følge
+bruksanvisning fra leverandør,
+sjekkliste og bruke verneutstyr
+som ved normal ozonering. Ang
+fiskevelferd/ effekt av
+ozonering: Følger
+bruksanvisning og sjekker for
+anbefalte verdier av Ozon for å
+oppnå ønsket desinfeksjon.
+Godkjent Verneutstyr anvendes.
+Minimalt/kun ytterst nødvendig
+opphold i lokale som behandles.
+Prosedyre følges. Opplæring.
+SJA før bruk. Kontroll av utstyr
+FØR igangsetting.
+1
+5
+5
+0
+Ozonering
+Oppkobling av maskin
+Oppkobling skjer
+ikke i rett
+rekkefølge.
+Lekkasje på
+maskin/
+overganger til
+slange. Står
+maskinen inne
+får du ozonert
+luft i rommet ved
+lekkasje
+Korrosjon av
+materialer ved jevnlig
+bruk,
+Ozon i luft og skade på
+luftveiier/lunge/vev
+Nei Ikke ved
+bruk som
+beskrevet.
+Inne i haller,
+og i
+begrenset
+tid.
+Nei
+Nei
+Dårlig opplæring.
+Uobservant.
+Følg anvisning på
+montering/oppstart. Prosedyre
+føges. Sjekk maskinen for
+lekkasje før den tas i bruk. Kjør
+da igjennom med KUN
+ferskvann. Ha maskinen
+stående ute/God utlufting
+1
+5
+5
+2
+3
+6
+Ozonering
+Oppkobling av maskin
+Oppkobling skjer
+ikke i rett
+rekkefølge.
+Lekkasje på
+maskin/
+overganger til
+slange. Står
+maskinen inne
+får du ozonert
+luft i rommet ved
+lekkasje
+Ozon i luft og skade
+på luftveiier/lunge/vev
+Ozon i luft og skade på
+luftveiier/lunge/vev
+Nei Ikke ved
+bruk som
+beskrevet.
+Inne i haller,
+og i
+begrenset
+tid.
+Nei
+Nei
+Dårlig opplæring.
+Uobservant.
+Følg anvisning på
+montering/oppstart. Prosedyre
+føges. Det må heges opp skilt
+"Ozonering pågår", SRJA skal
+fylles ut. Ansatte skal være
+informert. Følg punkt til punkt
+listen. Sjekk maskinen for
+lekkasje før den tas i bruk. Kjør
+da igjennom med KUN
+ferskvann. Ha maskinen
+stående ute/God utlufting
+1
+5
+5
+2
+2
+4
+Ozonering
+Nedkobling av maskin
+Nedkobling skjer
+ikke i rett
+rekkefølge
+Ozon i luft og skade
+på luftveiier/lunge/vev
+Ozon i luft og skade på
+luftveiier/lunge/vev
+Nei Ikke ved
+bruk som
+beskrevet.
+Inne i haller,
+og i
+begrenset
+tid.
+Nei
+Nei
+Dårlig opplæring.
+Uobservant.
+Slå av ozon på maskin, la KUN
+ferskvann renne igjennom
+maskin i min 5 min slik at alle
+slangene er tomme for ozon.
+Mål ozon i bøtte med vann for å
+være sikre på at det ikke er noe
+ozon igjen i slangene. Slå av
+ferskvann, slå av maskinen.
+Koble ferskvann fra. Pakke
+sammen maskinen.
+1
+5
+5
+2
+2
+4
+Ozonering
+Lekkasje på slange
+Ozon i luft,
+ozonert vann i
+rom. Lekkasje i
+annen avdeling
+Ozon i luft og skade
+på luftveiier/lunge/vev
+Ozon i luft og skade på
+luftveiier/lunge/vev
+Nei Ikke ved
+bruk som
+beskrevet.
+Inne i haller,
+og i
+begrenset
+tid.
+Nei
+Nei
+Dårlig opplæring.
+Uobservant.
+Bruk godkjent verneutstyr som
+helmaske med godkjent filter og
+hansker. Maskinen skal sjekkes
+for lekkasje før bruk, samt det
+skal følges med underveis.
+1
+5
+5
+2
+2
+4
+SIP (Sirkulerende,
+lukket)
+Brukes på varmeanlegg
+0
+0
+0
+0
+0
+0
+Syrevask
+Vask av UV kammer
+Søl/sprut med
+syreløsning
+Korrosjon i betong om
+syre blir liggende
+Ja.Etsende.
+Ja. Renner i
+gulvsluk, ut i
+avløp
+Ja
+Ja, villfisk
+Slanger/kobling
+hopper av.Brudd
+i slanger
+Slanger/koblinger etterses før
+start av vask. Prosedyre følges.
+Syrevask av UV varsles andre
+ansatte ved at det henges opp
+et skilt at syrevask pågår.
+Godkjent verneutstyr er
+tilgjengelig og skal brukes.
+1
+4
+4
+0
+0
+0
+Syrevask
+Utspyling av syrerester etter
+vask av UV kammer
+Ikke spylt ut
+syreløsning etter
+vasking.
+Nei
+Nei
+Nei
+Nei
+Ja
+Ikke fulgt
+prosedyre. Dårlig
+opplæring.
+Prosedyre følges. Opplæring
+skal skje sammen med erfaren
+ansatt før bruk. Godkjent
+verneutstyr er tilgjengelig og
+skal brukes.
+1
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Krav til oppdatering: Risikoanalysen skal oppdateres når det skjer vesentlige endringer i bygninger, utstyr,
+arbeidsmetoder etc., og ha en fullstendig gjennomgang minst en gang/ 2 ganger hvert år.

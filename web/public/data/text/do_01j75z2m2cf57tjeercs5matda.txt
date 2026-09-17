@@ -1,0 +1,3378 @@
+﻿Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 1 av 30 
+     R A P P O R T  for  S T R Ø M M Å L I N G 
+ 
+ 
+ 
+Fishguard Florø 
+Strandgaten 15, 6905 Florø.   
+ 
+Epost: floro@fishguard.no 
+Mobil: 975 65 504 
+ 
+ 
+ 
+                                                         www.fishguard.no 
+ 
+ 
+ 
+Oppdragsgiver & Lokalitet:          
+Oppdragsgiver 
+: Atlantic Cod Farms AS / Statt Torsk AS  
+Lokalitet 
+: Rekevika 
+Kommune 
+: Selje 
+ 
+Fylke 
+: Sogn og Fjordane 
+Målepunkt (GPS) : 620 04’ 993 N - 0050 24’ 583 E 
+Målinger 
+: Overflatestrøm, utskiftingsstrøm, spredningsstrøm og bunnstrøm. 
+Rapport versjon 
+: 18.07.2019 
+ 
+Prosjekt nr. 
+: 2509-07 & 1347-18 
+ 
+Strømmålinger: 
+Strøm ved 5 m, 15 m og 50 m dyp er målt av Fjord-Lab AS (JAH) med 3 stk SD 6000 
+med 10 min. måleintervall i en sammenhengende periode på 28 døgn i okt./nov. 2007.  
+Strøm ved 105 m dyp (bunnstrøm) er målt av Fishguard Florø (JAH) med AQD 300M 
+med 10 min. måleintervall i en sammenhengende periode på 33 døgn i okt./nov. 2018. 
+Kvalitetssikring i hht. NS 9415 5.12.1.1, 2 og 3 
+Strømmåling, hardware & -software er kvalitetssiket. Alle instrument var teknisk 
+funksjonelle ved opptak, uten groe på rotor. Instrumentlogg: ok. Alle målinger er 
+benyttet slik de framkom ved avlesing, dvs. uten korreksjoner. God datakvalitet, uten 
+påvisbare feil. Alle rådata er oppbevart ved Fishguard Florø. 
+ 
+ 
+ 
+Fishguard Florø 
+ 
+ 
+Jan Arne Holm 
+Cand.real 
+ 
+ 
+ 
+Innhold:  
+Resultat fra alle måledyp, statistisk behandlede rådata, grafiske figurer, tabeller.
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 2 av 30 
+KART 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 1: Skisse av planlagt anlegg på lokalitet Rekevika med strømrigg sentralt forankret [Olex, KH, Selstad].
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 3 av 30 
+RIGGSKISSE 
+Figur 2: Skisse av strømrigg på lokalitet Rekevika: 3 stk SD 6000 målere, okt./nov. 2007 [JAH].  
+ 
+ 
+Figur 3: Skisse av strømrigg på lokalitet Rekevika: 1 stk AQD 300M dopplermåler, okt./nov. 2018 [JAH].
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 4 av 30 
+Tekniske spesifikasjoner - SD 6000 
+SD 6000 er produsert av Sensordata AS og er en rotorbasert, kompakt vektor snittbehandlende 
+strømmåler med minnekapasitet på inntil 6000 kombinerte datasett for registrering av strøm- 
+hastighet, retning og temperatur. 
+ 
+Instrumentet består av to moduler: 
+- en standarisert mekanisk enhet med ror, balansestang, rotor og trykkrør 
+- en spesialisert elektronisk enhet tilpasset den ytre mekaniske enhetens trykkrør. 
+ 
+Instrumentet kan programmeres til å måle og lagre data ved 5 ulike tidsintervall. Med et innstilt 
+måleintervall på 10 min. gir måleren et gjennomsnitt av verdiene for 5 delmålinger, slik at antall 
+rotasjoner over 5 x 2 min. og retning måles på slutten av hver 2 min. periode. Etter 10 minutter  
+beregnes vektorsummen av de 5 delmålingene og temperatur m.m måles. Måleren gir dermed et  
+mål for hvor mye vann som har flyttet seg forbi måleren og regner dette om til en hastighet som  
+kobles til retningen på slutten av hver delperiode (på 2 min. ved 10 min. totalt).  
+ 
+Registrerte data fra instrumentet overføres ikke-galvanisk til PC via instrumentets transparente  
+topplokk, med et 2-veis optisk lesehode i form av ASCII kodet 9600 baud (Bd) ved optiske signal 
+(infrarød kommunikasjon). Start-signalet til instrumentet er magnetisk. Det innebygde displayet  
+på den elektroniske enheten kan leses av bruker gjennom det transparente trykkrøret for infor- 
+masjon om instrumentets funksjoner og operasjonelle status. 
+ 
+ 
+Figur 4 viser oppbygging av den  
+mekaniske enheten.  
+ 
+Måleren er designet til å beskytte 
+den elektroniske enheten, til å  
+stå vertikalt i vannmassene og 
+til enhver tid å peke mot strøm- 
+retningen. Et innebygget kom- 
+pass registrerer kontinuerlig  
+retningen. 
+ 
+ 
+Se brukerveiledning / manual for  
+nærmere instrumentinfo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4: Teknisk skisse av SD 6000 (horisontal balansestang festet i ‘pivot point’ er ikke vist her).
+Rotor
+Magnet
+Magnet switch 
+( reed switch) 
+inside 
+electronic unit
+Pivot 
+Adjustable 
+bearing
+Stainless 
+steel 
+rotor 
+cage
+START
+GO
+Infrared communication 
+with PC 
+Compass
+Vane
+Display
+Magnet
+Transparent  
+pressure tube
+Electronic 
+unit
+Temperature  
+sensor
+Pivot Point
+Lock
+Infrared transmitter 
+and receiver pair
+Transparent top cap
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 5 av 30 
+Tekniske spesifikasjoner – Aquadopp 300M 
+Aquadopp 300M fra Nortek AS er 2 MHz akustisk transduser som er basert på dopplereffekten. 
+Instrumentet sender små lydpakker ut i vannet. Disse forplantes i smale akustiske stråler som  
+blir spredd av små partikler, plankton m.v. som finnes suspendert i vannet. Ekkoet blir registrert  
+av instrumentet og analysert for endring i frekvens (Doppler skiftet), og vannets hastighet blir  
+kalkulert langs hver av de akustiske stråleaksene. Ved å kombinere hastighetene med eksakt  
+stråle geometri, enten i 2D (2 stråler) eller 3D (3 stråler) beregnes hastighet som blir lagret i 
+instrumentets interne minne.  
+ 
+Aquadopp 300m er en punktmåler som har et fast måleområde omkring 30 cm frå instrumentets  
+«hode». Instrumentet inneholder også kompass og klokke, slik at strømhastighet og retning blir  
+registrert i måleperioden. Instrumentet har tilt-sensor, og måler dessuten temperatur og trykk. 
+ 
+Ved hjelp av en særskilt programvare (Aquadopp) blir instrumentet konfigurert og klargjort før  
+utsett, og same programvare benyttes til utlasting av instrumentets registrerte strømhastighet  
+og retning i måleperioden. Ved hjelp av en annen programvare (SeaReport) blir registreringene 
+presentert grafisk i figurer og tabeller. 
+ 
+ 
+Figur 5 viser teknisk skisse av instrumentet og viktigste tekniske data. 
+ 
+Figur 5: Aquadopp 300M (doppler punktmåler): teknisk skisse og spesifikasjoner.
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 6 av 30 
+SPESIFIKASJONS- OG RESULTATOVERSIKT 
+Firma: 
+Atlantic Cod Farms AS / Statt Torsk AS 
+Lokalitet: Rekevika, Selje kommune.  
+ 
+Generelle spesifikasjoner, periode, frekvens og resultater. 
+Tekst 
+Overflatestrøm 
+Utskiftingsstrøm 
+Spredningsstrøm 
+Tidsrom for registreringer 
+23.10.2007 - 20.11.2007 
+23.10.2007 - 20.11.2007 
+23.10.2007 - 20.11.2007 
+Dybde på målestedet (m), ca 
+ca 110 m 
+ca 110 m 
+ca 110 m 
+Dybde for registreringer (m), ca 
+5 m 
+15 m 
+50 m 
+Måler type - nummer 
+SD 6000 – nr 1239 
+SD 6000 – nr 1219 
+SD 6000 – nr 990 
+Type måling 
+Kontinuerlig 
+Kontinuerlig 
+Kontinuerlig 
+Frekvens – varighet*4 
+2 min/10 min - 28 døgn 
+2 min/10 min - 28 døgn 
+2 min/10 min - 28 døgn 
+GPS-posisjon, strømmålerrigg 
+620 04’ 993N - 050 24’ 583E 620 04’ 993N - 050 24’ 583E 620 04’ 993N - 050 24’ 583E 
+% strøm mindre enn 1 cm/sek (ca) 2.0 % 
+1.4 % 
+11.7 % 
+Gjennomsnittsstrøm (cm/sek) 
+3.4 
+2.8 
+2.0 
+Rest strøm 
+0.6 
+0.5 
+0.3 
+Neumanns parameter 
+0.180 
+0.181 
+0.167 
+De 4 hyppigst forekommende  
+retningene strømmen beveger seg 
+mot (grader) *1 
+150, 135, 240, 120 
+150, 135, 120, 165 
+150, 165, 135, 255 
+De 4 hyppigst forekommende 
+strømhastighetene (cm /sek) *1 
+1-3, 3-4, 4-5, 5-6 
+1-3, 3-4, 4-5, 6-8 
+1-3, 0-1, 3-4, 4-5 
+Mest vannutskiftning / retning / 
+15 graders sektor.*2 
+669 2m3 ved 150-165 grader. 
+239 m3/m2/døgn 
+5372 m3 ved 135-150 grader. 
+192 m3/m2/døgn 
+4894 m3 ved 150-165 grader. 
+175 m3/m2/døgn 
+Minst vannutskiftning / retning / 
+15 graders sektor.*2 
+1313 m3 ved 15-30 grader. 
+47 m3/m2/døgn 
+1304 m3 ved 45-60 grader. 
+47 m3/m2/døgn 
+1115 m3 ved 75-90 grader. 
+40 m3/m2/døgn 
+Gjennomsnittlig total vann-
+utskiftning pr.døgn. Alle retninger 2901 m3/døgn 
+2402 m3/døgn 
+1697 m3/døgn 
+Maksimum strøm – signifikant 
+maksimum strøm (cm/sek) *3 
+17.8 - 4.8 
+10.0 - 3.9 
+8.2 - 2.8 
+ 
+*1: gruppert i synkende rekkefølge  
+*2: vann som passerer gjennom hver loddrett plassert kvadratmeter. 
+*3: gjennomsnittet av 1/3 målingene som viser høyest verdi.  
+*4: måleren måler hvert x min, hvert y min. gir måleren et gj.snitt av verdiene for 5 målinger. 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 7 av 30 
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1239
+File name: Rekvi05m.SD6
+Number of measurements in data set: 4028
+CURRENT SPEED
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+11,0
+12,0
+13,0
+14,0
+15,0
+16,0
+17,0
+18,0
+20.Nov
+18.Nov
+16.Nov
+14.Nov
+12.Nov
+10.Nov
+08.Nov
+06.Nov
+04.Nov
+02.Nov
+31.Oct
+29.Oct
+27.Oct
+25.Oct
+Current speed (cm/s)
+Days
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1239
+File name: Rekvi05m.SD6
+Number of measurements in data set: 4028
+CURRENT SPEED BAR CHART
+  
+ 
+0-1
+1-3
+3-4
+4-5
+5-6
+6-8
+8-10
+10-15
+15-25
+25-50
+50-75
+75-100
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50 Percent of measurements
+cm/s
+Overflatestrøm: 5 m dyp 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 8 av 30 
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1239
+File name: Rekvi05m.SD6
+Number of measurements in data set: 4028
+PROGRESSIVE VECTOR
+Neumann parameter: 0.180
+Rest speed: 0.6 cm/s
+Average speed: 3.4 cm/s
+Rest direction: 198 deg.
+  
+ 
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+-10
+-12
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-11
+-12
+-13
+-14
+km N
+km E
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1239
+File name: Rekvi05m.SD6
+Number of measurements in data set: 4028
+CURRENT DIRECTION BAR CHART
+  
+ 
+0
+15
+30
+45
+60
+75
+90 105 120 135 150 165 180 195 210 225 240 255 270 285 300 315 330 345
+0
+1
+2
+3
+4
+5
+6
+7
+8 Percent of measurements
+Deg
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 9 av 30 
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1239
+File name: Rekvi05m.SD6
+Number of measurements in data set: 4028
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+16
+14
+12
+10
+8
+6
+4
+2
+N
+Maximum velocity (cm/s)
+per 15 deg sector
+  
+ 
+ 
+3
+2
+1
+N
+Mean velocity (cm/s)
+per 15 deg sector
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1239
+File name: Rekvi05m.SD6
+Number of measurements in data set: 4028
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+8
+7
+6
+5
+4
+3
+2
+1
+N
+Relative water flux (%)
+per 15 deg sector
+  
+ 
+ 
+250
+200
+150
+100
+50
+N
+Number of measurements
+per 15 deg sector
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 10 av 30 
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1239
+File name: Rekvi05m.SD6
+Number of measurements in data set: 4028
+STICK DIAGRAM
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-20,0
+-10,0
+0,0
+10,0
+20,0
+19.Nov
+16.Nov
+13.Nov
+10.Nov
+07.Nov
+04.Nov
+01.Nov
+29.Oct
+26.Oct
+Current speed (cm/s)
+Days
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1239
+File name: Rekvi05m.SD6
+Number of measurements in data set: 4028
+TEMPERATURE
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+8,2
+8,4
+8,6
+8,8
+9,0
+9,2
+9,4
+9,6
+9,8
+10,0
+10,2
+10,4
+10,6
+10,8
+11,0
+11,2
+20.Nov
+18.Nov
+16.Nov
+14.Nov
+12.Nov
+10.Nov
+08.Nov
+06.Nov
+04.Nov
+02.Nov
+31.Oct
+29.Oct
+27.Oct
+25.Oct
+Temperature (°C)
+Days
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 11 av 30 
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Total flow
+Total flow
+1
+3
+4
+5
+6
+8
+10
+15
+25
+50
+75
+100 Sum% m³/m²
+%
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+315
+330
+345
+Sum%
+3
+54
+14
+10
+9
+0
+0
+0
+0
+0
+0
+0
+  2.2  1694
+2.1
+1
+48
+9
+10
+6
+0
+0
+0
+0
+0
+0
+0
+  1.8  1313
+1.6
+1
+38
+11
+18
+2
+0
+0
+0
+0
+0
+0
+0
+  1.7  1380
+1.7
+2
+54
+22
+20
+3
+0
+0
+0
+0
+0
+0
+0
+  2.5  1948
+2.4
+2
+57
+30
+18
+7
+0
+0
+1
+0
+0
+0
+0
+  2.9  2213
+2.7
+1
+88
+30
+17
+2
+0
+3
+2
+0
+0
+0
+0
+  3.6  2704
+3.3
+0
+85
+45
+18
+7
+2
+1
+0
+0
+0
+0
+0
+  3.9  3024
+3.7
+0
+85
+56
+14
+5
+2
+1
+1
+0
+0
+0
+0
+  4.1  3198
+3.9
+2
+115
+68
+40
+9
+1
+4
+3
+2
+0
+0
+0
+  6.1  5269
+6.5
+3
+125
+88
+51
+18
+4
+3
+1
+0
+0
+0
+0
+  7.3  6108
+7.5
+4
+115
+86
+53
+16
+22
+5
+0
+0
+0
+0
+0
+  7.5  6692
+8.2
+9
+68
+58
+28
+9
+11
+3
+2
+0
+0
+0
+0
+  4.7  4066
+5.0
+3
+62
+42
+17
+6
+7
+3
+0
+0
+0
+0
+0
+  3.5  3007
+3.7
+3
+53
+28
+18
+8
+3
+0
+2
+0
+0
+0
+0
+  2.9  2386
+2.9
+4
+48
+45
+13
+9
+0
+0
+0
+0
+0
+0
+0
+  3.0  2305
+2.8
+2
+90
+58
+22
+11
+18
+0
+0
+0
+0
+0
+0
+  5.0  4180
+5.1
+5
+119
+78
+27
+13
+9
+0
+0
+0
+0
+0
+0
+  6.2  4850
+6.0
+6
+93
+60
+37
+9
+8
+7
+0
+0
+0
+0
+0
+  5.5  4632
+5.7
+6
+91
+56
+30
+14
+8
+0
+0
+0
+0
+0
+0
+  5.1  4256
+5.2
+7
+75
+66
+24
+3
+5
+0
+0
+0
+0
+0
+0
+  4.5  3487
+4.3
+1
+87
+78
+33
+3
+0
+0
+0
+0
+0
+0
+0
+  5.0  3859
+4.8
+13
+88
+101
+17
+6
+0
+0
+0
+0
+0
+0
+0
+  5.6  4147
+5.1
+0
+63
+44
+22
+7
+1
+0
+0
+0
+0
+0
+0
+  3.4  2723
+3.4
+1
+47
+27
+12
+5
+0
+0
+0
+0
+0
+0
+0
+  2.3  1789
+2.2
+2.0
+45.9
+29.8
+14.1
+4.6
+2.5
+0.7
+0.3
+0.0
+0.0
+0.0
+0.0
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1239
+File name: Rekvi05m.SD6
+Number of measurements in data set: 4028
+CURRENT SPEED / DIRECTION MATRIX
+ 
+ 
+ 
+ 
+STATISTICAL SUMMARY: 5 m dyp 
+ 
+Total 
+East / west 
+North / south 
+Mean current speed (cm/s) 
+      3,4 
+      2,2 
+      2,1 
+Variance (cm/s)² 
+      1,924 
+      1,917 
+      2,037 
+Standard deviation (cm/s) 
+      1,387 
+      1,385 
+      1,427 
+Mean standard deviation 
+      0,413 
+      0,618 
+      0,693 
+Maximum current velocity 
+    17,8 
+ 
+ 
+Minimum  current velocity 
+      0,0 
+ 
+ 
+Significant max velocity 
+      4,8 
+ 
+ 
+Significant min velocity 
+      2,1 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 12 av 30 
+Data displayed from: 15:45 - 23.Oct-07   To: 14:55 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1219
+File name: Rekvi15m.SD6
+Number of measurements in data set: 4028
+CURRENT SPEED
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+20.Nov
+18.Nov
+16.Nov
+14.Nov
+12.Nov
+10.Nov
+08.Nov
+06.Nov
+04.Nov
+02.Nov
+31.Oct
+29.Oct
+27.Oct
+25.Oct
+Current speed (cm/s)
+Days
+Data displayed from: 15:45 - 23.Oct-07   To: 14:55 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1219
+File name: Rekvi15m.SD6
+Number of measurements in data set: 4028
+CURRENT SPEED BAR CHART
+  
+ 
+0-1
+1-3
+3-4
+4-5
+5-6
+6-8
+8-10
+10-15
+15-25
+25-50
+50-75
+75-100
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75 Percent of measurements
+cm/s
+Utskiftingsstrøm: 15 m dyp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 13 av 30 
+Data displayed from: 15:45 - 23.Oct-07   To: 14:55 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1219
+File name: Rekvi15m.SD6
+Number of measurements in data set: 4028
+CURRENT DIRECTION BAR CHART
+  
+ 
+0
+15
+30
+45
+60
+75
+90 105 120 135 150 165 180 195 210 225 240 255 270 285 300 315 330 345
+0
+1
+2
+3
+4
+5
+6
+7
+8 Percent of measurements
+Deg
+Data displayed from: 15:45 - 23.Oct-07   To: 14:55 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1219
+File name: Rekvi15m.SD6
+Number of measurements in data set: 4028
+PROGRESSIVE VECTOR
+Neumann parameter: 0.181
+Rest speed: 0.5 cm/s
+Average speed: 2.8 cm/s
+Rest direction: 172 deg.
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-11
+-12
+km N
+km E
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 14 av 30 
+Data displayed from: 15:45 - 23.Oct-07   To: 14:55 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1219
+File name: Rekvi15m.SD6
+Number of measurements in data set: 4028
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+8
+6
+4
+2
+N
+Maximum velocity (cm/s)
+per 15 deg sector
+  
+ 
+ 
+3
+2
+1
+N
+Mean velocity (cm/s)
+per 15 deg sector
+Data displayed from: 15:45 - 23.Oct-07   To: 14:55 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1219
+File name: Rekvi15m.SD6
+Number of measurements in data set: 4028
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+7
+6
+5
+4
+3
+2
+1
+N
+Relative water flux (%)
+per 15 deg sector
+  
+ 
+ 
+250
+200
+150
+100
+50
+N
+Number of measurements
+per 15 deg sector
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 15 av 30 
+Data displayed from: 15:45 - 23.Oct-07   To: 14:55 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1219
+File name: Rekvi15m.SD6
+Number of measurements in data set: 4028
+TEMPERATURE
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+8,4
+8,6
+8,8
+9,0
+9,2
+9,4
+9,6
+9,8
+10,0
+10,2
+10,4
+10,6
+10,8
+11,0
+11,2
+20.Nov
+18.Nov
+16.Nov
+14.Nov
+12.Nov
+10.Nov
+08.Nov
+06.Nov
+04.Nov
+02.Nov
+31.Oct
+29.Oct
+27.Oct
+25.Oct
+Temperature (°C)
+Days
+Data displayed from: 15:45 - 23.Oct-07   To: 14:55 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1219
+File name: Rekvi15m.SD6
+Number of measurements in data set: 4028
+STICK DIAGRAM
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-10,0
+-5,0
+0,0
+5,0
+10,0
+15,0
+19.Nov
+16.Nov
+13.Nov
+10.Nov
+07.Nov
+04.Nov
+01.Nov
+29.Oct
+26.Oct
+Current speed (cm/s)
+Days
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 16 av 30 
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Total flow
+Total flow
+1
+3
+4
+5
+6
+8
+10
+15
+25
+50
+75
+100 Sum% m³/m²
+%
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+315
+330
+345
+Sum%
+2
+100
+17
+6
+4
+3
+0
+0
+0
+0
+0
+0
+  3.3  2147
+3.2
+1
+87
+20
+7
+1
+3
+0
+0
+0
+0
+0
+0
+  3.0  1951
+2.9
+2
+90
+23
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  2.9  1718
+2.6
+1
+64
+22
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  2.2  1304
+1.9
+2
+76
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  2.4  1348
+2.0
+1
+94
+25
+3
+0
+0
+0
+0
+0
+0
+0
+0
+  3.1  1847
+2.7
+2
+104
+26
+3
+1
+2
+1
+0
+0
+0
+0
+0
+  3.5  2230
+3.3
+3
+147
+25
+23
+9
+7
+2
+0
+0
+0
+0
+0
+  5.4  3916
+5.8
+2
+152
+41
+16
+14
+27
+4
+0
+0
+0
+0
+0
+  6.4  5321
+7.9
+1
+163
+65
+20
+15
+15
+1
+0
+0
+0
+0
+0
+  7.0  5372
+8.0
+0
+190
+54
+26
+11
+2
+1
+0
+0
+0
+0
+0
+  7.1  4987
+7.4
+7
+155
+43
+9
+5
+2
+7
+0
+0
+0
+0
+0
+  5.7  3979
+5.9
+8
+117
+33
+11
+3
+3
+1
+0
+0
+0
+0
+0
+  4.4  2941
+4.4
+7
+103
+26
+4
+2
+4
+1
+0
+0
+0
+0
+0
+  3.6  2416
+3.6
+4
+107
+25
+2
+3
+2
+0
+0
+0
+0
+0
+0
+  3.6  2251
+3.3
+2
+132
+35
+4
+3
+0
+0
+0
+0
+0
+0
+0
+  4.4  2834
+4.2
+0
+129
+46
+5
+2
+1
+0
+0
+0
+0
+0
+0
+  4.5  2988
+4.4
+1
+129
+47
+2
+0
+0
+0
+0
+0
+0
+0
+0
+  4.4  2904
+4.3
+2
+157
+34
+4
+2
+0
+0
+0
+0
+0
+0
+0
+  4.9  3053
+4.5
+3
+150
+22
+4
+0
+0
+0
+0
+0
+0
+0
+0
+  4.4  2669
+4.0
+1
+117
+14
+2
+1
+0
+0
+0
+0
+0
+0
+0
+  3.4  1993
+3.0
+2
+114
+17
+3
+2
+1
+0
+0
+0
+0
+0
+0
+  3.5  2149
+3.2
+1
+111
+25
+4
+1
+7
+3
+0
+0
+0
+0
+0
+  3.8  2599
+3.9
+1
+117
+15
+1
+3
+6
+1
+0
+0
+0
+0
+0
+  3.6  2346
+3.5
+1.4
+72.1
+17.8
+4.0
+2.0
+2.1
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+Data displayed from: 15:45 - 23.Oct-07   To: 14:55 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 1219
+File name: Rekvi15m.SD6
+Number of measurements in data set: 4028
+CURRENT SPEED / DIRECTION MATRIX
+ 
+ 
+ 
+ 
+STATISTICAL SUMMARY: 15 m dyp 
+ 
+Total 
+East / west 
+North / south 
+Mean current speed (cm/s) 
+      2,8 
+      1,7 
+      1,8 
+Variance (cm/s)² 
+      1,323 
+      1,217 
+      1,533 
+Standard deviation (cm/s) 
+      1,150 
+      1,103 
+      1,238 
+Mean standard deviation 
+      0,413 
+      0,632 
+      0,684 
+Maximum current velocity 
+    10,0 
+ 
+ 
+Minimum  current velocity 
+      0,0 
+ 
+ 
+Significant max velocity 
+      3,9 
+ 
+ 
+Significant min velocity 
+      1,9 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 17 av 30 
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 990
+File name: Rekvi50m.SD6
+Number of measurements in data set: 4028
+CURRENT SPEED
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+4,5
+5,0
+5,5
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+20.Nov
+18.Nov
+16.Nov
+14.Nov
+12.Nov
+10.Nov
+08.Nov
+06.Nov
+04.Nov
+02.Nov
+31.Oct
+29.Oct
+27.Oct
+25.Oct
+Current speed (cm/s)
+Days
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 990
+File name: Rekvi50m.SD6
+Number of measurements in data set: 4028
+CURRENT SPEED BAR CHART
+  
+ 
+0-1
+1-3
+3-4
+4-5
+5-6
+6-8
+8-10
+10-15
+15-25
+25-50
+50-75
+75-100
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85 Percent of measurements
+cm/s
+Spredningsstrøm: 50 m dyp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 18 av 30 
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 990
+File name: Rekvi50m.SD6
+Number of measurements in data set: 4028
+CURRENT DIRECTION BAR CHART
+  
+ 
+0
+15
+30
+45
+60
+75
+90 105 120 135 150 165 180 195 210 225 240 255 270 285 300 315 330 345
+0
+1
+2
+3
+4
+5
+6
+7
+8 Percent of measurements
+Deg
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 990
+File name: Rekvi50m.SD6
+Number of measurements in data set: 4028
+PROGRESSIVE VECTOR
+Neumann parameter: 0.167
+Rest speed: 0.3 cm/s
+Average speed: 2.0 cm/s
+Rest direction: 187 deg.
+  
+ 
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+km N
+km E
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 19 av 30 
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 990
+File name: Rekvi50m.SD6
+Number of measurements in data set: 4028
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+8
+7
+6
+5
+4
+3
+2
+1
+N
+Maximum velocity (cm/s)
+per 15 deg sector
+  
+ 
+ 
+2
+1
+N
+Mean velocity (cm/s)
+per 15 deg sector
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 990
+File name: Rekvi50m.SD6
+Number of measurements in data set: 4028
+CURRENT VELOCITY DISTRIBUTION DIAGRAM
+  
+ 
+ 
+10
+8
+6
+4
+2
+N
+Relative water flux (%)
+per 15 deg sector
+  
+ 
+ 
+300
+250
+200
+150
+100
+50
+N
+Number of measurements
+per 15 deg sector
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 20 av 30 
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 990
+File name: Rekvi50m.SD6
+Number of measurements in data set: 4028
+STICK DIAGRAM
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-10,0
+-5,0
+0,0
+5,0
+10,0
+19.Nov
+16.Nov
+13.Nov
+10.Nov
+07.Nov
+04.Nov
+01.Nov
+29.Oct
+26.Oct
+Current speed (cm/s)
+Days
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 990
+File name: Rekvi50m.SD6
+Number of measurements in data set: 4028
+TEMPERATURE
+  
+ 
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+8,4
+8,6
+8,8
+9,0
+9,2
+9,4
+9,6
+9,8
+10,0
+10,2
+10,4
+10,6
+10,8
+11,0
+11,2
+20.Nov
+18.Nov
+16.Nov
+14.Nov
+12.Nov
+10.Nov
+08.Nov
+06.Nov
+04.Nov
+02.Nov
+31.Oct
+29.Oct
+27.Oct
+25.Oct
+Temperature (°C)
+Days
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 21 av 30 
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Current speed groups
+Total flow
+Total flow
+1
+3
+4
+5
+6
+8
+10
+15
+25
+50
+75
+100 Sum% m³/m²
+%
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+315
+330
+345
+Sum%
+13
+116
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  3.2  1367
+2.9
+12
+94
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  2.7  1128
+2.4
+11
+126
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  3.4  1538
+3.2
+16
+110
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+  3.3  1475
+3.1
+15
+114
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  3.3  1439
+3.0
+19
+80
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+  2.6  1115
+2.3
+19
+120
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  3.5  1487
+3.1
+19
+119
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  3.5  1559
+3.3
+17
+149
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  4.3  2053
+4.3
+19
+170
+21
+4
+0
+0
+0
+0
+0
+0
+0
+0
+  5.3  2741
+5.8
+22
+214
+54
+13
+5
+6
+1
+0
+0
+0
+0
+0
+  7.8  4894
+10.3
+28
+207
+38
+9
+3
+1
+0
+0
+0
+0
+0
+0
+  7.1  3948
+8.3
+22
+149
+10
+4
+0
+0
+0
+0
+0
+0
+0
+0
+  4.6  2209
+4.6
+32
+142
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+  4.4  1889
+4.0
+30
+134
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  4.1  1680
+3.5
+41
+117
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  4.0  1571
+3.3
+21
+141
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  4.3  1913
+4.0
+30
+161
+13
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  5.1  2353
+5.0
+21
+144
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+  4.3  2060
+4.3
+9
+148
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  4.1  2041
+4.3
+17
+127
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  3.9  1890
+4.0
+14
+143
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  4.0  1895
+4.0
+14
+137
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  3.7  1714
+3.6
+12
+127
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+  3.5  1559
+3.3
+11.7
+81.7
+5.3
+0.9
+0.2
+0.2
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Data displayed from: 15:44 - 23.Oct-07   To: 14:54 - 20.Nov-07
+Series number: 1
+Interval time: 10 Minutes
+Ref. number: 990
+File name: Rekvi50m.SD6
+Number of measurements in data set: 4028
+CURRENT SPEED / DIRECTION MATRIX
+ 
+ 
+ 
+ 
+STATISTICAL SUMMARY: 50 m dyp 
+ 
+Total 
+East / west 
+North / south 
+Mean current speed (cm/s) 
+      2,0 
+      1,2 
+      1,3 
+Variance (cm/s)² 
+      0,593 
+      0,559 
+      0,769 
+Standard deviation (cm/s) 
+      0,770 
+      0,748 
+      0,877 
+Mean standard deviation 
+      0,392 
+      0,633 
+      0,666 
+Maximum current velocity 
+      8,2 
+ 
+ 
+Minimum  current velocity 
+      0,0 
+ 
+ 
+Significant max velocity 
+      2,8 
+ 
+ 
+Significant min velocity 
+      1,2 
+ 
+ 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 22 av 30 
+Strømstille Perioder 
+ 
+Lokalitet:  
+ 
+Rekvika, Selje kommune. 
+Selskap:  
+ 
+Statt Torsk. 
+Måleperiode: 
+23. oktober 2007 til 20. november 2007. 
+ 
+Innenfor måleperioden er det vurdert i hvor stort omfang det forekommer «strømstille perio- 
+der» på lokaliteten: dvs total antall timer og i % av total måleperiode. En «strømstille periode» 
+er definert som en periode på 2,5 timer eller mer med strøm svakere enn 2 cm/sek. 
+ 
+Tabell 1. Strømstille perioder: 
+Måledyp 
+0-2,5 t 2,5-6 t 6-12 t 12-24 t 24-48 t Over 48 t Totaltid med strømstille 
+perioder over 2,5 t 
+Prosent strømstille 
+perioder > 2,5 t. av 
+måletiden 
+  5 m 
+156 
+2 
+ 
+ 
+ 
+ 
+8 timer 
+1,14 % 
+15 m 
+226 
+4 
+ 
+ 
+ 
+ 
+16 timer 
+2,38 % 
+50 m 
+373 
+22 
+3 
+2 
+ 
+ 
+142 timer 
+21,13 % 
+ 
+ 
+Tabell 2. Tilstandsklasser for andel strømstille perioder *: 
+Tilstandsklasse 
+I 
+II 
+III 
+IV 
+V 
+andel strømstille 
+svært lav 
+lav 
+middels 
+høy 
+svært høy 
+Overflatestrøm (%) 
+< 5 
+5 – 10 
+10 – 25 
+25 – 40 
+> 40 
+Vannutskifting (%) 
+< 10 
+10 – 20 
+20 – 35 
+35 – 50 
+> 50 
+Spredningsstrøm (%) 
+< 20 
+20 – 40 
+40 – 60 
+60 – 80 
+> 80 
+Bunnstrøm (%) 
+< 25 
+25 – 50 
+50 – 75 
+75 – 90 
+> 90 
+       * Modifisert fra Rådgivende Biologer AS - rapport nr. 1056-2008.     . 
+Konklusjon: 
+Ved     5 m dyp: prosentvis svært lav totaltid med strømstille perioder over 2,5 t. 
+Ved   15 m dyp: prosentvis svært lav totaltid med strømstille perioder over 2,5 t. 
+Ved   50 m dyp: prosentvis lav totaltid med strømstille perioder over 2,5 t. 
+Ved 105 m dyp: ikke vurdert (bunnstrøm).  
+ 
+For lokaliteter som skal benyttes til matfiskoppdrett er det gunstig at det er minst mulig  
+«strømstille perioder», dvs. at perioder med strøm svakere enn 2 cm/sek. er så korte og  
+få som mulig. For at fisken skal ha mest mulig optimale forhold (vannkvalitet/fiskevelferd 
+/tilvekst) gjelder dette spesielt for strøm ved 5 m og 15 m dyp (overflate/vannutskifting).  
+ 
+For miljøforhold og optimal bæreevne på lokaliteter som skal benyttes til matfiskoppdrett 
+(minst mulig fæces og fòrspill som sedimenteres under anlegget) gjelder dette spesielt for  
+spredningsstrøm (her: ved 50 m dyp). Spredningsstrøm med få og korte strømstille perio- 
+der vil gi god spredning og fordeling av organisk avfall til lokalitetens omgivelser slik at  
+bunndyr klarer å «ta unna» og overbelastning like under anlegget ikke forekommer. 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 23 av 30 
+Maksimal strøm 8 retninger med returperioder: 5 m og 15 m dyp 
+ 
+ 
+Max at upper = maksimal strømhastighet ved 5 m dyp, cm/s 
+Max at lower = maksimal strømhastighet ved 15 m dyp, cm/s 
+cUp = maksimal strømhastighet ved 5 m dyp, cm/s 
+dUp = retning (grader) til den maksimale strømhastighet ved 5 m dyp 
+cLow = maksimal strømhastighet ved 15 m dyp, cm/s 
+dLow = retning (grader) til den maksimale strømhastighet ved 15 m dyp 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 24 av 30 
+Bunnstrøm: 105 m dyp 
+Instrument 
+Head Id 
+AQD 6673 
+Board Id 
+AQD11828 
+Frequency 
+2000000 
+Configuration 
+File 
+Rekvik02.aqd 
+Start 
+11.10.2018 11.10 
+End 
+13.11.2018 11.40 
+Data Records 
+4756 
+Longitude 
+5° 24,78'E 
+Latitude 
+62° 4,91'N 
+Orientation 
+DOWN 
+Cells 
+1 
+Cell Size [m] 
+0,680000007152557 
+Blanking Distance [m] 
+0,340000003576279 
+Average Interval [sec] 
+00:01:00 
+Measurement Interval [sec] 
+00:10:00 
+Quality 
+Low Pressure Treshold 
+0 
+HighTilt Threshold 
+30 
+Expected Orientation 
+UP 
+Amplitude Spike Treshold 
+70 
+Velocity Spike Treshold 
+5 
+SNR Treshold 
+3 
+Statistics 
+Mean current [m/s] 
+0.15 
+Max current [m/s] 
+1.65 
+Min current [m/s] 
+0.00 
+Measurements used/total [#] 
+544 / 4628 
+Std.dev [m/s] 
+0.28 
+Significant max velocity [m/s] 
+0.40 
+Significant min velocity [m/s] 
+0.02 
+10 year return current [m/s] 
+2.715 
+50 year return current [m/s] 
+3.044 
+Most significant directions [°] 
+105°, 330°, 15°, 345° 
+Most significant speeds [m/s] 
+0.20, 0.40, 0.60, 0.80 
+Most flow 
+1345.91m³ / day at 120-135° 
+Least flow 
+204.01m³ / day at 105-120° 
+Neumann parameter 
+0.10 
+Residue current 
+0.01 m/s at 130° 
+Zero current [%] - [HH:mm] 
+5.33% - 00:20 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 25 av 30 
+Gjennomsnittshastighet – rosediagram 
+ 
+Maksimalhastighet – rosediagram 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 26 av 30 
+Hastighet - histogram 
+ 
+Retning - histogram 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 27 av 30 
+Retning / Hastighet – histogram 
+ 
+ 
+ 
+Flow 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 28 av 30 
+Progressiv vektor 
+ 
+ 
+Temperatur 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 29 av 30 
+Trykksensor 
+ 
+ 
+ 
+Tiltsensor 
+ 
+Stromrapport - Rekevika - Fishguard 2018.Doc  -  Side 30 av 30 
+Gj.snitt & maksimal strøm med returperiode 8 retninger: 105 m dyp 
+ 
+Retning 
+Snitt 
+Maks 
+Snitt 10 år 
+Maks 10 år 
+Snitt 50 år 
+Maks 50 år 
+0 
+0,059 
+0,561 
+0,097 
+0,925 
+0,109 
+1,037 
+45 
+0,156 
+1,085 
+0,258 
+1,790 
+0,289 
+2,007 
+90 
+0,151 
+1,467 
+0,250 
+2,420 
+0,280 
+2,713 
+135 
+0,169 
+1,109 
+0,278 
+1,829 
+0,312 
+2,051 
+180 
+0,195 
+1,444 
+0,321 
+2,383 
+0,360 
+2,672 
+225 
+0,246 
+1,189 
+0,406 
+1,961 
+0,455 
+2,199 
+270 
+0,262 
+1,645 
+0,433 
+2,715 
+0,485 
+3,044 
+315 
+0,103 
+0,864 
+0,169 
+1,425 
+0,190 
+1,598

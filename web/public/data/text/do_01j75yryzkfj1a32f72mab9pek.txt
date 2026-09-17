@@ -1,0 +1,1543 @@
+﻿522-10-21FU STORVIKNESET 
+V.2
+2021
+Etter Norsk Standard NS 9410: 2016
+AQUA KOMPETANSE 
+AS
+Forundersøkelse ved Storvikneset
+i Nesna kommune, 2021
+MOWI ASA
+Revidert dato 17.11.2021
+522-10-21FU STORVIKNESET V.2 
+ENDRINGSRAPPORT 
+ 
+Rapportens tittel: Forundersøkelse ved Storvikneset i Nesna kommune, 2021 
+ID 199-9 
+Prosjekt nr.: 522-10-21FU V.2 
+Oppdragsgiver: MOWI ASA 
+Prøvetakingssted: Storvikneset, Nesna kommune 
+ 
+Dato for prøvetaking: Ikke relevant for FU-rapport 
+ 
+Ansvarlig for prøvetaking: Ikke relevant for FU-rapport 
+ 
+Ansvarlig for rapportering: Aqua Kompetanse AS v/Anja Hervik 
+ 
+Endringer til opprinnelig rapport: 
+- 
+Rettet opp koordinater for C4 i Tabell 6. 
+- 
+Endret referansene for C-rapporten for å inkludere endringsrapport. 
+ 
+ 
+Flatanger, 17.11.2021 
+ 
+Anja Hervik 
+ 
+ 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+3 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Rapportens tittel:  
+Forundersøkelse ved Storvikneset i Nesna kommune, 2021 
+Lokalitet: Storvikneset 
+Lokalitetsnummer: Ny lokalitet 
+Revidert dato: 17.11.2021 
+Rapportnummer: 522-10-21FU V2 
+Antall sider uten vedlegg: 21 
+Antall sider totalt: 28 
+Oppdragsgiver: MOWI ASA 
+ 
+Kontaktperson: Maren Strand 
+Omsøkt MTB: 3900 tonn 
+Kommune: Nesna 
+Fylke: Nordland 
+Koordinater:  
+6616.925’N 
+1259.818’Ø 
+Rapporten omfatter et sammendrag av 
+Rapportnr. 510-10-21M 
+Rapportnr. 339-8-21S 
+Rapportnr. 395-9-21B 
+Rapportnr. 396-9-21C V.2 
+Havbunnskartlegging 
+Vannstrømmålinger 
+B-undersøkelse 
+C-undersøkelse 
+0,46 meters oppløsning 
+5, 15, 75 og 126 meter 
+10 stasjoner 
+5 + 1 stasjoner 
+09.09.2021 
+10.08.–09.09.2021 
+09.09.2021 
+09.09.2021 
+Emneord: 
+havbunnskartlegging; multistråle; batymetri; vannstrøm; doppler; overflatestrøm; 
+vannutskiftningsstrøm; dimensjoneringsstrøm; spredningsstrøm; bunnstrøm; vannutskiftning; 
+miljøtilstand; miljøovervåking; sediment; elektrokjemi; sensoriske registreringer 
+ID 488-16 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig:  
+ 
+Anja Hervik 
+Kvalitetssikrer: 
+ 
+Julie Mynors 
+ 
+ 
+ 
+ 
+ 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org. Nr.: 982 226 163 
+© 2021 Aqua Kompetanse AS. Kopiering kan kun skje i sin helhet. Dersom deler av rapporten (konklusjoner, 
+figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig samtykke fra Aqua 
+Kompetanse AS. 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+4 
+Forord 
+På oppdrag av MOWI ASA har Aqua Kompetanse AS utført en forundersøkelse ved Storvikneset. En 
+forundersøkelse av lokalitetens anleggsområde og anleggets overgangssone blir gjennomført før anlegget 
+plasseres, og før vesentlige anleggsutvidelser. Forundersøkelsen skal gi en tilstandsbeskrivelse av 
+miljøforholdene, og fungere som en referanse for utviklingen av miljøforholdene etter at produksjonen har 
+startet ved lokaliteten. I tillegg blir havbunnen i nærområdet til lokaliteten kartlagt, og vannstrømmen blir 
+målt i flere dyp. Dette gir et grunnlag for anleggsplassering, samt vanngjennomstrømming og 
+spredningspotensiale for lokaliteten. 
+ 
+Aqua Kompetanse AS har utført havbunnskartlegging, vannstrømmålinger, akkreditert B-undersøkelse og 
+akkreditert C-undersøkelse ved den planlagte lokaliteten. Standarder og veiledere som er benyttet til 
+innsamling av data og prøvemateriale til denne forundersøkelsen er listet i Tabell 1. 
+ 
+Tabell 1: Standarder og veiledere benyttet til innsamling av data og prøvemateriale til denne forundersøkelsen. 
+Undersøkelse 
+Standard/veileder 
+Tittel 
+B-, C- og forundersøkelse 
+NS 9410: 2016 
+Miljøovervåking av bunnpåvirkning fra marine 
+akvakulturanlegg 
+C-undersøkelse 
+NS-EN ISO 16665: 2013 
+Vannundersøkelse – Retningslinjer for kvantitativ 
+prøvetaking og prøvebehandling av marin 
+bløtbunnsfauna. 
+NS-EN ISO 5667-19: 2004 
+Vannundersøkelse – Prøvetaking – Del 19: Veiledning i 
+sedimentprøvetaking i marine områder. 
+Hydrografi 
+Veileder 02: 2018 
+Klassifisering av miljøtilstand i vann 
+Vannstrømmåling 
+NS 9425-1: 1999 
+Oseanografi – Del 1: Strømmålinger i faste punkter. 
+NS 9425-2: 2003 
+Oseanografi – Del 2: Strømmålinger ved hjelp av ADCP. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+5 
+Innholdsfortegnelse 
+Forord ................................................................................................................................................................ 4 
+1. 
+Materiale og metode ................................................................................................................................ 6 
+1.1 Undersøkelsesområde ............................................................................................................................ 6 
+1.2 Havbunnskartlegging ............................................................................................................................... 6 
+1.3 Vannstrømmålinger................................................................................................................................. 7 
+1.4 B-undersøkelse ........................................................................................................................................ 7 
+1.5 C-undersøkelse ........................................................................................................................................ 7 
+1.5.1 Hydrografi ............................................................................................................................................ 8 
+2. 
+Resultat ..................................................................................................................................................... 8 
+2.1 Havbunnskartlegging ............................................................................................................................... 8 
+2.2 Vannstrømmålinger............................................................................................................................... 10 
+2.3 B-undersøkelse ...................................................................................................................................... 12 
+2.4 C-undersøkelse ...................................................................................................................................... 13 
+2.4.1 Bløtbunnsfauna .............................................................................................................................. 13 
+2.4.2 Sensoriske registreringer og elektrokjemiske målinger ................................................................ 13 
+2.4.3 Geologisk analyser ......................................................................................................................... 14 
+2.4.4 Kjemiske analyser .......................................................................................................................... 14 
+2.4.5 Hydrografi ...................................................................................................................................... 18 
+3. 
+Oppsummering ....................................................................................................................................... 20 
+3.1 Bæreevne .............................................................................................................................................. 20 
+4. 
+Referanser ............................................................................................................................................... 21 
+Vedlegg A – Havbunnskartlegging ................................................................................................................... 22 
+Vedlegg B – Vannstrømmålinger ..................................................................................................................... 23 
+Vedlegg C- B1 og B2 skjema ............................................................................................................................ 27 
+ 
+  
+ 
+Aqua Kompetanse AS er akkreditert av Norsk Akkreditering for prøvetaking bunnsediment, 
+akkrediteringsnummer TEST 303, og tilfredsstiller kravene i NS-EN ISO/IEC 17025. 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+6 
+1. Materiale og metode 
+1.1 Undersøkelsesområde 
+Det planlagte anlegget ved Storvikneset i Nesna kommune, ligger Nord for Handnesøya i de ytre delene av 
+fjorden Sjona (Figur 1). Nord for anlegget ligger et dypområde med dyp ned mot 380 meter. Nordvest for 
+anlegget er det en terskel på 180 meters dyp, som skiller ytre del av Sjona fra den indre delen av fjorden. 
+Bunnen under anlegget er noe ujevn, og varierer mellom 72 og 142 meter. Området skråner forholdsvis bratt 
+fra sør mot nord med en forhøyning med sør/nordlig orientering som strekker seg under planlagt 
+anleggsramme, områdets dypeste ligger nordvest og nordøst for planlagt anleggsramme.  
+ 
+ 
+Figur 1: Oversiktskart som viser planlagt anleggsplassering (rød firkant) i forhold til andre anlegg. Geografisk 
+senterpunkt for det planlagte anlegget ved Storvikneset er 6616.925’N 1259.818’Ø. Målestokk vises i venstre hjørne. 
+Kilde: Fiskeridirektoratets karttjeneste.  
+ 
+1.2 Havbunnskartlegging 
+Havbunnen i nærområdet til Storvikneset ble kartlagt med Olex WASSP1 multistråle-ekkolodd. 
+Posisjoneringssystemet er av typen Trimble BX982 GPS2 / GLONASS3 cpos-korrigeringstjeneste (med 
+nøyaktighet på ca. 1 meter). Bevegelsesjustering på båten utføres av Kongsberg MRU4. Ekkoloddet har en 
+varierende rekkevidde, avhengig av bunntopografi og vannkvalitet, på ca. 200-300 meters dybde. På dypere 
+vann enn 200-300 meter kan det presenteres data fra mobilt enkeltstråle-ekkolodd og/eller data fra Olex 
+standard. Bunnhardhet viser til havbunnens evne til å reflektere signaler, hvor bløtere sediment gir svakere 
+refleksjon enn hardere sediment. Hardhet visualiseres med en relativ fargeskala fra blått til rødt, henholdsvis 
+bløtere og hardere sediment. 
+ 
+Dybdeverdier som lager avvikende formasjoner i bunnkartet blir betraktet som målefeil, og vil vises som 
+topper, hull eller langsgående arr i kartet. Avvikende målinger identifiseres av en kombinasjon av manuelle 
+og automatiske metoder og vurderinger, for deretter å slettes og bunnkartet rekalkuleres. 
+ 
+Havbunnen ved Storvikneset ble opploddet med 0,46 meters oppløsning, og bunndata med 0,46 meters 
+oppløsning er vurdert. Båtens utforming og montering av transduser er mulige feilkilder, så korrigering av 
+«roll, pitch og heading» kan være nødvendig. Slike feil sees ofte som høydeforskjeller mellom kjøringer og 
+ruglete havbunn i overlappende kjøringer. Roll og pitch er satt til null for dette datasettet på bakgrunn av 
+manuell kvalitetskontroll. Dybdedataene må fortsatt tolkes med noen meters feilmargin. Havbunnen ble 
+kartlagt den 09.09.2021. For original rapport se Horn, 2021. 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+7 
+ 
+1.3 Vannstrømmålinger 
+Strømmålingene ble foretatt i perioden 10.08.–09.09.2021 i en rigg utplassert på 66°16.963 N, 12°59.838 Ø 
+(Figur 6), og ble gjennomført i henhold til NS 9425-1:1999 og NS 9425-2:2003. Det ble benyttet en 400 kHz 
+og to 200 kHz akustiske strømmålere produsert av Nortek AS. Den profilerende måleren er oppsatt på 25 
+celler x 2 meter som gir en rekkevidde på 50 meter. Punktmålerne måler i monteringsdypet. Målerne 
+registrerte i 1 minutt og 30 sekunder sammenhengende og med 8 minutter og 30 sekunders hviletid. For 
+original rapport med utfyllende informasjon om oppsett og instrument se Nergaard, 2021. 
+ 
+1.4 B-undersøkelse 
+Aqua Kompetanse AS har gjennomført en akkreditert B-undersøkelse i henhold til NS 9410:2016 ved 
+Storvikneset den 09.09.2021. B-undersøkelsen skal gi en beskrivelse av hvordan bunnen under og i den 
+umiddelbare nærheten av et anlegg er påvirket, og gjennomføres ved en serie grabbprøver tatt fra 
+anleggsområdet. Det blir gjort vurdering av bunnfauna og sensoriske registreringer av sedimentet 
+(elektrokjemiske målinger (pH og redoks; gruppe II) samt gassdannelse, lukt, farge, konsistens, grabbvolum 
+og slamlag; gruppe III). B-undersøkelsen gir en tilstandsklassifisering av hver enkelt prøvestasjon og en samlet 
+tilstand av hele anleggsområdet. Tilstanden på enkeltstasjonene kan variere mye, så hovedvekta må legges 
+på helhetstilstanden for lokaliteten. Tilstanden klassifiseres fra 1 til 4 etter NS9410:2016 (Tabell 2), og angis 
+med fargekoder. 
+ 
+Undersøkelsen ble gjennomført ved bruk av en 250 cm2 Van Veen grabb, og sedimentet skylt over en 1mm 
+sikt. Antall prøvestasjoner bestemmes av lokalitetens omsøkte MTB (maksimal tillatt biomasse), som på 
+Storvikneset er 3900 tonn. I tillegg skal det ved forundersøkelser, i henhold til Fylkeskommunene i Nordland, 
+Troms og Finnmark & Fiskeridirektoratet region Nord og region Nordland (2018) tas minst 10 stasjoner, som 
+skal plasseres for å dekke hele området for det planlagte anlegget. Antall prøvestasjoner er derfor 10. 
+Prøvestasjonene er plassert innenfor planlagt anleggsområde for å dekke så godt som mulig, og er merket av 
+Figur 5 med tilstand markert med farger etter Tabell 2. For original rapport med utfyllende informasjon om 
+undersøkelsen se Andreassen og Fredriksen, 2021.  
+ 
+Tabell 2: Tilstandsklassifisering basert på indeksverdi gitt ut fra B1-skjema ved B-undersøkelse (etter NS9410:2016), og 
+tegnforklaring til fargekoder for tilstand på B-undersøkelsens prøvestasjoner. 
+ 
+Tilstand 
+ 
+1 
+Meget god 
+2 
+God 
+3 
+Dårlig 
+4 
+Meget dårlig 
+Indeksverdi 
+< 1,1 
+1,1 – < 2,1 
+2,1 - < 3,1 
+≥ 3,1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.5 C-undersøkelse 
+Aqua Kompetanse har gjennomført akkreditert feltarbeid for å innhente prøvemateriale i henhold til NS 
+9410:2016 den 09.09.2021. Her er analyser av total organisk materiale (TOM), total organisk karbon (TOC), 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+8 
+total nitrogen (TN), kornstørrelse, kobber, hydrografi, og makrofauna presentert, og gir en beskrivelse av 
+miljøtilstanden i nærområdet til oppdrettslokaliteten før anlegget starter sin produksjon.  
+ 
+Prøvematerialet ble innhentet ved bruk av en 0.1 m2 Van Veen grabb, og på hver prøvestasjon ble det foretatt 
+tre hugg med prøvegrabben.  Makrofaunaprøver ble tatt ut av to av huggene, og 100-300 ml geologi- og 
+kjemiprøver ble tatt ut av ett. Ved hver stasjon ble det også foretatt elektrokjemiske målinger av sedimentet. 
+ 
+Lokaliteten er vurdert etter en C-undersøkelse i henhold til NS 9410:2016 hvor økende MTB gir økende antall 
+prøvestasjoner, og med en omsøkt MTB på 3900 tonn ved Storvikneset er veiledende antall prøvestasjoner 
+5. I tillegg skal det tas en referansestasjon minst 1 km unna det planlagte anlegget, i et område med 
+tilsvarende dybde og bunntype som øvrige stasjoner. Fremherskende strømretning og bunntype ligger til 
+grunn for plassering av prøvetakingsstasjonene (Figur 6). C1 ble plassert ved anleggssonen, like innenfor den 
+planlagte anleggsrammen, nedstrøms fremherskende strømretning. C2 er lagt 526 meter nordøst fra 
+anlegget utenfor planlagt hovedfortøyning, i fremherskende strømretning. C3 er langt 228 meter nordøst for 
+anlegget, også i fremherskende strømretning. C4 er lagt 396 meter sørøst for anlegget, da spredningsstrøm 
+også har en sekundærkomponent retning mot sørøst. C5 er plassert 304 meter nord for anlegget i det dypeste 
+punktet i forbindelse med CTD-måling. Referansestasjonen er plassert 4,9 km nordvest i det beste 
+alternativet for et område med antatt samme bunntype som overgangssonen. For original rapport se Hervik, 
+2021. 
+ 
+1.5.1 Hydrografi 
+Hydrografi angår de kjemiske og fysiske havforholdene, slik som salinitet (saltinnhold), temperatur, 
+sirkulasjon og løste gasser. Det ble utført målinger av salinitet, temperatur og oksygen ved den dypeste 
+prøvestasjonen i undersøkelsesområdet ved Storvikneset, stasjon C5 304m nord for lokaliteten (Figur 6). 
+Målingene ble utført med en CTD av typen SAIV SD204 påmontert en Rinko III optisk oksygensensor. 
+Instrumentet målte annethvert sekund ned og opp igjennom vannsøylen. Registrerte data ble bearbeidet ved 
+bruk av SAIV AS sitt eget dataprogram for instrumentet, MiniSoft SD200W. Oksygenkonsentrasjonen i 
+dypvann er viktig for den helhetlige tilstanden i et område, og klassifisering av dypvannet er gjort etter 
+Veileder 02:2018 (Tabell 3). 
+ 
+Tabell 3: Klassifisering av tilstand for oksygen i dypvannet ved salinitet over 20‰ (gjengitt etter Veileder 02:2018) 
+ 
+Tilstandsklasser 
+I 
+Svært god 
+II 
+God 
+III 
+Moderat 
+IV 
+Dårlig 
+V 
+Svært dårlig 
+Dypvann 
+Oksygenkonsentrasjon (ml O2/l) 
+> 4,5 
+4,5 – 3,5 
+3,5 – 2,5 
+2,5 – 1,5 
+< 1,5 
+Oksygenmetning (%)* 
+> 65 
+65 – 50 
+50 – 35 
+35 – 20 
+< 20 
+*Oksygenmetningen er beregnet for saltholdighet 33 og temperatur 6°C. 
+ 
+ 
+2. Resultat 
+2.1 Havbunnskartlegging 
+Kartleggingen viser at området skråner forholdsvis bratt fra sør mot nord med en forhøyning med sør/nordlig 
+orientering som strekker seg under planlagt anleggsramme, områdets dypeste ligger nordvest og nordøst for 
+planlagt anleggsramme. Kartleggingen av hardbunn indikerer overvekt av middelshardbunn for de sørlige 
+delene av området med og bløtere bunn i områdets nordlige og de dypeste delene av det kartlagte området.  
+For tredimensjonal fremstilling av havbunnen se Vedlegg A. 
+ 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+9 
+ 
+Figur 2: Oversiktskart over batymetri ved Storvikneset med dybdekoter på 5 meter. Blåtoner fra lyst til mørkt markerer 
+økende dybde.  
+ 
+ 
+Figur 3: Oversiktskart over batymetri ved Storvikneset med dybdekoter på 5 meter og hardhet. Hardhet er markert 
+med fargetoner fra blått (bløtbunn) til rødt (hardbunn).  
+ 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+10 
+2.2 Vannstrømmålinger 
+Vannstrømmen på 5, 15, 75 og 126 meters dyp drives av tidevannet og følger hovedsakelig orienteringen til 
+batymetrien i målepunktet. Størst vanntransport er på 5 meters dyp rettet mot øst-nordøst, med en mindre 
+sekundærkomponent rettet mot vest. På både 15 og 75 meters dyp er tilnærmet like mye vanntransport 
+rettet mot vest-sørvest som mot øst-nordøst. Bunnstrømmen, på 126 meters dyp, har ikke like dominerende 
+strømretninger som resten av måledypene grunnet lave hastigheter på dette dypet. Størst vanntransport er 
+likevel rettet omkring øst-nordøst og øst-sørøst på 126 meters dyp. Tabell 4 viser hovedresultatene fra 
+vannstrømmålingene ved Storvikneset, og Figur 4 viser vanntransporten (fluksen) for alle tre dyp. Figur 6 
+viser plassering av strømrigg i forhold til planlagt anleggsplassering. For tidsserier over strømhastighet (Figur 
+B-1) og -retning (Figur B-2), frekvensfordeling av strømhastighet (Figur B-3) og frekvensfordeling av 
+strømretning (Figur B-4) se Vedlegg B.  
+ 
+Tabell 4: Hovedresultater fra vannstrømmålingene ved Storvikneset. 
+Parametere 
+5 meter 
+15 meter 
+75 meter 
+126 meter 
+Gyldige målinger/totalt (#) 
+4270/4273 
+4270/4273 
+4272/4272 
+4272/4272 
+Gjennomsnittsstrøm (cm/s) 
+8.8 
+5.9 
+5.5 
+3.1 
+Maksimalstrøm (cm/s) 
+36.0 
+28.0 
+27.8 
+13.5 
+Minimumstrøm (cm/s) 
+0.1 
+0.1 
+0.1 
+0.0 
+Strømstyrke 0-1 cm/s (%) 
+1.2 
+3.4 
+2.2 
+6.6 
+Strømstyrke 1-3 cm/s (%) 
+10.8 
+18.2 
+18.3 
+49.6 
+Neumann-parameter 
+0.41 
+0.09 
+0.06 
+0.54 
+Standardavvik (cm/s) 
+5.7 
+3.9 
+3.0 
+1.8 
+Varians (cm2/s2) 
+32.5 
+15.0 
+9.0 
+3.2 
+Signifikant 
+maksimum 
+strømhastighet (cm/s) 
+15.3 
+10.1 
+8.7 
+5.0 
+Signifikant 
+minimum 
+strømhastighet (cm/s) 
+3.4 
+2.4 
+2.6 
+1.4 
+10 års returstrøm (cm/s) 
+59.3 
+46.2 
+- 
+- 
+50 års returstrøm (cm/s) 
+66.5 
+51.8 
+- 
+- 
+De 
+4 
+hyppigst 
+forekommende 
+strømretningsgruppene (°) 
+60 - 75 
+45 - 60 
+75 - 90 
+30 - 45 
+240 - 255 
+75 - 90 
+60 - 75 
+255 - 270 
+60 - 75 
+240 - 255 
+255 - 270 
+45 - 60 
+90 - 105 
+105 - 120 
+135 - 150 
+120 - 135 
+De 
+4 
+hyppigst 
+forekommende 
+strømhastighetsgruppene 
+(cm/s) 
+3 - 5 
+5 - 7 
+7 - 9 
+1 - 3 
+3 - 5 
+5 - 7 
+1 - 3 
+7 - 9 
+3 - 5 
+5 - 7 
+1 - 3 
+7 - 9 
+1 - 3 
+3 - 5 
+5 - 7 
+0 - 1 
+Mest 
+vannutskiftning 
+/ 
+retning / 15° sektor 
+1267 m3/m2 per 
+dag ved 60 - 75 
+506 m3/m2 per dag 
+ved 240 - 255 
+593 m3/m2 per 
+dag ved 60 - 75 
+326 m3/m2 per dag 
+ved 60 - 75 
+Minst 
+vannutskiftning 
+/ 
+retning / 15° sektor 
+48 m3/m2 per dag 
+ved 330 - 345 
+43 m3/m2 per dag 
+ved 330 - 345 
+33 m3/m2 per dag 
+ved 165 - 180 
+7 m3/m2 per dag 
+ved 330 - 345 
+ 
+ 
+522-10-21FU STORVIKNESET 
+V.2 
+AQUA KOMPETANSE 
+AS 
+11
+Figur 4: Vanntransport (m3/m2/dag) for hver 15° sektor på 5, 15, 75 og 126 meters dyp ved Storvikneset i perioden
+10.08.–09.09.2021..
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+12 
+2.3 B-undersøkelse 
+Antall prøvestasjoner ved Storvikneset var 10, og det ble tatt 14 grabbskudd fordelt på disse. Sedimentet 
+under anlegget består hovedsakelig av silt, leire og skjellsand. Det ble funnet dyreliv ved ni av stasjonene, 
+bestående av ulike typer børstemark. På stasjon 5 ble det funnet en slangestjerne. Det var kun mulig å måle 
+elektrokjemi ved fem av ti stasjoner, dette grunnet hardbunn og lavt grabbvolum. Alle målte elektrokjemiske 
+målinger viste normale verdier. Det ble ikke registrert gassbobler, lukt, misfarging eller slamdannelse ved 
+noen av prøvene. Konsistensen var fast ved tre stasjoner og myk ved syv stasjoner. Grabbvolumet var under 
+¼ ved fem av stasjonene, mellom ¼ og ¾ ved tre, og over ¾ ved to stasjoner. Ved eventuell oppstart av 
+anleggsdrift vil man kunne si mer om områdets bæreevne. Tabell 5 oppsummerer hovedresultatene fra B-
+undersøkelsen, og for original rapport med utfyllende informasjon om hver stasjon se Andreassen og 
+Fredriksen, 2021. 
+ 
+Totaltilstand for Storvikneset blir 1, med en indeksverdi på 0,28. 
+ 
+Tabell 5: Hovedresultater fra B-undersøkelsen ved Storvikneset utført 09.09.2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sedimenttype 
+Dominerende 
+Mindre dominerende 
+Øvrige 
+Silt 
+Leire og skjellsand 
+Grus 
+Ant. stasjoner: 
+10 
+Ant. stasj. med / uten dyr: 
+9 / 1 
+Ant. hugg: 
+14 
+Ant. stasj. bløt / hard bunn: 
+7 / 3 
+Antall grabbstasjoner (gruppe II / III) med følgende tilstand: 
+Tilstand 1: 8 / 10 
+Tilstand 2: 0 / 0 
+Tilstand 3: 0 / 0 
+Tilstand 4: 0 / 0 
+Parametergruppe 
+Indeks 
+Tilstand 
+Gr. II pH/Eh 
+0,00 
+1 
+Gr. III Sensorisk: 
+0,46 
+1 
+Gr. II + III 
+0,28 
+1 
+Lokalitetstilstand, iht. NS 9410:2016 
+1 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+13 
+2.4 C-undersøkelse 
+ 
+2.4.1 Bløtbunnsfauna 
+Samtlige stasjoner hadde svært god tilstand ut fra nEQR.  
+ 
+Ved C1 ble det registrert 456 individer fordelt på 45 arter. Blant de ti vanligste artene var det sensitive, 
+nøytrale og tolerante arter, i tillegg til en opportunistisk art. Den sensitive arten Onchnesoma steenstrupii var 
+den vanligste, med 27% av individantallet. Stasjonen klassifiseres til miljøtilstand 1 ut fra NS9410:2016. 
+ 
+Ved C2 ble det registrert 532 individer fordelt på 37 arter. Den sensitive arten Onchnesoma steenstrupii var 
+den vanligste ved stasjonen, med 20% av individtallet. ES100 og NSI fikk tilsand god, mens de resterende 
+indeksene var svært gode, og stasjonen ble klassifisert til svært god tilstand ut fra veileder 02:2018. 
+ 
+Ved C3 ble det registrert 555 individer fordelt på 45 arter. Den tolerante arten Paramphinome jeffreysii var 
+den vanligste ved stasjonen, med 19% av individtallet. Alle faunaindeksene ved stasjonen hadde beste 
+tilstand, med unntak av NSI som hadde god tilstand. Stasjonen ble klassifisert til svært god tilstand ut fra 
+veileder 02:2018. 
+ 
+Ved C4 ble det registrert 936 individer fordelt på 45 arter. Den sensitive arten Onchnesoma steenstrupii var 
+den vanligste ved stasjonen, med 20% av individtallet. Faunaindeksene ved stasjonen hadde god eller svært 
+god tilstand. Stasjonen ble klassifisert til svært god tilstand ut fra veileder 02:2018. 
+ 
+Ved C5 ble det registrert 554 individer fordelt på 48 arter. Den tolerante arten Paramphinome jeffreysii var 
+den vanligste ved stasjonen, med 30% av individtallet. Faunaindeksene ved stasjonen hadde god eller svært 
+god tilstand. Stasjonen ble klassifisert til svært god tilstand ut fra veileder 02:2018. 
+ 
+Ved Cref ble det registrert 772 individer fordelt på 50 arter. Den tolerante arten Paramphinome jeffreysii var 
+den vanligste ved stasjonen, med 25% av individtallet. Faunaindeksene ved stasjonen var gode og svært gode, 
+og stasjonen ble klassifisert til svært god tilstand ut fra veileder 02:2018. 
+ 
+2.4.2 Sensoriske registreringer og elektrokjemiske målinger 
+Alle stasjonene viste normale pH og Eh-målinger, med pH målinger fra 7,60 til 7,66 og Eh resultater fra 111-
+360,5 mV. Samtlige stasjoner hadde normal lukt og farge, og sedimentet besto hovedsakelig av silt og leire. 
+Ved C1 besto sedimentet i tillegg av sand og grus. Ved alle stasjoner med unntak av C4, var ett eller flere av 
+huggene fulle. Disse overfylte grabbene er et metodeavvik i forhold til krav om uforstyrret sedimentoverflate 
+ut fra metodestandard (NS-EN ISO 16665). 
+ 
+ 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+14 
+ 
+2.4.3 Geologisk analyser 
+Kornfordelingen viser at den største fraksjonen ved alle stasjonene er den for silt og leire (pelitt). 
+Pelittandelen indikerer at sedimentet er moderat finkornet ved C1, C4 og Cref. Ved de resterende stasjonene 
+er sedimentet finkornet.  
+ 
+2.4.4 Kjemiske analyser 
+Andelen organisk materiale (TOM) ved stasjonene lå i intervallet 3,8-7,8%. Nivåene av normalisert organisk 
+karbon (nTOC) var lave (tilstand I) ved alle stasjoner. Mengden nitrogen lå mellom 1,2 og 2,8 g/kg. C:N 
+forholdet var lavest ved C3 med 4,8, mens de andre stasjonene lå mellom 6,4 og 7,5. Det ble målt kobber ved 
+C1 og C ref, og kobbernivåene ved begge stasjonene lå i tilstandsklasse I.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+15 
+ 
+Tabell 6: Hovedresultater fra C-undersøkelsen. Aqua Kompetanse AS har stått for akkreditert prøvetaking og akkreditert 
+faglig vurdering og fortolkning av analyseresultatene. Videre har Aqua Kompetanse AS utført uakkreditert hydrografisk 
+profil av vannsøylen ved lokaliteten. Pelagia Nature & Environment AB har utført akkreditert analyse av makrofauna, og 
+Eurofins Environment Testing Norway AS har utført akkrediterte analyser av TOC og kobber. Aqua Kompetanse AS har 
+utført uakkreditert tilstandsklassifisering av oksygentilstand og organisk karbon etter Veileder 02:2018, mens kobber er 
+klassifisert etter M-608 (2016). Aqua Kompetanse AS har stått for tilstandsklassifisering av faunaindekser. Farger 
+indikerer tilstandsklasser ut fra nevnte veiledere. For veileder 02:2018 er disse fargene som følger: Blå = svært god, grønn 
+= god, gul = moderat, oransje = dårlig og rød=svært dårlig. Miljøtilstand i anleggssonen er klassifisert og farget ut fra 
+NS9410:2016. 
+ 
+Anleggssone 
+Ytterst 
+Overgangssone 
+ 
+Stasjon 
+C1 
+Stasjon 
+C2 
+Stasjon 
+C3 
+Stasjon 
+C4 
+Stasjon 
+C5 
+Stasjon 
+C6  
+Avstand til anlegg (m) 
+0 
+526 
+228 
+396 
+304 
+4,9 km  
+Dyp (m) 
+210 
+187 
+233 
+165 
+253 
+197 
+GPS koordinater 
+ 
+ 
+66°16.982 
+13°00.134 
+66°17.110 
+13°00.750 
+66°17.044 
+13°00.399 
+66°16.841 
+12°58.998 
+66°17.137 
+12°59.903 
+66°17.914 
+12°53.345 
+Bunnfauna 
+(Veileder 02:2018) 
+Ant. arter 
+44 
+37 
+45 
+45 
+48 
+50 
+Ant. Ind. 
+456 
+532 
+555 
+936 
+554 
+772 
+H' 
+3,822 
+3,862 
+4,112 
+3,814 
+3,835 
+3,747 
+nEQR verdi 
+tilstand 
+0,841 
+0,821 
+I 
+0,842 
+I 
+0,828 
+I 
+0,816 
+I 
+0,801 
+I 
+Gj.snitt nEQR 
+overgangssone 
+ 
+ 
+I 
+ 
+Oksygen i bunnvann 
+(ml O2/l) 
+ 
+6,33 
+ 
+ 
+ 
+ 
+Organisk stoff 
+nTOC (mg/g) 
+17,3 
+13,4 
+15,1 
+14,3 
+18,5 
+18,8 
+Cu (mg/kg TS) 
+11 
+ 
+ 
+ 
+ 
+19 
+Tilstand for C1 
+1 
+ 
+ 
+ 
+ 
+ 
+Tidspunkt for neste undersøkelse: 
+Etter første produksjonssyklus 
+  
+ 
+ 
+Tabell 7: Tabell som viser fargekoder for de ulike tilstandsklassifiseringene vist i Tabell 6, hvor tilstand I er best. Etter 
+Veileder 02:2018. 
+I 
+II 
+III 
+IV 
+V 
+ 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+16 
+ 
+Figur 5: Sjøkart som viser bunndata fra Storvikneset i 0,46 meters oppløsning, planlagt anleggsplassering og 
+fortøyningsliner sammen med prøvestasjoner fra B-undersøkelsen (tilstand markert med farger etter Tabell 2) og C-
+undersøkelsens innerste stasjoner (grønne kryss). Lilla pil viser orientering av kart.  
+ 
+ 
+Tabell 8: Posisjon for prøvestasjonene ved B-undersøkelsen. 
+St. nr. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Pos. Nord 
+66°16.9
+57 
+16.964 
+16.971 
+16.978 
+16.985 
+16.891 
+16.885 
+16.877 
+16.871 
+16.864 
+Pos. Øst 
+12°59.5
+42 
+59.673 
+59.804 
+59.929 
+13°00.053 
+00.090 
+12°59.966 
+59.840 
+59.705 
+59.583 
+ 
+ 
+ 
+522-10-21FU STORVIKNESET 
+V.2 
+AQUA KOMPETANSE 
+AS 
+17
+Figur 6: Sjøkart som viser planlagt anleggsplassering sammen med C-stasjoner (grønne kryss) og posisjon for
+vannstrømmålinger (rødt flagg). Lilla pil viser orientering av kart, strømrose viser vanntransport (m3/m2/døgn; fluks) for
+hver 15° sektor på 75 meters dyp (spredningsdyp).
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+18 
+2.4.5 Hydrografi 
+Saltholdighet, temperatur, tetthet og oksygeninnhold ble målt fra overflaten og ned til bunnen (down-cast) i 
+dypområdet ved lokaliteten (C5; Figur 2). Resultatene fra denne undersøkelsen presenteres i Figur 5 og 6.  
+ 
+Figur 7: Sjøtemperatur (°C ; rød), salinitet (blå) og tetthet (-1000 kg/m3; sort) fra overflaten og ned til bunnen (down-
+cast) på 255 meters dyp ved stasjon C5 den 09.09.2021. 
+ 
+Sjøtemperaturen var stabil fra overflaten ned til omtrent 35 meter, hvor det var en tydelig termoklin.. 
+Deretter var temperaturen stabil ned til bunnen på omtrent 7,1°C. Saliniteten økte raskt ned til 10 meter, før 
+den sank saktere til 50 meters dyp, og var deretter forholdsvis stabil ned mot bunnen, hvor verdien lå på 
+34,5. Tettheten økte relativt jevnt fra overflaten ned til bunnen, med noe raskere økning rundt 0-10 meters 
+dyp. 
+ 
+ 
+Down-cast selected
+250
+240
+230
+220
+210
+200
+190
+180
+170
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0 m
+34,0
+32,0
+30,0
+28,0
+11,0
+10,0
+9,0
+8,0
+7,0
+28,0
+26,0
+24,0
+22,0
+Sal.
+Temp
+Density
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+19 
+ 
+Figur 8: Oksygenmetning (%; rød) og oksygenkonsentrasjon (ml/l; blå) fra overflaten og ned til bunnen (down-cast) på 
+255 meters dyp ved stasjon C5 den 09.09.2021. 
+ 
+Profilen for oksygenmetning viste lite endring fra overflaten til bunnen, med en forskjell på omtrent 10% fra 
+overflaten til bunnen. Ved overflaten lå oksygenkonsentrasjonen på 6,88 (99,90%) og sank gradvis, med noe 
+variasjon til 120 meter, før verdien økte noe ned mot 190 meter. Fra 190 meter og ned til bunnen stabiliserte 
+verdien seg hvor bunnvannet holdt en oksygenkonsentrasjon på 6,33 ml O2/l (89,44%), og tilsvarte derfor 
+tilstandsklasse I - svært god iht. Veileder 02:2018. 
+ 
+ 
+ 
+Down-cast selected
+250
+240
+230
+220
+210
+200
+190
+180
+170
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0 m
+6,8
+6,7
+6,6
+6,5
+6,4
+6,3
+6,2
+6,1
+6,0
+100,0
+95,0
+90,0
+85,0
+OpOx %
+ml/l
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+20 
+ 
+3. Oppsummering 
+ 
+Kartleggingen viser at området skråner forholdsvis bratt fra sør mot nord med en forhøyning med sør/nordlig 
+orientering som strekker seg under planlagt anleggsramme, områdets dypeste ligger nordvest og nordøst for 
+planlagt anleggsramme. Bunnen under anlegget er kartlagt til middelshardbunn med noe bløtere bunn i de 
+dypeste områdene.  
+ 
+Vannstrømmen ved Storvikneset drives av tidevannet og følger orienteringen til batymetrien i målepunktet. 
+Størst vanntransport er på 5 meters dyp rettet mot øst-nordøst. På både 15 og 75 meters dyp er tilnærmet 
+like mye vanntransport rettet mot vest-sørvest som mot øst-nordøst. På 126 meters dyp er størst 
+vanntransport rettet mot omkring øst-nordøst og øst-sørøst. Det er registrert lite strømstille ved lokaliteten, 
+men noe mer strømstille ved bunnen enn ved øvrige måledyp. 
+ 
+Resultater fra B-undersøkelsen indikerte gode forhold, både i form av sensoriske og elektrokjemiske 
+vurderinger. Det må merkes at halvparten av stasjonene ble registrert som hardbunn eller hadde for lite 
+sediment til elektrokjemi, noe som gir mindre vurderingsgrunnlag. Total miljøtilstand for lokaliteten ble 1, 
+med en indeksverdi på 0,28. 
+ 
+C-undersøkelsen viste svært gode faunaforhold i hele området, med flere sensitive arter blant de ti vanligste 
+ved alle stasjoner. De kjemiske parameterne, geologiske undersøkelsene og de sensoriske vurderingene 
+indikerte alle gode forhold i området. Referansestasjonen vurderes til å være representativ for det 
+undersøkte området.  
+ 
+Hydrografiprofilen viste høy oksygenmetning gjennom hele vannsøylen. Det ble observert en tydelig 
+termoklin ved 35 meters dyp.  
+ 
+3.1 Bæreevne 
+Undersøkelsene viser gode forhold ved den planlagte plasseringen av Storvikneset, og området vurderes til 
+å ha god kapasitet til produksjon av biomasse. Med eventuell anleggsdrift vil lokaliteten bli rutinemessig fulgt 
+opp med miljøundersøkelser, og dette vil gi en bedre pekepinn på lokalitetens bæreevne.  
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+21 
+4. Referanser 
+ 
+Andreassen, T.E. og Fredriksen, K.-E. (2021) B-undersøkelse ved Storvikneset i Nesna kommune, september 
+2021. Rapportnummer 395-9-21B levert av Aqua Kompetanse AS.  
+ 
+Fylkeskommunene i Nordland, Troms og Finnmark & Fiskeridirektoratet region Nord og Region Nordland 
+(2018) Veiledning til krav om forundersøkelser i henhold til NS9410:2016 i forbindelse med søknad om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark fylker. Versjon 1, 04.04.2018. 
+ 
+Hervik, A. (2021) C-undersøkelse ved Storvikneset i Nesna kommune, september 2021. Rapportnummer 
+396-9-21C V.2 levert av Aqua Kompetanse AS. 
+ 
+Horn, Ø. (2021) Havbunnskartlegging ved Storvikneset, Nesna kommune, 09.09.2021. Rapportnummer 510-
+10-21M levert av Aqua Kompetanse AS.  
+ 
+M-608 (2016) Grenseverdier for klassifisering av vann, sediment og biota. Miljødirektoratet. Revidert 
+30.10.2020. 
+ 
+Molvær, J., Knutzen, J., Magnusson, J., Rygg, B., Skei, J. & Sørensen, J. (1997) Klassifisering av miljøkvalitet i 
+fjorder og kystvann. Veiledning 97:03. 
+ 
+Nergaard, B.O. (2021) Vannstrømmåling ved Storvikneset, Nesna kommune, august-september 2021. 
+Rapportnummer 339-8-21S levert av Aqua Kompetanse As.  
+ 
+Norsk Standard 9410 (2016) Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg. Standard 
+Norge. NS 9410: 2016. 
+ 
+Norsk Standard 9425-1 (1999) Oseanografi – Del 1: Strømmålinger i faste punkter. Standard Norge. NS 
+9425-1:1999.  
+ 
+Norsk Standard 9425-2 (2003) Oseanografi – Del 2: Strømmålinger ved hjelp av ADCP. Standard Norge. NS 
+9425-2:2003.  
+ 
+Norsk Standard EN ISO 16665 (2013) Vannundersøkelse – Retningslinjer for kvantitativ prøvetaking og 
+prøvebehandling av marin bløtbunnsfauna. Standard Norge. NS-EN ISO 16665: 2013. 
+ 
+Norsk Standard EN ISO 5667 (2004) Vannundersøkelse – Prøvetaking – Del 19: Veiledning i 
+sedimentprøvetaking i marine områder. NS-EN ISO 5667-19: 2004. 
+ 
+Veileder 02:2018 (2018) Klassifisering av miljøtilstand i vann. Direktoratsgruppen vanndirektivet 2018. 
+ 
+ 
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+22 
+ 
+Vedlegg A – Havbunnskartlegging 
+ 
+ 
+Figur A-1: Tredimensjonalt perspektivisk bunnkart fra Storvikneset sett fra nordvest. 
+ 
+ 
+Figur A-2: Tredimensjonalt perspektivisk bunnkart fra Storvikneset sett fra nordvest med hardhet og planlagt 
+anleggsramme og fortøyning inntegnet. 
+ 
+ 
+522-10-21FU STORVIKNESET 
+V.2 
+AQUA KOMPETANSE 
+AS 
+23
+Vedlegg B – Vannstrømmålinger
+Figur B-1: Vannstrømhastighet (cm/s) på 5, 15, 75 og 126 meters dyp ved Storvikneset i perioden 10.08.–09.09.2021.
+522-10-21FU STORVIKNESET 
+V.2 
+AQUA KOMPETANSE 
+AS 
+24
+Figur B-2: Vannstrømretning (°) på 5, 15, 75 og 126 meters dyp ved Storvikneset i perioden 10.08.–09.09.2021.
+Oppgitt som retningen vannstrømmen beveger seg mot.
+522-10-21FU STORVIKNESET 
+V.2 
+AQUA KOMPETANSE 
+AS 
+25
+Figur B-3: Frekvensfordeling av vannstrømhastighet på 5, 15, 75 og 126 meters dyp ved Storvikneset i perioden 10.08.–
+09.09.2021.
+522-10-21FU STORVIKNESET 
+V.2 
+AQUA KOMPETANSE 
+AS 
+26
+Figur B-4: Frekvensfordeling av vannstrømretning for hver 15° sektor på 5, 15, 75 og 126 meters dyp ved Storvikneset i
+perioden 10.08.–09.09.2021.Oppgitt 
+som retningen vannstrømmen beveger seg mot.
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+27 
+ 
+Vedlegg C- B1 og B2 skjema 
+ 
+Tabell C- 1: Oversikt over resultatene basert på fauna, elektrokjemiske målinger og sensoriske registreringer ved 
+prøvestasjonene (B.1-skjema). I henhold til NS9410:2016 og samtidig i overensstemmelse med Fiskeridirektoratet blir 
+«bunntype» kategorisert som bløtbunn dersom grabben inneholder mineralsk sediment som poengvektes «2» eller 
+mer, eller som hardbunn dersom grabben inneholder kun vann eller organisk stoff, eller sediment som poengvektes 
+«1». Prøver som inneholder kun vann gis 0 poeng for gruppe II og gruppe III parametere. Prøver som inneholder 
+organisk stoff vurderes etter gruppe II og gruppe III parametere, men er det for lite organisk stoff til at gruppe II 
+parameter kan måles gis ingen poeng, og prøven vurderes etter gruppe III parameter. Dersom grabben har for lite 
+sediment (men likevel kategorisert som bløtbunn) til å måle gruppe II parameter gis heller ingen poeng til denne 
+gruppen, og prøven vurderes etter gruppe III parameter. 
+ 
+ 
+Indeks
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+B
+B
+B
+H
+B
+B
+B
+B
+H
+H
+I
+Dyr
+Ja = 0, Nei = 1 
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+pH
+Målt verdi
+7,59
+7,65
+7,68
+-
+7,73
+7,74
+-
+-
+-
+-
+Målt verdi
+261
+-17
+148,8
+-
+146,8
+151,9
+-
+-
+-
+-
+"+ ref. verdi
+482
+204
+369,8
+367,8
+372,9
+pH/Eh
+Poeng
+0
+0
+0
+0
+0
+0
+0
+0
+0,00
+1
+1
+1
+1
+1
+1
+1
+1
+Ja = 4
+Nei = 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Lys/grå = 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Brun/sort = 2
+Ingen = 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Noe= 2
+Sterk = 4
+Fast = 0
+0
+0
+0
+Myk = 2
+2
+2
+2
+2
+2
+2
+2
+Løs = 4
+v < ¼ = 0
+0
+0
+0
+0
+0
+¼ - ¾ = 1
+1
+1
+1
+v > ¾ = 2
+2
+2
+0 - 2 cm = 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2 - 8 cm = 1
+> 8 cm = 2
+4
+4
+3
+0
+3
+3
+2
+2
+0
+0
+0,88
+0,88
+0,66
+0,00
+0,66
+0,66
+0,44
+0,44
+0,00
+0,00
+0,46
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0,44
+0,44
+0,33
+0,00
+0,33
+0,33
+0,44
+0,44
+0,00
+0,00
+0,28
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+ 
+11,9°C
+8,09
+11,3°C
+139,8
+8,9°C
+221
+AQUA  KOMPETANSE AS
+Prøveskjema B.1
+II
+Eh (mV)
+Tilstand prøve
+Tilstand gruppe II
+1
+Gr.
+Parameter
+Poeng
+Prøvenummer
+Bunntype: B (bløt) eller H (hard)
+Lokalitet: Storvikneset
+Feltdato: 9.09.2021
+Rapportnummer: 395-9-21B
+III
+Gassbobler
+Farge
+Lukt
+Konsistens
+Grabbvolum
+Tykkelse på 
+slamlag
+SUM
+Korrigert sum (x 0,22)
+Tilstand prøve
+Tilstand gruppe III
+> 3,1
+4
+Sjøtemperatur:
+Sedimenttemperatur:
+Eobs sjø:
+< 1,1
+1
+1,1 - < 2,1
+2
+Ref. elektrode:
+Lokalitetsnummer: ny lokalitet
+Kunde: MOWI ASA
+2,1 - < 3,1
+3
+pH sjø:
+pH/Eh Korrigert sum
+Tilstand
+Indeks Middelverdi
+Buffertemperatur:
+1
+Middelverdi gruppe II & III
+Tilstand prøve
+Lokalitetstilstand
+1
+ 
+522-10-21FU STORVIKNESET V.2 
+AQUA KOMPETANSE AS 
+28 
+Tabell C-2: Oversikt over resultatene fra bedømmingen av sedimentet og karakteristika på havbunnen ved 
+prøvestasjonene (B.2-skjema). På hver stasjon blir sedimentet bedømt ved å fordele totalt fem poeng per stasjon, fordelt 
+på hvilken type sediment som observeres i prøven. Tabellen inkluderer dybdetall og registreringer av ulike dyregrupper, 
+samt om det observeres Beggiatoa eller rester av fôr og/eller fekalier.  
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+98
+102
+130
+122
+142
+72
+70
+70
+90
+123
+1
+1
+1
+2
+1
+1
+1
+2
+1
+3
+2
+2
+1
+1
+1
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+1
+1
+4
+5
+1
+20+
+20+
+10+
+20
+10+
+10
+7
+6
+1
+Stein i åpning
+Fekalier
+Kommentarer
+slangestjerne
+Beggiatoa
+Fôr
+Bobling ved prøvetaking:
+Sedimenttype
+Leire
+Fauna
+Pigghuder
+Krepsdyr
+Skjell
+Børstemark
+Andre dyr
+Silt
+Sand
+Grus
+Skjellsand
+Steinbunn
+Fjellbunn
+Lokalitet: Storvikneset
+Prøvenummer
+Dyp (m):
+Antall forsøk med prøvetaker:
+AQUA  KOMPETANSE AS
+Prøveskjema B.2
+Feltdato: 9.9.2021
+Rapportnummer: 395-9-21B
+Kunde: MOWI ASA
+Lokalitetsnummer: Ny lokalitet

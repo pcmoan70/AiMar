@@ -1,0 +1,251 @@
+﻿25
+25
+GDB01
+1
+Trasé 1
+Trasé 2
+PP 160
+PP 110
+1:100
+PP 200
+1:100
+UK= 7.24
+UK= 7.36
+1:60
+UK= 7.43
+PP 110
+PP 200
+1:100
+1:60
+UK= 12.69
+UK= 12.65
+PP 160
+1:100
+UK= 12.71
+PP 75
+UK= 8.13
+Kondensavløp ventilasjonsaggregat
+PE 110
+UK= 13.04
+Trasé 3
+Trasé 4
+OV DV 200
+VL PE 100 160
+OV DV 500
+Prosessledninger
+OV DV 250
+SP PVC 125
+OV DV 315
+VL PE100 160
+ OV PE 100 SDR17 500
+OV DV 500
+Prosessledninger
+OV DV 315
+VL PE100 160
+Pumpeledning SP PVC 63
+Plassering prosessvannledning
+basert på dronefoto
+VL PE 100 160
+Plassering prosess-
+vannledning basert
+på ledningskart fra
+Bodø kommune
+Antatt plassering ny prosessvannledning
+OV DV 200
+Trasé under vann
+må tilpasses havbunnen
+Ledningene
+må isoleres
+SF7
+SF10
+O1
+O2
+O3
+O4
+V1
+SF1
+SF2
+SF3
+SF4
+SF5
+O5
+SF6
+Slamavskiller
+O6
+SF13
+Drenskum
+Pumpeledningen
+henges under brua
+Mur og fundament,
+se tegninger fra RIB
+VL PE100 160
+OV DV 315
+Drensledning DV 200 bak murfundament.
+Legges med minst 5 promille fall, og aldri lavere
+enn murfundamentet.
+OBS: Drensledningen må ligge over
+grunnvannstanden! Hvis grunnvannstanden
+påtreffes, skal geotekniker i Norconsult kontaktes.
+Utslipp kt. -3,80 (2 m under laveste lavvann)
+OV DV 315
+VL PE100 160
+Pumpeledning SP PVC 63
+Uk. drens kt. 4,45
+Uk. drens ca. kt. 3,40
+Ca. 5 m
+Uk. drens ca. kt. 3,80
+Uk. drens kt. 3,10
+Trasé tilpasses eksisterende infrastruktur i grunnen
+Pumpekum
+SF7
+SF8
+O7
+S3
+S2
+S1
+SP PVC 125
+OV DV250
+SF9
+Feil plassering
+128569
+131705
+131722
+131723
+133588
+133589 133590
+133595
+133596
+133597
+133598
+133599
+133600
+133601
+133602
+133603133605
+133607
+143376
+143377
+143378
+144585
+VL110
+VL110
+SP150
+VL110
+SP150
+SP150
+VL110
+SP100
+VL63
+VL63
+VL110
+Trasé 5
+Trasé 6
+TEGNFORKLARING
+Vannledning eksisterende
+Spillvannsledning eksisterende
+Kum eksisterende
+Sluk eksisterende
+Vannledning prosjektert
+Spillvannsledning prosjektert
+Pumpeledning spillvann prosjektert
+Overvannsledning prosjektert
+Drensledning prosjektert
+Kum prosjektert
+Sandfang prosjektert
+Sluk prosjektert
+Brannhydrant prosjektert
+Bakkekran
+ANMERKNINGER
+x
+Ledninger bak bygg legges i sprengningsvolumet mellom bygg og berg.
+x
+Alle ledninger fra sluker til hovedledning overvann skal være DV 160, med
+unntak av der annet er oppgitt.
+x
+Eksisterende slamavskiller 143378 oppgraderes. Eksisterende
+utslippsledning fra denne benyttes videre. Slamavskiller er innmålt.
+Eksisterende ledningskart stemmer ikke overens med innmålt plassering.
+Høyde på ny slamavskiller må tilpasses eksisterende utslippsledning (SP).
+x
+Utslippsledning (OV 500):
+-
+Vektbelastningen på utslippsledningene skal dimensjoneres for 50%
+luftfylling.
+-
+Endearrangement: Underkant skal ligge minst 0,5 m over havbunn, men
+det skal ikke ligge så høyt at det blir et lavbrekk på ledningen innenfor
+endearrangementet.
+-
+Trasé på havbunn er antatt. Ledningstrasé må tilpasses havbunnen.
+x
+Pumpeledning som henges på brua isoleres og det legges varmekabel.
+x
+Drensledninger bak mur og under bygg er ikke modellert, heller ikke
+påkoblingspunktet til hovedsystemet.
+Tilkobling av stikkledning vann til kommunale ledninger
+1
+KOORDINATSYSTEM
+NTM15
+NN2000
+"N:\519\52\5195285\BIM\VA_TI\Arkfil\\LAY_VA.dwg - GuHKl - Plottet: 2020-03-17, 09:39:29 - LAYOUT = VA-01 - XREF = 5195285-Støttemurer- Structural Plan - Grave- sprengningsplan Mur1_NTM15, SS-ARK_NTM15, Bunnledningsplan_NTM15, Salten Smolt - murer_NTM15, T_Eksisterende_VA, sitpl-EUREF89 15 NTM, T_VA"
+Dette dokumentet er utarbeidet av Norconsult AS som del av det oppdraget som fremgår nedenfor. Opphavsretten tilhører Norconsult AS.
+Dokumentet må bare benyttes til det formål som oppdragsavtalen beskriver, og må ikke kopieres eller gjøres tilgjengelig på annen måte eller i større
+utstrekning enn formålet tilsier.
+Tegningsnummer
+Oppdragsnummer
+Revisjon
+Målestokk
+Tegningsnummer
+Revisjon
+1:500
+Salten Smolt
+VA-plan
+VA-01
+Total Betong AS
+5195285
+(gjelder A1)
+H06
+VA-01
+H06
+Rev.
+Fagkontroll
+Dato
+Beskrivelse
+Utarbeidet
+Godkjent
+E01
+2020-01-16
+For godkjennelse hos myndigheter
+GuHKl
+ROl
+ROl
+E02
+2020-02-10
+For godkjennelse hos myndigheter
+GuHKl
+HeEBa
+ROl
+H03
+2020-02-17
+Tegning gjelder kun midlertidige ledninger ifbm. rigg
+GuHKl
+HeEBa
+HeEBa
+H04
+2020-02-29
+Tegning gjelder kun OV500 utslippsledning
+GuHKl
+ROl
+ROl
+H05
+2020-03-06
+Trasé 4 justert
+GuHKl
+HeEBa
+ROl
+H06
+2020-03-13
+Alle traseer gjeldende
+GuHKl
+ROl
+ROl

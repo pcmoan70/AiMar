@@ -1,0 +1,1057 @@
+﻿Strøm Folderøyholmen II 
+Spredningsstrøm 
+ 
+ 
+05/06/2022 
+RB 
+STK 
+ 
+Strøm Folderøyhalmen II 
+Spredningsstrøm 
+05/06/2022 
+RB 
+STK 
+ 
+Content 
+Summary ............................................................................................................................................................. 2 
+Details ................................................................................................................................................................. 3 
+Instrument .....................................................................................................................................................3 
+Configuration .................................................................................................................................................3 
+Quality ...........................................................................................................................................................3 
+Post processing ..............................................................................................................................................3 
+Manually removed data ..................................................................................................................................... 4 
+Statistics .............................................................................................................................................................. 5 
+Sensors ..........................................................................................................................................................5 
+Direction with return period .............................................................................................................................. 6 
+Time series .......................................................................................................................................................... 7 
+Mean speed - roseplot ....................................................................................................................................... 8 
+Max speed - roseplot .......................................................................................................................................... 9 
+Speed histogram ............................................................................................................................................... 10 
+Direction histogram .......................................................................................................................................... 11 
+Direction/Speed histogram .............................................................................................................................. 12 
+Flow .................................................................................................................................................................. 13 
+Progressive vector ............................................................................................................................................ 14 
+Sensors ............................................................................................................................................................. 15 
+Pressure ...................................................................................................................................................... 15 
+Tilt ............................................................................................................................................................... 15 
+Temperature ............................................................................................................................................... 16 
+ 
+ 
+Content 
+Summary 
+2 
+Details 
+3 
+lnstrument 
+3 
+Configuration 
+3 
+Quality 
+3 
+Post processing 
+3 
+Manually removed data 
+4 
+Statistics 
+5 
+Sensors 
+5 
+Direction with return period 
+6 
+Time series 
+7 
+Mean speed - roseplat 
+8 
+Max speed - roseplat 
+9 
+Speed histogram 
+10 
+Direction histogram 
+11 
+Direction/Speed histogram 
+12 
+Flow 
+13 
+Progressive vector 
+14 
+Sensors 
+15 
+Pressure 
+15 
+Tilt 
+15 
+Temperature 
+16 
+Summary
+
+ 
+Details 
+Instrument 
+Head Id 
+AQD 11632 
+Board Id 
+AQD16859 
+Frequency 
+2000000 
+ 
+Configuration 
+File 
+FOL-4302.AQD 
+Start 
+22.02.2022 09:11 
+End 
+07.04.2022 11:11 
+Data Records 
+6349 
+Orientation 
+UP 
+Cells 
+1 
+Cell Size [m] 
+0.680000007152557 
+Blanking Distance [m] 
+0.340000003576279 
+Average Interval [sec] 
+00:01:00 
+Measurement Interval [sec] 
+00:10:00 
+ 
+Quality 
+Low Pressure Treshold 
+0 
+HighTilt Threshold 
+30 
+Expected Orientation 
+UP 
+Amplitude Spike Treshold 
+70 
+Velocity Spike Treshold 
+5 
+SNR Treshold 
+3 
+Correlation Treshold 
+50 
+ 
+Post processing 
+Selected Start 
+22.02.2022 10:41 
+Selected End 
+07.04.2022 11:01 
+Compass Offset 
+0 
+Pressure Offset 
+0 
+Selected Records 
+6339 
+Reference 
+Water Surface 
+Top Depth [m] 
+10 
+Top Invalid Data  
+0 
+Middle Depth [m] 
+20 
+Middle Invalid Data  
+0 
+Bottom Depth [m] 
+30 
+Bottom Invalid Data  
+0 
+ 
+Details 
+Instrument 
+Head Id 
+Board Id 
+Frequency 
+AQD 11632 
+AQD16859 
+2000000 
+Configuration 
+File 
+Start 
+End 
+Data Records 
+Orientation 
+Cells 
+Cell Size [m] 
+Blanking Distance [ml 
+Average Interval [sec] 
+Measurement Interval [sec] 
+FO L-4302.AQD 
+22.02.2022 09:11 
+07.04.2022 11:11 
+6349 
+UP 
+1 
+0.680000007152557 
+0.340000003576279 
+00:01:00 
+00:10:00 
+Quality 
+Low Pressure Treshold 
+High Tilt Threshold 
+Expected Orientation 
+Amplitude Spike Treshold 
+Velocity Spike Treshold 
+SNR Treshold 
+Correlation Treshold 
+0 
+30 
+UP 
+70 
+5 
+3 
+50 
+Post processing 
+Selected Start 
+Selected End 
+Compass Offset 
+Pressure Offset 
+Selected Records 
+Reference 
+Top Depth [m] 
+Top Invalid Data 
+Middle Depth [m] 
+Middle Invalid Data 
+Bottom Depth [ml 
+Bottom Invalid Data 
+22.02.2022 10:41 
+07.04.2022 11:01 
+0 
+0 
+6339 
+Water Surface 
+10 
+0 
+20 
+0 
+30 
+0 
+Manually removed data 
+Start Time 
+End Time 
+Comment 
+ 
+Manually removed data 
+Start Time 
+End Time 
+Comment 
+ 
+ 
+Statistics 
+ 
+Mean current [m/s] 
+0.04 
+Max current [m/s] 
+0.15 
+Min current [m/s] 
+0.00 
+Measurements used/total [#] 
+6339 / 6339 
+Std.dev [m/s] 
+0.02 
+Significant max velocity [m/s] 
+0.06 
+Significant min velocity [m/s] 
+0.02 
+10 year return current [m/s] 
+0.252 
+50 year return current [m/s] 
+0.282 
+Most significant directions [°] 
+150°, 165°, 330°, 285° 
+Most significant speeds [m/s] 
+0.04, 0.06, 0.02, 0.08 
+Most flow 
+293.28m³ / day at 150-165° 
+Least flow 
+49.32m³ / day at 30-45° 
+Neumann parameter 
+0.15 
+Residue current 
+0.01 m/s at 197° 
+Zero current [%] - [HH:mm] 
+6.25% - 00:30 
+ 
+Sensors 
+ 
+Mean 
+Min 
+Max 
+Pressure [dbar] 
+40.67 
+39.93 
+41.36 
+Temperature [°C] 
+7.52 
+6.82 
+8.47 
+Heading [°] 
+181.54 
+0.00 
+359.80 
+Pitch [°] 
+0.21 
+-2.00 
+5.50 
+Roll [°] 
+-0.07 
+-1.80 
+3.20 
+ 
+Statistics 
+Mean current [rn/s] 
+Max current [rn/s] 
+Min current [rn/s] 
+Measurements used/total [#l 
+Std.dev [rn/s] 
+Significant max velocity [rn/s] 
+Significant min velocity [rn/s] 
+10 year return current [rn/s] 
+50 year return current [rn/s] 
+Most significant directions [01 
+Most significant speeds [rn/s] 
+Most flow 
+Least flow 
+Neumann parameter 
+Residue current 
+Zero current [%1 - [HH:mml 
+0.04 
+0.15 
+0.00 
+6339 / 6339 
+0.02 
+0.06 
+0.02 
+0.252 
+0.282 
+150°, 165°, 330°, 285° 
+0.04, 0.06, 0.02, 0.08 
+293.28m3 / day at 150-165° 
+49.32m3 / day at 30-45° 
+0.15 
+0.01 m / s at 197° 
+6.25% - 00:30 
+Sensors 
+Pressure [dbar] 
+Temperature [0C] 
+Heading [01 
+Pitch [01 
+Roll [01 
+Mean 
+40.67 
+7.52 
+181.54 
+0.21 
+-0.07 
+Min 
+Max 
+39.93 
+41.36 
+6.82 
+8.47 
+0.00 
+359.80 
+-2.00 
+5.50 
+-1.80 
+3.20 
+Direction with return period 
+ 
+Direction 
+Mean 
+Max 
+Mean 10y 
+Max 10y 
+Mean 50y 
+Max 50y 
+0 
+0.031 
+0.100 
+0.051 
+0.166 
+0.057 
+0.186 
+45 
+0.028 
+0.074 
+0.046 
+0.121 
+0.051 
+0.136 
+90 
+0.029 
+0.079 
+0.048 
+0.131 
+0.054 
+0.147 
+135 
+0.044 
+0.153 
+0.072 
+0.252 
+0.081 
+0.282 
+180 
+0.038 
+0.131 
+0.063 
+0.217 
+0.071 
+0.243 
+225 
+0.030 
+0.111 
+0.050 
+0.182 
+0.056 
+0.205 
+270 
+0.033 
+0.107 
+0.055 
+0.177 
+0.062 
+0.198 
+315 
+0.037 
+0.114 
+0.062 
+0.187 
+0.069 
+0.210 
+ 
+Direction with return period 
+Direction 
+Mean 
+Max 
+Mean lOy 
+Max lOy 
+Mean soy 
+Max soy 
+0 
+0.031 
+0.100 
+0.051 
+0.166 
+0.057 
+0.186 
+45 
+0.028 
+0.074 
+0.046 
+0.121 
+0.051 
+0.136 
+90 
+0.029 
+0.079 
+0.048 
+0.131 
+0.054 
+0.147 
+135 
+0.044 
+0.153 
+0.072 
+0.252 
+0.081 
+0.282 
+180 
+0.038 
+0.131 
+0.063 
+0.217 
+0.071 
+0.243 
+225 
+0.030 
+0.111 
+0.050 
+0.182 
+0.056 
+0.205 
+270 
+0.033 
+0.107 
+0.055 
+0.177 
+0.062 
+0.198 
+315 
+0.037 
+0.114 
+0.062 
+0.187 
+0.069 
+0.210 
+ 
+Time series 
+ 
+ 
+Time series 
+0,16 
+0.1, 
+0.14 
+0,13 
+0.12 
+0.11 
+0 . 1 
+0.09 
+i 0,08 
+0.07 
+0,06 
+o.os 
+0.04 
+0.03 
+0.02 
+0,01 
+Speed 
+12/04 
+Mean speed - roseplot 
+ 
+ 
+Mean speed - roseplot 
+Mean speed by direction (rn/s) 
+0 
+18D 
+ 
+Max speed - roseplot 
+ 
+ 
+Max speed - roseplot 
+Milximurn speed by direction ( m / s ) 
+0 
+2 7 0 
+180 
+Speed histogram 
+ 
+ 
+Speed histogram 
+3,000- 
+Speed histogram 
+2,SOO-t 
+2,000-i 
+l:3 
+§ 
+1,SOO 
+8 
+1,000 
+500 
+0--L 
+I - - 
+" 
+" 
+" 
+" 
+" 
+" 
+" 
+" 
+" 
+0 
+" 
+t 
+"o 
+i 
+i 
+... 
+·-;, 
+... 
+.... 
+- 
+;., 
+;, 
+.. 
+.. 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+" 
+" 
+·i 
+·i 
+- 
+- 
+... 
+·-;, 
+,;. 
+"-;, 
+:.., 
+;., 
+m/s 
+ 
+Direction histogram 
+ 
+ 
+Direction histogram 
+soo 
+Direction histogram 
+450 
+400 
+350 
+300 
+;l § 250 
+200 
+150 
+100 
+50 
+0 
+ 
+0 
+ 
+'& .. 'i', 
+_, 
+,,, 
+,,, 
+ 
+'f, 
+t,, 
+f, 
+-' .. 
+... " 
+- 
+i i   i  
+i i % i t i 1 i i t i t t 
+1 
+• 
+1 
+• 
+' 
+• 
+1 
+• 
+1 
+• 
+I 
+• 
+I 
+• 
+I 
+• 
+I 
+' 
+ i 
+Direction/Speed histogram 
+ 
+ 
+ 
+Direction/Speed histogram 
+m/s 
+Directioll/,peed matrix 
+0.00 
+15 
+30 
+45 
+60 
+75 
+90 
+105 
+120 
+135 
+150 
+165 
+180 
+195 
+210 
+225 
+240 
+255 
+270 
+285 
+300 
+315 
+330 
+345 
+360 
+% 
+Sum 
+0.02E 
+38 
+52 
+56 
+44 
+45 
+44 
+52 
+48 
+44 
+22.2 1407 
+0.041 
+75 
+65 
+78 
+69 
+73 
+I 
+42.2 2672 
+0.06 
+40 
+34 
+23 
+24 
+30 
+30 
+33 
+56 II 
+42 
+26.0 1648 
+0.08 
+6 
+0 
+4 
+4 
+13 
+20 
+19 
+37 
+30 
+21 
+9 
+7.0 
+443 
+0.10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+8 
+27 
+30 
+13 
+4 
+2 
+0 
+0 
+0 
+2 
+4 
+7 
+6 
+0 
+1.7 
+106 
+0.12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+16 
+19 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.7 
+47 
+0.14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.1 
+0.16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.1 
+4 
+0.18 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+0 
+0.20 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+0 
+% 
+3A 
+2.4 
+2.2 
+2.5 
+2.3 
+2A 
+3.9 
+3.9 
+4.7 
+7.3 
+7.1 
+5.1 
+5.2 
+3.9 
+2.9 
+3.5 
+3.6 
+3.4 
+5.6 
+5.5 
+5.2 
+6.1 
+4.8 
+3.2 
+100.0 100.0 
+Sum 217 
+151 
+140 
+161 
+145 
+152 
+246 
+245 
+299 
+461 
+450 
+322 
+327 
+247 
+183 
+221 
+231 
+214 
+355 
+347 
+329 
+384 
+302 
+203 100.0 6332 
+Flow
+
+Flow per day (m”3/m”2/d)
+
+Progressive vector 
+ 
+ 
+Progressive vector 
+PrO!J ressive vect:or path 
+2- 
+o- 
++ 
++ 
+- 2 - 
++- 
++- 
++- 
+- 4 - 
++ 
++ 
++ 
+- 6 - 
+t 
+t 
+t 
+- 8 - 
++ 
++ 
++ 
+] 
+- 1 0 - 
+t 
+t 
+t 
+-12- 
++ 
++ 
++ 
+- 1 4 - 
+t 
+t 
+t 
+- 1 6 - 
++- 
++- 
++- 
+- 1 8 - 
++ 
++ 
++ 
+-20 
+-18 
+-16 
+-14 
+-12 
+- 1 0 
+-8 
+-6 
+-4 
+-2 
+4 
+10 
+12 
+14 
+km 
+ 
+Sensors 
+Pressure 
+ 
+Tilt 
+ 
+Sensors 
+Pressure 
+41.4- 
+41.3 
+41.2- 
+41.1- 
+4 1 - 
+40.9- 
+40.8- 
+40.7- 
+i 
+40.6 
+40.5- 
+40.4 
+40.3- 
+40.2 
+40.1- 
+40 
+3 9 : i v o , 
+01/03 
+oaioa 
+Tilt 
+6- 
+s.s- 
+s- 
+4.S- 
+4- 
+3,S 
+Pressure 
+1:S/03 
+, J o a 
+29/03 
+a,/04 
+1 2 / 0 4 
+Tilt 
+2,S 
+1.S- 
+1 2 / 0 4 
+Temperature 
+ 
+ 
+Temperature 
+8.S- 
+Temperature 
+8 . 4 - 
+8,3 
+8,2 
+8.1 
+7.9- 
+7,8 
+7.7- 
+;' 
+7.6- 
+7.S 
+7.4- 
+7,3- 
+7.2 
+7.1- 
+7- 
+6,9 
+6 . 8 - , 
+oJoa 
+2 2 / 0 2 
+0 8 / 0 3 
+1 5 / 0 3 
+22/03 
+2 9 / 0 3 
+05104 
+1 2 / 0 4

@@ -1,0 +1,622 @@
+﻿Matrise for kartlegging av risiko 
+Tall og farge i tabellen under illustrerer sannsynlighet, konsekvens og risiko for smitte, sykdom og dødelighet. Sannsynlighet og konsekvens scores fra 1 – 4, 
+der 1 er best og 4 er dårligst/alvorligst. Høyest oppnåelig risiko vi dermed få score 16, mens lavest vil få score 1.  
+ 
+Konsekvens 
+Sannsynlighet 
+1 
+2 
+3 
+4 
+4 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+Liten risiko – ingen tiltak nødvendig 
+ 
+Middels risiko – vurdere tiltak (om mulig) 
+ 
+Stor risiko - uakseptabelt 
+ 
+Sannsynlighet (S) x Konsekvens (K) = Risiko (R) 
+ 
+Beskrivelse av sannsynlighet 
+1: Lite sannsynlig, hvert 10. år 
+3: Stor sannsynlighet, hvert utsett / generasjon, 12 – 16 
+mnd. 
+2: Sannsynlig, hvert 3 – 5 år 
+4: Svært sannsynlig, hvert år 
+ 
+Beskrivelse av konsekvens 
+1: Lav dødelighet 
+3: Høy dødelighet 
+2: Forøket dødelighet 
+4: Massedød / alvorlig forvaltningsmessig konsekvens 
+ 
+ 
+Risikomatrise for vurdering av Vannkvalitet og Fiskevelferd 
+Landbasert gjennomstrømmingsanlegg 
+ 
+ 
+Fare/parameter 
+Faremoment / årsak 
+Forebyggende / risikoreduserende tiltak 
+Dropp i O2 nivå pga. forhøyet tetthet/biomasse kan medføre respirasjonsproblemer som 
+kan føre til nedsatt appetitt og i verste fall dødelighet.  
+ 
+Høy O2 metning kan føre til økt dødelighet i anlegg. 
+ 
+Redusert vekst og ryggdeformiteter kan oppstå av høye O2 verdier over tid. 
+ 
+(Høye nivåer av O2 i vannet kan være giftig for fisk og frie O2 radikaler dannes i vannet ved 
+bruk av ozon)  
+ 
+ 
+Grenseverdier: (1) 
+Optimal verdi mellom 80 – 120 % metning uansett temperatur.  
+ 
+ 
+- Tettheten i anlegget/hvert kar skal ikke overstig maksimal planlagt biomasse. 
+- Oksygentilsetning økes med økende biomasse og tilpasses fisketetthet.  
+- Det skal settes O2 alarm ved en nedre og en øvre grense.  
+- O2 skal i tillegg ha automatisk regulering basert på grenseverdier definert av drift. 
+- Tilsetning av O2 til hovedstrøm inn til karene med kjegler i hver enhet. 
+- Hoved levering fra separate oksygen innløser (styrt av oksygensensor). 
+- Nød-oksygenerings-anlegg for sekundærforsyning ved evt. strømbrudd. 
+- Kontinuerlig overvåking av O2 verdier i hvert kar med alarmsystemer koblet opp til vakthavende. Måling i basseng, råvann, 
+midt i karet, avløp.  
+- Alarmsystemet skal være innstilt slik at alarmen går dersom O2 metning går over eller under satte verdier.  
+- Oksygennivåer blir regulert kontinuerlig av overvåkningsanlegg der dropp under nedre grenseverdi fører til start av nød-
+oksygenering. 
+- Nivå i lagertank for oksygen blir logget av overvåkningsanlegg og i tillegg av gassleverandør. 
+- Reservepumper til oksygenering på lager. 
+- Det skal føres oversikt over oksygenforbruk. 
+ 
+ 
+Oksygen 
+S = 2 
+K = 3 
+Risiko = 6 
+S = 1 
+K = 2 
+Reell risiko = 2 
+Høye CO2 verdier pga. høy tetthet kan føre til reduksjon i vannets pH-verdi. Høy 
+fisketetthet i kombinasjon med lavt vannforbruk og stort forbruk av oksygen vil øke CO2 
+ 
+Kvelning av fisk pga. høye CO2 verdier (hyperkapni) 
+ 
+Høye eller brå endringer i CO2-nivåer gir redusert vekst  
+ 
+CO2 kan være en bidragsyter til utvikling av nefrokalsinose, men mekanismen rundt er ikke 
+kjent 
+ 
+Høye CO2 verdier kan føre til utvikling av misdannelser i ryggvirvelen når fisken blir stor 
+ 
+Grenseverdi: (1) 
+Maksimum 15 mg/L  
+ 
+- Sensorer for CO2 plasseres i karene, i innløpssystemet, og i hvert bygg 
+- Sensorer for CO2 plasseres i avløp. 
+- Ved 100 % gjennomstrømning er det lav sannsynlighet for opphoping av CO2.  
+- Ved gjenbruk av vann skal CO2 reguleres ved følgende: 
+a) Ved å øke vann flow over CO2 lufterene. 
+b) Ved å øke tilsetning av friskt sjøvann.  
+- Lufterene har god kapasitet, to stk. pr. kar med total kapasitet på 46 m3 /min.  
+ 
+ 
+ 
+Vannkvalitetsparametere 
+CO2 
+S = 2 
+K = 3 
+Risiko = 6 
+S = 1 
+K = 1 
+Reell risiko = 1 
+Risikomatrise for vurdering av Vannkvalitet og Fiskevelferd 
+Landbasert gjennomstrømmingsanlegg 
+ 
+ 
+Fare/parameter 
+Faremoment / årsak 
+Forebyggende / risikoreduserende tiltak 
+Lav pH som følge av høy CO2 (metabolisme) og nitrifikasjonsprosessen i biofilter 
+ 
+Utfelling av metaller fra ferskvann 
+ 
+Økt pH gir høyere konsentrasjon av NH3 som er giftig for fisken i større mengder 
+ 
+Lave/suboptimale pH verdier i biofilter kan føre til nitrittakkumulering siden de 
+nitrittoksiderende bakteriene er mer pH-sensitive enn de ammoniumoksiderende 
+bakteriene. 
+ 
+Lav pH over tid vil også gi negativ fysiologisk respons hos laks og det kan medføre 
+dødelighet. Smolt taper plasmaklorider og slimceller i huden.  
+ 
+Grenseverdi: (1) 
+pH må ikke være under 6,5 over lengre tid.  
+ 
+- pH-elektroder som kan logge/måle pH i karene, ved avløp. 
+- Effektiv CO2 fjerning ved å øke inntak av friskt sjøvann.  
+- Lufte CO2 ut av vannet som gjenbrukes. 2 stk. CO2 luftere tilknyttet hvert kar. Lufterene har god kapasitet, to stk. pr. kar 
+med total kapasitet på 46 m3 /min.  
+- Bruk av sjøvann reduserer sannsynligheten for problemer med metaller.  
+- Sjøvanns naturlige pH, normalt omkring 8.  
+ 
+ 
+pH 
+S = 1 
+K = 3 
+Risiko = 3 
+S = 1 
+K = 1 
+Reell risiko = 1 
+Enkelte forbindelser som for eksempel NH3 i vann kan bli giftigere med økende 
+temperatur. Dette kan føre til akkumulering av disse forbindelsene (f.eks. NH3) som igjen 
+kan føre til dødelighet 
+ 
+Lav temperatur kan gi nedsatt appetitt og tilvekst 
+ 
+Endringer i temperatur kan være en stressfaktor som kan svekke immunforsvaret og føre 
+til svekket fisk.  
+ 
+Grenseverdier: (1) 
+Maks anbefalt øvre grense: 18 grader C. 
+Min anbefalt nedre grense: 6 grader C.  
+ 
+- Temperatursensorer i hvert kar og i innløpssystemet. 
+- Temperaturen i driftsvann vil følge naturlig sjøtemperatur og vil variere iht. sesong.  
+- Det er usannsynlig med overskridelse av målverdier.  
+- Det er usannsynlig at inntaksvannet når verdier over 18 grader C.  
+- Tiltak ved kalde temperturer: 
+- Minst mulig håndtering av fisk.  
+ 
+Temperatur 
+S = 1 
+K = 2 
+Risiko = 2 
+S = 1 
+K = 1 
+Reell risiko = 1 
+Kan føre til osmotisk stress ved hyppige eller brå endringer. 
+ 
+ 
+ 
+- Salinitet vil ikke overskride 34 ppt og vil fortrinnsvis ligge på 30-34 ppt i sjøvannsavdelingene (fiskehelse og fiskevelferd 
+kan forbedres ved lavere salinitet). 
+- Salinitet måles i filterstasjon og før partikkelfilter ved inntaksvannet.  
+- Følger sjøvanns naturlige salinitet.  
+- Ingen risiko for brå endringer i salinitet, da sjøinntak ikke ligger ved elveutløp, brakkvann eller sone for avrent smeltevann.  
+  
+ 
+Salinitet 
+S = 1 
+K = 3 
+Risiko = 3 
+S = - 
+K = - 
+Reell risiko = - 
+Risikomatrise for vurdering av Vannkvalitet og Fiskevelferd 
+Landbasert gjennomstrømmingsanlegg 
+ 
+ 
+Fare/parameter 
+Faremoment / årsak 
+Forebyggende / risikoreduserende tiltak 
+Gassovermetning skjer ved økning i temperatur i lukket krets. Kan forårsake 
+gassblæresyke.  
+ 
+Tegn på overmetning er relatert til prosent gassmetning, forhold mellom O2 og N2, og 
+eksponeringstid. 
+ 
+Langtidseksponering av subletal nivåer kan føre til katarakt og finneskader. 
+ 
+Liten fisk påvirkes lettere enn stor fisk. 
+ 
+Tålbart/betinget opp til 109.  
+Gassblæres, Kritisk ved 109-116%. 
+ 
+-Jevnlig måling av total gassmetning 
+-Kontroll av tekniske installasjoner, blant annet med pumper og vannrør for å unngå at de suger inn luft  
+-Kontrollere oppholdstid og virkningsgrad i lufter. 
+-Problemene ved gassblæresykdom kan forsvinne hvis vannet kommer i likevekt.  
+ 
+ 
+ 
+ 
+TGP 
+S = 1 
+K = 3 
+Risiko = 3 
+S = 1 
+K = 1 
+Reell risiko = 1 
+Høy tetthet tilfører mer organisk materiale til systemet som kan gi grobunn for 
+bakterievekst. Kan virke stressende overfor fisk med tanke på adferds interaksjoner.  
+ 
+Høy tetthet kan redusere tilvekst, gi dårlige fiskevelferd og øke dødeligheten og forårsake 
+finneskader og skjelltap. 
+ 
+Større krav til oksygen og generell opprettholdelse av god vannkvalitet ved høyere 
+fisketetthet 
+ 
+Tålbart inntil 100 kg/m3. Høy risiko for redusert vekst og velferd ved verdier over 100. 
+ 
+-Høyeste tetthet ihht. produksjonsplan er 75 kg/m3, fisk vil bli flyttet/sortert eller slaktet ut før en overskrider dette nivået.  
+-God planlegging av produksjon med oppskalering som tar høyde for lav tetthet i startfasen. 
+-Anlegget er dimensjonert i forhold til maksimum biomasse. 
+-Registrering av fisketetthet på kar-nivå. 
+-Mål på minimum vanntilførsel på liter/m3 karvolum/min. 
+-Vannmengden justeres i takt med vekst i biomasse. 
+-Fisken sorteres ut når den nærmer seg øvre tetthetsgrense iht. produksjonsplan. 
+-Egen prosedyre for sortering, splitting og flytting. 
+-Biomasse splittes til flere enheter under overførsel. 
+ 
+Tetthet (2) 
+S = 2 
+K = 3 
+Risiko = 6 
+S = 2 
+K = 2 
+Reell risiko = 4 
+Mindre toksisk i sjøvann. 
+ 
+Giftigheten påvirkes i stor grad av vannets pH. 
+ 
+Giftige nivåer av nitritt gir skader på gjellevev og tymus, reduserer oksygentransport i 
+blodet, som påvirker svømmeaktivitet og tilvekst.  
+ 
+Grenseverdi: (1) 
+< 0,1 mg/L NO2-N i ferskvann 
+< 0,5 mg/L NO2-N i sjøvann 
+ 
+- Lav risiko for nitrittakkumulering og/eller -forgiftning pga. 100 % sjøvann. 
+ 
+Nitritt 
+S = 1 
+K = 3 
+Risiko = 3 
+- 
+- 
+- 
+Risikomatrise for vurdering av Vannkvalitet og Fiskevelferd 
+Landbasert gjennomstrømmingsanlegg 
+ 
+ 
+Fare/parameter 
+Faremoment / årsak 
+Forebyggende / risikoreduserende tiltak 
+Under normale forhold vil ikke nitrat være skadelig / giftig for fisk.  
+ 
+Biofilterets størrelse er avgjørende for utregning av grenseverdier for maksimalt 
+akkumulert nitrat.  
+ 
+Grenseverdi: (1) 
+≤ 100 mg/L NO3-N 
+ 
+- Lav risiko for nitratakkumulering og/eller -forgiftning i matfisk-avdelingen. 
+- Ingen fare for akkumulering ved opptil 25 % daglig utskifting av totalt vannvolum. (1) 
+ 
+Nitrat 
+S = 1 
+K = 2 
+Risiko = 2 
+- 
+- 
+- 
+Giftigheten påvirkes i stor grad av vannets pH. 
+ 
+Kan medføre akutt eller sub-akutt dødelighet og gjelleskade 
+ 
+Kan føre til stress hos fisken, redusere tilvekst, påvirke plasmakortisol, respirasjon og 
+sirkulasjon, metabolske faktorer mm. 
+ 
+Grenseverdi: (1) 
+< 2 mg/L (total TAN) 
+Kortsiktig = maksimum 0,1 mg/L (NH3-N) 
+Langsiktig = maksimum 0,012 mg/L (NH3-N) 
+ 
+- Vannbehandlingssystemet fjerner risiko for ammoniakk/ammoniumforgiftning. 
+- Verdier overvåkes iht. prøvetakingsplan. 
+- Normalt lav betydning i sjøvann.  
+ 
+TAN 
+S = 1 
+K = 2 
+Risiko = 2 
+- 
+- 
+- 
+Kan føre til akutt dødelighet pga. gassdannelse i kar.  
+ 
+Områder i kar med slamansamlinger og for tykk biofilm (fôr-spill/feces) kan gi produksjon 
+av H2S under anaerobe forhold. 
+ 
+Som regel et problem i RAS ved bruk av brakkvann eller rent sjøvann.  
+Avhengig av pH  farligere ved lavere pH.   
+ 
+Grenseverdi:  
+Det eksisterer flere anbefalte grenseverdier, men det er lite info generelt:  
+<0,2 µg/L ferskvann (5) (4) (5) 
+<0,5 µg/L sjøvann (4) 
+Dødelig ved >25 µg/L. (4) 
+ 
+- Automatisk måling av H2S.  
+- Ved akutte høye H2S verdier økes oksygen tilsetningen og vannutskifting i karet, og det kan tilsettes nitrat. 
+- Luftes ut i CO2 lufterene.  
+- Regelmessig vask av kar, fjerning av organisk materiale. 
+- Optimalisering av vannstrøm i karene. 
+- Bruk av materialer med glatt overflate. 
+- Optimal biomasse i kar. 
+- Gjennomspyling av rør (unngå «dødvann»). 
+- Turbiditet (mengde små partikler i vannet) bør også overvåkes.  
+ 
+ 
+H2S (3) (4) (5) 
+S = 2 
+K = 4 
+Risiko = 8 
+S = 1 
+K = 4 
+Reell risiko = 4 
+Risikomatrise for vurdering av Vannkvalitet og Fiskevelferd 
+Landbasert gjennomstrømmingsanlegg 
+ 
+ 
+Fare/parameter 
+Faremoment / årsak 
+Forebyggende / risikoreduserende tiltak 
+Utilstrekkelig fjerning av partikler i vannet forringer vannkvaliteten noe som kan gi kronisk 
+stress og føre til utvikling av sykdommer. 
+ 
+Høy TSS (totalt suspendert tørrstoff – både organisk og uorganiske partikler) gir større 
+krav til oksygen, tilstedeværelse av mikroorganismer assosiert med partikler som 
+produserer CO2, eller tilstedeværelse av patogene.  
+ 
+Kan føre til utilstrekkelig vanndesinfisering (UV/ozon). 
+ 
+Opphoping kan gi anaerobe soner fra slamsamlinger i rør og kar. Dette kan føre til 
+dannelse av giftig metangass og H2S. 
+ 
+Foreslått anbefalt grense:  
+15 mg/L TSS (totalt suspendert stoff) (1) 
+- Alt sjøvann inn på anlegget gjennomgår partikkelfjerning med partikkelfilter (150 µm) og desinfisering med UV (ved 
+normal drift ca. 200 mJ/cm2) før vannet kommer til karene. 
+- Bruk av selvrensende sirkulære karenheter. 
+- Regelmessig utskifting av vann for å fjerne partikler og avfallsstoffer. 
+- Tilpasset fôr som tåler mekanisk påvirkning og er stabilt i vann. 
+- Hindre overfôring med overflødig fôrspill. 
+ 
+Partikler i vann 
+S = 2 
+K = 2 
+Risiko = 4 
+S = 2 
+K = 1 
+Reell risiko = 2 
+UV-systemets effekt påvirkes kraftig av vannets grums (partikler, humussyrer, organiske 
+forbindelser) siden slike komponenter absorbere, reflektere eller skygge for UV-stråling, 
+noe som beskytter mikroorganismer.  
+ 
+Feil eller teknisk svikt av UV-lamper vil påvirke desinfiseringsprosessen. Det kreves godt 
+vedlikehold av UV-lamper mtp. fjerning av biofilm og bytte av svake rør. 
+ 
+- Alt sjøvann inn på anlegget gjennomgår partikkelfjerning med partikkelfilter (150 µm) og desinfisering med UV (ved 
+normal drift ca. 200 mJ/cm2) før vannet kommer til karene. 
+- Driftskontroll med analyse av vann før/etter UV-behandling utføres regelmessig ihht. krav. 
+- UV anlegget har egen vedlikeholds prosedyre inklusiv frekvens for rengjøring/skifte av UV-rør. 
+ 
+Vannbehandling 
+UV-behandling 
+S = 1 
+K = 3 
+Risiko = 3 
+S = 1 
+K = 2 
+Reell risiko = 2 
+Svømming som en form for trening kan ha en positiv effekt på laksen i form av økt vekst, 
+proteinomsetning, sterkere hjerte høyere blodstrøm og ulike fysiologiske forbedringer. 
+For høy strømhastighet kan ha negative effekter på ytelse, selv om de er innenfor hva 
+laksen greier å svømme i. For lav strømhastighet kan også ha negative fysiologiske 
+effekter på laksen, samt øke negative interaksjoner mellom individene og derav redusere 
+velferden.  
+ 
+Foreløpig ingen grenseverdier på hva som anses som optimal strømhastighet for laksen å 
+svømme i.  
+ 
+Absolutt kritisk svømmehastighet for laksesmolt er 64 – 109 cm/s, og øker med 
+kroppslengde og temperatur. (1) 
+ 
+- Svært lav risiko for sub-optimal strømhastighet ved landbasert anlegg, da strømhastigheten kan reguleres.  
+- Vil ikke være utsatt for vær og vind i samme grad som ved åpen merd i sjø.  
+- Velferd vil overvåkes ifm. strømstyrke i karene.  
+ 
+Strømhastighet 
+S = 2 
+K = 1 
+Risiko = 2 
+- 
+- 
+- 
+Redusert vannkvalitet 
+Utslipp til resipient. 
+- System for oppsamling av fôr-søl 
+- Godt designede selvrensende kar med optimal hydraulikk og utløp. 
+- Grundig nedvask ved tømming av kar, og før innflytting av ny fisk. 
+ 
+Daglig 
+fôring
+Overfôring 
+S = 2 
+K = 2 
+Risiko = 4 
+S = 2 
+K = 1 
+Reell risiko = 2 
+Risikomatrise for vurdering av Vannkvalitet og Fiskevelferd 
+Landbasert gjennomstrømmingsanlegg 
+ 
+ 
+Fare/parameter 
+Faremoment / årsak 
+Forebyggende / risikoreduserende tiltak 
+Tap av tilvekst. 
+ 
+Kan utløse stress, napping og sår blant. 
+-Tilsyn og vedlikehold av fôringssytemet. 
+- Håndfôring ved behov, langvarig stans. 
+Stans i fôring 
+S = 2 
+K = 1 
+Risiko = 4 
+S = 1 
+K = 1 
+Reell risiko = 1 
+Smitte til tilsynelatende frisk fisk fra dødfisk eller svimer- og sårfisk kan føre til spredning 
+av patogener i anlegget og i verste fall dødelighet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Grundig og daglig visuell kontroll av alle karenheter.  
+- Daglig fjerning av død/svimer/sårfisk.  
+- Bruk av egne utstyr per kar til håndtering av dødfisk. 
+- Grundig desinfisering av utstyr hver dag. 
+- Eget utstyr til dødfiskhåndtering pr kar for å hindre potensiell smitte mellom karene. 
+Dødfiskhåndtering 
+Sykdomsspredning 
+S = 2 
+K = 3 
+Risiko = 6 
+S = 1 
+K = 3 
+Reell risiko = 3 
+Stress ved transport. 
+ 
+Håndtering av sultet/stresset fisk. 
+ 
+ 
+ 
+ 
+ 
+- Skånsom håndtering ved flytting. 
+- Prosedyre for flytting og transport av fisk. 
+- Grundig opplæring av personell som er involvert i levering. 
+ 
+Levering av slaktefisk 
+Fiskehelse / velferd 
+S = 2 
+K = 2 
+Risiko = 4 
+S = 1 
+K = 2 
+Reell risiko = 2 
+Introduksjon av patogener (virus, bakterier og parasitter i avdelingen) via smolt eller 
+sjøvannsinntak kan gi sykdomsutbrudd.  
+ 
+Etablering av patogener i avdelingen kan gi vedvarende problem med utvikling av sykdom 
+og dødelighet. 
+ 
+- Screening for relevante agens. 
+- Grundig helsesjekk av smolt (m helseattest) før overføring til sjøvannsfasen med risikobasert helsekontroll. 
+- Strenge smittehygieniske rutiner etter prosedyre. 
+- Grundig opplæring av personale om hygiene, biologi og smitte. 
+- Grundig vask og desinfeksjon ved tømming av kar og innlegg av smolt. 
+Smitte (generelt) 
+S = 2 
+K = 3 
+Risiko = 6 
+S = 1 
+K = 2 
+Reell risiko = 2 
+All overføring/mottak av fisk er kritiske prosesser som vil stresse fisk i større eller mindre 
+grad, der rom for feil kan føre til dødelighet. 
+ 
+Stress kan gi nedsatt immunitet, som igjen kan føre til utbrudd av sykdom. 
+- Erfarent personell ved overføring og mottak av fisk.  
+- Gode rutiner ved flytting av fisk.  
+- Daglig plukking av svimere og destruksjon av dødfisk.  
+Stress 
+S = 4 
+K = 2 
+Risiko = 8 
+S = 2 
+K = 2 
+Reell risiko = 4 
+Fysiske skader kan oppstå under overføring til nye kar som fører til varige skader som kan 
+resultere i svekket fisk eller senere dødelighet. 
+ 
+- Grundig sjekk av alt utstyr mtp. riktig dimensjonering som skal være i kontakt med fisk. 
+- Glatte overflater, ingen skarpe kanter. 
+- Vurdere sedering av fisk før håndtering. 
+- Jevnlig vedlikehold av installasjoner. 
+ 
+Overføring og mottak 
+Mekanisk skade 
+S = 3 
+K = 2 
+Risiko = 6 
+S = 2 
+K = 2 
+Reell risiko = 4 
+Risikomatrise for vurdering av Vannkvalitet og Fiskevelferd 
+Landbasert gjennomstrømmingsanlegg 
+ 
+ 
+Fare/parameter 
+Faremoment / årsak 
+Forebyggende / risikoreduserende tiltak 
+Stress kan gi nedsatt immunitet, som igjen kan føre til utbrudd av sykdom. 
+ 
+Systemsvikt og opphold av fisk i rørsystem.  
+ 
+Mekanisk skade. 
+ 
+- Skånsom flytting av fisk ved hjelp av kanal mellom karene. 
+- Hvert kar er utstyrt med en oksygensensor som sørger for at O2 nivået i karene holdes stabilt til enhver tid, og et nød-
+oksygenanlegg. 
+- Jevnlig og grundig vedlikehold av utstyr og reservesystemer skal hindre driftsstans.  
+ 
+Sortering 
+Stress 
+S = 4 
+K = 2 
+Risiko = 8 
+S = 2 
+K = 2 
+Reell risiko = 4 
+ 
+  
+ 
+Referanser 
+1. Nobel, C., Nilsson, J., Stien, L. H., Iversen, M. H., Kolarevic, J. & Gismervik, K. Velferdsindikatorer for oppdrettslaks: Hvordan vurdere og dokumentere 
+fiskevelferd. Tromsø : Lundblad Media AS, 2018. 
+2. Calabrese, Sara. Environmental and biological requirements of post-smolt Atlantic salmon (Salmo salar L.) in closed-containment aquaculture systems. 
+Bergen : UiB, 2017. 
+3. Ebeling, James M., and Michael B. Timmon. Recirculating aquaculture. NY, USA : Cayuga Aqua Ventures Llc, 2010. ISBN 978-0-9712646-2-5. 
+4. Juel, Henrik Hamann. Solving the problem of hydrogen sulfide on a fish farm. [Internett] : "https://www.innovationnewsnetwork.com/solving-the-
+problem-of-hydrogen-sulfide-on-a-fish-farm/5794/", 2020. 
+5. Åse Åtland, Jacob Drivenes, Børn Dørum, Sigurd Handeland, Carlos Letelier-Gordo og Paula Rojas-Tirado. Nye løsninger på H2S-utfordringer i RAS-
+anlegg. Norsk Fiskeoppdrett. 1, 2020, Vol. 2020, 1. 
+6. Mattilsynet. Vannkvalitet relatert til dyrevelferd. Trondheim : Mattilsynet , 2004. Opprdagsnr.: 200440 / 11 88 67.

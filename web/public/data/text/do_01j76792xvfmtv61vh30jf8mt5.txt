@@ -1,0 +1,724 @@
+﻿Marine 
+    Construction as 
+A 
+2016.10.06 
+Søknad 
+AG 
+THR 
+KM 
+Rev 
+Dato 
+Utgitt for 
+Laget av 
+Sjekket av 
+Godkjent av 
+Tittel: 
+Teknisk beskrivelse av Nedtrekksløsning for Havmerd 
+Prosjekt: 
+Kunde: 
+Antall sider: 
+3160 Havmerd 
+30 + Vedlegg 
+Konfidensialitet: Konfidensielt. Dokumentet kan kun deles innenfor prosjektet 
+44 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+1 Innledning 
+Norsk olje og gassindustri har i lengre tid arbeidet med å senke produksjons installasjoner til 
+havbunnen og underveis løst en rekke utfordringer med å operere tekniske anlegg på til dels store 
+dyp. 
+Norsk havbruksnæring har som oljeindustrien hatt behov for å sikre teknisk utstyr og 
+driftsoperasjoner mot havari og feil som kan føre til miljøforurensing, rømming, og fare for 
+personellets sikkerhet. 
+Havbruksnæringens teknologileverandører har sammen med næring og forvaltning således over de 
+siste 10-15 år hatt betydelig fokus på robuste løsninger. Utviklingskonsesjonene forutsettes å ha 
+samme siktemål og vedlagte søknad påstår å ha løst en teknologisk utfordring på en robust måte. 
+Så lenge som havbruksnæringen har vært industrialisert har det å senke merdene under vann vært 
+omsnakket og delvis utprøvd. Det er både biologiske og tekniske utfordringer med slik nedsenkning 
+av merder. Nyere forskning gir ny kunnskap om hvor lenge og under hvilke omstendigheter fisk kan 
+tvangs-senkes under vann. Teknologisk har det i stor grad dreid seg om ballastering. 
+Vedlagte søknad er en unik teknologisk løsning som kombinerer teknologi fra olje og gass industrien 
+med eksisterende havbruksteknologi for å på en mye sikrere og kontrollerbar måte enn tidligere 
+senke og heve merder i havrommet. 
+Vi forutsetter at vår løsning gir grunn til å benytte en større del av norskekysten til havbruk på en 
+sikker og forutsigbar måte til havbruksinstallasjoner. 
+45 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+2 Sammendrag 
+Hensikten med denne tekniske beskrivelsen er å gjennomgå det tekniske rundt Marine Constructions 
+konsept med nedsenkbar havmerd for oppdrett av laks. Beskrivelsen tar både for seg hver enkelt 
+hovedkomponent og hvordan systemet skal fungere som helhet. De ulike komponentenes tekniske 
+modenhet og usikkerhet knyttet til teknologien er beskrevet. 
+Konseptet er en unik nedtrekksteknologi. Mange del-løsninger er metoder og teknologi kjent fra 
+subsea olje- og gassproduksjon. Hovedvekten i denne rapporten er lagt til de komponentene og den 
+delen av systemet som er ukjent for havbruksnæringen. Teknologi og metoder som per i dag er i 
+konvensjonell drift er derfor ikke utfyllende beskrevet. 
+Rapporten beskriver Marine Constructions løsning for nedsenkbar havmerd. Nedsenkningen har to 
+hovedfunksjoner; beskytte laksen mot lusepåslag i de øvre vannmassene og beskytte installasjonen 
+ved høy sjøgang. 
+Anlegget tar utgangspunkt i at havbruksanlegg må ha mulighet for nedsenkning i vannmassene. 
+Nedtrekket blir gjort av en unik vinsj som er montert på havbunnen. Selve merden vil derfor til 
+enhver tid ha positiv oppdrift. Drift og styringssystem for vinsjen blir koblet opp mot en foringsflåte 
+som blir lokalisert tett opp til anlegget. Derfra kan styringen videreføres til et sentralt kontrollrom 
+som kan kontrollere flere lokasjoner samtidig. 
+Selve merden er spesialdesignet for nedsenkning og består av rammefortøyning, flytekrage, not, og 
+spesielle bunnringer. Disse komponentene er dimensjonert for å møte miljølaster og laster internt fra 
+vinsjen. Preliminære strukturelle analyser er utført på hovedkomponentene i anlegget. 
+Hoveddimensjoner er fastsatt og den strukturelle integriteten er funnet tilfredsstillende for formålet. 
+Nedtrekksanordningen er det primære nyhetselementet i dette nye systemet. Den er basert på 
+komponenter og metoder kjent fra subsea prosessanlegg for olje og gass, men satt sammen på en 
+helt ny måte. Selve vinsjen er ikke et produkt som kan kjøpes hos leverandører innenfor 
+offshorebransjen i dag. Den består av en vinsj drevet av en elektrisk motor med reduksjonsgir. Selve 
+trommelen for oppspoling av tau må designes spesielt for dette anlegget, men utover dette er 
+komponentene er i stor grad standard komponenter. Siden komponentene er serieproduserte og 
+godt utprøvd, er det ikke knyttet stor usikkerhet til disse. Den største usikkerhet ligger da på 
+systemet som helhet og selve trommelen. Rapport fra ABB konkluder med at sannsynligheten for at 
+systemet ikke møter kravet til ytelse er relativ lav. Om det skulle inntreffe noe uforutsett vil det i 
+midlertid kunne ha stor påvirkning for prosjektet. Utvikling av komponenter for bruk subsea kan ha 
+betydelig innvirkning på både prosjektets kost og plan. 
+Videre er det avledet teknologi for å støtte opp under anvendelighet og kontroll av den nedtrekkbare 
+merden. For å kunne på en effektiv måte kontrollere anlegget i nedsenket tilstand er det tenkt 
+benyttet en AUV. Denne vil bli forhåndsprogrammert til å overvåke merden i med tanke på skade på 
+not, samt monitorering av vannkvalitet, fisk og dødflsk. For effektivt å kunne drifte merden er det 
+også utviklet en ny type dobbel not med integrert tak. Den indre noten vil ved oppstramming av vinsj 
+bli utspilt med avstand på ca. lm fra den ytre noten. 
+Konseptet med å foreta nedsenkningen ved hjelp av en forankring til bunn er og nytt og skiller seg 
+vesentlig sammenlignet med konvensjonelle og andre nedsenkbare anlegg, som i stor grad benytter 
+seg av regulering av oppdrift. En vil på denne måten kunne ha en enestående kontroll og 
+46 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+repeterbarhet for operasjonen. Den nye noten vil i kombinasjon med vinsjen sikre at noten er utspilt 
+uten særlig volumreduksjon selv i sterk strøm og høy sjøgang. 
+Analyser som er gjort av de ulike enkeltkomponenter viser at den tekniske risikoen knyttet til 
+systemets integritet er relativt lav. Det kan derfor konkluderes at anlegget kan prosjekteres og 
+bygges slik beskrevet i denne rapporten. 
+47 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+3 
+Innholdsfortegnelse 
+1 
+Innledning 
+1 
+2 
+Sammendrag 
+2 
+3 
+Innholdsfortegnelse 
+4 
+4 
+Generelt 
+6 
+5 
+Referanser 
+7 
+6 
+Tekniske data 
+7 
+6.1 
+Design data merd og forflåte 
+7 
+6.2 
+Designkoder 
+8 
+6.3 
+Flytekrage 
+8 
+6.4 
+Not 
+8 
+6.5 
+Sammenføyning bunn av not (bunnkon) 
+8 
+6.6 
+Bunnring 
+9 
+6.7 
+Vinsj 
+9 
+6.8 
+Kabel med konnektor 
+9 
+6.9 
+Frekvensomformer 
+9 
+6.10 
+Forankring til bunn 
+10 
+7 
+Hovedkomponenter 
+10 
+7.1 
+Fortøyning 
+10 
+7.2 
+Flytekrage 
+10 
+7.3 
+Not 
+12 
+7.4 
+Bunnring 
+14 
+7.5 
+Vinsj 
+14 
+7.6 
+Forankring i bunn 
+16 
+7. 7 
+Styringsystem/ Automasjon for vinsj 
+17 
+8 
+Analyser og beregninger 
+17 
+8.1 
+Overslag vekter og oppdrift 
+17 
+8.2 
+Distribusjon av last/krefter 
+17 
+8.3 
+Strukturell integritet 
+18 
+9 
+Installasjon 
+18 
+10 
+Overvåkning med AUV 
+20 
+10.1 
+Generelt om AUV 
+20 
+10.2 
+Navigasjon 
+20 
+10.3 
+Overvåking 
+21 
+48 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+10.4 
+Lagring 
+22 
+11 
+Tekniske utfordringer 
+24 
+12 
+Videre arbeid 
+24 
+13 
+Patent 
+25 
+14 
+Vedlegg A Structural Calculation 
+26 
+15 
+Vedlegg B Technology Readiness Level {TRL) Subsea Winch 
+27 
+16 
+Vedlegg C Data Blad DYN ICE winch Ropes 
+28 
+17 
+Vedlegg D Datablad Glidelås 
+29 
+18 
+Vedlegg E Datablad Notlin 
+30 
+49 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+4 Generelt 
+Omsøkte tiltak innbefatter en subsea vinsjløsning med tilhørende forankring til havbunnen, som skal 
+benyttes på en merd som tidvis skal senkes. I tillegg utvikles en AUV for kontroll og overvåkning. 
+Oppdriften blir sikret ved at flytekragen til enhver tid har tilstrekkelig positiv oppdrift til å holde hele 
+merdkonstruksjonen flytende. Ved behov kan hele merden trekkes ned i vannmassene for kortere 
+eller lengre perioder. Under normal drift vil det ikke være påkrevd med forarbeid i forkant av en 
+nedsenkning. Merden kan derfor gå neddykket tilstand på svært kort varsel. 
+De tre fasene fra flytende til nedsenket tilstand er beskrevet i Figur 4-1 Figur 4-3 
+Figur 4-1: Merden i normal driftsfase. 
+Flytekragen ligger i vannskorpen og er 
+fortøyd i rammefortøyningen, likt et 
+konvensjonelt anlegg. Vinsjen er tilkoblet 
+i bunn klar for nedsenkning. 
+Figur 4-2: Vinsjen har trukket 
+anlegget halweis ned mot fullt 
+neddykket tilstand. På grunn av at 
+koblingsplatene ligger ca. 15 
+meter under havnivå vil 
+forankringen i denne fasen være 
+noe slakk. Ved strøm i vannet vil 
+imidlertid merden drive slik at en 
+side av fortøyningen blir stram. 
+Figur 4-3: Merden er her helt 
+neddykket og i stabilisert tilstand med 
+stramme fortøyninger. Med normal 
+rammefortøyning vil avstanden til 
+overflaten være to ganger dybden til 
+koblingsplaten. 
+Konseptet har følgende hovedkomponenter: fortøyning/rammefortøyning, flytekrage, strekkstag, 
+notpose med forankringspunkt i bunn, bunnring, vinsj, forankring og styringssystem. De ulike 
+komponentene vises i Figur 4-4 samt beskrevet individuelt i egne avsnitt. 
+50 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+Flytekrage med 
+tak 
+Rammefortøyning 
+Strekkstag 
+integrert i not 
+Notpose I 
+Bunn ring I 
+, 
+Bunnkon I 
+Vinsjmedramme ----===----- 
+Forankring til 
+bunn 
+Figur 4-4: Havmerd med hovedkomponenter. Fortøyning videre ut fra koblingsplater er ikke inkludert i figur. For 
+illustrasjonsformål er avstand ned til vinsj mindre enn realiteten. Vinkel på vinsjline vil derfor være betydelig mindre enn 
+på illustrasjonen. 
+5 Referanser 
+/1/. NS 9415:2009 
+/2/. NS-EN 1993-1-1 
+/3/. DNV 2.7-3 
+/4/. DNVGL-ST-0035 
+/5/. DNV-OS-HlOl 
+/6/. DNV-OS-H102 
+/7/. DNV 2.22 
+6 
+Tekniske data 
+Flytende oppdrettsanlegg Krav til lokalitetsundersøkelse, 
+risikoanalyse, utforming, dimensjonering, utførelse og drift 
+Eurokode 3, Prosjektering av stålkonstruksjoner 
+Portable Offshore Units 
+Subsea Equipment and components 
+Marine Operations, General 
+Marine Operations, Design and Fabrication 
+Lifting Appliances 
+6.1 
+Design data merd og forflåte 
+Beskrivelse 
+Data 
+Antall merder i et system 
+4 
+Dybde ved installasjon 
+<500m generelt 200m 
+Maks signifikat bølgehøyde 
+Hs=5m* 
+ved flytende tilstand 
+Maks signifikant bølgehøyde 
+Hs=5m 
+ved nedsenket tilstand 
+Maksimal strømhastighet 
+l m / s 
+Levetid 
+20år 
+* Ved normale driftsforhold vil derimot anlegget bli nedsenket ved Hs=3m. Merden bli designet for å kunne stå i flytende 
+tilstand ved maks signifikant bølgehøyde på Sm. Dette for å kunne ta høyde for eventuelle driftsproblemer som hindrer 
+nedsenkning. Et slikt tilfelle kan imidlertid føre til redusert levetid for anlegget. Det tas etter driftsmessige erfaringer sikte på 
+å øke systemets kapasitetfor signifikant bølgehøyde. 
+51 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+6.2 Designkoder 
+Havmerden er en ny type konstruksjon og vil derfor ikke være fullt ut dekket av eksisterende 
+regelverk. Hver enkelt hovedkomponent har imidlertid regelverk som kan anvendes. Designet av 
+merdkonstruksjonen med rammefortøyning og not er unik i seg selv, men basert på konvensjonelle 
+anlegg. NS 9415 kan således anvendes for denne. Ved nedsenket tilstand må det imidlertid i tillegg 
+tas høyde for utvendig trykk på flytekrage samt ekstra belastning grunnet nedtrekk. Disse er dekket 
+opp av Miljølaster kapittel 6.5.5 og Variable laster kapittel 6.5.3 i NS 9415. 
+Komponentene som monteres på havbunn, forankring og vinsj, er ikke dekket av NS 9415. Disse er 
+derimot direkte sammenlignbare med subseainstallasjoner som benyttes for produksjon av olje og 
+gass. Her skilles det mellom strukturer for permanent installasjon og trekkbare enheter (enheter som 
+skal jevnlig trekkes for service og vedlikehold). Permanente installasjoner på over SOT dimensjoneres 
+i henhold til DNVGL-ST-0035 / DNV Marine Operasjoner. Trekkbare enheter dimensjoneres i henhold 
+til DNV 2.7-3. Alt strukturelt stål blir beregnet i henhold til NS-EN 1993-1-1 Eurokode 3. 
+Komponent 
+Designkode 
+Rammefortøyning, flytekrage not og bunnring 
+NS 9415 /1/ 
+Løfte og installasjonsramme for vinsj 
+DNV 2.7-3 /3/ 
+Vinsj 
+DNV 2.22 /7/ 
+Løfteramme for betonglodd 
+DNVGL-ST-0035 /4/ 
+Tabell 1: Designkader far de ulike kampanentene 
+6.3 
+Flytekrage 
+Beskrivelse 
+Data 
+Mål (omkrets, tverrsnitt) 
+D=60m Ø=l,2m 
+ 
+Vekt med tak 
+76T 
+Material 
+Stål 
+Netto Oppdrift 
+160T 
+6.4 
+Not 
+Beskrivelse 
+Data 
+Mål (diameter x dybde) 
+58m x52m 
+Volum indre not (nominelt) 
+76000m3 
+Vekt 
+10T 
+Material not 
+Dyneema 
+Material integrert stagtau 
+Dyneema 
+6.5 Sammenføyning bunn av not (bunnkon} 
+Beskrivelse 
+Data 
+Mål (diameter x høyde) 
+3,4m x 3,4m 
+Vekt 
+GT 
+Material 
+Stål 
+52 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+6.6 
+Bunnring 
+Beskrivelse 
+Data 
+Mål (omkrets, tverrsnitt) 
+som x0,8m 
+C) 
+Vekt 
+31T 
+Material 
+Stål 
+Netto Oppdrift 
+l0T 
+6.7 
+Vinsj 
+Mål bxdxh 
+6,3mx4,3mx4,lm 
+Vekt 
+30T 
+Strekkraft i line 
+1800kN 
+Lengde Line 
+Tilpasset dybde 
+Lengde nedtrekk 
+60m 
+Line 
+Fiber tau eller tilsvarende 
+Hastighet trommel 
+0,2-0,35 o/min 
+Diameter trommel 
+Ø=0,6-lm 
+Moment tilført trommel 
+225-375kNm ( Ø=0,6-lm 
+respektive) 
+Antall vinsjer 
+2 per merd 
+Spenning 
+400V 
+6.8 
+Kabel med konnektor 
+Lengde 
+<2 km 
+Konnektor 
+Våt, ROV-operert 
+ 
+Antall 
+2 per merd 
+·• 
+9 ... 
+6.9 
+Frekvensomformer 
+Lokasjon 
+Installeres på flåte 
+Antall 
+1 per vinsj 
+---;-- 
+11& li - I 
+. . 
+--., 
+.i 
+53 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+6.10 Forankring til bunn 
+Beskrivelse 
+Data 
+Mål bxdxh 
+ll,Smx9,Smx6,0m 
+Vekt (tørrvekt) 
+300T 
+Material 
+Stål og betong 
+Antall 
+32, et lodd per vinsj 
+7 Hovedkomponenter 
+7.1 
+Fortøyning 
+Fortøyning av merden baserer seg på allerede velkjente prinsipper for rammefortøyning. Ved bruk av 
+tradisjonell rammefortøyning, slik vist i Figur 4-1 -3og Figur 4-4, vil maksimal nedsenkning være gitt 
+av avstanden fra havnivå og ned til koblingsplatene i rammefortøyningen. Denne vil typisk være 10m. 
+Maksimal nedsenkning vil da være ca. 2x10m=20m. Takkonstruksjonen vil i flytende tilstand ligge 10 
+meter over havnivå, det betyr høyeste del av merden vil ligge 10m under havnivå i nedsenket 
+tilstand. 
+Figur 7-1: Tradisjonell rammefortøyning til merdanlegg. 
+I tillegg til rammefortøyningen vil merden være forankret i vinsjen. For å ved flytende tilstand ta 
+hensyn til nivåforskjeller grunnet flo og fjære vil vinsjen ligge med en konstant strekk i linen. Dette er 
+kjent teknologi og blir kontrollert og styrt av frekvensomformeren til motor. Denne egenskapen vil 
+sørge for at noten vil få en langt mindre påvirkning grunnet strøm sammenlignet med andre 
+konsepter for nedsenkbare merder. 
+7.2 Flytekrage 
+Flytekragen er en flytende sirkulær konstruksjon med diameter på 60m produsert i stål. Denne består 
+av 16 rette elementer av rør som sammensveist utgjør en sirkulær fasong. Se Figur 7-2. Preliminære 
+FEM analyser angir en diameter på 1,2m som tilstrekkelig for miljø og nyttelaster. 
+54 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+På flytekragen er det sveist fast en takkonstruksjon som holder noten oppe under flytende drift samt 
+sikrer riktig geometri i nedsenket tilstand. Denne er fremdeles under utvikling og valg av tverrsnitt 
+kan awike noe fra illustrasjonene i søknaden. Det vil også bli etablert en gangvei for tilkomst til 
+toppen av merden. 
+På toppen av merden er det montert en luftkuppel for å sikre laksen lufttilførsel under neddykking. 
+Flytekragen vil ha en netto oppdrift på ca. 1200kN. Flytekragen vil ta vekt fra installasjoner for drift 
+samt not og bunnring. Mellom hvert element blir det sveist inn en koblingsplate for feste til 
+rammefortøyning og notpose. Denne koblingsplaten gjør også at hvert element i flytekragen vil ha 
+funksjon som vanntette skott. En punktering av et element vil altså ikke ha betydelig påvirkning for 
+oppdriften til flytekragen. 
+Figur 7-2: Skisse av flytekrage med takkonstruksjon. På hver av sidene er det lagt til en fendret båt/anding. 
+Figur 7-3: landingsområde for arbeids- og brønnbåt. 
+55 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+7.3 
+Not 
+Den sylindriske notposen vil bli utspent mellom tak, flytekrage, strekkstag, bunnring og senterpunkt i 
+bunn (bunnkon). Strekkstagene vil bli integrert i selve notposen, og gå kontinuerlig fra taket til et 
+forankringspunkt i bunn. Noten med strekkstag må i motsetning til konvensjonelle nøter overføre 
+betydelige laster grunnet nedtrekket. Fibertau av type Dynice er planlagt brukt. Datablad er vedlagt i 
+Vedlegg C Data Blad DYN ICE winch Ropes. Typisk diameter for strekkstag integrert i not vil være 
+40mm (bruddlast 139T). Ved å integrere strekkstagene i selve notposen vil faren for skader grunnet 
+gnag mellom not og strekkstag være eliminert. 
+For å hindre rømning i tilfelle skade på not består notposen av dobbel notvegg. Noten blir sydd 
+sammen og behandlet som en not men vil etter installasjon og oppstramming bli utspilt med en 
+avstand på ca. lm mellom notveggene. Dette er mulig på grunn av forspenning som vinsjen utøver 
+på systemet. 
+For å drifte noten med tanke på uttak av fisk er det tilrettelagt for åpning på to sider. Noten åpnes 
+ved hjelp av glidelås. Glidelåser med rivekraft på 4T/m, beregnet på aquakultur, er tilgjengelig i 
+markedet. Lasten blir overført via strekkstagene som er sydd inn i notveggen. 
+Figur 7-4: Sylindrisk not med tak. Bildet til høyre viser et tverrsnitt av hvordan noten blir utspilt. Strekket fra vinsj vil gjøre 
+at notveggen blir utspilt med en avstand mellom indre og ytre not. 
+56 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+Figur 7-5: Bildet viser innfestingsdetaljer av hvordan noten er koblet til flytekrage. For tilkomst er det lagt til mulighet for 
+åpning med glidelås. Datablad for glidelås kan finnes i Vedlegg D Datablad Glidelås. Glidelåsen vil alltid i drift være 
+avlastet ved hjelp av tau innsydd i notpanel. 
+Figur 7-6: Bildet viser innfestingsdetaljer av hvordan noten er koblet til flytekrage. Ved åpning av noten vil taket kunne 
+løsnes fra flytekragen og flyttes til side for tilkomst. 
+57 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+Figur 7-7: Bildet viser innfestingsdetaljer av hvordan noten er koblet til bunnkon. I midten av bunnkon er det system for 
+samling av dødfisk. En slange fra hver merd vil gå inn på et samlerør som igjen går videre til flåte. Slanger for for, luft og 
+signal til kamera vil også gå inn via bunnkon. 
+7.4 
+Bunnring 
+Den vertikale delen av strekkstagene i noten er forankret i bunn ringen før de samles i bunnkon. På lik 
+linje med konvensjonelle anlegg vil bunnringen da sørge for å holde noten utspilt i sylindrisk fasong 
+under drift. Figur 7-4 og Figur 8-1 viser foreløpige skisser av bunnring samt hvordan kreftene fordeler 
+seg i konstruksjonen. 
+7.5 Vinsj 
+Fra forankringspunktet i bunn av noten vil det til enhver tid være tilkoblet en elektrisk vinsj forankret 
+til havbunnen. Ved behov vil denne trekke ned merden til riktig dybde. Vinsjen er dimensjonert etter 
+reaksjonskreftene fra oppdrift, strøm vind og bølger. Vinsjen blir montert i en løfte og 
+beskyttelsesramme som igjen blir festet til en forankring til havbunnen. Se Figur 7-8. 
+Stålkonstruksjonen med vinsj vil bli trekkbar slik at vinsj og ramme kan kobles fra bunnforankringen 
+og trekkes til overflaten for service og vedlikehold. 
+58 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+Figur 7-8: Bunnramme med vinsj. Her vist sammen med betong/odd. 
+Vinsj med ramme vil bli heiset på plass ved hjelp av installasjonsfartøy med kran. Et 3.steps 
+guidesystem vil sikre at vinsjen guides fra ±500mm ved første sammenstøt, til ±2mm ferdig utlandet. 
+En ROV vil være påkrevd for å sikre at rammen treffer innenfor første step 1 (±500), samt låse vinsjen 
+til forankringen etter utlanding. 
+Figur 7-9: Figuren viser første step av guidingen som består av vinklede plater på topp av bunnrammen samt ROV basert 
+.løsesystem for vinsj. 
+En eventuell driftsstans i en vinsj vil for merden i neddykket tilstand være kritisk for levevilkårene til 
+laksen. For redundans i tilfelle driftsstans bør det være to uavhengige system slik vist i Figur 4-4. 
+Under vanlig drift vil det kun være en vinsj som er lastbærende. Back-up vinsj vil da kun justeres for å 
+holde stram line til merd. I tilfelle en driftsstans må lasten overføres til back-up vinsj. Deretter vil 
+linen til hovedvinsj kunne kuttes med ROV og/eller nødutløser. 
+Grunnet fare for korrosjon, samt enklere håndtering og installasjon er det ønskelig å bruke fibertau 
+mellom vinsj og merd. Høykapasitets fibertau er tilgjengelig på markedet, eksempelvis Dynice. Et tau 
+med bruddstyrke på 400T vil da ha en diameter på 70mm. Med en sikkerhetsfaktor på 3 er 
+kapasiteten tilstrekkelig for formålet. Bruk av fibertau i forbindelse med vinsj er velkjent teknologi. 
+59 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+Vinsj med motor og gir med tilhørende styringssystem er de viktigste komponentene i det omsøkte 
+prosjektet. At disse komponentene fungerer etter intensjonen er helt essensielt for at prosjektet skal 
+lykkes. Det er da også dette systemet som det er knyttet størst usikkerhet til. ABB har fått i oppdrag å 
+se på de ulike komponentene som inngår, samt systemet som helhet. Hovedkomponentene er listet 
+opp i Tabell 7-1:. Det er foretatt en analyse av teknologienes modenhet og risiko. 
+De ulike komponentene eksisterer i kommersiell bruk, men da i helt andre applikasjoner. 
+Komponentene er i hovedsak benyttet topside og må derfor videreutvikles for å kunne benyttes til 
+subsea vinsj. Det må også gjøres et utviklingsarbeid for å få systemet til å fungere som helhet. 
+Den største usikkerheten ligger i selve vinsjen med gir og motor. Selve trommel må designes for 
+formålet, og gir må mariniseres for å kunne neddykkes. Både motor og gir er hver for seg utprøvd, 
+men det foreligger ingen driftsdata for sammenstillingen som helhet. Tabellen viser en oversikt over 
+de ulike komponentene i systemet og hvordan modenhet og risiko er vurdert for hver av de. 
+Rapporten fra ABB kan finnes i Vedlegg B Technology Readiness Level (TRL) Subsea Winch 
+Komponent 
+Risiko 
+System ytelse 
+System Tested 
+Subsea Vinsj (trommel) 
+Consept proven 
+Gir 
+Consept proven 
+Motor 
+Consept proven 
+Konnektorer 
+Field proven 
+Kabel 
+Field Proven 
+Frekvensomformer 
+Field Proven 
+Transformator 
+Field Proven 
+Filter 
+Field Proven 
+Tabe/17-1: Komponenter som inngår i vinsjesytemet, med tilhørende risiko 
+Grunnet høy grad av standardkomponenter og utprøvd teknologi er risikoen er konkludert med å 
+være lav. Uforutsette utfordringer knyttet til systemet kan derimot ha stor innvirkning på prosjektet. 
+Eventuelle komponenter som må utvikles særskilt for dette prosjektet kan ha høy innvirkning på 
+både pris og leveringstid. En systemtest i forkant av installasjon vil derimot kunne avdekke eventuelle 
+problemer og sørge for at de blir løst på et så tidlig som mulig tidspunkt. 
+7.6 Forankring i bunn 
+Valg av forankring vil være avhengig av bunnforholdene på de aktuelle lokalitetene anlegget skal 
+installeres. Alternativene vil typisk være følgende: betonglodd, mud mat eller sugeanker. Dette er 
+forankringsformer som er velkjente og godt utprøvd innenfor forankring av konstruksjoner for 
+utvinning av olje og gass. Den enkleste og mest fleksible formen vil være et massivt betonglodd, slik 
+vist i Figur 7-8. Loddets vekt i vann vil være ca. 300T. Dette skal ta høyde for krefter fra oppdrift, 
+strøm, bølger og eventuelle laster fra drift av anlegget. Ved løse bunnforhold kan sugeanker eller 
+mudmat eventuelt i kombinasjon med lodd benyttes. 
+Et sugeanker og mudmat må dimensjoneres for hver enkelt lokalitet og grundige analyser av 
+bunnforholdene er påkrevd. Illustrasjon av vinsj på sugeanker er vist i Figur 7-10. 
+60 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+Figur 7-10: Bunnforankring, her vist med prinsippskisse for sugeanker. 
+7.7 Styringsystem/Automasjon for vinsj 
+Vinsjen skal drives av elektrisitet. Styringsenhet og trafo vil være installert på en nærliggende 
+foringsflåte. Kraft og styringskabler vil derfra bli installert langs havbunnen til hver enkelt merd slik at 
+alle kan styres individuelt. Systemet kan derfra enkelt videreutvikles til å fjernstyres fra andre 
+kontrollstasjoner. 
+Styringssytem for motor er inkludert i Rapport fra ABB. Komponentene er listet i Tabell 1. 
+8 Analyser og beregninger 
+8.1 
+Overslag vekter og oppdrift 
+Enhet 
+Vekt i luft [mT] 
+Vekt i vann [mT] 
+Flytekrage 
+62 
+-163 
+Gangveier, installert utstyr 
+31 
+27 
+Tak 
+38 
+33 
+Not 
+10 
+0 
+Bunn ring 
+31 
+-10 
+Senterpunkt i bunn av not 
+6 
+5 
+Luftlomme i tak 
+-60 
+Tilleggsmasse for nedjustering av oppdrift 
+50 
+43,5 
+Sum flytende del av merd 
+227 
+-124 
+I Kapasitet vinsj ved DAF=l,5 
+186 
+Nedtrekksmekanisme med ramme 
+30 
+26 
+Bunnlodd 
+271 
+160 
+Sum forankret del av merd 
+301 
+186 
+Tabe/18-1: Tabellen viser vekter i luft og vann for de ulike hovedkomponentene i merdanlegget. Negativt fortegn angir 
+oppdrift. 
+8.2 Distribusjon av last/krefter 
+Merden vil til enhver tid ha positiv oppdrift. Summen av vektene for den forankrede delen må da 
+overstige oppdriften til merden. Distribusjon av krefter er skissert i Figur 8-1. 
+61 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+i 
+Figur 8-1: Figuren viser en oversikt over hvordan oppdriftskreftene i hovedsak/orde/er seg igjennom konstruksjonen i 
+neddykket tilstand. 
+8.3 Strukturell integritet 
+Det er foretatt statiske preliminære FEM-analyser av flytekrage og bunnring for å sikre at 
+hoveddimensjonene ivaretar den strukturelle integriteten ved både flytende og nedsenket tilstand. 
+Analysene er utført av Maritime Engineering og ligger vedlagt i Vedlegg A Structural Calculation. 
+Det er utført dynamiske beregninger i Aquasim, samt utmatingsberegninger og analyser av 
+lastbærende strukturer. Analyser og beregninger vil videre bli verifisert mot skalaforsøk i basseng i 
+forkant av bygging av prototyp. 
+9 Installasjon 
+Installasjonen av anlegget vil bli en kombinasjon av etablert praksis i havbruksnæringen og elementer 
+fra installering av undervannsinstallasjoner innenfor olje og gass næringen. 
+Installasjon av konstruksjoner på havbunnen har lenge vært utført i forbindelse med utvinning av olje 
+og gass, på dybder helt ned til 3000m. Aktuelle installasjonsdybder samt den relativt lave 
+kompleksiteten til omsøkte prosjekt, gjør at teknologi og erfaringer enkelt kan overføres til 
+installasjoner for havbruksnæringen. 
+Installasjonen av merdanlegget vil i hovedsak foregå i 6 trinn. Her beskrevet med konfigurasjon der 
+loddet er montert på bunn. 
+1. Installasjon av lodd/forankring 
+2. Installasjon av vinsj med ramme 
+3. Topp og bunnring slepes til lokasjon 
+4. Flytekrage forankres til rammefortøyning 
+5. Not kobles til bunnring og vinsj 
+6. Bunnring og not senkes 
+7. Not kobles til Flytekrage 
+Ved valg av betonglodd vil det ved installasjonen kreves et løftefartøy. Lodd(ene) posisjoneres etter 
+gitte installasjonstegninger for lokasjonen. Forundersøkelse for kartlegging av bunnforhold vil være 
+påkrevd for å sikre riktig valg og plassering av forankring. 
+62 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016 
+Bunnramme med vinsj senkes deretter og guides på plass ved hjelp av ROV. Samme ROV vil igjen låse 
+bunnrammen fast til loddet. 
+1 
+2 
+3 
+4-6 
+7 
+Figur 9-1: Installasjonssekvensene er her illustrert fra 1-6. figur 7 viser merden ferdig installert. Et offshore 
+konstruksjonsfartøy kan benyttes til installasjon av lodd og vinsj, mens et mindre servicefartøy kan gjøre slep og 
+oppkobling av merd. ROV vil være påkrevd for å låse vinsjen til forankring samt å feste vinsj til bunnring. 
+Forankring og oppkobling av rammefortøyning er velkjent teknologi i havbruksnæringen. Lite skiller 
+rammefortøyning for dette prosjektet fra eksisterende praksis for konvensjonelle merdanlegg. 
+Rammefortøyningen vil derfor være direkte gjenbruk av metode og design fra konvensjonelle anlegg. 
+63 of 291 
+2016 Copyrigth Nekst AS 
+07/10/2016

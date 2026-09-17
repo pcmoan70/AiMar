@@ -1,0 +1,1357 @@
+﻿Framsenteret | Postboks 6066 Stakkevollan | 9296 Tromsø | +47 777 50 300 | www.akvaplan.niva.no 
+ 
+ 
+ 
+Forundersøkelse ved Pundsvik (45060), 2023 
+Ballangen Sjøfarm AS 
+ 
+Akvaplan-niva AS Report: 2023 64751.01         
+ 
+ 
+ 
+Forundersøkelse ved Pundsvik (45060), 2023         
+ 
+ 
+Forfatter 
+ 
+Kari Elisabeth Justad 
+ 
+Dato    
+ 
+27.06.2023 
+Rapport nr. 
+ 
+ 2023 64751.01     
+Antall sider  
+ 
+25 
+Distribusjon   
+Gjennom kunde 
+Kunde  
+ 
+Ballangen Sjøfarm AS 
+Kontaktperson 
+Kent David Pedersen  
+ 
+ 
+Sammendrag 
+Det er gjennomført en forundersøkelse i henhold til NS9410:2016, i forbindelse med søknad om 
+økning i MTB på lokaliteten Pundsvik. Forundersøkelsen er basert på bunnkartlegging, 
+strømmålinger og miljøundersøkelser med B- og C-metodikk.  
+Antall stasjoner til undersøkelsen med C-metodikk og plassering av disse tilfredsstiller krav til 
+forundersøkelse med MTB >6000 tonn iht. NS9410, tabell 4. Overgangssonen er estimert, og 
+stasjonsnett for fremtidige undersøkelser med B- og C- metodikk er omtalt.  
+ 
+Godkjenning 
+ 
+ 
+Ludvik Lippestad 
+Prosjektleder   
+ 
+ 
+ 
+ 
+ 
+Kvalitetskontroll 
+ 
+©2023 Akvaplan-niva AS. The report may only be reproduced in its entirety. Copying of partial content (texts, 
+figures, table, conclusions, etc.) or other methods of publication is only permitted after obtaining written 
+consent from Akvaplan-niva AS. 
+Gyda Wuttudal Lorås
+Digitally signed by Gyda 
+Wuttudal Lorås 
+Date: 2023.06.27 13:22:04 +02'00'
+ 
+Akvaplan-niva 2023 64751.01     
+Side 3 av 25 
+Innholdsfortegnelse 
+FORORD ....................................................................................................................... 4 
+1 OPPSUMMERINGSTABELL FORUNDERSØKELSE .......................................................... 5 
+1.1 Oppsummering av forundersøkelse ........................................................................ 5 
+1 
+INNLEDNING......................................................................................................... 6 
+1.1 
+Bakgrunn og formål ........................................................................................ 6 
+1.2 
+Lokalitet ......................................................................................................... 6 
+1.3 
+Drift og endringer ........................................................................................... 7 
+1.4 
+Nåværende og tidligere undersøkelser .............................................................. 8 
+2 
+BUNNKARTLEGGING ............................................................................................. 9 
+2.1 
+Dybdekoter ..................................................................................................... 9 
+2.2 
+Substrattype.................................................................................................... 9 
+2.3 
+Dybdekart i 3D .............................................................................................. 10 
+3 
+STRØMMÅLING ................................................................................................... 11 
+4 
+UNDERSØKELSE TYPE B ....................................................................................... 12 
+4.1 
+Stasjonsplassering ......................................................................................... 12 
+4.2 
+Resultater ..................................................................................................... 13 
+5 
+UNDERSØKELSE TYPE C ....................................................................................... 14 
+5.1 
+Faglig program ............................................................................................. 14 
+5.2 
+Resultater undersøkelse type C ....................................................................... 15 
+5.2.1 
+Faunaindekser og økologisk tilstandsklassifisering ..................................... 15 
+5.3 
+Resultater referansestasjon ............................................................................ 18 
+5.4 
+Hydrografi og oksygen ................................................................................... 18 
+5.5 
+Kornfordeling ............................................................................................... 19 
+5.6 
+Kjemiske parametere ..................................................................................... 19 
+6 
+SAMMENFATTENDE VURDERINGER .................................................................... 21 
+7 
+REFERANSER ....................................................................................................... 24 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 4 av 25 
+Forord  
+Akvaplan-niva har gjennomført en forundersøkelse ved oppdrettslokaliteten Pundsvik ifm. 
+oppdretters søknad om økt MTB. Oppdragsgiver har vært Ballangen Sjøfarm AS. 
+Undersøkelsen inngår i selskapets miljøovervåking av bunnpåvirkningen fra anlegget. 
+Presenterte resultater fra undersøkelser med B- og C-metodikk, samt vurdering av framtidig 
+stasjonsplassering, er gjort etter akkrediterte metoder (test 079). Øvrig innhold i rapporten 
+dekkes ikke av akkrediteringen. 
+ 
+ 
+Tromsø, 27/6/2023 
+ 
+Ludvik Lippestad 
+Prosjektleder  
+ 
+Akvaplan-niva 2023 64751.01     
+Side 5 av 25 
+1 Oppsummeringstabell forundersøkelse 
+1.1 Oppsummering av forundersøkelse 
+Informasjon om oppdraget 
+Tittel: 
+Forundersøkelse ved Pundsvik (45060), 2023    
+Rapport nr.: 
+2023 64751.01     
+Dato rapport: 
+26.06.2023 
+Lokalitets nr.: 
+45060  
+Lokalitetsnavn: 
+Pundsvik 
+MTB-tillatelse: 
+3120 tonn 
+*midlertidig 4776 tonn  
+Kartkoordinater 
+(anlegg): 
+68°25,248' N 
+16°47,015' Ø 
+Fylke: 
+Nordland  
+Kommune: 
+Narvik 
+Oppdragsgiver: 
+Ballangen Sjøfarm AS 
+Kontaktperson: 
+Kent David Pedersen 
+ 
+Bakgrunnen for undersøkelsen 
+Produksjonsstatus ved undersøkelsesdato  
+Ny lokalitet:  
+☐ 
+Merknad: Omsøkt MTB til 
+>6000 tonn  
+Stående biomasse: 
+2097 tonn  
+Endring MTB 
+☒ 
+Produsert mengde: 
+5996 tonn  
+Arealendring 
+☐ 
+Utfôret mengde: 
+6768 tonn  
+ 
+Leverandører  
+Dato 
+Bunnkartlegging 
+Mottatt fra kunde 
+2021 
+Strømmålinger 
+Akvaplan-niva AS (Heggem, 2018) 
+20.02.2018 – 22.03.2018 
+ 
+B - metodikk – Hovedresultater, undersøkelsesdato: 15-16.03.2023, 21.04.2023 
+Parametergruppe  
+Indeks 
+Tilstand 
+Bløtbunn: 
+57 % 
+Hardbunn: 
+43 % 
+Gr. II. pH/Eh 
+0,27 
+1 
+Videre overvåking i driftsfasen med B-
+metodikk er hensiktsmessig. 
+☒ 
+Gr. III. Sensorisk 
+0,54 
+1 
+GR. II + III 
+0,34 
+1 
+Videre overvåking i driftsfasen med 
+alternativ metodikk er hensiktsmessig. 
+☐ 
+Lokalitetstilstand (NS 9410:2016): 
+1 
+ 
+ 
+ 
+ 
+C - metodikk - Hovedresultat bløtbunnsfauna, undersøkelsesdato: 16.03.2023, 28-29.03.2023 
+Faunaindeks nEQR (Veileder 02:2018 - rev 2020) 
+Økologisk tilstandsklassifisering (Veileder 02:2018 - rev 
+2020) 
+Fauna C1 (innerst) 
+0,283 
+Fauna C1 (innerst) 
+Klasse IV 
+Fauna C2 (ytterst) 
+0,857 
+Fauna C2 (ytterst) 
+Klasse I 
+Fauna C2alt (ytterst) 
+0,873 
+Fauna C2alt (ytterst) 
+Klasse I 
+Fauna C3 
+0,525 
+Fauna C3 
+Klasse III 
+Fauna C4 
+0,419 
+Fauna C4  
+Klasse III 
+Fauna C5  
+0,419 
+Fauna C5  
+Klasse II 
+Fauna C6 (dypområde) 
+0,837 
+Fauna C6 (dypområde) 
+Klasse I 
+Fauna Cref 
+0,828 
+Fauna Cref 
+Klasse I 
+Dato feltarbeid: 
+16.03.2023, 28-29.03.2023 
+Dato rapport: 
+21.06.2023 
+Merknader til andre resultater (sediment, pH/Eh, oksygen)  
+TOC i klasse III på C1, klasse II 
+på C3 og C5 og klasse I på 
+resterende stasjoner.  
+Kobber i klasse II på C1 og C6 
+og klasse I på resterende 
+stasjoner. 
+pH/Eh ga poeng 0 (C1). 
+O2-forholdene var gode 
+gjennom hele vannsøylen.  
+ 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 6 av 25 
+1 Innledning 
+1.1 Bakgrunn og formål  
+Formålet med undersøkelsen er å dokumentere bunnforholdene i anleggs- og 
+overgangssonen for det planlagte anlegget, og den er en referanse for sammenligning med 
+senere undersøkelser. Forundersøkelsen gir grunnlag for plassering av stasjoner for 
+overvåkning med B- og C-undersøkelser. Prøvestasjonene til C-undersøkelse skal ligge i 
+området fra anleggssonen til ytterkant av overgangssonen og plasseres slik at de dekker 
+områder med størst mulig risiko for påvirkning. Antall stasjoner og veiledende avstand fra 
+akvakulturanlegg til stasjonen i ytterkant av overgangssonen (C2) er gitt i NS 9410:2016 (Tabell 
+1). Forundersøkelsen inkluderer en referansestasjon som ikke skal inngå i regulær 
+overvåkning. Referansestasjonen skal plasseres minst 1 km fra anlegget i et område med 
+tilsvarende bunntype og forhold som det området som dekkes av forundersøkelsen.  
+ 
+Tabell 1. Veiledende antall prøvestasjoner og veiledende avstand fra akvakulturanlegget til ytterste prøvestasjon 
+for C-undersøkelsen på grunnlag av MTB i tonn på lokaliteten (NS 9410: 2016). 
+MTB på lokaliteten (tonn)
+Veiledende avstand fra akvakulturanlegget 
+til ytterste prøvestasjon (C2)
+Veiledende antall stasjoner for C-
+undersøkelsen
+≤1999 
+300 
+3 
+2000 til 3599
+400
+4
+3600 til 5999 
+500 
+5 
+≥6000
+500
+6
+ 
+Undersøkelsen er gjennomført iht. NS 9410:2016 kapt. 5, og "Veiledning til krav om 
+forundersøkelser 
+i 
+henhold 
+til 
+NS9410:2016 
+i 
+forbindelse 
+med 
+søknad 
+om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark" versjon 1, datert 04.04.2018. 
+Undersøkelsen inngår i oppdretters miljøovervåking av bunnpåvirkning fra anlegget.  
+ 
+1.2 Lokalitet 
+Lokaliteten ligger plassert langs land direkte øst for Pundsvikneset og nord for Djupvikneset, 
+sentralt i Ofotfjorden. Bunnen under anlegget skråner bratt fra land, med både en østgående 
+skråning fra Pundsvikneset og en slakere nordgående skråning fra Djupvikneset. Dypet under 
+anlegget varierer fra 79 meter i vestre ende til 417 meter i nordøstre ende. Det er ingen 
+terskler mellom lokaliteten og Ofotfjordens sentrale dypområder. 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 7 av 25 
+ 
+Figur 1. Oversiktskart ved Pundsvik (blå pil). Oppdrettsanleggene i området er markert med lokalitetsnummer og 
+navn. Kart fra www.fiskeridir.no Fiskeridirektoratet, målestokk 1:100 000 ved utskrift av kart på A4-format 
+liggende. Kartet er nordlig orientert. 
+ 
+1.3 Drift og endringer   
+Anlegget består av en rammefortøyning med 2 x 8 bur og det er brukt merder med 160 meters 
+omkrets. I inneværende produksjon har åtte av burene vært i bruk, fem på den sørlige 
+merdrekken og tre på den nordlige merdrekken.  
+Lokaliteten Pundsvik har opprinnelig MTB på 3120 tonn, men midlertidig MTB på 4776 tonn 
+ut året 2023. Foreliggende undersøkelse er gjort i forbindelse med omsøkt MTB > 6000 tonn.  
+Fisk ble satt ut på lokaliteten i perioden 23.08.2021 til 07.11.2021 med en snittvekt på 110,4 g. 
+Ved undersøkelsestidspunktet var stående biomasse på 2097 tonn, og fisken hadde en 
+snittvekt på 6,3 kg. Det var produsert 5996 tonn, med tilhørende fôrforbruk på 6768 tonn. 4069 
+tonn var allerede utslaktet på undersøkelsestidspunktet. Lokaliteten var planlagt ferdig 
+utslaktet i april 2023. Anlegget fikk ny plassering i 2021. Inneværende produksjon er første 
+produksjonssyklus på nåværende plassering. Neste utsett er planlagt i oktober 2023 (pers. 
+med. Pedersen). Produksjon og fôrforbruk ved lokaliteten er vist i Tabell 2. Ettersom 
+anleggsplassering ikke overlapper med tidligere plassering, inngår kun driftsdata fra 
+nåværende plassering. 
+Tabell 2: Produksjon og fôrforbruk ved Pundsvik. Data er innhentet fra oppdragsgiver.   
+Utsett tidspunkt 
+Produsert i tonn 
+Fôrforbruk i tonn 
+2021 
+5996 
+6768 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 8 av 25 
+1.4 Nåværende og tidligere undersøkelser  
+Akvaplan-niva AS har jevnlig gjennomført miljøundersøkelser type B og C (NS9410) på 
+lokaliteten Pundsvik. Anlegget fikk ny plassering i 2021. En oversikt over tidligere 
+gjennomførte miljøundersøkelser på Pundsvik er vist i Tabell 3. Kun undersøkelser etter 
+metodikk i NS9410:2016 er inkludert i rapporten. 
+Tabell 3. Nåværende og tidligere gjennomførte undersøkelser ved Pundsvik. 
+Dato prøvetaking 
+Rapportnummer 
+(Forfatter, rapportårstall) 
+Type undersøkelse 
+15-16.03.2023, 
+21.04.2023 
+64750.01 
+(Justad & Lippestad, 2023) 
+Forundersøkelse med B-metodikk. 
+Ved nåværende plassering. 
+16.03.2023,  
+28-29.03.2023 
+64747.01 
+(Mannvik & Justad, 2023b) 
+Forundersøkelse med C-metodikk. 
+Ved nåværende plassering. 
+16.03.2023,  
+28-29.03.2023 
+64745.02 
+(Mannvik & Justad, 2023a) 
+C-undersøkelse. 
+Ved nåværende plassering. 
+15-16.03.2023 
+64742.01  
+(Lippestad, 2023) 
+B-undersøkelse. Høyeste belastning. 
+Ved nåværende plassering. 
+04.05.2021 
+62707.02 
+(Mannvik & Lorås, 2021) 
+C-undersøkelse. 
+Ved tidligere plassering.  
+09.04.2018 
+60073.02 
+(Mannvik & Eriksen, 2018a) 
+C-undersøkelse. 
+Ved tidligere plassering. 
+11.04.2018 
+60073.03  
+(Eriksen, 2018) 
+Forundersøkelse med B-metodikk. 
+Ved nåværende plassering. 
+10.04.2018 
+60073.01 
+(Mannvik & Eriksen, 2018b) 
+Forundersøkelse med C-metodikk. 
+Ved nåværende plassering. 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 9 av 25 
+2 Bunnkartlegging 
+Multistrålelodd benyttes hovedsakelig til oppmåling og kartlegging av havbunnen. På 
+grunnlag av innkommende posisjons- og dybdedata kan Olex kalkulere bunnkart. 
+Bunnhardhet angis som relativ hardhet der 0% er helt bløtt og 100 % er maksimalt hardt. 
+Bunnhardhet reflekterer kun overflaten som er kartlagt, det vil si at den ikke sier noe om 
+sedimenttype under havbunnen. Bunnhardhet er et mål på havbunnens evne til å reflektere 
+lyd. Refleksjon tilbake til ekkoloddet blir lav ved bløt bunn – men den blir også lav når signalet 
+skal reflekteres fra bratte overflater. Dette kan resultere i at bratte deler av havbunnen vises 
+som "bløt" i Olex. I visning av relativ hardhet på Olex benyttes derfor betegnelsen "Bløtt eller 
+bratt" for blå farge, og "Hardt og flatt" for rød farge. 
+Registrering av bunndata er gjort iht. krav i NS 9415:2009 og oppløsning på data er på under 
+10 x 10 meter (Figur 2, Figur 3, Figur 4). 
+ 
+2.1 Dybdekoter 
+ 
+Figur 2. Bunnkartlegging multistråle. Dybdekoter. Anlegg ved Pundsvik. 
+ 
+2.2 Substrattype 
+Resultatene fra forundersøkelsen gjennomført med B- og C- metodikk viser variert 
+sedimenttype. Primærsedimentet ble i hovedsak definert som sand, siltig sand eller leire med 
+innslag av skjellsand. Resipienten har også enkelte partier med hardbunn. Dette gjenspeiles 
+i bunnkartleggingen i resipienten (Figur 3).  
+ 
+Akvaplan-niva 2023 64751.01     
+Side 10 av 25 
+ 
+Figur 3. Bunnkartlegging multistråle. Relativ hardhet. 
+ 
+2.3 Dybdekart i 3D 
+ 
+Figur 4. Bunnkartlegging multistråle. 3D visning. Kartet er orientert mot sørøst.  
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 11 av 25 
+3 Strømmåling 
+Strømmåling ble foretatt med målere fra Akvaplan-niva AS i perioden 20.02.2018 til 
+22.03.2018. Målinger på 5 og 15 m er gjort på posisjon 68°25,229 N og 16°46,824 Ø, mens 
+målinger av bunn- og spredningsstrøm er gjort på posisjon 68°25,183 N og 16°46,840 Ø. 
+Strømmålingene på 5 og 15 meters målinger er utført etter kravene i NS 9415:2009 (NYTEK), 
+og er representative for lokaliteten. Oppsummering av resultatene fra strømmålingene er vist 
+i Tabell 4 og Figur 5. 
+Spredningsstrømmen er målt på 71 m dyp, og viser at hovedstrømretning for 
+partikkeltransport er mot sørøst (120-135), med en markant returstrøm mot vest-nordvest 
+(285). Gjennomsnittlig strømhastighet ble målt til 4,9 cm/s, med maks hastighet målt til 20,5 
+cm/s (Heggem, 2018). 
+Tabell 4. Strømmålinger. Måling av overflate-, vannutskiftings-, spredning- og bunnstrøm på henholdsvis 5, 15, 
+71 og 124 meters dyp (Heggem, 2018). 
+Dato 
+Dyp 
+Koordinater 
+(WGS84) 
+Gj. snitt 
+hastighet 
+(cm/sek) 
+Maks 
+hastighet 
+(cm/sek) 
+Andel nullstrøm 
+(% mellom 0 og 1 
+cm/sek) 
+Referanse 
+(rapportnr) 
+20.02.2018 - 
+22.03.2018 
+5 
+N 68°25,229 
+Ø 16°46,824 
+8,7 
+40,0 
+2,2 
+Heggem, 2018
+(60057.01) 
+20.02.2018 - 
+22.03.2018 
+15 
+N 68°25,229 
+Ø 16°46,824 
+7,6 
+36,7 
+2,9 
+Heggem, 2018
+(60057.01) 
+20.02.2018 - 
+22.03.2018 
+71 
+N 68°25,183 
+Ø 16°46,840 
+4,9 
+20,5 
+4,5 
+Heggem, 2018
+(60057.01) 
+20.02.2018 - 
+22.03.2018 
+124 
+N 68°25,183 
+Ø 16°46,840 
+3,7 
+18,6 
+8,9 
+Heggem, 2018
+(60057.01) 
+ 
+ 
+ 
+ 
+Figur 5. Strømdata. Vanntransport ved Pundsvik (Heggem, 2018).  
+ 
+Akvaplan-niva 2023 64751.01     
+Side 12 av 25 
+4 Undersøkelse type B 
+4.1 Stasjonsplassering 
+Ved gjennomføring av undersøkelse type B i forbindelse med forundersøkelser skal det iht. 
+"Veileder til krav om forundersøkelser i henhold til NS9410:2016 i forbindelse med søknad om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark", versjon 1, datert 04.04.2018, være 
+minimum 10 prøvepunkter (stasjoner) fordelt over hele det planlagte anleggsområdet. 
+Plassering av stasjonene skal gi nok informasjon til at det kan tas stilling til om videre 
+overvåking i driftsfasen av anleggsområdet med B-undersøkelse er hensiktsmessig, eller om 
+det er behov for alternativ overvåking.  
+Undersøkelse er gjennomført av Akvaplan-niva AS (Justad & Lippestad, 2023). Stasjon 1-15 ble 
+prøvetatt i forbindelse med undersøkelsen gjort ved maksimal belastning på lokaliteten 
+(Lippestad, 2023). Supplerende stasjoner (st. 16-21) ble senere prøvetatt for å dekke hele 
+anleggssonen.  
+Det lyktes ikke å få godkjente prøver fra den østlige delen av anlegget, da dypet under denne 
+delen av anlegget varierer fra 315-417 meter. NS 9410:2016 kap. 7.6, merknad 3 sier at 
+"prøvetaking med grabb på store dyp kan være tidkrevende og vanskelig å få til for eksempel 
+i bratte fjellskråninger... Grabbskudd fordeles så godt som mulig". Denne delen av anlegget 
+ble derfor ikke prøvetatt under forundersøkelsen. Stasjonsplasseringen vurderes som 
+representativ for undersøkelse av anleggssonen og iht. beskrivelse i NS 9410:2016. 
+ 
+Figur 6. Stasjonsoversikt med resultat fra undersøkelse type B. Prøvetakingsstasjonene er tegnet inn med 
+fargekoder som beskriver samlet indeks Gruppe II og III parametere iht. NS 9410:2016 kap. 7.11. Rødt flagg viser 
+plassering av strømmålere. Strømrose i høyre hjørne viser retning av vanntransport ved spredningsdyp på 
+lokaliteten (Heggem, 2018). 
+ 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 13 av 25 
+4.2 Resultater 
+Totalt ble det tatt 37 grabbskudd fordelt på 21 stasjoner, og det ble registrert 57 % bløtbunn 
+og 43 % hardbunn. Undersøkelsen gjennomført ved maksimal organisk belastning (st. 1-15) 
+ble prøvetatt med 0,04 m2 grabb og de supplerende stasjonene (st. 16-21) ble prøvetatt med 
+0,025 m2 grabb. Sedimenttypen på lokaliteten var variert, men foruten fjellbunn ble 
+primærsedimentet i hovedsak definert som sand, siltig sand eller leire med innslag av 
+skjellsand. Det ble funnet dyr på 16 av stasjonene. Børstemark var den dominerende 
+dyregruppen, men det ble også funnet et betydelig antall skjell (20-50 individer) på fem av 
+stasjonene. 
+Foruten stasjon 6, som fikk tilstand 3 – "Dårlig" for gruppe II parametre, ble pH målt fra 7,47 
+til 7,75 og Eh målt fra 133 til 370. Dette ga tilstand 1 – "Meget god" for 11 stasjoner. For ti 
+stasjoner lyktes det ikke å innhente nok sediment til å måle gruppe II parametre, disse 
+stasjonene ble merket som "ut" og ble vurdert for gruppe III parametre. 
+Det ble ikke observert gassbobling på noen av stasjonene. Fire stasjoner viste misfarge i 
+sedimentet, tre stasjoner hadde noe avvikende lukt og én stasjon hadde sterkt avvikende lukt. 
+Stasjonen med sterkt avvikende lukt (st. 6) hadde også løs sedimentkonsistens. Fôrrester, 
+fekalier eller bakteriebelegg ble ikke observert på noen av stasjonene.  
+Av de undersøkte stasjonene ble det tilstand 1 – "Meget god" på 20 stasjoner og tilstand 3 – 
+"Dårlig" på én stasjon.  
+Samlet tilstand for lokaliteten ble 1 – "Meget god". 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 14 av 25 
+5 Undersøkelse type C 
+5.1 Faglig program 
+Undersøkelse type C for lokaliteten er gjennomført av Akvaplan-niva AS (Mannvik & Justad, 
+2023b). Undersøkelse type C er gjennomført med bakgrunn i omsøkt MTB >6000 tonn, noe 
+som utløser krav om 6 prøvetakingsstasjoner. Det ble i tillegg inkludert en alternativ C2 
+stasjon 
+(C2alt) 
+nordvest 
+for 
+anlegget 
+for 
+å 
+dekke 
+returstrømmen. 
+Inkludert 
+referansestasjonen blir det totalt 8 stasjoner.  
+ 
+Figur 7. Anlegg med stasjonsplassering undersøkelse type C. Rødt flagg viser plassering av strømmålere. 
+Strømrose i høyre hjørne viser retning av vanntransport ved spredningsdyp på lokaliteten (Heggem, 2018).  
+ 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 15 av 25 
+ 
+Figur 8. Anlegg med plassering undersøkelse type C inkludert plassering referansestasjon. Rødt flagg viser 
+plassering av strømmålere. Strømrose i høyre hjørne viser retning av vanntransport ved spredningsdyp på 
+lokaliteten (Heggem, 2018).  
+ 
+5.2 Resultater undersøkelse type C 
+5.2.1 Faunaindekser og økologisk tilstandsklassifisering 
+Resultatene fra de kvantitative bunndyrsanalysene er presentert i Tabell 5. Faunaindeksen 
+nEQR i tabellen er presentert uten tetthetsindeksen DI etter anbefaling fra Miljødirektoratet. 
+Antall individ varierte fra 136 (C6) til 5285 (C3) og antall arter fra 15 (C1) til 105 (C2). På C1 
+viste de fleste faunaindeksene, inklusiv nEQR, tilstandsklasse IV "Dårlig" og på C3 og C4 
+klasse III "Moderat". På C5 viste de fleste indeksene, inklusiv nEQR, klasse II "God" og på de 
+andre stasjonene klasse I "Svært god".  
+Tabell 5. Antall arter og individer pr. 0,2 m2, H´ = Shannon-Wieners diversitetsindeks. ES100 = Hurlberts 
+diversitetsindeks. NQI1 = sammensatt indeks (diversitet og ømfintlighet). ISI2012 = ømfintlighetsindeks. NSI = 
+sensitivitetsindeks. nEQR = normalisert EQR (ekskl. DI). Pundsvik, 2023. Økologisk tilstandsklassifisering basert 
+på observert verdi av indeks (snitt av to replikater) iht. Veileder 02:2018 (rev 2020) vanntype G3. 
+St. 
+C1 
+C2 
+C2alt 
+C3 
+C4 
+C5 
+C6 
+Cref 
+Ant. ind. 
+1963 
+800 
+580 
+5285 
+729 
+1407 
+136 
+182 
+Ant. arter 
+15 
+105 
+90 
+96 
+31 
+58 
+41 
+56 
+H' 
+1,37 
+5,09 
+5,18 
+2,57 
+1,94 
+3,22 
+4,35 
+4,31 
+ES100 
+5,3 
+38,0 
+38,8 
+13,2 
+10,7 
+20,3 
+29,0 
+26,0 
+NQI1 
+0,320 
+0,771 
+0,781 
+0,574 
+0,432 
+0,625 
+0,751 
+0,765 
+ISI2012 
+7,25 
+10,09 
+10,08 
+8,54 
+8,20 
+8,03 
+10,31 
+9,35 
+NSI 
+8,09 
+22,10 
+23,39 
+12,04 
+9,80 
+15,88 
+23,96 
+24,27 
+nEQR 
+0,283 
+0,857 
+0,873 
+0,525 
+0,419 
+0,617 
+0,837 
+0,828 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 16 av 25 
+5.2.1.1 NS 9410 vurdering av bunndyrsamfunnet i anleggssonen 
+I hht. NS 9410 kan klassifisering av miljøtilstanden i anleggssonen baseres på antall arter 
+vurdert mot dominansforhold i bunndyrsamfunnet (se kapt. 8.6.2. i NS 9410:2016). Tabell 6 
+viser antall arter, kumulativ prosent for dominerende taksa og klassifisering av 
+miljøtilstanden for bløtbunnsamfunnet på anleggssonestasjonen C1.  
+Bløtbunnsamfunnet ble klassifisert til miljøtilstand 2 "God". Kriteriet for tilstand 1 er 
+tilstedeværelse av minst 20 arter/0,2 m2 og at ingen av disse utgjør mer enn 65 % av 
+individene. 
+Tabell 6. NS 9410:2016. Klassifisering av miljøtilstand i bløtbunnsamfunnene på innerste stasjon C1, Pundsvik, 
+2023. 
+Stasjon  
+Lokalitet 
+Ant. arter 
+Dominerende taksa -% 
+Miljøtilstand-NS 9410 
+C1 
+Pundsvik 
+15 
+Capitella capitata – 66 % 
+2 - God 
+ 
+5.2.1.2 Ytterkant overgangssone (C2, C2alt) 
+Grabbverdiene for stasjon C2 og C2alt er vist i Tabell 7 og Tabell 8. 
+De enkelte indeksene for begge stasjonene var i klasse I og II og nEQR for stasjonene var i 
+tilstandsklasse I "Svært god". 
+Tabell 7. Resultater fra bunnfauna på C2 (grabb 1 og 2); arts- og individantall for hver grabb og gjennomsnitt 
+nEQR for hver indeks. Pundsvik, 2023. 
+St. 
+C2_01 
+C2_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+315 
+485 
+400 
+  
+Ant. arter 
+67 
+79 
+73 
+  
+H' 
+5,06 
+5,11 
+5,09 
+0,954 
+ES100 
+38,6 
+37,4 
+38,0 
+0,930 
+NQI1 
+0,770 
+0,772 
+0,771 
+0,857 
+ISI2012 
+9,83 
+10,34 
+10,09 
+0,859 
+NSI 
+22,67 
+21,53 
+22,10 
+0,684 
+nEQR 
+  
+  
+  
+0,857 
+ 
+Tabell 8. Resultater fra bunnfauna på C2alt (grabb 1 og 2); arts- og individantall for hver grabb og gjennomsnitt 
+nEQR for hver indeks. Pundsvik, 2023. 
+St. 
+C2alt_01 
+C2alt_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+280 
+300 
+290 
+  
+Ant. arter 
+64 
+64 
+64 
+  
+H' 
+5,20 
+5,16 
+5,18 
+0,964 
+ES100 
+39,9 
+37,8 
+38,8 
+0,938 
+NQI1 
+0,740 
+0,821 
+0,781 
+0,868 
+ISI2012 
+10,13 
+10,02 
+10,08 
+0,859 
+NSI 
+22,28 
+24,50 
+23,39 
+0,735 
+nEQR 
+  
+  
+  
+0,873 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 17 av 25 
+5.2.1.3 Overgangssonen (C3, C4, C5, C6) 
+Grabbverdiene for stasjon C3, C4, C5 og C6 er vist i Tabell 9 til Tabell 12. De enkelte 
+faunaindeksene på C3 var i klasse II, III og IV og nEQR for stasjonen var i tilstandsklasse III 
+"Moderat". På C4 var de enkelte indeksene i klasse II, III, IV og V og nEQR for stasjonen i 
+tilstandsklasse III "Moderat". På C5 var de enkelte indeksene i klasse I, II, III, IV og V og nEQR 
+for stasjonen i tilstandsklasse II "God". På C6 var de enkelte indeksene i klasse I og II og nEQR 
+for stasjonen i tilstandsklasse I "Svært god". 
+Tabell 9. Resultater fra bunnfauna på C3 (grabb 1 og 2); arts- og individantall for hver grabb og gjennomsnitt 
+nEQR for hver indeks. Pundsvik, 2023. 
+St. 
+C3_01 
+C3_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+2475 
+2810 
+2643 
+  
+Ant. arter 
+58 
+75 
+67 
+  
+H' 
+2,46 
+2,69 
+2,57 
+0,540 
+ES100 
+12,9 
+13,5 
+13 
+0,520 
+NQI1 
+0,525 
+0,622 
+0,574 
+0,519 
+ISI2012 
+8,42 
+8,65 
+8,54 
+0,764 
+NSI 
+11,43 
+12,64 
+12,04 
+0,281 
+nEQR 
+  
+  
+  
+0,525 
+ 
+Tabell 10. Resultater fra bunnfauna på C4 (grabb 1 og 2); arts- og individ for hver grabb og gjennomsnitt nEQR 
+for hver indeks. Pundsvik, 2023. 
+St. 
+C4_01 
+C4_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+524 
+205 
+365 
+  
+Ant. arter 
+24 
+15 
+20 
+  
+H' 
+2,00 
+1,87 
+1,94 
+0,425 
+ES100 
+11,4 
+10,1 
+10,7 
+0,450 
+NQI1 
+0,445 
+0,420 
+0,432 
+0,336 
+ISI2012 
+8,40 
+8,01 
+8,20 
+0,690 
+NSI 
+10,01 
+9,60 
+9,80 
+0,196 
+nEQR 
+  
+  
+  
+0,419 
+ 
+Tabell 11. Resultater fra bunnfauna på C5 (grabb 1 og 2); arts- og individ for hver grabb og gjennomsnitt nEQR 
+for hver indeks. Pundsvik, 2023. 
+St. 
+C5_01 
+C5_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+56 
+1351 
+704 
+  
+Ant. arter 
+32 
+36 
+34 
+  
+H' 
+4,81 
+1,63 
+3,22 
+0,680 
+ES100 
+32,0 
+8,7 
+20,3 
+0,724 
+NQI1 
+0,818 
+0,431 
+0,625 
+0,592 
+ISI2012 
+8,10 
+7,97 
+8,03 
+0,652 
+NSI 
+23,37 
+8,39 
+15,88 
+0,435 
+nEQR 
+  
+  
+  
+0,617 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 18 av 25 
+Tabell 12. Resultater fra bunnfauna på C6 (grabb 1 og 2); arts- og individ for hver grabb og gjennomsnitt nEQR 
+for hver indeks. Pundsvik, 2023. 
+St. 
+C6_01 
+C6_02 
+Grabb 
+gj.snitt 
+nEQR for 
+indeksene 
+Ant. ind. 
+48 
+88 
+68 
+  
+Ant. arter 
+27 
+31 
+29 
+  
+H' 
+4,38 
+4,32 
+4,35 
+0,872 
+ES100 
+27,0 
+31,0 
+29,0 
+0,852 
+NQI1 
+0,731 
+0,771 
+0,751 
+0,834 
+ISI2012 
+10,57 
+10,05 
+10,31 
+0,869 
+NSI 
+25,02 
+22,91 
+23,96 
+0,758 
+nEQR 
+  
+  
+  
+0,837 
+ 
+5.3 Resultater referansestasjon  
+Opplysninger om referansestasjon som er brukt ved lokaliteten er vist i Tabell 13.  
+Tabell 13. Opplysninger om referansestasjon brukt ved lokaliteten. 
+ 
+ 
+ 
+ 
+ 
+5.4 Hydrografi og oksygen 
+Vertikalprofilene for temperatur, salinitet, tetthet og oksygenmetning ved Pundsvik, 2023 er 
+vist i Figur 9. 
+Temperaturen steg fra 2 ⁰C i overflaten til 7 ⁰C fra omtrent 60 m dyp og ned til bunnen. 
+Oksygenmetningen sank fra 101 % i overflaten til 75 % i bunnvannet, noe som tilsvarer 
+tilstandsklasse I "Svært god". 
+Referansestasjon 
+Cref 
+Prøvetatt (dato) 
+28.03.2023 
+Koordinater 
+6825,446 N 
+1644,922 Ø 
+Resultat nEQR 
+0,828 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 19 av 25 
+ 
+Figur 9. Vertikalprofiler. Temperatur, saltholdighet, tetthet og oksygen på stasjonene ved Pundsvik, 2023. 
+ 
+5.5 Kornfordeling 
+Kornfordelingen på stasjonene er vist i Tabell 14. Sedimentene var moderat grov- til 
+finkornet med pelittandel mellom 20,7 og 91,8 %. 
+Tabell 14. Kornfordeling på stasjonene ved Pundsvik, 2023. Andel pelitt (silt og leire), sand og grus (alle i %). 
+ 
+C1 
+C2 
+C2alt 
+C3 
+C4 
+C5 
+C6 
+Cref 
+Pelitt  
+67,1 
+65,0 
+71,0 
+35,6 
+40,9 
+20,7 
+85,3 
+91,8 
+Sand 
+32,7 
+33,1 
+28,5 
+60,6 
+58,3 
+78,9 
+14,7 
+8,1 
+Grus 
+0,2 
+1,9 
+0,5 
+3,8 
+0,8 
+0,4 
+0,0 
+0,0 
+ 
+5.6 Kjemiske parametere 
+Nivåer av de kjemiske parameterne i sedimentene er presentert i Tabell 15 og 
+måleusikkerhet er oppgitt i analyserapporten i vedlegget. 
+TOM-nivåene var lave med verdier mellom 1,5 og 4,7 %. TN-nivåene var lave (0,3 – 3,6 mg/g) 
+og det samme var C/N-forholdene. TOC var forhøyet og i tilstandsklasse III "Moderat" på C1, 
+lett forhøyet på stasjon C3 og C5 med tilstandsklasse II "God" og lavt på de andre stasjonene 
+med klasse I "Svært god". Kobbernivået på C1 og C6 var lett forhøyet og i klasse II "God" og 
+lavt med klasse I "Svært god" på de andre stasjonene. Kadmiumnivåene var lave og i klasse I 
+"Svært god" på alle stasjonene. 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 20 av 25 
+Tabell 15. Innhold av undersøkte kjemiske parametere i sediment. Totalt organisk materiale (TOM), Totalt 
+organisk karbon (TOC), finstoff (pelitt) og nTOC (organisk karbon korrigert for innhold av finstoff). Nitrogen har 
+ikke tilstandsklasser. Karbon-nitrogenforholdet (C/N) er oppgitt som ratio mellom TOC og TN. Kobber (Cu). 
+Kadmium (Cd). Tilstandsklasser og farger er angitt etter klassifiseringsveileder 02:2018 (rev. 2020) og M-
+608:2016 (rev. 2020). Pundsvik, 2023. 
+ 
+C1 
+C2 
+C2alt 
+C3 
+C4 
+C5 
+C6 
+Cref 
+TOM (%) 
+3,7 
+3,1 
+3,3 
+2,6 
+2,3 
+2,1 
+4,7 
+1,5 
+TOC (mg/g) 
+21 
+7,2 
+8,8 
+11 
+7,4 
+8,8 
+11 
+2,6 
+Pelitt (%) 
+67,1 
+65,0 
+71,0 
+35,6 
+40,9 
+20,7 
+85,3 
+91,8 
+nTOC 
+27,4 
+13,5 
+14,0 
+22,4 
+18,0 
+23,1 
+13,8 
+4,1 
+TN (mg/g) 
+3,6 
+1,5 
+1,9 
+3,0 
+1,4 
+1,3 
+1,3 
+0,3 
+C/N 
+6,0 
+4,9 
+4,6 
+3,6 
+5,2 
+6,9 
+8,6 
+9,2 
+Cu (mg/kg) 
+20,2 
+16,5 
+16,7 
+12,4 
+10,8 
+7,4 
+22,1 
+2,0 
+Cd (mg/kg) 
+<0,10 
+<0,10 
+<0,10 
+<0,10 
+<0,10 
+<0,10 
+<0,10 
+<0,10 
+ 
+ 
+ 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 21 av 25 
+6 Sammenfattende vurderinger 
+Veiledende antall prøvestasjoner til undersøkelse type C for lokaliteten er 6 stk, med 
+veiledende avstand til ytterste prøvestasjon på 500 meter (Tabell 1). På bakgrunn av dette, 
+samt resultater fra bunnkartlegging, strømmåling og undersøkelser med B- og C-metodikk, 
+estimeres overgangssonen til lokaliteten. Stasjonsplassering gjøres på bakgrunn av 
+bunntopografi og strømmålinger.  
+Bunnen under anlegget varierer mellom 79 meter som grunnest sørvest i anlegget til 415 
+meter som dypest nordøst i anlegget. Videre skråner bunnen i resipienten til om lag 740 
+meters dybde nordøst for anlegget. 
+Med hovedstrømretning for spredningsdyp mot sørøst er det formålstjenlig å plassere stasjon 
+C2 i denne retningen. På grunn av todelt strøm ved spredningsdyp er det også plassert 
+stasjoner vest for anlegget, inkludert en alternativ C2 stasjon (C2alt). Veiledende avstand til 
+C2 stasjon er benyttet. Det er valgt å plassere en stasjon (C6) øst for anlegget, mot noe dypere 
+områder for å fange opp eventuell akkumulering av materiale i returstrømmens retning.  
+Referansestasjonen er plassert 1062 meter nord for anlegget, med tilsvarende dyp og 
+sedimentforhold som under anlegget (Figur 10 og Figur 11).   
+Resultatene fra forundersøkelsen type B viste naturlige forhold uten tegn til organisk 
+belastning i det meste av anleggssonen, unntatt ved stasjon 6. Dette er i området hvor det har 
+vært drift på lokaliteten og hovedstrømretningen peker delvis inn mot skråningen i sør og 
+sørøst for anlegget, som kan medføre at nedfall hoper seg opp i dette området. 
+Resultatene fra forundersøkelsen type C viste at faunaen var påvirket og i tilstandsklasse IV 
+"Dårlig" på C1 og klasse III "Moderat" på C3 og C4. De andre stasjonene var lite eller ikke 
+påvirket med klasse I "Svært god" og II "God". NS 9410:2016-vurdering av samfunnet i 
+anleggssonen viste miljøtilstand 2 (God). Det ble registrert forurensningsindikatorer blant 
+topp-10 på alle stasjonene unntatt C6 og Cref. Blant støtteparameterne var sedimentene 
+belastet med organisk karbon i klasse III "Moderat" på stasjon C1 og lite eller ikke belastet 
+med klasse I "Svært god" og II "God" på de andre stasjonene. Kobbernivået var lett forhøyet 
+på C1 og C6 og lavt på de andre stasjonene med klasse I "Svært god". Kadmiumnivåene var 
+lave på alle stasjonene og i klasse I "Svært god". Sedimentene var moderat grov- til finkornet 
+med pelittandel mellom 20,7 og 91,8 %. Redoks-målingen i sedimentet på C1 ga poeng 0. 
+Oksygenmetningen i mars var god i hele vannsøylen med 75 % i bunnvannet, noe som 
+tilsvarer tilstandsklasse I "Svært god". 
+Anbefalt plassering av stasjoner til neste undersøkelse er i henhold til forundersøkelsen ved 
+Pundsvik og er vist i Tabell 16. Fremtidig plassering av stasjon C1 vil bestemmes av resultater 
+fra B-undersøkelse for de gjeldene produksjonssyklusene, og følgelig legges mot den delen av 
+resipienten hvor B-undersøkelsen viser størst påvirkning. Referansestasjon inkluderes ikke i 
+neste C-undersøkelse under drift.  
+Overgangssone er estimert på grunnlag av bunntopografi, strømmåling og undersøkelse type 
+C, samt veiledende avstand til C2 stasjon i NS 9410:2016 (Figur 10 og Figur 11).   
+ 
+Akvaplan-niva 2023 64751.01     
+Side 22 av 25 
+Tabell 16. Stasjonsplassering undersøkelse type C. Endring i forhold til utført undersøkelse type C og anbefalt 
+plassering neste undersøkelse. 
+Stasjon 
+Endring i forhold til utført C-undersøkelse 
+GPS-koordinater anbefalt plassering 
+C1 
+Flyttes til det mest belastede område ved neste B-undersøkelse. 
+- 
+C2 
+Ingen endring. 
+68°25,148 N 
+16°48,340 Ø 
+C2alt 
+Ingen endring. 
+68°25,449 N 
+16°45,860 Ø 
+C3 
+Ingen endring. 
+68°25,110 N 
+16°47,136 Ø 
+C4 
+Ingen endring. 
+68°25,334 N 
+16°46,572 Ø 
+C5 
+Ingen endring. 
+68°25,311 N 
+16°46,093 Ø 
+C6 
+Ingen endring. 
+68°25,330 N 
+16°48,139 Ø 
+C7ref 
+Skal ikke inkluderes i neste C-undersøkelse. 
+- 
+ 
+ 
+Figur 10. Anlegg med estimert overgangssone (grønn linje) og stasjoner undersøkelse type C ved MTB >6000 tonn, 
+Pundsvik. Strømrose for spredningsstrøm er vist til høyre, og rødt flagg markerer posisjonen til strømmåleren 
+(Heggem, 2018). 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 23 av 25 
+ 
+Figur 11. Anlegg med estimert overgangssone (grønn linje) og stasjonsplassering undersøkelse type C ved MTB 
+>6000 tonn, Pundsvik. Referansestasjon (Cref) avmerket til venstre i bildet. Strømrose for spredningsstrøm er 
+vist til høyre, og rødt flagg markerer posisjonen til strømmåleren (Heggem, 2018). 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 24 av 25 
+7 Referanser 
+Aure, J., Dahl, E., Green, N., Magnusson. J., Moy, F., Pedersen, A., Rygg, B & Walday, M., 
+1993. Langtidsovervåking av trofiutviklingen i kystvannet langs Sør-Norge. Årsrapport 1990 
+og samlerapport 1990-91. Statlig program for forurensningsovervåking. Rapport 510/93.  
+Eriksen, S.D., 2018. Ballangen Sjøfarm AS. Forundersøkelse type B, april 2018. Nye 
+Pundsvik. Akvaplan-niva rapport nr. 60073.03. 
+Direktoratgruppen, 2018 (revidert 2020). Klassifisering av miljøtilstand i vann. Veileder 
+02:2018 - rev 2020.  
+Fylkeskommunene i Nordland, Troms og Finnmark, Fiskeridirektoratet region Nord, 
+Fiskeridirektoratet region Nordland og Fylkesmann i Nordland, Troms og Finnmark, 2018. 
+"Veiledning til krav om forundersøkelser i henhold til NS9410:2016 i forbindelse med søknad om 
+akvakulturlokaliteter i Nordland, Troms og Finnmark" versjon 1, datert 04.04.2018. 
+Heggem, T., 2018. Ballangen Sjøfarm AS. Strømmålinger Pundsvik. 5 m, 15 m, spredning- og 
+bunndyp. Akvaplan-niva rapport nr. 60057.01.  
+ISO 5667-19:2004. Guidance on sampling of marine sediments. 
+ISO 16665:2014. Water quality – Guidelines for quantitative sampling and sample processing 
+of marine soft-bottom macro fauna. 
+Justad, K. E. & Lippestad, L., 2023. Forundersøkelse med B-metodikk ved Pundsvik (45060), 
+2023. Ballangen Sjøfarm AS. Akvaplan-niva rapport nr. 64750.01. 
+Lippestad, L., 2023. B-undersøkelse ved Pundsvik (45060), mars 2023. Maksimal organisk 
+belastning. Ballangen Sjøfarm AS. Akvaplan-niva rapport nr. 64742.01. 
+Mannvik, H.-P. & Eriksen, S. D., 2018a. C- undersøkelse på oppdrettslokalitet 19556 
+Pundsvik 2018. Akvaplan-niva rapport nr. 60073.02. 
+Mannvik, H.-P. & Eriksen, S. D., 2018b. Forundersøkelse på ny oppdrettslokalitet, Pundsvik 
+2018. Akvaplan-niva rapport nr. 60073.01. 
+Mannvik, H.-P. & Justad, K. E., 2023a. C-undersøkelse ved Pundsvik (45060), 2023. Ballangen 
+Sjøfarm AS. Akvaplan-niva rapport nr. 64745.01. 
+Mannvik, H.-P. & Justad, K. E., 2023b. Forundersøkelse type C ved Pundsvik (45060), 2023. 
+Ballangen Sjøfarm AS. Akvaplan-niva rapport nr. 64747.01. 
+Mannvik, H.-P. & Lorås, G.W., 2021. C-undersøkelse ved lokalitet Pundsvik (19556), 2021. 
+Akvaplan-niva rapport nr. 62707.02. 
+NS 9410:2016. Norsk standard for miljøovervåking av bunnpåvirkning fra marine 
+akvakulturanlegg. 
+Pers med. Kent David Pedersen, kvalitetskoordinator, Ballangen Sjøfarm AS. 
+ 
+Akvaplan-niva 2023 64751.01     
+Side 25 av 25 
+Rygg, B. & K. Norling, 2013. Norwegian Sensitive Index (NSI) for marine 
+macroinvertebrates, and an update of Indicator Species Index (ISI). NIVA report SNO 6475-
+2013. 48 p. 
+https://www.statsforvalteren.no/nb/Nordland/ 
+www.fiskeridir.no

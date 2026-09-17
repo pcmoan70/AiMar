@@ -1,0 +1,7527 @@
+﻿C-undersøkelse 
+NS9410:2007 
+ASC-undersøkelse 
+ASC Salmon Standard - Version 1.0 2012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lokalitet: 
+Jørstadskjera 
+Dato for felt: 
+13/14.01.16 
+Oppdragsgiver: 
+Bremnes Seashore AS 
+ 
+ 
+ 
+                               Anapagurus laevis 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 2 av 74 
+ 
+Rapport 
+Tittel 
+C-undersøkelse for Jørstadskjera med ASC-undersøkelse 
+Rapportnr. 
+MCR-M-023- Jørstadskjera -0316 
+Rapportdato 
+01.03.2016 
+Dato feltarbeid 
+13/14.01.2016 
+Revisjonsnr. 
+- 
+Revisjonsbeskrivelse 
+- 
+Lokalitet 
+Lokalitet 
+Jørstadskjera, 
+Finnøy,Rogaland 
+Lokalitetsnummer 
+30036 
+Oppdragsgiver 
+Selskap: 
+ 
+Bremnes Seashore AS 
+Kontakt person: 
+Geir Magne Knutsen 
+geir-magne@seashore.no 
+Tlf.: 91833233 
+Oppdragsansvarlig 
+Selskap 
+ 
+ 
+Havbrukstjenesten AS 
+Siholmen, 7260 SISTRANDA 
+Organisasjon nr. 963 554 052 
+Ansvarlig prøvetaking 
+Vegard Aambø Langvatn 
+Rapportansvarlig 
+Dagfinn Skomsø 
+Dagfinn@havbrukstjenesten.no 
+Tlf.:  
+Forfatter (e) 
+Svein Olav Humberset 
+Bjørn Erik Bye 
+Øystein Stokland 
+Godkjent av 
+Arild Kjerstad 
+arild@havbrukstjenesten.no                     
+Tlf.: 909 42 055               
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 3 av 74 
+ 
+Forord 
+ 
+Denne rapporten omhandler en C-undersøkelse av lokalitet Jørstadskjera. C-undersøkelsen er også en del 
+av en ASC-undersøkelse. ASC-undersøkelsen er presentert i kapittel 6.   
+ 
+Havbrukstjenesten AS er akkreditert for vurdering og fortolkning av resultater etter SFT-Veileder 97:03 
+og Norsk Standard NS 9410, samt NIVA- rapport 4548 (Berge 2002) og Veileder 02:2013 (Anon 2013) 
+ved Direktoratgruppa for gjennomføring av vanndirektivet. Havbrukstjenesten AS sitt laboratorium 
+tilfredsstiller kravene i NS-EN ISO/IEC 17025.  
+ 
+Furene, 01.03.2016 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 4 av 74 
+ 
+Sammendrag 
+ 
+Denne rapporten omhandler en C-undersøkelse og en ASC undersøkelse ved lokaliteten Jørstadskjera i 
+Finnøy kommune, Rogaland. Resultater og sammendrag fra ASC er presentert i kapittel 6.   
+ 
+Formålet med C-undersøkelsen var å beskrive miljøtilstanden i området basert på vann-, sediment-, kjemi- 
+og bunndyrsundersøkelser etter drift av oppdrettsanlegg i området. Det ble samlet prøver fra tre stasjoner i 
+måned år, en ved anlegget (JØR-1), en i overgangssonen (JØR-2) og en fjernstasjon (JØR-3).  
+ 
+Totalt sett viser denne C-undersøkelsen at nærstasjonen (JØR-1) ser ut til å bære noe preg av 
+oppdrettsvirksomheten da individantallet av bunnfauna ble dominert med 69 % av den 
+forurensningsindikerende flerbørstemarken Capitella capitata. Det ble også målt høye verdier av kobber 
+og fosfor sammenlignet med fjernstasjonen (Jør-3), som kan settes i forbindelse med utslipp fra 
+oppdrettsanlegget. Nivået av TOC og sink var for øvrig ikke særlig høyt og ble klassifisert med beste 
+tilstandsklassen.  
+ 
+Overgangsstasjonen ser ut til å være noe mindre påvirket enn nærstasjonen, men var dominert av 
+forurensingstolerante individer samtidig som både nivået av fosfor og kobber var høyt sammenlignet med 
+fjernstasjonen. Nivået av sink og TOC var for øvrig innenfor relativt normale verdier.  
+ 
+Fjernstasjonen fremstod som relativt upåvirket der mangfold og mengder av bunnfauna ble vurdert til å 
+være rett utenfor det som forbindes med upåvirkede forhold (generell beskrivelse av tilstandsklassen II – 
+god i vanndirektivet). Dette støttes av normale verdier av både kobber, sink og lave verdier av fosfor. 
+Nivået av TOC var også rett utenfor det som forbindes med upåvirkede verdier (generell beskrivelse i 
+vanndirektivet).  
+ 
+Oppsummering av alle klassifiseringer finnes for øvrig i Kapitel 5. 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 5 av 74 
+ 
+Innholdsfortegnelse 
+ ....................................................................................................................................................... 1 
+1 Innledning ........................................................................................................................................... 6 
+2 Bakgrunn ............................................................................................................................................. 7 
+2.2 Produksjonsdata fra anlegget .................................................................................................. 9 
+3 Metode ............................................................................................................................................... 10 
+3.1 Valg av stasjoner ................................................................................................................... 10 
+3.2 Fauna-, kjemi-, geologi- og hydrografimålinger ................................................................... 11 
+3.3 Oversikt over utført arbeid .................................................................................................... 12 
+4 Resultater fra C-undersøkelsen....................................................................................................... 13 
+4.1 Bunndyrsanalyse ................................................................................................................... 13 
+4.1.1 Nærstasjonen - JØR-1 ........................................................................................................ 13 
+4.1.2 Overgangsstasjonen - JØR-2 .............................................................................................. 15 
+4.1.3 Fjernstasjonen - JØR-3 ....................................................................................................... 17 
+4.1.4 Geometriske klasser ........................................................................................................... 20 
+4.2 Hydrografi ............................................................................................................................. 21 
+4.3 Sediment - Kornfordeling ..................................................................................................... 23 
+4.4 Sediment – Totalt organisk karbon (TOC), fosfor, sink og kobber ...................................... 24 
+4.5 Sediment - pH og Redokspotensial (Eh), sensoriske vurderinger. ........................................ 24 
+5 Oppsummering ................................................................................................................................. 25 
+5.1 Bunnfauna: Oppsummering og vurdering av miljøtilstand ................................................... 25 
+5.2 Fysiske parametere: Oppsummering og vurdering av miljøtilstand ..................................... 25 
+5.3 Total tilstand ved lokaliteten og øvrige kommentarer........................................................... 26 
+6 ASC-Undersøkelse ............................................................................................................................ 27 
+6.1 Innledning ASC ..................................................................................................................... 28 
+6.2 Materiale og metode; Stasjonsplassering .............................................................................. 29 
+6.3 Resultater fra ASC-undersøkelsen ........................................................................................ 30 
+6.3.1 JØR-1 (ved merde, innenfor AZE) ..................................................................................... 31 
+6.3.2 JØR-2 (utenfor AZE) ......................................................................................................... 32 
+6.3.3 JØR-3 (utenfor AZE) ......................................................................................................... 33 
+6.3.4 JØR-4 (ved merde, innenfor AZE) ..................................................................................... 34 
+6.3.5 JØR-5 (utenfor AZE) ......................................................................................................... 35 
+6.3.6 JØR-6 (utenfor AZE) ......................................................................................................... 36 
+6.3.6 Diskusjon ........................................................................................................................... 37 
+7 Referanser ......................................................................................................................................... 38 
+8 Vedlegg .............................................................................................................................................. 39 
+Vedlegg 1 - Indeksbeskrivelser ................................................................................................... 39 
+Vedlegg 2 - Referansetilstander med tilhørende tilstandsklasser. ............................................... 43 
+Vedlegg 3 - Klassifisering av forurensningsgrad (NSI) .............................................................. 45 
+Vedlegg 4 - Feltlogg (MOM B parametere) ................................................................................ 47 
+Vedlegg 5 - Artsliste for bunnfauna ............................................................................................ 48 
+Vedlegg 6 - Indekser for nær- og overgangsstasjonen ................................................................ 54 
+Vedlegg 7 - CTD Data ................................................................................................................ 56 
+Vedlegg 8 - Analysebevis fra ALS ............................................................................................. 67 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 6 av 74 
+ 
+1 Innledning 
+En C-undersøkelse er en undersøkelse av bunntilstanden fra anlegget og utover i resipienten. Denne består 
+av omfattende undersøkelser av makrofauna i bløtbunn samt målinger av fysiske og kjemiske parametere 
+(hydrografi, sediment, miljøgifter). Bløtbunnsfauna domineres i hovedsak av flerbørstemark, krepsdyr og 
+muslinger. Artssammensetningen i sedimentet kan gi viktige opplysninger om miljøforholdene ved en 
+lokalitet da de fleste marine bløtbunnsarter er flerårige og relativt lite mobile.  
+ 
+Miljøforholdene er avgjørende for antall arter og antall individer innenfor hver art i et bunndyrsamfunn. 
+Ved naturlige forhold vil et bunndyrsamfunn inneholde mange ulike arter med en relativt jevn fordeling av 
+individer blant disse artene. Flertallet av artene vil oftest forekomme med et moderat antall individer. 
+Moderat organisk belastning kan stimulere bunndyrsamfunnet slik at artsantallet øker, mens ved en større 
+organisk belastning i et område vil antallet arter reduseres. Opportunistiske arter, slik som de 
+forurensningstolerante (forurensningsindikerende) flerbørstemarkene Capitella capitata og Malacoceros 
+fuliginosus, vil da øke i antall individer mens mer sensitive arter vil forsvinne.  
+ 
+De fleste former for liv i sjøen er avhengig av oksygeninnholdet i vannmassene. I åpne områder med god 
+vannutskiftning og sirkulasjon er oksygenforholdene som regel tilfredsstillende. Stor tilførsel av organisk 
+materiale kan imidlertid føre til at oksygeninnholdet i vannet blir lavt fordi oksygenet forbrukes ved 
+nedbrytning. Terskler og trange sund kan føre til dårlig vannutskiftning, og dermed redusert tilførsel av nytt 
+oksygenrikt vann. Ved utilstrekkelig tilførsel av oksygen kan det ved nedbrytning av organisk materiale 
+dannes hydrogensulfid (H2S), som er giftig for biologisk aktivitet. I tillegg til bunndyrsanalyser kan 
+surhetsgrad (pH) og redokspotensialet (Eh) måles for å avgjøre om sedimentet er belastet av organisk 
+materiale. Sure tilstander (lav pH) og lavt reduksjonspotensiale (lav Eh) reflekterer lite oksygen i sedimentet 
+og kan indikere en signifikant grad av organisk belastning. Organisk materiale i sedimentet måles som totalt 
+organisk karbon (TOC). I tillegg måles tungmetaller (sink og kobber) og fosfor i sedimentene for å vurdere 
+i hvilken grad området er påvirket av eventuell kilde til forurensing.   
+ 
+Miljøundersøkelser i forbindelse med oppdrett skal gjøres med utgangspunkt i NS 9410:2007. I denne 
+standarden står det at stasjoner for nær- og overgangssonen skal klassifiseres ut i fra arts- og individantall. 
+Stasjon i fjernsonen skal for øvrig bedømmes ut ifra diversitets og sensitivtetsindekser som beskrevet i 
+veileder 02:2013 (Anon, 2013).  
+ 
+Direktoratgruppen for gjennomføring av vanndirektivet har gitt retningslinjer for å klassifisere 
+miljøkvaliteten i marine områder (Anon, 2013). Når bløtbunnsfauna brukes i klassifisering, benyttes 
+diversitets og sensitivitetsindeksene; Shannon-Wieners (H’), den sammensatte indeksen NQI1 (diversitet 
+og sensitivitet), ES100 (diversitet), International sensitivity index (ISI), Norwegian sensitivity indeks (NSI) 
+og Density Index (DI). Hver indeks er tildelt referanseverdier som deler funnene inn i ulike tilstandsklasser. 
+Miljøkvaliteten i et område vil dermed kunne vurderes med utgangspunkt i disse tilstandsklassene. 
+Tilstandsklasser vil ofte kunne gi et godt inntrykk av de reelle miljøforhold, særlig når de vurderes i 
+sammenheng med artssammensetningen i prøvene for øvrig. Slike tilstandsklasser må like fullt brukes med 
+forsiktighet, og inngå i en helhetlig vurdering sammen med andre resultater, for at konklusjonene skal bli 
+korrekte. Klima og forurensningsdirektoratet (Klif) legger imidlertid vekt på indekser når miljøkvaliteten i 
+et område skal anslås på bakgrunn av bløtbunnfauna (Molvær et al. 1997 og Veileder 02:2013). For 
+beregning av indekser og referanseklasser se vedlegg 1 og 2. 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 7 av 74 
+ 
+2 Bakgrunn 
+ 
+2.1 Undersøkelsesområdet 
+Oppdrettslokaliteten Jørstadskjera ligger i Jelsafjorden i Finnøy kommune, Rogaland. Anlegget 
+ligger på nordsida av øya Ombo (Figur 2.1). Dypet under anlegget varierte mellom ca. 100-200 
+meter. Anlegget ligger over ei relativt jamn skråning nedover. 
+ 
+Geografisk plassering av anlegget vises i Figur 2.1, mens plassering av anlegg med 
+omkringliggende bunntopografi samt stasjonsvalg vises i Figur 2.2.  
+ 
+ 
+Figur 2.1 Geografisk plassering av lokaliteten Jørstadskjæra. Anlegget er merket med et fisketegn/rød firkant.  
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 8 av 74 
+ 
+ 
+Figur 2.2 Plassering av lokaliteten Jørstadskjæra med bunntopografi.  
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 9 av 74 
+ 
+2.2 Produksjonsdata fra anlegget 
+ 
+Sist det sto fisk i anlegget var perioden mars-september 2015. Etter september har anlegget vært brakklagt. 
+Totalt fôrforbruk på lokaliteten i utsett-perioden var ca. 942 tonn (Figur 2.3).  
+ 
+ 
+ 
+Figur 2.3 Fõrforbruk ved Jørstadskjera mellom januar 2015 og mars 2016. Pil markerer tidspunkt for C- og ASC 
+undersøkelsen.  
+ 
+0
+50
+100
+150
+200
+250
+300
+350
+Januar
+Februar
+Mars
+April
+Mai
+Juni
+Juli
+August
+September
+Oktober
+November
+Desember
+Januar
+Februar
+Mars
+2015
+2016
+Fôrforbruk, tonn
+Måned
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 10 av 74 
+ 
+3 Metode  
+ 
+3.1 Valg av stasjoner  
+Valg av stasjoner og innsamling av prøvemateriale er utført iht. NS 9410:2007. Stasjonene JØR-1 – JØR-3 
+er lagt i hovedstrømretning for anlegget. Stasjonsplassering er vist i Figur 2.2, mens stasjonsopplysninger 
+finnes i Tabell 3.1. 
+ 
+Tabell 3.1 Stasjonsbeskrivelse ved lokalitet Jørstadskjera. Volum angir mengde sediment i liter som gjennomsnitt for 
+tre grabbhugg for hver stasjon. 
+Stasjon 
+Posisjon 
+Dyp 
+(m) 
+Undersøkte 
+parametere 
+Sediment 
+beskrivelse 
+Volu
+m (l) 
+Akkre-
+ditert 
+hugg 
+Merknader 
+JØR-1 
+59o 17.501  'N 
+05o 56.119  'Ø 
+- 
+Fauna-
+kvantitativ.  
+pH/Eh, 
+kjemi, 
+geologi. 
+Grå farge, ingen 
+lukt. Myk 
+konsistens. 
+13,01 
+Ja 
+Nærstasjon 
+(C-und.) 
+JØR-2 
+59o 17.546  'N 
+05o 55.931  'Ø 
+- 
+Fauna-
+kvantitativ.  
+pH/Eh, 
+kjemi, 
+geologi. 
+Grå farge, ingen 
+lukt. Myk 
+konsistens. 
+16,47 
+Ja 
+Overgangs- 
+stasjon 
+(C-und.) 
+JØR-3 
+59o 17.658  'N 
+05o 55.334  'Ø 
+- 
+Fauna-
+kvantitativ.  
+pH/Eh, 
+kjemi, 
+geologi. 
+Hydrografi 
+ 
+Grå farge, ingen 
+lukt. Myk 
+konsistens. 
+16,47 
+Ja 
+Fjernstasjon 
+(C-und.) 
+JØR-4 
+59o 17.656  'N 
+05o 56.135  'Ø 
+- 
+Fauna-
+kvantitativ. 
+ 
+Grå farge, ingen 
+lukt. Myk 
+konsistens. 
+16,47 
+Ja 
+ASC 
+JØR-5 
+59o 17.669  'N 
+05o 56.249  'Ø 
+- 
+Fauna-
+kvantitativ.  
+pH/Eh, 
+Kobber. 
+Grå farge, ingen 
+lukt. Myk 
+konsistens. 
+14,16 
+Ja 
+ASC 
+JØR-6 
+59o 17.960  'N 
+05o 56.576  'Ø 
+- 
+Fauna-
+kvantitativ.  
+pH/Eh 
+Kobber. 
+ 
+Grå farge, ingen 
+lukt. Myk 
+konsistens. 
+16,47 
+Ja 
+ASC 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 11 av 74 
+ 
+3.2 Fauna-, kjemi-, geologi- og hydrografimålinger  
+Det ble tatt tre grabbhugg på hver stasjon med 0,1 m2 van Veen grabb; hvorav to grabber ble tatt ut til 
+faunaundersøkelse og en grabb til geologiske- og kjemiske undersøkelser. For faunaundersøkelsen ble de 
+to grabbprøvene vasket i en sikt (1 mm åpning), fiksert med 4 % formalin tilsatt farge (bengalrosa) og 
+nøytralisert med boraks. Alle prøver ble grovsortert, identifisert og kvantifisert i henhold til NS-EN ISO 
+16665:2013. Det ble foretatt subsampling (1/4) av dyr på stasjon Jør-4.  
+ 
+Artenes toleranse til forurensing er angitt av de fem økologiske gruppene som NSI-indeksen faller under. 
+For nærmere beskrivelse av de økologiske gruppene se vedlegg 3. Klassifisering av tilstand for stasjonene 
+gjøres etter beskrivelse i NS 9410, der stasjon i nær- og overgangsstasjonen bedømmes på bakgrunn av 
+arts og individantall, mens stasjonen for fjernsonen bedømmes på bakgrunn av en normalisert samlet verdi 
+(nEQR) av indeksene: NQI1, Shannon Wiener (H`), ES100, ISI, NSI og DI. Det er likevel beregnet 
+indekser for nær- og overgangsstasjonen som er lagt ved i vedlegg 6 (Tabell V.6.1 og V.6.2). For analyse 
+av kornfordeling ble det tatt sediment prøver fra det samme hugget som det ble tatt ut prøve for kjemiske 
+analyser fra. 
+ 
+Utregningen av artsmangfold (ESl00) og jevnhet (J) og ble utført med programpakken PRIMER 6.1.6/7 
+fra Plymouth Laboratories, England. Sensitivitetsindeksen AMBI (komponent i NQI1) ble utregnet ved 
+hjelp av programpakken AMBI, versjon 5.0 fra AZTI-Tecnalia. Alle øvrige utregninger ble utført i 
+Microsoft Excel 2013. Shannon-Wieners indeks og Jevnhetsindeksen (J) ble regnet ut i henhold til 
+Shannon & Weaver, 1949 og Veileder 02:2013. ISI- og NSI-indeksene ble beregnet i henhold til Rygg & 
+Norling, 2013. AMBI-indeks, NQI1-indeks, DI-indeks ble beregnet etter Veileder 02:13 (Anon 2013). 
+Vurderinger og fortolkninger ble foretatt ut fra Anon, 2013. Alle utregninger er beskrevet med formler i 
+vedlegg 1.  
+ 
+For de kjemiske parameterne ble det tatt ut prøve til analyse av TOC, fosfor (P), kobber (Cu) og sink (Zn) 
+fra samme hugget som det ble tatt ut prøve for kornfordeling. Analysene ble utført av ALS AS, metode er 
+beskrevet i Tabell 3.2, analysebevis finnes i vedlegg 8.  
+ 
+Surhetsgrad (pH) og redokspotensialet (Eh) ble målt med en måler av typen YSI Professional Plus. 
+ 
+Målinger for hydrografi ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden med et 
+påmontert lodd ble firt til loddet traff bunnen og deretter hevet til overflaten. Sonden gjorde én registrering 
+hvert 2. sekund og målte saltholdighet, temperatur og oksygeninnhold ved både senking og heving av 
+sonden. Beste profil ble benyttet. Uthenting av data ble gjort med programvaren Minisoft SD200w versjon 
+3.18.7.172. 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 12 av 74 
+ 
+3.3 Oversikt over utført arbeid  
+Oversikt over utført arbeid er listet opp i Tabell 3.2.  
+ 
+Tabell 3.2 Oversikt over arbeid utført av Havbrukstjenesten AS og hvilke underleverandører som er benyttet. Celler 
+merket med anførselstegn (“), refererer til første cellen over med tekst.  
+Arbeid 
+Leverandør 
+Personell 
+Akkreditering 
+Standard 
+Feltarbeid 
+Havbrukstjenesten 
+AS 
+Vegard Langvatn 
+Ja 
+ 
+NS-EN ISO 
+16665:2013  
+Grovsortering 
+“ 
+Jolanta Jagminiene 
+TEST 252: P21 
+“ 
+Artsidentifisering 
+“ 
+Øystein Stokland 
+Martin Skarsvåg 
+“ 
+“ 
+Statistiske 
+utregninger 
+“ 
+Ingrid Kjerstad 
+“ 
+“ 
+Vurdering og 
+tolkning av 
+bunnfauna 
+“ 
+Øystein Stokland 
+Ingrid Kjerstad 
+TEST 252: P32 
+Veileder 02:2013 
+SFT 97:03 & NS 
+9410, ASC Salmon 
+standard V 1.0 2012 
+Surhetsgrad (pH) og 
+redokspotensiale (Eh) 
+“ 
+Vegard Langvatn 
+Nei 
+ 
+CTD-målinger 
+“ 
+Vegard Langvatn 
+Nei 
+ 
+Kobber (Cu), Sink 
+(Zn) 
+ALS Laboratory 
+Group 
+ALS personell 
+CZECH 
+Accreditation 
+Institute, lab nr. 
+1163 
+EPA 
+200.7, 
+ISO 
+11885, EPA 6010, SM 
+3120 
+Fosfor (P) 
+“ 
+“ 
+“ 
+CSN 72 0116-1 
+Total organisk 
+karbon (TOC) 
+“ 
+- 
+“ 
+Modifisert ISO 10694 
+og 
+modifisert 
+EN 
+13137 
+Kornfordeling 
+“ 
+“ 
+“ 
+ISO 11277:2009 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 13 av 74 
+ 
+4 Resultater fra C-undersøkelsen 
+ 
+4.1 Bunndyrsanalyse  
+Resultatene fra nær-, overgangs- og fjernsonen er presentert i avsnittene under, og komplett artsliste finnes 
+i vedlegg 5.   
+ 
+4.1.1 Nærstasjonen - JØR-1 
+Ved JØR-1 ble det funnet 3440 individer fordelt på 28 arter i de to grabbene. Hyppigst forekommende art 
+ved stasjonen var den forurensingsindikerende flerbørstemarken Capitella capitata (NSI-gruppe 5) som 
+utgjorde omtrent 69 % av det totale individantallet (Tabell 4.1 og Figur 4.1). Nest hyppigst forekommende 
+art ved stasjonen var den forurensingstolerante flerbørstemarken Paramphinome jeffreysii (NSI-gruppe 3) 
+som utgjorde omtrent 23 % av det totale individantallet. Den tredje hyppigst forekommende art ved 
+stasjonen var den fourensingstolerante og opportunistiske muslingen Thyasira sarsii som utgjorde omtrent 
+2 % av det totale individantallet. Tabell 4.1 viser en oversikt over de ti hyppigst forekommende artene ved 
+stasjonen JØR-1.  
+ 
+Grunnet høy forekomst av C. capitata er antall individer høyere enn normalen. Antall registrerte arter var 
+relativt lavt og like under normalen. Stasjonen ble likevel klassifisert med miljøtilstand 2: «god», da ingen 
+enkeltarter utgjorde ≥ 90 % av totalt individantall.  
+ 
+Tabell 4.1 De ti hyppigst forekommende artene ved JØR-1, oppgitt i antall og prosent, samt NSI-gruppe for de 
+respektive artene. NSI-gruppe 1: forurensingssensitiv, gruppe 2: forurensingsnøytral, gruppe 3: forurensingstolerant, 
+gruppe 4: forurensingstolerant og opportunistisk, gruppe 5: forurensingsindikerende. Celler merket med i.a. betyr at 
+arten ikke er tildelt NSI-gruppe.  
+JØR-1 
+NSI-gruppe 
+Antall 
+Prosent (%) 
+Capitella capitata 
+5 
+2382 
+69,24 
+Paramphinome jeffreysii 
+3 
+804 
+23,37 
+Thyasira sarsi 
+4 
+65 
+1,89 
+Heteromastus filiformis 
+4 
+39 
+1,13 
+Nemertea  
+3 
+35 
+1,02 
+Prionospio steenstrupi 
+2 
+31 
+0,90 
+Aphelochaeta sp. 
+2 
+15 
+0,44 
+Chaetozone setosa 
+4 
+13 
+0,38 
+Pholoe baltica 
+3 
+11 
+0,32 
+Philine scabra 
+2 
+7 
+0,20 
+Øvrige arter 
+- 
+38 
+1,10 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 14 av 74 
+ 
+ 
+Figur 4.1 Fordeling av antall individer for de tre hyppigste artene ved nærstasjonen JØR-1. Fordelingen er basert på 
+stasjonsverdien (Ṧ) for antall individer per art funnet ved stasjonen. 
+ 
+ 
+Capitella capitata
+69 %
+Paramphinome 
+jeffreysii
+23 %
+Thyasira sarsi
+2 %
+Øvrige arter
+6 %
+JØR-1
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 15 av 74 
+ 
+4.1.2 Overgangsstasjonen - JØR-2 
+Ved JØR-2 ble det funnet 1372 individer fordelt på 75 arter i de to grabbene. Hyppigst forekommende art 
+ved stasjonen var den forurensingstolerante flerbørstemarken Paramphinome jeffreysii (NSI-gruppe 3) som 
+utgjorde omtrent 43 % av det totale individantallet (Tabell 4.2 og Figur 4.2). Nest hyppigst forekommende 
+taxa ved stasjonen var fra den forurensingsnøytrale flerbørstemarslekten Aphelochaeta (NSI-gruppe 2) som 
+utgjorde omtrent 7 % av det totale individantallet. Den tredje hyppigst forekommende art ved stasjonen var 
+den forurensingstolerante muslingen Thyasira equalis (NSI-gruppe 3) som utgjorde omtrent 9 % av det 
+totale individantallet. Tabell 4.2 viser en oversikt over de ti hyppigst forekommende artene ved stasjonen 
+JØR-2.  
+ 
+Antall arter var innenfor normalen, mens antall individer var over normalen. Da ingen enkeltarter utgjorde 
+≥ 65 % ble stasjonen klassifisert (NS9410:2007) med miljøtilstand 1: «meget god». 
+ 
+Tabell 4.2 De ti hyppigst forekommende artene ved JØR-2, oppgitt i antall og prosent, samt NSI-gruppe for de 
+respektive artene. NSI-gruppe 1: forurensingssensitiv, gruppe 2: forurensingsnøytral, gruppe 3: forurensingstolerant, 
+gruppe 4: forurensingstolerant og opportunistisk, gruppe 5: forurensingsindikerende. Celler merket med i.a. betyr at 
+arten ikke er tildelt NSI-gruppe. 
+JØR-2 
+NSI-gruppe 
+Antall 
+Prosent (%) 
+Paramphinome jeffreysii 
+3 
+594 
+43,29 
+Aphelochaeta sp. 
+2 
+132 
+9,62 
+Thyasira equalis 
+3 
+126 
+9,18 
+Heteromastus filiformis 
+4 
+73 
+5,32 
+Chaetozone setosa 
+4 
+60 
+4,37 
+Eriopisa elongata 
+2 
+32 
+2,33 
+Onchnesoma steenstrupii 
+1 
+32 
+2,33 
+Amphilepis norvegica 
+2 
+28 
+2,04 
+Rhodine loveni 
+2 
+23 
+1,68 
+Nucula tumidula 
+2 
+19 
+1,38 
+Øvrige arter 
+- 
+253 
+18,44 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 16 av 74 
+ 
+ 
+Figur 4.2: Fordeling av antall individer for de tre hyppigste artene ved overgangsstasjonen JØR-2. Fordelingen er 
+basert på stasjonsverdien (Ṧ) for antall individer per art funnet ved stasjonen. 
+ 
+ 
+Paramphinome 
+jeffreysii
+43 %
+Aphelochaeta sp.
+10 %
+Thyasira equalis
+9 %
+Øvrige arter
+38 %
+JØR-2
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 17 av 74 
+ 
+4.1.3 Fjernstasjonen - JØR-3 
+Ved JØR-3 ble det funnet 423 individer fordelt på 44 arter i de to grabbene. Hyppigst forekommende art 
+ved stasjonen var den forurensingstolerante flerbørstemarken Paramphinome jeffreysii som utgjorde 
+omtrent 15 % av det totale individantallet (Tabell 4.3 og Figur 4.3). Nest hyppigst forekommende art ved 
+stasjonen var den forurensingsnøytrale slangestjernen Amphilepis norvegica som utgjorde i overkant av 12 
+% av det totale individantallet. Den tredje hyppigst forekommende art ved stasjonen var den 
+forurensingssensitive pølseormen Onchnesoma steenstrupii som utgjorde i underkant av 12 % av det totale 
+individantallet. Tabell 4.3 viser en oversikt over de ti hyppigst forekommende artene ved stasjonen JØR-3. 
+Beregnede indekser for stasjonen er oppsummert i Tabell 4.4. og Tabell 4.5 inneholder en forklaring på de 
+ulike indeksene som er benyttet.   
+ 
+Både antall arter og individer var innenfor normalen (Veileder 02:2013). Basert på stasjonens samlede verdi 
+(gjennomsnitt av nEQR Ḡ og Ṧ,Tabell 4.4) ble fjernstasjonen totalt sett klassifisert i tilstandsklassen II 
+«god». 
+ 
+Tabell 4.3 De ti hyppigst forekommende artene ved JØR-3, oppgitt i antall og prosent, samt NSI-gruppe for de 
+respektive artene. NSI-gruppe 1: forurensingssensitiv, gruppe 2: forurensingsnøytral, gruppe 3: forurensingstolerant, 
+gruppe 4: forurensingstolerant og opportunistisk, gruppe 5: forurensingsindikerende. Celler merket med i.a. betyr at 
+arten ikke er tildelt NSI-gruppe. 
+JØR-3 
+NSI-gruppe 
+Antall 
+Prosent (%) 
+Paramphinome jeffreysii 
+3 
+62 
+14,66 
+Amphilepis norvegica 
+2 
+52 
+12,29 
+Onchnesoma steenstrupii 
+1 
+50 
+11,82 
+Terebellides stroemii 
+2 
+41 
+9,69 
+Heteromastus filiformis 
+4 
+38 
+8,98 
+Eriopisa elongata 
+2 
+20 
+4,73 
+Nucula tumidula 
+2 
+19 
+4,49 
+Thyasira equalis 
+3 
+18 
+4,26 
+Rhodine loveni 
+2 
+14 
+3,31 
+Lumbrineridae  
+2 
+11 
+2,60 
+Øvrige arter 
+- 
+98 
+23,17 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 18 av 74 
+ 
+ 
+Figur 4.3: Fordeling av antall individer for de tre hyppigste artene ved fjernstasjonen JØR-3. Fordelingen er basert på 
+stasjonsverdien (Ṧ) for antall individer per art funnet ved stasjonen. 
+ 
+Paramphinome 
+jeffreysii
+15 %
+Amphilepis 
+norvegica
+12 %
+Onchnesoma 
+steenstrupii
+12 %
+Øvrige arter
+61 %
+JØR-3
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 19 av 74 
+ 
+Tabell 4.4 Resultater for fjernstasjonen JØR-3 fra grabb 2 og grabb 3; arts- og individantall for hver enkelt grabb, samt 
+gjennomsnitt (Ḡ) og stasjonsverdi (Ṧ), utregnede indekser for hver enkelt grabb, gjennomsnitt og stasjonsverdi, 
+normaliserte verdier (nEQR) for gjennomsnittet og stasjonsverdien for hver enkelt indeks, samt «samlet verdi», som 
+er gjennomsnittet av gjennomsnittlig verdi for normalisert verdi for gjennomsnitt og stasjonsverdi. Fargene som er 
+brukt i tabellene nedenfor hvilke tilstandsklasser de ulike indeksverdiene hører til i; blå tilsvarer tilstandsklassen «svært 
+god», grønn  «god», gul  «moderat», oransje  «dårlig» og rød  «svært dårlig». 
+JØR-3 
+Grabb 2 
+Grabb 3 
+Ḡ 
+Ṧ 
+nEQR Ḡ 
+nEQR Ṧ 
+S 
+32 
+33 
+32,5 
+44 
+  
+  
+N 
+202 
+221 
+211,5 
+423 
+  
+  
+NQI1 
+0,759 
+0,771 
+0,765 
+0,775 
+0,742 
+0,752 
+H' 
+4,024 
+4,204 
+4,114 
+4,264 
+0,724 
+0,740 
+J 
+0,805 
+0,833 
+0,819 
+0,781 
+  
+  
+H'max 
+5,000 
+5,044 
+5,022 
+5,459 
+  
+  
+ES100 
+23,920 
+25,290 
+24,605 
+25,970 
+0,689 
+0,706 
+ISI 
+9,945 
+10,010 
+9,977 
+10,138 
+0,822 
+0,832 
+NSI 
+24,809 
+24,845 
+24,827 
+24,828 
+0,793 
+0,793 
+DI 
+0,255 
+0,294 
+0,275 
+0,275 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Samlet verdi: 
+0,759 
+  
+0,754 
+0,765 
+ 
+ 
+Tabell 4.5 Beskrivelser av indekser og forkortelser brukt i Tabell 4.4.  
+Indeks 
+Beskrivelse 
+S 
+Antall arter i prøven  
+N 
+Antall individer i prøven 
+NQI1 
+Sammensatt indeks: Artsmangfold og ømfintlighet  
+H′ 
+Indeks: Artsmangfold (Shannon-Wieners) 
+ES100 
+Indeks: Hurlberts diversitetsindeks (Kun oppgitt dersom N ≥ 100)  
+J 
+Indeks: Jevnhetsindeks 
+H′max 
+Maksimal diversitet som kan oppnås ved et gitt antall arter (= log2S) 
+ISI 
+Sensitivitetsindeks (Indicator Species Index) 
+NSI 
+Sensitivitetsindeksbasert norske forhold, hvor individantall også inngår 
+DI 
+Indeks for individtetthet (Density Index) 
+Ḡ 
+Gjennomsnittlig verdi for grabb 1 og 2 
+Ṧ 
+Stasjonsverdi (kombinert verdi for grabb 1 og 2)  
+nEQR  
+Normaliserte verdier (Normalised Ecological Quality Ratio)  
+Samlet verdi 
+Gjennomsnittet av alle indeksenes nEQR-verdi  
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 20 av 74 
+ 
+4.1.4 Geometriske klasser  
+Figur 4.4 viser antall arter plottet mot antall individer for stasjon JØR-1, JØR-2 og JØR-3, der antallet 
+individer er delt inn i geometriske klasser.  
+ 
+ 
+ 
+ 
+Figur 4.4: Antall arter plottet mot antall individer for stasjon JØR-1, JØR-2 og JØR-3 er antallet individer er delt inn i 
+geometriske klasser. 
+ 
+ 
+0
+5
+10
+15
+20
+Antall arter
+Antall individer
+Geometriske klasser 
+JØR-1 Gr 2
+JØR-1 Gr 3
+JØR-2 Gr 2
+JØR-2 Gr 3
+JØR-3 Gr 2
+JØR-3 Gr 3
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 21 av 74 
+ 
+4.2 Hydrografi 
+Saltholdighet, temperatur og oksygeninnhold ble målt fra overflaten og til like over bunnen på stasjon JØR-
+3. Resultatene fra denne undersøkelsen presenteres i Figur 4.5, Figur 4.6, Figur 4.7 (CTD data i vedlegg 7).  
+ 
+Vannkolonnen ser ut til å være relativt stratifisert karakterisert av et noe kaldere overflatelag, et varme 
+intermediært lag og et noe kaldere dypvannslag. Saltholdigheten ser ut til å være noe lavere i de to øverste 
+lagene. Oksygeninnholdet er naturligvis lavere i dypvannslaget og høyere i overflatelagene. Klassifiseringen 
+av oksygeninnholdet i bunnvannet ble klassifisert (veileder 02:2013) med tilstandsklassen I «svært god».  
+ 
+  
+ 
+Figur 4.5 Temperatur målt med CTD- sonde fra overflate og ned til bunn, målt ved JØR-3. 
+ 
+ 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+6
+7
+8
+9
+10
+Dybde (m)
+Temperatur (°C)
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 22 av 74 
+ 
+ 
+Figur 4.6: Salinitet målt med CTD- sonde fra overflate og ned til bunn, målt ved JØR-3. 
+ 
+ 
+Figur 4.7: Oksygenmetning (%) målt med CTD- sonde fra overflate og ned til bunn, målt ved stasjon JØR-3. 
+ 
+ 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+31,5
+32,5
+33,5
+34,5
+35,5
+Dybde (m)
+Salinitet
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+75
+80
+85
+90
+95
+Dybde (m)
+O2 (%)
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 23 av 74 
+ 
+4.3 Sediment - Kornfordeling 
+Ved nærstasjonen Jør-1 var sedimentet noe grovere sammenlignet med de to andre stasjonene som var 
+dominert av silt/leire. Resultatene fra sediment- undersøkelsene er presentert i Figur 4.9 og Tabell 4.6.  
+ 
+ 
+Figur 4.9 Oversikt over kornfordeling i sediment fra stasjonene JØR-1 – JØR-3. Blå stolpe representerer Silt og leire 
+med en kornstørrelse < 0,063 mm, rød stolpe representerer sand med kornstørrelser fra 0,063 mm til 2 mm og grønn 
+stolpe representerer grus med kornstørrelser > 2mm. 
+ 
+ 
+Tabell 4.6 Oversikt over kornfordeling i sedimentprøver fra stasjonene JØR-1-JØR-3 Leire og silt er definert med 
+kornstørrelser < 0,063 mm, sand er definert med kornstørrelser fra 0,063 – 2 mm, og grus er definert med kornstørrelser 
+> 2 mm. 
+Stasjon 
+Leire+Silt 
+(%) 
+Sand 
+(%) 
+Grus 
+(%) 
+JØR-1 
+39 
+57 
+4 
+JØR-2 
+80 
+16 
+4 
+JØR-3 
+97 
+3 
+1 
+ 
+ 
+ 
+ 
+0
+20
+40
+60
+80
+100
+120
+JØR-1
+JØR-2
+JØR-3
+%
+Kornfordeling
+Silt og Leire (<0,063 mm)
+Sand (0,063-2mm)
+Grus (> 2 mm)
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 24 av 74 
+ 
+4.4 Sediment – Totalt organisk karbon (TOC), fosfor, sink og kobber 
+For stasjonen JØR-1 ble nivået av normalisert TOC klassifisert med tilstandsklassen I «svært god». For de 
+øvrige stasjonene var nivået av TOC noe høyere slik at dette ble klassifisert med tilstandsklassen II «god». 
+Nivået av sink var også relativt likt mellom stasjonene, og ble klassifisert med tilstandsklassen I «svært 
+god» for samtlige stasjoner. Nivået av kobber varierte for øvrig i noe høyere grad der det ble målt høye nivå 
+ved Jør-1 og Jør-2.  
+ 
+ 
+Tabell 4.7 Innholdet av de undersøkte kjemiske parameterne i sedimentet og innholdet av tørrstoff (TS). 
+Tilstandsklasser (TK) er oppgitt etter KLIF’s klassifisering (Bakke et. al, 2007) for sink, kobber og normalisert TOC. 
+Stasjon 
+Totalt 
+organisk 
+karbon  
+% TS 
+Normalisert 
+TOC mg/g  
+TK 
+Fosfor 
+mg/kg TS 
+Sink 
+mg/kg TS 
+TK 
+Kobber 
+mg/kg 
+TS 
+TK 
+JØR-1 
+0,9 
+19,8 
+I 
+1250,0 
+61,0 
+I 
+276,0 
+V 
+JØR-2 
+1,9 
+22,5 
+II 
+1230,0 
+88,0 
+I 
+61,0 
+IV 
+JØR-3 
+2,1 
+21,6 
+II 
+566,0 
+76,0 
+I 
+19,0 
+I 
+ 
+4.5 Sediment - pH og Redokspotensial (Eh), sensoriske vurderinger.  
+ 
+Verdiene for pH og Eh ble klassifisert med tilstand 1, «meget god» for samtlige stasjoner (Tabell 4.8).   
+ 
+Tabell 4.8 Målte pH og Eh verdier i sedimentet fra de undersøkte stasjonene. Den beregnede pH/Eh verdien går fra 0 
+til 5 hvor 0 er best. Tilstanden går fra 1 til 4 hvor 1 er meget god, og 4 er meget dårlig. 
+Stasjon / Parameter 
+pH 
+Eh 
+pH/Eh poeng 
+Tilstand 
+JØR-1 
+7,5 
+-18,0 
+1 
+1/ Meget god 
+JØR-2 
+7,6 
+-42,0 
+1 
+1/ Meget god 
+JØR-3 
+7,7 
+175,0 
+0 
+1/ Meget god 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 25 av 74 
+ 
+5 Oppsummering 
+ 
+5.1 Bunnfauna: Oppsummering og vurdering av miljøtilstand 
+På grunn av lokal påvirkning helt opp til utslippet/anlegget kan man ofte finne få arter med jevn 
+individfordeling som gjør det uegnet å bruke diversitetsindekser for å angi miljøtilstand. I denne rapporten 
+fra Jørstadskjera ble vurdering av nær- og overgangsstasjonen JØR-1 og JØR-2 gjort på grunnlag av 
+artsantall og artssammensetning ut i fra beskrivelse i NS 9410:2007 – Miljøovervåkning av bunnpåvirkning 
+fra marine akvakulturanlegg.  
+ 
+Ved nærstasjonen JØR-1 ble det funnet 28 arter og hyppigst forekommende taxa (Capitella capitata NSI-
+gruppe 5) utgjorde 69 % av det totale individantallet. Stasjonen ble klassifisert med miljøtilstand 2 «god».  
+ 
+Ved nærstasjonen JØR-2 ble det funnet 75 arter og hyppigst forekommende taxa (Paramphinome jeffreysii., 
+NSI-gruppe 3) utgjorde 45 % av det totale individantallet. Stasjonen ble klassifisert med miljøtilstand 1 
+«meget god».  
+ 
+Klassifisering av fjernstasjonen JØR-3 ble utført ut i fra beskrivelsen i Veileder 02:2013 – Klassifisering 
+av miljøtilstand i vann.  Basert på stasjonens samlede verdi (gjennomsnitt av nEQR Ḡ og Ṧ, Tabell 4.4) ble 
+fjernstasjonen totalt sett klassifisert med tilstandsklassen II «god».  
+ 
+5.2 Fysiske parametere: Oppsummering og vurdering av miljøtilstand 
+Klassifisering (Veileder 02:2013) av oksygeninnholdet, målt ved JØR-3 er innenfor den beste 
+tilstandsklassen I; «meget god». 
+ 
+Klassifisering (Veileder 02:2013) av miljøgifter (sink og kobber) gav varierende resultater der nivået av 
+sink ble klassifisert med beste tilstandsklassen (I «svært god») for samtlige stasjoner, mens det ble 
+registrert høye verdier av kobber ved Jør-1 og Jør-2. 
+ 
+Normalisert TOC ble klassifisert med tilstandsklassen I; «svært god» for Jør-1, mens Jør-2 og Jør-3 ble 
+klassifisert med tilstandsklassen II «god» (Veileder 02:2013). 
+ 
+Ph/Eh for Jør-1 – Jør-3 ble klassifisert med tilstand 1 «meget god» (NS 9410:2007). Fosforverdiene var 
+også noe forhøyet ved Jør-1 og Jør-2 sammenlignet med Jør-3.  
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 26 av 74 
+ 
+5.3 Total tilstand ved lokaliteten og øvrige kommentarer 
+Totalt sett viser denne C-undersøkelsen at nærstasjonen (Jør-1) ser ut til å bære noe preg av 
+oppdrettsvirksomheten da individantallet av bunnfauna ble dominert med 69 % av den 
+forurensningsindikerende flerbørstemarken Capitella capitata. Det ble også målt høye verdier av kobber 
+og fosfor sammenlignet med fjernstasjonen (Jør-3), som kan settes i forbindelse med utslipp fra 
+oppdrettsanlegget. Nivået av TOC og sink var for øvrig ikke særlig høyt og ble klassifisert med beste 
+tilstandsklassen.  
+ 
+Overgangsstasjonen ser ut til å være noe mindre påvirket enn nærstasjonen, men var dominert av 
+forurensingstolerante individer samtidig som både nivået av fosfor og kobber var høyt sammenlignet med 
+fjernstasjonen. Nivået av sink og TOC var for øvrig innenfor relativt normale verdier.  
+ 
+Fjernstasjonen fremstod som relativt upåvirket der mangfold og mengder av bunnfauna ble vurdert til å 
+være rett utenfor det som forbindes med upåvirkede forhold (generell beskrivelse av tilstandsklassen II – 
+god i vanndirektivet). Dette støttes av normale verdier av både kobber, sink og lave verdier av fosfor. 
+Nivået av TOC var også rett utenfor det som forbindes med upåvirkede verdier (generell beskrivelse i 
+vanndirektivet).  
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 27 av 74 
+ 
+6 ASC-Undersøkelse 
+ 
+ 
+Sammendrag ASC 
+På oppdrag fra Bremnes Seashore AS har Havbrukstjenesten utført bunndyrsundersøkelse for ASC på 
+lokaliteten Jørstadskjera. I tillegg til bunndyrsundersøkelser ble det gjort måling av redokspotensialet (Eh), 
+samt tatt prøver av sediment for kobberanalyse. ASC-undersøkelsen ble gjort samtidig som C-undersøkelsen 
+iht. NS 9410:2007 på lokaliteten. 
+ 
+ASC undersøkelsen viste at nærstasjonene, JØR-1 og JØR-4 ser ut til å være påvirket av organisk materiale, 
+men at de per definisjon oppfyller kravene satt i ASC Salmon standard. Som det påpekes i kapittel 6.3.6 bør 
+dette tolkes med forsiktighet. Verdiene for kobber og reduksjonspotensiale tilfredsstiller også kravene angitt 
+i ASC Salmon Standard, foruten ved fjernstasjonen JØR-3 der verdien for kobber var over bakgrunnsnivå. 
+Klassifisering ut i fra veilder 02:2013 til Klassifisering av miljøtilstand i vann ble denne kobberverdien 
+likevel klassifisert med tilstandsklassen II «god». 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 28 av 74 
+ 
+6.1 Innledning ASC  
+ASC-undersøkelsen på lokaliteten Jørstadskjera er gjort i forbindelse med sertifisering etter standarden til 
+Aquaculture Stewardship Council (ASC). Prøvetaking er gjennomført iht. ASC Salmon Standard, version 
+1.0, June 2012.  
+ 
+ASC Salmon Standard angir undersøkelse av bentisk fauna, reduksjonspotensiale og kobbernivå (Cu) i 
+sedimentene både utenfor og innenfor en tillat sone for påvirkning (Allowable Zone of effect - AZE) (Tabell 
+6.1).  AZE er definert som området som strekker seg 30 meter ut fra merdene, der hvor det ikke er definert 
+en lokalitets-spesifikk AZE gjennom modellering.  
+ 
+Tabell 6.1 Grensekrav til redokspotensialet og faunaindekser utenfor AZE, samt forekomst av makrofauna innenfor 
+AZE. Hentet fra ASC Salmon Standard. 
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 29 av 74 
+ 
+6.2 Materiale og metode; Stasjonsplassering 
+Metode og gjennomføring av ASC-undersøkelsen er tilsvarende som for foreliggende C-undersøkelse. 
+Stasjonsvalg for innsamling av prøvemateriale er for øvrig utført iht. ASC Salmon Standard V.1.0 (kriteria 
+2.1 og appendiks I- 1), samt kriteria i ASC Salmon Training Manual V.1.0 (kriteria 2.1).  Stasjonsvalget er 
+gjort på grunnlag av hovedstrøms retning og avstand til AZE. Denne avstanden er vurdert ut ifra 
+hovedstrømretning, dybde, bunntopografi og resultater fra andre lokaliteter med tilsvarende forhold.  
+Stasjon JØR-1 og JØR-4 ble lagt innenfor AZE, og regnes som nærstasjoner med stasjon JØR-1 i 
+hovedstrømretning og stasjon JØR-4 på motsatt side av anlegget (Figur 2.2).  Stasjon JØR-2, JØR-3 ble 
+plassert i hovedstrømretning fra anlegget i en avstand av hhv. omtrent 150 meter og 600 meter fra anleggets 
+ramme. Stasjon JØR-5 og JØR-6 ble plassert hhv. 100 meter og 800 meter fra anlegget i returstrømmens 
+retning. Stasjonsplassering er vist i figur 2.2, stasjonsopplysninger finnes i tabell 3.1, mens kriterier iht. 
+ASC-standard finnes i Tabell 6.1. Metode for innsamling og behandling av prøver er beskrevet i kapittel 3. 
+En generell oversikt over ASC stasjonene finnes i Tabell 6.2.  
+ 
+Tabell 6.2 Stasjonsbeskrivelser ved Jørstadskjera, der avstand fra anlegget, plassering i forhold til AZE samt hvilke 
+kriterier som skulle analyseres framgår.  
+Stasjon 
+Avstand fra anlegg 
+(m) 
+Plassering 
+ 
+Analyse 
+Fauna 
+Cu 
+Redoks 
+JØR-1 
+- 
+Ved merde 
+x 
+ 
+ 
+JØR-2 
+150 
+Utenfor AZE 
+x 
+x 
+x 
+JØR-3 
+600 
+Utenfor AZE 
+x 
+x 
+x 
+JØR-4 
+- 
+Ved merde 
+x 
+ 
+ 
+JØR-5 
+100 
+Utenfor AZE 
+x 
+x 
+x 
+JØR-6 
+800 
+Utenfor AZE 
+x 
+x 
+x 
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 30 av 74 
+ 
+6.3 Resultater fra ASC-undersøkelsen 
+ I tabell 6.3 er resultatene med tilhørende klassifisering (tilstandsklasser) fra ASC-undersøkelsen 
+oppsummert og presentert for reduksjonspotensialet (Eh), kobber og bunnfauna. I avnsitt 6.3.1-6.3.5 
+presenteres hver stasjon separat med utfyllende beskrivelser bunnfauna. 
+ 
+Tabell 6.3 Resultat for redokspotensialet, faunaindeks, antall makrofauna taxa og kobber på lokaliteten Jørstadskjera. 
+Verdiene er angitt som gjennomsnitt for to grabber/prøver dersom ikke annet er anmerket. Tilstandsklasse etter krav i 
+ASC-standard; A = Akseptabel, IA = Ikke Akseptabel. Kobber er klassifisert etter SFT-veileder (Molvær et al, 1997) 
+(vedlegg 2). 
+Stasjon 
+Redoks 
+Potensiale 
+Faunaindeks 
+Shannon-
+Wiener 
+H’ 
+Ant. makrofauna 
+taxa, ikke 
+forurensingsindikerende 
+antall ≥ ref. stasjon eller 
+≥ 100 ind/m2 
+Kobber (Cu) 
+Mg/kg tørrstoff (Ts) 
+ 
+Måleverdi 
+Millivolt 
+(mV) 
+Tilst. 
+klasse 
+Verdi 
+Tilst. 
+klasse 
+Antall 
+Tilstandsklasse 
+ 
+Tilstandsklasse 
+iht. SFT-
+veileder 
+JØR-1 
+ 
+ 
+ 
+ 
+5 
+IA/A 
+ 
+ 
+JØR-2 
+-42 
+IA 
+3,599 
+A 
+ 
+ 
+61 
+IA 
+JØR-3 
+175 
+A 
+4,264 
+A 
+ 
+ 
+19 
+A 
+JØR-4 
+ 
+ 
+ 
+ 
+x 
+IA/A 
+ 
+ 
+JØR-5 
+-150 
+IA 
+3,032 
+A 
+ 
+ 
+109 
+IA 
+JØR-6 
+52 
+A 
+4,448 
+A 
+ 
+ 
+14 
+A 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 31 av 74 
+ 
+6.3.1 JØR-1 (ved merde, innenfor AZE) 
+Stasjon JØR-1 inngår i C-undersøkelsen slik at den generelle beskrivelsen bunnfauna registreringene er gitt 
+i avsnitt 4.1.1. I tabell 6.4 er taxa oppsummert i forhold til forekomst og forurensingsklassifisering (NSI-
+grupper). Fem ikke-forurensingsindikatorarter forekom med ≥ 100 ind./m2 ved Jør-1.   
+ 
+Tabell 6.4 Antall (#) arter ved JØR-1 som er klassifisert som forurensingsindikatorer (NSI-gruppe 5), ikke-
+forurensingsindikatorer (NSI-gruppe 1-4) og antall arter som ikke er klassifisert med forurensningsgrad (ikke angitt 
+NSI-gruppe).  
+Stasjon 
+# Forurensings-
+indikatorarter 
+(NSI-gruppe 5) 
+# Ikke-
+forurensings-
+indikatorarters 
+(NSI-gruppe 1-4) 
+# Ikke angitt 
+forurensings-
+klassifisering 
+ 
+Totalt antall arter 
+JØR-1 
+1 
+27 
+0 
+28 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 32 av 74 
+ 
+6.3.2 JØR-2 (utenfor AZE) 
+Stasjon JØR-2 inngår i C-undersøkelsen slik at den generelle beskrivelsen bunnfauna registreringene er gitt 
+i avsnitt 4.1.2. I Tabell 6.5 er taxa oppsummert i forhold til forekomst og forurensingsklassifisering (NSI-
+grupper). Denne stasjonen vurderes etter indeksverdi (Shannon-Wiener), som også er presentert i Tabell 
+6.5.  
+ 
+Artsmangfoldet (Shannon-Wiener, H`) ved stasjonen oppfylte kravet fra ASC Salmon standard med en 
+indeksverdi ≥ 3,0. 
+ 
+Tabell 6.5 Antall arter (#) ved stasjon JØR-2 som er klassifisert som forurensingsindikatorer (NSI-gruppe 5), ikke 
+forurensingsindikatorer (NSI-gruppe 1-4) og antall arter som ikke er klassifisert med forurensningsgrad (ikke angitt 
+NSI-gruppe).  
+Stasjon 
+# Forurensings-
+indikatorarter 
+(NSI-gruppe 5) 
+# Ikke-
+forurensings-
+indikatorarters 
+(NSI-gruppe 1-
+4) 
+# Ikke angitt 
+forurensings-
+klassifisering 
+ 
+Totalt antall 
+arter 
+Shannon 
+Wieners 
+Indeks 
+JØR-2 
+2 
+70 
+3 
+75 
+3,599 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 33 av 74 
+ 
+6.3.3 JØR-3 (utenfor AZE) 
+Stasjon JØR-3 inngår i C-undersøkelsen slik at den generelle beskrivelsen bunnfauna registreringene er gitt 
+i avsnitt 4.1.3. I Tabell 6.6 er taxa oppsummert i forhold til forekomst og forurensingsklassifisering (NSI-
+grupper). Denne stasjonen vurderes etter indeksverdi (Shannon-Wiener), som også er presentert i Tabell 
+6.6.  
+ 
+Artsmangfoldet (Shannon-Wiener, H`) ved stasjonen oppfylte kravet fra ASC Salmon standard med en 
+indeksverdi ≥ 3,0. 
+ 
+Tabell 6.6 Antall arter (#) ved stasjon JØR-3 som er klassifisert som forurensingsindikatorer (NSI-gruppe 5), ikke 
+forurensingsindikatorer (NSI-gruppe 1-4) og antall arter som ikke er klassifisert med forurensningsgrad (ikke angitt 
+NSI-gruppe).  
+Stasjon 
+# Forurensings-
+indikatorarter 
+(NSI-gruppe 5) 
+# Ikke-
+forurensings-
+indikatorarters 
+(NSI-gruppe 1-
+4) 
+# Ikke angitt 
+forurensings-
+klassifisering 
+ 
+Totalt antall 
+arter 
+Shannon 
+Wieners 
+indeks 
+JØR-3 
+0 
+41 
+3 
+44 
+4,264 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 34 av 74 
+ 
+ 
+6.3.4 JØR-4 (ved merde, innenfor AZE) 
+Ved stasjon JØR-4 ble det registrert totalt 2303 individer fordelt på 11 arter. Hyppigst forekommende 
+art var den forurensingsindikerende flerbørstemarken Capitella capitata (NSI-gruppe 5) som forekom 
+med 54 % av totalt individantall (Figur 6.1). I tabell 6.7 er taxa oppsummert i forhold til forekomst og 
+forurensingsklassifisering (NSI-grupper). Tre ikke-forurensingsindikatorarter forekom med ≥ 100 ind./m2 
+ved Jør-1.   
+ 
+3 ikke-forurensingsindikatorarter forekom med over 100 individer per m2.  
+ 
+Tabell 6.7 Antall arter (#) ved stasjon JØR-4 som er klassifisert som forurensingsindikatorer (NSI-gruppe 5), ikke 
+forurensingsindikatorer (NSI-gruppe 1-4) og antall arter som ikke er klassifisert med forurensningsgrad (ikke angitt 
+NSI-gruppe).  
+Stasjon 
+# Forurensings-
+indikatorarter 
+(NSI-gruppe 5) 
+# Ikke-
+forurensings-
+indikatorarters 
+(NSI-gruppe 1-4) 
+# Ikke angitt 
+forurensings-
+klassifisering 
+ 
+Totalt antall arter 
+JØR-4 
+1 
+10 
+0 
+11 
+ 
+ 
+ 
+ 
+Figur 6.1. Fordeling av antall individer for de hyppigste artene ved JØR-4. Fordelingen er basert på stasjonsverdien 
+(Ṧ) for antall individer per art funnet ved stasjonen. 
+ 
+ 
+Capitella capitata
+54 %
+Paramphinome 
+jeffreysii
+37 %
+Prionospio 
+steenstrupi
+6 %
+Øvrige 
+arter
+3 %
+JØR-4
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 35 av 74 
+ 
+6.3.5 JØR-5 (utenfor AZE) 
+Ved stasjon JØR-5 ble det registrert totalt 5200 individer fordelt på 76 arter. Hyppigst forekommende art 
+var den forurensingstolerante Paramphinome jeffresysii (NSI-gruppe 3) som forekom med 32 % av totalt 
+individantall (Figur 6.2). I tabell 6.8 er taxa oppsummert i forhold til forekomst og forurensingsklassifisering 
+(NSI-grupper). Denne stasjonen vurderes etter indeksverdi (Shannon-Wiener), som også er presentert i 
+Tabell 6.8.  
+ 
+Artsmangfoldet (Shannon-Wiener, H`) ved stasjonen oppfylte kravet fra ASC Salmon standard med en 
+indeksverdi ≥ 3,0. 
+ 
+Tabell 6.8 Antall arter (#) ved stasjon JØR-5 som er klassifisert som forurensingsindikatorer (NSI-gruppe 5), ikke 
+forurensingsindikatorer (NSI-gruppe 1-4) og antall arter som ikke er klassifisert med forurensningsgrad (ikke angitt 
+NSI-gruppe).  
+Stasjon 
+# Forurensings-
+indikatorarter 
+(NSI-gruppe 5) 
+# Ikke-
+forurensings-
+indikatorarters 
+(NSI-gruppe 1-
+4) 
+# Ikke angitt 
+forurensings-
+klassifisering 
+ 
+Totalt antall 
+arter 
+Shannon 
+Wieners 
+indeks 
+JØR-5 
+2 
+68 
+6 
+76 
+3,032 
+ 
+ 
+ 
+Figur 6.2. Fordeling av antall individer for de hyppigste artene ved JØR-5. Fordelingen er basert på stasjonsverdien 
+(Ṧ) for antall individer per art funnet ved stasjonen. 
+ 
+ 
+Paramphinome 
+jeffreysii
+32 %
+Capitella 
+capitata
+18 %
+Abra nitida
+16 %
+Øvrige arter
+34 %
+JØR-5
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 36 av 74 
+ 
+6.3.6 JØR-6 (utenfor AZE) 
+Ved stasjon JØR-6  ble det registrert totalt 450 individer fordelt på 48 arter. Hyppigst forekommende art var 
+den forurensingssensitive pølseormen Onchnesoma steenstrupii (NSI-gruppe 1) som forekom med 13 % av 
+totalt individantall (Figur 6.3). I tabell 6.9 er taxa oppsummert i forhold til forekomst og 
+forurensingsklassifisering (NSI-grupper). Denne stasjonen vurderes etter indeksverdi (Shannon-Wiener), 
+som også er presentert i Tabell 6.9.  
+ 
+Artsmangfoldet (Shannon-Wiener, H`) ved stasjonen oppfylte kravet fra ASC Salmon standard med en 
+indeksverdi ≥ 3,0. 
+ 
+Tabell 6.9 Antall arter (#) ved stasjon JØR-6 som er klassifisert som forurensingsindikatorer (NSI-gruppe 5), ikke 
+forurensingsindikatorer (NSI-gruppe 1-4) og antall arter som ikke er klassifisert med forurensningsgrad (ikke angitt 
+NSI-gruppe).  
+Stasjon 
+# Forurensings-
+indikatorarter 
+(NSI-gruppe 5) 
+# Ikke-
+forurensings-
+indikatorarters 
+(NSI-gruppe 1-
+4) 
+# Ikke angitt 
+forurensings-
+klassifisering 
+ 
+Totalt antall 
+arter 
+Shannon 
+Wieners  
+Indeks 
+JØR-6 
+1 
+44 
+3 
+48 
+4,448 
+ 
+ 
+ 
+ 
+Figur 6.3. Fordeling av antall individer for de hyppigste artene ved JØR-6. Fordelingen er basert på stasjonsverdien 
+(Ṧ) for antall individer per art funnet ved stasjonen. 
+ 
+ 
+Onchnesoma 
+steenstrupii
+13 %
+Heteromastus 
+filiformis
+12 %
+Nucula tumidula
+10 %
+Øvrige arter
+65 %
+JØR-6
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 37 av 74 
+ 
+6.3.6 Diskusjon 
+For å klassifisere stasjonene innenfor AZE (JØR-1 og JØR-4) som «gode» ut i fra ASC Salmon Standard 
+må de oppfylle kriteriene om «høy forekomst» av ≥ 2 ikke-forurensingsindikerende arter. Standarden 
+definerer «høy forekomst» med høyere eller lik forekomst av 100 individer per m2 eller likt med 
+referansestasjonen hvis forekomsten der er naturlig lavere enn 100 individer per m2. Det tolkes i denne 
+rapporten som at kravet fra ASC Salmon Standard om «høy forekomst» av ≥ 2 ikke-forurensingsindikator 
+arter skal sørge for at forholdene ved stasjonene er under en grad av forurensing som også støtter for arter 
+som er naturlig forekommende.  
+ 
+Grunnet høy forekomst av ≥ 2 ikke forurensingsindikerende arter ved JØR-1 og JØR-4 oppfyller begge 
+nærstasjonene per definisjon kravet angitt i ASC Salmon standard. Det bør for øvrig noteres at dette kravet 
+oppfylles bl.a. på bakgrunn av forekomst av den forurensingstolerante og opportunistiske artene 
+Heteromastus filiformis og Thyasira sarsi som ofte forbindes med organisk forurensing.  
+ 
+For stasjonene som er lokalisert utenfor AZE er kravet fra ASC Salmon Standard at artsmangfoldet blir 
+beskrevet med Shannon Wieners indeks med ≥ 3,0. Alle registreringene ved JØR-2, JØR-3, JØR-5 og JØR-
+6 ble beskrevet med H`-indekser over 3,0, og oppfyller dermed kravet for bunndyr utenfor AZE. For JØR-
+2 og JØR-5 ble det registrert høye verdier av kobber (Cu) og et lave reduksjonspotensialer (Eh) som ved 
+begge stasjonene klassifiseres som ikke-akseptable verdier ut i fra ASC salmon standard. Ut i fra nasjonalt 
+rammeverk (veileder 02:2013) er også kobberverdiene klassifisert som «dårlige». Ut i fra nasjonalt 
+rammeverk for Eh (NS 9410:2007) settes denne parameteren i sammenheng med pH. I denne felles 
+klassifiseringen blir JØR-2 tildelt miljøtilstand 1 «meget god» mens JØR-5 får én lavere tilstand (tilstand 2 
+– god).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 38 av 74 
+ 
+7 Referanser 
+ 
+ 
+ASC. 2012. ASC Salmon Standard version 1.0, june 2012. Aquaculture Stewardship Council. 
+Anon, 2013 (Veileder 02:2013) Klassifisering av miljøtilstand i vann. Økologisk og kjemisk  
+klassifiseringssystem for kystvann, grunnvann, innsjøer og elver. Direktoratgruppa for gjennomføring 
+av vanndirektivet/Miljøstandardprosjekt.  
+Bakke et al. 2007. Veileder for klassifisering av miljøkvalitet i fjorder og kystfarvann, revidering av 
+klassifisering av metaller og organisk miljøgifter i vann og sedimenter. Klif publikasjon ta 2229:2007. 
+Berge G. 2002. Indicator species for assessing benthic ecological quality in marine waters of Norway. NIVA-
+rapport 4548-2002. 
+Borja, A., Franco, J., Perez, V., 2000. A marine biotic index to establish the ecological quality of soft-bottom 
+benthos within European estuarine and coastal environments. Marine Pollution Bulletin 40 (12), 
+1100–1114 
+Bray JR, Curtis JT. 1957. An ordination of the upland forest communities of Southern Wisconsin. - 
+Ecological Monographs 27:325-349. 
+Gray JS, Mirza FB. 1979. A possible method for the detection of pollution-induced disturbance on marine 
+benthic communities. - Marine Pollution Bulletin 10:142-146. 
+Molvær J, Knutzen J, Magnusson J, Rygg B, Skei J, Sørensen J. 1997. Klassifisering av miljøkvalitet i 
+fjorder og kystfarvann. Kortversjon. SFT-veiledning nr. 97:03. 36 s. 
+Norsk Standard NS 4764:1980. Vannundersøkelse. Tørrstoff og gløderest i vannslam og sedimenter. Norges 
+standardiseringsforbund. 
+Norsk Standard NS 9410:2007. Vannundersøkelse. Miljøovervåking av bunnpåvirkning fra marine 
+akvakulturanlegg. Norges standardiseringsforbund. 
+Pearson TH, Rosenberg R. 1978. Macrobenthic succession: in relation to organic enrichment and pollution 
+of the marine environment. - Oceanography and Marine Biology an Annual Review 16:229-311. 
+Pearson TH, Gray JS, Johannessen PJ. 1983. Objective selection of sensitive species indicative of pollution-
+induced change in bentic communities. 2. Data analyses. - Marine Ecology Progress Series 12:237-
+255. 
+Pielou EC. 1966. The measurement of species diversity in different types of biological collections. - Journal 
+of Theoretical Biology 13:131-144. 
+Rygg B. & Nordling K., 2013. Norwegian Sensitivity Index (NSI) for marine macroinvertebrates, and an 
+update of Indicator Species Index (ISI). NIVA-rapport 6475-2013. 
+Rygg B, Thélin, I. 1993. Klassifisering av miljøkvalitet i fjorder og kystfarvann, kortversjon. - SFT-
+veiledning nr. 93:02 20 pp. 
+Shannon CE, Weaver, W. 1949. The mathematical theory of communication. - University of Illinois Press, 
+Urbana. 117 s. 
+Vannportalen.no. Klassifisering av økologisk tilstand i vann. Klassifiseringsveileder 01:2009 
+ 
+ 
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 39 av 74 
+ 
+8 Vedlegg  
+ 
+Vedlegg 1 - Indeksbeskrivelser  
+ 
+V.1.1 Diversitet og jevnhet 
+Shannon-Wieners diversitetsindeks (H') beskrives ved artsmangfoldet (S, totalt antall arter i en prøve) og 
+jevnhet (J, fordelingen av antall individer relatert til fordeling av individer mellom artene) (Shannon og 
+Weaver 1949). Diversitetsindeksen er beskrevet av formelen  
+ 
+H′ = −∑𝑝𝑖 
+𝑆
+𝑖=𝑙
+𝑙𝑜𝑔2 𝑝𝑖 
+hvor pi = Ni/N, Ni = antall individer av art i, N = totalt antall individer i prøven eller på stasjonen og S = totalt 
+antall arter i prøven eller på stasjonen. 
+ 
+Diversiteten er vanligvis over tre i prøver fra uforurensede stasjoner. Ved å beregne den maksimale 
+diversitet som kan oppnås ved et gitt antall arter, H'max (= log2S), er det mulig å uttrykke jevnheten (J) i 
+prøven på følgende måte (Pielou 1966) 
+ 
+J = 
+H′
+H′max
+ 
+ 
+hvor H' = Shannon Wiener indeks og H'max = diversitet dersom alle arter er representert med ett individ. 
+Dersom H' = H'max er J maksimal og får verdien 1. J har en verdi nær null dersom de fleste individene tilhører 
+en eller få arter. 
+ 
+Hurlbert diversitetsindeks ES100 er beskrevet som 
+ 
+𝐸𝑆100 = ∑ [1 −
+(𝑁−𝑁𝑖
+100 )
+( 𝑁
+100)
+]
+𝑆
+𝑖
+ 
+hvor ES100 = forventet antall arter blant 100 tilfeldig valgte individer i en prøve med N individer, S 
+arter, og Ni individer av i-ende art. 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 40 av 74 
+ 
+V.1.2 Sensitivitet og tetthet 
+Sesitivitet beskrives av indeksene ISI (Indicator Species Index), NSI og AMBI (Azti Marin Biotic 
+Index).  
+Beregning av ISI er beskrevet av Rygg, 2002 og NIVA-rapport 4548-2002. Formelen for utregning 
+av en prøves ISI-verdi er gitt ved 
+ 
+ISI = ∑[𝐼𝑆𝐼𝑖
+𝑆𝐼𝑆𝐼
+]
+𝑆
+𝑖
+ 
+hvor ISIi er verdien for arten i og SISI er antall arter tilordnet sensitivitetsverdier. Hver art er tilordnet 
+en sensitivitetsverdi (ISI-verdi), og en prøves ISI-verdi beregnes ved gjennomsnittet av artene i 
+prøven.  
+ 
+NSI er utviklet med basis i norske faunadata. Her er også hver art tilordnet en sensitivitetsverdi 
+(NSI-verdi) og individantall for hver art inngår i beregningen. Formelen for utregning av en prøves 
+NSI-verdi er gitt ved 
+ 
+ 
+NSI = ∑[𝑁𝑖• 𝑁𝑆𝐼𝑖
+𝑁𝑁𝑆𝐼
+]
+𝑆
+𝑖
+ 
+ 
+hvor Ni er antall individer og NSIi er verdien for arten i, NNSI er antall individer tilordnet 
+sensitivitetsverdier.  
+ 
+Sensitivitetsindeksen AMBI tilordner hver art en ømfintlighetsklasse (økologisk gruppe, EG): EG-
+I: sensitive arter, EG-II: indifferente arter, EG-III: tolerante, EG-IV: opportunistiske, EG-V: 
+forurensingsindikerende arter, og hvor hver enkelt økologiske gruppe har en toleranseverdi 
+(AMBI-verdi) (Borja et al., 2000). Formelen for beregning av en prøves AMBI-verdi er gitt ved 
+ 
+AMBI = ∑[
+𝑁𝑖 • 𝐴𝑀𝐵𝐼𝑖
+𝑁𝐴𝑀𝐵𝐼
+]
+𝑆
+𝑖
+ 
+ 
+hvor Ni er antall individer med innenfor økologisk gruppe i, AMBIi  er toleranseverdien for de ulike 
+økologiske gruppene (henholdsvis 0, 1.5, 3, 3.5 og 6, for gruppe I- V, respektivt) og NAMBI er antall arter 
+tilordnet en AMBI-verdi.  
+DI (diversity index) er en indeks for individtetthet og er gitt ved (Veileder 02:2013)  
+ 
+DI = abs[log10(N0,1 m2) – 2,05] 
+hvor abs står for absoluttverdi, N0,1 m2 står for antall individer pr. 0,1 m2 .  
+AMBI og DI viser stigende verdi ved synkende (dårligere) tilstand, mens alle de andre indeksene viser 
+synkende verdi ved synkende (dårligere) tilstand.  
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 41 av 74 
+ 
+V.1.3 Sammensatt indeks (NQI1) 
+Den sammensatte indeksen NQI1 (Norwegian quality status, version 1) bestemmes ut fra både 
+artsmangfold og sensitivitet (AMBI). 
+ 
+ 
+NQI-indeksen er gitt ved formelen 
+ 
+NQI1 = [0,5 • (1 −𝐴𝑀𝐵𝐼
+7
+) + 0,5 • (
+[
+ln(𝑆)
+ln(ln(𝑁))]
+2,7
+) • (
+𝑁
+𝑁+ 5)]  
+ 
+hvor AMBI er en sensitivitetsindeks, S er antall arter og N er antall individer i prøven.  
+ 
+V.1.4 Normalisering 
+Ved å regne om alle indeksert til nEQR (normalised Ecological Quality Ratio) får man normaliserte verdier 
+som gjør det lettere å sammenligne dem. nEQR gir en tallverdi på en skala mellom 0 og 1, og hver 
+tilstandsklasse spenner over nøyaktig 0,2 (tilstandsklasse «svært dårlig» tilsvarer verdier mellom 0 – 0,2, 
+tilstandsklasse «dårlig» tilsvarer verdier mellom 0,2 – 0,4 osv.). I tillegg til å vise statusklassen viser nEQR-
+verdien også hvor høyt eller lavt verdien ligger innenfor sin tilstandsklasse. For eksempel viser en nEQR-
+verdi på 0,75 at indeksen ligger tre firedeler i tilstandsklassen «God» (Tabell V.2). 
+Alle indeksverdier omregnes til nEQR etter følgende formel 
+ 
+nEQR =
+𝑎𝑏𝑠|Indeksverdi −Klassens nedre verdi|
+Klassens øvre indeksverdi −Klassens nedre grenseverdi • 0,2 + Klassens nEQR Basisverdi  
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 42 av 74 
+ 
+V.1.5 Geometriske klasser 
+En måte å se på individfordelingen i et bunndyrsamfunn er å plotte antall arter mot antall individer fordelt i 
+geometriske klasser, der nedre klassegrense danner en følge av ledd på formelen 2x, x=0,1,2,(…). For 
+eksempel tilsvarer Klasse I en art, Klasse II tilsvarer 2-3 arter, Klasse III tilsvarer 4-7 arter, Klasse IV 
+tilsvarer 8-15 arter, osv.  
+ 
+Ved hjelp av denne klasseinndelingen skal det være mulig å si noe om individfordelingen mellom artene i 
+samfunnet. I en prøve fra et upåvirket samfunn vil det være mange arter med et lavt individantall og få arter 
+med et høyt individantall. Dette sees som en en-toppet asymmetrisk kurve med en lang «hale» mot høyere 
+klasseverdier. Ved moderat forurensing vil en del av de individfattige artene forsvinne, mens 
+opportunistiske arter vil øke i antall. Dette sees som en flatere kurve, en kurve med flere topper eller en 
+kurve som strekker seg mot høyre. Ved høy forurensing blir det få arter med høyt individantall. Kurven vil 
+da få en lavere topp, og få arter spredt over flere og høyere klasser enn det som er normalt ved en upåvirket 
+lokalitet (Gray & Pearson 1982). 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 43 av 74 
+ 
+Vedlegg 2 - Referansetilstander med tilhørende tilstandsklasser.  
+ 
+Fargene som er brukt i tabellene nedenfor (V2.1-V2.3) angir hvilke tilstandsklasser (angitt i 
+veileder 01:2009 og 02:2013) de ulike parameterne hører til i; blå tilsvarer tilstandsklassen «svært 
+god», grønn  «god», gul  «moderat», oransje  «dårlig» og rød  «svært dårlig». Bunnfauna 
+klassifiseres ut i fra veileder 02:2013 ved fjernstasjonen og ut i fra NS 9410:2007 ved nær- og 
+overgangsstasjonen. Referanseverdier fra NS940 er oppgitt i Tabell V2.4.  
+ 
+Tabell V2.2. Oversikt over klassegrenser og referansetilstand for de ulike indeksene i henhold til Veileder 02:213. 
+Indeks 
+Økologisk tilstandsklasse  
+ 
+Svært god 
+God 
+Moderat 
+Dårlig 
+Svært dårlig 
+NQI1 
+0.82- 0.90 
+0.63 - 0.82 
+0.49 - 0.63 
+0.31 - 0.49 
+0 - 0.31 
+H′ 
+4.8 - 5.7 
+3.0 - 4.8 
+1.9 - 3.0 
+0.9 - 1.9 
+0 - 0.9 
+ES100 
+34 - 50  
+17 – 34 
+10 – 17 
+5 - 10 
+0 - 5 
+ISI 
+9.6 – 13 
+7.5 - 9.6 
+6.2 - 7.5 
+4.5- 6.1 
+0 - 4.5 
+NSI 
+25 – 31 
+20 – 25 
+15 – 20 
+10 - 15 
+0 - 10 
+DI  
+0-0,30 
+0,30 – 0,44 
+0,44 – 0,60 
+0,60 - 0,85 
+0,85 – 2,05 
+ 
+ 
+Tabell V2.2. Hver tilstandsklasses nEQR-basisverdi.   
+  
+nEQR basisverdi 
+Tilstandsklasse 
+Klasse I 
+0,8 
+Svært god 
+Klasse II 
+0,6 
+God 
+Klasse II 
+0,4 
+Moderat 
+Klasse IV 
+0,2 
+Dårlig 
+Klasse V 
+0 
+Svært dårlig 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 44 av 74 
+ 
+Tabell V2.3. Klassifisering av de undersøkte parameterne som inngår i Molvær et. al, 1997, Bakke et. al, 2007 og 
+Veileder 01:2009, Direktorats-gruppen Vanndirektivet 2009. Organisk karbon er total organisk karbon korrigert for 
+finfraksjonen i sedimentet. 
+ 
+  
+  
+  
+  
+Tilstandsklasser 
+  
+  
+  
+  
+I 
+II 
+III 
+IV 
+V 
+  
+Parameter 
+Veileder 
+Måleenhet Bakgrunn/ God 
+Moderat/ 
+Dårlig 
+Svært 
+dårlig 
+  
+  
+  
+  
+Svært god 
+  
+Mindre 
+god 
+  
+  
+Dypvann Oksygen* 
+97:03  
+ml O2/ l 
+>4,5 
+4,5-3,5 
+3,5-2,5 
+2,5-1,5 
+<1,5 
+  
+Oksygen metn.** 
+97:03  
+% 
+>65 
+65-50 
+50-35 
+35-20 
+<20 
+Sediment Organisk karbon 
+97:03  
+mg TOC/g 
+<20 
+20-27 
+27-34 
+34-41 
+>41 
+  
+Kobber 
+TA 
+2229/2007 
+mg Cu/kg 
+<35 
+35-51 
+51-55 
+55-220 
+>220 
+  
+Sink 
+TA 
+2229/2007 
+mg Zn/ kg 
+<150 
+150-360 
+360-590 
+590-4500 
+>4500 
+*Omregningsfaktoren til mgO2 /l er 1,42 
+** Oksygenmetningen er beregnet for saltholdighet 33 og temperatur 60C 
+ 
+ 
+ 
+Tabell V2.4. Vurdering av miljøtilstanden i nærsonen og overgangssonen ved oppdrettsanlegg. Hentet fra Norsk 
+Standard 9410:2007. 
+ 
+Miljøtilstand 
+Kriterier 
+Miljøtilstand 1 
+(meget god) 
+Minst 20 arter av makrofauna (> 1 mm) utenom nematoder i et prøveareal på 0,2 m2. 
+Ingen av artene må utgjøre mer enn 65 % av det totale individantallet. 
+Miljøtilstand 2 
+(god) 
+5-19 arter av makrofauna (> 1 mm) utenom nematoder i et prøveareal på 0,2 m2. 
+Mer enn 20 individer utenom nematoder i et prøveareal på 0,2 m2. 
+Ingen av artene utgjør mer enn 90 % av det totale individantallet. 
+Miljøtilstand 3 
+(dårlig) 
+1 til 4 arter av makrofauna (> 1 mm) utenom nematoder i et prøveareal på 0,2 m2 
+ 
+Miljøtilstand 4 
+(meget dårlig) 
+Ingen makrofauna (> 1 mm) utenom nematoder i et prøveareal på 0,2 m2. 
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 45 av 74 
+ 
+Vedlegg 3 - Klassifisering av forurensningsgrad (NSI) 
+ 
+Endringer i klassifisering av artenes forurensningsgrad; system (V3.1) og språkbruk (V3.2).  
+ 
+V3.1 System: Overgang fra AMBI til NSI  
+Med bakgrunn i rapporten «Norwegian Sensitivity Index (NSI) for marine macroinvertebrates, and an 
+update of Indicator Species Index (ISI)» (Rygg & Norling, 2013) har Havbrukstjenesten AS avd. Marine 
+Bunndyr konkludert med å bruke artenes NSI-verdi stedet for AMBI-verdi for å angi forurensningsgrad 
+(forurensingssensitiv, tolerant osv). Ettersom Rygg & Norling konkluderte med at NSI viste bedre 
+korrelasjon med norske resipienter enn hva AMBI gjorde velger vi å ta utgangspunkt i de økologiske 
+gruppene som artenes NSI verdi faller under.  
+ 
+Ettersom NSI er laget med bakgrunn i å dekke samme bruksområde som AMBI i norske resipienter, er den 
+økologiske gruppeinndelingen basert på utgangspunktet for AMBI-indeksen (Borja et al., 2000). Artene 
+som har blitt klassifisert i AMBI-systemet er delt inn i fem økologiske grupper basert på toleransen ovenfor 
+organisk tilførsel i sedimentene. Utgangstilstanden er beskrevet som ikke tilført organisk materiale (lett 
+ubalanse er noe organisk tilførsel osv): 
+ 
+Gruppe I – Arter som er veldig sensitive til organisk tilførsel og arter som er tilstede ved ikke forurensede 
+forhold (utgangstilstand). Denne gruppen inkluderer karnivore spesialister og noen rørbyggende 
+flerbørstemarker (Benevnelse - forurensningssensitive).  
+Gruppe II – Arter som er helt, eller til en viss grad, likegyldig til organisk tilførsel. Alltid tilstede i lave 
+tettheter med ikke-betydelige variasjoner over tid (fra utgangstilstand til lett ubalanse). I denne gruppe 
+inkluderes «suspension feeders», 
+mindre selektive karnivorer og åtseletere (Benevnelse 
+- 
+forurensingsnøytrale).  
+Gruppe III – Arter som er tolerante ovenfor organisk tilførsel. Disse artene kan også forekomme under 
+normale tilstander, men blir stimulert av organisk tilførsel. Denne gruppen inkluderer overflate «deposit 
+feeders» som noen rørbyggende flerbørstemarker (Benevnelse - forurensingstolerante).  
+Gruppe IV – Andre orden opportunister (lett til markert ubalanserte situasjoner). I hovedsak små 
+flerbørstemarker; «subsurface deposit-feeders» som f.eks cirratulider (Benevnelse - Opportunistisk, 
+forurensingstolerant)  
+Gruppe V – Første orden opportunister (markert ubalanserte situasjoner) (Benevnelse - 
+Forurensingsindikerende art).  
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 46 av 74 
+ 
+V3.2 Språkbruk: Endringer  
+Etter en re-tolkning av Borja et al. 2000 velger vi å endre noe på språkbruken ang. benevnelsen til de 
+forskjellige økologiske gruppene. Nedenfor har vi satt opp en oversiktstabell fra tidligere benevnelse til den 
+nye benevnelsen:  
+ 
+Tabell V3.1. Oversikt over reviderte benevnelser for inndeling av AMBI/NSI i økologiske grupper.  
+Økologisk gruppe 
+Gammel benevnelse 
+Ny benevnelse 
+I 
+Svært forurensingssensitiv  
+Forurensingssensitiv 
+II 
+Forurensingssensitiv 
+Forurensingsnøytral  
+III 
+Forurensingstolerant 
+Forurensingstolerant 
+IV 
+Svært 
+forurensingstolerant 
+(opportunistisk) 
+Forurensingstolerant 
+(opportunistisk) 
+V 
+Kraftig 
+forurensingstolerant 
+(opportunist) 
+Forurensingsindikerende art  
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 47 av 74 
+ 
+Vedlegg 4 - Feltlogg (MOM B parametere) 
+  
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 48 av 74 
+ 
+Vedlegg 5 - Artsliste for bunnfauna 
+ 
+Artsliste for all fauna funnet ved lokalitet Jørstadskjera er organisert i Tabell V 5.1.  
+ 
+Tabell V5.1. Artsliste for bunnfauna registrert Jørstadskjera. Arter markert i rødt er arter som er identifisert (og i 
+enkelte tilfeller kvantifisert), men som ikke er statistisk gjeldende (i.e Foraminifera, phylum Bryozoa, kolonielle 
+Porifera, infraklasse Cirripedia, kolonielle Cnidaria, phylum Nematoda og pelagiske arter, jf. NS-EN ISO 
+16665:2013). Symbolet «X» indikerer at arten eller taxaen er observert, men ikke kvantifisert.  
+ 
+TAXA 
+JØR
+-1 
+Gr 2 
+JØR
+-1 
+Gr 3 
+JØR
+-2 
+Gr 2 
+JØR
+-2 
+Gr 3 
+JØR
+-3 
+Gr 2 
+JØR
+-3 
+Gr 3 
+JØR
+-4 
+Gr 2 
+JØR
+-4 
+Gr 3 
+JØR
+-5 
+Gr 2 
+JØR
+-5 
+Gr 3 
+JØR
+-6 
+Gr 2 
+JØR
+-6 
+Gr 3 
+Class 
+POLYCHAET
+A 
+Ampharetid
+ae 
+ 
+ 
+1 
+  
+2 
+  
+ 
+ 
+ 
+ 
+ 
+Amphictene 
+auricoma 
+ 
+ 
+5 
+2 
+  
+ 
+ 
+20 
+7 
+  
+ 
+Amythaside
+s 
+macroglossu
+s 
+ 
+ 
+8 
+5 
+2 
+3 
+  
+1 
+ 
+8 
+3 
+ 
+Aphelochaet
+a sp. 
+3 
+12 
+70 
+62 
+1 
+2 
+  
+8 
+6 
+4 
+3 
+ 
+Aphrodita 
+aculeata 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+2 
+2 
+  
+ 
+Capitella 
+capitata 
+101
+0 
+137
+2 
+ 
+4 
+  
+151 
+108
+1 826 
+80 
+2 
+ 
+ 
+Ceratocepha
+le loveni 
+1 
+ 
+1 
+4 
+1 
+1 
+  
+ 
+ 
+2 
+5 
+ 
+Chaetozone 
+setosa 
+7 
+6 
+26 
+34 
+  
+ 
+1 
+55 
+5 
+  
+ 
+Cirratulus 
+cirratus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+1 
+  
+ 
+Diplocirrus 
+glaucus 
+1 
+ 
+10 
+5 
+ 
+1 
+  
+23 
+11 
+  
+ 
+Eteone flava  
+ 
+ 
+1 
+  
+ 
+ 
+11 
+2 
+  
+ 
+Eumida sp. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Exogone sp.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Galathoweni
+a oculata 
+ 
+2 
+ 
+2 
+  
+ 
+ 
+238 
+51 
+1 
+1 
+ Glycera alba  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+3 
+  
+ 
+Glycera 
+lapidum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+1 
+1 
+1 
+ Gyptis rosea  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Harmothoe 
+sp. 
+ 
+ 
+3 
+3 
+  
+ 
+ 
+2 
+2 
+  
+ 
+Heteromastu
+s filiformis 
+28 
+11 
+43 
+30 
+18 
+20 
+ 
+4 172 
+59 
+30 
+23 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 49 av 74 
+ 
+ 
+Jasmineira 
+sp. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+Lagis koreni 
+3 
+ 
+7 
+1 
+  
+ 
+ 
+20 
+1 
+  
+ 
+Levinsenia 
+gracilis 
+ 
+ 
+2 
+3 
+1 
+  
+ 
+ 
+ 
+1 
+1 
+ 
+Lipobranchi
+us jeffreysii  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+3 
+  
+ 
+Lumbrinerid
+ae  
+3 
+ 
+6 
+7 
+4 
+7 
+  
+4 
+2 
+6 
+6 
+ 
+Melinna 
+cristata 
+ 
+ 
+2 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neoleanira 
+tetragona 
+ 
+ 
+2 
+3 
+  
+ 
+ 
+ 
+ 
+1 
+1 
+ 
+Nephtys 
+ciliata 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Nephtys 
+cirrosa 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Nephtys 
+hystricis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Nephtys 
+pente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Nephtys sp.  
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nereimyra 
+punctata 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notomastus 
+latericeus 
+ 
+ 
+ 
+ 
+7 
+  
+ 
+27 
+5 
+8 
+2 
+ Ophelina sp.  
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ophryotroch
+a sp. 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+3 
+  
+ 
+ 
+ 
+Owenia 
+borealis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+2 
+  
+ 
+Oxydromus 
+flexuosus 
+ 
+ 
+3 
+3 
+  
+ 
+ 
+1 
+  
+ 
+ 
+Paradiopatra 
+fiordica 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+1 
+ 
+ 
+Paradiopatra 
+quadricuspis  
+ 
+1 
+  
+1 
+  
+ 
+ 
+3 
+1 
+ 
+Paradoneis 
+lyra 
+1 
+  
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paramphino
+me jeffreysii 428 376 152 442 
+34 
+28 
+18 839 
+132
+0 351 
+17 
+10 
+ 
+Parexogone 
+hebes 
+ 
+ 
+1 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pectinaria 
+belgica 
+1 
+3 
+1 
+  
+ 
+ 
+ 
+1 
+2 
+  
+ 
+Pherusa 
+falcata 
+ 
+ 
+1 
+4 
+1 
+  
+ 
+ 
+ 
+2 
+2 
+ 
+Pholoe 
+baltica 
+7 
+4 
+1 
+2 
+2 
+  
+ 
+8 
+1 
+1 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 50 av 74 
+ 
+ 
+Pholoe 
+pallida 
+ 
+ 
+ 
+ 
+2 
+4 
+  
+ 
+ 
+ 
+2 
+ 
+Phyllodoce 
+mucosa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+Phyllodoce 
+rosea 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Phylo 
+norvegicus 
+ 
+ 
+3 
+4 
+1 
+5 
+  
+ 
+ 
+ 
+1 
+ 
+Pilargis 
+papillata 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Pista cristata  
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pista 
+mediterranea 
+ 
+ 
+3 
+2 
+  
+ 
+ 
+21 
+3 
+  
+ 
+Polycirrus 
+medusa 
+ 
+ 
+ 
+2 
+  
+ 
+ 
+1 
+  
+ 
+ 
+Praxillella 
+affinis 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Praxillella 
+praetermissa  
+1 
+ 
+4 
+5 
+2 
+  
+ 
+ 
+1 
+2 
+ 
+Prionospio 
+cirrifera 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+6 
+1 
+  
+ 
+Prionospio 
+dubia 
+ 
+ 
+ 
+1 
+ 
+1 
+  
+ 
+ 
+1 
+ 
+ 
+Prionospio 
+steenstrupi 
+14 
+17 
+  
+ 
+ 
+29 108 
+6 
+  
+ 
+ 
+Proclea 
+grafi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+Protomystid
+es exigua  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+Pseudopoly
+dora 
+paucibranch
+iata 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46 
+  
+ 
+ 
+Pterolysippe 
+vanelli 
+ 
+ 
+1 
+11 
+ 
+2 
+  
+ 
+ 
+ 
+ 
+ 
+Rhodine 
+loveni 
+ 
+ 
+13 
+10 
+2 
+12 
+  
+ 
+ 
+4 
+4 
+ 
+Scalibregma 
+inflatum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+3 
+  
+ 
+Scolelepis 
+sp. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+1 
+  
+ 
+Scoloplos 
+armiger 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+  
+ 
+ 
+Sige 
+fusigera 
+4 
+2 
+ 
+2 
+  
+ 
+ 
+2 
+  
+ 
+ 
+Spiochaetop
+terus 
+bergensis 
+ 
+ 
+ 
+ 
+2 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+Spiochaetop
+terus typicus  
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+1 
+2 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 51 av 74 
+ 
+ 
+Spiophanes 
+bombyx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Spiophanes 
+kroyeri 
+ 
+ 
+1 
+2 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Spiophanes 
+wigleyi 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Streblosoma 
+intestinale 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ Syllidae  
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Syllis cornuta  
+3 
+  
+ 
+ 
+ 
+3 
+1 
+  
+ 
+ 
+Terebellides 
+stroemii 
+ 
+ 
+ 
+3 
+20 
+21 
+  
+ 
+ 
+23 
+19 
+ 
+Terebellomor
+pha   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Tharyx 
+killariensis 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Subclass 
+OLIGOCHAETA Oligochaeta 
+ 
+ 
+ 
+3 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tubificoides 
+sp. 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+Order 
+AMPHIPODA 
+Amphipoda   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+Order 
+AMPHIPODA 
+(Suborder 
+Gammaridea) 
+Nicippe 
+tumida 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+Westwoodilla 
+caecula 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+Order 
+AMPHIPODA 
+(Suborder 
+Senticaudata) 
+Eriopisa 
+elongata 
+ 
+1 
+20 
+12 
+10 
+10 
+1 
+  
+ 
+7 
+8 
+Order 
+CUMACEA 
+Eudorella sp. 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Order Decapoda 
+Munida 
+tenuimana  
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Class 
+OSTRACODA 
+Philomedes 
+lilljeborgi 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+Class 
+ASCIDIACEA 
+Molgulidae  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+Subclass 
+HEXACORALLI
+A 
+Actiniaria 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ Edwardsiidae  
+1 
+  
+ 
+ 
+ 
+ 
+3 
+2 
+  
+Class 
+ASTEROIDEA 
+Asteroidea  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+2 
+  
+Class 
+ECHINOIDEA 
+Echinocardiu
+m sp. 
+ 
+ 
+3 
+1 
+  
+ 
+ 
+12 
+  
+ 
+Class 
+OPHIUROIDEA 
+Amphilepis 
+norvegica 
+ 
+ 
+7 
+21 
+25 
+27 
+  
+ 
+ 
+27 
+12 
+ 
+Amphipholis 
+squamata 
+ 
+ 
+1 
+2 
+  
+ 
+ 
+1 
+  
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 52 av 74 
+ 
+ 
+Amphiura 
+chiajei 
+ 
+ 
+ 
+2 
+  
+ 
+ 
+ 
+1 
+  
+ 
+Amphiura 
+filiformis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+1 
+  
+ 
+Ophiura sp. 
+ 
+ 
+2 
+  
+2 
+  
+ 
+1 
+  
+ 
+Ophiuroidea  
+ 
+ 
+ 
+ 
+ 
+4 
+  
+3 
+  
+ 
+Class BIVALVIA Abra alba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+2 
+  
+ 
+Abra nitida 
+4 
+ 
+7 
+4 
+2 
+4 
+  
+624 213 
+3 
+2 
+ 
+Cuspidaria 
+obesa 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+Ennucula 
+tenuis 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kelliella 
+miliaris 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+2 
+ 
+Kurtiella 
+bidentata 
+1 
+1 
+1 
+  
+ 
+ 
+ 
+1 
+3 
+  
+ 
+Macoma 
+calcarea 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Mendicula 
+ferruginosa 
+ 
+ 
+6 
+9 
+1 
+  
+ 
+1 
+ 
+1 
+ 
+ 
+Adontorhina 
+similis  
+ 
+ 
+2 
+  
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Mytilus 
+edulis 
+ 
+ 
+ 
+1 
+  
+1 
+  
+1 
+  
+ 
+Nucula 
+tumidula 
+1 
+1 
+7 
+12 
+12 
+7 
+  
+ 
+ 
+25 
+19 
+ 
+Pseudamussi
+um peslutrae 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+Tellimya 
+tenella 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Thyasira 
+equalis 
+ 
+ 
+46 
+80 
+7 
+11 
+  
+ 
+12 
+12 
+10 
+ 
+Thyasira 
+obsoleta 
+ 
+ 
+3 
+1 
+3 
+1 
+  
+ 
+ 
+4 
+2 
+ Thyasira sarsi 
+40 
+25 
+6 
+1 
+  
+ 
+60 661 105 
+  
+ 
+Tropidomya 
+abbreviata 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yoldiella 
+lucida 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+3 
+ 
+Yoldiella 
+nana 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Yoldiella 
+philippiana 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+Class 
+CAUDOFOVEA
+TA 
+Chaetoderma 
+nitidulum 
+ 
+ 
+ 
+7 
+7 
+  
+ 
+ 
+1 
+8 
+2 
+ 
+Scutopus 
+ventrolineatu
+s 
+ 
+ 
+2 
+  
+6 
+  
+ 
+ 
+5 
+4 
+Class 
+GASTROPODA 
+Cylichna alba  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+Retusa 
+umbilicata 
+ 
+ 
+1 
+2 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 53 av 74 
+ 
+ 
+Euspira 
+montagui 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+1 
+1 
+  
+ 
+Euspira nitida  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+3 
+  
+ 
+Philine scabra 
+4 
+3 
+6 
+2 
+  
+ 
+ 
+11 
+7 
+  
+ 
+Philine sp. 
+ 
+ 
+3 
+  
+ 
+ 
+ 
+3 
+  
+ 
+ 
+Prosobranchi
+a  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+1 
+  
+Class 
+SCAPHOPODA 
+Entalina 
+tetragona 
+ 
+ 
+ 
+ 
+1 
+2 
+  
+ 
+ 
+3 
+1 
+Phylum 
+NEMERTEA 
+Nemertea  
+23 
+12 
+3 
+7 
+2 
+3 
+1 
+1 
+1 
+4 
+ 
+3 
+Phylum 
+PLATYHELMIN
+THES 
+Turbellaria 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+1 
+  
+Phylum 
+PRIAPULIDA 
+Priapulus 
+caudatus 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+Class 
+SIPUNCULIDEA Golfingia sp. 
+ 
+ 
+2 
+1 
+ 
+2 
+  
+ 
+ 
+ 
+ 
+ 
+Nephasoma 
+minutum 
+ 
+ 
+ 
+2 
+1 
+  
+ 
+ 
+ 
+2 
+2 
+ 
+Onchnesoma 
+steenstrupii 
+ 
+ 
+11 
+21 
+24 
+26 
+  
+ 
+ 
+39 
+20 
+ 
+Phascolion 
+strombus 
+strombus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+Varia 
+Raricirrus 
+beryli 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+1 
+  
+ 
+Virgularia sp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 54 av 74 
+ 
+Vedlegg 6 - Indekser for nær- og overgangsstasjonen  
+ 
+På grunn av lokal påvirkning helt opp til utslippet/anlegget kan man ofte finne få arter med jevn 
+individfordeling som gjør det uegnet å bruke diversitetsindekser for å angi miljøtilstand. Vurdering av disse 
+stasjonene er i utgangspunktet gjort med bakgrunn i beskrivelse fra NS9410, men som tilleggsinformasjon 
+er indekser for nær- og overgangsstasjonen likevel beregnet og presentert i Tabell V6.1 og V6.2.  
+ 
+Tabell V6.1. Resultater fra nærstasjonen JØR-1 fra grabb 2 og grabb 3. Antall arter (S) og individer (N) funnet ved 
+stasjonen danner grunnlaget for de utregnede indeksene; NQI1 (artsmangfold og ømfintlighet), H' (Shannon Wiener - 
+artsmangfold), J (jevnhet), H'max (maksimal diversitet), ES100 (diversitet), ISI (sensitivitet/indikator arter), NSI 
+(sensitivitet/indikator arter basert på norske forhold), DI (individtetthet). Samlet verdi angir total tilstandsklasse for 
+stasjonen og er gjennomsnittet av de to normaliserte indeksene nEQR Ḡ og nEQR Ṧ. Fargene i tabellen angir de ulike 
+tilstandsklassene indeksverdiene hører til i; blå  tilstandsklasse «svært god», grønn  «god», gul  «moderat», 
+oransje  «dårlig», rød  «svært dårlig». 
+JØR-1 
+Grabb 2 
+Grabb 3 
+Ḡ 
+Ṧ 
+nEQR Ḡ 
+nEQR Ṧ 
+S 
+22 
+20 
+21,0 
+28 
+  
+  
+N 
+1586 
+1854 
+1720,0 
+3440 
+  
+  
+NQI1 
+0,433 
+0,400 
+0,416 
+0,429 
+0,318 
+0,333 
+H' 
+1,549 
+1,219 
+1,384 
+1,391 
+0,297 
+0,298 
+J 
+0,347 
+0,282 
+0,315 
+0,289 
+  
+  
+H'max 
+4,459 
+4,322 
+4,391 
+4,807 
+  
+  
+ES100 
+7,607 
+6,272 
+6,940 
+7,002 
+0,278 
+0,280 
+ISI 
+7,050 
+7,112 
+7,081 
+7,319 
+0,536 
+0,572 
+NSI 
+11,842 
+10,544 
+11,193 
+11,142 
+0,248 
+0,246 
+DI 
+1,150 
+1,218 
+1,184 
+1,184 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Samlet 
+verdi: 
+0,340 
+  
+0,335 
+0,346 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 55 av 74 
+ 
+ 
+Tabell V6.2. Resultater for overgangsstasjon (JØR-2) fra grabb 2 og grabb 3. For grundigere beskrivelse av tabellen; 
+se tabelltekst for Tabell V6.1. 
+JØR-2 
+Grabb 2 
+Grabb 3 
+Ḡ 
+Ṧ 
+nEQR Ḡ 
+nEQR Ṧ 
+S 
+53 
+59 
+56,0 
+75 
+  
+  
+N 
+513 
+859 
+686,0 
+1372 
+  
+  
+NQI1 
+0,698 
+0,694 
+0,696 
+0,704 
+0,670 
+0,678 
+H' 
+3,984 
+3,190 
+3,587 
+3,599 
+0,665 
+0,667 
+J 
+0,696 
+0,542 
+0,619 
+0,578 
+  
+  
+H'max 
+5,728 
+5,883 
+5,805 
+6,229 
+  
+  
+ES100 
+26,270 
+22,110 
+24,190 
+24,220 
+0,685 
+0,685 
+ISI 
+9,544 
+8,644 
+9,094 
+9,225 
+0,752 
+0,764 
+NSI 
+22,297 
+21,776 
+22,036 
+21,970 
+0,681 
+0,679 
+DI 
+0,660 
+0,884 
+0,772 
+0,772 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Samlet 
+verdi: 
+0,692 
+  
+0,691 
+0,694 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 56 av 74 
+ 
+Vedlegg 7 - CTD Data  
+ 
+Tabell V7.1 CTD data fra Jørstadskjera 
+Ser 
+Meas 
+Sal. 
+Temp 
+Ox % 
+Dybde (m) 
+3 
+8445 
+32,87 
+6,085 
+95,72 
+0,04 
+3 
+8446 
+32,77 
+7,081 
+95,33 
+0,2 
+3 
+8447 
+32,49 
+7,393 
+95,1 
+0,34 
+3 
+8448 
+32,46 
+7,514 
+95,04 
+0,52 
+3 
+8449 
+32,4 
+7,575 
+94,91 
+0,74 
+3 
+8450 
+32,47 
+7,639 
+94,84 
+0,84 
+3 
+8451 
+32,52 
+7,691 
+94,66 
+1,04 
+3 
+8452 
+32,48 
+7,685 
+94,55 
+1,27 
+3 
+8453 
+32,51 
+7,696 
+94,47 
+1,52 
+3 
+8454 
+32,5 
+7,715 
+94,53 
+1,65 
+3 
+8455 
+32,53 
+7,735 
+94,59 
+1,74 
+3 
+8456 
+32,62 
+7,794 
+94,58 
+2,02 
+3 
+8457 
+32,63 
+7,864 
+94,71 
+2,34 
+3 
+8458 
+32,71 
+7,954 
+94,98 
+2,65 
+3 
+8459 
+32,77 
+8,039 
+95,09 
+2,84 
+3 
+8460 
+32,83 
+8,113 
+95,14 
+3,05 
+3 
+8461 
+32,96 
+8,255 
+94,96 
+3,24 
+3 
+8462 
+33,08 
+8,295 
+94,85 
+3,51 
+3 
+8463 
+33,17 
+8,371 
+94,85 
+3,78 
+3 
+8464 
+33,21 
+8,441 
+94,82 
+4,12 
+3 
+8465 
+33,26 
+8,481 
+94,73 
+4,42 
+3 
+8466 
+33,27 
+8,504 
+94,73 
+4,71 
+3 
+8467 
+33,28 
+8,508 
+94,64 
+5,04 
+3 
+8468 
+33,26 
+8,49 
+94,72 
+5,39 
+3 
+8469 
+33,27 
+8,464 
+94,75 
+5,79 
+3 
+8470 
+33,27 
+8,438 
+94,83 
+6,16 
+3 
+8471 
+33,25 
+8,412 
+94,87 
+6,56 
+3 
+8472 
+33,26 
+8,396 
+94,82 
+6,42 
+3 
+8473 
+33,28 
+8,389 
+94,79 
+6,53 
+3 
+8474 
+33,27 
+8,378 
+94,76 
+6,7 
+3 
+8475 
+33,28 
+8,357 
+94,77 
+6,89 
+3 
+8476 
+33,31 
+8,348 
+94,82 
+7,28 
+3 
+8477 
+33,46 
+8,363 
+94,87 
+7,56 
+3 
+8478 
+33,46 
+8,371 
+94,91 
+7,77 
+3 
+8479 
+33,5 
+8,373 
+94,85 
+7,87 
+3 
+8480 
+33,54 
+8,381 
+94,8 
+7,91 
+3 
+8481 
+33,57 
+8,392 
+94,91 
+8,04 
+3 
+8482 
+33,6 
+8,401 
+95 
+8,32 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 57 av 74 
+ 
+3 
+8483 
+33,62 
+8,422 
+95,21 
+8,63 
+3 
+8484 
+33,6 
+8,444 
+95,22 
+8,9 
+3 
+8485 
+33,6 
+8,461 
+95,3 
+9,27 
+3 
+8486 
+33,61 
+8,474 
+95,24 
+9,58 
+3 
+8487 
+33,6 
+8,483 
+95,25 
+9,92 
+3 
+8488 
+33,6 
+8,492 
+95,48 
+10,3 
+3 
+8489 
+33,6 
+8,502 
+95,53 
+10,49 
+3 
+8490 
+33,6 
+8,485 
+95,36 
+11,03 
+3 
+8491 
+33,59 
+8,452 
+95,15 
+11,36 
+3 
+8492 
+33,59 
+8,442 
+95,06 
+11,74 
+3 
+8493 
+33,61 
+8,442 
+95,02 
+12,13 
+3 
+8494 
+33,59 
+8,441 
+95,02 
+12,51 
+3 
+8495 
+33,64 
+8,448 
+95,01 
+12,83 
+3 
+8496 
+33,63 
+8,453 
+94,98 
+13,12 
+3 
+8497 
+33,63 
+8,456 
+94,95 
+13,4 
+3 
+8498 
+33,63 
+8,458 
+94,98 
+13,82 
+3 
+8499 
+33,62 
+8,457 
+94,9 
+14,11 
+3 
+8500 
+33,62 
+8,458 
+94,95 
+14,59 
+3 
+8501 
+33,62 
+8,461 
+94,94 
+14,89 
+3 
+8502 
+33,62 
+8,461 
+94,9 
+15,22 
+3 
+8503 
+33,61 
+8,462 
+94,88 
+15,46 
+3 
+8504 
+33,62 
+8,463 
+94,87 
+15,68 
+3 
+8505 
+33,61 
+8,462 
+94,85 
+15,94 
+3 
+8506 
+33,62 
+8,463 
+94,83 
+16,24 
+3 
+8507 
+33,62 
+8,465 
+94,84 
+16,57 
+3 
+8508 
+33,63 
+8,464 
+94,85 
+16,91 
+3 
+8509 
+33,62 
+8,465 
+94,82 
+17,2 
+3 
+8510 
+33,61 
+8,464 
+94,81 
+17,62 
+3 
+8511 
+33,61 
+8,478 
+94,84 
+17,96 
+3 
+8512 
+33,66 
+8,502 
+94,85 
+18,2 
+3 
+8513 
+33,66 
+8,51 
+94,74 
+18,6 
+3 
+8514 
+33,62 
+8,505 
+94,72 
+18,94 
+3 
+8515 
+33,63 
+8,496 
+94,65 
+19,36 
+3 
+8516 
+33,61 
+8,48 
+94,65 
+19,63 
+3 
+8517 
+33,61 
+8,468 
+94,58 
+19,94 
+3 
+8518 
+33,63 
+8,453 
+94,52 
+20,32 
+3 
+8519 
+33,61 
+8,427 
+94,56 
+20,6 
+3 
+8520 
+33,63 
+8,414 
+94,6 
+20,84 
+3 
+8521 
+33,64 
+8,432 
+94,68 
+21,37 
+3 
+8522 
+33,66 
+8,454 
+94,62 
+21,72 
+3 
+8523 
+33,65 
+8,466 
+94,64 
+22,19 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 58 av 74 
+ 
+3 
+8524 
+33,65 
+8,47 
+94,62 
+22,49 
+3 
+8525 
+33,65 
+8,467 
+94,65 
+23,11 
+3 
+8526 
+33,65 
+8,463 
+94,73 
+23,66 
+3 
+8527 
+33,66 
+8,464 
+94,97 
+24,16 
+3 
+8528 
+33,67 
+8,473 
+95,09 
+24,72 
+3 
+8529 
+33,71 
+8,493 
+95,41 
+25,31 
+3 
+8530 
+33,7 
+8,508 
+95,67 
+25,87 
+3 
+8531 
+33,7 
+8,514 
+95,82 
+26,36 
+3 
+8532 
+33,7 
+8,517 
+95,59 
+26,89 
+3 
+8533 
+33,69 
+8,517 
+95,35 
+27,18 
+3 
+8534 
+33,7 
+8,514 
+95,2 
+27,82 
+3 
+8535 
+33,7 
+8,515 
+95,11 
+28,36 
+3 
+8536 
+33,69 
+8,522 
+95,08 
+28,99 
+3 
+8537 
+33,71 
+8,531 
+95,07 
+29,52 
+3 
+8538 
+33,71 
+8,537 
+94,99 
+30,15 
+3 
+8539 
+33,73 
+8,546 
+95 
+30,85 
+3 
+8540 
+33,73 
+8,554 
+95,03 
+31,56 
+3 
+8541 
+33,72 
+8,562 
+94,81 
+32,08 
+3 
+8542 
+33,72 
+8,569 
+94,7 
+32,61 
+3 
+8543 
+33,71 
+8,569 
+94,62 
+33,09 
+3 
+8544 
+33,71 
+8,568 
+94,57 
+33,64 
+3 
+8545 
+33,71 
+8,566 
+94,47 
+34,28 
+3 
+8546 
+33,71 
+8,565 
+94,46 
+34,97 
+3 
+8547 
+33,71 
+8,564 
+94,42 
+35,61 
+3 
+8548 
+33,73 
+8,557 
+94,38 
+36,24 
+3 
+8549 
+33,72 
+8,553 
+94,27 
+36,83 
+3 
+8550 
+33,74 
+8,545 
+94,32 
+37,52 
+3 
+8551 
+33,74 
+8,536 
+94,37 
+38,08 
+3 
+8552 
+33,74 
+8,538 
+94,59 
+38,76 
+3 
+8553 
+33,74 
+8,573 
+94,89 
+39,4 
+3 
+8554 
+33,77 
+8,597 
+95 
+40,03 
+3 
+8555 
+33,76 
+8,598 
+95,02 
+40,73 
+3 
+8556 
+33,73 
+8,585 
+94,93 
+41,47 
+3 
+8557 
+33,73 
+8,571 
+94,85 
+42,29 
+3 
+8558 
+33,74 
+8,562 
+94,88 
+42,97 
+3 
+8559 
+33,72 
+8,59 
+95,06 
+43,61 
+3 
+8560 
+33,79 
+8,686 
+95,2 
+44,24 
+3 
+8561 
+33,82 
+8,791 
+95,07 
+44,98 
+3 
+8562 
+33,91 
+8,834 
+95,07 
+45,76 
+3 
+8563 
+33,9 
+8,824 
+95,22 
+46,47 
+3 
+8564 
+33,94 
+8,842 
+95,28 
+47,05 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 59 av 74 
+ 
+3 
+8565 
+33,94 
+8,868 
+95,24 
+47,58 
+3 
+8566 
+33,95 
+8,861 
+95,23 
+48,05 
+3 
+8567 
+33,95 
+8,852 
+95,24 
+48,6 
+3 
+8568 
+33,95 
+8,839 
+95,32 
+49,24 
+3 
+8569 
+33,93 
+8,799 
+95,15 
+49,82 
+3 
+8570 
+33,93 
+8,723 
+95,44 
+50,49 
+3 
+8571 
+33,95 
+8,685 
+95,85 
+50,94 
+3 
+8572 
+33,97 
+8,671 
+96 
+51,57 
+3 
+8573 
+33,97 
+8,669 
+96,05 
+52,24 
+3 
+8574 
+33,97 
+8,67 
+96 
+52,88 
+3 
+8575 
+33,96 
+8,675 
+96 
+53,47 
+3 
+8576 
+33,96 
+8,679 
+95,99 
+53,99 
+3 
+8577 
+33,99 
+8,681 
+95,94 
+54,62 
+3 
+8578 
+33,98 
+8,689 
+95,79 
+55,28 
+3 
+8579 
+33,99 
+8,694 
+95,7 
+55,95 
+3 
+8580 
+33,99 
+8,694 
+95,65 
+56,6 
+3 
+8581 
+33,98 
+8,694 
+95,72 
+57,27 
+3 
+8582 
+33,98 
+8,698 
+95,71 
+57,96 
+3 
+8583 
+33,98 
+8,702 
+95,6 
+58,74 
+3 
+8584 
+33,98 
+8,702 
+95,56 
+59,49 
+3 
+8585 
+33,98 
+8,701 
+95,55 
+60,24 
+3 
+8586 
+33,98 
+8,697 
+95,51 
+61,02 
+3 
+8587 
+33,99 
+8,692 
+95,47 
+61,76 
+3 
+8588 
+33,99 
+8,682 
+95,44 
+62,54 
+3 
+8589 
+33,99 
+8,676 
+95,4 
+63,34 
+3 
+8590 
+33,99 
+8,673 
+95,41 
+64,13 
+3 
+8591 
+33,99 
+8,671 
+95,37 
+64,88 
+3 
+8592 
+33,98 
+8,67 
+95,44 
+65,61 
+3 
+8593 
+33,99 
+8,673 
+95,47 
+66,36 
+3 
+8594 
+33,98 
+8,677 
+95,38 
+67,09 
+3 
+8595 
+33,99 
+8,687 
+95,35 
+67,84 
+3 
+8596 
+34,01 
+8,715 
+95,35 
+68,67 
+3 
+8597 
+34,03 
+8,745 
+95,25 
+69,45 
+3 
+8598 
+34,04 
+8,762 
+95,2 
+70,18 
+3 
+8599 
+34,03 
+8,77 
+95,1 
+70,92 
+3 
+8600 
+34,02 
+8,772 
+95,05 
+71,74 
+3 
+8601 
+34,03 
+8,773 
+95,02 
+72,53 
+3 
+8602 
+34,03 
+8,774 
+95,02 
+73,26 
+3 
+8603 
+34,03 
+8,774 
+94,99 
+74 
+3 
+8604 
+34,02 
+8,775 
+95 
+74,76 
+3 
+8605 
+34,03 
+8,777 
+94,95 
+75,65 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 60 av 74 
+ 
+3 
+8606 
+34,03 
+8,779 
+94,96 
+76,42 
+3 
+8607 
+34,02 
+8,79 
+94,99 
+77,19 
+3 
+8608 
+34,07 
+8,822 
+94,87 
+77,91 
+3 
+8609 
+34,07 
+8,849 
+94,74 
+78,75 
+3 
+8610 
+34,08 
+8,861 
+94,61 
+79,58 
+3 
+8611 
+34,11 
+8,861 
+94,48 
+80,39 
+3 
+8612 
+34,07 
+8,858 
+94,39 
+81,13 
+3 
+8613 
+34,08 
+8,849 
+94,33 
+81,84 
+3 
+8614 
+34,08 
+8,829 
+94,26 
+82,59 
+3 
+8615 
+34,08 
+8,807 
+94,32 
+83,42 
+3 
+8616 
+34,08 
+8,793 
+94,33 
+84,24 
+3 
+8617 
+34,08 
+8,782 
+94,3 
+85,07 
+3 
+8618 
+34,06 
+8,763 
+94,4 
+85,83 
+3 
+8619 
+34,06 
+8,728 
+94,4 
+86,66 
+3 
+8620 
+34,06 
+8,714 
+94,55 
+87,48 
+3 
+8621 
+34,1 
+8,742 
+94,55 
+88,33 
+3 
+8622 
+34,11 
+8,79 
+94,4 
+89,18 
+3 
+8623 
+34,13 
+8,831 
+94,22 
+90,01 
+3 
+8624 
+34,12 
+8,862 
+94,15 
+90,84 
+3 
+8625 
+34,16 
+8,926 
+93,91 
+91,61 
+3 
+8626 
+34,15 
+8,958 
+93,6 
+92,31 
+3 
+8627 
+34,14 
+8,981 
+93,47 
+93,01 
+3 
+8628 
+34,18 
+9,014 
+93,25 
+93,8 
+3 
+8629 
+34,17 
+9,04 
+93,06 
+94,6 
+3 
+8630 
+34,17 
+9,04 
+92,86 
+95,37 
+3 
+8631 
+34,17 
+9,015 
+92,86 
+96,2 
+3 
+8632 
+34,17 
+8,997 
+92,93 
+97 
+3 
+8633 
+34,16 
+9,002 
+93,03 
+97,77 
+3 
+8634 
+34,17 
+9,025 
+93,12 
+98,57 
+3 
+8635 
+34,22 
+9,101 
+92,68 
+99,45 
+3 
+8636 
+34,26 
+9,18 
+92,11 
+100,28 
+3 
+8637 
+34,28 
+9,233 
+91,61 
+101,17 
+3 
+8638 
+34,32 
+9,265 
+90,98 
+102,09 
+3 
+8639 
+34,31 
+9,268 
+90,55 
+102,93 
+3 
+8640 
+34,3 
+9,248 
+90,35 
+103,73 
+3 
+8641 
+34,32 
+9,219 
+90,4 
+104,54 
+3 
+8642 
+34,3 
+9,208 
+90,35 
+105,36 
+3 
+8643 
+34,3 
+9,204 
+90,37 
+106,19 
+3 
+8644 
+34,32 
+9,21 
+90,4 
+107,01 
+3 
+8645 
+34,33 
+9,224 
+90,17 
+107,88 
+3 
+8646 
+34,33 
+9,208 
+90,02 
+108,73 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 61 av 74 
+ 
+3 
+8647 
+34,31 
+9,15 
+90,28 
+109,5 
+3 
+8648 
+34,31 
+9,121 
+90,19 
+110,33 
+3 
+8649 
+34,29 
+9,024 
+90,64 
+111,17 
+3 
+8650 
+34,24 
+8,919 
+91,35 
+111,97 
+3 
+8651 
+34,27 
+8,877 
+91,79 
+112,83 
+3 
+8652 
+34,28 
+8,878 
+91,98 
+113,65 
+3 
+8653 
+34,31 
+8,891 
+91,94 
+114,53 
+3 
+8654 
+34,33 
+8,906 
+91,86 
+115,43 
+3 
+8655 
+34,35 
+8,937 
+91,68 
+116,32 
+3 
+8656 
+34,33 
+8,956 
+91,53 
+117,2 
+3 
+8657 
+34,37 
+8,986 
+91,38 
+118,05 
+3 
+8658 
+34,4 
+9,053 
+90,9 
+118,85 
+3 
+8659 
+34,41 
+9,097 
+90,49 
+119,67 
+3 
+8660 
+34,42 
+9,125 
+90,12 
+120,53 
+3 
+8661 
+34,43 
+9,164 
+89,79 
+121,42 
+3 
+8662 
+34,44 
+9,201 
+89,31 
+122,27 
+3 
+8663 
+34,47 
+9,232 
+88,98 
+123,1 
+3 
+8664 
+34,45 
+9,272 
+88,6 
+124 
+3 
+8665 
+34,48 
+9,3 
+88,1 
+124,96 
+3 
+8666 
+34,49 
+9,314 
+87,72 
+125,97 
+3 
+8667 
+34,52 
+9,343 
+87,27 
+126,94 
+3 
+8668 
+34,51 
+9,363 
+86,82 
+127,92 
+3 
+8669 
+34,52 
+9,368 
+86,45 
+128,84 
+3 
+8670 
+34,54 
+9,37 
+86,12 
+129,77 
+3 
+8671 
+34,54 
+9,372 
+85,87 
+130,7 
+3 
+8672 
+34,53 
+9,382 
+85,57 
+131,61 
+3 
+8673 
+34,57 
+9,4 
+84,97 
+132,49 
+3 
+8674 
+34,58 
+9,415 
+84,33 
+133,44 
+3 
+8675 
+34,58 
+9,426 
+83,79 
+134,35 
+3 
+8676 
+34,57 
+9,437 
+83,37 
+135,26 
+3 
+8677 
+34,6 
+9,459 
+82,73 
+136,22 
+3 
+8678 
+34,62 
+9,475 
+81,61 
+137,18 
+3 
+8679 
+34,6 
+9,474 
+80,8 
+138,15 
+3 
+8680 
+34,63 
+9,472 
+80,29 
+139,1 
+3 
+8681 
+34,62 
+9,468 
+80,03 
+139,95 
+3 
+8682 
+34,63 
+9,454 
+79,84 
+140,88 
+3 
+8683 
+34,63 
+9,441 
+79,72 
+141,73 
+3 
+8684 
+34,63 
+9,431 
+79,67 
+142,65 
+3 
+8685 
+34,64 
+9,42 
+79,55 
+143,54 
+3 
+8686 
+34,65 
+9,411 
+79,48 
+144,49 
+3 
+8687 
+34,64 
+9,401 
+79,47 
+145,42 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 62 av 74 
+ 
+3 
+8688 
+34,63 
+9,391 
+79,39 
+146,38 
+3 
+8689 
+34,62 
+9,381 
+79,37 
+147,21 
+3 
+8690 
+34,64 
+9,36 
+79,28 
+148,06 
+3 
+8691 
+34,61 
+9,31 
+79,24 
+148,92 
+3 
+8692 
+34,63 
+9,259 
+79,12 
+149,79 
+3 
+8693 
+34,65 
+9,23 
+79 
+150,69 
+3 
+8694 
+34,66 
+9,219 
+78,91 
+151,59 
+3 
+8695 
+34,66 
+9,215 
+78,85 
+152,46 
+3 
+8696 
+34,66 
+9,216 
+78,89 
+153,19 
+3 
+8697 
+34,66 
+9,219 
+78,9 
+153,93 
+3 
+8698 
+34,65 
+9,215 
+78,93 
+154,72 
+3 
+8699 
+34,67 
+9,199 
+78,96 
+155,53 
+3 
+8700 
+34,68 
+9,186 
+78,93 
+156,36 
+3 
+8701 
+34,7 
+9,15 
+78,93 
+157,22 
+3 
+8702 
+34,71 
+9,138 
+79,31 
+158,12 
+3 
+8703 
+34,72 
+9,139 
+79,79 
+159,03 
+3 
+8704 
+34,73 
+9,131 
+80,16 
+159,95 
+3 
+8705 
+34,75 
+9,116 
+80,38 
+160,86 
+3 
+8706 
+34,74 
+9,109 
+80,53 
+161,8 
+3 
+8707 
+34,73 
+9,106 
+80,68 
+162,76 
+3 
+8708 
+34,75 
+9,101 
+80,71 
+163,66 
+3 
+8709 
+34,75 
+9,092 
+80,82 
+164,58 
+3 
+8710 
+34,77 
+9,073 
+81,09 
+165,55 
+3 
+8711 
+34,77 
+9,055 
+81,35 
+166,48 
+3 
+8712 
+34,77 
+9,038 
+81,53 
+167,43 
+3 
+8713 
+34,78 
+9,019 
+81,58 
+168,36 
+3 
+8714 
+34,79 
+9,001 
+81,67 
+169,34 
+3 
+8715 
+34,79 
+8,99 
+81,7 
+170,25 
+3 
+8716 
+34,8 
+8,982 
+81,7 
+171,19 
+3 
+8717 
+34,81 
+8,973 
+81,66 
+172,14 
+3 
+8718 
+34,81 
+8,967 
+81,62 
+173,11 
+3 
+8719 
+34,8 
+8,952 
+81,52 
+174,04 
+3 
+8720 
+34,81 
+8,914 
+81,39 
+174,91 
+3 
+8721 
+34,84 
+8,858 
+81,21 
+175,79 
+3 
+8722 
+34,84 
+8,822 
+81,23 
+176,71 
+3 
+8723 
+34,86 
+8,801 
+81,24 
+177,63 
+3 
+8724 
+34,88 
+8,787 
+81,23 
+178,56 
+3 
+8725 
+34,88 
+8,768 
+81,18 
+179,48 
+3 
+8726 
+34,88 
+8,752 
+81,15 
+180,39 
+3 
+8727 
+34,91 
+8,739 
+81,15 
+181,28 
+3 
+8728 
+34,91 
+8,729 
+81,12 
+182,18 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 63 av 74 
+ 
+3 
+8729 
+34,91 
+8,72 
+81,11 
+183,11 
+3 
+8730 
+34,91 
+8,708 
+81,11 
+184,05 
+3 
+8731 
+34,91 
+8,704 
+81,12 
+184,98 
+3 
+8732 
+34,92 
+8,704 
+81,13 
+185,91 
+3 
+8733 
+34,93 
+8,694 
+81,07 
+186,85 
+3 
+8734 
+34,92 
+8,668 
+81,06 
+187,76 
+3 
+8735 
+34,92 
+8,654 
+81 
+188,67 
+3 
+8736 
+34,93 
+8,643 
+80,99 
+189,56 
+3 
+8737 
+34,94 
+8,633 
+80,99 
+190,48 
+3 
+8738 
+34,94 
+8,626 
+80,97 
+191,37 
+3 
+8739 
+34,95 
+8,624 
+80,98 
+192,26 
+3 
+8740 
+34,94 
+8,623 
+80,95 
+193,09 
+3 
+8741 
+34,94 
+8,623 
+80,97 
+193,96 
+3 
+8742 
+34,94 
+8,618 
+80,97 
+194,87 
+3 
+8743 
+34,96 
+8,603 
+80,95 
+195,77 
+3 
+8744 
+34,98 
+8,587 
+81,01 
+196,7 
+3 
+8745 
+34,98 
+8,591 
+81,18 
+197,57 
+3 
+8746 
+34,97 
+8,599 
+81,32 
+198,46 
+3 
+8747 
+34,99 
+8,61 
+81,51 
+199,36 
+3 
+8748 
+34,99 
+8,608 
+81,6 
+200,23 
+3 
+8749 
+34,99 
+8,585 
+81,56 
+201,11 
+3 
+8750 
+34,97 
+8,54 
+81,34 
+202,01 
+3 
+8751 
+34,99 
+8,496 
+81,04 
+202,91 
+3 
+8752 
+34,97 
+8,46 
+80,71 
+203,8 
+3 
+8753 
+34,97 
+8,423 
+80,47 
+204,72 
+3 
+8754 
+35,02 
+8,447 
+80,6 
+205,58 
+3 
+8755 
+35,01 
+8,468 
+80,86 
+206,45 
+3 
+8756 
+35,02 
+8,472 
+81,12 
+207,35 
+3 
+8757 
+35,04 
+8,47 
+81,24 
+208,27 
+3 
+8758 
+35,02 
+8,461 
+81,33 
+209,16 
+3 
+8759 
+35,04 
+8,456 
+81,34 
+210,06 
+3 
+8760 
+35,03 
+8,447 
+81,36 
+210,97 
+3 
+8761 
+35,03 
+8,419 
+81,28 
+211,88 
+3 
+8762 
+35,03 
+8,396 
+81,13 
+212,78 
+3 
+8763 
+35,03 
+8,368 
+80,96 
+213,67 
+3 
+8764 
+35,03 
+8,335 
+80,8 
+214,54 
+3 
+8765 
+35,03 
+8,324 
+80,66 
+215,39 
+3 
+8766 
+35,07 
+8,34 
+80,76 
+216,3 
+3 
+8767 
+35,06 
+8,357 
+80,87 
+217,22 
+3 
+8768 
+35,04 
+8,364 
+80,96 
+218,12 
+3 
+8769 
+35,05 
+8,359 
+80,98 
+219,03 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 64 av 74 
+ 
+3 
+8770 
+35,05 
+8,344 
+80,98 
+219,9 
+3 
+8771 
+35,05 
+8,323 
+80,97 
+220,81 
+3 
+8772 
+35,06 
+8,294 
+80,91 
+221,72 
+3 
+8773 
+35,07 
+8,275 
+80,83 
+222,59 
+3 
+8774 
+35,06 
+8,261 
+80,78 
+223,44 
+3 
+8775 
+35,07 
+8,247 
+80,75 
+224,34 
+3 
+8776 
+35,05 
+8,225 
+80,63 
+225,25 
+3 
+8777 
+35,04 
+8,194 
+80,53 
+226,12 
+3 
+8778 
+35,07 
+8,163 
+80,43 
+227,03 
+3 
+8779 
+35,04 
+8,138 
+80,38 
+227,91 
+3 
+8780 
+35,06 
+8,11 
+80,31 
+228,79 
+3 
+8781 
+35,08 
+8,076 
+80,23 
+229,61 
+3 
+8782 
+35,06 
+8,036 
+80,08 
+230,48 
+3 
+8783 
+35,03 
+7,992 
+79,84 
+231,3 
+3 
+8784 
+35,05 
+7,935 
+79,68 
+232,14 
+3 
+8785 
+35,04 
+7,898 
+79,54 
+233,03 
+3 
+8786 
+35,03 
+7,869 
+79,43 
+233,9 
+3 
+8787 
+35,05 
+7,852 
+79,34 
+234,74 
+3 
+8788 
+35,06 
+7,84 
+79,29 
+235,6 
+3 
+8789 
+35,07 
+7,83 
+79,25 
+236,52 
+3 
+8790 
+35,08 
+7,822 
+79,24 
+237,41 
+3 
+8791 
+35,07 
+7,81 
+79,26 
+238,27 
+3 
+8792 
+35,06 
+7,8 
+79,27 
+239,09 
+3 
+8793 
+35,06 
+7,794 
+79,3 
+239,92 
+3 
+8794 
+35,07 
+7,789 
+79,29 
+240,78 
+3 
+8795 
+35,08 
+7,787 
+79,33 
+241,69 
+3 
+8796 
+35,07 
+7,788 
+79,34 
+242,57 
+3 
+8797 
+35,07 
+7,788 
+79,34 
+243,42 
+3 
+8798 
+35,05 
+7,789 
+79,32 
+244,19 
+3 
+8799 
+35,1 
+7,799 
+79,34 
+245,03 
+3 
+8800 
+35,09 
+7,807 
+79,43 
+245,89 
+3 
+8801 
+35,09 
+7,802 
+79,42 
+246,7 
+3 
+8802 
+35,09 
+7,792 
+79,4 
+247,46 
+3 
+8803 
+35,07 
+7,78 
+79,38 
+248,27 
+3 
+8804 
+35,07 
+7,772 
+79,34 
+249,07 
+3 
+8805 
+35,04 
+7,761 
+79,37 
+249,86 
+3 
+8806 
+35,05 
+7,745 
+79,31 
+250,59 
+3 
+8807 
+35,05 
+7,737 
+79,29 
+251,29 
+3 
+8808 
+35,05 
+7,736 
+79,26 
+252,02 
+3 
+8809 
+35,06 
+7,736 
+79,27 
+252,76 
+3 
+8810 
+35,07 
+7,736 
+79,24 
+253,48 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 65 av 74 
+ 
+3 
+8811 
+35,06 
+7,735 
+79,27 
+254,19 
+3 
+8812 
+35,05 
+7,735 
+79,25 
+254,9 
+3 
+8813 
+35,07 
+7,733 
+79,25 
+255,63 
+3 
+8814 
+35,06 
+7,73 
+79,21 
+256,39 
+3 
+8815 
+35,07 
+7,723 
+79,18 
+257,1 
+3 
+8816 
+35,06 
+7,716 
+79,19 
+257,78 
+3 
+8817 
+35,07 
+7,709 
+79,15 
+258,54 
+3 
+8818 
+35,07 
+7,697 
+79,16 
+259,29 
+3 
+8819 
+35,09 
+7,685 
+79,21 
+260,03 
+3 
+8820 
+35,08 
+7,68 
+79,27 
+260,77 
+3 
+8821 
+35,08 
+7,678 
+79,27 
+261,51 
+3 
+8822 
+35,08 
+7,677 
+79,27 
+262,28 
+3 
+8823 
+35,09 
+7,676 
+79,32 
+263,08 
+3 
+8824 
+35,09 
+7,677 
+79,37 
+263,86 
+3 
+8825 
+35,1 
+7,681 
+79,39 
+264,68 
+3 
+8826 
+35,09 
+7,693 
+79,43 
+265,49 
+3 
+8827 
+35,09 
+7,698 
+79,52 
+266,26 
+3 
+8828 
+35,09 
+7,701 
+79,57 
+267 
+3 
+8829 
+35,08 
+7,7 
+79,59 
+267,75 
+3 
+8830 
+35,09 
+7,7 
+79,6 
+268,49 
+3 
+8831 
+35,09 
+7,7 
+79,65 
+269,26 
+3 
+8832 
+35,08 
+7,702 
+79,63 
+270,02 
+3 
+8833 
+35,1 
+7,701 
+79,63 
+270,75 
+3 
+8834 
+35,09 
+7,698 
+79,63 
+271,49 
+3 
+8835 
+35,08 
+7,696 
+79,63 
+272,27 
+3 
+8836 
+35,09 
+7,697 
+79,63 
+273,05 
+3 
+8837 
+35,08 
+7,698 
+79,64 
+273,75 
+3 
+8838 
+35,1 
+7,695 
+79,6 
+274,49 
+3 
+8839 
+35,09 
+7,682 
+79,56 
+275,26 
+3 
+8840 
+35,1 
+7,668 
+79,52 
+276,04 
+3 
+8841 
+35,1 
+7,662 
+79,45 
+276,78 
+3 
+8842 
+35,1 
+7,657 
+79,43 
+277,51 
+3 
+8843 
+35,11 
+7,65 
+79,43 
+278,29 
+3 
+8844 
+35,11 
+7,646 
+79,46 
+279,03 
+3 
+8845 
+35,1 
+7,64 
+79,5 
+279,79 
+3 
+8846 
+35,11 
+7,636 
+79,52 
+280,45 
+3 
+8847 
+35,12 
+7,634 
+79,5 
+281,06 
+3 
+8848 
+35,08 
+7,627 
+79,52 
+281,7 
+3 
+8849 
+35,09 
+7,618 
+79,51 
+282,29 
+3 
+8850 
+35,09 
+7,614 
+79,51 
+282,83 
+3 
+8851 
+35,08 
+7,612 
+79,48 
+283,38 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 66 av 74 
+ 
+3 
+8852 
+35,09 
+7,609 
+79,48 
+283,96 
+3 
+8853 
+35,09 
+7,605 
+79,46 
+284,58 
+3 
+8854 
+35,11 
+7,6 
+79,46 
+285,28 
+3 
+8855 
+35,1 
+7,595 
+79,44 
+285,97 
+3 
+8856 
+35,08 
+7,588 
+79,43 
+286,67 
+3 
+8857 
+35,08 
+7,581 
+79,38 
+287,3 
+3 
+8858 
+35,09 
+7,579 
+79,41 
+287,82 
+3 
+8859 
+35,1 
+7,575 
+79,39 
+288,24 
+3 
+8860 
+35,09 
+7,572 
+79,4 
+288,58 
+3 
+8861 
+35,08 
+7,57 
+79,39 
+288,89 
+3 
+8862 
+35,08 
+7,567 
+79,42 
+289,13 
+3 
+8863 
+35,09 
+7,563 
+79,41 
+289,35 
+3 
+8864 
+35,08 
+7,56 
+79,38 
+289,53 
+3 
+8865 
+35,09 
+7,556 
+79,35 
+289,68 
+3 
+8866 
+35,09 
+7,554 
+79,37 
+289,81 
+3 
+8867 
+35,1 
+7,554 
+79,39 
+289,88 
+3 
+8868 
+35,1 
+7,551 
+79,41 
+290 
+3 
+8869 
+35,09 
+7,55 
+79,36 
+290,06 
+3 
+8870 
+35,08 
+7,549 
+79,37 
+290,13 
+3 
+8871 
+35,11 
+7,548 
+79,34 
+290,2 
+3 
+8872 
+35,11 
+7,546 
+79,37 
+290,31 
+3 
+8873 
+35,1 
+7,546 
+79,39 
+290,42 
+3 
+8874 
+35,1 
+7,546 
+79,37 
+290,47 
+3 
+8875 
+35,08 
+7,547 
+79,4 
+290,53 
+3 
+8876 
+35,09 
+7,548 
+79,35 
+290,54 
+3 
+8877 
+35,08 
+7,548 
+79,42 
+290,58 
+3 
+8878 
+35,08 
+7,547 
+79,36 
+290,61 
+3 
+8879 
+35,09 
+7,547 
+79,39 
+290,65 
+3 
+8880 
+35,11 
+7,547 
+79,37 
+290,67 
+3 
+8881 
+35,08 
+7,545 
+79,36 
+290,69 
+3 
+8882 
+35,1 
+7,545 
+79,36 
+290,68 
+3 
+8883 
+35,11 
+7,544 
+79,38 
+290,7 
+3 
+8884 
+35,11 
+7,544 
+79,38 
+290,71 
+3 
+8885 
+35,11 
+7,545 
+79,4 
+290,71 
+3 
+8886 
+35,1 
+7,544 
+79,35 
+290,75 
+3 
+8887 
+35,08 
+7,545 
+79,37 
+290,76 
+ 
+ 
+ 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 67 av 74 
+ 
+Vedlegg 8 - Analysebevis fra ALS 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 68 av 74 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 69 av 74 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 70 av 74 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 71 av 74 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 72 av 74 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 73 av 74 
+ 
+ 
+Kombinert C- og ASC-undersøkelse 
+    
+   Havbrukstjenesten AS 
+ 
+Dokumentid.: B.5.5.20/2.00 
+ 
+Side 74 av 74

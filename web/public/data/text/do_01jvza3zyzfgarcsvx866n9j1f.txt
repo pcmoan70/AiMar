@@ -1,0 +1,371 @@
+﻿Nordlaks – Prosjekt Hydra 
+HAZID-rapport fiskehelse og -velferd 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+NORDLAKS OPPDRETT AS
+29.11.2021
+Rapport 
+29.11.2021 
+1 
+Nordlaks – Prosjekt Hydra 
+Nordlaks – Prosjekt Hydra 
+HAZID-rapport fiskehelse og -velferd 
+ 
+ 
+Rapportnummer 
+2021-8 
+Prosjektleder 
+Bjarne Johansen 
+Forfattere 
+Rolf-Rikard B. Holand 
+Camilla Robertsen 
+Bjarne Johansen  
+Selskap 
+Nordlaks Oppdrett AS 
+Dato 
+29.11.2021 
+Oppsummering 
+I denne rapporten beskrives Nordlaks sin utførelse
+av 
+HAZID-analyse 
+innen 
+vurderingsområdet 
+fiskehelse og -velferd for utviklingsprosjektet 
+Hydra, som ble gjennomført i samarbeid med 
+Veterinærinstituttet. Hovedfokuset for HAZIDen
+har vært å identifisere potensielle farer som kan 
+påvirke ivaretakelsen av fiskehelse- og velferd i
+Hydra. HAZIDen har identifisert farer tilknyttet 
+aktuelle 
+tema 
+som 
+design 
+og 
+tekniske 
+installasjoner, driftsoperasjoner, miljøforhold, samt 
+sykdom og lus. Arbeidet har resultert i en 
+kartlegging av aktuelle farer, årsaker, potensielle 
+konsekvenser, og eksisterende risikoreduserende 
+tiltak for hvert av disse temaene. HAZIDen har også 
+resultert i til sammen 14 aksjoner og anbefalinger 
+for å håndtere identifiserte fareaspekter i det 
+videre arbeidet med utviklingsprosjektet. 
+Utgiver 
+Nordlaks Oppdrett AS 
+Postboks 224 
+8455 Stokmarknes 
+Telefon: 76 11 81 00 
+E-post: firmapost@nordlaks.no 
+nordlaks.no 
+Det kan fritt kopieres fra denne rapporten hvis kilden oppgis. Brukeren oppfordres til å oppgi rapportens navn, nummer, samt at den er 
+utgitt av Nordlaks Oppdrett AS. 
+© 2021 Nordlaks Oppdrett AS 
+Rapport 
+29.11.2021 
+2 
+Nordlaks – Prosjekt Hydra 
+Innholdsfortegnelse 
+1. Introduksjon ............................................................................................................................. 3 
+2. I denne rapporten oppsummeres resultatene fra HAZIDen ........................................................ 4 
+2.1. Metodikk ...................................................................................................................................... 4 
+2.2. Deltagere ...................................................................................................................................... 4 
+3. Resultater ................................................................................................................................ 5 
+3.1. Identifiserte aksjoner og anbefalinger ......................................................................................... 6 
+4. Referanser ................................................................................................................................ 7 
+ 
+  
+Rapport 
+29.11.2021 
+3 
+Nordlaks – Prosjekt Hydra 
+ 
+1. Introduksjon 
+Nordlaks arbeider med utviklingen av et semilukket, flytende akvakulturanlegg. Konseptet Hydra vil 
+konstrueres som en tett tank ned til 20 m under operasjonell vannlinje, og en foilseksjon for passiv 
+vannutskifting under den tette delen. Vesentlige funksjoner som f.eks. dødfiskanlegg, kraftproduksjon 
+og -fordeling, samt nødsystem for vanninjeksjon vil arrangeres i øvre pongtong.  
+ 
+Med endrede tekniske betingelser for produksjon, sammenlignet med tradisjonelle åpne anlegg, 
+representerer Hydra en ny teknologisk løsning for flytende akvakulturanlegg i sjø. Et av flere viktige 
+steg i prosjektfasen, og den videre utviklingen av konseptet, blir å vurdere Hydra opp mot aktuelle 
+fiskehelse og -velferdshensyn i en senere driftsfase. En slik vurdering vil blant annet bli viktig for å 
+informere det videre arbeidet med design og konstruksjon, samt planlegging og gjennomføring av 
+senere drift. Utfordringen med en slik vurdering grunner i stor grad i innovasjonsaspektet til prosjektet, 
+og hvordan Hydra som teknologisk premissgiver for lakseoppdrett, kan sies å endre forutsetningene for 
+driften på den aktuelle lokalitet. For å kunne gjøre gode vurderinger av ivaretakelsen av fiskevelferden 
+i Hydra, er dette forhold som også må tas høyde for i en kartlegging av potensielle farer.  
+ 
+I tidlig fase ble ressursgruppen for nye metoder i Mattilsynet kontaktet for en avklaring om 
+Hydrakonseptet var omfattet av forsøksdyrutvalget eller ikke. Nordlaks og Mattilsynet avholdt et 
+dialogmøte 27.09.21 angående prosjektet. Her ble det klart at utprøving ikke reguleres av 
+forsøksdyrutvalget, men av bestemmelsene i Akvakulturdriftsforskriften § 20. Det stilles her krav til 
+blant annet gjennomføring av utprøving, kompetanse, uttesting etter vitenskapelige prinsipper med 
+mer. 
+ 
+For å kartlegge potensielle farer tilknyttet fiskehelse og -velferd i Hydra, har Nordlaks valgt å 
+gjennomføre en HAZID-analyse («hazard identification»). Dette er et verktøy og metode som brukes 
+for å identifisere potensielle farer eller problemstillinger tilknyttet både etablert og ny/emergerende 
+teknologi. Nordlaks har tidligere benyttet HAZID-analyse for identifisering av risikofaktorer ved andre 
+utviklingsprosjekter som havfarmene/havfarmprosjektet. Erfaringene Nordlaks har gjort seg med 
+HAZID-analyser i utviklingssammenheng, tilsier at HAZID som verktøy kan være svært nyttig for å 
+informere videre arbeid med utviklingsprosjekter og forebygging av identifiserte farer, men videre også 
+for risikovurdering av drift og beskrivelser av arbeidsoperasjoner og beredskap, inkludert utarbeidelse 
+av prosedyrer og beredskapsplaner, tilpasning av kvalitets- og internkontrollsystemer, m.m.  
+ 
+Nordlaks har i samarbeid med Veterinærinstituttet gjennomført en HAZID-analyse av Hydra, med 
+hovedfokus på ivaretakelse av fiskehelse og -velferd under ulike driftsoperasjoner og miljøforhold, samt 
+identifisering av potensielle farer tilknyttet sykdom og lus. Med hensyn til fiskehelse og -velferd, har 
+HAZIDen også sett på Hydra sitt design og tekniske installasjoner. HAZIDen ble gjennomført i 
+arbeidsmøter via Teams, i tidsrommet 17.-19. november 2021.  
+ 
+Rapport 
+29.11.2021 
+4 
+Nordlaks – Prosjekt Hydra 
+ 
+2. I denne rapporten oppsummeres resultatene fra 
+HAZIDen 
+2.1. Metodikk 
+HAZIDen hadde som formål å identifisere og diskutere farer tilknyttet fiskehelse og -velferd i Hydra, 
+samt å identifisere årsaker, eksisterende risikoreduserende tiltak, og anbefalinger for videre arbeid. For 
+å sikre en systematisk tilnærming til HAZIDen, ble det arrangert arbeidsmøter med ulike hovedtemaer, 
+der deltakerne aktivt bidro til å: 
+ 
+• 
+Identifisere farer 
+• 
+Identifisere årsaker og potensielle konsekvenser til farene 
+• 
+Identifisere eksisterende risikoreduserende tiltak 
+• 
+Indentifisere eventuelle anbefalinger og råd for videre arbeid 
+ 
+I forkant av kartleggingen og utfyllingen av HAZID-loggen ble det identifisert aktuelle hovedtemaer for 
+å identifisere farer tilknyttet fiskevelferden. Følgende hovedtemaer ble foreslått å jobbe videre med: 
+ 
+• 
+Design og tekniske installasjoner 
+• 
+Driftsoperasjoner 
+• 
+Marine operasjoner 
+• 
+Miljøforhold 
+• 
+Sykdom og lus 
+ 
+2.2. Deltagere 
+Tabell 1 Deltagere 
+Navn 
+Selskap 
+Rolle 
+Fagområde 
+E-post 
+Kristoffer V. Nielsen 
+Veterinærinstituttet 
+Forsker 
+Havbruk og 
+fiskevelferd 
+kristoffer.vale.nielsen@vetinst.no 
+Bjarne Johansen  
+Nordlaks  
+Prosjektleder  
+Fiskehelse og 
+-velferd 
+bjarne.johansen@nordlaks.no  
+Camilla Robertsen  
+Nordlaks  
+Fiskehelsebiolog  
+Fiskehelse og 
+-velferd 
+camilla.robertsen@nordlaks.no  
+Rikard Kjellså 
+Nordlaks  
+Matros/akva Havfarm 1 
+Driftsoperasjo
+ner 
+akva.havfarm01@nordlaks.no  
+Rolf-R. B. Holand  
+Nordlaks  
+Kvalitetskoordinator 
+Kvalitet  
+rolf.holand@nordlaks.no  
+Salve Epletveit 
+Nordlaks  
+Teknisk inspektør 
+ Design og 
+tekniske 
+installasjoner  
+salve.epletveit@nordlaks.no  
+ 
+ 
+Rapport 
+29.11.2021 
+5 
+Nordlaks – Prosjekt Hydra 
+ 
+3. Resultater 
+Basert på innspill og drøftelse i deltagergruppen, ble det avtalt å gjennomføre tre arbeidsmøter i 
+tidsrommet 17.-19. november 2021, for å arbeide seg gjennom de ulike hovedtemaene for HAZIDen. 
+Hovedtemaene ble inndelt hver for seg i HAZID-loggen og potensielle farer ble kartlagt. Det ble foreslått 
+å ta ut marine operasjoner som eget hovedtema, siden disse operasjonene (eks. mottak av fisk og 
+levering av fisk med brønnbåt) vil inngå som en del av driften til hydra, og dermed ble disse kartlagt 
+under driftsoperasjoner. HAZIDen ble ut ifra dette gjennomført med følgende fire hovedtema: 
+ 
+1. Miljøforhold 
+2. Driftsoperasjoner 
+3. Sykdom og lus 
+4. Design og tekniske installasjoner 
+ 
+ 
+Vedrørende det første punktet og miljøforhold ble følgende potensielle farer identifisert: 
+ 
+• 
+Lavt oksygen 
+• 
+Utslipp fra Hydra til merdemiljø 
+• 
+Eksterne utslipp / havari 
+• 
+Alger og maneter 
+• 
+Høy turbiditet 
+• 
+Strømhastighet 
+• 
+Skade på fisk (begroing på skrog/tankvegg) 
+• 
+Forgiftning av fisk 
+• 
+Lysmangel i merd 
+ 
+Angående punkt nummer to og driftsoperasjoner, ble følgene potensielle farer identifisert: 
+ 
+• 
+Problemer ved overføring av levende fisk 
+• 
+Problemer ved trenging av fisk 
+• 
+Frislipp av partikler og stress under vasking 
+• 
+Manglende fôring 
+• 
+Stress ved servicearbeid (dykker, ROV, o.l.) 
+• 
+Manglende dødfiskopptak 
+• 
+Velferdsutfordringer ved lusetelling og velferdsscoring 
+• 
+Problemer ved tømming av merd 
+ 
+For punkt nummer tre, som angår sykdom og lus, ble følgende potensielle farer identifisert: 
+ 
+• 
+Dårlig smoltkvalitet 
+• 
+Infeksjon ved smittsom agens 
+• 
+Luseinfeksjon 
+• 
+Redusert fiskevelferd for svimere 
+ 
+For fjerde og siste punkt angående hovedtemaet om design og tekniske installasjoner, ble følgende 
+potensielle farer identifisert: 
+ 
+• 
+Mekanisk skade på fisk 
+Rapport 
+29.11.2021 
+6 
+Nordlaks – Prosjekt Hydra 
+ 
+• 
+Drifts- og produksjonsstans 
+ 
+For hver fare som ble identifisert, ble også årsaker, potensielle konsekvenser, og eksisterende barrierer 
+beskrevet. Oversikt over dette innholdet finnes i vedlagte HAZID-logg. For flere av punktene ble det 
+også identifisert aksjoner og anbefalinger for videre arbeid. Disse står også opplistet i HAZID-loggen, 
+men er også gjengitt nedenfor i denne rapporten. 
+3.1. Identifiserte aksjoner og anbefalinger 
+Det ble til sammen identifisert 14 aksjoner og anbefalinger for videre arbeid. Disse er beskrevet i 
+tabellene under. 
+ 
+Tabell 2 Identifiserte aksjoner for videre arbeid 
+Aksjon 
+Beskrivelse 
+Ansvarlig 
+A.1 
+ 
+Definere avbruddskriterier og kriterier for periodisk evaluering av 
+fiskevelferden. 
+Nordlaks 
+A.2 
+Definere overvåkingsprogram for vannkvalitet.  
+Nordlaks 
+A.3 
+Utarbeide prosedyrer og beredskapsplan. 
+Nordlaks 
+A.4 
+Utarbeide produksjonsplan, inkl. beskrivelse av uttesting. 
+Nordlaks 
+A.5 
+Etablere beredskap mot alger og maneter.  
+Nordlaks 
+A.6 
+Etablere strømmålinger på lokalitet. 
+Nordlaks 
+A.7 
+Vurdere rutine for vedlikeholdskjøring av thrustere for å unngå 
+gassdannelser, eks. før utsett. 
+Nordlaks 
+A.8 
+Undersøke faglitteratur for effekten lysforholdene vil ha på tilvekst og 
+fiskevelferd. 
+Nordlaks 
+A.9 
+Undersøke og vurdere muligheter for lusetelling med kamerateknologi. 
+Nordlaks 
+A.10 
+Utarbeide prosedyre for tømming av Hydra. 
+Nordlaks 
+A.11 
+Vurdere redundante utsettsgrupper. 
+Nordlaks 
+ 
+Tabell 3 Identifiserte anbefalinger for videre arbeid 
+Anbefaling Beskrivelse 
+Ansvarlig 
+R.1 
+Vurdere system for nødoksygenering. 
+Nordlaks 
+R.2 
+Vurdere filtrerings- og oppsamlingskapasitet på skrogvasker. 
+Nordlaks 
+R.3 
+Minimere mengden utstyr i merd 
+Nordlaks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rapport 
+29.11.2021 
+7 
+Nordlaks – Prosjekt Hydra 
+ 
+4. Referanser 
+Vedlegg A HAZID-logg 17-19112021

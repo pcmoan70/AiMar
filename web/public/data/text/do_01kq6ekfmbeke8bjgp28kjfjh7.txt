@@ -1,0 +1,4849 @@
+﻿Strømrapport  
+ 
+Måling av overflate (5m), dimensjonering (15m),  
+sprednings- og bunnstrøm ved  
+ 
+Storvika i Skjerstadfjorden  
+i 
+mai - juni 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 2 of 58 
+Dokument kontroll 
+Rapport 
+Rapportbeskrivelse 
+og navn 
+Vurdering av strømforhold ved Storvika i Skjerstadfjorden. 
+SR-M-04518-Storvika0718-ver01.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+01 
+05.07.18 
+Første utgivelse 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet.  Gjengivelse av deler av rapporten 
+kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde 
+oppgis. 
+ 
+Lokalitet 
+Lokalitetsnavn 
+Storvika i Skjerstadfjorden 
+Lokalitetsnummer 
+32397 
+Kommune  
+Bodø  
+Fylke 
+Nordland 
+ 
+Resultat nøkkeltall 
+Måledyp 
+5m 
+15m 
+Spredning (70m) 
+Bunn (120) 
+Maksimal strøm (cm/s) (retning) 
+58.1 (V) 
+24.4 (SØ) 
+13.5 (V) 
+8.4 (V) 
+Gjennomsnitt strøm (cm/s) 
+13.8 
+6.5 
+3.6 
+1.9 
+Strømstyrke < 1cm/s (%) 
+0.7 
+2.5 
+6.3 
+23.3 
+Strømstyrke < 3cm/s (%) 
+5.7 
+19.8 
+45.7 
+85.0 
+Strømstyrke ≥ 30cm/s (%) 
+6.4 
+0.0 
+0.0 
+0.0 
+Neumann parameter 
+0.6 
+0.2 
+0.1 
+0.1 
+10-års strøm (maksimal) 
+96 
+40 
+- 
+- 
+50-års strøm (maksimal) 
+108 
+45 
+- 
+- 
+ 
+Oppdragsgiver 
+Selskap 
+Wenberg Fiskeoppdrett AS, 8211 Fauske 
+Kontaktperson 
+Ørjan Wenberg 
+orjan@wenberg.no 
+90 03 90 62 
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413; 7260 SISTRANDA 
+Organisasjon nr.  916 763 816 
+Feltarbeidsansvarlig 
+Bjørn Erik Bye             
+Kristoffer Høyning 
+bjorn@akerbla.no 
+kristoffer@akerbla.no       
+95 18 65 35 
+90 79 49 23 
+Rapportansvarlig          
+ 
+Kristine Torkildson 
+kristine.torkildson@akerbla.no 
+92 64 23 80 
+Kontrollert av   
+Jenny-Lisa Reed 
+jenny.lisa@akerbla.no 
+90 88 34 23 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 3 of 58 
+Innholdsfortegnelse 
+ 
+1. 
+Forord .......................................................................................................................................... 5 
+2. 
+Områdebeskrivelse ..................................................................................................................... 6 
+3. 
+Metodikk ...................................................................................................................................... 7 
+4. 
+Resultater ..................................................................................................................................... 9 
+4.1 
+Strømdata sammendrag ..................................................................................................... 9 
+4.2 
+Strømroser ....................................................................................................................... 10 
+4.3 
+Strømhastighet mot strømretning matrise. ...................................................................... 11 
+4.4 
+Strømmens hastighetsfordeling. ...................................................................................... 15 
+4.5 
+Strømmens retningsfordeling. ......................................................................................... 16 
+4.6 
+Tidsdiagram - strømhastighet. ......................................................................................... 17 
+4.7 
+Tidsdiagram - strømretning. ............................................................................................ 18 
+4.8 
+Tidsdiagram - temperatur. ............................................................................................... 19 
+4.9 
+Progressivt vektordiagram. ............................................................................................. 20 
+4.10 
+Fordelingsdiagram – maksimal strømhastighet. ............................................................. 21 
+4.11 
+Fordelingsdiagram – middelhastighet. ............................................................................ 22 
+4.12 
+Fordelingsdiagram – relativ vannfluks. ........................................................................... 23 
+4.13 
+Fordelingsdiagram – antall observasjoner. ..................................................................... 24 
+4.14 
+Maksimal strømhastighet for 8 retningssektorer. ............................................................ 25 
+4.15 
+Gjennomsnittlig strømhastighet for 8 retningssektorer. .................................................. 25 
+4.16 
+Antall målinger i 8 retningssektorer. ............................................................................... 25 
+4.17 
+Relativ vannutskiftning for 8 retningssektorer. ............................................................... 25 
+4.18 
+10-års og 50-års strømhastighet per 8 retningssektorer på 5m ....................................... 26 
+4.19 
+10-års og 50-års strømhastighet per 8 retningssektorer på 15m ..................................... 26 
+4.20 
+Persentil fordeling av strømhastighet per dyp. ................................................................ 27 
+4.21 
+Prosent fordeling av strømhastighet per dyp. .................................................................. 27 
+4.22 
+Tidevannsanalyse ............................................................................................................ 28 
+4.23 
+Todagersperiode. ............................................................................................................. 33 
+4.24 
+Vind under måleperioden ................................................................................................ 34 
+4.25 
+CTD-måling .................................................................................................................... 37 
+5. 
+Diskusjon strøm ........................................................................................................................ 38 
+5.1 
+Temperatur ...................................................................................................................... 38 
+5.2 
+Strømhastighet................................................................................................................. 38 
+5.2.1 
+Maksimal, signifikant maksimal og høye strømmålinger (> 30 cm/s) ...................... 38 
+5.2.2 
+Enkeltstående strømtopper ......................................................................................... 38 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 4 of 58 
+5.2.3 
+Gjennomsnittlig strømhastighet ................................................................................. 39 
+5.2.4 
+Nullmålinger (< 1cm/s) og varighet ........................................................................... 39 
+5.2.5 
+Vannutskiftning og Neumann parameter ................................................................... 39 
+5.2.6 
+Sprednings- og bunnstrøm ......................................................................................... 40 
+5.3 
+CTD ................................................................................................................................. 40 
+6. 
+Vedlegg - opplysning strømmåling .......................................................................................... 41 
+7. 
+Vedlegg - riggoppsett, måleprinsipp og valg av målested ..................................................... 42 
+7.1 
+Riggoppsett ..................................................................................................................... 42 
+7.2 
+Måleprinsipp ................................................................................................................... 43 
+8. 
+Vedlegg - Databearbeiding og kvalitetssikring ...................................................................... 45 
+8.1 
+Databearbeiding .............................................................................................................. 45 
+8.2 
+Kvalitetssikring av data ................................................................................................... 47 
+8.3 
+Fjernede dataverdier ........................................................................................................ 52 
+8.3.1 
+Måleperiode ............................................................................................................... 52 
+8.3.2 
+Enkelte datapunkter.................................................................................................... 52 
+9. 
+Vedlegg - Strømmens tilstandsklasser .................................................................................... 53 
+10. Vedlegg - Månedlige tidevannsvariasjoner under måleperioden ......................................... 54 
+11. Vedlegg - Måleenheter og forkortelser ................................................................................... 55 
+12. Vedlegg - Parametere og Beskrivelse ...................................................................................... 56 
+13. Vedlegg - Referanser................................................................................................................. 57 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 5 of 58 
+1. 
+Forord 
+ 
+Åkerblå AS har på oppdrag fra Wenberg Fiskeoppdrett utført strømmålinger ved oppdrettslokalitet 
+Storvika i Skjerstadfjorden som er vurdert etter beliggenhet, strømforhold, temperatur, 
+vannutskiftning, tidevann og vind. 
+ 
+NYTEK-forskriften har som mål å begrense rømming av fisk fra oppdrettsanlegg.  NS 9415:2009 
+krever at alle lokaliteter undersøkes og beskrives ut fra topografi og eksponeringsgrad i form av 
+parametere som danner grunnlag for beregning av miljølaster på et anlegg.   
+ 
+Alle omsøkte akvakulturlokaliteter skal også kunne ivareta artens krav til et godt levemiljø 
+(Mattilsynet, 2014).  Det må være tilstrekkelig tilførsel av vann av egnet kvalitet.  Spesielt relevant 
+er oksygen – som er vurdert etter blant annet strømforhold og vannutskiftning – og temperatur.   
+ 
+Denne rapporten tilfredsstiller kravene i NS 9415:2009, samt kravene i Fiskeridirektoratets veileder 
+for utfylling av søknadsskjema for tillatelse til akvakultur (2012).  
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 6 of 58 
+2. 
+Områdebeskrivelse 
+ 
+Lokaliteten Storvika i Skjerstadfjorden ligger i Bodø kommune, Nordland. Anlegget ligger i 
+Skjerstadfjorden på nordsiden av Kvanndalen.  Plasseringen er åpen mot Skjerstadfjorden i nordvest 
+og øst, og mot Fauskevika i nordøst.   
+ 
+På grunn av omkringliggende topografi er lokaliteten relativt eksponert for vind fra nordvest, nordøst 
+og øst.  
+ 
+Bunntopografi er ca. 267m dyp og dybdekonturene er orientert Ø - V i området for 
+strømmålingsposisjonen. 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonen, anvist med 
+. 
+Kart er hentet fra Fiskeridirektoratets kartverktøy. 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 7 of 58 
+3. 
+Metodikk 
+ 
+Strømmålinger ble kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter 
+som ble benyttet er oppgitt i tabellen under. 
+ 
+Tabell 3.1. Bakgrunnsinformasjon om strømmåling.  
+Måledyp 
+5m 
+15m 
+Spredning (70m) 
+Bunn (120m) 
+Merke 
+ 
+ 
+ 
+ 
+Instrumenttype 
+Aanderaa 
+Punktmåler 
+Aanderaa 
+Punktmåler 
+Aanderaa 
+Punktmåler 
+Aanderaa 
+Punktmåler 
+Posisjon 
+67°12.156ʹ N   
+015°16.549ʹ Ø 
+67°12.156ʹ N   
+015°16.549ʹ Ø 
+67°12.156ʹ N   
+015°16.549ʹ Ø 
+67°12.156ʹ N   
+015°16.549ʹ Ø 
+Dyp på 
+målested 
+267m 
+267m 
+267m 
+267m 
+Måleperiode 
+24.05.18 - 29.06.18 24.05.18 - 29.06.18 24.05.18 - 29.06.18 24.05.18 - 29.06.18 
+Måleintervall 
+10 minutter 
+10 minutter 
+10 minutter 
+10 minutter 
+Antall døgn 
+35.9 
+35.9 
+35.9 
+35.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 3.1. Plassering av strømmålere i området anvist med 
+. Kart er hentet fra Fiskeridirektoratets 
+kartverktøy.   
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 8 of 58 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 3.2. 3D-bilde av bunntopografi i området.  
+Kartene er hentet fra Olex. Den tynne kompasspila øverst i venstre hjørne indikerer kartenes 
+orientering. 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 9 of 58 
+4. 
+Resultater  
+ 
+4.1 Strømdata sammendrag 
+ 
+Resultater per måledyp over hele måleperioden er sammenfattet i Tabell 4.1.1. 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra 5m, 15m, spredning og bunn. 
+Verdiene er klassifisert (fargelagt) etter: Vedlegg – Strømmens tilstandsklasser. 
+ 
+ 
+5m 
+15m 
+Spredning 
+(70m) 
+Bunn 
+(120m) 
+Sjøtemperatur (°C) 
+7.0 - 10.7 
+6.4 - 8.6 
+5.2 - 6.8 
+5.1 - 5.6 
+Strømhastighet 
+Maksimum (cm/s) 
+58.1 
+24.4 
+13.5 
+8.4 
+Gjennomsnitt (cm/s) 
+13.8 
+6.5 
+3.6 
+1.9 
+Minimum (cm/s) 
+0.1 
+0.1 
+0.0 
+0.0 
+Signifikant maks (cm/s) 
+24.4 
+11.1 
+6.1 
+3.1 
+Signifikant min (cm/s) 
+5.3 
+2.6 
+1.6 
+0.8 
+Varians (cm/s)² 
+84.0 
+16.1 
+4.5 
+1.2 
+Standard avvik (cm/s) 
+9.2 
+4.0 
+2.1 
+1.1 
+% < 1cm/s 
+0.7 
+2.5 
+6.3 
+23.3 
+Lengst periode < 1cm/s (min) 
+20 
+30 
+50 
+90 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+5.7 
+19.8 
+45.7 
+85.0 
+Lengst periode < 3cm/s (min) 
+120 
+180 
+400 
+2020 
+% ≥ 30cm/s 
+6.4 
+0.0 
+0.0 
+0.0 
+Lengst periode ≥ 30cm/s (min) 
+200 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+7.7 
+1.0 
+0.4 
+0.1 
+Retning grader (deg) 
+271 
+230 
+139 
+158 
+Neumann parameter 
+0.6 
+0.2 
+0.1 
+0.1 
+Gjennomsnitt vannforflytning (m³/m²/d) 
+11931 
+5608 
+3134 
+1617 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 10 of 58 
+4.2 Strømroser 
+ 
+Strømrosene viser strømhastighet og strømretning under hele måleperioden. Strømroser gir en 
+indikasjon på hovedstrømretning og om tidevannsellipsen er rettlinjet eller sirkulær. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning  
+Bunn  
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 11 of 58 
+4.3 Strømhastighet mot strømretning matrise. 
+ 
+Strømretninger er fordelt over 15º-sektorer (sektorene er vist i venstre kolonne).  
+Den nederste linjen viser den prosentvise fordelingen av de registrerte strømhastighetene.  
+Kolonnen til høyre viser den prosentvise fordelingen av de ulike 15º-sektorene og utregning av antall 
+kubikkmeter vann som i måleperioden vil passere et tenkt vindu på 1x1 meter i den aktuelle 
+strømretningen.  
+Kolonnen til høyre viser også maksimal strømhastighet i hver 15º-sektor.    
+ 
+Hastighetsfordeling er ≥ (lavest verdi) og < (høyest verdi) i oppgitt hastighetsrekkevidde. 
+ 
+ 
+Strømhastighet og retning (5m dyp) 
+ 
+Retning 
+(grader) 
+Strømhastighetsgruppe 
+Total flow 
+Maks 
+strøm 
+0-
+1 
+1-3 3-5 5-10 10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 Antall 
+obs 
+% 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+1 
+7 
+11 
+28 
+12 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+63 
+1.2 
+2939 
+0.7 
+23.4 
+N 
+15 
+2 
+10 
+8 
+25 
+6 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+54 
+1.0 
+2103 
+0.5 
+18.9 
+NØ 
+30 
+3 
+11 14 
+14 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+46 
+0.9 
+1327 
+0.3 
+11.0 
+NØ 
+45 
+1 
+11 12 
+14 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40 
+0.8 
+1231 
+0.3 
+13.5 
+NØ 
+60 
+1 
+15 15 
+30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+61 
+1.2 
+1880 
+0.4 
+9.7 
+Ø 
+75 
+0 
+11 19 
+18 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+50 
+1.0 
+1526 
+0.4 
+12.1 
+Ø 
+90 
+0 
+10 
+7 
+43 
+18 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+82 
+1.6 
+3932 
+0.9 
+17.2 
+Ø 
+105 
+5 
+7 
+15 
+51 
+19 
+15 
+2 
+1 
+3 
+1 
+0 
+0 
+0 
+119 
+2.3 
+6904 
+1.6 
+43.4 
+SØ 
+120 
+1 
+7 
+12 
+56 
+41 
+25 
+9 
+11 
+1 
+0 
+0 
+0 
+0 
+163 
+3.2 
+11700 
+2.7 
+34.2 
+SØ 
+135 
+1 
+7 
+17 
+68 
+59 
+46 
+24 
+5 
+4 
+0 
+0 
+0 
+0 
+231 
+4.5 
+17524 
+4.1 
+34.4 
+SØ 
+150 
+1 
+11 21 
+58 
+55 
+53 
+18 
+14 
+19 
+4 
+1 
+0 
+0 
+255 
+4.9 
+22994 
+5.4 
+51.4 
+S 
+165 
+0 
+12 20 
+54 
+58 
+34 
+18 
+11 
+2 
+0 
+0 
+0 
+0 
+209 
+4.0 
+15335 
+3.6 
+31.9 
+S 
+180 
+1 
+13 25 
+69 
+46 
+17 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+181 
+3.5 
+10218 
+2.4 
+24.0 
+S 
+195 
+2 
+12 21 
+55 
+18 
+6 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+117 
+2.3 
+5510 
+1.3 
+28.6 
+SV 
+210 
+3 
+7 
+16 
+55 
+29 
+8 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+119 
+2.3 
+5996 
+1.4 
+21.7 
+SV 
+225 
+1 
+13 17 
+46 
+25 
+11 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+114 
+2.2 
+5617 
+1.3 
+20.5 
+SV 
+240 
+1 
+11 23 
+60 
+38 
+16 
+7 
+2 
+0 
+0 
+0 
+0 
+0 
+158 
+3.1 
+8972 
+2.1 
+29.9 
+V 
+255 
+2 
+17 24 
+68 
+83 
+49 
+34 
+10 
+3 
+0 
+0 
+0 
+0 
+290 
+5.6 
+21900 
+5.1 
+34.9 
+V 
+270 
+2 
+13 17 126 
+149 
+137 
+100 
+65 
+40 
+9 
+2 
+0 
+0 
+660 
+12.8 67592 
+15.8 
+54.7 
+V 
+285 
+1 
+10 23 164 
+187 
+197 
+165 
+141 
+136 
+36 
+9 
+0 
+0 
+1069 
+20.7 128482 
+30.0 
+58.1 
+NV 
+300 
+1 
+11 24 113 
+129 
+85 
+66 
+40 
+32 
+17 
+1 
+0 
+0 
+519 
+10.0 51039 
+11.9 
+57.9 
+NV 
+315 
+0 
+10 30 
+88 
+73 
+22 
+20 
+3 
+5 
+3 
+0 
+0 
+0 
+254 
+4.9 
+17524 
+4.1 
+43.8 
+NV 
+330 
+1 
+12 21 
+88 
+38 
+17 
+4 
+1 
+1 
+0 
+0 
+0 
+0 
+183 
+3.5 
+10087 
+2.4 
+35.2 
+N 
+345 
+5 
+12 17 
+73 
+22 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+133 
+2.6 
+5990 
+1.4 
+19.2 
+Antall obs 
+36 260 429 1464 1113 751 
+483 
+305 
+246 
+70 
+13 
+0 
+0 
+5170 
+100 0 
+0 
+0 
+% 
+0.7 5.0 8.3 28.3 21.5 14.5 
+9.3 
+5.9 
+4.8 
+1.4 
+0.3 
+0.0 
+0.0 100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 12 of 58 
+Strømhastighet og retning (15m dyp) 
+ 
+Retning 
+(grader) 
+Strømhastighetsgruppe 
+Total flow 
+Maks 
+strøm 
+0-1 1-3 3-5 
+5-10 10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 Antall 
+obs 
+% 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+4 
+36 
+29 
+24 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+94 
+1.8 
+2095 
+1.0 
+10.2 
+N 
+15 
+6 
+35 
+35 
+15 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+93 
+1.8 
+2019 
+1.0 
+15.6 
+NØ 
+30 
+3 
+33 
+32 
+31 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+102 
+2.0 
+2554 
+1.3 
+11.2 
+NØ 
+45 
+3 
+38 
+54 
+23 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+121 
+2.3 
+2787 
+1.4 
+10.4 
+NØ 
+60 
+4 
+39 
+39 
+47 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+131 
+2.5 
+3496 
+1.7 
+10.3 
+Ø 
+75 
+3 
+27 
+53 
+76 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+168 
+3.2 
+5411 
+2.7 
+11.9 
+Ø 
+90 
+2 
+29 
+59 
+137 
+25 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+253 
+4.9 
+9420 
+4.7 
+15.6 
+Ø 
+105 
+5 
+22 
+59 
+171 
+55 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+320 
+6.2 
+13983 
+6.9 
+18.2 
+SØ 
+120 
+5 
+27 
+78 
+178 
+70 
+15 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+376 
+7.3 
+17059 
+8.5 
+24.4 
+SØ 
+135 
+10 
+39 
+73 
+149 
+57 
+27 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+355 
+6.9 
+15812 
+7.9 
+19.9 
+SØ 
+150 
+4 
+45 
+60 
+107 
+28 
+17 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+264 
+5.1 
+10770 
+5.3 
+21.6 
+S 
+165 
+2 
+27 
+45 
+77 
+18 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+172 
+3.3 
+6207 
+3.1 
+18.7 
+S 
+180 
+5 
+43 
+47 
+54 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+153 
+3.0 
+4230 
+2.1 
+18.1 
+S 
+195 
+7 
+30 
+35 
+35 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+109 
+2.1 
+2926 
+1.5 
+21.2 
+SV 
+210 
+4 
+37 
+32 
+38 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+113 
+2.2 
+2948 
+1.5 
+13.5 
+SV 
+225 
+4 
+49 
+34 
+48 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+138 
+2.7 
+3598 
+1.8 
+12.3 
+SV 
+240 
+6 
+36 
+38 
+64 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+157 
+3.0 
+5022 
+2.5 
+14.0 
+V 
+255 
+10 
+43 
+57 
+111 
+29 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+255 
+4.9 
+9318 
+4.6 
+16.7 
+V 
+270 
+9 
+35 
+73 
+197 
+121 
+42 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+479 
+9.3 
+24388 
+12.1 21.0 
+V 
+285 
+6 
+42 
+64 
+223 
+160 
+59 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+564 
+10.9 31291 
+15.5 23.2 
+NV 
+300 
+5 
+51 
+72 
+121 
+68 
+27 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+345 
+6.7 
+15436 
+7.7 
+21.2 
+NV 
+315 
+7 
+50 
+40 
+82 
+9 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+190 
+3.7 
+5805 
+2.9 
+16.1 
+NV 
+330 
+6 
+47 
+38 
+31 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+123 
+2.4 
+2761 
+1.4 
+11.6 
+N 
+345 
+7 
+38 
+27 
+23 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+95 
+1.8 
+1993 
+1.0 
+9.8 
+Antall obs 
+127 898 1173 2062 682 
+208 
+20 
+0 
+0 
+0 
+0 
+0 
+0 
+5170 
+100 
+0 
+0 
+0 
+% 
+2.5 17.4 22.7 39.9 13.2 
+4.0 
+0.4 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 13 of 58 
+Strømhastighet og retning (spredningsdyp) 
+ 
+Retning 
+(grader) 
+Strømhastighetsgruppe 
+Total flow 
+Maks 
+strøm 
+0-1 1-3 
+3-5 
+5-10 10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 Antall 
+obs 
+% 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+8 
+79 
+25 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+115 
+2.2 
+1626 
+1.4 
+6.1 
+N 
+15 
+15 
+71 
+30 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+117 
+2.3 
+1607 
+1.4 
+5.4 
+NØ 
+30 
+12 
+74 
+42 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+135 
+2.6 
+2201 
+2.0 
+8.4 
+NØ 
+45 
+13 
+80 
+44 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+150 
+2.9 
+2465 
+2.2 
+8.1 
+NØ 
+60 
+20 102 
+68 
+41 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+231 
+4.5 
+4384 
+3.9 
+9.2 
+Ø 
+75 
+13 111 102 
+77 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+303 
+5.9 
+6770 
+6.0 
+8.9 
+Ø 
+90 
+18 115 139 112 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+386 
+7.5 
+9245 
+8.2 
+11.4 
+Ø 
+105 
+14 
+93 
+109 151 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+372 
+7.2 
+10325 
+9.2 
+12.2 
+SØ 
+120 
+11 102 107 115 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+345 
+6.7 
+9220 
+8.2 
+12.1 
+SØ 
+135 
+14 
+82 
+88 
+104 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+295 
+5.7 
+7602 
+6.8 
+12.6 
+SØ 
+150 
+15 
+91 
+53 
+37 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+198 
+3.8 
+3934 
+3.5 
+10.3 
+S 
+165 
+19 
+71 
+45 
+23 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+158 
+3.1 
+2804 
+2.5 
+9.8 
+S 
+180 
+11 
+62 
+31 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+118 
+2.3 
+2026 
+1.8 
+7.6 
+S 
+195 
+13 
+59 
+28 
+24 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+124 
+2.4 
+2290 
+2.0 
+8.0 
+SV 
+210 
+9 
+49 
+34 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+107 
+2.1 
+1982 
+1.8 
+8.4 
+SV 
+225 
+14 
+72 
+43 
+23 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+152 
+2.9 
+2854 
+2.5 
+9.7 
+SV 
+240 
+9 
+85 
+58 
+39 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+194 
+3.8 
+4123 
+3.7 
+11.3 
+V 
+255 
+14 104 
+87 
+79 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+292 
+5.6 
+7186 
+6.4 
+13.0 
+V 
+270 
+10 
+95 
+132 120 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+365 
+7.1 
+9881 
+8.8 
+13.3 
+V 
+285 
+15 104 113 102 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+343 
+6.6 
+8643 
+7.7 
+13.5 
+NV 
+300 
+13 
+89 
+100 
+43 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+245 
+4.7 
+5030 
+4.5 
+8.4 
+NV 
+315 
+12 
+88 
+52 
+11 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+163 
+3.2 
+2637 
+2.3 
+6.5 
+NV 
+330 
+16 
+86 
+36 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+140 
+2.7 
+2007 
+1.8 
+5.9 
+N 
+345 
+17 
+76 
+29 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+122 
+2.4 
+1670 
+1.5 
+5.0 
+Antall obs 
+325 2040 1595 1156 
+54 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+5170 
+100 0 
+0 
+0 
+% 
+6.3 39.5 30.9 22.4 
+1.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 14 of 58 
+Strømhastighet og retning (bunndyp) 
+ 
+Retning 
+(grader) 
+Strømhastighetsgruppe 
+Total flow 
+Maks 
+strøm 
+0-1 
+1-3 
+3-5 5-
+10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 Antall 
+obs 
+% 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+51 
+74 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+128 
+2.5 
+1025 
+1.8 
+3.5 
+N 
+15 
+63 
+80 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+147 
+2.8 
+1092 
+1.9 
+4.5 
+NØ 
+30 
+45 
+99 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+153 
+3.0 
+1389 
+2.4 
+4.8 
+NØ 
+45 
+49 
+145 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+204 
+3.9 
+1948 
+3.4 
+3.8 
+NØ 
+60 
+62 
+163 
+44 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+272 
+5.3 
+3218 
+5.5 
+5.5 
+Ø 
+75 
+52 
+194 
+52 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+301 
+5.8 
+3688 
+6.4 
+5.2 
+Ø 
+90 
+51 
+217 
+75 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+350 
+6.8 
+4680 
+8.1 
+6.9 
+Ø 
+105 
+45 
+207 
+68 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+328 
+6.3 
+4315 
+7.4 
+5.8 
+SØ 
+120 
+47 
+159 
+53 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+265 
+5.1 
+3351 
+5.8 
+6.7 
+SØ 
+135 
+56 
+132 
+23 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+213 
+4.1 
+2273 
+3.9 
+6.8 
+SØ 
+150 
+31 
+112 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+155 
+3.0 
+1524 
+2.6 
+4.3 
+S 
+165 
+58 
+98 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+166 
+3.2 
+1466 
+2.5 
+4.5 
+S 
+180 
+44 
+76 
+5 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+126 
+2.4 
+1107 
+1.9 
+5.3 
+S 
+195 
+60 
+103 
+6 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+170 
+3.3 
+1475 
+2.5 
+5.3 
+SV 
+210 
+46 
+92 
+17 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+157 
+3.0 
+1624 
+2.8 
+5.8 
+SV 
+225 
+41 
+142 
+26 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+213 
+4.1 
+2456 
+4.2 
+6.0 
+SV 
+240 
+49 
+162 
+44 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+261 
+5.0 
+3271 
+5.6 
+6.6 
+V 
+255 
+46 
+196 
+84 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+339 
+6.6 
+4748 
+8.2 
+5.9 
+V 
+270 
+45 
+217 
+74 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+346 
+6.7 
+4682 
+8.1 
+8.4 
+V 
+285 
+50 
+169 
+42 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+264 
+5.1 
+3199 
+5.5 
+6.7 
+NV 
+300 
+54 
+114 
+29 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+200 
+3.9 
+2187 
+3.8 
+6.2 
+NV 
+315 
+52 
+89 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+146 
+2.8 
+1224 
+2.1 
+3.9 
+NV 
+330 
+46 
+73 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+124 
+2.4 
+1019 
+1.8 
+3.1 
+N 
+345 
+60 
+78 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+142 
+2.7 
+1090 
+1.9 
+3.7 
+Antall obs 
+1203 3191 704 72 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+5170 
+100 0 
+0 
+0 
+% 
+23.3 61.7 13.6 1.4 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 15 of 58 
+4.4 Strømmens hastighetsfordeling. 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning, med antall registreringer på stående akse og 
+hastighetsgruppe på liggende akse.   
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 16 of 58 
+4.5 Strømmens retningsfordeling. 
+ 
+Strømmens retning fordelt over 15º-sektorer, med antall registreringer på stående akse og 15º-
+sektorer på liggende akse.   
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 17 of 58 
+4.6 Tidsdiagram - strømhastighet. 
+ 
+Strømhastighet på stående akse og tid på liggende akse.   
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 18 of 58 
+4.7 Tidsdiagram - strømretning. 
+ 
+Strømretning på stående akse og tid på liggende akse.   
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 19 of 58 
+4.8 Tidsdiagram - temperatur. 
+ 
+Temperatur på stående akse og tid på liggende akse. 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 20 of 58 
+4.9 Progressivt vektordiagram. 
+ 
+Diagrammet viser hvor langt og hvordan en tenkt merket vannpartikkel som befinner seg i 
+strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperioden.  Dette gir en 
+indikasjon på vannutskiftning i måleperioden.   
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 21 of 58 
+4.10  Fordelingsdiagram – maksimal strømhastighet. 
+ 
+Kurvene viser maksimal strømhastighet for hver 15º-sektor i løpet av måleperioden. 
+ 
+Maksimal strømhastighet (5m dyp). 
+Maksimal strømhastighet (15m dyp). 
+Maksimal strømhastighet (spredningsdyp). 
+Maksimal strømhastighet (bunndyp). 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 22 of 58 
+4.11  Fordelingsdiagram – middelhastighet. 
+ 
+Kurvene viser middelhastigheter for hver 15º-sektor i løpet av måleperioden. 
+ 
+Middelhastighet (5m dyp). 
+Middelhastighet (15m dyp). 
+Middelhastighet (spredningsdyp). 
+Middelhastighet (bunndyp). 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 23 of 58 
+4.12  Fordelingsdiagram – relativ vannfluks. 
+ 
+Kurvene viser relativ strømhastighet/vannfluks i hver sektor. Relativ vannfluks angir mengden vann 
+som strømmer gjennom en sektor delt på totalt volum.  Total vannforflytning er totalt volum vann i 
+alle sektorer. 
+ 
+Relativ vannfluks (5m dyp). 
+Relativ vannfluks (15m dyp). 
+Relativ vannfluks (spredningsdyp). 
+Relativ vannfluks (bunndyp). 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 24 of 58 
+4.13  Fordelingsdiagram – antall observasjoner. 
+ 
+Kurvene viser hvor mange ganger strømmåleren har pekt på hver enkelt sektor i løpet av 
+måleperioden. 
+ 
+Antall målinger (5m dyp). 
+Antall målinger (15m dyp). 
+Antall målinger (spredningsdyp). 
+Antall målinger (bunndyp). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 25 of 58 
+4.14 Maksimal strømhastighet for 8 retningssektorer. 
+Tabell 4.14.1. Maksimal strømhastighet (cm/s) for retningssektorene. 
+Dybde 
+Retning 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°– 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° - 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+23.4 
+13.5 
+43.4 
+51.4 
+31.9 
+29.9 
+58.1 
+57.9 
+15m 
+15.6 
+11.2 
+18.2 
+24.4 
+21.2 
+14.0 
+23.2 
+21.2 
+spredning 
+6.1 
+9.2 
+12.2 
+12.6 
+9.8 
+11.3 
+13.5 
+8.4 
+bunn 
+4.5 
+5.5 
+6.9 
+6.8 
+5.3 
+6.6 
+8.4 
+6.2 
+ 
+ 
+4.15  Gjennomsnittlig strømhastighet for 8 retningssektorer. 
+Tabell 4.15.1. Gjennomsnittlig strømhastighet (cm/s) for retningssektorene. 
+Dybde 
+Retning 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°– 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° - 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+7.2 
+5.0 
+8.2 
+13.4 
+10.2 
+8.8 
+18.0 
+13.7 
+15m 
+3.6 
+4.2 
+6.5 
+7.3 
+5.1 
+4.7 
+8.3 
+6.1 
+spredning 
+2.3 
+2.9 
+4.1 
+4.1 
+3.0 
+3.3 
+4.3 
+2.9 
+bunn 
+1.3 
+1.7 
+2.2 
+1.9 
+1.5 
+1.9 
+2.2 
+1.6 
+ 
+ 
+4.16  Antall målinger i 8 retningssektorer. 
+Tabell 4.16.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°– 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° - 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+250 
+147 
+251 
+649 
+507 
+391 
+2019 
+956 
+15m 
+282 
+354 
+741 
+995 
+434 
+408 
+1298 
+658 
+spredning 
+354 
+516 
+1061 
+838 
+400 
+453 
+1000 
+548 
+bunn 
+417 
+629 
+979 
+633 
+462 
+631 
+949 
+470 
+ 
+ 
+4.17  Relativ vannutskiftning for 8 retningssektorer. 
+Tabell 4.17.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°– 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° - 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+2.5 
+1.0 
+2.9 
+12.2 
+7.3 
+4.8 
+50.9 
+18.4 
+15m 
+3.0 
+4.4 
+14.3 
+21.7 
+6.6 
+5.7 
+32.3 
+11.9 
+spredning 
+4.4 
+8.0 
+23.4 
+18.4 
+6.3 
+8.0 
+22.8 
+8.6 
+bunn 
+5.5 
+11.3 
+21.8 
+12.3 
+7.0 
+12.7 
+21.8 
+7.6 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 26 of 58 
+4.18  10-års og 50-års strømhastighet per 8 retningssektorer på 5m 
+ 
+Verdier for returperiode på 10 år (x1.65) og for returperiode på 50 år (x1.85). Retningene som er 
+oppgitt i raden under maksstrømmen er retningen til den bestemte maksmålingen. 
+ 
+Tabell 4.18.1. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 5m. 
+ 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Strøm 
+337.5°– 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° - 
+292.5° 
+292.5° – 
+337.5° 
+Maks 
+(cm/s) 
+23.4 
+13.5 
+43.4 
+51.4 
+31.9 
+29.9 
+58.1 
+57.9 
+Retning 
+(°) 
+355 
+51 
+105 
+155 
+160 
+240 
+287 
+296 
+10-år 
+(cm/s) 
+39 
+22 
+72 
+85 
+53 
+49 
+96 
+96 
+50-år 
+(cm/s) 
+43 
+25 
+80 
+95 
+59 
+55 
+108 
+107 
+ 
+ 
+4.19  10-års og 50-års strømhastighet per 8 retningssektorer på 15m 
+ 
+Tabell 4.19.1. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 15m. 
+ 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Strøm 
+337.5°– 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° - 
+292.5° 
+292.5° – 
+337.5° 
+Maks 
+(cm/s) 
+15.6 
+11.2 
+18.2 
+24.4 
+21.2 
+14.0 
+23.2 
+21.2 
+Retning 
+(°) 
+14 
+34 
+109 
+120 
+195 
+247 
+285 
+295 
+10-år 
+(cm/s) 
+26 
+18 
+30 
+40 
+35 
+23 
+38 
+35 
+50-år 
+(cm/s) 
+29 
+21 
+34 
+45 
+39 
+26 
+43 
+39 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 27 of 58 
+4.20  Persentil fordeling av strømhastighet per dyp. 
+ 
+Kolonne til venstre indikerer prosent av data (persentil) som er lik eller lavere enn oppgitt hastighet 
+(cm/s). 
+ 
+Tabell 4.20.1. Persentil fordeling av strømhastighet for hvert dyp. 
+ 
+Dyp 
+Persentil 
+5m 
+15m 
+Spred 
+Bunn 
+ 
+Strømhastighet (cm/s) 
+1 
+1.3 
+0.7 
+0.4 
+0.2 
+10 
+4.1 
+2.0 
+1.2 
+0.6 
+20 
+6.2 
+3.0 
+1.8 
+0.9 
+30 
+7.9 
+3.9 
+2.2 
+1.2 
+40 
+9.6 
+4.8 
+2.7 
+1.4 
+50 
+11.6 
+5.7 
+3.2 
+1.7 
+60 
+14.0 
+6.7 
+3.8 
+2.0 
+70 
+16.8 
+8.0 
+4.5 
+2.3 
+80 
+20.6 
+9.5 
+5.3 
+2.7 
+90 
+26.8 
+12.1 
+6.5 
+3.4 
+95 
+32.0 
+14.6 
+7.6 
+4.0 
+99 
+42.8 
+18.1 
+10.1 
+5.2 
+ 
+ 
+4.21  Prosent fordeling av strømhastighet per dyp. 
+ 
+Verdiene i tabellen indikerer prosent av data som er lik eller høyere enn strømhastighet (cm/s) oppgitt 
+i kolonne til venstre. 
+ 
+Tabell 4.21.1. Prosent av data per dyp som er lik eller høyere enn oppgitt hastighet. 
+ 
+Dyp 
+ 
+5m 
+15m 
+Spred 
+Bunn 
+Strømhastighet 
+(cm/s) 
+Prosent (%) 
+1 
+99.3 
+97.5 
+93.7 
+76.7 
+3 
+94.3 
+80.2 
+54.3 
+15.0 
+10 
+57.7 
+17.6 
+1.0 
+0.0 
+20 
+21.6 
+0.4 
+0.0 
+0.0 
+30 
+6.4 
+0.0 
+0.0 
+0.0 
+50 
+0.3 
+0.0 
+0.0 
+0.0 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 28 of 58 
+4.22 Tidevannsanalyse 
+ 
+En tidevannsanalyse av strømdata er gjennomført for å vurdere hvor stor andel av det målte signalet 
+som er forårsaket av tidevannet. Tidevannsanalysen er utført ved bruk av analyseverktøyet T_Tide 
+(Pawlowic, et al., 2002).  
+ 
+Tidevannsanalysen inkluderer alle separerbare komponenter og resultatene er vist i Tabell 4.22.1. 
+Amplitudene for de ulike tidevannskomponentene med tilhørende frekvens er vist i Figur 4.22.3.  
+  
+Det er også foretatt en analyse med fem separerbare komponenter, M2, S2, N2, O1 og K1, som benyttes 
+i forbindelse med tidevannstabeller av havnivå. Resultatet fra analysen med disse er oppgitt i Tabell 
+4.22.2.   
+ 
+Målt strøm er splittet i øst-vest (UEW) og nord-sør (VNS) komponenter for å vurdere spredning av 
+strømdata på de forskjellige dypene. Resultatene er vist i Figur 4.22.1. Krysset markerer 
+gjennomsnittsverdien for hastighetskomponentene og reflekterer den effektive transporthastigheten 
+med tilhørende retning som er oppgitt i Tabell 4.1.1.   
+ 
+Strømdata har en variasjon som vist med strømellipsen på figuren (Emery & Thomson, 2001).  
+Strømellipsens store halvakse (hovedakse) markerer retningen der variasjonen er størst.  
+ 
+Strømellipsen på 5 og 15m dyp er relativt smal, som indikerer at strømmen domineres av to motsatt 
+rettede hovedstrømretninger. På sprednings- og bunndyp er strømellipsen relativt rund, som 
+indikerer at strømmen ikke har noen dominerende retning på disse dypene. 
+ 
+Figur 4.22.2 viser tidevannsellipsen (farget linje) fra analysen med alle separerbare komponenter 
+sammenlignet med den totale strømellipsen (svart linje).   
+Tidevannsellipse er stor i forhold til strømellipsen på 5 og 15m dyp, og det indikerer at strømmen er 
+tidevannsdominert på disse dypene. På sprednings- og bunndyp er tidevannsellipsen vesentlig 
+mindre enn strømellipsen, og det indikerer at tidevannssignalet er forholdsvis svakt.   
+Tidevannsellipsen er smal på alle dyp og det indikerer at tidevannet har to motsatte 
+hovedstrømretninger. 
+ 
+Måleperioden inkluderte 2 springflo («storsjøan») – nippflo («småsjøan») tidevannssykluser.  
+«Storsjøan» var på 29. mai, og 13. og 28. juni 2018. 
+ 
+Tabell 4.22.1. Tidevannsanalyse av målte data. 
+Strømhastighet forårsaket av tidevann 
+5m 
+15m 
+spredning 
+bunn 
+Prosent (%) 
+47.9 
+42.0 
+25.1 
+14.6 
+ 
+Tabell 4.22.2. Bidrag til strømmen fra M2, S2, N2, O1 og K1. 
+Bidrag fra tidevannskomponentene (%) 
+5m 
+15m 
+spredning 
+bunn 
+Prosent M2, S2, N2, O1 og K1 (%) 
+36.5 
+35.6 
+17.3 
+6.0 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 29 of 58 
+ 
+Figur 4.22.1. UEW - VNS punktdiagram med tilhørende strømellipse. Midtpunktet for strømellipsen 
+er markert med kryss som også markerer strømmens effektive transporthastighet. Vinklene indikerer 
+den store halvaksens orientering i forhold til nord/sør. Øst-vest og nord-sør aksekors er vist med 
+stiplede linjer. 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 30 of 58 
+ 
+Figur 4.22.2. UEW - VNS tidevannsellipse (farget linje) vist sammen med strømellipsen (svart linje). 
+Midtpunktet for strømellipsene er markert med kryss som også markerer den effektive 
+transporthastigheten. Vinklene indikerer de store halvaksenes orientering i forhold til nord/sør. Øst-
+vest og nord-sør aksekors er vist med stiplede linjer. 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 31 of 58 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 32 of 58 
+ 
+ 
+ 
+Figur 4.22.3. Amplitude og frekvens for komponenter fra tidevannsanalysen. De blå linjene er 
+komponenter med signifikante bidrag og de røde linjene er ikke signifikante og dermed ikke 
+inkludert i tidevannssignalet.  
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 33 of 58 
+4.23  Todagersperiode. 
+ 
+Strømhastighet, strømretning, tidevann og vind er oppgitt i figur under for en todagersperiode for 
+maksimalstrømmen ved 5m dyp. 
+ 
+ 
+ 
+Figur 4.23.1. Strømhastighet, strømretning, tidevann og vind for maksimalstrømmen ved 5m dyp.  
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 34 of 58 
+4.24  Vind under måleperioden 
+ 
+Ut fra omkringliggende topografi er det vurdert at vind fra NV, NØ og Ø kan ha betydning for 
+strømforholdene på lokaliteten.   
+ 
+Vinddata er tatt fra værstasjon Bodø VI, som ligger 40.3km vest for strømmålingsposisjonen (Figur 
+4.24.3).  Her blåste vind mest og sterkest fra SV – V under måleperioden (Tabell 4.24.1). 
+ 
+Hvis de lokale vindforholdene på strømmålingsposisjonen var like de på Bodø VI under 
+måleperioden, er det vurdert at vind fra Ø kan ha påvirket strøm mot V. 
+ 
+Tabell 4.24.1. Maksimal vindhastighet og % tid vinden blåste fra de ulike retningene under 
+måleperioden. 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+6.9 
+6.6 
+12.1 
+9.4 
+12.1 
+15.9 
+13.2 
+11.6 
+% tid fra en bestemt retning 
+4.6 
+1.6 
+12.5 
+3.7 
+3.0 
+32.0 
+27.3 
+13.7 
+ 
+ 
+Figur 4.24.1. Rosediagram for strøm (mot retning) på 5m (venstre) og vind (fra retning) på Bodø VI 
+(høyre) under måleperioden. 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 35 of 58 
+Strøm- og vindhastighet og retning er oppgitt i Figur 4.24.2 for å vurdere vindpåvirkning på 
+strømmen, og for å vurdere om noen strømtopper skyldes vind.   
+ 
+ 
+Figur 4.24.2. Strømhastighet på 5m og vindhastighet samt strøm- og vindretning (Bodø VI) under 
+måleperioden. Grønn sirkel er storsjøan. 
+ 
+Strømtopper over 34cm/s ble sammenlignet med vinddata fra Bodø VI fra samme periode.  Figur 
+4.24.2 indikerer hvilke tidspunkter vind på Bodø VI og målt strøm hadde omtrent sammenfallende 
+retning (grønne piler).  
+ 
+Vind kan ha påvirket noen av strømtoppene. Værstasjonen har en mer åpen beliggenhet enn 
+strømmålestasjonen, og dermed kan det forventes noe andre vindretninger lokalt ved måleposisjonen 
+enn på Bodø VI, det er derfor mulig at vind kan ha påvirket flere av strømtoppene enn det som kom 
+fram i denne analysen. 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 36 of 58 
+ 
+Figur 4.24.3. Posisjonen til Bodø VI værstasjon (markert med 
+) i forhold til strømmålernes 
+posisjon (markert med 
+).  Kart er hentet fra Fiskeridirektoratets kartverktøy. 
+   
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodøkommune 
+ÅkerblåAS
+Intern dok. Id. B.5.1.10/4.00 
+Side 37of 58
+4.25 CTD-måling
+CTD-måling ved utsett24.05.2018
+CTD-måling ble foretatt i sammenheng 
+med utsett av strømmåler. En CTD-profil ble tatt på samme
+posisjon som riggen.
+Målinger for hydrografi ble gjennomført med en SD 204 CTD-sonde med oksygensensor. 
+Sonden
+med et påmontert lodd ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden
+gjør en registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen for senkning og
+en for heving. Profilen ved senkning av sonden ble benyttet. Uthenting av data ble gjort med
+programvaren Minisoft SD200w versjon 3.18.7. 172og bearbeidet i Excel.
+CTD måling ved utsett24.05.2018
+Figur 4.25.1. Vertikalprofiler av saltholdighet, temperaturog tetthet. Dypet er indikert langs y-
+aksen. Øverst: hele vannsøylen. Nederst: fra overflaten til 30m dyp.
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 38 of 58 
+5. 
+Diskusjon strøm 
+ 
+Alle omsøkte akvakulturlokaliteter skal kunne ivareta artens krav til et godt levemiljø (Mattilsynet, 
+2014).  Det må være tilstrekkelig tilførsel av vann av egnet kvalitet.  Oksygen er helt avgjørende for 
+god fiskevelferd.  Tilførsel av oksygen til fisken er vurdert etter strømforhold, vannutskiftning og 
+temperatur.   
+ 
+5.1 Temperatur 
+ 
+Lokaliteter med hyppige og store temperaturvariasjoner kan være uheldig ut fra et velferds- og 
+helseperspektiv, men denne ulempen kan reduseres ved at fisken blir gitt rom for å oppholde seg i 
+det mest gunstige miljøet.  
+ 
+Temperatur under måleperioden på 5m var 7.0 – 10.7°C, på 15m var temperaturen 6.4 – 8.6°C, på 
+spredningsdyp var den 5.2 – 6.8°C og på bunnen lå temperaturen mellom 5.1 – 5.6°C. 
+Temperaturmålingene viser at vannsøylen var lagdelt. Dette er normalt på denne årstiden, når solen 
+varmer overflatevannet.  
+ 
+5.2 Strømhastighet 
+ 
+5.2.1 Maksimal, signifikant maksimal og høye strømmålinger (> 30 cm/s) 
+ 
+Høye strømhastigheter (varighet og hyppighet) kan stresse fisken, hvor fiskens svømmekapasitet vil 
+variere med art, størrelse, temperatur og lysforhold (Mattilsynet, 2014).  Fisken er nødt til å bruke 
+mer energi på å holde seg i posisjon ved økt strøm (Nygaard og Golmen, 1997).  Økt strøm fører til 
+økt oksygenforbruk, men gjennomstrømning av vann mer enn kompenserer for økt energiforbruk 
+(Nygaard og Golmen, 1997). 
+Vannstrøm reduseres i hastighet når den treffer en merd.  Forventet reduksjon av vannstrøm på grunn 
+av not er mer enn 20% (Mattilsynet, 2014).  Groe på merdene og anleggsorientering vil også påvirke 
+strømhastighet i en merd. 
+ 
+Maksimal strømhastighet var 58.1 cm/s mot V på 5m dyp, 24.4 cm/s mot SØ på 15m dyp, 13.5 cm/s 
+mot V på spredningsdyp og 8.4 cm/s mot V på bunnen. Maksimal strømhastighet er vurdert som 
+svært sterk på 5m, middels sterk på 15m, svak på spredningsdyp og svært svak på bunnen. 
+Signifikant maksimal strømhastighet var 24.4 cm/s på 5m dyp og 11.1 cm/s på 15m dyp. Signifikant 
+maksimal strømhastighet er vurdert som sterk på 5m og middels sterk på 15m.  
+ 
+Det var tilfeller der strøm var >30cm/s på 5m, men ingen tilfeller på 15m.  
+ 
+ 
+5.2.2 Enkeltstående strømtopper 
+ 
+Det var ingen enkeltstående strømtopper som ble vurdert som feilverdier.  
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 39 of 58 
+5.2.3 Gjennomsnittlig strømhastighet 
+ 
+Fisketetthet og merdens lengde er avgjørende for hvor stor gjennomsnittsstrømmen bør være 
+(Mattilsynet, 2014, Nygaard og Golmen, 1997).  Det er dessuten avhengig av total fiskebiomasse, 
+fiskens størrelse og kondisjon, årstid, anleggsorientering, fôringsintensitet, sjøtemperatur, sjøens 
+oksygeninnhold, algekonsentrasjon og dyp på lokaliteten (Nygaard og Golmen, 1997). 
+   
+Aure (1983) beregnet at et anlegg, med fiskekonsentrasjon på 8-10kg/m3, trenger en 
+gjennomsnittsstrøm på minst 2 cm/s for å opprettholde tilfredsstillende oksygenforhold.   
+For å holde oksygenkonsentrasjon inne i merden over 7 mg/l, og for å kompensere for 
+oksygenforbruket, trengs en gjennomsnittstrøm på 2.9 cm/s (Nygaard og Golmen, 1997).   
+Sætre (1975) skrev at groe på merdene kan redusere strømmen inne i en merd med 70%, og for å 
+kompensere for dette bør gjennomsnittsstrømmen være ca. 10 cm/s.   
+Aarnes et al. (1990) fant at dersom merdene var mye begrodd kan strømmen i merd nummer to 
+nedstrøms bli redusert til <40% av strømmen utenfor og i merd nummer seks var det praktisk talt 
+ingen strøm.  
+ 
+Siden vann vil strømme rundt i tillegg til gjennom eller under anlegget er anleggsorientering viktig.  
+Et anlegg orientert slik at det ligger med langside mot den dominerende strømretningen vil ha bedre 
+vannutskiftning i merdene enn en orientering hvor mange merder ligger etter hverandre langs 
+hovedstrømmen.   
+ 
+Gjennomsnittlig strømhastighet er vurdert som svært sterk på 5m, sterk på 15m, svak på 
+spredningsdyp og som svært svak på bunndypet. Gjennomsnittlig strømhastighet var < 2 cm/s på 
+bunn. 
+ 
+5.2.4 Nullmålinger (< 1cm/s) og varighet 
+ 
+Nullmålinger vil gi lave oksygenverdier dersom fisketettheten er høy og merdlengden er lang 
+(Mattilsynet, 2014).  Andel nullmålinger bør være lav (<10%) og varighet må ikke være lang (12 – 
+24 timer) (Mattilsynet, 2014).   
+ 
+Prosent nullmålinger (<1cm/s) er mindre enn 10% på 5m, 15m og spredning. På bunnen er 
+nullmålinger på 23.3%. Lengst varighet for strøm < 1cm/s er 20 min på 5m, 30 min på 15m, 50 min 
+på spredning og 90 min på bunnen. 
+ 
+5.2.5 Vannutskiftning og Neumann parameter 
+ 
+Vannutskiftningsstrømmen er spesielt viktig for fiskens levemiljø (Mattilsynet, 2014).   Det er viktig 
+med god vannutskiftning i merden, slik at det til enhver tid er nok oksygen til fisken (Mattilsynet, 
+2014).  Ved en ensrettet strøm vil lokaliteten hele tiden få friskt vann.  Det kan også være 
+sesongvariasjoner i vannutskiftning (Mattilsynet, 2014).   
+ 
+Strømretninger og vannutskiftning stemmer med områdets bunntopografi.  Vannutskiftningen er 
+vurdert som god på 5m og 15m fordi vannet beveger seg bort fra startpunktet og ikke bare flytter seg 
+fram og tilbake.  På sprednings- og bunndyp er vannutskiftningen vurdert som mindre god enn på 
+5m og 15m fordi vannet ikke beveger seg langt fra startpunktet. 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 40 of 58 
+Neumann parameteren er vurdert som svært stabil på 5m, middels stabil på 15m, og lite stabil for 
+sprednings- og bunnstrøm.  
+ 
+ 
+5.2.6 Sprednings- og bunnstrøm 
+ 
+Sprednings- og bunnstrøm er viktig for lokalitetens totale bæreevne.  Opphopning av sediment under 
+anlegget kan i noen tilfeller påvirke vannkvaliteten i merden og dermed fiskens levevilkår 
+(Mattilsynet, 2014).  På lokaliteter med kort avstand mellom havbunn og notbunn er det viktig at 
+både sprednings- og bunnstrøm viser god vannutskiftning slik at sedimenter ikke hoper seg opp og 
+påvirker vannkvaliteten i merden negativt (Mattilsynet, 2014).  Mattilsynet (2014) anbefaler en 
+minsteavstand mellom notbunn og sjøbunn på 20m. Mattilsynet (2014) presiserer at dette er en 
+anbefaling og skal ikke benyttes som en absolutt regel.  Grunne lokaliteter med konstant vannstrøm 
+kan egne seg til akvakultur.   
+ 
+Bunntopografi og strømningsforhold har betydning for utskifting og nedbryting av bunnsedimenter 
+fra anlegget (Mattilsynet, 2014). En ujevn bunn eller en flat bunn med groper gir større risiko for 
+sedimentopphopning enn en jevnt skrånende bunn.    
+ 
+Dyp ved målepunktet var 267m.  Da er det ca. 237 – 247m mellom notbunn og havbunn.  Storvika i 
+Skjerstadfjorden ligger over en skrånende bunn. 
+ 
+Det var flere perioder der strømhastigheten var høyere enn 10 cm/s på 5m og 15m, få på 
+spredningsdyp og ingen tilfeller på bunndyp.   
+ 
+ 
+5.3 CTD 
+ 
+Resultater fra CTD-måling ved utsett 
+ 
+Ved utsett 24.05.2018 var temperaturen 8.4oC på overflaten. Temperaturen økte til omtrent 2m dyp, 
+før det er en rask reduksjon ned til 8m. Temperaturen synker relativt raskt ned til omtrent 80m dyp, 
+etter det er den en svak reduksjon ned mot bunnen.   
+ 
+Saltholdigheten ved utsett økte fra 9.4 - 34.9 fra overflaten til 270m dyp. Det var rask økning i 
+saltholdigheten ned til omtrent 8m dyp. Etter det økte saltholdigheten ned mot bunnen. 
+Saltholdigheten ved overflaten var lavere enn forventet. Det var nedbør dagene før utsett, og det er 
+mulig at de lave saltholdighetsverdiene i overflaten skyldes en kombinasjon mellom dette og 
+ferskvannsavrenning i området.   
+ 
+Tetthetsdata gjenspeiler saltholdigheten.  
+ 
+CTD-profilen viser at vannsøylen var lagdelt ved utsett.  
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 41 of 58 
+6. 
+Vedlegg - opplysning strømmåling 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.1. 
+ 
+Målingene er tatt for å måle strøm: 
+ 
+o hvor notposer befinner seg (5m og 15m) og  
+o på spredningsdyp og bunn som er viktig for spredning av partikler fra anlegget.   
+ 
+Målerne registrerer strømhastighet, strømretning og temperatur.   
+ 
+Målingene ble gjort i samsvar med NS 9415:2009, der kravet er at målingene skal gjennomføres 
+sammenhengende i minst en måned.  
+ 
+Riggoppsett og -beskrivelse er oppgitt i vedlegg 7. 
+ 
+Ut fra topografi og bunntopografi er plasseringen vurdert god for å dokumentere strømforholdene i 
+anlegget. Målerne er plassert i posisjonen som sannsynligvis oppgir høyeste strømhastighet på 
+lokalitet. 
+ 
+Tabell 6.1. Opplysninger per instrument. 
+Måledyp 
+5m 
+15m 
+Spredning  
+Bunn  
+Leverandør 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Instrumenttype, 
+modell   
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+Måler ID-nr. 
+5118 
+31 
+5069 
+5073 
+Kalibrering 
+Utført hos Aanderaa 
+Data Instruments ved 
+levering av 
+instrumentet. 
+Utført hos Aanderaa 
+Data Instruments ved 
+levering av 
+instrumentet. 
+Utført hos Aanderaa 
+Data Instruments ved 
+levering av 
+instrumentet. 
+Utført hos Aanderaa 
+Data Instruments ved 
+levering av 
+instrumentet. 
+Strømhastighet 
+nøyaktighet 
+±0.15 cm/sek 
+±0.15 cm/sek 
+±0.15 cm/sek 
+±0.15 cm/sek 
+Strømhastighet 
+rekkevidde / 
+terskelverdi 
+0 til 300cm/s (vektor 
+gjennomsnitt) 
+0 til 300cm/s (vektor 
+gjennomsnitt) 
+0 til 300cm/s (vektor 
+gjennomsnitt) 
+0 til 300cm/s (vektor 
+gjennomsnitt) 
+Strømretning 
+nøyaktighet 
+±5˚ for 0-15˚ tilt; 
+±5˚ for 0-15˚ tilt; 
+±5˚ for 0-15˚ tilt; 
+±5˚ for 0-15˚ tilt; 
+Kompass justert for 
+misvisning av 
+Åkerblå AS 
+±7.5˚ for 15-35˚ tilt 
+±7.5˚ for 15-35˚ tilt 
+±7.5˚ for 15-35˚ tilt 
+±7.5˚ for 15-35˚ tilt 
+Temperatur 
+nøyaktighet og 
+rekkevidde 
+Nei 
+Nei 
+Nei 
+Nei 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 42 of 58 
+7. 
+Vedlegg - riggoppsett, måleprinsipp og valg av målested 
+ 
+7.1 Riggoppsett 
+ 
+Riggoppsett for målt strøm er skissert i Figur 7.1.1.  Strømriggen var festet til en merdring og 
+forankret i bunn med 20kg lodd. 14mm tau ble benyttet i riggen.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 7.1.1. Prinsippskisse av riggoppsett.
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 43 of 58 
+ 
+7.2 Måleprinsipp  
+ 
+Aanderaa punktmåler  
+Instrumentene bruker dopplereffekten for å måle strøm. Det sendes ut en kort lydpuls (akustisk puls) 
+av en konstant, bestemt frekvens og forandring måles i både styrke og frekvens av innkommende 
+refleksjoner. Forskjellen mellom pulsen som er sendt ut og innkommende refleksjon er proporsjonal 
+med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet (vanligvis zooplankton 
+eller sediment) og bobler. Det er antatt at disse partikler flyter i vannet og derfor beveger seg med 
+samme hastighet som vannet. Punktmålerne er satt opp for å måle strøm med en registrert måling 
+basert på 150 ping i et 10-minutts intervall. 
+ 
+Tabell 7.2.1. Måleprinsipp for Aanderaa punktmålerne. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gul og grønn markering indikerer 150 ping i løpet av 10 min.  En måling er gjennomsnitt over en 10-
+minuttersperiode. 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 44 of 58 
+Valg av målested 
+ 
+Plassering av riggen for strømmålinger er avgjørende for måling av strøm.  Et av kravene i NS9415 
+er at målerne skal plasseres i den posisjonen som sannsynligvis oppgir høyeste strømhastighet på 
+lokaliteten.  Plassering av riggen i forhold til det dypet strømmen skal måles på har også stor 
+betydning for målingene.   
+ 
+• Anleggets geografiske plassering og topografiske utforming av nærområdet må vurderes.  
+Strømmen påvirkes av bukter, viker og elveløp, møtepunkter for fjordsystemer, osv. Dette 
+kan føre til at strømmen skifter retning e.l.  
+• Anlegget bør plasseres der vannet får kortest mulig oppholdstid i anlegget før nytt vann 
+kommer inn, og slik at vanntransporten på tvers av anlegget maksimeres.  Dette er spesielt 
+viktig i den varme årstiden med høy temperatur i vannet, mye fisk og intensiv fôring og drift 
+av anlegget.    
+• Bunntopografien under anlegget og i området bør også vurderes, da ujevnheter kan påvirke 
+strømmens styrke og dreining.  
+• Anleggets driftsstatus må også vurderes der selve anlegget kan forstyrre målinger på 
+overflatestrømmen.  Utestående nøter og fiskebiomasse kan frembringe en skyggeeffekt og 
+muligens redusere strømmen i noen retninger på målinger på både 5m og 15m.    
+ 
+For strømmåling på 5m og 15m er plasseringen på lokaliteten som sannsynligvis oppgir høyeste 
+strømhastighet, oftest rett utenfor anlegget og på enden lengst unna land.  Målinger som foretas her 
+gir grunnlag for å estimere den sterkeste strømmen anlegget kan bli utsatt for med tanke på 
+dimensjonering, og for å vurdere om det er tilstrekkelig oksygentilførsel til fisk i anlegget under drift.   
+ 
+For å måle strøm på sprednings- og bunndyp er foretrukket plassering i anleggets senter, fordi her 
+kan en måle den mest representative strømstyrken i anlegget i forhold til spredning av organisk 
+materiale.             
+ 
+Valg av måledyp 
+ 
+Overflatestrømmen måles på 5m.  Det tas ikke på 1m på grunn av støy fra bølger på 1m. 
+ 
+Vannutskiftningsstrøm måles på 15m. 
+ 
+Sprednings- og bunnstrøm 
+• Spredningsstrøm måles midt mellom merdbunn og sjøbunn, men ikke dypere enn 50m fra 
+merdbunn. 
+• Bunnstrøm måles ca. 2 meter over bunn, men ikke dypere enn 100 meter fra merdbunn.  
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hver 14.77d, som er tidevannssyklus 
+for spring / nipp, er anbefalt minimum for måleperioden 30 dager.  
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 45 of 58 
+8. 
+Vedlegg - Databearbeiding og kvalitetssikring  
+ 
+Før utsett ble fysisk status kontrollert.  Kontrollsjekk inkluderer: batteristatus, instrumentinnstilling, 
+minnestatus og anoder. 
+ 
+Åkerblå benytter et skjema som følger hver måler for teknisk dokumentasjon. 
+   
+Ved utsett av instrumenter benyttes eget riggskjema som inkluderer (etter NS 9425:1999): 
+lokalitetsnavn, riggoppsett, posisjon, måledyp, kontakt-person og oppdragsgiver, tidspunkt for utsett 
+og opptak, og et kommentarfelt for eventuelle observasjoner ved utsett og opptak.  
+ 
+Ved opptak blir måleinstrumentene undersøkt for begroing, annet som kan ha påvirket målingene, og 
+fysisk skade.  Det kommenteres på riggskjema og i rapporten, og mulig påvirkning for resultatet blir 
+vurdert.  Verdier som er benyttet i rapporten er troverdige og uten behov for støyfiltrering eller annen 
+korreksjon. 
+ 
+Rådata er kvalitetssikret gjennom interne prosedyrer utviklet av Åkerblå og instrumentenes produsent 
+etter bestemte kriterier.  Dersom disse kriteriene ikke blir møtt er data kritisk vurdert.  Enkeltstående 
+datapunkter blir også vurdert og data fjernes om nødvendig. 
+ 
+Rådata ligger på Åkerblås server.  Hvis justering, endring eller fjerning av data er nødvendig er rådata 
+da lagret som kvalitetskontrollerte data på server hos Åkerblå.  
+ 
+8.1 Databearbeiding 
+ 
+Riggtilstand etter måling 
+Det var ingen begroing eller skade på instrumenter, og ingen data ble vurdert som feil eller usikre på 
+grunn av dette. Datakvaliteten anses å være god. 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 46 of 58 
+ 
+Tabell 8.1. Opplysninger om strømmålinger og databearbeiding per instrument. 
+Måledyp 
+5m 
+15m 
+Spredning 
+bunn 
+Filnavn for 
+rådata 
+Storvika 5m W0618 
+AP5118.bin 
+Storvika 15m 
+W0618 AP31.bin 
+Storvika spredning 
+W0618 AP5069.bin 
+Storvika bunn 
+W0618 AP5073.bin 
+Rådata først 
+vurdert i 
+Aanderaa Data 
+Studio 
+Aanderaa Data 
+Studio 
+Aanderaa Data 
+Studio 
+Aanderaa Data 
+Studio 
+Filnavn for 
+eksportert 
+data 
+Storvika 5m 
+WF0618 
+AP5118_eks_KT.csv 
+Storvika 15m 
+WF0618 
+AP31_eks_KT.csv 
+Storvika spredning 
+WF0618 
+AP5069_eks_KT.csv 
+Storvika bunn 
+WF0618 
+AP5073_eks_KT.csv 
+Filnavn for 
+kvalitetssikret 
+data 
+Storvika-
+5m_QC.xlsx 
+Storvika-
+15m_QC.xlsx 
+Storvika-
+spredning_QC.xlsx 
+Storvika-
+bunn_QC.xlsx 
+Data return 
+(%) 
+100.00 
+100.00 
+100.00 
+100.00 
+Antall 
+målinger 
+5170 
+5170 
+5170 
+5170 
+Antall 
+fjernede 
+målinger 
+0 
+0 
+0 
+0 
+Var anlegget 
+tom? Andre 
+eksterne 
+forhold? 
+Anlegget var tomt 
+Anlegget var tomt 
+Anlegget var tomt 
+Anlegget var tomt 
+Dato og tid 
+for første og 
+siste 
+benyttede 
+strømmåling 
+24.05.18 09:09 - 
+29.06.18 06:39 
+24.05.18 09:10 - 
+29.06.18 06:40 
+24.05.18 09:14 - 
+29.06.18 06:44 
+24.05.18 09:10 - 
+29.06.18 06:40 
+Dato og tid 
+for start og 
+slutt av 
+instrument 
+16.05.18 12:39 - 
+29.06.18 09:09 
+15.05.18 10:20 - 
+29.06.18 09:00 
+16.05.18 12:54 - 
+29.06.18 08:54 
+15.05.18 10:20 - 
+29.06.18 09:50 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 47 of 58 
+8.2 Kvalitetssikring av data 
+ 
+Data er kvalitetssikret etter bestemte kriterier (Tabell 8.2.1).  Dersom disse kriteriene ikke blir møtt 
+er data kritisk vurdert.  Dette inkluderer vurdering av interne ‘flags’.  Uteliggere er også vurdert og 
+data fjernet om nødvendig.  Grenseverdier (thresholds) og rekkeviddene er oppgitt i tabellene under. 
+ 
+Tabell 8.2.1. Kriteriene som er brukt for å kvalitetssikre data. 
+Parameter 
+QC  
+Temperatur 
+Manuell sjekk av data for stabil temp (Δ < 1deg)  
+Tilt grense 
+< 50˚ (Figur 8.2.1) – Aanderaa punktmåler 
+< 20 - 30 ˚ (Figur 8.2.1) – Nortek profiler & punktmåler og AWAC 
+Ping count 
+150 (Figur 8.2.1) – Aanderaa punktmåler 
+Trykk 
+Stabil (tidevanns mønster) (Figur 8.2.1) – Nortek profiler og AWAC 
+Strømhastighet 
+Stabil (ingen store endringer fra en måling til neste måling, Tabell 8.2.2).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+Retning 
+Stabil (ingen store endringer fra en måling til neste måling).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+ 
+Tabell 8.2.2. IOC teoretiske forskjeller i strømhastighet fra en måling til det neste. 
+Δt (min) 
+Teoretisk 
+Faktor 
+Godkjent 
+ 
+u1 – u2 (m/s) 
+ 
+u1 – u2 (m/s) 
+5 
+0.0422 u 
+2.0 
+0.08 
+10 
+0.0843 u 
+1.8 
+0.15 
+15 
+0.1264 u 
+1.6 
+0.20 
+20 
+0.1685 u 
+1.5 
+0.25 
+30 
+0.2523 u 
+1.4 
+0.35 
+60 
+0.5001 u 
+1.2 
+0.60 
+ 
+For å tillate noe naturlig variabilitet i strømhastighet og -retning (inkludert usymmetriske 
+hastighetskurver for tidevannsstrøm) har disse forskjellene blitt hevet med de oppgitte faktorene, 
+mens u er satt til 1 m/s, ettersom variabilitet øker med avtagende strøm (u). 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 48 of 58 
+ 
+Figur 8.2.1. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 5m. 
+ 
+Dyp på instrument varierte mellom 5.2m og 5.7m dyp i løpet av måleperioden.  Snittdyp var på 5.4m 
+dyp. 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 49 of 58 
+ 
+Figur 8.2.1 forts. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 15m. 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 50 of 58 
+ 
+Figur 8.2.1 forts. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, spredning. 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 51 of 58 
+ 
+Figur 8.2.1 forts. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunn. 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 52 of 58 
+8.3 Fjernede dataverdier  
+ 
+8.3.1 Måleperiode 
+ 
+Data er fjernet utenfor måleperioden for å bruke overlappende periode mellom de forskjellige dyp. 
+ 
+8.3.2 Enkelte datapunkter 
+ 
+Ingen andre datapunkter er fjernet. 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 53 of 58 
+9. 
+Vedlegg - Strømmens tilstandsklasser 
+ 
+Tilstandsklasser for strømparametere er oppgitt i Tabell 9.1.  Verdier er tatt fra Åkerblås innsamlede 
+data ved bruk av Aanderaa punkmålere (Åkerblå, 2015). 
+ 
+Tabell 9.1. Tilstandsklasser for vurdering av strømdata. 
+Tilstandsklasse 
+Dyp 
+(m) 
+1 
+2 
+3 
+4 
+5 
+Maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflatestrøm 
+5 
+≥ 55 
+≥ 40 - < 55 
+≥ 26 - < 40 
+≥ 15 - < 26 
+< 15 
+Vannutskiftingsstrøm 15 
+≥ 45 
+≥ 30 - < 45 
+≥ 20 - < 30 
+≥ 10 - < 20 
+< 10 
+Spredningsstrøm 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Bunnstrøm 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Gjennomsnitt strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflatestrøm 
+5 
+≥ 10 
+≥ 7 - < 10 
+≥ 6 - < 7 
+≥ 3 - < 6 
+< 3 
+Vannutskiftingsstrøm 15 
+≥ 9 
+≥ 6 - < 9 
+≥ 5 - < 6 
+≥ 2 - < 5 
+< 2 
+Spredningsstrøm 
+ 
+≥ 8.5 
+≥ 5 - < 8.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Bunnstrøm 
+ 
+≥ 7.5 
+≥ 5 - < 7.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Signifikant maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflatestrøm 
+5 
+≥ 25 
+≥ 17 - < 25 
+≥ 11 - < 17 
+≥ 5 - < 11 
+< 5 
+Vannutskiftingsstrøm 15 
+≥ 23 
+≥ 15 - < 23 
+≥ 8 - < 15 
+≥ 4 - < 8 
+< 4 
+Spredningsstrøm 
+ 
+≥ 20 
+≥ 14 - < 20 
+≥ 7 - < 14 
+≥ 4 - < 7 
+< 4 
+Bunnstrøm 
+ 
+≥ 16 
+≥ 11 - < 16 
+≥ 6.5 - < 11 
+≥ 3 - < 6.5 
+< 3 
+Signifikant minimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflatestrøm 
+5 
+≥ 6 
+≥ 4 - < 6 
+≥ 2.5 - < 4 
+≥ 1.5 - < 2.5 
+< 1.5 
+Vannutskiftingsstrøm 15 
+≥ 5 
+≥ 3.5 - < 5 
+≥ 2.3 - < 3.5 
+≥ 1.5 - < 2.3 
+< 1.5 
+Spredningsstrøm 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Bunnstrøm 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Andel strømstille (%) < 1cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflatestrøm 
+5 
+< 1 
+< 3 - ≥  1 
+< 5 - ≥  3 
+< 7 - ≥  5 
+≥  7 
+Vannutskiftingsstrøm 15 
+< 1 
+< 5 - ≥  1 
+< 7 - ≥  5 
+< 10 - ≥  7 
+≥  10 
+Spredningsstrøm 
+ 
+< 3 
+< 8.5 - ≥  3 
+< 15 - ≥  8.5 
+< 20 - ≥  15 
+≥  20 
+Bunnstrøm 
+ 
+< 3 
+< 10 - ≥  3 
+< 20 - ≥  10 
+< 30 - ≥  20 
+≥  30 
+Andel strømstille (%) < 3cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflatestrøm 
+5 
+< 5 
+< 10 - ≥  5 
+< 20 - ≥  10 
+< 30 - ≥  20 
+≥  30 
+Vannutskiftingsstrøm 15 
+< 5 
+< 15 - ≥  5 
+< 25 - ≥  15 
+< 40 - ≥  25 
+≥  40 
+Spredningsstrøm 
+ 
+< 10 
+< 20 - ≥  10 
+< 35 - ≥  20 
+< 50 - ≥  35 
+≥  50 
+Bunnstrøm 
+ 
+< 10 
+< 20 - ≥  10 
+< 35 - ≥  20 
+< 60 - ≥  35 
+≥  60 
+Effektiv transport hastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflatestrøm 
+5 
+≥ 5 
+≥ 2.5 - < 5 
+≥ 1.5 - < 2.5 
+≥ 0.3 - < 1.5 
+< 0.3 
+Vannutskiftingsstrøm 15 
+≥ 3.5 
+≥ 2 - < 3.5 
+≥ 1 - < 2 
+≥ 0.2 - < 1 
+< 0.2 
+Spredningsstrøm 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Bunnstrøm 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Neumann parameter 
+ 
+svært stabil 
+stabil 
+middels stabil 
+lite stabil 
+svært lite stabil 
+Alle dyp (m) 
+> 0.6 
+0.4 - 0.6 
+0.2 - 0.4 
+0.1 - 0.2 
+< 0.1 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 54 of 58 
+10. Vedlegg - Månedlige tidevannsvariasjoner under måleperioden 
+ 
+Strømmålinger er påvirket av blant annet tidevannsstrøm og kan bli påvirket av vind og vær.  
+Månedlige tidevannsvariasjoner er vist i figur under.    
+ 
+Månedlige tidevannsvariasjoner: 
+ 
+Figur 10.1. Månedlige tidevannsvariasjoner. (Oransje – siste kvarter; rød – nymåne; brun – første 
+kvarter; grønn - fullmåne). 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 55 of 58 
+11. Vedlegg - Måleenheter og forkortelser 
+ 
+Alle måleenheter brukt i rapporten er beskrevet i tabellen under. 
+ 
+Tabell 11.1. Måleenheter og forkortelser brukt i rapporten. 
+ 
+Symbol 
+Beskrivelse 
+Måleenhet 
+- 
+Dag og Tid 
+dd.mm.yy hh:mm (RTC*) 
+dd.mm (RTC*) 
+dd.mm.yyyy hh (RTC*) 
+- 
+Høyde / Dybde 
+Meter (m) 
+- 
+Avstand  
+Kilometer (km) 
+Meter (m) 
+- 
+Posisjon / Koordinater 
+GGG.GGG (˚) Kompass retning 
+GGG (˚) MM.MM (') Kompass 
+retning 
+- 
+Strømretning (mot) 
+Grader (˚) 
+- 
+Strømhastighet  
+Centimeter per sekund (cm/s) 
+- 
+Vindhastighet 
+Meter per sekund (m/s) 
+- 
+Vindretning (fra) 
+Grader (˚) 
+- 
+Tidevannsnivå 
+Centimeter (cm) 
+- 
+Temperatur 
+Grader celsius (˚C) 
+- 
+Tilt / Helling 
+Grader (˚) 
+- 
+Ping Count 
+tall 
+ 
+*RTC = UTC 0 = GMT. 
+Lokal tid er derimot: RTC + 2 timer – sommer 
+ RTC + 1 timer – vinter 
+* Eklima data er på GMT (kan også lastes ned på Norsk normal tid). 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 56 of 58 
+12. Vedlegg - Parametere og Beskrivelse 
+ 
+Tabell 12.1. Parametere brukt i rapporten og beskrivelse av disse. 
+  
+Parameter 
+Beskrivelse 
+Sjøtemperatur (˚C) 
+Temperatur i vannet målt ved måledyp 
+Strømhastighet 
+Maksimum (cm/s) 
+Maksimal verdi av alle data 
+Gjennomsnitt (cm/s) 
+Matematisk gjennomsnittlig verdi av alle data 
+Minimum (cm/s) 
+Laveste verdi av alle data 
+Signifikant maks (cm/s)  Matematisk gjennomsnitt av høyeste 1/3 av data 
+Signifikant min (cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av data 
+Varians (cm/s)2 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi.  Dvs. 
+om strøm varierte mye mellom suksessivt høye og lave verdier.  En høy 
+varians indikerer at datapunkter er meget spredt ut rundt 
+gjennomsnittsverdi, mens en lav varians indikerer at datapunkter er 
+veldig nær gjennomsnittsverdi og derfor hverandre. 
+Varians = Gjennomsnittet av de kvadrerte forskjeller fra middelverdien. 
+Standard avvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi. Et høyt 
+standard avvik indikerer stor spredning av data.   
+Standard avvik = kvadratrot (varians) 
+% < x cm/s  
+Matematisk beregning av hvor ofte strømhastighet var < x cm/s  
+Lengst periode < x cm/s Varighet lengste periode med strømhastighet < x cm/s 
+Effektiv transport 
+Hastighet (cm/s) 
+Hvordan en partikkel i vannet, som er i strømmålerens posisjon ved 
+målestart, driver med strømmen gjennom måleperioden.  Bevegelse er 
+en funksjon av strømhastighet og retning.  Effektiv hastighet er beregnet 
+som rettlinjet avstand fra start til sluttpunkt delt med total tid for 
+måleperioden.   
+Retning grader (deg) 
+Når måleperioden er slutt, er vinkelen til vektoren ut fra origo, som er 
+strømmålerens posisjon, resultatretning eller effektiv transport retning. 
+Neumann parameter 
+Sier noe om stabiliteten til strømmen i vektorretningen.  Stabil strøm 
+(høy Neumann parameter) betyr at vannet strømmer i ‘en’ retning og 
+beveger seg bort fra startpunktet hele tiden.  Ustabil strøm (lav Neumann 
+parameter) betyr at vannet strømmer i mange retninger og er ikke stabil 
+i en retning og kanskje bare flytter seg fram og tilbake til startpunktet.  
+For eksempel en Neumann parameter på 0.7 sier at strømmen i løpet av 
+måleperioden strømmer med 70% stabilitet i vektorretning.  Det er 
+klassifisert som svært stabil strøm.   
+Vannforflytning 
+(m3/m2/d) 
+Hvor mye vann som strømmer gjennom ei rute på 1 m2 i løpet av et døgn.  
+Gjennomsnittlig total vannutskiftning per døgn – alle retninger.   
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 57 of 58 
+13. Vedlegg - Referanser 
+ 
+1. 
+Aarsnes, J.V.G, Løland og H. Rudi (1990).  Forces on cage net deflection.  Manuscript, 
+International Conference for Engineering and Offshore Fish Farming, Glasgow, UK, 17-18 
+Oct. 1990. 
+ 
+2. 
+Aure, J. (1983).  Akvakultur i Troms, kartlegging av høvelige lokaliteter for Fiskeoppdrett.  
+Fisken og Havet 1983, nr. 1, 92s. 
+ 
+3. 
+Brukerveiledning. Aanderaa Blue punktmåler. 
+ 
+4. 
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography. 
+Elsevier Science. 
+ 
+5. 
+Fiskeridirektoratet (2012).  Veileder for utfylling av søknadsskjema for tillatelse til akvakultur 
+i flytende eller landbasert anlegg. 
+Tilgjengelig:  
+http://www.fiskeridir.no/Akvakultur/Registre-og-skjema/Skjema-
+akvakultur/Akvakultursoeknad 
+ 
+6. 
+Havforskningsinstituttet (2008).  AkvaVis – dynamisk GIS-verktøy for lokalisering av 
+oppdrettsanlegg for nye oppdrettsarter. Miljøkrav for nye oppdrettsarter og laks.  Fisken og 
+havet nr. 10/2008.   
+Tilgjengelig: 
+http://www.imr.no/filarkiv/2009/06/FH_2008_10_web.pdf/nb-no 
+ 
+7. 
+IOC (1993).  Manual of Quality Control Procedures for validation of Oceanographic Data. 
+Available: 
+http://www.iode.org/components/com_oe/oe.php?task=download&id=20423&version=1st%
+20edition&lang=1&format=1 
+ 
+8. 
+Mattilsynet (2014).  Statens tilsyn for planter, fisk, dyr og næringsmidler.   Etableringsøknader 
+– saksbehandling i tilsynet. Retningslinje til behandling av søknader etter forskrift 17. juni 
+2008 nr. 823 om etablering og utvidelse av akvakulturanlegg, zoobutikker m.m. 36s. 
+ 
+9. 
+Norwegian Meteorological Institute.  www.eklima.no 
+ 
+10. 
+NS 9415:2009. Flytende oppdrettsanlegg.  Krav til lokalitetsundersøkelse, risikoanalyse, 
+utforming, dimensjonering, utførelse, montering og drift. Norsk Standard 2009: 101s. 
+ 
+11. 
+NS 9425-1:1999.  Oseanografi – Del 1: Strømmålinger i faste punkter.  Norsk Standard 1999. 
+6s. 
+ 
+12. 
+Nygaard og Golmen (1997).  Strømforhold på oppdrettslokaliteter i relasjon til topografi og 
+miljø.  Rapport LNR 3709-97.  NIVA-prosjekt E-94409 og O-95250. 58s. 
+ 
+13. 
+Pawlowicz, R., Beardsley, B. Og S. Lentz (2002).  Classical tidal harmonic analysis including 
+error estimates in MATLAB using T_TIDE.  Computers & Geosciences, 28, 929-937. 
+ 
+Strømrapport: Storvika i Skjerstadfjorden, Bodø kommune  
+Åkerblå AS 
+Intern dok. Id. B.5.1.10/4.00  
+Side 58 of 58 
+14. 
+Sætre, R. (1975).  Lokalisering og miljø ved noen oppdrettsanlegg for laksefisk i Vest-Norge.  
+Fiskeridirektoratets Havforskningsinstitutt, Serie B 1975 Nr. 4. 
+ 
+15. 
+Wilson, D og E. Siegel (2008).  Evaluation of Current and Wave Measurements from a 
+Coastal Buoy.  DOI: 10.1109/OCEANS.2008.5152108 Conference: OCEANS 2008 Source: 
+IEEE Xplore.  
+ 
+16. 
+Åkerblå (2015).  Strømklassifisering. Åkerblå AS-rapport: Strøm- Klassifisering-
+AanderaaPunktMåler-Okt2015, 2 sider.

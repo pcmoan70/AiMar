@@ -1,0 +1,83 @@
+﻿<root>
+  <avsender>
+    <adresselinje1>Postboks 383</adresselinje1>
+    <adresselinje2>
+    </adresselinje2>
+    <adresselinje3>
+    </adresselinje3>
+    <navn>Mattilsynet</navn>
+    <poststed>Brumunddal</poststed>
+    <postnr>2381</postnr>
+  </avsender>
+  <mottaker>
+    <adresse1>Postboks 1485</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8048</postnr>
+    <poststed>BODØ</poststed>
+    <navn>NÆRINGSUTVIKLING</navn>
+    <land>Norway</land>
+    <orgnr>974041553</orgnr>
+    <fnr />
+  </mottaker>
+  <id>1ee0f761-ca16-4474-abf6-2845102c14e2</id>
+  <tittel>NORCOD AS - VEDTAK OM KLARERING AV NY LOKALITET - BJØRNVIKA I NESNA KOMMUNE</tittel>
+  <date>1684759191453</date>
+  <dateFormatert>2023-05-22T12:39:51</dateFormatert>
+  <metadataFraAvleverendeSystem>
+    <sakssekvensnummer>256576</sakssekvensnummer>
+    <saksaar>2021</saksaar>
+    <journalaar>2023</journalaar>
+    <journalsekvensnummer>190600</journalsekvensnummer>
+    <journalpostnummer>0</journalpostnummer>
+    <journalposttype>U</journalposttype>
+    <journalstatus>F</journalstatus>
+    <journaldato />
+    <dokumentetsDato />
+    <tittel>NORCOD AS - VEDTAK OM KLARERING AV NY LOKALITET - BJØRNVIKA I NESNA KOMMUNE</tittel>
+    <saksBehandler>Cathrine Lofstad</saksBehandler>
+  </metadataFraAvleverendeSystem>
+  <metadataForImport>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalposttype />
+    <journalstatus />
+    <dokumentetsDato />
+    <tittel />
+  </metadataForImport>
+  <status>Klar for mottak</status>
+  <niva>3</niva>
+  <filmetadata>
+    <filnavn>NORCOD AS - VEDTAK OM KLARERING AV NY LOKALITET - BJØRNVIKA I NESNA KOMMUNE.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>d5c0e5e0013dcce9480daedc00bfb68cbb55f82816b4fde89acff925b9ac176a</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>279645</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>AcosSvarInn.xml</filnavn>
+    <mimetype>text/xml</mimetype>
+  </filmetadata>
+  <svarSendesTil>
+    <adresse1>Postboks 383</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>2381</postnr>
+    <poststed>BRUMUNDDAL</poststed>
+    <navn>Mattilsynet</navn>
+    <land>Norge</land>
+    <orgnr>985399077</orgnr>
+    <fnr />
+  </svarSendesTil>
+  <svarPaForsendelse />
+  <forsendelseType />
+  <eksternRef />
+  <downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/1ee0f761-ca16-4474-abf6-2845102c14e2</downloadUrl>
+  <avgivendeSystem>ELEMENTS</avgivendeSystem>
+  <taushetsbelagtPost>false</taushetsbelagtPost>
+</root>

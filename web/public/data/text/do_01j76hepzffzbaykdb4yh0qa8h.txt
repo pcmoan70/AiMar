@@ -1,0 +1,216 @@
+﻿2087-02-23M ISTERVIKA 
+ 
+ 
+ 
+ 
+ 
+2023 
+Havbunnskartlegging ved 
+Istervika, Brønnøy kommune, 
+17.02.2023 
+ 
+MOWI ASA 
+ 
+AQUA KOMPETANSE AS 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+2 
+ 
+ 
+ 
+Rapportens tittel: 
+Havbunnskartlegging ved Istervika, Brønnøy kommune, 17.02.2023 
+Dato for kartlegging:  
+17.02.2023 
+Rapportdato: 23.02.2023 
+Rapportnummer: 2087-02-23M 
+Antall sider uten vedlegg: 11 
+Antall sider totalt: 11 
+Oppdragsgiver:  
+MOWI ASA 
+Kontaktperson: 
+Maren Strand 
+Prosjektleder/felt utført av: 
+ Lars Børsheim 
+Fartøy brukt i felt: 
+MS Otto 
+Lokalitet: Istervika 
+Kommune: Brønnøy 
+Fylke: Nordland 
+Instrumenttype:  
+Multistråle ekkolodd 
+Oppløsning på opplodding:  
+0,46 meter 
+Oppløsning vurdert: 
+0,46 meter 
+Sammendrag 
+Det er blitt gjennomført havbunnskartlegging ved lokaliteten Istervika, som ligger i Velfjorden i Brønnøy kommune. 
+Anlegget ligger over en nordvestlig orientert renne ut mot Velfjorden. Havbunnskartleggingen viser bløtbunn i 
+senter av området, med middelshardbunn i skråningene vest og øst for rennen og i de grunnere delene av 
+kartleggingsområdet. Dybder i anleggssonen går fra 50 meter i nordvest – 170 meter i sørøst av anlegget. Dypeste 
+punkt er i nord-nordvest av kartlagt område med dybder rundt 225 meter. 
+Emneord:  
+havbunnskartlegging, multistråle, ekkolodd 
+ID 416-16 
+Rapporten er tilgjengelig ved 
+forespørsel 
+Rapportansvarlig (og kvalitetssikring av data): 
+Mads Fallet 
+Kvalitetssikrer: 
+Karl Ivar D. Høstland 
+ 
+ 
+ 
+© 2023 Aqua Kompetanse AS. Kopiering av rapporten kan kun skje i sin helhet. Dersom deler av rapporten 
+(konklusjoner, figurer, tabeller, bilder eller annen gjengivelse) er ønskelig, er dette kun tillatt etter skriftlig 
+samtykke fra Aqua Kompetanse AS. 
+Aqua Kompetanse AS 
+Storlavika 7 
+7770 Flatanger 
+ 
+Mobil: 905 16 947 
+E-post: post@aqua-kompetanse.no 
+Internett: www.aqua-kompetanse.no 
+Bankgiro: 4400.07.25541 
+Org.nr.: 982 226 163 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+3 
+Innholdsfortegnelse 
+Innholdsfortegnelse ........................................................................................................................................... 3 
+1. 
+Bakgrunn .................................................................................................................................................... 4 
+2. 
+Instrumentering ......................................................................................................................................... 4 
+3. 
+Databehandling og -kvalitet ...................................................................................................................... 4 
+4. 
+Resultater .................................................................................................................................................. 6 
+4.1 
+Perspektivisk 2D ................................................................................................................................ 6 
+4.2 
+Perspektivisk 3D ................................................................................................................................ 8 
+ 
+ 
+ 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+4 
+1. Bakgrunn 
+Aqua Kompetanse AS har utført havbunnskartlegging ved Istervika i Brønnøy kommune og denne rapporten 
+inneholder prosesserte bunndata som beskriver vanndybde, bunntype og batymetri fra det aktuelle området. 
+Rapporten er en oppsummering av resultatene fra opploddingen og er bygd på forutsetningen om at leseren 
+studerer følgende data og figurer nøye. Kvalitetssikret bunndata kan benyttes til anleggsplanlegging og -
+plassering. Rådata finnes oppbevart hos Aqua Kompetanse AS. 
+ 
+Figur 1.1: Oversiktskart over deler av Brønnøy kommune, samt deler av Sømna kommune Innrammet kartutsnitt i rødt 
+viser området som er kartlagt ved Istervika. Målestokk vises øverst i figuren. Kartkilde: Olex. 
+2. Instrumentering 
+Målingene er utført med Olex WASSP1 multistråle-ekkolodd. Posisjoneringssystemet er av typen Trimble 
+BX982 GPS2 / GLONASS3 cpos-korrigeringstjeneste (med nøyaktighet på ca. 1 meter). Bevegelsesjustering på 
+båten utføres av Kongsberg MRU4. Ekkoloddet har en varierende rekkevidde, avhengig av bunntopografi og 
+vannkvalitet, på ca. 200-300 meters dybde. På dypere vann enn 200-300 meter kan det presenteres data fra 
+mobilt enkeltstråle-ekkolodd og/eller data fra Olex standard. 
+3. Databehandling og -kvalitet 
+Ved opplodding av havbunnen er det mange faktorer som påvirker kvaliteten til resultatene. Dybdeverdier 
+som lager avvikende formasjoner i bunnkartet betraktes vanligvis som målefeil, og vises som topper, hull, 
+eller langsgående arr i kartet. Avvikende målinger identifiseres gjennom en kombinasjon av manuelle og 
+automatiske metoder og vurderinger. De avvikende målingene slettes og bunnkartet kalkuleres på nytt. 
+Båtens utforming og montering av transduser er mulige feilkilder, så korrigering av «roll, pitch og heading» 
+kan være nødvendig. Slike feil sees ofte som høydeforskjeller mellom kjøringer og ruglete havbunn i 
+overlappende kjøringer. Roll og pitch er satt til null for dette datasettet på bakgrunn av manuell 
+kvalitetskontroll. 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+5 
+Den antatte lydhastigheten WASSP/Olex benytter for å beregne dybder er en annen mulig feilkilde, hvor feil 
+i lydhastighet ofte vises som konvekse eller konkave strukturer i batymetrien, avhengig av om antatt 
+lydhastighet er for lav eller for høy. Ved denne kartleggingen ble det benyttet en CTD (konduktivitet, 
+temperatur og dybde) til å ta en profil av lydhastighet i vannsøylen før opploddingsstart (Figur 3.1). Profilen 
+ble deretter konvertert til et format Olex forstår og lastet inn. Ettersom profilen i vannsøylen varierer med 
+tid og geografisk plassering vil lydhastigheten kunne påvirke resultatene, men trolig ikke i stor grad for dette 
+datasettet. Opploddingsforholdene var tilfredsstillende. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 3.1: Lydhastighetsprofil fra Istervika 17.02.2023 
+ 
+ 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+6 
+4. Resultater 
+4.1 
+Perspektivisk 2D 
+ 
+Figur 4.1.1: Oversiktskart over området som er kartlagt ved Istervika i Brønnøy kommune. Dybdekoter for hver 5. meter 
+er markert, og blåtoner fra lys til mørk markerer økende dybde. Målestokk vises øverst i figuren. Kartkilde: Olex. 
+Figur 4.1.2: Oversiktskart over området med fortøyninger ved Istervika. Dybdekoter for hver 5.  meter er markert, og 
+blåtoner fra lys til mørk markerer økende dybde. Målestokk vises øverst i figuren. Kartkilde: Olex. 
+ 
+ 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+7 
+Figur 4.1.3: Oversiktskart med bunnhardhet uttrykt med fargeskala ved Istervika. Hardbunnskala går fra lilla farge 
+(bløtbunn) til rød farge (hardbunn). Målestokk vises øverst i figuren. Kartkilde: Olex. 
+ 
+Figur 4.1.4: Oversiktskart med fortøyninger og bunnhardhet uttrykt med fargeskala over området i nærheten av 
+Istervika. Hardbunnskala går fra lilla farge (bløtbunn) til rød farge (hardbunn). Målestokk vises øverst i figuren. Kartkilde: 
+Olex. 
+ 
+ 
+ 
+ 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+8 
+4.2 
+Perspektivisk 3D 
+ 
+Figur 4.2.1: Tredimensjonal bunntopografi ved Istervika sett fra sørøst. Kartkilde: Olex. 
+  
+Figur 4.2.2: Tredimensjonal bunntopografi med bunnhardhet uttrykt med fargeskala ved Istervika sett fra sørøst. 
+Hardbunnskala går fra lilla farge (bløtbunn) til rød farge (hardbunn). Kartkilde: Olex. 
+ 
+ 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+9 
+Figur 4.2.3: Tredimensjonal bunntopografi med fortøyninger ved Istervika sett fra sørøst. Kartkilde: Olex. 
+ 
+Figur 4.2.4: Tredimensjonal bunntopografi med fortøyninger og bunnhardhet uttrykt med fargeskala ved Istervika sett 
+fra sørøst. Hardbunnskala går fra lilla farge (bløtbunn) til rød farge (hardbunn). Kartkilde: Olex. 
+ 
+ 
+ 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+10 
+Figur 4.2.5: Tredimensjonal bunntopografi ved Istervika sett fra nord. Kartkilde: Olex. 
+ 
+Figur 4.2.6: Tredimensjonal bunntopografi med bunnhardhet uttrykt med fargeskala ved Istervika sett fra nord. 
+Hardbunnskala går fra rød farge (hardbunn) til lilla farge (bløtbunn). Kartkilde: Olex. 
+ 
+ 
+ 
+2087-02-23M ISTERVIKA 
+AQUA KOMPETANSE AS 
+11 
+Figur 4.2.7: Tredimensjonal bunntopografi med fortøyninger ved Istervika sett fra nord. Kartkilde: Olex. 
+ 
+Figur 4.2.8: Tredimensjonal bunntopografi med fortøyninger og bunnhardhet uttrykt med fargeskala ved Istervika sett 
+fra nord. Hardbunnskala går fra lilla farge (bløtbunn) til rød farge (hardbunn) Kartkilde: Olex.

@@ -1,0 +1,964 @@
+﻿Framsenteret | Postboks 6066 Stakkevollan | 9296 Tromsø | +47 777 50 300 | www.akvaplan.niva.no 
+ 
+ 
+Visuell kartlegging av sårbare arter og naturtyper ved 
+Verholmen i Meløy kommune basert på ROV-undersøkelser  
+ 
+Akvaplan-niva AS Rapport: 2023 64409.02   
+ 
+ 
+Visuell kartlegging av sårbare arter og naturtyper ved 
+Verholmen i Meløy kommune basert på ROV-undersøkelser   
+Kartlegging ved bruk av fjernstyrt undervannsfarkost (ROV)     
+ 
+ 
+Forfatter(e) 
+ 
+Rosalyn Fredriksen og Jim Simonsen Jenssen 
+ 
+Dato    
+ 
+22.02.2023 
+Rapport nr. 
+ 2023 64409.02     
+Antall sider  
+ 
+30 
+Distribusjon   
+Gjennom kunden 
+Kunde  
+ 
+Fish Farm International AS 
+Kontaktperson 
+Kjell Lorentsen 
+ 
+Sammendrag 
+Det kartlagte området ved lokaliteten Verholmen i Meløy kommune strekker seg fra et dyp på 3 
+meter på det grunneste og ut mot i overkant av 30 meter på det dypeste, som i praksis betyr at 
+kartleggingen baserer seg på metodikk fra Husa og Kutti (2022). Området er i hovedsak preget av 
+skjellsand/sand med innslag av grus og korallin grus, som går over til fast fjell og store steiner ved 
+grunnere områder nært fjæresonen. 
+Ved mulighet for fast underlag, ble det observert tareforekomster trolig av artene fingertare 
+og/eller stortare. Tareindivider som trolig har vært utsatt for høyt beitepress og/eller en 
+konsekvens av bølgeeksponert lokalitet, gjorde det utfordrende å identifisere tarene som ikke var 
+intakt. Registreringene ble derfor presentert i samme gruppe "tare" i denne rapporten. Det ble gjort 
+flest registreringer av tare på prosentvis dekning som 5 – 9 % og 10 – 19%. I tillegg ble det registrert 
+et høyt antall kråkeboller og flere innenfor ett synsfelt som forsterker teorien om høyt beitepress 
+på tareplantene. En viktig bemerkning i ROV-kartleggingen er at det ble observert større 
+ansamlinger av dødt organisk materiale fra flere arter av tang, tare og andre alger som kan 
+samsvare med miljøundersøkelsen type C som ble gjennomført i området hvor det ble oppdaget en 
+naturlig sterk lukt av dødt organisk materiale. 
+Funn av rugl i forundersøkelse av type C på lokaliteten utløste krav om ROV-kartlegging for 
+influensområdet. I denne ROV-kartleggingen ble det avdekket funn av ruglforekomster som i 
+hovedsak var ut mot 500 meters buffersonen i nordlig og sørlig retning av utslippspunktene. Noen 
+registreringer ble gjort nærmere utslippspunktene, men var i hovedsak en prosentvis dekning på 
+1 – 5%. De fleste registreringene i influensområdet var i kategoriene mellom 1 – 5 % og 5 – 9%. 
+Det ble registrert stort kamskjell (Pecten maximus) over nesten hele influensområdet der bunnen 
+var dekket med skjellsand/sand (Figur 13). Selv om Havforskningsinstituttets forslag til metode for 
+kartlegging på grunt vann (Husa og Kutti 2022) anbefaler registrering av skjell med dekningsgrad, 
+var det såpass overkommelig tetthet at det muliggjorde registreringer av enkeltindivider. Av 
+registreringene 
+som 
+ble 
+gjennomført, 
+ble 
+det 
+ikke 
+observert 
+rødlistede 
+arter 
+i 
+undersøkelsesområdet. 
+Godkjenninger 
+ 
+ 
+Prosjektleder   
+ 
+ 
+ 
+ 
+Kvalitetskontroll rapport 
+ 
+Digitally signed 
+by Rune Palerud 
+Date: 2023.02.22 
+13:05:11 +01'00'
+Akvaplan-niva 2023 64409.02   
+Side 3 av 30 
+Innholdsfortegnelse 
+FORORD ....................................................................................................................... 4 
+1 
+INNLEDNING ......................................................................................................... 5 
+1.1 
+Formål med ROV-undersøkelse ........................................................................ 5 
+1.1.1 
+Krav fra Statsforvalteren om visuell undersøkelse på ny lokalitet ................... 5 
+1.1.2 
+Plassering av ROV-transekter ...................................................................... 6 
+1.1.3 
+Norsk rødliste for arter og naturtyper .......................................................... 7 
+1.1.4 
+Habitater og arter av forvaltningsmessig interesse ........................................ 8 
+Tareskogbunn ........................................................................................................ 8 
+Ruglbunn ............................................................................................................... 9 
+Kamskjellforekomster ........................................................................................... 10 
+2 
+METODIKK .......................................................................................................... 11 
+2.1 
+Utstyr og loggingssystem ................................................................................ 11 
+2.2 
+Metodikk for registrering av biota og bunnsubstrat .......................................... 12 
+2.3 
+Utfordringer med ROV-kartlegging ................................................................. 13 
+3 
+RESULTATER ....................................................................................................... 14 
+3.1 
+Sedimentbeskrivelse ved lokaliteten ............................................................... 14 
+3.2 
+Arter og habitater av forvaltningsmessig interesse ........................................... 15 
+3.2.1 
+Tareforekomster ...................................................................................... 15 
+3.2.2 
+Ruglbunn ................................................................................................ 17 
+3.2.3 
+Kamskjellforekomster .............................................................................. 18 
+3.3 
+Ikke-sensitiv bunnfauna ................................................................................. 20 
+3.4 
+Relativ tetthet av bunnfauna og tare ................................................................ 23 
+4 
+SAMMENFATTENDE VURDERINGER ..................................................................... 24 
+5 
+OPPSUMMERING ................................................................................................. 25 
+6 
+LITTERATURLISTE ............................................................................................... 26 
+7 
+VEDLEGG ............................................................................................................ 29 
+7.1 
+Eksempelbilder av ruglbunn .......................................................................... 29 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 4 av 30 
+Forord 
+Akvaplan-niva ble engasjert av Fish Farm International AS som ekstern aktør med 
+marinbiologisk kompetanse til å utføre kartlegging av sårbart naturmangfold ved Verholmen 
+i Meløy kommune. Lokaliteten har ikke vært i drift tidligere. I foreliggende rapport 
+presenteres det funn av marin fauna og flora ved lokaliteten etter kartlegging i form av 
+visuelle undersøkelse ved hjelp av ROV (Remote Operated Vehicle). Undersøkelsen inngår 
+som et supplement i søknad til virksomhet etter forurensningsloven, der Statsforvalter som 
+sektormyndighet har bedt om denne type undersøkelse. 
+ 
+Planlegging og gjennomføring av visuell kartlegging følger forslag til metode for kartlegging 
+av sårbare naturtyper på grunt vann (Husa og Kutti 2022). Siden det ikke finnes klare 
+retningslinjer for klassifisering av sårbare naturtyper, er det utfordrende å foreta en 
+verdisetting av disse. Foreliggende rapport presenterer hvilke funn av mulig 
+forvaltningsmessig interesse som er gjort slik at myndighetene har grunnlaget for å foreta 
+vurderingene om lokalitetens egnethet for akvakultur. 
+ 
+Følgende personer har deltatt i prosjektet:   
+Rosalyn Fredriksen  
+ 
+ 
+Akvaplan-niva AS  
+Prosjektleder, planlegging, koordinering, feltarbeid 
+og rapportering 
+Jim Simonsen Jenssen 
+Rapport og dialog med oppdragsgiver 
+Morten Thorstensen  
+Teknisk oppsett.  
+Rune Palerud 
+Kvalitetssikring av rapport.  
+  
+Akvaplan-niva vil takke Fish Farm International AS for oppdraget og godt samarbeid. Vi 
+ønsker også å takke mannskapet på "AQS Loke" for hjelpen under toktet.  
+ 
+Akvaplan-niva 2023 64409.02   
+Side 5 av 30 
+1 Innledning 
+1.1 Formål med ROV-undersøkelse 
+1.1.1 Krav fra Statsforvalteren om visuell undersøkelse på ny lokalitet 
+Fish Farm International AS ønsker å etablere landbasert fiskeoppdrett på øya Verholmen i 
+Meløy kommune i Nordland fylke (Figur 1). Som nødvendig dokumentasjon i en søknad om 
+tillatelse til virksomhet etter forurensningsloven, må det vedlegges resultater fra en 
+forundersøkelse for å presentere informasjon om miljøtilstanden i resipienten før etablering. 
+I en C-undersøkelse ble det avdekket funn av løstliggende kalkalger, som utløste krav om 
+kartlegging i influensområdet. 
+Det som ligger til grunn for Statsforvalterens nye krav i søknadsbehandling er at det foreligger 
+liten kunnskap om sårbare arter og naturtypers voksested og levekår. Det er et ønske at man 
+på et tidlig stadium får vite om akvakulturvirksomhet kommer i konflikter med verdifulle 
+sårbare arter og naturtyper, slik at dette kan unngås.   
+ 
+Figur 1 Oversiktskart som viser kartleggingsområdet ved lokalitet Verholmen i Meløy kommune i Nordland. 
+Kartet inkluderer C-stasjoner fra forundersøkelse i tillegg til plassering av utslippspunkt. Rød prikk i 
+miniatyrkartet til høyre viser undersøkelsesområdet.  
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 6 av 30 
+1.1.2 Plassering av ROV-transekter 
+Akvaplan-niva (APN) har planlagt kartleggingslinjer (transekter) i influensområdet ved 
+Verholmen. Utslippspunktene til det landbaserte fiskeoppdrettet er plassert i sundet mellom 
+Verholmen og Vesholmen og planlegging av transektene har tatt utgangspunkt i disse. 
+Influensområdet er relativt grunt og planlegging for kartleggingen er tatt utgangspunkt i Husa 
+og Kutti 2022). 
+ 
+Transektplanleggingen har tatt hensyn til strømmålinger på 5 meters dyp som var plassert 
+ved tidligere utslippspunkt nærmere land av Verholmen (Hermansen 2018). Området er 
+relativt grunt og hovedtransport av vannmasser vil i hovedsak gå i nordlig og sørlig retning av 
+Verholmen og Vesholmen (havstraum.no). Nye strømmålinger ved utslippspunktene var ute 
+til registrering i perioden når ROV-kartlegging ble gjennomført.  
+Transektene dekker en total strekning på 7,2 km (Figur 2) og ble godkjent av Statsforvalteren 
+29.11.22 (Pers. med. Reiss). 
+ 
+ 
+Figur 2 Oversiktskart for influensområdet til Verholmen i Meløy kommune med inntegnede transekter som ble 
+godkjent av Statsforvalteren. Kart viser utslippspunkter, stasjoner fra C-undersøkelse og 500 meters radius fra 
+de ytterste utslippspunktene. 
+ 
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 7 av 30 
+1.1.3 Norsk rødliste for arter og naturtyper 
+Kunnskapsstatusen langs norskekysten av sensitive arter og habitater er per dags dato 
+mangelfull, da det er store områder som ikke er tilstrekkelig kartlagt. Derfor legger 
+miljømyndighetene Naturmangfoldloven (2009) § 9 om "føre-var-prinsippet" til grunn der de 
+ønsker at kunnskapsgrunnlaget (Naturmangfoldloven 2009, § 8) styrkes før det skal tas en 
+beslutning om eventuelle inngrep slik at faren for irreversibel skade på naturverdier 
+minimeres.  
+Arter og naturtypers sårbarhet er vurdert i de norske rødlister som vist i Figur 3 
+(Artsdatabanken 2018; Artsdatabanken 2021). Beskrivelse for de ulike kategoriene i rødlistene 
+danner grunnlaget for arters og naturtypers verdivurdering som skal tas hensyn til i 
+forvaltningssammenheng (vist i Tabell 1). Innen norsk forvaltning er Miljødirektoratets 
+Håndbok nr. 19 (Direktoratet for naturforvaltning 2007) blitt benyttet i forbindelse med 
+definering av naturtyper, en kompleks systematisering som stadig er under forbedring og 
+utvikling i NiN-kartlegging (Natur i Norge). Enkelte arter har fått oppmerksomhet innen 
+forvaltningen, der noen er blitt vurdert til å danne særegne forhold i miljøet og for andre 
+organismer eller at føre-var-prinsippet legges til grunn for deres verdivurdering etter norsk 
+rødliste. Denne rapporten omtaler arter som danner særegne habitater (levesteder) eller 
+samfunn. Noen arter og naturtyper har fått rødlistestatus i norsk forvaltning.  
+Norge er en del av OSPAR (Oslo-Paris Konvensjonen) som omfatter deler av norske farvann. 
+OSPAR nevner eksempelvis eksponert blåskjellbunn, o-skjellbunn, østersbunn, korallskog, 
+svampesamfunn, sjøfjærbunn og ruglbunn på sin liste over sårbare habitater (OSPAR 2008a, 
+b). Gjennom OSPAR-konvensjonen anerkjenner Norge et ansvar for å beskytte visse sårbare 
+marine miljøer i den nordøstlige del av Atlanterhavet (OSPAR 2010a, §24; OSPAR 2010b, Part 
+II §1.2c). I denne rapporten redegjøres det for relevante habitattyper som er blitt kartlagt og 
+som har fått forvaltningsmessig oppmerksomhet av norske miljømyndigheter. 
+ 
+Figur 3. Kategorier i Norsk rødliste for arter (og habitat) (Artsdatabanken 2018; 2021). 
+Tabell 1. Oversikt over definisjoner av rødlistekategorier, der kategoriene kritisk truet til sårbar er definert 
+som truede arter (og habitat) (Artsdatabanken 2018; 2021).  
+RE 
+ 
+Regionalt utdødd  Skal brukes dersom det er svært liten tvil om at arten er utdødd fra Norge.  
+CR 
+ 
+Kritisk truet  
+Skal brukes når det er ekstremt høy risiko for utdøing (50 % sannsynlighet for utdøing 
+innen 3 generasjoner eller 10 år – maksimalt 100 år).  
+EN 
+ 
+Sterkt truet  
+Skal brukes når det er svært høy risiko for utdøing (20 % sannsynlighet for utdøing innen 
+5 generasjoner eller 20 år – maksimalt 100 år).  
+VU 
+ 
+Sårbar  
+Skal brukes når det er høy risiko for utdøing (10 % sannsynlighet for utdøing innen 100 
+år).  
+NT 
+ 
+Nær truet  
+Brukes når en art er vurdert å ligge tett opp til å kvalifisere til CR, EN eller VU, eller trolig 
+vil det i nær framtid (5 % sannsynlighet for utdøing innen 100 år).  
+DD 
+ 
+Datamangel  
+Brukes i begrenset omfang og signaliserer at det kreves mer kunnskap før kategori kan 
+fastsettes. Kategorien DD benyttes der usikkerhet om artens korrekte kategoriplassering 
+er svært stor og klart inkluderer hele spekteret av mulige kategorier fra og med CR til og 
+med LC.  
+Akvaplan-niva 2023 64409.02   
+Side 8 av 30 
+1.1.4 Habitater og arter av forvaltningsmessig interesse 
+Tareskogbunn 
+Tareskogsbunn består av sammenhengende havbunnsområder med tarearter som dekker et 
+areal større enn 100 m2 og med en bredde større enn 5 m (Andersen m.fl. 2019). 
+Tareskogsbunn forekommer på fast bunn med middels til sterk havstrøm og kan dannes av 
+én eller flere arter. Mest vanlig er stortareskog (Laminaria hyperborea) som ofte utkonkurrerer 
+andre tarearter som sukkertare (Saccharina latissima), fingertare (Laminaria digitata) og 
+butare (Alaria esculenta) gjennom å vokse seg høyere og skygge for andre arter (Direktoratet 
+for Naturforvaltning 2007). Tareartene er flerårige. Stortare er knyttet til miljøer med moderat 
+til kraftig vannbevegelse mens sukkertare trives best under mer beskyttede forhold. Artene 
+er i tillegg avhengig av god lystilgang og tareskog dannes derfor fra lavvannsmerket ned til 20 
+– 30 meters dyp (Husa m.fl. 2016).  
+Både nordlig stortareskog og nordlig sukkertareskog er inkludert i Norsk Rødliste for 
+Naturtyper 2018 med begrunnelsen at begge typer, særlig sukkertareskogen, gjennom de siste 
+50 årene har vært beitet voldsomt ned av kråkeboller langs Midt- og Nord-Norge (Gundersen 
+m.fl. 2018). Naturtypen nordlig stortareskog er vurdert til kategorien NT – nær truet mens 
+nordlig sukkertareskog er vurdert til EN – sterkt truet selv om det er tegn til at bestandene er 
+ved å ta seg opp igjen (Gundersen m.fl. 2018). De ovenfornevnte naturtypene er ikke inkludert 
+på OSPAR-listen over sårbare naturtyper (OSPAR 2008a). Tabell 2 gir rødlistekategorier til 
+naturtyper som trolig var representative til stede ved Verholmen. 
+ 
+Tabell 2. Rødlistestatus for tarearter og for habitatene de kan forme basert på Gundersen m. fl. (2018); 
+Artsdatabanken (2018). 
+Norske navn 
+Art 
+Forvaltningsstatus 
+(Artsnivå) 
+Naturtype 
+Habitat 
+Forvaltnings-
+status 
+(Naturtype, 
+habitat) 
+OSPAR 
+Stortare 
+Laminaria 
+hyperborea 
+Livskraftig - LC 
+Nordlig stortareskog 
+(Nordlige 
+Norskehavet og 
+Barentshavet) 
+NT - Nær truet 
+- 
+Fingertare 
+Laminaria 
+digitata 
+Livskraftig - LC 
+Nordlig 
+fingertarebunn 
+(Norskehavet og 
+Barentshavet) 
+VU – Sårbar  
+- 
+Sukkertare 
+Saccharina 
+latissima 
+Livskraftig - LC 
+Nordlig 
+sukkertareskog 
+(Norskehavet og 
+Barentshavet) 
+EN – Sterkt truet 
+- 
+ 
+Husa m.fl. (2016) trekker frem en rekke mulige effekter på tareskog fra oppdrettsanlegg. 
+Undersøkelser har vist at ammonium fra anleggene ofte fører til økt vekst av hurtigvoksende 
+påvekstarter slik som trådalger og grønnalger som reduserer lys og næringstilgang til taren i 
+stedet for til økt trivsel for tareskogen. Det er også påvist at voksedybden kan reduseres i 
+områder med økt partikler i vannmassene grunnet redusert lystilgang, samt at tilslamming 
+av havbunnen kan hindre nye individer i å feste seg på underlaget. Særlig sukkertare kan bli 
+påvirket av tilslamming. Oppdrettsanlegg kan tiltrekke seg kråkeboller, som også beiter på 
+tare omkring anleggene. Langtidseffektene av oppdrettsanlegg på tareskog er imidlertid blitt 
+Akvaplan-niva 2023 64409.02   
+Side 9 av 30 
+vurdert som lav basert på observasjoner av tareskog nær eksisterende anlegg samt 
+kunnskapen om artenes spredningsevne (Husa m.fl. 2016). 
+ 
+Ruglbunn 
+Ruglbunn er en bunntype karakterisert av ulike arter av kalkrødalger som vokser løst på 
+havbunnen. Bunntypen er også kjent under navnet mergelbunn. Levende rugl er rosa og 
+bygger typisk et sterkt forgrenede mer eller mindre kuleformet kalkskjelett, men taper fort 
+fargen når de dør og blir hvitaktig. Rugl er avhengig av både lys og moderat høy turbulens og 
+finnes derfor på grunt vann med lite sedimentasjon ned til ca. 40 meter eller dypere (Hall-
+Spencer, m.fl. 2010).   
+Det er lite kunnskap tilgjengelig om den økologiske betydningen til ruglbunn i norske 
+farvann, men studier fra sør i Europa viser at større lokaliteter er beite- og oppvekstområder 
+for flere fiskearter som bl.a. torsk. Det antas også at de er levested for mange virvelløse 
+dyrearter (Husa m.fl. 2016). 
+Ruglbunn er inkludert i Norsk Rødliste for Naturtyper 2018 under kategorien DD – 
+datamangel med begrunnelsen at det mangler kunnskap for å si om naturtypen er i 
+tilbakegang slik den er andre steder i Europa (Artsdatabanken 2018). Naturtypen er sårbar 
+over for havforsuring, høsting av sand, mudring og akvakulturvirksomhet (Artsdatabanken 
+2018; Husa m.fl. 2020). I Norge antas det at ruglbunner er relativt vanlige i nord, mens de er 
+nokså sjeldne i sør. Mye tyder på at Nordland og Troms har noen av de største forekomster i 
+Europa (Husa m.fl. 2020), likevel er den norske bestand ikke inkludert på OSPAR-listen over 
+forekomster av naturtypen, som i særlig grad bør beskyttes (OSPAR 2008a). Tabell 3 gir 
+rødlistekategorien til ruglbunn. 
+De vanligste artene som kan danne ruglbunn langs norskekysten er Lithothamnion soriferum 
+og Lithothamnion glaciale, der begge er kategorisert som LC - livskraftig etter Norsk rødliste 
+for arter (Husa, m.fl. 2021). Arter som danner ruglbunn er vanskelig å skille visuelt og må 
+identifiseres ved å ha et fysisk eksemplar under mikroskop eller ved nærmere analyser av 
+DNA. 
+Tabell 3. Rødlistestatus for ruglbunn basert på Artsdatabanken (2018). 
+Norske navn 
+Art 
+Forvaltningsstatus 
+(Artsnivå) 
+Naturtype 
+Habitat 
+Forvaltnings-
+status 
+(Naturtype, 
+habitat) 
+OSPAR 
+Rugl 
+Lithothamnion 
+soriferum 
+Livskraftig – LC 
+Rugl-/mergelbunn 
+Datamangel – 
+DD  
+Maerl beds* 
+Lithothamnion 
+glaciale 
+Livskraftig – LC 
+Andre rugl arter 
+Livskr---ftig – LC 
+*OSPAR habitat bare definert som tiltakskrevende i region III – Celtic Seas, ikke for Norge  
+Studier har vist at rugl vokser svært sakte, med bare omkring 0,5 – 1,5 mm i året (OSPAR 
+2008b; Artsdatabanken 2018). Det tar derfor lang tid å gjendanne habitatet om det ødelegges. 
+Det er fortsatt lite kunnskap om effekten av oppdrettsanlegg på ruglbunn. Det er imidlertid 
+dokumentert at om kalkalgene dekkes av H2S-dannende slam fra anleggende, da vil det føre 
+til 100 % dødelighet i løpet av 14 dager (Wilson m.fl. 2004). 
+Akvaplan-niva 2023 64409.02   
+Side 10 av 30 
+Kamskjellforekomster 
+Stort kamskjell (Pecten maximus) er en sørlig art med utbredelse langs norskekysten helt opp 
+til Vestfjorden i nord. Forekomst av skjell finner man fra like under tidevannssonen og ned 
+til mer enn 100 meters dyp. De største forekomstene registrert i Norge finner vi langs 
+Trøndelag - og Nordlandskysten, på dyp mellom 5 og 30 meter. Kamskjell finner man helst i 
+strømrike områder og på bunn av ulik sammensetning, fra fin til grov grus, med eller uten 
+innblanding av mudder eller organisk materiale (Kleiven m.fl. 2021). 
+Kamskjell har en livslengde på om lag 20 år og blir rundt 500 – 600 gram og gyter i 
+sommerhalvåret når temperaturene stiger. Føde er primært planteplankton, bakterier og 
+andre mikroorganismer, samt dødt organisk materiale (Strand, Ø. 2019).  
+Stort kamskjell i Norge er vurdert som en livskraftig bestand (LC) i norsk rødliste for arter 
+(Bakken m.fl. 2021). I Norge høstes stort kamskjell kun ved dykking. Resultater fra tokt gjort 
+av havforskningsinstituttet rundt alderssammensetning i bestanden som det høstes fra i 
+Trøndelag, tyder på at reproduksjonsevne og rekruttering er god og varierer lite mellom år. 
+Loggbøker fra fangstselskapene indikerer et bærekraftig fiske (Kleiven m.fl. 2021). 
+Tabell 4. Rødlistestatus for stort kamskjell (Pecten maximus) registrert ved Verholmen (Bakken m.fl. 2021). 
+Norske navn 
+Art 
+Forvaltningsstatus 
+(Artsnivå) 
+Naturtype 
+Habitat 
+Forvaltnings-
+status 
+(Naturtype, 
+habitat) 
+OSPAR 
+Stort 
+kamskjell 
+Pecten maximus 
+Livskraftig – LC 
+Saltvann 
+-  
+- 
+Akvaplan-niva 2023 64409.02   
+Side 11 av 30 
+2 Metodikk 
+ROV-kartlegging er en skånsom og effektiv måte å innsamle informasjon om makro- og 
+megafauna på havbunnen. I motsetning til bunntråling og bunnprøvetaking påvirker ROV-
+undersøkelser miljøet minimalt og miljømyndighetene etterspør stadig mer av denne type 
+kartlegging for å få en bedre oversikt over utbredelse og omfang av sårbare organismer, 
+naturtyper og habitater. Undersøkelsesmetodikken i prosjektet er tilpasset NS-EN 16260:2012 
+og forslag til metodikk for kartlegging av sårbare arter og naturtyper rundt oppdrettsanlegg 
+på grunt vann av Husa og Kutti (2022). 
+2.1 Utstyr og loggingssystem 
+Feltarbeidet ble gjennomført 9. desember 2022 fra AQS AS sin servicekatamaran "AQS Loke". 
+AQS sin fjernstyrte undervannsfarkost (ROV – Remote Operated Vehicle) av typen Sperre 15K 
+med kommunikasjonskabel på 1000 meter ble tatt i bruk under kartleggingen (Figur 4). 
+Systemet er utstyrt med et Sperre HD IP - Kamera, ROS Q-LED III lys på 5600 Kelvin og 7500 
+lumen. Det ble også montert to Imenco punktlasere (avstand mellom lasere: 10 cm) for å få 
+en referanse til størrelser på organismer. Et Sonardyne HPT 3000 USBL system med et 
+Kongsberg Seapath 130-R GPS system ble benyttet for posisjonsnøyaktighet og sporbarhet av 
+funn langs undersøkelseslinjene. Video ble tatt opp via Options Videologger system. ROV 
+opererte med en gjennomsnittsfart på ca. 0,5 knop og med en avstand fra havbunn på ca. 1-2 
+m.  
+ 
+Figur 4. Illustrasjonsbilde av Sperre ROV (type sub-fighter15k) som ble benyttet ved ROV-kartlegging.  
+For logging av posisjon og registreringer av informasjon ble EIVA Navipac 4.2 benyttet.  
+For visuell fremstilling i kart, er QGIS blitt benyttet med basiskart hentet gjennom Geonorge 
+Kartkatalog i format UTM sone 33N/WGS 84. Ettersom kartene er to-dimensjonale, vil 
+registreringer opp over en bratt fjellvegg gi punkter som ligger oppå hverandre, noe som 
+betyr overlapp i symboler og de er da ikke alltid synlig.  
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 12 av 30 
+2.2 Metodikk for registrering av biota og bunnsubstrat 
+Registrering av bunnsubstrat og biota er basert på kategorier beskrevet i NS-EN 16260:2012 og 
+Havforskningsinstituttet (HI) sitt forslag til metodikk ved kartlegging rundt akvakulturanlegg 
+(Kutti og Husa 2021; Husa og Kutti 2022). Det ble utført kontinuerlig registrering av dominant 
+bunnsubstrat langs undersøkelseslinjene. For de fleste organismer av forvaltningsmessig 
+interesse ønskes alle enkeltindivider over fem cm størrelse registrert og helst identifisert til 
+lavest mulig nivå (Husa og Kutti 2022). Registreringene ble utført av feltpersonell med 
+taksonomisk ekspertise. 
+Kartleggingen dokumenterer først og fremst tilstedeværelse og utbredelse av arter (kvalitativ 
+innsamling), men gjennom individregistrering langs undersøkelseslinjene gir den også en 
+viss informasjon om tetthet i forekomstområdene. I tillegg er det mulighet for å foreta 
+tetthetsberegninger 
+basert 
+på 
+individregistreringene 
+(kvantitativ 
+innsamling). 
+Tetthetsberegninger av individer per areal (m2) og størrelsesregistrering på øyekorall og 
+sjøtre er beskrevet av Kutti og Husa (2021) som en del av gjennomførelsestrinnene ved visuell-
+kartlegging. Slike detaljerte kalkuleringer etter Kutti og Husa (2021) og Husa og Kutti (2022) 
+for tetthet og størrelse på koraller er kostnadskrevende og er ment som forslag til metode og 
+ikke en standard rapporteringsprosedyre i visuelle kartlegginger. Da det per dags dato ikke 
+eksisterer klare grensedefinisjoner på når noe kan klassifiseres som en naturtype, anser 
+Akvaplan-niva forslagene av Kutti og Husa (2021) og Husa og Kutti (2022) som ikke 
+hensiktsmessig gjennomførbare, da de ikke vil bidra vesentlig til informasjon i 
+beslutningsgrunnlaget for forvaltningsmyndigheten. 
+I Klima- og miljødepartementets sitt utkast om endring av forskrift om utvalgt naturtype etter 
+Naturmangfoldloven, som omfatter korallrev som forslag, står det spesifikt følgende i vedlegg 
+2 (Forslag om korallrev som utvalgt naturtype): 
+"En beslutning om å klassifisere en naturtype som utvalgt naturtype har i henhold til 
+naturmangfoldloven forvaltningsmessige konsekvenser og det er derfor et krav om at naturtypen kan 
+defineres slik at det blir klart hvilke forekomster utvelgelsen gjelder for." 
+Akvaplan-niva mener at estimater av relativ tetthet langs hvert transekt som presenteres i 
+denne rapporten sammen med kartene gir like god data som tetthetsberegninger av individer 
+per m2, inntil at konkrete definisjoner på de gitte naturtypene er på plass. Det tas 
+utgangspunkt i antall registreringer av enten organismer eller kolonier langs en gitt 
+strekning. Relativ tetthet gir et inntrykk over mengde kolonier eller individ som er blitt 
+registrert i kartleggingsområdet og er ikke reelle kvantitative tall som direkte kan 
+sammenlignes med andre lokaliteter. 
+Gruntvannsartene rugl, butare, fingertare, stortare, sukkertare og blåskjellbunn vil etter 
+Husa og Kutti (2022) bli registrert som prosentvis bunndekke. I forslag til metodikk for 
+kartlegging av sårbare arter og naturtyper på grunt vann er det ikke spesifisert hvilken skala 
+som skal benyttes av de ovenfornevnte artene. Derfor har Akvaplan-niva valgt å benytte seg 
+av den internasjonale SACFOR tetthets-skalaen (Hiscock 1990; Strong og Johnson 2020) som 
+basis for intervallinndelingen av prosent dekke fremstilt i kartene i resultatdelen: 
+1 – 5% 
+5 – 9% 
+10 – 19%  
+20 – 39% 
+40 – 79% 
+80 – 100%  
+Akvaplan-niva 2023 64409.02   
+Side 13 av 30 
+2.3 Utfordringer med ROV-kartlegging 
+Hovedutfordringen med ROV-kartleggingen for Verholmen er at området består av mye 
+holmer og skjær. Benyttet kartlag for transektplanleggingen er topografisk norgeskart hentet 
+fra WMS-lenke med målestokk fra 1:500 til 1:10M og er en offentlig tilgjengelig lenke som 
+oppdateres automatisk. Det offentlig tilgjengelige kartverktøyet som er blitt benyttet har ikke 
+fått med nøyaktige detaljer av holmer og skjær, og under feltarbeidet ble oppdaget at flere 
+forhåndstegnede transekter lå enten på land eller ikke var mulig å nå ved bruk av ROV. 
+Satellittbildet i Figur 5 viser hvite linjer som ble godkjent av Statsforvalteren i Nordland og 
+grå linjer viser hvor man faktisk kartla. Det var ikke mulig å kartlegge deler av linje 5 og 6, 
+hele linje 7, 8, 9 og 13. Ved undersøkelsestidspunkt var det satt ut strømmåler (Figur 5) som 
+gjorde at man måtte fravike noe fra opprinnelig linje for å ikke komme i konflikt med denne. 
+ 
+Figur 5  Oversiktskart for influensområdet til Verholmen sett med satellittbilde. Hvite linjer viser planlagte 
+transekter som ble sendt inn til godkjenning for Statsforvalteren i Nordland og som ble godkjent 29.11.22. Grå 
+linjer viser områder som ble kartlagt og enkelte linjer kunne ikke nås, da de enten var på land eller utilgjengelig 
+for ROV og båt (for grunt).   
+På flere av linjene som ikke kunne nås var det i hovedsak forekomst av tare. 
+Dybdeangivelser på videologg er basert på trykkmålinger på ROV-en. Det er også utfordringer 
+med geografisk posisjonsangivelse, som blir ustabil eller mistes helt der det blir for grunt. 
+I forbindelse med prosentvise tetthetsregistreringer av tare kan det oppstå problemer med å 
+estimere dekningsgrad når tareblader vifter frem og tilbake. Dekningsgraden endres hele 
+tiden i synsfeltet grunnet bevegelsene. En grov estimering er da nødvendig. Bredden på 
+synsfeltet er estimert til å variere mellom 1,5 og 3 meter når det ble gjennomført 
+registreringer. 
+Akvaplan-niva 2023 64409.02   
+Side 14 av 30 
+3 Resultater 
+3.1 Sedimentbeskrivelse ved lokaliteten 
+Det ble registrert varierende bunn ved lokaliteten Verholmen, hvor skjellsand/sand var 
+dominerende for området som hadde innslag av grus, steiner og korallin grus. På de dypeste 
+områdene ble det registrert skjellsand/sand, mens mot grunnere områder og mot fjæresonen 
+kunne man finne mer fast fjell og store steiner. Registreringene av bunntypene er visuelt 
+fremstilt i Figur 6.  
+En interessant bemerkning var at det ble registrert større ansamlinger av dødt organisk 
+materiale av tang, tare og andre algesorter på de dypeste områdene mellom Verholmen og 
+Vesholmen som kan være på bakgrunn av at Verholmen er et bølgeeksponert område. 
+ 
+Figur 6 Viser kart over fordeling av bunnsubstrat langs transektene på lokalitet Verholmen i Meløy kommune. 
+FF = fast fjell og store blokker, St = stein og veldig grovt sediment, G = grus som er grovt sediment, Skj = 
+skjellsand/sand og KoG = Korallin grus, hvite ruglklumper på havbunnen. 
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 15 av 30 
+3.2 Arter og habitater av forvaltningsmessig interesse 
+3.2.1 Tareforekomster 
+Visuelt sett kunne man anta at tareindividene i kartleggingsområdet har vært utsatt for 
+beitepress og/eller harde bølgeeksponeringer som løsriver festeorganet fra underlaget (Figur 
+7 og Figur 8). Tareindivider som ikke var intakte gjorde det utfordrende å identifisere 
+tareartene. Basert på en ansamling av dødt organisk materiale på bunn som ble observert på 
+ROV-kartleggingen, kan man anta av nærområdene består av sukkertare (Saccharina 
+latissima), fingertare (Laminaria digitata) og/eller stortare (Laminaria hyperborea) (Figur 9). 
+ 
+Figur 7 Eksempelbilde som viser at lokaliteten kan være utsatt for hardt vær og bølgeeksponeringer som løsriver 
+festeorganet til taren fra underlaget. 
+ 
+Figur 8 Eksempelbilde som viser tarestilk med et lite blad. Årsaken kan være nedbeiting av kråkeboller eller at 
+det er et bølgeeksponert område som løsriver tareindividene. 
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 16 av 30 
+ 
+ 
+Figur 9 Viser ansamling av dødt organisk materiale på bunn som ble observert langs transekt 3 på bunnen. 
+Visuell fremstilling av tareforekomster vises som prosentvis dekning i Figur 10. Det meste av 
+registreringene for tareforekomster ble gjort med en prosentvis dekning på mellom 5 – 9% og 
+10 – 19% og var i hovedsak på grusete underlag og på fast fjell og store steiner. Det ble ikke 
+gjort registreringer av tareforekomster som hadde en dekningsgrad mellom 80 – 100%. 
+ 
+Figur 10 Kartutsnitt som viser prosentvis dekning av tareforekomster langs transektene på lokaliteten 
+Verholmen. Utfordrende artsbestemmelse av de forskjellige tareartene gjorde det slik at alle tarefunn er 
+presentert i samme kart.  
+ 
+Akvaplan-niva 2023 64409.02   
+Side 17 av 30 
+3.2.2 Ruglbunn 
+Det ble registrert levende rugl fra 32 meters dyp og mot de grunneste områdene hvor man 
+kunne registrere med ROV (3 meter). Ruglforekomster som ble registrert i influensområdet 
+var i hovedsak ut mot 500 meters buffersone i nordlig og sørlig retning av utslippspunktene 
+(Figur 11). Noen registreringer ble gjort nærmere utslippspunktene, som hadde i hovedsak 
+en prosentvis dekning på 1 – 5%. De fleste registreringene i influensområdet var i 
+kategoriene mellom 1 – 5 % og 5 – 9%. Figur 12 viser et bilde med 1 – 5 % prosentvis dekning 
+av rugl på bunn. 
+ 
+Figur 11 Kartutsnitt som viser prosentvis dekning av ruglbunn langs transektene på lokalitet Verholmen. 
+ 
+Figur 12 viser eksempelbilde av rugl på bunn langs transekt 4 ved Verholmen. Synsfelt i bredden er 2,8 m. 
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 18 av 30 
+3.2.3 Kamskjellforekomster 
+Det ble registrert stort kamskjell (Pecten maximus) over nesten hele influensområdet der 
+bunnen var dekket med skjellsand/sand (Figur 13). Selv om Havforskningsinstituttets forslag 
+til metode for kartlegging på grunt vann (Husa og Kutti 2022) anbefaler registrering av skjell 
+med dekningsgrad, var det såpass overkommelig tetthet at det muliggjorde registreringer av 
+enkeltindivider. Det ble registrert totalt 194 kamskjell for influensområdet. Eksempelbilder 
+av kamskjell vises i Figur 14 og Figur 15. 
+ 
+Figur 13 Kartutsnitt som viser registreringer av stort kamskjell (Pecten maximus) på lokaliteten Verholmen.  
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 19 av 30 
+ 
+ 
+Figur 14 Eksempelbilder av kamskjell ved lokaliteten Verholmen. Høyest antall registreringer av kamskjell 
+innenfor et synsfelt var fem stk.  
+ 
+ 
+Figur 15 Eksempelbilde av kamskjell (Pecten maximus) ved lokaliteten Verholmen. Bildet viser to kamskjell 
+som har skjellet delvis åpent med sine tentakler og øyne ute. 
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 20 av 30 
+3.3 Ikke-sensitiv bunnfauna 
+I ROV-kartleggingen ble det registrert flere dyregrupper som ikke former sårbare naturtyper 
+eller habitater, men som var vanlige observasjoner i undersøkelsesområdet. Kråkebolle var 
+en av dyregruppene som forekom hyppig på lokaliteten (Figur 16), hvor arten 
+svabergsjøpiggsvin (Echinus esculentus) var den vanligste (Figur 17). Sjøstjerner ble også 
+registrert i området. 
+ 
+Figur 16  Kartutsnitt som viser registreringer av pigghuder (kråkeboller og sjøstjerner) ved Verholmen. 
+ 
+Figur 17 Eksempelbilde som viser kråkebollen svabergsjøpiggsvin (Echinus esculentus) registrert ved 
+Verholmen. 
+Akvaplan-niva 2023 64409.02   
+Side 21 av 30 
+Det ble også registrert noen krepsdyr (krabber og eremittkreps) på lokaliteten sammen med 
+fisk (Figur 18). 
+ 
+ 
+Figur 18 Kartutsnitt som viser registreringer av krepsdyr og fisk på lokaliteten Verholmen.  
+ 
+Akvaplan-niva 2023 64409.02   
+Side 22 av 30 
+Noen områder i influensområdet ved Verholmen ble det registrert høy dekningsgrad av 
+dødt organisk materiale som bestod av flere forskjellige tarearter, sammen med tang og 
+andre algearter (Figur 19).  
+ 
+Figur 19 Kartutsnitt som viser registreringer av dødt organisk materiale av tang, tare og andre algearter i 
+området mellom Vesholmen og Verholmen.  
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 23 av 30 
+3.4 Relativ tetthet av bunnfauna og tare 
+For habitatdannende organismer av forvaltningsmessig interesse presenteres det her antall 
+registreringer langs hvert transekt omregnet til registreringer per 100 meter transektlengde 
+for enkeltindivider som lot seg registrere. For tareforekomster og rugl er tetthet angitt som 
+median prosentvis bunndekke når de var registrert og ses i Tabell 5. 
+Tabell 5. Presenterer gjennomsnittlig registreringer av stort kamskjell (Pecten maximus) per 100 meter 
+transekt, samt median av prosentvis bunndekke for registrerte tareforekomster langs hvert transekt i 
+undersøkelsesområdet ved Verholmen i Meløy kommune i Nordland. 
+Transekt 
+Lengde (m) 
+Rugl 
+Tare 
+Stort 
+kamskjell 
+Tot 
+1 
+823 
+5 – 9 
+5 – 9 
+3,2 
+27 
+2 
+1174 
+5 – 9  
+5 – 9 
+6,0 
+70 
+3 
+1170 
+5 – 9 
+10 - 19 
+5,3 
+62 
+4 
+1156 
+1 – 5  
+10 - 19 
+1,6 
+19 
+5 
+445 
+5 – 9  
+10 – 19  
+0,9 
+4 
+6 
+145 
+- 
+20 – 39  
+- 
+- 
+10 
+295 
+- 
+10 - 19 
+- 
+- 
+11 
+171 
+- 
+10 - 19 
+4,7 
+8 
+12 
+209 
+- 
+5 – 9 
+1,9 
+4 
+7 
+Ikke mulig å kartlegge pga. linjer på land eller ikke mulig å nå med ROV og båt. 
+8 
+Ikke mulig å kartlegge pga. linjer på land eller ikke mulig å nå med ROV og båt. 
+9 
+Ikke mulig å kartlegge pga. linjer på land eller ikke mulig å nå med ROV og båt. 
+13 
+Ikke mulig å kartlegge pga. linjer på land eller ikke mulig å nå med ROV og båt. 
+ 
+ 
+ 
+Akvaplan-niva 2023 64409.02   
+Side 24 av 30 
+4 Sammenfattende vurderinger 
+For tareforekomstene på de grunne områdene ble det registrert påvekst av Bryozoa (mosdyr) 
+(Figur 20). Påvekst av mosdyr starter typisk ut på sommeren og kan bli omfattende ut på 
+høsten og vinterperioden samtidig som taren er under anabolisme (Brady-Campbell m.fl. 
+1984; Scheibling og Gagnon 2009; Førde m.fl. 2015). Påvekst av mosdyr tildekker tareplantene 
+slik at de får mindre effektivt næringsopptak og fotosyntese (Cancino m.fl. 1987; Hurd m.fl. 
+2000). 
+ 
+Figur 20 Eksempelbilde av tare på lokaliteten Verholmen hvor man ser at tareplantene er begrodde av mosdyr 
+(Bryozoa) som er et mer vanlig fenomen på sommer og mot vinterstid. 
+En viktig bemerkning i ROV-kartleggingen er at det ble observert større ansamlinger av dødt 
+organisk materiale fra flere arter av tang, tare og andre alger som kan samsvare med 
+miljøundersøkelsen som ble gjennomført i området hvor det ble oppdaget en naturlig sterk 
+lukt av organisk materiale i grabb. 
+Samtidig for området, ble det observert høytetthet av kråkeboller på lokaliteten som kan 
+trolig påvirke tareforekomstene (Figur 21). Det ble registrert stilker av tare med et lite blad, 
+som kan tyde beitepress og/eller bølgeeksponert område. 
+ 
+Figur 21 Eksempelbilde av kråkeboller som ble registrert ved lokaliteten Verholmen.  
+ 
+Akvaplan-niva 2023 64409.02   
+Side 25 av 30 
+5 Oppsummering 
+Det kartlagte området ved lokaliteten Verholmen i Meløy kommune strekker seg fra et dyp 
+på 3 meter på det grunneste og ut mot i overkant av 30 meter på det dypeste, som i praksis 
+betyr at kartleggingen baserer seg på metodikk fra Husa og Kutti (2022). Området er i 
+hovedsak preget av skjellsand/sand med innslag av grus og korallin grus, som går over til fast 
+fjell og store steiner ved grunnere områder nært fjæresonen. 
+Ved mulighet for fast underlag, ble det observert tareforekomster trolig av artene fingertare 
+og/eller stortare. Tareindivider som trolig har vært utsatt for høyt beitepress og/eller en 
+konsekvens av bølgeeksponert lokalitet, gjorde det utfordrende å identifisere tareartene som 
+ikke var intakt. Registreringene ble derfor presentert i samme gruppe "tare" i denne 
+rapporten. Det ble gjort flest registreringer av tare på prosentvis dekning som 5 – 9 % og 10 – 
+19%. I tillegg ble det registrert et høyt antall kråkeboller og flere innenfor ett synsfelt som 
+forsterker teorien om høyt beitepress på tareplantene. En viktig bemerkning i ROV-
+kartleggingen er at det ble observert større ansamlinger av dødt organisk materiale fra flere 
+arter av tang, tare og andre alger som kan samsvare med forundersøkelse av type C som ble 
+gjennomført i området hvor det ble oppdaget en naturlig sterk lukt av dødt organisk 
+materiale. 
+Funn av rugl i forundersøkelse av type C på lokaliteten utløste krav om ROV-kartlegging for 
+influensområdet. I denne ROV-kartleggingen ble det avdekket funn av ruglforekomster som 
+i hovedsak var ut mot 500 meters buffersone i nordlig og sørlig retning av utslippspunktene. 
+Noen registreringer ble gjort nærmere utslippspunktene, men var i hovedsak en prosentvis 
+dekning på 1 – 5%. De fleste registreringene i influensområdet var i kategoriene mellom 1 – 5 
+% og 5 – 9%. 
+Det ble registrert stort kamskjell (Pecten maximus) over nesten hele influensområdet der 
+bunnen var dekket med skjellsand/sand (Figur 13). Selv om Havforskningsinstituttets forslag 
+til metode for kartlegging på grunt vann (Husa og Kutti 2022) anbefaler registrering av skjell 
+med dekningsgrad, var det såpass overkommelig tetthet at det muliggjorde registreringer av 
+enkeltindivider. Av registreringene som ble gjennomført, ble det ikke observert rødlistede 
+arter i undersøkelsesområdet. 
+Akvaplan-niva 2023 64409.02   
+Side 26 av 30 
+6 Litteraturliste 
+- 
+Andersen, G.S., Bekkby, T., Dolan, M., Bøe, R., Thormar, J., Buhl-Mortensen, P., 
+Elvenes, S., Naustvoll, L., Mjelde, M., Brandrud, T.E., Rinde, E., Bryn, A. 2019. 
+Feltveileder for kartlegging av marin naturvariasjon etter NiN (2.2.0). Utgave 1, 
+Kartleggingsveileder nr 3, Artsdatabanken, Trondheim. 1–65. 
+- 
+Artsdatabanken 2018. Norsk rødliste for naturtyper 2018. Hentet fra 
+https://www.artsdatabanken.no/rodlistefornaturtyper  
+- 
+Artsdatabanken (2021, 24. november). Norsk rødliste for arter 2021. 
+https://www.artsdatabanken.no/lister/rodlisteforarter/2021/ 
+- 
+Bakken T, Olsen K.M., Skahjem, N., (24.11.2021). Bløtdyr: Vurdering av kamskjell Pecten 
+maximus for Norge. Rødlista for arter 2021. Artsdatabanken. 
+https://www.artsdatabanken.no/lister/rodlisteforarter/2021/21977 
+ 
+- 
+Brady-Campbell, M.M., Campbell, D.B., Harlin, M.M. 1984. Productivity of kelp 
+(Laminaria sp.) near the southern limit in the Northwestern Atlantic Ocean. Marine 
+Ecology – Progress Series 18, 79–88. 
+ 
+- 
+Cancino, J.M., Munoz, J., Orellana, M.C. 1987. Effects of the bryozoan Membranipora 
+tuberculata (Bosc.) on the photosynthesis and growth of Gelidium rex Santelices and 
+Abbot. Journal of Experimental Marine Biology and Ecology 113, 105–112 
+- 
+Direktoratet for naturforvaltning 2007. Kartlegging av marint biologisk mangfold. DN-
+håndbok 19-2001 revidert 2007. 51 s. 
+- 
+Førde, H., Forbord, S., Handå, A., Fossberg, J., Arff, J., Johnsen, G. og Reitan, K.I. 2015. 
+Development of bryozoan fouling on cultivated kelp (Saccharina latissima) in Norway. 
+Journal of Applied Phycology (2), 1225–1234. 
+- 
+Gundersen, H., Bekkby, T., Nordenhaug, K. M., Oug, E., Rinde, E. og Fredriksen, F. 
+2018. Sukkertareskog i Norskehavet og Barentshavet, Marint gruntvann. Norsk rødliste 
+for naturtyper 2018. Artsdatabanken, Trondheim. Hentet 20.04.2021 fra 
+https://artsdatabanken.no/RLN2018/344 
+- 
+Hall-Spencer, J.M., Kelly J, Maggs, C.A. (2010) Background document for maërl beds. 
+OSPAR Biodivers Ser 491. OSPAR Commission, London.  
+- 
+Havstraum.no 
+- 
+Hermansen, S. 2018. Strømmålinger Gigante Salmon AS. Strømmålinger Verholmen, 5 
+meter. 60120.01 
+- 
+Hiscock, K. 1990. Marine Nature Conservation Review: methods. Joint Nature 
+Conservation Committee, Peterborough, Nature Conservancy Council, CSD Report, No. 
+1072. (Marine Nature Conservation Review Report, No. MNCR/OR/ 5). 
+- 
+Hurd, C.L., Durante, K.M., Harrison, P.J. 2000. Influence of bryozoan colonization on 
+the physiology of the kelp Macrocystis integrifolia (Laminariales, Phaeophyta) from 
+nitrogenrich and -poor sites in Barkley Sound, British Columbia. Phycologia 39, 435–440 
+Akvaplan-niva 2023 64409.02   
+Side 27 av 30 
+- 
+Husa, V., Kutti, T. 2022. Forslag til metode for kartlegging av sårbare arter og naturtyper 
+på grunt vann (0-50 meters dyp) til søknader om akvakultur i sjø. Kunnskapsleveranse 
+til Fiskeridirektoratet. Rapport fra havforskningen nr. 2022-9. 
+- 
+Husa, V., Schneider, S., Langangen, A., Steen, H., Eilertsen, M. (2021). 
+Artsgruppeomtale Alger (Cyanophyta, Rhodophyta, Chlorophyta og Ochrophyta). Norsk 
+rødliste for arter 2021.  Artsdatabanken. 
+https://www.artsdatabanken.no/rodlisteforarter2021/Artsgruppene/Alger Nedlastet 
+<13/02/2023> 
+- 
+Husa, V., Gonzalez-Mirelis, G., Kutti, T., Mortensen, P., Søvik, G., Jensen, G., 
+Bakkeplass, K., Skjoldal, H.R. 2020. Marinbiologisk mangfold i Andfjorden marine 
+verneområde. Rapport fra Havforskningen nr. 2020-30. 
+- 
+Husa, V., Kutti, T., Grefsrud, E.S., Agnalt, A.-L., Karlsen, Ø., Bannister, R., Samuelsen, 
+O., Grøsvik, B.E. 2016. Effekter av utslipp fra akvakultur på spesielle marine naturtyper, 
+rødlista habitat og arter. Rapport fra havforskningen nr. 8, 51 s. 
+- 
+Kleiven, A. R., Espeland, S. H., Guldborg, S., Albretsen, J., Kleiven, P. J. N., 
+Zimmermann, F., Grefsrud, E. S., Halvorsen, K. A. T., Vie, O. 2021. Aktiv forvaltning av 
+marine ressurser – Frøya og Hitra (Rapport fra havforskningen 2021-14). 
+Havforskningsinstituttet. https://www.hi.no/hi/nettrapporter/rapport-fra-
+havforskningen-2021-14#sec-1 
+- 
+Kutti, T., Husa, V. 2021. Forslag til metode for kartlegging av sårbare arter og naturtyper 
+på dypt vann til søknader om akvakultur i sjø. Kunnskapsleveranse til 
+Fiskeridirektoratet. Rapport fra havforskningen nr. 2021-39. 
+- 
+Naturmangfoldloven 2009. Lov om forvaltning av naturens mangfold 
+(naturmangfoldloven). LOV-2009-06-19-100 
+- 
+NS-EN 16260:2012. Vannundersøkelse – Visuelle bunnundersøkelser med fjernstyrte 
+og/eller tauete observasjonsfarkoster for innsamling av miljødata. Standard Norge. 1 – 
+22. 
+- 
+OSPAR 2008a. OSPAR list of threatened and/or declining species and habitats (reference 
+Number: 2008-6). OSPAR Agreement 2008-6. 1–5. 
+- 
+OSPAR 2008b. Descriptions of habitats on the OSPAR list of threatened and/or declining 
+species and habitats (reference Number: 2008-07). OSPAR convention for the protection 
+of the marine environment of the north-east Atlantic. OSPAR Agreement 2008-7. 1–8. 
+- 
+OSPAR 2010a. Bergen Statement. OSPAR Convention for the Protection of the Marine 
+Environment of the North-East Atlantic. Ministerial meeting of the OSPAR commission, 
+Bergen: 23-24 September 2010. 1–6. 
+- 
+OSPAR 2010b. North-East Atlantic Environment Strategy. Strategy of the OSPAR 
+commission for the protection of the marine environment of the North-East Atlantic 
+2010 – 2020. OSPAR Agreement 2010-3. 1–27. 
+- 
+Sheibling, R.E., Gagnon, P. 2009. Temperature-mediated outbreak dynamics of the 
+invasive bryozoan Membraniophora membranacea in Nova Scotian kelp beds. Marine 
+Ecology – Progress Series 390, 1–13. 
+ 
+- 
+Strand, Ø., (2019). Kamskjell. Havforskningsinstituttet. 
+https://www.hi.no/hi/temasider/arter/kamskjell 
+Akvaplan-niva 2023 64409.02   
+Side 28 av 30 
+- 
+Strong, J.A., Johnson, M. 2020. Converting SACFOR data for statistical analysis: 
+validation, demonstration and further possibilities. Marine Biodiversity Records 13. 
+https://doi.org/10.1186/s41200-020-0184-3 
+- 
+Wilson, S., Blake, C., Berges, J.A., Mags, C.A. 2004. Environmental tolerances of free-
+living coralline algae (maerl): implications for European marine conservation. 
+Biological Conservation 120, 283 – 293. 
+- 
+Pers. med. Katrin Reiss, seniorrådgiver, Statsforvalteren i Nordland.  
+ 
+Akvaplan-niva 2023 64409.02   
+Side 29 av 30 
+7 Vedlegg 
+7.1 Eksempelbilder av ruglbunn 
+ 
+Bildevedlegg 1  eksempelbilde av rugl som ble tatt bilde av når ROV var plassert på bunnen. Synsfelt er 150 cm. 
+ 
+Bildevedlegg 2 Eksempelbilde av rugl som ble tatt bilde av ved bredde på synsfelt er 133 cm. Prosentvis dekning 
+er vurdert som 20-39%. 
+Akvaplan-niva 2023 64409.02   
+Side 30 av 30 
+ 
+Bildevedlegg 3 Eksempelbilde av rugl som ble tatt bilde når bredde på synsfelt var 222 cm. Prosentvis dekning 
+er vurdert som 5 – 9 %..  
+ 
+Bildevedlegg 4 Eksempelbilde av rugl som ble tatt bilde når bredde på synsfelt var 259.. Prosentvis dekning er 
+vurdert som 1 – 5 %.

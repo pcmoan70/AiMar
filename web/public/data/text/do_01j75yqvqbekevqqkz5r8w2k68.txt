@@ -1,0 +1,105 @@
+﻿<root>
+  <avsender>
+    <adresselinje1>Postboks 185 Sentrum</adresselinje1>
+    <adresselinje2>
+    </adresselinje2>
+    <adresselinje3>
+    </adresselinje3>
+    <navn>Fiskeridirektoratet</navn>
+    <poststed>BERGEN</poststed>
+    <postnr>5804</postnr>
+  </avsender>
+  <mottaker>
+    <adresse1>Postboks 1485 Fylkeshuset</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>8048</postnr>
+    <poststed>Bodø</poststed>
+    <navn>Nordland Fylkeskommune</navn>
+    <land>
+    </land>
+    <orgnr>964982953</orgnr>
+    <fnr />
+  </mottaker>
+  <id>873b2761-6fce-4eaa-9cc1-09f95aa0a5cd</id>
+  <tittel>Isqueen AS 952217860 lokalitet 11198 Geiterøya I - Vedtak om pålegg om retting av feilplassering av anlegg</tittel>
+  <date>1687508200553</date>
+  <dateFormatert>2023-06-23T08:16:40</dateFormatert>
+  <metadataFraAvleverendeSystem>
+    <sakssekvensnummer>6791</sakssekvensnummer>
+    <saksaar>2023</saksaar>
+    <journalaar>2023</journalaar>
+    <journalsekvensnummer>43925</journalsekvensnummer>
+    <journalpostnummer>5</journalpostnummer>
+    <journalposttype>U</journalposttype>
+    <journalstatus>E</journalstatus>
+    <journaldato>1687298400000</journaldato>
+    <journaldatoFormatert>2023-06-20T22:00:00</journaldatoFormatert>
+    <dokumentetsDato>1687471200000</dokumentetsDato>
+    <dokumentetsDatoFormatert>2023-06-22T22:00:00</dokumentetsDatoFormatert>
+    <tittel>Isqueen AS 952217860 lokalitet 11198 Geiterøya I - Vedtak om pålegg om retting av feilplassering av anlegg</tittel>
+    <saksBehandler>Håkon Evanger</saksBehandler>
+  </metadataFraAvleverendeSystem>
+  <metadataForImport>
+    <sakssekvensnummer>0</sakssekvensnummer>
+    <saksaar>0</saksaar>
+    <journalposttype>
+    </journalposttype>
+    <journalstatus>
+    </journalstatus>
+    <dokumentetsDato />
+    <tittel>
+    </tittel>
+  </metadataForImport>
+  <status>Klar for mottak</status>
+  <niva>3</niva>
+  <filmetadata>
+    <filnavn>Isqueen AS 952217860 lokalitet 11198 Geiterøya I - Vedtak om pålegg om retting av feilplassering av anlegg.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>64bb4ddc79fa776f37af9ca256c30c7478164bf74c75e060b3f7f42f5d484694</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>326777</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Klageskjema.pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>20392a0ab7570d41ea9b257960d66acc33180ed3029de0e3a113c8915c36eb20</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>151389</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>Kart 11198 Geiterøya Illustrasjonskart som viser feilplassering av anlegg i forhold til klarert areal..pdf</filnavn>
+    <mimetype>application/pdf</mimetype>
+    <sha256hash>98c439bf5c07f913e89e6ce05ea533178f278450abab741130461de1b08dfe86</sha256hash>
+    <dokumentType>
+    </dokumentType>
+    <size>657037</size>
+  </filmetadata>
+  <filmetadata>
+    <filnavn>AcosSvarInn.xml</filnavn>
+    <mimetype>text/xml</mimetype>
+  </filmetadata>
+  <svarSendesTil>
+    <adresse1>Postboks 185 Sentrum</adresse1>
+    <adresse2>
+    </adresse2>
+    <adresse3>
+    </adresse3>
+    <postnr>5804</postnr>
+    <poststed>BERGEN</poststed>
+    <navn>Fiskeridirektoratet</navn>
+    <land />
+    <orgnr>971203420</orgnr>
+    <fnr />
+  </svarSendesTil>
+  <svarPaForsendelse />
+  <forsendelseType />
+  <eksternRef />
+  <downloadUrl>https://svarut.ks.no/tjenester/svarinn/forsendelse/873b2761-6fce-4eaa-9cc1-09f95aa0a5cd</downloadUrl>
+  <avgivendeSystem>ACOS WEBSAK+</avgivendeSystem>
+  <taushetsbelagtPost>false</taushetsbelagtPost>
+</root>
