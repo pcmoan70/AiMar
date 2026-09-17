@@ -320,6 +320,13 @@ function buildStyle(
       })
     }
   }
+  // Site-anchored point symbols (disease detections, escapes, surveys, biomass) sit exactly on the
+  // locality dots, which would otherwise cover them, so those rasters move above the dots.
+  const above = layers.filter((x) => layerById(x.id)?.aboveSites)
+  if (above.length && layers.some((x) => x.id === LOCALITIES_LAYER)) {
+    for (const x of above) layers.splice(layers.indexOf(x), 1)
+    layers.splice(layers.findIndex((x) => x.id === LOCALITIES_LAYER) + 1, 0, ...above)
+  }
   // Localities discussed in the Cases panel, ringed on top of everything. Own source, so the rings
   // work even when the locality overlay is off; the filter is updated in place as the list changes.
   if (caseSites?.length) {

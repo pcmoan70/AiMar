@@ -75,7 +75,7 @@ with `BASE_PATH=/`.
 - Measured currents from survey reports: mean and maximum speed with the
   dominant direction as an arrow at the site.
 - Reported biomass, seabed B- and C-surveys, current surveys, lice-treatment
-  prohibition zones, offshore aquaculture areas, disease records, environmental
+  prohibition zones, offshore aquaculture areas, environmental
   state and production intensity per water body (Fiskeridirektoratet).
 - Applications under processing: applied-for area, anchor points and the form
   data behind each application, linked to eInnsyn by application number.

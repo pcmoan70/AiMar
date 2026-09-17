@@ -13,7 +13,7 @@ export type Category = 'aquaculture' | 'seabed' | 'ocean' | 'environment' | 'fis
 
 /** Overlay tabs in display order, with the importance rank of layers inside each. */
 export const CATEGORIES: { id: Category; title: string; order: string[] }[] = [
-  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'applications', 'application-anchors', 'lice-week', 'lice-heat', 'biomass', 'site-polygons', 'treatment-heat', 'prod-areas', 'measured-currents', 'b-surveys', 'c-surveys', 'current-surveys', 'ban-bath', 'ban-chitin', 'disease-vet', 'offshore-aqua', 'nytek', 'disease-zones', 'escapes', 'current-points', 'deleted-sites'] },
+  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'applications', 'application-anchors', 'lice-week', 'lice-heat', 'biomass', 'site-polygons', 'treatment-heat', 'prod-areas', 'measured-currents', 'b-surveys', 'c-surveys', 'current-surveys', 'ban-bath', 'ban-chitin', 'offshore-aqua', 'nytek', 'disease-zones', 'escapes', 'current-points', 'deleted-sites'] },
   { id: 'seabed', title: 'Seabed', order: ['dybdedata', 'ngu-anchoring', 'ngu-sediment', 'ngu-deposition', 'ngu-slope'] },
   { id: 'ocean', title: 'Ocean', order: ['clim-waves', 'clim-wind', 'norkyst-current', 'norkyst-arrows', 'norkyst-temp', 'norkyst-salinity'] },
   { id: 'environment', title: 'Environment', order: ['naturvern', 'bunnhabitat', 'gyteomraader', 'salmon-fjords', 'coral-bans', 'shellfish', 'env-state', 'prod-intensity'] },
@@ -49,6 +49,8 @@ export interface LayerDef {
   opacity?: number
   maxzoom?: number
   description?: string
+  /** Point symbols placed on the locality positions: drawn above the locality dots, which would otherwise cover them. */
+  aboveSites?: boolean
 }
 
 const KV = 'https://cache.kartverket.no/v1/wmts/1.0.0'
@@ -201,6 +203,7 @@ export const LAYERS: LayerDef[] = [
     kind: 'wms',
     url: 'https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer',
     wmsLayers: 'nytek_strommaalingspunkt',
+    aboveSites: true,
     organisation: 'Fiskeridirektoratet',
     license: NLOD,
     attribution: '© Fiskeridirektoratet',
@@ -217,6 +220,7 @@ export const LAYERS: LayerDef[] = [
     kind: 'wms',
     url: 'https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer',
     wmsLayers: 'romming',
+    aboveSites: true,
     organisation: 'Fiskeridirektoratet',
     license: NLOD,
     attribution: '© Fiskeridirektoratet',
@@ -226,19 +230,22 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'disease-zones',
-    info: { kind: 'arcgis', keys: ['sykdommer', 'status_sykdom', 'lokalitetsnummer', 'dato_paavist'], presence: 'PD/ILA zone' },
+    info: { kind: 'arcgis', keys: ['sykdommer', 'status_sykdom', 'lokalitetsnummer', 'dato_paavist'], presence: 'PD/ILA detection' },
     category: 'aquaculture',
-    title: 'PD and ILA zones (Fiskeridirektoratet)',
+    title: 'PD and ILA detections',
     group: 'overlay',
     kind: 'wms',
     url: 'https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer',
+    // The service's "sykdomsdata_veterinaerinstituttet" group holds exactly these two layers; a WMS
+    // request for the group itself renders blank, so the sublayers are named directly.
     wmsLayers: 'pd_pancreas_disease,ila_infeksios_lakseanemi',
-    organisation: 'Fiskeridirektoratet',
+    aboveSites: true,
+    organisation: 'Veterinærinstituttet via Fiskeridirektoratet',
     license: NLOD,
     attribution: '© Fiskeridirektoratet',
     cache: 'cache-first',
     opacity: 0.4,
-    description: 'Control and surveillance zones for pancreas disease and infectious salmon anaemia.',
+    description: 'Localities with suspected or confirmed pancreas disease or infectious salmon anaemia, as reported by the Norwegian Veterinary Institute.',
   },
   {
     id: 'salmon-fjords',
@@ -628,6 +635,7 @@ export const LAYERS: LayerDef[] = [
     kind: 'wms',
     url: 'https://gis.fiskeridir.no/server/services/fiskeridirWMS_akva/MapServer/WMSServer',
     wmsLayers: 'biomasse',
+    aboveSites: true,
     organisation: 'Fiskeridirektoratet',
     license: NLOD,
     attribution: '© Fiskeridirektoratet',
@@ -644,6 +652,7 @@ export const LAYERS: LayerDef[] = [
     kind: 'wms',
     url: 'https://gis.fiskeridir.no/server/services/fiskeridirWMS_akva/MapServer/WMSServer',
     wmsLayers: 'b_undersokelser',
+    aboveSites: true,
     organisation: 'Fiskeridirektoratet',
     license: NLOD,
     attribution: '© Fiskeridirektoratet',
@@ -660,6 +669,7 @@ export const LAYERS: LayerDef[] = [
     kind: 'wms',
     url: 'https://gis.fiskeridir.no/server/services/fiskeridirWMS_akva/MapServer/WMSServer',
     wmsLayers: 'c_undersokelser',
+    aboveSites: true,
     organisation: 'Fiskeridirektoratet',
     license: NLOD,
     attribution: '© Fiskeridirektoratet',
@@ -676,6 +686,7 @@ export const LAYERS: LayerDef[] = [
     kind: 'wms',
     url: 'https://gis.fiskeridir.no/server/services/fiskeridirWMS_akva/MapServer/WMSServer',
     wmsLayers: 'stromundersokelser',
+    aboveSites: true,
     organisation: 'Fiskeridirektoratet',
     license: NLOD,
     attribution: '© Fiskeridirektoratet',
@@ -730,22 +741,6 @@ export const LAYERS: LayerDef[] = [
     cache: 'cache-first',
     opacity: 0.45,
     description: 'Areas identified, assessed or open for announcement for aquaculture offshore.',
-  },
-  {
-    id: 'disease-vet',
-    info: { kind: 'arcgis', keys: ['navn', 'sykdom', 'status', 'dato'], presence: 'disease record' },
-    category: 'aquaculture',
-    title: 'Disease records (Veterinærinstituttet)',
-    group: 'overlay',
-    kind: 'wms',
-    url: 'https://gis.fiskeridir.no/server/services/fiskeridirWMS_akva/MapServer/WMSServer',
-    wmsLayers: 'sykdomsdata_veterinaerinstituttet',
-    organisation: 'Fiskeridirektoratet',
-    license: NLOD,
-    attribution: '© Fiskeridirektoratet',
-    cache: 'cache-first',
-    opacity: 0.8,
-    description: 'Disease cases and zones reported by the Norwegian Veterinary Institute.',
   },
   {
     id: 'env-state',

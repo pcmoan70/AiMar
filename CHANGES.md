@@ -2,6 +2,17 @@
 
 ## 2026-09-17
 
+- Removed the "Disease records (Veterinærinstituttet)" overlay, which never
+  drew anything: it named a WMS group layer, and ArcGIS renders a group as
+  blank. Its two sublayers are the PD and ILA zones already offered as their
+  own overlay, with the same 31 and 17 records, so that layer now credits
+  Veterinærinstituttet as the source and is called "PD and ILA detections":
+  the data is localities with suspected or confirmed disease, not zones.
+- Site-anchored point overlays now draw above the locality dots. Disease
+  detections, escapes, biomass, the B, C and current surveys and the
+  current-measurement points sit exactly on the locality positions, and the
+  dots covered their symbols completely.
+
 - GUI tidy-up. The layer panel shows only title, source and licence per layer,
   with a **Descriptions** switch that brings the full text back; a source named
   in the title is no longer repeated underneath. The lice scrubber wraps its
