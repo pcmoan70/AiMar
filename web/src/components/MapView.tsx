@@ -179,7 +179,11 @@ function buildStyle(
           paint: {
             'line-color': CLIM_ARROW_COLOUR,
             'line-opacity': 0.8,
-            'line-width': ['interpolate', ['linear'], ['get', 'p90'], 0, 0.5, 8, 3.2] as unknown as ExpressionSpecification,
+            // Wind barbs count the speed themselves, so they keep an even weather-chart stroke;
+            // wave arrows carry the 90th percentile in their thickness.
+            'line-width': (l.id === 'clim-wind'
+              ? 1.3
+              : ['interpolate', ['linear'], ['get', 'p90'], 0, 0.5, 8, 3.2]) as unknown as ExpressionSpecification,
           },
         })
       }

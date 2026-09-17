@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react'
 import type { ImageSource, Map as MlMap } from 'maplibre-gl'
-import { arrowGeoJSON, climArrows, climArrowSource, CLIM_RAMP, loadClimGrid, setClimGrid, type ClimGrid, type ClimManifest } from '../lib/climatology'
+import { arrowGeoJSON, barbGeoJSON, climArrows, climArrowSource, CLIM_RAMP, loadClimGrid, setClimGrid, type ClimGrid, type ClimManifest } from '../lib/climatology'
 import { useSettings } from '../lib/settings'
 
 interface Props {
@@ -73,7 +73,8 @@ export default function ClimatologyLayer({ map, id, field, manifest }: Props) {
       const bounds: [number, number, number, number] = [b.getWest(), b.getSouth(), b.getEast(), b.getNorth()]
       // Just over half the lattice spacing, so the arrows read as a field and keep a gap.
       const { samples, step } = climArrows(g, bounds)
-      src.setData(arrowGeoJSON(samples, step * 0.6))
+      // Wind is read the way a weather chart draws it; waves keep a plain arrow.
+      src.setData(field === 'wind' ? barbGeoJSON(samples, step * 0.7) : arrowGeoJSON(samples, step * 0.6))
     }
     const schedule = () => {
       window.clearTimeout(timer.current)

@@ -190,3 +190,70 @@ export function arrowGeoJSON(samples: ArrowSample[], lengthDeg: number) {
     }),
   }
 }
+
+export const MS_TO_KNOTS = 1.9438445
+
+/** Half barbs, full barbs and pennants for a speed in knots, rounded to the nearest 5. */
+export function barbCounts(knots: number): { pennants: number; full: number; half: number } {
+  const k = Math.round(knots / 5) * 5
+  const pennants = Math.floor(k / 50)
+  const rest = k - pennants * 50
+  return { pennants, full: Math.floor(rest / 10), half: rest % 10 >= 5 ? 1 : 0 }
+}
+
+/** Below this the station is drawn as a ring instead of a shaft, as on a weather chart. */
+const CALM_KNOTS = 2.5
+
+/**
+ * Standard meteorological wind barbs. The shaft points into the wind, so it runs
+ * the opposite way of the direction the wind travels, and the barbs at its far end
+ * count the speed: a half barb is 5 knots, a full barb 10 and a pennant 50.
+ * `speed` picks which statistic the barbs count; the colour of the map shows the mean.
+ */
+export function barbGeoJSON(samples: ArrowSample[], lengthDeg: number, speed: (a: ArrowSample) => number = (a) => a.mean) {
+  return {
+    type: 'FeatureCollection' as const,
+    features: samples.map((a) => {
+      const knots = speed(a) * MS_TO_KNOTS
+      const lon = (d: number) => d / Math.max(0.2, Math.cos((a.lat * Math.PI) / 180))
+      // Local frame: `along` runs up the shaft (into the wind), `across` is perpendicular.
+      const rad = ((a.dir + 180) * Math.PI) / 180
+      const at = (along: number, across: number): [number, number] => [
+        a.lon + lon(Math.sin(rad) * along + Math.cos(rad) * across),
+        a.lat + Math.cos(rad) * along - Math.sin(rad) * across,
+      ]
+      const lines: [number, number][][] = []
+      if (knots < CALM_KNOTS) {
+        const r = lengthDeg * 0.12
+        lines.push(Array.from({ length: 17 }, (_, i) => at(r * Math.cos((i * Math.PI) / 8), r * Math.sin((i * Math.PI) / 8))))
+      } else {
+        lines.push([at(0, 0), at(lengthDeg, 0)])
+        const { pennants, full, half } = barbCounts(knots)
+        const gap = lengthDeg * 0.18
+        // Barbs sweep back from the shaft at 120°, the angle a weather chart draws them at.
+        const tip = (len: number): [number, number] => [Math.cos((120 * Math.PI) / 180) * len, Math.sin((120 * Math.PI) / 180) * len]
+        const [backFull, outFull] = tip(lengthDeg * 0.38)
+        // Barbs hang off the far end of the shaft and march back towards the station.
+        let pos = lengthDeg
+        for (let i = 0; i < pennants; i++) {
+          lines.push([at(pos, 0), at(pos + backFull, outFull), at(pos - gap, 0), at(pos, 0)])
+          pos -= gap * 1.6
+        }
+        for (let i = 0; i < full; i++) {
+          lines.push([at(pos, 0), at(pos + backFull, outFull)])
+          pos -= gap
+        }
+        // A lone half barb sits one place in from the tip, as on a weather chart.
+        if (half) {
+          if (!pennants && !full) pos -= gap
+          lines.push([at(pos, 0), at(pos + backFull * 0.5, outFull * 0.5)])
+        }
+      }
+      return {
+        type: 'Feature' as const,
+        geometry: { type: 'MultiLineString' as const, coordinates: lines },
+        properties: { dir: a.dir, mean: a.mean, p90: a.p90, knots: Math.round(knots) },
+      }
+    }),
+  }
+}

@@ -2,6 +2,12 @@
 
 ## 2026-09-17
 
+- Wind is drawn as standard meteorological wind barbs instead of plain arrows.
+  The shaft points into the wind, and the barbs at its far end count the mean
+  speed in knots: a half barb is 5, a full barb 10 and a pennant 50, rounded to
+  the nearest 5. Calm is a ring. The wave layer keeps its arrow, where the
+  thickness is the 90th percentile.
+
 - eInnsyn case history now reaches back to 2010. The backfill added 94 004
   journal entries, so the archive holds 134 176 entries in 15 577 cases for
   1 704 localities, and cases.json grew from 19 MB to 52 MB.
