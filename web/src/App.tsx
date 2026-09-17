@@ -197,6 +197,7 @@ function MapApp() {
                 tides={tides}
                 applications={applications}
                 onSelectApplication={(props) => setSelection({ type: 'application', props })}
+                map={map}
               />}
             {s.panel === 'cases' && (
               <CasesPanel

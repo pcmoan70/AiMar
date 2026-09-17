@@ -2,6 +2,13 @@
 
 ## 2026-09-17
 
+- The site panel gained an **At this site** section: every overlay switched on
+  in the Layers tab is looked up at the farm's position and listed with its
+  value, the same rows the hover card shows under the pointer. Both share one
+  lookup module. Traffic-density layers now report the busiest lane within
+  1 km of the point instead of the single pixel under it, and the anchor points
+  of pending applications answer the lookup too.
+
 - **With text** and **Group by case** are now one setting each, shared between
   the Cases panel and the site panel's case history and remembered on the
   device, so the two lists always agree.

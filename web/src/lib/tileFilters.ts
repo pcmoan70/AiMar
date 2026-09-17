@@ -81,6 +81,44 @@ export function sampleDensity(wmsLayers: string, mercX: number, mercY: number): 
   return Math.min(4, Math.floor(rankOf(best.filter, r, g, b) * 5))
 }
 
+/**
+ * Highest traffic rank within `radius` (Web-Mercator units) of a point: a farm cares about the
+ * busiest lane nearby, not the one pixel under the cursor. Reads the finest tiles loaded.
+ */
+export function sampleDensityMax(wmsLayers: string, mercX: number, mercY: number, radius: number): number | 'none' | undefined {
+  const hits = [...tileCache.values()].filter((t) => {
+    if (t.layers !== wmsLayers) return false
+    const [x0, y0, x1, y1] = t.bbox
+    return mercX + radius >= x0 && mercX - radius < x1 && mercY + radius >= y0 && mercY - radius < y1
+  })
+  if (!hits.length) return undefined
+  const finest = Math.min(...hits.map((t) => t.bbox[2] - t.bbox[0]))
+  let best = -1
+  let seen = false
+  for (const t of hits) {
+    const [x0, y0, x1, y1] = t.bbox
+    if (x1 - x0 !== finest) continue
+    const sx = t.width / (x1 - x0)
+    const sy = t.height / (y1 - y0)
+    const px0 = Math.max(0, Math.floor((mercX - radius - x0) * sx))
+    const px1 = Math.min(t.width - 1, Math.ceil((mercX + radius - x0) * sx))
+    const py0 = Math.max(0, Math.floor((y1 - (mercY + radius)) * sy))
+    const py1 = Math.min(t.height - 1, Math.ceil((y1 - (mercY - radius)) * sy))
+    for (let py = py0; py <= py1; py++)
+      for (let px = px0; px <= px1; px++) {
+        const dx = x0 + (px + 0.5) / sx - mercX
+        const dy = y1 - (py + 0.5) / sy - mercY
+        if (dx * dx + dy * dy > radius * radius) continue
+        seen = true
+        const i = (py * t.width + px) * 4
+        if (t.data[i + 3] === 0) continue
+        best = Math.max(best, Math.min(4, Math.floor(rankOf(t.filter, t.data[i], t.data[i + 1], t.data[i + 2]) * 5)))
+      }
+  }
+  if (!seen) return undefined
+  return best < 0 ? 'none' : best
+}
+
 export function registerTileFilters(): void {
   addProtocol(PROTOCOL, async (params, abort) => {
     const rest = params.url.slice(PROTOCOL.length + 3)

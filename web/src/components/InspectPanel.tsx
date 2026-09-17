@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import type { Map as MlMap } from 'maplibre-gl'
+import SiteOverlays from './SiteOverlays'
 import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, liceStatsIndex, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
 import type { ApplicationProps } from '../lib/localities'
@@ -26,12 +28,13 @@ interface Props {
   tides: Tides | null
   applications: ApplicationProps[] | null
   onSelectApplication: (props: ApplicationProps) => void
+  map: MlMap | null
 }
 
 const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0, 10) : '–')
 const fmt = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
 
-export default function InspectPanel({ selection, localities, fishhealth, cases, casesFailed, seatemp, tides, applications, onSelectApplication }: Props) {
+export default function InspectPanel({ selection, localities, fishhealth, cases, casesFailed, seatemp, tides, applications, onSelectApplication, map }: Props) {
   const t = useT()
   const { operatorFilter, fieldFilters, casesOnlyText: onlyText, casesGrouped: groupCases } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
@@ -167,6 +170,10 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
               <Hint id="tides" text={t('hint.tides', { gauge: td.gauge ?? '–', factor: td.factor ?? 1, year: tides.year })}>{t('inspect.tides')}</Hint>: {t('inspect.tidesValue', { mean: td.meanRange, max: td.maxRange, high: td.meanHigh, low: td.meanLow })}
             </p>
           )
+        })()}
+        {(() => {
+          const f = localities?.features.find((x) => x.properties.loknr === p.loknr)
+          return f ? <SiteOverlays map={map} loknr={p.loknr} lngLat={f.geometry.coordinates as [number, number]} /> : null
         })()}
         <h3>{t('inspect.fishHealth')}</h3>
         {series && sum ? (

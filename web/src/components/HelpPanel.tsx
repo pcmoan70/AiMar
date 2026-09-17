@@ -3,7 +3,7 @@ import { useT } from '../lib/i18n'
 const SECTIONS: { id: string; items: number }[] = [
   { id: 'header', items: 4 },
   { id: 'map', items: 9 },
-  { id: 'site', items: 4 },
+  { id: 'site', items: 5 },
   { id: 'chart', items: 4 },
   { id: 'cases', items: 4 },
   { id: 'layers', items: 5 },

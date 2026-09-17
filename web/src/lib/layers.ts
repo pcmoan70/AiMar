@@ -51,6 +51,8 @@ export interface LayerDef {
   description?: string
   /** Point symbols placed on the locality positions: drawn above the locality dots, which would otherwise cover them. */
   aboveSites?: boolean
+  /** Density layers: hover and site lookups report the highest value within this radius rather than the point value. */
+  lookup?: { radiusM: number }
 }
 
 const KV = 'https://cache.kartverket.no/v1/wmts/1.0.0'
@@ -578,6 +580,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ais-density-2024',
+    lookup: { radiusM: 1000 },
     category: 'shipping',
     tileFilter: 'ais-hue',
     title: 'AIS traffic density 2024 (Kystverket MarTraf)',
@@ -595,6 +598,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ais-density-month',
+    lookup: { radiusM: 1000 },
     category: 'shipping',
     tileFilter: 'ais-hue',
     title: 'AIS traffic density, April 2025 (Kystverket MarTraf)',
@@ -612,6 +616,7 @@ export const LAYERS: LayerDef[] = [
   },
   {
     id: 'ais-density',
+    lookup: { radiusM: 1000 },
     category: 'shipping',
     tileFilter: 'ais-white',
     title: 'AIS vessel track density 2022, 1 km (Kystverket)',
