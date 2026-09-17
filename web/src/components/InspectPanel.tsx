@@ -33,10 +33,8 @@ const fmt = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDig
 
 export default function InspectPanel({ selection, localities, fishhealth, cases, casesFailed, seatemp, tides, applications, onSelectApplication }: Props) {
   const t = useT()
-  const { operatorFilter, fieldFilters } = useSettings()
+  const { operatorFilter, fieldFilters, casesOnlyText: onlyText, casesGrouped: groupCases } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
-  const [onlyText, setOnlyText] = useState(false)
-  const [groupCases, setGroupCases] = useState(false)
   const fmtNum = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
   if (!selection) return <div className="panel-body muted">{t('inspect.empty')}</div>
 
@@ -238,12 +236,12 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
               <>
                 <div className="cases-boxes">
                   <label className="cases-onlytext" title={t('cases.onlyTextTitle', { n: withText.length, d: textDocs })}>
-                    <input type="checkbox" checked={onlyText} onChange={(e) => setOnlyText(e.target.checked)} disabled={!withText.length} />{' '}
+                    <input type="checkbox" checked={onlyText} onChange={(e) => updateSettings({ casesOnlyText: e.target.checked })} disabled={!withText.length} />{' '}
                     {t('cases.onlyText', { n: withText.length })}
                   </label>
                   {cases.cases && (
                     <label className="cases-onlytext" title={t('inspect.groupOrder')}>
-                      <input type="checkbox" checked={groupCases} onChange={(e) => setGroupCases(e.target.checked)} /> {t('cases.group')}
+                      <input type="checkbox" checked={groupCases} onChange={(e) => updateSettings({ casesGrouped: e.target.checked })} /> {t('cases.group')}
                     </label>
                   )}
                 </div>

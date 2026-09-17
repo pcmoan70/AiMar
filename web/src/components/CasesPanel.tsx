@@ -2,6 +2,7 @@ import { useCallback, useDeferredValue, useEffect, useMemo, useState } from 'rea
 import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, searchHaystack, searchRows, sortRows, type CaseKind, type CaseRow, type CaseSort, type Cases } from '../lib/cases'
 import type { Localities } from '../lib/localities'
 import { useT } from '../lib/i18n'
+import { updateSettings, useSettings } from '../lib/settings'
 import Hint from './Hint'
 import CaseDocs, { CaseDocsDot } from './CaseDocs'
 
@@ -29,8 +30,8 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
   const [desc, setDesc] = useState(true)
   const [kinds, setKinds] = useState<Set<CaseKind>>(() => new Set(CASE_KINDS))
   const [shown, setShown] = useState(PAGE)
-  const [grouped, setGrouped] = useState(true)
-  const [onlyText, setOnlyText] = useState(false)
+  // Shared with the site panel's case history, so the two lists always agree.
+  const { casesGrouped: grouped, casesOnlyText: onlyText } = useSettings()
 
   const names = useMemo(() => new Map(localities?.features.map((f) => [f.properties.loknr, f.properties.navn]) ?? []), [localities])
   const siteName = (nr: number) => names.get(nr) ?? String(nr)
@@ -132,7 +133,7 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
         </button>
         {cases.cases && (
           <label>
-            <input type="checkbox" checked={grouped} onChange={(e) => setGrouped(e.target.checked)} /> {t('cases.group')}
+            <input type="checkbox" checked={grouped} onChange={(e) => updateSettings({ casesGrouped: e.target.checked })} /> {t('cases.group')}
           </label>
         )}
         <label title={t('cases.onlyTextTitle', { n: textCount, d: textDocs })}>
@@ -140,7 +141,7 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
             type="checkbox"
             checked={onlyText}
             onChange={(e) => {
-              setOnlyText(e.target.checked)
+              updateSettings({ casesOnlyText: e.target.checked })
               setShown(PAGE)
             }}
           />{' '}

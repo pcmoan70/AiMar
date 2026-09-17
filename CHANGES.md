@@ -2,6 +2,10 @@
 
 ## 2026-09-17
 
+- **With text** and **Group by case** are now one setting each, shared between
+  the Cases panel and the site panel's case history and remembered on the
+  device, so the two lists always agree.
+
 - Removed the "Disease records (Veterinærinstituttet)" overlay, which never
   drew anything: it named a WMS group layer, and ArcGIS renders a group as
   blank. Its two sublayers are the PD and ILA zones already offered as their

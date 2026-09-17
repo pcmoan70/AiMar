@@ -42,6 +42,10 @@ export interface Settings {
   climMonth: number
   /** Show every overlay's description in the layer panel, not only its title and source. */
   layerDetails: boolean
+  /** Case lists (Cases panel and site panel) show only entries whose document text is bundled. */
+  casesOnlyText: boolean
+  /** Case lists collect the correspondence per case file. */
+  casesGrouped: boolean
 }
 
 const KEY = 'aimar.settings.v1'
@@ -66,6 +70,8 @@ export const DEFAULT_SETTINGS: Settings = {
   warmC: 12.5,
   climMonth: 1,
   layerDetails: false,
+  casesOnlyText: false,
+  casesGrouped: true,
 }
 
 function load(): Settings {
