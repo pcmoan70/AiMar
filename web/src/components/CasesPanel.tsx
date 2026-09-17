@@ -1,5 +1,5 @@
-import { useCallback, useEffect, useMemo, useState } from 'react'
-import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, searchRows, sortRows, type CaseKind, type CaseRow, type CaseSort, type Cases } from '../lib/cases'
+import { useCallback, useDeferredValue, useEffect, useMemo, useState } from 'react'
+import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, searchHaystack, searchRows, sortRows, type CaseKind, type CaseRow, type CaseSort, type Cases } from '../lib/cases'
 import type { Localities } from '../lib/localities'
 import { useT } from '../lib/i18n'
 import Hint from './Hint'
@@ -23,6 +23,8 @@ const PAGE = 200
 export default function CasesPanel({ cases, casesFailed, localities, loknrs, onPick, onSites }: Props) {
   const t = useT()
   const [query, setQuery] = useState('')
+  // 134 000 entries are too many to re-filter on every keystroke, so the list trails the input.
+  const deferredQuery = useDeferredValue(query)
   const [sort, setSort] = useState<CaseSort>('date')
   const [desc, setDesc] = useState(true)
   const [kinds, setKinds] = useState<Set<CaseKind>>(() => new Set(CASE_KINDS))
@@ -45,10 +47,13 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
   // The filter counts journal entries; one entry can carry dozens of documents, so name both.
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const textDocs = useMemo(() => all.reduce((n, r) => n + (cases?.docs?.[r.entry.id]?.filter((d) => d.text).length ?? 0), 0), [all, cases])
+  // Built once per data change, not per keystroke; siteName and caseTitle follow names and cases.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const hays = useMemo(() => searchHaystack(all, siteName, caseTitle), [all, names, cases])
   const rows = useMemo(
-    () => sortRows(searchRows(all, query, siteName, caseTitle).filter((r) => kinds.has(r.kind) && (!onlyText || hasText(r.entry.id))), sort, desc, siteName),
+    () => sortRows(searchRows(all, deferredQuery, siteName, caseTitle, hays).filter((r) => kinds.has(r.kind) && (!onlyText || hasText(r.entry.id))), sort, desc, siteName),
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    [all, query, kinds, sort, desc, names, onlyText, cases],
+    [all, deferredQuery, hays, kinds, sort, desc, names, onlyText, cases],
   )
   const siteCount = loknrs ? loknrs.length : (localities?.features.length ?? 0)
   // Ring the localities of the rows currently listed; clear the rings when the panel closes.

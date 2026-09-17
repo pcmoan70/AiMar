@@ -130,14 +130,20 @@ export function sortRows(rows: CaseRow[], sort: CaseSort, desc: boolean, siteNam
   })
 }
 
+/**
+ * The lowercased text each row is searched in, one string per row. Building it is the
+ * expensive half of a search, so callers that type into a list memoise it and pass it back.
+ */
+export function searchHaystack(rows: CaseRow[], siteName: (loknr: number) => string, caseTitle: (sak: string) => string = () => ''): string[] {
+  return rows.map((r) => `${r.entry.title} ${r.entry.sak ? caseTitle(r.entry.sak) : ''} ${r.entry.entity} ${r.loknrs.map(siteName).join(' ')}`.toLowerCase())
+}
+
 /** Case-insensitive substring match on title, case title, authority and site names; every word must match. */
-export function searchRows(rows: CaseRow[], query: string, siteName: (loknr: number) => string, caseTitle: (sak: string) => string = () => ''): CaseRow[] {
+export function searchRows(rows: CaseRow[], query: string, siteName: (loknr: number) => string, caseTitle: (sak: string) => string = () => '', hays?: string[]): CaseRow[] {
   const words = query.toLowerCase().split(/\s+/).filter(Boolean)
   if (!words.length) return rows
-  return rows.filter((r) => {
-    const hay = `${r.entry.title} ${r.entry.sak ? caseTitle(r.entry.sak) : ''} ${r.entry.entity} ${r.loknrs.map(siteName).join(' ')}`.toLowerCase()
-    return words.every((w) => hay.includes(w))
-  })
+  const hay = hays ?? searchHaystack(rows, siteName, caseTitle)
+  return rows.filter((_, i) => words.every((w) => hay[i].includes(w)))
 }
 
 export interface CaseGroup {

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { caseRows, searchRows, sortRows, type Cases } from '../cases'
+import { caseRows, searchHaystack, searchRows, sortRows, type Cases } from '../cases'
 
 const data: Cases = {
   retrieved: '2026-09-14T00:00:00Z',
@@ -50,5 +50,13 @@ describe('case grouping', () => {
     expect(groups.map((g) => [g.nr, g.rows.length])).toEqual([['2026/1', 2], ['', 1]])
     expect(groups[0].title).toBe('Akvakultur - Skipbåten')
     expect(searchRows(rows, 'akvakultur', name, (s) => withCases.cases![s]?.title ?? '').map((r) => r.entry.id)).toEqual(['a', 'b'])
+  })
+})
+
+describe('searchHaystack', () => {
+  it('gives the same results as searching without it', () => {
+    const all = caseRows(data, null)
+    const hays = searchHaystack(all, name)
+    for (const q of ['fornes', 'fornes mattilsynet', 'ingenting']) expect(searchRows(all, q, name, undefined, hays)).toEqual(searchRows(all, q, name))
   })
 })

@@ -1,5 +1,21 @@
 # Changes
 
+## 2026-09-17
+
+- eInnsyn case history now reaches back to 2010. The backfill added 94 004
+  journal entries, so the archive holds 134 176 entries in 15 577 cases for
+  1 704 localities, and cases.json grew from 19 MB to 52 MB.
+- 4 277 more documents were downloaded and their text extracted, so 8 534 of
+  8 580 known documents open as text in the app. The bundled texts are 123 MB
+  and are fetched per document, never precached.
+- Measured currents rose from 24 to 65 readings at 38 localities, 57 with a
+  maximum speed and 37 with a dominant direction, all read out of the newly
+  extracted survey reports.
+- The Cases list stays responsive at that size: the searchable text is built
+  once per data change instead of once per keystroke, and the list trails the
+  input rather than blocking it. Worst keystroke fell from about 390 ms to
+  about 220 ms.
+
 ## 2026-09-16
 
 - Wave and wind monthly normals: the month selector now sits on the map itself,
