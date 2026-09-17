@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import type { Map as MlMap, MapMouseEvent } from 'maplibre-gl'
 import { enabledOverlays, fetchInfoRows, instantRows, type LookupRow } from '../lib/overlayLookup'
 import { getSettings } from '../lib/settings'
-import { t, useLang } from '../lib/i18n'
+import { useLang } from '../lib/i18n'
 
 interface Props {
   map: MlMap | null
@@ -56,15 +56,17 @@ export default function HoverInfo({ map }: Props) {
     }
   }, [map, lang])
 
-  if (!pos || !rows.length) return null
+  // Only overlays with something at this point are listed; a row still loading keeps its place.
+  const shown = rows.filter((r) => r.value !== null)
+  if (!pos || !shown.length) return null
   const flipX = pos.x > (map?.getContainer().clientWidth ?? 0) - 280
   return (
     <div className="hover-card" style={{ left: pos.x + (flipX ? -16 : 16), top: pos.y + 16, transform: flipX ? 'translateX(-100%)' : undefined }}>
-      {rows.map((r) => (
+      {shown.map((r) => (
         <div key={r.id} className="hover-row">
           <span className="hover-title">{r.title}</span>
           <span className={`hover-value${r.value ? '' : ' muted'}`}>
-            {r.value === undefined ? '…' : r.value === null ? t('hover.nothing') : r.value}
+            {r.value === undefined ? '…' : r.value}
           </span>
         </div>
       ))}

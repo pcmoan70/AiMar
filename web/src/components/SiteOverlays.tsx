@@ -46,16 +46,19 @@ export default function SiteOverlays({ map, loknr, lngLat }: Props) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [map, loknr, lngLat[0], lngLat[1], overlays, s.climMonth, s.liceWeek, s.seasonWeek, s.weekAxis, s.weekHeatMode, s.heatRadiusKm, lang])
 
+  // Only overlays with something at the site are listed; the section is empty when none has.
+  const shown = rows.filter((r) => r.value !== null)
+  if (rows.length && !shown.length) return null
   return (
     <>
       <h3>{t('inspect.atSite')}</h3>
-      {rows.length ? (
+      {shown.length ? (
         <table className="kv site-overlays">
           <tbody>
-            {rows.map((r) => (
+            {shown.map((r) => (
               <tr key={r.id}>
                 <th>{r.title}</th>
-                <td className={r.value ? '' : 'muted'}>{r.value === undefined ? '…' : r.value === null ? t('hover.nothing') : r.value}</td>
+                <td className={r.value ? '' : 'muted'}>{r.value === undefined ? '…' : r.value}</td>
               </tr>
             ))}
           </tbody>

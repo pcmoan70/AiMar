@@ -8,6 +8,8 @@
   lookup module. Traffic-density layers now report the busiest lane within
   1 km of the point instead of the single pixel under it, and the anchor points
   of pending applications answer the lookup too.
+  Overlays with nothing at the point are left out of the hover card and the
+  site section instead of being listed as "nothing here".
 
 - **With text** and **Group by case** are now one setting each, shared between
   the Cases panel and the site panel's case history and remembered on the
