@@ -147,6 +147,18 @@ CI, so no token ever reaches the browser. A scheduled workflow
 (`.github/workflows/refresh-data.yml`) refreshes all snapshots every Monday and
 redeploys when the data changed.
 
+The eInnsyn archive is refreshed nightly on the machine that holds the document
+archive: `pipeline/einnsyn_daily.sh` runs from crontab at midnight and, one step
+at a time, fetches the journal entries updated since the last run, downloads
+their published files to the external disk, extracts searchable text from every
+new file (PDF text, OCR where needed, pandoc for Office files), attaches the
+texts to `docs.json`, bundles them under `public/data/text/` and re-reads the
+current-survey reports. It logs one line per step to
+`<archive>/logs/einnsyn_daily.log` and a one-line summary to
+`einnsyn_daily.status`. Run it with `--push` (or `AIMAR_PUSH=1`) to also commit
+and push the data files when they changed; the cron entry runs without it, so
+publishing stays a deliberate step.
+
 ## Roadmap
 
 Next up: NorKyst climatological statistics, hypothetical-site physical features

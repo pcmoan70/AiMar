@@ -145,6 +145,14 @@ precaches all three, so they are available on first offline start. The
 `refresh-data` workflow runs the script weekly and commits + redeploys when the
 data changed.
 
+`pipeline/einnsyn_daily.sh` is the nightly local chain for the eInnsyn archive
+(crontab, 00:00): `fetch-cases.mjs` (incremental, `oppdatertDatoFrom` from its
+own state) → `fetch-docs.mjs` (files to `DOCS_DIR` on the external disk) →
+`pipeline/docs/extract_text.py` in the `aimar-ocr` conda env (idempotent by
+SHA-256, provenance index) → `apply-doc-text.mjs` → `copy-doc-text.mjs` →
+`extract-currents.mjs`. A flock prevents overlapping runs, the archive disk must
+be mounted, and `--push` makes it commit and push the data files.
+
 `scripts/fetch-fishhealth.mjs` obtains a BarentsWatch token with client
 credentials (from `web/.env.local` locally, repository secrets in CI), then
 calls `fishhealth/locality/{year}/{week}` once per ISO week from 2012 (start of

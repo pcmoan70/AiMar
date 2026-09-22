@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-09-22
+
+- Nightly eInnsyn refresh: `pipeline/einnsyn_daily.sh`, run from crontab at
+  midnight on the archive machine, fetches the journal entries updated since
+  the last run, downloads their published files, extracts searchable text from
+  each new file and bundles it for the app. Logs per step on the archive disk;
+  `--push` also commits and pushes the data.
+
 ## 2026-09-17
 
 - The site panel gained an **At this site** section: every overlay switched on
