@@ -8,7 +8,7 @@
 //   node scripts/fetch-cases.mjs --full       re-harvest the whole period
 //   node scripts/fetch-cases.mjs --rematch    re-run the matcher on the stored entries, no API calls
 //   node scripts/fetch-cases.mjs --backfill 2010-01-01   add older months in front of the snapshot
-import { readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { setDefaultAutoSelectFamilyAttemptTimeout } from 'node:net';
 // Node gives each address family 250 ms by default; slow hosts (api.einnsyn.no) then fail with ETIMEDOUT while curl succeeds.
 setDefaultAutoSelectFamilyAttemptTimeout(10000);
@@ -98,7 +98,13 @@ const backfill = args.has('--backfill') && /^\d{4}-\d{2}-\d{2}$/.test(backfillFr
 const prev = await readFile(new URL('cases.json', OUT), 'utf8').then(JSON.parse, () => null);
 const full = args.has('--full') || (!rematch && !backfill && !prev?.retrieved);
 const now = new Date();
-const from = backfill ? new Date(`${backfillFrom}T00:00:00Z`) : new Date(Date.UTC(now.getUTCFullYear() - YEARS_BACK, now.getUTCMonth(), 1));
+// The window never shrinks: an incremental run keeps the stored snapshot's start (2010 after the
+// backfill), and only a full harvest falls back to the last YEARS_BACK years.
+const from = backfill
+  ? new Date(`${backfillFrom}T00:00:00Z`)
+  : !full && prev?.from
+    ? new Date(`${prev.from}T00:00:00Z`)
+    : new Date(Date.UTC(now.getUTCFullYear() - YEARS_BACK, now.getUTCMonth(), 1));
 const fromIso = from.toISOString().slice(0, 10);
 /** Backfill stops where the stored snapshot already begins. */
 const backfillTo = backfill ? new Date(`${prev.from}T00:00:00Z`) : null;
@@ -106,8 +112,9 @@ const entries = new Map(); // id -> entry (+loknrs)
 const cases = new Map(); // case externalId -> { id, nr, title }
 const entityNames = new Map();
 let fetched = 0;
+const fresh = new Set(); // entry ids read from the API in this run: new, or updated (new attachments, titles)
 
-const entryOf = (it) => ({
+const entryOf = (it) => (fresh.add(it.id), {
   id: it.id,
   // einnsyn.no opens an entry as /saksmappe?id=<case externalId>&jid=<entry externalId>
   ext: it.externalId ?? null,
@@ -254,6 +261,12 @@ const out = {
   localities: perLocality,
 };
 await writeFile(new URL('cases.json', OUT), JSON.stringify(out));
+// Hand the entries touched in this run to fetch-docs, so it re-reads them for new attachments.
+if (!rematch) {
+  const touchedUrl = new URL('../data-state/cases-touched.json', import.meta.url);
+  await mkdir(new URL('.', touchedUrl), { recursive: true });
+  await writeFile(touchedUrl, JSON.stringify({ retrieved: out.retrieved, entries: [...fresh].filter((id) => entries.has(id)) }));
+}
 
 const manifestUrl = new URL('manifest.json', OUT);
 const manifest = JSON.parse(await readFile(manifestUrl, 'utf8'));

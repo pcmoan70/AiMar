@@ -40,12 +40,23 @@ cd "$REPO/web" || exit 1
 log "start (push=$PUSH, $(free_disk) free)"
 
 # 1. Journal entries updated since the last snapshot (the script keeps its own state).
+count_entries() { $NODE -e "process.stdout.write(String(require('./public/data/cases.json').entries.length))" 2>/dev/null || echo 0; }
+ENTRIES_BEFORE=$(count_entries)
 if ! $NODE scripts/fetch-cases.mjs > "$ARCHIVE/logs/fetch-cases.last.log" 2>&1; then
   log "fetch-cases FAILED, see fetch-cases.last.log; stopping"
   echo "$(stamp) FAILED at fetch-cases" > "$STATUS"
   exit 1
 fi
 CASES=$(grep -oE "^cases.json: [0-9]+ entries in [0-9]+ cases for [0-9]+ localities" "$ARCHIVE/logs/fetch-cases.last.log" | tail -n 1)
+ENTRIES_AFTER=$(count_entries)
+# An incremental run only adds and updates; fewer entries means the window shrank or the API
+# answered short, and the last good snapshot is put back rather than propagated.
+if (( ENTRIES_AFTER < ENTRIES_BEFORE )); then
+  log "fetch-cases produced $ENTRIES_AFTER entries, fewer than the $ENTRIES_BEFORE before: restoring the last snapshot and stopping"
+  (cd "$REPO" && git checkout -- web/public/data/cases.json web/public/data/manifest.json)
+  echo "$(stamp) FAILED at fetch-cases (entry count fell)" > "$STATUS"
+  exit 1
+fi
 log "fetch-cases ok: ${CASES:-no summary line}"
 
 # 2. Files published for the new entries (permanent 502s stay pending, retried next night).

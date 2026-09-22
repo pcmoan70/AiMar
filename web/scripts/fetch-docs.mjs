@@ -50,11 +50,16 @@ await mkdir(DOCS_DIR, { recursive: true });
 const cases = JSON.parse(await readFile(new URL('cases.json', OUT), 'utf8'));
 const prev = await readFile(new URL('docs.json', OUT), 'utf8').then(JSON.parse, () => ({ docs: {} }));
 const state = await readFile(STATE, 'utf8').then(JSON.parse, () => ({ seen: prev.seen ?? [], pending: prev.pending ?? [] }));
+// Entries the last fetch-cases run read from the API: looked up again even when seen, since an
+// updated entry may carry new attachments or changed titles. Done once per cases run.
+const TOUCHED = new URL('../data-state/cases-touched.json', import.meta.url);
+const touched = await readFile(TOUCHED, 'utf8').then(JSON.parse, () => null);
+const touchedNow = touched && touched.retrieved !== state.touchedDone ? touched.entries : [];
 const docs = prev.docs ?? {};
 const seen = new Set(state.seen ?? []); // entry ids already looked up (with or without documents)
 let pending = state.pending ?? []; // documents found but not yet fetched (checkpoint)
 const refreshMeta = process.argv.includes('--refresh-meta');
-const todo = refreshMeta ? Object.keys(docs) : cases.entries.map((e) => e.id).filter((id) => !seen.has(id));
+const todo = refreshMeta ? Object.keys(docs) : [...new Set([...cases.entries.map((e) => e.id).filter((id) => !seen.has(id)), ...touchedNow])];
 async function save() {
   for (const k of Object.keys(docs)) docs[k] = [...new Map(docs[k].map((x) => [x.id, x])).values()];
   let total = 0;
@@ -63,10 +68,10 @@ async function save() {
   await writeFile(target + '.tmp', JSON.stringify({ retrieved: new Date().toISOString(), bytes: total, docs }));
   await rename(target + '.tmp', target); // atomic replace
   await mkdir(new URL('.', STATE), { recursive: true });
-  await writeFile(STATE, JSON.stringify({ seen: [...seen], pending }));
+  await writeFile(STATE, JSON.stringify({ seen: [...seen], pending, touchedDone: touchedNow.length ? touched.retrieved : state.touchedDone }));
   return total;
 }
-console.log(`${todo.length} entries to look up (${seen.size} already known, ${Object.keys(docs).length} with documents)`);
+console.log(`${todo.length} entries to look up (${seen.size} already known, ${touchedNow.length} re-read for updates, ${Object.keys(docs).length} with documents)`);
 
 // ---- find document objects, 100 entries per call
 const found = [...pending]; // { entry, id, title, format }
@@ -93,8 +98,9 @@ for (let i = 0; i < todo.length; i += 100) {
   if ((i / 100) % 50 === 0) console.log(`  ${Math.min(i + 100, todo.length)}/${todo.length} entries scanned, ${found.length} documents found`);
   await sleep(150);
 }
-if (refreshMeta) {
-  // Update what is already stored (title, number, role), then keep only genuinely missing files pending.
+{
+  // Update what is already stored (title, number, role), then keep only genuinely missing files
+  // pending: a re-read entry brings back every document, and only the new ones are downloaded.
   const byId = new Map(found.map((d) => [d.id, d]));
   let updated = 0;
   for (const list of Object.values(docs)) {
@@ -111,7 +117,7 @@ if (refreshMeta) {
   const have = new Set(Object.values(docs).flatMap((l) => l.map((d) => d.id)));
   found.length = 0;
   for (const [id, d] of byId) if (!have.has(id)) found.push(d);
-  console.log(`refresh-meta: ${updated} documents updated, ${found.length} still missing`);
+  if (updated || refreshMeta) console.log(`${updated} stored documents updated, ${found.length} still missing`);
 }
 pending = found;
 await save();

@@ -65,15 +65,6 @@
       "retrieved": "2026-09-16T08:06:01.137Z"
     },
     {
-      "file": "cases.json",
-      "organisation": "eInnsyn (Digitaliseringsdirektoratet)",
-      "dataset": "Public-record journal entries on aquaculture cases matched to localities (2010-01-01 onwards)",
-      "url": "https://api.einnsyn.no/search?query=akvakultur",
-      "license": "NLOD 2.0",
-      "featureCount": 134176,
-      "retrieved": "2026-09-16T11:44:36.670Z"
-    },
-    {
       "file": "current_measurements.geojson",
       "organisation": "eInnsyn (report authors: Åkerblå, Akvaplan-niva and others)",
       "dataset": "Measured current speed and direction read out of NS 9425 survey reports published on eInnsyn",
@@ -81,6 +72,15 @@
       "license": "NLOD 2.0",
       "featureCount": 65,
       "retrieved": "2026-09-17T01:33:44.202Z"
+    },
+    {
+      "file": "cases.json",
+      "organisation": "eInnsyn (Digitaliseringsdirektoratet)",
+      "dataset": "Public-record journal entries on aquaculture cases matched to localities (2010-01-01 onwards)",
+      "url": "https://api.einnsyn.no/search?query=akvakultur",
+      "license": "NLOD 2.0",
+      "featureCount": 135856,
+      "retrieved": "2026-09-22T20:46:25.218Z"
     }
   ]
 }

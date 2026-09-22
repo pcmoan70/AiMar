@@ -7,6 +7,12 @@
   the last run, downloads their published files, extracts searchable text from
   each new file and bundles it for the app. Logs per step on the archive disk;
   `--push` also commits and pushes the data.
+- Fixed the incremental eInnsyn harvest, which cut the archive back to the
+  last three years on every run: the window now keeps the stored snapshot's
+  start date (2010 since the backfill), and the nightly script refuses a result
+  with fewer entries than before. Updated entries are handed to the document
+  fetcher, which re-reads them for new attachments and refreshed titles on
+  every run, not only under `--refresh-meta`.
 
 ## 2026-09-17
 
