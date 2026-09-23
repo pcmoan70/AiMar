@@ -209,7 +209,7 @@ function buildStyle(
           source: l.id,
           layout: {
             'icon-image': ['case', ['>=', ['coalesce', ['get', 'deadline'], ''], today], symbolIconId('hearing'), symbolIconId('hearingPast')] as unknown as ExpressionSpecification,
-            'icon-size': ['interpolate', ['linear'], ['zoom'], 4, 0.45, 9, 0.7, 14, 1] as unknown as ExpressionSpecification,
+            'icon-size': ['interpolate', ['linear'], ['zoom'], 4, 0.6, 9, 0.9, 14, 1.2] as unknown as ExpressionSpecification,
             'icon-allow-overlap': true,
             'icon-ignore-placement': true,
           },
@@ -284,7 +284,7 @@ function buildStyle(
           filter: ['>=', ['coalesce', ['get', 'submitted'], ''], newApplicationCutoff()] as unknown as FilterSpecification,
           layout: {
             'icon-image': symbolIconId('newApplication'),
-            'icon-size': ['interpolate', ['linear'], ['zoom'], 4, 0.5, 9, 0.75, 14, 1.05] as unknown as ExpressionSpecification,
+            'icon-size': ['interpolate', ['linear'], ['zoom'], 4, 0.65, 9, 0.95, 14, 1.25] as unknown as ExpressionSpecification,
             'icon-allow-overlap': true,
             'icon-ignore-placement': true,
           },
