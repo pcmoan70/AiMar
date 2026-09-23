@@ -1,4 +1,4 @@
-import { useCallback, useDeferredValue, useEffect, useMemo, useState } from 'react'
+import { useDeferredValue, useMemo, useState } from 'react'
 import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, searchHaystack, searchRows, sortRows, type CaseKind, type CaseRow, type CaseSort, type Cases } from '../lib/cases'
 import type { Localities } from '../lib/localities'
 import { useT } from '../lib/i18n'
@@ -17,8 +17,6 @@ interface Props {
   /** Localities passing the map filters; null = no filter (all). */
   loknrs: number[] | null
   onPick: (loknr: number) => void
-  /** Localities covered by the filtered list, for the rings on the map. */
-  onSites: (loknrs: number[] | null) => void
   hearings: Hearing[] | null
   applications: ApplicationProps[] | null
   onLocate: (lngLat: [number, number]) => void
@@ -28,7 +26,7 @@ interface Props {
 const PAGE = 200
 
 /** All case-history entries for the filtered localities with search, kind filter and sorting. */
-export default function CasesPanel({ cases, casesFailed, localities, loknrs, onPick, onSites, hearings, applications, onLocate, onPickApplication }: Props) {
+export default function CasesPanel({ cases, casesFailed, localities, loknrs, onPick, hearings, applications, onLocate, onPickApplication }: Props) {
   const t = useT()
   const [query, setQuery] = useState('')
   // 134 000 entries are too many to re-filter on every keystroke, so the list trails the input.
@@ -64,13 +62,6 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
     [all, deferredQuery, hays, kinds, sort, desc, names, onlyText, cases],
   )
   const siteCount = loknrs ? loknrs.length : (localities?.features.length ?? 0)
-  // Ring the localities of the rows currently listed; clear the rings when the panel closes.
-  const shownSites = useMemo(() => [...new Set(rows.flatMap((r) => r.loknrs))].sort((a, b) => a - b), [rows])
-  const report = useCallback(onSites, [onSites])
-  useEffect(() => {
-    report(shownSites)
-    return () => report(null)
-  }, [shownSites, report])
 
   const toggleKind = (k: CaseKind) => {
     const next = new Set(kinds)
@@ -149,7 +140,7 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
         <Hint id="casesPanel" text={t('hint.casesPanel')}>{t('cases.title')}</Hint>
       </h2>
       <p className="muted cases-sites">
-        {t(loknrs ? 'cases.countFiltered' : 'cases.countAll', { n: all.length, m: siteCount })} <span className="case-site-key" /> {t('cases.onMap', { n: shownSites.length })}
+        {t(loknrs ? 'cases.countFiltered' : 'cases.countAll', { n: all.length, m: siteCount })}
       </p>
       <input
         type="search"

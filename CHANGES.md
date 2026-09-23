@@ -2,6 +2,8 @@
 
 ## 2026-09-23
 
+- Removed the purple rings the map drew around every locality in the Cases
+  list; they crowded the map once the list covered all localities.
 - New applications and public inspection. `fetch-applications.mjs` also reads
   the CSV export of Fiskeridirektoratet's public application list, so every
   application gets a link to its page there and brand-new ones appear before

@@ -405,7 +405,6 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .case-statement { border-left-color: #4a3aa7; }
 .cases-panel input[type=search] { margin: 6px 0; }
 .cases-sites { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 6px; margin-top: 2px; font-size: 12px; }
-.case-site-key { width: 11px; height: 11px; border-radius: 50%; border: 2px solid #6b3fa0; flex: none; }
 .cases-boxes { display: flex; flex-wrap: wrap; gap: 4px 12px; }
 .cases-onlytext { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; margin: 2px 0 6px; white-space: nowrap; }
 .cases-onlytext input { margin: 0; }

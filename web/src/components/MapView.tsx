@@ -70,9 +70,7 @@ export const ANCHORS_LAYER = 'application-anchors'
 /** Applications under processing: orange, distinct from the operator palette. */
 const APPLICATION_COLOUR = '#d2691e'
 
-export const CASE_SITES_LAYER = 'case-sites'
 /** Ring around the localities covered by the case list on screen. */
-const CASE_SITE_COLOUR = '#6b3fa0'
 
 export const DELETED_LAYER = 'deleted-sites'
 /** Muted slate for withdrawn sites, distinct from the operator palette. */
@@ -147,7 +145,6 @@ function buildStyle(
   liceDim: number[] | null,
   liceOver: number[] | null,
   liceRanks: number[][] | null,
-  caseSites: number[] | null,
 ): StyleSpecification {
   const opf = operatorFilter(s.operatorFilter, polygonLoknrs)
   const sources: Record<string, SourceSpecification> = {}
@@ -362,23 +359,6 @@ function buildStyle(
     for (const x of above) layers.splice(layers.indexOf(x), 1)
     layers.splice(layers.findIndex((x) => x.id === LOCALITIES_LAYER) + 1, 0, ...above)
   }
-  // Localities discussed in the Cases panel, ringed on top of everything. Own source, so the rings
-  // work even when the locality overlay is off; the filter is updated in place as the list changes.
-  if (caseSites?.length) {
-    sources[CASE_SITES_LAYER] = { type: 'geojson', data: dataUrl('localities.geojson') }
-    layers.push({
-      id: CASE_SITES_LAYER,
-      type: 'circle',
-      source: CASE_SITES_LAYER,
-      filter: ['in', ['get', 'loknr'], ['literal', caseSites]] as unknown as FilterSpecification,
-      paint: {
-        'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 5, 9, 9, 14, 14],
-        'circle-color': 'rgba(0,0,0,0)',
-        'circle-stroke-color': CASE_SITE_COLOUR,
-        'circle-stroke-width': 2,
-      },
-    })
-  }
   return { version: 8, sources, layers }
 }
 
@@ -394,15 +374,13 @@ interface Props {
   liceOver: number[] | null
   /** Locality numbers grouped by lice bin, lowest first; drives the draw order while scrubbing. */
   liceRanks: number[][] | null
-  /** Localities covered by the case list on screen, ringed while the Cases panel is open. */
-  caseSites: number[] | null
   onSelect: (hit: MapHit) => void
   /** Right-click: the locality under the pointer (or null) and the pixel position. */
   onContextMenu: (locality: LocalityProps | null, point: { x: number; y: number }) => void
   onMap: (map: MlMap | null) => void
 }
 
-export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks, caseSites, onSelect, onContextMenu, onMap }: Props) {
+export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks, onSelect, onContextMenu, onMap }: Props) {
   const container = useRef<HTMLDivElement>(null)
   const mapRef = useRef<MlMap | null>(null)
   const onSelectRef = useRef(onSelect)
@@ -411,14 +389,14 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
   onContextRef.current = onContextMenu
   const appliedStyle = useRef('')
   const settings = useSettings()
-  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, !!liceColours, !!caseSites?.length])
+  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, !!liceColours])
 
   useEffect(() => {
     const s = getSettings()
-    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, !!liceColours, !!caseSites?.length])
+    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, !!liceColours])
     const map = new MlMap({
       container: container.current!,
-      style: buildStyle(s, null, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks, caseSites),
+      style: buildStyle(s, null, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks),
       center: s.view.center,
       zoom: s.view.zoom,
       attributionControl: { compact: true },
@@ -482,13 +460,6 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
-  // Typing in the Cases panel only changes which localities are ringed: update the filter, not the style.
-  const caseKey = caseSites?.join(',') ?? ''
-  useEffect(() => {
-    const map = mapRef.current
-    if (!map || !map.getLayer(CASE_SITES_LAYER) || !caseSites?.length) return
-    map.setFilter(CASE_SITES_LAYER, ['in', ['get', 'loknr'], ['literal', caseSites]] as unknown as FilterSpecification)
-  }, [caseKey]) // eslint-disable-line react-hooks/exhaustive-deps
 
   // A week change only repaints the dots: rebuilding the style would reload sources and flash the map.
   const liceKey = JSON.stringify([liceColours ? [...liceColours.entries()] : null, liceDim, liceOver, liceRanks])
@@ -507,7 +478,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
   useEffect(() => {
     if (!mapRef.current || styleKey === appliedStyle.current) return
     appliedStyle.current = styleKey
-    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks, caseSites), { diff: true })
+    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks), { diff: true })
   }, [styleKey]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return <div ref={container} className="map" />
