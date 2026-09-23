@@ -2,6 +2,9 @@
 
 ## 2026-09-23
 
+- Case lists are always grouped by case file; the box that switched grouping
+  off is gone. Cases are ordered by the date of their latest entry, in the
+  chosen sort direction, with entries that have no case file last.
 - Point symbols stack in a fixed order with fixed alphas: existing localities
   at the bottom (circle, 0.5), notices at public inspection above them
   (diamond, 0.7), newly submitted applications on top (star, 1).

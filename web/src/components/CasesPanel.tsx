@@ -1,5 +1,5 @@
 import { useDeferredValue, useMemo, useState } from 'react'
-import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, searchHaystack, searchRows, sortRows, type CaseKind, type CaseRow, type CaseSort, type Cases } from '../lib/cases'
+import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, orderGroups, searchHaystack, searchRows, sortRows, type CaseKind, type CaseRow, type CaseSort, type Cases } from '../lib/cases'
 import type { Localities } from '../lib/localities'
 import { useT } from '../lib/i18n'
 import { updateSettings, useSettings } from '../lib/settings'
@@ -35,8 +35,8 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
   const [desc, setDesc] = useState(true)
   const [kinds, setKinds] = useState<Set<CaseKind>>(() => new Set(CASE_KINDS))
   const [shown, setShown] = useState(PAGE)
-  // Shared with the site panel's case history, so the two lists always agree.
-  const { casesGrouped: grouped, casesOnlyText: onlyText } = useSettings()
+  // Shared with the site panel's case history, so the two lists agree.
+  const { casesOnlyText: onlyText } = useSettings()
 
   const names = useMemo(() => new Map(localities?.features.map((f) => [f.properties.loknr, f.properties.navn]) ?? []), [localities])
   const siteName = (nr: number) => names.get(nr) ?? String(nr)
@@ -71,7 +71,8 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
     setShown(PAGE)
   }
 
-  const groups = useMemo(() => (grouped ? groupRows(rows.slice(0, shown), cases?.cases) : []), [grouped, rows, shown, cases])
+  // Always by case: cases ordered by their latest entry, in the chosen direction; entries inside keep the sort.
+  const groups = useMemo(() => orderGroups(groupRows(rows.slice(0, shown), cases?.cases), desc), [rows, shown, cases, desc])
 
   const renderRow = (r: CaseRow) => (
     <li key={r.entry.id} className={`case case-${r.kind}`}>
@@ -165,11 +166,6 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
         <button type="button" className="secondary" onClick={() => setDesc(!desc)} title={t(desc ? 'cases.desc' : 'cases.asc')}>
           {desc ? '↓' : '↑'} {t(desc ? 'cases.desc' : 'cases.asc')}
         </button>
-        {cases.cases && (
-          <label>
-            <input type="checkbox" checked={grouped} onChange={(e) => updateSettings({ casesGrouped: e.target.checked })} /> {t('cases.group')}
-          </label>
-        )}
         <label title={t('cases.onlyTextTitle', { n: textCount, d: textDocs })}>
           <input
             type="checkbox"
@@ -189,7 +185,7 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
           </button>
         ))}
       </div>
-      {rows.length && grouped && cases.cases ? (
+      {rows.length && cases.cases ? (
         <div className="case-groups">
           {groups.map((g) => (
             <section key={g.sak ?? 'none'} className="case-group">

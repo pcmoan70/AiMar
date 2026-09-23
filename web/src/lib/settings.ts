@@ -44,8 +44,6 @@ export interface Settings {
   layerDetails: boolean
   /** Case lists (Cases panel and site panel) show only entries whose document text is bundled. */
   casesOnlyText: boolean
-  /** Case lists collect the correspondence per case file. */
-  casesGrouped: boolean
   /** id of the newest "what's new" entry the user has dismissed */
   seenNews: string
 }
@@ -73,7 +71,6 @@ export const DEFAULT_SETTINGS: Settings = {
   climMonth: 1,
   layerDetails: false,
   casesOnlyText: false,
-  casesGrouped: true,
   seenNews: '',
 }
 

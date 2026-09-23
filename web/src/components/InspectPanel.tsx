@@ -7,7 +7,7 @@ import Sym from './Sym'
 import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, liceStatsIndex, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
 import type { ApplicationProps } from '../lib/localities'
-import { caseFolderUrl, caseKind, caseRows, caseUrl, casesFor, groupRows, type CaseEntry, type Cases } from '../lib/cases'
+import { caseFolderUrl, caseKind, caseRows, caseUrl, casesFor, groupRows, orderGroups, type CaseEntry, type Cases } from '../lib/cases'
 import { ALL_FARMS_COLOUR, paletteFor } from '../lib/operatorColours'
 import { updateSettings, useSettings } from '../lib/settings'
 import { activeFilterKeys, fieldValuesOf, valueLabel, type FieldFilters, type FilterKey, type FilterValue } from '../lib/filters'
@@ -40,7 +40,7 @@ const fmt = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDig
 
 export default function InspectPanel({ selection, localities, fishhealth, cases, casesFailed, seatemp, tides, applications, hearings, onSelectApplication, map }: Props) {
   const t = useT()
-  const { operatorFilter, fieldFilters, casesOnlyText: onlyText, casesGrouped: groupCases } = useSettings()
+  const { operatorFilter, fieldFilters, casesOnlyText: onlyText } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
   const fmtNum = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
   if (!selection) return <div className="panel-body muted">{t('inspect.empty')}</div>
@@ -256,11 +256,8 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
             const keep = new Set(list.map((e) => e.id))
             // Grouped by case file: cases with the most recent activity first, and inside each case the
             // entries in the order the matter progressed, oldest first.
-            const groups = groupCases
-              ? groupRows(
-                  caseRows(cases, [p.loknr]).filter((r) => keep.has(r.entry.id)),
-                  cases.cases,
-                ).map((g) => ({ ...g, rows: [...g.rows].reverse() }))
+            const groups = cases.cases
+              ? orderGroups(groupRows(caseRows(cases, [p.loknr]).filter((r) => keep.has(r.entry.id)), cases.cases)).map((g) => ({ ...g, rows: [...g.rows].reverse() }))
               : null
             const row = (e: CaseEntry) => (
               <li key={e.id} className={`case case-${caseKind(e)}`}>
@@ -283,11 +280,6 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
                     <input type="checkbox" checked={onlyText} onChange={(e) => updateSettings({ casesOnlyText: e.target.checked })} disabled={!withText.length} />{' '}
                     {t('cases.onlyText', { n: withText.length })}
                   </label>
-                  {cases.cases && (
-                    <label className="cases-onlytext" title={t('inspect.groupOrder')}>
-                      <input type="checkbox" checked={groupCases} onChange={(e) => updateSettings({ casesGrouped: e.target.checked })} /> {t('cases.group')}
-                    </label>
-                  )}
                 </div>
                 {groups ? (
                   <div className="case-groups">

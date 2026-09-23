@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { caseRows, searchHaystack, searchRows, sortRows, type Cases } from '../cases'
+import { caseRows, groupRows, orderGroups, searchHaystack, searchRows, sortRows, type Cases } from '../cases'
 
 const data: Cases = {
   retrieved: '2026-09-14T00:00:00Z',
@@ -58,5 +58,24 @@ describe('searchHaystack', () => {
     const all = caseRows(data, null)
     const hays = searchHaystack(all, name)
     for (const q of ['fornes', 'fornes mattilsynet', 'ingenting']) expect(searchRows(all, q, name, undefined, hays)).toEqual(searchRows(all, q, name))
+  })
+})
+
+describe('orderGroups', () => {
+  const withCases: Cases = {
+    ...data,
+    entries: [
+      { id: 'a', sak: 'S1', date: '2026-06-18', entity: 'X', type: 'out', title: 'Vedtak' },
+      { id: 'b', sak: 'S2', date: '2026-01-10', entity: 'X', type: 'in', title: 'Søknad' },
+      { id: 'c', sak: 'S1', date: '2026-02-01', entity: 'X', type: 'out', title: 'Uttalelse' },
+      { id: 'd', sak: null, date: '2026-07-01', entity: 'X', type: 'in', title: 'Løs' },
+    ],
+    cases: { S1: { nr: '1', title: 'Sak 1' }, S2: { nr: '2', title: 'Sak 2' } },
+    localities: { '1': [0, 1, 2, 3] },
+  }
+  it('orders cases by their latest entry and keeps entries without a case last', () => {
+    const rows = sortRows(caseRows(withCases, null), 'site', false, () => 'x') // any sort: groups still follow the latest date
+    expect(orderGroups(groupRows(rows, withCases.cases)).map((g) => g.sak)).toEqual(['S1', 'S2', null])
+    expect(orderGroups(groupRows(rows, withCases.cases), false).map((g) => g.sak)).toEqual(['S2', 'S1', null])
   })
 })

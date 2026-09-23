@@ -171,4 +171,12 @@ export function groupRows(rows: CaseRow[], info: Cases['cases'] = {}): CaseGroup
   return loose ? [...out.filter((g) => g !== loose), loose] : out
 }
 
+/** Order case groups by the date of their latest entry, newest first (or oldest first); entries without a case stay last. */
+export function orderGroups(groups: CaseGroup[], desc = true): CaseGroup[] {
+  const latest = (g: CaseGroup) => g.rows.reduce((m, r) => ((r.entry.date ?? '') > m ? (r.entry.date ?? '') : m), '')
+  const cased = groups.filter((g) => g.sak !== null).sort((a, b) => (desc ? latest(b).localeCompare(latest(a)) : latest(a).localeCompare(latest(b))))
+  const loose = groups.find((g) => g.sak === null)
+  return loose ? [...cased, loose] : cased
+}
+
 export const caseFolderUrl = (sak: string) => `https://einnsyn.no/saksmappe?id=${encodeURIComponent(sak)}`
