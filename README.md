@@ -78,7 +78,12 @@ with `BASE_PATH=/`.
   prohibition zones, offshore aquaculture areas, environmental
   state and production intensity per water body (Fiskeridirektoratet).
 - Applications under processing: applied-for area, anchor points and the form
-  data behind each application, linked to eInnsyn by application number.
+  data behind each application, linked to eInnsyn by application number and
+  to the application's page at Fiskeridirektoratet; applications submitted in
+  the last four weeks are ringed on the map and marked *new*.
+- Public inspection: applications the municipality has laid out for remarks,
+  harvested from Norsk lysingsblad with applicant, locality, subject, deadline
+  and where to send remarks, shown on the site and the application.
 - Wave height and wind speed as monthly normals (2023–2025 NORA3 hindcast),
   with a month selector on the map, direction arrows whose thickness is the
   90th percentile, and hover values for mean, 90th percentile, direction and
@@ -135,6 +140,8 @@ with `BASE_PATH=/`.
 | eInnsyn (Digitaliseringsdirektoratet) | Public-record journal entries on aquaculture cases (applications, statements, decisions, refusals, complaints) matched to localities | NLOD 2.0 |
 | Miljødirektoratet | Protected areas (Naturvern) | NLOD 2.0 |
 | NGU | Marine base maps: sediment grain size, anchoring conditions, deposition areas, slope | NLOD 2.0 |
+| Fiskeridirektoratet | Public application list (fiskeridir.no/akvakultur/akvakultursoknader, CSV export) | NLOD 2.0 |
+| Norsk lysingsblad | Announcements of aquaculture applications at public inspection | Public announcements |
 | MET Norway | NorKyst v3 800 m forecast: surface temperature, salinity, current speed and direction (latest model hour, via thredds ncWMS) | CC BY 4.0 |
 
 Locality points and site borders are snapshotted at build time (the ArcGIS

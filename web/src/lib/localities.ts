@@ -161,7 +161,59 @@ export interface ApplicationProps {
   species?: string
   prodArea?: string
   licences?: string
+  /** the application's page at fiskeridir.no (sea chart, handling authority) */
+  url?: string
+  /** 'list' when known only from the public application list, not yet in the map service */
+  source?: string
+  withdrawn?: string
 }
+
+/** An application announced for public inspection in Norsk lysingsblad (scripts/fetch-hearings.mjs). */
+export interface Hearing {
+  id: string
+  url: string
+  title: string
+  publisher?: string | null
+  published?: string | null
+  /** last day for remarks to the municipality, ISO date, when the notice states one */
+  deadline?: string | null
+  kommune?: string | null
+  loknr?: number | null
+  navn?: string | null
+  applicant?: string | null
+  subject?: string | null
+  caseNo?: string | null
+  email?: string | null
+  coords?: [number, number] | null
+}
+
+export async function loadHearings(): Promise<Hearing[] | null> {
+  try {
+    const res = await fetch(dataUrl('hearings.json'))
+    if (!res.ok) return null
+    return ((await res.json()) as { items: Hearing[] }).items
+  } catch {
+    return null
+  }
+}
+
+const norm = (s: string) => s.toLowerCase().replace(/\s+(as|asa|sa|ans|da)$/i, '').replace(/[^a-zæøå0-9]/g, '')
+/** Hearings about a locality: by its number, else by name within the same municipality. */
+export function hearingsFor(hearings: Hearing[] | null, loknr: number | undefined, navn?: string, kommune?: string): Hearing[] {
+  if (!hearings) return []
+  return hearings.filter((h) => (loknr && h.loknr === loknr) || (navn && h.navn && kommune && h.kommune && norm(h.navn) === norm(navn) && norm(h.kommune) === norm(kommune)))
+}
+/** Hearings that could belong to an application: same locality, else same applicant in the same municipality. */
+export function hearingsForApplication(hearings: Hearing[] | null, a: ApplicationProps): Hearing[] {
+  const byLok = hearingsFor(hearings, a.loknr, a.navn, a.kommune)
+  if (byLok.length || !hearings) return byLok
+  return hearings.filter((h) => a.applicant && h.applicant && a.kommune && h.kommune && norm(h.applicant) === norm(a.applicant) && norm(h.kommune) === norm(a.kommune))
+}
+
+/** Applications submitted within this many days count as new. */
+export const NEW_APPLICATION_DAYS = 28
+export const newApplicationCutoff = () => new Date(Date.now() - NEW_APPLICATION_DAYS * 86400e3).toISOString().slice(0, 10)
+export const isNewApplication = (a: ApplicationProps) => (a.submitted ?? '') >= newApplicationCutoff()
 
 /** Applications under processing, as plain property records (bundled snapshot). */
 export async function loadApplications(): Promise<ApplicationProps[] | null> {

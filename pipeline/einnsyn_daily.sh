@@ -59,6 +59,12 @@ if (( ENTRIES_AFTER < ENTRIES_BEFORE )); then
 fi
 log "fetch-cases ok: ${CASES:-no summary line}"
 
+# 1b. Fiskeridirektoratet's application list and map service: new applications with their pages.
+$NODE scripts/fetch-applications.mjs > "$ARCHIVE/logs/fetch-applications.last.log" 2>&1 || log "fetch-applications exit=$?"
+log "applications: $(grep -oE 'application list: .*' "$ARCHIVE/logs/fetch-applications.last.log" | tail -n 1)"
+$NODE scripts/fetch-hearings.mjs > "$ARCHIVE/logs/fetch-hearings.last.log" 2>&1 || log "fetch-hearings exit=$?"
+log "hearings: $(grep -oE 'hearings.json: .*' "$ARCHIVE/logs/fetch-hearings.last.log" | tail -n 1)"
+
 # 2. Files published for the new entries (permanent 502s stay pending, retried next night).
 BEFORE=$(ls "$DOCS_DIR" | wc -l)
 $NODE scripts/fetch-docs.mjs > "$ARCHIVE/logs/fetch-docs.last.log" 2>&1

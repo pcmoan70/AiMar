@@ -8,7 +8,7 @@ import { heatValueAt } from './heatmap'
 import { liceWeekValue } from './liceWeek'
 import { climAt, climGrid, CLIM_FIELDS } from './climatology'
 import type { Settings } from './settings'
-import type { LocalityProps } from './localities'
+import { isNewApplication, type LocalityProps } from './localities'
 import { t } from './i18n'
 
 export interface LookupRow {
@@ -51,8 +51,8 @@ export function instantRows(map: MlMap, lngLat: [number, number], enabled: Layer
       )
     }
     if (l.id === 'applications' || l.id === 'application-anchors') {
-      const a = feature(l.id)?.properties as { navn?: string; appNo?: string; applicant?: string; biomass?: number } | undefined
-      return row(a ? `${a.navn ?? a.appNo} · ${a.applicant ?? ''}${a.biomass ? ` · ${a.biomass} t` : ''}` : null)
+      const a = feature(l.id)?.properties as { navn?: string; appNo?: string; applicant?: string; biomass?: number; submitted?: string } | undefined
+      return row(a ? `${a.navn ?? a.appNo} · ${a.applicant ?? ''}${a.biomass ? ` · ${a.biomass} t` : ''}${isNewApplication(a as { submitted?: string; appNo: string }) ? ` · ${t('app.new')}` : ''}` : null)
     }
     if (l.id === 'deleted-sites') {
       const p = feature('deleted-sites')?.properties as LocalityProps | undefined

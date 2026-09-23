@@ -151,7 +151,13 @@ own state) → `fetch-docs.mjs` (files to `DOCS_DIR` on the external disk) →
 `pipeline/docs/extract_text.py` in the `aimar-ocr` conda env (idempotent by
 SHA-256, provenance index) → `apply-doc-text.mjs` → `copy-doc-text.mjs` →
 `extract-currents.mjs`. A flock prevents overlapping runs, the archive disk must
-be mounted, and `--push` makes it commit and push the data files.
+be mounted, and `--push` makes it commit and push the data files. The same run
+refreshes `fetch-applications.mjs` (map service plus the CSV export of
+Fiskeridirektoratet's public application list, merged by application number)
+and `fetch-hearings.mjs` (Norsk lysingsblad: keyword searches over the
+"Andre kunngjøringer" listing, each aquaculture notice read once and parsed for
+applicant, locality, subject, deadline, municipality and contact; relative
+deadlines such as "innen 4 uker" are counted from the notice date).
 
 `scripts/fetch-fishhealth.mjs` obtains a BarentsWatch token with client
 credentials (from `web/.env.local` locally, repository secrets in CI), then

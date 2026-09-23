@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import type { Map as MlMap } from 'maplibre-gl'
 import SiteOverlays from './SiteOverlays'
+import { hearingsFor, hearingsForApplication, isNewApplication, type Hearing } from '../lib/localities'
+import Hearings from './Hearings'
 import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, liceStatsIndex, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
 import type { ApplicationProps } from '../lib/localities'
@@ -27,6 +29,7 @@ interface Props {
   seatemp: SeaTemp | null
   tides: Tides | null
   applications: ApplicationProps[] | null
+  hearings: Hearing[] | null
   onSelectApplication: (props: ApplicationProps) => void
   map: MlMap | null
 }
@@ -34,7 +37,7 @@ interface Props {
 const fmtDate = (ms: number | null) => (ms ? new Date(ms).toISOString().slice(0, 10) : '–')
 const fmt = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
 
-export default function InspectPanel({ selection, localities, fishhealth, cases, casesFailed, seatemp, tides, applications, onSelectApplication, map }: Props) {
+export default function InspectPanel({ selection, localities, fishhealth, cases, casesFailed, seatemp, tides, applications, hearings, onSelectApplication, map }: Props) {
   const t = useT()
   const { operatorFilter, fieldFilters, casesOnlyText: onlyText, casesGrouped: groupCases } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
@@ -163,6 +166,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
               ))}
           </p>
         )}
+        <Hearings items={hearingsFor(hearings, p.loknr, p.navn, p.kommune)} />
         {tides?.localities[String(p.loknr)] && (() => {
           const td = tides.localities[String(p.loknr)]
           return (
@@ -312,6 +316,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
         <h2>
           {a.navn ?? a.appNo}
           <span className="badge-application">{t('app.badge')}</span>
+          {isNewApplication(a) && <span className="badge-new">{t('app.new')}</span>}
         </h2>
         <table className="kv">
           <tbody>
@@ -329,6 +334,14 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
               ))}
           </tbody>
         </table>
+        <Hearings items={hearingsForApplication(hearings, a)} />
+        {a.url && (
+          <p>
+            <a href={a.url} target="_blank" rel="noreferrer">
+              {t('app.openList')} ↗
+            </a>
+          </p>
+        )}
         <p>
           <a href={`https://einnsyn.no/sok?query=${encodeURIComponent(a.appNo)}`} target="_blank" rel="noreferrer">
             {t('app.searchCase')} ↗

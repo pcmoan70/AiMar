@@ -24,6 +24,7 @@ jobs:
       - run: node scripts/gen-operator-colours.mjs
       - run: node scripts/fetch-deleted.mjs
       - run: node scripts/fetch-applications.mjs
+      - run: node scripts/fetch-hearings.mjs || true
       - run: node scripts/fetch-cases.mjs
       - run: sudo apt-get install -y -q poppler-utils && node scripts/fetch-docs.mjs
       - run: node scripts/extract-currents.mjs || true

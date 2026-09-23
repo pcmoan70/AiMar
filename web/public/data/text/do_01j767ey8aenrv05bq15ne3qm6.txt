@@ -1,0 +1,3368 @@
+﻿Strømundersøkelse ved lokalitet 
+Midthjell 
+Mars/april 2022 
+Grunnlag for undersøkelse 
+Ny lokalitet 
+Produksjonsområde 
+P 0 4 
+Fylke 
+Vestland 
+Kommune 
+Stad 
+Tidsperiode 
+04.03.2022 -19.04.2022 
+STIM 
+STIM Miljø Rapport 44-2022 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 1/29 
+ 
+ 
+ 
+ 
+GENERELL INFORMASJON 
+Rapport tittel 
+Strømundersøkelse ved lokalitet Midthjell, 2022 
+Rapport nr. 
+Rapport dato 
+Feltperiode 
+44-2022 
+14.06.22 
+04.03.2022 – 19.04.2022 
+Lokalitet 
+Lokalitetsnavn 
+Midthjell  
+Lokalitetsnummer 
+Ny lokalitet 
+Kommune 
+Stad 
+Fylke 
+Vestland 
+Strømrigg koordinater 
+61°55.400 N  5°31.592 Ø 
+Produksjonsområde 
+4 Nordhordland til Stadt 
+Informasjon fra Vann-Nett 
+Vannforekomst-ID 
+Økoregion 
+Vanntype 
+Nordfjord-indre, 0282011300-C 
+Nordsjøen Nord 
+Ferskvannspåvirket beskyttet fjord 
+Oppdragsgiver 
+Selskap 
+Gadus Group AS 
+Kontaktperson 
+Tor Olav Seim 
+Oppdragsansvarlig 
+Selskap 
+STIM AS 
+Prosjektansvarlig 
+Frida Tronbøl 
+Signatur prosjektansvarlig 
+ 
+Forfattere 
+Frida Tronbøl  
+Akkreditering 
+Undersøkelsen er ikke akkreditert 
+Vilkår og betingelser 
+Denne rapporten kan kun gjengis i sin helhet.  Gjengivelse av deler av 
+rapporten kan kun skje etter skriftlig tillatelse fra STIM. AS.  I slike tilfeller 
+skal kilde oppgis. Resultatene i denne undersøkelsen gjelder kun for 
+beskrevne prøvestasjoner som representerer et definert og begrenset 
+område ved et spesifikt prøvetidspunkt. 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+GENERELL INFORMASJON 
+Rapport tittel 
+Strømundersøkelse ved lokalitet Midthjell, 2022 
+Rapport nr. 
+Rapport dato 
+Feltperiode 
+44-2022 
+14.06.22 
+04.03.2022 - 19.04.2022 
+Lokalitet 
+Lokalitetsnavn 
+Midthjell 
+Lokalitetsnummer 
+Ny lokalitet 
+Kommune 
+Stad 
+Fylke 
+Vestland 
+Strømrigg koordinater 
+61 °55.400 N 5°31.592 Ø 
+Produksjonsområde 
+4 Nordhordland til Stadt 
+Informasjon fra Vann-Nett 
+Vannforekomst-ID 
+Økoregion 
+Vanntype 
+Nordfjord-indre, 0282011300-C 
+Nordsjøen Nord 
+Ferskvannspåvirket beskyttet fjord 
+Oppdragsgiver 
+Selskap 
+Gad us Group AS 
+Kontaktperson 
+Tor Olav Seim 
+Oppdragsansvarlig 
+Selskap 
+STIM AS 
+Prosjektansvarlig 
+Frida Tronhøl 
+Signatur prosjektansvarlig 
+(JirJoJfi{ 
+Forfattere 
+Frida Tronhøl 
+Akkreditering 
+Undersøkelsen er ikke akkreditert 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av 
+rapporten kan kun skje etter skriftlig tillatelse fra STIM. AS. I slike tilfeller 
+Vilkår og betingelser 
+skal kilde oppgis. Resultatene i denne undersøkelsen gjelder kun for 
+beskrevne prøvestasjoner som representerer et definert og begrenset 
+område ved et spesifikt prøvetidspunkt. 
+s. 1/29 
+14.06.2022
+STIM Miljø Rapport 44-2022 
+Midthjell 
+INNHOLD 
+1. 
+Innledning 
+3 
+2. 
+Material og metode 
+6 
+2.1. 
+Aktuelle standarder 
+6 
+2.2. 
+Oppsett og instrumenter 
+6 
+2.3. 
+Beskrivelse av strømdata 
+7 
+3. 
+Resultater 
+8 
+3.1. 
+Sammendrag av resultater fra stasjon Midthjell 
+8 
+3.2. 
+Gjennomsnittshastighet 
+9 
+3.3. 
+Maksimal strømhastighet 
+10 
+3.4. 
+Gjennomsnittlig vannforflytning 
+11 
+3.5. 
+Tidsserie av strømhastighet 
+12 
+3.6. 
+Frekvensfordeling av strømhastighet 
+16 
+3.7. 
+Frekvensfordeling av strømretning 
+17 
+3.8. 
+CTD-måling ved utsett av strømrigg 
+18 
+3.9. 
+Tidsserie av vind og tidevann 
+19 
+4. 
+Diskusjon 
+21 
+5. 
+Litteratur 
+23 
+6. 
+Vedlegg 
+24 
+6.1. 
+Meteorologiske data fra RVlS Måløybrua 
+24 
+6.2. 
+Oppsett av strømrigg 
+26 
+6.3. 
+Helning av strømmålere i måleperioden 
+27 
+6.4. 
+CTD 
+28 
+6.5. 
+Returperiode 
+29 
+s. 2/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 3/29 
+ 
+1. INNLEDNING 
+STIM Miljø har på oppdrag fra Gadus Group AS utført strømmålinger i forbindelse med søknad om å 
+etablere ny oppdrettslokalitet ved Midthjell på nordsiden av Nordfjord i Stad kommune, ca. 30 km inn 
+i fjordsystemet fra kysten (Figur 1). Rapporten presenterer resultatene fra strømmålinger utført ved 
+omsøkt anlegg på bakgrunn av beskrivelser i «Veileder for utfylling av søknadsskjema for tillatelse til 
+akvakultur i flytende eller landbasert anlegg». Målinger ble foretatt på 5, 15, 89 og 141 meters dybde 
+ved hjelp av én profilerende måler og to punktmålere. Strømmålingene ble registrert i perioden 4. 
+mars til 19. april 2022. 
+Anlegget er plassert i et bratt område hvor batymetrien varierer fra 320 m i nordvestlig retning til om 
+lag 580 m i sørøstlig retning. Dybden der måleriggen var plassert viste 450 m (Figur 2 - 4).  
+ 
+ 
+Figur 1 Oversiktskart over fjordsystemet rundt lokalitet Midthjell (svart firkant), samt andre registrerte oppdrettslokaliteter i 
+nærområdet. Kartkilde: Fiskeridirektoratet. 
+ 
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+1. INNLEDNING 
+STIM Miljø har på oppdrag fra Gadus Group AS utført strømmålinger i forbindelse med søknad om å 
+etablere ny oppdrettslokalitet ved Midthjell på nordsiden av Nordfjord i Stad kommune, ca. 30 km inn 
+i fjordsystemet fra kysten (Figur 1). Rapporten presenterer resultatene fra strømmålinger utført ved 
+omsøkt anlegg på bakgrunn av beskrivelser i «Veilederfor utfylling av søknadsskjema f o r tillatelse til 
+akvakultur i flytende eller landbasert anlegg». Målinger ble foretatt på 5, 15, 89 og 141 meters dybde 
+ved hjelp av en profilerende måler og to punktmålere. Strømmålingene ble registrert i perioden 4. 
+mars til 19. april 2022. 
+Anlegget er plassert i et bratt område hvor batymetrien varierer fra 320 m i nordvestlig retning til om 
+lag 580 mi sørøstlig retning. Dybden der måleriggen var plassert viste 450 m (Figur 2 - 4). 
+- C Mattisk leks.ørret, re911bueorreL 
+-_ -· 
+s.,11;11,1e1,, 
+9 Sonefis laks, erret, regnb11eener 
+0 Sramfis: laks, erret, r-egobueørrer 
+' 0 Stektemerd 
+A1'drE:I 
+0 Bl0rcty,, krep;dvr, pi_ggh11der 
+0 
+Alger 
+,4k'rn 
+Figur 1 Oversiktskart over fjordsystemet rundt lokalitet Midthjell (svart firkant), samt andre registrerte oppdrettslokaliteter i 
+nærområdet. Kartkilde: Fiskeridirektoratet. 
+s. 3/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 4/29 
+ 
+Figur 2 Anleggsplassering ved lokalitet Midthjell på nordsiden av Nordfjord i Stad kommune. Kartet er nordlig orientert 
+Kartkilde: Olex. 
+ 
+Figur 3 Plassering av strømrigg (rødt flagg) ved lokalitet Midthjell. Kartet er nordlig orientert. Kartkilde: Olex 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+_He.rdhet_J _ Bunn , _ Snitt J 
+2,Snm 
+OUIIIPSO <_<,sj_»? _Auto_J_Rdidf BobcrJ[miO 
+S:H:02'!'- 
+Figur 2 Anleggsplassering ved lokalitet Midthjell på nordsiden av Nordfjord i Stad kommune. Kartet er nordlig orientert 
+Kartkilde: Olex. 
+Figur 3 Plassering av strømrigg (rødt flagg) ved lokalitet Midthjell. Kartet er nordlig orientert. Kartkilde: Olex 
+s. 4/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 5/29 
+ 
+Figur 4 Tredimensjonalt bunnkart med plassering av strømrigg (rødt flagg) ved lokalitet Midthjell. Kartet er nordlig orientert 
+Kartkilde: Olex 
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+- - = = = = = = - - l n m - - - - - : : : = = = - - - - - < 
+Figur 4 Tredimensjonalt bunnkart med plassering av strømrigg (rødt flagg) ved lokalitet Midthjell. Kartet er nordlig orientert 
+Kartkilde: Olex 
+s. 5/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 6/29 
+ 
+2. MATERIAL OG METODE 
+2.1. 
+Aktuelle standarder 
+Strømmålingene ble gjennomført i henhold til NS 9425-1:1999, Oseanografi – Del 1: Strømmåling i 
+faste punkter og NS 9425-2:2003, Oseanografi – Del 2: Strømmåling i ved hjelp av ADCP. 
+ 
+ 
+2.2. 
+Oppsett og instrumenter 
+Strømmålinger ble utført i fire dyp i vannsøylen ved hhv. 5 m* 
+(overflatestrøm), 15 m (vannutskiftningsstrøm), 87 m (spredningsstrøm) 
+og 141 m (bunnstrøm). Strømriggen bestod av én profilerende måler 
+(ADCP1, Signature500) på 34 m dyp (for måling av 5 og 15 m) og to 
+punktmålere (ADCP, Aquadopp Current Meter 2 MHz) på 87 m og 141 m 
+dyp (se skisse av strømriggen, Figur 5 og Vedlegg 6.2).  
+ 
+Instrumentene registrerer strømhastighet, strømretning, temperatur, 
+trykk, helning, dato og klokkeslett automatisk, med målefrekvens satt til 
+hvert 10. minutt. Utsett (4 mars 2022) og opphenting (19 april 2022) ble 
+utført av STIM Miljø med båten «MS Dykkerservice 9» fra Frøy Vest. 
+Instrumentene ble funksjonstestet og kontrollert for begroing og fysiske 
+skader både før utsett og etter opptak av strømriggen.   
+ 
+Programvarene Ocean Contour (Nortek, V2.1.4 R2182), Surge (Nortek, 
+v.1.14.01) og SeaReport (Nortek, v.1.11.0) ble benyttet i analyse og 
+fremstilling av strømdata.  
+ 
+*Evaluering av strømdata fra profilerende måler viste at registreringer fra de øvre 
+5 meterne inneholdt perioder med lav korrelasjon. Totalt 543 målinger ble derfor 
+filtrert ut av datasettet ved 5 m dyp. Periodene med lav korrelasjon ble videre 
+undersøkt (for å se om perioder med høye hastigheter hadde blitt filtrert ut) og 
+sammenliknet med målinger fra dybdecellen lenger ned i vannsøylen (6-7 m), men 
+ingen strømtopper ble observert i dypere celler.  
+ 
+ 
+ 
+1 Acoustic Doppler Current Profiler 
+Figur 
+5 
+Prinsippskisse 
+av 
+strømmåleriggen. ADCP-måleren 
+Signature500 (illustrert som gult 
+rektangel) 
+er 
+plassert 
+i 
+en 
+oppdriftsring og måler oppover i 
+vannsøylen, mens de to ADCP-
+målerne 
+Aquadopp 
+(svarte 
+rektangler) er orientert slik at de 
+måler oppover ved et punkt i 
+vannsøylen. Skisse fra Nordic 
+Subsea AS. 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+2. MATERIAL OG METODE 
+2.1. 
+Aktuelle standarder 
+Strømmålingene ble gjennomført i henhold til NS 9425-1:1999, Oseanografi - Del 1: Strømmåling i 
+faste punkter og NS 9425-2:2003, Oseanografi - Del 2: Strømmåling i ved hjelp av ADCP. 
+2.2. 
+Oppsett og instrumenter 
+Strømmålinger ble utført i fire dyp i vannsøylen ved hhv. 5 m* 
+(overflatestrøm), 15 m (vannutskiftningsstrøm), 87 m (spredningsstrøm) 
+og 141 m (bunnstrøm). Strømriggen bestod av en profilerende måler 
+(ADCP1, Signature500) på 34 m dyp (for måling av 5 og 15 m) og to 
+punktmålere (ADCP, Aquadopp Current Meter 2 MHz) på 87 m og 141 m 
+dyp (se skisse av strømriggen, Figur 5 og Vedlegg 6.2). 
+ml 
+Instrumentene registrerer strømhastighet, strømretning, temperatur, 
+trykk, helning, dato og klokkeslett automatisk, med målefrekvens satt til 
+hvert 10. minutt. Utsett (4 mars 2022) og opphenting (19 april 2022) ble 
+utført av STIM Miljø med båten «MS Dykkerservice 9» fra Frøy Vest. 
+Instrumentene ble funksjonstestet og kontrollert for begroing og fysiske 
+skader både før utsett og etter opptak av strømriggen. 
+Programvarene Ocean Contour (Nortek, V2.1.4 R2182), Surge (Nortek, 
+v.1.14.01) og SeaReport (Nortek, v.1.11.0) ble benyttet i analyse og 
+fremstilling av strømdata. 
+*Evaluering av strømdata fra profilerende måler viste at registreringer fra de øvre Figur 
+5 
+Prinsippskisse 
+av 
+strømmåleriggen. ADCP-måleren 
+5 meterne inneholdt perioder med lav korrelasjon. Totalt 543 målinger ble derfor SignatureSOO (illustrert som gult 
+filtrert ut av datasettet ved 5 m dyp. Periodene med lav korrelasjon ble videre 
+undersøkt (for å se om perioder med høye hastigheter hadde blitt filtrert ut) og 
+sammenliknet med målinger fra dybdecellen lenger ned i vannsøylen (6-7 m), men 
+ingen strømtopper ble observert i dypere celler. 
+rektangel) er plassert 
+i en 
+oppdriftsring og måler oppover i 
+vannsøylen, mens de to ADCP- 
+målerne 
+Aquadopp 
+(svarte 
+rektangler) er orientert slik at de 
+måler oppover ved et punkt i 
+vannsøylen. Skisse fra Nordic 
+Subsea AS. 
+1 Acoustic Doppler Current Profiler 
+s. 6/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 7/29 
+ 
+Tabell 1 Stasjonsopplysninger og utstyrsinformasjon for strømmålinger ved omsøkt lokalitet Midthjell. 
+Parameter 
+  
+Parameter 
+  
+Koordinater (lengde/bredde): 
+61°55.400 N   
+Koordinater (EUREF89/UTM32): 
+E: 317674.460 
+5°31.592 Ø 
+N: 6870517.797 
+Bunndyp (m): 
+450 
+  
+  
+Måleinstrument: 
+Profilerende måler Signatur 500 (ACDP) (ID 102476/1-3)  
+Antall målinger (org./filtrert): 
+5: 6567/6024, 15: 6567/6567 Måleretning: 
+Opp 
+Instrumentdyp (m): 
+34 
+Blanking distance (m) 
+0.5 
+Måledyp i vannsøylen (m): 
+5 og 15 
+Cellestørrelse (m): 
+2 
+Måleperiode start: 
+04.03.2022 
+Midlingsperiode (min): 
+1 
+Måleperiode slutt: 
+19.04.2022 
+Måleintervall (min): 
+10 
+Måleinstrument: 
+Punktmåler Aquadopp (ACDM) (AQD 11021/16507) 
+Antall målinger (org./filtrert): 
+6583/6583 
+Måleretning: 
+Opp 
+Instrumentdyp (m): 
+89 
+Blanking distance (m) 
+0.34 
+Måleperiode start: 
+04.03.2022 
+Midlingsperiode (min): 
+1 
+Måleperiode slutt: 
+19.04.2022 
+Måleintervall (min): 
+10 
+Måleinstrument: 
+Punktmåler Aquadopp (ACDM) (AQD 11022/16537) 
+Antall målinger (org./filtrert): 
+6580/6580 
+Måleretning: 
+Opp 
+Instrumentdyp (m): 
+141 
+Blanking distance (m)  
+0.34 
+Måleperiode start: 
+04.03.2022 
+Måleintervall (min): 
+10 
+Måleperiode slutt: 
+19.04.2022 
+Midlingsperiode (min): 
+1 
+ 
+2.3. 
+Beskrivelse av strømdata 
+Strømstyrke for måleperioden er presentert som gjennomsnittlig hastighet (cm/s) med standardavvik. 
+Stabiliteten til strømhastigheten i måleperioden (spredning i datasettet) beskrives med bruk av standardavvik (= 
+xy, for x = varians og y = 0.5). Maksimal (maks) og minimal (min) strøm er henholdsvis høyeste og laveste 
+registrerte hastighet. Signifikant maksimal-strøm og minimum-strøm er definert som gjennomsnittet av 1/3 av 
+de høyest eller lavest målte hastighetene. Strømretninger blir oppgitt i grader og er nødvendig informasjon i 
+beskrivelse av vanntransporten omkring målepunktet. Gjennomsnittlig vannforflytning omkring målepunktet kan 
+illustreres i sektordiagram som viser hvilken retning vanntransporten er størst.  
+Forholdet mellom strømretning og strømhastighet blir også beskrevet med bruk av progressiv vektoranalyse. 
+Progressiv vektor illustrerer hvordan en tenkt «partikkel» vil drive med strømmen over tid. En slik «partikkel» vil 
+kunne drive i ulike retninger gjennom måleperioden avhengig av stabiliteten til strømretningen. Neumann-
+parameter (verdi mellom 0 og 1) er brukt som mål for stabilitet til strømretningen. Neumann-parameter er 
+forholdet mellom avstanden i rett linje fra partikkelens posisjon ved start og slutt og den faktiske vandringsruten 
+til partikkelen. Høy Neumann-parameter vil indikere en klar hovedstrømretning, mens tilsvarende lav verdi 
+indikerer strømforhold med hyppige skift i strømretninger.  
+STIM Miljø Rapport 44-2022 
+Midthjell 
+Tabell 1 Stasjonsopplysninger og utstyrsinformasjon for strømmålinger ved omsøkt lokalitet Midthjell. 
+I Parameter 
+Parameter 
+Koordinater (lengde/bredde): 
+Bunndyp (m): 
+61°55.400 N 
+5°31.592 Ø 
+450 
+Koordinater (EUREF89/UTM32): 
+E: 317674.460 
+N: 6870517.797 
+Måleinstrument: 
+Profilerende måler Signatur 500 (ACDP) (ID 102476/1-3) 
+Antall målinger (org./filtrert): 
+Instrumentdyp (m): 
+Måledyp i vannsøylen (m): 
+Måleperiode start: 
+Måleperiode slutt: 
+5: 6567 /6024, 15: 6567 /6567 Måleretning: 
+34 
+5 og 15 
+04.03.2022 
+19.04.2022 
+Blanking distance (m) 
+Cellestørrelse (m): 
+Midlingsperiode (min): 
+Måleintervall (min): 
+Opp 
+0.5 
+2 
+1 
+10 
+Måleinstrument: 
+Punktmåler Aquadopp (ACDM) (AQD 11021/16507) 
+Antall målinger (org./filtrert): 
+Instrumentdyp (m): 
+Måleperiode start: 
+Måleperiode slutt: 
+6583/6583 
+Måleretning: 
+89 
+04.03.2022 
+19.04.2022 
+Blanking distance (m) 
+Midlingsperiode (min): 
+Måleintervall (min): 
+Opp 
+0.34 
+1 
+10 
+Måleinstrument: 
+Punktmåler Aquadopp (ACDM) (AQD 11022/16537) 
+Antall målinger (org./filtrert): 
+Instrumentdyp (m): 
+Måleperiode start: 
+Måleperiode slutt: 
+6580/6580 
+Måleretning: 
+141 
+04.03.2022 
+19.04.2022 
+Blanking distance (m) 
+Måleintervall (min): 
+Midlingsperiode (min): 
+Opp 
+0.34 
+10 
+1 
+2.3. 
+Beskrivelse av strømdata 
+Strømstyrke for måleperioden er presentert som gjennomsnittlig hastighet (cm/s) med standardavvik. 
+Stabiliteten til strømhastigheten i måleperioden (spredning i datasettet) beskrives med bruk av standardavvik(= 
+xv, for x = varians og y = 0.5). Maksimal (maks) og minimal (min) strøm er henholdsvis høyeste og laveste 
+registrerte hastighet. Signifikant maksimal-strøm og minimum-strøm er definert som gjennomsnittet av 1/3 av 
+de høyest eller lavest målte hastighetene. Strømretninger blir oppgitt i grader og er nødvendig informasjon i 
+beskrivelse av vanntransporten omkring målepunktet. Gjennomsnittlig vannforflytning omkring målepunktet kan 
+illustreres i sektordiagram som viser hvilken retning vanntransporten er størst. 
+Forholdet mellom strømretning og strømhastighet blir også beskrevet med bruk av progressiv vektoranalyse. 
+Progressiv vektor illustrerer hvordan en tenkt «partikkel» vil drive med strømmen over tid. En slik «partikkel» vil 
+kunne drive i ulike retninger gjennom måleperioden avhengig av stabiliteten til strømretningen. Neumann- 
+parameter (verdi mellom 0 og 1) er brukt som mål for stabilitet til strømretningen. Neumann-parameter er 
+forholdet mellom avstanden i rett linje fra partikkelens posisjon ved start og slutt og den faktiske vandringsruten 
+til partikkelen. Høy Neumann-parameter vil indikere en klar hovedstrømretning, mens tilsvarende lav verdi 
+indikerer strømforhold med hyppige skift i strømretninger. 
+s. 7/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 8/29 
+ 
+3. RESULTATER  
+3.1. 
+Sammendrag av resultater fra stasjon Midthjell  
+Deskriptiv statistikk er oppsummert i Tabell 2. Strømhastighet og -retning, CTD-målinger, 
+meteorologiske data og tidevann er gjengitt i Figur 6 - Figur 19. 
+ 
+Tabell 2 Oppsummering av strømmålinger registrert av én profilerende og to punktmålere ved Midthjell i perioden 4. mars 
+til 19. april 2022. Strømhastighet er gitt i cm/s. 
+ 
+ 
+ 
+Parameter 
+5 m 
+15 m 
+89 m 
+141 m 
+Gjennomsnittsstrøm  
+10.7 
+4.5 
+3.4 
+4.3 
+Standardavvik  
+6.2 
+2.9 
+1.8 
+2.2 
+Maksimum strømhastighet  
+35.5 
+26.0 
+11.5 
+13.5 
+Signifikant maksimum strøm*  
+17.4 
+7.6 
+5.4 
+6.8 
+Minimum strømhastighet  
+0.03 
+0.02 
+0.10 
+0.10 
+Signifikant minimums strøm*  
+4.5 
+1.9 
+1.6 
+2.0 
+Mest signifikante strømretninger  
+(300, 285, 315, 330°) 
+NV, V, NV, NV 
+(285, 270, 300, 255°) 
+V, V, NV, V 
+(285, 300, 75, 90°) 
+V, NV, Ø, Ø 
+(285, 270, 255, 300°) 
+V, V, V, NV 
+Hovedretning vannfluks  
+ (285-300°) 
+V-NV 
+ (270-285°) 
+V-V 
+(270-285°) 
+V-V 
+(255-270°) 
+V-V 
+Strømhastighet > 30 cm/s (% ) 
+0.2 
+0.0 
+0.0 
+0.0 
+Strømhastighet > 15 cm/s (%) 
+23.9 
+1.23 
+0.0 
+0.0 
+Strømhastighet  < 3 cm/s (%)  
+10.4 
+33.9 
+43.8 
+30.1 
+Strømhastighet (%)  < 1 cm/s  
+(Nullmålinger) 
+1.5 
+4.5 
+6.7 
+3.7 
+Lengste varighet nullmålinger (min) 
+30 
+60 
+30 
+30 
+Neumann-parameter 
+0.49 
+0.45 
+0.17 
+0.37 
+Temperaturvariasjon i sjø (°C) 
+6.8 – 8.9 
+6.9 – 8.1 
+6.9 – 8.6 
+*Gjennomsnittet av 1/3 målingene som viser lavest /høyest verdi. 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+3. RESULTATER 
+3.1. 
+Sammendrag av resultater fra stasjon Midthjell 
+Deskriptiv statistikk er oppsummert i Tabell 2. Strømhastighet og -retning, CTD-målinger, 
+meteorologiske data og tidevann er gjengitt i Figur 6 - Figur 19. 
+Tabell 2 Oppsummering av strømmålinger registrert av en profilerende og to punktmålere ved Midthjell i perioden 4. mars 
+til 19. april 2022. Strømhastighet er gitt i cm/s. 
+I Parameter 
+Sm 
+1 5 m 
+8 9 m 
+141m 
+Gjennomsnittsstrøm 
+10.7 
+4.5 
+3.4 
+4.3 
+Standardawik 
+6.2 
+2.9 
+1.8 
+2.2 
+Maksimum strømhastighet 
+35.5 
+26.0 
+11.5 
+13.5 
+Signifikant maksimum strøm* 
+17.4 
+7.6 
+5.4 
+6.8 
+Minimum strømhastighet 
+0.03 
+0.02 
+0.10 
+0.10 
+Signifikant minimums strøm* 
+4.5 
+1.9 
+1.6 
+2.0 
+Mest signifikante strømretninger 
+(300, 285, 315, 330°) (285, 270, 300, 255°) 
+(285, 300, 75, 90°) 
+(285, 270, 255, 300°) 
+NV,V,NV,NV 
+V, 
+V, NV, V 
+V,NV,Ø,Ø 
+V,V,V,NV 
+Hovedretning vannfluks 
+(285-300°) 
+(270-285°) 
+(270-285°) 
+(255-270°) 
+V-NV 
+V-V 
+V-V 
+V-V 
+Strømhastighet> 30 cm/s (% ) 
+0.2 
+0.0 
+0.0 
+0.0 
+Strømhastighet> 15 cm/s (%) 
+23.9 
+1.23 
+0.0 
+0.0 
+Strømhastighet < 3 cm/s (%) 
+10.4 
+33.9 
+43.8 
+30.1 
+Strømhastighet(%) < 1 cm/s 
+1.5 
+4.5 
+6.7 
+3.7 
+(Nullmålinger) 
+Lengste varighet nullmålinger (min) 
+30 
+60 
+30 
+30 
+Neumann-parameter 
+0.49 
+0.45 
+0.17 
+0.37 
+Temperaturvariasjon i sjø (0C) 
+6.8-8.9 
+6.9-8.1 
+6.9-8.6 
+*Gjennomsnittet av 1/3 målingene som viser lavest /høyest verdi. 
+s. 8/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 9/29 
+ 
+3.2. 
+Gjennomsnittshastighet 
+ 
+ 
+ 
+ 
+Figur 6 Gjennomsnittshastighet- og retning for strøm på 5, 15, 89 (spredningsstrøm) og 141 m (bunnstrøm) registrert i 
+perioden 4. mars til 19. april 2022. 
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+3.2. 
+Gjennomsnittshastighet 
+Sm 
+15 m 
+330 
+345 - , - - - , r----- 
+\ 
+31:i 
+aee 
+ 
+'\ 
+I, :: 
+" 
+>-,_ \ \., 
+f I 
+'\ 
+f   
+''" -.,__ 
+' 
+----1----\' 
+• -- 
+. 
+\ 
+75 
+135 
+,o, 
+270 
+25' 
+.345 
+:3!i 
+15 
+\ 
+JO 
+/ 
+"' 
+\::-/'/ 
+\ 1 I/ 
+10 
+t"'" 
+330 
+45 
+105 
+180 
+180 
+89 m 
+141 m 
+0 
+345 
+1S 
+270 
+330 
+\ 
+\ 
+_!0 
+j 
+\ / 
+\ \ , I 
+-, 
+\ 
+I 
+------- 
+' 
+-
+-
+-
+-
+ 
+- - - - : . - , r 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ 
+255 
+/ 
+, 
+/ 
+I 
+\ 
+" 
+- / ' / / \  
+, z 5 
+/ 
+./ 
+_ 
+m 
+210 
+I 
+300 
+285 
+120 
+•a 
+105 
+270 
+34> 
+330 
+\ 
+\ 
+11 
+19 
+/ 
+300 
+'
+\
+\
+ 
+// 
+/ 
+, _ / / 
+60 
+ 
+5 
+j 
+r. 
+Z85 
+- --._ 
+ 
+:i.: 
+\ 
+,I / 
+/ 
+- 
+7!1 
+---------------- 
+-
+1
+ 
+._ 
+----- 
+--- 
+z::;5 
+--- 
+.,.,,,,, 
+I 
+1 
+,. /, /l \\, 
+I 
+/ 
+\ \\ 
+210 
+1 
+315 
+225 
+30 
+45 
+75 
+00 
+105 
+120 
+135 
+ise 
+195 -
+-
+-
+-
+'
+-
+-
+-
+-
+ 16S 
+180 
+180 
+Figur 6 Gjennomsnittshastighet- og retning for strøm på 5, 15, 89 (spredningsstrøm) og 141 m (bunnstrøm) registrert i 
+perioden 4. mars til 19. april 2022. 
+s. 9/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 10/29 
+ 
+3.3. 
+Maksimal strømhastighet 
+ 
+ 
+ 
+ 
+ 
+Figur 7 Maksimal hastighet- og retning for strøm på 5, 15, 89 (spredningsstrøm) og 141 m (bunnstrøm) registrert i perioden 
+4. mars til 19. april 2022. 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+3.3. 
+Maksimal strømhastighet 
+Sm 
+15 m 
+270 
+315 
+2B5 
+2 7 0 
+105 
+225 
+210 
+I- _ 
+... --......-- 
+180 
+89 m 
+270 
+\ 
+75 
+90 
+1 ' 0 
+195 - - . . . 1 . - - - - - 165 
+180 
+120 
+135 
+90 
+270 
+/< 
+\ 
+30 
+7", \ \" 
+:JOO 
+"-. 
+\ 
+, :w 
+' 
+,. 
+I 
+\ 
+I 
+' 
+30 
+150 
+180 
+141 m 
+-
+-
+r
+-
+-
+-
+ 
+15 
+_J4 
+- / I 
+I 
+l.fl 
+- ! 
+30 
+75 
+105 
+180 
+Figur 7 Maksimal hastighet- og retning for strøm på 5, 15, 89 (spredningsstrøm) og 141 m (bunnstrøm) registrert i perioden 
+4. mars til 19. april 2022. 
+s. 10/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 11/29 
+ 
+3.4. 
+Gjennomsnittlig vannforflytning 
+ 
+ 
+ 
+ 
+ 
+Figur 8 Gjennomsnittlig vannforflytning (𝑚3/𝑚2/𝑑) for strøm på 5, 15, 89 (spredningsstrøm) og 141 m (bunnstrøm) registrert 
+i perioden 4. mars til 19. april 2022. 
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+3.4. 
+Gjennomsnittlig vannforflytning 
+Sm 
+15 m 
+165 
+180 
+89 m 
+I 
+30 
+285 
+45 
+\ 
+1/ 
+/ 
+60 
+/
+/
+ 
+,,.,, 
+-
+r
+ 
+270 
+1 " 0 
+7' 
+so 
+270 
+zes " 
+270 
+255 
+JOO 
+315 
+330 
+210 
+\ 
+\ 
+,oo 
+ 0 0 
+1 
+,,oo 
+./ 
+. 
+\ 
+200 
+I 
+' ./._ 
+l 
+I 
+1/ 
+30 
+7S 
+90 
+•• 
+ios 
+180 
+141 m 
+,,. 
+105 
+\ "' I I" 
+\ \ : : I / / 
+q o I 
+>:: 
+, 
+• 
+x 
+------ 
+- 
+' 
+-------1____ 
+'\ 
+'"--- . 
+. / \ \ 
+I 
+J 
+I 
+I 
+210 
+330 
+34S 
+1S 
+75 
+90 
+105 
+180 
+180 
+Figur 8 Gjennomsnittlig vannforflytning (m3 / m 2 / d ) for strøm på 5, 15, 89 (spredningsstrøm) og 141 m (bunnstrøm) registrert 
+i perioden 4. mars til 19. april 2022. 
+s. 11/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 12/29 
+ 
+3.5. 
+Tidsserie av strømhastighet 
+ 
+ 
+Figur 9 Tidsserie av strømhastighet- og retning på 5 m, samt sjøtemperatur registrert av profilerende måler ved 34 m dyp i 
+perioden 4. mars til 19. april 2022. Som sammenlikningsgrunnlag mellom de ulike dybdene (vist ved påfølgende sider i 
+rapporten) er hastighet ved 10 cm/s anvist med grå stiplet linje i øverste panel.  
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+3.5. 
+Tidsserie av strømhastighet 
+overflale 
+90 
+ 
+8.5 
+ E 
+8.o 
+., 
+Q. 
+§ 
+7.5 
+i 'vi 
+7.0 
+36.0 
+ 
+35.5 
+<II 
+.<> 
+ 
+35,0 
+.,. 
+i 
+34.5 
+1- 
+34,0 
+33.5 -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ 
+mar07 
+mar 14 
+mar21 
+mar28 
+apr04 
+apr 11 
+apr 18 
+Dato 
+Figur 9 Tidsserie av strømhastighet- og retning på 5 m, samt sjøtemperatur registrert av profilerende måler ved 34 m dyp i 
+perioden 4. mars til 19. april 2022. Som sammenlikningsgrunnlag mellom de ulike dybdene (vist ved påfølgende sider i 
+rapporten) er hastighet ved 10 cm/s anvist med grå stiplet linje i øverste panel. 
+s. 12/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 13/29 
+ 
+ 
+Figur 10 Tidsserie av strømhastighet- og retning på 15 m, samt sjøtemperatur registrert av profilerende måler ved 34 m dyp 
+i perioden 4. mars til 19. april 2022. 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+vannutskiHning 
+U) 
+25 
+e 
+ 
+20 
+,; 
+15 
+.:::: 
+.2' 
+iii "' 
+.:::: e 
+5 
+i 
+Cl) 
+0 
+360 
+0 
+270 
+r;n 
+C ·c 
+,; 
+180 
+e 
+ 
+go 
+ti, 
+0 
+9.0 
+E 8.5 
+... 
+::, .... 
+l!! 
+8.0 
+., 
+a. 
+E 
+7.5 
+., 
+li 
+'vi' 
+7.0 
+36.0 
+'C' 
+35.5 
+"' 
+J:I. 
+ 
+35.0 
+-" 
+-" 
+34.5 
+  
+34.0 
+33.5 
+mar07 
+mar 14 
+mar21 
+mar28 
+apr04 
+apr 11 
+apr 18 
+Dato 
+Figur 10 Tidsserie av strømhastighet- og retning på 15 m, samt sjøtemperatur registrert av profilerende måler ved 34 m dyp 
+i perioden 4. mars til 19. april 2022. 
+s. 13/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 14/29 
+ 
+ 
+Figur 11 Tidsserie av strømhastighet- og retning, samt sjøtemperatur registrert av punktmåler på 89 m dyp i perioden 4. mars 
+til 19. april 2022. 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+'in 
+E 
+ 
+12 
+- 
+QI 
+.c 
+8 
+- ø 
+ni 
+4 
+.c 
+E 
+!! 
+0 
+- 
+"' 
+360 
+- 
+ 
+Cl 
+270 
+C 
+'2 
+ 
+180 
+E 
+!! 
+90 
+- 
+(/) 
+0 
+(,.) 
+8.00 
+ ... 7.75 
+ 
+'1ii 7.50 
+... 
+QI 
+C. 
+E 
+7.25 
+QI - 
+& 
+7.00 
+'vi 
+90.5 
+- 
+... 90.0 
+ni 
+.c 
+ 
+89.5 
+.:.: 
+.:.: 
+ 
+89.0 
+I- 
+88.5 
+---1..-------------- ---- 
+ 
+ 
+spredning 
+mar07 
+mar 14 
+mar21 
+mar28 
+Dato 
+apr 04 
+apr 11 
+apr 18 
+Figur 11 Tidsserie av strømhastighet- og retning, samt sjøtemperatur registrert av punktmåler på 89 m dyp i perioden 4. mars 
+til 19. april 2022. 
+s. 14/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 15/29 
+ 
+ 
+Figur 12 Tidsserie av strømhastighet- og retning, samt sjøtemperatur registrert av punktmåler på 141 m dyp i perioden 4. 
+mars til 19. april 2022. 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+bunn 
+ii, 
+E 
+2- 
+12 
+ai 
+.s::. 
+8 
+en 
+:.:: 
+II) m 
+4 
+.s::. 
+E 
+& ... 
+0 
+- 
+V, 
+360 
+L. 
+en 
+270 
+C :s 
+180 
+ 
+E 
+& 
+90 
+... 
+in 
+0 
+p- 
+8.4 
+... 
+8.0 
+:, - 
+m ... 
+QI 
+7.6 
+Q. 
+E 
+QI - 
+7.2 
+& 
+'vi 
+6.8 
+142.0 
+ m 
+.t:J 
+141.5 
+ 
+..:.:: 141.0 
+..:.:: 
+ I- 
+140.5 
+140.0 
+mar07 
+mar 14 
+mar21 
+mar28 
+Dato 
+apr 04 
+apr 11 
+apr18 
+Figur 12 Tidsserie av strømhastighet- og retning, samt sjøtemperatur registrert av punktmåler på 141 m dyp i perioden 4. 
+mars til 19. april 2022. 
+s. 15/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 16/29 
+ 
+3.6. 
+Frekvensfordeling av strømhastighet 
+ 
+ 
+Figur 13 Frekvensfordeling av strømhastighet for målinger på 5, 15, 89 og 141 m i perioden 4. mars til 19. april 2022. 
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+3.6. 
+Frekvensfordeling av strømhastighet 
+overflate 
+... 
+QI 
+C) 
+.5 
+"C'CI 
+E 
+C'CI - 
+C 
+<( 
+spredning 
+3000 
+2500 
+2000 
+1500 
+1000 
+500 
+3000 
+2500 
+2000 
+1500 
+1000 
+500 
+0-, 
+vannutskiftning 
+-- 
+bunn 
+- - - 
+,_ 
+Strømhastighet (emfs) 
+Figur 13 Frekvensfordeling av strømhastighet for målinger på 5, 15, 89 og 141 m i perioden 4. mars til 19. april 2022. 
+s. 16/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 17/29 
+ 
+3.7. 
+Frekvensfordeling av strømretning 
+ 
+Figur 14 Frekvensfordeling av strømretning for målinger på 5, 15, 89 og 141 m i perioden 4. mars til 19. april 
+2022. 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+3.7. 
+Frekvensfordeling av strømretning 
+overflate 
+vannutskiftning 
+0-15 
+0-15 
+15-30 
+15-30 
+30-45 
+30-45 
+45-60 
+45-60 
+60-75 
+60-75 
+75-90 
+75-90 
+90-105 
+90-105 
+105-120 
+105-120 
+120-135 
+120-135 
+135-150 
+135-150 
+150-165 
+150-165 
+165-180 
+165-180 
+180-195 
+180-195 
+195-210 
+195-210 
+210-225 
+210-225 
+225-240 
+225-240 
+240-255 
+240-255 
+255-270 
+255-270 
+270-285 
+270-285 
+185-300 
+185-300 
+300-315 
+300-315 
+315-330 
+315-330 
+330-345 
+330-345 
+345-360 
+345-360 
+o 
+300 
+600 
+900 
+o 
+300 
+600 
+900 
+....... 
+Lo 
+Cl 
+C: 
+C: - 
+Q) 
+spredning 
+bunn 
+et:: 
+0-15 
+0-15 
+15-30 
+15-30 
+30-45 
+30-45 
+45-60 
+45-60 
+60-75 
+60-75 
+75-90 
+75-90 
+90-105 
+90-105 
+105-120 
+105-120 
+120-135 
+120-135 
+135-150 
+135-150  
+150-165 
+150-165 -==:::J 
+165-180 
+165-180 .::I 
+180-195 
+180-195 -===i 
+195-210 
+195-210 
+210-225 
+210-225 
+225-240 
+225-240 
+240-255 
+240-255 
+255-270 
+255-270 
+270-285 
+270-285 
+185-300 
+185-300 
+300-315 
+300-315 
+315-330 
+315-330 
+330-345 
+330-345 ===::J 
+345-360 
+345-360 
+0 
+300 
+600 
+900 
+0 
+300 
+600 
+900 
+Antall målinger 
+Figur 14 Frekvensfordeling av strømretning for målinger på 5, 15, 89 og 141 m i perioden 4. mars til 19. april 
+2022. 
+s. 17/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 18/29 
+ 
+3.8. 
+CTD-måling ved utsett av strømrigg 
+ 
+ 
+ 
+ 
+Figur 15 Temperatur, salinitet og tetthet av vannsøylen basert på CTD-målinger ved utsett av strømriggen 4. mars kl. 12:00.  
+STIM Miljø Rapport 44-2022 
+3.8. 
+CTD-måling ved utsett av strømrigg 
+Temperatur °C 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+500 
+550 
+600 
+Dypde (m) 
+Tetthet (aT) 
+20 
+22 
+24 
+26 
+28 
+30 
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+500 
+550 
+600 
+Oypde (m) 
+Midthjell 
+Saltholdighet (psu) 
+27 28 29 30 31 32 33 34 35 
+or------='.:::::::::::::'.:==:::=:::::::::::=:::: 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+500 
+550 
+600 
+Dypde (m) 
+Oksygenmetning (%) 
+85 
+95 
+105 
+115 
+65 
+75 
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+500 
+550 
+600 
+Dypde (m) 
+Figur 15 Temperatur, salinitet og tetthet av vannsøylen basert på CTD-målinger ved utsett av strømriggen 4. mars kl. 
+12:00. 
+s. 18/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 19/29 
+ 
+3.9. 
+Tidsserie av vind og tidevann 
+Meteorologiske data ble innhentet fra to ulike værstasjoner i nærhet av lokaliteten for å gi et bilde på 
+værforholdene i tidsperioden strømmålingene ble utført (se Vedlegg 6.1 for data fra RV15 Måløybrua 
+værstasjon). Vindpåvirkning av overflatestrømmen ble i hovedsak vurdert fra målestasjon ved Sandane Lufthavn 
+(Figur 16). 
+Figur 
+16 
+Plassering 
+av 
+meteorologisk målestasjon, 
+Sandane 
+Lufthavn 
+(SN58100, 59 moh.), ca. 32 
+km 
+sørøst 
+for 
+omsøkt 
+lokalitet Midthjell.  
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 17 Tidsserie av vindhastighet og strømhastighet på 5 og 15 m, samt trykk registrert av profilerende måler (Signature500). 
+Hvit og svart sirkel indikerer hhv. tidspunkt for fullmåne og nymåne, og grå vertikale skraveringer viser tidsperiode med 
+korrespondanse mellom vind- og strømhastighet.  
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+3.9. 
+Tidsserie av vind og tidevann 
+Meteorologiske data ble innhentet fra to ulike værstasjoner i nærhet av lokaliteten for å gi et bilde på 
+værforholdene i tidsperioden strømmålingene ble utført (se Vedlegg 6.1 for data fra RVlS Måløybrua 
+værstasjon). Vindpåvirkning av overflatestrømmen ble i hovedsak vurdert fra målestasjon ved Sandane Lufthavn 
+(Figur 16). 
+N 
+A 
+Sølja 
+ 
+... 
+'\ 
+f 
+l 
+' 
+-' 
+I 
+H 
+_, , - 1 , _ 
+'- 
+' M I D T H J E L L 
+,_ 
+,, 
+1 
+ 
+' - \ s 
+/' 
+ll'als-9-1nei:::::P" 
+•
+d
+f
+j
+O
+!
+'
+d
+-
+=
+-
+ 
+ 
+.._.. 
+1 
+/ 
+ 
+S A N D A N E 
+• 
+1
+"
+1
+ 
+ 
+ 
+-:J: "• 
+L U F T H A : 
+ 
+ 
+(rj"'"" 
+ 
+,, I 
+Sa ..... ,,. 
+5 
+O K i l o m e r s , 
+ 
+I 
+i\.{ 
+\ . f f , , _ _ . 
+.  I 
+ Th: , 
+ 
+l 
+§ , } 
+Figur 
+16 
+Plassering 
+av 
+meteorologisk målestasjon, 
+Sandane 
+Lufthavn 
+(SN58100, 59 moh.), ca. 32 
+km 
+sørøst 
+for 
+omsøkt 
+lokalitet Midthjell. 
+sancane Lunnavn 
+.!!!. 
+12 
+.s - 
+9 
+., 
+.r:: 
+.g> 
+6 
+., .. 
+.r:: 
+3 
+,, 
+C > 
+0 
+.. 
+e 
+30 
+• t i 
+ 
+' 
+.; 
+.r:: 
+20 
+"' 
+- - 
+., ., .. 10 
+.r:: 
+E 
+I!! 
+iii 
+0 
+.. 
+25 
+e 
+ 
+20 
+.; 
+.r:: 
+15 
+.2' 
+.; 
+10 
+.. 
+.r:: 
+E 
+5 
+I!! 
+ui 
+0 
+36.0 
+- 
+0 
+... 35.5 
+.. 
+..c 
+ 
+35.0 
+-"" 
+-"" 
+34.5 
+i::' 
+I- 
+34.0 
+33.5 
+mar07 
+mar 14 
+mar21 
+mar28 
+Dato 
+Sm 
+15m 
+Signaturesoo 
+apr 04 
+apr 11 
+apr 18 
+Figur 17 Tidsserie av vindhastighet og strømhastighet på 5 og 15 m, samt trykk registrert av profilerende måler (Signature500). 
+Hvit og svart sirkel indikerer hhv. tidspunkt for fullmåne og nymåne, og grå vertikale skraveringer viser tidsperiode med 
+korrespondanse mellom vind- og strømhastighet. 
+s. 19/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 20/29 
+ 
+ 
+Figur 18 Tidsserie av vindretning fra Sandane Lufthavn (retning vinden kommer fra) og strømretning (retning strømmen går 
+mot) fra profilerende måler på hhv. 5 og 15 m.  
+ 
+Figur 19 Vindrose fra Sandane Lufthavn (viser retning vinden kommer fra) i perioden 3. mars til 19 april. 2022.  
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+360 
+- 
+ 
+Cl 
+270 
+C 
+·2 - 
+Gl 
+..... 
+"C 
+C > 
+180 
+90 
+360 
+gi 270 
+C i 
+180 
+E 
+!!! 
+90 
+- 
+Ul 
+Sm 
+15 m 
+360 
+- 
+ 
+Cl 
+270 
+C 
+·2 - 180 
+Gl 
+..... 
+E 
+Ill 
+90 
+..... 
+;;; 
+0 
+mar 07 
+• 
+I 
+. 
+Il_, •· ... 
+• • 
+• • ,,j'""-..; • • • • r • \ 
+• • •• I 
+•  1• • t •• • • 
+Je1 I 
+• 
+.. 
+' 
+\o • • 
+, . L t . 
+I 
+t 
+• 
+•, 
+• 
+I 
+• 
+• • 
+.: f ,. A . l.l, •· 
+mar 14 
+mar 21 
+mar 28 
+apr 04 
+apr 11 
+apr 18 
+Dato 
+Figur 18 Tidsserie av vindretning fra Sandane Lufthavn (retning vinden kommer fra) og strømretning (retning strømmen går 
+mot) fra profilerende måler på hhv. 5 og 15 m. 
+N 
+NNV 
+NNØ 
+10% 
+(7 
+VNV 
+Vindhastighet (mis) 
+5% 
+f:::l 
+  12 - 1 4 
+II) 
+  10 - 1 2 
+C 
+  8 - 1 0 
+G> 
+'t 
+> 
+0% 
+V 
+0 
+..:.:: 
+  6 - 8 
+G> ... 
+u. 
+4 - 6 
+?:llJ 
+2 - 4 
+vsv 
+0S0 
+0 - 2 
+/ 
+ssv 
+ssø 
+s 
+Figur 19 Vindrose fra Sandane Lufthavn (viser retning vinden kommer fra) i perioden 3. mars til 19 april. 2022. 
+s.20/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 21/29 
+ 
+4. DISKUSJON 
+Strømhastighet og retning 
+Overflate- (5 m), vannutskiftning- (15 m) og bunnstrøm (141 m) viser hovedstrømretning mot vest-
+nordvest, med en mindre komponent mot øst. Ved spredningsstrøm (89 m) er retningsfordelingen 
+bimodal, med omtrentlig lik fordeling i vest-østlig-retning.  
+Gjennomsnittlig strømhastighet er vurdert som svært sterk på 5 m (10.7 cm/s), middels sterk på 141 
+m (4.4 cm/s) og som svak på 15 og 89 m dyp (4.5 og 3.4 cm/s). Signifikant maksimal hastighet 
+(gjennomsnittet av 1/3 høyeste målingene) er vurdert som sterk ved 5 m (17.4 cm/s), middels sterk 
+ved 141 m (6.8 cm/s), og som svak ved 15 og 89 m (7.6 og 5.4 cm/s). Høyeste hastigheter ble registrert 
+ved 5 og 15 m (35.5 og 26.0 cm/s) og vurdert som middels sterk ved denne type fjordlokalitet. 
+Maksimal hastighet ved sprednings- og bunnstrøm (11.5 og 13.5 cm/s) er vurdert som svak.   
+Med utgangspunkt i Neumann-parameteren er strømmen vurdert som stabil ved 5 og 15 m (Neumann-
+parameter 0.49 og 0.45) og som middels stabil ved bunnstrøm (0.37). Ved spredningsstrøm viser 
+Neumann-parameteren at strømmen er lite stabil (0.17), trolig på grunn av en bimodal 
+retningsfordeling som viser at vannmassene ved dette dypet beveger seg omtrent like frekvent i to 
+motsatte retninger.   
+Varighet av strømstille perioder er vurdert som moderat (< 60 minutter) og andel nullmålinger (< 6.7 
+%) vurderes som lav ved alle dyp. Andel målinger < 3 cm/s er vurdert som m høy ved 15 og 89 m (33.9 
+og 43.8 %) og som middels høy ved 5 og 141 m (10.4 og 30.1 %). Det ble registrert høy andel målinger 
+(23.9 %) > 15 cm/s på 5 m dyp.  
+Vertikal stabilitet og laginndeling av vannsøylen 
+CTD-målingene utført 4. mars viser en stabil og relativt godt blandet vannsøyle hvor tettheten øker 
+jevnt fra 1022.1 kg/m3 i overflaten (øverste 8 m) til 1029.7 kg/m3 ved den dypeste målingen (579 m). 
+Et ferskvannslag eksisterer i de øverste 8 m av vannsøylen, med laveste salinitet på 28.0 ‰ og med 
+jevn økning til 34.8 ‰ ved dypeste måling. Temperaturen er også betydelig lavere i overflatevannet (5 
+°C i øvre 10 m) sammenliknet med dypere målinger (> 7.5 °C). En vannmasse av høyere temperatur 
+eksisterer fra 150 til 200 m, med makstemperatur på 8.6°C ved 169 m, hvorpå temperaturen avtar mot 
+bunnen. Lagdelingen av vannmassene er relativt svak ved undersøkelsestidspunktet (med unntak fra 
+de øvre 8 m) som tyder på relativt god vertikal blanding i resten vannsøylen. 
+Tidevannspåvirkning 
+Det ble funnet liten korrespondanse mellom økt tidevannsvariasjon som følge av nymåne og fullmåne 
+(fra trykk registrert av strømmålerne) og perioder med økt strømhastighet (Figur 17), som tyder på at 
+andre prosesser enn tidevann forårsaker strømtoppene.  
+Vindpåvirkning 
+Ut ifra omkringliggende topografi og fjordens orientering vil trolig vind fra vest og øst være av 
+betydning for overflatestrømmen ved lokaliteten. Meteorologiske data fra mest representative 
+værstasjon (Sandane Lufthavn)2 viste gjennomsnittshastighet på 2.7 ± SD 2.01 m/s, med høyeste 
+registrerte hastighet på 13.3 m/s i løpet av måleperioden. Vinden registrert ved målestasjonen kom 
+hovedsakelig fra øst-nordøstlig retning, med høyeste registrerte hastigheter fra sør og nordvestlig 
+ 
+2 Vindhastighet og retning ved målestasjonen vil antakelig avvike noe fra de faktiske vindforholdene ved lokaliteten grunnet noe ulik 
+omkringliggende topografi, men etter sammenlikning med andre målestasjoner i området er Sandane L. vurdert som mest representativ 
+for de lokale vindforholdene.  
+STIM Miljø Rapport 44-2022 
+Midthjell 
+4. DISKUSJON 
+Strømhastighet og retning 
+Overflate- (5 m), vannutskiftning- (15 m) og bunnstrøm (141 m) viser hovedstrømretning mot vest- 
+nordvest, med en mindre komponent mot øst. Ved spredningsstrøm (89 m) er retningsfordelingen 
+bimodal, med omtrentlig lik fordeling i vest-østlig-retning. 
+Gjennomsnittlig strømhastighet er vurdert som svært sterk på 5 m (10.7 cm/s), middels sterk på 141 
+m (4.4 cm/s) og som svak på 15 og 89 m dyp (4.5 og 3.4 cm/s). Signifikant maksimal hastighet 
+(gjennomsnittet av 1/3 høyeste målingene) er vurdert som sterk ved 5 m (17.4 cm/s), middels sterk 
+ved 141 m (6.8 cm/s), og som svak ved 15 og 89 m (7.6 og 5.4 cm/s). Høyeste hastigheter ble registrert 
+ved 5 og 15 m (35.5 og 26.0 cm/s) og vurdert som middels sterk ved denne type fjordlokalitet. 
+Maksimal hastighet ved sprednings- og bunnstrøm (11.5 og 13.5 cm/s) er vurdert som svak. 
+Med utgangspunkt i Neumann-parameteren er strømmen vurdert som stabil ved 5 og 15 m (Neumann- 
+parameter 0.49 og 0.45) og som middels stabil ved bunnstrøm (0.37). Ved spredningsstrøm viser 
+Neumann-parameteren at strømmen er lite stabil (0.17), trolig på grunn av en bimodal 
+retningsfordeling som viser at vannmassene ved dette dypet beveger seg omtrent like frekvent i to 
+motsatte retninger. 
+Varighet av strømstille perioder er vurdert som moderat(< 60 minutter) og andel nullmålinger(< 6.7 
+%) vurderes som lav ved alle dyp. Andel målinger< 3 emfs er vurdert som m høy ved 15 og 89 m (33.9 
+og 43.8 %) og som middels høy ved 5 og 141 m (10.4 og 30.1 %). Det ble registrert høy andel målinger 
+(23.9 %) > 15 cm/s på 5 m dyp. 
+Vertikal stabilitet og laginndeling av vannsøylen 
+CTD-målingene utført 4. mars viser en stabil og relativt godt blandet vannsøyle hvor tettheten øker 
+jevnt fra 1022.1 kg/m3 i overflaten (øverste 8 m) til 1029.7 kg/m3 ved den dypeste målingen (579 m). 
+Et ferskvannslag eksisterer i de øverste 8 m av vannsøylen, med laveste salinitet på 28.0 %0 og med 
+jevn økning til 34.8 %0 ved dypeste måling. Temperaturen er også betydelig lavere i overflatevannet (5 
+°C i øvre 10 m) sammenliknet med dypere målinger(> 7.5 °C). En vannmasse av høyere temperatur 
+eksisterer fra 150 til 200 m, med makstemperatur på 8.6°C ved 169 m, hvorpå temperaturen avtar mot 
+bunnen. Lagdelingen av vannmassene er relativt svak ved undersøkelsestidspunktet (med unntak fra 
+de øvre 8 m) som tyder på relativt god vertikal blanding i resten vannsøylen. 
+Tidevan nspåvi rkn ing 
+Det ble funnet liten korrespondanse mellom økt tidevannsvariasjon som følge av nymåne og fullmåne 
+(fra trykk registrert av strømmålerne) og perioder med økt strømhastighet (Figur 17), som tyder på at 
+andre prosesser enn tidevann forårsaker strømtoppene. 
+Vindpåvirkning 
+Ut ifra omkringliggende topografi og fjordens orientering vil trolig vind fra vest og øst være av 
+betydning for overflatestrømmen ved lokaliteten. Meteorologiske data fra mest representative 
+værstasjon (Sandane Lufthavn)2 viste gjennomsnittshastighet på 2. 7 ± SD 2.01 m/s, med høyeste 
+registrerte hastighet på 13.3 m/s i løpet av måleperioden. Vinden registrert ved målestasjonen kom 
+hovedsakelig fra øst-nordøstlig retning, med høyeste registrerte hastigheter fra sør og nordvestlig 
+2 Vindhastighet og retning ved målestasjonen vil antakelig avvike noe fra de faktiske vindforholdene ved lokaliteten grunnet noe ulik 
+omkringliggende topografi, men etter sammenlikning med andre målestasjoner i området er Sandane L. vurdert som mest representativ 
+for de lokale vindforholdene. 
+s. 21/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 22/29 
+ 
+retning. Det ble registeret flere strømtopper på 5 og 15 m i løpet av måleperioden som korresponderer 
+med vindhastighet- og retning registrert av målestasjonen (Figur 17). Vedvarende moderat vind i 
+kombinasjon med stratifisering av overflatevannet (som vist fra CTD-målingene) kan sette opp 
+vinddrevet strøm i de øverste 20 m av vannsøylen, og dermed være av stor betydning for 
+strømforholdene ved lokaliteten (Albretsen & Asplin, 2017). 
+I tillegg ble meteorologiske data fra RV15 Måløybrua undersøkt (se Vedlegg 6.1). Denne målestasjonen 
+ligger mer eksponert ute ved kysten og viste gjennomsnittshastighet på 6.17 ± SD 4.39 m/s, med 
+høyeste registrerte hastighet på 25 m/s i løpet av måleperioden. Vinden registrert ved målestasjonen 
+kom hovedsakelig fra sør- sørvestlig retning i første del av måleperioden (mars), og deretter mer fra 
+nordlig retning i april. Det ble registrert høyere strømhastigheter ved lokaliteten i mars måned når 
+vinden kom fra sør. Midthjell er relativt godt beskyttet fra vind i sør-nord-retning, men vedvarende 
+sørlig vind kan trolig føre til oppstuing av vann fra kysten inn på sørsiden av fjordsystemet og dermed 
+skape en utadgående strøm ut av fjorden på nordsiden.  
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+retning. Det ble registeret flere strømtopper på 5 og 15 m i løpet av måleperioden som korresponderer 
+med vindhastighet- og retning registrert av målestasjonen (Figur 17). Vedvarende moderat vind i 
+kombinasjon med stratifisering av overflatevannet (som vist fra CTD-målingene) kan sette opp 
+vinddrevet strøm i de øverste 20 m av vannsøylen, og dermed være av stor betydning for 
+strømforholdene ved lokaliteten (Albretsen & Asplin, 2017). 
+I tillegg ble meteorologiske data fra RV15 Måløybrua undersøkt (se Vedlegg 6.1). Denne målestasjonen 
+ligger mer eksponert ute ved kysten og viste gjennomsnittshastighet på 6.17 ± SD 4.39 m/s, med 
+høyeste registrerte hastighet på 25 m/s i løpet av måleperioden. Vinden registrert ved målestasjonen 
+kom hovedsakelig fra sør- sørvestlig retning i første del av måleperioden (mars), og deretter mer fra 
+nordlig retning i april. Det ble registrert høyere strømhastigheter ved lokaliteten i mars måned når 
+vinden kom fra sør. Midthjell er relativt godt beskyttet fra vind i sør-nord-retning, men vedvarende 
+sørlig vind kan trolig føre til oppstuing av vann fra kysten inn på sørsiden av fjordsystemet og dermed 
+skape en utadgående strøm ut av fjorden på nordsiden. 
+s.22/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 23/29 
+ 
+5. LITTERATUR 
+Albretsen, J. & Asplin, L., 2017. Fysisk oseanografiske forhold i produksjonsområdene for akvakultur. Rapport 
+fra havforskningen. Havforskningsinstituttet. 
+ 
+Fiskeridirektoratet (2020). Veileder for utfylling av søknadsskjema for tillatelse til akvakultur i flytende eller 
+landbasert anlegg. Tilgjengelig: https://www.fiskeridir.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad 
+ 
+NS 9425-1:1999. Oseanografi – Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 6s. 
+ 
+NS 9425-2:2003. Oseanografi – Del 2: Strømmålinger ved hjelp av ADCP. Norsk Standard 
+ 
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+5. LITTERATUR 
+Albretsen, J. & Asplin, L., 2017. Fysisk oseanografiske forhold i produksjonsområdene for akvakultur. Rapport 
+fra havforskningen. Havforskningsinstituttet. 
+Fiskeridirektoratet (2020). Veileder for utfylling av søknadsskjema for tillatelse til akvakultur i flytende eller 
+landbasert anlegg. Tilgjengelig: https:ljwww.fiskeridir.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad 
+NS 9425-1:1999. Oseanografi - Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 6s. 
+NS 9425-2:2003. Oseanografi - Del 2: Strømmålinger ved hjelp av ADCP. Norsk Standard 
+s.23/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 24/29 
+ 
+6. VEDLEGG 
+6.1. 
+Meteorologiske data fra RV15 Måløybrua 
+ 
+Figur 20 Plassering av målestasjon (RV15 Måløybrua) for vind og lufttemperatur ift. lokalitet Midthjell.  
+ 
+Figur 21 Tidsserie av vindhastighet-og retning (viser retning vinden kommer fra), samt lufttemperatur registrert fra RV15 
+Måløybrua målestasjon (SN59210, 10 moh.), ca. 10 km vest for lokalitet Midthjell i perioden 3. mars til 19 april. 2022. 
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+6. VEDLEGG 
+6.1. 
+N 
+A 
+Meteorologiske data fra RV15 Måløybrua 
+i 
+r" 
+ 
+----- 
+ 
+f 
+' l ø y 
+RV15 
+MÅLØYBRUA 
+... 
+, / 
+2,s' 
+D Kilometers 
+' 
+Figur 20 Plassering av målestasjon (RVlS Måløybrua) for vind og lufttemperatur ift. lokalitet Midthjell. 
+RV 15 MÅLØYBRUA 
+iii 
+.c 
+Cl 
+;: rn 
+ra 
+.c 
+"C 
+C: > 
+,.... 360 
+ 
+g> 270 
+'i= 
+]! 
+"C 
+C: > 
+180 
+90 
+'J'--------T---. 
+- 
+.
+.
+ 
+- 
+-
+'
+ 
+- 
+-
+'
+ 
+mar06 
+mar11 
+mar16 
+mar21 
+mar26 
+mar31 
+apr OS 
+apr10 
+apr15 
+apr20 
+Dato 
+Figur 21 Tidsserie av vindhastighet-og retning (viser retning vinden kommer fra), samt lufttemperatur registrert fra RVlS 
+Måløybrua målestasjon (SN59210, 10 moh.), ca. 10 km vest for lokalitet Midthjell i perioden 3. mars til 19 april. 2022. 
+s.24/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 25/29 
+ 
+ 
+Figur 22 Vindrose fra RV15 Måløybrua målestasjon (SN59210, 10 moh.), ca. 10 km vest for lokalitet Midthjell i perioden 3. 
+mars til 19 april. 2022 (viser retning vinden kommer fra).  
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+N 
+30% 
+NNV 
+NNØ 
+20% 
+Vindhastighet (m/s) 
+VNV 
+ØNØ 
+  21 -24 
+10% 
+A
+)
+ 
+  18 - 21 
+1/1 
+  15 - 18 
+C: 
+G) 
+  
+ 
+0% 
+V 
+ø 
+12 - 15 
+' 
+G) 
+  9 - 12 
+... 
+u. 
+6 - 9 
+3 - 6 
+vsv 
+øsø 
+0 - 3 
+ssø 
+ssv 
+s 
+Figur 22 Vindrose fra RVlS Måløybrua målestasjon (SN59210, 10 moh.), ca. 10 km vest for lokalitet Midthjell i perioden 3. 
+mars til 19 april. 2022 (viser retning vinden kommer fra). 
+s.25/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 26/29 
+ 
+6.2. 
+Oppsett av strømrigg 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+6.2. 
+Oppsett av strømrigg 
+Lol@litet: 
+Dato: 
+Profilerende 
+Spredning 
+Bunnmåler 
+Nordfjord 
+04.03.2022 
+5ERlENUMMER: 
+102487 
+16507 
+1-6537 
+Dybde Merd 
+Profilerende M!iler Dybde 
+soredntncsmåler Dybde 
+Sprednlngsensor Kalkulert dybde 
+Bunnpunktsmåler Hoyde over bunnen 
+Dybde 5jobunn 
+l:'loyde Profilerende sensor 
+l'ioyde spredningsensor 
+Hoyde bunnmåler 
+m 
+m 
+m 
+267,S 
+m 
+364,2 
+1m 
+500 
+m 
+(Skal stil midt mellom merd bunn og sjøbunnen men max 50rn fra Merdebunn) 
+(kalkulert dybde halllelr. mellom merdebunn og sjebunn) 
+( l m over bunnen men max 100m fra Merdebunn) 
+m (Htiyde. for fratrek av beregning tau) 
+m (Hovde. for fratrek av beregning tau) 
+m (Hoyde for fratrek av beregning tau) 
+U', 
+.500 
+30 
+35 
+Tn1. 
+som 
+max 
+Max1oom 
+I C U C 4 1 
+o .511 I 
+ommentar: 
+Oppdrift/ Vekt: [ J ] I ) K g 
+GUI Ramme 
+10,3 Kg 
+Hv Ramme. 
+8,9 Kg 
+10, J Kg Strekk. 
+Oppdrift: BEKg 
+Oppdrift: 
+Kg 
+Vekt 
+c:::LIJ 
+Kg 
+25,6 Kg Strekk. 
+vekt: 
+c : : : L I ] K g 
+23,9 Kg strekk 
+Vekt: 
+l -61,03 !Kg 
+SUM: 
+-37,1 Kg 
+Bunnlodd 
+I 
+stk 
+-12,21 Kg 
+IC_iett1ng og Dregg 
+stk 
+-12,00 Kg 
+s. 26/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 27/29 
+ 
+ 
+6.3. 
+Helning av strømmålere i måleperioden 
+ 
+Figur 23 Helning registrert av strømmålerne på 34, 89 og 141 m dyp i perioden 4. mars til 19. april 2022. 
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+6.3. 
+Helning av strømmålere i måleperioden 
+10.0 
+7.5 
+5.0 
+2.5 
+overflate og vannutskiflning 
+ 
+0.0 ' - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+mar07 
+mar14 
+mar21 
+mar28 
+apr04 
+apr 11 
+apr 18 
+spredning 
+10.0 
+7.5 
+5.0 
+2.5 
+0.0 
+mar07 
+mar14 
+mar21 
+mar28 
+apr04 
+apr 11 
+apr 18 
+bunn 
+mar or 
+mar 14 
+Dalo 
+Figur 23 Helning registrert av strømmålerne på 34, 89 og 141 m dyp i perioden 4. mars til 19. april 2022. 
+s.27/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 28/29 
+ 
+6.4. 
+CTD 
+Tabell 3 Måleparameter, enhet, oppløsning og usikkerhet av hydrografiske målinger med CTD/STD 204. 
+ 
+ 
+ 
+Parameter 
+Måleområde 
+Oppløsning 
+Måleusikkerhet 
+Konduktivitet 
+0-70 mS/cm 
+0.01 mS/cm 
+± 0.02 mS/cm 
+Salinitet 
+0-40 ppt 
+0.01 ppt 
+0.02 ppt 
+Temperatur 
+-2 - 40 °C 
+0.001° 
+± 0.01° 
+Trykk 
+1000 m 
+0.01 mbar 
+± 0.02 % av område 
+Løst oksygen 
+0-20 mg/L 
+0.01 mg/L 
+± 0.2 mg/L 
+Løst oksygen 
+0-200 % 
+0.01-0.04 % 
+± 2 % (ikke lineært) 
+Fluorescens 
+0-75 µg/L 
+0.03 µg/L 
+< 2 % 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+6.4. 
+CTD 
+Tabell 3 Måleparameter, enhet, oppløsning og usikkerhet av hydrografiske målinger med CTD/STD 204. 
+I Parameter 
+Måleområde 
+Oppløsning 
+Måleusikkerhet 
+Konduktivitet 
+0-70 mS/cm 
+0.01 mS/cm 
+±0.02 mS/cm 
+Salinitet 
+0-40 ppt 
+0.01 ppt 
+0.02 ppt 
+Temperatur 
+-2-40 °C 
+0.001° 
+±0.01° 
+Trykk 
+1000 m 
+0.01 mbar 
+± 0.02 % av område 
+Løst oksygen 
+0-20 mg/L 
+0.01 mg/L 
+± 0.2 mg/L 
+Løst oksygen 
+0-200% 
+0.01-0.04% 
+± 2 % (ikke lineært) 
+Fluorescens 
+0-75 µg/L 
+0.03 µg/L 
+< 2 % 
+s.28/29 
+STIM Miljø Rapport 44-2022 
+ 
+Midthjell 
+ 
+s. 29/29 
+ 
+6.5. 
+Returperiode 
+Tabell 4 Strømhastighet og -retning på 5 m med returperiode på 10 og 50 år i perioden 4. mars– 19. april 2022. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Gjenomsnitt 10 år 
+Maksimal 10 år 
+Gjenomsnitt 50 år 
+Maksimal 50 år 
+0 
+6,9 
+16,7 
+11,4 
+27,5 
+12,8 
+30,9 
+15 
+4,9 
+14,4 
+8 
+23,8 
+9 
+26,7 
+30 
+6,7 
+16,6 
+11 
+27,3 
+12,4 
+30,7 
+45 
+6,1 
+20,9 
+10 
+34,5 
+11,3 
+38,7 
+60 
+7,6 
+22,3 
+12,5 
+36,8 
+14 
+41,3 
+75 
+11,1 
+27 
+18,3 
+44,5 
+20,5 
+49,9 
+90 
+11,5 
+27 
+19 
+44,5 
+21,3 
+49,9 
+105 
+11,7 
+27,5 
+19,3 
+45,3 
+21,6 
+50,8 
+120 
+9,6 
+20,1 
+15,8 
+33,2 
+17,7 
+37,2 
+135 
+8,6 
+19,7 
+14,2 
+32,6 
+15,9 
+36,5 
+150 
+6 
+15,3 
+9,9 
+25,2 
+11,1 
+28,3 
+165 
+5,5 
+11,6 
+9,1 
+19,1 
+10,2 
+21,4 
+180 
+4,7 
+11,3 
+7,7 
+18,7 
+8,6 
+20,9 
+195 
+3,3 
+8,4 
+5,4 
+13,8 
+6 
+15,5 
+210 
+3,7 
+14,1 
+6 
+23,3 
+6,8 
+26,1 
+225 
+5,5 
+16,7 
+9,2 
+27,5 
+10,3 
+30,8 
+240 
+7,1 
+17,4 
+11,7 
+28,7 
+13,1 
+32,2 
+255 
+8,1 
+26,5 
+13,4 
+43,7 
+15 
+49 
+270 
+12,3 
+32,6 
+20,3 
+53,7 
+22,8 
+60,2 
+285 
+13,8 
+32,4 
+22,8 
+53,4 
+25,6 
+59,9 
+300 
+12,5 
+35,5 
+20,6 
+58,5 
+23,1 
+65,6 
+315 
+10,3 
+23,6 
+16,9 
+38,9 
+19 
+43,6 
+330 
+10,2 
+24,2 
+16,8 
+39,9 
+18,9 
+44,7 
+345 
+8,9 
+20,4 
+14,6 
+33,7 
+16,4 
+37,7 
+ 
+Tabell 5 Strømhastighet og -retning på 15 m med returperiode på 10 og 50 år i perioden 4. mars– 19. april 2022. 
+Retning 
+Gjennomsnitt 
+Maksimal 
+Gjenomsnitt 10 år 
+Maksimal 10 år 
+Gjenomsnitt 50 år 
+Maksimal 50 år 
+0 
+3 
+9,1 
+5 
+15,1 
+5,6 
+16,9 
+15 
+2,9 
+7,4 
+4,8 
+12,2 
+5,4 
+13,7 
+30 
+3 
+7,2 
+5 
+11,9 
+5,6 
+13,3 
+45 
+3,5 
+9,4 
+5,8 
+15,5 
+6,5 
+17,4 
+60 
+3,9 
+9,7 
+6,4 
+15,9 
+7,2 
+17,9 
+75 
+4,4 
+12,3 
+7,3 
+20,3 
+8,2 
+22,7 
+90 
+4,8 
+11,1 
+8 
+18,3 
+8,9 
+20,5 
+105 
+4,3 
+10,1 
+7,1 
+16,6 
+7,9 
+18,6 
+120 
+3,5 
+8,6 
+5,8 
+14,2 
+6,5 
+16 
+135 
+2,9 
+6,8 
+4,8 
+11,3 
+5,4 
+12,7 
+150 
+2,7 
+6,7 
+4,4 
+11,1 
+4,9 
+12,5 
+165 
+2,2 
+7,2 
+3,7 
+11,9 
+4,1 
+13,4 
+180 
+2,3 
+8,3 
+3,8 
+13,6 
+4,3 
+15,3 
+195 
+2,6 
+6,9 
+4,3 
+11,4 
+4,8 
+12,7 
+210 
+2,9 
+7,4 
+4,9 
+12,2 
+5,4 
+13,7 
+225 
+3,6 
+9,6 
+5,9 
+15,9 
+6,6 
+17,8 
+240 
+4,7 
+18,7 
+7,8 
+30,8 
+8,8 
+34,6 
+255 
+4,8 
+21,9 
+8 
+36,2 
+9 
+40,6 
+270 
+5,2 
+24,6 
+8,6 
+40,6 
+9,7 
+45,5 
+285 
+6,3 
+26 
+10,4 
+43 
+11,6 
+48,2 
+300 
+5,1 
+25 
+8,5 
+41,2 
+9,5 
+46,2 
+315 
+4,2 
+16,7 
+7 
+27,5 
+7,8 
+30,9 
+330 
+3,3 
+10,8 
+5,5 
+17,8 
+6,2 
+20 
+345 
+3 
+10,4 
+5 
+17,2 
+5,6 
+19,3 
+ 
+ 
+STIM Miljø Rapport 44-2022 
+Midthjell 
+6.5. 
+Returperiode 
+Tabell 4 Strømhastighet og -retning på 5 m med returperiode på 10 og 50 år i perioden 4. mars-19. april 2022. 
+I Retning 
+Gjennomsnitt 
+Maksimal 
+Gjenomsnitt 10 år 
+Maksimal 10 år 
+Gjenomsnitt SO år 
+Maksimal SO år 
+0 
+6,9 
+16,7 
+11,4 
+27,5 
+12,8 
+30,9 
+15 
+4,9 
+14,4 
+8 
+23,8 
+9 
+26,7 
+30 
+6,7 
+16,6 
+11 
+27,3 
+12,4 
+30,7 
+45 
+6,1 
+20,9 
+10 
+34,5 
+11,3 
+38,7 
+60 
+7,6 
+22,3 
+12,5 
+36,8 
+14 
+41,3 
+75 
+11,1 
+27 
+18,3 
+44,5 
+20,5 
+49,9 
+90 
+11,5 
+27 
+19 
+44,5 
+21,3 
+49,9 
+105 
+11,7 
+27,5 
+19,3 
+45,3 
+21,6 
+50,8 
+120 
+9,6 
+20,1 
+15,8 
+33,2 
+17,7 
+37,2 
+135 
+8,6 
+19,7 
+14,2 
+32,6 
+15,9 
+36,5 
+150 
+6 
+15,3 
+9,9 
+25,2 
+11,1 
+28,3 
+165 
+5,5 
+11,6 
+9,1 
+19,1 
+10,2 
+21,4 
+180 
+4,7 
+11,3 
+7,7 
+18,7 
+8,6 
+20,9 
+195 
+3,3 
+8,4 
+5,4 
+13,8 
+6 
+15,5 
+210 
+3,7 
+14,1 
+6 
+23,3 
+6,8 
+26,1 
+225 
+5,5 
+16,7 
+9,2 
+27,5 
+10,3 
+30,8 
+240 
+7,1 
+17,4 
+11,7 
+28,7 
+13,1 
+32,2 
+255 
+8,1 
+26,5 
+13,4 
+43,7 
+15 
+49 
+270 
+12,3 
+32,6 
+20,3 
+53,7 
+22,8 
+60,2 
+285 
+13,8 
+32,4 
+22,8 
+53,4 
+25,6 
+59,9 
+300 
+12,5 
+35,5 
+20,6 
+58,5 
+23,1 
+65,6 
+315 
+10,3 
+23,6 
+16,9 
+38,9 
+19 
+43,6 
+330 
+10,2 
+24,2 
+16,8 
+39,9 
+18,9 
+44,7 
+345 
+8,9 
+20,4 
+14,6 
+33,7 
+16,4 
+37,7 
+Tabell S Strømhastighet og -retning på 15 m med returperiode på 10 og 50 år i perioden 4. mars-19. april 2022. 
+I Retning 
+Gjennomsnitt 
+Maksimal 
+Gjenomsnitt 10 år 
+Maksimal 10 år 
+Gjenomsnitt SO år 
+Maksimal SO år 
+0 
+3 
+9,1 
+5 
+15,1 
+5,6 
+16,9 
+15 
+2,9 
+7,4 
+4,8 
+12,2 
+5,4 
+13,7 
+30 
+3 
+7,2 
+5 
+11,9 
+5,6 
+13,3 
+45 
+3,5 
+9,4 
+5,8 
+15,5 
+6,5 
+17,4 
+60 
+3,9 
+9,7 
+6,4 
+15,9 
+7,2 
+17,9 
+75 
+4,4 
+12,3 
+7,3 
+20,3 
+8,2 
+22,7 
+90 
+4,8 
+11,1 
+8 
+18,3 
+8,9 
+20,5 
+105 
+4,3 
+10,1 
+7,1 
+16,6 
+7,9 
+18,6 
+120 
+3,5 
+8,6 
+5,8 
+14,2 
+6,5 
+16 
+135 
+2,9 
+6,8 
+4,8 
+11,3 
+5,4 
+12,7 
+150 
+2,7 
+6,7 
+4,4 
+11,1 
+4,9 
+12,5 
+165 
+2,2 
+7,2 
+3,7 
+11,9 
+4,1 
+13,4 
+180 
+2,3 
+8,3 
+3,8 
+13,6 
+4,3 
+15,3 
+195 
+2,6 
+6,9 
+4,3 
+11,4 
+4,8 
+12,7 
+210 
+2,9 
+7,4 
+4,9 
+12,2 
+5,4 
+13,7 
+225 
+3,6 
+9,6 
+5,9 
+15,9 
+6,6 
+17,8 
+240 
+4,7 
+18,7 
+7,8 
+30,8 
+8,8 
+34,6 
+255 
+4,8 
+21,9 
+8 
+36,2 
+9 
+40,6 
+270 
+5,2 
+24,6 
+8,6 
+40,6 
+9,7 
+45,5 
+285 
+6,3 
+26 
+10,4 
+43 
+11,6 
+48,2 
+300 
+5,1 
+25 
+8,5 
+41,2 
+9,5 
+46,2 
+315 
+4,2 
+16,7 
+7 
+27,5 
+7,8 
+30,9 
+330 
+3,3 
+10,8 
+5,5 
+17,8 
+6,2 
+20 
+345 
+3 
+10,4 
+5 
+17,2 
+5,6 
+19,3 
+s.29/29 
+- 
+- - - 
+- - - 
+- - - 
+- - - 
+- - - 
+- 
+STIM 
+STIM Miljø utfører marine miljøundersøkelser og miljøovervåkning på oppdrag fra fylker, 
+kommuner, oljeselskap, industri og havbruksnæring. STIM Miljø er akkreditert for 
+prøvetaking av sediment til analyse av biologi, kjemi og sedimentkarakteristikk, samt 
+fjæreundesøkelser, taksonomisk analyse og faglig vurdering og fortolking under 
+akkrediteringsnummer Test 157. 
+Vi utfører også naturtypekartlegging, vannsøyleundersøkelser, risikovurdering av forurenset 
+sediment, strømmålinger og modellering av strømforhold, samt andre miljøundersøkelser 
+og rådgivingstjenester. 
+www.STIM.no

@@ -1,0 +1,6143 @@
+﻿Strømrapport  
+ 
+Måling av overflate- (5m), 
+dimensjonerings- (15m), sprednings- (48m) 
+og bunnstrøm (68m) ved 
+ 
+Skibåtsvær i 
+ 
+juni - august 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 2 av 72 
+Rapport 
+Rapportbeskrivelse 
+og -navn 
+Vurdering av strømforhold ved Skibåtsvær. 
+SR-FBS-Skibåtsvær-110208309-3011-01-001.pdf 
+Rapportversjon 
+Dato 
+Beskrivelse 
+001 
+13.09.23 
+Første utgivelse. Presentasjon og vurdering av gjennomførte 
+strømmålinger ved Skibåtsvær. 
+Rapportdistribusjon 
+Denne rapporten kan kun gjengis i sin helhet. Gjengivelse av deler av rapporten 
+kan kun skje etter skriftlig tillatelse fra Åkerblå AS. I slike tilfeller skal kilde 
+oppgis. 
+Lokalitet 
+Lokalitetsnavn 
+Skibåtsvær 
+Lokalitetsnummer 
+ny 
+Kommune  
+Herøy 
+Fylke 
+Nordland 
+Oppdragsgiver 
+Selskap 
+Fishbase Salmon AS; Postboks 14, 8801 SANDNESSJØEN, NORGE 
+Kontaktperson 
+Henry Thomassen 
+henry@fishbase.no 
+Oppdragsansvarlig 
+Selskap  
+Åkerblå AS; Nordfrøyveien 413, 7260 SISTRANDA, NORGE 
+Organisasjonsnummer: 916 763 816 
+Feltarbeidsansvarlig 
+Marthe Olsen 
+marthe.olsen@akerbla.no 
+Rapportansvarlig         Øystein Breiteig 
+oystein.breiteig@akerbla.no 
+Kontrollert av   
+Clarissa A. K. Endo 
+clarissa.endo@akerbla.no 
+Akkreditering 
+Feltarbeid og rapport er utført av Åkerblå og er akkreditert. 
+ 
+Resultat nøkkeltall 
+Måledyp 
+5m 
+15m 
+Spredning 
+(48m) 
+Bunn 
+(68m) 
+Maksimal strøm (cm/s) (retning) 
+40.9 (Ø) 
+24.5 (Ø) 
+20.1 (S) 
+17.3 (S) 
+Gjennomsnittlig strøm (cm/s) 
+8.4 
+5.7 
+4.3 
+3.1 
+Strømstyrke < 1cm/s (%) 
+1.3 
+2.7 
+6.3 
+11.2 
+Strømstyrke < 3cm/s (%) 
+11.9 
+21.5 
+39.9 
+60.7 
+Strømstyrke < 10cm/s (%) 
+69.5 
+90.1 
+93.4 
+98.6 
+Strømstyrke ≥ 30cm/s (%) 
+0.4 
+0.0 
+0.0 
+0.0 
+Strømstyrke ≥ 50cm/s (%) 
+0.0 
+0.0 
+0.0 
+0.0 
+Neumann-parameter 
+0.4 
+0.1 
+0.3 
+0.2 
+10-års strøm (maksimal) 
+67 
+40 
+- 
+- 
+50-års strøm (maksimal) 
+76 
+45 
+- 
+- 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 3 av 72 
+Innholdsfortegnelse 
+ 
+1. 
+Forord .......................................................................................................................................... 5 
+2. 
+Områdebeskrivelse ..................................................................................................................... 6 
+3. 
+Metodikk ...................................................................................................................................... 7 
+4. 
+Resultater ................................................................................................................................... 10 
+4.1 
+Sammendrag av strømdata .............................................................................................. 10 
+4.2 
+Strømrose ........................................................................................................................ 11 
+4.3 
+Matrise med strømhastighet og -retning ......................................................................... 12 
+4.4 
+Strømmens hastighetsfordeling ....................................................................................... 16 
+4.5 
+Strømmens retningsfordeling .......................................................................................... 17 
+4.6 
+Tidsdiagram – Strømhastighet ........................................................................................ 18 
+4.7 
+Tidsdiagram – Strømretning ........................................................................................... 19 
+4.8 
+Tidsdiagram – Temperatur .............................................................................................. 20 
+4.9 
+Progressivt vektordiagram .............................................................................................. 21 
+4.10 
+Fordelingsdiagram – Maksimal strømhastighet .............................................................. 22 
+4.11 
+Fordelingsdiagram – Gjennomsnittshastighet ................................................................. 23 
+4.12 
+Fordelingsdiagram – Relativ vannfluks .......................................................................... 24 
+4.13 
+Fordelingsdiagram – Antall observasjoner ..................................................................... 25 
+4.14 
+Maksimal strømhastighet i 8 retningssektorer ................................................................ 26 
+4.15 
+Gjennomsnittlig strømhastighet i 8 retningssektorer ...................................................... 26 
+4.16 
+Antall målinger i 8 retningssektorer ................................................................................ 26 
+4.17 
+Relativ vannutskiftning i 8 retningssektorer ................................................................... 26 
+4.18 
+10-års og 50-års strømhastighet i 8 retningssektorer ...................................................... 27 
+4.19 
+Persentilfordeling av strømhastighet ............................................................................... 28 
+4.20 
+Prosentfordeling av strømhastighet ................................................................................. 28 
+4.21 
+Strømfordeling ................................................................................................................ 29 
+4.22 
+Strømvarighet .................................................................................................................. 31 
+4.23 
+Tidevannsanalyse ............................................................................................................ 33 
+4.24 
+Maksimal strømhastighet, tidevann og vind ................................................................... 36 
+4.25 
+Vind under måleperioden ................................................................................................ 37 
+4.26 
+Utslippskontur ................................................................................................................. 40 
+4.27 
+CTD-profil....................................................................................................................... 41 
+5. 
+Diskusjon ................................................................................................................................... 42 
+5.1 
+Høye strømmålinger ........................................................................................................ 42 
+5.2 
+Tidevannspåvirkning ....................................................................................................... 42 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 4 av 72 
+5.3 
+Vindpåvirkning ............................................................................................................... 42 
+5.4 
+Vannutskiftning ............................................................................................................... 43 
+5.5 
+Mulig spredning av utslipp.............................................................................................. 43 
+5.6 
+Vannsøylens vertikale struktur ........................................................................................ 44 
+6. 
+Vedlegg – Bakgrunnsinformasjon ........................................................................................... 45 
+6.1 
+Valg av sted, dyp og periode for strømmålinger ............................................................. 45 
+6.2 
+Spesifikasjoner for strøminstrumenter ............................................................................ 46 
+6.3 
+Måleprinsipp for strømmålinger ..................................................................................... 47 
+6.4 
+CTD-målinger ................................................................................................................. 47 
+7. 
+Vedlegg – Riggoppsett .............................................................................................................. 48 
+7.1 
+Riggoppsett ..................................................................................................................... 48 
+8. 
+Vedlegg – Databearbeiding og kvalitetssikring ...................................................................... 51 
+8.1 
+Databearbeiding .............................................................................................................. 51 
+8.2 
+Kvalitetssikring av data ................................................................................................... 53 
+8.3 
+Fjernede dataverdier ........................................................................................................ 58 
+8.3.1 
+Måleperiode ............................................................................................................... 58 
+8.3.2 
+Enkelte datapunkter.................................................................................................... 58 
+9. 
+Vedlegg – Fyrstikkdiagram av vind og strøm ........................................................................ 59 
+10. Vedlegg - Varighetsanalyse ...................................................................................................... 62 
+11. Vedlegg – Strømmens tilstandsklasser .................................................................................... 68 
+12. Vedlegg – Månedlige tidevannsvariasjoner ............................................................................ 69 
+13. Vedlegg – Måleenheter ............................................................................................................. 70 
+14. Vedlegg – Parametere og beskrivelse ...................................................................................... 71 
+15. Vedlegg – Referanser ................................................................................................................ 72 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 5 av 72 
+1. Forord 
+ 
+Åkerblå AS har på oppdrag fra Fishbase Salmon AS utført strømmålinger ved tenkt oppdrettslokalitet 
+Skibåtsvær som er vurdert etter beliggenhet, strømforhold, temperatur, vannutskiftning, tidevann og 
+vind. 
+ 
+Resultatene fra strømmålingene gjelder for gitte prøvepunkt og for oppgitt tidsperiode. Vurderingen 
+av strømforhold i området er gjort på bakgrunn av disse resultatene. 
+ 
+NYTEK-forskriften har som mål å begrense rømming av fisk fra oppdrettsanlegg. NS 9415:2009 
+krever at alle lokaliteter undersøkes og beskrives ut fra topografi og eksponeringsgrad i form av 
+parametere som danner grunnlag for beregning av miljølaster på et anlegg.   
+ 
+Alle omsøkte akvakulturlokaliteter skal også kunne ivareta artens krav til et godt levemiljø 
+(Mattilsynet, 2016). Det må være tilstrekkelig tilførsel av vann av egnet kvalitet. Spesielt relevant er 
+oksygen – som påvirkes av blant annet strømforhold og vannutskiftning – og temperatur.   
+ 
+Denne rapporten tilfredsstiller kravene i NS 9425-1:1999, samt anbefalingene i retningslinje for 
+etableringssøknader fra Mattilsynet (2016). For måleperioder kortere enn 3 måneder benyttes 
+multiplikasjonsfaktor fra NS 9415:2009 ved beregning av returverdier.  
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 6 av 72 
+2. Områdebeskrivelse 
+ 
+Målepunktene for Skibåtsvær ligger i Herøy kommune, Nordland (Figur 2.1). Skibåtsvær ligger på 
+vestsiden av Skipbåtsværfjorden, og nordøst/øst for øygruppen Skipbåtsvær. Plasseringen ligger 
+langs kysten og er åpen mot Søråsværfjorden i nordøst/øst og mot Djupna og Norskehavet i vest og 
+nordvest.  
+ 
+På grunn av omkringliggende topografi er området relativt eksponert for vind, med tanke på strøm, 
+fra alle retninger.  
+ 
+Bunntopografi er ca. 83m dyp i posisjonen for strømmålinger på 5m og 15m dyp, og ca. 70m dyp i 
+posisjonen for spredningsdyp og bunndyp. Orientering på bunntopografien er mot NV – SØ i området 
+rundt posisjonen for 5m og 15m dyp, og mot NØ/Ø – SV/V i posisjonen for sprednings- og bunndyp. 
+ 
+ 
+Figur 2.1. Oversiktskart over området rundt måleposisjonene, anvist med rød pinne. Kart er hentet 
+fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84.
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 7 av 72 
+3. Metodikk 
+ 
+Strømmålinger er kvalitetssikret av Åkerblå AS og informasjon om måleperiode og instrumenter 
+som ble benyttet er oppgitt i Tabell 3.1 og Figur 3.1. Strømmen ble målt i to rigger, hvor avstanden 
+mellom disse var ca. 231m. Strømmen ble målt over en måleperiode, der strøm på 5m og 15m ble 
+målt fra 21.06.23 til 18.08.23, mens strøm på sprednings- og bunndyp ble målt fra 21.06.23 til 
+03.08.23 (Figur 3.1).  
+ 
+ 
+Figur 3.1. De fargede linjene i figuren viser hvilke år og måneder det er strømmålinger på 5m (blå 
+linje), 15m (grønn linje), spredningsdyp (oransje linje) og bunndyp (rosa linje). Skriftfargene på 
+månedene langs x-aksen illustrerer sesong; blå = vinter, grønn = vår, gul = sommer, og rød = høst. 
+Målingene på alle dypene ble utført om sommeren.  
+ 
+Ut fra topografi og bunntopografi er plasseringen vurdert som god for å dokumentere 
+strømforholdene i området (Figur 3.2 – Figur 3.3).  
+ 
+Tabell 3.1. Bakgrunnsinformasjon om strømmåling.  
+Måledyp 
+5m 
+15m 
+Spredning 
+(48m) 
+Bunn 
+(68m) 
+Posisjonsanvisning 
+ 
+ 
+ 
+ 
+Posisjon 
+66° 09.129' N; 
+012° 03.340' Ø 
+66° 09.129' N; 
+012° 03.340' Ø 
+66° 09.088' N; 
+012° 03.047' Ø 
+66° 09.088' N; 
+012° 03.047' Ø 
+Dyp på målested 
+83m 
+83m 
+70m 
+70m 
+Instrumenttype 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Aanderaa 
+punktmåler 
+Måleperiode 
+21.06.23 - 
+18.08.23 
+21.06.23 - 
+18.08.23 
+21.06.23 - 
+03.08.23 
+21.06.23 - 
+03.08.23 
+Måleintervall 
+10 minutter 
+10 minutter 
+10 minutter 
+10 minutter 
+Antall døgn 
+(målt/planlagt) 
+57.7 / 57.7 
+57.7 / 57.7 
+42.9 / 42.9 
+42.9 / 42.9 
+Fjernede datapunkt 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 8 av 72 
+ 
+Figur 3.2. Plassering av strømmålere i området anvist med gult kryss (posisjon for 5m og 15m) og 
+rødt kryss (posisjon for sprednings- og bunndyp). Kompasspila øverst i venstre hjørne indikerer 
+orientering til kart. Kart er hentet fra Olex. Kartdatum: WGS84.  
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 9 av 72 
+ 
+Figur 3.3. 3D-kart/bilder av bunntopografi i området. Den tynne kompasspila øverst i venstre hjørne 
+indikerer kartets orientering (øverste bilde) og den tykke kompasspila indikerer kameraets 
+orientering (midterste og nederste bilde). De små bildene viser kameraets utsiktspunkt for den 
+tilhørende bunntopografien. Kartene er hentet fra Olex. Kartdatum: WGS84.   
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 10 av 72 
+4. Resultater  
+ 
+4.1 
+Sammendrag av strømdata 
+ 
+Resultater per måledyp for hele måleperioden er sammenfattet i Tabell 4.1.1. Verdiene er klassifisert 
+(fargelagt) etter: «Vedlegg – Strømmens tilstandsklasser». De ulike parameterne som er oppgitt er 
+forklart i «Vedlegg – Parametere og beskrivelse». 
+ 
+Tabell 4.1.1. Sammendrag av strømdata fra 5m, 15m, spredningsdyp (48m) og bunndyp (68m). 
+Måledyp 
+5m 
+15m 
+Spredning 
+(48m) 
+Bunn (68m) 
+Sjøtemperatur (°C) 
+9.9 - 14.9 
+8.3 - 13.6 
+7.5 - 8.7 
+7.2 - 8.2 
+Strømhastighet 
+5m 
+15m 
+Spredning 
+(48m) 
+Bunn (68m) 
+Maksimum (cm/s) 
+40.9 
+24.5 
+20.1 
+17.3 
+Gjennomsnitt (cm/s) 
+8.4 
+5.7 
+4.3 
+3.1 
+Minimum (cm/s) 
+0.1 
+0.0 
+0.0 
+0.0 
+Signifikant maks (cm/s) 
+14.6 
+9.4 
+7.8 
+5.4 
+Signifikant min (cm/s) 
+3.4 
+2.5 
+1.6 
+1.2 
+Varians (cm/s)² 
+30.1 
+11.2 
+9.9 
+4.7 
+Standardavvik (cm/s) 
+5.5 
+3.3 
+3.1 
+2.2 
+% < 1cm/s (dvs. 0 - < 1cm/s) 
+1.3 
+2.7 
+6.3 
+11.2 
+Lengste periode < 1cm/s (min) 
+30 
+50 
+70 
+60 
+% < 3cm/s (dvs. 0 - < 3cm/s) 
+11.9 
+21.5 
+39.9 
+60.7 
+Lengste periode < 3cm/s (min) 
+130 
+230 
+410 
+630 
+% < 10cm/s (dvs. 0 - < 10cm/s) 
+69.5 
+90.1 
+93.4 
+98.6 
+Lengste periode < 10cm/s (min) 
+3690 
+5180 
+4410 
+13740 
+% ≥ 30cm/s 
+0.4 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 30cm/s (min) 
+100 
+0 
+0 
+0 
+% ≥ 50cm/s 
+0.0 
+0.0 
+0.0 
+0.0 
+Lengste periode ≥ 50cm/s (min) 
+0 
+0 
+0 
+0 
+Effektiv transport 
+Hastighet (cm/s) 
+3.1 
+0.6 
+1.1 
+0.5 
+Retning (grader) 
+360 
+16 
+170 
+219 
+Neumann-parameter 
+0.4 
+0.1 
+0.3 
+0.2 
+Gjennomsnittlig vannforflytning 
+(m³/m²/d) 
+7298 
+4931 
+3753 
+2642 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 11 av 72 
+4.2 
+Strømrose 
+ 
+En strømrose viser strømhastighet og -retning under hele måleperioden. Strømrosen viser hvor stor 
+andel av målingene som er registrert for hver 10º-sektor, vist som prosentandel i figuren, og hvilken 
+strømhastighetsklasse som er registrert i de ulike sektorene. Strømrosen gir en indikasjon på om 
+strømmen har en dominerende retning eller ikke. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (48m) 
+Bunn (68m) 
+ 
+ 
+Figur 4.2.1. Strømroser på 5m, 15m, spredningsdyp (48m) og bunndyp (68m). 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 12 av 72 
+4.3 
+Matrise med strømhastighet og -retning 
+ 
+Strømretning er fordelt i 15º-sektorer (sektorene er vist i venstre kolonne). Den nederste linjen viser 
+den prosentvise fordelingen av de registrerte strømhastighetene. Kolonnen til høyre viser den 
+prosentvise fordelingen i de ulike 15º-sektorene og antall kubikkmeter vann som i måleperioden vil 
+passere et tenkt vindu på 1x1 meter i den aktuelle strømretningen. Kolonnen til høyre viser også 
+maksimal strømhastighet i hver 15º-sektor.    
+ 
+Hastighetsfordeling er ≥ (lavest verdi) og < (høyest verdi) av oppgitt hastighetsintervall. 
+ 
+Tabell 4.3.1. Hastighets- og retningsmatrise av strømdata fra 5m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-15 15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+2 
+37 
+70 
+146 
+80 
+49 
+6 
+2 
+1 
+0 
+0 
+0 
+0 
+393 
+4.7 
+20738 
+4.9 
+30.4 
+N 
+15 
+4 
+51 
+75 
+141 
+88 
+24 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+384 
+4.6 
+17610 
+4.2 
+21.3 
+NØ 
+30 
+3 
+38 
+62 
+170 
+66 
+24 
+3 
+1 
+0 
+0 
+0 
+0 
+0 
+367 
+4.4 
+17205 
+4.1 
+27.2 
+NØ 
+45 
+4 
+41 
+79 
+165 
+63 
+26 
+20 
+7 
+7 
+0 
+0 
+0 
+0 
+412 
+5.0 
+22101 
+5.2 
+33.8 
+NØ 
+60 
+7 
+45 
+56 
+172 
+90 
+39 
+23 
+13 
+6 
+0 
+0 
+0 
+0 
+451 
+5.4 
+26884 
+6.4 
+38.5 
+Ø 
+75 
+4 
+40 
+79 
+229 
+156 
+26 
+16 
+9 
+5 
+1 
+0 
+0 
+0 
+565 
+6.8 
+31332 
+7.4 
+40.9 
+Ø 
+90 
+6 
+55 
+79 
+188 
+90 
+47 
+14 
+11 
+12 
+0 
+0 
+0 
+0 
+502 
+6.0 
+28028 
+6.7 
+34.3 
+Ø 
+105 
+6 
+47 
+50 
+144 
+56 
+22 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+327 
+3.9 
+14627 
+3.5 
+29.2 
+SØ 
+120 
+6 
+38 
+58 
+103 
+32 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+240 
+2.9 
+8953 
+2.1 
+17.7 
+SØ 
+135 
+3 
+39 
+63 
+61 
+31 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+198 
+2.4 
+6885 
+1.6 
+15.6 
+SØ 
+150 
+2 
+29 
+41 
+59 
+20 
+2 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+156 
+1.9 
+5876 
+1.4 
+22.0 
+S 
+165 
+4 
+31 
+30 
+47 
+9 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+125 
+1.5 
+4222 
+1.0 
+22.3 
+S 
+180 
+4 
+33 
+35 
+48 
+12 
+13 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+151 
+1.8 
+6311 
+1.5 
+23.0 
+S 
+195 
+4 
+21 
+32 
+38 
+20 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+115 
+1.4 
+4044 
+1.0 
+14.8 
+SV 
+210 
+4 
+28 
+47 
+58 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+152 
+1.8 
+5050 
+1.2 
+13.5 
+SV 
+225 
+6 
+28 
+50 
+43 
+22 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+149 
+1.8 
+4847 
+1.2 
+14.0 
+SV 
+240 
+5 
+31 
+63 
+74 
+15 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+192 
+2.3 
+6444 
+1.5 
+16.9 
+V 
+255 
+3 
+39 
+61 
+118 
+35 
+14 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+285 
+3.4 
+12836 
+3.0 
+23.7 
+V 
+270 
+7 
+45 
+69 
+169 
+64 
+20 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+376 
+4.5 
+16998 
+4.0 
+22.0 
+V 
+285 
+7 
+34 
+77 
+227 
+57 
+31 
+25 
+0 
+0 
+0 
+0 
+0 
+0 
+458 
+5.5 
+22875 
+5.4 
+25.0 
+NV 
+300 
+5 
+39 
+96 
+297 
+106 
+35 
+19 
+1 
+0 
+0 
+0 
+0 
+0 
+598 
+7.2 
+29908 
+7.1 
+28.4 
+NV 
+315 
+3 
+28 
+84 
+261 
+154 
+55 
+22 
+0 
+0 
+0 
+0 
+0 
+0 
+607 
+7.3 
+33915 
+8.1 
+24.2 
+NV 
+330 
+5 
+36 
+78 
+177 
+173 
+72 
+32 
+13 
+1 
+0 
+0 
+0 
+0 
+587 
+7.1 
+37319 
+8.9 
+30.3 
+N 
+345 
+3 
+28 
+60 
+163 
+114 
+98 
+31 
+21 
+4 
+0 
+0 
+0 
+0 
+522 
+6.3 
+36237 
+8.6 
+31.6 
+Antall obs. 
+107 
+881 
+1494 
+3298 
+1568 
+607 241 
+79 
+36 
+1 
+0 
+0 
+0 
+8312 
+100 
+0 
+0 
+0 
+% 
+1.3 
+10.6 
+18.0 
+39.7 
+18.9 
+7.3 
+2.9 
+1.0 
+0.4 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 13 av 72 
+Tabell 4.3.2. Hastighets- og retningsmatrise av strømdata fra 15m dyp. 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+6 
+72 
+95 
+113 
+19 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+306 
+3.7 
+9430 
+3.3 
+15.9 
+N 
+15 
+14 
+55 
+81 
+114 
+27 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+291 
+3.5 
+9506 
+3.3 
+14.2 
+NØ 
+30 
+7 
+73 
+80 
+66 
+9 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+235 
+2.8 
+6236 
+2.2 
+10.9 
+NØ 
+45 
+14 
+70 
+92 
+100 
+13 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+290 
+3.5 
+8148 
+2.9 
+18.1 
+NØ 
+60 
+10 
+76 
+84 
+121 
+32 
+13 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+344 
+4.1 
+12767 
+4.5 
+23.4 
+Ø 
+75 
+12 
+70 
+90 
+168 
+43 
+15 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+411 
+4.9 
+16494 
+5.8 
+24.5 
+Ø 
+90 
+8 
+61 
+122 
+174 
+43 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+412 
+5.0 
+14553 
+5.1 
+17.1 
+Ø 
+105 
+10 
+73 
+132 
+207 
+26 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+448 
+5.4 
+14379 
+5.1 
+13.8 
+SØ 
+120 
+10 
+63 
+105 
+204 
+16 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+399 
+4.8 
+13099 
+4.6 
+15.9 
+SØ 
+135 
+9 
+80 
+109 
+204 
+27 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+431 
+5.2 
+14202 
+5.0 
+16.1 
+SØ 
+150 
+5 
+66 
+103 
+209 
+21 
+3 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+411 
+4.9 
+14483 
+5.1 
+22.6 
+S 
+165 
+9 
+59 
+88 
+137 
+17 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+312 
+3.8 
+9891 
+3.5 
+20.7 
+S 
+180 
+11 
+65 
+85 
+109 
+20 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+292 
+3.5 
+8946 
+3.1 
+18.1 
+S 
+195 
+13 
+73 
+73 
+77 
+20 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+261 
+3.1 
+7843 
+2.8 
+17.5 
+SV 
+210 
+9 
+63 
+57 
+62 
+19 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+210 
+2.5 
+6027 
+2.1 
+13.4 
+SV 
+225 
+12 
+51 
+64 
+56 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+193 
+2.3 
+5401 
+1.9 
+14.7 
+SV 
+240 
+10 
+55 
+71 
+88 
+13 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+237 
+2.9 
+7028 
+2.5 
+14.8 
+V 
+255 
+6 
+46 
+74 
+105 
+11 
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+250 
+3.0 
+8494 
+3.0 
+20.7 
+V 
+270 
+11 
+66 
+72 
+118 
+18 
+15 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+300 
+3.6 
+10245 
+3.6 
+18.0 
+V 
+285 
+9 
+65 
+83 
+159 
+27 
+3 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+348 
+4.2 
+12261 
+4.3 
+21.3 
+NV 
+300 
+7 
+61 
+95 
+216 
+47 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+440 
+5.3 
+17386 
+6.1 
+18.6 
+NV 
+315 
+8 
+58 
+91 
+267 
+85 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+515 
+6.2 
+21172 
+7.4 
+16.9 
+NV 
+330 
+9 
+70 
+118 
+291 
+83 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+576 
+6.9 
+22677 
+8.0 
+15.9 
+N 
+345 
+5 
+71 
+111 
+162 
+48 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+400 
+4.8 
+13959 
+4.9 
+15.5 
+Antall obs. 
+224 
+1562 
+2175 
+3527 
+694 
+101 
+29 
+0 
+0 
+0 
+0 
+0 
+0 
+8312 
+100 
+0 
+0 
+0 
+% 
+2.7 
+18.8 
+26.2 
+42.4 
+8.3 
+1.2 
+0.3 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 14 av 72 
+Tabell 4.3.3. Hastighets- og retningsmatrise av strømdata fra spredningsdyp (48m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 
+10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+16 
+107 
+82 
+21 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+226 
+3.7 
+4034 
+2.5 
+7.3 
+N 
+15 
+12 
+114 
+100 
+27 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+253 
+4.1 
+4732 
+2.9 
+8.5 
+NØ 
+30 
+13 
+113 
+87 
+30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+243 
+3.9 
+4570 
+2.8 
+10.0 
+NØ 
+45 
+17 
+82 
+71 
+39 
+6 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+216 
+3.5 
+4743 
+2.9 
+15.1 
+NØ 
+60 
+16 
+94 
+74 
+88 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+274 
+4.4 
+6779 
+4.2 
+11.5 
+Ø 
+75 
+19 
+72 
+68 
+86 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+250 
+4.1 
+6371 
+4.0 
+11.2 
+Ø 
+90 
+19 
+65 
+63 
+81 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+231 
+3.7 
+5696 
+3.5 
+11.9 
+Ø 
+105 
+16 
+72 
+60 
+52 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+200 
+3.2 
+4328 
+2.7 
+9.9 
+SØ 
+120 
+21 
+68 
+42 
+24 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+155 
+2.5 
+2755 
+1.7 
+7.2 
+SØ 
+135 
+16 
+68 
+70 
+47 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+202 
+3.3 
+4306 
+2.7 
+10.3 
+SØ 
+150 
+12 
+72 
+68 
+91 
+12 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+257 
+4.2 
+7290 
+4.5 
+17.2 
+S 
+165 
+15 
+81 
+90 
+145 
+77 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+418 
+6.8 
+15977 
+9.9 
+18.9 
+S 
+180 
+21 
+118 
+135 
+185 
+112 
+39 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+611 
+9.9 
+25450 
+15.8 
+20.1 
+S 
+195 
+14 
+107 
+118 
+149 
+71 
+20 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+479 
+7.8 
+17830 
+11.1 
+18.0 
+SV 
+210 
+10 
+109 
+107 
+74 
+14 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+315 
+5.1 
+8062 
+5.0 
+15.1 
+SV 
+225 
+10 
+99 
+76 
+32 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+217 
+3.5 
+4203 
+2.6 
+7.4 
+SV 
+240 
+22 
+78 
+44 
+16 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+161 
+2.6 
+2650 
+1.6 
+10.2 
+V 
+255 
+22 
+67 
+43 
+10 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+142 
+2.3 
+2313 
+1.4 
+7.9 
+V 
+270 
+15 
+63 
+31 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+111 
+1.8 
+1601 
+1.0 
+6.0 
+V 
+285 
+15 
+67 
+38 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+136 
+2.2 
+2363 
+1.5 
+9.2 
+NV 
+300 
+11 
+67 
+77 
+48 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+208 
+3.4 
+4781 
+3.0 
+11.5 
+NV 
+315 
+12 
+93 
+93 
+73 
+16 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+288 
+4.7 
+7562 
+4.7 
+15.7 
+NV 
+330 
+17 
+111 
+105 
+82 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+321 
+5.2 
+7435 
+4.6 
+14.2 
+N 
+345 
+29 
+88 
+109 
+32 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+258 
+4.2 
+5026 
+3.1 
+9.9 
+Antall obs. 
+390 
+2075 
+1851 
+1450 
+331 
+74 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+6172 
+100 
+0 
+0 
+0 
+% 
+6.3 
+33.6 
+30.0 
+23.5 
+5.4 
+1.2 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 15 av 72 
+Tabell 4.3.4. Hastighets- og retningsmatrise av strømdata fra bunndyp (68m). 
+Retning 
+(grader) 
+Strømhastighetsgruppe (cm/s) 
+Antall 
+obs. 
+% 
+Relativ 
+vannfluks 
+Maks-
+strøm 
+0-1 
+1-3 
+3-5 
+5-10 10-
+15 
+15-
+20 
+20-
+25 
+25-
+30 
+30-
+40 
+40-
+50 
+50-
+75 
+75-
+100 
+>100 
+m³/m² 
+% 
+cm/s 
+N 
+0 
+26 
+137 
+39 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+205 
+3.3 
+2750 
+2.4 
+5.9 
+N 
+15 
+21 
+167 
+53 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+247 
+4.0 
+3459 
+3.1 
+6.1 
+NØ 
+30 
+42 
+164 
+71 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+285 
+4.6 
+3937 
+3.5 
+7.4 
+NØ 
+45 
+32 
+168 
+111 
+54 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+367 
+5.9 
+6817 
+6.0 
+12.8 
+NØ 
+60 
+34 
+179 
+82 
+99 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+400 
+6.5 
+8909 
+7.9 
+13.2 
+Ø 
+75 
+42 
+136 
+71 
+42 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+296 
+4.8 
+5461 
+4.8 
+13.0 
+Ø 
+90 
+28 
+121 
+53 
+17 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+221 
+3.6 
+3487 
+3.1 
+10.5 
+Ø 
+105 
+25 
+110 
+39 
+6 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+180 
+2.9 
+2481 
+2.2 
+6.5 
+SØ 
+120 
+26 
+84 
+16 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+133 
+2.2 
+1669 
+1.5 
+6.8 
+SØ 
+135 
+24 
+68 
+19 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+116 
+1.9 
+1456 
+1.3 
+7.1 
+SØ 
+150 
+17 
+75 
+22 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+122 
+2.0 
+1781 
+1.6 
+9.3 
+S 
+165 
+19 
+83 
+30 
+5 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+140 
+2.3 
+2007 
+1.8 
+12.1 
+S 
+180 
+20 
+87 
+56 
+39 
+16 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+220 
+3.6 
+5372 
+4.7 
+17.2 
+S 
+195 
+30 
+122 
+70 
+101 
+25 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+353 
+5.7 
+9745 
+8.6 
+17.3 
+SV 
+210 
+26 
+139 
+130 
+160 
+12 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+468 
+7.6 
+12343 
+10.9 
+16.4 
+SV 
+225 
+36 
+141 
+135 
+121 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+437 
+7.1 
+10221 
+9.0 
+10.6 
+SV 
+240 
+19 
+145 
+110 
+61 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+336 
+5.4 
+6763 
+6.0 
+12.4 
+V 
+255 
+32 
+149 
+86 
+35 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+303 
+4.9 
+5258 
+4.6 
+11.4 
+V 
+270 
+33 
+133 
+59 
+28 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+254 
+4.1 
+4106 
+3.6 
+10.1 
+V 
+285 
+28 
+136 
+68 
+27 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+259 
+4.2 
+4359 
+3.8 
+9.6 
+NV 
+300 
+35 
+117 
+53 
+12 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+217 
+3.5 
+3154 
+2.8 
+7.2 
+NV 
+315 
+22 
+113 
+44 
+4 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+183 
+3.0 
+2587 
+2.3 
+8.0 
+NV 
+330 
+34 
+130 
+31 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+197 
+3.2 
+2327 
+2.1 
+6.5 
+N 
+345 
+42 
+148 
+43 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+233 
+3.8 
+2790 
+2.5 
+4.9 
+Antall obs. 
+693 
+3052 
+1491 
+850 
+78 
+8 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+6172 
+100 
+0 
+0 
+0 
+% 
+11.2 
+49.4 
+24.2 
+13.8 
+1.3 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+100 
+0 
+0 
+0 
+0 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 16 av 72 
+4.4 
+Strømmens hastighetsfordeling 
+ 
+Strømmens hastighetsfordeling uten hensyn til retning er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.4.1. Strømmens hastighetsfordeling på 5m, 15m, spredningsdyp (48m) og bunndyp (68m). 
+Antall observasjoner er indikert på stående akse og hastighetsgruppe på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 17 av 72 
+4.5 
+Strømmens retningsfordeling 
+ 
+Strømmens retning fordelt i 15º-sektorer er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.5.1. Strømmens retningsfordeling på 5m, 15m, spredningsdyp (48m) og bunndyp (68m). 
+Antall observasjoner er indikert på stående akse og 15º-sektorer på liggende akse. 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 18 av 72 
+4.6 
+Tidsdiagram – Strømhastighet 
+ 
+Strømmens hastighet under måleperioden er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.6.1. Tidsdiagram av strømhastighet på 5m, 15m, spredningsdyp (48m) og bunndyp (68m). 
+Strømhastighet er indikert på stående akse og tid på liggende akse. 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 19 av 72 
+4.7 
+Tidsdiagram – Strømretning  
+ 
+Strømmens retning under måleperioden er oppgitt under. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4.7.1. Tidsdiagram av strømretning på 5m, 15m, spredningsdyp (48m) og bunndyp (68m). 
+Strømretning på stående akse og tid på liggende akse. 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 20 av 72 
+4.8 
+Tidsdiagram – Temperatur 
+ 
+Temperatur under måleperioden er oppgitt under. 
+ 
+ 
+ 
+Figur 4.8.1. Tidsdiagram av temperatur på 5m, 15m, spredningsdyp (48m) og bunndyp (68m). Temperatur er indikert på stående akse og tid på liggende 
+akse. 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 21 av 72 
+4.9 
+Progressivt vektordiagram 
+ 
+Et progressivt vektordiagram viser hvor langt og hvordan en tenkt merket vannpartikkel som 
+befinner seg i strømmålerens posisjon ved målestart, vil drive av sted i løpet av måleperioden (Figur 
+4.9.1). Dette gir en indikasjon på vannutskiftning under måleperioden. 
+ 
+ 
+Figur 4.9.1. Progressivt vektordiagram for strøm på 5m, 15m, spredningsdyp (48m) og bunndyp 
+(68m). 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 22 av 72 
+4.10 Fordelingsdiagram – Maksimal strømhastighet 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (48m) 
+Bunn (68m) 
+ 
+ 
+Figur 4.10.1. Fordelingsdiagram av maksimal strømhastighet (cm/s) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (48m) og bunndyp (68m) i løpet av måleperioden. 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 23 av 72 
+4.11 Fordelingsdiagram – Gjennomsnittshastighet 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (48m) 
+Bunn (68m) 
+ 
+ 
+Figur 4.11.1. Fordelingsdiagram av gjennomsnittlig strømhastighet (cm/s) for hver 15º-sektor på 5m, 
+15m, spredningsdyp (48m) og bunndyp (68m) i løpet av måleperioden. 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 24 av 72 
+4.12 Fordelingsdiagram – Relativ vannfluks 
+ 
+Relativ vannfluks (%) angir mengden vann som strømmer gjennom en 15˚-retningssektor. Total 
+vannfluks er totalt volum vann som strømmer gjennom alle sektorer i løpet av måleperioden. 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (48m) 
+Bunn (68m) 
+ 
+ 
+Figur 4.12.1. Fordelingsdiagram av relativ vannfluks (%) for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (48m) og bunndyp (68m) i løpet av måleperioden. 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 25 av 72 
+4.13 Fordelingsdiagram – Antall observasjoner 
+ 
+5m 
+15m 
+ 
+ 
+Spredning (48m) 
+Bunn (68m) 
+ 
+ 
+Figur 4.13.1. Fordelingsdiagram av antall observasjoner for hver 15º-sektor på 5m, 15m, 
+spredningsdyp (48m) og bunndyp (68m) i løpet av måleperioden. 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 26 av 72 
+4.14 Maksimal strømhastighet i 8 retningssektorer 
+Tabell 4.14.1. Maksimal strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+31.6 
+38.5 
+40.9 
+22.0 
+23.0 
+16.9 
+25.0 
+30.3 
+15m 
+15.9 
+23.4 
+24.5 
+22.6 
+20.7 
+14.8 
+21.3 
+18.6 
+Spredning (48m) 
+9.9 
+15.1 
+11.9 
+17.2 
+20.1 
+15.1 
+9.2 
+15.7 
+Bunn (68m) 
+6.1 
+13.2 
+13.0 
+9.3 
+17.3 
+16.4 
+11.4 
+8.0 
+ 
+ 
+4.15 Gjennomsnittlig strømhastighet i 8 retningssektorer 
+Tabell 4.15.1. Gjennomsnittlig strømhastighet (cm/s) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+9.4 
+9.0 
+8.8 
+6.1 
+6.2 
+5.5 
+7.9 
+9.4 
+15m 
+5.5 
+5.2 
+6.0 
+5.6 
+5.1 
+4.8 
+5.8 
+6.7 
+Spredning (48m) 
+3.1 
+3.7 
+4.0 
+3.9 
+6.5 
+3.6 
+2.7 
+4.0 
+Bunn (68m) 
+2.2 
+3.1 
+2.7 
+2.2 
+4.0 
+3.9 
+2.8 
+2.3 
+ 
+ 
+4.16 Antall målinger i 8 retningssektorer 
+Tabell 4.16.1. Antall målinger per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+1299 
+1230 
+1394 
+594 
+391 
+493 
+1119 
+1792 
+15m 
+997 
+869 
+1271 
+1241 
+865 
+640 
+898 
+1531 
+Spredning (48m) 
+737 
+733 
+681 
+614 
+1508 
+693 
+389 
+817 
+Bunn (68m) 
+685 
+1052 
+697 
+371 
+713 
+1241 
+816 
+597 
+ 
+ 
+4.17 Relativ vannutskiftning i 8 retningssektorer 
+Tabell 4.17.1. Relativ vannutskiftning (%) per retningssektor. 
+Dybde 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+5m 
+17.4 
+15.8 
+17.6 
+5.2 
+3.5 
+3.9 
+12.6 
+24.1 
+15m 
+11.5 
+9.5 
+16.0 
+14.7 
+9.4 
+6.5 
+10.9 
+21.5 
+Spredning (48m) 
+8.6 
+10.0 
+10.2 
+8.9 
+36.8 
+9.3 
+3.9 
+12.3 
+Bunn (68m) 
+7.9 
+17.4 
+10.1 
+4.3 
+15.1 
+25.9 
+12.1 
+7.1 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 27 av 72 
+4.18 10-års og 50-års strømhastighet i 8 retningssektorer  
+ 
+Verdier for strøm med returperiode på 10 år og 50 år beregnes ut fra målt maksimal strømhastighet 
+sammen med en multiplikasjonsfaktor (NS 9415:2009). Da måleperioden er under 3 måneder 
+tilfredsstiller den ikke krav iht. NS 9415:2021, men kan brukes som en delmåling siden måleperioden 
+er minst 30 dager. Retningen som er oppgitt i raden under maksstrømmen er retningen til den 
+respektive maksimale strømhastigheten (Tabell 4.18.1 - Tabell 4.18.2). 
+ 
+Tabell 4.18.1. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 5m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+31.6 
+38.5 
+40.9 
+22.0 
+23.0 
+16.9 
+25.0 
+30.3 
+Retning (°) 
+351 
+67 
+71 
+147 
+173 
+242 
+287 
+334 
+10-år (cm/s) 
+(x1.65) 
+52 
+63 
+67 
+36 
+38 
+28 
+41 
+50 
+50-år (cm/s) 
+(x1.85) 
+59 
+71 
+76 
+41 
+43 
+31 
+46 
+56 
+ 
+Tabell 4.18.2. 10-års og 50-års strømhastighet (cm/s) per retningssektor på 15m dyp. 
+Strøm 
+Retning 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5° – 
+22.5° 
+22.5° – 
+67.5° 
+67.5° – 
+112.5° 
+112.5° – 
+157.5° 
+157.5° – 
+202.5° 
+202.5° – 
+247.5° 
+247.5° – 
+292.5° 
+292.5° – 
+337.5° 
+Maks (cm/s) 
+15.9 
+23.4 
+24.5 
+22.6 
+20.7 
+14.8 
+21.3 
+18.6 
+Retning (°) 
+358 
+67 
+75 
+151 
+162 
+233 
+288 
+307 
+10-år (cm/s) 
+(x1.65) 
+26 
+39 
+40 
+37 
+34 
+24 
+35 
+31 
+50-år (cm/s) 
+(x1.85) 
+29 
+43 
+45 
+42 
+38 
+27 
+39 
+34 
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 28 av 72 
+4.19 Persentilfordeling av strømhastighet 
+ 
+Kolonnen til venstre i Tabell 4.19.1 indikerer prosent av data (persentil) som er lik eller lavere enn 
+oppgitt strømhastighet (cm/s). 
+ 
+Tabell 4.19.1. Persentilfordeling av strømhastighet (cm/s) for hvert dyp.  
+Persentil 
+5m 
+15m 
+Spredning (48m) 
+Bunn (68m) 
+1 
+0.9 
+0.6 
+0.4 
+0.3 
+10 
+2.8 
+2.0 
+1.3 
+0.9 
+20 
+4.0 
+2.9 
+1.9 
+1.4 
+30 
+5.0 
+3.6 
+2.4 
+1.8 
+40 
+6.1 
+4.4 
+3.0 
+2.1 
+50 
+7.3 
+5.2 
+3.6 
+2.5 
+60 
+8.5 
+6.0 
+4.2 
+3.0 
+70 
+10.1 
+7.0 
+5.0 
+3.5 
+80 
+12.1 
+8.2 
+6.1 
+4.4 
+90 
+15.9 
+10.0 
+8.4 
+5.9 
+95 
+19.3 
+11.8 
+11.2 
+7.2 
+99 
+26.8 
+16.5 
+15.3 
+10.9 
+ 
+4.20 Prosentfordeling av strømhastighet 
+ 
+Oppgitte verdier i Tabell 4.20.1 er rundet av til nærmeste desimal for verdier over 0.1%, mens verdier 
+mellom 0.1% og 0.01% er rundet av til to desimal. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.20.1. Prosent (%) av data per dyp som er lik eller høyere enn oppgitt strømhastighet (cm/s).  
+Strømhastighet 
+(cm/s) 
+5m 
+15m 
+Spredning (48m) 
+Bunn (68m) 
+1 
+98.7 
+97.3 
+93.7 
+88.8 
+3 
+88.1 
+78.5 
+60.1 
+39.3 
+5 
+70.1 
+52.3 
+30.1 
+15.2 
+10 
+30.5 
+9.9 
+6.6 
+1.4 
+20 
+4.3 
+0.3 
+0.02 
+ 
+30 
+0.4 
+ 
+ 
+ 
+40 
+0.01 
+ 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 29 av 72 
+4.21 Strømfordeling 
+ 
+Verdiene i tabell for strømfordeling viser prosent av data i ulike grupper av strømhastighet (cm/s), 
+fordelt i 8 retningssektorer. Strømhastighetsgruppene er oppdelt slik at strømhastighetene er større 
+enn oppgitt laveste grense og mindre eller lik oppgitt høyeste grense. Oppgitte verdier er rundet av til 
+nærmeste desimal for verdier over 0.1%, mens verdier mellom 0.1% og 0.01% er rundet av til to 
+desimaler. Lave verdier (< 0.01%) er oppgitt som 0.0%. 
+ 
+Tabell 4.21.1. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 5m dyp. 
+Mørkere farge i tabellen representerer høyere prosentandel av data. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0 < x ≤ 1 
+0.1 
+0.2 
+0.2 
+0.1 
+0.1 
+0.2 
+0.2 
+0.2 
+1.3 
+1 < x ≤ 5 
+3.9 
+3.9 
+4.2 
+3.2 
+2.2 
+3.0 
+3.9 
+4.3 
+28.6 
+5 < x ≤ 10 
+5.4 
+6.1 
+6.7 
+2.7 
+1.6 
+2.1 
+6.2 
+8.8 
+39.6 
+10 < x ≤ 20 
+5.4 
+3.7 
+4.8 
+1.1 
+0.7 
+0.7 
+2.7 
+7.2 
+26.3 
+20 < x ≤ 30 
+0.7 
+0.8 
+0.6 
+0.04 
+0.1 
+0 
+0.5 
+1.0 
+3.7 
+30 < x ≤ 40 
+0.06 
+0.2 
+0.2 
+0 
+0 
+0 
+0 
+0.01 
+0.5 
+40 < x ≤ 50 
+0 
+0 
+0.01 
+0 
+0 
+0 
+0 
+0 
+0.01 
+Sum 
+15.6 
+14.9 
+16.7 
+7.1 
+4.7 
+6.0 
+13.5 
+21.5 
+100.0 
+ 
+Tabell 4.21.2. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 15m dyp. 
+Mørkere farge i tabellen representerer høyere prosentandel av data. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0 < x ≤ 1 
+0.3 
+0.4 
+0.4 
+0.3 
+0.4 
+0.4 
+0.3 
+0.3 
+2.8 
+1 < x ≤ 5 
+5.8 
+5.7 
+6.6 
+6.3 
+5.3 
+4.3 
+4.9 
+5.9 
+44.8 
+5 < x ≤ 10 
+4.7 
+3.5 
+6.6 
+7.4 
+3.9 
+2.5 
+4.6 
+9.3 
+42.5 
+10 < x ≤ 20 
+1.2 
+0.8 
+1.6 
+0.8 
+0.8 
+0.5 
+1.0 
+2.9 
+9.6 
+20 < x ≤ 30 
+0 
+0.1 
+0.2 
+0.05 
+0.01 
+0 
+0.04 
+0 
+0.4 
+30 < x ≤ 40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+Sum 
+12.0 
+10.5 
+15.4 
+14.9 
+10.4 
+7.7 
+10.8 
+18.4 
+100.0 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 30 av 72 
+Tabell 4.21.3. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for 
+spredningsdyp (48m). Mørkere farge i tabellen representerer høyere prosentandel av data. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0 < x ≤ 1 
+0.9 
+0.7 
+0.9 
+0.8 
+0.8 
+0.7 
+0.8 
+0.6 
+6.2 
+1 < x ≤ 5 
+9.7 
+8.4 
+6.5 
+6.3 
+10.5 
+8.3 
+5.0 
+8.8 
+63.5 
+5 < x ≤ 10 
+1.3 
+2.5 
+3.5 
+2.6 
+7.8 
+2.0 
+0.5 
+3.3 
+23.5 
+10 < x ≤ 20 
+0 
+0.1 
+0.1 
+0.2 
+5.3 
+0.3 
+0 
+0.5 
+6.5 
+20 < x ≤ 30 
+0 
+0 
+0 
+0 
+0.02 
+0 
+0 
+0 
+0.02 
+30 < x ≤ 40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+Sum 
+11.9 
+11.7 
+11.0 
+9.9 
+24.4 
+11.3 
+6.3 
+13.2 
+100.0 
+ 
+Tabell 4.21.4. Prosent (%) av data i strømhastighetsgrupper fordelt i 8 retningssektorer for bunndyp 
+(68m). Mørkere farge i tabellen representerer høyere prosentandel av data. 
+Strømhastighet 
+(cm/s) 
+Retning 
+Sum 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+337.5°-
+22.5° 
+22.5°-
+67.5° 
+67.5°-
+112.5° 
+112.5°-
+157.5° 
+157.5°-
+202.5° 
+202.5°-
+247.5° 
+247.5°-
+292.5° 
+292.5°-
+337.5° 
+0 < x ≤ 1 
+1.4 
+1.7 
+1.5 
+1.1 
+1.1 
+1.3 
+1.5 
+1.5 
+11.1 
+1 < x ≤ 5 
+9.5 
+12.6 
+8.6 
+4.6 
+7.3 
+13.0 
+10.2 
+7.9 
+73.7 
+5 < x ≤ 10 
+0.1 
+2.6 
+1.1 
+0.3 
+2.3 
+5.5 
+1.5 
+0.3 
+13.7 
+10 < x ≤ 20 
+0 
+0.1 
+0.1 
+0 
+0.8 
+0.3 
+0.03 
+0 
+1.3 
+20 < x ≤ 30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+30 < x ≤ 40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0.0 
+Sum 
+11.0 
+17.0 
+11.3 
+6.0 
+11.5 
+20.1 
+13.2 
+9.7 
+100.0 
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 31 av 72 
+4.22 Strømvarighet 
+ 
+En varighetsanalyse viser antall hendelser av strømhastigheter (cm/s) fordelt på hastighets- og 
+tidsintervaller (hastighets- og varighetsklasse). Varighetsklasser er > (lavest verdi) og ≤ (høyest 
+verdi) av oppgitt intervall. 
+ 
+Én registrert måling er gjennomsnittet av strømmålinger i ett 10 minutters måleintervall. Alle 
+strømhastigheter som er innenfor en strømklasse for en varighet av kun en registrert måling (10 
+minutter) er ekskludert fra tabeller og figurer, da varighetsklassene starter fra > 10 minutter. 
+ 
+I Tabell 4.22.1 – Tabell 4.22.4 er antall hendelser av strømhastigheter (cm/s) per varighets- og 
+hastighetsklasse gitt for hele måleperioden. I disse tabellene er hastighetsklasser > (lavest verdi) og 
+≤ (høyest verdi) av oppgitt intervall. 
+ 
+Lave (≤ 1, 3, 5 og 10cm/s) og høye (≥ 50, 60, 70 og 80cm/s) strømhastigheter kan ha betydning for 
+fiskens helse. I Vedlegg 10 vises varighet av lave (≤ 1, 3, 5 og 10cm/s) strømhastigheter på hvert av 
+de målte dypene i måleperioden. Det var ingen tilfeller av strøm ≥ 50cm/s på noen av dypene.  
+ 
+Tabell 4.22.1. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 5m dyp. 
+Mørkere farge i tabellen representerer høyere antall hendelser. 
+Strømhastighet 
+(cm/s) 
+10< x ≤ 
+30min 
+30 < x ≤ 
+60min 
+1 < x ≤ 
+2t 
+2 < x ≤ 
+3t 
+3 < x ≤ 
+4t 
+4 < x ≤ 
+5t 
+5 < x ≤ 
+6t 
+>6t 
+0 < x ≤ 1 
+17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 < x ≤ 5 
+123 
+84 
+91 
+24 
+10 
+1 
+2 
+0 
+5 < x ≤ 10 
+188 
+122 
+103 
+41 
+12 
+4 
+2 
+1 
+10 < x ≤ 20 
+93 
+42 
+54 
+19 
+10 
+5 
+6 
+6 
+20 < x ≤ 30 
+24 
+11 
+8 
+7 
+1 
+0 
+0 
+0 
+30 < x ≤ 40 
+6 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.22.2. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 15m dyp. 
+Mørkere farge i tabellen representerer høyere antall hendelser. 
+Strømhastighet 
+(cm/s) 
+10< x ≤ 
+30min 
+30 < x ≤ 
+60min 
+1 < x ≤ 
+2t 
+2 < x ≤ 
+3t 
+3 < x ≤ 
+4t 
+4 < x ≤ 
+5t 
+5 < x ≤ 
+6t 
+>6t 
+0 < x ≤ 1 
+43 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+1 < x ≤ 5 
+181 
+137 
+105 
+47 
+18 
+4 
+4 
+4 
+5 < x ≤ 10 
+166 
+151 
+108 
+47 
+14 
+2 
+4 
+0 
+10 < x ≤ 20 
+48 
+34 
+21 
+8 
+0 
+1 
+1 
+1 
+20 < x ≤ 30 
+2 
+2 
+1 
+0 
+0 
+0 
+0 
+0 
+30 < x ≤ 40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 32 av 72 
+Tabell 4.22.3. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på 
+spredningsdyp (48m). Mørkere farge i tabellen representerer høyere antall hendelser. 
+Strømhastighet 
+(cm/s) 
+10< x ≤ 
+30min 
+30 < x ≤ 
+60min 
+1 < x ≤ 
+2t 
+2 < x ≤ 
+3t 
+3 < x ≤ 
+4t 
+4 < x ≤ 
+5t 
+5 < x ≤ 
+6t 
+>6t 
+0 < x ≤ 1 
+74 
+13 
+2 
+0 
+0 
+0 
+0 
+0 
+1 < x ≤ 5 
+145 
+109 
+129 
+46 
+22 
+7 
+6 
+4 
+5 < x ≤ 10 
+129 
+84 
+47 
+12 
+2 
+0 
+0 
+0 
+10 < x ≤ 20 
+10 
+17 
+18 
+4 
+1 
+1 
+0 
+0 
+20 < x ≤ 30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+30 < x ≤ 40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Tabell 4.22.4. Antall hendelser av strømhastigheter i gitte intervaller med gitt varighet på bunndyp 
+(68m). Mørkere farge i tabellen representerer høyere antall hendelser. 
+Strømhastighet 
+(cm/s) 
+10< x ≤ 
+30min 
+30 < x ≤ 
+60min 
+1 < x ≤ 
+2t 
+2 < x ≤ 
+3t 
+3 < x ≤ 
+4t 
+4 < x ≤ 
+5t 
+5 < x ≤ 
+6t 
+>6t 
+0 < x ≤ 1 
+118 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+1 < x ≤ 5 
+205 
+172 
+137 
+47 
+26 
+9 
+3 
+4 
+5 < x ≤ 10 
+91 
+60 
+26 
+1 
+0 
+0 
+0 
+0 
+10 < x ≤ 20 
+9 
+7 
+3 
+0 
+0 
+0 
+0 
+0 
+20 < x ≤ 30 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+30 < x ≤ 40 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+40 < x ≤ 50 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 33 av 72 
+4.23 Tidevannsanalyse 
+ 
+En tidevannsanalyse av strømdata er gjennomført for å vurdere hvor stor andel av det målte signalet 
+som er forårsaket av tidevannet. Tidevannsanalysen er utført ved bruk av analyseverktøyet U_Tide 
+(Codiga, 2011). 
+ 
+Tidevannsanalysen inkluderer alle separerbare tidevannskomponenter (Tabell 4.23.1). Det er også 
+foretatt en analyse med fem separerbare tidevannskomponenter, M2 (12.42 timers periode), S2 (12.00 
+timers periode), N2 (12.66 timers periode), O1 (25.82 timers periode) og K1 (23.93 timers periode), 
+som benyttes i forbindelse med tidevannstabeller (Tabell 4.23.2). 
+ 
+Strøm er splittet i komponentene øst-vest (UEW) og nord-sør (VNS) for å vurdere variasjon i strømdata 
+på de forskjellige dypene (Emery & Thomson, 2001). Krysset markerer gjennomsnittsverdien for 
+hastighetskomponentene og reflekterer den effektive transporthastigheten med tilhørende retning 
+(Figur 4.23.1). Strømellipsens store halvakse (hovedakse) markerer retningen der variasjonen er 
+størst. Figur 4.23.2 viser strømellipsen sammen med tidevannsellipsen for hvert måledyp. 
+ 
+Tabell 4.23.1. Tidevannsbidrag til strøm og trykkendringer basert på tidevannsanalyse av strømdata 
+i timesverdier. 
+Måledyp 
+5m 
+15m 
+Spredning (48m) 
+Bunn (68m) 
+Strøm (%) 
+36.8 
+42.5 
+61.4 
+29.7 
+Trykk (%) 
+- 
+- 
+98.6 
+99.7 
+ 
+Tabell 4.23.2. Tidevannsbidrag til strøm og trykkendringer fra tidevannskomponentene M2, S2, N2, 
+O1 og K1. 
+Måledyp 
+5m 
+15m 
+Spredning (48m) 
+Bunn (68m) 
+Strøm (%) 
+28.5 
+34.5 
+51.8 
+16.5 
+Trykk (%) 
+- 
+- 
+96.8 
+98.4 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 34 av 72 
+ 
+ 
+Figur 4.23.1. UEW – VNS punktdiagram av strømdata i timesverdier, med tilhørende strømellipse. 
+Midtpunktet for strømellipsen er markert med kryss som også markerer strømmens effektive 
+transporthastighet. Vinklene indikerer den store halvaksens orientering i forhold til nord/sør. 
+Aksekors for øst – vest og nord – sør er vist med stiplede linjer. 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 35 av 72 
+ 
+ 
+Figur 4.23.2. UEW - VNS tidevannsellipser (fargede linjer) vist sammen med strømellipser (svarte 
+linjer) for 5m, 15m, spredningsdyp (48m) og bunndyp (68m). Midtpunktet for strømellipsene er 
+markert med kryss som også markerer den effektive transporthastigheten. Vinklene indikerer de store 
+halvaksenes orientering i forhold til nord/sør. Aksekors for øst - vest og nord - sør er vist med stiplede 
+linjer. 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 36 av 72 
+4.24 Maksimal strømhastighet, tidevann og vind 
+ 
+Strømhastighet og -retning på 5m dyp, samt tidevann og vind er oppgitt under for en todagersperiode 
+da maksimalstrømmen ved 5m dyp oppstod. 
+ 
+ 
+ 
+Figur 4.24.1. Strømhastighet og -retning, samt tidevann og vind (Solvær III) for perioden hvor 
+maksimalstrømmen på 5m dyp er registrert. 
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 37 av 72 
+4.25 Vind under måleperioden 
+ 
+Vinddata er hentet fra værstasjon Solvær III (Meteorologisk institutt, 2023), som ligger ca. 34.9km 
+nordøst for strømmålingsposisjonene (Figur 4.25.3). Tabell 4.25.1 viser retningsfordeling og 
+maksimal vindhastighet i hver retningssektor ved Solvær III. 
+ 
+Strøm over 10cm/s på 5m dyp ble sammenlignet med vinddata fra Solvær III fra samme periode. 
+Figur 4.25.2 og figurene i "Vedlegg - Fyrstikkdiagram av vind og strøm" indikerer hvilke tidspunkter 
+vind på Solvær III og målt strøm på 5m dyp hadde omtrent sammenfallende retning. Vannstand i 
+løpet av måleperioden er vist i Figur 4.25.2 og er hentet fra tidevannsstasjon Rørvik (Kartverket, 
+2023), som ligger ca. 148.3km sør/sørvest for strømmålingsposisjonene (Figur 4.25.3). Vannstand er 
+tilpasset området for målepunktene. 
+ 
+Tabell 4.25.1. Maksimal vindhastighet og prosent av tiden hvor vinden blåste fra de ulike retningene 
+på Solvær III under måleperioden. 
+ 
+N 
+NØ 
+Ø 
+SØ 
+S 
+SV 
+V 
+NV 
+Maksimal vindhastighet (m/s) 
+10.6 
+11.4 
+17.1 
+15.5 
+7.4 
+9.6 
+5.8 
+9.5 
+Tid (%) 
+30.9 
+11.2 
+4.6 
+16.1 
+8.0 
+15.4 
+5.9 
+7.9 
+ 
+Strøm på 5m 
+Vind 
+ 
+ 
+Figur 4.25.1. Rosediagram for strøm (mot retning) på 5m dyp, samt vind (fra retning) på Solvær III 
+værstasjon i måleperioden. Skalaen på diagrammene er ulik. 
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 38 av 72 
+Hastighet og retning for strøm og vind er oppgitt i Figur 4.25.2 og i "Vedlegg - Fyrstikkdiagram av 
+vind og strøm" for å vurdere vindpåvirkning på strømmen. I Figur 4.25.2 er vindretning oppgitt som 
+at vind blåser fra en retning, mens i "Vedlegg - Fyrstikkdiagram av vind og strøm" er vindretning 
+oppgitt som at vind blåser mot en retning. Tidevann er også vist i Figur 4.25.2 for å vurdere 
+tidevannspåvirkning.  
+ 
+ 
+ 
+Figur 4.25.2. Strømhastighet (mot retning) på 5m dyp og vindhastighet (fra retning) på Solvær III, 
+strøm- og vindretning, samt vannstand (Rørvik) under måleperioden. Tidspunkter hvor strøm og vind 
+har omtrent motsatt rettet retning indikerer tilfeller med vindpåvirket strøm. 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 39 av 72 
+Figur 4.25.3. Posisjonen til Solvær III værstasjon (markert med blå sirkel) og posisjonen til Rørvik 
+tidevannsstasjon (markert med grønn sirkel) i forhold til strømmålingsposisjonene (markert med rød 
+pinne). Kartet er hentet fra Fiskeridirektoratets kartverktøy. Kartdatum: WGS84. 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 40 av 72 
+4.26 Utslippskontur  
+ 
+Partikler som slippes ut i et gitt punkt med en viss synkehastighet (Bannister, et al., 2016) vil spres 
+med strømmen mens de synker mot bunnen. Med utgangspunkt i målt strøm på spredningsdyp, 
+beregnes utslippskonturen som summen av partikkelens vertikale og horisontale bevegelse bort fra 
+utslippspunktet ved overflaten. Figur 4.26.1 viser retning og avstand for spredning, og i hvilke 
+områder det er mest utslipp som blir liggende på bunn. Fargeskalaen indikerer mengde sedimentasjon 
+som prosentandel (%) av den totale mengden som blir sluppet ut, hvor de røde områdene vil ha størst 
+mengde avfall. Summen av prosentnivået i alle sektorer er lik total mengde utslipp (100%). 
+ 
+Merk at figuren viser utslipp fra ett punkt. Med utslipp fra ett enkelt punkt vil lite avfall havne rett 
+under utslippspunktet, da strømmen alltid vil skape noe spredning. Ved et oppdrettsanlegg er det 
+utslipp over et større område, noe som må inkluderes i vurderingen av spredning av utslipp. 
+ 
+ 
+ 
+Figur 4.26.1. Utslippskontur basert på målte strømhastigheter på spredningsdyp (48m). 
+Akkumulering av avfall vises som prosentandel av utslipp som havner på bunnen, indikert av 
+fargelagte sektorer. Oppløsningen på hver fargelagt sektor er 50m lang og 15° bred. Avstand fra 
+utslippspunktet er markert med en stiplet sirkel for hver 50m. 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 41 av 72 
+4.27 CTD-profil  
+ 
+CTD-profil ble målt i sammenheng med utsett 21.06.23 og opptak 18.08.23 av strømmålere i området 
+ved strømriggene.  
+ 
+Oksygenmålinger ved opptak i august er vurdert som feilmålinger, og derfor ikke presenert i 
+rapporten. Dette har ingen påvirkning på de andre parameterne. Profilene for salt og tetthet i august 
+viser tegn til støy i dataene. Disse er likevell vurdert til å være ok.  
+ 
+ 
+ 
+Figur 4.27.1. Vertikalprofiler av saltinnhold, temperatur, tetthet og oksygen. Dypet er oppgitt langs 
+y-aksen. 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 42 av 72 
+5. Diskusjon 
+ 
+Strømmen på Skibåtsvær er mot V/NV/N/NØ/Ø på 5m, mot Ø/SØ – NV på 15m, mot S på 
+spredningsdyp og mot NØ – SV på bunndyp. Dette stemmer med områdets bunntopografi. 87.5% av 
+relativ vannutskiftning på 5m, 52.2% på 15m, 36.8% på spredningsdyp og 43.3% på bunndyp skjer 
+langs hovedstrømretningene (Tabell 4.17.1). 
+ 
+5.1 
+Høye strømmålinger 
+ 
+Maksimal strømhastighet var 40.9cm/s mot Ø på 5m, 24.5cm/s mot Ø på 15m, 20.1cm/s mot S på 
+spredningsdyp (48m) og 17.3cm/s mot S på bunndyp (68m). Maksstrømmen er langs 
+hovedstrømretning på 5m, 15m og spredningsdyp og er vurdert som sterk på 5m og som middels sterk 
+på 15m, spredningsdyp (48m) og bunndyp (68m). Maksimalmålingen er bare én måling og gir ikke 
+en indikasjon av om strømmen er sterk eller svak i området. 
+ 
+Signifikant maksimal strømhastighet er gjennomsnittet av den høyeste tredjedelen av målingene og 
+gir en indikasjon av styrken på strømmen i området. Denne var 14.6cm/s på 5m, 9.4cm/s på 15m, 
+7.8cm/s på spredningsdyp (48m) og 5.4cm/s på bunndyp (68m). Signifikant maksimal strømhastighet 
+er vurdert som middels sterk på 5m, 15m og spredningsdyp (48m), og som svak på bunndyp (68m). 
+ 
+Det var tilfeller der strøm var > 30cm/s på 5m dyp. Høy strømhastighet oppstår uregelmessig på 
+måleposisjonen og er vurdert forårsaket av tidevann i kombinasjon med andre bidrag. 
+ 
+5.2 
+Tidevannspåvirkning 
+ 
+Strømmen er vurdert som tidevannsdominert på 15m og spredningsdyp (48m) under måleperioden, 
+da tidevannsbidraget var ≥ 40% (Tabell 4.23.1). Tidevannssignalet dominerte ikke på 5m eller 
+bunndyp (68m) under måleperioden (Tabell 4.23.1). Tidevannsbidrag til strøm på 5m og bunndyp er 
+lavere enn på 15m og spredningsdyp. Dette indikerer at strømmen på 5m og bunndyp er mer påvirket 
+av andre faktorer. 
+ 
+5.3 
+Vindpåvirkning 
+ 
+Ut fra omkringliggende topografi er det vurdert at vind fra alle retninger kan ha betydning for 
+strømforholdene på lokaliteten. I måleperioden blåste vind mest fra N og sterkest fra Ø (Tabell 
+4.25.1).  
+ 
+Grunnet friksjon mellom vind og vannoverflate vil vind med betydelig hastighet (> 3m/s) og stabil 
+retning som blåser over en lengre periode ha innvirkning på strømmen. Tilfeller med vindpåvirkning 
+er i dette tilfellet beregnet utfra sammenfallende eller motsatt rettet retninger ved et bestemt tidspunkt, 
+uten hensyn til vindens varighet eller stabilitet.  
+ 
+Hvis de lokale vindforholdene på strømmålingsposisjonen for 5m var like de på værstasjon Solvær 
+III er det vurdert at vind fra Ø og SØ kan ha påvirket strøm mot V/NV, vind fra S kan ha påvirket 
+strøm mot N/NØ, vind fra SV kan ha påvirket strøm mot N/NØ/Ø og vind fra V kan ha påvirket strøm 
+mot Ø. 
+     
+Vind kan ha påvirket noen av strømtoppene.  
+ 
+Værstasjonen har en annen beliggenhet enn strømmålerposisjonene, og det kan dermed forventes 
+noen andre vindretninger lokalt ved måleposisjonene enn på Solvær III. 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 43 av 72 
+Det var enkelte tilfeller hvor strøm- og vindretning var motsatt rettet under måleperioden, hvor vind 
+kan ha virket bremsende på målt strømhastighet. 
+ 
+5.4 
+Vannutskiftning  
+ 
+Det er naturlig med strømstille når tidevannet skifter fra flo til fjære eller motsatt. Varigheten av 
+strømstille perioder kan ha betydning for vannutskiftning i et område. Siden vann vil strømme rundt, 
+i tillegg til gjennom eller under et anlegg, er anleggsorientering viktig. Et anlegg orientert slik at det 
+ligger med langsiden mot den dominerende strømretningen vil ha bedre vannutskiftning i merdene 
+enn et anlegg hvor mange av merdene ligger etter hverandre langs hovedstrømmen. Neumann-
+parameteren sier noe om stabiliteten til strømmen. En høy Neumann parameter (f.eks. 0.7) indikerer 
+en retningsstabil strøm. Dette tyder på at vannet strømmer i en retning og beveger seg konstant bort 
+fra startpunktet. En lav Neumann-parameter kan bety at vannstrømmen har skiftende retning og 
+kanskje bare flyter fram og tilbake ved startpunktet. Neumann-parameteren kan brukes opp mot 
+progressivt vektordiagram og gjennomsnittsstrømmen for å kunne si noe om vannutskiftningen ved 
+det punktet hvor strømmen er målt.  
+ 
+Gjennomsnittlig strømhastighet var ≥ 2cm/s på alle dyp. Gjennomsnittlig strømhastighet er vurdert 
+som sterk på 5m, som middels sterk på 15m og spredningsdyp (48m) og som svak på bunndyp (68m).  
+ 
+Prosent nullmålinger (< 1cm/s) var mindre enn 10% på 5m, 15m og spredningsdyp (48m). Prosent 
+nullmålinger (< 1cm/s) var 11.2% på bunndyp (68m). Lengst varighet for strøm < 1cm/s var 30 
+minutter på 5m, 50 minutter på 15m, 70 minutter (1t 10min) på spredningsdyp (48m) og 60 minutter 
+(1t) på bunndyp (68m). Det var kort periode med strømstille på 5m dyp (≤ 30 minutter). Det var flere 
+tilfeller med strømstille på 15m, sprednings- og bunndyp, men ofte med kort varighet fra 10 til 30 
+minutter (Tabell 4.22.2 – Tabell 4.22.4). 
+ 
+Neumann-parameteren er beregnet til 0.4 på 5m, 0.1 på 15m, 0.3 på spredningsdyp (48m) og 0.2 på 
+bunndyp (68m). Neumann-parameteren er vurdert som stabil på 5m, som lite stabil på 15m, og som 
+middels stabil på spredningsdyp (48m) og bunndyp (68m). Strømretninger og vannutskiftning 
+stemmer med områdets bunntopografi. Vannutskiftningen er vurdert som god på 5m, spredningsdyp 
+og bunndyp fordi vannet stort sett beveger seg bort fra startpunktet og ikke bare flyter fram og tilbake. 
+På 15m dyp beveger vannet seg i enkelte perioder bort fra startpunktet, men i flere perioder er 
+vannutskiftning preget av at vannet beveger seg mer frem og tilbake.  
+ 
+5.5 
+Mulig spredning av utslipp 
+ 
+Sprednings- og bunnstrøm er viktig for lokalitetens totale bæreevne. Opphopning av sediment under 
+anlegget kan i noen tilfeller påvirke vannkvaliteten i merden og dermed fiskens levevilkår 
+(Mattilsynet, 2016). På lokaliteter med kort avstand mellom havbunn og notbunn er det viktig at både 
+sprednings- og bunnstrøm viser god vannutskiftning slik at sedimenter ikke hoper seg opp og påvirker 
+vannkvaliteten i merden negativt (Mattilsynet, 2016). Bunntopografi og strømningsforhold har også 
+betydning for utskifting og nedbryting av bunnsedimenter fra anlegget (Mattilsynet, 2016). En ujevn 
+bunn eller en flat bunn med groper gir større risiko for opphopning av sedimenter enn en jevnt 
+skrånende bunn.    
+ 
+Dyp ved målepunktet for sprednings- og bunndyp var ca. 70m. Med slike dyp er det god avstand 
+mellom notbunn og havbunn. Strømmåleposisjonen ligger over en kupert bunn. Øst for lokaliteten 
+skråner bunnen nedover mot NØ/Ø/SØ til ca. 350m midt i fjorden. Nordøst/øst for posisjonene er det 
+en forhøyning i batymetrien. Bunntopografien er orientert NØ/Ø – SV/V i posisjonen for sprednings- 
+og bunndyp, og orientert NV – SØ i posisjonen for 5m og 15m. 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 44 av 72 
+Det var tilfeller der strøm var > 10cm/s på både spredningsdyp (48m) og bunndyp (68m). 
+Strømhastigheter > 10cm/s er gunstig med tanke på spredning av organisk materiale fra anlegget. 
+ 
+Spredning av utslipp følger strømrosen for spredningsdyp (Figur 4.2.1) og orienteringen til 
+bunntopografien i området. Mye sedimentasjon legger seg mot S (Figur 4.26.1), som er retningen 
+med mest vannutskiftning på spredningsdyp (Tabell 4.17.1). Med utgangspunkt i målte 
+strømhastigheter på spredningsdyp vil avfall spre seg lengst mot NØ, opptil 200m vekk fra 
+utslippspunktet. 
+ 
+5.6 
+Vannsøylens vertikale struktur 
+ 
+Vannsøylens stabilitet har vesentlig betydning for sirkulasjon i området og mulighet for blanding 
+vertikalt. En stabil vannsøyle har økende tetthet med økende dyp. Lagdeling i vannsøylen (forårsaket 
+av forskjellige grunner, for eksempel; ferskvannsavrenning, avkjøling/oppvarming av overflatevann, 
+utveksling av vann ved bunnen med kystvann) påvirker spredning av utslipp både horisontalt og 
+vertikalt. 
+ 
+Temperatur under måleperioden var 9.9 - 14.9°C på 5m, 8.3 - 13.6°C på 15m, 7.5 - 8.7°C på 
+spredningsdyp (48m) og 7.2 - 8.2°C på bunndyp (68m). Temperaturmålingene viser at overflatelaget 
+var varmere enn lenger ned i vannsøylen (Figur 4.8.1). Temperaturen på 5m dyp økte frem til starten 
+av juli, og var noenlunde lik frem til midten av august. Temperaturen på 15m dyp var nokså lik fra 
+slutten av juni og frem til omtrent midten av juli, økte deretter raskt, og var deretter noenlunde lik 
+frem til midten av august. Temperaturen på 15m er i perioder preget av en del variasjoner, som kan 
+være forårsaket av tilførsel av vannmasser med ulik temperatur. Temperaturen på sprednings- og 
+bunndyp var nokså lik i fra slutten av juni og frem til starten av august.  
+ 
+CTD-målinger viser at det var en oppvarming av vannsøylen i løpet av måleperioden (Figur 4.27.1). 
+Temperaturen i juni avtok i de øvre 30m, og var nokså uendret ned til bunnen. i august var 
+temperaturen nokså uendret i de øvre 15m, avtok fra 15m og ned til ca. 40m, og var igjen nokså 
+uendret ned til bunnen. 
+ 
+Saltinnholdet minket mellom juni og august i de øvre 20m (Figur 4.27.1). Saltinnholdet økte sakte 
+fra overflaten og ned til bunnen i begge profilene.   
+ 
+Tetthetsdata gjenspeiler saltinnholdet og viser at vannsøylen var blandet i juni, og lagdelt i august 
+(Figur 4.27.1). I august viser profilen antydninger til ett overflatelag i de øvre 13m, og ett dypere 
+vannlag fra ca. 20m og ned til bunnen.  
+ 
+Oksygenmetningen i juni var høy (> 90%) i hele vannsøylen (Figur 4.27.1). Det var en svak / sterk 
+økning litt lenger ned i vannsøylen (ved ca. 14m dyp). Oksygenmetningen sank fra overflaten og end 
+til bunnen. Oksygeninnholdet viser lignende mønster som oksygenmetningen. Forskjellen i profilene 
+til oksygenmetning og -innhold kommer av at oksygenmetningen avhenger av temperaturen til 
+sjøvannet. Kaldere vann kan holde på mer oksygen, mens varmere vann kan holde på mindre. 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 45 av 72 
+6. Vedlegg – Bakgrunnsinformasjon 
+ 
+6.1 
+Valg av sted, dyp og periode for strømmålinger 
+ 
+Valg av målested 
+ 
+Plassering av riggen i forhold til det dypet strømmen skal måles på har stor betydning for målingene. 
+Et av kravene i NS 9415:2009 er at målerne skal plasseres i den posisjonen som sannsynligvis oppgir 
+høyeste strømhastighet på lokaliteten.  
+ 
+• Anleggets geografiske plassering og topografiske utforming av nærområdet må vurderes.  
+Strømmen påvirkes av bukter, viker og elveløp, møtepunkter for fjordsystemer, osv. Dette 
+kan føre til at strømmen skifter retning e.l.  
+• Anlegget bør plasseres der vannet får kortest mulig oppholdstid i merdene før nytt vann 
+kommer inn, og slik at vanntransporten på tvers av anlegget maksimeres. Dette er spesielt 
+viktig i den varme årstiden med høy temperatur i vannet, mye fisk og intensiv fôring, og drift 
+av anlegget.    
+• Bunntopografien under anlegget og i området bør vurderes, da ujevnheter kan påvirke 
+strømmens styrke og retning.  
+ 
+Plasseringen som sannsynligvis oppgir høyeste strømhastighet på en lokalitet er ofte lengst unna land. 
+Strømmåling på 5m og 15m dyp som foretas skal gi grunnlag for å estimere den sterkeste strømmen 
+anlegget kan bli utsatt for med tanke på dimensjonering.  
+ 
+For strømmåling på sprednings- og bunndyp er foretrukket plassering i anleggets senter, som gir 
+grunnlag for å estimere den representative strømstyrken i anlegget med tanke på spredning av 
+partikler. 
+ 
+Valg av måledyp 
+ 
+Overflatestrømmen måles på 5m dyp. Det tas ikke på 1m på grunn av støy fra bølger. 
+Vannutskiftningsstrøm måles på 15m dyp. 
+Sprednings- og bunnstrøm 
+• Spredningsstrøm måles midt mellom merdbunn og sjøbunn, men ikke dypere enn 50m fra 
+merdbunn. 
+• Bunnstrøm måles ca. 2m over bunn, men ikke dypere enn 100m fra merdbunn. 
+ 
+Valg av måleperiode 
+ 
+Siden tidevannskomponentene M2 og S2 «pulserer» sammen hvert 14.77 døgn, som er 
+tidevannssyklus for spring / nipp, er anbefalt minimum måleperiode 30 dager.  
+ 
+Målingene på 5m og 15m dyp ble gjort i samsvar med NS 9415:2009, der kravet er at målingene skal 
+gjennomføres sammenhengende i minst en måned.  
+ 
+Målingene på sprednings- og bunndyp ble gjort i samsvar med retningslinje for etableringssøknader 
+fra Mattilsynet (Mattilsynet, 2016), der det er anbefalt at målingene skal gjennomføres 
+sammenhengende i minst 4 uker. 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 46 av 72 
+6.2 
+Spesifikasjoner for strøminstrumenter 
+ 
+Opplysninger om strøminstrumentene er oppgitt i Tabell 6.2.1. Målerne registrerer strømhastighet, 
+strømretning og temperatur.   
+ 
+Tabell 6.2.1. Spesifikasjoner per strøminstrument. 
+Måledyp 
+5m 
+15m 
+Spredning (48m) 
+Bunn (68m) 
+Leverandør 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Aanderaa AS 
+Instrumenttype, 
+modell 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+RCM Blue 5430 
+punktmåler 
+ID-nr. 
+5332 
+5325 
+5440 
+5358 
+Cellestørrelse 
+- 
+- 
+- 
+- 
+Kalibrering 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Utført hos 
+Aanderaa Data 
+Instruments ved 
+levering av 
+instrumentet. 
+Strømhastighetens 
+nøyaktighet 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+±0.15cm/s 
+Strømhastighetens 
+rekkevidde / 
+terskelverdi 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+0 til 300cm/s 
+(vektor 
+gjennomsnitt) 
+Strømretningens 
+nøyaktighet 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+±5º for 0-15º 
+helning; ±7.5º for 
+15-35º helning 
+Kompassorientering 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Magnetisk nord 
+Kompass justert for 
+misvisning 
+Nei 
+Nei 
+Nei 
+Nei 
+Temperaturens 
+nøyaktighet og 
+rekkevidde 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+0.05ºC, -5ºC til 
+40ºC 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 47 av 72 
+6.3 
+Måleprinsipp for strømmålinger 
+ 
+Aanderaa punktmåler  
+ 
+Instrumentet bruker Doppler-effekten for å måle strøm. Det sendes ut en kort lydpuls (akustisk puls) 
+med en konstant, bestemt frekvens. Endring i styrken og frekvensen til de innkommende 
+refleksjonene blir målt. Forskjellen mellom pulsen som ble sendt ut og innkommende refleksjon er 
+proporsjonal med strømhastigheten. Refleksjoner er forårsaket av små partikler i vannet (vanligvis 
+zooplankton eller sediment) og bobler. Det er antatt at disse partiklene flyter i vannet og at de derfor 
+beveger seg med samme hastighet som vannet. En punktmåler er satt opp for å måle strøm med én 
+datalogging i et intervall på 10 minutter, basert på 150 ping. 
+ 
+Tabell 6.3.1. Måleprinsipp for en Aanderaa punktmåler. 
+Tid (min) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+Punktmåler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gule og grønne felt indikerer samplingsperioder på 10 minutter. I løpet av denne perioden sender 
+instrumentet ut 150 ping. Ett datapunkt gir gjennomsnittet over en 10-minuttersperiode. 
+ 
+6.4 
+CTD-målinger 
+ 
+Hydrografimålinger ble gjennomført med en SD 204 CTD-sonde med oksygensensor. Sonden, med 
+et påmontert lodd, ble senket ned til loddet traff bunnen og deretter hevet til overflaten. Sonden gjør 
+én registrering hvert 2. sekund, og den vil dermed lage en profil av vannsøylen ved senkning og en 
+ved heving. Profil ved senkning av sonden ble benyttet.  
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 48 av 72 
+7. Vedlegg – Riggoppsett 
+ 
+7.1 
+Riggoppsett 
+ 
+Riggoppsett for målt strøm er beskrevet i Tabell 7.1.1 – Tabell 7.1.2 og skissert i Figur 7.1.1 – Figur 
+7.1.2.  
+ 
+Tabell 7.1.1. Beskrivelse av riggoppsett for strømmålinger på 5m og 15m. 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A2-blåse 
+Blåse 
+1stk 
+ 
+35kg oppdrift 
+Trålkule 11" 
+Kule 
+4stk 
+ 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+5.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+5.0m 
+ 
+Danline 14mm 
+Tau 
+10.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+15.0m 
+ 
+Danline 14mm 
+Tau 
+2.0m 
+ 
+ 
+Pærelodd 
+Lodd 
+3stk 
+17.0m 
+5kg 
+Danline 14mm 
+Tau 
+77.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+3stk 
+ 
+30kg 
+ 
+Tabell 7.1.2. Beskrivelse av riggoppsett for strømmålinger på spredningsdyp (48m) og bunndyp 
+(68m). 
+Komponent 
+Komponenttype 
+Antall/Lengde 
+Dyp 
+Vekt/oppdrift per enhet 
+A2-blåse 
+Blåse 
+1stk 
+ 
+35kg oppdrift 
+Trålkule 11" 
+Kule 
+1stk 
+ 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+57.0m 
+ 
+ 
+Trålkule 11" 
+Kule 
+2stk 
+48.0m 
+7.5kg oppdrift 
+Danline 14mm 
+Tau 
+2.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+50.0m 
+ 
+Danline 14mm 
+Tau 
+19.0m 
+ 
+ 
+Punktmåler 
+Måler 
+1stk 
+69.0m 
+ 
+Danline 14mm 
+Tau 
+1.0m 
+ 
+ 
+Garnanker 
+Bunnsikring 
+3stk 
+70.0m 
+30kg 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 49 av 72 
+ 
+Figur 7.1.1. Riggoppsett for strømmålinger på 5m og 15m. 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 50 av 72 
+ 
+Figur 7.1.2. Riggoppsett for strømmålinger på spredningsdyp (48m) og bunndyp (68m). 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 51 av 72 
+8. Vedlegg – Databearbeiding og kvalitetssikring  
+ 
+Før utsett ble fysisk status til hvert instrument kontrollert. Kontrollsjekk inkluderer: batteristatus, 
+instrumentinnstilling, minnestatus og anoder. 
+ 
+Det benyttes et internt kvalitetssystem som følger hver måler for teknisk dokumentasjon. 
+Instrumenttilstand og eventuelt andre kommentarer angående instrumentet oppføres i 
+kvalitetssystemet etter hvert prosjekt.  
+   
+Ved utsett av instrumenter benyttes et internt kvalitetssystem som inkluderer (etter NS 9425-1:1999): 
+lokalitetsnavn, riggoppsett, posisjon, måledyp, kontaktperson og oppdragsgiver, tidspunkt for utsett 
+og opptak, og et kommentarfelt for eventuelle observasjoner ved utsett og opptak.  
+ 
+Ved opptak blir måleinstrumentene undersøkt for begroing, annet som kan ha påvirket målingene, og 
+fysisk skade. Dette kommenteres i kvalitetssystemet og i rapporten, og mulig påvirkning for resultatet 
+blir vurdert. Verdier som er benyttet i rapporten er troverdige og uten behov for støyfiltrering eller 
+annen korreksjon. 
+ 
+Data er kvalitetssikret gjennom interne prosedyrer utviklet i samarbeid med instrumentenes produsent 
+etter bestemte kriterier. Dersom disse kriteriene ikke blir møtt er data kritisk vurdert. Enkeltstående 
+datapunkter blir også vurdert og data fjernes om nødvendig. Både rådata og kvalitetssikret data er 
+lagret på server. 
+ 
+8.1 
+Databearbeiding 
+ 
+Riggtilstand etter måling 
+ 
+Det var lite begroing og ingen skade på instrumentene, og ingen data er vurdert som feil eller usikre 
+på grunn av dette. Datakvaliteten anses å være god. 
+ 
+Feil på instrument 
+ 
+Det var feil på oksygensensor på CTD-instrumentet i opptak. Oksygendata fra august er dermed ikke 
+presentert. Dette har ingen konsekvens for registrering av andre data eller parametere. 
+ 
+Det var ingen feil på instrumentenes sensorer under måleperioden. Datakvaliteten anses å være god. 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 52 av 72 
+Tabell 8.1.1. Opplysninger om strømmålinger og databearbeiding. 
+Måledyp 
+5m 
+15m 
+Spredning (48m) 
+Bunn (68m) 
+Filnavn for rådata 
+Skibåtsvær 5m FBS0823 
+AP5332.bin 
+Skibåtsvær 15m FBS0823 
+AP5325.bin 
+Skibåtsvær spred FBS0823 
+AP5440.bin 
+Skibåtsvær bunn FBS0823 
+AP5358.bin 
+Rådata først vurdert i 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Aanderaa Data Studio 
+Filnavn for eksportert data 
+Skibåtsvær 5m FBS0823 
+AP5332_eks_ØB.xlsx 
+Skibåtsvær 15m FBS0823 
+AP5325_eks_ØB.xlsx 
+Skibåtsvær spred-48m 
+FBS0823 
+AP5440_eks_HP.xlsx 
+Skibåtsvær bunn-68m 
+FBS0823 
+AP5358_eks_ØB.xlsx 
+Filnavn for kvalitetssikret 
+data 
+Skibåtsvær-5m_QC.xlsx 
+Skibåtsvær-15m_QC.xlsx 
+Skibåtsvær-Spredning 
+(48m)_QC.xlsx 
+Skibåtsvær-Bunn 
+(68m)_QC.xlsx 
+Prosentandel data (%) 
+100.00 
+100.00 
+100.00 
+100.00 
+Antall målinger 
+8312 / 8312 
+8312 / 8312 
+6172 / 6172 
+6172 / 6172 
+Antall fjernede/manglende 
+målinger 
+0 
+0 
+0 
+0 
+Ekstern påvirkning på 
+målinger 
+Nei 
+Nei 
+Nei 
+Nei 
+Dato og tid for første og siste 
+benyttede strømmåling 
+21.06.23 14:30 - 18.08.23 
+07:40 
+21.06.23 14:30 - 18.08.23 
+07:40 
+21.06.23 13:50 - 03.08.23 
+10:20 
+21.06.23 13:50 - 03.08.23 
+10:20 
+Dato og tid for start og slutt 
+av instrument 
+21.06.23 13:20 - 21.08.23 
+13:20 
+21.06.23 13:30 - 21.08.23 
+13:00 
+21.06.23 12:50 - 21.08.23 
+13:30 
+21.06.23 13:00 - 21.08.23 
+13:40 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 53 av 72 
+8.2 
+Kvalitetssikring av data 
+ 
+Data er kvalitetssikret etter bestemte kriterier (Tabell 8.2.1). Dersom disse kriteriene ikke blir møtt er 
+data kritisk vurdert. Utstikkere blir også vurdert og data fjernet om nødvendig.  
+ 
+Tabell 8.2.1. Kriterier brukt for å kvalitetssikre data. 
+Parameter 
+QC  
+Temperatur 
+Manuell sjekk av data for stabil temp (∆ < 1℃)  
+Helning 
+< 50º (Figur 8.2.1 – Figur 8.2.4)  
+Ping count 
+150 (Figur 8.2.1 – Figur 8.2.4)  
+Trykk 
+Stabilt (Figur 8.2.1 – Figur 8.2.4)  
+Strømhastighet 
+Stabil (ingen store endringer fra en måling til neste måling, Tabell 8.2.2).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+Retning 
+Stabil (ingen store endringer fra en måling til neste måling).   
+Lav og sterk strøm vurderes etter forskjellige ‘kriterier’ i forhold til 
+endringer mellom målinger. 
+ 
+Tabell 8.2.2. Teoretiske forskjeller i strømhastighet fra en måling til det neste (IOC, 1993). 
+∆t (min) 
+Teoretisk 
+Faktor 
+Godkjent 
+ 
+u1 – u2 (m/s) 
+ 
+u1 – u2 (m/s) 
+5 
+0.0422 u 
+2.0 
+0.08 
+10 
+0.0843 u 
+1.8 
+0.15 
+15 
+0.1264 u 
+1.6 
+0.20 
+20 
+0.1685 u 
+1.5 
+0.25 
+30 
+0.2523 u 
+1.4 
+0.35 
+60 
+0.5001 u 
+1.2 
+0.60 
+ 
+Tabell 8.2.2 gir teoretiske forskjeller mellom to suksessive målinger av strømhastighet, u1 og u2, for 
+forskjellige måleintervall, Δt (IOC,1993). For å tillate noe naturlig variabilitet i strømhastighet 
+og -retning (inkludert usymmetriske hastighetskurver for tidevannsstrøm) har de teoretiske 
+forskjellene blitt hevet med de oppgitte faktorene, mens strøm (u) er satt til 1m/s ettersom variabilitet 
+øker med avtagende strøm. 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 54 av 72 
+ 
+ 
+Figur 8.2.1. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 5m dyp.  
+ 
+Instrumentdypet varierte mellom 4.9m og 6.1m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 5.6m.  
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 55 av 72 
+ 
+ 
+Figur 8.2.2. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, 15m dyp.  
+ 
+Instrumentdypet varierte mellom 14.3m og 15.9m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 15.3m.  
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 56 av 72 
+ 
+ 
+Figur 8.2.3. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, spredningsdyp (48m).  
+ 
+Instrumentdypet varierte mellom 46.2m og 49.0m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 47.7m.  
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 57 av 72 
+ 
+ 
+Figur 8.2.4. Tidsdiagram – kriteriene brukt for å kvalitetssikre data, bunndyp (68m).  
+ 
+Instrumentdypet varierte mellom 67.0m og 69.7m dyp i løpet av måleperioden. Gjennomsnittlig 
+instrumentdyp var på 68.4m.  
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 58 av 72 
+8.3 
+Fjernede dataverdier  
+ 
+8.3.1 Måleperiode 
+ 
+Data er fjernet utenfor måleperioden for å bruke overlappende periode mellom 5m og 15m dyp, og 
+mellom sprednings- og bunndyp i så stor grad som mulig. 
+ 
+8.3.2 Enkelte datapunkter 
+ 
+Ingen datapunkter er fjernet. 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 59 av 72 
+9. Vedlegg – Fyrstikkdiagram av vind og strøm 
+ 
+Figurene under viser vind- og strømhastighet i løpet av måleperioden, oppdelt i perioder på to uker. Tidspunkter hvor vind og strøm hadde omtrent 
+sammenfallende retning (grønne prikker) eller motsatt retning (røde prikker) indikerer tilfeller med vindpåvirket strøm. Svak vind (< 3m/s) hvor strøm 
+og vind hadde sammenfallende eller motsatt retning er indikert med oransje prikker. Det er tillatt en vinkel på opptil ± 22.5° ved beregning av om vind 
+og strøm har omtrent sammenfallende eller motsatt retning. 
+ 
+5m 
+ 
+ 
+Figur 9.1. Fyrstikkdiagram av vindhastighet (mot retning) på Solvær III (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 60 av 72 
+ 
+ 
+ 
+Figur 9.2. Fyrstikkdiagram av vindhastighet (mot retning) på Solvær III (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 61 av 72 
+ 
+ 
+ 
+Figur 9.3. Fyrstikkdiagram av vindhastighet (mot retning) på Solvær III (over) og strømhastighet (mot retning) på 5m dyp (under) under måleperioden. 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 62 av 72 
+10. Vedlegg - Varighetsanalyse 
+ 
+Lave (≤ 1, 3, 5 og 10cm/s) og høye (≥ 50, 60, 70 og 80cm/s) strømhastigheter kan ha betydning for 
+fiskens helse. I Figur 10.1 – Figur 10.4 vises varighet av lave (≤ 1, 3, 5 og 10cm/s) strømhastigheter 
+på hvert av de målte dypene i måleperioden. Én hendelse er anvist som én prikk og den tilhørende 
+heltrukne linjen fra prikken indikerer hendelsens varighet. For de korteste varighetsklassene vises 
+ikke den heltrukne linjen på grunn av den korte varigheten i forhold til lengden av måleperioden. Det 
+var ingen tilfeller av strøm ≥ 50cm/s på noen av dypene.  
+ 
+I Figur 10.1 – Figur 10.4 er varighetsklassene vist på venstre stående akse og tid langs liggende akse. 
+Høyre stående akse viser den korteste og lengste varigheten per hendelse, og den korteste og lengste 
+perioden mellom to hendelser. Enhetene på høyre stående akse er gitt som minutter (m), timer (t) og 
+døgn (d). For de lave strømhastighetene (≤ 1, 3, 5 og 10cm/s) er den lengste perioden hvor strøm er 
+høyere enn hastighetsklassene vist med stiplet linje. 
+ 
+I Tabell 10.1 – Tabell 10.4 gjenspeiler antall hendelser antall prikker per varighets- og 
+hastighetsklasse i Figur 10.1 – Figur 10.4. 
+ 
+Tabell 10.1. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+5m dyp. 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+100 
+56 
+35 
+2 
+0 
+0 
+0 
+0 
+≤ 5cm/s 
+95 
+48 
+70 
+22 
+19 
+7 
+6 
+2 
+≤ 10cm/s 
+58 
+22 
+27 
+22 
+10 
+6 
+3 
+51 
+ 
+Tabell 10.2. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+15m dyp. 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+43 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+157 
+87 
+58 
+10 
+6 
+0 
+0 
+0 
+≤ 5cm/s 
+127 
+81 
+75 
+42 
+19 
+14 
+5 
+16 
+≤ 10cm/s 
+22 
+18 
+14 
+19 
+11 
+2 
+7 
+62 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 63 av 72 
+Tabell 10.3. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+spredningsdyp (48m). 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+74 
+13 
+2 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+118 
+76 
+77 
+24 
+8 
+8 
+5 
+1 
+≤ 5cm/s 
+86 
+45 
+44 
+25 
+21 
+12 
+7 
+34 
+≤ 10cm/s 
+7 
+1 
+2 
+2 
+0 
+5 
+2 
+36 
+ 
+Tabell 10.4. Antall hendelser per varighetsklasse for hver hastighetsklasse (≤ 1, 3, 5 og 10cm/s) på 
+bunndyp (68m). 
+Hastighetsklasser > 10 - ≤ 
+30min 
+> 30min 
+- ≤ 1t 
+> 1 - ≤ 2t > 2 - ≤ 3t > 3 - ≤ 4t > 4 - ≤ 5t > 5 - ≤ 6t 
+>6t 
+≤ 1cm/s 
+119 
+16 
+0 
+0 
+0 
+0 
+0 
+0 
+≤ 3cm/s 
+160 
+127 
+117 
+33 
+20 
+5 
+5 
+7 
+≤ 5cm/s 
+34 
+34 
+44 
+23 
+22 
+14 
+14 
+42 
+≤ 10cm/s 
+4 
+0 
+2 
+2 
+0 
+0 
+1 
+22 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 64 av 72 
+ 
+ 
+Figur 10.1. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på 5m. 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 65 av 72 
+ 
+ 
+Figur 10.2. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på 15m. 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 66 av 72 
+ 
+ 
+Figur 10.3. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på spredningsdyp (48m). 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 67 av 72 
+ 
+ 
+Figur 10.4. Varigheter med strømhastigheter ≤ 1, 3, 5 og 10cm/s (strømhastighetsklasser) på bunndyp (68m). 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 68 av 72 
+11. Vedlegg – Strømmens tilstandsklasser 
+ 
+Tilstandsklasser for strømparametere er oppgitt i tabellen under. Verdiene er hentet fra strømdata 
+målt av Åkerblå ved bruk av Aanderaa punkmålere (Åkerblå, 2015). 
+ 
+Tabell 11.1. Tilstandsklasser for vurdering av strømdata. 
+ 
+Dyp 
+(m) 
+1 
+2 
+3 
+4 
+5 
+Maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 55 
+≥ 40 - < 55 
+≥ 26 - < 40 
+≥ 15 - < 26 
+< 15 
+Utskifting 15 
+≥ 45 
+≥ 30 - < 45 
+≥ 20 - < 30 
+≥ 10 - < 20 
+< 10 
+Spredning  
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Bunn 
+ 
+≥ 35 
+≥ 25 - < 35 
+≥ 15 - < 25 
+≥ 10 - < 15 
+< 10 
+Gjennomsnittlig strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 10 
+≥ 7 - < 10 
+≥ 6 - < 7 
+≥ 3 - < 6 
+< 3 
+Utskifting 15 
+≥ 9 
+≥ 6 - < 9 
+≥ 5 - < 6 
+≥ 2 - < 5 
+< 2 
+Spredning  
+≥ 8.5 
+≥ 5 - < 8.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Bunn 
+ 
+≥ 7.5 
+≥ 5 - < 7.5 
+≥ 4 - < 5 
+≥ 2 - < 4 
+< 2 
+Signifikant maksimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 25 
+≥ 17 - < 25 
+≥ 11 - < 17 
+≥ 5 - < 11 
+< 5 
+Utskifting 15 
+≥ 23 
+≥ 15 - < 23 
+≥ 8 - < 15 
+≥ 4 - < 8 
+< 4 
+Spredning  
+≥ 20 
+≥ 14 - < 20 
+≥ 7 - < 14 
+≥ 4 - < 7 
+< 4 
+Bunn 
+ 
+≥ 16 
+≥ 11 - < 16 
+≥ 6.5 - < 11 
+≥ 3 - < 6.5 
+< 3 
+Signifikant minimal strømhastighet (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 6 
+≥ 4 - < 6 
+≥ 2.5 - < 4 
+≥ 1.5 - < 2.5 
+< 1.5 
+Utskifting 15 
+≥ 5 
+≥ 3.5 - < 5 
+≥ 2.3 - < 3.5 
+≥ 1.5 - < 2.3 
+< 1.5 
+Spredning  
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Bunn 
+ 
+≥ 4 
+≥ 3 - < 4 
+≥ 2 - < 3 
+≥ 1 - < 2 
+< 1 
+Andel strømstille (%) < 1cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 1 
+< 3 - ≥ 1 
+< 5 - ≥ 3 
+< 7 - ≥ 5 
+≥ 7 
+Utskifting 15 
+< 1 
+< 5 - ≥ 1 
+< 7 - ≥ 5 
+< 10 - ≥ 7 
+≥ 10 
+Spredning  
+< 3 
+< 8.5 - ≥ 3 
+< 15 - ≥ 8.5 
+< 20 - ≥ 15 
+≥ 20 
+Bunn 
+ 
+< 3 
+< 10 - ≥ 3 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Andel strømstille (%) < 3cm/s 
+ 
+ 
+svært lite 
+lite 
+middels 
+høy 
+svært høy 
+Overflate 
+5 
+< 5 
+< 10 - ≥ 5 
+< 20 - ≥ 10 
+< 30 - ≥ 20 
+≥ 30 
+Utskifting 15 
+< 5 
+< 15 - ≥ 5 
+< 25 - ≥ 15 
+< 40 - ≥ 25 
+≥ 40 
+Spredning  
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 50 - ≥ 35 
+≥ 50 
+Bunn 
+ 
+< 10 
+< 20 - ≥ 10 
+< 35 - ≥ 20 
+< 60 - ≥ 35 
+≥ 60 
+Effektiv transport (cm/s) 
+ 
+ 
+svært sterk 
+sterk 
+middels sterk 
+svak 
+svært svak 
+Overflate 
+5 
+≥ 5 
+≥ 2.5 - < 5 
+≥ 1.5 - < 2.5 
+≥ 0.3 - < 1.5 
+< 0.3 
+Utskifting 15 
+≥ 3.5 
+≥ 2 - < 3.5 
+≥ 1 - < 2 
+≥ 0.2 - < 1 
+< 0.2 
+Spredning  
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Bunn 
+ 
+≥ 3 
+≥ 1.8 - < 3 
+≥ 0.6 - < 1.8 
+≥ 0.1 - < 0.6 
+< 0.1 
+Neumann-parameter 
+ 
+svært stabil 
+stabil 
+middels stabil 
+lite stabil 
+svært lite stabil 
+Alle dyp (m) 
+≥ 0.6 
+≥ 0.4 - < 0.6 
+≥ 0.2 - < 0.4 
+≥ 0.1 - < 0.2 
+< 0.1 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 69 av 72 
+12. Vedlegg – Månedlige tidevannsvariasjoner 
+ 
+Strømmålinger er påvirket av blant annet tidevannsstrøm og kan bli påvirket av vind og vær. Månedlige tidevannsvariasjoner er vist i figuren under.    
+ 
+Figur 12.1. Månedlige tidevannsvariasjoner hvor stolpehøyde angir relativ tidevannsstrøm og stolpefarge indikerer månefaser (oransje – siste kvarter; 
+rød – nymåne; brun – første kvarter; grønn – fullmåne).
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 70 av 72 
+13. Vedlegg – Måleenheter 
+ 
+Alle måleenheter brukt i rapporten er beskrevet i tabellen under. 
+ 
+Tabell 13.1. Måleenheter brukt i rapporten. 
+Beskrivelse 
+Måleenhet 
+Dag og Tid 
+Tidsstempel i tidsserier er gitt ved midnatt, slik 
+at tidsserier starter midnatt før første målepunkt 
+og slutter midnatt etter siste målepunkt. 
+dd.mm.yy hh:mm (UTC) 
+dd.mm (UTC) 
+dd.mm.yyyy hh (UTC) 
+Høyde / Dybde 
+Meter (m) 
+Avstand  
+Kilometer (km) 
+Meter (m) 
+Posisjon / Koordinater 
+Posisjon er oppgitt i koordinatsystemet WGS64 
+(World Geodetic System 1984). 
+GGG (º) MM.MM (') 
+Strømretning (mot) 
+Grader (º) 
+Strømhastighet  
+Centimeter per sekund (cm/s) 
+Vindhastighet 
+Meter per sekund (m/s) 
+Vindretning (fra) 
+Grader (º) 
+Tidevannsnivå 
+Centimeter (cm) 
+Temperatur 
+Grader celsius (℃) 
+Helning 
+Grader (º) 
+Ping Count 
+Antall 
+ 
+ 
+ 
+ 
+ 
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 71 av 72 
+14. Vedlegg – Parametere og beskrivelse 
+ 
+Tabell 14.1. Parametere brukt i rapporten og beskrivelse av disse. 
+Parameter 
+Beskrivelse 
+Sjøtemperatur (℃) 
+Temperatur i vannet målt ved måledyp 
+Strømhastighet 
+Maksimum (cm/s) 
+Høyeste verdi av alle data 
+Gjennomsnitt (cm/s) 
+Matematisk gjennomsnittlig verdi av alle data 
+Minimum (cm/s) 
+Laveste verdi av alle data 
+Signifikant maks (cm/s)  Matematisk gjennomsnitt av høyeste 1/3 av data 
+Signifikant min (cm/s) 
+Matematisk gjennomsnitt av laveste 1/3 av data 
+Varians (cm/s)2 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+om data varierte mye mellom suksessivt høye og lave verdier. En høy 
+varians indikerer at datapunkter er meget spredt ut rundt 
+gjennomsnittsverdien, mens en lav varians indikerer at datapunkter er 
+veldig nær gjennomsnittsverdien og derfor også hverandre. 
+Varians 
+= 
+Gjennomsnittet 
+av 
+de 
+kvadrerte 
+forskjeller 
+fra 
+gjennomsnittsverdien. 
+Standardavvik (cm/s) 
+Verdi som indikerer spredning av data rundt gjennomsnittsverdi, dvs. 
+gjennomsnittlig avstand fra gjennomsnittsverdi. Et høyt standardavvik 
+indikerer stor spredning av data.   
+Standardavvik = kvadratrot (varians). 
+% < x cm/s  
+Mengden strøm med strømhastighet < x cm/s  
+Lengst periode < x cm/s Varighet av lengste periode med strømhastighet < x cm/s 
+Effektiv transport 
+Hastighet (cm/s) 
+Hastighet er en funksjon av posisjon og tid. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, da er effektiv hastighet gitt som den rettlinjede avstanden 
+mellom partikkelens start- og sluttposisjon delt på total tid i 
+måleperioden.   
+Retning (grader) 
+Retning er vinkelen til en linje ut fra origo. Gitt en tenkt partikkel som 
+starter i strømmålerens posisjon og som driver med strømmen i løpet av 
+måleperioden, er resultatretning eller retning av effektiv transport gitt 
+som vinkelen fra partikkelens startposisjon til partikkelens posisjon ved 
+måleperiodens slutt. 
+Neumann-parameter 
+Verdi som indikerer stabiliteten til strømmen. Neumann-parameteren 
+beregnes ut fra forholdet mellom den rettlinjede avstanden mellom en 
+tenkt drivende partikkels start- og sluttposisjon, og partikkelens totale 
+bane i løpet av måleperioden. Stabil strøm (høy Neumann-parameter) 
+betyr at vannet strømmer i «en» retning og beveger seg bort fra 
+startpunktet hele tiden. Ustabil strøm (lav Neumann-parameter) betyr at 
+vannet strømmer i ulike retninger og kanskje bare flyter fram og tilbake 
+ved startpunktet.  For eksempel, en Neumann-parameter på 0.7 betyr at 
+strømmen i løpet av måleperioden strømmer med 70% stabilitet i en 
+bestemt retning. Dette er klassifisert som svært stabil strøm.   
+Vannforflytning 
+(m3/m2/d) 
+Mengden vann som strømmer gjennom en tenkt flate på 1 m2 i løpet av 
+et døgn.  
+Strømrapport: Skibåtsvær, Herøy kommune  
+Åkerblå AS 
+Intern dok. id. B.4.1.10/7.00  
+Side 72 av 72 
+15. Vedlegg – Referanser 
+ 
+1. 
+Brukerveiledning. Aanderaa RCM Blue punktmåler. 
+ 
+2. 
+Bannister, R. J., Johnsen, I. A., Hansen, P. K., Kutti, T., & Asplin, L. (2016). Near- and far-
+field dispersal modelling of organic waste from Atlantic salmon aquaculture in fjord systems. 
+ICES Journal of Marine Science, 73, 9, 2408-2419. 
+ 
+3. 
+Codiga, D. L. (2021). Unified Tidal Analysis and Prediction Using the UTide Matlab 
+Functions. Technical Report 2011-01. Graduate School of Oceanography, University of 
+Rhode Island, Narragansett, RI. 59pp. 
+ 
+4. 
+Emery, R., & Thomson, W. J. (2001). Data Analysis Methods in Physical Oceanography. 
+Elsevier Science. 
+ 
+5. 
+Fiskeridirektoratet (2012). Veileder for utfylling av søknadsskjema for tillatelse til akvakultur 
+i flytende eller landbasert anlegg. Tilgjengelig: http://www.fiskeridir.no/Akvakultur/Registre-
+og-skjema/Skjema-akvakultur/Akvakultursoeknad 
+ 
+6. 
+IOC (1993). Manual of Quality Control Procedures for validation of Oceanographic Data. 
+Tilgjengelig: 
+http://www.iode.org/components/com_oe/oe.php?task=download&id=20423 
+&version=1st%20edition&lang=1&format=1 
+ 
+7. 
+Kartverket (2023). www.kartverket.no/sehavniva 
+ 
+8. 
+Mattilsynet (2016). Statens tilsyn for planter, fisk, dyr og næringsmidler, utgave 6.   
+Etableringssøknader – saksbehandling i tilsynet. Retningslinje til behandling av søknader etter 
+forskrift 17. juni 2008 nr. 823 om etablering og utvidelse av akvakulturanlegg, zoobutikker 
+m.m. 36s. 
+ 
+9. 
+Meteorologisk institutt (2023).  www.seklima.met.no 
+ 
+10. 
+NS 9415:2009. Flytende oppdrettsanlegg. Krav til lokalitetsundersøkelse, risikoanalyse, 
+utforming, dimensjonering, utførelse, montering og drift. Norsk Standard 2009: 101s. 
+ 
+11. 
+NS 9425-1:1999. Oseanografi – Del 1: Strømmålinger i faste punkter. Norsk Standard 1999. 
+6s. 
+ 
+12. 
+Åkerblå 
+(2015). 
+Strømklassifisering. 
+Åkerblå 
+AS-rapport: 
+Strøm- 
+Klassifisering-
+AanderaaPunktMåler-Okt2015, 2 sider.

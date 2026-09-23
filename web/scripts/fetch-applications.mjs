@@ -105,6 +105,101 @@ async function fetchLayer({ id, file, what }) {
 const counts = {};
 for (const layer of LAYERS) counts[layer.file] = await fetchLayer(layer);
 
+// ---- Fiskeridirektoratet's public application list (CSV export of fiskeridir.no/akvakultur/akvakultursoknader):
+// every application with its submission date, so brand-new ones appear before the map service has them,
+// and every one gets a link to its page there (sea chart, handling authority).
+const LIST_URL = 'https://www.fiskeridir.no/akvakultur/akvakultursoknader/_/service/no.fiskeridir/aqua-download-list?format=csv';
+const listPage = (no) => `https://www.fiskeridir.no/akvakultur/akvakultursoknader/${no.toLowerCase()}`;
+const LIST_STATUS = { 'Under behandling': 'SUBMITTED', Returnert: 'RETURNED', Ferdigbehandlet: 'DONE' };
+
+/** Minimal CSV: semicolon-separated, double-quoted fields may contain separators and doubled quotes. */
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let cell = '';
+  let quoted = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (quoted) {
+      if (c === '"' && text[i + 1] === '"') {
+        cell += '"';
+        i++;
+      } else if (c === '"') quoted = false;
+      else cell += c;
+    } else if (c === '"') quoted = true;
+    else if (c === ';') {
+      row.push(cell);
+      cell = '';
+    } else if (c === '\n' || c === '\r') {
+      if (c === '\r' && text[i + 1] === '\n') i++;
+      row.push(cell);
+      if (row.some((x) => x !== '')) rows.push(row);
+      row = [];
+      cell = '';
+    } else cell += c;
+  }
+  row.push(cell);
+  if (row.some((x) => x !== '')) rows.push(row);
+  return rows;
+}
+
+async function mergeList() {
+  const res = await fetch(LIST_URL, { headers: { 'user-agent': 'AiMar/1.0 (+https://pcmoan70.github.io/AiMar/)' } });
+  if (!res.ok) throw new Error(`application list: HTTP ${res.status}`);
+  const [head, ...rows] = parseCsv((await res.text()).replace(/^\uFEFF/, ''));
+  const col = Object.fromEntries(head.map((h, i) => [h.trim(), i]));
+  const get = (r, name) => (r[col[name]] ?? '').trim();
+  const target = fileURLToPath(new URL('applications.geojson', OUT));
+  const fc = JSON.parse(await readFile(target, 'utf8'));
+  const have = new Map(fc.features.map((f) => [f.properties.appNo, f]));
+  let added = 0;
+  let linked = 0;
+  for (const r of rows) {
+    const appNo = get(r, 'Søknadsnummer');
+    if (!appNo) continue;
+    const status = LIST_STATUS[get(r, 'Status')] ?? get(r, 'Status');
+    const withdrawn = get(r, 'Trukket') || null;
+    const f = have.get(appNo);
+    if (f) {
+      f.properties.url = listPage(appNo);
+      if (withdrawn) f.properties.withdrawn = withdrawn;
+      linked++;
+      continue;
+    }
+    // Only applications still being processed join the map; finished ones stay on the list.
+    if (status !== 'SUBMITTED' || withdrawn) continue;
+    const lat = Number(get(r, 'Breddegrad'));
+    const lon = Number(get(r, 'Lengdegrad'));
+    if (!Number.isFinite(lat) || !Number.isFinite(lon) || !lat || !lon) continue;
+    const props = {
+      appNo,
+      applicant: get(r, 'Søkers navn') || undefined,
+      orgNo: get(r, 'Organisasjonsnummer') || undefined,
+      kind: get(r, 'Søknadstype') || undefined,
+      status,
+      submitted: get(r, 'Innsendt') || undefined,
+      navn: get(r, 'Lokalitet') || get(r, 'Tittel') || undefined,
+      loknr: Number(get(r, 'Lokalitetsnummer')) || undefined,
+      kommune: get(r, 'Kommune') || undefined,
+      fylke: get(r, 'Fylke') || undefined,
+      prodArea: get(r, 'Produksjonsområde') || undefined,
+      species: get(r, 'Art') || undefined,
+      url: listPage(appNo),
+      source: 'list',
+    };
+    for (const k of Object.keys(props)) if (props[k] === undefined) delete props[k];
+    fc.features.push({ type: 'Feature', geometry: { type: 'Point', coordinates: [round6(lon), round6(lat)] }, properties: props });
+    added++;
+  }
+  fc.features.sort((a, b) => (a.properties.appNo ?? '').localeCompare(b.properties.appNo ?? ''));
+  await writeFile(target + '.tmp', JSON.stringify(fc));
+  await rename(target + '.tmp', target);
+  console.log(`application list: ${rows.length} rows, ${linked} linked, ${added} added from the list only`);
+  return { rows: rows.length, added };
+}
+const list = await mergeList();
+counts['applications.geojson'] += list.added;
+
 const manifestUrl = new URL('manifest.json', OUT);
 const manifest = JSON.parse(await readFile(manifestUrl, 'utf8'));
 manifest.sources = manifest.sources.filter((s) => !s.file.startsWith('application'));
@@ -112,8 +207,8 @@ for (const { file, what } of LAYERS)
   manifest.sources.push({
     file,
     organisation: 'Fiskeridirektoratet',
-    dataset: `Aquaculture applications under processing: ${what}`,
-    url: SERVICE,
+    dataset: `Aquaculture applications under processing: ${what}${file === 'applications.geojson' ? ` (+ ${list.added} from the public application list, ${list.rows} rows)` : ''}`,
+    url: file === 'applications.geojson' ? `${SERVICE} + ${LIST_URL}` : SERVICE,
     license: 'NLOD 2.0',
     featureCount: counts[file],
     retrieved: new Date().toISOString(),

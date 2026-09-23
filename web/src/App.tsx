@@ -22,7 +22,7 @@ import { logout, useAuth } from './lib/auth'
 import { scheduleJanitor } from './lib/cacheJanitor'
 import { useT } from './lib/i18n'
 import { getSettings } from './lib/settings'
-import { loadApplications, loadLocalities, type ApplicationProps, type Localities, type LocalityFeature } from './lib/localities'
+import { loadApplications, loadHearings, loadLocalities, type ApplicationProps, type Hearing, type Localities, type LocalityFeature } from './lib/localities'
 import { filteredLoknrs as computeFiltered } from './lib/filters'
 import FilterChips from './components/FilterChips'
 import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealth'
@@ -55,6 +55,7 @@ function MapApp() {
   const [tides, setTides] = useState<Tides | null>(null)
   const [clim, setClim] = useState<ClimManifest | null>(null)
   const [applications, setApplications] = useState<ApplicationProps[] | null>(null)
+  const [hearings, setHearings] = useState<Hearing[] | null>(null)
   const [menu, setMenu] = useState<MenuState | null>(null)
   const [caseSites, setCaseSites] = useState<number[] | null>(null)
 
@@ -71,6 +72,7 @@ function MapApp() {
     loadTides().then(setTides)
     loadClimManifest().then(setClim)
     loadApplications().then(setApplications)
+    loadHearings().then(setHearings)
     scheduleJanitor(() => getSettings().cacheLimitGb * 1024 ** 3)
   }, [])
 
@@ -196,6 +198,7 @@ function MapApp() {
                 seatemp={seatemp}
                 tides={tides}
                 applications={applications}
+                hearings={hearings}
                 onSelectApplication={(props) => setSelection({ type: 'application', props })}
                 map={map}
               />}

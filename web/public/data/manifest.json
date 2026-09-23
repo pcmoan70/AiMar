@@ -38,42 +38,6 @@
       "retrieved": "2026-09-15T11:49:34.722Z"
     },
     {
-      "file": "applications.geojson",
-      "organisation": "Fiskeridirektoratet",
-      "dataset": "Aquaculture applications under processing: application points",
-      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
-      "license": "NLOD 2.0",
-      "featureCount": 312,
-      "retrieved": "2026-09-16T08:06:01.137Z"
-    },
-    {
-      "file": "application_areas.geojson",
-      "organisation": "Fiskeridirektoratet",
-      "dataset": "Aquaculture applications under processing: applied-for areas",
-      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
-      "license": "NLOD 2.0",
-      "featureCount": 301,
-      "retrieved": "2026-09-16T08:06:01.137Z"
-    },
-    {
-      "file": "application_anchors.geojson",
-      "organisation": "Fiskeridirektoratet",
-      "dataset": "Aquaculture applications under processing: applied-for anchor points",
-      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
-      "license": "NLOD 2.0",
-      "featureCount": 3686,
-      "retrieved": "2026-09-16T08:06:01.137Z"
-    },
-    {
-      "file": "current_measurements.geojson",
-      "organisation": "eInnsyn (report authors: Åkerblå, Akvaplan-niva and others)",
-      "dataset": "Measured current speed and direction read out of NS 9425 survey reports published on eInnsyn",
-      "url": "https://api.einnsyn.no/search?query=str%C3%B8mm%C3%A5ling",
-      "license": "NLOD 2.0",
-      "featureCount": 65,
-      "retrieved": "2026-09-17T01:33:44.202Z"
-    },
-    {
       "file": "cases.json",
       "organisation": "eInnsyn (Digitaliseringsdirektoratet)",
       "dataset": "Public-record journal entries on aquaculture cases matched to localities (2010-01-01 onwards)",
@@ -81,6 +45,51 @@
       "license": "NLOD 2.0",
       "featureCount": 135856,
       "retrieved": "2026-09-22T20:46:25.218Z"
+    },
+    {
+      "file": "current_measurements.geojson",
+      "organisation": "eInnsyn (report authors: Åkerblå, Akvaplan-niva and others)",
+      "dataset": "Measured current speed and direction read out of NS 9425 survey reports published on eInnsyn",
+      "url": "https://api.einnsyn.no/search?query=str%C3%B8mm%C3%A5ling",
+      "license": "NLOD 2.0",
+      "featureCount": 66,
+      "retrieved": "2026-09-23T01:39:57.745Z"
+    },
+    {
+      "file": "applications.geojson",
+      "organisation": "Fiskeridirektoratet",
+      "dataset": "Aquaculture applications under processing: application points (+ 1 from the public application list, 919 rows)",
+      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer + https://www.fiskeridir.no/akvakultur/akvakultursoknader/_/service/no.fiskeridir/aqua-download-list?format=csv",
+      "license": "NLOD 2.0",
+      "featureCount": 318,
+      "retrieved": "2026-09-23T08:02:37.428Z"
+    },
+    {
+      "file": "application_areas.geojson",
+      "organisation": "Fiskeridirektoratet",
+      "dataset": "Aquaculture applications under processing: applied-for areas",
+      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
+      "license": "NLOD 2.0",
+      "featureCount": 304,
+      "retrieved": "2026-09-23T08:02:37.428Z"
+    },
+    {
+      "file": "application_anchors.geojson",
+      "organisation": "Fiskeridirektoratet",
+      "dataset": "Aquaculture applications under processing: applied-for anchor points",
+      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
+      "license": "NLOD 2.0",
+      "featureCount": 3737,
+      "retrieved": "2026-09-23T08:02:37.428Z"
+    },
+    {
+      "file": "hearings.json",
+      "organisation": "Norsk lysingsblad (Digitaliseringsdirektoratet)",
+      "dataset": "Aquaculture applications announced for public inspection, with deadline for remarks",
+      "url": "https://norsk.lysingsblad.no/nb/kunngjeringar/andre-kunngjeringar",
+      "license": "Public announcements, Lov om Norsk lysingsblad",
+      "featureCount": 15,
+      "retrieved": "2026-09-23T08:09:32.582Z"
     }
   ]
 }

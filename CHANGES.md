@@ -1,5 +1,18 @@
 # Changes
 
+## 2026-09-23
+
+- New applications and public inspection. `fetch-applications.mjs` also reads
+  the CSV export of Fiskeridirektoratet's public application list, so every
+  application gets a link to its page there and brand-new ones appear before
+  the map service has them; applications submitted within four weeks are
+  ringed on the map and marked *new*. `fetch-hearings.mjs` harvests Norsk
+  lysingsblad for aquaculture applications laid out for public inspection and
+  parses applicant, locality, subject, municipality, deadline and contact; the
+  site panel and the application panel show them as **Public inspection** with
+  the deadline and a link to send remarks. Both run in the nightly job and the
+  weekly workflow.
+
 ## 2026-09-22
 
 - Nightly eInnsyn refresh: `pipeline/einnsyn_daily.sh`, run from crontab at

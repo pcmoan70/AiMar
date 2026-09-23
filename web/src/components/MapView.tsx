@@ -12,6 +12,7 @@ import {
   type StyleSpecification,
 } from 'maplibre-gl'
 import { BASE_LAYERS, LOCALITIES_LAYER, OVERLAY_LAYERS, SALMON_COLOUR, layerById, wmsTileUrl } from '../lib/layers'
+import { newApplicationCutoff } from '../lib/localities'
 import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
 import { climArrowSource } from '../lib/climatology'
 import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
@@ -250,8 +251,9 @@ function buildStyle(
           paint: {
             'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3.5, 9, 7, 14, 11],
             'circle-color': APPLICATION_COLOUR,
-            'circle-stroke-color': '#ffffff',
-            'circle-stroke-width': 1.5,
+            // Submitted within the last four weeks: a dark ring, so new applications stand out.
+            'circle-stroke-color': ['case', ['>=', ['coalesce', ['get', 'submitted'], ''], newApplicationCutoff()], '#1c2733', '#ffffff'] as unknown as ExpressionSpecification,
+            'circle-stroke-width': ['case', ['>=', ['coalesce', ['get', 'submitted'], ''], newApplicationCutoff()], 2.5, 1.5] as unknown as ExpressionSpecification,
           },
         })
         continue
