@@ -66,6 +66,10 @@ function arrowImage(): ImageData {
 export const APPLICATIONS_LAYER = 'applications'
 export const HEARINGS_LAYER = 'hearings'
 export const NEW_APPLICATIONS_LAYER = 'applications-new'
+// Point symbols stack in this order, bottom up, with these alphas: existing localities, notices at
+// public inspection, newly submitted applications on top.
+const SITE_ALPHA = 0.5
+const HEARING_ALPHA = 0.7
 export const ANCHORS_LAYER = 'application-anchors'
 /** Applications under processing: orange, distinct from the operator palette. */
 const APPLICATION_COLOUR = '#d2691e'
@@ -109,7 +113,7 @@ function circleExpressions(s: Settings, lice: LiceStyle) {
     ? (['match', ['get', 'loknr'], ...[...lice.colours.entries()].flatMap(([nr, c]) => [nr, c]), OTHER_COLOUR] as unknown as ExpressionSpecification)
     : null
   // Sites with no report for the chosen week were not operating: draw them faded.
-  const opacityExpr: ExpressionSpecification | number = liceExpr && lice.dim?.length ? (['match', ['get', 'loknr'], lice.dim, NOT_REPORTED_ALPHA, 1] as unknown as ExpressionSpecification) : 1
+  const opacityExpr: ExpressionSpecification | number = liceExpr && lice.dim?.length ? (['match', ['get', 'loknr'], lice.dim, NOT_REPORTED_ALPHA, SITE_ALPHA] as unknown as ExpressionSpecification) : SITE_ALPHA
   const strokeExpr: ExpressionSpecification | string = liceExpr && lice.over?.length ? (['match', ['get', 'loknr'], lice.over, OVER_LIMIT_STROKE, '#ffffff'] as unknown as ExpressionSpecification) : '#ffffff'
   const strokeWidth: ExpressionSpecification | number = liceExpr && lice.over?.length ? (['match', ['get', 'loknr'], lice.over, 2, 1] as unknown as ExpressionSpecification) : 1
   const colourExpr: ExpressionSpecification = liceExpr ?? [
@@ -210,6 +214,7 @@ function buildStyle(
             'icon-allow-overlap': true,
             'icon-ignore-placement': true,
           },
+          paint: { 'icon-opacity': HEARING_ALPHA },
         })
         continue
       }
@@ -285,6 +290,7 @@ function buildStyle(
             'icon-allow-overlap': true,
             'icon-ignore-placement': true,
           },
+          paint: { 'icon-opacity': 1 },
         })
         continue
       }
@@ -358,6 +364,11 @@ function buildStyle(
   if (above.length && layers.some((x) => x.id === LOCALITIES_LAYER)) {
     for (const x of above) layers.splice(layers.indexOf(x), 1)
     layers.splice(layers.findIndex((x) => x.id === LOCALITIES_LAYER) + 1, 0, ...above)
+  }
+  // Whatever the panel order, the notices and the new-application stars end up on top, in that order.
+  for (const id of [HEARINGS_LAYER, NEW_APPLICATIONS_LAYER]) {
+    const i = layers.findIndex((x) => x.id === id)
+    if (i >= 0) layers.push(layers.splice(i, 1)[0])
   }
   return { version: 8, sources, layers }
 }

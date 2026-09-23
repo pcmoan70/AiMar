@@ -2,6 +2,9 @@
 
 ## 2026-09-23
 
+- Point symbols stack in a fixed order with fixed alphas: existing localities
+  at the bottom (circle, 0.5), notices at public inspection above them
+  (diamond, 0.7), newly submitted applications on top (star, 1).
 - Removed the purple rings the map drew around every locality in the Cases
   list; they crowded the map once the list covered all localities.
 - New applications and public inspection. `fetch-applications.mjs` also reads
