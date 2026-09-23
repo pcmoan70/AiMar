@@ -2,6 +2,11 @@
 
 ## 2026-09-23
 
+- The operator dropdown and the field filters now apply to everything on the
+  map, not only the locality dots: applications with their areas, anchors and
+  stars, public-inspection notices, deleted sites and measured currents. An
+  application or notice without a registered site follows its applicant's
+  name. The Cases panel's live blocks follow the same filter.
 - Applications are also read from Fiskeridirektoratet's public application
   API (`api.fiskeridir.no/aqua-portal-api-public`, no key): status, type,
   creation and withdrawal dates, and the evaluation per sector authority. The

@@ -18,6 +18,7 @@ import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColou
 import { climArrowSource } from '../lib/climatology'
 import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
 import { type ApplicationProps, dataUrl, type LocalityProps } from '../lib/localities'
+import type { MapFilter } from '../lib/filters'
 import { filteredTileUrl } from '../lib/tileFilters'
 import { runJanitor } from '../lib/cacheJanitor'
 import { heatValueAt } from '../lib/heatmap'
@@ -144,13 +145,15 @@ function circleExpressions(s: Settings, lice: LiceStyle) {
 function buildStyle(
   s: Settings,
   selectedLoknr: number | null,
-  polygonLoknrs: number[] | null,
+  mf: MapFilter,
   liceColours: Map<number, string> | null,
   liceDim: number[] | null,
   liceOver: number[] | null,
   liceRanks: number[][] | null,
 ): StyleSpecification {
-  const opf = operatorFilter(s.operatorFilter, polygonLoknrs)
+  const opf = operatorFilter(s.operatorFilter, mf.loknrs)
+  const appFilter = mf.appNos ? (['in', ['get', 'appNo'], ['literal', mf.appNos]] as unknown as FilterSpecification) : null
+  const hearingFilter = mf.hearingIds ? (['in', ['get', 'id'], ['literal', mf.hearingIds]] as unknown as FilterSpecification) : null
   const sources: Record<string, SourceSpecification> = {}
   const layers: LayerSpecification[] = []
   const base = layerById(s.baseLayer) ?? BASE_LAYERS[0]
@@ -208,6 +211,7 @@ function buildStyle(
           id: l.id,
           type: 'symbol',
           source: l.id,
+          ...(hearingFilter ? { filter: hearingFilter } : {}),
           layout: {
             'icon-image': ['case', ['>=', ['coalesce', ['get', 'deadline'], ''], today], symbolIconId('hearing'), symbolIconId('hearingPast')] as unknown as ExpressionSpecification,
             'icon-size': ['interpolate', ['linear'], ['zoom'], 4, 0.6, 9, 0.9, 14, 1.2] as unknown as ExpressionSpecification,
@@ -223,6 +227,7 @@ function buildStyle(
           id: l.id,
           type: 'circle',
           source: l.id,
+          ...(opf ? { filter: opf.points } : {}),
           paint: {
             // Radius grows with the measured mean speed (cm/s), so strong sites stand out.
             'circle-radius': ['interpolate', ['linear'], ['get', 'mean'], 0, 5, 20, 16] as unknown as ExpressionSpecification,
@@ -237,7 +242,7 @@ function buildStyle(
           id: `${l.id}-arrow`,
           type: 'symbol',
           source: l.id,
-          filter: ['has', 'direction'] as unknown as FilterSpecification,
+          filter: (opf ? ['all', ['has', 'direction'], opf.points] : ['has', 'direction']) as unknown as FilterSpecification,
           layout: {
             'icon-image': CURRENT_ARROW,
             'icon-size': ['interpolate', ['linear'], ['get', 'mean'], 0, 0.6, 20, 1.2] as unknown as ExpressionSpecification,
@@ -258,18 +263,21 @@ function buildStyle(
           id: 'application-areas',
           type: 'fill',
           source: 'application-areas',
+          ...(appFilter ? { filter: appFilter } : {}),
           paint: { 'fill-color': APPLICATION_COLOUR, 'fill-opacity': 0.18 },
         })
         layers.push({
           id: 'application-areas-outline',
           type: 'line',
           source: 'application-areas',
+          ...(appFilter ? { filter: appFilter } : {}),
           paint: { 'line-color': APPLICATION_COLOUR, 'line-width': 1.5, 'line-dasharray': [3, 2] },
         })
         layers.push({
           id: l.id,
           type: 'circle',
           source: l.id,
+          ...(appFilter ? { filter: appFilter } : {}),
           paint: {
             'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3.5, 9, 7, 14, 11],
             'circle-color': APPLICATION_COLOUR,
@@ -283,7 +291,7 @@ function buildStyle(
           id: NEW_APPLICATIONS_LAYER,
           type: 'symbol',
           source: l.id,
-          filter: ['>=', ['coalesce', ['get', 'submitted'], ''], newApplicationCutoff()] as unknown as FilterSpecification,
+          filter: (appFilter ? ['all', ['>=', ['coalesce', ['get', 'submitted'], ''], newApplicationCutoff()], appFilter] : ['>=', ['coalesce', ['get', 'submitted'], ''], newApplicationCutoff()]) as unknown as FilterSpecification,
           layout: {
             'icon-image': symbolIconId('newApplication'),
             'icon-size': ['interpolate', ['linear'], ['zoom'], 4, 0.65, 9, 0.95, 14, 1.25] as unknown as ExpressionSpecification,
@@ -299,6 +307,7 @@ function buildStyle(
           id: l.id,
           type: 'circle',
           source: l.id,
+          ...(appFilter ? { filter: appFilter } : {}),
           paint: {
             'circle-radius': ['interpolate', ['linear'], ['zoom'], 6, 1.5, 12, 3.5, 16, 5],
             'circle-color': APPLICATION_COLOUR,
@@ -313,6 +322,7 @@ function buildStyle(
           id: l.id,
           type: 'circle',
           source: l.id,
+          ...(opf ? { filter: opf.points } : {}),
           paint: {
             'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 2.5, 9, 5, 14, 8],
             'circle-color': 'rgba(255,255,255,.55)',
@@ -376,7 +386,8 @@ function buildStyle(
 interface Props {
   selectedLoknr: number | null
   /** Locality numbers matching the operator filter (for the border polygons), null when unfiltered. */
-  filteredLoknrs: number[] | null
+  /** Localities, applications and notices kept by the operator dropdown and the field filters; members null = no filter. */
+  filter: MapFilter
   /** loknr -> colour for the lice-per-week layer, null when that layer is off. */
   liceColours: Map<number, string> | null
   /** Locality numbers without a report for the chosen week, drawn faded. */
@@ -391,7 +402,7 @@ interface Props {
   onMap: (map: MlMap | null) => void
 }
 
-export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks, onSelect, onContextMenu, onMap }: Props) {
+export default function MapView({ selectedLoknr, filter, liceColours, liceDim, liceOver, liceRanks, onSelect, onContextMenu, onMap }: Props) {
   const container = useRef<HTMLDivElement>(null)
   const mapRef = useRef<MlMap | null>(null)
   const onSelectRef = useRef(onSelect)
@@ -400,14 +411,14 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
   onContextRef.current = onContextMenu
   const appliedStyle = useRef('')
   const settings = useSettings()
-  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filteredLoknrs?.length ?? -1, !!liceColours])
+  const styleKey = JSON.stringify([settings.baseLayer, settings.overlays, selectedLoknr, settings.operatorFilter, filter.loknrs?.length ?? -1, filter.appNos?.length ?? -1, filter.hearingIds?.length ?? -1, !!liceColours])
 
   useEffect(() => {
     const s = getSettings()
-    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filteredLoknrs?.length ?? -1, !!liceColours])
+    appliedStyle.current = JSON.stringify([s.baseLayer, s.overlays, null, s.operatorFilter, filter.loknrs?.length ?? -1, filter.appNos?.length ?? -1, filter.hearingIds?.length ?? -1, !!liceColours])
     const map = new MlMap({
       container: container.current!,
-      style: buildStyle(s, null, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks),
+      style: buildStyle(s, null, filter, liceColours, liceDim, liceOver, liceRanks),
       center: s.view.center,
       zoom: s.view.zoom,
       attributionControl: { compact: true },
@@ -489,7 +500,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
   useEffect(() => {
     if (!mapRef.current || styleKey === appliedStyle.current) return
     appliedStyle.current = styleKey
-    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filteredLoknrs, liceColours, liceDim, liceOver, liceRanks), { diff: true })
+    mapRef.current.setStyle(buildStyle(settings, selectedLoknr, filter, liceColours, liceDim, liceOver, liceRanks), { diff: true })
   }, [styleKey]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return <div ref={container} className="map" />

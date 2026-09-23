@@ -24,7 +24,7 @@ import { scheduleJanitor } from './lib/cacheJanitor'
 import { useT } from './lib/i18n'
 import { getSettings } from './lib/settings'
 import { loadApplications, loadHearings, loadLocalities, type ApplicationProps, type Hearing, type Localities, type LocalityFeature } from './lib/localities'
-import { filteredLoknrs as computeFiltered } from './lib/filters'
+import { mapFilter } from './lib/filters'
 import FilterChips from './components/FilterChips'
 import { loadFishHealth, liceStatsIndex, type FishHealth } from './lib/fishhealth'
 import { loadCases, type Cases } from './lib/cases'
@@ -92,7 +92,14 @@ function MapApp() {
   }
   const setPanel = (id: PanelId) => updateSettings({ panel: s.panel === id ? null : id })
   const selectedLoknr = selection?.type === 'farm' ? selection.props.loknr : null
-  const filteredLoknrs = localities ? computeFiltered(localities, s.operatorFilter, s.fieldFilters, fishhealth ? liceStatsIndex(fishhealth, localities) : undefined) : null
+  const filter = useMemo(
+    () => (localities ? mapFilter(localities, applications, hearings, s.operatorFilter, s.fieldFilters, fishhealth ? liceStatsIndex(fishhealth, localities) : undefined) : { loknrs: null, appNos: null, hearingIds: null }),
+    [localities, applications, hearings, s.operatorFilter, s.fieldFilters, fishhealth],
+  )
+  const filteredLoknrs = filter.loknrs
+  // The Cases panel's live blocks follow the same filter as the map.
+  const shownHearings = filter.hearingIds && hearings ? hearings.filter((h) => filter.hearingIds!.includes(h.id)) : hearings
+  const shownApplications = filter.appNos && applications ? applications.filter((a) => filter.appNos!.includes(a.appNo)) : applications
 
   // Lice per week: the chosen week's values feed the dot colours, the hover card and the weekly heatmap.
   const liceLayersOn = s.overlays.includes('lice-week') || s.overlays.includes(LICE_HEAT_LAYER_ID)
@@ -165,7 +172,7 @@ function MapApp() {
       <main>
         <MapView
           selectedLoknr={selectedLoknr}
-          filteredLoknrs={filteredLoknrs}
+          filter={filter}
           liceColours={liceColours}
           liceDim={liceDim}
           liceOver={liceOver}
@@ -212,8 +219,8 @@ function MapApp() {
                   const f = localities?.features.find((x) => x.properties.loknr === nr)
                   if (f) pickLocality(f)
                 }}
-                hearings={hearings}
-                applications={applications}
+                hearings={shownHearings}
+                applications={shownApplications}
                 onLocate={(lngLat) => map?.flyTo({ center: lngLat, zoom: Math.max(map.getZoom(), 11) })}
                 onPickApplication={(props) => {
                   setSelection({ type: 'application', props })

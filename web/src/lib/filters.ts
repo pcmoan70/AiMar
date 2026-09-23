@@ -1,3 +1,4 @@
+import type { ApplicationProps, Hearing } from './localities'
 // Field filters set from the site panel: each register field can restrict the
 // map to sites whose value (or, for composite fields, one of the comma-separated
 // component values) is among the selected ones. Capacity uses fixed ranges.
@@ -174,6 +175,27 @@ export function toggleAll(f: FieldFilters, key: FilterKey, options: ValueOption[
 export const isComposite = (key: FilterKey) => COMPOSITE.includes(key)
 
 /** Locality numbers passing the operator selection and the field filters; null when nothing is filtered. */
+/** What the operator dropdown and the field filters keep on the map: localities, and the applications and notices that belong to them. */
+export interface MapFilter {
+  loknrs: number[] | null
+  appNos: string[] | null
+  hearingIds: string[] | null
+}
+const normName = (s?: string | null) => (s ?? '').trim().toUpperCase()
+export function mapFilter(localities: Localities, applications: ApplicationProps[] | null, hearings: Hearing[] | null, operators: string[], f: FieldFilters, stats?: LiceStatsMap): MapFilter {
+  const loknrs = filteredLoknrs(localities, operators, f, stats)
+  if (!loknrs) return { loknrs: null, appNos: null, hearingIds: null }
+  const sites = new Set(loknrs)
+  // An application or notice without a registered site still belongs to an operator by its applicant name.
+  const ops = new Set(operators.map(normName))
+  const byOperator = (...names: (string | null | undefined)[]) => ops.size > 0 && names.some((n) => n && ops.has(normName(n)))
+  return {
+    loknrs,
+    appNos: (applications ?? []).filter((a) => (a.loknr != null && sites.has(a.loknr)) || byOperator(a.applicant)).map((a) => a.appNo),
+    hearingIds: (hearings ?? []).filter((h) => (h.loknr != null && sites.has(h.loknr)) || byOperator(h.applicant, h.publisher)).map((h) => h.id),
+  }
+}
+
 export function filteredLoknrs(localities: Localities, operators: string[], f: FieldFilters, stats?: LiceStatsMap): number[] | null {
   if (!operators.length && !activeFilterKeys(f).length) return null
   const wanted = new Set(operators)
