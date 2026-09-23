@@ -1,8 +1,9 @@
-import { useState } from 'react'
+import { useState, type ReactNode } from 'react'
 import type { Map as MlMap } from 'maplibre-gl'
 import SiteOverlays from './SiteOverlays'
-import { hearingsFor, hearingsForApplication, isNewApplication, type Hearing } from '../lib/localities'
+import { hearingsFor, hearingsForApplication, isNewApplication, isOpenHearing, type Hearing } from '../lib/localities'
 import Hearings from './Hearings'
+import Sym from './Sym'
 import { neighbourhood, type Localities } from '../lib/localities'
 import { licePressure, liceSeries, liceStatsIndex, operatorPressureSeries, summarise, type FishHealth } from '../lib/fishhealth'
 import type { ApplicationProps } from '../lib/localities'
@@ -126,6 +127,34 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
           {p.navn}
           {p.status_lokalitet === 'TRUKKET' && <span className="badge-deleted">{t('inspect.withdrawn')}</span>}
         </h2>
+        {(() => {
+          // Everything about this locality, one click away: sections below, and the outside pages.
+          const apps = applications?.filter((a) => a.loknr === p.loknr) ?? []
+          const hear = hearingsFor(hearings, p.loknr, p.navn, p.kommune)
+          const nCases = cases ? casesFor(cases, p.loknr).length : 0
+          const go = (id: string) => document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+          const links: [string, string, ReactNode?][] = []
+          if (apps.length) links.push(['sec-application', t('inspect.nav.application', { n: apps.length }), apps.some(isNewApplication) ? <Sym key="new" kind="newApplication" /> : undefined])
+          if (hear.length) links.push(['sec-hearings', t('inspect.nav.hearings', { n: hear.length }), <Sym key="hearing" kind={hear.some((h) => isOpenHearing(h)) ? 'hearing' : 'hearingPast'} />])
+          links.push(['sec-overlays', t('inspect.nav.overlays')])
+          links.push(['sec-fishhealth', t('inspect.nav.fishHealth')])
+          links.push(['sec-cases', t('inspect.nav.cases', { n: nCases })])
+          if (tides?.localities[String(p.loknr)]) links.push(['sec-tides', t('inspect.nav.tides')])
+          return (
+            <nav className="site-nav" aria-label={t('inspect.nav.aria')}>
+              {links.map(([id, label, sym]) => (
+                <button key={id} type="button" className="chip" onClick={() => go(id)}>
+                  {sym}
+                  {sym ? ' ' : ''}
+                  {label}
+                </button>
+              ))}
+              <a className="chip" href={`https://einnsyn.no/sok?query=${encodeURIComponent(String(p.loknr))}`} target="_blank" rel="noreferrer">
+                {t('inspect.nav.einnsyn')} ↗
+              </a>
+            </nav>
+          )
+        })()}
         <table className="kv">
           <tbody>
             {rows.map(fieldRow)}
@@ -152,8 +181,8 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
         )}
         <p className="muted">{t('inspect.sourceRegister')}</p>
         {applications?.some((a) => a.loknr === p.loknr) && (
-          <p className="app-pending">
-            {t('app.pending')}{' '}
+          <p className="app-pending" id="sec-application">
+            {applications.filter((a) => a.loknr === p.loknr).some(isNewApplication) && <Sym kind="newApplication" title={t('app.new')} />} {t('app.pending')}{' '}
             {applications
               .filter((a) => a.loknr === p.loknr)
               .map((a, i) => (
@@ -166,20 +195,24 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
               ))}
           </p>
         )}
-        <Hearings items={hearingsFor(hearings, p.loknr, p.navn, p.kommune)} />
+        <Hearings id="sec-hearings" items={hearingsFor(hearings, p.loknr, p.navn, p.kommune)} />
         {tides?.localities[String(p.loknr)] && (() => {
           const td = tides.localities[String(p.loknr)]
           return (
-            <p>
+            <p id="sec-tides">
               <Hint id="tides" text={t('hint.tides', { gauge: td.gauge ?? '–', factor: td.factor ?? 1, year: tides.year })}>{t('inspect.tides')}</Hint>: {t('inspect.tidesValue', { mean: td.meanRange, max: td.maxRange, high: td.meanHigh, low: td.meanLow })}
             </p>
           )
         })()}
         {(() => {
           const f = localities?.features.find((x) => x.properties.loknr === p.loknr)
-          return f ? <SiteOverlays map={map} loknr={p.loknr} lngLat={f.geometry.coordinates as [number, number]} /> : null
+          return f ? (
+            <div id="sec-overlays">
+              <SiteOverlays map={map} loknr={p.loknr} lngLat={f.geometry.coordinates as [number, number]} />
+            </div>
+          ) : null
         })()}
-        <h3>{t('inspect.fishHealth')}</h3>
+        <h3 id="sec-fishhealth">{t('inspect.fishHealth')}</h3>
         {series && sum ? (
           <>
             <table className="kv">
@@ -211,7 +244,7 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
         ) : (
           <p className="muted">{fishhealth ? t('inspect.noReports') : t('inspect.notLoaded')}</p>
         )}
-        <h3>
+        <h3 id="sec-cases">
           <Hint id="cases" text={t('hint.cases')}>{t('inspect.cases')}</Hint>
         </h3>
         {cases ? (

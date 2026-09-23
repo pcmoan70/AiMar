@@ -5,6 +5,7 @@ import { useT } from '../lib/i18n'
 import { updateSettings, useSettings } from '../lib/settings'
 import { isNewApplication, isOpenHearing, NEW_APPLICATION_DAYS, type ApplicationProps, type Hearing } from '../lib/localities'
 import Hearings from './Hearings'
+import Sym from './Sym'
 import Hint from './Hint'
 import CaseDocs, { CaseDocsDot } from './CaseDocs'
 
@@ -113,19 +114,21 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
       {openHearings.length > 0 && (
         <details className="cases-live" open>
           <summary>
-            <Hint id="hearings" text={t('hint.hearings')}>{t('cases.hearings', { n: openHearings.length })}</Hint>
+            <Sym kind="hearing" /> <Hint id="hearings" text={t('hint.hearings')}>{t('cases.hearings', { n: openHearings.length })}</Hint>
           </summary>
           <Hearings items={openHearings} bare onLocate={(h) => h.coords && onLocate(h.coords)} />
         </details>
       )}
       {newApps.length > 0 && (
         <details className="cases-live">
-          <summary>{t('cases.newApps', { n: newApps.length, d: NEW_APPLICATION_DAYS })}</summary>
+          <summary>
+            <Sym kind="newApplication" /> {t('cases.newApps', { n: newApps.length, d: NEW_APPLICATION_DAYS })}
+          </summary>
           <ul className="plain new-apps">
             {newApps.map((a) => (
               <li key={a.appNo}>
                 <button type="button" className="case-site" onClick={() => onPickApplication(a)}>
-                  {a.navn ?? a.appNo}
+                  <Sym kind="newApplication" title={t('app.new')} /> {a.navn ?? a.appNo}
                 </button>
                 <small className="muted">
                   {[a.submitted, a.applicant, a.kind, a.kommune].filter(Boolean).join(' · ')}

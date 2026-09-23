@@ -368,6 +368,11 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .help-news summary { cursor: pointer; font-weight: 600; }
 .help-news li { margin: 6px 0; }
 .help-news li p { margin: 2px 0 0; }
+.sym { vertical-align: -2px; flex: none; }
+.sym-legend { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: var(--muted); margin-top: 3px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: 4px; margin: 0 0 10px; }
+.site-nav .chip { cursor: pointer; padding: 2px 8px; font: inherit; font-size: 12px; text-decoration: none; }
+.site-nav .chip:hover { background: #eef2f5; }
 .badge-new { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; color: #fff; background: #1c2733; border-radius: 3px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; }
 .badge-deleted { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; color: #fff; background: #6b7a88; border-radius: 3px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; }
 .case-marks { display: inline-flex; align-items: center; gap: 4px; justify-self: start; align-self: center; }

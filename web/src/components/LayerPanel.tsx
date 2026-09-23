@@ -4,6 +4,7 @@ import { WEEK_HEAT_MAX } from '../lib/liceWeek'
 import { CLIM_FIELDS, CLIM_RAMP, MONTHS } from '../lib/climatology'
 import { numberLocale } from '../lib/i18n'
 import Hint from './Hint'
+import Sym from './Sym'
 import { useT } from '../lib/i18n'
 import { updateSettings, useSettings } from '../lib/settings'
 
@@ -77,6 +78,16 @@ export default function LayerPanel() {
                 {l.organisation} · {l.license}
                 {s.layerDetails ? ` · ${t(`layers.cache.${l.cache}`)}` : ''}
               </small>
+              {on && l.id === 'hearings' && (
+                <span className="sym-legend">
+                  <Sym kind="hearing" /> {t('layers.sym.hearingOpen')} · <Sym kind="hearingPast" /> {t('layers.sym.hearingPast')}
+                </span>
+              )}
+              {on && l.id === 'applications' && (
+                <span className="sym-legend">
+                  <Sym kind="newApplication" /> {t('layers.sym.newApplication')}
+                </span>
+              )}
               {on &&
                 legendUrls(l).map((u) => (
                   // A service without GetLegendGraphic simply yields no image.

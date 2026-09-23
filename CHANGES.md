@@ -26,6 +26,12 @@
 - A **New in AiMar** card on the opening screen lists the changes the user
   has not seen yet, one entry per larger change or new dataset
   (`web/src/whatsnew.ts`); the Help panel keeps the full list.
+- Notices at public inspection are purple diamonds (grey once the deadline
+  has passed) and applications submitted within four weeks are green stars, on
+  the map and in every list and panel, with a legend under the layers. A
+  locality's panel starts with quick links to everything about it: application,
+  public inspection, values at the site, fish health, case history, tides and
+  an eInnsyn search.
 
 ## 2026-09-22
 

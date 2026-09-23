@@ -17,8 +17,8 @@ export const WHATS_NEW: NewsEntry[] = [
     date: '2026-09-23',
     title: { en: 'Applications at public inspection', nb: 'Søknader til offentlig ettersyn' },
     text: {
-      en: 'Notices from Norsk lysingsblad are a new overlay, "Public inspection" (Aquaculture tab): red while the deadline for remarks is open, grey after. The Cases panel starts with the open notices and this month\'s new applications from Fiskeridirektoratet\'s list; each notice opens as text, with the attached application where the municipality published one.',
-      nb: 'Kunngjøringer fra Norsk lysingsblad er et nytt kartlag, «Offentlig ettersyn» (Akvakultur-fanen): røde mens merknadsfristen løper, grå etterpå. Saker-fanen starter med de åpne kunngjøringene og månedens nye søknader fra Fiskeridirektoratets liste; hver kunngjøring åpnes som tekst, med vedlagt søknad der kommunen har publisert en.',
+      en: 'Notices from Norsk lysingsblad are a new overlay, "Public inspection" (Aquaculture tab): purple diamonds while the deadline for remarks is open, grey after. The Cases panel starts with the open notices and this month\'s new applications from Fiskeridirektoratet\'s list; each notice opens as text, with the attached application where the municipality published one. New applications are green stars, on the map and in every list, and a site\'s panel starts with quick links to everything about it.',
+      nb: 'Kunngjøringer fra Norsk lysingsblad er et nytt kartlag, «Offentlig ettersyn» (Akvakultur-fanen): lilla romber mens merknadsfristen løper, grå etterpå. Saker-fanen starter med de åpne kunngjøringene og månedens nye søknader fra Fiskeridirektoratets liste; hver kunngjøring åpnes som tekst, med vedlagt søknad der kommunen har publisert en. Nye søknader er grønne stjerner, i kartet og i alle lister, og lokalitetspanelet starter med hurtiglenker til alt om anlegget.',
     },
   },
   {

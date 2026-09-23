@@ -13,6 +13,7 @@ import {
 } from 'maplibre-gl'
 import { BASE_LAYERS, LOCALITIES_LAYER, OVERLAY_LAYERS, SALMON_COLOUR, layerById, wmsTileUrl } from '../lib/layers'
 import { newApplicationCutoff, type Hearing } from '../lib/localities'
+import { symbolIconId, symbolImage, SYMBOL_COLOURS } from '../lib/symbols'
 import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
 import { climArrowSource } from '../lib/climatology'
 import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
@@ -64,8 +65,7 @@ function arrowImage(): ImageData {
 
 export const APPLICATIONS_LAYER = 'applications'
 export const HEARINGS_LAYER = 'hearings'
-const HEARING_OPEN = '#b42318'
-const HEARING_PAST = '#8a949e'
+export const NEW_APPLICATIONS_LAYER = 'applications-new'
 export const ANCHORS_LAYER = 'application-anchors'
 /** Applications under processing: orange, distinct from the operator palette. */
 const APPLICATION_COLOUR = '#d2691e'
@@ -201,17 +201,17 @@ function buildStyle(
     } else if (l.kind === 'geojson') {
       sources[l.id] = { type: 'geojson', data: dataUrl(l.url.replace(/^data\//, '')), attribution: l.attribution }
       if (l.id === HEARINGS_LAYER) {
+        // A diamond, purple while the deadline for remarks is open and grey after; same symbol as in the lists.
         const today = new Date().toISOString().slice(0, 10)
         layers.push({
           id: l.id,
-          type: 'circle',
+          type: 'symbol',
           source: l.id,
-          paint: {
-            'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 5, 9, 9, 14, 13],
-            'circle-color': ['case', ['>=', ['coalesce', ['get', 'deadline'], ''], today], HEARING_OPEN, HEARING_PAST] as unknown as ExpressionSpecification,
-            'circle-opacity': 0.85,
-            'circle-stroke-color': '#ffffff',
-            'circle-stroke-width': 2,
+          layout: {
+            'icon-image': ['case', ['>=', ['coalesce', ['get', 'deadline'], ''], today], symbolIconId('hearing'), symbolIconId('hearingPast')] as unknown as ExpressionSpecification,
+            'icon-size': ['interpolate', ['linear'], ['zoom'], 4, 0.45, 9, 0.7, 14, 1] as unknown as ExpressionSpecification,
+            'icon-allow-overlap': true,
+            'icon-ignore-placement': true,
           },
         })
         continue
@@ -272,8 +272,21 @@ function buildStyle(
             'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3.5, 9, 7, 14, 11],
             'circle-color': APPLICATION_COLOUR,
             // Submitted within the last four weeks: a dark ring, so new applications stand out.
-            'circle-stroke-color': ['case', ['>=', ['coalesce', ['get', 'submitted'], ''], newApplicationCutoff()], '#1c2733', '#ffffff'] as unknown as ExpressionSpecification,
-            'circle-stroke-width': ['case', ['>=', ['coalesce', ['get', 'submitted'], ''], newApplicationCutoff()], 2.5, 1.5] as unknown as ExpressionSpecification,
+            'circle-stroke-color': '#ffffff',
+            'circle-stroke-width': 1.5,
+          },
+        })
+        // Submitted within the last four weeks: a green star over the dot, the same star as in the lists.
+        layers.push({
+          id: NEW_APPLICATIONS_LAYER,
+          type: 'symbol',
+          source: l.id,
+          filter: ['>=', ['coalesce', ['get', 'submitted'], ''], newApplicationCutoff()] as unknown as FilterSpecification,
+          layout: {
+            'icon-image': symbolIconId('newApplication'),
+            'icon-size': ['interpolate', ['linear'], ['zoom'], 4, 0.5, 9, 0.75, 14, 1.05] as unknown as ExpressionSpecification,
+            'icon-allow-overlap': true,
+            'icon-ignore-placement': true,
           },
         })
         continue
@@ -453,6 +466,8 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
 
     const addArrow = () => {
       if (!map.hasImage(CURRENT_ARROW)) map.addImage(CURRENT_ARROW, arrowImage(), { pixelRatio: 2 })
+      for (const kind of Object.keys(SYMBOL_COLOURS) as (keyof typeof SYMBOL_COLOURS)[])
+        if (!map.hasImage(symbolIconId(kind))) map.addImage(symbolIconId(kind), symbolImage(kind), { pixelRatio: 2 })
     }
     map.on('style.load', addArrow)
     map.on('load', addArrow)

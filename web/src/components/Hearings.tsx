@@ -1,9 +1,12 @@
 import { dataUrl, isOpenHearing, type Hearing } from '../lib/localities'
 import { useT } from '../lib/i18n'
 import Hint from './Hint'
+import Sym from './Sym'
 
 interface Props {
   items: Hearing[]
+  /** anchor for the site panel's quick links */
+  id?: string
   /** Fly the map to a notice that has a position. */
   onLocate?: (h: Hearing) => void
   /** Leave out the heading (the panel already has one). */
@@ -11,11 +14,11 @@ interface Props {
 }
 
 /** Public-inspection notices: what is applied for, where remarks go, and by when. */
-export default function Hearings({ items, onLocate, bare }: Props) {
+export default function Hearings({ items, onLocate, bare, id }: Props) {
   const t = useT()
   if (!items.length) return null
   return (
-    <div className="hearings">
+    <div className="hearings" id={id}>
       {!bare && <Hint id="hearings" text={t('hint.hearings')}>{t('hearings.title')}</Hint>}
       <ul className="plain">
         {items.map((h) => {
@@ -23,7 +26,7 @@ export default function Hearings({ items, onLocate, bare }: Props) {
           return (
             <li key={h.id} className={`hearing${open ? ' open' : ''}`}>
               <a href={h.url} target="_blank" rel="noreferrer">
-                {h.subject || h.title}
+                <Sym kind={open ? 'hearing' : 'hearingPast'} title={t('hearings.title')} /> {h.subject || h.title}
               </a>
               <small className="muted">
                 {[h.navn ? `${h.navn}${h.loknr ? ` (${h.loknr})` : ''}` : null, h.applicant || h.publisher, h.kommune ? t('hearings.at', { k: h.kommune }) : null, h.published ? t('hearings.published', { d: h.published }) : null]
