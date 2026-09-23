@@ -1,4 +1,4 @@
-import { isOpenHearing, type Hearing } from '../lib/localities'
+import { dataUrl, isOpenHearing, type Hearing } from '../lib/localities'
 import { useT } from '../lib/i18n'
 import Hint from './Hint'
 
@@ -32,6 +32,22 @@ export default function Hearings({ items, onLocate, bare }: Props) {
               </small>
               <small className={open ? 'hearing-deadline' : 'muted'}>
                 {h.deadline ? t(open ? 'hearings.deadlineOpen' : 'hearings.deadlinePast', { d: h.deadline }) : t('hearings.noDeadline')}
+                {h.textFile ? (
+                  <>
+                    {' · '}
+                    <a className="case-textlink" href={dataUrl(`text/lys_${h.id}.txt`)} target="_blank" rel="noreferrer">
+                      {t('hearings.text')}
+                    </a>
+                  </>
+                ) : null}
+                {h.docText ? (
+                  <>
+                    {' · '}
+                    <a className="case-textlink" href={dataUrl(`text/lys_${h.id}_doc.txt`)} target="_blank" rel="noreferrer">
+                      {t('hearings.docText')}
+                    </a>
+                  </>
+                ) : null}
                 {h.doc ? (
                   <>
                     {' · '}

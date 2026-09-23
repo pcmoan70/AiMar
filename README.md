@@ -52,6 +52,10 @@ with `BASE_PATH=/`.
 
 ## What the app does
 
+On start-up a **New in AiMar** card lists the changes since the user last
+dismissed it (`web/src/whatsnew.ts`, one entry per larger change or new
+dataset); the Help panel keeps the whole list.
+
 - Base maps from Kartverket: topographic, greytone, nautical raster chart.
 - Overlays: bathymetry (Kartverket), protected areas (Miljødirektoratet),
   protected seabed habitats, spawning areas and licensed site polygons

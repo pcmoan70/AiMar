@@ -11,7 +11,8 @@
 // Writes public/data/hearings.geojson: one feature per notice, placed at the coordinates in the
 // notice or else at the register position of the locality it names. Announcements are found
 // through the listing's keyword search (several words, union); each page is read once and kept.
-import { readFile, rename, writeFile } from 'node:fs/promises';
+import { access, mkdir, readFile, rename, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { setDefaultAutoSelectFamilyAttemptTimeout } from 'node:net';
 
@@ -24,6 +25,15 @@ const WORDS = ['akvakultur', 'lokalitet', 'oppdrett', 'biomasse', 'MTB', 'fortø
 const OUT = new URL('../public/data/', import.meta.url);
 const UA = { 'user-agent': 'AiMar/1.0 (+https://pcmoan70.github.io/AiMar/)' };
 const full = process.argv.includes('--full');
+// Originals (notice HTML and any attached document) are kept on the archive disk with provenance,
+// like the eInnsyn files; the notice text is bundled for the app under data/text/lys_<id>.txt.
+const LYS_DIR = process.env.LYS_DIR ?? '/media/pc/ext4TB/AiMar/docs/lysingsblad';
+const TEXT_OUT = new URL('../public/data/text/', import.meta.url);
+// Attachments sit in their own folder so the text extractor reads only them, not the notice pages.
+const archive = await mkdir(`${LYS_DIR}/vedlegg`, { recursive: true }).then(() => true, () => false);
+if (!archive) console.warn(`archive dir ${LYS_DIR} not available: notices are not kept, only bundled as text`);
+const provenance = archive ? await readFile(`${LYS_DIR}/index.json`, 'utf8').then(JSON.parse, () => ({})) : {};
+const sha256 = (buf) => createHash('sha256').update(buf).digest('hex');
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function getText(url) {
@@ -137,6 +147,7 @@ function parseItem(id, html) {
     })(),
     coords: coords(body),
     text: body.slice(0, 2000),
+    fullText: body,
   };
 }
 
@@ -174,9 +185,46 @@ for (const [id, row] of found) {
   h.title = row.title;
   h.place = row.place;
   h.published ??= row.published;
+  await keepNotice(id, html, h);
   items.set(id, h);
   kept++;
   await sleep(300);
+}
+
+/** Archive the notice and its attachment, and bundle the notice as a text file for the app. */
+async function keepNotice(id, html, h) {
+  const heading = [h.title, h.type ? `Type: ${h.type}` : null, h.publisher ? `Utlyser: ${h.publisher}` : null, h.published ? `Publisert: ${h.published}` : null, h.place ? `Poststed: ${h.place}` : null, `Kilde: ${h.url}`]
+    .filter(Boolean)
+    .join('\n');
+  const text = `${heading}\n\n${h.fullText ?? h.text}\n`;
+  await mkdir(TEXT_OUT, { recursive: true });
+  await writeFile(new URL(`lys_${id}.txt`, TEXT_OUT), `\uFEFF${text}`);
+  h.text = (h.fullText ?? h.text).slice(0, 2000);
+  delete h.fullText;
+  h.textFile = true;
+  if (!archive) return;
+  const rec = { url: h.url, title: h.title, fetchedAt: new Date().toISOString(), html: `${id}.html`, sha256: sha256(html), chars: text.length };
+  await writeFile(`${LYS_DIR}/${id}.html`, html);
+  if (h.doc) {
+    const name = `${id}_${decodeURIComponent(h.doc.split('/').pop() ?? 'vedlegg').replace(/[^\w.\-æøåÆØÅ]/g, '_')}`;
+    const path = `${LYS_DIR}/vedlegg/${name}`;
+    const have = await access(path).then(() => true, () => false);
+    if (!have) {
+      try {
+        const res = await fetch(h.doc, { headers: UA });
+        if (res.ok) {
+          const buf = Buffer.from(await res.arrayBuffer());
+          await writeFile(path, buf);
+          rec.doc = { file: name, url: h.doc, bytes: buf.length, sha256: sha256(buf) };
+        } else console.warn(`${h.doc}: HTTP ${res.status}`);
+      } catch (err) {
+        console.warn(`${h.doc}: ${err.message}`);
+      }
+    } else rec.doc = { ...(provenance[id]?.doc ?? {}), file: name, url: h.doc };
+    h.docFile = rec.doc?.file ?? null;
+  }
+  provenance[id] = rec;
+  await writeFile(`${LYS_DIR}/index.json`, JSON.stringify(provenance, null, 1));
 }
 
 const list = [...items.values()].sort((a, b) => (b.published ?? '').localeCompare(a.published ?? '') || b.id.localeCompare(a.id));

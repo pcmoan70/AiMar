@@ -188,6 +188,10 @@ export interface Hearing {
   text?: string
   /** the application document, when the notice attaches one */
   doc?: string | null
+  /** the notice is bundled as data/text/lys_<id>.txt */
+  textFile?: boolean
+  /** the attached document's text is bundled as data/text/lys_<id>_doc.txt */
+  docText?: boolean
   /** where the point comes from: the notice's coordinates, or the register position of the named locality */
   placed?: 'notice' | 'register' | null
   coords?: [number, number] | null

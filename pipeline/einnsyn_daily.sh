@@ -77,12 +77,15 @@ cd "$REPO" || exit 1
 $CONDA run -n aimar-ocr --no-capture-output python pipeline/docs/extract_text.py --workers 4 > "$ARCHIVE/logs/extract-text.last.log" 2>&1
 RC=$?
 log "extract_text exit=$RC: $(grep -oE '[0-9]+ originals, [0-9]+ indexed, [0-9]+ to extract' "$ARCHIVE/logs/extract-text.last.log" | tail -n 1)"
+# 3b. Documents attached to the public-inspection notices, same extractor, same text archive.
+DOCS_DIR=$ARCHIVE/docs/lysingsblad/vedlegg $CONDA run -n aimar-ocr --no-capture-output python pipeline/docs/extract_text.py --workers 2 >> "$ARCHIVE/logs/extract-text.last.log" 2>&1 || log "extract_text (lysingsblad) exit=$?"
 
 # 4. Attach the texts to docs.json, bundle them for the app, re-read the current-survey reports.
 cd "$REPO/web" || exit 1
 $NODE scripts/apply-doc-text.mjs >> "$ARCHIVE/logs/extract-text.last.log" 2>&1 || log "apply-doc-text exit=$?"
 $NODE scripts/copy-doc-text.mjs >> "$ARCHIVE/logs/extract-text.last.log" 2>&1 || log "copy-doc-text exit=$?"
 $NODE scripts/extract-currents.mjs >> "$ARCHIVE/logs/extract-text.last.log" 2>&1 || log "extract-currents exit=$?"
+$NODE scripts/apply-hearing-text.mjs >> "$ARCHIVE/logs/extract-text.last.log" 2>&1 || log "apply-hearing-text exit=$?"
 TEXTS=$(ls public/data/text | wc -l)
 log "bundled: $TEXTS texts, $(du -sh public/data/text | cut -f1)"
 

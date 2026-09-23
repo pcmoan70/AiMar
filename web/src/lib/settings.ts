@@ -46,6 +46,8 @@ export interface Settings {
   casesOnlyText: boolean
   /** Case lists collect the correspondence per case file. */
   casesGrouped: boolean
+  /** id of the newest "what's new" entry the user has dismissed */
+  seenNews: string
 }
 
 const KEY = 'aimar.settings.v1'
@@ -72,6 +74,7 @@ export const DEFAULT_SETTINGS: Settings = {
   layerDetails: false,
   casesOnlyText: false,
   casesGrouped: true,
+  seenNews: '',
 }
 
 function load(): Settings {

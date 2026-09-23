@@ -18,6 +18,14 @@
   The Cases panel starts with **At public inspection now** and **New
   applications**, ahead of the archive, with *show on map* and the mailto for
   remarks.
+- The notices are kept like the eInnsyn documents: the notice page and any
+  attached application document go to the archive disk with provenance (URL,
+  time, SHA-256), the notice is bundled as a text file the app opens with
+  *notice as text*, and attachments run through the same text extractor and
+  appear as *document as text*.
+- A **New in AiMar** card on the opening screen lists the changes the user
+  has not seen yet, one entry per larger change or new dataset
+  (`web/src/whatsnew.ts`); the Help panel keeps the full list.
 
 ## 2026-09-22
 

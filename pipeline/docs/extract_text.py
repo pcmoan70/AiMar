@@ -175,7 +175,7 @@ def main() -> int:
         if rec and rec.get("sha256") == digest and rec.get("method") != "failed":
             return p.stem, rec
         mime = mime_of(p)
-        base = {"source": f"einnsyn/{p.name}", "sha256": digest, "bytes": p.stat().st_size, "mime": mime, "tools": tools, "extractedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"), **docs_meta.get(p.stem, {})}
+        base = {"source": f"{SRC.name}/{p.name}", "sha256": digest, "bytes": p.stat().st_size, "mime": mime, "tools": tools, "extractedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"), **docs_meta.get(p.stem, {})}
         try:
             text, method, pages, ocr_pages = extract(p, mime)
             text = text.replace("\r\n", "\n").strip()

@@ -16,6 +16,7 @@ import { liceLimit } from './lib/fishhealth'
 import SettingsMenu from './components/SettingsMenu'
 import HelpPanel from './components/HelpPanel'
 import UpdatePrompt from './components/UpdatePrompt'
+import WhatsNew from './components/WhatsNew'
 import SearchBox from './components/SearchBox'
 import LoginScreen from './components/LoginScreen'
 import { logout, useAuth } from './lib/auth'
@@ -175,6 +176,7 @@ function MapApp() {
           onContextMenu={(locality, point) => setMenu({ locality, x: point.x, y: point.y })}
           onMap={setMap}
         />
+        <WhatsNew />
         <ContextMenu menu={menu} onClose={() => setMenu(null)} />
         <OperatorDropdown localities={localities} map={map} />
         <FilterChips />

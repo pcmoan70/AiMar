@@ -1,4 +1,5 @@
-import { useT } from '../lib/i18n'
+import { useLang, useT } from '../lib/i18n'
+import { WHATS_NEW } from '../whatsnew'
 
 const SECTIONS: { id: string; items: number }[] = [
   { id: 'header', items: 4 },
@@ -19,10 +20,22 @@ function Rich({ text }: { text: string }) {
 
 export default function HelpPanel() {
   const t = useT()
+  const lang = useLang()
   return (
     <div className="panel-body help">
       <h2>AiMar</h2>
       <p>{t('help.intro')}</p>
+      <details className="help-news">
+        <summary>{t('news.title')}</summary>
+        <ul className="plain">
+          {WHATS_NEW.map((n) => (
+            <li key={n.id}>
+              <b>{n.title[lang]}</b> <span className="muted">{n.date}</span>
+              <p>{n.text[lang]}</p>
+            </li>
+          ))}
+        </ul>
+      </details>
       {SECTIONS.map((s) => (
         <section key={s.id}>
           <h3>{t(`help.${s.id}.title`)}</h3>
