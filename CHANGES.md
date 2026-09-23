@@ -2,6 +2,11 @@
 
 ## 2026-09-23
 
+- Applications are also read from Fiskeridirektoratet's public application
+  API (`api.fiskeridir.no/aqua-portal-api-public`, no key): status, type,
+  creation and withdrawal dates, and the evaluation per sector authority. The
+  application panel gets a **Processing by the authorities** table with each
+  authority's decisions (result and date) or statements, and the overall result.
 - Case lists are always grouped by case file; the box that switched grouping
   off is gone. Cases are ordered by the date of their latest entry, in the
   chosen sort direction, with entries that have no case file last.

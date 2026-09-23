@@ -1,7 +1,7 @@
 import { useState, type ReactNode } from 'react'
 import type { Map as MlMap } from 'maplibre-gl'
 import SiteOverlays from './SiteOverlays'
-import { hearingsFor, hearingsForApplication, isNewApplication, isOpenHearing, type Hearing } from '../lib/localities'
+import { evaluationOf, hearingsFor, hearingsForApplication, isNewApplication, isOpenHearing, type Hearing } from '../lib/localities'
 import Hearings from './Hearings'
 import Sym from './Sym'
 import { neighbourhood, type Localities } from '../lib/localities'
@@ -337,7 +337,8 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
       ['app.no', a.appNo],
       ['app.applicant', a.applicant],
       ['app.kind', a.kind],
-      ['app.status', a.status ? t(`app.status.${a.status}`) : undefined],
+      ['app.status', (a.apiStatus ?? a.status) ? t(`app.status.${a.apiStatus ?? a.status}`) : undefined],
+      ['app.result', a.result ? `${t(`app.eval.result.${a.result}`)}${a.evaluationFinishedAt ? ` · ${a.evaluationFinishedAt}` : ''}` : undefined],
       ['app.submitted', a.submitted],
       ['app.site', a.navn ? `${a.navn}${a.loknr ? ` (${a.loknr})` : ''}` : undefined],
       ['app.where', [a.kommune, a.fylke].filter(Boolean).join(', ') || undefined],
@@ -374,6 +375,41 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
               ))}
           </tbody>
         </table>
+        {(() => {
+          // Where the case stands with each authority: decisions with result and date, statements, or still waiting.
+          const parts = evaluationOf(a)
+          if (!parts.length) return null
+          const when = (d: string | null) => d ?? '–'
+          return (
+            <>
+              <h3>
+                <Hint id="evaluation" text={t('hint.evaluation')}>{t('app.evaluation')}</Hint>
+              </h3>
+              <table className="kv evaluation">
+                <tbody>
+                  {parts.map((x) => (
+                    <tr key={x.org}>
+                      <th>
+                        {x.org}
+                        {x.responsible && <small className="muted"> · {t('app.eval.responsible')}</small>}
+                      </th>
+                      <td>
+                        {x.decisions.length || x.statements.length ? (
+                          [
+                            ...x.decisions.map((d) => `${t('app.eval.decision')}: ${d.result ? t(`app.eval.result.${d.result}`) : '–'} ${when(d.at)}`),
+                            ...x.statements.map((s) => `${t('app.eval.statement')} ${when(s.at)}`),
+                          ].join(' · ')
+                        ) : (
+                          <span className="muted">{t('app.eval.awaiting')}</span>
+                        )}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </>
+          )
+        })()}
         <Hearings items={hearingsForApplication(hearings, a)} />
         {a.url && (
           <p>

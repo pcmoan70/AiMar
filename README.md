@@ -145,6 +145,7 @@ dataset); the Help panel keeps the whole list.
 | Miljødirektoratet | Protected areas (Naturvern) | NLOD 2.0 |
 | NGU | Marine base maps: sediment grain size, anchoring conditions, deposition areas, slope | NLOD 2.0 |
 | Fiskeridirektoratet | Public application list (fiskeridir.no/akvakultur/akvakultursoknader, CSV export) | NLOD 2.0 |
+| Fiskeridirektoratet | Public application API (api.fiskeridir.no/aqua-portal-api-public): status, submissions, evaluation per authority | NLOD 2.0 |
 | Norsk lysingsblad | Announcements of aquaculture applications at public inspection | Public announcements |
 | MET Norway | NorKyst v3 800 m forecast: surface temperature, salinity, current speed and direction (latest model hour, via thredds ncWMS) | CC BY 4.0 |
 

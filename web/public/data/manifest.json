@@ -56,13 +56,22 @@
       "retrieved": "2026-09-23T01:39:57.745Z"
     },
     {
+      "file": "hearings.geojson",
+      "organisation": "Norsk lysingsblad (Digitaliseringsdirektoratet)",
+      "dataset": "Aquaculture applications announced for public inspection, with deadline for remarks",
+      "url": "https://norsk.lysingsblad.no/nb/kunngjeringar/andre-kunngjeringar",
+      "license": "Public announcements, Lov om Norsk lysingsblad",
+      "featureCount": 15,
+      "retrieved": "2026-09-23T11:18:36.729Z"
+    },
+    {
       "file": "applications.geojson",
       "organisation": "Fiskeridirektoratet",
-      "dataset": "Aquaculture applications under processing: application points (+ 1 from the public application list, 919 rows)",
-      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer + https://www.fiskeridir.no/akvakultur/akvakultursoknader/_/service/no.fiskeridir/aqua-download-list?format=csv",
+      "dataset": "Aquaculture applications under processing: application points (+ 2 from the public application list, 919 rows; 318 enriched from the application API)",
+      "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer + https://www.fiskeridir.no/akvakultur/akvakultursoknader/_/service/no.fiskeridir/aqua-download-list?format=csv + https://api.fiskeridir.no/aqua-portal-api-public/api/v1",
       "license": "NLOD 2.0",
       "featureCount": 318,
-      "retrieved": "2026-09-23T08:02:37.428Z"
+      "retrieved": "2026-09-23T12:31:09.950Z"
     },
     {
       "file": "application_areas.geojson",
@@ -70,8 +79,8 @@
       "dataset": "Aquaculture applications under processing: applied-for areas",
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
       "license": "NLOD 2.0",
-      "featureCount": 304,
-      "retrieved": "2026-09-23T08:02:37.428Z"
+      "featureCount": 303,
+      "retrieved": "2026-09-23T12:31:09.950Z"
     },
     {
       "file": "application_anchors.geojson",
@@ -80,16 +89,7 @@
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
       "license": "NLOD 2.0",
       "featureCount": 3737,
-      "retrieved": "2026-09-23T08:02:37.428Z"
-    },
-    {
-      "file": "hearings.geojson",
-      "organisation": "Norsk lysingsblad (Digitaliseringsdirektoratet)",
-      "dataset": "Aquaculture applications announced for public inspection, with deadline for remarks",
-      "url": "https://norsk.lysingsblad.no/nb/kunngjeringar/andre-kunngjeringar",
-      "license": "Public announcements, Lov om Norsk lysingsblad",
-      "featureCount": 15,
-      "retrieved": "2026-09-23T11:18:36.729Z"
+      "retrieved": "2026-09-23T12:31:09.950Z"
     }
   ]
 }

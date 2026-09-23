@@ -13,6 +13,15 @@ export interface NewsEntry {
 
 export const WHATS_NEW: NewsEntry[] = [
   {
+    id: '2026-09-23-application-api',
+    date: '2026-09-23',
+    title: { en: 'Where each application stands', nb: 'Hvor hver søknad står' },
+    text: {
+      en: 'Applications are now read from Fiskeridirektoratet\'s public application API as well: the application panel lists every authority the case went to, whether it is the responsible one, and its decisions (with result and date) or statements, plus the overall result once processing has finished.',
+      nb: 'Søknader leses nå også fra Fiskeridirektoratets offentlige søknads-API: søknadspanelet lister hver myndighet saken gikk til, om den er ansvarlig, og dens vedtak (med resultat og dato) eller uttalelser, samt sluttresultatet når behandlingen er ferdig.',
+    },
+  },
+  {
     id: '2026-09-23-hearings',
     date: '2026-09-23',
     title: { en: 'Applications at public inspection', nb: 'Søknader til offentlig ettersyn' },

@@ -200,6 +200,59 @@ async function mergeList() {
 const list = await mergeList();
 counts['applications.geojson'] += list.added;
 
+// ---- Fiskeridirektoratet's public application API (no key): status, type and the evaluation per sector
+// authority (decisions with result and time, statements) for every application on the map.
+const API = 'https://api.fiskeridir.no/aqua-portal-api-public/api/v1';
+async function apiJson(url) {
+  for (let attempt = 0; ; attempt++) {
+    const res = await fetch(url, { headers: { 'user-agent': 'AiMar/1.0 (+https://pcmoan70.github.io/AiMar/)', accept: 'application/json' } });
+    if (res.ok) return res.json();
+    if (res.status === 404) return null;
+    if (attempt >= 3 || (res.status < 500 && res.status !== 429)) throw new Error(`${url}: HTTP ${res.status}`);
+    await sleep(2000 * (attempt + 1));
+  }
+}
+async function enrichFromApi() {
+  const target = fileURLToPath(new URL('applications.geojson', OUT));
+  const fc = JSON.parse(await readFile(target, 'utf8'));
+  let done = 0;
+  let evaluated = 0;
+  for (const f of fc.features) {
+    const p = f.properties;
+    try {
+      const a = await apiJson(`${API}/application/${p.appNo}`);
+      if (a) {
+        p.apiStatus = a.status ?? null;
+        p.typeCode = a.type ?? null;
+        p.createdAt = a.createdAt?.slice(0, 10) ?? null;
+        if (a.withdrawnAt) p.withdrawn = a.withdrawnAt.slice(0, 10);
+        if (!p.submitted && a.submittedAt) p.submitted = a.submittedAt.slice(0, 10);
+      }
+      const e = await apiJson(`${API}/evaluation/${p.appNo}`);
+      if (e) {
+        p.result = e.result ?? null;
+        p.evaluationFinishedAt = e.evaluationFinishedAt?.slice(0, 10) ?? null;
+        p.evaluation = (e.evaluationParts ?? []).map((x) => ({
+          org: x.organisationName,
+          responsible: !!x.responsiblePart,
+          decisions: (x.decisions ?? []).map((d) => ({ result: d.result ?? null, at: (d.decisionTime ?? d.registeredAt ?? '').slice(0, 10) || null })),
+          statements: (x.statements ?? []).map((s) => ({ at: (s.statementTime ?? s.registeredAt ?? '').slice(0, 10) || null })),
+        }));
+        if (p.evaluation.length) evaluated++;
+      }
+      done++;
+    } catch (err) {
+      console.warn(`${p.appNo}: ${err.message}`);
+    }
+    await sleep(120);
+  }
+  await writeFile(target + '.tmp', JSON.stringify(fc));
+  await rename(target + '.tmp', target);
+  console.log(`application API: ${done}/${fc.features.length} applications read, ${evaluated} with an evaluation`);
+  return done;
+}
+const enriched = await enrichFromApi();
+
 const manifestUrl = new URL('manifest.json', OUT);
 const manifest = JSON.parse(await readFile(manifestUrl, 'utf8'));
 manifest.sources = manifest.sources.filter((s) => !s.file.startsWith('application'));
@@ -207,8 +260,8 @@ for (const { file, what } of LAYERS)
   manifest.sources.push({
     file,
     organisation: 'Fiskeridirektoratet',
-    dataset: `Aquaculture applications under processing: ${what}${file === 'applications.geojson' ? ` (+ ${list.added} from the public application list, ${list.rows} rows)` : ''}`,
-    url: file === 'applications.geojson' ? `${SERVICE} + ${LIST_URL}` : SERVICE,
+    dataset: `Aquaculture applications under processing: ${what}${file === 'applications.geojson' ? ` (+ ${list.added} from the public application list, ${list.rows} rows; ${enriched} enriched from the application API)` : ''}`,
+    url: file === 'applications.geojson' ? `${SERVICE} + ${LIST_URL} + ${API}` : SERVICE,
     license: 'NLOD 2.0',
     featureCount: counts[file],
     retrieved: new Date().toISOString(),

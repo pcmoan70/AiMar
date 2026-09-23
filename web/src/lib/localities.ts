@@ -166,6 +166,36 @@ export interface ApplicationProps {
   /** 'list' when known only from the public application list, not yet in the map service */
   source?: string
   withdrawn?: string
+  /** from Fiskeridirektoratet's application API: SUBMITTED, PROCESSED, RETURNED, WITHDRAWN */
+  apiStatus?: string
+  typeCode?: string
+  createdAt?: string
+  /** overall result once the evaluation has finished, e.g. GRANTED */
+  result?: string | null
+  evaluationFinishedAt?: string | null
+  /** one part per sector authority; a string when read back from a map feature (nested JSON) */
+  evaluation?: EvaluationPart[] | string
+}
+
+export interface EvaluationPart {
+  org: string
+  responsible: boolean
+  decisions: { result: string | null; at: string | null }[]
+  statements: { at: string | null }[]
+}
+
+/** Map features carry nested properties as JSON strings; the panel wants the array. */
+export function evaluationOf(a: ApplicationProps): EvaluationPart[] {
+  const e = a.evaluation
+  if (!e) return []
+  if (typeof e === 'string') {
+    try {
+      return JSON.parse(e) as EvaluationPart[]
+    } catch {
+      return []
+    }
+  }
+  return e
 }
 
 /** An application announced for public inspection in Norsk lysingsblad (scripts/fetch-hearings.mjs). */
