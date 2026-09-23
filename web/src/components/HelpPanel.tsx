@@ -5,7 +5,7 @@ const SECTIONS: { id: string; items: number }[] = [
   { id: 'map', items: 9 },
   { id: 'site', items: 5 },
   { id: 'chart', items: 4 },
-  { id: 'cases', items: 4 },
+  { id: 'cases', items: 5 },
   { id: 'layers', items: 5 },
   { id: 'offline', items: 6 },
   { id: 'sources', items: 8 },

@@ -346,6 +346,12 @@ main:has(aside) .lice-slider { width: min(900px, calc(100% - 480px)); transform:
 .hearing { display: flex; flex-direction: column; gap: 1px; margin: 4px 0; }
 .hearing a { color: var(--brand); }
 .hearing-deadline { color: #b42318; font-weight: 600; }
+.hearing-text { white-space: pre-wrap; font-size: 12px; }
+.cases-live { margin: 0 0 10px; }
+.cases-live summary { cursor: pointer; font-weight: 600; font-size: 13px; }
+.cases-live .hearings { margin-top: 4px; }
+.new-apps li { display: flex; flex-direction: column; margin: 4px 0; }
+.new-apps .case-site { text-align: left; }
 .badge-new { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; color: #fff; background: #1c2733; border-radius: 3px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; }
 .badge-deleted { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; color: #fff; background: #6b7a88; border-radius: 3px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; }
 .case-marks { display: inline-flex; align-items: center; gap: 4px; justify-self: start; align-self: center; }

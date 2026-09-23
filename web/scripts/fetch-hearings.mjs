@@ -8,8 +8,9 @@
 //   node scripts/fetch-hearings.mjs          new announcements since the last run
 //   node scripts/fetch-hearings.mjs --full   re-read every announcement found
 //
-// Writes public/data/hearings.json. Announcements are found through the listing's keyword
-// search (several words, union), and each page is read once and kept.
+// Writes public/data/hearings.geojson: one feature per notice, placed at the coordinates in the
+// notice or else at the register position of the locality it names. Announcements are found
+// through the listing's keyword search (several words, union); each page is read once and kept.
 import { readFile, rename, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { setDefaultAutoSelectFamilyAttemptTimeout } from 'node:net';
@@ -129,14 +130,19 @@ function parseItem(id, html) {
     subject: pick(/Søknaden gjelder:\s*([^.]{2,120}?)(?=\s+Søkt|\s+Lokalitet|\s+Koordinat|$)/),
     caseNo: pick(/saksn(?:umme)?r\.?\s*:?\s*(\d{2,4}\/\d{2,6})/i),
     email: body.match(/[\w.+-]+@[\w-]+\.[\w.]+/)?.[0] ?? null,
+    // Some municipalities attach the application itself to the notice.
+    doc: (() => {
+      const m = main.match(/href="([^"]+\.(?:pdf|docx?|zip))"/i);
+      return m ? new URL(m[1].replace(/&amp;/g, '&'), SITE).href : null;
+    })(),
     coords: coords(body),
     text: body.slice(0, 2000),
   };
 }
 
-const target = fileURLToPath(new URL('hearings.json', OUT));
-const prev = await readFile(target, 'utf8').then(JSON.parse, () => ({ items: [], skipped: [] }));
-const items = new Map(prev.items.map((h) => [h.id, h]));
+const target = fileURLToPath(new URL('hearings.geojson', OUT));
+const prev = await readFile(target, 'utf8').then(JSON.parse, () => ({ features: [], skipped: [] }));
+const items = new Map(prev.features.map((f) => [f.properties.id, { ...f.properties, coords: f.properties.placed === 'notice' ? f.geometry?.coordinates : null }]));
 const skipped = new Set(prev.skipped ?? []); // announcements read before and found not to be aquaculture
 
 // ---- listing: union of keyword searches, every page of each
@@ -174,15 +180,27 @@ for (const [id, row] of found) {
 }
 
 const list = [...items.values()].sort((a, b) => (b.published ?? '').localeCompare(a.published ?? '') || b.id.localeCompare(a.id));
-const out = { retrieved: new Date().toISOString(), source: LIST, items: list, skipped: [...skipped] };
+
+// ---- place each notice: its own coordinates, else the register position of the locality it names
+const norm = (s) => (s ?? '').toLowerCase().replace(/[^a-zæøå0-9]/g, '');
+const localities = JSON.parse(await readFile(new URL('localities.geojson', OUT), 'utf8')).features;
+const byNr = new Map(localities.map((f) => [f.properties.loknr, f]));
+const byName = new Map(localities.map((f) => [`${norm(f.properties.navn)}|${norm(f.properties.kommune)}`, f]));
+const features = list.map(({ coords, ...h }) => {
+  const site = (h.loknr && byNr.get(h.loknr)) || (h.navn && h.kommune && byName.get(`${norm(h.navn)}|${norm(h.kommune)}`)) || null;
+  const position = coords ?? site?.geometry.coordinates ?? null;
+  if (site && !h.loknr) h.loknr = site.properties.loknr;
+  return { type: 'Feature', geometry: position ? { type: 'Point', coordinates: position } : null, properties: { ...h, placed: coords ? 'notice' : site ? 'register' : null } };
+});
+const out = { type: 'FeatureCollection', retrieved: new Date().toISOString(), source: LIST, features, skipped: [...skipped] };
 await writeFile(target + '.tmp', JSON.stringify(out));
 await rename(target + '.tmp', target);
 
 const manifestUrl = new URL('manifest.json', OUT);
 const manifest = JSON.parse(await readFile(manifestUrl, 'utf8'));
-manifest.sources = manifest.sources.filter((s) => s.file !== 'hearings.json');
+manifest.sources = manifest.sources.filter((s) => s.file !== 'hearings.json' && s.file !== 'hearings.geojson');
 manifest.sources.push({
-  file: 'hearings.json',
+  file: 'hearings.geojson',
   organisation: 'Norsk lysingsblad (Digitaliseringsdirektoratet)',
   dataset: 'Aquaculture applications announced for public inspection, with deadline for remarks',
   url: LIST,
@@ -192,4 +210,4 @@ manifest.sources.push({
 });
 await writeFile(manifestUrl, JSON.stringify(manifest, null, 2));
 const open = list.filter((h) => (h.deadline ?? '') >= new Date().toISOString().slice(0, 10)).length;
-console.log(`hearings.json: ${list.length} announcements (${read} read, ${kept} new), ${open} with a deadline still open`);
+console.log(`hearings.geojson: ${list.length} announcements (${read} read, ${kept} new), ${open} with a deadline still open, ${features.filter((f) => f.geometry).length} placed`);

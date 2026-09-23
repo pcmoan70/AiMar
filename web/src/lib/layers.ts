@@ -13,7 +13,7 @@ export type Category = 'aquaculture' | 'seabed' | 'ocean' | 'environment' | 'fis
 
 /** Overlay tabs in display order, with the importance rank of layers inside each. */
 export const CATEGORIES: { id: Category; title: string; order: string[] }[] = [
-  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'applications', 'application-anchors', 'lice-week', 'lice-heat', 'biomass', 'site-polygons', 'treatment-heat', 'prod-areas', 'measured-currents', 'b-surveys', 'c-surveys', 'current-surveys', 'ban-bath', 'ban-chitin', 'offshore-aqua', 'nytek', 'disease-zones', 'escapes', 'current-points', 'deleted-sites'] },
+  { id: 'aquaculture', title: 'Aquaculture', order: ['localities', 'applications', 'hearings', 'application-anchors', 'lice-week', 'lice-heat', 'biomass', 'site-polygons', 'treatment-heat', 'prod-areas', 'measured-currents', 'b-surveys', 'c-surveys', 'current-surveys', 'ban-bath', 'ban-chitin', 'offshore-aqua', 'nytek', 'disease-zones', 'escapes', 'current-points', 'deleted-sites'] },
   { id: 'seabed', title: 'Seabed', order: ['dybdedata', 'ngu-anchoring', 'ngu-sediment', 'ngu-deposition', 'ngu-slope'] },
   { id: 'ocean', title: 'Ocean', order: ['clim-waves', 'clim-wind', 'norkyst-current', 'norkyst-arrows', 'norkyst-temp', 'norkyst-salinity'] },
   { id: 'environment', title: 'Environment', order: ['naturvern', 'bunnhabitat', 'gyteomraader', 'salmon-fjords', 'coral-bans', 'shellfish', 'env-state', 'prod-intensity'] },
@@ -792,6 +792,20 @@ export const LAYERS: LayerDef[] = [
     attribution: '© report authors via eInnsyn',
     cache: 'precache',
     description: 'Mean and maximum current speed read out of the current-measurement reports published on eInnsyn, with the dominant direction as an arrow.',
+  },
+  {
+    id: 'hearings',
+    category: 'aquaculture',
+    title: 'Public inspection (Norsk lysingsblad)',
+    group: 'overlay',
+    kind: 'geojson',
+    render: 'circle',
+    url: 'data/hearings.geojson',
+    organisation: 'Norsk lysingsblad',
+    license: 'Public announcements',
+    attribution: '© Norsk lysingsblad',
+    cache: 'precache',
+    description: 'Applications the municipality has laid out for public inspection, as announced in Norsk lysingsblad: red while the deadline for remarks is open, grey after.',
   },
   {
     id: 'applications',

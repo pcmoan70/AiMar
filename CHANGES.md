@@ -12,6 +12,12 @@
   site panel and the application panel show them as **Public inspection** with
   the deadline and a link to send remarks. Both run in the nightly job and the
   weekly workflow.
+- The notices are on the map as the **Public inspection** overlay (Aquaculture
+  tab): red dots while the deadline is open, grey after, placed at the notice's
+  coordinates or the locality's register position; click one for the notice.
+  The Cases panel starts with **At public inspection now** and **New
+  applications**, ahead of the archive, with *show on map* and the mailto for
+  remarks.
 
 ## 2026-09-22
 

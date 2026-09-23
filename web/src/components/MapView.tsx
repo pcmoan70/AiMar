@@ -12,7 +12,7 @@ import {
   type StyleSpecification,
 } from 'maplibre-gl'
 import { BASE_LAYERS, LOCALITIES_LAYER, OVERLAY_LAYERS, SALMON_COLOUR, layerById, wmsTileUrl } from '../lib/layers'
-import { newApplicationCutoff } from '../lib/localities'
+import { newApplicationCutoff, type Hearing } from '../lib/localities'
 import { OPERATOR_COLOURS, OTHER_COLOUR, paletteFor } from '../lib/operatorColours'
 import { climArrowSource } from '../lib/climatology'
 import { getSettings, updateSettings, useSettings, type Settings } from '../lib/settings'
@@ -24,6 +24,7 @@ import { heatValueAt } from '../lib/heatmap'
 export type Selection =
   | { type: 'farm'; props: LocalityProps }
   | { type: 'application'; props: ApplicationProps }
+  | { type: 'hearing'; props: Hearing }
   | { type: 'point'; lngLat: [number, number] }
 
 /** What a map click hit; a border polygon only carries its locality number. */
@@ -62,6 +63,9 @@ function arrowImage(): ImageData {
 }
 
 export const APPLICATIONS_LAYER = 'applications'
+export const HEARINGS_LAYER = 'hearings'
+const HEARING_OPEN = '#b42318'
+const HEARING_PAST = '#8a949e'
 export const ANCHORS_LAYER = 'application-anchors'
 /** Applications under processing: orange, distinct from the operator palette. */
 const APPLICATION_COLOUR = '#d2691e'
@@ -196,6 +200,22 @@ function buildStyle(
       layers.push({ id: l.id, type: 'raster', source: l.id, paint: { 'raster-opacity': l.opacity ?? 1 } })
     } else if (l.kind === 'geojson') {
       sources[l.id] = { type: 'geojson', data: dataUrl(l.url.replace(/^data\//, '')), attribution: l.attribution }
+      if (l.id === HEARINGS_LAYER) {
+        const today = new Date().toISOString().slice(0, 10)
+        layers.push({
+          id: l.id,
+          type: 'circle',
+          source: l.id,
+          paint: {
+            'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 5, 9, 9, 14, 13],
+            'circle-color': ['case', ['>=', ['coalesce', ['get', 'deadline'], ''], today], HEARING_OPEN, HEARING_PAST] as unknown as ExpressionSpecification,
+            'circle-opacity': 0.85,
+            'circle-stroke-color': '#ffffff',
+            'circle-stroke-width': 2,
+          },
+        })
+        continue
+      }
       if (l.id === CURRENTS_LAYER) {
         layers.push({
           id: l.id,
@@ -411,6 +431,8 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
       if (poly) return onSelectRef.current({ type: 'loknr', loknr: Number(poly.properties.loknr) })
       const cur = map.getLayer(CURRENTS_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [CURRENTS_LAYER] })[0] : undefined
       if (cur) return onSelectRef.current({ type: 'loknr', loknr: Number(cur.properties.loknr) })
+      const hearing = map.getLayer(HEARINGS_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [HEARINGS_LAYER] })[0] : undefined
+      if (hearing) return onSelectRef.current({ type: 'hearing', props: hearing.properties as Hearing })
       const app = map.getLayer(APPLICATIONS_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [APPLICATIONS_LAYER] })[0] : undefined
       if (app) return onSelectRef.current({ type: 'application', props: app.properties as ApplicationProps })
       const gone = map.getLayer(DELETED_LAYER) ? map.queryRenderedFeatures(e.point, { layers: [DELETED_LAYER] })[0] : undefined
@@ -424,7 +446,7 @@ export default function MapView({ selectedLoknr, filteredLoknrs, liceColours, li
         : undefined
       onContextRef.current(hit ? (hit.properties as LocalityProps) : null, { x: e.point.x, y: e.point.y })
     })
-    for (const id of [LOCALITIES_LAYER, DELETED_LAYER, APPLICATIONS_LAYER]) {
+    for (const id of [LOCALITIES_LAYER, DELETED_LAYER, APPLICATIONS_LAYER, HEARINGS_LAYER]) {
       map.on('mouseenter', id, () => (map.getCanvas().style.cursor = 'pointer'))
       map.on('mouseleave', id, () => (map.getCanvas().style.cursor = ''))
     }

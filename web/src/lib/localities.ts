@@ -184,18 +184,27 @@ export interface Hearing {
   subject?: string | null
   caseNo?: string | null
   email?: string | null
+  /** the notice's own text, for the panel */
+  text?: string
+  /** the application document, when the notice attaches one */
+  doc?: string | null
+  /** where the point comes from: the notice's coordinates, or the register position of the named locality */
+  placed?: 'notice' | 'register' | null
   coords?: [number, number] | null
 }
 
 export async function loadHearings(): Promise<Hearing[] | null> {
   try {
-    const res = await fetch(dataUrl('hearings.json'))
+    const res = await fetch(dataUrl('hearings.geojson'))
     if (!res.ok) return null
-    return ((await res.json()) as { items: Hearing[] }).items
+    const fc = (await res.json()) as { features: { geometry: { coordinates: [number, number] } | null; properties: Hearing }[] }
+    return fc.features.map((f) => ({ ...f.properties, coords: f.geometry?.coordinates ?? null }))
   } catch {
     return null
   }
 }
+
+export const isOpenHearing = (h: Hearing, today = new Date().toISOString().slice(0, 10)) => !!h.deadline && h.deadline >= today
 
 const norm = (s: string) => s.toLowerCase().replace(/\s+(as|asa|sa|ans|da)$/i, '').replace(/[^a-zæøå0-9]/g, '')
 /** Hearings about a locality: by its number, else by name within the same municipality. */

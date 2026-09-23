@@ -290,6 +290,21 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
     )
   }
 
+  if (selection.type === 'hearing') {
+    const h = selection.props
+    return (
+      <div className="panel-body">
+        <h2>
+          {h.navn ? `${h.navn}${h.loknr ? ` (${h.loknr})` : ''}` : h.title}
+          <span className="badge-application">{t('hearings.badge')}</span>
+        </h2>
+        <Hearings items={[h]} />
+        {h.text && <p className="hearing-text muted">{h.text}</p>}
+        {h.placed === 'register' && <p className="muted">{t('hearings.placedRegister')}</p>}
+      </div>
+    )
+  }
+
   if (selection.type === 'application') {
     const a = selection.props
     // An application is a form, not a register entry: show what was applied for, and where to follow the case.

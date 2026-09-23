@@ -3,6 +3,8 @@ import { CASE_KINDS, CASE_SORTS, caseFolderUrl, caseRows, caseUrl, groupRows, se
 import type { Localities } from '../lib/localities'
 import { useT } from '../lib/i18n'
 import { updateSettings, useSettings } from '../lib/settings'
+import { isNewApplication, isOpenHearing, NEW_APPLICATION_DAYS, type ApplicationProps, type Hearing } from '../lib/localities'
+import Hearings from './Hearings'
 import Hint from './Hint'
 import CaseDocs, { CaseDocsDot } from './CaseDocs'
 
@@ -16,12 +18,16 @@ interface Props {
   onPick: (loknr: number) => void
   /** Localities covered by the filtered list, for the rings on the map. */
   onSites: (loknrs: number[] | null) => void
+  hearings: Hearing[] | null
+  applications: ApplicationProps[] | null
+  onLocate: (lngLat: [number, number]) => void
+  onPickApplication: (a: ApplicationProps) => void
 }
 
 const PAGE = 200
 
 /** All case-history entries for the filtered localities with search, kind filter and sorting. */
-export default function CasesPanel({ cases, casesFailed, localities, loknrs, onPick, onSites }: Props) {
+export default function CasesPanel({ cases, casesFailed, localities, loknrs, onPick, onSites, hearings, applications, onLocate, onPickApplication }: Props) {
   const t = useT()
   const [query, setQuery] = useState('')
   // 134 000 entries are too many to re-filter on every keystroke, so the list trails the input.
@@ -99,9 +105,43 @@ export default function CasesPanel({ cases, casesFailed, localities, loknrs, onP
     </li>
   )
 
-  if (!cases) return <div className="panel-body">{t(casesFailed ? 'cases.failed' : 'cases.loading')}</div>
+  // What is live right now, ahead of the archive: notices with an open deadline, and this month's applications.
+  const openHearings = (hearings ?? []).filter((h) => isOpenHearing(h))
+  const newApps = (applications ?? []).filter(isNewApplication).sort((a, b) => (b.submitted ?? '').localeCompare(a.submitted ?? ''))
+  const live = (
+    <>
+      {openHearings.length > 0 && (
+        <details className="cases-live" open>
+          <summary>
+            <Hint id="hearings" text={t('hint.hearings')}>{t('cases.hearings', { n: openHearings.length })}</Hint>
+          </summary>
+          <Hearings items={openHearings} bare onLocate={(h) => h.coords && onLocate(h.coords)} />
+        </details>
+      )}
+      {newApps.length > 0 && (
+        <details className="cases-live">
+          <summary>{t('cases.newApps', { n: newApps.length, d: NEW_APPLICATION_DAYS })}</summary>
+          <ul className="plain new-apps">
+            {newApps.map((a) => (
+              <li key={a.appNo}>
+                <button type="button" className="case-site" onClick={() => onPickApplication(a)}>
+                  {a.navn ?? a.appNo}
+                </button>
+                <small className="muted">
+                  {[a.submitted, a.applicant, a.kind, a.kommune].filter(Boolean).join(' · ')}
+                </small>
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
+    </>
+  )
+
+  if (!cases) return <div className="panel-body">{live}{t(casesFailed ? 'cases.failed' : 'cases.loading')}</div>
   return (
     <div className="panel-body cases-panel">
+      {live}
       <h2>
         <Hint id="casesPanel" text={t('hint.casesPanel')}>{t('cases.title')}</Hint>
       </h2>

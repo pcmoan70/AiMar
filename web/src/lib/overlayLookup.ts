@@ -54,6 +54,10 @@ export function instantRows(map: MlMap, lngLat: [number, number], enabled: Layer
       const a = feature(l.id)?.properties as { navn?: string; appNo?: string; applicant?: string; biomass?: number; submitted?: string } | undefined
       return row(a ? `${a.navn ?? a.appNo} · ${a.applicant ?? ''}${a.biomass ? ` · ${a.biomass} t` : ''}${isNewApplication(a as { submitted?: string; appNo: string }) ? ` · ${t('app.new')}` : ''}` : null)
     }
+    if (l.id === 'hearings') {
+      const h = feature('hearings')?.properties as { title?: string; subject?: string; kommune?: string; deadline?: string } | undefined
+      return row(h ? `${h.subject || h.title} · ${h.kommune ?? ''} · ${h.deadline ? t('hearings.deadlineShort', { d: h.deadline }) : t('hearings.noDeadline')}` : null)
+    }
     if (l.id === 'deleted-sites') {
       const p = feature('deleted-sites')?.properties as LocalityProps | undefined
       return row(p ? `${p.navn} (${p.loknr})${p.klareringsdato ? ` · ${t('inspect.clearedShort')} ${String(p.klareringsdato).slice(0, 4)}` : ''}` : null)

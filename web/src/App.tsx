@@ -213,6 +213,13 @@ function MapApp() {
                   const f = localities?.features.find((x) => x.properties.loknr === nr)
                   if (f) pickLocality(f)
                 }}
+                hearings={hearings}
+                applications={applications}
+                onLocate={(lngLat) => map?.flyTo({ center: lngLat, zoom: Math.max(map.getZoom(), 11) })}
+                onPickApplication={(props) => {
+                  setSelection({ type: 'application', props })
+                  updateSettings({ panel: 'inspect' })
+                }}
               />
             )}
             {s.panel === 'offline' && <OfflinePanel map={map} />}
