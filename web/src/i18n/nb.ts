@@ -109,6 +109,8 @@ export const nb: Record<string, string> = {
   // layer panel
   'layers.overlays': 'Kartlag',
   'layers.details': 'Beskrivelser',
+  'org.eInnsyn survey reports': 'Strømrapporter via eInnsyn',
+  'licence.Public announcements': 'Offentlige kunngjøringer',
   'layers.cache.precache': 'innpakket',
   'layers.cache.cache-first': 'lagres ved visning',
   'layers.cache.forecast': 'varsel, lagres 1 dag',
@@ -281,7 +283,8 @@ export const nb: Record<string, string> = {
   'presence.dybdedata': 'kartlagt dybdeområde',
 
   // inspect panel
-  'inspect.empty': 'Klikk på en lokalitet eller et punkt i sjøen.',
+  'inspect.empty': 'Klikk på en lokalitet eller et punkt i sjøen, eller søk etter navn eller nummer øverst.',
+  'inspect.emptySymbols': 'I kartet: en sirkel er en registrert lokalitet (farget etter oppdretter når en er valgt), en lilla rombe en søknad til offentlig ettersyn, en grønn stjerne en søknad sendt inn siste fire uker, en oransje prikk en søknad under behandling.',
   'inspect.loknr': 'Lokalitetsnr.',
   'inspect.status': 'Status',
   'inspect.capacity': 'Kapasitet',

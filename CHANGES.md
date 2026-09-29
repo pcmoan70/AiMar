@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-09-29
+
+- Usability pass over the whole site. The header wraps into two rows on
+  narrow screens instead of squeezing the search box away; the symbol legends
+  under the layers sit on one line under the title; the two source labels that
+  were English in the Norwegian interface are translated; and the empty site
+  panel now says how to pick a site and what the map symbols mean.
+
 ## 2026-09-23
 
 - The operator dropdown and the field filters now apply to everything on the

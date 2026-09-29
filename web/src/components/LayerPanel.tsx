@@ -60,6 +60,8 @@ export default function LayerPanel() {
         const on = s.overlays.includes(l.id)
         // The source line names the organisation, so a title ending in the same name drops it.
         const title = t(`layer.${l.id}.title`).replace(/\s*\(([^()]+)\)$/, (m, org) => (org === l.organisation ? '' : m))
+        // Most sources and licences are proper names; the few that are phrases have a translation.
+        const named = (kind: 'org' | 'licence', v: string) => (t(`${kind}.${v}`) === `${kind}.${v}` ? v : t(`${kind}.${v}`))
         return (
           <label key={l.id} className="row">
             <input type="checkbox" checked={on} onChange={() => toggle(l.id)} />
@@ -75,7 +77,7 @@ export default function LayerPanel() {
               )}
               {s.layerDetails && l.description && <small>{t(`layer.${l.id}.desc`)}</small>}
               <small className="layer-meta">
-                {l.organisation} · {l.license}
+                {named('org', l.organisation)} · {named('licence', l.license)}
                 {s.layerDetails ? ` · ${t(`layers.cache.${l.cache}`)}` : ''}
               </small>
               {on && l.id === 'hearings' && (

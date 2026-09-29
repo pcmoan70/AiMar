@@ -43,7 +43,15 @@ export default function InspectPanel({ selection, localities, fishhealth, cases,
   const { operatorFilter, fieldFilters, casesOnlyText: onlyText } = useSettings()
   const [picker, setPicker] = useState<{ key: FilterKey; anchor: DOMRect } | null>(null)
   const fmtNum = (n: number) => n.toLocaleString(numberLocale(), { maximumFractionDigits: 0 })
-  if (!selection) return <div className="panel-body muted">{t('inspect.empty')}</div>
+  if (!selection)
+    return (
+      <div className="panel-body muted">
+        <p>{t('inspect.empty')}</p>
+        <p className="empty-symbols">
+          <Sym kind="hearing" /> <Sym kind="newApplication" /> {t('inspect.emptySymbols')}
+        </p>
+      </div>
+    )
 
   if (selection.type === 'farm') {
     const p = selection.props

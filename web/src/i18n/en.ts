@@ -109,6 +109,8 @@ export const en: Record<string, string> = {
   // layer panel
   'layers.overlays': 'Overlays',
   'layers.details': 'Descriptions',
+  'org.eInnsyn survey reports': 'Survey reports via eInnsyn',
+  'licence.Public announcements': 'Public announcements',
   'layers.cache.precache': 'bundled',
   'layers.cache.cache-first': 'cached on view',
   'layers.cache.forecast': 'forecast, cached 1 day',
@@ -281,7 +283,8 @@ export const en: Record<string, string> = {
   'presence.dybdedata': 'charted depth area',
 
   // inspect panel
-  'inspect.empty': 'Click a locality or any point in the sea.',
+  'inspect.empty': 'Click a locality or any point in the sea, or search by name or number at the top.',
+  'inspect.emptySymbols': 'On the map: a circle is a registered locality (coloured by operator when one is chosen), a purple diamond an application at public inspection, a green star an application submitted in the last four weeks, an orange dot an application under processing.',
   'inspect.loknr': 'Locality no.',
   'inspect.status': 'Status',
   'inspect.capacity': 'Capacity',
