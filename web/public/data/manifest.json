@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-09-14T09:51:52.396Z",
+  "retrieved": "2026-10-05T11:28:52.957Z",
   "sources": [
     {
       "file": "localities.geojson",
@@ -17,7 +17,7 @@
       "url": "https://api.fiskeridir.no/pub-aqua/api/v1/sites/{siteNr}/borders",
       "license": "NLOD 2.0",
       "crs": "EPSG:4326",
-      "featureCount": 1367
+      "featureCount": 1368
     },
     {
       "file": "deleted_localities.geojson",
@@ -25,35 +25,17 @@
       "dataset": "Deleted (withdrawn) aquaculture localities from Akvakulturregisteret, with their register entry",
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS/MapServer/5",
       "license": "NLOD 2.0",
-      "featureCount": 2946,
-      "retrieved": "2026-09-15T11:46:22.359Z"
-    },
-    {
-      "file": "fishhealth.json",
-      "organisation": "BarentsWatch",
-      "dataset": "Fish health: weekly lice, treatments, fallow, PD/ILA (2012-01 to 2026-37)",
-      "url": "https://www.barentswatch.no/bwapi/v1/geodata/fishhealth/locality/{year}/{week}",
-      "license": "NLOD 2.0",
-      "featureCount": 2703,
-      "retrieved": "2026-09-15T11:49:34.722Z"
-    },
-    {
-      "file": "cases.json",
-      "organisation": "eInnsyn (Digitaliseringsdirektoratet)",
-      "dataset": "Public-record journal entries on aquaculture cases matched to localities (2010-01-01 onwards)",
-      "url": "https://api.einnsyn.no/search?query=akvakultur",
-      "license": "NLOD 2.0",
-      "featureCount": 137312,
-      "retrieved": "2026-09-28T22:06:06.422Z"
+      "featureCount": 2948,
+      "retrieved": "2026-10-05T11:33:57.701Z"
     },
     {
       "file": "applications.geojson",
       "organisation": "Fiskeridirektoratet",
-      "dataset": "Aquaculture applications under processing: application points (+ 7 from the public application list, 921 rows; 311 enriched from the application API)",
+      "dataset": "Aquaculture applications under processing: application points (+ 0 from the public application list, 932 rows; 288 enriched from the application API)",
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer + https://www.fiskeridir.no/akvakultur/akvakultursoknader/_/service/no.fiskeridir/aqua-download-list?format=csv + https://api.fiskeridir.no/aqua-portal-api-public/api/v1",
       "license": "NLOD 2.0",
-      "featureCount": 311,
-      "retrieved": "2026-09-28T22:07:37.129Z"
+      "featureCount": 288,
+      "retrieved": "2026-10-05T11:36:13.005Z"
     },
     {
       "file": "application_areas.geojson",
@@ -61,8 +43,8 @@
       "dataset": "Aquaculture applications under processing: applied-for areas",
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
       "license": "NLOD 2.0",
-      "featureCount": 288,
-      "retrieved": "2026-09-28T22:07:37.129Z"
+      "featureCount": 261,
+      "retrieved": "2026-10-05T11:36:13.005Z"
     },
     {
       "file": "application_anchors.geojson",
@@ -70,8 +52,8 @@
       "dataset": "Aquaculture applications under processing: applied-for anchor points",
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
       "license": "NLOD 2.0",
-      "featureCount": 3548,
-      "retrieved": "2026-09-28T22:07:37.129Z"
+      "featureCount": 3377,
+      "retrieved": "2026-10-05T11:36:13.005Z"
     },
     {
       "file": "hearings.geojson",
@@ -79,17 +61,26 @@
       "dataset": "Aquaculture applications announced for public inspection, with deadline for remarks",
       "url": "https://norsk.lysingsblad.no/nb/kunngjeringar/andre-kunngjeringar",
       "license": "Public announcements, Lov om Norsk lysingsblad",
-      "featureCount": 17,
-      "retrieved": "2026-09-28T22:07:45.409Z"
+      "featureCount": 19,
+      "retrieved": "2026-10-05T11:36:24.023Z"
     },
     {
-      "file": "current_measurements.geojson",
-      "organisation": "eInnsyn (report authors: Åkerblå, Akvaplan-niva and others)",
-      "dataset": "Measured current speed and direction read out of NS 9425 survey reports published on eInnsyn",
-      "url": "https://api.einnsyn.no/search?query=str%C3%B8mm%C3%A5ling",
+      "file": "cases.json",
+      "organisation": "eInnsyn (Digitaliseringsdirektoratet)",
+      "dataset": "Public-record journal entries on aquaculture cases matched to localities (2010-01-01 onwards)",
+      "url": "https://api.einnsyn.no/search?query=akvakultur",
       "license": "NLOD 2.0",
-      "featureCount": 66,
-      "retrieved": "2026-09-29T02:53:14.369Z"
+      "featureCount": 140726,
+      "retrieved": "2026-10-05T11:56:39.929Z"
+    },
+    {
+      "file": "fishhealth.json",
+      "organisation": "BarentsWatch",
+      "dataset": "Fish health: weekly lice, treatments, fallow, PD/ILA (2012-01 to 2026-40)",
+      "url": "https://www.barentswatch.no/bwapi/v1/geodata/fishhealth/locality/{year}/{week}",
+      "license": "NLOD 2.0",
+      "featureCount": 2707,
+      "retrieved": "2026-10-05T16:59:27.819Z"
     }
   ]
 }
