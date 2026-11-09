@@ -102,6 +102,8 @@ export const OPERATOR_COLOURS: { brand: string; name: string; colour: string }[]
   { brand: 'FYLKESNES', name: 'FYLKESNES FISK AS', colour: '#4d8613' },
   { brand: 'LANGØYLAKS', name: 'LANGØYLAKS AS', colour: '#138630' },
   { brand: 'TELAVÅG', name: 'TELAVÅG FISKEOPPDRETT AS', colour: '#138686' },
+  { brand: 'BOLAKS', name: 'BOLAKS FJORDBRUK AS', colour: '#97aced' },
+  { brand: 'ODE', name: 'ODE AS', colour: '#133086' },
 ]
 // END TABLE
 
