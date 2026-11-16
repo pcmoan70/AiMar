@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-11-09T12:51:41.105Z",
+  "retrieved": "2026-11-16T12:45:16.317Z",
   "sources": [
     {
       "file": "localities.geojson",
@@ -8,7 +8,7 @@
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS/MapServer/3/query?where=1%3D1&outFields=loknr,navn,status_lokalitet,kapasitet_lok,kapasitet_unittype,plassering,vannmiljo,fylke,kommune,til_arter,til_innehavere,til_formaal,til_produksjonsform,prodareacode,klareringsdato,lokalitet_url&f=geojson&outSR=4326",
       "license": "NLOD 2.0",
       "crs": "EPSG:4326",
-      "featureCount": 1785
+      "featureCount": 1786
     },
     {
       "file": "site_polygons.geojson",
@@ -26,16 +26,16 @@
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS/MapServer/5",
       "license": "NLOD 2.0",
       "featureCount": 2950,
-      "retrieved": "2026-11-09T12:56:59.252Z"
+      "retrieved": "2026-11-16T12:51:00.516Z"
     },
     {
       "file": "applications.geojson",
       "organisation": "Fiskeridirektoratet",
-      "dataset": "Aquaculture applications under processing: application points (+ 2 from the public application list, 963 rows; 295 enriched from the application API)",
+      "dataset": "Aquaculture applications under processing: application points (+ 0 from the public application list, 966 rows; 286 enriched from the application API)",
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer + https://www.fiskeridir.no/akvakultur/akvakultursoknader/_/service/no.fiskeridir/aqua-download-list?format=csv + https://api.fiskeridir.no/aqua-portal-api-public/api/v1",
       "license": "NLOD 2.0",
-      "featureCount": 295,
-      "retrieved": "2026-11-09T12:59:21.655Z"
+      "featureCount": 286,
+      "retrieved": "2026-11-16T12:53:46.412Z"
     },
     {
       "file": "application_areas.geojson",
@@ -43,8 +43,8 @@
       "dataset": "Aquaculture applications under processing: applied-for areas",
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
       "license": "NLOD 2.0",
-      "featureCount": 270,
-      "retrieved": "2026-11-09T12:59:21.655Z"
+      "featureCount": 262,
+      "retrieved": "2026-11-16T12:53:46.413Z"
     },
     {
       "file": "application_anchors.geojson",
@@ -52,8 +52,8 @@
       "dataset": "Aquaculture applications under processing: applied-for anchor points",
       "url": "https://gis.fiskeridir.no/server/rest/services/fiskeridirWMS_akva/MapServer",
       "license": "NLOD 2.0",
-      "featureCount": 3476,
-      "retrieved": "2026-11-09T12:59:21.655Z"
+      "featureCount": 3426,
+      "retrieved": "2026-11-16T12:53:46.413Z"
     },
     {
       "file": "hearings.geojson",
@@ -61,8 +61,8 @@
       "dataset": "Aquaculture applications announced for public inspection, with deadline for remarks",
       "url": "https://norsk.lysingsblad.no/nb/kunngjeringar/andre-kunngjeringar",
       "license": "Public announcements, Lov om Norsk lysingsblad",
-      "featureCount": 27,
-      "retrieved": "2026-11-09T12:59:35.152Z"
+      "featureCount": 35,
+      "retrieved": "2026-11-16T12:54:01.802Z"
     },
     {
       "file": "cases.json",
@@ -70,17 +70,17 @@
       "dataset": "Public-record journal entries on aquaculture cases matched to localities (2010-01-01 onwards)",
       "url": "https://api.einnsyn.no/search?query=akvakultur",
       "license": "NLOD 2.0",
-      "featureCount": 148508,
-      "retrieved": "2026-11-09T13:30:46.104Z"
+      "featureCount": 149919,
+      "retrieved": "2026-11-16T13:07:06.939Z"
     },
     {
       "file": "fishhealth.json",
       "organisation": "BarentsWatch",
-      "dataset": "Fish health: weekly lice, treatments, fallow, PD/ILA (2012-01 to 2026-45)",
+      "dataset": "Fish health: weekly lice, treatments, fallow, PD/ILA (2012-01 to 2026-46)",
       "url": "https://www.barentswatch.no/bwapi/v1/geodata/fishhealth/locality/{year}/{week}",
       "license": "NLOD 2.0",
-      "featureCount": 2712,
-      "retrieved": "2026-11-09T18:37:53.278Z"
+      "featureCount": 2713,
+      "retrieved": "2026-11-16T18:10:33.942Z"
     }
   ]
 }
